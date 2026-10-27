@@ -1,0 +1,156 @@
+{
+ "key": "story",
+ "title": "Story",
+ "author": "Robert McKee",
+ "file": "Story Substance, Structure, Style and the Principles of Screenwriting (Robert McKee) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+ "format": "epub",
+ "sha256": "cb853b89192fbb3ebe2649e2c7023068ddf722d05b7807ace87b41e1a8f0cfb7",
+ "words": 135713,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "9780062039828_epub_ded_r1",
+   "words": 483
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "INTRODUCTION",
+   "words": 2346
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "1THE STORY PROBLEM",
+   "words": 6408
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "2THE STRUCTURE SPECTRUM",
+   "words": 11167
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "3STRUCTURE AND SETTING",
+   "words": 3858
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "4STRUCTURE AND GENRE",
+   "words": 6675
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "5STRUCTURE AND CHARACTER",
+   "words": 3389
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "6STRUCTURE AND MEANING",
+   "words": 7135
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "7THE SUBSTANCE OF STORY",
+   "words": 10615
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "8THE INCITING INCIDENT",
+   "words": 9288
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "9ACT DESIGN",
+   "words": 7906
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "10SCENE DESIGN",
+   "words": 6661
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "11SCENE ANALYSIS",
+   "words": 7755
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "12COMPOSITION",
+   "words": 4832
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "13CRISIS, CLIMAX, RESOLUTION",
+   "words": 4002
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "14THE PRINCIPLE OF ANTAGONISM",
+   "words": 3731
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "15EXPOSITION",
+   "words": 4055
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "16PROBLEMS AND SOLUTIONS",
+   "words": 9610
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "17CHARACTER",
+   "words": 4347
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "18THE TEXT",
+   "words": 7193
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "19A WRITER’S METHOD",
+   "words": 2642
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "FADE OUT",
+   "words": 507
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "SUGGESTED READINGS",
+   "words": 261
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "FILMOGRAPHY",
+   "words": 5892
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "INDEX",
+   "words": 4442
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "ACKNOWLEDGMENTS",
+   "words": 283
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "Copyright",
+   "words": 230
+  }
+ ],
+ "warnings": [],
+ "text_quality": {
+  "common_word_share": 0.324,
+  "odd_character_share": 0.005
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-19",
+  "note": "Date is when the file arrived in the source ingest folder."
+ }
+}

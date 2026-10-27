@@ -1,0 +1,252 @@
+{
+ "key": "hitchcock",
+ "title": "The Art of Alfred Hitchcock",
+ "author": "Donald Spoto",
+ "file": "The Art of Alfred Hitchcock.epub",
+ "format": "epub",
+ "sha256": "714eeb611ee313ebaebc10fb6877cc915b1fb47bb157dd6e64eee8345a651aa6",
+ "words": 96435,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "INTRODUCTION TO THE CENTENARY EDITION",
+   "words": 1507
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "A WORD ABOUT THE MACGUFFIN",
+   "words": 176
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "A COMMENTBY PRINCESS GRACE OF MONACO",
+   "words": 286
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "CONTENTS",
+   "words": 170
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "1THE SILENT FILMS (1925–1929)",
+   "words": 5617
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "2BLACKMAIL (PRODUCED AND RELEASED 1929)",
+   "words": 1474
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "3EARLY SOUND FILMS (1930–1934)",
+   "words": 3352
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "4THE 39 STEPS (PRODUCED AND RELEASED 1935)",
+   "words": 1486
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "5SECRET AGENT (PRODUCED 1935, RELEASED 1936)",
+   "words": 1348
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "6SABOTAGE (PRODUCED AND RELEASED 1936)",
+   "words": 2194
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "7YOUNG AND INNOCENT (PRODUCED 1937, RELEASED 1938)",
+   "words": 1588
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "8THE LADY VANISHES (PRODUCED 1937, RELEASED 1938)",
+   "words": 1149
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "9JAMAICA INN (PRODUCED 1938, RELEASED 1939)",
+   "words": 1217
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "10REBECCA (PRODUCED 1939, RELEASED 1940)",
+   "words": 1142
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "11FOREIGN CORRESPONDENT (PRODUCED AND RELEASED 1940)",
+   "words": 1715
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "12MR. AND MRS. SMITH (PRODUCED 1940, RELEASED 1941)",
+   "words": 536
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "13SUSPICION (PRODUCED AND RELEASED 1941)",
+   "words": 2397
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "14SABOTEUR (PRODUCED AND RELEASED 1942)",
+   "words": 1343
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "15SHADOW OF A DOUBT (PRODUCED 1942, RELEASED 1943)",
+   "words": 3645
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "16LIFEBOAT (PRODUCED 1943, RELEASED 1944)",
+   "words": 1584
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "17SPELLBOUND (PRODUCED 1944, RELEASED 1945)",
+   "words": 2276
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "18NOTORIOUS (PRODUCED 1945–46, RELEASED 1946)",
+   "words": 2001
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "19THE PARADINE CASE (PRODUCED 1946–47, RELEASED 1947)",
+   "words": 1951
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "20ROPE (PRODUCED AND RELEASED 1948)",
+   "words": 1706
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "21UNDER CAPRICORN (PRODUCED 1948, RELEASED 1949)",
+   "words": 1312
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "22STAGE FRIGHT (PRODUCED 1949, RELEASED 1950)",
+   "words": 1555
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "23STRANGERS ON A TRAIN (PRODUCED 1950, RELEASED 1951)",
+   "words": 2379
+  },
+  {
+   "file": "ch-028.txt",
+   "title": "24I CONFESS (PRODUCED 1952, RELEASED 1953)",
+   "words": 2514
+  },
+  {
+   "file": "ch-029.txt",
+   "title": "25DIAL M FOR MURDER (PRODUCED 1953, RELEASED 1954)",
+   "words": 1017
+  },
+  {
+   "file": "ch-030.txt",
+   "title": "26REAR WINDOW (PRODUCED 1953, RELEASED 1954)",
+   "words": 2835
+  },
+  {
+   "file": "ch-031.txt",
+   "title": "27TO CATCH A THIEF (PRODUCED 1954, RELEASED 1955)",
+   "words": 1215
+  },
+  {
+   "file": "ch-032.txt",
+   "title": "28THE TROUBLE WITH HARRY (PRODUCED 1954, RELEASED 1955)",
+   "words": 1952
+  },
+  {
+   "file": "ch-033.txt",
+   "title": "29THE MAN WHO KNEW TOO MUCH (PRODUCED 1955, RELEASED 1956)",
+   "words": 3772
+  },
+  {
+   "file": "ch-034.txt",
+   "title": "30THE WRONG MAN (PRODUCED AND RELEASED 1956)",
+   "words": 1797
+  },
+  {
+   "file": "ch-035.txt",
+   "title": "31VERTIGO (PRODUCED 1957, RELEASED 1958)",
+   "words": 10598
+  },
+  {
+   "file": "ch-036.txt",
+   "title": "32NORTH BY NORTHWEST (PRODUCED 1958, RELEASED 1959)",
+   "words": 2422
+  },
+  {
+   "file": "ch-037.txt",
+   "title": "33PSYCHO (PRODUCED 1959-60; RELEASED 1960)",
+   "words": 3617
+  },
+  {
+   "file": "ch-038.txt",
+   "title": "34THE BIRDS (PRODUCED 1962, RELEASED 1963)",
+   "words": 2554
+  },
+  {
+   "file": "ch-039.txt",
+   "title": "35MARNIE (PRODUCED 1963–64; RELEASED 1964)",
+   "words": 2540
+  },
+  {
+   "file": "ch-040.txt",
+   "title": "36TORN CURTAIN (PRODUCED 1965–66; RELEASED 1966)",
+   "words": 1482
+  },
+  {
+   "file": "ch-041.txt",
+   "title": "37TOPAZ (PRODUCED 1968–69, RELEASED 1969)",
+   "words": 1960
+  },
+  {
+   "file": "ch-042.txt",
+   "title": "38FRENZY (PRODUCED 1971, RELEASED 1972)",
+   "words": 1282
+  },
+  {
+   "file": "ch-043.txt",
+   "title": "39FAMILY PLOT (PRODUCED 1975, RELEASED 1976)",
+   "words": 2223
+  },
+  {
+   "file": "ch-044.txt",
+   "title": "STORYBOARD",
+   "words": 246
+  },
+  {
+   "file": "ch-045.txt",
+   "title": "A HITCHCOCK ALBUM",
+   "words": 331
+  },
+  {
+   "file": "ch-046.txt",
+   "title": "FILMOGRAPHY",
+   "words": 4972
+  }
+ ],
+ "warnings": [],
+ "text_quality": {
+  "common_word_share": 0.337,
+  "odd_character_share": 0.002
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-19",
+  "source_file": "The Art of Alfred Hitchcock.epub",
+  "note": "Date is when the file arrived in the source ingest folder."
+ }
+}

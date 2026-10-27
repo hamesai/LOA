@@ -1,0 +1,176 @@
+{
+ "key": "filmmakers-handbook",
+ "title": "The Filmmaker's Handbook: A Comprehensive Guide for the Digital Age",
+ "author": "Edward Pincus, Steven Ascher",
+ "file": "Ascher S.epub",
+ "format": "epub",
+ "sha256": "481fb33390ede32d7ae4d37b3c114c105fe05fe7a5a9f138c12bd57faf5c345a",
+ "words": 346182,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "part0000",
+   "words": 223
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "part0002",
+   "words": 469
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "CONTENTS",
+   "words": 1063
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "PREFACE",
+   "words": 651
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "CHAPTER 1",
+   "words": 19436
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "CHAPTER 2",
+   "words": 21874
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "CHAPTER 3",
+   "words": 17401
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "CHAPTER 4",
+   "words": 17755
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "CHAPTER 5",
+   "words": 29885
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "part0011",
+   "words": 1136
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "CHAPTER 6",
+   "words": 6949
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "CHAPTER 7",
+   "words": 13371
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "CHAPTER 8",
+   "words": 6135
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "CHAPTER 9",
+   "words": 33402
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "CHAPTER 10",
+   "words": 11956
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "CHAPTER 11",
+   "words": 15526
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "CHAPTER 12",
+   "words": 18328
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "CHAPTER 13",
+   "words": 11147
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "CHAPTER 14",
+   "words": 30059
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "part0021",
+   "words": 11119
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "part0022",
+   "words": 827
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "CHAPTER 15",
+   "words": 17805
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "CHAPTER 16",
+   "words": 18209
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "CHAPTER 17",
+   "words": 24779
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "APPENDIX A",
+   "words": 2910
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "APPENDIX C",
+   "words": 565
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "APPENDIX D",
+   "words": 152
+  },
+  {
+   "file": "ch-028.txt",
+   "title": "APPENDIX E",
+   "words": 541
+  },
+  {
+   "file": "ch-029.txt",
+   "title": "BIBLIOGRAPHY",
+   "words": 1126
+  },
+  {
+   "file": "ch-030.txt",
+   "title": "WEBSITES",
+   "words": 845
+  },
+  {
+   "file": "ch-031.txt",
+   "title": "INDEX",
+   "words": 10538
+  }
+ ],
+ "warnings": [],
+ "text_quality": {
+  "common_word_share": 0.32,
+  "odd_character_share": 0.006
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-19",
+  "note": "Date is when the file arrived in the source ingest folder."
+ }
+}

@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cinematography test chart</title>
+<style>
+  body { font: 14px/1.4 system-ui, Segoe UI, Arial, sans-serif; margin: 0; background: #fff; color: #111; }
+  .page { width: 190mm; margin: 8mm auto; }
+  h1 { font-size: 1.2rem; margin: 0 0 4px; }
+  p { margin: 2px 0 8px; font-size: .85rem; color: #333; }
+  svg { width: 100%; height: auto; border: 1px solid #000; display: block; }
+  button { font: inherit; padding: 6px 12px; border: 1px solid #000; background: #fff; border-radius: 4px; cursor: pointer; margin-bottom: 8px; }
+  @media print { button { display: none; } .page { margin: 0 auto; } @page { size: A4 landscape; margin: 8mm; } }
+</style>
+</head>
+<body>
+<div class="page">
+<button onclick="window.print()">Print on A4 landscape</button>
+<h1>Test chart: exposure, focus and framing</h1>
+<p>Print at 100% (no scaling) on plain white paper, tape it to a flat wall, and light it evenly. Frame so the red outer box just fills your frame. The grey steps are printed greys, so use a proper 18% grey card for metering and use this chart to compare steps, not to calibrate. Use it for the Module 3 lens test and the Module 6 grey-card bracket.</p>
+<svg viewBox="0 0 270 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Test chart with grey steps, focus lines and frame guides">
+  <rect x="0" y="0" width="270" height="150" fill="#fff"/>
+  <rect x="2" y="2" width="266" height="146" fill="none" stroke="#c00" stroke-width="1.2"/>
+  <!-- frame guides: 16:9 and 2.39:1 inside a 3:2 ish chart -->
+  <rect x="9" y="4.1" width="252" height="141.75" fill="none" stroke="#06c" stroke-width="0.6" stroke-dasharray="3 2"/>
+  <rect x="9" y="22.3" width="252" height="105.4" fill="none" stroke="#080" stroke-width="0.6" stroke-dasharray="3 2"/>
+  <text x="11" y="9" font-size="4" fill="#06c">16:9 guide (frame edge)</text>
+  <text x="11" y="27" font-size="4" fill="#080">2.39:1 guide (frame edge)</text>
+  <!-- grey step wedge: 11 steps -->
+  <g id="steps"></g>
+  <text x="135" y="52" font-size="4" text-anchor="middle" fill="#000">Grey steps, white to black. Count how many steps you can still tell apart.</text>
+  <!-- focus lines (sharp lines, increasing density) -->
+  <g id="focus"></g>
+  <text x="135" y="132" font-size="4" text-anchor="middle" fill="#000">Focus lines. Check the centre and each corner at every aperture.</text>
+  <!-- centre cross and corner marks -->
+  <path d="M135 62 V122 M105 92 H165" stroke="#000" stroke-width="0.4"/>
+  <circle cx="135" cy="92" r="14" fill="none" stroke="#000" stroke-width="0.4"/>
+  <g id="corners"></g>
+  <text x="135" y="146" font-size="3.5" text-anchor="middle" fill="#555">Note aperture, lens, focal length and distance on each test frame.</text>
+</svg>
+</div>
+<script>
+(function () {
+  var NS = "http://www.w3.org/2000/svg", steps = document.getElementById("steps"), n = 11, x0 = 20, w = 21, y = 30;
+  for (var i = 0; i < n; i++) {
+    var v = Math.round(255 * (1 - i / (n - 1))), r = document.createElementNS(NS, "rect");
+    r.setAttribute("x", x0 + i * w); r.setAttribute("y", y); r.setAttribute("width", w); r.setAttribute("height", 18);
+    r.setAttribute("fill", "rgb(" + v + "," + v + "," + v + ")"); r.setAttribute("stroke", "#000"); r.setAttribute("stroke-width", "0.3");
+    steps.appendChild(r);
+    var t = document.createElementNS(NS, "text"); t.setAttribute("x", x0 + i * w + w / 2); t.setAttribute("y", 29); t.setAttribute("font-size", "3.4"); t.setAttribute("text-anchor", "middle"); t.textContent = String(i + 1); steps.appendChild(t);
+  }
+  var focus = document.getElementById("focus");
+  function lines(cx, cy, gap, count) {
+    for (var k = 0; k < count; k++) { var l = document.createElementNS(NS, "line"); l.setAttribute("x1", cx - 10 + k * gap); l.setAttribute("x2", cx - 10 + k * gap); l.setAttribute("y1", cy - 8); l.setAttribute("y2", cy + 8); l.setAttribute("stroke", "#000"); l.setAttribute("stroke-width", gap / 2); focus.appendChild(l); }
+  }
+  lines(40, 78, 1.0, 20); lines(40, 102, 1.4, 14); lines(230, 78, 1.0, 20); lines(230, 102, 1.4, 14);
+  var corners = document.getElementById("corners");
+  [[18, 62], [252, 62], [18, 122], [252, 122]].forEach(function (c) { lines.call(null, c[0], c[1], 1.2, 12); });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+{
+ "key": "eastman-tinting-toning",
+ "title": "Tinting and toning of Eastman positive motion picture film",
+ "author": "",
+ "file": "Eastman - Tinting and toning of Eastman positive motion picture film (Gutenberg 70417).txt",
+ "format": "txt",
+ "sha256": "499852fbbc89c706652619cd24f5c0b1245ba4dd8ba24b5e0d9ba50cd0b55b32",
+ "words": 12015,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "The Project Gutenberg eBook of Tinting and toning of Eastman positive motion picture film",
+   "words": 715
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "PART I.",
+   "words": 2791
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "PART II.",
+   "words": 8509
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (34% common English words, 1.7% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "text_quality": {
+  "common_word_share": 0.341,
+  "odd_character_share": 0.017
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-26",
+  "url": "https://www.gutenberg.org/ebooks/70417"
+ }
+}

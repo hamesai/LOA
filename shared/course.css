@@ -1,0 +1,194 @@
+/* Course slides and reading view. Uses the page's colour tokens, so it follows light and dark. */
+sup.cite { line-height: 0; margin-left: 1px; }
+sup.cite a { text-decoration: none; font: 600 0.68em var(--f-mono); color: var(--accent); padding: 0 2px; }
+sup.cite a:hover { text-decoration: underline; }
+code { font: 0.92em var(--f-mono); background: var(--bg); border: 1px solid var(--line); border-radius: 4px; padding: 0 0.25em; }
+
+/* shared blocks */
+.cl { border-left: 4px solid var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); border-radius: 0 6px 6px 0; padding: 0.6rem 0.9rem; display: grid; gap: 0.2rem; }
+.cl p { margin: 0; }
+.cl-l, .act-l, .keytake-l { font: 500 0.7rem/1 var(--f-mono); text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); }
+.cl-warn { border-left-color: var(--warn); background: color-mix(in srgb, var(--warn) 10%, transparent); }
+.cl-warn .cl-l { color: var(--warn); }
+.cl-tip { border-left-color: var(--ok); background: color-mix(in srgb, var(--ok) 9%, transparent); }
+.cl-tip .cl-l { color: var(--ok); }
+.ex { background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 0.8rem 1rem; display: grid; gap: 0.5rem; }
+.ex-t { font: 600 1rem var(--f-display); }
+.ex ol { margin: 0; padding-left: 1.4rem; display: grid; gap: 0.45rem; }
+.act { border: 1.5px dashed var(--accent); border-radius: 8px; padding: 0.8rem 1rem; display: grid; gap: 0.3rem; }
+.act p { margin: 0; }
+.keytake { background: color-mix(in srgb, var(--accent) 7%, transparent); border-radius: 8px; padding: 0.8rem 1rem; display: grid; gap: 0.4rem; }
+.keytake ul { margin: 0; padding-left: 1.2rem; display: grid; gap: 0.35rem; }
+dl.terms { display: grid; grid-template-columns: minmax(7rem, 11rem) 1fr; gap: 0.5rem 1.2rem; margin: 0; }
+dl.terms dt { font-weight: 600; color: var(--accent); }
+dl.terms dd { margin: 0; }
+.ctable table { font-size: 0.95em; }
+.ctable td, .ctable th { vertical-align: top; }
+.tsrc { margin: 0; padding: 0.4rem 0.8rem; font-size: 0.78rem; color: var(--muted); border-top: 1px solid var(--line); }
+.fig { margin: 0; display: grid; gap: 0.4rem; }
+.fig svg { max-height: 52vh; width: 100%; height: auto; }
+.fig figcaption { font-size: 0.88rem; color: var(--muted); }
+.chk-q { background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 0.9rem 1rem; display: grid; gap: 0.6rem; }
+.chk-q .q { margin: 0; font-weight: 600; }
+.vid { background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 0.9rem 1rem; display: grid; gap: 0.5rem; }
+.vid-t { font: 600 1.05rem var(--f-display); }
+.vid-by { font: 400 0.8rem var(--f-mono); color: var(--muted); }
+.vid-n, .vid-h { margin: 0; font-size: 0.88rem; color: var(--muted); }
+.vid-frame iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 6px; background: #000; }
+ol.refs { margin: 0; padding-left: 1.6rem; display: grid; gap: 0.5rem; font-size: 0.92rem; }
+.refs-s { color: var(--muted); }
+ol.road { margin: 0; padding-left: 1.5rem; display: grid; gap: 0.5rem; }
+
+/* slide layouts: sizes are in em inside .sin, so --sz scales a whole slide to fit its frame */
+.slide.k-section .sin { align-content: center; }
+.slide.k-section .sin ul { font-size: 0.95em; color: var(--muted); }
+.sin .cl p { font-size: 0.92em; }
+.sin .cl { padding: 0.55em 0.85em; }
+.sin .ex { padding: 0.8em 1em; }
+.sin .ex-t { font-size: 1em; }
+.sin ol.road, .sin ol.refs { font-size: 1em; }
+.sin ol.refs { font-size: 0.88em; }
+.sin .ctable { font-size: 0.8em; }
+.sin .ctable table { font-size: 1em; }
+.sin .ctable th, .sin .ctable td { padding: 0.45em 0.65em; }
+.sin .ctable th { font-size: 0.72em; }
+.sin .tsrc { font-size: 0.72em; }
+.sin dl.terms { font-size: 0.95em; grid-template-columns: minmax(6em, 10em) 1fr; }
+.sin .act p { font-size: 1.02em; }
+.sin .chk-q { padding: 0.8em 0.9em; }
+.sin .chk-q .q { font-size: 1.1em; }
+.sin .qopt { font-size: 0.88em; padding: 0.45em 0.7em; }
+.sin .qwhy { font-size: 0.85em; color: var(--muted); }
+.sin .vid { padding: 0.8em 0.9em; }
+.sin .vid-t { font-size: 1.1em; }
+.sin .vid-by, .sin .vid-n, .sin .vid-h { font-size: 0.78em; }
+.sin .vid-frame iframe { width: auto; height: calc(21cqw * var(--sz, 1)); max-width: 100%; aspect-ratio: 16 / 9; }
+.sin .fig svg { max-height: calc(33cqw * var(--sz, 1)); width: 100%; height: auto; }
+.sin .fig figcaption { font-size: 0.78em; }
+.sin .btn { font-size: 0.85em; }
+
+/* slides tab inside the module page */
+.sl-wrap { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: 1.25rem; align-items: start; }
+.sl-nav { display: grid; gap: 0.25rem; position: sticky; top: 0.5rem; align-content: start; }
+.sl-nav button { text-align: left; background: none; border: 0; border-left: 3px solid var(--line); padding: 0.4rem 0.6rem; cursor: pointer; font: 400 0.88rem var(--f-body); color: var(--muted); }
+.sl-nav button[aria-current="true"] { border-left-color: var(--accent); color: var(--ink); font-weight: 600; }
+.sl-nav .sl-h { font: 500 0.7rem var(--f-mono); text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); padding: 0 0 0.3rem; }
+.sl-jump { display: none; }
+.sl-main { display: grid; gap: 0.6rem; min-width: 0; }
+.sl-bar { height: 4px; background: var(--line); border-radius: 2px; overflow: hidden; }
+.sl-bar i { display: block; height: 100%; background: var(--accent); }
+@media (max-width: 860px) { .sl-wrap { grid-template-columns: 1fr; } .sl-nav { display: none; } .sl-jump { display: block; } }
+
+/* notes (reading view) */
+.notes { display: grid; gap: 1rem; max-width: 46rem; }
+.notes .lead { font-size: 1.1rem; color: var(--muted); }
+.notes .lesson { display: grid; gap: 0.8rem; padding-top: 1rem; border-top: 1px solid var(--line); }
+.notes .lesson h2 { font-size: 1.5rem; }
+.notes .lmeta { margin: -0.4rem 0 0; font-size: 0.8rem; color: var(--muted); }
+.notes h3 { font-size: 1.1rem; margin-top: 0.4rem; }
+.notes p, .notes li { font-size: 1.02rem; }
+.notes ul, .notes ol { margin: 0; padding-left: 1.3rem; display: grid; gap: 0.4rem; }
+
+/* lecturers */
+.lecturer { border: 1px solid var(--line); border-left: 4px solid var(--accent); border-radius: 6px; padding: 0.8rem 1rem; margin: 0 0 1.2rem; display: grid; gap: 0.35rem; background: var(--bg); }
+.lecturer h4 { margin: 0; }
+.lecturer p { margin: 0; }
+.lecturer blockquote, .sin blockquote.lec-q { margin: 0.3rem 0; padding-left: 0.8rem; border-left: 2px solid var(--line); font-style: italic; }
+.lec-k, .lec-note { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; }
+.lec-known, .lec-why { color: var(--muted); font-size: 0.92rem; }
+.sin blockquote.lec-q { font-size: 1.15em; }
+.lec-note-q { margin: 0.4rem 0 0.8rem; padding: 0.5rem 0.8rem; border-left: 3px solid var(--accent); background: var(--bg); font-style: italic; }
+.lec-note-q strong { font-style: normal; }
+.lec-src { font-size: 0.85rem; }
+
+/* meet your lecturers */
+.lec-blurb { margin: 0 0 0.9rem; color: var(--muted); }
+.lec-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: 0.8rem; }
+.lec-card { border: 1px solid var(--line); border-radius: 6px; padding: 0.8rem 0.95rem; background: var(--bg); display: grid; gap: 0.35rem; align-content: start; }
+.lec-card h3 { margin: 0; font-size: 1.05rem; }
+.lec-card p { margin: 0; }
+.lec-yrs { font-size: 0.78rem; color: var(--muted); }
+.lec-hist { font-size: 0.92rem; }
+.lec-help { font-size: 0.92rem; }
+.lec-leads { display: flex; flex-wrap: wrap; gap: 0.35rem; align-items: center; }
+
+/* about this course */
+.about { display: grid; gap: 0.5rem; }
+.about h4 { margin: 0.6rem 0 0; font-size: 0.95rem; }
+.about p, .about ul { margin: 0; }
+.about ul { padding-left: 1.2rem; display: grid; gap: 0.25rem; }
+.about-sum { font-size: 1.02rem; }
+.about-facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(7.5rem, 1fr)); gap: 0.5rem; margin: 0.3rem 0; }
+.about-facts div { border: 1px solid var(--line); border-radius: 6px; padding: 0.4rem 0.6rem; }
+.about-facts dt { font: 500 0.7rem/1 var(--f-mono); text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+.about-facts dd { margin: 0.25rem 0 0; font-weight: 600; }
+.about-note { font-size: 0.88rem; color: var(--muted); }
+
+/* notes: the deeper scope behind a module */
+.deep { gap: 1.4rem; }
+.dhead h2 { margin: 0.2rem 0 0.4rem; font-size: 1.7rem; }
+.dsec { display: grid; gap: 0.5rem; padding-top: 1rem; border-top: 1px solid var(--line); }
+.dsec h3 { margin: 0; font: 500 0.78rem/1.2 var(--f-mono); text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); }
+.dsec p { margin: 0; }
+.dhint { font-size: 0.82rem; color: var(--muted); }
+.dpath { font-size: 0.8rem; color: var(--muted); overflow-wrap: anywhere; }
+.dpath strong { color: var(--fg, inherit); }
+.dskills { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.5rem; }
+.dskills li { display: grid; grid-template-columns: 4.6rem 1fr; gap: 0.7rem; align-items: baseline; }
+.dtag { font: 600 0.7rem/1 var(--f-mono); text-transform: uppercase; letter-spacing: 0.08em; text-align: center; padding: 0.3rem 0.4rem; border-radius: 999px; border: 1px solid var(--accent); color: var(--accent); }
+.dtag-reason { border-style: dashed; }
+.dtag-do { background: color-mix(in srgb, var(--accent) 14%, transparent); }
+.dtag-judge { background: var(--accent); color: var(--bg); }
+.dsrc { margin: 0; padding-left: 1.3rem; display: grid; gap: 0.4rem; }
+.dmix { display: grid; gap: 0.35rem; }
+.dmix-r { display: grid; grid-template-columns: 9rem 1fr 2rem; gap: 0.2rem 0.7rem; align-items: center; }
+.dmix-l { font-size: 0.92rem; }
+.dmix-b { height: 0.6rem; background: color-mix(in srgb, var(--accent) 12%, transparent); border-radius: 999px; overflow: hidden; }
+.dmix-b i { display: block; height: 100%; background: var(--accent); border-radius: 999px; }
+.dmix-n { font-size: 0.8rem; text-align: right; }
+.dmix-w { grid-column: 2 / 4; font-size: 0.78rem; color: var(--muted); margin-top: -0.15rem; }
+.dfull { border: 1px solid var(--line); border-radius: 8px; padding: 0.6rem 1rem; }
+.dfull summary { cursor: pointer; font-weight: 600; }
+.dfull[open] summary { margin-bottom: 1rem; }
+@media (max-width: 34rem) { .dmix-r { grid-template-columns: 7rem 1fr 1.6rem; } .dskills li { grid-template-columns: 1fr; gap: 0.2rem; } }
+.dnote { font-size: 0.98rem; }
+.dnote strong { color: var(--accent); }
+.dlessons { margin: 0; padding-left: 1.3rem; display: grid; gap: 0.7rem; }
+.dlessons li { display: grid; gap: 0.15rem; }
+.dmeta { font-size: 0.74rem; color: var(--muted); }
+.dex { font-size: 0.88rem; color: var(--muted); }
+.dchips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.dchip { font-size: 0.85rem; padding: 0.2rem 0.65rem; border: 1px solid var(--line); border-radius: 999px; }
+.dwarn { margin: 0; padding-left: 1.2rem; display: grid; gap: 0.5rem; }
+.ddrop { padding-top: 1rem; }
+.ddrop > summary { cursor: pointer; font: 500 0.78rem/1.2 var(--f-mono); text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); }
+.ddrop[open] > summary { margin-bottom: 0.5rem; }
+.ddrop-b { display: grid; gap: 0.5rem; margin-top: 0.5rem; }
+.ddrop-b p { margin: 0; }
+.dinf { display: grid; gap: 0.4rem; }
+.dadd { display: block; font-size: 0.9rem; color: var(--muted); margin-top: 0.15rem; }
+.dadd em { font-style: normal; font-weight: 600; color: var(--accent); }
+.dsrc li { display: grid; gap: 0.1rem; }
+.dsrc { padding-left: 0; }
+.dinf { border: 1px solid var(--line); border-radius: 8px; padding: 0.5rem 0.9rem; }
+.dinf summary { cursor: pointer; font-weight: 600; overflow-wrap: anywhere; }
+.dinf[open] summary { margin-bottom: 0.4rem; }
+.dinf p { margin: 0.3rem 0; }
+.dinf .dadd { display: block; }
+.dadd-l { margin: 0.3rem 0 0; padding-left: 0; list-style: none; display: grid; gap: 0.4rem; }
+.dadd-n { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--accent); }
+.dadd-t { margin: 0.3rem 0 0 !important; font-size: 0.85rem; }
+.dgrp { margin: 0.8rem 0 0.2rem; font: 500 0.74rem/1.3 var(--f-mono); text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+.dgd { border: 1px solid var(--line); border-radius: 8px; padding: 0.5rem 0.9rem; }
+.dgd > summary { cursor: pointer; font-weight: 600; }
+.dgd[open] > summary { margin-bottom: 0.6rem; }
+.dtabs { display: flex; flex-wrap: wrap; gap: 0.35rem; border-bottom: 1px solid var(--line); padding-bottom: 0.5rem; margin-bottom: 0.7rem; }
+.dtab { font: 500 0.8rem/1.2 var(--f-mono); padding: 0.35rem 0.7rem; border: 1px solid var(--line); border-radius: 999px; background: transparent; color: inherit; cursor: pointer; }
+.dtab[aria-selected="true"] { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+.dpanel[hidden] { display: none; }
+.dpanel p { margin: 0.3rem 0; }
+.dtitle { font-weight: 600; overflow-wrap: anywhere; }
+.dbody { display: block; }
+.dbody > p, .dbody > ul, .dbody > ol, .dbody > div { margin-top: 0.5rem; }
+.dbody > summary + * { margin-top: 0.2rem; }
+.dall { justify-self: start; margin-top: 0.4rem; }

@@ -1,0 +1,51 @@
+{
+ "key": "kodak-vision3-500t",
+ "title": "KODAK VISION3 500T Technical Information",
+ "author": "Barlow",
+ "file": "Kodak - VISION3 500T technical information (H-1-5219).pdf",
+ "format": "pdf",
+ "sha256": "6d037d8090373ee50d10bedfff3df14777a575dd107c50edcafc7ec5862d0972",
+ "words": 1888,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Base",
+   "words": 572,
+   "pages": [
+    1,
+    1
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Post-Production",
+   "words": 781,
+   "pages": [
+    2,
+    2
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Image Structure",
+   "words": 535,
+   "pages": [
+    3,
+    4
+   ]
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (26% common English words, 3.4% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "text_quality": {
+  "common_word_share": 0.257,
+  "odd_character_share": 0.034
+ },
+ "provenance": {
+  "found_by": "source-discovery",
+  "added": "2026-10-26",
+  "url": "https://www.kodak.com/content/pdfs/motion/KODAK-VISION3-500T-5219-7219-technical-information.pdf",
+  "query": "Source Discovery, 26/10/2026"
+ }
+}

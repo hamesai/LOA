@@ -1,0 +1,156 @@
+{
+ "key": "no-nonsense-filmmaking",
+ "title": "No-Nonsense Filmmaking",
+ "author": "",
+ "file": "No-Nonsense Filmmaking (Livingstone 2025, CC BY-NC-SA).pdf",
+ "format": "pdf",
+ "sha256": "7dc85736999388529054a452671115af81c65a066d51a1b78e88962ba3603062",
+ "words": 23100,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Front matter",
+   "words": 34,
+   "pages": [
+    1,
+    4
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Contents",
+   "words": 133,
+   "pages": [
+    5,
+    6
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "The Beginning of Something",
+   "words": 270,
+   "pages": [
+    7,
+    8
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Spoilers Ahead",
+   "words": 2605,
+   "pages": [
+    9,
+    20
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Cinematic Space",
+   "words": 1802,
+   "pages": [
+    21,
+    30
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Camera",
+   "words": 953,
+   "pages": [
+    31,
+    36
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Light",
+   "words": 1756,
+   "pages": [
+    37,
+    46
+   ]
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Sound",
+   "words": 1846,
+   "pages": [
+    47,
+    58
+   ]
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "The Shot",
+   "words": 2633,
+   "pages": [
+    59,
+    74
+   ]
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "The Edit",
+   "words": 4264,
+   "pages": [
+    75,
+    94
+   ]
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "The Stages of Production",
+   "words": 4812,
+   "pages": [
+    95,
+    114
+   ]
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "The Beginning of Something Else",
+   "words": 417,
+   "pages": [
+    115,
+    118
+   ]
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "About the Authors",
+   "words": 293,
+   "pages": [
+    119,
+    120
+   ]
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Thank You",
+   "words": 541,
+   "pages": [
+    121,
+    122
+   ]
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "Accessibility Statement",
+   "words": 741,
+   "pages": [
+    123,
+    125
+   ]
+  }
+ ],
+ "warnings": [],
+ "text_quality": {
+  "common_word_share": 0.294,
+  "odd_character_share": 0.011
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-26",
+  "url": "https://lmu.pressbooks.pub/filmmaking/"
+ }
+}

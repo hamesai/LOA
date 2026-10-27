@@ -1,0 +1,512 @@
+{
+ "a64af5cd": {
+  "state": "applied",
+  "note": "auto: module 2, lesson How a stills camera became a cine camera",
+  "date": "2026-10-19"
+ },
+ "6f209d79": {
+  "state": "applied",
+  "note": "auto: module 1, lesson Choosing a base frame rate",
+  "date": "2026-10-19"
+ },
+ "c9677c28": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Picture profiles, log and the exposure aids",
+  "date": "2026-10-19"
+ },
+ "5c230895": {
+  "state": "applied",
+  "note": "auto: module 4, lesson Three-point and four-point lighting",
+  "date": "2026-10-19"
+ },
+ "997107e4": {
+  "state": "applied",
+  "note": "auto: module 3, lesson Aperture, T-stops and depth of field",
+  "date": "2026-10-19"
+ },
+ "ccbe1048": {
+  "state": "applied",
+  "note": "auto: module 3, lesson Choosing lenses: primes, zooms and adapters",
+  "date": "2026-10-19"
+ },
+ "be228a18": {
+  "state": "applied",
+  "note": "auto: module 1, lesson Choosing a base frame rate",
+  "date": "2026-10-19"
+ },
+ "1752afd8": {
+  "state": "applied",
+  "note": "auto: module 1, lesson Choosing a base frame rate",
+  "date": "2026-10-19"
+ },
+ "dd96f28f": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Backups, data rates, power and monitors",
+  "date": "2026-10-19"
+ },
+ "6e1d32a8": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Sensor size and crop factor",
+  "date": "2026-10-19"
+ },
+ "65bbf482": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Backups, data rates, power and monitors",
+  "date": "2026-10-19"
+ },
+ "94998b2f": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Dynamic range, gamma and what ISO really does",
+  "date": "2026-10-19"
+ },
+ "38c3cdd3": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Dynamic range, gamma and what ISO really does",
+  "date": "2026-10-19"
+ },
+ "07530f82": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Dynamic range, gamma and what ISO really does",
+  "date": "2026-10-19"
+ },
+ "0bf4668e": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Picture profiles, log and the exposure aids",
+  "date": "2026-10-19"
+ },
+ "56d2f7ca": {
+  "state": "applied",
+  "note": "auto: module 6, lesson The characteristic curve, push, pull and latitude",
+  "date": "2026-10-19"
+ },
+ "8eeed9b4": {
+  "state": "applied",
+  "note": "auto: module 6, lesson The characteristic curve, push, pull and latitude",
+  "date": "2026-10-19"
+ },
+ "79b96711": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Film stocks, speed and colour balance",
+  "date": "2026-10-19"
+ },
+ "5a4290d7": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Shooting film: test, meter, protect and process",
+  "date": "2026-10-19"
+ },
+ "396f093f": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Metering: incident, reflected, skin and backlight",
+  "date": "2026-10-19"
+ },
+ "2db24f19": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Metering: incident, reflected, skin and backlight",
+  "date": "2026-10-19"
+ },
+ "6fdf8f01": {
+  "state": "applied",
+  "note": "auto: module 6, lesson The characteristic curve, push, pull and latitude",
+  "date": "2026-10-19"
+ },
+ "b2053f01": {
+  "state": "applied",
+  "note": "auto: module 5, lesson Camera movement and what carries it",
+  "date": "2026-10-19"
+ },
+ "56046fae": {
+  "state": "applied",
+  "note": "auto: module 5, lesson Point of view, suspense and the cut",
+  "date": "2026-10-19"
+ },
+ "d9c80c25": {
+  "state": "applied",
+  "note": "auto: module 5, lesson Camera movement and what carries it",
+  "date": "2026-10-19"
+ },
+ "e9ce8022": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Keycode, shot logs, pulldown phase and matchback",
+  "date": "2026-10-19"
+ },
+ "d3935450": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Grading, legal levels and delivery",
+  "date": "2026-10-19"
+ },
+ "6ec56fcd": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Grading, legal levels and delivery",
+  "date": "2026-10-19"
+ },
+ "8481f75d": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Keycode, shot logs, pulldown phase and matchback",
+  "date": "2026-10-19"
+ },
+ "6cb7708d": {
+  "state": "applied",
+  "note": "auto: module 3, lesson Lens tables: circle of confusion and equivalents",
+  "date": "2026-10-19"
+ },
+ "9c4f75e8": {
+  "state": "applied",
+  "note": "auto: module 1, lesson Choosing a frame rate and shutter for the room you are in",
+  "date": "2026-10-19"
+ },
+ "7ac6c291": {
+  "state": "applied",
+  "note": "auto: module 1, lesson Changing brightness without changing the look",
+  "date": "2026-10-19"
+ },
+ "2829e667": {
+  "state": "applied",
+  "note": "auto: module 4, lesson Colour temperature and white balance",
+  "date": "2026-10-19"
+ },
+ "4f1eb508": {
+  "state": "applied",
+  "note": "auto: module 6, lesson The camera-side routine: shutter, gate, loading and labels",
+  "date": "2026-10-19"
+ },
+ "a8c491d1": {
+  "state": "applied",
+  "note": "auto: module 7, lesson The hybrid workflow: ingest, grade and deliver",
+  "date": "2026-10-19"
+ },
+ "45dc6f61": {
+  "state": "applied",
+  "note": "auto: module 7, lesson How analog video draws a picture",
+  "date": "2026-10-19"
+ },
+ "a601bfc4": {
+  "state": "applied",
+  "note": "auto: module 6, lesson The gauges: Super 8, 16 mm and 35 mm",
+  "date": "2026-10-19"
+ },
+ "276c5f41": {
+  "state": "applied",
+  "note": "auto: module 7, lesson The hybrid workflow: ingest, grade and deliver",
+  "date": "2026-10-19"
+ },
+ "2c8ebfa4": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Sound, support and a pre-shoot check",
+  "date": "2026-10-19"
+ },
+ "f575bbe0": {
+  "state": "applied",
+  "note": "auto: module 1, lesson Frame rate and shutter angle",
+  "date": "2026-10-19"
+ },
+ "aa6ac7c6": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Dynamic range, gamma and what ISO really does",
+  "date": "2026-10-19"
+ },
+ "194eeb06": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Dynamic range, gamma and what ISO really does",
+  "date": "2026-10-19"
+ },
+ "56a36979": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Dynamic range, gamma and what ISO really does",
+  "date": "2026-10-19"
+ },
+ "1ae80922": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Keycode, shot logs, pulldown phase and matchback",
+  "date": "2026-10-19"
+ },
+ "8d809ae8": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Picture profiles, log and the exposure aids",
+  "date": "2026-10-19"
+ },
+ "7390da21": {
+  "state": "applied",
+  "note": "auto: module 7, lesson The tape formats: VHS, Hi8 and Betacam",
+  "date": "2026-10-19"
+ },
+ "1e75f361": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Metering: incident, reflected, skin and backlight",
+  "date": "2026-10-19"
+ },
+ "028ce988": {
+  "state": "applied",
+  "note": "auto: module 5, lesson Coverage and the shot list",
+  "date": "2026-10-19"
+ },
+ "ca0c7f37": {
+  "state": "applied",
+  "note": "auto: module 5, lesson Documentary habits, slates and the shooting ratio",
+  "date": "2026-10-19"
+ },
+ "7deaf59f": {
+  "state": "applied",
+  "note": "auto: module 5, lesson Documentary habits, slates and the shooting ratio",
+  "date": "2026-10-19"
+ },
+ "72ead71e": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Keycode, shot logs, pulldown phase and matchback",
+  "date": "2026-10-19"
+ },
+ "730aabf4": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Picture profiles, log and the exposure aids",
+  "date": "2026-10-19"
+ },
+ "fdbff9e5": {
+  "state": "applied",
+  "note": "auto: module 3, lesson Choosing lenses: primes, zooms and adapters",
+  "date": "2026-10-19"
+ },
+ "30fd012c": {
+  "state": "applied",
+  "note": "auto: module 4, lesson Colour temperature and white balance",
+  "date": "2026-10-19"
+ },
+ "eef01c83": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Sound, support and a pre-shoot check",
+  "date": "2026-10-19"
+ },
+ "6bd249b1": {
+  "state": "avoided",
+  "note": "the module 6 worked example shows the handbook's 96 ft a minute beside the 90 ft a minute arithmetic and keeps 90",
+  "date": "2026-10-19"
+ },
+ "2ac33c76": {
+  "state": "avoided",
+  "note": "corrected in the earlier review pass; the lessons now carry the corrected wording",
+  "date": "2026-10-19"
+ },
+ "84b07677": {
+  "state": "avoided",
+  "note": "corrected in the earlier review pass; the lessons now carry the corrected wording",
+  "date": "2026-10-19"
+ },
+ "82f30606": {
+  "state": "avoided",
+  "note": "corrected in the earlier review pass; the lessons now carry the corrected wording",
+  "date": "2026-10-19"
+ },
+ "91748287": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Colour sampling, compression and DSLR files",
+  "date": "2026-10-19"
+ },
+ "5bcbc042": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Colour sampling, compression and DSLR files",
+  "date": "2026-10-19"
+ },
+ "980e0280": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Formats, finishing and the mechanics of speed",
+  "date": "2026-10-19"
+ },
+ "a5b3f568": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Offline, online and conform",
+  "date": "2026-10-19"
+ },
+ "f7779124": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Formats, finishing and the mechanics of speed",
+  "date": "2026-10-19"
+ },
+ "c2612dea": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Viewfinder, white balance and camera choice",
+  "date": "2026-10-19"
+ },
+ "36d5a6a4": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Sound for a one-person shoot",
+  "date": "2026-10-19"
+ },
+ "d507a98f": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Viewfinder, white balance and camera choice",
+  "date": "2026-10-19"
+ },
+ "ceb4a482": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Viewfinder, white balance and camera choice",
+  "date": "2026-10-19"
+ },
+ "e2ad2878": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Signal levels, pixels and monitors",
+  "date": "2026-10-19"
+ },
+ "d887f50d": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Signal levels, pixels and monitors",
+  "date": "2026-10-19"
+ },
+ "9b644ed4": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Signal levels, pixels and monitors",
+  "date": "2026-10-19"
+ },
+ "e7f8db70": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Signal levels, pixels and monitors",
+  "date": "2026-10-19"
+ },
+ "e55c4b2f": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Colour sampling, compression and DSLR files",
+  "date": "2026-10-19"
+ },
+ "a7404d91": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Sound for a one-person shoot",
+  "date": "2026-10-19"
+ },
+ "fa6b443c": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Sound for a one-person shoot",
+  "date": "2026-10-19"
+ },
+ "2e18ad25": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Sound for a one-person shoot",
+  "date": "2026-10-19"
+ },
+ "c3f4b6d3": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Offline, online and conform",
+  "date": "2026-10-19"
+ },
+ "acf1879c": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Signal levels, pixels and monitors",
+  "date": "2026-10-19"
+ },
+ "4407fc98": {
+  "state": "applied",
+  "note": "auto: module 7, lesson Offline, online and conform",
+  "date": "2026-10-19"
+ },
+ "ac9dc016": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Formats, finishing and the mechanics of speed",
+  "date": "2026-10-19"
+ },
+ "9094b1af": {
+  "state": "applied",
+  "note": "module 5, lesson Montage: meaning from the neighbour (Kuleshov)",
+  "date": "2026-10-19"
+ },
+ "6f32f266": {
+  "state": "applied",
+  "note": "already taught in module 5 (Planning the day; Coverage and the shot list)",
+  "date": "2026-10-19"
+ },
+ "b1ce09d2": {
+  "state": "applied",
+  "note": "already taught in module 5 (Planning the day; Coverage and the shot list)",
+  "date": "2026-10-19"
+ },
+ "b0e21750": {
+  "state": "applied",
+  "note": "module 2, lesson Viewfinder, white balance and camera choice",
+  "date": "2026-10-19"
+ },
+ "5b71ebd2": {
+  "state": "applied",
+  "note": "module 2, lesson Sound for a one-person shoot",
+  "date": "2026-10-19"
+ },
+ "786b5c9d": {
+  "state": "applied",
+  "note": "module 2, lesson Sound for a one-person shoot",
+  "date": "2026-10-19"
+ },
+ "aabff96c": {
+  "state": "applied",
+  "note": "module 4, lesson Filters, flicker and mixed light (144 degrees at 24 fps is 1/60 s)",
+  "date": "2026-10-19"
+ },
+ "746816e6": {
+  "state": "avoided",
+  "note": "checked 19/10/2026: the lessons use 0.1 per cent for the NTSC slowdown",
+  "date": "2026-10-19"
+ },
+ "a0b525a6": {
+  "state": "skipped",
+  "note": "format and codec specifications for obsolete or fast-moving formats; the lessons teach the principles",
+  "date": "2026-10-19"
+ },
+ "c1377e96": {
+  "state": "skipped",
+  "note": "format and codec specifications for obsolete or fast-moving formats; the lessons teach the principles",
+  "date": "2026-10-19"
+ },
+ "8a897f34": {
+  "state": "skipped",
+  "note": "format and codec specifications for obsolete or fast-moving formats; the lessons teach the principles",
+  "date": "2026-10-19"
+ },
+ "474f2442": {
+  "state": "skipped",
+  "note": "funding, titles and sound mixing are outside this course",
+  "date": "2026-10-19"
+ },
+ "3014d296": {
+  "state": "skipped",
+  "note": "funding, titles and sound mixing are outside this course",
+  "date": "2026-10-19"
+ },
+ "22d424b8": {
+  "state": "skipped",
+  "note": "funding, titles and sound mixing are outside this course",
+  "date": "2026-10-19"
+ },
+ "3fc639cc": {
+  "state": "skipped",
+  "note": "funding, titles and sound mixing are outside this course",
+  "date": "2026-10-19"
+ },
+ "6cf5a01b": {
+  "state": "skipped",
+  "note": "delivery and display conversion belongs to post-production, covered in module 7",
+  "date": "2026-10-19"
+ },
+ "d6dbb04a": {
+  "state": "skipped",
+  "note": "delivery and display conversion belongs to post-production, covered in module 7",
+  "date": "2026-10-19"
+ },
+ "6278b4e3": {
+  "state": "skipped",
+  "note": "delivery and display conversion belongs to post-production, covered in module 7",
+  "date": "2026-10-19"
+ },
+ "e7b6eed0": {
+  "state": "skipped",
+  "note": "directing actors, 3D and editing-software mechanics are outside this course",
+  "date": "2026-10-19"
+ },
+ "f4ee975a": {
+  "state": "skipped",
+  "note": "directing actors, 3D and editing-software mechanics are outside this course",
+  "date": "2026-10-19"
+ },
+ "dc29a8bc": {
+  "state": "skipped",
+  "note": "directing actors, 3D and editing-software mechanics are outside this course",
+  "date": "2026-10-19"
+ },
+ "501a3591": {
+  "state": "skipped",
+  "note": "directing actors, 3D and editing-software mechanics are outside this course",
+  "date": "2026-10-19"
+ }
+}

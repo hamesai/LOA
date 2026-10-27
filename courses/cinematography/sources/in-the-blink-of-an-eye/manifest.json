@@ -1,0 +1,66 @@
+{
+ "key": "in-the-blink-of-an-eye",
+ "title": "In the Blink of an Eye",
+ "author": "Walter Murch",
+ "file": "In the Blink of an Eye.epub",
+ "format": "epub",
+ "sha256": "6ec2bb67a7fbf594d7c9f8433364a84df34f9f953a9b4e8c80e950e221e7cc48",
+ "words": 34454,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Foreword by Francis Coppola",
+   "words": 838
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Preface",
+   "words": 435
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Cuts and Shadow Cuts",
+   "words": 5922
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Dreaming in Pairs",
+   "words": 1141
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "The Decisive Moment",
+   "words": 3491
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Test Screenings: Referred Pain",
+   "words": 3328
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Dragnet",
+   "words": 1601
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "A Galaxy of Winking Dots",
+   "words": 801
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Afterword: Digital Film Editing: Past, Present, and Imagined Future",
+   "words": 16897
+  }
+ ],
+ "warnings": [],
+ "text_quality": {
+  "common_word_share": 0.358,
+  "odd_character_share": 0.002
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-19",
+  "note": "Date is when the file arrived in the source ingest folder."
+ }
+}

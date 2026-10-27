@@ -1,0 +1,133 @@
+{
+ "key": "canon-5d-mark-ii-manual",
+ "title": "EOS 5D Mark II Instruction Manual",
+ "author": "",
+ "file": "Canon - EOS 5D Mark II Instruction Manual (2008).pdf",
+ "format": "pdf",
+ "sha256": "c4fbaef5b8aad77394747483438a19ce51f82d62714210a425187b0500cca0ee",
+ "words": 44208,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 20",
+   "words": 3333,
+   "pages": [
+    1,
+    20
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Pages 21 to 40",
+   "words": 3431,
+   "pages": [
+    21,
+    40
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Pages 41 to 60",
+   "words": 3560,
+   "pages": [
+    41,
+    60
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Pages 61 to 80",
+   "words": 3820,
+   "pages": [
+    61,
+    80
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Pages 81 to 100",
+   "words": 3453,
+   "pages": [
+    81,
+    100
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Pages 101 to 120",
+   "words": 4250,
+   "pages": [
+    101,
+    120
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Pages 121 to 140",
+   "words": 4176,
+   "pages": [
+    121,
+    140
+   ]
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Pages 141 to 160",
+   "words": 3510,
+   "pages": [
+    141,
+    160
+   ]
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Pages 161 to 180",
+   "words": 3940,
+   "pages": [
+    161,
+    180
+   ]
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Pages 181 to 200",
+   "words": 3632,
+   "pages": [
+    181,
+    200
+   ]
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Pages 201 to 220",
+   "words": 4918,
+   "pages": [
+    201,
+    220
+   ]
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Pages 221 to 228",
+   "words": 2185,
+   "pages": [
+    221,
+    228
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks",
+  "text quality looks poor (25% common English words, 5.0% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "text_quality": {
+  "common_word_share": 0.252,
+  "odd_character_share": 0.05
+ },
+ "provenance": {
+  "found_by": "source-discovery",
+  "added": "2026-10-26",
+  "url": "https://www.bhphotovideo.com/lit_files/101.pdf",
+  "query": "Source Discovery, 26/10/2026"
+ }
+}

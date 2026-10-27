@@ -1,0 +1,265 @@
+{
+ "key": "gregory-motion-picture-photography",
+ "title": "Motion Picture Photography",
+ "author": "Carl Louis Gregory",
+ "file": "Gregory - Motion Picture Photography (second edition).pdf",
+ "format": "pdf",
+ "sha256": "b388f7adcffc2a748213a705843e464db02a13e757cb4d0c6b2ea93ff50aeaaf",
+ "words": 152830,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Front matter",
+   "words": 1035,
+   "pages": [
+    1,
+    12
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Chapter I HISTORY OF CINEMATOGRAPHY IT",
+   "words": 4824,
+   "pages": [
+    13,
+    26
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Chapter II FASCINATION OF CINEMATOGRAPHY MOTION pictures cover a field that is almost univ",
+   "words": 2162,
+   "pages": [
+    27,
+    32
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Chapter III THE NATURE OE LIGHT AS",
+   "words": 7953,
+   "pages": [
+    33,
+    70
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Chapter IV THE MOTION PICTURE CAMERA LONG before motion pictures were dreamed of, philosop",
+   "words": 4110,
+   "pages": [
+    71,
+    83
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Chapter V CINEMATOGRAPH LENSES TECHNICAL terms used in photography are often puzzling",
+   "words": 4067,
+   "pages": [
+    84,
+    99
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Chapter VI FOCUSING THE CAMERA THE",
+   "words": 6557,
+   "pages": [
+    100,
+    119
+   ]
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Chapter VII PREPARATION FOR THE DAY'S WORK MOST studios used to furnish the cameraman with",
+   "words": 3048,
+   "pages": [
+    120,
+    129
+   ]
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Chapter VIII HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS By J. I. Crabtree",
+   "words": 11035,
+   "pages": [
+    130,
+    170
+   ]
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Chapter IX DEVELOPMENT OF THE NEGATIVE AFTER the picture has been taken, the cameraman del",
+   "words": 11219,
+   "pages": [
+    171,
+    208
+   ]
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Chapter X MAKING MOTION PICTURE POSITIVES HAVING described the methods of making the negat",
+   "words": 4782,
+   "pages": [
+    209,
+    222
+   ]
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Chapter XI TINTING AND TONING MOTION PICTURE FILMS Based on the methods worked out by the ",
+   "words": 7583,
+   "pages": [
+    223,
+    252
+   ]
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Chapter XII CUTTING AND EDITING WITH the gratifying general progress of events toward",
+   "words": 7920,
+   "pages": [
+    253,
+    279
+   ]
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Chapter XIV INTERIOR LIGHTING TWENTY years ago there were probably only five studios",
+   "words": 8794,
+   "pages": [
+    280,
+    314
+   ]
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "Chapter XV EDUCATIONAL AND INDUSTRIAL PICTURE MAKING",
+   "words": 3993,
+   "pages": [
+    315,
+    326
+   ]
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "Chapter XVI ANIMATED CARTOONS IT",
+   "words": 2162,
+   "pages": [
+    327,
+    338
+   ]
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "Chapter XVII TRICK-WORK AND DOUBLE EXPOSURE UNDER this heading will be handled the numerou",
+   "words": 8863,
+   "pages": [
+    339,
+    363
+   ]
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "Chapter XVIII COMPOSITION BY J. C. WARBURG UNDOUBTEDLY the most important phase in the pro",
+   "words": 6632,
+   "pages": [
+    364,
+    385
+   ]
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "Chapter XIX AIRPLANE PHOTOGRAPHY FOLLOWING the war, the large producers introduced the",
+   "words": 2494,
+   "pages": [
+    386,
+    395
+   ]
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "Chapter XX HOW SUBMARINE MOVIES ARE TAKEN Written by Lu Senerens",
+   "words": 1692,
+   "pages": [
+    396,
+    400
+   ]
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "Chapter XXI MAKING UP FOR MOTION PICTURES MAKE-UP is used in motion picture work for two d",
+   "words": 2141,
+   "pages": [
+    401,
+    407
+   ]
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "Chapter XXII RELATIONSHIP OF THE CAMERAMAN TO OTHER WORKERS",
+   "words": 3052,
+   "pages": [
+    408,
+    419
+   ]
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "Chapter XXIII APPLYING FOR A POSITION WHEN applying for a position the proper person to se",
+   "words": 2209,
+   "pages": [
+    420,
+    427
+   ]
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "Chapter XXIV COLORED, STEREOSCOPIC AND TALKING MOTION PICTURES",
+   "words": 4706,
+   "pages": [
+    428,
+    443
+   ]
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "Chapter XXV SOME TYPICAL MOTION PICTURE CAMERAS WHILE the general principles of all motion",
+   "words": 8061,
+   "pages": [
+    444,
+    476
+   ]
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "Chapter XXV BIBLIOGRAPHY ONE of the hardest problems that confronts the student of",
+   "words": 3813,
+   "pages": [
+    477,
+    488
+   ]
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "Chapter XXVI APPENDIX MAKING DIRECT POSITIVES",
+   "words": 17923,
+   "pages": [
+    489,
+    562
+   ]
+  }
+ ],
+ "warnings": [],
+ "text_quality": {
+  "common_word_share": 0.38,
+  "odd_character_share": 0.005
+ },
+ "provenance": {
+  "found_by": "source-discovery",
+  "added": "2026-10-26",
+  "url": "https://dn760106.eu.archive.org/0/items/motionpicturepho00carl/motionpicturepho00carl.pdf",
+  "query": "Source Discovery, 26/10/2026"
+ }
+}
