@@ -388,6 +388,18 @@ textarea.reflect { width: 100%; font: 400 0.95rem var(--f-body); color: var(--in
   .tab { flex: 0 0 auto; padding: 0.5rem 0.6rem; white-space: nowrap; }
   .sl-main { grid-template-columns: minmax(0, 1fr); min-width: 0; }
   .slide { min-width: 0; }
+  /* module list: each module becomes a stacked row, so nothing needs sideways scrolling */
+  #mod-wrap { overflow: visible; border: 0; background: none; }
+  .mtable, .mtable tbody { display: block; width: 100%; }
+  .mtable thead { display: none; }
+  .mtable tr { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem 0.9rem; padding: 0.7rem 0.75rem; margin-bottom: 0.5rem; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; }
+  .mtable td { display: block; padding: 0; border: 0; min-width: 0; }
+  .mtable td:nth-child(1) { order: -2; }
+  .mtable td:nth-child(3) { order: -1; flex: 1 1 0; }
+  .viewer { grid-template-columns: minmax(0, 1fr); min-width: 0; }
+  .v-stage { grid-template-columns: minmax(0, 1fr); min-width: 0; }
+  .v-nav { grid-template-columns: auto minmax(0, 1fr) auto; min-width: 0; }
+  .v-stage .slide { min-width: 0; }
 }
 /* practice tab: an intro, then six numbered steps in one column */
 .pr { display: grid; gap: 1.25rem; max-width: 52rem; }
@@ -484,6 +496,9 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
 .sin .rl li { display: flex; gap: 0.6em; align-items: baseline; }
 .sin .rl .type { font: 500 0.7em var(--f-mono); text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); min-width: 5.5em; }
 .v-nav { display: grid; grid-template-columns: auto 1fr auto; gap: 0.75rem; align-items: center; }
+/* full screen: the slide fills the width or height, whichever is the limit, and the bars stay slim */
+.viewer:fullscreen { padding: 0.5rem 1rem; }
+.viewer:fullscreen .v-stage .slide { aspect-ratio: 16 / 9; width: min(100%, calc((100vh - 7rem) * 16 / 9)); }
 .v-prog { height: 4px; background: var(--line); border-radius: 2px; overflow: hidden; }
 .v-prog i { display: block; height: 100%; background: var(--accent); width: 0; }
 @media (prefers-reduced-motion: no-preference) { .btn, .chip { transition: filter 0.15s, background 0.15s; } .v-prog i { transition: width 0.2s; } }
@@ -1874,7 +1889,7 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
         h("button", { class: "btn ghost", type: "button", text: "Previous", disabled: mv.i === 0 ? "disabled" : null, onclick: function () { mvStep(-1); } }),
         h("span", { class: "mono", text: (mv.i + 1) + " / " + mv.slides.length }),
         h("button", { class: "btn", type: "button", text: "Next", disabled: mv.i === mv.slides.length - 1 ? "disabled" : null, onclick: function () { mvStep(1); } }),
-        h("button", { class: "btn ghost", type: "button", text: "Present full screen", onclick: function (ev) { openDeck(dk, ev.currentTarget, mv.i); } }));
+        h("button", { class: "btn ghost", type: "button", text: "Full screen", onclick: function (ev) { openDeck(dk, ev.currentTarget, mv.i); enterFullscreen(); } }));
       ctl.insertBefore(slideSelect(mv.slides, mv.sections, mv.i, function (i) { mv.i = i; mvSave(); renderModuleView(); }), ctl.children[3]);
       if (mv.saved > 0) {
         if (mv.i === mv.saved) ctl.appendChild(h("span", { class: "mono", style: "color:var(--ok)", text: "Picked up where you left off" }));
@@ -2048,10 +2063,23 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
     if (view.opener && document.body.contains(view.opener)) view.opener.focus();
   }
   function step(n) { var j = Math.max(0, Math.min(view.slides.length - 1, view.i + n)); if (j !== view.i) { view.i = j; renderSlide(); } }
-  function fullscreen() {
+  /* Full screen for the slide viewer. On a phone it also turns the screen to landscape, so a 16:9 slide fills the width and height. */
+  function enterFullscreen() {
     var v = $("viewer");
-    try { if (document.fullscreenElement) document.exitFullscreen(); else if (v.requestFullscreen) v.requestFullscreen().catch(function () {}); } catch (e) {}
+    try {
+      if (!v.requestFullscreen) return;
+      v.requestFullscreen().then(function () {
+        if (screen.orientation && screen.orientation.lock) screen.orientation.lock("landscape").catch(function () {});
+      }).catch(function () {});
+    } catch (e) {}
   }
+  function fullscreen() {
+    try { if (document.fullscreenElement) document.exitFullscreen(); else enterFullscreen(); } catch (e) {}
+  }
+  document.addEventListener("fullscreenchange", function () {
+    if (!document.fullscreenElement && screen.orientation && screen.orientation.unlock) { try { screen.orientation.unlock(); } catch (e) {} }
+    refitAll();
+  });
   document.addEventListener("keydown", function (e) {
     if ($("viewer").hidden) {
       if (!$("mview").hidden && !(e.target && /^(INPUT|SELECT|TEXTAREA)$/.test(e.target.tagName))) {
