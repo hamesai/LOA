@@ -1,0 +1,1350 @@
+PART II.
+
+TONING
+
+As distinct from tinting, a toned image consists of a color image
+embedded within a layer of colorless gelatine, so that while the
+highlights are clear, the shadows are colored.
+
+The coloring matter may consist of an inorganic colored compound or
+a dye, or of a mixture of both, and by wholly or partially replacing
+the black and white silver image by one or more of these substances,
+a colored image is produced.
+
+It is, of course, important that the colored compound should be as
+transparent as possible so that the full tone will be apparent on
+projection. In this respect, while some samples of toned film appear
+colored in the hand, they produce a substantially black and white
+image on projection, so that when judging any particular tone, it is
+absolutely necessary to view the image on the screen.
+
+Of the various inorganic colored compounds, the metallic
+ferrocyanides are the most suitable for toning purposes of which:
+
+ Iron (ferric) ferrocyanide is blue,
+ Copper ferrocyanide is red, and
+ Uranium ferrocyanide is reddish brown.
+
+It is the object in toning to replace the metallic silver composing
+the image more or less by one of the above compounds or by a mixture
+of these. In this way intermediate tones are obtained.
+
+Toning may be effected either by a single solution process or a two
+solution process.
+
+Two Solution Process
+
+This consists of first converting the silver image into silver
+ferrocyanide by a suitable bleaching bath, thoroughly washing, and
+acting upon the ferrocyanide image with a metallic salt, usually in
+presence of an acid, the metallic ferrocyanide being produced by
+double decomposition. The reaction, however, is never complete, so
+that the image is mixed with undecomposed silver ferrocyanide which
+tends to make the image opaque, but at the same time it also adds
+“body” to the latter. Providing allowance is made in the original
+positive for this intensification, good tones are obtained. (See Tone
+G.)
+
+Single Solution Process
+
+Instead of the two separate baths used above, a single solution may
+be employed consisting of a metallic ferricyanide dissolved in a
+suitable solvent (say, an alkali salt of citric, tartaric, or oxalic
+acids) in presence of an acid and certain other salts.
+
+On immersion of the positive film in this solution the silver image
+is converted to silver ferrocyanide, while the colored ferrocyanide
+is formed simultaneously and combined with it.
+
+In either of the above cases in view of the fact that the metallic
+ferrocyanide is deposited in a colloidal condition in presence of the
+gelatine of the film, its state of division and the nature of the
+tone are usually affected by the presence of certain salts, changes
+of temperature, concentration of the baths and other factors which
+must be maintained constant in order to obtain uniform results.
+With such single baths it is possible to secure tones which are
+unobtainable by a two solution process, though as such single
+solutions are sensitive to light and rapidly attack foreign metals
+which may be present in the shape of faucets, etc., such solutions
+are comparatively unstable and require care in their use.
+
+DYE TONING
+
+Owing to the limited number of colored inorganic compounds available
+for toning purposes, it is possible to obtain only a limited range of
+tones by the above methods.
+
+In view of the possible wide range of colors obtainable by the use
+of dyes, it has long been considered that a satisfactory method of
+producing a dye image would be the ideal method for toning purposes.
+
+As a result of recent work in our Research Laboratory, it is now
+possible to recommend such a method of toning which depends upon the
+fact that certain inorganic compounds, including copper ferrocyanide,
+have the property of mordanting certain basic dyes, so that when
+they are immersed in a solution of the dye the latter attaches itself
+to the mordant, which in turn becomes colored.
+
+The most suitable dyes for dye toning are those which do not readily
+dye gelatine so that on immersing, say, a sample of copper toned
+film in a weak solution of the dye containing a little acid, the
+dye becomes mordanted to the image, while the highlights consisting
+of clear gelatine remain colorless, the resulting tone being a
+combination of the color of the toned film and the dye.
+
+Full particulars are given under tones J, K, L, M and N.
+
+Nature of the Positive to be Toned
+
+Since most toning processes either intensify or reduce the original
+image, in order to obtain uniform results, _commence toning with
+positive film of the correct density_.
+
+Three standards of positive film have been chosen: Thin, Medium and
+Normal. (See chart.) The “Thin” and “Medium” standards are obtained
+by giving a slight overexposure and a shorter time of development.
+
+The exact degree of intensification which takes place in any
+particular case will soon be learned after a few trials.
+
+Nature of the Developer
+
+Any good Elon-Hydrochinon, Kodelon-Hydrochinon, or straight
+Hydrochinon formula will give satisfactory tones, though in the case
+of Tone G an Elon-Hydrochinon developer is essential in order that a
+rich olive color may be obtained.
+
+For toning, it is necessary that the developed film should be
+entirely free from fog, since a thin veil becomes intensified in most
+of the toning processes. Fog may be caused by:
+
+(a) Oxidation of the developer, noticeable by the brown coloration
+produced after continued use. The remedy is to renew the developer.
+
+(b) Carelessness in compounding the developer. The usual mistake
+consists in adding the carbonate to the Elon and Hydrochinon without
+previously adding a portion of sulphite to prevent oxidation. It
+is not advisable, however, to add the whole of the sulphite to the
+Elon and Hydrochinon in the first place, otherwise the Elon may
+precipitate. Mixing the developer with water which is too warm will
+often cause fog.
+
+(c) The presence of copper, brass, and tin, the fumes from sodium
+sulphide, etc., in the developing baths are to be strictly avoided.
+A salt of copper if present only to the extent of one part in 10,000
+will produce fog on cine positive film.
+
+Fixing
+
+This operation should be complete and, if possible, carried out in
+two consecutive baths and followed by thorough washing, otherwise
+uneven coloring will result.
+
+In order to eliminate any possibility of uneven toning it is always
+advisable to tone immediately after washing and before drying.
+
+Control in Toning
+
+As in the case of tinting, the nature of the tone obtained with the
+various solutions depends on the following factors:
+
+a. _The nature and dilution of the toning solutions._ Except in those
+cases where it is recommended to revive the bath by adding more
+acid, it is not advisable to modify the composition or dilution of
+the various solutions, as these have been adjusted to give the best
+results.
+
+b. _Temperature of toning._
+
+In most cases a change of temperature from 60 to 70 degrees F. has
+merely the effect of changing the time of toning. It is advisable,
+however, to maintain the temperature of the various solutions between
+65 degrees and 70 degrees F.
+
+c. _Time of toning._
+
+Except in the case of tones F and G when toning proceeds to a limit,
+the nature of the tone produced varies with the time of toning,
+reaching a limit in from 10 to 15 minutes, so that in a shorter time
+intermediate tones are produced. Since most of the toning processes
+intensify the original image, if an intermediate tone is required, it
+is usually necessary to commence toning with denser film than when
+toning is to be carried to the limit. See tones B, C and D.
+
+When producing intermediate tones, it is therefore possible either to
+tone in the normal bath for a given time or in a diluted bath for a
+longer time. In order to reduce the number of individual toning baths
+to a minimum it is recommended to vary the time of toning rather than
+to vary the dilution of the bath and to judge the tone by inspection.
+Since the strength of the toning bath falls off with use, inspection
+is necessary in all cases except Tones F and G.
+
+Before commencing work with any bath, it is advisable to make a test
+on a short length of film.
+
+Permanency of Tones
+
+The permanency of the tones produced largely depends on the care
+exercised throughout the various operations.
+
+The silver sulphide image may be considered permanent, though in the
+other cases, where more or less silver ferrocyanide is present, the
+toned image is not absolutely permanent, being somewhat soluble in
+hypo and affected by fumes of sulphuretted hydrogen.
+
+In the case of the iron and uranium tones, the colored ferrocyanides
+are dissolved by alkali such as sodium carbonate, so that the toned
+film should not be washed for too long a time in water which is at
+all inclined to be alkaline.
+
+In no case however, if the instructions are carefully followed
+will the toned image deteriorate during the active life of the
+film. Moreover, so far as can be ascertained, the wear and tear of
+film which has been toned by the methods recommended is in no way
+impaired, though by virtue of the hardening action of most of the
+toning baths on the gelatine it is advisable, especially during the
+winter months, to immerse the film for three or four minutes in the
+usual 2% glycerine bath after toning.
+
+Should film have to be stored for long periods of time, toning
+is inadvisable, nor is it advisable to tone valuable film unless
+duplicates are available.
+
+The _life_ of the toning bath has been carefully investigated in
+each case, the term “life” being considered as the total length of
+film capable of being toned by a given volume of fresh solution when
+toning is conducted continuously and without interruption.
+
+In all cases it is false economy to exhaust a toning bath to the
+limit and thus obtain inferior tones, since the cost of the chemicals
+employed is insignificant compared with the value of the film being
+treated.
+
+Since the figures given represent the capacity of the bath for
+toning under the best conditions, they only apply providing the baths
+are kept covered as far as possible when not in use, to exclude
+light, and providing no foreign metallic surface, however small, is
+allowed to come into contact with the solution.
+
+As mentioned above, single solution baths are not intended for
+occasional use. In such cases two-solution methods should as far as
+possible be employed, although it has only been possible to recommend
+the latter for the production of sulphide and blue-green tones.
+
+Stability of the Solutions
+
+All toning solutions containing potassium ferricyanide are sensitive
+to light, the ferricyanide being reduced to ferrocyanide. Therefore
+when not in use the tanks should be carefully covered so as to screen
+the solutions from sunlight.
+
+It is also very important that no metallic surface however small
+should come in contact with the solutions; any metal pegs on the
+racks or pins used to hold the film together will gather the tone in
+preference to the film, causing the formation of sludge. Plain wooden
+racks with or without wooden pegs should be used, and metal faucets
+replaced by wooden plugs.
+
+If any considerable amount of sludge forms in the tank at any time,
+it is due either to incorrect mixing, the action of light, or to the
+presence of foreign metallic substances.
+
+TONE A
+
+_Tone A_ Red (Copper)
+
+_Positive Employed_—Normal
+
+After immersion of the well washed film in water for one minute,
+bathe in the following:
+
+ Avoirdupois Metric
+
+ Copper sulphate 1 lb. 11 ozs. 800 grams
+ Ammonium citrate (neutral) 5 lbs. 3 ozs. 2500 ”
+ Potassium ferricyanide 1 lb. 11 ozs. 800 ”
+ Ammonium carbonate 13 ozs. 400 ”
+ Water to 50 gals. 200 liters
+
+Dissolve each ingredient separately in as little water as possible,
+mix the filtered solutions so obtained in the order given, and dilute
+to the required volume. The solution obtained should be light green
+in color and perfectly clear. The ammonium carbonate should be almost
+transparent and free from white powder, and should be dissolved in
+cold water, while the ammonium citrate employed should be neutral.
+Most samples contain acid, which acid would neutralize the ammonium
+carbonate and affect the resulting tone. The free acid is usually
+citric acid, and should be neutralized with a solution of ammonia
+using litmus as indicator.
+
+_Temperature of Toning_—To obtain the best results the temperature of
+the bath should be from 65 degrees to 70 degrees F.
+
+_Time of Toning_—Five to ten minutes.
+
+_Time of Washing_—10 minutes.
+
+_Life of Bath_—With use the bath precipitates a brown sludge of
+copper ferrocyanide, and in consequence becomes weaker by virtue of
+the loss of copper, though 50 gallons of the solution will tone about
+10,000 feet of film.
+
+It is necessary to keep the film entirely submerged in the tank,
+or constantly in motion when on the drum, otherwise if the film is
+frequently examined, especially during the first few minutes of
+toning, streaks are liable to occur.
+
+TONE B
+
+_Tone B_ Red (Uranium)
+
+_Positive Employed_—Thin.
+
+Immerse the well washed film in the following:
+
+ Avoirdupois Metric
+
+ Uranium Nitrate (Neutral) 16½ ozs. 500 grams
+ Potassium Oxalate (Neutral) 16½ ozs. 500 grams
+ Potassium Ferricyanide 6½ ozs. 200 grams
+ Ammonium Alum 2½ lbs. 1200 grams
+ Hydrochloric Acid 10% 1 quart 1000 cc.
+ Water to 50 gals. 200 liters
+
+Mix in the order given. The solution obtained should be perfectly
+clear and pale yellow in color.
+
+In view of the fact that the nature of the tone is influenced largely
+by the acid content, it is very important that the uranium nitrate
+should contain no free acid, and this may be assured by neutralizing
+a solution with dilute ammonia until a slight permanent precipitate
+is obtained.
+
+It is convenient to keep stock solutions of the above (say, 10%
+solutions) from which a new bath may be expeditiously compounded. A
+10% hydrochloric acid solution is one containing 10 parts by volume
+of the concentrated acid per 100 volumes of the final solution.
+
+_Temperature of Toning_—65 degrees to 70 degrees F.
+
+_Time of Toning_—Ten minutes.
+
+Since this and the following single solution methods of toning
+produce a marked intensification of the silver image—which
+intensification increases with the time of toning—it follows that the
+nature of the tone changes with time also.
+
+The composition of the bath has been so adjusted that the maximum
+effect is produced in about 10 minutes, the tone passing through a
+series of changes from brown to red during this time.
+
+It is therefore possible to obtain intermediate tones by withdrawing
+the film from the bath at shorter intervals, though in such cases
+the contrast of the original black and white film should be adjusted
+accordingly, since with slight toning very little intensification
+takes place. (See tones C and D.)
+
+_Time of Washing_—Ten to fifteen minutes.
+
+The highlights will become clear in the above time, though a thin
+yellowish brown veil may remain in the clear gelatine as a result of
+the intensification of minute traces of fog, but this has no effect
+on projection. If the bath is working correctly the yellowish veil is
+only just perceptible, but if appreciably visible, then either the
+film was fogged during development, or the bath was not compounded
+correctly. Washing should not be carried out for too long a period,
+especially with water inclined to be alkaline, because the toned
+image is soluble in alkali.
+
+_Life of Bath_
+
+Fifty gallons of solution will tone about 5000 feet of film without
+any appreciable change in the tone, after which the rich tone tends
+to flatness as a result of a deficiency of acid in the bath. At this
+point the bath may be revived by the further addition of acid to the
+extent of the original amount, when a further 5000 feet may be toned.
+At this stage the richness of tone falls off rapidly and the bath
+should be thrown away.
+
+Used intermittently over a period of several days the life of the
+bath is approximately the same.
+
+With continued use a slight brownish flocculent precipitate may
+form in the bath, but this should only be slight, otherwise it is
+caused by incorrect mixing, the action of light, or by contact with a
+metallic surface.
+
+TONE C
+
+_Tone C_—Red Brown (Uranium)
+
+_Positive Employed_—Medium
+
+The toning formula employed and the instructions to be followed are
+the same as for Tone B, the time of toning being about 5 minutes at
+65 degrees to 70 degrees F.
+
+TONE D
+
+_Tone D_—Brown (Uranium)
+
+_Positive Employed_—Normal
+
+The toning formula employed and the instructions to be followed are
+the same as for Tone B, the time of toning being about 3 minutes at
+65 degrees to 70 degrees F.
+
+TONE E
+
+_Tone E_—Sepia (Uranium and Iron)
+
+This particular tone is obtained by suitable mixture of red and blue
+toning solutions. By varying the proportions of these baths, tones
+varying from red to sepia may be obtained.
+
+The following is only one of the many tones produced by this method.
+Increase in the proportion of the iron bath makes the tone colder,
+and vice versa.
+
+_Positive Employed_—Medium
+
+Immerse the well washed film in
+
+ Solution for tone B (red brown) 5 vols.
+ Solution for tone H (blue) 1 vol.
+
+_Time of Toning_ 3 to 4 minutes at 65 degrees to 70 degrees F.
+
+The instructions regarding method of procedure, life of bath, etc.,
+are exactly the same as for tone B.
+
+TONE F
+
+_Tone F_ (Sulphide)
+
+_Positive Employed_
+
+With a thin positive a warm brown tone is obtained, while with denser
+film the effect is that of a blue-black tone.
+
+ Avoirdupois Metric
+
+ _A._ Potassium Ferricyanide 8 lbs. 5 ozs. 4000 grams
+ Potassium Bromide 2 lbs. 2 ozs. 1000 grams
+ Water to 50 gals. 200 liters
+
+ _B._ Sodium Sulphide (crystal) 2 lbs. 2 ozs. 1000 grams
+ Water to 50 gals. 200 liters
+
+A trace of iron in the sodium sulphide will do no harm providing the
+solution is boiled and the precipitated iron sulphide allowed to
+settle before use. The well washed positive is thoroughly bleached in
+A, washed for 5 minutes, and immersed in solution B until the film is
+thoroughly toned.
+
+_Temperature of Toning_—65 degrees to 70 degrees F.
+
+_Time of Toning_—Four to five minutes.
+
+_Time of Washing_—Ten to fifteen minutes.
+
+_Life of Baths_
+
+The toning baths A and B are comparatively stable and will keep until
+exhausted.
+
+TONE G
+
+_Tone G_—Olive Green (Iron)
+
+_Positive Employed_—Thin to medium.
+
+The best tones are only obtainable on film developed in an
+Elon-Hydrochinon developer. Thoroughly bleach the well washed film in:
+
+ Avoirdupois Metric
+
+ _A._ Potassium Ferricyanide 20 lbs. 12 ozs. 10,000 grams
+ Ammonia (concentrated
+ .89) ½ gal. 2 liters
+ Water to 50 gals. 200 liters
+
+_Time of Bleaching_—Two to five minutes.
+
+After washing for 10 to 15 minutes, tone in the following at 65
+degrees to 70 degrees F.:
+
+ Avoirdupois Metric
+
+ _B._ Ferric Alum (Ferric
+ Ammonium Sulphate) 4 lbs. 2 ozs. 2000 grams
+ Potassium Bromide 2 lbs. 2 ozs. 1000 grams
+ Hydrochloric Acid
+ (concentrated) 13 ozs. 400 cc.
+ Water to 50 gals. 200 liters
+
+_Time of Toning_
+
+Toning should be complete in from 3 to 5 minutes.
+
+_Time of Washing_—Ten to fifteen minutes.
+
+If the highlights are stained blue, or if the image will not
+completely tone in the shadows, this is due to _insufficient washing
+after bleaching_. When bleaching, it is important to examine the film
+as little as possible, otherwise streaks are liable to be produced
+due to the action of the air at those parts where the solution
+drains off the film. It is also important to tone immediately after
+bleaching and washing.
+
+_Life of Baths_
+
+Bleach A.
+
+Providing the solution is screened from the light and kept covered
+to prevent the undue escape of ammonia, the bath keeps fairly well,
+but if it shows any signs of weakening, it should be revived by the
+addition of a further quantity of ammonia equal in amount to that
+originally used. If so revived at intervals, 50 gallons will bleach
+40,000 feet of film before exhaustion.
+
+Solution B.
+
+Fifty gallons of solution B will tone 30,000 feet of film without
+further addition of acid, when it should be thrown away.
+
+TONE H
+
+_Tone H_ Blue (Iron)
+
+_Positive Employed_ Thin or Medium, according to result desired.
+
+Tone in the following:
+
+ Avoirdupois Metric
+
+ Potassium Bichromate 75 grains 5 grams
+ Ferric Alum (Ferric
+ ammonium sulphate) 8 ozs. 85 grs. 250 grams
+ Oxalic Acid 1 lb. 4 ozs. 600 grams
+ Potassium Ferricyanide 6½ ozs. 200 grams
+ Ammonium Alum 2 lbs. 2 ozs. 1000 grams
+ Hydrochloric Acid 10% 6½ ozs. 200 cc.
+ Water to 50 gals. 200 liters
+
+The method of compounding this bath is very important. Each of the
+solid chemicals should be dissolved separately in a small quantity
+of warm water, the solutions allowed to cool, filtered into the tank
+strictly in the order given, and the whole diluted to the required
+volume. If these instructions are followed, the bath will be a pale
+yellow color, perfectly clear, and will remain so for a considerable
+period.
+
+_Time of Toning_—Five to ten minutes at 70 degrees F.
+
+_Time of Washing_
+
+Wash for ten to fifteen minutes until the highlights are clear. A
+very slight permanent yellow coloration of the clear gelatine will
+usually occur, but should be only just perceptible, when it will have
+no effect on projection. If the highlights are stained blue, then
+either the film was fogged during development or the bath was not
+compounded correctly. Washing should not be carried out for too long
+a period, especially with water inclined to be alkaline, because the
+toned image is soluble in alkali.
+
+_Life of Bath_
+
+If the acid is renewed to the extent of the original amount after
+toning each 5000 feet, the bath is capable of toning 15,000 feet per
+50 gallons of solution.
+
+If even after revival, the tone remains flat, the bath is exhausted
+and should be thrown away.
+
+After continued use, a slight bluish sludge will collect in the
+bath, but this is not harmful. Should this form, however, to any
+appreciable extent, it is due either to incorrect mixing, the action
+of light, or to contact with metallic surfaces.
+
+TONE I
+
+_Tone I_—Pale Blue (Iron)
+
+The instructions are as for Tone H with the following modifications:
+
+_Positive Employed_—Normal.
+
+_Time of Toning_—Two to four minutes according to depth of tone
+desired.
+
+NEW TONES
+
+TONE J
+
+_Tone J_—Red (Dye Tone)
+
+By first toning in Tone A, washing, and then immersing the copper
+toned film in an acid solution of a basic dye, the dye is mordanted
+to the toned image, thus modifying the color.
+
+_Nature of Positive_—Medium
+
+Tone for five to ten minutes in solution as for Tone A, and after
+washing for ten minutes immerse in the following dye-bath.
+
+ Avoirdupois Metric
+
+ Safranine A (National
+ Aniline and Chemical
+ Co., Inc.) 7 ozs. 200 grams
+ Acetic Acid (Glacial) 32 ozs. 1000 cc.
+ Water to 50 gals. 200 liters
+
+_Time of Toning_
+
+Five to ten minutes, according to depth desired.
+
+_Temperature of Toning_—65 degrees to 70 degrees F.
+
+_Time of Washing_
+
+Usually only a slight rinse in water is necessary. If the highlights
+are stained, the film should be washed for five or ten minutes or
+until clear. Stained highlights are caused either by insufficient
+washing after toning, too strong a dye-bath, or an incorrect amount
+of acid in the dye-bath.
+
+TONE K
+
+_Tone K_—Orange (Dye Tone)
+
+The instructions are exactly as for Tone J, substituting the
+following dye-bath.
+
+ Avoirdupois Metric
+
+ Chrysoidin 3R (National
+ Aniline and Chemical
+ Co., Inc.)
+ or Chrysoidin Y (Extra) 2 ozs. 320 grs. 80 grams
+ Acetic Acid (Glacial) 32 ozs. 1000 cc.
+ Water to 50 gals. 200 liters
+
+TONE L
+
+_Tone L_—Violet (Dye Tone)
+
+The instructions are exactly as for Tone J, substituting the
+following dye-bath:
+
+ Avoirdupois Metric
+
+ Methyl Violet (National
+ Aniline and Chemical
+ Co., Inc.) 2 ozs. 320 grs. 80 grams
+ Acetic Acid (Glacial) 32 ozs. 1000 cc.
+ Water to 50 gals. 200 liters
+
+Intermediate Dye Tones
+
+The depth of the dye tone is determined by the time of immersion
+both in the copper toning bath and in the dye-bath. Pale tones may
+therefore be obtained either by giving a short bath in Tone A and
+fully dyeing, or by toning for a longer time and giving a short
+immersion in the dye-bath.
+
+By mixing the dye-baths J, K, and L in varying proportions
+intermediate colors may be obtained just as in tinting.
+
+TONE M
+
+_Tone M_—Pale Red (Dye Tone)
+
+_Positive Employed_—Normal
+
+Tone for one to two minutes in Tone A, wash for ten minutes and then
+immerse in the following dye-bath.
+
+ Dye solution for Tone J, one volume.
+ Dye solution for Tone K, one volume.
+
+When the desired tone is obtained rinse until the highlights are
+clear.
+
+Compound Tones
+
+TONE N
+
+_Tone N_—Copper-Iron-Dye Tone.
+
+By first partially toning the black and white film (Medium) in Tone
+A for three to four minutes at 65 degrees to 70 degrees F., so that
+the half-tones are completely toned but the shadows only partially,
+washing for ten minutes and then completing the toning process in the
+blue toning bath H, the residual silver in the shadows is toned blue.
+In this way a double tone is obtained, the shadows appearing dark
+blue and the half-tones reddish brown.
+
+By immersing the film toned in this manner in the Chrysoidin dye-bath
+as given under Tone K, the dye is mordanted to the half-tones which
+contain copper ferrocyanide, producing the effect indicated.
+
+Combined Tinting and Toning
+
+In many cases pleasing effects may be obtained by tinting film which
+has already been toned, the result being that the clear portions
+or highlights assume the color of the dye, while the shadows and
+half-tones project a tint intermediate between that of the dye and
+the toned deposit.
+
+Considerable judgment is necessary, however, in choosing suitable
+tints to blend with any given tone.
+
+The most successful combination of toning with tinting is in the
+production of sunset and moonlight effects over water, by first
+toning blue and then tinting orange, red or yellow.
+
+The following combinations will cover most cases required:
+
+Tones A, B, C, D, E, F, J, K, L. Tints Nos. 2, 5, 6.
+
+Tones G, H, I. Tint almost any delicate shade.
+
+It is considered unnecessary to illustrate every combination of tone
+and tint above, so that only typical examples are given. It must be
+noted that toned film (except tones A and F) absorbs the dye more
+quickly than untoned film, so in order to duplicate appended samples,
+the dye-baths should be diluted accordingly.
+
+Very pleasing effects may also be obtained by locally tinting toned
+film, the color being applied either by hand with a brush, or by
+stencilling.
+
+Equipment
+
+The equipment necessary for systematic tinting and toning is
+essentially the same as that required for development, consisting of
+the usual tanks and racks or small drums, only it is advisable that
+they should be used for this purpose exclusively and, if possible,
+occupy a separate room to exclude any possibility of contaminating
+the developing solutions by the copper or sulphiding bath, which
+would cause development fog immediately.
+
+The “drum” system, on account of the expense involved in apparatus
+and the larger space required for manipulation, is not to be
+recommended for tinting and toning operations, though for operation
+on a small scale, a small wooden drum revolving in a shallow wooden
+tank is most efficient and economical.
+
+When the tank and rack system is employed, the tanks should be of
+slate or other resistive material, and have an outlet at the bottom
+in the form of a hard-rubber stopcock or a plain wooden plug. The
+racks or drums may be of wood, but if metal pegs are employed on
+the racks they should be coated with acid-resisting paint such as
+asphalt, since the presence of any metallic surface in the toning
+baths will cause contamination and effect a precipitation of sludge.
+The frames should not be interchanged but kept separate either for
+tinting or toning to prevent contamination of one bath with racks
+previously employed in another. This also applies to the small drum
+system. For instance, a pink tint would be ruined by using a rack
+which had previously been immersed in a deep blue dye-bath, unless
+that particular rack had been thoroughly washed. In the case of
+delicate tinting, however, no harm is done providing the racks have
+been previously coated with the following waterproof varnish:
+
+ Avoirdupois Metric
+
+ Hard paraffin 3½ lbs. 1600 grams
+ Carbon tetrachloride 10 gals. 40 liters
+
+Before treatment it is preferable to immerse the racks which have
+been previously used for developing, in a 1% solution of hydrochloric
+acid for two or three minutes, wash for fifteen minutes and
+thoroughly dry. The well-dried racks are then dipped in the above
+solution and the excess liquid drained off, when the varnish dries
+almost immediately. The varnishing should be repeated at intervals.
+
+Mixing Solutions
+
+Developers, toning solutions and dyes should be mixed in crocks of
+glazed earthenware or enameled iron, using warm water where necessary
+and ensuring thorough solution by stirring with a wooden paddle,
+which should be thoroughly washed after each operation. Having
+thus dissolved the chemicals in as small a quantity of warm water
+as possible, filter through fine muslin and make up the bath with
+cold water, so that the final solution will be at approximately the
+correct temperature.
+
+The chemicals employed should be pure (for the samples, “EKCo.”
+tested chemicals were used), and in cases where a good water supply
+is not available, only distilled water should be used.
+
+Troubles in Toning
+
+Most difficulties met with in toning may be traced to one or more of
+the following causes:
+
+_Uneven Toning_
+
+This may be due to:
+
+a. Grease on the film. Never project film before tinting or toning.
+
+b. Drying spots on untoned film. If possible, always tint or tone
+film immediately after washing and before drying.
+
+c. Examination of the film too frequently during toning, causes an
+oxidation of the toning solution in places where the solution fails
+to drain from the film.
+
+d. Insufficient or uneven washing of the film after bleaching and
+before toning (Tones F and G).
+
+_White Spots_
+
+White spots are produced by particles of hypo or carbonate dust or
+splashes of a solution of these, settling on the toned film. The
+toned image consists of silver together with more or less silver
+ferrocyanide and the ferrocyanides of uranium, iron and copper as the
+case may be. Silver ferrocyanide is soluble in hypo while uranium and
+iron ferrocyanides are soluble in a solution of sodium carbonate,
+strong ammonia, etc., so that the white spots indicate those parts
+where the toned image has been dissolved away.
+
+Irregular white spots may also be formed if the film is imperfectly
+squeegeed after washing and before drying, especially if the wash
+water is slightly alkaline. When a spot of water on the toned film
+evaporates, the small amount of alkali present in the water becomes
+more concentrated and finally dissolves away more or less of the
+tone, leaving a white spot on the film.
+
+White spots due to these causes may be prevented by immersing the
+film for a few seconds in a .5% solution of glacial acetic acid after
+toning and before placing on the drying rack.
+
+_Stained Highlights_
+
+Are caused by:
+
+a. Traces of fog on the film before toning.
+
+b. An improperly compounded toning bath. All solutions when new
+should be perfectly clear.
+
+c. Premature exhaustion of the bath. This is due either to the action
+of light or to the presence of some metal in the tank in the shape of
+screw heads, faucets, pins, etc., which gather the tone and cause the
+formation of sludge.
+
+It is important to keep all solutions containing potassium
+ferricyanide exposed as little as possible to daylight, to use only
+wooden racks with wooden pegs, and to cover all metal parts very
+carefully with acid resisting paint.
+
+d. In dye-toning, stained highlights are due either to insufficient
+washing after toning with copper, too strong a dye-bath, or an
+incorrect amount of acid in the dye-bath.
+
+Tints
+
+[Illustration: 1]
+
+[Illustration: 2]
+
+[Illustration: 3]
+
+[Illustration: 4]
+
+[Illustration: 5]
+
+[Illustration: 6]
+
+[Illustration: 7]
+
+[Illustration: 8]
+
+[Illustration: 9]
+
+[Illustration: 10]
+
+[Illustration: 11]
+
+[Illustration: 12]
+
+[Illustration: tint]
+
+[Illustration: tint]
+
+[Illustration: tint]
+
+[Illustration: tint]
+
+[Illustration: tint]
+
+[Illustration: tint]
+
+[Illustration: tint]
+
+[Illustration: tint]
+
+[Illustration: tint]
+
+[Illustration: tint]
+
+[Illustration: tint]
+
+[Illustration: tint]
+
+Tones
+
+[Illustration: Thin]
+
+[Illustration: Medium]
+
+[Illustration: Normal]
+
+[Illustration: A]
+
+[Illustration: B]
+
+[Illustration: C]
+
+[Illustration: D]
+
+[Illustration: E]
+
+[Illustration: F]
+
+[Illustration: G]
+
+[Illustration: H]
+
+[Illustration: I]
+
+[Illustration: tones]
+
+[Illustration: tones]
+
+[Illustration: tones]
+
+[Illustration: tones]
+
+[Illustration: tones]
+
+[Illustration: tones]
+
+[Illustration: tones]
+
+[Illustration: tones]
+
+[Illustration: tones]
+
+[Illustration: tones]
+
+[Illustration: tones]
+
+[Illustration: tones]
+
+Tinted and Toned
+
+[Illustration: J]
+
+[Illustration: K]
+
+[Illustration: L]
+
+[Illustration: M]
+
+[Illustration: N]
+
+[Illustration: Tone J Tint 6]
+
+[Illustration: Tone C Tint 1]
+
+[Illustration: Tone C Tint 4]
+
+[Illustration: Tone C Tint 6]
+
+[Illustration: Tone H Tint 2]
+
+[Illustration: Tone H Tint 6]
+
+[Illustration: Tone H Tint 8]
+
+[Illustration: tinted and toned]
+
+[Illustration: tinted and toned]
+
+[Illustration: tinted and toned]
+
+[Illustration: tinted and toned]
+
+[Illustration: tinted and toned]
+
+[Illustration: tinted and toned]
+
+[Illustration: tinted and toned]
+
+[Illustration: tinted and toned]
+
+[Illustration: tinted and toned]
+
+[Illustration: tinted and toned]
+
+[Illustration: tinted and toned]
+
+[Illustration: tinted and toned]
+
+ Transcriber’s Notes
+
+ pg 29 Changed: the tanks shoud be of slate
+ to: the tanks should be of slate
+
+*** END OF THE PROJECT GUTENBERG EBOOK TINTING AND TONING OF EASTMAN POSITIVE MOTION PICTURE FILM ***
+
+ 
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG™ LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg mission of promoting
+free access to electronic works by freely sharing Project Gutenberg
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg License must appear
+prominently whenever any copy of a Project Gutenberg work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+ This eBook is for the use of anyone anywhere in the United States and most
+ other parts of the world at no cost and with almost no restrictions
+ whatsoever. You may copy it, give it away or re-use it under the terms
+ of the Project Gutenberg™ License included with this eBook or online
+ at www.gutenberg.org. If you
+ are not located in the United States, you will have to check the laws
+ of the country where you are located before using this eBook.
+ 
+1.E.2. If an individual Project Gutenberg electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg electronic works
+provided that:
+
+ • You pay a royalty fee of 20% of the gross profits you derive from
+ the use of Project Gutenberg works calculated using the method
+ you already use to calculate your applicable taxes. The fee is owed
+ to the owner of the Project Gutenberg trademark, but he has
+ agreed to donate royalties under this paragraph to the Project
+ Gutenberg Literary Archive Foundation. Royalty payments must be paid
+ within 60 days following each date on which you prepare (or are
+ legally required to prepare) your periodic tax returns. Royalty
+ payments should be clearly marked as such and sent to the Project
+ Gutenberg Literary Archive Foundation at the address specified in
+ Section 4, “Information about donations to the Project Gutenberg
+ Literary Archive Foundation.”
+ 
+ • You provide a full refund of any money paid by a user who notifies
+ you in writing (or by e-mail) within 30 days of receipt that s/he
+ does not agree to the terms of the full Project Gutenberg™
+ License. You must require such a user to return or destroy all
+ copies of the works possessed in a physical medium and discontinue
+ all use of and all access to other copies of Project Gutenberg™
+ works.
+ 
+ • You provide, in accordance with paragraph 1.F.3, a full refund of
+ any money paid for a work or a replacement copy, if a defect in the
+ electronic work is discovered and reported to you within 90 days of
+ receipt of the work.
+ 
+ • You comply with all other terms of this agreement for free
+ distribution of Project Gutenberg™ works.
+ 
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg
+
+Project Gutenberg is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg’s
+goals and ensuring that the Project Gutenberg collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 41 Watchung Plaza #516,
+Montclair NJ 07042, USA, +1 (862) 621-9288. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

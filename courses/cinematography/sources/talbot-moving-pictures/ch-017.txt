@@ -1,0 +1,339 @@
+CHAPTER XVI
+
+PICTURES THAT MOVE, TALK, AND SING
+
+When Edison invented the “Kinetoscope,” his ambition was, not only to
+produce movement by the aid of pictures, but sound by the aid of the
+phonograph. But it proved a hopeless quest; and accordingly Edison
+confined his efforts for the time being to the perfection of animated
+photography.
+
+In an earlier chapter I have described some devices for imitating
+sound. In this chapter I am speaking, not of imitation, but of
+reproduction. In order to secure perfect combination of movement and
+sound, it is essential to secure absolute synchronism in the actuation
+of the camera and that of the talking machine. This was Edison’s
+insuperable difficulty. A single motor was utilised for both machines;
+but the phonograph was easier to stop and to restart than the camera,
+owing to the fact that the latter had to be driven at sufficient speed
+to secure 46 pictures per second.
+
+The moving and singing picture machine known as the “Kinetograph,”
+which worked upon the automatic “nickel-in-the-slot” principle, had a
+very brief existence. It was placed in cigar shops, railway stations,
+and other convenient public places, but it failed to interest the
+public, and was withdrawn in a short time.
+
+Yet Edison did not relinquish his original plan. He cherished the
+idea that combined pictorial and audible records were feasible, and
+for nineteen years he devoted his energies to the consummation of the
+task. It was only a short time ago that the great inventor announced
+that he had succeeded at last. In the meantime, however, he had been
+anticipated by industrious and energetic experimenters in Europe.
+
+In 1908 an attempt to produce motion and sound was made commercially
+with the “Cinephone.” The solution presented in this apparatus is
+undoubtedly novel, but the results are very unsatisfactory, and its
+success is dependent entirely upon the skill of the operator. The
+“Cinephone” is designed to accompany the motions of acting with the
+sounds pertaining thereto. The pictures are fitted to the talking
+machine records--that is to say, the cinematographer merely takes a
+gramophone record and produces a film suitable thereto. Edison’s plan
+was far more comprehensive. His idea was to prepare the phonographic
+record at the same time as the film pictures were made--for example,
+while a football or baseball match was being cinematographed, the
+phonograph was to record the applause, cheers, shouts--in short, make
+as complete a record for the ear as the camera did for the eye.
+
+The principle governing the operation of the Cinephone is extremely
+simple. An ordinary talking machine is employed, without any
+modification beyond the addition of a small box with a governing
+dial, and a similar dial in the pictures upon the screen. The dial
+in each instance is fitted with a revolving hand, similar to that of
+a clock, and all that the operator is called upon to do is to keep
+the respective hands in relative positions by the manipulation of the
+projector.
+
+The talking machine is mounted upon a baseboard, which is extended in
+front a sufficient distance to carry a small box the front face of
+which is fitted with the dial. The clock-like hand is transparent,
+and when an electric lamp, or other suitable illuminant, is placed
+within the box, it becomes illuminated, so that its rotation may be
+followed easily. The circle described by the hand is indicated at its
+four quarters by a small transparent point, through which passes the
+light from within the box. These four spots of light can be eclipsed
+and revealed by the movement of a shutter lever. When the lights appear
+the operator knows that the talking machine is ready. The hand of
+the rotating dial is actuated by mechanism driven by the motor of the
+talking machine, through a horizontal spindle.
+
+In the bottom left-hand corner of each picture thrown on the screen
+is a duplicate of the talking machine dial. The position of the hand
+on each successive picture varies correspondingly with that on the
+gramophone, because in the preparation of the pictures the speaking or
+singing characters have accompanied the gramophone with their acting.
+When the picture is shown the speed of projection gives a steady
+forward motion to the hand on the picture dial.
+
+When the apparatus is brought into play in the moving picture theatre
+the talking machine is placed on the stage in such a way that its
+illuminated dial is visible to the cinematograph operator. The latter’s
+duty is to run the film through the machine at such a speed that the
+position of the hand on the picture dial keeps step with that of the
+talking machine dial. If this is done with precision, the action in the
+picture coincides with the sounds emitted from the talking machine.
+
+This apparatus can be applied to any type of projector without any
+preliminary preparations whatever, and the mechanism of the latter has
+not to be modified or touched in any way. But, on the other hand, there
+are grave defects. Synchrony between picture and talking machine is
+dependent upon the operator, and until the latter has become accustomed
+to the combination, the results are disconcerting. It is no simple
+matter to keep the hands of the two dials rotating harmoniously. When
+the film lags behind the talking machine, a pronounced speeding up is
+requisite to bring the two hands into synchrony. The increased work
+thrown upon the operator is also far from being a negligible quantity.
+He has to watch the two dials intently, and cannot centre his mind upon
+the projector, as he should be free to do. More than once I have seen a
+film snap under the strain imposed in the effort to catch up with the
+talking machine, or the light has demanded attention, and the result
+has been far from pleasing. However, the appearance of the “Cinephone”
+served to stimulate inventive effort in this particular field, and
+proved to the public that the production of pictures that talked and
+sang, as well as moved, was by no means so forlorn a possibility as had
+been imagined generally.
+
+The next attempt in the same direction met with better success--in the
+“Vivaphone,” perfected by the Hepworth Manufacturing Company, Limited.
+In this machine the two dials were eliminated in favour of a single
+electric control or synchroniser.
+
+In the projecting box by the operator’s side is a small, compact case.
+This is the synchroniser, consisting primarily of a vertical needle,
+which can move to the right or to the left. The movement or deflection
+of this needle is effected by means of two electromagnets. One exerts a
+pull upon the needle towards the right, while the other draws it in the
+opposite direction. These two electromagnets are electrically connected
+to the cinematograph and to the talking machine respectively.
+
+[Illustration: FIG. 14.--THE ELECTRICAL SYNCHRONISING ATTACHMENT TO THE
+TALKING MACHINE IN THE “VIVAPHONE.”]
+
+The attachments to the projector and the gramophone are very simple.
+The electrical contact device or commutator is attached to the handle
+to establish connection between the two parts of the apparatus. On the
+gramophone is another commutator (Fig. 14). It consists of an arm,
+one edge of which rests on the case of the talking machine, while
+the opposite end engages with the motor spindle of the gramophone
+projecting vertically through the turn-table.
+
+[Illustration: FIG. 15.--THE ELECTRICAL WIRING SYSTEM OF THE
+“VIVAPHONE.”]
+
+The installation of this apparatus (Fig. 15) is likewise simple.
+The synchroniser _A_ is placed in a convenient position in the
+operator’s box, while the gramophone _B_ is set upon the stage. From
+the projecting handle commutator _C_ a pair of wires are run and
+attached to the connections _K_ in the synchroniser, while similarly
+a pair of wires are carried from the talking machine commutator to
+the connections _G_ in the synchroniser. Two wires are led from the
+terminals _B_ in the synchroniser to the battery _F_. Sufficient energy
+for the electric current is furnished from a 4 or 6 volt accumulator,
+such as is used in automobile practice, or from a dry storage battery.
+Ordinary bell wire suffices for the purposes of the connections. If the
+distance between the screen and the projecting box is very great it is
+advisable to introduce an auxiliary cell _D_ in the gramophone circuit.
+
+Behind the vertical needle of the synchroniser is a narrow transparent
+slot, which, when the synchrony is perfect, is covered by the needle
+itself. The upper end of the needle is fitted with two small glazed
+apertures or spectacle glasses, one on either side, fitted with red
+and green glass respectively. When the apparatus is in use the two
+electromagnets controlled by the cinematograph and the gramophone
+respectively exert a pull in opposite directions--the gramophone
+endeavours to draw the needle one way, and the projector electromagnet
+attempts to pull it in the other direction. If the projector is
+lagging, the needle moves over, bringing the red spectacle before
+the light aperture, and the red light thus shown warns the operator
+to accelerate the projector. On the other hand, if the projector is
+running too fast, the needle moves in the opposite direction and brings
+the green light into prominence. The degree of the deflection of the
+needle indicates how far the synchronisation is disturbed. When the
+opposing forces of the electromagnets are exactly equal, the needle
+maintains a vertical position, and shows absolute synchrony. It will
+be seen that the signalling system is very sensitive and accurate, and
+at the same time enables the operator to have complete control over
+projection. In fact this is the most perfect system of synchronising
+the pictures with the sounds emitted from the gramophone that has been
+yet produced in the combination of sound and movement. Some excellent
+subjects have been produced with this machine, one of the finest being
+the sound and movement reproduction of “Faust.”
+
+But, after all, these devices are far from representing the ideal
+singing and talking cinematograph. The drawback is this: the conditions
+prevent the pictures being secured at the same moment that the relative
+sounds are being recorded by the gramophone.
+
+While Edison was striving with the problem, French investigators
+were active, and the first practical success in the field must be
+credited to Monsieur Léon Gaumont, the head of the French cinematograph
+establishment of that name. He succeeded where Edison failed; or
+rather, he anticipated the famous American inventor by several years.
+It was as far back as November 7th, 1902, that Monsieur Gaumont
+introduced his achievement for the first time before the French
+Photographic Society. The apparatus was not yet perfect, but it served
+to demonstrate that the synchronous production of sound and movement
+by the aid of the cinematograph and the talking machine was within
+measurable distance of attainment. The demonstration was held primarily
+to show how perfect a synchronising mechanism had been evolved. The
+great difficulty encountered was in regard to the sensitive character
+of the material required for taking the records of sounds from a
+distance. The ordinary process then in vogue was far from being
+suitable. By the aid of several interested friends and collaborators,
+however, Monsieur Gaumont was able to conquer this obstacle, and on
+December 27th, 1910, the “Chronophone,” as the new invention is called,
+was submitted to the approval of the French Academy of Sciences and was
+regarded as eminently successful by that distinguished learned body.
+
+Synchronism--both in producing and reproducing--between the
+cinematograph and the talking machine is secured by electrical
+connections between motors which furnish the requisite power for
+driving the two essential parts of the apparatus. In evolving such a
+combination as this the inventor had to bear in mind that portability
+and simplicity were two fundamental requisitions, so that resort to
+heavy, bulky, and intricate mechanism was quite out of the question. In
+comparison with the Cinephone and Vivaphone, the Chronophone appears
+somewhat complicated. But this is only relative. The apparatus is
+almost entirely automatic in its operation. Yet it can be operated by
+hand if necessary. If the latter method is adopted, the energy required
+to secure synchrony is derived from batteries or accumulators.
+
+Synchrony is obtained by means of a patented system, which may be
+briefly described. The two motors required for driving the talking
+machine and the cinematograph respectively are of identical design,
+of approximately the same power, and are operated by the same direct
+current. The armatures of each motor are divided into sections, and the
+corresponding sections of the two armatures are connected together.
+By means of this arrangement the two armatures are rotated at the
+same speed, notwithstanding the slight differences in the mechanical
+resistance opposed to the machines.
+
+The talking machine, driven by an electric motor, is of the disc
+type, fitted with two horns, so as to diffuse the sounds through
+the building. If the theatre is spacious the number of horns may
+be increased, while the sound waves projected into the hall may
+be intensified in volume by means of compressed air, as in the
+Auxetophone devised by the Hon. C. A. Parsons, which is also capable
+of considerable adjustment, so that the volume of sound may be
+accommodated to the acoustic properties of the building.
+
+[Illustration: FIG. 16.--THE GAUMONT “CHRONOPHONE.”]
+
+In comparison with the ordinary bioscope mechanism the Chronophone
+projector appears somewhat intricate, but here again everything has
+been simplified to a remarkable degree, while all adjustments are
+carried out automatically. The projector installation (Fig. 16), in
+addition to the lantern _A_ and projecting mechanism _B_ employed in
+the ordinary equipment, consists of a small motor _C_, which drives
+the projector mechanism proper and a differential _D_, whereby error
+between sound and movement is corrected, driven by a small motor _E_.
+
+To start the apparatus, the first picture of the film, say that of the
+title, is placed in the film gate before the exposure aperture, and the
+needle of the talking machine sound box is placed on the first groove
+of the disc record. The talking machine motor is started, and the table
+carrying the record commences to revolve. Directly the needle reaches
+the point in the disc groove where the first sound wave has been
+recorded, an electrical contact is established, which is transmitted to
+the projector, and sets the latter in motion. But it may be that the
+speed is too much or not enough; the pictures move too slowly or too
+quickly, and the tone of the sound emitted by the talking machine is
+unnatural. In this case the operator moves the rheostat handle _F_ over
+its contacts, this movement accelerating both the talking machine and
+the projector until the correct natural speed has been secured.
+
+Again it may be that the pictures are slightly in advance of the
+phonograph, or _vice versâ_; the movements of the lips of the singer or
+actions of the performer do not coincide with the emission of sound.
+This error may be rectified instantly. There is a two-way commutator
+on the control board, which the operator moves in one direction or the
+other according to requirements. This instantly starts up the small
+dynamo _E_, the power of which is transmitted through belt and pulley
+to the differential gearing _D_, which works on the same shaft as that
+driving the projector. If the projector is lagging it is speeded up, so
+as to overtake the talking machine, or if the pictures are in advance
+of the sound, it is retarded until synchronism is restored. This device
+is particularly useful, inasmuch as the talking machine is somewhat
+sensitive to outside disturbance; if the machine is not set quite
+level, or receives a violent vibration, the needle jumps suddenly from
+one groove into another. By accelerating the projector this lead can
+soon be reduced without touching the talking machine in the slightest.
+
+The operator need not follow the movement of the pictures upon the
+screen, or listen to the talking machine in order to ascertain that
+synchrony is perfect. He merely keeps his eye on an ingenious, simple
+“control board,” which is set up in a convenient position beside the
+projector operator. It includes a starting gear, whereby the talking
+machine is set in motion, and which in turn actuates the cinematograph
+by the disc electrical contact, an electric switch, a volt meter, which
+acts as a speed indicator, its readings, in fact, having a constant
+relation to the revolving speed of the talking machine turn-table; and
+a two-way commutator, where the differential motor is started up.
+
+The differential gearing is somewhat interesting. It belongs to the
+four-wheel type. There are two driven cog wheels 1 and 2 keyed to the
+ends of the interrupted shaft of the projector motor, and between these
+two wheels, and set at right angles thereto, are two satellite wheels
+3 and 4, which mesh with the former wheels. If the cinematograph and
+the talking machine are moving in exact synchrony, the wheels 1 and 2
+run at similar speed, but in opposite directions, and in harmony with
+wheels 3 and 4. To the short end of the interrupted shaft a needle is
+attached, and when synchrony is prevailing this needle maintains a
+vertical position. Now, if the phonograph runs away from the projector,
+this needle moves either to the right or to the left, and as it slides
+over a graduated scale the operator can detect in an instant how
+many pictures the projector is lagging behind the talking machine.
+The cinematograph projector accordingly must be speeded up, and the
+operator moves the commutator on his control board in the desired
+direction. Then instead of the two satellite wheels meshing evenly with
+the two wheels 1 and 2, they become displaced, with the result that the
+shaft driving the projector is rotated more rapidly, and overtakes the
+talking machine, the needle on the dial meanwhile moving towards zero,
+until, when it reaches its vertical position, the differential gearing
+and its motor are stopped. If the projector should have advanced
+before the talking machine, it is retarded, the needle deflecting in
+the opposite direction and requiring to be restored to zero. It will
+be seen that the speed of the talking machine remains constant. Any
+correction that has to be made is effected by means of accelerating or
+retarding the speed of projection.
+
+As, however, the records of movement and sound are made in synchrony,
+and in view of the fact that both projector and talking machine run
+at the same speed, if started simultaneously no displacement of one
+in relation to the other should result. The differential, however,
+provides a means of correcting any accidental displacement of the
+phonograph needle when reproduction is carried out.
+
+The Gaumont apparatus has proved highly successful, and has been
+turned to useful account already; we have excerpts from operas,
+ballets, recitations, and so forth recorded and projected with a
+perfect relationship between sound and movement. Through the energy and
+perseverance of Monsieur Gaumont the value of animated pictures has
+received a decisive forward impetus.
+
+Edison has devoted his energies in the solution of the problem to the
+perfection of a more sensitive material than the wax hitherto employed.
+Naturally he has confined his attention to adapting to this work the
+phonograph or cylinder talking machine in preference to the disc
+machine, the former being his own invention.
+
+What is the future of the phono-cinematograph? In the first place,
+until the peculiar nasal sound is eliminated from the talking machine
+it will not prove popular. It is well-nigh impossible, unless a
+speaker or singer has peculiar characteristics, to identify voices
+on this instrument. Furthermore expression in tone is practically
+non-existent. Though the cinematographic world be flooded with talking
+and singing pictures, unless they are of some peculiar interest, the
+majority of picture-theatre lovers, after the first wave of excitement
+and curiosity, will patronise those establishments where they can see
+movement alone.

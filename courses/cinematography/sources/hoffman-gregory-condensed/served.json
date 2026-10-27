@@ -1,0 +1,146 @@
+{
+ "ch-001.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-10-26"
+ },
+ "ch-002.txt": {
+  "limit": 4000,
+  "done": 2,
+  "total": 2,
+  "date": "2026-10-26"
+ },
+ "ch-003.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-10-26"
+ },
+ "ch-004.txt": {
+  "limit": 4000,
+  "done": 2,
+  "total": 2,
+  "date": "2026-10-26"
+ },
+ "ch-005.txt": {
+  "limit": 4000,
+  "done": 2,
+  "total": 2,
+  "date": "2026-10-26"
+ },
+ "ch-006.txt": {
+  "limit": 4000,
+  "done": 2,
+  "total": 2,
+  "date": "2026-10-26"
+ },
+ "ch-007.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-10-26"
+ },
+ "ch-008.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-10-26"
+ },
+ "ch-009.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-10-26"
+ },
+ "ch-010.txt": {
+  "limit": 4000,
+  "done": 2,
+  "total": 2,
+  "date": "2026-10-26"
+ },
+ "ch-011.txt": {
+  "limit": 4000,
+  "done": 2,
+  "total": 2,
+  "date": "2026-10-26"
+ },
+ "ch-012.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-10-26"
+ },
+ "ch-013.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-10-26"
+ },
+ "ch-014.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-10-26"
+ },
+ "ch-015.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-10-26"
+ },
+ "ch-016.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-10-26"
+ },
+ "ch-017.txt": {
+  "limit": 4000,
+  "done": 2,
+  "total": 2,
+  "date": "2026-10-26"
+ },
+ "ch-018.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-10-26"
+ },
+ "ch-019.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-10-26"
+ },
+ "ch-020.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-10-26"
+ },
+ "ch-021.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-10-26"
+ },
+ "ch-022.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-10-26"
+ },
+ "ch-023.txt": {
+  "limit": 4000,
+  "done": 2,
+  "total": 2,
+  "date": "2026-10-26"
+ },
+ "ch-024.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-10-26"
+ }
+}

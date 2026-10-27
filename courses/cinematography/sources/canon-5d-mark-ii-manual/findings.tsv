@@ -1,0 +1,4 @@
+2026-10-26	2	confirmed	ch-007.txt	Manual limits 1920x1080 movies to about 12 min per 4 GB card and stops recording at 4 GB or 29 min 59 s (Canon test standards). Course module 2 gives the same limits, sourced to Wikipedia.
+2026-10-26	2	absent	ch-007.txt	Manual gives the 4 GB and 29 min 59 s limits but no reason. Course module 2 attributes the 4 GB cap to the FAT32 file system; the manual does not say so, and the claim needs a second source.
+2026-10-26	2	extended	ch-007.txt	Movie mode: ISO is set automatically (ISO 100 standard, up to 6400, expandable to H1 12800); metering is centre-weighted average; autofocus during recording is not recommended because it can shift focus or exposure.
+2026-10-26	2	note	ch-011.txt	Spec sheet: CMOS sensor about 36 x 24 mm, 21.10 MP. Movies are MOV with H.264 video and linear PCM audio, at 1920x1080 or 640x480 (4:3).

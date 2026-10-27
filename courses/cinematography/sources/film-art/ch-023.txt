@@ -1,0 +1,1302 @@
+CHAPTER 12 Film Art and Film History
+
+ 
+
+ 
+
+“Not everything is possible at all times.” This aphorism of art historian Heinrich Wölffin might serve as a slogan for our final chapter. So far, our survey of film art has examined various formal and stylistic possibilities, and we’ve drawn our examples from the entire range of film history. But film forms and techniques don’t exist in a timeless realm, equally accessible to all filmmakers. In particular historical circumstances, certain possibilities are present while others are not. Griffith could not make films as Godard does, nor could Godard make films as Griffith did. This chapter asks, What are some ways in which film art has been treated in particular historical contexts?
+
+We consider those contexts first by period and then by nation. Although there are other equally good tools for tracing change, it’s illuminating to note filmmaking trends in different times and places. In some of our cases, we’ll look for what are typically called film movements. A film movement consists of two elements:
+
+Films that are produced within a particular period and/or nation and that share significant traits of style and form
+
+Filmmakers who operate within a common production structure and who share certain assumptions about filmmaking
+
+There are other ways of defining a historical context (for example, biographical study or genre study), but the category of movement corresponds most closely to the emphasis of this book. The concepts of formal and stylistic systems permit us to compare films within a movement and to contrast them with films of other movements.
+
+Our range of choice will be narrowed still further. We’re concerned with Hollywood and selected alternatives. We’ll trace the development of the commercial American narrative cinema while contrasting it to other approaches to style and form.
+
+Because we’re exploring historical contexts, we go beyond noting stylistic and formal qualities. For each period and nation, we’ll also sketch relevant factors that affect the cinema. These factors include the state of the film industry, artistic theories held by the filmmakers themselves, pertinent technological features, and cultural and economic elements. These factors necessarily help explain how a particular trend began, what shaped its development, and what affected its decline. This material will also provide a context for particular films we’ve already discussed; for example, the following section on early cinema situates Lumière and Méliès in their period.
+
+Needless to say, what follows is drastically incomplete. The writing of serious film history is in its early stages, and we must often rely on secondary sources that will eventually be superseded. Moreover, there are many unfortunate omissions. Important filmmakers who don’t relate to a trend or movement (for example, Tati, Bresson, and Kurosawa) are absent, as are certain important film movements, such as French populist cinema of the 1930s and Brazil’s Cinema Nôvo movement of the early 1960s. What follows simply seeks to show how certain possibilities of film form and style were explored within a few typical and well-known historical periods.
+
+CONNECT TO THE BLOG
+
+Some filmmakers have tried to escape this inevitability by imitating older films. Does it work? On The Good German, see “Not back to the future, but ahead to the past,” at www.davidbordwell.net/blog/?p=66; on Casino Royale, see “Can they make up like they used to? continued,” at www.davidbordwell.net/blog/?p=195.
+
+Early Cinema (1893–1903)
+
+CONNECT TO THE BLOG
+
+For a detailed account, see our other textbook, Film History: An Introduction. We discuss how we wrote it in “Around the world in 750 pages,” at www.davidbordwell.net/blog/?p=3682.
+
+In order to create the illusion of movement, still pictures must appear in rapid succession. To prepare them and display them at the right rate, certain technologies are necessary. Most basically, there must be a way of recording a long series of images on some sort of support. In principle, one could simply draw a string of images on a strip of paper or a disc. But photography offered the cheapest and most efficient way to generate the thousands of images needed for a reasonably lengthy display. Thus the invention of photography in 1826 launched a series of discoveries that made cinema possible.
+
+Early photographs required lengthy exposures (initially hours, later minutes) for a single image; this made photographed motion pictures, which need 12 or more frames per second, impossible. Faster exposures, of about second, became possible by the 1870s, but only on glass plates. Glass plates weren’t usable for motion pictures since there was no practical way to move them through a camera or projector. In 1878, Eadweard Muybridge, an American photographer, did make a series of photographs of a running horse by using a series of cameras with glass plate film and fast exposure, but he was primarily interested in freezing phases of an action, not re-creating the movement by projecting the images in succession.
+
+CONNECT TO THE BLOG
+
+Early cinema was influenced by other media of its day, including narrative painting. We suggest some similarities in “Professor sees more parallels between things, other things.”
+
+See
+www.davidbordwell.net/blog/?p=901.
+
+In 1882, another scientist interested in analyzing animal movement, the Frenchman Étienne-Jules Marey, invented a camera that recorded 12 separate images on the edge of a revolving disc of film on glass. This constituted a step toward the motion picture camera. In 1888, Marey built the first camera to use a strip of flexible film, this time on paper. Again, the purpose was only to break down movement into a series of stills, and the movements photographed lasted a second or less.
+
+In 1889, George Eastman introduced a crude flexible film base, celluloid. Once this base was improved and camera mechanisms had been devised to draw the film past the lens and expose it to light, the creation of long strips of frames became possible.
+
+Projectors had existed for many years and had been used to show slides and other shadow entertainments. These magic lanterns were modified by the addition of shutters, cranks, and other devices to become early motion picture projectors.
+
+One final device was needed if films were to be projected. Since the film stops briefly while the light shines through each individual frame, there had to be a mechanism to create an intermittent motion of the film. Marey used a Maltese cross gear on his 1888 camera, and this became a standard part of early cameras and projectors.
+
+A flexible and transparent film base, a fast exposure time, a mechanism to pull the film through the camera, an intermittent device to stop the film, and a shutter to block off light—all these innovations had been achieved by the early 1890s. After several years, inventors working independently in many countries had developed different film cameras and projection devices. The two most important firms were the Edison Manufacturing Company in America, owned by inventor Thomas A. Edison, and Lumière Frères in France, the family firm of Louis and Auguste Lumière.
+
+By 1893, Thomas A. Edison’s assistant, W.K.L. Dickson, had developed a camera that made short 35mm films. Interested in exploiting these films as a novelty, Edison hoped to combine them with his phonograph to show sound movies. He had Dickson develop a peep-show machine, the Kinetoscope
+(12.1), to display these films to individual viewers.
+
+ 
+
+12.1 The Kinetoscope held film in a continuous loop threaded around a series of bobbins.
+
+ 
+
+ 
+
+Since Edison believed that movies were a passing fad, he did not develop a system to project films onto a screen. This task was left to the Lumière brothers. They invented their own camera independently; it exposed a short roll of 35mm film and also served as a projector (12.2). On December 28, 1895, the Lumière brothers held one of the first public showings of motion pictures projected on a screen, at the Grand Café in Paris.
+
+ 
+
+12.2 Placing a magic lantern behind the Lumière camera turned it into a projector.
+
+ 
+
+ 
+
+There had been several earlier public screenings, including one on November 1 of the same year by the German inventor Max Skladanowsky. But Skladanowsky’s bulky machine required two strips of wide-gauge film running simultaneously and hence had less influence on the subsequent technological development of the cinema. Although the Lumières didn’t wholly invent cinema, they largely determined the specific form the new medium was to take. Edison himself was soon to abandon Kinetoscopes and form his own production company to make films for theaters.
+
+The first films were simple in form and style. They usually consisted of a single shot framing an action, usually at long-shot distance. In the first film studio, Edison’s Black Maria (12.3), vaudeville entertainers, famous sports figures, and celebrities like Annie Oakley performed for the camera. A hinged portion of the roof opened to admit a patch of sunlight, and the entire building turned on a circular rail (visible in 12.3) to follow the sun’s motion. The Lumières, however, took their cameras out to parks, gardens, beaches, and other public places to film everyday activities or news events, as in their Arrival of a Train at La Ciotat (5.61).
+
+ 
+
+12.3 The hinged portion of the Black Maria’s roof, at the center, swung open for filming.
+
+ 
+
+ 
+
+Until about 1903, most films showed scenic places or noteworthy events, but narrative form also entered the cinema from the beginning. Edison staged comic scenes, such as one copyrighted 1893 in which a drunken man struggles briefly with a policeman. The Lumières made a popular short L’Arroseur arrosé (The Waterer Watered, 1895), also a comic scene, in which a boy tricks a gardener into squirting himself with a hose (4.8).
+
+After the initial success of the new medium, filmmakers had to find more complex or interesting formal properties to keep the public’s interest. The Lumières sent camera operators all over the world to show films and to photograph important events and exotic locales. But after making a huge number of films in their first few years, the Lumières reduced their output, and they ceased filmmaking altogether in 1905.
+
+“In conjuring you work under the attentive gaze of the public, who never fail to spot a suspicious movement. You are alone, their eyes never leave you. Failure would not be tolerated. … While in the cinema … you can do your confecting quietly, far from those profane gazes, and you can do things thirty-six times if necessary until they are right. This allows you to travel further in the domain of the marvellous.”
+
+— George Méliès, magician and filmmaker
+
+ 
+
+In 1896, Georges Méliès purchased a projector from the British inventor Robert William Paul and soon built a camera based on the same mechanism. Méliès’s first films resembled the Lumières’ shots of everyday activities. But as we have seen (pp. 113–115), Méliès was also a magician, and he discovered the possibilities of simple special effects. In 1897, Méliès built his own studio. Unlike Edison’s Black Maria, Méliès’s studio was glass-sided like a greenhouse, so that the studio did not have to move with the sun (12.4).
+
+ 
+
+12.4 Méliès’s glass-sided studio admitted sunlight from a variety of directions.
+
+ 
+
+ 
+
+Méliès also began to build elaborate settings to create fantasy worlds within which his magical transformations could occur. We have already seen how Méliès thereby became the first master of mise-en-scene technique (4.3–4.6). From the simple filming of a magician performing a trick or two in a traditional stage setting, Méliès progressed to longer narratives with a series of tableaux. Each consisted of one shot, except when the transformations occurred. These were created by cuts designed to be imperceptible on the screen. He also adapted old stories, such as Cinderella (1899), or wrote his own. All these factors made Méliès’s films extremely popular and widely imitated.
+
+During this early period, films circulated freely from country to country. The French phonograph company Pathé Frères moved into filmmaking from 1901 on, establishing production and distribution branches in many countries. Soon Pathé was the largest film concern in the world, a position it retained until 1914, when the beginning of World War I forced it to cut back production. In England, several entrepreneurs managed to invent or obtain their own filmmaking equipment and made scenics, narratives, and trick films from 1895 into the early years of the 20th century. Members of the Brighton School (primarily G. Albert Smith and James Williamson), as well as others like Cecil Hepworth, shot their films on location or in simple open-air studios (as in 12.5). Their innovative films circulated abroad and influenced other filmmakers. Pioneers in other countries invented or bought equipment and were soon making their own films of everyday scenes or fantasy transformations.
+
+ 
+
+12.5 G. Albert Smith’s Santa Claus (1898).
+
+ 
+
+ 
+
+From about 1904 on, narrative form became the most prominent type of filmmaking in the commercial industry, and the worldwide popularity of cinema continued to grow. French, Italian, and American films dominated world markets. Later, World War I was to restrict the free flow of films from country to country, and Hollywood emerged as the dominant industrial force in world film production, contributing to the creation of distinct differences in the formal traits of individual national cinemas.
+
+The Development of the Classical Hollywood Cinema (1908–1927)
+
+Edison was determined to exploit the money-making potential of his company’s invention. He tried to force competing filmmakers out of business by bringing patent-violation suits against them. One other company, American Mutoscope & Biograph, managed to survive by inventing cameras that differed from Edison’s patents. Other firms kept operating while Edison fought them in court. In 1908, Edison cooperated with Biograph to bring these other companies under control by forming the Motion Picture Patents Company (MPPC), a group of 10 firms based primarily in Chicago, New York, and New Jersey. Edison and Biograph were the only stockholders and patent owners. They licensed other members to make, distribute, and exhibit films.
+
+The MPPC never succeeded in eliminating its competition. Numerous independent companies were established throughout this period. Biograph’s most important director from 1908 on, D. W. Griffith, formed his own company in 1913, as did other filmmakers. The United States government brought suit against the MPPC in 1912; in 1915, it was declared a monopoly.
+
+CONNECT TO THE BLOG
+
+Hollywood wasn’t the only place where film form and style were developing in the 1910s. For an international survey of the important year 1913, see “Lucky ’13,” at www.davidbordwell.net/blog/?p=2674.
+
+Around 1910, film companies began to move permanently to California. Some historians claim that the independent companies fled west to avoid the harassment of the MPPC, but some MPPC companies also made the move. Among the advantages of Hollywood were the climate, which permitted shooting year-round, and the great variety of terrains—mountains, ocean, desert, city—available for location shooting. Soon Hollywood and other small towns on the outskirts of Los Angeles played host to film production.
+
+The demand for films was so great that no single studio could meet it. This was one of the factors that had led Edison to accept the existence of a group of other companies, although he tried to control them through his licensing procedure. Before 1920, the American industry assumed the structure that would continue for decades: a few large studios with individual artists under contract and a peripheral group of small, independent producers. In Hollywood, the studios developed a factory system, with each production under the control of the producer, who usually did not work on the actual making of the films. Even an independent director such as Buster Keaton, with his own studio, distributed his films through larger companies, first Metro and then United Artists.
+
+“The cinema knows so well how to tell a story that perhaps there is an impression that it has always known how.”
+
+— André Gaudreault, film historian
+
+ 
+
+Gradually, through the 1910s and 1920s, the smaller studios merged to form the large firms that still exist today. Famous Players joined with Jesse L. Lasky and then formed a distribution wing, Paramount. By the late 1920s, most of the major companies—MGM (a merger of Metro, Goldwyn, and Mayer), Fox Film Corporation (merged with 20th Century in 1935), Warner Bros., Universal, and Paramount—had been created. Though in competition with one another, these studios tended to cooperate to a degree, realizing that no one firm could satisfy the market.
+
+Within this system of mass-production studios, the American cinema became definitively oriented toward narrative form. Early films had consisted primarily of tableaux or vaudeville skits (12.5). One of Edison’s directors, Edwin S. Porter, made some of the first films to use principles of narrative continuity and development. Among these was The Life of an American Fireman (1903), which showed the race of the firefighters to rescue a mother and a child from a burning house. Although this film used several important classical narrative elements (a fireman’s premonition of the disaster, a series of shots of the horse-drawn engine racing to the house), it still had not worked out the logic of temporal relations in cutting. Thus we see the rescue of a mother and her child twice, from both inside and outside the house. Porter had not realized the possibility of intercutting the two locales within the action or matching on action to convey narrative information to the audience.
+
+In 1903, Porter made The Great Train Robbery, in some ways a prototype for the classical American film. Here the action develops with a clear linearity of time, space, and logic. We follow each stage of the robbery (12.6), the pursuit, and the final defeat of the robbers. In 1905, Porter also created a simple parallel narrative in The Kleptomaniac, contrasting the fates of a rich woman and a starving woman who are both caught stealing.
+
+ 
+
+12.6 The robbers in the telegraph office in The Great Train Robbery, preparing to board the train seen through the window.
+
+ 
+
+ 
+
+British filmmakers were working along similar lines. Indeed, many historians now believe that Porter derived some of his editing techniques from films such as James Williamson’s Fire! (1901) and G. A. Smith’s Mary Jane’s Mishap (1903). The most famous British film of this era was Lewin Fitzhamon’s 1905 film Rescued by Rover (produced by a major British firm, Cecil Hepworth), which treated a kidnapping in a linear fashion similar to that of The Great Train Robbery. After the kidnapping, we see each stage of Rover’s journey to find the child, his return to fetch the child’s father, and their retracing of the route to the kidnapper’s lair. All the shots along the route maintain consistent screen direction, so that the geography of the action is completely intelligible (12.7, 12.8).
+
+ 
+
+12.7 In Rescued by Rover, the heroic dog leads his master along a street from the right rear moving toward the left foreground …
+
+ 
+
+ 
+
+ 
+
+12.8 … and the pair is moving from right to left as they reach their destination.
+
+ 
+
+ 
+
+In 1908, D. W. Griffith began his directing career. Over the next five years, he would make hundreds of one- and two-reelers (running about 15 and 30 minutes, respectively). These films created relatively complex narratives in short spans. Griffith certainly didn’t invent all the devices with which he has been credited, but he did give many techniques strong narrative motivation. For example, a few other filmmakers had used simple last-minute rescues with crosscutting between the rescuers and victims, but Griffith developed and popularized this technique (6.101–6.104). By the time he made The Birth of a Nation (1915) and Intolerance (1916), Griffith was creating lengthy sequences by cutting among several different locales. During the early teens, he also directed his actors in an unusual way, concentrating on subtle changes in facial expression (4.32). To catch such nuances, he set up his camera closer than did many of his contemporaries, framing his actors in medium long shot or medium shot. Griffith’s films were widely influential. In addition, his dynamic, rapid editing in the final chase scenes of Intolerance was to have a considerable impact on the Soviet Montage style of the 1920s.
+
+The refinement of narratively motivated cutting occurs in the work of a number of important filmmakers of the period. One of these was Thomas H. Ince, a producer and director responsible for many films between 1910 and the end of World War I. He devised a unit system, whereby a single producer could oversee the making of several films at once. He also called for tight narratives, with no digressions or loose ends. Civilization (1915) and The Italian (1915) are good examples of films directed or supervised by Ince. He also supervised the popular Westerns of William S. Hart (p. 328), who directed many of his own films.
+
+Another prolific filmmaker of this period (and later years as well) was Cecil B. De Mille. Not yet engaged in the creation of historical epics, De Mille made a series of feature-length dramas and comedies. His The Cheat (1915) reflects important changes occurring in the studio style between 1914 and 1917. During that period, the glass-roofed studios of the earlier period began to give way to studios dependent on artificial lighting rather than mixed daylight and electric lighting. The Cheat used spectacular effects of chiaroscuro, with only one or two bright sources of light and no fill light. According to legend, De Mille justified this effect to nervous exhibitors as Rembrandt lighting. This so-called Rembrandt, or north, lighting was to become part of the classical repertoire of lighting techniques. The Cheat also greatly impressed the French Impressionist filmmakers, who occasionally used similar stark lighting effects.
+
+CONNECT TO THE BLOG
+
+On two of the most important filmmakers of the early classical period, see our entries on William S. Hart in “Rio Jim, in discreet fragments,” at www.davidbordwell.net/blog/?p=2590, and Douglas Fairbanks in “His Majesty the American,” at www.davidbordwell.net/blog/?p=3044.
+
+Like many American films of the teens, The Cheat uses a linear pattern of narrative. The first scene (12.9) introduces the hard lighting but also quickly establishes the Japanese businessman as a ruthless collector of objects; we see him burning his brand onto a small statue. The initial action motivates a later scene in which the businessman brands the heroine, who has fallen into his power by borrowing money from him (12.10).
+The Cheat was evidence of the growing formal complexity of the Hollywood film.
+
+ 
+
+12.9 The opening scene of The Cheat introduces the branding motif …
+
+ 
+
+ 
+
+ 
+
+12.10 … that returns later when the villain brands the heroine.
+
+ 
+
+ 
+
+“That evening I tried to increase my knowledge of motion-picture technique by going to the movies. I sat with a stop watch and notebook and tried to estimate the number of cuts or scenes in a thousand-foot reel, the length of individual scenes, the distance of the subject from the camera, and various other technical details.”
+
+— King Vidor, director, recalling the night before he began directing his first film, c. 1912
+
+ 
+
+The period 1909–1917 saw the development of the basic continuity principles. Eyeline matches occur with increasing frequency from 1910 on. The match on action developed at about the same time and was in common use by 1916. It appears in such Douglas Fairbanks films as The Americano (1916) and Wild and Woolly (1917). Shot/reverse shot was used only occasionally between 1911 and 1915, but it became widespread by 1916–1917; instances occur in such films as De Mille’s The Cheat (1915), Hart’s Western The Narrow Trail (1917), and Griffith’s A Romance of Happy Valley (1919). During this period, films rarely violated the axis-of-action rule in using these techniques.
+
+By the 1920s, the continuity system had become a standardized style that directors in the Hollywood studios used almost automatically to create coherent spatial and temporal relations within narratives. A match on action could provide a cut to a closer view in a scene (12.11, 12.12). A three-way conversation around a table would no longer be handled in a single frontal shot. Note the clear spatial relations in 12.13–12.17, shots from Are Parents People? (Malcolm St. Clair, 1925). At the time, screen direction was usually respected, as in this case. When an awkward match might have resulted from the joining of two shots, the filmmakers could cover it by inserting a dialogue title.
+
+ 
+
+12.11 In Fred Niblo’s The Three Musketeers (1921), a long shot of the group leads to …
+
+ 
+
+ 
+
+ 
+
+12.12 … a cut-in to the central character, played by Douglas Fairbanks.
+
+ 
+
+ 
+
+ 
+
+12.13 In an establishing shot from Are Parents People? the daughter sits down at the table.
+
+ 
+
+ 
+
+ 
+
+12.14 In the medium shot she looks leftward toward her father …
+
+ 
+
+ 
+
+ 
+
+12.15 … who looks rightward at her in the reverse shot.
+
+ 
+
+ 
+
+ 
+
+12.16 The daughter then turns to look to the right at her mother …
+
+ 
+
+ 
+
+ 
+
+12.17 … who also returns her gaze in reverse shot.
+
+ 
+
+ 
+
+Keaton’s Our Hospitality (1923), which we examined in Chapter 4, provides another early example of a classical narrative. Keaton’s mastery of classical form and style are evident in the carefully motivated recurrences of the various narrative elements and in the straightforward causal development from the death of Willie McKay’s father in the feud to Willie’s final resolution of the feud.
+
+By the end of the silent era, in the late 1920s, the classical Hollywood cinema had developed into a sophisticated movement, but the Hollywood product was remarkably standardized. All of the major studios used the same production system, with a similar division of labor at each. Independent production was less important. Some independent firms made low-budget films, often Westerns, for small and rural theaters. Even powerful Hollywood stars and producers had trouble remaining independent. Keaton gave up his small studio in 1928 to go to MGM under contract; there his career declined, partly because of the incompatibility of his old working methods with the rigid production patterns of the huge studio. Griffith, Mary Pickford, Fairbanks, and Charles Chaplin were better off. Forming a distributing corporation of their own, United Artists, in 1919, they were able to continue independent production at small companies under their umbrella corporation, though Griffith’s company soon failed, and the careers of Fairbanks and Pickford declined soon after the introduction of sound.
+
+There were alternative kinds of films being made during the silent era—most of them in other countries. After examining these alternative movements, we’ll return to consider the classical Hollywood cinema after the coming of sound.
+
+German Expressionism (1919–1926)
+
+At the start of World War I, the output of the German film industry was relatively small, though some impressive pictures had been made there. Germany’s 2000 movie theaters were playing mostly French, American, Italian, and Danish films. America and France banned German films from their screens immediately, but Germany was not even in a solid enough position to ban French and American films, for then the theaters would have had little to show.
+
+To combat imported competition, as well as to create its own propaganda films, the German government began to support the film industry. In 1916, film imports were banned except from neutral Denmark. Production increased rapidly; from a dozen small companies in 1911, the number grew to 131 by 1918. But government policy encouraged these companies to band together into cartels.
+
+The war was unpopular with many in Germany, and rebellious tendencies increased after the success of the Russian Revolution in 1917. Widespread strikes and antiwar petitions were organized during the winter of 1916–1917. To promote pro-war films, the government, the Deutsche Bank, and large industrial concerns combined several small film firms to create the large company UFA (short for Universum Film Aktiengesellschaft) in late 1917. Backed by these essentially conservative interests, UFA was a move toward control of not only the German market but the postwar international market as well.
+
+With this huge financial backing, UFA was able to gather superb technicians and build the best-equipped studios in Europe. These studios later attracted foreign filmmakers, including the young Alfred Hitchcock. During the 1920s, Germany coproduced many films with companies in other countries, thus helping to spread German stylistic influence abroad.
+
+In late 1918, with the end of the war, the need for overt militarist propaganda disappeared. Although mainstream dramas and comedies continued to be made, the German film industry concentrated on three genres. One was the internationally popular adventure serial, featuring spy rings, clever detectives, or exotic settings. Another was a brief sex exploitation cycle, which dealt “educationally” with such topics as homosexuality and prostitution. Also, UFA set out to copy the popular Italian historical epics of the prewar period.
+
+This last type of film proved financially successful. In spite of continued bans on and prejudice against German films in America, England, and France, UFA finally was able to break into the international market. In September 1919, Ernst Lubitsch’s Madame Dubarry, an epic of the French Revolution (12.18), inaugurated the magnificent UFA Palast theater in Berlin. This film helped reopen the world film market to Germany. Released as Passion in the United States, this film was extremely popular. It was not enthusiastically received in France, where its premiere was considerably delayed by charges that it was anti-French propaganda. But it did well in most markets, and other Lubitsch historical films were soon exported. In 1923, he became the first German director to be hired by Hollywood.
+
+ 
+
+12.18 Madame Dubarry: a crowd scene in the Tribunal of the French Revolution.
+
+ 
+
+ 
+
+Some small companies briefly remained independent. Among these was Erich Pommer’s Decla (later Decla-Bioscop). In 1919, the firm undertook to produce an unconventional script by two unknowns, Carl Mayer and Hans Janowitz. These young writers wanted The Cabinet of Dr. Caligari to be made in an unusually stylized way. The three designers assigned to the film—Hermann Warm, Walter Reimann, and Walter Röhrig—suggested that it be done in an Expressionist style. As an avant-garde movement, Expressionism had first been important in painting (starting about 1910) and had been quickly taken up in theater, then in literature and architecture. Now company officials consented to try it in the cinema, apparently believing that this might be a selling point in the international market.
+
+CONNECT TO THE BLOG
+
+For a discussion of the restoration of another historical epic by Lubitsch, Das Weib des Pharao, see “Preserving two masters,” at www.davidbordwell.net/blog/?p=3116.
+
+This belief was vindicated in 1920 when Decla’s inexpensive film The Cabinet of Dr. Caligari (1920) created a sensation in Berlin and then in the United States, France, and other countries. Because of its success, other films in the Expressionist style soon followed. The result was a stylistic movement in cinema that lasted several years.
+
+“Everything is composition; any image whatsoever could be stopped on the screen and would be a marvellously balanced painting of forms and lights. Also, it is one of the films which leaves in our memories the clearest visions—precise and of a slightly static beauty. But even more than painting, it is animated architecture.”
+
+— François Berge, French critic, on Fritz Lang’s The Nibelungen
+
+ 
+
+The success of Caligari and other Expressionist films kept Germany’s avantgarde directors largely within the industry. A few experimental filmmakers made abstract films, like Viking Eggeling’s Diagonal-symphonie (1923), or Dada films influenced by the international art movement, like Hans Richter’s Ghosts Before Breakfast (1928). Big firms such as UFA (which absorbed Decla-Bioscop in 1921), as well as smaller companies, invested in Expressionist films because these films could compete with those of America. Indeed, by the mid-1920s, the most prominent German films were widely regarded as among the best in the world.
+
+The first film of the movement, Caligari, is also one of the most typical examples. One of its designers, Warm, claimed, “The film image must become graphic art.” Caligari, with its extreme stylization, was indeed like a moving Expressionist painting or woodcut print. In contrast to French Impressionism, which bases its style primarily on cinematography and editing, German Expressionism depends heavily on mise-en-scene. Shapes are distorted and exaggerated unrealistically for expressive purposes (4.2). Actors often wear heavy makeup and move in jerky or slow, sinuous patterns. Most important, all of the elements of the mise-en-scene interact graphically to create an overall composition. Characters do not simply exist within a setting but rather form visual elements that merge with the setting (12.19). We have already seen an example of this in 4.105, where the character Cesare collapses in a stylized forest, his body and outstretched arms echoing the shapes of the trees’ trunks and branches.
+
+ 
+
+12.19 The heroine’s flamboyantly Expressionistic bedroom in Robert Wiene’s Genuine. As she leans backwards, she blends with the curved, spiky shapes behind her.
+
+ 
+
+ 
+
+In Caligari, the Expressionist stylization functions to convey the distorted viewpoint of a madman. We see the world as the hero imagines it to be. This narrative function of the settings becomes explicit at one point, when the hero enters an asylum in his pursuit of Caligari. As he pauses to look around, he stands at the center of a pattern of radiating black-and-white lines that run across the floor and up the walls (12.20). The world of the film is literally a projection of the hero’s vision.
+
+ 
+
+12.20 The insane asylum set of The Cabinet of Dr. Caligari.
+
+ 
+
+ 
+
+Later, as Expressionism became an accepted style, filmmakers didn’t motivate Expressionist style as the narrative point of view of mad characters. Instead, Expressionism often functioned to create stylized situations for fantasy and horror stories (as with Waxworks, 1924, and Nosferatu, 1922; see 9.16) or historical epics (as with The Nibelungen, 1923–1924). Expressionist films depended greatly on their designers. In the German studios, a film’s designer received a relatively high salary and was often mentioned prominently in the advertisements.
+
+A combination of circumstances led to the disappearance of the movement. The rampant inflation of the early 1920s in Germany actually favored Expressionist filmmaking, partly by making it easy for German exporters to sell their films cheaply abroad. Inflation discouraged imports, however, for the tumbling exchange rate of the mark made foreign purchases prohibitively expensive. But in 1924, the U.S. Dawes Plan helped to stabilize the German economy, and foreign films came in more frequently, offering a degree of competition unknown in Germany for nearly a decade. Expressionist film budgets, however, were climbing. The last major films of the movement, F. W. Murnau’s Faust (1926) and Fritz Lang’s Metropolis (1927), were costly epics that helped drive UFA deeper into financial difficulty, leading Erich Pommer to quit and try his luck briefly in America (12.21). Other personnel were lured away to Hollywood as well. Murnau left after finishing Faust, his last German film. Major actors (such as Conrad Veidt and Emil Jannings) and cinematographers (such as Karl Freund) went to Hollywood as well. Lang stayed on, but after the criticisms of Metropolis’s extravagance on its release, he formed his own production company and turned to other styles in his later German films. At the beginning of the Nazi regime in 1933, he too left the country.
+
+ 
+
+12.21 Metropolis contained many large, Expressionistic sets, including this garden, with pillars that appear to be made of meltingclay.
+
+ 
+
+ 
+
+Trying to counter the stiffer competition from imported Hollywood films after 1924, the Germans also began to imitate the American product. The resulting films, though sometimes impressive, diluted the unique qualities of the Expressionist style. Thus, by 1927, Expressionism as a movement had died out. But as Georges Sadoul has pointed out, an expressionist (spelled with a lowercase “e” to distinguish it from the Expressionist movement proper) tendency lingered on in many of the German films of the late 1920s and even into such 1930s films as Lang’s M (1930; see 12.22) and Testament of Dr. Mabuse (1932). And because many of the German filmmakers came to the United States, Hollywood horror films also displayed film noir’s expressionist tendencies in their settings and lighting. Although the German movement lasted only about seven years, expressionism has never entirely died out as a trend in film style.
+
+ 
+
+12.22 In M, reflections and a display of knives in a shop window create a semi-abstract composition that mirrors the murderer’s obsession.
+
+ 
+
+ 
+
+French Impressionism and Surrealism (1918–1930)
+
+During the silent era, a number of film movements in France posed major alternatives to classical Hollywood narrative form. Some of these alternatives, such as abstract cinema and Dada filmmaking, are not specifically French and constituted instead a part of the growing international avant-garde. But two alternatives to the American mode remained quite localized. Impressionism was an avant-garde style that operated largely within the film industry. Most of the Impressionist filmmakers started out working for major French companies, and some of their avant-garde works proved financially successful. In the mid-1920s, most formed their own independent companies but remained within the mainstream commercial industry by renting studio facilities and releasing their films through established firms. The other alternative movement, Surrealism, lay largely outside the film industry. Allied with the Surrealist movement in other arts, these filmmakers relied on their own means and private patronage. France in the 1920s offers a striking instance of how different film movements may coexist in the same time and place.
+
+Impressionism
+
+World War I struck a serious blow to the French film industry. Personnel were conscripted, many film studios were shifted to wartime uses, and much export was halted. Yet the two major firms, Pathé Frères and Léon Gaumont, also controlled circuits of theaters. They needed to fill vacant screens, and so in 1915, American films began increasingly to flood into France. Represented by De Mille’s The Cheat and films featuring Pearl White, Douglas Fairbanks, Charlie Chaplin, and William S. Hart, the Hollywood cinema dominated the market by the end of 1917. After the war, French filmmaking never fully recovered: In the 1920s, French audiences saw eight times more Hollywood footage than domestic footage. The film industry tried in several ways to recapture the market, mostly through imitation of Hollywood production methods and genres. Artistically, however, the most significant move was the firms’ encouragement of younger French directors: Abel Gance, Louis Delluc, Germaine Dulac, Marcel L’Herbier, and Jean Epstein.
+
+These directors differed from their predecessors. The previous generation had regarded filmmaking as a commercial craft, but the younger filmmakers wrote essays proclaiming cinema to be an art comparable to poetry, painting, and music. Cinema should, they said, be purely itself and should not borrow from the theater or literature. Impressed by the verve and energy of the American cinema, the young theorists compared Chaplin to Nijinsky and the films of Rio Jim to The Song of Roland. Cinema should, above all, be (like music) an occasion for the artist to express feelings. Gance, Delluc, Dulac, L’Herbier, Epstein, and other, more tangential members of the movement sought to put this aesthetic into practice as filmmakers.
+
+Between 1918 and 1928, in a series of extraordinary films, the younger directors experimented with cinema in ways that posed an alternative to the dominant Hollywood formal principles. For these directors, cinema was an art of emotion, so the intimate psychological narrative dominated their practice. The interactions of a few characters, usually a love triangle (as in Delluc’s L’Inondation, 1924; Epstein’s Coeur fidèle, 1923, and La Belle nivernaise, 1923; and Gance’s La Dixième symphonie, 1918), would serve as the basis for the filmmaker’s exploration of fleeting moods and shifting sensations.
+
+“Another period arrived, that of the psychological and impressionist film. It would seem stupid to place a character in a given situation without penetrating into the secret realm of his inner life, and the actor’s performance is explained by the play of thoughts and of visualized sensations.”
+
+— Germaine Dulac, director
+
+ 
+
+As in the Hollywood cinema, psychological causes were paramount, but the school gained the name Impressionist because of its interest in giving narration considerable psychological depth, revealing the play of a character’s consciousness. The interest falls not on external physical behavior but on inner action. To a degree unprecedented in international filmmaking, Impressionist films manipulate plot time and subjectivity. To depict memories, flashbacks are common; sometimes the bulk of a film will be one flashback or a series of them. Even more striking is the films’ insistence on registering characters’ dreams, fantasies, and mental states. Dulac’s The Smiling Mme. Beudet (1923) consists almost entirely of the main character’s fantasy life, her imaginary escape from a dull marriage. Despite its epiclength (over five hours), Gance’s La Roue (1922) rests essentially on the erotic relations among only four people, and the director seeks to trace the development of each character’s feelings in great detail. Impressionism’s emphasis on personal emotion gives the films’ narratives an intensely psychological focus.
+
+The Impressionist movement earned its name as well for its use of film style. The filmmakers experimented with ways of rendering mental states by means of cinematography and editing. In Impressionist films, irises, masks, and superimpositions function as traces of characters’ thoughts and feelings (12.23). In La Roue, the image of Norma is superimposed over the smoke from a locomotive, representing the fantasy of the engine driver, who is in love with her.
+
+ 
+
+12.23 In Coeur fidèle, the heroine looks out a window, and a superimposition of the foul jetsam of the waterfront conveys her dejection at working as a barmaid in a dockside tavern.
+
+ 
+
+ 
+
+To intensify the subjectivity, the Impressionists’ cinematography and editing present characters’ perceptual experience, their optical impressions. These films use a great deal of point-of-view cutting, showing a shot of a character looking at something, then a shot of that thing, from an angle and distance replicating the character’s vantage point. When a character in an Impressionist film gets drunk or dizzy, the filmmaker renders that experience through distorted or filtered shots or vertiginous camera movements. In 12.24, from L’Herbier’s El Dorado (1920), a man is drinking in a cabaret.
+
+ 
+
+12.24 In El Dorado, a man’s tipsiness is conveyed by means of a curved mirror that stretches his body sideways.
+
+ 
+
+ 
+
+The Impressionists also experimented with pronounced rhythmic editing to suggest the pace of an experience as a character feels it, moment by moment. During scenes of violence or emotional turmoil, the rhythm accelerates—the shots get shorter and shorter, building to a climax, sometimes with shots only a few frames long. In La Roue, a train crash is presented in accelerating shots ranging from 13 frames down to 2, and a man’s last thoughts before he falls from a cliff are rendered in a blur of many single-frame shots (the first known use of such rapid editing). In Coeur fidèle, lovers at a fair ride in whirling swings, and Epstein presents their giddiness in a series of shots 4 frames, then 2 frames, long. Several Impressionist films use a dance to motivate a markedly accelerated cutting rhythm. More generally, the comparison of cinema to music encouraged the Impressionists to explore rhythmic editing. In such ways, subjective shooting and editing patterns function within Impressionist films to reinforce the narrative treatment of psychological states.
+
+Impressionist form created certain demands on film technology. Gance, the boldest innovator in this respect, used his epic Napoléon (1927) as a chance to try new lenses (even a 275mm telephoto), multiple frame images (called Polyvision), and widescreen ratio (the celebrated triptychs; see 5.63). The most influential Impressionist technological innovation was the development of new means of frame mobility. If the camera was to represent a character’s eyes, it should be able to move with the ease of a person. Impressionists strapped their cameras to cars, carousels, and locomotives. For Gance’s Napoléon, the camera manufacturer Debrie perfected a handheld model that let the operator move on roller skates. Gance lashed the machine to wheels, cables, pendulums, and bobsleds. In L’Argent (1928), L’Herbier sent his camera gliding through huge rooms and even plummeting straight down toward the crowd from the dome of the Paris stock exchange (12.25).
+
+ 
+
+12.25 In L’Argent, the camera drops toward the floor of the stock exchange in an effort to convey the traders’s frenzied excitement.
+
+ 
+
+ 
+
+Such innovations had given French filmmakers the hope that their films could win the popularity granted to Hollywood’s product. During the 1920s, the Impressionists operated somewhat independently; they formed their own production companies and leased studio facilities from Pathé and Gaumont in exchange for distribution rights. Some Impressionist films did prove moderately popular with French audiences. But by 1929, most foreign audiences had not taken to Impressionism; its experimentation was attuned to elite tastes. Moreover, although production costs were rising, Impressionists such as Gance and L’Herbier became even more free-spending. As a result, filmmakers’ companies either went out of business or were absorbed by the big firms. Two behemoth productions of the decade, Napoléon and L’Argent, failed and were reedited by the producers; they were among the last Impressionist films released. With the arrival of the sound film, the French film industry tightened its belt and had no money to risk on experiments.
+
+CONNECT TO THE BLOG
+
+We review the DVD of La Roue in “An old-fashioned, sentimental avantgarde film.”
+
+See
+www.davidbordwell.net/blog/?p=3720.
+
+Impressionism as a distinct movement may be said to have ceased by 1929. But the influences of Impressionist form—the psychological narrative, subjective camera work, and editing—were more long-lived. They continued to operate, for example, in the work of Alfred Hitchcock and Maya Deren, in Hollywood montage sequences, and in certain American genres and styles (the horror film, film noir).
+
+Surrealism
+
+Whereas the French Impressionist filmmakers worked within the commercial film industry, the Surrealist filmmakers relied on private patronage and screened their work in small artists’ gatherings. Such isolation is hardly surprising, since Surrealist cinema was a more radical movement, producing films that perplexed and shocked most audiences.
+
+Surrealist cinema was directly linked to Surrealism in literature and painting. According to its spokesperson, André Breton, “Surrealism [was] based on the belief in the superior reality of certain forms of association, heretofore neglected, in the omnipotence of dreams, in the undirected play of thought.” Influenced by Freudian psychology, Surrealist art sought to register the hidden currents of the unconscious, “in the absence of any control exercised by reason, and beyond any aesthetic and moral preoccupation.”
+
+Automatic writing and painting, the search for bizarre or evocative imagery, the deliberate avoidance of rationally explicable form or style: these became features of Surrealism as it developed in the period 1924–1929. From the start, the Surrealists were attracted to the cinema, especially admiring films that presented untamed desire or the fantastic and marvelous (for example, slapstick comedies, Nosferatu, and serials about mysterious supercriminals). In due time, painters such as Man Ray and Salvador Dalí and writers such as Antonin Artaud began dabbling in cinema, while the young Spaniard Luis Buñuel, drawn to Surrealism, became its most famous filmmaker.
+
+Surrealist cinema is antinarrative, attacking causality itself. If rationality is to be fought, causal connections among events must be dissolved, as in The Seashell and the Clergyman (1928; scripted by Artaud, filmed by the Impressionist Germaine Dulac; see (12.26). In Dalí and Buñuel’s Un Chien andalou (An Andalusian Dog, 1928) the hero drags two pianos, stuffed with dead donkeys, across a parlor. In Buñuel’s L’Age d’or (1930), a woman begins obsessively sucking the toes of a statue.
+
+ 
+
+12.26 The Seashell and the Clergyman: the clergyman’s distorted view of a threatening military officer, inexplicably dressed in baby’s clothes.
+
+ 
+
+ 
+
+Many Surrealist films tease us to find a narrative logic that is simply absent. Causality is as evasive as in a dream. Instead, we find events juxtaposed for their disturbing effect. The hero gratuitously shoots a child (L’Age d’or), a woman closes her eyes only to reveal eyes painted on her eyelids (Ray’s Emak Bakia, 1927), and—most famous of all—a man strops a razor and deliberately slits the eyeball of an unprotesting woman (Un Chien andalou,
+12.27). An Impressionist film would motivate such events as a character’s dreams or hallucinations, but in these films, character psychology is all but nonexistent. Sexual desire and ecstasy, violence, blasphemy, and bizarre humor furnish events that Surrealist cinema employs with a disregard for conventional narrative principles. The hope was that the free form of the film would arouse the deepest impulses of the viewer. Buñuel called Un Chien andalou “a passionate call to murder.”
+
+ 
+
+12.27 The shocking eye-slitting scene in Un chien andalou.
+
+ 
+
+ 
+
+The style of Surrealist cinema is eclectic. Mise-en-scene is often influenced by Surrealist painting. The ants in Un Chien andalou come from Dalí’s pictures; the pillars and city squares of The Seashell and the Clergyman hark back to the Italian painter Giorgio de Chirico. Surrealist editing is an amalgam of some Impressionist devices (many dissolves and superimpositions) and some devices of the dominant cinema. The shocking eyeball slitting at the start of Un Chien andalou relies on some principles of continuity editing (and indeed on the Kuleshov effect). However, discontinuous editing is also commonly used to fracture any organized temporalspatial coherence. In Un Chien andalou, the heroine locks the man out of a room only to turn to find him inexplicably behind her. On the whole, Surrealist film style refused to canonize any particular devices, since that would order and rationalize what had to be an “undirected play of thought.”
+
+The fortunes of Surrealist cinema shifted with changes in the art movement as a whole. By late 1929, when Breton joined the Communist Party, Surrealists were embroiled in internal dissension about whether communism was a political equivalent of Surrealism. Buñuel left France for a brief stay in Hollywood and then returned to Spain. The chief patron of Surrealist filmmaking, the Vicomte de Noailles, supported Jean Vigo’s Zéro de Conduite (1933), a film of Surrealist ambitions, but then stopped sponsoring the avant-garde. Thus, as a unified movement, French Surrealism was no longer viable after 1930. Individual Surrealists continued to work, however. The most famous was Buñuel, who continued to work in his own brand of the Surrealist style for 50 years. His later films, such as Belle de Jour (1967) and The Discreet Charm of the Bourgeoisie (1972), continue the Surrealist tradition.
+
+Soviet Montage (1924–1930)
+
+Following the Russian Revolution in October 1917, the new Soviet government faced the difficult task of controlling all sectors of life. Like other industries, the film production and distribution systems took years to build up a substantial output that could serve the aims of the new government.
+
+During World War I, there were a number of private production companies operating in Moscow and Petersburg. With most imports cut off, these companies did quite well making films for the domestic market. The most distinctive Russian films made during the mid-1910s were slow-paced melodramas that concentrated on bravura performances by actors playing characters caught in extremely emotional situations. Such films showcased the talents of Ivan Mozhukin and other popular stars (12.28) and were aimed mainly at the large Russian audience, seldom being seen abroad.
+
+ 
+
+12.28 In Yakov Protazanov’s 1916 The Queen of Spades, the gambling-addicted hero, played by Mozhukin, imagines himself winning at cards, with his vision superimposed at the right.
+
+ 
+
+ 
+
+These film companies resisted the move made directly after the Revolution to nationalize all private property. They simply refused to supply films to theaters operating under the control of the government. In July 1918, the government’s film subsection of the State Commission of Education put strict controls on the existing supplies of raw film stock. As a result, producers began hoarding their stock; the largest firms took all the equipment they could and fled to other countries. Some companies made films commissioned by the government, while hoping that the Reds would lose the Civil War and that things would return to pre-Revolutionary conditions.
+
+In the face of shortages of equipment and difficult living conditions, a few young filmmakers made tentative moves that would result in the development of a national cinema movement. Dziga Vertov began working on documentary footage of the war; at age 20, he was placed in charge of all newsreels. Lev Kuleshov, teaching in the newly founded State School on Cinema Art, performed a series of experiments by editing footage from different sources into a whole that creates an impression of continuity. Kuleshov was perhaps the most conservative of the young Soviet filmmakers, since he was basically trying to systematize principles of editing similar to the continuity practices of the classical Hollywood cinema (pp. 227–228). Thus, even before they were able to make films, Kuleshov and his young pupils were working at the first film school in the world and writing theoretical essays on the new art form. This grounding in theory would be the basis of the Montage style.
+
+In 1920, Sergei Eisenstein worked briefly in a train carrying propaganda to the troops in the Civil War. He returned that year to Moscow to produce plays in a workers’ theater. In May 1920, Vsevolod Pudovkin made his acting debut in a play presented by Kuleshov’s State Film School. He had been inspired to go into filmmaking by seeing Griffith’s Intolerance, which was first shown widely in Russia in 1919. American films, particularly those of D. W. Griffith, Douglas Fairbanks, and Mary Pickford, which kept circulating to fill the void left by the low output of new Soviet productions, were a tremendous influence on the filmmakers of the emerging Soviet movement.
+
+None of the important filmmakers of the Montage style was a veteran of the pre-Revolutionary industry. All came from other fields (for example, Eisenstein from engineering and Pudovkin from chemistry) and discovered the cinema in the midst of the Revolution’s ferment. The Czarist-era filmmakers who remained active in the USSR in the 1920s tended to stick to older traditions. One popular director of the Czarist period, Yakov Protazanov, went abroad briefly after the Revolution but returned to continue making films whose style and form owed almost nothing to the theory and practice of the new filmmakers.
+
+Protazanov’s return coincided with a general loosening of government restrictions on private enterprise. In 1921, the country was facing tremendous problems, including a widespread famine. In order to facilitate the production and distribution of goods, Lenin instituted the New Economic Policy (NEP), which for several years permitted private management of business. For film, the NEP meant a sudden reappearance of film stock and equipment belonging to the producers who had not emigrated. Slowly, Soviet production began to grow as private firms made more films. The government attempted, with little success, to control the film industry by creating a central distribution company, Goskino, in 1922.
+
+“Everyone who has had in his hands a piece of film to be edited knows by experience how neutral it remains, even though a part of a planned sequence, until it is joined with another piece, when it suddenly acquires and conveys a sharper and quite different meaning than that planned for it at the time of filming.”
+
+— Sergei Eisenstein, director
+
+ 
+
+“Of all the arts, for us the cinema is the most important,” Lenin stated in 1922. Since Lenin saw film as a powerful tool for education, the first films encouraged by the government were documentaries and newsreels such as Vertov’s newsreel series Kino-Pravda, which began in May 1922. Fictional films were also being made from 1917 on, but it was not until 1923 that a Georgian feature, Red Imps, became the first Soviet film to compete successfully with the foreign films predominant on Soviet screens. (And not until 1927 did the Soviet industry’s income from its own films top that of the films it imported.)
+
+The Soviet Montage style displayed tentative beginnings in 1924, with Kuleshov’s class from the State Film School presenting The Extraordinary Adventures of Mr. West in the Land of the Bolsheviks
+(12.29). This delightful film, along with Kuleshov’s next film, The Death Ray (1925), showed that Soviet directors could apply Montage principles and come up with amusing satires or exciting adventures as entertaining as the Hollywood product.
+
+ 
+
+12.29 The Extraordinary Adventures of Mr. West in the Land of the Bolsheviks: a gang of thieves terrifies the naive American, Mr. West, by presenting him with clichéd caricatures of fierce Soviet revolutionaries.
+
+ 
+
+ 
+
+Eisenstein’s first feature, Strike, was released early in 1925 and initiated the movement proper. His second, Potemkin, premiered later in 1925, was successful abroad and drew the attention of other countries to the new movement. In the next few years, Eisenstein, Pudovkin, Vertov, and the Ukrainian Alexander Dovzhenko created a series of films that are classics of the Montage style.
+
+In their writings and films, these directors championed the powers of editing. Until the late 1910s, most Russian fiction films had based their scenes around lengthy, fairly distant shots that captured the actors’ performances. Analytical editing was rare. But films from Hollywood and from the French Impressionist filmmakers told their stories through fast cutting, including frequent close framings. Inspired by these imports, the young Soviet directors declared that a film’s power arose from the combination of shots. Montage seemed to be the way forward for modern cinema.
+
+Not all of the young theoreticians agreed on exactly what the Montage approach to editing should be. Pudovkin, for example, believed that shots were like bricks, to be joined together to build a sequence. Eisenstein disagreed, saying that the maximum effect would be gained if the shots did not fit together perfectly, if they created a jolt for the spectator. Many filmmakers in the montage movement followed this approach (12.30). Eisenstein also favored juxtaposing shots in order to create a concept, as we have already seen with his use of conceptual editing in October (pp. 422–425). Vertov disagreed with both theorists, favoring a cinemaeye approach to recording and shaping documentary reality (pp. 257–260).
+
+ 
+
+12.30 In House on Trubnoi Square, Montage director Boris Barnet uses a jump cut to convey the heroine’s sudden realization that a streetcar is headed straight for her.
+
+ 
+
+ 
+
+Pudovkin’s Storm over Asia makes use of conceptual editing similar to that of Eisenstein’s October. Shots of a military officer and his wife being dressed in their accessories are intercut with shots of the preparation at the temple (12.31–12.34). Pudovkin’s parallel montage points up the absurdity of both rituals.
+
+ 
+
+12.31 In Storm over Asia, after a medium close-up of an elaborate piece of jewelry being lowered over the head of a priest, there is a cut …
+
+ 
+
+ 
+
+ 
+
+12.32 … to a close-up of a servant placing a necklace around the neck of the officer’s wife …
+
+ 
+
+ 
+
+ 
+
+12.33 … then a cut back to a large headdress being positioned on a priest’s head …
+
+ 
+
+ 
+
+ 
+
+12.34 … juxtaposed with a close-up of a tiara being set on the wife’s head.
+
+ 
+
+ 
+
+The Montagists’ approach to narrative form set them apart from the cinemas of other countries. Soviet narrative films tended to downplay character psychology as a cause; instead, social forces provided the major causes. Characters were interesting for the way these social causes affected their lives. As a result, films of the Soviet Montage movement did not always have a single protagonist. Social groups could form a collective hero, as in several of Eisenstein’s films. In keeping with this downplaying of individual personalities, Soviet filmmakers often avoided well-known actors, preferring to cast parts by searching out nonactors. This practice was called typage, since the filmmakers would often choose an individual whose appearance seemed at once to convey the type of character he or she was to play. Except for the hero, Pudovkin used nonactors to play all of the Mongols in Storm over Asia.
+
+By the end of the 1920s, each of the major directors of this movement had made about four important films. The decline of the movement was not caused primarily by industrial and economic factors as in Germany and France. Instead, the government strongly discouraged the Montage style. By the late 1920s, Vertov, Eisenstein, and Dovzhenko were being criticized for their excessively formal and esoteric approaches. In 1929, Eisenstein went to Hollywood to study the new technique of sound; by the time he returned in 1932, the attitude of the film industry had changed. While he was away, a few filmmakers carried their Montage experiments into sound cinema in the early 1930s. But the Soviet authorities, under Stalin’s direction, encouraged filmmakers to create simple films that would be readily understandable to all audiences. Stylistic experimentation or nonrealistic subject matter was often criticized or censored.
+
+This trend culminated in 1934, when the government instituted a new artistic policy called Socialist Realism. This policy dictated that all artworks must depict revolutionary development while being firmly grounded in realism. The great Soviet directors continued to make films, occasionally masterpieces, but the Montage experiments of the 1920s had to be discarded or modified. Eisenstein managed to continue his work on Montage but occasionally incurred the wrath of the authorities up until his death in 1948. As a movement, the Soviet Montage style can be said to have ended by 1933, with the release of such films as Vertov’s Enthusiasm (1931) and Pudovkin’s Deserter (1933).
+
+The Classical Hollywood Cinema After the Coming of Sound
+
+The introduction of sound technology came about through the efforts of Hollywood firms to widen their power. During the mid-1920s, Warner Bros. was expanding its facilities and holdings. One of these expansions was the investment in a sound system using records in synchronization with film images (12.35).
+
+ 
+
+12.35 An early projector with a turntable (lower center) attached.
+
+ 
+
+ 
+
+By releasing Don Juan (1926) with orchestral accompaniment and sound effects on disc, along with a series of vaudeville shorts with singing and talking, Warner Bros. began to popularize the idea of sound films. In 1927, The Jazz Singer (a part-talkie with some scenes accompanied only by music) was a tremendous success, and the Warner Bros. investment began to pay off.
+
+The success of Don Juan, The Jazz Singer, and the shorts convinced other studios that sound contributed to profitable filmmaking. Unlike the early period of filmmaking and the Motion Picture Patents Company, there was now no fierce competition within the industry. Instead, firms realized that whatever sound system the studios finally adopted, it would have to be compatible with the projection machinery of any theater. Eventually, a sound-on-film rather than a sound-on-disc system became the standard and continues so to the present. (That is, as we saw in Chapter 1, the sound track is printed on the strip of film alongside the image.) By 1930, most theaters in America were wired for sound.
+
+For a few years, sound created a setback for Hollywood film style. The camera had to be put inside a sound booth so that its motor noise would not be picked up by the microphone. The components of a dialogue scene in a 1928 MGM film can be seen in 12.36. The camera operator could hear only through his earphones, and the camera could not move except for short pans to reframe. The bulky microphone, on the table at the right, also did not move. The actors had to stay within a limited space if their speech was to register on the track. The result of such restrictions was a brief period of static films resembling stage plays.
+
+ 
+
+12.36 A posed publicity still demonstrated the limitations of early sound filming.
+
+ 
+
+ 
+
+“You know, when talkies first came in they were fascinated by sound—they had frying eggs and they had this and that—and then people became infatuated with the movement of the camera; I believe, the big thing right now is to move a handheld camera. I think the director and his camerawork should not intrude on the story.”
+
+— George Cukor, director
+
+ 
+
+Still, from the very beginning of sound filming, solutions were found for these problems. Sometimes several cameras, all in soundproof booths, would record the scene from different angles simultaneously. The resulting footage could be cut together to provide a standard continuity editing pattern in a scene, with all the sound synchronized. The whole camera booth might be mounted on wheels to create camera movements, or a scene might be shot silent and a sound track added later. Early sound films such as Rouben Mamoulian’s Applause (1929) demonstrate that the camera soon regained a great flexibility of movement. Later, smaller cases, enclosing only the camera body, replaced the cumbersome booths. These blimps
+(12.37) permitted cinematographers to place the camera on movable supports. Similarly, microphones mounted on booms and hanging over the heads of the actors could also follow moving action without a loss of recording quality.
+
+ 
+
+12.37 A blimped camera during the early 1930s allowed the camera tripod to be placed on a rolling dolly.
+
+ 
+
+ 
+
+Once camera movement and subject movement were restored to sound films, filmmakers continued to use many of the stylistic characteristics developed in Hollywood during the silent period. Diegetic sound provided a powerful addition to the system of continuity editing. A line of dialogue could continue over a cut, creating smooth temporal continuity. (See pp. 248–249.)
+
+Within the overall tradition of continuity style and classical narrative form, each of the large studios developed a distinctive approach of its own. Thus MGM, for example, became the prestige studio, with a huge number of stars and technicians under long-term contract. MGM lavished money on settings, costumes, and special effects, as in The Good Earth (1937), with its locust attack, and San Francisco (1936), in which the great earthquake of 1906 is spectacularly re-created. Warner Bros., in spite of its success with sound, was still a relatively small studio and specialized in less expensive genre pictures. Its series of gangster films (Little Caesar, Public Enemy) and musicals (42nd Street, Gold Diggers of 1933, Dames) were among the studio’s most successful products. Even lower on the ladder of prestige was Universal, which depended on imaginative filmmaking rather than established stars or expensive sets in its atmospheric horror films, such as Frankenstein (1931) and The Old Dark House (1932; 12.38).
+
+ 
+
+12.38 Heavy shadows, spiky shapes, and eccentric performances mixed a menacing atmosphere with a touch of humor in The Old Dark Horse.
+
+ 
+
+ 
+
+CONNECT TO THE BLOG
+
+Some of these early sound and color films can be hard to find, but we look at some DVD collections that provide lots of information and clips in “All singing! All dancing! All teaching!”
+
+See
+www.davidbordwell.net/blog/?p=1783.
+
+One major genre, the musical, became possible only with the introduction of sound. Indeed, the original intention of the Warners when they began their investment in sound equipment was to circulate vaudeville acts on film. The form of most musicals involved separate numbers inserted into a linear narrative, although a few revue musicals simply strung together a series of numbers with little or no connecting narrative. One of the major studios, RKO, made a series of musicals starring Fred Astaire and Ginger Rogers: Swing Time (George Stevens, 1936) illustrates how a musical can be a classically constructed narrative (see pp. 281–282).
+
+CONNECT TO THE BLOG
+
+B-movies were a major part of 1930s film production. Our colleagues join us in discussing just what constituted a B-movie in Hollywood in “Bs in their bonnets: A three-day conversation well worth the reading.”
+
+See
+www.davidbordwell.net/blog/?p=438.
+
+More specifically, we consider the Charlie Chan and Mr. Moto series in “Charlie, meet Kentaro”;
+
+See
+www.davidbordwell.net/blog/?p=484.
+
+During the 1930s, color film stocks became widely used for the first time. In the 1920s, a small number of films had Technicolor sequences, but the process was crude, using only two colors in combination to create all other hues. The result tended to emphasize greenish-blue and pink tones; it was also too costly to use extensively (12.39). By the early 1930s, however, Technicolor had been improved. It now used three primary colors and thus could reproduce a large range of hues. Though still expensive, it was soon proved to add hugely to the appeal of many films. After Becky Sharp (1935), the first feature-length film to use the new Technicolor, and The Trail of the Lonesome Pine (1936), studios began using Technicolor extensively. The Technicolor process was used until the early 1970s. (For a variety of examples of Technicolor, running from the 1940s to the 1960s, see 4.1, 4.11, 4.41–4.43, 5.5, and 5.47.)
+
+ 
+
+12.39 Under a Texas Moon (1930): typical two-strip Technicolor, with mostly orange and green hues.
+
+ 
+
+ 
+
+Technicolor needed a great deal of light on the set, and the light had to favor certain hues. Thus brighter lights specifically designed for color filmmaking were introduced. Some cinematographers began to use the new lights for black-and-white filming. These brighter lights, combined with faster film stocks, made it easier to achieve greater depth of field with more light and a smaller aperture. Many cinematographers stuck to the standard soft-focus style of the 1920s and 1930s, but others began to experiment. By the late 1930s, there was a definite trend toward a deep-focus style.
+
+Mervyn Leroy’s Anthony Adverse (1936), Alfred L. Werker’s The Adventures of Sherlock Holmes (1939), and the Sam Wood–William Cameron Menzies Our Town (1940) all used deep focus to a considerable degree. But it was Citizen Kane that in 1941 brought deep focus strongly to the attention of spectators and filmmakers alike. Orson Welles’s compositions placed the foreground figures close to the camera and the background figures deep in the space of the shot (5.39). In some cases, the apparently deep-focus image was achieved through matte work and rear projection. Overall, Citizen Kane helped make the tendency toward deep focus a major part of classical Hollywood style in the next decade. Many films using the technique soon appeared. Citizen Kane’s cinematographer, Gregg Toland, worked on some of them, such as The Little Foxes
+(12.40).
+
+ 
+
+12.40 William Wyler stages in depth in The Little Foxes.
+
+ 
+
+ 
+
+The light necessary for deep focus also tended to lend a hard-edged appearance to objects. Gauzy effects were largely eliminated, and much 1940s cinema became visually quite distinct from that of the 1930s. But the insistence on the clear narrative functioning of all these techniques remained strong. The classical Hollywood narrative modified itself over the years but did not change radically.
+
+Italian Neorealism (1942–1951)
+
+There is no definitive source for the term Neorealism, but it first appeared in the early 1940s in the writings of Italian critics. From one perspective, the term represented a younger generation’s desire to break free of the conventions of ordinary Italian cinema. Under Mussolini, the motion picture industry had created colossal historical epics and sentimental upper-class melodramas (nicknamed white-telephone films), and many critics felt these to be artificial and decadent. A new realism was needed. Some critics found it in French films of the 1930s, especially works by Jean Renoir. Other critics turned closer to home to praise films like Luchino Visconti’s Ossessione (1942).
+
+Today most historians believe that Neorealist filmmaking was not a complete break with Italian cinema under Mussolini. Pseudo-documentaries such as Roberto Rossellini’s White Ship (1941), even though propagandistic, prepared the way for more forthright handling of contemporary events. Other current trends, such as regional dialect comedy and urban melodrama, encouraged directors and scriptwriters to turn toward realism. Overall, spurred by both foreign influences and indigenous traditions, the postwar period saw several filmmakers beginning to work with the goal of revealing contemporary social conditions. This trend became known as the Neorealist movement.
+
+Economic, political, and cultural factors helped Neorealism survive. Nearly all the major Neorealists—Rossellini, Vittorio De Sica, Visconti, and others—came to the movement as experienced filmmakers. They knew one another, frequently shared scriptwriters and personnel, and gained public attention in the journals Cinema and Bianco e Nero. Before 1948, the Neorealist movement had enough friends in the government to be relatively free of censorship. There was even a correspondence between Neorealism and an Italian literary movement of the same period modeled on the verismo of the previous century. The result was an array of Italian films that gained worldwide recognition: Visconti’s La Terra Trema (1947); Rossellini’s Rome Open City (1945), Paisan (1946), and Germany Year Zero (1947); and De Sica’s Shoeshine (1946) and Bicycle Thieves (1948).
+
+Neorealism created a somewhat distinctive approach to film style. By 1945, the fighting had destroyed most of Cinecittà, the large Roman studio complex, so sets were in short supply and sound equipment was rare. As a result, Neorealist miseen-scene relied on actual locales, and its photographic work tended toward the raw roughness of documentaries. Rossellini has told of buying bits of negative stock from street photographers, so that much of Rome Open City was shot on film with varying photographic qualities.
+
+Shooting on the streets and in private buildings made Italian camera operators adept at cinematography that often avoided the three-point lighting system of Hollywood (4.36). Although Neorealist films often featured famous stage or film actors, nonactors were also recruited for their realistic looks and behavior. For the adult “star” of Bicycle Thieves, De Sica chose a factory worker: “The way he moved, the way he sat down, his gestures with those hands of a working man and not of an actor … everything about him was perfect.” The Italian cinema had a long tradition of dubbing, and the ability to postsynchronize dialogue permitted the filmmakers to work on location with smaller crews and to move the camera freely. With a degree of improvisational freedom in the acting and setting went a certain flexibility of framing, well displayed in the death of Pina in Rome Open City
+(12.41–12.43), the final sequence of Germany Year Zero, and La Terra Trema
+(12.44). The tracking shots through the open-air bicycle market in Bicycle Thieves illustrate the possibilities that the Neorealist director found in returning to location filming.
+
+ 
+
+12.41 Shooting in the streets for the death of Pina in Rome Open City: Francesco is thrown into a truck by Nazi soldiers …
+
+ 
+
+ 
+
+ 
+
+12.42 … Pina breaks through the guards …
+
+ 
+
+ 
+
+ 
+
+12.43 … and a rough, bumpy shot taken from the truck shows her running after it.
+
+ 
+
+ 
+
+ 
+
+12.44 One of the magnificent landscapes in depth in La Terra Trema.
+
+ 
+
+ 
+
+Perhaps even more influential was the Neorealist sense of narrative form. Reacting against the intricately plotted white-telephone dramas, the Neorealists tended to loosen up narrative relations. The earliest major films of the movement, such as Ossessione, Rome Open City, and Shoeshine, contain relatively conventionally organized plots (albeit with unhappy endings). But the most formally innovative Neorealist films allow the intrusion of noncausally motivated details (12.45). Although the causes of characters’ actions are usually seen as concretely economic and political (poverty, unemployment, exploitation), the effects are often fragmentary and inconclusive. Rossellini’s Paisan is frankly episodic, presenting six anecdotes of life in Italy during the Allied invasion; often we are not told the outcome of an event, the consequence of a cause.
+
+ 
+
+12.45 In Bicycle Thieves, the hero takes shelter along with a group of priests during a rain shower. The incident doesn’t affect the plot and seems as casual as any moment in daily life.
+
+ 
+
+ 
+
+The ambiguity of Neorealist films is also a product of narration that refuses to yield an omniscient knowledge of events. The film seems to admit that the totality of reality is simply unknowable. This is especially evident in the films’ endings. Bicycle Thieves concludes with the worker and his son wandering down the street, their stolen bicycle still missing, their future uncertain. Although ending with the suppression of the Sicilian fishermen’s revolt against the merchants, La Terra Trema does not cancel the possibility that a later revolt will succeed. Neorealism’s tendency toward slice-of-life plot construction gave many films of the movement an open-ended quality quite opposed to the narrative closure of the Hollywood cinema.
+
+As economic and cultural forces had sustained the Neorealist movement, so they helped bring it to an end. When Italy began to prosper after the war, the government looked askance at films so critical of contemporary society. After 1949, censorship and state pressures began to constrain the movement. Large-scale Italian film production began to reappear, and Neorealism no longer had the freedom of the small production company. In addition, the Neorealist directors, now famous, began to pursue more individualized concerns: Rossellini’s investigation of Christian humanism and Western history, De Sica’s sentimental romances, and Visconti’s examination of upper-class milieus. Most historians date the end of the Neorealist movement with the public attacks on De Sica’s Umberto D (1951). Nevertheless, Neorealist elements are still quite visible in the early works of Federico Fellini (I. Vitelloni, 1954, is a good example) and Michelangelo Antonioni (Cronaca di un amore, 1951); both directors had worked on Neorealist films. The movement exercised a strong influence on individual filmmakers such as Ermanno Olmi and Satyajit Ray and on groups such as the French New Wave.
+
+“The sentiment of [Bicycle Thieves] is expressed overtly. The feelings invoked are a natural consequence of the themes of the story and the point of view it is told from. It is a politically committed film, fueled by a quiet but burning passion. But it never lectures. It observes rather than explains.”
+
+— Sally Potter, director, Orlando
+
+ 
+
+The French New Wave (1959–1964)
+
+The late 1950s and early 1960s saw the rise of a new generation of filmmakers around the world. In country after country, there emerged directors born before World War II but grown to adulthood in the postwar era of reconstruction and rising prosperity. Japan, Canada, England, Italy, Spain, Brazil, and the United States all had their new waves or young cinema groups—some trained in film schools, many allied with specialized film magazines, most in revolt against their elders in the industry. The most influential of these groups appeared in France.
+
+“We were all critics before beginning to make films, and I loved all kinds of cinema—the Russians, the Americans, the neorealists. It was the cinema that made us—or me, at least—want to make films. I knew nothing of life except through the cinema.”
+
+— Jean-Luc Godard, director
+
+ 
+
+In the mid-1950s, a group of young men who wrote for the Paris film journal Cahiers du cinéma made a habit of attacking the most artistically respected French filmmakers of the day. “I consider an adaptation of value,” wrote François Truffaut, “only when written by a man of the cinema. Aurenche and Bost [the leading scriptwriters of the time] are essentially literary men and I reproach them here for being contemptuous of the cinema by underestimating it.” Addressing 21 major directors, Jean-Luc Godard asserted, “Your camera movements are ugly because your subjects are bad, your casts act badly because your dialogue is worthless; in a word, you don’t know how to create cinema because you no longer even know what it is.” Truffaut and Godard, along with Claude Chabrol, Eric Rohmer, and Jacques Rivette, also praised directors considered somewhat outdated (Jean Renoir, Max Ophuls) or eccentric (Robert Bresson, Jacques Tati).
+
+More important, the young men saw no contradiction in rejecting the French filmmaking establishment while loving blatantly commercial Hollywood. The young rebels of Cahiers claimed that in the works of certain directors—certain auteurs (authors)—artistry existed in the American cinema. An auteur usually did not literally write scripts but managed nonetheless to stamp his or her personality on studio products, transcending the constraints of Hollywood’s standardized system. Howard Hawks, Otto Preminger, Samuel Fuller, Vincente Minnelli, Nicholas Ray, Alfred Hitchcock—these were more than craftsmen. Each person’s total output constituted a coherent world. Truffaut quoted Giraudoux: “There are no works, there are only auteurs.” Godard remarked later, “We won the day in having it acknowledged in principle that a film by Hitchcock, for example, is as important as a book by Aragon. Film auteurs, thanks to us, have finally entered the history of art.” And indeed, many of the Hollywood directors these critics and filmmakers championed have become recognized as great artists.
+
+Writing criticism didn’t satisfy these young men. They itched to make movies. Borrowing money from friends and filming on location, each started to shoot short films. By 1959, they had become a force to be reckoned with. In that year, Rivette filmed Paris nous appartient (Paris Belongs to Us); Godard made À Bout de souffle (Breathless); Chabrol made his second feature, Les Cousins; and in April, Truffaut’s Les Quatre cent coups (The 400 Blows) won the Grand Prize at the Cannes Festival.
+
+The novelty and youthful vigor of these directors led journalists to nickname them la nouvelle vague—the New Wave. Their output was staggering. All told, the five central directors made 32 feature films between 1959 and 1966; Godard and Chabrol made 11 apiece. So many films must of course be highly disparate, but there are enough similarities for us to identify a broadly distinctive New Wave approach to style and form.
+
+The most obviously revolutionary quality of the New Wave films was their casual look. To proponents of the carefully polished French cinema of quality, the young directors must have seemed hopelessly sloppy. The New Wave directors had admired the Neorealists (especially Rossellini) and, in opposition to studio filmmaking, took as their mise-en-scene actual locales in and around Paris. Shooting on location became the norm (12.46). Similarly, glossy studio lighting was replaced by available light and simple supplemental sources. Few postwar French films would have shown the dim, grimy apartments and corridors featured in Paris Belongs to Us.
+
+ 
+
+12.46 Les Bonnes femmes: while a serial killer stalks them, two of the heroines sit idly at work. Like many New Wave directors, Claude Chabrol followed the Neorealists in shooting on locations like this drab appliance shop.
+
+ 
+
+ 
+
+Cinematography changed, too. The New Wave camera moves a great deal, panning and tracking to follow characters or trace out relations within a locale. Furthermore, shooting cheaply on location demanded flexible, portable equipment. Fortunately, Eclair had recently developed a lightweight camera that could be handheld. (That the Eclair had been used primarily for documentary work accorded perfectly with the realistic mise-en-scene of the New Wave.) New Wave filmmakers were intoxicated with the new freedom offered by the handheld camera. In The 400 Blows, the camera explores a cramped apartment and rides a carnival centrifuge. In Breathless, the cinematographer held the camera while seated in a wheelchair to follow the hero along a complex path in a travel agency’s office (11.36).
+
+One of the most salient features of New Wave films is their casual humor. These young men deliberately played with the medium. In Godard’s Band of Outsiders, the three main characters resolve to be silent for a minute, and Godard dutifully shuts off all the sound. In Truffaut’s Shoot the Piano Player, a character swears that he’s not lying: “May my mother drop dead if I’m not telling the truth.” Cut to a shot of an old lady keeling over.
+
+Along with humor came esoteric references to other films, Hollywood or European. There are homages to admired auteurs: Godard characters allude to Johnny Guitar (Ray), Some Came Running (Minnelli), and “Arizona Jim” (from Renoir’s Crime of M. Lange). In Les Carabiniers, Godard parodies Lumière, and in Vivre sa vie, he visually quotes La Passion de Jeanne d’Arc
+(12.47, 12.48). Hitchcock is frequently cited in Chabrol’s films, and Truffaut’s Les Mistons re-creates a shot from a Lumière short. Such citations, the New Wave directors felt, acknowledged that cinema, like literature and painting, had lofty traditions that could be honored.
+
+ 
+
+12.47 In Vivre sa vie, a clip from Dreyer’s The Passion of Joan of Arc …
+
+ 
+
+ 
+
+ 
+
+12.48 … helps dramatize the heroine’s feelings as she watches it.
+
+ 
+
+ 
+
+New Wave films also pushed further the Neorealist experimentation with plot construction. In general, causal connections became quite loose. Is there actually a political conspiracy going on in Paris Belongs to Us? Why is Nana shot at the end of Vivre sa vie? In Shoot the Piano Player, the first sequence consists mainly of a conversation between the hero’s brother and a man he accidentally meets on the street; the latter tells of his marital problems at some length, even though he has nothing to do with the film’s narrative.
+
+Moreover, the films often lack goal-oriented protagonists. The heroes may drift aimlessly, engage in actions on the spur of the moment, or spend their time talking and drinking in a café or going to movies. New Wave narratives often introduce startling shifts in tone, jolting our expectations. When two gangsters kidnap the hero and his girlfriend in Shoot the Piano Player, the whole group begins a comic discussion of sex. Discontinuous editing further disturbs narrative continuity; this tendency reaches its limit in Godard’s jump cuts (6.137, 6.138, 11.39, 11.40).
+
+Perhaps most important, the New Wave film typically ends ambiguously. We have seen this already in Breathless (pp. 410–411). Antoine in The 400 Blows reaches the sea in the last shot, but as he moves forward, Truffaut zooms in and freezes the frame, ending the film with the question of where Antoine will go from there (3.8). In Chabrol’s Les Bonnes Femmes and Ophelia, in Rivette’s Paris Belongs to Us, and in nearly all the work of Godard and Truffaut in this period, the looseness of the causal chain leads to endings that remain defiantly open and uncertain.
+
+Despite the demands that the films placed on the viewer and despite the critical rampages of the filmmakers, the French film industry wasn’t hostile to the New Wave. The decade 1947–1957 had been good to film production: the government supported the industry through enforced quotas, banks had invested heavily, and there was a flourishing business of international coproductions. But in 1957, cinema attendance fell off drastically, chiefly because television became more widespread. By 1959, the industry was in a crisis. The independent financing of low-budget films seemed to offer a good solution. New Wave directors shot films much more quickly and cheaply than did reigning directors. Moreover, the young directors helped one another out and thus reduced the financial risk of the established companies. Thus the French industry supported the New Wave through distribution, exhibition, and eventually production.
+
+Indeed, it is possible to argue that by 1964, although each New Wave director had his or her own production company, the group had become absorbed into the film industry. Godard made Le Mépris (Contempt, 1963) for a major commercial producer, Carlo Ponti; Truffaut made Fahrenheit 451 (1966) in England for Universal; and Chabrol began turning out parodies of James Bond thrillers.
+
+Dating the exact end of the movement is difficult, but most historians select 1964, when the characteristic New Wave form and style had already become diffused and imitated (by, for instance, Tony Richardson in his 1963 English film Tom Jones). Certainly, after 1968, the political upheavals in France drastically altered the personal relations among the directors. Chabrol, Truffaut, and Rohmer became firmly entrenched in the French film industry, whereas Godard set up an experimental film and video studio in Switzerland, and Rivette began to create narratives of staggering complexity and length (such as Out One, originally about 12 hours long). By the mid-1980s, Truffaut had died, Chabrol’s films were often unseen outside France, and Rivette’s output had become esoteric. Rohmer retained international attention with his ironic tales of love and self-deception among the upper-middle class (Pauline at the Beach [1982] and Full Moon over Paris [1984]). Godard continued to attract notoriety with such films as Passion (1981) and his controversial retelling of the Old and New Testaments, Hail Mary (1983). In 1990, he released an elegant, enigmatic film ironically entitled Nouvelle vague, one that bears little relationship to the original tendency. In retrospect, the New Wave not only offered several original and valuable films but also demonstrated that renewal in the film industry could come from talented, aggressive young people inspired in large part by the sheer love of cinema.
+
+The New Hollywood and Independent Filmmaking
+
+Midway through the 1960s, the Hollywood industry seemed very healthy, with blockbusters such as The Sound of Music (1965) and Dr. Zhivago (1965) yielding huge profits. But soon problems arose. Expensive studio projects failed miserably. Television networks, which had paid high prices to broadcast films after theatrical release, stopped bidding for pictures. American movie attendance flattened out at around 1 billion tickets per year (a figure that, despite home video, remained constant until the early 1990s). By 1969, Hollywood companies were losing over $200 million annually.
+
+Producers fought back. One strategy was to produce counterculture-flavored films aimed at young people. The most popular and influential were Dennis Hopper’s low-budget Easy Rider (1969) and Robert Altman’s M*A*S*H (1970). By and large, however, other “youthpix” about campus revolution and unorthodox lifestyles proved disappointing at the box office. What did help lift the industry’s fortunes were films aimed squarely at broader audiences. The most successful were Francis Ford Coppola’s The Godfather (1972); William Friedkin’s The Exorcist (1973); Steven Spielberg’s Jaws (1975) and Close Encounters of the Third Kind (1977); John Carpenter’s Halloween (1978); and George Lucas’s American Graffiti (1973), Star Wars (1977), and The Empire Strikes Back (1980). In addition, films by Brian De Palma (Obsession, 1976) and Martin Scorsese (Taxi Driver, 1976; Raging Bull, 1980) attracted critical praise.
+
+These and other directors came to be known as the movie brats. Instead of coming up through the ranks of the studio system, most had gone to film schools. At New York University, the University of Southern California, and the University of California at Los Angeles, they had not only mastered the mechanics of production but also learned about film aesthetics and history. Unlike earlier Hollywood directors, the movie brats often had an encyclopedic knowledge of great movies and directors. Even those who did not attend film school were admirers of the classical Hollywood tradition.
+
+As had been the case with the French New Wave, these film-buff directors produced some personal, highly self-conscious films. The movie brats worked in traditional genres, but they also tried to give them an autobiographical coloring. Thus American Graffiti was not only a teenage musical but also Lucas’s reflection on growing up in central California in the 1960s. Martin Scorsese drew on his youth in New York’s Little Italy for his crime drama Mean Streets (1973; 12.49). Coppola imbued both Godfather films with a vivacious and melancholy sense of the intense bonds within the Italian American family. Paul Schrader poured his own obsessions with violence and sexuality into his scripts for Taxi Driver and Raging Bull and the films he directed, such as Hard Core (1979).
+
+ 
+
+12.49 Mean Streets: Scorsese uses depth staging and deep focus for the famous “Mook” confrontation.
+
+ 
+
+ 
+
+Since movies had been a major part of the young directors’ lives, many films of the New Hollywood were based on the old Hollywood. De Palma’s films borrowed heavily from Hitchcock, with Dressed to Kill (1980) an overt redoing of Psycho. Peter Bogdanovich’s What’s Up, Doc? (1972) was an updating of screwball comedy, with particular reference to Howard Hawks’s Bringing Up Baby. Carpenter’s Assault on Precinct 13 (1976) derived partly from Hawks’s Rio Bravo; the editing is credited to “John T. Chance,” the character played by John Wayne in Hawks’s Western.
+
+At the same time, many directors admired the European tradition, with Scorsese drawn to the visual splendor of Luchino Visconti and British director Michael Powell. Some directors dreamed of making complex art films in the European mold. The best-known effort is probably Coppola’s The Conversation (1974), a mysterystory reworking of Antonioni’s Blow-Up (1966) that plays ambiguously between reality and hallucination (p. 177).
+
+“I love the idea of not being an independent filmmaker. I’ve liked working within the system. And I’ve admired a lot of the older directors who were sort of ‘directors for hire.’ Like Victor Fleming was in a contract all those years to Metro and Selznick and Mayer … he made Captains Courageous. And you know, his most famous films: Wizard of Oz and Gone with the Wind.”
+
+— Steven Spielberg, producer/director
+
+ 
+
+Robert Altman and Woody Allen, in quite different ways, displayed creative attitudes fed by European cinema. Altman’s Three Women (1977) and Allen’s Interiors (1978), for example, owed a good deal to Ingmar Bergman’s work. More influential were their innovations on other fronts. Allen revived the American comedy of manners in Annie Hall (1977), Manhattan (1979), and Hannah and Her Sisters (1985). Altman’s McCabe and Mrs. Miller (1971) and The Long Goodbye (1973) displayed rough-edged performances, dense soundtracks, and a disrespectful approach to genre. His Nashville (1975) built its plot out of the casual encounters among two dozen characters, none of whom is singled out as the protagonist. Altman explored this narrative form throughout his career, notably in A Wedding (1978), Short Cuts (1993), and A Prairie Home Companion (2006). Such networkbased plotting became a common option for independent films such as Magnolia (1999), Crash (2005), and Me and You and Everyone We Know (2005).
+
+Altman and Allen were of a slightly older generation, but many movie brats proved to be the most continuously successful directors of the era. Lucas and Spielberg became powerful producers, working together on the Indiana Jones series and personifying Hollywood’s new generation. Coppola failed to sustain his own studio, but he remained an important director. Scorsese’s reputation rose steadily: By the end of the 1980s, he was the most critically acclaimed living American filmmaker.
+
+During the 1980s, fresh talents won recognition, creating a New New Hollywood. Many of the biggest hits of the decade continued to come from Lucas and Spielberg, but other, somewhat younger directors were successful too: James Cameron (The Terminator, 1984; Terminator 2: Judgment Day, 1991), Tim Burton (Beetlejuice, 1988; Batman, 1989), and Robert Zemeckis (Back to the Future, 1985; Who Framed Roger Rabbit, 1988). Many of the successful films of the 1990s came from directors from both these successive waves of the Hollywood renaissance: Spielberg’s Jurassic Park (1993), De Palma’s Mission: Impossible (1996), and Lucas’s The Phantom Empire (1999), as well as Zemeckis’s Forrest Gump (1994), Cameron’s Titanic (1997), and Burton’s Sleepy Hollow (1999).
+
+The resurgence of mainstream film was also fed by filmmakers from outside Hollywood. Many directors came from abroad—from Britain (Tony and Ridley Scott), Australia (Peter Weir, Fred Schepisi), Germany (Wolfgang Peterson), the Netherlands (Paul Verhoeven), and Finland (Rennie Harlin). During the 1980s and 1990s, more women filmmakers also became commercially successful, such as Amy Heckerling (Fast Times at Ridgemont High, 1982; Look Who’s Talking, 1990), Martha Coolidge (Valley Girl, 1983; Rambling Rose, 1991), and Penelope Spheeris (Wayne’s World, 1992).
+
+Several directors from independent film managed to shift into the mainstream, making medium-budget pictures with widely known stars. David Lynch moved from the midnight movie Eraserhead (1978) to the cult classic Blue Velvet (1986), while Canadian David Cronenberg, a specialist in low-budget horror films such as Shivers (1975), won wider recognition with The Dead Zone (1983; 12.50) and The Fly (1986). The New New Hollywood also absorbed some minority directors from independent film. Wayne Wang was the most successful Asian American filmmaker (Chan Is Missing, 1982; Smoke, 1995). Spike Lee (She’s Gotta Have It, 1986; Malcolm X, 1992) led the way for young African-American directors such as Reginald Hudlin (House Party, 1990), John Singleton (Boyz N the Hood, 1991), Mario van Peebles (New Jack City, 1991), and Allen and Albert Hughes (Menace II Society, 1993).
+
+ 
+
+12.50 The Dead Zone: the hero, a psychic possessed by visions of future events, imagines a fire.
+
+ 
+
+ 
+
+Still other directors remained independent and more or less marginal to the studios. In Stranger Than Paradise (1984) and Down by Law (1986), Jim Jarmusch presented quirky, decentered narratives peopled by drifting losers (12.51). Allison Anders treated the contemporary experiences of disaffected young women, either in small towns (Gas Food Lodging, 1992) or city centers (Mi Vida Loca, 1994). Leslie Harris’s Just Another Girl on the IRT (1994; 1.34) likewise focused on the problems of urban women of color.
+
+ 
+
+12.51 Eva and Willie, the listless protagonists of Stranger Than Paradise. “These characters,” Jarmusch explains, “move through the world of the film in a kind of random, aimless way, like looking for the next card game or something.”
+
+ 
+
+ 
+
+CONNECT TO THE BLOG
+
+We take a look back at the fall 1994 season and ask whether Hollywood filmmaking has really changed all that much since in “Fantasy franchises, or franchise fantasies?”
+
+See
+www.davidbordwell.net/blog/?p=1043.
+
+Stylistically, no single coherent film movement emerged during the 1970s and 1980s. The most mainstream of the young directors continued the tradition of classical American cinema. Continuity editing remained the norm, with clear signals for time shifts and new plot developments. Some directors embellished Hollywood’s traditional storytelling strategies with new or revived visual techniques. In films from Jaws onward, Spielberg used deep-focus techniques reminiscent of Citizen Kane (5.39, 12.52). Lucas developed motion-control techniques for filming miniatures for Star Wars, and his firm Industrial Light and Magic (ILM) became the leader in new special-effects technology. Spielberg and Lucas also led the move toward digital sound and high-quality theater reproduction technology.
+
+ 
+
+12.52 In Jurassic Park Spielberg harks back to Orson Welles’s use of depth compositions.
+
+ 
+
+ 
+
+Less well funded Hollywood filmmaking cultivated more flamboyant styles. Scorsese’s Taxi Driver, Raging Bull (pp. 438–442), and The Age of Innocence (1993) use camera movement and slow motion to extend the emotional impact of a scene. De Palma has been an even more outrageous stylist; his films flaunt long takes, startling overhead compositions, and split-screen devices. Coppola experimented with fast-motion black-and-white in Rumble Fish (1983), phone conversations handled in the foreground and background of a single shot (Tucker, 1988), and old-fashioned special effects to lend a period mood to Bram Stoker’s Dracula (1993).
+
+Several of the newer entrants into Hollywood enriched mainstream conventions of genre, narrative, and style. We have already seen one example of this strategy in our discussion of Spike Lee’s Do The Right Thing (pp. 404–408). Another intriguing example is Wayne Wang’s The Joy Luck Club (1993; 12.53). Set among Chinese American families, the film concentrates on four emigrant mothers and their four assimilated daughters. In presenting the women’s lives, the film adheres to narrative principles that recall Citizen Kane. At a party, the three surviving mothers recall their lives before coming to America, and a lengthy flashback is devoted to each one. Alongside each mother’s flashback, however, the plot sets flashbacks tracing the experiences of each woman’s daughter in the United States. The result is a rich set of dramatic and thematic parallels. Sometimes the mother–daughter juxtapositions create sharp contrasts; at other times, they blend together to emphasize commonalities across generations. The women’s voice-over commentaries always orient the viewer to the shifts in narration while still enabling Wang and his screenwriters to treat the flashback convention in ways that intensify the emotional effect.
+
+ 
+
+12.53 The Joy Luck Club.
+
+ 
+
+ 
+
+A similar effort to revise conventions pervades the work of other independent directors. The brothers Joel and Ethan Coen treat each film as a pretext for exploring cinema’s expressive resources. In Raising Arizona (1987), high-speed tracking shots combine with distorting wide-angle close-ups to create comic-book exaggerations (12.54). A somewhat similar approach is taken in Gregg Araki’s gay road picture The Living End (1992). In films such as Trust (1991), Hal Hartley mutes a melodramatic plot through slow pacing, brooding close-ups, and dynamic foreground/background compositions (12.55).
+
+ 
+
+12.54 Wide-angle tracking shots follow crawling babies along the floor and under furniture in Raising Arizona.
+
+ 
+
+ 
+
+ 
+
+12.55 In Trust, a melodramatic scene between mother and daughter is intensified through deep-space staging and a tight close-up.
+
+ 
+
+ 
+
+Independent directors of the 1980s and 1990s have also experimented with narrative construction. The Coens’ Barton Fink (1991) passes unnoticeably from a satiric portrait of 1930s Hollywood into a hallucinatory fantasy. Quentin Tarantino’s Reservoir Dogs (1993) and Pulp Fiction (1994) juggle story and plot time in ways that recall the complex flashbacks of the 1940s. Unlike the flashbacks in The Joy Luck Club, moreover, the switches are not motivated as characters’ memories; the audience is forced to puzzle out the purposes served by the time shifts. In Daughters of the Dust (1991), Julie Dash incorporates the rich Gullah dialect and explores a complex time scheme that seeks to fuse present and future. In one scene, optical effects give the characters a glimpse of a child who is as yet unborn.
+
+In the 1980s and 1990s, while younger studio directors adapted classical conventions to modern tastes, an energetic independent film tradition began pushing the envelope. By the 2000s, the two trends were merging in surprising ways. As independent films began to win larger audiences, major studios eagerly acquired distribution companies such as Miramax and October Films. Much media journalism fostered the impression that Hollywood was becoming subverted by independent filmmaking, but in fact, more and more, the major studios controlled audiences’ access to formerly independent productions. The Sundance Film Festival, founded as a forum for the off-Hollywood scene, came to be treated as a talent market by the studios, which often bought films in order to line up the filmmaker for more mainstream projects. Thus after Kevin Smith found success with Clerks (1994), he directed Mallrats (1995), a tame twenty-something comedy for Universal. Robert Rodriguez’s similarly microbudgeted El Mariachi (1992) proved a hit, so he was hired to remake it as an all-out action picture starring Antonio Banderas (Desperado, 1995).
+
+CONNECT TO THE BLOG
+
+Some independent filmmakers use sensationalism to call attention to their work. See “Visionary Outlaw Mavericks on the dark edge; or, Indie Guignol,” at www.davidbordwell.net/blog/?p=339.
+
+Yet sometimes the big-budget films of independent filmmakers conveyed a distinctly experimental attitude. Kevin Smith used the star-filled Dogma (1999) to question Catholic doctrine. David O. Russell, who had worked his way into the system with off-kilter comedies (Spanking the Monkey, 1994; Flirting with Disaster, 1996), made Three Kings (1999), an action picture that criticized Gulf War policies and that reveled in a flamboyant, digital-era style. Following in the path of Pulp Fiction, studio pictures began to play more boldly with narrative form. A genre thriller such as The Sixth Sense (1999) encouraged viewers to see it twice in order to detect how the narration had misled them. Stories might be told through complicated flashbacks, as in Steven Soderbergh’s The Limey (12.56). (See also box, pp. 87–89.) A film might reveal that one character was the imaginary creation of another (Fight Club, 1999), or that a person could crawl into another’s brain (Being John Malkovich, 1999), or that the external world was merely an illusion produced by sophisticated software (The Matrix, 1999) or a novelist (Stranger than Fiction). In their willingness to experiment with ambiguous and teasing modes of narration, many American studio films began rivaling their overseas counterparts such as Breaking the Waves (1996), Sliding Doors (1998), and Run Lola Run (1998).
+
+ 
+
+12.56 An ambiguous image that recurs throughout The Limey: it may be construed either as a flashback to the protagonist’s trip to the United States or as a flash-forward to his trip back to Britain, presented in the final scene.
+
+ 
+
+ 
+
+At the start of the new century, many of the most thrilling Hollywood films were being created by a robust new generation, born in the 1960s and 1970s and brought up on videotape, video games, and the Internet. Like their predecessors, these directors were reshaping the formal and stylistic conventions of the classical cinema while also making their innovations accessible to a broad audience.
+
+CONNECT TO THE BLOG
+
+For a discussion of director James Mangold and his relationship to the traditions of classical Hollywood filmmaking, see “Legacies,” at www.davidbordwell.net/blog/?p=1261.
+
+Hong Kong Cinema: 1980s–1990s
+
+While the New Hollywood directors were revamping American films, a young generation of directors in Hong Kong found footing in their industry and recast its traditional genres and creative methods. The result was not a unified film movement, but a local cinema with a robust identity. Hong Kong’s innovations in cinematic style and storytelling vigorously influenced world filmmaking well into the twentyfirst century.
+
+CONNECT TO THE BLOG
+
+Why do some filmmakers take such a long time between movies? We explore some possible reasons in “Running on almost empty.”
+
+See
+www.davidbordwell.net/blog/?p=367.
+
+Hong Kong produced films in the silent era and during the 1930s, although World War II halted production. When the industry revived in the 1950s, the most powerful studio was Shaw Brothers. Shaws owned theaters throughout East Asia and used Hong Kong as a production base for films in several languages, chiefly Mandarin Chinese. Shaws made films in many genres, but among its biggest successes were dynamic, gory swordfighting films (wuxia pian, or “tales of martial chivalry”). In the 1970s, another studio, Golden Harvest, triumphed with kung-fu films starring Bruce Lee. Although Lee completed only four martial-arts films before his death in 1973, he brought Hong Kong cinema to worldwide attention and forever identified it with films of acrobatic and violent action.
+
+Several major directors worked in this period. Most famous is King Hu, who started as a Shaws director. In films like Dragon Gate Inn (1967) and The Valiant Ones (1975; 5.69), Hu reinvigorated the wuxia pian through graceful airborne swordplay and inventive cutting. Chang Cheh, another Shaws director, turned the swordplay film toward violent male melodrama (such as The One-Armed Swordsman, 1967) before specializing in flamboyant kung-fu films such as Crippled Avengers (also called Mortal Combat, 1978). Neither King Hu nor Chang Cheh was a practitioner of martial arts, but Lau Kar-leung was a fight choreographer before becoming a full-fledged director. Lau created a string of inventive films (such as 36th Chamber of Shaolin, 1978, and The Eight-Diagram Pole Fighter, 1983) that showcased a range of dazzling marital-arts techniques.
+
+By the early 1980s, traditional kung-fu was fading in popularity, and Shaws turned from moviemaking to its lucrative television business. At the same time, a new generation of directors came forward. One group had little formal education but had grown up in the film industry, working as stuntmen and martial artists. Among those who became directors were choreographers Yuen Wo-ping and Yuen Kuei (Yes, Madam!, 1985). Sammo Hung choreographed, directed, and starred in many lively action films (such as Eastern Condors, 1987).
+
+The most famous graduate of the studio system was Jackie Chan, who labored as a copy of Bruce Lee before finding his feet in comic kung-fu. With Drunken Master (1978, directed by Yuen Wo-ping), he became a star throughout Asia and gained the power to direct his own films. In the early 1980s, Chan and his colleagues realized that kung-fu could be incorporated into Hollywoodish actionadventure movies. Chan made the historical adventure Project A (1983, also starring Hung) and the contemporary cop drama Police Story (1985). These and others were huge hits across Asia, partly because of Chan’s lovably goofy star persona, and partly because of his ingenious and dangerous action scenes (6.47–6.49).
+
+Another group of directors had more formal training, with many attending film schools in the United States or Britain. When Ann Hui, Allen Fong, and others returned to Hong Kong, they found work in television before moving on to feature filmmaking. For a time, they constituted a local art cinema, attracting attention at festivals with such films as Hui’s Boat People (1982). But most of this group gravitated toward independent companies turning out comedies, dramas, and action films. Tsui Hark was the leader of this trend. As both director and producer, Tsui revived and reworked a range of genres: swordplay fantasy (Zu: Warriors of the Magic Mountain, 1979), romantic comedy (Shanghai Blues, 1984), historical adventure (Peking Opera Blues, 1986; 12.57), supernatural romance (A Chinese Ghost Story, 1987, directed by Ching Siu-tung), and classic kung-fu (Once upon a Time in China, 1990).
+
+ 
+
+12.57 Rapid movements into and out of the frame are characteristic of Hong Kong film style. In this shot from Peking Opera Blues, the sheriff and his captive rise into the foreground as the three heroines watch from the rear.
+
+ 
+
+ 
+
+Seeing the success that modern cops-and-crooks films were then enjoying, Tsui partnered with John Woo on A Better Tomorrow (1986), a remake of a 1960s movie (12.58). Woo was something of an in-between figure, having been a successful studio comedy director during the 1970s. With Tsui as producer, A Better Tomorrow became Woo’s comeback effort, one of the most successful Hong Kong films of the 1980s and a star-making vehicle for the charismatic Chow Yun-fat. Tsui, Woo, and Chow teamed again for a sequel and for the film that made Woo famous in the West, The Killer (1989), a lush and baroque story of the unexpected alliance between a hitman and a detective (12.59).
+
+ 
+
+12.58 John Woo’s debt to the Western: a striking long shot as a hero walks to meet his fate in A Better Tomorrow.
+
+ 
+
+ 
+
+ 
+
+12.59 Cop and hitman as blood brothers in The Killer.
+
+ 
+
+ 
+
+Hong Kong cinema of the 1980s and early 1990s simmered with almost reckless energy. The rushed production schedules didn’t allow much time to prepare scripts, so the plots, borrowing freely from Chinese legend and Hollywood genres, tended to be less tightly unified than those in U.S. films. They avoided tight linkage of cause and effect in favor of a more casual, episodic construction—not, as in Italian Neorealism, to suggest the randomness of everyday life but rather to permit chases and fights to be inserted easily. While action sequences were meticulously choreographed, connecting scenes were often improvised and shot quickly. Similarly, the kung-fu films had often bounced between pathos and almost silly comedy, and this tendency to mix tones continued through the 1980s. In A Better Tomorrow, for example, Tsui appears in a slapstick interlude involving a cello. Again, because of rushed shooting, the plots often end abruptly, with a big action set-piece but little in the nature of a mood-setting epilogue. One of Tsui’s innovations was to provide more satisfying conclusions, as in the lilting railroad station finale of Shanghai Blues.
+
+CONNECT TO THE BLOG
+
+Since one of David’s specialties is Hong Kong cinema, he often blogs on the subject. For a discussion of Edward Yang and Charles Wang in “Two Chinese men of the cinema,” see www.davidbordwell.net/blog/?p=1097. On Ashes of Time, see “Ashes to Ashes (Redux),” at www.davidbordwell.net/blog/?p=3133. For stylistic analysis of City of Violence, see “A glance at blows,” at www.davidbordwell.net/blog/?p=3208. On director Tsui Hark and his production work, see “Happy Birthday, Film Workshop,” at www.davidbordwell.net/blog/?p=4210.
+
+At the level of visual style, Hong Kong directors brought the action film to a new pitch of excitement. Gunmen (and gunwomen) leaped and fired in slow motion, hovering in midair like 1970s swordfighters and kung-fu warriors. John Woo, who had been an assistant director for Chang Cheh, pushed such shots to extravagant limits. Directors also developed florid color designs, with rich reds, blues, and yellows glowing out of smoky nightclubs or narrow alleyways. Well into the 1990s, unrealistically tinted mood lighting was a trademark of Hong Kong cinema (12.60). Above all, everything was sacrificed to constant motion; even in dialogue scenes, the camera and the characters seldom stood still.
+
+ 
+
+12.60 Stylized blocks of light for The Longest Nite (1998).
+
+ 
+
+ 
+
+Aiming to energize the viewer, the new action directors built on the innovations of King Hu and his contemporaries. They developed a staccato cutting technique based on the tempo of martial-arts routines and Peking Opera displays, alternating rapid movement with sudden pauses. If shot composition was kept simple, an action could be cut to flow across shots very rapidly, while another cut could accentuate a moment of stillness (12.61–12.63). Most Hong Kong directors were unaware of the Soviet Montage movement, but in their efforts to arouse viewers kinesthetically through expressive movement and editing, they were reviving ideas of concern to 1920s filmmakers.
+
+ 
+
+12.61 Crisp editing in Yes, Madam! In a shot only 7 frames long, Michele Yeoh swings swiftly …
+
+ 
+
+ 
+
+ 
+
+12.62 … to knock the villain spinning (15 frames) …
+
+ 
+
+ 
+
+ 
+
+12.63 … before she drops smoothly into a relaxed posture on the rail (17 frames).
+
+ 
+
+ 
+
+The 1990s brought the golden age of Hong Kong action cinema to a close. Jackie Chan, John Woo, Chow Yun-fat, Sammo Hung, and action star Jet Li began working in Hollywood, with Yuen Wo-ping designing the action choreography for The Matrix (1999) and Crouching Tiger, Hidden Dragon (2000). A recession after Hong Kong’s 1997 handover to China depressed the local film industry. As Hollywood began imitating Hong Kong movies (as in The Replacement Killers, 1998), local audiences developed a taste for U.S. films. At the same time, the art-cinema wing became more ambitious, and festivals rewarded the offbeat works of Wong Kar-wai (see the analysis of Chungking Express,
+pp. 417–422). The action tradition was maintained by only a few directors such as Johnnie To, whose laconic film noir The Mission (1999) brought a leanness and pictorial abstraction to the gangster genre.
+
+WHERE TO GO FROM HERE
+
+General
+
+Allen, Robert C., and Douglas Gomery. Film History: Theory and Practice. New York: Random House, 1985.
+
+Bordwell, David. On the History of Film Style. Cambridge, MA: Harvard University Press, 1997.
+
+Gomery, Douglas. The Hollywood Studio System: A History. London: BFI Publishing, 2005.
+
+Lanzoni, Rémi Fournier. French Cinema: From Its Beginnings to the Present. New York: Continuum, 2002.
+
+Luhr, William, ed. World Cinema Since 1945. New York: Ungar, 1987.
+
+Salt, Barry. Film Style and Technology: History and Analysis, 2nd ed. London: Starword, 1992.
+
+Thompson, Kristin, and David Bordwell. Film History: An Introduction, 3rd ed. New York: McGraw-Hill, 2010.
+
+Silent Cinema
+
+Abel, Richard, The Ciné Goes to Town: French Cinema 1896–1914. Berkeley: University of California Press, 1994.
+
+Allen, Robert C. Vaudeville and Film, 1895–1915: A Study in Media Interaction. New York: Arno, 1980.
+
+Brewster, Ben, and Lea Jacobs. Theatre to Cinema: Stage Pictorialism and the Early Feature Film. Oxford: Oxford University Press, 1997.
+
+Cherchi Usai, Paolo. Silent Cinema: An Introduction. London: British Film Institute, 2000.
+
+Cherchi Usai, Paolo, and Lorenzo Codelli, eds. Before Caligari: German Cinema, 1895–1920. Pordenone: Edizioni Biblioteca dell’ Immagine, 1990.
+
+Dibbets, Karl, and Bert Hogenkamp, eds. Film and the First World War. Amsterdam: Amsterdam University Press, 1995.
+
+Elsaesser, Thomas, ed. Early Cinema: Space, Frame, Narrative. London: British Film Institute, 1990.
+
+Fell, John L., ed. Film Before Griffith. Berkeley: University of California Press, 1983.
+
+Fullerton, John, ed. Celebrating 1895: The Centenary of Cinema. Sydney: John Libbey, 1998.
+
+Grieveson, Lee, and Peter Krämer, eds. The Silent Cinema Reader. London: Routledge, 2004.
+
+Gunning, Tom. D. W. Griffith and the Origins of American Narrative Film: The Early Years at Biograph. Urbana and Chicago: University of Illinois Press, 1991.
+
+Hammond, Paul. Marvelous Méliès. New York: St. Martin’s Press, 1975.
+
+Hendricks, Gordon. The Edison Motion Picture Myth. Berkeley: University of California Press, 1961.
+
+Leyda, Jay, and Charles Musser, eds. Before Hollywood: Turn-of-the-Century Film from American Archives. New York: American Federation of the Arts, 1986.
+
+Musser, Charles. Before the Nickelodeon: Edwin S. Porter and the Edison Manufacturing Company. Berkeley: University of California Press, 1991.
+
+———. The Emergence of Cinema: The American Screen to 1907. New York: Scribner, 1991.
+
+Pratt, George, ed. Spellbound in Darkness. Greenwich, CT: New York Graphic Society, 1973.
+
+Rossell, Deac. Living Pictures: The Origins of the Movies. Albany: State University of New York Press, 1998.
+
+Tsivian, Yuri, ed. Testimoni silenziosi: Film russi 1908–1919. Pordenone: Edizioni Biblioteca dell’Immagine, 1989. (Bilingual in Italian and English.)
+
+Youngblood, Denise. The Magic Mirror: Moviemaking in Russia, 1908–1918. Madison: University of Wisconsin Press, 1999.
+
+Classical Hollywood Cinema
+
+Balio, Tino, ed. The American Film Industry, rev. ed. Madison: University of Wisconsin Press, 1985.
+
+Bordwell, David, Janet Staiger, and Kristin Thompson. The Classical Hollywood Cinema: Film Style and Mode of Production to 1960. New York: Columbia University Press, 1985.
+
+Bowser, Eileen. The Transformation of Cinema, 1907–1915. New York: Scribner, 1990.
+
+Brownlow, Kevin. The Parade’s Gone By. New York: Knopf, 1968.
+
+DeBauche, Leslie Midkiff. Reel Patriotism: The Movies and World War I. Madison: University of Wisconsin Press, 1997.
+
+Gomery, Douglas. Shared Pleasures: A History of American Moviegoing. Madison: University of Wisconsin Press, 1992.
+
+Hampton, Benjamin B. History of the American Film Industry. 1931. Reprinted. New York: Dover, 1970.
+
+Keil, Charlie. Early American Cinema in Transition: Story, Style, and Filmmaking, 1907–1918. Madison: University of Wisconsin Press, 2001.
+
+Keil, Charlie, and Shelley Stamp, eds. American Cinema’s Transitional Era: Audiences, Institutions, Practices. Berkeley: University of California Press, 2004.
+
+Koszarski, Richard. An Evening’s Entertainment: The Age of the Silent Feature Picture, 1915–1928. New York: Scribner, 1990.
+
+Staiger, Janet. Interpreting Films: Studies in the Historical Reception of American Cinema. Princeton, NJ: Princeton University Press, 1992.
+
+Vasey, Ruth. The World According to Hollywood, 1928–1939. Madison: University of Wisconsin Press, 1997.
+
+German Expressionism
+
+Barlow, John D. German Expressionist Film. Boston: Twayne, 1982.
+
+Budd, Mike, ed. The Cabinet of Dr. Caligari: Texts, Contexts, Histories. New Brunswick, NJ: Rutgers University Press, 1990.
+
+Eisner, Lotte. The Haunted Screen. Berkeley: University of California Press, 1969.
+
+———. Fritz Lang. New York: Oxford University Press, 1977.
+
+———. F. W. Murnau. Berkeley: University of California Press, 1983.
+
+Kracauer, Siegfried. From Caligari to Hitler. Princeton, NJ: Princeton University Press, 1947.
+
+Kreimeier, Klaus. The UFA Story: A History of Germany’s Greatest Film Company 1918–1945. Trans. Robert and Rita Kimber. New York: Hill & Wang, 1996.
+
+Myers, Bernard S. The German Expressionists. New York: Praeger, 1963.
+
+Robinson, David. Das Cabinet des Dr. Caligari. London: British Film Institute, 1997. (In English.)
+
+Scheunemann, Dietrich, ed. Expressionist Film: New Perspectives. Rochester, NY: Camden House, 2003.
+
+Selz, Peter. German Expressionist Painting. Berkeley: University of California Press, 1957.
+
+Thompson, Kristin. Herr Lubitsch Goes to Hollywood: German and American Film After World War I. Amsterdam: Amsterdam University Press, 2005.
+
+Willett, John. Expressionism. New York: McGraw-Hill, 1970.
+
+———. The New Sobriety: Art and Politics in the Weimar Republic, 1917–1933. London: Thames & Hudson, 1978.
+
+French Impressionism
+
+Abel, Richard. French Cinema: The First Wave, 1915–1929. Princeton, NJ: Princeton University Press, 1984.
+
+———. French Film Theory and Criticism, 1907–1939, vol. 1. Princeton, NJ: Princeton University Press, 1988.
+
+Brownlow, Kevin. “Napoleon”: Abel Gance’s Classic Film. New York: Knopf, 1983.
+
+Clair, René. Cinema Yesterday and Today. New York: Dover, 1972.
+
+King, Norman. Abel Gance: A Politics of Spectacle. London: British Film Institute, 1984.
+
+Soviet Montage
+
+Bordwell, David. The Cinema of Eisenstein. Cambridge, MA: Harvard University Press, 1993.
+
+Bowlt, John, ed. Russian Art of the Avant-Garde. New York: Viking Press, 1973.
+
+Carynnyk, Marco, ed. Alexander Dovzhenko: Poet as Filmmaker. Cambridge, MA: MIT Press, 1973.
+
+Eisenstein, S. M. S. M. Eisenstein: Writings 1922–1934, Richard Taylor, ed. London: British Film Institute, 1988; Eisenstein, Volume 2, Towards a Theory of Montage, Michael Glenny and Richard Taylor, eds. London: British Film Institute, 1991; Eisenstein Writings 1934–1947, Richard Taylor, ed. London: British Film Institute, 1996. Beyond the Stars: The Memoirs of Sergei Eisenstein, vol. 4, Richard Taylor, ed., William Powell, trans. London: British Film Institute, 1995.
+
+Kepley, Jr., Vance. In the Service of the State: The Cinema of Alexander Dovzhenko. Madison: University of Wisconsin Press, 1986.
+
+———. The End of St. Petersburg. London: I. B. Tauris, 2003.
+
+Kuleshov, Lev. Kuleshov on Film. Ed. and trans. Ronald Levaco. Berkeley: University of California Press, 1974.
+
+Leyda, Jay. Kino, 3rd ed. Princeton, NJ: Princeton University Press, 1983.
+
+Lodder, Christina. Russian Constructivism. New Haven, CT: Yale University Press, 1983.
+
+Michelson, Annette, ed. Kino-Eye: The Writings of Dziga Vertov. Berkeley: University of California Press, 1984.
+
+Nilsen, Vladimir. The Cinema as a Graphic Art. New York: Hill & Wang, 1959.
+
+Petric, Vlada. Constructivism in Film: The Man with a Movie Camera—A Cinematic Analysis. London: Cambridge University Press, 1987.
+
+Pudovkin, V. I. Film Technique and Film Acting. New York: Grove Press, 1960.
+
+Schnitzer, Luda, Jean Schnitzer, and Marcel Martin, eds. Cinema and Revolution. New York: Hill & Wang, 1973.
+
+Taylor, Richard. The Politics of the Soviet Cinema, 1917–1929. Cambridge: Cambridge University Press, 1979.
+
+Taylor, Richard, and Ian Christie, eds. The Film Factory: Russian and Soviet Cinema in Documents, 1896–1939. Cambridge, Mass.: Harvard University Press, 1988.
+
+———. Inside the Film Factory: New Approaches to Russian and Soviet Cinema. London: Routledge, 1991.
+
+Youngblood, Denise. Soviet Cinema in the Silent Era, 1918–1933. Ann Arbor, MI: UMI Research Press, 1985.
+
+The Classical Hollywood Cinema After the Coming of Sound
+
+Balio, Tino. Grand Design: Hollywood as a Modern Business Enterprise, 1930–1939. New York: Scribner, 1993.
+
+Balio, Tino, ed. The American Film Industry, rev. ed. Madison: University of Wisconsin Press, 1985.
+
+———. Hollywood in the Age of Television. Boston: Unwin Hyman, 1990.
+
+Bordwell, David, Janet Staiger, and Kristin Thompson. The Classical Hollywood Cinema: Film Style and Mode of Production to 1960. New York: Columbia University Press, 1985.
+
+Crafton, Donald. The Talkies: American Cinema’s Transition to Sound 1926–1931. New York: Scribner, 1997.
+
+Koszarski, Richard, ed. Hollywood Directors, 1914–1940. New York: Oxford University Press, 1976.
+
+Maltby, Richard. Harmless Entertainment: Hollywood and the Ideology of Consensus. Metuchen, NJ: Scarecrow, 1983.
+
+———. Hollywood Cinema, 2nd ed. Oxford: Blackwell, 2003.
+
+Schatz, Thomas. Boom and Bust: American Cinema in the 1940s. Berkeley: University of California Press, 1997.
+
+Silver, Alain, and Elizabeth Ward. Film Noir: An Encyclopedic Reference to the American Style. Woodstock, NY: Overlook Press, 1979.
+
+Walker, Alexander. The Shattered Silents: How the Talkies Came to Stay. New York: Morrow, 1979.
+
+“Widescreen.” Issue of Velvet Light Trap 21 (Summer 1985).
+
+Italian Neorealism
+
+Armes, Roy. Patterns of Realism. New York: A. S. Barnes, 1970.
+
+Bazin, André. “Cinema and Television.” Sight and Sound 28, 1 (Winter 1958–59): 26–30.
+
+———. What Is Cinema? vol. 2. Berkeley: University of California Press, 1971.
+
+Bondanella, Peter. Italian Cinema from Neorealism to the Present. New York: Ungar, 1983.
+
+Brunette, Peter. Roberto Rossellini. New York: Oxford University Press, 1987.
+
+Leprohon, Pierre. The Italian Cinema. New York: Praeger, 1984.
+
+Liehm, Mira. Passion and Defiance: Film in Italy from 1942 to the Present. Berkeley: University of California Press, 1984.
+
+Marcus, Millicent. Italian Film in the Light of Neorealism. Princeton, NJ: Princeton University Press, 1986.
+
+Overbey, David, ed. Springtime in Italy: A Reader on Neo-Realism. London: Talisman, 1978.
+
+Sitney, P. Adams. Vital Crises in Italian Cinema: Iconography, Stylistics, Politics. Austin: University of Texas Press, 1995.
+
+The French New Wave
+
+Crisp, Colin. The Classic French Cinema, 1930–1960. Bloomington: Indiana University Press, 1994.
+
+Godard, Jean-Luc. Godard on Godard. New York: Viking Press, 1972.
+
+Hillier, Jim, ed. Cahiers du Cinéma: The 1950s: Neo-Realism, Hollywood, New Wave. Cambridge, MA: Harvard University Press, 1985.
+
+———. Cahiers du Cinéma: The 1960s: New Wave, New Cinema, Reevaluating Hollywood. Cambridge, MA: Harvard University Press, 1986.
+
+Insdorf, Annette. François Truffaut. New York: William Morrow, 1979.
+
+McCabe, Colin. Godard: A Portrait of the Artist at Seventy. New York: Farrar, Straus & Giroux, 2003.
+
+Mussman, Toby, ed. Jean-Luc Godard. New York: Dutton, 1968.
+
+Neupert, Richard. A History of the French New Wave Cinema, 2nd ed. Madison: University of Wisconsin Press, 2007.
+
+Sterritt, David. The Films of Jean-Luc Godard: Seeing the Invisible. Cambridge: Cambridge University Press, 1999.
+
+Truffaut, François. The Films in My Life. Trans. Leonard Mayhew. New York: Simon & Schuster, 1978.
+
+The New Hollywood and Independent Filmmaking
+
+Andrew, Geoff. Stranger Than Paradise: Maverick Film-Makers in Recent American Cinema. London: Prion, 1998.
+
+Bordwell, David. The Way Hollywood Tells It: Story and Style in Modern Movies. Berkeley: University of California Press, 2006.
+
+Diawara, Manthia, ed. Black American Cinema. New York: Routledge, 1993.
+
+Donahue, Suzanne Mary. American Film Distribution: The Changing Marketplace. Ann Arbor, MI: UMI Research Press, 1987.
+
+Fuchs, Cynthia, ed. Spike Lee Interviews. Jackson: University Press of Mississippi, 2002.
+
+Goodwin, Michael, and Naomi Wise. On the Edge: The Life and Times of Francis Coppola. New York: Morrow, 1989.
+
+King, Geoff. American Independent Cinema. Bloomington: Indiana University Press, 2005.
+
+Levy, Emmanuel. Cinema of Outsiders: The Rise of American Independent Film. New York: New York University Press, 1999.
+
+Lewis, Jon, ed. The New American Cinema. Durham, NC: Duke University Press, 1998.
+
+McBride, Joseph. Steven Spielberg: A Biography. New York: Simon & Schuster, 1997.
+
+McGilligan, Patrick. Robert Altman: Jumping off the Cliff. New York: St. Martin’s Press, 1989.
+
+Neale, Steve, and Murray Smith, eds. Contemporary Hollywood Cinema. New York: Routledge, 1998.
+
+Noriega, Chon A. Chicanos and Film: Representation and Resistance. Minneapolis: University of Minnesota Press, 1992.
+
+Pye, Michael, and Lynda Myles. The Movie Brats: How the Film Generation Took Over Hollywood. New York: Holt, Rinehart & Winston, 1979.
+
+Reid, Mark A. Redefining Black Film. Berkeley: University of California Press, 1993.
+
+Thompson, Kristin. The Frodo Franchise: The Lord of the Rings and Modern Hollywood. Berkeley: University of California Press, 2007.
+
+———. Storytelling in the New Hollywood: Understanding Classical Narrative Technique. Cambridge, MA: Harvard University Press, 1999.
+
+Welbon, Yvonne. “Calling the Shots: Black Women Directors Take the Helm.” Independent 15, 2 (March 1992): 18–22.
+
+Contemporary Hong Kong Cinema
+
+Bordwell, David. Planet Hong Kong: Popular Cinema and the Art of Entertainment. Cambridge, MA: Harvard University Press, 2000.
+
+Charles, John. The Hong Kong Filmography, 1977–1997. Jefferson, NC: McFarland, 2000.
+
+Fu, Poshek, and Desser, David, eds. The Cinema of Hong Kong: History, Arts, Identity. Cambridge: Cambridge University Press, 2000.
+
+Logan, Bey. Hong Kong Action Cinema. London: Titan Books, 1995.
+
+Teo, Stephen. Hong Kong Cinema: The Extra Dimensions. London: British Film Institute, 1997.
+
+Yau, Esther C. M., ed. At Full Speed: Hong Kong Cinema in a Borderless World. Minneapolis: University of Minnesota Press, 2001.
+
+Recommended DVDs
+
+Most of the films mentioned in this chapter are available on DVD. (Rome Open City was issued under its original American release title, Open City.) Kino Video (www.kino.com) and Image Entertainment (www.image-entertainment.com) have brought out many older classics.
+
+Some collections of early films offer an easy way to get a quick overview of a period, filmmaker, or genre. For a brief introduction to the period up to 1913, Landmarks of Early Film (1 disc, Image Entertainment) offers 40 shorts. Edison: The Invention of the Movies (4 discs, Kino Video and the Museum of Modern Art) collects 140 films from the Thomas A. Edison Company, including The Great Train Robbery. It contains interviews with film historians and archivists, as well as program notes and documents. The Movies Begin: A Treasury of Early Cinema 1894–1913 (5 discs, Kino Video) gathers 133 films arranged thematically: Volume 1, “The Great Train Robbery and Other Primary works”; Volume 2, “The European Pioneers” (including films by the Lumières and early British filmmakers); Volume 3, “Experimentation and Discovery” (mostly early British and French films); Volume 4, “The Magic of Méliès”; and Volume 5, “Comedy, Spectacle and New Horizons.”
+
+Slapstick Encyclopedia (5 discs, Image Entertainment) surveys the golden age of comedy shorts—the 1910s and early 1920s. The Harold Lloyd Comedy Collection (7 discs, New Line) provides an extensive program of films with one of the masters of silent comedy, as well as a disc of bonus material.
+
+A broad range of types of films is collected in Treasures from American Film Archives: 50 Preserved Films (4 discs), More Treasures from American Film Archives, 1894–1931 (3 discs, Image Entertainment), and Treasures III: Social Issues in American Film 1900–1934 (4 discs, Image Entertainment). These include documentaries, home movies, animation, experimental cinema, and fiction films such as D. W. Griffith’s 1911 one-reeler The Lonedale Operator (illustrating his command of early intercutting), Cecil B. De Mille’s The Godless Girl (1928), and Ernst Lubitsch’s masterpiece of classical continuity filmmaking, Lady Windermere’s Fan (1925). Each boxed set includes a book of detailed program notes.
+
+Recommended Blog Entries on “Observations on film art and Film Art”
+
+We have written several entries on film archives and the restoration and exhibition of older movies. See “American (movie) madness,” at www.davidbordwell.net/blog/?p=2326, on the commercial value of those movies to DVD release, on what restoration involves, and on Sony/Columbia’s restoration program—specifically, its rejuvenation of Frank Capra’s early 1930s classic, American Madness. Turner Classic Movies has been a major force for the restoration and exhibition of older films, and we salute it in “From Hollywood to Atlanta to us,” at www.davidbordwell.net/blog/?p=335.
+
+We sum up trends in moviemaking during 2006 in “An appetite for artifice,” at www.davidbordwell.net/blog/?p=237.
+
+We also occasionally write about historically important films. On a British wartime tale, see “Cavalcanti + Ealing = a little-known gem,” at www.davidbordwell.net/blog/?p=2303. On Béla Tarr’s Satan’s Tango, see “TANGO marathon,” at www.davidbordwell.net/blog/?p=31.
+
+When we attend film festivals, we often comment on a wide range of modern films from all over the world. You can find information on films we’ve seen at festivals in Vancouver, Hong Kong, Bologna, and other places by going to the “Festivals” tag on our blog: www.davidbordwell.net/blog/?cat=9.

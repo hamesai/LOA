@@ -1,0 +1,2771 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Library of Alexandria</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+<style>
+/* Layout: one column ledger-first dashboard. Ladder and tiles on top, ledger and data in the middle, library and resources below. */
+:root {
+  --bg: #edf1ee;
+  --panel: #f9fbf9;
+  --ink: #14201b;
+  --muted: #55655d;
+  --line: #cbd6cf;
+  --accent: #0f6b63;
+  --accent-ink: #ffffff;
+  --ok: #1f7a4d;
+  --warn: #a8650b;
+  --bad: #b3382c; --disc: #8a6d00;
+  --belt-white: #f4f4f0;
+  --belt-yellow: #e3b523;
+  --belt-orange: #de7a22;
+  --belt-green: #2f8f5b;
+  --belt-brown: #7a4a2b;
+  --belt-black: #1a1a1a;
+  --f-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --f-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1613; --panel: #15201b; --ink: #e6eee9; --muted: #93a59b; --line: #29382f;
+    --accent: #3fb8a8; --accent-ink: #06201c; --ok: #55c28a; --warn: #e0a24a; --bad: #ee7b6e; --disc: #e6c84a;
+    --belt-white: #e9e9e4; --belt-black: #050505; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1613; --panel: #15201b; --ink: #e6eee9; --muted: #93a59b; --line: #29382f;
+  --accent: #3fb8a8; --accent-ink: #06201c; --ok: #55c28a; --warn: #e0a24a; --bad: #ee7b6e; --disc: #e6c84a;
+  --belt-white: #e9e9e4; --belt-black: #050505; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { color-scheme: light; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 400 1rem/1.5 var(--f-body);
+  padding-inline: clamp(1rem, 4vw, 2.5rem); padding-block: 1.5rem 3rem;
+}
+.wrap { max-width: 74rem; margin-inline: auto; display: grid; gap: 1.75rem; }
+h1, h2, h3 { font-family: var(--f-display); margin: 0; text-wrap: balance; line-height: 1.12; }
+h1 { font-size: clamp(2rem, 5vw, 3.1rem); font-weight: 700; letter-spacing: -0.02em; }
+h2 { font-size: 1.35rem; font-weight: 600; }
+h3 { font-size: 1.05rem; font-weight: 600; }
+p { margin: 0; }
+a { color: var(--accent); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.eyebrow { font: 500 0.75rem/1 var(--f-mono); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.mono { font-family: var(--f-mono); font-variant-numeric: tabular-nums; }
+header { display: grid; gap: 0.75rem; }
+.take { max-width: 46rem; color: var(--muted); font-size: 1.1rem; }
+.take strong { color: var(--ink); font-weight: 600; }
+section { display: grid; gap: 0.9rem; min-width: 0; }
+.sec-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 0.5rem 1rem; }
+.sec-head p { color: var(--muted); font-size: 0.92rem; max-width: 40rem; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 1.1rem; min-width: 0; }
+
+/* belt ladder */
+.ladder { display: grid; gap: 0.75rem; }
+.belts { display: grid; grid-template-columns: repeat(auto-fit, minmax(8.5rem, 1fr)); gap: 0.5rem; }
+.belt { border: 1px solid var(--line); border-radius: 6px; padding: 0.6rem 0.7rem 0.7rem; display: grid; gap: 0.35rem; background: var(--bg); }
+.belt .bar { height: 10px; border-radius: 2px; border: 1px solid var(--line); }
+.belt .bname { font: 600 0.95rem/1 var(--f-display); }
+.belt .breq { font-size: 0.8rem; color: var(--muted); }
+.belt .bstate { font: 500 0.7rem/1 var(--f-mono); text-transform: uppercase; letter-spacing: 0.08em; }
+.belt[data-state="earned"] { border-color: var(--ok); }
+.belt[data-state="earned"] .bstate { color: var(--ok); }
+.belt[data-state="next"] { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
+.belt[data-state="next"] .bstate { color: var(--accent); }
+.belt[data-state="locked"] { opacity: 0.62; }
+.belt[data-state="locked"] .bstate { color: var(--muted); }
+
+/* tiles */
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr)); gap: 0.75rem; }
+.tile { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 0.9rem 1rem; display: grid; gap: 0.2rem; }
+.tile .num { font: 700 2rem/1.1 var(--f-display); font-variant-numeric: tabular-nums; }
+.tile .lab { font-size: 0.85rem; color: var(--muted); }
+
+/* forms */
+form.ledger-form { display: grid; grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr)); gap: 0.7rem; align-items: end; }
+label { display: grid; gap: 0.25rem; font-size: 0.8rem; color: var(--muted); font-weight: 600; }
+input, select, button { font: 400 0.95rem var(--f-body); color: var(--ink); }
+input, select { background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 0.5rem 0.6rem; min-width: 0; width: 100%; }
+.wide { grid-column: 1 / -1; }
+.btn { background: var(--accent); color: var(--accent-ink); border: 1px solid var(--accent); border-radius: 6px; padding: 0.55rem 1rem; font-weight: 600; cursor: pointer; }
+.btn.ghost { background: transparent; color: var(--ink); border-color: var(--line); }
+.btn.sm { padding: 0.3rem 0.6rem; font-size: 0.82rem; }
+.btn:hover { filter: brightness(1.06); }
+.row { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
+.msg { font-size: 0.88rem; min-height: 1.3em; }
+.msg.ok { color: var(--ok); } .msg.bad { color: var(--bad); }
+
+/* tables */
+.tscroll { overflow-x: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); }
+table { border-collapse: collapse; width: 100%; font-size: 0.92rem; }
+th, td { text-align: left; padding: 0.55rem 0.8rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font: 500 0.72rem/1.2 var(--f-mono); text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); background: var(--bg); position: sticky; top: 0; white-space: nowrap; }
+tr:last-child td { border-bottom: 0; }
+td.num, th.num { text-align: right; font-family: var(--f-mono); font-variant-numeric: tabular-nums; }
+.pill { display: inline-block; font: 500 0.72rem/1 var(--f-mono); padding: 0.25rem 0.45rem; border-radius: 4px; border: 1px solid var(--line); white-space: nowrap; }
+.pill.ok { color: var(--ok); border-color: var(--ok); }
+.pill.warn { color: var(--warn); border-color: var(--warn); }
+.pill.bad { color: var(--bad); border-color: var(--bad); }
+/* How far the sources were read */
+.sr-lead { color: var(--muted); margin: 0 0 0.6rem; }
+.sr-bar { display: flex; height: 10px; border-radius: 5px; overflow: hidden; background: var(--line); margin: 0.5rem 0 0.4rem; }
+.sr-seg { height: 100%; }
+.sr-seg.full, .sr-dot.full { background: var(--ok); }
+.sr-seg.part, .sr-dot.part { background: var(--warn); }
+.sr-seg.search, .sr-dot.search { background: var(--accent); }
+.sr-seg.none, .sr-dot.none { background: var(--bad); }
+.sr-seg.unknown, .sr-dot.unknown { background: var(--muted); }
+.sr-legend { display: flex; flex-wrap: wrap; gap: 0.3rem 1.1rem; font-size: 0.86rem; color: var(--muted); list-style: none; padding: 0; margin: 0 0 0.9rem; }
+.sr-dot { display: inline-block; width: 0.6rem; height: 0.6rem; border-radius: 50%; margin-right: 0.35rem; }
+.sr-filters { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem; margin: 0.3rem 0; }
+.sr-filters .sr-lab { font: 500 0.78rem var(--f-mono); color: var(--muted); margin-right: 0.2rem; }
+.sr-chip { font: 500 0.8rem var(--f-mono); padding: 0.3rem 0.65rem; border: 1px solid var(--line); border-radius: 999px; background: transparent; color: var(--ink); cursor: pointer; }
+.sr-chip[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.sr-list { list-style: none; padding: 0; margin: 0.8rem 0; display: grid; gap: 0.6rem; }
+.sr-row { border: 1px solid var(--line); border-left-width: 4px; border-radius: 8px; padding: 0.7rem 0.9rem; background: var(--bg); }
+.sr-row.full { border-left-color: var(--ok); }
+.sr-row.part { border-left-color: var(--warn); }
+.sr-row.search { border-left-color: var(--accent); }
+.sr-row.none { border-left-color: var(--bad); }
+.sr-row.unknown { border-left-color: var(--muted); }
+.sr-top { display: flex; flex-wrap: wrap; gap: 0.25rem 0.7rem; align-items: baseline; }
+.sr-name { font-weight: 600; }
+.sr-by { color: var(--muted); font-size: 0.85rem; }
+.sr-pill { font: 600 0.72rem var(--f-mono); padding: 0.2rem 0.5rem; border-radius: 4px; border: 1px solid currentColor; white-space: nowrap; }
+.sr-pill.full { color: var(--ok); }
+.sr-pill.part { color: var(--warn); }
+.sr-pill.search { color: var(--accent); }
+.sr-pill.none { color: var(--bad); }
+.sr-pill.unknown { color: var(--muted); }
+.sr-meta { color: var(--muted); font-size: 0.88rem; margin: 0.3rem 0 0; }
+.sr-note { margin: 0.3rem 0 0; font-size: 0.93rem; }
+.sr-more { margin-top: 0.35rem; font-size: 0.88rem; }
+.sr-more > summary { cursor: pointer; color: var(--accent); }
+.sr-more ul { margin: 0.3rem 0 0; padding-left: 1.2rem; }
+.sr-empty { color: var(--muted); font-style: italic; }
+.sr-sec { border-top: 1px solid var(--line); padding: 0.55rem 0 0; margin-top: 0.7rem; }
+.sr-sec > summary { cursor: pointer; font-weight: 600; }
+.sr-sec ul { margin: 0.4rem 0 0.2rem; padding-left: 1.2rem; }
+.sr-sec li { margin: 0.25rem 0; }
+@media (max-width: 560px) { .sr-row { padding: 0.65rem 0.7rem; } }
+/* Sources grouped by colour, with a detail modal */
+.sr-tag { display: inline-block; font: 600 0.68rem var(--f-mono); padding: 0.15rem 0.5rem; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); white-space: nowrap; }
+.sr-tag.user { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.sr-grp { border-left: 4px solid var(--line); background: var(--bg); border-radius: 8px; padding: 0.2rem 0.9rem 0.6rem; margin: 0.7rem 0; }
+.sr-grp.full { border-left-color: var(--ok); }
+.sr-grp.part { border-left-color: var(--warn); }
+.sr-grp.search { border-left-color: var(--accent); }
+.sr-grp.none { border-left-color: var(--bad); }
+.sr-grp.unknown { border-left-color: var(--muted); }
+.sr-grp > summary { cursor: pointer; display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.3rem 0.6rem; padding: 0.55rem 0; list-style: none; }
+.sr-grp > summary::-webkit-details-marker { display: none; }
+.sr-grp > summary::before { content: "\25b8"; color: var(--accent); }
+.sr-grp[open] > summary::before { content: "\25be"; }
+.sr-count { font: 600 0.78rem var(--f-mono); color: var(--muted); }
+.sr-hint { color: var(--muted); font-size: 0.86rem; flex-basis: 100%; }
+.sr-grid { list-style: none; padding: 0; margin: 0.3rem 0 0; display: grid; gap: 0.55rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr)); }
+.sr-card { width: 100%; height: 100%; text-align: left; display: flex; flex-direction: column; gap: 0.3rem; font: inherit; color: var(--ink); background: var(--panel); border: 1px solid var(--line); border-top: 3px solid var(--line); border-radius: 8px; padding: 0.65rem 0.75rem; cursor: pointer; }
+.sr-card:hover, .sr-card:focus-visible { border-color: var(--accent); outline: none; box-shadow: 0 0 0 2px var(--accent); }
+.sr-card.full { border-top-color: var(--ok); }
+.sr-card.part { border-top-color: var(--warn); }
+.sr-card.search { border-top-color: var(--accent); }
+.sr-card.none { border-top-color: var(--bad); }
+.sr-card.unknown { border-top-color: var(--muted); }
+.sr-card .sr-name { font-weight: 600; }
+.sr-tags { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.sr-more-link { margin-top: auto; color: var(--accent); font-size: 0.82rem; font-weight: 600; }
+.sr-groups > .sr-empty { margin: 0.8rem 0; }
+.fs-applied, .sr-seg.fs-applied, .sr-dot.fs-applied { background: var(--ok); }
+.fs-confirmed, .sr-seg.fs-confirmed, .sr-dot.fs-confirmed { background: var(--accent); }
+.fs-avoided, .sr-seg.fs-avoided, .sr-dot.fs-avoided { background: var(--warn); }
+.fs-skipped, .sr-seg.fs-skipped, .sr-dot.fs-skipped { background: var(--muted); }
+.fs-open, .sr-seg.fs-open, .sr-dot.fs-open { background: var(--bad); }
+.srm { position: fixed; inset: 0; z-index: 60; display: grid; place-items: center; padding: clamp(0.5rem, 3vw, 2rem); }
+.srm[hidden] { display: none; }
+.srm-bg { position: absolute; inset: 0; background: rgba(0, 0, 0, 0.6); }
+.srm-box { position: relative; width: min(46rem, 100%); max-height: calc(100vh - 1.5rem); max-height: calc(100dvh - 1.5rem); min-height: 0; display: flex; flex-direction: column; background: var(--panel); color: var(--ink); border: 1px solid var(--line); border-radius: 12px; box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45); outline: none; }
+.srm-head { display: flex; align-items: flex-start; gap: 1rem; padding: 1rem 1.2rem 0.4rem; }
+.srm-titles { flex: 1; min-width: 0; }
+.srm-titles h3 { margin: 0; font: 600 1.25rem/1.25 var(--f-display); }
+.srm-by { margin: 0.2rem 0 0; color: var(--muted); }
+.srm-x { font-size: 1.6rem; line-height: 1; background: transparent; border: 1px solid var(--line); border-radius: 8px; color: var(--ink); width: 2.4rem; height: 2.4rem; cursor: pointer; }
+.srm-x:hover, .srm-x:focus-visible { border-color: var(--accent); outline: none; }
+.srm-pills { display: flex; flex-wrap: wrap; gap: 0.4rem; padding: 0.3rem 1.2rem 0.8rem; border-bottom: 1px solid var(--line); }
+.srm-body { overflow: auto; padding: 0.4rem 1.2rem 1.2rem; }
+.srm-sec + .srm-sec { margin-top: 0.6rem; }
+.srm-body > .srm-sec:first-child { margin-top: 0.6rem; }
+.srm-sec { border: 1px solid var(--line); border-radius: 8px; padding: 0 0.9rem; background: var(--bg); }
+.srm-sec[open] { padding-bottom: 0.8rem; }
+.srm-sec > summary { cursor: pointer; list-style: none; display: flex; align-items: center; gap: 0.5rem; padding: 0.65rem 0; font: 600 0.78rem var(--f-mono); letter-spacing: 0.04em; text-transform: uppercase; color: var(--accent); }
+.srm-sec > summary::-webkit-details-marker { display: none; }
+.srm-sec > summary::before { content: "\25b8"; }
+.srm-sec[open] > summary::before { content: "\25be"; }
+.srm-sec > summary:focus-visible { outline: 2px solid var(--accent); border-radius: 4px; }
+.srm-all { margin-left: auto; font: 600 0.74rem var(--f-mono); color: var(--accent); background: transparent; border: 1px solid var(--line); border-radius: 999px; padding: 0.15rem 0.6rem; cursor: pointer; }
+.srm-all:hover, .srm-all:focus-visible { border-color: var(--accent); outline: none; }
+.srm-dl { display: grid; grid-template-columns: max-content 1fr; gap: 0.3rem 1rem; margin: 0; }
+.srm-dl dt { color: var(--muted); }
+.srm-dl dd { margin: 0; }
+.srm-sub { color: var(--muted); font-size: 0.9rem; margin: 0.5rem 0 0.2rem; }
+.srm-empty { color: var(--muted); font-style: italic; }
+.srm-mod { border: 1px solid var(--line); border-radius: 8px; padding: 0.6rem 0.8rem; margin: 0.5rem 0; background: var(--bg); }
+.srm-mod h5 { margin: 0 0 0.3rem; font: 600 0.95rem var(--f-display); }
+.srm-les { margin: 0.5rem 0; }
+.srm-ch { color: var(--muted); font-size: 0.85rem; }
+.srm-les ul, .srm-sec ul { margin: 0.3rem 0 0; padding-left: 1.2rem; }
+.srm-les li, .srm-sec li { margin: 0.25rem 0; }
+.srm-foot { color: var(--muted); font-size: 0.82rem; border-top: 1px solid var(--line); margin: 1.2rem 0 0; padding-top: 0.7rem; }
+@media (max-width: 560px) { .srm-dl { grid-template-columns: 1fr; } .srm-box { border-radius: 8px; } }
+/* Source viewer: sidebar, search, previous and next */
+.sr-toolbar { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.4rem 0; }
+.sr-find { flex: 1 1 14rem; min-width: 0; font: inherit; color: var(--ink); background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 0.5rem 0.7rem; }
+.sr-find:focus-visible, .srm-search:focus-visible { outline: 2px solid var(--accent); }
+.sr-browse { font: 600 0.85rem var(--f-mono); color: var(--accent-ink); background: var(--accent); border: 1px solid var(--accent); border-radius: 8px; padding: 0.5rem 0.9rem; cursor: pointer; }
+.sr-browse:hover, .sr-browse:focus-visible { filter: brightness(1.1); outline: 2px solid var(--ink); outline-offset: 2px; }
+.srm-box.wide { width: min(70rem, 100%); height: calc(100vh - 1.5rem); height: calc(100dvh - 1.5rem); }
+.srm-bar { display: flex; align-items: center; gap: 0.5rem; padding: 0.6rem 0.8rem; border-bottom: 1px solid var(--line); }
+.srm-nb { font: 600 0.85rem var(--f-mono); color: var(--ink); background: transparent; border: 1px solid var(--line); border-radius: 8px; min-width: 2.4rem; height: 2.4rem; padding: 0 0.6rem; cursor: pointer; }
+.srm-nb:hover, .srm-nb:focus-visible { border-color: var(--accent); outline: none; }
+.srm-nb[aria-label^="Show"] { display: none; }
+.srm-pos { color: var(--muted); font: 500 0.8rem var(--f-mono); white-space: nowrap; }
+.srm-search { flex: 1; min-width: 0; font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 0.45rem 0.7rem; }
+.srm-main { flex: 1; min-height: 0; display: grid; grid-template-columns: 17rem 1fr; }
+.srm-nav { overflow: auto; border-right: 1px solid var(--line); padding: 0.3rem 0.5rem 1rem; background: var(--bg); border-radius: 0 0 0 12px; }
+.srm-grp-h { display: flex; align-items: center; gap: 0.45rem; margin: 0.9rem 0 0.3rem; font: 600 0.74rem var(--f-mono); text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
+.srm-navlist { list-style: none; padding: 0; margin: 0; }
+.srm-item { width: 100%; display: flex; align-items: center; gap: 0.4rem; justify-content: space-between; text-align: left; font: inherit; font-size: 0.9rem; color: var(--ink); background: transparent; border: 1px solid transparent; border-left: 3px solid var(--line); border-radius: 6px; padding: 0.4rem 0.5rem; cursor: pointer; }
+.srm-item.full { border-left-color: var(--ok); }
+.srm-item.part { border-left-color: var(--warn); }
+.srm-item.search { border-left-color: var(--accent); }
+.srm-item.none { border-left-color: var(--bad); }
+.srm-item.unknown { border-left-color: var(--muted); }
+.srm-item:hover { background: var(--panel); }
+.srm-item:focus-visible { outline: 2px solid var(--accent); }
+.srm-item[aria-current="true"] { background: var(--panel); border-color: var(--accent); font-weight: 600; }
+.srm-item-name { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.srm-none { color: var(--muted); font-style: italic; padding: 0.6rem; }
+.srm-detail { min-height: 0; min-width: 0; display: flex; flex-direction: column; }
+.srm-detail .srm-head { padding-top: 0.9rem; }
+@media (max-width: 760px) {
+  .srm-main { grid-template-columns: 1fr; position: relative; }
+  .srm-nb[aria-label^="Show"] { display: inline-block; }
+  .srm-nav { display: none; position: absolute; inset: 0; z-index: 2; border-right: 0; border-radius: 0 0 8px 8px; }
+  .srm-box.nav-open .srm-nav { display: block; }
+  .srm-pos { display: none; }
+  .srm-bar { flex-wrap: wrap; }
+  .srm-search { flex-basis: 100%; order: 9; }
+}
+.srm-grp-h[hidden], .srm-navlist[hidden], .srm-none[hidden], .srm-nav li[hidden], .srm-grpd[hidden] { display: none; }
+.srm-grpd > summary { cursor: pointer; list-style: none; }
+.srm-grpd > summary::-webkit-details-marker { display: none; }
+.srm-grpd > summary::before { content: "\25b8"; color: var(--accent); }
+.srm-grpd[open] > summary::before { content: "\25be"; }
+.srm-sub[hidden] { display: none; }
+.sr-tag.disc { background: var(--disc); border-color: var(--disc); color: var(--accent-ink); }
+.sr-tag.found { background: var(--bad); border-color: var(--bad); color: var(--accent-ink); }
+.srm-sub-h { display: flex; align-items: center; gap: 0.4rem; margin: 0.5rem 0 0.2rem 0.3rem; font: 600 0.68rem var(--f-mono); text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
+.sr-sub-h { display: flex; align-items: center; gap: 0.45rem; margin: 0.8rem 0 0.3rem; font: 600 0.75rem var(--f-mono); text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
+
+/* roomier text: more line height, more space between blocks */
+.srm-body { font-size: 1.05rem; line-height: 1.8; letter-spacing: 0.012em; padding: 1.2rem clamp(1rem, 3vw, 2rem) 2.6rem; }
+.srm-body p { margin: 0.9rem 0; }
+.srm-sec { padding: 0 1.2rem; border-radius: 10px; }
+.srm-sec[open] { padding-bottom: 1.3rem; }
+.srm-sec + .srm-sec { margin-top: 1rem; }
+.srm-sec > summary { padding: 1rem 0; min-height: 2.75rem; }
+.srm-dl { gap: 0.85rem 1.6rem; }
+.srm-sub { margin: 1rem 0 0.4rem; }
+.srm-sec ul, .srm-les ul { padding-left: 1.4rem; margin: 0.6rem 0; }
+.srm-sec li, .srm-les li { margin: 0.65rem 0; }
+.srm-mod { padding: 1rem 1.2rem; margin: 1rem 0; }
+.srm-mod h5 { margin-bottom: 0.7rem; line-height: 1.5; }
+.srm-les { margin: 1.2rem 0; }
+.srm-titles h3 { line-height: 1.35; }
+.srm-by { margin-top: 0.45rem; }
+.srm-pills { padding-bottom: 1rem; }
+.srm-foot { line-height: 1.7; margin-top: 1.6rem; }
+.srm-item { padding: 0.55rem 0.6rem; line-height: 1.4; }
+.srm-navlist li { margin: 0.15rem 0; }
+.dot { display: inline-block; width: 0.7rem; height: 0.7rem; border-radius: 50%; border: 1px solid var(--line); margin-right: 0.4rem; vertical-align: -1px; }
+.empty { color: var(--muted); padding: 1rem; font-size: 0.92rem; }
+
+/* chart */
+.chart-box { display: grid; gap: 0.5rem; }
+.chart-box svg { width: 100%; height: auto; display: block; }
+.chart-box text { fill: var(--muted); font: 400 11px var(--f-mono); }
+
+
+/* dropdowns */
+.dd { border: 1px solid var(--line); border-radius: 8px; background: var(--panel); padding: 0 1rem; }
+.dd[open] { padding-bottom: 1rem; }
+.dd > summary { cursor: pointer; list-style: none; display: flex; align-items: baseline; gap: 0.6rem; padding: 0.8rem 0; }
+.dd > summary::-webkit-details-marker { display: none; }
+.dd > summary::before { content: "▸"; color: var(--accent); }
+.dd[open] > summary::before { content: "▾"; }
+.dd > summary h2, .dd > summary h3 { margin: 0; font-size: 1.05rem; }
+.dd-n { margin-left: auto; font: 500 0.78rem var(--f-mono); color: var(--muted); }
+.dd-note { color: var(--muted); font-size: 0.92rem; margin: 0 0 0.75rem; }
+.dd .res { margin-top: 0.5rem; }
+
+/* library + resources */
+.libs { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); gap: 0.75rem; }
+.chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.chip { border: 1px solid var(--line); background: var(--panel); border-radius: 999px; padding: 0.3rem 0.8rem; font-size: 0.88rem; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.res { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr)); gap: 0.7rem; }
+.rc { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 0.9rem; display: grid; gap: 0.45rem; align-content: start; min-width: 0; }
+.rc .top { display: flex; justify-content: space-between; gap: 0.5rem; align-items: center; }
+.rc .type { font: 500 0.72rem/1 var(--f-mono); text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); }
+.rc a { font-weight: 600; overflow-wrap: anywhere; }
+.rc .src, .rc .note { font-size: 0.86rem; color: var(--muted); overflow-wrap: anywhere; }
+.rc .meta { display: flex; flex-wrap: wrap; gap: 0.35rem; font: 400 0.75rem var(--f-mono); color: var(--muted); }
+.foot { color: var(--muted); font-size: 0.88rem; border-top: 1px solid var(--line); padding-top: 1rem; display: grid; gap: 0.4rem; }
+/* learning tools */
+.chk { display: inline-flex; flex-direction: row; align-items: center; gap: 0.35rem; font-size: 0.85rem; color: var(--ink); cursor: pointer; }
+.mv-hint { margin: 0; color: var(--muted); font-size: 0.95rem; }
+.qopts { display: grid; gap: 0.4rem; }
+.qopt { text-align: left; background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 0.55rem 0.75rem; cursor: pointer; font: 400 0.95rem var(--f-body); color: var(--ink); }
+.qopt:hover:not(:disabled) { border-color: var(--accent); }
+.qopt:disabled { cursor: default; opacity: 1; }
+.qopt.right { border-color: var(--ok); background: color-mix(in srgb, var(--ok) 14%, transparent); }
+.qopt.wrong { border-color: var(--bad); background: color-mix(in srgb, var(--bad) 12%, transparent); }
+.qwhy { font-size: 0.9rem; color: var(--muted); }
+textarea.reflect { width: 100%; font: 400 0.95rem var(--f-body); color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 0.5rem 0.65rem; resize: vertical; }
+.tool { display: grid; gap: 0.75rem; max-width: 40rem; }
+.tgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); gap: 0.6rem; }
+.tgrid textarea { font: 400 0.95rem var(--f-body); color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 0.5rem 0.6rem; width: 100%; resize: vertical; }
+.tout { font-size: 1rem; overflow-wrap: anywhere; }
+.tout p { margin: 0 0 0.3rem; }
+/* module page + history */
+.mtable .mrow { cursor: pointer; }
+.mprog { display: flex; align-items: center; gap: 0.5rem; margin-top: 0.35rem; }
+.mprog-bar { flex: 0 1 11rem; height: 6px; border-radius: 3px; background: var(--line); overflow: hidden; }
+.mprog-bar i { display: block; height: 100%; background: var(--accent); }
+.mprog-txt { font-size: 0.75rem; color: var(--muted); white-space: nowrap; }
+.mtable .mrow:hover td { background: color-mix(in srgb, var(--accent) 7%, transparent); }
+.mtable .mrow:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+.chev { display: inline-block; width: 1.1rem; color: var(--accent); font-weight: 700; }
+.mview { position: fixed; inset: 0; z-index: 40; background: var(--bg); overflow: auto;
+  padding: max(1rem, env(safe-area-inset-top, 0px)) clamp(1rem, 4vw, 2.5rem) max(2rem, env(safe-area-inset-bottom, 0px)); }
+.mview[hidden] { display: none; }
+.mv-wrap { max-width: 64rem; margin-inline: auto; display: grid; gap: 1rem; }
+.mv-top { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 3; background: var(--bg); padding: 0.5rem 0; margin-top: -0.5rem; border-bottom: 1px solid var(--line); }
+.mv-head { display: grid; gap: 0.6rem; }
+.mv-head h2 { font-size: clamp(1.7rem, 4.5vw, 2.6rem); letter-spacing: -0.015em; }
+.mv-tabs { display: flex; flex-wrap: wrap; gap: 0.25rem; border-bottom: 1px solid var(--line); }
+.tab { background: none; border: 0; border-bottom: 3px solid transparent; padding: 0.6rem 0.9rem; cursor: pointer; font-weight: 600; color: var(--muted); }
+.tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+.mgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 24rem), 1fr)); gap: 1.25rem 1.75rem; align-items: start; }
+.msec { display: grid; gap: 0.35rem; align-content: start; min-width: 0; }
+.msec h4 { margin: 0; font: 500 0.72rem/1.2 var(--f-mono); text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); }
+.msec p, .msec li { font-size: 1rem; overflow-wrap: anywhere; }
+.msec ul, .msec ol { margin: 0; padding-left: 1.25rem; display: grid; gap: 0.4rem; }
+.chl { display: grid; gap: 0.5rem; }
+.ch { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 0.7rem 0.85rem; display: grid; gap: 0.35rem; }
+.chh { display: flex; justify-content: space-between; align-items: center; gap: 0.5rem; }
+.ch summary { cursor: pointer; font-size: 0.92rem; color: var(--accent); }
+.ch details > div { padding-top: 0.4rem; display: grid; gap: 0.35rem; }
+.mv-ctl { margin-top: 0.75rem; }
+/* practice tab: an intro, then six numbered steps in one column */
+.pr { display: grid; gap: 1.25rem; max-width: 52rem; }
+.pr-top { display: grid; gap: 0.9rem; }
+.pr-brief { display: grid; gap: 0.5rem; background: var(--panel); border: 1px solid var(--line); border-left: 3px solid var(--accent); border-radius: 8px; padding: 0.9rem 1.1rem; }
+.pr-brief blockquote { margin: 0; font-size: 1.05rem; }
+.pr-holds { display: grid; gap: 0.3rem; font-size: 0.95rem; }
+.pr-holds ul { margin: 0; padding-left: 1.25rem; }
+.pr-note { font-size: 0.85rem; color: var(--muted); }
+.pr-status { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); gap: 0.9rem 1.25rem; align-items: start; }
+.pr-pass { display: grid; gap: 0.3rem; }
+.pr-pass p { font-size: 1rem; }
+.pr-prog { display: grid; gap: 0.4rem; align-content: start; }
+.pr-prog .mprog-bar { flex: none; width: 100%; height: 8px; }
+.pr-step { display: grid; gap: 0.8rem; padding-top: 1.1rem; border-top: 1px solid var(--line); }
+.pr-head { display: grid; grid-template-columns: auto 1fr; gap: 0.75rem; align-items: start; }
+.pr-n { width: 2rem; height: 2rem; border-radius: 50%; border: 1px solid var(--accent); color: var(--accent); display: grid; place-items: center; font-size: 0.85rem; }
+.pr-head h3 { font-size: 1.2rem; }
+.pr-purpose { color: var(--muted); font-size: 0.92rem; margin-top: 0.2rem; }
+.pr-body { display: grid; gap: 1.1rem; }
+.pr-sub { display: grid; gap: 0.5rem; min-width: 0; }
+.pr-sub > h4 { margin: 0; font: 500 0.72rem/1.2 var(--f-mono); text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); }
+.pr-ladder { display: grid; gap: 0.5rem; }
+.pr-rung { display: grid; grid-template-columns: auto 1fr; gap: 0.7rem; align-items: start; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 0.7rem 0.85rem; }
+.pr-rung p { margin: 0 0 0.3rem; }
+.pr-ch.is-done { border-color: var(--ok); }
+.pr-ch .chh { flex-wrap: wrap; }
+details.hist { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; }
+details.hist > summary { cursor: pointer; padding: 0.9rem 1.1rem; font: 600 1.15rem var(--f-display); display: flex; gap: 0.6rem; align-items: baseline; list-style: none; }
+details.hist > summary::-webkit-details-marker { display: none; }
+details.hist > summary::before { content: "▸"; color: var(--accent); }
+details.hist[open] > summary::before { content: "▾"; }
+details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weight: 400; }
+.faq h2 { font: 600 1.4rem var(--f-display); margin: 0 0 0.7rem; }
+.faq details details { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; margin-bottom: 0.5rem; }
+.faq details details > summary { cursor: pointer; padding: 0.8rem 1rem; font-weight: 600; list-style: none; display: flex; gap: 0.6rem; }
+.faq details details > summary::-webkit-details-marker { display: none; }
+.faq details details > summary::before { content: "▸"; color: var(--accent); }
+.faq details details[open] > summary::before { content: "▾"; }
+.faq details details p { margin: 0; padding: 0 1rem 0.9rem 2rem; color: var(--muted); }
+.hist-body { display: grid; gap: 0.75rem; padding: 0 1.1rem 1.1rem; }
+/* library home and course modal */
+.courses { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 22rem), 1fr)); gap: 1rem; }
+.course { background: var(--panel); border: 1px solid var(--line); border-top: 5px solid var(--cacc, var(--accent)); border-radius: 8px; padding: 1.1rem 1.2rem 1.2rem; display: grid; gap: 0.7rem; cursor: pointer; min-width: 0; align-content: start; }
+.course:hover { border-color: var(--cacc, var(--accent)); box-shadow: 0 0 0 1px var(--cacc, var(--accent)); }
+.course:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.course h3 { font-size: 1.3rem; }
+.course .csum { color: var(--muted); font-size: 0.95rem; }
+.course .cmeta { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.course .cbar { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+.course .cbar i { display: block; height: 100%; background: var(--cacc, var(--accent)); }
+.course .cprog { display: flex; justify-content: space-between; font: 400 0.8rem var(--f-mono); color: var(--muted); }
+.course .cbelts { display: flex; gap: 0.35rem; align-items: center; }
+.course .cbelts i { width: 1.1rem; height: 0.55rem; border-radius: 2px; border: 1px solid var(--line); opacity: 0.35; }
+.course .cbelts i.on { opacity: 1; }
+.course.add { border-style: dashed; border-top-style: dashed; cursor: default; background: transparent; }
+.course.add:hover { box-shadow: none; border-color: var(--line); }
+.tmpl ol { margin: 0 0 0.6rem; padding-left: 1.3rem; display: grid; gap: 0.45rem; }
+.cmodal { position: fixed; inset: 0; z-index: 30; background: var(--bg); overflow: auto; }
+.cmodal[hidden] { display: none; }
+#s-lec[hidden], #s-syl[hidden] { display: none !important; } /* sections with no data for the course, such as lecturers */
+.cm-bar { position: sticky; top: 0; z-index: 3; display: flex; align-items: center; gap: 0.9rem; padding: 0.6rem clamp(1rem, 4vw, 2.5rem); background: var(--bg); border-bottom: 1px solid var(--line); }
+.cm-bar .cm-t { font: 600 1rem var(--f-display); min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.cm-bar .cm-sub { margin-left: auto; font-size: 0.78rem; color: var(--muted); white-space: nowrap; }
+.cm-body { padding-block: 1.5rem 3rem; padding-inline: clamp(1rem, 4vw, 2.5rem); }
+@media (max-width: 560px) { .cm-bar .cm-sub { display: none; } }
+@media (max-width: 560px) { button, .btn, input:not([type="checkbox"]):not([type="radio"]), select { min-height: 44px; } .btn.sm { padding: 0.5rem 0.7rem; } }
+/* slides */
+.decks { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr)); gap: 0.7rem; }
+.deck { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 0.9rem; display: grid; gap: 0.5rem; align-content: space-between; min-width: 0; }
+.deck.live { border-color: var(--accent); }
+.deck .dmeta { font: 400 0.78rem var(--f-mono); color: var(--muted); }
+.viewer { position: fixed; inset: 0; z-index: 50; background: var(--bg); display: grid; grid-template-rows: auto 1fr auto; gap: 0.75rem;
+  padding: max(0.75rem, env(safe-area-inset-top, 0px)) clamp(0.75rem, 3vw, 2rem) max(0.75rem, env(safe-area-inset-bottom, 0px)); }
+.viewer[hidden] { display: none; }
+.v-bar { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; align-items: center; justify-content: space-between; }
+.v-bar .vt { font: 600 1rem var(--f-display); min-width: 0; overflow-wrap: anywhere; }
+.v-stage { display: grid; place-items: center; min-height: 0; overflow: hidden; }
+/* The slide is a 16:9 frame and a size container. Everything inside .sin is in em, so one variable (--sz) scales a slide to fit. */
+.slide { container-type: inline-size; width: min(100%, 68rem); aspect-ratio: 16 / 9; background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+  display: grid; align-items: center; overflow: auto; }
+.sl-main .slide { width: min(100%, calc((100vh - 8rem) * 16 / 9)); margin-inline: auto; }
+.v-stage .slide { width: min(100%, calc((100vh - 9.5rem) * 16 / 9)); }
+@media (max-width: 760px) { .slide, .sl-main .slide, .v-stage .slide { aspect-ratio: auto; width: 100%; } }
+.slsel { width: auto; max-width: min(100%, 17rem); font-size: 0.85rem; padding: 0.35rem 0.5rem; }
+.sin { font-size: calc(clamp(0.82rem, 2.5cqw, 2.9rem) * var(--sz, 1)); line-height: 1.38; padding: 4.2cqw 4.8cqw; display: grid; gap: 1.2em; width: 100%; min-width: 0; align-content: center; }
+.sin h1 { font-size: 2.6em; letter-spacing: -0.02em; line-height: 1.1; }
+.sin h2 { font-size: 1.8em; letter-spacing: -0.01em; line-height: 1.12; }
+.sin .eyebrow { font-size: 0.62em; margin-bottom: -0.5em; }
+.sin ul, .sin ol { margin: 0; padding-left: 1.25em; display: grid; gap: 0.55em; font-size: 1em; line-height: 1.38; }
+.sin .callout { border-left: 3px solid var(--accent); padding: 0.4em 0 0.4em 0.9em; color: var(--muted); font-size: 0.9em; }
+.sin .lead { font-size: 1.1em; color: var(--muted); }
+.sin .rl { display: grid; gap: 0.45em; font-size: 0.9em; padding: 0; list-style: none; }
+.sin .rl li { display: flex; gap: 0.6em; align-items: baseline; }
+.sin .rl .type { font: 500 0.7em var(--f-mono); text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); min-width: 5.5em; }
+.v-nav { display: grid; grid-template-columns: auto 1fr auto; gap: 0.75rem; align-items: center; }
+.v-prog { height: 4px; background: var(--line); border-radius: 2px; overflow: hidden; }
+.v-prog i { display: block; height: 100%; background: var(--accent); width: 0; }
+@media (prefers-reduced-motion: no-preference) { .btn, .chip { transition: filter 0.15s, background 0.15s; } .v-prog i { transition: width 0.2s; } }
+</style>
+<link rel="stylesheet" href="shared/course.css?v=v20261021223630">
+</head>
+<body>
+<div class="wrap" id="home">
+
+<header>
+  <span class="eyebrow">Learning library</span>
+  <h1>Library of Alexandria</h1>
+  <p class="take" id="home-take"></p>
+</header>
+
+<section class="tiles" id="home-tiles" aria-label="Library totals"></section>
+
+<section aria-labelledby="h-courses">
+  <div class="sec-head"><h2 id="h-courses">Courses</h2><p>Each course is its own workspace: slides, notes, practice, quizzes, tools, a ledger and a data record. Open one to work in it.</p></div>
+  <div class="courses" id="courses"></div>
+</section>
+
+<section aria-labelledby="h-import">
+  <div class="sec-head"><h2 id="h-import">Import a save</h2><p>Bring your progress over from another device. Open a backup file made with Back up everything in the Ledger of any course, and its courses, ticks, notes, ledger and slide positions are restored in this browser.</p></div>
+  <div class="card">
+    <label class="btn ghost sm" style="display:inline-block;cursor:pointer;color:var(--ink)">Choose a backup file<input type="file" id="h-restore" accept="application/json,.json" hidden></label>
+    <p class="mono" id="h-restore-note" style="font-size:.82rem;color:var(--muted)">The backup is a .json file. Copy it to this phone first, for example through Drive or email.</p>
+  </div>
+</section>
+
+<section aria-labelledby="h-addcourse">
+  <div class="sec-head"><h2 id="h-addcourse">Adding a course</h2><p>Small Scale Greenhouse is the template. Every course follows the same pattern.</p></div>
+  <div class="card tmpl">
+    <ol>
+      <li>Ask Claude: <strong>run library of alexandria</strong> on your subject. It scopes the course and writes the library.</li>
+      <li>Claude scaffolds a course from <span class="mono">_template/</span> with <span class="mono">new_course.py</span>, which creates the pack, the module lesson files and the page entries.</li>
+      <li>Each lesson is written from primary sources read in full, with numbered citations, figures, worked examples and checks. The slide deck builds itself from the lessons.</li>
+      <li>The new course appears above. Nothing else on this page needs editing.</li>
+    </ol>
+    <p class="mono" style="font-size:.82rem;color:var(--muted)">Guide: <span>_template/TEMPLATE.md</span></p>
+  </div>
+</section>
+
+<section class="faq" id="home-faq" aria-label="Frequently asked questions"></section>
+
+<div class="foot"><p class="mono" id="home-stamp"></p></div>
+
+</div>
+
+<div class="cmodal" id="cmodal" role="dialog" aria-modal="true" aria-labelledby="cm-title" hidden>
+  <div class="cm-bar">
+    <button class="btn ghost sm" id="cm-close" type="button">← Library</button>
+    <span class="cm-t" id="cm-title"></span>
+    <span class="mono cm-sub" id="cm-sub"></span>
+    <button class="btn ghost sm" id="cm-reset" type="button" style="margin-left:auto">Reset course</button>
+  </div>
+  <div class="wrap cm-body" id="cm-body">
+
+<header>
+  <span class="eyebrow" id="cm-eyebrow">Course</span>
+  <h1 id="cm-h1"></h1>
+  <p class="take" id="take"></p>
+</header>
+
+<section id="s-lib" aria-label="About this course">
+  <div class="libs" id="libs"></div>
+</section>
+
+<section id="s-syl" aria-labelledby="h-syl" hidden>
+  <details class="dd" id="syl-dd">
+    <summary><h2 id="h-syl">Syllabus and study plan</h2><span class="dd-n" id="syl-count"></span></summary>
+    <p class="dd-note">The learning path, a week-by-week plan, how you are assessed and what the lecturers changed in this version.</p>
+    <div id="syl-wrap"></div>
+  </details>
+</section>
+
+<section id="s-lec" aria-labelledby="h-lec" hidden>
+  <details class="dd" id="lec-dd">
+    <summary><h2 id="h-lec">Meet your lecturers</h2><span class="dd-n" id="lec-count"></span></summary>
+    <p class="dd-note">Each module is led by one of five people from history. Here is who they were and how they help.</p>
+    <div id="lec-wrap"></div>
+  </details>
+</section>
+
+<section id="s-ladder" aria-labelledby="h-ladder">
+  <div class="sec-head"><h2 id="h-ladder">Belt progress</h2><p>A belt is earned when every module it needs is complete in the ledger.</p></div>
+  <div id="ladders" class="ladder"></div>
+</section>
+
+<section class="tiles" id="tiles" aria-label="Archive totals"></section>
+
+<section id="s-review" aria-labelledby="h-review">
+  <div class="sec-head"><h2 id="h-review">Review today</h2><p>Retrieval practice: answer from memory, then check. Cards come from modules you have started and return on a schedule, so what you miss comes back sooner.</p></div>
+  <div class="chl" id="review-box"></div>
+</section>
+
+<section id="s-mod" aria-labelledby="h-mod">
+  <div class="sec-head"><h2 id="h-mod">Modules</h2><p>Click anywhere on a module row to open its page. The slides, notes, practice, quiz and tools all live inside the module. Tick it, or use Mark complete, to log a completion. Remove completion takes you back, and both are kept in the history.</p></div>
+  <div class="tscroll" id="mod-wrap"></div>
+</section>
+
+<section id="s-res" aria-labelledby="h-res">
+  <details class="dd" id="res-dd">
+    <summary><h2 id="h-res">Resources</h2><span class="dd-n" id="res-count"></span></summary>
+    <p class="dd-note">Videos, papers, books, magazines, references and image searches, tagged to modules. "Verified" means the page was located in-session, not that every source was read in full.</p>
+    <div class="row">
+      <div class="chips" id="res-chips"></div>
+      <select id="res-mod" style="width:auto" aria-label="Filter by module"></select>
+    </div>
+    <div class="res" id="res"></div>
+  </details>
+</section>
+
+<section id="s-data" aria-labelledby="h-data">
+  <details class="dd" id="data-dd">
+    <summary><h2 id="h-data">Data built from the ledger</h2></summary>
+    <p class="dd-note">Each metric you log becomes a series. Pick one to see it over time.</p>
+    <div class="tscroll" id="series-wrap"></div>
+    <div class="card chart-box" id="chart-card" hidden>
+      <div class="row"><label style="display:flex;align-items:center;gap:0.5rem;flex-direction:row">Series <select id="series-pick" style="width:auto"></select></label></div>
+      <div id="chart"></div>
+    </div>
+  </details>
+</section>
+
+<section id="s-ledger" aria-labelledby="h-ledger">
+  <details class="dd" id="ledger-dd">
+  <summary><h2 id="h-ledger">Ledger</h2></summary>
+  <p class="dd-note">Log what you did. Module completions drive the belts, and measurements and harvests build the data series below. Every entry is kept in the History below.</p>
+  <div class="card">
+    <form class="ledger-form" id="lf" autocomplete="off">
+      <label>Date<input type="date" id="f-date" required></label>
+      <label>Library<select id="f-lib"></select></label>
+      <label>Module<select id="f-mod"></select></label>
+      <label>Kind
+        <select id="f-kind">
+          <option>Measurement</option><option>Harvest</option><option>Challenge result</option><option>Module complete</option><option>Note</option>
+        </select>
+      </label>
+      <label class="f-data">Metric<input type="text" id="f-metric" list="metric-list" placeholder="A metric you track"></label>
+      <label class="f-data">Value<input type="number" id="f-value" step="any" inputmode="decimal"></label>
+      <label class="f-data">Unit<input type="text" id="f-unit" placeholder="°C, pH, kg"></label>
+      <label class="wide">What happened<input type="text" id="f-detail" placeholder="Short note: where, which crop, what you did"></label>
+      <div class="row wide">
+        <button class="btn" type="submit">Add to ledger</button>
+        <span class="msg" id="f-msg" role="status"></span>
+      </div>
+    </form>
+    <datalist id="metric-list"></datalist>
+  </div>
+  <div class="row">
+    <button class="btn ghost sm" id="b-json" type="button">Download JSON</button>
+    <button class="btn ghost sm" id="b-csv" type="button">Download CSV</button>
+    <label class="btn ghost sm" style="display:inline-block;cursor:pointer;color:var(--ink)">Import JSON<input type="file" id="b-import" accept="application/json,.json" hidden></label>
+    <button class="btn ghost sm" id="b-backup" type="button" title="Ledger, review schedule, notes, ticks and slide positions for every course">Back up everything</button>
+    <label class="btn ghost sm" style="display:inline-block;cursor:pointer;color:var(--ink)">Restore backup<input type="file" id="b-restore" accept="application/json,.json" hidden></label>
+  </div>
+  </details>
+</section>
+
+<details class="hist" id="history">
+  <summary><span>History</span> <span class="mono" id="hist-count"></span></summary>
+  <div class="hist-body">
+    <label style="display:flex;align-items:center;gap:0.5rem;flex-direction:row;width:fit-content">Show
+      <select id="lf-kind" style="width:auto"></select>
+    </label>
+    <div class="tscroll" id="ledger-wrap"></div>
+  </div>
+</details>
+
+<details class="dd" id="src-read" hidden>
+  <summary><h2 id="h-src">How far the sources were read</h2><span class="dd-n" id="src-read-n"></span></summary>
+  <div id="src-read-body"></div>
+</details>
+
+<section class="faq" id="course-faq" aria-label="Frequently asked questions"></section>
+
+<div class="foot">
+  <p>This course grows two ways. Entries you add are kept in this browser and can be downloaded as JSON or CSV. Ask Claude to import your downloaded ledger, attach resources, or extend a lesson, and it updates the course files next to this page.</p>
+  <p class="mono" id="stamp"></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="mview" id="mview" role="dialog" aria-modal="true" aria-labelledby="mv-title" hidden>
+  <div class="mv-wrap">
+    <div class="mv-top">
+      <span class="row">
+        <button class="btn ghost sm" id="mv-close" type="button">← Back to dashboard</button>
+        <button class="btn ghost sm" id="mv-lib" type="button">← Back to library</button>
+      </span>
+      <span class="row">
+        <button class="btn ghost sm" id="mv-prev" type="button">Previous module</button>
+        <button class="btn ghost sm" id="mv-next" type="button">Next module</button>
+      </span>
+    </div>
+    <header class="mv-head">
+      <span class="eyebrow" id="mv-eyebrow"></span>
+      <h2 id="mv-title"></h2>
+      <div class="row" id="mv-sub"></div>
+      <div class="row" id="mv-actions"></div>
+      <p class="mv-hint" id="mv-hint"></p>
+      <div id="mv-outcomes"></div>
+    </header>
+    <div class="mv-tabs" role="tablist" id="mv-tabs"></div>
+    <div id="mv-body"></div>
+  </div>
+</div>
+
+<div class="viewer" id="viewer" role="dialog" aria-modal="true" aria-label="Slides" hidden>
+  <div class="v-bar">
+    <span class="vt" id="v-title"></span>
+    <span class="row"><select class="slsel" id="v-go" aria-label="Go to slide"></select>
+      <span class="mono" id="v-count"></span>
+      <button class="btn ghost sm" id="v-fs" type="button">Full screen</button>
+      <button class="btn sm" id="v-close" type="button">Close</button></span>
+  </div>
+  <div class="v-stage"><div class="slide" id="slide"></div></div>
+  <div class="v-nav">
+    <button class="btn ghost" id="v-prev" type="button">Previous</button>
+    <div class="v-prog" aria-hidden="true"><i id="v-fill"></i></div>
+    <button class="btn" id="v-next" type="button">Next</button>
+  </div>
+</div>
+
+<script src="shared/archive-data.js?v=v20261021223630"></script>
+<script src="courses/greenhouse-year/course-refs.js?v=v20261021223630"></script>
+<script src="shared/course-engine.js?v=v20261026120000"></script>
+<script src="courses/greenhouse-year/course-figs.js?v=v20261021223630"></script>
+<script src="shared/course-about.js?v=v20261021223630"></script>
+<script src="shared/course-lecturer-refs.js?v=v20261021223630"></script>
+<script src="shared/course-deepnotes.js?v=v20261021223630"></script>
+<script src="shared/course-lecturer-notes.js?v=v20261021223630"></script>
+<script src="shared/course-lecturer-intro.js?v=v20261021223630"></script>
+<script src="shared/course-lecturers.js?v=v20261021223630"></script>
+<!-- COURSES:START -->
+<script src="shared/course-faqs.js?v=v20261026200000"></script>
+<script src="courses/greenhouse-year/pack-greenhouse-year.js?v=v20261021223630"></script>
+<script src="courses/greenhouse-year/modules/course-m1.js?v=v20261021223630"></script>
+<script src="courses/greenhouse-year/modules/course-m2.js?v=v20261021223630"></script>
+<script src="courses/greenhouse-year/modules/course-m3.js?v=v20261021223630"></script>
+<script src="courses/greenhouse-year/modules/course-m4.js?v=v20261021223630"></script>
+<script src="courses/greenhouse-year/modules/course-m5.js?v=v20261021223630"></script>
+<script src="courses/greenhouse-year/modules/course-m6.js?v=v20261021223630"></script>
+<script src="courses/greenhouse-year/modules/course-m7.js?v=v20261021223630"></script>
+<script src="courses/greenhouse-year/modules/course-cap.js?v=v20261021223630"></script>
+<script src="courses/camping-basics/pack-camping-basics.js?v=v20261021223630"></script>
+<script src="courses/camping-basics/course-camping-basics-sources.js?v=v20261021223630"></script>
+<script src="courses/camping-basics/course-camping-basics-refs.js?v=v20261021223630"></script>
+<script src="courses/camping-basics/course-camping-basics-figs.js?v=v20261021223630"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-1.js?v=v20261021223630"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-2.js?v=v20261021223630"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-3.js?v=v20261021223630"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-4.js?v=v20261021223630"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-5.js?v=v20261021223630"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-6.js?v=v20261021223630"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-cap.js?v=v20261021223630"></script>
+<script src="courses/camping-basics/course-camping-basics-tools.js?v=v20261021223630"></script>
+<script src="courses/sales-basics/pack-sales-basics.js?v=v20261021223630"></script>
+<script src="courses/sales-basics/course-sales-basics-sources.js?v=v20261021223630"></script>
+<script src="courses/sales-basics/course-sales-basics-refs.js?v=v20261021223630"></script>
+<script src="courses/sales-basics/course-sales-basics-figs.js?v=v20261021223630"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-1.js?v=v20261021223630"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-2.js?v=v20261021223630"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-3.js?v=v20261021223630"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-4.js?v=v20261021223630"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-5.js?v=v20261021223630"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-6.js?v=v20261021223630"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-cap.js?v=v20261021223630"></script>
+<script src="courses/sales-basics/course-sales-basics-tools.js?v=v20261021223630"></script>
+<script src="courses/public-speaking/pack-public-speaking.js?v=v20261021223630"></script>
+<script src="courses/public-speaking/course-public-speaking-sources.js?v=v20261021223630"></script>
+<script src="courses/public-speaking/course-public-speaking-refs.js?v=v20261021223630"></script>
+<script src="courses/public-speaking/course-public-speaking-figs.js?v=v20261021223630"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-1.js?v=v20261021223630"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-2.js?v=v20261021223630"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-3.js?v=v20261021223630"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-4.js?v=v20261021223630"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-5.js?v=v20261021223630"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-6.js?v=v20261021223630"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-cap.js?v=v20261021223630"></script>
+<script src="courses/personal-training/pack-personal-training.js?v=v20261021223630"></script>
+<script src="courses/personal-training/course-personal-training-sources.js?v=v20261021223630"></script>
+<script src="courses/personal-training/course-personal-training-refs.js?v=v20261021223630"></script>
+<script src="courses/personal-training/course-personal-training-figs.js?v=v20261021223630"></script>
+<script src="courses/personal-training/modules/course-personal-training-1.js?v=v20261021223630"></script>
+<script src="courses/personal-training/modules/course-personal-training-2.js?v=v20261021223630"></script>
+<script src="courses/personal-training/modules/course-personal-training-3.js?v=v20261021223630"></script>
+<script src="courses/personal-training/modules/course-personal-training-4.js?v=v20261021223630"></script>
+<script src="courses/personal-training/modules/course-personal-training-5.js?v=v20261021223630"></script>
+<script src="courses/personal-training/modules/course-personal-training-6.js?v=v20261021223630"></script>
+<script src="courses/personal-training/modules/course-personal-training-cap.js?v=v20261021223630"></script>
+<script src="courses/personal-training/course-personal-training-tools.js?v=v20261021223630"></script>
+<script src="courses/grid-down-food/pack-grid-down-food.js?v=v20261021223630"></script>
+<script src="courses/grid-down-food/course-grid-down-food-sources.js?v=v20261021223630"></script>
+<script src="courses/grid-down-food/course-grid-down-food-refs.js?v=v20261021223630"></script>
+<script src="courses/grid-down-food/course-grid-down-food-figs.js?v=v20261021223630"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-1.js?v=v20261021223630"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-2.js?v=v20261021223630"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-3.js?v=v20261021223630"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-4.js?v=v20261021223630"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-5.js?v=v20261021223630"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-6.js?v=v20261021223630"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-cap.js?v=v20261021223630"></script>
+<script src="courses/grid-down-food/course-grid-down-food-tools.js?v=v20261021223630"></script>
+<script src="courses/directing/pack-directing.js?v=v20261021223630"></script>
+<script src="courses/directing/course-directing-sources.js?v=v20261021223630"></script>
+<script src="courses/directing/course-directing-refs.js?v=v20261026130000"></script>
+<script src="courses/directing/course-directing-figs.js?v=v20261021223630"></script>
+<script src="courses/directing/modules/course-directing-1.js?v=v20261021223630"></script>
+<script src="courses/directing/modules/course-directing-2.js?v=v20261021223630"></script>
+<script src="courses/directing/modules/course-directing-3.js?v=v20261021223630"></script>
+<script src="courses/directing/modules/course-directing-4.js?v=v20261021223630"></script>
+<script src="courses/directing/modules/course-directing-5.js?v=v20261021223630"></script>
+<script src="courses/directing/modules/course-directing-6.js?v=v20261021223630"></script>
+<script src="courses/directing/modules/course-directing-cap.js?v=v20261021223630"></script>
+<script src="courses/vintage-reselling/pack-vintage-reselling.js?v=v20261021223630"></script>
+<script src="courses/vintage-reselling/course-vintage-reselling-sources.js?v=v20261021223630"></script>
+<script src="courses/vintage-reselling/course-vintage-reselling-refs.js?v=v20261021223630"></script>
+<script src="courses/vintage-reselling/course-vintage-reselling-figs.js?v=v20261021223630"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-1.js?v=v20261021223630"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-2.js?v=v20261021223630"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-3.js?v=v20261021223630"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-4.js?v=v20261021223630"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-5.js?v=v20261021223630"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-6.js?v=v20261021223630"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-cap.js?v=v20261021223630"></script>
+<script src="courses/vintage-reselling/course-vintage-reselling-tools.js?v=v20261021223630"></script>
+<script src="courses/vintage-reselling/learning-vintage-reselling.js?v=v20261021223630"></script>
+<script src="courses/camping-basics/learning-camping-basics.js?v=v20261021223630"></script>
+<script src="courses/directing/learning-directing.js?v=v20261021223630"></script>
+<script src="courses/greenhouse-year/learning-greenhouse-year.js?v=v20261021223630"></script>
+<script src="courses/grid-down-food/learning-grid-down-food.js?v=v20261021223630"></script>
+<script src="courses/personal-training/learning-personal-training.js?v=v20261021223630"></script>
+<script src="courses/public-speaking/learning-public-speaking.js?v=v20261021223630"></script>
+<script src="courses/sales-basics/learning-sales-basics.js?v=v20261021223630"></script>
+<script src="courses/cinematography/pack-cinematography.js?v=v20261021223630"></script>
+<script src="courses/cinematography/course-cinematography-sources.js?v=v20261021223630"></script>
+<script src="courses/cinematography/course-cinematography-refs.js?v=v20261026130000"></script>
+<script src="courses/cinematography/course-cinematography-figs.js?v=v20261021223630"></script>
+<script src="courses/cinematography/modules/course-cinematography-1.js?v=v20261021223630"></script>
+<script src="courses/cinematography/modules/course-cinematography-2.js?v=v20261021223630"></script>
+<script src="courses/cinematography/modules/course-cinematography-3.js?v=v20261021223630"></script>
+<script src="courses/cinematography/modules/course-cinematography-4.js?v=v20261021223630"></script>
+<script src="courses/cinematography/modules/course-cinematography-5.js?v=v20261021223630"></script>
+<script src="courses/cinematography/modules/course-cinematography-6.js?v=v20261021223630"></script>
+<script src="courses/cinematography/modules/course-cinematography-7.js?v=v20261021223630"></script>
+<script src="courses/cinematography/modules/course-cinematography-cap.js?v=v20261021223630"></script>
+<script src="courses/cinematography/course-cinematography-tools.js?v=v20261021223630"></script>
+<script src="courses/cinematography/learning-cinematography.js?v=v20261021223630"></script>
+<script src="shared/course-dossiers.js?v=v20261021223630"></script>
+<script src="shared/course-oversight.js?v=v20261021223630"></script>
+<script src="courses/investing/pack-investing.js?v=v20261021223630"></script>
+<script src="courses/investing/course-investing-sources.js?v=v20261021223630"></script>
+<script src="courses/investing/course-investing-refs.js?v=v20261021223630"></script>
+<script src="courses/investing/course-investing-figs.js?v=v20261021223630"></script>
+<script src="courses/investing/course-investing-gen.js?v=v20261021223630"></script>
+<script src="courses/investing/course-investing-outcomes.js?v=v20261021223630"></script>
+<script src="courses/investing/modules/course-investing-1.js?v=v20261021223630"></script>
+<script src="courses/investing/modules/course-investing-2.js?v=v20261021223630"></script>
+<script src="courses/investing/modules/course-investing-3.js?v=v20261021223630"></script>
+<script src="courses/investing/modules/course-investing-4.js?v=v20261021223630"></script>
+<script src="courses/investing/modules/course-investing-5.js?v=v20261021223630"></script>
+<script src="courses/investing/modules/course-investing-6.js?v=v20261021223630"></script>
+<script src="courses/investing/modules/course-investing-cap.js?v=v20261021223630"></script>
+<script src="courses/investing/learning-investing.js?v=v20261021223630"></script>
+<!-- COURSES:END -->
+<!-- BARRIER AIDS: must load after every learning file and course-oversight.js -->
+<script src="shared/barriers/camping-basics.js?v=v20261021223630"></script>
+<script src="shared/barriers/cinematography.js?v=v20261021223630"></script>
+<script src="shared/barriers/directing.js?v=v20261021223630"></script>
+<script src="shared/barriers/greenhouse-year.js?v=v20261021223630"></script>
+<script src="shared/barriers/grid-down-food.js?v=v20261021223630"></script>
+<script src="shared/barriers/investing.js?v=v20261021223630"></script>
+<script src="shared/barriers/personal-training.js?v=v20261021223630"></script>
+<script src="shared/barriers/public-speaking.js?v=v20261021223630"></script>
+<script src="shared/barriers/sales-basics.js?v=v20261021223630"></script>
+<script src="shared/barriers/vintage-reselling.js?v=v20261021223630"></script>
+<script>
+(function () {
+  "use strict";
+  var FULL = window.ARCHIVE || { libraries: [], modules: [], resources: [], activity: [], slides: [], quiz: {}, details: {}, updated: "" };
+  FULL.slides = FULL.slides || []; FULL.quiz = FULL.quiz || {}; FULL.details = FULL.details || {};
+  var A = FULL, cur = null;   // A is the whole library on the home page, and one course while a course is open
+  var CE = window.CourseEngine, buildCache = {};
+  var KEY = "eda.ledger.v1";
+  function beltsFor(mods) {
+    var N = mods.filter(function (m) { return m.kind === "module"; }).length || 1, hasCap = mods.some(function (m) { return m.kind === "capstone"; });
+    var counts = [1, Math.min(2, N), Math.round(N * 4 / 7), Math.round(N * 6 / 7), N], names = ["White", "Yellow", "Orange", "Green", "Brown"], out = [], prev = 1;
+    counts.forEach(function (c, i) {
+      c = Math.min(Math.max(c, prev), N); prev = c;
+      out.push({ name: names[i], count: c, need: c === 1 ? "Module 1" : (c === N ? "All " + N + " modules" : "Modules 1–" + c) });
+    });
+    if (hasCap) out.push({ name: "Black", count: N, need: "Capstone", cap: true });
+    return out;
+  }
+  function beltEarned(b, numDone, capDone) {
+    for (var n = 1; n <= b.count; n++) if (!numDone[String(n)]) return false;
+    return !b.cap || capDone;
+  }
+  function presets() { return (A.libraries[0] && A.libraries[0].metrics) || {}; }
+  var TYPES = ["All", "Video", "Scholarly", "Book", "Magazine", "Reference", "Images"];
+  var state = { kind: "All", type: "All", rmod: "All", series: "" };
+
+  function $(id) { return document.getElementById(id); }
+  function h(tag, props) {
+    var el = document.createElement(tag), i, c;
+    props = props || {};
+    for (var k in props) {
+      if (k === "text") el.textContent = props[k];
+      else if (k === "class") el.className = props[k];
+      else if (k === "style") el.setAttribute("style", props[k]);
+      else if (k.slice(0, 2) === "on") el.addEventListener(k.slice(2), props[k]);
+      else if (props[k] !== undefined && props[k] !== null) el.setAttribute(k, props[k]);
+    }
+    for (i = 2; i < arguments.length; i++) {
+      c = arguments[i];
+      if (c == null) continue;
+      el.appendChild(typeof c === "string" ? document.createTextNode(c) : c);
+    }
+    return el;
+  }
+  function fmtDate(s) { return (typeof s === "string" && s.length >= 10) ? s.slice(8, 10) + "/" + s.slice(5, 7) + "/" + s.slice(0, 4) : "—"; }
+  function today() { var d = new Date(), m = d.getMonth() + 1, dd = d.getDate(); return d.getFullYear() + "-" + (m < 10 ? "0" : "") + m + "-" + (dd < 10 ? "0" : "") + dd; }
+  function safeUrl(u) { return /^https?:\/\//i.test(u || "") ? u : null; }
+  function fmtNum(n) { return Number(n).toLocaleString("en", { maximumFractionDigits: 2 }); }
+
+  function loadLocal() { try { var v = JSON.parse(localStorage.getItem(KEY) || "[]"); return Array.isArray(v) ? v : []; } catch (e) { return []; } }
+  function saveLocal() { try { localStorage.setItem(KEY, JSON.stringify(local)); return true; } catch (e) { return false; } }
+  var local = loadLocal();
+
+  function libName(id) { for (var i = 0; i < A.libraries.length; i++) if (A.libraries[i].id === id) return A.libraries[i].subject; return id || "—"; }
+  function modByKey(k) { for (var i = 0; i < A.modules.length; i++) if (A.modules[i].key === k) return A.modules[i]; return null; }
+  function allEntries() {
+    var f = A.activity.map(function (a) { return Object.assign({ kind: "Archive", source: "file" }, a); });
+    var l = local.filter(function (e) { return !cur || e.library === cur; }).map(function (a) { return Object.assign({ source: "you" }, a); });
+    return f.concat(l).sort(function (a, b) { return (b.date || "").localeCompare(a.date || "") || String(b.id).localeCompare(String(a.id)); });
+  }
+  function doneSet() { return doneOf(A.modules); }
+  function doneOf(mods) {
+    var s = {};
+    mods.forEach(function (m) { if (m.status === "Complete") s[m.key] = true; });
+    local.forEach(function (e) {
+      if (!e.module) return;
+      if (e.kind === "Module complete") s[e.module] = true;
+      else if (e.kind === "Completion removed") s[e.module] = false;
+    });
+    return s;
+  }
+  function seriesMap() {
+    var map = {};
+    allEntries().forEach(function (e) {
+      if ((e.kind === "Measurement" || e.kind === "Harvest") && e.metric && e.value !== "" && e.value != null && isFinite(Number(e.value))) {
+        (map[e.metric] = map[e.metric] || []).push({ date: e.date, value: Number(e.value), unit: e.unit || "" });
+      }
+    });
+    Object.keys(map).forEach(function (k) { map[k].sort(function (a, b) { return a.date.localeCompare(b.date); }); });
+    return map;
+  }
+
+  /* ---------- header, tiles, ladder ---------- */
+  function renderTop() {
+    var done = doneSet(), mods = A.modules.filter(function (m) { return m.kind === "module"; });
+    var nDone = mods.filter(function (m) { return done[m.key]; }).length;
+    var next = null;
+    for (var i = 0; i < A.modules.length; i++) if (!done[A.modules[i].key]) { next = A.modules[i]; break; }
+    var take = $("take"); take.textContent = "";
+    take.appendChild(h("strong", { text: nDone + " of " + mods.length + " modules" }));
+    take.appendChild(document.createTextNode(" complete. "));
+    take.appendChild(document.createTextNode(next ? "Up next: " + (next.kind === "capstone" ? "the capstone, " : "module " + next.number + ", ") + next.title + "." : "Every module and capstone is complete."));
+
+    var meas = 0; allEntries().forEach(function (e) { if (e.kind === "Measurement" || e.kind === "Harvest") meas++; });
+    var lessonsN = 0, slidesN = 0;
+    A.modules.forEach(function (m) { var c = window.COURSE && window.COURSE[m.key]; if (c) lessonsN += c.lessons.length; var cb = courseBuild(m); if (cb) slidesN += cb.slides.length; });
+    var tiles = [
+      [lessonsN, "Lessons"],
+      [nDone + " / " + mods.length, "Modules complete"],
+      [allEntries().length, "Ledger entries"],
+      [meas, "Data points logged"],
+      [A.resources.length, "Resources attached"],
+      [slidesN, "Slides"]
+    ];
+    var box = $("tiles"); box.textContent = "";
+    tiles.forEach(function (t) { box.appendChild(h("div", { class: "tile" }, h("div", { class: "num", text: String(t[0]) }), h("div", { class: "lab", text: t[1] }))); });
+
+    var lad = $("ladders"); lad.textContent = "";
+    A.libraries.forEach(function (lib) {
+      var lm = A.modules.filter(function (m) { return m.library === lib.id; });
+      var numDone = {}; var capDone = false;
+      lm.forEach(function (m) { if (done[m.key]) { if (m.kind === "capstone") capDone = true; else numDone[m.number] = true; } });
+      var seenNext = false;
+      var grid = h("div", { class: "belts" });
+      beltsFor(lm).forEach(function (b) {
+        var ok = beltEarned(b, numDone, capDone);
+        var st = ok ? "earned" : (!seenNext ? "next" : "locked");
+        if (!ok) seenNext = true;
+        var col = "var(--belt-" + b.name.toLowerCase() + ")";
+        grid.appendChild(h("div", { class: "belt", "data-state": st },
+          h("div", { class: "bar", style: "background:" + col }),
+          h("div", { class: "bname", text: b.name }),
+          h("div", { class: "breq", text: b.need }),
+          h("div", { class: "bstate", text: st })));
+      });
+      lad.appendChild(h("div", { class: "card ladder" }, h("h3", { text: lib.subject }), grid));
+    });
+    if (!A.libraries.length) lad.appendChild(h("p", { class: "empty", text: "No library archived yet." }));
+  }
+
+  /* ---------- form ---------- */
+  function fillForm() {
+    var lib = $("f-lib"); lib.textContent = "";
+    A.libraries.forEach(function (l) { lib.appendChild(h("option", { value: l.id, text: l.subject })); });
+    refreshMods();
+    var dl = $("metric-list"); dl.textContent = "";
+    Object.keys(presets()).forEach(function (k) { dl.appendChild(h("option", { value: k })); });
+    $("f-date").value = today();
+    syncKind();
+  }
+  function refreshMods() {
+    var sel = $("f-mod"), lib = $("f-lib").value; sel.textContent = "";
+    sel.appendChild(h("option", { value: "", text: "None" }));
+    A.modules.filter(function (m) { return m.library === lib; }).forEach(function (m) {
+      sel.appendChild(h("option", { value: m.key, text: (m.kind === "capstone" ? "Capstone" : "Module " + m.number) + " · " + m.title }));
+    });
+  }
+  function syncKind() {
+    var k = $("f-kind").value, data = (k === "Measurement" || k === "Harvest");
+    document.querySelectorAll(".f-data").forEach(function (el) { el.hidden = !data; });
+    $("f-detail").placeholder = k === "Module complete" ? "Optional: how it went" : k === "Challenge result" ? "e.g. C2 passed, 14 of 14 rows" : "Short note: where, which crop, what you did";
+    $("f-metric").required = data; $("f-value").required = data;
+  }
+  function msg(text, cls) { var m = $("f-msg"); m.textContent = text; m.className = "msg " + (cls || ""); }
+  function onSubmit(ev) {
+    ev.preventDefault();
+    var kind = $("f-kind").value, e = {
+      id: "L" + Date.now().toString(36) + Math.random().toString(36).slice(2, 5),
+      date: $("f-date").value || today(), library: $("f-lib").value, module: $("f-mod").value, kind: kind,
+      event: kind, detail: $("f-detail").value.trim()
+    };
+    if (kind === "Measurement" || kind === "Harvest") {
+      var v = $("f-value").value, m = $("f-metric").value.trim();
+      if (!m || v === "" || !isFinite(Number(v))) { msg("Add a metric and a numeric value.", "bad"); return; }
+      e.metric = m; e.value = Number(v); e.unit = $("f-unit").value.trim() || presets()[m] || "";
+      e.event = m;
+    } else if (kind === "Module complete") {
+      if (!e.module) { msg("Choose the module you completed.", "bad"); return; }
+      var mm = modByKey(e.module); e.event = mm ? (mm.kind === "capstone" ? "Capstone complete" : "Module " + mm.number + " complete") : "Module complete";
+    } else if (!e.detail) { msg("Say what happened.", "bad"); return; }
+    local.push(e);
+    if (!saveLocal()) msg("Added, but this browser would not keep it. Download the JSON before closing.", "bad"); else msg("Added to the ledger.", "ok");
+    $("f-value").value = ""; $("f-detail").value = "";
+    renderAll();
+  }
+
+  /* ---------- ledger table ---------- */
+  function renderLedger() {
+    var sel = $("lf-kind"), kinds = ["All"], seen = {};
+    allEntries().forEach(function (e) { if (!seen[e.kind]) { seen[e.kind] = 1; kinds.push(e.kind); } });
+    if (kinds.indexOf(state.kind) < 0) state.kind = "All";
+    sel.textContent = "";
+    kinds.forEach(function (k) { var o = h("option", { value: k, text: k }); if (k === state.kind) o.selected = true; sel.appendChild(o); });
+    $("hist-count").textContent = "(" + allEntries().length + " entries)";
+    var rows = allEntries().filter(function (e) { return state.kind === "All" || e.kind === state.kind; });
+    var wrap = $("ledger-wrap"); wrap.textContent = "";
+    if (!rows.length) { wrap.appendChild(h("p", { class: "empty", text: "No entries of this kind yet." })); return; }
+    var multiL = A.libraries.length > 1;
+    var t = h("table", {}, h("thead", {}, h("tr", {},
+      h("th", { text: "Date" }), multiL ? h("th", { text: "Library" }) : null, h("th", { text: "Module" }), h("th", { text: "Kind" }),
+      h("th", { text: "Entry" }), h("th", { class: "num", text: "Value" }), h("th", { text: "Source" }), h("th", { text: "" }))));
+    var tb = h("tbody");
+    rows.forEach(function (e) {
+      var mm = e.module ? modByKey(e.module) : null;
+      var val = (e.value !== undefined && e.value !== "" && e.value != null) ? fmtNum(e.value) + (e.unit ? " " + e.unit : "") : "—";
+      var entry = h("td", {}, h("div", { text: e.event || e.kind }), e.detail ? h("div", { class: "src", style: "color:var(--muted);font-size:.85rem", text: e.detail }) : null);
+      var del = e.source === "you" ? h("button", { class: "btn ghost sm", type: "button", "aria-label": "Remove entry", text: "Remove", onclick: function () { removeEntry(e.id); } }) : null;
+      tb.appendChild(h("tr", {},
+        h("td", { class: "mono", style: "white-space:nowrap", text: fmtDate(e.date) }), multiL ? h("td", { text: libName(e.library) }) : null,
+        h("td", { text: mm ? (mm.kind === "capstone" ? "Capstone" : "M" + mm.number) : "—" }),
+        h("td", {}, h("span", { class: "pill", text: e.kind })), entry,
+        h("td", { class: "num", text: val }), h("td", { text: e.source === "you" ? "You" : "Archive" }), h("td", {}, del)));
+    });
+    t.appendChild(tb); wrap.appendChild(t);
+  }
+  function removeEntry(id) { local = local.filter(function (e) { return e.id !== id; }); saveLocal(); renderAll(); }
+
+  /* ---------- data series + chart ---------- */
+  function renderSeries() {
+    var map = seriesMap(), keys = Object.keys(map).sort();
+    var wrap = $("series-wrap"); wrap.textContent = "";
+    $("chart-card").hidden = !keys.length;
+    if (!keys.length) {
+      wrap.appendChild(h("p", { class: "empty", text: "No data yet. Add a Measurement or Harvest above (for example Max temperature 31 °C) and its series appears here." }));
+      return;
+    }
+    var t = h("table", {}, h("thead", {}, h("tr", {},
+      h("th", { text: "Metric" }), h("th", { class: "num", text: "Entries" }), h("th", { class: "num", text: "Latest" }), h("th", { class: "num", text: "Min" }), h("th", { class: "num", text: "Max" }), h("th", { class: "num", text: "Mean" }))));
+    var tb = h("tbody");
+    keys.forEach(function (k) {
+      var p = map[k], vals = p.map(function (x) { return x.value; }), u = p[p.length - 1].unit, last = p[p.length - 1];
+      var mean = vals.reduce(function (a, b) { return a + b; }, 0) / vals.length;
+      tb.appendChild(h("tr", {},
+        h("td", { text: k + (u ? " (" + u + ")" : "") }), h("td", { class: "num", text: String(vals.length) }),
+        h("td", { class: "num", text: fmtNum(last.value) + " · " + fmtDate(last.date) }),
+        h("td", { class: "num", text: fmtNum(Math.min.apply(null, vals)) }), h("td", { class: "num", text: fmtNum(Math.max.apply(null, vals)) }),
+        h("td", { class: "num", text: fmtNum(mean) })));
+    });
+    t.appendChild(tb); wrap.appendChild(t);
+    var pick = $("series-pick"); pick.textContent = "";
+    if (keys.indexOf(state.series) < 0) state.series = keys[0];
+    keys.forEach(function (k) { var o = h("option", { value: k, text: k }); if (k === state.series) o.selected = true; pick.appendChild(o); });
+    drawChart(map[state.series], state.series);
+  }
+  function drawChart(pts, name) {
+    var W = 640, H = 220, L = 46, R = 16, T = 14, B = 30, NS = "http://www.w3.org/2000/svg";
+    var box = $("chart"); box.textContent = "";
+    var vals = pts.map(function (p) { return p.value; }), lo = Math.min.apply(null, vals), hi = Math.max.apply(null, vals);
+    if (lo === hi) { lo -= 1; hi += 1; }
+    var pad = (hi - lo) * 0.08; lo -= pad; hi += pad;
+    var t0 = new Date(pts[0].date).getTime(), t1 = new Date(pts[pts.length - 1].date).getTime();
+    function X(i) { return t1 === t0 ? (L + W - R) / 2 : L + (new Date(pts[i].date).getTime() - t0) / (t1 - t0) * (W - L - R); }
+    function Y(v) { return T + (hi - v) / (hi - lo) * (H - T - B); }
+    function el(n, a) { var e = document.createElementNS(NS, n); for (var k in a) e.setAttribute(k, a[k]); return e; }
+    var svg = el("svg", { viewBox: "0 0 " + W + " " + H, role: "img", "aria-label": name + " over time" });
+    for (var g = 0; g <= 3; g++) {
+      var gv = lo + (hi - lo) * g / 3, gy = Y(gv);
+      svg.appendChild(el("line", { x1: L, x2: W - R, y1: gy, y2: gy, stroke: "var(--line)", "stroke-width": 1 }));
+      var tx = el("text", { x: L - 6, y: gy + 4, "text-anchor": "end" }); tx.textContent = fmtNum(gv); svg.appendChild(tx);
+    }
+    var d = pts.map(function (p, i) { return (i ? "L" : "M") + X(i).toFixed(1) + " " + Y(p.value).toFixed(1); }).join(" ");
+    svg.appendChild(el("path", { d: d, fill: "none", stroke: "var(--accent)", "stroke-width": 2, "stroke-linejoin": "round", "stroke-linecap": "round" }));
+    pts.forEach(function (p, i) {
+      var c = el("circle", { cx: X(i), cy: Y(p.value), r: i === pts.length - 1 ? 5 : 3.5, fill: "var(--accent)" });
+      var ti = el("title", {}); ti.textContent = fmtDate(p.date) + ": " + fmtNum(p.value) + (p.unit ? " " + p.unit : ""); c.appendChild(ti); svg.appendChild(c);
+    });
+    var a = el("text", { x: L, y: H - 8 }); a.textContent = fmtDate(pts[0].date); svg.appendChild(a);
+    if (pts.length > 1) { var b = el("text", { x: W - R, y: H - 8, "text-anchor": "end" }); b.textContent = fmtDate(pts[pts.length - 1].date); svg.appendChild(b); }
+    box.appendChild(svg);
+    box.appendChild(h("p", { class: "src", style: "color:var(--muted);font-size:.85rem", text: pts.length + (pts.length === 1 ? " point" : " points") + (pts[0].unit ? " in " + pts[0].unit : "") + ". Hover a point for its value." }));
+  }
+
+  /* ---------- daily review ---------- */
+  /* ---------- retrieval practice: spaced review (Leitner boxes, kept in this browser) ---------- */
+  var SRS_DAYS = [1, 3, 7, 14, 30], srsSess = null;
+  function srsLoad() { try { return JSON.parse(localStorage.getItem("eda.srs." + cur) || "{}") || {}; } catch (e) { return {}; } }
+  function srsSave(st) { try { localStorage.setItem("eda.srs." + cur, JSON.stringify(st)); } catch (e) {} }
+  /* Generated questions: an item {gen: "id"} is built at render time by window.QGEN[id](rand) so the numbers change.
+     The seed is the day for review and pre-checks (stable all day) and the attempt for quizzes. */
+  function rngFrom(s) { return function () { s = (s + 0x6D2B79F5) | 0; var t = Math.imul(s ^ s >>> 15, 1 | s); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+  function rq(q, seed) { var g = q && q.gen && window.QGEN && window.QGEN[q.gen]; return g ? g(rngFrom(hashStr(q.gen + "|" + seed))) : q; }
+  function posOf(key) { try { return Number(localStorage.getItem("eda.pos." + key)) || 0; } catch (e) { return 0; } }
+  function hashStr(s) { var x = 0; for (var i = 0; i < s.length; i++) x = (x * 31 + s.charCodeAt(i)) | 0; return x; }
+  /* Cards come from modules you have started or finished, or whose predecessor is done: quiz items, pre-checks,
+     retrieval items written for later modules, and the open review questions. */
+  function reviewPool(all) {
+    var done = doneSet(), pool = [], LN = window.COURSE_LEARN || {}, seen = {};
+    var list = A.modules.filter(function (x) { return x.library === cur; });
+    list.forEach(function (m, i) {
+      var open = done[m.key] || posOf(m.key) > 0 || (list[i - 1] && done[list[i - 1].key]) || i === 0;
+      if (!open && !all) return;
+      var lab = m.kind === "capstone" ? "Capstone" : "Module " + m.number, d = (A.details || {})[m.key] || {}, ln = LN[m.key] || {};
+      ((A.quiz || {})[m.key] || []).forEach(function (q0, k) { var q = rq(q0, today()); pool.push({ id: m.key + ":q" + k, q: q.q, o: q.o, a: q.a, w: q.w, from: lab + " quiz" }); });
+      (ln.pretest || []).forEach(function (q0, k) { var q = rq(q0, today()); pool.push({ id: m.key + ":p" + k, q: q.q, o: q.o, a: q.a, w: q.w, from: lab + " pre-check" }); });
+      (ln.retrieve || []).forEach(function (q0, k) { var q = rq(q0, today()); pool.push({ id: m.key + ":x" + k, q: q.q, o: q.o, a: q.a, w: q.w, from: "Earlier material" }); });
+      (d.review || []).forEach(function (r, k) { pool.push({ id: m.key + ":r" + k, q: r.q, ans: r.a, from: lab + " review" }); });
+    });
+    /* The same question often appears as a quiz item, a pre-check and a retrieval item. Keep the first, so one fact is not scored three times. */
+    return pool.filter(function (c) { var k = String(c.q).toLowerCase().replace(/[^a-z0-9£%]+/g, " ").trim(); if (seen[k]) return false; seen[k] = 1; return true; });
+  }
+  function srsGradeId(id, ok) {
+    var st = srsLoad(), b = st[id] ? st[id].b : 0;
+    st[id] = { b: ok ? Math.min(b + 1, 4) : 0, d: addDays(today(), ok ? SRS_DAYS[Math.min(b, 4)] : 1) };
+    srsSave(st);
+  }
+  /* Mastery per outcome: the review cards tagged to each outcome (window.COURSE_OUTCOMES), by their place in the review schedule. */
+  function renderOutcomes(m) {
+    var box = $("mv-outcomes"); box.textContent = "";
+    var map = (window.COURSE_OUTCOMES || {})[m.key], c = window.COURSE && window.COURSE[m.key];
+    if (!map || !c || !c.outcomes) return;
+    var st = srsLoad(), cards = reviewPool(true).filter(function (x) { return x.id.indexOf(m.key + ":") === 0; });
+    var det = h("details", { class: "faq" }, h("summary", {}, h("strong", { text: "Outcome mastery" })));
+    det.appendChild(h("p", { class: "mono", style: "font-size:.85rem;color:var(--muted)", text: "Built from your quiz and review answers. Well learned means a card has come back right three times running." }));
+    c.outcomes.forEach(function (o, oi) {
+      var mine = cards.filter(function (x) { return map[x.id.slice(m.key.length + 1)] === oi; });
+      var good = mine.filter(function (x) { return st[x.id] && st[x.id].b >= 3; }).length;
+      var learning = mine.filter(function (x) { return st[x.id] && st[x.id].b > 0 && st[x.id].b < 3; }).length;
+      var tried = mine.filter(function (x) { return st[x.id]; }).length;
+      var label = !mine.length ? "No question tests this outcome yet" : (good + " of " + mine.length + " well learned" + (learning ? ", " + learning + " in progress" : "") + (tried < mine.length ? ", " + (mine.length - tried) + " not yet tried" : ""));
+      det.appendChild(h("p", { style: "margin:.4rem 0" }, h("strong", { text: (oi + 1) + ". " }), o, h("br"), h("span", { class: "mono", style: "font-size:.85rem;color:" + (mine.length ? "var(--muted)" : "var(--warn)"), text: label })));
+    });
+    box.appendChild(det);
+  }
+  function renderReview() {
+    var box = $("review-box"); box.textContent = "";
+    var pool = reviewPool(), t = today();
+    if (!pool.length) { box.appendChild(h("p", { class: "empty", text: "Open a module to unlock review questions from the material you have met." })); return; }
+    var st = srsLoad(), byId = {};
+    pool.forEach(function (c) { byId[c.id] = c; });
+    var due = pool.filter(function (c) { return !st[c.id] || st[c.id].d <= t; });
+    var learned = pool.filter(function (c) { return st[c.id] && st[c.id].b >= 3; }).length;
+    box.appendChild(h("p", { class: "mono", style: "font-size:.85rem;color:var(--muted)", text: due.length + " due today · " + learned + " of " + pool.length + " cards well learned · wrong answers return tomorrow, right ones come back after 1, 3, 7, 14 and 30 days" }));
+    if (!srsSess || srsSess.cur !== cur || srsSess.day !== t) srsSess = null;
+    if (!srsSess && due.length) {
+      var q = due.slice().sort(function (a, b) { return (hashStr(a.id + t) - hashStr(b.id + t)); }).slice(0, 6).map(function (c) { return c.id; });
+      srsSess = { cur: cur, day: t, queue: q, i: 0, pick: null, shown: false, right: 0 };
+    }
+    if (!due.length && !(srsSess && srsSess.i > 0 && srsSess.i >= srsSess.queue.length)) {
+      var next = Object.keys(st).map(function (k) { return st[k].d; }).filter(function (d) { return d > t; }).sort()[0];
+      box.appendChild(h("p", { class: "empty", text: "Nothing due. " + (next ? "The next card returns on " + fmtDate(next) + "." : "") }));
+      return;
+    }
+    if (srsSess.i >= srsSess.queue.length) {
+      box.appendChild(h("p", {}, h("strong", { text: "Round finished: " + srsSess.right + " of " + srsSess.queue.length + " right." })));
+      if (due.length) box.appendChild(h("button", { class: "btn ghost", type: "button", text: "Another round (" + due.length + " still due)", onclick: function () { srsSess = null; renderReview(); } }));
+      else box.appendChild(h("p", { class: "empty", text: "All done for today. Come back tomorrow." }));
+      return;
+    }
+    var c = byId[srsSess.queue[srsSess.i]];
+    if (!c) { srsSess.i++; renderReview(); return; }
+    var card = h("div", { class: "ch" }, h("p", { class: "mono", style: "font-size:.75rem;color:var(--muted)", text: "Card " + (srsSess.i + 1) + " of " + srsSess.queue.length + " · " + c.from }), h("p", {}, h("strong", { text: c.q })));
+    function grade(ok) {
+      var b = st[c.id] ? st[c.id].b : 0;
+      st[c.id] = { b: ok ? Math.min(b + 1, 4) : 0, d: addDays(t, ok ? SRS_DAYS[Math.min(b, 4)] : 1) };
+      srsSave(st); if (ok) srsSess.right++;
+    }
+    function advance() { srsSess.i++; srsSess.pick = null; srsSess.shown = false; renderReview(); }
+    if (c.o) {
+      var opts = h("div", { class: "qopts" });
+      c.o.forEach(function (o, oi) {
+        var cls = "qopt", p = srsSess.pick;
+        if (p != null) { if (oi === c.a) cls += " right"; else if (oi === p) cls += " wrong"; }
+        opts.appendChild(h("button", { class: cls, type: "button", disabled: p != null ? "disabled" : null, text: o, onclick: function () { srsSess.pick = oi; grade(oi === c.a); renderReview(); } }));
+      });
+      card.appendChild(opts);
+      if (srsSess.pick != null) {
+        card.appendChild(h("p", { class: "qwhy", text: (srsSess.pick === c.a ? "Correct. " : "Not quite. ") + (c.w || "") }));
+        card.appendChild(h("button", { class: "btn", type: "button", text: srsSess.i + 1 < srsSess.queue.length ? "Next card" : "Finish round", onclick: advance }));
+      }
+    } else if (!srsSess.shown) {
+      card.appendChild(h("button", { class: "btn ghost", type: "button", text: "Show answer", onclick: function () { srsSess.shown = true; renderReview(); } }));
+    } else {
+      card.appendChild(h("p", { text: c.ans }));
+      card.appendChild(h("div", { class: "row" }, h("button", { class: "btn", type: "button", text: "I knew it", onclick: function () { grade(true); advance(); } }), h("button", { class: "btn ghost", type: "button", text: "I missed it", onclick: function () { grade(false); advance(); } })));
+    }
+    box.appendChild(card);
+  }
+
+  /* ---------- syllabus and study plan (course-syllabus data) ---------- */
+  function renderSyllabus() {
+    var sec = $("s-syl"), wrap = $("syl-wrap"); wrap.textContent = "";
+    var S = (window.COURSE_SYLLABUS || {})[cur];
+    if (!S) { sec.hidden = true; return; }
+    sec.hidden = false;
+    $("syl-count").textContent = "version " + S.version + " · " + S.weeks.length + "-week plan";
+    wrap.appendChild(h("p", { class: "lec-blurb", text: S.aim }));
+    var sections = [];
+    var ph = h("ol", {}); S.path.forEach(function (p) { ph.appendChild(h("li", {}, h("strong", { text: p.stage + " (" + p.modules + "). " }), p.outcome)); });
+    sections.push(msec("Learning path: what you can do at each stage", ph));
+    var wt = h("table", { class: "mtable" }, h("thead", {}, h("tr", {}, h("th", { text: "Week" }), h("th", { text: "Focus" }), h("th", { text: "Do this" }))));
+    var wb = h("tbody"); S.weeks.forEach(function (w) { wb.appendChild(h("tr", {}, h("td", { class: "mono", text: String(w.w) }), h("td", { text: w.title }), h("td", { text: w.do.join(" · ") }))); });
+    wt.appendChild(wb); sections.push(msec("Study plan", h("div", { class: "tscroll" }, wt)));
+    var at = h("table", { class: "mtable" }, h("thead", {}, h("tr", {}, h("th", { text: "What is assessed" }), h("th", { text: "Where" }), h("th", { text: "Evidence of competence" }))));
+    var ab = h("tbody"); S.assess.forEach(function (a) { ab.appendChild(h("tr", {}, h("td", { text: a.what }), h("td", { text: a.where }), h("td", { text: a.evidence }))); });
+    at.appendChild(ab); sections.push(msec("Assessment map", h("div", { class: "tscroll" }, at)));
+    sections.push(msec("How to study this course", bullets(S.habits)));
+    var g = h("div", { class: "mgrid" }); sections.forEach(function (s) { g.appendChild(s); }); wrap.appendChild(g);
+  }
+
+  /* ---------- learning aids inside a module's Practice tab (course-learn data) ---------- */
+  /* A question that can be retried. store holds: [qi] the correct pick, ["w"+qi] wrong picks so far, ["r"+qi] 1 if the answer was shown. */
+  function learnQ(q, qi, store, rerender) {
+    var given = store[qi], wr = store["w" + qi] || [], shown = !!store["r" + qi], done = given === q.a || shown;
+    var card = h("div", { class: "ch" }, h("p", {}, h("strong", { text: (qi + 1) + ". " + q.q }))), opts = h("div", { class: "qopts" });
+    q.o.forEach(function (o, oi) {
+      var cls = "qopt", dis = false;
+      if (done) { dis = true; if (oi === q.a) cls += " right"; else if (wr.indexOf(oi) >= 0) cls += " wrong"; }
+      else if (wr.indexOf(oi) >= 0) { dis = true; cls += " wrong"; }
+      opts.appendChild(h("button", { class: cls, type: "button", disabled: dis ? "disabled" : null, text: o, onclick: function () {
+        if (oi === q.a) store[qi] = oi; else { store["w" + qi] = (store["w" + qi] || []).concat([oi]); }
+        rerender();
+      } }));
+    });
+    card.appendChild(opts);
+    function reset() { delete store[qi]; delete store["w" + qi]; delete store["r" + qi]; rerender(); }
+    if (given === q.a) {
+      card.appendChild(h("p", { class: "qwhy", text: (wr.length ? "Correct on try " + (wr.length + 1) + ". " : "Correct. ") + q.w }));
+      if (wr.length) card.appendChild(h("button", { class: "btn ghost", type: "button", text: "Repeat this question", onclick: reset }));
+    } else if (shown) {
+      card.appendChild(h("p", { class: "qwhy", text: "Answer shown. " + q.w }));
+      card.appendChild(h("button", { class: "btn ghost", type: "button", text: "Try this question again", onclick: reset }));
+    } else if (wr.length) {
+      card.appendChild(h("p", { class: "qwhy", text: "Not quite. Choose another answer." }));
+      card.appendChild(h("button", { class: "btn ghost", type: "button", text: "Show the answer", onclick: function () { store["r" + qi] = 1; rerender(); } }));
+    }
+    return card;
+  }
+  /* The practice tab reads top to bottom in six steps, one column. Each step has one job, and the lecturer's
+     material sits in the step it belongs to. The data and every saved answer (localStorage keys, mv.pre, mv.ret,
+     challenge ticks) are the same as before. */
+  function prKids(list) { return [].concat.apply([], list).filter(function (x) { return x; }); }
+  function prBox(tag, cls, list) { var el = h(tag, { class: cls }); prKids(list).forEach(function (x) { el.appendChild(x); }); return el; }
+  function prSub(title, list) {
+    var kids = prKids(list);
+    return kids.length ? prBox("div", "pr-sub", [h("h4", { text: title })].concat(kids)) : null;
+  }
+  function prStep(n, title, purpose, list) {
+    var kids = prKids(list);
+    if (!kids.length) return null;
+    return h("section", { class: "pr-step" },
+      h("header", { class: "pr-head" }, h("span", { class: "pr-n mono", "aria-hidden": "true", text: String(n) }),
+        h("div", {}, h("h3", { text: title }), h("p", { class: "pr-purpose", text: purpose }))),
+      prBox("div", "pr-body", kids));
+  }
+  function prAdd(root, node) { if (node) root.appendChild(node); }
+  function prNote(text) { return h("p", { class: "pr-note", text: text }); }
+  function prDetails(pairs) {
+    var box = h("div", { class: "chl" });
+    pairs.forEach(function (x) { box.appendChild(h("details", { class: "ch" }, h("summary", { text: x[0] }), h("p", { text: x[1] }))); });
+    return box;
+  }
+  function prLearnQs(list, store) {
+    var box = h("div", { class: "chl" });
+    list.forEach(function (q, qi) { box.appendChild(learnQ(rq(q, today()), qi, store, renderModuleView)); });
+    return box;
+  }
+  function prChallenge(m, c, cs, isCap) {
+    var x = h("input", { type: "checkbox", style: "width:auto" });
+    x.checked = !!cs[c.id];
+    x.addEventListener("change", function () { setChallenge(m, c.id, x.checked); });
+    return h("div", { class: "ch pr-ch" + (cs[c.id] ? " is-done" : "") },
+      h("div", { class: "chh" },
+        h("span", { class: "row" }, h("span", { class: "mono", text: isCap ? "Criterion " + c.id : c.id }), h("span", { class: "pill", text: c.level })),
+        h("label", { class: "chk" }, x, "Done")),
+      h("p", { text: c.task }),
+      h("details", {}, h("summary", { text: isCap ? "What passes" : "Answer key and self-check" }),
+        h("div", {}, h("p", {}, h("strong", { text: isCap ? "Passing result: " : "Answer key: " }), c.key),
+          c.check ? h("p", {}, h("strong", { text: "Self-check: " }), c.check) : null)));
+  }
+  function prLadder(steps) {
+    var box = h("div", { class: "pr-ladder" });
+    steps.forEach(function (s) {
+      box.appendChild(h("div", { class: "pr-rung" }, h("span", { class: "pill", text: s.step }),
+        h("div", {}, h("p", { text: s.task }), s.key ? h("details", {}, h("summary", { text: "Check your work" }), h("p", { text: s.key })) : null)));
+    });
+    return box;
+  }
+  function prFields(m, OV, nm) {
+    var box = h("div", { class: "chl" });
+    OV.fields.forEach(function (f, i) {
+      var k = "eda.field." + m.key + "." + i, val = ""; try { val = localStorage.getItem(k) || ""; } catch (e) {}
+      var inp = h("input", { type: "number", step: "any", "aria-label": f.label, style: "max-width:9rem" }); inp.value = val;
+      var fb = h("span", { class: "mono", style: "font-size:.85rem;margin-left:.5rem" });
+      function check() {
+        try { localStorage.setItem(k, inp.value); } catch (e) {}
+        if (inp.value === "") { fb.textContent = ""; return; }
+        var ok = Math.abs(Number(inp.value) - f.answer) <= (f.tol || 0);
+        fb.textContent = ok ? "Correct" : "Not quite. Expected about " + f.answer + (f.unit ? " " + f.unit : "");
+        fb.style.color = ok ? "var(--ok)" : "var(--warn)";
+      }
+      inp.addEventListener("change", check);
+      box.appendChild(h("label", { class: "ch" }, h("strong", { text: f.label + (f.unit ? " (" + f.unit + ")" : "") + ": " }), inp, h("button", { class: "btn ghost", type: "button", text: "Check", onclick: check }), fb));
+      if (val !== "") check();
+    });
+    return box;
+  }
+  function prSignoff(m, OV) {
+    var box = h("div", { class: "chl" });
+    OV.signoff.forEach(function (txt, i) {
+      var k = "eda.signoff." + m.key + "." + i, on = false; try { on = localStorage.getItem(k) === "1"; } catch (e) {}
+      var cb = h("input", { type: "checkbox" }); cb.checked = on;
+      cb.addEventListener("change", function () { try { localStorage.setItem(k, cb.checked ? "1" : "0"); } catch (e) {} });
+      var ek = "eda.evid." + m.key + "." + i, ev = ""; try { ev = localStorage.getItem(ek) || ""; } catch (e) {}
+      var ei = h("input", { type: "text", "aria-label": "Evidence for: " + txt, placeholder: "Evidence: a setting, number, file name or log line", style: "width:100%;margin-top:.3rem" }); ei.value = ev;
+      ei.addEventListener("input", function () { try { localStorage.setItem(ek, ei.value); } catch (e) {} });
+      box.appendChild(h("div", { class: "ch" }, h("label", {}, cb, " " + txt), ei));
+    });
+    return box;
+  }
+  function prChallengeCard(m, OV, nm) {
+    var cl = h("div", { class: "ch" }, h("strong", { text: OV.challenge.title }), h("p", { text: OV.challenge.task }));
+    (OV.challenge.rubric || []).forEach(function (txt, i) {
+      var k = "eda.chal." + m.key + "." + i, on = false; try { on = localStorage.getItem(k) === "1"; } catch (e) {}
+      var cb = h("input", { type: "checkbox" }); cb.checked = on;
+      cb.addEventListener("change", function () { try { localStorage.setItem(k, cb.checked ? "1" : "0"); } catch (e) {} });
+      cl.appendChild(h("label", { style: "display:block" }, cb, " " + txt));
+    });
+    cl.appendChild(prNote("The rubric is your own checklist, saved in this browser."));
+    return h("div", { class: "chl" }, cl, prNote("Simulated voice written for teaching. Not a real quotation."));
+  }
+  function prReview(m, OV, lc, nm) {
+    var rk = "eda.review." + m.key, rv = ""; try { rv = localStorage.getItem(rk) || ""; } catch (e) {}
+    var ta = h("textarea", { rows: "5", class: "reflect", "aria-label": "Your work for the review", placeholder: "Paste your numbers, plan or notes here. Saved in this browser." }); ta.value = rv;
+    ta.addEventListener("input", function () { try { localStorage.setItem(rk, ta.value); } catch (e) {} });
+    var msg = h("span", { class: "mono", style: "font-size:.85rem;margin-left:.5rem" });
+    function makePrompt() {
+      var D = (window.COURSE_DOSSIERS || {})[lc.name], P = (window.COURSE_LECTURER_PEOPLE || {})[lc.name] || {};
+      var dossier = D || ("Known for: " + (lc.known || P.known || "") + "\nYears: " + (lc.years || P.years || "") + "\nSource: " + (lc.src || P.src || "") + "\nRecord check: " + (P.check || "not recorded") + "\nConfidence: treat as faint unless stated.");
+      var det = (A.details || {})[m.key] || {}, lib = libName(m.library);
+      var lines = ["Use the summon skill in Lecture Mode (Library of Alexandria). Summon " + lc.name + " as the lecturer overseeing this module and review my work.", "",
+        "Rules: stay inside the dossier below. Label your voiced lines simulated. Do not invent facts, figures or quotations. If the record is silent, say so and give an inference labelled as one. Point me back to the lesson for facts. End with a verdict (pass or not yet) against the rubric and the one fix I should make first.", "",
+        "Dossier: " + lc.name + (lc.years ? " (" + lc.years + ")" : ""), dossier, "",
+        "Course: " + lib, "Module: " + m.title, "Pass condition: " + (det.pass || "see the module"), ""];
+      if (OV.challenge) { lines.push("Lecturer's challenge: " + OV.challenge.title + ". " + OV.challenge.task, "Rubric:"); (OV.challenge.rubric || []).forEach(function (r) { lines.push("- " + r); }); lines.push(""); }
+      if (OV.signoff) { lines.push("Sign-off lines, with my evidence:"); OV.signoff.forEach(function (r, i) { var e2 = ""; try { e2 = localStorage.getItem("eda.evid." + m.key + "." + i) || ""; } catch (e) {} lines.push("- " + r + (e2 ? " Evidence: " + e2 : " Evidence: none given")); }); lines.push(""); }
+      lines.push("My work:", ta.value || "(nothing pasted yet)");
+      return lines.join("\n");
+    }
+    var btnR = h("button", { class: "btn", type: "button", text: "Copy review prompt for Claude", onclick: function () {
+      function done(ok) { msg.textContent = ok ? "Copied. Paste it into Claude." : "Could not copy. Select the text in the box above and copy it."; }
+      try { navigator.clipboard.writeText(makePrompt()).then(function () { done(true); }, function () { done(false); }); } catch (e) { done(false); }
+    } });
+    var reply = h("div", { class: "ch", hidden: "hidden" }), btnH = h("button", { class: "btn ghost", type: "button", text: "Get the review here", hidden: "hidden" });
+    btnH.addEventListener("click", function () {
+      reply.hidden = false; reply.textContent = "Asking " + lc.name + "..."; btnH.disabled = true;
+      fetch("/api/review", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ prompt: makePrompt() }) }).then(function (r) { return r.json(); }).then(function (j) {
+        reply.textContent = ""; reply.appendChild(h("p", { class: "pr-note", text: "Simulated voice written for teaching. Not a real quotation." })); reply.appendChild(h("pre", { style: "white-space:pre-wrap;font:inherit", text: j.reply || ("The helper could not answer: " + (j.error || "unknown error") + ". Use the copy button instead.") })); btnH.disabled = false;
+      }).catch(function () { reply.textContent = "The helper is not reachable. Use the copy button instead."; btnH.disabled = false; });
+    });
+    try { fetch("/api/ping").then(function (r) { return r.json(); }).then(function (j) { if (j && j.ok && j.backend) btnH.hidden = false; }).catch(function () {}); } catch (e) {}
+    return h("div", { class: "chl" },
+      h("label", { class: "ch" }, h("strong", { text: "Your work" }), ta),
+      h("p", {}, btnR, " ", btnH, msg),
+      reply,
+      prNote("The copy button gives a prompt with the lecturer's dossier, the rubric and your work. If the archive runs through _template/serve_archive.py with a model available, the second button gets the review here. Either way it comes back as a simulated voice."));
+  }
+  function prStuck(m) {
+    var sk = "eda.stuck." + m.key, sv = ""; try { sv = localStorage.getItem(sk) || ""; } catch (e) {}
+    var st = h("textarea", { rows: "3", class: "reflect", "aria-label": "Where you got stuck", placeholder: "Where did you get stuck, skip something, or find a sum confusing? Saved in this browser." }); st.value = sv;
+    st.addEventListener("input", function () { try { localStorage.setItem(sk, st.value); } catch (e) {} });
+    return h("div", { class: "chl" }, h("label", { class: "ch" }, st), prNote("Notes for the course author: what confused you, what you skipped, which sum went wrong. They stay in this browser until you copy them out."));
+  }
+  function prReflect(m, prompts) {
+    var box = h("div", { class: "chl" });
+    prompts.forEach(function (p, i) {
+      var k = "eda.refl." + m.key + "." + i, val = ""; try { val = localStorage.getItem(k) || ""; } catch (e) {}
+      var ta = h("textarea", { rows: "3", class: "reflect", "aria-label": p, placeholder: "Write a few sentences. Saved in this browser." }); ta.value = val;
+      ta.addEventListener("input", function () { try { localStorage.setItem(k, ta.value); } catch (e) {} });
+      box.appendChild(h("label", { class: "ch" }, h("strong", { text: p }), ta));
+    });
+    return box;
+  }
+
+  /* The whole Practice tab for one module. */
+  function practiceTab(m, d, isCap, cs) {
+    var root = h("div", { class: "pr" });
+    if (!d) { root.appendChild(h("p", { class: "empty", text: "No practice has been written for this module yet." })); return root; }
+    var ln = (window.COURSE_LEARN || {})[m.key] || {}, OV = ln.oversight || null, lc = (window.COURSE_LECTURERS || {})[m.key] || null, nm = lc ? lc.name : "your lecturer";
+    var cd = d.challenges || [], cnt = cd.filter(function (c) { return cs[c.id]; }).length;
+
+    var top = h("div", { class: "pr-top" });
+    if (OV) {
+      var brief = h("div", { class: "pr-brief" }, h("span", { class: "eyebrow", text: "Overseen by " + nm }), h("blockquote", { class: "lec-q", text: OV.brief }));
+      if (OV.holds && OV.holds.length) brief.appendChild(h("div", { class: "pr-holds" }, h("strong", { text: "What " + nm + " will hold you to" }), bullets(OV.holds)));
+      brief.appendChild(prNote("Simulated voice written for teaching. Not a real quotation."));
+      top.appendChild(brief);
+    }
+    var status = h("div", { class: "pr-status" }, h("div", { class: "pr-pass" }, h("span", { class: "eyebrow", text: "Pass when" }), h("p", { text: d.pass })));
+    if (cd.length) status.appendChild(h("div", { class: "pr-prog" },
+      h("span", { class: "mono", text: (isCap ? "Criteria " : "Challenges ") + cnt + " of " + cd.length + " passed" }),
+      h("div", { class: "mprog-bar" }, h("i", { style: "width:" + Math.round(cnt / cd.length * 100) + "%" }))));
+    top.appendChild(status);
+    root.appendChild(top);
+
+    /* 1. Warm up: the foundations, checked before the method. */
+    var warm = [];
+    if (ln.pretest && ln.pretest.length) warm.push(prSub("Check what you know first", [prLearnQs(ln.pretest, mv.pre), prNote("Not graded. Expect to miss some. A wrong guess now makes the right answer stick when it arrives.")]));
+    if (ln.words && ln.words.length) warm.push(prSub("Word check", [prDetails(ln.words), prNote("Say each meaning in your own words before you read on. If you cannot, look it up first.")]));
+    if (ln.base && ln.base.length) warm.push(prSub("Step check: is the step beneath this secure?", [prDetails(ln.base), prNote("If you cannot answer one of these, go back to the earlier module first.")]));
+    prAdd(root, prStep(1, "Warm up", "Check the foundations first. Misses here show you what to watch for.", warm));
+
+    /* 2. Practise the method: watch, complete, then try alone. */
+    var practise = [];
+    if (ln.ladder && ln.ladder.length) practise.push(prSub("Practice ladder: watch, complete, then try alone", [prLadder(ln.ladder)]));
+    if (ln.mass) practise.push(prSub("Make it concrete", [h("div", { class: "ch" }, h("strong", { text: ln.mass.title }), h("p", { text: ln.mass.task }), prNote("Limit: " + ln.mass.limit))]));
+    prAdd(root, prStep(2, "Practice the method", "Watch the example, complete the next step, then try alone.", practise));
+
+    /* 3. Challenges and the mistakes people make on them. */
+    var chal = [];
+    if (cd.length) chal.push(prBox("div", "chl", cd.map(function (c) { return prChallenge(m, c, cs, isCap); })));
+    if (d.mistakes && d.mistakes.length) chal.push(prSub("Common mistakes", [bullets(d.mistakes)]));
+    prAdd(root, prStep(3, isCap ? "Rubric" : "Challenges",
+      isCap ? "Tick each criterion when your work meets it. Read what passes before you start." : "Work each challenge, then open its answer key and self-check. Tick it when you pass.", chal));
+
+    /* 4. Check your work against numbers, myths and sign-off. */
+    var check = [];
+    if (ln.myths && ln.myths.length) check.push(prSub("Myth check", [prDetails(ln.myths.map(function (x) { return ["Myth: " + x[0], x[1]]; }))]));
+    if (OV && OV.fields && OV.fields.length) check.push(prSub("Check your numbers", [prFields(m, OV, nm), prNote("Worked from the module's own examples. Your numbers are saved in this browser.")]));
+    if (OV && OV.signoff && OV.signoff.length) check.push(prSub("Sign-off: " + nm, [prSignoff(m, OV), prNote("Tick each line when you can show it. This is your own checklist, saved in this browser.")]));
+    prAdd(root, prStep(4, "Check your work", "Test what you claim against numbers, myths and your own sign-off.", check));
+
+    /* 5. Review what you learned earlier so it does not fade. */
+    var review = [];
+    if (ln.retrieve && ln.retrieve.length) review.push(prSub("Retrieval practice from earlier modules", [prLearnQs(ln.retrieve, mv.ret)]));
+    if (d.review && d.review.length) review.push(prSub("Review from earlier modules", [prDetails(d.review.map(function (r) { return [r.q, r.a]; }))]));
+    prAdd(root, prStep(5, "Review", "Questions from earlier work, asked again so they stay.", review));
+
+    /* 6. Use it outside the course, reflect, then get it checked. */
+    var apply = [];
+    if (ln.transfer) apply.push(prSub("Use it in real life", [h("p", { text: ln.transfer })]));
+    if (ln.checkpoint) apply.push(prSub("Add to your capstone file", [h("p", { text: ln.checkpoint })]));
+    if (ln.reflect && ln.reflect.length) apply.push(prSub("Reflect", [prReflect(m, ln.reflect)]));
+    if (OV && OV.challenge) apply.push(prSub("Challenge from " + nm, [prChallengeCard(m, OV, nm)]));
+    if (OV && lc) {
+      apply.push(prSub("Ask " + nm + " to review your work", [prReview(m, OV, lc, nm)]));
+      apply.push(prSub("Where did you get stuck?", [prStuck(m)]));
+    }
+    prAdd(root, prStep(6, "Apply and reflect", "Use it outside the course, then get it checked.", apply));
+
+    return root;
+  }
+
+  /* ---------- lecturers ---------- */
+  function renderLecturers() {
+    var wrap = $("lec-wrap"), sec = $("s-lec"); wrap.textContent = "";
+    var I = (window.COURSE_LECTURER_INTRO || {})[cur], L = window.COURSE_LECTURERS || {}, P = window.COURSE_LECTURER_PEOPLE || {};
+    if (!I) { sec.hidden = true; return; }
+    sec.hidden = false;
+    $("lec-count").textContent = Object.keys(I.people).length + " lecturers";
+    wrap.appendChild(h("p", { class: "lec-blurb", text: I.blurb }));
+    var by = {}, grid = h("div", { class: "lec-grid" });
+    A.modules.forEach(function (m) { var l = L[m.key]; if (l) (by[l.name] = by[l.name] || []).push(m); });
+    Object.keys(I.people).forEach(function (name) {
+      var info = I.people[name], p = P[name] || {}, mods = by[name] || [];
+      var leads = h("div", { class: "lec-leads" }, h("span", { class: "mono lec-k", text: "Leads" }));
+      mods.forEach(function (m) {
+        leads.appendChild(h("button", { class: "btn ghost sm", type: "button", text: (m.kind === "capstone" ? "Capstone" : "Module " + m.number), title: m.title, onclick: function (ev) { openModule(m, ev.currentTarget); } }));
+      });
+      var card = h("article", { class: "lec-card" },
+        h("h3", { text: name }),
+        h("p", { class: "mono lec-yrs", text: p.years || "" }),
+        h("p", { class: "lec-hist", text: info[0] }),
+        h("p", { class: "lec-help" }, h("strong", { text: "How they help: " }), info[1]),
+        leads);
+      var u = p.src && /^https?:\/\//i.test(p.src) ? p.src : null;
+      if (u) card.appendChild(h("p", { class: "lec-src" }, h("a", { href: u, target: "_blank", rel: "noopener noreferrer", text: "Biography source" })));
+      grid.appendChild(card);
+    });
+    wrap.appendChild(grid);
+  }
+
+  /* ---------- modules ---------- */
+  function renderModules() {
+    var wrap = $("mod-wrap"); wrap.textContent = "";
+    if (!A.modules.length) { wrap.appendChild(h("p", { class: "empty", text: "No modules yet." })); return; }
+    var done = doneSet(), multi = A.libraries.length > 1;
+    var t = h("table", { class: "mtable" }, h("thead", {}, h("tr", {},
+      h("th", { text: "Done" }), multi ? h("th", { text: "Library" }) : null, h("th", { text: "#" }), h("th", { text: "Module" }),
+      h("th", { text: "Time" }), h("th", { class: "num", text: "Challenges" }), h("th", { text: "Belt" }), h("th", { text: "Status" }))));
+    var tb = h("tbody");
+    function progBar(m, done) {
+      var p = progressFor(m, done); if (!p) return document.createTextNode("");
+      var label = done[m.key] ? "Complete" : p.pct > 0 ? "Slide " + p.at + " of " + p.n + " · " + p.pct + "%" : "Not started";
+      return h("span", { class: "mprog", role: "progressbar", "aria-label": "Slides progress for " + m.title, "aria-valuemin": "0", "aria-valuemax": "100", "aria-valuenow": String(p.pct) },
+        h("span", { class: "mprog-bar" }, h("i", { style: "width:" + p.pct + "%" })), h("span", { class: "mono mprog-txt", text: label }));
+    }
+    function lecTag(m) { var Lc = window.COURSE_LECTURERS && window.COURSE_LECTURERS[m.key]; return Lc ? h("span", { class: "mono", style: "display:block;font-size:.78rem;color:var(--muted)", text: "Lecturer: " + Lc.name }) : document.createTextNode(""); }
+    A.modules.forEach(function (m) {
+      var cb = h("input", { type: "checkbox", "aria-label": (done[m.key] ? "Remove completion of " : "Mark complete: ") + m.title, style: "width:auto" });
+      cb.checked = !!done[m.key];
+      cb.addEventListener("change", function () { setCompletion(m, cb.checked); });
+      var belt = m.belt ? h("span", {}, h("span", { class: "dot", style: "background:var(--belt-" + m.belt.toLowerCase() + ")" }), m.belt) : document.createTextNode("—");
+      var tr = h("tr", { class: "mrow", tabindex: "0", role: "button", "aria-label": "Open " + m.title },
+        h("td", {}, cb), multi ? h("td", { text: libName(m.library) }) : null, h("td", { class: "mono", text: m.number }),
+        h("td", {}, h("span", { class: "chev", "aria-hidden": "true", text: "›" }), m.title, lecTag(m), progBar(m, done)),
+        h("td", { style: "white-space:nowrap", text: m.hours }), h("td", { class: "num", text: m.kind === "capstone" ? "—" : String(m.challenges) }),
+        h("td", {}, belt), h("td", {}, h("span", { class: "pill " + (done[m.key] ? "ok" : ""), text: done[m.key] ? "Complete" : m.status })));
+      tr.addEventListener("click", function (ev) { if (ev.target.closest("input,button,a,summary")) return; openModule(m, tr); });
+      tr.addEventListener("keydown", function (ev) { if ((ev.key === "Enter" || ev.key === " ") && ev.target === tr) { ev.preventDefault(); openModule(m, tr); } });
+      tb.appendChild(tr);
+    });
+    t.appendChild(tb); wrap.appendChild(t);
+  }
+  /* Soft mastery gate: completing a module with an unpassed quiz or open challenges asks first, and the learner can still go ahead. */
+  var QUIZ_PASS = 70;
+  function completionGaps(m) {
+    var gaps = [], d = (A.details || {})[m.key], cs = challengeSet(m.key), qz = (A.quiz || {})[m.key];
+    var open = d && d.challenges ? d.challenges.filter(function (c) { return !cs[c.id]; }).length : 0;
+    if (open) gaps.push(open + " " + (m.kind === "capstone" ? "criteria" : "challenges") + " not yet ticked");
+    if (qz && m.kind !== "capstone") {
+      var bq = bestQuiz(m);
+      if (bq == null) gaps.push("the quiz has not been taken");
+      else if (bq < QUIZ_PASS) gaps.push("your best first-try quiz score is " + bq + "% (pass mark " + QUIZ_PASS + "%)");
+    }
+    return gaps;
+  }
+  function setCompletion(m, on) {
+    if (on) {
+      var gaps = completionGaps(m);
+      if (gaps.length && !window.confirm("Before you mark this complete: " + gaps.join("; ") + ".\n\nMark it complete anyway?")) { renderAll(); return; }
+    }
+    local.push({ id: "L" + Date.now().toString(36) + Math.random().toString(36).slice(2, 5), date: today(), library: m.library, module: m.key,
+      kind: on ? "Module complete" : "Completion removed",
+      event: (m.kind === "capstone" ? "Capstone" : "Module " + m.number) + (on ? " complete" : " completion removed"), detail: "" });
+    saveLocal(); renderAll();
+  }
+
+  /* ---------- module page ---------- */
+  var mv = { key: null, tab: "learn", i: 0, slides: [], opener: null, rtype: "All" };
+  function modResources(m) {
+    if (m.kind === "capstone") return [];
+    var n = Number(m.number);
+    return A.resources.filter(function (r) { return (r.modules || []).indexOf(n) >= 0; });
+  }
+  function msec(title, node) { return h("div", { class: "msec" }, h("h4", { text: title }), node); }
+  function bullets(items, ordered) {
+    var l = h(ordered ? "ol" : "ul");
+    items.forEach(function (t) { l.appendChild(h("li", { text: t })); });
+    return l;
+  }
+  function completedOn(m) {
+    var d = "";
+    local.forEach(function (e) { if (e.module === m.key) { if (e.kind === "Module complete") d = e.date; else if (e.kind === "Completion removed") d = ""; } });
+    return d;
+  }
+  function newId() { return "L" + Date.now().toString(36) + Math.random().toString(36).slice(2, 5); }
+  function challengeSet(key) {
+    var s = {};
+    local.forEach(function (e) {
+      if (e.module !== key || !e.challenge) return;
+      if (e.kind === "Challenge result") s[e.challenge] = true;
+      else if (e.kind === "Challenge reopened") s[e.challenge] = false;
+    });
+    return s;
+  }
+  function setChallenge(m, id, on) {
+    local.push({ id: newId(), date: today(), library: m.library, module: m.key, kind: on ? "Challenge result" : "Challenge reopened", challenge: id,
+      event: (m.kind === "capstone" ? "Criterion " : "") + id + (on ? " done" : " reopened"), detail: "" });
+    saveLocal(); renderAll();
+  }
+  function quizMetric(m) { return "Quiz score · Module " + m.number; }
+  function bestQuiz(m) {
+    var best = null, name = quizMetric(m);
+    allEntries().forEach(function (e) { if (e.kind === "Measurement" && e.metric === name && isFinite(Number(e.value))) best = best == null ? Number(e.value) : Math.max(best, Number(e.value)); });
+    return best;
+  }
+  function refreshLedgerViews() { renderTop(); renderLedger(); renderSeries(); renderReview(); }
+  function logMetric(m, metric, value, unit, detail) {
+    local.push({ id: newId(), date: today(), library: m.library, module: m.key, kind: "Measurement", event: metric, metric: metric, value: value, unit: unit, detail: detail || "" });
+    saveLocal(); refreshLedgerViews();
+  }
+
+  /* quiz */
+  function renderQuiz(body, m, qz) {
+    if (!mv.quiz.seed) mv.quiz.seed = String(Date.now());
+    qz = qz.map(function (q) { return rq(q, mv.quiz.seed); });
+    var list = h("div", { class: "chl" }), A_ = mv.quiz.a;
+    qz.forEach(function (q, qi) { list.appendChild(learnQ(q, qi, A_, renderModuleView)); });
+    body.appendChild(list);
+    var n = qz.filter(function (q, i) { return A_[i] === q.a || A_["r" + i]; }).length;
+    if (n < qz.length) { body.appendChild(h("p", { class: "empty", text: n + " of " + qz.length + " answered. Choose from memory before you check the Learn tab. A wrong answer can be tried again." })); return; }
+    var first = qz.filter(function (q, i) { return A_[i] === q.a && !(A_["w" + i] || []).length; }).length, fin = qz.filter(function (q, i) { return A_[i] === q.a; }).length, pct = Math.round(first / qz.length * 100);
+    var row = h("div", { class: "row mv-ctl" }, h("strong", { text: "First try: " + first + " of " + qz.length + " (" + pct + "%). After retries: " + fin + " of " + qz.length + "." }));
+    row.appendChild(h("button", { class: "btn", type: "button", disabled: mv.quiz.saved ? "disabled" : null, text: mv.quiz.saved ? "Saved to ledger" : "Save first-try score to ledger",
+      onclick: function () { mv.quiz.saved = true; qz.forEach(function (q, i) { srsGradeId(m.key + ":q" + i, A_[i] === q.a && !(A_["w" + i] || []).length); }); logMetric(m, quizMetric(m), pct, "%", first + " of " + qz.length + " correct on the first try"); renderModuleView(); } }));
+    row.appendChild(h("button", { class: "btn ghost", type: "button", text: "Retake all", onclick: function () { mv.quiz = { a: {}, saved: false, seed: String(Date.now()) }; renderModuleView(); } }));
+    body.appendChild(row);
+    if (pct < 100) body.appendChild(h("p", { class: "empty", text: "Review the Learn tab for any you missed, then retake. Saved scores build a series in the Data section." }));
+  }
+
+  /* tools */
+  function addDays(iso, n) { var p = iso.split("-"); return new Date(Date.UTC(+p[0], +p[1] - 1, +p[2]) + n * 86400000).toISOString().slice(0, 10); }
+  function listNums(s) { return String(s || "").split(/[\s,;]+/).filter(function (x) { return x !== "" && isFinite(Number(x)); }).map(Number); }
+  function mean(a) { return a.reduce(function (x, y) { return x + y; }, 0) / a.length; }
+  function inp(type, val, extra) { var e = h("input", Object.assign({ type: type }, extra || {})); if (val != null) e.value = val; return e; }
+  function fld(label, node) { return h("label", {}, label, node); }
+  function toolCard(title, intro, fields, out, extra) {
+    var grid = h("div", { class: "tgrid" });
+    fields.forEach(function (f) { grid.appendChild(f); });
+    var c = h("div", { class: "card tool" }, h("h3", { text: title }), h("p", { class: "src", style: "color:var(--muted);font-size:.9rem", text: intro }), grid, out);
+    if (extra) c.appendChild(extra);
+    return c;
+  }
+  var TOOLS = {
+    "greenhouse-year-1": function (body) {
+      var c = inp("number", "", { step: "any" }), f = inp("number", "", { step: "any" }), out = h("p", { class: "tout", text: "Enter a temperature in either box." });
+      c.addEventListener("input", function () { if (c.value !== "") { f.value = (Number(c.value) * 9 / 5 + 32).toFixed(1); out.textContent = c.value + " °C is " + f.value + " °F."; } });
+      f.addEventListener("input", function () { if (f.value !== "") { c.value = ((Number(f.value) - 32) * 5 / 9).toFixed(1); out.textContent = f.value + " °F is " + c.value + " °C."; } });
+      body.appendChild(toolCard("Temperature converter", "Your min/max log may be in °C while the guides use °F. Convert either way.", [fld("°C", c), fld("°F", f)], out));
+    },
+    "greenhouse-year-2": function (body) {
+      var crops = [["Custom", 8, 8], ["Broccoli", 4, 6], ["Cabbage", 4, 6], ["Peppers", 6, 7], ["Tomatoes", 7, 9], ["Cucumbers", 3, 3]];
+      var sel = h("select"); crops.forEach(function (c, i) { sel.appendChild(h("option", { value: String(i), text: c[0] })); });
+      sel.value = "3";
+      var wmin = inp("number", 6, { min: "0", step: "0.5" }), wmax = inp("number", 7, { min: "0", step: "0.5" }), td = inp("date", ""), out = h("p", { class: "tout", text: "Choose a transplant date." });
+      function calc() {
+        if (!td.value || wmin.value === "" || wmax.value === "") { out.textContent = "Choose a transplant date."; return; }
+        var lo = Math.min(Number(wmin.value), Number(wmax.value)), hi = Math.max(Number(wmin.value), Number(wmax.value));
+        var late = addDays(td.value, -Math.round(lo * 7)), early = addDays(td.value, -Math.round(hi * 7));
+        out.textContent = early === late ? "Sow on " + fmtDate(late) + "." : "Sow between " + fmtDate(early) + " and " + fmtDate(late) + ".";
+      }
+      sel.addEventListener("change", function () { var c = crops[Number(sel.value)]; wmin.value = c[1]; wmax.value = c[2]; calc(); });
+      [wmin, wmax, td].forEach(function (e) { e.addEventListener("input", calc); });
+      body.appendChild(toolCard("Sow-date calculator", "Transplant date minus weeks in the tray. Weeks come from the UAF table; change them for your own crop.", [fld("Crop", sel), fld("Weeks in tray, from", wmin), fld("to", wmax), fld("Transplant date", td)], out));
+    },
+    "greenhouse-year-3": function (body, m) {
+      var sown = inp("number", 20, { min: "1", step: "1" }), em = inp("number", "", { min: "0", step: "1" }), out = h("p", { class: "tout", text: "Enter how many seeds emerged." }), pct = null;
+      var btn = h("button", { class: "btn ghost", type: "button", text: "Add to ledger", onclick: function () { if (pct != null) { logMetric(m, "Germination", pct, "%", em.value + " of " + sown.value + " emerged"); btn.textContent = "Added"; } } });
+      function calc() {
+        pct = null; btn.textContent = "Add to ledger";
+        if (em.value === "" || Number(sown.value) <= 0) { out.textContent = "Enter how many seeds emerged."; return; }
+        if (Number(em.value) > Number(sown.value)) { out.textContent = "More seeds emerged than were sown. Check the numbers."; return; }
+        pct = Math.round(Number(em.value) / Number(sown.value) * 1000) / 10;
+        out.textContent = pct + "% germinated. Compare with the packet's stated rate.";
+      }
+      [sown, em].forEach(function (e) { e.addEventListener("input", calc); });
+      body.appendChild(toolCard("Germination rate", "Emerged divided by sown. Log it so the Data section tracks your trays over time.", [fld("Seeds sown", sown), fld("Seeds emerged", em)], out, btn));
+    },
+    "greenhouse-year-4": function (body, m) {
+      var ph = h("textarea", { rows: "2", placeholder: "e.g. 5.1, 5.3, 5.2, 5.6, 5.4" }), ec = h("textarea", { rows: "2", placeholder: "optional, e.g. 1.8, 2.0, 1.9" });
+      var out = h("p", { class: "tout", text: "Enter your pH readings, five to ten per crop." }), avg = null, avgEc = null;
+      var b1 = h("button", { class: "btn ghost", type: "button", text: "Log average pH", onclick: function () { if (avg != null) { logMetric(m, "Substrate pH", avg, "pH", "Average of " + listNums(ph.value).length + " samples"); b1.textContent = "Logged"; } } });
+      var b2 = h("button", { class: "btn ghost", type: "button", text: "Log average EC", onclick: function () { if (avgEc != null) { logMetric(m, "Substrate EC", avgEc, "mS/cm", "Average of " + listNums(ec.value).length + " samples"); b2.textContent = "Logged"; } } });
+      function calc() {
+        var p = listNums(ph.value), e = listNums(ec.value); avg = null; avgEc = null; b1.textContent = "Log average pH"; b2.textContent = "Log average EC";
+        var t = [];
+        if (p.length) {
+          avg = Math.round(mean(p) * 100) / 100;
+          var band = avg < 5.4 ? "below the 5.4–6.2 band: check fertiliser acidity and water alkalinity, then retest" : avg > 6.2 ? "above the 5.4–6.2 band: test irrigation water alkalinity first" : "inside the 5.4–6.2 band";
+          t.push("pH average " + avg + " (min " + Math.min.apply(null, p) + ", max " + Math.max.apply(null, p) + ", " + p.length + " samples): " + band + ". Species ranges vary.");
+          if (p.length < 5) t.push("Take at least five samples before acting.");
+        }
+        if (e.length) { avgEc = Math.round(mean(e) * 100) / 100; t.push("EC average " + avgEc + ". Compare with the range for your crop and extraction method."); }
+        out.textContent = t.length ? t.join(" ") : "Enter your pH readings, five to ten per crop.";
+      }
+      [ph, ec].forEach(function (x) { x.addEventListener("input", calc); });
+      var bw = h("div", { class: "row" }); bw.appendChild(b1); bw.appendChild(b2);
+      body.appendChild(toolCard("pH and EC averager", "Average five to ten samples per crop, then compare with the band. One reading should not change your programme.", [fld("pH readings", ph), fld("EC readings", ec)], out, bw));
+    },
+    "greenhouse-year-5": function (body) {
+      var vol = inp("number", 2000, { min: "1", step: "any" }), out = h("div", { class: "tout" });
+      function calc() {
+        var v = Number(vol.value); out.textContent = "";
+        if (!(v > 0)) { out.textContent = "Enter the greenhouse volume in cubic feet."; return; }
+        var f = function (x) { return Math.round(x).toLocaleString("en"); };
+        [["Summer exhaust, 1–1.5 exchanges a minute", f(v) + " to " + f(v * 1.5) + " ft³/min"],
+         ["Winter ventilation, 20–30% of one exchange a minute", f(v * 0.2) + " to " + f(v * 0.3) + " ft³/min"],
+         ["Circulation fans, about a quarter of the volume a minute", f(v * 0.25) + " ft³/min"]].forEach(function (r) { out.appendChild(h("p", {}, h("strong", { text: r[0] + ": " }), r[1])); });
+      }
+      vol.addEventListener("input", calc); calc();
+      body.appendChild(toolCard("Ventilation calculator", "Length × width × average height gives volume. Small houses should use the larger summer figure.", [fld("Greenhouse volume (ft³)", vol)], out));
+    }
+  };
+
+  /* Tools are per module. A course can add its own with window.COURSE_TOOLS["<module key>"] = function (body, m) {...},
+     using the helpers in window.CourseUI. */
+  function toolFor(m) { return (window.COURSE_TOOLS && window.COURSE_TOOLS[m.key]) || TOOLS[m.key] || null; }
+  window.CourseUI = { h: h, fld: fld, inp: inp, toolCard: toolCard, logMetric: logMetric, fmtDate: fmtDate, fmtNum: fmtNum, addDays: addDays, listNums: listNums, mean: mean, doneSet: doneSet };
+
+  function openModule(m, opener) {
+    mv.key = m.key; mv.tab = "slides"; mv.i = 0; mv.rtype = "All"; mv.opener = opener || null; mv.quiz = { a: {}, saved: false }; mv.pre = {}; mv.ret = {};
+    if (CE) CE.state = {};
+    var dk = deckFor(m.key); mv.slides = dk ? expandDeck(dk) : []; mv.sections = dk && dk.built ? dk.built.sections : [];
+    mv.saved = 0;
+    try { mv.saved = Number(localStorage.getItem("eda.pos." + m.key)) || 0; } catch (e) {}
+    if (mv.saved >= mv.slides.length - 1) mv.saved = 0;   /* a finished deck starts again from slide 1 */
+    mv.i = mv.saved;
+    $("mview").hidden = false; document.body.style.overflow = "hidden";
+    renderModuleView(); $("mview").scrollTop = 0; $("mv-close").focus();
+  }
+  function closeModule() {
+    $("mview").hidden = true; document.body.style.overflow = "";
+    renderModules();
+    if (mv.opener && document.body.contains(mv.opener)) mv.opener.focus();
+  }
+  function neighbour(step) {
+    var m = modByKey(mv.key), list = A.modules.filter(function (x) { return x.library === m.library; });
+    var i = list.indexOf(m) + step; return list[i] || null;
+  }
+  /* Saved place per module in this browser. The list progress bar follows it, forwards or back. */
+  function notePos(key, i) {
+    try {
+      localStorage.setItem("eda.pos." + key, String(i));
+
+    } catch (e) {}
+  }
+  var slideCountCache = {};
+  function slideCount(key) {
+    if (slideCountCache[key] == null) { var dk = deckFor(key); slideCountCache[key] = dk ? expandDeck(dk).length : 0; }
+    return slideCountCache[key];
+  }
+  function progressFor(m, done) {
+    var n = slideCount(m.key); if (!n) return null;
+    var mx = 0; try { mx = Number(localStorage.getItem("eda.pos." + m.key)) || 0; } catch (e) {}
+    var pct = done[m.key] ? 100 : Math.round(Math.min(mx + 1, n) / n * 100);
+    return { n: n, at: Math.min(mx + 1, n), pct: mx > 0 || done[m.key] ? pct : 0 };
+  }
+  function mvSave() { notePos(mv.key, mv.i); }
+  function mvStep(n) {
+    var j = Math.max(0, Math.min(mv.slides.length - 1, mv.i + n));
+    if (j !== mv.i) { mv.i = j; mvSave(); renderModuleView(); }
+  }
+  function renderModuleView() {
+    if ($("mview").hidden) return;
+    var m = modByKey(mv.key); if (!m) return;
+    var done = doneSet(), isDone = !!done[m.key], d = (A.details || {})[m.key], dk = deckFor(m.key), rs = modResources(m);
+    var isCap = m.kind === "capstone", cs = challengeSet(m.key), qz = (A.quiz || {})[m.key];
+
+    $("mv-eyebrow").textContent = libName(m.library) + " · " + (isCap ? "Capstone" : "Module " + m.number + " of " + A.modules.filter(function (x) { return x.library === m.library && x.kind === "module"; }).length);
+    $("mv-title").textContent = m.title;
+    var sub = $("mv-sub"); sub.textContent = "";
+    sub.appendChild(h("span", { class: "pill " + (isDone ? "ok" : ""), text: isDone ? "Complete" : m.status }));
+    sub.appendChild(h("span", { class: "mono", style: "font-size:.85rem;color:var(--muted)", text: m.hours + " · Prerequisites: " + (d ? d.prereq : "—") }));
+    (function () { var lc = (window.COURSE_LECTURERS || {})[m.key], ln = (window.COURSE_LEARN || {})[m.key]; if (lc && ln && ln.oversight) sub.appendChild(h("span", { class: "mono", style: "font-size:.85rem;color:var(--muted)", text: " · Overseen by " + lc.name })); })();
+    var mLec = window.COURSE_LECTURERS && window.COURSE_LECTURERS[m.key];
+    if (mLec) sub.appendChild(h("span", { class: "mono", style: "font-size:.85rem;color:var(--muted)", text: "· Lecturer: " + mLec.name }));
+    if (m.belt) sub.appendChild(h("span", { style: "font-size:.9rem" }, h("span", { class: "dot", style: "background:var(--belt-" + m.belt.toLowerCase() + ")" }), m.belt + " belt on completion"));
+    if (isDone && completedOn(m)) sub.appendChild(h("span", { class: "mono", style: "font-size:.85rem;color:var(--ok)", text: "Completed " + fmtDate(completedOn(m)) }));
+    var cd = d ? d.challenges : [], cnt = cd.filter(function (c) { return cs[c.id]; }).length;
+    if (cd.length) sub.appendChild(h("span", { class: "mono", style: "font-size:.85rem;color:var(--muted)", text: (isCap ? "Criteria " : "Challenges ") + cnt + "/" + cd.length }));
+    var bq = bestQuiz(m);
+    if (bq != null) sub.appendChild(h("span", { class: "mono", style: "font-size:.85rem;color:var(--muted)", text: "Quiz best " + bq + "%" }));
+    $("mv-hint").textContent = isDone || !cd.length ? "" : (cnt === cd.length
+      ? "Every " + (isCap ? "criterion" : "challenge") + " is ticked. Mark this module complete to log it."
+      : (cd.length - cnt) + " of " + cd.length + " still open. Tick each in the Practice tab when you pass its self-check.");
+
+    renderOutcomes(m);
+    var act = $("mv-actions"); act.textContent = "";
+    act.appendChild(h("button", { class: isDone ? "btn ghost" : "btn", type: "button", text: isDone ? "Remove completion" : "Mark complete", onclick: function () { setCompletion(m, !isDone); } }));
+    var pv = neighbour(-1), nx = neighbour(1);
+    $("mv-prev").disabled = !pv; $("mv-next").disabled = !nx;
+
+    var hasCourse = !!(CE && CE.has(m.key)), tabs = [];
+    if (mv.slides.length) tabs.push(["slides", "Slides (" + mv.slides.length + ")"]);
+    tabs.push(hasCourse ? ["notes", "Notes"] : ["learn", "Learn"]);
+    tabs.push(["practice", isCap ? "Rubric" : "Practice"]);
+    if (qz) tabs.push(["quiz", "Quiz"]);
+    if (toolFor(m)) tabs.push(["tools", "Tools"]);
+    tabs.push(["resources", "Resources (" + rs.length + ")"]);
+    if (isCap) tabs = tabs.filter(function (t) { return t[0] !== "resources" || rs.length; });
+    if (!tabs.some(function (t) { return t[0] === mv.tab; })) mv.tab = tabs[0][0];
+    var tb = $("mv-tabs"); tb.textContent = "";
+    tabs.forEach(function (t) {
+      tb.appendChild(h("button", { class: "tab", type: "button", role: "tab", "aria-selected": String(mv.tab === t[0]), text: t[1], onclick: function () { mv.tab = t[0]; renderModuleView(); } }));
+    });
+
+    var body = $("mv-body"); body.textContent = "";
+    if (mv.tab === "notes" && hasCourse) {
+      body.appendChild(CE.hasDeep(m.key) ? CE.deep(m, { prev: pv, next: nx }) : CE.article(m));
+    } else if (mv.tab === "learn") {
+      var g = h("div", { class: "mgrid" });
+      if (!d) g.appendChild(h("p", { class: "empty", text: "No lesson has been written for this module yet. Ask Claude to add it." }));
+      else {
+        g.appendChild(msec(isCap ? "The brief" : "Core idea", h("p", { text: d.core })));
+        g.appendChild(msec(isCap ? "Required deliverable" : "Tutorial", bullets(d.steps, !isCap)));
+        if (d.worked) g.appendChild(msec("Worked example", h("p", { text: d.worked })));
+        g.appendChild(msec("Pass condition", h("p", { text: d.pass })));
+      }
+      body.appendChild(g);
+    } else if (mv.tab === "practice") {
+      body.appendChild(practiceTab(m, d, isCap, cs));
+    } else if (mv.tab === "quiz" && qz) {
+      renderQuiz(body, m, qz);
+    } else if (mv.tab === "tools" && toolFor(m)) {
+      toolFor(m)(body, m);
+    } else if (mv.tab === "slides" && dk) {
+      var stage = h("div", { class: "slide" }), secs = mv.sections || [], cur = 0;
+      secs.forEach(function (sc, si) { if (sc.at <= mv.i) cur = si; });
+      var nav = h("nav", { class: "sl-nav", "aria-label": "Lessons" }, h("div", { class: "sl-h", text: "Lessons" }));
+      secs.forEach(function (sc, si) {
+        nav.appendChild(h("button", { type: "button", "aria-current": String(si === cur), text: (si + 1) + ". " + sc.title, onclick: function () { mv.i = sc.at; mvSave(); renderModuleView(); } }));
+      });
+      var jump = h("select", { class: "sl-jump", "aria-label": "Jump to lesson" }, h("option", { value: "-1", text: "Jump to a lesson" }));
+      secs.forEach(function (sc, si) { var o = h("option", { value: String(sc.at), text: (si + 1) + ". " + sc.title }); jump.appendChild(o); });
+      jump.addEventListener("change", function () { if (jump.value !== "-1") { mv.i = Number(jump.value); mvSave(); renderModuleView(); } });
+      var ctl = h("div", { class: "row mv-ctl" },
+        h("button", { class: "btn ghost", type: "button", text: "Previous", disabled: mv.i === 0 ? "disabled" : null, onclick: function () { mvStep(-1); } }),
+        h("span", { class: "mono", text: (mv.i + 1) + " / " + mv.slides.length }),
+        h("button", { class: "btn", type: "button", text: "Next", disabled: mv.i === mv.slides.length - 1 ? "disabled" : null, onclick: function () { mvStep(1); } }),
+        h("button", { class: "btn ghost", type: "button", text: "Present full screen", onclick: function (ev) { openDeck(dk, ev.currentTarget, mv.i); } }));
+      ctl.insertBefore(slideSelect(mv.slides, mv.sections, mv.i, function (i) { mv.i = i; mvSave(); renderModuleView(); }), ctl.children[3]);
+      if (mv.saved > 0) {
+        if (mv.i === mv.saved) ctl.appendChild(h("span", { class: "mono", style: "color:var(--ok)", text: "Picked up where you left off" }));
+        if (mv.i !== 0) ctl.appendChild(h("button", { class: "btn ghost", type: "button", text: "Start from slide 1", onclick: function () {
+          /* Starting over restarts the module's slide progress too, so the list bar and the resume point agree with slide 1. */
+
+          mv.saved = 0; mv.i = 0; mvSave(); renderModuleView(); } }));
+        if (mv.i !== mv.saved) ctl.appendChild(h("button", { class: "btn ghost", type: "button", text: "Resume at slide " + (mv.saved + 1), onclick: function () { mv.i = mv.saved; mvSave(); renderModuleView(); } }));
+      }
+      var main = h("div", { class: "sl-main" }, jump, h("div", { class: "sl-bar", "aria-hidden": "true" }, h("i", { style: "width:" + ((mv.i + 1) / mv.slides.length * 100) + "%" })), stage, ctl);
+      body.appendChild(h("div", { class: "sl-wrap" }, secs.length ? nav : null, main));
+      drawSlide(mv.slides[mv.i], stage, renderModuleView);
+      if (CE && CE.fit) CE.fit(stage);
+      try { stage.scrollIntoView({ block: "nearest" }); } catch (e) {}
+    } else if (mv.tab === "resources") {
+      var byType = {};
+      rs.forEach(function (r) { (byType[r.type] = byType[r.type] || []).push(r); });
+      Object.keys(byType).sort(function (a, b) { return TYPES.indexOf(a) - TYPES.indexOf(b); }).forEach(function (ty) {
+        var grid = h("div", { class: "res" });
+        byType[ty].forEach(function (r) {
+          var u = safeUrl(r.url);
+          grid.appendChild(h("div", { class: "rc" },
+            h("div", { class: "top" }, h("span", { class: "type", text: r.type }), h("span", { class: "pill " + (r.status === "Verified" ? "ok" : "warn"), text: r.status })),
+            u ? h("a", { href: u, target: "_blank", rel: "noopener noreferrer", text: r.title }) : h("span", { text: r.title }),
+            h("div", { class: "src", text: r.source }),
+            r.note ? h("div", { class: "note", text: r.note }) : null,
+            h("div", { class: "meta" }, h("span", { text: r.difficulty }))));
+        });
+        var dd = h("details", { class: "dd", style: "margin-top:.6rem" }, h("summary", {}, h("h3", { text: ty }), h("span", { class: "dd-n", text: byType[ty].length + (byType[ty].length === 1 ? " resource" : " resources") })), grid);
+        body.appendChild(dd);
+      });
+      if (!rs.length) body.appendChild(h("p", { class: "empty", text: "No resources are attached to this module yet." }));
+    }
+  }
+
+  /* ---------- slide selector ---------- */
+  function clip(t, n) { t = String(t || "").replace(/\s+/g, " ").trim(); return t.length > n ? t.slice(0, n - 1) + "…" : t; }
+  function slideLabel(sl) {
+    switch (sl.kind) {
+      case "title": return "Title";
+      case "section": return "Lesson " + sl.n + ": " + sl.title;
+      case "outline": return "Roadmap";
+      case "check": return "Check: " + clip(sl.q, 48);
+      case "table": return "Table: " + clip(sl.h, 44);
+      case "fig": return "Figure: " + clip(sl.h, 44);
+      case "example": return "Example: " + clip(sl.h, 42);
+      case "video": return "Video: " + clip(sl.video && sl.video.title, 42);
+      case "terms": return "Key terms";
+      case "activity": return "Activity";
+      case "take": return "Key takeaways";
+      case "refs": return "Sources";
+      case "next": return "What to do next";
+      case "resources": return "Go deeper";
+      case "callout": return clip(sl.h, 50);
+      default: return clip(sl.h || "Slide", 50);
+    }
+  }
+  /* A select listing every slide, grouped by lesson. pick(index) is called on change. */
+  function slideSelect(slides, sections, cur, pick) {
+    var sel = h("select", { class: "slsel", "aria-label": "Go to slide" });
+    var groups = [], secs = (sections || []).slice();
+    if (!secs.length || secs[0].at > 0) groups.push({ title: secs.length ? "Introduction" : "All slides", from: 0 });
+    secs.forEach(function (sc, i) { groups.push({ title: (i + 1) + ". " + sc.title, from: sc.at }); });
+    var tail = groups.length && secs.length ? "Finish" : null, finishAt = -1;
+    for (var k = slides.length - 1; k >= 0; k--) { if (slides[k].kind === "next") { finishAt = k; break; } }
+    if (tail && finishAt > 0) groups.push({ title: "Finish", from: finishAt });
+    groups.forEach(function (g, gi) {
+      var to = gi + 1 < groups.length ? groups[gi + 1].from : slides.length;
+      var og = h("optgroup", { label: g.title });
+      for (var i = g.from; i < to; i++) {
+        var o = h("option", { value: String(i), text: (i + 1) + "  " + slideLabel(slides[i]) });
+        if (i === cur) o.selected = true;
+        og.appendChild(o);
+      }
+      sel.appendChild(og);
+    });
+    sel.addEventListener("change", function () { pick(Number(sel.value)); });
+    return sel;
+  }
+
+  /* ---------- slides ---------- */
+  var view = { deck: null, slides: [], i: 0, opener: null };
+  function courseBuild(m) {
+    if (!CE || !CE.has(m.key)) return null;
+    if (!buildCache[m.key]) buildCache[m.key] = CE.build(m, libName(m.library));
+    return buildCache[m.key];
+  }
+  function deckFor(modKey) {
+    var m = modByKey(modKey), cb = m ? courseBuild(m) : null;
+    if (cb) return { id: "course-" + modKey, title: m.title, module: modKey, library: m.library, built: cb };
+    for (var i = 0; i < A.slides.length; i++) if (A.slides[i].module === modKey) return A.slides[i];
+    return null;
+  }
+  function goTab(tab) {
+    var key = (!$("viewer").hidden && view.deck && view.deck.module) || mv.key, m = modByKey(key);
+    if (!$("viewer").hidden) closeDeck();
+    if (!m) return;
+    if ($("mview").hidden || mv.key !== key) openModule(m, view.opener);
+    mv.tab = tab; renderModuleView(); $("mview").scrollTop = 0;
+  }
+
+  function expandDeck(d) {
+    if (d.built) return d.built.slides;
+    var m = d.module ? modByKey(d.module) : null, out = [];
+    if (!d.live) {
+      out.push({ kind: "title", h: d.title, sub: libName(d.library) + (m ? " · " + (m.kind === "capstone" ? "Capstone" : "Module " + m.number) + " · " + m.hours : ""), belt: m && m.belt ? m.belt : "" });
+    } else {
+      out.push({ kind: "title", h: d.title, sub: "Library of Alexandria · " + fmtDate(today()), belt: "" });
+    }
+    d.slides.forEach(function (s) { out.push(s); });
+    if (!d.live && m) {
+      var num = m.kind === "module" ? Number(m.number) : null;
+      var rs = A.resources.filter(function (r) { return m.kind === "capstone" ? true : (r.modules || []).indexOf(num) >= 0; });
+      if (m.kind === "capstone") rs = [];
+      out.push({ kind: "resources", h: "Go deeper", items: rs.slice(0, 9), mod: m });
+    }
+    return out;
+  }
+
+  function drawSlide(s, el, rerender) {
+    if (CE && CE.drawSlide(s, el, { goTab: goTab })) return;
+    el.textContent = ""; el.className = "slide" + (s.kind === "title" ? " title" : "");
+    if (s.kind === "title") {
+      el.appendChild(h("span", { class: "eyebrow", text: "Library of Alexandria" }));
+      el.appendChild(h("h1", { text: s.h }));
+      el.appendChild(h("p", { class: "lead", text: s.sub }));
+      if (s.belt) el.appendChild(h("p", { class: "lead" }, h("span", { class: "dot", style: "background:var(--belt-" + s.belt.toLowerCase() + ")" }), s.belt + " belt on completion"));
+    } else if (s.kind === "resources") {
+      el.appendChild(h("h2", { text: s.h }));
+      if (s.items.length) {
+        var ul = h("ul", { class: "rl" });
+        s.items.forEach(function (r) {
+          var u = safeUrl(r.url);
+          ul.appendChild(h("li", {}, h("span", { class: "type", text: r.type }), u ? h("a", { href: u, target: "_blank", rel: "noopener noreferrer", text: r.title }) : document.createTextNode(r.title)));
+        });
+        el.appendChild(ul);
+      } else el.appendChild(h("p", { class: "lead", text: "No resources are attached to this item yet." }));
+      var done = doneSet()[s.mod.key];
+      el.appendChild(h("div", { class: "row" },
+        h("button", { class: "btn", type: "button", disabled: done ? "disabled" : null, text: done ? "Already in the ledger" : "Add completion to ledger", onclick: function () { setCompletion(s.mod, true); rerender(); } })));
+    } else {
+      el.appendChild(h("h2", { text: s.h }));
+      var l = h("ul"); (s.pts || []).forEach(function (p) { l.appendChild(h("li", { text: p })); }); el.appendChild(l);
+      if (s.note) el.appendChild(h("p", { class: "callout", text: s.note }));
+    }
+    if (CE && CE.wrap) CE.wrap(el);
+  }
+  function renderSlide() {
+    drawSlide(view.slides[view.i], $("slide"), renderSlide);
+    if (CE && CE.fit) CE.fit($("slide"));
+    if (view.goFor !== view.slides) {
+      view.goFor = view.slides;
+      var secs = view.deck && view.deck.built ? view.deck.built.sections : [], fresh = slideSelect(view.slides, secs, view.i, function (i) { view.i = i; renderSlide(); });
+      $("v-go").innerHTML = ""; while (fresh.firstChild) $("v-go").appendChild(fresh.firstChild);
+    }
+    $("v-go").value = String(view.i);
+    $("v-count").textContent = (view.i + 1) + " / " + view.slides.length;
+    $("v-fill").style.width = ((view.i + 1) / view.slides.length * 100) + "%";
+    $("v-prev").disabled = view.i === 0; $("v-next").disabled = view.i === view.slides.length - 1;
+    if (view.deck && view.deck.module) notePos(view.deck.module, view.i);
+  }
+  function openDeck(d, opener, at) {
+    view.deck = d; view.slides = expandDeck(d); view.i = at || 0; view.opener = opener || null;
+    $("v-title").textContent = d.title; $("viewer").hidden = false; document.body.style.overflow = "hidden";
+    renderSlide(); $("v-close").focus();
+  }
+  function closeDeck() {
+    $("viewer").hidden = true; document.body.style.overflow = "";
+    try { if (document.fullscreenElement) document.exitFullscreen(); } catch (e) {}
+    if (view.deck && view.deck.module && view.deck.module === mv.key && !$("mview").hidden) { mv.i = Math.min(view.i, mv.slides.length - 1); renderModuleView(); }
+    if (view.opener && document.body.contains(view.opener)) view.opener.focus();
+  }
+  function step(n) { var j = Math.max(0, Math.min(view.slides.length - 1, view.i + n)); if (j !== view.i) { view.i = j; renderSlide(); } }
+  function fullscreen() {
+    var v = $("viewer");
+    try { if (document.fullscreenElement) document.exitFullscreen(); else if (v.requestFullscreen) v.requestFullscreen().catch(function () {}); } catch (e) {}
+  }
+  document.addEventListener("keydown", function (e) {
+    if ($("viewer").hidden) {
+      if (!$("mview").hidden && !(e.target && /^(INPUT|SELECT|TEXTAREA)$/.test(e.target.tagName))) {
+        if (e.key === "Escape") closeModule();
+        else if (mv.tab === "slides" && mv.slides.length && e.key === "ArrowRight") { e.preventDefault(); mvStep(1); }
+        else if (mv.tab === "slides" && mv.slides.length && e.key === "ArrowLeft") { e.preventDefault(); mvStep(-1); }
+      } else if (!$("cmodal").hidden && e.key === "Escape" && !(e.target && /^(INPUT|SELECT|TEXTAREA)$/.test(e.target.tagName))) closeCourse();
+      return;
+    }
+    if (e.target && /^(INPUT|SELECT|TEXTAREA)$/.test(e.target.tagName)) return;
+    if (e.key === "Escape") closeDeck();
+    else if (e.key === "ArrowRight" || e.key === "PageDown" || (e.key === " " && !(e.target && e.target.tagName === "BUTTON"))) { e.preventDefault(); step(1); }
+    else if (e.key === "ArrowLeft" || e.key === "PageUp") { e.preventDefault(); step(-1); }
+    else if (e.key === "Home") step(-view.i);
+    else if (e.key === "End") step(view.slides.length);
+    else if (e.key === "f" || e.key === "F") fullscreen();
+  });
+
+  /* ---------- libraries + resources ---------- */
+  function renderLibs() {
+    var box = $("libs"); box.textContent = "";
+    var AB = window.COURSE_ABOUT || {}, CM = window.COURSE_ABOUT_COMMON || {};
+    A.libraries.forEach(function (l) {
+      var about = AB[l.id] || null;
+      var lessonsN = 0, hours = 0;
+      A.modules.forEach(function (m) { var c = window.COURSE && window.COURSE[m.key]; if (c) lessonsN += c.lessons.length; hours += parseFloat(m.hours) || 0; });
+      var L = window.COURSE_LECTURERS || {}, names = {};
+      A.modules.forEach(function (m) { var x = L[m.key]; if (x) names[x.name] = 1; });
+      var card = h("div", { class: "card about" });
+      card.appendChild(h("h3", { text: l.subject }));
+      card.appendChild(h("p", { class: "mono", style: "font-size:.85rem", text: l.level + " · created " + fmtDate(l.created) }));
+      if (l.summary) card.appendChild(h("p", { class: "about-sum", text: l.summary }));
+      var facts = h("dl", { class: "about-facts" });
+      [["Modules", String(l.modules)], ["Lessons", lessonsN ? String(lessonsN) : "—"], ["Study time", hours ? "about " + hours + " hours" : "—"], ["Challenges", String(l.challenges)], ["Lecturers", Object.keys(names).length ? String(Object.keys(names).length) : "—"], ["Resources", String(A.resources.length)]].forEach(function (kv) {
+        facts.appendChild(h("div", {}, h("dt", { text: kv[0] }), h("dd", { text: kv[1] })));
+      });
+      card.appendChild(facts);
+      if (about) {
+        card.appendChild(h("h4", { text: "Who it is for" })); card.appendChild(h("p", { text: about.audience }));
+        card.appendChild(h("h4", { text: "What you will learn" })); var ul = h("ul", {}); about.learn.forEach(function (x) { ul.appendChild(h("li", { text: x })); }); card.appendChild(ul);
+        card.appendChild(h("h4", { text: "What you will make" })); card.appendChild(h("p", { text: "Capstone: " + l.capstone + ". " + about.make }));
+        card.appendChild(h("h4", { text: "Before you start" })); card.appendChild(h("p", { text: about.ready }));
+        if (CM.how) { card.appendChild(h("h4", { text: "How it works" })); var ol = h("ul", {}); CM.how.forEach(function (x) { ol.appendChild(h("li", { text: x })); }); card.appendChild(ol); }
+        card.appendChild(h("h4", { text: "Where it stops" })); card.appendChild(h("p", { text: about.limits }));
+        if (CM.honest) card.appendChild(h("p", { class: "about-note", text: CM.honest }));
+      } else {
+        card.appendChild(h("p", { text: l.modules + " modules, " + l.challenges + " challenges, capstone: " + l.capstone + "." }));
+      }
+      card.appendChild(h("p", { class: "src", style: "color:var(--muted);font-size:.86rem;overflow-wrap:anywhere" }, "Written library: ", h("a", { href: encodeURI(l.file), target: "_blank", rel: "noopener", text: l.file })));
+      var wrap = h("details", { class: "hist aboutwrap" }, h("summary", {}, h("span", { text: "About this course" }), h("span", { class: "mono", text: "who it is for, what you will learn, where it stops" })));
+      wrap.appendChild(h("div", { class: "hist-body" }, card));
+      box.appendChild(wrap);
+    });
+    if (!A.libraries.length) box.appendChild(h("p", { class: "empty", text: "No libraries yet. Run Library of Alexandria to add one." }));
+  }
+  function renderRes() {
+    var counts = {}; A.resources.forEach(function (r) { counts[r.type] = (counts[r.type] || 0) + 1; });
+    var chips = $("res-chips"); chips.textContent = "";
+    TYPES.forEach(function (t) {
+      var n = t === "All" ? A.resources.length : (counts[t] || 0);
+      if (t !== "All" && !n) return;
+      chips.appendChild(h("button", { class: "chip", type: "button", "aria-pressed": String(state.type === t), text: t + " " + n, onclick: function () { state.type = t; renderRes(); } }));
+    });
+    var ms = $("res-mod"), have = {}; A.resources.forEach(function (r) { (r.modules || []).forEach(function (n) { have[n] = 1; }); });
+    ms.textContent = ""; ms.appendChild(h("option", { value: "All", text: "All modules" }));
+    Object.keys(have).sort(function (a, b) { return a - b; }).forEach(function (n) { var o = h("option", { value: n, text: "Module " + n }); if (state.rmod === n) o.selected = true; ms.appendChild(o); });
+    var list = A.resources.filter(function (r) { return (state.type === "All" || r.type === state.type) && (state.rmod === "All" || (r.modules || []).indexOf(Number(state.rmod)) >= 0); });
+    list.sort(function (a, b) { return TYPES.indexOf(a.type) - TYPES.indexOf(b.type); });
+    var box = $("res"); box.textContent = "";
+    $("res-count").textContent = A.resources.length + " resources";
+    list.forEach(function (r) {
+      var u = safeUrl(r.url);
+      box.appendChild(h("div", { class: "rc" },
+        h("div", { class: "top" }, h("span", { class: "type", text: r.type }), h("span", { class: "pill " + (r.status === "Verified" ? "ok" : "warn"), text: r.status })),
+        u ? h("a", { href: u, target: "_blank", rel: "noopener noreferrer", text: r.title }) : h("span", { text: r.title }),
+        h("div", { class: "src", text: r.source }),
+        r.note ? h("div", { class: "note", text: r.note }) : null,
+        h("div", { class: "meta" }, h("span", { text: (r.modules || []).map(function (n) { return "M" + n; }).join(" ") }), h("span", { text: r.difficulty }))));
+    });
+    if (!list.length) box.appendChild(h("p", { class: "empty", text: "Nothing matches this filter." }));
+  }
+
+  /* ---------- export / import ---------- */
+  function download(name, mime, text) {
+    var url = URL.createObjectURL(new Blob([text], { type: mime })), a = document.createElement("a");
+    a.href = url; a.download = name; document.body.appendChild(a); a.click(); a.remove(); setTimeout(function () { URL.revokeObjectURL(url); }, 500);
+  }
+  function csvCell(v) { v = v == null ? "" : String(v); return /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v; }
+  function exportCsv() {
+    var cols = ["date", "library", "module", "kind", "event", "metric", "value", "unit", "detail", "source"];
+    var lines = [cols.join(",")];
+    allEntries().forEach(function (e) { lines.push(cols.map(function (c) { return csvCell(e[c]); }).join(",")); });
+    download("education-ledger.csv", "text/csv", lines.join("\n"));
+  }
+  function importJson(file) {
+    var r = new FileReader();
+    r.onload = function () {
+      try {
+        var arr = JSON.parse(r.result); if (!Array.isArray(arr)) throw new Error("not a list");
+        var have = {}; local.forEach(function (e) { have[e.id] = 1; }); var n = 0;
+        arr.forEach(function (e) { if (e && e.id && e.date && e.kind && !have[e.id]) { local.push(e); have[e.id] = 1; n++; } });
+        saveLocal(); renderAll(); msg("Imported " + n + " new entries.", "ok");
+      } catch (err) { msg("That file is not a ledger JSON list.", "bad"); }
+    };
+    r.readAsText(file);
+  }
+
+  /* ---------- library home and course modal ---------- */
+  function scopeFor(id) {
+    var f = FULL;
+    return {
+      updated: f.updated,
+      libraries: f.libraries.filter(function (l) { return l.id === id; }),
+      modules: f.modules.filter(function (m) { return m.library === id; }),
+      resources: f.resources.filter(function (r) { return r.library === id; }),
+      activity: f.activity.filter(function (a) { return a.library === id; }),
+      slides: f.slides.filter(function (d) { return d.library === id; }),
+      details: f.details, quiz: f.quiz
+    };
+  }
+  function lastDate(id) {
+    var d = "";
+    FULL.activity.forEach(function (a) { if (a.library === id && a.date > d) d = a.date; });
+    local.forEach(function (e) { if (e.library === id && e.date > d) d = e.date; });
+    return d;
+  }
+  function renderHome() {
+    var box = $("courses"); box.textContent = "";
+    var tot = { courses: FULL.libraries.length, modules: 0, slides: 0, entries: 0 };
+    FULL.libraries.forEach(function (lib) {
+      var mods = FULL.modules.filter(function (m) { return m.library === lib.id; }), reg = mods.filter(function (m) { return m.kind === "module"; });
+      var d = doneOf(mods), nDone = reg.filter(function (m) { return d[m.key]; }).length, lessons = 0, slidesN = 0, numDone = {}, capDone = false;
+      mods.forEach(function (m) {
+        var c = window.COURSE && window.COURSE[m.key]; if (c) lessons += c.lessons.length;
+        var cb = courseBuild(m); if (cb) slidesN += cb.slides.length;
+        if (d[m.key]) { if (m.kind === "capstone") capDone = true; else numDone[m.number] = true; }
+      });
+      var entries = FULL.activity.filter(function (a) { return a.library === lib.id; }).length + local.filter(function (e) { return e.library === lib.id; }).length;
+      tot.modules += reg.length; tot.slides += slidesN; tot.entries += entries;
+      var pct = reg.length ? Math.round(nDone / reg.length * 100) : 0;
+      var belts = h("div", { class: "cbelts", "aria-label": "Belts" });
+      beltsFor(mods).forEach(function (b) { belts.appendChild(h("i", { class: beltEarned(b, numDone, capDone) ? "on" : "", style: "background:var(--belt-" + b.name.toLowerCase() + ")", title: b.name + ": " + b.need })); });
+      var ld = lastDate(lib.id);
+      var card = h("article", { class: "course", tabindex: "0", role: "button", "aria-label": "Open " + lib.subject, style: "--cacc:" + (lib.accent || "var(--accent)") },
+        h("h3", { text: lib.subject }),
+        lib.summary ? h("p", { class: "csum", text: lib.summary }) : null,
+        h("div", { class: "cmeta" }, h("span", { class: "pill", text: lib.level }), h("span", { class: "pill", text: reg.length + " modules" }), h("span", { class: "pill", text: lessons + " lessons" }), h("span", { class: "pill", text: slidesN + " slides" })),
+        h("div", {}, h("div", { class: "cprog" }, h("span", { text: nDone + " of " + reg.length + " modules complete" }), h("span", { text: pct + "%" })), h("div", { class: "cbar" }, h("i", { style: "width:" + pct + "%" }))),
+        belts,
+        h("div", { class: "row", style: "justify-content:space-between" }, h("span", { class: "mono", style: "font-size:.78rem;color:var(--muted)", text: "Last activity " + fmtDate(ld) }), h("button", { class: "btn sm", type: "button", text: "Open course", onclick: function (ev) { ev.stopPropagation(); openCourse(lib.id, card); } })));
+      card.addEventListener("click", function () { openCourse(lib.id, card); });
+      card.addEventListener("keydown", function (ev) { if ((ev.key === "Enter" || ev.key === " ") && ev.target === card) { ev.preventDefault(); openCourse(lib.id, card); } });
+      box.appendChild(card);
+    });
+    box.appendChild(h("article", { class: "course add" }, h("h3", { text: "Your next course" }), h("p", { class: "csum", text: "Ask Claude to run Library of Alexandria on any subject. The new course is built from the greenhouse template and appears here." })));
+    var t = $("home-tiles"); t.textContent = "";
+    [[tot.courses, "Courses"], [tot.modules, "Modules"], [tot.slides, "Slides"], [tot.entries, "Ledger entries"]].forEach(function (x) { t.appendChild(h("div", { class: "tile" }, h("div", { class: "num", text: String(x[0]) }), h("div", { class: "lab", text: x[1] }))); });
+    $("home-take").textContent = tot.courses + (tot.courses === 1 ? " course" : " courses") + " in the library. Open one to learn from its slides, log your work and track your progress.";
+    renderFaq($("home-faq"), (window.COURSE_FAQ || {}).library);
+    $("home-stamp").textContent = "Library data updated " + fmtDate(FULL.updated) + ". " + local.length + " ledger entries stored in this browser.";
+  }
+  function renderFaq(box, items) {
+    box.textContent = "";
+    if (!items || !items.length) { box.hidden = true; return; }
+    box.hidden = false;
+    var wrap = h("details", { class: "hist faqwrap" }, h("summary", {}, h("span", { text: "FAQ" }), h("span", { class: "mono", text: items.length + " questions" })));
+    var body = h("div", { class: "hist-body" });
+    items.forEach(function (it) { var ans = h("div", { class: "faq-a" }); it[1].split("\n\n").forEach(function (t) { ans.appendChild(h("p", { text: t })); }); body.appendChild(h("details", {}, h("summary", { text: it[0] }), ans)); });
+    wrap.appendChild(body); box.appendChild(wrap);
+  }
+  var openerCourse = null;
+  function openCourse(id, opener) {
+    var lib = FULL.libraries.filter(function (l) { return l.id === id; })[0];
+    if (!lib) return;
+    cur = id; A = scopeFor(id); openerCourse = opener || null;
+    state.kind = "All"; state.type = "All"; state.rmod = "All"; state.series = "";
+    $("cm-title").textContent = lib.subject; $("cm-h1").textContent = lib.subject;
+    $("cm-eyebrow").textContent = "Course · " + lib.level; $("cm-sub").textContent = "Library of Alexandria";
+    $("cmodal").hidden = false; document.body.style.overflow = "hidden";
+    fillForm(); renderAll(); $("cmodal").scrollTop = 0;
+    try { history.replaceState(null, "", "#course=" + id); } catch (e) {}
+    $("cm-close").focus();
+  }
+  function closeCourse() {
+    $("cmodal").hidden = true; document.body.style.overflow = "";
+    cur = null; A = FULL;
+    try { history.replaceState(null, "", location.pathname + location.search); } catch (e) {}
+    renderHome();
+    if (openerCourse && document.body.contains(openerCourse)) openerCourse.focus();
+  }
+
+  /* "How far the sources were read". Data comes from courses/<id>/course-<id>-sources.js, written by kit.py sources:
+     window.COURSE_SOURCEMAP[id] (books from the read records, other sources from the note) and window.COURSE_SOURCES[id] (the note as written). */
+  var SR_STAT = { full: "Read in full", part: "Read in part", search: "Found by search only", none: "Not read", unknown: "Extent not recorded" };
+  var SR_ORDER = ["full", "part", "search", "none", "unknown"];
+  function srInline(parent, s) {
+    String(s).split(/(\*\*[^*]+\*\*|https?:\/\/[^\s)\]]*[^\s).,;\]])/).forEach(function (part) {
+      if (/^\*\*[^*]+\*\*$/.test(part)) parent.appendChild(h("strong", { text: part.slice(2, -2) }));
+      else if (safeUrl(part)) parent.appendChild(h("a", { href: part, target: "_blank", rel: "noopener noreferrer", text: part }));
+      else if (part) parent.appendChild(document.createTextNode(part));
+    });
+  }
+  function srMods(list) {
+    if (!list || !list.length) return "";
+    if (list[0] === "all") return "all modules";
+    var nums = list.filter(function (x) { return x !== "cap"; }), cap = list.indexOf("cap") >= 0;
+    var parts = [];
+    if (nums.length) parts.push((nums.length > 1 ? "modules " : "module ") + nums.join(", "));
+    if (cap) parts.push("the capstone");
+    return parts.join(" and ");
+  }
+  function renderLegacyMd(parent, md) {
+    var ul = null;
+    md.split(/\r?\n/).forEach(function (line) {
+      var m;
+      if (!line.trim()) { ul = null; return; }
+      if ((m = line.match(/^#+\s+(.*)$/))) { ul = null; parent.appendChild(h("h3", { text: m[1] })); return; }
+      if ((m = line.match(/^[-*]\s+(.*)$/))) { if (!ul) { ul = h("ul"); parent.appendChild(ul); } var li = h("li"); srInline(li, m[1]); ul.appendChild(li); return; }
+      ul = null; var p = h("p"); srInline(p, line); parent.appendChild(p);
+    });
+  }
+  var SR_HINT = {
+    full: "Every section was read from start to end.",
+    part: "Some sections or passages were read; the rest were not.",
+    search: "Found by searching. Passages were checked, but the source was not read through.",
+    none: "Not read. Listed here so the gap is visible.",
+    unknown: "The lessons cite these, but the reference does not say how much of each was read."
+  };
+  function srModLabel(m, map) {
+    var t = (map.modules || {})[String(m)];
+    return (m === "cap" ? "Capstone" : "Module " + m) + (t ? ": " + t : "");
+  }
+  function srHay(r, map) {
+    var d = r.d, mods = (d.uses && d.uses.length ? d.uses.map(function (u) { return u.module; }) : d.modules || []).map(function (m) { return m === "cap" ? "capstone" : "module " + m; });
+    return [d.name, d.by, d.note, SR_STAT[d.status], r.kind === "book" ? "book paper" : "web page article", SR_ORIGIN_LABEL[srOrigin(d)].toLowerCase() + (d.origin === "user" ? " you supplied" : ""), mods.join(" ")].join(" ").toLowerCase();
+  }
+  /* The viewer: a sidebar of every source (grouped by colour), a search box, previous and next, and the detail pane.
+     Keys: arrows or j and k move, "/" searches, Home and End jump, Escape clears the search and then closes. */
+  var srV = null;
+  function srEnsureViewer() {
+    if (srV) return srV;
+    var el = h("div", { class: "srm", id: "sr-modal", hidden: "", role: "dialog", "aria-modal": "true", "aria-label": "Source viewer" });
+    var bg = h("div", { class: "srm-bg", onclick: srClose });
+    var box = h("div", { class: "srm-box wide", tabindex: "-1" });
+    var bar = h("div", { class: "srm-bar" });
+    var navBtn = h("button", { class: "srm-nb", type: "button", "aria-label": "Show the list of sources", text: "☰ Sources", onclick: function () { srV.box.classList.toggle("nav-open"); } });
+    var prev = h("button", { class: "srm-nb", type: "button", "aria-label": "Previous source", text: "‹", onclick: function () { srStep(-1); } });
+    var next = h("button", { class: "srm-nb", type: "button", "aria-label": "Next source", text: "›", onclick: function () { srStep(1); } });
+    var pos = h("span", { class: "srm-pos", "aria-live": "polite" });
+    var search = h("input", { class: "srm-search", type: "search", placeholder: "Search sources (press /)", "aria-label": "Search sources" });
+    var x = h("button", { class: "srm-x", type: "button", "aria-label": "Close", text: "×", onclick: srClose });
+    [navBtn, prev, next, pos, search, x].forEach(function (n) { bar.appendChild(n); });
+    var main = h("div", { class: "srm-main" });
+    var nav = h("nav", { class: "srm-nav", "aria-label": "All sources" });
+    var detail = h("div", { class: "srm-detail" });
+    var head = h("div", { class: "srm-head" });
+    var titles = h("div", { class: "srm-titles" });
+    titles.appendChild(h("h3", { id: "srm-title" }));
+    titles.appendChild(h("p", { class: "srm-by" }));
+    head.appendChild(titles);
+    detail.appendChild(head);
+    detail.appendChild(h("div", { class: "srm-pills" }));
+    detail.appendChild(h("div", { class: "srm-body" }));
+    main.appendChild(nav); main.appendChild(detail);
+    box.appendChild(bar); box.appendChild(main);
+    el.appendChild(bg); el.appendChild(box);
+    document.body.appendChild(el);
+    search.addEventListener("input", srFilterNav);
+    el.addEventListener("keydown", function (e) {
+      var inSearch = document.activeElement === search;
+      if (e.key === "Escape") {
+        e.stopPropagation();
+        if (inSearch && search.value) { search.value = ""; srFilterNav(); } else srClose();
+        return;
+      }
+      if (e.key === "ArrowDown" || (!inSearch && (e.key === "ArrowRight" || e.key === "j"))) { e.preventDefault(); srStep(1); return; }
+      if (e.key === "ArrowUp" || (!inSearch && (e.key === "ArrowLeft" || e.key === "k"))) { e.preventDefault(); srStep(-1); return; }
+      if (!inSearch && e.key === "Home") { e.preventDefault(); srGo(0, true); return; }
+      if (!inSearch && e.key === "End") { e.preventDefault(); srGo(srV.list.length - 1, true); return; }
+      if (!inSearch && e.key === "/") { e.preventDefault(); search.focus(); search.select(); return; }
+      if (e.key !== "Tab") return;
+      var f = [].filter.call(box.querySelectorAll("button, summary, input, a[href]"), function (n) { return n.offsetParent !== null; });
+      if (!f.length) return;
+      var first = f[0], last = f[f.length - 1];
+      if (e.shiftKey && (document.activeElement === first || document.activeElement === box)) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    });
+    srV = { el: el, box: box, nav: nav, detail: detail, search: search, pos: pos, list: [], map: null, i: 0, opener: null, items: [] };
+    return srV;
+  }
+  function srFilterNav() {
+    var q = srV.search.value.trim().toLowerCase(), words = q ? q.split(/\s+/) : [], any = false;
+    srV.items.forEach(function (it) {
+      var ok = words.every(function (w) { return it.hay.indexOf(w) >= 0; });
+      it.btn.parentElement.hidden = !ok;
+      it.ok = ok; if (ok) any = true;
+    });
+    [].forEach.call(srV.nav.querySelectorAll(".srm-sub"), function (d) {
+      d.hidden = ![].some.call(d.querySelectorAll("li"), function (li) { return !li.hidden; });
+    });
+    [].forEach.call(srV.nav.querySelectorAll(".srm-grpd"), function (g) {
+      g.hidden = !srV.items.some(function (it) { return it && it.grp === g && it.ok; });
+    });
+    var em = srV.nav.querySelector(".srm-none");
+    if (em) em.hidden = any;
+  }
+  function srVisible() { return srV.items.map(function (it, i) { return it.ok !== false ? i : -1; }).filter(function (i) { return i >= 0; }); }
+  function srStep(dir) {
+    var vis = srVisible();
+    if (!vis.length) return;
+    var at = vis.indexOf(srV.i), n = at < 0 ? (dir > 0 ? 0 : vis.length - 1) : Math.max(0, Math.min(vis.length - 1, at + dir));
+    srGo(vis[n], false);
+  }
+  function srGo(i, ignoreFilter) {
+    if (ignoreFilter) { srV.search.value = ""; srFilterNav(); }
+    srV.i = Math.max(0, Math.min(srV.list.length - 1, i));
+    srRender();
+  }
+  function srClose() {
+    if (!srV || srV.el.hidden) return;
+    srV.el.hidden = true;
+    srV.box.classList.remove("nav-open");
+    if (srV.opener && document.body.contains(srV.opener)) srV.opener.focus();
+    srV.opener = null;
+  }
+  function srBuildNav(list, map) {
+    var v = srV;
+    v.nav.textContent = "";
+    v.items = [];
+    var by = srNavBy, groups = {};
+    list.forEach(function (r, i) { var g = by === "origin" ? srOrigin(r.d) : r.d.status; (groups[g] = groups[g] || []).push(i); });
+    (by === "origin" ? SR_ORIGINS : SR_ORDER).forEach(function (k) {
+      if (!groups[k]) return;
+      var gd = h("details", { class: "srm-grpd" }); gd.open = true;
+      var hd = h("summary", { class: "srm-grp-h " + k });
+      if (by !== "origin") hd.appendChild(h("span", { class: "sr-dot " + k }));
+      hd.appendChild(document.createTextNode((by === "origin" ? SR_ORIGIN_LABEL[k] : SR_STAT[k]) + " (" + groups[k].length + ")"));
+      var subs = {};
+      function ulFor(st) { if (!subs[st]) subs[st] = { count: 0, ul: h("ul", { class: "srm-navlist" }) }; subs[st].count++; return subs[st].ul; }
+      groups[k].forEach(function (i) {
+        var r = list[i], li = h("li");
+        var b = h("button", { class: "srm-item " + r.d.status, type: "button", onclick: function () { srGo(i, false); v.box.classList.remove("nav-open"); } });
+        b.appendChild(h("span", { class: "srm-item-name", text: r.d.name }));
+        if (r.d.origin === "user") b.appendChild(h("span", { class: "sr-tag user", text: "You" }));
+        else if (r.d.origin === "discovery") b.appendChild(h("span", { class: "sr-tag disc", text: "Discovery" }));
+        else b.appendChild(h("span", { class: "sr-tag found", text: "Foundational" }));
+        li.appendChild(b);
+        ulFor(srOrigin(r.d)).appendChild(li);
+        v.items[i] = { btn: b, hay: srHay(r, map), ok: true, grp: gd };
+      });
+      gd.appendChild(hd);
+      SR_ORIGINS.forEach(function (o) {
+        if (!subs[o]) return;
+        var sd = h("div", { class: "srm-sub" });
+        sd.appendChild(h("h5", { class: "srm-sub-h " + o, text: SR_ORIGIN_LABEL[o] + " (" + subs[o].count + ")" }));
+        sd.appendChild(subs[o].ul); gd.appendChild(sd);
+      });
+      v.nav.appendChild(gd);
+    });
+    v.nav.appendChild(h("p", { class: "srm-none", text: "No sources match.", hidden: "" }));
+  }
+  function srOpen(list, i, map, opener) {
+    var v = srEnsureViewer();
+    v.opener = opener || null;
+    if (v.list !== list || v.map !== map) { v.list = list; v.map = map; srBuildNav(list, map); }
+    v.search.value = ""; srFilterNav();
+    v.i = i;
+    v.el.hidden = false;
+    srRender();
+    v.box.focus();
+  }
+  function srSec(title, open) {
+    var s = h("details", { class: "srm-sec" });
+    if (open !== false) s.setAttribute("open", "");
+    s.appendChild(h("summary", { text: title }));
+    return s;
+  }
+  function srRender() {
+    var v = srV, r = v.list[v.i], item = r.d, kind = r.kind, map = v.map;
+    v.items.forEach(function (it, n) { if (n === v.i) it.btn.setAttribute("aria-current", "true"); else it.btn.removeAttribute("aria-current"); });
+    var cur = v.items[v.i].btn;
+    for (var pe = cur.parentElement; pe && pe !== v.nav; pe = pe.parentElement) { if (pe.tagName === "DETAILS") pe.open = true; }
+    if (cur.scrollIntoView) cur.scrollIntoView({ block: "nearest" });
+    v.pos.textContent = (v.i + 1) + " of " + v.list.length;
+    var det = v.detail, body = det.querySelector(".srm-body"), pills = det.querySelector(".srm-pills");
+    det.querySelector("#srm-title").textContent = item.name;
+    det.querySelector(".srm-by").textContent = item.by || "";
+    pills.textContent = "";
+    pills.appendChild(h("span", { class: "sr-pill " + item.status, text: SR_STAT[item.status] }));
+    if (item.origin === "user") pills.appendChild(h("span", { class: "sr-tag user", text: "Added by you" }));
+    if (item.origin === "discovery") pills.appendChild(h("span", { class: "sr-tag disc", text: "Source Discovery" }));
+    if (srOrigin(item) === "foundational") pills.appendChild(h("span", { class: "sr-tag found", text: "Foundational" }));
+    pills.appendChild(h("span", { class: "sr-tag", text: kind === "book" ? "Book or paper" : "Web page or article" }));
+    var allBtn = h("button", { class: "srm-all", type: "button", text: "Expand all" });
+    allBtn.addEventListener("click", function () {
+      var secs = [].slice.call(body.querySelectorAll(".srm-sec")), openAll = secs.some(function (d) { return !d.open; });
+      secs.forEach(function (d) { d.open = openAll; });
+      allBtn.textContent = openAll ? "Collapse all" : "Expand all";
+    });
+    pills.appendChild(allBtn);
+    body.textContent = "";
+
+    var uses = item.uses || [], nLessons = 0;
+    uses.forEach(function (u) { nLessons += u.lessons.length; });
+    var gl = srSec("At a glance"), dl = h("dl", { class: "srm-dl" });
+    function row(k, val) { dl.appendChild(h("dt", { text: k })); dl.appendChild(h("dd", { text: val })); }
+    var prov = item.prov || {};
+    row("Added by", item.origin === "user" ? "You. This is your own copy, kept on this machine." : (item.origin === "discovery" ? "Found by Source Discovery, then ingested." : "Foundational. Found while the course was being created, before the course kept a record of how each source was found."));
+    if (prov.added && prov.added.charAt(4) === "-") row("Added on", prov.added.slice(8, 10) + "/" + prov.added.slice(5, 7) + "/" + prov.added.slice(0, 4)); else if (prov.added && prov.added.indexOf("before") === 0) row("Added on", prov.added.charAt(0).toUpperCase() + prov.added.slice(1));
+    if (prov.query) row("Search used", prov.query);
+    if (prov.url && prov.url.indexOf("http") === 0) { dl.appendChild(h("dt", { text: "Where from" })); var ddu = h("dd"); ddu.appendChild(h("a", { href: prov.url, target: "_blank", rel: "noopener", text: prov.url })); dl.appendChild(ddu); }
+    if (prov.note) row("Provenance note", prov.note);
+    row("How much was read", SR_STAT[item.status]);
+    if (kind === "book") row("Coverage", item.read + " of " + item.sections + " sections read" + (item.skipped.length ? ", the rest skipped on purpose" : "") + " (" + item.pct + "% of the words)");
+    row("Used in", uses.length ? srMods(uses.map(function (u) { return u.module; })) + " (" + nLessons + " lesson" + (nLessons === 1 ? "" : "s") + ")" : "No lesson cites it yet");
+    if (kind === "book" && item.review) row("Review", item.review);
+    gl.appendChild(dl); body.appendChild(gl);
+
+    var how = srSec("How it was read", false);
+    if (kind === "book") {
+      how.appendChild(h("p", { text: "Every section was served in order by the reading tool, and a section counts as read only when its last chunk was shown." + (item.status === "full" ? " Nothing was left unread." : "") }));
+      var nSk = 0;
+      item.skipped.forEach(function (g) { nSk += g.titles.length; });
+      if (nSk) {
+        how.appendChild(h("p", { class: "srm-sub", text: "Skipped on purpose (" + nSk + "), each with a reason:" }));
+        var ul = h("ul");
+        item.skipped.forEach(function (g) { var li = h("li"); li.appendChild(h("strong", { text: g.titles.join(", ") })); li.appendChild(document.createTextNode(": " + g.reason)); ul.appendChild(li); });
+        how.appendChild(ul);
+      }
+      if (item.unread && item.unread.length) {
+        how.appendChild(h("p", { class: "srm-sub", text: "Not yet read (" + item.unread.length + "):" }));
+        var ul2 = h("ul"); item.unread.forEach(function (t) { ul2.appendChild(h("li", { text: t })); }); how.appendChild(ul2);
+      }
+    } else {
+      how.appendChild(h("p", { text: item.note ? item.note : "The reference does not give more detail." }));
+      if (item.status === "unknown") how.appendChild(h("p", { class: "srm-sub", text: "The reference does not say how much of this source was read, so it is listed without a claim." }));
+    }
+    body.appendChild(how);
+
+    var con = srSec("What it contributes to the course");
+    if (!uses.length) {
+      con.appendChild(h("p", { class: "srm-empty", text: item.status === "none" ? "Nothing yet. It was not read, so no lesson rests on it." : "No lesson cites this source yet." }));
+    } else {
+      con.appendChild(h("p", { class: "srm-sub", text: "These are the course's own words for what each lesson takes from it, with the chapters cited." }));
+      uses.forEach(function (u) {
+        var card = h("div", { class: "srm-mod" });
+        card.appendChild(h("h5", { text: srModLabel(u.module, map) }));
+        u.lessons.forEach(function (L) {
+          var ls = h("div", { class: "srm-les" });
+          ls.appendChild(h("strong", { text: L.title }));
+          if (L.chapters && L.chapters.length) ls.appendChild(h("span", { class: "srm-ch", text: " · cites " + L.chapters.join("; ") }));
+          if (L.points && L.points.length) {
+            var pl = h("ul");
+            L.points.forEach(function (p) { pl.appendChild(h("li", { text: p })); });
+            ls.appendChild(pl);
+          }
+          card.appendChild(ls);
+        });
+        con.appendChild(card);
+      });
+    }
+    body.appendChild(con);
+
+    if (kind === "book") {
+      var fd = item.detail || {};
+      if (item.note || (fd.avoided && fd.avoided.length)) {
+        var cau = srSec("Mistakes and cautions", false);
+        if (item.note) { var np = h("p"); srInline(np, item.note); cau.appendChild(np); }
+        if (fd.avoided && fd.avoided.length) {
+          cau.appendChild(h("p", { class: "srm-sub", text: "Claims in the book that disagree with standard figures. The lessons were searched and none of them repeats these:" }));
+          var al = h("ul"); fd.avoided.forEach(function (t) { al.appendChild(h("li", { text: t })); }); cau.appendChild(al);
+        }
+        body.appendChild(cau);
+      }
+      if (item.findings) {
+        var fin = srSec("What happened to its " + item.findings + " findings", false);
+        var st = item.states || {}, lab = { applied: "used in a lesson", confirmed: "confirmed what the course said", avoided: "checked against the lessons", skipped: "skipped, with a reason", open: "still open" };
+        var fb = h("div", { class: "sr-bar", "aria-hidden": "true" }), fl = h("ul", { class: "sr-legend" });
+        ["applied", "confirmed", "avoided", "skipped", "open"].forEach(function (k) {
+          if (!st[k]) return;
+          fb.appendChild(h("span", { class: "sr-seg fs-" + k, style: "width:" + (100 * st[k] / item.findings) + "%" }));
+          var li = h("li"); li.appendChild(h("span", { class: "sr-dot fs-" + k })); li.appendChild(document.createTextNode(st[k] + " " + lab[k])); fl.appendChild(li);
+        });
+        fin.appendChild(fb); fin.appendChild(fl);
+        if (fd.where && fd.where.length) {
+          fin.appendChild(h("p", { class: "srm-sub", text: "Where its findings were used:" }));
+          var wl = h("ul"); fd.where.forEach(function (w) { wl.appendChild(h("li", { text: w.text.replace(/^auto: /, "") + (w.n > 1 ? " (" + w.n + ")" : "") })); }); fin.appendChild(wl);
+        }
+        if (fd.skipped && fd.skipped.length) {
+          fin.appendChild(h("p", { class: "srm-sub", text: "Why some were skipped:" }));
+          var sl = h("ul"); fd.skipped.forEach(function (w) { sl.appendChild(h("li", { text: w.text + (w.n > 1 ? " (" + w.n + ")" : "") })); }); fin.appendChild(sl);
+        }
+        body.appendChild(fin);
+      }
+    }
+    body.appendChild(h("p", { class: "srm-foot", text: "Text from books you supply stays on this machine and is never shown on a course page. This panel shows only the course's own wording and the chapters it cites." }));
+    body.scrollTop = 0;
+  }
+  var SR_ORIGINS = ["user", "discovery", "foundational"];
+  var srNavBy = "status";
+  var SR_ORIGIN_LABEL = { discovery: "Source Discovery", user: "Added by you", foundational: "Foundational" };
+  var SR_ORIGIN_HINT = { discovery: "Found by Source Discovery after the course was built, then read and used.", user: "Supplied by you. The copy stays on this machine.", foundational: "Found while the course was being created." };
+  function srOrigin(d) { return d.origin === "user" ? "user" : (d.origin === "discovery" ? "discovery" : "foundational"); }
+  function renderSourceTable(body, map) {
+    var items = [], c = map.counts || {}, total = 0;
+    map.books.forEach(function (b) { items.push({ kind: "book", d: b }); });
+    map.pages.forEach(function (p) { items.push({ kind: "page", d: p }); });
+    function srAdded(d) { var a = (d.prov || {}).added || ""; return a.length === 10 && a.charAt(4) === "-" ? a : "9999"; }
+    items.sort(function (a, b) {
+      return SR_ORIGINS.indexOf(srOrigin(a.d)) - SR_ORIGINS.indexOf(srOrigin(b.d)) || (srAdded(a.d) === "9999") - (srAdded(b.d) === "9999") || srAdded(b.d).localeCompare(srAdded(a.d)) || String(a.d.name).localeCompare(String(b.d.name));
+    });
+    var groupBy = "status", gEls = [];
+    var viewerList = [];
+    function orderViewer() {
+      var out = [];
+      if (groupBy === "origin") SR_ORIGINS.forEach(function (o) { items.forEach(function (r) { if (srOrigin(r.d) === o) out.push(r); }); });
+      else SR_ORDER.forEach(function (k) { items.forEach(function (r) { if (r.d.status === k) out.push(r); }); });
+      viewerList = out;
+      srNavBy = groupBy;
+    }
+    orderViewer();
+    SR_ORDER.forEach(function (k) { total += c[k] || 0; });
+    body.appendChild(h("p", { class: "sr-lead", text: "Every source this course rests on, grouped by how much of it was read, then by where it came from: Source Discovery, you, or foundational (found while the course was created). Green was read in full, amber in part and red not at all. Select a source for what it contributes and where it is used." }));
+    var bits = SR_ORDER.filter(function (k) { return c[k]; }).map(function (k) { return c[k] + " " + SR_STAT[k].toLowerCase(); });
+    body.appendChild(h("p", { class: "sr-lead", text: total + " source" + (total === 1 ? "" : "s") + ": " + bits.join(", ") + "." }));
+    var bar = h("div", { class: "sr-bar", "aria-hidden": "true" });
+    SR_ORDER.forEach(function (k) { if (c[k]) bar.appendChild(h("span", { class: "sr-seg " + k, style: "width:" + (100 * c[k] / total) + "%" })); });
+    body.appendChild(bar);
+    var nUser = items.filter(function (r) { return r.d.origin === "user"; }).length;
+    var nDisc = items.filter(function (r) { return r.d.origin === "discovery"; }).length;
+    var nFound = items.filter(function (r) { return srOrigin(r.d) === "foundational"; }).length;
+    var nBooks = items.filter(function (r) { return r.kind === "book"; }).length, nPages = items.length - nBooks;
+    var filt = "all", q = "", chipEls = [];
+    var top = h("div", { class: "sr-toolbar" });
+    var find = h("input", { class: "sr-find", type: "search", placeholder: "Search sources", "aria-label": "Search sources" });
+    find.addEventListener("input", function () { q = find.value.trim().toLowerCase(); sync(); });
+    var browse = h("button", { class: "sr-browse", type: "button", text: "Browse one by one ›", onclick: function () { srOpen(viewerList, 0, map, browse); } });
+    top.appendChild(find); top.appendChild(browse);
+    body.appendChild(top);
+    var tools = h("div", { class: "sr-filters", role: "group", "aria-label": "Filter sources" });
+    tools.appendChild(h("span", { class: "sr-lab", text: "Show" }));
+    [["all", "All (" + items.length + ")"], ["user", "Added by you (" + nUser + ")"], ["discovery", "Source Discovery (" + nDisc + ")"], ["foundational", "Foundational (" + nFound + ")"], ["book", "Books and papers (" + nBooks + ")"], ["page", "Web pages and articles (" + nPages + ")"]].forEach(function (o) {
+      if (o[0] !== "all" && (o[0] === "user" ? !nUser : (o[0] === "discovery" ? !nDisc : (o[0] === "foundational" ? !nFound : (o[0] === "book" ? !nBooks : !nPages))))) return;
+      var b = h("button", { class: "sr-chip", type: "button", text: o[1], "aria-pressed": o[0] === "all" ? "true" : "false", onclick: function () { filt = o[0]; sync(); } });
+      b.dataset.v = o[0]; chipEls.push(b); tools.appendChild(b);
+    });
+    if (chipEls.length > 2) body.appendChild(tools);
+
+    var wrap = h("div", { class: "sr-groups" });
+    body.appendChild(wrap);
+
+    function card(r) {
+      var d = r.d, li = h("li");
+      var b = h("button", { class: "sr-card " + d.status, type: "button", "aria-haspopup": "dialog" });
+      b.addEventListener("click", function () { srOpen(viewerList, viewerList.indexOf(r), map, b); });
+      var topl = h("span", { class: "sr-card-top" });
+      topl.appendChild(h("span", { class: "sr-name", text: d.name }));
+      b.appendChild(topl);
+      if (d.by) b.appendChild(h("span", { class: "sr-by", text: d.by }));
+      var tags = h("span", { class: "sr-tags" });
+      if (d.origin === "user") tags.appendChild(h("span", { class: "sr-tag user", text: "Added by you" }));
+      if (d.origin === "discovery") tags.appendChild(h("span", { class: "sr-tag disc", text: "Source Discovery" }));
+      if (srOrigin(d) === "foundational") tags.appendChild(h("span", { class: "sr-tag found", text: "Foundational" }));
+      tags.appendChild(h("span", { class: "sr-tag", text: r.kind === "book" ? "Book or paper" : "Web page" }));
+      b.appendChild(tags);
+      var m = srMods((d.uses && d.uses.length) ? d.uses.map(function (u) { return u.module; }) : d.modules);
+      var meta = [];
+      if (r.kind === "book") meta.push(d.read + " of " + d.sections + " sections read");
+      meta.push(m ? "used in " + m : "not cited in a lesson");
+      var ad = srAdded(d); if (ad.length === 10) meta.push("added " + ad.slice(8, 10) + "/" + ad.slice(5, 7) + "/" + ad.slice(0, 4));
+      b.appendChild(h("span", { class: "sr-meta", text: meta.join(" · ") }));
+      b.appendChild(h("span", { class: "sr-more-link", text: "Details ›" }));
+      li.appendChild(b);
+      return li;
+    }
+    function sync() {
+      chipEls.forEach(function (b) { b.setAttribute("aria-pressed", b.dataset.v === filt ? "true" : "false"); });
+      gEls.forEach(function (b) { b.setAttribute("aria-pressed", b.dataset.v === groupBy ? "true" : "false"); });
+      wrap.textContent = "";
+      var shownAny = false, words = q ? q.split(/\s+/) : [];
+      (groupBy === "origin" ? SR_ORIGINS : SR_ORDER).forEach(function (k) {
+        var list = items.filter(function (r) {
+          if (groupBy === "origin" ? srOrigin(r.d) !== k : r.d.status !== k) return false;
+          if (filt === "user" && r.d.origin !== "user") return false;
+          if (filt === "discovery" && r.d.origin !== "discovery") return false;
+          if (filt === "foundational" && srOrigin(r.d) !== "foundational") return false;
+          if ((filt === "book" || filt === "page") && r.kind !== filt) return false;
+          if (words.length) { var hay = srHay(r, map); return words.every(function (w) { return hay.indexOf(w) >= 0; }); }
+          return true;
+        });
+        if (!list.length) return;
+        shownAny = true;
+        var g = h("details", { class: "sr-grp " + k });
+        if (k !== "unknown" || words.length) g.setAttribute("open", "");
+        var sm = h("summary");
+        if (groupBy !== "origin") sm.appendChild(h("span", { class: "sr-dot " + k }));
+        sm.appendChild(h("strong", { text: groupBy === "origin" ? SR_ORIGIN_LABEL[k] : SR_STAT[k] }));
+        sm.appendChild(h("span", { class: "sr-count", text: String(list.length) }));
+        sm.appendChild(h("span", { class: "sr-hint", text: groupBy === "origin" ? SR_ORIGIN_HINT[k] : SR_HINT[k] }));
+        g.appendChild(sm);
+        SR_ORIGINS.forEach(function (o) {
+          var part = list.filter(function (r) { return srOrigin(r.d) === o; });
+          if (!part.length) return;
+          var sh = h("div", { class: "sr-sub-h " + o, text: SR_ORIGIN_LABEL[o] + " (" + part.length + ")" });
+          g.appendChild(sh);
+          var sul = h("ul", { class: "sr-grid" });
+          part.forEach(function (r) { sul.appendChild(card(r)); });
+          g.appendChild(sul);
+        });
+        wrap.appendChild(g);
+      });
+      if (!shownAny) wrap.appendChild(h("p", { class: "sr-empty", text: "No sources match that search or filter." }));
+    }
+    sync();
+  }
+  function renderSourcesRead() {
+    var box = $("src-read"), body = $("src-read-body"), md = (window.COURSE_SOURCES || {})[cur], map = (window.COURSE_SOURCEMAP || {})[cur];
+    body.textContent = "";
+    var hasRows = map && (map.books.length || map.pages.length);
+    if (!md && !hasRows) { box.hidden = true; return; }
+    var badge = $("src-read-n");
+    if (hasRows) {
+      renderSourceTable(body, map);
+      var nSrc = map.books.length + map.pages.length;
+      badge.textContent = nSrc + " source" + (nSrc === 1 ? "" : "s");
+    } else badge.textContent = "";
+    if (map && map.standard) {
+      (map.sections || []).forEach(function (sec) {
+        if (!sec.items.length) return;
+        var det = h("details", { class: "sr-sec" });
+        det.appendChild(h("summary", { text: sec.title + " (" + sec.items.length + ")" }));
+        var ul = h("ul");
+        sec.items.forEach(function (it) { var li = h("li"); srInline(li, it); ul.appendChild(li); });
+        det.appendChild(ul); body.appendChild(det);
+      });
+    } else if (md) {
+      if (hasRows) {
+        var det2 = h("details", { class: "sr-sec" });
+        det2.appendChild(h("summary", { text: "Full notes on the other sources" }));
+        renderLegacyMd(det2, md); body.appendChild(det2);
+      } else renderLegacyMd(body, md);
+    }
+    box.hidden = false;
+  }
+
+  function renderAll() {
+    if (!cur) { renderHome(); return; }
+    renderTop(); renderLedger(); renderSeries(); renderSyllabus(); renderLecturers(); renderModules(); renderLibs(); renderRes(); renderReview(); renderModuleView();
+    renderFaq($("course-faq"), ((window.COURSE_FAQ || {})[cur] || []).concat((window.COURSE_FAQ || {}).library || []));
+    renderSourcesRead();
+    $("stamp").textContent = "Archive data updated " + fmtDate(A.updated) + ". " + local.length + " entries stored in this browser.";
+  }
+
+  $("lf").addEventListener("submit", onSubmit);
+  $("f-lib").addEventListener("change", refreshMods);
+  $("f-kind").addEventListener("change", syncKind);
+  $("f-metric").addEventListener("change", function () { var u = presets()[$("f-metric").value.trim()]; if (u && !$("f-unit").value) $("f-unit").value = u; });
+  $("lf-kind").addEventListener("change", function (e) { state.kind = e.target.value; renderLedger(); });
+  $("series-pick").addEventListener("change", function (e) { state.series = e.target.value; renderSeries(); });
+  $("res-mod").addEventListener("change", function (e) { state.rmod = e.target.value; renderRes(); });
+  $("b-json").addEventListener("click", function () { download("education-ledger.json", "application/json", JSON.stringify(local, null, 2)); });
+  $("b-csv").addEventListener("click", exportCsv);
+  /* Full backup: every "eda." key in this browser (ledger, review schedule, notes, ticks, slide positions) for all courses. */
+  $("b-backup").addEventListener("click", function () {
+    var keys = {};
+    try { Object.keys(localStorage).forEach(function (k) { if (k.indexOf("eda.") === 0) keys[k] = localStorage.getItem(k); }); } catch (e) {}
+    download("loa-backup-" + today() + ".json", "application/json", JSON.stringify({ app: "loa-backup", version: 1, saved: new Date().toISOString(), keys: keys }, null, 1));
+  });
+  /* Restores a "Back up everything" file. Used by the Ledger button in a course and by the Import a save section on the home page. */
+  function restoreBackup(f) {
+    if (!f) return;
+    var r = new FileReader();
+    r.onload = function () {
+      var data; try { data = JSON.parse(r.result); } catch (x) { data = null; }
+      if (!data || data.app !== "loa-backup" || !data.keys || typeof data.keys !== "object") { window.alert("That file is not a Library of Alexandria backup."); return; }
+      var names = Object.keys(data.keys).filter(function (k) { return k.indexOf("eda.") === 0 && typeof data.keys[k] === "string"; });
+      if (!window.confirm("Restore " + names.length + " saved items from the backup made " + String(data.saved || "").slice(0, 10) + "?\n\nThis replaces the same items in this browser. Items not in the backup are kept.")) return;
+      try { names.forEach(function (k) { localStorage.setItem(k, data.keys[k]); }); } catch (x) { window.alert("This browser would not keep the restored data."); return; }
+      window.location.reload();
+    };
+    r.readAsText(f);
+  }
+  $("b-restore").addEventListener("change", function (e) {
+    var f = e.target.files && e.target.files[0]; e.target.value = ""; restoreBackup(f);
+  });
+  $("h-restore").addEventListener("change", function (e) {
+    var f = e.target.files && e.target.files[0]; e.target.value = ""; restoreBackup(f);
+  });
+  $("v-close").addEventListener("click", closeDeck);
+  $("cm-close").addEventListener("click", closeCourse);
+  /* Clears this course's progress only: ticked modules and challenges, quiz and ledger entries for it,
+     saved slide positions, reflections and the review schedule. Other courses are untouched.
+     A JSON backup of the course's ledger entries downloads first. */
+  function resetCourse() {
+    if (!cur) return;
+    var name = (FULL.libraries.filter(function (l) { return l.id === cur; })[0] || {}).subject || cur;
+    if (!window.confirm("Reset progress for \"" + name + "\"?\n\nThis clears ticked modules and challenges, quiz scores, saved slide positions, reflections and the review schedule for this course. A backup of its ledger entries downloads first.")) return;
+    var mine = local.filter(function (e) { return e.library === cur; });
+    download(cur + "-backup.json", "application/json", JSON.stringify(mine, null, 2));
+    local = local.filter(function (e) { return e.library !== cur; });
+    saveLocal();
+    try {
+      Object.keys(localStorage).forEach(function (k) {
+        if (k.indexOf("eda.pos." + cur + "-") === 0 || k.indexOf("eda.refl." + cur + "-") === 0 || k === "eda.srs." + cur) localStorage.removeItem(k);
+      });
+    } catch (e) {}
+    srsSess = null;
+    renderAll();
+  }
+  $("cm-reset").addEventListener("click", resetCourse);
+  /* The chart measures its width, so draw it again when the Data dropdown opens. */
+  $("data-dd").addEventListener("toggle", function () { if (this.open) renderSeries(); });
+  $("mv-close").addEventListener("click", closeModule);
+  $("mv-lib").addEventListener("click", function () { closeModule(); closeCourse(); });
+  $("mv-prev").addEventListener("click", function () { var n = neighbour(-1); if (n) { openModule(n, mv.opener); } });
+  $("mv-next").addEventListener("click", function () { var n = neighbour(1); if (n) { openModule(n, mv.opener); } });
+  $("v-prev").addEventListener("click", function () { step(-1); });
+  $("v-go").addEventListener("change", function (e) { view.i = Number(e.target.value); renderSlide(); });
+  $("v-next").addEventListener("click", function () { step(1); });
+  $("v-fs").addEventListener("click", fullscreen);
+  $("b-import").addEventListener("change", function (e) { if (e.target.files[0]) importJson(e.target.files[0]); e.target.value = ""; });
+
+  var rz;
+  function refitAll() { document.querySelectorAll(".slide").forEach(function (sl) { if (CE && CE.fit) CE.fit(sl); }); }
+  window.addEventListener("resize", function () { clearTimeout(rz); rz = setTimeout(refitAll, 120); });
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(refitAll);
+  renderHome();
+  var m0 = /^#course=(.+)$/.exec(location.hash || "");
+  if (m0 && FULL.libraries.some(function (l) { return l.id === decodeURIComponent(m0[1]); })) openCourse(decodeURIComponent(m0[1]));
+})();
+</script>
+</body>
+</html>

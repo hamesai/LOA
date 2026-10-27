@@ -1,0 +1,559 @@
+Chapter 17: Production Roles and Set Procedures
+
+od bp wae aa 4a =” % T-stop. Lighting is much more complex because it is like lighting for multiple cameras with very different positions: it is very difficult to make the lighting work well for both cameras and hide all the equipment. As a result the lighting often has to be compromised and simply isn’t as good as it might have been.
+
+Long, complex shots are exciting to conceptualize and great fun when they are completed successfully. Also it sounds so quick and convenient to just “go ahead and get the whole thing in one shot.”
+
+The problem is that almost inevitably, the shot gets cut up into pieces anyway, with inserts, close-up or other coverage. This means that time and effort spent to accomplish it were largely wasted.
+
+Unless you absolutely know that the continuous take will be used, it is usually better to break it up into logical pieces. The director might also ask for special effects such as higher or lower shutter speeds, certain filtration effects and so on. Ideally, the director should arrive on the set with a complete shot list. This is a list of every shot and every piece of coverage needed for the scenes on that day’s shooting. Some directors are extremely well prepared with this and others let it slide after the first few days, which is a mistake.
+
+It is true that shot lists are often deviated from, but they still provide a starting point so that everyone in all departments ts headed in the same direction.
+
+THE SHOT LIST
+
+The shot list serves a number of functions. It lets the DP and the assistant director better plan the day, including possibly sending off some electricians and grips to pre-rig another location. It also helps the DP in determining what film stock should be used, what additional equipment should be prepped and how much time is reasonably allowable to light and set the shot within the constraints of what needs to be done that day. Even if the shot list doesn’t get followed step by step, it will often at the very least provide a clue as to what style of shooting the director wants to employ — is it a few simple shots for each scene or detailed and elaborate coverage or perhaps a few “bravura” shots that emphasize style and movement and unusual camera positions?
+
+In addition, it is very helpful in serving as a reminder for the director, the DP. the assistant director and the continuity person so that no shots or special coverage are missed. One of the gravest production errors a director can make is to wrap a set or location without getting everything needed. Reshoots are very expensive and there is always the possibility that the location or the actors will not be available to correct this mistake. Although all these people assist in this, it is the director’s fundamental responsibility to “get the shots.” This is far more important than being stylish, doing fancy moves, etc. None of these matter if scenes are not completed and usable.
+
+14.4. A time slicing rig on the move.
+
+set operations Even if not a formal shot list, some directors will charge the script supervisor with keeping a list of “must haves.” This is especially useful for cutaways or inserts that might easily be forgotten. It is also helpful for “owed” shots. “We owe a POV shot from the window,” is a way of saying that there is a shot that is part of this scene that we are not shooting now but we have to pick it up sometime while at this location.
+
+THE DIRECTOR OF PHOTOGRAPHY
+
+The DP is primarily responsible for giving the director what she wants and also accomplishing the photographic style they have agreed on. Every director has a different style of working: some will be very specific about a certain look they want and exact framing while others want to focus on working closely with the actors and staging the scenes and leave it to the DP to decide on exact framing, camera moves and the lighting style. filtration. ete.
+
+Ultimately the director is the boss: he or she may work in whatever fashion they wish. A truly professional DP should have the flexibility to work with a director in whatever manner they choose. It is important to discuss this before shooting starts and if the DP isn’t comfortable with how a director wants to work, the time to bow out is as early as possible. Ultimately it is up to the DP to deliver for the director the kind of look and visual texture he or she is looking for and ensure that the director and editor have all the footage they need and that it is all editorially usable.
+
+The DP’s responsibilities are numerous. They include: * The look and feel of the lighting.
+
+* Communicating to the gaffer and key grip how the scene is to be lit: specific units to be used, gels, cuts with flags, silks, overheads, diffusion, ete. Directing and supervising the lighting process.
+
+* Coordinating with the production designer, wardrobe, makeup and effects people concerning the overall look of the film. * Filtration on the camera.
+
+* Lenses: including whether to use a zoom or a prime lens (though this may sometimes be the director’s call).
+
+* If HMIs are used, insuring that there are no flicker problems (sce the chapter on lighting).
+
+* Being constantly aware of and consulting on issues of continuity: crossing the line, screen direction, etc. (see the chapter on continuity).
+
+* Being a backstop on insuring that the director hasn’t forgotten specific shots needed for good coverage of the scene. * Supervising his team: the camera assistants, the electricians and the grips.
+
+* Watching out for mistakes in physical continuity: clothing. props, scenery, etc. This is primarily the job of continuity and the department heads, but the eye looking through the lens is often the best way to spot these things.
+
+* Specifying the film stock to be used and any special processing.
+
+* Determining the exposure and informing the first AC what T-stop to use.
+
+* Ensuring that all technical requirements are in order: correct film speed, shutter angle, ete.
+
+Typically, when starting to light and set up a new scene, the assistant director will ask for an estimate of how long it will take to be cinematography ready to shoot. This is not an idle question and it is very important to give an accurate estimate. The AD is not just asking this to determine if the company is on schedule, there is another important consideration. She has to know when to start putting the actors “through the works.” This means sending them through make-up, wardrobe and any special effects such as blood squibs.
+
+Many actors do not appreciate being called to the set a long time before the crew is ready to shoot and in addition, if they have to wait, their makeup might need to be redone, the wardrobe might need attending to, etc. It may also affect the timing of rigging special effects, the arrival of special equipment such as water trucks and so on.
+
+THE TEAM
+
+The DP has three groups of technicians they are directly responsible for: the camera crew, the electricians and the grips.
+
+CAMERA CREW
+
+Typically on a feature or commercial the camera crew will consist of the camera operator, the First AC (assistant camera), the second AC, and the third AC or loader. If multiple cameras are used there will be more required and on very small productions or industrials the crew might be as small as a first and a second. Producers often question the need for a loader, but it is always your responsibility to remind them that if the camera crew is not sufficiently staffed. the production will be slowed down as the second has to frequently leave the set to load magazines (Figures 14.3 and 14.4).
+
+Operator
+
+The operator is the person who actually handles the camera: pans and tilts, zooms, coordinating with the dolly grip on moves. As she operates, she must always frame the shot as the director has called for. make the moves “smooth” and also be looking for any problem that might ruin the shot. Typical problems include the microphone dipping into the frame, lens flares, a piece of equipment visible in the frame, reflections in windows or mirrors of the crew or equipment, missed focus, a bump in the dolly track, and so on. Almost everyone uses a video tap these days, but the image on the monitor is never good enough to see everything. In addition, the director will probably be so focused on the actor’s performance that small problems will not be seen. The person actually looking through the lens has the ultimate responsibility for this.
+
+It is essential that the operator immediately report any problems.
+
+For example, if the sound boom gets into the shot, the operator should immediately call out “boom” loudly enough for both the boom operator and the director to hear. It is up to the director to decide whether to cut the shot or continue filming knowing that most of the shot is still usable or there will be coverage. This practice will vary from set to set; some directors, especially on larger budget projects may want it reported only after the shot.
+
+On smaller projects, there will be no operator and the DP will operate the camera. Although many DPs prefer to operate, it does take time and concentration away from the other duties. On union projects it is absolutely forbidden for the DP to operate. Under the English system (also used in a number of other countries) the distinction is even more dramatic. In this way of working the DP is only responsible for lighting the scene (they are occasionally listed in the credits as “lighting cameraman”). It is often the operator who receives orders from the director about camera moves, dolly moves, focal length, etc. This applies to features only, of course. set operations 14.5. An AC cart — the camera department’s rolling headquarters.
+
+(Photo courtesy of Backstage Equipment.)
+
+cinematography 246
+
+First AC
+
+The first AC is also known as the focus puller. The first is the crew member who directly works with the camera. Duties include: * Loading magazines on the camera.
+
+* Ensuring that the camera operates properly.
+
+* Checking for hairs in the gate before any scene is wrapped. * Guarding against flares, light leaks and any other problems. * Setting the T-stop. Also, frame rate and shutter angle. * Measuring the focus distances.
+
+* Controlling focus so that the proper parts of the scene are sharp.
+
+* In some cases operating the zoom control (this is often done by the operator using a zoom control mounted on the handle).
+
+* Moving the camera to the next setup, with the help of the other AC’s and sometimes the grips.
+
+* Guarding the camera against damage or malfunction. * Making sure the proper film stock is loaded.
+
+* Calling out the footage so that the second AC can note it on the camera report.
+
+Focus may be determined by measuring or by eye. Measuring is generally done in two ways. Most cameras have a mark on the side that identifies the exact position of the film plane. Positioned precisely above that is a stud that the AC can hook a cloth measuring tape onto and measure the exact distance to all the objects that will be focused on. Most AC’s also carry a carpenter’s metal measuring tape. either 1“ or 3/4” wide. This is useful for quick checks before close in shots. The metal tape extends out quickly and the AC can make last minute measurements in case something has moved.
+
+The third method is eye focus. This can be done with either the operator and the AC’s or by the first AC himself. Someone, either the actor, a stand in or the second AC goes to each of the key positions. The operator looks through the viewfinder and focuses. The first AC then marks it on the dial of the focus mechanism.
+
+For critical focus it may be necessary for the second to take the top off a small flash light (Maglight). The exposed bulb provides an accurate and fast focus point that can be used even in low light situations. For complex dolly shots, the first may make tape marks alongside the dolly track, thus knowing that at a specific point he ts x number of feet and inches away from the subject. The last component can only be described as “zen.” Good AC’s are uncanny in their ability to visually judge distance and make adjustments on the fly.
+
+The first AC is also the one who goes to the check-out. Check-out is usually the day before shooting starts. At checkout the first: * Checks that all equipment ordered is there.
+
+* Checks every piece of equipment for proper operation. * Tests the magazines for jamming or scratching.
+
+* Tests the camera for jamming or scratching.
+
+* Makes sure the proper ground glass is in the camera and that it is properly seated.
+
+* Cleans anything that needs it: lenses, groundglass, the mirror shutter, ete.
+
+* Checks that all batteries are fully charged.
+
+* [If there are multiple cameras, labels each case appropriately (e.g.. “A camera,” “B camera,” etc.) Usually, different colors of camera tape are used for this.
+
+Good ACs will always go through a mental ritual before every shot; is the T-stop properly set, is the focus prepared, is the camera set at the right speed and are their any flares? It is best to do it in the same order every time for consistency. In previous times this checklist was remembered as FAST: focus, aperture, speed and tachometer. Most cameras no longer have tachometers, but they do have frame rate controls which must be checked regularly. It takes no more than the errant flip of a switch to change the speed from 24fps to 23 or 25fps.
+
+The first should also keep track of how much footage ts used on the first take and then check to make sure there is enough stock left to get all the way through another take of the same shot. It can be very frustrating for the director and the actors to roll out in the middle of the take.
+
+As soon as the director announces she is through with the scene, the first AC immediately checks the gate. This is to ensure that a hair or other piece of junk has not crept into the film gate and thus ruined the shot. Anything like this would not be visible through the eyepiece and if something is in there, everyone must know immediately so that it can be reshot. There are three ways of doing it. One ts to look into the lens from the front. This can be difficult with zooms because there is so much glass between your eye and the gate. The second is to open the camera and gently lift the film up and examine the gate. Many ACs don’t like this method because there is a possibility that something was there, but lifting the film moved it. The most reliable method is to pull the lens and look at the gate.
+
+Second AC
+
+When the DP call for a lens change, filter or any other piece of equipment, it is the second who will bring it from the cart (Figure 14.5) or the truck, The second assistant camera is also sometimes referred to as the clapper or the clapper/loader, especially in the UK. This is because on of her main duties is to operate the slate or clapper as It 1s sometimes called. The slate serves several functions. First, it allows the editor or video transfer person to coordinate the visual image of the stick coming down with the audio of the “clap,” thus achieving sound syne.
+
+The slate also identifies the scene number, the take number and the roll number. It will also identify a scene as day - interior, night - exterior, etc. The reason for this is that the timer at the lab or the video transfer person needs to know the general type of look the scene should have. It should also indicate whether a shot is syne sound or MOS.
+
+The slate will also indicate any effects such as different frame rates.
+
+In the case of multiple cameras, each one may be slated separately or one slate might serve them all, which is called **common marker.” A variation on this is to “head slate” each camera with their individual roll number, frame rate and other information and then use a simple clapper or timecode slate to clap all cameras together. This insures the proper data for each camera but saves film by providing a single marker for all. The head slate need not be continuous; just roll offa few frames and then turn off the camera. This is called “bumping” a slate.
+
+Slating Technique
+
+At the time the AD calls “roll camera” and the AC announces “speed” (that the camera is up to syne speed), the second holds the slate where it is in focus and readable and announces the scene and take number so that it will be recorded on the audio tape. She then slaps set operations cinematography the top stick down sharply so that the clap is clearly audible on the audio. She then quickly gets out of the way. In case adjustments are necessary, such as changing focus from the slate to the scene, the operator will call out “set” and the director can then call for “action.”
+
+Older slates could be written on with chalk. Most slates today are white plastic and an erasable marker is used. ACs tape a makeup powder puff to the end of the erasable marker; that way they will be conveniently together in one piece for both marking and erasing.
+
+This is referred to as the “mouse.”
+
+In some cases, it is not desirable to slate before the shot. This might include filming with an infant where the clapper might frighten them. In such instances a tail slate can be used. A tail slate comes at the end of the shot and must be done before the camera is switched off or it can’t be used for synchronization, For tail slates, the slate must be held upside down. The clapper is still used.
+
+Tail slates should be avoided at all costs. It is time consuming and expensive for the telecine operator or editor to roll all the way to the end of the take, syne up and then roll back to the beginning to lay the scene in. Another reason is that it is very easy to forget at the end of the take and switch off the camera before the slate comes in.
+
+It is also important to note the tail slate on the camera report. In the case of shooting without syne sound, everything is the same except that the clapper is not used. It may be necessary to open the clapper slightly on a timecode slate for the numbers to be visible and running but it is important not to clap it. [F you do, the editor may spend time looking for an audio track that does not exist.
+
+Timecode slates Timecode slates include the usual information but also have a digital readout of the timecode which will match the timecode being recorded on the audio tape: they are also called “smart slates.” Timecode slates make syncing up much quicker and cheaper and particular shots are more readily identified. The reason it is faster and cheaper in telecine is that the colorist rolls the film up to the frame which has the clapper syne on it. She then reads the timecode numbers that are displayed and types them in. The computer controlled audio playback deck then automatically rolls up to the correct point to lay in sync. Having the deck find it automatically is significantly faster than manually searching — and telecine time is very expensive. If there is not sufficient pre-roll for the timecode on the audio tape or if the slate is unreadable, then this automation fails and syne must be set up manually.
+
+The clapper is still used on timecode slates. When the clap stick is up, the timecode will be displayed as it is running. When the clapper is brought down, the timecode freezes, thus indicating the exact timecode at the time of slating. An additional feature of Denecke timecode slates is that after the syne timecode freezes for a moment, today’s date displays briefly. This helps keep things organized in post. The date can be set up to read in a variety of ways.
+
+The timecode is generated by the audio recorder and the slate must be “jammed” at the beginning of every day and periodically throughout the day. Jamming is done by connecting the slate to the recorder, which then transfers the timecode it is generating. Since there is a tendency for the code to drift, this must be redone throughout the day. Some slates will also display a message when they determine that jamming is necessary. Usually it says, “feed me.”
+
+The second must be aware of the focal length of the lens and then estimate the proper distance at which to hold the slate. The slate must be readable and in focus; otherwise it will cause problems in syncing and for the editor who is trying to identify the shot.
+
+Ideally, the slate must be as close to the focus distance as possible, thus eliminating the need to refocus after slating, however, this 1s not always possible. Another subtlety is that if the slate is held right in front of the actor’s face, the clap should be as gentle as possible in order not to throw the performer’s concentration off.
+
+One variation of this is used when multiple cameras are continu ously shooting a big event such as a concert. In this case it is often wise to position a continuously running timecode slate (preferably hardwired to the recorder) where every camera can pan over and see it. Then, when a camera has to stop to reload, as soon as it starts up again, the operator pans over, shoots a few seconds of running timecode and then pans back to the action.
+
+’ Camera Reports
+
+In addition to slating, the second will also maintain the camera reports (Figure 14.6). The camera report will include some general information:
+
+* Name of production company.
+
+* Title of the project.
+
+* Insome cases the production number.
+
+* Name of director.
+
+* Name of DP.
+
+* Insome cases the purchase order number.
+
++ Sometimes, as a courtesy, the film lab will pre-print this information on a batch of camera reports.
+
+Then, the information gets more specific to this roll of film: « Camera number or letter (A camera, B camera, etc.) + The magazine number (very important if you are later trying to identify which of the mags is scratching or jamming). * Roll number of the film stock loaded.
+
+* Date exposed.
+
+* Raw stock type used.
+
+* Scene number.
+
+* Take number.
+
+* Footage used for each take, usually referred to as the “dial.” * Whether a shot was with sound or “MOS.”
+
+* Circle takes: the take number of shots the director wants to be printed are circled.
+
+* Remarks.
+
+* Inventory: the total amount good footage (G), no good (NG) and waste (W), * The total amount shot when the mag is downloaded. For example, “Out at 970.”
+
+A simpler type of camera report is used when a camera crew Is working alone, such as in industrials, documentaries, etc. It is called a caption sheet. Camera reports are always three sheets and writing on the top sheet is transferred to the second two. The top sheet is white. This copy is folded and securely taped to the film can when the roll is finished. The second sheet is usually yellow. It is given to the production manager or first AD who then passes it on to the editor. The third sheet is retained by production for reference in case there are any problems. In some cases there may be additional sheets for other departments such as the production coordinator.
+
+Standard procedure is for the loader to fill in as much of the infor- Crest National Film - Video @ fim tsherstery —-Videw Tupa Services 1a) Neat Seer 722.466.0624 Tel !
+
+Motlpeoud, CA F0T35 372.461.8701 Fox e.
+
+723.467.4696 Tel 1800.96)
+
+720.442.5077 foe BOOM LARS e camera report “2 18880 .
+
+ocmoss reoonss oer OO ATCO a corpery wh cecal oth a ecmermarcing at sin Saieeoed oes To congary aoe mary Samenery Ema ee Me ey HE oom ‘See reverse cide tor Terms & Conditions 14.6. A typical camera report.
+
+set operations 14.7. (below) Types of toemarks.
+
+14,8. (bottom) Each place where an actor must stop is marked. Giving each actor their own color helps avoid confusion.
+
+70
+
+00 cinematography 250 cl ( NJ hrerrriectiate sath mation as possible and then tape the camera report to the mag before it is delivered to the set. When the mag is loaded onto the camera, the second will usually then tape the report to the back of the slate for convenience. After each take the second will then ask the first for the “dial”: the cumulative footage shot as displayed on the counter.
+
+This is always rounded off to the nearest ten and only the first two numbers are given: e.g., “97” rather than “970.”
+
+The second is also responsible for providing the first with whatever he needs, most importantly the lens that is called for, fresh magazines, lens shades, charged batteries and different tripods or other mounting equipment. The equipment, especially the lenses, are under his care and he must safeguard them at all times. Once the camera Is set up on the dolly, sticks or high-hat, the first AC or one of the other camera crew members should never be more than “two arms lengths away” from the camera.
+
+Often the first AC and the DP are in places they can’t easily leave, such as the top of a ladder, or more importantly on a crane. As was discussed in the chapter on Camera Dynamics, it is absolutely critical that no one step off the crane until the grips have rebalanced it. Doing so can result in serious injury and damage. Generally, the second will have some sort of camera cart that he will roll as close to the set as possible so that all equipment is readily available.
+
+If there is one, the third AC or loader assists the second in maintaining the equipment, making sure it is available. She will also generally be the person running mags, batteries and other equipment back and forth from the camera truck or central camera location.
+
+The second also handles all marking of actors. Once the actors’ exact positions are determined by the director in the blocking rehearsal, the second quickly and quietly moves in and makes marks.
+
+Most often marks are made with camera tape or 1” paper tape, either with a “T” indicating where the actors’ toes must end up or with an open ended box for each foot. If there are several actors in the scene. colored tape is used to identify each one (Figures 14,7 and 14.8).
+
+The most difficult situation is where the floor or ground is visible in the shot. In this case, ingenuity is called for. Outdoors a natural object such as a twig can be used. Indoors sometimes a small piece of black tape won’t be obtrusive. In other cases, the actor must take a visual cue such as: “You end up exactly opposite the end of the pool table.” The simplest form of emergency mark is the “spit mark” which needs no explanation.
+
+As the old saw goes the only two things an actor has to do is know their lines and hit their marks (or as Spencer Tracy put it, “not bump into the furniture”), Especially when focus is critical or a dolly move or crane move has to be coordinated, it is extremely important that the actor hit the marks. If she doesn’t. there’s a good chance that the shot will be out of focus or the camera move won’t work. A good AC can sometimes compensate by making a mental judgment of how far back or forward they are and adjust the focus, but this isn’t always possible. As soon as the shot is over and the first AC has checked the gate and announced it clean, the second should remove all the marks so they don’t confuse anyone later or accidentally appear in another shot.
+
+Loader
+
+The loader may be the low man on the totem pole, but her responsibility is a critical one: she must safeguard and properly handle the film stock. Not only is film stock very expensive but if it is accidentally exposed to light and the loader doesn’t report it, the company might end up shooting several scenes which will then be unusable.
+
+One prime rule applies to not only the loader, but the entire camera crew: if you make a mistake, report it to the DP immediately. The DP must then inform the director that the scene might need to be reshot. If something happens, don’t try to hide it and don’t hesitate, even if it will make you look really stupid. You must report it. Mistakes happen and being honest counts for far more with most DP’s than the occasional error.
+
+The exact procedures for loading are beyond the scope of this book, but are available in books dealing with being a camera assistant.
+
+The loader also keeps extensive paperwork on the film stock inventory. These reports are beyond the scope of this book, but there are several excellent books on camera assisting which describe them in detail.
+
+ELECTRICIANS
+
+The electric crew carries out the DP’s instructions on lighting. The crew consists of the gaffer (the head of the crew), the second electric and at least one other electrician. As the job gets larger the number of electricians must increase. An inadequate crew slows the entire production down. The gaffer is also sometimes referred to in the credits as Chief Lighting Technician. In England, electricians are called “sparks.” The DP gives his orders to the gaffer who then instructs the electricians what to do. It is important that the gaffer always be nearby the camera. The DP should never have to spend time looking for him. This, of course, applies to the key grip or dolly grip as well.
+
+The gaffer’s chief assistant is the second electric, also called the best boy electric or assistant lighting technician. The second has three main duties: maintaining and overseeing all the equipment, supervising everything to do with electricity and directly supervising the crew. On location the second will spend a lot of time on the truck organizing and maintaining the equipment so that it will always be ready for use.
+
+The second designs the layout of the distribution: the location of the generator, the size of the cables to suit the total load, where runs will break off, where distribution boxes will be placed, etc. Important duties include checking that the power supply, cables and distribution equipment are not overloaded, that the generator is running properly and supplying the correct voltage. With HMIs it is also critical to check that the generator is running at the proper frequency (see Technical Issues). In the United States it is 60 hertz and 50 hertz in many other countries. The second also supervises the crew to ensure they are being put to best use and working efficiently. The electricians do most of the actual work of bringing lights to the set, putting them in position, getting them to the height required by the DP, adjusting the barn doors, adding scrims if needed and plugging them in after checking with the second to make sure they don’t overload a circuit. Adding gels or diffusion is split between the electrics and grips. If the gel is attached to the light or the barndoors, the electricians do it. If it is in a frame and set separate from the light, the grips do It.
+
+GRIPS
+
+The grip crew is headed by the key grip. His assistant is the best boy grip or second grip. Then there is the third grip and whatever additional grips are needed. As with electricians, a three man crew is the minimum for all except the smallest jobs. There may be a dolly grip whose sole responsibility is to push the dolly. It sounds simple but a good dolly grip is a real artist: timing the move exactly, hitting the marks and keeping everything smooth, set operations 25:1
+
+14.9. A grip cart; sometimes called a taco cart. Mobility is the name of the ga me and keeping the essentials nearby is critical — the last thing a DP wants to hear is “it’s on the truck.”
+
+(Photo courtesy of Backstage Equipment.)
+
+cinematography 252
+
+The grips have a wide range of duties:
+
+* The grips handle all C-stands, high rollers, ete., and whatever goes on them: nets, flags, frames, etc. This includes any form of lighting control or shadow making which is not attached to the light itself (Figure 14.9).
+
+* They also handle all types of mounting hardware, specialized clamps of all types which might be used to attach lights or almost anything else anywhere the DP needs them * They handle all “bagging.” Once a light is set, the grips bring as many sand bags as are necessary to secure and stabilize it.
+
+They may also have to tie it off or secure it in another way in windy or unstable conditions.
+
+* They deal with all issues of leveling, whether it be lights, ladders or the camera. Their tools for this are apple boxes. cribbing, step blocks and wedges.
+
+* They handle all dollies, lay all dolly track and level it. Also any cranes are theirs to set up and operate. This is especially critical when a crane is the type that the DP and first AC ride on. Once they are seated, the crane grip then balances the crane by adding weights in the back so that the whole rig can be easily moved in any direction. Once this has been done. it is absolutely critical that no one step off the crane until the grips readjust the balance. Stepping off would make the front too light and the crane would shoot up, possibly injuring someone or damaging the camera. Deaths from crane accidents are not uncommon; everyone must be on their toes and very focused when working with a crane.
+
+* The grips are also in charge of rigging the camera if it’s in an unusual spot, such as attached to the front of a roller coaster, up ina tree. etc.
+
+* The grips build any scaffolding, platforms or other rigs necessary for camera rigs or other purposes. They may assist the stunt men in building platforms for the air bags or mounts for stunt equipment. Any other small construction project that doesn’t call for set builders is in their purview as well. * The grip crew and the key grip in particular are in charge of safety on the set, outside of anything electrical.
+
+This is the U.S. system: in other countries it is handled differently, the primary difference being that the electricians handle all lighting related issues such as nets and flags, ete.
+
+OTHER UNITS
+
+Three other types of teams will also be under the DP’s control: second unit, additional cameras and rigging crews. Second unit is an important function. Usually it is used for shots that do not include the principal actors. Ty pical second unit work includes establishing shots, crowd shots, stunts or special effects and insert shots. Shots that include significant lighting are not generally considered for second unit, except in the case of special effects (F igure 14.10)
+
+Second unit may be supervised by a second unit director, but 0 often the team consists only of a second unit DP, one or two camera assistants and possibly a grip. It is the duty of the second unit DP to deliver the shots the director asks for in accordance with the instructions and guidance of the director of photography. The shots must be in a style that is consistent with the principal photography. It will often be up to the DP to specify what lenses are used, film stock and camera filtration. It is the DP’s name that is listed on the credits as the person responsible for the photography of the film; the audience and the executives will not know that a bad shot or a mistake is due to the second unit. In light of this responsibility it is standard practice for the DP to have a say in who the second unit cameraperson Is.
+
+In the case where additional cameras are used in principal photography, they are designated “B” camera, “C” camera and so on. On a big stunt which cannot be repeated such as blowing up a building, it is not uncommon for a dozen or more cameras to be used. Some are used as a back-up to the main camera in case of malfunction, some are just to get different angles, some run at different speeds and some are “crash cams,” small expendable cameras that can be placed in dangerous positions.
+
+In slating with multiple cameras, there may be a separate slate for each camera, clearly marked as “A” or “B” slate. The slating AC then calls out “A marker” or “B marker” and claps the slate for that camera. Naturally, separate camera reports are kept for each camera.
+
+An alternative is to use a common marker. This is possible where all cameras are aimed at approximately the same part of the scene or where one camera can quickly pan over to catch the slate, then pan back to the opening frame. If this is the case, then the director must wait for all operators to call “set” before calling “action.” Calling out “set” should be standard procedure in any case where the slating can’t be right where the camera is ready for the opening frame, if the Ist AC has to refocus or another adjustment needs to be made. In the case of additional cameras, there is only one DP and the rest of the cameras are run by additional operators. Ideally, each additional camera should have its own AC and perhaps its own second AC.
+
+In some cases, cameras are “locked off,” usually because it is simply too dangerous to have an operator in that position. In these cases the camera is mounted securely, the frame is set and the focus and T-stop are set. They are then either operated by remote switch or as roll is called, an AC switches on the camera and runs to safety.
+
+Protective metal housings, called “crash boxes,” may be used if their is danger to the camera. Protective Plexiglas or pieces of plywood with a small hole for the lens might also be used.
+
+Motion picture and video production can be a dangerous business and safety must be taken extremely seriously. We are often under pressure to push the edge because a shot is important or time is of the essence. In such cases, stay cool and remind everyone: “It’s only a movie.” Traditionally the key grip is the general safety officer on a set and the gaffer is in charge of safety concerning electricity and fire. Either of these have the duty and the obligation to assess a situation as too dangerous and say, “Sorry, we’re not doing this.” The DP has the same obligation especially as regard cranes, camera cars, helicopter shots, ete.
+
+COORDINATING WITH OTHER DEPARTMENTS
+
+Besides his own crew, the DP must also coordinate with other crew members. The first is the production designer. If sets are being built or extensively dressed, it is essential that the DP look at them while they are still in plans or sketches, not after they are built. The DP will discuss with the designer what lighting opportunity will be part of the set. These include windows, skylights, doors and other types of places to hide lights or bring light into the set.
+
+Also to be discussed are the practicals, that is, working lights that are part of the set, whether they are hanging lamps, wall sconces or table lamps. A good set dresser will usually have a couple of spare table lamps or hanging lights on the truck. These can be invaluable either as a lighting source themselves or as a “motivator” of light.
+
+14.10. A second unit shot on the film Event Horizon. (Photo courtesy of Mark Weingartner.)
+
+set operations cinematography 25+
+
+The situation may call for “wild walls.” which are walls or other pieces of the set which can be easily removed to make room for the camera, dolly track and other equipment. Finally, it is important to consider not only the set, but how it will be positioned on the stage.
+
+There might be a window or glass wall that would be a great lighting opportunity, but if it is only a few feet away from the wall of the stage, it may be difficult or impossible to use it. On the set, the DP is in constant communication with the assistant director concerning the schedule, how much time is left before the actors go into overtime, what scenes are left to do, etc. Being the first AD is one of the most stressful jobs in the industry; a good one a real treasure, Before the shooting begins the AD makes the schedule indicating what scenes will be shot on what days and a one liner, which is a one line description of each scene. The schedule also indicates whether scenes are day or night, interior or exterior whether the day scenes are to be shot during the day or night and vice-versa. This is essential for the DP in planning what equipment and supplies will be needed.
+
+At the beginning of each day, a production assistant or second AD will hand out “sides.” These are copies of the script pages to be shot that day which have been reduced to a quarter of a page, so that they can be easily slipped into a pocket. The sides are the “bible” for the day. Of all the principles of filmmaking perhaps the most important of all is that everyone must know what is going on and is working, as they say, “on the same page.” Communication is the key — nothing can derail a production quicker than poor communication.
+
+During shooting, the DP is under great stress and is thinking about a dozen things at the same time; complete focus and concentration are essential. One of the unwritten rules of filmmaking is that only certain people talk to the DP: the director, of course, the first AD, the first AC, the gaffer and the grip. A working set is no place for idle chit-chat, or as a great AD used to say, “Tell your stories walking.”
+
+SET PROCEDURES
+
+Generally the lighting for the scene will be “roughed in” based on a general understanding of the scene as described by the director. This may range from everything fully rigged and hot for a night exterior to only having the power run for a small interior, Once the DP is ready to begin lighting seriously, the steps of production are reasonably formalized. They are as follows. * The director describes to the DP what shot is wanted first. At this stage it is important to have at least a rough idea of all of the shots needed so there are no surprises later.
+
+* The director blocks the scene and there is a rehearsal. * Marks are set; focus is measured.
+
+* The AD asks the DP for a time estimate.
+
+* The AD announces that the DP “has the set.”
+
+* The DP huddles with the gaffer and key grip and tells them what he wants.
+
+* The electrics and grips carry out the DP’s orders. * The DP supervises the placement of the camera, the lens. ete. * When all is set, the DP informs the AD that he is ready. * The director takes over and stages final rehearsal with the actors in makeup and wardrobe, * If necessary, the DP may have to make a few minor adjustments (especially if the blocking or actions have changed), called “tweaking.” Of course, the less the better, but ultimately it is the DP’s responsibility to get it right, even if there is some grumbling.
+
+* The DP meters the scene and determines the lens aperture.
+
+When ready, he informs the AD.
+
+* The director may have a final word for the actors or camera operator, then announce that he or she is ready for a take. * The AD calls for “last looks” and the makeup, hair and wardrobe people swarm in to make sure the actors are ready in every detail.
+
+* The AC rechecks every detail of camera operation.
+
+- Ifthere is smoke, rain, or fire effects, they are set in motion. * When they are finished, the AD calls to “lock it up,” this is repeated by second ADs and production assistants to make sure that everyone around knows to stop working and be quiet fora take.
+
+* The AD calls “roll sound,”
+
+* The sound recordist calls “speed” (after having allowed for pre-roll.)
+
+* The AD calls “roll camera.”
+
+* The first AC switches on and calls “speed.” (If there are multiple cameras it is “A speed,” “B speed,” etc.)
+
+* The first AC or operator calls “mark it” and the second AC slates, calling out the scene and take number.
+
+* When the camera is in position and in focus the operator calls * When applicable the AD may call “background action,” meaning the extras and atmosphere people begin their activity. * The director calls “action” and the scene begins.
+
+* When the scene is over the director calls “cut.”
+
++ If there are any, the operator mentions problems she saw in the shot and any reasons why another take may be necessary or any adjustments which may make the physical action of the shot work more smoothly.
+
+* [fthere is another take the AD tells the actors and the operator tells the dolly grip “back to one.” meaning everyone resets to position one, * The second AC calls for “dial” (amount of film shot on that take) and makes his notes on the camera report.
+
+* If there is a need for adjustments, they are made and the process starts over.
+
+Some directors prefer that they be the only ones to call cut. Others ask that if something is terribly wrong and the shot is becoming a waste of film, the DP or the operator may call cut and switch off the camera. As mentioned above, the operator will usually call out problems as they occur, such as a boom in the shot, a bump in the dolly track, ete. It is then up to the director to cut or to continue with the shot. If you as the operator are in a mode where you call out problems as they occur, you certainly want to do it between dialog, so that if the director does decide to live with the problems, the sound editor can cut out your comments.
+
+Most directors prefer that no one talk to the principal actors except themselves. For purely technical adjustments about marks or timing, most directors don’t mind if you just quickly mention it to the actor directly — but only if it will not disturb their concentration or affect performance.
+
+set operations 14.11. A good crew has to be prepared for anything that might come up on a set; the ability to improvise and solve problems is the mark of true professionalism. It comes froma combination of intelligence, creativ ity and most of all — experience.
+
+(Photo courtesy of Mark Weingartner.)
+
+cinematography 256
+
+Tw-ol-0- 8199 CONCLUSION
+
+When everybody is in syne and everything is working right, a film crew at work is a pleasure to behold: a well oiled machine efficient, creative and full of energy. Just be sure to remember how much fun it can be the next time you’re having one of “those” days A MATTER OF STYLE
+
+On the question of attire on the set, this from the Steadicam Operator ’ Manual by the legendary Ted Churchill. It applies primarih Steadicam operators, but there is a lesson for anyone who works on the set. (Used by permission of Jack Churchill.)
+
+Vv to
+
+“And more often than not the sole determining factor is nothing more than a matter of appearances — a matter of style.
+
+First impressions, it is said, are the most important. One is often judged on looks alone. So what should one wear? Practically speaking, your attire should not be competitive with the executive producer, yet it need not inspire others to demand you plug in the cotfee machine either. Leisure suits don’t imply artistry, or designer jeans hard work, Dress for the job: high concentration, worry, and enormous physi cal exertion. Be comfortable. Avoid clothing which easily shows perspiration, wrinkles easily or on which the colors are liable to run when in constant contact with moisture. Remember that if you arrive on the set really pressed out you’re going to look like gai bage at the end of the third take. On the other hand if you dress like garbage you will look approximately the same at the end of tl day. So always opt for less apparent disintegration in your apparel. e Always avoid wearing loud color combinations. If noticed you may be asked to shoot everything.”
+
+technical issues
+
+15.1. (previous page) A complex setup for a timeslicing shot. (Photo courtesy of PAWS, Inc.
+
+15.2. (below) World zones for compasses; a Compass won’t be accurate unless it is for the correct zone. (Map courtesy of Silva.)
+
+SUN LOCATION WITH A COMPASS
+
+For shots involving the sun or the moon three things are necessary: (1) The correct position of the celestial object at the time you want to shoot (2) a good compass and (3) geomagnetic declination information for the shooting locations.
+
+First a word about compasses. You need a good one. Any compass will point to magnetic north, but you need one that is calibrated to at least 2° and which can be aligned precisely — this will usually mean either a compass with an optical sight or a military style len-satic compass. Particularly for shooting sunrises, great precision is necessary. Perhaps the least known fact about compasses is that they do not necessarily work equally well in all parts of the world. Compasses are manufactured with a certain amount of counter weighting and the proper amount of magnetizing to match certain locations, specifically north and south latitudes.
+
+A compass designed for the U.S., as it nears the pole region, will increasingly begin to point into the earth (Figure 15.2), You’ll have to hold the compass housing unevenly to get any kind of reading at all. All the needle wants to do is point into the ground, not to the horizon. So if you are going to locations significantly different in latitude from where you bought your compass, be sure to get a unit made for that area. Most compass manufacturers offer solutions to this problem. Silva, a Swedish manufacture of compasses, offers five varieties:
+
+MN Magnetie North.
+
+NME North Magnetic Equatorial.
+
+ME Magnetic Equatorial.
+
+SME South Magnetic Equatorial.
+
+MS Magnetic South.
+
+Suunto makes the World Compass which can be used anywhere in the world. It works by having the needle and the magnet pivot independently. Other manufacturers also make compasses which can be used anywhere except for a large zone surrounding the magnetic North Pole and the Geographic North Pole where no magnetic compasses will work.
+
+DECLINATION
+
+There is one more problem to be dealt with in using a compass. Only at 2 North/South lines in the northern hemisphere does the compass needle point to True North. One is through Russia and the other is along a line which goes through Wisconsin to Alabama and south.
+
+These are called the agonic lines. At all other places on the globe. the compass will either point slightly East or West of the actual geographical True North.
+
+The angle by which tt is off is called “Magnetic Variation” or “Dee-lination.” Magnetic North is located about 1,000 miles South of Geographic North, near Bathurst Island, off the Northern coast of Canada above Hudson Bay. In the continental United States. this angle of error varies from 25° East, to about 23° West of True North.
+
+Alaska’s declination ranges from 15° East to 36° East. If you are West of the agonic line, you subtract the declination. If you are East of the agonic line you add the declination. The following chart shows magnetic declination for various locations (Figure 15,3).
+
+For even more accurate and localized information, you can always call the local airport’s flight control center, 24 hours a day. On remote locations, it may be necessary to obtain good quality maps for the area and to use a GPS locator to determine exact latitude and longitude. Once you have done all this you now need the informa-cinematography US/UK World Magnetic Chart – Epoch 2000 Declination - Main Field (D)
+
+180’ —-210’ = 240” … 120° 150’ 180 -60’ ‘0 = NN Sa = = S\\ 180° «210’ «240° 270’ = 300!
+
+330 of 30 60 90° 120° 150’ 180° tion for the celestial body itself. You need to know its azimuth (compass direction) and altitude (angle above the horizon) at any particular point in time. This can be obtained from nautical charts (see the Filmmaker’s Pocket Reference for these charts) or from other information sources such as the U.S, Geological Survey. For convenience however, the best way is to use software that will tell you this information, The example in Figure 15.4 was obtained using SunPATH”, made by Widesereen Software.
+
+This type of software can also be used to determine the length of shadows for nearby objects or as a guide in building a set or placing a window so that a particular sunlight effect will occur on a certain date (if it’s not cloudy, of course). To determine shadows, It is necessary to also have a clinometer, which is a device that will tell you how many degrees above your level an object is.
+
+The clinometer is especially important if you are attempting to fix an exact sunrise or sunset time and your horizon line is not the true horizon. In other words. if there are any hills or buildings between you and where the sun or moon rises/sets, the time listed in the local newspaper will not be accurate. Once you determine how many degrees above true horizon your visible horizon is, the software makes it simple to determine an exact rise/set time. All of this ts especially critical if you are attempting a sunrise shot with a long lens. In this case, your camera must be setup and aimed with great precision literally “in the dark.” One word of caution: many people will attempt to set up for a sunrise by watching the horizon and seeing where the most intense glow is, then aim the camera at that pre-sunrise glow. It does not work! The pre-rise glow will be several degrees off because the sun is moving south (or north, in the southern hemisphere) as it is rising — assuming you are not directly on the equator.
+
+Use the software, have a good compass, then have faith. These methods can also be used to determine camera placement so that a sunrise or sunset occurs directly in line with a building, an aircraft takeoff or landing, a hill or anything else for which you can fix a location, Don’t forget to set your watches to an accurate time source and have everyone on the production team synchronize them.
+
+15.3.A world declination map.
+
+technical issues Los Angeles, California
+
+Latitude 34° 03’N N Time Zone: 8 Pacilic
+
+Longitude 118° 14° W A Daylight Savings Time
+
+Magnelic Declination 14° E { 4/1/01 to 10/2801)
+
+Anmuh Bearings are given for MAGNETIC NORTH. DO NOT make a correction with your compass The Magneric Declination has been used in the calculations ; Da = .
+
+Date Dawn | SUNRISE Azimuth Length | _ SUNSET _Azimutn Dusk Wed 10/24/01 648AM 705 AM GO | 1103 | 6:08PM 242 a25PM Wednesday, October 24, 2001 15 minute intervals AZ’- Apmuth ALT’- Alttude ke un A et B=~Be2229} 2 2 ze 1 #1 3301 6 1
+
+37 1
+
+31
+
+4 1
+
+411
+
+=SSRRESSE3| 3
+
+& #SSKGERELH| Lit] oo * Shadow Length = Otyect Height x Shadow Factor (Sf)
+
+90 E $ ao 70 g 60 & & 0 c g, 40 c 30 a 3 20
+
+= = 10 0
+
+-10 75 90 105 «= 120:—s135—i—i‘aTSOCiCi1HStBOC19S)s21siSGttDSS
+
+SUNRISE 7:05 AM 90° Azimuth Bearings in Degrees SUNSET 6:08 PM 242° eS a& aunPATH™ © 1995 Dawid Parrisn MORK itty fete Licensed fo BLAIN BROWN 15.4. A sunchart produced by Sun- FLICKER PATH® software. As discussed in the chapter on The Tools of Lighting: there are two basic kinds of light sources. One is a filament (usually tungsten) that is heated by electrical current until it glows and emits light. The other type is a discharge source. These include fluorescents, HMIs.
+
+Xenons, mercury vapor, sodium vapor and many others. In all of these, instead of a filament, an arc is established between a cathode and an anode. This are then excites gases or a plasma cloud, inducing them to glow. All discharge sources run on alternating current.
+
+Any are based bulb powered by alternating current has an output cinematography that rises and fall as the waveform of the AC varies. Alternating current rises and falls as it heats a tungsten filament as well, but the filament stays hot enough that the light it emits does not vary a great deal. There is some loss of output, but it is minimal, usually only about 10 to 15%, not enough to affect exposure. With discharge sources, the light output does rise and fall significantly throughout the AC cycle.
+
+Although rarely perceptible to the eye, flicker appears on film as an uneven variation in exposure. This effect is a result of variations in exposure from frame to frame as a result of a mismatch in the output wave form of the light and the framing rate of the camera. Flicker can be bad enough to completely ruin the footage. The output of an AC power source is a sine wave. When the current flow is at the maximum (top of the wave) or minimum (bottom of the wave) the output of the light will be maximum: the light doesn’t care whether ithe flow is positive or negative.
+
+When the sine wave crosses the axis the current flow drops to zero.
+
+When that happens, the bulb produces less output. Since the light is “on” for both the positive and negative side of the sine wave, it reaches its maximum at twice the rate of the AC: 120 cycles per second for 60 hertz current and 100 cycles per second for 50 hertz current. For an HMI with a magnetic ballast (a copper coil wound around a core), the output at the crossover point may be as low as 17% of total output.
+
+With film there is another complication: the shutter is opening and closing at a rate which may be different than the rate at which the light output is varying. When the relationship of the shutter and the light output varies in relation to each other, each film frame is exposed to different amounts of the cycle. The result is exposure that varies enough to be noticeable.
+
+There are two possibilities: the frame rate of the camera can be unsteady or the frequency of the electrical supply can fluctuate or the frame rate of the shutter creates a mismatch in the synchronization of the shutter and the light output. The first two are obvious: if either the shutter rate or the light output are random, it is clear that there will be different amounts of exposure for each frame. The third is a bit more complex. Only certain combinations of shutter speed and power supply frequency can be considered acceptably safe. Deviations from these combinations always risk noticeable flicker. Four conditions are essential to prevent HMI or fluorescent flicker:
+
+* Constant frequency in the AC power supply.
+
+* Constant framing rate in the camera.
+
+* Compatible shutter angle.
+
+* Compatible frame rate.
+
+The first two conditions are satisfied with either crystal controls on the generator and camera or by running one or both of them from the local AC mains, which in most countries are usually reliable in frequency.
+
+The shutter angle and frame rate are determined by consulting the appropriate charts. A fifth condition: relationship of AC frequency to shutter is generally only crucial in high speed cinematography and is usually not a factor in most filming situations.
+
+At 24fps camera speed, if the power supply is stable, shutter angle can vary from 90° to 200° with little risk. The ideal shutter angle is 144° since this results in an exposure time of 1/60th of a second and so it matches the frequency of the mains power supply. In actual practice, there is little risk in using a 180° shutter if the camera is technical issues 24 FPS 25 FPS
+
+120 100
+
+60 50
+
+40 22
+
+30 20
+
+24 10
+
+20 5
+
+15 4
+
+Vz 2
+
+10 1
+
+8
+
+6
+
+5
+
+4
+
+2
+
+] Table 15.1. (above) Simplified safe frame rates with 24 Hz power supply and 25 hz power supply.
+
+Table 15.2. (right, above) Safe frame rates for any shutter speed with 24 hz power supply.
+
+Table 15.3. ( shu below) Safe frame rates for any shutter speed with 25 hz power supply.
+
+24FPS/50HZ POWER - SAFE FRAME RATES AT ANY SPEED
+
+1.000 4.000 6.315 10.000 24.000
+
+1.500 4.800 6,666 10.909 30.000
+
+1.875 5.000 7.058 12.000 40.000
+
+2.000 5.217 7.500 13;333 60.000
+
+2.500 5.454 8.000 15.000 120.00
+
+3.000 5.714 8.571 17.143
+
+S750 6.000 9.231 20.000
+
+25FPS/SOHZ POWER - SAFE FRAME RATES AT ANY SPEED
+
+1.000 4.166 6.250 W711 50.000
+
+1.250 4.347 6.666 12.500 33.333
+
+2.000 4.545 7.142 14.285 100.00
+
+2.500 4.761 7.692 16.666
+
+3.125 5.000 8.333 20.000
+
+3.333 5.263 9.090 25.000
+
+4.00 5.882 10,00 33.333 crystal controlled and the power supply is from the mains or a crystal controlled generator (Tables 15.1 through 15.3).
+
+With a 144° shutter opening, the camera is exposing 2-1/2 pulses per frame (rather than the exactly 2 pulses per frame as you would get with 144°) and so exposure can theoretically vary by as much as 9%, In other countries (especially in Europe) with a 50 cycle per second power supply, and shooting at 24fps, the ideal shutter angle is 172.8°. The above charts list the acceptably safe frame rates for shooting at any shutter angle (with either 50 or 60 hertz electrical supplies) and the acceptably safe frame rates for specific shutter speeds.
+
+A simple way to think about it is to divide 120 by a whole number, e.g., 120/4 = 30, 120/8 = 15. For 50 hertz (Hz) power systems. divide 100 by a whole number. This results in a simplified series as shown in Table 15.1. Any variation in the frequency (which may occur with a generator) of the power supply will result in an exposure fluctuation of approximately 4 f/stop. The time for one cycle of fluctuation will depend on how far off the power supply is.
+
+Any generator used must be a crystal controlled. Governor controls are never sufficient for the accuracy demanded. A frequency meter should be used to periodically monitor the generator. Most generators have a frequency readout, but it is often not precise enough for this purpose. For most purposes, plus or minus one-quarter of a cycle is considered acceptable. Flicker-free ballasts are available which minimize the possibility of flicker even under high- -speed conditions, Flicker-free units use electronic ballasts instead of iron-core, wire-wound reactance ballasts. They utilize two basic principles: square-wave output and high frequency. Flicker-free ballasts modify the wave form of the power supply by squaring it so that instead of the normal rounded sine wave, the output is angular. This means that the rising and falling sections of the wave are a much smaller portion of the total. As a result the light output is off for less time.
+
+Flicker-free ballasts also use increased frequency. The idea is that with 200 or 250 cycles per second it is less likely that there will be a mis-match from frame to frame. Since there is an increase in the noise from a ballast in flicker-free mode, some flicker-free units can be switched from normal to flicker-free operation. Flicker-free units are now available in every size of HMI, including the largest units: cinematography

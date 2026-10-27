@@ -1,0 +1,609 @@
+CHAPTER 6
+
+Color
+
+Color is the most misunderstood visual component probably because of the confusing color education we received as children. For that reason, let’s begin with the color basics.
+
+Color Systems
+
+There are two basic systems for organizing and mixing color called additive and subtractive. These two systems share terms and certain characteristics but each one must be considered separately.
+
+THE ADDITIVE SYSTEM
+
+The additive system of color mixing uses colored light. Each color of light has a unique wavelength. When different colors of light illuminate the same surface the colors overlap, and add their wavelengths together to produce a new color.
+
+ 
+
+For example, red and blue spotlights are aimed at a white floor. The wavelengths of the red and blue lights overlap or add together, and the result is magenta. The additive system is most often used in theatrical lighting situations like stage shows, music concerts, and nightclubs. Television and computer screens use a system called optical mixing which is explained in the Appendix Part B.
+
+The Additive Color Wheel
+
+The primary colors in the additive system are red, green, and blue.
+
+ 
+
+When the three additive primary colors are mixed together equally, they add their wavelengths together and produce white light.
+
+ 
+
+Combining two primary colors creates the secondary colors.
+
+RED + GREEN = YELLOW
+
+GREEN + BLUE = CYAN
+
+RED + BLUE = MAGENTA
+
+These six colors of light make the basic additive color wheel.
+
+ 
+
+Colors opposite one another on the color wheel are called complementary colors. In the additive system, the complementary pairs are cyan & red, green & magenta, and blue & yellow.
+
+THE SUBTRACTIVE SYSTEM
+
+The subtractive system of color is completely separate from the additive system, even though the two systems share the same terms. The subtractive system is used in the mixing of colored pigments, which includes paint and dye. Color mixing in the subtractive system is as easy as pouring one color of paint into another. When pigments are mixed together, they subtract their wavelengths from each other and a new color is produced.
+
+ 
+
+For example, when red and yellow paint are mixed together, the result is orange. The red and yellow paints subtract their wavelengths from each other, leaving only the orange wavelengths.
+
+Almost everything in our daily life has been painted, dyed, or pigmented using the subtractive system. Every type of paint, fabric dye, printing ink, and almost all of the colors occurring in nature use the subtractive system.
+
+The Subtractive Color Wheel
+
+The primary colors in the subtractive system are magenta, yellow, and cyan.
+
+ 
+
+When the three subtractive primaries are mixed together equally, they subtract their wavelengths from each other and the result is black.
+
+ 
+
+Combining two primary colors creates the secondary colors.
+
+MAGENTA + YELLOW = RED
+
+YELLOW + CYAN = GREEN
+
+CYAN + MAGENTA = BLUE
+
+These six colors of pigment make the basic subtractive color wheel.
+
+ 
+
+Colors opposite one another on the subtractive color wheel are called complementary colors. In the subtractive system, the complementary pairs are magenta & green, blue & yellow, and red & cyan.
+
+Glass or plastic colored filters used on lights and camera lenses are part of the subtractive system.
+
+ 
+
+Colored filters can be mixed by overlapping them. Here are the three primary subtractive colors (magenta, yellow, and cyan) as glass filters. Overlapping a cyan and a magenta filter creates a blue color. Overlapping magenta and yellow filters creates red. Overlapping cyan and yellow filters creates green. When all three filters overlap, each filter subtracts its wavelength from the other two and the result is black.
+
+The additive and subtractive color systems are often misunderstood because they’re incorrectly combined into a single confusing system. Many people mistakenly believe that there’s only one set of primary colors that include red, green, yellow, or blue. It’s critical that the additive (light) and subtractive (pigment) systems of mixing color be understood as separate systems.
+
+This chapter is not an instructional text for artists who mix watercolors, acrylics, or oil paints. The practicalities of mixing artists’ colors vary depending on the artist’s choice of paint manufacturer and style of working. The purpose of this chapter is to identify, organize, and control color so it can communicate moods, emotions, and ideas to the audience.
+
+The Basic Components of Color
+
+Talking about color is difficult because it’s impossible to accurately describe a color using words. What color is “sky blue”?
+
+ 
+
+Any one of these colors could be called “sky blue” depending on where you live and the time of day.
+
+Interior decorators use words like “mushroom” or “sand,” which may create a visual image but aren’t very specific. Commercial paint stores use meaningless words like “chateau” or “sorrento” to describe colors in their catalogue. Sometimes colors are given names like “sea-calm” or “romance,” which tells more about the emotion the paint manufacturer hopes to evoke than the identity of the color itself.
+
+The only accurate way to describe a specific color is to have an actual sample of the color in hand. Commercially available systems, like the Pantone Color System and the Munsell Color System, provide color samples that are accepted worldwide. These excellent systems specify a color based on numbered charts and actual swatches of color, rather than an ambiguous verbal description.
+
+Unfortunately, with or without color samples we constantly use words to describe color. So we need some basic terminology to help us talk about color. This discussion of color terms will use the subtractive color system because we control most of our color with pigments. There are three terms that we can use to verbally describe a color. These terms are hue, brightness and saturation.
+
+HUE
+
+ 
+
+ 
+
+Hue is the position of a color on the color wheel. There are only eight hues: red, orange, yellow, green, cyan, blue, violet (or purple) and magenta. That’s it. Pink, brown, turquoise and beige are not hues. The best way to begin describing a color is to identify its hue. Every color begins with one of the eight basic hues. Simply put, lemons are yellow, blood is red, and grass is green.
+
+BRIGHTNESS
+
+ 
+
+The second term used to describe any color is brightness (sometimes called value or lightness). Brightness is the addition of white or black to the hue. Adding white to a red hue creates a bright red (often called pink). Adding black to a red hue produces a dark red (often called maroon or burgundy).
+
+ 
+
+Brightness is the tone of a color in relation to the gray scale. The colors in column A are dark red, dark green, and dark blue. The column B colors are all a middle brightness. The colors in column C are bright red, green, and blue and relate to the lighter tones on the gray scale.
+
+SATURATION
+
+ 
+
+The third term used to describe a color is saturation (sometimes called chroma or intensity). A saturated hue is very pure or vivid. The colors on any standard color wheel are always saturated.
+
+ 
+
+The opposite of saturation is desaturation. In the above illustration, the red on the left is fully saturated. As the red color moves to the right it desaturates or turns gray. The red color on the far right is completely desaturated.
+
+ 
+
+A hue is desaturated by adding its complementary color. Complementary colors are opposite each other on the color wheel. Adding red to cyan desaturates the cyan. Adding cyan to red desaturates the red. Magenta and green desaturate each other. Adding yellow desaturates blue and adding blue desaturates yellow.
+
+ 
+
+ 
+
+This diagram illustrates the desaturations that occur when complementary color pairs are mixed together. When mixed equally, complementary pairs create middle gray.
+
+Hue, brightness, and saturation are the only terms needed to generally describe a color. These three terms can never precisely describe colors, but using the terms is better than names found on designer paints like “sea-calm” or “liberty.” The only way to accurately describe a color is to have an actual sample of the color in hand.
+
+There are a few other terms frequently used to describe color. “Tint” or “pastel” means adding white to a hue. “Shade” usually means adding the complementary color, although sometimes it means adding black. To avoid miscommunication, don’t use these terms.
+
+Look around you and try to describe the color of objects in terms of hue, brightness, and saturation. Describing colors using these three terms is important to discussing and using color.
+
+ 
+
+This diagram illustrates the range of colors that were created by adding black, white, or cyan to a fully saturated red.
+
+ 
+
+Any one of the color rectangles can be generally described in terms of hue, brightness, and saturation. The red rectangle on the left is fully saturated. The red colors desaturate as they move to the right, become brighter as they move up, and darker as they move down.
+
+ 
+
+This same diagram can be created for each of the basic hues on the color wheel. These diagrams help to simplify and organize hue, brightness, and saturation.
+
+BRIGHTNESS VS. SATURATION
+
+A standard color wheel always displays the hues in their most saturated, vivid state. But the brightness of these saturated hues on the standard color wheel are very different.
+
+ 
+
+On the left is a standard subtractive color wheel. All of its hues are fully saturated. On the right is the identical color wheel reproduced in black & white. The black & white wheel reveals the actual brightness of the saturated colors on the color wheel. Yellow is the brightest saturated color. The saturated red, green, and cyan appear as middle gray. Blue and magenta are the darkest saturated colors on the color wheel.
+
+Understanding the inherent brightness of each saturated hue is important. A saturated yellow will always attract the viewer’s eye first, not only because it’s saturated but because it’s very bright. A saturated blue will always appear dark because blue is inherently dark when it’s fully saturated. The brightness level of the blue can be raised by adding white, but that brighter blue won’t retain its saturation. It is impossible to create a color wheel where all the hues are simultaneously of equal saturation and equal brightness.
+
+ 
+
+The upper row of colors is the saturated hues found on a standard color wheel. The lower row is gray swatches revealing the brightness of each of the saturated hues in the upper row.
+
+ 
+
+Here, the hues in the upper row have been adjusted to the same brightness. But equalizing the brightness has affected the saturation of the upper row hues. The only hue that remains fully saturated at this brightness is the yellow.
+
+ 
+
+These hues have been adjusted to the same dark tone. The only hue that can be saturated at this dark tonal range is blue. The yellow appears brown because it has been darkened to the same tonal value as the blue. The yellow and blue are now of equal brightness but are very different in saturation. It’s impossible for all of the color wheel’s hues to simultaneously be equal in brightness and saturation.
+
+Contrast & Affinity
+
+There are four ways to apply contrast or affinity to color. Color can be used to reveal similarities or differences between characters, events, and locations. Color can define the production’s visual style. Using contrast and affinity of color can also communicate moods, emotions, and ideas. Remember, contrast and affinity can occur within the shot, from shot to shot, and from sequence to sequence.
+
+1. HUE
+
+Contrast of hue occurs when more than one hue is used. The colors should be saturated so that their hue contrast or difference is visually obvious.
+
+ 
+
+The hue contrast in this picture is due to the saturated red, green, and blue appearing together in the same shot. The hue contrast sets the mood of this scene and helps to emphasize the frivolous personalities of these characters.
+
+ 
+
+The most extreme contrast of hue uses one complementary pair. In The Piano, the main character, Ada, is involved with two different men. The contrast of orange and blue hues is used to indicate the emotional change Ada feels as each romantic relationship evolves. The orange signifies warmth and respect and the blue represents inhumanity and hostility.
+
+ 
+
+Affinity of hue occurs when all colors in the picture are based on a single hue. Although the brightness and saturation varies, every color in this shot is based on a red hue.
+
+2. BRIGHTNESS
+
+Brightness refers only to the tonal range of the colors.
+
+ 
+
+ 
+
+This example from Minority Report illustrates contrast of brightness within the shot. The tonal range is limited to the very dark and very bright portions of the gray scale. The tonal contrast adds visual intensity to this standoff between the hero and villain.
+
+ 
+
+ 
+
+A scene that uses only a small portion of the gray scale illustrates affinity of brightness. The tonal range of this picture from Dark City is limited to the lower third of the gray scale. This emphasizes the dramatic, bleak emotional mood of the story. The tonal affinity also reduces the overall visual intensity.
+
+3. SATURATION
+
+A shot, sequence, or an entire production can use contrast and/or affinity of saturation.
+
+ 
+
+A picture with both saturated and desaturated colors illustrates contrast of saturation. The contrast can be used to emphasize objects in the shot by being saturated and also represent different characters’ personalities. In this shot from Eternal Sunshine of the Spotless Mind, the saturated red jacket and green hair are in contrast with the desaturated scene. The saturated color is associated with a life affirming character and in direct contrast to the desaturated, confused world of the story.
+
+ 
+
+All of the colors in this shot from The Conformist have affinity of desaturation. The desaturation in this dramatically critical scene gives it visual contrast with the rest of the story.
+
+ 
+
+These pictures from Moulin Rouge! illustrate contrast of saturation from shot to shot. The sudden contrast from saturation to desaturation gives emphasis to the dramatic entrance of the story’s key character. The saturation change also delineates the beginning of a new directorial beat.
+
+4. WARM/COOL
+
+ 
+
+The color wheel divides the hues into warm and cool colors. The warm hues are red-magenta, red, orange, and yellow. The cool hues are blue-magenta, blue, cyan, green, and yellow-green. Magenta can appear warm or cool depending on its proportion of red and blue. Yellow is a warm hue, but when mixed with a small amount of green it appears to quickly lose its warmth and looks cool.
+
+ 
+
+Here are examples of affinity of warm and cool colors within each shot. The affinity gives each scene visual unity and reduces the visual intensity.
+
+ 
+
+This scene illustrates contrast of warm/cool within the shot. The two characters represent opposite approaches to life. She wears red throughout the film and symbolizes love and compassion. He always wears blue and personifies loneliness and isolation. The contrast constantly reminds the audience of the personality difference between the characters.
+
+ 
+
+Although this example is subtle, the warm and cool side lighting on the face adds visual contrast and intensity to the scene.
+
+Interaction of Color
+
+In his extraordinary color studies at Yale University the artist Josef Albers demonstrated and defined what is called color interaction.
+
+Albers’ studies clarified theories about how colors appear to change their hue, brightness, or saturation when placed next to each other. His demonstrations, based on his personal work and the work of his students, developed into a set of rules that accurately predict how colors interact with each other and appear to change.
+
+Making a color change its appearance requires two ingredients:
+
+The susceptible color—a color that appears to change.
+
+The catalyst—a color or tone that activates the change in the susceptible color.
+
+There are three basic rules of color interaction.
+
+RULE 1: HUE + BLACK OR WHITE
+
+Applying the first rule of color interaction changes the apparent brightness of a color. When a susceptible color is surrounded by black or white (the catalyst), the susceptible color can appear lighter or darker. The interaction results vary depending on the proportions of the susceptible color and the catalyst.
+
+ 
+
+This example uses red as the susceptible color and black or white as the catalyst. When a large area of white surrounds a small area of red, the red looks darker. Surrounding the same red with a large area of black makes the red look lighter. The smaller susceptible color changes in opposition to the larger catalyst’s brightness. Stare at the X in the middle of the picture to see the red circles change brightness depending on the background.
+
+ 
+
+When the proportions of the black or white catalyst and the susceptible color are reversed, the opposite result occurs. This visual phenomenon is called the Bezold Effect. In this example there’s a large area of blue (the susceptible color) and a small area of black or white (the catalyst). The same susceptible blue color appears brighter with a white background and darker with a black background. The susceptible color adopts the brightness of its surrounding tone. These interactions are called simultaneous contrast because the visual change occurs within a single picture or shot.
+
+RULE 2: COMPLEMENTARY COLORS
+
+The second rule of color interaction involves complementary colors. Using this rule changes the apparent saturation of the susceptible color.
+
+ 
+
+Complementary colors are opposite from one another on the color wheel. Magenta & green, red & cyan, and yellow & blue are complementary pairs. When a complementary pair of colors is placed next to each other their saturation increases.
+
+ 
+
+This example uses a red and cyan. If the two colors are of equal proportion, they are both susceptible. The cyan makes the red appear more saturated and the red makes the cyan appear more saturated.
+
+ 
+
+As the proportion of the two colors change, the smaller color remains susceptible and the larger color becomes the catalyst. In this example the red catalyst makes the smaller susceptible cyan appear more saturated. These interactions are called simultaneous contrast because the interaction occurs within a single picture or shot.
+
+ 
+
+This picture demonstrates that complementary colors increase saturation. Identical magenta swatches are placed on gray and green backgrounds. Stare at the X. The susceptible magenta swatch on the green background appears more saturated than the identical magenta swatch on the gray background.
+
+ 
+
+The red coat appears more saturated because it’s surrounded by cyan/green colors.
+
+The same interaction can be created from shot to shot, which is called successive contrast. In successive contrast, the catalyst is the color in the first shot and the susceptible color is in the second shot.
+
+ 
+
+This example uses the complementary pair of red and cyan. The viewer is shown a red color (the catalyst) in Shot 1 and then a cyan (the susceptible color) in Shot 2. The cyan appears more saturated because it is preceded by the red.
+
+This apparent saturation change occurs because of the way our brain processes color. A simple visual experiment offers some interesting clues into how our brain and vision system contribute to color interaction.
+
+Position this book about 12 inches from your eyes. Be sure the page is properly illuminated. Get comfortable. Stare at the dot in the cyan rectangle for a full minute, and then shift your eyes to the dot in the white rectangle.
+
+ 
+
+You should see red appear briefly within the white rectangle. The appearance of the red color is commonly called an afterimage. The afterimage appears for a number of reasons but the important lesson here is that your vision system was looking for neutral white light.
+
+At the same time, your vision system was bombarded by a cyan color. Your brain is conditioned to prefer a range of colors, not one unusually saturated hue. So your brain and vision system tried to adjust the cyan to a neutral gray. The only way to neutralize the cyan is by adding the complementary red. Mixing any complementary pair of colors together creates neutral gray. Your vision system added the red color attempting to neutralize the cyan. When your attention shifted to the neutral white circle, you saw the red color your vision system had added in an attempt to make the cyan appear neutral.
+
+ 
+
+These two shots are from the opening sequences of The Last Boy Scout. The first sequence, all blue, forces the audience to add yellow which then makes the second sequence, all orange, look much warmer than it really is. The radical color difference between the two scenes emphasizes the location and time changes in the story.
+
+RULE 3: ANALOGOUS COLORS
+
+Analogous colors are next to each other on the color wheel. For example, red and orange are analogous. This third rule of color interaction changes the apparent hue of a color.
+
+ 
+
+When analogous colors are placed next to one another, they appear to move apart or separate in their position on the color wheel. The color wheel above diagrams this interaction.
+
+ 
+
+Placing equal areas of red and orange next to each other in a single shot creates this interaction. Both hues are susceptible. The red looks more magenta and the orange looks more yellow.
+
+ 
+
+In this example orange is the susceptible color. The red and yellow backgrounds are the catalysts. The red background pushes the orange toward yellow. The yellow background pushes the orange toward red. If you stare at the X in the middle of the picture the apparent hue difference in the two identical orange swatches becomes obvious.
+
+Light
+
+We use sunlight or artificial lighting (candles and various electric lights) to illuminate our environments. Naively, we might say that sunlight is “neutral white light” because it doesn’t seem to change the color of objects. A white car parked outside in the sun still looks white, so sunlight is not reddish, greenish, or bluish. Sunlight appears to be “neutral white light.”
+
+The same white car parked outside at night and illuminated with only a green light appears changed. The car looks green. The green light is obviously not “normal white light.” But sunlight is not normal either.
+
+ 
+
+What color is sunlight? When a beam of sunlight passes through a glass prism, the light is refracted into a rainbow, or the visible spectrum: red, orange, yellow, green, blue, and violet. The prism reveals that sunlight is made up of all of the hues but is predominantly blue.
+
+ 
+
+Any light source can be split into its visible spectrum. The light from a candle also produces a visible spectrum that reveals the candle contains more red-orange color than the sunlight.
+
+ 
+
+Here are four visible spectra, each produced by a different light source. A candle produces a predominantly reddish light; a traditional 60-watt incandescent household light bulb has an orangish light; the green light only emits greenish light and omits the other colors; daylight is predominantly blue. Although none of these light sources produce “neutral white light,” our human vision system has the ability to adjust and make them appear as “normal white light.” The exception here is the green light (or light of any single hue) because it’s beyond the range of our vision’s color correction ability.
+
+This is an important factor in the evaluation of colors in our daily life and when we view pictures on a screen. Your own vision and the audience’s vision are constantly adjusting the color. Color interaction and our human vision system will change the hue, brightness, and saturation of colors within a shot and from shot to shot in an attempt to make them appear “normal.”
+
+COLOR SCHEMES
+
+ 
+
+A color scheme is a color plan used to help tell a story. Color is complex, so finding a simple plan is critical to making color useful for communicating moods, emotions, and ideas. A well-controlled color scheme considers all three aspects of color: hue, brightness, and saturation. When searching for a color scheme, a good place to begin is the color wheel because it organizes the hues into a simple circle. Although it’s a critical commitment, picking the hue is fairly simple because there are a limited number of choices. Here are some basic color schemes using hue.
+
+1. One Hue. Sometimes called a monochromatic color scheme, this involves using a single hue for an entire production. Often the simplest solution is the best approach because it limits the choices, gives visual unity to the story, and is easy for the audience to see and understand.
+
+ 
+
+The Matrix movies limit the main hue to green. Green represents the evil, dystopian world of mind control.
+
+ 
+
+The Shining uses the color red. The red represents the relentless, intensifying threat to the family.
+
+2. Complementary Hues. A pair of complementary hues opposite on the color wheel can be chosen as the basic color scheme. The most commonly used complementary color scheme is blue/orange. The pair of hues can be assigned to any aspect of a production.
+
+ 
+
+In Take This Waltz red is assigned to the wife and cyan is assigned to her husband. The contrasting hues illustrate the conflicting needs between the couple. Complementary color pairs create the most intense contrast of hue.
+
+ 
+
+The complementary colors in Traffic separate the story’s main locations. The yellow and blue colors communicate the story’s mood. The harsh yellow hue makes Mexico feel hotter and more desolate. The cold blue makes the city environment feel more dehumanized.
+
+3. Three-way Split. This more complex color scheme uses any three hues equidistant around the color wheel.
+
+ 
+
+The film The Man in the Moon takes full advantage of a combination of orange, blue, and green. It uses three hues (approximately equidistant) to give unity and beauty to the visual structure of this film.
+
+4. Four-way Split. This color scheme involves four hues equidistant around the color wheel.
+
+ 
+
+An excellent example of this color scheme is Disney’s classic animated feature Sleeping Beauty. Magenta and green are assigned to the evil characters, and orange and blue/cyan are used for the good characters.
+
+After you’ve selected the hues for your color scheme, you must decide on the brightness and saturation. An excellent approach to finding the brightness range for a color scheme is to return to the color wheel.
+
+ 
+
+The middle color wheel in this illustration is the standard, fully saturated wheel. The wheel on the left has black added to the hues. The wheel on the right has white added. Shifting the standard color wheel by adding black or white immediately reveals entirely new ranges of color that may be more appropriate for your production.
+
+ 
+
+The color wheel can also be adjusted for saturation. The wheel on the left uses the standard, saturated colors. The other two wheels are different levels of desaturation. The desaturated wheels offer an entirely different range of the basic hues.
+
+ 
+
+The film Up In The Air uses a complementary color scheme. The first two acts of the story use desaturated blue and green colors. The third act introduces a saturated red. The cool, desaturated colors represent the cold depersonalized business world, and the saturated red color represents the warmth of family.
+
+ 
+
+The color for most of Saving Private Ryan is desaturated yellow, orange, green, and cyan. The colors help to convey the bleak, tragic world that is created by war.
+
+As a color scheme for any production develops, it will become impossible to accurately describe colors using words. The solution is a color script. This eliminates inaccurate verbal descriptions and makes color communication easier and more precise.
+
+ 
+
+This simple color script displays the cool, darker, desaturated colors for an entire production. Verbally describing these colors would be impossible.
+
+ 
+
+Here, the color script divides the color scheme into acts. Notice the shift to warm colors in Act 3.
+
+ 
+
+More complex color scripts can specify color schemes for different sequences, scenes, or even shots. This color script looks like a storyboard, but it’s only for color, not narrative storytelling. These drawings specify the color range for each of the four sequences in a production. Notice how the color scheme changes hue and saturation as the story progresses.
+
+Controlling Color During Production
+
+Don’t underestimate color’s importance as a visual component. Audiences notice color immediately and respond to it emotionally. Here are some methods for controlling color in any type of production.
+
+1. The Color Palette. The best way to control color is to limit the color palette itself. The palette is the actual color of the on-camera objects (sets, locations, costumes, props, etc.). If you want your production to be red and desaturated, then only put desaturated red objects in front of the camera. Decide what colors are correct for your production and remove all of the other colors.
+
+An experienced production designer knows how to control color. It’s not just costumes and wall colors. The color of every object in every shot should be carefully chosen. This can be overwhelming, so limiting the color palette makes control simpler.
+
+ 
+
+In Peggy Sue Got Married the nostalgic, romanticized color look of vintage Kodachrome film was duplicated by the art department. The grass and trees were spray painted an unusually saturated green and the concrete sidewalks and streets were painted purple.
+
+ 
+
+In The Red Desert everything in a street scene, including fruits and vegetables on a cart, was painted gray. The completely desaturated color contributed to the story’s desolate mood.
+
+ 
+
+The color scheme for The Godfather is basically black, white, and red. So sets, locations, costumes, and props were selected and painted with this specific color scheme in mind.
+
+ 
+
+The plot of Chinatown is about municipal water rights. This movie uses a color scheme based on the color of plants that died from lack of water. The film is desaturated yellow/orange colors. Blue and green only appear if there is water in the shot.
+
+Audiences have a poor color memory. If viewers are asked to remember a specific color, they will be unable to select it from a group of similar but different colors. This lack of color memory can be an advantage in the control of color. The hue, brightness, and saturation of an object’s color can be altered from sequence to sequence, and the audience will be unaware of the color manipulation. Lighting and camera exposure changes the brightness or saturation of colors from sequence to sequence and sometimes from shot to shot. This same kind of manipulation can occur with paint.
+
+A color may photograph differently from the way it looks in real life. This problem is called color localization and occurs when colors are reproduced using digital systems, photochemical processes, or printing inks and dyes. Localization can affect the hue, brightness, or saturation of colors. Variations in colors can be ignored, making different colors appear identical or unpredictably shifting colors in hue, brightness, or saturation. In critical situations colors must be tested to check for localization problems.
+
+2. Filters. Placing colored filters over the camera lens or the light source can control color. All filters are part of the subtractive system. A filter will always subtract or absorb its complementary color and transmit its own color. The use of lens filters requires exposure compensation in photography.
+
+ 
+
+Adding a yellow filter to the camera lens makes objects appear more yellow, but the filter isn’t adding yellow. The filter is removing the blue color (complement of yellow), and the remaining yellow color appears dominant.
+
+Standard color lens filters manufactured specifically for photography are available from a variety of manufacturers. These filters are extremely reliable and affect the color’s hue, brightness, and saturation in specific, predictable ways.
+
+Colored filters can also be placed on lights. Several companies manufacture a wide range of colored plastic sheets called gels that can withstand the heat from lights and are available in a wide range of colors. Placing gels on lights uses the subtractive system. Whenever a gel is placed over a light, the output of the light decreases. The colored gel absorbs its complementary color and transmits its own color.
+
+3. Time/Location. Color can be controlled by the time of day, weather conditions, and the color of the physical environment.
+
+The color of daylight changes as the sun moves across the sky. A sunrise tends to deliver a more lavender light, noon daylight is bluer, and a sunset is more red. Filming during “magic hour” (periods of daylight when the sun is just below the horizon) produces a unique quality of shadowless, blue daylight.
+
+Weather conditions can affect the color of daylight. On an overcast day, the direct rays from the sun (which include red) are held back by the clouds making the overcast daylight more blue.
+
+The environment can affect color. Objects in any location become reflectors and, depending on their size, can change the color of the light. Photographing near red brick walls adds red to the general color of the light. In a forest, light filters through the trees’ leaves and reflects off the foliage making the daylight more green.
+
+At any exterior location daylight reflects off the ground’s surface. In a desert the daylight reflects off the sand making the daylight more yellow/orange. Clouds can also act like giant reflectors and bounce back the color of an exterior location. The under-side of clouds over a desert are a different color from clouds over an ocean.
+
+4. Digital Photography. Digital cameras offer traditional exposure control plus many more electronic choices. Depending on the camera the hue, brightness, saturation, contrast, exposure latitude, and many other variables can be altered at the time of photography. These electronic settings, called a LUT (Look Up Table), can radically affect the color of the image captured by the camera. Many photographers do not use LUTs. Instead they prefer to capture a “raw” image that records all of the color data in an uncompressed digital file. In postproduction these files can be used as the basis for altering the original image’s color in an infinite number of ways.
+
+5. Film Photography. Color can be controlled by the choice of the film stock and the method by which it is exposed and developed. Different film stocks have different color characteristics. Generally, the lower the film’s ISO (sensitivity to light), the more saturated the colors will appear. Some film stocks look warmer or cooler, more or less saturated, have better shadow detail, or appear more contrasty. The only way to determine which film stock is best for your project is to test it.
+
+6. Color Grading. Color grading, or “timing,” refers to the color correction of images on film, captured digitally or transferred from film to a digital file. Color grading in digital postproduction can independently manipulate hue, brightness, saturation, contrast, and many other aspects of the image.
+
+Films to Watch
+
+Tucker: The Man and His Dream (1988)
+
+Directed by Francis Ford Coppola
+
+Written by Arnold Schulman & David Seidler
+
+Photographed by Vittorio Storaro
+
+Production Design by Dean Tavoularis
+
+ 
+
+This romantic drama uses the entire color palette to portray the moods, emotions, and conflicts in the story.
+
+Cries and Whispers (1972)
+
+Directed by Ingmar Bergman
+
+Written by Ingmar Bergman
+
+Photographed by Sven Nykvist
+
+Production Design by Marik Vos-Lundh
+
+ 
+
+Bergman said that this film was inspired by a dream about three women dressed in white, standing in a red room. The saturated color creates an unforgettable visual style and a world of internal and external conflict.
+
+Three Color Trilogy (1993–1994)
+
+Directed by Krzysztof Kieslowski
+
+Written by Krzysztof Kieslowski & Krzysztof Piesiewicz
+
+Photographed by Slawomir Idziak (Blue), Edward Klosinski (White), Piotr Sobocinski (Red)
+
+Production Design by Claude Lenoir (Blue, White, Red) & Halina Dobrowolska (White)
+
+ 
+
+This trilogy of films intertwines its stories and characters to create a remarkably beautiful saga. The color gives each film an individual look but also unites them.
+
+The following group of films relies on carefully controlled color to communicate moods, emotions, and idea to support the story. Art direction, lighting, and post-production color correction techniques are used to make the color unique.
+
+Women on the Verge of a Nervous Breakdown (1988)
+
+Directed by Pedro Almodóvar
+
+Written by Pedro Almodóvar
+
+Photographed by José Luis Alcaine
+
+ 
+
+Do the Right Thing (1989)
+
+Directed by Spike Lee
+
+Written by Spike Lee
+
+Photographed by Ernest Dickerson
+
+Production Design by Wynn Thomas
+
+ 
+
+Amélie (2001)
+
+Directed by Jean-Pierre Jeunet
+
+Written by Guillaume Laurant & Jean-Pierre Jeunet
+
+Photographed by Bruno Delbonnel
+
+Production Design by Aline Bonetto
+
+ 
+
+Far From Heaven (2002)
+
+Directed by Todd Haynes
+
+Written by Todd Haynes
+
+Photographed by Edward Lachman
+
+Production Design by Mark Friedberg
+
+ 
+
+The Grand Budapest Hotel (2014)
+
+Directed by Wes Anderson
+
+Written by Wes Anderson & Hugo Guinness
+
+Photographed by Robert D. Yeoman
+
+Production Design by Adam Stockhausen
+
+ 
+
+O Brother, Where Art Thou? (2000)
+
+Directed by Joel Coen
+
+Written by Ethan Coen & Joel Coen
+
+Photographed by Roger Deakins
+
+Production Design by Dennis Gassner
+
+ 
+
+An extraordinary early use of digital color correction to remove a range of hues and give the movie a unique look.
+
+Sin City (2005)
+
+Directed by Frank Miller, Robert Rodriguez, & Quentin Tarantino
+
+Written by Frank Miller
+
+Photographed by Robert Rodriguez
+
+Art Direction by Steve Joyner & Jeanette Scott
+
+ 
+
+Photographed almost entirely in front of green screens, the backgrounds and color were digitally created or modified in postproduction. Color is used to accent the graphic film noir visual style.

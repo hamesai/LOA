@@ -1,0 +1,738 @@
+201
+Menu Settings
+4 Playback 2 (Blue) Page
+5 Set-up 1 (Yellow)
+6 Set-up 2 (Yellow)
+* In the < 1/C> modes, the option will change to [Movie recording].
+Highlight alert Disable / Enable 129
+AF point display Disable / Enable 129
+Histogram Brightness / RGB 130
+Slide show Select the images, set the Play time and repeat settings for automatic playback 135
+Image jump w/6 1 image / 10 images / 100 images / Screen / Date / Folder / Movies / Stills 132
+Auto power off 1min. / 2 min. / 4 min. / 8 min. / 15 min. / 30 min. / Off 44
+Auto rotate OnzD / OnD / Off 146
+Format Initialize and erase data in the card 43
+File numbering Continuous / Auto reset / Manual reset 74
+Select folder Create and select a folder 72
+WFT settings Displayed when WFT-E4/E4A (sold separately) is attached –
+Recording function+ 
+media select
+Displayed when external media is used via 
+WFT-E4/E4A (sold separately) –
+LCD brightness Auto: Adjustable to one of three brightness levelsManual: Adjustable to one of seven brightness levels 144
+Date/Time Set the date (year, month, day) and time (hour, min., sec.) 42
+Language 25 languages 42
+Video system NTSC / PAL 139
+Sensor cleaning
+Auto cleaning: Enable / Disable 148Clean now
+Clean manually 151
+Live View/Movie 
+function settings
+LV func. setting* / Silent shooting / Metering timer
+108Grid display / AF mode / Movie recording size / 
+Sound recording
+COPY
+
+202
+Menu Settings
+7 Set-up 3 (Yellow) Page
+8 Custom Functions (Orange)
+9 My Menu (Green)
+Battery info.
+Type, Remaining capacity, Shutter count, 
+Recharge performance, Battery registration, 
+Battery history
+192
+INFO. button Normal display / Camera settings / Shooting function 190
+External Speedlite 
+control
+Flash function settings / Flash C.Fn settings / 
+Clear all Speedlite C.Fn’s 105
+Camera user setting Register current camera settings to the Mode Dial’s w, x, or y position 187
+Clear settings Clear all camera settings / Delete copyright information 45
+Firmware Ver. For updating the firmware –
+C.Fn I : Exposure
+Customize the camera as desired
+174
+C.Fn II : Image 176
+C.Fn III : Autofocus/
+Drive 178
+C.Fn IV : Operation/
+Others 182
+Clear all Custom 
+Functions (C.Fn) Clears all Custom Function settings 172
+My Menu settings Register frequently-used menu items and Custom Functions 186
+COPY
+
+203
+If there is a problem, first refer to this Troubleshooting Guide. If this 
+Troubleshooting Guide does not resolve the problem, contact your 
+dealer or nearest Canon Service Center.
+ Do not recharge any battery pack other than genuine Canon Battery 
+Pack LP-E6.
+ If there is a problem with the battery charger or battery pack or if 
+communication with the battery pack (non-Canon battery packs) is not 
+possible, the protective circuit will terminate the charging and the 
+orange lamp will blink quickly at a regular interval. If there is a problem 
+with the battery charger or battery pack, unplug the charger’s power 
+plug from the power outlet. Detach and reattach the battery pack to the 
+charger. Wait 2 to 3 minutes, then reconnect the power plug to the 
+power outlet. If the problem persists, contact your dealer or nearest 
+Canon Service Center.
+ If the internal temperature of the battery pack attached to the charger 
+is high, the charger will not charge the battery for safety reasons (lamp 
+off). During the charging, if the battery’s temperature becomes high for 
+any reason, the charging will stop automatically (lamp blinks).When 
+the battery temperature goes down, the charging will resume 
+automatically.
+ The battery is not properly installed in the camera (p.26).
+ Recharge the battery (p.24).
+ Make sure the battery compartment cover is closed (p.26).
+ Make sure the card slot cover is closed (p.29).
+Troubleshooting Guide
+Power-Related Problems
+The battery cannot be recharged with the battery charger provided.
+The charger’s lamp blinks at high speed.
+The charger’s lamp does not blink. 
+The camera does not operate even when the power switch is set to <1>.
+COPY
+
+204
+Troubleshooting Guide
+ If the power is cut off while an image is being recorded to the card, the 
+access lamp will light/blink for a few sec. When the image recording is 
+completed, the power will turn off automatically.
+ Use a fully-charged battery (p.24).
+ The battery performance might be degraded. See the [7 Battery 
+info.] menu to check the battery’s performance level (p.192). If the 
+battery performance is poor, replace the battery with a new one.
+ If you keep displaying the Quick Control screen (p.38) or shooting with 
+Live View function (p.107) for a prolonged period, the number of 
+possible shots will decrease.
+ Auto power off is in effect. If you do not want auto power off to take 
+effect, set the [5 Auto power off] menu to [Off].
+ The card is not properly inserted (p.29).
+ If the card is full, replace the card or delete unnecessary images to 
+make room (p.29, 142).
+ If you try to focus in One-Shot AF mode while the focus confirmation 
+light <o> in the viewfinder blinks, a picture cannot be taken. Press the 
+shutter button halfway again to focus, or focus manually (p.35, 84).
+The access lamp still blinks even when the power switch is 
+set to <2>.
+The battery becomes exhausted quickly.
+The camera turns off by itself.
+Shooting-Related Problems
+No images can be shot or recorded.
+COPY
+
+205
+Troubleshooting Guide
+ Set the lens focus mode switch to <AF> (p.31).
+ To prevent camera shake, hold the camera still and press the shutter 
+button gently (p.34, 35).
+ If the lens has an Image Stabilizer, set the IS switch to <1>.
+ If a card error message is displayed, see page 30 or 209.
+ Set [8C.Fn II -2: High ISO speed noise reduction] to one of the 
+following settings: [Standard/Low/Disable]. If it is set to [Strong], the 
+maximum burst will greatly decrease (p.176).
+ If you shoot a subject which has minute details (field of grass, etc.), the 
+file size will be larger and the maximum burst will be lower as 
+mentioned on page 55.
+ If [8C.Fn II -3: Highlight tone priority] is set to [Enable], the 
+settable ISO speed range will be ISO 200 - 6400. When [Disable] is 
+set, you can set any ISO speed (p.177).
+ If you shoot night scenes, the shutter speed becomes slow 
+automatically (slow-sync shooting) so that both the subject and 
+background are properly exposed. If you do not want a slow shutter 
+speed to be set, set [8C.Fn I -7: Flash sync. speed in Av mode] to 
+1 or 2 (p.175).
+The image is out of focus.
+The card cannot be used.
+The maximum burst during continuous shooting is lower.
+ISO 100 cannot be set.
+When I use the <f> mode with flash, the shutter speed 
+becomes slow.
+COPY
+
+206
+Troubleshooting Guide
+ Make sure the flash (or PC sync cord) is securely attached to the 
+camera.
+ If you use a non-Canon flash with Live View shooting, set [Silent 
+shoot.] to [Disable] (p.104).
+ If you use a flash unit other than an EX-series Speedlite, the flash will 
+always be fired at full output (p.103).
+ When the [Flash metering mode] flash Custom Function is set to 
+[TTL (autoflash)], the flash will always be fired at full output (p.106).
+ If flash exposure compensation has already been set with the 
+Speedlite, flash exposure compensation cannot be set with the 
+camera. When the Speedlite’s flash exposure compensation is set to 
+0, flash exposure compensation can be set with the camera.
+ For Live View shooting, use a memory card (a hard disk-type card is not 
+recommended). A hard disk-type card requires a lower temperature 
+range for operation than normal memory cards. If the temperature gets 
+too high, the Live View shooting may stop temporarily to prevent damage 
+to the card’s hard disk. When the camera’s internal temperature 
+decreases, you can resume Live View shooting (p.112).
+ Set [Screen settings] to [Stills display] or [Exposure simulation] 
+(p.109).
+The flash does not fire.
+The flash always fires at full output.
+Flash exposure compensation cannot be set.
+Live View shooting is not possible.
+I cannot take still photos at the shutter speed, aperture or ISO 
+speed I set during Live View shooting.
+COPY
+
+207
+Troubleshooting Guide
+ If the card’s writing speed is slow, movie shooting may stop 
+automatically. Use a card with a read/write speed of at least 8 MB per 
+sec. To find out the card’s read/write speed, see the card 
+manufacturer’s Web site.
+ If the movie file size reaches 4 GB or if the movie is shot for 29 min. 59 
+sec., the movie shooting will stop automatically.
+ If you operate the camera’s dial or lens during movie shooting, the 
+operation noise will also be recorded. Use an external microphone 
+(commercially available) (p.123).
+ If dust is adhering to the LCD monitor, wipe its surface with a lens cloth 
+or soft cloth.
+ In low or high temperatures, the LCD monitor display may seem slow 
+or might look black. It will return to normal at room temperature.
+ In the fully-automatic modes (1/C), some tabs and options are not 
+displayed. Set the shooting mode to d/s/f/a/F (p.40).
+ The [4 Highlight alert] option is set to [Enable] (p.129).
+ The [4 AF point disp.] option is set to [Enable] (p.129).
+The movie shooting quits by itself.
+When the movie is played, camera operation noise can be heard.
+Display & Operation Problems 
+The LCD monitor does not display a clear image.
+Few tabs and options are displayed on the menu screen.
+Part of the image blinks in black.
+A red box is displayed on the image.
+COPY
+
+208
+Troubleshooting Guide
+ If the image has been erase-protected, it cannot be erased (p.141).
+ Set the color space to sRGB. If Adobe RGB is set, the first character 
+will be an underscore (p.76).
+ If you use a card which already has images recorded, the file 
+numbering might start from the last image in the card (p.74).
+ The correct date and time has not been set (p.42).
+ Make sure the stereo video cable or HDMI cable’s plug is connected 
+all the way in (p.139,140).
+ Set the video OUT format (NTSC/PAL) to the same video format as 
+the TV (p.201).
+ Use the stereo video cable that came with the camera (p.139).
+ The printing effects displayed may differ depending on the printer. The 
+instruction manual lists all the printing effects available (p.158).
+The image cannot be erased.
+The file name’s first character is an underscore (“_MG_”).
+The file numbering does not start from 0001.
+The shooting date and time displayed is incorrect.
+No image appears on the TV screen.
+Printing-Related Problems
+There are fewer printing effects than listed in the instruction 
+manual.
+COPY
+
+209
+If there is a problem with the camera, an 
+error message appears. Follow the onscreen instructions.
+To recover from the error screen, turn the 
+power switch <2> and <1>, or 
+remove and reinstall the battery. 
+If error 02 (Card problem) is displayed, 
+remove and reinstall the card or format the 
+card. This may resolve the problem.
+If the same error keeps appearing, there may be a problem. Write 
+down the error code and consult your nearest Canon Service 
+Center.
+Error Codes
+No. Error Message & Solution
+01
+Communications between the camera and lens is faulty. Clean the 
+lens contacts.
+Î Clean the electrical contacts on the camera and lens, use a Canon 
+lens, or have the camera or lens checked or repaired. (p.13,16)
+02
+There is a problem with the card. Replace the card.
+Î Remove and install the card again, replace the card, or format the 
+card. (p.29, 43)
+04
+Cannot save images because the card is full. Replace the card.
+Î Replace the card, erase unnecessary images, or format the card. 
+(p.29, 142, 43)
+06
+Self Cleaning Sensor Unit malfunction. Consult with Canon 
+Service Center.
+Î Operate the power switch or have the camera checked or repaired. 
+(p.27)
+10, 20,
+30, 40,
+50, 60,
+70, 80
+Shooting is not possible. Turn the power switch to <2> and 
+<1> again or re-install the battery.
+Î Operate the power switch, remove and install the battery again, use 
+a Canon lens, or have the camera checked or repaired. (p.27,26)
+Error No.
+Countermeasures
+COPY
+
+210
+System Map
+220EXST-E2 430EX II 580EX II Macro Ring Lite 
+MR-14EX
+Macro Twin Lite 
+MT-24EX
+Eyecup Eb
+Rubber Frame Eb
+Eyepiece Extender 
+EP-EX15
+Angle Finder C
+E-series Dioptric 
+Adjustment Lenses
+Focusing Screen 
+Eg-D Eg-S 
+Wide Strap
+EW-EOS5DMKII
+Bundled 
+Accessories
+Focusing 
+Screen Eg-A
+Date / time 
+CR1616 lithium batteryBattery Pack
+LP-E6Battery ChargerLC-E6 or LC-E6E
+Battery Grip 
+BG-E6
+Battery Magazine
+BGM-E6
+AC Adapter 
+AC-E6
+DC Coupler 
+DR-E6
+AC Adapter Kit 
+ACK-E6
+Car Battery Charger
+CBC-E6
+Car Battery 
+Cable
+CB-570
+COPY
+
+211
+System Map
+Timer Remote
+Controller
+TC-80N3
+Remote
+Switch
+RS-80N3
+Wireless
+Controller
+LC-5
+Remote
+Controller
+RC-5
+Remote
+Controller
+RC-1
+EF lenses
+HDMI Cable HTC-100
+External microphone
+Interface Cable
+IFC-200U
+Interface Cable IFC-500U
+EOS DIGITAL
+Solution Disk
+Software Instruction
+Manual
+Wireless File Transmitter
+WFT-E4/WFT-E4A
+USB external media
+USB GPS unit
+TV/Video
+Wireless LAN
+access point Wireless LAN adapter
+Ethernet port
+PC card slot
+USB port
+Windows Vista
+Windows XP
+Mac OS X
+PictBridge-compatible printer
+Personal 
+computer
+CF card
+Card reader
+PCMCIA adapter
+Original Data 
+Security Kit 
+OSK-E3
+Stereo Video Cable STV-250N
+COPY
+
+212
+•T y p e
+Type: Digital, single-lens reflex, AF/AE camera
+Recording media: Type I or II CF card, UDMA-compatible
+Image sensor size: Approx. 36 x 24 mm
+Compatible lenses: Canon EF lenses (except EF-S lenses)
+(The effective lens focal length is the same as indicated on the lens)
+Lens mount: Canon EF mount
+• Image Sensor
+Type: CMOS sensor
+Effective pixels: Approx. 21.10 megapixels
+Aspect ratio: 3:2
+Dust delete feature: Auto, Manual, Dust Delete Data appending
+• Recording System
+Recording format: Design rule for Camera File System 2.0
+Image type: JPEG, RAW (14-bit Canon original)
+RAW+JPEG simultaneous recording possible
+Recorded pixels: Large : Approx. 21.00 megapixels (5616 x 3744)
+Medium: Approx. 11.10 megapixels (4080 x 2720)
+Small : Approx. 5.20 megapixels (2784 x 1856)
+RAW : Approx. 21.00 megapixels (5616 x 3744)
+sRAW1 : Approx. 10.00 megapixels (3861 x 2574)
+sRAW2 : Approx. 5.20 megapixels (2784 x 1856)
+Create/select a folder: Possible
+• Image Processing
+Picture Style: Standard, Portrait, Landscape, Neutral, Faithful, 
+Monochrome, User Def. 1 - 3
+White balance: Auto, Preset (Daylight, Shade, Cloudy, Tungsten light, 
+White fluorescent light, Flash), Custom, Color 
+temperature setting (2500-10000K)
+White balance correction and white balance bracketing 
+features provided
+* Color temperature information transmission enabled
+Noise reduction: Applicable to long exposures and high ISO speed shots
+Automatic image 
+brightness correction: Auto Lighting Optimizer
+Highlight tone priority: Provided
+Lens peripheral 
+illumination correction: Provided
+Specifications
+COPY
+
+213
+Specifications
+• Viewfinder
+Type: Eye-level pentaprism
+Coverage: Vertical/Horizontal approx. 98%
+Magnification: Approx. 0.71x (-1 m -1 with 50mm lens at infinity)
+Eye point: Approx. 21 mm (From eyepiece lens center at -1 m -1)
+Built-in dioptric adjustment:-3.0 - +1.0 m -1 (dpt)
+Focusing screen: Interchangeable (2 types sold separately), Eg-A standard 
+focusing screen provided
+Mirror: Quick-return type
+Depth-of-field preview: Provided
+• Autofocus
+Type: TTL secondary image-registration, phase detection
+AF points: 9 plus 6 Assist AF points
+Metering range: EV -0.5 - 18 (at 23°C/73°F, ISO 100)
+Focus modes: One-Shot AF, AI Servo AF, AI Focus AF, Manual focusing 
+(MF)
+AF-assist beam: Emitted by the EOS-dedicated external Speedlite
+AF Microadjustment: AF Microadjustment possible
+• Exposure Control
+Metering modes: 35-zone TTL full-aperture metering
+• Evaluative metering (linkable to any AF point)
+• Partial metering (approx. 8% of viewfinder at center)
+• Spot metering (approx. 3.5% of viewfinder at center)
+• Center-weighted average metering
+Metering range: EV 1 - 20 (at 23°C/73°F with EF50mm f/1.4 USM lens, ISO 100)
+Exposure control: Program AE (Full Auto, Creative Auto, Program), shutterpriority AE, aperture-priority AE, manual exposure, bulb 
+exposure
+ISO speed: Full Auto, Creative Auto: ISO 100 - 3200 set automatically
+(Recommended P, Tv, Av, M, B: ISO 100 - 6400 (in 1/3-stop increments)
+exposure index) settable, Auto , or expandable to ISO 50 
+(L), ISO 12800 (H1), or ISO 25600 (H2)
+Exposure compensation: Manual and AEB (Settable in combination with manual 
+exposure compensation)
+Settable amount: ±2 stops in 1/3- or 1/2-stop increments
+AE lock: Auto: Applied in One-Shot AF mode with evaluative 
+metering when focus is achieved
+Manual: By AE lock button
+COPY
+
+214
+Specifications
+•S h u t t e r
+Type: Electronically-controlled, focal-plane shutter
+Shutter speeds: 1/8000 sec. to 30 sec., bulb (Total shutter speed range. 
+Available range varies by shooting mode.) X-sync at 1/200 sec. 
+• Drive System
+Drive modes: Single shooting, continuous shooting, 10-sec. self-timer/
+remote control, 2-sec. self-timer/remote control
+Continuous shooting speed: Max. approx. 3.9 shots/sec.
+Max. burst: JPEG Large/Fine: Approx. 78 shots (Approx. 310 shots),
+RAW: Approx. 13 shots (Approx. 14 shots), 
+RAW+JPEG Large/Fine: Approx. 8 shots (Approx. 8 shots)
+* Figures are based on Canon’s testing standards (ISO 
+100 and Standard Picture Style) using a 2GB card.
+* Figures in parentheses apply to an Ultra DMA (UDMA) 
+2GB card based on Canon’s testing standards.
+• External Speedlite
+Compatible flash: EX-series Speedlites
+Flash metering: E-TTL II autoflash
+Flash exposure 
+compensation: ±2 stops in 1/3- or 1/2-stop increments
+FE lock: Provided
+PC terminal: Provided
+• Live View Shooting
+Shooting modes: Still photo shooting and movie shooting
+Focusing: Quick mode (Phase-difference detection)
+Live mode, Live face detection mode (Contrast detection)
+Manual focusing (5x/10x magnification possible)
+Metering modes: Evaluative metering with the image sensor (still photos) / 
+Center-weighted average metering (movies)
+Metering range: EV 0 - 20 (at 23°C/73°F with EF50mm f/1.4 USM lens, 
+ISO 100)
+Silent shooting: Provided (Still photo shooting)
+Movie: MOV (Video: H.264, Audio: Linear PCM)
+Recording size: 1920x1080 (Full HD), 640x480 (SD)
+Continuous movie shooting time: Full HD approx. 12 min.
+ SD approx. 24 min.
+* Based on Canon's testing standards using a 4GB card.
+COPY
+
+215
+Specifications
+•L C D M o n i t o r
+Type: TFT color liquid-crystal monitor
+Monitor size and dots: 3-in. with approx. 920,000 dots (VGA)
+Coverage: Approx. 100%
+Brightness adjustment: Auto (Darker/Standard/Brighter), Manual (7 levels)
+Interface languages: 25
+•I m a g e P l a y b a c k
+Image display formats: Single, Single + Info (Image-recording quality, shooting 
+information, histogram)
+4-image index, 9-image index, image rotate possible
+Zoom magnification: Approx. 1.5x - 10x
+Image browsing 
+methods: Single image, jump by 10 or 100 images, jump by 
+screen, by shooting date, by folder, by movie, by stills
+Highlight alert: Overexposed highlights blink
+Movie playback: Enabled (LCD monitor, video/audio OUT, HDMI OUT)
+Built-in speaker
+• Direct Printing
+Compatible printers: PictBridge-compatible printers
+Printable images: JPEG and RAW images
+Print ordering: DPOF Version 1.1 compatible
+• Customization
+Custom Functions: 25
+Camera user settings: Register under Mode Dial’s C1, C2, and C3 positions
+My Menu registration: Provided
+• Interface
+Digital terminal: For personal computer communication and direct printing 
+(Hi-Speed USB)
+Audio/video output 
+terminal: 3.5mm dia. stereo mini jack (NTSC/PAL selectable)
+HDMI mini OUT terminal: Type C (Auto switching of resolution)
+External microphone 
+input terminal: 3.5mm dia. stereo mini jack
+Remote control terminal: Compatible with remote control via N3 Type
+Wireless remote control: With Remote Controller RC-1/RC-5
+Extension system 
+terminal: For connection to Wireless File Transmitter WFT-E4/E4A
+COPY
+
+216
+Specifications
+• Power Source
+Battery: Battery Pack LP-E6 (Qty. 1)
+* AC power can be supplied via AC Adapter Kit ACK-E6
+* With Battery Grip BG-E6 attached, size-AA/LR6 
+batteries can be used
+Battery information: Remaining capacity, Shutter count, and Recharge 
+performance displayed
+Battery life: With viewfinder shooting:
+(Based on CIPA At 23°C/73°F, approx. 850 shots. At 0°C/32°F, approx. 
+testing standards) 750 shots .
+With Live View shooting:
+At 23°C/73°F, approx. 200 shots. At 0°C/32°F, approx. 
+180 shots.
+• Dimensions and Weight
+Dimensions (W x H x D): 152 x 113.5 x 75 mm / 6.0 x 4.5 x 3.0 in.
+Weight: Approx. 810 g / 28.6 oz. (body only)
+• Operation Environment
+Working temperature range:0°C - 40°C / 32°F - 104°F
+Working humidity: 85% or less
+•B a t t e r y P a c k L P - E 6
+Type: Rechargeable lithium-ion battery
+Rated voltage: 7.2 V DC
+Battery capacity: 1800 mAh
+Working temperature range:0°C - 40°C / 32°F - 104°F
+Working humidity: 85% or less
+Dimensions (W x H x D): 38.4 x 21 x 56.8 mm / 1.5 x 0.8 x 2.2 in.
+Weight: Approx. 80 g / 2.8 oz.
+• Battery Charger LC-E6
+Type: Charger dedicated to the Battery Pack LP-E6
+Recharging time: Approx. 2 hours 30 min.
+Rated input: 100 - 240 V AC (50/60 Hz)
+Rated output: 8.4 V DC/1.2A
+Working temperature range:5°C - 40°C / 41°F - 104°F
+Working humidity: 85% or less
+Dimensions (W x H x D): 69 x 33 x 93 mm / 2.7 x 1.3 x 3.7 in. (Plug collapsed)
+Weight: Approx. 130 g / 4.6 oz.
+COPY
+
+217
+Specifications
+• Battery Charger LC-E6E
+Type: Charger dedicated to the Battery Pack LP-E6
+Power cord length: Approx. 2 m / 6.6 ft.
+Recharging time: Approx. 2 hours 30 min.
+Rated input: 100 - 240 V AC (50/60 Hz)
+Rated output: 8.4 V DC/1.2A
+Working temperature range:5°C - 40°C / 41°F - 104°F
+Working humidity: 85% or less
+Dimensions (W x H x D): 69 x 33 x 93 mm / 2.7 x 1.3 x 3.7 in.
+Weight: Approx. 125 g / 4.4 oz. (excluding power cord)
+• EF24-105mm f/4L IS USM
+Angle of view: Diagonal extent: 84 ° - 23°20'
+Horizontal extent: 74° - 19°20'
+Vertical extent: 53° - 13°
+Lens construction: 18 elements in 13 groups
+Minimum aperture: f/22
+Closest focusing 
+distance: 0.45 m / 1.48 ft. (From image sensor plane)
+Max. magnification: 0.23x (at 105 mm)
+Field of view: 535 x 345 - 158 x 106 mm / 21.1 x 13.6 - 6.2 x 4.2 in. (at 
+0.45 m)
+Image Stabilizer: Lens shift type
+Filter size: 77 mm
+Lens cap: E-77U
+Max. diameter x length: 83.5 x 107 mm / 3.3 x 4.2 in.
+Weight: Approx. 670 g / 23.6 oz.
+Hood: EW-83H
+Case: LP1219 (sold separately)
+ All specifications above are based on Canon’s testing standards.
+ The camera’s specifications and exterior are subject to change without notice.
+ If a problem occurs with a non-Canon lens attached to the camera, consult the 
+respective lens maker.
+About Full HD 1080
+Full HD 1080 indicates compatibility with High-Definition with 
+1080 vertical pixels (scanning lines).
+COPY
+
+218
+Trademarks
+ Adobe is a trademark of Adobe Systems Incorporated.
+ CompactFlash is a trademark of SanDisk Corporation.
+ Windows is a trademark or registered trademark of Microsoft Corporation in the 
+United States and other countries.
+ Macintosh and Mac OS is a trademark or registered trademark of Apple Inc. in 
+the United States and other countries.
+ HDMI, HDMI logo, and High-Definition Multimedia Interface are a trademark or 
+registered trademark of HDMI Licensing LLC.
+ All other corporate and product names and trademarks mentioned in this 
+manual are the property of their respective owners.
+* This digital camera supports Design rule for Camera File System 2.0 and Exif 
+2.21 (also called “Exif Print”). Exif Print is a standard that enhances 
+compatibility between digital cameras and printers. By connecting the camera 
+to an Exif Print-compliant printer, the shooting information is incorporated to 
+optimize the print output.
+About MPEG-4 Licensing
+“This product is licensed under AT&T patents for the MPEG-4 standard and may be 
+used for encoding MPEG-4 compliant video and/or decoding MPEG-4 compliant video 
+that was encoded only (1) for a personal and non-commercial purpose or (2) by a 
+video provider licensed under the AT&T patents to provide MPEG-4 compliant video. 
+No license is granted or implied for any other use for MPEG-4 standard.”
+* Notice displayed in English as required.
+COPY
+
+219
+Safety Warnings
+Follow these safeguards and use the equipment properly to prevent injury, death, 
+and material damage.
+Preventing Serious Injury or Death
+• To prevent fire, excessive heat, chemical leakage, and explosions, follow the 
+safeguards below:
+- Do not use any batteries, power sources, and accessories not specified in this 
+booklet. Do not use any home-made or modified batteries.
+- Do not short-circuit, disassemble, or modify the battery pack or back-up battery. Do 
+not apply heat or apply solder to the battery pack or back-up battery. Do not expose 
+the battery pack or back-up battery to fire or water. And do not subject the battery 
+pack or back-up battery to strong physical shock.
+- Do not install the battery pack or back-up battery in reversed polarity (+ –). Do not 
+mix new and old or different types of batteries.
+- Do not recharge the battery pack outside the allowable ambient temperature range 
+of 0°C - 40°C (32°F - 104°F). Also, do not exceed the recharging time.
+- Do not insert any foreign metallic objects into the electrical contacts of the camera, 
+accessories, connecting cables, etc.
+• Keep the back-up battery away from children. If a child swallows the battery, consult a 
+physician immediately. (Battery chemicals may harm the stomach and intestines.)
+• When disposing of a battery pack or back-up battery, insulate the electrical contacts 
+with tape to prevent contact with other metallic objects or batteries. This is to prevent 
+fire or an explosion.
+• If excessive heat, smoke, or fumes are emitted during battery pack recharging, 
+immediately unplug the battery charger from the power outlet to stop the recharging 
+and prevent a fire.
+• If the battery pack or back-up battery leaks, changes color, deforms, or emits smoke or 
+fumes, remove it immediately. Be careful not to get burned in the process.
+• Prevent any battery leakage from contacting your eyes, skin, and clothing. It can 
+cause blindness or skin problems. If the battery leakage contacts your eyes, skin, or 
+clothing, flush the affected area with lots of clean water without rubbing it. See a 
+physician immediately.
+• During the recharging, keep the equipment away from the reach of children. The cord 
+can accidentally choke the child or give an electrical shock.
+• Do not leave any cords near a heat source. It can deform the cord or melt the 
+insulation and cause a fire or electrical shock.
+• Do not fire the flash at someone driving a car. It may cause an accident.
+• Do not fire the flash near a person’s eyes. It may impair the person’s vision. When 
+using flash to photograph an infant, keep at least 1 meter away.
+• Before storing the camera or accessory when not in use, remove the battery pack and 
+disconnect the power plug. This is to prevent electrical shock, heat generation, and 
+fire.
+• Do not use the equipment where there is flammable gas. This is to prevent an 
+explosion or fire.
+COPY
+
+220
+• If you drop the equipment and the casing breaks open to expose the internal parts, do 
+not touch the internal parts due to the possibility of electrical shock.
+• Do not disassemble or modify the equipment. High-voltage internal parts can cause 
+electrical shock.
+• Do not look at the sun or an extremely bright light source through the camera or lens. 
+Doing so may damage your vision.
+• Keep the camera from the reach of small children. The neck strap can accidentally 
+choke the child.
+• Do not store the equipment in dusty or humid places. This is to prevent fire and 
+electrical shock.
+• Before using the camera inside an airplane or hospital, check if it is allowed. 
+Electromagnetic waves emitted by the camera may interfere with the plane’s 
+instruments or the hospital’s medical equipment.
+• To prevent fire and electrical shock, follow the safeguards below:
+- Always insert the power plug all the way in.
+- Do not handle a power plug with wet hands.
+- When unplugging a power plug, grasp and pull the plug instead of the cord.
+- Do not scratch, cut, or excessively bend the cord or put a heavy object on the cord. 
+Also do not twist or tie the cords.
+- Do not connect too many power plugs to the same power outlet.
+- Do not use a cord whose insulation has been damaged.
+• Occasionally unplug the power plug and use a dry cloth to clean off the dust around 
+the power outlet. If the surrounding is dusty, humid, or oily, the dust on the power outlet 
+may become moist and short-circuit the outlet to cause a fire.
+Preventing Injury or Equipment Damage
+• Do not leave equipment inside a car under the hot sun or near a heat source. The 
+equipment may become hot and cause skin burns.
+• Do not carry the camera around while it is attached to a tripod. Doing so may cause 
+injury. Also make sure the tripod is sturdy enough to support the camera and lens.
+• Do not leave a lens or lens-attached camera under the sun without the lens cap 
+attached. Otherwise, the lens may concentrate the sun’s rays and cause a fire.
+• Do not cover or wrap the battery-recharging apparatus with a cloth. Doing so may trap 
+heat within and cause the casing to deform or catch fire.
+• If you drop the camera in water or if water or metal fragments enter inside the camera, 
+promptly remove the battery pack and back-up battery. This is to prevent fire and 
+electrical shock.
+• Do not use or leave the battery pack or back-up battery in a hot environment. Doing so 
+may cause battery leakage or a shorter battery life. The battery pack or back-up 
+battery can also become hot and cause skin burns.
+• Do not use paint thinner, benzene, or other organic solvents to clean the equipment. 
+Doing so may cause fire or a health hazard.
+If the product does not work properly or requires repair, contact 
+your dealer or your nearest Canon Service Center. 
+COPY

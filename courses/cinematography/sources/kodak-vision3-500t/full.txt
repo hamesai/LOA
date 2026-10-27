@@ -1,0 +1,308 @@
+## Base
+
+KODAK VISION3 500T Color Negative Film 5219 / 7219 
+ 
+KODAK VISION3 500T 
+COLOR NEGATIVE FILM 5219 / 7219 
+ 
+ 
+TECHNICAL DATA / COLOR NEGATIVE FILM
+ 
+ 
+ 
+MARCH 2026 H-1-5219 
+KODAK VISION3 500T Color Negative Film 5219 / 7219 gives 
+you control and flexibility at every phase of the filmmaking 
+process—from capture through post, in both digital and 
+traditional workflows. 
+KODAK VISION3 500T Film has outstanding skin tones and 
+color reproduction, while adding technical innovations that 
+improve product performance and increase product 
+versatility. The proprietary, advanced Dye Layering 
+Technology (DLT) provides noticeably reduced grain in 
+shadows, allowing you to pull out an amazing amount of 
+shadow detail. The proprietary Sub-Micron Technology 
+enables 2 stops of extended highlight latitude, so you can 
+follow the action into bright light-in a single shot-without 
+worrying about blown-out details. An Anti-halation 
+undercoat replaces the traditional remjet backing layer. A 
+process surviving antistat has been incorporated to reduce 
+dirt attraction. 
+KODAK VISION3 500T Film is designed to extend the 
+capabilities of the DI (digital intermediate) process. The 
+improved grain provides better signal to noise capabilities 
+allowing the colorist to provide greater detail in shadows, 
+while the extended highlight latitude enables improved 
+digital "dodging and burning" to provide more details in 
+highlights. 
+Base 
+KODAK VISION3 500T Color Negative Films 5219 and 7219 
+have an acetate safety base. 
+Storage 
+Store unexposed film at 13C (55F) or lower. For extended 
+storage, store at -18C (0F) or lower. Process exposed film 
+promptly. 
+Store processed film according to the recommendations in 
+ISO 18911:2010, Imaging Materials - Processed Safety 
+Photographic Films - Storage Practices. 
+ 
+Short Term 
+(less than 6 months) 
+Long Term 
+(more than 6 
+months) 
+Unexposed film 
+in original, sealed 
+package 
+13C (55F) 
+RH below 60% 
+-18C 
+(0F) 
+RH below 50% 
+Exposed film, 
+unprocessed 
+-18C 
+(0 F) 
+RH below 20% 
+Not recommended. 
+Process film 
+promptly. 
+Process film 21C (70F) RH 20 to 50% 2C (36F) RH 20 to 30% 
+This relates to optimized film handling rather than 
+preservation; static, dust-attraction and curl-related 
+problems are generally minimized at the higher relative 
+humidity. After usage, the film should be returned to the 
+appropriate medium- or long-term storage conditions as 
+soon as possible. 
+Warm-up Times 
+To prevent film telescoping, moisture condensation, and 
+spotting, allow your film to warm to room temperature 
+(21C/70F) before use: 
+ 
+Film Package 
+Recommended Warm-up Time (Hours) 
+8C (15F) Rise 39C (70F) Rise 
+8 mm 1 1 ½ 
+16 mm 1 1 ½ 
+35 mm 3 5 
+For more information about film storage and handling, see 
+ANSI/PIMA ISO-18911, SMPTE RP131-2002, and 
+KODAK Publication No. H-845, The Essential Reference 
+Guide for Filmmakers, available online at 
+http://www.kodak.com/go/referenceguide. 
+Darkroom Recommendations 
+Do not use a safelight. Handle unprocessed film in total 
+darkness. 
+Exposure 
+Exposure Indexes 
+Tungsten (3200K) - 500 
+Daylight - 320 (with 85 filter)) 
+Use these indexes with incident or reflected light exposure 
+meters and cameras marked for ISO or ASA speeds or 
+exposure indexes. These indexes apply for meter readings 
+of average subjects made from the camera position or for 
+readings made from a gray card of 18 percent reflectance 
+held close to and in front of the subject. For unusually light 
+or dark colored subjects, decrease or increase the 
+exposure indicated by the meter accordingly. 
+Color Balance 
+These films are balanced for exposure with tungsten 
+illumination (3200K). You can also expose them with 
+tungsten lamps that have slightly higher or lower color 
+temperatures (+/- 200K) without correction filters since 
+final color balancing can be done in post-production.
+
+## Post-Production
+
+KODAK VISION3 500T Color Negative Film 5219 / 7219 
+ 
+Light Source KODAK Filters on Camera * Exposure Index 
+Tungsten (3000 K) None 500 
+Tungsten (3200 K) None 500 
+KINO FLO 29 
+KINO FLO 32 None 500 
+Daylight (5500 K) WRATTEN 2 Optical Filter / 85 320 
+Metal Halide WRATTEN 2 Optical Filter / 85 320 
+H.M.I. WRATTEN 2 Optical Filter / 85 320 
+KINO FLO 55 WRATTEN 2 Optical Filter / 85 320 
+Fluorescent, Warm 
+White † CC30R + CC05M 320 
+Fluorescent, Cool 
+White † CC40R 160 
+* These are approximate corrections only. Make final corrections during printing. 
+† These are starting-point recommendations for trial exposures. If the kind of lamp is unknown, a KODAK 
+WRATTEN2 Color Compensating Filter CC30R + CC20Y can be used with an exposure index (EI) of 250. 
+Note: Consult the manufacturer of high-intensity ultraviolet 
+lamps for safety information on ultraviolet radiation and 
+ozone generation. 
+Exposure Table-Tungsten Illumination 
+At 24 frames per second (fps), 180-degree shutter 
+opening, use this table for average subjects that contain a 
+combination of light, medium, and dark colors: 
+EXPOSURE TABLE FOR TUNGSTEN LIGHT 
+Lens Aperture f/1.4 f/2 f/2.8 f/4 f/5.6 f/8 f/11 f/16 
+Footcandles 
+Required 5 10 20 40 80 160 320 640 
+Reciprocity Characteristics 
+You do not need to make any filter corrections or exposure 
+adjustments for exposure times from 1/1000 of a second 
+to 1 second. 
+Processing 
+Process in Process ECN-2. 
+Most commercial motion-picture laboratories provide a 
+processing service for these films. See KODAK Publication 
+No. H-24.07, Processing KODAK Color Negative Motion 
+Picture Films, Module 7 available online at 
+www.kodak.com/go/h24, for more information on the 
+solution formulas and the procedure for machine 
+processing these films. There are also pre-packaged kits 
+available for preparing the processing solutions. For more 
+information on the KODAK ECN-2 Kit Chemicals, check 
+Using KODAK Kit Chemicals in Motion Picture Film 
+Laboratories KODAK Publication No. H-333, available 
+online at www.kodak.com/go/h333. 
+Identification 
+After processing, the product code numbers 5219, or 7219 
+emulsion, roll, and strip number identification, KEYKODE 
+Numbers, and manufacturer/film identification code (EJ) 
+are visible along the length of the film. 
+Post-Production 
+Scanning 
+The wider exposure latitude in KODAK VISION3 Films 
+differentiate film capture from the limited dynamic range 
+of digital capture. Digital "dodging and burning," a very 
+powerful tool in the colorists' toolkit, is now even more 
+powerful—up to two stops more image information can 
+be extracted from scene highlights in VISION3 Films. 
+If traditional 10-bit scanner data encoding schemes are 
+used to digitize films having this extended density 
+range, highlight information captured on these films 
+could be lost. Kodak has recommendations for 
+extracting the full density range stored on high 
+dynamic range films in a technical document titled 
+Scanning Recommendations for Extended Dynamic 
+Range Camera Films, available online at 
+www.kodak.com/go/scanning. 
+Laboratory Aim Densities (LAD) 
+To maintain optimum quality and consistency in the final prints, the 
+laboratory must carefully control the color timing, printing, and 
+duplicating procedures. To aid in color timing and curve placement, 
+negative originals should be timed relative to Laboratory Aim Density 
+(LAD) Control Film. The LAD Control Film provides both objective 
+sensitometric control and subjective verification of the duplicating 
+procedures used by the laboratory. 
+In the LAD Control Method, the electronic color analyzer used for color 
+timing is set-up with the LAD Control Film to produce a gray video 
+display of the LAD patch, corresponding to 1.0 neutral density (gray) on 
+the print. The negative printing original is then scene-to-scene timed. 
+There are specific LAD values for each type of print or duplicating film 
+that the original can be printed on. For print films, the LAD patch is 
+printed to a neutral gray of 1.0 visual density. For duplicating films, the 
+specified aims are at the center of the usable straight-line portion of 
+the sensitometric curve of the film. 
+Due to normal variations in exposure and processing of color negative 
+films, particular scenes may not print exactly at the same printer lights 
+as the LAD Control Film. The LAD Control Film is intended as a set-up 
+tool for electronic color analyzers and printers. It is NOT a reference 
+that every scene must match. Normal film-to-film and scene-to-scene 
+exposure variability is accommodated by the color timing (grading) 
+process, on an electronic color analyzer set up with the LAD Control 
+Film. Normally exposed and processed color negatives will typically 
+print well within the range of an additive printer setup with the LAD 
+Control Film, although SIGNIFICANT or UNEXPECTED departures from 
+this center point balance may indicate an exposure/filtration problem 
+with the cinematography or with the process control. Testing is 
+recommended with specialized negative processing techniques 
+(push, pull, "skip-bleach”, etc.). More information is available in KODAK 
+Publication H-61, Laboratory Aim Density, available online at 
+www.kodak.com/go/lad.
+
+## Image Structure
+
+KODAK VISION3 500T Color Negative Film 5219 / 7219 
+ 
+Image Structure 
+For more information on image-structure characteristics, see 
+KODAK Publication No. H-845, The Essential Reference 
+Guide for Filmmakers available online at 
+www.kodak.com/go/referenceguide. 
+ 
+Modulation Transfer Function 
+The "perceived" sharpness of any film depends on various 
+components of the motion picture production system. The 
+camera and projector lenses and film printers, among other 
+factors, all play a role. But the specific sharpness of a film can 
+be measured and is charted in the Modulation Transfer 
+Function Curve. 
+This graph shows a measure of the visual sharpness of this film. 
+The x-axis, “Spatial Frequency,” refers to the number of sine waves 
+per millimeter that can be resolved. The y-axis, “Response,” 
+corresponds to film sharpness. The longer and flatter the line, the 
+more sine waves per millimeter that can be resolved with a high 
+degree of sharpness — and the sharper the film. 
+ 
+rms Granularity 
+The “perception” of the graininess of any film is highly 
+dependent on scene content, complexity, color, and 
+density. Other factors, such as film age, processing, 
+exposure conditions, and telecine transfer may also have 
+significant effects. 
+Read with a microdensitometer, using a 48-micrometre aperture. 
+To find the rms Granularity value for a given density, find the 
+density on the left vertical scale and follow horizontally to the 
+characteristic curve and then go vertically (up or down) to the 
+granularity curve. At that point, follow horizontally to the 
+Granularity Sigma D scale on the right. Read the number and 
+multiply by 1000 for the rms value. 
+Note: This curve represents granularity based on modified measuring 
+techniques. Sensitometric and Diffuse RMS Granularity curves are produced 
+on different equipment. A slight variation in curve shape may be noticed. 
+ 
+Sensitometry 
+The curves describe this film's response to red, green, and 
+blue light. Sensitometric curves determine the change in 
+density on the film for a given change in log exposure. 
+ 
+
+KODAK VISION3 500T Color Negative Film 5219 / 7219 
+ 
+Spectral Sensitivity 
+These curves depict the sensitivity of this film to the 
+spectrum of light. They are useful for determining, 
+modifying, and optimizing exposure for blue- and greenscreen special-effects work. 
+ 
+Spectral Dye-Density Curves 
+These curves depict the spectral absorption of the dyes 
+formed when the film is processed. They are useful for 
+adjusting or optimizing any device that scans or prints the 
+film. 
+Note: Cyan, Magenta, and Yellow Dye Curves are peak -normalized. 
+ 
+Note: The sensitometric curves and data in this publication represent product tested under the conditions of exposure and processing specified. They are representative of production coatings, 
+and therefore do not apply directly to a particular box or roll of photographic material. They do not represent standards or specifications that must be met by Eastman Kodak Company. The 
+company reserves the right to change and improve product characteristics at any time. 
+ 
+ 
+Available Roll Lengths and Formats 
+See Kodak Motion Picture Products Catalog at www.kodak.com/go/mpcatalog 
+To order film in the United States and Canada, call 1- 800-356-3259, prompt 3. 
+Worldwide customers can find the nearest sales office at www.kodak.com/go/worldwide-film-suppliers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KODAK VISION3 500T Color Negative Film 5219 / 7219 
+KODAK Publication No. H-1-5219 Kodak, Keykode, Vision, and Wratten and the Kodak logo are trademarks. Revised 3-26 
+ © 2026 EASTMAN KODAK COMPANY

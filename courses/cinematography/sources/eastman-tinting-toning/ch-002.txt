@@ -1,0 +1,395 @@
+PART I.
+
+TINTING
+
+In “tinting” the following factors must be taken into consideration:
+
+Nature of the Dye Employed
+
+Dyes are chemically of two different types, acid and basic; so-called
+acid dyes are the alkali salts of organic acids, while basic dyes are
+the chlorides, sulphates, etc., of organic bases.
+
+For the tinting of film only “acid” dyes have been considered
+since it is not possible to make a complete selection from basic
+dyes alone, which would necessitate the use of acid and basic dyes
+in admixture—a procedure highly undesirable and in many cases
+impossible.
+
+Any dye suitable for admixture with others to produce intermediate
+tints should possess the following properties:
+
+_A._ The dye should be inert and not attack the gelatine or support.
+This is of fundamental importance as the gelatine coating of dyed
+film in many cases has a tendency to lose its flexibility, giving
+rise to what is known in the trade as “brittleness.”
+
+Several dyes when employed at a concentration of 1% attack gelatine
+readily at 70 degrees F. and vigorously at 80 degrees F., especially
+in presence of small amounts of acid, producing a marked softening
+and often partial dissolution of the film. The effect is roughly
+proportional to the concentration of the dye and to the temperature,
+and varies with each individual dye.
+
+Experience has shown that the gelatine coating of film which has
+been softened in this way by the dye becomes “brittle” on subsequent
+projection.
+
+The actual factors in the production of brittleness are:
+
+1. The hydrolysing action of acid which in many cases is added to
+assist dyeing. In case a solid acid is employed the heat encountered
+during projection will greatly accelerate this hydrolysis.
+
+2. The corrosive action of the dye itself. Dyes vary considerably in
+this respect according to their particular composition. So far, it
+has not been possible to make any general classification of dyes in
+this connection, though nitro compounds appear to be particularly
+corrosive in their action.
+
+3. The presence of impurities in the dye. These take the form of
+excessive amounts of loading material such as sodium sulphate or
+chloride, or small traces of iron, the latter having a tendency to
+harden the film considerably.
+
+In all the above cases, the physical nature of the gelatine is
+altered, whereby it loses its property of remaining resilient
+under normal conditions of temperature and humidity, resulting in
+“brittleness.”
+
+A suitable test as to whether a dye has any propensity to produce
+brittleness is to incubate a sample of film, half of which has been
+dyed, for about 48 hours at 212 degrees F. If any difference in
+brittleness is noticeable between the dyed and the undyed portions
+so treated after the film has been allowed to stand in the air for
+some time, the dye is unsuitable for tinting.
+
+Apart from the above, most dyes when used at a concentration of 1%
+and at 80 degrees F. produce more or less softening of the gelatine,
+which may be prevented by:
+
+(a) Use of only dilute solutions. Except in very special cases, a dye
+solution stronger than 0.5% is seldom required, the usual strength
+employed being about 0.2%, at which concentration softening is
+unusual.
+
+(b) Use of a minimum amount of volatile acid in the dye-bath or
+omission of the same whenever possible.
+
+(c) By working at temperatures not higher than 70 degrees F.
+
+(d) By slight hardening of the film before dyeing and subsequent
+softening by glycerine, as described below:
+
+_B._ The dye should not “bleed” to any considerable extent when the
+film is washed; in other words, the rate of removal of the dye should
+be slow and only a slight amount should wash out in a period of, say,
+five minutes.
+
+In tinting, bleeding is of very considerable importance, since,
+during the periods between rinsing after dyeing and the placing of
+the film on the drying rack, any drops of water on the surface of the
+film become more or less saturated with dye, and these after drying
+remain as spots and irregular markings which are very apparent on the
+screen.
+
+It is possible in some cases to modify this bleeding by an acid “stop
+bath,” or by adding acid to the dye-bath; though it may be considered
+a general rule that the bleeding of a dye is a property peculiar to
+itself. In making a selection of dyes therefore, it is necessary to
+choose only those whose propensity for bleeding is a minimum.
+
+_C._ The rate of dyeing should be only slightly affected by the
+addition of acid to the dye-bath, although most acid dyes are more or
+less sensitive to acid.
+
+In case the rate of dyeing is appreciably affected by the addition
+of acid it is possible to take advantage of this fact since a much
+weaker dye solution may be employed to obtain a given tint, while an
+apparently exhausted bath may be revived by adding a small trace of
+acid.
+
+Only a volatile acid such as acetic acid should be used since this
+will evaporate on drying, while the strength of the acid in the
+dye-bath should not exceed .05% or one part in 2000, otherwise
+softening of the gelatine is liable to occur, especially if the
+temperature exceeds 70° F.
+
+In the case of a bath containing a mixture of dyes, owing to the fact
+that acid affects some dyes more than others, as the dye-bath becomes
+exhausted and the acid content changes, the tint obtained will
+gradually change also. It is only possible therefore to use acid with
+any degree of certainty in the case of dye-baths containing a single
+dye.
+
+_D._ The dyes should not fade on exposure to heat or light and should
+not be “dichroic” or change color on dilution.
+
+_Moreover, the wear and tear of the film should not be impaired in
+any way after dyeing, and even after incubating for 48 hours at 212
+degrees F., afterwards allowing the film to humidify, no difference
+should be discernible between dyed and undyed film so treated._
+
+_E._ The dye should not be affected by the acid fixing bath since any
+fixing solution accidentally splashed thereon, would destroy the dye
+immediately.
+
+In view of the large number of tints required in commercial work, it
+is undesirable to keep a separate dye-powder for the preparation of
+each particular bath, but rather to prepare the same by admixture
+of three or more dyes. If three only are employed, mixing must be
+conducted with great precision in order to reproduce any given tint,
+but this difficulty is removed by the use of intermediate colors.
+
+The following six standard dyes have been chosen as fulfilling the
+above conditions as nearly as possible, and by suitably mixing
+solutions of these, almost any desired tint may be obtained.
+
+ Name Used in Formula Commercial Name
+
+ Cine Red Serichrome Blue R
+ ” Scarlet Crocein Scarlet MOO
+ ” Orange Orange A Concentrated
+ ” Yellow Niagara Fast Yellow
+ ” Green Ammaco Acid Green L
+ ” Blue Buffalo Fast Blue R
+
+These dyes are obtainable from the National Aniline & Chemical Co.,
+Inc., New York City.
+
+The strength of the dyes may vary slightly from batch to batch, but
+this variation is usually so small as not to materially affect the
+nature of the tint obtained from any particular formula.
+
+The Cine Blue dye appears much redder by artificial light than
+by daylight, especially before drying the film, as do all tints
+containing Cine Blue.
+
+The following formulas are given merely for guidance and should be
+altered to suit individual requirements.
+
+When matching any color view only by artificial light.
+
+FORMULAS FOR TINTING AT 65° F.
+
+ Tint Number on Chart Avoirdupois Metric Time of Tinting
+
+ 1. Cine Red 8 ozs. 250 grams
+ Acetic Acid (Glacial) 3½ ozs. 100 grams
+ Water 50 gals. 200 liters 5 minutes
+
+ 2. Cine Red 8 ozs. 250 grams
+ Water 50 gals. 200 liters 10 minutes
+
+ 3. Cine Scarlet 8 ozs. 250 grams
+ Acetic Acid (Glacial) 3½ ozs. 100 grams
+ Water 50 gals. 200 liters 5 minutes
+
+ 4. Cine Orange 8 ozs. 250 grams
+ Acetic Acid (Glacial) 3½ ozs. 100 grams
+ Water 50 gals. 200 liters 4 minutes
+
+ 5. Cine Orange 1 lb. 500 grams
+ Water 50 gals. 200 liters 10 minutes
+
+ 6. Cine Yellow 8 ozs. 250 grams
+ Water 50 gals. 200 liters 10 minutes
+
+ 7. Cine Yellow 4 ozs. 125 grams
+ Cine Green 8 ozs. 250 grams
+ Water 50 gals. 200 liters 10 minutes
+
+ 8. Cine Green 13 ozs. 400 grams
+ Water 50 gals. 200 liters 10 minutes
+
+ 9. Cine Green 8 ozs. 250 grams
+ Cine Blue 8 ozs. 250 grams
+ Water 50 gals. 200 liters 10 minutes
+
+ 10. Cine Blue 8 ozs. 250 grams
+ Water 50 gals. 200 liters 10 minutes
+
+ 11. Cine Blue 4 ozs. 125 grams
+ Water 50 gals. 200 liters 10 minutes
+
+ 12. Cine Blue 8 ozs. 250 grams
+ Cine Red 4 ozs. 125 grams
+ Water 50 gals. 200 liters 10 minutes
+
+Method of Mixing
+
+Dissolve the solid dyes in as small an amount of hot water as
+possible, and filter through fine muslin. Pour hot water over any
+residue remaining, which should only be slight, in order to ensure
+thorough solution of the dye, and dilute the solution in the tank to
+the required volume at 65 degrees F.
+
+Nature of Positive Film
+
+Only good snappy positive film may be successfully tinted, since
+tinting tends to reduce contrast.
+
+The depth of the tint obtained depends on the following factors:
+
+Nature and Strength of the Dye-bath
+
+Except in special cases such as fire scenes, sunset and moonlight
+effects, and the like, it is very undesirable to employ strong tints,
+since apart from the displeasing effect and irritation to the eye,
+the dyes produce a slight softening of the gelatine film when used at
+80 degrees F. in 1% solution.
+
+Should it be necessary to employ concentrated baths in summer,
+either cool the dye-bath or use a suitable hardener. This will
+be unnecessary if hardener is employed in the fixing bath after
+development, but otherwise if formalin (40%) be added to the dye-bath
+to the extent of 1 volume to 400 volumes of dye solution, no trouble
+will be encountered. During the winter months, when it is advisable
+to treat all film after developing and fixing, with glycerine, the
+latter may be incorporated with the dye-bath, thereby eliminating
+an extra operation. The strength of the glycerine should be 2%, or
+two volumes per one hundred volumes of dye solution. In most cases,
+however, the addition of glycerine considerably retards the rate of
+dyeing, so that in order to obtain the same degree of tinting within
+a period of ten minutes, the concentration of the dye-bath should be
+increased accordingly.
+
+When delicate tints are employed, the effect is both to remove the
+contrasty black and white effect, and to add a touch of warmth to
+the black deposit of silver, even in cases where the highlights are
+insufficiently stained to be noticeable. The result in many cases is
+equal to that obtained by partial toning, for example, tint No. 11
+gives the effect of a blue-black tone.
+
+Temperature of Dye-bath
+
+Although temperature has little effect on the rate of dyeing with
+the dyes recommended, when used without the addition of acid it is
+advisable in all cases to work at 65 to 70 degrees F. in order to
+produce uniform results and remove any danger of softening the film.
+
+Time of Dyeing
+
+In order to duplicate any particular tint with a given dye-bath the
+film may be dyed either by time or by inspection. Dyeing by time is
+reliable if the dye-bath does not contain acid, though if acid is
+present, in time the acidity decreases, causing a slowing down of the
+rate of dyeing so that it becomes necessary to judge the progress of
+dyeing by inspection.
+
+If two or more tints of the same color are required, in order to
+reduce the number of individual dye-baths to a minimum, it is better
+to vary the time of dyeing rather than to vary the dilution of the
+bath, providing the time of dyeing for the lighter tint is not
+less than one minute, which time is considered a minimum for the
+production of uniform results and for complete control of the dyeing
+operations.
+
+The time of dyeing also depends somewhat on the previous handling of
+the film. Film which has been fixed in a bath containing ordinary, or
+chrome alum, dyes more quickly than that treated with plain hypo and
+hardened with formalin.
+
+It is probable therefore, that small traces of alum are left in the
+film even after prolonged washing, which serve as a mordant for the
+dye.
+
+The film samples herewith shown were fixed in the regular acid hypo
+bath, so that if for any reason the tints indicated are not obtained
+in the time stated, then either the time of dyeing or the dilution of
+the dye-bath should be altered accordingly.
+
+Should the film for any reason be over-dyed, a small portion of the
+dye may be removed by washing for 10 to 15 minutes, though the nature
+of the dyes will permit only slight mistakes to be rectified in this
+manner.
+
+Life of the Dye-baths
+
+This averages about 40,000 feet per 50 gallons of dye-bath. The baths
+may be revived at intervals by the addition of more dye, though this
+procedure is uncertain and it is generally advisable to mix fresh
+solution.
+
+The addition of a trace of acetic acid (1 part in 1000) will revive
+an apparently exhausted bath though as stated above, it is only
+advisable to do this in the case of baths containing a single dye.
+
+Method of Procedure
+
+Either the “drum” or “rack” method may be employed, and in either
+case after dyeing for ten minutes (during which time the drum or rack
+should be agitated to ensure even dyeing and prevent accumulation of
+air bubbles) the film should be given a thorough rinse in plain water.
+
+Before drying films on racks it is advisable to set the rack at a
+slight angle for a few minutes, to enable the surplus water to drain
+off more readily through the perforations. If drums are used for
+drying it is advisable to remove the surplus water by whirling the
+drum previous to drying.
+
+If uniform results are to be obtained, film should never be passed
+through the projector before either tinting or toning.
+
+How to Obtain Intermediate Tints
+
+The twelve tints above are given merely as examples; other tints
+may be readily obtained by making a trial with a small amount of
+solution on a short length of film, taking care to match the tint in
+artificial light and not by daylight, since any dye containing Cine
+Blue appears redder by artificial light than by daylight.
+
+When matching think of the tint as being made up of one or more of
+the colors, red, yellow, and blue. Colors such as orange are made
+by mixing yellow and red, violet by mixing red and blue, and green
+by mixing yellow and blue. Browns are obtained by mixing all three
+colors red, yellow, and blue.
+
+When comparing any two particular tints, it is usual to say that
+one is redder, yellower or bluer than the other, and the two may
+therefore be matched accordingly.
+
+Choice of Tint
+
+Almost any tint if delicate may be employed with advantage, though
+for general use those ranging through pink, rose, orange, yellow,
+pale green and pale blue are to be recommended; others are for
+special purposes.
+
+It is always desirable to obtain harmony in color, especially when
+combining tinting with toning, so that the combination is pleasing to
+the normal eye.
+
+For local tinting and hand coloring, the above dyes are likewise
+satisfactory.
+
+TROUBLES IN TINTING
+
+Streaks and Uneven Coloring
+
+Cause
+
+a. Grease on the film. Never project film before tinting.
+
+b. Slight bleeding and insufficient squeegeeing when on the drying
+rack. Always carefully remove any surface moisture from the film with
+a damp chamois, before drying.
+
+Sludge in the Dye-bath
+
+This is due to the precipitation of the dye by small traces of alum
+or iron in the water supply. In many localities water is purified by
+adding alum, and only the smallest trace need be present to throw
+some of the dye out of solution.
+
+Frothing of the Dye-bath
+
+This occurs only when tinting on the drum with Cine Scarlet, Cine
+Orange, and Cine Green, but no inconvenience will be caused if the
+drum is revolved slowly.
+
+FOOTNOTES:
+
+[1] The patent rights to this method are being secured by us, but it
+may be freely used for toning motion picture film manufactured by the
+Eastman Kodak Company.

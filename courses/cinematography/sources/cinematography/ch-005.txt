@@ -1,0 +1,99 @@
+Chapter 4: Image Control
+
+IMAGE CONTROL
+
+FILTRATION
+
+Modern lenses are remarkably sharp. For the most part this we want. In some cases, however, we are looking for a softer imag [he most frequent reason is beauty. A softer image, especially of a woman’s face, will generally be prettier. A soft image may als: be more romantic, dreamlike or, in a subjective shot, may translate to a state of mind less in touch with reality. A softer image can be achieved in a number of ways. Some of these are discussed in the chapter on /mage Control; here we deal with altering the image ity with the lens and shutter only.
+
+SOFT LENSES
+
+Some shooters use older lenses for an image that is subtly soft a way that is difficult to achieve with filters. Soft lenses ca slightly greater apparent depth-of-field. This is because the fal from critical sharpness is somewhat masked by the softness.
+
+Besides not ee made with the latest, computer aided optica design and manufacturing, older jehses optical coatings. T he coating internal flares and reflections, which slightly ‘deer: ade and soften the image y if the sun or other strong light source directly hits the lens the internal flares and reflections are ’ apparent in an old lens as compared to a modern one. In a few cases filmmakers have either used old lenses or even had the special coa ings chemically stripped off of lenses to create this effect lave less ‘soph isticatec ge th vent FLARE/GLARE
+
+\ direct, specular beam of light that hits the lens will create a flare that creates veiling glare, which appears as a sort of milky whiteness over the whole image. This is why so much attention is paid to the matte box or lens shade and why the grips are often asked to set lens ers — flags that keep direct light sources from hitting the lens. There are execptions, such as in Figure 3.23.
+
+FRAME RATE
+
+The speed at which the film runs through the camera also has a effect on our perception of the shot. Since film is almost always projected or transferred to video at 24 fps, running the camera at higher speed will slow the action down and running at a normal frame rate will speed the action up.
+
+OW?!
+
+3.23. The way in which deliberate glare in the lens affects image quality is often used to put the audience in the position of someone caught in the headlights or to give the psychological feeling of someone who’s vision is partially obscured — impressionistic, even surreal (The Big Combo).
+
+High speed filming generally produces an image w ith a dreamlike, otherworldly effect. Low speed filming, which speeds the action up, is most often used for a comedy effect. The slowing effect of off-speed filming can result in a very subtle emphasis of a particular moment when the frame rate is from 26 to 28fps. Higher speeds can even further underscore and dramatize a particular moment.
+
+Scorsese used this very effectively in some of the fight scenes in Raving Bull: at times the camera was running at as much as 120fps, definitely high speed photography. It has always been possible to change the frame rate during a shot but now many cameras can aulo-matically compensate exposure with the aperture or shutter, thus making “ramping” during the shot far easier. Ramping has become a popular and useful technique Higher frame rates are frequently used in commercials, especially in shots of water soaked vegetables dropping to the table or beer cans opening. These frame rates are generally at least 120fps or higher. 120fps can be achieved with standard cameras such as the Arti [I] or 435 or the Panavision Panastar II, Anything over 120tps calls for a special high-speed camera. Photo-Sonics manufactures a 3.24. (top) A very long lens on a pai number of high speed cameras as does NAC. These are discussed in ning shot makes the background and a ‘ foreground swoosh by in an impre:
+
+sti : ‘ | ] ‘ eg y = I - cH t ae re ° detail in the chapter 7echnical Issues sionistic blur SLOW SPEED BLUR 3.25. (above) A combination of shut ; , ter speed, very wide lens and dutch There is a special case of off-speed filming which produces a very _ tilt give this shot extra punch dramatic, blurring effect which is often used in commercials and occasionally in narrative films. The effect is achieved by running the camera slower than usual, most often at either 12 fps (frames per second) or 6 fps and then transferring to video at the same rate.
+
+The effect is blurring but the action runs at normal speed. It looks very much like it is slowed down, but it isn’t (Figures 3.24, 3.25 and 3.25). The reason it works is that when the camera Is run at a very low speed, the shutter is open for a much longer than normal time, Anyone with experience in still photography knows that 1/60th of a second is about the slowest you can shoot any moving subject without noticeable blurring. Shooting at six FPS makes each frame approximately 1/12th ofa second.
+
+At 24 frames per second and a typical 180° shutter, the film camera is exposing each frame for 1/S0th of a second. The reason that tt is acceptable to shoot at such a low speed is that, due to the persistence of vision, the frames perceptually overlap slightly and mask 3.26. Slow speed blur is a combin tion of shutter angle and telecine 3.27. This shot from Three Kings employs a combination high frame rate and wide shutter angle.
+
+cinematography 56 the unsharpness. With very rapidly moving objects, the blur is apparent, but this generally reinforces the feeling of speed and energy.
+
+Blur which renders a single frame as nearly unrecognizable by itself reminds us that we are not taking still photos. As a still photograph this would not stand up itself, but as part of the scene, it is even more effective that a perfectly lit, well composed detailed photograph.
+
+SHUTTER ANGLE
+
+Another factor in the sharpness of an image is the shutter angle.
+
+Most film cameras run with a shutter of approximately 180°. This means that the film is being exposed for half the time and for the other half, the image is being projected into the viewing system for the operator to see. Many cameras have variable shutters. The widest standard shutter is 210°, which is not appreciably different from 180°. Closing the shutter down more and more has an effect on the image. The more closed the shutter, the shorter the exposure and therefore the sharper the image. A shutter of 90°, for example, will be a much cleaner, sharper image of any moving object. Beyond 90° there will be another effect in addition to sharpness. Since the shutter is now closed significantly longer than it is open, the subject has longer to move between exposures. This will result in a “strobe” effect with a stuttering motion effect. This was used extensively in Saving Private Ryan, Three Kings and other films as well as many music videos (Figure 3.27).
+
+Changes in shutter angle can also be used in conjunction with strobe lighting such as Unilux. As in still photography, strobe lighting has the effect of “freezing” action. Details of lighting with strobes are discussed in the chapter on Technical issues. The ability of strobe lighting to sharpen and delineate moving images is often used in product shots of beverage cans opening or shower shots for shampoo commercials. As discussed later, pure strobe lighting can usually be too sharp. In a shower shot, for example, using strobe only makes the drops of water look like sharp needles. To moderate this effect, the strobe lighting is usually combined with a continuous source such as tungsten lighting.
+
+TIME LAPSE
+
+An extreme example of slow motion is time lapse photography. In time lapse, there is a significant amount of time between each exposure. As a result, the action will be speeded up considerably. Clouds will slide across the sky, day can turn to night in a few seconds or a rose can bloom in less than a minute. Time lapse is usually achieved with an intervalometer. See Technical Issues for information on doing the calculations to determine frame rate and duration.
+
+LENS HEIGHT
+
+Variations in lens height can also be an effective tool for adding subtext to a shot. As a general rule. dialog and most ordinary “people” shots are done at the eye level of the actors involved. Some filmmakers attempt to avoid using many straight on eye level shots as they consider them boring. Variations from eye level have filmspace implications, psychological undertones and are useful as a strictly compositional device.
+
+Variations from eye level are not to be done casually, especially with dialog or reaction shots. Keep in mind that deviations from eye level are asking the viewer to participate in the scene in a mode that is very different from normal, so be sure that there is a good reason for it and that it is contributing in a way that helps the scene. This does not apply to establishing shots, in which the viewer is well accustomed to seeing the scene from above.
+
+High Angle
+
+When the camera is above eye height, we seem to dominate the subject. The subject is reduced in stature and perhaps in importance. Its importance is not, however, diminished if the high angle reveals it to be a massive, extensive structure, for example. This reminds us that high angles looking down on the subject reveal overall layout and scope in the case of landscape, streets or buildings. This is useful if the intent is an establishing or “expository” shot where it is important for the audience to know something about the layout.
+
+The opposite is true for a low angle. When a character is approaching a complex or landscape as seen from a low angle, little is revealed beyond what the character might see himself — we share the character’s surprise or sense of mystery. The two can be used in combination for setting up a shock or suspense effect: if the shots associated with the character are from a low angle, we share his foreboding and apprehension at not knowing.
+
+If these are then combined with high angle shots which reveal what the character does not know, we are aware of whatever surprise or ambush or revelation awaits him: this is the true nature of suspense. As Hitchcock so brilliantly observed — there can be no real suspense unless the audience knows what is going to happen. His famous example is the bomb under the table.
+
+If two characters sit at a table and suddenly a bomb goes off — we have a moment of surprise that is quickly over, a cheap shock at best.
+
+If the audience knows that the bomb is under the table and is aware that the timer is clicking steadily towards exploding, then there is true suspense which engages and involves the audience in a way that simple shock never can. If the audience is on the edge of their seats knowing that the time on the clock is growing shorter, then the fact that the two characters seated at the table are nattering on amiably about the weather is both maddening and engaging. The audience is drawn into the scene, frustrated by their inability to warn the people to run for their lives.
+
+The high angle is, of course, impersonal by its very nature. As with subjective and objective camera views on the lateral plane, we can see camera angles that diverge from eye level as increasingly objective, more third person in terms of our literary analogy. This applies especially to higher angles. A very high angle is called a “God’s eye view,” suggesting its omniscient, removed point-of-view: distant, separate from the scene, a world view, philosophical and contemplative. We see all parts of the scene, all interacting forces equally without particularly identifying with any of them. See the example from Fargo in Figure 3.28.
+
+-— S - $ = ~ 3.28. If this shot was not done from a very high angle, it would not be so graphically strong and abstract, which are the qualities which reinforce the scene values of isolation and ominous portent. (Fargo, Grammercy Pictures/MGM, 1996.)
+
+lens language 3.29. This very low angle from Citi zen Kane is the scene the morning after Kane has suffered the devastation of losing the election as his affair with the singer was revealed.
+
+The low angle reinforces the feeling that the world is out of whack, nothing is normal, all is lost. The usual <a angles would convey none of this.
+
+3.30 (below) and 3.31. (bottom) In Touch of Evil, Welles uses this smash cut from a very low angle to a very high angle to convey disjointed frenzy juxtaposed with quiet con splracy.
+
+cinematography 58
+
+Low Angle
+
+The same is not quite as true for low angles. Although any time we get away from human eye level we are decreasing our subjective identification with the characters, low angles can become more subjective in other ways. Clearly a very low angle can be a dog’s eye view: especially if it is cut in right after a shot of the dog and then the very low angle moves somewhat erratically and in the manner of a dog, (Figures 3.30 through 3.32).
+
+This was used very effectively in the film /fo/f, when the charactet turns into a werewolf. There is a special rig, called “Doggy-cam” specifically designed for these types of shots. The relative subjectiveness of a shot relates to things for which we have a height reference: a very low lens height can be a pig’s view, an eye level PO can be a stalker POV and perhaps a7 or 8 foot lens height could be a giants or a robots POV, but beyond that we do not have a subject ret-erence and it is no longer subjective, it is perceived by the audience as an objective view and nothing more. With low angles, the subject tends to dominate us. If the subject is a character, that actor will seem more powerful and dominant. Welles used low angles extensively in Citizen Kane to suggest the power and overbearing personality of the central character (Figure 3.29). Any time the actor being viewed is meant to be menacing or frightening to the character we are associating the POV with, a low angle is usually appropriate.
+
+Certainly if it is any sort of villain or monster, an eye level shot will diminish the sense of danger.
+
+TILT
+
+In most shooting we strive for the camera to be perfectly level. It is the job of the camera assistant and the dolly grip to recheck every time the camera is moved and ensure that it is still “on the bubble.”
+
+This refers to the bulls-eye or transverse bubble levels that are standard on all camera mounts, heads and dollies.
+
+This is crucial because human perception is much more sensitive to off-level verticals than to off-level horizontals. Ifthe camera is even a little off, walls, doorways, telephone poles, any vertical feature will be immediately seen as out of plumb. There are instances, however, where we want the visual tension of this off-level condition to work for us to create anxiety, paranoia, subjugation or mystery. The term for this is “dutch tilt” or “dutch angle.”
+
+This is used extremely well in the mystery/suspense film The Third 3.32. Kubrick is a ing the right the story pow lens height statement abc the character | Learned t the Bomb. Columbia ist half the shots are done with the camera off level fectively The Lady From Shans -s also uses It very el . he is trapped in the carnival crazy house at the end s also still under the influence of the pills he took his escape from the courthouse. In this shot, the camera Is ht as he enters in the distance. Then, as he crosses ough a door to a second room, the camera, instead rame and goes tracking, tilts to the opposite angle and ends with a hard left tilt Figures 3.34 and 3.35)
+
+rhis ¢ ourse ntirely in keeping with the surrealistic atmo sphere of the crazv house and of his deranged, drugged state of ind. but it another advantage as well. Tracking shots which move past walls are not at all unusual. In this type of shot we track ilong with the character who walks through a door into the nex amera passes through the wall and what we see Is usu-black vertical line which represents the edge of the wall which ire Magically transversing \ lal ed. what the audience does not see can be as nportant ye audience does see. Camera positions and perspectives may be chosen which deliberately obscure some key haracter until the filmmaker chooses to show it. This type if move is called a reveal. Reveals not only uncover new infot tion, they can also be an important part of adding layers of depth to the » example: let’s go back to Helen on the way to her office. The purpose of the scene is to reveal that Helen is some-d in a financial scandal. We discussed how the establish n used to not only show where we are and orient us vithin Helen’s world but can also impart valuable information that ve to be spelled out in “on the nose” expository \ Mn hav newsstand in front of her building and that nancial scandal is on the front page. Let’s say Helen stops on o the ice and picks up a newspaper. As she opens it, the idlin the frame. The information is shown to the audience in fairly unself-conscious way. The newspaper is then lowered. We sce Helen Instead we see over het should yorter who broke the story. It is thus reveale Just past het id introduced natural and seamless way. This is a reveal srops. Reveals are more often accomplished with a

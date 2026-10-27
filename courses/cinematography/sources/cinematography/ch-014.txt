@@ -1,0 +1,323 @@
+Chapter 13: Video Basics
+
+12.1. (previous page) SMPTE 75% color bars — one of the most basic references in video.
+
+cinematography 194
+
+BASICS OF VIDEO
+
+Even if you are purely a film person, it is essential to know the basics of video. There is hardly a set anywhere today that does not have a video tap monitor and often directors and producers make judgments from that monitor even when is badly out of specs and in no way represents what is actually being recorded on film or tape.
+
+Today, nearly all editing and a great deal of postproduction is on video and we can envision a time in the near future when virtually 100% of it will be. Moreover, as the High Def age approaches, even film people must think ahead to the changeover.
+
+No matter how well designed and “goof proof” a piece of video equipment is, it is still not a matter of “point and shoot.” Even if certain systems are automated, this automation may have unwanted consequences down the line. To understand video, it is necessary Lo have an overview of the basic video signal. Black-and-white television broadcasts began in 1936 in Britain and in 1939 in the U.S.
+
+Standard television had a 4:3 aspect ratio. This matched the standard film projection frame of the time — a format going back to the time of Edison and Dickson. Over 60 years later this aspect ratio is still in use today, even though film has undergone many changes, Only now is there a move toward a wider 16 x 9 format.
+
+THE VIDEO SIGNAL
+
+NTSC is the name for the method used to transmit television signals in North America. It is named for the name of the group that sets the broadcast television standards in North America — the National Television Standards Committee, originally formed to standardize the method for color television broadcasting. The method chosen (augmenting the existing black-and-white composite video signal) was standardized in 1953 and is still the standard for North America and Japan.
+
+The NTSC was given the mandate to introduce color to the television system without affecting the black-and-white system then in use, It was considered essential that people who owned black-and-white televisions not have to replace them and that color signals be viewable on these black-and-white monitors. While a laudable goal (and one that probably accelerated the acceptance of color) it caused the committee to impose certain engineering standards which still cause trouble today. Because the color signal had to be more or less “crowbarred™ into the black-and-white signal, some very odd things had to be done which make the color signal variable and difficult to control.
+
+Certainly if you have ever been in a TV store and seen how nearly every set is a different color (even similar sets from the same manufacturer) you know how deeply ingrained this problem is. Many people refer to NTSC as “Never Twice The Same Color.”
+
+Originally, black-and-white television had a frame rate of 30fps. which was half of the standard 60 hertz of the national power grid.
+
+When color was introduced, this was found to be a problem: as a result, the frame rate of NTSC video is 29.97 frames per second. It is 0.1% slower than the original 30 frames per second, to avoid interference with the color subcarrier part of the signal.
+
+The scanning electron beam starts at the top left of the picture tube and scans one horizontal line. When it reaches the right hand side of the picture, the beam drops down and writes the next line. In the early television systems, this process of writing 525 lines created a very noticeable flickering because it takes 1/30th of a second for the whole frame to be scanned. 1/30th of a second is below the threshold level of persistence of vision.
+
+You must be thinking: “But film is 1/24th of a second and we don’t notice flicker there.” Almost true. Film is shot at 24 frames per second. (With a 180° shutter this makes an exposure time of 1/50th of a second.) However, it is not shown at 1/24th of a second. If it was, there would be a noticeable flicker.
+
+Projectors have a blade which passes across each frame as It 1s shown. This breaks each projected frame into two frames as seen by the eye: thus the film is being projected at 48fps. To reduce this flicker in video, engineers developed a system of “interlaced scanning.” Interlacing means that as the beam scans down the screen it does not write the whole picture; instead, it writes every other line skipping every other line. This is called a field. A field is one half of the visual information of each frame. The two fields portray the same image but as alternate lines. The two of them together compose one video frame which is 1/30th ofa second. Field one consists of all of the odd-numbered lines #1, #3, etc. Field two contains the even numbered fields #2. #4, etc. (Figure 12.2).
+
+After field one is scanned for all the odd-numbered lines, a vertical syne pulse returns the scanning beam to the top of the picture tube and then scans all of the even-numbered lines. The persistence of the CRT phosphor is long enough that the first field remains displayed while the second is being written.
+
+In NTSC, each frame is made up of 481 horizontal lines (240.5 lines per field) that are visible (sometimes called “active”) plus another 44 lines (22 per field) that are blanked. These lines are blanked because they occur while the scanner beam is traveling back up to the starting point at the top left of the screen. If the beam was not blanked, there would be a smearing effect. This makes a total of 525 lines per frame. There are types of electronic information that come together to form a complete video image. Together they are called the television composite waveform, more commonly referred to as composite video (Figure 12.3).
+
+THE COMPOSITE VIDEO SIGNAL
+
+Early on the Institute of Radio Engineers divided this signal into units, called IRE units. It is now the IEEE — Institute of Electrical and Electronic Engineers, but most people in the field still call them IRE units. (IEEE is just too many syllables.) The basic signal | Volt Peak to Peak Video is divided up into 140 IRE units. This is done 4100 IRE Luminance Signal fal a | he= ad mn _ -aien = Setup _ (7.5 IRE) ™ Blanking _ (0 IRE)
+
+HORIZONTAL SYNC’
+
+2% &4% KFACTOR NTSC 12.2. Horizontal scanning ona video monitor.
+
+12.3.Components of the NTSC video signal. For more information on interpreting this diagram, see the following illustrations of the waveform monitor signal.
+
+video and high def 12.4. (below) The sync pulse on the iveform monitor. (Photo courtesy of Tektronix.)
+
+12.5. (bottom) The black reference level on the waveform. (Photo courtesy of Tektronix.)
+
+199 ——— “True black” that is 0 IRE units (0 volts on the signal) is a | to make numbers for luminance levels easier to communicate. The amplitude of the video signal from blanking (zero volts) to peak white is 0.714286 volts or 100 IRE units. Synchronization signals extend from blanking to -1.285714 volts or -40 IRE units, The eight ents of the composite video signal include * Horizontal line syne pulse * Color reference burst * Reference black level « Picture luminance information « Color saturation information * Color hue information * Vertical syne pulse Horizontal Sync Pulse
+
+Before each line is scanned a horizontal syne pulse sets the electron beam to a locked position so that each scan line starts at the same position during scanning. The horizontal syne pulse tells each scan line where on the screen to start, so they don’t wander around from field to field (Figure > 12.4), Color Reference Burst
+
+To insure standard hue and color saturation, a 3.58 megahertz colon reference burst is added before the picture information on each scan line, It is a sine wave with eight to nine cycles. Its phase is set at 7CTO.
+
+Reference Black Level
+
+Black level is also called “setup” or “pedestal.” Setup is one Of the most basic adjustments we make to the video signal. It is \ ariously called setup, pedestal or “picture” on a television set: but it’s all the same thing the lowest level of the video signal: basic black Setup is 7.5 IRE units (Figure 12.5). For technical reasons it is not set at 0.0 units as one might expect. One critical difference between analog and digital video is that there is no setup in digital video: it is not necessary. All forms of digital video start at zero. This is because there is less chance for random variation, which the setup IS designed | to protect against. Digital signals, at least at the processing , are more controllable than analog signals. Once it gets to the disples there is still variation.
+
+Luminance
+
+Luminance ts the ge of the signal. It is the gray scale of the picture, without regard to color. Picture luminance ranges from 7.5 IRE units for black to 100 IRE units for peak white This is what is called “legal video.” Legal means that it is video signal that will work well on most monitors and television sets. It is important to understand that the video signal can go below and can go above 100, but this is liable to cause trouble in broadeast-ing or viewing.
+
+But these limits are often exceeded, especially at the ACK!
+
+black and gives a better picture. Cinematographers will often ask the telecine operator to “crush the blacks.” meaning let the black end of the signal drop to near 0. This gives more contrast and a riche! picture. (See the section on Transferring Film to Video later in this chapter for more on shooting gray scales and color bars in order to control your image | ine.)
+
+Color Saturation
+
+Color information is interwoven with the black-and-white signal in the form of a 3.58 megahertz subcarrier. The saturation of the colors is determined by the amplitude of the subcarrier. The hue of the color is determined by comparing the phase of the subcarrier with the phase of the Color Reference Burst (see above).
+
+Color Hue
+
+As we recall from the chapter on color, hue is the spectral wavelength. [t is what, in everyday language, we call “color.” (See the chapter on Color Theory.) € olor hue is also present in the 3.58 megahertz subcarrier. The accuracy of colors in the picture 1s determined by the phase or rotation of the color hue information.
+
+Vertical Sync Pulse
+
+When the scanning beam reaches the end of the bottom line, 1t must return to the top to start the next field. If it was visible while it swung back, there would be ghosting; this was a problem in early TV. The vertical syne pulse controls the length of time of the vertical blanking interval. The vertical blanking interval is sometimes used fot inserting timecode, automatic color tuning and captioning information in the video signal. Since it doesn’t have to carry video information it is a good place to place other types of data.
+
+Horizontal Blanking Interval
+
+There is also a horizontal blanking interval which occurs between the end of one sean line and the beginning of the next. This blanking interval is controlled by the horizontal syne pulse. As with the verti-eal interval, the scanning gun is turned off while the beam swings back to the left of the screen so there is no ghosting. Contained in this interval are the horizontal syne pulse and color reference burst.
+
+THE WAVEFORM MONITOR AND VECTORSCOPE
+
+To see the various elements of the composite video signal two spe test oscilloscopes are used the waveform monitor and the vectorscope (Figure 12.6). On a video shoot, the waveform monitot is your light meter and the vectorscope is your color meter. Color monitors, even very sophisticated ones, can be notoriously unreliable, but information for the waveform and vectorscope can almost always be trusted. Lighting “to the monitor” can lead to disaster, even in High Def, Field #1 L Field #2 | ———. 100 IRE peaking 75 IRE
+
+——_—— 7.5 IRE - Pedestal ~——— 0 IRE -40 IRE - Blanking 12.6. Video signal of SN bars on a waveform mo courtesy of Tektronix.)
+
+Blanking interval ‘Color burst % color bars for a ful color hese color bars on a both flelds. They 1 luminance and chro This 75% color bar signal also of includes a 100% white reference The waveform monitor displays the black-and-white video signa information. It allows you to analyze the information from a frame or from just one line of video. The waveform monito plays the signal on a scale seen in | re 12.6 Signals that are below 7.5 units (pedestal) lose detail and thi above 100 units (maximum white) are washed out detail. Peaking above this signal can cause other problems in th system as well. If there is skin tone in the picture and it is in the +5{ to +80 range it should appear properly exposed SMPTE COLOR BARS
+
+Standard reference color bars are shown in Figure 12.1. O waveform monitor they appear as in Figure 12.8. Ret waveform monitor measures luminance or brightness only, not ¢ What is represented here is the luminance value of each he color bar plus chrominance (saturation), On the set you might wonder w dard video monitor to see 1f your picture 1s what you want. The prob em Is that an ordinary picture monitor 1s not a reliable guide to the signal you are recording or to how that picture will lool shed videotape; for that matter, even a very expensive monitot high end video monitors can cost $20,000 and more) \ iy you couldn’t just look at true representation tf 1b 1s not Set up propel ly Monitors can be manipulated in terms of brightness, cont valance, even sharpness. There is Just no guarantee that they rep sent a true image of what you are shooting or of what is on tap. (Se section below on Setting Up a Color Monitor.) When used \ video camera, the waveform monitor is a reliable guide to e and contrast range. If the average value of important informatior in the picture is over 100 or under 7.5 IRE units, the expost (Note the phrase important information. Clearly deep shadows ma fall near or below 7.5 and some highlights may exceed 100). Thi exposure can be adjusted by changing the camera’s aperture and/o1 by adjusting the lighting or the composition of the fram example. a “hot” window is in the shot). In telecine, the monitor gives an accurate picture of the signal that 1s going In post production the waveform monitor works the same this time it measures the values of images from videotap« online devices like character generators or special effects can still be manipulated in a number of another section At this point the video signal ¢ Ways: We | look at those in THE VECTORSCOPE
+
+Used in conjunction monitor, the vectorscope 2.9).
+
+with the waveform measures the chrominance (color) of the video signal (Figure | The scale of the vectorscope is a circle overlaid with the color amplitude and phase relationsh “p of the three primary colors (red, green ind blue), In the center of this circle graph 1s the luminance (black-and-white) value of the s signal Through this center point, three axes represent tl olors.
+
+color bars test signal 1e primary ¢ for display of a SMPTE with all of the dots in their boxes and the color on the horizontal axis. Chroma phase error ~ as shown in Figure 12.10, Notice how rotate the circle around vectorscope screen setup shows burst correctly plac ed translates as “the color is off color is conceptualized as a circle and we its center to adjust the hue. This relates to the original Newton color wheel. Also, notice how not all of the target boxes are equidistant from the center reference. This is a reflection of the same principle we saw in the Munsell color system: some colors reach full saturation (full chroma) at different levels. Now you see why we had to go through all that technical color theory stuf All vectorscope graticules are designed to work with a color bars Remember, the color bars signal consists of brightness infor-slgnad mation (luminance) and high-frequency color information (chrominance or chroma). Each bar of the color bars signal creates a dot on vectorscope’s display. The position of these dots relative to the graticule and the phase of the burst vector e the major indicators of the chrominance (color) signal’s health. the boxes. or té Tee ets, on Proper white balance ofa video camera is indicated by a fuzzy spot vectorscope display when the target or signal being white object (Figure !2.16).
+
+centered on the displa yed iS a Chroma Gain
+
+With the SMPTE color bars displayed the dots represent the peaks of chrominance. How fa they ire from the center indicates how much chroma gain there is: if they extend beyond the boxes, the chroma is oo hot and can cause problems be it telecine transfer, off-line editing, on-line editing or té pe duplication. the standard proc edure is to record 60 the beginning of every tape. This insures ind manipulated down the ‘line the colors will In post produc tion seconds of color bars at that when processed be the same trom tape to tape.
+
+LUMINANCE
+
+Phe NTSC ht iminance ¢ very much like the signal for information about the amount o!
+
+This is one of the key reasons with older monochrome equip-the color information and omponent 1s uning light in each element of the picture the NTS¢ “compatible”
+
+ment monochrome sets simply ignore monochrome video conti system is display using luminance only Luminance is derived from RGB color signals. While the tristim theory requires three different colored lights, it assumes that amount to our perception of bright-fact, for the particular colors chosen ulus ) color contributes the same ess of an area in the image. In (a certain green, a certain blue, and a certain red), green contributes ibout 59% of our perception of brightness in a white part of the Mave
+
+Fhe red light contributes about 30%, and blue only about [1% of 12.9. (top) The vectorscope. Think o itin terms of the courtesy of Tektronix.)
+
+12.10. (second from top) | Hue ice how the color is shifted « e — the dots indicating the are not in their sy of ht (Photo courte 12.11. (third f showing co are in their | too far from indicating c (Photo courtesy of Tektronix Tektronix.)
+
+n top) Vect proper bo color wheel. (Phote Kcinematography the brightness of white. As we recall from the discussion of the eye’ brain perception of color — the eye is most sensitive to color in the yellow/green range, and much less sensitive in the blue range.
+
+These numbers are called the luminance coefficients of the primary colors. The luminance signal is produced by combining (adding) the video signals from each primary color channel, taking into account the luminance coefficients of each primary, 1.e., Y = 0.59G + 0.30R +0.11B.
+
+Color Difference Signals: B-Y And R-Y
+
+To process all information as R, G and B is inefficient because each separate channel contains both color information and gray scale (luminanee) information — this is redundant. As we recall from the chapter on color theory, black-and-white (gray scale) actually conveys the great majority of information about an image. For this reason, most video systems distill the chroma information into color difference signals. Luminance is notated as “Y.” since “B” already stands for blue.
+
+There are many systems in use, but basically, color difference is derived by taking the blue component and subtracting the luminance (gray scale) information: B-Y (blue minus luminance). Similarly, luminance is subtracted from red: R-Y. This process is fairly easy to accomplish with electronic circuits. (Sometimes, another set of color difference signals are used — I and Q. We’ll discuss | and Q a little later.) With the color information now in the form of luminance (Y) and color difference components (B-Y and R-Y) we still have three signals and the associated bandwidth and interconnect problems. A bit more processing ts needed to get it all into the “one-wire’ NTSC signal format.
+
+ENCODED COLOR
+
+Another characteristic of human vision is we can’t see fine detail nearly as well for changes in coloring as we can for changes in luminance. In other words, the picture won’t suffer very much if we reduce the bandwidth of the coloring components, provided we can maintain essentially full bandwidth of the luminance signal. In fact. this is a good reason for developing color difference components in the first place.
+
+Even a full bandwidth luminance signal doesn’t have very much energy in the upper end of its spectrum — the higher frequency signals are quite a bit lower amplitude almost all the time. These two facts (less bandwidth required for the color information and some “room” available in the luminance spectrum) allow the NTSC system to place the color components in only the upper portion of the luminance spectrum.
+
+THE PROCESSING AMPLIFIER
+
+In addition to the waveform monitor and the vectorscope, the two most fundamental video tools, there is another — the processing amplifier. Commonly called a proc amp, this device can modify both the chroma and luminance values of the video signal. The proce amp should be used with both a waveform monitor and vectorscope to insure that the changes you are making are what you think you are making. As with most stages in the video system, it is just as easy to screw things up as it is to make them better.
+
+This is similar to how you operate an ordinary household television. By adjusting color, contrast and the other controls. you can change the appearance of the picture. But you are not changing the actual signal of that picture — you are only changing the display of that signal. The proc amp lets you change the actual signal rather than just the display. This makes it in some ways more valuable and in some ways more dangerous. The proc amp can be an invaluable tool for correcting the color and luminance elements of a video signal. However, it must be used in conjunction with a waveform monitor and vectorscope for predictable results.
+
+SETTING UP A COLOR MONITOR
+
+The most important thing you can learn about video is how to properly set up a color monitor. Even with other equipment such as a waveform monitor and vectorscope on hand, the monitor is still a crucial part of previewing and judging the picture. As we saw tn the chapter on color theory, there is not an exact correlation between the mathematical representation of color and the human perception of it.
+
+Color bars are an artificial electronic pattern produced by a signal generator which may be in a video camera (most professional video cameras have a “bars” setting) or a separate piece of equipment on the set or as a standard piece of equipment in any video post-production facility, be it telecine, editing or duplication. Color bars are recorded at the head of every videotape to provide a consistent reference in post production. They are also used for matching the output of two cameras in a multi-camera shoot and to set up a video monitor. On top on the left is a gray bar: it is 80 TRE units.
+
+MONITOR SETUP PROCEDURE
+
+To set up a monitor, start with the following steps: * Allow the monitor to warm up.
+
+* Shield the monitor from extraneous light.
+
+* Display color bars on the monitor: either from the camera or a separate generator.
+
+* Set the contrast (also called “picture”) to its midpoint. * Turn the chroma (also called “color”) all the way down until the color bars are shades of black-and-white.
+
+The PLUGE
+
+Notice the three narrow bars labeled 3.5, 7.5 and 11.5 on the bottom right (Figures 12.12 and 12.14). These are the PLUGE, which stands for Picture Lineup Generating Equipment.
+
+The PLUGE was developed at the BBC. It was generated at a central location in their facility and sent by wire to cach studio. This way all of the equipment could be calibrated conveniently, This was the PLUGE alone, not combined with the color bars.
+
+The middle black is set at 7.5 IRE black, (or in the digital realm, 16.16.16). The first chip, superblack, is set at about 2.5 IRE below black, and the third chip, dark gray is set at about 3.5 IRE above black. None of these really work to adjust a monitor to properly display 0 IRE black. so the following procedure is standard. * Adjust the brightness control until the middle (7.5 units)
+
+PLUGE bar is not quite visible. The lightest bar on the right (11.5 units) should be barely visible. If it’s not visible, turn the brightness up until it becomes visible.
+
+* Since 7.5 units is as dark as video gets, you should not see any difference between the left bar (3.5 units) and the middle bar (7.5 units). There should be no dividing line between these two bars. The only division you should see is between 11.5 and 7.5. This same technique is used in setting the black-and-white viewfinder on a video camera.
+
+12.12. (second from top) Diagram of blue only signal.
+
+12.13. (third from top) Correct moni tor setup, shown here in black-and-white.
+
+12.14. (bottom) Incorrect luminance; notice how all three of the PLUGE bars in the lower right are visible, video and high def 12.15. Blue-only color bars shown in black-and-white for clarity. Notice that the bands are of equal intensity and in the upper portion the large and small bars are equally gray black.
+
+* The next step is to set the contrast control for level. To do so, turn the contrast all the way (100 unit) bar will bloom and flare. Now turn the tr down until this white bar just begins to respond. The im: below shows what it should look like at this po Adjusting Color
+
+It is possible to “eyeball” the yellow and magenta and dirty” method and should only be used if other n practical. The yellow should be a lemon yellow Vithou ( green. And the magenta should not be red or purpk method is not recommended except in emergencies tt to do it the professional way.
+
+Blue-Only Adjustment
+
+Most professional monitors have a blue-only switch (1 |2 This turns off the red and green guns, leaving only the | monitor does not have a blue-only switch, you can us¢ blue gel (full CTB) or a Kodak Wratten #47 — the purest b th wratten series. View the monitor through the gel. If you the red, green or yellow colors, double the blue gel over iS the blue effect.
+
+By using the blue-only switch or a piece of blue ge a removed the red and green elements of the picture. Onl bhi remains. If the hue is correct, you should see alternati ) equal intensity.
+
+* With the blue switch on (or your blue gel in tront ¢ turn the chroma or color until the gray bar at th the blue bar at the far right are of equal brightn also match either the gray or blue bars with their sub-b * Adjust the hue control until the cyan and magenta also of equal brightness. You can also match eithe he with their sub-bars. Now the four bars — gray, blue magenta should be of equal intensity. The yellow, red (which are black in the diagram below)
+
+pletely black. Here’s a diagram (Figure d (Figure 12.16.)
+
+Once you have set up your monitor, leave it alone. U1 a waveform and vectorscope, it’s the only instrume see how accurate your video ts. This is true of your cam finder, your field monitor and your studio monitot CAMERA WHITE BALANCE
+
+Just as we use film stocks of different color balance trauion to adjust, in video, the white balance functio1 for variations in the color range of the source lighting ance 1s accomplished by aiming the camera at a pure white surface (usually a white card) and selecting the white balance the camera. The internal electronics then compensate fot in color. Naturally, it is essential that the light tluminati: card be the same as 1s in the scene, just as the light o1 ence card in film must be the same as is on the scene Also, as tn film, if you are using filters to alter the colo be removed for white balance or their effect will be white balance. The white balance function can also be u the camera. If, for example, you want the overall c¢ warm, you can put a cooling filter (blue) over the lens \ color balance. The circuitry will then compensate and remove the filter over the lens, the image will then be EFFECT DESIRED _| USE FOR WHITE BALANCE pape Ta 4. Using eolot arts te fae 85 Harrison Blue #5 (Pata FoUurtesy of Fotokem Film and 81EF Tiffen Cyan #2 Tiffen Coral #2 Harrison Blue #5 Harrison Coral #2 Tiffen Cyan #1 or Harrison Blue #2 Harrison Coral #3 Harrison Blue #5 Tiffen Straw .3 Tiffen 80C
+
+Tiffen Straw .6 Tiffen 80B+80D
+
+Fries Tobacco #1 Tiffen 82B
+
+Fries Tobacco #2 Tiffen 82C
+
+Fries Tobacco #3 Tiffen 80C
+
+Fries Tobacco #4 Tiffen 80C + 82B Fries Tobacco #5 Tiffen 80B + Cyan #1 Tiffen Sepia #1 Tiffen 82B
+
+Tiffen Sepia #3 Tiffen 80C
+
+Tiffen Chocolate #2 Tiffen 82C + Tiffen Cyan #1 works for any color tone you want to add and can be accomplished by placing a filter over the light illuminating the card just as well as over the lens, The same technique can be used in film when shooting the gray card. Table 12.1 indicates filters which will produce a specific effect in white balance or shooting the gray card.
+
+ANALOG AND DIGITAL COLOR SPACE - RGB, YUV, YCbCr
+
+There are many different colorspace systems and notations used to derive and define color video, especially digital video. Color cameras analyze the image to create video signals for the three primary colors: Red, Green and Blue. Since each of these RGB signals carries part of the information in the image, and all are required to recreate a complete image, they are referred to as “components”’ of the color video.
+
+ANALOG/DIGITAL CONVERSION
+
+Conversion of the video signal from analog to digital occurs in three parts: signal preparation, sampling and quantization (digitizing). There are two types of component signals; Red, Green and Blue (RGB), and Y, R-Y, B-Y but it is the latter which is by far the most widely used in digital video. R-Y and B-Y, the color difference signals, carry the color information while Y represents the luminance. Cameras, telecine, ete., generally produce RGB signals.
+
+Y’CBCR, YCBCR
+
+Y°CbCr is the color space used for all digital component video formats. Y° is the luma component and the Cb and Cr components are color difference signals. Cb is B-Y and Cr is R-Y. The technically-correct notation is Y’Cb’Cr’ since all three components are derived from R’G’B’. Many people use the YCbCr notation rather than Y°CbCr or Y°Cb’Cr’, Y’1Q, IQ
+
+Y°IQ is a color space optionally used by the NTSC video system.
+
+The Y’ component is the black-and-white portion of the image. The I and Q parts are the color difference components; these are effec-video and high def tively nothing more than color placed over the black-and-white. or luminance, component. Many people use the YIQ notation rather than Y°IQ or YQ’.
+
+Y’UV, YUV
+
+Y “UV is the colorspace used by the NTSC and PAL video systems.
+
+Y* is the luminance component while the U and V are the color difference components. In the YCbCr (or YUV) representation, Y (Jumi-nance) information occurs only once, and the color is determined by the chrominance data in Cb (U) and Cr (V). Cb and Cr are difference values, derived by subtracting the luminance value from the blue component and from the red-luminance component. When the picture is displayed, the green component is reconstructed using the Cb and Cr values to reconstruct the RGB information.
+
+DIGITAL VIDEO ENCODING
+
+Digital video is fundamentally different from NTSC and PAL video in the way it is encoded and processed. Various types of processing equipment manage the digital video information in different ways.
+
+These are classified by the way in which they encode the information:
+
+4:2:2
+
+This is a set of frequencies in the ratio 4:2:2, used to digitize the luminance and color difference components (Y, R-Y, B-Y) of a video signal. For every four luminance digital samples, there are two digital samples of each color difference channel. The human eye Is not as sensitive to color as to luminance detail enabling this form of compression. RGB video is usually represented with an equal number of bits for each of the three color component channels but RGB is not normally transmitted and bandwidth is not as big a factor when dealing with a connection between the computer and display device.
+
+The tour represents 13.5 MHz, the sampling frequency of the Y channel, and the twos each 6.75 MHz for both the R-Y, B-Y channels. D-1, D-5, Digital Betacam, and most digital disk recorders use 4:2:2 digitizing. 4:2:2 is the most common format used in the United States today, 4:1:1
+
+This is a set of frequencies in the ratio 4:1:1, used to digitize the luminance and color difference components (Y, R-Y, B-Y) of a video signal. The four represents 13.5 MHz, the sampling frequency of the Y channel and the ones each 3.75 MHz for both the R-Y, B-Y channels. When U and V are sampled at a lower rate, the color information from the last pixel is simply replicated for the next pixel (or next three pixels for 4:1:1).
+
+4:2:0
+
+This is a set of frequencies in the ratio 4:2:0, used to digitize the luminance and color difference components (Y, R-Y, B-Y) of a video signal. The four represents 13.5 MHz, the sampling frequency of the Y channel, while both the R-Y and B-Y are sampled at 6.75 MHz
+
+4:4:4
+
+YUV = four 8-bit Y samples, four 8-bit U samples, and four 8-bit V samples per unit of time. Some very high end equipment uses this encoding scheme.
+
+cinematography | IS IT BROADCAST QUALITY?
+
+“Broadcast quality” is a term that frequently gets misused. It does not mean, as many people think, a “good quality” picture or merely a certain level of resolution. Broadcast quality is actually a complex and arcane set of standards for the timing, synchronization and levels of the video signal. It is something that can only be measured with expensive and arcane test equipment. It is purely the province of video engineers. However, even some manufacturers misuse the term to mean a “high quality” video signal or tape format.
+
+TIMECODE AND EDGECODE
+
+Film has long had an identifying edgecode to identify each frame (or nearly each frame) in the post production process. To provide a similar identifier for video, the Society of Motion Picture and Television Engineers (SMPTE) formalized Timecode as a method of giving each frame a unique address. This code is an eight digit number, based on the 24 hour clock and the video frame rate. Timecode measures time in Hours:Minutes:Seconds:Frames. Since most tapes are one hour or less, the first segment is often used to designate the “roll number” of the tape. This is important in post production as it prevents duplication of timecodes when using more than one tape, important since all but the shortest of productions involve multiple tapes.
+
+The values range from 00:00:00:00, to the largest number supported by this format; 23:59:59:29, or, no more than 23 hours, no minutes or seconds greater than 59, and no frames above the highest allowed by the rate being used (29 in this case for 30 frames/sec).
+
+This format represents actual clock time — the duration of scene or program material, and makes time calculations easy and direct.
+
+here are two ways to do timecode in the course of shooting. In the first method, each tape is cued up to the beginning and the timecode is Set to start at all zeros, except for the hours, which designate tape number. In the second method, the timecode is left to run free, based on clock time. This gives each tape unique numbers, unless you shoot past midnight. in which case there is some chance of duplication.
+
+VIDEO FRAME RATE he frame is the smallest unit of measure within SMPTE Timecode and is a direct reference to the individual “picture” of film or video.
+
+Some timecode readers display a small blip or other symbol at the end to indicate odd or even field, but there is no number designation for it.
+
+The rate ts the number of times per second pictures are displayed to provide motion. There are four standard frame rates (frames/sec)
+
+that apply to SMPTE: 24, 25, 30, and 30 “Drop Frame.”
+
+‘ 12.17. A timecode slate in use on * 24fps Frame rate based on U.S. standard motion picture film 3 ‘fiIlm’set. As shown here, it can be * 25fps Frame rate based on European motion picture film and setup to display the date for a couple of frames after slating.
+
+video, also known as SMPTE EBU (PAL/SECAM color and b&w)
+
+* 30fps Frame (also called “30 frame Non-drop”)
+
+° 30Ips Drop Frame The frames figure advances one count for every frame of film or video, allowing the user to time events down to 1/24th, 1/25th, or 1/30th of a second. Unless you have an application that specifically calls out one of the above frame rates, it doesn’t matter which timecode is used as long it is consistent. Most SMPTE applications outside of broadcast video use the 30 frame non-drop rate because it matches real time.
+
+video and high def cinematography DROP-FRAME AND NON DROP-FRAME
+
+29.97 video can be written in either drop-frame or non-drop-frame format. The difference between the two is that with drop-frame format the frame address is periodically adjusted (once every minute) so that it exactly matches real time (at the 10 minute mark), while with non-drop-frame format the frame address 1s never adjusted and gets progressively further away from real time. See below for an explanation of drop-frame numbering.
+
+29.97 VIDEO
+
+Frame rate is the rate at which video records and plays back frames.
+
+As with film, it is expressed as frames per second. Before the introduction of color, video ran at a true 30 frames per second (fps).
+
+When the color portion of the signal was added, video engineers were forced to slow the rate down to 29.97fps. The reason for this is to prevent interference with the color subcarrier. This slight slowdown of video playback leads to disagreement in the measurement of video vs. real time; one second is not evenly divisible by 29.97, A frame rate of 29.97fps is 99.9% as fast as 30fps. It is 0.1% (or one-thousandth) slower: 29.97fps / 30fps = .999 (or 99.9%), This means that a frame rate of 30fps is 0.1% (or one-thousandth) faster than 29.97: 30fps / 29.97fps = 1.001 (or 100.1%).
+
+If it were running at precisely 30fps, one hour of video would contain exactly 108,000 frames. 30 frames x 3600 seconds = 108,000 frames total. However, since video does not actually run at 30fps, playing back 108,000 frames of video will take longer than one hour to play because: (108,000 frames) / (29.97 frames/sec) = 3,603.6 seconds = | hour and 3.6 seconds. In timecode this is written as ()1:00:03:18. All this means that after an hour, the playback is 108 frames too long. Once again, we see the relationship of 108 frames out of 108,000, or 1/1000th. Sixty seconds of 30fps video contains 1800 frames. One-thousandth of that is 1.8. Therefore, by the end of one minute you are off by 1.8 frames. You cannot adjust by 1.8 frames per minute, because you cannot adjust by a fraction of a frame, but you can adjust by 18 full frames per 10 minutes. Two frames in 2000 accumulates 18 frames in 18,000, and there are 18,000 frames in 10 minutes.
+
+HOW DROP FRAME SOLVES THE PROBLEM
+
+Because 10 minutes is not evenly divisible by 18 frames, we use drop-frame timecode and drop two frame numbers every minute: by the ninth minute, you have dropped all 18 frame numbers. No frames need to be dropped the tenth minute because actual frames and timecode frames are once again in agreement.
+
+Thus the formula for the correcting scheme is: drop frame numbers 00:00 and 00:01 at the start of every minute except the tenth. (This also translates to dropping two frame numbers every 66 2/3 seconds.) This sequence repeats after exactly ten minutes. This ts a consequence of the ratios of the numbers: Two frames in 2000 accumulates 18 frames in 18,000, and there are 18,000 frames in 10 minutes (30 frames, times 60 seconds, times 10 minutes. In Table 12.2 — 00:10:00:00 in drop-frame is the same as 00:10:00:00 in real time. Also, 10 minutes of NTSC video contains an exact number of frames (17,982 frames), so every tenth minute ends on an exact frame boundary. This is how drop-frame timecode manages to get exactly one hour of video to read as exactly one hour of timecode.
+
+TO DROP OR NOT TO DROP?
+
+It is not necessary to use drop-frame timecode in all instances. Drop-frame is most important in applications where exact time is critical, Adjusted
+
+Minute | Start Position Frames Lost Drop Frame Position
+
+1.8 lost this minute drop 2 to correct 0.2 ahead > | 0.2 ahead 1.8 lost this minute drop 2 to correct 0.4 ahead 0.4 ahead 1.8 lost this minute drop 2 to correct 0.6 ahead 0.6 ahead 1.8 lost this minute drop 2to correct 0.8 ahead 0.8 ahead 1.8 lost this minute drop 2 to correct 1.0 ahead 1.0 ahead 1.8 lost this minute drop 2 to correct 1.2 ahead _| 1.2 ahead 1.8 lost this minute drop 2 to correct ia 14 ahead 1.4 ahead 1.8 lost this minute drop 2 to correct 1.6 ahead 9 1,6 ahead [3 lost this minute drop 2 to correct 1.8 ahead 10 [18 ahead 1.8 lost this minute | drop 0 such as broadcast television. For short pieces that are not going to be broadcast, standard timecode is acceptable, the slight mismatch will be of no consequence. In 25 Hz video (all countries that don’t use NTSC). such as in 625/50 video systems, and in 24 Hz film, there is an exact number of frames in each second. As a result, drop-frame is not necessary. There is no drop frame in 24p High Def video.
+
+TIMECODE SLATING TIPS
+
+When slating with timecode, always pre-roll audio and timecode for at least five seconds. This is critical for syncing up the dailies in telecine. Timecode driven equipment (which includes the telecine and audio syncing decks, as well as playback and edit decks) takes at least five seconds to come up to speed and lock. Not having good pre-roll can definitely cause problems. Pre-roll is handled by the sound recordist. Where in the old days, the AD would call “roll sound” and the mixer would only call “speed” when the old tape decks finally lumbered up to the correct speed, the mixer now waits the appropriate time for pre-roll to lay down before calling “speed.”
+
+In telecine there is an “offset” that occurs. Sometimes the smart slate numbers and the sound don’t line up. This must be dealt with at some point down the line. There is a valuable additional feature with the Denecke timecode slate. As the clap stick is help open, the timecode rolls freely so that it can be checked. As the clapper is brought down, the timecode freezes momentarily, which makes it easier for post-production people to read it without searching for the exact frame that matches the clap. But after that, the date appears momentarily. This additional feature insures that there will be no duplication of timecode and adds another identification that simplifies keeping things in order.
+
+TIMECODE ON VIDEOTAPE
+
+Timecode is recorded onto analog videotape in two different ways: Longitudinal Timecode (LTC) and Vertical Interval Timecode (VITC). Digital video is an entirely different matter — it is just part of the digital signal.
+
+Longitudinal Timecode
+
+Timecode is recorded on studio videotape and audiotape recorders in the same way as audio is recorded. LTC is interfaced in the studio as an audio signal. At normal play speed, LTC can be decoded from tape as long as the playback system. To recover timecode at the shuttle rates of a high-quality studio VTR — about 60 times play speed — requires an audio bandwidth about 60 times higher. Due to Table 12.2. How drop-frame timecode works to correct errors.
+
+video and high def

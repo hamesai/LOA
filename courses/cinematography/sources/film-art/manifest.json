@@ -1,0 +1,156 @@
+{
+ "key": "film-art",
+ "title": "Film Art: An Introduction",
+ "author": "David Bordwell, Kristin Thompson",
+ "file": "Bordwell.epub",
+ "format": "epub",
+ "sha256": "691213e5f0b00f8207cc5b11b83cb021517c921dec9a5e2af9e1eef0e31bf447",
+ "words": 296418,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "dummy_split_001",
+   "words": 334
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "ABOUT THE AUTHORS",
+   "words": 480
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "CONTENTS",
+   "words": 1082
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "PREFACE",
+   "words": 2322
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Acknowledgments",
+   "words": 486
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "PART ONE Film Art and Filmmaking",
+   "words": 250
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "CHAPTER 1 Film as Art: Creativity, Technology, and Business",
+   "words": 29335
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "PART TWO Film Form",
+   "words": 259
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "CHAPTER 2 The Significance of Film Form",
+   "words": 14572
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "CHAPTER 3 Narrative as a Formal System",
+   "words": 23219
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "PART THREE Film Style",
+   "words": 400
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "CHAPTER 4 The Shot: Mise-en-Scene",
+   "words": 23605
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "CHAPTER 5 The Shot: Cinematography",
+   "words": 25242
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "CHAPTER 6 The Relation of Shot to Shot: Editing",
+   "words": 20612
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "CHAPTER 7 Sound in the Cinema",
+   "words": 25721
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "CHAPTER 8 Summary: Style as a Formal System",
+   "words": 9570
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "PART FOUR Types of Films",
+   "words": 404
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "CHAPTER 9 Film Genres",
+   "words": 11715
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "CHAPTER 10 Documentary, Experimental, and Animated Films",
+   "words": 28766
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "PART FIVE Critical Analysis of Films",
+   "words": 441
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "CHAPTER 11 Film Criticism: Sample Analyses",
+   "words": 29114
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "APPENDIXWriting a Critical Analysis of a Film",
+   "words": 6827
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "CHAPTER 12 Film Art and Film History",
+   "words": 21171
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "GLOSSARY",
+   "words": 4964
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "CREDITS",
+   "words": 717
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "INDEX",
+   "words": 7297
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "L",
+   "words": 7513
+  }
+ ],
+ "warnings": [],
+ "text_quality": {
+  "common_word_share": 0.323,
+  "odd_character_share": 0.004
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-19",
+  "note": "Date is when the file arrived in the source ingest folder."
+ }
+}

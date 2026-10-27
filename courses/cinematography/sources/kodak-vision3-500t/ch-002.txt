@@ -1,0 +1,102 @@
+KODAK VISION3 500T Color Negative Film 5219 / 7219 
+ 
+Light Source KODAK Filters on Camera * Exposure Index 
+Tungsten (3000 K) None 500 
+Tungsten (3200 K) None 500 
+KINO FLO 29 
+KINO FLO 32 None 500 
+Daylight (5500 K) WRATTEN 2 Optical Filter / 85 320 
+Metal Halide WRATTEN 2 Optical Filter / 85 320 
+H.M.I. WRATTEN 2 Optical Filter / 85 320 
+KINO FLO 55 WRATTEN 2 Optical Filter / 85 320 
+Fluorescent, Warm 
+White † CC30R + CC05M 320 
+Fluorescent, Cool 
+White † CC40R 160 
+* These are approximate corrections only. Make final corrections during printing. 
+† These are starting-point recommendations for trial exposures. If the kind of lamp is unknown, a KODAK 
+WRATTEN2 Color Compensating Filter CC30R + CC20Y can be used with an exposure index (EI) of 250. 
+Note: Consult the manufacturer of high-intensity ultraviolet 
+lamps for safety information on ultraviolet radiation and 
+ozone generation. 
+Exposure Table-Tungsten Illumination 
+At 24 frames per second (fps), 180-degree shutter 
+opening, use this table for average subjects that contain a 
+combination of light, medium, and dark colors: 
+EXPOSURE TABLE FOR TUNGSTEN LIGHT 
+Lens Aperture f/1.4 f/2 f/2.8 f/4 f/5.6 f/8 f/11 f/16 
+Footcandles 
+Required 5 10 20 40 80 160 320 640 
+Reciprocity Characteristics 
+You do not need to make any filter corrections or exposure 
+adjustments for exposure times from 1/1000 of a second 
+to 1 second. 
+Processing 
+Process in Process ECN-2. 
+Most commercial motion-picture laboratories provide a 
+processing service for these films. See KODAK Publication 
+No. H-24.07, Processing KODAK Color Negative Motion 
+Picture Films, Module 7 available online at 
+www.kodak.com/go/h24, for more information on the 
+solution formulas and the procedure for machine 
+processing these films. There are also pre-packaged kits 
+available for preparing the processing solutions. For more 
+information on the KODAK ECN-2 Kit Chemicals, check 
+Using KODAK Kit Chemicals in Motion Picture Film 
+Laboratories KODAK Publication No. H-333, available 
+online at www.kodak.com/go/h333. 
+Identification 
+After processing, the product code numbers 5219, or 7219 
+emulsion, roll, and strip number identification, KEYKODE 
+Numbers, and manufacturer/film identification code (EJ) 
+are visible along the length of the film. 
+Post-Production 
+Scanning 
+The wider exposure latitude in KODAK VISION3 Films 
+differentiate film capture from the limited dynamic range 
+of digital capture. Digital "dodging and burning," a very 
+powerful tool in the colorists' toolkit, is now even more 
+powerful—up to two stops more image information can 
+be extracted from scene highlights in VISION3 Films. 
+If traditional 10-bit scanner data encoding schemes are 
+used to digitize films having this extended density 
+range, highlight information captured on these films 
+could be lost. Kodak has recommendations for 
+extracting the full density range stored on high 
+dynamic range films in a technical document titled 
+Scanning Recommendations for Extended Dynamic 
+Range Camera Films, available online at 
+www.kodak.com/go/scanning. 
+Laboratory Aim Densities (LAD) 
+To maintain optimum quality and consistency in the final prints, the 
+laboratory must carefully control the color timing, printing, and 
+duplicating procedures. To aid in color timing and curve placement, 
+negative originals should be timed relative to Laboratory Aim Density 
+(LAD) Control Film. The LAD Control Film provides both objective 
+sensitometric control and subjective verification of the duplicating 
+procedures used by the laboratory. 
+In the LAD Control Method, the electronic color analyzer used for color 
+timing is set-up with the LAD Control Film to produce a gray video 
+display of the LAD patch, corresponding to 1.0 neutral density (gray) on 
+the print. The negative printing original is then scene-to-scene timed. 
+There are specific LAD values for each type of print or duplicating film 
+that the original can be printed on. For print films, the LAD patch is 
+printed to a neutral gray of 1.0 visual density. For duplicating films, the 
+specified aims are at the center of the usable straight-line portion of 
+the sensitometric curve of the film. 
+Due to normal variations in exposure and processing of color negative 
+films, particular scenes may not print exactly at the same printer lights 
+as the LAD Control Film. The LAD Control Film is intended as a set-up 
+tool for electronic color analyzers and printers. It is NOT a reference 
+that every scene must match. Normal film-to-film and scene-to-scene 
+exposure variability is accommodated by the color timing (grading) 
+process, on an electronic color analyzer set up with the LAD Control 
+Film. Normally exposed and processed color negatives will typically 
+print well within the range of an additive printer setup with the LAD 
+Control Film, although SIGNIFICANT or UNEXPECTED departures from 
+this center point balance may indicate an exposure/filtration problem 
+with the cinematography or with the process control. Testing is 
+recommended with specialized negative processing techniques 
+(push, pull, "skip-bleach”, etc.). More information is available in KODAK 
+Publication H-61, Laboratory Aim Density, available online at 
+www.kodak.com/go/lad.

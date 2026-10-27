@@ -1,0 +1,582 @@
+CHAPTER 8 Summary: Style as a Formal System
+
+ 
+
+ 
+
+The Concept of Style
+
+At the beginning of Part Two, we saw how the different parts of a film relate to one another dynamically within its overall form. Now, having examined each category of techniques of the film medium, we may go on to see how these techniques interact to create another formal system of the film, its style. These two systems—style and narrative/non-narrative form—in turn interact with each other.
+
+Stylistic patterns are a major part of any film. Sometimes, though, we talk about style in several films by the same filmmaker. We looked at Our Hospitality in terms of how its comic mise-en-scene is organized around a consistent use of long shots; this is part of Buster Keaton’s style in other films, too. Many filmmakers have distinctive styles, and we can become familiar with those styles by analyzing the way in which they utilize techniques within whole filmic systems.
+
+Further, we can also speak of a group style—the consistent use of techniques across the work of several filmmakers. We can speak of a German Expressionist style, or a Soviet montage style. In Part Six, we will consider some significant group styles that have emerged in film history.
+
+“The choices you make push you in a certain direction, and that becomes what people call style.”
+
+—Chris Doyle, cinematographer, Chungking Express
+
+ 
+
+Style and the Filmmaker
+
+No single film uses all the technical possibilities we’ve discussed. For one thing, historical circumstances limit the choices that filmmakers have open to them. Before 1928, for example, filmmakers did not have the option of using synchronized dialogue. Even today, when the range of technical choices seems far broader, there are limits. Filmmakers cannot use the now obsolete orthochromatic film stock of the silent era, although in some respects it was superior to contemporary stocks. Similarly, a successful system for creating three-dimensional cinema images without the necessity for spectators to wear special glasses has yet to be invented.
+
+There is another reason only some technical possibilities may be realized in a single film. As we saw in Chapter 1, working in a concrete production situation, the filmmaker must choose what techniques to employ. Typically, the filmmaker makes certain technical choices and adheres to them throughout the film. Across the film, a filmmaker will characteristically use three-point lighting, or continuity editing, or diegetic sound. A few segments might stand out as varying from the film’s normal usage, but in general, a film tends to rely on consistent usage of certain techniques. The film’s style results from a combination of historical constraints and deliberate choices.
+
+Filmmakers also deliberately select techniques that will point out story parallels. Piotr Sobocinski, cinematographer for Krystyf Kieslowski, says that in Three Colors: Red, a crane shot down to a fashion show was designed to recall an earlier camera movement, when the camera craned down as a book fell into the street. Similarly, in filming Viva Zapata! Elia Kazan tracked in on Zapata, who is ignoring the fact that a crowd of peasants is marching with him: “We had to go close on that shot and dolly [i.e., track] because what I wanted to show was his expression or lack of expression. We later contrasted that with a similar dolly shot on the police chief beginning to notice what was happening. The point was to contrast those two attitudes.”
+
+CONNECT TO THE BLOG
+
+We trace the stylistic and formal development of a major contemporary filmmaker in “The sarcastic laments of Béla Tarr,” at
+www.davidbordwell.net/blog/?p=1315.
+
+For the style of two art film directors of the previous generation, see “Bergman, Antonioni, and the stubborn stylists,” at www.davidbordwell.net/blog/?p=1139.
+
+Films setting up strong narrative contrasts will often reinforce them with sharp stylistic differences. Jacques Tati’s Mon Oncle opposes the charm of old Parisian neighborhoods to the sterility of the new buildings that replace them. Mr. Hulot lives in a ramshackle apartment building on a quiet little square, while the Arpel family—Hulot’s sister, brother-in-law, and nephew—have just moved into an ultramodern house full of high-tech gadgets and chic but uncomfortable furniture. Scenes in Hulot’s neighborhood tend to be accompanied by jaunty music, except when sound effects or dialogue become important. In this locale, the camera stays outside his apartment, stressing the interactions of the many people living and working around the square (8.1). By contrast, the Arpel scenes contain no music. Instead, we hear the tapping of shoes on stone floors and the clicks and whirs of the absurd appliances. There are frequent shots inside the house, and the street is almost invisible behind the family’s metal security fence (8.2).
+
+ 
+
+8.1 Mon Oncle. Mr. Hulot chats with a neighbor while other people pass nearby.
+
+ 
+
+ 
+
+ 
+
+8.2 The Arpels’ inconveniently laid-out garden, with a giant metal security door that blots out their view of the street.
+
+ 
+
+ 
+
+Many filmmakers plan the overall style of the film to reflect the progression of the story. For Dead Man Walking, Tim Robbins and his cinematographer, Roger Deakins, worked out a visual pattern to convey the increasing intimacy between the characters played by Susan Sarandon and Sean Penn, who talk to each other in a string of interviews spread across the film. Early scenes were shot to emphasize the wire mesh between the two, keeping it in focus and the Penn character more distant. Later, using longer lenses and slow tracking shots, the scenes minimize the barrier. Ultimately, when the characters are communicating through a cell door, reflections in the window make each one visible in the other’s shot. As usual, repetitions and differences are used to shape our experience of the film.
+
+Style and the Viewer
+
+The spectator has a relation to style as well. Although we’re seldom conscious of the fact, we tend to have expectations about style. If we see two characters in a long shot, we expect a cut-in to a closer view. If the actor walks rightward, as if about to leave the frame, we expect the camera to pan or track right to keep the person in the shot. If a character speaks, we expect to hear diegetic sound that is faithful to its source.
+
+Like other kinds of expectations, stylistic ones derive from both our experience of the world generally (people talk; they don’t chirp) and our experience of film and other media. The specific film’s style can confirm our expectations, or modify them, or cheat, or challenge them.
+
+Many films use techniques in ways that conform to our expectations. For example, the conventions of the classical Hollywood cinema and of specific genres provide a firm basis for reinforcing our prior assumptions. Other films ask us to narrow our expectations somewhat. Keaton’s Our Hospitality accustoms us to expect deep-space manipulations of figures and objects, while Jean Renoir’s Grand Illusion builds up specific expectations about the likelihood of camera movements. Still other films make highly unusual technical choices, and to follow them we must construct new stylistic expectations. The editing discontinuities in Sergei Eisenstein’s October and the use of voice-over narration in The Prestige in effect teach us how to understand the style.
+
+In other words, a director directs not only the cast and crew. A director also directs us, directs our attention, shapes our reaction. Thus the filmmaker’s technical decisions make a difference in what we perceive and how we respond.
+
+Style, then, is the patterned use of techniques across the film. Any one film will tend to rely on particular technical options in creating its style, and these are chosen by the filmmaker within the constraints of historical circumstances. We may also extend the term style to describe the characteristic use of techniques made by a single filmmaker or group of filmmakers. The spectator may not consciously notice film style, but it nonetheless contributes to his or her experience of the film.
+
+Analyzing Film Style
+
+As viewers, we register the effects of film style but seldom notice it. If we want to understand how these effects are achieved, we need to look and listen carefully. Since the previous four chapters have shown how we can pay attention to stylistic features, let’s consider four general steps in analyzing style.
+
+Step 1: Determine the Organizational Structure
+
+The first step is to understand how the film is put together as a whole. If it is a narrative film, it will draw on all the principles discussed in Chapter 3. That is, it will have a plot that cues us to construct a story; it will manipulate causality, time, and space; it will have a distinct pattern of development from opening to closing; it may use parallelism; and its narration will choose between restricted and more unrestricted knowledge at various points. (Not all films tell stories. We’ll discuss other types of form in Chapter 10.)
+
+Step 2: Identify the Salient Techniques Used
+
+Here the analysis will draw on our survey of technical possibilities in Chapters 4–7. You need to be able to spot things such as color, lighting, framing, cutting, and sound, which most viewers don’t consciously notice. Once you notice them, you can identify them as techniques—such as nondiegetic music or a lowangle framing.
+
+CONNECT TO THE BLOG
+
+We discuss Indiana Jones and the Kingdom of the Crystal Skull and some aspects of Steven Spielberg’s editing and use of light in “Reflections in a crystal eye,” at www.davidbordwell.net/blog/?p=2379.
+
+But noting and naming are only the beginning of stylistic analysis. The analyst must develop an eye for salient techniques. Salience will partly be determined by what techniques the film relies heavily on. The jerky forward zoom in Wavelength and the rapid, discontinuous editing of October invite scrutiny because they play a central role in the overall effect of each film.
+
+In addition, what is salient depends partly on the analyst’s purpose. If you want to show that a film’s style is typical of one approach to filmmaking, you may focus on how the technique conforms to stylistic expectations. The 180-degree editing of The Maltese Falcon isn’t obvious or emphasized, but adherence to rules of classical continuity is a characteristic of the film’s style. Our purpose in Chapter 6 was to show that the film is typical in this respect. If, however, you want to stress unusual qualities of the film’s style, you can concentrate on the more unexpected technical devices. Eisenstein’s use of editing in October is unusual, representing choices that few filmmakers would make. It was the originality of these devices that we chose to stress in Chapter 6. From the standpoint of originality, costume in October is not as salient a stylistic feature as editing because it is more in accord with conventional practice. The analyst’s decision about what techniques are salient will thus be influenced partly by what the film emphasizes and partly by the analyst’s purpose.
+
+Step 3: Trace Out Patterns of Techniques
+
+Once you’ve identified salient techniques, you can notice how they are patterned. Techniques will be repeated and varied, developed and paralleled, across the whole film or within a single segment. Chapters 4–7 have shown how this occurs in some films.
+
+You can zero in on stylistic patterns in two ways. First, you can reflect on your responses. If a scene begins with a track-in, do you expect that it will end with a track-out? If you see a character looking left, do you assume that someone or something is offscreen and will be revealed in the next shot? If you feel a mounting excitement in an action scene, is that traceable to a quickening tempo in the music or to accelerating editing?
+
+A second tactic for noticing stylistic patterns is to look for ways in which style reinforces patterns of formal organization. Filmmakers often deliberately design the film’s stylistic system to underscore developments in the drama. We have seen how shifting color schemes reflect three stages of the plot’s development in Women in Love (4.41–4.43). For Amistad, Steven Spielberg and his cinematographer, Janusz Kaminski, traced the slaves’ progress toward freedom by lighting and shooting the four courtroom scenes in markedly different ways, from greenish, smoky light and somewhat scattershot camera work to a final scene in the Supreme Court, with crisp illumination and smooth camera movements.
+
+In designing Portrait of a Lady, Jane Campion and her cinematographer, Stuart Dryburgh, keyed colors to the protagonist’s maturation. Isabel starts as an idealistic and somewhat headstrong young woman, and the background is an English summer, with bright green and yellow tones dominating. In Siena, as she becomes captivated by the sinister fortune hunter Osmond, the palette is richer and warmer, with orange and coral dominant. Years later, she is unhappily married to Osmond, and the color scheme is steeped in pale blues. The closing scenes return to the English countryside, recalling the opening, but now, as the wiser, remorseful Isabel confronts her future, the snowy landscape is bathed slightly in blue, suggesting that memories of her marriage still haunt her.
+
+Even within a shorter span, style can create a subtle sense of narrative progression. A scene will usually have a dramatic pattern of encounter, conflict, and outcome, and the style will often reflect this, with the cutting becoming more marked and the shots coming closer to the characters as the scene progresses. In The Silence of the Lambs, for example, the scenes between Clarice Starling and Hannibal Lecter tend to begin with conventional shot/reverse-shot conversations. The characters, filmed in medium shot, look off to the right or the left of the camera (8.3, 8.4). As their conversations become more intense and intimate, the camera positions move closer to each one and shift subtly toward the axis of action until each person is looking directly into the lens (8.5, 8.6).
+
+ 
+
+8.3 During the initial conversation in The Silence of the Lambs, shooting in depth with the foreground character’s head prominent in the frame …
+
+ 
+
+ 
+
+ 
+
+8.4 … emphasizes the distance between the pair.
+
+ 
+
+ 
+
+ 
+
+8.5 Later in the scene, closer shots …
+
+ 
+
+ 
+
+ 
+
+8.6 … deemphasize that distance.
+
+ 
+
+ 
+
+As we saw in Grand Illusion (pp. 208–210), style may create associations between situations, as when the camera movements suggest the prisoners’ unity. It may also reinforce parallels, as do the tracking shots comparing Rauffenstein’s war trophies and Elsa’s. Later we’ll see how style can also reinforce the organization of non-narrative films.
+
+Sometimes, however, stylistic patterning will not respect the overall structure of the film. Style can claim our attention in its own right. Since most stylistic devices have several functions, a technique may interest the analyst for different reasons. In 6.130 and 6.131, a cut from a washline to a living room acts as a transition between scenes. But the cut is of more interest for other reasons, since we don’t expect a narrative film to treat objects as flat patches of color to be compared across shots. Such attention to graphic play is a convention of abstract form. Here, in a passage from Ozu’s Ohayo, a stylistic choice comes forward because it goes beyond its narrative function. Even here, though, stylistic patterns continue to call on the viewer’s expectations and to draw the spectator into a dynamic process. Anyone who notices the graphic match on red objects in Ohayu will most likely be intrigued at such an unconventional way of editing. And, if stylistic patterns do swerve off on their own, we still need a sense of the film’s narrative organization in order to show how and when that happens.
+
+Step 4: Propose Functions for the Salient Techniques and the Patterns They Form
+
+CONNECT TO THE BLOG
+
+For a discussion of how various techniques of film style can function to call our attention to things, see “Gradations of emphasis, starring Glenn Ford,” at www.davidbordwell.net/blog/?p=2986.
+
+Here the analyst looks for the role that style plays in the film’s overall form. Does the use of camera movement tend to create suspense by delaying the revelation of story information, as in the opening of Touch of Evil (pp. 132–133)? Does the use of discontinuous editing create a narrational omniscience, as in the sequence we analyzed in October (pp. 263–264)? Does the composition of the shot tend to make us concentrate on a particular detail (4.140, the shot of Anne’s face in Day of Wrath)? Does the use of music or noise create surprise?
+
+A direct route to noticing function is to notice the effects of the film on our viewing experience. Style may enhance emotional aspects of the film. Rapid cutting in The Birds evokes shock and horror, while the fluctuating drone of the score in The Prestige creates a tense but also melancholy tone.
+
+“There’s no scene in any movie that 50 different directors couldn’t have done 50 different ways.”
+
+— Paul Mazursky, director
+
+ 
+
+Style also shapes meaning. We should, however, avoid reading isolated elements atomistically, taking them out of context. As we argued on p. 196, a high angle does not automatically mean “defeat,” just as a low angle does not automatically mean “power.” There is no dictionary that specifies the meaning of a specific stylistic element. Instead, the analyst must scrutinize the whole film, the patterns of the techniques in it, and the specific effects of film form. For example, in Grand Illusion, the contrast between Rauffenstein and Elsa is heightened by Renoir’s parallel tracking shots.
+
+CONNECT TO THE BLOG
+
+Subtle stylistic echoes enrich The Prestige, as we show in “Niceties: How classical filmmaking can be at once simple and precise.”
+
+See
+www.davidbordwell.net/blog/?p=3878.
+
+Meaning is only one type of effect, and there is no reason to expect that every stylistic feature will possess a thematic significance. One part of a director’s job is to direct our attention, and so style will often function simply perceptually—to get us to notice things, to emphasize one thing over another, to misdirect our attention, to clarify, intensify, or complicate our understanding of the action. (See “A Closer Look.”)
+
+One way to sharpen our sense of the functions of specific techniques is to imagine alternatives and reflect on what differences would result. Suppose the director had made a different technical choice; how would this create a different effect? Suppose in the scene from Shadow of a Doubt that Hitchcock had cut away to Little Charlie when she blurted out, “But they’re people too!” Switching our attention to her reaction might have relieved the dramatic pressure created by Uncle Charlie’s escalating bitterness, and it would have broken the steady buildup we feel in the camera movement that gradually enlarges his face.
+
+To recall another example, Our Hospitality creates its gags by putting two elements into the same shot and letting us observe the comic juxtaposition. Suppose Keaton had instead isolated each element in a single shot and then linked the two elements by editing. The meaning might be the same, but the perceptual effects would vary: instead of a simultaneous presentation that lets our attention shuttle to and fro, we would have a more “programmed” pattern of building up the gags and paying them off. Or, suppose that John Huston had handled the opening scene of The Maltese Falcon as a single take with camera movement. How would he then have drawn our attention to Brigid O’Shaughnessy’s and Sam Spade’s facial reactions, and how would this have affected our expectations? By focusing on effects and imagining alternatives to the technical choices that were made, the analyst can gain a sharp sense of the particular functions of style in the given film.
+
+The rest of this chapter provides an illustration of how we can analyze film style. Our example is the film whose narrative system we analyzed in Chapter 3: Citizen Kane. Here we follow all four steps in stylistic analysis. Since Chapter 3 discussed Citizen Kane’s organizational structures, we will concentrate here on identifying salient techniques, locating patterns, and proposing some functions for style in each case.
+
+A CLOSER LOOK
+
+FILM STYLE IN SHADOW OF A DOUBT
+
+Uncle Charlie has come to visit his sister’s family in Santa Rosa, California. Charlie is a man of the world, flashing money freely. His sister Emmy adores him and has even named her daughter Charlie in his honor. But as Uncle Charlie lingers in town, Little Charlie begins to suspect that he’s a serial killer who preys on rich widows. She can’t prove it—the film’s title is Shadow of a Doubt—but she now sees his menacing side. In many scenes, director Alfred Hitchcock uses film style to link our perception and understanding of events to those of Little Charlie.
+
+One key moment in this process comes in a scene of the family having dinner. Uncle Charlie praises smalltown living. Women keep busy in towns like Santa Rosa, he says, not like the rich, spoiled women one finds in cities. He slowly slips into a venomous monologue:
+
+“And what do the wives do, these useless women? You see them in the hotels, the best hotels, every day by the thousands. Drinking the money, eating the money, losing the money at bridge, playing all day and all night. Smelling of money. Proud of their jewelry but nothing else. Horrible … fat, faded, greedy women.”
+
+ 
+
+Reacting to this, Little Charlie blurts out, “But they’re alive! They’re human beings!” Uncle Charlie replies, “Are they? Are they, Charlie? Are they human or are they fat, wheezing animals?” As if realizing he’s gone too far, Uncle Charlie smiles and switches back to his ingratiating manner.
+
+This powerful scene depends on many stylistic decisions about how to affect the audience. The dialogue constitutes a step in the process of strengthening Little Charlie’s suspicions that her uncle is a murderer. Since we in the audience have the same suspicions, the scene nudges us closer to the same belief. The scene suggests that he’s slightly mad; his killing proceeds not only from a larcenous bent but also from a deep-seated hatred of women. We gain a better understanding of his personality. Our response has an emotional dimension, too, since in his description of the women he dehumanizes them to chilling effect.
+
+Within the context of the film, this scene serves several functions. The development of the story depends on Uncle Charlie’s visit to his family and Little Charlie’s growing suspicions about his murderous instincts. As Uncle Charlie points out, however, she can’t tell anyone the truth, since doing so would devastate her mother. This creates a powerful conflict, not only between Little Charlie and her uncle but also within her mind. Similarly, as she learns the truth, her attitude changes. Initially, she worships her uncle, but eventually, she becomes bitterly aware of his real nature, and her trust in the world starts to crack. The dinner scene, then, contributes to a growth in Little Charlie’s character.
+
+Even the fact that the scene occurs at dinner is important. More cheerful scenes have taken place at the same table. At one point, Uncle Charlie gives Emmy restored photographs of their parents, which seems to convey his sincere love for her and their family. Little Charlie is exuberant (8.7). In these early scenes, we’re told of a special rapport that uncle and niece share, and he even presents here with an elegant ring (8.8). The ring plays an important role in the plot, since Little Charlie discovers an inscription on it (a clue that it came from one of her uncle’s victims). So Uncle Charlie’s hateful monologue creates a formal pattern alongside other moments we’ve already seen.
+
+ 
+
+8.7 In Shadow of a Doubt, Little Charlie is delighted when Uncle Charlie presents pictures of her grandparents.
+
+ 
+
+ 
+
+8.8 In an eerie parallel to a lovers’ engagement, Uncle Charlie presents his niece with a ring.
+
+ 
+
+Hitchcock firmly believed in using the medium to arouse the viewer’s mind and feelings. So, as Uncle Charlie launches into his monologue, Hitchcock presents us with an establishing shot of the entire table (8.9). We’ve seen similar shots in earlier scenes, and it orients us to the positions of the scene’s major characters. At the same time, Hitchcock stages the scene so that Uncle Charlie rather than Emmy’s husband sits at the head of the table. His domination of the household is presented visually. As Charlie starts to talk, after a shot of Emmy we get a brief shot of Little Charlie, eying him anxiously (8.10). When he begins to denounce the “useless women,” we see a close view of him as he continues his attack (8.11).
+
+ 
+
+8.9 A general shot shows the family at table, with the two Charlies most visible.
+
+ 
+
+ 
+
+8.10 After a shot of Emmy, Hitchcock cuts to Little Charlie looking uneasily at her uncle.
+
+ 
+
+ 
+
+8.11 Uncle Charlie begins his monologue about useless women.
+
+ 
+
+Joseph Cotten’s performance is very important here. He seethes with resentment of the “fat, faded, greedy women.” He delivers the speech without blinking, as if musing to himself rather than talking to others. Hitchcock magnifies the effect of Cotten’s performance with a tracking shot that eliminates everyone else at the table. The camera comes steadily forward, filling the frame with Uncle Charlie’s face as his monologue increases in anger and intensity (8.12).
+
+ 
+
+8.12 The camera moves closer to him …
+
+ 
+
+Hitchcock could have used other techniques. He could have filmed Uncle Charlie from the rear, concealing his face but showing us the reactions of others at the table. He could have interrupted shots of Uncle Charlie with the reactions of Emmy, her husband, and her children. But Hitchcock achieves a specific effect by the slow, riveting movement toward Uncle Charlie’s face as his hatred for women surfaces. Even though he’s speaking the lines aloud, the relentless forward tracking movement suggests that we’re getting a glimpse into his mind.
+
+Most directors would have shown Little Charlie objecting, “But they’re alive! They’re human beings!” by cutting to a shot of her face. But Hitchcock leaves her outburst offscreen. Then he adds an unexpected and eerie touch. As the tracking shot ends on an extremely tight close-up, Uncle Charlie turns slightly and looks into the camera as he replies, “Are they, Charlie?” (8.13).
+
+ 
+
+8.13 … and is very close when he turns and replies to Little Charlie’s protests that these women are human; he asks, “Are they, Charlie?”
+
+ 
+
+Suddenly, we’re put in the young woman’s place, seeing the full force of her uncle’s hatred. (We’ve just seen Jonathan Demme employing a comparable technique in filming Hannibal Lecter in The Silence of the Lambs [8.3–8.6]. Like Little Charlie, we begin to realize that he’s a sociopath, made all the more frightening by his steady gaze and controlled speech. Hitchcock’s decisions about staging, framing, sound, and editing have intensely engaged our minds and emotions in the story.
+
+Hitchcock’s style here is related to technical choices in the movie as a whole. For one thing, the shot of Uncle Charlie is the closest we ever come to him, so this tight framing gives the scene particular force. More generally, Hitchcock employs techniques that put us in the position of the characters. Throughout the film, he uses optical point of view, most often allowing us to share Little Charlie’s vantage point (8.14, 8.15).
+
+ 
+
+8.14 Earlier in the film, when Little Charlie has begun to suspect her uncle, she pauses on the front doorstep.
+
+ 
+
+ 
+
+8.15 Hitchcock then gives us an optical point-of-view shot of what makes her hesitate: Uncle Charlie holding her mother spellbound.
+
+ 
+
+This pattern of stylistic choices is sustained throughout the dinner table monologue. The brief shot of Little Charlie reminds us of her position beside her uncle (8.10). But rather than have Uncle Charlie start his monologue by glancing at her, Hitchcock lets him speak to the others at the table, or perhaps only to himself (8.11, 8.12). Only after Little Charlie’s offscreen outburst does Uncle Charlie turn to her—and us (8.13). Hitchcock has saved the most startling point-of-view moment for the end of the shot.
+
+The style of this scene enhances the film’s pattern of restricted narration. After Uncle Charlie arrives in Santa Rosa, we get some private glimpses into his activities, but the scenes concentrate largely on Emmy’s family and particularly on Little Charlie. We know a bit more than she knows about her uncle. For example, from the start, we suspect that he’s being sought by the police, but we don’t know what they’re investigating. Later we learn that Uncle Charlie has torn a story out of the newspaper, but not until his niece finds it do we discover what he was trying to conceal. Slowly, along with Little Charlie, we discover that the Merry Widow Murderer is at large and that Uncle Charlie is a prime suspect.
+
+So the overall form of the story’s development and the stylistic presentation in each scene work to put us close to Little Charlie. We know roughly what she knows, and we learn some key information when she does. In the dinner table scene, the developing story line and Hitchcock’s style combine to tie us even more tightly to Little Charlie. The moment when Uncle Charlie turns challengingly to the camera becomes a high point of this pattern.
+
+Style in Citizen Kane
+
+In analyzing Citizen Kane’s narrative, we discovered that the film is organized as a search; a detective-like figure, the reporter Thompson, tries to find the significance of Kane’s last word, “Rosebud.” But even before Thompson appears as a character, we, the spectators, are invited to ask questions about Kane and to seek the answers.
+
+The very beginning of the film sets up a mystery. After a fade-in reveals a “No Trespassing” sign, in a series of craning movements upward, the camera travels over a set of fences, all matched graphically in the slow dissolves that link the shots. There follows a series of shots of a huge estate, always with the great house in the distance (8.16). (This sequence depends largely on special effects; the house itself is a series of paintings, combined through matte work with three-dimensional miniatures in the foreground.) The gloomy lighting, the deserted setting, and the ominous music give the opening of the film the eerie uncertainty that we associate with mystery stories. These opening shots are connected by dissolves, making the camera seem to draw closer to the house although there is no forward camera movement. From shot to shot, the foreground changes, yet the lighted window remains in almost exactly the same position on the screen. Graphically matching the window from shot to shot already focuses our attention on it; we assume (rightly) that whatever is in that room will be important in initiating the story.
+
+ 
+
+8.16 The opening of Citizen Kane.
+
+ 
+
+ 
+
+This pattern of our penetration into the space of a scene returns at other points in the film. Again and again, the camera moves toward things that might reveal the secrets of Kane’s character, as in the spectacular crane up the side of a nightclub to a skylight as Thompson goes to interview Susan Alexander (8.17–8.20). As the camera reaches the skylight, a dissolve and a crack of lightning shift the scene inside to another craning movement down to Susan’s table. (Actually, some of what seem to be camera movements were created in the laboratory using special effects; see “Where to Go from Here” at the end of the chapter.)
+
+ 
+
+8.17 As this scene of Citizen Kane begins, the camera frames a poster of Susan Alexander on an outside wall of the nightclub …
+
+ 
+
+ 
+
+ 
+
+8.18 … then moves up the wall to the roof …
+
+ 
+
+ 
+
+ 
+
+8.19 … forward and through the “El Rancho” sign …
+
+ 
+
+ 
+
+ 
+
+8.20 … and over to the skylight.
+
+ 
+
+ 
+
+The opening scene and the introduction to El Rancho have some striking similarities. Each begins with a sign (“No Trespassing” and the publicity poster), and each moves us into a building to reveal a new character. The first scene uses a series of shots, whereas the second depends more on camera movement, but these different techniques are working to create a consistent pattern that becomes part of the film’s style. Later, Thompson’s second visit to Susan repeats the crane shots of the first. The second flashback of Jed Leland’s story begins with yet another movement into a scene. The camera is initially pointed at wet cobblestones. Then it tilts up and tracks in toward Susan coming out of a drugstore. Only then does the camera pan right to reveal Kane standing, splashed with mud, on the curb. This pattern of gradual movement into the story space not only suits the narrative’s search pattern but also creates curiosity and suspense.
+
+As we have seen, films’ endings often contain variations of their beginnings. Toward the end of Citizen Kane, Thompson gives up his search for Rosebud. But after the reporters leave the huge storeroom of Xanadu, the camera begins to move over the great expanse of Kane’s collections. It cranes forward high above the crates and piles of objects (8.21), then moves down to center on the sled from Kane’s childhood (8.22). Then there is a cut to the furnace, and the camera again moves in on the sled as it is tossed into the fire. At last we are able to read the word “Rosebud” on the sled (8.23). The ending continues the pattern set up at the beginning; the film techniques create a penetration into the story space, probing the mystery of the central character.
+
+ 
+
+8.21 A crane shot near the end of Citizen Kane …
+
+ 
+
+ 
+
+ 
+
+8.22 … moves down to center on Kane’s sled.
+
+ 
+
+ 
+
+ 
+
+8.23 Another forward camera movement brings the sled into close-up.
+
+ 
+
+ 
+
+After our glimpse of the sled, however, the film reverses the pattern. A series of shots linked by dissolves leads us back outside Xanadu, the camera travels down to the “No Trespassing” sign again, and we are left to wonder whether this discovery really provides a resolution to the mystery about Kane’s character. Now the beginning and the ending echo each other explicitly.
+
+Our study of Citizen Kane’s organization in Chapter 3 also showed that Thompson’s search was, from the standpoint of narration, a complex one. At one level, our knowledge is restricted principally to what Kane’s acquaintances know. Within the flashbacks, the style reinforces this restriction by avoiding crosscutting or other techniques that would move toward a more unrestricted range of knowledge. Many of the flashback scenes are shot in fairly static long takes, strictly confining us to what participants in the scene could witness. When the youthful Kane confronts Thatcher during the Inquirer crusade, Welles could have cut away to the reporter in Cuba sending Kane a telegram or could have shown a montage sequence of a day in the life of the paper. Instead, because this is Thatcher’s tale, Welles handles the scene in a long take showing Kane and Thatcher in a face-to-face standoff, which is then capped by a close-up of Kane’s cocky response.
+
+We have also seen that Kane’s narrative requires us to take each narrator’s version as objective within his or her limited knowledge. Welles reinforces this by avoiding shots that suggest optical or mental subjectivity. (Contrast Hitchcock’s optical point-of-view angles in The Birds and Rear Window,
+pp. 224–225 and 244–245.)
+
+Welles also uses deep-focus cinematography that yields an external perspective on the action. The shot in which Kane’s mother signs her son over to Thatcher is a good example. Several shots precede this one, introducing the young Kane. Then there is a cut to what at first seems a simple long shot of the boy (8.24). But the camera tracks back to reveal a window, with Kane’s mother appearing at the left and calling to him (8.25). Then the camera continues to track back, following the adults as they walk to another room (8.26). Mrs. Kane and Thatcher sit at a table in the foreground to sign the papers, while Kane’s father remains standing farther away at the left, and the boy plays in the distance (8.27).
+
+ 
+
+8.24 A progressively deeper shot in Citizen Kane begins as a long shot of the young Kane …
+
+ 
+
+ 
+
+ 
+
+8.25 … becomes an interior view as the camera reveals a window …
+
+ 
+
+ 
+
+ 
+
+8.26 … and moves backward with Mrs. Kane …
+
+ 
+
+ 
+
+ 
+
+8.27 … keeping the boy in extreme long shot throughout the rest of the scene.
+
+ 
+
+ 
+
+Welles eliminates cutting here. The shot becomes a complex unit unto itself, like the opening of Touch of Evil discussed on pp. 216–217. Most Hollywood directors would have handled this scene in shot/reverse shot, but Welles keeps all of the implications of the action simultaneously before us. The boy, who is the subject of the discussion, remains framed in the distant window through the whole scene; his game leads us to believe that he is unaware of what his mother is doing.
+
+The tensions between the father and the mother are conveyed not only by the fact that she excludes him from the discussion at the table but also by the overlapping sound. His objections to signing his son away to a guardian mix in with the dialogue in the foreground, and even the boy’s shouts (ironically, “The Union Forever!”) can be heard in the distance. The framing also emphasizes the mother in much of the scene. This is her only appearance in the film. Her severity and clamped-down emotions help motivate the many events that follow from her action here. We have had little introduction to the situation prior to this scene, but the combination of sound, cinematography, and mise-en-scene conveys the complicated action with an overall objectivity.
+
+Every director directs our attention, but Welles does so in unusual ways. Citizen Kane offers a good example of how a director can choose between alternatives. In the scenes that give up cutting, Welles cues our attention by using deep-space mise-en-scene (figure behavior, lighting, placement in space) and sound. We can watch expressions because the actors play frontally (8.27). In addition, the framing emphasizes certain figures by putting them in the foreground or in dead center (8.28). And, of course, our attention bounces from one character to another as they speak lines. Even if Welles avoids the classical Hollywood shot/reverse shot in such scenes, he still uses film techniques to prompt us to make the correct assumptions and inferences about the story’s progression.
+
+ 
+
+8.28 Depth and centering in Citizen Kane.
+
+ 
+
+ 
+
+Citizen Kane’s narration also embeds the narrators’ objective but restricted versions within broader contexts. Thompson’s investigation links the various tales, so we learn substantially what he learns. Yet he must not become the protagonist of the film, for that would remove Kane from the center of interest. Welles makes a crucial stylistic choice here. By the use of low-key selective lighting and patterns of staging and framing, Thompson is made virtually unidentifiable. His back is to us, he is tucked into the corner of the frame, and he is usually in darkness. The stylistic handling makes him the neutral investigator, less a character than a channel for information.
+
+More broadly still, we have seen that the film encloses Thompson’s search and each narrator’s recollection within a more omniscient narration. Our discussion of the opening shots of Xanadu is relevant here: film style is used to convey a high degree of non-character-centered knowledge. But when we enter Kane’s death chamber, the style also suggests the narration’s ability to plumb characters’ minds. We see shots of snow covering the frame (for example, 8.29), which hint at a subjective vision. Later in the film, the camera movements occasionally remind us of the broader range of narrational knowledge, as in the first version of Susan’s opera premiere, shown during Leland’s story in segment 6. There the camera moves to reveal something neither Leland nor Susan could know about (8.30–8.32). The final sequence, which at least partially solves the mystery of “Rosebud,” also uses a vast camera movement to give us an omniscient perspective. The camera cranes over objects from Kane’s collection, moving forward in space but backward through Kane’s life to concentrate on his earliest memento, the sled. A salient technique again conforms to pattern by giving us knowledge no character will ever possess.
+
+ 
+
+8.29 Citizen Kane: snow inside and outside the glass ball.
+
+ 
+
+ 
+
+ 
+
+8.30 In Citizen Kane’s first opera scene, the camera cranes up from the stage …
+
+ 
+
+ 
+
+ 
+
+8.31 … through the rigging above …
+
+ 
+
+ 
+
+ 
+
+8.32 … to reveal a stagehand indicating that Susan’s singing stinks.
+
+ 
+
+ 
+
+In looking at the development of the narrative form of Citizen Kane, we saw how Kane changes from an idealistic young man to a friendless recluse. The film sets up a contrast between Kane’s early life as a newspaper publisher and his later withdrawal from public life after Susan’s opera career fails. This contrast is most readily apparent in the mise-en-scene, particularly the settings of the Inquirer office and Xanadu. The Inquirer office is initially an efficient but cluttered place. When Kane takes over, he creates a casual atmosphere by moving in his furniture and living in his office. The low camera angles tend to emphasize the office’s thin pillars and low ceilings, which are white and evenly, brightly lit. Eventually, Kane’s collection of crated antiquities clutters his little office. Xanadu, on the other hand, is huge and sparsely furnished. The ceilings are too high to be seen in most shots, and the few furnishings stand far apart. The lighting often strikes figures strongly from the back or side, creating a few patches of hard light in the midst of general darkness. The expanded collection of antiquities and mementoes now is housed in cavernous storerooms.
+
+The contrast between the Inquirer office and Xanadu is also created by the sound techniques associated with each locale. Several scenes at the newspaper office (Kane’s initial arrival and his return from Europe) involve a dense sound mix with a babble of overlapping voices. Yet the cramped space is suggested by the relative lack of resonance in timbre. In Xanadu, however, the conversations sound very different. Kane and Susan speak their lines to each other slowly, with pauses between. Moreover, their voices have an echo effect that combines with the setting and lighting to convey a sense of huge, empty space.
+
+The transition from Kane’s life at the Inquirer to his eventual seclusion at Xanadu is suggested by a change in the mise-en-scene at the Inquirer. As we have just seen, while Kane is in Europe, the statues he sends back begin to fill up his little office. This hints at Kane’s growing ambitions and declining interest in working personally on his newspaper. This change culminates in the last scene in the Inquirer office—Leland’s confrontation with Kane. The office is being used as a campaign headquarters. With the desks pushed aside and the employees gone, the room looks larger and emptier than it had in earlier scenes. Welles emphasizes this by placing the camera at floor level and shooting from a low angle (5.107). The Chicago Inquirer office, with its vast, shadowy spaces, also picks up this pattern (8.33), as do later conversation scenes in the huge rooms of Xanadu (8.28).
+
+ 
+
+8.33 In Citizen Kane, deep-focus photography and rear projection exaggerate the depth of the Inquirer office, making the characters seem far apart.
+
+ 
+
+ 
+
+Contrast these scenes with one near the end of the film. The reporters invade Kane’s museumlike storeroom at Xanadu (8.34). Although the echoing inside Xanadu conveys its cavernous quality, the reporters transform the setting briefly by the same sort of dense, overlapping dialogue that characterized the early Inquirer scenes and the scene after the newsreel. By bringing together these reporters and Kane’s final surroundings, the film creates another contrasting parallel emphasizing the changes in the protagonist.
+
+ 
+
+8.34 Citizen Kane: deep focus in the final scene.
+
+ 
+
+ 
+
+Parallelism is an important feature throughout Citizen Kane, and most of the salient techniques work to create parallels in the ways we’ve already seen. For example, the use of deep focus and deep space to pack many characters into the frame can create significant similarities and contrasts. Late in Thatcher’s account (segment 4), a scene presents Kane’s financial losses in the Depression. He is forced to sign over his newspaper to Thatcher’s bank. The scene opens with a close-up of Kane’s manager, Bernstein, reading the contract (8.35). He lowers the paper to reveal Thatcher, now much older, seated opposite him. We hear Kane’s voice offscreen, and Bernstein moves his head slightly, the camera reframing a little. Now we see Kane pacing beyond them in a huge office or boardroom (8.36). The scene is a single take in which the dramatic situation is created by the arrangement of the figures and the image’s depth of field. The lowering of the contract recalls the previous scene, in which we first get a real look at the adult Kane as Thatcher puts down the newspaper that has concealed him (8.37, 8.38). There Thatcher had been annoyed, but Kane could defy him. Years later in the story, Thatcher has gained control and Kane paces restlessly, still defiant, but stripped of his power over the Inquirer chain. The use of a similar device to open these two scenes sets up a contrasting parallel between them.
+
+ 
+
+8.35 The contract scene in Citizen Kane …
+
+ 
+
+ 
+
+ 
+
+8.36 … with Kane in the background of the shot …
+
+ 
+
+ 
+
+ 
+
+8.37 … echoes this earlier scene’s composition …
+
+ 
+
+ 
+
+ 
+
+8.38 … and revelation of Kane.
+
+ 
+
+ 
+
+Editing patterns can also suggest similarities between scenes, as when Welles compares two moments at which Kane seems to win public support. In the first scene, Kane is running for governor and makes a speech at a mammoth rally. This scene is principally organized around an editing pattern that shows one or two shots of Kane speaking, then one or two close shots of small groups of characters in the audience (Emily and their son, Leland, Bernstein, Gettys), then another shot of Kane. The cutting establishes the characters who are important for their views of Kane. Boss Gettys is the last to be shown in the scene, and we expect him to retaliate against Kane’s denunciation.
+
+After his defeat, Kane sets out to make Susan an opera star and justify his interest in her to the public. In the scene that parallels Kane’s election speech, Susan’s debut, the organization of shots is similar to that of the political rally. Again the figure on the stage, Susan, serves as a pivot for the editing. One or two shots of her are followed by a few shots of the various listeners (Kane, Bernstein, Leland, the singing teacher), then back to Susan, and so on (8.39, 8.40). General narrative parallels and specific stylistic techniques articulate two stages of Kane’s power quest: first his own attempt and then with Susan as his proxy.
+
+ 
+
+8.39 Citizen Kane: Susan onstage in her opera debut …
+
+ 
+
+ 
+
+ 
+
+8.40 … and Kane in the audience.
+
+ 
+
+ 
+
+As we’ve seen in Chapter 7, music can bring out parallels as well. For example, Susan’s singing is causally central to the narrative. Her elaborate aria in the opera Salammbo contrasts sharply with the other main diegetic music, the little song about “Charlie Kane.” In spite of the differences between the songs, there is a parallel between them, in that both relate to Kane’s ambitions. The “Charlie Kane” ditty seems inconsequential, but its lyrics clearly show that Kane intends it as a political song, and it does turn up later as campaign music. In addition, the chorus girls who sing the song wear costumes with boots and Rough Rider hats, which they place on the heads of the men in the foreground (8.41). Thus Kane’s desire for war with Spain has shown up even in this apparently simple farewell party for his departure to Europe. When Kane’s political ambitions are dashed, he tries to create a public career for his wife instead, but she is incapable of singing grand opera. Again, the songs create narrative parallels between different actions in Kane’s career.
+
+ 
+
+8.41 Costumes create a political reference in Citizen Kane.
+
+ 
+
+ 
+
+As we saw in examining Citizen Kane’s narrative, the newsreel is a very important sequence, partly because it provides a map to the upcoming plot events. Because of its importance, Welles sets off the style of this sequence from the rest of the film by distinctive techniques that don’t appear elsewhere in Citizen Kane. Also, we need to believe that this is a real newsreel in order to motivate Thompson’s search for the key to Kane’s life. The realistic newsreel sequence also helps establish Kane’s power and wealth, which will be the basis of much of the upcoming action.
+
+Welles uses several techniques to achieve the look and sound of a newsreel of the period. Some of these are fairly simple. The music recalls actual newsreels, and the insert titles, outmoded in fictional films, were still a convention in newsreels. But beyond this, Welles employs a number of subtle cinematographic techniques to achieve a documentary quality. Since some of the footage in the newsreel is supposed to have been taken in the silent period, he uses several different film stocks to make it appear that the different shots have been assembled from widely different sources. Some of the footage was printed so as to achieve the jerkiness of silent film run at sound speed. Welles also scratched and faded this footage to give it the look of old, worn film. This, combined with the makeup work, creates a remarkable impression of documentary footage of Kane with Teddy Roosevelt, Adolf Hitler (8.42), and other historical figures. In the latter scenes of Kane being wheeled around his estate, the handheld camera, the slats and barriers (8.43), and the off-center framing imitate the effects of a newsreel reporter secretly filming Kane. All of these documentary conventions are enhanced by the use of a narrator whose booming voice also mimics the commentary typical in newsreels of the day.
+
+ 
+
+8.42 In Citizen Kane, costume, makeup, and …
+
+ 
+
+ 
+
+ 
+
+8.43 … cinematography simulate newsreel footage.
+
+ 
+
+ 
+
+One of Citizen Kane’s outstanding formal features is the way its plot manipulates story time. As we have seen, this process is motivated by Thompson’s inquiry and the order in which he interviews Kane’s acquaintances. Various techniques assist in the manipulation of order and duration. The shift from a narrator’s present recounting to a past event is often reinforced by a shock cut. A shock cut creates a jarring juxtaposition, usually by means of a sudden shift to a higher sound volume and a considerable graphic discontinuity. Citizen Kane offers several instances: the abrupt beginning of the newsreel after the deathbed shot, the shift from the quiet conversation in the newsreel projection room to the lightning and thunder outside the El Rancho, and the sudden appearance of a screeching cockatoo in the foreground as Raymond’s flashback begins (8.44). Such transitions create surprise and sharply demarcate one portion of the plot from another.
+
+ 
+
+8.44 A shock cut in Citizen Kane.
+
+ 
+
+ 
+
+The transitions that skip over or drastically compress time are less abrupt. Recall, for instance, the languid images of Kane’s sled being gradually covered by snow. A more extended example is the breakfast table montage (segment 6) that elliptically traces the decline of Kane’s first marriage. Starting with the newlyweds’ late supper, rendered in a track-in and a shot/reverse-shot series, the sequence moves through several brief episodes, consisting of shot/reverse-shot exchanges linked by superimpositions of lighted windows whizzing by. (The effect resembles the transitional device of the whip pan, a fast panning movement.) In each episode, Kane and Emily become more sharply hostile. The segment ends by tracking away to show the surprising distance between them at the table.
+
+The music reinforces the sequence’s development as well. The initial late supper is accompanied by a lilting waltz. At each transition to a later time, the music changes. A comic variation of the waltz follows its initial statement and then a tense one; then horns and trumpets restate the Kane theme. The final portion of the scene, with a stony silence between the couple, is accompanied by a slow, eerie variation on the initial theme. The dissolution of the marriage is stressed by this theme-and-variations accompaniment. A similar sort of temporal compression and sonic elaboration can be found in the montage of Susan’s opera career (segment 7).
+
+Our brief examination of Citizen Kane’s style has pointed out only a few of the major patterns in the film. You can find others: the musical motif associated with Kane’s power; the “K” motif appearing in Kane’s costumes and in Xanadu’s settings; the way the decor of Susan’s room in Xanadu reveals Kane’s attitude toward her; the changes in the acting of individuals as their characters age in the course of the story; and the playful photographic devices, such as the photos that become animated or the many superimpositions during montage sequences. Again and again in Citizen Kane, such stylistic patterns sustain and intensify the narrative development and shape the audience’s experience in particular ways.
+
+SUMMARY
+
+This concludes our introduction of the basic cinematic techniques. We have suggested ways to analyze stylistic functions in the overall form of individual films. We offer further examples of analyses in Part Five. First, however, there’s one more factor that affects our experiences of the films we see.
+
+Often, when we view a film, we think of it as belonging to a type or group of movies. Rather than say, “I’m going to see a film,” we may say, “I’m going to see a Western” or “I’m going to see a documentary.” Our friends are likely to understand what we mean, because such groupings are widely recognized in our culture. Part Four examines the main ways in which we categorize films.
+
+WHERE TO GO FROM HERE
+
+The Concept of Film Style
+
+Sometimes the concept of style is used evaluatively, to imply that something is inherently good (“Now that’s got real style!”). We are using the term descriptively. From our perspective, all films have style, because all films make some use of the techniques of the medium, and those techniques will necessarily be organized in some way.
+
+For discussion of the concept of style in various arts, see Monroe C. Beardsley, Aesthetics: Problems in the Philosophy of Criticism (New York: Harcourt Brace and World, 1958); J. V. Cunningham, ed., The Problem of Style (Greenwich, CT: Fawcett, 1996); and Berel Lang, ed., The Concept of Style, rev. ed. (Ithaca, NY: Cornell University Press, 1987).
+
+Pioneering studies of style in the cinema are Erwin Panofsky, “Style and Medium in the Moving Pictures” (originally published in 1937), in Daniel Talbot, ed., Film: An Anthology (Berkeley: University of California Press, 1970), pp. 13–32, and Raymond Durgnat, Films and Feelings (Cambridge, MA: MIT Press, 1967). Most of the works cited in the “Where to Go from Here” sections of the chapters in Part Three offer concrete studies of aspects of film style.
+
+For essays on a wide variety of styles and films, see Lennard Højbjerg and Peter Schepelern, eds., Film Style and Story: A Tribute to Torben Grodal (Copenhagen: Museum Tusculanum Press, 2003). For a survey of the different ways in which critics and historians have approached style, see David Bordwell, On the History of Film Style (Cambridge, MA: Harvard University Press, 1997). Bordwell examines film style in the films of many periods, filmmakers, and countries in Poetics of Cinema (New York: Routledge, 2008).
+
+An entire book has been written on the production of Citizen Kane, shedding much light on how its style was created: Robert L. Carringer’s The Making of Citizen Kane (Berkeley: University of California Press, 1985). Among other things, Carringer reveals the degree to which Welles and his collaborators used special effects for many of the film’s scenes. A tribute to the film, and a reprinting of Gregg Toland’s informative article on the film, “Realism for Citizen Kane,” is available in American Cinematographer 72, 8 (August 1991): 34–42. Graham Bruce illuminates Bernhard Herrmann’s musical score for Citizen Kane in Bernard Herrmann: Film Music and Narrative (Ann Arbor, MI: UMI Research Press, 1985), pp. 42–57. See also Steven C. Smith, A Heart at Fire’s Center: The Life and Music of Bernard Herrmann (Berkeley: University of California Press, 1991). A detailed analysis of the film’s sound is Rick Altman, “Deep-Focus Sound: Citizen Kane and the Radio Aesthetic,” Quarterly Review of Film and Video 15, 3 (December 1994): 1–33.
+
+Recommended DVD Supplements
+
+Supplements for DVDs often discuss individual film techniques and their functions, but they rarely consider how style functions systematically. Here are bonus features that try for a little analysis.
+
+“The Making of American Graffiti” deals fairly extensively with the film’s style and includes comments by the great sound editor Walter Murch. In “The Leone Style,” on the DVD of The Good, the Bad, and the Ugly, several apects of the director’s approach are discussed: the use of lengthy shots using a slow visual rhythm, juxtapositions of extreme long shots and extreme close-ups, imitations of paintings, and operatic grandeur.
+
+“The Making of My Own Private Idaho” deals concretely with style as a formal system, comparing the techniques used at the film’s opening and ending, and tracing changes in the style as the story progresses. The featurette covers camera movement and angle, lighting, sets, and acting.
+
+In “Elmer Bernstein and The Magnificent Seven,” film music expert Jon Burlingame compares musical and visual rhythm, which are sometimes strikingly in contrast. He also analyzes how the score’s themes and orchestrations function in the narrative.
+
+“Anatomy of a Scene” analyzes the style in a sequence from Far from Heaven. It covers the production design and costumes, cinematography, acting, editing, and music. At the end, the completed scene is shown.

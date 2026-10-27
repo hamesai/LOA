@@ -1,0 +1,494 @@
+The Project Gutenberg eBook of Moving Pictures: How They Are Made and Worked
+ 
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Moving Pictures: How They Are Made and Worked
+
+Author: Frederick Arthur Ambrose Talbot
+
+ 
+Release date: May 2, 2022 [eBook #67972]
+ Most recently updated: October 18, 2024
+
+Language: English
+
+Original publication: United States: J. B. Lippincott, 1914
+
+Other information and formats: www.gutenberg.org/ebooks/67972
+
+Credits: deaurider, Charlie Howard, and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+*** START OF THE PROJECT GUTENBERG EBOOK MOVING PICTURES: HOW THEY ARE MADE AND WORKED ***
+
+ MOVING PICTURES
+
+ HOW THEY ARE MADE AND WORKED
+
+CONQUESTS OF SCIENCE
+
+_Uniform with this Volume._
+
+BY FREDERICK A. TALBOT
+
+ THE OIL CONQUEST OF THE WORLD
+
+ LIGHTSHIPS AND LIGHTHOUSES
+
+ THE RAILWAY CONQUEST OF THE WORLD
+
+ STEAMSHIP CONQUEST OF THE WORLD
+
+ PHILADELPHIA: J. B. LIPPINCOTT COMPANY
+ LONDON: WILLIAM HEINEMANN
+
+[Illustration:
+
+ _Frontispiece._
+
+TRICK CINEMATOGRAPHY--THE AUTOMOBILE ACCIDENT.
+
+The producer giving instructions to the principal actor and his double,
+the legless cripple. The dummy legs in the foreground.--_See page 211._]
+
+ _CONQUESTS OF SCIENCE_
+
+ MOVING PICTURES
+
+ HOW THEY ARE MADE AND WORKED
+
+ BY
+ FREDERICK A. TALBOT
+
+ NEW EDITION
+
+ _ILLUSTRATED_
+
+ PHILADELPHIA: J. B. LIPPINCOTT COMPANY
+ LONDON: WILLIAM HEINEMANN
+ 1914
+
+ _First Printed, January, 1912_
+ _Revised Edition, December, 1912_
+ _New Edition, November, 1914_
+
+ _Printed in England._
+
+PREFACE
+
+The marvellous, universal popularity of moving pictures is my reason
+for writing this volume. A vast industry has been established of which
+the great majority of picture-palace patrons have no idea, and the
+moment appears timely to describe the many branches of the art.
+
+I have endeavoured to deal with the whole subject in a popular and
+comprehensive manner. I have been assisted by several friends, who
+have enabled me to throw considerable light upon the early history of
+motion photography and the many problems that had to be mastered before
+it met with public appreciation:--MM. Weiss and Bull, the Director
+and Assistant-Director respectively of the Marey Institute in Paris;
+M. Georges Demeny; Messrs. Frank L. Dyer, the President of Thomas A.
+Edison, Incorporated; W. F. Greene, Robert W. Paul, James Williamson,
+Lumière & Sons, Richard G. Hollaman, the Eastman Kodak Company, Dr. J.
+Comandon, F. Percy Smith, Albert Smith, and the numerous firms engaged
+in one or other of the various branches of the industry.
+
+I am indebted especially to the editor of _L’Illustration_, the
+well-known Parisian illustrated weekly newspaper, in conjunction with
+the Société des Établissements Gaumont, for permission to publish the
+photographs illustrating Chapters XIX., XX., and XXI., as well as the
+frontispiece; also to Mr. A. A. Hopkins, the author of “Magic,” and to
+Messrs. Munn & Co., the proprietors of _The Scientific American_, of
+New York, U.S.A.
+
+The book makes no claim to being a practical manual, because thereby
+intricate technicalities would have been unavoidable. The information
+respecting the various mechanical aspects of cinematography are set
+forth in a readable manner, so that the broad principles may be
+understood.
+
+While the most popular features of motion photography are described
+fully, I have not omitted to introduce the reader to the educational
+and scientific developments, which are more wonderful and fascinating.
+Indeed, the cinematograph will probably achieve greater triumphs in
+these fields than it has accomplished already as a source of amusement.
+
+ FREDERICK A. TALBOT.
+
+CONTENTS
+
+ CHAPTER PAGE
+ I. WHAT IS ANIMATED PHOTOGRAPHY? 1
+
+ II. THE FIRST ATTEMPTS TO PRODUCE MOVING PICTURES 10
+
+ III. THE SEARCH FOR THE CELLULOID FILM 23
+
+ IV. THE KINETOSCOPE: THE ANIMATOGRAPH: THE CINEMATOGRAPHE 30
+
+ V. HOW THE CELLULOID FILM IS MADE 50
+
+ VI. THE STORY OF THE PERFORATION GAUGE 57
+
+ VII. THE MOVING PICTURE CAMERA, ITS CONSTRUCTION, AND
+ OPERATION 65
+
+ VIII. DEVELOPING AND PRINTING THE PICTURES 76
+
+ IX. HOW THE PICTURES ARE SHOWN UPON THE SCREEN 88
+
+ X. THE STUDIO FOR STAGING MOVING PICTURE PLAYS 103
+
+ XI. THE CINEMATOGRAPH AS A RECORDER OF TOPICAL EVENTS:
+ SCENIC FILMS 116
+
+ XII. THE CINEMATOGRAPH THEATRE AND ITS EQUIPMENT 130
+
+ XIII. HOW A CINEMATOGRAPH PLAY IS PRODUCED 146
+
+ XIV. MOVING PICTURES OF MICROBES 161
+
+ XV. SOME ELABORATE PICTURE PLAYS AND HOW THEY WERE STAGED 169
+
+ XVI. PICTURES THAT MOVE, TALK, AND SING 179
+
+ XVII. POPULAR SCIENCE AS REVEALED BY THE CINEMATOGRAPH 190
+
+ XVIII. TRICK PICTURES AND HOW THEY ARE PRODUCED.--
+ I. THE FIRST ATTEMPTS AT CINEMATOGRAPH MAGIC AND THE
+ ARTIFICES ADOPTED 197
+
+ XIX. TRICK PICTURES AND HOW THEY ARE PRODUCED.--
+ II. DANCING FURNITURE: STRINGS, CORDS, AND WIRES: “THE
+ MAGNETIC GENTLEMAN”: THE “STOP AND SUBSTITUTION”: “THE
+ AUTOMOBILE ACCIDENT”: REVERSAL OF ACTION 207
+
+ XX. TRICK PICTURES AND HOW THEY ARE PRODUCED.--
+ III. MANIPULATION OF THE FILM: APPARITIONS AND GRADUAL
+ DISAPPEARANCES BY OPENING AND CLOSING THE DIAPHRAGM
+ OF THE LENS SLOWLY: “THE SIREN”: SUBMARINE EFFECTS 218
+
+ XXI. TRICK PICTURES AND HOW THEY ARE PRODUCED.--
+ IV. LILLIPUTIAN FIGURES: “THE LITTLE MILLINER’S
+ DREAM”: THE “ONE TURN ONE PICTURE” MOVEMENT: HOW
+ SOME EXTRAORDINARY INCIDENTS ARE PRODUCED: “THE SKI
+ RUNNER” 231
+
+ XXII. TRICK PICTURES AND HOW THEY ARE PRODUCED.--
+ V. “PRINCESS NICOTINE” AND HER REMARKABLE CAPRICES 242
+
+ XXIII. TRICK PICTURES AND HOW THEY ARE PRODUCED.--
+ VI. SOME UNUSUAL AND NOVEL EFFECTS 254
+
+ XXIV. ELECTRIC SPARK CINEMATOGRAPHY 264
+
+ XXV. THE “ANIMATED” NEWSPAPER 277
+
+ XXVI. ANIMATION IN NATURAL COLOURS 287
+
+ XXVII. MOVING PICTURES IN THE HOME 301
+
+ XXVIII. MOTION-PHOTOGRAPHY AS AN EDUCATIONAL FORCE 312
+
+ XXIX. RECENT DEVELOPMENTS: THE GROWTH AND POPULARITY OF THE
+ CINEMATOGRAPH: SOME FACTS AND FIGURES: CONCLUSION 319
+
+LIST OF ILLUSTRATIONS
+
+ _To face page_
+ Trick Cinematography--The Automobile Accident _Frontispiece_
+
+ Dr. E. J. Marey’s Famous Experiments--Photographic Gun of 1882 16
+
+ Consecutive Pictures of a Gull Flying, taken with the
+ Photographic Gun 16
+
+ Chronophotographic Apparatus for taking Consecutive Pictures
+ upon a Single Glass Plate 16
+
+ Dr. Marey’s Animated Pictures made in 1884–6 for the Analysis
+ of Motion 17
+
+ Edison’s First Kinetoscope 32
+
+ Edison Film made about 1891 for the Kinetoscope 33
+
+ Edison Film made in 1911 for the Cinematograph 33
+
+ Paul’s Camera showing Mechanism for moving the Film
+ intermittently past the Lens 36
+
+ The First Kinetoscope Film made in England 36
+
+ The “Black Maria,” the First Edison Studio for making
+ Kinetoscope Films 37
+
+ The Dissolving Room 52
+
+ The Mixing Barrel 53
+
+ A Battery of Celluloid Mixers 54
+
+ The Liquid Celluloid Storage Room 55
+
+ Paul’s Rotary Perforator 60
+
+ The First Cinematograph Studio-Stage 60
+
+ The Williamson Film Perforator 61
+
+ The Perforating Room of the Cines Company in Rome 66
+
+ The Film-moving Mechanism of a Cinematograph Camera 67
+
+ Paul’s Complete Developing, Printing, and Drying Outfit 70
+
+ The First Developing Room in Great Britain, at Robert Paul’s
+ Pioneer Film Factory 70
+
+ After Development and Washing the Films were transferred
+ from the Racks to the Cylinders 71
+
+ The Drying Room, showing Films wound on the Drying Drums 71
+
+ The Developing Room at the Pathé Works 78
+
+ The Drying Room at the Pathé Works 79
+
+ A Row of Printing Machines in the Rome Works of the Cines
+ Company 82
+
+ The Williamson Printing Machine 83
+
+ The Projector and Mechanism 100
+
+ The Complete Projecting Installation 100
+
+ The “Chrono” Projector 101
+
+ Outstripping the Human Eye 101
+
+ An Early Open-Air Studio-Stage for producing Cinematograph
+ Plays 104
+
+ The Scene-Painters’ Shop at a Pathé Studio 105
+
+ Battle Scene from “The Siege of Calais” 108
+
+ Exterior of the Modern Edison Film-Play-Producing Theatre 109
+
+ Building a Solid Set for “The Two Orphans” 109
+
+ Building a Scene on one of the Pathé Studio-Stages for a Film
+ Play 112
+
+ The Wardrobe Room at the Selig Film Factory 113
+
+ The Selig Stock Company at Los Angeles 113
+
+ The First Topical Film 118
+
+ The Fall from the Balloon 119
+
+ The Luxury of the Modern Picture Palace 134
+
+ The Lantern Room of a Modern Cinematograph Theatre 135
+
+ The Trial Scene from “Rachel’s Sin” 140
+
+ How the Sound Accompaniments to Pictures are Produced 141
+
+ The Film-Play Producer at Work 148
+
+ Taking Three Picture-Plays Simultaneously 149
+
+ The Fight for the Boats in “Atlantis” 152
+
+ “Sauve qui peut” at the Wreck of the Liner 152
+
+ The Sinking of the Liner “Roland” 153
+
+ Sorting, Examining, and Joining the Strips of Film 156
+
+ Preparing the Titles 157
+
+ Dr. Comandon’s Apparatus for taking Moving Pictures of
+ Microbes 164
+
+ The Phenomenon of Agglutination in a Fowl’s Blood 165
+
+ The Blood of a Fowl suffering from _Spirochæta Gallinarum_ 165
+
+ A Triumph of the Cinematographer’s Art 172
+
+ The Gigantic Horse being Hauled by the Greeks under the Walls
+ of Troy 173
+
+ “The Fall of Troy” 173
+
+ The “Battle of Waterloo” upon the Film 176
+
+ Building the Scenery for the Film Performance of “Hamlet” 177
+
+ The Ghost Scene from “Hamlet” 177
+
+ Nature and the Cinematographer--Mr. Percy Smith at Work 192
+
+ Fly Seated in a Diminutive Chair Balancing a Cork 193
+
+ An Unfamiliar Juggler--Bluebottle Balancing a Piece of
+ Vegetable Stalk 193
+
+ Fly Lying on its Back Spinning a Wheel 194
+
+ Juggling Flies 194
+
+ The Fly Walking Up the Turning Wheel 194
+
+ The Life of the Butterfly 195
+
+ The Magic Sword: A Mediæval Mystery Explained 200
+
+ A Christmas Carol: How Scrooge saw Bob Cratchit’s Home 201
+
+ “Ora Pro Nobis,” and How it was Produced 202
+
+ The Secret of the Haunted Curiosity Shop 203
+
+ Motoring Round the Ring of Saturn 204
+
+ The Car Circling the Sun 204
+
+ The Animated Swords 205
+
+ The Travelling Bed 208
+
+ The Magnetic Gentleman 209
+
+ The Pursuing Man-hole Cover is a Wooden Property 210
+
+ The Lamp-Post is a Stage Article Hinged in the Centre 210
+
+ The Trick Picture--The Automobile Accident: The Actor being
+ replaced by the Legless Cripple with the Dummy Legs 211
+
+ The Taxi-cab Running over the Sleeper and Apparently Cutting
+ off his Legs, but in Reality Displacing the Legless
+ Cripple’s Property Limbs 212
+
+ Observing the Effects of the Disaster, the Doctor Proceeds to
+ Replace the Severed Legs 213
+
+ The Limbs Replaced, the Patient and Doctor Shake Hands 213
+
+ The Roysterer, after being run over by the Taxi-cab, Sitting
+ up and Brandishing his Severed Limbs 214
+
+ The Legless Cripple being Prepared for the Act 214
+
+ The Fountain of Youth 215
+
+ Pumpkins Running Up-hill 215
+
+ The Revolving Table 220
+
+ The Secret of the Fairy’s Disappearance: While a Length of
+ Film is being exposed the Diaphragm is closed slowly 221
+
+ The same Length of Film is re-exposed after the Fairy has
+ entered the Picture, under a slowly opening Diaphragm 222
+
+ The Effect of Double Exposure under closing and opening
+ Diaphragm 223
+
+ The Mystery of “The Siren” 226
+
+ The Mystery of “The Siren” revealed 227
+
+ A Workshop in which Tools move without Hands 238
+
+ The Skater approaching the Factory Chimney 238
+
+ The Result of the Collision with the Chimney 239
+
+ The Ski-runner Disappears into Space 239
+
+ Princess Nicotine--A Dainty Trick Film 246
+
+ The Fairy, Buried in the Heart of the Rose, Smoking a Cigarette 247
+
+ The Diminutive Form of the Fairy on the Table 247
+
+ The Fairy Imprisoned in the Bottle. This effect is obtained by
+ double exposure 250
+
+ The Fairy, after Coquetting with the Bachelor, is driven away
+ by the Smoke from his Cigarette 250
+
+ The Fairy proceeds to Build a Bonfire with Matches 251
+
+ The Fairy, her Accomplice, and Properties, which are Enlarged
+ Reproductions of the Actual Articles 251
+
+ The Dissolution of the Government 258
+
+ The Latest Craze in Trick Cinematography: Silhouettes with
+ Models 259
+
+ A Quaint Advertisement Film 260
+
+ Mr. Asquith in Cartoon 260
+
+ A Novel Curtain Idea 260
+
+ The Human Butterfly: How are the Effects Obtained? 261
+
+ M. Lucien Bull’s Complete Apparatus 270
+
+ The Novel Camera showing Stereoscopic Lens 270
+
+ A Bee Cinematographed in Full Flight 271
+
+ A Dragon Fly in Flight 274
+
+ Cinematograph Film of a Bullet Fired through a Soap Bubble 275
+
+ Preparing the Pathé Colour Films 288
+
+ The Pathé Colour Machine-Printing Room 289
+
+ The Kinora Camera 302
+
+ The Mechanism of the Kinora Camera showing Paper Negative
+ Film in position 302
+
+ The Reel of Positive Prints 303
+
+ The Kinora Reproduction Instrument 303
+
+ The Bettini Glass Plate Cinematograph 308
+
+ A Section of a Bettini Glass Plate Record 308
+
+ The Birth of a Flower 309
+
+ Waging a Health Campaign by Moving Pictures 309
+
+ Cinematographing Africa from a Locomotive 314
+
+ Mount Etna in Eruption: Looking into the Crater of the Volcano 315
+
+ The Plumes of Smoke as seen from the Observatory 315
+
+ The “Cradle of Cinematography”: The Marey Institute in Paris 322
+
+ The latest marvel in Moving Pictures: Combining the X-rays
+ with the Cinematograph 322
+
+ After Fifty Years. This Film won the First Prize of 25,000
+ Francs at the recent Turin Exhibition 323

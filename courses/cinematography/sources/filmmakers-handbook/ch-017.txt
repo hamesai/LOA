@@ -1,0 +1,561 @@
+CHAPTER 12
+
+Lighting
+
+The Function of Lighting
+
+Everything we do with cameras and lenses is about capturing light. Light is needed to register an image on a video camera’s sensor or on film, but the lighting in a movie plays a much more complex role than just that. A scene may be lit by nature (the sun), with available light (using whatever natural or man-made light is already at the location), or with lighting fixtures that the filmmaker controls. The way a scene is lit influences both how we understand the scene—what we can see in it—and how we experience the scene emotionally.
+
+Lighting directs the viewer’s attention, since the eye is naturally drawn to bright areas of the frame. Lighting gives the audience cues about the time of day and season in which a scene takes place. The angle from which light strikes an object or a face affects how we see shapes and textures. Side lighting casts shadows that emphasize depth, dimension, and surface texture, while frontal lighting tends to flatten, compress, and smooth over features.
+
+Qualities of light have a powerful effect on the mood of a scene. Painters are often celebrated for the way they manipulate light and create particular moods. Andrew Wyeth, for example, evokes the gray, quiet feeling of the Maine landscape with extremely flat and even illumination. Rembrandt creates a much more dramatic effect by using a chiaroscuro style, in which pools of light and shadow are used to obscure as much as they reveal of a subject. Think of the qualities of light over the course of a day. A bright morning sun can feel cheery and safe, while a moonless night evokes mystery or tension.
+
+On feature films, lighting is usually a top priority. The actors and sets must look their best and the mood of the scene must be right. Lights are positioned carefully, consuming much time and expense. The director of photography is usually responsible for the lighting design, which is as important as his or her mastery of cameras and lenses.
+
+In documentary production, light is sometimes a low priority, thought of less for its mood than for its exposure value. In some cases there’s just no time for careful lighting. But sometimes good lighting takes no more time than bad. It may be as simple as using available light smartly.
+
+In all productions, one of the key concerns is controlling contrast. Most natural and available light situations have a range of brightness that exceeds the camera’s ability to capture it. Often lighting equipment is needed to make shadows less dark or highlights less bright.
+
+People get into fierce debates about the virtues of one camera over another, video versus film, one type of setting or another, but the fact of the matter is that lighting often plays a huge and unacknowledged role. Good lighting can make even a “bad” camera look good, and bad lighting looks bad regardless.
+
+This chapter is written for people working in video or film, who may have a large crew or be shooting alone. For simplicity’s sake, the person doing the lighting will be referred to as the DP (director of photography).
+
+LIGHT
+
+Look at a painting, a photograph, or a scene in a movie that you think has interesting light. How is the painter or photographer achieving that effect? Start by identifying the light sources (you may not be able to see the source itself, just the light it produces). Examine each source for these factors that contribute to its effect in the scene:
+
+What kind of shadow does it cast (crisp or diffuse)?
+
+What angle is it coming from?
+
+How bright is it (its intensity)?
+
+How bright is it relative to other lights (the lighting contrast)?
+
+What color is it?
+
+When you’re ready to shoot a scene, ask the same questions about the light sources. At times you may specifically check, say, the angle or intensity of a given light. But at other times you will look at things more instinctively, evaluating the overall “feel” of the lighting but keeping these factors in the back of your mind.
+
+Qualities of Light
+
+The hardness of light is a way to describe the type of shadow it casts. Hard light, also called specular light, like direct sunlight on a clear day, is made up of parallel rays that produce clean, hard shadows that neatly outline the shapes of objects (see Fig. 12-1). Hard light is crisp and can sometimes feel harsh.
+
+Soft, or diffuse, light is less directional. It’s made up of rays going in many different directions and produces much softer, gentler shadows. The light on a hazy or overcast day is soft. It emanates from all parts of the sky at once. If it casts shadows at all, they are dull and indistinct.
+
+Hard light can be produced artificially with lensed or focused lamps that emit a clearly directed beam. The spotlights used to single out a performer on stage are extremely hard. The light from a car headlight is quite hard. Hard light can be created with a fairly compact lighting fixture.
+
+Because hard light casts very distinct shadows, it is used to delineate shapes. It brings out surface textures and can cast dramatic, sculpted shadows. The classic Hollywood look of the 1940s is based on fairly hard light sources (see Fig. 9-14). In a less flattering use of hard light, news photographers often use a simple, hard light that creates sharp shadows across the face.
+
+Fig. 12-1. (left) The relatively parallel rays of hard light cast a sharp shadow. (right) The scattered, more random rays of soft light cast a diffuse shadow.
+
+Soft light sources produce a broad and even glow, not a beam of light. Soft sources are usually indirect; that is, the light from the bulb is first bounced off a white or silvery surface before striking the subject. In a classic umbrella light (see Fig. 12-28), the bulb shines into the umbrella, which reflects back a wide, diffuse pattern of light. To soften the light from any bulb, we need to spread the light out and disrupt the parallel rays. Another way to soften light is to put some type of translucent material between the source and the subject, which is not unlike what a typical cloth lampshade does on a household fixture.
+
+Fig. 12-2. Hard light. This scene from Dr. Strangelove is lit with a hard source that casts crisp shadows and provides a glint in Sterling Hayden’s eyes. Harsh lighting is used throughout the film to accentuate the craziness of Hayden’s character, Jack D. Ripper. (Columbia Pictures)
+
+Soft light is relatively gentle and tends to smooth out features and textures. Traditionally, female actors are lit with soft light to disguise any facial wrinkles or imperfections. A single soft light off to the side can provide delicate modeling of curved surfaces such as the face, because of the way it “wraps around” the curve with gradual shading (hard lights produce shadows that are more sharp edged). Some people feel that soft lighting is more “natural.” This is true in some situations; for example, window light is often fairly soft and may cast gentle, soft shadows. On the other hand, direct sunlight streaming through a window is usually quite hard and casts hard, crisp shadows.
+
+Fig. 12-3. Soft light. The diffuse light in this shot wraps around the woman’s arm and face and produces very gentle shadowing.
+
+Directionality
+
+As noted above, the direction or angle from which light strikes the subject influences how the subject appears on screen. Light coming from the general direction of the camera is called front light. Front axial light comes from very near the camera’s lens; its shadows are mostly not visible from the camera position. Camera-mounted fixtures, such as flash units used on still cameras, provide front light, which illuminates all the visible surfaces of the subject. Full frontal lighting can be quite harsh and usually uninteresting, since dimensionality and surface texture are minimized. However, the flattening effect may be desired. Models are often photographed with very frontal light (see Fig. 4-5). In fashion shoots, sometimes a ring light is used that encircles the lens and can makes faces seem flawless and without dimension (of course, a little retouching in Photoshop makes them even more flawless).
+
+You can think of full frontal lighting as projecting from the number 6 on a clock face whose center is the subject. (Think of the camera as also positioned at the number 6.) Offset (the light at number 5 or 7) and three-quarter front light (around 4:30 or 7:30) can be used for portraiture when more shadowing is desired.
+
+Full side light (around 3 or 9) provides good modeling and indication of texture (since texture is revealed by the pattern of tiny individual shadows visible from the camera position). Side light can be quite dramatic. It produces shadows that fall clearly across the frame and distinctly reveal the depth of various objects in space.
+
+Backlight originates from behind (and usually above) the subject. It tends to outline the subject’s shape and to differentiate it from the background. Backlight can produce a bright edge or halo on a subject’s hair and shoulders. When backlight predominates, sometimes called contre-jour, it can create a moody and romantic effect. If the background is bright and no light falls on the camera side of the subject, the subject will be in silhouette.
+
+Fig. 12-4. Directionality of light. The subject is lit by one light. (A) Backlight or kicker. (B) Side light. (C) Three-quarter front light. (D) Full frontal light. Also see Fig. 12-40. (Ned Johnston)
+
+We are also concerned with the vertical angle of light—that is, the height from which it strikes the subject. Top light, which shines down from directly above the subject, can make deep shadows in eye sockets. Cinematographer Gordon Willis used top light in The Godfather to cast menacing shadows in Marlon Brando’s eyes. Top light can also make landscapes seem more two-dimensional, because few shadows are visible (think of sunlight at noon on a bright day). Most movie lighting is done with the key lights angled about 40 degrees from the floor or slightly higher for the best modeling without casting excessive shadows. Underlighting, in which the light comes up from below the subject and casts shadows upward, occurs rarely in nature and is used in horror films to lend a ghoulish look to faces.
+
+Fig. 12-5. Lighting depends on the camera angle. From this side, the performer is backlit by the spotlight, with a very high-contrast, edge-lit look. If you shot from the other side, she would be front lit with a much flatter look. The camera on the crane directly above is seeing a side-lit shot of the keyboard. (Sony Electronics, Inc.)
+
+Lighting Contrast
+
+Much of the mood or atmosphere of a lighting scheme is determined by the lighting contrast—that is, the relationship in light intensity between the brightly lit areas and the shadow areas. With great lighting contrast, there is a great difference in intensity between the bright areas and the deep shadows. With low lighting contrast (often achieved by using secondary lights to fill in the shadows), the lighting appears fairly flat and uniform throughout the frame. The degree of lighting contrast is often expressed numerically in terms of the lighting contrast ratio (see p. 512). Lighting contrast results from the relationship of the key light (which casts the primary shadows) and the fill light (which fills in the key’s shadows). See below for more on these terms.
+
+A low-key lighting design has high lighting contrast and a Rembrandt-like look, with dark shadow areas predominating over light areas. Low-key lighting is associated with night, emotion, tension, tragedy, and mystery. Film-noir movies, as well as Citizen Kane, are lit in moody, low-key lighting; the dramatic feel of the lighting is well suited to the black-and-white image.
+
+With high-key lighting, the lighting contrast is low and bright tones predominate, making everything appear bright and cheery. High-key lighting is often used for daytime scenes and comedy. Most studio-shot television shows use this kind of low-contrast lighting scheme because the light is evenly distributed around the set, which is convenient in situations in which several cameras are shooting simultaneously from different angles or when an actor must be able to move freely around the set without walking into deep shadows.
+
+Fig. 12-6. The single candle produces hard light (note the crisp shadows) and a very high-contrast lighting scheme with no fill lighting and deep shadows. (The Penitent Magdalen by Georges de La Tour, The Metropolitan Museum of Art, Gift of Mr. & Mrs. Charles Wrightsman, 1978)
+
+Fig. 12-7. In this scene from Get Low, smoke is used to reveal the rays of light streaming through the window. Lighting contrast on the face is high, with little fill lighting for a stark look. The frame has a great feeling of depth that ranges from the foreground subject to the middle ground window, and then to the back wall of the church. (Sony Pictures Classics)
+
+Fig. 12-8. The window light here is quite soft (note the gentle shadow angled downward from the windowsill). Compared to Fig. 12-7, this lighting is lower contrast, since the light source is bigger and softer, and reflected light in the room helps fill in shadows. See other works by Vermeer for his masterly rendering of natural light. (Young Woman with a Water Jug by Johannes Vermeer, The Metropolitan Museum of Art, Gift of Henry G. Marquand, 1889)
+
+Fig. 12-9. This scene from Born Yesterday is lit in a classic high-key, low-contrast style of Hollywood comedies of the 1940s and 50s. Lighting units are fairly hard, and no part of the set is allowed to go very dark. (Columbia Pictures)
+
+LIGHTING EQUIPMENT
+
+Lighting equipment may be owned by the filmmaker, a production company, or a school, or it may be rented for individual shoots. Often the DP and/or gaffer (see p. 362) assembles a lighting package from a rental house according to the needs of each production or day’s work.
+
+Lighting Fixtures and Light Intensity
+
+In the world of movie lighting, a lighting fixture may be called a lighting unit, instrument, head, or luminaire. The bulb is referred to as a lamp or globe; changing a bulb is relamping. Lighting units are identified by type and power consumption. A 5K spot is a 5,000-watt (5-kilowatt) spotlight. Lights are balanced for tungsten (3200°K) unless stated otherwise. Don’t confuse degrees kelvin with use of K that indicates wattage.
+
+On the set you’ll find many names used for various pieces of equipment; some are based on manufacturers’ names, and others are nicknames used in different regions or countries.
+
+The brightness of a lightbulb is usually discussed in terms of wattage. Wattage is actually a measure of how much electric power is used (see Location Lighting, p. 518); some bulbs and fixtures put out more light than others for the same power consumption (that is, they are more efficient). In the case of two lights that employ the same type of bulb in the same fixture, a doubling of wattage implies a doubling of light output.
+
+With the exception of certain focusing lighting fixtures, the intensity of illumination decreases the farther the subject is from a light. This is known as light falloff. The rule for typical open bulbs is that the falloff in intensity is inversely proportional to the square of the distance (see Fig. 12-10). Thus, moving an object twice as far from a lamp results in it being lit by one-quarter the amount of light. Because of this, falloff is especially sharp when you are near the light source. Imagine a couch lit by a floor lamp at one end of the couch. A person sitting near the lamp could be lit four times as brightly as the person sitting next to him (an exposure difference of two stops). This difference will look even more extreme when captured on video or film. For even illumination, lights should be kept far away from the subjects so that slight changes in distance do not cause large changes in exposure. Soft light sources fall off more sharply than focused, hard light sources.
+
+Fig. 12-10. The inverse square law. (1) Light falls off rapidly as you move away from the source: moth B is twice as far from the candle as moth A but receives one-quarter the amount of light. Moth C is three times farther from the candle than moth A and receives one-ninth the amount of light. (2) Light falloff is less severe when you are farther from the source: moving from B to C is the same distance as moving from A to B, but the light falloff is much less (it falls off to about half the previous level instead of to one-quarter). (Carol Keller)
+
+BULBS
+
+Bulbs differ in the type and color of light they emit. If you’re unfamiliar with color temperature and its use in video and film, see Chapter 8. Further discussion of white balance and video cameras is on p. 109.
+
+Household Bulbs and Photo Bulbs
+
+It used to be that most home interiors were lit with tungsten incandescent bulbs. These are rapidly being replaced with compact fluorescents (see below). Nevertheless, there are still tungsten bulbs in use. Common household incandescent bulbs can be used with video cameras as long as the camera can get a good white balance. They can also be used for black-and-white film shoots. Their color temperature, however, is about 2900°K, so the light they produce looks yellow-orange instead of white on tungsten-balanced color film. Sometimes professional 3200°K lighting units are used for the primary illumination for a shoot, and household incandescents are used in a table lamp or other practical fixture (see Lighting Styles, p. 498). In this case, though the household bulb may look yellow relative to the movie lights, it may seem natural in the scene. See Practicals, p. 491.
+
+Photo bulbs are available that use tungsten filaments similar to those in household bulbs, but the light emitted is designed to match tungsten-balanced film. Both 3200°K and 3400°K versions are available. A bluer, “daylight-balanced” version (rated at 4800°K) can also be purchased. Photo bulbs may be either photofloods or reflector floods. Reflector floods, such as the R-40, are mushroom shaped with a built-in reflecting surface that projects a more directed beam of light.
+
+Tungsten-Halogen Bulbs
+
+Also called just tungsten or quartz, these bulbs employ a tungsten filament surrounded by halogen gas encased in a quartz glass bulb (see Fig. 12-17). Tungsten-halogen bulbs have been the most commonly used bulbs for professional lighting instruments. The standard “tungsten” lighting unit is assumed to have a tungsten-halogen bulb rated at 3200°K. The bulbs are small and the brightest ones are rated at about 20,000 watts. They burn for hundreds of hours, do not diminish in brightness or color temperature over their life span, and are relatively resistant to breakage during transport. Tungsten bulbs become very hot and are used mostly in heavy-duty fixtures for maximum safety and control. Finger oils damage quartz glass, so use gloves or paper when handling the bulb. If the glass is touched, wipe it with alcohol. Carry a metal clamp for removing hot bulbs. Since quartz bulbs can explode, never turn one on when you or anyone else is directly in front of the fixture.
+
+As noted above, tungsten bulbs are rated at 3200°K and can be used with tungsten-balanced film without a filter. These bulbs, and any other tungsten-balanced source, can be raised in color temperature to better match daylight illumination with a blue dichroic filter or with blue gel material (see p. 497). This normally cuts the light’s output by about half.
+
+Fig. 12-11. HMI lights being used outdoors. Note the ballast unit (circled). HMIs are an efficient source of daylight-balanced illumination.
+
+HMI Bulbs
+
+Hydrargyrum medium-arc iodide (HMI, also called metal halide) bulbs are an efficient lighting source that produces daylight-balanced illumination (5600°K or 6000°K). HMIs put out three to four times as much light as tungsten bulbs for the same amount of electric power used. This improved efficiency means that bright lights can be run off a smaller power supply, possibly avoiding the need for special power lines or generators. Trying to match daylight with a tungsten source requires filters that cut out half the light; HMIs require no filters for daylight and are far more efficient for daylight applications. HMIs also give off less heat than tungsten lights, making them popular with actors and crews. HMIs are generally operated using AC power (wall current) and require a ballast unit to control the electricity going to the lamp. Most HMIs produce a pulsed light that seems continuous to the eye but may result in flicker in the video or film image if used improperly.1 To avoid flicker, the light pulses must be evenly distributed on each video or film frame. These are the guidelines:
+
+Use a crystal-controlled camera. All video cameras and most sync-sound film cameras are crystal controlled.
+
+Use a very stable power supply. In most technically advanced countries, the frequency of AC current is very stable. Care must be taken when using generators (use a crystal-controlled generator) or when shooting in the developing world.
+
+Use a frame rate that is divisible into twice the AC frequency. Thus, in the United States and other countries where the AC power is at 60 Hz, a frame rate of 12, 15, 20, 24, 30, 40, or 60 can be used. At 24 fps, camera shutter angles from 60 to 200 degrees will work fine, but a shutter angle of 144 degrees allows for the maximum variation if camera or power is slightly off speed. In countries with 50 Hz power, you can shoot at 10, 12.5, 16.666, 20, 25, 33.3, or 50 fps without danger of flicker. In these countries, a camera run at 25 fps can use any shutter angle. A camera run at 24 fps can avoid flicker by using a 172.8-degree shutter.
+
+When shooting in former NTSC countries that use typical 60 Hz power, standard video frame rates of 30p or 60i can be used without flicker (and use a shutter speed of 1⁄65 or 1⁄120 second). In former PAL countries with 50 Hz power, video cameras run at 25p or 50i should be flicker-free (use a shutter speed of 1⁄50 or 1⁄100).
+
+These principles apply to all AC discharge lamps, including some fluorescent tubes (see below), HMI, CSI, sodium vapor, and mercury vapor lamps (the latter two are often found in sports stadiums and parking lots; they may require special filtering for color balance).
+
+There are flicker-free ballasts available that allow filming at any frame rate without risk of HMI flicker and may output more light; however, they can produce a high whistling sound in some settings.
+
+Fig. 12-12. Bron’s Kobold 200-watt HMI with ballast unit. (Bron-Kobold, USA)
+
+Some HMIs can be battery powered. A 200-watt HMI puts out nearly as much light as a 1K tungsten unit (see Fig. 12-12).
+
+Fluorescent Bulbs
+
+Fluorescent lighting falls into three categories: compact fluorescents often found in the home, conventional fluorescent fixtures typically found in office and institutional settings, and specially designed fluorescent lighting units for film and video work.
+
+COMPACT FLUORESCENTS. Many homes are lit with compact fluorescent lamps (CFLs), which typically have a spiral-shaped or short, folded tubular bulb, most of which screw into the same household receptacles used for incandescents. CFLs are available in various color temperatures ranging from a warm white that is close to tungsten up to daylight (for more on CFL color, see p. 308). CFLs can be used for video assuming the camera can get a good white balance and for film as long the color works with your stock and any other lighting units. Some CFLs are dimmable. CFLs can be used in some professional lighting units (see Fig. 12-13). CFLs and LEDs (see below) produce the smallest carbon footprint.
+
+Fig. 12-13. This Lowel Rifa light (see Fig. 12-19) has a receptacle for professional tungsten-halogen lamps, or you can quickly replace it with a screw-in (Edison) fitting that accepts standard household bulbs and compact fluorescents (shown here). CFLs are cheap and use very little power. You can get daylight-balanced, professional CFLs (5500°K) or use conventional household bulbs of various color temperatures.
+
+CONVENTIONAL FLUORESCENTS. Standard fluorescent lighting fixtures have long, straight tubular bulbs and are usually undesirable for shooting—but they may be unavoidable. The spectrum of light from standard fluorescent tubes is discontinuous and matches neither tungsten nor daylight illumination. There are several types of fluorescent tubes available (daylight, cool white, warm white) that vary in color. Daylight and cool white tubes may produce an unpleasant blue-green color cast. Some warm white bulbs, however, are fairly close to tungsten.
+
+As long as all fluorescent tubes in a scene are the same type, most video cameras can achieve an acceptable white balance (you may want to experiment with the “daylight” position on the white balance control). Film cameras can be used with filters on the lights or the camera to improve color rendition, such as using either an 85 or an FL-B filter for tungsten films or an FL-D filter for daylight-balanced films. However, with many color film stocks, acceptable color balance can be achieved in the lab even if no filters were used. It’s better to get a good exposure with no filter than to be forced to underexpose with a filter.
+
+Fluorescent lighting causes similar but less severe flicker problems than HMIs (see above). Standard frame rates of 24, 25, and 30 fps are fine. (In North America and other places where 60 Hz power is used, the rule of thumb is simply not to use shutter speeds faster than 1⁄60 second; in other parts of the world where power is delivered at 50 Hz, 1⁄50 second should work.)
+
+Mixing fluorescents with other sources of light can cause problems (see Mixed Lighting, p. 514). Fluorescent fixtures at workplaces often shine straight down, resulting in overexposed hair and deep eye and nose shadows. Many DPs choose, whenever possible, to replace standard fluorescents with color-balanced tubes (see below) or to turn off the fluorescents altogether and relight with some other source. When shooting in supermarkets and other settings in which it’s impractical to either turn off or replace existing tubes, a DP will sometimes use a professional fluorescent fill light fixture that uses the same tubes, to at least maintain consistency.
+
+Fig. 12-14. (left) Kino Flo high-output, flicker-free fluorescent bulbs are available in true tungsten (3200°K) or daylight balance (5500°K). (top) Kino Flo Diva-Lites are useful as a soft source and for large areas. (right) The BarFly is handy for tight spots and accents. (LocLum.com/Kino Flo, Inc.)
+
+FLUORESCENTS FOR VIDEO AND FILM. Fluorescent lighting units are available that overcome the problems mentioned above. A wide range of fixtures are made by Kino Flo using high-frequency ballasts that are flicker-free and avoid the humming noise of standard ballasts. The KF55 tube is daylight balanced at 5500°K and the KF32 is tungsten balanced. Other manufacturers make fluorescent units as well. Banks of fluorescents can be used as key or fill lights. The light output is bright, soft, and very even. Individual tubes—sometimes very small ones—can be used for out-of-the-way spots or built into a set.
+
+There are also fluorescent tubes available that can be used with conventional fixtures but produce a true color that reads correctly with either video or film. The Optima 32 bulb is tungsten balanced and the Vita-Lite and Chroma 50 tubes are daylight balanced. When shooting in an office or other institutional setting, a movie crew will often replace the existing tubes with these bulbs.
+
+LEDs
+
+A newer type of lighting unit uses LEDs (light-emitting diodes) and offers lots of advantages for shooting. These compact units produce heat-free, flickerless, silent light and some units can be dimmed from 100 percent to full off with no color shift (unlike many other types of light). Some LED instruments combine different-colored diodes, so they can be switched between 5600°K daylight and 3200°K tungsten balance (and some offer color balances in between). Other units are designed for daylight or tungsten color temperature and need a filter to convert to a different color. LEDs are highly energy efficient and have an extremely long life span. LEDs are available as flat panels, as focusable lensed lights, and as individual “bulbs” (such as those used in the home, which are bulb-shaped to emulate tungsten lights). As costs come down, LEDs are starting to replace other types of bulbs both in the home and on movie shoots because they are versatile and eco-friendly. See Figs. 12-15 and 10-15.
+
+Fig. 12-15. Litepanels MiniPlus LED lights mounted on a car mirror and camera. LEDs are efficient lighting, available in daylight and/or tungsten balance, and fully dimmable with virtually no shift in color. LEDs are available in large and small panels. (Litepanels, Inc.)
+
+Plasma
+
+Plasma is a type of lighting technology just coming into use for video and film. Plasma units produce daylight-balanced, flickerless light and are twice as efficient as HMI—a 275-watt plasma is equivalent to a 575-watt HMI. They can be used with high-speed cameras and run on AC or batteries.
+
+TYPES OF LIGHTING INSTRUMENTS
+
+Lensed Spotlights
+
+The most controllable kind of lighting unit is a focusing spotlight. Some spots have a Fresnel lens (silent s, pronounced “fray-NEL”) in front of the bulb (see Fig. 12-16). These lights emit focused, parallel rays of light that don’t spread out much or diffuse over distance. Most spotlights are focusable, which means the bulb can be moved back and forth relative to the reflector or lens to produce either a hard, narrowly directed beam of light (spot position) or a wider, more diffuse, less intense beam (flood position). These, like most other movie lights, have a set of adjustable baffles called barndoors, which are used to block the beam from going where you don’t want it (see Fig. 12-18).
+
+Mole-Richardson makes a widely used line of studio equipment and you should learn Mole’s names: a 5K lensed spotlight is a senior, while the 2K is a junior, and the 1K is a baby spot. A baby junior is a 2K in a small housing. A tweenie has a 650-watt bulb and a mini or tiny (also called an inkie) is 250 watts or less.
+
+Focusing, lensed spotlights are versatile and very controllable and used extensively on typical movie sets. They may also be used on location shoots, particularly when the production is supported by a truck and a larger crew. However, lensed units are sometimes too heavy for a documentary being done with a small crew or involving a lot of travel. Some documentary DPs carry one or two lensed units and use mostly open-faced lights (see below).
+
+Fig. 12-16. LTM Pepper Fresnel. Compact, focusing lensed spotlight. Note Fresnel lens. (Fletcher Chicago/LTM)
+
+Open-Faced Spotlights
+
+Open-faced spotlights have no lens in front of the bulb. These are lighter and cheaper than Fresnel units and are often used on location and in small-scale filming. While these nonlensed instruments can be focused by moving the bulb from spot to flood positions, they are less controllable or “cuttable” than lensed units (because the beam is not as sharp-edged), and the quality of light is not as hard.
+
+Open-faced lights have various names. Mole’s 1K is a Mickey, Ianiro’s is a Redhead. A 2K may be a mighty or a blonde. Lowel’s open-faced spots include the Omni-light (maximum 650W) and the DP light (maximum 1K).
+
+Fig. 12-17. Lowel DP open-faced spot. The quartz bulb is clearly visible. (Lowel Light Mfg., Inc.)
+
+Nonfocusing Lights
+
+Lights that are not focusable come in many configurations. Some have lenses, some don’t. PAR lamps (for parabolic aluminized reflector) are sealed beam lights that look like automobile headlights. PAR lights are available with different fixed lenses; some project a very narrow beam over great distances, while others have a wider pattern. PARs may be used singly or in groups—typically, a grid of 2 x 3 or 3 x 3 lights on a frame (called six lights and nine lights, respectively). PARs put out a lot of light, and they can be used to simulate or augment sunlight, but they can be hard to control. FAY bulbs are PARs that incorporate a dichroic filter to produce daylight-balanced illumination. You can also get HMIs in sealed-beam configuration.
+
+There are several types of nonfocusing, open-faced floodlights. Scoops are dish-shaped floodlights. Broads are rectangular and have a long, tube-shaped bulb (see Fig. 12-18). Floodlights are sometimes used on the set as fill lights or to provide even illumination over a broad area. They can be hard to work with because the light tends to spill where you don’t want it.
+
+Fig. 12-18. Broad. Bardwell & McAlister 1,000-watt Mini-Mac with four-leaf barndoor. Note the tubular bulb. (Bardwell & McAlister, Inc.)
+
+Soft Lights and Reflectors
+
+The relatively hard light produced by a spot or a flood unit can be softened by placing some diffusion material in front of the unit. Diffusion spreads the light, disrupts the hard parallel rays, and cuts down the light’s intensity. One of the most common types of diffusion is light fiberglass matting called tough spun or spun (for spun glass), which will not burn under the high heat of movie lights. There are many other types of professional diffusion, including translucent plastic sheets such as Lee 216 White Diffusion and the slightly milder Opal Tough Frost made by Rosco (see Fig. 12-1). Rosco’s Soft Frost looks a bit like shower curtain material; because it’s flexible, it won’t rattle in the wind like some other diffusion material. Most types of diffusion are available in various grades, including full, 1⁄2 (medium), and 1⁄4 (light). If placed far enough from the heat of the fixture, any number of materials can be used for diffusion, including thin cloth, silk, or rolls of tracing paper.
+
+To obtain softer lighting, the light from the bulb can be bounced off a white or silvery surface; the larger the surface and the farther it is from the bulb, the softer the light. A soft light is a large, scoop-shaped fixture that blocks all direct light from the bulb so that only bounced light escapes. Studio soft lights are bulky, but there are collapsible models available that pack easily for travel.
+
+A soft box encloses the bulb in a collapsible reflector with a soft diffuser over the opening. These can provide very nice, soft light and are quick to set up and easy to use. Chimera makes popular soft boxes (called lightbanks) that can be mounted over a conventional spotlight with a speed ring adapter (see Figs. 12-20 and 12-26). Lowel’s Rifa light is a self-contained soft box (see Figs. 12-19 and 12-13) that sets up quickly. Compared to simply bouncing light against a card to produce soft light (see below), a soft box is more controllable—you can direct it at the subject without light spilling all over the room. Many soft boxes are available with an eggcrate (a fabric baffle that mounts on the front surface) that helps keep light from spreading (see Fig. 12-26).
+
+Fig. 12-19. Collapsible soft boxes produce very soft, very even illumination and fold up for travel. Shown here, Lowel Rifa lights of various sizes. See also Fig. 12-13. (Lowel Light Mfg., Inc.)
+
+Chimera also makes lanterns, which have rounded or pancake shapes that can be used to provide a gentle glow by a subject or for even illumination over a dinner table. You can make your own low-cost lantern using a household paper Japanese lantern.
+
+Soft lighting can also be created with a spot- or floodlight by bouncing the light off walls, ceilings, or reflecting cards. Bounced light is good for lighting a large space. Foam-core sheets are lightweight and rigid and make a versatile bounce board that can be easily cut and taped to walls or mounted on stands. White cardboard show cards are cheaper but sometimes not rigid enough. Using foam core or cards for fill lighting can be a good way to fill shadows from lights without creating new ones (see Fig. 12-34).
+
+An extremely lightweight space blanket or foil sheet can be taped shiny side out to make an excellent reflecting surface on a dark or colored wall, and it will protect the wall from burning. Another way to create soft light is to use a photographer’s umbrella, which is silver or white on the inside. The lighting unit is mounted on the stem and directed toward the inside of the umbrella. Umbrella reflectors fold to a compact size for traveling.
+
+Fig. 12-20. Chimera lightbanks being used for soft key lighting. A reflector provides fill. See the results in Fig. 12-29D. (Chimera)
+
+Fig. 12-21. A light source can be softened by bouncing it and/or by projecting it through diffusion material. The xenon light source here produces a very circular, focused, narrow beam of light. Shown with Xeno mirror reflector. (Matthews Studio Equipment, Inc.)
+
+Generally the reflecting surface should not have a color cast. However, sometimes a colored surface is used deliberately to create an effect. A reflector with a gold surface may be used to provide a warm fill light. Space blankets usually have a blue side that can be used to approximate daylight when bouncing tungsten lighting units.
+
+Reflectors of various kinds are also used outdoors to redirect sunlight. This is commonly done to fill shadows on a sunny day (see Figs. 12-22 and 12-40). Usually you can get much more punch from a reflector than you can from a powered lighting instrument and it requires no electricity. Smooth, silvered reflectors provide relatively hard light, while textured silver or white surfaces are softer. Collapsible, cloth reflectors such as the Flexfill are popular for location shoots. They fold into a small disc for travel, and open to a larger circle with one side white and the other silver or gold. On windy days, all reflectors must be carefully steadied or the intensity of light on the subject will fluctuate.
+
+Fig. 12-22. Flexfill reflectors. Useful for filling shadows and reducing lighting contrast. Available in different surfaces: white maintains the character of the light; silver for more punch over longer distances; gold for adding warmth (shadows lit by skylight can sometimes look blue); translucent softens the light (when placed between light source and subject). Flexfills collapse to roughly one-third size when not in use. (Allen Green)
+
+Practicals
+
+When a typical household table lamp is used on a movie set, it is called a practical. Practicals are often part of the set design (see Fig. 12-31). They may also be present in documentary shoots. Often a dimmer or diffusion material is used with a practical to cut down the intensity or at least minimize the light falling below or above a lampshade. You can get inexpensive dimmers at a hardware store that screw into the socket or plug between the power cable and the wall. If you’re looking for more intensity from a practical, and you use a photoflood or screw-in halogen light, be sure the fixture is rated for the wattage of the bulb and that there’s adequate upward ventilation to prevent burning or melting. For more on working with practicals, see Lighting Wide Shots, p. 506.
+
+Camera Lights and Handheld Lights
+
+Camera-mounted lights are commonly used for newsgathering or documentary (where they are sometimes called sun guns) and feature films (where they may be called Obie lights, eye lights, or bash lights). A camera-mounted light is useful when the camera is moving because the unit moves with the camera and provides shadowless light on the subject. This shadowless light can be a blessing if it is filling the shadows cast by other, stronger lights. However, if it is the only light on the subject, it can be a curse, as full frontal lighting tends to be flat and harsh. On the other hand, ring lights, which circle the lens, provide totally flat, frontal light and that shadowless look is often seen as glamorous.
+
+Fig. 12-23. Cool-Lux on-camera light with battery belt and diffuser. (Cool-Lux)
+
+Sun guns (originally a trade name that gained wide use) are often handheld and powered by battery. Even a standard tungsten spotlight can sometimes be fitted with a 30-volt bulb and powered with a 30-volt battery pack or belt. Lights and power packs vary in capacity, and most require several hours to recharge (see Battery Power, p. 128). With tungsten bulbs, when the batteries run down, light intensity and color temperature drop. LEDs are more efficient, will run longer on a battery, and should maintain constant color temperature (see Figs. 12-15 and 10-15). Battery-powered lights are useful for scenes in cars; some can be run off the car battery by using an adapter.
+
+When a scene is lit with only one small light, it’s not easy to make the lighting pleasant. With a handheld light, it’s probably best to position the light a few feet to the side of the camera. The harsh shadows can be softened with diffusion on the light, although this sacrifices brightness. Some DPs bounce handheld lights off the ceiling or a wall, producing a very diffuse light. To maintain constant illumination, hold the unit steady. It’s often best to have an assistant hold the light.
+
+Lighting Accessories
+
+The art of lighting begins with the lights themselves, but the tools for controlling light are just as important. The lighting package includes many accessory items for working with light.
+
+Fig. 12-24. Lighting accessories. (A) French flag. (B) Snoots. (C) Full scrim and half scrim. (D) Cookies. (E) Century stand with three gobo heads and flag. (F) Hanger for mounting on pipes or small beams. (G) Polecat mounted in window well. (H) Gator grip. (Representations are not drawn to same scale.) (Carol Keller)
+
+Spilled light, or just spill, is light (usually from the edge of the beam) that illuminates an area where you don’t want it. Spill is primarily controlled with barndoors, which are adjustable flaps that mount on the front of the lighting instrument (see Fig. 12-18). Barndoors come in two- and four-leaf versions, the latter providing more control. They can be opened wide or closed down to produce a relatively narrow beam of light. An even narrower beam can be made with a snoot, which is a cylindrical baffle that fits over a spotlight.
+
+Flags, which are also called cutters or gobos, are either rectangular metal cards, dark cloth on wire frames, or pieces of cardboard. They are usually mounted on stands to cut off unwanted spill. The farther the flag is from the light, the sharper its shadow will be.
+
+A French flag is a small card mounted on the camera as an effective lens shade to block light spilling into the front of the lens. These are sometimes attached to small flexible arms, and sometimes to the top of a matte box (see Fig. 8-10).
+
+At times you need to flag off a light softly, creating a gradual transition from light to dark rather than having a hard shadow line. This may be done with a scrim or net—a piece of very thin, dark netting often mounted on a three-sided frame (see Fig. 12-25). Nets come in single and double thicknesses and can be used in multiple layers for increased shadowing.
+
+Fig. 12-25. Adjusting a double scrim on a grip stand. Useful for shading off the light on part of a scene.
+
+Spill leaking from the back of a lighting unit can cause flare in the lens, or, if gels are being used, it can disrupt the lighting scheme with light of the wrong color. This spill can usually be blocked off with cards or flags. Black wrap is black aluminum foil that is very handy for controlling spill.
+
+A cucoloris (usually called a cookie or kook) is a cutout piece of material placed in front of a light to cast a patterned shadow. Cookies are typically used to project the shadow of a window frame or venetian blinds. By adjusting the color and angle of a light projecting through a window cookie you can suggest a mood or indicate a time of day. Sometimes an abstract, dappled pattern is used to break up a uniform expanse of wall or floor or to create a transition zone between sunlit and shaded areas. The shadow cast by any cookie or flag will be sharpest if it is placed closer to the subject than to the light and if the light source is hard.
+
+There are many ways to reduce the intensity of a light. The simplest is perhaps just to move it farther from the subject. Nets can be used to shade or “feather” a light. Silks are white silk material mounted on frames like nets; they cut down the light while diffusing it somewhat (see Fig. 12-27).
+
+Scrims (not to be confused with the fabric scrim mentioned above) are circular wire mesh screens that are placed in front of a lighting unit, usually inside the barndoors, to reduce the intensity without changing the color temperature or the quality (hardness) of light. Inserting a scrim is the best way to reduce light intensity without changing anything else. A single scrim (usually indicated by a green frame) reduces the intensity about a half stop; a double scrim (red frame) cuts out a full stop. On a half scrim, half of the circle is left open. A half scrim can be used to solve the common problem that occurs when someone walks toward a light. Normally, as he approaches the light he’ll become brighter. To even out the illumination, raise the lighting unit fairly high above the subject and point it down at an angle. Use a half scrim to reduce the intensity of the bottom of the light beam (which falls near the unit) without diminishing the top of the beam (which reaches into the distance). You could use a net or a silk to do the same thing (see Fig. 12-27). Roscoe makes a black plastic scrim material in wide rolls (Cinegel 3421) that you can place over windows to reduce the light coming through by two stops; if not in sharp focus you can shoot through it without seeing the scrim (see Fig. 12-39).
+
+Fig. 12-26. (left) Cloth grid eggcrate being mounted on a large Chimera lightbank to reduce spill and direct light mostly toward the subject. (right) Using a scrim to reduce the output of a soft box. (Chimera)
+
+Studio lighting is sometimes dimmed with shutters, which act like venetian blinds. Dimmers are used in theatrical lighting, as in the home, to regulate light intensity. Dimmers lower the voltage going to the light, which not only makes the light dimmer, but with tungsten lights results in the color temperature dropping as well (making tungsten lights more orange). There are some situations in which the lowered color temperature may seem natural (see Mixed Lighting, p. 514). LEDs and some fluorescents can be dimmed without changing the color.
+
+Fig. 12-27. A silk being used to cut the bottom half of the light beam; this evens out the illumination close to and far from the light. This light is attached to the telephone pole using a poultry bracket. (Matthews Studio Equipment, Inc.)
+
+There are hundreds of devices for supporting lights and mounting them on various surfaces. Lights are usually supported by stands, which are collapsible for transport. Century stands (C-stands) have low-slung legs at different heights that allow several stands to be positioned close together. Gobo heads with multiple locking arms can be positioned in endless ways. Roller stands have wheels that make it easier to reposition heavy lights.
+
+A gator grip is a spring-loaded clip for attaching lights to doors, pipes, and moldings. A C-clamp with a spud to mount a light is more stable. A polecat is like an expandable closet bar. A heavier-duty version is the wall spreader, which allows you to run a piece of lumber, such as a two-by-four, between two walls. A polecat or a wall spreader can be used to hang lights near the ceiling without stands that might show in the scene. When shooting in offices or other rooms that have hung ceilings, a scissors clip allows you to mount lights right on the ceiling. A wall plate for mounting fixtures can be screwed or taped to vertical or horizontal surfaces.
+
+Several feet of opaque black fabric such as duvetyn (“doova-teen”) can be extremely useful to have on hand for creating limbo backgrounds, darkening a window, or placing on a table for filming objects.
+
+Other items for a lighting package include apple boxes (see p. 381), sandbags for stabilizing lights and stands, stingers (extension cords), gloves for handling hot lamps, and plenty of gaffer’s tape (a gray fabric tape sold in equipment houses—not duct tape). See p. 368 for a typical lighting and grip package.
+
+Colored Filters and Gels
+
+A common way to change the color of light is to use gels (gelatine), which are made of flexible, transparent plastic that comes in small sheets and large rolls. Gels can be mounted on lights in gel frames or just attached to barndoors with clothespins.
+
+CTO (color temperature orange) gels are used to lower color temperature for converting daylight to tungsten-balanced light or otherwise warming a light source. Sun 85 or 3⁄4 CTO gels are roughly equivalent to an 85 camera filter (see Chapter 8) and are used to convert standard 5500°K daylight and HMI sources to tungsten. These filters cut out about two-thirds of a stop of light. Lee 204 and Rosco 3407—full CTO gels that are slightly more orange—are used to convert skylight (6500°K) to tungsten.
+
+CTB (color temperature blue) gels are used to raise color temperature and make any source bluer. Some blue gels are referred to as booster gels, since they boost the color temperature. Rosco 3202 and Lee 201 are full CTB gels, used to bring a 3200°K tungsten source up to 5700°K daylight. These cut out a little less than two stops of light (one and two-thirds).
+
+Gels can be purchased in full, 3⁄4, 1⁄2, 1⁄4, and 1⁄8 intensity versions, from deep color to pale, to make large or slight changes in color for precise matching of light sources. The deeper the color of the gel, the more it cuts down the light intensity. Often the full CTB cuts out too much light, and a 3⁄4 or 1⁄2 CTB is used instead, allowing a tungsten source to appear slightly yellow compared to daylight.
+
+Gels are available in many other colors besides orange and blue. Sometimes the light from an HMI lamp seems slightly too blue; a 1⁄8 Straw gel or a pale yellow may be used to “take the curse off” and warm the light a bit. There is a wide range of other colors for creating more theatrical effects.
+
+Gels are also available in combination with neutral density (ND; see p. 312) or diffusion material. Blue Frost converts tungsten to daylight while adding diffusion—having both effects in one gel may prevent unneeded loss of light.
+
+Gels should be replaced when heat from the lamp causes the center of the gel to become paler. Gels and the more rigid acrylic filters may be attached to windows to filter daylight (see Mixed Lighting, p. 514).
+
+Another way to raise color temperature is to use a dichroic filter, sometimes called a dike, which is a special blue glass filter used to convert 3200°K tungsten sources to about 5500°K to match the color of daylight. These cut out about 50 percent of the light, reducing intensity by one stop. Dichroics are expensive and fragile and must be fitted to a particular light.
+
+Fig. 12-28. Lowel Super Ambi Kit. Location package includes two Omni-lights (650-watt-maximum open-faced spots); two Tota-lights (1,000-watt-maximum broads) with umbrellas; one Rifa eX 55 soft box; one Pro-light spot. Accessories include stands, flags with flexible stems, scrims, door/wall brackets, clamps, gel frames, etc. Everything fits into the carrying case. (Lowel Light Mfg., Inc.)
+
+Mounting Lights Safely
+
+In close quarters a hot, falling light can do serious damage. Spread legs of a light stand wide for maximum stability. Weigh down light stands with sand or water bags or tape them down with gaffer’s tape. When raising a light, use the lower, thicker extensions of a light stand before the thin, upper ones.
+
+Tape all power cables neatly to the floor or put mats over them in high-traffic areas so no one trips on them. Use plenty of good-quality gaffer’s tape when you attach lights to a wall, and if you can, place lights where they won’t strike anyone if they fall. Remember that tape loses its stickiness when hot. When possible, “safety” a hanging light by attaching a piece of sash cord or chain to a fixed point to catch the light if it drops off its mount. Gaffer’s tape will often remove paint and wallpaper, so peel the tape back slowly as soon as possible after shooting to minimize damage.
+
+LIGHTING TECHNIQUE
+
+LIGHTING STYLES
+
+Before beginning any movie that involves controlled lighting, decide on the lighting style you hope to achieve. The DP and director can look at movies, photographs, and paintings for ideas.
+
+Like everything else, lighting styles have evolved over the years. Black-and-white feature films of the 1930s and 1940s were usually lit in a highly stylized way. The goal was not “realistic” lighting but something that would heighten the drama and the glamour. These films were shot on studio sets that often had no ceiling and only two or three walls. Lights mounted outside the set on overhead grids and elsewhere struck the actors from directions that would be impossible in a normal building interior. Strong edge lighting was needed with black-and-white to separate actors from the background.
+
+In many feature films today, lighting is intended to be more “naturalistic”—that is, like the kind of light one would find in the real world. Many lights may be used, but the intent is to simulate the light that might normally occur in the filming space, whether it be from sunlight or man-made fixtures. One way to help give lighting a natural feel is to make sure that the chief light sources seem “motivated.” Motivated lights are ones that appear to come from a logical source. For example, actual window light may be used for illumination, or lighting instruments may be set up near the windows to give the illusion that the light comes from the windows. Even if the goal is naturalistic lighting, usually liberties can be taken to improve the lighting of faces or achieve particular effects.
+
+Often a few household fixtures are placed in a scene as practicals. These may actually light the subject or merely act as motivation for light from professional lighting instruments.
+
+Of course, many movies don’t seek realism at all, and instead use lighting to create a dramatic, expressive ambience. Horror films, action films, and many dramas use a more theatrical approach to lighting that creates a unique world that doesn’t particularly look like the one you live in.
+
+The sensitivity of digital cameras and film stocks has improved, and it’s increasingly possible to shoot indoors entirely with available light without introducing any special lighting equipment. This can be a real boon for documentaries (see below). For fiction films, ironically, it sometimes takes a lot of light to make a scene look really unlit, the way it does to the naked eye. For example, you may be able to shoot an interior scene with just window light, but this may result in the windows being overexposed and the people appearing somewhat underexposed (see Fig. 7-17). To get a natural balance between the interior and exterior may require gels on the windows and/or a significant amount of light from inside (see Mixed Lighting, p. 514).
+
+Documentary Lighting
+
+Lighting a documentary can be tricky. You have to balance your desire for a certain style or look with the typical constraints of a small crew, small lighting package, and short shooting schedule. Interviews can be lit fairly fast, but providing good lighting for an uncontrolled scene in which people move around a large space, either at work or at home, often takes more time and equipment. Sometimes large spaces are lit with a few lights bounced off the ceiling. This may give you enough light for exposure and is fairly even. However, this kind of light is flat and tends to be “toppy”—that is, coming from above and causing dark shadows in the eye sockets.
+
+When shooting unscripted scenes of people living their lives, consider the effect the lights have on your subjects. If you’re filming intimate scenes of family life and other potentially delicate moments, you want to do everything you can to minimize the disruption caused by the film crew. Bright lights can create an “on-the-set” feeling, and people under the lights may feel like they should “perform” when the lights go on. Also, because it’s hard to light an entire house or location, the use of lights transforms some areas into filming spaces while others remain living space. All of this may disrupt the natural flow of life that you hope to capture. Sometimes you can mount a few lights on the wall or ceiling and basically leave them in place for the duration of a shoot, turning them on when needed. The less light you use, the more mobile and unobtrusive you can be. But this may come at some sacrifice to the image quality. For every scene, you have to balance these concerns.
+
+POSITIONING LIGHTS
+
+A Basic Lighting Setup
+
+A classic lighting technique is sometimes called three-point lighting because three basic lights are used to illuminate the subject: the key, fill, and backlight. Each light has a particular function. Even if many lights are used to cover a large set, each light plays one of these three roles.
+
+KEY LIGHT. The key is the brightest light and casts the primary shadows, giving a sense of directionality to the lighting. The key may be hard or soft; the harder the light, the bolder or harsher its shadows will be. The key’s shadows must be watched carefully for the way they interact with the subject. The key light is usually placed somewhat off the camera-to-subject axis, high enough up so that the shadow of the subject’s nose does not fall across the cheek but downward instead. This height helps ensure that body shadows fall on the floor and not on nearby walls, where they may be distracting.
+
+Fig. 12-29. Three-point lighting. (A) Key light only. In this shot, the key is quite far to the side. (B) Key plus backlight. The backlight separates the man from the dark background and brings out texture in his coat and hair. (C) Adding fill light from near the camera on the opposite side from the key brings up the light level primarily on the dark side of his face, making the shadows less severe. See Fig. 12-30 for this lighting setup. (D) Another example of three-point lighting, with a softer, more frontal key coming from the other side of the camera, and a lower-contrast look. Additional lights highlight the background. See Fig. 12-20 for this lighting setup. (Stephen McCarthy; Chimera)
+
+FILL LIGHT. The main function of the fill light is to fill in the shadows produced by the key without casting distinct shadows of its own. Fill lighting is almost always softer than the key; it’s usually created with a soft light fixture or a bounced spotlight. If the fill light emanates from a point close to the camera’s lens and at the same level, its shadows will not be visible to the camera. The fill is generally placed on the opposite side of the camera from the key. Sometimes light is bounced off the wall or ceiling to provide flat, even fill over a broad area.
+
+BACKLIGHT. Backlights (variants are called hair, rim, or edge lights) are placed on the opposite side of the subject from the camera, high enough to be out of view. Backlight should generally be fairly hard, to produce highlights on the subject’s hair. If a backlight is at about the same level as the subject and somewhat off to the side, it is called a kicker. Kickers illuminate the shoulders and the side of the face more than hair lights do. All backlights are used to give a bright outline to the subject, helping to separate the subject from the background and define shape.
+
+SET LIGHTS AND SPECIALS. In some situations, the key and fill lights adequately light the background. In others, a fourth basic type of light, the set light, is used to illuminate the background and selected objects. Sometimes parts of the set need to be given their own key, fill, and/or backlights. A special is a light used to solve a particular problem, such as a light to bring out an especially dark object in the background.
+
+Fig. 12-30. A three-point lighting setup, similar to the one used for Fig. 12-29. (Robert Brun)
+
+Lighting Faces
+
+In medium and close shots that include people, the lighting on faces is extremely important. When lighting a set or location, if you know there will be significant close shots of people, the overall lighting should be designed to provide good facial lighting (even so, the lighting for wide shots will generally be tweaked or cheated somewhat when it comes time for close-ups). For the purposes of this discussion, let’s assume you’re lighting a single subject in a chair. Start by positioning the key light alone, paying close attention to the shadows of the subject’s nose and eye sockets. Every face is different; people with deep-set eyes and prominent noses will have more shadowing than those with flatter faces. The closer the key light is to the camera, the less shadowing there will be. Television news programs tend to be done with very frontal, flat lighting (see Fig. 12-9). This is a functional lighting approach, and minimizes possibly objectionable shadows, but it may be dull. If the key is brought around somewhat to the side (three-quarter light), the face takes on more dimensionality (see Fig. 12-29D). About 45 degrees from the camera is considered fairly standard for the key position. In Fig. 12-29C, the key is positioned quite far to the side (almost 90 degrees) for a dramatic look. In this case, it is also fairly high to avoid reflections in the man’s glasses.
+
+Pay close attention to the way the eyes are lit. As the poet tells us, eyes are the windows to the soul. When you can’t see the eyes, sometimes you feel like you can’t see into the person. Generally subjects face one side of the camera or the other. Often the lighting looks best if the subject is looking toward the key light (thus, if the subject is facing camera left, put the key light on the left side of the camera; see Fig. 12-38). This puts both eyes in the key light. If one eye is in shadow, the fill light can be used to bring up the illumination on that side (see below). Of course, you might choose to put one or both eyes in shadow, perhaps to create a mysterious or spooky feel.
+
+Fig. 12-31. In this scene from Capote, the key light comes from the left, on the far side of the subject, leaving most of his face in shadow. The practical in the background helps motivate the light on the table and subject. When the camera shoots from the shadowed side of the face, the light often brings out interesting modeling (shooting from the other side would look much flatter). (Sony Pictures Classics)
+
+The key should generally be high enough so that the nose shadow falls down, not across the face (some DPs try to place the nose shadow on the “smile line,” which extends from the nose to the corner of the mouth; see Fig. 12-2). The “standard” key is 45 degrees above the subject.
+
+Though it may seem counterintuitive, lighting is sometimes more interesting when the key light is illuminating the side of the face away from the camera. In Fig. 12-31, the key is positioned in front of the man, to the left, and the majority of his face is not lit by the key. Other examples can be seen in Fig. 13-4. For a more dramatic look, using less fill light (or none) makes the shadowed side of the face go darker. In Fig. 12-32, the subject looks off screen into a light that might suggest a distant window or lamp. His nose is rim-lit with strong shadows falling across his face and the camera side of his face is left quite dark. This kind of look is well suited to a very low-key nighttime scene (see Special Lighting Effects, p. 516).
+
+Should the key light be hard or soft? It depends on how you want the audience to interpret the lighting. Direct sunlight is quite hard; indirect window light or the light of an overcast day is soft. You may like dramatic, crisp shadows or you may prefer a gentler look. Generally, some diffusion material (see Soft Lights and Reflectors, p. 488) should be used to help make the key less harsh. Hard light will accentuate skin defects, makeup, and lighting errors more than soft light. Soft light is more forgiving. One look that can be appealing is to use a quite soft key. The light will wrap around the face and you may need little or no fill light (see Figs. 12-3 and 12-29D). Diffused lights do not “throw” as far as hard ones, so soft light sources need to be placed closer to the subject. For soft lights, as a rule, the larger the surface of the light source and/or the closer it is to the subject, the softer the light will be.
+
+Fig. 12-32. Far-side key. Key light positioned on the far side of the subject produces a rim of light on the nose and brings out skin texture. Having virtually no fill light creates a low-key dramatic look, which could be used for a nighttime scene. (Portrait of Martin Baer by Johan Hagemeyer, The Metropolitan Museum of Art, Gift of the Estate of Johan Hagemeyer, 1962)
+
+Fig. 12-33. Window-lit scene. Nearby window provides key light. Light reflected from the wall on the right provides fill on the dark side of the man’s face. A splash of light on the back wall reinforces the sense of sunlight. (Stephen McCarthy)
+
+After the key has been placed, some DPs “rough in” the fill light; others go next to the backlight. Backlight should be used when needed, but it can sometimes seem artificial or stagy if overused. Backlight can be very important to provide separation between the subject and the background (see Fig. 12-29B). Some scenes just look dull without some backlight to add luster to the hair and put some bright “kicks” in the scene. On the other hand, sometimes the subject and the background have adequate separation simply because one is significantly darker or lighter than the other, and you don’t really need a backlight on the subject (see Fig. 12-7). Some scenes are meant to appear lit only by one source, and backlight might spoil the effect (see Fig. 12-33). However, if a backlight isn’t overdone, it can often add a helpful shine without calling too much attention to itself (see Figs. 12-29D and 13-4).
+
+Fig. 12-34. “Window-lit” scene. A lighting setup that might be used to simulate the light in Fig. 12-33. Key light is bounced for a soft look. Fill lighting is provided by a white card just out of frame to the right. A set light provides the sun effect on the back wall. Flags and/or a cookie might be needed to create the desired effects on the walls. Compare with Fig. 12-37. (Robert Brun)
+
+Backlights should be placed high enough to avoid lens flare in the camera and angled down so that they don’t strike the tip of the subject’s nose. If a backlight causes flare or casts a noticeable shadow in front of the subject, flag it off with the barndoors or a gobo.
+
+The fill light is used to bring up the light level in the shadows cast by the key or the backlight. Put the fill light close enough to the camera so that it doesn’t create a second set of shadows of its own. The difference in brightness between the shadows and the highlights is the lighting contrast. The contrast plays a big part both in how details will be reproduced in the video or film image and in the mood of the lighting. (See Lighting Contrast, p. 476.)
+
+Sometimes fill lighting is provided not by a separate lighting unit but by a reflecting surface (this has the advantage of not casting another set of shadows). In Fig. 12-33, the wall on the right side of the room reflects back the sunlight, filling the shadows on the dark side of the man’s face. In Fig. 12-34, a piece of white foam core is used to simulate the same effect. A Flexfill or other reflector (see Fig. 12-22) may be used indoors or out to do the same thing. Often a white reflector needs to be quite close to the subject to provide significant fill.
+
+Various other techniques and tricks will improve facial lighting. A low-powered eye light is sometimes used to add a little sparkle to the eyes, giving the subject an alert or alluring look. An eye light should not be so bright that it washes the face out with flat fill. Sometimes nets are used to delicately shade the top and bottom of the face, focusing attention on the eyes and mouth. A special (see p. 502) may be used to bring up the illumination on particularly dark or absorptive clothing.
+
+Facial shine can be very distracting and can be avoided with a basic application of powder (see p. 374).
+
+It should be noted that a certain amount of “relighting” can be done digitally in post. Particularly for a locked-off shot, it’s easy to shade off the background or selectively darken parts of the frame to create a more interesting look (see Fig. 14-39).
+
+Lighting Wide Shots
+
+Wide shots or long shots that show a large part of a set or location can be harder to light than close-ups because of the greater area to be covered and the problem of hiding lights and light stands. Wide shots often involve people moving from one place to another, which adds the challenge of providing good light in several different parts of the set.
+
+Generally, wide shots should be lit to establish mood and to cover the actors’ blocking (movements). Proper facial lighting is a lower priority. Keep in mind that the eye is naturally drawn to light areas of the frame. Thus, the area in which the actors move is normally lit slightly brighter than the background or extreme foreground. Flags or nets can be used to diminish the light falling on unimportant areas such as broad expanses of wall. Much of the mood of the shot is established by the relation between the brighter action area and the darker background. Try to maintain this balance when you change camera position or lighting.
+
+When you light any scene, it’s usually more interesting to have pools of light and areas that are relatively dark than to have flat, even illumination throughout the frame. Pools of light also create a greater feeling of depth; a corridor, for example, seems longer if bright and dark areas alternate. Use fill light to provide illumination between the brighter areas.
+
+When subjects move closer and farther from a light, the illumination falling on them can change significantly (see Fig. 12-10). Sometimes a half scrim or other material can be used to even out the light (see Fig. 12-27). In general, using a brighter, harder light from a greater distance away from the action will result in more even illumination than a softer unit closer to the subject. Sometimes a very bright light positioned outside a window or on the far side of the room is the best way to keep interior action evenly lit.
+
+If you’re going for a naturalistic look, examine the location for appropriate “motivating” sources for the lighting. Most daytime scenes include light coming through a window. Actual window light may be used, but often it must be simulated because the sunlight would change during the course of filming. If the window itself is not visible, you can position the light source wherever seems plausible. You can bounce light off a large white card for an overcast or “north light” look or use a large, focused spotlight or PAR light to simulate sunlight streaming in. When simulating sunlight, a warming gel (CTO; see Colored Filters and Gels, p. 496) is sometimes used over the light. If tungsten light is mixed with actual window light, some filtering must be done (see Mixed Lighting, p. 514).
+
+If household fixtures are being used as practicals in a scene, sometimes they can provide significant illumination. You can replace the bulb with a photoflood or a screw-in halogen bulb. Or you may be able to use just a brighter household bulb; if it’s a tungsten bulb or warm CFL, the color may read too red/yellow on camera depending on what other sources are used and how the camera or film is color balanced. Many practicals can’t handle much heat or electricity, and often a bright bulb makes the practical appear too bright on camera. The shade may overexpose, looking burned out. To seem natural, the lampshade of the practical should read about two to three stops brighter than the faces of nearby actors. This varies, of course, with the type of shade and fixture.
+
+Often the opposite approach is taken with practicals. Instead of trying to light the subject with them, the DP treats them simply as set dressing. Sometimes a low-intensity bulb or a screw-in dimmer is used to keep the light subtle. Neutral density gels or diffusion material can be hidden in the lampshade to dim down the shade or the spill coming out of the light. Then a professional lighting instrument is aimed in from off camera to simulate the light that would come from the practical (see Fig. 12-31). Be sure the instrument is flagged so it doesn’t shine on the practical and cast a shadow—a dead giveaway.
+
+Frequently one light can be used to accomplish several functions. If two people are talking across a table, a light can key one person while it backlights the other. This is called cross lighting (see Fig. 12-35). When an actor moves through his blocking, a given light may change from a key light to a backlight.
+
+Cinematographer Néstor Almendros (Days of Heaven) prided himself on being able to light a scene with as little as one or two lights. Many scenes require more lighting fixtures, but often, the fewer the sources, the cleaner the image looks. When there are many lights, you run the risk of many distracting shadows falling in different directions. To minimize this, keep actors away from walls, place them against dark rather than light walls, position furniture or props to break up the shadows, and use diffusion to soften secondary lights. Moving a light closer to a person will diffuse the shadow she casts.
+
+Bright, shiny surfaces in the frame attract the eye and are usually undesirable. Glints or kicks can be diminished by repositioning a shiny object or by applying washable dulling spray or even soap. Sometimes you can get rid of the reflection of a light in a surface by raising or lowering the camera a few inches or wedging a little tape behind a picture frame to angle it away from the camera. Reflections from smooth, nonmetal surfaces such as plastic, glass, and water can be reduced by putting a polarizer filter on the camera. Avoid shooting glass or mirrors that will pick up the lights or the camera. If you have to film against white walls, take care not to overlight them. Usually broad expanses of wall are broken up with pictures or furniture.
+
+When a scene is to be filmed with both long shots and medium or close-up shots, it’s common to determine the blocking, set the lighting, and shoot the long shots first. Then, as the camera is positioned closer to the subject, the lights can be cheated (moved) to maintain the general sense of the long shot while providing more desirable facial lighting. Close-ups are usually lit with slightly lower contrast lighting than long shots are so that facial detail will be clear. When the camera angle changes significantly, you can make many changes in the light without the audience noticing.
+
+Fig. 12-35. Cross lighting. Each spotlight keys one subject and backlights the other. Lights are used in part to simulate practical illumination from the table lamp and are thus flagged off of it. Fill light is placed near the camera. (Carol Keller)
+
+When shooting video, or when using a film camera with a video tap, watching the image in a monitor can help you light, but beware of small and poor-quality monitors. Make sure the monitor is set up properly (see Appendix A) and that there isn’t light falling on the monitor screen. Shooting stills can be very helpful for continuity purposes to record how props were arranged, how actors were dressed, and if lighting setups need to be re-created.
+
+Before you shoot, scrutinize the frame to make sure no light stands or cables are visible. Be sure no lights are producing flare in the lens (stand next to the camera and look at the front of the lens; if you see any light sources in the glass, try to flag them off). Rehearse the shot to check that movements of the crew and especially the microphone boom don’t produce visible shadows.
+
+Lighting Interviews
+
+With the widening range of news, documentaries, and reality television, interviews have almost become a filmmaking form unto themselves. Considerations of shooting interviews are discussed in Chapter 9. Decisions about lighting should start with the setting: how do you want to place your subject and what do you want to see in the background? Some interviews are done in wide shot (see Fig. 9-20), but more typically, medium shots and close-ups are featured. Adjusting objects in the background by a few inches can often make all the difference in what the audience sees and in compositional balance at different focal lengths.
+
+The lighting scheme may use available light (or simulate what the light might normally look like). Or you may decide to turn off or block any existing light and create a very different mood. The lighting style can convey a lot in terms of how the audience understands the interviews, so at the start of production consider the look you want, and whether there should be a consistent look throughout or if different interview subjects call for different styles. Lighting contrast is a central concern. Some projects seem to demand a flatter, brighter look (such as Fig. 12-29D); others benefit from darker backgrounds and darker facial shadows with more modeling.
+
+The following four illustrations are offered not as recommendations, but to discuss some different approaches. All were done with very few lighting instruments. The sensitivity of your particular camera will play a large part in how much light you need.
+
+The lighting setup in Figure 12-36 began with turning off the office’s overhead fluorescents, since the light was flat and the bulbs were of mixed color temperature. The windows were covered to block out daylight (to create a darker feel and prevent any changes during the interview). The key light was a small Lowel Rifa soft box (see Fig. 12-19) on the left side, with no additional fill. A low-wattage bulb was used in the soft box so that the lens iris could be wide open for shallower depth of field (throwing the background out of focus). The fluorescent fixture built into the cabinet provides light on the background and adds a little edge on the dark side of the face. A small backlight on the left side creates highlights on the shoulders and lights the front of the desk.
+
+Fig. 12-36. Lighting interviews. Key and backlight. See text. (Steven Ascher)
+
+The lighting in Figure 12-37 also began with turning off the overhead fluorescents and was done with no added lights. The subject is lit with window light coming through a fairly small opening in the vertical venetian blind off screen on the right. The rest of the window was kept shaded to make the background relatively dark, so the details on the shelves wouldn’t compete with the subject. No back or fill light was used. Black duvetyn fabric was hung on the left side of the frame as negative fill to prevent reflected light in the room from striking the shaded side of his face, which would have flattened contrast. (More typically, white cards or reflectors are used on the dark side in a situation like this because contrast is often too great; see Fig. 12-34.) A low-intensity bulb in the practical on the right provides a little accent on the table.
+
+Fig. 12-37. Lighting interviews. Window light. See text. (Steven Ascher)
+
+The lighting in Figure 12-38 was done with a single soft light on the left. Flags and an eggcrate were used to keep the light from spilling on the background. Unlike in Figures 12-36 and 12-37, here the subject is looking toward the key light, which creates shadowing on the camera side of the face and sparkles in the eyes. This scene has high lighting contrast with deep shadows, but both eyes are fully lit, so it doesn’t feel harsh. The practical on the table provides some light in the background. Lamps, plants, and flowers turn up routinely behind interview subjects as set dressing—for obvious reasons—but don’t neglect to look for alternatives too.
+
+The shot in Figure 12-39 is directly into a bright window, which calls for relatively bright light on the subject. In this shot, the light on the face (from a soft box with a daylight-balanced compact fluorescent bulb) is quite flat, but because the background is busy and bright, the light doesn’t seem dull. Rosco Cinegel black scrim was taped to the window behind the subject to cut two stops of light from outside. A neutral density filter on the camera allowed for a wider iris and shallower depth of field. Diagonals in the background provide a sense of dimensionality. The time of shooting was chosen so that there wouldn’t be too much direct sunlight on the buildings.
+
+Fig. 12-38. Lighting interviews. Key light only. See text. (Steven Ascher)
+
+Fig. 12-39. Lighting interviews. Bright background. See text. (Steven Ascher)
+
+Lighting and Exposure
+
+When setting lights, the question arises: how brightly should a scene be lit? For starters, you need enough to get an acceptable exposure with your camera/lens combination (plus film stock if you’re shooting film). You might use more light if you want to shoot at a higher f-stop to increase depth of field. Lens sharpness for many lenses can be maximized by shooting at apertures about two stops closed down from wide open (on an f/2 lens, shoot around f/4; see p. 173). On a feature film, many DPs try to work at a given f-stop consistently throughout the movie, which helps them judge lighting setups by eye. As a rule, the discomfort of both crew and actors, or documentary subjects, rises with the amount of light.
+
+CONTROLLING LIGHTING CONTRAST
+
+As discussed in Chapters 5 and 7, both digital and film systems have a limited ability to capture the range of brightness that the eye can see. When lighting a scene, you must pay close attention to the lighting contrast (see Lighting Contrast, p. 476). To the eye, scenes always have less contrast than they do as rendered on video or film. Shadows that look natural to the eye may be rendered as black and without detail. Bright highlights can easily overexpose and appear as areas of featureless white.
+
+A good monitor can help you judge how the contrast looks on video, but be sure it’s properly set up (see Appendix A). Low-quality monitors often have too much contrast, making it hard to tell where you really are losing detail. Of course, if you’re using cine gammas or log or RAW capture, you may be capturing far more in the shadows and highlights than the monitor shows (see Chapter 5).
+
+If you’re shooting film you’ll have a light meter, but one can be useful on video shoots as well to measure the lighting contrast ratio. This is the ratio of key plus fill lights to fill light alone (K+F:F). For a typical close-up, the lighting contrast is measured by reading the light on the bright side of the face (which comes from both the key and fill lights) and comparing it to the light in the facial shadows (which comes from the fill light alone). The measurements are most easily taken with an incident light meter, blocking or turning off the key light(s) to take the second reading. Some DPs prefer to use the incident meter’s flat-disc diffuser when doing this to make it easier to isolate the light coming from individual sources.
+
+If the bright side of the face is one stop lighter than the facial shadow, the ratio is 2:1. Two stops would be 4:1; three stops, 8:1. To the eye, 2:1 and 3:1 look quite flat, but this lighting contrast is considered “normal” by Kodak. This is a conservative standard. Low-key scenes, nighttime effects, and many outdoor sunlit scenes are shot at ratios much higher than 4:1.
+
+For either digital or film, you should use lighting contrast to create the mood and look you want. If you choose a high lighting contrast, bear in mind that you may lose detail in shadow or highlight areas. How much you lose depends on several factors: the exposure; the camera and internal settings (for digital); the film stock (film cameras); and how the project is handled during post.
+
+As a rule of thumb, the image will generally pick up contrast through the various stages of postproduction and distribution (such as when people watch on their TVs or computer screens). So if you start with a somewhat lower contrast, you may find the image gets “snappier” without your doing anything. You can always increase contrast later in post if you find the image too flat, but if footage is originally shot with too much contrast, it may be difficult or impossible to recapture the lost shadow or highlight detail afterward.
+
+If the contrast seems too high, move the fill light closer to the subject or use a brighter fill light. Alternatively, dim the key light with a scrim or move it back. Lighting contrast should be evaluated with respect to all parts of the frame, not just the light and shadow on faces. Walk around the set or location with an incident or reflected meter, or point a digital camera at various parts of the set, to get a sense of the range of exposure in the scene. If the background is in deep shadow, it may need additional light to keep the overall contrast down. If a window is too bright, it may need a neutral density gel to darken it up a bit. A bright wall can be made darker by flagging the light off it, or you can use a net to gradually shade the light (often you want keep the light on the actors and darken the upper part of the wall above them). Further measures include making sure actors or subjects don’t wear very bright or very dark clothing, replacing high-contrast props, and repainting set walls in medium shades. In general, it’s less disturbing if some areas of the frame are underexposed than if large or important areas are significantly overexposed.
+
+Lighting Contrast in Daylight
+
+On a sunny day outside, the direct sunlight usually acts as the “key light.” The “fill” is provided by skylight and, to a lesser extent, reflections from buildings, objects, and clothing. On a bright day, the lighting contrast is often too great. If you expose properly for the bright areas, the shadows end up looking very deep and harsh. A classic problem is shooting people at midday under a bright sun; the eye shadows may make it almost impossible to see their eyes. That’s why hazy or lightly overcast days, with their lower lighting contrast, are often ideal for shooting people outdoors.
+
+There are a number of solutions to the problem of shooting in sun. For an interview or close shot, you can use a white card or a small reflector such as a Flexfill to help fill the shadows. For a larger scene, you can use a bigger reflector such as a shiny board with a silver or gold surface. You can use daylight-balanced lighting instruments, but it may take a lot of intensity to match the sun on a bright day.
+
+Another approach is to try to diminish or soften the direct sunlight. An overhead set (also called a butterfly) is a pipe frame (often six by six feet or twelve by twelve feet) that can be placed over the action to hold either a silk to diffuse the light, a scrim to cut down the light without diffusing it, or a solid to block the light altogether. Overheads must be used carefully so that the shadow of the frame doesn’t show in the shot, and the brightly (and more harshly) lit background doesn’t either. The overhead must be held down securely when the wind blows. If sunlight is diffused in this way, it’s easier to maintain consistency in the light over a day’s shooting, since the material can be removed if a light cloud passes.
+
+Whenever possible, use the angle of the sun to your advantage. You may want to put your subject in gentle shade near a building or by a tree. Don’t shoot against a hot (bright) background like a bright sky or a white wall. Sometimes it’s best to avoid shooting at all in the middle of the day, when sunlight is the harshest.
+
+When shooting in direct sun, if the sun is not directly overhead, changing the position of the camera and/or the subject will have a big effect on the contrast (see Fig. 12-40).
+
+When you shoot in cars or near windows, lighting contrast can be extremely high between the darker foreground interior and the brightly lit exterior (see Fig. 7-17). You might choose to add light to the interior or put neutral density gel on the windows. Without these steps, a compromise exposure is normally used.
+
+Fig. 12-40. Using the sun to your advantage. (1) Shooting a person front lit (with the sun behind the camera) fully illuminates the subject, but the lighting is flat and it can be uncomfortable with the sun directly in the person’s eyes. (2) Positioning the subject so the sun comes from the side provides more dimensionality, but dark shadows on the face can be harsh. (3) Backlighting (or three-quarter backlight) with the sun behind the subject provides nice highlights on the shoulders and hair, and is comfortable for the subject, but since the face is mostly unlit, contrast can be severe. (4) By placing a small reflector (a Flexfill or a white card) so that it reflects sun back toward the dark side of the face, you can adjust the fill light as needed and create a flattering effect on the subject. (Steven Ascher)
+
+LIGHTING AND COLOR
+
+Mixed Lighting
+
+Before reading this section, see the discussion of color temperature and filters in Chapter 8 and the discussion of video white balance on p. 109.
+
+A video camera can render colors naturally in daylight or in tungsten light if it is properly white-balanced. Similarly, color film stocks can be used in either daylight or tungsten light and produce a pleasing color rendition with the proper filters. However, no video or film camera can shoot a scene that contains both daylight and tungsten light without rendering the former blue or the latter yellow/red relative to the other.
+
+To take a typical example: You’re trying to shoot an interior scene using window light, but there’s not enough light for exposure, so you set up some tungsten movie lights to boost the light on your subject. If you balance the video camera for the tungsten light (or shoot tungsten film without a filter), the daylight from the windows will look very blue by comparison. If you balance the video camera for daylight (or use an 85 filter with tungsten film), the tungsten light will look much too warm (orange).
+
+There are a few ways to deal with this problem. One is to make the tungsten light bluer, to better match daylight. This can be done with dichroic filters or full CTB (blue) gels on the lights (see Colored Filters and Gels, p. 496). However, this will reduce the lights’ output by half or more. Also, when shooting tungsten-balanced film—and with some video cameras that have internal filter wheels—an 85 camera filter is generally used for daylight, which cuts down the light intensity almost in half again.2 This may not leave enough light to shoot.
+
+In this situation, sometimes instead of using a full CTB gel on the lights, only a 3⁄4 or 1⁄2 CTB is used. This lets more light through and results in the tungsten light appearing slightly yellow compared to the daylight, which can look very nice. Also, if you’re shooting film, you could use a daylight-balanced stock that requires no 85 filter.
+
+Another approach is to balance the video camera for the tungsten light (or use no filter with tungsten-balanced film), and filter the window light with orange gel or acrylic sheets. Gel comes in large rolls and is easy to transport. Tape it carefully to the windows or it will show in shots that include the windows. Gels crease easily, will reflect the lights if mounted sloppily, and are noisy in windy locations. Acrylic sheets, on the other hand, are inconvenient to carry, but they are good for mounting outside the window where they won’t show. They are also optically sharper for shots that involve shooting through the window.
+
+A sun 85 or 3⁄4 CTO (orange) gel can be used to warm up 5500°K daylight to 3200°K tungsten balance. For dimming overly bright windows it can be very helpful to have some combination CTO–neutral density gels (for example, 85 N6, which brings down the color temperature and cuts an additional two stops of light; see p. 312). While a 3⁄4 CTO gel will make daylight match the color of tungsten, sometimes you want the window to look a little blue by comparison, to maintain some of the natural difference between the interior and exterior light. In this case, use a paler gel, such as a 1⁄2 or 1⁄4 CTO, on the windows.
+
+If a location has large windows and is illuminated primarily with daylight, or when you’re shooting outside, often the best solution is to use an HMI, or daylight-balanced fluorescent or LED lights, which require no filter to match daylight (though a little warming gel often improves the look). However, if window light is insignificant in a scene, it is often easiest to block the daylight out altogether (using curtains, sound blankets, or show cards) and then light completely with tungsten.
+
+MIXED FLUORESCENTS. See p. 483 for discussion of fluorescent lighting. Ideally, anytime you are shooting with fluorescent light you should use Kino Flo or other true tungsten- or daylight-balanced tubes. However, if you are forced to shoot with conventional fluorescent tubes and plan to mix in daylight or tungsten sources, filtration is usually called for. Unfortunately, conventional fluorescents come in a variety of colors, so different gels may be needed. Some fluorescents can be thought of as daylight with a green spectral element. Thus, window light can be filtered with Rosco’s Windowgreen to match “cool white” or “daylight” fluorescents better; HMIs can be filtered with Tough Plusgreen; and tungsten sources can be filtered with Tough Plusgreen 50.
+
+Alternatively, the fluorescent tubes themselves can be filtered. For example, you can use Rosco Minusgreen to match cool white fluorescents to daylight. Various gels come in sleeves that can be fitted over the fluorescent tubes; these can reduce the green halo effect that sometimes occurs when fluorescent units are visible in a shot. If filtration is not possible, fluorescent lighting fixtures, such as the Molescent unit by Mole, can be brought in for additional light using the same type of tubes that are already in the room. Mixing conventional fluorescent light with other sources and mixing various types of fluorescent tubes can be very tricky. A three-color color temperature meter helps (see Fig. 8-5).
+
+Color Contrast
+
+Differences in color between two objects (their color contrast) help us to tell them apart and determine their position relative to each other. In black-and-white, however, a red bug and a green leaf may be indistinguishable because their tonal values are the same (they reflect the same amount of light). Thus, when shooting in black-and-white it is usually necessary to use slightly higher lighting contrast than you would in color and to make sure that there is adequate shading and/or backlighting to differentiate various objects from each other. It is also possible to use color contrast filters on the camera to separate tonally similar areas (see Chapter 8). If you are shooting video and converting to black-and-white in post, you can do color balancing in post to heighten the difference between areas that might otherwise blend together.
+
+Color contrast is also important when shooting in color because the shades and intensities of colors play a large part in setting the mood of a scene. The color scheme in a movie can be controlled in wardrobe planning, set design, the setup of a video camera, or the choice of film stocks. To make colors appear more pastel or desaturated, you can use camera filters such as a diffusion or low-contrast filter (see Fig. 8-9). Underexposure and overexposure also affect color saturation. During postproduction you can make many adjustments to both color saturation and the reproduction of individual tones.
+
+SPECIAL LIGHTING EFFECTS
+
+Night-for-Night
+
+Sometimes you can shoot at night without supplementary lighting, particularly on city streets. However, often you need to augment whatever existing light there is. When using lights to simulate a nighttime effect (such as moonlight or streetlight), use hard lighting fixtures in an extremely high-contrast, low-key lighting scheme. Lights should be used to produce sharp highlights or rim lighting with very little fill. Shadows should be crisp and not diffused. Create pools of light—not flat, even illumination (see Fig. 5-10).
+
+When the light level is low, the eye is less sensitive to color. If you go out on a moonlit night, the landscape seems desaturated and slightly bluish. Lighting fixtures on movies are often gelled blue to simulate moonlight. A pale grayish blue often looks more natural; avoid an intense, saturated blue. Some DPs like to wet down streets and surfaces at night so they reflect highlights.
+
+Because night scenes can require many lights, especially for a wide shot, it is often better to shoot at the magic hour just before sunrise or just after sunset when there’s enough light to get exposure on buildings and the landscape but it is sufficiently dark that car headlights and interior lights show up clearly (see the upper-right image in Fig. 9-26). Although beautiful, the magic hour is fleeting, often lasting only about twenty minutes, depending on the time of year and your location. Rehearse and be ready to go as soon as the light fades. It helps to have some supplementary light on hand for additional fill in the waning moments and for shooting close-ups when it gets darker. When you shoot magic-hour scenes with tungsten-balanced color film, you don’t need an 85 filter. In general, avoid shooting the sky during the magic hour, because it will look too bright, or use a graduated filter (see Fig. 8-7).
+
+Day-for-Night
+
+Hollywood invented the technique of shooting night scenes during the day, using filters and underexposure to simulate a night effect (the French call this la nuit Américaine—“American night”). Day-for-night often looks fake. It’s easier in black-and-white, where a red or yellow filter can be used to darken a blue sky (see Chapter 8). For color work, a graduated filter can be used. Ironically, day-for-night works best on bright, sunny days. Shoot early or late in the day when distinct side light or backlight casts long shadows that will seem like moonlight. Avoid shooting the sky and use intense lights in windows to make interior lights look bright relative to the exterior. Underexpose by two or three stops while shooting (after making the normal compensations for any filters). When shooting film, do not rely on trying to print down a normally exposed negative.
+
+Rain, Smoke, and Fire
+
+In order to be visible on film or video, rain, smoke, and fog should be lit from behind (see Figs. 12-7 and 5-10). Aim the lighting instruments as close to the camera as possible but flag them off so that no light shines directly in the lens and causes flare.
+
+Sometimes firelight is simulated by placing an amber gel over the light and jiggling strips of paper or cloth suspended from a horizontal bar in front of the light. Even better, get a flicker box, which is an electronic device that allows you to dial up different rates of flicker. Sometimes DPs make fire effects (or simulate the light from a television) with very intense flickering and virtually no fill light, making the scene seesaw between very bright and very dark. In real life, that kind of flicker generally happens only if there’s no other light in the room. In a typical room with a fireplace, or in a TV-watching environment, usually people have at least some other light on, and the flicker on people’s faces from a fire or TV is usually subtle. Sometimes the most convincing effects are done with two or more lights that can be flickered alternately.
+
+LOCATION LIGHTING
+
+The Location
+
+Whenever possible, scout locations prior to filming to assess lighting needs, check the availability of electric power, and formulate a shooting plan (see p. 364). When scouting an interior location, bring a camera and/or a light meter and try to estimate the natural light at various times of day (there are apps for mobile phones that can tell you when and where you’ll have sunlight). With a camera or a director’s finder (see Fig. 9-28) you can block out actors’ movements and camera angles. Determine what lighting package you need. If any windows need to be gelled, will you need a tall ladder to reach them? A day at a cramped location helps you appreciate why many movies are made in studios with high ceilings, overhead lighting grids, movable walls, air-conditioning, and plenty of work space. Movie crews on location often break furniture and mar walls with lighting gear. You can save a lot of time by coming prepared with paint and repair supplies.
+
+Electric Power
+
+Lights for moviemaking can consume a great deal of electric current. Before you shoot, try to determine if the location has enough power for your needs; otherwise, circuit breakers (or fuses in older homes) may blow, the production could be shut down, or a fire could erupt.
+
+To estimate your power needs, use this formula: volts × amps = watts. You want to find the number of amps your lights will use, as this is what overloads circuits and causes breakers to blow when too many lights are put on one circuit. Standard household current in North America is delivered at about 110 volts, which can be rounded off here to 100. Every lamp is rated by the number of watts it consumes. In the home, a 60-watt bulb is typical, while, for filming, 1,000 watts (1K) is common. If you simply read the bulb’s wattage and divide by 100, you get the number of amps the lamp requires (this formula includes a safety margin). A typical home circuit can handle 15 (or 20) amps, which is thus enough to run three (or four) 500-watt bulbs. Using any more lights will trip the circuit breaker or blow the fuse. Newer lighting units are more efficient, using less power for the same light output. Using LED lights, for example, allows you to get much more light from the same circuit compared to tungsten.
+
+In Europe and most of Asia, the wall current is delivered at 220 to 240 volts. The same calculation can be done by dividing the wattage by 220 (or to make the math easier, and the safety margin greater, just divide by 200).
+
+To determine how much power is available at the location, examine the circuit breakers or fuse box (often found in the basement). Count how many circuits there are and the maximum amperage of each one (amps are indicated with a number followed by “A”). Circuit breakers, which can be reset by flipping a switch when they are tripped, are found in most houses with newer wiring.
+
+Often, circuits are labeled to indicate which rooms they are connected to. If not, plug lights into various wall outlets and turn the breakers off one at a time and see which lights go out.3 Extension cables can be run to other rooms to distribute the load if necessary. Don’t use thin, home extension cords, as they increase the load and may melt.
+
+When too many lights or overly long cables are used, the voltage may drop (the equivalent to summertime brownouts), which lowers the color temperature of tungsten lights. A 10-volt drop in supply lowers tungsten lights about 100°K. If there is no window light and all light sources are on the same supply, this color change is usually correctable.
+
+To get around this and other typical problems of location power supplies, professionals often tie in to the electric supply as it enters the house and use their own set of circuit breakers and electrical distribution cabling. This should be done only by a trained electrician; in some places, a permit must be obtained and the electrician must also be licensed.
+
+In outdoor locations, a generator (“genny”) or a set of car batteries can be used for power. You can buy or rent portable, low-cost, but relatively noisy generators (often ranging from 1,600 to 6,500 watts). Large truck-mounted generators are also made for movie work that are much more powerful and quiet. Ten 12-volt car batteries (“wet-cells”) wired in a series can run regular tungsten lights at normal color temperature. As the batteries weaken, the color temperature and light output drop.
+
+WORLDWIDE POWER SYSTEMS. Household power in North America is supplied at 110 to 120 volts. It is alternating current (AC)—that is, it pulsates back and forth; it does so sixty times a second (60 Hz). As noted above, in most parts of the world power is supplied at 220 to 240 volts, alternating at a frequency of 50 Hz.4
+
+Most AC equipment works equally well at frequencies of 50 or 60 Hz. However, clocks, some battery chargers, and other equipment will not run properly if the frequency of the current is incorrect. Tungsten lights work fine with either system, but AC discharge lamps, including HMIs and fluorescents, may be incompatible with the camera speed or shutter.
+
+Virtually all equipment should be used only with the voltage it was designed for. Some equipment may have a switch to select 110- or 220-volt use. Tungsten fixtures can be converted from one voltage to another simply by using a different set of bulbs. Other equipment requires a voltage-changing device, of which there are two types. The transformer is relatively heavy for the amount of power (wattage) it can handle. It can be used with any equipment but should not be overloaded. Transformers don’t affect the frequency of the current. Diode-type voltage changers are extremely light (usually a few ounces) and, for their size, can handle much more power than transformers. They should be used only for lights. Since these work by converting AC current to DC, they should not be used with anything that is frequency dependent. Check with a technician on the requirements of your equipment.
+
+While typical electric plugs in North America and most of Central America use two flat blades and sometimes a round grounding pin, outlets found in much of the rest of the world have a different configuration. Other systems use plugs with two or three round pins or angled blades. Adapters are available to convert from one type to the other or you can replace the plugs on your equipment if needed. Search the Web for electric power and plug configurations wherever you’re planning to shoot.
+
+1. Flicker means that some frames seem more brightly lit than others.
+
+2. With many color negative stocks and digital cameras you can get away with shooting in daylight without a filter, and this is one instance where you may need to.
+
+3. You can also get an inexpensive device that you plug into an outlet, then you wave a sensor over the circuit breaker to see which circuit the outlet is on.
+
+4. Some countries, particularly in Central America, may supply power at 220 volts but at 60 Hz.

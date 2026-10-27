@@ -1,0 +1,43 @@
+{
+ "key": "film-london-filming-code",
+ "title": "Location Filming in London: Code of Practice",
+ "author": "",
+ "file": "Film London - Location Filming in London Code of Practice (2025).pdf",
+ "format": "pdf",
+ "sha256": "a754feeaa4797fe6eb7ab81ab84fd4ffee2b6bc30fca9783b8246b631a1c569f",
+ "words": 6475,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 20",
+   "words": 4873,
+   "pages": [
+    1,
+    20
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Pages 21 to 26",
+   "words": 1602,
+   "pages": [
+    21,
+    26
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks",
+  "text quality looks poor (29% common English words, 4.0% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "text_quality": {
+  "common_word_share": 0.286,
+  "odd_character_share": 0.04
+ },
+ "provenance": {
+  "found_by": "source-discovery",
+  "added": "2026-10-26",
+  "url": "https://film-london.files.svdcdn.com/production/Film-London-Code-of-Practice_2025-updated-July.pdf",
+  "query": "Source Discovery, 26/10/2026"
+ }
+}

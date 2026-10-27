@@ -1,0 +1,183 @@
+Chapter 19: Film Formats and Aperture
+
+000 0
+
+O0dd00
+
+16.1. (previous page) A VistaVision frame from Hitchcock’s Vertigo (Paramount Pictures, 1958).
+
+16.2. (above) Full aperture Aspect ratio: 1.319:1 .980” x 735”
+
+72 8q.in
+
+25mm x 18.7mm 464.5 sq.mm 0.0 0 0 ooo 0 16.3. Academy aperture Aspect ratio: 1.37:1 864” x .63”
+
+544 sq.in 21.95mm x 18.6mm 351.2 sq.mm ooo Oo oi 16.4. Aspect ratio; 1:66:1 .864” x .63”
+
+544 sq. in.
+
+21,95mm x 16mm 31.2 sq.mm C1:
+
+0000 oti Oi
+
+= 16.5. (above) Aspect ratio: 1:35:1 864” x .469”
+
+405 sq. in.
+
+21.95mm x 16mm 351.2 sq.mm cinematography 284
+
+FULL APERTURE
+
+Before the introduction of sound, the entire width of the film was exposed. This is called full aperture or silent aperture. It is still used today for formats such as Super35 (see below). The format is essentially what was developed in the Edison labs at the very invention of motion picture film (Figure 16.2), ACADEMY APERTURE
+
+With the introduction of syne sound, the Academy aperture was created in 1932 to allow space for the optical soundtrack. With the introduction of sound, room had to be made for the optical track. To do this, the size of the aperture was reduced. This was called the Academy aperture (Figure 16.3), 1.66:1 AND 1.85:1
+
+The next step in the evolution was the wider 1.66 frame. Afier the wide screen craze of the fifties, there was a need for a wider format that did not call for special cameras or wide screen projection equipment. The response to this was the introduction of the 1.85:1 aspect ratio. In the United States this is still considered the “standard” format for anything going to theatrical projection. Anything wider is considered widescreen (Figure 16.4). When shot for television and standard video release, the 1.33 aspect ratio is used.
+
+TRUE WIDE SCREEN
+
+For true widescreen, anamorphic lenses “squeeze” the image onto 35mm film. In projection, the image is then “unsqueezed” to provide an image wider than standard 1.85. On the camera negative, the aspect ratio is 1.18:1. When unsqueezed, the aspect ratio in projection is generally 2.35:1.
+
+ANAMORPHIC
+
+Anamorphic photography was invented in France in 1927. A special lens was suspended in front of the prime lens which compressed the image horizontally to one-half its width, then unsqueezed it again when projected. The horizontal compression was eventually engineered into the prime lens itself so an additional optic in front of the lens was no longer necessary, Several versions of this system are in use today, and most major lens manufacturers also make high quality anamorphic lens sets (Figure 16.6).
+
+VISTAVISION
+
+VistaVision runs standard 35mm film horizontally. Each frame spans 8 perforations, twice the area of a regular frame. It is still in common use especially for any kind of special effects or plate work. The reason it is used for this type of work is that something that is shot for a background plate or as part of a special effects piece will likely go through several stages of optical printing or perhaps digitizing.
+
+The larger format prevents the build up of excessive grain and loss of resolution. 70mm is also used for plate work on films for which the production format is 35mm.
+
+IMAX
+
+Currently the largest projection format is Imax, which is 70mm film run through the camera and projector sideways, in a manner similar to VistaVision. This results in a negative roughly the size of that produced by a 2-1/4 still camera. This extremely large negative allows for a very large projection screen up to five stories high. Omnimax is a variation which employs a curved screen and anamorphic lens.
+
+ALTERNATIVES TO ANAMORPHIC
+
+There are many problems with anamorphic photography. First, anamorphic lenses are never as fast as standard spherical lenses. Secondly, because of the squeeze, the depth-of-field is 1/2 of that for the same image size. Both of these conditions mean that substantially more lighting is required for anamorphic photography which can be a problem in terms of time and budget.
+
+SUPER35
+
+One method developed to answer these problems is Super35. The basic concept of Super35 is to use the entire width of the negative: the same full aperture originally used in silent films.
+
+From this full width negative, a widescreen image is extracted.
+
+This is done with an optical print. This optical step is necessary to slightly reduce the image to leave room for the sound track and to squeeze it for anamorphic projection. Although the resulting image is not the full aperture, the original negative uses more of the available space. This is necessary because there is still a need for a sound track, Even though several alternatives have been developed to substitute for the sound track on film, including digital audio, because these systems are not universal, it is usually necessary to give back that audio track space on the side, The Univision format, discussed later, also relies on eliminating audio track.
+
+COMMON TOPLINE
+
+For the DP, the director and especially for the operator, one of the greatest advantages of Super35 is that a common topline can be used, Because 4:3 video is more square, the top of video Is always higher than the top of the widescreen format. As a result, it is necessary to frame for two formats at the same time. This is difficult at best and it is always a compromise. Since the Super35 format is extracted from the film in an optical process, there ts the freedom to extract any part of the negative you like. Thus the top of the video frame can be the same as top of the widescreen frame, thereby reducing the need to compromise the format.
+
+Having a common top is most important, as the information in the upper part of the frame is nearly always more important than the lower part of the frame. Cutting a character off at the belt instead of across the chest usually makes no difference, whereas cutting off the top of the head can be very awkward. The fact that the sides of the frame are different is still inescapable and will remain so until widescreen TV becomes a standard.
+
+The drawbacks of Super35 are the additional cost of the optical print and the slight increase in grain and contrast due to this extra step. However, with the recent improvements in film stock, these are now quite acceptable. Many major films have been shot in Super35.
+
+Nearly all cameras in use today have their optical axis centered on the Academy aperture. As a result they are not centered on the full negative. For Super35, the lens mount must be repositioned by Imm to re-center it on the full aperture. Only lenses which cover the full area of the negative can be used. The ability to use standard spherical lenses and the lessened requirement for lighting and schedule may offset the cost of the optical print.
+
+Once the Super35 full aperture is shot, any number of formats can be extracted from it. Except in very unusual cases, a hard matte would never be used to mask the negative to these aspect ratios.
+
+These illustrations demonstrate what would happen in the post-production process, not what happens in the camera. This is one of the beauties of this process: a single negative can be used for many dif- U 0
+
+O00 0
+
+O16.6. Anamorphic
+
+Aspect ratio: 1.18:1 864” x 732”
+
+.633 sq. in.
+
+21.95mm x 18.6 mm 408.27 sq.mm ro uu Pu d 16.7. Vistavision frame Aspect ratio: 1.5:1 1.485”x .991”
+
+1,472 sq. in.
+
+37.72mm x 25.17mm 949.7 sq.mm 16.8. The Imax negative is a 15 perf image on 70mm film stock.
+
+Aspect ratio: 1.43:1 2.740” x 1.910”
+
+5.24 sq.in.
+
+70mm x 48.5mm 3430 sq.mm professional formats 16.9.65mm 5 Perf
+
+Aspect ratio: 2.2871 2.066” x .906”- 1.872 sq. in.
+
+54.48mm x 23.01mm - 1207.58 sq.mm cinematography 286 ferent formats. See the ground glass chart for some of the combinations of Super35 and other formats.
+
+If the film is going directly to video, there is no reason to waste film for an optical sound track that will never be added. In this case, it is possible to use Super35 “as is.” This is sometimes called Super TV.
+
+3 PERF
+
+All of the above methods are adaptations which deal with one basic built-in drawback of 35mm film; one that goes back to it’s very invention, Since its inception, 35mm has been advanced by 4 perforations for each frame. Unlike the aperture gate, this is not something that is easily changed. Worldwide, there are tens of thousands of cameras, optical printers, lab equipment, telecines and theater projectors that are based on this system (Figure 16.20). Some systems advance the film by three perforations for each frame. Specially modified cameras must be used for this process.
+
+Since it would be impossible to change the entire world system to suit this, the 3 perf negative is converted at some stage to 4 perf.
+
+The original advantages in shooting remain. If the project is going directly to video, then it is not a problem, except that the telecine must be suited to this process. Arriflex can now make any of their cameras available in 3-perf formats. 3 perf systems also have the advantage of using less film stock and longer running times out of each mag. Most television shows shot on film use 3-perf.
+
+UNIVISION
+
+Another variation of 3 perf was developed by Vittorrio Storaro. It is called Univision (sometimes spelled Univisium). Storaro’s conclusion was that too much film is being wasted between frames: also, many soundtracks are not optical anymore. In his articles and interviews, Storaro makes a convincing argument for this format. Univision has an aspect ratio of 2:1.
+
+The following are some of Storaro’s observations on this format:
+
+In normal widescreen film, filmed in 1:1.85, there is a lot of wastage in camera negative. With Univision 1: 2 aspect ratio and digital sound (the sound track not on the film itself), using only three perforations for frame on a 35mm negative and positive, it is possible to have:
+
+* 25% saved on camera negative, with absolutely no compromise in the quality of the image. It actually increases the average quality of any panoramic and anamorphic picture. * 25% more shooting time in the camera magazine; less frequent mag changes.
+
+* Quieter running cameras because less film is moved through them.
+
+* No need for anamorphic lenses on cameras and projectors. * No distortion of horizontal and vertical lines due to the use of anamorphic lenses.
+
+* Greater depth-of-field due to not using anamorphic lenses. * Less lighting required because of spherical lenses. * No use of anamorphic lenses.
+
+16MM
+
+16mm is considerably simpler; there are two basic formats — regular 16 and Super 16. Super 16 currently enjoys enormous popularity.
+
+It can be easily blown up to a 35mm projection print and it transfers with little or no compromise to widescreen video such as High Def. oO o 980 = = | os | ; 832 o 2 16.10. Super TV
+
+| Aspect ratio: 1.33:1 .945”x 709”
+
+468 .67 sq. o .
+
+562 .624 .732 24mm x18 mm ‘ 432 Sq.mm aan :
+
+Full Aperture oO eS Paramount Format HDTV Oo oa
+
+562 x 749 468 x .832 = Centered on TV Trans. Common i
+
+Full Frame Top line 624 x 832 945”x.561”
+
+Centered on Full Frame 502 sq. in.
+
+24mm x 13.5mm 324 sq.mm 980 | co oO (=) a oO oO o = 16.12. (above) supers for 1.85.
+
+Aspect ratio: 1.85:
+
+.945”x 511”
+
+Centerline 483 sq.in.
+
+24mm x 12.98mm .063 offset 311.52 sq.mm 16.13. (left) Dimensions of various Full Aperture formats in Super35.
+
+Super 35 Bird On A Wire
+
+393 x .925 Super TV Offset Up 566 x .750 Centered on
+
+Full Aperture
+
+From Center .063 Many companies are using Super 16mm as a way of protecting for future release of their production in widescreen HDTV.
+
+Standard 16 transfers easily to 4:3 video. With the improved film stocks and digital post-production, the quality of a film originated on 16mm can be surprisingly good.
+
+professional formats 887¢
+
+AydesBoyewaul>
+
+“LULLIGE 40) S}eW o rS ‘ [eo] 3
+
+Los a S Academy 1.37 Wide Screen 1.66 Wide Screen 1.85 Scope 2.35 TV-ISO 1.33 TV-ISO 1.33 wa : - = | [om toy Combined
+
+1.37 /1.66/TV 1.37 / 1.85 1.37 /TV 1.37 / 1.66 Combined $35 Combined 1.66 / 1.85 HDTV 1.78 Silent 1.33 $35 Off-Center 2.35 $35 Wide Screen 1.85 2.35 / 1.85 $35 Combined 1.85 / TV S35 HDTV 1.78 $35 Centric 2.35 $35 TV Safe Ci: TYPICAL 35mm
+
+GROUND GLASS
+
+| + | FORMATS ——a |

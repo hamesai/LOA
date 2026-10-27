@@ -1,0 +1,17 @@
+APPENDIX E
+
+ANGLE OF VIEW IN DIFFERENT FORMATS
+
+This chart shows the horizontal angle of view (also called field of view) in different formats, as well as crop factors that help compare one format to another. To get a feel for the different sensor sizes, see Figure 2-7. To see the relationship between angle of view and sensor size, see Figures 4-6 and 4-7.
+
+The first column in the table shows the focal length lens you’d need to get a shot with a 40-degree angle of view using cameras of different sensor sizes (all measured in 16:9 mode). For example, with a full-frame 35mm DSLR still camera, a 40-degree horizontal angle of view can be captured with a 50mm lens. If we now look at, say, the Four Thirds sensor, we can see that we’d need a 24mm lens to get the same shot with the smaller-sensor camera.
+
+The full-frame 35mm still format is sometimes used as a benchmark by manufacturers when describing lenses intended for other formats.1 You can use the crop factor shown in the second column to find the equivalent focal length in another format. To use the above example of the Four Thirds sensor, we can see that if we multiply the 50mm lens on the full-frame camera times the 0.5x crop factor we get roughly 24mm.
+
+Similarly, you can use the crop factors in the fourth column to translate lenses you’re familiar with to their full-frame 35mm equivalent. Say you’ve been shooting with a camcorder with a 1⁄2-inch sensor and you like the angle of view you get with a 5mm lens. Multiply that by the 5.2x crop factor to find that you’d need a 26mm lens when shooting with a full-frame 35mm sensor camera.
+
+Crop factors (also called focal length multipliers) are a handy way to remember how one format relates to another, and you can easily determine how to translate directly between any two formats. For example, when translating a Four Thirds sensor to a Super 35 sensor, we can divide the focal lengths in the first column (33mm/24mm) to get a multiplier of a little more than 1.3 (put the sensor you’re starting with in the denominator). So a 100mm lens on a camera with a Four Thirds sensor will have roughly the same field of view as a 130mm lens on a camera with a Super 35 sensor (100 x 1.3 = 130). If you start with the Super 35 sensor, the crop factor is 0.7x (24mm/33mm). So a 100mm lens on a Super 35 camera would have roughly the angle of view of a 70mm lens on the Four Thirds sensor.
+
+For an excellent online tool with images showing the angle of view with different lenses and different formats, see the Field of View Comparator at www.abelcine.com. Also check out the MatchLens iPhone app, which helps you find equivalent lenses on specific cameras.
+
+1. This is for convenience and assumes that consumers have experience shooting stills in the full-frame 35mm format, which is a different aspect ratio and size from all conventional filmmaking formats. These days, the Super 35 digital format would make a better benchmark when comparing lenses for filmmaking. As described above, you can easily make this comparison yourself.

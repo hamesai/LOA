@@ -1,0 +1,439 @@
+CHAPTER 8
+
+Rhythm
+
+Rhythm is easy to experience, but it can be difficult to define or use. Rhythm is perceived in three different ways: we hear it, we feel it, and we see it. We’re most familiar with rhythm we can hear, so we’ll define rhythm using a drum. Beating on a drum creates sounds that we recognize as rhythm. Every rhythm is made up of three sub-components: alternation, repetition, and tempo.
+
+Alternation
+
+A drum’s rhythm exists because there’s a beat sound followed by a moment of silence. The alternation between sound and silence creates the rhythm. The sounds of walking feet or a bouncing ball reveal their rhythms because of the alternation.
+
+There are many types of alternation. In addition to sound and silence, there’s also alternation between high and low-pitched sounds or loud and quiet sounds, for example. White noise, like the sound of a humming motor or a waterfall, doesn’t have rhythm because it lacks alternation.
+
+Repetition
+
+The sound of a single drumbeat does not create rhythm. The drumbeat must repeat. “Sound-silence-sound-silence-sound” creates a rhythm.
+
+We can’t recognize the rhythm of walking feet if the person only takes one step. If a ball only bounces once, it won’t create a rhythm.
+
+Tempo
+
+A drumbeat’s rate of repetition is called tempo. The drumbeats can occur slowly or quickly. The rhythmic difference between walking and running is tempo. Walking has a slow tempo and running has a fast tempo. A tempo can also be regular or irregular. A ticking clock has a regular tempo that always remains constant. An irregular rhythm’s tempo changes as it speeds up or slows down.
+
+The same components of alternation, repetition, and tempo apply to visual rhythm. There are three ways that visual rhythm is created:
+
+Stationary objects
+
+Moving objects
+
+Editing.
+
+Rhythm of Stationary Objects
+
+A shot is often composed of stationary or non-moving objects. The stationary objects create lines. These lines create the linear motif. The linear motif is the shot reduced to its basic lines. The linear motif is the key to seeing and controlling visual rhythm. Read Chapter Four for a complete explanation of linear motif. Most visual rhythms are created by stationary objects.
+
+ 
+
+This picture, an empty frame, is the visual equivalent of white noise. The image lacks a visual rhythm because there isn’t a linear motif.
+
+ 
+
+A stationary object, an actor, has been added and now the shot has a visual rhythm. The object creates a visual relationship between itself and the frame. The first step in defining visual rhythm is to find the shot’s basic lines or linear motif.
+
+ 
+
+This shot’s linear motif is created by the actor’s axis. It’s a single vertical line in the middle of the frame. That vertical line creates a relationship between itself and the two vertical frame lines. These three stationary lines create the visual rhythm.
+
+ 
+
+That shot’s visual rhythm is diagramed here and reveals the alternation, repetition, and tempo. There is alternation because the actor’s axis line alternates with the space on either side of the axis line (space-line-space). There is repetition because there are three lines (the two vertical frame lines and the actor’s axis line). The shot has a slow, regular tempo because there are three equally spaced lines.
+
+ 
+
+If we could hear that visual rhythm, the lines would be drumbeats, and the spaces would be the silence between the beats. So the rhythm we hear is: beat—silence—beat—silence—beat.
+
+ 
+
+A visual rhythm’s tempo can be regular or irregular. The amount of irregularity depends on the position of the lines created by the stationary objects.
+
+ 
+
+The linear motif reveals the regularity and irregularity of the two shots. Shot 1 has a regular rhythm because the lines divide the frame into equal areas. The equal areas have visual affinity which creates a regular rhythm. Shot 2 divides the frame into unequal areas and creates an irregular rhythm. Unequal areas create visual contrast. Like every visual component, affinity reduces visual intensity and contrast increases visual intensity.
+
+ 
+
+This shot has a medium tempo. There are three actors or lines in this shot. Coupled with the vertical frame lines, there are five beats. The lines that create the linear motif are evenly spaced so this is a medium speed, regular rhythm.
+
+ 
+
+Adding people increases the number of lines. The linear motif of this shot has 12 lines. The visual rhythm is fast and regular.
+
+ 
+
+This shot’s rhythm is medium tempo and irregular because the spacing between the lines is inconsistent.
+
+ 
+
+The lines that create rhythm do not, of course, have to be made by people. All of the ways we create lines (as discussed in Chapter Four) contribute to the visual rhythm. Here is a shot from The Shawshank Redemption and a diagram revealing its linear motif created by the tonal contrast in the windows. The stationary objects create a fast tempo and mostly regular rhythm.
+
+ 
+
+The diagram of this shot from Stakeout reveals that the linear motif divides the frame into many areas of different sizes. The visual rhythm is fast and irregular to support the story’s conflict.
+
+ 
+
+The choice of location for this scene contributes an extremely fast, irregular rhythm. This adds visual intensity to the climactic action sequence in Bad Boys.
+
+ 
+
+When the linear motif provided by the location is removed, the shot’s visual rhythm simplifies and slows down, reducing the visual intensity. The location no longer provides an intense linear motif, and the visual rhythm needed to support the story’s climax disappears.
+
+Rhythm of Moving Objects
+
+Rhythm can be created by object movement, but don’t confuse movement and rhythm. Most moving objects don’t create rhythm because they lack alternation, repetition, or tempo.
+
+ 
+
+For example, this car speeding along a road does not create visual rhythm. A viewer might incorrectly say that the car has a fast rhythm. The car has a fast speed, but its movement lacks alternation and repetition so there isn’t any visual rhythm.
+
+Under certain circumstances a moving object can create rhythm. This rhythm can be primary or secondary. Primary rhythm refers to the movement of an entire object. Secondary rhythm occurs when a part of the primary object creates its own independent rhythm.
+
+MOVING OBJECTS—PRIMARY RHYTHM
+
+There are four ways a moving object can create a primary visual rhythm:
+
+Entering and exiting the frame.
+
+Moving past other objects.
+
+Changing speed.
+
+Changing direction.
+
+ 
+
+1. Entering and Exiting the Frame. When an object crosses one frame line (entering or exiting a shot), a single visual beat is created.
+
+ 
+
+A moving object’s entrance only or exit only creates just one beat so the important ingredient of repetition is missing and no visual rhythm is created.
+
+ 
+
+If the object enters and exits the frame, two visual beats are produced as the object crosses the two lines. This creates repetition, alternation, and tempo.
+
+ 
+
+If several objects enter and exit the frame simultaneously, a more complicated visual rhythm is created. Each object’s entrance and exit can produce visual rhythmic beats. The visual rhythm in this shot, created by many moving objects randomly entering and exiting frame, is fast and irregular.
+
+2. Moving Past Other Objects. A visual beat may be created when a moving object passes in front of or behind other objects.
+
+ 
+
+A rhythmic beat is not created when a moving object passes one object. Moving past a single object only creates one visual beat so there’s no repetition.
+
+ 
+
+If a moving object passes two or more objects, repetition and tempo are created. In this example, a fast, irregular rhythm is created as the object moves past several other objects.
+
+3. Changing Speed. A visual rhythm can be created if an object repeatedly changes speed or, in the extreme, starts and stops.
+
+ 
+
+As this object moves across the frame, it stops and starts three times. The stopping and starting creates alternation, repetition, and tempo.
+
+4. Changing Direction. A change in a moving object’s direction, if it happens more than once, creates visual rhythm.
+
+ 
+
+Each change in the object’s direction of movement produces visual alternation, repetition, and tempo.
+
+MOVING OBJECTS—SECONDARY RHYTHM
+
+The movement of part of a primary object can generate a secondary rhythm.
+
+ 
+
+There is a primary rhythm as the actor walks in a circle repeatedly changing direction, and there is a secondary rhythm produced by the moving legs. The legs have an alternation, repetition, and tempo that is completely separate from the primary rhythm of the actor’s direction change. The simultaneous use of primary and secondary rhythms is usually more intense than only primary rhythms.
+
+Editorial Rhythm
+
+Each time the editor cuts to the next shot, a new rhythmic beat may be produced. Like all rhythm, editorial rhythm requires alternation, repetition, and tempo.
+
+ 
+
+The editorial cutting between shots creates the rhythm’s beat. Each shot’s duration between the cuts is the alternation. Repetition occurs each time the editor cuts to a new shot. That repetition of edits can be slow, medium, or fast, which creates the tempo. The tempo of the edits can be regular (each shot is the same duration) or irregular (each shot is a different duration).
+
+Editorial rhythm can occur each time the editor makes a cut. The strength of that editorial beat is dependent upon the shot-to-shot contrast or affinity of the visual components.
+
+Visual contrast from shot to shot strengthens the editorial rhythm. The greater the visual component contrast from shot to shot, the stronger the beat produced by the editorial cut.
+
+ 
+
+These alternating shots have strong contrast of tone, color, and movement. One image has tonal affinity (all dark), no movement, and is blue. The other shot has tonal contrast, BG movement, and red and green colors. When intercut, the visual contrasts between the shots emphasize the editorial rhythm’s alternation, repetition and tempo. The sequence’s shot-to-shot editorial rhythm is intense.
+
+ 
+
+The same is true for this series of intercuts. One shot has tonal contrast and the other has tonal affinity. Intercutting these two contrasting shots emphasizes the editorial rhythm.
+
+Affinity or similarity in the visual components from shot to shot reduces or, in extreme cases, eradicates the editorial rhythm.
+
+ 
+
+This series of intercut shots from Saving Private Ryan have affinity of space, line, tone, and color. Their visual similarity makes the editorial rhythmic beats less intense. The reduced editorial rhythm is a calm visual interlude between the intense editorial rhythms of the action sequences.
+
+The movement of the audience’s point-of-attention can also create visual rhythm. When carefully controlled, this movement creates alternation, repetition, and tempo.
+
+ 
+
+In this series of eight shots, the contrast of continuum of movement creates a visual rhythm. Each editorial cut forces the viewers to move their point-of-attention back and forth between the two actors. The audience’s point-of-attention movement creates alternation, repetition, and tempo, producing a visual rhythm.
+
+The Event
+
+A single shot, a scene, a group of scenes, or an entire film can be called an event. The event can be simple (a hand opens a door) or complex (a person is born, lives a long life, and dies). Any event can be broken down into a list of sub-events.
+
+As an example, here’s a simple event: “a hand opens a door.” Below is a list of sub-events that occur during this event:
+
+A hand reaches for the doorknob.
+
+The hand grasps the knob.
+
+The hand turns the knob.
+
+The door latch retracts.
+
+The door begins to open.
+
+The hand releases the knob.
+
+The door fully opens.
+
+These seven sub-events can be organized on a timeline.
+
+ 
+
+Breaking down an event into sub-events helps the picture maker find the event’s story structure and also discover the best way to photograph it. Any event can be photographed continuously or fragmented.
+
+THE CONTINUOUS EVENT
+
+When an event is photographed in a continuous manner, there are no camera cuts. As the event progresses from the first sub-event to the last, the camera runs continuously. The camera can remain stationary or it can move, but the event and all its sub-events are photographed in one continuous shot. When the event ends, the camera is turned off. Scenes, sequences, and entire productions have been photographed using this continuous technique.
+
+In the continuous event, editing is unnecessary because the entire event is captured in one shot. The editor will not have control over the rhythm or any other aspect of the event. The visual rhythm and all of the other visual components must be controlled as the event is being photographed.
+
+THE FRAGMENTED EVENT
+
+Alternatively, an event can be photographed in a fragmented manner where each sub-event is given its own shot or shots. This is usually called “shooting coverage” and typically incorporates a variety of camera angles including a master shot, over-the-shoulder shots, medium shots, close-ups, inserts, and cutaways. When edited together, these shots reconstruct the sub-events into a single event.
+
+Picture makers using fragmentation may have greater control over their visual structure. Each shot’s visual intensity can be increased by using more visual contrast or decreased by using more visual affinity. A skilled editor who understands visual structure can pick the fragmented sub-events most appropriate for the reconstruction of the event.
+
+Continuous and fragmented events are opposite techniques, and both have advantages and disadvantages. You must evaluate the nature of each scene and decide which method will best serve the story. Below are some directorial and editorial ideas to consider when planning the use of continuous and fragmented techniques.
+
+1. Directorial and Editorial Event Controls. Would the story intent be clearer if it was captured continuously or fragmented? These two techniques allow the picture makers to adhere to or violate the unities of time, place, and action. As defined by the Greek playwrights, a correctly written story must adhere to the classic unities of time, place, and action. The story of a well-made play must take place in no more than one day and often in real time. The action must take place in one location, and the story’s action must have one plot line. Shooting continuously does not violate the unities. The audience watches the story take place in real time, in a single location, and with one story-telling purpose.
+
+Does a sequence require the intertwining of different locations and actions? This would probably require fragmenting. A fragmented event allows the editor to violate all of the unities. Events that take years can be condensed into seconds or instantaneous events can be extended and last for hours. Locations can change from city to city or from one universe to another. Violating the unities of time, place, and action allows each sub-event to be altered in any manner to fit the story.
+
+The entire story, a sequence, or a scene can suggest a continuous or fragmented approach. The most important question is: Which approach will be best for telling the story? A scene that relies on real-time events might be better played as a continuous shot. Sometimes an event is so complicated that it can only be understood when the sub-events are fragmented. Other times, a complex event is easier to understand if it is filmed continuously, without any editorial manipulation.
+
+Is understanding the physical layout of a location critical to the story? Is the collaborative interaction of characters important? These would be good reasons to use continuous shooting.
+
+2. Contrast & Affinity Control. Extremely specific control of the visual component contrast and affinity is difficult when shooting continuously because the camera can’t be turned off during the event. A fragmented sequence makes control of contrast and affinity easier. Since fragmenting allows an event to be broken down into a series of separate shots, the picture makers can change the contrast or affinity for any visual component in every shot. In postproduction the editor can further rearrange the fragmented shots to improve the story and emphasize the visual contrast or affinity.
+
+3. Editorial Rhythmic Control. Fragmenting permits the rhythm of a scene to be altered. The tempo of sub-events can be increased or decreased through editing.
+
+4. Visual Emphasis. Each type of event technique emphasizes the other. Fragmentation will gain visual intensity when it follows a continuous sequence. Conversely, a continuously filmed sequence will gain emphasis when it follows a fragmented sequence.
+
+5. Visual Variety. Continuous and fragmented shooting is an important factor in the overall visual variety of a production. Sometimes a movie is over-fragmented or over-cut, so it might be helpful to add some visual variety and use the continuous technique. A story might require continuous/fragmented variations just to keep the visual structure from becoming monotonous or boring.
+
+6. Discovering a Rhythm. Fragmenting an event can be difficult for actors who are trying to find the rhythm of a scene or sequence. The continuous event allows the actors to develop rhythms that might not emerge during short, fragmented sub-events.
+
+7. Financial Issues. The production budget may be so limited that the only way to stay on schedule is to capture an entire scene or sequence in one continuous camera take. Filmmakers may use continuous shots because it’s the only practical way to stay on budget.
+
+Rhythmic Patterns
+
+Different stories have different rhythms. It’s possible to draw a flow-line to represent the rhythms of a story that can help you discover the visual rhythms for a production.
+
+ 
+
+This flow-line represents the rhythms of stories that alternate between great rhythmic peaks and valleys. The Godfather, Ran, Raging Bull, Lawrence of Arabia, and Citizen Kane are examples of this type of overall visual rhythm.
+
+ 
+
+This staccato rhythm represents a faster, more energetic rhythm often used in physical comedies. A Night at the Opera, His Girl Friday, Airplane, and Baby Driver have visual rhythms suggested by this flow-line.
+
+ 
+
+This slowly undulating flow-line has a rhythm that makes gradual, milder changes. Howard’s End, Hannah and Her Sisters, Wings of the Dove, and The Sixth Sense follow this rhythmic pattern.
+
+Every story has a rhythmic flow-line pattern. It may be a combination of these examples or a different line altogether. In the days of silent films, orchestras often played music during filming to help actors create the proper rhythm and mood of a scene. Today, because we record sound, the use of music during filming is difficult, but it’s possible to rehearse with music or even a metronome. Using a metronome can help control the rhythm of dialogue, or movement during production.
+
+Contrast & Affinity
+
+There are two ways that rhythm can create contrast or affinity. Remember that contrast and affinity can occur within the shot, from shot to shot, and from sequence to sequence.
+
+1. TEMPO
+
+A rhythm’s tempo can range in speed from slow to fast. Stationary objects, moving objects, or the editorial cutting pattern can produce the tempo.
+
+A faster tempo may communicate happiness, excitement, or emotional intensity. A slower tempo may suggest tragedy, calm, tension, or introspection. Assigning emotional definitions or rules to any visual component may lead to stereotypes. If properly defined in the exposition, almost any meaning can be associated with any rhythmic tempo.
+
+ 
+
+These are examples of slow and fast visual rhythms using stationary objects within the shot. The rhythms are created by the lines with the most tonal contrast.
+
+2. REGULARITY
+
+Rhythm can be regular or irregular. When the tempo remains constant, the rhythm is regular. If the tempo changes often enough, the rhythm becomes irregular.
+
+Because regularity has a predictable pattern, it usually communicates affinity or lack of intensity. An irregular rhythm generally increases the contrast and produces greater visual intensity.
+
+ 
+
+The more regular rhythm in the left photo has less visual intensity than the irregular rhythm in the right photo.
+
+CONTROLLING RHYTHM DURING PRODUCTION
+
+Rhythm is created by the linear motif. The linear motif is the shot reduced to its basic lines. You must “see” the shot as lines so you can find the visual rhythm. The lines can be created by stationary objects, moving objects, or the movement of the audience’s point-of-attention as they watch the screen. If there are very few lines in a shot, the rhythm is slow. If there are many lines, the rhythm is fast. The rhythm’s tempo increases as more lines are added. If the lines are equally spaced, it’s a regular rhythm. If the lines are unequally spaced, the rhythm is irregular. The more uneven or unequal the spacing of lines, the more irregular the visual rhythm,
+
+1. Watch the Lines. Once you see the linear motif (using all of the methods described in Chapter Four) use it to create the visual rhythm.
+
+2. Don’t Confuse Movement with Rhythm. A moving object can have a slow or fast speed but that has little or nothing to do with alternation, repetition, or tempo, which are required to create rhythm. A fast movement may not have a fast rhythm (or any rhythm at all).
+
+3. Use Sound. In a dialogue scene, find the verbal rhythm first and then let it define the visual rhythm. If there is no dialogue, other sounds or music can help you discover the visual rhythm.
+
+4. Plan the Editing. Decide how much editing will be involved in a scene or sequence. This will affect the amount of fragmentation or coverage you’ll need in editing.
+
+Films to Watch
+
+Each of these films has a distinct rhythmic control of the sound and visual components. Watch the films with the sound on, and then again with the sound off. The visual rhythmic structure of the editing and linear motif will become obvious. These films use continuous and fragmented techniques to create a variety of visual rhythms.
+
+Rashomon (1950)
+
+Directed by Akira Kurosawa
+
+Written by Akira Kurosawa
+
+Photographed by Kazuo Miyagawa
+
+Production Design by Takashi Matsuyama
+
+Edited by Akira Kurosawa
+
+Raging Bull (1980)
+
+Directed by Martin Scorsese
+
+Written by Paul Schrader & Mardik Martin
+
+Photographed by Michael Chapman
+
+Production Design by Gene Rudolph
+
+Edited by Thelma Schoonmaker
+
+Rumble Fish (1983)
+
+Directed by Francis Ford Coppola
+
+Written by Francis Ford Coppola
+
+Photographed by Steve Burum
+
+Production Design by Dean Tavoularis
+
+Edited by Barry Malkin
+
+The Continuous & Fragmented Event
+
+Run, Lola, Run (1998)
+
+Directed by Tom Tykwer
+
+Written by Tom Tykwer
+
+Photographed by Frank Griebe
+
+Production Design by Alexander Manasse
+
+Edited by Mathilde Bonnefoy
+
+Traffic (2000)
+
+Directed by Steven Soderbergh
+
+Written by Stephen Gaghan
+
+Photographed by Steven Soderburgh
+
+Production Design by Philip Messina
+
+Edited by Stephan Mirrione
+
+The Russian Ark (2002)
+
+Directed by Alexander Sokurov
+
+Written by Anatoli Nikiforov
+
+Photographed by Tilman Büttner
+
+Art Direction by Natalya Kochergina
+
+Collateral (2004)
+
+Directed by Michael Mann
+
+Written by Stuart Beattie
+
+Photographed by Dion Beebe & Paul Cameron
+
+Production Design by David Wasco
+
+Edited by Jim Miller and Paul Rubell
+
+Man on Fire (2004)
+
+Directed by Tony Scott
+
+Written by Brian Helgeland
+
+Photographed by Paul Cameron
+
+Production Design by Benjamin Fernandez & Chris Seagers
+
+Edited by Christian Wagner
+
+Atonement (2007)
+
+Directed by Joe Wright
+
+Written by Christopher Hampton
+
+Photographed by Seamus McGarvey
+
+Production Design by Sarah Greenwood
+
+Edited by Paul Tothill
+
+Whiplash (2014)
+
+Directed by Damien Chazelle
+
+Written by Damien Chazelle
+
+Photographed by Sharone Meir
+
+Production Design by Melanie Jones
+
+Edited by Tom Cross
+
+Moonlight (2016)
+
+Directed by Barry Jenkins
+
+Written by Barry Jenkins & Tarell Alvin McCraney
+
+Photographed by James Laxton
+
+Production Design by Hannah Beachler
+
+Edited by Joi McMillon & Nat Sanders

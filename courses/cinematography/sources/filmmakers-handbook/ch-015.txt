@@ -1,0 +1,461 @@
+CHAPTER 10
+
+Sound Recording Systems
+
+This chapter is about sound and the audio recording equipment used for both video and film. Many of the principles that apply to one type of system are relevant to others. See Chapter 11 for discussion of the sound recordist’s role and recording techniques.
+
+SOUND
+
+What we hear as sound is a series of pressure waves produced by vibration. A violin, for example, works by vibrating air rapidly back and forth. When you pluck a string, it makes the body of the violin vibrate—when it moves one way, it compresses the air (pushes it) in that direction; when it moves the other way, that pressure is temporarily reduced. Sound waves travel through the air and cause your eardrum to oscillate (move back and forth) in response to the sound. Like ocean waves breaking on a beach, sound waves alternately press forward and recede back.
+
+Fig. 10-1. Sound waves. (A) The height of the wave (or amplitude) corresponds to loudness. The time from one crest to the next (the period) corresponds to the sound’s frequency. (B) This is a higher-frequency sound than A—wave cycles occur more frequently in the same amount of time and it sounds higher pitched. (C) This wave has lower amplitude and it sounds quieter.
+
+Loudness
+
+The loudness or volume of a sound results from the amount of pressure produced by the sound wave (the sound pressure level, or SPL). Loudness is measured in decibels (dB), which are used to compare the relative loudness of two sounds. The softest audible sounds occur at the threshold of hearing. The volume of normal conversation is about 65 dB above threshold, thus its sound level is said to be 65 dB. The threshold of pain is at about 130 dB, equivalent to the noise of a jet passing within one hundred feet.
+
+When we work with recording systems, sound level is expressed in dB units that reflect the electrical voltage (see below). For more details, see Setting the Recording Level, p. 446.
+
+Dynamic Range
+
+For any passage of sound—be it music, speech, or noise—the difference in volume between the quietest point and the loudest is called the dynamic range. The human ear has a dynamic range of 130 dB between the thresholds of hearing and pain. The dynamic range of a symphony orchestra is about 80 dB, which represents the difference in volume between the full group playing fortissimo and a single violin playing very softly. Actually, the dynamic range of the orchestra is somewhat lessened by the shuffling and coughing of the audience, which at times may be louder than the quietest solo violin.
+
+Dynamic range is a term used in evaluating audio recording systems, where it is sometimes called the signal-to-noise (s/n) ratio. The “signal” is the sound we want to record; the “noise” can be in part system noise from the amplifiers and circuits in the recorder and the microphone. Digital recorders can have a dynamic range up to about 90 to 120 dB or more between the loudest sounds that can be recorded and the noise floor, where the sound signal gets lost in the limits of the digital recording format. A bit like the shuffling sounds of the symphony audience, noise determines the lower limit of the dynamic range.
+
+Analog recorders have much more limited dynamic range (up to about 70 dB) due to tape noise or hiss that’s always present.
+
+Frequency
+
+Musical notes are pitches; the modern piano can produce pitches from a low A to a high C. The lower notes are the bass, the higher ones the treble. What is perceived as pitch is determined by the frequency of the sound wave. Frequency is a measure of how frequently the waves of sound pressure strike the ear—that is, how many cycles of pressure increase/decrease occur in a given length of time. The higher the frequency, the higher the pitch. Frequency was formerly measured in cycles per second; now the same unit is called a hertz (Hz). Musical notes are standardized according to their frequency. Orchestras usually tune up to concert A, which is 440 Hz. Doubling this or any frequency produces a tone one octave higher.
+
+The male speaking voice occupies a range of frequencies from about 100 to 8,000 Hz (8 kilohertz, written kHz). The female speaking voice is slightly higher, ranging from about 180 to 10,000 Hz. The ear can sense low frequencies down to about 20 Hz, but these sounds are very rumbly and are felt throughout the body. At the other extreme, sounds above 20,000 Hz are audible to dogs and bats, but seldom humans. For more on working with voice in postproduction, see Frequency Range and EQ, p. 665.
+
+When sound volume is low, the ear is much more sensitive to midrange frequencies (2,000 to 4,000 Hz) than to low or high frequencies. So if you listen to a music track very quietly, it may seem to lack bass and treble, but if you turn the volume up, the same track will now seem to have a much richer low end and high end. When sound volume is high, the ear responds much more evenly to all frequencies of sound.
+
+Tone Quality and Harmonics
+
+All naturally occurring sounds are made up of a mixture of waves at various frequencies. A violin string vibrates at a basic frequency (called the fundamental), as well as at various multiples of this frequency. These other frequencies are called harmonics or overtones. With tones that sound “musical,” the frequencies of the harmonics are simple multiples of the fundamental. Most other sounds, such as a speaking voice or a door slam, have no discernible pitch; their harmonics are more complexly distributed. The relative strengths of the harmonics determine tone quality or timbre. When a man and a woman both sing the same note, their voices are distinguishable because the man’s voice usually emphasizes lower harmonics than the woman’s. Pinching your nose while talking changes, among other things, the balance of harmonics and produces a “nasal” tone quality.
+
+Frequency Response
+
+Frequency response is used to describe how an audio system responds to various frequencies of sound. As noted above, at low volume the ear favors middle-frequency sounds, and at high volume its frequency response is more even or flat. A good audio recorder is capable of providing a fairly flat frequency response throughout the frequency range of human hearing.
+
+Because all sounds incorporate a spread of frequencies, if you change the frequency response of a recording by increasing or decreasing the low, middle, or high frequencies, you can change the character of the sounds. The bass and treble controls on a radio do this to some extent; most people like to turn the bass up in dance music to make the rhythm, carried by low-frequency instruments such as the bass guitar and bass drum, seem more powerful. Equalizers (see Figs. 11-12 and 15-17) are often used to alter the frequencies of sounds during recording or after. With an equalizer, you could boost low frequencies to make, say, a truck engine sound deep, rumbly, or menacing, or you could boost the high frequencies of a piano to make its sound “brighter.” If we diminish high frequencies without changing the bass, the effect is like putting cotton in your ears: the sound is muddy and dull.
+
+Telephones have a fairly limited frequency response, which is centered on the middle frequencies needed to understand speech. In movies, the sound of someone talking through a phone can be simulated with an equalizer by cutting the low and high frequencies and boosting the midrange.
+
+HOW AUDIO IS RECORDED
+
+This section is about how analog and digital recording works—the fundamental process of capturing and storing sound. Though most recording is done digitally these days, it’s important to understand analog because it’s still very much a part of the process.
+
+ANALOG AUDIO RECORDING
+
+In simplest terms, the idea of analog tape recording is to convert sound energy in the air to magnetic energy, which can be stored on tape. When the tape is played back, the process is reversed to reproduce sound (see Fig. 10-2).
+
+The microphone responds to sound waves by producing electrical waves that have essentially the same character in terms of frequency and amplitude. Most modern microphones employ an extremely light diaphragm that can move with the slightest variations in sound pressure. Mics vary in the way the moving diaphragm generates electricity. The common dynamic microphone is also called a moving-coil microphone because it has a very light coil of wire attached to the diaphragm. When the diaphragm moves back and forth, the coil moves past a magnet and creates an alternating electric current that flows through the wires in the coil. Thus, sound pressure is translated into electric pressure, or voltage.
+
+This voltage travels from the microphone to a mic preamp (preamplifier), which increases its strength and may supply the mic with power.
+
+In an analog recorder, the sound signal then goes to the magnetic recording head. A recording head is an electromagnet, not unlike the ones used in metal scrap yards or that kids sometimes play with. When electricity passes through the head it generates a magnetic field. The head is a C-shaped piece of metal with wire coiled around it. On its front is an extremely narrow opening called the gap. The head completes a flow of energy; advancing and receding sound waves become electrical waves, which finally result in a magnetic field that is oriented first in one direction and then in the opposite.
+
+Magnetic tape is made up of a thick support material or base and a thin emulsion that stores the information. Tape emulsion is called oxide and contains small particles of iron. Each piece of iron is a miniature bar magnet with distinct north and south poles. When a particle of iron passes the gap in the recording head, the magnetic polarity of the particle aligns itself with the magnetic field at the head. When the tape moves on, it maintains that alignment. Since the magnetic field is always alternating back and forth, any given stretch of tape contains groups of particles that alternate in their alignment.
+
+When you play back the tape, it is passed over the same head, or a similar playback head. Now the magnetic field stored in the iron particles creates an electric current in the wires coiled around the head. This signal is amplified and sent to a loudspeaker, which acts like a moving-coil microphone in reverse. Instead of the microphone’s diaphragm, the speaker employs a paper cone that is connected to the coil. When current passes through the coil, it moves the cone, which in turn pushes the air to produce sound pressure waves. If you stand in front of a large bass speaker, you can both hear and feel the sound waves generated by the paper moving back and forth.
+
+Fig. 10-2. The magnetic recording process. The playback head of the tape recorder is shown in a cutaway view (the width of the gap is exaggerated for clarity). The microphone cutaway shows the components of a dynamic microphone. (Carol Keller)
+
+DIGITAL AUDIO RECORDING
+
+Before reading further, see The Basic Idea, p. 227.
+
+The way digital audio is recorded is similar in many respects to the analog audio process described above. First of all, microphones and speakers are analog, so sound is captured and reproduced using the same equipment regardless of the recording format (the same microphone could feed an analog or digital recorder). The difference is in the way digital recorders process and store the sound.
+
+With analog recording, sound is converted to a voltage; the voltage is converted to a magnetic field, which is then stored on tape. In digital audio recording, we start the same way: sound is converted to a voltage. Then the analog-to-digital (A/D) converter processes the sound by repeatedly measuring the voltage level (sampling it) and converting those measurements to numbers (quantizing). This two-step process is the heart of digital recording. The quality of the recording depends on how often we sample the voltage and how accurately we measure each sample.
+
+Once we have the sound expressed as digital data we can then store it on flash memory, a hard drive, a CD, tape, or other medium. The basic concepts of sampling and quantizing are quite similar for both video and audio recording. If you understand one, it can help you make sense of the other.
+
+Fig. 10-3. Digital recording. (top) The original analog signal. Note that the voltage level changes continuously over time. (middle) To record the signal digitally, we take samples (measurements) at regular time intervals (the vertical lines). The level of the signal at each sample is measured according to a level scale (the horizontal lines). The total number of units in the scale is determined by the number of bits in the system; a three-bit system is pictured here. Samples can only be measured in one-unit increments. A measurement that falls between, say, level 2 and level 3 must be rounded down to 2 or up to 3. (bottom) This has twice as many samples in the same period of time (higher sample rate). And by using more bits (four instead of three), we can measure each sample with greater precision. This is a higher-resolution recording that better approximates the shape of the original analog signal. (Robert Brun)
+
+Sample Rate
+
+The first part of the digitizing process is to take a series of samples or measurements of the sound level. Take a look at Fig. 14-24, which shows an audio waveform (a visual representation of a sound). You can see that it’s constantly changing (oscillating). High-frequency signals change very fast and low-frequency sounds change more slowly. To accurately measure the level of high-frequency sounds we need to take samples more frequently than for low sounds.
+
+As a simplified example, imagine you’re counting the cars of a train going by. When the train is going slowly, you can take your time counting each car (low frequency). But as the train speeds up, you have to count much faster to get an accurate count.
+
+High frequencies are of particular concern because without them, a recording may have poor quality and sound muddy or dull.1 An engineer named Harry Nyquist proved that the sampling rate has to be at least twice the maximum frequency we hope to capture. Because humans can perceive sounds up to about 20,000 Hz (20 kHz), a digital audio recorder needs to sample at least 40,000 times a second (40 kHz) to capture that range of frequencies.
+
+Different digital audio recorders use different sample rates (also called sampling frequency). Too low a sample rate results in aliasing, with poor high-frequency reproduction. The higher the sample rate, the better the frequency response and quality. Increasing the sample rate also increases the amount of data that needs to be stored.
+
+CDs have a sample rate of 44.1 kHz (this rate is sometimes referred to as “CD quality” and is often used for music). Audio on the Web is typically 44.1 kHz. Most video cameras and recorders use 48 kHz, which is a standard professional sample rate. Very high quality recorders used for high-end production and music recording may operate at 96 kHz or even 192 kHz.
+
+Bit Depth or Precision
+
+Sample rate is an expression of how often we measure the audio signal. Bit depth or precision refers to how accurately we measure each sample.2
+
+To get the idea of bit depth, consider this simple example. Say you had to measure people’s height with a stick (think of a ruler with no markings on it). The stick is one foot long and you can only record the height in one-stick increments. So you could measure a six-foot-tall man very accurately (six sticks). But when you measure a woman who’s five feet, six inches tall, you have to record her height as either five sticks or six sticks—either way, you’re off by half a foot.
+
+Now, imagine that we do the same thing with a shorter stick that’s only six inches long. We can still measure the man’s height precisely (twelve sticks). And when we measure the woman, now we can be just as accurate (eleven sticks).
+
+Digital systems use a measurement scale to record the voltage of each audio sample. The scale has a number of levels. In an 8-bit system there are 256 levels.3 Each level is the equivalent to one of our “sticks.” The quietest sound could be given the level 1 and the loudest would be given level 255. But there’s no such thing as a fraction of a level. If the signal level fell midway between 125 and 126, it would be rounded down to 125 or up to 126. Either way, that would introduce an error that could degrade the sound. In the digital audio world, that’s called a quantizing error; it’s a form of noise.
+
+For greater precision we could use more bits. In a 16-bit system (which is fairly typical in professional video cameras) there are 65,536 levels. Now we can measure different voltage levels much more accurately and reproduce sounds more precisely. The more bits used for each sample, the higher the quality and the lower the noise. However, increasing bit depth, like raising the sample rate, increases the amount of audio data to be processed and stored.
+
+Some high-quality recording systems use 20 bits or 24 bits or more. Even though you might not be able to hear the difference between 16 bits and 24 bits, when digital audio gets processed during postproduction, errors get multiplied, so more precision keeps the sound cleaner in the end.4 Sometimes 16-bit recordings are converted to 24 bits for mixing.
+
+Keep in mind that using more bits doesn’t mean recording louder sounds. As you can see in Fig. 10-3, the 1-volt maximum signal is divided into eight levels in the middle graph and sixteen levels in the lower graph. The maximum level is the same in both. However, an interesting thing happens at the bottom of the scale where the very quietest sounds are recorded. Sounds that are lower than the first level will disappear entirely from the recording (they will be recorded as 0). This is the noise floor. But if we use more bits, the first level is now lower, and we may be able to catch quiet sounds that would have been too low to register before. This reduces noise and increases dynamic range.5
+
+Resolution and Sound Quality
+
+Together, the sample rate and bit depth contribute to the resolution of a digital audio recording. Low-resolution recordings may sound “gritty” or overly crisp (“cold”). When the recording can’t capture the subtleties of the original sound, artifacts result, which may be disturbing to the ear. High-resolution recordings sound more faithful to the original sound source in terms of frequency response, dynamic range, and lack of noise.
+
+TYPES OF AUDIO RECORDERS
+
+Today, whether you’re working in video or film, you have a wide range of options for recording audio. When shooting film, audio is always recorded with a separate recorder since modern film cameras can’t record sound. When shooting video, sound is usually recorded right in the camcorder. However, many digital cameras—particularly DSLRs—lack high-quality audio capability, so external audio recorders may be used for better sound.
+
+The quality of an audio recording depends in part on the recording format and the settings used, and in part on the quality of the particular recorder. Even a good digital format may sound noisy if the recorder has poor microphone preamps. Before choosing a system, talk to recordists and read reviews.
+
+DIGITAL AUDIO RECORDERS
+
+Types of Digital Recorders
+
+Audio recording technology has come a long way. For years, most professional sound recordists on film shoots used analog recorders with 1⁄4-inch-wide tape (the Nagra recorder was the industry standard). Later, DAT (digital audiotape) became popular. Today most recordists use digital machines that create audio files that are stored on different types of media—there’s no tape involved. This change parallels the evolution of digital cameras that also create digital files instead of recording in a linear fashion onto videotape. File-based recording is “nonlinear”: a new file is created whenever you press start on the recorder and each file can be moved, copied, deleted, or played back independently of any other file. This saves time and offers a lot of flexibility in postproduction.
+
+Fig. 10-4. The Sound Devices 744T is a file-based digital recorder that can record up to four audio tracks to an internal hard drive, CompactFlash cards, or external FireWire drives. This and similar Sound Devices models are used by many pros. (Sound Devices, LLC)
+
+Fig. 10-5. Tascam DR-680 records up to eight tracks to SD cards. (TASCAM)
+
+Digital audio recorders can store files on flash memory cards, hard drives, and/or optical discs like CDs or DVDs. Many digital recorders can store files on several types of media so the differences between machines tend to have more to do with size, quality, and features than the particular storage system. File-based recording to solid-state media including CompactFlash, PCMCIA cards (like ATA flash), and Memory Stick means no moving parts, so the recorder is very quiet, needs fewer repairs, and may be useful for harsh physical environments with a lot of jostling (hard drives and tape machines don’t like to be treated roughly).
+
+Fig. 10-6. The Zoom H4n Handy Recorder is a small, affordable device that records up to four tracks to SD and SDHC cards using built-in stereo mics or external mics input via either XLR or phone connectors.
+
+You can also get systems designed for recording to a laptop or desktop computer; they include a physical box that contains microphone preamps with professional mic jacks, and a software app for capturing audio to the computer.
+
+Several digital systems are obsolete or on the way out. DAT machines that use a small tape cassette are no longer made by Sony. ADAT is a system for recording eight tracks of digital audio to an S-VHS cassette that has been used in the music industry.6 DA-88 machines record to Hi8 cassettes and have been used to deliver final mix stems in the TV industry. Magneto-optical (MO) discs, such as Sony’s MiniDisc, are small and capable of very good sound quality but have fallen into the dustbin of techno-history.
+
+Fig. 10-7. The Pro Audio To Go app allows you to record 48 kHz AIFF audio files to an iPhone using an external mic. See also Fig. 11-12. (Weynand Training International)
+
+Fig. 10-8. A mic preamp like the Tascam US-200 allows you to input mics that have professional XLR connectors to a computer. Digitizes audio at up to 96 kHz/24-bit resolution. Can supply phantom power to mics that require it. (TASCAM)
+
+Fig. 10-9. Apps like Sound Forge allow you to record audio directly to a laptop or desktop computer. Includes editing and mixing capability. (Madison Media Software, Inc.)
+
+Audio File Formats and Compression
+
+We’ve seen that the quality of a digital audio recording depends in part on the bit depth and sample rate used. Whatever settings you choose, a good-quality digital recorder for video or film work should be able to record the audio file without compressing the data.7 Uncompressed digital audio is sometimes called linear PCM. As long as you have enough storage space, it makes sense to record uncompressed.
+
+Many digital recorders can record audio in a variety of file formats. A standard file format for professional video and film field production is BWF (Broadcast Wave Format). BWF includes support for uncompressed PCM audio as well as MPEG compressed audio. Broadcast Wave is based on the common Microsoft WAVE (.wav) audio file format but includes an extra “chunk” of information about such things as timecode, date and time, bit depth, sample rate, and so on.8 This added information is called metadata (see p. 242); compared to formats that don’t carry metadata, BWF files offer big advantages for managing postproduction workflow. BWF files work equally well on PCs and Macs.
+
+There are two flavors or modes of BWF and they handle multitrack recording differently. BWFm (monophonic) creates a separate mono file for each channel of audio. So if your recorder can record to four channels simultaneously, when using BWFm you’ll get four separate files (they can still be grouped by file name and metadata). Depending on the system and the recording, the files can be put in sync in the editing system either manually or automatically.
+
+BWFp (polyphonic) is the other version. Using BWFp, the four channels would be recorded as a single file, with all the tracks interleaved. This is similar to how standard stereo .wav files for music combine the left and right channels in one file. BWFp simplifies editing, but not all editing systems can handle it.
+
+Some recording systems will record to other file formats, including AIFF (.aif), MARF (Mobile Audio Recording Format II), and SDII (Sound Designer 2).
+
+With uncompressed recording, the amount of audio data produced each second (the data rate) can be calculated by multiplying the bit depth by the sample rate.
+
+To save storage space, many recorders offer the option to reduce the data using compression such as WMA (Windows Media Audio), MP3 audio (officially named MPEG2-Layer 3), or AAC (also called MPEG-4 audio). Depending on the amount of compression used and what you’re doing, compressed audio may be perfectly acceptable for your work or not. Some inexpensive digital recorders are marketed as “voice recorders” because their low-data-rate .mp3 or AAC files are designed for longest recording times, not highest audio quality. At the high end of the quality spectrum, FLAC (Free Lossless Audio Codec) compression—file extension .flac—can reduce the data rate without degrading the audio.
+
+Fig. 10-10. The Zaxcom Nomad is a versatile mixer and recorder designed for over-the-shoulder use. Can record up to twelve isolated tracks. Able to transmit timecode wirelessly and includes a timecode display that can be used instead of a digislate when needed. (Zaxcom, Inc.)
+
+Before choosing a file format, be sure to discuss it with the postproduction team!
+
+Recorder Setup
+
+Given the wide variety of technologies and recording systems, it’s beyond the scope of this book to go into detail on each. Some general considerations:
+
+SETTING SAMPLE RATE AND BIT DEPTH. Most digital recorders offer a choice of sample rate and bit depth (see above). Most video camcorders record audio at 48 kHz at 16 or 20 bits. A setting of 48 kHz/16 bits is, as of this writing, standard for TV and film delivery and may be the best choice if you’re using camcorder audio along with sound recorded separately. However, if you’re working with a separate recorder that supports it, you may choose to record at higher resolution. Recording at 24 bits is increasingly common for high-end production. As noted above, increasing either setting will increase the amount of data to be stored (and reduce the amount of time you can record on the media you have).
+
+FILE STRUCTURE AND NAMING. Depending on your system, you may need to format or initialize your hard drive or flash memory in preparation for recording. You may create a “session” or folder for the day’s work and/or for each scene. Or you may use a different directory structure for organizing the audio files. Files are easy to lose track of, so good organization will help you stay sane.
+
+You may have a choice about the scheme for naming files. Some recorders automatically generate file names using a number that changes or increments each time you press record. Some recorders can insert the date and time as the file name. Some machines allow you to manually name files with scene and take numbers; a naming system that can be used with mono Broadcast Wave files is: S002T05_2.wav. This would be scene 2, take 5, track 2. If there are multiple tracks, each has the same file name but the number after the underscore (_2) indicates which track it is so you can put them together later.
+
+You can’t have two files with the same name in the same folder; some recorders will add a letter so that won’t happen. Depending on the system, a very long take may exceed the maximum file size. Some systems will automatically split the recording over multiple files, which can be seamlessly joined in editing.
+
+Broadcast Wave files are stamped with the time of creation, so check that the recorder’s clock is set correctly.
+
+Fig. 10-11. The Zaxcom ZFR100 is very small (2 x 3 inches) and records to MiniSD cards. Can receive timecode wirelessly from the camera, allowing automatic start when the camera rolls and matching code for quick syncing with the picture in post. (Zaxcom, Inc.)
+
+TIMECODE. Some digital recorders are equipped for timecode. See Timecode, p. 223, and Timecode Slates, p. 466.
+
+Recording Media and Backup
+
+Use high-quality memory cards and be sure they can handle the sustained read/write data rate of your recorder. Test cards by recording the maximum number of tracks at a higher sample rate than you plan to use for ten minutes to see if the card can handle the data.
+
+Many audio recorders can write files to two different memory cards or other media at the same time (mirroring), which provides an instant backup. See p. 117 for more on media management and backing up files.
+
+Recording
+
+Many digital recorders have familiar controls like a typical tape deck’s transport controls (record, play, fast-forward, pause) even though there’s no tape and nothing is actually moving.
+
+Setting the recording level is discussed on p. 446.
+
+Many digital recorders have a prerecord function (also called a record buffer), which captures sound from before you press record. Here’s how it works: When the machine is on, even if it’s in “pause,” it’s always recording, and saving the latest several seconds in a buffer.9 When you press record, it begins the recording with what’s already stored in the buffer. This can be useful for documentary recording, where you may not start recording until you hear something interesting but by then you’ve missed the beginning of the sentence. When recording for film shoots, some telecines need five to ten seconds of preroll time before the take begins (see Chapter 16); by using prerecord you can capture the preroll automatically. Or, as one recordist put it, even if you’re busy eating a doughnut when you hear the director call “action!” you can still get the first part of the take.
+
+Some recorders have buttons that permit you to mark preferred takes (circle takes) for later reference as well as blown takes (false starts to be deleted).
+
+Monitoring
+
+All recorders have headphone jacks. Many will allow you to choose different modes such as mono (all tracks in both ears) or L/R (left channel in left ear only, right channel in right ear only). On a multitrack recorder there may be an option to solo one track alone.
+
+On all recorders, you hear the sound as it is processed in the recorder, just prior to being recorded. Some recorders also offer confidence monitoring, which means listening to the actual recorded sound from file or tape. On a tape recorder, the headphone switch might have two positions: “direct” (or “source”) and “tape.” The benefit of listening to the recorded sound is that you can be sure everything is recorded satisfactorily and there aren’t problems with the tape or file. The disadvantage is that the recorded sound may be delayed by up to several seconds, which can be a bit disorienting for the recordist.
+
+Digital and Analog Connections
+
+Digital field recorders have analog mic inputs for attaching microphones and analog line inputs for recording from other analog sources (see Mic and Line Level, p. 431).
+
+They also have analog outputs for sending the audio to headphones and to various types of analog equipment, such as an amplifier, analog mixer, or speaker system.
+
+However, when sending the audio to another digital system (such as a digital mixer or another recorder), it’s almost always preferable not to use the analog outputs, because that means converting the digital audio to analog and then back to digital again (which can degrade the quality).
+
+For editing purposes, the simplest and best solution with file-based recorders is to do a file transfer to the editing system from the recorder’s hard drive or flash memory or to burn a data CD or DVD. Even so, there are many situations where you want to connect equipment digitally before or after recording when a file transfer isn’t appropriate.
+
+To pass digital audio data back and forth, professional audio recorders often have digital inputs or outputs that use the AES format (also called AES3 or AES/EBU). AES cables use XLR connectors (see Fig. 10-32) or, for the AES3id version, BNC connectors (see Fig. 3-14).
+
+The consumer version is called S/P DIF. S/P DIF cables are either coaxial (electrical) and use RCA jacks, or optical and use a TOSLINK connector (see Fig. 10-13). Many types of consumer equipment such as DVD players use S/P DIF.
+
+When using any of these systems, be sure to use high-quality cables designed for this purpose, not conventional analog audio or video cables. You can go from a machine with an AES output to one with a S/P DIF input (or vice versa) with the proper adapter.
+
+Fig. 10-12. The MOTU Traveler provides four mic inputs and a total of twenty channels of analog and digital inputs and outputs. A full-featured interface for recording to a laptop in the field. (MOTU, Inc.)
+
+Fig. 10-13. The rear panel of the Traveler provides a good view of various connectors used for digital audio. From the left: XLR (used here for AES/EBU); FireWire; BNC (used here for word clock); nine-pin (used here for ADAT), TOSLINK (for S/P DIF optical); RCA (used here for S/P DIF coaxial); 1⁄4-inch phone jack for balanced analog input. (MOTU, Inc.)
+
+Digital recorders use a precise timing signal called word clock. When two digital machines are connected via AES or S/P DIF, there shouldn’t be any variation between the two word clocks. In this situation, one machine may be designated the master and the other the slave to synchronize word clocks.
+
+Another way to transfer audio digitally between video cameras and decks is to use an HDMI, HD-SDI, or SDI link (see p. 237).
+
+AUDIO IN THE VIDEO CAMERA
+
+See Sound Recording for Video, p. 35, before reading this section.
+
+On many video shoots, the camcorder itself is the audio recorder. The audio recording capabilities depend on the particular camera and on the video format. For the basics of operating a camcorder, see Chapter 3. For instructions on setting the audio level, see p. 446.
+
+Mics and Inputs
+
+Consumer and prosumer camcorders usually have a built-in microphone, and professional camcorders typically provide a mount for attaching an external mic. On-camera mics can be very handy when working alone or for quick setups, but they are often too far from the subject to record good sound, they often pick up noise from the camera, and they can have other disadvantages (see The Microphone, p. 420).
+
+The built-in mics on consumer cameras often record in stereo (splitting the sound into left and right channels; see Stereo Recording, p. 461). Some can even record multichannel surround sound. This can be fine for informal recording and for gathering ambient sound or effects. You may also like the feel of stereo or surround sound. However, keep in mind that on professional productions, dialogue is typically recorded in mono, even if the movie is ultimately released in stereo or multichannel sound (see Chapter 15). When using an on-camera mic with a prosumer or professional camcorder you might use a mono mic and record to one of the channels.
+
+Another concern with DSLRs and consumer video cameras is that the mic inputs may have only miniphone jacks (see Fig. 10-32) and have no provision for higher-quality mics that use professional XLR cables or that need phantom power (see below). You can get an external preamp unit that has professional connectors (and phantom power if needed) and mounts on the bottom of the camera (see Fig. 10-14).
+
+Sometimes even on a good-quality camera, the mic preamps and audio circuits are noisy or have other defects. Recordists usually prefer to use a separate field mixer (see p. 430) to power the mics and control the volume, using a line-level connection into the camera (see below). Wireless microphones can be connected directly to the camera or through a mixer (see p. 428).
+
+DSLRs often suffer from the trifecta of bad microphones, poor-quality mic preamps, and lots of handling noise whenever you touch the camera. It’s worth using an external mic and, for critical recordings, a separate audio recorder as well.
+
+Fig. 10-14. The juicedLink DT454 preamp offers many enhancements for recording audio with a DSLR. Has four mic inputs (XLR and 3.5 miniphone stereo), phantom powering for mics, audio meters, and headphone jack. Provides manual gain control and can disable the camera’s AGC. (juicedLink)
+
+Number of Audio Channels
+
+Every video format can record at least two channels of audio, which can be used for recording two separate mono tracks or one pair of stereo tracks. For typical field production, you might put a boom mic on one channel and a wireless mic on the other.
+
+Some formats offer more channels. HDCAM SR can handle twelve. Recording on multiple channels provides more flexibility later, by keeping separate mics separate and not mixed together. However, managing multiple channels can add complexity to the process. If you want to record many tracks (perhaps for a five-channel surround-sound recording) you may have an easier time using a separate audio recorder and recording directly to file.
+
+Audio Quality
+
+Most digital video formats use 48 kHz sampling. Bit depth varies by format: DV, DVCAM, DVCPRO HD, and HDV use 16 bits, which is the most common bit depth for audio recording as of this writing. At a higher quality level, Digital Betacam and HDCAM use 20 bits; HDCAM SR uses 24 bits. DV typically records two channels of audio using a 48 kHz sample rate at 16 bits. Some DV cameras will also record four channels of audio at 32 kHz at 12 bits, which provides much lower quality and should be avoided.
+
+Many prosumer and most professional cameras can record uncompressed audio. This is usually indicated as PCM or linear PCM and is preferred as the highest quality. Some HDV cameras record compressed audio using MPEG-1 Audio Layer 2 compression at 384 Kbps. This lowered quality may work fine for you, although with some projects it may be better to record uncompressed.
+
+THE ANALOG TAPE RECORDER
+
+The benefits of digital are such that almost no analog recorders are still made. Reel-to-reel Nagra analog recorders have played a venerable role in the industry and some may still be in use.
+
+For an audio recorder to be used for sync-sound work, the speed must be precisely controlled. Digital recorders are generally accurate enough, but with analog, any recorder not specially adapted for sync work will have speed variations that cause the picture and sound to go out of sync. On a Nagra, the neopilot (or just pilot) tone is a signal that’s recorded on tape with the audio. On playback, the pilot is used to control the tape speed (called resolving) so the audio plays at exactly the speed it was recorded.
+
+The recording heads on an analog recorder must be kept clean and free from magnetic charge. The first sign of a dirty, worn, magnetized, or improperly adjusted head is the loss of high-frequency sounds—recorded material sounds muddy or dull. Heads should be cleaned with head cleaner or isopropyl (rubbing) alcohol. Buy some head-cleaning swabs or use a Q-tip and clean heads at least every few tapes to remove accumulated oxide.
+
+Fig. 10-15. Everything but the kitchen sink? Mounted on this Zacuto Z-Cage are: a light, an audio recorder, a monitor, and a wireless receiver. (Zacuto USA)
+
+THE MICROPHONE
+
+Microphone Types
+
+A few basic types of microphones are used in film and video production.
+
+Condenser microphones are used extensively. They are often quite sensitive and tend to be more expensive. Condenser mics use a capacitor circuit to generate electricity from sound, and they need power supplied to them to work. Power may come from batteries in the microphone case, on the mic cable, or in the recorder itself. Electret condenser mics employ a permanently charged electret capacitor, can be made very cheaply, and may require no power supply.
+
+Dynamic or moving-coil microphones are typically used by musical performers, amateur recordists, and many professionals. They are simpler and less sensitive than condensers, but are usually quite rugged and resistant to handling noise and they require no batteries or special power supply.
+
+Fig. 10-16. Electro-Voice 635 omnidirectional dynamic microphone. Simple and durable. (Electro-Voice)
+
+Directionality
+
+Every mic has a particular pickup pattern—that is, the configuration of directions in space in which it is sensitive to sound.
+
+Omnidirectional or omni microphones respond equally to sounds coming from any direction.
+
+Cardioid mics are most sensitive to sounds coming from the front, less sensitive to sounds coming from the side, and least sensitive to those coming from behind. The name derives from the pickup pattern, which is heart shaped when viewed from above. Supercardioid microphones (sometimes called short shotgun, minishotgun, or short gun) are even less sensitive to sounds coming from the side and behind. Hypercardioid microphones (long shotgun, shotgun, or lobar) are extremely insensitive to any sounds not coming from directly ahead. However, hypercardioid mics (and to a lesser extent supercardioids) have a certain amount of sensitivity to sound emanating from directly behind the mic as well. Because the names for these microphone types are not entirely standardized (one company’s “hypercardioid” is another’s “supercardioid”), be careful when you select a microphone.
+
+Bidirectional mics have a figure-eight pickup pattern with equal sensitivity on either side; these mics may be used in a studio placed between two people talking to each other.
+
+Fig. 10-17. Representations of the directional sensitivity of omni, cardioid, and supercardioid microphones (not drawn to the same scale). These indicate each mic’s response to sound coming from different directions. Imagine the omni mic at the center of a spherical area of sensitivity; the diaphragm of the cardioid mic is at about the position of the stem in a pattern that is roughly tomato shaped. Though the lobes of sensitivity are pictured with a definite border, in fact sensitivity diminishes gradually with distance. See Fig. 10-20. (Carol Keller)
+
+Fig. 10-18. Sennheiser K6 modular condenser microphone system. The powering module is at bottom (works with internal batteries or phantom power). Interchangeable mic heads range in directionality from supercardioid to omni. (Sennheiser Electronic Corp.)
+
+Boundary microphones (sometimes called PZMs, or pressure zone microphones) are mounted very close to a flat plate or other flat surface and have a hemispherical pickup pattern. These are sometimes used for recording a group of people when the mic can’t be close to each speaker, or when recording music (mounted on a piano, for instance).
+
+Manufacturers print polar diagrams—graphs that indicate exactly where a microphone is sensitive and in which directions it favors certain frequencies. It’s important to know the pickup pattern of the mic you are using. For example, many people are unaware of the rear lobe of sensitivity in some hyper- and supercardioid mics, which results in unnecessarily noisy recordings.
+
+Hyper- and supercardioid microphones achieve their directionality by means of an interference tube. The tube works by making sound waves coming from the sides or back of the mic strike the front and back of the diaphragm simultaneously so that they cancel themselves out. In general, the longer the tube is, the more directional the mic will be. For proper operation, don’t cover the holes in the tube with your hand or tape. Usually, the more directional a microphone is, the more sensitive it will be to wind noise (see Windscreens and Microphone Mounts, p. 424).
+
+Contrary to popular belief, most super- and hypercardioid mics are not more sensitive than cardioid mics to sounds coming from directly ahead; they are not like zoom lenses; they don’t “magnify” sound.10 However, directional mics do exclude more of the competing background sound, so that they can produce a good recording at a greater distance from the sound source—as recordists say, the “working distance” is greater.
+
+Fig. 10-19. Mounted on a flat surface, a boundary mic uses the surface to boost its audio response. (Audio-Technica U.S., Inc.)
+
+Fig. 10-20. Polar diagrams indicating the sensitivity of omnidirectional, cardioid, and supercardioid microphones. Imagine each diagram as a cross section of the mic’s sensitivity, with the microphone lying along the vertical axis (as the omni mic is here). The microphone’s diaphragm would be positioned at the center of the graph. (Carol Keller)
+
+One disadvantage of highly directional mics is that you may encounter situations in which it’s hard to capture important sounds within the narrow lobe of sensitivity. A classic case is trying to record a two-person conversation with a long shotgun mic: When the mic is pointed at one person, who is then on axis, the other person will be off axis, his voice sounding muffled and distant. Panning a long microphone back and forth is an imperfect solution if the conversation is unpredictable. In such cases, it may be better to move far enough away so that both speakers are approximately on axis. Unfortunately, the best recordings are made when the microphone is close to the sound source. A less directional mic, or two mics, would be better.
+
+Microphone Sound Quality
+
+Microphones vary in their frequency response. Some mics emphasize the bass or low frequencies, others the treble or high frequencies.
+
+The frequency response of a microphone or recorder is shown on a frequency response graph that indicates which frequencies are favored by the equipment. Favored frequencies are those that are reproduced louder than others. An “ideal” frequency response curve for a recorder is flat, indicating that all frequencies are treated equally. Many mics emphasize high-frequency sounds more than midrange or bass frequencies. Recordists may choose mics that favor middle to high frequencies to add clarity and presence (the sensation of being close to the sound source) to speech. Some mics have a “speech” switch that increases the midrange (“speech bump”). In some situations, a mic that emphasizes lower frequencies may be preferred. For example, a male vocalist or narrator might like the sound coloration of a bassy mic to bring out a fuller sound. A large-diaphragm mic, like the Neumann U 89, can be used for a “warm” sound.
+
+Sometimes recordists deliberately roll off (suppress) low frequencies, especially in windy situations (see Chapter 11).
+
+When you purchase a mic, check the frequency response graph published by the manufacturer. An extremely uneven or limited response (high frequencies should not drop off significantly before about 10,000 Hz or more) is some cause for concern.
+
+One of the things that distinguishes high-quality mics is low “self-noise”—the mic itself is quiet and doesn’t add hiss to the recording.
+
+The microphones that come with recorders and cameras are often not great and may need to be replaced. Set up an A/B test where you can switch from one mic to another while recording. However, you may find that you prefer the sound of the less expensive of two mics. An A/B test is especially important if you need two matched microphones for multiple-mic recording (see Chapter 11).
+
+Fig. 10-21. (A) The relatively flat frequency response of a good-quality audio recorder. Where the graph drops below the 0 dB line indicates diminished response. (B) A microphone frequency response curve. This mic is more sensitive to high frequencies. The three parts of the curve at left represent increasing amounts of bass roll-off controlled by a built-in, three-position switch (see p. 459). (Carol Keller)
+
+Windscreens and Microphone Mounts
+
+The sound of the wind blowing across a microphone does not in the least resemble the gentle rustle of wind through trees or the moan of wind blowing by a house. What you hear instead are pops, rumble, and crackle. When recording, don’t let wind strike a microphone (particularly highly directional mics) without a windscreen. A windscreen blocks air from moving across the mic.
+
+Fig. 10-22. (left) Rycote rubber shock mount and pistol grip. (right) The Rycote Softie windscreen works well in windy conditions. (Rycote Microphone Windshields, Ltd.)
+
+A minimal windscreen is a hollowed-out ball or tube of Acoustifoam—a foam rubber–like material that does not muffle sound (see Fig. 8-10). This kind of windscreen is the least obtrusive and is used indoors and sometimes in very light winds outside. Its main use is to block the wind produced when the mic is in motion and to minimize the popping sound caused by someone’s breathing into the mic when speaking.
+
+For breezier conditions, a more substantial windscreen is needed. Many recordists carry a soft, fuzzy windscreen with built-in microphone mount, such as the Rycote Softie (see Fig. 10-22). A Softie can also be used to cover a camera mic. For heavier wind, a windscreen called a zeppelin can be used.11 Like its namesake, this is large and tubular; it completely encases the mic. In strong winds, an additional socklike, fuzzy covering can be fitted around the zeppelin. A good windscreen should have no noticeable effect on the sound quality in still air.
+
+When you are caught outside without an adequate windscreen, you can often use your body, the flap of your coat, or a building to shelter the mic from the wind. Hide a lavalier under clothing or put the tip of a wool glove over it (see below). Often, a bass roll-off filter helps minimize the rumble of wind noise (see Chapter 11). Omni mics may be the least susceptible to wind noise.
+
+Besides wind noise, microphones are extremely sensitive to the sound of any moving object, such as hands or clothing, that touches or vibrates the microphone case. Hand noise, or case noise, becomes highly amplified and can easily ruin a recording with its rumbly sound. The recordist should grip the microphone firmly and motionlessly, grasping the looped microphone cable in the same hand to prevent any movement of the cable where it plugs into the mic. Even better, use a pistol grip that has a shock mount (usually some form of elastic or flexible mounting) to isolate the mic from hand noise (see Fig. 10-22).
+
+Fig. 10-23. A zeppelin windscreen for a shotgun mic, shown with a pistol grip and mounted on a microphone boom pole. (Carol Keller)
+
+In many recording situations, a fishpole (collapsible) boom should be used to enable the recordist to stand away from the action (see Figs. 1-1 and 1-28). A shock mount will isolate the mic from hand or cable noise on the boom.
+
+Lavalier or Lapel Microphones
+
+Lavalier microphones (lavs) are very small mics generally intended to be clipped on the subject’s clothing. Also called lapel mics, these are often used with a wireless transmitter (see below) or may be connected by cable to the recorder. Most TV news anchors wear one or two lavs clipped on a tie or blouse. Lavaliers are quite unobtrusive and are easy to use when there isn’t a sound recordist. Lavs are often used for interviews because they can result in clear, loud voice tracks. They’re useful for recording in noisy environments because they’re usually positioned so close to the person speaking that they tend to exclude background sound and the reverberation of the room. However, this also results in a “close” sound, which sometimes sounds unnatural. Many professional recordists don’t like using lavs and prefer the sound from a good cardioid or hypercardioid mic on a boom because it’s more natural, more “open,” and it doesn’t risk clothing or body noises. In some situations like interviews, recordists will mic with a lavalier on one track and a boom mic on another. The lav should get a clear voice track; the boom, if it’s a good mic, may actually get a better voice track but will also get more of the room sound. Avoid mixing both mics on the same channels in the field, and even if you record to separate channels, be careful in post because you can get phase cancellation if both mics are up (see p. 460). Some good lavaliers, like the Sanken COS-11D, sound surprisingly similar to boom mics and the audio from the two can intercut well (see Fig. 10-26).
+
+Fig. 10-24. Lavalier mic. The Tram TR-50 is widely used by ENG video crews. Shown here with a vampire clip for attaching to the outside or inside of clothing.
+
+Fig. 10-25. When clipping a lav on clothing, make a loop with the cable under the clip in back to keep the cable neatly tucked in and to provide strain relief so any tugs on the cable won’t pull directly on the mic.
+
+Most lavaliers are omnidirectional, although cardioid lavs are available. Many have a flat frequency response. However, when you clip a mic on someone’s shirt you may get too much bass (from being right over the chest cavity) and not enough treble (since the mic is out of line with the speaker’s mouth). Some lavs have a midrange speech bump (see Microphone Sound Quality, p. 423), which can compensate for an overly bassy source.
+
+A good position for a lavalier is in the middle of the chest at the sternum (breastbone). For subjects wearing a T-shirt or sweater, sometimes the mic is clipped on at the collar. The problem with collar placement is it may be too close to the subject’s voice box and and/or cause sound variations if the subject turns her head away from the mic. If the subject is looking generally in one direction (perhaps for an interview), put the lav on that side of her collar.
+
+There are various types of clips and mounting systems (not all are available for all mics). Most have standard clothing clips. A vampire clip has two pins and mounts flat against clothing (see Fig. 10-24). Some mics have rubber enclosures for mounting under clothing.
+
+Often it is preferable to hide the mic; for shooting dramatic material, it’s essential. Clip or tape the mic under clothing, but listen carefully for case noise caused by the cloth rubbing on the mic. Silk and synthetic fabrics are the worst for noise; cotton and wool are often fine. Small frames or cages are available to provide separation between the cloth and the mic. You can improvise with some rolled-up tape to prevent rubbing. Some recordists prefer to tape the clothing to both sides of the mic to keep it from moving on the mic case.
+
+Leave enough slack in the cable so that the body movements don’t pull on the mic; make a small loop in the cable for strain relief and tape or clip it in place (see Fig. 10-25). Sometimes you can get better sound by hiding a lav in the subject’s hair or a hat. Carry some moleskin or surgical tape for taping mics to skin. For more on using lavaliers, see Chapter 11.
+
+Fig. 10-26. The Sanken COS-11D lavalier has a very small capsule that can be hidden in clothing or hair. The mic would normally be tucked under the tie’s knot to hide it. Also comes with a rubber sleeve that can be taped inside clothing. (Steven Ascher)
+
+Wireless (Radio) Microphones
+
+Both camera and subject gain greater freedom of movement with a wireless, or radio, microphone. A wireless isn’t really a mic at all, just a radio transmitter and receiver. In a typical film or video shoot, a lavalier mic is clipped on the subject and plugged into the concealed transmitter, which is about the size of a pack of cards. A receiver mounted on the recorder or camera picks up the signal with a short antenna. Wireless sound quality is sometimes not as high as with hard-wired mics (mics connected by cables), but wireless systems can work beautifully and are used regularly in professional productions. High-end systems can cost thousands, although much more affordable wireless systems costing a few hundred dollars are surprisingly good. Some systems are digital, others analog, and some combine both technologies.
+
+Fig. 10-27. Wireless mic. Sennheiser evolution wireless system with bodypack transmitter, receiver, lavalier mic, XLR cable, and plug-on transmitter for handheld mics. This affordable UHF wireless system offers a wide choice of frequency bands so you can avoid radio interference. (Sennheiser Electronic Corp.)
+
+Using a wireless opens up many possibilities for both fiction and documentary shooting. You never need to compromise camera angles for good mic placement, since the mic is always close to the subject but out of view. In unscripted documentaries, there are great advantages to letting the subject move independently, without being constantly followed by a recordist wielding a microphone boom. Some people feel uncomfortable wearing a wireless, knowing that whatever they say, even in another room, can be heard. As a courtesy, show the person wearing the mic where the off or mute switch is. Some recordists object to the way radio mics affect sound perspective: unlike in typical sound recording, when the subject turns or walks away from the camera wearing a wireless, the sound does not change.
+
+A wireless transmitter and receiver can be used for many purposes: to connect a handheld mic, a standard boom mic, or a mic mixer to the camera or recorder; or to transmit timecode or a headphone feed on the set.
+
+Wireless transmission is not completely reliable. Depending on any physical obstructions and competing radio transmissions in the area, wireless signals may carry up to several hundred feet or they may be blocked altogether. Newer wireless systems offer a choice of radio frequencies, usually within a particular range or “block” (systems that offer multiple frequencies are called “frequency agile”). There have been big changes and restrictions in the frequencies that are legally available for wireless audio. Talk to a recordist or dealer to find the frequencies that are legal and likely to be interference-free in the area where you’re shooting; lists of open frequencies should also be available on the websites of wireless manufacturers such as Sennheiser and Lectrosonics.
+
+Always position the receiving antenna as close to the transmitter as possible. If the signal breaks up (either gets noisy or is lost altogether), experiment with different antenna positions. Try tuning to a different channel and make sure the transmitter and receiver are on the exact same frequency. Some systems broadcast on more than one frequency simultaneously to avoid breakup. “Diversity” radio mics use multiple antennas for the same reason. Inexpensive consumer wireless systems can get interference from many household sources. Avoid electric motors, computer monitors, and other electronic interference. Make sure the squelch control is properly adjusted to prevent noise when the radio signal is lost.
+
+Check and/or replace transmitter and receiver batteries every few hours.
+
+Many lavalier mics are available with connectors designed for a particular wireless transmitter, allowing them to get any needed power from the transmitter and keeping the cabling compact. Try to get a mic matched to your wireless.
+
+Most professional wireless transmitters use a limiter (see p. 454) to prevent excess volume levels. Many models have a level adjustment and some have a light to indicate excess volume. With the subject speaking normally, turn the level up on the transmitter until the light flashes often, then turn it down a bit. For more on level adjustments, see Chapter 11.
+
+Fig. 10-28. Lectrosonics wireless receiver with superminiature transmitter. Lectro makes some relatively affordable units, but many are very high-quality, expensive systems for pros. (Lectrosonics, Inc.)
+
+Wireless receivers can be mounted directly on a camera with various brackets or plates. For handheld work with a small camera, this may increase the camera’s weight noticeably, especially when more than one receiver is used.12 You can also put receivers on your belt or in a shoulder bag with a wire to the camera (see Fig. 11-1). It’s important to match the output level of the receiver to the audio input on the camera or recorder. Some receivers work at line level, others at mic level, and some are switchable. For more on this, see Mic and Line Level, p. 431, and Gain Structure, p. 455.
+
+An Alternative to Wireless
+
+There are some very small recorders that can be placed on the subject to record independently of the camera. These include small flash memory recorders, such as the Zoom H4N (see Fig. 10-6) or the higher-end Zaxcom ZFR100 (see Fig. 10-11). These could be used instead of wireless or if you don’t have enough transmitters or if radio reception is poor. You need to sync the audio in editing (see Recording Double System for Film and Video, p. 464). The ZFR100 can be controlled wirelessly with the camera’s timecode signal, allowing remote start and stop from the camera and autosyncing in the editing room.
+
+Fig. 10-29. Portable microphone mixer. The Shure FP33 is an affordable analog mixer, used by many crews over the years.
+
+Field Mixers
+
+A field mixer or microphone mixer allows you to take inputs from various audio sources, combine and control them, and then output the signal to a camera or recorder. A mic mixer could be used to control a single boom mic (see Fig. 1-28) or to balance multiple mics (such as combining a wireless with a boom mic). Sometimes when recording a person giving a speech in a lecture hall, instead of using your own mics you get a house feed from the facility’s public address (PA) system. A field mixer can be used to control that signal before recording it.
+
+Most mixers have two or more input channels to control the level of different inputs and one or more master faders to control the level of the combined output. A new generation of mixers combine mixing and recording capability in one unit (see Figs. 10-10 and 10-30). For more on mixer controls, see p. 640.
+
+Microphone Power
+
+The electric power needed to run a condenser microphone may come from a battery in the mic or on the cable. Power may also come from the mic preamp (sometimes called just a “mic pre”) in the camera, recorder, or mixer; the most common version of this method is 48-volt phantom power (the mic input is often labeled “+48V”; see Fig. 10-31).13 Phantom power frees you from carrying an extra set of batteries for the mic. Always check that your mic is compatible with the power supply before plugging it in or you could damage the mic (dynamic mics and some condensers—especially those that have their own batteries—should not be used with the +48V setting).
+
+Fig. 10-30. Sound Devices 788T twelve-track, high-end audio recorder, shown with 552 mixer. The 552 mixer can also record digital audio internally to SD or SDHC media. (Sound Devices, LLC)
+
+On some recorders, if the microphone input is set up for phantom powering, it will not accept dynamic mics or condensers that have their own power; but on many machines it can be switched either way. Phantom powering sometimes involves rewiring microphone cables to reverse, or “flip,” the phase, making them not interchangeable with normally wired cables.
+
+AUDIO CONNECTIONS
+
+Microphones, mixers, and recorders can be connected in various ways. Not all are compatible and they may need an adapter or device to make the connection work. It’s worth learning the names of connectors used for audio cables. All connectors have male and female forms; the male is sometimes called the plug, the female, the jack (see Figs. 10-13 and 10-32).
+
+Mic and Line Level
+
+The audio inputs on many cameras and recorders can be switched between mic level for taking signals directly from microphones and line level for connecting other types of audio equipment. Professional gear may have a three-way switch: “line,” “mic,” and “mic +48V” (see above). On some machines, there are separate sets of inputs and outputs at mic and line level. Some systems have a trim control to tweak the level of an input up or down to better match the source to the recorder.
+
+If you have a choice, it’s generally advantageous to use line inputs and outputs to connect mixers, recorders, and wireless receivers. The line level is much stronger than mic level and less susceptible to interference. Never plug a line-level signal into a mic-level input or damage could result. If you plug a mic-level signal into a line-level input, the signal will be weak, but you may be able to boost it enough to be usable.
+
+Fig. 10-31. Audio input selector on a Sony camcorder. Note choice of input level including Line, Mic, and Mic ATT (short for “attenuator,” this reduces the level by 20 dB for loud situations). When mic input is selected, you can choose “+48 volt” for condenser mics that require phantom power or select Off for self-powered condensers and dynamic mics. (Sony Electronics, Inc.)
+
+Another thing to keep in mind is that line level comes in a professional version (+4 dBu) and a lower-powered consumer version (which may be indicated as −10 dBV).14 This means that if you plug the line output of a consumer camera into the line input of a professional deck, the signal may be too quiet and possibly noisy. Going the other way (from the line output of a professional machine to the line input of a consumer machine), the signal may be too loud and possibly distorted. A line pad or attenuator can be used to reduce signal level. Also, professional line outputs are usually balanced, while consumer line outputs are usually unbalanced (see below).
+
+Balanced Cables
+
+Interference and hum from nearby power lines, automobile engines, fluorescent lights, and radio stations can be a problem. The best solution is to use a microphone and recorder that are connected by a balanced cable. In a balanced mic cable, the two wires of a standard cable are enclosed in a sheathlike third wire that insulates them from electric interference (see Fig. 10-32). Balanced cables can usually be recognized by the three contacts, instead of two, in the connectors at either end. Most professional audio gear that has balanced inputs or outputs uses either XLR cables or cables with three-contact 1⁄4-inch plugs (also known as TRS for tip, ring, sleeve). If a piece of equipment has only RCA or 1⁄8-inch mini connectors, these are not balanced inputs so mic cables will be susceptible to interference. If you connect a balanced mic cable to an unbalanced cable or unbalanced input using an adapter, the signal will not be balanced.
+
+Fig. 10-32. Audio connectors. (A) 1⁄4-inch males and female. A three-contact (also called TRS) stereo plug is at left, a two-contact (TS) mono plug is in the center. The three-contact version can be used for balanced cables. (B) RCA or phono male and female. (C) Mini phone or simply mini male and female. This is a miniaturized version of the 1⁄4-inch connector (diameter is 1⁄8 inch—3.5mm—instead of 1⁄4 inch). There is a stereo version of this plug, recognizable by the two black insulator bands (see A). There is also a sub-mini plug that’s even smaller—2.5mm. (D) Three-pin Tuchel male and female. The sleeve on the female engages the threads on the male. This Tuchel is a variant of a DIN connector. (E) Three-pin XLR or Cannon connectors. The male and female snap together. Both XLR and Tuchel connectors may have more than three pins. The female XLR is pictured with the insulation cut away to show the balanced or stereo cable with the two signal wires encased in the sheathlike ground. (F) Banana plugs and jacks. For more audio and video connectors, see Figs. 3-14, 5-14, and 10-13. (Carol Keller)
+
+Whenever you get electrical interference, try moving the recorder or the cable to another position. In the field, it can help to wrap the microphone cable, especially the connectors, or even the recorder, in aluminum foil. Sometimes when you connect two pieces of equipment, a low (50 Hz or 60 Hz) humming sound results if either piece is plugged into the AC wall current. If this happens, connect a ground wire between the case of one machine and the case of the other or ground them both to a common point.
+
+Impedance
+
+Impedance is a measure of the resistance of any audio device to the flow of electric current. Impedance, sometimes represented by Z, is measured in ohms. The impedance of a microphone may be low or high; the same is true for the microphone input on the mixer or recorder. Usually, professional microphones with XLR connectors have low impedance. It is important to use a low-impedance mic with a low-impedance mic input, or a high with a high. Exact matching is not necessary.
+
+Historically, low impedance was 600 ohms (often written 600 Ω) or less, while high-impedance devices were around 10,000 (10k) ohms or more. Today many mics and camera inputs have impedances in the range of 100 to 2,000 Ω and most modern mics, cameras, and recorders should work fine together.
+
+Low-impedance equipment is preferable because it allows you to use up to several hundred feet of microphone cable without picking up hum and interference from AC wall current and radio stations. With high-Z (high-impedance) equipment, lengths over six to ten feet may result in various types of noise. If you’re using an old mic or recorder and impedances are mismatched, use a matching transformer on the mic cable. Try to put it closest to the piece of equipment with the higher impedance.
+
+1. If a video recording lacks high frequencies, fine detail in the picture may be lost, making it appear unsharp.
+
+2. Bit depth is also called bit length and word length.
+
+3. Digital systems use binary (base 2) numbers, and each digit is a bit. Eight bits is 28, which is 256.
+
+4. When the sound level is very low—near the noise floor—there is a noticeable difference between 16-bit and 24-bit recording.
+
+5. Systems that use dither actually allow you to hear sounds below the lowest level. Dither is a special form of low-level random noise. Generally, dither should be used when converting from a high bit depth to a lower one (such as converting 24 bits to 16 bits).
+
+6. ADAT is also a protocol for eight-track digital recording that can be used with other recording media.
+
+7. As noted elsewhere, don’t confuse data compression used to make smaller files with audio compression used to limit loudness.
+
+8. Standard WAVE files have the extension .wav. Broadcast Wave files can have either .wav or .bwf. Some software can’t read the metadata in the BWF file header and will play only the audio using the extension .wav. BWF files may have additional metadata included in iXML format.
+
+9. The size of the buffer varies between machines and may depend on sample rate.
+
+10. Parabolic mics, which look like small satellite dishes (sometimes used at sporting events), actually do have a magnifying (amplifying) effect.
+
+11. In the UK, windscreens are called “windshields,” and zeppelins may be called “blimps.”
+
+12. Zaxcom makes a wireless system that can transmit two audio channels to one receiver, lightening the load a bit.
+
+13. Another flavor of phantom power is 12V T-power.
+
+14. The consumer version is actually about 12 dB lower than pro level. The dBu scale measures voltage relative to a 0.7746 volt reference, whereas the dBV scale uses 1.000 volt as a reference. So consumer level is the equivalent of -7.78 dBu.

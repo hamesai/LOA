@@ -1,0 +1,65 @@
+1. If your computer lacks analog inputs, you can also record analog audio sources with an inexpensive A/D converter that plugs into a USB port, such as the Griffin iMic or the Tascam US-200 (see Fig. 10-8).
+
+2. With Final Cut Pro X, if you choose to transcode on import, the system stores both your original media and the transcoded media in your Final Cut Events folder. Transcoding can take place in the background while you work.
+
+3. With fast SSDs, this may not be necessary.
+
+4. If you’ve used iMovie, you’ll find more things in common.
+
+5. Depending on the NLE, the ability to handle files natively may depend on having the proper plug-ins or codecs on the system.
+
+6. In Final Cut Pro X, you select which event to capture to.
+
+7. Some people instead mark individual clips and capture them one at a time—sometimes called “capture in to out,” which results in a lot of unnecessary rewinding and wear on the tape and machine. Final Cut Pro X only works this way and will not do batch capturing.
+
+8. You should set the NLE to make a new clip at each timecode break and to abort capture on dropped frames. If there are many timecode breaks, sometimes it’s best to dub the material to another tape with continuous timecode, and use that tape as the master for capturing and online editing.
+
+9. Later versions will have an option for a two-window layout.
+
+10. In Final Cut Pro X, the same thing is done by selecting a range on the source clip, which can be done by dragging across the clip or by marking with keyboard commands.
+
+11. Note that the dBs on a clip in the timeline refer to level adjustments on that particular clip; only the audio meter can tell you the resulting audio level of that clip and any other clips playing together with it. Also see the discussion of sound level starting on p. 659.
+
+12. In some cases, you may need to “invert” an alpha channel (reversing the tonal values) to make it compatible with your system.
+
+13. For example, Apple recommends building a graphic at 720 x 540 in a graphics program so it will look normal when shown in nonwidescreen NTSC 720 x 480 DV.
+
+14. Motion and After Effects both offer preset moves to provide smooth ramping.
+
+15. Actually, when film is converted to 60i, the speed is reduced by 0.1 percent. More on this below.
+
+16. If you have a 60i clip that came from a shot with 2:3:3:2 pulldown, you can recognize it because every group of five frames has one interlaced frame, whereas material shot with 2:3 pulldown has two. To tell which frames are interlaced, step through the footage one field at a time and look for unevenness between fields.
+
+17. Some high-end digital cinematography cameras can be operated at exactly 24 fps.
+
+18. In FCP X, each project contains only one sequence.
+
+19. Assuming you’re not working with a shared storage system, in which case moving the files is not necessary.
+
+20. Note that this doesn’t work between legacy versions of Final Cut and FCP X. Also, as of this writing, the third option will exclude unused media files, but it won’t trim or shorten the included files to the length actually used in the project.
+
+21. In some cases, not everything in a project translates correctly. For example, titles may be in the wrong font, or audio levels may be lost.
+
+22. Media without timecode may need to be replaced manually.
+
+23. Other intermediate codecs that can be used for mastering include AIC (Apple Intermediate Codec), Animation, and CineForm.
+
+24. In Europe and the UK, programs often start at 10:00:00:00 timecode.
+
+25. Some servers and playback devices require constant bit rate (CBR) encoding.
+
+26. Anamorphic widescreen (16:9) SD would be 853 x 480.
+
+27. Note that this use of “insert” is different from insert edits used in NLEs. In fact, insert editing with a tape deck is much more like overwrite edits with an NLE.
+
+28. It is also possible to store an HD file on a DVD; it won’t play in a DVD player but can be played on some computers.
+
+29. For Academy Awards qualification you need at least three audio channels (left, center, right) and not merely two-channel (left, right) stereo.
+
+30. If your project will be shown only on computer monitors and never on video, you have more leeway in setting levels.
+
+31. Premiere’s filter will also remove unsafe RGB colors that fall outside the NTSC or PAL gamut.
+
+32. Some applications, like Photoshop, have a black-and-white filter that allows you to adjust how color converts to monochrome, which can be very useful for separating, say, a red area from a blue area that would otherwise have the same tone in black-and-white.
+
+33. This use of “mode” is different from the edit mode discussed on p. 633.

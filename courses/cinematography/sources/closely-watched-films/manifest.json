@@ -1,0 +1,136 @@
+{
+ "key": "closely-watched-films",
+ "title": "Closely Watched Films: An Introduction to the Art of Narrative Film Technique",
+ "author": "Marilyn Fabe",
+ "file": "Closely Watched Films.epub",
+ "format": "epub",
+ "sha256": "009168d8b905dc7c15818a7af675e77bdaed71d8865e69c59ae3ada1f0b5c630",
+ "words": 106033,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Closely Watched Films: An Introduction to the Art of Narrative Film Technique",
+   "words": 166
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Title and Copyright",
+   "words": 180
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Contents",
+   "words": 190
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "List of Illustrations",
+   "words": 1017
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Acknowledgments",
+   "words": 487
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Introduction",
+   "words": 1601
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "1 The Beginnings of Film Narrative: D.W. Griffith’s The Birth of a Nation",
+   "words": 7007
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "2 The Art of Montage: Sergei Eisenstein’s The Battleship Potemkin",
+   "words": 6157
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "3 Expressionism and Realism in Film Form: F.W. Murnau’s The Last Laugh and Charles Chaplin’s The Adventurer",
+   "words": 7510
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "4 The Conversion to Sound and the Classical Hollywood Film: Howard Hawks’s His Girl Friday",
+   "words": 8158
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "5 Expressive Realism: Orson Welles’s Citizen Kane",
+   "words": 7280
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "6 Italian Neorealism: Vittorio De Sica’s The Bicycle Thief",
+   "words": 7507
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "7 Auteur Theory and the French New Wave: François Truffaut’s The 400 Blows",
+   "words": 5720
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "8 Hollywood Auteur: Alfred Hitchcock’s Notorious",
+   "words": 4959
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "9 The European Art Film: Federico Fellini’s 8 1/2",
+   "words": 7377
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "10 Film and Postmodernism: Woody Allen’s Annie Hall",
+   "words": 6963
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "11 Political Cinema: Spike Lee’s Do the Right Thing",
+   "words": 6570
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "12 Feminism and Film Form: Patricia Rozema’s I’ve Heard the Mermaids Singing",
+   "words": 7535
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "13 Epilogue: Digital Video and New Forms of Narrative in Mike Figgis’s Timecode",
+   "words": 5452
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "Notes",
+   "words": 6645
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "Glossary",
+   "words": 3369
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "Bibliography",
+   "words": 1764
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "Index",
+   "words": 2419
+  }
+ ],
+ "warnings": [],
+ "text_quality": {
+  "common_word_share": 0.347,
+  "odd_character_share": 0.002
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-19",
+  "note": "Date is when the file arrived in the source ingest folder."
+ }
+}

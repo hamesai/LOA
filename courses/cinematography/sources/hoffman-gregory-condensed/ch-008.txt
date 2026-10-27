@@ -1,0 +1,1187 @@
+Chapter VIII
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+By J. I. Crabtree
+(Research Laboratory, Eastman Kodak Co., Rochester, N. Y.)
+ALTHOUGH the majority of amateur photographers prefer
+to purchase photographic chemicals in a condition ready
+for use, in the case of advanced amateurs, professional
+photographers and motion picture producers who use chemicals
+on a large scale, it is customary for them to prepare the various
+photographic solutions from the component chemicals.
+In order to be able to prepare correctly any and every solution
+used in photography a knowledge of the properties of the chemicals used and of the chemical reactions involved during the mixing is essential, though by adhering strictly to printed directions
+it is usually possible for an unskilled worker to prepare the developing and fixing solutions as generally used. However, instructions for the use of various materials differ. For example,
+in the case of some developing formulae it is recommended to
+dissolve the Elon first, while according to others the sulphite
+should be dissolved first. Both methods may be right, but if a
+systematized method of mixing is followed, and especially if the
+photographer has a knowledge of the reactions involved, then he
+can proceed to mix any developing solution with confidence, and
+what is more, he will be able to locate the trouble if for any
+reason the solution does not work correctly after mixing.
+It is the purpose of the author to describe in as non-technical
+language as possible the systematized method of preparing solutions now practiced in the Research Laboratory of the Eastman
+Kodak Company.
+Definitions
+A solution of any kind is obtained by dissolving a solid or a
+liquid in another liquid (or solid). The substance being dissolved is called the solute and the liquid in which it is dissolved
+is called the solvent. The extent to which the solute is soluble in
+100
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+the solvent is called its solubility and when the solvent will hold
+no more of the solute it is said to be saturated.
+The degree of solubility of any chemical depends on the nature
+of the solvent and on the temperature, which should always be
+stated.
+If a saturated solution is cooled down to a lower temperature,
+crystals usually form which settle out until the saturation point is
+reached at that particular temperature, though in the case of a
+substance like hypo, if all dust is excluded, crystals do not separate out on cooling, and a so-called super-saturated solution is obtained. However, if a small crystal of hypo is added to the
+solution, crystals immediately form and continue to grow until
+the saturation point is reached. The best method of preparing
+a saturated solution therefore is to dissolve the chemical in hot
+water, cool to room temperature with shaking, allow to stand,
+and filter.
+Meaning of "Water To"'
+When a chemical is dissolved in water the volume of the solution is usually greater than that of the water used, because the
+particles or molecules of the chemical occupy a certain space when
+in solution. In case two liquids are mixed, the final volume of
+the liquid is not necessarily equal to the sum of the volumes of
+the liquid is not necessarily equal to the sum of the volumes of
+fifty volumes of alcohol when added to fifty volumes of water at
+70° F., produce ninety-seven volumes of the mixture and not one
+hundred. Moreover, equal weights of different chemicals do not
+occupy the same volume.
+In photography we are concerned only with the weight or
+volume of each chemical in a fixed volume of the solution, so
+that when mixing, the chemical should be dissolved in an amount
+of water appreciably less than that called for in the formula and
+then water added up to the amount stated.
+The Metric System of Weights and Measures
+In photographic practice, solids are weighed and liquids are
+measured either by the metric or the avoirdupois system.
+Although a large majority of photographers use the avoirdupois system of weights and measures, this system is inconvenient and complicated as compared with the metric system.
+in
+
+MOTION PICTURE PH'OTO G R A P H Y
+The metric unit of length is the meter (which means measure).
+The meter is divided into one hundred parts called centimeters,
+abbreviated to cms.
+The unit of volume is the cubic centimeter, written cc, or ccs.
+in the plural, looo ccs. being equal to one liter or i L. The cubic
+centimeter is sometimes termed a milliliter or ml. (meaning one
+thousandth part of a liter) though the term cc. is satisfactory for
+photographic purposes.
+The unit of weight is the gram which is the weight of i cc. of
+water at 4° C, at which temperature a given volume of water
+weighs the most. The gram is written Gm. for short, the capital
+letter G being used to differentiate between Gms. (grams) and
+grs. (grains).
+For compounding photographic formulae only Gms., ccs., and
+liters are used, and fractions are always expressed as a decimal
+just as in the case of the U. S. currency which is a metric currency. The beginner should therefore think of grams and parts
+of a gram as if they were dollars and cents. Thus 5.35 Gms.
+corresponds to $5.35 or 5 35/100 dollars.
+The Avoirdupois System
+In photography the following table is used
+:
+Weight Volume
+437 grains = i ounce 60 minims = i fluid drachms
+8 drachms= i ounce. 8 fluid drachms == i fluid ounce
+16 ounces = i pound 480 minims = i fluid ounce
+16 ounces = i pint
+128 ounces = i gallon
+The Conversion of Formulae
+Every photographer should be able to convert a formula given
+in avoirdupois terms into metric equivalents without reference
+to a table. It is simply necessary to remember that
+—
+15 grains = i Gm.
+I ounce = 30 Gms.
+I fluid ounce =: 30 ccs.
+I gallon = 4 liters
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTION S
+from which it is readily deduced that
+—
+2 pounds (roughly)= i kilogram
+I ounce " = 450 grs.
+I pint " = 550 CCS.
+I cc " = 50 minims
+The foregoing conversion table is not strictly correct, for
+example one gram= 15,432 grs., i oz.= 28.35 Gms. and i fluid
+oz.= 29,43 CCS. In taking i Gm. as an equal to 15 grs. we are
+making an error of four parts in 154, or nearly 3%, but in
+photography an error of 5% in most cases is permissible. Thus
+if a formula called for 453^2 grs., if this were cut to an even
+450, the difference would not be detectable by photographic means,
+though if a quantity of 65/2 grains were cut to 5 grs., then the
+error (20%) would be serious.
+Uniformity in Formulae
+Formulae should always be given in both metric and avoirdupois equivalents, but in some cases the proportions are given for,
+say, 40 ozs., in one case and i L. in the other. Now, 40
+ozs.= 1,200 CCS., so that the several quantities are not equivalent.
+This leads to error in case the chemicals are weighed out with
+avoirdupois weights and the solution made up to strength in a
+liter graduate, though if these quantities are given for 32 ozs. of
+solution which are equivalent to 960 ccs., or roughly i L., no
+serious trouble will arise if the above mistake is made.
+The order in which the ingredients are given in the formulae
+is of importance. In some cases water is placed first, in other
+cases last, but since all developers are mixed with water, its position should be last in the formula. The ingredients should be
+given in the order in which they are dissolved, which is as follows: (i) preservative, (2) developing agent, (3) accelerator, (4)
+restrainer, (5) water to.
+Percentage Solutions
+In photography two kinds of solutions are used as follows
+:
+(a) A solid in a liquid.
+(b) A liquid in a liquid.
+103
+
+MOTION PICTURE PHOTOGRAPHY
+(a) The misunderstandings which have arisen from time to
+time regarding the correct method of preparing solutions of a
+definite percentage strength is due to the fact that there are
+three ways of doing it. For example, we can make a 5% solution of potassium bromide as follows
+:
+(i) Dissolve 5 Gms. in 100 ccs. of water.
+(2) Dissolve 5 Gms. in 95 Gms. of water making 100 Gms.
+of solution.
+(3) Dissolve 5 Gms. in a liter of water and make up to 100 ccs.
+In case (l) we have about 103 ccs. of solution and in case (2)
+about 98 ccs. A chemist would use method (2), but method
+(3) is used when preparing photographic solutions. Method
+(i) is not used for the reason given above, namely, that equal
+weights of different chemicals do not occupy the same volume.
+The percentage strength of a solution therefore merely indicates how much of the chemical is dissolved in 100 ccs. of
+the solution.
+To prepare a 7% solution of potassium bromide, therefore,
+take 7 Gms. of the salt, dissolve it in a little water, and add water
+up to 100 ccs. If we now measure out 100 ccs. of the solution
+we have measured 7 Gms. of the solid.
+In the avoirdupois system a 10% solution of solid is made by
+taking I oz. and making up to 10 ozs. with water. Converting
+these figures into Gms. and ccs. we have 30 Gms. in 300 ccs., or
+a 10% solution.
+Strictly speaking this is not correct since i oz.= 28.35 Gms.,
+and I fluid oz.= 29.57 cc, so that i oz. in 10 fluid ozs. is equivalent to 28.35 Gms. in 295.7 cc. or 9.6 Gms. In 100. The error
+involved, however, is less than 5% and for ordinary purposes is
+therefore negligible.
+If a photographic solution is made by any of the above
+methods, i, 2, or 3, the error involved is less than 5% and therefore negligible for ordinary photographic purposes, though since
+the correct method is the easiest, it should be followed.
+Although somewhat of an anomaly, it is possible to prepare a
+100% solution of a substance like hypo by dissolving 100 Gms.
+(which do not occupy a space of 100 ccs.) and dissolving in sufficient water to make 100 ccs. of solution.
+(b) A 10% solution of a liquid in water is made by taking
+10 cc, of liquid and adding water up to 100 cc.
+104
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+The Meaning of "Parts''
+It is often recommended to dissolve, say lo parts of a solid
+in 100 parts of water. Such a statement is meaningless because
+a solid chemical is weighed while a liquid is measured, though if
+the metric system is used (since i cc. of water weighs i Gm.)
+grams and ccs. may be considered synonymous with parts.
+In the case of liquids, parts should be taken as meaning units
+of volume, and in the case of solids as units of weight. A "part"
+may therefore mean anything from a gram to a ton, or a cc. to
+a gallon so long as the other quantities are reckoned in the same
+units of weight or volume.
+Thus
+:
+For use: A three parts A 300 ccs. A 15 oz.
+may mean or
+B one part B 100 ccs. B 5 oz.
+If the avoirdupois system is used and the formula contains
+both solids and liquids, if ounces (liquid) and ounces (sohd)
+are substituted for "parts," the error involved falls within permissible limits.
+Problem
+:
+Mix one gallon of solution according to the following formula.
+Sodium sulphite 10 parts
+Pyro I parts
+Water to 100 parts
+Now, one gallon equals 4,000 ccs. Therefore, dissolve 400
+Gms. of sulphite in water, add 40 Cms. of pyro, and make up to
+I gallon.
+"Drops"
+If a formula calls for, say 5 drops of a solution, this is a
+very uncertain quantity because drops of liquid vary considerably
+in size. The average drop from the usual dropping bottle or
+burette measures about i minim or a little less than one-tenth
+part of a cc, so that 5 drops may be considered as H cc. or 5
+minims.
+The Hydrometer Test
+Many photographers are accustomed to making up their stock
+solutions of hypo, carbonate, sulphite, etc., by means of the
+hydrometer. This method has the advantage that in case the
+105
+
+MOTION PICTURE PHOTOGRAPHY
+hypo (say) has become moist and contains an unknown amount
+of water, a definite reading on the hydrometer will give a solution of the same strength as if perfectly dry chemicals had been
+used. When a stock solution is made from moist chemicals
+by weighing, the error caused by the presence of water may be
+as high as 25% or 50%.
+The hydrometer method has the disadvantage that the adjustment of a solution to the required strength takes considerable
+time, the hydrometer reading does not convey an idea as to the
+percentage strength of the solution, while the hydrometer reading varies with the temperature. For instance, if a stock solution is made with hot water and this registers, say, 45 on the
+hydrometer, on cooling, the liquid may register 48 or 50. It is
+therefore absolutely necessary either to make all readings when
+the solutions have cooled to room temperature, or to prepare a
+table giving the variation of density of each solution with temperature.
+Usefulness of Per Cent Solutions
+The great advantage of stating the strength of any solution
+in parts per hundred is that a definite mental picture is at once
+created of its relative strength while by means of a number of
+stock solutions it is possible to compound certain formulae by
+simply measuring out a definite volume of each solution thus
+dispensing with a balance. Supposing we have a 10% solution
+of potassium ferricyanide and of potassium bromide already
+at hand and it is desired to make up the following solution:
+Potassium ferricyanide 6 Cms.
+Potassium bromide 2.3 Gms.
+Water to 1,000 ccs.
+it is only necessary to measure out 60 ccs. of the ferricyanide
+solution, 23 ccs. of the bromide solution and add water up to
+1,000 ccs. and the solution is made.
+In the case of very concentrated solutions it is not always possible to use this method, though in view of the time saved and
+the accuracy of the method it should be applied whenever possible.
+Suppose a formula calls for o.i Gms., it is impossible to
+weigh this amount accurately on the usual photographic scale,
+but by measuring out i cc. of a 10% solution, and adding this to
+the mixture, the problem is solved.
+106
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+Photographic Arithimetic
+It is often required to mix up a quantity of solution much
+greater than that given by the formula, in which case the photographer must perform a very simple exercise in arithmetic in order
+to secure the desired result. The two following examples indicate the method of solution of such simple problems.
+A. Mix 6 oz. of solution according to the following formula
+:
+Potassium ferricyanide 4 Gms.
+Hypo 10 Gms.
+Water to 100 ccs.
+now 6 oz.= 6 x 30= 180 ccs. Therefore, we need 180/100 x
+4= 7.2 Gms. of ferricyanide and 180/100 x 10= 18 Gms. of
+hypo. Dissolve these in a little water and make up to 180 ccs.
+B. How would you mix i pint of a 7% solution of sodium
+sulphite ?
+To make 100 ccs. of a 7% solution we need 7 Gms. Therefore, to make i pint (500 ccs.) we need 5 x 7=35 Gms. To
+prepare the solution therefore, dissolve 35 Gms. of sulphite in
+water and make up to i pint.
+Dilution of Liquids
+It is often required to reduce the percentage strength of a
+solution. For example: How would you mix two gallons of
+2%^o acetic acid, from a supply of glacial acetic acid?
+To make 100 cc. of 28% acid we need 28 ccs. of glacial acid.
+To make i cc. of 28% acid, we need 28/100 ccs. of glacial acid.
+To make 8,000 ccs. of 28% acid we need 28 x 80=2,240 ccs.
+of glacial acid.
+Therefore take 2,240 ccs. of glacial acid and add water to make
+2 gallons.
+To dilute a solution three times we do not add three times
+the amount of water but twice the amount and so on. For
+example : One volume of solution plus 2 volumes of water= 3
+volumes of solution, which is three times as weak or three times
+as dilute as the original.
+Stock Solutions
+A stock solution is a concentrated solution to which water is
+added before use, In the case of simple solutions containing
+107
+
+MOTION PICTURE PHOTOGRAPHY
+only one salt such as potassium bromide, sodium carbonate, etc.,
+a io% solution is most convenient because by multiplying the
+volume of the solution in ccs. by lo we get the number of grams
+present in the solution. Thus 75 ccs. of 10% potassium bromide
+contain 7.5 Gms.
+The limiting strength of solution which it is possible to make
+in any particular case depends on the solubility of the chemical,
+and as the solubility diminishes with temperature a solution
+should not be made stronger than a saturated solution at 40° F.,
+otherwise in cold weather the substance would crystallize out.
+(The reader is referred to tables of solubilities given in most
+handbooks.)
+A stock solution of sodium sulphite should be made as strong
+as possible (15% of the desiccated salt) because at such a
+strength the solution oxidizes very slowly and will therefore
+keep, whereas in weaker solution it combines with the oxygen
+in the air very readily and is then useless as a preservative.
+Apparatus
+Scales
+For quantities up to 100 Gms. a double pan balance should
+be used and a larger one for quantities up to 1,000 Gms. For
+still larger quantities a platform scale weighing in pounds may be
+used, because large metric scales are not readily procurable.
+For preparing small amounts of sample developers a small chemical balance weighing in hundredth parts of a gram is necessary.
+Mixing Vessels
+For small quantities of solution conical glass flasks are the
+most suitable. For larger quantities use enameled buckets.
+Earthenware crocks are usually unsatisfactory because when the
+glaze cracks, the solutions penetrate into the pores and thus contaminate any other solutions subsequently mixed in them.
+A wooden stick or paddle is the best form of stirrer, but a
+separate one should be used for each solution so as to eliminate
+the possibility of contamination.
+The paddle may also be used to measure out a definite volume
+of solution in a tank or crock by cutting notches in the paddle to
+correspond with definite volumes when the paddle is held vertically. Such markings are only applicable, however, to the par108
+
+E3 WSi '^
+^51hH laaiiM
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+ticular tank or crock for which the paddle was graduated, so that
+a separate paddle should be used for each tank or crock unless
+they are of the same shape and capacity.
+Chemicals should be weighed out and the solutions prepared in
+a separate room, and care should be taken when handling
+such substances as hydroquinone, resublimed pyro, potassium
+ferricyanide, etc., not to shake the finer particles into the air,
+otherwise they will enter the ventilating system and settle out
+on benches, negatives, and prints, and cause no end of trouble in
+the way of spots and stains.
+Weighing
+Weigh out chemicals on pieces of paper and after transferring
+to the mixing vessel do not shake the paper but drop it into the
+sink and allow water to flow over it, thus dissolving the dust.
+Larger quantities are most conveniently weighed out in buckets.
+Measuring
+For small quantities, a glass graduate marked off in ccs. or
+ounces should be used, for larger quantities use a bucket previously graduated, or mark oif the inside of the tank or crock
+used for mixing. When measuring a liquid in a glass graduate
+place the eye on a level with the graduation mark and pour in
+the liquid until its lower surface coincides with this level. Owing
+to capillary attraction the liquid in contact with the walls cf the
+graduate is drawn up the sides so that on viewing sideways it
+appears as if the liquid has two surfaces. All readings should
+be made from the lower surface and at room temperature because
+a warm liquid contracts on cooling.
+Dissolving
+The rapidity with which a substance dissolves in any solvent
+depends on its solubility and degree of fineness, the temperature
+of the solvent, and the rate of stirring. Since a chemical is
+usually more soluble in hot water than in cold, the quickest way
+of mixing a solution is to powder it and dissolve in hot water
+by stirring. In the case of a few substances, like common salt,
+which are only slightly more soluble in hot than in cold water, the
+use of hot water is of no advantage.
+109
+
+MOTION PICTURE PHOTOGRAPHY
+Since most solutions are intended for use at ordinary temperatures, if hot water is used for dissolving, the solution must be
+cooled again if it is required for immediate use. Usually the
+time taken to do this is less than the extra time which would be
+taken up in dissolving the chemical in cold water. When mixing,
+therefore, as a general rule, dissolve the chemical in as small an
+amount of hot water as possible, cool off, and dilute with cold
+water.
+After diluting with water, thoroughly shake the solution if in
+a bottle, or stir if in a tank, otherwise the water added will
+simply float on top of the heavier solution.
+When mixing a solution in a tank, never add the dry chemicals
+to the tank but always make sure that the chemicals are dissolved
+by mixing in separate buckets and filtering into the tank.
+If the water supply is not sufficiently cold, so that on diluting
+the hot solution the final liquid is not at the required temperature,
+the hot solution should be cooled by means of ice placed in a
+cloth bag to filter out the dirt.
+In the case of anhydrous (dry) salts such as desiccated sodium
+carbonate, sodium sulphite, etc., always add the chemical to the
+water and not vice versa, otherwise a hard cake will form which
+,
+will dissolve only with difficulty.
+Filtering
+The purpose of filtering is to remove suspended matter such
+as dirt, caused by the presence of dust in the chemicals used, and
+also any residue or undissolved particles which might settle on
+the plates, film or paper during development Here are several
+methods of removing such particles:
+I. Allow the solution to stand and draw off or decant the
+clear supernatent liquid. This method is particularly useful
+when the suspended matter is so fine that it will pass through a
+coarse filter.
+Since coarse particles settle quickly, the rate of settling of a
+semi-colloidal sludge can usually be hastened by mixing the solution in hot water, because the heat tends to coagulate the suspension and causes the particles to cluster together. Thus if
+crystals of sodium sulphide, which are brown due to the presence
+of iron, are dissolved in hot water the colloidal iron sulphide
+110
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+coagulates and settles out rapidly leaving a perfectly colorless
+solution.
+2. Filter the solution through fabric or filter paper. Filtering
+through paper is usually a slow process and the continual dropping of the solution exposes it to the air thus causing oxidation.
+It is usually sufficient to filter through very fine cloth or muslin
+which has been washed thoroughly, otherwise the sizing matter in
+the fabric will be washed into the solution and settle out as a
+sludge.
+Fig. 32
+3. As a modification of method 2, when mixing a quantity of
+solution in a tank, stretch a filter bag made of cloth over the
+tank, place the chemicals in the bag (about 6 inches deep) and
+allow hot water to flow into it. In this way the chemicals are
+dissolved and the solution filtered at the same time. A separate
+bag should be used for each solution so as to eliminate all risk
+of contamination.
+The method of supporting the bag is shown in Fig. ^2 the bag
+being stretched over the wooden frame and held in place by
+means of four iron bars passing through loops along the edges
+of the bag. For mixing hypo, such a bag is indispensable.
+Ill
+
+MOTION PICTURE PHOTOGRAPHY
+In case of deep tanks such as are used for developing roll film
+and for motion picture work, the wooden frame can be dispensed
+with by adopting the arrangement shown in Fig. jj. The cloth
+bag about 6 inches deep is supported by means of iron bars passing through seams along opposite edges of the bag, and in turn
+the bars are held in place either by means of two pieces of wood
+passing over the ends of the bars, as shown, or by metal stirrups
+fitted to the sides of the tank.
+Fig. 33
+It is important that the bag used should be shallow (6 to 9
+inches deep), otherwise it will dip into the solution and the
+chemicals will dissolve very slowly.
+4. A combination of methods i and 3 which follows is the
+best and most desirable
+:
+(a) For quantities of solution up to 5 gallons, filter through
+cloth into a bottle or crock fitted with a side tube and pinch cock.
+In this way the fine particles settle out but the drainage tube is
+sufficiently high so as not to disturb the sediment. (See Fig. S4-)
+(b) For motion picture work the best arrangement for mixing
+is to place the chemical room immediately above the developing
+112
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+room and to mix the solutions in large wooden vats or enameled
+tanks connected with lead piping to the developing and fixing
+tanks in the dark room underneath. The solutions can then be
+mixed in advance, allowed to settle and be tested, so that only
+perfect solutions pass into the tanks located in the dark room.
+Removing Scum
+When mixing a chemical solution, if method 4 above is not
+Fig. 34
+adopted, and especially if the solutions are not filtered, a scum
+usually rises to the surface consisting of fibers, dust, etc., which
+should be skimmed off with a towel.
+When a fixing bath has been used for some time and is allowed
+to stand undisturbed for a few days, any sulphuretted hydrogen
+gas which may be present in the atmosphere forms a metallic
+looking scum of silver sulphide at the surface of the liquid, and
+on immersing the film this scum attaches itself to the gelatine
+and prevents the action of the developer. Any such scum should
+be carefully removed, before use, with a sheet of blotting paper.
+113
+
+MOTION PICTURE PH'OTOGRAP H Y
+Measuring Temperatures
+Temperatures of solutions are measured either by the Centigrade or Fahrenheit thermometer. On the Centigrade scale
+water freezes at zero and boils at ioo°, and on the Fahrenheit
+scale the corresponding readings are 32° and 212°, so that 100° C.
+are equivalent to 212°—32°=i8o° F. or 1° C. is equivalent
+to 9/5^ F.
+To convert degrees Centigrade to Fahrenheit, multiply by 9/5
+and add 32. To convert degrees Fahrenheit to Centigrade subtract 32 and divide by 9/5.
+In photography the Fahrenheit thermometer is almost universally employed. There would be no appreciable advantage adopting the Centigrade scale, since the precision of the Fahrenheit
+scale is greater. An error of 1° in reading the Centigrade scale
+means an error of practically 2° on the Fahrenheit scale.
+How TO Mix Developing Solutions
+A developer usually contains four solid ingredients as follows:
+A. The developing agent (Elon, hydroquinone, pyro, paraminophenol, etc.).
+B. The alkali (carbonates and hydroxides of lithium, sodium,
+potassium and ammonium).
+C. The preservative (sulphites, bisulphites, and metabisulphites of sodium and potassium).
+D. The restrainer (bromides and iodides of sodium, potassium
+and ammonium).
+If a developing agent like hydroquinone is dissolved in water,
+the solution will either not develop at all or develop very slowly.
+On standing it will gradually turn brown due to what is known
+as oxidation or chemical combination of the hydroquinone with
+the oxygen present in the air in contact with the surface of the
+liquid. This oxidation product is of the nature of a dye and will
+stain fabrics or gelatine just like a dye solution.
+On adding a solution of an alkali such as sodium carbonate, the
+hydroquinone at once becomes a developer. At the same time
+the rate of oxidation is increased to such an extent that the solution very rapidly turns dark brown, and if a plate is developed
+in this solution it becomes stained and fogged. Tlie subject of
+^'Chemical Fog" has been fully treated by the author in a separate
+114
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+article (Amer. Ann. Phot., 1919) to which the reader is referred.
+If we add a little sodium bisulphite to the brown colored solution mentioned above, the brown color or stain is bleached out
+and a colorless solution is obtained. Therefore, if the preservative is first added to the developer, on adding the accelerator the
+solution remains perfectly clear because the sulphite preserves
+or protects the developing agent from oxidation by the air.
+As a rule the preservative should be dissolved first.
+An apparent exception to this rule should be made when dissolving Elon in concentrated solution. This developing substance is insoluble in a strong solution of sodium sulphite
+while if a sulphite solution is added to a strong solution of the
+developing agent a white precipitate is formed. When once the
+Elon is dissolved, however, it takes a fairly high concentration
+of sulphite to bring it out of solution again, though only a low
+concentration is required to prevent the Elon from dissolving.
+On this account some direction sheets recommend that the Elon
+should be dissolved first, though if water containing dissolved
+air is used the Elon will oxidize and only a small amount of
+oxidation product is necessar}'^ to cause chemical fog. Therefore,
+when dissolving Elon, dissolve a portion of the sulphite sufficient
+to prevent immediate oxidation and yet not enough to prevent
+the Elon from dissolving readily. Then dissolve the Elon and
+finally add the remainder of the sulphite.
+The alkali (say carbonate) may then be added:
+(a) Dissolve the carbonate separately and add to the cooled
+Elon-sulphite solution. There is danger, however, of the Elon
+precipitating out before the carbonate is added.
+(b) After dissolving a portion of the sulphite and adding the
+Elon, dissolve the remainder of the sulphite and carbonate together, cool and add to the Elon-sulphite mixture.
+The above procedure is necessary so that when the carbonate
+is added the solutions are cool. If a hot carbonate solution is
+added to the developing agent, even in the presence of the preservative, a substance is formed which produces chemical fog.
+In the case of developers containing no bromide, used for
+testing the quality of plates and for developing under-exposed
+negatives, it is absoluitely necessary to mix the developer with
+cold water if a minimum of fog is desired.
+In the case of some samples of paraminophenol which are dis118
+
+MOTION PICTURE PHOTOGRAPHY
+colored by the presence of oxidation products, these may be partially removed by boiling after adding to the sulphite solution. In
+this way the oxidation products are reduced by the sulphite to
+paraminophenol. The solution should be cooled again before
+adding the carbonate. If pure chemicals are used such a procedure is, of course, entirely unnecessary.
+Bromides and iodides are added to a developer to compensate
+for any chemical fog produced by the developer, or inherent in
+the emulsion. It is immaterial at what stage during mixing the
+bromide is added.
+When mixing a developer the following rules should therefore
+be followed:
+1. Dissolve the preservative first. In the case of Elon dissolve only a portion of the sulphite first, dissolve the Elon, and
+then add the remainder of the sulphite.
+2. Make sure that one chemical is dissolved before adding
+the next. If the alkali is added before the crystals of the developing agent are dissolved, each crystal becomes oxidized at
+the surface and the resulting solution will give fog.
+3. Mix the developer at as low a temperature as possible.
+4. In the case of desiccated chemicals like sodium carbonate
+and sodium sulphite, add the chemical to the water and not vice
+versa.
+Two practical methods of mixing are possible, as follows
+:
+(a) Dissolve all the chemicals in one bottle or vessel by adding
+the solid chemicals to the water in the correct order (in the
+formula the ingredients should be named in the order in which
+they are dissolved). For example, to mix the following formula
+proceed as follows
+:
+Sodium sulphite 75 Gms.
+Elon 10 Gms.
+Hydroquinone 5 Gms.
+Sodium Carbonate 50 Gms.
+Potassium Bromide 1.5 Gms.
+Water to i L.
+Dissolve about ten grams of the sulphite in about 750 cc. of
+warm water and then dissolve the Elon. Now dissolve the remainder of the sulphite and then the hydroquinone. Finally add
+the carbonate and bromide and dilute to i,cx)0 cc.
+116
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+For large quantities the filter bag method should be used, the
+chemicals being placed in the bag and dissolved in the above order.
+(b) An alternative method is to dissolve the preservative and
+developing agent in one vessel and the carbonate and bromide in
+another, cool and mix. This method is the safest and best for
+quantity production.
+For example, to mix the following motion picture developer
+proceed as follows
+:
+Sodium Sulphite 4 lbs.
+Hydroquinone 13 oz.
+Sodium Carbonate 4 lbs.
+Potassium Bromide 3 oz.
+Water to 10 gal.
+Dissolve the sulphite in about one gallon of hot water, then dissolve the hydroquinone and filter into the tank. Then add one
+gallon of cold water to the tank, dissolve the sodium carbonate
+and bromide in one gallon of hot water and filter this into the
+tank, immediately adding cold water up to ten gallons. The
+object of adding cold water to the tank is to cool off the solution
+before the carbonate is added.
+Mixing Concentrated Developers
+The extent to which a developer may be concentrated is determined by the solubility of the least soluble constituent, because a
+stock solution should usually withstand cooling to 40° F. without
+any of the ingredients crystallizing out. Usually, the hydroquinone and Elon come ont of solution on cooling, but by adding
+alcohol (grain, wood, or denatured) up to a concentration of
+10%, the crystallization is prevented, since the developing agents
+are very soluble in alcohol.
+The addition of the alcohol does not prevent the other ingredients, such as sodium sulphite, from crystallizing out. In fact,
+the alcohol diminishes their solubility and therefore increases the
+tendency to come out of solution.
+A paraminophenol-carbonate developer is difficult to prepare in
+concentrated form, though by adding a little caustic soda the
+solubility of the paraminophenol is increased and a stronger solution can be thus prepared.
+When preparing concentrated developers it is important to
+117
+
+MOTION PICTURE PHOTOGRAPHY
+observe carefully the rules of mixing. To obtain a colorless developer take care to keep the temperature of the solution as low
+as possible.
+Two-Solution Developers
+A two-solution developer is simply a one-solution developer
+split into two parts, one containing the carbonate and bromide,
+the other containing the developing agent and preservatives so
+that the developer will oxidize less readily and therefore keep
+well. The reason it is customary to keep a developer like pyro in
+two solutions, is because pyro oxidizes much more readily than
+Elon or paraminophenol with a given amount of preservative.
+For purposes of mixing, only one solution developers need be
+considered because the same rules regarding mixing apply in both
+cases.
+Developing Troubles
+In order to explain the reason for any particular developer
+trouble it is necessary to understand thoroughly what takes place
+when the ingredients are mixed in the wrong order, or if any ingredient is omitted from the formula, also the effect of chemical
+impurities. It is impossible here to indicate every possible
+trouble but the more important ones may be listed as follows
+:
+1. The developer gives fog or chemical fog. Fog is the chief
+trouble caused by faulty mixing. It may be due to any of the
+following reasons: Violation of the rules of mixing; mixing the
+solution too hot; omission of the bromide; addition of too much
+carbonate or too little sulphite ; the use of impure chemicals ; etc.
+2. The solution is colored. As a general rule the developer
+when mixed should be colorless. If colored, the developer is
+liable to give fog. In the case of a pyro developer mixed with
+bisulphite which contains iron, the iron combines with the pyro
+to form an inky substance which imparts a dirty red color to the
+solution.
+If a pyro developer is mixed as two separate solutionsA and B,
+the pyro solution which usually contains only carbonate and
+bromide, should be perfectly colorless, though if carelessly mixed
+in dirty vessels it may be colored brown by the presence of a
+little pyro A.
+3. If the solution does not develop, then either the developing
+agent or the carbonate was omitted during mixing.
+lit
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+How TO Mix Fixing Solutions
+Fixing baths may be divided into the following classes:
+1. Plain hypo solutions.
+2. Acid hypo solutions consisting of hypo with the addition of
+sodium bisulphite, potassium metabisulphite, or sodium sulphite
+with acid.
+3. Acid hardening hypo solutions.
+1. Usually no difficulty is experienced when mixing a plain
+hypo solution. When mixing a quantity of solution in a tank the
+filter bag method should be used and the hypo dissolved in warm
+water because the temperature drops considerably while the hypo
+is dissolving. If a scum forms on the surface of the solution
+while standing, it should be removed by drawing the edge of a
+towel across the surface.
+If a wooden cover is used for the tank, fungi often develop in
+a hypo solution and produce acid substances which tend to turn
+the solution milky. In such a case, the tank should be thoroughly
+cleaned and the cover faced with sheet lead.
+A plain fixing bath, however, is seldom used because it gradually becomes alkaline from an accumulation of alkali carried over
+by the prints and plates from the developer. This tends to soften
+the gelatine, while the image continues to develop in the fixing
+bath. If two prints stick together, less development takes place
+at the point of contact causing uneven development. If the bath
+is acid, the acid kills or neutralizes the alkali in the developer
+carried over, thus preventing unevenness.
+2. In order to mix an acid fixing bath intelligently it is necessary to understand a little about its chemistry.
+Hypo can be made by boiling together sodium sulphite and
+flowers of sulphur until no more sulphur is dissolved. If acid
+is added to a hypo solution sulphur is again liberated, forming a
+milky solution known as milk of sulphur. If sodium sulphite is
+present, however, any sulphur which tends to come out of solution
+combines with the sulphite to form more hypo and the solution
+therefore remains clear.
+This sulphur cannot be redissolved by adding sodium sulphite
+to the milky solution except by boiling. On standing it is apt to
+settle on prints or plates as a scum All acid fixing baths therefore contain either sodium bisulphite, potassium metabisulphite,
+119
+
+MOTION PICTURE PHOTOGRAPHY
+or a mixture of sodium sulphite and some acid, and the following
+directions for mixing should be followed
+:
+(a) Do not add the bisulphite or acid sulphite solutions to the
+warm hypo solution. If the solutions are not perfectly cold when
+mixed the hypo will turn milky.
+Experience has shown that potassium metabisulphite has less
+tendency to produce milkiness than sodium bisulphite, though for
+practical purposes the difference is almost negligible.
+Of the common acids, sulphuric, hydrochloric, acetic, citric,
+etc., acetic, citric, and tartaric acids have less tendency to produce
+milkiness for a given degree of acidity than sulphuric, which fact
+would be expected from theoretical considerations.
+(b) On keeping, an acid hypo solution gradually becomes
+milky, so that a stock solution of the sodium bisulphite, etc.,
+should be kept and added to the plain hypo stock solution as required. For general purposes 50 cc. of a 50% sodium bisulphite
+solution are added to 1,000 cc. of a 35% hypo solution. If any
+considerable excess over this amount is added, the hypo rapidly
+turns milky owing to the liberation of sulphur, especially if the
+weather is warm.
+3. Acid hardening baths are prepared by adding to hypo an
+acid hardening solution which contains the following Ingredients
+:
+(aJ An acid such as acetic, citric, tartaric, lactic, sulphuric,
+etc., which stops development.
+(b) A hardening agent such as alum, chrome alum or formalin.
+(c) A preservative such as sodium sulphite or sodium bisulphite.
+The latter acts as a preservative In two ways: It prevents the
+formation of sulphur by the action of the acid on the hypo, and,
+also prevents the developer carried over into the fixing bath from
+oxidizing and turning brown.
+How TO Mix the Acid Hardener
+Prepare the acid hardening solution as a separate stock solution and add this to the hypo solution as required
+The order of mixing is important.
+(a) When mixing In one vessel, first dissolve the alum In warm
+water, then add the acid and add the sulphite immediately ; otherwise, if the acid alum solution is allowed to stand, the alum will
+120
+
+HOWTO PREPARE PHOTOGRAPHIC SOLUTIONS
+crystalize out again. It is sometimes recommended to reverse
+the process, namely, dissolve the sulphite first, add the acid, and
+then the alum, but unless the alum is finely powdered it does not
+readily dissolve unless the solution is warm. In this case sulphur
+dioxide gas is given off from the acid sulphite solution.
+(b) The best method is to dissolve the alum and sulphite in
+separate solutions, cool, add the acid to the sulphite and then
+add the alum solution.
+If the order of mixing is reversed and the alum first added to
+the sulphite, a white sludge of aluminum sulphite is formed
+which dissolves with difficulty when the acid is added. If after
+mixing the hardener is milky and a sludge settles out, there is a
+relative insufficiency of acid. That is the acid used was not up
+to strength, or too much alum or sulphite was added.
+With all other hardening baths the order of mixing is the same.
+Fixing Bath Troubles
+I. Milkiness of the fixing bath.
+Sometimes a fixing bath turns milky immediately on adding the
+hardener and sometimes after being in use for some time. The
+milkiness may be of two kinds
+:
+A. If the precipitate settles very slowly on standing, the milkiness is due to sulphur caused by the following conditions
+:
+(a) Too much acid in the hardener,
+(b) Too little sulphite or the use of impure sulphite (in which
+case there is not sufficient present to protect the hypo from the
+acid).
+(c) High temperature. The hardener should only be added
+to the hypo solution when at room temperature. If the temperature of the acid fixing bath is over 85° F. it will not remain clear
+longer than a few days even when mixed correctly. The only
+remedy is to throw the bath away and mix fresh solution as required.
+B. If the milkiness disappears on standing for a few hours,
+and a gelatinous sludge of aluminum sulphite settles out, this is
+caused by:
+(a) Too little acid in the hardener. For example, supposing
+a formula calls for pure glacial (98%) acetic acid and 2S% acid
+is used by mistake, then we have added less than one-third the
+required amount.
+121
+
+MOTION PICTURE PHOTOGRAPHY
+(b) Too little hardener in the fixing bath. When fixing
+prints, a relatively large proportion of the developer is carried
+over to the fixing bath. This soon neutralizes the acid and permits the formation of aluminum sulphite. A fixing bath with the
+correct proportion of hardener, when exhausted, still contains
+alum and sulphite but no acid, and these combine to form a sludge
+of aluminum sulphite.
+It is extremely important therefore to use only acid oi known
+strength. Avoid trouble by using neither more nor less acid than
+is called for in the formula.
+2. The bath does not harden.
+A frequent cause of insufficient hardening is the use of inferior alum which does not contain the correct proportion of
+aluminum sulphate. An exhausted bath which is alkaline will
+also harden very slowly. Alum hardens best in acid solution.
+Miscellaneous Solutions
+The number of miscellaneous solutions used in photography
+for intensifying, reducing, toning, etc., is so large that it is beyond the scope of this book to deal with individual cases. The
+method of procedure is much the same as when mixing developers, and the order of mixing is usually stated specifically.
+Substitution of Chemicals
+Occasion arises often when the photographer is out of stock
+of some particular chemical and he is tempted to substitute one
+chemical for another. In this chapter it will be shown how far
+substitution is possible in the case of developing and fixing baths.
+These remarks usually apply to solutions in general.
+Substitutes for Potassium Salts
+In view of the present scarcity of potassium salts and their
+greater expense as compared with sodium salts, the question
+arises as to what extent they can be replaced by salts of sodium
+or ammonium.
+As a general rule, for photographic purposes, a potassium salt
+can be replaced by a sodium salt weight for weight, the error
+caused by the difference in molecular weight of the two salts
+123
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+being usually negligible. There are many exceptions, however,
+where there is a difference in physical properties of the two salts
+for example, potassium carbonate and sodium bichromate are
+deliquescent (i.e., they attract the moisture present in the atmosphere) while sodium carbonate and potassium bichromate are not.
+SuBSTiTioN IN Developing Formulae
+1. The developing Agent.
+As a general rule it is not possible to replace one developing
+agent by another and obtain a developer with identical properties,
+since each developing agent has its own characteristics as regards
+rate of development, fog, color of image produced, etc. In some
+cases, however, a close approximation can be made. For example
+substitute Elon by Kodelon (or paramidophenol) providing the
+developer is sufficiently dilute to permit of sufficient paramidophenol being dissolved. This applies either to an all Elon or an
+Elon-hydroquinone formula.
+If in an Elon-hydroquinone (or E-H) formula paramidophenol
+is substituted for the Elon and the activity of the developer is increased by the addition of alkali, the effect of the alkali is proportionately greater on the hydroquinone than on the paramidophenol so that a rapid hard working developer is obtained. To
+avoid this, proportionally more paramidophenol is required than
+if Elon is used.
+2. The preservative.
+It is not customary to substitute sodium bisulphite for potassium metabisulphite weight by weight, though in a plain fixing
+bath, sodium bisulphite has a slightly greater tendency to produce sulphurization than the potassium salt.
+The question is often asked as to the difference in action
+between sodium sulphite and sodium bisulphite. Sodium bisulphite may be considered as a compound of sodium sulphite and
+sulphurous acid, and therefore reacts acid. Sodium sulphite is
+alkaHne. In the case of a two-solution pyro formula where the
+pyroA solution is preserved with oxalic acid or sodium bisulphite,
+an equal weight of sodium sulphite would not preserve as well,
+since pyro oxidizes much more readily in alkaline than in acid
+solution.
+In the case of a one-solution developer containing, say, sodium
+12S
+
+MOTION PICTU R E PHOTOGRAPHY
+sulphite, sodium bisulphite and sodium carbonate, the bisulphite
+is converted to sulphite by the sodium carbonate according to
+the following equation
+:
+Sodium Bisulphite+ Sodium Carbonate= Sodium Sulphite
++ Sodium Bicarbonate.
+So that a corresponding amount of sodium sulphite might just
+as well have been added in the first place. Sodium bisulphite
+neutralizes or destroys an equivalent amount of sodium carbonate
+thus reducing the proportion of alkali and therefore exerting an
+apparent restraining action. The developer apparently keeps
+longer because some of the carbonate has been destroyed.
+The relative amounts of different salts which produce the same
+preserving action is given in the following table
+:
+Sodium sulphite i.o part
+Sodium bisulphite 0,83 part
+Potassium metabisulphite 0.88 part
+For a two-solution developer therefore use sodium bisulphite.
+In the case of a single solution developer, containing alkali, use
+sodium sulphite, because in this case no advantage is gained by
+using a mixture of sulphite and bisulphite.
+3. The Alkali.
+The common alkalis are the carbonates and hydroxides of
+sodium, potassium or ammonium. Substances like acetone, tribasic sodium phosphate, borax, and amines are occasionally used
+but will not be considered here.
+When sodium carbonate is dissolved in water a small proportion of it reacts with the water forming caustic soda and sodium
+bicarbonate. This process is called hydrolysis though only a small
+portion of the carbonate is hydrolyzed at any moment. As the
+caustic soda formed is used up in development, more carbonate
+hydrolyzes so we can consider that carbonate acts as a reservoir
+of caustic alkali. If, in the first place, a solution of caustic soda
+was used of the same alkalinity as the carbonate it would soon
+be used up. The use of carbonate therefore enables us to use a
+small concentration of alkali and yet keep it constant during development.
+It is rarely possible therefore to replace caustic alkalis by carbonated alkalis such as sodium or potassium carbonate.
+Potassium carbonate is slightly more active than sodium carbonate in solution because it hydrolyzes to a greater extent. For
+124
+
+(Courtesy of the Universal Film Company)
+A HAZARDOUS POSITION.
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+developing motion picture film on a reel when the developer may
+splash on the floor, potassium carbonate cannot be substituted by
+sodium carbonate. Because of the deliquescent nature of potassium carbonate, the splashes of solution remain moist thus preventing the formation of carbonate dust in the air.
+Caustic soda and caustic potash may be replaced weight for
+weight in most formulae.
+Ammonia and ammonium carbonate are seldom used in developers on account of their odor and the fact that they tend to
+cause dichroic fog.
+Desiccated and Crystal Sodas
+Sodium carbonate and sodium sulphite are often supplied in
+two forms: Crystals and desiccated or dry, which is sometimes
+called anhydrous because it does not contain water of crystalization.
+Desiccated sodas possess the advantage that they occupy less
+than half the bulk of the crystals, while desiccated sodium sulphite is much less liable to oxidation by the air than the crystalline
+variety.
+The sodas should be substituted as follows:
+One part by weight of sodium carbonate (desiccated) for three
+parts by weight of the crystals.
+One part by weight of sodium sulphite (desiccated) for two
+parts by weight of the crystals.
+4. The Restrainer.
+Potassium bromide may be substituted by an equal weight of
+sodium bromide. Ammonium bromide should not be used in a
+developer because the alkali liberates ammonia gas and this too
+tends to produce dichroic fog.
+Substitution in the Fixing Bath
+Sulphites and Bisulphites.
+The same remarks apply as to preservatives in the developer.
+Alums.
+An alum is a compound or double salt of aluminum sulphate or
+chromium sulphate with either sodium, potassium or ammonium
+sulphate. The hardening action is produced onl)^ by the aluminum or chromium sulphate, so that equivalent weights of aluminum sulphate and of sodium, potassium, or ammonium alum
+should exert the same hardening action.
+125
+
+MOTION PICTURE PHOTOGRAP H Y
+The following conclusions are the result of a series of practical
+tests made by the author.
+(a) Equivalent amounts of potash alum and aluminum sulphate exert the same hardening action, two parts by weight of
+aluminum sulphate, being equivalent to three parts by weight of
+potash alum. Commercially pure aluminum sulphate is satisfactory if this does not contain an excess of iron. If the sample
+is acid, the solution should be neutralized with ammonia. When
+mixing the usual liquid hardener formula with commercial aluminum sulphate, a slight milky suspension is formed which should
+be allowed to settle and be filtered off.
+(b) There is no appreciable difference between sodium, potassium and ammonium alum in their hardening action when substituted weight for weight in the usual formulae. In practice, if
+any difference in hardening action occurs, it is due to the use of
+impure alums. If the impurities are harmless, an increased
+amount of the alum should be used so that the content of aluminum sulphate is the same as that in the potash alum called for
+by the particular formula.
+When using ammonium alum, if the fixing bath becomes alkaline by virtue of a neutralization of the acid by the developer
+carried over, ammonia will be liberated causing dichroic fog and
+stain. No trouble will be experienced, however, if care is taken
+to keep the bath acid.
+Pure chrome alum may also be substituted for potash alum, as
+above, though it has a slightly greater tendency to precipitate
+sulphur than potash alum. It has this advantage, however. It
+does not form a basic sulphite as rapidly as potash alum, so that
+a chrome alum fixing bath remains clear even when appreciably
+alkaline.
+Acids,
+The most commonly used acids are acetic, citric, tartaric, and
+sometimes lactic. Strong acids like sulphuric are seldom used
+because of the great tendency to liberate sulphur. Weaker acids,
+like the above, bear the same relation to a strong acid as a
+carbonated alkali to a caustic alkali, that is they act as a reservoir
+of acid. Thus only a small proportion of the acid is available
+for reaction in solution at any one time.
+Acetic acid is usually supplied in two strengths, glacial (98%)
+and 28% acid. One volume of glacial acid is equivalent to three
+and a half volumes of 28% acid.
+126
+
+HOW XO PREPARE PHOTOGRAPHIC SOLUTIONS
+Citric and tartaric may be substituted weight for weight. When
+used in place of acetic, substitute in the ratio of one gram of
+citric for every 3 ccs. of 28% acetic acid.
+These acids are not quite as satisfactory as acetic because, for
+a given degree of acidity as measured by the amount of alkaline
+developer which can be added to the fixing bath before the bath
+becomes neutral, citric and tartaric acids have a greater tendency
+to precipitate sulphur from the hypo than acetic acid.
+Purity of Chemicals
+The Water Supply
+Water is the most important chemical used in photography.
+It is most important to know to what extent the impurities present
+may be harmful to the various operations and how these impurities may be removed.
+Excluding distilled water, rain water, and water from melted
+ice or snow, the following impurities may be present
+:
+1. EHssolved salts such as bicarbonates, chlorides, and sulphates of calcium, magnesium, sodium and potassium. In case
+calcium salts are present and a developing formula is used containing sodium bisulphite or potassium metabisulphite, fine needleshaped crystals of calcium sulphite are apt to separate out as a
+sludge in the developer on standing. The sludge is harmless if
+allowed to settle, though the developer is robbed of the amount of
+sulphite required to form the sludge. If the developer is agitated,
+the sludge will cause trouble by settling out on the emulsions of
+plates, films, etc. Other salts have usually little effect on a developer although chlorides and bromides exert a restraining
+action.
+Dissolved salts often cause trouble by crystallizing on the film
+after drying. Although not always visible as crystals to the eye,
+they detract from the transparency of the film.
+2. Suspended matter in the form of dirt and iron rust, if not
+filtered or allowed to settle will cause spots.
+3. Slime, consisting of animal or vegetable colloidal matter
+and which is not removed by filtering. If slimy water is used for
+mixing solutions, the colloidal matter gradually coagulates and
+settles out in the solution as a sludge.
+4. Dissolved gases such as air, sulphuretted hydrogen, etc.
+127
+
+MOTION PICTURE PHOTOGRAPHY
+Water dissolves about 2% of air at 70° F. When a developing
+agent, like hydroquinone, is dissolved without the addition of sulphite, the oxygen present in the water combines with the developing agent forming an oxide which will cause chemical fog.
+Sulphuretted hydrogen gas present in sulphur water will also
+cause bad chemical fog. The gas may be removed by boiling or
+by precipitation with lead acetate.
+Purification of Water
+Water may be purified as follows:
+1. By distillation: Distilled water should be used whenever
+possible for mixing solutions.
+2. By boiling: This coagulates the colloidal matter and
+changes certain lime salts to the insoluble condition which then
+settles out. Dissolved gases such as air, sulphuretted hydrogen,
+etc., are removed. Therefore, unless the water contains an excessive amount of dissolved salts, it is usually sufficient to boil
+it and allow it to settle.
+3. By chemical treatment: If large quantities of water are
+required, chemical methods of purification must be employed,
+though it is only possible to remove lime salts, slime and colloidal matter in this way.
+Excessive amounts of dissolved lime salts are very objectionable. After washing, if drops of water remain on the plates or
+film, when the water evaporates, the dissolved salts in the water
+become visible as a white scum.
+The following methods of chemical purification may be
+adopted
+:
+(a) Add alum to the water in the proportion of one gram to
+four liters. This coagulates the slime which carries down any
+suspended particles, and the solution rapidly clears. This method
+does not remove dissolved salts, while the small amount of alum
+introduced into the water has no harmful effect on the developer.
+(b) Add a solution of sodium oxalate until no further precipitate forms. This method removes the calcium and magnesium
+salts and coagulates the slime, though sodium and potassium salts
+are left in solution.
+(c) Most of the commercial methods of water softening may
+be employed though such methods do not remove sodium and
+potassium salts.
+128
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+The "Decalso" process of water softening is one which can be
+recommended. The water is passed through a tank containing
+sodium aluminum siHcate which is a Zeolite, and possesses the
+power of exchanging its sodium for the calcium and magnesium
+present in the water. When the Zeolite thus loaded with calcium
+and magnesium is washed in a strong solution of common salt
+(sodium chloride) it exchanges the calcium and magnesium again
+for sodium and is thus regenerated, and in condition for further
+softening. Full particulars may be obtained from the American
+Water Softening Company, loii Chestnut Street, Philadelphia,
+Pa.
+Impurities in Developing and Fixing Chemicals
+It is beyond our scope to indicate all the possible impurities
+which may be present in photographic chemicals. For a more
+detailed account the reader is referred to the paper by H. T.
+Clarke on "The Examination of Organic Developing Agents'*
+(Phot. J. Amer., Nov., 1918, p. 481), which contains a number
+of analysis of developers recently placed on the market under
+fancy names and containing such substances as starch, sugar,
+salt, borax, etc.
+We are concerned only with the impurities which are not intentionally added as adulterants, usually present in chemicals.
+Impurities may have access to photographic chemicals in three
+ways: (a) during manufacture, (b) during storage, (c) during
+mixing and storage of the solution.
+(a) If chemicals of repute are purchased, the photographer
+need not worry about impurities.
+If the Elon, hydroquinone or pyro is colored, the presence of
+fogging agent should be suspected, although some colored samples do not give any more fog than colorless ones.
+Many metallic compounds such as salts of copper and tin,
+metallic sulphides, etc., exert a powerful fogging action even
+when present only in minute quantities and should be avoided.
+The following table indicates the nature and effect of the more
+common impurities present in the chemicals used for developing
+and fixing baths
+:
+129
+
+MOTION PICTURE PHOTOGRAPHY
+Chemical Chief Impurity Effect of Impurities
+Pyro, hydroquinone, etc.
+Oxidationproducts
+and adulterants
+Chemical fog
+Adulterants weaken the effect
+of the developer
+Sodium sulphite Sodium' sulphate Keeping properties of the developer are impaired
+Sodium bisulphite Iron and sodium
+sulphate
+Iron gives a dirty red solution
+with pyro
+Caustic soda Sodium carbonate Decreases the accelerating
+power
+Hypo
+Alum
+Sodium sulphite
+Sodium sulphate
+and ammonium
+sulphate
+Ammonium sulphate and sulphuric acid
+Diminishes the fixing power
+Diminishes the hardening action
+Chrome alum Excess of acid tends to cause
+sulphurization of the fixing
+bath
+Acetic acid Water Deficiency of acid causes milkiness of the acid fixing bath
+due to the precipitation of
+aluminum sulphite
+(b) For impurities introduced during storage see "Storage of
+Chemicals."
+(c) If during mixing the water contains dissolved air and the
+developing agent is dissolved before the sulphite, it becomes
+oxidized and the oxidation product formed causes fog. (See
+"Mixing of Developers," "Storage of Solutions" and article on
+"Chemical Fog.")
+Storage of Chemicals
+Chemicals should be stored m well corked or well stoppered
+jars in a cool, dry place. Mbst chemicals are affected by air
+which contains oxygen, carbon dioxide gas, and moisture.
+(a) Oxygen readily attacKS such substances as sodium sulphite,
+especially in the presence of moisture, converting it into sodium
+sulphate, which is useless as a preservative. With crystallized
+sodium sulphite, the sodium sulphate forms on the outside of the
+crystals as a powder; this may be washed off and the crystals
+dried. It is necessary to make chemical tests to detect sodium
+sulphate in desiccated sulphite.
+130
+
+HOW TO PREPARE PHOTOGRAPHIC SOLUTIONS
+Other substances which combine with oxygen, and are therefore said to be "oxidized," are sodium bisulphite and potassium
+metabisulphite and all developing agents such as pyro, hydroquinone, etc., which turn more or less brown, the extent of the
+color roughly indicating the degree of oxidation.
+(b) Carbon dioxide gas combines with substances like caustic
+soda and caustic potash converting them into the corresponding
+carbonated alkalis which are less reactive. If caustic soda is
+kept in a stoppered bottle the stopper usually becomes cemented
+fast by the sodium carbonate formed, so that it should be kept in
+a waxed corked bottle. Owing to the solvent action of the
+caustic alkalis on glass the inside of the glass bottle containing
+caustic or strongly carbonated solutions becomes frosted, though
+the amount of glass thus dissolved aw^ay will usually do no harm.
+(c) Certain chemicals have a strong attraction or affinity for
+the moisture present in the atmosphere and gradually dissolve
+forming a solution in the water thus absorbed. This phenomenon
+is termed "deliquescence" and the chemicals are said to "deliquesce." Familiar examples are ammonium thiocyanate, potassium carbonate, caustic soda, caustic potash, sodium sulphide,
+uranium nitrate, sodium bichromate, etc., which should be stored
+in corked bottles and the neck should be dipped in melted paraffin
+wax.
+As mentioned above, it is difficult to prepare a solution of definite percentage strength from a chemical which has deliquesced,
+though it is usually sufficient to drain ofiF the crystals, or to use
+a hydrometer, referring to a table giving the hydrometer readings
+in terms of percentage strength.
+(d) While some chemicals absorb moisture as above, others
+give up their water of crystallization to the atmosphere and therefore lose their crystalline form and fall to a powder and are then
+said to have "efflorescence," the phenomenon being termed "efflorenscence." Some crystals do not contain water and therefore cannot effloresce.
+A very dry atmosphere is suitable therefore for storing deliquescent salts but not for efflorescent salts. The only way to
+store chemicals Is to Isolate them from the air by suitably sealing.
+How TO Store Solutions
+Stock solutions and developers should be stored either in large
+131
+
+MOTION PISJURE PHOTOGRAPHY
+bottles, earthenware crocks, wooden vats, or in tanks of resistive
+material so arranged that the liquid may be drawn off at the side
+and near the bottom.
+Large glass bottles and crocks should be fitted with a rightangled glass or lead tube passing through a rubber stopper wired
+to the bottle, the tube being opened and closed by means of a
+pinch cock clamping a short length of rubber tubing.
+In case a solution such as pyro has to be stored for a long
+time and withdrawn at intervals, an absorption bottle containing
+alkaline pyro may be fitted at the intake, which absorbs oxygen
+from the air as it enters the bottle after withdrawing part of the
+solution.
+It is often recommended to pour a layer of refined material oil
+on the surface of a solution to protect it from the air, though
+this is very messy when the bottle has to be refilled.
+A battery O'f stock solution bottles is shown in Fig. 24 the
+bottles being arranged on lead covered shelves under which a
+large trough is placed, or, the floor may be so arranged as to
+form a sink so that in case of accidental breakage no serious
+damage is done. This precaution is of special importance in the
+case of hypo solutions which might otherwise flood an entire
+building and inoculate the various rooms with hypo dust causing
+an epidemic of spots.
+133

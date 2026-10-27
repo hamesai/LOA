@@ -1,0 +1,565 @@
+61
+You can customize a Picture Style by adjusting individual parameters 
+like [Sharpness] and [Contrast]. To see the resulting effects, take test 
+shots. To customize [Monochrome], see the next page.
+1 Press the <A> button.
+2 Select a Picture Style. Turn the <6> or <5> dial to select 
+a Picture Style, then press the <B> 
+button.
+3 Select a parameter. Turn the <5> dial to select a 
+parameter, then press <0>.
+4 Set the parameter. Turn the <5> dial to adjust the 
+parameter as desired, then press 
+<0>.
+ Press the <M> button to save 
+the adjusted parameter. The Picture 
+Style selection screen will reappear.
+X Any settings different from the default 
+will be displayed in blue.
+Parameter Settings and Effects
+A Customizing a Picture StyleN
+g Sharpness 0: Less sharp outline +7: Sharp outline
+h Contrast -4: Low contrast +4: High contrast
+i Saturation -4: Low saturation +4: High saturation
+j Color tone -4: Reddish skin tone +4: Yellowish skin tone
+COPY
+
+62
+A Customizing a Picture StyleN
+For Monochrome, you can also set [Filter effect] and [Toning effect] in 
+addition to [Sharpness] and [Contrast] explained on the preceding 
+page.
+kFilter Effect
+With a filter effect applied to a 
+monochrome image, you can make 
+white clouds or green trees stand out 
+more. 
+lToning Effect
+By applying a toning effect, you can 
+create a monochrome image in that 
+color. It can make the image look more 
+impressive.
+The following can be selected: [N:None] 
+[S:Sepia] [B:Blue] [P:Purple] 
+[G:Green].
+Monochrome Adjustment
+ By selecting [Default set.] in step 3, you can revert the respective 
+Picture Style to its default parameter settings.
+ To shoot with the Picture Style you modified, follow step 2 on the 
+preceding page to select the modified Picture Style and then shoot.
+Filter Sample Effects
+N: None Normal black-and-white image with no filter effects.
+Ye:Yellow The blue sky will look more natural, and the white clouds will look crisper.
+Or:Orange The blue sky will look slightly darker. The sunset will look more brilliant.
+R: Red The blue sky will look quite dark. Fall leaves will look crisper and brighter.
+G: Green Skin tones and lips will look fine. Tree leaves will look crisper and brighter.
+Increasing the [Contrast] will make the filter effect more pronounced.
+COPY
+
+63
+You can select a base Picture Style such as [Portrait] or [Landscape], adjust 
+its parameters as desired and register it under [User Def. 1], [User Def. 2], or 
+[User Def. 3]. You can create Picture Styles whose parameter settings such as 
+for sharpness and contrast are different. You can also adjust the parameters of a 
+Picture Style which has been registered to the camera with the provided software.
+1 Press the <A> button.
+2 Select [User Def.]. Turn the <6> or <5> dial to select 
+[User Def. *], then press the <B> 
+button.
+3 Press <0>. With [Picture Style] selected, press 
+<0>.
+4 Select the base Picture Style. Turn the <5> dial to select the base 
+Picture Style, then press <0>.
+ To adjust the parameters of a Picture 
+Style which has been registered to the 
+camera with the provided software, 
+select the Picture Style here.
+5 Select a parameter. Select a parameter such as 
+[Sharpness], then press <0>.
+A Registering a Picture StyleN
+COPY
+
+64
+A Registering a Picture StyleN
+6 Set the parameter. Turn the <5> dial to adjust the 
+parameter as desired, then press 
+<0>.
+For details, see “Customizing a 
+Picture Style” on pages 61-62.
+ Press the <M> button to register 
+the new Picture Style. The Picture 
+Style selection screen will then 
+reappear.
+X The base Picture Style will be 
+indicated on the right of [User Def. *].
+If a Picture Style has already been registered under [User Def. *], changing 
+the base Picture Style in step 4 will nullify the parameter settings of the 
+registered Picture Style.
+To shoot with the registered Picture Style, follow step 2 on the preceding 
+page to select [User Def. *] and then shoot.
+COPY
+
+65
+White balance (WB) is for making the white areas look white. Normally, the 
+<Q> (Auto) setting will obtain the correct white balance. If natural-looking 
+colors cannot be obtained with <Q>, you can select the white balance for 
+each light source or set it manually by shooting a white object. In the fullyautomatic modes (1/C), <Q> is set automatically.
+1 Press the <n> button. (9)
+2 Select the white balance. While looking at the LCD panel, turn 
+the <5> dial.
+To the human eye, a white object looks white regardless of the type of 
+lighting. With a digital camera, the color temperature is adjusted with 
+software to make the white areas look white. This adjustment serves as 
+the basis for the color correction. The result is natural-looking colors in 
+the pictures.
+B: Setting the White BalanceN
+Display Mode Color Temperature (Approx. K: Kelvin)
+Q Auto 3000 - 7000
+W Daylight 5200
+E Shade 7000
+R Cloudy, twilight, sunset 6000
+Y Tungsten light 3200
+U White fluorescent light 4000
+I Flash use 6000
+O Custom (p.66) 2000 - 10000
+P Color temperature (p.67) 2500 - 10000
+About White Balance
+You can also use the [2 White balance] menu to set the white balance.
+COPY
+
+66
+B: Setting the White BalanceN
+Custom white balance enables you to manually set the white balance 
+for a specific light source for better accuracy. Do this procedure under 
+the actual light source to be used.
+1 Photograph a white object. The plain, white object should fill the 
+spot metering circle.
+ Focus manually and set the standard 
+exposure for the white object.
+ You can set any white balance.
+2 Select [Custom WB]. Under the [2] tab, select [Custom 
+WB], then press <0>.
+X The custom white balance selection 
+screen will appear.
+3 Import the white balance data. Turn the <6> or <5> dial to select 
+the image captured in step 1, then 
+press <0>.
+X On the dialog screen which appears, 
+select [OK] and the data will be 
+imported.
+4 Press the <n> button. (9) After exiting the menu, press the 
+<n> button.
+5 Select the custom white balance. Look at the LCD panel and turn the 
+<5> dial to select <O>.
+O Custom White Balance
+Spot metering circle
+COPY
+
+67
+B: Setting the White BalanceN
+You can set the white balance’s color temperature numerically in Kelvin. 
+This is for advanced users.
+1 Select [White balance]. Under the <2> tab, select [White 
+balance], then press <0>.
+2 Set the color temperature. Turn the <5> dial to select the [P].
+ Turn the <6> dial to set the color 
+temperature, then press <0>.
+ The color temperature can be set 
+from 2500K to 10000K in 100K 
+increments.
+P Setting the Color Temperature
+ If the exposure obtained in step 1 is way off, a correct white balance 
+might not be obtained.
+ If the image was captured while the Picture Style was set to 
+[Monochrome] (p.60), it cannot be selected in step 3.
+ Instead of a white object, an 18% gray card (commercially available) can 
+produce a more accurate white balance.
+ The personal white balance registered with the provided software will be 
+registered under <O>. If you do step 3, the data for the registered 
+personal white balance will be erased.
+ When setting the color temperature for an artificial light source, set white 
+balance correction (magenta or green) as necessary.
+ If you want to set <P> to the reading taken with a commerciallyavailable color temperature meter, take test shots and adjust the setting 
+to compensate for the difference between the color temperature meter’s 
+reading and the camera’s color temperature reading.
+COPY
+
+68
+You can correct the white balance that has been set. This adjustment 
+will have the same effect as using a commercially-available color 
+temperature conversion filter or color compensating filter. Each color 
+can be corrected to one of nine levels.
+This is for advanced users who are familiar with using color temperature 
+conversion or color compensating filters.
+1 Select [WB SHIFT/BKT]. Under the [2] tab, select [WB 
+SHIFT/BKT], then press <0>.
+2 Set the white balance correction. Use <9> to move the “ ” mark to the 
+desired position.
+ B is for blue, A is amber, M is 
+magenta, and G is green. The color in 
+the respective direction will be 
+corrected.
+ On the upper right, “SHIFT” indicates 
+the direction and correction amount.
+ Pressing the <B> button will 
+cancel all the [WB SHIFT/BKT] 
+settings.
+ Press <0> to exit the setting and 
+return to the menu.
+u White Balance CorrectionN
+White Balance Correction
+Sample setting: A2, G1
+ During the white balance correction, <u> will be displayed in the 
+viewfinder and on the LCD panel.
+ One level of the blue/amber correction is equivalent to 5 mireds of a color 
+temperature conversion filter. (Mired: Measuring unit indicating the 
+density of a color temperature conversion filter.)
+COPY
+
+69
+u White Balance CorrectionN
+With just one shot, three images having a different color tone can be recorded 
+simultaneously. Based on the color temperature of the current white balance 
+setting, the image will be bracketed with a blue/amber bias or magenta/green 
+bias. This is called white balance bracketing (WB-BKT). White balance 
+bracketing is possible up to ±3 levels in single-level increments.
+Set the white balance bracketing amount.
+ In step 2 for white balance correction, 
+when you turn the <5> dial, the “ ” mark 
+on the screen will change to “ ” 
+(3 points). Turning the dial to the right sets 
+the B/A bracketing, and turning it to the 
+left sets the M/G bracketing.
+X On the right side of the screen, “BKT” 
+indicates the bracketing direction and 
+the bracketing amount.
+ Pressing the <B> button will cancel 
+all the [WB SHIFT/BKT] settings.
+ Press <0> to exit the setting and 
+return to the menu.
+Bracketing Sequence
+The images will be bracketed in the following sequence: 1. Standard 
+white balance, 2. Blue (B) bias, and 3. Amber (A) bias, or 1. Standard 
+white balance, 2. Magenta (M) bias, 3. Green (G) bias.
+White Balance Auto Bracketing
+B/A bias ±3 levels
+ During WB bracketing, the maximum burst for continuous shooting will be 
+lower and the number of possible shots will also decrease to one-third the 
+normal number. Also, the white balance icon will blink on the LCD panel.
+ You can also set white balance correction and AEB together with white 
+balance bracketing. If you set AEB in combination with white balance 
+bracketing, a total of nine images will be recorded for a single shot.
+ Since three images are recorded for one shot, the card will take longer to 
+record the shot.
+ “BKT” stands for Bracketing.
+COPY
+
+70
+Due to the lens characteristics, the four corners of the picture might look 
+darker. This is called lens light fall-off or drop in peripheral illumination. 
+This can be corrected. For JPEG images, lens light fall-off is corrected 
+when the image is captured. For RAW images, it can be corrected with 
+Digital Photo Professional (provided software).
+The default setting is [Enable].
+1 Select [Peripheral illumin. correct.].
+ Under the [1] tab, select 
+[Peripheral illumin. correct.], then 
+press <0>.
+2 Set the correction setting. On the screen, check that the 
+attached lens’ [Correction data 
+available] is displayed.
+ If [Correction data not available] is 
+displayed, see “About the Lens 
+Correction Data” on the next page.
+ Turn the <5> dial to select [Enable], 
+then press <0>.
+3 Take the picture. The image will be recorded with the 
+corrected peripheral illumination.
+3 Lens Peripheral Illumination Correction
+Correction enabled Correction disabled
+COPY
+
+71
+3 Lens Peripheral Illumination Correction
+The camera already contains lens peripheral light correction data for 
+about 25 lenses. In step 2, if you select [Enable], the peripheral light 
+correction will be applied automatically for any lens whose correction 
+data has been registered in the camera.
+With the EOS Utility (provided software), you can check which lenses 
+have their correction data registered in the camera. You can also 
+register the correction data for unregistered lenses. For details, see the 
+Software Instruction Manual (CD-ROM) for EOS Utility.
+About the Lens Correction Data
+ For JPEG images already captured, lens peripheral light correction 
+cannot be applied.
+ Depending on shooting conditions, noise might appear on the image 
+periphery.
+ When using a third-party lens, setting the correction to [Disable] is 
+recommended, even if [Correction data available] is displayed.
+ Lens peripheral light correction is applied even when an Extender is 
+attached.
+ If the correction data for the attached lens has not been registered to the 
+camera, the result will be the same as when the correction is set to 
+[Disable].
+ The correction amount applied will be slightly lower than the maximum 
+correction amount settable with Digital Photo Professional (provided 
+software).
+ If the lens does not have distance information, the correction amount will 
+be lower.
+ The higher the ISO speed, the lower the correction amount will be.
+COPY
+
+72
+You can freely create and select the folder where the captured images 
+are to be saved.
+This is optional since a folder will be created automatically for saving 
+captured images.
+1 Select [Select folder]. Under the [5] tab, select [Select 
+folder], then press <0>.
+2 Select [Create folder]. Turn the <5> dial to select [Create 
+folder], then press <0>.
+3 Create a new folder. Turn the <5> dial to select [OK], 
+then press <0>.
+X A new folder with a higher one-up 
+folder number is created.
+3 Creating and Selecting a Folder
+Create a Folder
+COPY
+
+73
+3 Creating and Selecting a Folder
+ With the Select folder screen 
+displayed, turn the <5> dial to select 
+the desired folder, then press <0>.
+X The folder where the captured 
+images will be saved will be selected.
+ Subsequent captured images will be 
+recorded into the selected folder.
+Selecting a Folder
+Quantity of images
+in folder
+Folder name
+Lowest file number
+Highest file number
+About Folders
+As with “100EOS5D” for example, the folder name starts with three digits 
+(folder number) followed by five alphanumeric characters. A folder can contain 
+up to 9999 images (file No. 0001 - 9999). When a folder becomes full, a new 
+folder with a higher one-up folder number is created automatically. Also, if 
+manual reset (p.75) is executed, a new folder will be created automatically. 
+Folders numbered from 100 to 999 can be created.
+Creating Folders with a Personal Computer
+With the card open on the screen, create a new folder named “DCIM”. Open 
+the DCIM folder and create as many folders as necessary to save and 
+organize your images. The folder name must follow the “100ABC_D” format 
+where the first three digits is 100 - 999 followed by five alphanumeric 
+characters. The five characters can be a combination of upper- or lower-case 
+letters from A to Z, numerals, and an underscore “_”. There can be no space in 
+the folder name. Also, folder names cannot have the same three-digit number 
+such as “100ABC_D” and “100W_XYZ” even if the letters are different.
+COPY
+
+74
+The file number is like the frame number on a roll of film. The captured 
+images are assigned a sequential file number from 0001 to 9999 and 
+saved in one folder. You can change how the file number is assigned.
+The file number will appear on a personal computer in this format: 
+IMG_0001.JPG.
+1 Select [File numbering]. Under the [5] tab, select [File 
+numbering], then press <0>.
+2 Select the file numbering method. Turn the <5> dial to select the 
+desired method, then press <0>.
+Continues the file numbering sequence even after the card is 
+replaced or a new folder is created.
+Even after you replace the card or create a new folder, the file 
+numbering continues in sequence up to 9999. This is convenient when 
+you want to save the images numbered anywhere between 0001 to 
+9999 in multiple cards or folders into one folder in your personal 
+computer.
+If the replacement card or existing folder already contains images 
+recorded previously, the file numbering of the new images might 
+continue from the file numbering of the existing images in the card or 
+folder. If you want to use continuous file numbering, you should use a 
+newly-formatted card each time.
+3 File Numbering Methods
+Continuous
+XXX-0051
+Card-1
+XXX-0052
+Card-2
+File numbering after 
+replacing the card
+Next sequential file
+100
+XXX-0051
+101
+XXX-0052
+Card-1
+File numbering after 
+creating a folder
+COPY
+
+75
+3 File Numbering Methods
+The file numbering restarts from 0001 each time the card is 
+replaced or a new folder is created.
+Whenever the card is replaced or a new folder created, the file 
+numbering starts from 0001. This is convenient if you want to organize 
+images according to cards or folders. If the replacement card or existing 
+folder already contains images recorded previously, the file numbering 
+of the new images might continue from the file numbering of the existing 
+images in the card or folder. If you want to save images with the file 
+numbering starting from 0001, use a newly formatted card each time.
+To reset the file numbering to 0001 or to start from file number 
+0001 in a new folder
+When you reset the file numbering manually, a new folder is created 
+automatically and the file numbering of images saved to that folder starts 
+from 0001. This is convenient when you want to use different folders for the 
+images taken yesterday and the ones taken today, for example. After the 
+manual reset, the file numbering returns to continuous or auto reset.
+Auto Reset
+Manual Reset
+XXX-0051
+Card-1
+100-0001
+Card-2
+File numbering after 
+replacing the card
+File numbering is reset
+100
+XXX-0051
+101
+XXX-0001
+Card-1
+File numbering after 
+creating a folder
+If the file number in the folder No. 999 reaches 9999, shooting will not be 
+possible even if the card still has storage capacity. The LCD monitor will 
+display a message to replace the card. Replace with a new card.
+For both JPEG and RAW images, the file name will start with “IMG_”. Movie 
+file names will start with “MVI_”. The extension will be “.JPG” for JPEG 
+images, “.CR2” for RAW images, and “.MOV” for movies.
+COPY
+
+76
+The color space refers to the range of reproducible colors. With this 
+camera, you can set the color space for captured images to sRGB or 
+Adobe RGB. For normal shooting, sRGB is recommended.
+In the fully-automatic modes (1/C), sRGB is set automatically.
+1 Select [Color space]. Under the [2] tab, select [Color 
+space], then press <0>.
+2 Set the desired color space. Select [sRGB] or [Adobe RGB], then 
+press <0>.
+This color space is mainly used for commercial printing and other 
+industrial uses. This setting is not recommended if you do not know 
+about image processing, Adobe RGB, and Design rule for Camera File 
+System 2.0 (Exif 2.21). The image will look very subdued in the sRGB 
+personal computer environment and with printers not compatible with 
+Design rule for Camera File System 2.0 (Exif 2.21). Post-processing of 
+the image with software will therefore be required.
+3 Setting the Color SpaceN
+About Adobe RGB
+ If the image is captured with the color space set to Adobe RGB, the file 
+name will start with “_MG_” (first character is an underscore).
+ The ICC profile is not appended. The ICC profile is explained in the 
+Software Instruction Manual in the CD-ROM.
+COPY
+
+77
+4
+Setting the AF and
+Drive Modes
+The viewfinder has 9 AF points. By 
+selecting a suitable AF point, you 
+can shoot with autofocus while 
+framing the subject as desired.
+You can also select the AF mode and drive mode best 
+matching the shooting conditions and subject.
+ The M icon on the right of the page title indicates that the 
+function can be used when the Mode Dial is set to <d/s/
+f/a/F>.
+ In the fully-automatic modes (1/C), the AF mode, AF 
+point selection, and drive mode are set automatically.
+<AF> stands for auto focus. <MF> stands for manual focus.
+COPY
+
+78
+Select the AF mode suiting the shooting conditions or subject. In the 
+fully-automatic modes (1/C), “AI Focus AF” is set automatically.
+1 On the lens, set the focus mode switch to <AF>.
+2 Press the <o> button. (9)
+3 Select the AF mode. While looking at the LCD panel, turn 
+the <6> dial.
+X: One-Shot AF
+9: AI Focus AF
+Z: AI Servo AF
+f: Selecting the AF ModeN
+COPY
+
+79
+f: Selecting the AF ModeN
+Suited for still subjects. When you 
+press the shutter button halfway, the 
+camera will focus only once.
+ When focus is achieved, the AF point 
+which achieved focus will flash in red, 
+and the focus confirmation light <o> 
+in the viewfinder will also light.
+ With evaluative metering, the 
+exposure setting will be set at the 
+same time focus is achieved.
+ While you hold down the shutter button 
+halfway, the focus will be locked. You 
+can then recompose the shot if desired.
+ In the d/s/f/a/F shooting modes, AF is also possible by 
+pressing the <p> button.
+This AF mode is for moving subjects when 
+the focusing distance keeps changing. While 
+you hold down the shutter button halfway, 
+the subject will be focused continuously.
+ The exposure is set at the moment 
+the picture is taken.
+ In the d/s/f/a/F shooting 
+modes, AF is also possible by 
+pressing the <p> button.
+One-Shot AF for Still Subjects
+Focus confirmation
+light
+AF point
+AI Servo AF for Moving Subjects
+ If focus cannot be achieved, the focus confirmation light <o> in the 
+viewfinder will blink. If this occurs, a picture cannot be taken even if the 
+shutter button is pressed completely. Recompose the picture and try to 
+focus again. Or see “When Autofocus Fails” (p.84).
+ If the [1 Beep] menu is set to [Off], the beeper will not sound when 
+focus is achieved.
+COPY
+
+80
+f: Selecting the AF ModeN
+ When the AF point selection (p.81) is automatic, the camera first 
+uses the center AF point to focus. Within the spot metering circle, 
+there are six invisible Assist AF points ( in diagram) that function in 
+the AI SERVO AF mode. Therefore, even if the subject moves away 
+from the center AF point during autofocusing, focusing can still 
+continue. Also, even if the subject moves far away from the center 
+AF point, focus tracking continues as long as the subject is covered 
+by another AF point.
+ A manually-selected AF point will focus track the subject in the AI 
+Servo AF mode.
+AI Focus AF switches the AF mode 
+from One-Shot AF to AI Servo AF 
+automatically if the still subject starts 
+moving.
+ After the subject is focused in the 
+One-Shot AF mode, if the subject 
+starts moving, the camera will detect 
+the movement and change the AF 
+mode automatically to AI Servo AF.
+AI Focus AF for Automatic Switching of AF Mode
+With AI Servo AF, the beeper will not sound even when focus is achieved. 
+Also, the focus confirmation light <o> in the viewfinder will not light.
+When focus is achieved in the AI Focus AF mode with the Servo mode 
+active, the beeper will sound softly. However, the focus confirmation light 
+<o> in the viewfinder will not light.
+COPY

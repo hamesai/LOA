@@ -1,0 +1,1156 @@
+CHAPTER 7 Sound in the Cinema
+
+ 
+
+ 
+
+Most films create the impression that the people and things onscreen simply produce an appropriate noise. But, as we saw in Chapter 1, in the process of film production, the sound track is constructed separately from the images, and it can be manipulated independently. This makes sound as flexible and wide-ranging as other film techniques.
+
+Yet sound is perhaps the hardest technique to study. We’re accustomed to ignoring many of the sounds in our environment. Our primary information about the layout of our surroundings comes from sight, and so in ordinary life, sound is often simply a background for our visual attention. Similarly, we speak of watching a film and of being movie viewers or spectators—all terms that suggest the sound track is a secondary factor. We’re strongly inclined to think of sound as simply an accompaniment to the real basis of cinema: the moving images.
+
+Moreover, we can’t stop the film and freeze an instant of sound, as we can study a frame to examine mise-en-scene and cinematography. Nor can we lay out the sound track for our inspection as easily as we can examine the editing of a string of shots. In film, the sounds and the patterns they form are elusive. This elusiveness accounts for part of the power of this technique: sound can achieve very strong effects and yet remain quite unnoticeable. To study sound, we must learn to listen to films.
+
+Fortunately, filmgoers have become more sensitive. Star Wars and other hits of the 1970s introduced the broad public to new technologies of sound recording and reproduction. Audiences came to expect Dolby noise reduction processes, expanded frequency and dynamic range, and four- and six-track theater playback. During the early 1990s, digital sound became routine for big-budget pictures, and now virtually all releases have crisp, dense sound tracks. “An older film like Casablanca has an empty soundtrack compared with what we do today,” remarks sound designer Michael Kirchberger, supervising sound editor for Lost in Translation. “Tracks are fuller and more of a selling point.” Multiplex theaters upgraded their sound systems to meet the challenge, and the popularity of DVDs prompted consumers to set up home theaters with ravishing sound. Viewers’ new sensitivity to sound is apparent in the recent habit of starting a film’s sound track with dialogue or sound effects, before the images appear. You can argue that this device serves to quiet down the audience so that the imagery gets the proper attention, but often the sonic information is important to the story as well. In any event, not since the first talkies of the late 1920s have filmgoers been so aware of what they hear.
+
+The Powers of Sound
+
+Whether noticed or not, sound is a powerful film technique for several reasons. For one thing, it engages a distinct sense mode. Even before recorded sound was introduced in 1926, silent films were accompanied by orchestra, organ, or piano. At a minimum, the music filled in the silence and gave the spectator a more complete perceptual experience. More significantly, the engagement of hearing opens the possibility of what the Soviet director Sergei Eisenstein called “synchronization of senses”—making a single rhythm or expressive quality unify both image and sound.
+
+The meshing of image and sound appeals to something quite deep in human consciousness. Babies spontaneously connect sounds with what they see. The most basic condition involves timing: if a sound and image occur at the same moment, they are perceived as one event, not two. Just as our minds search for patterns in a shot or for causal patterns in a narrative, we are inclined to seek out patterns that will fuse lip movements and speech, and even musical rhythms with visual ones. Our bias toward audio-visual patterning governs both our everyday activities (imagine hearing a friend’s talk out of synch) and our experiences of arts like music, theater, and film.
+
+“The most exciting moment is the moment when I add the sound…. At this moment, I tremble.”
+
+— Akira Kurosawa, director
+
+ 
+
+Sound is often treated as an accompaniment to the images, but we need to recognize that it can actively shape how we understand them. In one sequence of Letter from Siberia
+(7.1–7.4), Chris Marker demonstrates the power of sound to alter our understanding of images. Three times Marker shows the same footage—a shot of a bus passing a car on a city street, three shots of workers paving a street. But each time the footage is accompanied by a completely different sound track. Compare the three versions tabulated alongside the sequence in Table 7.1. The first one is heavily affirmative, the second is harshly critical, and the third mixes praise and criticism. The audience will construe the same images differently, depending on the sound track.
+
+TABLE 7.1 Letter From Siberia Footage
+
+ 
+
+ 
+
+ 
+
+The Letter from Siberia sequence demonstrates another advantage of sound: film sound can direct our attention quite specifically within the image. When the commentator describes the “blood-colored buses,” we are likely to look at the bus and not at the car. When Fred Astaire and Ginger Rogers are executing an intricate step, chances are that we watch their bodies and not the silent nightclub spectators looking on. In such ways, sound can guide us through the images.
+
+This possibility becomes even more fertile when you consider that the sound cue for some visual element may anticipate that element and relay our attention to it. Suppose we have a close-up of a man in a room and hear the creaking of a door opening. If the next shot shows the door, now open, our attention will probably shift to that door, the source of the offscreen sound. But if the second shot shows the door still closed, we will likely ponder our interpretation of the sound. (Maybe it wasn’t a door, after all?) Thus the sound track can clarify image events, contradict them, or render them ambiguous. In all cases, the sound track can enter into an active relation with the image track.
+
+This example of the door opening suggests another advantage of sound. It cues us to form expectations. If we hear a door creaking, we anticipate that someone has entered a room and that we will see the person in the next shot. But if the film draws on conventions of the horror genre, the camera might stay on the man, staring fearfully. We would then be in suspense awaiting the appearance of something frightful off-screen. Horror and mystery films often use the power of sound from an unseen source to engage the audience’s interest, but all types of films can take advantage of this aspect of sound. During the town meeting in Jaws, the characters hear a grating sound and turn to look offscreen; a cut reveals Quint’s fingers scraping on a blackboard—creating a dramatic introduction to this character. We’ll see several other cases in which the use of sound can creatively cheat or redirect the viewer’s expectations.
+
+In addition, sound gives a new value to silence. A quiet passage in a film can create almost unbearable tension, forcing the viewer to concentrate on the screen. An abrupt silence can jolt us and arrest our attention (7.5, 7.6). Just as color film turns black and white into grades of color, so the use of sound in film will include all the possibilities of silence.
+
+ 
+
+7.5 In Babel, when the deaf teenage girl enters the disco, the club music is about to climax.
+
+ 
+
+ 
+
+ 
+
+7.6 Instead, it drops out when we cut to her optical point-of-view on the boy she’s following. Instead of subjective sound, we get subjective silence, and this sharply dramatizes her isolation from what is happening around her.
+
+ 
+
+ 
+
+One more advantage: sound bristles with as many creative possibilities as editing. Through editing, one may join shots of any two spaces to create a meaningful relation. Similarly, the filmmaker can mix any sonic phenomena into a whole. With the introduction of sound cinema, the infinity of visual possibilities was joined by the infinity of acoustic events.
+
+Fundamentals of Film Sound
+
+Perceptual Properties
+
+Several aspects of sound as we perceive it are familiar to us from everyday experience and are central to film’s use of sound.
+
+Loudness
+
+The sound we hear results from vibrations in the air. The amplitude, or breadth, of the vibrations produces our sense of loudness, or volume. Film sound constantly manipulates volume. For example, in many films, a long shot of a busy street is accompanied by loud traffic noises, but when two people meet and start to speak, the volume of the traffic drops. Or a dialogue between a soft-spoken character and a blustery one is characterized as much by the difference in volume as by the substance of the talk.
+
+Loudness is also related to perceived distance; often the louder the sound, the closer we take it to be. This sort of assumption seems to be at work in the street traffic example already mentioned: the couple’s dialogue, being louder, is sensed as in the acoustic foreground, while the traffic noise recedes to the background. In addition, a film may startle the viewer by exploiting abrupt and extreme shifts in volume (usually called changes in dynamics), as when a quiet scene is interrupted by a very loud noise.
+
+Pitch
+
+The frequency of sound vibrations affects pitch, or the perceived highness or lowness of the sound. Certain instruments, such as the tuning fork, can produce pure tones, but most sounds, in life and on film, are complex tones, batches of different frequencies. Nevertheless, pitch plays a useful role in helping us pick out distinct sounds in a film. It helps us distinguish music and speech from noises. It also serves to distinguish among objects. Thumps can suggest hollow objects, while higher-pitched sounds (like those of jingle bells) suggest smoother or harder surfaces and denser objects.
+
+Pitch can also serve more specific purposes. When a young boy tries to speak in a man’s deep voice and fails, as in How Green Was My Valley, the joke is based primarily on pitch. Marlene Dietrich’s vocal delivery often depends on a long upward-gliding intonation that makes a statement sound like a question. In the coronation scene of Ivan the Terrible,
+Part I, a court singer with a deep bass voice begins a song of praise to Ivan, and each phrase rises dramatically in pitch (7.7–7.9). When Bernard Herrmann obtained the effects of shrill, birdlike shrieking in Hitchcock’s Psycho, even many musicians could not recognize the source: violins played at extraordinarily high pitch.
+
+ 
+
+7.7 In Ivan the Terrible, Eisenstein emphasizes changes in vocal pitch by cutting from a medium-long shot …
+
+ 
+
+ 
+
+ 
+
+7.8 … to a medium shot …
+
+ 
+
+ 
+
+ 
+
+7.9 … to a close-up of the singer.
+
+ 
+
+ 
+
+When Julianne Moore was planning her performance as the protagonist of Todd Haynes’s Safe, she took pitch and other vocal qualities into account:
+
+My first key to her was her voice, her vocal patterns. I started with a very typical Southern California speech pattern. It’s almost a sing-song rhythm, you know—it’s referred to as the “Valley quality” that travelled across the country and became a universal American vocal pattern. It was important to me that her voice would have that kind of melody to it. And then I would put question marks at the end of the sentence all the time—that way she never makes a statement; it makes her very unsure and very undefined. I also went above my own chords, because I wanted the sensation of her voice not being connected at all to her body—that’s why her voice is so high. This is someone who’s completely disconnected from any kind of physicality, from any sense of being herself, from really knowing herself. In that sense, I guess the vocal choices are somewhat metaphorical.
+
+ 
+
+Timbre
+
+The harmonic components of sound give it a certain color, or tone quality—what musicians call timbre. When we call someone’s voice nasal or a certain musical tone mellow, we’re referring to timbre. Timbre is actually a less fundamental acoustic parameter than amplitude or frequency, but it’s indispensable in describing the texture or “feel” of a sound. In everyday life, the recognition of a familiar sound is largely a matter of various aspects of timbre.
+
+Filmmakers manipulate timbre continually. Timbre can help articulate portions of the sound track, as when it differentiates musical instruments from one another. Timbre also comes forward on certain occasions, as in the clichéd use of oleaginous saxophone tones behind seduction scenes. More subtly, in the opening sequence of Rouben Mamoulian’s Love Me Tonight, people starting the day on a street pass a musical rhythm from object to object—a broom, a carpet beater—and the humor of the number springs in part from the very different timbres of the objects. In preparing the sound track for Peter Weir’s Witness, the editors drew on sounds recorded 20 or more years before, so that the less modern timbre of the older recordings would evoke the rustic seclusion of the Amish community.
+
+Loudness, pitch, and timbre interact to define the overall sonic texture of a film. For example, these qualities enable us to recognize different characters’ voices. Both John Wayne and James Stewart speak slowly, but Wayne’s voice tends to be deeper and gruffer than Stewart’s querulous drawl. This difference works to great advantage in The Man Who Shot Liberty Valance, where their characters are sharply contrasted. In The Wizard of Oz, the disparity between the public image of the Wizard and the old charlatan who rigs it up is marked by the booming bass of the effigy and the old man’s higher, softer, more quavering voice.
+
+Loudness, pitch, and timbre also shape our experience of a film as a whole. Citizen Kane, for example, offers a wide range of sound manipulations. Echo chambers alter timbre and volume. A motif is formed by the inability of Kane’s wife, Susan, to sing pitches accurately. Moreover, in Citizen Kane, the plot’s shifts between times and places are covered by continuing a sound thread and varying the basic acoustics. A shot of Kane applauding dissolves to a shot of a crowd applauding (a shift in volume and timbre). Leland beginning a sentence in the street cuts to Kane finishing the sentence in an auditorium, his voice magnified by loudspeakers (a shift in volume, timbre, and pitch).
+
+“The Empire spaceship sounded a certain way as compared to the Imperial fleet; that was a deliberate style change. Everybody in the Empire had shrieking, howling, ghostlike, frightening sounds…. You hear it—you jump with fear. Whereas the rebel forces had more junky-sounding planes and spaceships. They weren’t quite as powerful; they tended to pop and sputter more.”
+
+— Ben Burtt, sound editor, Star Wars
+
+ 
+
+Recent noise reduction techniques, multitrack reproduction, and digital sound yield wider ranges of frequency and volume, as well as crisper timbres than film-makers could achieve in the studio years. Today sound editors can individualize voice or noise to a surprising degree. For The Thin Red Line, every character’s distinctive breathing sounds were recorded for use as ambient noise. Randy Thoms, sound designer for Cast Away, sought to characterize different sorts of wind—breezes from the open sea, winds in a cave. Sound even announces a shift in wind direction crucial to one of the hero’s plans. “We can use the wind in a very musical way,” Thoms notes.
+
+Selection, Alteration, and Combination
+
+Sound in the cinema is of three types: speech, music, and noise (also called sound effects). Occasionally, a sound may cross categories—Is a scream speech or noise? Is electronic music also noise?—and filmmakers have freely exploited these ambiguities. In Psycho, when a woman screams, we expect to hear a human voice and instead hear screaming violins. Nevertheless, in most cases, the distinctions hold. Now that we have an idea of some basic acoustic properties, how are speech, music, and noise selected and combined for specific purposes?
+
+“Too many films seem essentially designed to be heard in the mixing studios. I always fight against recording every single footstep, and would rather lose the sound of people settling into armchairs, etc., and fade out a particular atmosphere sound once the emotional impact has been achieved, even at the cost of realism. You have to know how to play with silence, to treat sound like music.”
+
+— Bernard Tavernier, director
+
+ 
+
+Choosing and Manipulating Sounds
+
+The creation of the sound track resembles the editing of the image track. Just as the filmmaker may pick the best image from several shots, he or she may choose what exact bit of sound will best serve the purpose. Just as footage from disparate sources may be blended into a single visual track, so too sound that was not recorded during filming may be added freely. Moreover, a shot may be rephotographed or tinted in color or jigsawed into a composite image, and a bit of sound be processed to change its acoustic qualities. And just as the filmmaker may link or superimpose images, so may he or she join any two sounds end to end or place one over another. Though we aren’t usually as aware of sonic manipulations, the sound track demands as much choice and control as does the visual track.
+
+Sometimes the sound track is conceived before the image track. Studio-made animated cartoons typically record music, dialogue, and sound effects before the images are filmed, so that the figures may be synchronized with the sound frame by frame. For many years, Carl Stalling created frantically paced jumbles of familiar tunes, weird noises, and distinctive voices for the adventures of Bugs Bunny and Daffy Duck. Experimental films also frequently build their images around a preexisting sound track. Some filmmakers have even argued that abstract cinema is a sort of “visual music” and have tried to create a synthesis of the two media.
+
+Not all the sounds we hear in a film are generated specifically for that project. Editors tend to build their own collections of sounds that intrigue them, but sometimes they reuse music or effects stored in sound libraries. Most famous is the “Wilhelm scream,” first heard in a 1951 American film when an alligator bites off a cowboy’s arm. The scream was recycled in Star Wars, Raiders of the Lost Ark, Reservoir Dogs, Transformers, and over a hundred other films.
+
+As with other film techniques, sound guides the viewer’s attention. Normally, the sound track is clarified and simplified so that important material stands out. Dialogue, as a transmitter of story information, is usually recorded and reproduced for maximum clarity. Important lines should not have to compete with music or background noise. Sound effects are usually less important. They supply an overall sense of a realistic environment and are seldom noticed; if they were missing, however, the silence would be distracting. Music is usually subordinate to dialogue as well, entering during pauses in conversation or effects.
+
+Dialogue doesn’t always rank highest in importance, though. Sound effects are usually central to action sequences, while music can dominate dance scenes, transitional sequences, or emotion-laden moments without dialogue. And some filmmakers have shifted the weight conventionally assigned to each type of sound. Charlie Chaplin’s City Lights and Modern Times eliminate dialogue, letting sound effects and music come to the fore. The films of Jacques Tati and Jean-Marie Straub retain dialogue but still place great emphasis on sound effects. In Robert Bresson’s A Man Escaped, music and noise fill out a sparse dialogue track by evoking offscreen space and creating thematic associations.
+
+“We were going for a documentary feel. We came up with a way for the loop group actors to say lines in a way we called ‘nondescript dialogue.’ They said lines, but they didn’t say the actual words. If you put it behind people speaking, you just think it’s people talking offscreen, but your ear isn’t drawn to it. It would just lie there as a bed, and you can play it relatively loudly and it just fits in with the scenes.”
+
+— Hugh Waddell, ADR supervisor, on The Thin Red Line
+
+ 
+
+In creating a sound track, then, the filmmaker must select sounds that will fulfill a particular function. In order to do this, the filmmaker usually will provide a clearer, simpler sound world than that of everyday life. Normally, our perception filters out irrelevant stimuli and retains what is most useful at a particular moment. As you read this, you are attending to words on the page and (to various degrees) ignoring certain stimuli that reach your ears. But if you close your eyes and listen attentively to the sounds around you, you will become aware of many previously unnoticed sounds—traffic, footsteps, distant voices. Any amateur recordist knows that if you set up a microphone and recorder in what seems to be a quiet environment, those normally unnoticed sounds suddenly become obtrusive. The microphone is unselective; like the camera lens, it doesn’t automatically filter out what is distracting. Sound studios, camera blimps to absorb motor noise, directional and shielded microphones, sound engineering and editing, and libraries of stock sounds—all allow the filmmaker to choose exactly what the sound track requires.
+
+By choosing certain sounds, the filmmaker guides our perception of the image and the action. In one scene from Jacques Tati’s Mr. Hulot’s Holiday, vacationers at a resort hotel are relaxing (7.10). Early in the scene, the guests in the foreground are murmuring quietly, but Hulot’s Ping-Pong game is louder; the sound cues us to watch Hulot. Later in the scene, however, the same Ping-Pong game makes no sound at all, and our attention is drawn to the muttering cardplayers in the foreground. The presence and absence of the sound of the Ping-Pong ball guides our expectations. If you start to notice how such selection of sound shapes our perception, you will also notice that filmmakers often use sound quite unrealistically, in order to shift our attention to what is narratively or visually important.
+
+ 
+
+7.10 In Mr. Hulot’s Holiday, in the foreground, guests quietly play cards while in the depth of the shot, Mr. Hulot is frantically playing Ping-Pong.
+
+ 
+
+ 
+
+Our scene from Mr. Hulot’s Holiday also points up the importance of how a chosen sound may have its acoustic qualities transformed for a particular purpose. Thanks to a manipulation of volume and timbre, the Ping-Pong game gains in vividness. When two sounds are of the same frequency or loudness, contemporary sound designers freely adjust one to make it stand out more clearly. During the jungle chase in Indiana Jones and the Kingdom of the Crystal Skull, the skull’s thump was altered. “I changed its pitch so that it would coexist with the music,” sound designer Ben Burtt explained.
+
+At the limit, wholly new sounds may be made of old ones. The noises emitted by the demonically possessed girl in The Exorcist blended screams, animal thrashings, and English spoken backward. To create the roar of a Tyrannosaurus rex for Jurassic Park, sound engineers fused a tiger’s roar, a baby elephant’s trumpeting at midrange frequencies, and an alligator’s growl for the lower tones. On film, even jet planes’ roars typically include cries of animals—not only lions and elephants but monkeys as well.
+
+Nowadays, film sound is normally reprocessed to yield exactly the qualities desired. A dry recording of the sound in a fairly nonreflective space will be manipulated electronically to yield the desired effect. For instance, the voice of someone on the telephone is typically treated with filters to make it more tinny and muffled. (In Hollywood parlance, this is called “futzing” the sound.) The almost nonstop rock-and-roll music of American Graffiti used two recordings of the music. A dry one was prepared for moments when the music was to dominate the scene and had to be of high quality. A more ambient one for background noise was derived from a tape recorder simply playing the tune in a backyard.
+
+“Is it better to say, ‘I love you,’ bang, then cut to the reaction? Or is it better to say, ‘I love you,’ hang on it a beat to show the emotion of the person delivering the line, then go for the reaction? It’s a matter of choice. Either way, there’s a different result for the audience looking at it. Are their sympathies with the guy who said the line, or the girl who said the line? Or is the audience saying, ‘Don’t believe him, he’s going to screw you over!’ … If you find the frame to cut on at that right moment, the audience will be totally satisfied.”
+
+— Tom Rolf, editor
+
+ 
+
+Sound Mixing
+
+Guiding the viewer’s attention, then, depends on selecting and reworking particular sounds. It also depends on mixing, or combining them. It is useful to think of the sound track not as a set of discrete sound units but as an ongoing stream of auditory information. Each sonic event takes its place in a specific pattern. This pattern both links events in time and layers them at any given moment.
+
+We can easily see how the sound track offers a stream of auditory information by considering a scene cut according to classical continuity principles. When film-makers edit conversations in shot/reverse shot, they often use a dialogue overlap to smooth down the visual change of shot. In a dialogue overlap, the filmmaker continues a line of dialogue across a cut. During a conversation in John McTiernan’s The Hunt for Red October, we get the following shots and dialogue:
+
+(ms) Over the political officer’s shoulder, favoring Captain Ramius (7.11)
+
+Officer: “Captain Tupalev’s boat.”
+
+Ramius: “You know Tupalev?”
+
+Officer: “I know he descends …”
+
+(ms) Reverse angle over Ramius’s shoulder, favoring the officer (7.12)
+
+Officer (continuing): “… from aristocracy, and that he was your student. It’s rumored he has a special …”
+
+(mcu) Reverse angle on Ramius (7.13)
+
+Officer (continuing): “… place in his heart for you.”
+
+Ramius: “There’s little room in Tupalev’s heart for anyone but Tupalev.”
+
+ 
+
+7.11 The Hunt for Red October: shot 1.
+
+ 
+
+ 
+
+ 
+
+7.12 The Hunt for Red October: shot 2.
+
+ 
+
+ 
+
+ 
+
+7.13 The Hunt for Red October: shot 3.
+
+ 
+
+ 
+
+CONNECT TO THE BLOG
+
+We’ve been fortunate enough to sit in on some mixing sessions and learn from people who mix sound. See “Christian Bale picks up a rail” www.davidbordwell.net/blog/?p=963, “What does a Water Horse sound like?” www.davidbordwell.net/blog/?p=1718, and “The boy in the Black Hole” www.davidbordwell.net/blog/?p=2212.
+
+Here the political officer’s chatter provides an auditory continuity that distracts from the shot changes. Moreover, by cutting to a closer view of the listener before a sentence is finished, the sound and editing concentrate our attention on Ramius’s response. As a Hollywood editor puts it, “The minute a telling word or a question is posed … I go for a reaction to see … how they are trying to formulate the answer in their face or dialogue.” The principle of dialogue overlap can be used with noise as well. In the Hunt for Red October scene just mentioned, sounds of a spoon clinking in a tea cup and of papers being riffled also carry over certain cuts, providing a continuous stream of sonic information.
+
+This auditory stream can involve more than simply linking one line of dialogue or bit of noise to another. We have already seen that in production, combining sounds is usually done after shooting, in the mixing process. For example, in Jurassic Park, Steven Spielberg manipulates volume unrealistically for purposes of narrative clarity. After a live cow has been lowered into the velociraptors’ pen, the South African hunter gives important information about the habits of these predators, and his voice comes through louder than those of characters closer to the camera (7.14). The mixer can precisely control the volume, duration, and tone quality of each sound. In modern filmmaking, a dozen or more separate tracks may be mixed in layers at any moment. The mix can be quite dense, as when an airport scene combines the babble of several distinct voices, footsteps, luggage trolleys, Muzak, and plane engines. Or the mix can be very sparse, with an occasional sound emerging against a background of total silence. Most cases will fall somewhere between these extremes. In our Hunt for Red October scene, a distant throbbing engine and slight brushings of fabric form a muted background to the dialogue exchange.
+
+ 
+
+7.14 In Jurassic Park, although Hammond and Ellie are closer to the camera than is anything else in the shot, their dialogue is an unintelligible murmur, while the exposition about velociraptors given by the hunter in the background is clearly audible.
+
+ 
+
+ 
+
+“For the last few years—since Blue Velvet, I think—I have tried to do most of the music before the shoot. I discuss the story with my composer, Angelo Badalamenti, and record all sorts of music that I listen to as I’m shooting the film, either on headphones during dialogue scenes or on loudspeakers, so that the whole crew gets in the right mood. It’s a great tool. It’s like a compass helping you find the right direction.”
+
+— David Lynch, director
+
+ 
+
+The filmmaker may create a mix in which each sound blends smoothly with the others. This is commonly the case when music and effects are mixed with speech. In classical Hollywood cinema of the 1930s, the musical score may become prominent in moments in which there is no dialogue, and then it’s likely to fade unnoticeably down just as the characters begin to talk. (In studio parlance, this is called sneaking in and sneaking out.) Sometimes the mix will associate sounds evocatively. In The English Patient, when the nurse feeds the patient a plum, a distant churchbell rings, suggesting a peaceful refuge from the war.
+
+Alternatively, the acoustic stream may contain much more abrupt contrasts. Contemporary Hollywood films often exploit the dynamic range of Dolby technology to fill chase sequences with startling shifts between low, rumbling engines and whining sirens or squealing tires. In The Godfather, just as Michael Corleone is steeling himself to shoot the rival gangster Sollozzo, we hear a loud, metallic screech, presumably from a nearby elevated train. The sound suggests impending danger, both for the victim and for Michael himself: after the murder, his life will change irrevocably (7.15).
+
+ 
+
+7.15 As Michael sits opposite Sollozzo, the sudden rumble and whine of an offscreen train sound all the more harsh when compared with the calm expression on Michael’s face.
+
+ 
+
+ 
+
+Yet another alternative is explored in Alexander Sokurov’s Alexandra. A soldier’s grandmother visits him at his camp and wanders freely among the men preparing for war. The sound track includes naturalistic dialogue and effects. But these conventional elements are wrapped in a flow of soft voices, orchestral chords, and snatches of rising and falling soprano singing. The murmuring auditory collage suggests a collective dimension to the old lady’s stay, as if she is visiting on behalf of the unseen families of all the men, perhaps all soldiers’ families throughout history.
+
+A Dramatic Sound Stream: Seven Samurai
+
+The ways in which sounds may combine to create an ongoing stream of information is well illustrated by the final battle sequence of Akira Kurosawa’s Seven Samurai. In a heavy rain, marauding bandits charge into a village defended by the villagers and the samurai. The torrent and wind form a constant background noise throughout the scene. Before the battle, the conversation of the waiting men, the tread of footsteps, and the sound of swords being drawn are punctuated by long pauses in which we hear only the drumming rain. Suddenly distant horses’ hooves are heard offscreen. This draws our attention from the defenders to the attackers. Then Kurosawa cuts to a long shot of the bandits; their horses’ hooves become abruptly louder. (The scene employs vivid sound perspective: The closer the camera is to a source, the louder the sound.) When the bandits burst into the village, yet another sound element appears—the bandits’ harsh battle cries, which increase steadily in volume as they approach.
+
+The battle begins. The muddy, storm-swept mise-en-scene and rhythmic cutting gain impact from the way in which the incessant rain and splashing are explosively interrupted by brief noises—the screams of the wounded, the splintering of a fence a bandit crashes through, the whinnies of horses, the twang of a samurai’s bowstring, the gurgle of a speared bandit, the screams of women when the bandit chieftain breaks into their hiding place. The sudden intrusion of certain sounds marks abrupt developments in the battle. Such frequent surprises heighten our tension, since the narration frequently shifts us from one line of action to another.
+
+The scene climaxes after the main battle has ended. Offscreen the pounding of horses’ hooves is cut short by a new sound—the sharp crack of a bandit’s rifle shot, which fells one samurai. A long pause, in which we hear only the driving rain, emphasizes the moment. The samurai furiously flings his sword in the direction of the shot and falls dead into the mud. Another samurai splashes toward the bandit chieftain, who has the rifle; another shot cracks out and he falls back, wounded; another pause, in which only the relentless rain is heard. The wounded samurai kills the chieftain. The other samurai gather. At the scene’s end, the sobs of a young samurai, the distant whinnies and hoofbeats of riderless horses, and the rain all fade slowly out.
+
+The relatively dense mix of this sound track gradually introduces sounds that turn our attention to new narrative elements (hooves, battle cries) and then modulates these sounds into a harmonious stream. This stream is then punctuated by abrupt sounds of unusual volume or pitch associated with crucial narrative actions (the archery, women’s screams, the gunshots). Overall, the combination of sounds enhances the unrestricted, objective narration of this sequence, which shows us what happens in various parts of the village rather than confining us to the experience of a single participant.
+
+Sound and Film Form
+
+The choice and combination of sonic materials can also create patterns that run through the film as a whole. We can study this most readily by examining how the filmmaker uses a musical score. Sometimes the filmmaker will select preexisting pieces of music to accompany the images, as Bruce Conner does in using portions of Respighi’s Pines of Rome as the sound track for A Movie. (See pp. 376–377.) In other cases, the music will be composed for the film, and here the filmmaker and the composer make several choices.
+
+The rhythm, melody, harmony, and instrumentation of the music can strongly affect the viewer’s emotional reactions. In addition, a melody or musical phrase can be associated with a particular character, setting, situation, or idea. Local Hero, a film about a confused young executive who leaves Texas to close a business deal in a remote Scottish village, uses two major musical themes. A rockabilly tune is heard in the urban Southwest, while a slower, more poignantly folkish melody is associated with the seaside village. In the final scenes, after the young man has returned to Houston, he recalls Scotland with affection, and the film plays the two themes simultaneously.
+
+In contrast, a single musical theme can change its quality when associated with different situations. In Raising Arizona, the hapless hero has a terrifying dream in which he envisions a homicidal biker pursuing him, and the accompanying music is appropriately ominous. But at the film’s end, the hero dreams of raising dozens of children, and now the same melody, reorchestrated and played at a calm tempo, conveys a sense of peace and comfort.
+
+“It’s a lot like writing an opera. There’s a lot of form and structure. We’re very conscious that LOTR is one story that has been broken into three parts. My score is a complex piece that has to be structured carefully, musically and thematically, so that all the parts relate to one another.”
+
+— Howard Shore, composer, The Lord of the Rings
+
+ 
+
+By reordering and varying musical motifs, the filmmaker can subtly compare scenes, trace patterns of development, and suggest implicit meanings. A convenient example is Georges Delerue’s score for François Truffaut’s Jules and Jim. Overall, the film’s music reflects the Paris of 1912–1933, the years during which the action takes place; many of the melodies resemble works by Claude Debussy and Erik Satie, two of the most prominent French composers of that era. Virtually the entire score consists of melodies in ¾ meter, many of them in waltz time, and all the main themes are in keys related to A major. These rhythmic and harmonic decisions help unify the film.
+
+More specifically, musical themes are associated with particular aspects of the narrative. For instance, Catherine’s constant search for happiness and freedom outside conventional boundaries is conveyed by her singing the “Tourbillon” (“Whirlwind”) song, which says that life is a constant changing of romantic partners. Settings are also evoked in musical terms. One tune is heard every time the characters are in a café. As the years go by, the tune changes from a mechanical player-piano rendition to a jazzier version played by a black pianist.
+
+The characters’ relations become more strained and complicated over time, and the score reflects this in its development of major motifs. A lyrical melody is first heard when Jules, Jim, and Catherine visit the countryside and bicycle to the beach (7.16). This “idyll” tune will recur at many points when the characters reunite, but as the years pass, it will become slower in tempo and more somber in instrumentation, and will shift from a major to a minor mode. Another motif that reappears in different guises is a “dangerous love” theme associated with Jim and Catherine. This grave, shimmering waltz is first heard when he visits her apartment and watches her pour a bottle of vitriol down the sink (7.17). (The acid, she says, is “for lying eyes.”) Thereafter, this harmonically unstable theme, which resembles one of Satie’s Gymnopédies for piano, is used to underscore Jim and Catherine’s vertiginous love affair. At times it accompanies scenes of passion, but at other times it accompanies their growing disillusionment and despair.
+
+ 
+
+7.16 In Jules and Jim, an idyllic bicycle ride in the country introduces the main musical theme associated with the three characters’ relations.
+
+ 
+
+ 
+
+ 
+
+7.17 Catherine discards the vitriol, which she has said is “for lying eyes.”
+
+ 
+
+ 
+
+The most varied theme is a mysterious phrase first heard on the flute when Jules and Jim encounter a striking ancient statue (7.18). Later they meet Catherine and discover that she has the statue’s face; a repetition of the musical motif confirms the comparison. Throughout the film, this brief motif is associated with the enigmatic side of Catherine. In the film’s later scenes, this motif is developed in an intriguing way. The bass line (played on harpsichord or strings) that softly accompanied the woodwind tune now comes to the fore, creating a relentless, often harsh, pulsation. This “menace” waltz underscores Catherine’s fling with Albert and accompanies her final vengeance on Jim: driving her car, with him as passenger, into the river.
+
+ 
+
+7.18 The camera slowly arcs around the statue as a new musical motif is introduced.
+
+ 
+
+ 
+
+“So, given this mood-altering potential of music, it becomes a great source of fun, as well as a chance to make a scene that works OK work a whole lot better—to bring out the point of a scene that you haven’t captured in the shooting of it, to excite the audience, to create the impression that something is happening when something isn’t, and also to create little emotional touchstones which you can draw upon as the story changes—so that the music that seemed so innocent and sweet earlier, in new circumstances brings on a whole other set of feelings.”
+
+— Jonathan Demme, director
+
+ 
+
+Once musical motifs have been selected, they can be combined to evoke associations. During Jim and Catherine’s first intimate talk after the war, the bass-line-dominated version of the enigma waltz is followed by the love theme, as if the latter could drown out the menacing side of Catherine’s character. The love theme accompanies long tracking shots of Jim and Catherine strolling through the woods. But at the scene’s end, as Jim bids Catherine farewell, the original woodwind version of her theme recalls her mystery and the risk he is running by falling in love with her. Similarly, when Jim and Catherine lie in bed, facing the end of their affair, the voice-over narrator says, “It was as if they were already dead” as the dangerous love theme plays. This sequence associates death with their romance and foreshadows their fate at the film’s end.
+
+A similar sort of blending can be found in the film’s final scene. Catherine and Jim have drowned, and Jules is overseeing the cremation of their bodies. As shots of the coffins dissolve into detailed shots of the cremation process, the enigma motif segues into its sinister variant, the menace motif. But as Jules leaves the cemetery and the narrator comments that Catherine had wanted her ashes to be cast to the winds, the string instruments glide into a sweeping version of the whirlwind waltz (7.19). The film’s musical score thus concludes by recalling the three sides of Catherine that attracted the men to her: her mystery, her menace, and her vivacious openness to experience. In such ways, a musical score can create, develop, and associate motifs that enter into the film’s overall form.
+
+ 
+
+7.19 The sadness of the ending is undercut by the lilting whirlwind waltz.
+
+ 
+
+ 
+
+Dimensions of Film Sound
+
+We’ve seen what sounds consist of and how the filmmaker can take advantage of the widely different kinds of sounds available. In addition, the way in which the sounds relate to other film elements gives them several other dimensions. First, because sound occupies a duration, it has a rhythm. Second, sound can relate to its perceived source with greater or lesser fidelity. Third, sound conveys a sense of the spatial conditions in which it occurs. And fourth, the sound relates to visual events that take place in a specific time, and this relationship gives sound a temporal dimension. These categories reveal that sound in film offers many creative possibilities to the filmmaker.
+
+Rhythm
+
+Rhythm is one of the most powerful aspects of sound, for it works on our bodies at deep levels. We have already considered it in relation to mise-en-scene (p. 156) and editing (p. 230). Rhythm involves, minimally, a beat, or pulse; a tempo, or pace; and a pattern of accents, or stronger and weaker beats. In the realm of sound, all of these features are naturally most recognizable in film music, since there beat, tempo, and accent are basic compositional features. In our examples from Jules and Jim, the motifs can be characterized as having a ¾ metrical pulse, putting an accent on the first beat, and displaying variable tempo—sometimes slow, sometimes fast.
+
+We can find rhythmic qualities in sound effects as well. The plodding hooves of a farmhorse differ from a cavalry mount galloping at full speed. The reverberating tone of a gong may offer a slowly decaying accent, while a sudden sneeze provides a brief one. In a gangster film, a machine gun’s fire creates a regular, rapid beat, while the sporadic reports of pistols may come at irregular intervals.
+
+Speech also has rhythm. People can be identified by voice prints that show not only characteristic frequencies and amplitudes but also distinct patterns of pacing and syllabic stress. In His Girl Friday, our impression is of very rapid dialogue, but the scenes actually are rhythmically subtler than that. In the start of each scene, the pace is comparatively slow, but as the action develops, characters talk at a steadily accelerating rate. As the scene winds down, the conversational pace does as well. This rise-and-fall rhythm matches the arc of each scene, giving us a bit of a rest before launching the next comic complication.
+
+Rhythm in Sound and Image: Coordination
+
+Any consideration of the rhythmic uses of sound is complicated by the fact that the movements in the images have a rhythm as well, distinguished by the same principles of beat, tempo, and accent. In addition, the editing has a rhythm. As we have seen, a succession of short shots helps create a rapid tempo, whereas shots held longer tend to slow down the rhythm.
+
+In most cases, the rhythms of editing, of movement within the image, and of sound all cooperate. Possibly the most common tendency is for the filmmaker to match visual and sonic rhythms to each other. In a dance sequence in a musical, the figures move about at a rhythm determined by the music. But variation is always possible. In the “Waltz in Swing Time” number in Swing Time, the dancing of Fred Astaire and Ginger Rogers moves quickly in time to the music. Yet no fast cutting accompanies this scene. Indeed, the scene consists of a single long take from a long-shot distance.
+
+Another prototype of close coordination between screen movement and sound comes in the animated films of Walt Disney in the 1930s. Mickey Mouse and other Disney characters often move in exact synchronization with the music, even when they aren’t dancing. (As we have seen, such exactness was possible because the sound track was recorded before the drawings were made.) Matching movement to music came to be known as Mickey-Mousing.
+
+Films other than musicals and cartoons exploit correspondences among musical and pictorial rhythms. Michael Mann’s The Last of the Mohicans culminates in a chase and a fight along a mountain ridge. Alice has been captured by the renegade Magua, and Hawkeye, Uncas, and Chingachgook race up the trail to rescue her. We might expect, then, the standard thunderous action score, but what we hear is a quick, grave Scottish dance, initially played on fiddle, mandolin, and harpsichord. The tune was heard in an earlier dance scene at the fort, so it functions to recall the two couples’ romances, but here it gives the scene a propulsive energy. Hand-to-hand struggles stand out against the throbbing music. Eventually, the theme swells to the full orchestra, but the same implacable beat governs the action. When Alice hovers on the cliffedge, about to jump off, somber chords repeat a seesaw pulse, as if time is standing still.
+
+At the scene’s climax, Chingachgook sprints urgently into the fray, and faster musical figures played by stringed instruments recall the early dance tune. His attack on Magua consists of four precise blows from his battle-axe; each blow coincides with the third beat in a series of musical measures. In the final moment of combat, the two warriors stand frozen opposite each other. The shot lasts three beats. On the fourth beat, Chingachgook launches the fatal blow. As Magua topples over, the music’s pulse is replaced by a sustained string chord. The Last of the Mohicans has synchronized dance music with visual rhythms, but the result doesn’t feel like Mickey-Mousing. The throbbing 4/4 meter, the accented beats, and the leaping melody give the heroes’ precise movements a choreographic grace.
+
+Rhythm in Sound and Image: Disparities
+
+The filmmaker may also choose to create a disparity among the rhythms of sound, editing, and image. One of the most common options is to edit dialogue scenes in ways that cut against natural speech rhythms. In our specimen of dialogue overlap from John McTiernan’s The Hunt for Red October (7.11–7.13), the editing does not coincide with accented beats, cadences, or pauses in the officer’s speech. Thus, the editing smoothes over the changes of shot and emphasizes the words and facial expressions of Captain Ramius. If a filmmaker wants to emphasize the speaker and the speech, the cuts usually come at pauses or natural stopping points in the line. McTiernan uses this sort of rhythmic cutting at other points in the film.
+
+The filmmaker may contrast the rhythm of sound and picture in more noticeable ways. For instance, if the source of sound is primarily offscreen, the filmmaker can utilize the behavior of onscreen figures to create an expressive counterrhythm. Toward the end of John Ford’s She Wore a Yellow Ribbon, the aging cavalry captain, Nathan Brittles, watches his troops ride out of the fort just after he has retired. He regrets leaving the service and desires to go with the patrol. The sound of the scene consists of two elements: the cheerful title song sung by the departing riders, and the quick hoofbeats of their horses. Yet only a few of the shots show the horses and singers, who ride at a rhythm matched to the sound. Instead, the scene concentrates our attention on Brittles, standing almost motionless by his own horse. The contrast of brisk musical rhythm and the static images of the solitary Brittles functions expressively to emphasize his regret at having to stay behind for the first time in many years.
+
+At times, accompanying music might even seem rhythmically inappropriate to the images. At intervals in Four Nights of a Dreamer, Robert Bresson presents shots of a large, floating nightclub cruising the Seine. The boat’s movement is slow and smooth, yet the sound track consists of lively calypso music. (Not until a later scene do we discover that the music comes from a band aboard the boat.) The strange combination of fast sound tempo with the slow passage of the boat creates a languorous, mysterious effect.
+
+Jacques Tati does something similar in Play Time. In a scene outside a Parisian hotel, tourists climb aboard a bus to go to a nightclub. As they file slowly up the steps, raucous jazzy music begins. The music startles us because it seems inappropriate to the images. In fact, it primarily accompanies action in the next scene, in which some carpenters awkwardly carrying a large plateglass window seem to be dancing to the music. By starting the fast music over an earlier scene of slower visual rhythm, Tati creates a comic effect and prepares for a transition to a new locale.
+
+In Chris Marker’s La Jetée, the contrast between image and sound rhythms dominates the entire film. La Jetée is made up almost entirely of still shots; except for one tiny gesture, all movement within the images is eliminated. Yet the film utilizes voice-over narration, music, and sound effects of a generally rapid, constantly accented rhythm. Despite the absence of movement, the film doesn’t seem uncinematic, partly because it offers a dynamic interplay of audio-visual rhythms.
+
+These examples suggest some of the ways in which rhythms may be combined. But of course, most films also vary their rhythms. A change of rhythm may function to shift our expectations. In the famous battle on the ice in Alexander Nevsky, Sergei Eisenstein develops the sound from slow tempos to fast and back to slow. The first 12 shots of the scene show the Russian army anticipating the attack of the German knights. The shots are of moderate length, and they contain very little movement. The music is comparably slow, consisting of short, distinctly separated, chords. Then, as the German army rides into sight over the horizon, both the visual movement and the tempo of the music increase quickly, and the battle begins. At the end of the battle, Eisenstein creates another contrast with a long passage of slow, lamenting music and majestic tracking shots but little figure movement.
+
+Fidelity
+
+By fidelity, we don’t mean the quality of recording. In our sense, fidelity refers to the extent to which the sound is faithful to the source as we conceive it. If a film shows us a barking dog and we hear a barking noise, that sound is faithful to its source; the sound maintains fidelity. But if the image of the barking dog is accompanied by the sound of a cat meowing, there enters a disparity between sound and image—a lack of fidelity.
+
+From our standpoint, fidelity has nothing to do with what originally made the sound in production. As we have seen, the filmmaker may manipulate sound independently of image. Accompanying the image of a dog with the meow is no more difficult than accompanying the image with a bark. If the viewer takes the sound to be coming from its source in the diegetic world of the film, then it is faithful, regardless of its actual source in production.
+
+Fidelity is thus purely a matter of expectation. Even if our dog emits a bark on screen, perhaps in production the bark came from a different dog or was electronically synthesized. We do not know what laser guns really sound like, but we accept the whang they make in Return of the Jedi as plausible. (In production, their sound was made by hammering guy wires that anchored a radio tower.)
+
+When we do become aware that a sound is unfaithful to its source, that awareness is usually used for comic effect. In Jacques Tati’s Mr. Hulot’s Holiday, much humor arises from the opening and closing of a dining room door. Instead of simply recording a real door, Tati inserts a twanging sound like a plucked cello string each time the door swings. Aside from being amusing in itself, this sound functions to emphasize the rhythmic patterns created by waiters and diners passing through the door. Because many of the jokes in Mr. Hulot’s Holiday and other Tati films are based on quirkily unfaithful noises, his films are good specimens for the study of sound.
+
+As with low- or high-angle framings, we have no recipe that will allow us to interpret every manipulation of fidelity as comic. Some nonfaithful sounds have serious functions. In Alfred Hitchcock’s The Thirty-Nine Steps, a landlady discovers a corpse in an apartment. A shot of her screaming face is accompanied by a train whistle; then the scene shifts to an actual train. Though the whistle is not a faithful sound for an image of a screaming person, it provides a dramatic transition.
+
+In some cases, fidelity may be manipulated by a change in volume. A sound may seem unreasonably loud or soft in relation to other sounds in the film. Curtis Bernhardt’s Possessed alters volume in ways that are not faithful to the sources. The central character is gradually falling deeper into mental illness. In one scene, she is alone, highly distraught, in her room on a rainy night, and the narration restricts us to her range of knowledge. But sound devices enable the narration to achieve subjective depth as well. We begin to hear things as she does; a ticking clock and dripping raindrops gradually magnify in volume. Here the shift in fidelity functions to suggest a psychological state, a movement from the character’s heightened perception into sheer hallucination.
+
+“[Sound] doesn’t have to be in-your-face, traditional, big sound effects. You can especially say a lot about the film with ambiences—the sounds for things you don’t see. You can say a lot about where they are geographically, what time of day it is, what part of the city they’re in, what kind of country they’re in, the season it is. If you’re going to choose a cricket, you can choose a cricket not for strictly geographic reasons. If there’s a certain cricket that has a beat and a rhythm to it, it adds to the tension of a scene.”
+
+— Gary Rydstrom, sound editor
+
+ 
+
+Space
+
+Sound has a spatial dimension because it comes from a source. Our beliefs about that source have a powerful effect on how we understand the sound.
+
+Diegetic Versus Nondiegetic Sound
+
+For purposes of analyzing narrative form, we described events taking place in the story world as diegetic (p. 249). For this reason, diegetic sound is sound that has a source in the story world. The words spoken by the characters, sounds made by objects in the story, and music represented as coming from instruments in the story space are all diegetic sound.
+
+Diegetic sound is often hard to notice as such. It may seem to come naturally from the world of the film. But as we saw in the sequence of the Ping-Pong game in Mr. Hulot’s Holiday, when the game becomes abruptly quiet to allow us to hear action in the foreground, the filmmaker may manipulate diegetic sound in ways that aren’t at all realistic.
+
+Alternatively, there is nondiegetic sound, which is represented as coming from a source outside the story world. Music added to enhance the film’s action is the most common type of nondiegetic sound. When Roger Thornhill is climbing Mount Rushmore in North by Northwest and tense music comes up, we don’t expect to see an orchestra perched on the side of the mountain. Viewers understand that movie music is a convention and does not issue from the world of the story. The same holds true for the so-called omniscient narrator, the disembodied voice that gives us information but doesn’t belong to any of the characters in the film. An example is The Magnificent Ambersons, in which the director, Orson Welles, speaks the nondiegetic narration.
+
+Nondiegetic sound effects are also possible. In Le Million, various characters pursue an old coat with a winning lottery ticket in the pocket. The chase converges backstage at the opera, where the characters race and dodge around one another, tossing the coat to their accomplices. But instead of putting in the sounds coming from the actual space of the chase, director René Clair fades in the sounds of a football game. Because the maneuvers of the chase do look like a scrimmage, with the coat serving as a ball, this enhances the comedy of the sequence (7.20). Although we hear a crowd cheering and a referee’s whistle, we do not assume that the characters present are making these sounds.
+
+ 
+
+7.20 Nondietetic sound effects create comedy in Le Million by creating a sort of audio-visual pun.
+
+ 
+
+ 
+
+Entire films may be made with completely nondiegetic sound tracks. Conner’s A Movie, Kenneth Anger’s Scorpio Rising, and Derek Jarman’s War Requiem use only nondiegetic music. Similarly, many compilation documentaries include no diegetic sound; instead, omniscient voice-over commentary and orchestral music guide our response to the images.
+
+As with fidelity, the distinction between diegetic and nondiegetic sound doesn’t depend on the real source of the sound in the filmmaking process. Rather, it depends on our understanding of the conventions of film viewing. We know that certain sounds are represented as coming from the story world, while others are represented as coming from outside the space of the story events. Such viewing conventions are so common that we usually don’t have to think about which type of sound we are hearing at any moment.
+
+At many times, however, a film’s narration deliberately blurs boundaries between different spatial categories. Such a play with convention can be used to puzzle or surprise the audience, to create humor or ambiguity, or to achieve other purposes.
+
+Resources of Diegetic Sound
+
+We know that the space of the narrative action isn’t limited to what we can see on the screen at any one moment. The same thing holds true for sound. In the last shot of our The Hunt for Red October scene, we hear the officer speaking while we see a shot of just Captain Ramius, listening (7.13). Early in the attack on the village in The Seven Samurai, we, along with the samurai, hear the hoofbeats of the bandits’ horses before we see a shot of them. These instances remind us that diegetic sound can be either onscreen or offscreen, depending on whether its source is inside the frame or outside the frame.
+
+Offscreen sound is crucial to our experience of a film, and filmmakers know that it can save time and money. A shot may show only a couple sitting together in airplane seats, but if we hear a throbbing engine, other passengers chatting, and the creak of a beverage cart, we’ll conjure up a plane in flight. Offscreen sound can create the illusion of a bigger space than we actually see, as in the cavernous prison sequences of The Silence of the Lambs. It can also shape our sense of how a scene will develop (7.21–7.23).
+
+ 
+
+7.21 In His Girl Friday, Hildy goes into the pressroom to write her final story. As she chats with the other reporters, a loud clunk comes from an offscreen source, and they glance to the left.
+
+ 
+
+ 
+
+ 
+
+7.22 Hildy and another reporter walk to the window …
+
+ 
+
+ 
+
+ 
+
+7.23 … and see a gallows being prepared for a hanging.
+
+ 
+
+ 
+
+The technique can fill in information very economically. In Zodiac, we see the alcoholic reporter Avery wake up after sleeping in his car. As he abruptly sits up, we hear the clink of bottles on the floor; the sound confirms our suspicion that he has spent another night drinking.
+
+Used with optical point-of-view shots, offscreen sound can create restricted narration, guiding us toward what a character is noticing. In No Country for Old Men, Llewelyn Moss is holed up in a hotel room with a bag of cash, hiding from his implacable pursuer Anton Chigurh. When he realizes that a tracking device has been hidden among the bills, the narration is limited solely to what Moss sees and hears. He tries calling the downstairs desk; we dimly hear the distant phone ringing, so like him we infer that Chigurh has killed the clerk.
+
+The sonic texture is very detailed, highlighting the slight noises of Moss shifting on the bed and switching off the lamp. Then, against a muted background of wind, we hear steadily approaching footsteps in the hall, accompanied by rapid pinging on a homing device. Optical point-of-view confirms Chigurh’s arrival: we see the shadows of his feet in the crack under the door. Moss cocks his shotgun, creating a click that seems abnormally loud and close. The shadows move away, and we hear the slight creaking of a lightbulb being unscrewed in the hall, eliminating the streak of illumination under the door. The auditory climax of the scene is the metallic burst of the door lock rocketing into the room. No Country’s narration has created suspense by restricting both vision and sound to Moss’s range of knowledge. (For a more complex instance, see “A Closer Look.”)
+
+Sometimes offscreen sound can make the film’s narration less restricted. In John Ford’s Stagecoach, the stagecoach is desperately fleeing from a band of Indians. The ammunition is running out, and all seems lost until a troop of cavalry suddenly arrives. Yet Ford does not present the situation this baldly. He shows a medium close-up of one of the passengers, Hatfield, who has just discovered that he is down to his last bullet (7.39). He glances off right and raises his gun (7.40). The camera pans right to a woman, Lucy, praying. During all this, orchestral music, including bugles, plays nondiegetically. Unseen by Lucy, the gun comes into the frame from the left as Hatfield prepares to shoot her to prevent her from being captured by the Indians (7.41). But before he shoots, an offscreen gunshot is heard, and Hatfield’s hand and gun drop down out of the frame (7.42). Then bugle music becomes somewhat more prominent. Lucy’s expression changes as she says, “Can you hear it? Can you hear it? It’s a bugle. They’re blowing the charge” (7.43). Only then does Ford cut to the cavalry itself racing toward the coach.
+
+ 
+
+7.39 Stagecoach.
+
+ 
+
+ 
+
+ 
+
+7.40 Stagecoach.
+
+ 
+
+ 
+
+ 
+
+7.41 Stagecoach.
+
+ 
+
+ 
+
+ 
+
+7.42 Stagecoach.
+
+ 
+
+ 
+
+ 
+
+7.43 Stagecoach.
+
+ 
+
+ 
+
+A CLOSER LOOK
+
+OFFSCREEN SOUND AND OPTICAL POINT OF VIEW: The Money Exchange In Jackie Brown
+
+Optical point-of-view cutting can be very powerful, as we saw in examining Rear Window (p. 245). Now we’re in a position to see—and hear—how it can be coordinated with onscreen and offscreen sound. Quentin Tarantino’s Jackie Brown offers an illuminating example because, somewhat in the spirit of our sequence from Letter from Siberia (pp. 270–271), it runs the same sequence of actions three times, with varying sound tracks. Unlike Chris Marker’s film, however, Jackie Brown shows the scene as different characters experience it.
+
+Jackie is supposed to deliver over half a million dollars in cash to the dangerous arms dealer Ordell. Ordell has sent his girlfriend, Melanie, and his partner, Louis, to pick up the money from a fitting room in a dress shop. Jackie, however, is playing her own game. She’s agreed to help federal agents arrest Ordell, but she has also recruited the bail bondsman Max Cherry to help her switch shopping bags and leave Ordell empty-handed. This story action is presented three times in the plot, each time adding a layer to our understanding of what’s really happening. It would be worthwhile to study the careful auditory touches in these three sequences, such as the replay of the shop’s Muzak and the delicate Foley work on footsteps, fabric, and other noises. Here we’ll concentrate on optical subjectivity and offscreen sound, because these techniques are crucial in making the triple play clear to the audience. They also serve to contrast the squabbling, inept gobetweens whom Ordell is relying on and the self-possessed Jackie and Max.
+
+The first run-through confines us to Jackie’s range of knowledge. She tries on a pantsuit, and the sales-woman says, “Wow, you look really cool!” (7.24). Jackie goes back to the fitting rooms and waits for Melanie. We hear Melanie arrive offscreen, and Tarantino shows us her shoes from Jackie’s viewpoint. After Melanie has left, Jackie repacks the money in a shopping bag she leaves in the cubicle and hurries out. She hastily pays the sales clerk, who calls after her, “Wait, your change!” and waves her bills (7.25). Jackie rushes out to the mall and summons the federal agents, shouting that Melanie stole the bag from her.
+
+ 
+
+7.24 The first run-through: The sales clerk tells Jackie, “Wow, you look really cool!”
+
+ 
+
+ 
+
+7.25 After Jackie has left the money in the fitting room, she hurries away, pretending to be distraught. The clerk calls after her, “Wait, your change!”
+
+ 
+
+Tarantino flashes back to an earlier phase of the action, with Louis and Melanie arriving at the shop. As the camera follows them (7.26, 7.27), we hear the saleswoman say from offscreen, “Wow, you look really cool!” The camera pans to Jackie and the clerk (7.28). The offscreen sound has motivated showing this dialogue again, and its unnatural loudness assures that we understand that we’re entering the scene at a point we’ve already witnessed. Louis and Melanie try to look inconspicuous, with Melanie distracted by Jackie’s striking outfit. When Melanie teases Louis about his nervousness, he twists her arm, and she blurts out, “Hey, would you let go!” (7.29).
+
+ 
+
+7.26 The second version: As Melanie and Louis head toward the shop, the camera tracks rightward with them, passing Max Cherry in the foreground.
+
+ 
+
+ 
+
+7.27 As Melanie and Louis approach, we hear, “Wow, you look really cool!” fairly softly.
+
+ 
+
+ 
+
+7.28 The camera pans to pick up Jackie and the clerk, as Jackie says she’ll buy the outfit. Sound perspective makes the dialogue louder and clearer, emphasizing that this is a repetition of the scene we’ve just witnessed. Compare 7.22.
+
+ 
+
+ 
+
+7.29 Quarreling at the garment racks, Louis grabs Melanie’s arm and she snaps, “Hey, would you let go!”
+
+ 
+
+Tarantino now uses offscreen sound to test Louis’s dull wits. Louis looks down at the shirts he’s riffling through (7.30), and we hear an offscreen phone ring. Louis doesn’t look up, but we are given a shot of the clerk answering (7.31). What does get Louis’s attention is Melanie, who abruptly strides into the fitting rooms. Looking uneasily this way and that, Louis sees Max, whom he dimly recognizes, and the two men exchange glances in shot/reverse shot. Then Melanie hustles out of the fitting rooms, and Louis catches up with her. They leave quarreling about who should carry the bag.
+
+ 
+
+7.30 Louis browses through shirts. At the end of the shot, a telephone rings offscreen.
+
+ 
+
+ 
+
+7.31 The clerk answers the phone, but this isn’t Louis’s point of view; it’s close to what he might have seen if he had looked up.
+
+ 
+
+The scene runs a third time, now attaching us to Max’s range of knowledge. The second version hinted at his presence in the shop, when the tracking shot following Melanie and Louis glided past him in the foreground (7.26). We see him enter and browse, waiting calmly for the scam to begin. Once more Jackie comes out wearing the outfit, and the sales clerk says, “Wow, you look really cool!” But now the exchange is observed from Max’s point of view (7.32, 7.33). The sound track fades out the dialogue between the clerk and Jackie and fades up the quarrel between Melanie and Louis. Max turns his attention to them and then back to Jackie and the clerk. Here the sound mixing is quite subjective, conveying Max’s shifting attention between the two conversations.
+
+ 
+
+7.32 Third run-through: Pretending to be killing time in the shop, Max turns his attention to Jackie …
+
+ 
+
+ 
+
+7.33 … just as the clerk exclaims, “Wow, you look really cool!” The repeated line anchors us in action we know. The framing from Max’s optical point of view varies what we saw in 7.24 and 7.28.
+
+ 
+
+While Max is watching the action at the counter, we hear Louis and Melanie quarreling, and this motivates another switch in Max’s attention, in time for him to observe her exclaiming, “Hey, would you let go!” (7.34, 7.35). The ringing phone drives his eyes back to the clerk (7.36, 7.37), but he keeps Melanie in mind, too. A little before Louis notices, Max watches Melanie set off on her mission. Louis clumsily scans the shop, but Max is calm and purposeful. Each offscreen sound snaps his attention to what is crucial to the plan. After Melanie and Louis leave, it’s through Max’s eyes that we see Jackie’s departure, with the shopwoman calling, “Wait, your change!” (7.38). Max pauses, then heads for the fitting room to retrieve the shopping bag and the fortune.
+
+ 
+
+7.34 After Jackie leaves for the changing room, Max shifts his attention to Melanie and Louis, in time to hear her say, “Hey, would you let go!”
+
+ 
+
+ 
+
+7.35 His switch in attention is conveyed through a point-of-view shot. Compare 7.29.
+
+ 
+
+ 
+
+7.36 Max has been studying the couple, but the sound of a ringing phone offscreen makes him shift his glance.
+
+ 
+
+ 
+
+7.37 The clerk answers the phone. (Compare 7.31). This diversion impels Melanie to seize the moment and stride into the changing room, watched by Max and, eventually, Louis.
+
+ 
+
+ 
+
+7.38 After the bogus switch has been made, Jackie comes out and hurries to the counter. Max watches the transaction, and from his point of view we see Jackie rush off, with the clerk calling after, “Wait, your change!” Compare 7.25. Now Max walks to the counter. His approach will be presented, in keeping with the rest of the sequence, as his optical point-of-view.
+
+ 
+
+By repeating key actions, noises, and lines of dialogue, the replays lay out the mechanics of the exchange cogently. The variations between the second and third sequences allow Tarantino to characterize the thieves. Max is more alert than Louis and Melanie, and offscreen sounds prompt him to shift his attention precisely. Moreover, each version of story events is nested neatly inside the next one: Jackie and the clerk, then Jackie and the clerk watched by Melanie and Louis, then all the others watched by Max, who completes the money exchange. Sound and image work together to peel back each layer and expand our appreciation of Jackie’s intricate double-cross.
+
+Rather than showing the cavalry riding to the rescue, the film’s narration uses offscreen sound to restrict our awareness to the initial despair of the passengers and their growing hope as they hear the distant sound. The sound of the bugle also emerges imperceptibly out of the nondiegetic music. Only Lucy’s line tells us that this is a diegetic sound that signals their rescue, at which point the narration becomes far less restricted.
+
+Diegetic sound harbors other possibilities. Often a filmmaker uses sound to represent what a character is thinking. We hear the character’s voice speaking his or her thoughts even though that character’s lips do not move; presumably, other characters cannot hear these thoughts. Here the narration uses sound to achieve subjectivity, giving us information about the mental state of the character. Such spoken thoughts are comparable to mental images on the visual track. A character may also remember words, snatches of music, or events as represented by sound effects. In this case, the technique is comparable to a visual flashback.
+
+The use of sound to enter a character’s mind is so common that we need to distinguish between internal and external diegetic sound. External diegetic sound is that which we as spectators take to have a physical source in the scene. Internal diegetic sound is that which comes from inside the mind of a character; it is subjective. Nondiegetic and internal diegetic sounds are often called sound over because they do not come from the real space of the scene. Internal diegetic sound can’t be heard by other characters.
+
+In the Laurence Olivier version of Hamlet, for example, the filmmaker presents Hamlet’s famous soliloquies as interior monologues. Hamlet is the source of the thoughts we hear represented as speech, but the words are only in his mind, not in his objective surroundings. Gus Van Sant employs a similar tactic in Paranoid Park. A teenage boy fleeing from a horrific accident is plagued by inner voices, some of them auditory flashbacks. By having snatches of dialogue burst in from different stereo channels and with different degrees of clarity, Van Sant presents the boy as engulfed by confusion about what to do next.
+
+David Lynch makes interior monologue a central device in Dune, in which nearly every major character is given passages of internal diegetic observations. These aren’t lengthy soliloquies but rather brief phrases slipped into pauses in normal conversation scenes. The result is an omniscient narration that unexpectedly plunges into mental subjectivity. The characters’ voiced thoughts sometimes inter-weave with the external dialogue so tightly that they create a running commentary on a scene’s action.
+
+Recent films have reshaped the conventions of internal diegetic sound even more. Now an inner monologue may not be signaled by close shots of a character who’s thinking, as in Hamlet and Dune. Wong Kar-wai and Terrence Malick will sometimes inject a character’s voiced thoughts into scenes in which the character isn’t prominent, or even visible. As the voice of a paid killer reflects on his job in Wong’s Fallen Angels, we see distant shots of him mixed with several shots of the woman who arranges his contracts. In Malick’s The Thin Red Line and The New World, characters are heard musing during lengthy montage sequences in which they don’t even appear. These floating monologues come to resemble a more traditional voice-over narration. This impression is reinforced when the inner monologue uses the past tense, as if the action we’re seeing onscreen is being recalled from a later time.
+
+A different sort of internal diegetic sound occurs in Wim Wenders’s Wings of Desire. Dozens of people are reading in a large public library (7.44). Incidentally, this sequence also constitutes an interesting exception to the general rule that one character cannot hear another’s internal diegetic sound. The film’s premise is that Berlin is patrolled by invisible angels who can tune in to humans’ thoughts. This is a good example of how the conventions of a genre (here, the fantasy film) and the film’s specific narrative context can modify a traditional device.
+
+ 
+
+7.44 As the camera tracks past the readers in Wings of Desire, we hear their thoughts as a throbbing murmur of many voices in many languages.
+
+ 
+
+ 
+
+To summarize: sound may be diegetic (in the story world) or nondiegetic (outside the story world). If it is diegetic, it may be onscreen or offscreen, and internal (subjective) or external (objective).
+
+Playing with the Diegetic/Nondiegetic Distinction
+
+In most sequences, the sources of the sounds are clearly diegetic or nondiegetic. But some films blur the distinction between diegetic and nondiegetic sound, as we saw in the cavalry rescue scene from Stagecoach. Since we’re used to identifying a sound’s source easily, a film may try to cheat our expectations.
+
+In Mel Brooks’s Blazing Saddles, we hear what we think is nondiegetic musical accompaniment for a cowboy’s ride across the prairie—until he rides past Count Basie and his orchestra (7.45, 7.46). This joke depends on a reversal of our expectations about the convention of nondiegetic music. A more elaborate example is the 1986 musical version of Little Shop of Horrors. There a trio of female singers strolls through many scenes, providing musical commentary on the action without any of the characters noticing them. (To complicate matters, the three singers also appear in minor diegetic roles, and then they do interact with the main characters.)
+
+ 
+
+7.45 The hero of Blazing Saddles rides jauntily through the desert accompanied by apparently nondiegetic music …
+
+ 
+
+ 
+
+ 
+
+7.46 … until he passes Count Basie’s orchestra, playing within the world of the narrative.
+
+ 
+
+ 
+
+More complicated is a moment in The Magnificent Ambersons when Orson Welles creates an unusual interplay between the diegetic and nondiegetic sounds. A prologue to the film outlines the background of the Amberson family and the birth of the son, George. We see a group of townswomen gossiping about the marriage of Isabel Amberson, and one predicts that she will have “the worst spoiled lot of children this town will ever see” (7.47). This scene presents diegetic dialogue. After this conversation ends, the nondiegetic narrator resumes his description of the family history. Over a shot of the empty street, he says, “The prophetess proved to be mistaken in a single detail merely; Wilbur and Isabel did not have children. They had only one.” But at this point, still over the shot of the street, we hear the gossiper’s voice again: “Only one! But I’d like to know if he isn’t spoiled enough for a whole carload” (7.48). After her line, the narrator goes on, “Again, she found none to challenge her. George Amberson Minifer, the Major’s one grandchild, was a princely terror.” During this description, a pony cart comes up the street, and we see George for the first time (7.49). In this exchange, the woman seems to reply to the narrator, even though we must assume that she can’t hear what he says. (After all, she’s a character in the story and he isn’t.) Here Welles playfully departs from conventional usage to emphasize the arrival of the story’s main character and the hostility of the townspeople to him.
+
+ 
+
+7.47 In this scene from The Magnificent Ambersons, the woman with the teacup makes a remark about Isabel Amberson’s future children …
+
+ 
+
+ 
+
+ 
+
+7.48 … that the nondiegetic narrator’s voice corrects in the next shot.
+
+ 
+
+ 
+
+ 
+
+7.49 As the woman seems to reply to the narrator, Isabel’s son moves into view.
+
+ 
+
+ 
+
+This passage from The Magnificent Ambersons juxtaposes diegetic and nondiegetic sounds in a disconcerting way. In other films, a single sound may be ambiguous because it could fall into either category. In the opening of Apocalypse Now, the throbbings of the ceiling fan and the helicopter blades are clearly diegetic, but Francis Ford Coppola accompanies these with The Doors’ song “The End.” This might be taken either as a subjective part of the character’s Vietnam fantasy or as nondiegetic—an external commentary on the action in the manner of normal movie music.
+
+Similarly, at a major point in Paul Thomas Anderson’s Magnolia, several characters are shown in different locations, each singing softly along to the Aimee Mann song “Wise Up.” When the sequence begins in Claudia’s apartment, the song might be taken as diegetic and offscreen, since she has been listening to Aimee Mann music in an earlier scene. But then Anderson cuts to other characters elsewhere singing along, even though they cannot be hearing the music in Claudia’s apartment. It would seem that the sound is now nondiegetic, with the characters accompanying it as they might do in a musical. The sequence underlines the parallels among several suffering characters and conveys an eerie sense of disparate people for once on the same emotional wavelength. The sound also works with the crosscutting to pull the characters together before the climax, when their lives will converge more directly.
+
+A more disturbing uncertainty about whether a sound is diegetic often crops up in the films of Jean-Luc Godard. He narrates some of his films in nondiegetic voice-over, but in other films, such as Two or Three Things I Know About Her, he seems also to be in the story space, whispering questions or comments whose sound perspective makes them seem close to the camera. Godard does not claim to be a character in the action, yet the characters on the screen sometimes behave as though they hear him. This uncertainty as to diegetic or nondiegetic sound sources enables Godard to stress the conventionality of traditional sound usage.
+
+Sound Perspective
+
+One characteristic of diegetic sound is the possibility of suggesting the sound perspective. This is a sense of spatial distance and location analogous to the cues for visual depth and volume that we get with visual perspective. “I like to think,” remarks sound designer Walter Murch, “that I not only record a sound but the space between me and the sound: The subject that generates the sound is merely what causes the surrounding space to resonate.”
+
+Sound perspective can be suggested by volume. A loud sound tends to seem near; a soft one, more distant. The horses’ hooves in the Seven Samurai battle and the bugle call from Stagecoach exemplify how rising volume suggests closer distance. Sound perspective is also created by timbre. The combination of directly registered sounds and sounds reflected from the environment creates a timbre specific to a given distance. Timbre effects are most noticeable with echoes. In The Magnificent Ambersons, the conversations that take place on the baroque staircase have a distinct echo, giving the impression of huge, empty spaces around the characters.
+
+As the camera follows a character, changes in sound perspective may suggest the character’s movement through space, a sort of sonic point of view. But many uses of sound perspective don’t try to be realistic. In a long shot, a character’s voice will usually be clearer than if we were the same distance from her or him in reality, and when we cut to a close-up, that character’s voice will not be significantly louder or crisper. In a conversation with sound overlaps, like the one in The Hunt for Red October (p. 277), the voices don’t change perspective when the camera shifts to show the listener.
+
+Sound perspective is particularly marked in telephone conversations. Typically, the film’s narration cuts back and forth between the people talking, and the sound perspective varies accordingly. When the person on camera is speaking, the lines are clear and enhanced by natural ambient sounds. The voice heard over the receiver is usually more coarsely rendered and more reverberant, carrying lower pitches and providing little ambient sound. Sound editors call this disparity the telephone split. It represents the fact that the listener is hearing a voice on the line, but it seldom matches what a phone call sounds like in reality.
+
+Like all conventions, the telephone split can be adjusted for expressive possibilities. In Phone Booth, a publicist is trapped in a booth, pinned down by an unseen sniper who keeps him talking on the phone. Here the telephone split takes an unusual form. The PR man is heard normally, with ambient sound, but we don’t hear the sniper as a crackling telephone voice. Instead, we hear soft, closely miked speech in a dry sound envelope. It does not change when the camera moves toward or away from the booth. The voice has a slight electronic twang, so it doesn’t sound as neutral as a narrator’s voice-over, but it remains closer to our perspective than to the protagonist’s. Whispering, laughing, making rude remarks about what’s happening around the booth, the sniper’s voice hovers in a realm somewhere between us and the street. It enhances the sense that the protagonist is being watched by a distant, somewhat ghostly threat.
+
+Sound Perspective in the Theater Space
+
+Multichannel recording and reproduction tremendously increase the filmmaker’s ability to suggest sound perspective. In most 35mm theaters equipped with multitrack sound systems, three speakers are located behind the screen. The center speaker transmits most of the onscreen dialogue, as well as the most important effects and music. The left and right speakers are stereophonic, adding their sound effects, music, and minor dialogue. These channels can suggest a region of sound within the frame or just offscreen. Surround channels principally carry minor sound effects and some music, and they are divided among several speakers arranged along the sides and in the back of the theater. The “inner dialogue” shot in Paranoid Park is unusual in spreading more important dialogue to subsidiary channels.
+
+“She first hears the music at a bit of a distance, coming from the house, and as she walks in—the music is getting closer, step-by-step—she goes from the entrance way up the stairs—the music is still growing—and she finally passes by a guitarist on the stairs.”
+
+—Tony Volante, re-recording mixer, Rachel Getting Married
+
+ 
+
+By using stereophonic and surround tracks, a film can more strongly imply a sound’s distance and placement. In farcical comedies like The Naked Gun and Hot Shots, stereophonic sound can suggest collisions and falls outside the frame. Without the greater localization offered by the stereophonic channels, we might scan the frame for sources of the sounds. Even the center channel can be used to localize an offscreen object. In the climactic scene of The Fugitive, Richard Kimble is sneaking up on the friend who has betrayed him, and he reaches down past the lower frame line. As he slides his arm to the right, a rolling clank in the center track tells us that there is an iron pipe at his feet.
+
+In addition, stereo reproduction can specify a moving sound’s direction. In David Lean’s Lawrence of Arabia, for instance, the approach of planes to bomb a camp is first suggested through a rumble occurring only on the right side of the screen. Lawrence and an officer look off right, and their dialogue identifies the source of the sound. Then, when the scene shifts to the besieged camp itself, the sound slides from channel to channel, suggesting the planes swooping overhead.
+
+With stereophonic and surround channels, a remarkably convincing three-dimensional sound environment may be created within the theater. Sound sources can alter in position as the camera pans or tracks through a locale. The Star Wars series uses multiple-channel sound to suggest space vehicles whizzing not only across the screen but also above and behind the spectators.
+
+Like other techniques, sound localization in the theater needn’t be used for realistic purposes. Apocalypse Now divides its six-track sound among three channels in the rear of the theater and three in the front. In the film’s first sequence, mentioned above, the protagonist Ben Willard is seen lying on his bed. Shots of his feverish face are superimposed on shots of U.S. helicopters dropping napalm on the Vietnamese jungle. The sound oscillates between internal and external status, as Willard’s mind turns the whoosh of a ceiling fan into the whir of helicopter blades. These subjective sounds issue from both the front and back of the theater, engulfing the audience.
+
+Abruptly, a POV shot tracking toward the window suggests that Willard has gotten to his feet and is walking. As the camera moves, the noises fade from all rear speakers and become concentrated in the front ones at screen left, right, and center. Then, as Willard’s hand opens the venetian blinds to reveal his vision of the street outside, the sound fades out of the left and right front speakers and comes only from the center channel. Our attention has been narrowed: as we leave Willard’s mind, the sound steers us back to the outside world, which is rendered as unrealistically monophonic. In addition, the disparity in acoustic dimensions suggests that the protagonist’s wraparound memory of jungle destruction is more powerful than the pallid environment of Saigon.
+
+Time
+
+Sound also permits the filmmaker to represent time in various ways. This is because the time represented on the sound track may or may not be the same as that represented in the image.
+
+The most straightforward audio-visual relations involve sound–image synchronization. The matching of sound with image in projection creates synchronous sound. In that case, we hear the sound at the same time as we see the source produce the sound. Dialogue between characters is normally synchronized so that the lips of the actors move at the same time that we hear the appropriate words.
+
+When the sound does go out of synchronization during a viewing (often through an error in projection or lab work), the result is quite distracting. But some filmmakers have obtained imaginative effects by putting asynchronous, or out-ofsync, sound into the film itself. One such effect occurs in a scene in the musical by Gene Kelly and Stanley Donen, Singin’ in the Rain. In the early days of Hollywood sound filming, a pair of silent screen actors have just made their first talking picture, The Dueling Cavalier. Their film company previews the film for an audience at a theater. In the earliest talkies, sound was often recorded on a phonograph disc to be played along with the film, and the sound sometimes fell out of synchronization with the picture. This is what happens in the preview of The Dueling Cavalier. As the film is projected, it slows down momentarily, but the record keeps running. From this point, all the sounds come several seconds before their sources are seen in the image. A line of dialogue begins, then the actor’s lips move. A woman’s voice is heard when a man moves his lips, and vice versa. The humor of this disastrous preview in Singin’ in the Rain depends on our realization that a film’s synchronization of sound and image is an illusion produced by mechanical means.
+
+A lengthier play with our expectations about synchronization comes in Woody Allen’s What’s Up, Tiger Lily? Allen has taken an Asian spy film and dubbed a new sound track on, but the English-language dialogue is not a translation of the original. Instead, it creates a new story in comic juxtaposition with the original images. Much of the humor results from our constant awareness that the words are not perfectly synchronized with the actors’ lips. Allen has turned the usual problems of the dubbing of foreign films into the basis of his comedy.
+
+Synchronization relates to screen duration, or viewing time. As we saw in Chapter 3, narrative films can also present story and plot time. To recall the distinction: story time consists of the order, duration, and frequency of all the events pertinent to the narrative, whether they are shown to us or not. Plot time consists of the order, duration, and frequency of the events actually represented in the film. Plot time shows us selected story events but skips over or only suggests others.
+
+Story and plot time can be manipulated by sound in two principal ways. If the sound takes place at the same time as the image in terms of the story events, it is simultaneous sound. This is overwhelmingly the most common usage. When characters speak onscreen, the words we hear are occurring at the same moment in the plot’s action as in story time.
+
+But it is possible for the sound we hear to occur earlier or later in the story than the events we see in the image. In this manipulation of story order, the sound becomes nonsimultaneous. The most common example of this is the sonic flashback. For instance, we might see a character onscreen in the present but hear another character’s voice from an earlier scene. By means of nonsimultaneous sound, the film can give us information about story events without presenting them visually. And nonsimultaneous sound may, like simultaneous sound, have either an external or an internal source—that is, a source in the objective world of film or the subjective realms of the character’s mind.
+
+So temporal relationships in the cinema can get complicated. To help distinguish them, Table 7.2 sums up the possible temporal and spatial relationships that image and sound can display.
+
+TABLE 7.2 Temporal Relations of Sound in Cinema
+
+ 
+
+ 
+
+ 
+
+Diegetic Sound
+
+Because the first and third of these possibilities are rare, we start by commenting on the second, most common, option:
+
+2. Sound simultaneous in story with image. This is by far the most common temporal relation that sound has in fiction films. Noise, music, or speech that comes from the space of the story almost invariably occurs at the same time as the image. Like any other sort of diegetic sound, simultaneous sound can be either external (objective) or internal (subjective).
+
+1. Sound earlier in story than image. Here the sound comes from an earlier point in the story than the action currently visible onscreen. A clear example occurs at the end of Joseph Losey’s Accident. Over a shot of a driveway gate, we hear a car crash. The sound represents the crash that occurred at the beginning of the film. Now if there were cues that the sound was internal—that is, that a character was recalling it—it would not strictly be coming from the past, since the memory of the sound would be occurring in the present. Late in The Sixth Sense, for example, the protagonist recalls a crucial statement that his young patient had made to him, causing him to realize something that casts most of the previous action in an entirely new light. The boy’s voice is clearly coming from the protagonist’s mind at the moment of his recollection. But in the scene from Accident, no character is remembering the scene, so we have a fairly pure case of a sonic flashback. In this film, an unrestricted narration makes an ironic final comment on the action.
+
+Sound may belong to an earlier time than the image in another way. The sound from the previous scene may linger briefly while the image is already presenting the next scene. This common device is called a sound bridge. Sound bridges of this sort may create smooth transitions by setting up expectations that are quickly confirmed, as in a scene change in Jonathan Demme’s The Silence of the Lambs
+(7.50, 7.51).
+
+Sound bridges can also make our expectations more uncertain. In Tim Hunter’s The River’s Edge, three high-school boys are standing outside school, and one of them confesses to having killed his girlfriend. When his pals scoff, he says, “They don’t believe me.” There is a cut to the dead girl lying in the grass by the river, while on the sound track we hear one of his friends respond to him by calling it a crazy story that no one will believe. For an instant, we cannot be sure whether a new scene is starting or we are seeing a cutaway to the corpse, which could be followed by a shot returning to the three boys at school. But the shot dwells on the dead girl, and after a pause, we hear, with a different sound ambience, “If you brought us …” Then there is a cut to a shot of the three youths walking through the woods to the river, as the same character continues, “… all the way out here for nothing….” The friend’s remark about the crazy story belongs to an earlier time than the shot of the corpse, and it is used as an unsettling sound bridge to the new scene.
+
+3. Sound later in story than image. Nonsimultaneous sound may also occur at a time later than that depicted by the images. Here we are to take the images as occurring in the past and the sound as occurring in the present or future.
+
+A simple prototype occurs in many trial dramas. The testimony of a witness in the present is heard on the sound track, while the image presents a flashback to an earlier event. The same effect occurs when the film employs a reminiscing narrator, as in John Ford’s How Green Was My Valley. Aside from a glimpse at the beginning, we do not see the protagonist Huw as a man, only as a boy, but his narration accompanies the bulk of the plot, which is set in the distant past. Huw’s present-time voice on the sound track creates a strong sense of nostalgia for the past and constantly reminds us of the pathetic decline that the characters will eventually suffer.
+
+Since the late 1960s, it has become somewhat common for the sound from the next scene to begin while the images of the last one are still on the screen. Like the instances mentioned above, this transitional device is a sound bridge. In Wim Wenders’s American Friend, a nighttime shot of a little boy riding in the back seat of a car is accompanied by a harsh clacking. There is a cut to a railroad station, where the timetable board flips through its metal cards listing times and destinations. Since the sound over the shot of the boy comes from the later scene, this portion is nonsimultaneous.
+
+If the sound bridge isn’t immediately identifiable, it can surprise or disorient the audience, as in the American Friend transition. A more recognizable sonic lead-in can create more clear-cut expectations about what we will see in the next scene. Federico Fellini’s 8½ takes place in a town famous for its health spa and natural springs, and several scenes have shown an outdoor or chestra playing to entertain the guests. Midway through the film, a scene ends with the closing of a window on a steam bath. Near the end of the shot, we hear an orchestral version of the song “Blue Moon.” There is a cut to an orchestra playing the tune in the center of the town’s shopping area. Even before the new scene has established the exact locale of the action, we can reasonably expect that the musical bridge is bringing us back to the public life of the spa.
+
+In principle, one could also have a sound flash-forward. The filmmaker could, say, use the sounds that belong with scene 5 to accompany the images in scene 2. In practice, such a technique is almost unknown. In Godard’s Contempt, a husband and wife quarrel, and the scene ends with her swimming out to sea while he sits quietly on a rock formation. On the sound track, we hear her voice, closely miked, reciting a letter in which she tells him she has driven back to Rome with another man. Since the husband has not yet received the letter, and perhaps the wife has not yet written it, the letter and its recitation presumably come from a later point in the story. Here the sound flash-forward sets up strong expectations that a later scene confirms: We see the wife and the husband’s rival stopping for gas on the road. In fact, we never see a scene in which the husband receives the letter.
+
+ 
+
+7.50 One scene of The Silence of the Lambs ends with Clarice Starling on the telephone, as she mentions a location called the “Your Self Storage facility …”
+
+ 
+
+ 
+
+ 
+
+7.51 … and her voice continues, “… right outside central Baltimore” over the first shot of the next scene, the sign for the Your Self warehouse.
+
+ 
+
+ 
+
+Nondiegetic Sound
+
+Most nondiegetic sound has no relevant temporal relationship to the story. When mood music comes up over a tense scene, it would be irrelevant to ask if it is happening at the same time as the images, since the music has no existence in the world of the action. But occasionally, the filmmaker uses a type of nondiegetic sound that does have a defined temporal relationship to the story. Welles’s narration in The Magnificent Ambersons, for instance, speaks of the action as having happened in a long-vanished era of American history.
+
+As we watch a film, we don’t mentally slot each sound into each of these spatial and temporal categories. But our categories do help us understand our viewing experience. They offer us ways of noticing important aspects of films—especially films that play with our expectations about sounds. By becoming aware of the rich range of possibilities, we’re less likely to take a film’s sound track for granted and likelier to notice unusual sound manipulations.
+
+At the start of Alain Resnais’s Providence, we see a wounded old man. Suddenly, we are in a courtroom, where a prosecutor is interrogating a young man (7.52). The scene then returns to the hunt, during which the old man was apparently murdered (7.53). A cut returns us to the courtroom, where the prosecutor continues his sarcastic questioning (7.54). The young man justifies his act by saying that the man was dying and turning into an animal (7.55); in 7.53, we had seen the man’s hairy face and clawlike hands, so now we begin to see the links between the scenes. The prosecutor pauses, astonished, “Are you suggesting some kind of actual metamorphosis?” He pauses again, and a man’s voice whispers, “A werewolf.” The prosecutor then asks, “A werewolf, perhaps?” (7.56).
+
+ 
+
+7.52 The prosecuting attorney in Providence questions a man accused of murder …
+
+ 
+
+ 
+
+ 
+
+7.53 … and we see the accused confronting the old man who was killed.
+
+ 
+
+ 
+
+ 
+
+7.54 The prosecutor is seen again …
+
+ 
+
+ 
+
+ 
+
+7.55 … and then the accused man, who explains his actions.
+
+ 
+
+ 
+
+ 
+
+7.56 The prosecutor seems to respond to a mysterious whispered voice—“A werewolf”—that no one else hears.
+
+ 
+
+ 
+
+The whispered words startle us, for we cannot immediately account for them. Are they whispered by an unseen character offscreen? Are they subjective, conveying the thoughts of the prosecutor or witness? Are they perhaps even nondiegetic, coming from outside the story world? Only much later in the film do we find out whose voice whispered these words, and why. The whole opening of Providence provides an excellent extended case of how a filmmaker can play with conventions about sound sources.
+
+In the Providence sequence, we are aware of the ambiguity immediately, and it points our expectations forward, arousing curiosity as to how the whisperer can be identified. The filmmaker can also use sound to create a retrospective awareness of how we have misinterpreted something earlier. This occurs in Francis Ford Coppola’s The Conversation, a film that is virtually a textbook on the manipulation of sound and image.
+
+The plot centers on Harry Caul, a sound engineer specializing in surveillance. Harry is hired by a mysterious corporate executive to tape a conversation between a young man and woman in a noisy park. Harry cleans up the garbled tape, but when he goes to turn over the copy to his client, he suspects foul play and refuses to relinquish it.
+
+Now Harry obsessively replays, refilters, and remixes all his tapes of the conversation. Flashback images of the couple—perhaps in his memory, perhaps not—accompany his reworking of the tape. Finally, Harry arrives at a good dub, and we hear the man say, “He’d kill us if he could.”
+
+The overall situation is quite mysterious. Harry does not know who the young couple are (is the woman his client’s wife or daughter?). Nevertheless, Harry suspects that they are in danger from the executive. Harry’s studio is ransacked, the tape is stolen, and he later finds that the executive has it. Now more than ever, Harry feels that he is involved in a murder plot. After a highly ambiguous series of events, including Harry’s bugging of a hotel room during which a killing seems to take place, Harry learns that the situation is not as he had thought.
+
+Without giving away the revelation of the mystery, we can say that in The Conversation the narration misleads us by suggesting that certain sounds are objective when at the film’s end we are inclined to consider them subjective, or at least ambiguous. The film’s surprise, and its lingering mysteries, rely on unsignaled shifts between external and internal diegetic sound.
+
+Providence and The Conversation show that distinguishing different types of sound can help us analyze filmmakers’ creative choices. They and other examples also suggest that our categories correspond fairly well to how viewers understand what they hear. We tacitly learn to distinguish between diegetic and nondiegetic, internal and external, simultaneous and nonsimultaneous sound. We’re surprised or amused or puzzled when a sound crosses these boundaries. Because the distinctions more or less tally with our assumptions, the sound bumps in Providence, The Conversation, and many other films can undermine our expectations, creating suspense or surprise or ambiguity. The categories we’ve reviewed point to ways in which sound, often without our awareness, shapes our experience of a film.
+
+Functions of Film Sound: The Prestige
+
+In London around 1900, two magicians are locked in desperate competition, each trying for ever more baffling illusions. As they deceive each other and their audiences, the film tries to deceive us as well.
+
+A story of crime, professional rivalry, personal jealousy, and grand aspirations, The Prestige sets itself a difficult task. The film seeks to be as tantalizing as a magic trick, but one that can eventually be explained. As a result, director Christopher Nolan and his screenwriter (and brother) Jonathan Nolan have the job of both revealing and concealing. The film must present us just enough of the story to keep us engaged, while holding back the answers to the puzzles—and sometimes, like a magician, distracting us from what is really going on. Throughout The Prestige, sound takes part in an elaborate choreography of misdirection.
+
+Transported Men
+
+The conflict between the eager Robert Angier (Hugh Jackman) and the more sinister Alfred Borden (Christian Bale) begins when both are apprentice magicians. Robert’s wife, Julia, dies in an immersion tank as a result of Borden’s faulty rope-knot. As the two men grow in fame, their feud escalates. Robert shoots off two of Alfred’s fingers in a botched “bullet catch.” In response, Alfred sabotages one of Robert’s illusions. Then Alfred mounts an amazing trick, the Transported Man: Alfred seems to disappear from one end of the stage and reappear instantly at the other. Vowing to surpass him, Robert finds a double of himself and creates a similar illusion. But Alfred unmasks the stunt, breaking Robert’s leg and humiliating him before his audience.
+
+Robert vows to find the secret behind Alfred’s Transported Man. After consulting with Nicola Tesla, the great experimenter with electricity, Robert returns to London with a stunning illusion. He stands onstage in a crackling field of lightning bolts and disappears, reappearing a few seconds later in the balcony. Alfred, usually quick to unravel a trick, is baffled. He resigns himself to quitting the trade. Nonetheless, he shows up in disguise at one of Robert’s performances and penetrates the area below stage. At the climax of the trick, Alfred sees Robert fall through a trapdoor into a tank of water below. He watches Robert drown. Alfred is arrested for murder and condemned to death.
+
+At the climax of the film, the original Transported Man illusion is revealed as a simple trick: There are two Bordens, identical twins. At any moment, one takes the Alfred identity, while the other is disguised as Fallon, Alfred’s designer of illusions (ingénieur). So when Alfred seems to change his mind about quitting magic, in fact one Borden twin does quit; but the other obstinately attends Robert’s performance. As a result, while one Alfred is hanged, the other can stalk Robert for a final act of vengeance.
+
+Somewhat earlier, and more gradually, we learn that Robert’s version of the Transported Man is no illusion. Tesla has created a cloning machine, which makes an identical copy of Robert and deposits that at some distance from the original. At every performance, one Robert falls through the trapdoor and into a waiting tank, where he drowns. The reconstituted Robert, projected elsewhere in the theater, takes the crowd’s applause—only to be sacrificed under the stage the following night.
+
+The rising conflict between Robert and Alfred reveals contrasting aspects of each man’s personality. Robert is a smooth showman, one whose highest goal is to amaze an audience. Alfred, less concerned with ornate effects, builds his original Transported Man illusion out of two simple doors and a child’s red ball. He believes that a magician has a duty to come up with the most mind-bending trick possible, one that will puzzle not just the public but other professionals. To achieve that, the magician should be prepared to “live his act,” to give up a full personal life if that helps him purify his art. So when one Borden brother loses two fingers to the bullet catch, the other must slice off his own to allow them to continue their charade.
+
+Gradually, the personalities of Robert and Alfred move closer together, and our sympathies shift. At first Robert’s love of magic is sensibly balanced by his love for Julia. Her death increases our sense that Alfred is treacherous and Robert a victim. But as Robert launches an all-out effort to destroy his rival, he comes to seem possessed. Both Tesla and Robert’s ingénieur Cutter warn him that he is becoming obsessive. At the other pole, one of the Borden twins falls in love with Sarah, a young governess. He risks giving his secret away in order to have something like a normal life with her and their daughter Jess. The other, more cynical twin takes up an affair with Olivia, who becomes the act’s assistant. The price of finding a woman to love is that sometimes one twin must stand in for the other. These substitutions create emotional discontinuities that each woman detects. To the art of magic, the two Alfreds sacrifice not only themselves but also their loved ones.
+
+The Sounds of Magic
+
+The basic story of The Prestige is complicated, but it could have been presented in linear order, letting us in on secrets behind the illusions. The plot might have made Robert the protagonist, withholding the information about Albert’s personal and professional life that Robert never learns. Alternatively, the plot could have stuck to Borden’s range of knowledge and shown the twins pulling off their stratagems. (David Cronenberg’s Dead Ringers provides a rough example.) Instead, The Prestige wants to mystify us as much as the illusions mystify the magicians and their audiences. The competing magicians are driven by curiosity about how the tricks are done, and this curiosity is central to our experience as well.
+
+Accordingly, the story is presented via unrestricted narration, but it is manipulated through many techniques of plot construction. The plot shuffles story order, plays with levels of knowledge, replays some scenes, and cuts off others, withholding their consequences. All these tactics do not confuse us about the basic story progression, however. They arouse curiosity (what has led up to this turn of events?) and suspense (what will happen next?). At the same time, the plot maneuvers misdirect our attention, suppressing key information about the magicians’ secrets.
+
+The overall dramatic progression is framed by present-time action, that of the climactic performance of Robert’s Tesla-driven illusion. This stage spectacle leads to one of the Borden twins being arrested, condemned, and hanged, while the other faces Robert one last time. Most of the plot consists of layered flashbacks showing different stages of the two men’s struggle. Our understanding is eased by the fact that most of the story strands are presented chronologically, as in Citizen Kane (pp. 107–109). In addition, the basic conflict is maintained through familiar means—scenes of confrontation, or backstage plotting, or confidences shared between the protagonists and their families and friends. Occasionally, there are personalized flashbacks illustrating what a character is recalling, as when in prison Alfred remembers his romance with Sarah. And when the second Alfred confronts Robert at the climax, more impersonal flashbacks show us what was really happening in scenes we thought we understood earlier.
+
+Along with visual techniques, sound choices help smooth our understanding of the ongoing action. Characters are differentiated through their voices, especially the contrast between Alfred’s London working-class accent and Robert’s American accent (which turns out to be fake). A sketchy piano motif in the score is associated with Alfred’s life with his wife and child. Each locale has its characteristic ambience—the prison with distant scuffling and slamming, the less cavernous echo of the warehouse that becomes Robert’s workshop, the warmer sound of the theaters, the crunching snow surrounding Tesla’s compound in Colorado.
+
+The sound track is often expressive as well. David Julyan’s score consists largely of prolonged notes shifting slightly up or down the scale, creating a moody, layered drone. Julyan leads into Robert’s Real Transported Man by layering string chords and soft booms reminiscent of Tesla’s lab. The score even makes use of an electronically generated Shepard tone, which creates an illusory sense of continually rising or falling pitch. The danger inherent in the giant Tesla coils is conveyed through brittle, harsh crackling that often cuts off menacingly, as if it had atomized its target. Indeed, from the very start, abrupt silences jolt the viewer into paying attention to the imagery.
+
+“With The Prestige I was using electronics to achieve effects I couldn’t get with the orchestra…. There’s a lot of stuff in tracks such as ‘Colorado Springs’ where in the background there is a Shepard’s Tone. That’s the audio equivalent of an optical illusion so that it appears to rise constantly. It’s a very nice effect that Chris and I settled on. It also allows me to produce a very textural bed to lay under the orchestra.”
+
+— David Julyan, composer for The Prestige
+
+ 
+
+As in most modern films, sound plays an important role in linking scenes. A sustained musical chord links a shot of Robert looking out of his coach with a shot of him already striding along the ground. There are many sound bridges as well. At the close of one performance, we hear Alfred saying, “He’s complacent, he’s predictable,” and this carries us to the next scene, in which he continues to complain about the magician who employs the two men. Robert is musing on a name for his act, and we hear him ask, “How about the New Transported Man?” as crowds arrive to see his show.
+
+Nolan and Nolan also employ the dialogue hook, the technique of ending a scene with a line that prepares for the next scene. (This isn’t a sound bridge, because the line is completed in the initial scene.) A simple instance occurs when Tesla asks Robert, “Have you eaten, Mr. Angier?” Cut to the two men at lunch. More dramatically, at a Colorado Springs hotel, the clerk remarks that Tesla has left a box for Robert. Robert: “What box?” Cut to the crate in the hotel ballroom. Dialogue hooks propel the story briskly and can call the viewer’s attention to salient aspects of the scene to come, as the box example does.
+
+Naturally, dialogue can mislead as well. Olivia, Robert’s spy in his rival’s camp, assures him that Alfred doesn’t use a double because the man onstage is lacking two fingers; we later learn that one Alfred cut off his fingers so the two would continue to be identical. In retrospect, many lines prove to have hinted at the Borden twins’ secret. In a quarrel with Olivia, Alfred says, “part of me” had a child with Sarah but “part of me” didn’t, “the part that found you, the part that’s sitting here right now.” At the prison, bidding farewell to Fallon (his disguised twin), Alfred refers to the other’s urge to quit. “You were right. I should have left him to his damn trick…. You go live your life in full now.” Robert’s own cloning stratagem is predicted when he tries to hire a double: “I don’t need him to be my brother. I need him to be me.” Few films contain so many lines of dialogue that can be understood in two equally valid ways.
+
+Echoes, Visual and Auditory
+
+Parallelism, a common narrative strategy, is important for advancing the film’s action, tracing character development, and maintaining the mysteries. The Prestige is based on parallels: two magicians, each with a double and an ingénieur. Each magician wounds his counterpart, and each falls in love with a woman but loses her. Other parallels depend on the show business milieu. Acts are rehearsed and reperformed, each time with variations, as when Robert’s double becomes more drunk and heedless. The stage trapdoors that we see so often point toward the gallows trapdoor that will end the life of the brusque Borden twin. Julia’s drowning in the tank onstage is mirrored in Robert’s drowning below stage, and the motif recurs up to the very last image (7.57–7.59).
+
+ 
+
+7.57 The trauma that sets off Robert’s obsession: He watches his wife drown in a failed illusion.
+
+ 
+
+ 
+
+ 
+
+7.58 In his own version of the Transported Man, Robert drowns every night, replaced by a duplicate that appears in the auditorium.
+
+ 
+
+ 
+
+ 
+
+7.59 One of the duplicate Roberts is seen submerged in the last shot.
+
+ 
+
+ 
+
+There are auditory motifs as well. The harsh sound of iron, suggesting an age of lumbering mechanical objects, is first heard in the opening, when the top of the tank slams down with a shudder. From then on, we frequently hear rasping metal—chains in Alfred’s prison, the buzzing shock Robert gets from Tesla’s fence, the clank when the Tesla coil is switched off (but not concealing the snick of Robert’s trapdoor), and the groaning spring that locks a dove into a trick apparatus. When Sarah hangs herself, some metallic clashing is heard, and later, when Alfred kneels to his daughter behind prison bars, we see little of his gestures but judge from the frantic clanking of his chains that he is desperate. This sound motif informs the final sequence, which crosscuts Alfred’s hanging with Robert’s disposal of Tesla’s machine: while Cutter winds a creaking winch, the prisoner’s chains clank and drag as he mounts the gallows.
+
+A less harsh motif dominates the scenes involving Julia’s immersion stunt. When she is first bound and submerged in the tank, a soft snare drum taps out a pulse. Later, when she is tied and can’t escape, the tick of Cutter’s stopwatch takes over the sound track, as if measuring her heartbeat; the sound stops when she is dead. At the film’s climax, when Robert’s opening act is replayed, a similar pulsation is heard in the nondiegetic music as he drowns—creating a parallel to Julia not unlike the one we’ve seen in the images (7.57–7.59).
+
+In many films, parallels are carried by dialogue, and The Prestige makes constant use of recurring lines. Julia says that calling the act The Great Danton is “sophisticated,” and after her death, Robert honors her by using the name: “It’s sophisticated.” Tesla’s remark that “Man’s grasp should exceed his nerve” is modified by Robert as his new tagline: “Man’s reach exceeds his imagination.” The most vivid dialogue motif is probably the one launched by Cutter, when he talks of “getting your hands dirty.” At various points, Cutter and Alfred invoke this line to taunt Robert’s reluctance to risk everything for his magic. At the end, however, confronting Robert’s elaborate revenge scheme, both Alfreds admit that he has finally gotten his hands dirty.
+
+As with other techniques, some of these dialogue motifs not only clarify the story but also drop hints. One striking instance occurs when at the climax we hear the warden intone, “Alfred Borden” during the hanging scene but see the mysterious assistant Fallon making his way to Robert. The juxtaposition prepares us for Fallon’s unmasking as one of the twins. At various points, Robert says that in a disappearing act “no one cares about the man who goes into the box. They care about the man who comes out the other side.” The motif points toward his method of callously killing the performer in the Tesla machine so that his double can be re-born elsewhere. It also anticipates the ending, in which Alfred, apparently hanged, returns home to Jessie and Cutter.
+
+Two Diaries
+
+The Prestige uses Robert’s and Alfred’s journals to frame certain parts of the past. One man reads the other man’s diary, which will lead us into or out of a flashback. In itself, the diary device is quite familiar, but The Prestige gives it a special emphasis by embedding one diary within another. In the past, Robert stole Alfred’s notebook, and as he deciphered it, Robert recorded his reactions and memories in his own diary during his trip to Colorado. Robert’s diary comments on Alfred’s journal are later read by Alfred in his cell during his trial.
+
+The embedded diaries help keep us oriented in time, guiding us from present to past and back again. Again, sound plays a crucial role in acclimating us to the device. The convention of letting us hear the diarist’s voice as the reader reads the lines is a very helpful guide.
+
+After the imprisoned Alfred is given Robert’s diary, he starts to read it, and we hear Robert’s voice-over, representing what he has written. “A cipher—an enigma—a search.” The line leads us into the first of several flashbacks to Robert’s trip to Tesla. Early in his stay, Robert begins to decipher Borden’s notebook. Robert’s diary voice-over describes a passage as taking place “just days after he first met me.” This segues into Alfred’s voice-over, representing what Robert has just deciphered: “We were two young men devoted to an illusion.” The transition to a flashback within a flashback is made clear through the smooth transfers from one voice-over to the next.
+
+The conflict between the men gets sharpened when even the diary entries seem to quarrel. As we see Alfred double over in pain from the botched bullet catch, we hear his diary voice-over explaining that he didn’t really know what knot he had tied to bind Robert’s wife. “I told him the truth” is followed by a cut back to Colorado, showing Robert reading Alfred’s diary as the voice continues: “… that I have fought with myself over that night.” Robert looks up from the diary and cries out, “How could he not know?” That external line of dialogue is repeated, but now as a voice-over: “How could he not know?” Cut to Alfred reading the line in his cell. The embedded diaries and blended voice-overs create a tense conversation across time and space.
+
+Once the early transitions have established the nested time frames, however, the film starts to shift among them without showing the diaries or employing a voice-over. Instead, the voice-overs of Robert and Alfred are used to punctuate certain scenes, supplying private thoughts in the manner of an internal diegetic monologue. For example, on the street, Robert spies on Alfred and his family. Robert’s voice-over bursts out, “I saw happiness—happiness that should have been mine.”
+
+Above all, it is Robert’s diary voice-over that helps shift among time frames. His summaries of what he reads in Alfred’s diary substitute for Alfred’s direct voice-over. This prepares us for a surprise when Robert skips to the end of the diary and Albert’s voice-over returns ominously:
+
+Today Olivia proves her love for me—to you, Angier. Yes, Angier, she gave you this notebook at my request. And Tesla is merely the key to my diary, not to my trick. Did you really think I’d part with my secret so easily, after so much? Good-bye, Angier. May you find solace for your thwarted ambition back in your American home.
+
+ 
+
+But in a film of many parallels, even this mocking challenge is surpassed by another. Alfred, reading Robert’s journal in his cell, confronts this on the last page:
+
+But here, at the turn, I must leave you, Borden. Yes, you, Borden. Sitting there in your cell, reading my diary. Awaiting your death, for my murder.
+
+ 
+
+Alfred is as baffled as we are. How could Robert have known that he would die and that Alfred would be accused of his murder?
+
+In retrospect, we realize that Robert (the clone who survived that night in the theater but didn’t reveal himself) has prepared the final entry, and perhaps the whole journal, after Alfred’s arrest as a way of tormenting him. The power of these surprises derives from a subtle shift in the voice-over convention. Going beyond simply giving us information, the diary-driven voices have misled us.
+
+Hinting at Secrets
+
+By weaving parallels and journal entries into the plot, the film propels the action forward while enhancing the mysteries. We are continually confronted with new information that has to be fitted into what we have already seen and heard. Yet the film also hints at what is concealed. Most centrally, the secret of both illusions is substitution of a double, and this is suggested by a visual motif. We learn that, since canaries look alike, magicians make canaries vanish and reappear by killing one and substituting another. This is a prototype of Robert’s cloning technique, but it also foreshadows the consequences of the Borden twins’ decision to live out their act, with one eventually sacrificed for the other.
+
+As we’ve seen, hinting occurs throughout the dialogue and the voice-overs. As a single character, Alfred seems contradictory, alternately considerate and brusque. He speaks often of his secret, of being torn in two. His wife, Sarah, says that when he says he loves her, some days he does and some days he doesn’t. In the climactic quarrel between the couple, she says she knows “what you really are,” which panics the cold twin. Perhaps she suspects that there are two Alfreds? Sarah asks if he loves her. “Not today.” She hangs herself.
+
+More subtly, offscreen sound is used to withhold the “Prestige,” or the payoff, of each man’s greatest trick. (Originally, the word prestige meant “illusion,” especially one that dazzles the eyes.) Alfred’s first, minimal version of the Transported Man is shown only in part. We see the setup with Robert watching avidly and Cutter elsewhere in the audience, skeptical. But we don’t see the Prestige phase of the trick. Nolan keeps the camera on Cutter while we hear the second door open and the bouncing ball being caught by the duplicate Alfred. Nolan thereby makes the trick itself mysterious, to be revealed in full later. Conveying the illusion through offscreen sound also emphasizes the contrasting reactions of Cutter, who is unimpressed, and Robert, who considers it “the greatest magic trick I’ve ever seen.”
+
+Another parallel, then: when Robert demonstrates his Real Transported Man before a world-weary theatrical agent, he vanishes from the stage in jagged blasts of the Tesla coil. The agent protests, “He has to come back. There has to be—” “A Prestige?” says a voice from offscreen. The agent turns automatically to see Robert behind him, stepping down from the back of the balcony. We will see the same stunt presented more fully and with panache in the first performance, but the momentary channeling of story information through the agent emphasizes what Robert values as a performer: watching the viewer’s stunned expression when confronted with what appears to be a miracle.
+
+The Opening
+
+The use of sound to both reveal and conceal story information, in conjunction with other film techniques, comes at the very start of the film. Here sound and image must orient us to the narrative world, introducing the main characters and dramatic issues. The opening must also plant details that may seem unimportant or puzzling but that will later play major roles. The opening of The Prestige also introduces us to one of the film’s major storytelling techniques, that of the voice-over commentary we encounter in the diaries. And some clues tantalize us but become comprehensible once we have penetrated the film’s secrets. Once more, we find that sound assists both clear storytelling and bold misdirection.
+
+The most dramatic portions of the opening involve a performance of Robert’s Tesla-inspired version of the Transported Man. Alfred, disguised in the audience, goes onstage to inspect the gadget and then dodges into the wings and down under the stage. There he finds the tank awaiting Robert. As the trick is consummated, Robert plummets into the water and starts to drown before Alfred’s eyes.
+
+The performance is played with no dialogue, apart from the moment when Alfred assures a stagehand that he’s part of the act. There is a soft but ominous drone from the musical score, overridden by fierce crackling as the Tesla coil fires up. As with the other major illusions, the act’s payoff takes place offscreen; we see the result when Robert falls through the trapdoor. The coil’s crackling and the musical score stop abruptly, in a harsh cutoff that will be typical of the rest of the film, and we hear a splash as Robert is submerged. The top of the tank snaps shut with a whang. Then another long silence, enhancing suspense.
+
+The audience stirs restlessly; where has Robert gone? Meanwhile, below stage, Alfred approaches the drowning Robert and we hear the heartbeat pulse in the orchestra, foreshadowing Cutter’s ticking stopwatch. As Robert thrashes underwater, the nondiegetic music turns into frantic string twitterings. The image fades to black, the music dies, and the next sequence, at Alfred’s trial, begins.
+
+But this highly dramatic scene, showing a magic trick apparently gone wrong, is crosscut with a more mundane, even trivial moment, taking place in an unidentified time. We see Cutter stroll past a row of cages, select one canary, put it into a cage, and make it disappear. He then makes it reappear to the delight of a little girl, who we’ll later learn is Alfred’s daughter Jessie. There is no dialogue from within this scene, only the chirping of the birds and the sound of Cutter performing the trick; the tense, somber music starts in this sequence and continues until the moment of Robert’s immersion.
+
+Two magic tricks, one of great simplicity and the other of lethal complexity, are shown in alternation. In three minutes, the film has aroused all manner of questions about what has led up to these events and what will follow. The narration also asks us what connection we are to make between the canary trick and the elaborate stage show. The answer, itself partial and teasing, is provided by a voice-over commentary.
+
+We hear Cutter’s voice explaining that every magic trick has three parts, and his layout of the phases corresponds to both crosscut lines of action. His description of the Pledge, the promise that things work in the ordinary way, is heard in his voice-over as he silently shows Jessie the canary and puts it in the cage. Cut to Robert displaying himself and his machine. Spectators, including Alfred, climb onstage to inspect the gadget.
+
+Then, Cutter explains, comes the Turn, the moment when the ordinary becomes extraordinary. Covering the birdcage with a scarf, he flattens it. Cutter’s commentary coincides with Robert stepping into the electrical field while Alfred explores the trapdoor area below stage. Finally, after the canary and Robert have disappeared, Cutter’s voice-over says:
+
+But you wouldn’t clap yet. Because making something disappear isn’t enough. You have to bring it back. That’s why every magic trick has a third act—the hardest part. The part we call the Prestige.
+
+ 
+
+As we hear these words, we see him showing Jessie the revived canary—a successful feat of legerdemain—crosscut with Robert’s uneasy audience and shots of Alfred staring at Robert struggling underwater.
+
+Cutter’s voice has been closely miked in a dry recording, lending it the sort of intimate, direct-address perspective we’ll encounter in the diary voice-overs. But now, at the fade-out, in a more hollow timbre, another man’s voice repeats, “The Prestige.” As the new scene fades up, Cutter is in the witness box. His dialogue is now anchored in a more reverberant sound field, suitable to a large courtroom. We realize that his explanation of a trick’s three acts is motivated as his testimony at Alfred’s trial.
+
+Cutter’s voice-over introduces some central themes, such as the idea that a magic trick has an artistic structure that demands both skill and showmanship—the two components that distinguish Alfred and Robert. Cutter also stresses the need to distract the audience, because, he says, the spectator wants to be fooled. This could be taken as a commentary on our own urge to overlook details in watching the film. And Cutter’s stress on bringing back the vanished object establishes the motif that when the Prestige arrives, no one cares about the man in the box.
+
+With respect to plot construction, Cutter’s commentary makes the death of Robert a flashback from the present time of the court proceedings. At the film’s close, we will learn that the canary trick Cutter performs is a sort of flash-forward, referring to a still “later” present time enclosing the whole film. The crosscutting has shuttled us between two moments of story time, while the voice-over has put us in yet a third, the court testimony. That testimony is nonsimultaneous with respect to both lines of visual action; it takes place after the death of Robert but long before the scene with Jessie. This opening not only introduces us to major characters and themes but also establishes the time-juggling shifts that we’ll encounter in the film to come.
+
+Cutter’s voice-over also prepares us for the tight image/sound synchronization that will carry the plot forward. His voice speaks of showing the Pledge object; he shows the canary; cut to Robert displaying his machine. When Cutter says the object probably isn’t normal, we see Alfred tear off his false beard to prove he’s part of the performance. Cutter explains the second phase, and as his voice says, “The Turn,” cut to Robert literally turning to us. Cutter flattens the birdcage as his voice speaks of the “extraordinary”; cut to Robert seized by electricity.
+
+The commentary drops a few hints, too, as when Cutter indirectly introduces the film’s protagonists (7.60, 7.61). Later, as Alfred prowls in the stage cellar, studying the water tank, Cutter speaks of the audience “not really looking” at what is going on in the trick. Robert plummets into the tank, the lock snaps shut, and Cutter says, “You want to be—” Cut to him snatching the scarf away, showing that the birdcage has vanished as his voice-over finishes: “—fooled.” Indeed, Alfred will be fooled, since he does not understand Robert’s manipulation of his clones until the end. Cutter’s calm delivery about “bringing back” the ordinary object, timed to his presentation of the canary, serves as an upbeat contrast to the stage act. Jessie applauds, but Robert’s audience doesn’t, because the Prestige (“the hardest part”) is missing. Robert, flailing underwater, will not be brought back—at least, not for some time.
+
+ 
+
+7.60 As Cutter’s voice-over talks about a magician showing us something ordinary, his mention of “a man” is synchronized with the first shot of Alfred, disguised in the audience.
+
+ 
+
+ 
+
+ 
+
+7.61 But Alfred is not the man central to the Pledge. That is Robert himself, seen in the next shot. Along with the editing, the commentary subtly establishes these two as the central antagonists.
+
+ 
+
+ 
+
+This opening could not be as economical and intriguing as it is without Cutter’s voice-over narration. The crosscutting and juxtapositions of dialogue will reappear in the climax and be finally explained in the final shots. Yet there is one more element in the opening passage to consider.
+
+The very first shot of the film fades in on a leftward tracking shot across a field of top hats (7.62). Later we will learn that those are the hats that Tesla has inadvertently cloned in his experiments. The next shot shows a row of canaries in cages (7.63); one of these will be the star of Cutter’s trick for Jessie (7.64). In hindsight, we can see that these two shots hint at how both Alfred and Robert accomplish their magic—by using exact copies. In addition, just as a canary has to die in order to disappear, death will haunt each magician’s double. Alfred has given up a great deal for his art, with each twin living only half a life. But Robert has wound up devoting himself to his craft just as passionately. In dying and being reborn every night, he has embraced what Alfred calls “total self-sacrifice.”
+
+ 
+
+7.62 The opening shot of The Prestige: The camera tracks over the scattered top hats …
+
+ 
+
+ 
+
+ 
+
+7.63 … and continues to move along several parakeet cages, creating a parallel based on the idea of identical copies.
+
+ 
+
+ 
+
+ 
+
+7.64 Addressing Jessie, Cutter also invites us to consider how a magic trick may mislead the audience.
+
+ 
+
+ 
+
+But as usual, sound plays a role, too. At three points in the rest of the film, Alfred will ask someone, “Are you watching closely?” It’s his mocking warning that he will practice some deceptive sleight of hand. At the very start, however, as the camera coasts over the top hats, we hear this line for the first time. Shifted out of its story position, spoken by a character we don’t yet know, the question becomes a challenge and warning to the viewer. As a film inviting us to unmask its own legerdemain, The Prestige could just as easily start with the question “Are you listening closely?”
+
+SUMMARY
+
+As usual, both extensive viewing and intensive scrutiny will sharpen your capacity to notice the workings of film sound. You can get comfortable with the analytical tools we have suggested by asking several questions about a film’s sound:
+
+What sounds are present—music, speech, noise? How are loudness, pitch, and timbre used? Is the mixture sparse or dense? Modulated or abruptly changing?
+
+Is the sound related rhythmically to the image? If so, how?
+
+Is the sound faithful or unfaithful to its perceived source?
+
+Where is the sound coming from? In the story’s space or outside it? Onscreen or offscreen? If offscreen, how is it shaping your response to what you’re seeing?
+
+When is the sound occurring? Simultaneously with the story action? Before? After?
+
+How are the various sorts of sounds organized across a sequence or the entire film? What patterns are formed, and how do they reinforce aspects of the film’s overall form?
+
+For each of questions 1–6, what purposes are fulfilled and what effects are achieved by the sonic manipulations?
+
+Practice at trying to answer such questions will familiarize you with the basic uses of film sound.
+
+As always, it isn’t enough to name and classify. These categories and terms are most useful when we take the next step and examine how the types of sound we identify function in the total film.
+
+WHERE TO GO FROM HERE
+
+David Lewis Yewdall’s Practical Art of Motion Picture Sound, 3d ed. (Boston: Focal Press, 2007), is an excellent overview and includes a very instructive DVD. A delightful essay on the development of film sound is Walter Murch’s “Sound Design: The Dancing Shadow,” in John Boorman et al., eds., Projections 4 (1995), pp. 237–51. The essay includes a behind-the-scenes discussion of sound mixing in The Godfather.
+
+Articles on particular aspects of sound recording and reproduction in Hollywood are published in Recording Engineer/Producer and Mix. See also Jeff Forlenza and Terri Stone, eds., Sound for Picture (Winona, MN: Hal Leonard, 1993), and Tom Kenny, Sound for Picture: Film Sound Through the 1990s (Vallejo, CA: Mix Books, 2000). For many practitioners’ comments, see Vincent Lo Brutto, Sound-on-Film: Interviews with Creators of Film Sound (New York: Praeger, 1994). Walter Murch, Hollywood’s principal sound designer, explains many contemporary sound techniques in Roy Paul Madsen, Working Cinema: Learning from the Masters (Belmont, CA: Wadsworth, 1990), p. 284 comes from this source, p. 000.
+
+A useful introduction to the psychology of listening is Robert Sekuler and Randolph Blake, Perception, 4th ed. (New York: McGraw-Hill, 2002). See as well R. Murray Schafe, The Soundscape: Our Sonic Environment and the Tuning of the World (Rochester, VT: Destiny, 1994), and David Toop, Ocean of Sound: Aether Talk, Ambient Sound and Imaginary Worlds (London: Serpent’s Tail, 2001).
+
+The Power of Sound
+
+The psychologists’ term for our spontaneous merging of information from different senses is “cross-modal perception.” It has been observed in newborn babies and in children as young as four months. Joseph D. Anderson, The Reality of Illusion: An Ecological Approach to Cognitive Film Theory (Carbondale: University of Illinois Press, 1996), chap. 5, provides a compact introduction to how our bias toward cross-model pickup shapes our understanding of films.
+
+Of all directors, Sergei Eisenstein has written most prolifically and intriguingly about sound technique. See in particular his discussion of audio-visual polyphony in Non-Indifferent Nature, trans. Herbert Marshall (Cambridge: Cambridge University Press, 1987), pp. 282–354. (For his discussion of music, see below.) In addition, there are intriguing comments in Robert Bresson’s Notes on Cinematography, trans. Jonathan Griffin (New York: Urizen, 1977).
+
+The artistic possibilities of film sound are discussed in many essays. See John Belton and Elizabeth Weis, eds., Film Sound: Theory and Practice (New York: Columbia University Press, 1985); Rick Altman, ed., Sound Theory Sound Practice (New York: Routledge, 1992); Larry Sider, Diane Freeman, and Jerry Sider, eds., Soundscape: The School of Sound Lectures 1998–2001 (London: Wallflower, 2003); “Sound and Music in the Movies,” Cinéaste 21, 1–2 (1995): 46–80; and Jay Beck and Tony Grajeda, eds., Lowering the Boom: Critical Studies in Film Sound (Urbana: University of Illinois Press, 2008). Three anthologies edited by Philip Brophy have been published under the general title CineSonic (New South Wales: Australian Film Television and Radio School, 1999–2001).
+
+The most prolific researcher in the aesthetics of film sound is Michel Chion, whose ideas are summarized in his Audio Vision, trans. Claudia Gorbman (New York: Columbia University Press, 1994). Sarah Kozloff has written extensively on speech in cinema; see Invisible Storytellers: Voice-Over Narration in American Fiction Film (Berkeley: University of California Press, 1988) and Overhearing Film Dialogue (Berkeley: University of California Press, 2000). Lea Jacobs analyzes several dialogue patterns in “Keeping Up with Hawks,” Style 32, 3 (Fall 1998): 402–26, from which our mention of accelerating and decelerating rhythm in His Girl Friday is drawn.
+
+On sound and picture editing, see John Purcell, Dialogue Editing for Motion Pictures: A Guide to the Invisible Art (Boston: Focal Press, 2007). Dialogue overlap is explained in detail in Edward Dmytryk, On Film Editing (Boston: Focal Press, 1984), pp. 47–70.
+
+As the Letter from Siberia extract suggests, documentary filmmakers have experimented a great deal with sound. For other cases, watch Basil Wright’s Song of Ceylon and Humphrey Jennings’s Listen to Britain and Diary for Timothy. Analyses of sound in these films may be found in Paul Rotha, Documentary Film (New York: Hastings House, 1952), and Karel Reisz and Gavin Millar’s Technique of Film Editing (New York: Hastings House, 1968), pp. 156–70.
+
+Stephen Handzo provides a wide-ranging discussion of systems for recording and reproducing film sound in “A Narrative Glossary of Film Sound Technology,” in Belton and Weis, Film Sound: Theory and Practice. An updated survey is available in Gianluca Sergi, The Dolby Era: Film Sound in Contemporary Hollywood (Manchester: Manchester University Press, 2005). See also William Whittington, Sound Design and Science Fiction (Austin: University of Texas Press, 2007).
+
+Silent Film Versus Sound Film
+
+It’s long been assumed that cinema is predominantly a visual medium, with sound forming at best a supplement and at worst a distraction. In the late 1920s, many film aestheticians protected against the coming of talkies, feeling that synchronized sound spoiled a pristine mute art. In the bad sound film, René Clair claimed, “The image is reduced precisely to the role of the illustration of a phonograph record, and the sole aim of the whole show is to resemble as closely as possible the play of which it is the ‘cinematic’ reproduction. In three or four settings there take place endless scenes of dialogue which are merely boring if you do not understand English but unbearable if you do” (Cinema Yesterday and Today [New York: Dover, 1972], p. 137). Rudolf Arnheim asserted that “the introduction of the sound film smashed many of the forms that the film artists were using in favor of the inartistic demand for the greatest possible ‘naturalness’ (in the most superficial sense of the word)” (Film as Art [Berkeley: University of California Press, 1957], p. 154).
+
+Today we find such beliefs silly, but we must recall that many early sound films relied simply on dialogue for their novelty; both Clair and Arnheim welcomed sound effects and music but warned against chatter. In any event, the inevitable reaction was led by André Bazin, who argued that a greater realism was possible in the sound cinema. See his What Is Cinema? vol. 1 (Berkeley: University of California Press, 1967). Even Bazin, however, seemed to believe that sound was secondary to the image in cinema. This view is also put forth by Siegfried Kracauer in Theory of Film (New York: Oxford University Press, 1965). “Films with sound live up to the spirit of the medium only if the visuals take the lead in them” (p. 103).
+
+Today, many filmmakers and filmgoers would agree with Francis Ford Coppola’s remark that sound is “half the movie … at least.” One of the major advances of film scholarship of the 1970s and 1980s was the increased and detailed attention to the sound track.
+
+On the transition from silent to sound film in American cinema, see Harry M. Geduld, The Birth of the Talkies: From Edison to Jolson (Bloomington: Indiana University Press, 1975); Alexander Walker, The Shattered Silents (New York: Morrow, 1979); chap. 23 of David Bordwell, Janet Staiger, and Kristin Thompson, The Classical Hollywood Cinema: Film Style and Mode of Production to 1960 (New York: Columbia University Press, 1985); James Lastra, Sound Technology in the American Cinema: Perception, Representation, Modernity (New York: Columbia University Press, 2000); and Charles O’Brien, Cinema’s Conversion to Sound: Technology and Film Style in France and the U.S. (Bloomington: Indiana University Press, 2005). Douglas Gomery’s The Coming of Sound (New York: Rout-ledge, 2005) provides a U.S. industry history.
+
+David Julyan’s discussion of scoring The Prestige can be found at www.aintitcool.com/node/31031.
+
+Film Music
+
+Of all the kinds of sound in cinema, music has been the most extensively discussed. The literature is voluminous, and with a recent surge of interest in film composers, many more recordings of film music have become available.
+
+A basic introduction to music useful for film study is William S. Newman, Understanding Music (New York: Harper, 1961). An up-to-date and detailed production guide is Fred Karlin and Rayburn Wright’s On the Track: A Guide to Contemporary Film Scoring, 2d ed. (New York: Schirmer, 1990). Karlin’s Listening to Movies (New York: Routledge, 2004) offers a lively discussion of the Hollywood tradition.
+
+The history of film scoring is handled in lively and unorthodox ways in Russell Lack, Twenty-Four Frames Under: A Buried History of Film Music (London: Quartet, 1997). For Hollywood-centered histories, see Roy M. Prendergast, Film Music: A Neglected Art (New York: Norton, 1977), and Gary Marmorstein, Hollywood Rhapsody: Movie Music and Its Makers 1900–1975 (New York: Schirmer, 1997). Somewhat wider coverage is provided in Mervyn Cooke, A History of Film Music (Cambridge: Cambridge University Press, 2008). See also Martin Miller Marks, Music and the Silent Film: Contexts and Case Studies 1895–1924 (New York: Oxford University Press, 1997), and Rick Altman, Silent Film Sound (New York: Columbia University Press, 2005). Contemporary film composers are interviewed in Michael Schelle, The Score (Los Angeles: Silman-James, 1999); David Morgan, Knowing the Score (New York: HarperCollins, 2000); and Mark Russell and James Young, Film Music (Hove, England; Rota, 2000).
+
+The principal study of the theory of film music is Claudia Gorbman, Unheard Melodies: Narrative Film Music (Bloomington: Indiana University Press, 1987). A highly informed, wide-ranging meditation on the subject is Royal S. Brown, Overtones and Undertones: Reading Film Music (Berkeley: University of California Press, 1994). Jonathan Romney and Adrian Wootton’s Celluloid Jukebox: Popular Music and the Movies Since the 50s (London: British Film Institute, 1995) is an enjoyable collection of essays. See also Chuck Jones, “Music and the Animated Cartoon,” Hollywood Quarterly 1, 4 (July 1946): 364–70. A sampling of Carl Stalling’s amazing cartoon sound tracks (p. 275) is available on two compact discs (Warner Bros. 9-26027-2 and 9-45430-2).
+
+Despite the bulk of material on film music, there have been fairly few analyses of music’s functions in particular films. The most famous (or notorious) is Sergei Eisenstein’s “Form and Content: Practice,” in The Film Sense (New York: Harcourt, Brace, 1942), pp. 157–216, which examines sound/image relations in a sequence from Alexander Nevsky. For sensitive analyses of film music, see Graham Bruce, Bernard Herrmann: Film Music and Narrative (Ann Arbor: University of Michigan, 1985); Kathryn Kalinak, Settling the Score: Music and the Classical Hollywood Film (Madison: University of Wisconsin Press, 1992); Jeff Smith, The Sounds of Commerce: Marketing Popular Film Music (New York: Columbia University Press, 1998); and Pamela Robertson Wojcik and Arthur Knight, eds., Sound-track Available: Essays on Film and Popular Music (Durham, NC: Duke University Press, 2001).
+
+Dubbing and Subtitles
+
+People beginning to study cinema may express surprise (or annoyance) that films in foreign languages are usually shown with subtitled captions translating the dialogue. Why not, some viewers ask, use dubbed versions of the films—that is, versions in which the dialogue has been rerecorded in the audience’s language? In many countries, dubbing is very common. (Germany and Italy have traditions of dubbing almost every imported film.) Why, then, do most people who study movies prefer subtitles?
+
+There are several reasons. Dubbed voices usually have a bland studio sound. Elimination of the original actors’ voices wipes out an important component of their performance. (Partisans of dubbing ought to look at dubbed versions of English-language films to see how a performance by Katharine Hepburn, Orson Welles, or John Wayne can be hurt by a voice that does not fit the body.) With dubbing, all of the usual problems of translation are multiplied by the need to synchronize specific words with specific lip movements. Most important, with subtitling, viewers still have access to the original sound track. By eliminating the original voice track, dubbing simply destroys part of the film.
+
+For a survey of subtitling practice, see Jan Ivarsson and Mary Carroll, Subtitling (Simrishamn, Sweden: TransEdit, 1998).
+
+Recommended Websites
+
+www.filmsound.org The most comprehensive and detailed website on sound in cinema, with many interviews and links to other sites.
+
+www.mixonline.com The site for Mix Magazine, devoted to all aspects of film and video sound production. Offers many free articles and original web content.
+
+widescreenmuseum.com/sound/sound01.htm A review of the history of sound systems, illustrated with original documents.
+
+www.filmmusic.com News of current releases, along with interviews with composers and music crew.
+
+www.filmscoremonthly.com magazine site with some free articles.
+
+www.geocities.com/Hollywood/Academy/4394/sync.htm In this 1995 article, “Sync Takes: The Art and Technique of Postproduction Sound,” Elizabeth Weis concisely explains the creative choices involved in sound mixing. Our quotation from Michael Kirchberger is taken from one of the comments Weis presents here.
+
+www.npr.org/templates/story/story.php?storyId=1126863 A streaming audio interview with Walter Murch on the National Public Radio program Fresh Air.
+
+Recommended DVD Supplements
+
+ADR, the postdubbing of dialogue, seldom finds its way onto DVD supplements. An exception comes in “Peter Lorre’s ADR Tracks” on the 20,000 Leagues Under the Sea DVD. (The track is well hidden: in the “Bonus Material” section, click right to “Lost Treasures” and then choose “Audio Archives #2.”) The opposite technique, recording songs for playback and lip-synching on set during the filming of musical numbers, is demonstrated in “Scoring Stage Sessions” on the Singin’ in the Rain disc.
+
+An excellent survey of how sound tracks are built up is “On Sound Design,” for Master and Commander, where a dense ambient mix had to support the portrayal of a crowded ship. This supplement shows why so much dialogue recorded during filming is not usable and must be replaced by ADR. Sound-effects specialists demonstrate the subtleties of re-creating the noises from firing from various types of weapons.
+
+The “Sound Design” section of “Music and Sound” on the Toy Story 2 supplements includes a clear example of how sound functions within scenes. In the scene where the band of toys crosses a street full of traffic, the filmmakers’ goal was to create extreme contrasts between movement and stasis. One technique was to stop and start the music as the toys froze and then moved on. The scene is played through with only sound effects, only music, and the final mix.
+
+Each volume of The Lord of the Rings offers a supplement called “The Soundscapes of Middle-Earth,” with the three adding up to about an hour. The Fellowship of the Ring documentary discusses ADR as well as sound effects. Each volume also contains a segment, “Music for Middle-Earth,” totaling about an hour. The Two Towers DVD set contains a demonstration of sound mixing, with eight versions of the same clip from the Helm’s Deep battle: one with the sound recorded on-set during filming, six with selected parts of the sound (music in one, weapon sounds in another, and so on), and the final mix. The six incomplete tracks have already been partially mixed from separate recordings. Originally, each sound was recorded separately. Early in The Return of the King, for example, as Gandalf leads the group through the woods to visit Isengard, one track was made just for the clicking of Legolas’s arrows in his quiver—a sound barely distinguishable in the final mix.
+
+Discussions of musical scores are among the most common of making-of supplements. In a particularly detailed and systematic discussion, “Scoring War of the Worlds,” John Williams comments extensively on the narrative functions of his music. The supplement was directed by Steven Spielberg. In the “Music” supplement for The Golden Compass, composer Alexandre Desplat discusses musical motifs; he also talks about the exotic instruments he chose to characterize the various ethnic groups in the story. Hans Zimmer, composer for The Dark Knight, describes the dissonant music associated with the Joker character in “The Sound of Anarchy” supplement.
+
+Sergio Leone’s Westerns are often called “operatic,” and film music historian Jon Burlingame explains why in “Il Maestro: Ennio Morricone and The Good, the Bad, and the Ugly.” Unlike most movie music, the scores for Leone’s films were written in advance, and this supplement explains how the music guided the director during shooting and editing.

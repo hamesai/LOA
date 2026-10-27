@@ -1,0 +1,1147 @@
+CHAPTER 9
+
+Shooting the Movie
+
+This chapter is about the production phase of making a movie: planning and organizing the shoot, directing the film, and camerawork. Given the range of possible types of productions—dramas and documentaries, student projects, and professional films—you may find parts of the chapter more or less relevant to your work. But the concepts and methods of one kind of production often apply to others, even if somewhat different in scale or execution.
+
+Because shooting a movie draws on all the skills and techniques of filmmaking, in some sense all the other chapters in the book are relevant to this one. More specifically regarding the choices made by the director or camera operator, it’s important to have an understanding of cameras (Chapters 3 and 6), lenses (Chapter 4), and editing (Chapter 13). The financial and legal aspects of the topics in this chapter are discussed in Chapter 17.
+
+THE GOALS OF PRODUCTION
+
+At the most basic level, production is the time to capture images and sounds that you’ll use to tell a story. For a drama, production represents a tremendous collaboration between all those behind the camera (producers, writers, director, art director, cinematographer, etc.) and the actors who perform in front of it. In a documentary, there’s another kind of collaboration between the film crew and the film’s subjects.
+
+It’s important to keep in mind that production is not an end in itself, but a means to an end: everything you do in production is to ensure that when you get to the editing room you’ll have the elements you need to tell the story. The director must constantly think about not just what the camera is capturing, but how that footage can be edited together. Part of the director’s skill is being able to visualize how scenes being filmed will translate to the screen and how they’ll integrate with scenes that have already been filmed and ones not yet shot. Having some editing experience is extremely useful for directors and cinematographers.
+
+This is not to say that going into production the director needs to pre-edit the movie (though more on that below). In fact, hopefully the director will provide the editor with material that can go together in multiple ways. Even tightly scripted films are often transformed in terms of pace, point of view, and storytelling in the editing room, and the director should anticipate the editor’s needs.
+
+Thinking about shooting and editing at the same time can be even trickier with documentaries, where you may have limited or no control over what happens in front of the camera. You’re capturing events or moments, but you may not know their meaning and place in the film yet. This calls for even more flexibility on the part of the director and cinematographer.
+
+This chapter is in part about the language of cinema, the grammar of how shots flow from one to the next. The kinds of shots you get and how they’re ultimately edited constitute a key part of the film’s style. People sometimes think of style and content as separate things, but each reflects on the other and affects how audiences understand the film. There’s meaning in every shot.
+
+Though parts of this chapter address narrative filmmaking in particular, documentary work often involves similar concerns in terms of filming, editing, and production. Documentary and fiction filmmakers should be versed in each other’s methods.
+
+Fig. 9-1. In these shots from Alfred Hitchcock’s Psycho, composition, lighting, and selective focus work together to draw us into the scene and make us want to see what Norman Bates (Anthony Hopkins) is seeing through that hole. (Universal)
+
+Scenes, Takes, and Sequences
+
+Some terms that define how the camera captures action:
+
+A scene is an event that takes place in one setting in a continuous time period. Two actors talking in a kitchen might be indicated in the script as a scene. However, if one of the actors walks into the dining room, and the camera follows or moves to the next room, that is often considered a separate scene in the script.
+
+A sequence is generally a scene or a series of scenes that make up a unit. The above-mentioned scene could also be referred to as the “kitchen sequence.” However, sequences can be made up of shots that take place in different locales but together form a conceptual whole. For example, you might refer to the “baptism sequence” in The Godfather, which includes a scene in a church intercut with a series of scenes of murders being committed around the city.1
+
+A scene may be made up of a single shot (such as a wide shot of the entire action) or it may be divided into several shots or camera angles (or just angles) that will eventually be edited together (such as paired close-ups of two actors talking to each other; see Fig. 9-3).
+
+During production, whenever the camera is moved to a new spot to get a different camera angle or scene, that’s considered a new setup. Changing setups often means not only changing camera position, but changing lighting and other aspects as well. Simply changing the focal length of the lens to get a new shot from the same position is not a new setup.
+
+Various takes are filmed, each trying to capture a particular shot. For example, “Scene 8, Take 14” is the fourteenth attempt to capture scene 8 in the script. Letters can be used to indicate a particular angle called for in the script. “Scene 8A, Take 4” is the fourth attempt to get the second camera angle (A) of scene 8. Another way to notate it would be “Scene 8, Shot 2, Take 4.”
+
+“Take” (or camera take) refers to each section of footage from the time the camera begins shooting until it is turned off. “Shot” is sometimes used to mean camera take and sometimes to mean the edited take—that is, the portion of the take used in the edited version of the movie. To confuse things further, “scene” sometimes means shot (as in, “scene-to-scene color correction”). Usually the context distinguishes the meaning.
+
+COMPOSITION AND SHOT SELECTION
+
+Types of Shots
+
+Shots are divided into three basic categories—the long shot (LS), medium shot (MS), and close-up (CU). The long shot includes the whole body of the person in relation to the environment, usually taken from fairly far away from the subject. A wide view of a landscape is sometimes called a long shot or a wide shot. The establishing shot is a long shot that defines the basic space or locale where events will take place. The medium shot is not too detailed, includes part of the subject, and usually includes people from head to knee or from waist up. The close-up shows a detail of the scene; in the case of a person, it is a head-and-shoulder shot. A “two-button close-up” shows everything from the face down to the second button on a person’s shirt. In a big close-up, just a face fills the screen, or in an extreme close-up (ECU) part of a face or a small object fills the screen—for example, a watch or a fly.
+
+Two shots taken from opposite angles are called reverse-angle shots. A conversation between two people is often shot with each person alone in the frame in three-quarter profile. When the scene is edited, we see one person looking right, then the other looking left (see Figs. 9-3 and 13-4). This shooting-editing style is called shot/reverse shot or angle/reverse angle. These shots are typically close-ups, but the back of the other person may be visible (a close-up that has the back of another person’s head or another element in the foreground is sometimes called a dirty close-up).
+
+Shot/reverse-shot cutting is often contrasted with the two-shot, which is a single shot of two actors from the front showing them from the knees up (knee shot) or waist up. The point-of-view (POV) shot is taken from someone’s or something’s vantage point (such shot 2 in Fig. 9-16). It can be taken from behind an actor over her shoulder or with the camera at the position of her eyes. POV shots also include shots from extreme vantage points, such as from directly overhead (bird’s-eye view).
+
+Fig. 9-2. Shot division. The categories are not exact. (A) The extreme close-up fills the screen with a small detail. (B) The big close-up fills the frame with a face. (C) The close-up includes the head and shoulders. (D) The medium shot includes most of the body. When two people are shown in medium shot, it is a two-shot. (E) The long shot includes the whole body and the surroundings. (Carol Keller)
+
+Fig. 9-3. This sequence from Born Yesterday begins with a two-shot, then cuts to a medium shot of Judy Holliday, followed by a reverse angle of William Holden. (Columbia Pictures)
+
+Composition
+
+Each shot is composed or framed in the camera viewfinder. When you film from a script, the action and framing for each shot can be blocked out, or planned, before the take. In unscripted work, framing and movement are improvised based on both what is seen through the viewfinder and what is seen and heard outside the frame. Framing can be thought of as a way to control viewers’ attention: directing them to certain elements in the scene, excluding other elements, and creating an image that’s visually satisfying.
+
+The notion of composition comes from painting and in part from still photography, and it refers to the arrangement of objects within the frame—their balance and tensions. Composition in motion pictures is quite different, since objects move within the frame (subject movement) and the frame itself can move (camera movement). Furthermore, one shot is edited next to another, creating an entirely new set of tensions and balances through time.
+
+Perhaps the most commonly cited compositional guide is the rule of thirds, which can help you avoid placing important areas of interest dead center in the frame, which tends to be dull. Instead, position important areas one-third of the screen width from one side or the other (see the upper-left image in Fig. 9-20). In a close-up or medium close-up shot, you can place the subject’s eyes about a third of the screen height from the top (the nose will then be roughly centered in the frame; see Fig. 12-33). It should be noted that a great many well-balanced compositions do not conform to this “rule.”
+
+Try to place objects and people naturally in the static frame—either comfortably within the frame or using the edge to cut them off decisively; don’t place them so close to the edge of the frame that they seem to fight with it. Avoid large dead spaces or losing the subject in a mass of irrelevant details. Be particularly attentive to what’s directly behind the subject, such as plants that may seem to be growing out of a person’s head, or activity that distracts from what you want the audience to focus on.
+
+A key consideration when framing a medium shot or a close-up of a person is how much headroom there is between the top of his or her head and the top of the frame. Individual shots vary tremendously in terms of how much headroom feels comfortable. In Fig. 9-14, the subjects’ heads nearly touch the top of the frame, which works well in this scene. In shot 3A in Fig. 9-16, the space above Grace Kelly’s head feels natural in the wide shot, but in the close-up (3D), the same amount of headroom seems perhaps unnecessary (the final frame might feel better balanced if the camera tilted down just a bit as it moves in). Many of the shots in Fig. 13-4 are framed so tightly that there’s no headroom at all. Headroom—and composition in general—is subjective, and cinematographers and directors must go by their instincts in each setup.
+
+Although there are no set rules for composition, compositions create expectations, and that may be used to surprise the audience or to confirm or deny their expectations. For instance, camera angles from below can be used to suggest the importance, stature, and height of the subject (or in some cases, it may just be an unflattering angle). In horror films, compositional imbalance often suggests something scary lurking outside the frame.
+
+Because a shot often reveals its meaning through motion, it’s possible to have strong film composition without well-composed still frames. Composition that is dynamic usually resolves tension by the use of subject or camera movement or through editing. A frame that seems off balance at first may fluidly become better centered as it develops. Or the off-balance quality itself may be used as an interesting pictorial element. These days, gross imbalances that violate the conventional notions of composition are often used to add flavor.
+
+Leading the Action
+
+When a subject has a definite movement toward the side of the frame, place the subject closer to the edge from which he is moving (see Fig. 9-4). For example, if you track someone walking from right to left, frame him closer to the right side of the frame as if to leave room for walking on the left. If the shot continues for some time, the person can advance in the frame to suggest forward movement, and even exit the frame to the left. Similarly, someone in profile looking off screen to the right should generally be framed closer to the left side of the frame, leaving space on the right.
+
+Fig. 9-4. Leading the action. (A, B) Leave more room on the side of the frame toward which the action points. (C) The void on the left throws the frame off balance and may feel awkward or suggest something will happen (for example, someone may approach from behind). (Steven Ascher)
+
+Other Elements in the Dynamic Frame
+
+The focus may be “pulled” from the background to the foreground to shift audience attention. Some filmmakers consider this technique mannered unless it is used to follow a movement. Selective focus is used to accentuate a portion of the subject. In a close-up, it’s usually advisable to focus on the eyes. A tilt-focus lens (see Fig. 4-23) allows you to tilt the plane of focus, drawing attention to a narrow area. Lighting may be changed within a shot; for example, car headlights might suddenly illuminate a person.
+
+Shots tilted sideways (tilted horizon line) are called Dutch angle or canted and are sometimes used, often in medium close-up, to add tension to a static frame (see Fig. 9-5). Sometimes one tripod head is mounted perpendicularly on another; the lower head sets the basic angle of the shot, while the upper head controls the amount of sideways tilt and even allows the camera to be smoothly tilted from side to side during the take (see Fig. 9-6).
+
+Fig. 9-5. A shot with a tilted horizon is called a canted or Dutch angle shot. (Stephen McCarthy)
+
+Cinematographers often shoot at an angle that reveals as many sides of the object as possible in order to enhance the feeling of depth. For example, a building filmed head-on reveals one side; shot from an angle it reveals two sides; and shot down and at an angle it reveals three sides. Use familiar references to establish scale. An enormous boulder will seem larger if there is a person in the frame.
+
+Fig. 9-6. The Cartoni Dutch head enables you to mount a second fluid head perpendicular to the first, allowing side-to-side as well as front-to-back tilts. (Cartoni)
+
+Hollywood directors frequently use camera angle, movement, and lighting to create a feeling of deep space in an image. This allows them to clearly distinguish foreground from background and exclude large areas of unmodulated black or white. European directors in the 1960s and 1970s often emphasized the flatness of the screen through their use of lighting and camera angle, sometimes shooting perpendicularly to a wall or allowing large areas of the frame to be overexposed or underexposed.
+
+Composition in the Monitor or Viewfinder
+
+There’s a computer expression, “what you see is what you get.” Unfortunately, when framing up a shot in a video or film camera, what you see is often not what you get. That is, the image that’s ultimately delivered to the audience may look a lot different from the one you’re seeing, not just in color or exposure, but also in the shape of the frame and where the edges of the picture are. It can be tricky in shooting to try to compose for the frame you’re seeing while keeping in mind the different ways it may get transformed.
+
+TV CUTOFF. Traditional CRT television sets were designed to enlarge the picture slightly inside the bezel on the front of the TV, which crops off the edges of the frame (called TV cutoff or overscan). Web videos, on the other hand, usually show the entire frame, edge to edge. Between these two are flat-panel LCDs and plasma TVs, which are not supposed to cut off the edges, but sometimes do.
+
+Because the audience may not see the edges of the frame, remember when shooting to avoid positioning anything crucial too close to the edges of the viewfinder frame (top, bottom, or sides). TV cutoff is inconsistent from one TV to another—you can’t count on how much the edges will get cut. Something undesired—like a microphone in the corner of the shot—may or may not show up.
+
+Fig. 9-7. Safe action and safe title areas. The outer boxes show TV safe action and safe title areas when working in 16:9; the inner boxes show the same when doing a 4:3 center-cut crop for SD television. The safe areas here are conservative and based on older CRT standards. Most modern flat-panel displays have less cutoff, and you can usually get away with positioning things closer to the edges of the frame, especially with regard to safe title. (Steven Ascher)
+
+The camera viewfinder should be able to display a TV safe action frame as a guide to show which parts may be cropped. The TV safe title area is even closer to the center of the picture to protect text and titles that have to be readable (see Fig. 9-7). Some monitors are switchable between underscan, which shows you the entire image, and overscan, which shows you typical CRT cutoff. Underscan will show you when unwanted things are definitely out, and also what the image will look like when shown on the Web.
+
+ASPECT RATIO ISSUES. If you shoot in a widescreen format, be aware that your movie may be shown in a nonwidescreen format, particularly if broadcast. Similarly, if you shoot nonwidescreen, the footage will quite likely be converted to widescreen at some point. Please read the discussion of aspect ratio starting on p. 74 and particularly How Aspect Ratio Affects Your Shooting on p. 80. Fig. 9-7 shows the safe action and safe title areas of a center-cut 4:3 image extracted from a 16:9 frame.
+
+Some cameras have interchangeable viewing screens or can display different aspect ratios, such as 1.66, 1.85, and 2.39. Sometimes a widescreen look is achieved by shooting in a relatively less wide format and cropping or masking the image in postproduction or projection. For example, you might shoot digital in 16:9 and then crop the top and/or bottom of the image to create 1.85 during post (see Fig. 9-8). If this is the case, be sure to shoot a framing chart at the beginning of the production so that the cinematographer’s intentions in terms of framing are clearly indicated (see p. 269).
+
+THE MOVING CAMERA
+
+Static or locked-off shots (that is, shots that have no camera movement) can be contrasted with moving camera shots. A camera pivoting from a single point can pan (move in a horizontal axis left or right) or tilt (pivot in a vertical axis up or down). If the support that’s holding the camera can be raised, this may be boom up or pedestal up or crane up. If the support is on wheels, you can make a dolly or tracking shot.
+
+Fig. 9-8. This production is being shot in 16:9 and will be cropped in post to 2.35. The monitor is taped to show the eventual framing. Some monitors can display frame lines in a variety of aspect ratios. Waveform monitor overlay is in lower right. (David Kruta)
+
+Pans and Tilts
+
+Pans work best when motivated by a subject moving through space. Panning with a moving subject makes the rate and movement of panning natural. Panning to follow a subject is sometimes called tracking, but this should not be confused with the tracking shot, where the camera itself moves through space (see below). However, panning with a long focal length lens can be used to simulate a moving camera shot (more on this below).
+
+The most difficult pans are across landscapes or still objects, as any unevenness in the movement is evident. These pans must be fairly slow to avoid judder or strobing (see p. 393). The swish pan, a fast pan that blurs everything between the beginning and end of the movement, also avoids the strobing problem.
+
+Panning is sometimes thought to be the shot most akin to moving your eye across a scene. If you look from one part of the room to another, however, you will see that, unlike the pan, equal weight is not given to all the intermediate points in the visual field. Viewers often read images from left to right, and scene compositions can take this into account. Pans often cross still landscapes from left to right, as though the world unfolds in this way.2
+
+Cinematographers sometimes say that shots with camera movements like pans, tilts, zooms, and dolly shots are supposed to start from a static position, gradually gain and maintain speed, and then ease down to a full stop. This rule is often honored in the breach, and shots often appear in films with constant speed movement.
+
+Keep in mind that the larger the movie is projected, the more exaggerated any camera movement will be. A quick pan or shaky camera may be far more disorienting or objectionable on a large screen than on a small one.
+
+Dolly Shots Versus Zooms
+
+When the camera moves through space, the viewer experiences the most distinctly cinematic of the motion picture shots. The moving camera is perhaps the most difficult and often the most expensive shot in the cinematographer’s vocabulary. A wheeled vehicle with a camera support is called a dolly. Moving camera shots are called dolly, tracking, or trucking shots: When the camera moves in, it is called dolly in or track in; when the dolly moves out, dolly out or track out. If the camera moves laterally, it is called crabbing or trucking (for example, crab left or truck right). A dolly with an integral boom provides up-and-down (vertical) movement, which adds enormously to the lexicon of possible shots. Of course you can also do tracking shots without a dolly, either by shooting handheld or by using devices such as a Steadicam or a slider to move the camera (see below).
+
+Zooming, unlike the shots just described, does not involve camera movement. A zoom lens allows you to increase or decrease the focal length during a shot (for more on zoom lenses, see p. 163). Some people object to the zoom effect because the viewer is brought closer to (or farther from) the filmed subject without changing perspective. In Fig. 4-3, you can see that with zooming, the entire image is magnified equally, similar to when you approach a still photograph. In a dolly shot, however, the camera moves in toward the subject and the perspective changes; objects also pass by the side of the frame, giving the viewer the sense of physically moving into the space.
+
+Fig. 9-9. The DSLR on the slider on the floor can make lateral movements; the camera on the jib arm can get high-angle shots and vertical movements (boom up or down). The operator watches a monitor mounted on the jib. (Amanda Kwok/SmallHD)
+
+The moving camera creates a feeling of depth in the space. The zoom tends to flatten space and can call attention to the act of filming itself. Some filmmakers like this feature and will use the zoom to pick out a significant detail in the subject.
+
+Zooming in the opposite direction of subject or camera movement results in a treadmill effect. If an actor runs toward the camera but the lens zooms back, the viewer feels as though the actor has made no progress. Similarly, if you shoot out of a car’s front window and zoom wider, the viewer will feel as though the forward movement is disrupted. In Vertigo, Alfred Hitchcock combined zooming in one direction and moving in reverse to simulate the feeling of vertigo. The camera appears to move down a staircase and the lens simultaneously zooms back to keep the size of the field constant. Although the viewer sees the same subject matter, the perspective is exaggerated (since the camera moves closer), evoking the sensation of dizziness due to height. Similar moves were used by Steven Spielberg in Jaws and Martin Scorsese in GoodFellas—dollying in one direction while zooming in the other to create a disorienting effect.
+
+The Zoom Effect
+
+Zooming changes the image significantly and, unless it is handled well, can be quite disruptive. The classic, graceful zoom starts up slowly, reaches the desired speed, and gradually slows to a stop. There are also times when a “pop” zoom that jumps suddenly from one focal length to another can be effective. As discussed earlier, some people feel that all zooms should come to a stop before a camera cut. However, there are many instances of cuts while the camera is still zooming, especially if the zoom is slow, that work fine.
+
+If you don’t like the zoom effect, but want to zoom within the shot to change focal length, you can hide it with another camera movement—for example, a pan. “Burying” a zoom in a pan can make the zoom almost invisible. Novices tend to zoom too often (“zoom happy”), which can be annoying. Zooms are most effective when they are motivated and deliberate, not random.
+
+For a slow, smooth zoom, use a motorized zoom. Almost all video lenses have built-in zoom motors. External zoom drives are available for cine-style lenses used with 16mm and 35mm film cameras, digital cinema cameras, and some HD cameras. Zoom motors usually have a range of speeds. It’s helpful to have a very fast speed to reset the lens even if you don’t plan to use that speed in the shot.
+
+It’s very important that the zoom control be able to accelerate smoothly from a stop and feather smoothly back to a stop. Sometimes an external zoom control has a more delicate rocker switch than a camera’s built-in switch. When shooting on a dolly or tripod, you’ll want an external control mounted on the handle of the tripod head so you don’t have to reach around to the lens. Some video cameras can be preprogrammed to execute a smooth move from one focal length to another.
+
+Some filmmakers prefer a manual (nonmotorized) zoom, which puts you in direct contact with the “feel” of the zoom. Many powered zoom lenses can be switched to manual mode. Manual zooming allows you to respond more quickly to fast-changing action. It can also be used for a deliberately “rougher” shooting style.
+
+Some lenses can accommodate a zoom lever for manual zooming that extends perpendicularly from the zoom ring; the longer the lever, the smoother the zoom can be. Detachable drag mechanisms are available that adjust the resistance of the zoom.
+
+STYLE AND DIRECTION
+
+Style in movies, as all art forms, is continually evolving. At any given time, different types of movies make use of various conventions in shooting and editing. The conventions shift over time for a variety of reasons: a stylistically new film will spawn imitators; changes in technology make new techniques possible; ideas are borrowed from one type of moviemaking and applied to others. What follows is a deliberately sketchy history of some styles used in moviemaking, and some thoughts on directing, as a stimulus to thinking about the relationship of style and shooting possibilities. Also see the sections Some Film Theory and Approaches to Editing in Chapter 13.
+
+DRAMATIC FILMS
+
+Narrative Styles
+
+In fiction and other scripted filming, the director must plan how individual shots relate to the action of the scene and to the juxtaposition of other shots through editing. At the most basic level, the director and cinematographer must decide where to place the camera and what to shoot in each shot.
+
+In the deep-focus shot (see Fig. 9-10), the whole frame is in focus. The meaning of the scene thus develops in the deep space of the frame. The camera movement, subject movement, dialogue, lighting, costumes, and so forth all contribute to the forward movement of the film. The long take—that is, a shot of long duration—allows the action to unfold in real space and underlines the fact that the shot’s meaning comes from filming, not from editing.
+
+This staging of the shot, or mise-en-scène, is contrasted with montage, in which meaning and forward movement are conveyed through editing—through the juxtaposition of various shots that by themselves may contain less information or content. When the action of a scene is captured in many shorter shots, the filmmaker has an opportunity to control pacing and to direct the audience’s attention in ways that may not be possible with longer takes. Montage also opens up the possibility of constructing entirely new meanings by suggesting connections between shots that otherwise might seem unrelated (for more on montage, see Chapter 13).
+
+André Bazin, the French film critic often credited as the decisive influence on the French New Wave, thought it characteristic of advanced film directors of sound pictures to be concerned with mise-en-scène, with the integrity of the photographed space. If you think of dangerous stunts, it is easy to grasp the visceral effect of seeing the events photographed rather than constructed. Among all the silent filmmakers, Buster Keaton seemed to understand best the power of unmanipulated space. His stunts, often performed in long shot, were clearly incredible feats. Much of the attraction of unmanipulated documentary is its ability to convince the viewer that what is seen on the screen actually occurred.
+
+Fig. 9-10. Deep-focus shot from Citizen Kane. A wide-angle shot with both foreground and background in focus allows the action to develop within the frame. (RKO General)
+
+On the other hand, when audiences “suspend disbelief” and enter into the world of the movie, a carefully constructed edited sequence can deliver enormous emotional impact or bring out otherwise buried meaning. Staging and editing should not be thought of as opposites but as two stylistic tools at the filmmaker’s disposal.
+
+The first dramatic filmmakers approached motion pictures as an extension of theater. A story would be acted out in front of a fixed camera. Though the early silent films of the 1900s were not actually shot on a proscenium stage, the camera’s relationship to the action was much like a theatergoer’s view of a stage play. D. W. Griffith is credited with first exploiting the power of the close-up. The camera comes in close to reveal nuances of an actor’s expression, creating a new relationship between audience and actor, necessitating a new, more subtle style of acting. The silent cinema defined the basic vocabulary of the film image. Today, shots taken without sound are referred to as MOS. The story goes that when the German directors came to Hollywood in the early 1930s, they referred to silent footage as “mit-out-sprache” (a kind of fractured German for “without speech”), hence MOS.
+
+Hollywood sound films until the 1950s generally were shot in studios using a classic shooting/editing style: Scenes are first filmed all the way through in master shots (relatively wide-angle, continuous takes). Then close-ups are filmed, if needed. The edited scene begins with the wide establishing shot to ensure that the audience is well oriented and comfortable in the setting before cutting to the closer shots. From this classic approach evolved a “traditional” style of filming a two-person scene using four camera angles: a master shot, a two-shot, a close-up of one character, and a reverse of the other. A radical exception to this style is found in Robert Montgomery’s Lady in the Lake, filmed with a subjective, point-of-view camera meant to reveal what the audience would see if they were inside the protagonist’s head.
+
+In the 1960s and 1970s, as the general culture loosened up, so did narrative style in many films. The old dictates of master shot/close-up coverage gave way to a freer-form shooting that assumes audiences have the visual sophistication to understand a scene that might be played in, say, only an extreme close-up. John Cassavetes experimented with a style that seems to merge documentary and narrative sensibilities. To the audience, both the acting and the camerawork may appear spontaneous and improvised, with scenes that flow organically from one moment to the next. It has become increasingly popular to shoot dramas in a handheld, documentary style. This may be done to add a sense of “realism” to a fictional or semifictional story or as a parody of documentaries (“mockumentaries,” such as This Is Spin¨al Tap).
+
+The 1980s brought the music video. Made by and for a generation that was raised watching TV, music videos introduced a new lexicon of quick cutting and the juxtaposition of wildly differing types of imagery. Stylistic touches exploited in music videos and TV commercials have found their way into many other types of movies; these techniques include deliberately shaky camerawork, distorted images, fast cutting, and intentional jump cuts (see below).
+
+Today narrative films combine elements of all these styles. Many mainstream Hollywood or TV dramas are very straightforward stylistically, employing a style that will not “intrude” on the storytelling. Independent dramas tend to take more risks, but more often what sets them apart is the kind of stories they tell, rather than the fundamental visual language of shot selection and editing. As the Internet becomes increasingly important for distribution, it’s interesting to see how narrative styles adapt to the small size and generally short duration of online videos.
+
+Perhaps the best way to think about shooting and editing style is to watch movies and note which scenes work especially well or badly. To understand the relationship of camerawork to editing, it can be particularly instructive to watch films with the sound off.
+
+Coverage
+
+As discussed above, one approach to capturing a scene is to shoot the entire action in a single, continuous master shot. Woody Allen often films scenes in an uninterrupted master, such as many dialogue scenes in Manhattan and Annie Hall (see Fig. 9-11). In some scenes there may be little or no camera movement. This puts a special emphasis on the performances and writing and at times may de-emphasize the filmic aspects of the scene.
+
+Fig. 9-11. This scene from Annie Hall runs about three minutes as an uninterrupted master shot. It ends with Woody Allen directly addressing the camera, breaking the “fourth wall” and transforming an observational scene into one that calls attention to the act of filming. (United Artists)
+
+On the other hand, the opening scene of Orson Welles’s Touch of Evil is an intricately choreographed continuous take that covers about three and a half minutes of action in close-ups and wide shots from high and low angles (accomplished with a mobile crane) in a tour de force of cinematic technique (see Fig. 9-12). At times, long master shots can give an audience a satisfying sense of being able to observe and discover things about a scene on their own.
+
+For both aesthetic and practical reasons, filmmakers much more commonly parse or divide the action into various shots instead of simply shooting a single master. This helps both in shooting the scene and editing it. Coverage refers to the options (that is, different camera angles) that have been filmed in addition to the master. Having multiple camera angles available in the editing room allows you to change the pace of the scene, direct audience attention to different aspects, make use of the best performances, and edit around camera or acting errors. If a scene is covered with only one or two angles or takes, options are limited. Many an editor has lamented a director’s lack of coverage.
+
+One logical and traditional way to break down a scene is to move from a long shot to a medium shot to a close-up. This orients the audience to the physical space and the progression of increasingly tight shots suggests forward movement into the scene, as though the camera is delving deeper into the action (see Fig. 13-2). When a scene goes wider, from a medium shot to a long shot, we expect action on a larger scale (for example, a new arrival in the scene) or a leave-taking from the action (as might happen at the end of a movie). Nevertheless, contemporary audiences are comfortable with a wide variety of cutting styles and the traditional rules about the relationship of shots don’t always apply.
+
+Point of View
+
+Among the arts, cinema has a unique ability to influence our thoughts and emotions and to allow us to see the world through the experiences of real and fictional characters. In a sense, the camera becomes the audience’s eye, and the filmmaker, through shooting and editing, has an enormous power over what the audience feels and understands.
+
+What audiences know about the characters and which ones they identify with depends in part on how individual scenes are constructed and how the story unfolds overall. How point of view is expressed in scene and story structure results from the way the script is written, how the director chooses to film it, and how the movie is edited. These aspects must be considered carefully before you go into production.
+
+Fig. 9-12. The opening sequence from Touch of Evil is an uninterrupted master shot that reveals the planting of a bomb, introduces central characters, and explores the urban landscape in continuously unfolding action. When Charlton Heston and Janet Leigh react to the sound of an off-screen explosion, the opening shot ends (1K) with a cut to a cutaway of the burning car (2). (Universal Pictures)
+
+Let’s take the example of a series of scenes in which a man goes to his doctor, the doctor reveals that some test results are bad, then the man goes home (see Fig. 9-13). The following are a few possible ways to shoot and edit this sequence of events.
+
+The camera could witness the day along with the man. We see him saying good-bye to his wife as she drops him off at the doctor’s office. He goes into the building alone. We see the doctor tell him about the test results and the man asks some questions. We cut to him at home, telling his wife the news.
+
+In another way of portraying these events, we might start with the same shot of his wife dropping him at the doctor’s, but have the camera stay with her as he enters the building and she drives off. We cut to her later, thinking about the possibilities. Then we cut to her serving dinner as she asks how the checkup went.
+
+In a third scenario, we begin with the doctor alone in his office, reading and reacting to the test results. Then the man enters. The audience already knows the news is bad. There might be no dialogue at all, just a silent shot of the doctor’s face. We then cut to the man silently at the table, not ready to tell his wife what happened.
+
+Fig. 9-13. Three ways of covering the same events. See text. (Greg High)
+
+Each of these approaches stresses different aspects of the story. In the first option, the camera is closely identified with the man and his experience. The second version is obviously more from his wife’s point of view—how she experiences these events. Depending on the story you’re telling, you might want to restrict what the audience knows and sees to what a particular character experiences. In Chinatown, like many noir and mystery stories, the camera stays with the detective (Jake Gittes, played by Jack Nicholson) and the audience gathers clues along with him. We have no access to events that Gittes doesn’t witness.
+
+The third version of the doctor scenario differs from the first two in part because it may involve little or no dialogue. The audience understands the outlines of the story and gathers emotional clues through expression and gesture. Another difference is that in this scenario the audience gets information independently of the main characters (since we learn of the test results before the man does). This approach affects the narrative in direct and indirect ways. When the audience has knowledge that a character doesn’t possess, a scene can at times be invested with irony, tension, or foreboding.
+
+In interviews with François Truffaut, Alfred Hitchcock talked about the difference between surprise and suspense. He imagined a mundane dialogue scene in which there is a bomb under the table, which suddenly goes off, surprising the audience. He contrasted that with a different scene structure: in the second version, we see an anarchist plant the bomb, which is set to go off in a few minutes. Now, the same “innocuous conversation becomes fascinating because the public is participating in the scene…. In the first case we have given the public fifteen seconds of surprise at the moment of the explosion. In the second case we have provided them with fifteen minutes of suspense.” As shown in Fig. 9-12, Welles used this second technique in Touch of Evil.
+
+CAMERA ANGLES AND MOVES. The different approaches to the doctor scene or Hitchcock’s bomb example represent choices that need to be made in the script and direction. Another set of choices apply to cinematography, since the camera’s point of view is expressed most directly through individual camera angles and moves. The eye line or sight line is the direction a person is looking relative to the scene and relative to the lens. A character’s eye line can indicate who or what she is looking at, and the angle of the eye line relative to the camera position can affect the way the audience experiences the scene.
+
+The sequence from Born Yesterday in Fig. 9-3 is shot in a straightforward, observational style. The profile two-shot establishes the setting; the over-the-shoulder medium shots of Judy Holliday and William Holden cover the dialogue in a relatively objective way.
+
+By comparison, in the scene from The Last Picture Show shown in Fig. 9-14, the camera is physically closer to the characters, and their eye lines are closer to the lens. Cybill Shepherd is filmed from above, representing Clu Gulager’s point of view. Similarly, he is filmed from below, at about the height of her position on the couch. These shots are not over-the-shoulder, but are clean medium shots, which can sometimes heighten the audience’s sense of sharing the characters’ point of view.
+
+Fig. 9-14. In this scene from The Last Picture Show, the camera is positioned close to the actors’ eye lines. High-contrast, hard light adds a moody feel (the shot of Cybill Shepherd evokes Hollywood black-and-white glamour photography from the 1930s and ’40s). Clu Gulager’s reflection in the mirror adds another dynamic element. (Columbia Pictures)
+
+In some films and some scenes, the camera will more closely take on a character’s point of view. For example, the shots from Rashomon in Fig. 9-15 represent the subjective point of view of each character looking at the other. The eye line of each man is very close to the lens, but not directly into it. In some films, actors will look directly into the lens and talk to it as if the camera were inside the head of the other character (perhaps for an intimate kissing scene). This type of shot can easily seem awkward.
+
+Fig. 9-15. POV shots. In this dueling scene from Rashomon, the shot of Toshiro Mifune on the left represents Masayuki Mori’s point of view; the shot on the right represents Mifune’s POV. The eye line of each actor is toward the lens, but not directly into it. (The Criterion Collection)
+
+Handheld camera moves are often used to represent a character’s point of view and sometimes a character’s emotional state. Panic or frenzy can be reinforced by a shaky or nervous handheld camera style. In real life, our remarkable human skeleton, gait, and sense of balance keep our head upright and steady and our field of view level in most circumstances, but the convention that wobbly handheld camerawork equals interiority or a subjective viewpoint is universally accepted. Horror films notoriously exploit tremulous handheld shots to telegraph the presence of an unseen onlooker.
+
+Camera moves are often used to represent a character’s experience. A character enters a room and the camera dollies forward, representing what the character is seeing. Audiences quickly make an association between a shot of a character looking off screen and a shot of what that character is supposed to be seeing. For example, in the scene from Hitchcock’s Rear Window in Fig. 9-16, we start with a shot of Grace Kelly and James Stewart looking out the window, then cut away to their point of view of Raymond Burr across the courtyard (for more on this cutting pattern, see Chapter 13). When we cut back to Kelly (shot 3 in Fig. 9-16) the camera dollies in on her as the realization dawns on her that Burr’s character may be a murderer. This kind of push-in to a close-up is commonly used in films to underscore a character’s thoughts or to emphasize the seriousness of a situation.
+
+Fig. 9-16. This scene from Rear Window begins with three shots: (1) Grace Kelly and James Stewart looking off screen; (2) a POV shot of Raymond Burr; (3) their reaction shot. Shot 3 dollies in on Kelly to emphasize her shock. (Universal; Steven Ascher)
+
+In many films, fluid movement by means of Steadicam, slider, dolly, crane, and boom (sometimes in combination) is used to add flow and lyricism to a scene, but not to represent any particular character’s POV. In Psycho, Alfred Hitchcock at times uses camera moves in which the camera itself almost becomes a character, prowling around a room, manipulating the audience in a carefully calibrated way.
+
+When determining camera position and moves, think about how you want the audience to experience the scene. Should any of the characters be favored in terms of point of view? When do you want the camera positioned at a distance, observing the action? When do you want it in close? Should the camera be a voyeur or a participant? Do you want it to lurch impulsively, creep stealthily, or weave with uncertainty?
+
+Whether shooting dramas or documentaries, try to put yourself in the minds of the audience. What do you want them to see? How do you want the scene to unfold? Use blocking to reveal things rather than to merely show everything up front. Use mystery to your advantage. Some shots are most interesting for what they don’t show.
+
+Fig. 9-17. In this continuous tracking shot from Psycho, the camera reveals the stolen money and a suitcase that tells us Marion Crane (Janet Leigh) is packing to leave town. There is a tension in the way these things are revealed in a continuous shot that feels very different than if they were shown in separate shots with cuts between them. (Universal)
+
+The Illusion of Continuous Time
+
+Live television shows are typically shot with several cameras. A talk show, for instance, might have one camera shooting a close-up of the host, another shooting a close-up of the guest, a third getting a two-shot of both, a fourth shooting the audience, and so on. By cutting back and forth between the various camera angles, we are shown many aspects of the scene, all in continuous time.
+
+Dramatic films, on the other hand, are often shot with a single camera. The action is filmed from one camera angle. Then the camera is moved to a new angle, and the action is repeated or a new part of the action is staged. Depending on the action, it may be filmed from many different angles that may be shot on different days and/or at different locations.
+
+Continuity style is the technique of shooting and editing shots filmed at different times so that the action on screen seems to flow continuously in time from one moment to the next. Continuity style is a grammar that audiences are familiar with from years of watching movies, and it is sometimes thought of as “invisible cutting” since the technique is so common as to be at times unnoticeable. Some scenes and films demand continuity style; others don’t (more on that below).
+
+The rules of continuity style (they’re more guidelines, really) depend on the scene. Take the example of two people talking across a table (see Fig. 13-4). As noted above, this is commonly shot with a shot/reverse-shot approach. One camera angle features character A; another features character B. As long as the 180-degree rule is observed (see below), we can cut back and forth between them with a sense that the conversation is continuous. Sometimes the angles on the two characters are balanced to match each other as closely as possible (see Fig. 9-3). However, in some scenes, the angles can be quite different.
+
+We’ve been discussing a scene in which there are two camera angles featuring different people. What about a situation that involves two shots of the same person? Say you have a close-up of character A and you cut to another take of the same close-up (without changing focal length or camera position). In this case, the jump or discontinuity between one take and the next will be very noticeable (see Fig. 13-3). This is called a jump cut. To avoid jump cuts, there needs to be a significant difference between the first and second shot, both in terms of the size of the shot and usually the angle from which it’s filmed. Thus, a wide shot will usually cut easily with a medium shot or a close-up, but a cut between two medium shots will often feel unsmooth. The change in size between the first shot in the sequence and the next might be accomplished by changing the focal length of the lens or by moving the camera forward or back. The camera should also be moved laterally (left or right) between the two shots to avoid the feeling of a jump cut (some say that the angle should change by at least 30 degrees to provide enough difference between the two shots). Whether a cut feels smooth or jumpy is also affected by the action, the background, and especially continuity in sound (see below for more on jump cuts).
+
+When restaging action to be filmed from different angles, it’s important that the action be consistent from take to take. So if the actor picks up his coffee cup on a certain line in one shot, he should do it at the same point when filmed from other angles. The script supervisor (sometimes called continuity supervisor) is responsible for noting a wide range of continuity issues, from gestures to wardrobe to line readings, to ensure that shots will match when edited together. If you’re shooting digital, when a continuity question arises it may be relatively easy to check a previous take. Even so, when there’s an unintentional mismatch it’s often the case that you can shoot or cut around it because the audience’s attention is focused elsewhere (of course, there will always be people on the Internet with nothing better to do than troll for continuity errors).
+
+A cutaway is a shot away from the main action that can be used to cover discontinuities or to condense the action. For example, when filming a politician giving a speech at a rally, a shot of a woman in the audience could be considered a cutaway or a reaction shot. In editing, the cutaway can be used to smoothly join one part of the speech with another. You cut from the politician (in sync sound) to the woman and back to the politician at a later part of the speech. Without the cutaway, the condensed speech would be more obviously discontinuous.
+
+Even if you plan to shoot each part of the action from only one angle, allow for an overlap of action from one shot to the next in the scene to be sure there won’t be temporal discontinuities in the editing. For example, say the script calls for a wide shot of a man getting in a car and slamming the car door, followed by a close-up of his face as he starts the engine. Shoot the wide shot all the way through the slamming of the door. When you start the close-up, shoot the action from a point before the first take ended, including the slamming of the door. This gives the editor options to cut the two shots together at several different points without discontinuity. As noted above, the camera should also be moved laterally between the wide shot and the close-up to make a smoother cut and to minimize any slight discontinuities in action.
+
+When a character walks off camera, the viewer generally accepts a time jump when the next shot begins with him later on. For instance, if someone walks off frame toward the door, a cut to the same person walking down the street or sitting at a restaurant doesn’t seem discontinuous. When panning or tracking with a moving subject, it’s usually a good idea to let him walk out of frame at the end of the shot to provide more options in editing.
+
+When shooting uncontrolled documentary scenes, you can’t restage the action to get new camera angles. However, continuity issues still come into play. Always try to have in mind what shot you can cut the present one with. Whenever you feel there will have to be a cut made to another shot, change camera angle and focal length to make continuity editing easier. When shooting a scene with repeated action (for example, someone cooking or chopping wood) you can cover it from different angles, and be sure to include an overlap of action. In documentary, cutaways are often essential to making a scene work (see below).
+
+Compressing and Expanding Time
+
+Much like the issues of point of view discussed above, the flow of time in a movie depends in part on structural decisions made in writing, directing, and editing and in part on how individual shots are filmed. Storytelling always involves balancing moments that are described in detail with scenes in which the action is highly compressed (or omitted altogether). You want the audience to focus on those moments that have the most interest, meaning, and emotion while moving as quickly as possible through story points that may be necessary but are not in themselves worthy of much screen time.
+
+Let’s go back to the doctor’s office scenarios described on p. 337. In the first version, the entire trip to the doctor is shown in a fair amount of detail. The man and the doctor engage in dialogue about the tests, and when the man returns home he tells his wife about it. In the second version, we know that he went to the doctor but we go directly to the conversation with his wife, essentially skipping the office visit. One approach is not better than another, but they use screen time and place emphasis in very different ways. The third version is almost like a silent film; it could be done in a few short or long shots, with no dialogue. It might convey ample emotional weight in relatively little time.
+
+The script should be written (and rewritten) with a close eye to which scenes, dialogue, and details are truly important and which could be condensed or dispensed with altogether. Similarly, when planning coverage of a scene, the director should consider which action is worthy of being filmed in detail. In the third version of the doctor’s office scene, you might decide that showing the man sitting in the waiting room is suspenseful, since we know he’s about to get bad news. Conversely, in the first version, the same shot in the waiting room may just be dull. These kinds of judgments need to be evaluated before the shoot, but will ultimately be decided in the editing room (more on this in Chapter 13).
+
+There are many techniques for shortening action when a film is shot and edited in continuity style. Say you’re shooting a character painting a picture and you want to show her starting with a blank canvas and in the next shot show her putting the last touch on the finished work. To simply cut from one wide shot to another would probably seem too severe. The routine solution is to dissolve from one shot to the other. Another possibility is to do a reveal. The first shot ends as a wide shot. The second shot might begin with a close-up of her face and pull back (either by zoom or by moving camera) to reveal the finished painting. Alternatively, as described above, you can use cutaways to bridge from one moment to another later on. So you might cut to the painter’s cat watching her work, and then cut back to the canvas almost completed.
+
+At one time, jump cuts were seen as a radical new grammar that called attention to the discontinuity in time and to the medium of film itself (in contrast to “invisible cutting”). Today, they are far more commonplace, and audiences have come to accept them as routine. There are many situations in which jump cuts don’t work, but increasingly filmmakers use them not only for scenes in which they want to highlight the jump in time, but simply because they want to shorten a scene and jump cuts will do the job.
+
+When filmmakers want to expand time and make a moment or scene linger on screen, there are a number of possibilities. The first, as just discussed, is to block the action and cover it in a way that gives it lots of screen time. Some scenes or moments can benefit from slow motion (see p. 389). Martin Scorsese famously filmed boxing scenes in Raging Bull with a variety of slow-motion shots, sped-up shots, shots that linger, and very short shots in a fast-cut montage; these techniques together extend and compress time in a way that tries to capture the sensation of being assaulted in the ring.
+
+The 180-Degree Rule
+
+Screen direction refers to the right or left direction on screen as seen by the audience. If a subject facing the camera moves to his left, it is screen right. The 180-degree rule (also called the director’s line or the line) tells how to maintain screen direction when different shots are edited together. If a subject is moving or looking in one direction, in general it’s best not to let screen direction change when cutting to the next shot. For example, when you’re watching football on television, you see the blue team moving from screen left to screen right. If the camera were now to shift to the opposite side of the field, the blue team would appear to be moving in the opposite direction (that is, their screen direction will have changed from right to left). It’s likely that you would be confused. To avoid this confusion, TV crews generally keep their main cameras on one side of the field, and when they use a camera position from the opposite side of the field, a subtitle may be flashed on the screen saying “reverse angle.”
+
+To help plan your shots, imagine a line drawn through the main line of action—be it a moving car, a football field, or the eye line of a conversation. If all camera setups are on one side of the line, screen direction will be preserved from shot to shot. Shots on the line (for example, someone looking directly into the camera or a shot from the end zone in the football example) are considered neutral and can go with shots on either side of the line.
+
+Fig. 9-18. The 180-degree rule. If all the camera positions are kept on one side of the sight line, screen direction will be preserved in editing. (Carol Keller)
+
+During a take, the camera can move across the line with minimal disorientation. But if later in the editing room you don’t use the shot where the camera crosses the line, you may have to violate the 180-degree rule. Rule violations may disorient the audience, but rarely are they disastrous. Sometimes inserting a neutral shot minimizes disorientation. The problem is most serious when screen direction itself has been used to construct the space of the scene. For example, in a shot/reverse-shot scene of two people talking, they must be looking in opposite screen directions when there is a cut from one to the other; otherwise they will not appear to be talking to each other. Similarly, chase sequences depend on screen direction to establish whether one car is chasing another or if the two are headed toward each other.
+
+Screen direction issues can sometimes apply to shots that aren’t even in the same scene. For example, documentary interviews are often filmed so that one subject is facing camera left and a subject with a contrary opinion (often filmed in a completely different setting) is facing right. Cut together, there’s a sense of opposition or contrast in the framing as opposed to the uniformity that would result if each were looking to the same side of the lens.
+
+Sometimes there are two different lines of action and there is no way to avoid breaking the rule. For example, a couple is talking in the front seat of a moving car in a scene that is shot angle/reverse angle. When the driver is shot, the background is moving left; but when the passenger is shot, the background is moving right. Since the relation of the couple is most likely the key element of the scene, draw the line of action along their eye line to preserve their screen direction in the editing.
+
+For more on directing and working with actors, see below.
+
+Fig. 9-19. This sequence from The Last Picture Show begins with a POV shot of Ben Johnson through a windshield. The cut to Timothy Bottoms and Jeff Bridges makes it clear that shot 1 was their point of view. Their conversation is then covered shot/reverse shot, moving tighter on the boys as the scene progresses. The 180-degree rule is preserved since they look screen right and Johnson looks screen left. (Columbia Pictures)
+
+DOCUMENTARIES
+
+Documentary Styles
+
+People who are unfamiliar with how films are made sometimes think of documentaries as “documents” of reality—as though a film is simply a collection of footage of “real” people doing things or being interviewed. In fact, documentary filmmakers can have very different goals and strategies, and their films can vary widely in terms of style and genre. Some of the key stylistic questions relate to how much the filmmaker attempts to control or interact with the subjects, and to the way information is conveyed in the movie.
+
+Some of the first motion pictures were made by Thomas Edison in the 1890s. These were “documentaries” in the sense that a camera was set up to record actual events, such as the electrocution of an elephant. The Lumière brothers’ Train Coming into a Station (1896) is a single, continuous shot of a train arriving. It was an amazing novelty to see the world on film.
+
+The style adopted by UK documentarians such as John Grierson in the 1930s and 1940s is a kind of hybrid that can involve staged events and real people (nonactors). It started in the days when cameras and sound recording equipment were heavy and hard to move around, so action would often be produced and orchestrated for the camera. In this approach, scenes may be scripted and shot much like a narrative film. Many of these films use a “voice of God” narration—the authoritative male voice that provides factual information and often spells out the message intended for the viewer to take from the film.
+
+In the 1960s, lightweight 16mm cameras were introduced that could record sync sound with portable tape recorders. The advent of handheld cameras meant new access to locations and people’s lives. Jean Renoir spoke of the heavy studio camera as an altar to which actors had to be brought. The handheld camera could now go out into the world instead of the filmmaker bringing the world to the camera. Cinema verité (also called just verité or direct cinema) films attempt to spontaneously react to events and capture life as it is lived. With a small crew and enough time for subjects to get comfortable, the filmmaker can become very unobtrusive. Subjects who are not self-conscious will reveal to the camera how they really live and self-conscious subjects will reveal themselves in how they choose to perform. Many of these films use no narration or interviews, and viewers may have the impression they’re seeing a form of unmediated reality that hasn’t been influenced or interpreted by the filmmaker (which was the goal of many early verité filmmakers). However, all filming and editing involves selection and point of view, so documentary film should never be confused with unmediated reality.
+
+In the 1970s, a “personal documentary” movement emerged. In these movies, filmmakers explore their own lives, or shoot others with the explicit acknowledgment of the camera’s presence and the filmmaker’s role in interpreting events for the audience. Rather than creating an illusion of objectivity, these films embrace a subjective and personal view and are often narrated by the filmmakers themselves.
+
+In the 1980s and 1990s, nonfiction programming grew in popularity on network television. Magazine-style shows such as 60 Minutes are structured around short segments in which a correspondent is the guide and narrator of a particular story. These productions have their roots in journalism. The correspondent is seen interviewing subjects and doing stand-ups—telling the story directly to the camera. These shows usually contain some amount of “verité-style” footage in which people are seen living their lives or doing their jobs. This footage is often referred to with the antiseptic term B-roll. B-roll is noninterview material that is often only allowed to play for a few seconds in sync sound. Then the location audio is dipped down and the picture becomes a bed over which to lay narration.
+
+Today nonfiction films are made using all of these styles, or combinations of them. When you embark on a documentary project, you need to determine the stylistic framework for the movie. In what ways will the audience learn about the subject? By watching events unfold in a verité-style approach? By seeing interviews with the subjects or hearing them over other footage? By seeing interviews with “experts” commenting on the subjects? Will there be narration (also called voice-over)? If so, is the narrator a disembodied voice or someone also seen on screen (either a subject, the filmmaker, or a correspondent)?
+
+Often the film’s topic will dictate style. Documentaries about past events generally use a combination of interviews (talking heads) and archival material (stock footage). Often this is combined with present-day footage of locations where events took place. Sometimes reenactments of past events are shot using actors. This footage may be shot in a stylized way to avoid being too literal; for example, actors might be filmed without any dialogue or without showing their faces. Of course, the more screen time devoted to reenactments (and the more dialogue they contain), the closer you get to the hybrid genre docudrama, which exists somewhere between documentary and fiction.
+
+Fig. 9-20. The documentary Inside Job develops a story of financial collapse using interviews, exterior shots, graphics, archival footage, and narration. The choice to shoot in widescreen 2.35 aspect ratio results in talking-head shots in which the background plays a prominent role. (Sony Pictures Classics)
+
+SCRIPT OR NO SCRIPT. Historical and issue-based films often begin with research, followed by a script or detailed treatment. Sometimes “preinterviews” are done to determine what someone will say (more or less) before they’re filmed. The film is structured as much as possible in the writing, and the footage shot in the field or acquired from other sources is intended to illustrate a set of ideas that have already been laid out.
+
+One of the reasons television tends to favor correspondent- and interview-based productions is that they can be produced on a short schedule. Interviews can be done and stand-ups scripted fairly quickly. The interview bites (responses) are edited together with B-roll. It’s not unlike writing a newspaper piece.
+
+This is in contrast to documentaries in which the shooting is the research. Contemporary stories that are still unfolding often call for a much more spontaneous approach. You should have an idea of what you’re looking for, and focus on particular story threads and characters, but often it’s in the shooting that you find what the arc of the story is. Some stories have an obvious arc—a film about an election, for example.
+
+Reality TV is a loose genre of programming about the lifestyles of minor celebrities or in which people engage in competitions or are thrown into preplanned situations. While the dialogue may not be scripted, the idea is usually to shoot a situation, event, or setup that can be edited into an hour or half-hour episode.
+
+When you make documentaries about real people living their lives—without trying to “direct” them or structure what they do—you’re never sure what’s going to happen or when. Many a filmmaker has completed weeks, months, or years of shooting with no idea if enough of a story has emerged to make a film. Then it may take an extended period in the editing room to weave together a coherent piece. But the payoff to this risky approach is in the power of stories that develop over a long period of time, in which characters change and grow, are born or die. The result can be a complexity and depth that can’t be achieved any other way.
+
+Filming Real Life
+
+Documentary film provides a uniquely rich opportunity to experience how other people live their lives. There’s a particular thrill about seeing dramatic moments unfold, knowing that they’re spontaneous and unscripted. Creating the environment in which people will reveal themselves with a camera present is part of the documentarian’s art.
+
+The more the people you’re filming trust you, the more comfortable they’ll be in front of the camera. Filmmakers use different approaches to building trust.
+
+Some like to spend a long time with their subjects before filming begins, to give everyone a chance to get to know one another. If you do so, you can expect many moments when you’ll wish you had your camera. Regardless of when you start filming, spending some personal time together when the camera’s not rolling (sharing a meal or a cup of coffee) can be an important part of learning about and getting comfortable with your subjects and their learning about you.
+
+You should discuss with your subjects what kind of film you’re making and where you plan to show it. You may want to talk with them about what’s okay to shoot and what’s not. Some filmmakers have the subjects sign a release at the outset, granting permission to use whatever is filmed (see Talent and Appearance Releases, p. 739). Others wait until later. From a journalistic standpoint, it’s not a good idea to give subjects a formal right of approval over what gets used in the film and how it’s edited (you’re making the movie, not them).3 However, you may or may not want to offer to show them the film before it’s done to get their response. Public exhibition of a film can have an enormous impact (both positive and negative) on the subjects’ lives, which you need to consider seriously as you shoot and edit. In some situations, people will let you film them only if they have some input in the process.
+
+Once production begins, keep the crew small and use as few lights as possible, so the shooting is relaxed and low-key. When you start shooting, don’t make a lot of commotion. Some camerapeople like to keep the camera on their shoulder or in position much of the time so there’s not a big distinction between the times they’re shooting and when they’re just waiting. On a video camera, turn off the tally light that announces when you’ve pulled the trigger. When shooting double system, keep slates quiet, do tail slates, or avoid them altogether if you’re also recording audio in the camera (see Chapter 11). The point is not to be sneaky, but to make filming as subtle as possible, with a fluid transition between shooting and not shooting.
+
+Using wireless mics can be particularly useful in documentary. When subjects wear a mic, they’re free to roam where they want without a soundperson sticking a mic boom in their faces. Be sure to show them where the mute button is so they can have privacy when they want it.
+
+Though people may be self-conscious at first, the fact of the matter is that being filmed over a period of time can be quite boring—the novelty wears off quickly. This is what you want—for your subjects to go about their lives without worrying about what you’re shooting. Some filmmakers try to become a fly on the wall and interact very little with their subjects. Others are friendly and conversational when they’re not shooting, but silent when the camera’s rolling. In some filmmaking styles, the conversation between filmmaker and subject continues the whole time. It’s up to you.
+
+Fig. 9-21. Like most of Frederick Wiseman’s documentaries, Boxing Gym explores an institution using only sync-sound scenes of contemporary life, with no narration, interviews, added music, text, or other framing devices. (Zipporah Films)
+
+Shooting Uncontrolled Scenes
+
+For the cameraperson, filming people without controlling what they do takes a special combination of sensitivity, luck, and quick thinking. Perhaps more than any other kind of shooting, cinema verité filming requires that the camera operator think like a director and an editor, all while spontaneously reacting to changing events. The tendency while shooting is to concentrate on the central action or person talking; remind yourself that the audience may also need to see the context (wide shot) and reactions from others in the scene. Think about the sequence as a whole. Ask yourself if you’ve gotten enough coverage. Though you don’t yet know how the sequence will be edited, try to provide multiple options for editing and shots you think might make interesting beginnings or endings. The audience will see the scene through your eyes, so always have them in mind while you shoot.
+
+It’s especially important to think of individual shots and camera movements as having a shape, with a beginning and end. Novices, especially when shooting video, tend to move the camera constantly, which makes the footage very hard to cut. When doing a camera movement (whether it be a zoom, pan, dolly, or walking shot), it’s often a good idea to begin with a static frame and hold it for a few seconds, then transition into the movement, and glide to a stop on another frame and hold that a few seconds. The editor may cut out the static beginning and end, but at least he or she will have them if needed.
+
+A few documentary filmmakers, notably Frederick Wiseman, have a style in which scenes often play out in nearly real time with relatively little cutting within the scene. This can allow human interactions to unfold in a natural way. Far more commonly, scenes as edited on screen must play much faster than the actual events take in real time. The filmmaker must shoot so that time can be condensed. This means judiciously shooting the action so that the editor can cut out the uninteresting parts and weave together the essential parts. Take the example of shooting two people talking over dinner. The meal might take two hours in real time and run two minutes in the edited movie. If the camera remained locked in a two-shot the entire time, the sequence would be almost impossible to cut. Instead, get a variety of angles, some two-shots, some close-ups. Be sure to shoot ample footage of the person listening as well as the person talking. An over-the-shoulder shot taken from behind the person talking shows the relationship of the two subjects without showing moving lips; this can be very useful in the editing room. Similarly, when shooting someone on the phone, try to get some angles from behind or where the phone blocks the camera’s view of the person’s lips. When shooting someone playing an instrument, be sure to get neutral shots in which no finger or hand positions are visible. See Dramatic Films, p. 332, for more on shooting and editing conventions that apply to both narrative films and documentaries.
+
+Shooting Interviews
+
+Filmmakers incorporate interviews in various ways. In a typical news or journalistic piece, they may be the primary source of content and take up much of the screen time. In some films, interviews are woven in with other types of footage and feel more like an opportunity for conversation or storytelling than for information delivery. In some films, the audience never sees the interview; instead, the filmmaker edits the audio and uses it as voice-over, to give the sense that the character is narrating the movie.4
+
+A key issue when doing interviews is whether the interviewer’s voice will be heard in the edited interview. That is, will the audience hear the questions and follow-ups (as is common when a correspondent does a magazine piece) or will they just see the subjects’ responses edited together (which is typical when there’s no host or filmmaker shown or heard on screen)? Doing interviews when the questions won’t be heard creates a unique, somewhat bizarre dynamic that takes some practice to pull off smoothly. You need to get the person talking, but not exactly to you (since you don’t exist in the conversation). You may have the urge to respond, to reassure the person that what she’s saying is interesting, but you can’t make a sound—at least not while she’s talking. Some things that may help:
+
+Set a relaxed tone at the outset. Have the subject talk to you and try to ignore the camera. Tell him it’s okay if he needs to stop to think, or to redo a question. (Though, for some types of interviews, such as challenging a politician about questionable policies, you might want to put your subject on the spot.)
+
+Explain that your voice won’t be in the piece, which is why you may be nodding but not responding when he talks.
+
+Answering questions the audience doesn’t hear can produce awkward results. If you ask, “Where were you born?” and all your subject says is, “London,” you’ll have a problem in the editing room. Instead, ask her to incorporate your question into her answer (“I was born in London”) or at least ask her to respond in full sentences.
+
+Don’t let subjects say, “As I said before” or refer to earlier conversation. There’s no way to know what order the material will be used, or if you’ll use both bites. Every statement should stand on its own. If you’re not part of the piece, don’t let them refer to “you” either.
+
+Filmmakers differ in how much to let people talk during an interview and how much to try to influence how they phrase things (it also depends on the project). Long, run-on sentences may be unusable. Always be listening for how you can edit what’s being said, to shorten it while retaining the meaning. Some people have a knack for speaking in long strings of dependent clauses that are simply not editable. You may want to stop and ask them to say the same idea more succinctly, or to address the content in separate short bits instead of one long chunk. Often, the first time someone answers a question is the freshest. If you need to do a “re-ask,” change the focal length of the lens so you can edit the first part of one answer with the second part of the other, if you want.
+
+Sometimes interviews feel more natural if the subject has a physical activity to do, is walking or driving, or is in a familiar setting, like a kitchen. The background and setting can be used to tell the audience something about the person. Another approach is to use a neutral backdrop to provide consistency from one subject to the next. A textured cloth or black (limbo) backdrop can be brought from location to location, but if there are many talking heads, a uniform backdrop can become dull. Sometimes interviews are filmed in front of a green screen, with the background added in postproduction (see Green Screen and Chroma Keys, p. 211). This opens the door to all sorts of imagery in the background, including motion shots. Keyed backgrounds sometimes feel artificial, but when appropriate, they can be very interesting.
+
+CAMERA ANGLES AND MOVES. For sit-down interviews, usually the interviewer sits close to the camera so the eye line of the subject is toward the lens but not directly into it (which can sometimes feel awkward). When positioning the subject, be attentive to screen direction—try to alternate setups with subjects facing screen left with those facing screen right (see Fig. 9-20). Opposing screen direction is classically used for people with opposing opinions. When the interviewer is to be shown on camera, or if there is more than one camera, sometimes one camera angle is from the side, to get more of a profile shot. Filmmaker Errol Morris uses what he calls the “interrotron,” which is basically a teleprompter (see Fig. 9-33) that projects his face on a screen in front of the lens, so the interviewee can look directly into the lens while talking to him. On-camera hosts or correspondents generally look directly to camera when addressing the audience.
+
+Some filmmakers shoot interviews with no camera movement during shots, but zoom in or out to vary the focal length between shots. This allows cutting in or out of the material without ever having to cut during a zoom, which some people find objectionable. However, a well-timed zoom can enhance an interview by bringing the viewer closer for important or emotional material, or pulling back to capture, say, interesting hand gestures. If the zoom is gradual and properly timed to the phrases of speech, cutting opportunities should not be too limited.
+
+Sometimes interviews are filmed with a dolly-mounted camera to keep some sense of movement throughout. Curved track can help you maintain the same distance from the subject while moving around. Timing is everything, since even a slow dolly move will reach the end of the track before long. It may just be luck if you’re moving in the right direction at the right place at the right time.
+
+When more than one camera is used, as is typical with news and magazine shows, one camera can hold a more conservative, wider shot while another is more active. DSLRs are sometimes used to add an additional fixed camera angle without an operator. Shooting interviews with multiple cameras provides flexibility for editing and makes it much easier to condense time without jump cuts. It also avoids the fake reaction shot problem that happens when there’s only one camera and the interviewer’s questions and reaction shots are filmed after the interview is over. (For a wonderful example of this, see James Brooks’s comedy Broadcast News, in which a correspondent is seen tearing up on camera during a moving interview, even though the shot of him crying had to be filmed as a retake after the actual interview was done.)
+
+If lower-thirds will be used to identify subjects (see p. 543), be sure to leave room at the bottom of the frame.
+
+See Lighting Interviews, p. 508, for more on interview setups.
+
+PREPARING FOR PRODUCTION
+
+Preparing well for your shoot can mean the difference between an organized, productive filming experience and a chaotic, haphazard one. Actually, shooting movies is almost always chaotic—there are an enormous number of things going on at once, decisions being made, events out of your control—but if you’re prepared, and lucky, it will be a kind of controlled chaos that results in getting the footage you need while staying close to your schedule and budget and keeping everyone relatively happy.
+
+Preparation can take many different forms. For a director, it may mean previsualizing the action and camerawork. Alfred Hitchcock prepared so meticulously—working out the entire film beforehand—that he claimed that shooting was an uneventful execution of the movie he’d already seen in his mind.
+
+For a producer, preparation means hiring a good team and making sure the resources needed are available on time. No matter what budget you’re working with, there are always financial pressures, and you may not be able to deliver what’s on everyone’s wish list. Knowing which things you can do without—and which you can’t—is part of the producer’s skill.
+
+For the director of photography, preparation means having the equipment you need, knowing how to use it, and being confident that it’s working. Together with the director you’ll have worked out a visual style and, depending on the shoot, planned individual shots, angles, and lighting.
+
+Some shoots can be planned to the nubs; others have to be highly improvised in the moment. As a Roman philosopher said, “Luck is what happens when preparation meets opportunity.” Two thousand years later, it’s a tired cliché, but still useful for film shoots.
+
+Fig. 9-22. Shooting a scene. Video can be monitored, logged, and recorded directly on a laptop. (Adobe Systems, Inc.)
+
+PREPARING THE SCRIPT AND APPROACH
+
+Script Preparation
+
+Narrative films often begin with a story or treatment. Then a more detailed screenplay (script) is written. It’s important to put the script in standard page format since that’s what actors and executives expect and, particularly if you’re a novice, you want to show that you understand industry practice. You can use a scriptwriting program like Final Draft, a free app like Celtx, or just use a word processor (formatting guidelines can be found in scriptwriting books—see the Bibliography—or on the Web). When writing a script to be read by potential funders or actors, it’s a good idea to keep camera direction and blocking (the actors’ movements) to a minimum. The reader should experience the movie as it will play on screen and not be burdened by the mechanics of how it’s put together.
+
+When you read the screenplay of a movie you admire, or recall the dialogue in a memorable scene, you may be surprised at how few words are used. Powerful moments in films are often made up of looks, actions, and relatively terse exchanges rather than long stretches of expository dialogue. Novice (and experienced) filmmakers often find in the editing room that scenes play better with much less dialogue than was written (see Chapter 13). This is in part because of pacing, and in part because some things you might think need to be explained actually play better when the audience makes the connections themselves. Be sure to read through every line of dialogue aloud before going into production. This is often best done with the actors (see below). There’s no better time to trim dialogue and entire scenes than before you shoot!
+
+Another consideration is estimating how long the finished film will run. You may want to hit a standard length, such as ninety minutes or two hours, and you may be required to if a contract calls for it. There’s a general assumption that scripts in standard layout run about a page a minute. Dialogue scenes are more predictable than action scenes in terms of the relationship of page length to running time. Even so, some dialogue is delivered as rapid-fire repartee and some is slow-paced. You can estimate running time by speaking the lines with a stopwatch.
+
+Before you go into production, every scene and description in the script should be considered for its financial and technical implications (see Working Backward from the Budget, p. 58). Also, be sure the total number of scenes and locations is within your budget (more on this below).
+
+You may want to have a lawyer or script service vet the screenplay for any potential legal issues. For example, if you have a character named Roy Cornelius who lives on Houston Street in New York, you’ll want to check that there isn’t a real person with that name on that street. If the script calls for a specific piece of music to be performed or used, that will also need to be cleared. For more on legal and clearance issues, see Chapter 17.
+
+THE SHOOTING SCRIPT. As you approach production, a shooting script is prepared that includes specific camera angles and may have more details on action. Every scene is numbered and all scene and page numbers are locked. That way, if changes are made to a page, any replacement pages can be inserted without reprinting the whole script. If page 18 is rewritten and becomes longer than a page, the extra page would be 18A. Similarly, if a new scene is added after scene 20, it becomes scene 20A. Revision pages are dated and typically printed on different-colored paper: the first revision on blue, the second on pink, then yellow, and so on.
+
+Previsualization and Rehearsal
+
+If you were setting out to design an environment that fosters creativity and relaxed, fresh thinking, a film shoot would not be it. On a typical day, if you’re not already behind schedule, you will be if you stop too long to ponder. Not to mention the fact that there may be hordes of people busily executing the ideas as planned who won’t be happy when you decide to change everything at the last moment.
+
+There are many ways to explore, experiment, rehearse, and previsualize before you actually go into production.
+
+Having a group of actors read through the script gives you a chance to hear the dialogue and get ideas for direction. This can be done as a table read, where everyone sits together, or you may want actors to move around to get the physical sense of a scene. If you can afford it, reading with the actual actors who will play the parts can be a productive time to work out ideas and to form relationships. Some directors insist on rehearsal time. Director Mike Leigh uses rehearsal as a time when the actors can actually shape the story and dialogue. Other directors prefer that actors do the material fresh on the shoot with little prep. There are benefits to rehearsing in a separate space prior to the pressures of production, but sometimes you just have to rehearse in the moment on the set.
+
+The physical aspects of the set or location are an integral part of how scenes are blocked and shot. Sometimes the physical space is designed or modified according to how you want to play a scene, and sometimes you’re on location and just have to use what you’ve got.
+
+The director, director of photography, and other members of the production team need ways to plan and collaborate how the film will be shot. Perhaps the simplest tool is to draw basic sketches of camera angles and blocking. These can be floor plans and/or drawings of what would be seen through the lens (see Fig. 9-23). The DP may also want to make charts of lighting setups.
+
+Fig. 9-23. Basic sketches for planning scene coverage. (left) An overhead diagram of camera angles and blocking. (right) Simple sketches of individual shots from the same sequence. (Steven Ascher; Greg High)
+
+Storyboards are shot-by-shot drawings of how the action and camerawork are supposed to play on screen. These can be particularly useful for effects shots and complex setups where many people may be needed to make the shot work. A storyboard artist may draw them or you might make sketches yourself. Some directors use detailed storyboards as a way to previsualize a scene; others find them limiting. Often there are many changes between the storyboard and what is actually shot and edited into the movie.
+
+Computer storyboarding programs, such as StoryBoard Quick and StoryBoard Artist, may save time and can be helpful if you lack drawing skills (see Fig. 9-24). You can also use apps such as Poser, FrameForge, and After Effects to create video sequences to which audio can be added; some applications can simulate what a camera would see if moving through a physical space—useful for planning set construction or a CGI shot.
+
+Fig. 9-24. Storyboards can be created with apps like StoryBoard Artist. (PowerProduction Software)
+
+Some filmmakers like to rehearse not just the actors but the entire movie, including shooting and editing. Francis Coppola and others have used video as a tool to shoot essentially a rough draft of a movie (or scenes) and edit prior to production. You might go out with a small digital camera and experiment with camera angles, moves, dialogue, or blocking. Cut it together and see how it flows. Even if you can’t shoot the real locations or real actors, you’ll get ideas, and you’ll either use them for the movie or you’ll realize—with plenty of time to make a new plan—that you want to do something completely different.
+
+SCHEDULING AND PLANNING
+
+Script Breakdown and Scheduling
+
+As you prepare for shooting, every scene in the script is broken down for the production elements required. A script breakdown sheet lists the people and resources needed for each scene, including cast (both principal players and extras), crew, stunts, props, wardrobe, makeup/hair, vehicles, special effects and equipment, music, and so on. The length of each scene is indicated in one-eighth-page increments (a half-page scene is four-eighths).
+
+Once the script is broken down, a shooting schedule is created. This may be done by the first assistant director, the production manager, or sometimes the producer. The production board (also called production stripboard) is a chart with strips of paper for each scene, color coded according to whether the scene is interior or exterior, day or night. Strips can be moved around to form the schedule and modify it as necessary. This organizational system can also be done on a computer with software like Celtx or Movie Magic Scheduling (see Fig. 9-25).
+
+Fig. 9-25. Movie Magic Scheduling. (left) A breakdown sheet for each scene, with talent, props, and equipment needs. (middle) Stripboard for planning the shooting schedule. (Entertainment Partners)
+
+Production scheduling is a complex task that takes experience to do well. The goal is to maximize efficiency and remain flexible for contingencies. On a low-budget film, it’s common to shoot about three or four pages in a twelve-hour day. Dialogue scenes may go faster than action scenes that require many camera setups (lots of short scenes often take longer than a few long ones). The pace of shooting is usually dictated by the budget. If you can afford only two days at a location, you’ll have to get the scenes there done in that time even if it means compromising the original plan. It’s not unusual to go into a shoot with a full list of camera setups on the schedule, then pare down the list to bare essentials as the time—and, often, the light—run out.
+
+Generally, filming in the order the scenes appear in the script is not optimal. You usually need to film all the scenes that occur in one location together because it’s too inefficient to return to the same place to set up multiple times. Similarly, you may need to shoot out an actor (group together all his or her scenes) if that person’s availability is limited. If you use scheduling software, it’s easy to print out a day-out-of-days schedule that allows you to see all the days when individual actors or other elements are scheduled so you can see if rearranging things might allow you to film an actor’s scenes back-to-back.
+
+Planning within each day’s shoot should also take into account when cast members and resources are needed. For example, shoot the wide shots of a crowd scene first, then shoot close-ups after most of the crowd has been dismissed.
+
+The production team will work faster and get more comfortable with one another after working together for a while, which argues for shooting relatively easy scenes first, then doing more complex scenes later on. Actually, crews often go through an arc: things are bumpy at first, after a while they get into a groove, and then, as exhaustion sets in, they get more ragged. Don’t shoot key scenes on the first day.
+
+Also consider emotional content when scheduling scenes. For example, a film about two people meeting and developing a relationship may be performed more naturally by actors who are just getting to know each other in the early scenes and have the experience of the shoot behind them for later, perhaps more intense scenes.
+
+It makes sense to shoot exterior scenes relatively early in the production in case bad weather sets in later. Always have an interior cover set available that you can move to if an exterior becomes suddenly unfilmable due to weather. Duplicate wardrobes and props allow the production to continue even when a prop has been misplaced or a shirt has gotten dirty.
+
+When you move from one location to the next (a company move) you invariably lose a lot of time. Avoid moves during a day when possible. Schedule meal breaks every six hours (or more often) and have plenty of drinks and snacks (called craft service) available at all times. The time between the end of one workday and the start of the next is turnaround time, and it should normally not be less than twelve hours. Turnaround can be a particular issue with night shoots if filming is scheduled for the next day; you can’t stop shooting at 3:00 AM and ask the crew to start again at 8:00 AM. Exhaustion has caused serious accidents.
+
+On some productions, everything is shot during the period of principal photography. On others, time is left in the schedule for reshoots (often after editing has begun) or for the occasional pickup shot needed to fill in a gap or transition (pickup shoots are generally done with a reduced crew). ADR may be needed to replace dialogue before the mix (see p. 532). It’s smart to anticipate these things by building them into the schedule and the actors’ contracts.
+
+Fig. 9-26. When shooting exteriors, the time of day and weather can be as important as the location. For example, light at midday tends to be flat and may be harsh. Light earlier or later in the day may cast interesting shadows. The magic hour just before sunrise or after sunset may show lights as well as the landscape. Thin cloud cover can enhance colors and soften shadows, which is often helpful in close-ups. Haze buildup may obscure distant shots.
+
+See Chapter 17 for more on scheduling and business arrangements.
+
+The Shooting Ratio
+
+Drawing up a budget and a plan helps you address a key question: how much material should you shoot? The total amount of footage shot is invariably greater than the length of the final edited movie. The ratio of total footage filmed to final running time (the shooting ratio) varies widely by type of movie, budget, and the director’s style. A carefully planned drama might be on the order of 5:1 or 15:1. A reality television show with multiple cameras could have up to 450 hours of footage for a one-hour program.
+
+On a drama, the footage shot will depend on several factors: the length of the script; how many scenes there are; the number of different camera angles (setups) required; how many takes of each need to be shot. Sometimes directors shoot a whole scene in wide shot, then reshoot the whole scene again in close-up to give the most flexibility in editing. This results in a higher shooting ratio than if you decide in advance that you’ll film, say, only the opening and closing of the scene in wide shot and do the bulk of the dialogue in close-up. By “pre-editing” in this way you’ll save time in the shoot and reduce the amount of footage (you’ll also reduce your options in the editing room somewhat). Hitchcock was so precise in filming just what was needed that editor George Tomasini joked that sometimes editing a scene meant simply trimming off the slates and stringing the shots together.
+
+No matter how predictable you assume the action will be, the unexpected always seems to happen: changes in the weather, flubbed lines, or technical difficulties with picture or sound. Additional takes are invariably needed in acted work, and documentary is always unpredictable.
+
+One big factor in the shooting ratio is whether you’re shooting digital or film. Film is obviously expensive, so there’s always pressure not to shoot too much. Digital is cheaper on a per-minute basis, so people tend to shoot it at a much higher ratio than film. When you shoot film, you have to edit in your head and make every foot of film count. With a digital camera, it’s almost harder to turn it off than to just keep shooting.
+
+The benefit of shooting at a high ratio can be a more relaxed feeling on the shoot. You can take bigger risks in terms of trying things out, letting actors play with a scene, or not stopping between takes. With unpredictable documentary scenes, shooting liberally may allow you to capture things you’d otherwise miss. However, there can be real problems with shooting too much. Aesthetically, shots can become too relaxed and rambling, with no particular beginning or end, and may be impossible to cut. It’s interesting to note that students who first learn how to shoot on film tend to shoot more carefully and thoughtfully than those who start with digital.
+
+Then, of course, high shooting ratios mean extra costs for added production time, film or tape stock, and processing (even digital will have costs due to transcoding, debayering, or hard drive storage). Managing a project that has hours and hours of material can be a headache in the editing room and may require many days simply to view and log the footage.
+
+With experience, you will find the ratio that’s right for your style of working.
+
+ORGANIZING THE PRODUCTION
+
+The Crew and Production Tasks
+
+The following is a brief description of the roles of key members of a large Hollywood-type film production unit, which gives an idea of the range of tasks involved in a movie shoot. The use of terms like “cameraman” is not meant to imply that the job is performed by a male.
+
+The executive producer may arrange for financing or contribute in other ways to developing the production. The producer raises money and often creates the “package,” which may include the script (literary property), the director, and the actors. The producer is responsible for the budget and the overall production and can hire and fire personnel. The director is responsible for the production unit, translating the script into visual terms, and directing the actors. In some television productions, the producer’s functions overlap with those of a film director.
+
+The first assistant director (1st AD) is responsible for keeping the shoot on schedule and maintains order on the set. The second AD manages call sheets (see below) and makes sure that needed actors are present. The script supervisor is responsible for continuity and making sure shots match in everything from weather to hairdo and that everything has been shot from the angles called for in the script.
+
+Fig. 9-27. Crew on location. (Chris Freilich)
+
+The unit production manager (UPM) is responsible for the relations between the production and outside labor and suppliers. He or she works with the first AD to keep the production on schedule. A line producer performs similar tasks in a supervisory role. A production coordinator handles details such as shipping, transport, and lodging. A location manager or scout finds locations as needed and helps arrange logistics.
+
+The director of photography (DP or DoP), also called the cinematographer, first cameraman, or lighting cameraman, composes the shots, plans camera movements, and decides how to light scenes, usually in consultation with the director. On small units, the DP may operate the camera, but on large units, the camera operator or second cameraman sets the controls and operates the camera during a take. The first assistant cameraman (1st AC) operates the follow focus, checks the film camera gate for dirt, and manages the camera equipment. The second assistant or clapper loader operates the slate, loads film in a film camera, and keeps the camera report sheet.
+
+On a digital cinematography or video shoot, job descriptions are somewhat different, as there’s no film to load or gates to check, but include other responsibilities, such as managing tapes or data files, setting up monitors, and so forth. A DIT (digital imaging technician) may be on the crew to adjust camera parameters, supervise recording, create a visual look, and offload and back up camera files.
+
+The gaffer and a crew of electricians place the lights as directed by the DP. The best boy or second electric assists the gaffer in setting up lights and cables. The grips move things around, place props, and build scaffolds and other rigging for cameras or lights. The dolly grip pushes the dolly. The sound department is run by the sound recordist (also called production sound mixer or location sound engineer), who records the sound and directs the boom operator, who maneuvers the microphone, sometimes assisted by a cableman.
+
+The second unit is usually responsible for stunts, crowd scenes, battle scenes, and special effects—essentially those scenes that are shot without sound. These scenes have their own director and camera crew.
+
+The crew is divided into departments (camera, sound, art, wardrobe, etc.), each with a department head. Production design, art direction, set construction, props, makeup, hairdressing, costume design, wardrobe on the set, and countless other jobs are specialized tasks, each requiring one or many people to perform them. Job responsibilities vary by country and by type of production. On union productions there are strict rules about what duties fall within or outside a given job’s jurisdiction. For example, the camera crew usually shouldn’t touch a lighting fixture. On nonunion or smaller productions, there may be significant overlap in responsibilities, and one person may be called on to perform a variety of tasks. Production assistants (PAs) are low-paid “gofers” (go for this, go for that) who do all sorts of underappreciated tasks. Don’t confuse PAs with APs (associate producers).
+
+Crew Size
+
+Finding the right crew size is a balancing act. If the crew is too small for the complexity of the production, crew members get overburdened and the work becomes inefficient and slow. However, as crew size grows, there is a kind of instant multiplying effect: more people require more support (cars, meals, accommodations), which requires more people.
+
+The size of the crew can affect not just the process, but the nature of what gets filmed. The larger the crew, the more expensive each hour of work becomes, which adds pressure to the shoot and makes it that much harder to experiment and try out ideas. Particularly on documentaries, a small crew will have better access to the subjects being filmed and create less disruption in their lives. A small documentary crew might consist of a cameraperson and a sound recordist, with either or both functioning as director. A third person may be needed to drive the car, help with equipment, and run errands. Some documentary filmmakers like to shoot alone, working unobtrusively with a small camera. See p. 731 for the business aspects of hiring crew.
+
+Casting
+
+For any production that involves actors, casting is vital. Finding actors who are not just right for their roles but who also work well as an ensemble can make all the difference. If the casting is good, the director’s job is enormously easier. If the casting is bad, a great script and director may not be able to save the project. For a dramatic feature, having some known stars may enable you to get financing and is a boon for marketing. Many stars have been known to appear in low-budget films if the script is good and the number of days required is small.
+
+Depending on the production, you may have a choice whether to work with union or nonunion actors. Union actors are generally more experienced and expensive, though they may reduce or defer their salaries for low-budget productions.
+
+At the start of the casting process, prepare a casting breakdown, which is a list of all the roles in the film with a short description. Professionals usually work with a casting director or a casting agency that has files on hundreds of actors and conducts regular auditions for new talent. A casting director can point you to actors who would be good for a role and may help when negotiating with them. For a Hollywood picture, a talent agency might assemble a “package” of lead actors for a project. Breakdown Services, Ltd., is a company that posts breakdowns for agents and actors to view. In many cities there are agencies and casting websites that can give you quick access to a local pool of actors. Some producers hold open auditions, advertised to the general public; if you do this, be prepared to find a few undiscovered gems and a lot of people who have little experience and ability. Beware of actors’ headshots (posed portraits)—they can be misleading. However, when casting extras (nonspeaking background players) headshots are typically all you have to go on.
+
+When holding auditions, prepare sides (portions of the script excerpted for each character) and get them to the actors prior to the audition. Sometimes casting directors do the first auditions themselves, which the producer and director review online. Then callbacks are scheduled to read the promising actors again, often in different combinations. With some casting decisions you know instantly if an actor is right or wrong for a part; other times it takes a lot of thought. Be sure to record everything on video so you can review. It’s important to see how actors take direction, so ask them to try their lines a few different ways. Pay attention not just to line readings, but to how actors handle themselves when they’re listening and performing action without dialogue. A major part of acting is nonverbal.
+
+For more on hiring actors, see p. 732.
+
+Locations
+
+The producer can seek out locations for film shoots or hire a location scout who may already keep a database of likely places. Many states have film commissions that can assist in finding locations and securing public areas like parks and government buildings. Potential sites should be photographed from multiple angles or shot on video to give a sense of the space.
+
+Location scouting—the British call it doing a recce (from “reconnaissance,” it’s pronounced “rekky”)—is important to assess how suitable a space will be for shooting. For a drama, ideally the producer, director, DP, AD, production designer, soundperson, location manager, and other members of the team will scout each location. For a documentary, sometimes just the director and DP go along. A technical survey is done to determine:
+
+Direction and art direction. Is the space adequate for shooting? Are the rooms cramped or is there enough space to get the camera back away from the action? If a dolly will be used, is there room for the tracks? Are the walls, furniture, and artwork usable for your movie or will they need to be changed? Any problems with views out the windows? For an exterior location, will there be a problem with crowd control? A digital camera or director’s finder (a small handheld finder for viewing a scene at different focal lengths) is useful to block out shots.
+
+Lighting. What is the natural light and how is it expected to change over the shoot? (Apps for mobile devices like Helios Sun Position Calculator can show which way the sun will be shining at different times of day on a given date.) How much artificial light will you need? Are the ceilings high enough to hide lights out of frame? How much electric power is available; will generators or other sources be necessary? Try to meet with maintenance personnel to check out the power and other issues (see Chapter 12).
+
+Camera. Will any special lenses be needed (for example, a wide-angle lens for small spaces)? Can the usual camera supports be used or will you work handheld or with a Steadicam? Will you need to adjust camera, filters, or film stocks due to high or low light levels?
+
+Sound. Is the location quiet enough to shoot? Is it under an airport flight path or near a highway? Do the floors squeak when you walk on them? Is the space too reverberant (see Chapter 11)? Ask if the noise level changes a lot at certain times of day.
+
+Production and support. What are the restrictions in terms of when filming can take place? Will it be difficult or costly to secure permission? Is there adequate parking or can permits be obtained to reserve more? Are there enough bathrooms? Are there staging areas where equipment, wardrobe, and makeup can be set up separate from the shooting area? Will you need fans or air conditioners to keep the space from getting too hot? Is the location difficult to find? Is there Internet access?
+
+You will usually need a location release and in some locations a permit and/or an insurance bond (see Chapter 17).
+
+Fig. 9-28. A director’s viewfinder allows you to view a scene with different focal length lenses, to get a feel for what focal length you want to use on the camera. This iPhone version combines a Zacuto handgrip with the Artemis director’s viewfinder app. Director’s finders are helpful for scouting locations and planning shots. (Zacuto USA/Chemical Wedding)
+
+Finding a good location that suits all your needs is difficult. Often filmmakers will shoot exteriors in one place and the interior that is meant to represent the inside of that building in an entirely different place. If the production budget will support it, shooting in a studio can solve many of the typical problems of locations. Even on a low-budget production, a quiet space, a few flats (movable walls), and some props can take you a long way if you have good lighting and clever art direction.
+
+Backtiming from Production
+
+Shooting a film is a bit like a rocket launch: there are countless things that require lots of preparation so that all systems are “go” when the ship blasts off. As a producer, you should begin preproduction at least three or four months ahead of the first day of shooting. Among the tasks to be accomplished: scheduling, casting, hiring department heads, hiring other crew, arranging for equipment, props, costumes, vehicles, catering, and determining the postproduction workflow. It can take months to get music licenses if you need them for songs performed during the shoot, and other forms of paperwork, including location permits, insurance, and contracts, also take time. For an excellent preproduction checklist, see Maureen Ryan’s Producer to Producer (see the Bibliography).
+
+THE EQUIPMENT PACKAGE
+
+Equipment Prep
+
+Equipment for a shoot may belong to you, people you hire, a rental house, or a school or other institution (see Equipment, p. 733). Prior to the shoot, the equipment package needs to be assembled and tested to be sure everything’s working. For camera tests, see Chapters 3, 6, and 7. For audio equipment, see Chapter 11. The night before the shoot, make sure that replaceable batteries are fresh and rechargeable batteries are charged (see Chapter 3).
+
+If you’re traveling to the location, use solid shipping cases to protect the gear in vehicles or planes. Many people prefer to hand-carry the camera itself and delicate lenses or audio gear on planes (see p. 270). Bring batteries when hand-carrying; inspectors may demand that you operate the equipment to show it’s legit (but see p. 132 for limitations). See p. 285 for shipping film.
+
+Having your equipment and supplies well organized and easily accessible is extremely important. In the pressure of a shoot, you want to be able to quickly put your hands on whatever you need. When shooting with a large crew and plenty of support vehicles, things can be divided into many cases or storage containers. However, when you need to pack light for portability—and especially when working alone—having the right amount of gear in the right cases makes a huge difference. Particularly for documentary work, you’ll want a soft shoulder bag or belt bag for batteries and supplies that you can wear while shooting.
+
+Fig. 9-29. The RED Scarlet can capture 5K REDCODE RAW stills and 4K motion. Available with PL mount or Canon EF mount (shown). Also shown: touch-screen LCD monitor, batteries, REDMAG SSD recording media, and module to accept the SSDs. (RED)
+
+A Field Package
+
+The following is a basic list of equipment for a professional field shoot in video or film. Depending on your camera and production style, you may need more or less stuff. Typically, many items are rented; others may be owned by the production group. Expendables (supplies like gaffer’s tape or gels that will be consumed on the shoot) are purchased before the shoot or supplied as needed during the production. All items are discussed elsewhere in the book.
+
+DIGITAL CAMERA
+
+Camera with zoom lens and/or set of primes
+
+Two to four batteries, with charger/AC power
+
+Field monitor
+
+Cables for camera-to-monitor connection
+
+Soft camera case
+
+Media: flash memory cards, tape, solid-state drives; possibly an external recorder
+
+Laptop and/or external device for downloading; additional external drives
+
+ND (neutral density) filters if not built in; close-up diopters; circular polarizer
+
+FILM CAMERA
+
+Camera body
+
+Lens package: zoom lens and/or set of primes
+
+Two or three magazines
+
+Three batteries and charger
+
+85 and ND filters; close-up diopters; polarizer
+
+Sound barney if needed
+
+Zoom motor and controller
+
+Light meters; changing bag
+
+Spare film cans; camera tape
+
+CAMERA SUPPORT AND ACCESSORIES
+
+Tripod with fluid head and spreader
+
+Shoulder brace for small cameras (if desired)
+
+Matte box, French flag, and/or lens shade
+
+Mounting plate with rods
+
+Follow-focus control
+
+Hi hat and/or table stand
+
+Dolly; curved and straight track and wedges (if applicable)
+
+Slider (if applicable)
+
+Expendables
+
+See p. 270 for other items
+
+AUDIO GEAR
+
+Cardioid (directional) or hypercardioid (“shotgun”) mic
+
+Lavalier mic; assorted clips
+
+Wireless transmitter(s) and receiver(s)
+
+Fishpole mic boom with shock mount
+
+Softie or Zeppelin windscreen
+
+Field mixer
+
+Headphones
+
+Cables for mic-to-mixer and camera-to-mixer connections (often XLR-to-XLR)
+
+Extra batteries
+
+DOUBLE-SYSTEM RECORDING
+
+(If applicable)
+
+Digital audio recorder
+
+Slate; timecode generator
+
+LIGHTING AND GRIP
+
+Lighting units with stands, spare lamps
+
+Small onboard or “Obie” eye light
+
+AC power cables; cube taps or power strips
+
+Gels: CTB and CTO (small sheets for lights, large rolls for windows)
+
+Spun and/or other diffusion
+
+Collapsible reflector
+
+C-clamps, Mafer clamps, spring clamps
+
+Wooden clothespins, sash cord, etc.
+
+Gaffer’s tape; black wrap
+
+Dimmers
+
+OTHER LIGHTING AND GRIP
+
+C-stands with arms
+
+Sand or water bags
+
+Flags, silks, nets (various sizes)
+
+Foam-core or white bounce cards
+
+Apple boxes
+
+Duvetyn (black cloth)
+
+Sound blankets
+
+Overhead with silk, net and solid
+
+Tie-in cables and boxes
+
+IN PRODUCTION
+
+After all the preparation, it’s time to shoot.
+
+Staying Organized
+
+Create a production book that has all the key information needed for the shoot: all cast and crew contacts, directions, names of vendors, budget and financial information, etc. Be able to answer any question that comes up quickly.
+
+Every day during production, an AD prepares call sheets that inform every member of the cast and crew when they should report for shooting and what will be filmed that day. The call sheet includes contact numbers, directions, and any other useful logistical information. Mobile apps like doddle, Pocket Call Sheet, and Shot Lister can also be used to coordinate the production team.
+
+The director should have a shot list for each day. The planned setups and schedule should have been discussed in advance with the production team.
+
+Don’t assume that people know the plan unless you confirm that they do. Have backups in case equipment goes down, weather turns bad, or someone doesn’t show up.
+
+Preparing the Slate
+
+The slate (also called marker, clapper board, clap sticks, or simply sticks) originated in traditional film production as a way to help synchronize sound and picture during editing. The classic slating device is literally a piece of slate on which information can be chalked, with a hinged piece of wood on top that makes a sharp noise when it makes contact with the board. Modern slates are usually plastic or electronic and often include a timecode display that freezes when the hinged board is slapped down (see Fig. 11-19). There are also slate apps for tablets and mobile phones (see Fig. 9-30).
+
+Slates are used today for digital or film productions shot double system (with a separate audio recorder; see p. 36). When shooting video without a separate audio recorder, slating is not needed for syncing purposes; however, it’s a good idea to use a slate on all dramas—in film or digital—to visually ID the scene and take number at the head of the take. Even MOS scenes with no sound should be slated for identification (“MOS” is written on the slate). When a slate is used to ID a take, but not for syncing, the hinged bar should not be raised.
+
+Fig. 9-30. MovieSlate app for iPhone or iPad. Displays time-of-day (TOD) timecode or you can jam timecode from an external source. A shot log—including scene and take info, notes, and other data such as GPS location—can be exported easily via the Web. A plug-in is available for generating detailed sound reports. (PureBlend Software)
+
+Information written on the slate includes the production company, name of project, director, DP, scene and take numbers, and date. If more than one camera is being used, that is usually indicated by letter (A, B, C,…). The camera roll number is indicated (which may be a film roll, videotape, or memory card number).5 The sound take number (if used) and sound roll may also be indicated. A small gray card (see Fig. 8-4) or chip chart will assist in color correction.
+
+As noted on p. 323, there are different ways of notating scene and take numbers. In one common system in the U.S., the scene number alone is used for the first setup of a scene (“Scene 8”), with letters added for each additional camera angle or setup (“Scene 8A” would be the second angle).6 Filmmakers sometimes use a system that tracks slate numbers. The first setup of the first day of shooting is slate number 1 and the slate number increases with each new camera angle until the end of the production (the slate in Fig. 9-30 indicates slate 108, take 15). Numbers are often written on pieces of tape that can be stored on the back of the slate and quickly stuck on the front as needed (obviously not necessary with tablet or smartphone slates). The assistant should increment the numbers immediately after slating to be ready for the next take.
+
+Today, much of the information on the slate can be logged electronically and included as metadata with the picture or sound files (see p. 242). For more on slates and slateless timecode systems, see Syncing Audio and Picture, p. 465.
+
+Shooting a Take
+
+For staged work, there’s a basic protocol for beginning each take. The following assumes that double-system audio and slates are being used.
+
+The assistant director announces the upcoming take and calls “last looks” so everyone finishes their prep. The AD then calls for quiet and says “sound.” The audio recorder is started, and the recordist says “speed” when ready to record. The AD then says “camera,” and the camera operator calls “speed” or “rolling” when the camera is ready to record. The AC reads aloud the scene and take numbers from the slate, says “mark” or “marker” (to help the editor find the sound) and closes the clap sticks.7 When ready, the director calls “action.” Normally, the camera and recorder are not turned off until the director says “cut.”
+
+After the take is over, the director should indicate to the script supervisor or person logging if the take is good (circle take) and any notes. With digital postproduction, often all the takes are available in the editing room (unlike traditional film, in which only the best takes are printed), but there should be a record of which takes the director liked best.
+
+When shooting the slate, be sure it’s large in the frame and in focus so the numbers are readable. If the slate is in place for the very first frame of the take, it will appear in the clip’s thumbnail in editing, which can save time. Even when using a slateless timecode system, a clap stick with manual slates may still be done as a backup in case of timecode problems and for scene/take information.
+
+When possible, do head slates, which are done at the beginning of the shot. Head slates speed the process of putting the sound and picture in sync in the editing room. Tail slates, done at the end of the shot, are sometimes preferable for unstaged documentary filming since they don’t loudly announce to everyone that filming is about to begin; they may also be less disruptive for acted scenes where the mood is delicate. However, tail slates can slow down syncing, since you have to locate the end of the take and work backward. The clapper board is held upside down to indicate a tail slate; the person slating should call out “tail slate” or “end sticks.”
+
+If either the camera or the audio recorder misses a slate and you have to do it a second time, announce “second sticks” or “second marker” to alert the editor. In any situation, a gentle slate helps put actors or film subjects at ease. Generally actors should not be rushed to begin the action immediately after the slate.
+
+Fig. 9-31. Slating on a DSLR shoot. (Sean Ellis/SmallHD)
+
+Covering the Scene
+
+Be sure to first read Style and Direction starting on p. 332.
+
+When shooting, ask yourself how the shot you’re taking might work with the other shots you’ve gotten or need to get. Do you have enough coverage—that is, have you provided enough options for editing? Do you have an establishing shot? Cutaways? Have you got interesting close-ups?
+
+Both the order of scenes in the original script and the overall length of the movie are often changed substantially in the editing room. Keep this in the back of your mind as you plan your coverage. Don’t paint yourself into a corner so that shots and scenes can only be put together one way. Filming a continuous master shot of an entire scene can be time-consuming on set to get everything right. Even if you plan to do the scene in a single shot, surprise errors often show up in the editing room and you’ll want to cut around them. Shooting a reaction shot or a cutaway as editing insurance can be valuable even if you don’t intend to use it. Sometimes a long take is good, but you need to cut the sequence shorter and your beautiful three-minute shot now becomes a burden.
+
+Directors often concentrate on the characters who are talking. Keep in mind that some scenes are more interesting for the reactions of other characters. When filming a close-up of one actor talking to an off-screen actor, it’s a good idea to set a microphone for the off-camera actor as well—the performances from these takes can sometimes be better than the on-camera takes. Higher-budget films often shoot with two cameras simultaneously in this situation.
+
+For very wide shots in which a boom mic can’t get close to the actors (and you’re not using lavaliers) consider recording the dialogue a few times wild (sound but no picture) with the mic in close. This may help you in the edit and is a lot cheaper than doing ADR.
+
+Blocking the camera and actors is a kind of choreography. Keep the image as dynamic as possible. Be attentive to the depth of the space you’re shooting in, either to show it or to let actors move through it.
+
+How Many Takes?
+
+Directors differ in terms of how many takes they typically shoot. Sidney Lumet, whose background was early television, liked to rehearse actors prior to the shoot and only film a few takes because the first ones have the freshest performances. Stanley Kubrick, with a background in photography, would often shoot numerous takes in order to groom each shot to perfection. One saying has it that the best takes are the first and the tenth (the advantages of spontaneity versus practice), but the budget may not permit ten takes.
+
+Inexperienced directors tend to shoot more takes and choose more of them as preferred (circle takes). At minimum, always shoot at least two keepers of any shot to have a safety in case one gets damaged or has unnoticed technical problems. Even if a take is good, it can be productive to try it again faster or slower or to vary something in the reading or action. Often in the editing room, you wish you had more options to choose from, not just more versions of the same reading and blocking.
+
+When something goes wrong in the middle of a take (busted take) try to reset quickly (“back to one”) without a lot of chatter and keep the momentum and concentration going. Some directors like to go immediately into a second or third take without stopping to reslate. This can be helpful to actors but may create some confusion in the editing room.
+
+For more, see The Shooting Ratio, p. 360.
+
+Reviewing the Footage
+
+Some directors like to play back each good take on video after shooting it; this can slow production down a lot. However, it’s generally a good idea to check the best takes before breaking down a camera- or lighting setup and moving on to the next one.
+
+Looking at dailies is a good way for the director, cinematographer, and others to evaluate the footage as it gets shot, preferably on a relatively large screen. Some directors invite actors to attend dailies screenings; others prefer that actors not see themselves and get self-conscious. Uncut dailies don’t look like polished movies— they’re repetitive, rough, and often messy. It takes experience to see the potential in the raw footage. On larger productions, dailies are often uploaded to the cloud so that executives and members of the production team can monitor progress wherever they are on a tablet or computer (see p. 94).
+
+On some productions, the editor cuts scenes as they’re shot, which can be a good feedback mechanism for the director. You’ll either know things are working or you’ll see where adjustments need to be made (or even when scenes need to be reshot).
+
+Errors discovered while viewing rushes or during editing often necessitate pickup shooting, which entails going back to get additional shots to fill in a sequence. A documentary crew might return to get a cutaway from a car window, or, in a fiction film, there might be a need for a reaction shot of an actor. Take stills of sets, lighting setups, makeup, and costumes to help match shots that may need to be redone. Many DPs (or their assistants) keep detailed notes about lenses, camera angles, and lighting to facilitate reshoots, some of which may be recorded as metadata in camera files or with an app such as MovieSlate (see Fig. 9-30).
+
+Working with Actors
+
+As much as films vary stylistically, directors vary in their style of working with actors and in the tone they set for the talent and the crew. Some like to plan and control every line and gesture. Others, such as Robert Altman, like to create an environment in which actors are encouraged to experiment with their roles. Some like to discuss deep psychological motivation and others are more interested in basic blocking and line readings. Michael Caine once complained to director John Huston that he didn’t give him any instructions. Huston replied, “The art of direction, Michael, is casting. If you’ve casted right, you don’t have to say anything.”8
+
+As noted above, some directors see rehearsal as a chance to work out ideas with the actors; others prefer to go into the shoot with as much spontaneity as possible.
+
+Whatever your style, do what’s necessary so actors can deliver their best performance. Actors are often extremely vulnerable to disruptions of mood and should be treated with respect and deference. Only the director should give performance instructions to actors; anyone else wishing to communicate should tell the director. Particularly in intimate or difficult scenes, some actors prefer that crew members not even make eye contact with them while the camera is rolling (in some scenes it may be best to clear the set of unneeded crew). Use your tone of voice even in calling “action” as a way to set the mood for the take.
+
+Rehearsal is done both for the actors and for the crew. The actors’ blocking will affect the lighting and the camerawork (and vice versa). You may want the actors to take part in working out the blocking but don’t make them stand around while the lighting crew does its work (that’s what stand-ins are for). Marks for the camera or the actors to hit are “spiked” with a piece of tape on the floor. Keep in mind that once lighting, props, and dolly tracks are set, your flexibility to change things is limited.
+
+Avoid shouting and arguments in front of the actors (or anyone else, for that matter) and don’t involve them unnecessarily in your technical business. Make sure they have a comfortable space to go to off the set to relax.
+
+It’s very helpful for the director to get a wireless headphone feed from the sound recordist to hear how dialogue sounds as it’s actually being recorded. When a dramatic shoot is done with a live video monitor, there’s a tendency for some directors to bury themselves in video village (the place where monitors and playback equipment are located, sometimes under cover when shooting outside). This can leave actors feeling isolated. When video village is filled with a lot of people kibitzing over the video monitor, you can easily end up with a “too many cooks” problem.
+
+Fig. 9-32. Kibitzing in video village. (Steven Ascher)
+
+Wardrobe, Makeup, and Set
+
+An actor’s wardrobe, makeup, and hair can have a huge impact on the look of the movie and on the character’s presence on screen. Don’t overlook the importance of good makeup and wardrobe as well as art direction. With documentaries, it’s often not appropriate to deal with these issues, but in some situations—such as shooting interviews—you can choose the setting, make suggestions for wardrobe, and apply some minimal makeup.
+
+Guidelines for clothing also apply to wall treatments, furniture, and other items on the set.
+
+In general it’s a good idea to avoid very bright or very dark clothing. White shirts often burn out (overexpose) when the camera is exposed for proper skin tones, especially in daylight. Pastel or off-white shades work better. Video cameras and particularly DSLRs can react badly to fine patterns like checks and stripes, which can cause moiré patterns (see Fig. 5-18).
+
+Avoid shiny surfaces or jewelry. Washable dulling spray or even a little dry soap can be applied to bright items, or lights can be flagged (see Chapter 12) to minimize reflections. When shooting people with glasses, light them from high above or to the side to avoid kicks in the glasses.
+
+Applying makeup is an art and needs to be tailored to individual faces. Facial shine, caused by sweating under hot lights, is a common problem that is easily remedied with a little translucent face powder, which can be brushed on actors or interview subjects and will be totally invisible. Apply the powder first to the brush, not directly to the skin, and touch up faces whenever you see shine. Many cinematographers carry powder in their ditty bag.
+
+Prompters and Cue Cards
+
+Actors may forget their lines. Correspondents or on-camera narrators may be asked to speak long passages directly to the camera. Lines can be written on cue cards. When a host or correspondent reads to camera, her eye line must be directed as close to the lens as possible so she won’t appear to be reading. A low-budget technique is to cut a hole in the center of the cue card for the lens. A better solution is to use a teleprompter, which mounts in front of the lens and displays written copy from a computer (see Fig. 9-33). Larger teleprompters may limit camera mobility and usually require a solid camera support. Smaller teleprompters based on tablet computers and smartphones are lighter and can sometimes attach directly to the lens, permitting use of a handheld camera. Some actors are adept at using an ear prompter (also called an earwig), which is a miniature receiver that fits in the actor’s ear and can be fed wirelessly from a pocket-sized recorder. The actor reads his lines into the prompter prior to the take; then during the take he hears the words played back while he speaks to the camera (this only works for scenes in which no one else talks). It takes practice to talk while listening, so don’t let the talent try this for the first time on the shoot.
+
+Fig. 9-33. Teleprompter. (left) In this lightweight ProPrompter model, the person being filmed can look directly into the lens and read, via the partially reflecting mirror, text displayed on an iPad. (right) This bracket holds an iPad displaying text that can be positioned near the camera and controlled from an iPhone. (Bodelin Technologies)
+
+LOGGING
+
+As you move from production to postproduction, it’s essential to organize the material that was shot and keep good records of what went on during the shoot. Once you’re in the editing room, you’ll want to be able to quickly find every bit of picture and sound that was recorded. Several different kinds of logs or reports are used in production.
+
+Basic Log
+
+The simplest kind of log is a record of each take. It’s easy enough to create your own log form by making a table with a word processing program. There are also several apps for mobile devices. The log includes information on:
+
+Date and location.
+
+Tape number, card number, optical disc, or hard drive. Never have two tapes, optical discs, or film rolls with the same number. Use letters if necessary.
+
+Scene number and/or description.
+
+Take number (if any).
+
+Timecode start for each take. (Usually the starting timecode of the next take tells you the ending timecode of the previous take, but some people note both start and stop codes.)
+
+Indicate if the take was good; any performance or content notes.
+
+Devices such as ScriptBoy can provide a wireless remote readout of the camera’s timecode to aid the person logging (so he or she doesn’t have to keep bugging the cameraperson for timecode numbers). When practical, timecode can also be superimposed on a video monitor for the logger. There are various logging apps for mobile phones and tablets that allow you to email the logging file to the rest of the production team. NLEs often provide a way to import logging data as XML text files, which they then map into their own metadata fields.
+
+Fig. 9-34. For logging in the field, the ScriptBoy provides a writing surface with built-in timecode display. The transmitter sends timecode wirelessly from the camera. (Vortex Communications, Ltd.)
+
+In unscripted documentary work there tends to be little time for detailed logging. It’s important to write down notes whenever you can, at least at the end of every day, indicating what has been shot and which files/tapes/film rolls cover what.
+
+Continuity Script
+
+For feature films and other scripted work, the script supervisor creates a marked script to show what camera angles were used to cover each page. This continuity script serves as a reminder of what coverage has been shot and needs to be gotten, and it tells the editor what shots were filmed during production (see Fig. 9-35). Script supervisors will also create an editor’s daily log (or similar name), which lists all picture and sound takes in the order they were shot, or at least all the selected takes. The script supervisor will also prepare script notes, which include descriptions and comments on each take and may include items about lenses used and continuity issues. Sometimes camera reports include lens settings.
+
+Some systems can upload script information to the telecine shot log to help organize video clips by their content (see Shot Logs, p. 693).
+
+On a feature, a daily production report is done every night to track what was filmed that day.
+
+Fig. 9-35. Lined script. Each vertical line indicates a different camera angle or shot that was filmed. Zigzag portions indicate off-camera dialogue or action. The script is normally marked by the script supervisor during the shoot.
+
+Camera and Sound Reports
+
+When shooting film, the camera assistant fills out a camera report that indicates every take on a given roll of film, including the length of the shot and any remarks (see Fig. 9-36). Good takes are normally circled when shooting 35mm. This tells the lab which 35mm takes to print and/or transfer to digital. The camera report should also include scene and color information that will help the lab or transfer facility with picture adjustments, such as exterior (“Ext”) or interior (“Int”); special instructions (“print slightly red”). Without instructions, the lab may attempt to bring intentionally underexposed scenes (for example, day-for-night shots) or scenes with colored gels (say, at a nightclub) back to normal.
+
+When double-system sound is recorded for film or video shoots, the sound recordist may fill out a sound report (see p. 442).
+
+Fig. 9-36. The camera report accounts for every take on each camera roll. The best takes are circled. In 35mm, usually only circled takes are printed.
+
+SUPPORTING THE CAMERA
+
+The Tripod
+
+The tripod is a three-legged camera support. The camera mounts on the tripod head, which sits on the tripod’s legs. Heads designed for motion picture work are able to pan (short for panorama), which means to rotate the camera horizontally, or to tilt, which is a vertical rotation. Friction heads for tripods are the cheapest, but they make it hard to pan smoothly. Fluid heads have a built-in hydraulic dampening device to make panning much easier (see Fig. 9-37). Their light weight and ease of operation make them the best for most situations. Large cameras are sometimes used with geared heads that use two gear wheels to control movement (see Fig. 9-38). These are heavy and take experience to operate but can produce smooth, repeatable movements.
+
+Heads have an adjustment for the amount of drag or dampening for panning (it’s easier to pan smoothly when the head “sticks” a little). Most heads made for video cameras have a balancing mechanism, either a spring affair or a forward/back adjustment. When the camera is properly positioned and balanced, it should not move when the head is unlocked. Use the lock on the tripod heads to prevent an unintended tilt, since camera and tripod can fall over.
+
+Tripods have aluminum or carbon fiber legs (which are lighter and more expensive). Standard legs will telescope out to around six feet, and baby legs raise to around three feet. Dual-stage legs have three sections, allowing them to go lower than single-stage legs while reaching the same height or higher (see Fig. 9-39). The hi hat, used for low-angle shots, does not telescope and is often attached to a board. A table stand can be useful for small cameras. Tripod legs and heads are rated by the weight they support; don’t use a camera heavier than the rating.
+
+Fig. 9-37. Fluid heads are the most versatile and easiest to operate. This Sachtler head has seven-step pan and tilt drag controls and a quick-release plate that attaches to the camera and can be snapped on and off the head. The top surface slides forward and back for balance. (Fletcher Chicago/Sachtler Corp. of America)
+
+Level a tripod so that the horizon line is parallel to the top or bottom of the frame. Unleveled tripods result in canted shots and tilted pans. To level a tripod, extend one of the legs (loosen the leg lock and tighten at the proper length); extend the other two legs but don’t tighten them yet; hold the tripod in a vertical position and press down on it until the legs are even, and then tighten all of them. Point the legs so you can stand comfortably next to the camera. With a ball-in-socket head, loosen the ball and move the head until the bubble on the attached spirit level is centered. If the tripod has no level, align a true vertical (like the edge of a building) with the vertical edge of the frame; or align a true horizontal, viewed head-on, with the top or bottom of the frame.
+
+Fig. 9-38. Geared head. Arrihead 2 shown with Arriflex 535B 35mm camera. (ARRI, Inc.)
+
+Quick-release mechanisms save an enormous amount of time mounting and releasing the camera from the tripod head without having to screw and unscrew the connection each time. Avoid tripods that lack a quick-release plate. Tripod legs often have a point or spike at each toe that can be secured in dirt or sand. A spreader (also called a spider or triangle) is a three-armed device that spreads from a central point and clamps to each tripod leg; this prevents the legs from sliding out from under the tripod head. A spreader that remains attached to the tripod even when stored for travel saves a lot of setup time. A spreader that attaches midway up the legs instead of at ground level can be helpful when shooting outdoors or on uneven surfaces.
+
+Fig. 9-39. (left) Tripod legs with the spreader mounted midleg can have an advantage when shooting on uneven surfaces. (right) Dual-stage legs (note three sections on each leg) can often go both lower and higher than comparable single-stage legs. This spreader is at ground level and attaches to the tripod feet. (Miller Camera Support)
+
+Fig. 9-40. A tripod that allows the legs to be spread wide permits low-angle shots. An external monitor makes viewing easier when the camera is low or high. (Toby Ralph/SmallHD)
+
+When shipping or transporting a tripod, loosen all locks and drag mechanisms on the fluid head so the head is free to move in its case and is less likely to be damaged by rough handling.
+
+A rolling spider or tripod dolly (a spreader with wheels) facilitates moving the camera between shots. Don’t use it for dolly shots except on the smoothest of surfaces. When no spreader is available, a four-by-four-foot piece of rug can be used. You can tie rope or gaffer’s tape around the perimeter of the legs for an improvised spreader.
+
+Some tripods (usually made for still photography) have devices for elevating the center of the tripod. On some tripods this extension may contribute to the unsteadiness of the image; it’s usually better to extend the legs. If additional height is needed, mount the tripod on a platform. On larger productions apple boxes—strong, shallow boxes of standard sizes—are put together to make low platforms. Apple boxes are available in full, half, and quarter size.
+
+If you’ll be shooting with a digital camera for extended periods on a tripod or dolly it’s very helpful to have an external monitor or, for a film camera, a viewfinder extension. Remote controls for the lens and camera are available for both video and film cameras. Some mount on the tripod handle; some extend from the lens or camera directly or on cables. When shooting from a tripod or dolly, it can often be difficult to reach the lens or camera switch without them.
+
+Dollies
+
+The doorway or door dolly is basically a board on rubber wheels with a simple steering mechanism; this is a lightweight, portable, and inexpensive dolly. You can place a tripod on it and anchor it with sandbags. The western dolly is a larger version. Though these dollies are steerable, they can’t move laterally, as a crab dolly can.
+
+A dolly with an integral boom provides up-and-down (vertical) movement, which adds enormously to the lexicon of possible shots. A jib arm can be used with a tripod and/or a dolly for up-and-down or side-to-side movement. Jib arms are harder to control than built-in booms, but they can provide extended reach for high-angle shots. If the support can reach great heights, it is called a camera crane. Industrial “cherry pickers” (like a telephone repair truck) may be used to raise the camera up high for a static shot, but they don’t have the proper dampening for a moving shot that ends with the camera motionless.
+
+Fig. 9-41. Doorway dolly. Lightweight, affordable, basic dolly. (Matthews Studio Equipment, Inc.)
+
+Fig. 9-42. Dolly with boom permits vertical as well as horizontal movements. (J. L. Fisher, Inc.)
+
+Most dollies can be run on plywood sheets or smooth floors. Use air-filled tires when running on pavement. Large tires, especially when underinflated, give smoother motion on rougher surfaces. For the smoothest, most repeatable movements, use a dolly that runs on tracks. Track comes in straight and curved sections of various lengths that can be combined as needed. Track can be used indoors or out, but it needs to be carefully positioned and leveled with wedges to produce bump-free, quiet movements. A little lubricant helps stop squeaks. Some dollies with flat wheels can be switched to or mounted on bogey wheels or skateboard wheels for track.
+
+There are substitutes for professional dollies—wheelchairs, shopping carts, a pushed automobile, a blanket pulled along the floor or a table. Don’t secure the camera rigidly to most of these improvised dollies. Hand-holding or using a Steadicam insulates the camera from vibrations.
+
+The person pushing the dolly (the dolly grip) becomes an extension of the camera operator and needs just as much practice and finesse to get the shot right. Keep this in mind when hiring your dolly grip. Even if you don’t plan to do moving shots, having the camera on a dolly with a boom can save a great deal of time on the set, allowing you to quickly put the camera in positions that would be slower or impossible to do with a tripod.
+
+Fig. 9-43. Compact jib arms can be used for location and studio work, and can be mounted on a tripod or a dolly. (Miller Camera Support)
+
+Fig. 9-44. Briefcase dolly. Can be used with straight or curved track or on bare floor. The dolly platform folds up, becoming a thin carrying case for travel. (Fletcher Chicago/Egripment USA)
+
+Fig. 9-45. The dolly grip (left) plays a crucial role in executing a well-timed dolly shot.
+
+Fig. 9-46. Cinevate slider permits lateral or vertical moves. Can be mounted on a tripod or on the ground. When doing any kind of camera move, placing the subject or objects in the near foreground helps accentuate the sense of movement. See also Fig. 1-19. (Cinevate)
+
+Short camera moves can be done with sliders, which are compact rail systems often small enough to fit on a single tripod. Different lengths are popular, from a mere two feet to six feet and longer. Some are ultralight, designed for the DSLR weight class; others are sturdy enough for the largest 35mm film cameras (and require more support than a single tripod). With even a two-foot slider, the use of a wide-angle lens to emphasize movement through space and a slow, deliberate forward glide or lateral move of six seconds or more can add welcome production value to documentary and dramatic sequences alike. The movement will be most visible on screen if the camera moves past objects in the foreground.
+
+Shooting in a Moving Vehicle
+
+When you need a tracking shot that’s faster than what you can get from a dolly, use a motorized vehicle. A vehicle, especially if it is equipped with a shooting platform, is extremely versatile. In general, the larger the car, the smoother the ride. Automatic transmission is preferable, since manual shifting may create a jerky movement. Keep tire pressure low to smooth out the ride. If you’re not using a professional camera vehicle, it’s usually best to hand-hold the camera to absorb automobile vibrations. It’s easiest to achieve smooth camera movement if the car’s speed remains constant, and most difficult if the vehicle goes from a stop into motion.
+
+Shooting in the same direction as the moving vehicle results in the motion appearing normal on the screen. Shooting at right angles to the direction of the vehicle makes the car appear to be going roughly twice as fast as it is. At intermediate angles, the speed is between these extremes. Wide-angle lenses increase apparent speed and long focal length lenses can decrease apparent speed (see Perspective Effects, p. 385). By shooting at a higher frame rate you can smooth out unevenness in the ride (similarly, you can slow down normally shot footage, but this won’t look as natural).
+
+When shooting action that takes place in a car, you may be able to get the shots you need by shooting from inside the car, which might involve shooting handheld from a passenger seat or mounting a camera inside the car or out. Heavy-duty suction mounts and clamps allow you to attach cameras to the hood or side of the car. The surface must be smooth, clean, and dry to use suction mounts. If the camera is mounted on a moving vehicle or in a precarious spot, be sure to tie it down with safety lines.
+
+Fig. 9-47. Suction mounts can be attached to cars, windows, and nonporous surfaces. Car mounts should be set up by experienced persons using safety lines when possible. (Filmtools)
+
+For better control and lighting, as well as a wider range of camera angles and moves, larger productions use a camera vehicle to tow the car that the actors are in (which is called the picture car or picture vehicle) either on a hitch or on a trailer. A trailer facilitates doing shots through the side windows, including dolly moves. Towing the picture car frees actors from having to concentrate on driving while doing their scenes and is safer.
+
+The Handheld Camera
+
+The handheld camera was first experimented with during the silent era, especially in the films of Dreyer, Clair, Vigo, and Vertov. Cameras then were hand-cranked or spring-wound, or they used heavy motors, and sound, if possible, was nonsynchronous. Not until the early 1960s, when lightweight 35mm and sync-sound 16mm cameras arrived—launching New Wave fiction filmmaking and cinema verité documentary filmmaking—was the potential of the handheld camera realized. Not only could the camera now capture new subject matter in new locations, but handheld shooting, at its best, imparted a new electricity to the image. The extreme mobility of a handheld camera permits following every action, achieving a feeling of intimacy and spontaneity impossible when using a tripod- or dolly-mounted camera, which is why handheld shooting is often best in unscripted situations—whether a documentary or with improvised acting.
+
+Sometimes a handheld camera is used specifically to bring a “documentary” feel to the footage, in which case a little bit of shakiness may be desired. On the other hand, a skilled cameraperson can hand-hold with real steadiness, maintaining mobility but keeping the image very stable. Cameras that ergonomically lend themselves to comfortable, balanced hand-holding are often used to squeeze off shots that would take too long to set up otherwise. It is not uncommon these days to see an occasional handheld shot mixed in with mostly tripod and dolly shots. Audiences, whether they know it or not, have grown used to seeing this mix of mounted and handheld shots in both movies and particularly television dramas that are limited to tighter budgets.
+
+TIPS FOR HANDHELD SHOOTING. Shoulder-mounted cameras are the steadiest, because the operator’s body braces the camera and dampens vibrations (see Fig. 2-16). Cameras that are held in front of the eye, like small digital camcorders, are harder to hold steady and can feel heavy after a few hours of shooting, especially when you add items like a matte box, focus control, onboard monitor, wireless receiver, portable recorder, and/or light. A single lightweight item can often be mounted to the camera’s shoe; others can be attached to rods or a “cage” (see Fig. 10-15). Heavier items, like a wireless receiver, can be mounted on your belt or put in a small shoulder bag with wires to the camera (see Fig. 11-1).
+
+Most small camcorders feature some type of internal image stabilization, which can be very effective. Cameras that don’t balance on the shoulder can be used with a brace. Some braces increase stability but still require you to support the front of the camera (see Fig. 3-15). A larger body brace can take more weight off your arms and allow steadier shots, but some cinematographers feel it imparts a mechanical feel to the shooting and makes it harder to respond to unpredictable events or to shoot in small spaces, like a car.
+
+With each different make or model of camera or camcorder you must memorize which way to turn the lens controls for focus, aperture, and zoom. Make up your own memory aid, such as “pull to bring infinity close and bright,” which means (assuming the lens is operated with the left hand) pull counterclockwise for farther distances (infinity), to open up the aperture (bright), and to zoom in closer. The controls on your lens or camera may be completely different, so you may need to make up another memory aid for your rig.
+
+To shoot a handheld camera over extended periods of time, it helps if you’re in good physical shape. Find a comfortable position for shooting by practicing before you begin. Some people shoot with one foot in front of the other, others with their feet shoulder-width apart. Don’t lock your knees; keep them slightly bent. Stand so you can smoothly pan in either direction and move forward or backward. For filming while walking, walk Groucho Marx–style, with your knees bent and shuffling so that the camera doesn’t bob up and down.
+
+When you film without a script, avoid excessive zooming and panning, which could produce results that are unwatchable and uncuttable. To get in the rhythm, students should try counting slowly to six without making any camera movements.
+
+When you shoot while walking backward, have someone (say, the sound recordist on a small crew) put his hand on your shoulder and direct you. Try cradling the camera in your arms while walking and shooting; use a fairly wide-angle lens, positioned close to the subject, and keep in stride. Put the camera on your knee when shooting the driver in the front seat of a cramped car.
+
+To steady a static shot, lean against a person or a support, such as a car or building. When shooting landscapes or scenes with strong architectural elements, any jiggles become obvious due to the stillness of the subject. Consider using a tripod or putting the camera on a surface for these shots. The Steadybag is like a small beanbag and allows you to perch a camera quickly on a flat or uneven surface for a steady shot.
+
+Documentary filmmaking creates some of the most difficult follow-focus situations, as the camera-to-subject distance constantly changes in unpredictable ways. This is especially problematic with large-sensor cameras that have shallow depth of field. When careful focusing is not possible, zoom to a wider angle to increase depth of field and move the distance ring to the approximate position. As your skill increases, it will become easier to pull something directly into focus by looking through the viewfinder. As previously said, remember that the wider the angle of the lens, the less annoying any camera jiggle will be in the image (see Chapter 4).
+
+Image Stabilization Devices
+
+Image stabilization methods can be used to lessen unwanted camera vibrations and jiggles. These range from common optical image stabilization (OIS) systems built into small camcorders and DSLR lenses to built-in systems for B4- and PL-mount lenses (by Canon) to lens peripherals (also Canon) to handheld or body-mounted devices, including helicopter and other vehicle mounts. In post, there are numerous software applications to remove unwanted camera shake, notably Adobe After Effects. Most professional editing systems now offer this function; Apple Final Cut Pro X, for example, can automatically stabilize when you import the footage (see p. 593).
+
+INTERNAL IMAGE STABILIZERS. Electronic image stabilization (EIS) requires a sensor larger than the actual image itself (or first must slightly enlarge the image) to digitally reposition the image while you’re shooting to reduce image shake, which may noticeably affect image quality. For this reason it is found mostly in cheaper consumer camcorders. As mentioned above, internal optical image stabilization is used in DSLR lenses and camcorders favored by professionals to dampen vibration and shake. Experiment to see whether you like the effect of optical image stabilization. Some OIS systems add a slight lag to certain camera movements, giving an unwanted floating effect. Some newer camcorders offer a choice of different levels and types of OIS.
+
+THE STEADICAM. The Steadicam, Glidecam, and similar devices allow the camera to be mounted on a gimbaled arm attached to a harness worn by the camera operator that isolates the camera from body shake, enabling smooth movements (see Fig. 9-48). This enables camera movements similar to those from a dolly, but with much faster setups, shooting in tighter quarters, and significantly increased mobility. Any vehicle—automobile, boat, helicopter—can serve as a platform for dolly-smooth movements. Pans, tilts, running shots, and shots going up stairs can be made with the subtlety of the moves of the human body without any handheld jiggles.
+
+Since the mid-1970s, camera stabilizing systems—first and famously Steadicam—have enabled new camera moves that blend the freedom of hand-holding with the controllability of a dolly or crane. In fact, the very first Steadicam shot ever seen in a movie, from Bound for Glory (1976), was produced by Steadicam inventor Garrett Brown riding a tall crane shot all the way to the ground, then hopping off and floating the camera through the movie’s set. Prior to Steadicam, this would have been an impossible shot. Alexander Sokurov’s Russian Ark (2002), a costume-drama romp through the history and galleries of the State Hermitage Museum in Saint Petersburg, is nothing but a single ninety-six-minute Steadicam take—and a virtual encyclopedia of Steadicam timing, technique, and moves.
+
+The impact of a device like this on the language of film shot-flow has been monumental. Not only does it expand the basic repertoire of dollylike shots, but, more important, it creates new relationships between filmmaker and location and between filmmaker and actors. Quick, inexpensive setups relieve the pressure on actors and crew. In documentary, the use of image stabilization devices can be effective for tracking or establishing shots. For filming people in more intimate settings, however, the equipment may be too intrusive.
+
+Although you can respond to unplanned subject movement (unlike a dolly, for which each shot must be blocked), response is slower than that of a shoulder-mounted camera. Steadicam or Glidecam shots have a floating quality that some people find less exciting than well-done handheld shots. And at the end of a move, it is sometimes a challenge to maintain a perfectly stable horizon line without some bobbing.
+
+A Steadicam-type system must be set up specifically for each size, weight, and balance of camera and requires that film cameras be equipped with a video tap for monitoring. Film cameras with vertically mounted magazines or coaxial magazines (see p. 262) work best, since the camera’s center of balance remains more stable during a take. The operator needs special training and plenty of practice. Often wide-angle lenses work best when tracking action.
+
+There are various smaller devices designed to smooth out camera movement for small digital cameras exemplified by the Steadicam Merlin (see Fig. 1-15). These are handheld, with no body brace or monitor. With practice, these can provide smooth moves in some shooting situations.
+
+Fig. 9-48. Steadicam. The camera floats smoothly, isolated from shocks or jarring with springs in the support arm. The operator wears a harness and watches a small monitor mounted on the Steadicam. Steadicam and Glidecam also make smaller, handheld systems for small cameras (see Fig. 1-15). (The Tiffen Company)
+
+CAMERA MOUNTS. To stabilize large movements (for example, when shooting from a boat) a gyroscopic stabilizer can be mounted on a tripod to compensate for motion in the camera platform. When shooting from a helicopter, a Tyler mount or Wescam system can be used to stabilize the camera.
+
+SOFTWARE STABILIZATION. Many software applications allow you to stabilize a shot in postproduction. Some are astonishingly sophisticated and can make a bouncy, handheld shot look dolly smooth. For more, see p. 593.
+
+SLOW MOTION, FAST MOTION, AND JUDDER
+
+SLOW MOTION
+
+Slow motion can be used to analyze motion or to call attention to motion itself. In Leni Riefenstahl’s Olympia, a film of the 1936 Olympics in Berlin, the movements of the athletes are broken down and extended in time with slow motion, letting the viewer see things unobservable in real time. Televised sports events often show replays in slow motion (“slo-mo”) to analyze the action. Slow motion extends real time, sometimes giving an event more psychological weight. A character’s death may occur in an instant, yet be the most important moment in a film. Starting with Bonnie and Clyde, countless films have shown the protagonist’s death in slow motion, extending the time of death to give it greater emotional emphasis. Today filmmakers often use slow motion to add feeling to otherwise mundane shots.
+
+Slow-motion effects can be achieved in two ways: by running the camera at higher than regular frame rate; and by shooting at normal speed and then slowing the footage down later during postproduction. There can be a noticeable difference between the two methods.
+
+When the camera runs fast, you are capturing many continuous frames in a given period of time (say, 80 frames in a second). This makes the slowed action seem smooth and continuous on playback or projection. This technique is also called overcranking.
+
+However, when a film or video camera is shooting at normal speed (say, 24 or 30 frames a second), and you then slow the footage down in post, motion may appear discontinuous and jerky. The slow-motion effect is achieved in post by repeating each frame two or more times, then moving to the next frame. There will be a slight jump when you move to each new frame. Also, the normal motion blur that takes place with any camera and/or subject movement—which is invisible at normal playback speeds—will be more pronounced when normal footage is slowed down (see Figs. 2-14 and 2-15). This effect may be desired, or at times it may just look inferior to true slow-motion shot with a camera running at a higher frame rate.
+
+Software apps like Twixtor and the time warp effect in After Effects can create better slow motion during postproduction by interpolating (essentially creating a new frame that bridges the gap from one frame to the next). If you plan for this, shoot with a fast shutter speed (less than 1⁄2000 second) to reduce motion blur.
+
+The effect of overcranking depends in part on the base frame rate of your project. For example, if the rest of the movie is being shot at 30 fps, then shooting at 60 fps will slow motion by half. High frame rates also result in shorter exposure times, which require more light.
+
+Fig. 9-49. Phantom Flex high-speed digital camera can shoot 5 to 2,570 fps at 1920 x 1080 HD resolution. (Vision Research)
+
+High speeds can help minimize the effect of unwanted camera jiggle and vibration. When the camera is handheld or on a moving vehicle, faster camera speeds lengthen the distance between jerky or uneven movements and make the image seem steadier. Of course, any subject movement will also be in slow motion.
+
+High-Speed Cameras
+
+Sometimes very high frame rates are needed for an effect or to capture or analyze fleeting events. If you want to see individual water droplets slowly crashing on the ground or a bullet shattering glass, use a high-speed camera (and sometimes strobe lighting, which is like using a very short shutter speed). High-speed digital cameras, like the Phantom Flex, can shoot 720p HD video at over 6,000 frames per second, and even higher frame rates are possible at lower resolution. As a point of comparison, a camera speed of 250 fps stretches one second of real time into more than ten seconds of 24p film time.
+
+High-speed recording implies very short exposure times, which usually requires a lot of light (and a sensitive chip for a video camera or a fast stock for a film camera). Some cameras can be operated at normal speed and then ramped up to high speed when the key action begins and they’ll automatically adjust the exposure.
+
+Fig. 9-50. To achieve shots like this, in which rapidly moving objects appear to move slowly but smoothly and are clear and distinct with no motion blur, you need to shoot at a high frame rate and not merely slow down normally shot footage in post.
+
+FAST MOTION
+
+Most film cameras and many digital cameras can be operated at slower-than-normal frame rate (called undercranking). This results in each frame being exposed for a greater length of time. For example, shooting at 12 fps gives one stop more exposure than filming at 24 fps. This can be used to advantage in scenes where the light level is too low for exposure at normal speed and there is no movement in the scene—for example, when filming exteriors at night. Keep in mind that any motion, like car headlights, will seem sped up. If shooting in a dark church interior at 12 fps, you might have actors walk at half speed, or move the camera half as fast as usual so the movement will appear normal in playback. If you take undercranked footage and slow it down in postproduction, you can get an interesting ghostlike effect.
+
+Undercranking produces a slower shutter speed. However, it creates a very different effect than shooting at normal frame rate with an adjustable shutter set to a slower shutter speed (see p. 135 and p. 256).
+
+Chase sequences can be undercranked to make motion appear faster and more dangerous. The sped-up motion of silent film comedy was, supposedly, the result of an unintentionally undercranked camera on a Mack Sennett set. You can get this effect by shooting at about 16 to 20 fps and then playing back or projecting at 24 fps.
+
+Time-Lapse
+
+With significantly slower speeds, time is proportionally sped up. In time-lapse, the sun can set, a flower can blossom, or a building can be demolished and another constructed in a few seconds (sometimes called pixilation). Nonlinear editing systems can speed up shots to create time-lapse sequences from footage shot at normal speed, but for action that takes place over hours or days, you won’t want (or be able to) record that much footage to speed it up later.
+
+For very condensed time, you need a camera that can make single-frame exposures. Some digital and film cameras have this option, which may be called interval recording. DSLRs are very effective for shooting time-lapse footage and stop-motion animation. Animated films, such as Tim Burton’s Corpse Bride, have been shot with DSLRs. Filmmakers can put DSLRs on small, motorized tracks to get very exciting moving-camera time-lapse shots. Some film cameras can be used with an intervalometer to control time-lapse exposures. GBTimelapse is an app that can provide versatile control of a DSLR and capture images directly to a computer.
+
+Finding the right frame rate for a time-lapse sequence takes some experimentation. Start by estimating how long you want the finished sequence to run on screen. From this you can figure the total number of frames to expose. Say you want to shoot a sunset that takes two hours (120 minutes) and have the shot run ten seconds in the movie. For this example, let’s assume this is a 24p digital or film project. Hence, 10 seconds × 24 fps = 240 frames. This means you need to expose an average of 2 frames per minute during the sunset. It’s a good idea to start shooting sometime before and continue after the main action to provide flexibility in editing. Unless you’re shooting film, it’s often safest to record more frames than you think you need in a period of time, and speed the footage up a bit in post if necessary.
+
+Exposures may be programmed for one or several frames at a given time interval or at varying intervals. The fewer exposures at a time and the farther apart, the more jumpy or staccato the motion will look. Single-frame exposures are often slower than the normal camera shutter speed, which can also help reduce flicker when shooting under fluorescents or other pulsed lights. (Avoid fluorescents when possible; if you can’t, software plug-ins may be able to reduce flicker in post.) Very slow shutter speeds for each exposure will increase motion blur. You can use this effect to turn car lights at night into colored streaks.
+
+Some time-lapse sequences look best without changing the lens iris or exposure time over the sequence. In this case, base the exposure setting on the light reading at the most important part of the sequence. You could also “ride” the exposure, changing it manually or by using programmed features in the camera or intervalometer.
+
+In some situations an auto-iris can extend the usable length of the sequence if the light is changing. In others, it might fight with the effect you’re looking for: a sunset might look too silhouetted, for example.
+
+Often, a wide-angle lens produces the best time-lapse effect. A wide shot of traffic at a certain frame rate might produce a shot that looks like a fast-moving river of cars; any single car might be seen moving from one side of the frame to the other. However, if you used a telephoto lens to get a long shot of the same scene at the same frame rate, you might end up with a shot that showed individual cars popping into one frame and disappearing in the next. An interesting effect can be had by walking or dollying the camera, shooting a frame or two every step.
+
+Animation
+
+Animation can be seen as a variant of time-lapse photography. A series of paper drawings or paintings on acetate (cel animation) is done, with slight changes between the images. A few frames of one drawing are exposed, then the next one is filmed. On projection, the art seems to “move.” This technique can also be used for Claymation and other pixilated shots of real objects that seem to move by themselves.
+
+Today, animation is usually generated digitally, but traditional animation can be done with an animation stand and a DSLR or film camera capable of single exposures. In the past, motion-control animation stands such as the Oxberry were used to program moves across an animated or still image. Today it’s more common to scan artwork and do the moves in an editing system (see Animating Stills, p. 596).
+
+JUDDER OR STROBING
+
+All motion pictures are based on the illusion that a series of still images, when shown one after another, will appear to have movement. For the illusion to work and for motion to appear smooth, the changes from one image to the next can’t be too great. When you shoot video at 60 frames per second (either progressive or interlace) motion tends to look fairly smooth on screen. However, when you shoot video or film at 24 fps, there are fewer images every second, and the changes between frames when either the camera or the subject moves can be greater (see Fig. 2-15). If something moves too quickly, to the audience it can look as though the object is jumping or skipping from one position to the next rather than moving smoothly and continuously. This irregular movement is sometimes called judder, strobing, or skipping.9 It can give the viewer eyestrain or a headache. Judder is something to pay attention to when shooting at slower frame rates (like 24 fps) and sometimes even when shooting at higher frame rates when an adjustable shutter is set to a very fast shutter speed.
+
+Judder is most visible in pans, especially fast moves across strong vertical lines. The higher the image contrast or greater the sharpness, the more likely that judder will occur. To minimize strobing when shooting, there are various guidelines or tricks. A rule of thumb is to allow at least five to seven seconds for an object to move from one side of the screen to the other. This applies both when the camera pans or when the subject moves through a stationary frame. If the camera moves or pans with a moving subject, the viewer concentrates on the person and is less likely to notice judder in the background. In this situation, use shallow depth of field if possible and focus on the subject, letting the background go soft. Avoid panning across high-contrast scenes that have strong vertical lines. Fast swish pans are usually not a problem. You can get charts of safe panning speeds for different camera and lens settings.
+
+Footage shot with cameras that have relatively small sensors (including SD video cameras, some HD cameras, and 16mm film cameras) may appear to judder more than footage shot with 35mm film cameras or large-sensor HD cameras, in part because shots with large-sensor cameras typically have shallower depth of field, making it easier to throw the background out of focus. Using a slow shutter on a video camera (for example, 1⁄24 second) may reduce judder. Judder and flicker often look worse in the camera viewfinder than when the image is seen on a normal monitor or projected on screen (see p. 86). However, when it comes to projection on a big monitor or in a theater, bigger screens can make judder seem more severe than on smaller monitors (the jumps in the image are across a greater physical distance). Video projection, because it’s brighter, may look jumpier than film.
+
+A phenomenon related to strobing, and frequently referred to by the same term, is often noticed when the wheels of a moving vehicle on the screen seem to be stopped or to be traveling in reverse. This occurs when exposures happen to catch spokes at the same position in consecutive frames (thus, the wheels seem stopped) or catch them in a position slightly behind so the wheels appear to be spinning in reverse.
+
+SHOOTING TVs AND VIDEO MONITORS
+
+There are many situations in which you may want to shoot a video or computer display with either a video camera or a film camera. You may be shooting a scene in which a character is watching TV or you might be getting shots of a website on a laptop.
+
+In some cases shooting video displays is very straightforward. For example, shooting any flat-panel LCD, plasma, or OLED screen with either a video or a film camera usually produces excellent results regardless of the frame rate or shutter speed, at least in most cases.
+
+Sometimes when the frame rate or scanning rate of a display does not exactly match the frame rate or shutter speed of the camera, the screen image will seem to flicker. Many professional and prosumer video cameras have variable electronic shutters. Some have a specific feature to exactly match the shutter speed of the camera to the display’s scanning frequency. Sony’s system is called Clear Scan; Panasonic calls its Synchro Scan. These provide for a wide range of scanning frequencies that can be dialed in very precisely. Changing the shutter speed of a video camera affects the exposure time, but the basic frame rate is not affected (see p. 135). Don’t forget to go back to your normal shutter speed after shooting the screen.
+
+Another approach when shooting a computer display is to change the scanning (refresh) rate of the monitor, using the computer’s control panel (Windows) or settings (Mac).
+
+When shooting any display, be sure to white-balance the camera on the display and set exposure carefully. If you want the display’s image to look flat and rectangular, shoot with a long lens from a good distance away. Or you might try getting very close and letting some parts of the screen be sharp in the foreground with other parts softer in the background. Sometimes when you focus on the screen you see the pixels too clearly or get a moiré pattern. Try throwing the lens slightly out of focus to reduce or eliminate this moiré.
+
+Sometimes people mount a piece of green-screen material over the monitor so that video or computer images can be added later with a chroma key. You might do this if the monitor image isn’t available when you’re shooting. This is much easier to do convincingly if the camera you’re shooting with doesn’t move.
+
+When shooting a monitor with a film camera, take a reflected light meter reading, not an incident reading. The color temperature of many monitors is close to daylight (6500°K). Use an 85 filter for tungsten film if you have enough exposure. Some monitors offer a choice of color temperatures. You may need a fairly fast film to get enough exposure.
+
+SHOOTING CRTs. Shooting old-fashioned CRT televisions or video monitors—especially with a film camera—is more complicated since you often get a horizontal shutter bar or hum bar in the image. Filmmakers working in PAL countries can get a clean image simply by shooting a 25 fps PAL video monitor with a video camera or standard crystal-sync film camera with a 180-degree shutter running at 25 fps. Sometimes filmmakers in NTSC countries will adopt a similar strategy and shoot film at 29.97 fps. When film is transferred to video at 29.97 fps, motion will look normal, but if transferred at a standard 24 fps, motion will appear slightly slowed. Therefore, use of this technique hinges on considerations of frame rate and scene content. Be sure to consult with the transfer house in advance about proper speed for the sound recorder to maintain audio sync.
+
+Another approach to filming a CRT in NTSC countries is to use a film camera with a variable shutter. When filming at 24 fps, a shutter opening of 144 degrees can be used (equals 1⁄60-second shutter speed), at least for short shots. Some cameras provide a precise 23.976 fps frame rate to perfectly match NTSC’s 0.1 percent slowdown (from 30 fps to 29.97), which creates a true frame-rate lock. Motion shot at 23.976 will appear normal when projected at 24 fps and the footage can be transferred to video at real time.
+
+SHOOTING IN 3D
+
+The Basic Idea
+
+Unlike the single camera and lens, we have twin eyes and our visual perception is binocular. The two eyes are required for depth perception: How near is that lion? How distant is that lake? How deep is that ravine? Can I reach for that fruit?
+
+When the fourth dimension of time is added, depth perception allows us to perceive velocity. Not only how near that lion is, but also how fast he’s traveling toward us.
+
+From cave drawings onward, artists have attempted to represent the three dimensions of space—height, width, and depth—in two-dimensional form. Not until the Italian Renaissance and the development of scientific perspective did realism in painting succeed, and it took the invention of cinema in the nineteenth century to incorporate the extra dimension of time in depicting realistic motion. Even so, the outcome was limited to a flat, two-dimensional screen lacking the visual cues needed for genuine depth perception.
+
+Stereoscopy, or 3D imaging, arrived with the birth of photography. By 1840, the English inventor Sir Charles Wheatstone—who was first to explain the role of binocular vision in stereopsis or depth perception—had invented a stereoscope for displaying still photos in stereo pairs. Handheld stereoscopes exploded in popularity in the second half of the nineteenth century, as evidenced by their easy availability at flea markets today.
+
+Just as depth perception requires two eyes, stereoscopy requires two images, one for each eye. This means two cameras. Creating dual simultaneous images was feasible using the earliest still cameras but impossible with hand-cranked silent motion picture cameras.
+
+By the early 1950s, theatrical movies dubbed “3D”—three-dimensional—became technically possible and enjoyed a brief heyday, with more than sixty 3D films released in 1953 alone. Notable examples are Creature from the Black Lagoon (1954) and Alfred Hitchcock’s Dial M for Murder (1954). But the technical challenges of manipulating enormous twin blimped cameras (for sound films) persisted, as did the challenges of simultaneous projection of two giant reels each containing a 35mm print, one for each eye. As a result, 3D films died out until the early 1980s, when a second spike in popularity occurred, including Friday the 13th Part 3 (1982) and Jaws 3-D (1983).
+
+Fig. 9-51. 3D camcorder. The Panasonic AG-3DA1 has dual lenses and two 1920 x 1080 HD sensors. This kind of one-piece camcorder is easier to operate than 3D rigs that use two separate cameras. (Panasonic Broadcast)
+
+This type of 3D filmmaking, using motion picture film, never achieved mainstream status with production crews, audiences, distributors, or exhibitors. Loading and identically exposing two strands of 35mm motion picture film—also developing and printing them identically, with all the costs doubled—was never a picnic; and those funny glasses, whether Polaroid or anaglyphic (red/cyan), which often induced headaches, failed to endear the complex format to the paying public.
+
+Digital 3D
+
+The popularity and commercial success of today’s motion 3D (sometimes called S3D for stereoscopic 3D, to distinguish it from 3D computer graphics) is driven by the countless advantages of digital video. Compact, silent HD cameras are easily mounted side by side. Since there’s no film to load or process, it’s possible to view 3D results in real time or upon playback—perfect for realigning the optics, if necessary, for a better stereo experience free of eyestrain.
+
+Even so, 3D doubles the amount and complexity of camera systems: lenses, optical paths, sensors, DSP, frame rate, even storage. All must be perfectly matched and synchronized. Choosing to produce a project in 3D is not a choice to be taken lightly.
+
+The production, postproduction, distribution, and exhibition of digital motion pictures in 3D is an extensive topic warranting its own bookshelf. Since a full treatment of 3D technology and techniques, including the psychophysics of stereo vision, is beyond the means of this book, below is a brief outline of basic 3D concepts and practice, meant as a starting point only.
+
+Fundamentals of 3D Images
+
+The spacing between our eyes is called the interocular distance and can range from 55 to 75 millimeters (65mm, or 2.5 inches, is average for adults). The spacing between the two matched lenses required of any 3D camera system is called the interaxial distance, the space between the central axis of each lens.
+
+The distance between our eyes, which of course is fixed, is what determines our sense of scale, the depth and size of objects we experience as near and far. Because the interaxial distance between two cameras in a stereo rig can be adjusted, the appearance of depth in 3D space can be collapsed by merely reducing interaxial distance. Increasing the interaxial distance imparts a sense of greater depth.
+
+Convergence (sometimes called vergence) is the degree to which two lenses or cameras in a 3D system are angled toward each other, similar to the way our eyes rotate inward as we view an object approaching our nose. As babies we learn both to converge our eyes on an object of interest and, at the same time, focus our eyes on that object.
+
+It’s been said that making 3D is easy, making good 3D is hard. Many of the problems created for viewers of 3D movies can be found in the fact that when we view 3D, we focus our eyes on a two-dimensional screen, which of course exists at a fixed distance. Meanwhile, because of the 3D effect we are experiencing, our eyes are converging elsewhere, either in front of or behind the screen—an unnatural dissociation of convergence and focus as far as our eyes and brain are concerned (see Fig. 9-52). Minimizing uncomfortable vergence/accommodation conflicts (“accommodation” is the technical term for refocusing our eyes) is the key to making 3D movies that don’t tire the eyes.
+
+Fig. 9-52. (A) Normally, when we look at an object our eyes converge and focus at the same point. (B) When viewing 3D movies, our eyes focus on the surface of the screen, yet converge at a different point, wherever the object we’re looking at is placed.
+
+Angling two 3D cameras to create the illusion of objects behind the screen results in what’s called positive parallax; placing objects in front of the screen (a spear thrust into the audience, for example) results in negative parallax. Consequently, the 3D image area behind the viewing screen is called positive space, while the area in front is called negative space.
+
+The so-called View-Master effect, in which objects look like cardboard cutouts, can be avoided by not using long focal length lenses, which flatten object space to begin with.
+
+Production in Digital 3D
+
+Creating a digital 3D movie can be a production process or a postproduction process or a combination of both. A live sporting event on TV is an example of digital 3D that must be captured in production. In contrast, virtually all Hollywood digital 3D movies released before 2010 were shot in 2D, then painstakingly and expensively converted to 3D in post. (The 3D conversion of earlier movies, like Star Wars, is sometimes called dimensionalization.) However, since 2010, shooting 3D on the set has become the norm due to the arrival of compact digital cinema cameras like RED’s Epic and ARRI’s Alexa M, which make two-camera 3D rigs more manageable in size and weight. (Think Steadicam.) Additional factors are the growing familiarity of experienced crews with the demands of 3D production and a realization on the part of producers that shooting digital 3D takes about the same time as 2D.
+
+Digital 3D camera rigs take many forms. Countless independent producers have created 3D by placing two identical cameras side by side. Typically, very compact cameras are used for this approach, to get as close to a 2.5-inch interaxial distance as possible. To avoid 3D problems, there must be perfect agreement between the two lenses used for left and right images: identical f-stops, no vertical displacement (like our eyes, both lenses must exist on the same horizontal plane), matched geometry for left and right images, and if zooms are used, perfect synchrony in focal length (image magnification), with no center drift in either lens during zooming. It’s a tall order, but any deviations will cause eyestrain and entail costly or time-consuming correction in post.
+
+Fig. 9-53. Side-by-side 3D rig. This one uses two GoPro Hero HD cameras (see Fig. 2-8). (Photo by David Leitner)
+
+Fig. 9-54. Mirror 3D rig in which the two cameras (ARRI Alexas) shoot through a partially reflecting mirror. (Photo by David Leitner)
+
+Professional 3D camera rigs come in two basic configurations: side by side and a vertical arrangement featuring a beam-splitting mirror. (See Figs. 9-53 and 9-54.) Achieving a tight interaxial distance is always a problem for a side-by-side rig, limited by the width of the cameras involved. The over/under mirror configuration overcomes this easily, since both cameras can share the same optical axis if they want to. For example, during the production of The Amazing Spider-Man (2012), an interaxial distance between 0.25 and 0.75 inch was used throughout. An interaxial distance of 2.5 inches was found to be too wide for shooting objects closer than ten feet without inducing a feel of miniaturization in the scene.
+
+Lastly, a number of consumer and professional all-in-one 3D camcorders have been introduced by Panasonic, Sony, JVC, and others. What they have in common are two side-by-side lenses and two sensor systems bundled into one device. Small CMOS sensors are used, from 1⁄4 inch to 1⁄2 inch in size, either arranged as dual single sensors or as dual three-chip blocks. Interaxial distance is fixed by each camcorder’s size and design, while adjustment of convergence is achieved by an internal optical element shifted manually by dial or automatically in some cases. Dual image streams are recorded onto file-based flash media in popular compression formats like AVCHD. Onboard viewing is achieved using either 2D viewfinders offering overlays to depict proper convergence or by “glasses-free” autostereoscopic LCDs, which flip out from the camcorder in normal fashion. Autostereoscopic displays use lenticular screens, which, when held at a close distance from the face, offer each eye a difference image. You’re familiar with lenticular screens from postcards that produce animated effects when rotated back and forth. The fine vertical ribs you feel when you touch the front surface of these cards are lenses that magnify different images from different angles, just like an autostereoscopic LCD.
+
+This leads to the issue of how you view or monitor digital 3D during production. Autostereoscopic displays are limited to one viewer at a time. They must be small in size and positioned straight in front of your eyes at a short, fixed distance. Note that this describes the viewing conditions of a cell phone, gaming device, tablet computer held at arm’s length, or laptop screen—which is why autostereoscopic displays are beginning to arrive on these devices. Anything larger requires either passive glasses, with circular-polarized filters, or active glasses, with electronic LCD shutters synchronized to the 3D display (more on this below). For this reason, some choose to monitor 3D shoots in standard 2D, placing emphasis on performance and shot flow, and only later view the results in 3D. Adopting this scenario, peace of mind dictates placing an experienced stereographer at the center of the production team.
+
+Editing 3D is an evolving craft. Some edit partway in 2D using either the left- or right-eye recording, then switch to full 3D. Plug-ins to facilitate editing of 3D are available for popular NLEs like Final Cut Pro and EFX programs like Adobe After Effects; there are also plug-ins to detect and correct parallax and alignment errors. Dashwood Cinema Solutions (www.dashwood3d.com) is particularly well regarded for both the information at its website and its plug-ins and software tools for 3D production.
+
+Exhibition and Distribution of Digital 3D
+
+Most commercial theaters exhibiting 3D in the U.S. today use a single-projector system from RealD that alternates left circular-polarized and right circular-polarized images 144 times a second. That equals 72 flashes a second to each eye, or 3 flashes per frame at 24 fps. To preserve polarization, a silver screen is required. (A white matte screen won’t work, which is how you can always tell it’s RealD.) The viewer wears inexpensive passive circular-polarized glasses (thin gray filters), which can be thrown away.
+
+If a theater doesn’t wish to replace its perfectly good screen with a costly silver screen, it can use the Dolby system, in which a spinning wheel in front of the digital projector alternates two sets of narrow-band RGB filters. The audience, in turn, wears relatively expensive passive dichroic glasses (they reflect colors), which permit one set of narrow-band RGB images to enter the left eye, and the other set, the right eye. These glasses the theater owner does not want you to toss or walk out with.
+
+As an alternative, the theater could install a projection system based on active-shutter glasses, in which an alternating LCD filter over each eye is wirelessly synchronized to the projector’s output. IMAX has used this technology, but it’s the most costly of all.
+
+Flat-screen 3D TVs for home viewing use either circular polarization, which favors cheap glasses, or a system of actively switching left- and right-eye images, which active-shutter glasses are wirelessly synced to. The argument against 3D TVs using circular polarization is that they split odd and even scan lines, so that each eye receives only half of 1080 lines, or 540 lines—half the vertical resolution. This can cause the edges of horizontal action to appear serrated as they did in the days of interlaced CRTs. On the other hand, active-shutter glasses require batteries or charging and are expensive. What parent wants to buy replacements when their kids break, lose, or repeatedly decimate them? And what kid wants to hold his or her head perfectly upright for the proper 3D effect? (You can view a 3D TV with passive glasses lying down or standing on your head, if you wish.) The jury is out on which of these 3D TV technologies will dominate the market, with both types being built and marketed by major TV manufacturers.
+
+Signal standards for 3D TV are in place for cable distribution and several 3D channels are testing the waters. With 3D production costs dropping constantly, with a swelling catalog of 3D box office hits available on Blu-ray, and with growing 3D channels on YouTube and Vimeo, digital 3D appears not to be a passing fad.
+
+1. Nonlinear editing systems employ a different use of “sequence.” In an NLE, a sequence is a single timeline or grouping of shots that could range from one shot to the entire movie.
+
+2. It would be interesting to compare films from countries where the language is written right to left (like Arabic and Hebrew) to see if there’s any difference in how pans are typically done.
+
+3. Some broadcasters may consider the film compromised if the subjects have control or if it feels like a puff piece promoting a group or individual.
+
+4. If you know for sure that you want only the audio from an interview, recording with only an audio recorder can sometimes put people more at ease. Or use a video camera but point it away.
+
+5. Although memory cards and drives are recycled, i.e., copied and erased for further use, it’s a good idea to number them and keep track of their use in case of technical problems with a particular card or drive, which can be traced only if you maintain a clear record of their use.
+
+6. The letters O and I are often skipped since they look like numbers.
+
+7. If the sound files are labeled with the scene and take numbers, reading them aloud may not be necessary. Different productions use variations on the above protocol.
+
+8. From Michael Caine interview on NPR’s Fresh Air.
+
+9. The term “judder” is also used to refer to the irregular, sometimes stuttering motion that can result when 2:3 pulldown is used to convert 24 fps material to 30 fps (see Fig. 14-31).

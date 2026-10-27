@@ -1,0 +1,531 @@
+81
+Select one of the nine AF points to autofocus. Manual selection enables 
+you to select one of the nine AF points. And automatic selection has the 
+camera automatically select one of the nine AF points.
+In the fully-automatic modes (1/C), automatic AF point selection will 
+be set automatically. You cannot select the AF point.
+1 Press the <S> button. (9)X The selected AF point will be 
+displayed in the viewfinder and on the 
+LCD panel.
+2 Select the AF point. To select an AF point, you can either 
+use <9> or turn the <6> or <5> 
+dial.
+ The AF point selection will change in 
+the direction you tilt the <9>.
+ If you press <9> straight down, the 
+center AF point will be selected.
+ If you keep tilting it in the same 
+direction, it will toggle between 
+manual and automatic AF point 
+selection.
+ When all AF points light up, automatic 
+AF point selection will be set.
+S Selecting the AF PointN
+Selecting with the Multi-controller
+COPY
+
+82
+S Selecting the AF PointN
+ When you turn the <6> or <5> 
+dial, the AF point selection will 
+change in the respective direction.
+ When all AF points light up, automatic 
+AF point selection will be set.
+Selecting with the Dial
+ When looking at the LCD panel to select the AF point, note the following:
+Automatic selection , center , 
+right , top 
+ If focus cannot be achieved with the external, EOS-dedicated Speedlite’s 
+AF-assist beam, select the center AF point.
+COPY
+
+83
+S Selecting the AF PointN
+With lenses whose maximum aperture is larger than f/5.6
+With the center AF point, cross-type AF (sensitive to both vertical and 
+horizontal lines) is possible. The remaining eight AF points are 
+horizontal-line sensitive or vertical-line sensitive.
+With lenses whose maximum aperture is larger than f/2.8
+With the center AF point, high-precision, cross-type AF sensitive to both 
+vertical and horizontal lines is possible. The center AF point’s sensitivity 
+to vertical and horizontal lines is about twice as sensitive as the other 
+AF points. The remaining eight AF points are horizontal-line sensitive or 
+vertical-line sensitive.
+* Except with the EF28-80mm f/2.8-4L USM and EF50mm f/2.5 Compact Macro 
+lenses.
+Lens’ Maximum Aperture and AF Sensitivity
+The Assist AF points used in the AI Servo AF 
+mode are within the spot metering circle and not 
+displayed like normal AF points. They function as 
+follows:
+: Vertical-line sensitive with f/2.8 and f/5.6 
+lenses, as with the center AF point.
+: Horizontal-line sensitive with f/5.6 lenses.
+COPY
+
+84
+Autofocus can fail to achieve focus (the focus confirmation light <o> 
+blinks) with certain subjects such as the following:
+Subjects difficult to focus
+ Low-contrast subjects
+(Example: Blue sky, solid-color walls, etc.)
+ Subjects in low light
+ Extremely backlit or reflective subjects
+(Example: Car with a reflective body, etc.)
+ Near and far subjects covered by an AF point
+(Example: Animal in a cage, etc.)
+ Repetitive patterns
+(Example: Skyscraper windows, computer keyboards, etc.)
+In such cases, do one of the following:
+(1) With One-Shot AF, focus an object at the same distance as the 
+subject and lock the focus before recomposing (p.50).
+(2) Set the lens focus mode switch to <MF> and focus manually.
+1 Set the lens focus mode switch to <MF>.
+2 Focus the subject. Focus by turning the lens focusing 
+ring until the subject looks sharp in 
+the viewfinder.
+When Autofocus Fails
+MF: Manual Focusing
+If you press the shutter button halfway during manual focusing, the active 
+AF point and the focus confirmation light <o> in the viewfinder will light 
+when focus is achieved.
+COPY
+
+85
+Single and continuous drive modes are provided. In the <1> (Full 
+Auto) mode, single shooting is set automatically.
+1 Press the <o> button. (9)
+2 Select the drive mode. While looking at the LCD panel, turn 
+the <5> dial.
+u : Single shooting
+When you press the shutter button completely, one shot will be taken.
+i : Continuous shooting (Max. 3.9 shots per sec.)
+While you press the shutter button completely, shots will be taken 
+continuously.
+Q : 10-sec. self-timer/Remote control
+k: 2-sec. self-timer/Remote control
+For self-timer shooting, see the next page. For remote control 
+shooting, see page 102.
+i Selecting the Drive ModeN
+ When the internal buffer memory becomes 
+full during continuous shooting, “buSY” will 
+be displayed in the viewfinder and on the 
+LCD panel and shooting will be disabled 
+temporarily. As the captured images are recorded to the card, you will be 
+able to shoot more images. Press the shutter button halfway to check in 
+the viewfinder’s bottom right for the current maximum burst. This is the 
+maximum number of shots that can be taken continuously.
+ If “FuLL CF” is displayed in the viewfinder and on the LCD panel, wait 
+until the access lamp stops blinking, then replace the card.
+ When the battery level is low, the continuous shooting speed will be 
+slightly slower.
+ In the AI Servo AF mode, the continuous shooting speed may become 
+slightly slower depending on the subject and the lens used.
+Maximum burst
+COPY
+
+86
+Use the self-timer when you want to be in the picture. The <Q> (10 
+sec. timer) can be used in all shooting modes.
+1 Press the <o> button. (9)
+2 Select the self-timer. Look at the LCD panel and turn the 
+<5> dial.
+Q : 10-sec. self-timer
+k: 2-sec. self-timerN
+3 Take the picture. Focus the subject and press the 
+shutter button completely.
+X You can check the self-timer 
+operation with the self-timer lamp, 
+beeper, and countdown display (in 
+seconds) on the LCD panel.
+X Two seconds before the picture is 
+taken, the self-timer lamp will stay on 
+and the beeper will sound faster.
+j Self-timer Operation
+ After taking self-timer shots, you should check the image for proper focus 
+and exposure (p.128).
+ If you will not look through the viewfinder when you press the shutter 
+button, attach the eyepiece cover (p.100). If stray light enters the 
+viewfinder when you press the shutter button, it may throw off the 
+exposure.
+ When using the self-timer to shoot only yourself, use focus lock (p.50) for 
+an object at about the same distance as where you will be.
+ To cancel the self-timer after it starts, press the <o > button.
+COPY
+
+87
+5
+Advanced Operations
+In the d/s/f/a/F 
+shooting modes, you can select 
+the shutter speed, aperture, and 
+other camera settings to change 
+the exposure and obtain various 
+effects.
+ The M icon on the right of the page title indicates that the 
+function can be used when the Mode Dial is set to <d/s/
+f/a/F>.
+ After you press the shutter button halfway and let go, the 
+LCD panel and viewfinder information will remain displayed 
+for about 4 sec. (0).
+ Functions which can be set in the d/s/f/a/F 
+shooting modes are listed in “Function Availability Table” 
+(p.198)
+First set the power switch to <J>.
+COPY
+
+88
+The camera automatically sets the shutter speed and aperture to suit 
+the subject’s brightness. This is called Program AE.
+*< d> stands for Program.
+* AE stands for Auto Exposure.
+1 Set the Mode Dial to <d>.
+2 Focus the subject. Look through the viewfinder and aim 
+the selected AF point over the 
+subject. Then press the shutter button 
+halfway.
+X The AF point which achieves focus 
+flashes in red, and the focus 
+confirmation light <o> in the 
+viewfinder’s bottom right lights (with 
+One Shot AF + automatic AF point 
+selection).
+X The shutter speed and aperture will 
+be set automatically and displayed in 
+the viewfinder and on the LCD panel.
+3 Check the shutter speed and aperture display.
+ A correct exposure will be obtained 
+as long as the shutter speed and 
+aperture display do not blink.
+4 Take the picture. Compose the shot and press the 
+shutter button completely.
+d: Program AE
+COPY
+
+89
+d: Program AE
+ If the “30"” shutter speed and the maximum aperture 
+blink, it indicates underexposure.
+Increase the ISO speed or use flash.
+ If the “8000” shutter speed and the minimum aperture 
+blink, it indicates overexposure.
+Lower the ISO speed or use an ND filter (sold 
+separately) to reduce the amount of light entering the 
+lens.
+Differences Between <d> and <1> (Full Auto)
+With <1>, many functions such the AF mode, drive mode, and metering 
+mode are set automatically to prevent spoiled shots. The functions you can 
+set are limited. With <d>, only the shutter speed and aperture are set 
+automatically. You can freely set the AF mode, drive mode, and other 
+functions.
+About Program Shift
+ In the Program AE mode, you can freely change the shutter speed and 
+aperture combination (Program) set by the camera while maintaining the 
+same exposure. This is called Program shift.
+ To do this, press the shutter button down halfway, then turn the <6> 
+dial until the desired shutter speed or aperture value is displayed.
+ Program shift is canceled automatically after the picture is taken.
+ Program shift cannot be used with flash.
+COPY
+
+90
+In this mode, you set the shutter speed and the camera automatically 
+sets the aperture to obtain the correct exposure matching the 
+brightness of the subject. This is called shutter-priority AE. A faster 
+shutter speed can freeze the action or moving subject. Or a slower 
+shutter speed can create a blurred effect, giving the impression of 
+motion.
+* <s> stands for Time value.
+1 Set the Mode Dial to <s>.
+2 Set the desired shutter speed. While looking at the LCD panel, turn 
+the <6> dial.
+3 Focus the subject. Press the shutter button halfway.
+X The aperture is set automatically.
+4 Check the viewfinder display and shoot.
+ As long as the aperture is not 
+blinking, the exposure will be correct.
+s: Shutter-Priority AE
+Frozen action
+(Fast shutter speed)
+Blurred motion
+(Slow shutter speed)
+COPY
+
+91
+s: Shutter-Priority AE
+ If the maximum aperture blinks, it indicates 
+underexposure.
+Turn the <6> dial to set a slower shutter speed until 
+the aperture stops blinking or set a higher ISO speed.
+ If the minimum aperture blinks, it indicates 
+overexposure.
+Turn the <6> dial to set a faster shutter speed until 
+the aperture stops blinking or set a lower ISO speed.
+Shutter Speed Display
+The shutter speeds from “8000” to “4” indicate the denominator of the 
+fractional shutter speed. For example, “125” indicates 1/125 sec. Also, “0"5” 
+indicates 0.5 sec. and “15"” is 15 sec.
+COPY
+
+92
+In this mode, you set the desired aperture and the camera sets the 
+shutter speed automatically to obtain the correct exposure suiting the 
+subject brightness. This is called aperture-priority AE. 
+A higher f/number (smaller aperture hole) will make more of the 
+foreground and background fall within acceptable focus. On the other 
+hand, a lower f/number (larger aperture hole) will make less of the 
+foreground and background fall within acceptable focus.
+* <f> stands for Aperture value (aperture opening).
+1 Set the Mode Dial to <f>.
+2 Set the desired aperture. While looking at the LCD panel, turn 
+the <6> dial.
+3 Focus the subject. Press the shutter button halfway.
+X The shutter speed is set automatically.
+4 Check the viewfinder display and shoot.
+ As long as the shutter speed is not 
+blinking, the exposure will be correct.
+f: Aperture-Priority AE
+Sharp foreground and background
+(With a small aperture opening)
+Blurred background
+(With a large aperture opening)
+COPY
+
+93
+f: Aperture-Priority AE
+Press the depth-of-field preview button 
+to stop down the lens to the current 
+aperture setting. You can check the 
+depth of field (range of acceptable focus) 
+through the viewfinder.
+Depth of Field PreviewN
+ If the “30"” shutter speed blinks, it indicates 
+underexposure.
+Turn the <6> dial to set a larger aperture (smaller 
+f/number) until the blinking stops or set a higher ISO 
+speed.
+ If the “8000” shutter speed blinks, it indicates 
+overexposure.
+Turn the <6> dial to set a smaller aperture (larger 
+f/number) until the blinking stops or set a lower ISO 
+speed.
+Aperture Display
+The larger the f/number, the smaller the aperture opening will be. The 
+apertures displayed will differ depending on the lens. If no lens is attached to 
+the camera, “00” will be displayed for the aperture.
+ A higher f/number will make more of the foreground and background fall 
+within acceptable focus. However, the viewfinder will look darker.
+ If the depth of field is difficult to discern, hold down the depth-of-field 
+preview button while turning the <6> dial.
+ The exposure will be locked (AE lock) while the depth-of-field preview 
+button is pressed.
+COPY
+
+94
+In this mode, you set both the shutter speed and aperture as desired. To 
+determine the exposure, refer to the exposure level indicator in the 
+viewfinder or use a commercially-available handheld exposure meter. 
+This method is called manual exposure.
+* <a> stands for Manual.
+1 Set the Mode Dial to <a>.
+2 Set the shutter speed and aperture.
+ To set the shutter speed, turn the 
+<6> dial.
+ To set the aperture, set the power 
+switch to <J>, and turn the <5> 
+dial.
+3 Focus the subject. Press the shutter button halfway.
+X The exposure setting will be 
+displayed in the viewfinder and on the 
+LCD panel.
+ The exposure level mark <s> lets you 
+see how far you are from the 
+standard exposure level.
+4 Set the exposure. Check the exposure level and set the 
+desired shutter speed and aperture.
+5 Take the picture.
+a: Manual Exposure
+Exposure level mark
+Standard exposure index
+COPY
+
+95
+You can select one of four methods to measure the subject brightness. 
+In the fully-automatic modes (1/C), evaluative metering is set 
+automatically.
+1 Press the <n> button. (9)
+2 Select the metering mode. While looking at the LCD panel, turn 
+the <6> dial.
+q Evaluative metering
+This is an all-around metering mode suited for 
+portraits and even backlit subjects. The camera 
+sets the exposure automatically to suit the scene.
+w Partial metering
+Effective when the background is much brighter 
+than the subject due to backlighting, etc. Partial 
+metering covers about 8% of the viewfinder area at 
+the center.
+r Spot metering
+This is for metering a specific part of the subject or 
+scene. The metering is weighted at the center 
+covering about 3.5% of the viewfinder area.
+e Center-weighted average metering
+The metering is weighted at the center and then 
+averaged for the entire scene.
+q Selecting the Metering ModeN
+COPY
+
+96
+Exposure compensation is used to alter the standard exposure set by 
+the camera. You can make the image look brighter (increased 
+exposure) or darker (decreased exposure). You can set the exposure 
+compensation up to ±2 stops in 1/3-stop increments.
+1 Set the Mode Dial to <d>, <s>, or <f>.
+2 Check the exposure level indicator.
+ Press the shutter button halfway and 
+check the exposure level indicator.
+3 Set the exposure compensation amount.
+ Set the power switch to <J>, and 
+while looking at the viewfinder or LCD 
+panel, turn the <5> dial.
+ Turn the <5> dial while pressing the 
+shutter button halfway or within (0) 
+after pressing the shutter button halfway.
+ To cancel the exposure 
+compensation, set the exposure 
+compensation amount back to <E>.
+4 Take the picture.
+Setting Exposure CompensationN
+Increased exposure for a 
+brighter image
+Decreased exposure for a 
+darker image
+If [8C.Fn II -4: Auto Lighting Optimizer] (p.177) is set to a setting other 
+than [3: Disable], the image may look bright even if a decreased exposure 
+compensation or flash exposure compensation (p.103, 105) has been set.
+ The exposure compensation amount will remain in effect even after you 
+set the power switch to <2>.
+ Take care not to turn the <5> dial and change the exposure compensation 
+inadvertently. To prevent this, set the power switch to <1>.
+ The exposure compensation can also be set with [2 Expo. comp./
+AEB] menu (p.97).
+COPY
+
+97
+By changing the shutter speed or aperture automatically, the camera 
+brackets the exposure up to ±2 stops in 1/3-stop increments for three 
+successive shots. This is called AEB.
+* AEB stands for Auto Exposure Bracketing.
+1 Select [Expo. comp./AEB]. Under the [2] tab, select [Expo. 
+comp./AEB], then press <0>.
+2 Set the AEB amount. Turn the <6> dial to set the AEB amount.
+ You can set the exposure compensation 
+amount with the <5> dial. If AEB is 
+combined with exposure compensation, 
+AEB will be applied centering on the 
+exposure compensation amount.
+ Press <0> to set the amount.
+X When you exit the menu, <h> and the AEB level will be displayed 
+on the LCD panel.
+3 Take the picture. Focus and press the shutter button 
+completely. The three bracketed shots will 
+be taken in this sequence: Standard, 
+decreased, and increased exposure.
+ Follow steps 1 and 2 to turn off the AEB amount display.
+ AEB will be canceled automatically when you set the power switch 
+to <2> or when the flash is ready to fire.
+h Auto Exposure Bracketing (AEB)N
+AEB amount
+Canceling AEB
+ If the drive mode is set to <u>, you must press the shutter button three 
+times. When <i> is set and you hold down the shutter button 
+completely, three shots will be taken continuously, then the camera will 
+stop shooting. When <Q> or <k> is set, the three bracketed shots 
+will be taken after a 10-sec. or 2-sec. delay.
+ Neither flash nor bulb exposures can be used with AEB.
+COPY
+
+98
+Use AE lock when the area of focus is to be different from the exposure 
+metering area or when you want to take multiple shots at the same 
+exposure setting. Press the <A> button to lock the exposure, then 
+recompose and take the shot. This is called AE lock. It is effective for 
+backlit subjects.
+1 Focus the subject. Press the shutter button halfway.
+X The exposure setting will be 
+displayed.
+2 Press the <A> button. (0)X The <A> icon lights in the viewfinder 
+to indicate that the exposure setting is 
+locked (AE lock).
+ Each time you press the <A> button, 
+it locks the current auto exposure 
+setting.
+3 Recompose and take the picture. If you want to maintain the AE lock 
+while taking more shots, hold down 
+the <A> button and press the shutter 
+button to take another shot.
+* When the lens’ focus mode switch is set to < MF>, AE lock is applied at the 
+center AF point.
+A AE LockN
+AE Lock Effects
+Metering Mode 
+(p.95)
+AF Point Selection Method (p.81)
+Automatic Selection Manual Selection
+q* AE lock is applied at the AF point that achieved focus. AE lock is applied at the selected AF point.
+wre AE lock is applied at the center AF point.
+COPY
+
+99
+When bulb is set, the shutter stays open while you hold down the shutter 
+button completely, and closes when you let go of the shutter button. This 
+is called bulb exposure. Use bulb exposures for night scenes, fireworks, 
+the heavens, and other subjects requiring long exposures.
+1 Set the Mode Dial to <F>.
+2 Set the desired aperture. While looking at the LCD panel, turn the 
+<6> or <5> dial.
+3 Take the picture. While you hold down the shutter 
+button, the exposure will continue.
+X The elapsed exposure time will be 
+displayed on the LCD panel.
+Each time you press the <U> button, 
+the LCD panel illumination will turn on or 
+off (9). During a bulb exposure, 
+pressing the shutter button completely 
+will turn off the LCD panel illumination.
+F: Bulb Exposures
+Elapsed exposure time
+U LCD Panel Illumination
+ Since bulb exposures produce more noise than usual, the image might 
+look rough or grainy.
+ When [8C.Fn II -1: Long exp. noise reduction] is set to [1: Auto] or 
+[2: On], noise generated by the bulb exposure can be reduced (p.176).
+ For bulb exposures, using the Remote Switch RS-80N3 or Timer Remote 
+Controller TC-80N3 (both sold separately) is recommended.
+ Bulb exposures can also be taken with a remote controller (sold separately, p.102). 
+When you press the remote controller’s transmit button, the bulb exposure will start 
+immediately or 2 sec. later. Press the button again to stop the bulb exposure.
+COPY
+
+100
+F: Bulb Exposures
+If you take a picture without looking at the viewfinder, light entering the 
+eyepiece can throw off the exposure. To prevent this, use the eyepiece 
+cover (p.23) attached to the camera strap.
+1 Remove the eyecup. Push the bottom of the eyecup 
+upward.
+2 Attaching the eyepiece cover. Slide the eyepiece cover down into 
+the eyepiece groove to attach it.
+You can connect the Remote Switch RS-80N3 or Timer Remote 
+Controller TC-80N3 (both sold separately) or any EOS accessory 
+equipped with an N3-type terminal to the camera and shoot with it.
+To operate the accessory, refer to its instruction manual.
+1 Open the terminal cover.
+2 Connect the plug to the remote control terminal.
+ Connect the plug as shown in the 
+illustration.
+ To disconnect the plug, grasp the 
+plug’s silver part and pull out.
+Using the Eyepiece Cover
+Connecting the Remote Switch
+COPY

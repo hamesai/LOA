@@ -1,0 +1,277 @@
+CHAPTER VI
+
+THE STORY OF THE PERFORATION GAUGE
+
+We have seen that before the film can be used in the camera it has to
+be perforated on either side in order that successive areas of film ¾
+of an inch deep--the equivalent of a picture--can be seized and brought
+into position behind the lens. This perforation has become standardised
+in accordance with what is known as the “Edison Standard Gauge,” which
+is 64 perforations per foot on either side. This perforation is of an
+elongated form, measuring about ⅛ of an inch in width by approximately
+1/16th of an inch in depth.
+
+The preliminary operation is carried out with a machine, which stamps
+the holes by means of specially hardened steel punches. Extreme care
+has to be taken to carry out the task with mathematical accuracy, in
+order that the film may be used with any type of camera and projector.
+Without it steadiness of the picture upon the screen is absolutely
+impossible.
+
+It seems strange that all films should have to be perforated according
+to the Edison system, when it is remembered that the first commercial
+cinematographic apparatuses for the projection of pictures upon a
+screen were made, not by Edison, but by Paul and Lumière, who, one
+might think, would have established their own gauges. This important
+point involves an interesting little story.
+
+In the very earliest days of cinematography, when a film of greater
+width was used than at present, it was advanced by friction. Rollers,
+or clutches, gripped the edges of the film tightly, and moved it
+forward the desired extent. But their action was uncertain. Sometimes
+the rollers became slack and the film slipped, the celluloid ribbon
+varied in thickness or was a trifle slippery, with the result that
+the forward movement was irregular, and the pictures did not appear
+in rhythmic succession. Some were askew, others were overlapped by
+the preceding or succeeding image, or a wide gap was left between
+consecutive pictures.
+
+In order to overcome the drawback, attempts were made to devise a
+system of moving the film forward by the aid of pins engaging with
+holes in the sides. But the apparatus employed was mechanically
+defective. The film dragged, and the holes were either torn or became
+so worn that they did not engage accurately. Square holes were
+first tried, but the wear and tear set up by the pins or sprocket
+teeth soon gave them a circular or elongated shape. Then circular
+perforations were adopted, but they soon became elliptical. The
+number of perforations per picture was varied also in the hope of
+securing steadiness of the film both in the camera and more especially
+in projection, but every effort appeared to refuse to remove the
+difficulty.
+
+One of the early investigators was discussing the subject one night
+with Lord Kelvin. The eminent scientist became deeply interested in
+this trouble with regard to the perforations, and the disadvantages of
+the respective shapes shown to him. After a few minutes’ reflection, he
+remarked, “Why not use perforations of triangular form? They will not
+wear round or square. They will always retain their shape more or less,
+and at all events will give improved steadiness in running.” The advice
+of Lord Kelvin was followed, and the triangular holes were found to
+give the best results achieved up to that time.
+
+Meanwhile the shape of the perforations and the gauge had settled
+itself in a curious manner. The kinetoscope appeared with small
+rectangular perforations, numbering four to each picture, on either
+side of the film. Edison had settled on this plan for his apparatus,
+finding that it afforded him the best results. The machines were made
+and despatched to various parts of the world. To maintain the interest
+in the novelty, a number of films were prepared and sold to various
+customers possessing the kinetoscope.
+
+When Messrs. Lumière brought out their projecting apparatus, only
+one brand of film available for demonstration purposes was on the
+market--that made for the kinetoscope. When Paul first entered the
+manufacturing field, he, of course, prepared films for use with the
+kinetoscope of his own manufacture, and he naturally adopted Edison’s
+gauge. As already narrated, Lumière made an attempt to set up an
+independent gauge, with one hole each side per picture, but the
+Edison and Paul films with an identical gauge had become too firmly
+established, especially as the famous American inventor commanded
+the situation in the United States. There was no market for either
+machines or films deviating from Edison’s gauge. Exhibitors who had
+bought kinetoscopes and films, when they acquired a Lumière projector,
+demanded that it should be so designed as to use the films which
+they owned already, and which were highly expensive. When other
+film-picture manufacturers entered the arena they followed in Edison’s
+footsteps, because there was no market for their wares if they did
+otherwise. Consequently the Edison perforation gauge became more and
+more firmly established as time progressed, until at last it became
+regarded as the standard. It must be pointed out that this result was
+largely attributable to Paul, who became the largest manufacturer of
+kinetoscope films in the world.
+
+Yet it must not be thought that the settlement came about smoothly.
+There has been a battle of the gauges in the cinematographic as in the
+railway world. The Edison standard gauge has its admitted drawbacks,
+the greatest of which is that there are too many holes per picture,
+which weaken the film and tend to precipitate tearing. Two, or even
+one, hole per picture on either side would suffice, as demonstration
+has conclusively proved.
+
+An American rival attempted to swerve from the standard in another
+direction, using a film 2¾ inches wide--double the width of the
+kinetoscope film. He eventually abandoned the wide band, partly on
+economic grounds, as a ribbon half the width produced pictures in
+every respect equal to those obtained from the wider film. On one or
+two occasions the gauge has been revised slightly, but the variations
+merely affected the dimensions of the hole to a microscopic degree.
+Fundamentally, the gauge as set by Edison for the first commercial
+apparatus for showing photographs in motion prevails to-day, and is
+universally accepted.
+
+The film is received from the manufacturers in a plain ribbon, and the
+perforation has to be done shortly before the film is taken in hand for
+exposure. The film manufacturers cannot possibly supply it perforated,
+because the celluloid base undergoes continuous physical change while
+in storage. Under varying climatic conditions it shrinks and expands
+to an extent which may not be observable to the eye, but becomes
+pronounced when the picture is projected upon the screen.
+
+The necessity for mathematical precision in the matter of perforating
+is somewhat obscure to the uninitiated, but its effects may be
+demonstrated very easily. Compare the vibrating or oscillating
+flickering picture of 1896 with that shown upon the screen to-day,
+in which the effect produced comes very close to that of the _camera
+obscura_. If the perforation errs the hundredth part of an inch,
+steadiness in the picture is forfeited. The films have to be punctured
+with the same mathematical accuracy that goes to the production of a
+tiny screw intended for the most delicate piece of mechanism.
+
+[Illustration: PAUL’S ROTARY PERFORATOR.
+
+To punch the holes in the margins of the film before it is exposed.]
+
+[Illustration: THE FIRST CINEMATOGRAPH STUDIO-STAGE.
+
+Built by Robert Paul, at New Southgate, London. It faced north. The
+camera and operator were mounted on a platform which travelled upon
+rails.
+
+ _See page 104._
+]
+
+This is especially the case in regard to the perforation of the
+negative film. If this is not absolutely true to gauge, the existing
+error will be magnified in the passage of the film through the camera;
+and should the latter be ever so slightly at fault, the defect
+becomes intensified still more. By the time the picture reaches the
+projector the infinitesimally small defect in the first instance
+becomes increased fourfold or even more. The picture will jump and
+flutter in the most distressing manner, and no matter how dexterous the
+operator may be, and despite the excellence of his projector, he cannot
+by any means rectify or mitigate very appreciably defects arising from
+indifferent perforation.
+
+The contribution of imperfect perforation to unsteadiness in projection
+was recognised in the earliest days; and great technical skill was
+devoted to the elaboration of machines to puncture the film with
+scientific precision. Marvellous appliances have been produced for this
+purpose; but despite the infinite labour bestowed upon their production
+the possibility of error is ever present. Still, it has been reduced to
+infinitesimal proportions, and, given a careful operator, a film can be
+perforated with the holes varying not a thousandth part of an inch from
+the gauge.
+
+The very earliest type of perforating machine was known as the “Rotary
+Perforator,” Paul leading the way in this, as in several other
+ramifications of the industry. The machine was driven by a mechanism
+identical with that utilised in the camera and projector; because the
+film had to be advanced intermittently beneath the punches, which were
+provided with an oscillating movement. This type of machine is shown
+in the illustration. Paul’s first appliance has always ranked as more
+simple, efficient, and reliable than any other.
+
+During recent years the rotary perforator has fallen from favour,
+on the plea that it soon becomes imperfect in working; but such an
+accusation cannot fairly be brought against Paul’s machine, since its
+designer used it continuously for four years, during which time it
+punched millions of holes, and to-day is as correct in its work as when
+first used.
+
+It is impossible within the scope of this book to describe all the
+various types of perforation apparatus now in vogue, more especially as
+their interest lies mainly in highly technical details. I will content
+myself with describing three machines which exemplify the three most
+important methods of perforation.
+
+As this operation has to be carried out in the dark room in the dim
+light of a ruby lamp, it is imperative that the machines should be of
+the most simple design and operation, demanding the minimum of labour
+on the part of the operator.
+
+[Illustration: THE WILLIAMSON FILM PERFORATOR.
+
+ _For explanation of design and operation see page 62._
+]
+
+In the Williamson perforator, four holes on either side of the film
+are punched at one time, and two films are perforated simultaneously,
+the sensitised surfaces being face to face. This arrangement obviates
+the danger of scratching or rubbing the sensitised surface during the
+operation. One coil of plain film is mounted on the spool _A_, and
+another on the lower spool _B_. The leads from these two spools are
+taken between the rollers _C_ on to a small platform or guide gate _D_,
+where the two superimposed films are brought accurately together to
+pass under the punches. These are mounted in two rows, the requisite
+distance apart, in a moving head piece _E_, which descends at the
+critical moment, the punches piercing the films cleanly and sharply,
+the pieces of detached celluloid falling into a receptacle on the floor
+beneath.
+
+When the head containing the punches rises, the two hooked fingers or
+claws _F_ engage a hole on either side of the films, and pull them
+forward ready for the punching of the next four pairs of holes. In
+addition to carrying four pairs of punches, the head _E_ carries four
+pairs of projecting pins, set to the same gauge, and before the punch
+descends these guide pins engage with the four preceding pairs of
+holes, so that the distance between the sets of four holes on either
+side is bound to be exactly the same as between any two consecutive
+holes made simultaneously. The result is that the holes are perforated
+with absolute mathematical accuracy.
+
+As the film emerges from the perforator proper, it is passed between
+two guide rollers and a toothed sprocket _G_, which meshes with the
+perforations, and thence the lower film passes to the re-winding spool
+_H_, and the upper film to the spool _J_. Between the perforating plate
+and the respective rollers _C_ and _G_, small loops will be observed.
+These are provided for the purpose of obviating any pull upon the
+film while in the guide gate, and beneath the punches, which might
+otherwise destroy the alignment and accuracy of the gauge. These loops
+remain constant, but they can be altered at will while the machine
+is running without disturbing the actual perforation. The Williamson
+perforator can be run under power at a relatively high speed, the wheel
+_K_ being capable of 400 revolutions per minute without impairing the
+accuracy of the work in the slightest degree.
+
+[Illustration: FIG. 5.--THE N.S. FILM PERFORATOR.]
+
+A different type of machine is represented in the “N.S.” perforator,
+Fig. 5. In this instance the coil of plain film _A_ is set up in a
+convenient position away from the machine, but in such a manner that
+the feed thereto is in an easy curve. The film enters the machine
+through two roller guides, _C_ and _D_, to a channel _F_, and then
+under the dies in the top plate _L_. The punctured pieces of film fall
+away clear of the instrument through the tube _N_, so that there is no
+probability of such particles fouling the mechanism and thus possibly
+upsetting the accurate working of the apparatus. After being perforated
+the film is moved forward by means of guide pins, and finally issues
+through a guide _B_ to be re-coiled. This apparatus is very convenient
+for driving by power, is simple, efficient in its operation, and owing
+to the solidity of its construction there is little possibility of
+the precision of the gauge being upset by wear and tear, or by other
+external influences. The gauge, moreover, can be altered, if desired,
+to as small a degree as 1/100th of an inch per foot. As the positive
+film shrinks somewhat after development, it is an advantage to be able
+to compensate for the contraction when perforating. When the film is
+dry, although it may have shrunk a trifle, it is found that the gauge
+is perfectly accurate.
+
+In the Urban-Joy perforator, only a single pair of holes is punched
+at a time--one on either side of the film. At first sight this method
+appears somewhat slow, but there is the distinct advantage that the
+holes are made with incontestable scientific precision, and after all
+this is the all-important factor. This machine is capable of the very
+finest adjustment, it being possible to vary the stroke of the punch to
+the millionth part of an inch. Its simplicity of operation is another
+distinct point. All strain upon the film is avoided for the simple
+reason that it is passed through the machine by the pendulum action of
+the punches. When these are disengaged the film is held in position by
+a clamp working in opposite step to the action of the punches.
+
+Years of labour have been expended upon the evolution of the
+perforator. The fruit of these efforts, however, is a material
+improvement in the steadiness of the picture upon the screen.
+
+[Illustration: THE PERFORATING ROOM OF THE CINES COMPANY IN ROME.
+
+The operation has to be carried out in ruby light.]

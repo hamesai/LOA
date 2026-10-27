@@ -1,0 +1,431 @@
+Chapter 12: Optics and Depth of Field
+
+11.1. (previous page) One of the best known and most fascinating uses of optics — the mirage shot from Lawrence of Arabia (Columbia Pictures, 62.)
+
+11.2. (below) Angle of incidence equals angle of reflection.
+
+Except for certain minor differences, the principles of optics and the use of lenses is the same for film and video. Nearly all principles of optics and optical design are based on a few laws of physics. The two most basic are reflection and refraction. There are a few things we need to know about the basic behavior of light in order to understand the fundamentals of optics.
+
+PHYSICAL BASIS OF OPTICS
+
+Aside from lighting sources most things in the real world do not emit visible light but reflect natural or artificial light. For instance, an apple appears a shiny red color because it has a relatively smooth surface that absorbs other non-red (such as green, blue. yellow) wavelengths of light. The reflection of light can be roughly categorized into two types of reflection: specular reflection is defined as light reflected from a smooth surface at a definite angle, and diffuse reflection, which is produced by rough surfaces that tend to reflect light in all directions. There are far more occurrences of diffuse reflection than specular reflection in our everyday environment.
+
+The basic rule of reflection, known to any schoolchild is: the angle of incidence equals the angle of reflection (Figure 11.2). The amount of light reflected by an object is dependent upon the texture of the surface. When surface imperfections are smaller than the wavelength of the incident light (as in the case of a mirror), virtually all of the light is reflected. In everyday language — it’s shiny. However, in the real world most objects have convoluted surfaces that exhibit a diffuse reflection, with the incident light being reflected in all directions.
+
+As will be discussed in the chapter on lighting, diffusion is also a key element in controlling light that is transmitted through things: namely diffusion materials. In both cases, diffusion means the same thing: the light rays are more scattered in all directions after they are reflected or transmitted than they were before. The opposite of reflection, absorption, is of interest in two ways. First of all it is how objects have “color” (see chapter on Color Theory) and secondly it is how we control light on the set.
+
+REFRACTION
+
+The refraction of visible light is an important characteristic of lenses that allows them to focus a beam of light onto a single point. Refraction, or bending of the light, occurs as light passes from one medium to another when there is a difference in the index of refraction between the two materials.
+
+Refractive index is defined as the relative speed at which light moves through a material with respect to its speed in a vacuum. By definition, the refractive index of a vacuum is defined as having a value of 1.0. The refractive indices of all transparent materials are therefore greater than 1.0.
+
+When light passes from a less dense medium such as air to 4 more dense medium such as glass, the speed of the wave decreases. Conversely, when light passes from a more dense medium to a less dense medium, the speed of the wave increases. The angle of refracted light is dependent upon both the angle of incidence and the composition of the material into which it is entering. We can define the normal as a line perpendicular to the boundary between two substances.
+
+The concept of refractive index is illustrated in Figure 11.3 for the case of light passing from air through both glass and water.
+
+Notice that while both beams enter the denser material through the same angle of incidence with respect to the normal (60 degrees), cinematography the refraction for glass is almost 6 degrees more than that for water due to the higher refractive index of glass. The index of refraction varies with the frequency of radiation (or wavelength) of light. This occurs with all transparent media and is called dispersion.
+
+As the wavelength of light increases, the refractive index decreases.
+
+It is the dispersion of light by glass that is responsible for the familiar splitting of light into its component colors by a prism.
+
+This is important in optics for film and video in that it means that the various wavelengths, that is colors, of light do not interact with the glass of the lens in exactly the same way. Poorly designed lenses will not focus all colors on exactly the same plane. Modern lenses. however, are designed to deal with this and it is not a significant problem.
+
+When measuring the refractive index of a transparent material, the particular wavelength used in the measurement must be identified. This is because dispersion is wavelength-dependent. When the beams exit the glass and water, they are again refracted at the same angle that they entered the materials.
+
+Refraction of light is important in the construction and physics of lenses. In a convex lens, as illustrated below, light waves reflected from the object are bent towards the optical center of the lens and converge on the focal point.
+
+The relative position of the object with respect to the front focal point of the lens determines how the object is imaged. If the object is beyond twice the length of the focal point, then it appears smaller and inverted and must be imaged by an additional lens in order to magnify the size. However, when the image is closer to the lens than the focal point, the image appears upright and larger, as can be easily demonstrated with a simple magnifying glass.
+
+It is one thing to have the lens form an image on the focal plane but the amount of light that reaches it must be controlled. This is done with an aperture, which is nothing more than a variable size hole that is placed in the optical axis.
+
+F/STOP
+
+The f/number or f/stop of a lens is a measure of its ability to pass light. A lens with an f/stop of 1.0 would theoretically pass all of the light reaching through to the focal plane. The f/stop is the ratio of the focal length of a lens to the diameter of the entrance pupil. However this is a purely mathematical calculation that does not account for the varying efficiency of different lens designs.
+
+T/stop (true stop) is a measurement of actual light transmission as measured on an optical bench. F/stops are used in depth-of-field and hyperfocal calculations and T/stops are used in setting exposure.
+
+When setting the aperture on a lens never go backwards. Most apertures have a certain amount of backlash which must be compensated for. If it is necessary to go to a larger stop (i.e., “open up”) open the lens all the way up and then reset the stop.
+
+BASIC MATHEMATICS OF OPTICS
+
+The fundamental optical equations use these terms:
+
+D= distance O= object size F = focal length A = aperture size (the diaphragm)
+
+Optical equations can get quite complex but the basics that we need to understand as working cinematographers and videographers are simple.
+
+Low retractr ve index High refractive index 11.3. Refraction.
+
+optics cinematography The fundamental formula is:
+
+DO= => Ax F
+
+Variations on this are:
+
+OxF
+
+D=
+
+APiesnes. = object size x focal length , aperture size ga”
+
+~~ F distance x aperture size Object Size = :
+
+: focal length DxA
+
+F = Odistance x aperture size object size Focal Length = FxO nn focal length x object size distance In anamorphic photography the aperture width is equal to 2A.
+
+Aperture size = FOCUS
+
+Focus is a much misunderstood aspect of filmmaking. What is “in focus?” Theoretically, it means that the actual object is projected onto the film or video “as it appears in real life.”
+
+The human eye tends to perceive everything as in focus, but this is a result of the eye/brain interaction. The eye is basically an f/2 optic and may be considered a fairly “wide angle” lens, so much of the world actually ts in focus, certainly in brightly lit situations. But, nearly imperceptible to us, the focus is constantly shifting. This is accomplished by the muscles that control the lens of the eye. They distort its shape to shift the focus. If you look at something very close in a dimly lit situation, the background will be out of focus. but most likely you will not perceive it - because you are “looking” at the near object. By “looking” I mean that your brain is focusing your attention on the near object. This is what differentiates the eye from a camera: our mental focus is a condition of our consciousness and attention — the camera simply records everything.
+
+As we will see later, a great number of the practices of focus: focal length, composing the frame and even lighting, are attempts to re create this mental aspect of focus and attention. We are using the camera to imitate how the eye and brain work together to tell a visual story in an imitation of how life is perceived by the mind.
+
+First, the technical basics: the taking lens is the optical system that projects the image onto the film or video sensor, which is called the image plane. The image plane is two-dimensional. As we discussed in the chapter on Filmspace, all imaging, whether photography, cinema, video or even painting is the act of taking a three-dimensional world and rendering it onto this two-dimensional plane.
+
+When discussing focus, we often tend to think only in terms of the flat image plane, but it is more useful to remember that the lens ts forming a three dimensional image in space: not a flat picture plane.
+
+It is the flat picture plane that must be “focused” onto. It is the only part of the image that gets recorded. This will be especially relevant when we get to the circle of confusion. (Some may think we are in the circle of confusion already, but stick with it, this is important.)
+
+The image plane is also called the Principal Plane of Focus; sort of the uptown business address for what we commonly call the focal plane. Think of it this way: we are shooting a scene that has some foreground bushes, a woman standing in the middle and some mountains behind her, The woman is our subject. We focus the lens so that she is sharply projected onto the image plane.
+
+In our three-dimensional model, the bushes and the mountains are projected behind the lens, but in front of her and behind her. In other words they are being projected into the camera, but in front of and behind the Principal Plane of Focus. As a result they are out of focus. By shifting the focus of the lens, or by stopping down, or using a wider angle lens we can bring them into focus, but let’s assume we are shooting wide open with a fairly long lens. By changing the focus of the lens, what we are actually doing is shifting that three-dimensional image backwards and forwards. If we shift it backwards, the mountains are focused on the image plane: if we shift forwards. the bushes are focused. Only objects that are projected sharply on the image plane are actually in “critical focus.”
+
+But there are many objects that are only slightly in front of or behind the principal subject. If we stop down a little, thus increasing depth-of-field, they appear sharp (Figures 11.4 and 11.5). Note also that depth-of-field is different from depth-of-focus, as in Figure 11.6.
+
+But they are not actually sharp. This is called apparent focus. What is the boundary line between actual focus and apparent focus. There is none; at least not technically definable. It is a very subjective call that depends on many factors: perception, critical judgment, the resolving power of the lens, the resolving power of the film or video, the amount of diffusion. the surface qualities of the subject, lighting and so on. Also very important is the end use of the footage. Something that appears in focus on a small television might be horribly soft on an Imax sereen. There is a technical measurement of critical focus which is discussed below — it is called the circle of confusion but as we will see, it is a mathematical measurement which ts based on certain judgment calls.
+
+MENTAL FOCUS
+
+As we discussed in the eye/brain phenomenon, the viewing audience is subject to the same tendency: they will focus their attention on the part of the image that is “in focus.” This is an important psychological function that is extremely valuable in visual imagery and storytelling with a lens.
+
+Depth of focus tt Depth of field t—t 11.4. (top) The cone of focus on the imaging side of a converging lens.
+
+11.5. (above) As the lens is focused, the cone of focus moves back and forth. The goal is to put the smallest point of the cone exactly at the imaging plane.
+
+11.6. peru vernee is an the subject side of the lens, depth-of-focus is at the image plane.
+
+optics There is a long history of the shift from deep focus so much favored in the black-and-white era (used most notably by Orson Welles and Gregg Toland in Citizen Kane and The Magnificent Ambersons) and the current trend to limited depth-of-field favored today, not to mention the recent use of “tilted focus” so much favored by music video and commercial directors. More on that later.
+
+But cinematographers and videographers are engaged not only in shaping mental perception; they are technicians also. We need some way of quantifying focus, however arbitrary that might be. Let’s think about a single ray of light. for example an infinitely small (or at least a very tiny) point of light that is the only thing in the field of view. This sends a single ray of light toward the lens. As the ray of light leaves the object, it expands outward; no set of light rays is truly parallel, not even a laser or the light from a distant start.
+
+The lens captures these slightly expanding rays of light and recon-centrates them: this bends them back toward each other. This forms a cone behind the lens. Where these rays actually meet (and keep in mind that we are talking about the rays of a single point of light) is where the image is in focus. The lens can then be adjusted so that this single point of light is sharply focused on the image plane: that is, it appears to be just as small on the image plane as it does in life.
+
+Now, we shift the lens so that the image of the dot of light is not exactly at the image plane. What happens? The image of the dot gets larger because we are no longer at the confluence of the rays of light as concentrated by the lens. If we do this only slightly, no one may notice. We say that this is still acceptable focus. If we shift a lot. most people would then perceive it as not acceptable focus, but as we have pointed out, this is all subjective. Based on a general consensus taking into account the various factors involved. imaging scientists have quantified how much bigger that dot can get and still be deemed acceptable focus for most general use purposes.
+
+CIRCLE OF CONFUSION
+
+The term for this is “circle of confusion” (it is not to be confused with the circle of confusion created when several producers gather round and start talking about cinematography). The circle of confusion is basically a measure of how large the projected image of a true point source can be before it is considered to be unacceptably out of focus. Theoretically, of course, the point of light projected Aperture wide open ~_ Aperture stopped down _ 11.7. How stopping down affects the circle of confusion.
+
+cinematography onto the film plane should be the same size as the infinitely small point of light it is seeing, but due to the nature of optics it can never be perfect. For film work in 6mm, the circle of confusion varies from 1/2000” (.0005”) for critical applications to 1/1000” (.0001”).
+
+For 35mm it ranges from 1/700” (.00014”) to 1/500” (.002”).
+
+The circle of confusion is smaller for 16mm because 16mm has to be blown-up more to achieve the same image size on the screen or monitor. The circle of confusion is most important in the calculation of depth-of-field. Whenever you look at a depth-of-field chart, you will see listed the circle of confusion used in the calculations. It is important to remember that the end use of the footage is an important consideration in making these judgments.
+
+DEPTH-OF-FIELD
+
+Back to our model ofa three dimensional projected image. The portion of this image that falls on the image plane and is within the circle of confusion is called the depth-of-field. It has a near and far limit. A number of factors affect depth-of-field:
+
+* Focal length of the taking lens. The shorter the focal length, the more the depth-of-field.
+
+* The aperture of the lens. The smaller the aperture, the greater the depth-of-field.
+
++ Image magnification (object distance). The closer the subject is to the image plane. the less the depth-of-field.
+
++ The circle of confusion selected for the situation. (Remember, they are different for 16mm and 35mm).
+
+* Indirectly: the resolving power of lens and film, end use, diffusion. fog, smoke, the type of subject.
+
+With a tendency to use faster films and longer lenses in darker, “low-key” light, depth-of-field is a critical issue. With a 150mm lens doing a tight close-up of a face, it is not unusual for your focus puller to ask, “which eye do you want in focus?” The general practice is that critical focus should be on the pupils of the eyes, but it may not be necessary to get them both: in this case it is your judgment call to decide which one is more important. As a general rule: depth-of-field is not evenly distributed in front of and in back of the plane of critical focus. Usually, it is one third in front and 2/3 behind.
+
+This is because behind the plane of focus is, of course, farther away.
+
+DEPTH-OF-FIELD CALCULATIONS
+
+Depth-of-field is a plane of focus perpendicular to the optical axis where objects are focused to acceptable sharpness. The near and far planes of sharpness are calculated:
+
+_ HAxs ND= H +(S-F)
+
+— HxS Da. GB
+
+ND = Near distance FD = Far distance Ht = Hypertocal distance S = Distance from camera to object F = Focal length of the lens HOW NOT TO GET MORE DEPTH-OF-FIELD
+
+As a result of the basic principles of physics. wide angle lenses will have more depth-of-field at a given f{/stop. Here we must dispel one of the most persistent and pernicious myths of filmmaking. Many people still believe that if you are having trouble getting the impor-optics 11.8. A true nodal point head by eagns (Photo courtesy of Cartoni, pA.
+
+cinematography 184 tant elements in focus, the answer is to put on a wider angle lens and you will have greater depth-of-field. Technically true, but in actual practice, they then move the camera forward so they have the same frame size. The actual result? You end up with exactly the same depth-of-field you started with! This is because you have moved the camera forward and end up with same image magnification. It is image magnification that is the critical factor. If you have a 6’ tall person from head to toe in the frame with a 50mm lens and you then put on a 24mm lens, you have to move the camera significantly forward, You are decreasing subject distance and increasing image magnification, both of which decrease depth-of-field.
+
+DEPTH-OF-FIELD
+
+Depth-of-field is another term that occasionally creates confusion.
+
+Depth-of-field is a measure of how much in front of or behind the critically focused subject is also deemed to be in acceptable focus.
+
+It is a measure of distance at the subject. Depth-of-field is a measure of distance at the image plane. Think back to our three-dimensional projected image. Depth-of-field relates to how much of the projected image is in apparent focus (Figure 11.6), HYPERFOCAL DISTANCE
+
+For every focal length and f/stop there is a particular focus distance which is special: the hyperfocal distance. This is the closest focus distance at which both objects at infinity and closer objects are in focus, When a lens is set at the hyperfocal distance, everything from 1/2 of the hyperfocal distance to infinity will be in focus.
+
+The formula for hyperfocal distance is F?
+
+H’= 25 f*Ce F = focal length of lens f = f/stop number Ce = circle of confusion There are two ways of defining hyperfocal distance (HD).
+
+First: Hyperfocal distance is the focus setting of the lens when objects at infinity and objects at the nearest point to the camera are both in acceptable focus.
+
+Second: If the lens is set at the hyperfocal distance. both objects at infinity and at 1/2 of that hyperfocal distance will be in acceptable focus. Most lens charts will list the hyperfocal distance for various lenses at any given f/stop. (Remember, f/stops are used for optical calculations and t/stops are used for setting the aperture.) For example; for a 50mm lens at f/8 with a circle of confusion of O01”, the hyperfocal distance is 40 feet. Thus if you set the focus distance at 40 feet, everything from 20 feet to infinity will be in focus.
+
+Opening up two stops doubles the hyperfocal distance. e.g.. it goes from 40 feet at f/8 to 80 feet at f/4. Conversely closing down two stops decreases the hyperfocal distance by one half. Another characteristic of hyperfocal distance is this. When the lens is set at HD, depth-of-field extends from 1/2 HD to infinity. When the lens is set at 1/2 of HD, the DOF is from 1/3 of HD to infinity and so on.
+
+NODAL POINTS
+
+Another enduring myth of depth-of-field is that all depth-of-field calculations are from the image plane. Even some of the most experienced camera assistants will tell you this. It’s not true. Depth-of-field is calculated from the Front Nodal Point. This is accounted for in most depth-ol-field charts.
+
+“Nodal points” are the two points such that a light ray entering the Lens set at infinity | = tied ——— = — Hypertocal distance Subject at infinity Cy} *® ’ x | Nearest point in tocus with lens set at infinity Lens set at hyperfocal distance | 1/2 of hyperfocal distance Subject at infinity t - 7 -| Everything trorm intinity to 1/2 of hypertocal distance is in focus front of the lens and headed straight toward the front nodal point will emerge going straight away from the rear nodal point at exactly the same angle to the lens axis as the entering ray had. The nodal points are identical to the principal points when the front and rear media are the same, ¢.g.. air, so for most practical purposes the terms can be used interchangeably.
+
+In simple double convex lenses the two principal points are somewhere inside the lens (actually 1/n-th the way from the surface to the center, where n is the index of refraction), but ina complex lens they can be almost anywhere, including outside the lens, or with the rear principal point in front of the front principal point. Ina lens with elements that are fixed relative to each other, the principal points are fixed relative to the glass. In zoom or internal focusing lenses the principal points may move relative to the glass and each other when zooming or focusing.
+
+When a camera lens is focused at infinity, the rear principal point is exactly one focal length in front of the film. To find the front principal point, take the lens off the camera and let light from a distant object pass through it “backwards.” Find the point where the image is formed. and measure toward the lens one focal length. With some lenses, particularly ultra wides, you can’t do this, since the image is not formed in front of the front element.
+
+Entrance pupil and exit pupils are not often where we think they should be — at the front and back of the lens. The accompanying diagram shows how they are calculated. In fact, for some lens designs, it is possible for the front entrance pupil to actually be behind the film plane. An example: ona Zeiss 50mm lens at {/2.1 the FNP is 34.5mm back from the front vertex of the lens and the lens is a total of 77.9mm from the front vertex to the focal plane.
+
+This means that for this lens at this f/stop, focus and depth-of-field are measured starting at 34.5mm back from the middle of the front element. Don’t panic — in actual practice this is compensated for in 11.9. Two aspects of hyperfocal distance.
+
+optics 11.10. The principal points of a lens system. These are typical only; in practice they can vary widely in location.
+
+11.11. A typical zoom. (Photo courtesy of Century Precision Optics.)
+
+cinematography 186
+
+Image ra plane Optical axis Entrance pupil Exit pupil Front nodal point Rear nodal point (typical) (typical)
+
+depth-of-field charts, which add a fixed distance in front of the focal plane which varies for prime lenses and zooms. This also explains why there might be very slight differences between focus charts from different manufacturers.
+
+For simplicity, all actual distance measurements in the field are from the focal plane. All cameras have either a mark at the focal plane and usually also a protruding screw to which the camera assistant can attach a measuring tape. The discrepancy may only become a factor in extreme macro work, in which case it is often best to rely on eye focus wherever possible.
+
+THE REAR NODAL POINT AND SPECIAL EFFECTS SHOTS
+
+The Rear Nodal Point is also important for lining up special effects shots through half silvered mirrors, certain types of panning shots where the camera must be panned or tilted without shifting the image and also in front projection.
+
+If manufacturers data are not available, the nodal point on which the camera must rotate can be determined in the field by mounting the camera on a head which has a slide plate. Then mount a cross on a c-stand in front of the camera. On the wall behind, mount a same-size cross so that the two are congruent, i-e., the front cross perfectly covers the back one. Then experiment with sliding the camera back and forth until you find a position where you can pan the camera and the rear cross stays centered behind the front cross. You have found the nodal point of the lens and centered it over the pivot point of the panning head. In some cases, side to side alignment may also be necessary, for example, when a small camera is mounted on a larger head such as the old “aircraft carrier” Worral geared head.
+
+With all but the simplest single element lenses, the FNP and Entrance Pupil have no relation to the position of the front clement, type of lens or who made it. They are all different and can only be determined by complex optical formulae. For this reason, it is often necessary to obtain this information from the lens manufacturer, On these charts, the FNP is measured from the vertex of the front element backwards towards the focal plane.
+
+ZOOMS AND DEPTH-OF-FIELD
+
+Zooms (Figure [1.11) have some special characteristics when it comes to depth-of-field. As we discussed previously, depth-of-field is not measured from the film plane or video receptor. In fact it is measured from the nodal point of the lens. Depth-of-field charts compensate for this in a general way by adding a fixed amount in front of the focal plane. This is why you may see different DOF charts for zooms and primes at equivalent focal lengths.
+
+The issue with variable focal length lenses is that as they are zoomed, the nodal point may actually shift. With some zooms the nodal point actually ends up 5” behind the film plane at its long end.
+
+With the old Cooke 20/100 the range was about 10.5” in front of the film plane at 20mm, and 5” in front of the film plane at 100mm.
+
+Motion control rigs that keep the nodal point over the pan center use a long worm gear that moves the camera/zoom back and forth over the center point as you zoom, In practical depth-of-field applications with zoom lenses the only thing that is really of any consequence to us is at the wide end, where the nodal point is typically around 10” in front of the film plane. Thus if you are shooting a close-up at the wide end of a zoom it’s as if you were 10° closer to your subject matter. Being closer you of course have less depth-of-field. This is one of the reasons that zooms are seldom used in macro, table-top and other critical focus applications.
+
+MACROPHOTOGRAPHY
+
+For extreme close-up work, called macrophotography, it is more useful to think in terms of image magnification instead of depth-of-field. Macrophotography is any imaging where the image size is near to or greater than the actual size of the object. For example, photographing a postage stamp full frame is macro work.
+
+Regular prime lenses can seldom focus closer than 9 or 10 inches: zooms generally have a minimum of around 2 to 3 feet. Extreme close-up photography has a set of problems all its own. The most critical aspect of macro work is the degree of magnification. A magnification of 1:1 means that the object will be reproduced on film actual size, that is an object that is 1/2” in reality will produce an image on the negative (or video tube) of 1/2”. 1:2 will be 1/2 size, 1:3 will be 1/3 size and so on. In film, the 35mm academy frame is 16mm high and 22mm wide. In 1:1 reproduction a 22mm object will fill the entire frame. Most lenses of ordinary design can focus no closer than a ratio of 1:8 or 1:10.
+
+11.12. Front and back of the Guild Kelly calculator.
+
+optics cinematography EXPOSURE COMPENSATION IN MACROPHOTOGRAPHY
+
+When a small image is being “spread” over a large piece of film. it naturally produces less exposure. With reproduction ratio’s of greater than 1:10, exposure compensation is necessary. The formula 1S:
+
+f/stop determined by meter | + magnification ratio Example: meter reading ts f/8. Your reproduction ratio is 1:2 or 1/2 size. The calculation is 8/(1+.5) = 5.3 DEPTH-OF-FIELD IN CLOSE-UP WORK
+
+There are many misconceptions associated with macrophotography: perhaps the most basic is that “wide angle lenses have more depth-of-field.” Depth-of-field is a function of image size, not focal length.
+
+While it is true that wide angle lenses have more depth-of-field, the problem is that once you have put a wider lens on, you still want the same image you had before and in order to accomplish that, you must move the camera closer to the subject. Once you have done this, the depth-of-field is exactly the same as it was before, since focus distance is also an important determinant of depth-ol-field.
+
+The important aspects are:
+
+* Depth-of-field decreases as magnification increases. * Depth-of-field decreases as focus distance decreases. * Depth-of-field is doubled by closing down the lens two stops.
+
+Shooting f/stop = Calculating Depth-Of-Field In Extreme Close-up Work
+
+Calculation of depth-of-field in extreme close-up work methods in different from normal. At magnifications greater than 1:10, the depth-of-field is extremely small and it is easier to calculate the total depth-of-field rather than a near and far limit of the zone of focus.
+
+Total depth-of-field is calculated by the following formula: _2C x N(1+M)
+
+- mv Dt= total depth-of-field C = circle of confusion N = f/number m= magnification Where magnification is calculated by the formula:
+
+image size object size LENS DISPLACEMENT WHEN FOCUSED CLOSER THAN INFINITY
+
+When focused closer than infinity front elements of the lens (or all the elements) are moved away from the focal plane. This is important in calculating exposure loss in extreme close-up work.
+
+Dt magnification = d = lens displacement from infinity position f = focal length of lens in inches a = distance focus in inches CLOSE-UP TOOLS
+
+Extreme close-up photography can be accomplished with a variety of tools: as with all optics, the basics are the same whether you are shooting film. digital, regular video or High Def.
+
+DIOPTERS
+
+Diopters are simple meniscus lenses which are placed in front of the camera lens and reduce the minimum focusing distance of the lens. The lenses are measured in diopters, which is the reciprocal of the focal length as measured in meters. A plus | diopter has a focal length of | meter, a plus 2 is 1/2 meter, ete. Minimum focusing distance with the lens set at infinity is determined by dividing the diopter number into 100cm. For example, a +2 diopter is 100/2 = 50 cm. This equals 19.68 inches. You will actually be able to focus a bit closer by changing the focus of the lens itself.
+
+A diopter is defined as the reciprocal of the focus of this accessory lens in meters, that is, one divided by the focal length. Thus a plus one is a magnifying lens of one meter’s focus; a plus 1/2 is a milder magnifier that focuses at two meters. A plus two focuses at one-half meter, 500mm. A plus three at 333mm, This spec shows you the farthest working distance you can work: put a plus one-half on your normal camera lens, set it on infinity, the farthest, and objects two meters away are in focus. Nothing farther could be shot sharp. Put on a plus one and the max working distance is one meter. Put on a plus two and stuff has to be 500mm, or half a meter, or about 19” away (from the front of the diopter, not the film plane) to achieve sharpness. All those cases are with the main lens (prime or zoom) “set at infinity.” Of course you can go closer. depending on the closer focus of the main lens.
+
+A split diopter is one of these magnifiers split in half, like a half-moon. It covers half your field, and the stuff seen through the glass is focused closer, and the other half, which is missing (just air) will be focused where the main lens is set. Put a plus one-half split on your camera. Focus the main lens at infinity. One half of the field, through the diopter, is sharp at 2 meters. The rest of the field is focused at infinity. If you set the main lens at 15 feet, the clear half is focused at fifteen feet and the diopter-covered half might focus at [-1/3 meters.
+
+The point is to fake deep-focus effects. There’s a fuzzy line at the edge of the split diopter in the middle of your picture, and this has to be hidden artfully in the composition. Most of these shots are lock-offs. that is, static camera. As a rule, all diopter shots should be done stopped down to protect image quality, as diopters are not heavily corrected for color fringing and other aberrations.
+
+Split diopters have a lens on one half and clear glass or nothing on the other side, which enables a shot to be in focus close-up on one side and at a distance on another side. This gives the appearance of a very deep focus shot. Since the line between the two will be slightly perceptible it is usually necessary to hide the line in some way. It is often possible to frame up the shot so that a door frame, lamp, tree or some other object falls along the line of the split diopter and thus disguises it. Diopter recommendations include:
+
+* Use the lowest power diopter you can, combined with a longer focal length lens, if necessary.
+
+* Stop down as much as possible.
+
++ There is no need for exposure compensation with diopters. * When using two diopters together, add the diopter factors and always place the highest power closest to the lens.
+
+EXTENSION TUBES OR BELLOWS
+
+The advantage of extension tubes or bellows ts that they do not alter the optics at all. thus there is no degradation of the image. Extension tubes are rings which hold the lens farther away from the film plane than it normally sits, thus reducing the minimum focus distance.
+
+Table 11.1. Focus with diopters.
+
+Diopter - Focus Conversion Chart
+
+(can be used with any focal length - any format)
+
+Focus Actual distance Diopter power distance from diopter _| of lens to subject Infinity | 78-3/4”
+
+25° 62-1/2”
+
++1/2 15° 54-3/4”
+
+10° 47-1/2”
+
+e 37-3/4”
+
+4 29-3/4”
+
+Infinity 39-1/2”
+
+25 34-3/4”
+
++1 15’ 32-1/2”
+
+10° 29-3/4”
+
+o 25-1/4”
+
+4 21-3/4”
+
+Infinity 19-3/4”
+
+25° 18-1/2”
+
++2 15° 17-3/4”
+
+10° 16-3/4”
+
+6 15-1/2”
+
+cy 14”
+
+Infinity 13-174”
+
+25° 12-1/2”
+
++3 15° 12-14”
+
+10° 11-3/a”
+
+6 17-1/4”
+
+4 10-1/2”
+
+optics 11.13.
+
+i The Revolution lens system.
+
+(Photo courtesy of Keslow Camera.)
+
+A bellows unit is the same idea but is continuously variable with rack and pinion. Either will give good results down to about | a Extension tubes are generally incompatible with wide ang e or zoom lenses, Lenses with larger minimum apertures generally give better results than high speed lenses. Optically, the best results at very high Meé ignifications are obtained by reversing the lens (so that the back of the lens faces the subject) and mounting on a bellows unit. The simple rule is: to achieve |:1 reproduction, the extension must equal th e focal length of the lens. For 1:1 with a 501 would need a 50mm extension.
+
+nm, for example, you A variation of this is the swing-and-tilt mount, which gives the lens mount the same kind of controls used in a view camera. The lens cannot only be extended for macro work, but the plane of focus can also be tilted. This permits part of the image to be in focus and part of the image on the same plane to be out of focus. This had its vogue as a popular look in commercials and music videos.
+
+MACRO LENSES
+
+Macro lenses are actually specially designed optics, optimized for fo design from ordinary prime lenses. For the lenses are primes that have had the “stop” pin cus barrel can rotate more than a full rotatior an normal.
+
+SNORKLES AND INNOVISION
+
+Several types of “snorkle” lenses are availab sc close-up work. They are good in the 1:2 to 1:1 range. Some macros have barrel markings for magnification ratio as well as focus distance; this facilitates calculating the exposure compensation CLOSE FOCUS LENSES
+
+Close focus lenses differ from macros in that they are no different nost part, close focus § removed so that the and thus focus closer e which are like peri-opes. They generally allow for extremely c ose focus and for getting the lens into incredibly small spaces. C entury Precision Optics.
+
+Cine Photo Tech and other companies mi units Some units require exposure compense ition ond some have the compensation built of t he units are immersible in water.
+
+in; be sure to check which type you are using. Some Innovision ts a snorkle type lens which can be fitted on both video and motion picture cameras for extreme close-up work. It has the advantage of an extremely narrow which can reach inside very small areas, even inside flowers. The f/stop is fixed and ts very high, around {/32 to {/45, depending on the application, however, a high f/stop is generally needed for extreme close-up work in any case. Innovision has its own light source which is a small ring around the front element of the lens. It is a fibre optics rig and is remotely lit from a separate unit. It is approximately daylight balance and can be gelled inside the power unit for special effects or to match other sources in the shot.
+
+FRAZIER LENS AND REVOLUTION
+
+Specialized applications of the snorkle are the Frazier lens and the Revolution system (Figure 11.13). These have remarkable depth-of-field which seems to defy physics (it doesn’t really) and also allows for the lens itself to rotate, pan and tilt. It is possible to have objects which are actually touching the lens in focus and still maintain usable depth in the distance. They can be used in conjunction ith perspective control lenses such as the tilt focus lens shown in Figure 11.15, The Frazier has a maximum stop of T/7: as a bonus italso minimizes the distortion normally associated with very wide angle lenses. The Kenworth snorkle is similar to these = = 11.14.
+
+courtesy snorkle s\ 1 L of Mark Weingartne
+
+LENS EXTENDERS AND FILTER FACTORS
+
+Optical devices which increase the focal length of the lens have a corresponding effect on t/stop. To find the filter factor, square the extension factor. For example a 2X optic will have a filter factor of 4 and a3X extender will have a filter factor of 9. A factor of 4 translates to 2 stops and 9 translates to approximately 3 stops, thus a 2X extender will turn a 200mm {/4 lens into a 400mm 1/8 lens. When combining extenders, the factors must be multiplied. For example a 2X and 3X extender together would have a factor 36 (five stop increase in exposure). For best results, extenders need to be stopped down TILT FOCUS
+
+Lenses which can tlt the plane of focus at the image plane were — 44 46 (bottom) A full swing m, (Photo courtesy ion Optics.)
+
+originally developed for perspective control such as reducing the ‘kevstoning” when photographing architecture. They are based on the same principle as a view camera. Understanding view camera photography is essential in order to get the maximum benefit from this type of rig.
+
+In the last few years they have gained popularity in commercials and music videos for their ability to render objects at the same image distance in and out of focus at the same time. As with many visual innovations. the trend was started by fashion photographers. lilt focus can be accomplished with a tilt focus lens, such as Figure 11.15 but for maximum movement, a special adapter (Figure 11.16)
+
+allows the lens to be moved tn all axes.
+
+LENS CARE
+
+* Never clean a lens with dry lens tissue.
+
+* Never put lens fluid on a lens; put it on the lens tissue * Brush or blow olf loose ‘it before wiping with lens tissue * Never use eyeglass cleaning cloth; it may contain silicon.
+
+- In dusty or sandy conditions, try to keep a filter on the lens.
+
+* Never use rubber cement or nail polish to attach a filter to the rear of the lens, use 1/2” ATG (Scotch ATG-924) otherwise known as transfer tape or “snot tape.”
+
+° Alwavs close at least one latch on a lens case.
+
+* Protect all lenses from shock.
+
+11.17.Various types of lens tests. See text for a description of each.
+
+cinematography 192
+
+1 2 3
+
+—_— aT ——— 5 & | | | _———————— ——.
+
+LENS TESTS
+
+On the checkout day, the camera assistants will perform certain basic tests to ensure that the lenses you are renting are in good shape and properly matched so that there will not be severe changes in image quality or coloration when you change lenses on the set.
+
+Some tests are more involved and are performed by the maintenance technicians. The technicians will also test flange focal depth. which is the seating depth of the lens in its mount. Some camera assistants carry the equipment to perform this test in the field. As shown in Figure 11.17, the basic lens tests are:
+
+|. Resolution
+
+2. Corner resolution
+
+3. Vignetting
+
+4. Optical shift during focus
+
+5. Barrel distortion
+
+6. Pincushion distortion
+
+7. Collimation
+
+8. Infinity focus
+
+9. No veiling glare
+
+10. Consistent color rendition
+
+11. Contrast
+
+12. Depth-of-field video and high def

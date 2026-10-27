@@ -1,0 +1,149 @@
+Glossary
+
+Glossary
+
+THE SHOT
+
+Narrative films are made up of a series of shots. Also referred to as atake, a shot is defined as an uninterrupted run of the camera. Shots can be manipulated in many ways. The following terms, grouped under the headings of Editing, Shot Duration, Shot Type, Camera Movement, Camera Angle, Camera Lens, Lighting, Composition, Symbolism, and Sound, provide definitions of some of the most common techniques by which shots can be ordered and arranged for expressive effect in narrative films.
+
+EDITING
+
+MATCHES, OR TECHNIQUES OF CONTINUITY EDITING
+
+Continuity editing is a system of joining shots together to create the illusion of a continuous and clear narrative action. When a scene is broken up into a sequence of shots for the purpose of achieving greater dramatic emphasis in mainstream narrative films, the shots are usually reconnected smoothly so that viewers do not notice the cut or lose their orientation in screen space. This is often achieved by using matches or match cuts. Some of the common kinds of match or continuity cuts are defined below. For a comprehensive discussion of the techniques of continuity editing, see chapter 14, “Editing the Picture,” in Karel Reisz and Gavin Millar, The Technique of Film Editing, from which I have drawn the following definitions.
+
+259
+
+ movement match In a movement match, a movement or gesture of a character begun in one shot appears to be seamlessly continued or completed in the next shot. As a result, the viewer focuses on the movement and not on the cut. If movements from one shot to the next are not matched, that is, if the same action is repeated in adjacent shots or if a portion of the action is omitted from one shot to the next, the effect will be a noticeable jerk and the action will lose its illusion of seamless continuity. Another form of movement match occurs when the camera moves (tracks or pans) in the same direction at the same rate from shot to shot. Here the movement match is on the camera movement.
+
+direction match In a direction match, the direction in which a person or object is moving is consistent across the splice. If, for example, a character exits frame right in shot 1, he or she must enter from frame left in shot 2. If the direction is not matched, it will appear that the character has suddenly turned around and is moving in the opposite direction.
+
+eyeline match The glances of characters in separate shots seem to meet. In order to create this illusion, the direction of their glances must be consistent.
+
+For example, if the character on the left looks in the direction of screen right, the character on the right should look in the direction of screen left. shot/reverse shot A technique usually used to photograph two characters in conversation. Rather than photographing them in a two shot, that is, a shot in which two characters are shown together in the frame, the shots alternate between the two characters. First we see one character and then we see the second character from the reverse angle. Over-the-shoulder framings are common in shot/reverse shot editing: that is, the camera alternately photographs one character from over the shoulder of another, with a shoulder prominent in the foreground of each shot.
+
+axis match The angle from which the camera shoots the action remains the same from shot to shot. For example, if the first shot is a long shot and the second a medium shot, the camera moves forward without changing the angle from which the action is photographed. If the angle changes slightly, it will appear that elements in the background of the shot have shifted slightly, and the continuity will not be perceived as smooth. If there is a marked change in camera angle (in which the camera moves through 90 degrees) the shot will be perceived as smooth because the background will be markedly different and not create a confusing “jump” in the position of background objects. position match The position of an object or person remains in the same area of the frame from shot to shot. In a cut from pursuer to pursued, for example, the pursued person would appear in the same area of the frame as the pursuer.
+
+graphic match Any juxtaposition of graphically similar images, such as a cut from a spinning umbrella to a spinning train wheel. Vivid visual effects can also be achieved by deliberately contrasting graphics from one shot to the next so that, for example, a composition emphasizing vertical lines clashes in the next shot with a composition emphasizing horizontal lines.
+
+ rhythmic match Any juxtaposition of images with actions moving at similar rates or speeds. In the above example, the umbrella and wheel would be spinning at the same rate.
+
+jump cut A continuity mismatch in which the rules of continuity are violated, often resulting in the disorientation of the spectator. In jump cuts the characters seem to jump around in space against a constant background or the background suddenly changes while the characters remain in the same position. Jump cuts are sometimes deliberately created by directors who wish to call attention to the medium. Creators of experimental or art films often deliberately violate the rules of continuity cutting. Examples of the deliberate use of jump cuts can be found in Jean-Luc Godard’s Breathless(1959).
+
+OPTICAL TRANSITIONAL DEVICES
+
+These devices, often created in an optical printer, give a certain amount of pizzazz to transitions between shots. They are used to give dramatic or visual emphasis to marked ellipses in time and space, although they can be employed to enhance the technical smoothness of the transition between shots as well. Optical devices can also help to regulate the pacing of the film and can be used to emphasize symbolic associations between conjoined or adjacent shots. Common optical transitional devices include:
+
+iris-in A shot, found most often in silent films, that opens from darkness in an expanding circle of light. In an iris-out, the opposite happens. fade-in A shot that begins in darkness gradually brightens. In a fade-out,the shot gradually darkens until the screen goes black.
+
+dissolve A dissolve is the superimposition of the end of one shot onto the beginning of the next, so that the two images briefly overlap. In a lap dissolve, the superimposition of the two shots lingers, sometimes (as often happens in Citizen Kane) to make a symbolic point about the relation of the two shots. wipe In the simplest form of this technique, a vertical line appears to travel across the screen, removing (wiping out) as it travels the content of one shot, while simultaneously replacing it with the content of the next. Wipes can also be made using horizontal lines, diagonal lines, spirals, or circular shapes.
+
+CONVENTIONS OF SHOT CONTINUITY
+
+Developed early on in narrative film history, these are editing techniques that work to increase the spectator’s mental participation in the action of the film. point-of-view (pov) or eyeline shot A POV shot is the shot that immediately follows a shot in which we see a character looking at something offscreen or beyond the borders of the frame. The camera is positioned where the character’s eyes would be. Viewers are cued mentally to construct the shot as if they were viewing it from the point of view of a character in a film. The use of POV shots can establish powerful identifications between the specta- tor and the characters on the screen. Mentally, we merge with the on-screen characters, seeing the world as they do, from their point of view. Usually, POV shots are from the viewpoint of a protagonist with whom we are supposed to identify, but complicated effects can be achieved when the point-of-view shot is seen through the eyes of villains or monsters. Since POV shots create a strong illusion of being spatially contiguous or in close proximity to the person who is looking, they can achieve interesting effects when they regard objects we know are literally far away. For a disconcerting or surreal effect, a person standing in front of the White House can look offscreen and in the next shot appear to “see” an image of the Eiffel Tower. Soviet theorists called this effect “creative geography.”
+
+reaction shot A shot following a POV shot, revealing the reaction of the character from whose point of view we were looking.
+
+cross-cut A cut to another scene or line of action that is usually (but not always) spatially remote from the original line of action, but which seems to be happening simultaneously in time. A common use of the cross-cut that never seems to go out of fashion is alternating shots of an imperiled person with shots of another person coming to the rescue, generating in the viewer’s mind the question: Will the rescuer get there in time? One or more lines of action are often crosscut to create dramatic irony (in which the film viewer is given information of which the characters are unaware) or otherwise to “thicken” the plot.
+
+contrast cut Cutting back and forth between two contrasting actions so that one action strengthens audience response to the other. Shots of a starving man contrasted with shots of a glutton, for example, will increase the impact of both shots, making the former seem more pathetic and the latter more disgusting.
+
+associational cut A cut made for symbolic purposes to an object which often is not present in the world of the film’s story (its diegesis). Pudovkin referred to these as symbolic cuts, and Sergei Eisenstein called the technique intellectual montage. In October(1928), Eisenstein cuts from a vain, ambitious dictator to shots of a gilded, mechanical peacock. In the cult film Harold and Maude (Hal Ashby, 1972), after a psychiatrist asks Harold how he feels about his mother, there is a cut to a huge medicine ball crashing into a brick building. flashback, flash forward A cut which takes the action to a prior or future time in the plot.
+
+SHOT DURATION
+
+The length (duration) of the shot can determine the rhythm or pace of the film, short shots traditionally being used in scenes of violence, and long shots being associated with more lyrical moments. Shots that end slightly before the viewer has had a chance to take in all they contain can instill an atmosphere of nervous, anxious excitement; films that cut after the average viewer has comprehended the content of the image tend to seem calming, contemplative, or in some cases, boring.
+
+SHOT TYPE
+
+Also called distance of framing, camera distance, or shot scale, this category describes the camera’s proximity to the main focus of interest in the shot, which is usually, but not always, a human figure.
+
+close-up (cu) A shot taken very close to the subject, so that it fills most of the frame. In the case of a person, it usually includes the head and the upper part of the shoulders, or another portion of the body. In a close-up of a small animal, such as a squirrel, the entire body of the animal would fill the frame. big close-up (bcu) In relation to a human face, just the face (without hair or shoulders) or part of a face (the eyes only; the mouth only). In relation to an object, a detail only.
+
+medium close-up (mcu) A shot framing the human subject from the level of midchest.
+
+medium shot (ms) A shot framing the human figure from the waist up. When more than one person appears in the shot, it is referred to as a medium-two shot or medium-three shot, etc., depending on the number of people in the shot. This applies to the next two definitions as well.
+
+medium-long shot (mls) Also referred to as plan American, this type of shot frames the human body from the knees up.
+
+full shot (fs) A person’s body appears in its entirety, approximately equal to the height of the screen.
+
+long shot (ls) The human character appears shorter than the height of the screen and a fair amount of the setting is encompassed within the frame of the shot.
+
+extreme long shot (els) The human subject is tiny in relation to the size of the screen.
+
+establishing shot Usually, a long shot used near the beginning of a sequence to establish the setting or the position of people or objects so that the viewer remains oriented when the sequence is later broken down into a series of closer shots. An extreme long shot is often used as an establishing shot, introducing a landscape or the city in which the subsequent action takes place.
+
+CAMERA MOVEMENT pan, or panorama shot The camera rotates from a fixed position along a horizontal plane: The camera can pan right, pan left, or all the way around in a circle, in a 360-degree pan.
+
+swish pan A very fast pan that makes action appear blurred. tilt The camera rotates from a fixed position through a vertical plane. The camera can tilt up or down.
+
+traveling shot As opposed to the fixed position of the pan, in a tracking or traveling shot, the camera and whatever it is mounted on (a dolly, a track, an automobile, etc.) moves as it photographs the action. In relation to the action, the camera can track backward, forward, to the left, or to the right.
+
+ crane shot A shot taken from a crane specially constructed for the camera: a moving vehicle with a long boom on which the camera can be mounted and suspended far above ground level. Crane shots can be very dramatic, permitting high-angle tracking and panning shots and moving up and down in relation to the action.
+
+CAMERA ANGLE
+
+The viewpoint or angle from which the camera films the subject. straight on, or eye-level The camera is located at eye-level in relation to the subject.
+
+high angle, or angle down The camera is positioned above the subject and shoots down at it.
+
+low angle, or angle up The camera is positioned below the subject. dutch angle The camera is tilted so that the frame is not parallel to the horizon.
+
+CAMERA LENS
+
+Lenses can alter the perceived magnification, depth, perspective, and scale of objects in the shot.
+
+normal lens Produces an image with perspective that seems comparable to that seen by the human eye.
+
+wide-angle lens Gives a wider angle of vision than a normal lens. Also skews a scene’s perspective, by distorting straight lines near the edges of the frame, and by exaggerating the distance between the foreground and background planes of the shot. The movement of objects coming toward the camera is exaggeratedly fast.
+
+fish-eye lens An extreme wide-angle lens that distorts the image so that straight lines appeared bent or bowed at the edge of the frame. telephoto lens Enlarges or magnifies distant planes, making them seem close to the foreground planes. Has the effect of flattening the space between planes, foreshortening or squashing them together. Objects moving toward the camera appear to make little progress.
+
+zoom lens A lens that can be changed gradually during a shot, going from a wide angle to telephoto or vice versa.
+
+deep focus All objects from close foreground to distant background are seen in sharp definition.
+
+soft focus The foreground is in sharp focus while the background appears diffuse and hazy. Also refers to the blurred or hazy effect achieved by shooting slightly out-of-focus or through gauze or Vaseline, so that the sharpness of the film image definition is reduced. Can have a glamorizing effect. rack focus A shot during which the focus changes, bringing certain objects into and out of focus.
+
+LIGHTING
+
+In addition to the lighting techniques whose definitions appear below, choices about the direction of the light source—whether it is overhead; sidelighting; un-derlighting; backlighting; or angel light(exaggerated backlighting which creates a halo of light around a subject’s head)—can have a profound effect on the impact of a shot.
+
+three-point lighting A lighting style associated with the classical Hollywood style. The shot is lit with three different kinds of light: a key light (the brightest and primary source of lighting for the image, this casts the dominant shadows), a fill light (which “fills in” to eliminate or soften shadows created by the key light), and a backlight(illumination coming from behind the objects photographed, outlining or highlighting the contours of the figure).
+
+high-key lighting Bright, even illumination with low contrast and few conspicuous shadows. Associated with comedies, classical musicals, and light entertainment.
+
+low-key lighting General low level of illumination with high-contrast atmospheric pools of light. The effects of low-key lighting are often enhanced by dark costumes and sets. Associated with mysteries, thrillers, and film noir.
+
+COMPOSITION
+
+Compositiondescribes the significant graphic characteristics of the shot. Do horizontal, vertical, or diagonal lines dominate? Are there interesting combinations of lines? What is the location of the actor in relation to the ensemble of the shot?
+
+Are characters or objects arranged symmetrically or in unstable asymmetrical formations? What are the vertical or horizontal divisions of the frame? Is there significant framing within the frame?
+
+SYMBOLISM
+
+Any element within the shot that seems to stand for more than its literal definition, because of either cultural or unconscious symbolic associations. In D.W.
+
+Griffith’s The Birth of a Nation, a racist film obsessed with the fear of miscegenation, fences proliferate, standing for social barriers and internal restraints that are being overthrown. When in Hitchcock’s Notorious a woman steals a key from her husband’s key ring and gives it to another man, who uses it to penetrate the secrets of the husband’s wine cellar, most people intuit that sometimes a key is not just a key. In the act of theft the woman has unmanned her husband.
+
+Color can be (and often is) used for symbolic effect in narrative films, as are shadows and patterns of light in the setting.
+
+SOUND
+
+The sound in film can be divided into three categories: speech, noise, and music.
+
+Each of these elements can be related to the image track in the following ways: diegetic sound In a narrative film, the diegesis of the film refers to the world of a film’s story. Thus, diegetic sound is sound whose source comes from within the imaginary world of the fiction.
+
+nondiegetic sound Sound coming from the space outside the narrative— whose source is neither visible on the screen nor implied by the present action. Nondiegetic sound is added by the director for dramatic effect. Examples would be mood music or an omniscient narrator’s voice. Silence can also be nondiegetic.
+
+internal-diegetic sound Sound coming from the mind of a character (an interior monologue of the character’s inner thoughts) that we can hear but the other characters cannot. Internal-diegetic sound can also refer to distortions of sound heard by a character that reflect that character’s state of mind.
+
+For example, in the case of a character going mad, the sound track may be distorted (e.g., too loud, or with strange echoes). Finally, internal-diegetic sound can represent sound hallucinations (the character hears voices no one else in the story hears). Internal-diegetic silence is used to depict moments of concentration so intense that the sounds of reality disappear. metadiegetic The source of the sound is diegetic, but it is distorted to heighten the dramatic effect for the spectator, and is not necessarily connected to the internal state of a character. For example, a scream might be presented in high volume and electronically distorted, not to reflect the consciousness of an on-screen character, but to shock the audience.
+
+on-screen sound The source of the sound is present within the frame of the shot.
+
+offscreen sound In the case of diegetic sound, the source of the sound comes from beyond the frame. Nondiegetic sound is offscreen by definition. parallel Sound which complements the image: hands clapping to the sound of applause, romantic music during a love scene, scary music during an ominous scene.
+
+counterpoint Sound which goes counter to the image: a merry tune played over a somber funeral procession, a man speaking with a woman’s voice. sonic texture Significant variations or effects achieved through the loudness of the sound track, or characterization achieved through voice pitch, timber, or dialect.

@@ -1,0 +1,359 @@
+Chapter 16: Filters and Controlling the Look
+
+FILTER TYPES
+
+There are a few basic types of filters > Diffusion * Exposure (Neutral density)
+
+* Focus (diopters and split-diopters)
+
+* Color balance * Color alteration DIFFUSION AND EFFECTS FILTERS
+
+Phere are many types of diffusion filters but they all have one common purpose — they slightly alter the image to make it “softer” or more diffuse or to reduce the contrast. They do it in a number of ways and with a variety of effects (Figures 13.9 through 13.12)
+
+Diffusion filters are a very personal and subjective subject. Besides glass or resin filters which are placed in front of the lens (or in some cases behind the lens or even ina slot the middle of it), other methods can be used. Many cinematographers use si k or nylon stocking Various grade Schneider Black courtesy 13.10. (above left) No filter.
+
+Black Promist
+
+(Photo courtesy of Tiffen.)
+
+13.12. (above, right) Warm Black Promist 3. (Photo courtesy of Tiffen.)
+
+matography w 3 NO material which can have a very subtle and beautiful effect. One of the most favored of these is a difficult to obtain brand of French stocking which can cost $75 for a pair. Designations for filters are not standardized but they generally come in sets ranging from | to five or 1/8, 1/4, 1/2, 1, 2. and so on. An older type of filter that dates back to the early days of the studio system but which is still popular today are the Mitchell diffusions, which come in “A”, “B” and “C.”
+
+Others are known only by a name such as “star” or “dawn.”
+
+Other types of loose open material can be used as can as grease or petroleum jelly on a piece of glass. Ordinary cellophane or plastic wrap have also been employed in emergencies. Star filters, which create a pattern of streaks around a highlight, are basically clear glass with diagonal scratches.
+
+rhe use of diffusion goes back a long way in film history. In the early twenties it became a common practice to use a heavy diffusion filter on close-ups of the female star. This made her appear more glamorous, sensuous and beautiful and also concealed any imperfections in her appearance. This effect was often used to such an extent that there was a jarring mismatch between the close-up of the female star, the close-up of the male star and the master shot. It didn’t seem to bother anybody back then, but today it would hardly seem acceptable. The same applied to a glamorous highlight which appeared out of nowhere for a close-up of the female star.
+
+NETS
+
+Another form of diffusion is nets or voiles (mesh). Nets vary in their diffusion effect according to how fine their weave is. Nets can come in filter form sandwiched between two pieces of optical glass or they can be attached to the front or rear of the lens.
+
+Attaching a net to the rear of the lens has several advantages. A net on the front of the lens can come slightly into focus with wider lenses that are stopped down. A net on the rear of this lens will not do this. Also, the diffusion effect will not change as the lens is stopped down or the focal length changes on a zoom. Attaching a net to the rear of the lens must be done with great caution as there is danger of damaging the exposed rear element of the lens or of interfering with the spinning reflex mirror. Putting a net on the rear should be done with easily removable material such as “snot tape” or rubber cement.
+
+CONTRAST FILTERS 13.13. (left) No filter. (Photo « Various filters are used to reduce or soften the degree of contrast Of Tiffen.) in a scene. These generally work by taking some of the highlights 13.14. (middle) Ultracon! and making them “flare” into the shadows. Traditionally these were called “lo-cons.” There are a number of newer, more sophisticated — 13-15. (right) Softcon . 2 es pe of contrast filter. (Phot varieties. Two types are shown in Figures 13.13 through 13.15. DR OF GEairasy Tite . = 7 tesy of Tiffen EFFECTS FILTERS
+
+There are many kinds of very special effects filters, ranging from the most obvious, a “disco” splash, to the more subtle — creating a faint rainbow effect. These are rarely used in film and video photography. “Sunset” filters give the scene an overall orange glow. Othe filters can give the scene a color tone of almost any sort imaginable: from moonlight blue to antique sepia or chocolate reminiscent faded daguerreotypes. Besides the hundreds of varieties available. filters can be special made to suit a particular need. Also commonly used are sunset grads and blue or magenta grads to give some color to what would otherwise be a colorless or “blown out™ sky (Figures 13.16 and 13.17).
+
+In addition to filters which affect the entire scene, almost any type of filter is also available as a grad. A grad is a filter which starts with a color on one side and gradually fades out to clear or another color (Figures 13.18 through 13.21). Grads can be either “hard edge” or “soft edge” denoting how gradual the transition is. The most commonly used types of grads are neutral density filters which are often used to balance the exposure between a normal foreground scene and a much hotter sky above the horizon. ND grads come in grades of .3 (one stop at the darkest), .6 (two stops), .9 (three stops) and more rarely .12 (four stops). Be sure to specify whether you want a 1ard or soft cut as there is a considerable difference in application.
+
+Whether you need a hard or a soft cut will also be affected by what focal length you are planning to shoot with.
+
+13.16. (left) S (Photo court 13.17. (far left) With a sunset (Photo courtesy of Tiffen / of Tiff trast filter, (Photo courtesy of Tiffer 13.18. (opposite, top left) The scene with no filter. (Photo courtesy of Tiffen.)
+
+13.19. (top right) A grape grad.
+
+(Photo courtesy of Tiffen.)
+
+13.20. (bottom left) A plum grad.
+
+(Photo courtesy of Tiffen.)
+
+13.21. (bottom right) A sunrise grad.
+
+(Photo courtesy of Tiffen.)
+
+cinematography 234
+
+COLOR TEMPERATURE AND FILTRATION
+
+As we discussed in Color Control, the most common system used in describing the color of light is color temperature. This scale is derived from the color of a theoretical “black body” (a metal object having no inherent color of its own, technically known as a Planckian radiator). When heated to incandescence, the black body glows at varying colors depending on the temperature. Color temperature is a quantification of the terms “red hot.” “white hot,” ete.
+
+There is another measure of light color that is important as well: the magenta-green content. Since many sources in lighting tend to have a component of green, it is important to measure and correct it: otherwise the film will be heavily tinted, usually in a very disturbing and unattractive way. Sources which produce disproportionate include fluorescents, HMIs and other bulbs with discontinuous spectrums.
+
+HOW MIRED VALUES ARE USED
+
+Another problem with color temperature is that equal changes in color “temperature” are not necessarily perceived by the eye as equal changes in color. A change of SOK from 2000K to 2050K will be a noticeable difference in color. For an equivalent change in color perception at 5500K, the color temperature would need to shift 150K and about 500K at 10,000K.
+
+Because these changes are so unequal, the mired system has been devised. Mired stands for micro-reciprocal degrees. Mireds are derived by dividing 1,000,000 by the Kelvin value. For example, 3200K equals 1,000,000/3200 = 312 mireds. When calculating the degree of color correction needed for a particular combination, the mired system can be used. If you have a source at 5500K and wish to convert it to 3200K, subtract the mired value of the desired color from that of the source. 5000K = 200 mireds. 3200K = 312 mireds.
+
+312-200 = 112 mireds. 85 orange has a mired value of +112. In practice these calculations are done by the color meter or by using a simple get chart. On the mired scale, a plus shift value means the filter is yellowish, a minus value means the filter will give a blue shift. When combining filters, add the mired values.
+
+WHAT “COLOR BALANCE” MEANS IN FILM STOCK:
+
+Unlike the human eye. which is assisted by the brain in compensating and adapting, no color film can accurately reproduce color under all kinds of lighting conditions. In manufacture, the film is adjusted to render color accurately under a particular condition, the two most common being average daylight (type D film), which is set for 5500K and average tungsten illumination (type B film) designed for 3200K. There is a third, which is based on the now disused “photo” bulbs, which were 3400K (type A film), rather than 3200K, but very few films are available in this balance.
+
+Given the fact that providing tungsten light is costly, while sunlight is usually far more abundant, most motion picture films are type B, balanced for tungsten. The idea is that we put a correcting filter on when we can most afford to lose light to a filter factor — in the sunlight. Kodak does have several excellent daylight balance films available for which no correcting filter is need in daylight or HMI situations. They come in ASAs up to 250 which can be extremely useful on dark, cloudy days or when the sun is near the horizon — at the end of the day it gets dark surprisingly fast.
+
+There are four basic reasons to change the color of light at the source: to correct the color of the lights to match the film type (instead of using a camera filter), to match different types of lighting sources and for effect or mood. Finally there are specialized situations like greenscreen or bluescreen, To shoot with type B film under “blue” light (in the 5500° degree area) an 85 orange filter is used (Figure 13.22), The 80A or 80B blue filters for shooting daylight film with warm light are rarely used, and in most eases should be combined with a UV filter because tungsten film cannot tolerate the high proportion of UV in daylight and HMIs. There is some light loss when using a correction filter and the filter factor must be used to adjust the T/stop. For convenience, most manufacturers list an adjusted Exposure Index (or ASA) which allows for the filter loss.
+
+Another form of filter that is sometimes used is a UV or haze filter.
+
+Skylight contains a great deal of ultraviolet radiation which can cause the image to go slightly blue. This is especially true at high altitudes where there is little atmosphere to filter out the UV. It is also called a haze filter because it will have the effect of slightly reducing the effect of haze in the atmosphere.
+
+Two different ASAs will be listed on cans of black-and-white film.
+
+This is not related to correction filters, since none are needed. It is image control rr 13.22. (top) An 85B.
+
+13.23. (middle) An 80C blue filter, 13.24. (bottom) 81A for slight warming effect.
+
+Table 13.3. The basic filter families:
+
+85, 80,82,81 and Color Correction.
+
+cinématogr apny 236 because black-and-white films vary in their sensitivity to colors. In most cases the ASA for tungsten light will be 1/3 stop lower. Very important: when using this adjusted El, do not also use the filter factor. Smaller color mismatches can also be corrected with color filters, as well. If the scene lighting is 2800K, for example (too warm). then an 82C filter will correct the light reaching the film to 3200K.
+
+Types of color filters generally used in film and video production are discussed in the next section. Filter families are shown in Table CONVERSION FILTERS
+
+Conversion filters work with the blue and orange ranges of the spectrum and deal with fundamental color balance in relation to the color sensitivity of the emulsion. Conversion filters affect all parts of the spectrum for smooth color rendition. (LB) Light Balancing filters are warming and cooling filters; they work on the entire SED as with the conversion filters, but they are used to make smaller shifts in the Blue-Orange axis.
+
+CAMERA LENS FILTERS FOR COLOR CORRECTION
+
+Color compensating filters are manufactured in the primary and secondary colors. They are used to make corrections in a specific area of the spectrum or for special effects. They affect only their own narrow band of the SED. Don’t make the mistake of trying to correct color balance with CC filters. Primary filters work in a limited band of the spectrum and correct only one wavelength, However, since CC filters are not confined to the Blue- Jrange axis, they can be used to correct imbalances in the Magenta-Green axis, such as occur with fluorescent lamps and most types of industrial lamps. A CC-30M is often a part of the basic filter package for standard tubes. 30M is a good starting point for most uncorrected fluorescent sources (Table 13.4).
+
+COOLING FILTERS
+
+The 80 series, which are blue conversion filters, are used to convert warm sources such as tungsten lights so that they are suitable for use with daylight film (Table 13.5), WARMING AND COOLING FILTERS
+
+The 81 series of warming filters (81, 81A, 81B, 81C) increase the “warmth” of the light by lowering the color temperature in 200K increments (Figure 13.24). The 81 shifis the color temp by the minimum amount required for the eye to perceive any change: -200K.
+
+For cooling, the 82 series works in the same fashion, starting with the 82 which shifts the overall color temperature by +200K. As with most color temperature correction filters, excess magenta or green are not dealt with and must be handled separately. Table 13.6 shows the Wratten 81 and 82 filters for warming and cooling. Wratten is a system of filter classification owned by Eastman Kodak. Corals are also a popular type of filter for degrees of warming.
+
+CONTRAST CONTROL IN BLACK-AND-WHITE
+
+This characteristic of transmitting some colors and absorbing others makes color filters valuable in controlling black-and-white images.
+
+85: Conversion Correcting daylight to tungsten light 80 | Conversion Correcting tungsten to daylight 82: Light balancing Cooling filters 81 Light balancing | Warming filters CC’s Color Primary and secondary colors Most scenes contain a variety of colors, and to a certain extent scenes are “color coded” according to image content. In other words, the sky may be the only blue area in an image, a field of grass may be the only largely green element in a scene.
+
+The basic principle of contrast control filtration in black-and-white cinematography is that a filter lightens colors in its own area of the spectrum and darkens the complementary colors. How strong an effect it has is the result of two factors: how strong the color differences of the original subject are and how strong the filter is. The scene we are shooting is the result of the colors of the objects themselves and the colors of the light that falls on them, Color filters only increase or decrease contrast on black-and-white film when there is color difference in the scene. In a scene composed of only black, white and gray objects a color filter would only reduce exposure: it would not alter the contrast. When a filter is used to absorb certain colors we are reducing the total amount of light reaching the film, We must compensate by allowing more overall exposure. The exposure compensation necessary for each filter is expressed as the filter factor.
+
+With warm colors (red, orange, yellow), the daylight filter factors are greater than the tungsten filter factors. In the violet and blue range, the daylight factors are less than the tungsten, but for the cyan/green range of the spectrum the daylight and tungsten filter factors are nearly all equal. The same is true for magenta, which is equally red and blue. The simple rule for black-and-white filters is: expose for the darkest subject in the scene that is substantially the same color as the filter, and let the filter take care of the highlights.
+
+USING FILTERS IN BLACK-AND-WHITE PHOTOGRAPHY
+
+These filters for black-and-white have alternate designations: #8 =K-2 #15 =G-15 #11 = X-l Combining contrast filters for black-and-white does not have the cumulative effect that we might expect. For example, combining a #8 and #15 filter gives the same visual effect as a #15 filter alone (although the filter factor is changed by the combination of the two).
+
+Combining two filters of different groups is seldom necessary, since there is usually a single filter which will do the same job.
+
+POLARIZERS
+
+Natural light “vibrates” in all directions around its path of travel. A polarizer transmits the light that is vibrating in one direction only.
+
+Polarizers are extremely versatile filters and serve a variety of functions. Glare on a polished surface or on a glass window is. to a certain extent, polarized as it is reflected. By rotating a polarizer to eliminate that particular direction of polarization, we can reduce or eliminate the glare and surface reflection. Brewster’s angle, 56° from normal, or 34° from the surface, is the zone of maximum polarization (Figures 13.25 and 13.26).
+
+When working with glare on water and on windows it is seldom desirable to eliminate all reflections because this creates an unnatural effect. The polarizer can be used with color film to darken the sky. Maximum polarization occurs at about 90° from the sun. This works well for static shots, but care must be taken if a pan or tilt is called for as the degree of polarization may change as the camera moves. If the sky is overcast, the polarizer won’t help much. Polarizers reduce transmission of light, generally at least | 2/3 to 2 stops as a filter factor, which does not change as you rotate the polarizer.
+
+YELLOW
+
+(Absorbs Blue)
+
+CC.025Y
+
+CCOSY ccroy cc20Y cc30Y cc4oy CC50Y
+
+MAGENTA
+
+(Red-blue)
+
+CC.025M
+
+CCO5M
+
+CC1OM
+
+CC20M
+
+CC3IOM cC40M CC5OM
+
+CYAN
+
+(Blue-green)
+
+CC.025C
+
+Ccosc ccToc CC20C
+
+€C30C cc40c cCs0c RED
+
+CC,025R
+
+CCO5R
+
+CC1OR
+
+CC20R
+
+CC30R
+
+CC40R
+
+CCS50R
+
+GREEN
+
+(Absorbs Blue and Red)
+
+| cC.025G CCO5G
+
+CC10G
+
+CC20G
+
+€C30G Cc40G
+
+CCSOG
+
+BLUE
+
+(Absorbs Green and Red)
+
+FILTER
+
+CONVERSION
+
+CC.025B
+
+CCO5B
+
+CC1OB
+
+CC20B
+
+CC30B
+
+CC40B
+
+CC50B
+
+EXP. LOSS
+
+BOA
+
+80B
+
+80c
+
+3200 > 5500 3400 > 5500 3800 > 5500 | 131 | 112 | 1 2 stops 2/3 stops I stop 80D
+
+4200 > 5500 Filter @ Exp
+
+Factor
+
+1/3 stop COOLING
+
+820+
+
+B2C
+
+82C + 828
+
+B2C+824
+
+820+82
+
+B2C
+
+828
+
+82A
+
+#2 11
+
+24
+
+3
+
+WARMING
+
+8)
+
+BIA
+
+RIB a1 BID
+
+B1EF
+
+Table 13.4. (bottem) Color Correction camera filters. (Data courtesy of Eastman Kodak.)
+
+Table 13.5. (top) The 80 series.
+
+Table 13.6. (middle) Wratten series 81 and 82 filters. (Data courtesy of Eastman Kodak.)
+
+image control Table 13.7. Effects of filters in black-and-white photography.
+
+cinematography 238
+
+WRATTEN EXPOSURE | INCREASE | # COLOR | FACTOR EXPOSURE DEGREE ) EFFECT IN DAYLIGHT = — iit = _ t {| = _ 3 Yellow 1.5 W2 Slight | Penetrates haze _ Medium | Corrects panchromatic 8 Yellow 2 i | Moderate | color balance W Green 1 4 2 Light Lightens green foliage ~ t 12 Yellow 2 tt | Strong | Increases contrast_ _ Deep.
+
+ee Yellow 25 11/4 | Heavy | Darkens sky, lightens faces Light | 21 | Orange 3 | 112 | Slight | Heavy correction Deep
+
+23A Orange | 5 2 1/4 _| Moderate Penetrates heavy haze 25 Red l 8 _ 3 Heavy | Dark sky, white faces - 29 Deep Red 16 4 Extreme Strong contrast, black sky Neutral density filters are used to reduce overall exposure without affecting color rendition. They can be used in extremely high illumination situations (such as a sunlit snow seene or a beach scene) where the exposure would be too great or where reduced exposure is desired to crush depth of field. Neutral density filters combined with 85 correction filters (85N3, 85N6 and 85N9) are a standard order with any camera package for exterior work (Figures 13.27 and 13.28).
+
+Also known as Wratten #96, the opacity of ND filters is given in density units so that .3 equals one stop, .6 equals two stops and .9 equals three stops. In gelatin filters, ND’s are available in .| increments (1/3 of a stop). If you combine ND filters, the density values are added. If you are using the arithmetic exposure factors, don’t forget to multiply the exposure factor, FILTERS AND BRIGHT POINT SOURCES
+
+When shooting a bright point source such as the sun, filters will almost certainly show double or triple images. This is caused by the image of the source reflecting off the front surface of the lens back onto the filter. When shooting the sun especially, it is best to go with no filters if possible. However, some sort of ND filter is almost always necessary.
+
+Some sophisticated matte boxes permit the filters to be set at a slight angle, which prevents this problem. If all else fails, slightly loosen the swingaway matte box and give it a bit of an angle. Be careful, though, too much angle and you are creating an opening which will cause other types of flares and reflections. Your Ist AC should always be checking for light leaks of this sort, especially in situations where the sun or other strong light is hitting the camera, As an added precaution, the grips should always provide a camera umbrella or “courtesy flag” to keep light off the camera as well as the operator and focus puller.
+
+This applies to lit bulbs in the frame, candles or other hot spots.
+
+Candles are a particular problem since the rest of the scene is usually very dark. Another source of trouble is car or truck headlights. When they hit the lens they are surprisingly strong and flare out totally, The best trick is to have the grips cut a piece of Rosco scrim and place it over the headlights. Rosco scrim is an opaque material with lots of small holes. It is very effective in controlling the light, which still flares enough to disguise the scrim.
+
+If that is not available, a heavy dose of black dulling spray or Streaks N’ Tips will help. If Streaks N’ Tips is not available, the hair sprays for men with thinning hair are available in lots of colors and they work just fine. Like Streaks N* Tips and dulling spray they wash off easily.
+
+BEAM SPLITTER VIEWFINDERS AND POLARIZERS
+
+When using cameras with video assist and modern beam splitters, it is necessary to use special polarizing filters called “circular pola filters.” The term circular refers to technology used to make them, not their shape.
+
+If these circular pola filters aren’t used, there will be problems w ith either image in the finder or on the video assist. The image on the film is not affected. The reason for this is that modern beam splitters use a dielectric coating that has polarizing tendencies and since two polarizing filters can not be used together, there will be problems.
+
+The circular pola filter has a front and back. The front must point towards the subject or it won’t be effective.
+
+Some camera viewfinders exhibit a magenta appearance with ordinary pola filters. On other cameras, the video goes very dark. This does not happen with circular polas. If you own an auto-focus still camera or an auto-focus video camera, it also needs circular pola filters to work properly. Three chip video cameras also need circular polarizers.
+
+CONTROLLING THE LOOK OF YOUR PROJECT
+
+The “look” of a film or video production is a complex, interactive combination of dozens of different variables. In films where the look is very apparent, such as Days of Heaven, Seven Samurai or Seven, there are a few prominent devices which can be readily identified; in these cases, shooting primarily at magic hour, use of very long lenses or bleach-bypass.
+
+As with most issues in art, it is, of course, not nearly that simple.
+
+You can make a film at magic hour, or use long lenses or bleach-bypass and there is a good chance that your project will look nothing like those films. These are just examples; this applies to all techniques and methods of visual production, and post-production as well.
+
+The reason is that these simple techniques are not “magic bullets.”
+
+Nor are they a special button you can push in post-production. Obviously, there are many variables within each technique that have to be juggled and fine-tuned to achieve the desired look. Sometimes it is a question of budget, equipment, time, crew, weather or other factors, but this is not the point if you educate yourself in the techniques, test and experiment and bring all the forces to bear, you 13.25. A scene shot through glass with no polarizer. (Photo courtesy of Tiffen).
+
+13.26. With a polarizer; in this case the Tiffen UltraPol. (Photo courtesy of Tiffen).
+
+Table 13.8. Filter factors and exposure compensation for neutral density filters.
+
+PERCENTAGE
+
+OF FILTE INCRE
+
+FILTER RANSMISSION FACTOR IN STOR image control no filter 13.27. (top)
+
+Photo courtesy of Tiffen.)
+
+13.28. (above) With a neutral density filter for the sky. Although a polarizer might have achieved most of the same effect there are two important differences: the effect of the polarizer would depend on the angle relative to the sun and it would have also have eliminated the reflections on the water, which are an important part of the image. (Photo courtesy of Tiffen.)
+
+13.29. (above, right) For this music video shot, we used a combination of techniques. A y light net on the lens and double printing over a defocused black-and-white dupe to aturate and soft yout get g mushy. (Photo by author.)
+
+AT)
+
+can get them right. The real issue is that these methods must be used in co-ordination with all the other visual elements of the production These include:
+
+* Lighting style * Color control in lighting * Use of lenses * Choice of locations * Choice of camera angles * Set design and color scheme * Set dressing * Wardrobe * Makeup * Casting * Choice of film or video format he point is that you have to think globally when you consider the visual style of your production — every choice, every happenstance every decision becomes part of the mix that determines the overall look, and that look is itself’a key element in the overall storytelling. emotional impact and final success of your project. set operations
+
+Direction-Production
+
+GREGG TOLAND,«sc.
+
+Photography
+
+14.1. (previous page) Steadicam in use on the set.
+
+14.2. (above) Orson Welles thought so much of the contribution of his cameraman Gregg Toland that he shared his title card with him on Citizen Kane.
+
+14.3. A working set: video village is at lower left, soundman’s rig to the right of that and the trucks are at top of frame. (Photo cour tesy of Jim Furrer.)
+
+The director, the cinematographer and the production designer are the three people directly responsible for all creative aspects of the film: how it looks, how it works, the “style” and the continuity The working relationship between the director and cinematogra pher is the key to getting a film made. Let’s look at the responsibilities of everyone involved, first of all in a typical feature film. These procedures are general to most types of production including commercials and music videos and on small productions such as industrials and documentaries; many of these are omitted: but the essential functions are always the same.
+
+In relation to the camera work, the director has a number of duties.
+
+It is the director who makes the decision as to what shots will be needed to complete a particular scene. She must specify where the camera will be placed and what the field of view needs to be. Some directors prefer to specify a specific lens, but most just indicate to the DP how much they want to see and then the cameraman calls for the lens to be used, or in the case of a zoom, at what focal length it will be set.
+
+The director must also specify what camera movement, zooms ot other effects will be needed. Most directors do all of this in consultation with the DP and ask for ideas and input. Problems most com monly arise when the director feels he must make every decision by himself without discussing it. Certainly it is their right to do so, but less experienced directors will sometimes call for specific lighting or camera moves that are time-consuming and ineffective when there are more efficient ways of doing the same thing more quickly and effectively (Figure 14.2).
+
+One of the most common problems is when directors ask for long complex dolly or Steadicam moves. Jt can be very effective and dramatic to shoot an entire scene in one shot, with the camera moving constantly with the characters even as they go from room to room or make other types of moves. However, these types of shots are generally difficult to set up, difficult to light (since you are so often forced to hide the lights) and usually very demanding for the focus puller They also require many rehearsals and many takes to get all the elements to work together: the timing of actors’ moves, the timing of camera moves, changes in focus and in some cases changes in

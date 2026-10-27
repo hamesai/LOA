@@ -1,0 +1,245 @@
+Chapter 15: Transfer, Printing and Color Processes
+
+12.28. Kodak TEC test frame.
+
+cinematography 218 in or out over the entire area of the negative or positive frame.
+
+A framing chart is something he can copy to the frame store and quickly call it up to transfer all scenes exactly as you intended.
+
+Figure 12.26 is a typical framing chart. Figure 12.27 shows the framing options in telecine.
+
+If you don’t have a pre-made framing chart like this, you have other options. One is to set a white card on a stand in front of the camera. You can then direct an assistant to make marks on the card to outline a frame. If you have long arms you can put the extension viewfinder on, flip it over and do the drawing yourself, Both of these methods are awkward and inexact.
+
+A better option is to shine a small light (a tweenie or a pepper) down through the viewfinder and it will be projected onto the card, thus easily traced. This will need to be done in a darkened area. Use at least a 50mm (in 35mm) or 25mm (in 16mm film). Shorter lenses may introduce some distortion. Naturally in any of these methods it is important that the card be perfectly perpendicular to the optical axis, otherwise some “keystoning” distortions will occur.
+
+TELECINE
+
+When color negative is transferred directly to videotape the image is electronically changed to a color positive image. During this operation the telecine operator, called the colorist, must calibrate the equipment to produce optimum results.
+
+This is often done with an Eastman Kodak product, Telecine Analysis Film (TAF), which is a standardized negative, produced under very controlled conditions. that the colorist can put in the machine to calibrate the entire system. The Gamma and Density company makes a similar product which, together with their patented gray test charts, affords a great deal of control over your dailies.
+
+The TAF ts an objective tool for initial setup and centering of the color-grade controls on a telecine before transfer of images from motion picture film to video. Kodak provides TAF as a benchmark and tool for achieving optimum color-timing control.
+
+TAF provides a test target with known characteristics. After using TAF for setup, the operator is able to transfer many scenes without major equipment adjustment. A frame of TAF contains an 8-color bar test pattern, a neutral-density gray scale. and a neutral-density gray area on the outside edge. The grayscale chart is eight steps.
+
+The colorist then uses the waveform monitor to set the values as follows:
+
+TAF Gray Seale Voltage IRE UNITS
+
+Step | (film black) = 50mv PD Step 8 (film white) 56mys 80 Gray patches 320 - 350mv 45 - 50 The colors represent typical saturated colors that are encountered in motion picture production. TAF color bars will not match electronically generated color bars but phase relationships should be about the same.
+
+TELECINE EXPOSURE CALIBRATION FILM
+
+Kodak makes a test film which can be used to calibrate the telecine system to act as a (very expensive) densitometer which can provide the cinematographer with quantifiable evaluation of the exposure for individual scenes. This restores to video finish the direct numerical feedback that is available in film finish in the form of printer lights (Figure 12.28).
+
+image control
+
+13.1. (previous page) CCE, a bleach-bypass process, is a critical factor in this image from City of Lost Children.
+
+cinematography 220
+
+COLOR PRINTING
+
+Negative is printed either on a continuous contact printer or on a step printer. The step printer works somewhat like a projector in that the movement is intermittent. Registration is achieved through register pins which allows several passes to be made, as may be the case with black-and-white separation negatives.
+
+ADDITIVE AND SUBTRACTIVE PRINTING
+
+A printer must control the red, green, and blue components of the white-light source to achieve correct density and color balance. Two methods of control are commonly used: additive and subtractive printing. In a subtractive printer, color balance is achieved by inserting color correcting filters in the light path between the light source and the printing aperture.
+
+Overall light density changes are made either by a variable aperture or a neutral density filter. Subtractive print involves using filter packs and neutral density filters to make corrections. As a result, it is difficult to make changes in setup. Subtractive printing is sometimes used for release prints, because there are no scene-to-scene color changes. Printing requiring any scene-to-scene color corrections is not practical on a subtractive printer. The most common printing method is additive printing. In additive printing, there are three light sources. These can then be combined in various percentages to control both the density and color balanee. The red. green, and blue components are controlled with a set of dichroic mirrors.
+
+PRINTER LIGHTS
+
+The variations in each color channel are quantified on a scale from | to 50. These are called printer “points” or printer “lights.” The addition of a printer point adds 0.025 Log Exposure, so adding |2 printer points adds a stop (0.30 Log Exposure) of exposure. The standard printer setup for a laboratory is usually 25-25-25 for the red. green, and blue color channels.
+
+In theory an 18% gray card perfectly exposed and processed will print at 25-25-25. In actual practice this turns out to be only a general guideline. Some labs use 30-30-30 as their aim density. Beyond this, there are other minor variations due to differences in printer optics and chemistry. This can be disconcerting, but in practice it is not important. Lab numbers are self-referential — they are used within the same system at the same lab. Difference in one light causes difference in .07-.1 density which is 1/6 — 1/7 of an f/stop: a 3 light it ts 1/2 stop, Any deviations beyond this are of concern. Ifa lab cannot print the same negative twice without half stop deviation. then there is clearly a problem.
+
+This standard can really only apply to answer prints and release prints, not to the dailies. The same level of quality contro! for dailies would be economically prohibitive in most cases. Essentially printer points are a closed system within each lab. Generally, most labs are within a couple of numbers of each other. However, there are other reasons why a lab may choose to set its reference point a little higher or lower than another one. Printing machines have an overall line-up or offset known as the trim setting which is used to even out lamp, stock, filter, process and other differences between machines so that they produce the desired result.
+
+So prints from different labs can still look identical. even if they have different lights, because all the other factors are different as well: its only the total combination of settings that matters. If you judge your exposures by the rushes lights, you should ask the lab what the “normal” lights are for the specific stock you’re shooting on. Since many productions now get dailies only on video, the cinematographer no longer gets the benefit of these printer numbers to check on the quality of the negative. Video dailies are without a doubt the worst thing to happen to cinematographers in recent times.
+
+The only thing that comes close to replacing the printer numbers is the Kodak Telecine Exposure Calibration system (TEC), which is discussed in the chapter on Video and High Def.
+
+ONE LIGHT DAILIES
+
+At most labs, you can request that your dailies be printed at a “standard” light — or a fixed light selected during camera tests. That way the DP doesn’t need to juggle with lights on lab reports, but can use his/her eyes to judge the exposures each day.
+
+These are called “one-light” dailies. For producers, one-light means the cheap deal, but for DPs it can be a useful test and feedback. If the dailies are printed at a constant setting, the DP can judge by looking at the dailies if they are too dense, too thin or if color balance is off.
+
+The downside is that the lab does nothing to correct for mistakes or variations. This means that the producer and director see the scenes exactly as shot — they may tend to panic if they don’t understand what can be done in the remaining steps of post production.
+
+In the days of black-and-white, the increments on the old printers were twice as much (i.e., 0.05 logE). One stop in camera neg exposure then resulted in a grading change of about 4 b/w lights. In terms of CC (color correction) filters, a change of one printer light can be judged by laying a LOCC filter of the appropriate color over the print.
+
+ADDITIVE COLOR CONTROL
+
+Printer timing values are normally in the sequence red - green - blue (RGB). These numbers represent the color of light in the printer, not the effect on the print. In color negative, each color controls the amount of the complementary color in the final print. For example: increasing blue will make the print more yellow. Because of this reverse effect, some labs list printer values in the complementary colors: yellow-magenta-cyan (YMC). For timing color prints from color negatives the changes in value are shown in Table 13.1.
+
+With color timing there is considerable room for altering color balance and density. There is room for correction of minor problems or exposure errors. In the long run, however, nothing can substitute for a properly exposed negative with the color balance shot as planned by the cinematographer.
+
+CONTROLLING COLOR AND CONTRAST
+
+There are many other methods of controlling the image at various stages of production.
+
+HOW FLASHING WORKS
+
+Flashing has been around for some time. Originally it was accomplished by pre-exposing the film to a controlled amount of light.
+
+This has the effect of raising the inertia point of the film. As we recall from the discussion of exposure, the inertia point is the exposure level at which the film starts to react photochemically to light.
+
+Needless to say, taking your unexposed camera negative out of the film cans and exposing them to light is not recommended for the faint of heart — it is a nerveracking experience. Let’s look at it in terms of the Zone system. Exposure in this chart is in units. To help visualize the effect think of them as foot-candles.
+
+Clearly, the effect is much greater at the lower end. In Zone I, for instance, the total exposure is tripled, in Zone II it is doubled. In PRINTER
+
++B -B +G *G | 4R -R +BG +GR +RB PRINT VALUE more yellow less yellow more magenta less magenta more cyan less cyan more red more blue more green Table 13.1. Effect of color controls in printer timing.
+
+image control Table 13.2. How flashing affects shadow areas more than highlights.
+
+cinematography 222
+
+Zone IX, however, the increase is from 256 to 258. This increase in exposure would not likely be detectable even with laboratory equipment. The end result is that the shadow areas are increased considerably in exposure but the highlight areas are hardly affected at all.
+
+This reduces overall contrast. Panavision’s Panaflasher flashes the film in the camera.
+
+VARICON
+
+There is an alternative to pre-exposing which does the same job but safer, more predictably and in a more controlled manner. Devices are available which work by flashing the image, rather than the film, either before or after exposure.
+
+Varicon is a device which places optical glass in front of the lens (partially silvered mirror in one case and clear in the other) and introduces a limited and controlled amount of veiling glare on the glass.
+
+This has the same effect as flashing the film. Simple devices which mount on the matte box rods, these units are reasonably compact and simple to use. In design, an on-camera flasher is clear glass plate which sits in front of the lens; around the edge of the glass are eight 6 volt halogen bulbs. The bulbs inject light into the optical flat (which is called the emitter plate) and it glows evenly. It adds light to the image in amounts small enough that they affect only the low exposure areas, It works in exactly the same way as pre- or post-flashing, except that it flashes the film at the same time that the image is being recorded.
+
+Adjustment of the degree of contrast reduction is by means of a simple mechanical handle on top of the unit. The dimming is mechanical so that there is no color change. The effect is visible in the viewfinder. Using the Varicon has two distinct advantages over using low contrast filters. The first ts that it decreases contrast without degrading the image. It does not produce halations and double images that are common around bright sources when seen through LC filters. The second advantage is that the Varicon affects only the low exposure areas of the image in normal use.
+
+These systems can be used, as can flashing, to introduce an overall tone to the image, which is more visible in the shadows and therefore perhaps more subtle than an overall tone from a color filter. In color work, it is possible to selectively color the shadow areas without affecting the highlights. For example, the shadow areas can be warmed while a blue sky would remain unaffected. Using a warming filter would, of course, affect the entire image.
+
+Varicon has advantages over flashing as well. Flashing can be somewhat unpredictable and cannot be viewed at the time of shooting. No cameraman in the world can rest easy as his exposed footage, representing days of work and hundreds of thousands of dollars; is taken out of the can and purposely exposed to light. With Varicon, the effect can be viewed through the lens and can be adjusted from shot to shot and even during the shot. Other filters can be used at the same time as the Varicon.
+
+Degree of flashing 1s controlled mechanically, but the Varicon has a meter which registers the amount of light reaching the emitter plate. The meter is marked in f/stops from f/1.4 to {/11. With the unit are cards for various film ASAs. The cards are calibrated in terms of equivalence to low contrast filters, which are effects which should ZONES Polo mi) wiviw + vi | vin | ix _Basicexposueinunits | 1 | 2 | 4 | 8 | 16 | 32 | 64 | 128 | 256 Added units from flashing | 2 | | 2 2 | 2 | 2 | 2 2 2 TOTAL UNITS 31416 io | 18 | 34 | 66 | 130 | 258 be familiar to most camera people. To use the charts you first select the one for the ASA you are using, for example ASA 100. You then read the f/stop at the lens (example: f/2.8). You then find the row corresponding to the low contrast effect that you want, say LC |. Read across to the column for the lens f/stop. Immediately underneath is the correct setting for the Varicon. In our example the result would be £74. You then adjust the handle until the meter on the flasher reads f/4 and you have a contrast reduction of LC 1. For low light situations you can put neutral density material in the gel holders and for very bright situations you can use two emitter plates (the second one is standard with the rig).
+
+Ansel Adams notes that in the days before coated lenses, a slight controlled flare could be used to reduce contrast. This principle was used on the film Saving Private Ryan as explained later in the chapter. Overdoing flashing, either in the camera or in the darkroom, can lead to a veiling effect or a false tonality. The mere suggestion of exposing valuable, undeveloped footage to light is enough to give some producers and directors apoplexy and may be useful in getting them to approve an additional lighting order as an alternative.
+
+If you plan to pre-flash or post-flash a film, extensive discussion with the lab and testing beforehand is essential. The most common method of specifying the degree of flashing is to specify a density above base density plus fog (the basic density of unexposed. processed film).
+
+Like light-scattering filters or smoke, flashing lowers color saturation by adding a wash of white light over the image, also lowering the contrast. The advantage of flashing over filters is that it doesn’t soften definition or produce artifacts like halos around light sources.
+
+Some labs will post-flash the negative before development but most do not like to get into this because of the chance of damaging the negative through over-handling; there are also liability issues. Prints can also be flashed, which lowers contrast by darkening the bright highlights — it also slightly softens colors but not as much as nega-live flashing.
+
+OTHER METHODS OF DESATURATING COLOR
+
+Many techniques can be used to control the amount of color saturation and contrast in a film.
+
+* Filters such as ProMist, Fog. Double Fog, Low Cons, Ultra- Cons, etce., cause highlights to bleed or wash into the shadows which lowers contrast and softens color saturation. (See the section later in this chapter for more on contrast control with filters.)
+
+* Smoke or fog (or even smog) has a similar effect to filters in that contrast and color are lowered because light is scattered more or less uniformly. Smoke has the advantage of atfect-ing objects in the background more than in the foreground.
+
+This is more three dimensional than a filter which reduces the contrast uniformly for the entire scene. Artificial smoke on a closed set is somewhat controllable. A talented effects person can control whether the smoke is concentrated in the foreground or background.
+
+* Softer lighting desaturates; harder lighting emphasizes contrast and color saturation. Specific color lighting can also be used in conjunction with post-production to remove some color. On the film Heart — a remake of a black-and-white film, burgundy (magenta) gels were added to all lights. Then in printing, the magenta was pulled out of the image thus desaturating the color by removing red and blue evenly.
+
+13.2. The Arriflex Varicon. (Photo courtesy of Arri Group.)
+
+image control cinematography LATENSIFICATION
+
+Latensification is similar to flashing in that it “pre-exposes” the film uniformly, however, it is done with chemicals instead of light. It is accomplished by exposing the film to the vapors of various solutions. Latensification is also used to drastically increase film speed.
+
+IN THE LAB:
+
+There are a number of processes which can be performed in the lab to affect the characteristics of the film.
+
+Pull-process developing can lower saturation a little, but is mostly used to lower contrast, especially when combined with silver-retention printing. Conversely, push processing tends to increase contrast. Of course, pull processing has the effect of lowering the effective speed of the film and push processing increases the speed — however at the cost of increased grain.
+
+Double printing. Starting with the original color negative a color [.P. is struck. At the same time a black-and-white positive is made. These elements are then printed together. The black-and-white positive acts as a mask to control highlights and color saturation. This is a highly controllable process since the exact density of the black-and-white positive can be varied with great subtly. This is similar to a technique used by still photographers to control prints. The final result is a desaturated dupe negative. How desaturated the image is depends on what percentage of the total exposure came from the b&w or the color I.P. This technique was used in some scenes of The Natural, photographed by Caleb Deschanel. There was a variation in this case. Normally the black-and-white print is slightly out of focus so that hard edges are not noticeable.
+
+In The Natural, the reprinted color image was printed out-of-focus over the sharp black-and-white image, which creates a diffusion effect.
+
+Video post. Color is easily manipulated in telecine transfers or using digital techniques. In the movie Breaking the Waves the film was transferred to videotape; the video image was manipulated to taste, then scanned back to film.
+
+Art direction. The simplest and sometimes the most effective way to control color can be achieved by selection of colors for the set, the costumes and makeup. A good art department makes a huge difference in controlling the look of the film.
+
+Locations. Selection of locations is critical to the look of the film. Once locations are chosen, the choice of what time of day to shoot can also make a significant difference. The painting and dressing of locations, to whatever extent possible, are also important.
+
+Film stock selection. Kodak Vision 5277 (320T) and Fuji 8582 (F-400T) have a lower overall contrast and a subdued color rendering. Agfa for many years made a film that was lower in contrast. It was used very effectively on the film Our of Africa, where the hard African sunlight would have otherwise been a problem for DP David Watkin. There is generally a correlation between lower saturation and lower contrast softer blacks, since the black density can affect how saturated we perceive a color to be. The general term for less saturated color is pastel. Painters make a color pastel by mixing white into it — similar to letting highlights bleed into the shadow.
+
+Bleach-bypass and other silver retention processes are discussed separately later in this chapter.
+
+PUTTING IT ALL TOGETHER: THE COLOR PALETTE
+
+All of these techniques can be used in various combinations for a wide range of control. It is usually best to begin with selection of locations, art direction and costuming. After that comes selection of time of day to shoot and lighting and grip control.
+
+It is always best to use the simplest means to achieve a goal. Primary colors tend to desaturate less noticeably than pastel colors when using some sort of desaturation technique. Skintones are generally pastel: they will lose their color much faster than a primary color in the frame.
+
+Some DPs use a contrast/desaturating technique such as flashing, and then use a silver retention printing technique to restore the blacks in the prints. Two of the earliest films to use some of these techniques to moderate contrast and desaturate color were McCabe and Mrs. Miller shot by Vilmos Zsigmond and Heavens Gate photographed by Nestor Almendros. (Conrad Hall took over for some scenes at the end when Almendros had to leave for another picture.)
+
+The primary technique used in //eaven s Gate was the simplest one of all: many of the exterior scenes were shot during morning or evening “magic hour” when the light is soft and even. This is a simple method but a very expensive one. Few productions can afford to restrict exterior filming to a few hours a day. Also the farm location in Alberta naturally had a lot of dust in the air which acts like smoke to soften the light. Almendros also used negative flashing and print flashing together to soften the colors and contrast.
+
+VeCabe and Mrs. Miller (Figure 13.3) was one of the first films to use pre-flashing of the negative. Underexposure and push-processing were also used. Double Fog filters were also part of the package.
+
+The result is a stunning film with beautiful subtlety of color rendition.
+
+On Saving Private Rvan, DP Janus Kaminski had the anti-reflee-lion coating stripped off some of the lenses to make them reproduce some of the internal flares that were characteristic of lenses of the war period. These internal reflections also lower contrast. He also used a combination of on-camera flashing (the Panaflasher) and the ENR process. Combining the flashing compensates for the negative getting very “heavy” from the bleach-bypass.
+
+Darius Khondj1’s stunning work on Seven combined flashing with Deluxe’s CCE printing — a silver retention process. For contrast control on the film The Thin Red Line, black smoke was used to create artificial clouds. Staging of scenes within the sunlit and shadow areas was also done with great care. City of Lost Children (Figures 13.1 and 13.5) employed the CCE process in addition to set design and a carefully controlled palette, all of which was facilitated by the fact that it was entirely a studio film. Pavback used the CCE printing process, combined with shooting without the 85 filter outdoors on tungsten stock, and using a blue filter indoors — the blue-bias on the negative ensured that skintones would be consistently 13.3. A frame from McCabe and desaturated. The print was timed to the blue side to keep any reds — jyrs. miller (Warner Bros., 1971), shot from becoming more saturated. by Vilmos Zsigmond using preflash-ing, underexposure, push-processing BLEACH-BYPASS AND OTHER PROCESSES and filtration.
+
+Silver retention as a means of controlling the image has gained popularity in the last few years. It offers several new techniques for the cinematographer to alter the look of the film. All silver retention processes are based on the same phenomenon. When color film is processed, the dark areas are where the most silver is developed. The highlight areas don’t have many silver halide crystals that have been image control cinematography affected photochemically. When color stock is developed the silver halide crystals are replaced with color dyes. Normally, the silver itself is removed by a bleaching process. By either altering the chemistry or skipping this bleaching process (either partially or entirely) some or all of the silver is left in. Leaving the silver in is somewhat like leaving a black-and-white photo on top of the color image. It reduces contrast and color saturation.
+
+Since most of the silver is now concentrated in the darkest areas, these parts of the image will be affected differently from the mid-tones and highlights. This has the effect of making the blacks denser and also desaturating the color rendition. Silver retention 1s usually done on the print. The effect on the print is much greater than when done on the negative. On the print, silver retention affects the blacks most; on the negative it does the reverse; it affects the whites most — it makes them very white, which results in a blown out background.
+
+The effect is the greatest where there is the most silver to begin with.
+
+In the print, these are the black areas. On the negative these are the white areas — the highlights. When done on the print, silver retention doesn’t add much grain because the effect 1s concentrated in the blacks. On the negative, where the highlights are most affected, it adds grain and noise.
+
+ENR
+
+ENR is a proprietary Technicolor process. It was invented by Ernesto Novelli Rimo (hence its name) of Technicolor Rome and first used by Vittorio Storaro on the 1981 film Reds. Since then, Storaro has also used it on films such as Dick Tracy, The Last Emperor and Little Buddha. \t has also been used on films such as Jade. The Game and Saving Private Ryan.
+
+ENR is a color-positive developing technique which utilizes an additional black-and-white developing bath in order to retain some of the silver. After the film has been bleached, but prior to the silver being fixed out of the film, this extra bath allows for a controlled amount of silver to be redeveloped, adding density blacks. ENR is used on the release prints. As a result, each print roll must have the same amount of ENR applied. As a general rule, however. ENR is applied to the entire film.
+
+Not only does it make the blacks blacker, but by increasing contrast in the shadows, there is a slight increase of the shadow detail and an increase in apparent sharpness due to a small edge effect around the image. Note that this is apparent sharpness, not actual sharpness. Many people refer to ENR as a bleach-bypass process, but it is not. Bleach-bypass does have a similar effect, but chemically it is different. In the ENR process, the intensity of the effect can be varied controllably by varying the concentration of the chemistry. This makes it possible to add just a small amount of ENR which has the effect of making the blacks richer but without noticeable effect on color saturation. The ENR process which ts variable in effect must be quantifiable so that the DP and lab can confer on how much is to be done. In the ENR process a densitometer is used to measure the level. In this case, it is an infrared densitometer. As a result ENR is classified in density levels, not percentages. For example, a certain print might be 50 IR. This means a .50 density, not 50%.
+
+CCE
+
+Deluxe, another film lab with a long history in Hollywood uses a process called Color Contrast Enhancement or CCE. CCE raises the contrast, deepens the blacks and adds grain but still preserves some shadow detail. As with ENR, the amount of silver retained is read employed the Cinema, 1995 vith a densitometer centered on 1000nm According to Deluxe, a pure bleach-bypass which retains 100% of the silver might yield an IR density reading of as much as 240, which translates to four times -r that would be found in a normal print. With the amount of sih CCE normally processed negative (no special processes) a nominal reading at 1000nm might be aroun 60. With CCE, a typical reading D-max might be around 180 to 190 IR. This translates to about 75% silver left in the print; one retention of 100° of the silver will not only increase the density of the blacks but of the mid-tones as well. This can result in some unpleasant effects on skintone. By keeping the amount of silver retention in this range, there will be some desaturation of the color rendition, an increase in grain and ks. but there will still be some detail in the blacks, unlike vight “plug up.” CCI was used on the film Seven (Figure 13.4) and also on 1 Ronin (Figure {ey ucil in 100% silver retention where the b 13.8) and many others Also a Deluxe process, ACE stands for itrast Enhance ment. ACE is variable in effect. With ACE it is possible to enhance the blacks without significant effect on color saturation. ACE ts mea sured 1n LTC Laboratories of Paris utilizes the NEC process, which stands for noir en couler French for “black in color.” NEC allows tor silver retention in the interpositive stage. The advantage of this Is that each individual release print does not have to undergo special processing NEC produces denser blacks but has less effect on the overall contrast anc Bleach-bypass is the oldest of the special processing techniques of this type. It involves simply skipping all or most of the bleach step processing. Bleach-bypass was first used on the film /984, photographed by Roger Deakins. In the US, FotokKem, CFI and many other labs have variations on the bleach-bypass technique. Fotokem can perform bleach-bypass on prints, original camera negative and intermediate ST ts (interpositives and internegatives). CFI’s process is called Silver _ It comes in two different levels: Standard and Enhanced. It can = used at different stages of print production In Silver Tint Enhanced, 100% of the silver ts left in the print. In Silver Tint Standard, less silver is retained, resulting in an IR den sitometer value of around 165 to 175. This produces increased contrast. deeper blacks and desaturated colors. In Enhanced Silver Tint. the effect is even greater it is a very high-contrast, hard look Enhanced Silver Tint was used on the film Aansas Cin 13.4. A frame cinematography Skip Bleach
+
+Skip-Bleach is FotoKem’s silver retention process. Bleach-bypass is essentially incomplete processing. The advantage of this is that it is reversible. Fotokem recommends a slight underexposure for negative intended for bleach-bypass. This is because leaving the silver in has the effect of increasing the density of the negative. Density is basically silver affected by photochemical reaction — if there is more silver there is more density. It is the same as if there was additional exposure. This is the case because you are skipping the bleach at the negative stage. Bleach-bypass on the negative not only makes the blacks blacker, it also makes the whites whiter — overall density increases.
+
+This creates a look that is more radical than ENR or a bleach-bypass on the intermediates or the release print. In this way it is very similar to flashing the film. Flashing film is sometimes used by still photographers to increase the ASA of the film. Fotokem offers skip-bleach on the negative, the interpositive and the internegative. They can also combine flashing with skip-bleach on the interpositive and internegative.
+
+All silver retention processes cost more than normal processing.
+
+This is true of any process in which the lab must alter its normal procedures — such as push or pull processing. In skip-bleach or similar process, there is an additional cost. Normally the silver that is taken out of the emulsion is recycled and sold. When it is left in. the lab can no longer resell it and they must pass this cost along to the production.
+
+EXPOSURE COMPENSATION IN BLEACH-BYPASS
+
+When shooting film intended for a silver retention process, some change in your exposure will usually be necessary, You are leaving silver in, which is essentially the same as adding exposure. Generally, you will want to underexpose by 1/2 to a full stop as the skip-bleach process may add as much as 1-1/2 stops. Instead of changing exposure, many DPs combine silver retention with flashing or the use of Varicon or Panaflasher. It is out of the question to use any type of silver retention, bleach-bypass or flashing without prior test- Ing.
+
+The catch is that bleach-bypass in the print stages is very expensive — fora large scale release, it can come to hundreds of thousands of dollars. As a result, few, if any, films have bleach-bypass done for all of the prints. This means that if you underexpose it will be compensated with extra silver in only some of the prints. Some prints will thus be underexposed. This is a judgment call and another reason for extensive testing before using any of these processes.
+
+As a result of the cost of doing bleach-bypass in the release print, many DPs have experimented with doing the bleach-bypass in the original negative or in the internegative and interpositive. The results vary widely and also depend on the color palette of the sets and wardrobe, the lighting, exposure, filtration and lenses.
+
+You must test before shooting with any of these methods.
+
+OTHER TECHNIQUES
+
+CROSS PROCESSING
+
+Cross processing was first developed by still photographers. In cross processing, the original camera film is a reversal stock. such as Ektachrome. This reversal stock is then put through negative processing chemistry. The result is negative image on a clear based film. In other words it does not have the distinctive orange mask that all color negatives have.
+
+13.5. Another frame fror Children. \t that proce are not a automatically n as good as thes has to be u great lighting, 5 IG palette of wardrobe and prop tion, effects and all the ot t the disposal of the DP and pr tion designer The effect of cross processing is increased contrast and more grain. Depending on exposure handling and processing variables the effect can range from subtle to radical. Since there is no orange mask, a similar colored filter must be used in printing. As a result, normal or even slightly underexposed original camera film produces the best results Cross processing results can vary substantially. Some labs will not do cross processing as it involves the use of fomaldehyde to stabilize the magenta dyes and may also result in contamination of the lab’s processing tanks. Without the formaldehyde or a similar stabilizer, the film will fade quickly. If the images are going straight to video transfer, this may not be a concern.
+
+Cross processing was used extensively on the film 7hree Kings and bleach-bypass was used on some scenes (Figure 13.6) — the difference between the two looks was used to underscore the dramatic difference between the American Army camp and the Iraqi village Perhaps the most noticeable effect in cross processed scenes was that the sky goes almost completely white in some shots. This ts in stark contrast to other exterior scenes that were not cross processed.
+
+Phese scenes had a more normal blue tone.
+
+PRINTING NEGATIVE
+
+\n alternative to cross processing Is to print camera negative as an interpositive onto standard print film. Film stock normally used for interpositives is lower in contrast than normal print stock. The reason for this is that successive print stages in post production usu ally result in a build-up of contrast: to counter this intermediate print stocks generally have a lower contrast. Prinung an interposi-live onto a print stock such as Kodak 5244 will increase contrast AS INTERPOSITVE and grain i ilso result in color shifts. Both cross processing and | interpositive printing result in stronger more saturated colors, which makes them very different from bleach-bypass techniques PRINT
+
+TRANSFER FRON
+
+1 which attects color and contrast is to transfer to \nother me video from a print instead of a negative. This can only be done Where no print is needed for projection, Print stocks tend to be con-trastier than negative stocks. This is because negative stocks will usually have to go through internegative, interpositive and final print stages. Each print stage adds contrast, so the original negative » be lower in contrast to counteract this IS desig 13.8. Bleach bypass transforms this otherwise straight shot from Ronin into something that might well pass DIGITAL INTERMEDIATE
+
+For projects finished on video there is an enormous range of image control available, from simple adjustments of the gamma to complex Paintbox, Harry and DaVinci image manipulations. For adjusting gamma and enlarging the image, it is generally best to do so at the time of transfer. One practice that is increasingly common is to transfer the film negative to High Def tape master, perform digital manipulations and then transfer the HD master back to film. This is intermediate. If you plan to do a digital intermediate, called a digita it is critical that you coordinate in advance with the company that will be doing the transfers to and from the negative and whatever post-production people will be handling the digital stages. There are many different options and all of them alfect the look of you images. Doing a test all the way from camera negative through the High Def stages and then back to negative (or print) is critical. Not testing with the conditions relevant to your project can have serious consequences, TECHNICOLOR
+
+As a final note, Technicolor is bringing back the original color imbi-tion printing which helped make the Technicolor “look” so famous This is the printing stage only; it does not involve shooting three separate rolls of film in the enormous Technicolor three-strip cameras.
+
+rhis process involves a matrix which transfers the dyes to the receiving stock; it is completely different from a process which uses dye “clouds” to form the tmage. The method is the same as dye transfer in still photography, which is considered the highest quality color printing technique

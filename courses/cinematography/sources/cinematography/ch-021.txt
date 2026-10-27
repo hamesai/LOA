@@ -1,0 +1,1383 @@
+Back Matter
+
+THE AUTHOR
+
+Blain Brown is a cinematographer based in Los Angeles. He has been the director of photography on features, commercials, documentaries and music videos on all types of formats from 35mm and 16mm film to digital and High Def 24P video. He can be reached at www.BlainBrown.com.
+
+ACKNOWLEDGMENTS
+
+Special thanks to the many people who have helped me with this book, most of all my wife, Ada Pullini Brown.
+
+Aaton, s.a.
+
+Adobe, Ine.
+
+Airstar Lighting, Inc.
+
+Arri Group
+
+Backstage Equipment, Inc.
+
+Bill Burke
+
+Birns and Sawyer, Inc.
+
+Camiek, Inc.
+
+Canon, USA
+
+Century Precision Optics, Inc.
+
+Chapman/Leonard Studio Equipment
+
+Chimera Lighting
+
+Color TheoryDV/Toolfarm
+
+Consolidated Film Industries
+
+David Mullen
+
+Derry Museum, Derry, England
+
+Eastman Kodak, Inc.
+
+Fisher Light, Ine.
+
+Flying Cam, Ine.
+
+FotoKem Film and Video
+
+Puy Film, Ltd, Gamma and Density Co., Inc.
+
+Geoff Boyle and everyone at CML Great American Market (GAM)
+
+Hollywood Camera
+
+Ilford Film
+
+Ira Tiffen and The Tiffen Company
+
+J.L. Fisher, Inc.
+
+Illustrations, page desi Keslow Camera
+
+Kino-Flo, Inc.
+
+Lance Steele Rieck
+
+Lee Filters
+
+Lightning Strikes, Inc.
+
+Lowell-Light Manufacturing, Inc.
+
+Mark Weingartner
+
+Mark Wood
+
+Matthews Studio Equipment Corp.
+
+McIntire, Inc.
+
+Mole Richardson Co., Inc.
+
+Panasonic, Inc.
+
+Panavision, Inc.
+
+PAWS, Inc.
+
+Photo-Sonics, Inc.
+
+Rosco Laboratories, Inc.
+
+San Luigi dei Francesi, Rome.
+
+Schneider Optical, Inc.
+
+Softlights
+
+Sony Corp.
+
+Sunray, Inc.
+
+Tektronix, Inc.
+
+Ultravision, Inc.
+
+Ultimatte, Inc.
+
+Wade Ramsey
+
+WideSereen Software, Inc.
+
+and all the cinematographers, videographers and others who read the manuscript and contributed.
+
+and layout by the author. Photos and frame enlargements not credited are from on projects photographed by the author, éxcept where noted.
+
+acknowledgments bibliography Adams, Ansel. The Negative. Little, Brown & Co. 1983 Arnheim, Rudolf. Art and Visual Perception. University of California Press. 1954 Film as Art. University of California Press. 1957 Visual Thinking. University of California Press. 1969 The Power of the Center. University of California Press. 1982 Barclay, Steven. The Motion Picture Image: From Film to Digital. Focal Press. 2000 Bordwell, David and Kristen Thompson. Film Art: An Introduction. McGraw-Hill. 1997 Brown, Ada Pullini. Basic Color Theory. Unpublished ms. 2000 Brown, Blain. Filmmaker s Pocket Reference. Focal Press. 1995 Motion Picture and Video Lighting. Focal Press. 1995 Campbell, Russell. Photograhic Theory for the Motion Picture Cameraman. A.S. Barnes & Co. 1974 Practical Mation Picture Photography. A.S. Barnes & Co. 1979 Carlson, Verne and Sylvia. Professional Lighting Handbook. Focal Press. 1985 Case. Dominic. Film Technology In Post Production. Focal Press. 1997 Motion Picture Film Processing. Focal Press. 1990 Cook, David. A History of Narrative Film. W.W. Norton & Co, 1982 Davis, Phil. Bevond The Zone System. Van Nostrand Reinhold Co. 1981 Dmytryk, Edward. Cinema: Concept and Practice. Focal Press. 1998 On Screen Directing. Focal Press. 1984 Eastman Kodak. Professional Motion Picture Films (H-1). Eastman Kodak Co. 1982 Kodak Filters For Scientific and Technical Uses (B-3). Eastman Kodak Co. 1981] Ettedgui, Peter. Cinematography: Screencraft. Focal Press. 2000 Fauer, John. The Arri 35 Book. Arriflex Corp. 1989 Feldman, Edmund Burke. Thinking About Art. Prentice Hall. 1996 Fielding, Raymond. Special Effects Cinematography. 4th Edition. Focal Press. 1990 G.E, Lighting. Stage and Studio Lamp Catalog. General Electric. 1989 Grob, Bernard. Basic Television and Video Systems. McGraw-Hill. 1984 Happe, L. Bernard. Your Film and the Lab. Focal Press. 1989 Harrison, H.K. The Mystery of Filters. Harrison and Harrison. 1981] Harwig, Robert. Basic TV Technology. Focal Press. 1990 Hershey. Fritz Lynn. Optics and Focus For Camera Assistants. Focal Press. 1996 Higham, Charles . Hollywood Cameramen: Sources of Light. Garland Publishing. 1986 Hirschfeld, Gerald. /mage Control. Focal Press. 1993 Hyypia. Jorma. The Complete Tiffen Filter Manual. Amphoto. 1981 Jacobs, Lewis. The Emergence of Film Art. Hopkinson and Blake. 1969 Janson, H.W. The History of Art. 6th Edition. Harry Abrams. 2001 Jones, et. al. Film Into Video. Focal Press. 2000 Kawin, Bruce. Mindscreen: Bergman, Godard and First Person Film, Princeton University Press. 1978 Maltin, Leonard. The Art of The Cinematographer. Dover Publications. 1978 Mascelli, Joseph. The Five C’s Of Cinematography. Cine/Grafic Publications. 1956 McClain, Jerry. The Influence of Stage Lighting on Early Cinema. International Photographer. 1986 Millerson, Gerald. Lighting For Television and Motion Pictures, Focal Press, 1983 Nelson, Thomas. Kubrick: Inside A Film Artists’ Maze. Indiana University Press . 1982 Perisic, Zoran. Visual Effects Cinematography. Focal Press. 2000 Rabiger, Michael. Directing - Film Techniques and Aesthetics. 2nd Edition. Focal Press. 1997 Ray, Sidney. Applied Photographic Optics. Focal Press. 1988 The Lens In Action. Focal Press. 1976 Reisz, Karel and Gavin Millar. The Technique of Film Editing. 2nd Edition. Focal Press. 1983 cinematography 7 Rogers, Pauline. More Contemporary Cinematographers On Their Art, Focal Press, 2000 Samuelson, David. Motion Picture Camera Data. Focal Press. 1979 Panaflex User’s Manual. Focal Press. 1990 Sharff, Stephen. The Elements of Cinema. Columbia University Press. 1982 Shipman, David. The Story of Cinema. St. Martin’s Press. 1984 St. John Marner, Terrence. Directing Motion Pictures. A.S. Barnes. 1972 Sterling, Anna Kate. Cinematographers on the Art and Craft of Cinematography. Scarecrow Press. |98t Stroebel, Leslie. Photographic Filters. Morgan & Morgan, 1974 Sylvania. Lighting Handbook, 8th Edition. GTE Products. 1989 Thompson, Roy. Grammar Of The Shot. Focal Press. 1998 Truffaut, Francois. Hitchcock/Truffaut. Simon and Shuster. 1983 Ultimatte Corp. Ultimatte Technical Bulletin #3 “Shooting Film For Ultimatte.” Ultimatte Corp. 1992 Ultimatte Technical Bulletin #4 “Lighting For Ultimaite.” Ultmatte Corp. 1992 Walker, Alexander. Stan/ey Kubrick Directs. Harcourt Brace. 1969 Wilson, Anton. Cinema Workshop. ASC. 1983 bibliography filmography TITLE
+
+Angel Heart
+
+Barry Lyndon
+
+Big Combo
+
+Big Sleep
+
+Black Stallion
+
+Carl Lewis Promo
+
+Citizen Kane
+
+City of Lost Children
+
+Crystal Spring Water
+
+Days of Heaven
+
+Dr. Strangelove
+
+Event Horizon
+
+Fargo
+
+High Noon
+
+Il Conformista
+
+Jacob’s Ladder
+
+JFK
+
+Jules and Jim
+
+Killer’s Kiss
+
+Lady In The Lake
+
+Lawrence of Arabia
+
+Macy’s Fashion
+
+MeCabe and Mrs. Miller
+
+Mildred Pierce
+
+Monsoon
+
+New Amsterdam Beer
+
+Nine 1/2 Weeks
+
+No Goodbyes
+
+Paths of Glory
+
+Perfect Duo
+
+Rain Man
+
+Ronin
+
+Seven
+
+Seven Samurai
+
+The Blind Cellist
+
+Shades of Gray
+
+Shanghai Express
+
+Spartacus
+
+Stage Coach
+
+Strong City
+
+Surrender
+
+The Draughtsman’s Contract
+
+The Great Train Robbery
+
+The Lady From Shanghai
+
+The Lost Boys
+
+The Natural
+
+The Third Man
+
+Three Kings
+
+Touch of Evil
+
+Vertigo
+
+Woman To Die For
+
+Yellow Taxi Woman
+
+Yojimbo
+
+Woman On Fire cinematography 292
+
+DIRECTOR
+
+Alan Parker
+
+Stanley Kubrick
+
+Joseph H. Lewis
+
+Howard Hawks
+
+Carroll Ballard
+
+Tim Alexander
+
+Orson Welles
+
+Caro/Jeunet
+
+Blain Brown
+
+Terrence Malick
+
+Stanley Kubrick
+
+Paul Anderson
+
+Joel Cohen
+
+Fred Zinnemann
+
+Bernardo Bertolucci
+
+Adrian Lyne
+
+Oliver Stone
+
+Francois Truffaut
+
+Stanley Kubrick
+
+Robert Montgomery
+
+David Lean
+
+Blain Brown
+
+Robert Altman
+
+Michael Curtiz
+
+Jag Mundrha
+
+Mark Sitley
+
+Adrian Lyne
+
+Jeno Hodi
+
+Stanley Kubrick
+
+Jeno Hodi
+
+Barry Levinson
+
+John Frankenheimer
+
+David Fincher
+
+Akira Kurosawa
+
+Lawrence Hunger
+
+Jag Mundrha
+
+Josef Von Sternberg
+
+Stanley Kubrick
+
+John Ford
+
+Jeno Hodi
+
+Kelley Cauthen
+
+Peter Greenaway
+
+Edwin S. Porter
+
+Orson Welles
+
+Joel Schumacher
+
+Barry Levinson
+
+Carol Reed
+
+David O. Russell
+
+Orson Welles
+
+Alfred Hitchcock
+
+Kyle Lewis
+
+Blain Brown
+
+Akira Kurosawa
+
+William Hames
+
+DP
+
+Michael Seresin
+
+John Alcot
+
+John Alton
+
+Sidney Hickox
+
+Caleb Deschanel
+
+Blain Brown
+
+Gregg Toland
+
+Darius Khondji
+
+Blain Brown
+
+Nestor Almendros
+
+Gilbert Taylor
+
+Adrian Biddle
+
+Roger Deakins
+
+Floyd Crosby
+
+Vittorio Storaro
+
+Jeffrey L. Kimball
+
+Robert Richardson
+
+Raoul Coutard
+
+Stanley Kubrick
+
+Paul Vogel
+
+Freddie Young
+
+Blain Brown
+
+Vilmos Zsigmond
+
+Ernest Haller
+
+Blain Brown
+
+Blain Brown
+
+Peter Biziou
+
+Blain Brown
+
+Georg Krause
+
+Blain Brown
+
+John Seale
+
+Robert Fraisse
+
+Darius Khondji
+
+Asakazu Nakai
+
+Blain Brown
+
+Blain Brown
+
+Lee Garmes
+
+Russell Metty
+
+Bert Glennon
+
+Blain Brown
+
+Blain Brown
+
+Curtis Clark
+
+Blair Smith
+
+Charles Lawton Jr.
+
+Michael Chapman
+
+Caleb Deschnael
+
+Robert Krasker
+
+Newton Thomas Sigel
+
+Russell Metty
+
+Robert Burks
+
+Blain Brown
+
+Blain Brown
+
+Kazuo Miyagawa
+
+Blain Brown
+
+COMPANY
+
+Caroleo/Tristar
+
+Warner Bros.
+
+Allied Artists
+
+Warner Bros, United Artists
+
+ASAP
+
+RKO Radio Pictures, Inc
+
+Studio Canal+
+
+Leap Frog Prod.
+
+Paramount Pictures
+
+Columbia Tristar
+
+Paramount
+
+Grammercy/PolyGram
+
+Republic/United Artists
+
+Mars Film/Paramount
+
+Carolco/Tristar
+
+Warner Bros.
+
+Carrosse/Janus
+
+MGM/UA
+
+MGM
+
+Columbia Pictures
+
+Studio Ten
+
+Warner Bros.
+
+Warner Bros.
+
+Everest Pictures
+
+Chelsea Pictures
+
+MGM/ Warner Bros, Film Ventures
+
+United Artists
+
+Vidmark Ent.
+
+United Artists
+
+MGM/UA
+
+New Line Cinema
+
+Toho/Columbia
+
+Cameo Films, Inc.
+
+Everest Pictures
+
+Paramount Publix Corp.
+
+Universal Pictures
+
+United Artists
+
+SCP, Ine
+
+Cameo Films, Inc.
+
+BFI/UA Classics
+
+Edison Man. Co.
+
+Columbia Pictures
+
+Warner Bros.
+
+Tristar/Columbia
+
+London Film Prod.
+
+Warner Bros.
+
+Universal Pictures
+
+Paramount Pictures
+
+8th Avenue Prod.
+
+Chamisa Prod, Toho Company Ltd.
+
+Factory Films
+
+YEAR
+
+1987 1975 1955 1946 1979 2001 194]
+
+1995 1997 1978 1964 [997 1996 1952 1970 1990 199|
+
+1961 1955 1947 1962 1989 197]
+
+1945 1998 1986 1996 1957 1993 1988 1998 1995 1954 1999 1997 1932 1960 1939 1996 1999 1982 1903 1948 1987 1984 1949 1999 1958 1958 2000 2000 index AatonTCgun, 284
+
+Academy, 3-32
+
+Ace, 231-244
+
+Action cut, 103 line, 88 AD, 259-260
+
+Adams, Ansel, 227
+
+Additive color control, 225 colors, 142-144 Adjustable Contrast Enhancement, 231
+
+Aerial shot, 79 Almendros, Nestor, 229
+
+Alternating Current, 265
+
+American Standards Association, |1 | Amplitude, 132
+
+Analog and digital color space, 207-222 Analog/digital conversion, 207-222 Angle of incidence, 182 reflection, 182 Anode, 264
+
+Answering shot, 22, 23, 93-106
+
+Aperture, 108, 119, 187
+
+Appia, Adolphe, 163
+
+Apple boxes, 256 Ares, color, 178 Aristotelian unities, 20 Armorer, 283
+
+Arri IE, 59
+
+Art direction, 228 ASA, 108-130, 174-180
+
+Assistant Chief Lighting Technician, 255
+
+Autotransformers, 273
+
+Azimuth, 263
+
+Background, 51 action, 259-260 Balance, 35
+
+Ballast, 147 flicker-free, 148 fluorescent, 156-160 magnetic, 265 square-wave output, 266 carbon are, 152 xenon, 151 Balloon lights, 159-160 Baroque, 162
+
+Barrel distortion, 196 Barry Lyndon, 50, 101
+
+B-Camera, 257
+
+Beam splitter viewfinders, polarizers, 243 Beauty pass, 269 Belasco, David, 163
+
+Bellows, 194
+
+Best boy electric, 255 grip, 255 Big Combo, The, 35, 38
+
+Big head CU, 13-32 Big Sleep, The, 42
+
+Birth Of A Nation, 89
+
+Bitzer, Billy, 66
+
+Black body, 172, 238 Black Maria, 163
+
+Black Stallion, The, 42
+
+Black-and-white film. 110. 111, 120, 174-180
+
+Bleach-bypass, 228, 230, 231-244
+
+Blue conversion filters, 241 only adjustment, 206-222 Bluescreen, 141, 269
+
+Bookending, 21
+
+Bordwell, David, 8
+
+Bound For Glory, 66
+
+Brecht, Bertol, 50
+
+Brewster’s angle, 242 Brightness perception, 117-130 Brightness range, 115-130 Broadcast quality, 209 Broads, 156
+
+Brute are, 151 for lightning effect, 283 Building blocks of scenes, 9-32 Bulb designations, 160 Calling Of St. Matthew, The 162
+
+Camera, crew, 249-260 head, 72 mounting, 72 movement, 6-32 moves, 66 position, 67-82 reports, 253-260 white balance, 206-222 Camlock, 273
+
+Canaletto, 176
+
+Capping shutter, 285 Car shots, 78 Caravaggio, 162
+
+Carbon arc, 151 Cathode, 264
+
+Cc, 173
+
+C-Camera, 257
+
+CCD 172
+
+CCE, 229, 230-244
+
+Celsius, 172
+
+@OFI-231 Character shots, ]2-32 Characteristic curve, 115-130 Chase scenes, 98 Cheating, 15-32 door matching, 15-32 window matching, 15-32 Chevreul, Michel-Eugene, 141]
+
+Chief Lighting Technician, 255
+
+Chinese lanterns, 158-160 Chip chart, 270 Chocolate, 237
+
+Chroma, 134-144 gain, 203 key, 269-286 Chromaticity diagram, 143-144 CID, 172
+
+CIE system, 143-144 Cinemascope, 3-32
+
+Cinematic technique, 2-32 index Cinequeen, 153 timing, 225 Circle of confusion, 185-196 triadic harmonies, 140-144 Circular polarizer filters, 244 Value, 137 Citizen Kane, 52, 58, 90, 186 wheel, 135-144
+
+City Of Lost Children, 229, 274 Colorist, 220
+
+Clapper, 252 Colorspace, 139
+
+Clinometer, 263 film and video, 139 Close focus lenses, 194 Colortran, 153 Close, Glenn, 165 Commission International De |’Eclairage, 143 Close-ups, 12-32 Common marker, 257 tools, 193 Communication, 258-260 CMYK, 142 Compass, 262
+
+Collimation, 196 Complementary, 139, 225
+
+Color, 113-130, 132-144 Composite video signal, 199 additive, 142 Composition, 34 advancing/retreating, 139 rules for people, 48 analogous harmony, 140-144 unbalanced, 35 balance, 225 Compression of space, 53 balance of film, 174-180 Computer monitor, 267 bars, and practical monitors, 267 Conceptual cut, 105 chroma, 138 Condor, 77 CIE, 143 Cones, eye, 133-144 complementary, 141 Connecting shot, 14-32 Content cut, 103 Continuity, 84-106, 248
+
+20% rule, 94 30° rule. 94 cheating, turnaround, 93 content, 84 complementary harmonies, 140-144 contrast enhancement, 230 correct fluorescents, 175 corrected fluorescents, 156 correction, 173, 221 degradation, 140 eae difference signals, 204 editorial, 84 digital and electronic, 144 jump cuts, 102 discordant, 140-144 major axis, 94 eamut. 139 movement, 84 harmony, 139-144 moving shots, 94 HSB/HLS. 143 over-the-shoulder, three shots, 97 hue, 137 Oe person, 247 hue — video, 201 position, 85 meter, 172 props, of mixing, 139 screen direction, 94 models, 142-144 secondary axis, 94 time, 85 monochrome harmony, 140-144 negative, 112-130, 225, 233 primary, 136 printing, 224 reference burst, 200 : ie rendering index, 146, 172 High Def, 116 onditi é lens, 196 wae a negative, 117-130 reduction, with Varicon, 226 Contrastiness, 114
+
+Controlling light, 160 Converging action, 99 turnaround, cheating, 93 Contrast, 114-130 control, 227 filters, 237-244 saturation, 227 saturation, and Varicon, 227 saturation - video, 20] secondary, 136 Conversion filters, 175-180, 240-244 simultaneous contrast, 141 Cook. David, 52 split complementary harmonies, 140-144 Cool-white. 175 subtractive, 142 Correcting light balance, 175-180 temperature, 172 off-color lights, 178 temperature blue, 176 Correlated Color Temperature, 172 temperature orange, 176 Cosine law, 109-130 temperature, and filtration, 238 Cosine response, 122 tertiary, 136 Coverage, 18-28 cinematography answering shot, 24 golden rule, 22 preplanning, 93 three-shot, 22 Crab dolly, 73 Crane, moves, 71 and grip crew, 256 arc, 77 arm, 76 backswing, 76 chassis, 77 counterweights, 76 jib, 76 operation, 76 Crash boxes, 257, 284 cams, 257 CRI, 146, 172, 177
+
+Cribbing, 256
+
+Cross processing, 232-244 CRT phosphor, 199 267
+
+C-stands, 256
+
+CTB, 176, 177 and moonlight, 282 CTO, 176-180 and fire effect, 280 CU, 13-32
+
+Cuttability, 94-106
+
+Cutaway, 14-32
+
+Cutting, 6-32 eyeline continuity, 99 on action, 104 point, 19 Cye lights, 157 D Log E Curve, 113
+
+Daguerreotypes, 237
+
+Dance floor, 74 Dancyger, Ken, 85
+
+DAT, 218 da Vinci, 234 Day exteriors, 160 Day-for-night, 277, 281
+
+Day For Night, 277
+
+Daylight, 175 blue, 147 sources, 175-180 De Niro, Robert, 70
+
+Deakins, Roger, 231
+
+Declination, 262-286
+
+Deep focus, 52, 193 Degradation of color, 140 Deluxe, 230
+
+DeMille, C. B., 163
+
+Denecke timecode slates, 252 Densitometer, 117, 230
+
+Densitometry, 113-130
+
+Density, 114-130, 225
+
+Density above base density plus fog, 227 Depth, 38-48 atmospheric perspective, 4] chiaroscuro, 40 foreshortening, 40 Hitchcock’s rule, 39 lefi/right, 40 linear perspective, 40 overlap, 38 perception of the, 5-32 vertical location, 40 Depth-of-focus, 188
+
+Depth-of-field, 186, 187-196
+
+16mm film, 55 35mm film, 55 and zooms, 190 circle of confusion, 187 deep focus, 52 digital video, 56 High Def, 55 hyperfocal distance, 188-196 image magnification, 187 macrophotography, 192 selective focus, 55 Desaturating color, 227-244 Deschanel, Caleb, 165-169, 228
+
+Design principles, 35 exposure, determining 120 Development, 113 process, color, 112-130 Dial, 259-260
+
+Dichroic, 153 sources, 175 Dick Tracy, 230
+
+Dickson, K. L.. 163, 198
+
+Dielectric, 244
+
+Diffusing dome, 121 Diffusion, 272 and focus, 185 filters, 235 grip, 160 DigiBeta, 215
+
+Digital and electronic color, 144 intermediate, 234 video, 215-222 video encoding, 208-222 video, shooting, 215 Dimmer, 272, 280 board, 273 packs, 273 Dino, 154
+
+Diopters, 193-196
+
+Directional conventions, 89-106 Director of Photography, 248-260
+
+Discharge sources, fluorescent, 177 Discontinuous spectrum, 178 Distancing - Brechtian, 50 D-Max, 231
+
+Dollies, 256
+
+Dolly, 66, 69, 73-82 crab, 74 grip, 68, 259-260 shot, 69 terminology, 73 track, 256, 257 Double convex, 189-196 index Double Fog, 227 shutter speed, 129-130 Double Indemnity, 164 ultraviolet, 129-130
+
+Double printing, 228 value, 122 Draughtsman s Contract, The, 2-32 Extension plate, 75 Dr: Strangelove, 59 Extension tubes, 194
+
+Drop frame, 210-222 Extreme close-up photography, 19] Dutch angle, 62, 75 Eye fatigue, 140 Dutch head, 75 Eye level, 60 DV, 215 Eye sweeps, 98
+
+DVCPro, 215 Eye, human, 133-144
+
+EBU, 209 Eyeline, 23
+
+ECU, 13-32 for a seated character, 100 Edgecode, 209 in over-the-shoulder coverage, 99 Edison, Thomas, 163, 198 F/stop, 108-130, 183-196
+
+Editing, 198 Far cycs, 157
+
+Editorial continuity, 19 FAY, 154 action cut, 103 Feeder cable, 273 character shots, 102 Feldman, Edmund, 162 conceptual cut, 103 Fields, video, 216 content cut, 103 Film and video composition, 47 cutaways, 102 Film Art: An Introduction, 8 inserts, 102 Film Noir (book), 164 issues, 102 Film plane, 190 jump cut, 102 speed, determining, 120 match cut, 103 stock, 119 ; needs, telecine, 218 stock selection, 228 POV cut, 103 timer, 220 zero cut. 103 Filming practical monitors, 267-286 Effects filters, 235, 237-244 Filmspace, 5-32, 90 live, 279 Filter, factors, 195 EI, 108-130, 174-180 color correction, 241 Eisenstein, Sergei, 98 contrast control, 241 Ektachrome, 232 conversion, 240 Electric crew, 255 cooling, 241 Electricians, 247, 255-260 ND, 243
+
+Electromagnetic spectrum, 108 neutral density, 242 Electronic ballasts, 266 types, 235 gun, 283 warming, 241] Elliptical cuts, 19 Filtration, 58, 248
+
+Empty frame, 20 Fire, 279
+
+Emulsion, 110, 119 safety officer, 283 Emulsion, linear, 114 First AC, 250-260
+
+Encoded color, 204 Flags, grip, 256 ENR, 229, 230-244 Flame bars, 280
+
+Entering and exiting frame, 20 Flare/glare, 58 Entrance pupil, 183, 189-196 Flares, 243
+
+Establish the geography, 10-32 Flash, funshot effect, 283 Establishing shots, 9-32, 68 Flashbulb rigs, for igang, 283 EV, 122 Flashing, 225, 227
+
+Exit pupil, 189-196 Flicker, 264-286
+
+Explosions, 284 Flicker boxes, 280
+
+Exposure, 108-130 generator, 280 and bleach-bypass, 232 Flicker-free, 148 and camera, | 29-130 ballasts, 266 and flashing, 225 Flood-spot, 272 and skip-bleach, 232 Fluid head, 72 factors, 243 Fluorescent, 172, 264 formula, 129-130 lighting, 221 High Def, 129-130 high-frequency, 156-160 index, 120 Focal length, 108, 183 shutter angle, 129-130 plane, 108 cinematography Focus, 184-196
+
+AC, 57 focus-puller, 57 rack, 57 selective, 57 tilt, 186 Fog, 227
+
+Foot-candles, 108-130
+
+Forces of visual organization, 41 Foreground, 51
+
+Formaldehyde, 233
+
+Fotokem, 231, 232
+
+4x4, 160
+
+4:3 aspect ratio, 198 400 Blows, The, 102
+
+4K, 149-160
+
+Frame, 34 rate, 58, 110 rate, and flicker, 265 Frames, grip, 256 Framing, 3-32 chart, 222 Frankenheimer, John, 106
+
+Frazier lens, 195 Frequency, 132 meter, 266 Friction head, 73 Front nodal point, 188-196 Front porch, 75 Fuji, 118
+
+Full shot, 11-32 Gaffer, 255, 258-260
+
+Game, The, 230
+
+Gamma, 115-130
+
+Gas discharge tubes, 163 Geared head, 72 Gel charts. 160 Generator, 148, 158, 255 and dimmers, 273 Geomagnetic declination, 262 German Expressionism, 164
+
+Get a piece of it, 16-32 Glare, veiling, 58 Gobo holder, 158 God’s eye view, 61 Going through a door, 95 Goodfellas, 69
+
+GPS locator, 262 Grads, 237-244
+
+Grain, 110, 111 tabular, 111 Gray card, 126-130, 218, 219 reference, for telecine, 218 scale, 125-130, 178, 179 Green look, 180 Green screen, 269 Greenaway, Peter, 2-32
+
+Griffith, D.W., 66, 89
+
+Grip crew, 255 equipment, 160 nets, 272 Grips, 67-82, 247, 255
+
+Group shots, 98 Gun shots, 283 Guns, safety, 284 H&D curve, 113 Haircut, 13-32, 48
+
+Halide salts, 110 Hall, Conrad, 229
+
+Handheld, 72
+
+Harry, 234
+
+Harttman, Louis, 163
+
+HD master, 234 Headroom, 48
+
+Heavens Gate, 229
+
+Hertz, 132
+
+Heston, Charlton, 25
+
+High angle, 61 High Def, 198-222, 234 formats, 213 High frequency fluorescents, 156-160 High key colors, 134 High Noon, 20
+
+High pressure sodium, 179 High rollers, 256 High speed filming, 59, 276 High-contrast emulsion, 115 High-hat, 73
+
+History Of Art, The. 162
+
+History Of Narrative Film, A, 52
+
+Hitchcock, Alfred, 4-32, 106
+
+Hitchcock’s Rule, 26
+
+HMI, 146-160, 172, 175, 240, 264 color, 178 PARs, 155 problems, 150-160 rules, 149-160 Horizontal blanking interval, 20] syne pulse, 200 HSB/HLS, 143
+
+Hue, 134-144
+
+Hurter and Driffield, 113
+
+Hyperfocal distance, 188-196 IEEE, 199
+
+Illumination, 109
+
+Image control, 58 plane, 184 quality, measurement, 278 Imax, 185
+
+Incident meter, 121 Industrial lamps, 178-180 sources, camera filters for, 179 Inertia point, 117, 225 Infinity focus, 196 Infrared, 110 densitometer, 230 Innovision, 194, 195
+
+Insert, 14-32 atmosphere, 15-32 emphasis, 15-32 practical, 14-32 Institute of Electrical And Electronic Engineers, 199
+
+Institute of Radio Engineers, 199 index Interaction of color, 139, 140-144 Interlaced scanning, 199 Internegative, 233
+
+Interpositive, 233
+
+Intervalometer, 60, 284
+
+Introductions, 100 characters, 101] geography, 101 place, 101 time, 101] Inverse square law, 109-130 Invisible technique, 18-32 IRE, 199, 219, 270
+
+ISO, 108-130
+
+ISO speed, 109 Jade, 230
+
+Jamming timecode slate, 252 Janson, H.W., 162
+
+Jarmusch, Jim, 50
+
+Jaws, 69
+
+Jib arm, 75 Joseph of Derry, 162-169
+
+Jump cut, 102 Kaminski, Janus, 229
+
+Kansas City, 231
+
+Keep the nose out, 97 Kelvin, 172, 238
+
+Key grip, 258-260 Keying, 270
+
+KeyKode, 218
+
+Khondji, Darius, 229
+
+Killing, The, 164
+
+Kino-Flo, 156-160 for process photography, 271 Kodak, 111, 118, 219, 240, 271
+
+Kubrick, Stanley, 50, 66, 85, 101, 162-169
+
+Kuleshov, Lev, 8-32
+
+Kurosawa, Akira, 10-32, 85, 162
+
+L.C.T. Yellow, 178
+
+La Tour, 162
+
+Lady From Shanghai, The, 26, 54, 63
+
+Latensification, 227
+
+Latent image, 111 Latitude, 119, 120, 262
+
+Laws of Simultaneous Contrast, 141
+
+LC filters, 226 Leko, 158-160
+
+Lens, 45-60 distortion, 5] extender, 195 height, 60 normal lens, 51 perspective - depth of field, 52 perspective - expansion of space, 51 perspective - wide lens, 51 psychological space, 53 tests, 196 Leveling, 256
+
+Levinson, Barry, 165-169
+
+Light and color, 134 balancing filters, 175-180 energy, 108 Lighting, 141-166, 248 bluescreen/greenscreen, 270 calculations, 108 equipment, 146-160 extreme close-up, 276 source distance, 109-130 Lightning, 283
+
+Strikes, 283
+
+Light-scattering filters, 227 Line, The, 87
+
+Linear film response, 117 Litho film, 114-130 Little Buddha, 230
+
+Lo Cons, 227
+
+Loader, 253, 254-260
+
+Locations, 228
+
+Locked off, 257 Log E, 113, 116
+
+Log exposure, 224 Logarithms, 113, 116-130
+
+Long Voyage Home, The, 52
+
+Longitude, 262
+
+Look establishes new line, 99 Looking room, 48 Lord Kelvin, 172
+
+Low angle, 62 contrast emulsion, 115 contrast, 114-130 key colors, 134 low pressure sodium, 179 mode, 75 Low Cons, 227
+
+LTC, 211
+
+LTC Laboratories, 231
+
+Luminance, 200 color, 203 key, 272 Lux, 108-130
+
+Macro lenses, 194 Macrophotography, 191-196 depth-of-field, 192 exposure, 192 lens displacement, [92 Magic boxes, 280 hour, 229 Magnetic North, 262 variation, 262 Magnification, 191
+
+Magnificent Ambersons, The, 186
+
+Manipulating perspective, 54 Marks for actors, 254, 258-260 Master scene method, 17-32 Match cut, 105 Mathematics of optics, 183 Matrix, The, 285
+
+Matte box, 243 Matte for compositing, 269 shot, 269 Maxi-brute, 153
+
+MeCabe and Mrs. Miller, 229
+
+Medium shot, 11-32 Mercury vapor, 173, 178, 264 cinematography Metal halide, 178 Metamerism, 141-144, 146, 177
+
+Metaphor of lighting, 169 Micro-reciprocal degrees, 239 Midground, 51
+
+MiniDV, 215
+
+Minolta Color Meter, 173
+
+MinusGreen, 178
+
+Mired, 173, 176 values, 239-244 Mitchell diffusion, 236 Modulation-transfer function, 278 MolePar, 153
+
+Monitor setup, 205 Monitors, and MOS shooting, 268 Montage, 28
+
+Moonlight, 108, 281, 282
+
+MOS, 148
+
+Motion control pass, 269 control rigs, 191-196 Motivation, 66
+
+Motivator, 257
+
+Move in, 68 Move out, 68 Movement in the visual field, 46 Moving shots, 70-82 car, 76 helicopter, 76 jib arm, 76 motivation, 66 punch in, 68 remote head, 77 Technocrane, 77
+
+MT-2, 152, 178
+
+MTF, 279
+
+MTY, 178
+
+Munsell system, 136, 203 Musco light, 158 Nanometer, 132
+
+National Television Standards Committee, 198
+
+Natural, The, 165-169, 228
+
+Nature of light, 132 Nautical charts, 263 ND, 176 grads, 237 NEC, 231
+
+Negative, 111
+
+Negative density, 115-130 printing, 224 Nets. 236
+
+Nets, grip, 256 Neutral density filters, in lighting, 272 shot, 91 Newton, color wheel, 134 Newton, Sir Isaac, 135
+
+Nine 1/2 Weeks, 50, 52, 276
+
+Nodal points, 188-196 Noir, 163
+
+Noir en couler, 231 Non drop-frame, 209, 210-222 Nooks, 156
+
+Norris Intervalometer, 284
+
+Noseroom, 48
+
+NTSC, 198-222
+
+NTSC video, and practical monitors, 267 Objective, 6-32
+
+Off-screen space, 8-32 180° rule, 88 shutter, 199 One light dailies, 225 |.2k, 149-160 Operator, 249
+
+Optic nerve, 134 Optical shift, 196 Optics, 5-32, 182-196 and depth-of-field, 187 bellows, 194 close focus lenses, 194 compression of space, 5-32 critical, 185 extension tubes, 194 macro lenses, 194 macrophotography. 192 mental, 185 resolving power, 187 Orange mask, 232 Orthochromatic, 174-180
+
+OTS, 14-32, 84 and inserts, 100 Out Of Africa, 118, 228
+
+Output, sources, 108-130 Overlapping method, 27 Over-the-shoulder, |4-32 Paintbox, 234
+
+PAL, 209, 221
+
+Pan, 67-82
+
+Panaflasher, 120, 229, 232
+
+Panastar, 59
+
+Panavision, 59
+
+Panchromatic, 174-180
+
+Panoramic, 68
+
+Parabolic reflector, xenon, 151 Parcan, 154
+
+PAR, 153 -160 Pastel, 228
+
+Paths Of Glory, 85
+
+Pedestal, 202
+
+Pedestals, 78
+
+Philosopher Giving A Lecture On The Orrery, 162-169
+
+Photo bulbs, 240 Photochemistry, 110
+
+Photographic film, 110-130 Photometric data, 160 Photon, 110, 132
+
+Photo-Sonics, 59, 275, 276
+
+Pick-up, 17-32
+
+Picture car, 78 Pincushion distortion, 196 Place and fall, 128-130 Plan scene, 25 Planckian radiator, 172 Plasma cloud, 264 Plexiglas, 257 index PLUGE, 205
+
+PlusGreen, 178
+
+Point of view, 2-32 Polarizers, 242-244 video cameras, 244 Polaroid, 127-130, 277
+
+Portable units, 159-160 Positive, 111
+
+Post-flashing, 226
+
+POV, 1-28 breaking the fourth wall, 8 cheating, 14 cut, 104 doggie cam, 7 narrative, 8 objective, 6 subjective, 6 the look, & Pre-exposing, 225
+
+Pre-flash, 227
+
+Pre-roll, 218-222
+
+Primary colors, 136 Principal plane of focus, 185 Principles of design, 34 Print stocks, 233 Printer lights, 224-244 Process photography, 269 Processing, 111
+
+Processing amplifier, 204 Production assistant. 258-260 designer, 246, 257 Promist, 227
+
+Proscenium, 2-32, 50, 90
+
+Pull-process developing, 228 Punch-in, 70
+
+Purkinje effect, 134, 282 Pyrotechnician, 283
+
+Rack focus, 56 Radar screen, 267 Raging Bull, 59
+
+Rain, 282
+
+Ramsey, Wade, 108-130
+
+Reaction shot, 14-32 Real time continuity, 19 Rear nodal point, and special effects shots, 190 Redford, Robert, 165
+
+Reds, 230
+
+Reference black level. 200 Reference frame, in process photography, 269 Reflectance, 108-130 meter, 122 Reflection, 110, 139, 182
+
+Retraction, 182-196
+
+Refractive index. | 82 Registration, 224
+
+Remote head, 72 Renaissance, 162
+
+Resets, 259-260
+
+Reshoots, 247
+
+Resistance dimmers, 272 Resolution, 196
+
+Reveal, 20, 63, 70, 101 cinematography 300
+
+Reversal stock, 232 Reverse, 91
+
+Revolution, 195
+
+RGB, 142 color signals, 203 values, 144 Rigging, 256
+
+Risers, 75
+
+Rocker plate, 73 Rods, eye, 133-144 Rolling shot, 72 Ronin, 106, 231
+
+Rope, 19, 106
+
+Rosco, 176 scrim, 243 sun, 176 Rubber cement, 237 Ruby, 154
+
+Rule of thirds, 47 Rules of composition, 48 Sand bags, 256 Saturation, 117
+
+Saving Private Rvan, 60, 227, 230
+
+Schedule, 258-260
+
+Scorsese, Martin, 59
+
+SCR dimmers, 273 Screen direction, 88-106 car shots, 95 covering a curving walk, 96 door entrances/exits, 95 entering and exiting frame, 96 entrance, 96 exit, 96 eyelines, 100 inserts, 100 minor axis, 97 moving action, 100 neutral axis to exit frame, 96 three shots, 96, 97 turning a corner, 96 Seven, 231
+
+Seapars, 278
+
+Seat extension, 75 Secam, 209
+
+Second AD, 258-260 electric, 255 unit, 256 unit director, 256 unit DP, 256 Secondary colors, 136 SED; 1:72; 175
+
+Selective focus, 55 Sepia, 237
+
+Set procedures, 258-260 Setting up a color monitor, 205 Seven Samurai, 10-32, 42, 85
+
+Shadows, 119
+
+Shining, The, 66
+
+Shooting High Def, 212-222 order, 22 process photography, 269-286 Shot list, |8-32, 247 Shots, 9-32 big head, 9-32 cowboy, 9-32 dirty single, 9-32 head and shoulders, 9-32 medium, 9-32 pick-up, 17-32 tight two, 9-32 wide shot, 9-32 Shoulder, 115
+
+Shutter, 129-130 angle, 60, 110, 129-130 speed, 110 Side boards, 75 Sides, 258-260
+
+Silicon controlled rectifiers, 273 Silva, 262
+
+Silver halide, 110 nitrate, 110 retention, 228, 229 Tint Enhanced, 231
+
+Silver, Alain, 164
+
+Simo, 218
+
+Single, 13-32
+
+6k, 148
+
+Six types of cuts, 103 16x 9, 198
+
+Skip bleach, 232-244 Skylight, 240
+
+Slate, 257 slating technique, 251-260 Smart Slates, 252 timecode, 252 Slow speed blur, 59 Smoke, 227, 279 crackers, 279 SMPTE, 209 color bars, 202 Snorkles, 194
+
+Snot tape, 236 Society of Motion Picture and Television Engineers, 209 Sodium vapor, 173,178, 264 Soft lenses, 58 lights, 155 Spacelights, 158-160
+
+Sparks, 255
+
+Spatial orientation, 87 SPD, 172
+
+Spectra, 129-130
+
+Spectral energy distribution, 172 power distribution, 172 Spectrum, 108
+
+Specular, 58
+
+Speed, 132
+
+Spit mark, 254 Split diopter, 193-196 Spotmeter, 128-130
+
+Square-wave, 148
+
+Standard light sources in CIE, 144 Star filters, 236 Static frame, 50 Steadicam, 64, 68, 246
+
+Step printer, 224 Stop, 108
+
+Storaro, Vittorio, 230
+
+Story board, 18-32 Straight-line portion, 115 Stranger Than Paradise, 50
+
+Streaks N° Tips, 243
+
+Strobes, 274-286
+
+Stylistic choices, color, 180 Subject brightness, 123-130 luminance, 118 range of brightness, 122 Subjective, 6-32
+
+Subtractive color, 113-130, 134, 142-144
+
+Sun location, 262 Sunlight, 108
+
+Sunrise (movie), 62 Sunrise, 175
+
+Sunset, 175, 237
+
+Susan Hayward, 54
+
+Sync sound speed, 148 T/stop, 183
+
+TAF, 222
+
+Taking lens, 184 Technicolor, 234
+
+Technique Of Film And Video Editing, The. 85
+
+Telecine, 216-222
+
+Telecine analysis film, 222 Telecine exposure calibration, 222 Tellotte, J.P, 165
+
+Temperature, 134
+
+Tertiary colors, 136 Thin Red Line, The, 229
+
+Third AC, 254
+
+Third grip, 255 Third Man, The, 63
+
+Thomson, Kristin, 8
+
+Three dimensional field, 38 Three Kings, 233
+
+Three shots with dominant character, 97 3:2 pulldown, 216 Three-dimensional, 5-32, 90
+
+Tilt, 62, 67-82 focus, 195t Tilt plate, 73 Time lapse, 60 lapse photography, 284-286 Time slicing, 285-286 Timecode, 209
+
+Timecode slating, 211 Toe of the curve, 115 Toland, Gregg, 186
+
+Tools of lighting, 146-160 1OK, 152
+
+IK, 133
+
+20K, 152
+
+2K, 152 baby, 153-160 Big Eye, 152 brute arc, 152 deuce, 152 index fresnels, 152-160 inkie, 153 juniors, 152 open face, 153 PAR, 22, 153
+
+Pepper, 153 tenners, 152 tungsten fresnels, 152-160 Tweenie, 153 twenty, 152 xenon, 150 Touch Of Evil, 25-28, 64
+
+Tracking shot, 63 Tracy, Spencer, 254
+
+Trailer, 78
+
+Transfer, 219 from print, 233 video to film, 216 Transitions, 19
+
+Transparency, 139
+
+Triple take, 27 Tripod, 73
+
+Tristimulus theory, 133 in video, 203 True North, 262
+
+True stop, 183 Truffaut, Francois, 64, 102
+
+Tungsten light, 174-180 daylight, 176 Turnaround, 23, 92 cable connectors, 273 TV and projector effects, 281-286 studio, 108 Tweaking, 258-260
+
+12K, 147
+
+12x12, 160
+
+20% rule, 94 20x20, 160
+
+Twenty four frame progressive, 213 29.97tps, 210, 268
+
+24P, 213
+
+2.5k, 149-160
+
+Two shot, 12-32 Type A film, 174-180, 240 B film, 174-180, 239 D film, 239 Types of moves, 68-82 countermove, 70-82 tracking, 70-82 U.S. Geological survey, 263 Ultimatte, 269-286
+
+Ultracons, 227
+
+Ultraviolet, 178
+
+Underslung head, 73 Underwater filming, 277 Underwater housing, 277 Unilux, 274
+
+Unity, 35
+
+UV, 178, 240 filter, 240 Value, 134-144
+
+Variable focal length lenses, 191-196 shutters, 60 Variac, 273
+
+Varicon, 120, 226-244
+
+Varieties of Visual Experience, 162
+
+Vectorscope, 144, 201-222
+
+Veiling glare, 196 Vertical Features Remake, 28
+
+Vertical syne pulse, 201 Video, 198-222
+
+HD cameras, 212 High Def, lighting, 214 High Definition video format, 212-222 Longitudinal timecode, 211 Panasonic 27V, 212 slating, timecode, 211] Sony 900, 212
+
+Vertical Interval Timecode, 212
+
+VITC, 212 frame rate, 209 lighting, 215 signal, 198 tap, 198 Vignetting, 196
+
+Visible light, 132 Vision, human, 5| Visual balance, 35 Visual communication, 34 Visual organization, 29-44 balanced frame, 46 closed frame, 45 compositional triangles, 42 frame, the, 43 frame within a frame, 46 horizon line, 43 horizontals, verticals and diagonals, 43 line, 41 open frame, 45 poetry, 169 positive and negative space, 46 power of the edge, 43 sinuous line, 42 style, 164 unbalanced frame, 46 vanishing point, 43 weight, 35, 48 VITC, 211
+
+Vlahos, Peter, 269-286
+
+Voices In The Dark, 165
+
+Voiles, 236
+
+Ward, Elizabeth, 164
+
+Water EFX, 282
+
+Watkin, David, 118, 228
+
+Wave, 132
+
+Waveform monitor, 201-222 Wavelength, 108, 132, 172
+
+Weber, E.H., 116
+
+Wedges, 256
+
+Welles, Orson, 25-28, 54, 63
+
+White-flame carbons, 151, 175 Wide shot, 9-32 Wild walls, 257 cinematography Working Girl, 79
+
+Wratten, 176-180, 242
+
+Wuthering Heights, 52
+
+Wyler, William, 52
+
+Xenons, 150-160, 264
+
+Y-1, 152, 178
+
+Yellow-flame carbons, 151 Yojimbo, 277
+
+YUV, 208
+
+Zero cut, 106 Zone System, 122-130, 225
+
+V, 125-130
+
+Zoom, 67-82
+
+Zsigmond, Vilmos, 229 index CINEMATOGRAPHY
+
+CINEMATOGRAPHY
+
+Image Making for Cinematographers, Directors, and Videographers BLAIN BROWN
+
+Cinematography derives from Greek roots that mean writing with motion This is the essence of filmmaking, which applies equally whether you are shooting on filn video, digital, or High Def. In this broader sense it encompasses the job of both the cine matographer and the director.
+
+This book covers all aspects of cinematography as it applies to every type of filmmaking covers knowledge, methods, and techniques essential to the work of the film DP. the director or the videographer on any type of project.
+
+The first section covers concepts that are essential to directing the camera and crucial te every cinematographer who is trying to better understand the challenges a director faces and who wants to be better prepared to serve the director’s vision of a project.
+
+The purpose of this book is not only to cover all basic concepts, methods, and technical aspects of cinematography, but also to improve communication between the director and the cinematographer—by presenting what the director needs to know about the camera and what the cinematographer needs to know about the direc ting process.
+
+Any director who aspires to utilize fully all of the tools of filmmaking should have an under standing of the concepts covered in the first section of this book, and would be wise to have at least a passing understanding of the technical aspects covered in the second section—if only to have a firmer grasp of the limitations and, more important, the possibilities of using the camera. Topics include:
+
+Concepts of filmmaking Shooting High Def and digital video Language of the lens Image control with filters Cinematic continuity Bleach bypass processes Lighting for film, digital, and High Def Lighting as storytelling Exposure Shooting special effects Video and telecine Set procedures and other issues Optics and lenses BLAIN BROWN is a cinematographer based in Los Angeles. He has been Director of Photography on feature films, commercials, music videos, and documentaries shot on film, High Def, 24p, and digital. His previous books include: Motion Picture and Video Lighting and The Filmmaker’s Pocket Reference, both published by Focal Press. www.blainbrown.com lirected by Sir Bottom, front cover image, Search Party with Flashlight g, photographed by Vcl/Spencer Rowell from the Tax tion of ¢ 1€TlyIMage r ISBN 0-240-80500-3

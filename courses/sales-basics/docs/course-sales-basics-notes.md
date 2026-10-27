@@ -1,0 +1,7 @@
+Read in full: The Power of Selling (Business LibreTexts, CC BY-NC-SA 3.0): chapter 6 sections 6.2 and 6.3; chapter 7 sections 7.2, 7.3 and 7.4 (the directory table inside 7.4 was skimmed); chapter 8 sections 8.2 to 8.5; chapter 9 sections 9.2 to 9.5; chapter 10 sections 10.2, 10.4, 10.5 and 10.6; chapter 11 sections 11.2 and 11.3; chapter 12 sections 12.2 and 12.3; chapter 4 sections 4.2 and 4.3. OpenStax Principles of Marketing 15.3. The ICO telephone marketing page. The Citizens Information (Ireland) page on unfair sales practices.
+
+Read in part, from search extracts: the ICO electronic mail marketing page, the ICO business-to-business marketing page, the ICO live-calls page and the ICO small-organisations marketing page, and the summary page of the Irish Data Protection Commission's FAQ on electronic direct marketing (its PDF was not opened).
+
+Not read: the textbook's "Selling U" job-search sections and chapters 1 to 3, 5 and 13 to 15 (chapter 13 on follow-up was not in the fetched copy, so follow-up draws on 7.2 and OpenStax); 10.3 (dress); UK consumer unfair-practice guidance on GOV.UK (the page requested returned 404); UK and Irish bribery and whistleblowing law; SPIN Selling by Rackham and the Moncrief and Marshall paper (both only cited through the textbook).
+
+Limits: the core textbook was written about 2009 to 2012 from a US viewpoint, so its statistics and company examples are dated, and its advice on persistent follow-up conflicts with UK and Irish rules. The course says so where it matters. This is not legal advice.

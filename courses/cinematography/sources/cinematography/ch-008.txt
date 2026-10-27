@@ -1,0 +1,535 @@
+Chapter 7: Light, Exposure and the Zone System
+
+f/1.4 f/4 f/11 f/22 6.1. (previous page) The basics of exposure: a source and a light meter. (Photo by author.)
+
+6.2. (above) The aperture at various f/stops.
+
+cinematography 104
+
+LIGHT AS ENERGY
+
+Energy from the Sun comes to the Earth in visible and invisible portions of the electromagnetic spectrum. Human eyes are sensitive to a small portion of that spectrum that includes the visible colors from the longest visible wavelengths of light (Red) to the shortest wavelengths (Blue).
+
+Intensity of light is measured in foot-candles (in the United States) or in lux (in most other countries). A foot-candle (fe) equals about 10.08 lux (or, for a rough conversion, multiply foot-candles by 10 to get lux). A foot-candle is the light from a standard candle at a distance of one foot. One lux is the illumination produced by one standard candle from a distance of 1 meter. When a film is exposed for | second to a standard candle | meter distance, it receives | lux-sec of exposure. What’s a standard candle? It’s like the standard horse in horse-power. To provide some points of reference: * Sunlight on an average day ranges from 32,000 to 100.000 lux (3,175 to 10,000 fe)
+
+* Typical TV studios are lit at about 1,000 lux (99 fe) * A bright office has about 400 lux of illumination (40 fe) * Moonlight represents about | lux (a tenth of a foot-candle)
+
+The f/stop is covered in more detail in the chapter on Optics, but for our discussion here it is important to know how it fits into the exposure system. F/stop and lighting calculations apply equally to both film and all forms of video as does much of the information in this chapter.
+
+F/STOP
+
+Most lenses have a means of controlling the amount of light they pass through to the film or video receptor; this is called the aperture.
+
+The f/stop is the mathematical relationship of overall size of the lens to the size of the aperture.
+
+“Stop” is a short term for f/stop. A stop is a unit of light measurement. An increase in the amount of light by one stop means there is twice as much light. A decrease of one stop means there is half as much light. A lens with an f/stop of 1.0 would theoretically pass all of the light reaching through to the focal plane. The fi stop is the ratio of the focal length of a lens to the diameter of the entrance pupil as shown in Figure 6.2. This works out to each stop being greater than the previous by the square root of 2.
+
+F/stop is derived from the simple formula:
+
+f= F/D t/stop = focal length/diameter of lens opening If the brightest point in the scene has 128 times more luminance than the darkest point (seven stops), then we say it has a seven stop scene brightness ratio.
+
+EXPOSURE, ISO AND LIGHTING RELATIONSHIPS
+
+The units we deal with in exposure are:
+
+* F/stops * ASA, ISO or EI (different names for the same thing) * Foot-candles or lux * Output of sources as affected by distance * Reflectance of objects It turns out that all of these can be arranged in analogous WAYS.
+
+They all follow the same basic mathematical pattern. The data in these tables was compiled by Wade Ramsey. Remember that f/stop numbers are fractions, the relationship of the aperture diameter to the focal length of the lens. For example, f/8 really means 1/8: the diameter is 1/8 the focal length. F/11 is 1/11, which is obviously a smaller fraction than 1/8. Each time we open the aperture one whole f/stop we double the quantity of light reaching the film: each time we close it one stop, we halve the light reaching the film.
+
+The f/stop scale (Table 6.1) is tiered to show that the same relationships that apply to whole f/numbers, such as f/8 and f/11, apply to intervals between them. So the difference between {/9 and f/13 is one whole stop, ete. Modern digital meters measure in 1/10ths of a stop. This is helpful for calculations and comparisons, but for most practical purposes, this level of accuracy is not necessary. One third of a stop is the practical limit of precision, given the vagaries of optics, lab chemistry and telecine transfer. This is not to say that accurate exposure is not important, only that the degree of precision in the overall process has limits.
+
+LIGHTING SOURCE DISTANCE
+
+The f/stop scale applies to the inverse square law of illumination.
+
+Changes in illumination due to distance with small sources follow this scale (Table 6.2). For example, if the lamp is 11 feet from the subject, moving it to 8 feet will increase the subject illumination by | stop, just as opening the lens diaphragm from f/11 to f/8 would do.
+
+The inverse square law applies to point sources, strictly speaking, but spotlights follow it fairly well at the distances usually utilized.
+
+INVERSE SQUARE LAW AND COSINE LAW
+
+Similarly: a given output at a certain distance: say 1,000 fc at 10 feet, can be used to calculate the output at other distances by dividing by the distance squared. This is the inverse square law in application (Table 6.1).
+
+Figure 6.3 illustrates the inverse square law graphically. A similar principle is the cosine law (Figure 6.4). As a surface is turned away from the source, less of the surface is “visible” to the source and therefore there is less exposure. Mathematically, the decrease in exposure is equal to the cosine of the angle of the surface so this is called the cosine law.
+
+ISO SPEEDS
+
+Since one-third stop is the minimum exposure difference detectable by the unaided eye (for most negative stocks), film sensitivity is rated in no finer increments than this. This scale is tiered to make the relationships between intervals more easily seen. Just as ISO 200 is | stop faster than ISO 100, so ISO 320 is | stop faster than ISO 160. (Table 6.3).
+
+Although this is obvious, memorizing this scale makes it casier to see the differences between odd intervals, such as ISO 80 to ISO 32 (1-1/3 stops.) The scale may be expanded in either direction by adding or subtracting digits (the intervals below 6 are 5, 4, 3, 2.5, 2.
+
+1.6, just as the intervals below 64 are 50, 40, 32, 25, 20, and 16.
+
+LIGHTING SOURCE DISTANCE
+
+64 50’ 40’ 32’ 25’ 20’ 16° 12’ 10!
+
+DISTANCE IN Ft.
+
+6.3. (top) The inverse square law. This is important not only to understand-ng expsoure measurement, but to ighting as well.
+
+6.4. (above) The cosine law: how the angle of the subject affects its exposure level.
+
+Table 6.1. (left) Lighting source distance and exposure.
+
+Table 6.2. (below) Light levels and exposure. “X” represents a given amount of light - each step to the left doubles the amount of light at F/Stop | 4 45 5 56 6 7 8 9 10 _ the subject.
+
+Light _2048x | 1024x _512x 256x | 128x | 64x 32x | 16x | 8x AX 2x |x F/Stops |1 14 2 2.8 4 56 |8 “ 16 22 32 45 wf Mw | we | 22 3.2 45 6 | 9 13 18 25 36 Stops 1.3] 1.8 2.5 3.6 5 7; 10 14 20 29 40 exposure 6 12| | | 25] 50, 00} 200 =| = 400 S800 [s| | || | [32 64, | 125) 250, 500, 1000.
+
+10 20 | 40 80 160 320 640, 1250 Table 6.3. ISO or ASA in one-third stop increments. The same series can be interpreted as percentage of reflection or shutter speeds.
+
+Table 6.4. The relationship of f/stops and reflectance.
+
+F/STOPS
+
+REFLECTANCE
+
+80% cinematography 106 om) (soe | ose |i | 80% | Foot-candles: The ISO scale can also be applied to foot-candles.
+
+Doubling the foot-candles doubles the exposure. The third-stop intervals give the intermediate fe values. For example, the difference between 32 fe and 160 fe is 2 1/3 stops.
+
+Percentage of Reflection: The ISO scale from 100 on down relates to percentage of reflection. For example, ISO 100 can represent 100%, pure white. Other reflectances, such as 64% and 20%, can then be seen to be, respectively, 2/3 stop and 2-1/3 stops darker than pure white (Table 6.4).
+
+Shutter speeds: Referring to the ISO scale, it can be seen that, for example, 1/320 sec. is 1-2/3 stops faster than 1/100 sec. This can be helpful when unusual combinations of shutter angle and frame rate produce odd effective shutter speeds.
+
+LIGHT AND FILM
+
+It is the energy in each photon of light that causes a chemical change to the photographic detectors that are coated on the film. The process whereby electromagnetic energy causes chemical changes to matter is known as photochemistry.
+
+All film is coated onto a base: a transparent plastic material (celluloid) that is 4 to 7 thousandths of an inch (0.025mm) thick. Onto the base, the emulsion is adhered where the photochemistry happens.
+
+There may be 20 or more individual layers coated here that are collectively less than one-thousandth of an inch in thickness. Some of the layers coated on the transparent film do not form images. They are there to filter light, or to control the chemical reactions in the processing steps. The imaging layers contain sub-micron sized grains of silver halide crystals that act as the photon detectors.
+
+These crystals are the heart of photographic film. These crystals undergo a photochemical reaction when they are exposed to various forms of electromagnetic radiation — light. In addition to visible light, the silver halide grains can be sensitized to infrared radiation. A halide is a chemical compound of a halogen (any of a group of five chemically related nonmetallic elements including fluorine. chlorine, bromine, iodine, and astatine) with a more electropositive element or group, in this case silver. Silver halide grains are manufactured by combining silver nitrate and halide salts (chloride, bromide, and iodide) in complex ways that result in a range of crystal sizes, shapes, and compositions.
+
+The unmodified grains are only sensitive to the blue part of the spectrum, and thus are not very useful in camera film. Spectral sensitizers are added to the surface of the grains to make them more sensitive to blue, green and red light. (Remember, we’re talking about black-and-white film here.) These molecules must attach to the grain surface and transfer the energy from a red, green, or blue 4 | 43 6%
+
+=2/3 | -1 “2 -3 Pte aoe ee J photon to the silver halide crystal as a photo electron. Other chemicals are added internally to the grain during its growth process, or on the surface of the grain. These chemicals affect the light sensitivity of the grain, also known as its speed — that is, how sensitive to light it is.
+
+The speed of an emulsion is quantified by standards sct by the ISO (International Standards Organization) or ASA (American Standards Association) rating. ISO is the technically the correct designation, but by tradition, most people still refer to it as ASA, The higher the ASA. the lower the light level the film is capable of responding to. For color film, manufacturers list the sensitivity of film as El or Exposure Index. When you make film faster, the trade off is that the increased light sensitivity comes from the use of larger silver halide grains. These larger grains can result in a blotchy or “grainy” appearance to the picture. Photographic film manufacturers are constantly making improvements that result in faster films with less grain. For Kodak, a major advance was the introduction of “T™ grains in the 70s. These tabular grains are roughly triangular which allowed them to be packed closer together, thus reducing apparent grain.
+
+THE LATENT IMAGE
+
+When the shutter is open, light affects the chemistry of the emulsion and a latent image is formed. When a photon of light is absorbed by the spectral sensitizer sitting on the surface of a silver halide grain, the energy of an electron is raised into the conduction band from the valence band, where it can be transferred to the conduction band of the silver halide grain electronic structure.
+
+This atom of silver is unstable. However if enough photoelectrons are present at the same time in the crystal lattice, they may combine with enough positive holes to form a stable latent image site.
+
+A latent image site must contain a minimum of 2 to 4 silver atoms per grain to remain stable. A silver halide grain contains billions of silver halide molecules, and it only takes 2 to 4 atoms of uncombined silver to form the latent image site. In color film, this process happens separately for exposure to the red, green, and blue layers of the emulsion. The reason for this is simple — there is no way to sensitize a grain to “color,” you can only sensitize it to a specific band of the spectrum. The image that is formed is called “Jatent” because it remains invisible until chemically developed.
+
+Any photon that reaches the film, but does not form a latent image, is lost information. Most color films generally take 20 to 60 pho- 6-5- Black-and-white negative. tons per grain to produce a developable latent image. This is called the “inertia point” for the film. Below the inertia point, no image is recorded at all. Video receptors are silicon based and of course different in operation, but the basic theory is quite similar.
+
+CHEMICAL PROCESSING
+
+In order for the latent image to become visible, it must be amplified and stabilized, in order to make a negative or a positive (Figure 6.5), In black-and-white film, the silver halide grains have to be sensitized to all wavelengths of visible light so the silver halide grains are coated in just one or two layers. As a result, the development process is easier to understand.
+
+* The film is placed in developing chemistry that is actually a reducing agent. If the film were left in the solution long enough, the reducing agent would convert all the silver ions into silver metal — resulting in a uniform gray fog with no discernible image. Those grains that have latent image sites will develop more rapidly. If the film is left in the develop-exposure 6.6. Color negative with its distinct-inve orange mask.
+
+cinematography 108 ing chemistry for the proper amount of time, only grains with latent image information will become pure silver. The unexposed grains remain as silver halide crystals.
+
+* The development process must be “stopped” at the right moment. This is done by rinsing the film with water, or by using a “stop” bath that brings the development process to a halt.
+
+* After development, some of the altered halide and all of the unaltered silver halide remains in the emulsion. It must be removed or the negative will darken and deteriorate over time. The removal of this undeveloped material is accomplished with fixing agents, usually sodium thiosulfate (hypo) or ammonium thiosulfate. The process is called fixing. The trick is to fix just enough and not too much, as excessive contact with fixers can begin to remove some of the desirable silver material.
+
+* Finally, the film is washed with water to remove all the processing chemicals. Then it is dried. The washing must be extremely thorough, When all the steps are finished, the film has a negative image of the original scene. Other types of chemistry can result in a positive image, but this is not commonly used in motion picture applications.
+
+It is a negative in the sense that it is darkest (has the highest density of opaque silver atoms) in the area that received the most light exposure. In places that received no light, the negative ts clear.
+
+COLOR NEGATIVE
+
+Color negative is basically three layers of black-and-white film, one on top of the other (Figures 6.6 and 6.7). The difference is that each layer is treated with a different spectral sensitizer so that it is receptive to a different band of the spectrum. These translate to roughly red, blue and green.
+
+* With color film, the development step uses reducing chemicals, and the exposed silver halide grains develop to pure silver. Oxidized developer is produced in this reaction, and the oxidized developer reacts with chemicals called couplers in each of the image forming layers. This reaction causes the couplers to form a color, and this color varies depending on how the silver halide grains were spectrally sensitized. A different color forming coupler is used in the red, green and blue sensitive layers. The latent image in the different layers forms a different colored dye when the film is developed. * The development process is stopped either by washing. or with a stop bath.
+
+* The unexposed silver halide grains are removed using a fixing solution.
+
+* The silver that was developed in the first step is removed by bleaching chemicals. (Note: it is possible to skip this step or reduce it so that some of the silver remains in the negative.
+
+This is the basis of “skip bleach” or ENR processing, which is discussed elsewhere.)
+
+* The negative image is then washed to remove as much of the chemicals and reaction products as possible. The film strips are then dried.
+
+Unlike a black-and-white negative, a color negative contains no silver with the exception of special processes known as “bleach bypass.” These are covered in the chapter on /mage Control.
+
+The end result is a color negative in the sense that the more red exposure, the more cyan dye is formed. Cyan is a mix of blue and green (or white minus red). The green sensitive image layers contain magenta dye, and the blue sensitive image layers contain yellow dye.
+
+The colors formed in the color negative film are based on the subtractive color formation system, The subtractive system uses one color (cyan, magenta or yellow) to control each primary color. The additive color system uses a combination of red, green and blue to produce a color. Video is based on an additive system. The overall orange hue is the result of masking dyes that help to correct imperfections in the color reproduction process.
+
+ADDITIVE VS. SUBTRACTIVE COLOR
+
+In a photograph, the colors are layered on top of each other, so a subtractive color reproduction system is used. In subtractive color, each primary is affected by its opposite on the color wheel. * Red sensitive layers form a cyan colored dye.
+
+* Green sensitive layers form a magenta colored dye. * Blue sensitive layers form a yellow colored dye.
+
+FILM’S RESPONSE TO LIGHT
+
+There are two steps in the making of a negative, as represented by the thin slice from the negative e shown in Figure 6.7. * Exposure. The useful property of silver halide is that its state is altered when subjected to light, in direct proportion to the amount of light energy absorbed. This change is not visible, and if film is examined before and after exposure, little change can be seen.
+
+* Development. Silver halide which has been altered by contact with light can be reduced to pure silver if placed in contact with specific chemicals referred to as developing agents.
+
+The activity of the developer and time of development will determine how much of the sensitized halide will be converted.
+
+DENSITOMETRY
+
+To understand film response we must look at its curve. This classical approach to densitometry (the scientific analysis of exposure) was devised by Hurter and Driffield in 1890 ) and so is called the H&D curve or sometimes the D log E curve. It plots the amount of exposure “E” in logarithmic units along the horizontal axis and the amount of density change in the negative “D” along the vertical axis.
+
+This is sometimes shortened to “Log E” curve (Figure 6.8).
+
+In theory, it makes sense that we would want the film to change in density in exact proportion to change in the amount of light reflected by different parts of the scene. After all we are trying to make an image which accurately portrays the real scene, right?
+
+Let’s look at a theoretical “linear” film (Figure 6.9). For every additional unit of exposure, the density of the negative changes exactly one unit. That is, there is an exact correspondence between the amount of light in the scene and the change in the density of the __— Supercoat —__— Blue-sensitive layer (yellow dye)
+
+- Yellow filter Green-sensitive layer (magenta dye)
+
+— Red-sensitive layer (cyan dye)
+
+yi “~ Subcoat (adhesive)
+
+~~. ~ Base ~ Anti-halation backing 6.7. The layers of color negative film.
+
+exposure 6.8. The Hurter and Driffield D Log E curve for negative density.
+
+6.9. A theoretical “ideal” film — one that exactly reporduces the exposure changes of the subject in a one-to-ratio with negative density.
+
+cinematography 710
+
+D-max
+
+Shoulder.
+
+Straight line (linear) portion of the curves Nae
+
+Denser negative Exposure negative. Sounds perfect. doesn’t it? The slope of the line for this film would be 45 degrees exactly.
+
+The slope of this line is a measure of the contrastiness of the film.
+
+In a film where large changes in exposure only change the negative density a little (low contrast reproduction) the slope is very shallow. Where a film is very contrasty, the slope is very high; in other words small changes in the amount of light cause the film density to change drastically. The extreme is something called “litho” film which is used in the printing industry. Everything to litho film is either black or white — there are no shades of gray. In other words if the light is above a certain level, the image is completely white. If itis below a certain level, it is completely black. This is as contrasty as a film can get. The slope for litho film would be a vertical line.
+
+No film acts in the perfectly linear manner of this first example (1.c., the changes in the film exactly correspond to the change in the amount of light). In this diagram, we see a film which only changes 1/2 unit of density for each additional unit of light. This is a “low-contrast” film.
+
+Figure 6.10 shows the difference between a high-contrast emulsion and a low-contrast one. In the high-contrast example, for each This part of the’scene is too bright to be recorded on film.
+
+Total brightness range the final print or video is capable of reproducing The total bnghtness range of the scene This part of the scene is too dark to be recarded on film, The problem with a perfectly linear film A contrasty film A low contrast film Denser negative Exposure additional unit of exposure, it changes 2 units of negative density Looking at the brightness range of the exposure against the brightness range of the negative density, we see that it will show more contrast in the negative than actually exists in the scene. The slope of this line is called the gamma of the film: it is a measure of its contrastiness.
+
+Contrast refers to the separation of lightness and darkness (called “tones’) in a film or print and is broadly represented by the slope of the characteristic curve. Adjectives such as flat or soft and contrasty or hard are often used to describe contrast. In general, the steeper the slope of the characteristic curve, the higher the contrast. The terms gamma and average gradient refer to numerical means for indicating the contrast of the photographic image.
+
+Gamma is measured in several different ways as defined by scientific organizations or manufacturers. They are all basically a way of calculating the slope of the straight-line portion of the curve by more or less ignoring the shoulder and the toe portions of the curve.
+
+Gamma is the slope of the straight-line portion of the characteristic curve or the tangent of the angle (a) formed by the straight line with the horizontal. The tangent of the angle (a) is obtained by dividing the density increase by the log exposure change. Gamma does not describe contrast characteristics of the toe or the shoulder, only the straight line portion.
+
+But there is another wrinkle. In the lowest range of exposure, as well as in the highest range, the emulsion’s response changes. In the lowest range, the film does not respond at all as it “sees” the first few units of light. There is no change in photochemistry at all until it reaches the inertia point where the amount of light first begins to create a photochemical change in film or an electrical change on a video tube. After reaching the inertial point, then it begins to respond sluggishly: negative density changes only slightly for each additional unit of light. This region is the “toe” of the curve. In this area, the changes in light value are compressed (Figure 6.11.)
+
+At the upper end of the film’s sensitivity range is the “shoulder.”
+
+Here also, the reproduction is compressed. The emulsion is becoming overloaded; it’s response to each additional unit of light is less and less. The end result is that film does not record changes in light value in the scene in a linear and proportional way. Both the shadows and the highlights are somewhat crushed together. This is. in fact, what gives film the “film look” that video has never been able to achieve (High Def comes a lot closer than previous systems but still has trouble with the highlights). It is a way of compressing very contrasty scenes so that they “fit” onto the film.
+
+6.10. Differences between a high contrast and a low contrast film.
+
+exposure 6.11. Gray scale compression in the toe and shoulder.
+
+cinematography 112
+
+Disproportional increments of negative density Equal increments of exposure THE LOG E AXIS
+
+Let’s think about the log E axis (horizontal) for a moment. It is not just an abstract scale of exposure units. Remember that it represents the various luminances of the scene. All scenes are different, and thus all scenes have different luminance ratios. What we are really plotting on the horizontal axis is the range of luminances in the scene, from the darkest to the lightest.
+
+In 1890, the German physiologist E. H. Weber discovered that changes in any physical sensation (sound, brightness, pain, heat) become less noticeable as the stimulus increases. The change in level of stimulus that will produce a noticeable difference is proportional to the overall level: if three units of light create a perception of brightness that is just noticeably brighter than two units, then the smallest perceptible increase from 20 units of light will require 30 units. To produce a seale of steps which appear to be uniform, it is necessary to multiply each step by a constant factor. In fact, the perception of brightness is logarithmic.
+
+What is a log?
+
+Logarithms are a simple way of expressing large changes in any numbering system. If, for example. we wanted to make a chart of something which increases by multiplying by 10: 1, 10, 100, 1000, 10,000, 100,000, we very quickly reach numbers so large as to be unwieldy. It would be extremely difficult to make a graph which could handle both ends of the range.
+
+In log base 10, the most common system, the log of a number represents the number of times | must be multiplied by 10 to produce the number. | must be multiplied by 10 once to make 10, so the log of 10 is 1. To arrive at 100, you multiply | by 10 twice, so the log of 100 1s 2. The log of a number is the exponent of 10: 10° = 100, the log of 100 is 2. 10* is 10,000, so the log of 10,000 is 4 (Table 6.5).
+
+This means that we can chart very large changes in quantity with a fairly small range of numbers. Logs are used throughout lighting. photography and video.
+
+BRIGHTNESS PERCEPTION
+
+Our perception of brightness is logarithmic and we shall see that this has far ranging consequences in all aspects of lighting for film and video. If we chart the human perception of brightness in steps that appear smooth to the eye we can follow its logarithmic nature. It ts apparent that each step up in a seemingly even scale of gray tones Is, in terms of its measured reflectance, spaced logarithmically. As we shall see later, this chart is in fact fundamental to the entire process of lighting and image reproduction (Table 6.6).
+
+Remember that these are not fixed values (the darkest point on the log E axis is not a certain number of candles-per-sq-foot for example), because we open or close the aperture of the camera to adjust how much light reaches the film and we use faster or slower film and so on. What really counts is the ratio between the darkest and lightest. and that is what we are plotting on the log E axis. This is called the brightness range of the film, sometimes abbreviated as BR. Each unit on the log E axis represents one stop more light.
+
+Number
+
+CONTRAST
+
+The word contrast has different meanings depending on whether you are talking about the contrast of the subject we are photographing or the negative that we will use to make the print. In general, contrast refers to the relative difference between dark and light areas of the subject or negative. Subject contrast refers to the difference between 100 the amounts of light being reflected by the darker, or “shadow,” Perception _| Reflectance areas of the scene and the lighter, or “highlight,” areas (for example White 100% a dark door as opposed to a white wall). 70% Negative contrast refers to the relative difference between the more 50% transparent areas of the negative and those that are more opaque. 35% The negative is described in terms of density. These densities can be 25% measured with an instrument called a densitometer, which measures how much light passes through the negative and how much is held Middle gray |___17.5% back. The contrast of photographic subjects can vary a great deal 12.5% from one picture to another. On clear, sunny days the contrast of an | 9% exterior scene can be great, while on cloudy days it can be relatively 6% low in contrast. The contrast of a given scene depends on how light | 4.5% or dark the objects in the picture are when compared to each other = ack | 3.5% and how much light is falling on them. Let’s get back to our theoretically “ideal” film. This film would change the density of the negative exactly one unit for each one unit of change in the brightness of )550°49 mee pubyest. ; , : ‘ Table 6.6. (above) Reflectance and The above diagram shows the problem with this. No reproduction gray scale values. medium now known is capable of reproducing anything near the brightness range exhibited in most real world situations. Nearly all film emulsions are non-linear. This linearity fails for two reasons. * It takes a certain amount of light energy to initiate the activation of the photosensitive elements in the emulsion (the inertia point). Thus the density rises gradually at first in this area called the toe, finally accelerating into the straight line portion of the curve.
+
+* With increasing exposure to light, more silver halide is converted, until it has no more sensitive material to activate.
+
+At that point, increasing the exposure does not increase the ultimate density of the developed negative. This “saturation”
+
+occurs gradually and produces what is known as a shoulder.
+
+The toe of the film is a result of the fact that film reacts slowly to small amounts of light. It is only when greater amounts of light reach the emulsion that the change becomes linear. This is the straight line portion of the film. The film base itself always has some density. however slight. On top of this there is always a slight amount of fog due to light scattering in the camera, the lens, the emulsion and also chemical fog in the processing. The cumulative effect of all of these is called base plus fog. Density measurements are usually described as x density above base plus fog. (For more on measurement of density, see the section on neutral density filters in the chapter Filters.)
+
+This toe and shoulder behavior actually results in a compression of Table 6.5. (top) Some values for lag exposure 6.12. Compression of the real world brightness values so that they fit onto the film. This is what makes it possible to make usable images even from scenes with high contrast ranges. The same principle applies to video, whether analog or digital. A great deal of the progress of video as a more acceptable imaging medium has been improvements in its ability to compress the image brightness in a way that gets closer to what film can usefully manage.
+
+cinematography 114 the actual scene. If the contrast gradient of the film is correct and exposure is correct, this compression behavior will allow the full brightness range of the scene to be represented on the final print. In effect, it is the failure of film emulsion and video receptors to accurately represent the real world that allows us to produce photographs and video that are usable. Each film emulsion reacts to light in a special way. Some react more quickly to low light than others creating a rather abrupt initial rise in density or “short toe.” Others react more gradually to increases in light and have what is called a “long toe.”
+
+Films with similar sensitivities and ranges can have quite different response curves requiring dissimilar exposure and development.
+
+Another important factor is the range of subject luminance that can be usefully recorded (Figure 6.12). Low contrast films can continue to build density over a long luminance range, whereas contrasty films saturate rather quickly and tend to “block” at etther end. This is how we can match the type of film used to the type of scene being photographed. Cinematographer David Watkin used a low contrast film stock for the movie Out Of Africa, where he dealt with many very contrasty situations in the harsh African sun. The results were outstanding. Both Fuji and Kodak now make emulsions that are more moderate in contrast than normal film stocks.
+
+Determining the precise film speed, coupled with precise exposure, is critical when the range of light in the scene is greater than the seale of the film. In Figure 6.13, we see three exposures of the same scene represented by the bars at the bottom of the diagram. Not enough exposure places much of the information completely off the low end of the curve, while too much exposure places it off the high end — in either case, once you are off the curve, further changes in exposure register no change in the negative; the film doesn’t “see” them. The ideal exposure places all of the information where it makes some change on the negative.
+
+If there is too much exposure, two things happen. First, even the darkest parts of the scene are in the middle range of the curve: even the darkest shadows will reproduce as middle gray tones. Graphically, overexposure appears as a shift of the subject brightness range (log E) to the right. (In effect we are making the scene values “brighter” by opening up the aperture.) Here we see that this overexposure places the scene values too much in the shoulder. Some information is lost in the flat part of the shoulder: lost because the differ- | Total brightness range the final print or video is capable of reproducing The total brightness range of the scene 6.13. Changing exposure shifts the image up and down the curve; too much exposure pushes it off the shoulder and too little crushes it into the toe.
+
+Senne EET EEEEEESianE eee Too much exposure Ea
+
+| Correct exposure ET
+
+Not enough exposure ences of scene brightness values result in no change in the density of the negative.
+
+Further, because everything is shifted to the night none of the scene values fall in the toe of the curve: there will be no deep black values at all in the final print, even though they existed in the original scene.
+
+Underexposure is shown as a shift of the log E values to the left.
+
+Here every subtle nuance of the high tones will be recorded because they fall in the straight line portion of the curve. But at the dark end of the scale — trouble. The dark values of the scene are mushed together in the toe. There is little differentiation of the medium gray values, the dark gray values and the black shadows: in the final print they will all be a black hole. There will be no detail in the shadows. “CORRECT” EXPOSURE “Correct” exposure, then, is essentially the aperture setting that will best suit the scene brightness range (the horizontal axis: log E) to the characteristic curve of the imaging medium. What is needed is to slip the scene values comfortably in between the toe and the shoulder. A typical scene with a seven stop range of light values fits nicely on the curve if we place the exposure exactly in the middle. It is important to remember, however, that correct exposure is a purely technical thing: there are occasions where you will want to deviate from ideal exposure for pictorial or technical reasons (Figures 6.14 and 6,15). The relationship of the gamma (the angle of the straight line portion of the film) to the toe and the shoulder is what determines a film’s “latitude.” It can be viewed as two characteristics: the emulsion’s room for error in exposure or the ability of the film to accept a certain brightness range.
+
+HIGHER BRIGHTNESS RANGE IN THE SCENE
+
+The problem is exacerbated if we consider a scene which has more than seven stops of brightness (seven stops is just an average, it all depends on the particular film stock). Here there is no aperture setting which will place all of the values on the useful part of the curve.
+
+If we expose for the shadows (open up the aperture): we get good rendition of the dark gray areas, but the light values are hopelessly off the scale. If we “expose for highlights” (by closing down to a smaller f/stop) we record all the variations of the light tones, but the dark values are pushed completely off the bottom edge.
+
+How do we deal with this situation? Later we will discuss some rather abstruse solutions to the problem (flashing, Varicon, Panaflasher, etc.) but there is one solution which is really what we are all about: we change the brightness range of the scene so that it exposure fit the curve of the film ther words we alter th he scene. This is done by 11 rying htit rhis then, is one of S rip work: to render the scene in a scale of brig value ymmodated by the optics and emulsion of a film can he optics and electronics of video. It’s why we ul D S ritical 1 e ol Ingles and | l 1OOl lave increased in speed ind reduced gran The ne ulsions in particular are amazing in their ability ecor even in heavily overexposed highlights and i1 \lthoug!
+
+i 1andle brightness ratios there has been some improven still one of the most yetween film and video. Exposure meters genera assumption that whatever you are measuring should “middle er:
+
+as e ZO! 1 i DETERMINING EXPOSURE
+
+So we have two basic task be properly reproduced on film a1 * To set the aperture so t the scene value yn tl priate part of the curve In practice these often turn out to be two sides of rhe first task is essentially the wo 1d I the second task involves measuring the scene and making ent about the best setting for the lens er. Strictly speaking, this method applies on uite film. The speed of color film ts ¢ r EI (Exposure Index) or [SO 1 is expressed as ¢ onal Standards O nization) for black-and xposure Index) for color film. Although they are not as cor used as they once were, you will still hear reference to “lis lighting ratio is the relationship of If we consider the average face, it is the difference THE TOOLS
+
+-r (What still photographers would has extremely limited use in [ THE INCIDENT METER
+
+Phe incident meter measures scene illumination only. In othe: he amount of light falling on the scene. To accomplish this pu ure of the ind mys incident meters use a hemispherical white plastic dome which e actual sensing cell, The diffusing dome accomplishes several purposes. It diffuses and “averages” the light which is falling on it. [t also approximates the geometry of a typical three-dimensional subject. Unshielded, the will read all of the front lights and even some of the side-back eht that might be falling on the subject. Left to itself, the hemisphere would provide a reasonable averag falling on the subject. In practice, many people use their hand to light off the reading and use a combination of hand come and DackK
+
+: P| wins re of all the sources ind turning the meter to read the backlight and sometimes its and back lights separately (Figure 6.17).
+
+shielding the key, fill, side lig Phe classical practice, however, is to point the hemisphere directly it the lens and eliminate only the backlights, then take a reading out of balance sources. The actual reading which will determine the iperture setting is the averaging one. Later we will look at applica-o beyond the simple classical approach and are useful tions which § leal th unusual situations. Most meters which are used with “t position. Reading key, fill and backlight sepa-a way of determining the ratios and looking for 6.15. Lee Garmes regular|, lene Dietrich one stop he everyone else, as in this Shanghai Express (Paramount Corp., 1932)
+
+6.16 determined ir 1 black-and 6.17.A reflectance meter with dome receptor. This one also functions as a flash meter, wide-angle reflectance meter and has a mini-receptor for macro work.
+
+cinematography 118 much smaller acceptance angle (about 45° to 55°) and has a cosine response rather than an averaging one. This means that the angle of the light falling on the plate has an effect on the reading, just as it does in illuminating a subject.
+
+The flat plate makes taking readings for individual lights simpler and is also useful for measuring illumination on flat surfaces, such as In art copy work, animation plates, etc. Incident meters are generally also supplied with a lenticular glass plate which convert them to wide acceptance reflectance meters. These see little use on most sets as they have very wide acceptance angles and it is difficult to exclude extraneous sources from the reading.
+
+For the most part, incident meters are set for the film speed and shutter speed being used (either electronically or by using slide-in plates) and then read out directly in f/numbers. Some meters have an alternate mode which reads foot-candles directly; the user is then able to calculate exposure separately. This is useful if there is no slide for the exposure index (EI) being used.
+
+THE REFLECTANCE METER
+
+Reflectance meters read the actual luminance of the subject, which is itself an integration of two factors: the light level falling on the scene and the reflectivity of the subject. (Figure 6,18).
+
+On the face of it, this would seem to be the most logical method of reading the scene, but there is a catch. Simply put. a spot meter will tell us how much light a subject is reflecting but this leaves one very big unanswered question: how much light do you want it to reflect?
+
+In other words: incident meters provide absolute readouts ({/stops) while spot meters provide relative readouts which require interpretation. While most spot meters were formerly calibrated in exposure value (EV) units, some of the new electronic spot meters provide direct readout in t/stops, but it would probably be better if they didn’t as they are a source of much confusion.
+
+Think of it this way: you are using such a meter and photographing a very fair skinned girl holding a box of detergent in front of a sunset. You read the girl’s face: £/5.6, the box reads f/4, the sky is {/22. So where are you? Not only do we not know where to set the aperture, we don’t even know if the situation 1s good or bad. Let’s step back a moment and think about what it is that light meters are telling us. To do this we have to understand the cycle of tone reproduction and lay down a basic system of thinking about it.
+
+THE ZONE SYSTEM
+
+We must remember that the exposure values of a scene are not represented by one simple number: most scenes contain a wide range ol light values and reflectances. In evaluating exposure we must look at a subject in terms of its light and dark values: the subject range of brightness. For purposes of simplicity we will ignore its color values for the moment and analyze the subject in terms of its monochromatic values.
+
+Let’s visualize a continuous scale of gray values from completely black to completely white (Figure 6.20). Each point on the gray scale represents a certain value which is equivalent to a tonal value in the scene. In everyday language we have only vague adjectives with which to describe the tones: “dark gray,” “medium gray.” “blinding white” and so on. We need more precise descriptions.
+
+Using Ansel Adam’s classic terminology we will call the most completely black section Zone 0 and each tone which is one f/stop lighter is one zone “higher.” For example, a subject area which reflects three stops more light than the darkest area in the scene lesignated Zone [V. It is crucial to remember that these are all relative. Zone 0 is not some predetermined number of foot andles it is the darkest area in this scene Still photographers might be accustomed to thinking of ten zones | t if there is a great contrast range in the scene, there might zones XII, XU or more. (Zone system purists will no doubt such an extreme simplification of the method, but it is suff-the present discussion since few cinematographers do their croom work). What we are measuring is subject brightness ance), Which can vary in two ways: its inherent reflectance ind the amount of lig falls on it. Reflectance ts a property of the material itself. Black velvet reflects about 2% of the light that t. A very shiny surface can reflect up to 98% of the light that falls on it. This is a brightness ratio (BR) of | However, this is the reflectance ratio if the same amount of light falls on both objects. In reality, different amounts of light fall on dif-rent areas in the same frame (indeed, we make our living making — 6.18.The refle sure they do). In natural light situations the reflectance ratio can be as much as 3200:1. Picture the most extreme example possible: a piece of extremely absorbent velvet in deep shadow in the same falls on scene with a mirror reflecting the sun.
+
+‘ightness range of a typical outdoor subject is about 1000:1 rhe b [his is 15 stops and here’s the rub: imaging systems cannot repro duce this range of subject brightness, just as the human eye cannot accommodate such a range Recall that the human eye reacts in two different ways. First, the iris (the aperture of the eye) expands or con tracts to allow more or less light to pass. Second, the eye shifts it’s iwing from the cones to the rods. This is like switching to a highet and-white film:
+
+film. (It is also, in essence, switching t > chapter on Color Theory.)
+
+ZONES II SCENE
+
+Examine a Lp Ie il scene with the spot meter see Figure 6.21. I you assign the darkest value to Zone 0 you can then find areas which are 1, 2, 3,4, 5, 6, 7 and perhaps & stops brighter than the darkest wea. These are Zones | through LX, This is an important exercise and is vital to understanding exposure control. Ignoring the effect of color contrast can be cumbersome. It can be helped by viewing the scene through a viewing glass, which is a neutral density filter Now picture each of these tonal values arranged in ascending order What you have is a gray scale, and fortunately it is a commonly avail able item. Most gray scales are made to reasonable rigorous densito metric standards and are useful calibration tools. Let’s take a look at what it seals is (Figure 6.20)
+
+6.19. The secret of shot is to properly background, as in thi NineT/2 Weeks, shot by f 6.20. Zones 0 through IX, a stepped il gray scale and a continuous gray Film scale, By convention zones are represented in Roman numerals. Density Zone Grayscale IX
+
+1.33
+
+Pure white VIII
+
+1.18
+
+Very light gray VIII
+
+Vil
+
+0.97
+
+Textured light gray VII
+
+VI
+
+0.76
+
+Lt. middle gray VI
+
+V0.62
+
+Middle gray IV
+
+0,48
+
+Dark middle gray Ill
+
+0.34
+
+Textured dark gray III
+
+II
+
+0.21
+
+Very dark gray 0.11
+
+Nearly black O0.01
+
+Dmax cinematography THE GRAY SCALE
+
+There are a great many gray scales but they all have one thing in common: they vary from black to white. Most are divided into six to ten steps but they certainly don’t have to be: many are 20 steps or more, How white the white is and how black the black is varies somewhat depending on the printing quality and the materials involved. Some scales include a piece of black velvet since black paper can never be truly black. For our purposes, we will consider only gray scales where each step represents one full “stop” increment over the previous, that is: where each step is V2 times the reflectance of the previous one (Table 6.7).
+
+WHY 18%?
+
+Zone V is the middle zone of a ten-zone scale and we would therefore assume it to be 50% reflectance. It isn’t — it is 18% reflectance.
+
+The reason for this is that the eye perceives changes in tone logarithmically rather than arithmetically, as we saw above. If each zone were, for example, 10% more reflective than the previous, the eye would not read it as a smooth spectrum.
+
+Discussion of the zone system is always in terms of grays, but any color can be interpreted in terms of its gray scale value. The importance of value cannot be stressed too much. The value relationships between colors carry about ninety percent of the information in any picture. In a black-and-white photograph the gradients of light and shadow on forms contains the information about form, clearly defining all the objects. The black-and-white photo also contains the information about the amount and direction of light in the scene.
+
+Color contributes a small amount of information, but a great amount of the beauty and interest of the picture.
+
+In fact it works out as in Table 6.7. Each step is greater than the previous by V2, a familiar number, no? The square root of 2 is also the derivation of the f/stop series. What appears middle gray (Zone V) to the eye is actually 17-1/2% reflectance, which is universally rounded off to 18%. There’s more: it turns out that if you take dozens of spot readings of typical scenes, most will turn out to have an average reflectance of about 18%. Simply put: 18% is the average reflectance of the normal world. Clearly it is not the average reflectance in a coal mine or in the Sahara at mid-day, but in the most of the rest of the world it is a reasonable working average. This gives us a solid ground on which to build. In fact, it is the standard on which incident meters are built. As you recall, in the introduction to incident meters we noted that most incident meters, when set for film speed and shutter speed, read out directly in f/stops.
+
+ZONE | DENSITY | DESCRIPTION 0 0.02 Dmax.
+
+| 0.11 1st perceptible value lighter than black.
+
+I| 0.21 Very, very dark gray Ill 0.34 Fully textured dark gray IV 0.48 Dark middle gray V 0.62 Middle gray - 18% reflectance VI 0.76 Light middle gray Vil 0.97 Fully textured light gray Vill 1.18 Very light gray IX 1.33 First perceptible gray darker than pure white Xx 1.44 Pure white Table 6.7, Percentage of reflectance Zone X 100%
+
+Zone |X 70% Zone VIII 50%
+
+Zone VII 35%
+
+Zone VI 25%
+
+ZoneV | 17.5% Zone IV 12.5%
+
+Zone Ill 9%
+
+Zone ll 6% Zone | 4.5% Zone 0 3.5% for zones.
+
+Table 6.8. Zones, negative density and description.
+
+exposure ZONE VIII
+
+ZONE VI
+
+ZONE VI
+
+ZONE V
+
+ZONE IV
+
+ZONE Ill
+
+ZONE II diamonds on a white background or a chimney-sweep tn the ment? They don’t know, they just assume that we are photograph 1scene of average yck-and-white How do they do this? How can they know if we are photogr reflectances and the diffusing dome averages thi light and the meter calcu scene for good exposure based on these assumptions. More simp! if we are photographing a card that is exactly [8% reflectan photographic gray card) and we read the light with an ineident n then set the aperture to the stop the meter indicates, the print wil fact come oul to be Zone \ ates the t/stop needed to photograph th Try this experiment. Set a photographic gray card in eve form light. Read it with a spot meter and note the f/stop the indicates. Then read the light with an incident meter. The readin should be exactly the same. Ifthey “re not, have your meters checl Now try a reverse experiment. Read a uniformly lit scene incident meter and notice the indicated stop. Now take the meter and read various parts of the scene until you find somethi that the spot meter indicates as the same f/stop. You have just { a Zone V subject brightness.
+
+Now photograph the scene with a black-and-white Polaro with black-and-white film. Compare the Zone V subject witl gray card: they should be roughly the same. This is the simp! which unlocks the world of exposure control * an incident reading, * anaverage 18% reflectance.
+
+. 1 spot meter reading of a gray card and * Zone V are all the same thing looked at from different perspective.
+
+The result of this is that there are many different ways to read the exposure of a scene and arrive at the same result. + You can read it with an incident meter.
+
+* You can place a gray card in the scene and read it with a spot meter.
+
+* Youcan find something in the scene that is “Zone V” and read it with the spot meter.
+
+Let’s think about that last one, because it really points us in a whole new direction. It depends on you making a certain judgment: you have to look at a scene in the real world of color and decide that it is about Zone V or middle gray. (It takes some practice to do this, but it is an incredibly important exercise; | urge you to do it often.)
+
+What about the next logical step: what if there isn’t anything in the scene that is middle gray? What do we do then? Let’s remember that each step on the gray scale is one stop different from its neighbor (remember, this is a simplified version of the zone system). So if Zone V equals f/4 (given a particular film and shutter speed) then Zone VI must be f/5.6 and Zone IV must be f/2.8, right?
+
+So if there is nothing in the scene that equals Zone V, but there is something in the scene that equals Zone VI, we’re still in business.
+
+If we read it and it equals f/5.6 then we know that Zone V would be (4. We also know that Zone V (f/4 in this example) is the same as an incident or average reading and is therefore the correct f/stop to set on the lens.
+
+So what is there that we can count on to be roughly Zone VI under most conditions? Easy one: Caucasian skin. Average Caucasian skin is around Zone VI. it Is in fact one of the few constants we can count on. Get out your light meter and check it out. If you are ever stuck without an incident meter, or worse, even without a spot meter you can always use the old “palm trick.” Use your spot meter or any reflecting meter to read the palm of your hand. This equals Zone VI.
+
+Then open up one stop to get Zone V and you have your reading.
+
+There is a greater variation in non-caucasian skin and so there is no one standard, however many DP’s take Zone V as a starting point for African-Americans.
+
+I think you can see where this leads us. We don’t have to confine ourselves to just reading things that equal Zone V and Zone VI: in fact we can do it with any zone. It all depends on your judgment of what gray tone a subject brightness should be. In real life, it takes years of practice and mental discipline to accurately determine subject brightnesses in terms of gray scale values, but in the long run it is a useful skill. If you can pre-visualize what gray-scale value you want a particular subject to be in the final print, you then have the power to “place” it where you want it in the exposure range. This turns out to be a powerful analytical and design tool.
+
+PLACE AND FALL
+
+What do we mean by “placement?” We just saw its simplest form.
+
+We “placed” the skin-tone value of the hand on Zone VI. We can, if we want. place any value in the scene. Say we have a gray back ground in the scene which the director wants to be “light gray.” We decide that by light gray, she means Zone VII (two stops above middle gray). We then read the background with a spot meter and it indicates f/4. We then count down two stops and get 1/2. If we set the lens at f/2, that gray background will photograph as “light gray” or Zone VII.
+
+exposure cinematography Let’s try the reverse as a thought experiment. Say we had the same background under exactly the same lighting conditions, but the director decided she wanted it to be dark gray, which we take to mean Zone II]. We read it with the spot meter and of course nothing has changed, the spot meter still indicates f/4, only now we want the gray background to appear much darker, so we “place” it on Zone III, which we do by counting “up” two stops to get {/8. Common sense tells us that if we photograph the same scene at f/8 instead of f/2, it is going to come out much darker in the final print: the gray background will not be Zone III (dark gray) instead of Zone VII (light gray).
+
+Nothing has changed in the actual set; we have changed the value of the final print by “placing” the value of the background differently. But what’s the flaw in this ointment? There is more in the scene than just a gray background, and whatever else is there is going to be photographing lighter or darker at the same time. This brings us to the second half of the process: “fall.”
+
+If you place a certain value in a scene on a certain zone, other values in that scene are going to fall on the gray scale according to how much different they are in illumination and reflectance. For our example, let’s assume we are using a Pentax Spotmeter which has a zone dial attached to it. The Pentax reads in EVs. Typical white skin tone is a Zone VI. You read an actor’s face and find that it reads EV 10. Turn the dial so that 10 aligns with Zone VI. Now read the exposure indicated opposite Zone V: this is the exposure to set the lens aperture, adding adjustments for filter factors, ete.
+
+Let’s try an example. We are lighting a set with a window. We set a 1OK to simulate sunlight streaming in through the window, We then read the curtains and the spot meter indicates f/11. We have decided that we want the curtains to be very “hot” but not burned out. On the film stock we are using today, we know that white “burns out” at about three stops hotter than Zone V. So we want to “place” the curtains on Zone VIII (three stops hotter than the average exposure).
+
+By placing the curtains on Zone VIII, we have determined the f/stop of the camera: it will be f/4, right?
+
+We then take an incident reading in the room where the people will be standing. The incident reading is f/2.8. This means that people standing in that position will photograph one zone too dark. Maybe for this scene that’s OK, but let’s assume we want to actors to have normal exposure which will result in normal skin tone values. In other words Zone VI “falls” at £/4 (one stop above the incident reading, which equals Zone V). Their skin tone will come out as Zone V instead of Zone VI.
+
+To correct the situation we have to change the balance. If we just open up the lens, we are shifting the placement of the curtains and they will burn out. We must change the ratio of the illumination, not just shift the aperture of the camera. We can either tone down the 10K hitting the window with a double scrim (reducing it one stop) or we can raise the exposure of the subject area by increasing the light level there one stop. Either way are manipulating the subject values of the foreground to “fall” where we want them, based on our “placement” of the curtains on Zone VIII. We could have just as easily approached it from another direction, of course. We could “place” the foreground values where we want them and then see where the curtains “fall.” It’s the same thing. By reading the scene in different ways you can “place” the values of the negative where you want them to fall.
+
+Placement is important in determining subject brightness ranges and contrast ratios and in reading subjects which you can’t get to for an incident reading. In order to expose by placement you must pre-visualize which zone you want a subject value to reproduce as. For Ansel Adams, the godfather of exposure, pre-visualization was what it was all about, and remember, he dealt mostly with landscapes where he had no control over lighting. Since we usually control the lighting we can take pre-visualization one step further.
+
+READING EXPOSURE WITH ULTRAVIOLET
+
+Ultraviolet lights present a special problem. Several companies make ultraviolet light sources. They include Wildfire and Nocturn.
+
+When combined with props or clothing painted with UV sensitive fluorescent paints or dyes or with objects that naturally fluoresce such as your old Jimi Hendrix poster, an incident reading is meaningless. The only valid means of assessing exposure is a reflected reading. A wide angle reflectance meter will work if you have one, or have an adapter for your incident meter. If that is not available, a spot reading will work. Here, it is important to consider the Zone values and use judgment and calculate the exposure accordingly.
+
+EXPOSURE AND THE CAMERA
+
+Nearly all film cameras have rotating reflex shutters, which control exposure by alternately rotating closed and open sections past the film plane: while the closed section is in front of the film gate, the film moves. while the open section is in front of the gate, the film is exposed (Figures 6,12 and 6.13). Some video cameras also have variable exposure times.
+
+The exposure time of the camera is determined by two factors: the speed at which the shutter is operating and the size of the open section. The speed is determined by the frame rate at which the camera is operating. The U.S. standard is 24 frames per second for syne sound filming and the European standard is 25 frames per second (based on the 50 cycles per second power supply). This carries over to High Def shooting as well in 24P or 25P mode. The open section of the rotating shutter assembly is referred to as the “shutter angle” and is measured in degrees. Sensibly, most shutters are half open and half closed, which makes the shutter angle 180°. Some shutters are 165° and many are adjustable (Table 6.11).
+
+With the camera operating at 24 fps and a 180° shutter, the exposure time is 1/48th of a second (1/S0th at European 25 fps). This is commonly rounded off to 1/S0th of a second and is considered the standard motion picture exposure time.
+
+Light meters that use different slides for various ASAs (such as the venerable Spectra or Studio Sekonic), just assume a 1/50th of a second exposure. Exposure time can then vary in two ways: by changing the frame rate (which is common) and by varying the shutter angle (which is less common). Exposure is determined by this formula:
+
+Shutter speed for 180° shutter = 1
+
+2x [ps Exposure in seconds = shutter opening (degrees)
+
+360 x frames per second MORE INFORMATION
+
+For more on exposure, including detailed tables for exposure with filters, macro, miniatures, shutter changes, shutter angle, ramping, various film stocks, high and low speed shooting, special effects and other data, see The Filmmaker ‘s Pocket Reference. exposure FPS | 24 | 25 | 30 | 32 | 38 |48| 60 | 76 |96| 120 | 150 |190| 240 | 300 oa 480 Stops | Normal | 1/3 | 1/2 | 2/3 | 2 |11/3/12/3| 2 [21/3/22/3] 3 [31/3[32/3] 4 [4173 a ao 32 | 43 gar ‘ 240
+
+1/16 | 1/24 | 1/32 | 1/50 | 1/50 | 1/60 1/200 | 1/250 | 1/500 aie EXPOSURE 120°
+
+\ N 180° SHUTTER (in stops) 165° SHUTTER SHUTTER 140 100
+
+\ anor 110 2/3 80 so | 1 | ss | 6 : ? 55 40 45 30
+
+35
+
+30
+
+22
+
+18 31/3 15
+
+Fora more detailed discussion of exposure in regard to lighting with bi scene lighting examples, see Motion Picture and Video Lighting, Table 6.9. (top) Exposure changes — both published by Focal Press. for high speed shooting.
+
+Table 6.10. (above, right) Exposure changes for low speed shoating:
+
+Both this chart and table 6.9 apply equally to film and video.
+
+6.22. (above middle) Butterfly rotating shutter from a_ reflex film camera.
+
+6.23. (above) Adjustable rotating shutter. Shutter angle adjustment in video or High Def cameras is done electronically.
+
+Table 6.11. (right) Exposure changes with various shutter angles. These shutter angles are typical for various makes of film cameras.
+
+cinematography color theory

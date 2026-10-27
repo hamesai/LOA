@@ -1,0 +1,191 @@
+Appendix
+
+PART A GOLDEN SECTION
+
+Used in fine art more than filmmaking, the Golden Section divides the frame in an elegant and unique manner.
+
+ 
+
+This example uses a screen aspect ratio of 2:1 although the same technique works on any rectangular shape.
+
+ 
+
+Draw a diagonal line from A to C.
+
+ 
+
+Then, using a drafting compass, measure the length of C–B and transfer it to the diagonal line creating C–X.
+
+ 
+
+Using the compass, measure the length of A–X and transfer that measurement to line A–B. This creates point E.
+
+ 
+
+A vertical line drawn from point E divides the frame into the Golden Section. The division can be used to compose the linear motif of the shot or to place actors.
+
+ 
+
+The frame can be further divided using the same technique and maintain the Golden Section. From E, measure E–B and transfer it to create point F.
+
+ 
+
+From F, measure A–F and transfer it to create point G.
+
+ 
+
+Draw vertical lines from F, G, and E. These lines proportion the frame into the Golden Section.
+
+ 
+
+The proportions can be used to arrange the linear motif or to place objects in a shot.
+
+PART B MIXING COLOR ON MONITORS
+
+Many people incorrectly believe that televisions, computer screens, and hand-held digital devices use the additive system of color mixing. The color we see on these screens is due to optical mixing which is similar to but different from the traditional additive system. Examining these screens with a magnifying glass reveals that the image is comprised of rows of almost microscopic red, blue, and green pixels. In diagramatic form these pixels look roughly like this:
+
+ 
+
+Depending on the manufacturer and use, the pixels can be almost any rectangular or round shape. The pixels can be arranged in horizontal, vertical, or diagonal rows with more or less space between them and in a variety of repeating patterns.
+
+When a red color appears on screen, only the red pixels light up. When a magenta color appears on the screen, both the red and blue pixels brighten. When white appears on screen all the pixels light up. The red, blue, and green pixels are tightly packed together but they do not overlap. The pixels are so small that our eyes mix or blend them together to produce color mixtures. The traditional additive system requires colors to truly overlap when mixing. Since the pixels never overlap on a television or computer screen, we can’t call this additive mixing; we call it optical mixing. New technology has been introduced that sandwiches the three colors together. This new technique would be part of the additive system because the three primary colors actually overlap.
+
+PART C THE DIRECTORIAL BEAT
+
+“Beat” sounds like a term describing rhythm but in this case, it’s not. A scene can be divided into directorial beats. Each beat signals a change in the characters’ relationships or intentions within the scene.
+
+Here’s a short scene that demonstrates the use of directorial beats. It takes place backstage of a theatre where Jim Schreiber, a college student, looks for a rock singer named Maisy Adams.
+
+BEAT 1
+
+INT. THEATRE DRESSING ROOM AND HALLWAY
+
+Jim stands in the dressing room and looks around. The door to the hallway is open and Maisy enters.
+
+MAISY: Who are you…?!
+
+JIM: I…uh…came to see Miss Adams. Uh…the door was open.
+
+MAISY: It still is. Close it on your way out.
+
+JIM: Who’re you?
+
+MAISY: Her hairdresser. Now do I have to call the cops?
+
+Jim reluctantly leaves and closes the door behind him.
+
+BEAT 2
+
+Maisy sits down at her dressing table, turns on the mirror lights, and begins her make-up routine. There’s a quiet knock at the door.
+
+JIM: (OS, through the door)
+
+I can’t leave until she honors her commitment.
+
+MAISY: What?
+
+JIM: (OS, through the door)
+
+I have to tell Miss Adams: (reciting from memory) You were scheduled to do a concert at our university’s Homecoming, then your manager canceled. Maybe you’ve received a more financially remunerative offer, but we’ve already advanced $7,500 for the arena and the printing of tickets. The student body and faculty are counting on me to come through. I have a responsibility to them.
+
+MAISY: Well, you’ve got a real problem, kid. What makes you think I’ll help you out?
+
+BEAT 3
+
+Slowly the door opens and Jim peeks in. He realizes she’s Maisy Adams without her trademark green hair.
+
+JIM: You’re Maisy Adams?
+
+Maisy stands and begins organizing her costumes for the show.
+
+MAISY: Right. Listen, I’ve got a show to do.
+
+JIM: But what about the hair?
+
+MAISY: I’m not a natural green. Look, why did you think I’d help you, anyway?
+
+Jim steps into the room.
+
+JIM: Desperation…and your lyrics. They’re about treating people with love and respect and honesty. I figured you were sensitive and could understand that a decent human being could die.
+
+MAISY: Who?
+
+JIM: Me!
+
+BEAT 4
+
+Maisy stops, sits at her dressing table, turns off the mirror lights and turns to Jim.
+
+MAISY: Look, uh….
+
+JIM: Jim. Jim Schreiber
+
+MAISY: You’ve got me feeling guilty if I sing at the other show. Then again, how do you think they’ll feel if I canceled?
+
+JIM: I feel badly for them. But not as badly as I’d feel for myself.
+
+MAISY: I suppose my manager could handle it. He’s great in a mess; especially one he’s created. You got a contract or what?
+
+BEAT 5
+
+Jim hands Maisy the contract and victoriously paces around her.
+
+JIM: I can’t tell you how happy this makes me.
+
+MAISY: Yeah, I picked up on those vibes.
+
+Maisy signs the contract and hands it back to Jim.
+
+MAISY: You know they want me to keep my real identity secret from the public.
+
+Jim goes to the door.
+
+JIM: I won’t tell a soul.
+
+Jim exits the dressing room and turns back to Maisy.
+
+JIM: Well, I’ll see you next week.
+
+MAISY: Enjoy tonight’s show.
+
+JIM: I…uh…didn’t have time to purchase a ticket.
+
+Maisy picks up a backstage pass from the dressing table. She walks into the hallway where Jim stands. Seductively, she pins the pass onto his shirt.
+
+MAISY: Then watch from the wings.
+
+Maisy smiles and Jim blushes.
+
+END
+
+This scene is divided into five directorial beats. Each new beat indicates a change in the intention or relationship between Jim and Maisy.
+
+BEAT 1: Jim is shy and Maisy is hostile.
+
+BEAT 2: Jim timidly persists.
+
+BEAT 3: Jim becomes assertive.
+
+BEAT 4: Maisy concedes.
+
+BEAT 5: Maisy flirts with Jim.
+
+Directorial beats organize a scene’s story structure and reveal relationship changes. There are several ways a director can delineate the beats.
+
+Acting. An audience becomes aware of changes in character relationships when each beat is properly performed by the actors.
+
+Staging. The director can move the actors into new positions (sitting, standing, etc.) in relation to each other. Changes in the actors’ staging reveal relationship changes. This is often called “picturization.”
+
+Camera. The camera can indicate beat changes by moving to a new angle for each beat.
+
+Editing. The editor can be supplied with many different shots (master, two-shot, over-the-shoulder, close-ups, etc.) of the entire scene. Each beat can be delineated by using different camera angles.
+
+Visual Component. A beat change can be defined by a rearrangement of the visual components.
+
+In Beat 1 the dressing room is flat space and cool colors. The wall behind Maisy is covered in colorful posters with diagonal lines. The wall behind Jim is plain grey plaster. These backgrounds will create visual contrast in the linear motif when the coverage of the actors is intercut.
+
+In Beat 4 when Maisy agrees to sign the contract, Jim moves to Maisy’s side of the room so that there is visual affinity in the linear motif. The linear motif contrast supports the conflict between the characters. The affinity in the linear motif shows Maisy’s decision to help Jim.
+
+In Beat 2, there is a lighting/tonal change when Maisy turns on the mirror lights and ignores Jim. In Beat 4 Maisy realizes that Jim is correct and turns the dressing table lights off. The tonal contrast indicates Maisy’s emotional change towards Jim.
+
+In Beat 5, Maisy walks into the hallway which is lighted with warm colors and a horizontal linear motif. Maisy gets aggressively close to Jim when she gives him his backstage pass. The warm colors and horizontal motif indicate that Maisy has changed her opinion of Jim.

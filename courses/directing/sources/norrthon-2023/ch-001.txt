@@ -1,0 +1,679 @@
+Vol.:(0123456789)
+Human Studies (2023) 46:199–219
+https://doi.org/10.1007/s10746-023-09672-8
+1 3
+EMPIRICAL STUDY / ANALYSIS
+Cueing in Theatre: Timing and Temporal Variance 
+in Rehearsals of Scene Transitions
+Stefan Norrthon1 
+Accepted: 21 March 2023 / Published online: 20 April 2023 
+© The Author(s) 2023
+Abstract
+This video-ethnographic study explores how professional actors and a director at 
+the end of a theatrical rehearsal process coordinate transitions between rehearsed 
+scenes. This is done through the development and use of cues, that is, ‘signals for 
+action’. The aim is to understand how cues are developed and how timing in transitions is achieved by using the designed cues. Work on three different scene transitions is analysed using multimodal Conversation Analysis. The results show that 
+cueing is a central tool for developing well-timed transitions, and how cues serve 
+different purposes in the developing performance. There is no prior plan for how 
+to achieve timely transitions. In all the analysed examples, it is an actor who must 
+produce or act on the given cue who insists on its precise definition, followed by 
+a negotiation on candidate cues, confirmation and specifying the cue. It is also 
+actors who are primarily responsible for the timing of transitions, and the timing is 
+solved through an interplay of clear-cut and embodied actions that allow for temporal variance. Cues are reflexively linked to actors’ observation and interpretation of 
+other actors’ actions, which prevents a mechanical determination of timing in scene 
+transition.
+Keywords Theatre · Temporality · Rehearsal · Cueing · Multimodal interaction · 
+EMCA
+Introduction
+One of the main issues in the process of rehearsing a theatrical production, besides 
+what should be done and by whom, is when things should be done. This puts the 
+issue of timing and temporality at the hub of theatrical production. This article is 
+about how members of a professional rehearsal team resolve issues of coordination 
+ * Stefan Norrthon 
+ Stefan.norrthon@su.se
+1 Department of Swedish Language and Multilingualism, Stockholm University, Stockholm, 
+Sweden
+
+200 S. Norrthon 
+1 3
+and timing in scene transitions, i.e., the process of moving from one scene to the 
+next in a performance. The data consists of video recorded rehearsals of Lucy Prebble’s play The Effect (2013) at Sweden’s largest touring theatre. The analysed examples are from technical rehearsals (see Mitchell, 2009, Ch. 12), near the end of the 
+rehearsal process. This phase of the process is a “coordination stage” (Lyon, 1982: 
+85), in which acting is coordinated with theatrical elements such as sound, light, 
+scenography, mask and costume (Allain & Harvie, 2006: 147). A central task is also 
+to link previously rehearsed scenes together. In this production, a new scene starts 
+every time an actor exits or enters the stage (see Sect. “Data and Method”), and all 
+examples in Sect. “Analysis” involve timing of entrances. Different scenes can take 
+place in different space and time, and actors’ entrances and exits must be organized 
+together with elements such as light, sound and scenography. While a film editor 
+can perform immediate cuts in space and time, theatre takes place in a factual space, 
+in unfolding time. The “editing” in theatrical performances must be carried out in 
+the here and now, through the collaboration of many participants, which can entail 
+complex inter- and intra-individual coordination (Deppermann, 2014) of actions, 
+as well as the use of different modal resources with different temporal properties 
+(Sect. “Theoretical Background”). Because of this coordination work, timing is an 
+extra manifest issue during technical rehearsal. An important tool for creating timing in theatre is the use of cues, that is, ‘signal for action’. To be “on cue” is an 
+expression in everyday language, and we use cues to fit actions together as part of 
+spontaneously emerging interaction (Sect. “ Theoretical Background”). In scripted 
+and rehearsed interaction, the “fit” has to be discussed and decided beforehand. 
+This process of joint decision making is the focus of this study. In theatre, cues and 
+cueing have been technical terms since at least the days of Shakespeare. 1 Cueing 
+is often perceived as a verbal issue, specifically the last word of a character’s line 
+(e.g., Oxford dictionary), but a wide range of multimodal resources can potentially 
+be used for cueing in a theatrical production. Cueing during rehearsals is a taskoriented process of joint decision making, in which the production team decides (1) 
+when cues are needed; (2) what resource(s) will be used for cueing in what way, and 
+(3) what happens when cues are delivered.
+The aim of this paper is to understand how cues are developed and how timing 
+in scene transitions is achieved by using the designed cues. The analysis draws on 
+multimodal ethnomethodological Conversation Analysis (EMCA). In the follow -
+ing, Sect. “Theoretical Background” deals with issues of timing and transitioning 
+in theatre and in everyday life, followed by methodological considerations and presentation of the data in Sect. “Data and Method”. The analysis in Sect. “ Analysis” 
+deals with rehearsal work concerning three different scene transitions in the play. A 
+concluding discussion follows in Sect. “Concluding Discussion”.
+1 For example, Bottom in A midsummer night’s dream (2007 [1600], act IV, scene 1): [Awaking] ‘When 
+my cue comes, call me, and I will answer’.
+
+201
+1 3
+Cueing in Theatre: Timing and Temporal Variance in Rehearsals…
+Theoretical Background
+Although theatre essentially is a temporal artform (Pavis, 1998: 409; Wagner, 
+2018: 60), it is difficult to find studies of timing as an aspect of concrete theatre work, especially studies that focus on actors’ collaboration. To the extent 
+that timing has been regarded in the literature on acting, it has most often been 
+considered an individual ability, applying either to a character’s inner processes, 
+often in line with Stanislavski’s notion of tempo-rhythm ( 1950, Ch. 11; see Spolin, 1999: 319), or to actor’s communication with the audience (Szeps, 1996). 
+Not seldom, timing is described as a skill or ‘gift’ (Bogart, 2003: 68; see also 
+Szeps, 1996: iv) that individuals either possess or lack. This study draws on ethnomethodological conversation analysis (EMCA) to multimodally analyse real 
+rehearsal data, which means an interest in sequential and temporal organisation of 
+actions, and a focus-shift from what individuals have or are , to what participants 
+collaboratively and moment by moment do. The study also draws on the fact that 
+rehearsed and collaborative performances depend on explicit agreements regarding timing between colleagues on and off stage.
+As temporality is an issue for theatre, it is also a fundamental aspect of life. Flaherty 
+(e.g., ) has investigated the social organization of time, and various ways in which we 
+engage in time work, i.e., “efforts to control, manipulate, or customize one’s own temporal experience or that of others” (2021: 261). We deal with temporality socially in 
+our daily interactions in the temporal and sequential organization of our social actions 
+(e.g., De Ruiter et al., 2006; Deppermann & Günthner, 2015). From the ancient 
+Greeks, we have two interdependent words for time. Chronos refers to an objective, 
+quantitative and measurable concept of time, e.g., minutes and seconds, while kairos refers to a qualitative and subjective concept of time, often translated as ‘the right 
+moment’ (Gelang, 2013). Thus, kairos is equivalent to what we generally mean when 
+we talk about timing (Smith, 1969: 6). Both chronos and kairos have been carefully 
+examined within EMCA, but the main focus has been on kairos, because with an emic 
+interest in situated interaction, time becomes an indexical issue, depending on the 
+action at hand (Mondada, 2018: 100). The issue of scene transitions relates to a basic 
+question in both storytelling and EMCA, namely “what’s next?” (Schegloff & Sacks, 
+1973; Mondada, 2019a: 49). Timing of transitions is a well-researched area in EMCA. 
+Pioneering studies in this area reveal how participants, by negotiating with respect to 
+transition relevant places (TRPs), can manage well-timed speaker transitions (Sacks 
+et al., 1974) and have also shown the capability of precision placement (or latching), i.e., when individual turns are precisely timed without any gap between them 
+(Jefferson, 1973: 49). This capacity for timing, as well as the ability to produce early 
+responses (Deppermann et al., 2021), rests on an essential property of social interaction, namely projection: “the fact that an individual action or part of it foreshadows 
+another” (Auer, 2005: 8). Several studies have shown how different modal resources 
+are used as projection cues in turn taking, such as syntax (Sacks et al., 1974), lexical 
+items (Mazeland, 2019), non-lexical vocalizations (Keevallik, 2014), prosody (Selting, 1996), pragmatic cues (Ford & Thompson, 1996), gesture (Streek & Hartge, 1992; 
+Streeck, 2009) and gaze (Stukenbrock, 2018). At another level of interaction, people 
+
+202 S. Norrthon 
+1 3
+also organize transitions between different types of activities. Robinson and Stivers 
+(2001) have shown how patients use doctors’ verbal and bodily behaviour as projection 
+cues in transitions from history-taking to physical examination. In their study of work 
+meetings, Deppermann et al. (2010) have demonstrated how a folder can function as 
+a projection cue in the process of moving from “no break time outs” to prescheduled 
+work activities. Broth and Keevallik (2014) exhibit how a dance instructor’s actions 
+function as cues for students to project transitions from observation to practice. In a 
+comparable way, but in theatre rehearsals, Schmidt (2018) examines how actors and 
+a director negotiate play initiations, i.e., the “transition process of getting a play scene 
+started” (2018: 237, italics in original).
+This study is thus related to central concepts for understanding timing in everyday 
+life, but there are also important differences between daily interaction and timing activities on a stage in order to prepare a future public performance. There is a projective 
+dimension in both stage-audience communication (Herman, 1991: 99) and in communication among crew members—but in different ways. A crucial aspect is that members of a theatrical crew know more than the audience. The script provides a specific 
+turn allocation (Broth, 2011: 114), and most scene transitions are also provided in the 
+place they occur by the script (see Sect. “Data and Method”). But a script in and of 
+itself is incomplete (Pavis, 1998: 398), and the main task of rehearsing is to embody it 
+(Lefebvre, 2018), which is done through collaborative investigating, decision-making 
+and practicing over time (for longitudinal studies on rehearsing, see Hazel, 2018; Norrthon, 2019; Deppermann & Schmidt, 2021; Norrthon & Schmidt, 2023). In everyday 
+interaction, cueing and projection are indexical phenomena (Stukenbrock, 2018: 41), 
+and projected actions may not occur at all (Auer, 2005: 5; Schmidt, 2018: 233). Rather 
+than signals with a given meaning, cues in interaction are often clues—a notion that is 
+consistent also with the audience’s ongoing interpretation of a performance (see Broth, 
+2011). Cues within a crew during a performance, on the other hand, are rehearsed signals that prompt specific and rehearsed next actions. A scenic action like turning a head 
+can entail a duality in being both a cue to a colleague to perform a certain next relevant 
+act in the show, and a clue to the audience about what this next action may be. In Goffman’s (1974) words, cues are a performance’s concealment track—only available to the 
+production team—while the clues available to the audience belong to the performance’s 
+directional track (Goffman, 1974: 210). Determining the directional track, that is, what 
+is emphasized in which way, is an important part of rehearsal work (see Pavis, 1998: 
+151). Theatrical activities are spatial (e.g., Wagner, 2018), and on a stage, there is often 
+a great number of things going on at the same time. Work with focus within the performance is a recurring issue in literature on theatre, concerning actors’ attention to 
+both their own actions and those of others (Spolin, 1999: 21f), as well as techniques for 
+directing the attention of the audience, e.g., via lighting (Mitchell, 2009: 77), or actors’ 
+gazes (Pavis, 1998: 151) or their placement on the stage (Lyon, 1982: 78).
+In both theatrical performances and in everyday life, transitions are embodied, 
+emergent and co-operative activities. Therefore, a multimodal analysis is needed to 
+understand them (see Deppermann et al., 2010). A communicative resource could be 
+practically anything participants in social interaction make use of and orient toward 
+in interaction (Mondada, 2018: 86). Different resources have different temporal 
+properties (Keevallik, 2015; Mondada, 2019a: 49f; Deppermann & Streeck, 2018). 
+
+203
+1 3
+Cueing in Theatre: Timing and Temporal Variance in Rehearsals…
+A resource such as gaze, for example, has both high durability, because gaze allows 
+actions to “freeze” for some time, and changeability, because an action performed 
+through gaze can quickly switch with another (Deppermann & Streeck, 2018: 10f). 
+Schmidt (2018, see also above) has shown how production crew members during 
+theatre rehearsals handle the “time-gaps” that arise between resources with different 
+temporality. While speech is a “fleeting” resource (see also Deppermann & Streeck, 
+2018: 9) that disappears as soon as it is produced, participants can use, for example, bodily positions to create more lasting configurations of multimodal resources, 
+which both show what will happen next and form a basis for the participants as they 
+develop new actions. As said, theatre is spatial, and the different temporal properties 
+of resources have implications for the work on timing in scene transitions: If, for 
+example, an actor is in one place in the room at the end of one scene and needs to 
+be somewhere else at the beginning of the next, the production team needs to find a 
+way to solve this issue.
+Cueing scene transitions is thus about determining and rehearsing how specified 
+scenic actions should follow each other in the process of moving from one scene to 
+the next. At the same time, theatrical performances are never completely the same 
+from one night to another. A theatrical performance is a procedural event (e.g., Fischer-Lichte, 2008, Ch. 6), an emergent dialogue between stage and audience (Broth, 
+2011), and between the members of the production team (e.g., Norrthon, 2019). One 
+may refer to the director Peter Brook, who discusses “the present moment” (1993: 81) 
+as an essence of theatre as an art form. Hazel (2018) points out that a theatrical per -
+formance has a high degree of stability (see also Schmidt, 2018: 36), but that a cer -
+tain variance is both inevitable and necessary to “maintain a level of co-engagement 
+among the performers” (Hazel, 2018: 262). In a previous study (Norrthon, 2019) that 
+dealt with the same rehearsal process as this one, it was shown how in both rehearsing and performing actors produced short bursts of improvisation until the precise 
+point when a cue was delivered. This possibility for interplay between stability and 
+variance should be noted relative to the aim of this study.
+Data and Method
+The examples are from the rehearsals for The Effect, a play that premiered in the fall 
+of 2015 at Riksteatern, Sweden’s largest touring theatre. The play takes place in a 
+medical clinic during trials of new antidepressant drugs and is set for four actors: 
+Isabelle and Per play doctors conducting the test, and Frida and Peter play their 
+research subjects. The entire rehearsal process took 45 days. I observed as a co-present researcher and followed the rehearsal process from the first day of rehearsals to 
+opening night. The video corpus consists of 82 h of video collected with three cameras. I obtained the participants’ informed consent to be represented in images and 
+also to be identified by their own names.
+The data in this study is from three days of technical rehearsals, just over a week 
+before the opening night. Earlier in the process, a small number of persons had been 
+working with individual scenes in a rehearsal room. In this phase, the entire production crew come together on the stage where opening night will be to assemble 
+
+204 S. Norrthon 
+1 3
+rehearsed scenes, and to coordinate them with other theatrical elements such as 
+lighting, costumes, sound and so forth. For actors, the transition from the rehearsal 
+room to the performance space often means that timing adjustments have to be 
+made (Lyon, 1982: 85). The work during technical rehearsals for this production 
+was divided so that it concentrated either on acting or on the technicians’ work on 
+elements such as sound, light and scenography. This study, as well as the data collection, is concentrated on the work of the actors and the director. However, a technician is also present in the examples offered here, operating the lights. Figure 1 
+shows the room, the typical spatial placement of the participants, and the placement 
+of cameras and microphones.
+The rectangle at the top of the figure is the stage, indicated by taped markings 
+on the floor. The wings are spaces on both sides of the stage, where actors can be 
+without being visible to the audience. The director usually sits at the front row of the 
+auditorium, making it easy to move up to the stage. The lighting technician sits in 
+the middle of the auditorium, and the researcher’s position is marked at the bottom 
+of the figure. Two microphones are indicated by grey circles, and three cameras are 
+marked by numbers 1, 2 and 3.
+Fig. 1 The spatial setting, with cameras (numbered), microphones (grey circles) and some participants
+
+205
+1 3
+Cueing in Theatre: Timing and Temporal Variance in Rehearsals…
+Large productions sometimes have a stage manager who, during ongoing perfor -
+mances, is responsible for giving cues to members of the crew (see Mitchell, 2009: 
+106f). In this case (and typically in Swedish theatre), actors and technicians are 
+themselves responsible for the cueing. Boundaries between different scenes were for 
+the most part defined by the script but also by the director together with the ensemble: During the first few days of rehearsals, they divided the whole script so that 
+every entrance or exit marked a new scene,2 with the result being 32 scenes in total. 
+All video regarding scene transition work was viewed for this study, and a selection 
+of video data from work on 12 scene transitions was closely examined. The analysis 
+section deals with three different transitions divided into six extracts.
+Temporal ordering of action is a fundamental issue both within EMCA and theatre rehearsing, and EMCA’s participant-oriented approach to how actions are per -
+formed through the use of various multimodal resources (Mondada, 2018: 86f) is 
+suitable for understanding the timing of transitions as an interactional achievement. 
+To conduct the analysis and go through moment-by-moment unfolding activities 
+in the gathered data, I transcribed the interactions not only verbatim but also with 
+regard to multimodal aspects of action designs. The software CLAN was used for 
+preparing verbal transcripts, and ELAN (https:// archi ve. mpi. nl/ tla/ elan) was used 
+for multimodal analysis. The verbal transcripts follow conventions developed by 
+Jefferson (2004). Multimodal details build on Mondada’s (2019b) conventions (see 
+appendix), combined with visual representations influenced by Goodwin (2018). 
+See appendix for transcription conventions.
+Analysis
+Rehearsal data concerning three different transitions will be investigated in this section, divided under two headlines. Rehearsals have a basic pattern of try-out—discussion—try-out, and the analysis will show how cueing is done in both discussions 
+(Sect. “Cueing an Entrance”) and try-outs (Sect. “Cueing an Exit and an Entrance”). 
+In Sect. “Cueing an Entrance, ” the participants deal with the cueing of two transitions where an actor enters the stage. Sect. “Cueing an Exit and an Entrance” shows 
+a longer stretch of discourse in which the cueing regard one actor’s exit and another 
+actor’s entrance. Three different actors enter in the three transitions: Per, Isabelle and 
+Peter. As we will see, it is Isabelle who takes the main responsibility for the cueing 
+in all three cases. The actress Frida and a director also participate in the examples.
+Cueing an Entrance
+In this section, two examples are presented where the transition is made by an actor 
+making an entrance. In Extract 1, the entrance begins a new scene, and in Extract 
+2, an actor enters an ongoing scene, causing a turning point in the play. The scene 
+2 Each scene received a designated number. This means that each scene number was linked to a specific 
+set of actors, which is practical, for example, when making work schedules.
+
+206 S. Norrthon 
+1 3
+transition in Extract 1 begins in a blackout, i.e., the lights are out completely. Lounge 
+music fades in together with lights showing Isabelle standing alone by a bar, smok -
+ing. Per should make an entrance eventually and say the first line in the scene. In the 
+beginning of extract, the actors are about to try the transition. Isabelle is standing on 
+the stage, and Per is standing in the wings (see Fig. 1). In line 2, Per interrupts the 
+try-out by asking the director if he should “think of something special”. This way, 
+Per establishes that there is a problem to be solved, and from the subsequent interaction it is evident that both Per and the director are dealing with the problem that Per 
+requires a cue to enter. There is a blackout during the entire extract; thus, the transcript is only verbal.
+Extract 1
+The extract shows that cueing is a matter relevant to the participants, and also that 
+cues are not given in advance but something that the participants need to work out 
+together. Before anyone answers Per’s question in line 2 (“should I think of something special”), he himself suggests a candidate cue: “go on [follow] the music 
+in some way” (line 3). In line 4, the director responds “we should find that yes,” 
+where “that” demonstrates that he also is orienting toward the issue of cueing. In 
+line 6, the director confirms Peter’s candidate cue with the somewhat more precise 
+“good place in the music,” after which he identifies “good” as a time period: “like 
+ten seconds” (line 8). Hence, the director specifies “good” by referring to chronos, 
+i.e., quantitative and measurable time (Sect. “ Theoretical Background”), while also 
+hedging on strict accuracy through the use of adverbial “like”. Until this point in 
+
+207
+1 3
+Cueing in Theatre: Timing and Temporal Variance in Rehearsals…
+the extract, both Per and the director have oriented toward music as a resource to 
+use in the cueing. Because of its given rhythm, recorded music could (also) be used 
+in the sense of chronos, and unlike a concept such as seconds, which is abstract 
+without the use of a measurement tool, music is an audible resource that is salient 
+to everyone and could be considered a useful resource for the purposes of cueing. However, both seconds and music become neglected in favour of Isabelle’s 
+embodied actions. In line 11, the director asks Isabelle “how many puffs do you 
+usually take?”. The word “usually” points to the iterative nature of rehearsal. The 
+participants share an interactional history (Deppermann & Schmidt, 2021), and 
+through his question, the director begins to explicate previous rehearsal praxis. Isabelle answers “three” (line 13), which becomes the cue they decide on for Peter’s 
+entrance (line 14).
+Extract 1 not only shows that the actors and the director are co-constructing the 
+cueing of the transition but also how they do so. Per, who is to make an entrance, 
+initiates the question of cueing. A format consisting of formulating a candidate cue 
+(line 3)—confirming the cue (line 6)—specifying the cue (line 8) follows. Both seconds and the rhythm of pre-recorded music are neglected in favour of Isabelle’s 
+embodied actions on stage, and the participants choose resources that can be identified with kairos rather than with chronos. However, the extract also demonstrates 
+the interdependence between chronos and kairos (see Gelang, 2013: 92), because 
+the cue consists of a certain number of puffs on a cigarette. The cue they choose 
+is practical: It rests on previous rehearsals and it is problem-free to follow—for 
+Per and for everyone else in the production. We can also relate to the possibility of 
+some variance in the performance (Sect. “ Theoretical Background”). Both seconds 
+and music would lock the participants into a fixed timing. Instead, they chose a cue 
+which makes Isabelle responsible for the cueing because she can choose the tempo 
+of her smoking. This way, the cueing create room for some temporal variance in the 
+transition.
+Temporal variance is an important factor for solving the timing also in the next 
+example, although precise cueing is explicitly requested by the entering actor. 
+Extracts 2a and 2b follow directly after each other, showing the work on a transition 
+in which Isabelle enters into an ongoing scene between Frida and Peter. The cueing of Isabelle’s entrance regards a turning point in the narrative of the play: Frida 
+and Peter are not allowed to socialize during the ongoing test, but in the previous 
+scene they have broken the rules by leaving the house where the experiment is being 
+conducted. In the transition, Isabelle enters and discovers them as they are about to 
+kiss. Similar to Per in Extract 1, Isabelle has the first line after her entrance, namely 
+“thank god” (Extract 2b, line 16). In this particular transition, the playwright has 
+written a stage direction that says Isabelle should enter “during” the kiss. Kissing 
+has a potentially very long durability, so “during” does not give Isabelle a precise 
+moment to use as a cue. In extracts 2a and 2b, Isabelle addresses this as a problem 
+that needs to be solved. In the beginning of Extract 2a, they are about to try the 
+transition. Peter and Frida are standing on the stage, and Isabelle is standing in the 
+
+208 S. Norrthon 
+1 3
+wings. In line 1, Isabelle interrupts the transition, as Per also did in extract 1, by 
+explicitly asking for “an exact cue”.
+Extract 2a
+Isabelle’s request in line 1 is an explicit problem initiation, similar to what Per did 
+in extract 1. And she explicitly asks for a cue that is “exact”. There is no immediate uptake on this, and after a half second pause (line 2), Isabelle continues in 
+line 3 by saying that she herself could “try” something from which the director 
+can make an assessment. Another pause follows in line 4, after which the director 
+responds by almost repeating the script verbatim: “the cue is that they are about 
+to kiss” (line 5). In line 7, the director recognizes and responds to Isabelle’s problem by answering “I don’t know” (see also line 8), which shows that there is no a 
+priori masterplan for the cueing of this action. The director’s answer “have a hard 
+time saying exactly now” (line 6) also indicates that precise cueing is not his main 
+concern at this particular moment, and that he would like to delegate the precise 
+cueing of this action to future work. However, he tries to honour Isabelle’s request 
+in line 1 by formulating two candidate cues. In line 7, “if you see it” supposedly 
+refers to the kiss. The word passningssignal (‘cue signal’) in line 8 refers to a cue 
+to an actor from a technician in the form of a gesture or a lamp signal (see cueing from a stage manager, Sect. “Data and Method”), not visible to the audience. 
+However, they do not then develop what signal to use, by whom or when. In line 
+10, the director states that they will find a solution that is “perfect” but it is evident 
+in the extract that Isabelle is more oriented toward precise cueing than the director 
+is at this point.
+In Extract 2b, following directly after Extract 2a, Isabelle once again asks for a 
+cue to enter. This time, instead of requesting an exact cue, she orients to a desired 
+result, asking the director “what’s the dream” in line 11:
+
+209
+1 3
+Cueing in Theatre: Timing and Temporal Variance in Rehearsals…
+Extract 2b
+In line 11, Isabelle asks the director about his vision (“the dream”) for the timing of 
+her entrance. After this, she is describing two candidate cues, namely that she should 
+enter either “exactly when they start to kiss” (line 12), or when they “have been kissing for a while” (line 14). There is a difference between these two cues with regard to 
+temporal delimitation. The first alternative would be specific and clear-cut (see “three 
+puffs” in Extract 1, line 14), while the second is more loosely connected to the timeline of the play. As shown in ims. 2b.1 to 2b.4, Isabelle claps her hands as she formulates the candidate cues, illustrating delimited actions that are connected to specific 
+points in the timeline of the play. It can also be noted that Isabelle uses the pronoun 
+“you” to address her fellow actors as she is formulating the second candidate cue in 
+line 14, making the cueing of the transition a concern not only for herself and the 
+director but for everyone involved in the scenic actions at hand.
+The two candidate cues in lines 12 and 14 refer to two different actions that Isabelle is to perform in this transition, namely (a) making an entrance in an ongoing 
+scene, and (b) saying the first line in the new scene. In her suggestions, Isabelle 
+is linking these actions together, which means her entrance constitutes the whole 
+transition as well as the turning point that was mentioned prior to the extract. In 
+his answer (lines 15–18), the director instead separates the entrance from the line. 
+By agreeing to the director’s suggestion “they don’t notice you until you say thank 
+good god” (lines 16–18), Isabelle can enter first, without the whole turning point 
+
+210 S. Norrthon 
+1 3
+happening simultaneously. At this point in the extract, Isabelle is ready for another 
+try-out, which she demonstrates verbally and in an embodied way by answering 
+“okay yes” (line 19), while returning to the wings, i.e., the offstage position that is 
+her starting point in the current scene transition.
+The central issues in Extracts 2a and 2b are cueing in relation to precise moments 
+in time on the one hand, and the durability of actions on the other. The script gives 
+a somewhat vague cue to Isabelle on when to enter, and she initiates a discussion on 
+how the current scene transition should be timed by explicitly requesting an “exact 
+cue” (Extract 2a, line 1). Both verbally and with embodied actions, Isabelle shows 
+that she is seeking to define a precise moment in time. However, the solution they 
+end up with does not rest on a precise moment but rather on an interplay between 
+cueing and focus work (see Sect. “ Theoretical Background”): In lines 16–18, the 
+director starts out from Frida’s and Peter’s viewpoints. He also changes the dramaturgy of the scene by separating Isabelle’s actions of entering the stage and say -
+ing her line, which makes Isabelle an observer of the kiss right up until she draws 
+attention to herself by speaking her line. The cueing thus creates a socially significant situation (‘one person catches two people kissing’). This distinguishes this case 
+from Extract 1, where “three puffs” merely was about defining a rough temporal 
+orientation for Per’s entrance. For Isabelle, the kiss is the cue to enter, but an “exact 
+cue” (Extract 3a, line 1) is not necessary anymore. A kiss is an action with durability, which gives Isabelle room for temporal variance after her entrance. She can 
+enter knowing that everyone involved shares an understanding of precisely when the 
+transition occurs, namely, when she catches Peter and Frida’s attention by saying her 
+first line in the new scene.
+Cueing an Exit and an Entrance
+An interplay between cues and focus-work is important for how the cueing is solved 
+also in the last example. Extracts (3a–3c) follow immediately after in a longer stretch 
+of discourse, and they demonstrate the basic pattern of rehearsals that was presented 
+in the beginning of this section. Extract 3a shows a transition where the cueing does 
+not work, Extract 3b shows the following discussion about how to solve the problem, and Extract 3c shows a second try-out in which the cueing obviously works. 
+While the question in the previous extracts was how to time entrances, the question is now how to solve the cueing of one actor’s exit and another actor’s entrance. 
+Four participants are involved: the director and the actors Frida, Isabelle and Peter. 
+Isabelle participates in both the first and the second scene in the transition. The first 
+scene in the transition ends with Isabelle and Frida sitting on a bench, and Isabelle 
+gives Frida a urine sample container (hereafter “cup”), after which Frida exits. The 
+second scene begins in the middle of a new dialogue, with Peter sitting on the other 
+bench and Isabelle interviewing him about his health. Until today, Frida’s exit and 
+Peter’s entrance were done during a blackout (see Extract 1). On this day, however, 
+a few minutes before Extract 3a, the director has said that instead of blackouts, all 
+transitions in this part of the play should be carried out visible to the audience. They 
+have not decided on any new cues when they do a first try-out, shown in Extract 3a. 
+
+211
+1 3
+Cueing in Theatre: Timing and Temporal Variance in Rehearsals…
+In the beginning of the extract, Peter is standing in the wings and the director is sitting in the auditorium. In ims. 2a.3 and 3a.4, the lines on the floor mark the borders 
+of the stage (see Fig. 1), beyond which there is no direct light and the actors are out 
+of sight. The extract begins at the moment when Isabelle, after a (2.1) pause, begins 
+the transition by handing Frida the cup.
+Extract 3a
+
+212 S. Norrthon 
+1 3
+In lines 1–2, Isabelle and Frida are playing the end of their scene (ims. 3a.1 and 
+3a.2), and almost immediately when Frida gets up and begins her exit, Isabelle 
+turns the other way (im. 3a.3), saying the first line of the following scene: “do 
+you smoke” (line 3). As shown in im. 3a.2, Peter has not entered the scene at this 
+point, so Isabelle is saying her line toward an empty space. Instead, Peter enters 
+after Isabelle has finished her line, see im. 3a.4. At this point, Isabelle inter -
+rupts the try-out by turning her body, head and gaze towards the director, smiling 
+(shown in im. 3a.5). These actions draw everyone’s attention to the fact that they 
+have a problem that needs to be solved, as she also did in Extract 2a and as Per 
+did in Extract 1. The director demonstrates that he recognizes the problem by 
+responding “uh exactly” in line 4, after which he, after a (0.5 s.) pause, begins to 
+formulate an instruction on cueing that continues until line 13. Peter remains on 
+stage as the director first orients to Peter’s entrance in line 4, and then says “on 
+the tail of that” (line 6), possibly referring to Frida’s exit. The director does not 
+add any embodied information to indicate precisely what “of that” refers to, but 
+it could be argued that Peter in the try-out shown in extract 3a actually entered 
+“on the tail” of Frida’s actions. In line 8, the director becomes a bit more precise, 
+saying Peter could enter “even earlier”. At the same time, Peter walks back to the 
+wings, and Frida takes her position beside Isabelle. In this way, Peter and Frida 
+show that they are ready for another attempt. Peter knows that he should enter 
+earlier than he did in the previous try-out, and the problem seems to be solved for 
+all practical purposes.
+However, the question of precisely when Peter should enter remains to be 
+answered. If Peter is not to enter while the previous scene is still ongoing, so there 
+is not much time for him to use: In Extract 3a, it took a total of 3 s from the last 
+line in the previous scene until Frida was offstage (lines 2–3). In line 9, the director 
+refers to a “theory” and formulates a desired result. From line 4 to the end of Extract 
+3a, his instruction becomes more and more precise, from “on the tail” (line 6) to 
+“even earlier” (line 8) to “so that you are sitting when the dialogue begins” (lines 
+11–13)—which includes both Peter and Isabelle. However, he does not formulate 
+a precise cue for how to make this desired result happen. Extract 3b shows how the 
+participants jointly decide on Peter’s cue to enter, beginning with a candidate cue 
+from Isabelle in line 14. The transcript deals solely with verbal actions. Throughout 
+the extract, the participants remain in the same positions that they are in at the end 
+of Extract 3a.
+
+213
+1 3
+Cueing in Theatre: Timing and Temporal Variance in Rehearsals…
+Extract 3b
+The candidate cue in line 14 means that Peter should enter after the previous scene, 
+and relative to the director’s request that Peter should sit when the new scene begins, 
+they need to make time for Peter to enter and sit on the bench before Isabelle begins 
+the new scene with her first line. Then, the director explicitly highlights focus as a 
+way to resolve the transition, saying Isabelle should “direct the focus” (line 17). He 
+does not provide directives on how Isabelle should do this, nor does she demand 
+any. On the contrary, latched with the director’s utterance, Isabelle responds: “I 
+understand that” (line 18).
+The candidate cue in 14 is only marginally more concrete than the director’s “on 
+the tail” (Extract 3a, line 6). In line 21, Peter says “what shall I go on [follow] then”. 
+Hence, he explicitly asks for a cue, as his colleagues also did in Extracts 1 and 2a. 
+Lines 22–24 follow a sequence that can be compared to the candidate—confirmation—specifying format we saw in Extract 1. In line 22, Isabelle answers Peter with 
+another candidate: “that Frida walks out” after which Peter specifies “that she gets 
+up” (line 23), which refers to a more specific and delimited point in time. A short 
+confirmation from Isabelle follows (line 24), overlapping with the director’s “mm” 
+in line 25. At this point in the interaction, the participants have jointly and step-bystep developed a well-defined cue for Peter to make his entrance.
+In line 27, Isabelle orients to the audience’s perception of the transition: “one 
+gets anyway that it’s a cut then,” see also line 30. A “cut” creates an interruption 
+in the continuous flow of narrated time. The term is borrowed from movie editing, 
+and we can relate to the differences between film and theatre that were mentioned 
+in the introduction. We can also, once again, note that the participants share an 
+
+214 S. Norrthon 
+1 3
+interactional history. The director confirms in line 31 that the transition is “surely a 
+cut” and then he clarifies: “we just don’t do a blackout”. Obviously, "cut" is a term 
+that has been established earlier during the repetition process, as a way of talking 
+about this specific transition. Thus, the task they are dealing with is how to do a cut 
+without turning down the lights, and to use yet another movie term, it seems possible—not at least in relation to Isa’s description in line 14—to term the transition at 
+hand a cross-fade.
+In line 33, Frida says a line from the play, demonstrating that she considers them 
+to be ready for another try-out. Isabelle responds with the line that follows after the 
+one that Frida has chosen, presented in line 34 in Extract 3c. Thus, the participants 
+have created a common ground that allows changes from talk to performance simply 
+by saying a line. Extract 3c, which follows immediately after Extract 3b, shows the 
+transition in a second try-out. This time, the transition works, evident in the fact that 
+the transition is neither halted nor commented on.
+Extract 3c
+The handing over of the cup that initiated Extract 3a occurs in line 36. The utter -
+ances in lines 34 and 35 are scripted lines prior to this event in the timeline of the 
+play. When the actors did the handover in Extract 3a (lines 1 and 2), Isabelle and 
+Frida said “please” and “thank you,” which were improvised additions. Extract 3c 
+shows a transition where the cueing is working: A comparison of Isabelle’s line “do 
+you smoke” in Extracts 3a and 3c reveals very different timing (see ims. 3a.3 and 
+3c.3). In Extract 3c, the acting is not interrupted, and looking longitudinally at the 
+rehearsal process that follows in later rehearsal days, they do not explicitly rehearse 
+
+215
+1 3
+Cueing in Theatre: Timing and Temporal Variance in Rehearsals…
+this transition again, and the timing of this transition is also almost identical in 
+Extract 3c, in subsequent rehearsals, and during the opening night performance. The 
+cueing is thus working, but at the same time Peter is not really doing what they have 
+agreed upon. In Extract 3b, Peter specifies his own cue to “that she gets up” (Extract 
+3b, line 23). In Extract 3c, line 38, he enters 0.8 s after Frida initiates this action, 
+which is quite a long time in relation to the limited timeframe for this transition. His 
+entrance is earlier than it was in Extract 3a, but as shown in im. 3c.2, Frida has gone 
+almost as far in her exit as in extract 3a (see Extract 3a, im. 3a.4).
+How can the timing in the transition work even though Peter does not quite follow 
+the cue they have agreed upon? The answer lies in Isabelle’s actions—which was 
+implicitly addressed in Extract 31, lines 11–13, when the director said Peter should 
+be sitting when the dialogue begins. Isabelle’s actions differ from those in Extract 
+3a, when she turned toward Peter immediately after Frida left the bench (Extract 
+3a, line 2). Isabelle usually carries an iPad in her role as researcher, which she uses 
+to make notes in the test person’s journals. In line 38, Isabelle orients to the iPad 
+as an imaginary prop, by gazing downward, holding it with her left hand, and mak -
+ing notes with her right (ims. 3c.2 and 3c.3). This allows her to “direct the focus” 
+(Extract 3b, line 17) in the transition. She has the first line (“do you smoke?”) in the 
+new scene, and by taking a rest position (Streeck, 2018) with long durability, she can 
+hurry up or wait, depending on where Peter is. If she were to look at Peter immediately after the previous scene, as in Extract 3a, she would make the next action relevant, that is, her line in the new scene with an untimed result. Isabelle’s rest position 
+creates some time for Peter. It is not a problem if he does not follow his cue exactly, 
+because Isabelle has directed the focus away from that issue. Isabelle’s directing of 
+the focus is of concern to the future audience’s attention, which she will be directing 
+through her embodied actions. That is, Isabelle solves the cueing of the transition 
+through actions that steer attention away from precise timing and creates buffer time 
+for Peter, that is, room for temporal variance.
+Concluding Discussion
+This study contributes to our understanding of timing in theatre rehearsals as a coconstructive activity. The aim is to understand how cues are developed and how timing in transitions is achieved by using the designed cues. Cueing is a central tool 
+for developing well-timed scene transitions and the analysis has shown that cueing 
+is a procedural and collaborative grounding activity in which the professional par -
+ticipants calibrate the precise timing of transitions together. The participants develop 
+cues that can be identified with kairos rather than with chronos (see Mondada, 2018: 
+100), and in the analysed data, the body is an important resource for cueing. In the 
+three transitions investigated here, cues serve different purposes in the developing 
+performance. In extract 1, the cue (‘three puffs’) gives a rough temporal orientation 
+for the transition at hand. In extract 2a and 2b, the cueing creates a social situation 
+(‘catching two people kissing’), and in extracts 3a–3c, the cueing serves an aesthetic 
+concept, namely (‘a cut’). In all analysed examples, it is an actor who has to produce 
+or to act upon the cue who insists on its precise definition. Negotiation on cueing 
+
+216 S. Norrthon 
+1 3
+starts with a problem initiation, followed by a discussion on candidate cues, confir -
+mation and, finally, specifying the cue.
+At the same time, it is not always precise cues that determine whether a transition will be well-timed or not. In Extract 1, the participants reject seconds and 
+recorded music—resources that could be used as precise cueing for Per’s entrance—
+and instead they choose to follow the embodied actions of Isabelle, who is standing 
+on stage, in the form of “three puffs” on a cigarette. In Extracts 2a and 2b, Isabelle 
+requests an “exact cue,” but they end up with a cueing in which it is not decided at 
+exactly what moment she should begin the new scene. In Extract 3b, the participants 
+develop a precise cue for Peter’s entrance, and in the same transition (Extract 3c), 
+Peter misses this cue, but the transition becomes well-timed anyway because Isabelle is directing the focus (see Spolin, 1999: 21f). Thus, the “time work” (Flaherty, 
+2021: 216) behind the performance means the question “what’s next?” (Schegloff 
+& Sacks, 1973) is predetermined, while the question “when next?” is partly open. 
+Rehearsal interaction rest on and accumulates an interactional history (Depper -
+mann & Schmidt, 2021) that is developing with the purpose of coordinating multiple actions and multimodal resources into a performance that will happen later and, 
+ultimately, several times. The results indicate that it is practical for actors to, firstly, 
+be responsible for cueing (see having a stage manager, Mitchell, 2009: 106f and/or 
+a “cue signal”, Extract 2a), and secondly, to combine explicit mutual agreements on 
+cues with solutions that make room for temporal variance. An important aspect of 
+this variance is the fact that in all three transitions, the cueing is reflexively linked to 
+actors’ observation and interpretation of other actors’ behaviour (‘smoking’, ‘kissing’ and ‘leaving’), which prevents a mechanical determination of timing in scene 
+transition. This way, performers do not get locked into a fixed temporality, but they 
+can make judgements in the here and now, in the emergent performance. It also adds 
+a projective dimension to the theatrical product, that resembles real-life interaction 
+(see Auer, 2005; Stukenbrock, 2018: 41), and makes the performance a “procedural 
+event” (Fischer-Lichte, 2008), not only through a dialogue between stage and audience (Broth, 2011) but also through an emergent interaction between actors on stage. 
+Returning to the notion of cues as the performance’s concealment track (Sect. “Theoretical Background”), we can note that the performance is relatively stable on a 
+macro level (Schmidt, 2018: 36), i.e., people who buy tickets for different nights will 
+attend events that are roughly the same. But at the micro level, cueing is not fixed. 
+The concealment track is not akin to a railroad track. It is more like an orienteering 
+course with designated stations and room for some temporal variance in between.
+One possible path for future research in this regard could be to broaden the analysis so as to allow for one to look at how cueing regarding acting and other theatrical 
+elements such as sound, light, and scenography. Preferably this could be done with a 
+focus on scene transitions, because these often include transitions in, e.g., light and 
+sound as well. One question may then be how cueing works between “technical” 
+modalities that can shift at the touch of a button, and acting, where the instrument is 
+the human body.
+
+217
+1 3
+Cueing in Theatre: Timing and Temporal Variance in Rehearsals…
+Appendix
+Transcript conventions (Jefferson, 2004; Mondada, 2018).
+ + % ≠ Delimits descriptions of one speaker’s actions
+ + ---> Action described continues across subsequent lines, until --->+
+>>-- Action described begins before beginning of the excerpt
+-->> Action described continues after the excerpt
+# the point where a screenshot is taken
+* Talk enclosed by asterisks is said with creaky voice
+↑ Arrows indicate changes in pitch
+>word< Talk enclosed by this sign is said faster than surrounding talk
+∶ Colon indicate prolongation of the prior sound
+Word Underscoring indicates stress
+.h Indicates inbreath
+, A comma indicates a continuing intonation
+h- A dash indicates a cut-off
+x Inaudible
+Acknowledgements I would like to thank Riksteatern and the team behind the production The Effect for 
+letting me follow their work.
+Funding Open access funding provided by Stockholm University. None.
+Data Availability Transcripts can be linked to videos, if this is technically possible.
+Code Availability Not applicable.
+Declarations 
+Conflict of interest All authors declare that they have no conflict of interest.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, 
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as 
+you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article 
+are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is 
+not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission 
+directly from the copyright holder. To view a copy of this licence, visit http:// creat iveco mmons. org/ licen 
+ses/ by/4. 0/.
+References
+Allain, P., & Harvie, J. (2006). The Routledge companion to theatre and performance. Routledge.
+Auer, P. (2005). Projection in interaction and projection in grammar. Text, 25(1), 7–36.
+Bogart, A. (2003). A director prepares. Routledge.
+Brook, P. (1993). There are no secrets: Thoughts on acting and theatre. Methuen.
+
+218 S. Norrthon 
+1 3
+Broth, M. (2011). The theatre performance as interaction between actors and their audience. Nottingham 
+French Studies, 50(2), 113–133. https:// doi. org/ 10. 3366/ nfs. 2011-2. 006
+Broth, M., & Keevallik, L. (2014). Getting ready to move as a couple: Accomplishing mobile formations 
+in a dance class. Space and Culture, 17(2), 107–121. https:// doi. org/ 10. 1177/ 12063 31213 508483
+Deppermann, A. (2014). Multi-modal participation in simultaneous joint projects: Inter-personal and 
+intra-personal coordination in paramedic emergency drills. In P. Haddington, M. Nevile, T. Keisanen, & L. Mondada (Eds.), Beyond multitasking: Multiactivity in social interaction (pp. 247–282). 
+John Benjamins. https:// doi. org/ 10. 1075/z. 187. 09dep
+Deppermann, A., & Günthner, S. (Eds.). (2015). Temporality in interaction. Benjamins.
+Deppermann, A., Mondada, L., & Doehler, S. P. (2021). Early responses: An introduction. Discourse 
+Processes, 58(4), 293–307. https:// doi. org/ 10. 1080/ 01638 53X. 2021. 18775 16
+Deppermann, A., & Schmidt, A. (2021). How shared meanings and uses emerge over an interactional 
+history: Wabi sabi in a series of theater rehearsals. Research on Language and Social Interaction, 
+54(2), 203–224. https:// doi. org/ 10. 1080/ 08351 813. 2021. 18997 14
+Deppermann, A., Schmitt, R., & Mondada, L. (2010). Agenda and emergence: Contingent and planned 
+activities in a meeting. Journal of Pragmatics, 42(6), 1700–1718. https:// doi. org/ 10. 1016/j. pragma. 
+2009. 10. 006
+Deppermann, A., & Streeck, J. (Eds.). (2018). Time in embodied interaction: Synchronicity and sequentiality of multimodal resources. Benjamins.
+De Ruiter, J. P., Mitterer, H., & Enfield, Nick, J. (2006). Projecting the end of a speaker’s turn: A cognitive cornerstone of conversation. Language, 82(3), 515–535. https:// doi. org/ 10. 1353/ lan. 2006. 0130.
+Fischer-Lichte, E. (2008). The transformative power of performance: A new aesthetics. Routledge.
+Flaherty, M. G. (2011). The textures of time: Agency and temporal experience. Temple University Press.
+Flaherty, M. G. (2021). The social organization of time. In D. vom Lehn, N. Ruiz-Junco, & W. L. Gibson 
+(Eds.), The Routledge international handbook of interactionism (pp. 254–263). Routledge.
+Ford, C. E., & Thompson, S. A. (1996). Interactional units in conversation: Syntactic, intonational, and 
+pragmatic resources for the projection of turn completion. In E. Ochs, E. A. Schegloff, & S. A. 
+Thompson (Eds.), Interaction and grammar (pp. 135–184). Cambridge.
+Gelang, M. (2013). Kairos, the rhythm of timing. In J. H. Hoogstad & B. Stougaard Pedersen (Eds.), O ff 
+Beat: Pluralizing rhythm (pp. 89–101). Rodopi.
+Goffman, E. (1974). Frame analysis: An essay on the organization of experience. Harper & Row.
+Goodwin, C. (2018). Co-operative action. Cambridge University Press.
+Hazel, S. (2018). Discovering interactional authenticity: Tracking theatre practitioners across rehearsals. In A. Pekarek Doehler, J. Wagner, & E. González-Martínez (Eds.), Longitudinal studies on the 
+organization of social interaction (pp. 255–283). Palgrave Macmillan.
+Herman, V. (1991). Dramatic dialogue and the systematics of turn-taking. Semiotica, 83(1–2), 97–121.
+Jefferson, G. (1973). A case of precision timing in ordinary conversation: Overlapped tag-positioned 
+address terms in closing sequences. Semiotica, 9, 47–96.
+Jefferson, G. (2004). Glossary of transcript symbols with an introduction. In G. H. Lerner (Ed.), Conver -
+sation analysis: Studies from the first generation (pp. 13–31). John Benjamins.
+Keevallik, L. (2014). Turn organization and bodily-vocal demonstrations. Journal of Pragmatics, 65, 
+103–120. https:// doi. org/ 10. 1016/j. pragma. 2014. 01. 008
+Keevallik, L. (2015). Coordinating the temporalities of talk and dance. In A. Deppermann & S. Günthner 
+(Eds.), Temporality in interaction (pp. 309–336). Benjamins.
+Lefebvre, A. (2018). Reading and embodying the script during the theatrical rehearsal. Language and 
+Dialogue, 8(2), 261–288. https:// doi. org/ 10. 1075/ ld. 00015. lef
+Lyon, E. (1982). Stages of theatrical rehearsal. The Journal of Popular Culture, 16, 75–89.
+Mazeland, H. (2019). Position expansion in meeting talk: An interaction-re-organizing type of and-prefaced other-continuation. In E. Reber & C. Gerhardt (Eds.), Embodied activities in face-to-face and 
+mediated settings (pp. 397–433). Palgrave Macmillan. https:// doi. org/ 10. 1007/ 978-3- 319- 97325-8_ 
+12
+Mitchell, K. (2009). The director’s craft: A handbook for the theatre. Routledge.
+Mondada, L. (2019b). Conventions for multimodal transcription. Retrieved February 2, 2022, from 
+https:// www. loren zamon dada. net/ multi modal- trans cript ion
+Mondada, L. (2018). Multiple temporalities of language and body in interaction: Challenges for transcribing multimodality. Research on Language and Social Interaction, 51(1), 85–106. https:// doi. 
+org/ 10. 1080/ 08351 813. 2018. 14138 78

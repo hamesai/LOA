@@ -1,0 +1,375 @@
+Consolidating Media
+
+If you need to work on your movie on a second NLE (either because you’re coediting the project with someone else or because you’re going to a postproduction facility for the online edit), typically you’ll put a copy of your media files on an external drive and bring it to the other system.19 If you’re coediting, the other editor will normally want all the media. If you’re doing an online, you’ll only want to copy the media actually used in the final movie. Consolidating media is the process of gathering your media files together into one location (Premiere Pro calls it collecting files), often with the option to delete or exclude any unused material. Different NLEs do this in different ways, with somewhat different terminology.
+
+To distinguish what you need from what you don’t, remember that when you first imported media from camera files or videotapes, each master clip was at its full length, and all the media files were taking up space on the hard drive. However, now the movie has been edited; many clips didn’t make it into the movie, and of the ones that did, you may have only used a small section. In some cases when you consolidate, the NLE can create new, shorter clips of just the portion you used, and it will exclude anything that’s not part of the final sequence. Avid’s consolidate command can do this. Avid also has a select media relatives command that can help you identify all types of files being used by a sequence or clip, in case you want to move or delete unused files.
+
+Getting rid of unused media is sometimes called trimming. You can trim individual timeline sequences or, depending on your NLE, an entire project (which may contain more than one sequence). You might trim a project prior to archiving to delete unused footage and preserve only the media files you actually ended up working with.
+
+If you trim or shorten sequences as part of the consolidating process, you’ll generally want to leave a little wiggle room to adjust things later. This can be done by adding one- or two-second handles to the timeline clips, giving you some extra media at the head and tail of each clip (you won’t see the handles in the movie, but they’re available for future edits if needed). Not all NLEs can add handles, but if yours can, it’s usually an option when consolidating.
+
+Moving and deleting media files should always be done with utmost care. However, keep in mind that as long as you have a safe copy of the original, full-length media files or camera tapes, and an intact copy of the project file, you should be able to rebuild your original sequence even if you accidentally delete some media files. This assumes your files are well organized, of course. In the event of a disaster, timecode on the media is invaluable too, although not all of your sources will have the benefit of timecode. Sources without timecode include music clips, sound effects, and stills for animation, and these may or may not have to be painstakingly reinserted into the timeline, depending upon the situation and the capabilities of the NLE.
+
+Linking to Higher-Resolution Media
+
+You may have chosen to do the offline edit with a low-res copy of the footage (see Editing at a Lower Data Rate, p. 559). When it’s time for the online, you’ll want to link the sequence to the full-resolution original media.
+
+If the high-res media files have already been imported to the NLE, this process may be very simple. You unlink or separate the clips in the sequence from their low-res media files. This is sometimes called “making a clip offline” (this use of “offline” doesn’t refer to offline editing—it just means that the clip is no longer connected to its media file). You then instruct the NLE to relink to the high-res media files.
+
+If the footage came from videotape, the workflow often involves unlinking the clips, then trimming the sequence to create new, shorter master clips of just the footage actually used in the movie (as described in the previous section). Avid’s decompose command can do this. In Premiere Pro, you can use the Project Manager to “create new trimmed project.” You create a new project with shortened master clips, then batch capture the original tapes at full resolution. Batch capturing is just an automated process in which the NLE puts the clips in order by reel number and timecode, captures them all, and alerts you along the way when to put the next tape into the deck.
+
+Moving the Project to Another System
+
+You may want to move or copy the entire project (including all the bins, clips, and sequences) to another NLE for editing, or you may be ready for online editing and want to bring only the final sequence to the online NLE, perhaps at a postproduction facility. If the two NLEs are running the same software (or sometimes different applications by the same brand), then the transition from one machine to the other can be very simple. If your system and the one you’re moving to use different software, then things may be more complicated.
+
+WHEN BOTH NLEs ARE THE SAME. When you’re moving or sharing the project between two machines using the same NLE and OS (operating system), they’ll both be able to handle the same media files and the transition between one system and the other should be seamless.
+
+As an example of porting a project from one system to another, look at the Duplicate Project screen from Final Cut Pro X in Figure 14-34. The first option, duplicate project only, makes a copy of the project but doesn’t include any source media files (you might choose this if the media files were already on the second system). The second option, duplicate project and referenced events, would copy the project as well as all the media in the event library collected for use in the project. The third option, duplicate project and used clips only, copies only the media files actually used in the project timeline. You’re now ready to work on the second machine running Final Cut Pro X.20
+
+WHEN THE TWO SYSTEMS ARE DIFFERENT. Perhaps the most common reason you’d move a project between different systems is that you’re doing an online in a post facility that uses a different NLE. Or you might want to do graphics, compositing, or audio work using applications that aren’t NLEs. Re-creating an offline project on an online finishing system is called conforming.
+
+The key issues in moving between systems are, first, that in order to play back your movie, the NLE needs to be able to read the source media files (the actual pictures and sounds). Different NLEs are designed for different file formats and wrappers (see p. 242). Sometimes they can handle each other’s media; sometimes they can’t. You may have to rewrap media files to make them compatible, or you may have to import or capture them a second time from the original sources.
+
+Fig. 14-34. When you duplicate a project in Final Cut Pro X, or move it to another system, you have a choice to duplicate the timeline clips without any media (top button); duplicate the timeline clips and all the media files in the event library associated with that project (middle button); or copy the timeline clips and only the media files actually used in the timeline. With the last option, FCP X doesn’t trim (shorten) media files; it just excludes entire files not used in the project. (Apple, Inc.)
+
+The other issue is that the NLE creates a vast array of instructions about the edited sequence: the length and order of the clips, effects, transitions, levels, titles, colors—you name it. All these instructions are metadata (see p. 242). Unfortunately, one brand of NLE can’t necessarily read the metadata from another or reproduce the effects, titles, or color correction created on the other system.
+
+There are ways to standardize data so it can be passed from system to system. Formats such as AAF, OMF, and XML are designed to create a common language that applications can use to talk to each other. Programs such as Boris Transfer Suite can move metadata between different applications (for example, when transferring sequences between Adobe After Effects and Avid or Final Cut Pro). An app called 7toX can convert a project from Final Cut Pro 7 to FCP X.
+
+In planning your postproduction workflow, some of your decisions will be based on translation concerns between different systems. These are some of the possible situations you’ll encounter:
+
+You can move the sequence and related metadata from one system to another, along with the media files themselves. This “one-stop shopping” can be a real timesaver. An example is exporting an OMF or AAF of your audio tracks with embedded media.21
+
+You can move the sequence from one system to another but not the media. This means you’ll have to reimport the media on the second system. If you were planning to reimport or capture the media anyway for a high resolution online, this may be the best way to go. Sometimes you’ll actually prefer to send just the sequence (perhaps over the Internet) without the media embedded, because the media files are so big.22
+
+You can send only an EDL. The edit decision list (see Fig. 14-41) contains the basic information about clip In and Out Points, reel numbers, and a few effects. This is a far more limited information set than what’s contained in a sequence, but sometimes it’s all one system can take from another. Using the EDL, the finishing system can reimport the media and conform the sequence. For more on EDLs, see p. 632.
+
+You can send only the media. When there’s no communication between systems, all you can do is send the movie or footage itself. For example, you might output your movie from the offline system to a file and import that into the online system.
+
+EXPORTING A FILE
+
+When it’s time to export or “share” your movie from the NLE, today that usually means creating a file. Files can be made at different quality levels. You might need a full-quality, full-sized master file for broadcast use. Or you might be making a compressed, lower-quality file for mobile devices or the Web. Many NLEs and other applications have presets or automated workflows that allow you to export with just a few clicks, including uploading to YouTube or other sites. In other situations, you may need to carefully manage the details of the file you’re creating.
+
+WHAT’S IN A FILE. When we make a movie file, we’re really making three elements: a container file inside of which live a video file and an audio file (see Fig. 5-32).
+
+To create the video file, we typically compress (encode) the video with a particular codec (for more about codecs, see p. 19 and p. 250). As an example, video for the Web is often compressed with the H.264 codec. In some cases, files are created with uncompressed video (requiring no codec).
+
+Similarly, the movie’s audio may be exported as an uncompressed file (called linear PCM) or it may be compressed with an audio codec. AAC (Advanced Audio Codec) is commonly used for the audio in Web movies.
+
+Finally, the encoded video and audio files are wrapped together in a container (for more on wrappers, see p. 242). MPEG-4, QuickTime, and WebM are all container formats. The wrapper must be compatible with the intended playback system (more on this below).
+
+As a filmmaker, you’ll want to be sure the file you’re making will work for its intended use. If you’re using one of the NLE’s presets for exporting a file, that may work fine. However, you’ll want to check that the codec(s), wrapper, file size, or other details are compatible with the system or recipient you’re sending the file to.
+
+Making a Master File
+
+Outputting a master file could mean making a top-quality file for a broadcaster or distributor, or it could be simply the best copy of your work that you’ll use to make other types of files. What constitutes best quality? First of all, if you’ve been editing in a lower-resolution format than the original camera files or tapes, you should up-res to the full-resolution material before outputting the file (this is an offline/online workflow, described earlier in the chapter). If you’ve been editing natively in a highly compressed, long-GOP codec like H.264, it’s a good idea to output the master in a much less compressed codec such as ProRes 422, ProRes HQ, or DNxHD.23 You won’t gain quality by transcoding, but given that later stages of distribution will involve more cycles of compression and recompression, the image will hold up better in the long run (for more, see p. 558).
+
+You could also output without any compression, making a “full-bandwidth” uncompressed master. The advantage is no compression artifacts, though you will be hard-pressed to see any difference between an uncompressed file and one of the high-quality versions of ProRes or DNxHD. Uncompressed is a “universal format” in the sense that people don’t need to have any particular codec on their system to play it. The disadvantage of uncompressed is enormous file sizes and the related need for fast storage to work with the material.
+
+An alternative to exporting video files is to export an image sequence (also called a numbered image sequence), particularly when large frame sizes (2K, 4K, sometimes HD) are involved. This creates a separate file for each frame using a file format such as DPX, TIFF, or PICT and stores them together in a folder. Each file is numbered so the system knows the proper order. This is sometimes done when preparing a digital intermediate, for example. The vast amount of data created by an uncompressed image sequence is often stored on a tape backup system such as DLT. Audio is exported separately. Later, an NLE or other app can convert the image sequence files back to motion video.
+
+At times you need to export an individual shot rather than the whole movie at top quality. For example, a feature film might have editors, animators, and special effects people all working on the same shot. To pass the footage back and forth, a file of the shot may be created using little or no compression for maximum quality.
+
+PREPPING AN EDIT MASTER. Some master files begin at the first frame of the movie (with nothing preceding it) and end at the last frame. If you’re uploading to the Web, this may be all you want. If you’re preparing a project for broadcast, on the other hand, elements such as color bars and tone, a slate, and a countdown leader may be expected (see Managing the Output to Tape, p. 621, for a format used by many post houses). If you prepare the sequence with these elements, reset the starting timecode of the sequence in the timeline so the program itself (after the countdown) begins at 1:00:00:00 timecode.24 If you ever need to export just the movie itself without these elements at the head, you can simply select the movie itself with an In Point at the first frame of action before exporting.
+
+Compressed Files for the Web and Devices
+
+You’ll likely need to make compressed files for use on the Web, mobile phones, tablets, game boxes, or anywhere else that lower-data-rate, fast-streaming video is required. As a rule, some picture quality is sacrificed to make files smaller and easier to store and transmit.
+
+This topic is tricky to address in a book, since technical standards are evolving as you read this. One major development is HTML 5, which is replacing earlier standards for how Web browsers interact with video. Also, as more people get high-speed (“high-bandwidth”) Internet connections, Web videos keep expanding to higher data rates and larger frame sizes. For example, YouTube allows you to upload 4K footage, a vast increase from only a few years ago.
+
+For many filmmakers and consumers, posting video to the Web or creating a file to be shown on an iPhone or iPad couldn’t be easier. Simply use one of the preset selections in your NLE or compression software, then save the file to your desktop and upload to the Web. As long as your software is up to date, this can work fine.
+
+However, in some situations manually controlling the compression process will give you better quality, or allow you to create a file that’s optimized to a particular website or use. For full control you’ll want to use a dedicated compression program like Adobe Media Encoder or Apple Compressor or one of the free programs like HandBrake or MPEG Streamclip. Check the specifications of sites you are uploading to so you can deliver the optimal files for their system.
+
+Whenever you make a compressed file, be sure to test it on your own system to check that it looks and sounds the way you want it to before uploading or sending it off.
+
+The following are some general considerations and guidelines for making compressed files for the Web and various devices. Even as standards evolve, these categories will give you a basis to check out the latest practices.
+
+SOURCE FILE. Start with as high a quality of file as possible. If you’ve been editing with the camera files natively you might choose to encode directly from your timeline in the NLE. Or, if working from an exported file, avoid heavy compression prior to creating the Web encode.
+
+CONTAINERS AND CODECS. When uploading your movie to a video sharing site, you may have a lot of flexibility in what codec and container formats you can use (as an example, look at YouTube’s instruction pages for the wide range of formats it accepts). Other sites, like Vimeo, have a more limited set of preferred formats. Investigate the requirements of whatever sites you’re using so you can supply each one with optimal files to maintain best quality. They will generally recompress and/or rewrap your files, often to H.264.
+
+Video sharing sites create video that’s compatible with most browsers. If you’re creating files for your own site, you could choose to embed a video you posted to a sharing site (more on this below) or you could upload a file directly. Use a broadly supported format. As of this writing, perhaps the most flexible combination is to encode video with the H.264 codec, encode audio with AAC, and use an MPEG-4 container (when people talk about compressing to H.264 this is usually what they mean). This is playable on Apple devices, and H.264 is compatible with the video players used on many sites.
+
+As HTML 5 is implemented, in theory things may become more standardized, but as of now it’s not clear which browsers will support which formats. Many will support H.264 and most should handle the open-source WebM container format and Vorbis audio codec. A quick search on the Web will turn up recommended codecs and wrapper formats for different browsers in HTML 5.
+
+DATA RATE. When you encode video and audio, you’ll usually have a choice about the data rate of the encoded file (see p. 236 for more on data rates). Generally speaking, as the data rate goes up, so does the quality (to a point). However, high data rates can choke the playback system, frustrating viewers who have low-bandwidth connections.
+
+Different video sharing sites have different recommended data rates for submitting material, depending on the size of the video and other factors. For example, as of this writing Vimeo recommends limiting the data rate of SD material to 2,000 kilobits per second (Kbps) and HD material to 5,000 Kbps. When calculating data rates, keep in mind that the total bandwidth equals the video bit rate plus the audio bit rate (each is encoded with separate settings).
+
+Variable bit rate (VBR) encoding can produce better quality with a lower data rate. This requires two passes for the encoder: one to analyze the footage and one to encode.25
+
+When using MPEG codecs with interframe compression, you have a choice of how often to set a keyframe (this is the I-frame; the distance between one and the next determines the length of the GOP—see p. 247). Normally you can let the compressor set keyframes automatically. Or you can manually increase the distance between keyframes, which decreases the file size but could lead to playback problems.
+
+RESOLUTION (FRAME SIZE). The frame size depends a lot on the website or platform where the file will be viewed. Check for recommended sizes. The larger the image size, the larger the file and the more data that users must download. Large sizes like 1080p may cause systems to choke when displaying the video on a smaller screen.
+
+Use care when downconverting a higher-resolution source to a smaller frame size (for example, when compressing an HD source to SD or smaller frame sizes). Artifacts can result if done poorly. Use higher-quality resizing settings in the compressor. For more, see p. 599.
+
+PIXEL TYPE. The Web and most HD platforms use square pixels (pixel aspect ratio 1:1, or 1.00), which works well with most HD camera formats, since they also use square pixels. If you have an SD source or other material that has nonsquare pixels (like 1080 HDV and DVCPRO HD), it will need to be converted to square pixels while encoding (for more, see p. 232). Sometimes this is a factor in choosing the encoded frame size. For example, to display a nonwidescreen 720 x 480 SD image correctly at full size on a computer, it may be encoded as 640 x 480 to compensate for the conversion to square pixels.26
+
+ASPECT RATIO. HD is natively 16:9, which should display well on most platforms. If you have any material that’s been letterboxed, try to find the original source before the letterbox was applied to use for encoding. If unavailable, crop out the black bars on top and bottom before encoding. Similarly, if you have 4:3 material that’s been pillarboxed in a 16:9 frame, crop out the black bars on the sides.
+
+INTERLACE. If your material is interlaced, deinterlace it during encoding to create progressive files. Use better-quality deinterlace settings in your compression software to avoid artifacts and maximize resolution (see p. 213 and p. 600).
+
+FRAME RATE. Encode using the same frame rate as the original footage whenever possible. If you edited at 24 fps, use a 24p source for encoding. If the movie had 3:2 pulldown applied, use reverse telecine to restore to 24p for encoding.
+
+COLOR SPACE AND GAMMA CORRECTION. After compression, the picture may look too dark or the contrast may be off. This can result from the color space conversion from HD or SD video to RGB color space. Also, downconverting to a smaller frame size sometimes makes colors look more intense. Do a test. You may need to adjust gamma settings. Also, if blacks look noisy, black restore may create a clean, dark black and improve the overall encode. Unfortunately, different websites may display the same video with very different contrasts.
+
+AUDIO. As of this writing, audio on the Web is typically 44.1 kHz sample rate. See above for information on data rate and codecs.
+
+SELF-CONTAINED AND REFERENCE MOVIES. When you want to export a movie from the NLE to make a compressed file for the Web or a DVD, with some NLEs you can simply send the movie directly from the NLE’s timeline to the compression app and go on working with the NLE. With other systems, that process, or compressing using the NLE itself, ties up the NLE until the compression is done. It’s often better to export a file from the timeline in its native format, then import that file into the compression or DVD app.
+
+To export the file from the NLE, it’s often a good idea to use a QuickTime file (file name extension is .mov). There are two types of QuickTime movies you might use. A self-contained movie contains all the video and/or audio in one file and can be sent and played on its own. Self-contained movies are the simplest and safest, because they don’t rely on any other files to play. You must use this option whenever you’re sending a file from your system to someone else. However, if you’re simply passing a file from one app to another on your own system, it’s often better to make a reference movie. QuickTime reference movies don’t contain any media themselves; they simply point to media files stored elsewhere on the system (much like clips on the timeline point to media files). Making a reference movie can save time and requires less storage space on the hard drive.
+
+ADDING METADATA. In some cases when encoding or posting files you can add keywords that help search engines find your files on the Web, as well as information about copyright, licensing, and so on.
+
+Posting on the Web
+
+Once you’ve made a file for the Web, what’s the best way to get it out there? One popular method is to upload to a video sharing site like YouTube, Vimeo, or Myspace—there are dozens of them. People can discover them there, or you can include links on your own website or Facebook page to the posted video. If you want the video to appear in a player on your site or blog, you can copy the embed code from the sharing site and paste that into the code on your site (it’s not hard). The advantage of this method is that even though the video appears on your site, the video itself is hosted by the other site (the files reside there and are played from their server). That gives you less to worry about in terms of compatibility with different browsers, and you can handle high traffic if a lot of people watch your video. Some of these sites allow you to restrict who can see the video (including password protection), which other sites can embed it, what the player looks like, and so on. You may have to pay extra for these features.
+
+Another alternative is to post it directly on your own site in a simple video player. This is also not difficult and may give you more control over how things look. Posting directly on your site usually means your Internet service provider (ISP) is hosting the video on its servers, and may charge extra fees if your videos get a lot of traffic.
+
+OUTPUT TO TAPE
+
+Videotape is now used far less for shooting, but as of this writing it still plays a part in postproduction and distribution, including broadcast and film festivals. Tape remains a convenient and inexpensive way to store and transport movies.
+
+This section is about getting a movie out of the NLE and onto tape, which sometimes requires some editing. However, traditional editing between two videotape machines is discussed at the end of the chapter.
+
+Different filmmakers and projects have different needs when it comes to getting the movie onto tape (sometimes called doing a layover). For a school project, you might need to dump the movie from the NLE to tape so you can screen it for your classmates. However, when creating an edit master tape for broadcast or other high-end use, you’ll need to position the movie precisely by timecode and be sure there are no flaws in the output, which calls for a high level of care. Since a deck for outputting may only be needed for a day or so, filmmakers who don’t have one may rent a deck. In some cases it’s simpler, and maybe cheaper, to export a master file from the NLE and bring it to a post house and have its technicians record it to tape, especially when a high-end format like HDCAM SR is involved.
+
+How you actually do the output depends in part on your approach and in part on the tools you have to work with.
+
+Fig. 14-35. HDCAM deck. This high-end Sony VTR records high definition HDCAM SR. (Sony Electronics, Inc.)
+
+Assemble and Insert Recording
+
+All digital video decks and camcorders can do basic assemble-edit recording. In assemble mode, the VTR records everything at once: video, audio, timecode, and a control track if there is one. With assemble editing, anything on the tape beginning at the point where you start recording is erased. If you want to record a tape straight through without stopping, assemble mode works fine.
+
+The limitation of assemble-mode recording becomes apparent when you record a shot, stop, then record a second shot. Whenever you stop recording there is a break, which can make the picture go blank or break up. You can begin the next shot cleanly with a digital VTR as long as the editing system rolls back over the outgoing shot (called preroll) and gets properly up to speed before editing in the incoming shot. A greater limitation of assemble editing is that you can’t edit in just audio or just video. With every assemble edit, all the tracks get replaced (audio, video, and timecode).
+
+True editing decks have a recording mode called insert-edit recording.27 In “insert” mode, you have a choice between recording video, any combination of audio channels, and/or timecode. Insert recording does not automatically erase anything on the tape—you get to choose what is replaced and what remains from any previous recording. Prior to recording you must prepare the tape with continuous control track and timecode. This is variously called blacking a tape, striping a tape, or blacking and coding. With continuous control track, you can insert a shot in the middle of the tape and expect it to edit in and out cleanly. Not all NLEs, decks, and formats support insert recording (particularly in DV). In a typical professional editing setup, insert recording is done with RS-422 device control (see p. 550).
+
+NLE Editing Modes
+
+Depending on your NLE and your video deck, you may have various options for how the NLE and VTR interact.
+
+The simplest way to output to tape is to play back the sequence from the NLE timeline and crash record to a deck or camera that isn’t controlled by the NLE. You put a tape in the deck, manually press record, then play the sequence on the NLE. Of course, the deck and NLE need to be connected with the proper cables; for DV, for instance, all you need is a simple FireWire.
+
+A better way to output is to have the NLE control the deck and the recording process. Different NLEs use different terms for this, including print to video, export to tape, edit to tape, and digital cut. This requires a deck that supports timecode. The NLE will usually allow you to mark In and Out Points on the sequence and/or the tape.
+
+Managing the Output to Tape
+
+If you’re using insert editing to record the master tape, you need to prepare it by blacking it first. Many NLEs have a setting to do this. Some decks can black a tape by themselves, or they use a black signal from an external sync generator. If you’re using assemble editing, you don’t need to black the whole tape in advance, but you should black at least 30 seconds to provide a clean start point for the recording. With crash recording, no tape preparation is necessary.
+
+Depending on your system, you may be able to preset a starting timecode for the tape using settings on the deck or in the NLE.
+
+Professional edit masters have a standard order of color bars, a slate, and a countdown leader at the start of the program. You might build these elements into the sequence on the NLE timeline, or you might edit them separately onto the master tape. Some NLEs can include them automatically on output.
+
+The following are typical elements at the head of a master tape:
+
+Begin the tape at 00:58:30:00 timecode (“fifty-eight minutes, thirty seconds”) and record 30 seconds of black leader.
+
+Then come color bars and tone (see below) for one minute (from 00:58:30:00 to 00:59:30:00), followed by 10 seconds of black.
+
+Then put in a 10-second video slate (create a title card that identifies the project name, production company, running time of the movie, date, aspect ratio, audio channel assignments, etc.).
+
+At 00:59:50:00 place a clip of a ten-second countdown leader (your NLE should have leader or you can find one on the Web). The countdown displays numbers every second from 10 to 2, with a single-frame beep (tone) in the audio at each second—or at least on the number 2—so you know the picture and sound are in sync. Since video and audio may get separated and remarried during postproduction, it helps to have this visual check. Following the 2 (which is a single frame) is black and silence. If you don’t have a countdown leader, just put black in its place.
+
+The program begins exactly at 01:00:00:00 (“one hour,” also called “one hour, straight up”). If you are editing a project that will be finished on film, see Preparing and Delivering Tracks, p. 655, for guidelines on leaders.
+
+Your NLE should be able to generate color bars. Use HD bars or, for standard definition, SMPTE (NTSC) bars or EBU (PAL) bars, as appropriate. The audio reference tone as indicated on a digital/peak-reading meter is typically set to −20 dBFS for professional projects in the U.S., −18 dBFS in the UK. The equivalent as read on an analog/VU meter is 0 dB. Whatever the level of your reference tone, it’s a good idea to note it on the slate and/or elsewhere in the packaging. For more on reference tones, see p. 452.
+
+At the end of the movie, you should include 30 seconds of black so the program ends cleanly and has padding at the end. You may want to include a few frames of color bars several seconds after the film ends as a signal that it’s over and as a tail sync mark.
+
+Consult your NLE manual for instructions on output settings, including audio channel assignment, deck control, timecode settings, and others. It’s imperative that the sequence play out of the NLE cleanly with no dropped frames, which appear as a stutter or instantaneous black. There may be a setting to abort output on dropped frames, which is a good way to avoid dropped frames you might not see. To minimize dropped frames, do an audio mixdown, which essentially creates a single, easy-to-play render file of all the audio. Most NLEs will automatically render all video effects prior to output; if not, you can do so manually. Close all sequences but the one you’re playing. Consider breaking a long movie into shorter sequences or reels. Interframe codecs like HDV and H.264 may require a long rendering process (sometimes called conforming) before output. See p. 249 for possible workarounds.
+
+When outputting to tape, it’s very important that you watch the movie as you do so for technical problems. After recording a tape, be sure to set the record-inhibit device on the tape cassette to prevent accidental rerecording or erasure.
+
+CREATING A DVD OR BLU-RAY
+
+See DVDs and Blu-ray Discs, p. 34, before reading this section.
+
+We’re all familiar with DVDs, which play standard definition video.28 In 2006, Blu-ray Discs (BDs) were introduced, which can handle both HD and SD content and have much larger storage capacity. Blu-ray players can play both BDs and DVDs, but DVD players can only play DVDs.
+
+DVDs and BDs are useful at many different points in the filmmaking process. You might burn a DVD from your NLE to output a rough cut. You might burn a BD for festival screenings. You might make twenty copies of a trailer for fundraising purposes. Or you might have a replicator manufacture twenty thousand units of the finished movie for retail distribution. Each of these uses calls for a different approach to making the disc.
+
+The simplest DVDs can be created with a stand-alone disc recorder. You feed it video and it records in real time. Very straightforward, but limited in menus and controls.
+
+Burning a DVD or BD directly from your computer gives you much more control over the product. You need a DVD or BD burner in the computer or as an external unit. There are many easy-to-use programs (like iDVD for DVDs) that are highly automated and have simple drag-and-drop tools for making menus.
+
+Authoring a DVD or BD, as it is understood in the industry, means building menus, setting chapter markers, and dealing with various forms of extras, such as sound tracks in different languages, director commentary, deleted scenes, and all the other features that add value to the disc. Prosumer and professional apps provide much more control over authoring and offer better compression, which affects picture and sound quality. If you send your project to a professional DVD facility, a compressionist may go through the movie, determining the proper compression level for different shots and scenes.
+
+When you need a limited number of discs (up to about one thousand), generally the process is to compress the video, then burn that file onto a recordable disc type, such as DVD-R or BD-R. This is known as duplication. This is what you do when you burn your own discs; you can also have duplication done quickly by an outside supplier. With duplication, it’s not hard to make changes and burn a new version when needed. The disadvantages of duplication include higher per-unit costs for discs (though it’s still cheaper for small runs) and the fact that recordable discs may not play well in all disc players. When making BD-R/RE discs, for example, playback reliability can depend on the particular software, burner, or player being used.
+
+When you’re making a larger number of discs, rather than copying (“burning”) files directly to writable media, a glass master is made first, which is then pressed (stamped) onto commercial-grade discs. This is called replication. This process takes longer and the glass master is an additional charge, but the manufacturing savings per unit make up for it when dealing with mass quantities. Replication is how standard retail discs are made and ensures reliable playback across all players for DVDs and BDs.
+
+Discs can be packaged in a number of ways. The classic, folding Amaray case has a clear plastic sleeve. In it you can insert a cover, which you can print yourself, or you can have a supplier offset print one for large runs.
+
+With BDs, you need to pay a licensing fee to sell discs recorded with the format, in addition to replication fees. A replication house can help you navigate the fees and get the most flexible deal. See Chapter 17 for more on distributing DVDs and BDs.
+
+Encoding a Disc
+
+Whether you burn your own discs or send your movie out to have DVDs made by a supplier, it helps to understand some of the technical issues involved.
+
+The user’s experience of the disc comes in part from the packaging, menus, extras, and such, but perhaps the most important aspect is the picture and sound quality. In compressing the movie for a DVD or BD, some of the same issues discussed in Compressed Files for the Web and Devices, p. 616, apply here as well. Compression can be done with some NLEs, with separate compression applications, or with DVD creation software. Applications vary in quality and in their ability to control aspects of the encoding. With DVDs, there is only the MPEG-2 codec, but with BDs you have a choice of codecs (see p. 34).
+
+As a rule, you want to use the least amount of compression that will allow the movie to fit on the disc. Your software will normally have presets based on how long the movie is; shorter projects get encoded at higher quality. If you’re setting data rates yourself, look into proper settings for maximum and average data rates; these will affect picture quality and how smoothly the disc plays. Don’t push the limits of the format; use somewhat lower settings. If you’re having discs replicated instead of burning your own, you may have more flexibility; talk with the replicators.
+
+Encoding with multipass, variable bit rate (VBR) compression takes longer, but it can deliver better quality at lower bit rates. As for audio, Dolby Digital provides excellent quality with much smaller files than uncompressed PCM.
+
+Recordable discs include DVD-R, which can be recorded once, and DVD-RW, which can be erased and rerecorded many times (the equivalents with Blu-ray are BD-R and BD-RE). Since BDs are more expensive, you might experiment with a BD-RE to be sure everything’s okay, then burn BD-Rs. Inevitably, lots of plastic gets wasted in the process of making a working disc. Buying discs in bulk is cheaper per disc.
+
+If you’re making a number of identical discs, rather than encoding, formatting, and burning them one at a time, there are better approaches. With some DVD programs, instead of burning a disc directly, you can export a disc image, which is a file that appears on the desktop as a virtual hard drive (volume). If you make a disc image, you only have to format the project once. You can play the disc image with your computer’s DVD player application to make sure everything works. Then simply burn the image to as many DVDs or BDs as you need (on a Mac, this is done using Disk Utility).
+
+A replicator will print labeling info and graphics right onto the disc. If you’re making your own, you can get a professional look by buying printable discs (they usually have a white surface) that you can use with certain inkjet printers. Don’t use stick-on paper labels as they can unbalance the disc and interfere with playback.
+
+Not all recordable Blu-ray Discs will play on all players, and DVD-Rs can have playback issues even if they’re supposedly compatible with the player. Whenever you burn your own discs, test each one to be sure it plays properly without glitches and has no navigation problems (when the menus don’t get you where they should). Try your discs in a different machine than the one you recorded on.
+
+Another compatibility issue comes from the Hollywood studios that divided the world into different “regions” to limit piracy and control markets. DVD players in different parts of the world scan for region codes on the disc and, unless they are multiregion players, may not play another region’s DVDs. Region 1 DVDs are made for North America; Region 2 discs play on European machines; and Region 3 is for parts of Asia. Region 0 discs are—in theory—playable everywhere. Note that this coding has nothing to do with differences between actual video standards like NTSC and PAL (which create other incompatibilities when you want to send discs to foreign countries).
+
+Ripping a DVD
+
+Sometimes you may want to extract video from a DVD to use in a project. If this isn’t one of your own discs, or one that you have permission to use, this may be a violation of copyright. However, there are circumstances when using content from a commercial DVD is legal; for example, there are fair use exemptions that permit breaking the encryption on commercial DVDs (see Fair Use, p. 742, for more).
+
+Extracting the files from a DVD is called ripping, and various free programs such as HandBrake can rip a DVD and transcode the MPEG-2 TS (transport stream) video, which is not playable in a typical NLE, to other formats. Don’t expect the quality of these files to be as high as other video that hasn’t been so compressed. You may need to try a few programs (do a search online) to find one that can break the copy protection of an encrypted disc (called decrypting).
+
+CREATING A DIGITAL CINEMA PACKAGE
+
+A Digital Cinema Package (DCP) is a standardized set of files for showing movies digitally in commercial theaters equipped with a server (hard drive) for digital cinema projection. The DCP specifications, which include picture, sound, and file formats, are determined by Digital Cinema Initiatives (DCI), a group created by Hollywood studios to transition theaters to digital, which will eventually make distribution via 35mm film prints obsolete. These standards are intended for global use, and already over half of American theaters can screen a DCP. If you’re planning theatrical distribution in larger theaters—and if you hope to qualify for Academy Awards consideration in the U.S. using a digital source instead of a film print—you’ll need to create a DCP from your movie. For projects that have been shot on film, a DCP is typically made from a digital intermediate (D.I.; see Chapter 16). For projects shot digitally, the DCP can be made from your master file of the movie; often the color is adjusted with a LUT tailored to digital cinema projection.
+
+A DCP can be made from standard digital cinema formats including Full HD (1920 x 1080), 2K, and 4K (see Fig. 1-7). Some are flat (1.85:1 aspect ratio); others are Scope (anamorphic 2.39:1), in either 2D or 3D. Lesser-resolution formats like SD and 1280 x 720 must first be upscaled to be included in a DCP.
+
+A Digital Cinema Package can support common frame rates of 24, 25, 30, 48, 50, and 60. Note these are true integer frame rates only (23.976 is no longer directly supported). As of this writing, most films distributed as DCP are shot at 24 fps, but if you shoot 23.976 fps, no problem. Conversion to true 24p is readily available at most post houses.
+
+DCP compression is 12 bits per pixel using the JPEG 2000 codec (intraframe, wavelet based) along with an MXF wrapper. Color space is wide-gamut XYZ. The DCP audio format is uncompressed 24-bit PCM at either 48 kHz or 98 kHz. Sound is typically in a 5.1- or 7.1-channel configuration (see Mix Formats, p. 669).29 DCI standards also include subtitling as well as encryption to protect against piracy.
+
+Typically you’ll have a professional mastering facility create your DCP and help you meet the quality and technical requirements, but if you search the Web you can find commercial tools as well as some open-source, home-brew solutions to creating DCP files. A DCP is typically delivered on a hard drive. For more on DCPs and Academy Awards regulations, see the Bibliography.
+
+COLOR CORRECTION
+
+Some people think of color correction (also called color grading) as just another video effect, but its importance in the production process warrants special consideration. Adjusting the overall color and brightness values in your movie, and fine-tuning individual clips, can be critical to both how the movie plays for the audience and where it can be shown. Color correction fills many purposes:
+
+Establishing an overall look for the movie. Do you want bright saturated colors, or are more muted, pastel shades better suited to the story? How much contrast do you like? Is there an overall color cast you want for the film or certain sections of it?
+
+Maintaining consistency from shot to shot. Most scenes are made up of several shots. It’s important that these shots feel like they belong together and flow from one to the next (this is especially crucial for dramas). A wide shot of a character might cut to a close-up filmed on a different day, but both are supposed to represent one moment in time. It’s essential that the two shots match in color and feel.
+
+Correcting errors. A shot may be over- or underexposed, or be too blue or red because improper white balance was used in shooting.
+
+Ensuring that the movie is broadcast legal. Broadcasters have very particular requirements about luma (brightness) and chroma (color) levels. If you’re making a video for nonbroadcast use, these levels are useful guidelines.30 If you’re intending to get your movie on TV, video levels must be within specified limits. Similarly, if you’re planning a film-out or DCP for theaters, there will also be target levels.
+
+Color correction is both an art and a science, and a good colorist is essential to supporting and enhancing the work of the director of photography, the editor, the art director, and, of course, the director. Many filmmakers know the importance of a sound mix not just in polishing the film, but telling the story. Color correction can be equally critical.
+
+Color correction is a delicate thing. You’re trying to create a look that reveals the content and expresses the emotion of the movie, while working within technical limitations that can be quite restrictive at times. A shot that looks great to you often exceeds legal levels. Talented colorists find a way to capture the feel you’re looking for while keeping the signal “safe.” Aesthetically, there’s no one “right” color balance—it’s up to the filmmakers to decide what serves the story best. Technically, however, there definitely are “wrong” choices that will cause broadcasters or other gatekeepers to reject the project.
+
+How color correction is done depends on the project. For a small video project, you might just go through the sequence on your NLE, tuning things up before exporting to file or tape. For a larger project, rough corrections might be done during the offline edit, with final color correction done in the online edit, where high-end tools, monitors, and external scopes are available. Sometimes color work is done after the online, in a room dedicated to the task, using an image processor such as a DaVinci system (see Figs. 14-36 and 16-7).
+
+Fig. 14-36. DaVinci Resolve color correction system. (Blackmagic Design)
+
+Fig. 14-37. Color grading screen in DaVinci Resolve. Resolve is available as a free, Lite version; as a software app; and as part of a full system with control surface. (Blackmagic Design)
+
+You can also purchase tools, such as Red Giant’s Magic Bullet Suite, that offer a universe of different looks and feels with a few clicks.
+
+Whether you do color correction yourself or have an editor or colorist do it, it helps to understand what’s involved. For an overview of terms, see Chapter 8 and the discussion of exposure and contrast in Chapter 5.
+
+Color Correction Tools
+
+MONITORS. The most important tools for color grading are your eyes and a monitor you can trust. If you’re working on a project that will be shown on TV or via DVD, Blu-ray, or any video format, you must use a monitor properly set up to display component (Y’CBCR, also called YUV) color space (for more on this, see Video Monitors and Projectors, p. 216). A professional facility will usually have a high-end reference or broadcast monitor. At minimum, you need a decent monitor that has been calibrated correctly (see Appendix A). Having a blue-only setting for calibrating to color bars helps enormously. If the color in your monitor is off, decisions you make about color correction will be too.
+
+You should also have consistent illumination in the room (usually a dim but not dark room) without window light that changes during the day.
+
+SCOPES. Various devices for monitoring the video signal may be built into your NLE or attached separately. The waveform monitor (see Fig. 5-3) is used to measure luma (luminance) levels, which correspond to brightness. A vectorscope gives a visual display of color (see Fig. 8-3). You can use it to read the hue (sometimes called phase), which is a measure of the particular color—for example, to determine whether it is more blue or red. Both vectorscope and waveform monitors can be used to display the chroma level (also called saturation), which is a measure of the intensity of a color. An RGB parade monitor can show you relative levels of red, green, and blue, which can be useful when you want to ensure there’s no overall color cast.
+
+Many NLEs have a feature that will indicate clips in the timeline that exceed legal video limits for brightness and color so you know what needs fixing.
+
+CONTROLS. NLEs and image processing systems vary widely in their color correction toolset. You may have a choice between using a very simplified (or automated) set of controls and using a more powerful control panel. Color correction in an NLE is almost always nondestructive (you can change anything later).
+
+Sometimes there’s a set of three controls for blacks, midtones, and whites (highlights). Each might have a color control to adjust hue and saturation and a slider to increase or decrease the brightness of that tonal area (see Fig. 14-38).
+
+If there’s a color wheel, move the color balance toward the color you want or move it directly away from one you don’t want. For example, to fix a shot with a green color cast, move the control toward magenta. Experiment with changing saturation and hue separately. Sometimes a color looks off, but the problem isn’t the color itself (the hue), only that there’s too much of it (excess saturation).
+
+Some NLEs include gamma controls, which primarily affect the contrast of the midtones. Some NLEs let you manipulate gamma curves in individual color channels. These take some experience to work with.
+
+Fig. 14-38. This color correction tool in Avid Media Composer allows you to adjust color and level of the shadow areas, the midtones, and the highlights individually. Other controls affect the image globally. (Avid Technology, Inc./Steven Ascher)
+
+Often you’ll have several shots that need the same color correction. You should be able to save the setting from one shot and apply it to others. This may involve dragging a color correction of the first clip to a bin, where you can save it to use later. It’s also helpful to compare previously corrected shots with the one you’re working on; some systems allow you to display frames from a few different shots at a time. Some newer NLEs can automatically match color balance from one clip and apply it to another; this works better with some shots than others.
+
+Staying Legal
+
+If you’re working on a project that will be seen exclusively on the Web, mobile devices, and nonbroadcast outlets, then you have the freedom to adjust color and brightness pretty much as you like. If you’ll be showing your work in any component video form—DVD, Blu-ray, tape, video projection, or broadcast TV (including cable)—keep in mind that any elements such as graphics or titles created with a graphics program in RGB color space may appear too bright or with oversaturated colors in video and may need to be adjusted accordingly (see Fig. 5-12).
+
+If you’re preparing a movie for broadcast, contact the broadcaster for its technical requirements. In the United States, PBS guidelines are often considered a standard (see the PBS Red Book at www.pbs.org). Technical requirements include a wide range of items including video levels, aspect ratio, audio levels, and channel assignments—be sure to discuss them in advance.
+
+As a rule, for digital HD the luma level should stay below 100 percent on the waveform monitor. Black level on a digital system can be no lower than 0 percent. On some NLEs, the waveform monitor is marked in digital bits instead of percentages. For an 8-bit picture, the video level should be between code 16 (0 percent) and 235 (100 percent). Chroma level on the waveform monitor should stay below 110 percent.
+
+Many NLEs have a filter or effect that ensures that luma and chroma levels stay within legal limits. Avid has a safe color limiter (as well as other methods to keep colors safe). Premiere Pro’s broadcast colors effect is similar.31 These types of effects are an easy and simple way to guarantee levels are legal. One potential drawback is that the filter may clip highlights (resulting in lost detail) in some situations where it would be better to lower the video level manually. Some people adjust levels manually but throw the broadcast filter on the entire sequence at the very end just to be sure everything’s safe (which may be done by nesting the entire sequence or creating a compound clip and applying the filter to the whole thing).
+
+Color Correction Techniques
+
+As long as luma and chroma levels are within any applicable legal limits, it’s up to you to set the color and contrast. See p. 191 for a discussion of video levels and contrast.
+
+Generally speaking, you want to be able to see detail in important parts of the scene, without clipping the highlights or crushing the blacks. Sometimes you have to sacrifice the shadow areas to bring highlights within safe limits. Conversely, you may decide to bring out shadow detail and let some highlights be clipped.
+
+A pleasing image usually contains a full tonal range from dark to light. If an image has muddy blacks or flat whites, start by setting your black levels with the “black” or “shadow” part of the color control. Make sure they are really dark, but not so much that a lot of detail is lost. Then adjust the white levels so they max out around 100 percent. Many NLEs have an auto-contrast button that will do essentially that (or separate controls for auto-black and auto-white). You might start with the automatic adjustment, then tweak from there. Then adjust the midtones to look pleasing, using the midtones slider or, in some cases, with a gamma adjustment. With some NLEs, you can display the full gamma curve and tweak it manually.
+
+As for color, usually the most important thing is to get the flesh tones right. Warmer flesh tones are often the most flattering, but if Caucasian skin gets too red, cheeks can look flushed or ruddy. Cool tones might be used for a darker or more sinister look. Some vectorscopes have a flesh tone line (I-bar), which helps in setting Caucasian skin tones.
+
+To establish the overall look, you may choose to increase saturation for more vivid color, or desaturate for more pastel shades (extreme desaturation takes you all the way to monochrome, otherwise known as black-and-white).32 Actually, black-and-white is often deliberately given a slight color cast for a warmer (think sepia) or cooler look.
+
+Some systems have an eyedropper tool that lets you click on a color that should be white and reset it. This can be handy for correcting a shot that has an overall color cast or poor white balance. An eyedropper can be used to match any tone from one shot to another.
+
+In some scenes, you’ll make an overall correction to get flesh tones right but find that something else (say, clothing or the landscape) no longer looks good. Many systems can do secondary color correction, which targets a particular area or color without affecting the scene as a whole (you can repaint the walls without affecting the couch).
+
+Many NLEs have a sharpening filter, which isn’t technically a color correction, but used sparingly can save a slightly out-of-focus shot.
+
+Though individual scenes or sections may call for different looks, generally speaking you want to create a consistent look throughout the movie. If you later find that the project looks different on another monitor (perhaps because yours was off), you can make a global adjustment to tweak the whole movie at once.
+
+Fig. 14-39. Vignette effect. By selectively shading the edges of the frame you can add dimensionality to a scene that has flat lighting. The look is exaggerated here so you can see it, but a subtle vignette can be effective even if not consciously noticed by audiences. During color grading, scenes can be essentially relit in post. (Steven Ascher)
+
+COLOR SPACE. Different types of color space are discussed above and in Chapter 5. Some systems can automatically compensate when converting from, say, 709 HD video to RGB. High-end systems may offer custom lookup tables (LUTs) that map how the color or brightness of the pixels in one format or version will be rendered in another, allowing precise control over tonal values. Starting with the same master, you might use one LUT when doing a film-out, another when creating a Digital Cinema Package, a third for HD television, and so on.
+
+TAPE EDITING
+
+Traditional videotape editing—from one tape deck to another—is pretty rare at this point. However, aspects of tape editing continue to play a role in postproduction. See Editing on Tape, p. 38, before reading this section.
+
+Tape Editing Systems
+
+Tape editing systems are based on the idea of using two or more VTRs and a controller that operates them. The source or playback VTR plays the raw video footage while selected portions are rerecorded on the record or edit VTR. Usually there are two monitors to view the material: the source monitor, which shows what’s playing on the source VTR, and the record/edit monitor (also called program monitor), which shows the edited program.
+
+Fig. 14-40. A basic video edit. When editing from the source tape to the edit master, each edit can be described by four points: Source In and Source Out specify which part of the source tape to use, and Record In and Record Out indicate where the shot is to be placed on the edit master. (Robert Brun)
+
+Making an Edit
+
+Tape editing systems, like NLEs, work by three-point editing (see p. 579). Using the edit controller, you select the In Point (sometimes called Mark In, Video In, or just In) of the shot you want to use on the source tape. You then go to the end of the shot and mark the Out Point (also called Mark Out, etc.). See Figure 14-40. You have just marked In and Out on the source side (Source In and Source Out), and since you will be rerecording this shot onto the edit master tape, you need to tell the record deck where to put it. You now roll the record deck to the point where you want the shot to begin and mark this In Point (Record In).
+
+Normally you’ll be recording using insert edit mode (see p. 620). You can now select “preview,” and the controller will rehearse the edit for you, allowing you to see how it looks. If you’re happy with the preview, you then select “edit” and the controller will perform (execute) the edit. It’s always a good idea to review an edit after you make it to ensure that everything worked mechanically and in terms of the picture or audio transition you were hoping for.
+
+THE EDL AND ONLINE EDITING
+
+Today, even if VTRs are used as sources to play tapes in the online, the edit master will usually be assembled on an NLE. When you do both the offline and the online edit with an NLE, it maintains a lot of information from the offline about effects, titles, color correction, and so on that can be carried forward digitally to the online (see Managing Media, p. 609).
+
+However, if you do offline editing with two tape machines, the information transfer to the online is much more limited. When you’re done with a tape offline, you can have the system generate an edit decision list (EDL). The EDL is like a road map you use in the online to reconstruct what you did in the offline. It indicates the In and Out Points by timecode of every bit of video and audio that came from the camera source tapes and shows exactly where each piece is to be recorded on the online edit master.
+
+If the EDL is done properly, you can go into the online session with the source tapes and, by following your list of numbers, rebuild the edited movie from scratch. The machines should be able to use the EDL to auto-assemble (also called auto-conform) the show. EDLs are sometimes used when conforming high-resolution files or tapes when making a D.I.
+
+Keep in mind that an EDL works only with sources that have timecode. If there’s anything in the movie that comes directly from a nontimecoded source (such as music from a CD, scratch narration, or computer-generated graphics), you’ll have to reedit these manually in the online session. Whenever possible, rerecord every element that lacks timecode onto a timecoded format before you edit it into the offline program.
+
+An EDL is basically a list of numbers arranged in a particular column format. Standard EDL formats include CMX 3600, which is common, and GVG and Sony. All EDLs include the following data about each edit (see Fig. 14-41):
+
+Edit number. A sequential number to help locate edits. Sometimes called event number.
+
+Source reel. Tells you on which tape to find the source material. This is generally the camera tape number (reel number) if the movie was shot in video. If shot on film, the source reel is the telecine transfer reel (which may have more than one film camera roll on it). Use numbers, not names, for reels (see p. 571).
+
+Edit mode. Indicates if the source for the edit is Video, Audio, or Both. A1, A2, etc., indicate which audio channel to use.
+
+Edit type or transition. May be a Cut, Dissolve, Wipe, or Key.
+
+Duration. The length of the transition, in frames. Cuts, being instantaneous, have no duration.
+
+Playback In and Out. Also called Source In and Out. These tell you the beginning and end points of the source material to use.
+
+Record In and Out. These give you the timecode address on the master tape or sequence where the source material is to be recorded.
+
+Fig. 14-41. Information typically contained in an edit decision list (EDL). The column headings and lines have been added here for clarity. The events in the EDL may be listed in the order they appear in the program (A-mode) or be grouped by source tape (B-mode).
+
+There are different ways to structure an EDL, which can affect how the online is done. The events in the EDL can be listed in the order they appear in the program (A-mode) or grouped by source tape (B-mode).33 In an A-mode assembly, you start at the beginning of the show and work your way down. This is the least efficient because the same source tape must be inserted in the VTR multiple times, with time wasted for threading and unthreading. Doing a B-mode assembly means recording all the shots from a given source reel at a time, then moving on to the next source reel and capturing all the shots from it. C-mode is a variant of B-mode that pulls shots from individual source reels but takes them in ascending order on each source reel instead of the order in which they appear in the movie.

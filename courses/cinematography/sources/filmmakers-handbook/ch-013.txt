@@ -1,0 +1,325 @@
+CHAPTER 8
+
+Color and Filters
+
+The first part of this chapter is about the basic principles of color for both digital and film systems. The second part is about color- and image-control filters.
+
+COLOR
+
+Primary Colors and Complementaries
+
+If a red light, a blue light, and a green light all shine on the same spot, the spot will appear white. You can think of white light as made up of these three colors, called the additive primaries, and expressed as:
+
+red + blue + green = white1
+
+Red and blue light together yield a purple-red color called magenta. Blue and green light produce a green-blue color called cyan, and red and green light together produce yellow.
+
+red + blue = magenta
+
+blue + green = cyan
+
+red + green = yellow
+
+Cyan, magenta, and yellow are the subtractive primaries; that is, they are made by subtracting one of the additive primaries from white light. For example, if the red component is taken away from white light, cyan (blue + green) is left:
+
+cyan = blue + green = white − red
+
+Similarly,
+
+magenta = blue + red = white − green
+
+yellow = red + green = white − blue
+
+Fig. 8-1. Additive color. Spotlights of the additive primaries—red, green, and blue—form white light where all three overlap. Where any two overlap, the subtractive primaries are formed. (Carol Keller)
+
+Fig. 8-2. Subtractive color. If you view white light through yellow, cyan, and magenta filters, you get the additive primaries where any two overlap and black where all three overlap. (Carol Keller)
+
+Each additive primary has a complementary color, a color that when added to it produces white. From the above three equations, you can see that cyan is the complement of red, magenta the complement of green, and yellow the complement of blue. A filter works by passing the components of its own color and absorbing its complement. A yellow filter thus passes its components (red and green) and absorbs its complement (blue).
+
+The eye is more sensitive to the green portion of the light spectrum than to the red or blue parts. To create light that appears white, the three colors are not mixed in equal proportion. In video, a signal that is a mixture of 72 percent green, 21 percent red, and 7 percent blue will appear white on screen.2 Because more visual information is conveyed in the green component, the green sensor in a three-chip video camera, or the green light in a film printing report, is of special importance.
+
+Color in Video and Film Systems
+
+We use various terms to describe colors. The hue is the base color (such as red, green, etc.). Saturation describes how pure the color is. Saturation can be thought of as the absence of white; the more saturated a color is, the less white it has in it. Very saturated colors are intense and vivid. Desaturated colors are pale; very desaturated colors are almost monochrome (black-and-white). Experiment with a video monitor or TV to get a sense of changing color values. A TV’s “hue” or “tint” control changes the base color, and the “color” control varies the saturation (see Appendix A).
+
+Many factors influence our perception of color. For example, the same color will seem more saturated when surrounded by a black border than a white border.
+
+Standardizing Color Reproduction
+
+There are many opportunities for color values to change (intentionally or not) between the time you shoot a scene and the time that scene appears in a finished video or film print. Whenever digital material is transferred from one format to another, or film is printed, the color may change either because someone adjusted it or because of the inherent nature of the system.3
+
+There are various ways to measure color and to try to keep it consistent.
+
+In video, standardized color bars can be recorded at the head of a tape or file and used to adjust color reproduction on monitors when the program is played back (see Appendix A). With digital formats, the color should remain unchanged when cloning tapes, copying files, or capturing to an editing system, regardless of bars.
+
+To measure color values, a vectorscope is used (see Fig. 8-3). A color’s hue is indicated by the position of the signal around the circular face of the vectorscope. The saturation (chrominance level) is indicated by the distance from the center (closer to the edge means higher chroma). There are various other types of scopes used in editing and finishing systems (see Chapter 14).
+
+Color scales (chip charts) are sometimes filmed along with the slate to aid in timing (color balancing) film or video dailies. Perhaps more useful is to shoot an 18 percent gray card (see p. 292). A patch of bright white and dark black next to the gray can help too. By adjusting the picture in post so that the gray card is reproduced at proper exposure without any color cast, all the other colors fall into place in terms of hue (see Fig. 8-4).
+
+Sometimes you shoot with nonstandard lighting to create a certain effect. For example, you might use colored gels for a firelight effect or a nightclub scene. If you shoot the gray card under standard (uncolored) tungsten light, and then turn on the gelled lights, you have a better chance of getting the color you’re looking for in the workprint or video dailies. Increasingly, DPs use digital stills and digital color control systems to indicate to the postproduction team how color and effects are intended to look.
+
+Fig. 8-3. The vectorscope shows color information. This scope, part of Adobe Premiere Pro, is displaying standard definition (Rec. 601) video. (Adobe Systems, Inc.)
+
+Often a LUT (lookup table) is applied to a digital image to create a particular palette of colors and contrast. When starting a production, you might choose a particular LUT or camera picture profile to achieve the look you want.
+
+Fig. 8-4. Shooting a gray card helps in adjusting the color balance and exposure in post. A patch of white is also helpful. (AbelCine)
+
+COLOR TEMPERATURE
+
+The human eye adjusts to most lighting situations so that the color of the light source appears to be white. However, a light source will appear colored if it’s strongly deficient in one or more of the primaries. Daylight looks bluer than tungsten light when the two are seen together. For example, if you stand outside on an overcast day and look through a store window into a space lit by tungsten or halogen bulbs, the interior light will seem relatively yellow compared to the bluer daylight. However, if you go in the store, your eye will adjust so that the interior light appears white.
+
+Although the eye accepts a broad range of light sources as white, different light sources are, in fact, composed of unequal amounts of the primaries. The reddish cast of sunset and the blue of an overcast winter day occur when one of the components of white light clearly predominates. Unlike the human eye, digital camera sensors and color film stocks are designed for light of a particular color balance. If the light source differs in its color balance (the proportions of the primaries), the digital camera or film stock will not provide natural rendition of color—unless compensations are made electronically or by using filters. In order to judge how much compensation is needed, we need a way of measuring the color components of the light source.
+
+If a piece of metal is heated, it first becomes red in color (“red hot”). Heated to a higher temperature, the metal starts to become blue and then white (“white hot”). You can correlate the temperature of an ideal substance, called a black body, with the color of the light it radiates when it is heated to different temperatures. This color temperature is usually measured using the Kelvin temperature scale.
+
+Standard tungsten studio lamps have a color temperature of 3200°K (read “degrees kelvin”; actually, in contemporary scientific usage it would just be “3200 kelvin” or “3200 K” and written without the degree sign, but since many equipment manufacturers use the old convention, it’s used here for clarity).
+
+A lower color temperature light source has a larger red component, while a higher color temperature source has a larger blue component. Light sources and images are thought of as being warm or warmer as they move toward red (think of red in fire), and cold or colder as they move toward blue (think of the icy blue light of an overcast winter day). Some people get confused by the fact that colder blue light reads higher (hotter) on the Kelvin temperature scale.
+
+In terms of the light you’re likely to encounter when filming, there are a few benchmarks worth memorizing. As just noted, studio tungsten lights are 3200°K. Studio HMI lights and “nominal” daylight are around 5600°K (though daylight, which is made up of both warmer direct sunlight and bluer light from the sky, can vary a lot by conditions). It used to be the case that typical home interiors were lit with tungsten incandescent bulbs that are warmer than studio lights, often around 2800°K. Now many homes are lit with compact fluorescent lamps (CFLs), which are available in various color temperatures ranging from a warm white that is close to tungsten up to daylight (though manufacturers may be inconsistent in their labeling). Actually, typical fluorescents have a discontinuous spectrum and don’t have a true color temperature; the temperature indicated is a rough equivalent. However, there are fluorescents made expressly for video and film use, such as Kino Flo lamps, available in true 3200°K and 5500°K versions.
+
+Some scenes contain a great range of color temperatures. For example, when shooting indoors with illumination coming from both tungsten lights and windows (see Mixed Lighting, p. 514).
+
+Differences in color temperature are more significant at the lower color temperatures. The difference between 3000°K and 3200°K is noticeable, while the difference between 5400°K and 5600°K is not very significant.
+
+APPROXIMATE COLOR TEMPERATURES OF COMMON LIGHT SOURCES
+
+Light Source
+Degrees Kelvin
+
+ 
+ 
+
+Match flame
+
+1700
+
+Candle flame
+
+1850–2000
+
+Sunrise or sunset
+
+2000
+
+100- to 200-watt household bulbs
+
+2900
+
+Studio tungsten lights
+
+3200
+
+Photofloods and reflector floods
+
+3200–3400
+
+Fluorescent warm white tubes
+
+3500
+
+Sunlight one hour after sunrise or one hour before sunset
+
+3500
+
+Early-morning or late-afternoon sunlight
+
+4300
+
+Fluorescent daylight tubes
+
+4300
+
+Summer sunlight, noon, Washington, DC
+
+5400
+
+Xenon arc projector
+
+5400
+
+Nominal photographic “daylight”
+
+5500
+
+Average daylight (sunlight and blue sky)
+
+5500–6500
+
+HMI lamps
+
+5600
+
+Overcast sky
+
+6000–7500
+
+Summer shade
+
+8000
+
+Summer sunlight with no sun
+
+9500–30,000
+
+Digital Cameras and Color Temperature
+
+With video cameras, adjusting the camera for light of different color temperatures is called white-balancing. This is discussed in Setting the White Balance, p. 109.
+
+Film Cameras and Color Temperature
+
+When a color film emulsion is manufactured, it is balanced for a light of a particular color temperature. The color temperature of the light source should approximately match the film in order to reproduce natural color; otherwise, a color conversion filter can be used.
+
+TUNGSTEN BALANCE. Film stocks balanced for 3200°K are called tungsten-balanced, or Type B tungsten. When tungsten-balanced films are shot with daylight illumination, the excess blue in daylight can overexpose the blue layer in the emulsion, giving a bleached-out, bluish look to the film. So you will want to warm up the daylight to match tungsten illumination using an 85 filter (this is the Kodak Wratten filter number). An 85 filter (sometimes called a straight 85) is used for typical 3200°K color negative; it has a characteristic salmon color and reduces light coming through the lens by two-thirds of a stop (filter factor of 1.6; see below).
+
+Some color negative stocks have sufficient latitude to allow filming in daylight without an 85 filter (which can be helpful in low light or when there isn’t time to put on a filter). Though the color can be corrected in telecine or printing, shooting without the 85 decreases the film’s latitude. Color reversal always needs the conversion filter, since the lab cannot adequately compensate.
+
+DAYLIGHT BALANCE. Film stocks balanced for color temperatures around 5500°K are considered daylight-balanced. In fact, actual daytime color temperature varies from 2000°K to well over 10,000°K depending on the relative amounts of sun and sky light and any cloud cover. During a red sunrise or sunset, the color temperature is far below tungsten.
+
+Daylight-balanced film shot under tungsten illumination will appear red-brown, so add blue. The 80A conversion filter is blue and converts most daylight films for use under 3200°K illumination. The 80A has a filter factor of 4 (a loss of two stops).
+
+Color conversion filters are used so frequently that cinematographers tend to think of film speeds in terms of the ISO that compensates for the filter factor. Manufacturers will list a color negative balanced for tungsten as ISO 100 for tungsten light and ISO 64 for daylight with an 85 filter (100 divided by filter factor 1.6 is approximately 64). See p. 280 for further discussion of tungsten- versus daylight-balanced films.
+
+BLACK-AND-WHITE FILM. Black-and-white film doesn’t require color conversion filters, but there is a set of filters that can be used to darken a sky or to change the relative exposure of different-colored objects.
+
+Red and green objects that are equally bright may photograph in black-and-white as the same gray tone. Photographing the red and green objects with a red filter makes the green object darker than the red (since the red filter absorbs much of the green light).
+
+The sky can be darkened using graduated neutral density filters and polarizers (see below). Black-and-white film allows the use of colored filters to darken a blue sky but not a white, overcast sky. Red and yellow filters will darken a blue sky. Unlike the effect with a polarizer, the darkening doesn’t change as you move the camera, so the camera may be panned without worry.
+
+Commonly used black-and-white filters include: Wratten #8 (K2; yellow or light orange) for haze penetration, moderate darkening of blue sky, and lightening of faces; and Wratten #15 (G; deep yellow) for heavy haze penetration, greater sky darkening, and, especially, aerial work and telephoto landscapes. The red filters (for example, #23A, #25, #29) have increasing haze penetration and increasing power to darken skies.
+
+Measuring Color Temperature
+
+The color temperature of a source of illumination can be read with a color temperature meter. A two-color meter measures the relative blue and red components of the light, while a three-color meter also measures the green component. A two-color meter is adequate for measuring light sources of continuous spectral emission, including tungsten, firelight, and daylight. For light sources such as fluorescents and mercury arc lamps, you should also measure the green component with a three-color meter.
+
+Fig. 8-5. Color temperature meter. Sekonic C-500 is a three-color meter that can be used with digital cameras and film. Can display color temperature in degrees kelvin or as a color-compensating (CC) index for selecting appropriate filters. (Sekonic)
+
+Color temperature meters are more often used when shooting film than video, since in video you can see the color on the monitor. Most lighting situations don’t require a color temperature meter, as it is enough to know the approximate color temperature of a light source. Large differences can be corrected by a filter and smaller differences can be corrected in postproduction. Color meters prove most handy when balancing the color temperature of different light sources. For example, the meter can measure if adequate compensation has been made by putting gels on windows to match the color temperature of tungsten light fixtures (see Chapter 12).
+
+FILTERS
+
+Lens filters are used in shooting for a variety of reasons. Some are used to make a scene look “normal” on video or film (that is, close to the way the scene appears to the naked eye). Others are used to create special effects. In some cases, filtration must be done in the camera to achieve the look you want. However, many filter effects that were traditionally done on the shoot are now done digitally in postproduction. Leaving some of the adjustments to post can help you shoot faster without worrying about getting everything just right on the shoot.
+
+Filter Factors
+
+All filters absorb some light, and compensation must be made for the loss of light to avoid underexposing the film or digital image. The filter factor is the number of times exposure must be increased to compensate for the light loss. Each time the filter factor doubles, increase the exposure by one stop. Manufacturers supply filter factors for each of their filters.
+
+If you know that a filter decreases exposure by one stop (a filter factor of 2), compensate by opening the lens one stop. When two or more filters are used simultaneously, the filter factor of the combination is the product of their individual factors. If one filter has a factor of 4 and the other a factor of 2, the combination will have a filter factor of 8 (4 × 2). To compensate, open the iris three stops.
+
+When shooting digital, any light loss from a filter will become apparent as you look through the viewfinder. Be sure to set the exposure with the filter in place on the lens.
+
+When shooting film, you can divide the filter factor into the ISO number to calculate exposure directly from the exposure meter. If you were using a filter with a filter factor of 4 with a film rated ISO 100, the meter could be set at ISO 25 (100 divided by 4) and the exposure calculated directly. In this case, don’t open the iris beyond what the meter indicates. Film stock data sheets list filter requirements and factors for various light sources.
+
+Neutral Density Filters
+
+Neutral density (ND) filters are gray in color and are used to reduce the amount of light passing through the lens without affecting the color. They allow you to open the lens to a wider aperture to reduce depth of field, to shoot at an aperture that yields a sharper image, or to shoot at all if the light level exceeds the ability of the video camera or film stock to handle it.
+
+With video cameras, ND filters are often marked as a fraction, such as 1⁄4, 1⁄16, or 1⁄64 (two, four, and six stops respectively). You can also get variable ND filters (also called fader filters) that are adjustable for different amounts of darkening, using two pieces of polarized glass mounted together. Some NDs have inferior optics, so test yours carefully for softening of the image, or darkening around the edges of the frame, especially with thick filters and wide-angle lenses. For more on NDs with digital cameras, see p. 134.
+
+Fig. 8-6. Variable neutral density filters. Also called faders, variable NDs allow you to dial in different amounts with one filter. The Heliopan model shown ranges from 0.3 ND (one stop) to 2.0 ND (six and two-thirds stops). (HP Marketing Corp.)
+
+In the film world, ND filters are generally marked in increments of 0.1 ND, which is equivalent to one-third of a stop; 0.3 ND cuts down the light by one stop, 0.6 ND by two stops, and 1.2 ND by four stops. When you combine ND filters, these numbers should be added, and not multiplied, as is done with the filter factor. Sometimes ND filters are marked 2X or 4X, in which case you are given the filter factors (one and two stops, respectively). With film, ND filters are often combined with color conversion filters for daylight filming when you want to reduce the amount of light. For example, an 85N3 combines an 85 filter with one stop of neutral density.
+
+Graduated Filters
+
+Graduated filters (also called grads or wedges) have one section neutral density and one section clear. The transition from dense to clear can be abrupt or gradual (filters with a smooth transition from dense to clear are sometimes called attenuators). Grads are primarily used to darken a sky that would otherwise bleach out and show no detail. Grads can be used to make day-for-night scenes more realistic by darkening the sky. Some grads have a color, such as orange to heighten a sunset effect.
+
+Grads should be used with a matte box (see p. 317). The larger the filter you use, the more freedom you will have to position it correctly. Position the neutral density portion to cover the sky, aligning the graduated region with the horizon line or higher. If you’re working with great depth of field (say with a wide-angle lens at small aperture), the grad itself may be too sharply in focus to achieve the effect you want. Keep it as close to the lens as possible and use a soft-edged grad if stopped down.
+
+Selectively darkening the sky or any portion of the frame can also be done in postproduction. One advantage of using a grad on the camera is that it may prevent the sky from being grossly overexposed (burning out cloud details, for example), which might not be correctable in post.
+
+Fig. 8-7. Graduated filter. A grad can be used to selectively darken or color the sky. Grads vary in the sharpness of their transition from dark to light. (Stephen McCarthy)
+
+Polarizing Filters
+
+Aside from graduated filters and special effects, the polarizer is the only way to darken a sky when shooting in color. A polarizer is somewhat like a neutral density filter in that it affects all colors equally. The difference is that it selectively cuts down light oriented in a single plane—that is, polarized light. On a clear day, some of the light from the sky is polarized, as is light reflected from glass and water, but not metal. Polarized light can be progressively eliminated by rotating the polarizer. Reflections from glass and water can sometimes be totally eliminated, but be careful not to overdo the effect; otherwise, a car may look as though it has no windshield or a pond as though it is dry.
+
+As you move the camera, the orientation of the polarizer to the light source may change, altering the amount of light that is filtered out. The exposure of an object may thus change during the shot. When the polarizer is used to darken the sky, this change is particularly noticeable when the camera pans. Maximum darkening of the sky occurs with the filter oriented at a right angle to the sun. When it is pointed toward the sun or 180 degrees away (the sun directly behind), the polarizer has no effect. Similarly, polarized shots taken at different angles to the sun may not edit together well, since the sky will appear different from one shot to the next. Clear blue skies can most easily be darkened with the polarizer. The hazier the sky, the less noticeable the effect will be. An overcast sky, whether in color or in black-and-white, can be darkened only by a graduated filter.
+
+The polarizer has a filter factor varying from 2 to 4 (one to two stops), depending on its orientation and the nature of the light in the scene. Side lighting and top lighting, when the sun is at right angles to the polarizer, may require a compensation of two or more stops.
+
+When shooting video, set the exposure with the polarizer in place and oriented as it will be for the shot. When shooting film, calculate exposure compensation by taking a reflected light reading through the polarizer, with the polarizer oriented as it will be on the lens.
+
+Fig. 8-8. (left) Without polarizer. (right) With polarizer filter. The polarizer minimizes the reflections from the windshield. (Schneider Optics)
+
+Ultraviolet and Infrared
+
+Unlike the human eye, digital and film cameras are sensitive to ultraviolet light. Atmospheric haze scatters large amounts of ultraviolet light, making the haze appear heavier when shooting distant landscapes. To minimize this effect, use a UV or 1A (skylight) filter. The UV is clear to slightly yellow in color, while the 1A is slightly pink. The filter factor is negligible, and no exposure compensation need be made. Haze filters have no effect on fog and mist because these atmospheric effects are due to water droplets and not the scattering of ultraviolet rays.
+
+The 1A filter is useful to warm up the blue cast caused by ultraviolet light present in outdoor shade, which is especially noticeable when snow scenes are filmed. Since the 1A and haze filters don’t significantly affect exposure, they’re useful in protecting the front element of the lens in difficult environmental conditions—for example, in salt spray or sand. Some filmmakers leave this filter in place at all times.
+
+Some HD digital cameras can be sensitive to infrared (IR) contamination when filming in bright sun. Infrared energy (essentially heat) isn’t visible to the naked eye, but it may cause the image as seen by the sensor to have lower contrast and it can make black areas appear brown. Filters such as Schneider Optics’ True-Cut 750 IR can help.
+
+Diffusion Filters
+
+Diffusion filters soften hard lines and are often used to minimize facial lines and blemishes. They are sometimes used to indicate a dream sequence or a historical sequence or just make the image a little mellower or less harsh. As diffusion increases, flare from bright areas creeps into adjacent areas. A diffusion effect can be achieved by stretching silk or nylon stocking material in front of the lens or over the rear element (see below for discussion of mounting filters behind the lens).
+
+Tiffen’s Softnet filters have netting material laminated within a glass filter. Black net or dot pattern diffusion filters don’t affect contrast; white net filters do soften contrast. Diffusion filters generally require no exposure compensation, though net material may cut out some light. Wherever a net is mounted, keep it as close to the lens as possible and check that the net pattern is blurred and not in focus on the image. Use a good lens shade or matte box to keep stray light from striking a diffusion filter directly.
+
+In HD video and 35mm film, a softened image is often desirable. In 16mm, and most SD video formats, the image is softer to begin with, and diffusion should be used sparingly unless an exaggerated effect is desired. Sometimes diffusion or nets are used in video to soften the image slightly and give it more of a “film” look. You can evaluate the effect in a good monitor (though it may look different on a larger screen).
+
+The same diffusion will seem more pronounced through a long focal length lens than with a short focal length lens, so you may want to use less diffusion when zoomed in for a close-up if you’re trying to match the look of a wide shot.
+
+Various methods can be used to soften or diffuse an image in digital post.
+
+LOW-CONTRAST FILTERS. Low-contrast (low-con) filters, available in several grades, reduce contrast without softening lines or reducing definition as much as diffusion filters. Low-cons affect the shadow areas particularly by smearing the highlight areas into the shadows. Colors are less saturated and the overall look is softer. There are a few variants of low-contrast filters, including Tiffen’s Pro-Mist and Ultra Contrast filters. No exposure compensation is required when using low-con filters.
+
+Fig. 8-9. Various Tiffen filter effects. (1) No filtration. (2) A Pro-Mist filter softens the sharpness and contrast and creates a halo around highlights and light sources. (3) A Soft/FX filter softens facial details. (4) A low-contrast filter spreads highlights into darker areas and lowers contrast. Filtration in these images was done with the Tiffen Dfx digital filter suite after the image was shot. Very heavy filtration is used in this illustration so that the effects are visible, but in production subtler levels would be used. These digital effects emulate actual glass Tiffen filters for mounting on lenses, which produce somewhat different looks.
+
+Fog Filters
+
+Fog filters are available in various grades to simulate everything from light to heavy fog. In general, the more contrasty the scene, the stronger the fog filter needed. With too strong a filter, objects may lose so much contrast that they become invisible. Fog filters are sometimes used for heightened mystery or romanticized flashbacks.
+
+In natural foggy conditions, objects tend to become less visible the farther away they are. Most fog filters do not simulate this effect, so try not to photograph objects too close to the camera or let a subject move toward or away from the camera during a shot. Double fog filters lower image definition less than standard fog filters do. There’s no exposure compensation for fog filters, though slight overexposure can increase the fog effect.
+
+Color-Compensating Filters
+
+Generally, major color corrections are made during shooting, and fine-tuning of the color is left for postproduction. There are times, however, when specific color adjustments may be made via filtration on the lens: for example, when shooting with certain discharge-type light sources such as fluorescent, mercury vapor, or sodium vapor lights (see Chapter 12); when video will be broadcast or shown directly without further color correction; or when you want to create a specific color effect, such as a sepia look for scenes intended to look old.
+
+Sometimes a little warming is done with a camera filter to provide a more appealing look. The Tiffen 812 filter has the nice effect of improving skin tones without making the whole scene look too red; it can also be used to make a cloudy day seem less cold. When using an 812 with a video camera, be sure to white-balance without the filter in place, or the camera will undo the filter’s effect.
+
+For film shoots, precise color adjustments are sometimes made with a set of color-compensating (CC) or light-balancing filters. The most advantageous system assigns a mired value to every color temperature. To convert from one color temperature to another, subtract the mired value of the color you’re starting with from the value of the color you want. If the result is a positive number, use yellow filtration to warm the scene, as yellow increases mired value and decreases the color temperature. A negative number calls for blue filtration to decrease mired value and raise the color temperature. Unlike the Kelvin scale, where a difference of 100°K is more significant at 3200°K than at 5500°K, mired values indicate a constant shift across the scale. (Consult American Cinematographer Manual for mired values of typical light sources and filters and for the Kodak color-compensating filter system.)
+
+MATTE BOXES AND LENS SHADES
+
+Use a lens shade (see Figs. 4-16 and 3-15) or matte box (see Figs. 1-3 and 8-10) to prevent stray light from hitting the front element and causing flare. If you look at the front of the lens and see the reflection of any light source, there is the potential for flare. A deeper matte box or shade gives better protection. Matte boxes are often adjustable and should be adjusted as deep as possible without vignetting the image. Similarly, use a lens shade as deep and narrow as possible. Long focal lengths allow for a narrow shade. The shades for extreme wide angle are often so wide that they offer little protection from stray light. A French flag or eyebrow (see Fig. 8-10) can be set to cut light sources that the lens shade or matte box misses. When light sources are in the scene you’re filming, sometimes you can shade the source itself to minimize flare (see Chapter 12).
+
+Matte Boxes
+
+Matte boxes have slots that accommodate one or more filters. Often one of the slots rotates for filters such as polarizers or special effects filters. Glass filters are expensive; with a matte box, one set of filters can be used for different lenses. Gelatin filters can be mounted in frames that fit into the slots.
+
+Fig. 8-10. The French flag attached to the top of the matte box (also called an eyebrow) helps block light sources from above. (Bob Corkey)
+
+Matte boxes often mount on rods, which extend from the camera to support the lens, the matte box, and/or other accessories. If the front element of the lens does not rotate during focusing, a lightweight matte box can sometimes be attached to the lens itself. A lens doughnut is sometimes needed as a seal between the lens and the back of the matte box, to keep light from entering from behind.
+
+CHECKING FOR VIGNETTING. To check for vignetting, point the camera at a white or gray card that is uniformly lit (sunlight can work well). Make sure you can see all the way into each corner of the frame, with no darkening at the edges, and without seeing the matte box or lens shade. Try this test at close focusing distances and, with a zoom lens, at its widest angle. If you see darkening, you may need to reposition matte boxes or filters. Vignetting is inherent in some lens designs and you may not be able to get rid of it all. Some DSLRs have a menu setting to compensate.
+
+Lens Shades
+
+A glass filter can usually be mounted between the lens and the lens shade. On some shades a filter can be dropped in place. Some shades have provisions for rotating a filter. Lens shades are available in metal, hard plastic, and soft rubber. Rectangular lens shades work more efficiently for their size but can be used only on lenses with nonrotating focusing mounts.
+
+Fig. 8-11. Sony FS100 camera shown with Zacuto base plate, riser, rods, and lens support. (Zacuto USA)
+
+Mounting Glass Filters
+
+It doesn’t make sense to use an expensive lens with a poor-quality glass filter that may impair the image, so use high-quality filters. Gels sandwiched between glass are generally of lower quality. Dyed glass filters should have an antireflective coating (coated filters). To avoid an unwanted optical phenomenon known as Newton’s rings, don’t mount two or more glass filters so that their surfaces touch.
+
+Some cinematographers like to keep a glass filter over the front element of the lens to protect it from scratches or from poor environmental conditions, such as sand or salt spray. Use a high-quality coated filter. Clear, skylight 1A, or haze filters will not alter image color or tonal rendition to any serious extent, though any filter may cause reflections and lowered contrast.
+
+Glass filters may be square shaped for matte boxes or round for mounting on lenses. They come in a variety of sizes, sometimes designated in millimeters and sometimes by series size in Roman or Arabic numerals.
+
+ADAPTER RINGS. Most lenses accept an adapter ring that screws into the area around the front element or slips over the barrel for mounting glass filters in front of the lens. The filter of appropriate size is then secured with the lens shade or another adapter ring. A retainer ring lets you mount two filters. Use step-up rings to mount a large filter on a smaller lens.
+
+Behind-the-Lens Filters
+
+Some cameras have a behind-the-lens slot for gels, and there are adapters for mounting gels on the rear of some lenses (inside the camera). When a gel is mounted behind the lens, it refracts light and moves the focal plane back about one-third the thickness of the gel. If you plan to use behind-the-lens filters, have the flange focal distance adjusted by a technician to compensate for the change. You must then always use a clear gel (UV 1A or 2A) when not using another filter.
+
+Handle gels in paper or only by their edges, preferably with tweezers; avoid scratches and crimping. The closer the gel is to the film or video sensor, the longer the focal length of the lens, or the more a lens is stopped down, the more likely it is that physical imperfections and dust will show up in the image.
+
+As discussed above, sometimes nets or stocking material is mounted behind the lens for a diffusion effect. These don’t affect the collimation the way gels do, but they must be used with care to be sure they don’t come off or damage the lens or camera. Rubber bands or special transfer tape (also known affectionately as snot tape), which has a rubber cement–like adhesive, can be used to attach the net to the lens.
+
+1. People familiar with painting may think of the primary colors as red, blue, and yellow. This is a different color system. Mixing all colors in paint produces black. Mixing lights of all colors produces white.
+
+2. This is for high definition ITU-709 color space; standard def NTSC ITU-601 is about 59 percent green, 30 percent red, and 11 percent blue.
+
+3. Analog NTSC (sometimes called “Never Twice the Same Color”) video was particularly notorious for shifting color values.

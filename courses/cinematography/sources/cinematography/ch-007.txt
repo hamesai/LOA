@@ -1,0 +1,453 @@
+Chapter 6: Continuity and Shooting for Editing
+
+5.1 (previous page) A continuity sequence from High Noon. As discussed later in this chapter, when the geography is very clear and well established, it is possible to be a bit looser about some of the rules of continuity and in fact the editor does so a few times in this scene.
+
+cinematography 80
+
+SHOOTING FOR EDITING
+
+Filming is ultimately shooting for editorial. The primary purpose of the shoot is not merely to get some “great shots”: in the end it must serve the purpose of the film by giving the editor and the director what they need to actually piece together completed scenes and sequences which add up to a finished product that makes sense and accomplishes its purpose. There are four primary categories of continuity.
+
+CONTINUITY OF CONTENT
+
+Continuity of content applies to anything visible in the scene: wardrobe, hairstyle, props, the actors, cars in the background, the time set on the clock. As discussed in the chapter on Ser Operations, it is the script supervisor in conjunction with the various department heads who must ensure that all of these items match from shot to shot.
+
+These kinds of problems extend from the very obvious: she was wearing a red hat in the master, now it is a green hat in the close-up, to the very subtle — he was smoking a cigar that was almost finished when he entered and now he has a cigar that is just started.
+
+While the script supervisor, on-set wardrobe and prop master are the first line of defense in these matters it is still up to the director and camera person to always be watchful for problems.
+
+As with almost anything in film there is a certain amount of cheating that is possible; the audience can be very accepting of minor glitches. Absolutely perfect continuity is never possible and there is a large gray area. It is sometimes said that, with creative cheating, you can get away with anything but errors in wardrobe continuity.
+
+CONTINUITY OF MOVEMENT
+
+Anything that is moving in a shot must have a movement in the next shot which is a seamless continuation of what was begun. Whether it be opening a door, picking up a book or parking a car, the movement must have no “gaps” from one shot to the next. This is where it is so critical to be aware of how the shots might be cut together later.
+
+To play it safe in shooting any type of movement and be sure that the editor is not constricted in choices, it is important to overlap all movement. Even if the script calls for the scene to cut away before she fully opens the door, for example, it is best to go ahead and let the camera roll for a few seconds until the action is complete. Never start a shot exactly at the beginning of a movement — back up a bit a roll into it, then let it run out at the end.
+
+One prime example of this is the “rock in.” Say you shot a master of a character walking up to the bank teller. He is there and already has his checkbook out and is talking to the teller in the master. You then set up for a close-up of the character over-the-shoulder of the bank teller. You may know for certain that the edit will pick up with the character already in place, but the safe way to do it is to have the character do the final step or two of walking up as shot in the close-up OTS position.
+
+There are times, however, when focus or position is critical. It is difficult to guarantee that the actor will hit the mark with the precision necessary to get the shot in focus. In this case a “rock in” is the way to go. The technique is simple: instead of actually taking a full step back, the actor keeps one foot firmly planted and steps back with the other, then when action is called he can hit his mark again with great precision. The most important aspect of continuity of movement is to screen direction, which is discussed in more detail later in this chapter.
+
+CONTINUITY OF POSITION
+
+Continuity of position is most often problematic with props. Props that are used in the scene are going to be moved in almost every take. Everyone must watch that they start and end in the same place, otherwise it will be an editor’s nightmare. This ts often the dividing line between a thoroughly professional performer and a beginner: it is up to the actor to use the props and place them exactly the same in every take. If, for some reason, there is a mismatch in placement of a prop between the master and a element of coverage, it is up to the director to either reshoot one or the other or to do some sort of = 5.5 Occasionally continuity of time repair coverage that will allow the editor to solve the problem. can be reinforced by cutting to the This can be done in a variety of ways. One simple example: if the Boe eas of keeping the audience actor put the glass down on the left side of the table in the master, aware of “when’ they are. but it is one the right side in the medium, one solution is to do a shot where the actor slides it across the table. This solves the problem, but there is one drawback: the editor has to use that shot. This may end up creating more problems than it solves.
+
+CONTINUITY OF TIME
+
+This does not refer to the problem of resetting the clock so that it always reads the same time (that is prop continuity and comes under continuity of content see Figure 5,2), rather it has to do with the flow of time within a scene. For example, if Dave North is walking away from Sam South in the wide shot, then you cut to a close-up of Sam South, by the time you cut back to Dave North, his action must be logical timewise. That is, if the close-up of Sam South was for three seconds, when cutting back to the wide shot, Dave North can’t have walked fifty feet away. Clearly he can’t have walked that far in three seconds and the effect will be jarring. This applies mostly within a scene which is being played out realistically. There are many exceptions, as discussed below in the section on manipulation of time.
+
+Internally within the scene, certain conventions help maintain pacing and flow, particularly in cases where a character moves within a scene. The action or background at the beginning of the move may be important as they may be important at the end of the scene (indeed, they must be, otherwise why are they being shot?)
+
+The middle part of the move, however, is often not important information. If the character has to cross a wide room or walk up a flight of stairs, it may be helpful to skip over some of that move.
+
+To just skip it would be, of course, a jump cut and a serious error in continuity but there are several work-arounds. The simplest is to let the character exit frame then enter frame in the next shot. This is a simple form of an elliptical cut (see below) and a good deal of movement time can be left out without disturbing smooth continuity. This is a culturally conditioned film convention that audiences worldwide have come to accept. To preserve movement continuity and screen direction, if the actor exits the left side of frame she must enter the next frame on the right side.
+
+In his book The Technique of Film and Video Editing, Ken Dancyger points out another device used by Kurosawa in Seven Samurai and by Kubrick in Paths of Glory and, of course, in many other films: a tight close-up of the character that tracks or pans as the character moves. As long as the direction, action and speed match that of the wide shot, the movement of the character can either be longer or shorter than the real time move would take. If the character changes direction in the shot, then that change of direction must be preserved when cutting back to a wider shot.
+
+cinematic continuity A(above) The movement of the car establishes the line. woman at top will see the car moving to her left (5.4, above right); the woman at the bottom will see the car moving to her right (5.5, right)
+
+5.6. (below) If both of the women are viewing the car from the same side of its movement of direction, then they will both see it moving in the same direction, as in 5.7. (below right). This is the basic principle of “the Line” and screen direction THE PRIME DIRECTIVE
+
+Most of these techniques and rules are based on one principle — to not create confusion in the mind of the audience and thus distract them [from the story or annoy and frustrate them. Let’s take a fundamental example (Figures 5.3 through 5.7). Two women are standing on opposite sides of the street. Woman “A” sees the car going right, Woman “B” sees the car going left. If we move them to the same side of the street, they will both see the car going in the same direction in relation to their own sense of orientation (left/right).
+
+Thus their perception of the car will be the same. The movement of the car establishes direction, but there is another aspect: where the women are viewing the movement from is also important. In combination, these two establish the spatial orientation of the scene.
+
+THE LINE
+
+Anybody standing on the same side of that line will see things from the same orientation. “A” will always be on the left and “B” will always be on the right. Anybody standing on the other side of the line will see the opposite: “B” on the left and “A” on the right. It doesn’t matter where on the other side, the result is the same.
+
+This is what we call sereen direction. Let’s take this simple two shot (figures 5.8 through 5.11). From our first camera position (Figure 5.9), the woman Lucy is on the left and the man Ralph is on the right. Then, in Figure 5.10, the camera position is shifted to the other side of the line. In Figure 5.11, the audience will see, for no reason they can understand, Ralph is on the left side facing right and Lucy is on the right side facing left. It will confuse the audience, they won’t be able to readily understand and assimilate the information. While their brains try to sort it out, their attention will be drawn away from the story. Not only will they be distracted from what the characters are saying and doing, if it happens often enough, it will annoy and frustrate them. What is it that delineates where we can put the camera to maintain continuity and where we can’t?
+
+5.8.(above, far left) Two people relating to each other in some way creates a “line” — indicated here by the dashed line. With the camera on one side of them (shown here at the bottom of the picture, the woman will be on the left and the man will be on the right, as in 5.9 (above, middle).
+
+5.10. If the camera is shifted to the other side of the line (lower far left)
+
+their positions are reversed; the man is now on the left and the woman is on the right, as shown in 5.11 (lower left). These two shots could not be cut together without creating a jarring effect.
+
+5.12.(above, right) Where the camera can go without creating this jump in directional relationships is defined by a 180” semi-circle on one or the other side of the line. The camera can go anywhere in that 180° arc and directional continuity is maintained.
+
+This semi-circle sweep will be used throughout this chapter as a symbol for camera positions that maintain continuity. It isa symbol only — the camera can go closer or farther away, higher or lower as long as it stays on the same side of the line.
+
+cinematic continuity 5.13. (top) A look establishes line.
+
+5.14. (2nd from top) Directional movement establishes line.
+
+5.15. (3rd from top) A specific action establishes line.
+
+5.16. (above, bottom) Exiting frame establishes the line for next shot.
+
+cinematography 84
+
+THE ACTION LINE
+
+There is an imaginary axis between these two characters. In our first example of the car, the movement direction of the car establishes what we call the /ive. In all of these diagrams, it is represented by the large dashed line. The line is referred to by several terms: some people call it the action axis or the action line. If we stay on one side of it for all our shots — everything cuts together perfectly as in Figures 5,8 through 5.10. If we cross over to the other side — the characters will jump to opposite sides of the screen. Safe locations for the camera are symbolized by the 180° half circle — Figure 35.12.
+
+This semi-circle sweep will be used throughout this chapter to represent the camera locations which will result in consistent directional continuity. It is a symbol only; in practice the camera can go nearer or farther, higher and lower in relation to the subjects.
+
+THESE ARE THE RULES — BUT WHY?
+
+The basic rules of “not crossing the line” are known to all working filmmakers, but many do not stop to consider the fundamental theory and perceptual issues that underlie this principle. It is impor tant to understand it at a deeper level if you are to be able to solve the trickier issues that do not conveniently fall into one of the basic categories of this system. More importantly, it is only when we understand the whole theoretical system that we can truly understand when it is permissible to break the rules.
+
+First, we have to consider directionality. What do we mean by that? What is something that’s not directional’? Not much really. A featureless cylinder or a globe painted all the same color are non-directional, but just about everything else is. A sofa is directional: so is a car. A woman looking at a building is directional. More importantly, her /ook is directional.
+
+Movement is also directional. Say we took that featureless globe and rolled down the sidewalk. Its line of movement is the line, If we see it from one side of the line, its going to our lefi and if we see it from the other side of the line it is going right. A man picking up a book is directional. The imaginary line exists between any two objects that have some sort of relationship. Even between a book and a telephone sitting on a table.
+
+WHAT ESTABLISHES THE LINE?
+
+Is the line always there? No, the line only exists once it has been created by something in the scene. As we saw in the example of the two women and the car, your first camera set-up in the series of shots establishes the line but it works in conjunction with specific visual elements of the scene itself. Several things can establish the line for a particular scene. They are:
+
+* A look * Movement * Aspecific action * Exiting frame * Physical geography (e.g., a courtroom).
+
+Examples are shown at left in Figures 5.13 through 5.16. Another way of thinking of it is called the /80° ru/e. Once the camera is placed on one side of the line, you can move around anywhere in that 180° space and the shots will cut together (Figure 5.12).
+
+SCREEN DIRECTION
+
+Screen direction serves two important purposes: it gives the audience clues about the story and it helps keep the audience from getting confused about where someone is or what they are doing.
+
+DIRECTIONAL CONVENTIONS
+
+The classic example of this is in low budget cowboy movies of the fifties. In these films it was always well established that one direction on screen was “towards town” and the opposite direction was “away from town” (Figures 5.18 and 5.19), Once we knew that we could tell if the good guys (white hats) or the bad guys (black hats) were heading t toward town or away. Any deviation from this would have been very confusing. This type of cutting was first used by D.W. Griffith, most note ably in his epic Birth of a Nation (1915) where he used cross-cutting (cutting from one advancing army going one way to the other advancing army going the ot ther way) to establish tension and drama. Typics illy as they get closer and the moment of confrontation nears, the cuts become quicker.
+
+Another convention applies to trains, planes and automobiles. If someone is leaving the east and going to the west the plane or vehicle should be tr aveling left in the frame and vice versa. This is derived from the fact that nearly all maps have north at the top, thus west is left and east is right.
+
+DELIBERATELY BREAKING THE RULES
+
+One of the aims of editing is to nor confuse the audience. Ifa character is walking towards the left of the screen in one shot and without explanation in the next shot he is walking toward the right, the audience will (even if only subconsciously) wonder why he changed. heir attention will be momentarily drawn away from the story as they try to sort It out.
+
+This is the basic principle of all continuity in film shooting and edit-ng. For example: she was just wearing a red dress outside the res-taut but once she stepped through the door she is wearing a blue Is this a different day?
+
+dress.
+
+What happened”
+
+A dream sequence?
+
+9 Ss a a
+
+& 5.17. (left) The line establish clear and easily understood geo phy. The action line is practically visi ple itself in this shot from High Noo Interestingly, the urinate! c tually purposely volte the tne v times in this scene, but since the phy is so strong these vio lations do not create a continuity problem Gra
+
+5.18. (far left) In this sequence f1 High Noon, leaving town is c early established as going left. It is consis tent throughout all the shots 5.19. (left) When the marshall decides he must stand and fight, we cle early see him turn the carriage around and head back the other way. When we next see the carriage moving toward the right, we know without any confusion that they are going back toward town.
+
+5.20. (above) Early films, such as the Great Train Rot , which treated cinema as a“filmed play” maintained a Static frame and constant, unchanging left/right relationships as viewed by the audience. Since the camera never moves, it never changes the directional relationships of the actors or the set ample of a true Samurai. The camera cleanly and com jumps r i ‘ly to the other side of the line 5.22, bottom)
+
+5.23. (below right) A very high shot, such as this one from The Lady From Shanghai, is another example of a neutral shot. From this frame you can cut to any angle and any camera position in the scene without creat- Ing a continuity clash, Of course a filmmaker can use this as a storytelling device. Perhaps most famously is the breakfast sequence in Citizen Kane. In three seamlessly cut together shots we see Charles Foster Kane and his wife at the same dining table in the same room. Nothing changes except their appearance and attitude toward each other We only know that time is progressing because they are wearing different clothes and makeup in each shot. Through this simple device the deterioration of their marriage is told with great effi ciency. Most famously, in the payoff shot she is reading a newspaper put out by a rival publisher: we know the marriage is doomed Similar devices can indicate we’ve gone into a fantasy sequence ot flashback. They can be quite subtle (a small change in makeup ot hair) or dramatic: the little match girl on the street is suddenly in a gorgeous ball gown.
+
+MAINTAINING SCREEN DIRECTION
+
+In the early days of cinema, dramatic films were conceived as recorded theater: everything was viewed as if it were happening on a proscenium stage. The audience sat in front and could clearly dis-cer the right and left sides of the stage. The camera merely took the place of the theater audience and never moved in relation to the scene before it (Figure 5.20). Similarly. if the front door of the house was on the right side, it never moved either. The filmspace was purely the three-dimensional world on the stage projected on the 2-D proscenium frame, but this frame was static, definitively bounded and perceptually flat. This underlines a key concept of con tinuity and screen direction; as filmspace has become increasing complex. fluid and fast paced, it has become more of a challenge to keep from completely confusing and frustrating the audience EXCEPTIONS TO THE RULE
+
+Phere are several important exceptions to the rule of the line * If we see things change position jn the shot, then we understand that things have changed position. If a car is moving right in the shot, and then we see it turn around so that it’s going left, then there’s no problem (Figures 5.18 and 5.19). * When the camera position moves curing the shot.
+
+* Ifyou cut away to something completely different. when you cut back, you can change the line.
+
+* Inthe case of something that is moving, you can cut to a neutral axis shot, then go back to either side of the line A neutral shot is one where the movement is either directly towards or away from the camera (Figures 5.28 and 5,29). In essence, the line itself has moved. Some people tend to think of the line as very rigid and static, that once the line is established it can never move the whole rest of the time you are shooting the scene, but actually it is fluid and can change throughout the scene, as we will see later.
+
+There is another exception, although it must be applied with cau tion. Remember, the whole point of the rule is to not confuse the audience. That is it’s only reason for being: it is not a carved in stone dictum that exists independently. That means that if we can cross the line without confusing the audience, then we’re still OK Example a courtroom. It’s layout is very clear and visually strong. At the front of the room is the bench, a large identifiable object with the judge sitting on it. On one side is the jury, then facing the judge are the counsel tables. Not only is it strong and identifi able, it’s very familiar. In a situation like this you have a great deal of leeway in crossing the line without creating confusion. Sull, it is not something to be taken lightly. Another example would be two rock climbers ascending a cliff. You can jump to the other side and no one is going to not understand what happened — there will be no problem. For an example see Figure 5.17.
+
+1
+
+REVERSE
+
+Another case of crossing the line is when you deliberately go to the other side for a reason. Say two people are seated on a sofa and we do extensive coverage of them from in front of the sofa, the most logical place to shoot from (Figures 3.21 and 5.22; also 5.24 through 5,27). Clearly the line has been well established. But now there is another important action. A new character has to enter through the door and have a conversation with the two people on the sofa.
+
+It always better to show a character entering the room rather than just having them enter frame when we don’t know w here they came 5.24. (top, left) In this scene of a couple sitting on a couch, the action line is clearly established. We can do any shots we want as long as we stay on the correct side of the line.
+
+5.25. (top, right) A new character enters and we would like to include him ina shot which shows all three.
+
+Doing so puts the camera definitely on the wrong side of the line — 5.26 (lower left).
+
+5.27. (lower right) Even though it is technically an error, the shot works fine because it is done boldly and the sofa helps the viewers orient them selves.
+
+5.28. (below) Cutting to a neutral shot such as a car coming direc toward you can help transition from one side of the line to the other 5.29. The area which can be considered a truly neutral angle is usually quite small — represented here by the small semi-circle sweeps cinematic continult S| ; cL Ce Original scene.
+
+LiooARY a irk A corrrect cheat must get the camera over the proper shoulder.
+
+Just spinning the actors puts the camera over the wrong shoulder.
+
+5.30. Cheating a turnaround requires careful thought — it is not a matter of simply switching the actors. To make it work you have to move the camera over so that it ends up shooting over the correct shoulder of the near subject.
+
+§.31.Cheating the turnaround sometimes includes cheating the background or set dressing. Preplanning all the coverage for a scene can often help avoid this.
+
+cinematography 88 from. The simple solution would be to just turn the camera around and see him enter the door. There are a few problems with this. First of all, it doesn’t connect the new character to our two people.
+
+Second, we wouldn’t really know where the door is and that he is entering the same room. Since they have not seen the door before, for all the audience knows, we have gone to a completely new scene and this man is entering another room somewhere. Finally, we don’t have a chance to see their reaction to him coming in: for example. do they stand up quickly when he comes in, as if they are frightened by him? What we would really like to do is put the camera in the back of the room behind the sofa, so we see them in the foreground and see him entering. This establishes everything: it’s the same room, the door was behind us all the time, we see their reaction, and so on. But that would be crossing the line so we can’t do it, right?
+
+Yes it is crossing the line, but yes. you can do it. It’s called a reverse or a reverse angle. But you can’t just do it willy-nilly. You can’t do it on a close-up; that would be just crossing the line. The important thing is that we still see the two people in the foreground, but we see the new character and the door in the background. There is motivation for being on the other side; there is an understandable reason. We may be in a new orientation, but it is comprehensible.
+
+Another factor in a successful reverse is the boldness of it. Just crossing the line slightly would probably not work. It is when you definitively and unquestionably are on the other side of the line that a reverse is understandable. The audience does have to do some mental reorientation, but given the proper clues they can do so without disruption.
+
+TURNAROUND
+
+Obviously you would never do the over-the-shoulder on one actor, then move the camera to do the OTS on the other actor, then go back to the first for the close-up and so on. This would be very inefficient and time consuming. So naturally you do all the coverage on one side then move the camera and reset the lighting. This is called the turnaround. The group of OTSs and close-ups which match the ones done on the first actor are called the answering shots. Every shot you do in the first set-up should have an answering shot. After window Where the camera should be for the answering shot Now there is room to just squeeze im.
+
+a Over-the-shoulder as orginally shot Set cressing Have the art department move the sel dressing and door matching, the turnaround is the other major area where cheating is employed. In cases where some physical obstacle precludes a good camera position for the turnaround, or perhaps the sun is at a bad angle or maybe it’s a complex lighting setup and there simply isn’t time to break it down and re-light for the answering shot.
+
+CHEATING THE TURNAROUND
+
+In any of these cases, it is possible to leave the camera and lights where they are and just move the actors. This is a last ditch measure and is only used in cases where the background for one part of the coverage is not usable or there is an emergency in terms of the schedule, if for example, the sun is going down. The theory is that once we are in tight shots on the coverage, we really don’t see much of the background.
+
+It is not correct, however, to just have them switch places. In our sample scene, we are over the shoulder of Jennifer, looking at Dave.
+
+In the OTS of Dave, we are seeing over Jennifer’s right shoulder.
+
+If we did a real turnaround, we would be over Dave’s left shoulder. (Figure 5.30). In this illustration we see two cases: in #1 we rotate the camera 180°. This is a real turnaround. In case #2 we just spin the actors and leave the camera where it is. You can see the problem: the camera is over the wrong shoulder.
+
+In cheating a turnaround, you have to either move the camera a couple of feet or better, just slide the foreground actor over so you are over the correct shoulder. (Fortunately, moving the foreground actor seldom involves any substantial relighting.) The key to a successful cheat is that the background either be neutral or similar for both actors as established in any previous wide shots. If there are recognizable objects in the background, it may be helpful to shift a bit.
+
+PREPLANNING COVERAGE
+
+Which brings us to another key point which is easily overlooked: whenever you are setting up a master, take a moment to think about the coverage. Make sure that there is some way to position the camera for proper answering shots. Particularly if one character’s coverage is more dramatic or more crucial to the story than the other, it is very easy to get yourself backed into a corner or up against an obstruction that makes it difficult or impossible to position the camera for a proper answering shot (Figure 5.31).
+
+Remember that ideally, an answering shot should be the same focal length, focus distance and angle as the shot it is paired with. In a pinch, if you can’t get quite far back enough (or close enough) you can cheat a bit with a different focal length to end up with the same 5.32 (above, far left). A walk and talk is not as simple as it seems. There are actually two action lines here.
+
+5,33. (above, middle) Their direction of walking is one, but the look between the two of them is the stronger of the two. It is easier to cross the line of their direction of travel without disturbing the continuity (5.34) (above, right).
+
+5.35. The 20% rule and the 30° rule are pretty much the same thing.
+
+x x YN cinematic continuity 5.36 and 5.37 (above) In this door shot from Touch of Evil, the character switches direction, 5.38 and 5.39 (above right and far right) Maintaining the same direction while going through a door is often desirable, but by no means required.
+
+5.40. (below) Covering curved walk.
+
+§.41.(bottom) Some positions which seem to be on the wrong side of the line (A-1 and E) are OK because they are actually neutral angles which can pan into either screen direction.
+
+¥ aor \ Ww ee a & ame cinematography 90 image size, which is by far the most important parameter. The perspective and depth of field may be slightly different, but, depending on the background, this may not be noticeable. The second possibility is to cheat the actors out a bit. This is especially workable if we haven’t seen too much of the background behind #1. For over-the-shoulders and close-ups, it is usually only necessary to have them move a few feet. They will be in a slightly different position in the room, but normally this will not be noticeable.
+
+CUTTABILITY
+
+So that’s the 180° rule and we can shoot anywhere in the 180° circle, right? Well, not quite. First let’s define what makes shots cettehle. when we put a sequence together tt is important that when one shot follows another, it does so smoothly, not jarringly.
+
+Example our two people are on the sofa. We are doing a shot from the side that includes both of them and the arms of the sofa.
+
+Then we move in just a bit and get a similar shot of the two of them but without the sofa arms. How would it look if we cut these two together? The effect would be jarring. Suddenly the image size changes just slightly, as if the camera accidentally got kicked or maybe the film broke and some frames are missing. It would look awful. For two shots to be cuttable, there needs to be a more substantial change. If instead of moving in just slightly, for example. we moved in a lot so that the shot is just a close-up shot of one of the characters. Then the two shots would be cuttable.
+
+THE 20% RULE
+
+How do we know how much we have to change to make two similar shots cuttable? It’s called the 20% rule. In general, a shot must change by at least 20% to be cuttable. That can be a 20% change in angle, in lens size or camera position. It’s a rough guideline, of course; no need to get out the calculator (Figure 5.35).
+
+A particular example of this is the 30° rule — it’s not a different rule, just a specific application of the 20% rule (Figure 5.35). Let’s go back to our 180° circle. Without changing the lens, or moving closer or farther away, as long as we move 30° to the left or right along that circle, we’re OK. With lens changes, it is more subjective.
+
+Depending on other factors in the shot, moving up or down one lens. say from a 50mm to a 35mm, may or may not be enough. Frequently. it is necessary to change two lens sizes: say from a 50mm to a 25mm In the end it usually comes down to a judgment call OTHER ISSUES IN CONTINUITY
+
+MOVING SHOTS
+
+[wo types of shots predominate in moving shots: the driving shot and walk and talk. The same rules apply to both. At first glance we would think that the direction of the car or the walk is the major axis, but in fact it is only a secondary axis. The major axis for screen direction is between the two people as in Figures 5.32 through 5.34 Since our attention is on the principles in the foreground, the movement of the background becomes a minor issue as we don’t notice that the direction flips back and forth, (Figures 5.43 and 5.44). When we are outside and the car itself is the principle object, this is no longer true, then screen direction of the car matters.
+
+GOING THROUGH A DOOR
+
+There are two schools of thought on door entrances and exits. Some will say that if a character goes through a door going to the right (in an exterior shot), they have to emerge on the other side also going right (in the interior shot). Others maintain that once someone goes through a door it is a “new deal” and anything goes. Again it is a subjective call. If there is a very clear connection between the two, and the directionality is very strong, then it is a good idea to maintain directional continuity between the two. If there is a great deal of difference between the interior and exterior and there is a greater change in angle, camera position, or lens size between the two, it 1s possible to go to the other side when the character emerges on the other side of the door, as in this example from Touch of Evil (Figures 5.36 and 5,37).
+
+5.42. Before you shoot a chara turning a corner, you h t about where the line will be. The positions indicated by the “xX” here would inexplicably hav eter walking toward the | of to the left. In cases of :
+
+type, if you shoot a neutral angle can technically go to another s direction, but it still may not good idea. As with all issues of con tinuity and matching, judgment and experience are preferable to blindly adhering to cut and dried rult 5.43 and 5.44. Car shots are ple of camera positions v to violate continuity but are eC acceptable. The screen direction the actors changes completely but since the car so clearly establishes where they are, there is no problem 5.45. (below right) Standard camera positions for car mounts.
+
+5.46. (below left) A neutral angle tail away shot from Touch of Evil Y COVERING A CURVING WALK
+
+A shot where a character or group walks in curves can be tricky, but 5.47. (above) When a character exits as Jong as you remember the fundamentals, it can be easy to figure the frame, this establishes a direction SD iticamagcacd ol - , - which must be observed when the Out as in Figures 5.40 and 5.41.
+
+character re-enters. Think of it as if you were panning the camera. TURNING A CORNER 5.48 and 5.49. bight and far right) Turning a corner is subject to the same rules as covering a curved To bea truly neutral angle,the object walk. If the camera cuts when the character disappears around the or character must exit the top or meena ange sy qe _ sa ait a bottom of the frame. corner of a building, when we pick him up on the other side, the screen direction should be maintained (Figure 5.42), ENTERING AND EXITING FRAME
+
+As we noted before, exiting frame establishes screen direction. Once a character exits cither frame left or right, they should enter the next from the opposite side (Figure 5.47). You can think of it as an imaginary pan. As the character exits frame, you mentally pan with her this positions you correctly for the next shot of entering frame. As with all continuity sequences if something else comes in between the exit and the entrance, anything goes.
+
+NEUTRAL AXIS TO EXIT FRAME
+
+If the moving vehicle or character exits on a completely neutral axis, then you are free to go anywhere you want on the next cut. For something to exit on a truly neutral axis, however, it has to exit either above or below the frame (Figure 5.48 and 5.49), 5.50, (below left) A two shot with a prop between them. THREE SHOTS ; Screen direction is basically the same in three shots, but one thing 5.51 and 5.52. (below middle and EE arrest sala . ae …
+
+right) Unless you cheat the prop int watch out for is overlapping the person in the center. If you break coverage it will tend to “pop” back it up as a pair of two shots, the person in the center will appear in and forth in the frame as you cut to both shots and there will be unavoidable continuity problems. The each closeup. It is better to remove ce of = -_ .
+
+it entirely or cheat it so that it stays center character will “pop” as you cut from shot to shot (Figures relatively consistent. 5.53 through 5.55).
+
+cinematography KEEP THE NOSE OUT 5.53. (above left) A three shot with a For the same reason it is important to avoid getting a part of the fore- dominant character in the middle. ground person in the shot when doing a clean single over the shoul- 3.54 and 5.55. (above middle and der of the second character. When two characters are fairly close ee pal cae Meedt to each other in the master, it is often difficult to completely frame and head continuity match for the second person out, especially if they move around a lot. Often — character that appears on both sides their nose, or a hand or some small piece of them will creep into the oa Se ere ne earner single. ent hands. This will drive your editor This is not only compositionally annoying but will cause continu- “‘4y-ity problems. It will often be necessary to shift the off screen character back a bit so they don’t creep in, You don’t want to do it so much that you “miss” his presence in the coverage. If there is a large shift, be sure to set a new eyeline for the on-screen character so that their head doesn’t shift too much from the master. It may be necessary for the actor to look at a mark rather than at the other actor, which is something to avoid as it does make it difficult for the performer.
+
+PROP CONTINUITY IN COVERAGE
+
+The principle of overlapping applies to foreground props as well as three shots. In this example (Figures 5.50 through 5.52), there is a candlestick on the table between them. If it is left in its position from the master, it will seem to jump back and forth as you cut from medium shot on one actor to medium on the other, Your choices are to cheat it out of the mediums altogether (the safest) or cheating it back and forth for each medium — riskier, but it may make the mediums a better match to the master.
+
+THREE SHOTS WITH DOMINANT CHARACTER
+
+Three shots where one character is separate or dominates in some way call fora slightly different treatment (Figures 5.56 and 5.57). If we open with 5.56 as the master, coverage is then dictated by what we can think of as two screen direction lines — a major and a minor.
+
+The major axis (between the bartender and the man) applies to the whole scene, as in Figure 5.57. The minor axis applies to over-the-shoulders between the bartender and the woman.
+
+5.56. and 5.57. (far left and left) If group shots have no other dominant irection such as the bar in these shots, coverage can be pretty much anywhere, however it is often better to pick one side or the other and stick to it. In this example the bar establishes a major action line (heavy dashed line) and the physical relationship between the two women establishes a minor action line.
+
+cinematic continuity r from Ronin up and their ft) This ma he main gr establish places around the table 5.59. (top middle The next cut reveals tl > from the s her rela us to gt Tlor to the It nt orient the overall arrangeme 5.60. (top right)
+
+shot maintains the sc established in the mast a good example the ild definitely scene miss it ywver-the-shoul rs will ling smaller that POV of the we don’t see a ground. In this cas ‘inside cinsia This shot is from in the suit but im in the fore said to be him lis body “inside” the character, that is.
+
+EYE SWEEPS
+
+When an off-screen charactet the screen character may follow with her eyes. Many inexperience tors are reluctant to do this as they think it won’t work. It OK as long as the eye sweep is slightly above o1 As always, it is important that the actor not look dir lens, even for just a moment. The most important thing sweeps is that they match the direction and speed of character. This means that the on-screen actor will move thei in the opposite direction of the movement of the crossing, since are essentially crossing the as when the crossing is shot later, the speed may not match GROUP SHOTS
+
+Scenes with more than three characters generally require deal of coverage. If there is a dominant direction to the arrang of the group, that will most likely dictate a screen direction based on where you shoot the master from. In practice it may b ine in a reverse. If you are shooting the eye sweep first. it may be desirable to shoot a few different speeds sible to shoot from almost anywhere as long as you get the pro answering shots and coverage, however, it 1 arbitrary line and stick to it ence’s perceptions. If there is a dominant character standin; from the group, this will often establish the line a group scene in Ronin illustrates some of these principles 5.58 through 5.63) Notice in particular the sl 5.59 and 5.63. Both are shots down the midd this will reduce contusion in th These ight difference e of the:
+
+ever 1s an over-the-shoulder past the man in the suit while 5.59 « In th are near h not include him. It is more of his PO. ire said t m and his PON S$ Case We we part of him 1s included tn the shot CHASE SCENES
+
+Chase scenes can be problematic for screen direction. A rule of thumb you want to maintain an overall direction witht scene but there is considerable room for variation. When the itself changes direction, your screen direction may change as For car chases especia with opposing shots of the same car from different directions angles cut together dramatically to slightly disorient the audic and emphasize the kinetic nature of the chase. This is in | with Eisenstein’s theory of the “collision” of shots vay be better to picl Irames 1 y. some directors prefer to mix it up more CONVERGING ACTION
+
+Converging action or parallel cutting was first made famous by D.W.
+
+Griffith in J of a Nation (although he had used it before in smaller films). The idea is that as two opposing forces are moving toward each other, the visual tension and pacing should intensily Naturally, they must be moving in opposite directions CUTAWAY EYELINE CONTINUITY
+
+Since cutaways are not part of the main scene but are physically related to it, directional continuity must be maintained between the location of the scene and the cutaway element. This is especially important for cutaways that involve a look from the additional character, which they often do (Figures 5.64 and 5.65). Since you are moving away from the main scene and it is usually for a quick pick-up shot. often you will be up against limitations of the set, your lighting or other problems which will make it necessary for you to cheat the additional character a bit. In this case, it is important to be Since often it is the look that is important, careful about the ey elines | eyeline direc tion is critical.
+
+LOOK ESTABLISHES NEW LINE
+
+Ina related issue, let’s focus on the couple at the table. In our scene of a couple in a restaurant, the conversation between the couple has it’s own line. When she turns to look at the gangster, that establishes a new line which must be respected in all shots which involve the couple at the table and the gangster (Figures 5.67 through 5.69). It does not replace the line established by the couple’s conversation, which must still be used for any coverage at their table. }-THE-SHOULDER COVERAGE er-the-shoulder coverage, the camera height will generally be at eye level for the characters. If the two performers are of unequal height. some modification is usually necessary. In this case. the camera height will approximately match that of the charac- EYELINES IN OVE
+
+W hen shooting ov shoulder you are shooting.
+
+5.64. (above left) This master estal lishes the background group that the man looking to the 5.65. (above) In the cutaway t background group, the directional relationships are maintained most importantly the man \ mustache is still looking to left — there can be no question that he is looking toward the fore ground group.
+
+5.66. (below) For a n in a scene with a 5¢ 1 cnar > sre are several choices 1 straight er-the-shoulder from cter might be too (bottom left)
+
+e establishes < 5.68. (bottom middle) | ea looks off-screen to something é this establishes a new line bewe the two, as in 5.69 (bottom right 5.70. As the action moves, so does the line. The camera position marked with an “X” would reverse the two characters. In rapid action scenes, however, this type of continuity break is not unusual; some directors do it deliberately to increase the sense of frantic confusion.
+
+5.71. (below) The opening frame of a very long slow deliberate zoom out from Barry Lyndon.
+
+5.72. (bottom) The last frame from that same zoom. Kubrick uses this type of slow disclosure thematically throughout the film, always ending in a perfectly balanced formal composition, often based on a painting of the period. The slow zoom out works on many levels, both visually and storywise.
+
+cinematography 96
+
+EYELINES FOR A SEATED CHARACTER
+
+The same principle applies when one or more of the characters is seated or on the floor, but with an important exception. Since shooting over the shoulder of the standing character might be an extreme angle, it also works to keep the camera at the eye-level of the seated performer which makes it sort of a “past the hips shot.”
+
+In situations like this, for the clean singles, when there is a difference in height or level of the characters in coverage, the eyelines may also need some adjustment. This does not apply to over-the-shoulders. as we can see the off-screen performer’s head and thus we know the actual eye-level. In this case the eyeline of the seated characters should be slightly above the lens and the eyeline of the standing character should be slightly below the lens (Figure 5.66).
+
+Be careful not to overdo this. As with all eyelines and cheats, the final judgment should be made while looking through the lens. How it looks and how it will work in editing always trumps a rote rule.
+
+OTS AND INSERTS
+
+Inserts generally are not critical in terms of screen direction except in a general way. One instance where they are important is reading inserts. This type of insert is quite common as the master scene or even an over the shoulder is usually not tight enough to allow the audience to actually read what the character is looking at. In these cases, it 1s important to conform to the eyeline and screen direction of the character reading the material, even if they are not holding it in their hand.
+
+MOVING ACTION
+
+Once you thoroughly understand the underlying principles and the cognitive reasons for the these rules, it is easier to see when there are exceptions and flexibility. It is important to remember that “the line” is not some physical thing that has an independent existence on the set. The line is only in relation to where you have first established the scene by the camera placement of the first shot that appears on screen (Figure 5.70). Also, the line moves, as we saw in the example of the couple and the gangster in the restaurant. Most importantly, in a scene with moving action, such as a fight scene, the line will be shifting constantly.
+
+In highly frenetic fight scenes photographed with lots of angles and cuts to be edited in a rapid fire sequence, the director and editor might want to ignore the line altogether to add a sense of action and disorientation to the scene. In general, however. it is good to observe screen direction rules — especially if the two people fighting are not physically distinct in look or wardrobe. Otherwise the audience might end up rooting for the wrong guy.
+
+INTRODUCTIONS
+
+When you are bringing the viewer into a scene, you can think of it much the same as bringing a stranger into a party. Some of the concepts have been mentioned before, but now let’s consider them in the context of narrative continuity. There are four basic introductions that need to be made: Place, Time, Geography and the Main Characters.
+
+Many aspects of introductions and transitions are functions of the script, but they must be actualized by the director and the cinematographer on the set. Some are improvised at the time of shooting as they may be based on some prop or aspect of the set or location that has not been apparent before. such as a perfect full moon just above the scene, THE PLACE
+
+We need to let the audience know where they are. Establishing shots and variations are discussed in the chapter on Fi/mspace. There is an important exception to this called slow disclosure, In this technique. instead of opening with a wide shot, the scene begins with a tight shot of a character or another scene element. Only as the scene progresses does the camera pull back to reveal where we are and what is going on. This is a variation of the basic reveal where the camera starts on something that either moves or the camera moves past it to show some other scene element.
+
+Not only a master formalist but also a great visualist, Stanley Kubrick uses slow disclosure masterfully in Barry Lyndon (Figures 5.71 and 5.72). Throughout the film, one of the key formal devices is the very long, very slow zoom back. He starts with a telling detai| of the scene and then very deliberately pulls back to reveal more and more. As with so many other aspects of the film (its perfectly composed fixed frames based on paintings of the period, the emphasis on formal geometry and the slow pacing of action and editing) this slow pull back underlines the rigid formalism of society and culture at that time as well as the fatalistic inevitability of Lyndon’s decline.
+
+THE TIME
+
+Beyond where we are, the viewer must know when we are. Internally within the scene, this is either a function of a transition shot or other types of temporal clues. In these two frames from Ronin (Figures 5.73 and 5.74) the director needed to find a way to establish that fifieen or twenty minutes had passed. This can be much more difficult that conveying that days have past or that it was summer and now it’s winter — which can be accomplished by a simple exterior shot of the green trees which dissolves to a shot of the same tree barren of leaves and a layer of new fallen snow on the ground.
+
+Here he has done something very subtle. In the first shot we see the bellboys starting to put decorations on a tree in the hotel lobby. In the second shot, as the camera pans to follow the character’s exit, we see that the decorations have been completed. For the vast majority of the audience, this is no doubt completely subconscious, but it does help to convey the passage of time, THE GEOGRAPHY
+
+This was discussed previously, but it deserves mention here as there are several aspects to establishing the geography which relate to actual shooting on the set, Establishing the place usually just serves the purpose of showing us where the scene will take place. This is just called the establishing shot. Establishing the geography ts a bit different than just letting the viewer know where the action takes place. Where an establishing shot is generally an exterior view of the building, establishing the geography relates to the scene itself, particularly, but not exclusively, the interiors. It is not enough that the audience knows the general location of the scene, it is also important that they have a general comprehension of the layout of the place — the overall geography. This prevents confusion as characters move around or as the camera cuts to other viewpoints or other action within the scene.
+
+THE MAIN CHARACTERS
+
+Introducing the characters is of course mostly a function of the script and the actors but a general principle is to introduce key characters in some way that visually underlines some aspect of their importance, their nature and their story function. Also, making this 5.73. Devices to convey a short passage of time are often more difficult than demonstrating a long passage of time between cuts. In Ronin, the director uses the fact that the Christ mas tree is being decorated in one shot (below).
+
+5.74. (bottom) In the next shot, the tree is fully decorated. Very subtle but the audience will subconsciously register that some short amount of time has passed bewteen the two shots.
+
+cinematic continuit y 5.75. A dramatic and suspenseful introduction of the main antagonist in High Noon. The director delays showing his face until the most dra matic story moment.
+
+“How did the stylistic equivalent of the personal story translate into introduction visually interesting helps the audience remember the character: a form of visual punctuation.
+
+For the entire first half of High Noon, we have been waiting fo1 the arrival of the bad guy on the noon train. He has been discussed, feared, even run away from. Finally we meet him (Figure 5.75)
+
+Zinnemann handles his introduction cleverly. As he first gets off the train, we do not see his face. Then for an entire sequence of shots, we see him being greeted, strapping on his guns — still we do not see his face. Finally, his former lover is getting onto the train: she is leaving town only because he has come back. She turns to look at him and it is only then that we first see his face as his eyes lock with hers. It is a dramatic and distinctive way to introduce him OTHER EDITORIAL ISSUES IN SHOOTING
+
+EDITORIAL FODDER
+
+In the course of shooting the scene, it is important to not be so focused on the essential action and storytelling that there is no thought of the small shots that will help the editor put the scene together in a way that is seamless, logical and also suits the tone, pacing and mood of the sequence. These include cutaways, inserts, and little character type shots that may not be directly related to the scene but contribute to the overall ambiance. Some directors keep a running list of “things to get,” but the safer strategy is to let the script supervisor keep this list.
+
+JUMP CUTS
+
+Disruptions of continuity can result in a jump cut. Although clearly an error in methodology, jump cuts can be used as editorial technique. Truffaut and others of the nouvelle vague in France in the early sixties were among the first to employ jump cuts effectively According to Ken Dancyger, in his discussion of The 400 Blows: editing choices? The moving camera was used to avoid editing. In addition, the jump cut was used to challenge continuity editing and that it implied, The jump cut itself is nothing more than the joining of two noncontinuous shots. Whether the two shots recognized a change in direction, focus on an unexpected action, or simply don’t show the action in one shot that prepares the viewer for the content of the next shot, the result of the jump cut is to focus on discontinuity. Not only does the jump cut remind viewers that they are watching a film, it is also jarring. This result can be used to suggest instability or lack of importance…. The jump cut asks viewers to tolerate the admission that we are watching a film or to temporarily suspend belief in the film.” (Ken Daneyger, The Technique of Film and Video Editing).
+
+THE SIX TYPES OF CUTS
+
+Some aspects of editing are beyond the scope of what we deal with in day-to-day production on the set, but directors, cinematographers and videographers must know most of the major concepts of editorial cutting in order to avoid mistakes and to provide the editor with the material she needs to not only cut the film together seamlessly, but also to control pacing and flow, delineate overall structure and give the scenes and the whole piece unity and cohesion. There are six basic types of cuts, some of which have been touched on above.
+
+They are:
+
+* The content cut * The action cut ¢ The POV cut * The match cut * The conceptual cut * The zero cut THE CONTENT CUT
+
+The content cut applies to whenever we cut to a new shot within a scene only to add new information or carry the story forward. In its simplest form, content cutting is used in the coverage of a conversation. We cut from the master, to the over-the-shoulder, to the close-up. Nothing changes in these shots except the content. We were seeing both of them, now we see one of them, etc. The content cut is just a part of the overall forward progression of the narrative.
+
+As with all cuts, it must obey the basic rules of the line and the 20% rule in order to be cuttable.
+
+THE ACTION CUT
+
+The action cut, sometimes called a continuity cut or a movement cut, is employed whenever action is started in one shot and finished in the next. For example: in the first shot we see him opening the door, in the next shot we see him emerging from the other side of the door, Or: she reaches across the table, then cut to her hand picking up the cup of coffee. Shooting for the action cut must be done properly if it is to work in editing.
+
+First of all, you should always overlap the action. In this example, it would be a mistake to have her reach for the cup of coffee then call “cut” as soon as her arm extends, then proceed to a close-up of her arm coming in to pick up the shot. There is a grave danger that there will be a piece missing which will result in a jump cut. In this ease, if her arm extends only to the edge of the table in the first shot but when we see it in the next shot it is all the way to the middle of the table that missing part will be very noticeable.
+
+Shooting the overlap also gives the editor the choice of exactly when to time the cut. This is important not only for pacing but for continuity as well. Seldom will there be an absolute exact match between her arm movement in the wide shot and in the close shot.
+
+If the editor has some freedom to time the cut, small problems in movement can be smoothed over. In this small example, the overlapping action is fairly small. In the case of entering and exiting doors, getting in and out of vehicles, etc., fairly substantial overlaps should be shot. This is especially true if there is important action or dialog cinematic continuity 5.76 and 5.77. (right and far right)
+
+The characters look followed by a cut to the clock shot from an angle consistent with where their eyes would be. Likewise, their head angle and eyeline must match where the clock is on the wall (High Noon).
+
+cinematography 100 going on during the move. In that case, the editor needs to have the ability to adjust for performance and narrative flow as we sim] In as ple continuity.
+
+shooting close shots which continue the action in a larger shot, it is also important to match the speed of the action. In the case of picking up coffee, the actor may have been in the middle of a big speech as sl Ifa and ye reached for the coffee and thus did it slowly and deliberately good deal of time has passed between shooting the wide shot picking up an insert of the hand picking up the coffee, It is possible that she will not be doing the dialog and all she is doing Is sticking her hand in the frame to grab the cup. In this case, it is very easy for | som ier to forget the pacing of the original shot and think of this as ething independent. The urge is to just stick your hand in and grab tt.
+
+Cutt
+
+Whi of tl ing On Action le shooting for an action cut it is important to always be aware 1¢ possibilities of the cut point. It is always best to cut “on the action.” If someone is seated at a desk and rises to go to the door, you ring want to shoot while he is rising from the chair. If the phone s, you want to cut to the next shot while he is reaching for the phone, and so on. Cutting on action makes for a smoother cut and a mor less e invisible one. The audience is a bit distracted by the action and likely to notice the cut. It also makes continuity and flow much easier. Take the example of answering the phone. Let’s assume that in the medium shot, the phone rings, he picks it up and starts talking.
+
+Chet that 1 we cut to a close-up of him talking. In this case, it is critical his head be in exactly the same position, that he is holding the phone in exactly the same way and his facial expression be an exact match. If any of these fails, it will be bad continuity and will be distracting, Cutting as he reaches for the phone avoids these problems THE The POV CUT
+
+POV cut is sometimes called “the look.” [t is one of the most fundamental building blocks of continuity and is especially valuable in cl oOccl 1eating shots and establishing physical relationships. A POV cut irs anytime a look off-screen in the first shot motivates a view of something in the next shot (Figures 5.76 and 5.77). The simplest Case:
+
+Th
+
+Shot #1: A character looks off screen and up.
+
+Shot #2: A view of a clock tower.
+
+ere will be no question in the mind of the viewer that we are seeing the tower as he would see it; that is from his point-of-view.
+
+Ino rder to do this. the POV shot must satisfy certain conditions Direction of look. If it is to a shot of the clock tower, clearly. he has to look up. Further, he must look up at approximately the right angle. If his gaze only rises about 10°, for example. and the clock tower is ten stories high, it won’t work. Similarly, if we have seen in a wide shot that the clock tower is on his right side. then his look must go to the right as well. * Angle of the POV. The shot of the clock tower must bear some logical relationship to where the viewer is. If we have seen that he is standing on the plaza right under the tower, then we cannot cut in a shot of it as seen from a hundred yards away as seen over the trees.
+
+The POV cut is a classic means of cheating locations. For example, our story is based on him seeing a murder in the building opposite him but unfortunately, the building opposite our location is unavailable for use. In this case, the POV cut from him looking out the window to a POV of his view through the window of the building across the street will sell the concept that he can see the murder.
+
+As discussed in the chapter on Filmspace, it is easy to over-rely on the POV cut to the extent that it makes the scenes artificial and empty. It is always best to get a connecting shot that ties it all together if at all possible, THE MATCH CUT
+
+The match cut is most often used as a transitional device between scenes. An example from a western: the telegrapher sends the message that the governor has not granted a pardon; the hanging will go on as scheduled. From the telegrapher, we go to a shot of the telegraph pole (probably with an audio cut of the clicking of the telegraph). Then from the shot of the telegraph pole we cut to a shot of the gallows: a vertical pole approximately the same size, shape and in the same position as the telegraph pole. One image exactly replaces the other on screen.
+
+One of the most effective uses of a match cut is in Apocalypse Now, where Coppola cuts from the spinning blades of the ceiling fan in the Saigon hotel room to the spinning blades of a helicopter deep in the combat zone. Great care must be taken in shooting both sides of a match cut. It is not enough that the objects be similar in shape: the screen size (as determined by focal length) and the position in the frame must also match. One method is to have a video tape of the previously shot scene and play it back on the director’s video monitor, For precision work, a monitor with an A/B switch allows the image to be quickly switched back and forth from the freeze frame of the video tape to the live picture from the video tap. As an additional guide, a grease pencil or china marker can be used to outline the object on the monitor.
+
+THE CONCEPTUAL CUT
+
+We previously discussed the editorial cut that spans tens of thousands of years used to transition from pre-historic times to the era of space travel in Kubrick’s 2001; A Space Odyssey. This is a match cut because the direction, movement, shape and screen size of the bone almost exactly matches that of the spacecraft. It is also a conceptual cut, however, in that Kubrick is using the bone as a metaphor for man’s very first use of a tool. The spacecraft then is the ultimate result of the first use of tools—a tool that can carry humans into space. These types of cuts are always spelled out in the script.
+
+What is relevant for the cinematographer and the director working on the set is that these shots must be pre-visualized, planned and executed with an eye towards their final purpose.
+
+There are other types of conceptual cuts which are not match cuts.
+
+For example, in a war film, the general might say, “We’ll bomb ‘em back to the stone age.” and slam his fist down on the table. This cuts immediately to a shot of a bomb. The cut is carried over by the action, by the idea and by the sound edit. Audio often plays a role in conceptual cuts.
+
+cinematic continuity 5.78, 5.79 and 5.80. This shot from
+
+Ronin appears to be one continuous pan but in fact when a passing pedestrian wipes the frame, there is a cut which enables the filmmaker to use two entirely different locations as the beginning and end of the same shot iInematograpny THE ZERO CUT
+
+The zero cut is a type of match cut that rarely gets mentioned in discussions of shooting and editing. It is often used in action scenes Near the beginning of f The Last Boy Scout, there is an action scene in which the character is thrown over an embankment. We see him hit the ground in a medium shot, then roll out of the way of an oncoming car. It is very high energy and it is almost impossible to see that what seems like one continuous shot is actu uly two shots cut together. At the moment he hits the ground, there is a cut to another shot from the same angle, same lens and same image size which continues the action.
+
+Technically, this is something you are not supposed to do. Here, it is not intended as an editorial cut at all, it is used to stitch together two shots to make one. It was to put together two pieces of a dangerous stunt so that we see the actor fall over the embankment and then think we see him just missed by a speeding car. when, in fact we are seeing a stunt man in the second shot.
+
+several times in that particular scene.
+
+The same device is used A similar technique 1s used by John Frankenheimer in Rovin (Figures 5.78 through 5.80). In this case, the camera tracks with a man as he walks down a street in Austria. An extra wipes the frame (blocking it entirely for a frame or two) and the character walks on Nothing especially remarkable about the shot. The trick is that it is actually two shots that were done thousands of miles and weeks apart. The first part of the shot was done on location in Europe and the second part of the shot is on a studio lot in Los Angeles. This gives the director the opportunity to use the strong points of two locations combined into one continuous shot.
+
+This technique ts the same as is used by Hitchcock in his “one shot” film Rope — they are what made it possible for him to shoot the entire film so it appears to be one long continuous take, even though a roll of film in the camera lasts only 11 minutes. Although Rope gives the impression of one long take, it is a myth that there are no cuts at all; in fact there are a few, most of them at ree! changes. d)
+
+Na
+
+= VY
+
+O‘av
+
+VY

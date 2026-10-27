@@ -1,0 +1,493 @@
+CHAPTER 7
+
+The Film Image
+
+Unexposed film is called raw stock. After you choose the film gauge—Super 8, 16mm, or 35mm—the raw stock determines much of the look of the film. This chapter is about film stocks, exposure control, and dealing the film lab during production.
+
+PROPERTIES OF THE FILM STOCK
+
+Developing the Image
+
+The top layer of the raw stock, the emulsion, consists of light-sensitive material, silver halide crystals, suspended in gelatin. The crystals vary in size, the larger ones being more sensitive to light. Exposure to light forms a latent image in the emulsion. The latent image becomes visible when the film goes through the developer, a liquid solution that reacts chemically with those silver halide crystals that have been exposed and reduces them to metallic silver, which is opaque to light. At a later stage, crystals that have not been exposed to light are removed by another solution, the hypo or fixer.
+
+The areas of the emulsion most exposed to light end up with the greatest concentration of metallic silver. These are the densest, most opaque areas; they appear dark when you project light through them. Conversely, areas that receive little light end up with less metallic silver and are relatively transparent. This is a negative film (see Fig. 7-2). On the negative, all the brightness values in the original scene are reversed: what was dark in the scene becomes light (transparent), and what was light becomes dark (dense).
+
+Fig. 7-1. A cross section of film. The antihalation backing, which on some stocks is between the emulsion and base, is removed during processing. (Carol Keller)
+
+The emulsion rests on a firm, flexible support material, the base. All currently manufactured stocks have a safety base, usually of cellulose triacetate (acetate) or a synthetic polyester base, such as Kodak’s ESTAR, which is thinner and stronger than acetate. Release prints and intermediates (see Chapter 17) made on polyester can withstand rougher handling and take up less storage space.
+
+Bright light can pass through the emulsion, scatter in the base, reflect off the back of the film, and reexpose the emulsion; this is known as halation. Most camera stocks have an antihalation backing to minimize these unwanted light rays.
+
+The Negative-Positive Process
+
+In the process discussed above, the exposed raw stock became a negative image of the photographed scene after development. If you make a print from the negative, using essentially the same process to reverse the tonalities again, you end up with a positive of the original scene. In the positive, bright areas of the scene end up light (transparent) and dark areas end up dense, which looks normal. The negative-positive process is the standard for film development in 16mm and 35mm filmmaking.
+
+Fig. 7-2. The negative. Fig. 12-33 shows the positive image. (Stephen McCarthy)
+
+The Reversal Process
+
+Reversal film yields a positive image that can be directly projected without the need of a print (like a slide in still photography). Reversal was once the standard process in Super 8 and 16mm, though negative film is now used much more often.
+
+The key to the reversal process lies in the development of the image. The film is exposed to light in the camera to form a latent image. As in the negative process, the developer reduces the silver halide of the latent image into metallic silver. In reversal development, instead of washing away the remaining (unexposed) silver halide crystals, the metallic silver is removed, leaving the unexposed silver halide crystals (which are still light sensitive) in the emulsion. The film is then uniformly exposed to light (or immersed in a fogging agent), exposing the remaining silver halide, and developed again. Thus, the reversal process maintains the relative brightness values of the original scene (light areas in the subject end up transparent and dark subject areas are more opaque).
+
+The Characteristic Curve
+
+A basic knowledge of characteristic curves will help you understand the practical aspects of exposure, which are discussed in detail later. The characteristic curve for a film stock is a graph that shows the relation between the amount of light that exposes the film and the corresponding density built up in the film. To plot the curve, the film is exposed to progressively greater amounts of light in constant increments. The film is then developed, and the densities are measured. For negative stocks, the greater the exposure, the greater the density, whereas for reversal, the greater the exposure, the less the density. Exposure is plotted along the horizontal axis and density along the vertical axis (see Fig. 7-3).
+
+Fig. 7-3. Characteristic curves. (A) A simplified characteristic curve for black-and-white negative film: point A is the base-plus-fog density; B to C is the toe; C to D is the straight line portion; D to E is the shoulder. (B) Characteristic curve for reversal film. The greater steepness of the curve shows the higher contrast of reversal stock. (C) A very high-contrast black-and-white negative stock used for titles. (Carol Keller)
+
+Even when the film receives no exposure, some density is built up. The base itself has some density (it absorbs some of the projected light), and the development process adds an overall light fog to the film. This is the minimum density of the film, also called D-min.
+
+In the negative process, increases in exposure don’t start to increase the density until the threshold of the emulsion, the point where the curve starts to rise, is reached (point B in Fig. 7-3A). Even though a dark area in the scene emits some light, if it falls below the threshold, it won’t produce any change in the density. So, deep shadows appear in a positive print as undifferentiated black with no detail.1
+
+The straight line section of the curve (point C to point D in Fig. 7-3A) is the portion where a given change in exposure produces a constant change in the density. This is normally where we want to expose as much of the scene as possible.
+
+The toe of the curve (point B to point C) is the area of lowest densities—usually the darkest shadows that show some detail—where constant increases in the exposure do not lead to proportional increases in density. The densities here increase more gradually than they do in the straight line section; the slope in the toe is thus less steep (slower rising) than in the straight line section. The shoulder (point D to point E), like the toe, is a flatter curve than the straight line section. Again, constant increases in exposure do not lead to constant increases in density. At point E, increases in exposure do not cause any increase in density. This is the maximum density (D-max) possible in this film.2
+
+If an area of the subject gets exposed high on the shoulder, differences in brightness will not be recorded as significant differences in density. For example, a white wall may be three times as bright as a face, but if both expose high on the shoulder, the difference in their densities will be insignificant (highlights are compressed). In a positive print, this area will appear as an undifferentiated white (blocking of the highlights).
+
+Shadows will show no detail if they fall near the film’s threshold, and highlights will show no detail if they fall too high on the shoulder. Generally, for correct exposure, the important parts of the subject that should show good tonal separation must fall on the straight line section. Shadow and highlight values may fall on the toe and shoulder, respectively, but, if you want some detail, they should not be too close to the outer limits. When you are filming, there are many ways to control exposure in order to control where on the characteristic curve parts of the subject will fall (see below).
+
+Characteristic Curves for Color Film
+
+Modern color film stocks are composed of three emulsion layers; each layer is similar to a black-and-white film emulsion. The top layer is sensitive to only blue light (and records the blue record, or blue part, of the scene). The second layer records the green record; the bottom, the red record. All the colors rendered by the film are created from a combination of the record of these three primaries (see Chapter 8 for more on primaries).
+
+Fig. 7-4. Color negative before (left) and after processing. Yellow and red couplers are found in the green- and red-sensitive emulsions to compensate for deficiencies in color absorption of the magenta and cyan dyes.
+
+Incorporated into each of the three emulsion layers is a group of dye couplers that release dyes of the appropriate color during development (see Fig. 7-4). The more exposure a particular emulsion layer receives, the more color dye that remains after development. The three color layers will be recorded with the dye color of each layer’s complementary color; thus the blue, green, and red colors in the scene will be recorded with dyes colored yellow, magenta, and cyan, respectively.
+
+Because of imperfections in the absorption of color dyes in negative stocks, an orange masking is added to compensate. Reversal films have no need for color masking.
+
+Film Speed and ISO
+
+The speed of a stock is a measure of its sensitivity to light. The “faster” a film stock, the less light it needs to produce an acceptable exposure. The exposure index (EI) expresses the speed as a number that can be used with light meters to help determine proper exposure. The film manufacturer recommends an exposure index for each stock that is usually given in the form of an ISO number (from a variant name of the International Organization for Standardization). The ISO number is an updated form of the ASA number and many people use ISO and ASA interchangeably. The DIN number is a similar speed-rating system developed in Germany and is marked with a degree sign. On the label for Eastman Kodak stocks you will find the exposure index indicated with both an ISO and a DIN number (see Fig. 7-7). EI 500/28° means ISO 500, DIN 28.
+
+A medium-speed emulsion will be rated around ISO 100. ISO speeds below 50 are usually considered slow. Fast or high-speed emulsions are rated ISO 200 or higher. Doubling the ISO number means that the film will be twice as sensitive to light. A film rated at ISO 100 needs only half the exposure (that is, one stop less) than a film rated ISO 50. The faster film can be used in conditions with less light or to allow a smaller iris opening on the lens.
+
+Black-and-white emulsions are sometimes rated by two exposure indexes, one for tungsten illumination and the other for daylight. The tungsten rating is generally about one-third of a stop slower than the daylight rating, representing the emulsion’s lower sensitivity to the red end of the spectrum.
+
+Color film stocks are also rated with one EI for tungsten light and one for daylight. Here the implication is that you will use a filter for one type of light, and some light will be absorbed by the filter. For example, a tungsten-balanced stock rated ISO 500 will be rated ISO 320 for use in daylight with an 85 filter (see p. 309).
+
+The manufacturer’s recommended exposure index is intended as a starting point. It is not unusual for cinematographers to rate the film at a slightly different ISO (see The Light Meter and Exposure Control, p. 286, for more on varying the EI).
+
+CONTRAST OF THE IMAGE
+
+Contrast measures the separation of tones (lights and darks) in an image. The higher the contrast, the greater the separation between tones (see Fig. 7-5). See Understanding and Controlling Contrast, p. 191, for an overview, and for how contrast and gamma apply to digital images. In film, many of the concepts are very similar, though gamma is defined differently.
+
+Contrast and Gamma
+
+Low-contrast images are called “flat.” High-contrast images—with good tonal separation—are called “contrasty” or “hard.” An image with good contrast range has “snap.”
+
+To visualize the idea of tonal separation, imagine two parts of a scene that have somewhat different brightness (say, the bright side of the man’s face and the shadowed side in Fig. 7-5). With low contrast (left image) the dark and light tones are close together; with high contrast (right image) the tones are much more different, there’s more separation between the dark and the light. Also see Fig. 5-5.
+
+Fig. 7-5. Varying degrees of contrast. (left) Low-contrast image looks flat and dull. Note muddy blacks and lack of bright whites. (center) Normal contrast. (right) High-contrast image has bright whites and deep blacks but lacks midtones. Note loss of detail on bright side of face and dark sweater. (Stephen McCarthy)
+
+The steepness of the film’s characteristic curve (mathematically, the slope) indicates the amount of contrast at any point on the curve. The steeper the curve, the higher the contrast, and thus the greater the separation of tones. Gamma (, defined as the slope) is a measure of the steepness of the straight line section of the characteristic curve. Increasing gamma means increasing the contrast of tonalities that fall on the straight line section.
+
+The straight line section is steeper than either the toe or the shoulder portion, so areas of the subject that are exposed on the straight line section will show more tonal separation (contrast) than areas that fall on the toe or shoulder.3
+
+With video systems, “gamma” refers particularly to the contrast of the midtones. Video gamma curves have a different shape than film curves, resulting from the different ways the two systems respond to light (see Figs. 5-7 and 5-9).
+
+FORCE PROCESSING AND GAMMA. Gamma depends on both the nature of the particular film stock and the way it’s developed at the lab. Increasing gamma also increases the sensitivity of the film to light (it effectively raises the ISO number; see p. 275); when done for this purpose, it’s called force processing or pushing.
+
+Force processing may be used when there is insufficient light to shoot. For example, a film rated ISO 100 is exposed as though it were rated ISO 200 to effectively double its sensitivity. The lab is then instructed to “push one stop” to compensate for the underexposure by increasing development time. Some stocks can be pushed one to three stops, but force development increases graininess, sometimes to a degree that makes the image unacceptable.
+
+When you’re force processing, change the ISO/ASA speed on the light meter for exposure calculations. When pushing one stop, double the ISO number; when pushing two stops, multiply it by four.
+
+Fig. 7-6. Force processing. As the development time increases, the characteristic curve becomes steeper (contrast increases)—because the brighter parts of the scene (right side of graph) respond more to increased development than the darker parts. Fog level also increases with development time. (Carol Keller)
+
+Pushing increases contrast because areas in the scene that fall on the straight line section and the shoulder increase in density more than those on the toe (see Fig. 7-6). Middle tones in the scene that would have otherwise been underexposed can get a significant boost from pushing.
+
+However, pushing does not generally raise the threshold of the film, so pushing will not result in much more detail in the shadows. When we are concerned with “seeing into the shadows,” stocks with long flat curves do best; pushing helps little. When reversal stocks are pushed, the blacks often become muddy and look grayish (a lower D-max).
+
+Bleach Bypass
+
+Another way to increase contrast in development is to use the bleach bypass process (sometimes called skip bleach). The film is processed without the bleach that would normally cause the silver grains to be removed. Metallic silver is left in the emulsion along with the colored dyes. The result is increased contrast, desaturated colors, and washed-out highlights. Some cinematographers use this to create a special look. This should be undertaken with tests only and the lab may not guarantee the results. If you are transferring to digital and then making a D.I. or film-out (see Chapter 17), you may be able to achieve these effects digitally without doing bleach bypass in processing.
+
+Reducing Contrast in the Film Stock
+
+Gamma can be increased via force processing, which affects the rendering of bright areas in the scene more than it does the dark areas. Gamma can be lowered by underdeveloping (pulling) the film in the lab. Pulling reduces film speed, grain, and contrast. If this is planned, the film is overexposed during shooting, then underdeveloped to the same degree. For example, you might rate the film at half its normal ISO (use ISO 50 for a film normally rated at ISO 100), then instruct the lab to pull by one stop. With some stocks, pulling can result in a rich image with subtle shading. Be sure to check with the lab first; not all stocks can be successfully pulled and the lab may not perform this service. Pulling is sometimes done for footage that is accidentally overexposed in shooting.
+
+Another way to reduce contrast is by flashing, a process in which the film is uniformly exposed to a dim light either before (preflashing) or after (postflashing) the scene is photographed. This exposure increases the exposure of shadow areas, but it has little effect on the bright areas. It thus lowers the contrast and may also bring out some shadow detail.
+
+You may not like the way flashing increases graininess, desaturates colors, and imparts a milkiness to the image, especially in the shadow areas. Be sure to consult your lab and make tests before flashing footage. This effect may be achievable—at least in part—in digital post without requiring changes in shooting or processing.
+
+SHARPNESS
+
+Definition, or sharpness, expresses the degree of clarity in an image. There are several physical measurements that more or less correspond to the viewer’s sensation of sharpness.
+
+Resolution and MTF
+
+Resolution, or resolving power, is the ability to record fine detail in the image. Resolution in film is measured by photographing a test chart with sets of parallel lines in which the space between the lines is equal to the thickness of the lines, the thickness progressively diminishing. The image is then examined under a microscope to determine the greatest number of lines per millimeter that can be distinguished. Resolving power is of limited use for predicting the viewer’s evaluations of sharpness, since those perceptions are highly dependent on the contrast in the image—the higher the contrast, the sharper the image appears. An image may have a very high resolution, say 100 lines/mm, but will not appear to be sharp if the contrast is excessively low. Modulation transfer function (MTF) measures contrast and is a better indicator of perceived sharpness. For more on MTF, see p. 234.
+
+Graininess and Granularity
+
+The photographic image is composed of small grains of metallic silver, or, in the case of color films, masses of dye that create a roughness in the image. The viewer’s perception of this roughness is called graininess, and the objective measurement that attempts to quantify it is known as granularity. Graininess is usually considered to be an undesirable element but some grain structures may look beautiful, while others merely impair the image.
+
+In general, faster films are made up of larger silver halide crystals and thus appear grainier. Fine-grain emulsions are usually found in slower film stocks. Generally, slightly overexposing color negative film results in less graininess, whereas in black-and-white overexposure causes an increase in graininess. Graininess varies with subject matter. A blue sky that is not overexposed will show more graininess than a landscape.
+
+CHOOSING A RAW STOCK
+
+As you prepare to shoot a movie, you select which stock or stocks to use for the project. Seek advice, do tests, and find out what stocks were used for movies that have a look you like. For the latest listing of available stocks, check the manufacturers’ websites.
+
+Every film stock has a particular palette, or range of colors or tones it creates on screen. How film stock will ultimately perform depends on the choice of stock, the exposure, the processing, and the filters used, among other things. Different laboratories may make the same stock appear quite different in terms of color, grain, and sharpness. Kodak’s Look Manager System is a digital tool that can help previsualize various choices on a laptop using test stills shot with a digital camera.
+
+Some movies are still printed the old-fashioned way, from the camera original film to print stock. However, today most movies shot on film are transferred to digital and all subsequent distribution comes from digital masters (see Chapter 16). Working in digital opens up many opportunities to change the look of the image in postproduction, which you should factor into the choices you make during the shoot.
+
+Negative Versus Reversal
+
+Most movies are made with negative stocks and if you’re thinking of starting a project in 16mm or 35mm, think first of negative. There are more stocks available in negative than in reversal. Negative can handle a greater range of lighting conditions and is more forgiving of exposure errors. If you want to minimize costs, you can shoot reversal and project or edit it without making a print; however, this puts the original at great risk of scratching and should not be done for important projects. The traditional Super 8 home movie is reversal original (though negative Super 8 is available) and some people like the look. If you plan to edit and distribute digitally, you might just as well start with negative.
+
+Film Speed
+
+Film speed is often the key element in the selection of the raw stock. In general, the faster the speed, the more flexibility you have. Not only is it easier to shoot in available light, but supplementary lighting need not be as bright, cutting lighting costs and creating a better environment for the actors or subjects. High-speed film stock allows the lens to be stopped down to increase depth of field. On the other hand, high-speed films may produce a poorer-quality image, with more grain and less sharpness (though there are exceptions). As a rule of thumb, select the slowest film that allows you either to shoot at a preferred f-stop or to get an adequate exposure in situations where you can’t use lights (important in documentaries). At this time, the range of standard color negative films extends from ISO 50 to 500. Documentary cinematographers who shoot in unpredictable available light situations often look for the fastest film of acceptable quality. On many productions, two or more stocks are used: a slow speed for exteriors and higher speeds for interiors or night work. Often, two different stocks are used for the same movie, but they look too different to be intercut in the same scene.
+
+PUSHING. Film sensitivity can be increased with forced processing (also called pushing, see p. 277). Some stocks can be pushed a stop or more with acceptable results; others show objectionable graininess when pushed even one stop.
+
+Daylight Balance Versus Tungsten
+
+For a discussion of color balance and film stocks, see Chapter 8.
+
+Film stocks are generally made to be used without a filter with either tungsten illumination (professional lighting at 3200°K) or daylight. Eastman Kodak uses the letter T or D after the ISO number to indicate the type (100T film is ISO 100, tungsten). Fuji uses a similar system. Films balanced for tungsten light can be used in daylight with an 85 filter. Similarly, films balanced for daylight can be used in tungsten light with an 80A filter.
+
+If you plan to shoot exclusively in daylight (either outdoors or in a window-lit interior), then it makes sense to use daylight-balanced film. However, because the 80A filter cuts out two stops of light, this can cause problems when you shoot indoors with tungsten illumination. Two stops are a lot to lose when you’re lighting a scene—you need four times as much light to compensate. (Of course, you could use daylight-balanced lighting units such as HMIs.)
+
+For most filming situations, it’s generally a better idea to order tungsten-balanced film. This allows you to shoot indoors with a minimum amount of artificial light (since no light is lost to the filter). When you shoot outside, the two-thirds stop lost by the 85 filter is usually not a problem. In fact, often you need additional ND filters to cut the light level down even more. In some situations you can shoot tungsten-balanced film outdoors with no filter (see Chapter 8).
+
+Contrast and Film Stocks
+
+Compared to high-contrast film stocks, low-contrast stocks have a longer, more gently sloped characteristic curve and can handle a greater range of brightness in the scene (they have greater exposure range or latitude; see p. 296). Generally, the slower a stock is, the greater its latitude will be—but not always. Negative stocks have greater latitude than reversal. Higher-contrast stocks often tend toward deeper, more saturated color.
+
+Some stocks are designed especially for direct transfer to digital. These feature low contrast (great exposure range) and color rendering that is well matched to the telecine. In fact, one of the key benefits of shooting in film versus digital is that many film stocks can handle greater contrast range than traditional video cameras, allowing you to capture details in both highlights and shadows that can be brought out in the digital transfer. See Chapter 16 for more.
+
+PACKAGING, HANDLING, AND PURCHASING
+
+Most cameras use core-mounted film. The film roll is wound around a plastic hub (the core) and must be handled only in darkness (see Fig. 6-13). Some cameras accept daylight spools, which are solid metal reels that allow the film to be loaded in light. See Camera Film Capacity, p. 262, for a detailed discussion of roll lengths and camera loading procedures.
+
+Film stocks have a multidigit identification number (see Fig. 7-7). The Kodak film in the illustration has the number 5279 184 1704. The film type is 5279; the “52” tells us this is a 35mm stock. If it were 16mm, it would start with “72” instead (7279). Experienced filmmakers often refer to stocks only with the second two digits, as in, “give me two rolls of 79.” The remaining parts of the ID number are the emulsion batch number and the roll number from which this piece of film was cut. It’s a good idea to note the entire number as a check against potential problems (see p. 265).
+
+Fig. 7-7. Film label and enlarged details. This label is for Kodak 5279 color negative film, also called Vision 500T (now discontinued). The newer version is 5219 (Vision3 500T). (Eastman Kodak Company)
+
+Perforations
+
+Super 8 film is perforated on one side (single-perforated, or single-perf), while 35mm film is perforated on both sides (double-perforated, or double-perf). Film in 16mm may be single- or double-perforated (see Fig. 1-34). Double-perf film can be used in any camera and has a slight advantage over single-perf when cement-splicing the original. When shooting Super 16 you must use single-perf. The standard 35mm frame spans four perfs, but there are also three-perf and two-perf 35mm formats (see Chapter 1), which all use identical 35mm film stock.
+
+Windings
+
+16mm raw stock perforated on one edge and wound with the emulsion side in has two possible windings, designated winding A and winding B (see Fig. 7-8). Camera original is almost invariably in winding B. Stock in winding A is generally used only by labs for printing.
+
+There’s another laboratory use of these terms that often leads to confusion: A-wind and B-wind are used to distinguish whether the picture “reads correctly” (that is, not flipped left to right) when viewed facing the emulsion side (A-wind) or when viewed facing the base (B-wind). An easy way to remember this is that B-wind film reads correctly through the base. B-wind is also called camera original position.
+
+Fig. 7-8. Emulsion position and winds. (A) Film can be wound base out or emulsion out. (B) Single-perforated film in 16mm, wound base out, can be winding A or winding B, depending on the position of the perforations as shown. (C) With the base facing you, B-wind film reads properly through the base, while A-wind film will be reversed or flipped. Note that the key numbers usually read the same as the image. Compare with Fig. 16-12. (Carol Keller)
+
+Key Numbers and Edge Identification
+
+Along the edge of 16mm and 35mm film, the manufacturer exposes a latent image with information such as the name of the manufacturer, the film identification number, and a running footage count. This information is readable after the film is processed, and it can be printed from the negative to another piece of film. The numbers that track the footage are called key numbers or latent edge numbers. Key numbers allow each frame of film to be identified by number and are indispensable for conforming the original.
+
+Most film stocks also have a machine-readable bar code version of the key number. This is generically called keycode (Kodak calls its system Eastman Keykode; Fuji calls its MR Code). When editing film digitally, keycode is tremendously useful because it allows the telecine and other machines to automatically identify and find each frame of film.
+
+In 16mm, key numbers are printed every half foot (20 frames). When counting frames in 16mm there is a dot at the beginning of the number, which is the zero-frame reference mark. In Fig. 7-9, you can see the dot to the left of the “M” in the key number M69 1234 7880. This is the frame that should be considered exactly 7880. The next frame going toward the tail (in the direction of 7881) would be 7880 + 1. The frame on the other side of the mark going toward the head (in the direction of 7879) would be 7879 + 19.
+
+Fig. 7-9. 16mm key numbers and Keykode. (Eastman Kodak Company)
+
+In 35mm, key numbers are printed every foot (16 frames for standard four-perf cameras). There is also a midfoot key number to help identify short pieces of film; this is located thirty-two perforations from the main number. When counting frames in 35mm, the zero-frame reference dot immediately follows the last four digits of the key number. Thus, for the key number KJ 23 1234 5677, the frame where the dot falls is 5677. The next frame going toward the tail (in the direction of 5678) would be 5677 + 1. The frame on the other side of dot (going toward the head) would be 5676 + 15.
+
+Fig. 7-10. 35mm key numbers and Keykode. (Eastman Kodak Company)
+
+There are so many types of coding and numbering schemes in filmmaking that the names (and concepts) can be easily confused. Here are some things that key numbers and keycode are not:
+
+Ink edge numbers (sometimes also called edge code, Acmade numbers, or just edge numbers). Generated by a machine that stamps an ink number on film workprint and mag sound to aid in synchronizing.
+
+In-camera timecode. Generated by some cameras and exposed on the edge of the film during shooting (see Fig. 6-14).
+
+Video (telecine) timecode. Generated during the film-to-digital transfer for use in video editing; not printed on the film (see p. 692).
+
+For more on telecines, key numbers, and timecode, see Chapter 16.
+
+Handling Film Stock
+
+Over time, unprocessed film may lose speed and contrast and may shift in color. Aged film may shrink and become brittle. Kodak recommends using raw stock within six months of purchase. Avoid heat when storing film. The lower the temperature, the slower the aging process. An automobile left in the sun can heat up above 140°F (60°C), and film in the car can undergo significant changes in a matter of hours.
+
+If storing film for up to three months before use, keep it below 55°F (13°C) at relative humidity of 60 percent or lower. Put it in a refrigerator when possible. Whenever storing film for more than three months, put it in a freezer, ideally at 0° to −10°F (−18° to −23°C). Pack film in plastic freezer bags to control humidity. After you remove the stock from cold storage, allow it to come to room temperature before breaking the moistureproof seal.
+
+Once the seal is broken, expose the film as soon as possible, and then, after exposure, have it processed as soon as possible. If processing must be delayed, avoid high temperature and humidity. If the cans are resealed with the moistureproof tape, a household refrigerator may be used to store the film, although a freezer at 0°F is preferred. Though not recommended, we have found that some exposed stocks maintained an excellent image when frozen for more than a year prior to processing. Store processed film in a cool, dry place, at 70°F (21°C) or lower.
+
+AIR TRAVEL. When traveling through airports, beware of X-ray machines! Unprocessed film can tolerate some X-ray exposure, but excessive amounts will increase the fog level and grain. X-ray machines used for carry-on baggage shouldn’t cause noticeable damage to most films. X-ray exposure is cumulative, so repeated X-ray inspections are most problematic, especially for high-speed films. Sometimes you do best by hand-carrying the film and asking for a hand inspection at the gate. However, some inspectors will demand to look inside the film cans! Bring a changing bag in case. Sometimes you can contact the airport manager in advance to get a manual inspection.
+
+In the past, one solution was to pack the film in a cooler lined with lead foil and send it as baggage. However, newer baggage X-ray machines are far more powerful (and damaging to the film) than the ones used to inspect hand-carried items. Kodak recommends never shipping unprocessed film as checked baggage on commercial airlines. Check the X-ray policies of commercial couriers such as FedEx and UPS to see if they scan packages for domestic or international flights. Consider using an export company or customs broker to ship the film and do all the paperwork. Another possibility is to process the film in the area or country where you’re shooting. Be sure to label film (“Photographic Materials—No X-ray”). Normal X-ray inspection shouldn’t damage film that’s already been processed, audio- or videotapes, or digital memory.
+
+Purchasing Raw Stock
+
+Order raw stock from the manufacturer’s catalog by catalog number and stock name. For example, ordering Kodak Vision3 500T film allows numerous further possibilities, but the catalog number, 8738304, identifies the stock as 5219, 35mm, 400 feet on core, emulsion in, standard perforations.
+
+Use fresh raw stock. Order it to arrive a week or so before it is needed rather than months in advance. If you encounter a raw stock of an unknown age, the manufacturer can tell from the emulsion number when it was manufactured. Of course, this tells you nothing about its past storage conditions. There are businesses that sell previously owned, unexposed stock including short ends (parts of complete rolls) for a discount. Test a roll by sending twenty feet of unexposed stock to the lab to be developed and checked for increased fog, which, if present, is a sign of poor storage or possible exposure to airport X-ray machines.
+
+THE LIGHT METER AND EXPOSURE CONTROL
+
+Many of the ideas in this section build on concepts introduced in Properties of the Film Stock, p. 271.
+
+Exposure
+
+When you’re filming a scene, there is no single “correct” exposure. We might say that a scene is properly exposed when the image on film looks pleasing to the eye and important elements in the scene are shown with sufficient detail. If a close-up of a person’s face is significantly overexposed (that is, too much light is allowed to strike the film), the face on screen will look too bright and facial details will be washed out. If the shot is seriously underexposed, the image will look very dark and muddy. In both cases, facial details are lost—either because they are washed out or because they are indistinguishable from parts of the emulsion that have received no exposure at all.
+
+When shooting negative film, the negative is exposed in the camera and then a positive print or video transfer is made to view the image. Compare the negative image in Fig. 7-2 with the positive in Fig. 12-33. You can see that the dark parts of the positive image (the man’s sweater and the doorway on the left side) are quite thin and transparent on the negative. The light parts of the scene (the bright side of his face and the splash of sun on the back wall) show up in the negative as dark and relatively dense (thick or opaque). For an area in the scene to be rendered with good detail, that area in the negative needs to be sufficiently dense and detailed. Areas where the negative is too thin and transparent will have relatively little detail in the positive print or on video. In this image, the sweater or the doorway might be considered “underexposed” in the sense that they show up in the positive image as very dark and lacking much detail. However, in the context of the whole picture, this lack of detail seems natural. The most important part of this scene is the man’s face, and as long as his skin tone appears naturally bright and rendered with good detail, other parts of the scene can be allowed to go brighter or darker. Thus, “correct” exposure means identifying what’s important in the scene and exposing that properly.
+
+If important details are visible on the film after processing, shots that are slightly too bright or too dark can be corrected when the film is printed or transferred to digital. When shooting with color negative stocks, you want to avoid significant underexposure because the resulting negative will be thin and without detail. When shooting reversal stocks, significant overexposure will result in the film being thin and lacking in detail. With both negative and reversal, the goal is to expose in the middle of the range, to capture detail in both the bright areas (the highlights) and the dark ones (shadows), so the overall exposure seems natural and pleasing.
+
+LIGHT METERS
+
+Meter Types
+
+Light meters (also called exposure meters) allow us to measure light intensity so we can control exposure of the film stock. There are two types: incident meters measure the amount of light falling on the subject and reflected meters measure the amount of light reflected by the subject. Some meters can take both incident and reflected readings, though some are designed primarily for one type of reading and are inferior for the other.
+
+Fig. 7-11. (left) The reflected meter is pointed at the subject from the direction of the camera. (right) The incident meter is held in the same light as the subject and pointed toward the camera. (Carol Keller)
+
+The most useful meters give you a direct reading of f-stops when you push a button (see Fig. 7-12). Less useful are meters that require you to find the f-stop using a calculator dial on the meter (see Fig. 7-13)—time is precious when shooting. Most modern meters have a digital readout and use batteries.
+
+Reading the Meter
+
+In controlling exposure, you are regulating the amount of light that strikes each frame of film. The amount of light is determined by how long the shutter is open (the shutter speed, determined by the shutter angle and the camera speed) and how much light passes through the lens during this time (affected by the iris diaphragm setting, the filters in use, light loss in the lens, and light loss in the viewfinder optics). Usually the meter is set to compensate for all the other factors, then the light reading is used to determine the proper iris setting (that is, the f-number) for a particular shot.
+
+Fig. 7-12. Sekonic digital meters that can take both incident and reflected readings. (left) L-758DR. (right) L-308DC. (Sekonic)
+
+For typical film cameras, the shutter angle is about 180 degrees and, when run at sound speed (24 fps), the shutter speed is about 1⁄50 second. The shutter speed for any camera can be found in its instruction manual or can be easily calculated if you know the shutter angle (see Chapter 6). If you change the camera speed (for example, to produce slow-motion effects), you will alter the shutter speed.
+
+The meter must be set to the proper film speed (ISO) for the film stock you are using. Remember to compensate for filters you may be using (for example—when shooting in daylight with tungsten-balanced color film—see Chapter 8). Cameras with built-in meters usually compensate for filters automatically and, in Super 8, the ISO and shutter speed may be set automatically as well. With direct-reading meters, the shutter speed is also set on the meter so that f-stops can be read directly when the trigger is depressed.
+
+On meters with calculator dials, the indicator needle is read against a numbered scale (see Fig. 7-13). Set this number on the calculator dial. You will find the shutter speed on the shutter speed scale (sometimes labeled time or zeit), which is marked in fractions of a second (’60, ’30, etc.). You can then read the f-stop opposite the proper shutter speed. With cameras equipped with 175- or 180-degree shutters, you may find it easier to read from the cine scale. This is marked in frames per second (64 fps, 32, 16, etc.) and usually has a bold mark at 24 fps, corresponding to 1⁄50-second shutter speed. After you have thus determined the f-number, you can set the lens’s iris accordingly.
+
+In most circumstances, it doesn’t pay to be more precise than about one-third of a stop when calculating exposures; few meters are accurate enough and few film stocks (especially negative stocks) will show the difference.
+
+Fig. 7-13. Calculator dial found on Gossen Luna-Pro meter. The film speed window indicates that the meter is set for ASA 100 film. The light reading (16) is set opposite the triangle in the window just below the ASA setting. A camera with a 180-degree shutter run at 24 fps has a shutter speed of 1⁄50 second (50 can be found on the time scale between ’60 and ’30). The f-stop is read opposite this point. Alternatively, the f-stop could be read opposite the 24 fps mark on the cine scale (found between 32 and 16). The meter indicates a reading between f/5.6 and f/8. (Carol Keller)
+
+Fig. 7-14. Intermediate values on the f-stop scale. Above the scale are one-third stop increments; below the scale are half-stop increments. (Carol Keller)
+
+VIEWFINDER OPTICS. With cameras that have internal beam-splitter viewfinders (for example, most Super 8 cameras and the 16mm Bolex), some light is diverted from the film to the viewfinder (see Fig. 6-8). When you use a handheld light meter rather than a built-in one, do not set it to the actual shutter speed (based on shutter angle and frame rate); instead, use an effective shutter speed that compensates for light lost in the viewfinder. The effective speed is always faster. On some Bolexes at 24 fps, actual speed is 1⁄65 second, effective is 1⁄80. Your camera’s manual should indicate the proper setting.
+
+F-STOPS AND T-STOPS. F-stops do not take into account light lost internally in a lens, whereas T-stops do (see p. 153). When you use a professional lens marked in T-stops (sometimes a red scale on the opposite side of the iris ring from the f-stops), use the T-stops instead of the f-stops for all exposure calculations. Ignore the fact that light meters are marked in f-stops. T-stops should also be used whenever you are filming with more than one lens.
+
+The Angle of Acceptance
+
+All meters built into still and movie cameras are of the reflected type. Built-in, through-the-lens meters may average together the light from the entire frame (called averaging meters), they may read only the light from objects in the center of the frame (spot meters; see Fig. 7-15), or they may read the whole frame, giving more emphasis to the center (center-weighted meters). Consult your camera manual to find out what part of the frame your meter reads.
+
+Handheld reflected meters have a window over the photocell that allows light to enter from an angle of acceptance (usually between 15 and 60 degrees). Some meters are designed to simulate the angle of view of a “normal” lens, but the meter may read a wider or narrower area than the lens you are using. All the light reflected by objects within the angle of acceptance is averaged together, so if you are trying to read the light from an individual object, it is necessary to get close to it. Handheld spot meters are simply reflected meters that have a very narrow angle of acceptance, often 1 degree or less. They can be used to read the light from small areas at a greater distance.
+
+Fig. 7-15. (top) A typical reflected light meter has a wide angle of acceptance (about 40 degrees here) and averages areas of differing brightness. (bottom) A spot meter (pictured here with a 5-degree angle of acceptance) can isolate a small area in the subject. (Carol Keller)
+
+TAKING READINGS
+
+Exposure and Incident Light
+
+The exposure of an object on film is related to the amount of light falling on the object—that is, the incident light. Incident light can be measured with an incident light meter that has a translucent plastic hemisphere (or hemispherical diffuser), which simulates the light-gathering ability of a typical three-dimensional subject—specifically, the human head. The incident meter is held at the position of the subject (or in the same light) and is pointed in the direction of the camera. The meter averages together the light coming from the front, the sides, and, to a lesser extent, the back of the subject. Be sure not to block the light with your body when you take a reading.
+
+Many cinematographers use incident meters almost exclusively. Incident light readings are quick and easy to do, and they usually result in proper exposure of facial skin tones. Faces, especially in close-ups and medium shots, are often the most important element in the frame.
+
+Incident meters are preferred when studio lighting is used because they conveniently indicate how much light is contributed by each light source. In this case, the hemispherical diffuser may be replaced with a flat disc diffuser that can more easily be aimed at one light at a time.
+
+Incident meters are often advantageous in those situations in which it is difficult to approach the subject to take a reading. If the subject is fairly far away outdoors, you can take an incident reading from the camera position (assuming it is in the same light), and—unlike a reflected reading—it won’t be thrown off by large expanses of sky or other extraneous elements. Unlike the reflected meter, the incident meter is useless when you film something that emits light (like a television screen), when you film through something that filters light (for example, a tinted car windshield), or whenever the meter cannot be placed in the same light as the subject.
+
+INCIDENT METERS AND CONTRASTY SCENES. Some scenes contain a great range of incident light and the incident reading must be interpreted and not used directly. Consider the example of filming people by a building on a sunny day. If you take an incident reading near the people in the shadows, and then set the exposure accordingly, the people in the sun are likely to be drastically overexposed. Conversely, if the incident reading is taken in the sun, the people in the shadows will be underexposed. This can happen to varying degrees with all film stocks. The reason is that the range of brightness in the scene (the lighting contrast; see p. 476) exceeds the film’s sensitivity range (latitude or exposure range; see p. 296).
+
+Fig. 7-16. A scene with high lighting contrast. (left) If you take a light meter reading in the sunlit area and expose accordingly, the shadow area is underexposed. (right) If you take your reading in the shadows, the sunlit area is overexposed. (center) A compromise exposure, slightly underexposing the figures in the shadows. Film stocks vary in their ability to handle high-contrast scenes. (Steven Ascher)
+
+In Fig. 7-16, the figures in the foreground are lit by direct sun and the figures in the background above them are in shadow. Had you witnessed this scene with your naked eye (and a dramatic scene it was), you would have had no problem seeing detail in both the shadow and sunlit areas. This is because the eye’s retina has a great range of sensitivity and your iris constantly adjusts the amount of light that strikes it. Film stocks, however, have a much narrower range of sensitivity. The image on the left is exposed for the sun. The image on the right is exposed for the shadows. The image in the center is a compromise exposure that attempts to split the difference.
+
+Other approaches to this contrast problem include adding light to the shadow areas to reduce contrast or using a lower-contrast film stock that has greater latitude.
+
+Exposure and Reflected Light
+
+The incident reading tells us how much light is falling on the subject, but the subject’s exposure on film actually results from the total amount of light reflected by the object in the direction of the camera’s lens, which depends on what percentage of the incident light is reflected by the object (that is, its reflectance). Subject reflectance is determined by color and surface texture; a dark-colored, textured object reflects less light than a light-colored, smooth one does. For example, a dark wool sweater in the sun (low reflectance, high incident light) might produce the same amount of exposure as a bright white car in the shade (high reflectance, low incident light). That is to say, their brightness (luminance or intensity) is the same.
+
+To see how reflectance relates to incident light, look at the middle image in Fig. 7-16. Of the figures in the background, the tiger and the figure in the middle receive equal amounts of incident light, but the white, reflectant tiger produces more exposure than the dark clothes of the man next to him.
+
+The amount of light reflected by the subject can be measured with a reflected light meter. This meter can give more precise readings than the incident meter, especially for subjects whose reflectance is not near that of facial skin tones, but it requires more care to use properly. It can also be used in certain situations, like filming through a window, where the incident meter would be useless. The reflected meter is pointed at the subject from the camera position (or closer). The reflected reading must always be interpreted and never taken at face value.
+
+UNDERSTANDING THE REFLECTED READING. When film is exposed, developed, and then projected on a screen or transferred to video, it can produce a range of tonalities from dark black (where the dense film holds back the light) to bright white (where most of the light shines through). The tone in the middle of this range is called middle gray. Reflected light meters are designed so that if you take a reading of any uniform object and then expose the film accordingly, the object will appear as middle gray on film. So, if you take a reading of an “average” subject, it will appear in the middle of the tonal range on screen and it will look natural. But what if the subject isn’t average? Say you take a reflected reading of a black cat. This will result in the cat appearing on screen as middle gray—which means the cat will be unnaturally bright and other objects in the scene will probably be very overexposed. If you want dark objects to appear dark, you must give them less exposure than the reflected meter reading of the object would indicate. Similarly, for light objects to appear light, they must be given more exposure than the meter suggests.
+
+A gray card, or neutral test card, is a piece of dull gray cardboard that reflects 18 percent of the light that strikes it. This card is intended to represent an indoors object of “average” reflectance. If you take a reading of the gray card and expose the film accordingly, the tonality of objects in the scene will usually look natural on film—neither too light nor too dark.
+
+Gray cards are available at photographic or film supply stores. It’s a good idea to carry one. Keep it protected in an envelope. As an experiment, set up a gray card facing the camera from several feet away. Use an incident meter to take a light reading at the card (remembering to point the meter toward the camera). Now take a reading of the card with a reflected meter (pointing it toward the card from a few feet away). The two readings should be the same.
+
+Since “average” Caucasian skin is about twice as reflectant as the gray card—having about 35 percent reflectance—you could just as well base an exposure on a reading of that skin tone, as long as you remember to give the film twice as much exposure as the meter indicates. This is normally done by opening the iris diaphragm one stop (see below for other types of skin).
+
+Taking Reflected Readings
+
+Many people are familiar with the idea of reflected readings from doing still photography with cameras equipped with built-in meters. Still cameras often have averaging meters or center-weighted meters. You take a reading of the whole scene, set the exposure, and shoot. This kind of reflected reading can work fine for “average” subjects, particularly if they are front lit (the light coming from behind the camera). But a single reflected reading of the whole scene may cause the subject to be poorly exposed if the subject or the background is particularly light or dark, or if the light is coming from behind the subject. For movies, there is the added factor that the framing of the picture may change significantly during the shot.
+
+Whenever you use a reflected meter, always ask yourself if the area of the scene that you’re pointing the meter at is important. Base the exposure on the most important areas, and use readings of other areas to give you a sense of the overall range of brightness in the scene. Also ask yourself how you want the area you’re reading to look on film. As discussed above, the reflected reading of an object will cause that object to appear on film in the middle of the tonal range. If you’re reading an object that’s near to average reflectance (like the 18 percent gray card), then the meter reading will result in that object looking natural on film. But if the object you’re reading should look relatively dark on film, you need to give it less exposure than the meter indicates (usually by closing down the iris—that is, using a higher f-stop than the one indicated on the meter).
+
+CLOSE-UPS AND MEDIUM SHOTS. In medium shots and close-ups of people (see Fig. 9-2), it’s important that facial skin tones be exposed correctly. To take readings directly from the subject’s face, put the meter close enough so that other areas are excluded from the meter’s field of view. Be careful not to block the light or cast shadows with your body or the meter. If your skin tone is similar to your subject’s, you can read the back of your hand instead, as long as it is in the same light. Since Caucasian skin is about twice as reflective as the gray card, you must give it about twice as much exposure as the meter indicates to render it appropriately light on film. Thus if the meter reads f/8, open up the iris to f/5.6. Black skin is usually less reflective than the gray card. You might stop down the iris a half stop for medium black skin or a full stop for darker black skin (a meter reading of f/8 would then be exposed at f/11).
+
+Faces are normally lit so that part of the face is bright and part is in shadow. In general, if compensations are made as above, the exposure should be based on a reading of the brighter side. However, if the light comes from the side, more than half the face may be in shadow. You may want the dark side to remain dark. But if it’s important to see more detail in the shadows, you might increase the exposure a half to one stop from the exposure used for the bright side.
+
+WIDE SHOTS. In wide shots—landscapes and scenes where people do not figure prominently—instead of basing the exposure on skin tone, it’s often better to take a reading of the average amount of reflected light in the scene. To do this, point the meter at the scene from the camera position. If you are shooting outside, a bright sky will tend to throw off the reading; angle the meter downward somewhat to avoid reading too much of the sky. In general, you should avoid pointing the meter at light sources. An averaging meter with a wide angle of acceptance can take in the whole scene and give you an average just by pressing the button. A spot meter, on the other hand, will fluctuate wildly as you scan it across highlight and shadow areas, so you will need to calculate the average. Some meters will store readings in memory, helping you to find the average.
+
+One approach is to take readings of the brightest and darkest areas where you want to see detail and base your exposure on the average between them. When calculating the average between readings of bright and dark areas, you are not looking for the mathematical average, but one that is expressed in f-stops. Thus, the average of two readings (say, f/2 and f/16) is the stop halfway between the two (f/5.6), not the mathematical average (2 + 16) / 2 = 9. Some meters indicate light readings on a numbered scale, which can be averaged in the familiar way and then converted to f-stops.
+
+Backlight
+
+Light that comes from behind the subject in the direction of the camera is called backlight. Backlighting is often encountered outdoors when shooting in the direction of the sun or when shooting people in cars, or indoors when the subject is positioned in front of a window. Usually when you expose a backlit subject, it is desirable for the shaded side of the subject to appear slightly dark, which it is, but not so dark that the person appears in silhouette with no facial detail (see Fig. 7-17).
+
+If you base the exposure on a typical reflected light meter reading from the camera position, the meter’s angle of acceptance will include a great deal of the background. The meter then assumes that the subject is very light; it indicates that you should stop down quite far, throwing the person into silhouette. A rule of thumb to prevent silhouetting in this case is to open the iris one and a half stops above what the meter indicates (for example, open from f/8 to halfway between f/4 and f/5.6). Some film and video cameras have a backlight button that does just that.
+
+In backlit settings, it is common to have one exposure for wide shots that include a lot of the bright background and another for closer shots where shadow detail may be more important. The latter might be opened up a half stop or so more than the former.
+
+If you’re filming in the direction of a strong light source that’s shining directly into the lens you may pick up lens flare from light that reflects within the lens (see Fig. 4-25). Zoom lenses are prone to severe flare. Flare tends to fog the film, desaturating colors and increasing overall exposure. If there’s no way to block this light with a lens shade, a French flag, or your hand, keep in mind that flare can increase exposure a half stop or more. When flare is severe in backlit situations, you may want to close the iris a half stop in addition to the correction you made for backlighting.
+
+Fig. 7-17. A backlighting problem when shooting toward a window. (top) Exposed for the interior, the outside is overexposed. (bottom) Exposed for outside, the woman is silhouetted. (middle) A compromise exposure, slightly underexposing the woman. (Stephen McCarthy)
+
+Special Exposure Conditions
+
+Setting exposure may involve a series of compromises, especially when areas in the scene vary greatly in their brightness. If you’re interested in seeing detail in bright areas you may want to “bias” or “weight” the exposure by closing the iris a half to one stop from the incident reading; if detail in shaded areas is important, open up the same amount. You may also decide to adjust the exposure for creative purposes; for example, if you want a person lurking in the shadows to look dark, close the iris from an incident reading taken in the shadow.
+
+NIGHT SCENES. As long as some bright highlights, such as street signs, storefronts, or narrow areas of streetlight, are visible, large areas of the frame can be rendered dark in night scenes. Similarly, if there are bright facial highlights recorded on the film, then the general exposure of the face can be lower than normal. (See Fig. 5-10.)
+
+DISTANT LANDSCAPES. Haze, which may not be apparent to the eye, increases the exposure of distant objects on film (see Fig. 9-26). In hazy conditions, use a skylight or haze filter on the camera. Use a spot meter to average distant highlight and shadow areas, or, with an incident meter, decrease the exposure a half stop for front-lit scenes, or about a stop for side-lit scenes.
+
+SUNRISE AND SUNSET. For sunrise or sunset shots in which the foreground scene is mostly silhouetted, take a reflected reading of the sky but not the sun directly. Closing down the iris from this reading may deepen the color of the sun, but it will also make the landscape darker. When possible, bracket exposures by using the reading you think is correct, then shoot with a half to one stop more, then the same amount less. If scenes are front lit by a red rising or setting sun, no 85 filter need be used with tungsten-balanced color film. Backlit scenes may look blue without it.
+
+EXPOSURE AND FILM STOCKS
+
+Beginners usually think about exposure on the basic level of “Did the picture come out?” In some ways, that question never goes away, but experienced cinematographers understand that exposure offers opportunities to create a wide range of effects on film.
+
+Exposure Range
+
+Perhaps the biggest challenge when exposing either film or video is accommodating the fact that the range of brightness in many scenes exceeds the camera’s ability to faithfully record it. A common example is shooting an interior scene with bright windows visible in the background. You might have to choose between exposing for either the interior or the exterior, but you can’t count on both being rendered with detail (see Fig. 7-17).
+
+Stocks that can accommodate a great range in scene brightness are said to have great latitude or exposure range. A stock’s latitude is determined by the length of the straight line portion of the film’s characteristic curve (see p. 273). You can determine the exposure range of a stock by shooting tests, asking the lab, or checking the manufacturer’s website. Most color negative stocks have about a ten- to twelve-stop range; most reversal films have closer to six stops. Traditionally, video cameras have had a more limited exposure range than negative stocks, but some high-end digital cameras have fourteen stops or more.
+
+With a reflected light meter, you can check the difference in f-stops between important light and dark areas in the frame. If the brightness range of the scene is too great for the film stock, it may be necessary to recompose the shot, add light, flash the film, change an actor’s costume or makeup, or redecorate the set (see Controlling Lighting Contrast, p. 512).
+
+Exposure Error
+
+Cinematographers always want to know, “How much can I be off in my exposure and still get an acceptable image?” The answer depends in part on the latitude or exposure range of the stock. However, the amount of acceptable error also depends on what you’re shooting: the higher the lighting contrast in the scene, the less leeway you have. As an example, imagine shooting an outdoor scene with areas of bright sun and deep shadow. With proper exposure, you might just be able to capture detail in the brightest areas and the shadows. But if the exposure were increased even slightly, the highlights might be pushed into the shoulder of the characteristic curve and lose detail. Similarly, if the exposure were decreased, the dark areas would now fall on the toe of the curve and no longer show detail.
+
+Now imagine shooting the same scene on a cloudy day. The contrast range between highlights and shadow is now much smaller, so all the areas of the image fall on the straight line portion of the curve, far from the toe or shoulder. You might be able to increase or decrease exposure a few stops without losing detail.
+
+With an average subject, color negative stocks might allow one to one and a half stops of underexposure or two or more stops of overexposure. A color reversal film might have only a stop or less leeway at either end. Some degree of exposure error can be corrected during video transfer and/or printing.
+
+Confusingly, the word “latitude” is used to mean both the total exposure range and the degree of acceptable error (in the latter case, it is sometimes called exposure latitude). If someone says, “This stock has a latitude of ten stops,” she means the total exposure range the stock is capable of. If she says, “You have two stops of latitude on the overexposure side,” she’s talking about exposure error.4
+
+Exposure and Image Quality
+
+As a rule of thumb, slight overexposure of negative film stocks results in less apparent grain, more saturated color, richer blacks, and increased contrast. Some cinematographers routinely overexpose color negative about a half stop or so. Underexposure can result in more grain, smoky blacks, and less perceived sharpness. If faces have sufficient exposure (and thus are dense enough on the negative), then in printing a bright printer light can be used that will produce a rich black in the shadows and help suppress grain. This is why it’s important in night scenes, for example, to have some bright highlights in the frame. If the highlights are properly exposed, then you can make the dark parts of the frame look dark and clean. But if everything is dark and underexposed in shooting, the printed image will be murky and grainy, and color will be muted.
+
+When shooting color negative specifically for digital transfer, bear in mind that while overexposure decreases grain, it requires a higher video gain in the telecine, which increases noise (and noise can look a lot like grain!). When shooting 35mm negative for transfer, overexposure may not be recommended. However, 16mm can still be overexposed up to a stop.
+
+Gross over- or underexposure should be avoided. “Printing down” when the lab makes a print from overexposed negative may yield a bright white and a rich black, but it will usually not restore much detail in the highlights.
+
+Exposure Control
+
+In brief, you have the following means of controlling exposure at your disposal.
+
+Film speed. Aside from the choice of raw stocks, film speed can be altered via force development (pushing) and sometimes via underdevelopment (pulling). A film that is properly exposed in the highlights but contains areas of underexposed shadow can sometimes be helped with flashing.
+
+The lens. The iris diaphragm is the primary means of exposure control. Neutral density filters can be used to avoid overexposure or for opening the iris to a selected f-stop (to control depth of field or maximize lens sharpness). Polarizing filters and, in black-and-white, contrast filters can be used to alter the exposure of various elements in the scene (see Chapter 8).
+
+Shutter speed. Cameras equipped with variable shutters can be set to increase and decrease exposure time, but this may affect the smoothness of motion. Changing the camera speed (frame rate) affects exposure time, but it also affects the speed of motion (see Chapter 6).
+
+Ambient light. Light on the scene, or on selected parts, can be increased with artificial lighting fixtures or with reflectors that reflect sunlight. Neutral density and colored filters can be placed over lights and windows, and lightweight cloth nets can be used to cut down the amount of light falling on a subject (see Chapter 12).
+
+THE FILM LAB DURING PRODUCTION
+
+Shooting Tests
+
+After a lab has been selected, tests are sometimes made of camera, sets, actors (screen tests), costumes, and makeup. Particularly important are tests of film stock and processing. The production team should evaluate the tests, and the cinematographer should discuss with the lab any adjustments that need to be made in processing, video transfer, or printing.
+
+Fig. 7-18. Film processing machine. (DuArt Film and Video)
+
+Processing the Original
+
+Deliver the film to the lab as soon as possible after it is exposed. Pack core-wound film in its black bag and tape down the end so the film does not unravel in transit. Prominently mark “EXPOSED” on the can, so no one mistakes it for unexposed stock. See p. 265 for unloading magazines and preparing cans for the lab. See p. 284 for general considerations in handling unprocessed film. Each film shipment to the lab should include the following information (labs will often supply a form for these items or use a camera report). The first ten items should be marked on each can of unprocessed camera original.5 Normally, a letter or purchase order accompanies the shipment.
+
+The production company name.
+
+The working title of the production. Don’t change the title in midproduction or the lab may lose your materials.
+
+The date.
+
+Both the common name of the film stock (for example, Vision 500T) and the emulsion number (such as 7219). See Fig. 7-7.
+
+The amount of footage and the gauge. Mark if Super 16.
+
+Special processing instructions, including force developing (for example, push one, push two), pulling (underdevelopment to compensate for overexposure), or flashing. Discuss any special processing with the lab before ordering the work.
+
+The camera roll number. Never repeat a camera roll number.
+
+The approximate location of footage where any camera jams or torn perfs occurred. The lab will do a hand inspection to see that no problems will occur in the processing machines that could ruin your footage and possibly footage from another production.
+
+Any tests; for example, 15-foot tail exposure test.
+
+For a daylight spool on which you wish to save a run-out shot or a darkroom (core) load, mark “OPEN ONLY IN DARK.” If the core has popped out, mark “NO CORE” or “AIR WIND.”
+
+Tell the lab what it should do with the processed original. “HOLD ORIGINAL” means it should be stored in the lab’s vault.
+
+The name, address, and telephone number of the person to contact in case of questions (or the name of the cinematographer or director, if applicable).
+
+THE LAB REPORT. Many laboratories supply a lab report (also called a negative report) with the rushes. The lab report lists gross camera errors and damage to the film. If you can’t view the rushes on a daily basis, try to get the lab to include information about bad focus, dirt in the gate, flicker, poor image registration, or other problems.
+
+STORING THE NEGATIVE. If you don’t have a cool, safe place with low humidity to store the original, have the lab store it until it is conformed or transferred to video. Find out if the lab charges for this service, and get a tour of the lab’s vaults—a romantic name for what may be a dusty back room. There are also warehouses that specialize in film storage where film can be kept in temperature- and humidity-controlled spaces for an added charge.
+
+SCREENING THE RUSHES
+
+Today, most productions that are shot on film are edited digitally, and immediately after processing, the camera original film is transferred to digital video for viewing and editing. In the many decades before digital editing existed, camera original would be workprinted after processing. Workprint is film—a protection copy of the original negative—used for editing.
+
+The unedited footage from the camera, whether in digital form or workprint, is called rushes, or dailies, because the lab turns them out quickly. The lab processes the dailies overnight and the filmmakers view them the following day (small labs may not deliver this fast). When a lab provides same-day service for rushes this is sometimes called daylighting.
+
+The cinematographer and director should look at the rushes as soon as possible after shooting. If working with video dailies, use a high-quality, large broadcast monitor whenever possible. If viewing workprint, be sure to project on a good-sized screen, since editing systems may hide errors such as image flicker, slight softness of focus, and bad registration.
+
+Digital dailies have improved a great deal, as have color management systems that standardize color reproduction on different monitors. Nevertheless, it’s sometimes difficult to evaluate rushes when transferred to video, as monitors can be inconsistent. Also, the video may not reveal subtleties that the cinematographer needs to see to evaluate lighting and shooting choices. On some feature films, the first few days of shooting are workprinted to confirm that things look good; then the rest of the rushes are done digitally.
+
+Preparing digital dailies and other issues of digital transfer are discussed in Chapter 16.
+
+Ordering Workprint
+
+When ordering workprint, there are three basic types of color correction that can be ordered—one-light, best-light, and scene-to-scene.
+
+A one-light or one-lite print (also called an untimed print) is made with the same printing light for the entire camera roll; no compensations are made for exposure or color differences from one shot to the next (labs usually refer to shots as “scenes”). A one-light print is sometimes made with a standard light, which is around the middle of the printer’s scale. For example, many printers have a range of lights from 1 to 50 points, the lab’s standard light being around 25. Cinematographers may work with the lab to establish a standard light for the entire project, which makes any errors in exposure or color balance immediately apparent.
+
+Another method, sometimes called a best-light print, bases the exposure on the first few scenes on the roll and stays consistent for the rest of the roll. If there are gross variations in exposure, sometimes the lab will make a few corrections.
+
+For a timed workprint (also called a graded or color-balanced workprint), the lab makes scene-to-scene corrections, choosing the best light for each take. There may be a surcharge of 30 percent or more for this service. Don’t expect these corrections to be as accurate as those on an answer print (see p. 710). A timed print may be beyond your budget; however, if sections of a one-light workprint are badly timed, it may be worthwhile to have them reprinted, since the workprint is often viewed by many people.
+
+LAB INSTRUCTIONS. Indicate in your workprint order:
+
+One-light print? Standard light? Timed and color-corrected?
+
+(For 16mm only): single- or double-perforated? Double perf is more versatile.
+
+Request print-through key numbers.
+
+For returning workprint: Pickup? Shipped? Insurance?
+
+Special instructions; for example, day-for-night scenes or unusual color balance.
+
+In 35mm, make sure the camera report details which takes are to be printed.
+
+Troubleshooting Errors
+
+The following are possible problems that may be evident when screening video dailies or projected workprint. Some may be problems with the original camera negative, others may be due to the workprint or video transfer.
+
+SCRATCHES OR CINCH MARKS. If you see a scratch during the screening, check immediately for its source. The lab report may note whether the scratch is on the emulsion or base (cell scratch). If there’s no notation on the lab report, and you’re screening workprint, stop the projector and hold the scratched film at an angle to a light source so that you can see the reflection of the light on the film. Twist the film in relation to the reflection to see if the scratch is actually on the film. If it’s not on the workprint, the scratch is on the original.
+
+Most scratches on original come from the camera, although some come from laboratory or manufacturer errors. A scratch test (see p. 269) prior to filming will usually show a camera scratch. If a scratch is precise with no wobble or if it has a slight fuzziness on the edge of the scratch (a sign of a preprocessing scratch), it is probably a camera scratch.
+
+Further questions to help detect the origin of scratches are: Does the camera scratch now? Do only those rolls shot in a particular mag show the scratch? Did an inexperienced person load the camera? Cinch marks appear as discontinuous oblique scratches usually caused by poor film handling, such as pulling unraveled film tight or squeezing dished, core-wound film back into place. Liquid gate printing (see p. 689) and buffing often hide base scratches, some minor emulsion scratches, and cinch marks on the base.
+
+DIRT. Dust or dirt that shows black on the screen is less noticeable than when it is white. Dirt on reversal film shows up as black, while dirt on a processed negative original will appear white (called sparkle). If a workprint itself is dirty, the dirt shows up black. If the dirt is on the original, it may be due to lab handling or dirty changing bags, mags, or cameras. Dirt and hairs may be in the camera gate or the projector gate, extending out into the image, often from the top or bottom edge.
+
+EDGE FOG. Edge fog is caused by a light leak that fogs the film before processing. Edge fog lowers contrast and it changes as the camera moves in relation to the light source. The effect is similar to lens flare, but, unlike lens flare, edge fog appears on camera original outside the image area. Light leaks can be caused by a loose magazine lid, a loose camera door, a hole in the changing bag, not packing core-wound film in the black bag, or opening a can of unprocessed film. Edge fog at the head or tail of spool-wound film is to be expected. See Light Leak Test, p. 269.
+
+PROCESSING ERRORS AND RAW STOCK DEFECTS. Processing errors can result in mottling, streaking, or uneven tonalities. Consult the lab immediately if you suspect an error. In the event of lab error, most labs will replace only stock and refund the cost of processing. Defects in the raw stock are often difficult to distinguish from processing errors. The manufacturer will usually replace defective stock and sometimes pay processing costs.
+
+CAMERA DEFECTS. For bad registration, lost loop, timing errors, and breathing in the gate, see Chapter 6. Flicker in the image may be a camera motor defect or a problem with lighting, particularly HMIs or other pulsed lights (see Chapter 12). See Chapter 4 for lens problems.
+
+1. In video, the equivalent concept is that any dark areas that fall below the black clip level won’t be visible (blacks are crushed).
+
+2. The video equivalent is the white clip level.
+
+3. The tonalities in the straight line section are “stretched” and those in the toe and the shoulder are “compressed.”
+
+4. As discussed above, latitude as a measure of acceptable exposure error depends not only on the exposure range of the stock, but also on the contrast of the particular scene.
+
+5. As discussed on p. 265, you will normally write some of this information on a piece of tape or a label when you load the camera magazine, and you can move the label to the can when you unload the magazine.

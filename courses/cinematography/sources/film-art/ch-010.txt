@@ -1,0 +1,1033 @@
+CHAPTER 3 Narrative as a Formal System
+
+ 
+
+ 
+
+Principles of Narrative Construction
+
+Stories surround us. In childhood, we learn fairy tales and myths. As we grow up, we read short stories, novels, history, and biography. Religion, philosophy, and science often present their doctrines through parables and tales. Plays tell stories, as do films, television shows, comic books, paintings, dance, and many other cultural phenomena. Much of our conversation is taken up with telling tales—recalling a past event or telling a joke. Even newspaper articles are called stories, and when we ask for an explanation of something, we may say, “What’s the story?” We can’t escape even by going to sleep, since we often experience our dreams as little narratives. Narrative is a fundamental way that humans make sense of the world.
+
+The prevalence of stories in our lives is one reason that we need to take a close look at how films may embody narrative form. When we speak of “going to the movies,” we almost always mean that we are going to see a narrative film—a film that tells a story.
+
+Narrative form is most common in fictional films, but it can appear in all other basic types. For instance, documentaries often employ narrative form. Primary tells the story of how Hubert Humphrey and John F. Kennedy campaigned in the Wisconsin presidential primary of 1960. Many animated films, such as Disney features and Warner Bros. short cartoons, also tell stories. Some experimental and avantgarde films use narrative form, although the story or the way it is told may be quite unusual, as we shall see in Chapter 10.
+
+Because stories are all around us, spectators approach a narrative film with definite expectations. We may know a great deal about the particular story the film will tell. Perhaps we have read the book on which a film is based, or we have seen the film to which this is a sequel. More generally, though, we have anticipations that are characteristic of narrative form itself. We assume that there will be characters and some action that will involve them with one another. We expect a series of incidents that will be connected in some way. We also probably expect that the problems or conflicts arising in the course of the action will achieve some final state—either they will be resolved or, at least, a new light will be cast on them. A spectator comes prepared to make sense of a narrative film.
+
+As the viewer watches the film, she or he picks up cues, recalls information, anticipates what will follow, and generally participates in the creation of the film’s form. The film shapes particular expectations by summoning up curiosity, suspense, and surprise. The ending has the task of satisfying or cheating the expectations prompted by the film as a whole. The ending may also activate memory by cueing the spectator to review earlier events, possibly considering them in a new light. When The Sixth Sense was released in 1999, many moviegoers were so intrigued by the surprise twist at the end that they returned to see the film again and trace how their expectations had been manipulated. Something similar happened with The Prestige (see pp. 302–303). As we examine narrative form, we consider at various points how it engages the viewer in a dynamic activity.
+
+“Narrative is one of the ways in which knowledge is organized. I have always thought it was the most important way to transmit and receive knowledge. I am less certain of that now—but the craving for narrative has never lessened, and the hunger for it is as keen as it was on Mt. Sinai or Calvary or the middle of the fens.”
+
+— Toni Morrison, author, Beloved
+
+ 
+
+What Is Narrative?
+
+We can consider a narrative to be a chain of events linked by cause and effect and occurring in time and space. A narrative is what we usually mean by the term story, although we shall be using story in a slightly different way later. Typically, a narrative begins with one situation; a series of changes occurs according to a pattern of cause and effect; finally, a new situation arises that brings about the end of the narrative. Our engagement with the story depends on our understanding of the pattern of change and stability, cause and effect, time and space.
+
+All the components of our definition—causality, time, and space—are important to narratives in most media, but causality and time are central. A random string of events is hard to understand as a story. Consider the following actions: “A man tosses and turns, unable to sleep. A mirror breaks. A telephone rings.” We have trouble grasping this as a narrative because we are unable to determine the causal or temporal relations among the events.
+
+Consider a new description of these same events: “A man has a fight with his boss; he tosses and turns that night, unable to sleep. In the morning, he is still so angry that he smashes the mirror while shaving. Then his telephone rings; his boss has called to apologize.”
+
+We now have a narrative. We can connect the events spatially: the man is in the office, then in his bed; the mirror is in the bathroom; the phone is somewhere else in his home. More important, we can understand that the three events are part of a series of causes and effects. The argument with the boss causes the sleeplessness and the broken mirror. The phone call from the boss resolves the conflict; the narrative ends. In this example, time is important, too. The sleepless night occurs before the breaking of the mirror, which in turn occurs before the phone call; all of the action runs from one day to the following morning. The narrative develops from an initial situation of conflict between employee and boss, through a series of events caused by the conflict, to the resolution of the conflict. Simple and minimal as our example is, it shows how important causality, space, and time are to narrative form.
+
+“I had actually trapped myself in a story that was very convoluted, and I would have been able to cut more later if I’d simplified it at the script stage, but I’d reached a point where I was up against a wall of story logic. If I had cut too much at that stage, the audience would have felt lost.”
+
+— James Cameron, director, Aliens
+
+ 
+
+The fact that a narrative relies on causality, time, and space doesn’t mean that other formal principles can’t govern the film. For instance, a narrative may make use of parallelism. As Chapter 2 points out (pp. 68–70), parallelism presents a similarity among different elements. Our example was the way that The Wizard of Oz made the three Kansas farmhands parallel to Dorothy’s three Oz companions. A narrative may cue us to draw parallels among characters, settings, situations, times of day, or any other elements. In Veřá Chytilová’s Something Different, scenes from the life of a housewife and from the career of a gymnast are presented in alternation. Since the two women never meet and lead entirely separate lives, there is no way that we can connect the two stories causally. Instead, we compare and contrast the two women’s actions and situations—that is, we draw parallels.
+
+CONNECT TO THE BLOG
+
+For a more theoretical discussion of the concept of narrative, using the stories offered up during the 2008 presidential campaign, see “It was a dark and stormy campaign,” at www.davidbordwell.net/blog/?p=2962.
+
+The documentary Hoop Dreams makes even stronger use of parallels. Two high school students from Chicago’s black ghetto dream of becoming professional basketball players, and the film follows as each one pursues his athletic career. The film’s form invites us to compare and contrast their personalities, the obstacles they face, and the choices they make. In addition, the film creates parallels between their high schools, their coaches, their parents, and older male relatives who vicariously pursue their own dreams of athletic glory. Parallelism allows the film to become richer and more complex than it might have been had it concentrated on only one protagonist.
+
+Yet Hoop Dreams, like Something Different, is still a narrative film. Each of the two lines of action is organized by time, space, and causality. The film suggests some broad causal forces as well. Both young men have grown up in urban poverty, and because sports is the most visible sign of success for them, they turn their hopes in that direction.
+
+CONNECT TO THE BLOG
+
+Sequels can extend a story and even jump back in time if a prequel is made. We discuss prequels in “Originality and origin stories.”
+
+See
+www.davidbordwell.net/blog/?p=44.
+
+Plot and Story
+
+We make sense of a narrative, then, by identifying its events and linking them by cause and effect, time, and space. As viewers, we do other things as well. We often infer events that are not explicitly presented, and we recognize the presence of material that is extraneous to the story world. In order to describe how we manage to do these things, we can draw a distinction between story and plot (sometimes called discourse). This isn’t a difficult distinction to grasp, but we still need to examine it in a little more detail.
+
+We often make assumptions and inferences about events in a narrative. For instance, at the start of Alfred Hitchcock’s North by Northwest, we know we are in Manhattan at rush hour. The cues stand out clearly: skyscrapers, bustling pedestrians, congested traffic (3.1). Then we watch Roger Thornhill as he leaves an elevator with his secretary, Maggie, and strides through the lobby, dictating memos (3.2). On the basis of these cues, we start to draw some conclusions. Thornhill is an executive who leads a busy life. We assume that before we saw Thornhill and Maggie, he was also dictating to her; we have come in on the middle of a string of events in time. We also assume that the dictating began in the office, before they got on the elevator. In other words, we infer causes, a temporal sequence, and another locale even though none of this information has been directly presented. We are probably not aware of having made these inferences, but they are no less firm for going unnoticed.
+
+ 
+
+3.1 Hurrying Manhattan pedestrians in North by Northwest.
+
+ 
+
+ 
+
+ 
+
+3.2 Maggie takes dictation from Roger Thornhill.
+
+ 
+
+ 
+
+The set of all the events in a narrative, both the ones explicitly presented and those the viewer infers, constitutes the story. In our example, the story would consist of at least two depicted events and two inferred ones. We can list them, putting the inferred events in parentheses:
+
+(Roger Thornhill has a busy day at his office.)
+
+ 
+
+Rush hour hits Manhattan.
+
+ 
+
+(While dictating to his secretary, Maggie, Roger leaves the office, and they take the elevator.)
+
+ 
+
+Still dictating, Roger gets off the elevator with Maggie and they stride through the lobby.
+
+ 
+
+The total world of the story action is sometimes called the film’s diegesis (the Greek word for “recounted story”). In the opening of North by Northwest, the traffic, streets, skyscrapers, and people we see, as well as the traffic, streets, skyscrapers, and people we assume to be offscreen, are all diegetic because they are assumed to exist in the world that the film depicts.
+
+The term plot is used to describe everything visibly and audibly present in the film before us. The plot includes, first, all the story events that are directly depicted. In our North by Northwest example, only two story events are explicitly presented in the plot: rush hour and Roger Thornhill’s dictating to Maggie as they leave the elevator.
+
+Note, though, that the film’s plot may contain material that is extraneous to the story world. For example, while the opening of North by Northwest is portraying rush hour in Manhattan, we also see the film’s credits and hear orchestral music. Neither of these elements is diegetic, since they are brought in from outside the story world. (The characters can’t read the credits or hear the music.) Credits and such extraneous music are thus nondiegetic elements. In Chapters 6 and 7, we’ll consider how editing and sound can function nondiegetically. At this point, we need only notice that the plot—the totality of the film—can bring in nondiegetic material.
+
+Nondiegetic material may occur elsewhere than in credit sequences. In The Band Wagon, we see the premiere of a hopelessly pretentious musical play. Eager patrons file into the theater (3.3), and the camera moves closer to a poster above the door (3.4). There then appear three black-and-white images (3.5–3.7) accompanied by a brooding chorus. These images and sounds are clearly nondiegetic, inserted from outside the story world in order to signal that the production bombed. The plot has added material to the story for comic effect.
+
+ 
+
+3.3 A hopeful investor in the play enters the theater …
+
+ 
+
+ 
+
+ 
+
+3.4 … and the camera moves in on a poster predicting success for the musical.
+
+ 
+
+ 
+
+ 
+
+3.5 But three comic nondiegetic images reveal it to be a flop: ghostly figures on a boat …
+
+ 
+
+ 
+
+ 
+
+3.6 … a skull in a desert …
+
+ 
+
+ 
+
+ 
+
+3.7 … and an egg.
+
+ 
+
+ 
+
+In sum, story and plot overlap in one respect and diverge in others. The plot explicitly presents certain story events, so these events are common to both domains. The story goes beyond the plot in suggesting some diegetic events that we never witness. The plot goes beyond the story world by presenting nondiegetic images and sounds that may affect our understanding of the action. A diagram of the situation would look like this:
+
+ 
+
+We can think about these differences between story and plot from two perspectives. From the standpoint of the storyteller—the filmmaker—the story is the sum total of all the events in the narrative. The storyteller can present some of these events directly (that is, make them part of the plot), can hint at events that are not presented, and can simply ignore other events. For instance, though we learn later in North by Northwest that Roger’s mother is still close to him, we never learn what happened to his father. The filmmaker can also add nondiegetic material, as in the example from The Band Wagon. In a sense, then, the filmmaker makes a story into a plot.
+
+From the perceiver’s standpoint, things look somewhat different. All we have before us is the plot—the arrangement of material in the film as it stands. We create the story in our minds on the basis of cues in the plot. We also recognize when the plot presents nondiegetic material.
+
+The story–plot distinction suggests that if you want to give someone a synopsis of a narrative film, you can do it in two ways. You can summarize the story, starting from the very earliest incident that the plot cues you to assume or infer and running chronologically to the end. Or you can tell the plot, starting with the first incident you encountered in watching the film and presenting narrative information as you received it while watching the movie.
+
+Our initial definition and the distinction between plot and story constitute a set of tools for analyzing how narrative works. We shall see that the story–plot distinction affects all three aspects of narrative: causality, time, and space.
+
+Cause and Effect
+
+If narrative depends so heavily on cause and effect, what kinds of things can function as causes in a narrative? Usually, the agents of cause and effect are characters. By triggering and reacting to events, characters play roles within the film’s formal system.
+
+Most often, characters are persons, or at least entities like persons—Bugs Bunny or E.T. the extraterrestrial or even the singing teapot in Beauty and the Beast. For our purposes here, Michael Moore is a character in Roger and Me no less than Roger Thornhill is in North by Northwest, even though Moore is a real person and Thornhill is fictional. In any narrative film, either fictional or documentary, characters create causes and register effects. Within the film’s formal system, they make things happen and respond to events. Their actions and reactions contribute strongly to our engagement with the film.
+
+Unlike characters in novels, film characters typically have a visible body. This is such a basic convention that we take it for granted, but it can be contested. Occasionally, a character is only a voice, as when the dead Obi-Wan Kenobi urges the Jedi master Yoda to train Luke Skywalker in The Empire Strikes Back. More disturbingly, in Luis Buñuel’s That Obscure Object of Desire, one woman is portrayed by two actresses, and the physical differences between them may suggest different sides of her character. Todd Solondz takes this innovation further in Palindromes, in which a 13-year-old girl is portrayed by male and female performers of different ages and races.
+
+Along with a body, a character has traits: attitudes, skills, habits, tastes, psychological drives, and any other qualities that distinguish the character. Some characters, such as Mickey Mouse, may have only a few traits. When we say a character possesses several varying traits, some at odds with one another, we tend to call that character complex, or three-dimensional, or well developed. A memorable character such as Sherlock Holmes is a mass of traits. Some bear on his habits, such as his love of music or his addiction to cocaine, while others reflect his basic nature: his penetrating intelligence, his disdain for stupidity, his professional pride, his occasional gallantry.
+
+As our love of gossip shows, we’re curious about other humans, and we bring our people-watching skills to narratives. We’re quick to assign traits to the characters onscreen, and often the movie helps us out. Most characters wear their traits far more openly than people do in real life, and the plot presents situations that swiftly reveal them to us. The opening scene of Raiders of the Lost Ark throws Indiana Jones’s personality into high relief. We see immediately that he’s bold and resourceful. He’s courageous, but he can feel fear. By unearthing ancient treasures for museums, he shows an admirable devotion to scientific knowledge. In a few minutes, his essential traits are presented straightforwardly, and we come to know and sympathize with him.
+
+It’s not accidental that all of the traits that Indiana Jones displays in the opening scene are relevant to later scenes in Raiders. In general, a character is given traits that will play causal roles in the overall story action. The second scene of Alfred Hitchcock’s The Man Who Knew Too Much (1934) shows that the heroine, Jill, is an excellent shot with a rifle. For much of the film, this trait seems irrelevant to the action, but in the last scene, Jill is able to shoot one of the villains when a police marksman cannot do it. This skill with a rifle is a trait that helps make up a character named Jill, and it serves a particular narrative function.
+
+Not all causes and effects in narratives originate with characters. In the socalled disaster movies, an earthquake or tidal wave may precipitate a series of actions on the parts of the characters. The same principle holds when the shark in Jaws terrorizes a community. Still, once these natural occurrences set the situation up, human desires and goals usually enter the action to develop the narrative. A man escaping from a flood may be placed in the situation of having to decide whether to rescue his worst enemy. In Jaws, the townspeople pursue a variety of strategies to deal with the shark, propelling the plot as they do so.
+
+In general, the spectator actively seeks to connect events by means of cause and effect. Given an incident, we tend to imagine what might have caused it or what it might in turn cause. That is, we look for causal motivation. We have mentioned an instance of this in Chapter 2: In the scene from My Man Godfrey, a scavenger hunt serves as a cause that justifies the presence of a beggar at a society ball (see p. 68).
+
+Causal motivation often involves the planting of information in advance of a scene, as we saw in the kitchen scene of The Shining (2.7, 2.8). In L.A. Confidential, the idealistic detective Exley confides in his cynical colleague Vincennes that the murder of his father had driven him to enter law enforcement. He had privately named the unknown killer “Rollo Tomasi,” a name that he has turned into an emblem of all unpunished evil. This conversation initially seems like a simple bit of psychological insight. Yet later, when the corrupt police chief Smith shoots Vincennes, the latter mutters “Rollo Tomasi” with his last breath. When the puzzled Smith asks Exley who Rollo Tomasi is, Exley’s earlier conversation with Vincennes motivates his shocked realization that the dead Vincennes has given him a clue to his killer. Near the end, when Exley is about to shoot Smith, he says that the chief is Rollo Tomasi. Thus an apparently minor detail returns as a major causal and thematic motif. And perhaps the unusual name, Rollo Tomasi, functions to help the audience remember this motif.
+
+Most of what we have said about causality pertains to the plot’s direct presentation of causes and effects. In The Man Who Knew Too Much, Jill is shown to be a good shot, and because of this, she can save her daughter. But the plot can also lead us to infer causes and effects, and thus build up a total story. The detective film furnishes the best example of how we actively construct the story.
+
+A murder has been committed. That is, we know an effect but not the causes—the killer, the motive, and perhaps also the method. The mystery tale thus depends strongly on curiosity—on our desire to know events that have occurred before the events that the plot presents to us. It’s the detective’s job to disclose, at the end, the missing causes—to name the killer, explain the motive, and reveal the method. That is, in the detective film, the climax of the plot (the action we see) is a revelation of prior incidents in the story (events we did not see). We can diagram this:
+
+ 
+
+Although this pattern is most common in detective narratives, any film’s plot can withhold causes and thus arouse our curiosity. Horror and science fiction films often leave us temporarily in the dark about what forces lurk behind certain events. Not until three-quarters of the way through Alien do we learn that the science officer Ash is a robot conspiring to protect the alien. In Caché, a married couple receive an anonymous videotape recording their daily lives. The film’s plot shows them trying to discover who made it and why it was made. In general, whenever any film creates a mystery, it suppresses certain story causes and presents only effects in the plot.
+
+The plot may also present causes but withhold story effects, prompting suspense and uncertainty in the viewer. After Hannibal Lecter’s attack on his guards in the Tennessee prison in The Silence of the Lambs, the police search of the building raises the possibility that a body lying on top of an elevator is the wounded Lecter. After an extended suspense scene, we learn that he has switched clothes with a dead guard and escaped.
+
+A plot’s withholding of effects can provide a vivid ending. A famous example occurs in the final moments of François Truffaut’s The 400 Blows. The boy Antoine Doinel, having escaped from a reformatory, runs along the seashore. The camera zooms in on his face, and the frame freezes (3.8). The plot does not reveal if he is captured and brought back, leaving us to speculate on what might happen in Antoine’s future.
+
+ 
+
+3.8 The final image of The 400 Blows leaves Antoine’s future uncertain.
+
+ 
+
+ 
+
+Time
+
+Causes and their effects are basic to narrative, but they take place in time. Here again our story–plot distinction helps clarify how time shapes our understanding of narrative action.
+
+As we watch a film, we construct story time on the basis of what the plot presents. For example, the plot may present events out of chronological order. In Citizen Kane, we see a man’s death before we see his youth, and we must build up a chronological version of his life. Even if events are shown in chronological order, most plots don’t show every detail from beginning to end. We assume that the characters spend uneventful time sleeping, traveling from place to place, eating, and the like, but the story duration containing irrelevant action has simply been skipped over. Another possibility is to have the plot present the same story event more than once, as when a character recalls a traumatic incident. In John Woo’s The Killer, an accident in the opening scene blinds a singer, and later we see the same event again and again as the protagonist regretfully thinks back to it.
+
+Such options mean that in constructing the film’s story out of its plot, the viewer is engaged in trying to put events in chronological order and to assign them some duration and frequency. We can look at each of these temporal factors separately.
+
+Temporal Order
+
+We are quite accustomed to films that present events out of story order. A flashback is simply a portion of a story that the plot presents out of chronological order. In Edward Scissorhands, we first see the Winona Ryder character as an old woman telling her granddaughter a bedtime story. Most of the film then shows events that occurred when she was a high school girl. Such reordering doesn’t confuse us because we mentally rearrange the events into the order in which they would logically have to occur: childhood comes before adulthood. From the plot order, we infer the story order. If story events can be thought of as ABCD, then the plot that uses a flashback presents something like BACD. Similarly, a flash-forward—that is, moving from present to future then back to the present—would also be an instance of how plot can shuffle story order. A flash-forward could be represented as ABDC.
+
+One common pattern for reordering story events is an alternation of past and present in the plot. In the first half of Terence Davies’ Distant Voices, Still Lives, we see scenes set in the present during a young woman’s wedding day. These alternate with flashbacks to a time when her family lived under the sway of an abusive, mentally disturbed father. Interestingly, the flashback scenes are arranged out of chronological story order: childhood episodes alternate with scenes of adolescence, further cueing the spectator to assemble a linear story.
+
+Sometimes a fairly simple reordering of scenes can create complicated effects. The plot of Quentin Tarantino’s Pulp Fiction begins with a couple deciding to rob the diner in which they’re eating breakfast. This scene takes place fairly late in the story, but the viewer doesn’t learn this until near the end of the film, when the robbery interrupts a dialogue involving other, more central, characters eating breakfast in the same diner. Just by pulling a scene out of order and placing it at the start, Tarantino creates a surprise. At another point in Pulp Fiction, a hired killer is shot to death. But he reappears alive in subsequent scenes, which show him and his partner trying to dispose of a dead body. Tarantino has shifted a block of scenes from the middle of the story (before the man was killed) to the end of the plot. By coming at the film’s conclusion, these portions receive an emphasis they wouldn’t have if they had remained in their chronological story order.
+
+Temporal Duration
+
+The plot of North by Northwest presents four crowded days and nights in the life of Roger Thornhill. But the story stretches back far before that, since information about the past is revealed in the course of the plot. The story events include Roger’s past marriages, the U.S. Intelligence Agency’s plot to create a false agent named George Kaplan, and the villain Van Damm’s series of smuggling activities.
+
+In general, a film’s plot selects certain stretches of story duration. This could involve concentrating on a short, relatively cohesive time span, as North by Northwest does. Or it could involve highlighting significant stretches of time from a period of many years, as Citizen Kane does when it shows us the protagonist in his youth, skips over some time to show him as a young man, skips over more time to show him middle-aged, and so forth. The sum of all these slices of story duration yields an overall plot duration.
+
+But we need one more distinction. Watching a movie takes time—20 minutes or two hours or eight hours (as in Hans Jürgen Syberberg’s Our Hitler: A Film from Germany). There is thus a third duration involved in a narrative film, which we can call screen duration. The relationships among story duration, plot duration, and screen duration are complex (see “Where to Go from Here” for further discussion), but for our purposes, we can say this: the filmmaker can manipulate screen duration independently of the overall story duration and plot duration. For example, North by Northwest has an overall story duration of several years (including all relevant prior events), an overall plot duration of four days and nights, and a screen duration of about 136 minutes.
+
+Just as plot duration selects from story duration, so screen duration selects from overall plot duration. In North by Northwest, only portions of the film’s four days and nights are shown to us. An interesting counterexample is Twelve Angry Men, the story of a jury deliberating a murder case. The 95 minutes of the movie approximate the same stretch of time in its characters’ lives.
+
+At a more specific level, the plot can use screen duration to override story time. For example, screen duration can expand story duration. A famous instance is that of the raising of the bridges in Sergei Eisenstein’s October. Here an event that takes only a few moments in the story is stretched out to several minutes of screen time by means of the technique of film editing. As a result, this action gains a tremendous emphasis. The plot can also use screen duration to compress story time, as when a process taking hours or days is condensed into a rapid series of shots. These examples suggest that film techniques play a central role in creating screen duration. We shall consider this in more detail in Chapters 5 and 6.
+
+Temporal Frequency
+
+Most commonly, a story event is presented only once in the plot. Occasionally, however, a single story event may appear twice or even more in the plot treatment. If we see an event early in a film and then there is a flashback to that event later on, we see that same event twice. Some films use multiple narrators, each of whom describes the same event; again, we see it occur several times. This increased frequency may allow us to see the same action in several ways. When a plot repeats a story event, the aim is often to provide new information. This occurs in Pulp Fiction, when the robbery of the diner, triggered at the start of the film, takes on its full significance only when it is repeated at the climax. In Run Lola Run, a single event is repeated many times after it first occurs: Lola’s boyfriend reports by phone that he has lost a bag (Tasche) full of drug money, and we hear him and Lola shouting “Tasche” several times, even though we realize that they really say it only once or twice each. The repetition of their shouts underlines their terror in a way characteristic of this hyperkinetic movie. In our examination of Citizen Kane, we shall see another example of how repetition can recontextualize old information.
+
+The various ways that a film’s plot may manipulate story order, duration, and frequency illustrate how we actively participate in making sense of the narrative film. The plot supplies cues about chronological sequence, the time span of the actions, and the number of times an event occurs, and it’s up to the viewer to make assumptions and inferences and to form expectations. In some cases, our understanding of temporal relations can get quite complicated. In The Usual Suspects, a seemingly petty criminal spins an elaborate tale of his gang’s activities to an FBI agent. His recounting unfolds in many flashbacks, some of which repeat events we witnessed in the opening scene. Yet a surprise final twist reveals that some of the flashbacks must have contained lies, and we must piece together both the chronology of events and the story’s real cause–effect chain. Such time scrambling has become more common in recent decades. (See “A Closer Look,”
+p. 87.)
+
+Often we must motivate manipulations of time by the all-important principle of cause and effect. For instance, a flashback will often be caused by some incident that triggers a character’s recalling some event in the past. The plot may skip over years of story duration if they contain nothing important to the chains of cause and effect. The repetition of actions may also be motivated by the plot’s need to communicate certain key causes very clearly to the spectator.
+
+Space
+
+In some media, a narrative might emphasize only causality and time. Many of the anecdotes we tell each other don’t specify where the action takes place. In film narrative, however, space is usually an important factor. Events occur in well-defined locales, such as Kansas or Oz; the Flint, Michigan, of Roger and Me; or the Manhattan of North by Northwest. We shall consider setting in more detail when we examine mise-en-scene in Chapter 4, but we ought briefly to note how plot and story can manipulate space.
+
+A CLOSER LOOK
+
+PLAYING GAMES WITH STORY TIME
+
+For a spectator, reconstructing story order from the plot might be seen as a sort of game. Most Hollywood films make this game fairly simple. Still, just as we enjoy learning the rules of new games rather than playing the same one over and over, in unusual films, we can enjoy the challenge of unpredictable presentations of story events.
+
+Since the 1980s, occasional films have exploited that enjoyment by using techniques other than straightforward flashbacks to tell their stories. For instance, the story events might be reordered in novel ways. Pulp Fiction (1994) begins and ends with stages of a restaurant holdup—seemingly a conventional frame story. Yet in fact the final event to occur in the story—the Bruce Willis character and his girlfriend fleeing Los Angeles—happens well after the final scene we see. The reordering of events is startling and confusing at first, but it is dramatically effective in the way the conclusion forces us to rethink events we have seen earlier.
+
+The success of Pulp Fiction made such a play with story order more acceptable in American filmmaking. GO (Doug Liman, 1999) presents the events of a single night three times, each time from a different character’s point of view. We cannot fully figure out what happened until the end, since various events are withheld from the first version and shown in the second or third.
+
+Pulp Fiction and GO were independent films, but more mainstream Hollywood movies have also played with the temporal relations of story and plot. Steven Soderbergh’s Out of Sight (1998) begins with the story of an inept bank robber who falls in love with the FBI agent who pursues him. As their oddball romance proceeds, there is a string of flashbacks not motivated by any character’s memory. These seem to involve a quite separate story line, and their purpose is puzzling until the film’s second half, when the last flashback, perhaps a character’s recollection, loops back to the action that had begun the film and thus helps explain the main plot events.
+
+Mainstream films may also use science fiction or fantasy premises to present alternative futures, often called “what if?” narratives. (The film industry website Box Office Mojo even lists “What If” as a separate genre and defines it as “Comedies About Metaphysical Questions That Come to Pass by Fantastical Means but in Realistic Settings.”) Such films typically present a situation at the beginning, then show how the story might proceed along different cause–effect chains if one factor were to be changed. Sliding Doors (Peter Howitt, 1998), for example, shows the heroine, Helen, fired from her job and heading home to her apartment, where her boyfriend is in bed with another woman. We see Helen entering the subway and catching her train, but then the action runs backward and she arrives on the platform again, this time bumping into a child on the stairs and missing the train. The rest of the film’s plot moves between two alternative futures for Helen. By catching the train, Helen arrives in time to discover her boyfriend’s affair and moves out. By missing the train, she arrives after the other woman has left and hence she stays with her faithless lover. The plot moves back and forth between these alternative cause–effect chains before neatly dovetailing them at the end.
+
+Groundhog Day (Harold Ramis, 1993) helped to popularize “what if?” plots. On February 1, an obnoxious weatherman, Phil Connor, travels to Punxsutawney to cover the famous Groundhog Day ceremonies. He then finds himself trapped in February 2, which repeats over and over, with variants depending on how Phil acts each day, sometimes behaving frivolously, sometimes breaking laws (3.9, 3.10), and later trying to improve himself. Only after many such days does he become an admirable character, and the repetitions mysteriously stop.
+
+ 
+
+3.9 During one repetition of February 2 in Groundhog Day, Phil tests whether he can get away with crimes, getting himself tossed in jail in the evening …
+
+ 
+
+ 
+
+3.10 … only to find himself waking up, as on other Groundhog Days, back in bed at the bed-and-breakfast inn.
+
+ 
+
+Neither Sliding Doors nor Groundhog Day provides any explanation for the forking of its protagonist’s life into various paths. We simply must assume that some higher power has intervened in order to improve his or her situation. Other films may provide some motivation for the changes, such as a time machine. The three Back to the Future films (Robert Zemekis, 1985, 1989, 1990) posit that Marty’s friend Doc has invented such a machine, and in the first film, it accidentally transports Marty back to 1955, a time just before his parents fell in love. By accidentally changing the circumstances that caused their romance, Marty endangers his own existence in 1985. Despite being comedies aimed primarily at teenagers and despite providing the time machine motivation for the changes, the three films, and particularly Parts I and II, created complex crisscrossings of cause and effect. Marty induces his parents to fall in love and returns safely to 1985 (where his life has been improved as a result of his first time trip). But events that take place in his life in 2015 have effects in 1955, as the villain Biff uses the time machine to travel back and change what happened then in yet another way—one that ends with terrible consequences for Doc and for Marty’s whole family. Marty must again travel back to 1955 to stop Biff from changing events. By the end of Part II, he becomes trapped there, while Doc is accidentally sent back to 1885. Marty joins him there in Part III for another set of threatened changes to the future. If all this sounds complicated, it is. Although the narrative maintains a remarkably unified series of cause–effect chains, it becomes so convoluted that at one point Doc diagrams events for Marty (and us) on a blackboard!
+
+Such narrative games were influenced by a similar trend in European films. In 1981, Polish director Krzysztof Kieslowski made Blind Chance, which showed three sets of consequences depending on whether the protagonist caught a train at the beginning or not. Unlike Sliding Doors, however, Blind Chance presents these alternative futures as self-contained stories, one after the other. The same approach appears in Run Lola Run (Tom Tykwer, 1998, Germany). Here the heroine’s desperate attempts to replace a large sum that her inept boyfriend owes to drug dealers are shown as three stories. Each one ends very differently after small changes of action on Lola’s part.
+
+CONNECT TO THE BLOG
+
+Do modern audiences even care about closure and coherence anymore? We argue that they do in “The end of cinema as we know it—yet again.”
+
+See
+www.davidbordwell.net/blog/?p=39.
+
+Although temporal scrambling and “what if?” premises make it more difficult for us to piece story events together, filmmakers usually give us enough clues along the way to keep us from frustration. Usually, the film does not provide a huge number of alternative futures—perhaps only two or three. Within these futures, the cause–effect chain remains linear, so that we can piece it together. The characters and settings tend to remain quite consistent for all the alternative story lines—though often small differences of appearance are introduced to help us keep track of events (3.11, 3.12). The individual story lines tend to parallel one another. In all three presentations of events in Run Lola Run, the goal is the same, even though the progression and outcomes are different. The final presentation of events tends to give us the impression of being the real, final one, and so “what if?” films usually achieve a sense of closure. Characters sometimes even talk about the events that have changed their lives, as with Doc’s blackboard explanation in Back to the Future II. In Sliding Doors, Helen remarks, “If only I had just caught that bloody train, it’d never have happened.”
+
+ 
+
+3.11 In one story line of Sliding Doors, Helen helpfully gets her hair cut short so that we can distinguish her from …
+
+ 
+
+ 
+
+3.12 … the Helen of the other story line, who keeps her hair long. (A bandage on her forehead was a crucial clue before the haircut.)
+
+ 
+
+These films appeal to the way we think in ordinary life. We sometimes speculate about how our lives would change if a single event had been different. We easily understand the sort of game that these films present, and we’re willing to play it.
+
+More and more, however, puzzle films have denied us this degree of unity and clarity. Here filmmakers create perplexing patterns of story time or causality, trusting that viewers will search for clues by rewatching the movie. An early example is Christopher Nolan’s Memento (1998), which presents the hero’s investigation along two time tracks. Brief black-and-white scenes show an ongoing present, with story action moving forward chronologically. The more expanded scenes, which are in color, move backward through time, so the first plot event we see is the final story event, the second plot event is the next-to-last story event, and so on. This tactic reflects the hero’s loss of short-term memory, but it also challenges viewers to piece everything together. At the same time, there are enough uncertainties about the hero’s memories to lead viewers to speculate that some mysteries remain unresolved at the close.
+
+The DVD format, which allows random access to scenes, encouraged filmmakers along this path, as did the Internet. Websites and chatrooms buzzed with speculations about what really happened in Donnie Darko (2001), Identity (2003), Primer (2004), and The Butterfly Effect (2004). Like other films that twist or break up story time, puzzle movies try to engross us in the dynamics of narrative form.
+
+Normally, the place of the story action is also that of the plot, but sometimes the plot leads us to infer other locales as part of the story. We never see Roger Thornhill’s office or the colleges that kicked Kane out. Thus the narrative may ask us to imagine spaces and actions that are never shown. In Otto Preminger’s Exodus, one scene is devoted to Dov Landau’s interrogation by a terrorist organization he wants to join. Dov reluctantly tells his questioners of life in a Nazi concentration camp (3.13). Although the film never shows this locale through a flashback, much of the scene’s emotional power depends on our using our imagination to fill in Dov’s sketchy description of the camp.
+
+ 
+
+3.13 In Exodus, Dov Landau recounts his traumatic stay in a concentration camp. Instead of presenting this through a flashback, the narration dwells on his face, leaving us to visualize his ordeal.
+
+ 
+
+ 
+
+“The multiple points of view replaced the linear story. Watching a repeated action or an intersection happen again and again … they hold the audience in the story. It’s like watching a puzzle unfold.”
+
+— Gus van Sant, director, on Elephant
+
+ 
+
+Further, we can introduce an idea akin to the concept of screen duration. Besides story space and plot space, cinema employs screen space: the visible space within the frame. We’ll consider screen space and offscreen space in detail in Chapter 5, when we analyze framing as a cinematographic technique. For now, it’s enough to say that, just as screen duration selects certain plot spans for presentation, so screen space selects portions of plot space.
+
+Openings, Closings, and Patterns of Development
+
+In Chapter 2, our discussion of formal development in general within the film suggested that it’s often useful to compare beginnings and endings. A narrative’s use of causality, time, and space usually involves a change from an initial situation to a final situation.
+
+A film does not just start, it begins. The opening provides a basis for what is to come and initiates us into the narrative. In some cases, the plot will seek to arouse curiosity by bringing us into a series of actions that has already started. (This is called opening in medias res, a Latin phrase meaning “in the middle of things.”) The viewer speculates on possible causes of the events presented. The Usual Suspects begins with a mysterious man named Keyser Söze killing one of the main characters and setting fire to a ship. Much of the rest of the film deals with how these events came to pass. In other cases, the film begins by telling us about the characters and their situations before any major actions occur.
+
+Either way, some of the actions that took place before the plot started will be stated or suggested so that we can start to connect up the whole story. The portion of the plot that lays out important story events and character traits in the opening situation is called the exposition. In general, the opening raises our expectations by setting up a specific range of possible causes for and effects of what we see. Indeed, the first quarter or so of a film’s plot is often referred to as the setup.
+
+As the plot proceeds, the causes and effects will define narrower patterns of development. There is no exhaustive list of possible plot patterns, but several kinds crop up frequently enough to be worth mentioning.
+
+Most patterns of plot development depend heavily on the ways that causes and effects create a change in a character’s situation. The most common general pattern is a change in knowledge. Very often, a character learns something in the course of the action, with the most crucial knowledge coming at the final turning point of the plot. In Witness, when John Book, hiding out on an Amish farm, learns that his partner has been killed, his rage soon leads to a climactic shoot-out.
+
+A very common pattern of development is the goal-oriented plot, in which a character takes steps to achieve a desired object or state of affairs. Plots based on searches would be instances of the goal plot. In Raiders of the Lost Ark, the protagonists try to find the Ark of the Covenant; in Le Million, characters search for a missing lottery ticket; in North by Northwest, Roger Thornhill looks for George Kaplan. A variation on the goal-oriented plot pattern is the investigation, so typical of detective films, in which the protagonist’s goal is not an object, but information, usually about mysterious causes. In more strongly psychological films, such as Fellini’s 8½, the search and the investigation become internalized when the protagonist, a noted film director, attempts to discover the source of his creative problems.
+
+Time or space may also provide plot patterns. A framing situation in the present may initiate a series of flashbacks showing how events led up to the present situation, as in The Usual Suspects’ flashbacks. Hoop Dreams is organized around the two main characters’ high school careers, with each part of the film devoted to a year of their lives. The plot may also create a specific duration for the action—a deadline. In Back to the Future, the hero must synchronize his time machine with a bolt of lightning at a specific moment in order to return to the present. This creates a goal toward which he must struggle. Or the plot may create patterns of repeated action via cycles of events: the familiar “here we go again” pattern. Such a pattern occurs in Woody Allen’s Zelig, in which the chameleon-like hero repeatedly loses his own identity by imitating the people around him.
+
+Space can also become the basis for a plot pattern. This usually happens when the action is confined to a single locale, such as a train (Anthony Mann’s The Tall Target) or a home (Sidney Lumet’s Long Day’s Journey into Night).
+
+A given plot can, of course, combine these patterns. Many films built around a journey, such as The Wizard of Oz or North by Northwest, involve deadlines. The Usual Suspects puts its flashbacks at the service of an investigation. Jacques Tati’s Mr. Hulot’s Holiday uses both spatial and temporal patterns to structure its comic plot. The plot confines itself to a beachside resort and its neighboring areas, and it consumes one week of a summer vacation. Each day certain routines recur: morning exercise, lunch, afternoon outings, dinner, evening entertainment. Much of the film’s humor relies on the way that Mr. Hulot alienates the other guests and the townspeople by disrupting their conventional habits (3.14). Although cause and effect still operate in Mr. Hulot’s Holiday, time and space are central to the plot’s formal patterning.
+
+ 
+
+3.14 In Mr. Hulot’s Holiday, Hulot’s aged, noisy car has a flat tire that breaks up a funeral.
+
+ 
+
+ 
+
+For any pattern of development, the spectator will create specific expectations. As the film trains the viewer in its particular form, these expectations become more and more precise. Once we comprehend Dorothy’s desire to go home, we see her every action as furthering or delaying her progress toward her goal. Thus her trip through Oz is hardly a sightseeing tour. Each step of her journey (to the Emerald City, to the Witch’s castle, to the Emerald City again) is governed by the same principle—her desire to go home.
+
+In any film, the pattern of development in the middle portion may delay an expected outcome. When Dorothy at last reaches the Wizard, he sets up a new obstacle for her by demanding the Witch’s broom. Similarly, in North by Northwest, Hitchcock’s journey plot constantly postpones Roger Thornhill’s discovery of the Kaplan hoax, and this, too, creates suspense. The pattern of development may also create surprise, the cheating of an expectation, as when Dorothy discovers that the Wizard is a fraud or when Thornhill sees the minion Leonard fire point-blank at his boss Van Damm. Patterns of development encourage the spectator to form longterm expectations that can be delayed, cheated, or gratified.
+
+A film doesn’t simply stop; it ends. The narrative will typically resolve its causal issues by bringing the development to a high point, or climax. In the climax, the action is presented as having a narrow range of possible outcomes. At the climax of North by Northwest, Roger and Eve are dangling off Mount Rushmore, and there are only two possibilities: they will fall, or they will be saved.
+
+Because the climax focuses possible outcomes so narrowly, it typically serves to settle the causal issues that have run through the film. In the documentary Primary, the climax takes place on election night; both Kennedy and Humphrey await the voters’ verdict and finally learn the winner. In Jaws, several battles with the shark climax in the destruction of the boat, the death of Captain Quint, the apparent death of Hooper, and Brody’s final victory. In such films, the ending resolves, or closes off, the chains of cause and effect.
+
+Emotionally, the climax aims to lift the viewer to a high degree of tension or suspense. Since the viewer knows that there are relatively few ways the action can develop, she or he can hope for a fairly specific outcome. In the climax of many films, formal resolution coincides with an emotional satisfaction.
+
+A few narratives, however, are deliberately anticlimactic. Having created expectations about how the cause–effect chain will be resolved, the film scotches them by refusing to settle things definitely. One famous example is the last shot of The 400 Blows (p. 84). In Michelangelo Antonioni’s L’Eclisse (“The Eclipse”), the two lovers vow to meet for a final reconciliation but aren’t shown doing so.
+
+In such films, the ending remains relatively open. That is, the plot leaves us uncertain about the final consequences of the story events. Our response becomes less firm than it does when a film has a clear-cut climax and resolution. The form may encourage us to imagine what might happen next or to reflect on other ways in which our expectations might have been fulfilled.
+
+Narration: The Flow of Story Information
+
+A plot presents or implies story information. The opening of North by Northwest shows Manhattan at rush hour and introduces Roger Thornhill as an advertising executive; it also suggests that he has been busily dictating before we see him. Filmmakers have long realized that the spectator’s interest can be aroused and manipulated by carefully divulging story information at various points. In general, when we go to a film, we know relatively little about the story; by the end, we know a lot more, usually the whole story. What happens in between?
+
+The plot may arrange cues in ways that withhold information for the sake of curiosity or surprise. Or the plot may supply information in such a way as to create expectations or increase suspense. All these processes constitute narration, the plot’s way of distributing story information in order to achieve specific effects. Narration is the moment-by-moment process that guides us in building the story out of the plot. Many factors enter into narration, but the most important ones for our purposes involve the range and the depth of story information that the plot presents.
+
+Range of Story Information
+
+The plot of D. W. Griffith’s The Birth of a Nation begins by recounting how slaves were brought to America and how people debated the need to free them. The plot then shows two families, the northern Stoneman family and the southern Camerons. The plot also dwells on political matters, including Lincoln’s hope of averting civil war. From the start, then, our range of knowledge is very broad. The plot takes us across historical periods, regions of the country, and various groups of characters. This breadth of story information continues throughout the film. When Ben Cameron founds the Ku Klux Klan, we know about it at the moment the idea strikes him, long before the other characters learn of it. At the climax, we know that the Klan is riding to rescue several characters besieged in a cabin, but the besieged people do not know this. On the whole, in The Birth of a Nation, the narration is very unrestricted: We know more, we see and hear more, than any of the characters can. Such extremely knowledgeable narration is often called omniscient narration.
+
+Now consider the plot of Howard Hawks’s The Big Sleep. The film begins with the detective Philip Marlowe visiting General Sternwood, who wants to hire him. We learn about the case as he does. Throughout the rest of the film, Marlowe is present in every scene. With hardly any exceptions, we don’t see or hear anything that he can’t see and hear. The narration is thus restricted to what Marlowe knows.
+
+Each alternative offers certain advantages. The Birth of a Nation seeks to present a panoramic vision of a period in American history (seen through peculiarly racist spectacles). Omniscient narration is thus essential to creating the sense of many destinies intertwined with the fate of the country. Had Griffith restricted narration the way The Big Sleep does, we would have learned story information solely through one character—say, Ben Cameron. We could not witness the prologue scene, or the scenes in Lincoln’s office, or most of the battle episodes, or the scene of Lincoln’s assassination, since Ben is present at none of these events. The plot would now concentrate on one man’s experience of the Civil War and Reconstruction.
+
+Similarly, The Big Sleep derives functional advantages from its restricted narration. By limiting us to Marlowe’s range of knowledge, the film can create curiosity and surprise. Restricted narration is important to mystery films, since the films engage our interest by hiding certain important causes. Confining the plot to an investigator’s range of knowledge plausibly motivates concealing other story information. The Big Sleep could have been less restricted by, say, alternating scenes of Marlowe’s investigation with scenes that show the gambling boss, Eddie Mars, planning his crimes, but this would have given away some of the mystery. In each of the two films, the narration’s range of knowledge functions to elicit particular reactions from the viewer.
+
+“In the first section [of Reservoir Dogs], up until Mr. Orange shoots Mr. Blonde, the characters have far more information about what’s going on than you have—and they have conflicting information. Then the Mr. Orange sequence happens and that’s a great leveller. You start getting caught up with exactly what’s going on, and in the third part, when you go back into the warehouse for the climax you are totally ahead of everybody—you know far more than any one of the characters.”
+
+— Quentin Tarantino, director
+
+ 
+
+Unrestricted and restricted narration aren’t watertight categories but rather are two ends of a continuum. Range is a matter of degree. A film may present a broader range of knowledge than does The Big Sleep and still not attain the omniscience of The Birth of a Nation. In North by Northwest, for instance, the early scenes confine us pretty much to what Roger Thornhill sees and knows. After he flees from the United Nations building, however, the plot moves to Washington, where the members of the U.S. Intelligence Agency discuss the situation. Here the viewer learns something that Roger Thornhill will not learn for some time: the man he seeks, George Kaplan, does not exist. Thereafter, we have a greater range of knowledge than Roger does. In at least one important respect, we also know more than the Agency’s staff: we know exactly how the mix-up took place. But we still do not know many other things that the narration could have divulged in the scene in Washington. For instance, the Agency’s staff do not identify the real agent they have working under Van Damm’s nose. In this way, any film may oscillate between restricted and unrestricted presentation of story information.
+
+Across a whole film, narration is never completely unrestricted. There is always something we are not told, even if it is only how the story will end. Usually, we think of a typical unrestricted narration as operating in the way that it does in The Birth of a Nation: the plot shifts constantly from character to character to change our source of information.
+
+Similarly, a completely restricted narration is not common. Even if the plot is built around a single character, the narration usually includes a few scenes that the character is not present to witness. Though Tootsie’s narration remains almost entirely attached to actor Michael Dorsey, a few shots show his acquaintances shopping or watching him on television.
+
+The plot’s range of story information creates a hierarchy of knowledge. At any given moment, we can ask if the viewer knows more than, less than, or as much as the characters do. For instance, here’s how hierarchies would look for the three films we have been discussing. The higher someone is on the scale, the greater his or her range of knowledge:
+
+ 
+
+ 
+
+An easy way to analyze the range of narration is to ask, Who knows what when? The spectator must be included among the “whos,” not only because we may get more knowledge than any one character but also because we may get knowledge that no character possesses. We shall see this happen at the end of Citizen Kane.
+
+Our examples suggest the powerful effects that narration can achieve by manipulating the range of story information. Restricted narration tends to create greater curiosity and surprise for the viewer. For instance, if a character is exploring a sinister house, and we see and hear no more than the character does, a sudden revelation of a hand thrusting out from a doorway will startle us.
+
+CONNECT TO THE BLOG
+
+Cloverfield uses an unusually restricted narration, confining itself to film shot by the main characters. See our analysis, “A behemoth from the Dead Zone,” at www.davidbordwell.net/blog/?p=1844.
+
+In contrast, as Hitchcock pointed out, a degree of unrestricted narration helps build suspense. He explained it this way to François Truffaut:
+
+We are now having a very innocent little chat. Let us suppose that there is a bomb underneath this table between us. Nothing happens, and then all of a sudden, “Boom!” There is an explosion. The public is surprised, but prior to this surprise, it has seen an absolutely ordinary scene, of no special consequence. Now, let us take a suspense situation. The bomb is underneath the table and the public knows it, probably because they have seen the anarchist place it there. The public is aware that the bomb is going to explode at one o’clock and there is a clock in the decor. The public can see that it is a quarter to one. In these conditions this innocuous conversation becomes fascinating because the public is participating in the scene. The audience is longing to warn the characters on the screen: “You shouldn’t be talking about such trivial matters. There’s a bomb beneath you and it’s about to explode!”
+
+ 
+
+In the first case we have given the public fifteen seconds of surprise at the moment of the explosion. In the second case we have provided them with fifteen minutes of suspense. The conclusion is that whenever possible the public must be informed. (François Truffaut, Hitchcock [New York: Simon & Schuster, 1967], p. 52)
+
+Hitchcock put his theory into practice. In Psycho, Lila Crane explores the Bates mansion in much the same way as our hypothetical character is doing above. There are isolated moments of surprise as she discovers odd information about Norman and his mother. But the overall effect of the sequence is built on suspense because we know, as Lila does not, that Mrs. Bates is in the house. (Actually, as in North by Northwest, our knowledge isn’t completely accurate, but during Lila’s investigation, we believe it to be.) As in Hitchcock’s anecdote, our superior range of knowledge creates suspense because we can anticipate events that the character cannot.
+
+CONNECT TO THE BLOG
+
+We present a more detailed discussion of the distinction between perceptual and mental subjectivity in narration in “Categorical coherence: A closer look at character subjectivity.”
+
+See
+www.davidbordwell.net/blog/?p=2927.
+
+Depth of Story Information
+
+A film’s narration manipulates not only the range of knowledge but also the depth of our knowledge. Here we are referring to how deeply the plot plunges into a character’s psychological states. Just as there is a spectrum between restricted and unrestricted narration, there is a continuum between objectivity and subjectivity.
+
+A plot might confine us wholly to information about what characters say and do: their external behavior. Here the narration is relatively objective. Or a film’s plot may give us access to what characters see and hear. We might see shots taken from a character’s optical standpoint, the point-of-view shot. For instance, in North by Northwest, point-of-view editing is used as we see Roger Thornhill crawl up to Van Damm’s window (3.15–3.17). Or we might hear sounds as the character would hear them, what sound recordists call sound perspective. Visual or auditory point of view offers a degree of subjectivity, one we might call perceptual subjectivity.
+
+ 
+
+3.15 In North by Northwest, Roger Thornhill looks in Van Damm’s window (objective narration).
+
+ 
+
+ 
+
+ 
+
+3.16 A shot from Roger’s point of view follows (perceptual subjectivity).
+
+ 
+
+ 
+
+ 
+
+3.17 This is followed by another shot of Roger looking (objectivity again).
+
+ 
+
+ 
+
+There is the possibility of still greater depth if the plot plunges into the character’s mind. We can call this mental subjectivity. We might hear an internal voice reporting the character’s thoughts, or we might see the character’s inner images, representing memory, fantasy, dreams, or hallucinations. In Slumdog Millionaire, the hero is a contestant on a quiz show, but his concentration is often interrupted by brief shots of his memories, particularly one image of the woman he loves (3.18–3.19). Here Jamal’s memory motivates flashbacks to earlier story events.
+
+ 
+
+3.18 Early in Slumdog Millionaire, it’s established that during the quiz show Jamal recalls his past …
+
+ 
+
+ 
+
+ 
+
+3.19 … most often, his glimpse of Latika at the train station.
+
+ 
+
+ 
+
+Either sort of subjectivity may be signaled through particular film techniques. If a character is drunk, or drugged, or disoriented, the narration may render those perceptual states through slow motion, blurred imagery, or distorted sound. Similar stylistic qualities may suggest a dream or hallucination.
+
+But some imaginary actions may not be so strongly marked. A later scene in Slumdog Millionaire shows Jamal reuniting with his gangster brother Salim atop a skyscraper under construction. Jamal hurls himself at Salim, and we see shots of both falling from the building (3.20–3.21). But the next shot presents Jamal still on the skyscraper, glaring at Salim (3.22). Now we realize that the images of the falling men were purely mental, representing Jamal’s rage. We briefly thought that their fall was really taking place because the shots lacked any marks of subjectivity.
+
+ 
+
+3.20 Furious with Salim, Jamal grabs him and rushes toward the edge of the building.
+
+ 
+
+ 
+
+ 
+
+3.21 Several shots present their fall.
+
+ 
+
+ 
+
+ 
+
+3.22 Cut back to Jamal, glaring at Salim. The shot reveals that he only imagined killing both of them.
+
+ 
+
+ 
+
+Typically, either perceptual or mental subjectivity is embedded in a framework of objective narration. Point-of-view shots, like those of Roger Thornhill in North by Northwest, and flashbacks or fantasies are bracketed by more objective shots. We are able to understand Jamal’s memory of Latika and his urge to kill Salim because those images are framed by shots of actions that we take to be really happening in the plot. Other sorts of films, however, may avoid this convention. Fellini’s 8½, Bunuel’s Belle de Jour, Haneke’s Caché, and Nolan’s Memento mix objectivity and subjectivity in ambiguous ways.
+
+Does a restricted range of knowledge create a greater subjective depth? Not necessarily. The Big Sleep is quite restricted in its range of knowledge, as we’ve seen. But we very seldom see or hear things from Marlowe’s perceptual vantage point, and we never get direct access to his mind. The Big Sleep uses almost completely objective narration. The omniscient narration of The Birth of a Nation, however, plunges to considerable depth with optical point-of-view shots, flashbacks, and the hero’s final fantasy vision of a world without war. Hitchcock delights in giving us greater knowledge than his characters have, but at certain moments, he confines us to their perceptual subjectivity (usually relying on point-of-view shots). Range and depth of knowledge are independent variables.
+
+Incidentally, this is one reason why the term point of view is ambiguous. It can refer to range of knowledge (as when a critic speaks of an “omniscient point of view”) or to depth (as when speaking of “subjective point of view”). In the rest of this book, we will use point of view only to refer to perceptual subjectivity, as in the phrase “optical point-of-view shot,” or POV shot.
+
+Manipulating the depth of knowledge can achieve many purposes. Plunging to the depths of mental subjectivity can increase our sympathy for a character and can cue stable expectations about what the characters will later say or do. The memory sequences in Alain Resnais’s Hiroshima mon amour and the fantasy sequences in Fellini’s 8½ yield information about the protagonists’ traits and possible future actions that would be less vivid if presented objectively. A subjectively motivated flashback can create parallels among characters, as does the flashback shared by mother and son in Kenji Mizoguchi’s Sansho the Bailiff
+(3.23–3.26). A plot can create curiosity about a character’s motives and then use some degree of subjectivity—for example, inner commentary or subjective flashback—to explain the cause of the behavior. In The Sixth Sense, the child psychologist’s odd estrangement from his wife begins to make sense when we hear his inner recollection of something his young patient had told him much earlier.
+
+ 
+
+3.23 One of the early flashbacks in Sansho the Bailiff starts with the mother, now living in exile with her children, kneeling by a stream.
+
+ 
+
+ 
+
+ 
+
+3.24 Her image is replaced by a shot of her husband in the past, about to summon his son Zushio.
+
+ 
+
+ 
+
+ 
+
+3.25 At the climax of the scene in the past, the father gives Zushio an image of the goddess of mercy and admonishes him always to show kindness to others.
+
+ 
+
+ 
+
+ 
+
+3.26 Normal procedure would come out of the flashback showing the mother again, emphasizing it as her memory. Instead, we return to the present with a shot of Zushio, bearing the goddess’s image. It is as if he and his mother have shared the memory of the father’s gift.
+
+ 
+
+ 
+
+On the other hand, objectivity can be an effective way of withholding information. One reason that The Big Sleep does not treat Marlowe subjectively is that the detective genre demands that the detective’s reasoning be concealed from the viewer. The mystery is more mysterious if we do not know the investigator’s hunches and conclusions before he reveals them at the end.
+
+A film need not be in the mystery genre in order to exploit objective and restricted narration. Julia Loktev’s Day Night Day Night follows a young woman who has been recruited as a suicide bomber. We see her accepted into the group, awaiting orders, and eventually embarking on the mission. One scene utilizes optical point of view extensively, while another does so briefly. There are a few moments of auditory subjectivity, when the noises of street traffic drop out. Yet these flashes of subjective depth stand out against an overwhelmingly objective presentation. For nearly the entire film, we have to assess the woman’s state of mind purely through her physical behavior. Moreover, our information about the story action is very limited. We are never told what political group has recruited her or why she has volunteered for the task. The woman herself does not know the plan, the members of the terrorist group, or the reasons she was picked. In fact, we know less than she does, because we get only hints about her past life. The impersonal, tightly restricted narration of Day Night Day Night not only creates suspense about her mission but also encourages curiosity about a rather large number of story events.
+
+At any moment in a film, we can ask, “How deeply do I know the characters’ perceptions, feelings, and thoughts?” The answer will point directly to how the narration is presenting or withholding story information in order to achieve a specific effect on the viewer.
+
+In all of these examples, the filmmaker’s choice about range or depth affects how the spectator responds to the film as it progresses.
+
+The Narrator
+
+Narration, then, is the process by which the plot presents story information to the spectator. This process may shift between restricted and unrestricted ranges of knowledge and varying degrees of objectivity and subjectivity. Narration may also use a narrator, some specific agent who purports to be telling us the story.
+
+A CLOSER LOOK
+
+WHEN THE LIGHTS GO DOWN, THE NARRATION STARTS
+
+When we open a novel for the first time, we don’t expect the story action to start on the copyright page. Nor do we expect to find the story’s last scene on the back cover. But films can start emitting narrative information in the credit sequences and continue to the very last moments we’re in the theater.
+
+Credit sequences serve to identify the participants in a production, and today the list can run many minutes. In the late 1910s, filmmakers realized that credits could be enlivened by drawings and paintings keyed to the film (3.27). Since the 1920s, the credits’ graphic design and musical accompaniment have often quickly conjured up the time and place of the story (3.28). The breezy credits of Truffaut’s Jules and Jim offer glimpses of the action to come while firmly establishing the two young men’s friendship in turn-of-the-century Paris.
+
+ 
+
+3.27 An early example of illustrated credits for the 1917 comedy Reaching for the Moon.
+
+ 
+
+ 
+
+3.28 Raw Deal, a crime film from 1948, begins in prison, and the credit sequence suggests the locale before the action begins.
+
+ 
+
+An overall mood is often set simply by music playing over simple titles, as in The Exorcist, but the credits can take a more active role through type fonts, color, or movement. Saul Bass, a celebrated designer of corporate logos, gave Alfred Hitchcock’s and Otto Preminger’s films dynamic geometric designs (3.29). Rainer Werner Fassbinder was famous for his imaginative credit sequences, some in homage to the 1950s Hollywood melodramas he admired. In a similar vein, the brash collages in Pedro Almodóvar’s credit sequences lead us to expect sexy irreverence (3.30).
+
+ 
+
+3.29 Saul Bass’s elegantly simple credits for Advise and Consent hint that the story will lift the lid off Washington scandals.
+
+ 
+
+ 
+
+3.30 A collage design suggesting sophistication and glamorous lifestyles (Women on the Verge of a Nervous Breakdown).
+
+ 
+
+Plot elements can be announced quite specifically. Illustrations can anticipate particular scenes (3.31).
+Se7en’s scratchy glimpses of cutting, stitching, and defacement launched a cycle of nightmarish credit sequences showing violation and dismemberment. Goldfinger’s credits present a key motif and anticipate several scenes (3.32). Many of the scenes in Catch Me If You Can are previewed in the title sequence, which pays affectionate homage to the animated credit sequences of the film’s period (3.33). More subtly, the opening of The Thomas Crown Affair (1999) hints at the method by which the hero will steal a painting.
+
+ 
+
+3.31 Some of the stick-figure credits in Bringing Up Baby anticipate scenes that will take place in the story action.
+
+ 
+
+ 
+
+3.32 Goldfinger: The gilded woman herself will reappear in the film, while other scenes to come are projected on areas of her body.
+
+ 
+
+ 
+
+3.33 The streamlined animation of Catch Me If You Can evokes 1960s credit sequences while previewing story action and settings. Here the Tom Hanks character starts to trail Leonardo DiCaprio, who plays an impostor pretending to be an airline pilot.
+
+ 
+
+Films often end their plot with an epilogue that celebrates the stable state that the characters have achieved, and that situation can be presented in tandem with the credits (3.34). Sometimes key scenes will be replayed under the final credits, or new plot action will be shown. Airplane! began a fashion for weaving running gags into its final credits.
+
+ 
+
+3.34 In Slumdog Millionaire, the dance epilogue in the railway station is intercut with the major credits, which recall scenes from the film.
+
+ 
+
+Occasionally, the filmmaker fools us. We think the plot has ended, and a long list of personnel crawls upward. But then the film tacks an image on the very end (3.35). These “credit cookies” remind us that an enterprising filmmaker may exploit every moment of the film’s running time to engage our narrative expectations.
+
+ 
+
+3.35 Takeshi Kitano’s Sonatine follows its final credit sequence with desolate images of a beach, wistfully reminding us of earlier scenes showing childish gangsters at play.
+
+ 
+
+The narrator may be a character in the story. We are familiar with this convention from literature, as when Huck Finn or Jane Eyre recounts a novel’s action. In Edward Dmytryk’s film Murder, My Sweet, the detective tells his story in flashbacks, addressing the information to inquiring policemen. In the documentary Roger and Me, Michael Moore frankly acknowledges his role as a character narrator. He starts the film with his reminiscences of growing up in Flint, Michigan, and he appears on camera in interviews with workers and in confrontations with General Motors security staff.
+
+A film can also use a noncharacter narrator. Noncharacter narrators are common in documentaries. We never learn who belongs to the anonymous “voice of God” we hear in The River, Primary, or Hoop Dreams. A fictional film may employ this device as well. Jules and Jim uses a dry, matter-of-fact commentator to lend a flavor of objectivity, while other films might call on this device to lend a sense of realism, as in the urgent voice-over we hear during The Naked City.
+
+A film may play on the character/noncharacter distinction by making the source of a narrating voice uncertain. In Film About a Woman Who …, we might assume that a character is the narrator, but we cannot be sure because we cannot tell which character the voice belongs to. In fact, it may be coming from an external commentator.
+
+Note that either sort of narrator may present various sorts of narration. A character narrator is not necessarily restricted and may tell of events that she or he did not witness, as the relatively minor figure of the village priest does in John Ford’s The Quiet Man. A noncharacter narrator need not be omniscient and could confine the commentary to what a single character knows. A character narrator might be highly subjective, telling us details of his or her inner life, or might be objective, confining his or her recounting strictly to externals. A noncharacter narrator might give us access to subjective depths, as in Jules and Jim, or might stick simply to surface events, as does the impersonal voice-over commentator in The Killing. In any case, the viewer’s process of picking up cues, developing expectations, and constructing an ongoing story out of the plot will be partially shaped by what the narrator tells or doesn’t tell.
+
+Summing Up Narration
+
+We can summarize the shaping power of narration by considering George Miller’s The Road Warrior (also known as Mad Max II). The film’s plot opens with a voiceover commentary by an elderly male narrator who recalls “the warrior Max.” After presenting exposition that tells of the worldwide wars that led society to degenerate into gangs of scavengers, the narrator falls silent. The question of his identity is left unanswered.
+
+The rest of the plot is organized around Max’s encounter with a group of peaceful desert people. They want to flee to the coast with the gasoline they have refined, but they’re under siege by a gang of vicious marauders. The plot action involves Max’s agreement to work for the settlers in exchange for gasoline. Later, after a brush with the gang leaves him wounded, his dog dead, and his car demolished, Max commits himself to helping the people escape their compound. The struggle against the encircling gang comes to its climax in an attempt to escape with a tanker truck, with Max at the wheel.
+
+Max is at the center of the plot’s causal chain; his goals and conflicts propel the developing action. Moreover, after the anonymous narrator’s prologue, most of the film is restricted to Max’s range of knowledge. Like Philip Marlowe in The Big Sleep, Max is present in every scene, and almost everything we learn gets funneled through him. The depth of story information is also consistent. The narration provides optical point-of-view shots as Max drives his car (3.36) or watches a skirmish through a telescope. When he is rescued after his car crash, his delirium is rendered as perceptual subjectivity, using the conventional cues of slow motion, superimposed imagery, and slowed-down sound (3.37). All of these narrational devices encourage us to sympathize with Max.
+
+ 
+
+3.36 A point-of-view shot as Max drives up to an apparently abandoned gyro in The Road Warrior.
+
+ 
+
+ 
+
+ 
+
+3.37 The injured Max’s dizzy view of his rescuer uses double exposure.
+
+ 
+
+ 
+
+At certain points, however, the narration becomes more unrestricted. This occurs principally during chases and battle scenes, when we witness events Max probably does not know about. In such scenes, unrestricted narration functions to build up suspense by showing both pursuers and pursued or different aspects of the battle. At the climax, Max’s truck successfully draws the gang away from the desert people, who escape to the south. But when his truck overturns, Max—and we—learn that the truck holds only sand. It has been a decoy. Thus our restriction to Max’s range of knowledge creates a surprise.
+
+“Narrative tension is primarily about withholding information.”
+
+— Ian McEwan, novelist
+
+ 
+
+There is still more to learn, however. At the very end, the elderly narrator’s voice returns to tell us that he was the feral child whom Max had befriended. The desert people drive off, and Max is left alone in the middle of the highway. The film’s final image—a shot of the solitary Max receding into the distance as we pull back (3.38)—suggests both a perceptual subjectivity (the boy’s point of view as he rides away from Max) and a mental subjectivity (the memory of Max dimming for the narrator).
+
+ 
+
+3.38 As the camera tracks away from Max, we hear the narrator’s voice: “And the Road Warrior? That was the last we ever saw of him. He lives now only in my memories.”
+
+ 
+
+ 
+
+In The Road Warrior, then, the plot’s form is achieved not only by causality, time, and space but also by a coherent use of narration. The main portion of the film channels our expectations through an attachment to Max, alternating with more unrestricted portions. In turn, this section is framed by the mysterious narrator who puts all the events into the distant past. The narrator’s presence at the opening leads us to expect him to return at the end, perhaps explaining who he is. Thus both the cause–effect organization and the narrational patterning help the film give us a unified experience.
+
+The Classical Hollywood Cinema
+
+The number of possible narratives is unlimited. Historically, however, fictional filmmaking has tended to be dominated by a single tradition of narrative form. We’ll refer to this dominant mode as the “classical Hollywood cinema.” This mode is called “classical” because of its lengthy, stable, and influential history, and “Hollywood” because the mode assumed its most elaborate shape in American studio films. The same mode, however, governs many narrative films made in other countries. For example, The Road Warrior, though an Australian film, is constructed along classical Hollywood lines. And many documentaries, such as Primary, rely on conventions derived from Hollywood’s fictional narratives.
+
+This conception of narrative depends on the assumption that the action will spring primarily from individual characters as causal agents. Natural causes (floods, earthquakes) or societal causes (institutions, wars, economic depressions) may affect the action, but the narrative centers on personal psychological causes: decisions, choices, and traits of character.
+
+Typically what gets this sort of narragive going is someone’s desire. A character wants something. The desire sets up a goal, and the course of the narrative’s development will most likely involve the process of achieving that goal. In The Wizard of Oz, Dorothy has a series of goals, as we’ve seen: from saving Toto from Miss Gulch to getting home from Oz. The latter goal creates short-term goals along the way: getting to the Emerald City and then killing the Witch.
+
+If this desire to reach a goal were the only element present, there would be nothing to stop the character from moving quickly to achieve it. But there is a counterforce in the classical narrative: an opposition that creates conflict. The protagonist comes up against a character with opposing traits and goals. As a result, the protagonist must seek to change the situation so that he or she can achieve the goal. Dorothy’s desire to return to Kansas is opposed by the Wicked Witch, whose goal is to obtain the Ruby Slippers. Dorothy must eventually eliminate the Witch before she is able to use the slippers to go home. We shall see in His Girl Friday how the two main characters’ goals conflict until the final resolution (pp. 444–445).
+
+“Movies to me are about wanting something, a character wanting something that you as the audience desperately want him to have. You, the writer, keep him from getting it for as long as possible, and then, through whatever effort he makes, he gets it.”
+
+— Bruce Joel Rubin, screenwriter, Ghost
+
+ 
+
+Cause and effect imply change. If the characters didn’t desire something to be different from the way it is at the beginning of the narrative, change wouldn’t occur. Therefore characters’ traits and wants are a strong source of causes and effects.
+
+But don’t all narratives have protagonists of this sort? Actually, no. In 1920s Soviet films, such as Sergei Eisenstein’s Potemkin, October, and Strike, no individual serves as protagonist. In films by Eisenstein and Yasujiro Ozu, many events are seen as caused not by characters but by larger forces (social dynamics in the former, an overarching nature in the latter). In narrative films such as Michelangelo Antonioni’s L’Avventura, the protagonist is not active but passive. So the striving, goal-oriented protagonist, though common, doesn’t appear in every narrative film.
+
+In the classical Hollywood narrative, psychological causes tend to motivate most other narrative events. Time is subordinated to the cause–effect chain. The plot will omit significant durations in order to show only events of causal importance. (The hours Dorothy and her entourage spend walking on the Yellow Brick Road are omitted, but the plot dwells on the moments during which she meets a new character.) The plot will arrange story chronology so as to present the cause–effect chain most strikingly. For instance, in one scene of Hannah and Her Sisters, Mickey (played by Woody Allen) is in a suicidal depression. When we next see him several scenes later, he is bubbly and cheerful. Our curiosity about this abrupt change enhances his comic explanation to a friend, via a flashback, that he achieved a serene attitude toward life while watching a Marx Brothers film.
+
+CONNECT TO THE BLOG
+
+For a discussion of how characters’ goals can be crucial to major transitions in the plot, see “Time goes by turns,” at www.davidbordwell.net/blog/?p=2448.
+
+Specific devices make plot time depend on the story’s cause–effect chain. The appointment motivates characters’ encountering each other at a specific moment. The deadline makes plot duration dependent on the cause–effect chain. Throughout, motivation in the classical narrative film strives to be as clear and complete as possible—even in the fanciful genre of the musical, in which song-and-dance numbers become motivated as either expressions of the characters’ emotions or stage shows mounted by the characters.
+
+Narration in the classical Hollywood cinema exploits a variety of options, but there’s a strong tendency for it to be objective in the way discussed on pages 95–97. It presents a basically objective story reality, against which various degrees of perceptual or mental subjectivity can be measured. Classical cinema also tends toward fairly unrestricted narration. Even if we follow a single character, there are portions of the film giving us access to things the character does not see, hear, or know. North by Northwest and The Road Warrior remain good examples of this tendency. This weighting is overridden only in genres that depend heavily on mystery, such as the detective film, with its reliance on the sort of restrictiveness we saw at work in The Big Sleep.
+
+Finally, most classical narrative films display a strong degree of closure at the end. Leaving few loose ends unresolved, these films seek to complete their causal chains with a final effect. We usually learn the fate of each character, the answer to each mystery, and the outcome of each conflict.
+
+Again, none of these features is necessary to narrative form in general. There is nothing to prevent a filmmaker from presenting the dead time, or narratively unmotivated intervals between more significant events. (Jean-Luc Godard, Carl Dreyer, and Andy Warhol do this frequently, in different ways.) The filmmaker’s plot can also reorder story chronology to make the causal chain more perplexing. For example, Jean-Marie Straub and Daniéle Huillet’s Not Reconciled moves back and forth among three widely different time periods without clearly signaling the shifts. Duˇsan Makavejev’s Love Affair, or the Case of the Missing Switchboard Operator uses flash-forwards interspersed with the main plot action; only gradually do we come to understand the causal relations of these flash-forwards to the present-time events. More recently, puzzle films (pp. 88–89) tease the audience to find clues to enigmatic narration or story events.
+
+CONNECT TO THE BLOG
+
+The classical approach to narrative is still very much alive, as we show in “Your trash, my treasure.”
+
+See
+www.davidbordwell.net/blog/?p=1781.
+
+The filmmaker can also include material that is unmotivated by narrative cause and effect, such as the chance meetings in Truffaut’s films, the political monologues and interviews in Godard’s films, the intellectual montage sequences in Eisenstein’s films, and the transitional shots in Ozu’s work. Narration may be completely subjective, as in The Cabinet of Dr. Caligari, or it may hover ambiguously between objectivity and subjectivity, as in Last Year at Marienbad. Finally, the filmmaker need not resolve all of the action at the end; films made outside the classical tradition sometimes have quite open endings.
+
+We’ll see in Chapter 6 how the classical Hollywood mode also makes cinematic space serve causality through continuity editing. For now we can simply note that the classical mode tends to treat narrative elements and narrational processes in specific and distinctive ways. For all of its effectiveness, the classical Hollywood mode remains only one system among many that can be used for constructing narrative films.
+
+Narrative Form in Citizen Kane
+
+With its unusual organizational style, Citizen Kane invites us to analyze how principles of narrative form operate across an entire film. Kane’s investigation plot carries us toward analyzing how causality and goal-oriented characters may operate in narratives. The film’s manipulations of our knowledge shed light on the story–plot distinction. Kane also shows how ambiguity may arise when certain elements aren’t clearly motivated. Furthermore, the comparison of Kane’s beginning with its ending indicates how a film may deviate from the patterns of classical Hollywood narrative construction. Finally, Kane clearly shows how our experience can be shaped by the way that narration governs the flow of story information.
+
+Overall Narrative Expectations in Citizen Kane
+
+We saw in Chapter 2 that our experience of a film depends heavily on the expectations we bring to it and the extent to which the film confirms them. Before you saw Citizen Kane, you may have known only that it is regarded as a film classic. Such an evaluation would not give you a very specific set of expectations. A 1941 audience would have had a keener sense of anticipation. For one thing, the film was rumored to be a disguised version of the life of the newspaper publisher William Randolph Hearst. Spectators would thus be looking for events and references keyed to Hearst’s life.
+
+Several minutes into the film, the viewer can form more specific expectations about pertinent genre conventions. The early “News on the March” sequence suggests that this film may be a fictional biography, and this hint is confirmed once the reporter, Thompson, begins his inquiry into Kane’s life. The film does indeed follow the conventional outline of the fictional biography, which typically covers an individual’s whole life and dramatizes certain episodes in the period. Examples of this genre would be Anthony Adverse (1936) and The Power and the Glory (1933). (The latter film is often cited as an influence on Citizen Kane because of its complex use of flashbacks.)
+
+The viewer can also quickly identify the film’s use of conventions of the newspaper reporter genre. Thompson’s colleagues resemble the wisecracking reporters in Five Star Final (1931), Picture Snatcher (1933), and His Girl Friday (1940). In this genre, the action usually depends on a reporter’s dogged pursuit of a story against great odds. We therefore expect not only Thompson’s investigation but also his triumphant discovery of the truth. In the scenes devoted to Susan, there are also some conventions typical of the musical film: frantic rehearsals, backstage preparations, and, most specifically, the montage of her opera career, which parodies the conventional montage of singing success in films like Maytime (1937). More broadly, the film evidently owes something to the detective genre, since Thompson is aiming to solve a mystery (Who or what is Rosebud?), and his interviews resemble those of a detective questioning suspects in search of clues.
+
+Note, however, that Kane’s use of genre conventions is somewhat equivocal. Unlike many biographical films, Kane is more concerned with psychological states and relationships than with the hero’s public deeds or adventures. As a newspaper film, Kane is unusual in that the reporter fails to get his story. And Kane is not exactly a standard mystery, since it answers some questions but leaves others unanswered. Citizen Kane is a good example of a film that relies on genre conventions but often thwarts the expectations they arouse.
+
+The same sort of equivocal qualities can be found in Kane’s relation to the classical Hollywood cinema. Even without specific prior knowledge about this film, we expect that, as an American studio product of 1941, it will obey guidelines of that tradition. In most ways, it does. We’ll see that desire propels the narrative, causality is defined around traits and goals, conflicts lead to consequences, time is motivated by plot necessity, and narration is objective, mixing restricted and unrestricted passages. We’ll also see some ways in which Citizen Kane is more ambiguous than most films in this tradition. Desires, traits, and goals are not always spelled out; the conflicts sometimes have an uncertain outcome; at the end, the narration’s omniscience is emphasized to a rare degree. The ending in particular doesn’t provide the degree of closure we would expect in a classical film. Our analysis will show how Citizen Kane draws on Hollywood narrative conventions but also violates some of the expectations that we bring to a Hollywood film.
+
+Plot and Story in Citizen Kane
+
+In analyzing a film, it’s helpful to begin by segmenting it into sequences. Sequences are often demarcated by cinematic devices (fades, dissolves, cuts, black screens, and so on). In a narrative film, the sequences constitute the parts of the plot.
+
+Most sequences in a narrative film are called scenes. The term is used in its theatrical sense, to refer to distinct phases of the action occurring within a relatively unified space and time. Our segmentation of Citizen Kane appears below. In this outline, numerals refer to major parts, some of which are only one scene long. In most cases, however, the major parts consist of several scenes, and each of these is identified by a lowercase letter. Many of these segments could be further divided, but this segmentation suits our immediate purposes.
+
+Our segmentation lets us see at a glance the major divisions of the plot and how scenes are organized within them. The outline also helps us notice how the plot organizes story causality and story time. Let’s look at these factors more closely.
+
+CITIZEN KANE: PLOT SEGMENTATION
+
+C. Credit title
+
+Xanadu: Kane dies
+
+Projection room:
+
+“News on the March”
+
+Reporters discuss “Rosebud”
+
+El Rancho nightclub: Thompson tries to interview Susan
+
+Thatcher library:
+
+ 
+
+Bernstein’s office:
+
+ 
+
+Nursing home:
+
+ 
+
+ 
+
+El Rancho nightclub:
+
+ 
+
+Xanadu:
+
+ 
+
+E. End credits
+
+Citizen Kane’s Causality
+
+In Citizen Kane, two distinct sets of characters cause events to happen. On the one hand, a group of reporters seeks information about Kane. On the other hand, Kane and the characters who know him provide the subject of the reporters’ investigations.
+
+The initial causal connection between the two groups is Kane’s death, which leads the reporters to make a newsreel summing up his career. But the newsreel is already finished when the plot introduces the reporters. The boss, Rawlston, supplies the cause that initiates the investigation of Kane’s life. Thompson’s newsreel fails to satisfy him. Rawlston’s desire for an angle for the newsreel gets the search for Rosebud under way. Thompson thus gains a goal, which sets him digging into Kane’s past. His investigation constitutes one main line of the plot.
+
+Another line of action, Kane’s life, has already taken place in the past. There, too, a group of characters has caused actions to occur. Many years before, a poverty-stricken boarder at Kane’s mother’s boardinghouse has paid her with a deed to a silver mine. The wealth provided by this mine causes Mrs. Kane to appoint Thatcher as young Charles’s guardian. Thatcher’s guardianship results (in somewhat unspecified ways) in Kane’s growing up into a spoiled, rebellious young man.
+
+Citizen Kane is an unusual film in that the object of the investigator’s search is not an object but a set of character traits. Thompson seeks to know what aspects of Kane’s personality led him to say “Rosebud” on his deathbed. This mystery motivates Thompson’s detective-like investigation. Kane, a very complex character, has many traits that influence the other characters’ actions. As we shall see, however, Citizen Kane’s narrative does not ultimately define all of Kane’s character traits.
+
+Kane himself has a goal; he, too, seems to be searching for something related to Rosebud. At several points, characters speculate that Rosebud was something that Kane lost or was never able to get. Again, the fact that Kane’s goal remains so vague makes this an unusual narrative.
+
+Other characters in Kane’s life provide causal material for the narrative. The presence of several characters who knew Kane well makes Thompson’s investigation possible, even though Kane has died. Significantly, the characters provide a range of information that spans Kane’s entire life. This is important if we are to be able to reconstruct the progression of story events in the film. Thatcher knew Kane as a child; Bernstein, his manager, knew his business dealings; his best friend, Leland, knew of his personal life (his first marriage in particular); Susan Alexander, his second wife, knew him in middle age; and the butler, Raymond, managed Kane’s affairs during his last years. Each of these characters has a causal role in Kane’s life, as well as in Thompson’s investigation. Note that Kane’s wife Emily does not tell a story, since Emily’s story would largely duplicate Leland’s and would contribute no additional information to the present-day part of the narrative, the investigation. Hence the plot simply eliminates her (via a car accident).
+
+Time in Citizen Kane
+
+The order, duration, and frequency of events in the story differ greatly from the way the plot of Citizen Kane presents those events. Much of the film’s power to engage our interest arises from the complex ways in which the plot cues us to construct the story.
+
+To understand this story in its chronological order and assumed duration and frequency, the spectator must follow an intricate tapestry of plot events. For example, in the first flashback, Thatcher’s diary tells of a scene in which Kane loses control of his newspapers during the Depression (4e). By this time, Kane is a middleaged man. Yet in the second flashback, Bernstein describes young Kane’s arrival at the Inquirer and his engagement to Emily (5b, 5f). We mentally sort these plot events into a correct chronological story order, then continue to rearrange other events as we learn of them.
+
+Similarly, the earliest story event about which we learn is Mrs. Kane’s acquisition of a deed to a valuable mine. We get this information during the newsreel, in the second sequence. But the first event in the plot is Kane’s death. Just to illustrate the maneuvers we must execute to construct the film’s story, let’s assume that Kane’s life consists of these phases:
+
+Boyhood
+
+ 
+
+Youthful newspaper editing
+
+ 
+
+Life as a newlywed
+
+ 
+
+Middle age
+
+ 
+
+Old age
+
+ 
+
+Significantly, the early portions of the plot tend to roam over many phases of Kane’s life, while later portions tend to concentrate more on particular periods. The “News on the March” sequence (2a) gives us glimpses of all periods. Thatcher’s manuscript (4) shows us Kane in boyhood, youth, and middle age. Then the flashbacks become primarily chronological. Bernstein’s recounting (5) concentrates on episodes showing Kane as newspaper editor and fiancé of Emily. Leland’s recollections (6) run from newlywed life to middle age. Susan (7) tells of Kane as a middle-aged and an old man. Raymond’s perfunctory anecdote (8b) concentrates on Kane in old age.
+
+The plot becomes more linear in its ordering as it goes along, and this aids the viewer’s effort to understand the story. If every character’s flashback skipped around Kane’s life as much as the newsreel and Thatcher’s account do, the story would be much harder to reconstruct. As it is, the early portions of the plot show us the results of events we have not seen, while the later portions confirm or modify the expectations that we formed earlier.
+
+By arranging story events out of order, the plot cues us to form specific anticipations. In the beginning, with Kane’s death and the newsreel version of his life, the plot creates strong curiosity about two issues. What does “Rosebud” mean? And what could have happened to make so powerful a man so solitary at the end of his life?
+
+There is also a degree of suspense. When the plot goes back to the past, we already have quite firm knowledge. We know that neither of Kane’s marriages will last and that his friends will drift away. The plot encourages us to focus our interest on how and when a particular thing will happen. Thus many scenes function to delay an outcome that we already know is certain. For example, we know that Susan will abandon Kane at some point, so we are constantly expecting her to do so each time he bullies her. For several scenes (7b–7j), she comes close to leaving him, though after her suicide attempt he mollifies her. The plot could have shown her walking out (7k) much earlier, but then the ups and downs of their relations would have been less vivid, and there would have been no suspense.
+
+This process of mentally rearranging plot events into story order might be quite difficult in Citizen Kane were it not for the presence of the “News on the March” newsreel. The very first sequence in Xanadu disorients us, for it shows the death of a character about whom we so far know almost nothing. But the newsreel gives us a great deal of information quickly. Moreover, the newsreel’s own structure uses parallels with the main film to supply a miniature introduction to the film’s overall plot:
+
+Shots of Xanadu
+
+Funeral; headlines announcing Kane’s death
+
+Growth of financial empire
+
+Silver mine and Mrs. Kane’s boardinghouse
+
+Thatcher testimony at congressional committee
+
+Political career
+
+Private life; weddings, divorces
+
+Opera house and Xanadu
+
+Political campaign
+
+The Depression
+
+1935: Kane’s old age
+
+Isolation of Xanadu
+
+Death announced
+
+A comparison of this outline with our segmentation for the whole film shows some striking similarities. “News on the March” begins by emphasizing Kane as “Xanadu’s Landlord”; a short segment (A) presents shots of the house, its grounds, and its contents. This is a variation on the opening of the whole film (1), which consisted of a series of shots of the grounds, moving progressively closer to the house. That opening sequence had ended with Kane’s death; now the newsreel follows the shots of the house with Kane’s funeral (B). Next comes a series of newspaper headlines announcing Kane’s death. In a comparison with the plot diagram of Citizen Kane, these headlines occupy the approximate formal position of the whole newsreel itself (2a). Even the title card that follows the headlines (“To forty-four million U.S. news buyers, more newsworthy than the names in his own headlines was Kane himself….”) is a brief parallel to the scene in the projection room, in which the reporters decide that Thompson should continue to investigate Kane’s “newsworthy” life.
+
+The order of the newsreel’s presentation of Kane’s life roughly parallels the order of scenes in the flashbacks related to Thompson. “News on the March” moves from Kane’s death to a summary of the building of Kane’s newspaper empire (C), with a description of the boardinghouse deed and the silver mine (including an old photograph of Charles with his mother, as well as the first mention of the sled). Similarly, the first flashback (4) tells how Thatcher took over the young Kane’s guardianship from his mother and how Kane first attempted to run the Inquirer. The rough parallels continue: the newsreel tells of Kane’s political ambitions (F), his marriages (G), his building of the opera house (H), his political campaign (I), and so on. In the main plot, Thatcher’s flashback describes his own clashes with Kane on political matters. Leland’s flashback (6) covers the first marriage, the affair with Susan, the political campaign, and the premiere of the opera Salammbo.
+
+CONNECT TO THE BLOG
+
+The flashback tradition developed a rich history before Citizen Kane. For analysis of flashbacks in Hollywood films during the 1930s, and especially The Power and the Glory, which influenced Orson Welles, see “Grandmaster flashback.”
+
+See
+www.davidbordwell.net/blog/?p=3253.
+
+These are not all of the similarities between the newsreel and the overall film. You can tease out many more by comparing the two closely. The crucial point is that the newsreel provides us with a map for the investigation of Kane’s life. As we see the various scenes of the flashbacks, we already expect certain events and have a rough chronological basis for fitting them into our story reconstruction.
+
+Kane’s many flashbacks allow us to see past events directly, and in these portions, story and plot duration are close to the same. We know that Kane is 75 years old at his death, and the earliest scene shows him at perhaps 10. Thus the plot covers roughly 65 years of his life, plus the week of Thompson’s investigation. The single earlier story event of which we only hear is Mrs. Kane’s acquisition of the mine deed, which we can infer took place a short time before she turned her son over to Thatcher. So the story runs a bit longer than the plot—perhaps closer to 70 years. This time span is presented in a screen duration of almost 120 minutes.
+
+Like most films, Citizen Kane uses ellipses. The plot skips over years of story time, as well as many hours of Thompson’s week of investigations. But plot duration also compresses time through montage sequences, such as those showing the Inquirer’s campaign against big business (4d), the growth of the paper’s circulation (5c), Susan’s opera career (7e), and Susan’s bored playing with jigsaw puzzles (7h). Here long passages of story time are condensed into brief summaries quite different from ordinary narrative scenes. We will discuss montage sequences in more detail in Chapter 8, but we can already see the value of such segments in condensing story duration in a comprehensible way.
+
+Citizen Kane also provides a clear demonstration of how events that occur only once in the story may appear several times in the plot. In their respective flashbacks, both Leland and Susan describe the latter’s debut in the Chicago premiere of Salammbo. Watching Leland’s account (6i), we see the performance from the front; we witness the audience reacting with distaste. Susan’s version (7c) shows us the performance from behind and on the stage, to suggest her humiliation. This repeated presentation of Susan’s debut in the plot doesn’t confuse us, for we understand the two scenes as depicting the same story event. (“News on the March” has also referred to Susan’s opera career, in parts G and H.) By repeating scenes of her embarrassment, the plot makes vivid the pain that Kane forces her to undergo.
+
+Overall, Citizen Kane’s narrative dramatizes Thompson’s search by means of flashbacks that encourage us to seek the sources of Kane’s failure and to try to identify “Rosebud.” As in a detective film, we must locate missing causes and arrange events into a coherent story pattern. Through manipulations of order, duration, and frequency, the plot both assists our search and complicates it in order to provoke curiosity and suspense.
+
+Motivation in Citizen Kane
+
+Some critics have argued that Welles’s use of the search for “Rosebud” is a flaw in Citizen Kane, because the identification of the word proves it to be a trivial gimmick. If indeed we assume that the whole point of Citizen Kane is really to identify Rosebud, this charge might be valid. But in fact, Rosebud serves a very important motivating function in the film. It creates Thompson’s goal and thus focuses our attention on his delving into the lives of Kane and his associates. Citizen Kane becomes a mystery story; but instead of investigating a crime, the reporter investigates a character. So the Rosebud clues provide the basic motivation necessary for the plot to progress. (Of course, the Rosebud device serves other functions as well; for instance, the little sled provides a transition from the boardinghouse scene to the cheerless Christmas when Thatcher gives Charles a new sled.)
+
+Citizen Kane’s narrative revolves around an investigation into traits of character. As a result, these traits provide many of the motivations for events. (In this respect, the film obeys principles of the classical Hollywood narrative.) Kane’s desire to prove that Susan is really a singer and not merely his mistress motivates his manipulation of her opera career. His mother’s overly protective desire to remove her son from what she considers to be a bad environment motivates her appointment of Thatcher as the boy’s guardian. Dozens of actions are motivated by character traits and goals.
+
+At the end of the film, Thompson gives up his search for the meaning of Rosebud, saying he doesn’t think “any word can explain a man’s life.” Up to a point, Thompson’s statement motivates his acceptance of his failure. But if we as spectators are to accept this idea that no key can unlock the secrets of a life, we need further motivation. The film provides it. In the scene in the newsreel projection room, Rawlston suggests that “maybe he told us all about himself on his deathbed.” Immediately, one of the reporters says, “Yeah, and maybe he didn’t.” Already the suggestion is planted that Rosebud may not provide any adequate answers about Kane. Later Leland scornfully dismisses the Rosebud issue and goes on to talk of other things. Characters’ skepticism about the Rosebud clue helps justify Thompson’s pessimistic attitude in the final sequence.
+
+The presence of the scene in which Thompson first visits Susan at the El Rancho nightclub (3) might seem puzzling at first. Unlike the other scenes in which he visits people, no flashback occurs here. Thompson learns from the waiter that Susan knows nothing about Rosebud; he could easily learn this on his later visit to her. So why should the plot include the scene at all? One reason is that it evokes curiosity and deepens the mystery around Kane. Moreover, Susan’s story, when she does tell it, covers events relatively late in Kane’s career. As we’ve seen, the flashbacks go through Kane’s life roughly in order. If Susan had told her story first, we would not have all of the material necessary to understand it. But it is plausible that Thompson should start his search with Kane’s ex-wife, presumably the surviving person closest to him. In Thompson’s first visit, Susan’s drunken refusal to speak to him motivates the fact that her flashback comes later. By that point, Bernstein and Leland have filled in enough of Kane’s personal life to prepare the way for Susan’s flashback. This first scene functions partly to justify postponing Susan’s flashback until a later part of the plot.
+
+Motivation makes us take things for granted in narratives. Mrs. Kane’s desire for her son to be rich and successful motivates her decision to entrust him to Thatcher, a powerful banker, as his guardian. We may just take it for granted that Thatcher is a rich businessman. Yet on closer inspection, this feature is necessary to motivate other events. It motivates Thatcher’s presence in the newsreel; he is powerful enough to have been asked to testify at a congressional hearing. More important, Thatcher’s success motivates the fact that he has kept a journal now on deposit at a memorial library that Thompson visits. This, in turn, justifies the fact that Thompson can uncover information from a source who knew Kane as a child.
+
+Despite its reliance on psychological motivation, Citizen Kane also departs somewhat from the usual practice of the classical Hollywood narrative by leaving some motivations ambiguous. The ambiguities relate primarily to Kane’s character. The other characters who tell Thompson their stories all have definite opinions of Kane, but these do not always tally. Bernstein still looks on Kane with sympathy and affection, whereas Leland is cynical about his own relationship with Kane. The reasons for some of Kane’s actions remain unclear. Does he send Leland the $25,000 check in firing him because of a lingering sentiment over their old friendship or from a proud desire to prove himself more generous than Leland? Why does he insist on stuffing Xanadu with hundreds of artworks that he never even unpacks? By leaving these questions open, the film invites us to speculate on various facets of Kane’s personality.
+
+Citizen Kane’s Parallelism
+
+Parallelism doesn’t provide a major principle of development in Citizen Kane’s narrative form, but it crops up more locally. We’ve already seen important formal parallels between the newsreel and the film’s plot as a whole. We’ve also noticed a parallel between the two major lines of action: Kane’s life and Thompson’s search. In a different sense, both men are searching for Rosebud. Rosebud serves as a summary of the things Kane strives for through his adult life. We see him repeatedly fail to find love and friendship, living alone at Xanadu in the end. His inability to find happiness parallels Thompson’s failure to locate the significance of the word “Rosebud.” This parallel doesn’t imply that Kane and Thompson share similar character traits. Rather, it allows both lines of action to develop simultaneously in similar directions.
+
+Another narrative parallel juxtaposes Kane’s campaign for the governorship with his attempt to build up Susan’s career as an opera star. In each case, he seeks to inflate his reputation by influencing public opinion. In trying to achieve success for Susan, Kane forces his newspaper employees to write favorable reviews of her performances. This parallels the moment when he loses the election and the Inquirer automatically proclaims a fraud at the polls. In both cases, Kane fails to realize that his power over the public is not great enough to hide the flaws in his projects: first his affair with Susan, which ruins his campaign; then her lack of singing ability, which Kane refuses to admit. The parallels show that Kane continues to make the same kinds of mistakes throughout his life.
+
+Patterns of Plot Development in Citizen Kane
+
+The order of Thompson’s visits to Kane’s acquaintances allows the series of flashbacks to have a clear pattern of progression. Thompson moves from people who knew Kane early in his life to those who knew him as an old man. Moreover, each flashback contains a distinct type of information about Kane. Thatcher establishes Kane’s political stance; Bernstein gives an account of the business dealings of the newspaper. These provide the background to Kane’s early success and lead into Leland’s stories of Kane’s personal life, where we get the first real indications of Kane’s failure. Susan continues the description of his decline with her account of how he manipulated her life. Finally, in Raymond’s flashback, Kane becomes a pitiable old man.
+
+Thus, even though the order of events in the story varies greatly from that given in the plot, Citizen Kane presents Kane’s life through a steady pattern of development. The present-day portions of the narrative—Thompson’s scenes—also follow their own pattern of a search. By the ending, this search has failed, as Kane’s own search for happiness or personal success had failed.
+
+Because of Thompson’s failure, the ending of Citizen Kane remains somewhat more open than was the rule in Hollywood in 1941. True, Thompson does resolve the question of Rosebud for himself by saying that it would not have explained Kane’s life. To this extent, we have the common pattern of action leading to greater knowledge. Thompson has come to understand that a life cannot be summed up in one word. Still, in most classical narrative films, the main character reaches his or her initial goal, and Thompson is the main character of this line of action.
+
+The line of action involving Kane himself has even less closure. Not only does Kane apparently not reach his goal, but the film never specifies what that goal is to start with. Most classical narratives create a situation of conflict. The character must struggle with a problem and solve it by the ending. Kane begins his adult life in a highly successful position (happily running the Inquirer), then gradually falls into a barren solitude. We are invited to speculate about exactly what, if anything, would make Kane happy. Citizen Kane’s lack of closure in this line of action made it a very unusual narrative for its day.
+
+The search for Rosebud does lead to a certain resolution at the end. We the audience discover what Rosebud was. The ending of the film, which follows this discovery, strongly echoes the beginning. The beginning moved past fences toward the mansion. Now a series of shots takes us away from the house and back outside the fences, with the “No Trespassing” sign and large K insignia.
+
+But even at this point, when we learn the answer to Thompson’s question, a degree of uncertainty remains. Just because we have learned what Kane’s dying word referred to, do we now have the key to his entire character? Or is Thompson’s final statement correct—that no one word can explain a person’s life? Perhaps the “No Trespassing” sign hints that neither Thompson nor we should have expected to explore Kane’s mind. It is tempting to declare that all of Kane’s problems arose from the loss of his sled and his childhood home life, but the film also suggests that this is too easy a solution. It is the kind of solution that the slick editor Rawlston would pounce on as an angle for his newsreel.
+
+“Kane, we are told, loved only his mother—only his newspaper—only his second wife—only himself. Maybe he loved all of these, or none. It is for the audience to judge. Kane was selfish and selfless, an idealist, a scoundrel, a very big man and a very little one. It depends on who’s talking about him. He is never judged with the objectivity of an author, and the point of the picture is not so much the solution of the problem as its presentation.”
+
+— Orson Welles, director
+
+ 
+
+For years critics have debated whether the Rosebud solution does give us a key that resolves the entire narrative. This debate itself suggests the ambiguity at work in Citizen Kane. The film provides much evidence for both views and hence avoids complete closure. You might contrast this slightly open ending with the tightly closed narratives of His Girl Friday and North by Northwest in Chapter 11. You might also compare Citizen Kane’s narrative with that of another somewhat openended film, Do The Right Thing, also discussed in Chapter 11.
+
+Narration in Citizen Kane
+
+In analyzing how Kane’s plot manipulates the flow of story information, it’s useful to consider a remarkable fact: The only time we see Kane directly and in the present is when he dies. On all other occasions, he is presented at one remove—in the newsreel or in various characters’ memories. This unusual treatment makes the film something of a portrait, a study of a man seen from different perspectives.
+
+The film employs five character narrators, the people whom Thompson tracks down: Thatcher (whose account is in writing), Bernstein, Leland, Susan, and the butler, Raymond. The plot thus motivates a series of views of Kane that are more or less restricted in their range of knowledge. In Thatcher’s account (4b–4e), we see only scenes at which he is present. Even Kane’s newspaper crusade is rendered as Thatcher learns of it, through buying copies of the Inquirer. In Bernstein’s flashback (5b–5f), there is some deviation from what Bernstein witnesses, but in general his range of knowledge is respected. At the Inquirer party, for example, we follow Bernstein and Leland’s conversation while Kane dances in the background. Similarly, we never see Kane in Europe; we merely hear the contents of Kane’s telegram, which Bernstein delivers to Leland.
+
+Leland’s flashbacks (6b, 6d–6j) deviate most markedly from the narrator’s range of knowledge. Here we see Kane and Emily at a series of morning breakfasts, Kane’s meeting with Susan, and the confrontation of Kane with Boss Gettys at Susan’s apartment. In scene 6j, Leland is present but in a drunken stupor most of the time. (The plot motivates Leland’s knowledge of Kane’s affair with Susan by having Leland suggest that Kane told him about it, but the scenes present detailed knowledge that Leland is unlikely to possess.) By the time we get to Susan’s flashback (7b–7k), however, the range of knowledge again fits the character more snugly. (There remains one scene, 7f, in which Susan is unconscious for part of the action.) The last flashback (8b) is recounted by Raymond and plausibly accords with his range of knowledge; he is standing in the hallway as Kane wrecks Susan’s room.
+
+Using different narrators to transmit story information fulfills several functions. It offers itself as a plausible depiction of the process of investigation, since we expect any reporter to hunt down information through a series of inquiries. More deeply, the plot’s portrayal of Kane himself becomes more complex by showing somewhat different sides of him, depending on who’s talking about him. Moreover, the use of multiple narrators makes the film like one of Susan’s jigsaw puzzles. We must put things together piece by piece. The pattern of gradual revelation enhances curiosity—what is it in Kane’s past that he associates with Rosebud?—and suspense—how will he lose his friends and his wives?
+
+This strategy has important implications for film form. While Thompson uses the various narrators to gather data, the plot uses them to furnish us with story information and to conceal information. The narration can motivate gaps in knowledge about Kane by appealing to the fact that no informant can know everything about anyone. If we were able to enter Kane’s consciousness, we might discover the meaning of Rosebud much sooner—but Kane is dead. The multiple-narrator format appeals to expectations we derive from real life in order to motivate the bit-by-bit transmission of story information, the withholding of key pieces of information, and the arousing of curiosity and suspense.
+
+Although each narrator’s account is mostly restricted to his or her range of knowledge, the plot doesn’t treat each flashback in much subjective depth. Most of the flashbacks are rendered objectively. Some transitions from the framing episodes use a voice-over commentary to lead us into the flashbacks, but these don’t represent the narrators’ subjective states. Only in Susan’s flashbacks are there some attempts to render subjectivity. In scene 7c, we see Leland as if from her optical point of view on stage, and the phantasmagoric montage of her career (7e) suggests some mental subjectivity that renders her fatigue and frustration.
+
+Against the five character narrators, the film’s plot sets another purveyor of knowledge, the “News on the March” short. We’ve already seen the crucial function of the newsreel in introducing us both to Kane’s story and to its plot construction, with the newsreel’s sections previewing the parts of the film as a whole. The newsreel also gives us a broad sketch of Kane’s life and death that will be filled in by the more restricted behind-the-scenes accounts offered by the narrators. The newsreel is also highly objective, even more so than the rest of the film; it reveals nothing about Kane’s inner life. Rawlston acknowledges this: “It isn’t enough to tell us what a man did, you’ve got to tell us who he was.” In effect, Thompson’s aim is to add depth to the newsreel’s superficial version of Kane’s life.
+
+Yet we still aren’t through with the narrational manipulations in this complex and daring film. For one thing, all the localized sources of knowledge—“News on the March” and the five narrators—are linked together by the shadowy reporter Thompson. To some extent, he is our surrogate in the film, gathering and assembling the puzzle pieces.
+
+Note, too, that Thompson is barely characterized; we can’t even identify his face. This, as usual, has a function. If we saw him clearly, if the plot gave him more traits or a background or a past, he would become the protagonist. But Citizen Kane is less about Thompson than about his search. The plot’s handling of Thompson makes him a neutral conduit for the story information that he gathers (though his conclusion at the end—“I don’t think any word can explain a man’s life”—suggests that he has been changed by his investigation).
+
+Thompson is not, however, a perfect surrogate for us because the film’s narration inserts the newsreel, the narrators, and Thompson within a still broader range of knowledge. The flashback portions are predominantly restricted, but there are other passages that reveal an overall narrational omniscience.
+
+From the very start, we are given a god’s-eye-view of the action. We move into a mysterious setting that we will later learn is Kane’s estate, Xanadu. We might have learned about this locale through a character’s journey, the way we acquaint ourselves with Oz by means of Dorothy’s adventures there. Here, however, an omniscient narration conducts the tour. Eventually, we enter a darkened bedroom. A hand holds a paperweight, and over this is superimposed a flurry of snow (3.39).
+
+ 
+
+3.39 The elusive image of the paperweight in Citizen Kane.
+
+ 
+
+ 
+
+The snow image teases us. Is the narration making a lyrical comment, or is the image subjective, a glimpse into the dying man’s mind or vision? In either case, the narration reveals its ability to command a great deal of story information. Our sense of omniscience is enhanced when, after the man dies, a nurse strides into the room. Apparently, no character knows what we know.
+
+At other points in the film, the omniscient narration calls attention to itself, as when, during Susan’s opera debut in Leland’s flashback (6i), we see stagehands high above reacting to her performance. (Such omniscient asides tend to be associated with camera movements, as we shall see in Chapter 8.) Most vivid, however, is the omniscient narration at the end of the film. Thompson and the other reporters leave, never having learned the meaning of Rosebud. But we linger in the vast storeroom of Xanadu. And, thanks to the narration, we learn that Rosebud is the name of Kane’s childhood sled (see 8.22). We can now associate the opening’s emphasis on the snowy cottage with the closing scene’s revelation of the sled.
+
+This narration is truly omniscient. It withheld a key piece of story information at the outset, teased us with hints (the snow, the tiny cottage in the paperweight), and finally revealed at least part of the answer to the question posed at the outset. A return to the “No Trespassing” sign reminds us of our point of entry into the film. Like The Road Warrior, then, the film derives its unity not only from principles of causality and time but also from a patterned narration that arouses curiosity and suspense and yields a surprise at the very end.
+
+SUMMARY
+
+Not every narrative analysis runs through the categories of cause–effect, story–plot differences, motivations, parallelism, progression from opening to closing, and narrational range and depth in that exact order, as we have done here. Our purpose in this examination of Citizen Kane has been as much to illustrate these concepts as to analyze the film. With practice, the critic becomes more familiar with these analytical tools and can use them flexibly, suiting his or her approach to the specific film at hand.
+
+In looking at any narrative film, such questions as these may help in understanding its formal structures:
+
+Which story events are directly presented to us in the plot, and which must we assume or infer? Is there any nondiegetic material given in the plot?
+
+What is the earliest story event of which we learn? How does it relate to later events through a series of causes and effects?
+
+What is the temporal relationship of story events? Has temporal order, frequency, or duration been manipulated in the plot to affect our understanding of events?
+
+Does the closing reflect a clear-cut pattern of development that relates it to the opening? Do all narrative lines achieve closure, or are some left open?
+
+How does the narration present story information to us? Is it restricted to one or a few characters’ knowledge, or does it range freely among the characters in different spaces? Does it give us considerable depth of story information by exploring the characters’ mental states?
+
+How closely does the film follow the conventions of the classical Hollywood cinema? If it departs significantly from those conventions, what formal principle does it use instead?
+
+Most films that we see employ narrative form, and the great majority of theatrical movies stick to the premises of Hollywood storytelling. Still, there are other formal possibilities. We’ll consider aspects of non-narrative form in Chapter 11.
+
+In the meantime, other matters will occupy us. In discussing form, we’ve been examining how we as viewers engage with the film’s overall shape. The film, however, also presents a complex blend of images and sounds. Art designers, actors, camera operators, editors, sound recordists, and other specialists contribute to the cues that guide our understanding and stimulate our pleasure. In Part Three, we’ll examine the technical components of cinematic art.
+
+WHERE TO GO FROM HERE
+
+Narrative Form
+
+The best introduction to the study of narrative is H. Porter Abbott’s Cambridge Introduction to Narrative, 2d ed. (Cambridge: Cambridge University Press, 2008). A more advanced collection of essays is David Herman, ed., The Cambridge Companion to Narrative (Cambridge: Cambridge University Press, 2007). For an overview of narrative in history and culture, see Robert Scholes and Robert Kellogg, The Nature of Narrative (New York: Oxford University Press, 1966).
+
+Most conceptions of narrative are drawn from literary theory. Umberto Eco’s Six Walks in the Fictional Woods (Cambridge, MA: Harvard University Press, 1994) provides an entertaining tour. A more systematic introduction is offered by Seymour Chatman in Story and Discourse: Narrative Structure in Fiction and Film (Ithaca, NY: Cornell University Press, 1978). See also the journal Narrative and the anthology edited by Marie-Laure Ryan, Narrative Across Media: The Languages of Storytelling (Lincoln: University of Nebraska Press, 2004). David Bordwell offers a survey of narrative principles in “Three Dimensions of Film Narrative,” Poetics of Cinema (New York: Routledge, 2007), pp. 85–133. Other essays in this book analyze forkingpath films like Run Lola Run and “network narratives” like Nashville and Magnolia.
+
+The Spectator
+
+What does the spectator do in making sense of a narrative? Richard J. Gerrig proposes what he calls a “sideparticipant” model in Experiencing Narrative Worlds: On the Psychological Activities of Reading (New Haven, CT: Yale University Press, 1993). Meir Sternberg emphasizes expectation, hypotheses, and inference in his Expositional Modes and Temporal Ordering in Fiction (Baltimore: Johns Hopkins University Press, 1978). David Bordwell proposes a model of the spectator’s story-comprehending activities in chap. 3 of Narration in the Fiction Film (Madison: University of Wisconsin Press, 1985). Compare Edward Branigan, Narrative Comprehension in Film (New York: Routledge, 1992).
+
+Narrative Time
+
+Most theorists agree that both cause–effect relations and chronology are central to narrative. The books by Chatman and Sternberg cited above provide useful analyses of causation and time. For specifically cinematic discussions, see Brian Henderson, “Tense, Mood, and Voice in Film (Notes After Genette),” Film Quarterly 26, 4 (Summer 1983): 4–17; and Maureen Turim, Flashbacks in Film: Memory and History (New York: Routledge, 1989).
+
+Our discussion of the differences between plot duration, story duration, and screen duration is necessarily simplified. The distinctions hold good at a theoretical level, but the differences may vanish in particular cases. Story duration and plot duration differ most drastically at the level of the whole film, as when two years of action (story duration) are shown or told about in scenes that occur across a week (plot duration) and then that week is itself rendered in two hours (screen duration). At the level of a smaller part of the film—say, a shot or a scene—we usually assume story and plot duration to be equal, and screen duration may or may not be equal to them. These nuances are discussed in chap. 5 of Bordwell, Narration in the Fictional Film (cited above).
+
+Narration
+
+One approach to narration has been to draw analogies between film and literature. Novels have first-person narration (“Call me Ishmael”) and third-person narration (“Maigret puffed his pipe as he walked along slowly, hands clasped behind his back”). Does film have first-person or thirdperson narration, too? The argument for applying the linguistic category of “person” to cinema is discussed most fully in Bruce F. Kawin, Mindscreen: Bergman, Godard, and First-Person Film (Princeton, NJ: Princeton University Press, 1978).
+
+Another literary analogy is that of point of view. The best survey in English is Susan Snaider Lanser, The Narrative Act: Point of View in Prose Fiction (Princeton, NJ: Princeton University Press, 1981). The applicability of point of view to film is discussed in detail in Edward Branigan, Point of View in the Cinema: A Theory of Narration and Subjectivity in Classical Film (New York: Mouton, 1984).
+
+The title of a film can be an important factor in its narration, setting us up for what is to come. We reflect on what kinds of titles Hollywood tends to use here in “Title wave,” at www.davidbordwell.net/blog/?p=2805.
+
+On credit sequences, see Gemma Solana and Antonio Boneu, Uncredited: Graphic Design and Opening Titles in Movies (Amsterdam: Index Books, 2007).
+
+Is the Classical Hollywood Cinema Dead?
+
+Since the early 1990s, some film historians have claimed that the classical approach to Hollywood narrative faded away during the 1970s, replaced by something variously termed postclassical, postmodern, or post-Hollywood cinema. Contemporary films are thought to be characterized by extremely simple, high-concept premises, with the cause–effect chain weakened by a concentration on highpitch action at the expense of character psychology. Tie-in merchandising and distribution through other media have also supposedly fragmented the filmic narrative. Other historians argue that the changes are superficial and that in many ways underlying classical principles endure.
+
+For important arguments for postclassicism, see Thomas Schatz, “The New Hollywood,” in Film Theory Goes to the Movies, ed. Jim Collins, Hilary Radner, and Ava Preacher Collins (New York: Routledge, 1993), pp. 8–36, and Justin Wyatt, High Concept: Movies and Marketing in Hollywood (Austin: University of Texas Press, 1994). Contemporary Hollywood Cinema, ed. Steven Neale and Murray Smith (New York: Routledge, 1998), contains essays supporting (by Thomas Elsaesser, James Schamus, and Richard Maltby) and opposing (Murray Smith, Warren Buckland, and Peter Krämer) this notion. For arguments that Hollywood cinema still adheres to its traditions, see Kristin Thompson, Storytelling in the New Hollywood: Understanding Classical Narrative Technique (Cambridge, MA: Harvard University Press, 1999), and David Bordwell, The Way Hollywood Tells It: Story and Style in Modern Movies (Berkeley: University of California Press, 2006).
+
+Screenwriting teachers have also argued that the best modern moviemaking continues the classic studios’ approach to structure. The two most influential script gurus are Syd Field, Screenplay: The Foundations of Screenwriting (New York: Delta, 2005), and Robert McKee, Story: Substance, Structure, Style, and the Principles of Screenwriting (New York: HarperCollins, 1997).
+
+“Rosebud”
+
+Critics have scrutinized Citizen Kane very closely. For a sampling, see Joseph McBride, Orson Welles (New York: Viking, 1972); Charles Higham, The Films of Orson Welles (Berkeley: University of California Press, 1970); Robert Carringer, “Rosebud, Dead or Alive: Narrative and Symbolic Structure in Citizen Kane,” PMLA (March 1976): 185–93; James Naremore, The Magic World of Orson Welles (New York: Oxford University Press, 1978); Laura Mulvey, Citizen Kane (London: British Film Institute, 1993); and James Naremore, ed., Orson Welles’s Citizen Kane: A Casebook (New York: Oxford University Press, 2004).
+
+Pauline Kael, in a famous essay on the making of the film, finds Rosebud a naïve gimmick. Interestingly, her discussion emphasizes Citizen Kane as part of the journalist film genre and emphasizes the detective story aspect. See The “Citizen Kane” Book (Boston: Little, Brown, 1971), pp. 1–pp. 155–65, Noël Carroll argues that the film stages a debate between the Rosebud interpretation and the enigma interpretation. Robert Carringer’s Making of “Citizen Kane,” rev. ed. (Berkeley: University of California Press, 1996), offers the most extensive account of the film’s production.
+
+Websites
+
+www.screenwritersutopia.com/ Contains discussion of screenwriting problems, including debates about classic screenplay structure.
+
+www.wga.org/writtenby/writtenby.aspx/ The official site of the magazine Written By, published by Writers Guild West, the professional organization of American screenwriters. Includes informative articles about trends in screenwriting.
+
+www.creativescreenwriting.com/index.html/ Another magazine, Creative Screenwriting, that publishes selected articles and interviews online.
+
+Recommended DVD Supplements
+
+Discussions of narrative form are rare in DVD supplements. In “Making of Titus,” director Julie Taymor talks about such narrative elements as motifs, point of view, tone, and emotional impact, as well as the functions of film techniques such as music, setting, editing, cinematography, and lighting. In an unusual supplement for The Godfather, “Francis Coppola’s Notebook,” the director shows how he worked by making detailed annotations in his copy of Mario Puzo’s original novel. Coppola discusses rhythm, emphasis, and the narrative functions of various techniques. The “Star Beast: Developing the Story” section of Alien’s supplements traces the story as it went through a series of very different versions.
+
+“Filmmakers’ Journey Part One,” a supplement for The Da Vinci Code, discusses character, timing, and rhythm. One passage that is particularly good for showing how filmmakers think about the form of films comes in a segment on the introduction of a major new character (Sir Lee Teabing) fully halfway through the film. There is also discussion of the film’s series of journeys: “There was this sort of classic structure that we were working with.”
+
+The Warner Bros. DVD of Citizen Kane offers a remastered print of the film with commentary tracks by Roger Ebert and Peter Bogdanovich. A second disc contains a two-hour documentary, The Battle over Citizen Kane, exploring William Randolph Hearst’s efforts to have RKO destroy the film.

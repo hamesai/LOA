@@ -1,0 +1,186 @@
+SOUND 
+In this chapter you will learn: 
+• What sound is. 
+• How microphones function. 
+• Aspects of Production and Postproduction Sound. 
+Film is bo th an a ural an d a visual e xperience. Ho wever, if th e visuals consti tute 50 percen t of tha t 
+experience, sound might be said to equal 60 percent. The math may not make sense, but if a film doesn’t 
+sound right, the visuals won’t work either. 
+Consider this: As you move through the world, you are only ever able to see what is directly in front 
+of you. This limits you to a visual perspective of about 180 degrees. In contrast, your aural perception of 
+the world isn’t subject to such limits. You hear not only everything that is in front of and behind you, 
+but also everything that is above and below you. 
+If y ou can transla te tha t on to th e screen, y ou a re gua ranteed to crea te a ri ch an d be lievable 
+experience for the audience. 
+This happens in two steps. 
+ 
+Production Sound 
+This is the sound that is recorded alongside the picture. 
+Postproduction Sound 
+NO- NONSENSE FILMMAKING
+41
+
+This in cludes all th e w ork d one d uring th e edi ting p hase to buil d a be lievable 
+soundscape. 
+As much as a pi cture is d esigned to crea te emotion, it is th e sound that underscores every emotional 
+beat that you experience. 
+Just try turning off the sound of your favorite horror movie. What do you feel? 
+As with everything, it is important to understand some of the technical side of sound. 
+Let’s look at the following concepts: 
+▪ defining sound 
+▪ measuring sound 
+▪ how microphones work 
+▪ pickup patterns 
+▪ digital sound 
+An interactive H5P element has been excluded from this version of the text. You can view it online here: 
+https://lmu.pressbooks.pub/filmmaking/?p=508#h5p-48 
+MISCHA LIVINGSTONE
+42
+
+Production Sound 
+Film sets are noisy places. 
+The prod ucer is tal king to th e di rector. Th e di rector is tal king to th e cin ematographer. Th e 
+cinematographer is tal king to th e gaff er. Li ghts a re bein g m oved. Do lly tra ck is bein g lai d. C ast 
+members are rehearsing lines. Everyone is doing their job and making lots and lots of noise. 
+And then, when it’s time to roll camera, everything goes quiet. 
+It’s a t this poin t tha t th e prod uction soun d cre w ha d be tter be rea dy, beca use recordin g g ood 
+production sound is foundational for all the sound work that must be done later. 
+So, what exactly is recorded on set? 
+Despite how your film may wind up sounding, the goal of production sound is to record very specific 
+elements as cleanly as possible—in other words, without any interference from background sound. 
+These elements include: 
+ 
+Dialogue 
+The dialogue should be as c lean as possi ble. Special mi crophones are used to iso late the dialogue as 
+much as possible from the background sound. 
+Wild Lines 
+These may include additional lines of dial ogue that aren’t seen on screen but sh ould be record ed in 
+the same setting as everything else. That way, they will match the rest of the production sound and be 
+easier to cut into the picture believably. 
+NO- NONSENSE FILMMAKING
+43
+
+Wild Sound 
+This includes any additional elements that are key to the location and for which it may be hard to find 
+a sound effect later. 
+Room Tone 
+The room tone is the sound of the physical space that a scene is shot in, minus any 
+dialogue. This is often shot at the end of a scene and calls for the cast and crew to be 
+quiet for up to a minute. 
+And that’s it! If the production sound crew has done their work correctly, they have 
+provided the postproduction sound team with all the essential pieces needed to craft 
+a believable soundscape. 
+Recording e xcellent prod uction soun d d epends on th e f ollowing c hain of com ponents w orking 
+together effectively. The quality of your sound is only as good as the quality of each link in this chain. 
+An interactive H5P element has been excluded from this version of the text. You can view it online here: 
+https://lmu.pressbooks.pub/filmmaking/?p=1039#h5p-50 
+MISCHA LIVINGSTONE
+44
+
+NO- NONSENSE FILMMAKING
+45
+
+Postproduction Sound 
+Nothing is q uite so im pactful on h ow y ou e xperience a film or te levision sh ow as th e soun d tha t 
+accompanies it. The way the music swells at just th e right moment. The piercing cry of an an guished 
+monster. The cheers of the crowd as the main character pushes toward their goal. 
+However, virtually none of what you hear existed until the picture was edited and handed over to the 
+postproduction sound team. 
+Postproduction sound is where magic truly happens. 
+It does this by combining a whole set of different types of sound. 
+ 
+Production Sound 
+This is the sound that is recorded on set. If your project has dialogue in it, then the focus of production 
+sound is getting the cleanest dialogue recording possible. 
+MISCHA LIVINGSTONE
+46
+
+Ambience/Background 
+These are the sounds that make up the environment in a scene, such as the background traffic, weather, 
+and so on. 
+Ambient/background sounds are rarely picked up when production sound is recorded and generally 
+need to be added later during the postproduction process. 
+Sound Effects 
+Sound effects are the sounds that are added later to un derscore the action on screen. Y ou might use 
+readily available sounds from a sound effects library or generate your own. 
+NO- NONSENSE FILMMAKING
+47
+
+FoleyFoley effects a re a uni que type of soun d eff ect. Th ese a re th e soun ds tha t a re 
+recorded specifi cally to th e pi cture. Th ese ma y in clude f ootsteps, i tems bein g 
+handled, and clothes moving. 
+ADR/VO/Narration 
+These a re th e v oice recordin gs tha t a re record ed d uring postprod uction. If th e dial ogue record ed 
+during production has issues, you may need to replace it later with ADR. 
+Automatic dialogue replacement (ADR; also kn own as l ooping) is th e process b y 
+which an actor rerecords lin es while watching the picture. They need to make sure 
+that th eir performance n ot onl y sta ys in syn c wi th w hat is on th e screen but also 
+matches the emotion of the scene. 
+MISCHA LIVINGSTONE
+48
+
+VO stands for voice over and includes any narration that accompanies the picture where the voice is 
+heard “over” the picture. 
+Music/Score 
+It’s ha rd to think of wa tching a film or te levision sh ow wi thout m usic. M usic so often d rives th e 
+emotion of the scene and can readily elicit strong feelings with the fewest of notes. Think about your 
+favorite film score, and take note of the emotion that just thinking about it produces. 
+The score is record ed se parately from th e o ther soun d edi torial w ork an d ma y in clude a full 
+orchestra, a handful of instruments, or even none at all if the score is purely digital. 
+Note: Not every film needs an elaborate score. Sometimes it’s enough to have the bare minimum of music or to go 
+without altogether. Do what is right for the film! 
+All of th e a bove soun ds a re co llected, crea ted, edi ted, an d mix ed th roughout th e postprod uction 
+process and result in a finished soundtrack that accompanies your film. 
+NO- NONSENSE FILMMAKING
+49
+
+This happens in different stages: 
+1. Sound editorial:Sound editorial: Having received the locked picture from the editor, the sound work begins 
+by cleaning up the dialogue tracks to smooth out the levels and remove unwanted sounds. 
+Dialogue may need to be rerecorded if the production tracks are unusable. 
+2. Sound designSound design: Effects are added from sound effects libraries or created 
+specifically for the film. This includes Foley effects. 
+3. Rerecording and final mixRerecording and final mix: All the elements are brought together to create 
+the final soundtrack. The final mix is often done in a room that mimics a 
+movie theatre, thereby ensuring that the film will sound correct when it is 
+screened by an audience. 
+Multiple versions of the final mix may be created for different modes of distribution. A theatrical mix 
+is quite different from that required to stream online. Be sure you have the right mix for your screening 
+needs. 
+MISCHA LIVINGSTONE
+50
+
+Student Perspecti ves - Sound 
+Rhea AlsharabatyRhea Alsharabaty on using sound to build a believable universe: 
+“I l everaged soun d d esign in ord er to o vercome th e th ree 
+challenges I fa ced makin g this film. F irst, bein g a dial oguecentric comedy, it was out of my wheelhouse. Second, my set 
+was buil t on a soun dstage. Thi rd, m y cast in cluded tw o 
+inanimate characters: a toilet and a stool. 
+The rough cut I ha d before I sta rted sound designing felt 
+incomplete. Two characters were missing, the location lacked 
+credibility, and the universe was not believable. 
+Sound was the key. Not only did it give the audience better 
+access to the main character’s psyche, but it also gave voices to 
+the toil et an d th e stoo l. Just lik e tha t, th e remainin g tw o 
+characters were born! 
+To sell the absurd and playful universe I created, I exploited 
+a wi de spec trum of soun d eff ects, from ca rtoonish p lops to 
+ominous rum bles, se tting th e ton e an d con veying ea ch 
+emotional bea t. I coul d i terate, la yering soun ds as m uch as 
+necessary until each moment had its desired impact. 
+I specifically searched for a com poser who understood my 
+vision for the film an d what I percei ved as th e shortcomings 
+of my rough cut. W e worked c losely to ensure th e m usic d rove th e p lot, pun ctuating or sm oothing 
+things out where necessary. In this way, the soundtrack was the connective tissue of the final cut. 
+Through this h olistic soundscape, what began as a disjoin ted rough cut becam e a full y integrated 
+world where even a toilet could steal the scene.” 
+• Film Title:Film Title: Stalling 
+• Logline:Logline: While collecting a stool sample in a hospital bathroom, a worried woman gets some 
+timely advice from her toilet. 
+One or more interactive elements has been excluded from this version of the text. You can view them online 
+here: https://lmu.pressbooks.pub/filmmaking/?p=1331#oembed-1 
+NO- NONSENSE FILMMAKING
+51
+
+MISCHA LIVINGSTONE
+52

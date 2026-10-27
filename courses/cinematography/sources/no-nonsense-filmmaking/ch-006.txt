@@ -1,0 +1,103 @@
+CAMERA 
+In this chapter you will learn: 
+• How a camera functions, including its various parts. 
+• How to control focus and depth of field. 
+• How lenses work and how they affect the image. 
+• What color light is. 
+Consider the experience of watching a stage play from the back of the theater. 
+Have you ever wished you could crawl onto the stage and move around the actors? What if you could 
+see inside their heads? What if you could become the characters themselves? 
+Well, wi th a cam era, y ou can crea te tha t e xperience. An d i t all d epends on h ow y ou sh oot y our 
+project. 
+Unlike theatre, which is restri cted to a wi de shot in on e location, looking in a sin gle direction, the 
+camera allows you to m ove anywhere you like. You get to d esign each shot from an y perspective you 
+want. What you place inside the frame or decide to leave out of the frame will determine the cinematic 
+space you create. 
+A camera allows you freedom to tell a story any way you like. 
+So, how does it all work? 
+The human body has essential components that enable us to see the world and interpret what we see 
+in a way that makes sense. Each of these basic components also exists in the camera. 
+ 
+Head 
+NO- NONSENSE FILMMAKING
+25
+
+Our head contains all the parts that enable us to see. 
+In the camera, this is called the light-tight boxlight-tight box. Like our heads, this is the housing where the 
+image is captured. It must be “light tight” to prevent light from entering it other than from one 
+direction. 
+Eyes 
+The human eye focuses light with the help of a lens and allows it to enter the head through an 
+iris. Depending on the amount of light present, the iris either expands or contracts. This lets in 
+just the right amount of light in order for us to see. 
+A camera works in exactly the same way. 
+First, a camera needs a lenslens—a curved piece of glass or plastic that focuses light into it. This is 
+the mechanism that allows light to enter the camera housing. 
+Inside the lens, much like inside the eye, is an irisiris, or apertureaperture, which controls how much light 
+is let into the box. The amount of light that enters the box is referred to as exposureexposure. 
+Inside the box, the light is separated by a beam splitterbeam splitter into the three primary colors: red, 
+green, and blue (RGB). This is similar to what happens in the retina of our eye. 
+Brain 
+Our brain processes the signals sent to it. 
+In the camera, this function is performed by the image processing sensorimage processing sensor. This “brain” 
+converts the beams of light into digital information (binary code). 
+The camera is essentially a big electronic head with a lens for eyes and a computer chip for a brain. But 
+understanding its parts is the first step toward operating it. 
+MISCHA LIVINGSTONE
+26
+
+Nuts and Bol ts 
+We’re going to get a little technical for a moment, so take a deep breath. 
+All cameras work the same way, but the quality of the image they capture will vary greatly 
+depending on the quality of the individual components. What follows is an explanation of some of 
+those components. 
+Remember, the tools used in filmmaking require some understanding, and the more you understand 
+about these tools, the better you will be able to use them. 
+So, let’s di ve in an d ask som e questions about the camera. Specifi cally, let’s look at the following 
+concepts: 
+▪ image sensor 
+▪ recording format 
+▪ storage 
+▪ lens 
+▪ audio 
+▪ manual settings 
+An interactive H5P element has been excluded from this version of the 
+text. You can view it online here: 
+https://lmu.pressbooks.pub/filmmaking/?p=903#h5p-33 
+This may seem lik e a l ot to rem ember, but in tim e, it will all becom e second nature. After all, y ou’re 
+learning an entirely new language. It takes time to become fluent, so be patient with yourself. 
+NO- NONSENSE FILMMAKING
+27
+
+MISCHA LIVINGSTONE
+28
+
+B-FLAT 
+Filmmaking is both a technical endeavor and a creative one, and the two are inextricably linked to one 
+another. Understanding how the technical aspects impact the creative and vice versa means you will 
+have greater command over the medium. 
+Let’s look a little closer at some of the creative and technical aspects that you will be contending with 
+every time you pick up a camera. 
+There is a li ttle acronym that reminds us h ow our tec hnical decisions inform our crea tive choices 
+before we start the camera rolling. 
+Let’s di ve in an d ask som e q uestions a bout th e cam era. Specifi cally, l et’s l ook a t th e f ollowing 
+concepts: 
+▪ B: balance 
+▪ F: focus 
+▪ L: lens 
+▪ A: aperture 
+▪ T: temperature 
+Using B-FLAT before every shot reminds you to pa use and ask, “Ha ve I ma de the strongest creative 
+choices for this m oment?” It is a constan t reminder to d ouble-check the decisions you have made (or 
+have failed to make!). 
+Use B-FLAT, and your audience will thank you. 
+An interactive H5P element has been excluded from this version of the text. You can view it online here: 
+https://lmu.pressbooks.pub/filmmaking/?p=513#h5p-39 
+B-FLAT is there to help you make decisions. These decisions are sometimes technical, but they are 
+NO- NONSENSE FILMMAKING
+29
+
+always creative. And at the heart of every decision lies the question: What do you want your audience 
+to feel? 
+MISCHA LIVINGSTONE
+30

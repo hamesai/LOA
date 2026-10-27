@@ -1,0 +1,858 @@
+Chapter XI
+TINTING AND TONING MOTION PICTURE FILMS
+Based on the methods worked out by the Eastman Kodak
+Research Laboratories
+MANY practical methods have been worked out from time
+to time for the toning of lantern slides and photographic
+papers. When these are applied to the toning of motion
+picture film, the toned film obtained in most cases although apparently satisfactory when viewed in the hand, appears substantially black on projection. Generally speaking, the color of
+the image as seen in the hand is no criterion whatever of its appearance on the screen, so that in judging any particular tone it
+is essential to view the projected image.
+The importance of producing toned images of the maximum
+degree of transparency is therefore at once apparent. The excellence of any formula may be estimated by its capacity for
+producing a transparent image which on projection shall retain
+the necessary vigor and snap.
+While other methods have been suggested for producing a
+colored image, the method almost universally employed is to
+replace the silver by a colored metallic compound—usually a
+ferrocyanide of a metal of which,
+Iron (ferric) ferrocyanide is blue
+Copper ferrocyanide is red
+Uranium ferrocyanide is reddish brown
+Vanadium ferrocyanide is greenish yellow.
+Silver Sulphide ferrocyanide is warm brown.
+The object in toning is to replace the metallic silver composing the image by one of the above compounds, or by a mixture
+of the same whereby intermediate tones are obtained. This
+toning may be effected either by a two-solution process or by a
+single-solution process.
+The two-solution process consists of first converting the silver
+image into silver ferrocyanide by means of a suitable bleaching
+bath, thoroughly washing and acting upon the ferrocyanide image
+177
+
+MOTION PICTURE PHOTOGRAPHY
+with a metallic salt, usually in presence of an acid. Thus the
+metallic ferrocyanide is produced by double decomposition. The
+reaction, however, is never complete, so that the image is mixed
+with undecomposed silver ferrocyanide which tends to add "body"
+to the latter. If allowance is made in the original positive for
+this intensification, good tones are obtained.
+Single-solution process : Instead of the two separate baths used
+above, a single solution may be employed consisting usually of
+the metallic ferrocyanide dissolved in a suitable solvent (say an
+alkali salt of citric, tartaric, or oxalic acids) in presence of an
+acid and certain other salts.
+On immersion of the positive film in this solution the silver
+image is converted to silver ferrocyanide, whilst the colored
+ferrocyanide is formed simultaneously and in its proper place.
+In view of the fact that the metallic ferrocyanide is deposited
+in a colloidal condition in presence of the gelatine of the film, its
+state of division, and therefore the nature of the tone, is usually
+affected by the presence of certain salts, changes of temperature,
+concentration of the baths and other factors which must be maintained constant in order to produce uniform' results. With such
+single baths it is possible to secure tones which are unobtainable
+by a two-solution process. As these single solutions are sensitive
+to light and rapidly attack foreign metals, such as faucets, they
+are comparatively unstable and require care in their use.
+Two-solution methods are reliable, economical, and are not
+so prone to influence of disturbing factors. The total time required for toning, however, is invariably double that taken up
+by a single-solution process, so that, from an economic standpoint, two-solution methods are especially recommended for the
+worker who tones occasionally.
+In the above case if the toned image be treated with acid hypo
+to remove the opaque silver ferrocyanide, an almost pure colored
+image remains. The intensity of the toned image is, however,
+considerably diminished and, previous to toning due allowance
+must be made in choosing the positive in order that the final image
+shall be of the correct density for projection.
+Since most toning processes either intensify or reduce the
+original image, it is most important to commence toning with
+positive film of the correct density, so as to obtain uniform
+results.
+ITS
+
+TINTING AND TONING MOTION PICTURE FIL,MS
+Any good metol-hydroquinone formula will produce good
+tones, although a straight hydroquinone developer will produce
+excellent tones in all cases except with certain vanadium and
+iron formulas for green tones. A metol-hydroquinone developer
+is essential in these cases in order that the rich olive-green color
+may be obtained, and the proportion of metol in the developer
+should be about twice the usual quantity.
+Before toning it is necessary that the developed film should be
+entirely free from fog, since a thin veil becomes intensified in
+most of the toning processes. Fog may be caused by
+:
+(a) Oxidization of the developer, noticeable by the brown
+coloration produced after continued use. The remedy is obvious.
+Do not use exhausted or badly oxidized developer.
+(b) Carelessness in compounding the developer. The usual
+mistake consists in adding the carbonate to the metol and hydroquinone without previously adding some sulphite in order to prevent oxidation. It is not advisable, however, to add the whole
+of the sulphite to the metol and hydroquinone in the first place,
+otherwise the metol may precipitate.
+(c) The presence of metals such as copper, brass and tin, and
+fumes from sodium sulphide, etc., in the developing baths are
+to be strictly avoided. A salt of copper if present only to the
+extent of one part in 10,000 will produce fog immediately on
+cine positive film.
+It is advisable that all metallic parts such as pins on developing racks, etc., should be enamelled or replaced with hard rubber,
+or silver plated, in order to eliminate any source of danger.
+Exposure and development are of great importance. In such
+a case as sulphide or copper toning, the best results can be obtained only on full development.
+Fixing should be complete and, if possible, carried out in two
+consecutive baths followed by thorough washing, otherwise uneven coloring will result.
+The toned deposits obtained by the processes recommended are
+as transparent as is consistent with "pluckiness," and only those
+formulae have been recommended which by virtue of their rapidity of action, long life, and cheapness, can be employed commercially.
+Permanency of the tone produced in every case depends largely
+on the thoroughness and care exercised during the various chemical operations,
+179
+
+MOTION PICTURE PHOTOGRAPHY
+The silver sulphide image may be considered permanent, and
+likewise the blue tones in those cases where the film is finally
+fixed after toning. In the other cases, however, where more or
+less silver ferrocyanide still remains in the toned image, the film
+is not absolutely permanent (blue and green tones being affected
+by excessive heat). In no case, where instructions are carefully
+followed, will the toned image deteriorate during the active life
+of the film. Moreover, so far as can be ascertained, the wear
+and tear of film which has been toned by the methods recommended is in no way impaired. By virtue of the hardening
+action of most of the toning baths on the gelatine it is advisable,
+especially during the winter months, to immerse the film for
+three or four minutes in the usual 3 per cent, glycerine bath after
+toning.
+In case film has to be stored for long periods of time it is inadvisable to tone the same, nor is it advisable to tone valuable
+film unless duplicates of the same are available.
+The life of the toning bath has been carefully investigated in
+each case. The term "life" is considered as the total length
+of film capable of being toned by a given volume of fresh solution when toning is conducted continuously and without interruption.
+In all cases it is false economy to exhaust a toning bath to
+the limit and thereby obtain inferior tones. The cost of the
+chemicals employed is insignificant compared with the value of
+the film being treated, being about one per cent per twenty-five
+feet of film toned. (This calculation was made when chemicals
+were not so high as at present.)
+The figures given represent the capacity of the baths for toning under the best conditions. They apply only providing the
+baths are kept covered to exclude light when not in use and providing no foreign metallic surface, however, small, is allowed to
+come into contact with the solution.
+As previously mentioned, single-solution baths are not intended
+for use at very infrequent intervals. In such cases, two-solution
+methods should be employed, although it is possible only to
+recommend the latter for the production of green and blue-green
+tones.
+Copper Red Tone. Red chalk color. Use a snappy, • rather
+dark positive with this bath. After immersing the well-washed
+film in water for one minute, place in the following:
+180
+
+TINTING AND TONING MOTION PICTURE FILMS
+Potassium Citrate 6 lbs. 4 ozs.
+Copper Sulphate i lb.
+Potassium Ferricyanide i lb.
+Ammonium Carbonate 8 ozs.
+Water to 10 gals.
+Dissolve each ingredient separately in as little water as possible, mix the filtered solutions so obtained in the order given,
+and dilute to the required volume. The ammonium carbonate
+should be almost transparent, and free from white powder.
+To obtain the best results the bath should be employed at 70®
+F. At higher temperatures inferior results are obtained and at
+80° F. the bath is useless.
+Tone for twenty to thirty minutes.
+Washing should be continued until the high lights are perfectly clear, which usually requires from ten to fifteen minutes.
+With use, the bath precipitates a brown sludge of copi>er ferrocyanide, and in consequence becomes weaker by virtue of the
+loss of copper. Ten gallons of the solution will tone about 1,000
+feet of film without revival. As soon as the bath shows signs
+of weakness it should be revived by adding separately one-quarter
+the above amounts of copper sulphate, ferricyanide, and ammonium carbonate, dissolved in as little water as possible—omitting the potassium citrate.
+The bath will not keep more than a few days even after being
+so revived. In view of the relative instability of this bath, it
+is more economical to employ a wooden drum immersed in a
+shallow tank (using fresh solution as soon as exhausted in place
+of the usual "tank and racks.")
+Uranium Red Tone. Brownish red color.
+Use a rather thin positive as this bath intensifies slightly.
+Immerse the well-washed film in the following:
+Avoirdupois
+Uranium Nitrate (Neutral) 3 ozs. 150 Grs.
+Potassium Oxalate (Neutral).... 3 ozs. 150 Grs.
+Potassium Ferricyanide i oz. 150 Grs.
+Ammonium Alum 8 ozs.
+Hydrochloric Acid 10 per cent. . . 6 ozs.
+Water to 10 gals.
+Since the nature of the tone is influenced largely by the acid
+18t
+
+MOTION PICTURE PHOTOGRAPHY
+content, it is very important that the uranium nitrate should
+contain no free acid. This may be assured by neutrahzing a
+solution of the same with diluteammonia until a slight permanent
+precipitate is obtained.
+It is most convenient to keep stock solutions of the above (say
+io% solution) wherewith a new bath may be expeditiously compounded. A io% hydrochloric acid solution is one containing
+10 parts by volume of the acid per lOO volumes of the final
+solution.
+Slight variations of temperature around 70° F. produce no
+apparent effect.
+Tone for ten minutes. Since this and the following single solution methods of toning produce a marked intensification of the
+silver image—which intensification increases with the time of
+toning—it follows that the nature of the tone changes with the
+time.
+The composition of the bath has been so adjusted that the
+maximum effect is produced in about 10 minutes, the tone passing through a series of changes from brown to red during this
+time.
+Although it is possible to obtain intermediate tones by withdrawing the film from the bath at shorter intervals, the tones
+so obtained are not so "plucky," and it is almost impossible to
+duplicate them. Experience has shown that modifications of
+tone are best obtained by keeping the time of toning constant
+and varying the nature of the toning bath and that of the positive
+film employed.
+Wash from ten to fifteen minutes.
+Usually the high lights will become clear in the above time,
+although a thin yellowish brown veil invariably remains in the
+clear gelatine as a result of the intensification of minute traces
+of fog. This is of no account, however, in projection. If the
+bath is working correctly this yellowish veil is only just perceptible. Should it be at all marked, then either the film was
+fogged during development, or the bath was not compounded
+correctly. Washing should not be carried out for too long a
+period, especially with water inclined to be alkaline, because the
+toned image is soluble in alkali.
+Ten gallons of solution will tone about 1,000 feet of film without any appreciable change in the tone, aft^r which the rich tone
+182
+
+TINTING AND TONING MOTION PICTURE FILMS
+tends to become flat as a result of a deficiency of acid in the bath.
+At this point the bath may be revived by the further addition of
+acid to the extent of the original amount employed, when a further i,oco feet may be toned. After this stage the richness of
+tone falls off rapidly and the bath should be thrown away. In
+view of the sensitiveness of the bath to acid, the importance of
+the neutrality of the ingredients is at once apparent.
+Used intermittently over a period of several days, the life of
+the bath is approximately the same.
+With continued use a slight brownish flocculent precipitate may
+form in the bath, but this should be only slight, otherwise it is
+caused by incorrect mixing, the action of light, or by contact with
+a metallic surface.
+Uranium Red Brown. Reddish Sepia Color. Use a positive
+that is a full shade lighter than a normal black and white. The
+formula employed is the same as for Uranium Red tone, but
+contains only half the amount of hydrochloric acid. The procedure is the same as that for Uranium Red Tone.
+In view of the less energetic nature of this bath the life is
+slightly longer than that for Uranium Red. If after i,ooo feet
+of film have been toned the bath is renewed with acid to the
+extent of
+6 ozs io% acid per lo gals.
+Then lo gals, of solution will tone 3,ocx) feet of film.
+Sepia Tone by Uranium and Iron. This particular tone is
+obtained by suitable admixture of red and blue toning, solutions.
+By varying the proportions of these baths, tones from red sepia
+to brown may be obtained.
+The following is only one of the many tones to be obtained
+by this method. Increase in the proportion of the iron baths
+makes the tone colder and vice versa.
+Use a positive that is a full shade lighter than normal.
+Immerse well-washed film in
+Solution for Uranium Red Brown 9 vols.
+Solution for Iron Blue I vol.
+The instructions regarding method of procedure, life of bath,
+-etc., are exactly the same as for Uranium Red Brown.
+Sulphide Yellow Brown for Tinting. This tone is seen to advantage only when subsequently tinted, as when used without
+tinting it gives a very unpleasing brindle brown.
+183
+
+MOTION PICTURE PHOTOGRAPHY
+Use a normal print for this tone as it reduces just about the
+correct amount for tinting.
+A. Potass. Ferricyanide 3 lbs.
+Potass. Bromide I lb.
+Water to 10 gals.
+B. Sodium Sulphide crystal 3 oz.
+Hypo crystal 8 oz.
+Water to 10 gals.
+It is convenient to keep solutions of hypo and sodium sulphide
+(say 20%) and measure these out by volume as required. A
+trace of iron in the sodium sulphide is of no moment providing
+the stock solution is boiled and the precipitated iron sulphide allowed to settle before use.
+The well-washed positive is thoroughly bleached in A, washed
+for five minutes, and immersed in solution B, until the film is
+thoroughly toned. This bath appears to "ripen" slightly with age
+so that a small amount of used bath should be added when compounding fresh solution or a waste piece of film should be toned
+in the new bath to secure the same eifect.
+The effect of temperature on the solution A is simply to hasten
+the bleaching. With bath B, on immersion of the bleached film
+two reactions occur:
+(a) Solution of the silver bromide in hypo.
+(b) Conversion of the silver bromide to silver sulphide.
+Normally, good results are obtained at 70° F. Owing to the
+increased solvent power of hypo for silver bromide at high temperature, the tone becomes warmer and the image has less contrast at a limit of 75° F., beyond which it is inadvisable to go.
+Hence, if the tone is too cold and the film too opaque, the temperature should be increased one or two degrees from 70° F. and
+vice versa.
+Tone about five minutes and wash fifteen minutes.
+The bleaching bath A will keep until exhausted. Ten gallons
+of bath B will tone about 2,000 feet of film, after which there is
+a tendency for a dichroic fog-like deposit to form on the surface
+of the film during toning owing to the hypo becoming saturated
+vnth silver bromide. As soon as this happens, the bath should be
+renewed.
+Green tones by Vanadium and Iron. Use a normal black and
+white positive for this formula.
+184
+
+TINTING AND TONING MOTION PICTURE FILMS
+Tone in the bath prepared as follows
+:
+Avoirdupois
+A. Oxalic acid i lb. 4 oz.
+Vanadium stock solution 40 oz.
+Water to 5 gals.
+Avoirdupois
+B. Potass, ferricyanide 3 ozs. 145 grains
+Water to 20 gals.
+C. Ferric Alum 8 oz. 145 grains
+(Ferric Ammonium Sulphate)
+Potass. Bichromate y2 grains
+Oxalic acid 7 oz.
+Potass, ferricyanide 3 oz.
+Water to 15 gals.
+EHssolve each of the chemicals separately and mix the solutions obtained strictly in the order given.
+Avoirdupois
+D. Ammonitmi Alum 2 lb. i oz. no gr.
+Hydrochloric acid 10% 133^ oz.
+Water to 10 gals.
+Total Volume 50 gals.
+Add B to A with stirring; then add C, and finally add D to
+the mixture. The solution is then ready for use.
+The syrupy variety of Vanadium Chloride sold by Merck is
+recommended although its nature appears to vary with different
+batches, certain samples being very difficult to incorporate with
+the toning bath without giving rise to precipitation.
+Vanadium Stock Solution
+:
+Avoirdupois
+Vanadium chloride (syrup) 3^ tl. oz.
+Oxalic acid 3 oz. 200 gr.
+Water to y^ gal.
+Any sludge which may have been deposited from the vanadium
+chloride should be included also and the whole heated in a glass
+or enamelled vessel until a clear blue solution is obtained.
+The method of mixing the various solutions A, B, C and D is
+of the greatest importance. They should be mixed only in the
+concentrations recommended and strictly in the order given. Unless this is done, the vanadium will precipitate out as a green
+sludge.
+J85
+
+MOTION PICTURE PHOTOGRAPHY
+Variations of temperature around 70° F. have little or no effect.
+Tone ten to fifteen minutes and wash for the same length of
+time. Washing should be thorough as it is only during washing
+that the rich green tone develops.
+Ten gallons of solution will tone about 1,400 feet of film
+without any appreciable deterioration of tone, and if at this
+point, and after each 1,000 feet, the bath is revived by the addition of hydrochloric acid equivalent to the amount originally
+employed: i.e.
+2j4 ozs., 10% Hydrochloric Acid per 10 gals.
+3,000 feet may be toned. As the bath becomes exhausted it may
+be found necessary to increase the time of toning to fifteen
+minutes. It is not permissible to add further amounts of vanadium chloride in order to revive the bath, as the vanadium would
+then be precipitated. The vanadium may be incorporated with
+the bath only at the time of mixing.
+Used intermittently the life is approximately the same.
+Greenish Blue Tone With Vanadium And Iron. Use normal
+black and white positive for the formula.
+The formula employed and instructions are exactly the same
+as for Green tones by Vanadium and Iron, except that the proportion of Vanadium chloride is as follows
+:
+Vanadium Chloride Stock Solution.
+Per 10 gal. of bath, 4 ozs.
+and only half the amount of hydrochloric acid should be employed. It is not permissible to convert this bath to the preceding by the addition of further amounts of vanadium chloride,
+in which case the latter would be precipitated.
+Positives for this bath should be a full shade or even two
+shades lighter than normal and should be developed in metolhydroquinone developer as a plain hydroquinone formula does not
+give good results with this bath.
+Avoirdupois
+A. Potassium Ferricyanide 4 lbs. 43^ ozs.
+Ammonia .880 13 ozs.
+Water to 10 gals.
+Bleach for two to ten minutes, then wash for ten or fifteen
+minutes, tone in the following
+:
+186
+
+TINTING AND TONING MOTION PICTURE FILMS
+B. Ferric alum (crystal) Avoirdupois
+(Ferric ammonium sulphate) ... .13 ozs. 2 drams
+Vanadium chloride (stock sol.). -.25 fl. ozs.
+Potassium bromide 6 ozs. 5 drams
+Hydrochloric acid (concentrated) . 23^ ozs.
+Water to 10 gals.
+Refer to green tones by Vanadium and Iron for composition of
+vanadium stock solution.
+Temperature of toning should be around 70° F. and the time
+of toning ten to fifteen minutes.
+Wash for ten minutes after toning.
+Providing bath A is screened from the light and kept covered
+in order to prevent the undue escape of ammonia, the bath keeps
+fairly well. Should it show any signs of weakening it should
+be revived by the addition of a further quantity of ammonia
+equal in amount to that originally used. If so revived at intervals, 10 gallons will bleach 8,000 feet of film before exhaustion.
+Ten gallons of solution B will tone 6,000 feet of film without
+further addition of acid, after which it should be thrown away.
+Olive green tones with iron (two solutions).
+This tone is almost indistinguishable from those obtained with
+vanadium. Use a thin metol-hydroquinone developed positive
+with this formula, plain hydroquinone does not give very satisfactory results.
+Bleach in solution A as for green tones by vanadium and iron,
+and after washing for ten to fifteen minutes tone in:
+Avoirdupois
+Ferric Alum 13 oz. 2 drams
+Potassium bromide 6 oz. 5 drams
+Hydrochloric acid (concentrated) . 2j^ oz.
+Water to 10 gals.
+The time of toning, washing, life of bath, etc., are the same
+as for green tone by Vanadium and Iron. Should the high lights
+of the toned image be stained blue, this is due to insufficient
+washing after bleaching:
+Iron Blue Tone. Use normal or slightly thin positive. Tone
+in the following;
+187
+
+MOTION PICTURE PHOT O G R A P H Y
+Avoirdupois
+Potassium bichromate 15 grains
+Ferric Alum i oz. 250 grs.
+Oxalic acid 4 oz.
+Potassium ferricyanide i oz. 146 grs.
+Ammonium alum 6 oz. 5 drams
+Hydrochloric acid 10% i oz. 2 drams
+Water to 10 gals.
+The method of compounding this bath is very important. Each
+of the solid chemicals should be dissolved separately in a small
+quantity of warm water and the solutions allowed to cool. Then
+the latter should be filtered into the tank strictly in the order
+given, and the whole diluted to the required volume. If these instructions are adhered to, the bath will be free from any sign of
+precipitate and will remain so for a considerable period.
+Tone for ten to fifteen minutes and wash ten to fifteen minutes
+until the high lights are clear. A very slight permanent yellow
+coloration of the clear gelatine will usually occur, but should be
+only just perceptible. It is of no moment in projection. Should
+any sign of blue stain occur, it is an indication of a stale bath
+or incorrect mixing of the same. These remarks regarding stains
+apply in all cases where single toning solutions are employed.
+If the acid is replaced to the extent of the original amount
+after toning each 1,000 feet, the bath will on the whole tone
+3,000 feet per ten gallons of solution.
+If even after revival, the tone remains flat, the bath is exhausted
+and should be thrown away. As the bath becomes exhausted,
+the time of toning should be extended a little longer than ten
+minutes in order to obtain the necessary contrast.
+After continued use, a slight bluish sludge will collect in the
+bath, but this is of no moment. Should this form, however, to
+an appreciable extent, it is due either to incorrect mixing, the
+action of light, or to contact with metallic surfaces.
+Two-Solution Iron Blue Toning Bath. Starting with a light,
+normal positive, this is toned according to instructions given for
+olive-green tones with iron.
+The tone image is then immersed in the following fixing bath
+for three minutes;
+188
+
+TINTING AND TONING MOTION PICTURE FILMS
+Hypo (crystal) 8 lbs. 5 ozs.
+Sodium bisulphite (EKCo) 2 lbs. 1% ozs.
+Water to 10 gals.
+After fixing, the film is washed for ten to fifteen minutes. If
+the resultant image is too thin, the toning solution should be allowed to act for fifteen minutes, or positive film of greater contrast should be employed.
+Violet Tone With Iron and Ammonia. Iron blue tones may be
+converted to violet or dark blue by immersion for one to two
+minutes in the following bath.
+Avoirdupois
+Ammonia Pure .880 3 to 5 ozs.
+Water to 10 gals.
+Wash for one or two minutes and dry.
+After some time the film will turn blue again but the violet
+tone can be restored by treatment with ammonia.
+In many cases pleasing effects may be obtained by tinting film
+which has already been toned. The result is that the clear portions of high lights assume the color of the dye, whilst the
+shadows and half-tones project a tint intermediate between that
+of the dye and the toned deposit
+Considerable judgment is necessary in choosing suitable tints
+to blend with any given tone.
+The most successful combination of toning with tinting is in
+the production of sunset and moonlight effects over water. First
+tone blue and subsequently tint "orange" or "red."
+The following combinations will cover most cases required
+:
+Yellow Brown tone with pink tint.
+Green and Blue tones with light yellow tint.
+Blue and Violet with almost any delicate shade.
+It is considered unnecessary to illustrate every combination
+of tone and tint. Only typical examples have been given. It
+must be noted that toned film except copper and sulphide toned,
+dyes more quickly than untoned film in any given dye bath. In
+order to obtain the exact tints above, the dye bath should be
+diluted with about an equal quantity of water.
+Dye for five to ten minutes, according to shade desired.
+The equipment necessary for systematic toning and tinting is
+essentially the same as that required for development, consisting
+189
+
+MOTION PICTURE PHOTOGRA PHY
+of the usual tanks and racks or small drums. It is highly desirable to use the same for this purpose exclusively and if possible keep in a separate room thus excluding any possibility of
+contamination either by the copper or sulphiding bath, which
+would cause development fog immediately.
+The "drum" system, on account of the great expense involved
+in apparatus and the larger space required for manipulation, is
+not to be recommended for toning and tinting operations. For
+the worker on a small scale, who desires only to produce short
+lengths of film occasionally, a small wooden drum revolving in
+a shallow wooden tank is most efficient and economical. The
+tanks employed should be of slate or other resistive materials, and
+have in an outlet at the bottom a hard-rubber stopcock or a
+wooden plug.
+Wooden tanks may be used but when once used for one color
+cannot be used for any complementary color.
+The tank containing the sulphiding bath should be enclosed in
+an outer tank through which hot or cold water may be circulated
+in order to control the temperature. The racks or drums
+may be of wood, but if metal pegs are employed they
+should be coated with an acid-resisting paint such as asphalt.
+The presence of any metalic surface in the toning baths will
+cause contamination of the same and effect a precipation of
+sludge. Neither toning nor tinting frames should be interchanged
+but should be kept separate in order to prevent contamination
+of one bath by frames employed in another. This also applies
+to the small drum system. A pink tint would be ruined by using
+a rack which had been immersed in a deep blue dye bath unless
+the rack had been washed thoroughly.
+In the case of delicate tinting, however, no harm is done providing the racks have been coated with the following waterproof
+varnish
+:
+Avoirdupois
+Hard Paraffin i lb. 5 ozs.
+Syrian asphalt i lb. 5 ozs.
+Benzol 4 gals.
+Carbon tetrachloride 3 gals.
+Before varnishing it is preferable to immerse the racks in a
+1% solution of hydrochloric acid for two or three minutes and
+190
+
+TINTING AND TONING MOTION PICTURE FILMS
+wash for fifteen minutes. Dry thoroughly. Then dip the welldried racks in the above solution and drain off the excess liquid.
+The varnish dries almost immediately.
+The varnishing should be repeated at intervals.
+Developers, toning solutions and dyes should be mixed in
+crocks of glazed earthenware. Use warm water when possible
+and ensure thorough solution by stirring with a wooden paddle,
+which should be thoroughly washed after each operation. Having dissolved the chemicals in as small a quantity of hot water as
+possible, the solution should be cooled so that on dilution the final
+solution will be at approximately the correct temperature.
+The chemicals employed should be pure. When a good water
+supply is not available, distilled water only should be employed.
+In "tinting" the following factors must be taken into consideration :
+Dyestuffs are chemically of two different types, acid and basic
+;
+so-called acid dyestuffs are the alkali—usually sodium salts of
+organic acids—whilst basic dyestuffs are the chlorides, sulphates,
+etc., of organic bases.
+For the tinting of film only "acid" dyestuffs should be considered, since "basic" dyestuffs usually enter the gelatine so
+rapidly that satisfactory control of the dyeing is impossible.
+Moreover, it is not possible to make a complete selection from
+basic dyestuffs alone. Such a selection would necessitate the use
+of acid and basic dyestuffs in admixture—a procedure highly undesirable and, in many cases, impossible.
+Any dyestuffs suitable for admixture to produce intermediate
+tints should possess the following properties
+:
+The dye should be inert and not attack the gelatine or support.
+This is of fundamental importance as the gelatine coating of dyed
+film in many cases has a tendency to lose its flexibility, causing
+what is known in the trade as "brittleness."
+Several dyestuffs when employed at a concentration of i%, attack gelatine readily at 70° F. and vigorously at 80° F., especially
+in presence of small amounts of acids, producing a marked
+softening and often partial solution of the film. The effect is
+roughly proportionate to the concentration of the dye and to the
+temperature, and varies with each individual dyestuff. Experience shows that the gelatine coating of film which has been
+softened in this way by the dyestuffs becomes "brittle" on subsequent projection.
+191
+
+MOTION PICTURE PHOTOGR A P H Y
+The actual factors in the production of brittleness are
+:
+1. The hydrolysis of the acid which, in many cases, is added
+to assist dyeing. If a solid acid has been employed the heat encountered during projection will greatly accelerate this hydrolysis.
+2. The corrosion of the dye itself. Dyes vary considerably
+in this respect according to their particular composition. So far,
+it has not been possible to make any general classification of dyestuffs in this connection, though nitro compounds appear to be
+particularly corrosive in their action.
+3. The presence of impurities in the dyestuff. These take
+the form of excessive amounts of loading material, such as sodium
+sulphate or chloride, or small traces of iron, the latter having a
+tendency to harden the film considerably.
+In all the above cases, the nature of the gelatine is altered. It
+loses its property of remaining resilient under normal conditions
+of temperature and humidity and becomes "brittle."
+A suitable test as to whether a dyestuff has any propensity
+to produce brittleness is to incubate a sample of film, half of
+which has been dyed, for about 48 hours at 100° degrees C. If
+any difference in brittleness is noticeable between the dyed and
+undyed portions so treated, the dye is unsuitable for tinting.
+On the contrary most dyestuffs, when used at a concentration
+of 1% and at 80° F., produce more or less softening of the gelatine. This may be prevented by
+:
+(a) Use of dilute solutions only. Except in special cases, a
+dye solution stronger than 0.5% is seldom required. The usual
+strength employed is about 0.2%, at which concentration no
+softening usually occurs..
+(b) Omission of acid from the dye bath.
+(c) By working at temperatures not higher than 70° F.
+(d) By slight hardening of the film before dyeing and subsequent softening by glycerine, as described below
+:
+The dye should not "bleed" to any considerable extent when
+the film is washed ; in other words, the rate of removal of the dye
+should be slow and be almost imperceptible in a period of say, five
+minutes.
+Generally speaking, basic dyestuffs which are absorbed readily
+by gelatine do not bleed whilst most acid dyestuffs which dye
+gelatine much more slowly bleed considerably. The rate of bleeding appears to vary inversely as the affinity between the dye and
+the gelatine.
+192
+
+TINTING AND TONING MOTION PICTURE FILMS
+In tinting, bleeding is of considerable importance.
+During the period between rinsing after dyeing and the placing
+of the film on the drying rack, any drops of water on the surface
+of the film become more or less saturated with dye. These, after
+drying, remain as spots and irregular markings which are very
+apparent on the screen.
+It is possible only in very few cases to modify this bleeding
+by an acid "stop bath," and it may be considered a general rule
+that the bleeding of a dyestuff is a property peculiar to itself.
+In making a selection of dyes therefore, it is necessary to choose
+only those which have a minimum propensity to bleed.
+The rate of dyeing should be only slightly affected by the addition of acid to the dye bath.
+In some instances it has been recommended to add a small
+amount of acid to the dye bath to obtain more transparent results and to increase the rate of dyeing, but we do not recommend
+the use of acid for the following reasons
+:
+(a) Acid magnifies the eflPect of temperature both on the rate
+of dyeing and on the softening of the gelatine.
+(b) Acidified dye baths usually dye too quickly and often produce uneven dyeing around the perforations. Moreover, in
+many cases the degree of dyeing is very sensitive to changes in
+acidity. Since the acidity of the bath falls ofif with use, just as
+in toning, it is almost impossible to duplicate results systematically.
+If acid is used it should be a volatile acid such as acetic acid,
+as any solid acid is retained in the film after dyeing. In all cases
+the eflFect varies with the particular dyestuff employed, and may
+be considerable even w^hen the acid (acetic) is present only to
+the extent of .02%.
+The dyes should be stable to light and not be "dichroic" or
+change color on dilution.
+Moreover, the wear and tear of the film should not be impaired
+in any way after dyeing. Even after incubating for 48 hours at
+100° C, no difference should be discernible between dyed and
+undyed films.
+The dyestuff should not be affected by "hypo" since any fixing
+solution left in the film, or accidentally splashed thereon, would
+destroy the dye immediately.
+Examination shows that most dyes fail on the "bleeding" test,
+393
+
+MOTION PICTURE PHOTOGRA PHY
+whilst others, which might otherwise appear entirely suitable, attack the gelatine at higher temperatures or cause "brittleness."
+In view of the large number of tints required in commercial
+work, it is undesirable to keep a separate dye-powder for the
+preparation of each particular bath. Prepare the same by admixture of three or more dyestuffs. If three only are employed,
+mixing must be conducted with great precision in order to reproduce any given tint. This difficulty is overcome by the use
+of intermediate colors.
+The following five standard dyes have been chosen as fulfilling
+the above conditions as nearly as possible. By suitably mixing
+solutions of these as indicated in the specimen chart, almost any
+desired tint may be obtained
+:
+Name used in Formula Commercial Name Mamufacturer
+Cine Red Chromotrop FB Hoechst
+Cine Orange Orange GRX Badische
+Cine Yellow Quinoline Yellow Badische
+(Hoechst, Agfa.)
+Cine Blue-Green Brilliant Patent Blue Hoechst
+Cine Blue Naphthaline Blue 12B Hoechst
+Kalle
+Abbreviations
+Hoechst is Farbwerke Hoechst Co., 122 Hudson St., New
+York City.
+Badische, Badische Co., 128 Duane St., New York City.
+Agfa, Berlin Anilin Works, 213-215 Water St., New York City.
+Kalle, Kalle and Co., 530 Canal St., New York City.
+These dyes are the commercial grades as supplied by the
+various dye makers. As a rule, they contain about 20%
+of loading material in the form of sodium chloride or sodium
+sulphate which in no way injures the film.
+The relative cost of pure dyestuffs compared with commercial
+samples prohibits their employment commercially.
+The amount of impurity in the dyes may vary slightly from
+batch to batch. This variation is usually so small as not to affect
+materially the nature of the tint obtained from any particular
+formula. Moreover, dye samples of the same name supplied by
+different makers may differ considerably in their properties, particularly with respect to ^'bleeding,"
+194
+
+TINTING AND TONING MOTION PICTURE FILMS
+All tints we have described were obtained with dye samples
+from the makers indicated. Should dyes of other makers be employed, the proportions stated may require slight modifications
+Match any given color under artificial light only.
+Tint No, Formulae for Tinting Avoirdupois
+1. Cine Red 2 lbs.
+Water 50 gals.
+2. Cine Red 8 oz. 145 grains
+Cine Yellow 8 oz. 145 grains
+Water 50 gals.
+3. Cine Red 5 oz. 220 grains
+Cine Yellow 5 oz. 220 grains
+Water 50 gals.
+4. Cine Red 3 oz. 350 grains
+Cine Yellow 3 oz. 350 grains
+Cine Blue-green 320 grains
+Water 50 gals.
+5. Cine Red 5 oz. 260 grains
+Cine Orange i lb. 11 oz. 175 grains
+Water 50 gals.
+6. Cine Red i oz. 175 grains
+Cine Orange 6 oz. 350 grains
+Water 50 gals.
+7. Cine Orange 11 oz. 45 grains
+Water 50 gals.
+8. Cine Orange 16 oz. 300 grains
+Cine Yellow 16 oz. 300 grains
+Water 50 gals.
+9. Cine Orange 4 oz. 75 grains
+Cine Yellow 4 oz. 75 grains
+Water 50 gals.
+10. Cine Yellow 2 lbs.
+Water 50 gals.
+1 1. Cine Yellow 8 oz.
+Water 50 gals.
+12. Cine Yellow i lb. 4 oz.
+Cine Blue-green 2 oz.
+Water 50 gals.
+13. Cine Yellow 14 oz.
+Cine Blue-green 2 oz. 350 grains
+195
+
+MOTION PICTURE PHOTOG R A P H Y
+Tint No. Formulae for Tinting Avoirdupois
+Water 50 gals.
+14. Cine Yellow 7 oz.
+Cine Blue-green i oz. 175 grains
+Water 50 gals.
+15. Cine Yellow 9 oz. 130 grains
+Cine Blue-green 7 oz. 175 grains
+Water 50 gals.
+16. Cine Blue-green i lb.
+Water 50 gals.
+17. Cine Blue-green 4 oz.
+Water 50 gals.
+18. Cine Red 250 grains
+Cine Blue-green 12 oz. 30 grains
+Water 50 gals.
+19. Cine Blue 4 oz.
+Water 50 gals.
+20. Cine Red 6 oz. 145 grains
+Cine Blue-green 4 oz. 350 grains
+Water 50 gals.
+21. Cine Red 3 oz. 85 grains
+Cine Blue-green 2 oz. 175 grains
+Water 50 gals.
+22. Cine Red 5 oz. 175 grains
+Cine Blue-green I oz. 260 grains
+Cine Yellow i oz. 150 grains
+Water 50 gals.
+23. Cine Red 3 oz. 90 grains
+Cine Yellow 380 grains
+Cine Blue-green i oz. 30 grains
+Water 50 gals.
+24. Cine Red 10 oz.
+Cine Blue i oz.
+Water 50 gals.
+The solid dyestuffs are thoroughly dissolved in as small an
+amount of hot water as possible and filtered through fine muslin.
+Hot water should be poured over any residue, which should be
+slight, in order to ensure thorough solution of the dye. Then
+the dye solution should be diluted in the tank to the required
+volume at 70
+"^
+F.
+196
+
+TINTING AND TONING MOTION PICTURE FILMS
+Except in special cases, such as fire scenes, sunset and moonlight effects, it is very undesirable to employ strong tints. Apart
+from the displeasing effect and irritation to the eye, the dyestuffs produce a slight softening of the gelatine film when used at
+80° F. in I% solution.
+Should it be necessary to employ such concentrated baths in
+summer, it is necessary either to cool the dye bath or use a suitable hardener. No trouble will be encountered if formalin
+(40%) be added to the dye bath to the extent of i volume to 400
+volumes of dye solution. This is unnecessary if hardener was
+employed in the fixing bath after development.
+During the winter months it is advisable to treat all film after
+developing and fixing with glycerine. The latter may be incorporated with the dye bath thereby eliminating an extra operation. The strength of the glycerine should be 2%, or two volumes
+per one hundred volumes of dye solution. However, in most
+cases the addition of glycerine considerably retards the rate of
+dyeing. Therefore, in order to obtain the same degree of tinting
+within a period of ten minutes the concentration of the dye bath
+should be increased accordingly.
+The use of delicate tints both removes the contrasting black
+and white effect and adds a touch of warmth to the black deposit of silver, even in cases where the high lights are insufficiently stained to be noticeable. In many cases the result is
+equal to that obtained by partial toning.
+Although temperat!ure has little effect on the rate of dyeing
+with the dyes recommended, it is advisable in all cases to work at
+70° F. in order to produce uniform results and avoid any danger
+of softening the film.
+Only good ''plucky" positive film may be successfully tinted.
+As tinting tends to reduce contrasts, the positive should be of normal density but slightly on the hard side.
+Time of dyeing depends somewhat on the previous handling
+of the film. Film which has been fixed in a bath containing ordinary, or chrome, alum dyes more quickly than that treated
+with plain hypo and hardened with formalin. It is probable,
+therefore, that small traces of alum are left in the film even after
+prolonged washing. The alum serves as a mordant for the dye.
+The film for dyeing should be fixed in hypo containing sodium
+bisulphite only (25% hypo with 2.5% sodium bisulphite—the
+cooled bisulphite being added to the cooled hypo). In case an
+197
+
+Motion picture photograph y
+alum fixing bath is employed or if, for any other reason, the tints
+indicated are not obtained in the time given below, either the
+time of dyeing or the dilujtion of the dye bath must be altered.
+The concentration of the dye bath has in each case been so adjusted that dyeing is complete in ten minutes—which time is considered a minimum for the production of uniform' results, and
+for complete control of the dyeing operations. Shorter time of
+immersion will produce lighter tints. As is the case of toning,
+experience has shown that in order to produce uniform results
+it is advisable to keep the time of dyeing constant, and obtain
+varying effects by changing the composition of the dye baths.
+Should the film for any reason be over-dyed, a small portion
+of the dye may be removed by washing from lo to 15 minutes,
+though the particular fastness of the dyes allows only slight mistakes to be rectified in this manner.
+Life of the dye bath averages about 40,ocx> feet per 50 gallons
+dye bath. The bath may be revived at intervals by the addition
+of more dye, though this procedure is uncertain. It is generally
+advisable to mix fresh solution.
+Either the *'drum" or "tank" method may be employed. In
+either case after dyeing for ten minutes (during which time the
+rack should be agitated in order to ensure even dyeing and
+prevent accumulation of air bubbles) the film should be given a
+thorough rinsing in plain water.
+Before drying film on racks it is advisable to set the rack at
+a slight angle for a few minutes, so enabling the surplus water
+to drain off through the perforations. If drums are used for
+drying it is advisable to remove the surplus water by whirling
+the drum previous to drying.
+Patchy and streaked film results from insufficient washing of
+the positive after fixing and before dyeing, insufficient agitation
+of the rack when in the dye bath, and the use of dyes which
+"bleed" too freely.
+In general, almost any tint, if delicate, may be employed with
+advantage. For general use those ranging through pink, rose,
+orange, yellow, pale green and pale blue, are recommended
+—
+others are for special purposes. The nature of the tint as seen
+in the hands is no criterion of its appearance on the projected
+image, though by a little practice and by viewing only by artificial light, it is possible to preconceive the appearance of any
+sample on projection.
+198

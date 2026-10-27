@@ -1,0 +1,182 @@
+{
+ "key": "talbot-moving-pictures",
+ "title": "Moving Pictures: How They Are Made and Worked",
+ "author": "",
+ "file": "Talbot - Moving Pictures (1912).txt",
+ "format": "txt",
+ "sha256": "2054c210d044529be24c055258a2911c9e0eb57538a19eff2577859f66723443",
+ "words": 119069,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "The Project Gutenberg eBook of Moving Pictures: How They Are Made and Worked",
+   "words": 2108
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "CHAPTER I",
+   "words": 2982
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "CHAPTER II",
+   "words": 3930
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "CHAPTER III",
+   "words": 2315
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "CHAPTER IV",
+   "words": 6629
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "CHAPTER V",
+   "words": 2356
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "CHAPTER VI",
+   "words": 2559
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "CHAPTER VII",
+   "words": 3733
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "CHAPTER VIII",
+   "words": 4010
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "CHAPTER IX",
+   "words": 5005
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "CHAPTER X",
+   "words": 4364
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "CHAPTER XI",
+   "words": 4678
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "CHAPTER XII",
+   "words": 5394
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "CHAPTER XIII",
+   "words": 5551
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "CHAPTER XIV",
+   "words": 2613
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "CHAPTER XV",
+   "words": 3233
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "CHAPTER XVI",
+   "words": 3319
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "CHAPTER XVII",
+   "words": 2555
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "CHAPTER XVIII",
+   "words": 3539
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "CHAPTER XIX",
+   "words": 3915
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "CHAPTER XX",
+   "words": 4537
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "CHAPTER XXI",
+   "words": 3935
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "CHAPTER XXII",
+   "words": 2573
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "Chapter XX. The actor retains a fixed position, puffing while the",
+   "words": 1393
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "CHAPTER XXIII",
+   "words": 3447
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "CHAPTER XXIV",
+   "words": 4196
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "CHAPTER XXV",
+   "words": 3319
+  },
+  {
+   "file": "ch-028.txt",
+   "title": "CHAPTER XXVI",
+   "words": 4637
+  },
+  {
+   "file": "ch-029.txt",
+   "title": "CHAPTER XXVII",
+   "words": 3896
+  },
+  {
+   "file": "ch-030.txt",
+   "title": "CHAPTER XXVIII",
+   "words": 532
+  },
+  {
+   "file": "ch-031.txt",
+   "title": "Chapter XVII., showing the birth of a flower. The fact that this film",
+   "words": 1600
+  },
+  {
+   "file": "ch-032.txt",
+   "title": "CHAPTER XXIX",
+   "words": 10216
+  }
+ ],
+ "warnings": [],
+ "text_quality": {
+  "common_word_share": 0.401,
+  "odd_character_share": 0.004
+ },
+ "provenance": {
+  "found_by": "source-discovery",
+  "added": "2026-10-26",
+  "url": "https://www.gutenberg.org/files/67972/67972-h/67972-h.htm",
+  "query": "Source Discovery, 26/10/2026"
+ }
+}

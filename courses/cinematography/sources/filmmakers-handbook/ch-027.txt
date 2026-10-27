@@ -1,0 +1,9 @@
+APPENDIX D
+
+HYPERFOCAL DISTANCE TABLE
+
+If the lens is focused at the hyperfocal distance, everything from half that distance to infinity should be in acceptably good focus. See Chapter 4 for limitations on the use of hyperfocal distance and depth of field tables.
+
+To use this table: (1) Find the lens aperture you are using (expressed as an f-stop) in the column at left. Read across that row to the right until you locate the lens focal length at which you are filming. This is the column in which the hyperfocal distance is indicated. (2) Find the circle of confusion you are using on the lower left side of the chart. Read across that row to the right until you come to the column you located in (1). This is the hyperfocal distance for the focal length/aperture combination you are using.
+
+See Appendix C for suggestions on choosing a circle of confusion.

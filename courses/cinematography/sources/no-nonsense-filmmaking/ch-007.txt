@@ -1,0 +1,172 @@
+LIGHT 
+In this chapter you will learn: 
+• How light affects emotion. 
+• Different ways to control light. 
+• What the basics of a three-point lighting setup are. 
+How does light influence and impact us? 
+The sim ple answ er is tha t i t ena bles us to see . It en ters our e yes, w here i t is processed in to 
+information that is sen t to our brains. As a resul t, we have a uni que sense tha t enables us to in teract 
+with the world around us visually, to great advantage. 
+However, light also affects how we feel. 
+Think of a c loud-covered morning in a ci ty, candles at a roman tic dinner, or th e glare of sta dium 
+lighting in the middle of a sporting event. 
+NO- NONSENSE FILMMAKING
+31
+
+Every moment of our day is impacted by light in ways that are far more complex than simply enabling 
+us to see. 
+Consider the following images. How does what you feel change depending on how the light is used? 
+An interactive H5P element has been excluded from this version of the text. You can view it online here: 
+https://lmu.pressbooks.pub/filmmaking/?p=505#h5p-43 
+MISCHA LIVINGSTONE
+32
+
+Creati ve Control 
+Light is something to be sculpted and manipulated according to the emotional needs of your project. 
+Consider the following emotions: 
+• fear 
+• relief 
+• suspicion 
+• joy 
+How might you use light to convey them? 
+There is no right answer. 
+Let’s use th e emotion of f ear as an e xample. You might create abject terror by plunging your scene 
+into the darkest shadows and obscuring what the audience can see. However, depending on the type of 
+story you are telling, it is also conceivable that bright, piercing light might be more effective. 
+As with any aspect of filmmaking, if the results work, then that is all that matters. 
+There are four distinct ways in which you can control light. 
+ 
+Quality 
+The quality of light can vary. Think about the light on a sunny afternoon with no clouds in the 
+sky. Compare that to another day in which the clouds have rolled in and hidden the sun. In what 
+ways does the light coming from the same source change? 
+1. Direct light has a clear and uninterrupted path from its source. It is notable for casting 
+defined shadows. This sort of light also has a very concentrated spread. 
+2. Diffused light is scattered and soft, a result of something obscuring and diffusing the 
+source. It is notable for its lack of defined shadows and its even distribution across a 
+subject. It is sometimes referred to as “soft” light. 
+NO- NONSENSE FILMMAKING
+33
+
+If you think back to our sunny and cloudy days, what sort of light does each cast? 
+Direction 
+Have you ever held a flashlight under your chin to tell a scary story? Why did you do this? What 
+makes the direction of this light inherently creepy? 
+Changing the direction of a light changes the audience’s perception of the image. 
+How does your subject matter look if i t is li t from the front? How about from the side? From 
+the back? Below? Above? 
+Intensity 
+The intensity or amount of light changes depending on its source. 
+Consider the amount of light emitted by a stadium spotlight. Compare that to the nightlight 
+by your bed. Compare that to the sun. 
+Each light source generates a different intensity, which can be manipulated. 
+You can change the intensity of a light source in several ways. 
+◦ Decrease or increase the intensity. This might be done by using a dimmer or 
+switching out a bulb with a lower or higher wattage. This is not something you can do 
+with the sun, for obvious reasons. 
+◦ Place something in front of the light to cut the intensity. This may involve using 
+various grip equipment or a neutral density filter. Either way, you are placing a lightcutting element between the light source and the image processor. 
+◦ Move the light closer to or farther away from your subject. 
+◦ Move the subject closer to or farther away from your light source. 
+This is a good time to revisit the subject of f-stops. 
+As you may recall, th e f-stop on y our camera is an in dication of th e size of th e aperture. It 
+controls how much light is hitting the image processor. 
+Depending on the intensity of your light source, you will need to adjust your f-stop to obtain 
+the correct exposure. Furthermore, depending on th e depth of fi eld you are hoping to a chieve, 
+you may need to adjust the intensity of the light to achieve the required f-stop. 
+The f-stop you use is a creative decision. Manipulate the intensity of the light source to match 
+your f-stop goal. 
+Color 
+What color is light? It all depends on how you and the camera perceive it. Remember, it’s a matter 
+of color temperature. 
+The simplest way to control the color of a light is to put som ething in front of it. Use colored 
+gels to rapidly change the color temperature of your light source. 
+NOTE: Be very careful when you put anything in front of a light. If using gels, only use special film gels that are 
+designed to withstand the heat generated by the light source. Using something else can cause a fire! 
+Different colors can be used to grea t impact in the same frame. Color can be on e of the ways in 
+which you can create a unique style and look for your project. 
+There is n o n eed to be “realisti c” wi th y our use of co lor. F ind wa ys to mak e y our co lor 
+MISCHA LIVINGSTONE
+34
+
+represent diff erent em otional sta tes. This can be an e xcellent wa y to te legraph i deas to an 
+audience. 
+You don’t need fancy equipment to manipulate light. Sometimes it’s as simple as deciding if the sun is 
+in front of the subject or behind it. 
+Film sets have a whole department dedicated to rigging and manipulating light—the grip and electric 
+department—and th ey use a la rge ran ge of eq uipment to d o so. This eq uipment in cludes C-stands, 
+flags, silks, nets, clamps, and apple boxes. The list of clever ways to manipulate light is endless, and the 
+best way to learn is to work on a set and see the gear in action. 
+Use whatever you have at your disposal, but do so with intent. 
+NO- NONSENSE FILMMAKING
+35
+
+Three- Point Lighting 
+Three-point li ghting is th e m ost tra ditional a pproach to li ghting an d is a so lid sta rting poin t. This 
+system will ensure balanced illumination and enhanced visual detail. 
+ 
+Key 
+This is the light by which we set our exposure. Its placement is usually motivated by an on-screen 
+source of lighting (a window, desk lamp, candle, etc.). 
+Fill 
+This is a softer , more diffused source tha t fills in th e shadows. This light is used to com pensate 
+for the limited exposure range of the camera. 
+MISCHA LIVINGSTONE
+36
+
+Back 
+This light is used to create separation between our subject and the background. 
+NO- NONSENSE FILMMAKING
+37
+
+Now look at how they all work together. Move the slider to see the full effect. 
+An interactive H5P element has been excluded from this version of the text. You can view it online here: 
+https://lmu.pressbooks.pub/filmmaking/?p=597#h5p-58 
+MISCHA LIVINGSTONE
+38
+
+There are a couple of other lights to consider: 
+• Eye lightEye light is the glint of light that shows up in a person’s eyeball and brings that person’s eyes 
+to life. Without this, characters may appear lifeless. 
+• BackgroundBackground lighting will add texture to our shot and enhance separation. 
+How does using a different colored background enhance your shot? 
+You can use this basi c approach when considering all types of li ghting situations, even when working 
+outdoors in the sun. In that situation, you might ask yourself whether you want to use the sun as a key 
+light, fill, or back light. 
+The sun could be any of these, depending on whether it is striking the subject matter directly, from 
+behind, or being bounced in with a bounce board or reflector. 
+Who says you can’t control the sun? 
+NO- NONSENSE FILMMAKING
+39
+
+Student Perspecti ves - Light 
+Matthew CheungMatthew Cheung on lighting for the outdoors: 
+“Regardless of w hether y ou’re filmin g e xterior or in terior 
+scenes, I believe it’s essential to keep lighting motivated by the 
+story and setting. Lighting in outdoor environments requires 
+careful p lanning to f eel bo th na tural an d in tentional. Li ght 
+should com e from th e di rection of th e sun. Durin g 
+preproduction on on e of m y pro jects, I tra cked th e sun ’s 
+position throughout the day so we could schedule shots with 
+the sun consisten tly be hind our su bjects. This n ot onl y 
+separated them from th e background and avoided unwanted 
+crew sha dows, but also red uced our re liance on diffusi on, 
+which can som etimes mak e sunli ght l ook a rtificial w hen 
+overused. 
+When planning for my music video Butterflies x Who Am I?, 
+I used an a pp called Sun Tracker to kn ow exactly where the 
+sun w ould be a t e very h our of th e da y. This all owed m e to 
+maintain a consisten t ba cklit l ook th roughout th e sh oot, 
+avoiding ha rsh fron t li ghting, w hich can be unfla ttering on 
+people’s fa ces. Durin g prod uction, i t’s also im portant to 
+choose boun ces an d li ghts tha t f eel na tural wi thin th e 
+environment. While filming To Sea, I opted for unbleached muslin bounces to better match the sandy 
+beach l ocation. Unlike ul trabounces, w hich reflec t a ha rsher, co lder w hite li ght, un bleached m uslin 
+creates a softer , warmer glow that feels more organic and location appropriate. (It’s essentially a soft, 
+off-white fabric that acts like a natural reflector.)“ 
+• Website:Website: https://www.matthewtcheung.com/ 
+One or more interactive elements has been excluded from this version of the text. You can view them online 
+here: https://lmu.pressbooks.pub/filmmaking/?p=1124#oembed-1 
+https://vimeo.com/1095750479/d99b47ff77 
+MISCHA LIVINGSTONE
+40

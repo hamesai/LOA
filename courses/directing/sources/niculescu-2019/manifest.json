@@ -1,0 +1,33 @@
+{
+ "key": "niculescu-2019",
+ "title": "Defining the stage director and teaching theater directing",
+ "author": "",
+ "file": "balardim,+Irina+Niculescu+-+EN.pdf",
+ "format": "pdf",
+ "sha256": "d7e53d5db26d6d08b4860859fa75162e0ccddd984a0e7687148b84dd7a602b78",
+ "words": 2894,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 13",
+   "words": 2894,
+   "pages": [
+    1,
+    13
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks"
+ ],
+ "text_quality": {
+  "common_word_share": 0.326,
+  "odd_character_share": 0.009
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-25",
+  "source_file": "balardim,+Irina+Niculescu+-+EN.pdf",
+  "note": "Date is when the file arrived in the source ingest folder."
+ }
+}

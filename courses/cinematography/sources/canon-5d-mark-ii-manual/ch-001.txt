@@ -1,0 +1,800 @@
+E INSTRUCTION MANUAL
+E
+INSTRUCTION
+MANUAL
+COPY
+
+2
+Thank you for purchasing a Canon product.
+The EOS 5D Mark II is a high-performance, digital SLR camera with a 
+full-frame (approx. 36mm x 24mm) CMOS sensor with 21.10 effective 
+megapixels. Other features include DIGIC 4, high-precision and highspeed, 9-point AF (plus six Assist AF points); approx. 3.9 fps 
+continuous shooting; Live View shooting; and Full HD (Full HighDefinition) movie shooting.
+The camera is highly responsive to any shooting situation at anytime, 
+provides many features for demanding shoots, and expands shooting 
+possibilities with system accessories.
+Take a Few Test Shots to Familiarize Yourself with the 
+Camera
+With a digital camera, you can immediately view the image you have 
+captured. While reading this manual, take a few test shots and see how 
+they come out. You can then better understand the camera.
+To avoid botched pictures and accidents, read the Safety Warnings 
+(p.219,220) and Handling Precautions (p.12,13).
+Testing the Camera Before Using and Liability
+After shooting, playback and check whether the image has been 
+properly recorded. If the camera or memory card is faulty and the 
+images cannot be recorded or downloaded to a personal computer, 
+Canon cannot be held liable for any loss or inconvenience caused.
+Copyrights
+Copyright laws in your country may prohibit the use of your recorded 
+images of people and certain subjects for anything but private 
+enjoyment. Also be aware that certain public performances, exhibitions, 
+etc., may prohibit photography even for private enjoyment.
+CF Card
+In this manual, “card” refers to the CF card. The CF card (for 
+recording images) is not included. Please purchase it separately.
+COPY
+
+3
+Before starting, check that all the following items have been included 
+with your camera. If anything is missing, contact your dealer.
+* Battery Charger LC-E6 or LC-E6E is provided. (The LC-E6E comes with a 
+power cord.)
+ If you purchased a Lens Kit, check that the lens is included.
+ Depending on the Lens Kit type, the lens instruction manual might also be 
+included.
+ Be careful not to lose any of the above items.
+Item Check List
+Battery Pack LP-E6
+(with protective cover)
+Battery Charger 
+LC-E6/LC-E6E*
+Interface Cable
+IFC-200U
+Stereo Video Cable
+STV-250N
+EOS DIGITAL 
+Solution Disk
+(Software)
+Software Instruction 
+Manual
+(1) Instruction Manual (this booklet)
+(2) Pocket Guide
+Quick start guide to shooting. 
+(3) CD-ROM Guide
+Guide to the bundled software (EOS DIGITAL 
+Solution Disk) and Software Instruction Manuals.
+Camera
+(with eyecup and 
+body cap)
+Wide Strap
+EW-EOS5DMKII
+COPY
+
+4
+Icons in this Manual
+<6> : Indicates the Main Dial.
+<5> : Indicates the Quick Control Dial.
+<9> : Indicates the Multi-controller.
+<0> : Indicates the setting button.
+0, 9, , 8: Indicates that the respective function remains 
+active for 4 sec., 6 sec., 10 sec., or 16 sec. 
+respectively after you let go of the button.
+* In this manual, the icons and markings indicating the camera’s buttons, dials, 
+and settings correspond to the icons and markings on the camera and on the 
+LCD monitor.
+3 : Indicates a function which can be changed by pressing the 
+<M> button and changing the setting.
+M : When shown on the right of the page, it indicates that the 
+function is available only when the Mode Dial is set to d, s, 
+f, a, or F.
+* Function which cannot be used in the fully-automatic modes ( 1/C).
+(p.**) : Reference page numbers for more information.
+: Tip or advice for better shooting.
+: Problem-solving advice.
+: Warning to prevent shooting problems.
+: Supplemental information.
+Basic Assumptions
+ All operations explained in this manual assume that the power switch 
+is already set to <1> or <J> (p.27).
+ <5> operations explained in this manual assume that the power 
+switch is already set to <J>.
+ It is assumed that all the menu settings and Custom Functions are 
+set to the default.
+ For explanatory purposes, the instructions show the camera attached 
+with an EF50mm f/1.4 USM lens (or EF24-105mm f/4L IS USM).
+Conventions Used in this Manual
+COPY
+
+5
+For first-time DSLR users, chapters 1 and 2 explain the camera’s 
+basic operations and shooting procedures.
+Chapters
+Introduction
+Camera basics.
+2
+Getting Started 23
+Basic Shooting
+Fully automatic shooting.
+47
+Image Settings 53
+Setting the AF and Drive Modes 77
+Advanced Operations
+Shooting features for specific types of subjects.
+87
+Live View Shooting and Movies
+Shoot while viewing the LCD monitor.
+107
+Image Playback 127
+Sensor Cleaning 147
+Printing Images and Transferring Images to a Computer 153
+Customizing the Camera 171
+Reference 189
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+COPY
+
+6
+1
+2
+Introduction
+Item Check List.................................................................................................. 3
+Conventions Used in this Manual...................................................................... 4
+Chapters............................................................................................................ 5
+Index to Features ............................................................................................ 10
+Handling Precautions ...................................................................................... 12
+Quick Start Guide ............................................................................................ 14
+Nomenclature .................................................................................................. 16
+Getting Started 23
+Charging the Battery ....................................................................................... 24
+Installing and Removing the Battery................................................................ 26
+Turning on the Power ...................................................................................... 27
+Installing and Removing the CF Card.............................................................. 29
+Attaching and Detaching a Lens ..................................................................... 31
+About the Lens Image Stabilizer...................................................................... 33
+Basic Operation............................................................................................... 34
+9 Using the Quick Control Screen ................................................................ 38
+3 Menu Operations................................................................................... 40
+Before You Start.............................................................................................. 42
+Setting the Interface Language .................................................................... 42
+Setting the Date and Time............................................................................ 42
+Formatting the Card ..................................................................................... 43
+Set the Power-off Time/Auto Power Off ....................................................... 44
+Reverting the Camera to the Default Settings.............................................. 45
+About Copyright Information......................................................................... 46
+Basic Shooting 47
+1 Fully Automatic Shooting .......................................................................... 48
+1 Full Auto Techniques ................................................................................ 50
+C Creative Auto Shooting ............................................................................. 51
+Contents
+COPY
+
+7
+Contents
+5
+3
+4
+Image Settings 53
+Setting the Image-recording Quality.................................................................54
+i: Setting the ISO Speed..............................................................................57
+A Selecting a Picture Style ..........................................................................59
+A Customizing a Picture Style .....................................................................61
+A Registering a Picture Style.......................................................................63
+B: Setting the White Balance .......................................................................65
+O Custom White Balance .........................................................................66
+P Setting the Color Temperature ...............................................................67
+u White Balance Correction ...........................................................................68
+Lens Peripheral Illumination Correction ...........................................................70
+Creating and Selecting a Folder.......................................................................72
+File Numbering Methods ..................................................................................74
+Setting the Color Space ...................................................................................76
+Setting the AF and Drive Modes 77
+f: Selecting the AF Mode..............................................................................78
+S Selecting the AF Point ...............................................................................81
+When Autofocus Fails ......................................................................................84
+MF: Manual Focusing ...................................................................................84
+i Selecting the Drive Mode...........................................................................85
+j Self-timer Operation....................................................................................86
+Advanced Operations 87
+d: Program AE................................................................................................88
+s: Shutter-Priority AE ...................................................................................90
+f: Aperture-Priority AE.................................................................................92
+Depth of Field Preview..................................................................................93
+a: Manual Exposure.......................................................................................94
+q Selecting the Metering Mode .....................................................................95
+Setting Exposure Compensation......................................................................96
+h Auto Exposure Bracketing (AEB) ..............................................................97
+A AE Lock ......................................................................................................98
+F: Bulb Exposures ..........................................................................................99
+Mirror Lockup .................................................................................................101
+COPY
+
+8
+Contents
+6
+7
+8
+R Remote Control Shooting ........................................................................... 102
+D Flash Photography .................................................................................... 103
+Setting the Flash ........................................................................................... 105
+Live View Shooting and Movies 107
+A Preparing for Live View Shooting............................................................ 108
+Shooting ........................................................................................................ 110
+Using AF to Focus......................................................................................... 113
+Focusing Manually......................................................................................... 119
+Silent Shooting .............................................................................................. 120
+k Shooting Movies...................................................................................... 121
+Image Playback 127
+x Image Playback....................................................................................... 128
+B Shooting Information Display ............................................................. 129
+H I Searching for Images Quickly ........................................................... 131
+u/y Magnified View................................................................................... 133
+b Rotating the Image................................................................................... 134
+Auto Playback (Slide Show) .......................................................................... 135
+k Playing Movies ........................................................................................ 137
+Viewing the Images on TV............................................................................. 139
+K Protecting Images.................................................................................... 141
+L Erasing Images......................................................................................... 142
+Changing Image Playback Settings............................................................... 144
+Adjusting the LCD Monitor Brightness ....................................................... 144
+Setting the Image Review Time ................................................................. 145
+Auto Rotate of Vertical Images................................................................... 146
+Sensor Cleaning 147
+f Automatic Sensor Cleaning ................................................................... 148
+Appending Dust Delete Data......................................................................... 149
+Manual Sensor Cleaning ............................................................................... 151
+COPY
+
+9
+Contents
+9
+10
+11
+Printing Images and Transferring Images to a Computer 153
+Preparing to Print ...........................................................................................154
+wPrinting......................................................................................................156
+Trimming the Image ....................................................................................161
+W Digital Print Order Format (DPOF) ...........................................................163
+Direct Printing with DPOF ..............................................................................166
+d Transferring Images to a Personal Computer..........................................167
+Customizing the Camera 171
+Setting Custom Functions..............................................................................172
+Custom Functions ..........................................................................................173
+Custom Function Settings..............................................................................174
+C.Fn I : Exposure ......................................................................................174
+C.Fn II : Image............................................................................................176
+C.Fn III : Autofocus/Drive ............................................................................178
+C.Fn IV: Operation/Others ..........................................................................182
+Registering My Menu .....................................................................................186
+w Register Camera User Settings................................................................187
+Reference 189
+B Checking Camera Settings ....................................................................190
+Checking the Battery Information...................................................................192
+Using a Household Power Outlet ...................................................................196
+Replacing the Date/Time Battery ...................................................................197
+Function Availability Table .............................................................................198
+Menu Settings ................................................................................................200
+Troubleshooting Guide...................................................................................203
+Error Codes....................................................................................................209
+System Map ...................................................................................................210
+Specifications .................................................................................................212
+Index ..............................................................................................................223
+COPY
+
+10
+Power
+ Battery
+• Charging Î p.24
+• Battery check Î p.28
+• Battery information check Î p.192
+ Power outlet Î p.196
+ Auto power off Î p.44
+Lens
+ Attaching/Detaching Î p.31
+ Zoom Î p.32
+ Image Stabilizer Î p.33
+Basic Settings 
+(Menu Functions)
+ Language Î p.42
+ Date/Time Î p.42
+ LCD brightness 
+adjustment Î p.144
+ Beeper Î p.200
+ Shoot w/o card Î p.29
+Recording Images
+ Format Î p.43
+ Create/select a folder Î p.72
+ File No. Î p.74
+Image Quality
+ Image-recording quality Î p.54
+ ISO speed Î p.57
+ Picture Style Î p.59
+ Color space Î p.76
+ Image improvement features
+• Auto Lighting Optimizer Î p.177
+• Lens peripheral illumination 
+correction Î p.70
+• Noise reduction 
+for long exposures Î p.176
+• Noise reduction 
+for high ISO speeds Î p.176
+• Highlight tone priority Î p.177
+White balance
+ White balance setting Î p.65
+ Custom WB Î p.66
+ Color temperature setting Î p.67
+ White balance correction Î p.68
+ WB bracketing Î p.69
+AF
+ AF mode Î p.78
+ AF point selection Î p.81
+• Assist AF points Î p.80
+• AF point expansion Î p.180
+ Manual focusing Î p.84
+Metering
+ Metering mode Î p.95
+Drive
+ Drive modes Î p.85
+ Maximum burst Î p.56
+Index to Features
+COPY
+
+11
+Index to Features
+Shooting
+ Creative Auto Î p.51
+ Program AE Î p.88
+ Shutter-priority AE Î p.90
+ Aperture-priority AE Î p.92
+ Manual exposure Î p.94
+ Bulb Î p.99
+ Mirror lockup Î p.101
+ Quick Control screen Î p.38
+ Self-timer Î p.86
+ Remote control Î p.102
+Exposure adjustment
+ Exposure compensation Î p.96
+ AEB Î p.97
+ AE lock Î p.98
+ Exposure level 
+increments Î p.174
+Flash
+ External flash Î p.103
+ Flash control Î p.105
+ Flash Custom Functions Î p.106
+Live View shooting
+ Stills Î p.108
+• AF
+- Quick mode Î p.113
+- Live mode Î p.115
+- Live face 
+detection mode Î p.116
+• Manual focusing Î p.119
+• Exposure simulation Î p.109
+• Grid Î p.111
+• Silent shooting Î p.120
+ Movies Î p.121
+Image playback
+ Image review time Î p.145
+ Single image display Î p.128
+• Shooting information 
+display Î p.129
+ Movie playback Î p.137
+ Index display Î p.131
+ Image browsing 
+(Jump display) Î p.132
+ Magnified view Î p.133
+ Manual image rotate Î p.134
+ Auto image rotate Î p.146
+ Auto playback Î p.135
+ Viewing the images 
+on TV Î p.139
+ Protect Î p.141
+ Erase Î p.142
+Customization
+ Custom Function (C.Fn) Î p.171
+ My Menu Î p.186
+ Camera user setting 
+registration Î p.187
+Sensor cleaning/
+Dust reduction
+ Sensor cleaning Î p.147
+ Add Dust Delete Data Î p.149
+Viewfinder
+ Dioptric adjustment Î p.34
+ Changing the focusing 
+screen Î p.184
+COPY
+
+12
+Camera Care
+ This camera is a precision instrument. Do not drop it or subject it to physical 
+shock.
+ The camera is not waterproof and cannot be used underwater. If you 
+accidentally drop the camera into water, promptly consult your nearest 
+Canon Service Center. Wipe off any water droplets with a dry cloth. If the 
+camera has been exposed to salty air, wipe it with a well-wrung wet cloth.
+ Never leave the camera near anything having a strong magnetic field such 
+as a magnet or electric motor. Also avoid using or leaving the camera near 
+anything emitting strong radio waves such as a large antenna. Strong 
+magnetic fields can cause camera misoperation or destroy image data.
+ Do not leave the camera in excessive heat such as in a car in direct sunlight. 
+High temperatures can cause the camera to malfunction.
+ The camera contains precision electronic circuitry. Never attempt to 
+disassemble the camera yourself.
+ Use a blower to blow away dust on the lens, viewfinder, reflex mirror, and 
+focusing screen. Do not use cleaners that contain organic solvents to clean 
+the camera body or lens. For stubborn dirt, take the camera to the nearest 
+Canon Service Center.
+ Do not touch the camera’s electrical contacts with your fingers. This is to 
+prevent the contacts from corroding. Corroded contacts can cause camera 
+misoperation.
+ If the camera is suddenly brought in from the cold into a warm room, 
+condensation may form on the camera and internal parts. To prevent 
+condensation, first put the camera in a sealed plastic bag and let it adjust to 
+the warmer temperature before taking it out of the bag.
+ If condensation forms on the camera, do not use the camera. This is to avoid 
+damaging the camera. If there is condensation, remove the lens, card and 
+battery from the camera, and wait until the condensation has evaporated 
+before using the camera.
+ If the camera will not be used for an extended period, remove the battery 
+and store the camera in a cool, dry, well-ventilated location. Even while the 
+camera is in storage, press the shutter button a few times once in a while to 
+check that the camera is still working.
+ Avoid storing the camera where there are corrosive chemicals such as a 
+darkroom or chemical lab.
+ If the camera has not been used for an extended period, test all its functions 
+before using it. If you have not used the camera for some time or if there is 
+an important shoot coming up, have the camera checked by your Canon 
+dealer or check the camera yourself and make sure it is working properly.
+Handling Precautions
+COPY
+
+13
+Handling Precautions
+LCD Panel and LCD Monitor
+ Although the LCD monitor is manufactured with very high precision 
+technology with over 99.99% effective pixels, there might be a few dead 
+pixels among the remaining 0.01% or less pixels. Dead pixels displaying 
+only black or red, etc., are not a malfunction. They do not affect the images 
+recorded.
+ If the LCD monitor is left on for a prolonged period, screen burn-in may occur 
+where you see remnants of what was displayed. However, this is only 
+temporary and will disappear when the camera is left unused for a few days.
+ In low or high temperatures, the LCD monitor display may seem slow or it 
+might look black. It will return to normal at room temperature.
+Cards
+To protect the card and its recorded data, note the following:
+ Do not drop, bend, or wet the card. Do not subject it to excessive force, 
+physical shock, and vibration.
+ Do not store or use the card near anything having a strong magnetic field 
+such as a TV set, speakers, or magnet. Also avoid places prone to having 
+static electricity.
+ Do not leave the card in direct sunlight or near a heat source.
+ Store the card in a case.
+ Do not store the card in hot, dusty, or humid locations.
+Lens
+After detaching the lens from the camera, attach the lens 
+caps or put down the lens with the rear end up to avoid 
+scratching the lens surface and electrical contacts.
+Cautions During Prolonged Use
+When you shoot continuously for a prolonged period or use Live View shooting 
+for a long period, the camera may become hot. Although this is not a 
+malfunction, holding the hot camera for a long period can cause slight skin 
+burns.
+Contacts
+COPY
+
+14
+Quick Start Guide
+1
+Insert the battery. (p.26)
+To charge the battery, see page 24.
+2
+Attach the lens. (p.31)
+Align the red dot.
+3
+Set the lens focus mode switch 
+to <AF>. (p.31)
+4
+Open the slot cover and 
+insert a card. (p.29)
+Face the label side toward you 
+and insert the end with the 
+small holes into the camera.
+5
+Set the power switch to <1>. 
+(p.27)
+COPY
+
+15
+Quick Start Guide
+6
+Set the Mode Dial to <1> (Full 
+Auto). (p.48)
+All the necessary camera settings will 
+be set automatically.
+7
+Focus the subject. (p.35)
+Look through the viewfinder and aim 
+the viewfinder center over the subject. 
+Press the shutter button halfway, and 
+the camera will focus the subject.
+8
+Take the picture. (p.35)
+Press the shutter button completely to 
+take the picture.
+9
+Review the picture. (p.145)
+The captured image will be displayed 
+for about 2 sec. on the LCD monitor.
+To display the image again, press the 
+<x> button (p.128).
+ To view the images captured so far, see “Image Playback” (p.128).
+ To delete an image, see “Erasing Images” (p.142).
+COPY
+
+16
+For detailed information, reference page numbers are provided in 
+parentheses (p.**).
+Nomenclature
+<o> AF mode 
+selection/Drive mode 
+selection button (p.78/85) 
+<m> ISO speed 
+setting/Flash exposure 
+compensation button 
+(p.57/103)
+<U> LCD panel 
+illumination button 
+(p.99)
+<6> Main Dial 
+(p.36)
+Shutter button
+(p.35)
+Self-timer lamp 
+(p.86)
+Remote control
+sensor (p.102)
+Grip (Battery 
+compartment)
+DC coupler cord 
+hole (p.196)
+Mirror (p.101,151)
+Contacts (p.13)
+Lens mount Lens lock pin
+Depth-of-field preview 
+button (p.93)
+Lens release button (p.32)
+Date/time battery
+(p.197)
+Microphone 
+(p.124)
+Terminal cover
+Strap mount 
+(p.23)
+Mode Dial (p.20)
+<V> Focal plane mark
+Hot shoe (p.103)
+Flash-sync contacts (p.103) 
+EF lens mount index (p.31)
+LCD panel (p.18)
+<n> Metering mode selection/
+White balance selection button (p.95/65)
+PC terminal (p.104)
+Digital terminal (p.154,167)
+Remote control terminal (N3 type) (p.100)
+HDMI mini OUT terminal (p.140)
+Audio/video OUT terminal (p.139)
+External microphone IN terminal (p.125)Body cap (p.31)
+COPY
+
+17
+Nomenclature
+<9> Multi-controller (p.36)
+Dioptric adjustment knob (p.34)
+Eyecup (p.100)
+Speaker (p.138)
+Viewfinder eyepiece
+<A/l> Live View 
+shooting/Print/Share button 
+(p.109/159,168)
+<M> Menu button 
+(p.40)
+LCD monitor (p.40, 144)
+<B> Info/
+Trimming orientation 
+button 
+(p.112,128,190/161)
+<x> Playback 
+button (p.128)
+<L> Erase button 
+(p.142)
+Extension system terminal
+<A> Picture Style 
+selection button (p.59)
+Light sensor (p.144)
+Tripod socket
+Power/Quick Control Dial 
+switch (p.27)
+<0> Setting/Movie shooting button (p.40/122)
+Card slot (p.29)
+Card ejection button (p.30)
+<5> Quick Control Dial (p.37)
+Access lamp (p.30)
+Battery compartment 
+cover (p.26)
+Battery 
+compartment 
+cover release 
+lever (p.26)
+Card slot 
+cover (p.29)
+Strap mount
+(p.23)
+<S/u>
+AF point selection/
+Magnify button 
+(p.81/133,161)
+<A/I> AE lock/
+FE lock button/Index/
+Reduce button
+(p.98/103/131/133,161)
+<p> AF start button 
+(p.35,79,110)
+COPY
+
+18
+Nomenclature
+LCD Panel
+The display will show only the settings currently applied.
+Drive mode (p.85)
+u Single shooting
+i Continuous shooting
+ 10-sec. self-timer/
+ Remote control
+ 2-sec. self-timer/
+ Remote control 
+White balance 
+correction (p.68)
+Shots remaining
+Shots remaining 
+during WB bracketing
+Self-timer countdown
+Bulb exposure time
+Aperture
+AF point selection ([ - - - ])
+Card full warning (FuLL CF)
+Card error warning (Err CF)
+No card warning (no CF) 
+Error code (Err)
+Cleaning image sensor (CLn)
+k
+AF mode (p.78)
+X 
+One-Shot AF
+9 
+AI Focus AF
+Z 
+AI Servo AF
+-
+- -
+-
+-
+-Shutter speed
+Busy (buSY)
+Image-recording quality (p.54)
+37 Large/Fine
+38 Large/Normal
+47 Medium/Fine
+48 Medium/Normal
+67 Small/Fine
+68 Small/Normal
+1 RAW
+D Small RAW
+White balance (p.65)
+ Q Auto
+ W Daylight
+ E Shade
+ R Cloudy
+ Y Tungsten light
+ U White 
+ fluorescent light
+ I Flash
+ O Custom
+ P Color 
+ temperature
+Flash exposure 
+compensation (p.103)
+Battery check (p.28)
+Exposure level indicator
+ Exposure compensation 
+ amount (p.96)
+ AEB range (p.97)
+ Flash exposure compensation 
+ amount (p.103)
+Metering mode (p.95)
+q Evaluative metering
+w Partial metering 
+r Spot metering
+e Center-weighted average metering
+<h> AEB (p.97)
+ISO speed (p.57)
+<0> Monochrome shooting (p.60)
+<g> ISO speed (p.57)
+<A> Highlight tone priority (p.177)
+Card writing status
+COPY
+
+19
+Nomenclature
+Viewfinder Information
+The display will show only the settings currently applied.
+< > Battery check
+Focusing screen AF points 
+(Superimposed display)
+Spot metering circle
+<A> AE lock/
+ AEB in-progress
+<D> Flash-ready 
+ Improper FE lock 
+ warning
+ <e> High-speed sync 
+ (FP flash) 
+ <d> FE lock/
+ FEB in-progress
+<y> Flash exposure 
+ compensation
+Shutter speed
+FE lock (FEL)
+Busy (buSY)
+Aperture
+Card full warning (FuLL CF)
+Card error warning (Err CF)
+No card warning (no CF)
+Exposure level indicator
+ Exposure compensation amount
+ Flash exposure compensation 
+ amount
+ AEB range
+<A> Highlight tone priority
+ISO speed
+<0> Monochrome 
+ shooting
+Max. burst
+<o> Focus 
+ confirmation 
+ light
+White balance 
+correction
+<g> 
+ISO speed
+COPY
+
+20
+Nomenclature
+Mode Dial
+Fully-Automatic Modes
+All you do is press the shutter button.
+Fully-automatic shooting suitable for the 
+subject.
+1: Full Auto (p.48)
+C: Creative Auto (p.51)
+F : Bulb (p.99)
+a : Manual exposure (p.94)
+f: Aperture-priority AE (p.92)
+s : Shutter-priority AE (p.90)
+d : Program AE (p.88)
+Camera User Settings
+Most camera settings can be registered under w, 
+x, or y (p.187).
+COPY

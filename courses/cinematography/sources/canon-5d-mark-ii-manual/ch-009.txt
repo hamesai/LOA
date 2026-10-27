@@ -1,0 +1,585 @@
+161
+wPrinting
+You can crop the image and print only 
+the trimmed portion as if the image was 
+recomposed. Do the trimming right 
+before printing. If you set the trimming 
+and then set the print settings, you may 
+have to set the trimming again.
+1 On the print setting screen, select [Trimming].
+2 Set the trimming frame size, position, and proportion.
+ The image area within the trimming frame will be printed. The trimming frame’s 
+vertical-to-horizontal proportion can be changed with [Paper settings].
+Changing the trimming frame size
+When you press the <u> or <I> button, the size of the 
+trimming frame will change. The smaller the trimming frame, the 
+larger the image magnification will be for the printing.
+Moving the trimming frame
+Use <9> to move the frame over the image vertically or horizontally. Move 
+the trimming frame until it covers the desired image area or composition.
+Rotating the frame
+Each time you press the <B> button, the trimming frame will toggle 
+between the vertical and horizontal orientations. This enables you to 
+create a vertical-oriented print from a horizontal image.
+Image tilt correction
+By turning the <5> dial, you can adjust the image tilt angle by 
+±10 degrees in 0.5-degree increments. When you adjust the 
+image tilt, the <O> icon on the screen will turn blue.
+3 Press <0> to exit the trimming.
+X The print setting screen will reappear.
+ You can check the trimmed image area on the upper left of the 
+print setting screen.
+Trimming the Image
+Tilt correction
+COPY
+
+162
+wPrinting
+ Depending on the printer, the trimmed image area might not be printed 
+as you specified.
+ The smaller you make the trimming frame, the grainier the picture will 
+look on the print.
+ While trimming the image, look at the camera’s LCD monitor. If you look 
+at the image on a TV screen, the trimming frame might not be displayed 
+accurately.
+Handling Printer Errors
+If you resolve a printer error (no ink, no paper, etc.) and select [Continue] to 
+resume printing but it does not resume, operate the buttons on the printer to 
+resume printing. For details, see the printer’s instruction manual.
+Error Messages
+If a problem occurs during printing, an error message will appear on the 
+camera’s LCD monitor. Press <0> to stop printing. After fixing the 
+problem, resume printing. For details on how to fix a printing problem, refer 
+to the printer’s instruction manual.
+Paper Error
+Check whether the paper is properly loaded in the printer.
+Ink Error
+Check the printer’s ink level, and check the waste ink tank.
+Hardware Error
+Check for any printer problems other than paper and ink problems.
+File Error
+The selected image cannot be printed via PictBridge. Images taken with a 
+different camera or images edited with a computer might not be printable.
+COPY
+
+163
+You can set the print type, date imprinting, and file No. imprinting. The 
+print settings will be applied to all print-ordered images. (They cannot 
+be set individually for each image.)
+1 Select [Print order].X Under the [3] tab, select [Print 
+order], then press <0>.
+2 Select [Set up]. Select [Set up], then press <0>.
+3 Set the option as desired. Set the [Print type], [Date], and [File 
+No.].
+ Select the option, then press <0>. 
+Select the desired setting, then press 
+<0>.
+W Digital Print Order Format (DPOF)
+Setting the Printing Options
+[Print type][ Date][ File No.]
+COPY
+
+164
+W Digital Print Order Format (DPOF)
+4 Exit the setting. Press the <7> button.
+X The print order screen will reappear.
+ Next, select [Sel.Image], [Byn], or 
+[All image] to order the images to be 
+printed.
+Print type
+K Standard Prints one image on one sheet.
+L Index Multiple, thumbnail images are printed on one sheet.
+K
+L
+Both Prints both the standard and index prints.
+Date On [On] imprints the recorded date on the print.Off
+File number On [On] imprints the file No. on the print.Off
+ Even if [Date] and [File No.] are set to [On], the date or file No. might not 
+be imprinted depending on the print type setting and printer model.
+ When printing with DPOF, you must use the card whose print order 
+specifications have been set. It will not work if you just extract images 
+from the card and try to print them.
+ Certain DPOF-compatible printers and photofinishers might not be able 
+to print the images as you specified. If this happens with your printer, 
+refer to the printer’s instruction manual. Or check with your photofinisher 
+about compatibility when ordering prints.
+ Do not insert into the camera a card whose print order was set by a 
+different camera and then try to specify a print order. The print order may 
+not work or may be overwritten. Also, depending on the image type, the 
+print order may not be possible.
+ Print ordering does not work with RAW images and movies.
+ With [Index] prints, both the [Date] and [File No.] cannot be set to [On] 
+at the same time.
+COPY
+
+165
+W Digital Print Order Format (DPOF)
+ Sel.Image
+Select and order images one by one.
+Press the <I> button to display the 
+three-image view. To return to the singleimage display, press the <u> button.
+After completing the print order, press 
+the <M> button to save the print 
+order to the card.
+[Standard] [Both]
+Press <0> and a print order for 1 copy 
+of the displayed image will be placed. 
+Then turn the <5> dial to set the 
+number of copies (up to 99) to be printed 
+for that image.
+[Index]
+Press <0>, and the displayed image will 
+be included in the index print. The <X> 
+icon will also appear on the upper left.
+ Byn
+Select [Byn] and select the folder. A print order for 1 copy of all the 
+images in the folder will be placed. If you select Clear all and a 
+folder, the print order for all the images in the folder will be canceled.
+ All image
+A print order for 1 copy of all the images in the card will be placed. If 
+you select Clear all, the print order for all the images in the card will 
+be canceled.
+Print Ordering
+Quantity Total images
+selected
+Index icon
+Check mark
+ Note that RAW images and movies will not be included in the print order 
+even if you set “Byn” or “All image.”
+ When using a PictBridge printer, print no more than 400 images for one 
+print order. If you specify more than this, all the images might not be 
+printed.
+COPY
+
+166
+With a PictBridge printer, you can easily 
+print images with DPOF.
+1 Preparing to print.
+ See page 154. Follow the “Connecting the Camera to a Printer” 
+procedure up to step 5.
+2 Under the [3] tab, select [Print order].
+3 Select [Print].
+ [Print] will be displayed only if the camera is connected to the 
+printer and printing is possible.
+4 Set the [Paper settings]. (p.156)
+ Set the printing effects (p.158) if necessary.
+5 Select [OK].
+WDirect Printing with DPOF
+ Before printing, be sure to set the paper size.
+ Certain printers cannot imprint the file No.
+ If [Bordered] is set, the date might be imprinted on the border, depending on the printer.
+ Depending on the printer, the date might look light if it is imprinted on a 
+bright background or on the border.
+ Under [Adjust levels], [Manual] cannot be selected.
+ If you stopped the printing and want to resume printing the remaining 
+images, select [Resume]. Note that printing will not resume if you stop 
+the printing and any of the following occurs:
+• Before resuming the printing, you changed the print order or deleted 
+print-ordered images.
+• When you set the index, you changed the paper setting before resuming the printing.
+• When you paused the printing, the card’s remaining capacity was low.
+ If a problem occurs during printing, see page 162.
+COPY
+
+167
+By connecting the camera to a personal computer, you can transfer 
+images from the camera’s card by operating the camera. This feature is 
+called direct image transfer.
+Before connecting the camera to a personal computer, be sure 
+to install the provided software (EOS DIGITAL Solution Disk 
+on CD-ROM) in the personal computer.
+For instructions to install the provided software, see the separate 
+sheet, CD-ROM Guide.
+1 Set the camera’s power switch to <2>.
+2 Connect the camera to the personal computer.
+ Use the interface cable provided with 
+the camera.
+ When connecting the cable plug to 
+the camera’s <D> terminal, the 
+cable plug’s <D> icon must face the 
+front side of the camera.
+ Connect the plug on other end of the 
+cable to the personal computer’s 
+USB port.
+3 Set the camera’s power switch to <1>.
+ When the program selection screen 
+appears on the personal computer, 
+select [EOS Utility].
+X The [EOS Utility] screen will appear 
+on the computer, and the direct image 
+transfer screen will appear on the 
+camera’s LCD monitor.
+d Transferring Images to a Personal Computer
+Preparation for Image Transfer
+COPY
+
+168
+d Transferring Images to a Personal Computer
+The images sent to the personal computer will be saved in the [My 
+Pictures] folder or [Pictures] folder in subfolders organized according 
+to the shooting date.
+ All images
+This is to transfer all the images in the 
+card to the personal computer.
+ Select [All images], then press the 
+<l> button.
+X The <l> button’s blue lamp will 
+blink and the image transfer will start.
+X When the image transfer is 
+completed, the lamp will stay on.
+Transferring Images to a Personal Computer
+ If the [EOS Utility] screen does not appear, see Software Instruction 
+Manual in the CD-ROM.
+ Before disconnecting the cable, turn off the camera. Pull out the cable by 
+grasping the plug (instead of the cord).
+ Since movie files are larger than still photo files, they will take longer to 
+transfer.
+ During the file transfer, do not disconnect the cable.
+ Shooting will be disabled while the direct transfer screen is displayed.
+COPY
+
+169
+d Transferring Images to a Personal Computer
+Options other than [All images] are explained below. To start the image 
+transfer, press the <l> button.
+ New images
+Images which have not yet been transferred to the personal 
+computer will be selected by the camera automatically and 
+transferred.
+ Transfer order images
+You select the images and they are transferred to the personal 
+computer in a batch. To select the images, see page 170.
+ Select & transfer
+You select the images individually to be 
+transferred. To exit, press the <M> 
+button.
+ Wallpaper
+The image you select and transfer will appear as the personal 
+computer’s wallpaper. To exit, press the <M> button.
+ If you press <0> instead of the <l> button, a confirmation dialog 
+will appear. Select [OK], then press <0> to start the transfer.
+ RAW images and movies cannot be transferred as wallpaper.
+COPY
+
+170
+d Transferring Images to a Personal Computer
+Under the [3] tab, you can use 
+[Transfer order] to select the images to 
+be transferred to a personal computer.
+When you select [Transfer order 
+images] on page 169, you can transfer 
+the images set by the transfer order.
+ Sel.Image
+Select and order images one by one. Press 
+<0> to include the displayed image in the 
+transfer order. The <X> icon will also appear 
+on the upper left. After completing the 
+transfer order, press the <M> button to 
+save the transfer order to the card.
+ Byn
+Select [Byn] and select the folder. All the images in the folder will then 
+be included in the transfer order. If you select Clear all and a folder, the 
+transfer order for all the images in the folder will be canceled.
+ All image
+When you select All image, all the images in the card will be 
+included in the transfer order. If you select Clear all, the transfer 
+order for all the images in the card will be canceled.
+3 Selecting the Images to be Transferred
+Do not put into the camera any images whose transfer order was set by a 
+different camera and then try to specify another transfer order. The images 
+in the transfer order might all be overwritten. Also, depending on the image 
+type, the transfer order may not be possible.
+ For the transfer order, if you select an image captured in the RAW+JPEG 
+mode, it will be counted as one image. During the direct image transfer, both 
+the RAW and JPEG images will be transferred to the personal computer.
+ If you want to transfer more than 999 images in one batch, select [All 
+images] on the direct transfer screen (p.168).
+COPY
+
+171
+10
+Customizing the
+Camera
+With Custom Functions, you can change the camera 
+functions according to your preference. Also, the 
+current camera settings can be saved under the Mode 
+Dial’s <w>, <x>, and <y> positions.
+The features explained in this chapter can be set and 
+used in the following shooting modes: d, s, f, a, 
+F.
+COPY
+
+172
+1 Select [8]. Turn the <6> dial to select the [8] 
+tab.
+2 Select the group. Turn the <5> dial to select C.Fn I - 
+IV, then press <0>.
+3 Select the Custom Function number.
+ Turn the <5> dial to select the 
+Custom Function No., then press 
+<0>.
+4 Change the setting as desired. Turn the <5> dial to select the 
+setting (number), then press <0>.
+ Repeat steps 2 to 4 if you want to set 
+other Custom Functions.
+ At the bottom of the screen, the 
+current Custom Function settings are 
+indicated below the respective 
+function numbers.
+5 Exit the setting. Press the <M> button.
+X The screen for step 2 will reappear.
+In step 2, select [Clear all Custom Func. (C.Fn)] to clear all the 
+Custom Function settings.
+3 Setting Custom FunctionsN
+Custom Function No.
+Clearing All Custom Functions
+Even after all the Custom Functions are cleared, the setting for [8C.Fn IV -
+5: Focusing Screen] will remain unchanged.
+COPY
+
+173
+* Disabled in movie mode
+3 Custom FunctionsN
+C.Fn I: Exposure LV Stills LV Movies e
+1 Exposure level increments
+p.174
+k
+2 ISO speed setting increments k
+3I S O e x p a n s i o n k
+4 Bracketing auto cancel k
+5 Bracketing sequence
+p.175
+k
+6 Safety shift k
+7 Flash sync. speed in Av mode k
+C.Fn II: Image
+1 Long exposure noise reduction p.176 k2 High ISO speed noise reduction k
+3 Highlight tone priority p.177 k4 Auto Lighting Optimizer k
+C.Fn III: Autofocus/Drive
+1 Lens drive when AF impossible p.178 k2 Lens AF stop button function (2, 3 & 5 work/*)
+3 AF point selection method
+p.1794 Superimposed display k (Quick mode)
+5 AF-assist beam firing k (Quick mode)
+6 Mirror lockup p.1807 AF point area expansion
+8 AF Microadjustment p.181 k (Quick mode)
+C.Fn IV: Operation/Others
+1 Shutter button/AF-ON button p.182 (3 works/*)2 AF-ON/AE lock button switch k
+3 Assign SET button p.183 (5 & 6 do not work)4 Dial direction during Tv/Av k
+5 Focusing screen p.184
+6 Add original decision data p.185 k
+Shaded Custom Functions do not function during Live View (LV) still photo 
+and/or movie shooting. (Settings are disabled.)
+COPY
+
+174
+3 Custom Function SettingsN
+C.Fn I: Exposure
+C.Fn I -1 Exposure level increments
+0: 1/3-stop
+1: 1/2-stop
+Sets 1/2-stop increments for the shutter speed, aperture, exposure 
+compensation, AEB, flash exposure compensation, etc. Effective when 
+you prefer to control the exposure in less fine increments than 1/3-stop 
+increments.
+C.Fn I -2 ISO speed setting increments
+0: 1/3-stop
+1: 1-stop
+C.Fn I -3 ISO expansion
+0: Off
+1: On
+Enables “L” (equivalent to ISO 50), “H1” (equivalent to ISO 12800), and 
+“H2” (equivalent to ISO 25600) to be selectable for the ISO speed.
+C.Fn I -4 Bracketing auto cancel
+0: On
+The AEB and WB-BKT settings will be canceled if you set the power 
+switch to <2> or clear the camera settings. AEB will also be 
+canceled when the flash is ready to fire.
+1: Off
+The AEB and WB-BKT settings will be retained even when the power 
+switch is set to <2>. (When the flash is ready, AEB will be canceled. 
+However, the AEB amount will be retained in memory.)
+The exposure level will be displayed in the viewfinder and on the LCD 
+panel as shown below.
+COPY
+
+175
+3 Custom Function SettingsN
+C.Fn I -5 Bracketing sequence
+The AEB shooting sequence and white balance bracketing sequence can 
+be changed.
+0: 0, -, +
+1: -, 0, +
+C.Fn I -6 Safety shift
+0: Disable
+1: Enable (Tv/Av)
+This works in the shutter-priority AE (s) and aperture-priority AE (f) 
+modes. When the subject’s brightness changes erratically and the 
+correct autoexposure cannot be obtained, the camera will change the 
+exposure setting automatically to obtain a correct exposure.
+C.Fn I -7 Flash sync. speed in Av mode
+0: Auto
+1: 1/200-1/60 sec. auto
+When flash is used with aperture-priority AE (f), this prevents a slow 
+flash-sync speed from being used in low-light conditions. Effective for 
+preventing subject blur and camera shake. The only problem is that, 
+while the subject will be properly exposed with the flash, the background 
+will come out dark.
+2: 1/200 sec. (fixed)
+The flash-sync speed is fixed to 1/200 sec. This better prevents subject 
+blur and camera shake than with setting 1. However, the background will 
+come out darker than with setting 1.
+AEB WB BracketingB/A Direction M/G Direction
+0: Standard exposure 0 : Standard white balance 0 : Standard white balance
+- : Decreased exposure - : Blue bias - : Magenta bias
++ : Increased exposure + : Amber bias + : Green bias
+COPY
+
+176
+3 Custom Function SettingsN
+C.Fn II: Image
+C.Fn II -1 Long exposure noise reduction
+0: Off
+1: Auto
+For 1 sec. or longer exposures, noise reduction is performed 
+automatically if noise typical of long exposures is detected. This [Auto] 
+setting is effective in most cases.
+2: On
+Noise reduction is performed for all exposures of 1 sec. or longer. The 
+[On] setting may be effective for noise that cannot be detected or 
+reduced with the [Auto] setting.
+C.Fn II -2 High ISO speed noise reduction
+Reduces the noise generated in the image. Although noise reduction is 
+applied at all ISO speeds, it is particularly effective at high ISO speeds. At 
+low ISO speeds, the noise in the shadow areas is further reduced. Change 
+the setting to suit the noise level.
+0: Standard
+1: Low
+2: Strong
+3: Disable
+ With setting 1 and 2, after the picture is taken, the noise reduction 
+process may take the same amount of time as the exposure. During the 
+noise reduction, shooting is still possible as long as the maximum burst 
+indicator in the viewfinder shows “1” or higher.
+ With setting 2, if a long exposure is used during Live View shooting, 
+“BUSY” will be displayed and the Live View display will not appear untill 
+the noise reduction process is completed. (You cannot take another 
+picture.)
+With setting 2, the maximum burst for continuous shooting will greatly 
+decrease.
+COPY
+
+177
+3 Custom Function SettingsN
+C.Fn II -3 Highlight tone priority
+0: Disable
+1: Enable
+Improves the highlight detail. The dynamic range is expanded from the 
+standard 18% gray to bright highlights. The gradation between the grays 
+and highlights becomes smoother.
+C.Fn II -4 Auto Lighting Optimizer
+If the images comes out dark or the contrast is 
+low, the brightness and contrast are corrected 
+automatically.
+For RAW images, the content of the settings in 
+the camera can be applied when processed with 
+Digital Photo Professional (bundled software).
+0: Standard
+1: Low
+2: Strong
+3: Disable
+With setting 1, noise in the shadow areas may be slightly more than usual.
+With setting 1, the settable ISO speed range will be 200 - 6400.
+Also, <A> (dynamic range) will be displayed on the LCD panel and in the 
+viewfinder.
+Ð
+ Depending on the shooting conditions, noise might increase.
+ This function will not work if manual exposure or bulb exposure has been 
+set.
+In fully-automatic modes (1/C), [Standard] will be set automatically.
+COPY
+
+178
+3 Custom Function SettingsN
+C.Fn III: Autofocus/Drive
+C.Fn III -1 Lens drive when AF impossible
+If autofocus is executed, but focus cannot be achieved, the camera can 
+either keep trying to focus or stop.
+0: Focus search on
+1: Focus search off
+Prevents the camera from becoming grossly out of focus as it attempts 
+to focus again. Especially convenient with super telephoto lenses which 
+can become extremely out of focus.
+C.Fn III -2 Lens AF stop button function
+* The AF stop button is provided only on super telephoto IS lenses.
+0: AF stop
+1: AF start
+AF operates only while the button is pressed. While the button is 
+pressed, AF operation with the camera is disabled.
+2: AE lock
+When the button is pressed, AE lock is applied. Convenient when you 
+want to focus and meter at different parts of the picture.
+3: AF point: M 9 Auto/Auto 9 center
+In the manual AF point selection mode, the button instantly switches to 
+automatic AF point selection only while you hold it down. This is 
+convenient in the AI Servo AF mode when you can no longer track the 
+subject with the manually-selected AF point. In the automatic AF point 
+selection mode, the button selects the center AF point only while you 
+hold it down.
+4: ONE SHOT z AI SERVO
+In the One-Shot AF mode, the camera switches to AI Servo AF mode 
+only while you hold down the button. And in the AI Servo AF mode, the 
+camera switches to One-Shot AF mode only while you hold down the 
+button. Convenient when you need to keep switching between One-Shot 
+AF and AI Servo AF for a subject which keeps moving and stopping.
+5: IS start
+With the lens’ IS switch already <ON>, the Image Stabilizer operates 
+when you press the button. With setting 5, the Image Stabilizer will not 
+operate when you press the shutter button halfway.
+COPY
+
+179
+3 Custom Function SettingsN
+C.Fn III -3 AF point selection method
+0: Normal
+Press the <S> button, then use <9> or <6/5> dial to select an AF 
+point.
+1: Multi-controller direct
+Without pressing the <S> button first, you can just use the <9> to 
+select the desired AF point. Pressing the <S> button will set it to 
+automatic AF point selection.
+2: Quick Control Dial direct
+Without pressing the <S> button first, you can just use the <5> to 
+select the desired AF point. By holding down the <S> button and 
+turning the <6> dial, you can set the exposure compensation.
+C.Fn III -4 Superimposed display
+0: On
+1: Off
+When focus is achieved, the AF point will not flash in red in the 
+viewfinder. Recommended when it is bothersome to see it light up.
+The AF point will still light when you select it.
+C.Fn III -5 AF-assist beam firing
+Enables or disables the EOS-dedicated Speedlite’s AF-assist beam.
+0: Enable
+1: Disable
+The AF-assist beam is not emitted.
+If the external, EOS-dedicated Speedlite’s [AF-assist beam firing] Custom 
+Function is set to [Disabled], the Speedlite will not emit the AF-assist beam 
+even if the camera’s C.Fn III -5-0 is set.
+COPY
+
+180
+3 Custom Function SettingsN
+C.Fn III -6 Mirror lockup
+0: Disable
+1: Enable
+Prevents camera vibrations caused by the reflex mirror action which can 
+disturb shooting with super telephoto lenses or close-up (macro) 
+shooting. See page 101 for the mirror lockup procedure.
+C.Fn III -7 AF point area expansion
+0: Disable
+1: Enable
+When you select AI Servo AF and the center AF point, the six Assist AF 
+points (p.80) will also function. Seven AF points will track the subject. 
+This is effective for subjects that move erratically, making it difficult for 
+only the center AF point to track it.
+COPY

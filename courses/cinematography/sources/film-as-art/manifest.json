@@ -1,0 +1,71 @@
+{
+ "key": "film-as-art",
+ "title": "Film as Art",
+ "author": "Rudolf Arnheim",
+ "file": "Film as Art.epub",
+ "format": "epub",
+ "sha256": "fdace4feecdaa0df4720e48df92b732d4989422cc4296a575cc146ef8db7e93c",
+ "words": 64243,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Preface to the 1957 Edition",
+   "words": 596
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "A Personal Note",
+   "words": 1985
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Chapter 1: Film and Reality",
+   "words": 7645
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Chapter 2: The Making of a Film",
+   "words": 27397
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Chapter 3: The Content of the Film",
+   "words": 5646
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Chapter 4: The Complete Film",
+   "words": 1845
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "The Thoughts That Made the Picture Move",
+   "words": 5302
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Motion",
+   "words": 1855
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "A Forecast of Television",
+   "words": 2828
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "A New Laocoon: Artistic Composites and the Talking Film",
+   "words": 9144
+  }
+ ],
+ "warnings": [],
+ "text_quality": {
+  "common_word_share": 0.394,
+  "odd_character_share": 0.001
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-19",
+  "note": "Date is when the file arrived in the source ingest folder."
+ }
+}

@@ -1,0 +1,515 @@
+CHAPTER 7
+
+Movement
+
+Movement in the screen world can be very different from movement in the real world. There are four types of movement that need to be defined.
+
+Actual Movement
+
+Actual movement only occurs in the real world. Almost everything that moves in our three-dimensional world is classified in this category. Walking people, flying birds drifting clouds, and moving cars are examples of the constant, actual movement we see every day.
+
+Induced Movement
+
+Induced movement occurs in the real world when a moving object transfers its movement to a nearby stationary object. The stationary object appears to move in the opposite direction and the moving object appears immobile.
+
+The actual movement is the black circle and the green circle is stationary. Induced movement occurs if the green circle appears to move and the black circle appears stationary. Usually the induced movement appears in the smaller and/or brighter object.
+
+ 
+
+Clouds moving over a stationary moon are a good example of induced movement. Often the moon appears to move and the clouds appear stationary. The moon’s induced movement is in the opposite direction of the cloud’s actual movement.
+
+Apparent Movement
+
+Apparent movement occurs when one stationary object is replaced by another stationary object. The physical change between the two stationary objects is perceived as the movement of a single object.
+
+Digital capture, video, and film rely on this principle. When real-world actual movement is photographed it’s transformed into a series of still images. When these still images are played back at a rapid speed they appear to move. But the movement is apparent because there’s no actual movement at all, only a series of rapidly changing stationary images. To prove it, we can “freeze frame” or “step” through the images and see each one individually.
+
+ 
+
+Animation that is hand drawn, computer generated, or stop-motion creates a series of individual images which, when played back at a rapid speed, appear to move.
+
+ 
+
+ 
+
+Apparent movement occurs in the real world, too. A series of stationary arrows on a neon sign can give the appearance of a single moving arrow. If each arrow is lit for a short time in rapid succession (indicated by the numbers 1–8), the arrow appears to move from left to right.
+
+Relative Movement
+
+Relative movement occurs when an object’s movement is gauged by its changing position relative to a stationary object.
+
+ 
+
+In the screen world, visually useful movement only occurs when an object moves relative to the stationary frame lines. When moving objects do not move in relation to the frame, there’s no visually useful movement.
+
+ 
+
+Two airplanes fly together side-by-side through a cloudless sky. Both planes fly at the same speed. Airplane B has a video camera that photographs Airplane A. The camera keeps Airplane A centered in the camera frame.
+
+ 
+
+When the video is viewed, Airplane A remains stationary in the frame because the subject and the camera moved at the same speed. There is no relative movement between the moving airplane and the frame lines, so in terms of visual structure the airplane is not moving.
+
+ 
+
+To create visually useful movement, the subject must move in relation to the frame line. That means the subject airplane must move at a speed different from the camera. In this example the subject moves faster than the camera so the plane passes through the frame from left to right. The object movement is now visually useful because there is relative movement between the plane and the stationary frame.
+
+In the screen world there are three things that can move:
+
+An object.
+
+The camera.
+
+The audience’s point-of-attention as they watch the screen.
+
+Object Movement
+
+In the screen world anything that moves in relation to the frame line is a moving object. As discussed in Chapter Four, every moving object generates a track. A track is the path of a moving object. There are two types of tracks: actual and virtual. There are three ways to categorize the track of a moving object.
+
+1. DIRECTION
+
+An object can only move in a limited number of directions on a screen, because the screen is two-dimensional.
+
+ 
+
+An object can move horizontally, vertically, or diagonally (in either direction).
+
+2. QUALITY
+
+ 
+
+The movement of an object can be straight, circular, or a combination of the two. Since moving objects generate a track or line, the same adjectives and emotional responses associated with straight and circular lines can be assigned to straight and circular movement.
+
+Generally, the track created by straight, linear object movement can be associated with these characteristics: direct, strong, conservative, ordered, artificial, and rigid. Tracks created by circular movement can be associated with: indirect, childlike, romantic, organic, soft, and flexible. These characteristics may create predictable stereotypes and are only a general guide. Your own feelings about straight and circular tracks will determine how you define them.
+
+3. SIMPLE & COMPOUND MOVEMENT
+
+ 
+
+In our real, everyday, three-dimensional world, actual movement occurs in all three dimensions. This is often called movement on the X, Y, and Z axes. Objects in the real world move in any direction—left or right, up or down, diagonally, and toward or away from us. These movements can be straight or circular.
+
+ 
+
+But the screen world is only two-dimensional so there cannot be any real, actual movement toward or away from the audience (on the Z axis). In the screen world actual object movement is limited to horizontal, vertical, diagonal, or circular. These are called the simple moves.
+
+However, objects on the screen often appear to move in depth, toward, or away from the viewer. This movement on the Z axis is an illusion of depth created by the depth cues discussed in Chapter Three. Object movement that appears to move in depth on a flat screen is called compound movement because it combines the simple moves onto a single moving object.
+
+ 
+
+For example, in the real world a car can actually move in three dimensions toward the camera. In the screen world the car can’t actually move toward the viewer because the screen is only two-dimensional. When an object on screen appears to move in depth, it combines the simple moves into a compound movement. The simple vertical movements are the top of the car moving up and the car’s bottom moving down. The simple horizontal movements are the sides of the car moving left and right. The illusion of depth and the degree of visual intensity increases as more simple moves are combined onto a single object’s compound movement.
+
+Camera Movement
+
+An audience only sees camera movement by its effect on the objects in frame. There are two basic ways to classify camera movement.
+
+1. DIRECTION
+
+A camera can move in two or three dimensions. The two-dimensional camera moves are the pan, tilt, and zoom. The three-dimensional camera moves are the dolly in/out (perpendicular to the picture plane), the track left/right (parallel to the picture plane), and the crane or boom up/down (usually parallel to the picture plane).
+
+The audience perceives the camera movement because it is transferred to the objects in the shot. Objects will move in the opposite direction of the camera move. When the camera pans right, all objects in the picture move to the left. A tilt up causes objects in frame to move downward. The same transfer occurs with three-dimensional camera moves. A camera tracking to the left makes objects in frame move to the right and a crane up makes objects move down.
+
+2. SPEED
+
+Camera movement can occur at slow, medium, or fast speeds. There are exceptions, but usually a very slow camera move does not create visual intensity because changes in the visual components may be difficult to notice. Faster camera moves can produce rapid, contrasting changes in the visual components, which generates more visual intensity.
+
+Distinct visual differences occur in the speed of FG, MG, and BG objects during two- and three-dimensional camera moves. In a pan, tilt, or zoom (two-dimensional moves) all objects in the frame move at the same rate of speed. There is no relative movement. When the camera pans to the right, FG, MG, and BG objects will move in unison to the left. Tilting down causes all objects, regardless of their distance from the camera, to move upward at the same speed. A zoom in or out increases or decreases the size of all objects in frame at exactly the same rate of speed.
+
+The dolly, tracking, and crane shot (three-dimensional camera moves) create relative movement so the FG will move faster than the BG. The reverse occurs when a camera dollies in a circular move around an object. The FG object moves slowly and the BG moves much faster.
+
+Point-of-Attention Movement
+
+The third type of movement, point-of-attention, refers to the audience’s eye movement as they watch the screen. Although humans have peripheral vision which enables us to be aware of a wide field of view, we’re only able to focus our attention on one small area of our visual field.
+
+ 
+
+Try to look at both the X and the O at the same time. You can’t. This simple example demonstrates how our vision system can only concentrate on one small area of our visual field at a time.
+
+Watching a screen is no different. Although an audience is aware of the entire picture, they can only focus their attention on one small area of the screen. This is fortunate because it allows picture makers to predict and control what part of the shot the audience is watching.
+
+Where does the audience want to look in any picture? What attracts the audience’s eye?
+
+The most reliable way to attract the audience’s attention is with object movement. If there isn’t any movement, the viewer’s point-of-attention is usually attracted to the brightest object in the shot. When the audience is looking at an actor’s face, their point-of-attention is usually drawn to the actor’s eyes. An on-screen vanishing point created by convergence will attract the viewer’s attention. The audience’s attention is also drawn to the newest object in the frame. This can be an unfamiliar or new actor entering the shot or an important object revealed in a camera move.
+
+Generally speaking, an audience’s point-of-attention is attracted by contrasts or differences in any of the visual components.
+
+ 
+
+In each of the above pictures the viewer’s attention is drawn to the object with visual component contrast. Differences in movement, shape, color, or tone can attract the audience’s attention.
+
+The audience’s eye movement can be categorized in three ways.
+
+1. Direction. As the audience moves their point-of-attention around the frame, their eye movement creates a track. Remember, track is the path of a moving object, and here the moving object is the audience’s point-of-attention.
+
+ 
+
+Since the screen is two-dimensional there are only three directions the audience’s point-of-attention can move: horizontal, vertical, or diagonal (in either direction).
+
+2. Quality. The audience’s point-of-attention movement can be straight or circular as it moves within the frame.
+
+ 
+
+As the audience moves their point-of-attention between stationary objects, they will always take the shortest path which is a straight line. If the audience is watching a moving object the track can be straight or circular depending on the path of the on-screen object.
+
+Contrast & Affinity
+
+Since the movement of objects, the camera, and the audience’s point-of-attention create tracks or lines, there are many ways to use contrast and affinity. Remember, contrast and affinity can occur within a shot, from shot-to-shot, and from sequence to sequence.
+
+OBJECT MOVEMENT
+
+A moving object generates a track or line. The visual intensity of an object’s movement can be determined by analyzing its track.
+
+1.Movement / No Movement. The greatest contrast to object movement is no object movement. It is possible to make an entire production using stationary objects. Montages and documentaries are often made using still photographs that lack movement. In live-action a lack of object movement is sometimes called tableau staging where object movement is minimized in favor of the arrangement of stationary objects in the frame.
+
+2. Direction.
+
+ 
+
+An object can move in three directions on the screen: horizontal, vertical, or diagonal. When using these moves separately the horizontal track has the least visual intensity, the vertical track is more intense, and the diagonal track is most intense. The vertical and diagonal moves can create varying levels of intensity when used in direct conjunction with the horizontal track.
+
+ 
+
+Shot 1 has two objects moving in the same horizontal direction. This is obviously an example of maximum affinity of object movement within the shot. The visual intensity is low.
+
+ 
+
+Shot 2 is an example of maximum contrast of object movement within the shot. Even though the diagonal line is individually most intense, it’s the vertical move that has maximum contrast with the horizontal move.
+
+3. Quality. Object movement can generate straight or circular tracks.
+
+ 
+
+Shot 3 illustrates affinity of quality of object movement within the shot because all of the moves are circular. Shot 4 illustrates contrast of line quality within the shot because the objects make straight and circular moves. Shot 4 is more intense than Shot 3.
+
+4. Speed. A moving object can have a slow, medium, or fast speed. Object speed is determined by recognizing the relative movement between the object and the frame lines. If all objects move at the same speed, affinity is produced and the intensity is low. If objects move at different speeds, contrast is created, which generates visual intensity.
+
+MOVEMENT OF AN OBJECT WITH A BACKGROUND
+
+The relationship between a track generated by a moving object and the background’s linear motif can increase or reduce the visual intensity. Linear motif is the shot reduced to its basic lines. See Chapter Four for a complete explanation of linear motif.
+
+ 
+
+The red arrow represents the track of a FG moving object, and the blue lines are the background’s linear motif. When the FG and BG are combined, a visual relationship is created based on the Principle of Contrast & Affinity.
+
+ 
+
+The least intense combination of FG object movement and BG linear motif within the shot is illustrated in Shot 7. A horizontally moving object and a horizontal BG motif have maximum affinity so the visual intensity is low.
+
+ 
+
+Shot 8 is somewhat more intense because verticals are more dynamic than horizontals. However, the parallel FG movement and BG linear motif have affinity, keeping the visual intensity fairly low.
+
+ 
+
+Shots 9 and 10 each illustrate contrast within the shot using only horizontal and vertical lines. The FG object movement contrasts with the BG linear motif. As examples of contrast within the shot, these examples have moderate visual intensity.
+
+ 
+
+Shot 11 creates more visual intensity because it uses diagonals. Even though there’s diagonal affinity between the FG object movement and the BG linear motif, the intensity is high because the diagonal is inherently so intense.
+
+ 
+
+Shot 12 has the most visual intensity because it uses opposing diagonal lines. The shot exploits the intensity inherent in diagonal lines and the contrasting diagonals of the FG object movement against the BG linear motif.
+
+These diagrams are only a general guide to the complex interactions that can occur between the FG movement and BG linear motif. The specific subject, speed, size, tone, and color of the FG object and the BG can alter the intensity in their visual relationship.
+
+CAMERA MOVEMENT
+
+Movement of the camera can use the Principle of Contrast & Affinity to increase or reduce visual intensity. Remember, contrast and affinity can occur within a shot, from shot-to-shot, or from sequence to sequence.
+
+1. Movement / No Movement. The greatest contrast to camera movement is no camera movement at all. A moving camera is always visually more intense than a stationary camera. An entire production can be photographed using only a stationary camera or, at the other extreme, a constantly moving camera.
+
+2. 2D / 3D Moves. Once again, the two-dimensional camera moves are the pan, tilt, and zoom. The three-dimensional camera moves are the dolly, the tracking, and the crane. The visual difference between the 2D and 3D moves is significant. Only three-dimensional camera moves create relative movement which is almost always more intense than two-dimensional moves.
+
+The one exception is the two-dimensional “snap zoom” which is an extremely rapid zoom in or out. A snap zoom will add visual intensity because it produces sudden contrasts in size and movement speed that are difficult to achieve with conventional camera movement.
+
+3. Level / Non-Level. A tripod or dolly usually holds the camera level to the horizon, which keeps the shot’s vertical and horizontal lines parallel to the frame lines. When the camera is not level the shot’s horizontal and vertical lines become diagonals. Diagonal lines are more intense than horizontal or vertical lines.
+
+A hand-held camera creates additional movement as the camera operator attempts to hold the camera level, or in some cases not level. Any shifting movement from level to not level creates visual contrast and translates into an increase in visual intensity because the linear motif constantly varies from vertical/horizontal to diagonal.
+
+4. Scale of Movement. Generally, the larger the camera move, the greater the visual intensity, and the smaller the camera move, the less the visual intensity.
+
+A stabilized, completely immobile camera removes visual contrast. Lines remain steady (verticals remain perfectly vertical and horizontals remain perfectly horizontal). The linear motif doesn’t change because the camera is completely stabilized or fixed.
+
+As the camera becomes destabilized, (a moving camera on a dolly or even a pan or tilt) the linear motif may change and the audience’s point-of-attention may move within the shot. A moving camera (dolly, boom, pan, tilt) is a destabilized movement so it adds intensity to a shot.
+
+When the camera is on a Steadicam type rig, the linear motif changes can be different from a pan, tilt, or dolly. Although a Steadicam’s mechanical system is designed to keep the camera level to the horizon (and mimic a dolly), depending on the operator and the needs of the shot, the camera can get destabilized on any axis. This additional destabilization may add more changes to the linear motif, such as taking a vertical and horizontal linear motif and making it all diagonal. This result adds more visual intensity.
+
+Finally, there’s hand-held. All things being equal, the hand-held camera operator can, if needed, use the complete destabilization of the camera to add linear motif changes or audience point-of-attention contrast to the shot. Almost any hand-held movement can instantly destabilize the linear motif. Verticals and horizontals can become diagonal and vice versa. That’s a lot of possible contrast due to camera movement. Also, the hand-held destabilization can move the audience’s point-of-attention around the frame in an aggressive manner which would be difficult to achieve with a locked off or stabilized camera.
+
+A non-moving, stabilized camera tends to reduce intensity by adding visual affinity (the visual components remain unchanged by the camera movement). Destabilization of the camera tends to add contrast which increases visual intensity (the camera movement can change the visual components).
+
+Point-of-Attention Movement
+
+Controlling where the audience is looking and how their point-of-attention moves from one area of the screen to another is called continuum of movement. Like any visual component, contrast of continuum increases the visual intensity and affinity of continuum decreases the visual intensity.
+
+ 
+
+To indicate which area of the screen the audience is watching, a nine-area grid can be drawn over the screen or frame. This is called a continuum grid.
+
+ 
+
+For easy reference, each area or quadrant of the grid is given a number. Continuum of movement can be used within a shot or from shot to shot.
+
+CONTINUUM WITHIN THE SHOT
+
+Affinity of continuum within a shot can be created without any camera or object movement.
+
+ 
+
+Here are two people engaged in a conversation. As the dialogue alternates between them, the audience’s point-of-attention will shift from one person’s face to the other. When the continuum grid is superimposed over the shot, it reveals that the audience’s point-of-attention remains in Quadrant 2 (Q2). This creates affinity of continuum of movement within the shot because the audience keeps their point-of-attention in the same area of the screen as they watch the conversation.
+
+ 
+
+Now the two people are farther apart. Contrast of continuum of movement is created because the viewer’s point-of-attention must shift between Q1 and Q3. The audience’s eye movement is not guided by a moving object on screen but by the changes in directorial emphasis from one actor to the other.
+
+ 
+
+As the distance between the two people expands, the contrast of continuum of movement increases. In this wide-screen frame, the audience must shift their point-of-attention an even greater distance.
+
+ 
+
+ 
+
+These two shots from The Hateful Eight demonstrate the available range of contrast and affinity of continuum of movement within the shot. In this case, the film was shot in Ultra Panavision 70 which provides a very wide aspect ratio of 2.76:1.
+
+As the screen size decreases, the degree of possible contrast of continuum diminishes. Hand-held digital devices with screens measuring only a few inches can’t take advantage of contrast of continuum of movement.
+
+ 
+
+Contrast or affinity of continuum also occurs with moving objects. Object movement can attract the viewer’s attention and guide them within the shot. In this example of affinity of continuum, a man walks to a waiting woman, the man stops next to the woman, and after a moment the woman walks away.
+
+ 
+
+A diagram reveals the affinity of continuum of movement. The audience’s point-of-attention is attracted to the first moving object (the man in Q3). The man walks to the woman (in Q1), the audience transfers their point-of-attention to the woman and follows her as she walks away (in Q6). This affinity of continuum guides the audience’s point-of-attention from Q3 to Q1 to Q6.
+
+Contrast of continuum of movement using moving objects can occur within a shot.
+
+ 
+
+In this example there are two moving objects. First, the BG woman enters and stops. Then, after a moment, a FG dog enters the frame.
+
+ 
+
+The audience’s point-of-attention begins on the woman in Q3. When the dog enters, the audience’s point-of-attention moves diagonally from Q3 to the dog in Q7. The woman’s movement does not lead the audience’s attention to the dog. The audience jumps their point-of-attention from Q3 to Q7, which creates contrast of continuum of movement within the shot.
+
+CONTINUUM FROM SHOT TO SHOT
+
+Continuum of movement becomes even more important when shots are edited together.
+
+ 
+
+Here are two pictures. One is a wide shot of a woman standing in a doorway. The second is a close-up of the same woman. In the wide shot, the audience’s point-of-attention is on the woman in the doorway. In the close-up the point-of-attention is on her eyes.
+
+ 
+
+If the two shots are superimposed, the different points-of-attention are obvious. Editing these two shots together will create contrast of continuum of movement because on the cut, the audience’s attention jumps from Q1 to Q3.
+
+ 
+
+Affinity of continuum can be created by recomposing either one of the two shots.
+
+ 
+
+Superimposing the shots reveals how the points-of-attention match. On the cut from shot-to-shot the audience’s point-of-attention remains in the same quadrant, creating affinity of continuum.
+
+ 
+
+In this scene from The King’s Speech, the audience must move their point-of-attention on each editorial cut. The awkwardness of the characters’ encounter is emphasized by the contrast of continuum.
+
+ 
+
+The same contrast occurs in this scene from Me, Earle and the Dying Girl. As the scene cuts back and forth between the two teenagers, the audience moves their point-of-attention across the frame. The contrast of continuum communicates a distance or uncomfortable relationship between the two characters.
+
+ 
+
+These two shots from Klute are intercut for a series of long dialogue scenes. The shots emphasize affinity of continuum from shot to shot. The affinity makes the editorial cut more invisible and creates a visual and emotional connection between the two characters.
+
+ 
+
+Another dialogue scene from the same movie uses affinity of continuum from shot to shot. Even though the actors’ screen direction looks are incorrect (both are looking screen right at each other), the affinity of continuum connects the two actors and camouflages the stage line jump.
+
+CONTROLLING CONTINUUM OF MOVEMENT DURING PRODUCTION
+
+The structure of continuum of movement within a shot or from shot to shot can be planned in a storyboard. The arrows in these storyboards indicate the movement of an object in the frame.
+
+In Storyboard 1, examine the affinity of continuum of movement from shot to shot. The circular movement in each shot begins where the movement ended in the previous shot.
+
+ 
+
+Combining all eight shots in Storyboard 1 into a single frame reveals the linear motif created by the objects’ tracks. The audience’s point-of-attention movement is choreographed around the frame creating a circular track or line. The affinity of continuum makes the editorial cuts smoother and more invisible.
+
+STORYBOARD 2
+
+Storyboard 2 also illustrates affinity of continuum of movement. The object in this storyboard moves in straight lines.
+
+ 
+
+When the eight shots in Storyboard 2 are combined into a single frame, the sequence’s linear motif is revealed. Although Storyboard 1 and 2 both illustrate affinity of continuum of movement, Storyboard 2’s straight tracks are more intense than the circular linear motif created by Storyboard 1.
+
+STORYBOARD 3
+
+Storyboard 3 uses contrasts. The shot-to-shot moving objects create contrast of line direction, line quality, and continuum of movement. On each editorial cut the audience must shift their point-of-attention to another quadrant to find and follow the moving object.
+
+ 
+
+This is the linear motif created by the shots in Storyboard 3. The eight shots have been combined into a single storyboard, creating a total of 15 lines. There are eight lines generated by the tracks of the moving objects in the shots. There are an additional seven lines created by the track of the audience’s points-of-attention as they move to different screen quadrants each time there’s an editorial cut.
+
+Based only on visual structure, Storyboard 1 is least intense because it uses circular lines and affinity of continuum. Storyboard 3 is the most intense because it contrasts line quality, direction, and continuum of movement.
+
+The visual intensity of montages, action sequences, and even dialogue scenes can benefit from careful structuring of contrast & affinity of continuum of movement from shot to shot.
+
+STORYBOARD 4
+
+Storyboard 4 begins with affinity and progresses to contrast of continuum of movement. This plan builds visual intensity into the edited sequence. Storyboard panels 1–5 are composed and edited using affinity of continuum. Panels 6–8 introduce contrast of continuum. The visual composition of each shot is not important when viewed individually. The compositions are designed to create affinity and contrast of continuum when edited together.
+
+Continuum of movement becomes a critical issue when designing split-screen sequences. Remember that an audience can only look at one small area of the screen at a time. If more than one split-screen panel simultaneously displays critical visual information, the audience will miss information because they can’t look at two places at the same time.
+
+ 
+
+This split-screen sequence from Sideways is part of a montage that introduces the Central California wine country. In this four-way split-screen shot the audience can watch any image because each screen has the same visual information. No particular screen contains unique, critical information.
+
+ 
+
+Later in the same montage the main characters are reintroduced in one panel of the split screen. Notice how the other split-screen panels have mundane, almost abstract images which don’t distract the audience from looking at the main characters. The filmmakers knew which area of the screen was most important, so they used images that would not distract the audience from watching the correct panel.
+
+Controlling where the audience is looking is a basic storytelling directorial challenge. Continuum of movement should be planned by the director and cinematographer but also comes under the control of the editor. Once in the editing room, it’s easy to determine where the audience is looking in any shot. Watch the scenes on a large screen. Your visual intuition will take over and direct your eye to the same area or quadrant of the screen that will attract the audience.
+
+Contrast and affinity of continuum of movement affects the intensity of edited sequences. Visual intensity increases as more contrast of continuum is used, and visual intensity diminishes when using affinity of continuum of movement. Obviously, the editor’s continuum control is limited by the shots produced during production, but an editor can exploit contrast and affinity of continuum of movement to further manipulate the intensity of scenes and sequences.
+
+Affinity of continuum of movement improves visual continuity. It is such a powerful visual tool that affinity of continuum can hide visual errors including continuity mistakes and screen direction problems. Affinity of continuum of movement within the shot and from shot to shot makes edited sequences and transitions appear more continuous and smooth.
+
+Affinity of continuum of movement from shot to shot permits a faster editorial cutting pattern because the audience does not have to change their point-of-attention between shots. The audience can easily follow complex action if they don’t have to shift their point-of-attention across the frame searching for the next shot’s subject.
+
+Contrast of continuum of movement can be visually jarring and abrupt. The audience can become agitated or excited when forced to quickly move their attention to different quadrants of the screen. Contrast of continuum of movement separates subjects and actions and interrupts transitions. Continuum contrast can confuse or disorient the audience. The intensity created by contrast of continuum can make movement more abrupt and aggressive. As the contrast of continuum increases, so will the visual intensity of the sequence. In extreme situations contrast of continuum can be so aggressive that it pushes the audience out of the experience.
+
+Films to Watch
+
+All of these films demonstrate how movement can support or enhance the visual intensity of the story. Viewing these movies with the sound off helps to reveal directorial control of object, camera, and continuum of movement.
+
+Das Boot (1981)
+
+Directed by Wolfgang Petersen
+
+Written by Wolfgang Petersen
+
+Photographed by Jost Vacano
+
+Edited by Hannes Nikel
+
+The Verdict (1982)
+
+Directed by Sidney Lumet
+
+Written by David Mamet
+
+Photographed by Andrzej Bartkowiak
+
+Edited by Peter Frank
+
+The Matrix Trilogy (1999–2003)
+
+Directed by The Wachowski Brothers
+
+Written by The Wachowski Brothers
+
+Photographed by Bill Pope
+
+Edited by Zach Staenberg
+
+Cloverfield (2008)
+
+Directed by Matt Reeves
+
+Written by Drew Goddard
+
+Photographed by Michael Bonvillain
+
+Edited by Kevin Stitt
+
+Baby Driver (2017)
+
+Directed by Edgar Wright
+
+Written by Edgar Wright
+
+Photographed by Bill Pope
+
+Edited by Jonathan Amos & Paul Machliss
+
+The three dissimilar films listed below share a common visual component because their cameras don’t move. The elimination of camera movement greatly simplifies the visual structure. It gives more emphasis to the placement of actors and their movement in relation to the frame.
+
+Tokyo Story (1953)
+
+Directed by Yasujirô Ozu
+
+Written by Kogo Noda & Yasujirô Ozu
+
+Photographed by Yuharu Atsuta
+
+Edited by Yoshiyasu Hamamura
+
+Napoleon Dynamite (2004)
+
+Directed by Jared Hess
+
+Written by Jared Hess & Jerusha Hess
+
+Photographed by Munn Powell
+
+Edited by Jeremy Coon
+
+Cold War (2018)
+
+Directed by Pawel Pawlikowski
+
+Written by Pawel Pawlikowski
+
+Photographed by Lukasz Zal
+
+Edited by Jaroslaw Kaminski
+
+The following films are excellent examples of contrast & affinity of continuum of movement.
+
+Goodfellas (1990)
+
+Directed by Martin Scorsese
+
+Written by Martin Scorsese & Nicholas Pileggi
+
+Photographed by Michael Ballhaus
+
+Edited by James Kwei & Thelma Schoonmaker
+
+Chicago (2002)
+
+Directed by Rob Marshall
+
+Written by Bill Condon
+
+Photographed by Dion Beebe
+
+Edited by Martin Walsh
+
+Although Mad Max is packed with violent action sequences, the photography employs affinity of continuum of movement and keeps the audience’s point-of-attention centered in the frame.
+
+Mad Max Fury Road (2015)
+
+Directed by George Miller
+
+Written by George Miller, Brendan McCarthy, & Nick Lathouris
+
+Photographed by John Seale
+
+Edited by Margaret Sixel
+
+This film is mostly two-person dialogue scenes, but it uses an intense contrast of continuum of movement.
+
+The King’s Speech (2010)
+
+Directed by Tom Hooper
+
+Written by David Seidler
+
+Photographed by Danny Cohen
+
+Edited by Tariq Anwar

@@ -1,0 +1,569 @@
+21
+Nomenclature
+EF24-105mm f/4L IS USM lens
+Focus mode switch (p.31)
+Hood mount 
+(p.32)
+77 mm filter thread 
+(front of lens)
+Zoom ring (p.32)
+Image Stabilizer switch (p.33) Lens mount index (p.31)
+Contacts (p.13)
+Distance scale
+Focusing ring (p.84,119)
+Infrared index
+Zoom position index 
+(p.32)
+Use of genuine Canon accessories is recommended
+This product is designed to achieve excellent performance when used with 
+genuine Canon accessories. Canon shall not be liable for any damage to this 
+product and/or accidents such as fire, etc., caused by the malfunction of nongenuine Canon accessories (e.g., a leakage and/or explosion of a battery 
+pack). Please note that this warranty does not apply to repairs arising out of the 
+malfunction of non-genuine Canon accessories, although you may request 
+such repairs on a chargeable basis.
+COPY
+
+22
+Nomenclature
+Battery Charger LC-E6
+Charger for Battery Pack LP-E6 (p.24).
+Battery Charger LC-E6E
+Charger for Battery Pack LP-E6 (p.24).
+Battery pack slot
+Charge lamp
+Power plug
+This power unit is intended to be correctly orientated in a vertical or 
+floor mount position.
+IMPORTANT SAFETY INSTRUCTIONS-SAVE THESE INSTRUCTIONS.
+DANGER-TO REDUCE THE RISK OF FIRE OR ELECTRIC SHOCK, 
+CAREFULLY FOLLOW THESE INSTRUCTIONS.
+For connection to a supply not in the U.S.A., use an attachment plug adapter 
+of the proper configuration for the power outlet.
+Power cord 
+Power cord socket
+Battery pack slot
+Charge lamp
+COPY
+
+23
+1
+Getting Started
+This chapter explains preparatory steps and basic 
+camera operations.
+Attaching the Strap
+Pass the end of the strap through 
+the camera’s strap mount eyelet 
+from the bottom. Then pass it 
+through the strap’s buckle as shown 
+in the illustration. Pull the strap to 
+take up any slack and make sure 
+the strap will not loosen from the 
+buckle.
+ The eyepiece cover is also 
+attached to the strap (p.100).
+Eyepiece cover
+COPY
+
+24
+1 Remove the protective cover.
+2 Attach the battery. As shown in the illustration, attach the 
+battery securely.
+ To detach the battery, follow the 
+above procedure in reverse.
+3 Recharge the battery.For LC-E6
+ As shown by the arrow, flip out the 
+battery charger’s prongs and insert 
+the prongs into a power outlet.
+For LC-E6E
+ Connect the power cord to the 
+charger and insert the plug into the 
+power outlet. 
+X Recharging starts automatically and 
+the charge lamp blinks in orange.
+ It takes about 2.5 hours to fully recharge a completely exhausted 
+battery at 23°C / 73°F. The time required to recharge the battery 
+depends on the ambient temperature and battery’s charge level.
+ For safety reasons, recharging in low temperatures (5°C - 10°C / 
+41°F - 50°F) will take a longer time (up to 4 hours).
+Charging the Battery
+LC-E6
+LC-E6E
+Charge Level Charge LampColor Indicator
+0 - 50%
+Orange
+Blinks once per second
+50 - 75% Blinks twice per second
+75% or higher Blinks three times per second
+Fully charged Green Lights on
+COPY
+
+25
+Charging the Battery
+ Recharge the battery on the day before or on the day it is to be used.
+Even during non-use or storage, a charged battery will gradually 
+discharge and lose its power.
+ After recharging the battery, detach it and unplug the power 
+cord or prongs from the power outlet.
+ You can attach the cover in a different 
+orientation to indicate whether the battery 
+has been recharged or not.
+If the battery has been recharged, attach the 
+cover so that the battery-shaped hole < > is 
+aligned over the blue sticker on the battery. If the battery is 
+exhausted, attach the cover in the opposite orientation.
+ When not using the camera, remove the battery.
+If the battery is left in the camera for a prolonged period, a small amount 
+of power current is released, resulting in excess discharge and shorter 
+battery life. Store the battery with the protective cover attached. Storing 
+the battery after it is fully charged can lower the battery’s performance.
+ The battery charger can also be used in foreign countries.
+The battery charger is compatible with a 100 V AC to 240 V AC 50/
+60 Hz power source. If necessary, attach a commercially-available 
+plug adapter for the respective country or region. Do not attach any 
+portable voltage transformer to the battery charger. Doing so can 
+damage the battery charger.
+ If the battery becomes exhausted quickly even after being fully 
+charged, the battery has worn out.
+Purchase a new battery.
+Tips for Using the Battery and Charger
+ The charger cannot charge any battery other than Battery Pack LP-E6.
+ Battery Pack LP-E6 is dedicated to Canon products only. Using it with an 
+incompatible battery charger or product may result in malfunction or 
+accidents for which Canon cannot be held liable.
+COPY
+
+26
+Load a fully charged Battery Pack LP-E6 into the camera.
+1 Open the battery compartment cover.
+ Slide the lever as shown by the arrow 
+and open the cover.
+2 Insert the battery. Insert the end with the battery 
+contacts.
+ Insert the battery until it locks in 
+place.
+3 Close the cover. Press the cover until it snaps shut.
+Open the cover and remove the 
+battery.
+ Press the battery release lever as shown 
+by the arrow and remove the battery.
+ To prevent short circuiting, be sure to 
+attach the protective cover to the battery.
+Installing and Removing the Battery
+Installing the Battery
+Removing the Battery
+Only the Battery Pack LP-E6 can be used.
+After opening the battery compartment cover, be careful not to swing it back 
+further.
+Otherwise, the hinge might break.
+COPY
+
+27
+<2> : The camera is turned off and 
+does not operate. Set to this 
+position when not using the 
+camera.
+<1> : The camera turns on.
+<J> : The camera and < 5> operate 
+(p.37).
+ Whenever you set the power switch to <1/J> or <2>, the 
+sensor cleaning will be executed automatically. During the sensor 
+cleaning, the LCD monitor will display <f>. Even during the 
+sensor cleaning, you can still shoot by pressing the shutter button 
+halfway (p.35) to stop the sensor cleaning and take a picture.
+ If you turn on/off the power switch <1/J>/<2> at a short 
+interval, the <f> icon might not be displayed. This is normal and 
+not a problem.
+ To save battery power, the camera turns off automatically after about 
+1 minute of non-operation. To turn on the camera again, just press 
+the shutter button halfway (p.35).
+ You can change the auto power-off time with the menu’s [5 Auto 
+power off] setting (p.44).
+Turning on the Power
+About the Automatic Self-Cleaning Sensor
+About Auto Power Off
+If you set the power switch to <2> while an image is being recorded to 
+the card, [Recording ...] will be displayed and the power will turn off after 
+the card finishes recording the image.
+COPY
+
+28
+Turning on the Power
+When the power switch is set to <1> or <J>, the battery level will be 
+indicated in one of six levels:
+Battery Life
+ The figures above are based on a fully-charged Battery Pack LP-E6, no Live View 
+shooting, and CIPA (Camera & Imaging Products Association) testing standards.
+Checking the Battery Level
+Icon Level (%) Indication
+100 - 70 Sufficient battery level
+69 - 50 Battery level exceeds 50%
+49 - 20 Battery level below 50%
+19 - 10 Battery level is low
+9 - 1 Battery will be exhausted soon
+0 Recharge the battery
+Temperature At 23°C / 73°F At 0°C / 32°F
+Possible shots Approx. 850 Approx. 750
+ The actual number of shots may be fewer than indicated above 
+depending on the shooting conditions.
+ Pressing the shutter button halfway for long periods or operating only the 
+autofocus can also reduce the number of possible shots.
+ The number of possible shots will decrease with more frequent use of 
+the LCD monitor.
+ The lens operation is powered by the camera’s battery. Depending on 
+the lens used, the number of possible shots may be lower.
+ Using the Image Stabilizer of the lens will decrease the number of 
+possible shots (shorter battery life).
+ For battery life with Live View shooting, see page 111.
+ See the [7 Battery info.] menu to further check the battery’s condition 
+(p.192).
+ If size-AA/LR6 batteries are used in Battery Grip BG-E6, a four-level 
+indicator will be displayed. ([ / ] will not be displayed.)
+COPY
+
+29
+Although the thickness is different between the two types of CF 
+(CompactFlash) cards, either one can be inserted into the camera. 
+Also, Ultra DMA (UDMA) cards and hard disk-type cards can be used.
+1 Open the cover. Slide the cover as shown by the 
+arrow to open it.
+2 Insert the card. As shown in the illustration, face 
+the label side toward you and 
+insert the end with the small holes 
+into the camera.
+If the card is inserted in the wrong 
+way, it may damage the camera.
+X The card ejection button will stick out.
+3 Close the cover. Close the cover and slide it in the 
+direction shown by the arrow until it 
+snaps shut.
+X When you set the power switch to 
+<1> or <J>, the number of 
+remaining shots will be displayed on 
+the LCD panel.
+Installing and Removing the CF Card
+Installing the Card
+Label side
+Card ejection button
+Shots remaining
+ The number of shots remaining depends on the remaining capacity of 
+the card, image-recording quality, ISO speed, etc.
+ Setting the [1 Shoot w/o card] menu option to [Off] will prevent you 
+from forgetting to install a card (p.200).
+COPY
+
+30
+Installing and Removing the CF Card
+1 Open the cover. Set the power switch to <2>.
+ Make sure the access lamp is off, 
+then open the cover.
+2 Remove the card. Press the card ejection button.
+X The card will come out.
+ Close the cover.
+Removing the Card
+Access lamp
+Card ejection button
+ The access lamp lights or blinks while the picture is taken, when 
+data is being transferred to the card and when data is being 
+recorded, read, or erased on the card. While the access lamp is lit 
+or blinking, never do any of the following. Doing so may damage 
+the image data. It may also damage the card or camera.
+• Opening the card slot cover.
+• Removing the battery.
+• Shaking or banging the camera around.
+ If the card already contains recorded images, the image number might 
+not start from 0001 (p.74).
+ If a card-related error message is displayed on the LCD monitor, remove 
+and reinstall the card. If the error persists, use a different card.
+If you can transfer all the images in the card to a personal computer, 
+transfer all the images and then format the card. The card may then 
+return to normal.
+ When holding a hard disk-type card, always hold its sides. You may 
+damage the card by holding its flat surfaces. Compared to CF cards, 
+hard disk-type cards are more vulnerable to vibration and physical 
+shock. If you use such a card, be careful not to subject the camera to 
+vibration or physical shock especially while recording or displaying 
+images.
+COPY
+
+31
+1 Remove the caps. Remove the rear lens cap and the 
+body cap by turning them as shown 
+by the arrow.
+2 Attach the lens. Align the red dots on the lens and 
+camera and turn the lens as shown by 
+the arrow until it snaps in place.
+3 On the lens, set the focus mode switch to <AF> (autofocus).
+ If it is set to <MF> (manual focus), 
+autofocus will not operate.
+4 Remove the front lens cap.
+Attaching and Detaching a Lens
+Attaching a Lens
+ Do not look at the sun directly through any lens. Doing so may cause 
+loss of vision.
+ The camera cannot be used with EF-S lenses.
+Minimizing Dust
+ When changing lenses, do it in a place with minimal dust.
+ When storing the camera without a lens attached, be sure to attach the 
+body cap to the camera.
+ Remove dust on the body cap before attaching it.
+COPY
+
+32
+Attaching and Detaching a Lens
+To zoom, turn the zoom ring on the lens 
+with your fingers.
+If you want to zoom, do it before 
+focusing. Turning the zoom ring after 
+achieving focus may throw off the 
+focus slightly.
+While pressing the lens release 
+button, turn the lens as shown by 
+the arrow.
+ Turn the lens until it stops, then 
+detach it.
+ Attach the dust cap to the detached 
+lens.
+When the dedicated EW-83H hood is attached to the EF24-105mm f/4L 
+IS USM lens, it can block unwanted light and also protect the front of 
+the lens from rain, snow, dust, etc. When storing the lens in a bag, etc., 
+you can also attach the hood in reverse.
+1 Align the hood’s red mark with the red index on the lens edge.
+2 Turn the hood to the position shown in the illustration.
+ Turn the hood clockwise to attach it 
+securely.
+About Zooming
+Detaching the Lens
+Attaching a Hood
+ If the hood is not properly attached, the image periphery might look dark.
+ When attaching or detaching the hood, grasp the hood toward the 
+bottom to turn it. If you hold the front edge of the hood, it might get bent 
+out of shape and become unable to turn.
+COPY
+
+33
+When you use the IS lens’ built-in Image Stabilizer, camera shake is 
+corrected to obtain a less blurred shot. The procedure explained here is 
+based on the EF24-105mm f/4L IS USM lens as an example.
+* IS stands for Image Stabilizer.
+1 Set the IS switch to <1>. Set the camera’s power switch to 
+<1>.
+2 Press the shutter button halfway.X The Image Stabilizer will operate.
+3 Take the picture. When the picture looks steady in the 
+viewfinder, press the shutter button 
+completely to take the picture.
+About the Lens Image Stabilizer
+ The Image Stabilizer is not effective for moving subjects.
+ The Image Stabilizer may not be effective for excessive shaking such as 
+on a rocking boat.
+ If you use the EF24-105mm f/4L IS USM lens for panned shots, 
+correction of camera shake might not be so effective.
+ The Image Stabilizer can operate with the focus mode switch set to 
+either <AF> or <MF>.
+ If the camera is mounted on a tripod, you can save battery power by 
+switching the IS switch to <2>.
+ The Image Stabilizer is effective even when the camera is mounted on a 
+monopod.
+COPY
+
+34
+Turn the dioptric adjustment 
+knob.
+ Turn the knob left or right so that the 
+nine AF points in the viewfinder look 
+sharp.
+To obtain sharp images, hold the camera still to minimize camera 
+shake.
+1. Wrap your right hand around the camera grip firmly.
+2. Hold the lens bottom with your left hand.
+3. Press the shutter button lightly with your right hand’s index finger.
+4. Press your arms and elbows lightly against the front of your body.
+5. Press the camera against your face and look through the viewfinder.
+6. To maintain a stable stance, place one foot in front of the other.
+Basic Operation
+Adjusting the Viewfinder Clarity
+Holding the Camera
+If the camera’s dioptric adjustment still cannot provide a sharp viewfinder 
+image, using Dioptric Adjustment Lens E (10 types, sold separately) is 
+recommended.
+Vertical shootingHorizontal shooting
+COPY
+
+35
+Basic Operation
+The shutter button has two steps. You can press the shutter button 
+halfway. Then you can further press the shutter button completely.
+Pressing halfway
+This activates autofocusing and 
+automatic exposure metering that sets 
+the shutter speed and aperture.
+The exposure setting (shutter speed and 
+aperture) is displayed on the LCD panel 
+and in the viewfinder (0).
+Pressing completely
+This releases the shutter and takes the 
+picture.
+Preventing Camera Shake
+Camera movement during the moment of exposure is called camera 
+shake. Camera shake can cause blurred pictures. To prevent camera 
+shake, note the following:
+• Hold and steady the camera as shown on the previous page.
+• Press the shutter button halfway to autofocus, then press the 
+shutter button completely.
+Shutter Button
+ In the d/s/f/a/F modes, pressing the <p> button halfway 
+will execute the same operation.
+ If you press the shutter button completely without pressing it halfway first 
+or if you press the shutter button halfway and then press it completely 
+immediately, the camera will take a moment before it takes the picture.
+ Even during the menu display, image playback, and image recording, 
+you can instantly go back to shooting-ready by pressing the shutter 
+button halfway.
+COPY
+
+36
+Basic Operation
+(1) After pressing a button, turn the 
+<6> dial.
+When you press a button, its function 
+remains selected for 6 seconds (9). 
+During this time, you can turn the <6> 
+dial to set the desired setting.
+When the function turns off or if you 
+press the shutter button halfway, the 
+camera will be ready to shoot.
+ Use this dial to select or set the 
+metering mode, AF mode, ISO 
+speed, AF point, etc.
+(2) Turn the <6> dial only.
+While looking at the viewfinder or LCD 
+panel, turn the <6> dial to set the 
+desired setting.
+ Use this dial to set the shutter speed, 
+aperture, etc.
+The <9> consists of a key with eight 
+directions and a button at the center.
+ Use it to select the AF point, correct 
+the white balance, move the AF point 
+or magnifying frame during Live View 
+shooting, scroll the playback image 
+during magnified view, operate the 
+Quick Control screen, etc.
+You can also use it to select or set 
+menu options (except [3 Erase 
+images] and [5 Format]).
+6 Using the Main Dial for Selecting
+9 Operating the Multi-controller
+COPY
+
+37
+Basic Operation
+Before using the <5> dial, set the power switch to <J>.
+(1) After pressing a button, turn the 
+<5> dial.
+When you press a button, its function 
+remains selected for 6 seconds (9). 
+During this time, you can turn the <5> 
+dial to set the desired setting.
+When the function turns off or if you 
+press the shutter button halfway, the 
+camera will be ready to shoot.
+ Use this dial to select or set the white 
+balance, drive mode, flash exposure 
+compensation, AF point, etc.
+(2) Turn the <5> dial only.
+While looking at the viewfinder or LCD 
+panel, turn the <5> dial to set the 
+desired setting.
+ Use this dial to set the exposure 
+compensation amount, the aperture 
+setting for manual exposures, etc.
+5 Using the Quick Control Dial for Selecting
+You can also do step (1) when the power switch is set to <1>.
+COPY
+
+38
+The shooting settings are displayed on the LCD monitor where you can 
+quickly select and set the functions. This is called the Quick Control 
+screen.
+1 Display the Quick Control screen. Press <9> straight down.
+X The Quick Control screen will appear. 
+()
+2 Set the desired setting. Use <9> to select a function.
+ In the <1> (Full Auto) mode, you 
+can select certain drive modes (p.85) 
+and the image-recording quality 
+(p.54).
+X A brief description of the selected 
+function is displayed on the screen’s 
+bottom.
+ Turn the <5> or <6> dial to 
+change the setting.
+3 Take the picture. Press the shutter button completely to 
+take the picture.
+X The LCD monitor turns off and the 
+captured image is displayed.
+9 Using the Quick Control Screen
+1 (Full Auto)
+d/s/f/a/F
+If [8C.Fn III -3: AF point selection method] is set to [1: Multi-controller 
+direct], the Quick Control screen cannot be displayed (p.179).
+Regarding the <C> (Creative Auto) mode, see page 51.
+COPY
+
+39
+9 Using the Quick Control Screen
+ On the Quick Control screen, select 
+the function and press <0>. The 
+respective setting screen will then 
+appear (except for the shutter speed 
+and aperture).
+ Turn the <5> or <6> dial to 
+change the setting.
+ Press <0> to return to the Quick 
+Control screen.
+Quick Control Screen Nomenclature
+Function Setting Display
+Aperture (p.92)
+Metering mode (p.95)
+Flash exposure 
+compensation (p.103)
+AF point (p.81)
+White balance (p.65)
+Shutter speed (p.90)
+ISO speed (p.57)
+Drive mode (p.85)
+AF mode (p.78)
+Image-recording
+quality (p.54)
+Picture Style (p.59)
+Exposure compensation/
+AEB setting (p.97)
+Shooting mode (p.20)
+Highlight tone priority 
+(p.177)
+<0>Ð
+Highlight tone priority <A> cannot be set with the Quick Control screen.
+COPY
+
+40
+You can set various functions with the menus such as the imagerecording quality, date/time, etc. While looking at the LCD monitor, you 
+use the <M> button on the camera back and the <6> <5> dials.
+3 Menu Operations
+*The [2/8/9] tabs are not displayed in the fully-automatic modes. When 
+a fully-automatic mode is set, there are menu items which are not displayed.
+d/s/f/a/F Menu Screen
+Tab
+Menu items
+Menu settings
+1 Shooting
+5 Set-up
+9 My Menu
+3 Playback
+Fully-Automatic Modes (1/C) Menu Screen
+<5> 
+Quick Control Dial
+<M> button
+<6> Main DialLCD monitor
+<0> button
+8 Custom Functions
+COPY

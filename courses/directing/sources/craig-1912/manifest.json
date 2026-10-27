@@ -1,0 +1,205 @@
+{
+ "key": "craig-1912",
+ "title": "On the Art of the Theatre",
+ "author": "Craig, Edward Gordon, 1872-1966",
+ "file": "Craig - On the Art of the Theatre (1912).pdf",
+ "format": "pdf",
+ "sha256": "4616e77c9c8b495730828e881c5ff2f838c5836accde8de7fbf5ba1ebf4f45fc",
+ "words": 76188,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 20",
+   "words": 1646,
+   "pages": [
+    1,
+    20
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Pages 21 to 40",
+   "words": 4345,
+   "pages": [
+    21,
+    40
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Pages 41 to 60",
+   "words": 5727,
+   "pages": [
+    41,
+    60
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Pages 61 to 80",
+   "words": 4654,
+   "pages": [
+    61,
+    80
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Pages 81 to 100",
+   "words": 4577,
+   "pages": [
+    81,
+    100
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Pages 101 to 120",
+   "words": 5337,
+   "pages": [
+    101,
+    120
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Pages 121 to 140",
+   "words": 4888,
+   "pages": [
+    121,
+    140
+   ]
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Pages 141 to 160",
+   "words": 4166,
+   "pages": [
+    141,
+    160
+   ]
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Pages 161 to 180",
+   "words": 3348,
+   "pages": [
+    161,
+    180
+   ]
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Pages 181 to 200",
+   "words": 3616,
+   "pages": [
+    181,
+    200
+   ]
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Pages 201 to 220",
+   "words": 3578,
+   "pages": [
+    201,
+    220
+   ]
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Pages 221 to 240",
+   "words": 4209,
+   "pages": [
+    221,
+    240
+   ]
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Pages 241 to 260",
+   "words": 3189,
+   "pages": [
+    241,
+    260
+   ]
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Pages 261 to 280",
+   "words": 4039,
+   "pages": [
+    261,
+    280
+   ]
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "Pages 281 to 300",
+   "words": 3102,
+   "pages": [
+    281,
+    300
+   ]
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "Pages 301 to 320",
+   "words": 3939,
+   "pages": [
+    301,
+    320
+   ]
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "Pages 321 to 340",
+   "words": 3454,
+   "pages": [
+    321,
+    340
+   ]
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "Pages 341 to 360",
+   "words": 3995,
+   "pages": [
+    341,
+    360
+   ]
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "Pages 361 to 380",
+   "words": 3912,
+   "pages": [
+    361,
+    380
+   ]
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "Pages 381 to 386",
+   "words": 467,
+   "pages": [
+    381,
+    386
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks",
+  "text quality looks poor (36% common English words, 1.4% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "text_quality": {
+  "common_word_share": 0.363,
+  "odd_character_share": 0.014
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-25",
+  "source_file": "Craig - On the Art of the Theatre (1912).pdf",
+  "note": "Date is when the file arrived in the source ingest folder."
+ }
+}

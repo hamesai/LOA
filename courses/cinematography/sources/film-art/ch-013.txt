@@ -1,0 +1,2504 @@
+CHAPTER 5 The Shot: Cinematography
+
+ 
+
+ 
+
+In controlling mise-en-scene, the filmmaker stages an event to be filmed. But a comprehensive account of cinema as a medium cannot stop with simply what is put in front of the camera. The shot does not exist until patterns are inscribed on a strip of film. The filmmaker also controls the cinematographic qualities of the shot—not only what is filmed but also how it is filmed. This “how” factor involves three areas of choice: (1) the photographic aspects of the shot, (2) the framing of the shot, and (3) the duration of the shot. This chapter surveys these three areas.
+
+The Photographic Image
+
+Cinematography (literally, writing in movement) depends to a large extent on photography (writing in light). Sometimes the filmmaker eliminates the camera and simply works on the film itself; but even when drawing, painting, or scratching directly on film, punching holes in it, or growing mold on it, the filmmaker is creating patterns of light on celluloid. Most often, the filmmaker uses a camera to regulate how light from some object will be photochemically registered on the sensitized film. In digital video, the light activates a computer chip, which translates the pattern into ones and zeroes. In either case, the filmmaker can select the range of tonalities, manipulate the speed of motion, and transform perspective.
+
+The Range of Tonalities
+
+An image may seem all grays or stark black and white. It may display a range of colors. Textures may stand out clearly or recede into a haze. The filmmaker may control all these visual qualities by manipulating the film stock, exposure, and developing procedures.
+
+Types of film stocks are differentiated by the chemical qualities of the emulsion. The choice of film stock has many artistic implications. For one thing, the image will have more or less contrast depending partly on the stock used. Contrast refers to the degree of difference between the darkest and lightest areas of the frame. A high-contrast image displays bright white highlights, stark black areas, and a narrow range of grays in between. A low-contrast image possesses a wide range of grays with no true white or black areas.
+
+As we have already seen in Chapter 4, human vision is highly sensitive to differences in color, texture, shape, and other pictorial properties. Contrasts within the image enable filmmakers to guide the viewer’s eye to important parts of the frame. Filmmakers control the degree of contrast in the image in various ways.
+
+“Both [cinematographer] Floyd [Crosby] and I wanted [High Noon] to look like a documentary, or a newsreel from the period of the 1880s, if film had existed at that time—which, of course, it did not. I believe that we came close to our goal by using flat lighting, a grainy texture in the printing and an unfiltered white sky.”
+
+— Fred Zinnemann, director
+
+ 
+
+In general, a very fast film stock, one that is very sensitive to reflected light, will produce a “low-contrast” look, while a slower, less light-sensitive one will be high in contrast. The amount of light used on the set during shooting will also affect the image’s degree of contrast. Moreover, the cinematographer may use particular developing procedures that increase or decrease contrast. For example, the strength and temperature of the chemicals and the length of time the film is left in the developing bath affect contrast. By manipulating the film stock, lighting factors, and developing procedures, filmmakers can achieve enormous variety in the look of the film image (5.1–5.3). Most black-and-white films employ a balance of grays, blacks, and whites.
+
+ 
+
+5.1 Most black-and-white films employ a balance of grays, blacks, and whites, as in this shot from Casablanca.
+
+ 
+
+ 
+
+ 
+
+5.2 In Breaking the Waves, color manipulation creates bleached-out images.
+
+ 
+
+ 
+
+ 
+
+5.3 The dream sequence early in Ingmar Bergman’s Wild Strawberries uses a combination of film stock, overexposure, and laboratory processing to create a bleached-out look.
+
+ 
+
+ 
+
+Jean-Luc Godard’s Les Carabiniers
+(5.4) offers a good example of what post-filming manipulations of film stock can accomplish. The shot’s newsreel-like quality is heightened by both the film stock and lab work that increased contrast. “The positive prints,” Godard has explained, “were simply made on a special Kodak high contrast stock…. Several shots, intrinsically too gray, were duped again some-times two or three times, always to their highest contrast.” The effect suggests old combat footage that has been recopied or shot under bad lighting conditions; the high-contrast look suited a film about the grubbiness of war.
+
+ 
+
+5.4 This shot from Les Carabiniers achieves a newsreel-like quality heightened by both the film stock and lab work that increased contrast.
+
+ 
+
+ 
+
+Different color film stocks yield varying color contrasts. Technicolor became famous for its sharply distinct, heavily saturated hues, as seen in such films as Meet Me in St. Louis
+(5.5). The richness of Technicolor was achieved by means of a specially designed camera and sophisticated printing process. To take another example, Soviet filmmakers used a domestically made stock that tends to lower contrast and give the image a murky greenish-blue cast. Andrei Tarkovsky exploited just these qualities in the monochromatic color design of his shadowy Stalker
+(5.6). Len Lye’s abstract Rainbow Dance uses specific features of the English stock Gasparcolor (5.7).
+
+ 
+
+5.5 The trolley scene in Meet Me in St. Louis shows off the vivid colors possible with the Technicolor process.
+
+ 
+
+ 
+
+ 
+
+5.6 The use of blues in Stalker makes the action seem almost to be taking place underwater.
+
+ 
+
+ 
+
+ 
+
+5.7 Lye manipulated Gasparcolor paper stock to create pure, saturated silhouettes that split and recombine in Rainbow Dance.
+
+ 
+
+ 
+
+The tonalities of color stock may also be altered by laboratory processes. The person assigned the role of color timer or grader has a wide choice about the color range of a print. A red patch in the image may be printed as crimson, pink, or almost any shade in between. Often the timer consults with the director to select a key tone that will serve as a reference point for color relations throughout the film. Increasingly, cinematographers are using computer grading for selected shots or even an entire film. (See “A Closer Look,”
+pp. 184–185.)
+
+Certain procedures may also add color to footage originally shot in black and white. Before 1930, filmmakers often used tinting and toning. Tinting is accomplished by dipping the already developed film into a bath of dye. The dark areas remain black and gray, while the lighter areas pick up the color (5.8).
+Toning worked in an opposite fashion. The dye was added during the developing of the positive print. As a result, darker areas are colored, while the lighter portions of the frame remain white or only faintly colored (5.9).
+
+ 
+
+5.8 Tinting creates a brownish color across the entire frame in the 1914 film The Wrath of the Gods.
+
+ 
+
+ 
+
+ 
+
+5.9 In Cenere, the deep blue of the dark areas and the nearly white patches are characteristic of toning.
+
+ 
+
+ 
+
+Certain conventions grew up around tinting and toning. Night scenes, as in 5.9 (from Cenere, a 1916 Italian film) were often colored blue. Firelight was frequently colored red, while interiors were commonly amber. The Wrath of the Gods (1914) uses a brown tint to suggest the glow of an erupting volcano (5.8). Some later filmmakers revived these processes. Vera Chytilova employs a crimson toning in Daisies
+(5.10).
+
+ 
+
+5.10 Toning in Daisies.
+
+ 
+
+ 
+
+A rarer method of adding color is the difficult process of hand coloring. Here portions of black-and-white images are painted in colors, frame by frame. The ship’s flag in Sergei Eisenstein’s Potemkin was originally hand colored red against a blue sky. A modern use of hand coloring may be seen in Makavejev’s Innocence Unprotected
+(5.11).
+
+ 
+
+5.11 In Innocence Unprotected, stylized images are created by painting multiple colors within a shot.
+
+ 
+
+ 
+
+There are many other ways in which the filmmaker can manipulate the image’s tonalities after filming. In Reflections on Black, Stan Brakhage scratched off the emulsion in certain parts of the shot (5.12). Lars von Trier shot Breaking the Waves on 35mm film, then transferred the footage to video and used digital manipulation to drain out much of the color. He transferred the footage back to film, resulting in desaturated images that tremble and shimmer (5.2).
+
+ 
+
+5.12 By scratching the emulsion, Brakhage emphasizes the eye motif that runs through Reflections on Black.
+
+ 
+
+ 
+
+The range of tonalities in the image is most crucially affected by the exposure of the image during filming. The filmmaker usually controls exposure by regulating how much light passes through the camera lens, though images shot with correct exposure can also be overexposed or underexposed in developing and printing. We commonly think that a photograph should be well exposed—neither underexposed (too dark, not enough light admitted through the lens) nor overexposed (too bright, too much light admitted through the lens). But even correct exposure usually offers some latitude for choice; it is not an absolute.
+
+The filmmaker can manipulate exposure for specific effects. American film noir of the 1940s sometimes underexposed shadowy regions of the image in keeping with low-key lighting techniques. In Vidas Secas, Nelson Pereira dos Santos overexposed the windows of the prison cell to sharpen the contrast between the prisoner’s confinement and the world of freedom outside (5.13). In the Moria sequence, The Lord of the Rings: The Fellowship of the Ring used overexposure in several shots. In 5.14, the white glare was achieved by digital grading that simulated photographic overexposure.
+
+ 
+
+5.13 Deliberate overexposure of windows in Vidas Secas.
+
+ 
+
+ 
+
+ 
+
+5.14 In The Fellowship of the Ring, the overexposure of the wizard’s staff makes the Fellowship a bright island threatened by countless orcs in the surrounding darkness.
+
+ 
+
+ 
+
+Choices of exposure are particularly critical in working with color. For shots of Kasba, Kumar Shahani chose to emphasize tones within shaded areas, and so he exposed them and let sunlit areas bleach out somewhat (5.15, 5.16).
+
+ 
+
+5.15 In Kasbah, the vibrant hues of the store’s wares stand out, while the countryside behind is overexposed …
+
+ 
+
+ 
+
+ 
+
+5.16 … while at other moments underexposure for the shaded porches emphasizes the central outdoor area.
+
+ 
+
+ 
+
+Exposure can in turn be affected by filters—slices of glass or gelatin put in front of the lens of the camera or printer to reduce certain frequencies of light reaching the film. Filters thus alter the range of tonalities in quite radical ways. Before modern improvements in film stocks and lighting made it practical to shoot most outdoor night scenes at night, filmmakers routinely made such scenes by using blue filters in sunlight—a technique called day for night
+(5.17). Hollywood cinematographers since the 1920s have sought to add glamour to close-ups, especially of women, by means of diffusion filters and silks placed over light sources.
+
+ 
+
+5.17 In The Searchers, this scene of the protagonists spying on an Indian camp from a bluff was shot in sunlight using day-for-night filters.
+
+ 
+
+ 
+
+The Speed of Motion
+
+A gymnast’s performance seen in slow motion, ordinary action accelerated to comic speed, a tennis serve stopped in a freeze-frame—we are all familiar with the effects of the control of the speed of motion. Of course, the filmmaker who stages the event to be filmed can (within limits) dictate the pace of the action. But that pace can also be controlled by a photographic power unique to cinema: the control of the speed of movement seen on the screen.
+
+The speed of the motion we see on the screen depends on the relation between the rate at which the film was shot and the rate of projection. Both rates are calculated in frames per second. The standard rate, established when synchronized-sound cinema came in at the end of the 1920s, was 24 frames per second (fps). Today’s 35mm cameras commonly offer the filmmaker a choice of anything between 8 and 64 fps, with specialized cameras offering still wider range of choice.
+
+If the movement is to look accurate on the screen, the rate of shooting should correspond to the rate of projection. That’s why silent films sometimes look jerky today: films shot at anywhere from 16 to 20 fps are speeded up when shown at 24 fps. Projected at the correct speed, silent films can look as smooth as movies made today.
+
+As the silent films indicate, if a film is exposed at fewer frames per second than the projection, the screen action will look speeded up. This is the fast-motion effect sometimes seen in comedies. But fast motion has long been used for other purposes. In F. W. Murnau’s Nosferatu, the vampire’s coach rushes skittishly across the landscape, suggesting his supernatural power. In Godfrey Reggio’s Koyaanisqatsi, delirious fast motion renders the hectic rhythms of urban life (5.18). More recent films have used fast motion to grab our attention and accelerate the pace, whisking us through a setting to the heart of the action.
+
+ 
+
+5.18 Cars become blurs of light when shot in fast motion for Koyaanisqatsi.
+
+ 
+
+ 
+
+The more frames per second shot, the slower the screen action will appear. The resulting slow-motion effect is used notably in Dziga Vertov’s Man with a Movie Camera to render sports events in detail, a function that continues to be important today. The technique can also be used for expressive purposes. In Rouben Mamoulian’s Love Me Tonight, the members of a hunt decide to ride quietly home to avoid waking the sleeping deer; their ride is filmed in slow motion to create a comic depiction of noiseless movement. Today slow-motion footage often functions to suggest that the action takes place in a dream or fantasy or to convey enormous power, as in a martial-arts film. Slow-motion scenes of lovers walking add a lyrical rhythm to Wong Kar-wai’s In the Mood for Love. Slow motion is also used for emphasis, becoming a way of dwelling on a moment of spectacle or high drama.
+
+To enhance expressive effects, filmmakers can change the speed of motion in the course of a shot. Often the change of speed helps create special effects. In Die Hard a fireball bursts up an elevator shaft toward the camera. During the filming, the fire at the bottom of the shaft was filmed at 100 fps, slowing down its progress, and then shot at faster speeds as it erupted upward, giving the impression of an explosive acceleration. For Bram Stoker’s Dracula, director Francis Ford Coppola wanted his vampire to glide toward his prey with supernatural suddenness. Cinematographer Michael Ballhaus used a computer program to control the shutter and the speed of filming, allowing smooth and instantaneous changes from 24 fps to 8 fps and back again.
+
+Digital postproduction allows filmmakers to create the effect of variable shooting speeds through ramping, shifting speed of movement very smoothly and rapidly. In an early scene of Michael Mann’s The Insider, researcher Jeffrey Wigand leaves the tobacco company that has just fired him. As he crosses the lobby toward a revolving door, his brisk walk suddenly slows to a dreamlike drifting. The point of this very noticeable stylistic choice becomes apparent only in the film’s last shot. Lowell Bergman, the TV producer who has helped Wigand reveal that addictive substances are added to cigarettes, has been dismissed from CBS. Bergman strides across the lobby, and as he passes through the revolving door, his movement glides into extreme slow motion. The repetition of the technique points out the parallels between two men who have lost their livelihoods as a result of telling the truth—two insiders who have become outsiders.
+
+Extreme forms of fast and slow motion alter the speed of the depicted material even more radically. Time-lapse cinematography permits us to see the sun set in seconds or a flower sprout, bud, and bloom in a minute. For this, a very low shooting speed is required—perhaps one frame per minute, hour, or even day. For high-speed cinematography, which may seek to record a bullet shattering glass, the camera may expose hundreds, or even thousands, of frames per second. Most cameras can be used for time-lapse shooting, but high-speed cinematography requires specially designed cameras.
+
+After filming, the filmmaker can still control the speed of movement on the screen through various laboratory procedures. Until the early 1990s, the most common means used was the optical printer. This device rephotographs a film, copying all or part of each original frame onto another reel of film. The filmmaker can use the optical printer to skip frames (accelerating the action when projected), reprint a frame at desired intervals (slowing the action by stretch printing), stop the action (repeating a frame over and over, to freeze the projected image for seconds or minutes), or reverse the action. Some silent films are stretch-printed with every other frame repeated, so that they may run more smoothly at sound speed. We are familiar with freeze-framing, slow-motion, and reverse-motion printing effects from the instant replays of sports coverage and investigative documentaries. Many experimental films have made striking use of the optical printer’s possibilities, such as Ken Jacobs’s Tom Tom the Piper’s Son, which explores the images of an early silent film by enlarging portions of its shots. Today the optical printer has largely been replaced by digital manipulations of the speed of movement.
+
+Perspective
+
+You are standing on railroad tracks, looking toward the horizon. The tracks not only recede but also seem to meet at the horizon. You glance at the trees and buildings along the tracks. They diminish by simple, systematic rule: the closer objects look larger, the farther objects look smaller—even if they are actually of uniform size. The optical system of your eye, registering light rays reflected from the scene, supplies a host of information about scale, depth, and spatial relations among parts of the scene. Such relations are called perspective relations.
+
+The lens of a photographic camera does roughly what your eye does. It gathers light from the scene and transmits that light onto the flat surface of the film to form an image that represents size, depth, and other dimensions of the scene. One difference between the eye and the camera, though, is that photographic lenses may be changed, and each type of lens will render perspective in different ways. If two different lenses photograph the same scene, the perspective relations in the resulting images could be drastically different. A wide-angle lens could exaggerate the depth you see down the track or could make the foreground trees and buildings seem to bulge; a telephoto lens could drastically reduce the depth, making the trees seem very close together and nearly the same size.
+
+The Lens: Focal Length
+
+Control of perspective in the image is very important to the filmmaker. The chief variable in the process is the focal length of the lens. In technical terms, the focal length is the distance from the center of the lens to the point where light rays converge to a point of focus on the film. The focal length alters the perceived magnification, depth, and scale of things in the image. We usually distinguish three sorts of lenses on the basis of their effects on perspective:
+
+1. The short-focal-length (wide-angle) lens
+
+In 35mm-gauge cinematography, a lens of less than 35mm in focal length is considered a wide-angle lens. Such lenses tend to distort straight lines lying near the edges of the frame, bulging them outward. Note the distortion in two frames from a shot in Nicholas Roeg’s Don’t Look Now
+(5.19, 5.20). When a wide-angle lens is used for a medium shot or close-up, the distortion of shape may become very evident (5.21).
+
+The lens of short focal length has the property of exaggerating depth (5.22). Because distances between foreground and background seem greater, the wide-angle lens also makes figures moving to or from the camera seem to cover ground more rapidly.
+
+2. The middle-focal-length (medium) lens
+
+A common lens length for a medium lens is 50mm. This lens seeks to avoid noticeable perspective distortion. With a medium lens, horizontal and vertical lines are rendered as straight and perpendicular. (Compare the bulging effect of the wide-angle lens.) Parallel lines should recede to distant vanishing points, as in our railroad tracks example. Foreground and background should seem neither stretched apart (as with the wide-angle lens) nor squashed together (as with the telephoto lens). A medium lens was used for 5.23; contrast the sense of distance among the figures achieved in 5.22.
+
+3. The long-focal-length
+(telephoto) lens
+
+Whereas wide-angle lenses distort space laterally, longer lenses flatten the space along the camera axis. Cues for depth and volume are reduced. The planes seem squashed together, much as when you look through a telescope or binoculars. In 5.24, from Chen Kaige’s Life on a String, the long lens pushes the crowd members almost to the same plane. It also makes the rapids behind the men virtually a two-dimensional backdrop.
+
+ 
+
+5.19 In Don’t Look Now, as the camera swivels to follow the walking character, the wide-angle lens makes a street lamp he passes appear to lean rightward …
+
+ 
+
+ 
+
+ 
+
+5.20 … and then leftward.
+
+ 
+
+ 
+
+ 
+
+5.21 Wide-angle distortion in Mikhail Kalatozov’s The Cranes Are Flying.
+
+ 
+
+ 
+
+ 
+
+5.22 In this scene from The Little Foxes, the lens makes the characters seem farther from one another than we would expect in so relatively tight a grouping.
+
+ 
+
+ 
+
+ 
+
+5.23 A shot made with a medium lens in His Girl Friday.
+
+ 
+
+ 
+
+ 
+
+5.24 The long lens in Chen Kaige’s Life on a String.
+
+ 
+
+ 
+
+“I’m standing around waiting to see where the 50mm is going to be, or what size lens they’re putting on, and in that unwritten book in my brain, I said, ‘Don’t ever let them shoot you full face, on a wide-angle lens, you’ll end up looking like Dumbo.’”
+
+— Tony Curtis, actor
+
+ 
+
+“In New York, New York, we shot only with a 32mm lens, the whole movie. We tried to equate the old style of framing, the old style meaning 1946–53.”
+
+— Martin Scorsese, director
+
+ 
+
+Today long lenses typically are 100mm or greater in length. They are commonly used in the filming or televising of sports events, since they allow the cinematographer to magnify action at a distance. (For this reason, long lenses are also called telephoto lenses.) In a baseball game, there will invariably be shots taken from almost directly behind the pitcher, using a camera located beyond the center field wall. You have probably noticed that such shots make the umpire, catcher, batter, and pitcher look unnaturally close to one another. What a very long lens can do to space is dramatically illustrated throughout Godfrey Reggio’s Koyaanisqatsi
+(5.25).
+
+ 
+
+5.25 In Koyaanisqatsi, an airport is filmed from a great distance, and the long lens makes it appear that a plane is landing on a crowded highway.
+
+ 
+
+ 
+
+A long-focal-length lens also affects subject movement, flattening depth. Thus a figure moving toward the camera takes more time to cover what seems to be a small distance. The running-in-place shots in The Graduate and other films of the 1960s and 1970s were produced by lenses of very long focal length. In Tootsie, the introduction of Michael Dorsey disguised as Dorothy Michaels occurs in a lengthy telephoto shot in order for us to recognize his altered appearance and to notice that none of the people around him finds “her” unusual (5.26–5.28).
+
+ 
+
+5.26 In Tootsie, Dorothy becomes visible among the crowd at a considerable distance from the camera …
+
+ 
+
+ 
+
+ 
+
+5.27 … and after taking 20 steps seems only slightly closer until …
+
+ 
+
+ 
+
+ 
+
+5.28 … “she” finally grows somewhat larger, after a total of about 36 steps.
+
+ 
+
+ 
+
+Lens length can distinctly affect the spectator’s experience. For example, expressive qualities can be suggested by lenses that distort objects or characters. We tend to see the man in 5.29 as looming, even aggressive. Moreover, choice of the lens can make a character or object blend into the setting (5.26) or stand out in sharp relief (5.29). Filmmakers may exploit the flattening effects of the long-focal-length lens to create solid masses of space (5.30), as in an abstract painting.
+
+ 
+
+5.29 In Ilya Trauberg’s China Express, a wide-angle lens creates foreground distortion.
+
+ 
+
+ 
+
+ 
+
+5.30 In Eternity and a Day, a long lens makes the beach and sea appear as two vertical blocks.
+
+ 
+
+ 
+
+“I tend to rely on only two kinds of lenses to compose my frames: very wide angle and extreme telephoto. I use the wide angle because when I want to see something, I want to see it completely, with the most detail possible. As for the telephoto, I use it for close-ups because I find it creates a real ‘encounter’ with the actor. If you shoot someone’s face with a 200-millimeter lens, the audience will feel like the actor is really standing in front of them. It gives presence to the shot. So I like extremes. Anything in between is of no interest to me.”
+
+— John Woo, director
+
+ 
+
+A director can use lens length to surprise us, as Kurosawa does in Red Beard. When the mad patient comes into the intern’s room, a long-focal-length lens filming from behind him initially makes her seem to be quite close to him (5.31). But a cut to a more perpendicular angle shows that the patient and the intern are actually several feet apart and that he is not yet in danger (5.32).
+
+ 
+
+5.31 In Kurosawa’s Red Beard, the mad patient in the background seems threateningly to approach the intern …
+
+ 
+
+ 
+
+ 
+
+5.32 … until a cut reveals that she is across the room from him.
+
+ 
+
+ 
+
+There is one sort of lens that offers the director a chance to manipulate focal length and to transform perspective relations during a single shot. A zoom lens is optically designed to permit the continuous varying of focal length. Originally created for aerial and reconnaissance photography, zoom lenses gradually became a standard tool for newsreel filming. It was not, however, the general practice to zoom during shooting. The camera operator varied the focal length as desired and then started filming. In the late 1950s, however, the increased portability of cameras led to a trend toward zooming while filming.
+
+Since then, the zoom has sometimes been used to substitute for moving the camera forward or backward. Although the zoom shot presents a mobile framing, the camera remains fixed. During a zoom, the camera remains stationary, and the lens simply increases or decreases its focal length. Onscreen, the zoom shot magnifies or demagnifies the objects filmed, excluding or including surrounding space, as in 5.33 and 5.34, from Francis Ford Coppola’s The Conversation. The zoom can produce interesting and peculiar transformations of scale and depth, as we shall see when we examine Michael Snow’s Wavelength.
+
+ 
+
+5.33 In the opening of The Conversation, a long, slow zoom-in arouses considerable uncertainty about its target …
+
+ 
+
+ 
+
+ 
+
+5.34 … until it finally centers on a mime and our protagonist, surveillance technician Harry Caul.
+
+ 
+
+ 
+
+The impact that focal length can have on the image’s perspective qualities is dramatically illustrated in Ernie Gehr’s abstract experimental film Serene Velocity. The scene is an empty corridor. Gehr shot the film with a zoom lens, but he did not zoom while filming the shot. Instead, the zoom permitted him to change the lens’s focal length between takes. As Gehr explains,
+
+[I] divided the mm range of the zoom lens in half and starting from the middle I recorded changes in mm positions…. The camera was not moved at all. The zoom lens was not moved during recording either. Each frame was recorded individually as a still. Four frames to each position. To give an example: I shot the first four frames at 50mm. The next four frames I shot at 55mm. And then, for a certain duration, approximately 60 feet, I went back and forth, four frames at 50mm, four frames at 55mm; four frames at 50mm, four frames at 55mm; etc…. for about 60 feet. Then I went to 45–60 [mm] and did the same for about 60 feet. Then to 40–65, and so on.
+
+ 
+
+The resulting film presents an image whose perspective relations pulsate rhythmically—first with little difference in size and scale, but gradually with greater tension between a telephoto image and a wide-angle image (5.35). In a sense, Serene Velocity takes as its subject the effect of focal length on perspective.
+
+ 
+
+5.35 In Serene Velocity, telephoto shots of a hallway are juxtaposed to wide-angle shots taken from the same spot.
+
+ 
+
+ 
+
+The Lens: Depth of Field and Focus
+
+Focal length not only affects how shape and scale are magnified or distorted. It also affects the lens’s depth of field—the range of distances before the lens within which objects can be photographed in sharp focus. A lens with a depth of field of 10 feet to infinity will render any object in that range clearly, but the sharpness of the image will decrease when the object moves closer to the lens (say, to 4 feet). All other things being equal, a short-focal-length (wide-angle) lens has a relatively greater depth of field than does a long-focal-length (telephoto) lens.
+
+Depth of field should not be confused with the concept of deep space, discussed in Chapter 4. Deep space is a term for the way the filmmaker has staged the action on several different planes, regardless of whether all of these planes are in focus. In the case of Our Hospitality, those planes usually are in sharp focus, but in other films, not every plane of deep space is in focus. In this shot from Simple Men
+(5.36), we can see three planes of depth, but deep focus isn’t used. The robber and the security guard she holds at pistol point in the middle ground are in focus. But the yellow railing forming a distinct foreground plane is out of focus. In the distant background, visible between the rails, stands the female robber’s partner. He’s out of focus, too. The example shows that deep space is a property of mise-en-scene, the techniques that affect what is placed in front of the camera. Depth of field depends on the camera itself, with the lens determining what layers of the mise-en-scene are in focus.
+
+ 
+
+5.36 In the first shot of Simple Men, the foreground railing and the man in the distance are out of focus, emphasizing the drama in focus in the middle ground.
+
+ 
+
+ 
+
+As the Simple Men example suggests, selective focus is often used to call attention to the main action and to deemphasize less significant parts of the surroundings. Often this involves centering the main character in the foreground and throwing the background out of focus (5.37).
+
+ 
+
+5.37 Agnès Varda’s Vagabonde (Sans toi ni loi).
+
+ 
+
+ 
+
+If depth of field controls perspective relations by determining which planes will be in focus, what choices are open to the filmmaker? He or she may opt for what is usually called selective focus—choosing to focus on only one plane and letting the other planes blur. This is what director Hal Hurtley does in the Simple Men example. Selective focus typically draws the viewer’s attention to the main character or object (5.37). The technique can be used for a more abstract compositional effect as well (5.38).
+
+ 
+
+5.38 Leos Carax’s Boy Meets Girl.
+
+ 
+
+ 
+
+In Hollywood during the 1940s, partly due to the influence of Citizen Kane, filmmakers began using faster film, shorter-focal-length lenses, and more intense lighting to yield a greater depth of field. The contract-signing scene from Citizen Kane
+(5.39) offers a famous example. This practice came to be called deep focus.
+
+ 
+
+5.39 In Citizen Kane, from one plane near the lens (Bernstein’s head), through several planes in the middle ground, to the wall far in the distance, everything is in sharp focus.
+
+ 
+
+ 
+
+Deep-focus cinematography became a major stylistic option in the 1940s and 1950s. A typical usage is illustrated in 5.40. The technique was even imitated in animated cartoons (4.133, from Chuck Jones’s One Froggy Evening). During the 1970s and 1980s, deep-focus cinematography was revived in Steven Spielberg’s work, notably Jaws and Close Encounters of the Third Kind, and in the films of Brian De Palma (5.41). Today, extreme deep-focus effects are common in digital video (5.42).
+
+ 
+
+5.40 Anthony Mann’s The Tall Target.
+
+ 
+
+ 
+
+ 
+
+5.41 In The Untouchables, a conversation scene is played in the foreground while setting and distant figures are also kept in focus.
+
+ 
+
+ 
+
+ 
+
+5.42 The small size of the chip in a digital video camera yields extreme depth of field. If this shot, from Agnès Varda’s The Gleaners and I, had been made on film, either Varda’s hand or the truck would have been far more out of focus.
+
+ 
+
+ 
+
+The filmmaker may also have the option of adjusting perspective while filming by racking focus, or pulling focus. A shot may begin with an object in the foreground sharply visible and the rear plane fuzzy, then rack focus so that the background elements come into crisp focus and the foreground becomes blurred. Alternatively, the focus can rack from background to foreground, as in 5.43 and 5.44, from Bernardo Bertolucci’s Last Tango in Paris.
+
+ 
+
+5.43 In this shot from Last Tango in Paris, the woman, bench, and wall in the distance are in focus, while the man in the foreground is not …
+
+ 
+
+ 
+
+ 
+
+5.44 … but after the camera racks focus, the man in the foreground becomes sharp and the background fuzzy.
+
+ 
+
+ 
+
+“If I made big-budget films, I would do what the filmmakers of twenty years ago did: use 35, 40, and 50mm [lenses] with lots of light so I could have that depth of field, because it plays upon the effect of surprise. It can give you a whole series of little tricks, little hiding places, little hooks in the image where you can hang surprises, places where they can suddenly appear, just like that, within the frame itself. You can create the off-frame within the frame.”
+
+— Benoit Jacquot, director
+
+ 
+
+Special Effects
+
+The image’s perspective relations may also be created by means of special effects. We have already seen (p. 123) that the filmmaker can create setting by use of models and computer-generated images. Alternatively, separately photographed planes of action may be combined on the same strip of film to create the illusion that the two planes are adjacent. The simplest way to do this is through superimposition. By double exposure either in the camera or in laboratory printing, one image is laid over another. Superimpositions have been used since the earliest years of the cinema. One common function is to render ghosts, which appear as translucent figures. Superimpositions also frequently provide a way of conveying dreams, visions, or memories. Typically, these mental images are shown against a close view of a face (5.45).
+
+ 
+
+5.45 In the opening of Quentin Tarantino’s Kill Bill, Vol. 1, the Bride sees the first victim of her revenge, and her memory of a violent struggle is superimposed over a tight framing of her eyes.
+
+ 
+
+ 
+
+More complex techniques for combining strips of film to create a single shot are usually called process, or composite,
+shots. These techniques can be divided into projection process work and matte process work.
+
+In projection process work, the filmmaker projects footage of a setting onto a screen, then films actors performing in front of the screen. Classical Hollywood filmmaking began this process in the late 1920s, as a way to avoid taking cast and crew on location. The Hollywood technique involved placing the actors against a translucent screen and projecting a film of the setting from behind the screen. The whole ensemble could then be filmed from the front (5.46).
+
+ 
+
+5.46 Boom Town.
+
+ 
+
+ 
+
+Rear projection, as this system was known, seldom creates very convincing depth cues. Foreground and background tend to look starkly separate, partly because of the absence of cast shadows from foreground to background and partly because all background planes tend to seem equally diffuse (5.47).
+
+ 
+
+5.47 In Hitchcock’s Vertigo, the seascape in the rear plane was shot separately and used as a back-projected setting for an embrace filmed under studio lighting.
+
+ 
+
+ 
+
+Front projection, which came into use in the late 1960s, projects the setting onto a two-way mirror, angled to throw the image onto a high-reflectance screen. The camera photographs the actors against the screen by shooting through the mirror (5.48). The results of front projection can be clearly seen in the “Dawn of Man” sequence of 2001: A Space Odyssey, the first film to use front projection extensively. (At one moment, a saber-toothed tiger’s eyes glow, reflecting the projector’s light.) Because of the sharp focus of the projected footage, front projection blends foreground and background planes fairly smoothly. The nonrealistic possibilities of front projection have been explored by Hans-Jürgen Syberberg. In his film of Wagner’s opera Parsifal, front projection conjures up colossal, phantasmagoric landscapes (5.49). Front and rear projection have largely been replaced by digital techniques. Here action is filmed in front of a large blue or green screen rather than a film image, with the background later added by digital manipulation.
+
+ 
+
+5.48 A front-projection system.
+
+ 
+
+ 
+
+ 
+
+5.49 In Syberberg’s film of Wagner’s Parsifal, front projection conjures up colossal, phantasmagoric landscapes.
+
+ 
+
+ 
+
+Composite filming can also be accomplished by matte work. A matte is a portion of the setting photographed on a strip of film, usually with a part of the frame empty. Through laboratory printing, the matte is joined with another strip of film containing the actors. One sort of matte involves a painting of the desired areas of setting, which is then filmed. The footage is combined with footage of action, segregated in the blank portions of the painted scenery. In this way, a matte can create an entire imaginary setting for the film. Stationary mattes of this sort have made glass shots virtually obsolete and were so widely used in commercial cinema that until the late 1990s the matte painter was a mainstay of production. In recent years, matte paintings have been made using computer programs, but they are used in the same way to create scenery (5.50).
+
+ 
+
+5.50 In this shot from The Fellowship of the Ring, the distant part of the building, the cliffs, and the sky are all on a matte painting created by computer.
+
+ 
+
+ 
+
+With a matte painting, however, the actor cannot move into the painted portions of the frame without seeming to disappear. To solve this problem, the filmmaker can use a traveling matte. Here the actor is photographed against a blank, usually blue, background. In laboratory printing, the moving outline of the actor is cut out of footage of the desired background. After further lab work, the shot of the actor is jigsawed into the moving gap in the background footage. It is traveling mattes that present shots of Superman’s flight or of spaceships hurtling through space (5.51). The animated figures in Who Framed Roger Rabbit?
+(5.52) were matted into liveaction footage shot separately.
+
+ 
+
+5.51 In Star Wars: Episode IV—A New Hope, the take-off of the Millennium Falcon was filmed as a model against a blue screen and matted into a shot of a building with imperial stormtroopers firing upward.
+
+ 
+
+ 
+
+ 
+
+5.52 In Who Framed Roger Rabbit? a human director inhabits the same world as the cartoon characters starring in his film.
+
+ 
+
+ 
+
+Before the perfecting of computer-generated imagery, traveling mattes were commonly used in all genres of mainstream cinema. Usually, they function to create a realistic-looking locale or situation. But they can also generate an abstract, deliberately unrealistic, image (5.53).
+
+ 
+
+5.53 In Rumble Fish, a black-and-white film, Francis Ford Coppola uses traveling mattes to color the fish in an aquarium.
+
+ 
+
+ 
+
+For many films, different types of special effects will be combined. The illustration from The Fellowship of the Ring in 5.50 includes a partial full-size set with an actor at the left, a miniature set in the middle ground, a matte painting of the background elements, and computer-animated waterfalls and falling leaves. A single shot of a science fiction film might animate miniatures or models through stop action, convey their movements by a traveling matte, and add animated ray bursts in superimposition while a matte painting supplies a background. For the train crash in The Fugitive, front and rear projection were used simultaneously within certain shots.
+
+You may have noticed that superimpositions, projection process work, and matte work all straddle two general bodies of film techniques. These special effects all require arrangement of the material before the camera, so to some extent they are aspects of mise-en-scene. But they also require control of photographic choices (such as refilming and making laboratory adjustments) and affect perspective relations, so they involve cinematography as well. We have considered them here because, unlike effects employing models and miniatures, these effects are created through specifically photographic tricks. The general term for them, optical effects, suggests their photographic nature.
+
+CONNECT TO THE BLOG
+
+CGI can create spectacle, and some critics claim that the special effects make the story unimportant. We argue the opposite and talk about a film historian who backs us up in “Classical cinema lives! New evidence for old norms.”
+
+See
+www.davidbordwell.net/blog/?p=412.
+
+With the rise of computer-generated effects, the fusion of mise-en-scene and cinematography became even more seamless. Digital compositing allows the filmmaker to shoot some action with performers and then add backgrounds, shadows, or movement that would previously have required photographed mattes, multiple exposures, or optical printing. In Speed, the audience sees a city bus leap a broken freeway. The stunt was performed on a ramp designed for the jump, and the highway background was drawn digitally as a matte painting (5.54). With the proliferation of specialized programs, computer-generated imagery (CGI) increasingly provides convincing effects that have all but replaced traditional optical printing. (See “A Closer Look.”)
+
+ 
+
+5.54 Computer-generated imagery created a gap in the freeway for the bus to leap in Speed.
+
+ 
+
+ 
+
+Like other film techniques, photographic manipulations of the shot are not ends in themselves. Rather, they function within the overall context of the film. Specific treatments of tonalities, speed of motion, or perspective should be judged less on criteria of realism than on criteria of function. For instance, most Hollywood filmmakers try to make their rear-projection shots unnoticeable. But in Jean-Marie Straub and Danièle Huillet’s The Chronicle of Anna Magdalena Bach, the perspective relations are yanked out of kilter by an inconsistent rear projection (5.55). Since the film’s other shots have been filmed on location in correct perspective, this blatantly artificial rear projection calls our attention to the visual style of the entire film.
+
+ 
+
+5.55 The foreground plane of this shot from The Chronicle of Anna Magdalena Bach shows Bach, shot straight on, playing a harpsichord—yet the back-projected building behind him is shot from a low angle.
+
+ 
+
+ 
+
+Similarly, 5.58 looks unrealistic unless we posit the man as being about three feet long. But director Vera Chytilova has used setting, character position, and deep focus to make a comic point about the two women’s treatment of men. Such trick perspective was designed to be unnoticeable in The Lord of the Rings, where an adult actor playing a three-foot-tall hobbit might be placed considerably farther from the camera than an actor playing a taller character, yet the two appeared to be talking face to face. (See “A Closer Look,”
+p. 184) The filmmaker chooses not only how to register light and movement photographically but also how those photographic qualities will function within the overall formal system of the film.
+
+ 
+
+5.58 In Daisies, perspective cues create a comic optical illusion.
+
+ 
+
+ 
+
+A CLOSER LOOK
+
+FROM MONSTERS TO THE MUNDANE: Computer-Generated Imagery in The Lord of the Rings
+
+The films adapted from J.R.R. Tolkien’s trilogy The Lord of the Rings (The Fellowship of the Ring, The Two Towers, and The Return of the King) show how CGI can be used for impressive special effects: huge battle scenes, plausible monsters, and magical events. Less obviously, the films also indicate how CGI shapes many aspects of production, from the spectacular to the mundane.
+
+CGI was used at every stage of production. In preproduction, a sort of animated storyboard (a previz, for “previsualization”) was made, consisting of animatics, or rough, computer-generated versions of the scenes. Each of the three previzes was roughly as long as each finished film and helped to coordinate the work of the huge staff involved in both digital and physical tasks.
+
+During production of the three films, CGI helped create portions of the mise-en-scene. Many shots digitally stitched together disparate elements, blending full-size settings, miniature sets, and matte paintings (5.50). A total of 68 miniature sets were built, and computer manipulation was required in each case to make them appear real or to allow camera movements through them. Computer paint programs could generate matte paintings for the sky, clouds, distant cliffs, and forests that appeared behind the miniatures.
+
+Rings also drew on the rapidly developing capacity of CGI to create characters. The war scenes were staged with a small number of actual actors in costumes, while vast crowds of CGI soldiers appeared in motion alongside them. As happens for many films, new software programs were devised for Rings. A crucial program was Massive (for “Multiple Agent Simulation System in Virtual Environment”). Using motion-capture on a few agents (costumed actors), the team could build a number of different military maneuvers, assigning all of them to the thousands of crude, digitally generated figures. By giving each figure a rudimentary artificial intelligence—such as the ability to see an approaching soldier and identify it as friend or foe—Massive could generate a scene with figures moving differently from each other (5.56).
+
+ 
+
+5.56 Vast crowds of soldiers with individualized movements were generated by the Massive software program for The Two Towers.
+
+ 
+
+The monsters encountered by the characters during their quest were more elaborately designed and executed than the troops. A detailed three-dimensional model of each creature was captured with a new scanning wand that could read into recesses and folds to create a complete image from all angles. A new system, Character Mapper, captured motion from an actor, then adjusted the mass and musculature to imaginary skeletons. In the cave-troll sequence, the large, squat creature swings its limbs and flexes its muscles in a believable fashion.
+
+Most of the speaking characters (with the important exception of the skeletal Gollum) were played by actors, but even here CGI was used. The main characters had digital look-alikes who served as stunt doubles, performing actions that were dangerous or impossible. In the cave-troll fight, the actors playing Legolas, Merry, and Pippin were all replaced by their digital doubles when they climbed or jumped on the troll’s shoulders. A requirement specific to this story was the juxtaposition of full-size actors playing threefoot-tall hobbits with other characters considerably taller than themselves. The size difference was often created during filming by using small doubles or by placing the hobbits farther from the camera in falseperspective sets.
+
+In many cases, CGI created the kinds of special effects formerly generated on an optical printer. In The Fellowship of the Ring, such effects include Gandalf’s fireworks, the flood at the Fords of Bruinen, the avalanche that hits the Fellowship on the mountain pass, and the flaming Eye of Sauron.
+
+Cinematography also depended on CGI. For the cave-troll scene, director Peter Jackson donned a virtual-reality helmet and planned camera positions by moving around a virtual set and facing a virtual troll. The camera positions were motion-captured and reproduced in the actual filming of the sequence—which has a rough, handheld style quite different from the rest of the scenes.
+
+In postproduction, animators erased telephone poles in location shots and helicopter blades dipping into the aerial shots of the Fellowship’s voyage across mountains. Specialized programs added details, such as the ripples in the water in the Mirror of Galadriel.
+
+Perhaps most important, digital grading altered the color of shots, giving each major location a distinctive look. Rivendell’s scenes are in autumnal tones, while the early scenes in the Shire were given a yellow glow that enhanced the sunshine and green fields. The grading also utilized an innovative program, 5D Colossus, which allowed artists to adjust the color values of individual elements within a shot. Thus in the Lórien scene in which Galadriel shows Frodo her mirror, she glows bright white, contrasting with the deep blue tones of Frodo’s figure and setting (5.57). Thanks to digital grading, CGI techniques can go beyond the creation of imaginary creatures and large crowds to shape the visual style of an entire film.
+
+ 
+
+5.57 In The Fellowship of the Ring, selective digital color grading makes one figure bright white while the rest of the scene has a uniform muted blue tone.
+
+ 
+
+Framing
+
+In any image, the frame is not simply a neutral border; it imposes a certain vantage point onto the material within the image. In cinema, the frame is important because it actively defines the image for us.
+
+To obtain proof of the power of framing, we need only turn to the first major filmmaker in history, Louis Lumière. An inventor and businessman, Lumière and his brother Auguste devised one of the first practical cinema cameras (5.59). The Lumière camera, the most flexible of its day, also doubled as a projector. Whereas the bulky American camera invented by W.K.L. Dickson was about the size of an office desk (5.60), the Lumière camera weighed only 12 pounds and was small and portable. As a result of its lightness, the Lumière camera could be taken outside and could be set up quickly. Louis Lumière’s earliest films presented simple events—workers leaving his father’s factory, a game of cards, a family meal. But even at so early a stage of film history, Lumière was able to use framing to transform everyday reality into cinematic events.
+
+ 
+
+5.59 The Lumière camera provided flexibility in framing.
+
+ 
+
+ 
+
+ 
+
+5.60 The bulky camera of W.K.L. Dickson.
+
+ 
+
+ 
+
+Consider one of the most famous Lumière films, The Arrival of a Train at La Ciotat (1897). Had Lumière followed theatrical practice, he might have framed the shot by setting the camera perpendicular to the platform, letting the train enter the frame from the right side, broadside to the spectator. Instead, Lumière positioned the camera at an oblique angle. The result is a dynamic composition, with the train arriving from the distance on a diagonal (5.61). If the scene had been shot perpendicularly, we would have seen only a string of passengers’ backs climbing aboard. Here, however, Lumière’s oblique angle brings out many aspects of the passengers’ bodies and several planes of action. We see some figures in the foreground and some in the distance. Simple as it is, this single-shot film, less than a minute long, aptly illustrates how choosing a position for the camera makes a drastic difference in the framing of the image and how we perceive the filmed event.
+
+ 
+
+5.61 Louis Lumière’s diagonal framing in The Arrival of a Train at La Ciotat.
+
+ 
+
+ 
+
+Consider another Lumière short, Baby’s Meal (1895). Lumière selected a camera position that would emphasize certain aspects of the event. A long shot would have situated the family in its garden, but Lumière framed the figures at a medium distance, which downplays the setting but emphasizes the family’s gestures and facial expressions (5.62). The frame’s control of the scale of the event has also controlled our understanding of the event itself.
+
+ 
+
+5.62 Baby’s Meal.
+
+ 
+
+ 
+
+Framing can powerfully affect the image by means of (1) the size and shape of the frame; (2) the way the frame defines onscreen and offscreen space; (3) the way framing imposes the distance, angle, and height of a vantage point onto the image; and (4) the way framing can move in relation to the mise-en-scene.
+
+Frame Dimensions and Shape
+
+We are so accustomed to the frame as a rectangle that we should remember that it need not be one. In painting and photography, of course, images have frames of various sizes and shapes: narrow rectangles, ovals, vertical panels, even triangles and parallelograms. In cinema, the choice has been more limited. The primary choices involve the width of the rectangular image.
+
+The ratio of frame width to frame height is called the aspect ratio. The rough dimensions of the ratio were set quite early in the history of cinema by Thomas Edison, Dickson, Lumière, and other inventors. The proportions of the rectangular frame were approximately four to three, yielding an aspect ratio of 1.33:1. Nonetheless, in the silent period, some filmmakers felt that this standard was too limiting. Abel Gance shot and projected sequences of Napoleon (1927) in a format he called triptychs. This was a widescreen effect composed of three normal frames placed side by side. Gance used the effect to show a single huge expanse or to put three distinct images side by side (5.63). In contrast, the Soviet director Sergei Eisenstein argued for a square frame, which would make compositions along horizontal, vertical, and diagonal directions equally feasible.
+
+ 
+
+5.63 A panoramic view from Napoleon joined images shot with three cameras.
+
+ 
+
+ 
+
+The coming of sound in the late 1920s altered the frame somewhat. Adding the sound track to the filmstrip required adjusting either the shape or the size of the image. At first, some films were printed in an almost square format, usually about 1.17:1 (5.64). But in the early 1930s, the Hollywood Academy of Motion Picture Arts and Sciences established the so-called Academy ratio of 1.37:1, a modification of the classic 1.33:1 format to allow room for a sound track on the filmstrip (5.65). The Academy ratio was standardized throughout the world until the mid-1950s.
+
+ 
+
+5.64 Public Enemy shows the squarish aspect ratio of some early sound films.
+
+ 
+
+ 
+
+ 
+
+5.65 The Rules of the Game was shot in Academy ratio.
+
+ 
+
+ 
+
+Since then, a variety of widescreen ratios has dominated 35mm filmmaking. The most common format in North America today is 1.85:1 (5.66). The 1.66:1 ratio (5.67) is more frequently used in Europe than in North America. A less common ratio, also widely used in European films, is 1.75:1 (5.68). This ratio is approximated by widescreen (16 × 9) television monitors and many digital-video formats.
+
+ 
+
+5.66 Me and You and Everyone We Know uses a common North American ratio.
+
+ 
+
+ 
+
+ 
+
+5.67 Une chamber en ville.
+
+ 
+
+ 
+
+ 
+
+5.68 Last Tango in Paris.
+
+ 
+
+ 
+
+A 2.35:1 ratio (5.69) was standardized by the CinemaScope anamorphic process during the 1950s. The 2.2:1 ratio was chiefly used for 70mm presentation (5.70), though as film stocks have improved, 70mm filming and projecting have largely disappeared.
+
+ 
+
+5.69 Anamorphic widescreen in The Valiant Ones.
+
+ 
+
+ 
+
+ 
+
+5.70 Ghostbusters.
+
+ 
+
+ 
+
+The simplest way to create a widescreen image is by masking. it at some stage in production or exhibition (5.71). This masking is usually called a hard matte. Alternatively, many contemporary films are shot full-frame (that is, between 1.33:1 and 1.17:1) in the expectation that they will be masked when the film is shown in theaters or transferred to video. Sometimes the full-frame option results in lights or sound equipment being visible. In 5.72 you can clearly see the microphone bobbing down into the shot. This would not be seen in the theater, where the top and bottom of the frame would be masked by the aperture plate in the projector. The colored lines in our illustration show a projection framing at 1.85:1.
+
+ 
+
+5.71 This frame from Agnès Varda’s Vagabond was masked during filming or printing.
+
+ 
+
+ 
+
+ 
+
+5.72 A full-frame image from Martin Scorsese’s Raging Bull. Note the microphone visible at the top edge.
+
+ 
+
+ 
+
+CONNECT TO THE BLOG
+
+Can framings create humor? We show how they can in “Funny framings.”
+
+See
+www.davidbordwell.net/blog/?p=761.
+
+COMMON ASPECT RATIOS OF 35MM FILM
+
+CONNECT TO THE BLOG
+
+The subtleties of emphasis that can be achieved with anamorphic widescreen framings are discussed in “Gradation of emphasis.”
+
+See
+www.davidbordwell.net/blog/?p=2986.
+
+Another way to create a widescreen image is by using an anamorphic process. Here a special lens squeezes the image horizontally, either during filming or in printing. A comparable lens is necessary to unsqueeze the image during projection. The image on the 35mm filmstrip is shown in 5.73, while the image as projected on the screen is shown in 5.74. The anamorphic aspect ratio established by CinemaScope was 2.35:1 until the 1970s; for technical reasons, it was adjusted to 2.40:1. This is the aspect ratio of Panavision, today’s most frequently used anamorphic system.
+
+ 
+
+5.73 A frame from Nagisa Oshima’s anamorphic film Boy, squeezed on the original film strip.
+
+ 
+
+ 
+
+ 
+
+5.74 The same frame, unsqueezed as it would be in projection.
+
+ 
+
+ 
+
+Widescreen cinema, either masked or anamorphic, has significant visual effects. The screen becomes a band or strip, emphasizing horizontal compositions. The format was initially associated with genres of spectacle—Westerns, travelogues, musicals, historical epics—in which sweeping settings were important. But directors quickly learned that widescreen has value for more intimate subjects, too. The frame from Kurosawa’s Sanjuro
+(5.75) shows how an anamorphic process (Tohoscope, the Japanese equivalent of CinemaScope) can be used to create significant foreground and background areas in a confined setting.
+
+ 
+
+5.75 Akira Kurosawa’s Sanjuro.
+
+ 
+
+ 
+
+In some widescreen compositions, the mise-en-scene draws the audience’s attention to only one area of the image. A common solution is to put the important information slightly off center (5.76), or even sharply off center (5.77). Or the director may use the widescreen format to multiply points of interest. Many scenes in Im Kwon-Taek’s Chunhyang fill the frame with bustle and movement (5.78).
+
+ 
+
+5.76 Souleymare Cissé’s Yeelen.
+
+ 
+
+ 
+
+ 
+
+5.77 John McTiernan’s Die Hard.
+
+ 
+
+ 
+
+ 
+
+5.78 In this busy scene from Chunhyang, our eye shuttles around the widescreen frame according to who is speaking, who is facing us, and who responds to the speaker.
+
+ 
+
+ 
+
+The rectangular frame, while by far the most common, has not prevented filmmakers from experimenting with other image shapes within the rectangular frame. This has usually been done by attaching masks over either the camera’s or the printer’s lens to block the passage of light. Masks were quite common in the silent cinema. A moving circular mask that opens to reveal or closes to conceal a scene is called an iris. In La Roue, Gance employed a variety of circular and oval masks (5.79). In 5.80, a shot from Griffith’s Intolerance, most of the frame is boldly blocked out to leave only a thin vertical slice, emphasizing the soldier’s fall from the rampart. A number of directors in the sound cinema have revived the use of irises and masks. In The Magnificent Ambersons
+(5.81), Orson Welles used an iris to close a scene; the old-fashioned device adds a nostalgic note to the sequence.
+
+ 
+
+5.79 Gance’s La Roue.
+
+ 
+
+ 
+
+ 
+
+5.80 Griffith’s Intolerance.
+
+ 
+
+ 
+
+ 
+
+5.81 Welles’s The Magnificent Ambersons.
+
+ 
+
+ 
+
+We also should mention experiments with multiple-frame, or split-screen, imagery. In this process, two or more images, each with its own frame dimensions and shape, appear within the larger frame. From the early cinema onward, this device has been used to present scenes of telephone conversations (5.82). Split-screen phone scenes were revived for phone conversations in Bye Bye Birdie
+(5.83) and other 1960s widescreen comedies. Multiple-frame imagery is also useful for building suspense, as Brian De Palma has shown in such films as Sisters. We gain a godlike omniscience as we watch two or more actions at exactly the same moment. Peter Greenaway used split screen more experimentally in Prospero’s Books, juxtaposing images suggested by Shakespeare’s The Tempest
+(5.84).
+
+ 
+
+5.82 Philips Smalley’s 1913 Suspense uses a three-way split screen.
+
+ 
+
+ 
+
+ 
+
+5.83 Teenagers share the latest gossip in Bye Bye Birdie’s split-screen conversation.
+
+ 
+
+ 
+
+ 
+
+5.84 The actor playing Ariel in Prospero’s Books hovers over the scene in a separate space.
+
+ 
+
+ 
+
+As usual, the filmmaker’s choice of screen format can be an important factor in shaping the viewer’s experience. Frame size and shape can guide the spectator’s attention. It can be concentrated through compositional patterns or masking, or it can be dispersed by use of various points of interest or sound cues. The same possibilities exist with multiple-frame imagery, which must be carefully coordinated either to focus the viewer’s attention or to send it ricocheting from one image to another.
+
+Onscreen and Offscreen Space
+
+Whatever its shape, the frame makes the image bounded or limited. From an implicitly continuous world, the frame selects a slice to show us, leaving the rest of the space offscreen. If the camera leaves an object or person and moves elsewhere, we assume that the object or person is still there, outside the frame. Even in an abstract film, we cannot resist the sense that the shapes and patterns that burst into the frame come from somewhere.
+
+Film aesthetician Noël Burch has pointed out six zones of offscreen space: the space beyond each of the four edges of the frame, the space behind the set, and the space behind the camera. It is worth considering how many ways a filmmaker can imply the presence of things in these zones of offscreen space. A character can aim looks or gestures at something offscreen. As we’ll see in Chapter 7, sound can offer potent clues about offscreen space. And, of course, something from offscreen can protrude partly into the frame. Virtually any film could be cited for examples of all these possibilities, but attractive instances are offered by films that use offscreen space for surprise effects.
+
+In a party scene in William Wyler’s Jezebel, the heroine, Julie, is the main focus of attention until a man’s hand comes abruptly into the frame (5.85–5.88). The intrusion of the hand abruptly signals us to the man’s presence; Julie’s glance, the camera movement, and the sound track confirm our new awareness of the total space. The director has used the selective powers of the frame to exclude something of great importance and then introduce it with startling effect.
+
+ 
+
+5.85 In Jezebel, the heroine, Julie, greets some friends in medium shot …
+
+ 
+
+ 
+
+ 
+
+5.86 … when suddenly a huge fist holding a glass appears in the left foreground.
+
+ 
+
+ 
+
+ 
+
+5.87 Julie looks off at its owner and comes forward …
+
+ 
+
+ 
+
+ 
+
+5.88 … and the camera retreats slightly to frame her with the man who toasted her.
+
+ 
+
+ 
+
+More systematically, D. W. Griffith’s Musketeers of Pig Alley makes use of sudden intrusions into the frame as a motif developing across the whole film. When a gangster is trying to slip a drug into the heroine’s drink, we are not aware that the Snapper Kid has entered the room until a plume of his cigarette smoke wafts into the frame (5.89). At the film’s end, when the Snapper Kid receives a payoff, a mysterious hand thrusts into the frame to offer him money (5.90). Griffith has exploited the surprise latent in our sudden awareness that figures are offscreen.
+
+ 
+
+5.89 The Musketeers of Pig Alley.
+
+ 
+
+ 
+
+ 
+
+5.90 The Musketeers of Pig Alley.
+
+ 
+
+ 
+
+The use of the fifth zone of offscreen space, that behind the rear plane, is of course common; characters go out a door and are now concealed by a wall or a staircase. Somewhat rarer is the use of the sixth zone—offscreen space behind and near the camera. One lengthy example occurs in Abbas Kiarostami’s Under the Olive Trees. The crew is shooting a film scene, and we watch through the lens of the camera. As the tensions between two young actors spoil take after take, the action is repeated many times (5.91). Eventually, shots begin to show the director and his crew behind the camera (5.92). After several repetitions, the director walks in from that offscreen space behind the camera and tries to resolve the problem (5.93). Because of our awareness of the space behind the camera, throughout the many retakes, we remain aware of the crew’s growing frustration. In such ways, a filmmaker can turn the necessary limitations of the frame edge to advantage.
+
+ 
+
+5.91 The actors return to their positions for one of many retakes of a shot for the film-within-a-film in Under the Olive Trees.
+
+ 
+
+ 
+
+ 
+
+5.92 Finally, a reverse shot reveals the crew behind the camera, trying to figure out what is causing the problem.
+
+ 
+
+ 
+
+ 
+
+5.93 Eventually, the director walks into camera range and tries to talk the actors into playing their roles as he wants them to.
+
+ 
+
+ 
+
+Angle, Level, Height, and Distance of Framing
+
+The frame implies not only space outside itself but also a position from which the material in the image is viewed. Most often, such a position is that of the camera filming the event. Even in an animated film, the shots may be framed as high or low angles, or long shots or close-ups, all of which simply result from the perspective of drawings selected to be photographed.
+
+Angle
+
+The frame positions us at some angle looking onto the shot’s mise-enscene. The number of such angles is infinite, since the camera might be placed anywhere. In practice, we typically distinguish three general categories: the straight-on angle, the high angle, and the low angle. The straight-on angle is the most common (5.94). The high-angle positions us looking down at the material within the frame (5.95). The low-angle framing positions us as looking up at the framed materials (5.96).
+
+ 
+
+5.94 A straight-on angle in The Chronicle of Anna Magdalena Bach.
+
+ 
+
+ 
+
+ 
+
+5.95 A high-angle framing from Se7en.
+
+ 
+
+ 
+
+ 
+
+5.96 A low-angle view places sailors and a machine gun against the sky in They Were Expendable.
+
+ 
+
+ 
+
+Level
+
+The frame can be more or less level—that is, parallel to the horizon. If the framing is tipped to one side or the other, it’s said to be canted. Canted framing is relatively rare, although a few films make heavy use of it, such as Orson Welles’s Mr. Arkadin, Carol Reed’s The Third Man, and Wong Kar-wai’s Fallen Angels
+(5.97). In Christopher Maclaine’s The End, a canted framing makes a steep street in the foreground appear level and renders the houses in the background grotesquely out of kilter (5.98).
+
+ 
+
+5.97 A canted framing in Fallen Angels.
+
+ 
+
+ 
+
+ 
+
+5.98 A startling canted framing in The End.
+
+ 
+
+ 
+
+Height
+
+The framing usually gives us a sense of being stationed at a certain height in relation to the settings and figures. Camera angle is, of course, partly related to height: To frame from a high angle entails being at a vantage point higher than the material in the image. But camera height is not simply a matter of camera angle. For instance, the Japanese filmmaker Yasujiro Ozu films from a low height with a straight-on angle (4.142, 6.130, 6.131), giving his work a distinctive visual style.
+
+Distance
+
+The framing of the image stations us at a certain distance. Framing supplies a sense of being far away or close to the mise-en-scene of the shot. This aspect of framing is usually called camera distance. In presenting the terms used for various distances, we’ll use the standard measure: the human body. Our examples are all from The Third Man.
+
+In the extreme long shot, the human figure is lost or tiny (5.99). This is the framing for landscapes, bird’s-eye views of cities, and other vistas. In the long shot, figures are more prominent, but the background still dominates (5.100). Shots in which the human figure is framed from about the knees up are called medium long shots
+(5.101). These are common, since they permit a nice balance of figure and surroundings.
+
+ 
+
+5.99 The Third Man: extreme long shot.
+
+ 
+
+ 
+
+ 
+
+5.100 Long shot.
+
+ 
+
+ 
+
+ 
+
+5.101 Medium long shot.
+
+ 
+
+ 
+
+The medium shot frames the human body from the waist up (5.102). Gesture and expression now become more visible. The medium close-up frames the body from the chest up (5.103). The close-up is traditionally the shot showing just the head, hands, feet, or a small object. It emphasizes facial expression, the details of a gesture, or a significant object (5.104). The extreme close-up singles out a portion of the face or isolates and magnifies an object (5.105).
+
+ 
+
+5.102 Medium shot.
+
+ 
+
+ 
+
+ 
+
+5.103 Medium close-up.
+
+ 
+
+ 
+
+ 
+
+5.104 Close-up.
+
+ 
+
+ 
+
+ 
+
+5.105 Extreme close-up.
+
+ 
+
+ 
+
+Note that the size of the photographed material within the frame is as important as any real camera distance. From the same camera distance, you could film a long shot of a person or a close-up of King Kong’s elbow. We would not call the shot in 5.106 (from La Passion de Jeanne d’Arc) a close-up just because only Jeanne’s head appears in the frame; the framing is that of a long shot because in scale her head is relatively small. (If the framing were simply adjusted downward, her whole body would be visible.) In judging camera distance, the relative proportion of the material framed determines how we identify the shot.
+
+ 
+
+5.106 La Passion de Jeanne d’Arc.
+
+ 
+
+ 
+
+Categories of framing are obviously matters of degree. There is no universal measure of camera angle or distance. No precise cutoff point distinguishes between a long shot and an extreme long shot, or a slightly low angle and a straight-on angle. Moreover, filmmakers are not bound by terminology. They don’t worry if a shot does not fit into traditional categories. (Nevertheless, abbreviations like MS for medium shot and CU for close-up are regularly used in screenplays, so filmmakers do find these terms useful in their work.) In most cases, the concepts are clear enough for us to use them in talking about films.
+
+“I don’t like close-ups unless you can get a kick out of them, unless you need them. If you can get away with attitudes and positions that show the feeling of the scene, I think you’re better off using the close-up only for absolute punctuation—that’s the reason you do it. And you save it—not like TV where they do everything in close-up.”
+
+— Howard Hawks, director, His Girl Friday
+
+ 
+
+Functions of Framing
+
+Sometimes we’re tempted to assign absolute meanings to angles, distances, and other qualities of framing. It is easy to claim that framing from a low angle automatically presents a character as powerful and that framing from a high angle presents him or her as dwarfed and defeated. Verbal analogies are especially seductive: a canted frame seems to mean that “the world is out of kilter.”
+
+The analysis of film as art would be a lot easier if technical qualities automatically possessed such hard-and-fast meanings, but individual films would thereby lose much of their uniqueness and richness. The fact is that framings have no absolute or general meanings. In some films, angles and distance carry such meanings as mentioned above, but in other films—probably most films—they do not. To rely on formulas is to forget that meaning and effect always stem from the film, from its operation as a system. The context of the film determines the function of the framings, just as it determines the function of mise-en-scene, photographic qualities, and other techniques. Consider three examples.
+
+At many points in Citizen Kane, low-angle shots of Kane do convey his looming power, but the lowest angles occur at the point of Kane’s most humiliating defeat—his miscarried gubernatorial campaign (5.107). Note that angles of framing affect not only our view of the main figures but also the background against which those figures may appear.
+
+ 
+
+5.107 In Citizen Kane, the low angle functions to isolate Kane and his friend against an empty background, his deserted campaign headquarters.
+
+ 
+
+ 
+
+If the cliché about high-angle framings were correct, 5.108, a shot from North by Northwest, would express the powerlessness of Van Damm and Leonard. In fact, Van Damm has just decided to eliminate his mistress by pushing her out of a plane, and he says, “I think that this is a matter best disposed of from a great height.” The angle and distance of Hitchcock’s shot wittily prophesy how the murder is to be carried out.
+
+ 
+
+5.108 North by Northwest.
+
+ 
+
+ 
+
+Similarly, the world is hardly out of kilter in the shot from Eisenstein’s October shown in 5.109. The canted frame dynamizes the effort of pushing the cannon.
+
+ 
+
+5.109 A dramatic canted framing from October.
+
+ 
+
+ 
+
+These three examples should demonstrate that we cannot reduce the richness of cinema to a few recipes. We must, as usual, look for the functions the technique performs in the particular context of the total film.
+
+Camera distance, height, level, and angle often take on clear-cut narrative functions. Camera distance can establish or reestablish settings and character positions, as we shall see in the next chapter when we examine the editing of the first sequence of The Maltese Falcon. A framing can isolate a narratively important detail (5.110, 5.111).
+
+ 
+
+5.110 The tears of Henriette in A Day in the Country are visible in extreme close-up.
+
+ 
+
+ 
+
+ 
+
+5.111 In Day for Night, a close framing emphasizes the precision with which the film director positions an actor’s hands.
+
+ 
+
+ 
+
+Framing also can cue us to take a shot as subjective. In Chapter 3, we saw that a film’s narration may present story information with some degree of psychological depth (p. 95), and one option is a perceptual subjectivity that renders what a character sees or hears. When a shot’s framing prompts us to take it as seen through a character’s eyes, we call it an optically subjective shot, or a point-of-view (POV shot). (See also p. 200.) Fritz Lang’s Fury provides a clear example (5.112, 5.113).
+
+ 
+
+5.112 In Fury, the hero in his jail cell is seen through the bars from a slightly low angle …
+
+ 
+
+ 
+
+ 
+
+5.113 … while the next shot, a high angle through the window toward the street outside, shows us what he sees, from his point of view.
+
+ 
+
+ 
+
+Framings may serve the narrative in yet other ways. Across an entire film, the repetitions of certain framings may associate themselves with a character or situation. That is, framings may become motifs unifying the film (5.114). Throughout La Passion de Jeanne d’Arc, Dreyer returns obsessively to extreme close-up shots of Jeanne (4.130).
+
+ 
+
+5.114 In The Maltese Falcon, Kasper Gutman is frequently photographed from a low angle, emphasizing his obesity.
+
+ 
+
+ 
+
+Alternatively, certain framings in a film may stand out by virtue of their rarity. The ominously calm effect of the shot of the birds descending on Bodega Bay in Hitchcock’s film The Birds arises from the abrupt shift from straight-on medium shots to an extreme long shot from very high above the town (6.32 and 6.33). In a film composed primarily of long shots and medium shots, an extreme close-up will obviously have considerable force. Similarly, the early scenes of Ridley Scott’s Alien present few shots depicting any character’s point of view. But when Kane approaches the alien egg, we see close views of it as if through his eyes, and the creature leaps straight out at us. This not only provides a sudden shock; the abrupt switch to framings that restrict us to one character’s range of knowledge emphasizes a major turning point in the plot.
+
+Apart from their narrative significance, framings can add a visual interest of their own. Close-ups can bring out textures and details we might otherwise ignore. We can see the surreptitious gestures of a thief in the medium close-up from Robert Bresson’s Pickpocket
+(5.115); a string of similar close shots makes up a dazzling, balletlike scene in this film. Long shots can permit us to explore vistas. Much of the visual delight of Westerns, of David Lynch’s The Straight Story, or of Werner Herzog’s documentary Lessons of Darkness
+(5.116) arises from long shots that make huge spaces manifest. By including a range of information, the long-shot framing encourages us to explore details or discover abstract patterns (5.117).
+
+ 
+
+5.115 Bresson’s Pickpocket.
+
+ 
+
+ 
+
+ 
+
+5.116 In Lessons of Darkness, helicopter shots give the desolate burning oilfields of Kuwait after the 1991 Gulf War an eerie, horrifying grandeur.
+
+ 
+
+ 
+
+ 
+
+5.117 In Hou Hsiao-hsien’s Summer at Grandpa’s, the boy from the city visits his disgraced uncle, and the neighborhood is presented as a welter of rooftops sheltering a spot of bright red.
+
+ 
+
+ 
+
+CONNECT TO THE BLOG
+
+One way to add visual interest is to shoot straight into the rear plane of the setting, as we explain in “Shotconsciousness.”
+
+See
+www.davidbordwell.net/blog/?p=275.
+
+Our eye also enjoys the formal play presented by unusual angles on familiar objects (5.118). In La Passion de Jeanne d’Arc, the upside-down framings (5.119) are not motivated as a character’s point of view; they express the frenzy of the massacre of the witnesses to Jeanne’s death. “By reproducing the object from an unusual and striking angle,” writes Rudolf Arnheim, “the artist forces the spectator to take a keener interest, which goes beyond mere noticing or acceptance. The object thus photographed sometimes gains in reality, and the impression it makes is livelier and more arresting.”
+
+ 
+
+5.118 René Clair in Entr’acte frames a ballerina from straight below, transforming the figure into an expanding and contracting flower.
+
+ 
+
+ 
+
+ 
+
+5.119 La Passion de Jeanne d’Arc.
+
+ 
+
+ 
+
+Framing may be used for comic effect, as Charlie Chaplin, Buster Keaton, and Jacques Tati have all shown. We have seen that in Our Hospitality Keaton stages many gags in depth. Now we can see that well-chosen camera angles and distances are also vital to the gags’ success. For example, if the railroad scene shown in 4.163 were shot from the side and in extreme long shot, we would not see so clearly that the two parts of the train are on parallel tracks. Moreover, we could not see the engineer’s unconcerned posture, which indicates his failure to realize what has happened. Similarly, the use of framing to create offscreen space is vital to the gag shown in 4.172 and 4.173. Here the gag is laid out in time rather than space. First Willie tugs on the rope; then an unseen effect of that tug becomes visible as the Canfield son hurtles past and disappears. Finally, Willie reacts and is himself dragged down into the abyss below the frameline. Try to imagine these moments and others in Our Hospitality framed in a different way, and you will see how our reaction to Keaton’s humor depends on the careful combination of mise-en-scene and framing.
+
+Similarly, in Tati’s Play Time, mise-en-scene and camera position cooperate to create pictorial jokes (5.120). The visual pun issues from the precisely chosen camera angle and distance, as well as from the mise-en-scene: the man’s stooping posture and the door handles make him look like a goat. We cannot classify all the non-narrative functions of framing; we can only suggest that camera angle, level, height, and distance have the constant possibility of sharpening our awareness of purely visual qualities.
+
+ 
+
+5.120 In Play Time, M. Hulot reacts with a start when he notices that a man locking a door seems suddenly to have sprouted horns (the door handles)
+
+ 
+
+ 
+
+CONNECT TO THE BLOG
+
+We analyze subtleties of framing in films by two masters, William Wyler and Kenji Mizoguchi, in “Sleeves.”
+
+See
+www.davidbordwell.net/blog/?p=1549.
+
+The Mobile Frame
+
+All of the features of framing we have examined are present in paintings, photographs, comic strips, and other sorts of pictures. All images furnish instances of aspect ratios, in-frame and out-of-frame relations, angle, level, height, and distance of the frame’s vantage point. But there is one resource of framing that is specific to cinema (and video). In film, it is possible for the frame to move with respect to the framed material.
+
+Mobile framing means that the framing of the object changes. The mobile frame changes the camera angle, level, height, or distance during the shot. Further, since the framing orients us to the material in the image, we often see ourselves as moving along with the frame. Through such framing, we may approach the object or retreat from it, circle it, or move past it.
+
+Types of Mobile Framing
+
+We usually refer to the ability of the frame to be mobile as camera movement. A mobile frame is usually achieved by moving the camera physically during production. There are several kinds of camera movement, each a specific effect onscreen.
+
+The pan (short for panorama) movement rotates the camera on a vertical axis. The camera as a whole does not move to a new position. Onscreen, the pan gives the impression of a frame horizontally scanning space. It is as if the camera “turns its head” right or left (5.121, 5.122).
+
+ 
+
+5.121 During a shot in Dreyer’s Ordet, the camera pans right …
+
+ 
+
+ 
+
+ 
+
+5.122 … to keep the figures in frame as they cross a room.
+
+ 
+
+ 
+
+The tilt movement rotates the camera on a horizontal axis. It is as if the camera’s head were swiveling up or down. Again, the entire camera does not change position. Onscreen, the tilt movement yields the impression of unrolling a space from top to bottom or bottom to top (5.123, 5.124).
+
+ 
+
+5.123 François Truffaut’s The Bride Wore Black begins with a tilt down a church spire …
+
+ 
+
+ 
+
+ 
+
+5.124 … to the church door.
+
+ 
+
+ 
+
+In the tracking or dolly shot, the camera as a whole does change position, traveling in any direction along the ground—forward, backward, circularly, diagonally, or from side to side (5.125, 5.126). Note how the figures remain in the same basic relationship to the frame as they stroll along a sidewalk, while the front of the house that they hope to buy remains visible behind them.
+
+ 
+
+5.125 During this lateral tracking shot in Erich von Stroheim’s Greed, the camera moves rightward …
+
+ 
+
+ 
+
+ 
+
+5.126 … along with the two characters.
+
+ 
+
+ 
+
+In the crane shot, the camera moves above ground level. Typically, it rises or descends, often thanks to a mechanical arm that lifts and lowers it. The mourning scene in Ivan the Terrible begins with a crane downward (5.127, 5.128). A crane shot may move not only up and down, like an elevator, but forward and backward or from side to side (5.129, 5.130). For The Thin Red Line, Terence Malick used a crane with a 72-foot arm to let the camera slither over tall grass during battle scenes. Variations of the crane shot are helicopter and airplane shots.
+
+ 
+
+5.127 In Ivan the Terrible, from a high-angle view of the bier, the camera cranes down …
+
+ 
+
+ 
+
+ 
+
+5.128 … to end with a straight-on framing of Ivan seated at the bier’s base.
+
+ 
+
+ 
+
+ 
+
+5.129 At the end of Karel Reisz’s Morgan! the camera moves diagonally up …
+
+ 
+
+ 
+
+ 
+
+5.130 … and back to reveal that the hero’s apparently innocuous flower garden proclaims his Communist sympathies.
+
+ 
+
+ 
+
+Pans, tilts, tracking shots, and crane shots are the most common framing movements, but virtually any kind of camera movement can be imagined (somersaulting, rolling, and so on). And as we shall see, types of camera movements can be combined.
+
+“I realized that if I could just get to the really good scripts, I could approach it the way I approach literature—why the camera moves this way because of this motif—and then it became fascinating.”
+
+—Jodie Foster, director, Little Man Tate
+
+ 
+
+“It’s a compulsion of mine to move the camera, and I now know why. It enhances three-dimensionality. It puts you in the space, and if you move the camera the audience becomes aware of the space.”
+
+— George Miller, director, The Road Warrior
+
+ 
+
+Camera movements have held an appeal for filmmakers and audiences since the beginnings of cinema. Why? Visually, camera movements have several arresting effects. They often increase information about the space of the image. Objects become sharper and more vivid than in stationary framings. New objects or figures are usually revealed. Tracking shots and crane shots supply continually changing perspectives on passing objects as the frame shifts its orientation. Objects appear more solid and three-dimensional when the camera arcs (that is, tracks along a curved path) around them. Pan and tilt shots present space as continuous, both horizontally and vertically.
+
+Moreover, it is difficult not to see camera movement as a substitute for our movement. The objects do not seem to swell or shrink. We seem to approach or retreat from them. We are not, of course, completely fooled. We never forget that we are watching a film in a theater. But camera movement provides several convincing cues for movement through space. Indeed, so powerful are these cues that filmmakers often make camera movements subjective—motivated narratively to represent the view through the eyes of a moving character. That is, camera movement can be a powerful cue that we are watching a point-of-view shot.
+
+In commercial film production today, many camera movements are made with the camera on a dolly. Before the 1970s, it was standard practice to mount the dolly on rails for lengthy movements (hence the term tracking). (See 1.33 for a production shot showing an elaborate dolly shot.)
+
+While mounting the camera on tracks is still done today, body-mounted camera units have become common as well. These devices allow the camera to be an extension of the operator’s normal walking or running. Servo mechanisms adjust for imbalances and jerkiness, so the camera seems to glide or float. The prototype of the body-worn camera stabilizer is the Steadicam, initially used on Bound for Glory, Rocky, and The Shining.
+
+A body-worn camera can go places that would be difficult for a dolly. The operator can smoothly follow actors climbing stairs, riding vehicles, and walking great distances (5.131, 5.132). Some directors have taken advantage of the Steadicam to create lengthy shots moving through many locales, as in the opening scenes of Brian De Palma’s Bonfire of the Vanities and Paul Thomas Anderson’s Boogie Nights.
+
+ 
+
+5.131 In Martin Scorsese’s Raging Bull, the Steadicam follows the protagonist out of his dressing room …
+
+ 
+
+ 
+
+ 
+
+5.132 … and through a crowd up to the boxing ring.
+
+ 
+
+ 
+
+Sometimes the filmmaker does not want smooth camera movements, preferring a bumpy, jiggling image. Commonly, this sort of image is achieved through use of the handheld camera. That is, the operator does not anchor the machine on a tripod or dolly, but instead uses his or her body to act as the support without benefit of compensating equipment (5.133). This sort of camera movement became common in the late 1950s, with the growth of the cinéma vérité documentary. One of the most famous early handheld traveling shots was in Primary, when a cameraman held the camera above his head and followed John F. Kennedy through a milling crowd (5.134).
+
+ 
+
+5.133 Don Pennebaker hand-holds the camera while filming his Keep on Rocking.
+
+ 
+
+ 
+
+ 
+
+5.134 John Kennedy greeting a Wisconsin crowd in Primary.
+
+ 
+
+ 
+
+Handheld shots have appeared in many fiction films as well. Because the technique originated in documentary filming, it can lend an air of authenticity to pseudodocumentaries like The Blair Witch Project. In other instances, the handheld camera movement functions to create subjective point of view (5.135). Sometimes the handheld shot intensifies a sense of abrupt movement, as if the action were glimpsed on the fly. For julien donkey-boy, Harmony Korine used lightweight, bouncy, mini-DV cameras to shoot Julian shuffling through his neighborhood (5.136).
+
+ 
+
+5.135 In Samuel Fuller’s The Naked Kiss, a handheld subjective camera heightens the impact of a fight.
+
+ 
+
+ 
+
+ 
+
+5.136 As Julien walks, the handheld camera’s jerky pace complements the explosions of color created by printing video up to 35mm.
+
+ 
+
+ 
+
+A static camera can simulate frame mobility. In animation, the actual camera stays in one position, but by filming individual cels frame by frame, the animator can create the effect of camera movement (5.137–5.139). Alternatively, a mobile frame effect can be achieved by photographing a still picture or a stopped frame of film and gradually enlarging or reducing any portion of that image, as is frequently done in optical printing or with CGI. Iris masking can open up to reveal a vista or close down to isolate a detail.
+
+ 
+
+5.137 A pan shot simulated by animation in Peter Pan begins with Peter and Captain Hook near a mast. Peter swings in to kick Hook …
+
+ 
+
+ 
+
+ 
+
+5.138 … and the framing pans to follow as the two fly rightward …
+
+ 
+
+ 
+
+ 
+
+5.139 … across the deck.
+
+ 
+
+ 
+
+The zoom lens can also be used to provide a mobile framing while the camera stays fixed. How can we as viewers distinguish between a zoom and a tracking or craning movement? In general, animation, special effects, and the zoom lens reduce or blow up some portion of the image. Although the tracking shot and the crane shot do enlarge or reduce portions of the frame, this is not all that they do. In the genuine camera movement, static objects in different planes pass one another at different rates. We see different sides of objects, and backgrounds gain volume and depth.
+
+In Alain Resnais’s La Guerre est finie, a tracking shot (5.140, 5.141) gives the objects considerable volume. The wall has lost none of its bulk or solidity. Moreover, the street sign has not simply been enlarged. We also see it from a distinctly different angle.
+
+ 
+
+5.140 In La Guerre est finie, a street sign tilted slightly up on its right side …
+
+ 
+
+ 
+
+ 
+
+5.141 … is tilted up distinctly at the left by the end of the track-in.
+
+ 
+
+ 
+
+In contrast, with a zoom enlargement, the mobile frame does not alter the aspects or positions of the objects filmed. In 5.142 and 5.143, from Theo Angelopoulos’s Ulysses’ Gaze, a zoom enlarges our view of a large, broken statue of Lenin floating on a barge. Our vantage point on the statue is the same at the end of the shot as at the beginning: The top of the statue is still seen against the bottom of a row of small trees, and its feet are in exactly the same place in relation to the railing on the ship’s prow. As the zoom occurs, the barge gradually looks closer to the line of trees than it had at the beginning. In sum, when the camera moves, we sense our own movement through the space. In a zoom, a bit of the space seems magnified or demagnified.
+
+ 
+
+5.142 A distant view of a statue on a barge in Ulysses’ Gaze …
+
+ 
+
+ 
+
+ 
+
+5.143 … is enlarged by a zoom-in.
+
+ 
+
+ 
+
+So far, we have isolated these different sorts of mobile framings in fairly pure states. But filmmakers frequently combine such framings within a single shot: The camera may track and pan at the same time or crane up while zooming. Still, every instance can be identified as a combination of the basic types.
+
+Functions of Frame Mobility
+
+Our catalogue of the types of mobile framings is of little use without a consideration of how such framing strategies function systematically within films. How does mobile framing relate to cinematic space and time? How do mobile framings create patterns of their own? In short, how does mobile framing interact with the form of the film?
+
+1. The mobile frame and space
+
+The mobile frame affects onscreen and offscreen space considerably, as we’ve already seen in our earlier example from Jezebel (5.85–5.88). After the hand with the glass intrudes into close-up, the camera tracks back to frame the man standing in the foreground. The mobile frame also continually affects the angle, level, height, or distance of the framing. A crane up may change the angle from a low one to a high one; a track-in may change the distance from long shot to close-up.
+
+We can ask several questions about how the mobile frame relates to space. Do the frame’s movements depend on figure movement? For example, one of the commonest functions of camera movement is reframing. If a character moves in relation to another character, often the frame will slightly pan or tilt to adjust to the movement. In His Girl Friday, director Howard Hawks strives to balance his compositions through reframing (5.144–5.146). Since reframings are motivated by figure movement, they tend to be relatively unnoticeable. When you do start to notice them, you may be surprised at how frequently they appear. Almost any modern film is constantly reframing characters in conversation scenes.
+
+ 
+
+5.144 In His Girl Friday, when Hildy crosses from the left …
+
+ 
+
+ 
+
+ 
+
+5.145 … to sit on a desk, the camera pans right to reframe her …
+
+ 
+
+ 
+
+ 
+
+5.146 … and when Walter swivels his chair to face her, the camera reframes slightly leftward.
+
+ 
+
+ 
+
+Reframing is only one way that the mobile frame may depend on figure movement. The camera may also displace itself in order to follow figures or moving objects. A camera movement that is more than just a reframing and that follows a figure’s movement is called—logically enough—a following shot (see 5.203–5.204, 5.210–5.211, and 5.215–5.224). A pan may keep a racing car centered, a tracking shot may follow a character from room to room, or a crane shot may pursue a rising balloon. In such cases, frame mobility functions primarily to keep our attention fastened on the subject of the shot, and it subordinates itself to that subject’s movement.
+
+ 
+
+5.203 In a shot lasting two minutes, the camera follows Michelle into the library, where she starts reshelving books. Many of the long takes in Elephant frame the walking characters from behind. This conceals their facial expressions from us and emphasizes the school environment they move through.
+
+ 
+
+ 
+
+ 
+
+5.204 Michelle turns as we hear a rifle being cocked.
+
+ 
+
+ 
+
+ 
+
+5.210 … she moves to the opposite end of the room …
+
+ 
+
+ 
+
+ 
+
+5.211 … and sits at a small table facing him.
+
+ 
+
+ 
+
+ 
+
+5.215 The opening shot of Touch of Evil begins with a close-up of a hand setting the timer of a bomb.
+
+ 
+
+ 
+
+ 
+
+5.216 The camera tracks immediately right to follow first the shadow …
+
+ 
+
+ 
+
+ 
+
+5.217 … and then the figure of an unknown assassin planting the bomb in a car.
+
+ 
+
+ 
+
+ 
+
+5.218 The camera then cranes up to a high angle as the assassin flees and the victims arrive and set out in the car.
+
+ 
+
+ 
+
+ 
+
+5.219 As the camera rounds the corner, it rejoins the car and tracks back to follow it.
+
+ 
+
+ 
+
+ 
+
+5.220 The car passes Vargas and his wife, Susan, and the camera starts to follow them, losing the car and tracking diagonally backward with the couple through the crowd.
+
+ 
+
+ 
+
+ 
+
+5.221 The camera tracks backward until both the occupants of the car and Susan and Vargas meet again …
+
+ 
+
+ 
+
+ 
+
+5.222 … and a brief scene with the border guard ensues.
+
+ 
+
+ 
+
+ 
+
+5.223 After tracking left with the car, the camera again encounters Susan and Vargas and tracks forward toward them …
+
+ 
+
+ 
+
+ 
+
+5.224 … bringing them into medium shot as they begin to kiss.
+
+ 
+
+ 
+
+“I kept wondering, ‘Can people talk this much in a feature film and anybody care?’ And so I had to go through every moment in those dialogue scenes and look for the little events I would treat as large events. Like the ringing of a phone or the blinds being opened…. I had to treat those as fairly major events and have the moves of the camera be motivated by them, so that it would be organic to the scene yet still visually interesting.”
+
+— John PatrickShanley, writer and director, Doubt
+
+ 
+
+CONNECT TO THE BLOG
+
+One common function of tracking shots is to follow actors in conversation, as we discuss in “Walk the talk.”
+
+See
+www.davidbordwell.net/blog/?p=382.
+
+The mobile frame can move independently of the figures, too. Often the camera moves away from the characters to reveal something of significance to the narrative. A camera movement can point out an overlooked clue, a sign that comments on the action, an unnoticed shadow, or a clutching hand. The moving camera can establish a locale the characters will eventually enter. This is what happens at the start of Otto Preminger’s Laura, when the camera glides through Waldo Lydecker’s sitting room, establishing him as a man of wealth and artistic tastes, before revealing the detective MacPherson. Similarly, at the beginning of Back to the Future, the camera prowls through Doc’s empty house, hinting at his character and the narrative to come. In Jean Renoir’s Crime of M. Lange, the moving camera characterizes Lange by leaving him and panning around to survey his room (5.147–5.151). Lange is shown to be a fantasist, living in the world of Western lore he draws on for his cowboy stories.
+
+ 
+
+5.147 In The Crime of M. Lange, although the camera begins on Lange at work …
+
+ 
+
+ 
+
+ 
+
+5.148 … it soon leaves him to show his cowboy pistols and hat …
+
+ 
+
+ 
+
+ 
+
+5.149 … keeps going to show a map with Arizona outlined …
+
+ 
+
+ 
+
+ 
+
+5.150 … pans past more guns …
+
+ 
+
+ 
+
+ 
+
+5.151 … before returning to the excited author writing his Western tales.
+
+ 
+
+ 
+
+Whether dependent on figure movement or independent of it, the mobile frame can profoundly affect how we perceive the space within the frame and offscreen. Different sorts of camera movements create different treatments of space. In Last Year at Marienbad, Resnais often tracks into corridors and through doorways, turning a fashionable resort hotel into a maze. Alfred Hitchcock has produced some of the most famous single-camera movements in film history. One track-and-crane shot moves from a high-angle long shot of a ballroom over the heads of the dancers to an extreme close-up of a drummer’s blinking eyes (Young and Innocent). In Vertigo, an especially tricky combination track-out and zoom-in plastically distorts the shot’s perspective and conveys the protagonist’s dizziness. The device reappears in Spielberg’s Jaws, when Sheriff Brody at the beach suddenly realizes that the shark has attacked a child. Simultaneously tracking and zooming in opposite directions has become common in modern Hollywood filmmaking (what director Sam Raimi calls the “warp-o cam”). In films such as The Red and the White, Miklós Janscó specialized in lengthy camera movements that roam among groups of people moving across a plain. His shots use all of the resources of tracking, panning, craning, zooming, and racking focus to sculpt ever-changing spatial relations.
+
+All of these examples illustrate various ways in which frame mobility affects our sense of space. Of any mobile framing, we can ask, How does it function to reveal or conceal offscreen space? Is the frame mobility dependent on figure movement or independent of it? What particular trajectory does the camera pursue? Such questions will best be answered by considering how spatial effects of the camera movement function with respect to the film’s overall form.
+
+2. The mobile frame and time
+
+Frame mobility involves time as well as space, and filmmakers have realized that our sense of duration and rhythm is affected by the mobile frame. The importance of duration in camera movement, for example, can be sensed by comparing two Japanese directors, Yasujiro Ozu and Kenji Mizoguchi. Ozu prefers short camera movements in a single direction, as in Early Summer and The Flavor of Green Tea over Rice. Mizoguchi, alternatively, cultivates the leisurely, drawn-out tracking shot, often combining it with panning.
+
+Since a camera movement consumes time on screen, it can create an arc of expectation and fulfillment. If the camera pans quickly from an event, we may be prompted to wonder what has happened. If the camera abruptly tracks back to show us something in the foreground that we had not expected, as in our earlier Jezebel example (5.85–5.88), we are taken by surprise. If the camera slowly moves in on a detail, gradually enlarging it but delaying the fulfillment of our expectations, the camera movement has contributed to suspense. In the pan shot across M. Lange’s study, Renoir makes us wonder why the camera strays from the main character, then answers the question by indicating Lange’s fascination with the American West. Later in this chapter, we shall examine how our expectations are manipulated over time in the opening camera movements of Welles’s Touch of Evil.
+
+The velocity of frame mobility is important, too. A zoom or a camera movement may be relatively slow or fast. Richard Lester’s A Hard Day’s Night and Help! started a fad in the 1960s for very fast zoom-ins and -outs. In comparison, one of the most impressive early camera movements, D. W. Griffith’s monumental crane shot in Belshazzar’s feast in Intolerance, gains majesty and suspense through its inexorably slow descent toward the immense Babylonian set (4.12).
+
+Sometimes the speed of the mobile framing functions rhythmically. In Will Hindle’s Pastorale d’été, a gentle, bouncing beat is created by zooming in and slightly tilting up and down in time to Honegger’s music. Often musical films make use of the speed of camera movement to underline qualities of a song or dance. During the “Broadway Rhythm” number in Singin’ in the Rain, the camera cranes quickly back from Gene Kelly several times, and the speed of the movement is timed to accentuate the lyrics. Frame velocity can also create expressive qualities—a camera movement can be fluid, staccato, hesitant, and so forth. The entire plot of Cloverfield is presented as the video record of a monster’s attack on Manhattan. At many points, the operator whips the camera around to capture a shocking incident, and our anxiety is intensified by the sudden speed of the panning movement (5.152, 5.153). In short, the duration and speed of the mobile frame can significantly control our perception of the shot over time.
+
+ 
+
+5.152 Cloverfield: As the young partygoers run out into the street, their video camera records an explosion, and a whip pan to the right blurs the action.
+
+ 
+
+ 
+
+ 
+
+5.153 While the framing becomes fixed again, we see that the blurry movement was roughly following the head of the Statue of Liberty rolling down the street.
+
+ 
+
+ 
+
+3. Patterns of mobile framing
+
+The mobile frame can create its own specific motifs within a film. For example, Hitchcock’s Psycho begins and ends with a forward movement of the frame. In the film’s first three shots, the camera pans right and then zooms in on a building in a cityscape (5.154). Two forward movements finally carry us under a window blind and into the darkness of a cheap hotel room (5.155–5.157). The camera’s movement inward, the penetration of an interior, is repeated throughout the film, often motivated as a subjective point of view as when various characters move deeper and deeper into Norman Bates’s mansion. The next-to-last shot of the film shows Norman sitting against a blank white wall, while we hear his interior monologue (5.158). The camera again moves forward into a close-up of his face (5.159). This shot is the climax of the forward movement initiated at the start of the film; the film has traced a movement into Norman’s mind. Another film that relies heavily on a pattern of forward, penetrating movements is Citizen Kane, which depicts the same inexorable drive toward the revelation of a character’s secret.
+
+ 
+
+5.154 The opening shot of Psycho.
+
+ 
+
+ 
+
+ 
+
+5.155 The second shot concentrates on one building …
+
+ 
+
+ 
+
+ 
+
+5.156 … as the camera moves lower and closer to a window …
+
+ 
+
+ 
+
+ 
+
+5.157 … and reveals the heroine and her boyfriend in a lunchtime tryst.
+
+ 
+
+ 
+
+ 
+
+5.158 Psycho’s next-to-last shot begins at a distance from Norman …
+
+ 
+
+ 
+
+ 
+
+5.159 … and moves in so that we see his expression as we hear his thoughts.
+
+ 
+
+ 
+
+“One thing I hate in films is when the camera starts circling characters. If three people are sitting at a table talking, you’ll often see the camera circling them. I can’t explain why, but I find it totally fake.”
+
+— Takeshi Kitano, director, Sonatine
+
+ 
+
+Other kinds of movements can repeat and develop across a film. Max Ophuls’s Lola Montès uses both 360° tracking shots and constant upward and downward crane shots to contrast the circus arena with the world of Lola’s past. In Michael Snow’s ↔ (usually called Back and Forth), the constant panning to and fro across a classroom, Ping-Pong fashion, determines the basic formal pattern of the film. It comes as a surprise when, near the very end, the movement suddenly becomes a repeated tilting up and down. In these and many other films, the mobile frame sets up marked repetitions and variations.
+
+Functions of Mobile Framing: Grand Illusion and Wavelength
+
+By way of summary, we can look at two contrasting films that illustrate possible relations of the mobile frame to narrative form. One uses the mobile frame in order to strengthen and support the narrative, whereas the other subordinates narrative form to an overall frame mobility.
+
+Jean Renoir’s Grand Illusion is a war film in which we almost never see the war. Heroic charges and doomed battalions, the staple of the genre, are absent. World War I remains obstinately offscreen. Instead, Renoir concentrates on life in a German POW camp to suggest how relations between nations and social classes are affected by war. The prisoners Maréchal and Boeldieu are both French; Rauffenstein is a German officer. Yet the aristocrat Boeldieu has more in common with Rauffenstein than with the mechanic Maréchal. The film’s narrative form traces the death of the Boeldieu-Rauffenstein upper class and the precarious survival of Maréchal and his pal Rosenthal—their flight to Elsa’s farm, their interlude of peace there, and their final escape back to France and presumably back to the war.
+
+Within this framework, camera movement has several functions, all directly supportive of the narrative. First, and most typical, is its tendency to adhere to figure movement. When a character or vehicle moves, Renoir often pans or tracks to follow. The camera follows Maréchal and Rosenthal walking together after their escape; it tracks back when the prisoners are drawn to the window by the sound of marching Germans below. But it is the movements of the camera independent of figure movement that make the film more unusual.
+
+When the camera moves on its own in Grand Illusion, we are conscious of it actively interpreting the action, creating suspense or giving us information that the characters do not have. For example, in one scene, a prisoner is digging in an escape tunnel and tugs a string signaling that he needs to be pulled out (5.160). Independent camera movement builds suspense by showing that the other characters have missed the signal and do not realize that he is suffocating (5.161, 5.162). Camera movement thus helps create a somewhat unrestricted narration.
+
+ 
+
+5.160 A can used as a signal is initially seen sitting on a shelf …
+
+ 
+
+ 
+
+ 
+
+5.161 … then is pulled over. It lands on a pillow and so makes no sound …
+
+ 
+
+ 
+
+ 
+
+5.162 … and the camera pans left to reveal that the characters have not noticed it.
+
+ 
+
+ 
+
+Sometimes the camera is such an active agent that Renoir used repeated camera movements to create patterns of narrative significance. One such pattern is the movement to link characters with details of their environment. Often a sequence begins with a close-up of some detail, and the camera moves back to anchor this detail in its larger spatial and narrative context (5.163, 5.164).
+
+ 
+
+5.163 Renoir begins the scene of Boeldieu and Maréchal discussing escape plans by framing a close-up of a caged squirrel …
+
+ 
+
+ 
+
+ 
+
+5.164 … before tracking back to reveal the men beside the cage, creating a clear narrative parallel.
+
+ 
+
+ 
+
+More complicated is the scene of the Christmas celebration at Elsa’s that begins with a close-up of the crèche and tracks back to show, in several stages, the interplay of reactions among the characters. Such camera movements are not simply decoration; beginning on a scenic detail before moving to the larger context makes narrative points economically, constantly emphasizing relationships among elements of Renoir’s mise-en-scene. So does the rarer track-in to a detail at the end of a scene, as when after Boeldieu’s death, Rauffenstein cuts the geranium, the one flower in the prison (5.165, 5.166).
+
+ 
+
+5.165 As Rauffenstein moves to the geranium in the window …
+
+ 
+
+ 
+
+ 
+
+5.166 … Renoir tracks in to a close shot of the flower as he cuts it.
+
+ 
+
+ 
+
+Characters are tied to their environment by some even more ambitious moving-camera shots. These stress important narrative parallels. For example, tracking shots compare actions in two officers’ bars—one French (5.167–5.169), one German (5.170–5.172). Through his camera movements, Renoir indicates a similarity between the two warring sides, blurring their national differences and stressing common desires.
+
+ 
+
+5.167 In the first scene, as Maréchal leaves the French officers’ bar …
+
+ 
+
+ 
+
+ 
+
+5.168 … Renoir pans and tracks left from the door to reveal pinups (just coming into the frame at the right) …
+
+ 
+
+ 
+
+ 
+
+5.169 … and a poster.
+
+ 
+
+ 
+
+ 
+
+5.170 One scene later, in the German officers’ bar, a similar camera movement, this time toward the right, leaves the characters …
+
+ 
+
+ 
+
+ 
+
+5.171 … and explores on its own …
+
+ 
+
+ 
+
+ 
+
+5.172 … discovering some similar decorations.
+
+ 
+
+ 
+
+Or consider how two parallel tracking shots compare the war of the aristocrats and the war of the lower-class people. We are introduced to Rauffenstein’s new position as commander of a POW camp through a lengthy tracking shot (5.173–5.180). During this movement, Renoir presents, wordlessly, the military mystique of grace on the battlefield that characterizes the aristocrat’s war.
+
+ 
+
+5.173 Renoir begins on a crucifix and …
+
+ 
+
+ 
+
+ 
+
+5.174 … tilts down to a military portrait on an altar, underlining the irony of a chapel commandeered as a bivouac.
+
+ 
+
+ 
+
+ 
+
+5.175 The camera tracks past whips, spurs, and swords …
+
+ 
+
+ 
+
+ 
+
+5.176 … to a servant preparing Rauffenstein’s gloves.
+
+ 
+
+ 
+
+ 
+
+5.177 He then walks away from the camera to close a window before returning …
+
+ 
+
+ 
+
+ 
+
+5.178 … into the foreground as the camera pans left and tracks back to reveal …
+
+ 
+
+ 
+
+ 
+
+5.179 … a breakfast table …
+
+ 
+
+ 
+
+ 
+
+5.180 … at which Rauffenstein is revealed to be sitting.
+
+ 
+
+ 
+
+Late in the film, however, a parallel shot criticizes this one (5.181–5.183). Elsa’s war has none of Rauffenstein’s glory, and that is conveyed chiefly through a parallel created by the repeated camera movement. Moreover, these camera movements work together with mise-en-scene, as the narrative parallel is reinforced by the subtle use of objects as motifs—the crucifixes in 5.173 and 5.183, the photographs in 5.174 and 5.181, and the tables that end both shots. (Note the subtle use of the empty chairs upended on the table to reinforce the absence of Elsa’s husband.)
+
+ 
+
+5.181 This shot also begins on an object, a photograph of Elsa’s dead husband …
+
+ 
+
+ 
+
+ 
+
+5.182 … before tracking left past Elsa, who remarks, “Now the table is too large”…
+
+ 
+
+ 
+
+ 
+
+5.183 … to reveal the kitchen table, where her daughter Lotte sits alone.
+
+ 
+
+ 
+
+Moving the camera independently of figure movement also links characters with one another. Again and again in the POW camp, the camera moves to join one man to his comrades, spatially indicating their shared condition. When the prisoners ransack the collection of women’s clothes, one man decides to dress up in them. When he appears, a stillness falls over the men. Renoir tracks silently over the prisoners’ faces, each one registering a reticent longing.
+
+A more elaborate linking movement occurs in the scene of the prison vaudeville show, when the men learn that the French have recaptured a city. Renoir presents the shot as a celebration of spatial unity, with the camera moving among the men as they begin defiantly to sing the “Marseillaise” (5.184–5.190). This complex camera movement circulates freely among the prisoners, suggesting their patriotic courage and unity in disobeying their captors.
+
+ 
+
+5.184 As the lead “female” singer whips off his wig and requests the “Marseillaise” from the musicians …
+
+ 
+
+ 
+
+ 
+
+5.185 … the camera moves right as the singer turns toward the audience …
+
+ 
+
+ 
+
+ 
+
+5.186 … and farther right as others onstage sing along.
+
+ 
+
+ 
+
+ 
+
+5.187 A tilt down shows two worried German guards …
+
+ 
+
+ 
+
+ 
+
+5.188 … and a track back to the left reveals a row of French prisoners in the audience on their feet, singing.
+
+ 
+
+ 
+
+ 
+
+5.189 The camera tracks forward past them to the musicians and singer again …
+
+ 
+
+ 
+
+ 
+
+5.190 … then pans quickly left to face the entire audience.
+
+ 
+
+ 
+
+In Elsa’s cottage as well as in the prison, camera movement links characters. After feeding a cow, Maréchal enters the house, and a pan with him reveals Elsa scrubbing the floor. The culmination of the linking movement comes near the film’s end, when Renoir pans from the Germans on one side of the border (5.191) to the distant French escapees on the other (5.192, 5.193). Even on this scale, Renoir’s camera refuses to honor national divisions.
+
+ 
+
+5.191 As the Germans realize that Maréchal and Rosenthal have crossed over into Switzerland …
+
+ 
+
+ 
+
+ 
+
+5.192 … Renoir pans to the right across the invisible border …
+
+ 
+
+ 
+
+ 
+
+5.193 … to the two escapees, tiny dots in the huge landscape.
+
+ 
+
+ 
+
+The French film critic André Bazin remarked: “Jean Renoir found a way to reveal the hidden meaning of people and things without destroying the unity that is natural to them.” By placing emphasis and making comparisons, the mobile frame in Grand Illusion becomes as important as the mise-en-scene. The camera movements carve into space to create connections that enrich the film’s narrative form.
+
+In Michael Snow’s experimental film Wavelength, the relation of narrative to the mobile frame is quite different. Instead of supporting narrative form, frame mobility dominates narrative, even deflecting our attention from events. The film begins with a long-shot framing of a loft apartment, facing one wall and window (5.194). In the course of the film, the camera zooms in abruptly a short distance and then holds that framing. It zooms in a bit more and then holds that (5.195). And so it goes throughout the film’s 45-minute length. By the end, a photograph of ocean waves on the distant wall fills the frame in close-up.
+
+ 
+
+5.194 Early in Wavelength, much of the apartment is visible.
+
+ 
+
+ 
+
+ 
+
+5.195 Near the end, the sporadic zoom-ins have made details of the far wall visible.
+
+ 
+
+ 
+
+Thus Wavelength is structured primarily around a single kind of frame mobility—the zoom-in. Its pattern of progression and development is not a narrative one, but one of exploration, through deliberately limited means, of how the zoom transforms the space of the loft. The sudden zooms create frequent abrupt shifts of perspective relations. In excluding parts of the room, the zoom-in also magnifies and flattens what we see; every change of focal length gives us a new set of spatial relations. The zoom places more and more space offscreen. The sound track, for the most part, reinforces the basic formal progression by emitting a single humming tone that rises consistently in pitch as the zoom magnifies the space more and more.
+
+Within Wavelength’s basic pattern, though, there are two contrasting systems. The first is a series of filtered tints that plays across the image as abstract fields of color. These tints often work against the depth represented in the shot of the loft.
+
+A second system evokes a sketchy narrative. At various intervals, characters enter the loft and carry on certain activities (talking, listening to the radio, making phone calls). There is even a mysterious death (a body lies on the floor in 5.196). But these events remain unexplained in cause–effect terms and inconclusive as to closure (although at the film’s end we do hear a sound that resembles a police siren). Furthermore, none of these actions swerves the mobile framing from its predetermined course. The jerkily shifting and halting zoom continues, even when it excludes important narrative information. Thus Wavelength pulls in bits and pieces of narrative, but these fragments of action remain secondary, operating within the temporal progression of the zoom.
+
+ 
+
+5.196 The zoom-ins in Wavelength will soon eliminate the body on the floor from the frame.
+
+ 
+
+ 
+
+From the standpoint of the viewer’s experience, Wavelength’s use of frame mobility arouses, delays, and gratifies unusual expectations. What plot there is briefly arouses curiosity (What are the people up to? What has led to the man’s death, if he does die?) and surprise (the apparent murder). But in general, a story-centered suspense is replaced by a stylistic suspense: What will the zoom eventually frame? From this standpoint, the colored tints and even the plot work with the spasmodic qualities of the zoom to delay the forward progress of the framing. When the zoom finally reveals its target, our stylistic anticipations have come to fulfillment. The film’s title stands revealed as a multiple pun, referring not only to the steadily rising pitch of the sound track but also to the distance that the zoom had to cross in order to reveal the photo—a “wave length.”
+
+Grand Illusion and Wavelength illustrate, in different ways, how frame mobility can guide and shape our perception of a film’s space and time. Frame mobility may be motivated by larger formal purposes, as in Renoir’s film, or it may itself become the principal formal concern, motivating other systems, as in Snow’s film. By examining how filmmakers use the mobile frame within specific contexts, we can gain a fuller understanding of how our experience of a film is created.
+
+Duration of the Image: The Long Take
+
+In our consideration of the film image, we have emphasized spatial qualities—how photographic transformations can alter the properties of the image, how framing defines the image for our attention. But cinema is an art of time as well as space, and we have seen already how mise-en-scene and frame mobility operate in temporal as well as spatial dimensions. What we need to consider now is how the duration of the shot affects our understanding of it.
+
+There is a tendency to consider the shot as recording real duration. Suppose a runner takes three seconds to clear a hurdle. If we film the runner, our projected film will also consume three seconds—or so the assumption goes. One film theorist, André Bazin, made it a major tenet of his aesthetic that cinema records real time. But the relation of shot duration to the time taken by the filmed event is not so simple.
+
+First, obviously, the duration of the event on the screen may be manipulated during filming or post-production, as we discussed earlier in this chapter. Slow-motion or fast-motion techniques may present the runner’s jump in 20 seconds or 2. Second, narrative films often permit no simple equivalence of real duration with screen duration, even within one shot. As Chapter 3 pointed out (p. 86), story duration will usually differ considerably from plot duration and screen duration.
+
+Consider a shot from Yasajiro Ozu’s The Only Son. It is well past midnight, and we have just seen a family awake and talking; this shot shows a dim corner of the family’s apartment, with none of the characters onscreen (5.197). But soon the light changes. The sun is rising. By the end of the shot, it is morning (5.198). This transitional shot consumes about a minute of screen time. It plainly does not record the duration of the story events; that duration would be at least five hours. To put it another way, by manipulating screen duration, the film’s plot has condensed a story duration of several hours into a minute or so.
+
+ 
+
+5.197 A scene in The Only Son moves from night …
+
+ 
+
+ 
+
+ 
+
+5.198 … to day in a single shot.
+
+ 
+
+ 
+
+Other films use tracking movements to compress longer passages of time in a continuous shot (5.199, 5.200). The final shot of Signs moves away from an autumn view through a window (itself an echo of the opening shot’s track-back from a window) and through a room, to reveal a winter landscape outside another window. Months of story time have passed during the tracking movement.
+
+ 
+
+5.199 In Roger Michell’s Notting Hill, the protagonist’s walk through the Portobello street market moves through autumn …
+
+ 
+
+ 
+
+ 
+
+5.200 … winter, and spring.
+
+ 
+
+ 
+
+Functions of the Long Take
+
+Every shot has some measurable screen duration, but in the history of cinema, directors have varied considerably in their choice of short or lengthy shots. In general, early cinema (1895–1905) tended to rely on shots of fairly long duration, since there was often only one shot in each film. With the emergence of continuity editing in the period 1905–1916, shots became shorter. In the late 1910s and early 1920s, an American film would have an average shot length of about 5 seconds. After the coming of sound, the average stretched to about 10 seconds.
+
+Throughout the history of the cinema, some filmmakers have consistently preferred to use shots of greater duration than the average. In various countries in the mid-1930s, directors began to experiment with very lengthy shots. These filmmakers’ unusually lengthy shots—long takes, as they’re called—represented a powerful creative resource.
+
+Long take is not the same as long shot, which refers to the apparent distance between camera and object. As we saw in examining film production (pp. 16–17), a take is one run of the camera that records a single shot. Calling a shot of notable length a long take rather than a long shot prevents ambiguity, since the latter term refers to a distanced framing, not to shot duration. In the films of Jean Renoir, Kenji Mizoguchi, Orson Welles, Carl Dreyer, Miklós Janscó, Hou Hsiao-hsien, and Bèla Tarr, a shot may go on for several minutes. It would be impossible to analyze these films without an awareness of how the long take can contribute to form and style. One long take in Andy Warhol’s My Hustler follows the seductive exchange of two gay men as they groom themselves in a bathroom (5.201). The shot, which runs for about 30 minutes, constitutes much of the film’s second half.
+
+ 
+
+5.201 A long take in My Hustler.
+
+ 
+
+ 
+
+Usually, we can regard the long take as an alternative to a series of shots. The director may choose to present a scene in one or a few long takes or to present the scene through several shorter shots. When an entire scene is rendered in only one shot, the long take is known by the French term plan-séquence, or sequence shot.
+
+Most filmmakers use the long take selectively. One scene may rely heavily on editing, while another is presented in a long take. This permits the director to associate certain aspects of narrative or non-narrative form with the different stylistic options. A vivid instance occurs in the first part of Fernando Solanas and Octavio Getino’s Hour of the Furnaces. Most of the film relies on editing of newsreel and staged shots to describe how European and North American ideologies penetrate developing nations. But the last shot of the film is a slow zoom-in to a photograph of the corpse of Che Guevara, symbol of guerrilla resistance to imperialism. Solanas made the shot a long take, holding it for three minutes to force the viewer to dwell on the cost of resistance (5.202).
+
+ 
+
+5.202 The final three-minute shot of Hour of the Furnaces.
+
+ 
+
+ 
+
+Alternatively, the filmmaker may decide to build the entire film out of long takes. Hitchcock’s Rope is famous for containing only 11 shots, most running between 4 and 10 minutes. Similarly, each scene in Winterwind, Agnus Dei, Red Psalm, and other films by Miklós Jancsó is a single shot. In such cases, the long take becomes a large-scale part of a film. And in such a context, editing can have great force. After a seven- or eight-minute shot, an elliptical cut can prove quite disorienting. Gus van Sant’s Elephant traces events around a high-school shooting rampage, and it presents most scenes in very long takes following students through the hallways. Moreover, Elephant’s plot doesn’t present the events in chronological order. The narration flashes back to show other school days, the boys’ lives at home, and their preparations for the killings. So when a cut interrupts a long take, the audience must reflect for a moment to determine how the new shot’s action fits into the plot. The effect of the editing is unusually harsh, because the cuts tend to break the smooth rhythm of the sustained traveling shots (5.203–5.205).
+
+ 
+
+5.205 We expect a reverse shot to reveal what she sees. Instead, we get a flashback to earlier that day when the two boys showered together before going to school on their deadly mission.
+
+ 
+
+ 
+
+Could a feature-length movie consist of one long take? Many directors have dreamed of this possibility, but the lengths of film reels have prevented it. A 35mm camera reel typically runs for only 11 minutes, so Hitchcock tried to hide some of Rope’s obligatory cuts. Extended 16mm reels of the type Warhol used in My Hustler (5.201) can run up to 30 minutes. With digital video, however, it is possible to shoot for over two hours on a single tape, and the Russian director Aleksander Sokurov seized this opportunity in his Russian Ark. The film consists of a single shot nearly 90 minutes long, as a Steadicam follows over 2000 actors in period costume through St. Petersburg’s immense Winter Palace. Russian Ark takes us through several eras of Russian history, culminating in a stupendous ballroom dance and a crowd drifting off into a wintry night (5.206–5.208). Sokurov rehearsed Russian Ark for several months and completed the take used in the film on the fourth try.
+
+CONNECT TO THE BLOG
+
+Both There Will Be Blood and The Most Beautiful contain subtle staging in two unmoving long takes. We compare them in “Hands (and faces) across the table,” at www.davidbordwell.net/blog/?p=1944.
+
+ 
+
+5.206 In Russian Ark, one episode takes place in the palace theater, with Catherine the Great pronouncing the rehearsal satisfactory.
+
+ 
+
+ 
+
+ 
+
+5.207 An hour or so later, still within the same shot, hundreds of aristocrats and officers descend a staircase toward the impending devastation of the Russian Revolution.
+
+ 
+
+ 
+
+ 
+
+5.208 Crew members moving through the Hermitage Museum, filming Russian Ark with a digital camera mounted on a Steadicam (photography by Alexander Belenkiy).
+
+ 
+
+ 
+
+The Long Take and the Mobile Frame
+
+The Elephant example suggests that a long take is likely to rely on camera movement. Panning, tracking, craning, or zooming can be used to present continually changing vantage points that are comparable in some ways to the shifts of view supplied by editing.
+
+Very often, frame mobility breaks the long-take shot into significant smaller units. In Mizoguchi’s Sisters of Gion, one long take shows a young woman, Omocha, luring a businessman into becoming her patron (5.209–5.214). Though there is no cutting, the camera and figure movements demarcate important stages of the scene’s action.
+
+ 
+
+5.209 In Sisters of Gion, the long take begins with Omocha and the businessman seated. The camera follows as …
+
+ 
+
+ 
+
+ 
+
+5.212 A second phase of the shot begins as she begins to appeal to his sympathy and he moves to the table …
+
+ 
+
+ 
+
+ 
+
+5.213 … and sits down to console her.
+
+ 
+
+ 
+
+ 
+
+5.214 Finally, the camera moves into a tighter shot as she sits beside him and he succumbs to her advances.
+
+ 
+
+ 
+
+As in this example, long takes tend to be framed in medium or long shots. The camera lingers on a fairly dense visual field, and the spectator has more opportunity to scan the shot for particular points of interest. This is recognized by Steven Spielberg, a director who has occasionally exploited lengthy takes:
+
+I’d love to see directors start trusting the audience to be the film editor with their eyes, the way you are sometimes with a stage play, where the audience selects who they would choose to look at while a scene is being played…. There’s so much cutting and so many close-ups being shot today I think directly as an influence from television.
+
+As we saw in the previous chapter, however, the director can guide the audience’s scanning of the frame through all of the technical resources of mise-en-scene. This is another way of saying that using the long take often puts more emphasis on performance, setting, lighting, and other mise-en-scene factors.
+
+The example from Sisters of Gion illustrates another important feature of the long take. Mizoguchi’s shot reveals a complete internal logic—a beginning, middle, and end. As a part of a film, the long take can have its own formal pattern, its own development, its own trajectory and shape. Suspense develops; we start to ask how the shot will continue and when it will end.
+
+The classic example of how the long take can constitute a formal pattern in its own right is the opening sequence of Welles’s Touch of Evil
+(5.215–5.226). This opening shot makes plain most of the features of the long take. It offers an alternative to building the sequence out of many shots, and it stresses the cut that finally comes (occurring at the sound of the explosion of the car).
+
+ 
+
+5.225 Their embrace is interrupted by the offscreen sound of an explosion, and they turn to look leftward.
+
+ 
+
+ 
+
+ 
+
+5.226 The next shot zooms in to show the car in flames.
+
+ 
+
+ 
+
+Most important, the shot has its own internal pattern of development. We expect that the bomb shown at the beginning will explode at some point, and we wait for that explosion through the duration of the long take. The shot establishes the geography of the scene (the border between Mexico and the United States). The camera movement, alternately picking up the car and the walking couple, weaves together two lines of narrative cause and effect that intersect at the border station. Vargas and Susan are thus drawn into the action involving the bombing. Our expectation is fulfilled when the end of the shot coincides with the explosion (offscreen) of the bomb. The shot has guided our response by taking us through a suspenseful development.
+
+The long take can present, in a single chunk of time, a complex pattern of events moving toward a goal, and this ability shows that shot duration can be as important to the image as photographic qualities and framing are.
+
+SUMMARY
+
+The film shot is a very complex unit. Mise-en-scene fills the image with material, arranging setting, lighting, costume, and staging within the formal context of the total film. Within that formal context, the filmmaker also controls the cinematographic qualities of the shot—how the image is photographed and framed, how long the image lasts on the screen.
+
+You can sensitize yourself to these cinematographic qualities in much the same way that you worked on mise-en-scene. Trace the progress of a single technique—say, camera distance—through an entire scene. Notice when a shot begins and ends, observing how the long take may function to shape the film’s form. Watch for camera movements, especially those that follow the action (since those are usually the hardest to notice). Once you are aware of cinematographic qualities, you can move to an understanding of their various possible functions within the total film.
+
+Film art offers still other possibilities for choice and control. Chapters 4 and 5 focused on the shot. The filmmaker may also juxtapose one shot with another through editing, and that’s the subject of Chapter 6.
+
+WHERE TO GO FROM HERE
+
+General Works
+
+The standard reference book on cinematography is Stephen H. Burum, ed., The American Cinematographer Manual, 9th ed. (Hollywood: American Society of Cinematographers, 2007). Other good sources are Kris Malkiewicz, Cinematography, 3d ed. (New York: Fireside, 2005), and Paul Wheeler, Practical Cinematography, 2d ed. (Boston: Focal Press, 2005). On digital cinematography, see Scott Billups, Digital Moviemaking 3.0 (Los Angeles: Michael Wiese Productions, 2008), and Paul Wheeler, High Definition Cinematography, 2d ed. (Boston: Focal Press, 2007). A monthly magazine, American Cinematographer, publishes detailed articles on current cinematography around the world.
+
+Cinematographers can be articulate about their craft. See the conversations in Vincent LoBrutto, Principal Photography: Interviews with Feature Film Cinematographers (Westport, CT: Praeger, 1999); Pauline Rogers, Contemporary Cinematographers on Their Art (Boston: Focal Press, 1999); Benjamin Bergery, Reflections: Twenty-One Cinematographers at Work (Hollywood: ASC Press, 2002); and Peter Ettedgui, Cinematography: Screencraft (Hove, England: RotoVision, 1998).
+
+In the Rogers collection, Dean Cundey recalls that the camera movements in Who Framed Roger Rabbit? posed problems for adding animation. “If Roger was to go from one part of the room to another, hopping onto a chair, we had to find a way for the camera operator to track that movement. We developed full-size rubber characters to stage the action. The operator could then see movement in real time. He would associate movement with dialogue.”
+
+Alternative points of view on cinematography may be found in Stan Brakhage, “A Moving Picture Giving and Taking Book,” in Brakhage Scrapbook: Collected Writings 1964–1980, ed. Robert A. Haller (New Paltz, NY: Documentext, 1982), pp. 53–77, and Dziga Vertov, Kino-Eye: The Writings of Dziga Vertov, ed. Annette Michelson (Berkeley: University of California Press, 1984).
+
+Color Versus Black and White
+
+Today most films are shot on color stock, and most viewers have come to expect that movies will be in color. At many points in film history, however, color and black-and-white film have been used to carry different meanings. In 1930s and 1940s American cinema, color tended to be reserved for fantasies (for example, The Wizard of Oz), historical films or films set in exotic locales (Becky Sharp, Blood and Sand), or lavish musicals (Meet Me in St. Louis). Black and white was then considered more realistic. But now that most films are in color, filmmakers can call on black and white to suggest a historical period (as witnessed by two such different films as Straub and Huillet’s Chronicle of Anna Magdalena Bach and Tim Burton’s Ed Wood). Such rules of thumb as “color for realism” have no universal validity; as always, it is a matter of context, the function of color or black-and-white tonalities within a specific film.
+
+A basic history is R. T. Ryan, A History of Motion Picture Color Technology (New York: Focal Press, 1977). The most influential early process is considered in Fred E. Basten’s Glorious Technicolor: The Movies’ Magic Rainbow (Camarillo, CA: Technicolor, 2005). See also Scott Higgins, Harnessing the Technicolor Rainbow: Color Design in the 1930s (Austin: University of Texas Press, 2007). Len Lye explains the elaborate process behind the color design of Rainbow Dance in Wystan Curnow and Roger Horrocks, eds., Figures of Motion: Len Lye/Selected Writings (Auckland: Auckland University Press, 1984), pp. 47–49.
+
+Film theorists have debated whether color film is artistically less pure than black and white. One argument against color may be found in Rudolf Arnheim, Film as Art (Berkeley: University of California Press, 1957). Arnheim’s argument is disputed by V. F. Perkins in Film as Film (Baltimore: Penguin, 1972).
+
+Special-Effects Cinematography
+
+Part of the reason that major film studios tout themselves as “magic factories” is that special-effects cinematography demands the complexity and expense that only a big firm can support. Special effects require the time, patience, and rehearsal afforded by control over mise-en-scene. It is, then, no surprise that Méliès, the first person to exploit fully the possibilities of studio filmmaking, excelled at special-effects cinematography. Nor is it surprising that when UFA, the gigantic German firm of the 1920s, became the best-equipped film studio in Europe, it invested heavily in new special-effects processes. Similarly, as Hollywood studios grew from the mid-1910s on, so did their special-effects departments. Engineers, painters, photographers, and set designers collaborated to contrive fantastic visual novelties. In these magic factories, most of the history of special effects has been made.
+
+But such firms were not motivated by sheer curiosity. The costs of elaborate back projection and matte work were good investments. First, expensive as they were, such tricks often saved money in the long run. Instead of building a huge set, one could photograph the actors through a glass with the setting painted on it. Instead of taking players to the desert, one could film them against a back projection of the pyramids. Second, special effects made certain film genres possible. The historical epic—whether set in Rome, Babylon, or Jerusalem—was unthinkable unless special effects were devised to create huge vistas and crowds. The fantasy film, with its panoply of ghosts, flying horses, and invisible or incredibly shrinking people, demanded that superimposition and matte processes be improved. The science fiction film genre could scarcely exist without a barrage of special effects. For the major studios, the “factory” principle was responsible for the “magic.”
+
+A good survey of the subject is Richard Rickitt’s sumptuously illustrated Special Effects: The History and the Technique, 2d ed. (New York: Billboard, 2007). Pascal Pintau offers a historical overview interspersed with interviews with 37 effects artists in his Special Effects: An Oral History—Interviews with 37 Masters Spanning 100 Years (New York: Harry N. Abrams, 2005). Illuminating case studies can be found in Linwood G. Dunn and George E. Turner, eds., The ASC Treasury of Visual Effects (Hollywood: American Society of Cinematographers, 1983). Patricia D. Netzley’s Encyclopedia of Movie Special Effects (New York: Checkmark Books, 2001) provides entries on techniques, practitioners, and individual films. Aimed at low-budget filmmakers, Mark Sawicki’s Filming the Fantastic: A Guide to Visual Effects Cinematography (Boston: Focal Press, 2007) introduces a wide range of physical and digital effects in language that readers of Film Art will largely be able to understand.
+
+Studies of predigital effects include Mark Cotta Vaz and Craig Barron’s The Invisible Art: The Legends of Movie Matte Painting (San Francisco: Chronicle Books, 2002). This extensive and well-illustrated history includes a CD-ROM with examples of matte paintings. Stan Winston was a master of physical effects, in particular puppets and creature creation; see Jody Duncan’s The Winston Effect: The Art & History of Stan Winston Studio (London: Titan Books, 2006).
+
+For histories of digital-effects firms, see Mark Cotta Vaz and Patricia Rose Duignan, Industrial Light & Magic: Into the Digital Realm (New York: Ballantine Books, 1996), and Piers Bizony, Digital Domain: The Leading Edge of Visual Effects (New York: Billboard Books, 2001). George Lucas has been a leading force in promoting digital technology, including special effects; Michael Rubin chronicles his career in Droidmaker: George Lucas and the Digital Revolution (Gainesville, FL: Triad Books, 2006).
+
+Shilo T. McClean offers analyses of how digital special effects function in movies in her Digital Storytelling: The Narrative Power of Visual Effects in Film (Cambridge, MA: MIT Press, 2007).
+
+Articles on particular films’ use of special effects appear regularly in American Cinematographer and Cinefex.
+
+Aspect Ratio
+
+The aspect ratio of the film image has been debated since the inception of cinema. The Edison-Lumière ratio (1.33:1) was not generally standardized until 1911, and even after that other ratios were explored. Many cinematographers believed that 1.33:1 was the perfect ratio (perhaps not aware that it harks back to the “golden section” of academic painting). With the large-scale innovation of widescreen cinema in the early 1950s, cries of distress were heard. Most camera operators hated it. Lenses often were not sharp, lighting became more complicated, and as Lee Garmes put it, “We’d look through the camera and be startled at what it was taking in.” Yet some directors—Nicholas Ray, Akira Kurosawa, Samuel Fuller, François Truffaut, and Jean-Luc Godard—created fascinating compositions in the widescreen ratio. The systems are exhaustively surveyed in Robert E. Carr and R. M. Hayes’s Wide Screen Movies: A History and Filmography of Wide Gauge Filmmaking (Jefferson, NC: McFarland, 1988).
+
+The most detailed defense of the aesthetic virtues of the widescreen image remains Charles Barr’s “CinemaScope: Before and After,” Film Quarterly 16, 4 (Summer 1963): 4–24. The Velvet Light Trap 21 (1985) contains several articles on the history and aesthetics of widescreen cinema, including an article on Barr’s essay and second thoughts by Barr. On widescreen staging practices, see David Bordwell, “CinemaScope: The Modern Miracle You See Without Glasses,” in Poetics of Cinema (New York: Routledge, 2007), pp. 281–325.
+
+During the 1980s, two variants on traditional film gauges were designed in response to widescreen demands. One innovation was Super 35mm, which expands the image area within the traditional 35mm format. It allows filmmakers to make a release print at either 2.40:1 (anamorphic) ratio or 1.85:1 matted. For small-budget projects, there was Super 16mm, which can be blown up to make 35mm release prints more easily than from normal 16mm. Super 16mm provides 40 percent more image area and creates a wider frame that can be matted to the 1.85:1 aspect ratio favored in 35mm exhibition.
+
+Widescreen Welles
+
+The 2000 DVD release of Orson Welles’s Touch of Evil created a controversy among admirers of the film. The film had originally been shot in 1.37, but by 1957, the widescreen revolution had made that format rare. Most films were shown in a wider ratio, such as 1.66 or 1.85. The producers of the DVD version of the film settled on 1.85 as the appropriate one. They explained that Welles would have expected the full-frame images to be cropped in projection and that he would have seen and approved the work print in that standard format.
+
+But many observers argued that Welles didn’t want his images cropped, having declared his distaste for widescreen formats. Many complained that the compositions looked too confining, and some older viewers recalled seeing the film in theaters in 1.37.
+
+The controversy reached its peak when a new DVD box set was released in 2008. The debate can be followed online, at a website hosted by critic Dave Kehr (http://www.davekehr.com/?p=127) and at a site largely devoted to Criterion releases (http://www.criterionforum.org/forum/viewtopic.php?f=4&t=4223&start=150).
+
+Welles’s published comments on widescreen have been reprinted at http://www.wellesnet.com/?p=155. His remarks about Touch of Evil in a 1958 letter are ambiguous:
+
+Nowadays the eye is tamed, I think, by the new wide screens. These “systems” with their rigid technical limitations are in such monopoly that any vigorous use of the old black-and-white, normal aperture camera runs the risk of seeming tricky by comparison. The old camera permits use of a range of visual conventions as removed from “realism” as grand opera. This is a language not a bag of tricks. If it is now a dead language, as a candid partisan of the old eloquence, I must face the likelihood that I shall not again be able to put it to the service of any theme of my own choosing.
+
+Welles registers his preference for the “normal” (1.37) aperture, but he indicates that it is now “dead.” He also says that he won’t be able to employ it “again.” But does “again” mean, “after having employed it in Touch of Evil,” or simply “since the widescreen revolution of the early 1950s”?
+
+After consulting with Welles experts, we have decided to reproduce the Touch of Evil frames in this book in the wider-aspect ratio. But the matter is far from settled.
+
+The Subjective Shot
+
+Sometimes the camera, through its positioning and movements, invites us to see events through the eyes of a character. Some directors (Howard Hawks, John Ford, Kenji Mizoguchi, Jacques Tati) seldom use the subjective shot, but others use it constantly. As 5.135 indicated, Samuel Fuller’s Naked Kiss starts with shocking subjective shots:
+
+We open with a direct cut. In that scene, the actors utilized the camera. They held the camera; it was strapped on them. For the first shot, the pimp has the camera strapped on his chest. I say to [Constance] Towers, “Hit the camera!” She hits the camera, the lens. Then I reverse it. I put the camera on her, and she whacks the hell out of him. I thought it was effective. (Quoted in Eric Sherman and Martin Rubin, The Director’s Event [New York: Signet, 1969], p. 189)
+
+Filmmakers began experimenting with the “firstperson camera” or the “camera as character” quite early. Grandma’s Reading Glass (1901) features subjective point-of-view shots. Keyholes, binoculars, and other apertures were often used to motivate optical point of view. In 1919, Abel Gance used many subjective shots in J’accuse. The 1920s saw many filmmakers taking an interest in subjectivity, seen in such films as E. A. Dupont’s Variety (1925), F. W. Murnau’s The Last Laugh (1924) with its famous drunken scene, and Abel Gance’s Napoleon (1927). Some believe that in the 1940s, the subjective shot—especially subjective camera movement—got completely out of hand in Robert Montgomery’s Lady in the Lake (1946). For almost the entire film, the camera represents the vision of the protagonist, Philip Marlowe; we see him only when he glances in mirrors. “Suspenseful! Unusual!” proclaimed the advertising. “YOU accept an invitation to a blonde’s apartment! YOU get socked in the jaw by a murder suspect!”
+
+The history of the technique has teased film theorists into speculating about whether the subjective shot evokes identification from the audience. Do we think we are Philip Marlowe? The problem of audience identification with a point-of-view shot remains a difficult one in film theory. A useful discussion is Edward Branigan’s Point of View in the Cinema: A Theory of Narration and Subjectivity in Classical Film (New York: Mouton, 1984).
+
+Real Time and the Long Take
+
+When the camera is running, does it record real time? If so, what artistic implications follow from that?
+
+André Bazin argued that cinema is an art that depends on actual duration. Like photography, Bazin claimed, cinema is a recording process. The camera registers, photochemically, the light reflected from the object. Like the still camera, the movie camera records space. But unlike the still camera, the movie camera can also record time. “The cinema is objectivity in time…. Now, for the first time, the image of things is likewise the image of their duration, change mummified as it were” (What Is Cinema? vol. 1 [Berkeley: University of California Press, 1966], pp. 14–15). On this basis, Bazin saw editing as an intrusive interruption of the natural continuity of duration. He thus praised long-take directors such as Jean Renoir, Orson Welles, William Wyler, and Roberto Rossellini as artists whose styles respected concrete moment-to-moment life.
+
+Bazin should be credited with calling our attention to the possibilities latent in the long take at a time when other film theorists considered it theatrical and uncinematic. Yet the problem of real time in film seems more complicated than Bazin thought. For one thing, in the digital age, an apparent long take can be built up out of separate elements joined by special effects. In The War of the Worlds, for example, a shot of the hero and his children fleeing along a highway in a minivan lasts for 2 minutes and 22 seconds. As the family talks, screams, and shouts at each other about the attack they have just escaped, the camera circles the van, filming them through the windows. Yet in reality, the actors were performing in a studio against a bluescreen. The landscapes, people, and vehicles that whiz past them in the background were made with eight cameras mounted on a Jeep that drove along a stretch of highway. The circling camera filming the van on that same highway was mounted at times on the side of the vehicle and at other times on another vehicle that could pull quickly backward for long-shot views. All these elements were joined by animators into a single shot, using the upright frames of the windows as transition points where elements could be joined unnoticeably. To top it all off, the glass of the windows, which reflects the vehicles and lampposts whizzing by, were added digitally. (See Joe Fordham’s “Alien Apocalypse,” Cinefex 103 [October 2005]: 76.)
+
+Bazin’s claims about real time are also undermined by the fact that screen time does not always equal story time. For example, a five-minute long take may not present five minutes in the story. The shot that tracks the protagonist of Notting Hill through changing seasons lasts about 100 seconds on the screen, but it covers about a year of story time (p. 213). The 91-minute shot that constitutes Russian Ark shifts the viewer backward and forward through Russian history. Mise-en-scene cues can override the camera’s recording of real duration, giving the film a flexible time frame. As usual, a film’s overall formal context assigns concrete functions to particular stylistic elements.
+
+Websites
+
+www.theasc.com/ The official site of the American Society of Cinematographers, tied to this association’s activities and its journal, American Cinematographer. Includes some online articles.
+
+www.soc.org/magazine.html/ The official site of the Society of Operating Cameramen, with an archive of many articles. Especially good are Rick Meyer’s essays on the history of widescreen processes.
+
+www.cinematography.net/ An extensive discussion site about professional cinematography.
+
+www.widescreenmuseum.com/ A vast site (950 pages, 3000 images) devoted to widescreen processes, past and present, as well as color and sound technology.
+
+Recommended DVD Supplements
+
+The 1993 documentary Visions of Light: The Art of Cinematography, which includes numerous interviews with cinematographers and brief clips from a wide variety of films, is available on DVD (Image Entertainment). In “Painting with Light,” cinematographer Jack Cardiff talks about his use of Technicolor in Black Narcissus. Raoul Coutard discusses anamorphic widescreen and color processes in an interview on the Contempt DVD (which also includes a “Widescreen vs. Full-Frame Demonstration”). Oklahoma!’s disc contains a very good comparison featurette, “CinemaScope vs. Todd-AO,” as well as a short originally shown in theaters before Oklahoma! to introduce the new widescreen process, “The Miracle of Todd-AO.”
+
+A rare demonstration of laboratory work comes in “Day 66: Journey of a Roll of Film,” in King Kong: Peter Jackson’s Production Diaries, which includes the use of a Telecine machine to make a digital intermediate. The process of selective digital grading, which we discuss on page 185, is explained in “Digital Grading,” on the Lord of the Rings: The Fellowship of the Ring supplements.
+
+Discussions of perspective and depth cues are equally rare, but they receive fascinating coverage in “Little People, Big Effects,” a supplement to the Darby O’Gill and the Little People DVD. It includes excellent footage of matte paintings for this film and for Treasure Island. There is a section on forced perspective, where actors are made to appear small by placing them farther away from the people they appear to be facing (the same technique used in many shots of The Lord of the Rings 40 years later). The importance of matching eye-lines and of achieving deep focus is explained.
+
+The “Outward Bound” chapter on the Alien disc provides a clear demonstration of how models were shot to look realistic in the pre-CGI, pre-green-screen era. Speed’s “Visual Effects” track covers motion control, the digital matte work and other tricks showing the bus jumping the freeway gap, and a huge miniature used for the final train crash. The “Special Effects Vignettes” for Cast Away do a particularly good job of tracing through the various layers that build up as CGI shots are created. “Visual FX: MTA Train” gives a brief but informative look at green-screen work in Collateral’s train scene; it shows how effects can be used not only for flashy action but also for such subtle purposes as varying the colors and lights seen through the windows as the mood of the scene shifts. “Designing the Enemy: Tripods and Aliens” (War of the Worlds) reveals how computers can be used to design digital figures. Each of the Lord of the Rings DVD sets contains extensive special-effects descriptions, and The Return of the King supplements include a segment on one of the most complex CGI scenes ever created: “Visual Effects Demonstration: ‘The Mûmakil Battle.’”
+
+“No Feat But What We Make,” a Terminator 2: Judgment Day supplement, offers an excellent history of the early development of digital special effects in The Abyss and Terminator 2, and includes director James Cameron discussing perspective. “The Making of Jurassic Park” covers some of the same material and moves forward to the transitions from animation of shiny surfaces to the creation of realistic dinosaurs.
+
+More recent developments in computer effects are dealt with in “Meet Davy Jones,” a supplement on the Pirates of the Caribbean: Dead Man’s Chest DVD; it demonstrates important advances in motion-capture technology. Good making-ofs for other effects-heavy films are “Wired: The Visual Effects of Iron Man” and “Daemons” and “Armoured Bears” in the Golden Compass supplements. The use of CGI to create less noticeable effects, like realistic settings and erasure of unwanted elements, is demonstrated in “The Visual Effects of Zodiac”; the “New York, New Zealand” section of King Kong: Peter Jackson’s Production Diaries; and “In Camera: The Dark Knight.”
+
+The Dark Knight was the first fiction feature to shoot some sequences using Imax cameras, as is explained in the supplement “Shooting Outside the Box.”
+
+With the recent increase in multiple-camera shooting in epic films, DVD supplements sometimes include sequences juxtaposing the views from those cameras shown in splitscreen. These tend not to provide much information about the process, but the “Interactive Multi-Angle Battle Scene Studies” for Master and Commander helpfully give readouts of lens length and shooting speed (revealing how common it has become for shots of violent action to be done with varying degrees of slow motion). Similarly, Speed’s “Action Sequences: Multi-angle Stunts,” provides a frames-per-second readout in its demonstration. Dancer in the Dark’s extreme use of multiple-camera shooting for the music numbers is explained in “100 Cameras: Capturing Lars von Trier’s Vision.”
+
+The ultimate supplement dealing with long takes is “In One Breath,” which documents the filming of the single elaborate shot that makes up Russian Ark.

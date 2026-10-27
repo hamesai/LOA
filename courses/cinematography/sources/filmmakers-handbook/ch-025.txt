@@ -1,0 +1,127 @@
+APPENDIX A
+
+ADJUSTING A VIDEO MONITOR
+
+The Importance of a Good Video Monitor
+
+We all watch TV and use computers without much thought about how the screens are adjusted for brightness, color, and contrast. When shooting or editing video, however, setting up a picture monitor to professional standards is critical for evaluating and controlling the picture.
+
+During shooting, we use the camera’s LCD screen, electronic viewfinder, and/or a separate field monitor to view the camera’s input signal. But this is not necessarily identical to the image the camera is actually capturing to file or tape. For instance, color, saturation, shadow detail, contrast, or overall brightness shown by the field monitor or viewfinder may or may not match what is later seen on a high-quality “broadcast reference” monitor when the recorded signal is played back in post. Needless to say, when we make lighting and exposure decisions based on what we see in the field, we need to be confident that the display we’re viewing is as accurate as possible.
+
+While editing on an NLE, we tend to accept what we see on the computer’s display, although RGB computer displays often don’t accurately reproduce component video color space (Y’CBCR, also referred to as YUV). If you use a computer display to color-correct video, things may look quite different when the results are played back on a TV. (For more on this, see Computer and Video Monitors, p. 218.)
+
+And when your movie is finished and it’s time to screen it, a properly adjusted digital video projector is equally important. A lot of effort goes into producing your project, and you want it to look its best for your audience.
+
+In other words, there’s no substitute for a properly adjusted picture monitor in both production and post. It’s a necessity.
+
+Professional video monitors and projectors are set up (adjusted) for color hue, color saturation, shadow detail, and contrast using a test signal that contains color bars. It’s the only method that truly guarantees that what you see is really what you get.
+
+The color bar setup described below applies to digital HD video monitors and TVs only. In general, whenever you connect a digital monitor to a video source—be it a camera, an NLE, or a tape deck—use digital connections like HDMI or HD-SDI instead of analog connections like analog component HD (also called YPBPR) or composite SD (often labeled “video in”) unless your equipment won’t support it. If any terms are unfamiliar, see Chapters 1 and 5.
+
+For anyone who has experience setting up analog NTSC standard definition monitors, there are two major differences in setting up newer digital HD monitors. First, while black level in the analog NTSC signal used in North America was 7.5 IRE units (see p. 205), black level in digital video the world over is 0 percent. The monitor setup instructions below assume you are working with digital video (usually Rec. 709 for HD) with black at 0 percent. Second, NTSC monitors had adjustments for both chroma and phase (more on these terms below). HD monitors connected via digital interfaces (such as HDMI, DisplayPort, DVI, HD-SDI, and SDI) don’t offer phase (hue) control. You don’t need it, because with a digital connection, the color spectrum will not shift out of alignment. However, digital monitors with analog inputs can have hue adjustments that may improperly affect a digital input. (This shouldn’t be the case, because a digital monitor can sense whether its video input signal is digital or analog, but many monitors are made this way.) If your digital monitor does have a control for hue or phase, you can verify if it affects a digital input signal by adjusting the hue or phase control—if this control does incorrectly alter the appearance of a digital signal, you’ll see the result immediately, as colors will go wacky all at once. In this case, use SMPTE HD color bars (described below) to set proper hue.
+
+For instructions on adjusting computer monitors to best display video, see the help section in your operating system, video card, or monitor calibration software. Many systems have a simple step-by-step process you can follow to calibrate the display. Products like Matrox’s MXO2 series of converters can be used to calibrate a computer monitor for use with Y’CBCR component video (and also to set up a consumer TV that lacks professional controls).
+
+If your HD project will only be seen on the Internet and not on broadcast or cable TV, then you don’t need a video monitor that displays Y’CBCR, and a properly calibrated computer monitor will serve fine for color correction.
+
+Color Bars
+
+Most cameras and NLEs generate color bars. You can send a signal directly into the production monitor or NLE video monitor, or you can record the bars for adjustment from playback. There are different types of bars with different features.
+
+Newer professional HD equipment can generate a color bar pattern called ARIB bars (for their original creator, the Japanese Association of Radio Industry and Businesses) or SMPTE RP 219-2002 bars (see Fig. A). These are 16:9 aspect ratio and specifically designed for digital HD. We’ll call them SMPTE HD color bars.
+
+Another common type of color bars is an updated HD version of the traditional SMPTE split-field pattern (see Fig. B). Unlike the earlier SD analog version of these bars, which were 4:3 aspect ratio, the HD version is in 16:9. “Split-field” refers to the short rectangular boxes under the main bars, which help adjust both hue (phase) and saturation of analog HD input signals (more on this below). Techniques for setting up a monitor with either type of color bars are similar.
+
+Basic Monitor Controls
+
+Two of the main controls on a professional video monitor are brightness (sometimes labeled black level) and contrast (white level, also called picture). These features are badly named, as the brightness control mainly raises and lowers the blacks, which your eye perceives largely as a change in contrast.
+
+Fig. A. SMPTE HD color bars. The inset shows the PLUGE pattern with raised black levels. When blacks are properly set, only the +2 percent and +4 percent stripes in the PLUGE should be visible, and just barely at that.
+
+Fig. B. SMPTE HD split-field bars. The PLUGE is shown here with elevated blacks for clarity. Only the +3.5 percent stripe should be visible.
+
+HD digital monitors have an adjustment for color (saturation, properly called chroma), which adjusts the intensity of colors but not their hues, which are fixed. However, monitors for older analog signals like NTSC and analog HD also have a hue adjustment (also called tint, phase, or chroma phase), which controls the two color-difference, or chrominance, signals in the component analog video signal. If these signals aren’t precisely aligned, all the colors in the image will appear to shift to something unnatural.
+
+Many consumer TVs have automatic or “smart” settings for color and brightness; turn these off if you are adjusting a TV to color bars. Also turn off any noise-reduction features.
+
+The Viewing Environment
+
+While theatrical projection is usually done in a very dark room, video monitors are by design brighter than projection and usually look better with a little light in the room. Make sure light sources don’t fall directly on the screen (which washes out the blacks, lowering contrast, and can affect color reproduction). For production work outdoors, a hood or shade can be fitted over the monitor to protect contrast.
+
+HOW TO SET UP AN HD VIDEO MONITOR USING SMPTE COLOR BARS
+
+1. Allow Monitor to Warm Up
+
+Run it fifteen minutes to stabilize it.
+
+2. Check Color Temperature
+
+Most monitors have a menu setting for display color temperature (white point), which must be set to a world standard of 6500°K (also called D65). If in doubt, check the monitor’s menu to confirm the setting. Typically you’ll have to make this adjustment only once.
+
+3. Set Black Level
+
+The control labeled “brightness” on many monitors actually controls the black level, which is the value of the darkest black parts of the image. When brightness is set too low, you lose detail in the blacks (crushed blacks). When brightness is set too high, the blacks look milky or gray. Brightness also affects color values, so you want to set this before adjusting color. It can sometimes be easier to evaluate brightness with the color turned down or off altogether (which you can do by reducing the chroma or, on some monitors, switching to monochrome).
+
+In the bottom right-hand corner of both types of color bars is a patch of thin vertical gray stripes called PLUGE bars (Picture Line-Up Generating Equipment). SMPTE HD bars have five stripes in the PLUGE area. Two stripes are at 0 percent black, two are slightly lighter than that, and one is darker. The idea is to lower the brightness control until the left-hand stripe (−2 percent) and the 0 percent stripe next to it merge together. The +2 percent bar in the middle and +4 percent bar on the right should be just barely visible, with the 0 percent bar merged into the darkest black. When you’re close, sometimes it helps to tweak the brightness up and down a tiny bit to find the spot where the 0 percent stripe just disappears. That’s all there is to it.
+
+SMPTE HD split-field bars have only three stripes: one at 0 percent black, one lighter, and one darker. The idea is the same. Lower the brightness until the leftmost stripe and the one in the middle just merge into blackness. The +3.5 percent bar on the right will be just visible.
+
+4. Set Peak White Level
+
+The “contrast” or “picture” control adjusts the level of midtones and bright whites. It also sets the distance or separation between the black level and the brightest whites. The appearance of contrast on your monitor will be affected by local ambient light levels, so setting contrast levels can be a bit of an art form.
+
+In both types of color bars, there’s a square in the bottom row that is 100 percent white. Start with the contrast control down, and as you raise it, watch that square turn from gray to white. When it stops responding, you’ve reached peak white. One technique therefore is to turn it back down and raise it again until you just reach the point where it stops responding. The white level is now set. (This doesn’t work on OLED monitors, however, in which the 100 percent white square simply gets brighter and brighter. With OLED monitors, perhaps it’s best to start with manufacturer’s center position for contrast.)
+
+With SMPTE HD bars, as you raise the contrast, on some monitors you’ll notice that the Y-ramp, which is only supposed to be white at its far-right side, starts getting whiter toward the middle as contrast becomes excessive. You can also use this to gauge when the white is too bright.
+
+Setting the contrast can affect the brightness and vice versa. Sometimes you have to go back and tweak the brightness after doing the contrast.
+
+5. Set Chroma (and Possibly Hue)
+
+Now it’s time to set the chroma (color saturation). This is where SMPTE color bars are so handy. If you have a professional monitor, enable the “blue-only” function (sometimes it’s a switch or button on the outside; sometimes it is a menu selection). This will turn off the red and green so that the screen turns deep blue (or sometimes black-and-white). If your monitor doesn’t have a blue-only function, you can view the color bars through a Lee 363 blue gel, although this is much less satisfactory. Some I/O and signal-conversion devices like Matrox’s MXO2 can supply a signal that allows a similar type of calibration to a monitor that lacks a blue-only mode.
+
+When using SMPTE HD bars with a monitor in blue-only mode, adjust chroma (sometimes labeled “color” or “saturation”) until the three vertical bars shown in Figure C achieve the same intensity or brightness, which should make them the same as the horizontal bar below them.
+
+Fig. C. With SMPTE HD bars, when setting chroma (also called saturation or “color”) with a monitor in blue-only mode, these four bars should have the same brightness.
+
+When using SMPTE HD split-field bars in blue-only mode, adjust chroma so that the two outer bars have the same intensity as the small color rectangles directly below them. When this is done, the two outer bars should also match each other (see Fig. D).
+
+Fig. D. (left) With SMPTE HD split-field bars, when adjusting chroma on a monitor that displays blue only, these two bars and the patches under them should have the same intensity. (right) When adjusting hue (tint) for an analog signal, these bars and the patches under them should look the same. In the case of either a digital or analog input signal, when you finish setting up the monitor, these four bars and the patches under them should all look the same.
+
+If you are adjusting a monitor for an analog HD signal, you can also adjust hue (or phase) in a similar way, so that the near left and right blue bars and the small color rectangles below them are the same. Counting from the left, these would be bars 3 and 5 (see Fig. D). As described above, you may also need to do this with a digital HD signal if the hue adjustment on your monitor affects the picture.
+
+When you are done adjusting the two outer bars—and also, in the case of analog HD, bars 3 and 5—all four bars should now match each other and the small rectangles under them. If this isn’t the case, retweak chroma/color—and for analog only, hue/phase—until you achieve this. The two adjustments are interactive, but it isn’t very hard to get a good result.
+
+Now turn off the blue-only mode and voilà!—perfect color and saturation.
+
+Some cameras only output “full-field” bars without the PLUGE or other bars below (see Fig. E). It’s much harder to set up a monitor with these. In former PAL countries, these are known as EBU bars. With a monitor in blue-only mode, match the first and seventh bars from the left in blue-only mode by adjusting chroma. If adjusting an analog HD signal, match the third and fifth bars from the left by adjusting hue (phase). Again, all four should then match each other.
+
+Fig. E. (left) Full-field bars. (right) When properly adjusted, these appear on a monitor in blue-only mode with three dark bars of equal intensity and four lighter bars that have the same brightness.
+
+If you don’t have a way to display blue only, set the chroma by eye so the color level is rich but not oversaturated. If you’re adjusting hue for an analog signal, there’s only one setting in which both the yellow bar and the magenta bar (second and fifth from the left) will appear correct. The yellow should be a pure lemon yellow, without any hint of green or orange. The magenta bar shouldn’t be red or purple.
+
+Getting accurate color without bars is very difficult, since there is no way to know what colors should look like. The best you can do is to go for the most pleasing skin tones. You can adjust chroma and hue (analog only) to make skin appear as natural as possible, bearing in mind that what you are recording will more than likely appear different when viewed later on a properly adjusted monitor.
+
+OTHER SETTINGS
+
+Sharpness
+
+Most video monitors and TVs have a sharpness control (also called aperture or detail) that adds a light line around the edges of things in the scene (see Fig. 3-18). In actuality, this reduces fine detail, even though shapes look bolder. Turn this all the way down, then raise it until you just reach the point where added lines appear. Get used to watching pictures without added “sharpness.” One exception is that professional camcorders often have a detail adjustment in the viewfinder called “peaking” that can help you focus while shooting. The picture in the finder doesn’t look “natural,” but you can clearly see what’s in and out of focus.
+
+Gamma and Color Space
+
+Computer monitors and some broadcast video monitors have adjustments for gamma. The standard display gamma in Windows, Mac OS, and sRGB (Web graphics) is 2.2.1 The standard gamma for HD video monitors, as specified in Rec. 709, is 2.4.
+
+Digital video monitors sometimes offer a choice of “color space” (sometimes called color profile) that includes color gamut and gamma. Typical choices are native display gamma (typically 2.2), SMPTE C (to match phosphor CRTs), EBU (ditto, phosphor CRTs), and Rec. 709. More sophisticated monitors add D-Cine (gamma 2.6) and settings to display log capture, as well as user-defined gammas and extrawide color spaces.
+
+A lower display gamma makes the image appear to have less contrast. Downloadable programs such as QuickGamma can be used for computer monitor calibration. For precise monitor calibration, you can get tools such as Datacolor’s Spyder4, which includes automated calibration software and a photometric “spyder” that sits on the monitor surface and measures light output.
+
+As discussed above, gamma differs between computer monitors in RGB color space and component (Y’CBCR) video. See Chapter 5 for workarounds.
+
+1. At one time the Mac (Apple) standard was 1.8, but that no longer applies.
+
+APPENDIX B
+
+DATA RATES AND STORAGE NEEDS FOR VARIOUS DIGITAL FORMATS*
+
+*Table by David Leitner.

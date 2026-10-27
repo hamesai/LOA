@@ -1,0 +1,87 @@
+KODAK VISION3 500T Color Negative Film 5219 / 7219 
+ 
+Image Structure 
+For more information on image-structure characteristics, see 
+KODAK Publication No. H-845, The Essential Reference 
+Guide for Filmmakers available online at 
+www.kodak.com/go/referenceguide. 
+ 
+Modulation Transfer Function 
+The "perceived" sharpness of any film depends on various 
+components of the motion picture production system. The 
+camera and projector lenses and film printers, among other 
+factors, all play a role. But the specific sharpness of a film can 
+be measured and is charted in the Modulation Transfer 
+Function Curve. 
+This graph shows a measure of the visual sharpness of this film. 
+The x-axis, “Spatial Frequency,” refers to the number of sine waves 
+per millimeter that can be resolved. The y-axis, “Response,” 
+corresponds to film sharpness. The longer and flatter the line, the 
+more sine waves per millimeter that can be resolved with a high 
+degree of sharpness — and the sharper the film. 
+ 
+rms Granularity 
+The “perception” of the graininess of any film is highly 
+dependent on scene content, complexity, color, and 
+density. Other factors, such as film age, processing, 
+exposure conditions, and telecine transfer may also have 
+significant effects. 
+Read with a microdensitometer, using a 48-micrometre aperture. 
+To find the rms Granularity value for a given density, find the 
+density on the left vertical scale and follow horizontally to the 
+characteristic curve and then go vertically (up or down) to the 
+granularity curve. At that point, follow horizontally to the 
+Granularity Sigma D scale on the right. Read the number and 
+multiply by 1000 for the rms value. 
+Note: This curve represents granularity based on modified measuring 
+techniques. Sensitometric and Diffuse RMS Granularity curves are produced 
+on different equipment. A slight variation in curve shape may be noticed. 
+ 
+Sensitometry 
+The curves describe this film's response to red, green, and 
+blue light. Sensitometric curves determine the change in 
+density on the film for a given change in log exposure. 
+ 
+
+KODAK VISION3 500T Color Negative Film 5219 / 7219 
+ 
+Spectral Sensitivity 
+These curves depict the sensitivity of this film to the 
+spectrum of light. They are useful for determining, 
+modifying, and optimizing exposure for blue- and greenscreen special-effects work. 
+ 
+Spectral Dye-Density Curves 
+These curves depict the spectral absorption of the dyes 
+formed when the film is processed. They are useful for 
+adjusting or optimizing any device that scans or prints the 
+film. 
+Note: Cyan, Magenta, and Yellow Dye Curves are peak -normalized. 
+ 
+Note: The sensitometric curves and data in this publication represent product tested under the conditions of exposure and processing specified. They are representative of production coatings, 
+and therefore do not apply directly to a particular box or roll of photographic material. They do not represent standards or specifications that must be met by Eastman Kodak Company. The 
+company reserves the right to change and improve product characteristics at any time. 
+ 
+ 
+Available Roll Lengths and Formats 
+See Kodak Motion Picture Products Catalog at www.kodak.com/go/mpcatalog 
+To order film in the United States and Canada, call 1- 800-356-3259, prompt 3. 
+Worldwide customers can find the nearest sales office at www.kodak.com/go/worldwide-film-suppliers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ KODAK VISION3 500T Color Negative Film 5219 / 7219 
+KODAK Publication No. H-1-5219 Kodak, Keykode, Vision, and Wratten and the Kodak logo are trademarks. Revised 3-26 
+ © 2026 EASTMAN KODAK COMPANY

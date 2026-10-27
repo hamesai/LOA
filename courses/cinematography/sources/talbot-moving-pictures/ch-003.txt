@@ -1,0 +1,411 @@
+CHAPTER II
+
+THE FIRST ATTEMPTS TO PRODUCE MOVING PICTURES
+
+The idea of producing apparent animation by means of pictures is by
+no means new. The origin of the most primitive form of moving picture
+device is lost in the mists of antiquity; but it is certain that long
+before photography was conceived animated pictures were in vogue, and
+constituted a source of infinite amusement among children. The illusion
+was secured by a simple device known as the Zoetrope or the “Wheel of
+Life.” It consists of a small cylinder, mounted on a vertical spindle
+in such a way that it is free to revolve horizontally. A band of thin
+cardboard, or thick paper, on which is painted a series of pictures,
+generally in colour, depicting successive stages in a particular
+movement, such as a horse jumping, a child swinging, or two youngsters
+playing see-saw, is placed horizontally around the inside of the lower
+half of the cylinder. The upper half is pierced at regular intervals
+by long narrow slits or vertical openings, which come opposite the
+pictures and extend only about half-way down the length of the wall.
+When the cylinder is rotated sharply and one looks through the slits,
+the pictures portray apparent motion--the horse rises and falls in the
+jump, the swing moves to and fro, and the see-saw goes up and down--in
+accordance with the laws of visual persistence.
+
+Each successive picture, it must be pointed out, is interrupted by the
+space in the surface of the wall between two consecutive slits through
+which one peeps into the cylinder. We have, in fact, a cinematograph in
+the most primitive form; the space between the apertures corresponding
+to the opaque sector of the shutter of the camera and the projector,
+whereby one picture is eclipsed from view on the screen to permit the
+next to be brought before the lens. Indeed, one can easily convert the
+zoetrope into a cinematograph if, instead of painted pictures, prints
+of a cinematograph film are mounted in the same way. As a matter of
+fact, some ingenious person followed this practice years ago, thus
+unconsciously producing the first animated pictures by photography, and
+in a crude way anticipating the kinetoscope.
+
+From time to time the zoetrope was modified and revived in the
+praxinoscope, phenakistoscope, zoopraxinoscope, and a number of other
+forms with awe-inspiring names. In every instance, however, it was
+merely our old friend in a new guise. One of these modifications
+created a flutter of excitement in France in 1877. It was called the
+“praxinoscope,” and its creator, M. Reynaud, for the first time enabled
+a large audience to see animation upon the screen.
+
+In this case projection was carried out in a highly novel manner.
+The front, or proscenium opening, of the stage was occupied by a
+large white screen, such as is used for magic lantern projection, the
+operator and his apparatus being on the stage behind, out of sight.
+Accordingly the audience saw the picture through the sheet. At the back
+of the stage a limelight lantern was set up, from which a still life
+picture was thrown, filling the greater part of the surface of the
+screen. The picture thus shown formed as it were the setting for the
+animated picture, in just the same way as the scenery comprises the
+environment for a stage play.
+
+Below the level of the stage was a large rectangular table, at each
+corner of which were placed small vertical rollers. At one end of the
+table were two large spools, fitted with handles which were revolved
+horizontally. One spool carried a long band of transparent material, on
+which were painted at regular intervals silhouette figures in colour in
+successive stages of movement. The band led from this spool round the
+vertical roller immediately adjacent, then along the side of the table
+to the next corner, on to the next corner, on to the third corner,
+back to the fourth corner, and then to the empty reel, on which it was
+wound. By simultaneously rotating the loaded spool with the left hand,
+and the second reel with the right hand, the transparent picture band
+was passed round the table from one spool to the other.
+
+Centrally with the sheet, and on a level with the table, there was a
+second limelight lantern, the back of which was towards the audience.
+This lantern threw its rays upward at an angle of forty-five degrees
+or so. As the band of pictures travelled along the table edge from the
+first to the second corner roller, it was passed through this second
+lantern, which projected the silhouette picture into a mirror hung
+overhead at the back of the stage, which in turn reflected the image
+on the screen. The figures on the band thrown from the second lantern
+appeared in the scene of the slide shown by the first lantern. As the
+band was moved forward, bringing successive phases of action upon the
+screen, apparent motion was produced. In fact, animated pictures were
+shown, and it was possible with a number of spools of painted bands to
+produce a comedy, tragedy, or other stage play in pictures. This crude
+apparatus was the first attempt to portray moving pictures upon a sheet
+before a large audience.
+
+As instantaneous photography developed and efforts were made to adapt
+photographic records instead of painted pictures to the praxinoscope,
+great difficulty was experienced in securing the consecutive pictures
+sufficiently close to one another so as to reduce the loss of action
+between two successive pictures to the minimum. The cameras available
+were not suited to this work. Too much time was lost in removing the
+exposed sensitised surface to permit another unexposed area to be
+brought before the lens.
+
+About 1872 Mr. Muybridge, an ingenious Englishman, resident in San
+Francisco, conceived a novel means of obtaining snap-shot photographs
+in rapid succession. He maintained that such photographs taken at
+regular intervals, reproduced in such a manner as to simulate natural
+animation, would reveal the peculiar attitudes of animals in motion and
+would prove of invaluable service to artists. He approached Governor
+Stanford and unfolded his scheme. Stanford was so impressed that he
+placed every facility at Muybridge’s disposal for the completion of
+the experiment, including the use of his valuable stud of horses and
+exercising track.
+
+As it was impossible to secure the desired end with a single camera,
+Muybridge built a studio beside the track, in which twenty-four cameras
+were placed side by side in a row. On the opposite side of the track,
+facing the studio, he erected a high fence, painted white, while across
+the track between the studio and the screen twenty-four threads were
+stretched, each of which was connected with a powerful spring, which
+held in position the shutter of a camera.
+
+When all was ready, a horse was driven over this length of track at a
+canter, gallop, trot, or walk, as desired, and as the animal passed
+each camera, it broke the thread controlling its shutter, so that
+the horse photographed itself in its progress. In these experiments,
+however, Muybridge made no effort to secure detail. The photographs
+were taken in brilliant sunlight, and the white screen threw a dazzling
+reflection, causing the objects to stand out in bold relief, so that
+the record appeared in silhouette. As these photographs were taken for
+a specific purpose--the analysis of movement--the screen was subdivided
+into panels, whereby it was possible to determine the distance between
+each successive picture. (Fig. 1.)
+
+[Illustration:
+
+ [_By Permission of “The Scientific American.”_
+
+FIG. 1.--THE FIRST MOVING PICTURES.
+
+Twelve successive photographs, by Mr. Muybridge, of a horse in full
+gallop. In the last figure the horse is seen standing still. The speed
+of the horse was about 1,142 metres (3,746 feet) per minute.]
+
+As Muybridge’s experiments were carried out upon a somewhat private
+basis, the information about them that reached Europe was of a
+very meagre description. In France, however, they aroused a strong
+curiosity and peculiar interest, especially in artistic and scientific
+circles. They appealed especially to one man--Meissonier. The great
+artist, whose accuracy in the most minute detail was proverbial, was
+fascinated. He had observed very closely the curious attitudes that
+horses assume when in rapid motion, and had committed the observations
+to his canvases, only to meet with strenuous hostile criticism
+from his colleagues and the public. So when Governor Stanford, while
+visiting Paris, displayed some of Muybridge’s photographs, the great
+painter spent hours in studying them, and characterised them as an
+incalculable aid to art. Through Governor Stanford, he extended an
+invitation to Muybridge.
+
+In the following year the Anglo-American experimenter--who might be
+described as the father of animated photography--visited the French
+capital, and received a warm greeting by Meissonier. The artist
+had been criticised for his views concerning muscular action, as
+displayed by the animals on his canvases, yet here was a man who could
+demonstrate, by the conclusive evidence of photography, that his views
+were correct. Meissonier arranged a private demonstration, which ranked
+as one of the most important social events of the year in Paris. Among
+those who accepted the invitation to witness the new wonder were
+Gerome, Goupil, Steinheil, Detaillé, Alexander Dumas, and Dr. Mallez.
+Muybridge had brought a representative collection of photographs with
+him, showing horses in movement, dogs, deer, and other animals running
+and jumping, as well as men wrestling, leaping, and performing other
+athletic exercises.
+
+The pictures were examined at great length individually. Then by means
+of the zoopraxoscope, a form of the wheel of life, whereby pictures
+in action could be thrown upon the screen, they were displayed in
+animation, thereby conclusively demonstrating the fact that what
+appeared so incredibly singular an attitude in a painting or an
+individual photograph was in reality part of a graceful harmonious
+natural movement.
+
+There was one feature of Muybridge’s work which must not be overlooked,
+and which decidedly restricted its application. A battery of cameras
+had to be employed, placed side by side. It was as if a number of
+photographers, standing in a row, pressed a button the instant the
+object in motion was opposite their respective cameras. All the
+photographs were broadside views, and taken from the same relative
+position. The results were not as the following eye of one person
+saw them, but as the eyes of twenty or thirty persons standing side
+by side grasped a glimpse of motion during the five-thousandth part
+of a second. If Muybridge had attempted to take 900 photographic
+impressions, such as the cinematograph camera records in the space of
+a minute to-day, he would have required nine hundred cameras for the
+purpose.
+
+Of course, such a plan had no commercial possibilities. Its real
+value lay in the fact that it stimulated the ingenuity of a host of
+inventive brains towards the solution of animated photography. One
+and all were bent upon securing the same result that Muybridge had
+achieved, but with a single camera and from one point of view. Among
+these experimenters the names of Greene and Evans, Acres and Paul stand
+pre-eminent in Great Britain, while France and the United States had an
+equal number of contemporaneous investigators engaged upon the problem.
+Even Muybridge himself attempted its solution, for he realised only
+too well that a battery of cameras was impracticable to ensure the
+commercial success of animated photography.
+
+It appears to be a sorry trick of fortune that every great invention,
+or development, should produce a bevy of claimants for the honour
+of being the “original inventor.” The word “original” is somewhat
+obscure and ambiguous, but it is employed frequently. As a matter of
+fact, it is a wise invention that can single out its creator. Animated
+photography has been no exception to the rule. Lawyers and the courts
+have reaped a rich harvest from protracted litigation in the effort to
+settle the question once and for all, with the inevitable result--the
+law has left the matter in a more hazy condition than ever.
+
+The claim to the discovery of animated photography can scarcely be
+sustained by any one man. Desvignes devised an apparatus in 1860; Du
+Mont formulated the first tangible scheme of chronophotography, as
+it is called, in 1861, which Donisthorpe put into practice in 1876,
+while a host of other experimenters contributed to the problem in some
+particular detail. It was not invention, for the simple reason
+that there was nothing to invent; it was merely evolution and the
+perfection of details. As we have seen, what the experimenters had to
+accomplish was the reduction of the length of time occupied in bringing
+one sensitised surface before the lens after the preceding sensitised
+surface had been exposed. This was a matter of mechanical detail,
+for the chemist accelerated the speed of the sensitised surface more
+and more, and finally evolved the celluloid film. Various means of
+bringing successive sections of a sensitised surface before the lens
+were evolved, and produced a plethora of patents; but the perfection
+of details does not affect the fundamental principle of animated
+photography. In Great Britain many investigators were energetic in the
+quest, but the great majority never succeeded beyond the model stage;
+that is to say, their apparatuses never possessed any practical value,
+and only served to emphasise once more the truth of the well-worn axiom
+that there is a great gulf between the creative mind of the inventor
+and the commercial world with its enormous capacity for development and
+exploitation.
+
+Among the early British experimenters was W. F. Greene, who, like
+others, was handicapped by having to make use of glass plates. In
+1885 he displayed his first apparatus for taking and producing moving
+pictures, and two years later exhibited some pictures taken on glass
+in the window of his premises in Piccadilly. This unusual display
+created such interest, and the curiosity-provoked public so crowded the
+pavement that traffic was impeded, and the police called upon Greene to
+remove his pictures.
+
+In France even greater things were being accomplished. Dr. E. J.
+Marey took up Muybridge’s work at the point where the Anglo-American
+abandoned it. Marey followed rather the lines laid down by the
+astronomical investigator Jansen, who in 1874 evolved a photographic
+revolver to secure records at short intervals of the transit of Venus
+across the sun’s disc. Marey constructed a photographic gun in 1882,
+with which he studied the flight of birds, and which worked on the
+principle elaborated by Jansen eight years before. The object of his
+quest was the analysis of motion. It will be seen, therefore, that
+in its very earliest stages the value of animated photography was
+conceded to be rather in the field of science than that of amusement.
+This celebrated French experimenter realised the inestimable value
+of “chronophotography” for the study and investigation of moving
+bodies, the rapidity in the changes of the position or form of which
+was impossible to follow otherwise. Marey, however, made no effort
+towards synthesis or reproduction of the motion thus obtained; he did
+not seek projection upon a huge scale upon the screen, but regarded
+chronophotography rather as a means of enabling photographic results to
+be resolved into diagrams for examining and elucidating obscure points
+incidental to motion.
+
+[Illustration: DR. E. J. MAREY’s FAMOUS EXPERIMENTS IN CINEMATOGRAPHY.
+
+1. Photographic gun of 1882, to photograph birds in flight. 2.
+Consecutive pictures of a gull flying, taken with the photographic gun.
+3. Chronophotographic apparatus for taking consecutive pictures upon a
+single glass plate, showing mechanism.]
+
+[Illustration: DR. MAREY’S ANIMATED PICTURES MADE IN 1884–86 FOR THE
+ANALYSIS OF MOTION.
+
+1. A man jumping. 2. A man walking. 3. A duck flying. 4. A man leaping.
+
+The objects, clothed in white, passed before a black screen, and the
+exposures averaged about 1/200 of a second.]
+
+Special apparatus was evolved and was set up at the Physiological
+Station in Paris, and some wonderful results were communicated by this
+industrious scientist to the French Association for the Advancement of
+Science at Nancy in 1886. Investigations were being carried out upon
+a large and advanced scale in France while the English were merely
+dabbling with the idea. Marey secured records of action intermittently
+from a single point of view by the revolution of a handle, and to a
+pronounced degree anticipated the present-day cinematograph.
+
+Marey’s camera was successful in its details, especially considering
+the extreme difficulties attending the use of glass plates. He
+ascertained that in order to secure continuous motion it was imperative
+to cut off the light from the plate at regular intervals; and he
+accomplished this interruption by rotating an opaque disc, pierced with
+small radial slots, which permitted the light to reach the plate only
+intermittently. The general design of Marey’s camera is shown in Fig.
+2. The camera, of the ordinary bellows type, was mounted in the upper
+part of a wooden frame clamped to a special support. Beneath was the
+handle, which rotated the shutter through gearing. This shutter moved
+at the back of the bellows, occupying the same position relatively as
+the focal plane shutter used in very rapid still-life instantaneous
+photography. By means of this shutter, the passage of a body across
+the field of the lens was split up into a number of consecutive units.
+The interval between two successive images, and the time of the
+exposure, could be altered merely by varying the revolving speed of
+the shutter. As a rule, the exposures were made at the rate of ten per
+second, but in some cases the length of the exposure was only 1/2,000th
+part of a second, with an interval of one-fifth second between two
+consecutive pictures. Marey used a black background, and his figures
+were clothed in white.
+
+[Illustration: FIG. 2.--MAREY’S CAMERA, SHOWING SHUTTER WITH RADIAL
+SLOTS.]
+
+There was an important reason for this reversal of Muybridge’s
+procedure. In the latter the shutter of each camera had to be opened
+as the horse or other object passed the lens. In Marey’s system the
+sensitised surface of the plate is directed against a dead black
+screen, and the lens may be left open without exercising any ill
+effect upon the photographic plate, because the latter receives no
+light. When a man clothed in white passed across this black surface
+in full sunlight, only his figure was recorded upon the sensitised
+surface, and thus was thrown in strong relief against the black
+background.
+
+Special arrangements, however, had to be made to ensure the success of
+the result. A flat plane black background did not suffice, as a certain
+amount of light was reflected therefrom into the lens, resulting in
+the plate becoming fogged. The black screen employed was in reality a
+black cavity, known as “Chevreul’s black.” The cavity may be likened
+to a shed, the front wall of which is removed, and the whole interior
+blackened. In the screen used by Marey at the Physiological Station in
+Paris, the back of the shed was hung with black velvet, the floor was
+covered with pitch, while the sides and ceiling were treated with a
+dead black medium.
+
+These arrangements enabled Marey to secure more useful results than
+were possible to Muybridge. From the scientific point of view they
+proved of incalculable value. His marvellous pictures widened our
+knowledge of animal motion to a remarkable extent, and provided
+incontrovertible records of action. Professor Marey ultimately recorded
+the sum of his experiments in a volume, _Movement_, which is now
+regarded universally as a classic in physiological science, and even
+to-day is consulted freely for the purpose of elucidating complex and
+obscure phases of motion.
+
+Other investigators at about this time were General Sebert, M. L. Soret
+of Geneva, and Ottomar Anschütz of Berlin. Soret succeeded in analysing
+some very intricate movements, while Anschütz produced a curious “wheel
+of life,” which was called the “electrical tachyscope.” A special
+camera was evolved whereby photographs were taken in rapid succession.
+From these negatives glass transparencies similar to lantern slides
+were produced, and mounted in sequence around the rim of a large wheel,
+which had to be of sufficient diameter to contain the whole series
+of pictures. It was mounted upon a massive iron pedestal, and was
+revolved from the rear by means of a handle.
+
+Behind the wheel, and at the highest point, which corresponded to the
+level of the eyes of the average person while standing, a small box
+was placed. The front of this box was open, the size of this aperture
+corresponding exactly to the dimensions of the transparency. It was
+fitted with a small electric light--a Geissler tube, in fact, through
+which a current was passed from a Rhumkorff coil--and this light was
+switched on and off by each picture as it passed before the front of
+the lamp box. As each picture came into position before the aperture a
+contact was established, and an impulse of electricity was discharged
+through the lamp. It was a mere flash, but it served to illuminate the
+transparency immediately in front, so that the people gazing at the
+wheel received a brilliant and well-defined impression of the picture,
+which was shown in an apparently stationary position, though, in fact,
+the wheel was revolving continuously. When the wheel was rotated with
+sufficient speed, the flashes occurred in such rapid sequence that, in
+accordance with the phenomena of visual persistence, the illusion of
+animation was secured.
+
+This was an extremely ingenious apparatus, but was too complicated,
+expensive, and elaborate to command any commercial value. It was
+regarded generally as a scientific toy. It was on view in London,
+in the Strand near Chancery Lane, for a little while, but failed to
+arouse very marked enthusiasm. However, the “inventor’s fiddle,” as the
+Anschütz tachyscope was popularly called, was adopted by several other
+inventors with certain modifications, but its application was naturally
+extremely limited. Comparatively speaking, only a very few pictures
+could be carried in the rim of the wheel, and as the travelling
+speed was somewhat high in order to convey a tangible impression of
+continuous motion, a subject was exhausted in a few seconds.
+
+Associated with Dr. Marey in his experiments was another indefatigable
+spirit, M. Georges Demeny. He displayed considerable ingenuity in
+breaking down the peculiar difficulties associated with this work.
+Unfortunately the value of M. Demeny’s efforts have never been
+appreciated; but he brought his mind to bear upon the subject at a
+critical period, and devoted all his energies, time, and thought
+to the solution of complicated problems that defied contemporary
+experimenters. He proved an indispensable colleague to Professor Marey,
+which the author of _Movement_ did not fail to acknowledge. So far as
+France is concerned, he rightly deserves to be regarded as the pioneer
+in cinematography. He not only photographed motion, but he reproduced
+it upon the screen, and devised an ingenious camera and projector to
+achieve his end.
+
+M. Georges Demeny was forestalled in Great Britain by Messrs. Greene
+and Evans, who produced a chronophotographic apparatus which they
+patented in June, 1889, wherein the film was drawn intermittently
+before the lens for exposure. Two months previously, in April, 1889,
+another inventor, Stern, had filed a patent also, and these constitute
+the first intimation at the British Patent Office of the pending
+developments in cinematography. Neither issued beyond the experimental
+and model stage, for the simple reason that they were not reliable in
+their operation. There was no satisfactory mechanical means for moving
+the sensitised surfaces forward an equal distance after each exposure,
+and this omission of an indispensable feature proved fatal to their
+success.

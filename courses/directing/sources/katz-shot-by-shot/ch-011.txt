@@ -1,0 +1,2277 @@
+Part III
+The Workshop
+
+8 The Basics Applied
+Shot Flow
+Shot ﬂow is the name given to the kinetic effect of a sequence of shots. This
+is an apt description since it evokes the image of a river, which can be
+turbulent, tranquil, or winding, and can even turn back against itself in
+midcourse. A sequence of shots is often comprised of complex rhythmic
+and dynamic continuity relationships that, like a river, merge into a single,
+uniﬁed structure. But no matter how intricate the relationships between the
+shots, there are two sequential ingredients that are fundamental to our
+understanding of visualization: shot size and camera angle. There are also
+many other compositional elements familiar to artists from photography and
+painting that contribute to a sequence, but camera angle and shot size are
+the dominant physical changes that determine shot ﬂow. In this chapter, we
+will concentrate on shot size.
+The basic relationship between wide, medium, and close-up shots and angle
+of view becomes clear if we construct a sequence that establishes a subject
+within a location. By keeping our example simple, we will be able to
+concentrate on the graphic design of the frame. The purpose of this ﬁrst
+exercise is to increase our awareness of the range of kinetic qualities that
+can be produced with a few simple shots.
+Before getting started, let’s establish standard shot descriptions and their
+abbreviations. These will be used throughout the book from this point on.
+ECU: Extreme close-up
+MCU: Medium close-up
+CU: Close-up
+MS: Medium shot
+WS: Wide shot
+LS: Long shot
+ELS: Extreme long shot
+BG (bg): Background
+FG (fg): Foreground
+
+OTS: Over the shoulder
+POV: Point of view
+Establishing a Location by Varying Shot Size
+As basic as the change in shot size is to the continuity style, it is rarely
+studied in depth by ﬁlmmakers. Testing your ability to judge the effect of
+graphic variation in a sequence will help you to sharpen your perception of
+mood, point of view, rhythm, tempo, emotional distance, and dramatic
+intent in narrative situations.
+In the following series of photoboards, we will establish the location of a
+house to examine the consequences of shot size. There are three basic
+continuity strategies that are possible to describe the location: The camera
+can move towards the house beginning in wide shot; the camera can move
+out from a close-up of some detail of the house to reveal the full location; or
+the camera can create a sense of the whole by using a series of close-ups.
+VERSION ONE
+In the ﬁrst pair of sequences, frames 1–3 and 4–6, we can compare the
+graphic relationship between shots when we vary the scale. Each sequence
+creates movement, and you should be aware of the variation in velocity and
+acceleration in each version. Frames 1–3, for instance, show limited change
+between frames 1 and 2 until the house jumps forward in frame 3. The
+second sequence is more dynamic, largely because frame 6 ﬁlls the frame.
+We can also judge the effect of “pulling back” from a subject by reading the
+photoboards in reverse order from right to left.
+Putting analysis aside for a moment, look at each sequence as a complete
+statement. Developing an intuitive sense of the overall perceptual effect of a
+sequence is one of the skills necessary for visualization. Try to imagine a
+story line for these sequences with sound and score. Move your eyes over
+them as you might imagine them being edited. This is essentially the skill
+you will need to turn the text of a script into a storyboard.
+
+VERSION TWO
+Here we see a more fully extended range of shots. In the previous examples,
+each sequence showed the house moving closer, but no new information
+was revealed. Now a true CU is added in frames 3 and 6, and we see a For
+Sale sign. The change in scale is extreme, with the camera moving
+approximately 1/4 mile between shots. Now cover frames 2 and 5 with one
+hand and look at the resulting shot pairs 1–3 and 4–6. You can see just how
+wide a jump can be made through space while retaining spatial unity.
+
+VERSION THREE
+This next approach compares four sequences. First is a straightforward
+treatment of a change in shot size from an extreme high angle (frames 1–3).
+In frames 4–6 rotational movement is added but without the change in shot
+size. Next, we combine these approaches, moving closer in a circular path
+as shown in frames 7–9.
+Finally, in frames 10–12, we move in three planes: downward, closer, and
+in an arc around the house.
+
+VERSION FOUR
+In these next two treatments, we move from a CU to a wide shot, essentially
+a pullback move. In both cases, the two straight-on angles end with an
+angular aerial shot, which results in a more dynamic editing pattern. This
+visual contrast in motion is a valuable graphic effect demonstrating the
+power of a simple change in angle. In both of the present examples, the ﬁrst
+two shots of each sequence set up a line of motion: In the third frame, we
+expect to continue the straight line of motion back from the front door of
+the house, but instead there is a jump in scale and angle.
+VERSION FIVE
+We will handle this next series of shots somewhat differently, composing a
+location from details from which the viewer will construct the whole. This
+relies on a more iconographic, abstract use of images. For this reason, we
+
+will start with a list of shots — concepts of the house as expressed in
+individual images. To help focus our energies we’ll give ourselves a
+narrative context. This is our story: A divorce has split a family in two and
+the house they formally occupied is now up for sale. Following is a list of
+images that seem to me to express this idea.
+ 1. Rusted bike abandoned outside
+ 2. Mailbox knocked over on ground
+ 3. Uncollected junk mail piled on the porch
+ 4. Broken window panes
+ 5. Empty rooms viewed through the broken windows
+ 6. For Sale sign
+ 7. Disconnected cable television line
+ 8. Empty doghouse turned over
+ 9. Vandalism (grafﬁti on the side of house)
+10. Moving boxes ﬁlled with trash
+The following storyboard is based on some of these ideas.
+As we have just seen, a basic three- or six-shot sequence can be handled in
+several ways even when using a static camera to record a simple subject.
+Part of the visualizing process is comparing “drafts” of the storyboard as we
+have just done, recombining new and old ideas until the sequence is exactly
+
+as you want it. The value of exercises like the ones we have just completed
+is to help ﬁlmmakers develop the ability to imagine a story in whole
+sequences by improving visual memory and the awareness of the many
+graphic elements that comprise any shot and sequence. In the next example,
+we will view the design process through the eyes of a ﬁlmmaker. By
+personalizing the examples this way, we will have a chance not only to see
+the results of the creative process, but to see the process itself.
+NARRATIVE PROBLEM ONE: THE STATIC SHOT
+A ﬁlmmaker is scouting a location for the opening scene of a ﬁlm based on
+his childhood experiences. The scene calls for a suburban neighborhood. He
+passes a side street in which a line of trees and the way the sunlight falls on
+the pavement evoke familiar memories. He gets out of his car and walks
+down the sidewalk to a house that is very much like his family’s ﬁrst house.
+Standing at the edge of the front lawn, he begins to imagine the opening
+scene of the ﬁlm. He feels he does not have to follow the direction of the
+script in every detail in the ﬁrst scene, but merely needs to introduce the
+period, characters, and mood of the story.
+The scene, as the ﬁlmmaker originally wrote it, described a weekday
+morning when, as usual, he was the last member of his family to wake up.
+Most of the action took place in the kitchen with very little dialogue. But as
+the ﬁlmmaker stands in front of this real house in the bright sunlight, new
+memories come to him. He remembers his parents’ frustration over his
+forgetfulness, the jackets and sweaters lost at school or textbooks left on the
+bus. He remembers a certain morning when he was 10 …
+VERSION ONE
+In this ﬁrst sequence, the ﬁlmmaker decides to restrict himself to static
+shots using limited panning to follow the action. He begins with a
+straightforward wide shot of the house in frame 1. After a few moments, the
+father exits the front door heading to the garage. A new shot in frame 2
+shows the window of the boy’s bedroom through which we can see a corner
+of the bed as the father passes by outside. The covers move and a sock falls
+off the bed. We cut to frame 3 with the boy in the extreme foreground and
+the father outside.
+
+The ﬁlmmaker stops here, seeing that the staging is not working. He feels
+frame 1 should show the house within a wider context — that is, the
+neighborhood and the past. The ﬁlmmaker also feels the second frame of
+the window is too oblique, even though he likes the offhand framing that
+shows only a part of the boy’s bed and not the boy. He tries a new staging.
+VERSION TWO
+The ﬁlmmaker begins the new sequence with a high-angle shot that
+removes him slightly from the action. He thinks the shot could be less
+harshly angular, but the inclusion of more surrounding space tends to give a
+little breathing room as compared with the original opening shot. The father
+exits in frame 1 and, as he walks to the garage, ﬁnds something in the grass.
+As he bends over to pick it up, we cut to frame 2. What he’s found is a
+sneaker. Shaking his head, he walks a few steps towards camera into a
+medium shot and sighs. Cut to frame 3. The boy turns over in bed and his
+bare foot pops out from under the covers. We hear a door open offscreen,
+and as the boy wriggles into a comfortable position, his father’s hand enters
+the frame and puts the sneaker on the bedpost.
+
+VERSION THREE
+In this new version, the ﬁlm fades up to an opening shot of a bright orange
+spaceship ﬁlling the screen in frame 1a. It ﬂutters and shakes in the morning
+breeze. The camera pulls back and we realize that we are looking at a torn
+and rumpled kite impaled on the high branches of a tree brilliantly backlit
+by the sun. The wind dislodges the kite, which drops out of frame, revealing
+the house below in frame 1a. The father exits the house and goes to the
+garage in frame 1b. Cut to the boy in bed in frame 2. The sound of the
+garage door going up is heard in the background. Cut to the garage door in
+frame 3. The father goes to the car, and we cut back to the boy in bed in
+frame 4. The boy turns over and we see ﬁrst one foot with a sock on it pass
+the window and then a second bare foot go past. Through the window, we
+see the father backing the car out of the driveway.
+
+The ﬁlmmaker immediately sees an improvement for frame 4 by framing
+tighter (frame 5). The moment after the car passes by the window the squeal
+of brakes is heard. Cut to a low-angle shot of the driveway and the car,
+which has stopped a few feet from the sneaker. The car door opens and the
+camera reframes slightly to include the father (feet only) getting out of the
+car in frame 6.
+Again, the ﬁlmmaker stops at this point to rethink this latest version. He has
+generated some ideas he likes but can see that they need to be rearranged.
+First, he decides to keep the kite business, but moved to a lower viewpoint.
+In this way, he can include some of the neighborhood before panning down
+to the house. Second, he feels the story focuses too much on the boy and his
+father. He would prefer to include more of the other members of the family
+in the hectic morning rush to start the day. This will require intercutting
+new characters, which will help break up the focus on the sneaker action.
+VERSION FOUR
+In this ﬁnal version, the ﬁlmmaker has combined the various elements to
+form a complete sequence.
+
+The Filmmaker’s Analysis
+The ﬁlmmaker stops at this point because he has exhausted the possibilities
+for this latest approach to the opening. Many of the ideas could be
+improved and simpliﬁed if tracking and panning were permitted, but for
+now the ﬁlmmaker is more concerned with the overall tone and sense of the
+scene. There is no point in reﬁning ideas pictorially if they will be rejected
+because they do not serve the narrative. The ﬁlmmaker feels that his
+solutions and story points are whimsical — the parallel forgetfulness of
+father and son and the gag with the kite — but the point of view of the boy
+has been lost in creating a plot-heavy opening. As a single lyrical element,
+the kite might still work, but after the opening shot, the point of view of the
+scene should move to the boy and remain with him. The ﬁlmmaker enters
+this in his notebook for a later version of the same scene.
+
+Summary
+A few words about this last storyboard sequence. A more fully worked out
+storyboard might show each stage of action by repeating the moving object
+in the frame. This is the case in panel 6, where the mother is pictured in the
+room twice. In panel 7, however, the appearance of the boy’s left foot
+followed by his right foot is shown in a single panel, with an explanation in
+the caption. Since our ﬁlmmaker is familiar with cutting options and the
+details of the staging, and is designing his own panels, there is no danger of
+confusion. However, when storyboarding the action for another director, it’s
+important to include every signiﬁcant movement so that there are no
+misunderstandings.
+
+9 Staging Dialogue Sequences
+When staging dialogue scenes for the camera, the director must fulﬁll two
+goals: the honest expression of human relationships and the presentation of
+these relationships to the viewer. The ﬁrst goal is determined by the script
+and the actor’s performance. The second goal is determined by staging,
+cinematography, and editing. On the set, however, the director often ﬁnds
+that the actor’s process and the practical and dramatic requirements of the
+camera are at odds. There is no right or wrong solution to this classical
+opposition, only what works best for the ﬁlmmaker in a given situation.
+A Method for Visualizing Staging
+In the arts, technique is largely a matter of improved perception. In music,
+for example, this means learning to hear more accurately; in ﬁlm it means
+learning to see more precisely. Speciﬁcally, cinematic “vision” relies on
+spatial memory and recognition, skills that can be learned and reﬁned. This
+will be our goal in the next several chapters.
+First, we will need a basic vocabulary of shots and actor placement. Any
+system of construction will sufﬁce provided the ﬁlmmaker uses its elements
+consistently. For our purpose, the Hollywood continuity style offers a
+familiar set of solutions that can be broken down into a system of building
+blocks. This programmed approach, however, is not simply intended to
+offer stock solutions. By knowing the basic ways in which people position
+themselves in conversation and the accompanying camera setups used to
+record them, you will have a secure base from which to improvise, break
+rules, and take creative risks.
+This spatial approach is made up of ﬁve basic areas:
+• Staging stationary actors
+• Staging moving actors
+• Using the depth of the frame
+• Staging camera movement
+• Staging camera movement and actor movement together
+
+The ﬁrst building blocks we’ll look at are staging patterns for two subjects.
+In the photoboard examples camera angles, lenses, and editing patterns will
+be compared so that you can see how slight adjustments alter our
+understanding of a scene. Once the staging patterns for two subjects are
+established, we can apply these same general principles to three- and foursubject situations in subsequent chapters.
+Before getting to the actual examples, we should ﬁrst look at some of the
+basic staging conventions with the understanding that they represent the
+starting point for new ideas rather than the limits of what is permissible.
+Frontality
+This is a basic convention of Western art. Frontality is just a way of saying
+that the subjects of a picture tend to face the viewer or, in the case of ﬁlm,
+the camera. Many staging arrangements in the movies are basically frontal,
+meaning that subjects in conversation tend to face the camera rather than
+each other. This type of body positioning is not without precedence in real
+life, but in ﬁlms, it is often adjusted to the camera’s needs.
+A scene that stages actors in a frontal position can be recorded in a single
+master shot. If, however, one of the actors is turned away from the camera
+(partially or completely) more than one camera angle is necessary to see
+both actors’ faces. This represents the two major editing approaches to
+staging: one in which the actors face a single camera setup and the other in
+which multiple camera viewpoints are edited together.
+The Master Shot
+The master shot is the one-shot that is wide enough to include all the actors
+in the scene and that runs for the entire length of the action. When directors
+speak of the master, they usually mean that it is part of a plan of coverage
+that includes other camera setups in the triangle system that will eventually
+be edited together. But there are also times when the master shot is the only
+shot the director feels is necessary.
+The Sequence Shot
+Normally, the camera remains motionless in the master shot, particularly if
+cutting to other camera angles is anticipated. If the master is a moving shot,
+the camera is ﬂuidly repositioned with a dolly throughout the course of the
+
+scene, essentially combining several camera angles into a single shot that in
+an edited sequence would be obtained by individual shots. This approach to
+staging is also called the sequence shot, and usually employs movement of
+the actors along with the traveling camera. Generally, the sequence shot
+respects frontality more than an edited sequence. This is because editing
+permits, and routinely links, shots that are opposed by as much as 180
+degrees. The equivalent change in a sequence shot (which is really a long
+dolly shot) is very nearly impossible to do quickly, let alone repeatedly.
+Therefore, the moving camera in a dialogue sequence shot tends to maintain
+a general viewing direction. We will look at this more closely in the chapter
+on mobile blocking.
+Shot Size and Distance
+One version of the master shot, the medium two-shot, was so characteristic
+of American ﬁlms of the ’30s and ’40s that the French call it the “plan
+américain,” or the “American shot.” In the early ’30s, the two-shot was
+used to cover entire dialogue sequences without resorting to close-ups. This
+was due in part to the advent of sound in pictures and the long stretches of
+dialogue that accompanied them. The cumbersome, “blimped” cameras
+were less mobile than the cameras used for silent ﬁlms, and the two-shot
+reduced the need to move the camera. This technical limitation was quickly
+overcome, but the two-shot remained in use for years because it was found
+to be a relaxed framing device for comedies and musicals.
+Personally, I like the distance and objectivity that two-shot and full ﬁgure
+shots afford. The body can be wonderfully expressive, and people often use
+body language to indicate their relationship to others — for example, by
+where they stand in a room or by their different ways of approaching a
+rival, friend, or lover. The way a person moves can be as distinctive as his
+or her voice, and most of us can identify a friend at a distance by some
+characteristic gesture long before we see his or her face. Expressive body
+movement falls within the range of the full shot and the medium shot.
+Entire scenes can be staged effectively at this distance without ever
+resorting to a close-up.
+The Shot, Reverse Shot Pattern
+
+When players are seen in alternating close-ups, the shot, reverse shot
+pattern is one of the most useful solutions. No cutting strategy better
+represents the Hollywood style than this one. The popularity of this setup is
+that it offers the widest range of cutting options and includes two important
+advantages that the two-shot lacks. The ﬁrst advantage is that we get to see
+a subject’s isolated reaction to dialogue; the second is that the point of view
+changes within the scene. In addition, the eyeline match between one
+character and another helps to establish a sense of spatial unity.
+Sight Lines and Eye Contact
+In any shot of one actor, the closer the sight line is to the camera the more
+intimate our contact with the actor will be. In the most extreme case, the
+actor can look directly into the lens and make eye contact with the viewer.
+This very confrontational relationship can be quite startling.
+The most frequent use of direct eye contact is in subjective camera
+sequences in which the audience is made to see things through the eyes of
+one of the characters. This is relatively infrequent in narrative ﬁlm, and
+most of the time dialogue scenes are shot with the sight lines of the actors
+slightly to the left or right of the camera. In this case, it is common practice
+to maintain the same distance from the camera for sight lines in alternating
+close-ups of two or more actors. Figure 9.1 is a comparison of setups for
+close-ups, each illustrating a different sight line relative to the camera.
+Figure 9.1
+Once you have acquired some feel for the psychological and dramatic
+implications of sight lines and eye contact, you will be able to make subtle
+shifts within a sequence for dramatic emphasis.
+The Staging System
+
+Unless a director spends a great deal of time training himself to see all the
+possibilities of setup and actor placement, he usually relies on a few allpurpose strategies for any scene. If he allows his actors greater freedom,
+interesting new options may arise, but unless he has a solid command of
+staging for the camera, the production process will ultimately undermine his
+experimentation. The director will ﬁnd himself at odds with the
+cinematographer and producer, who won’t understand why he keeps
+restaging a scene, with the consequent loss of time and, frequently, the
+spontaneity of his cast.
+The skill this director lacks is the ability to visualize the actors and camera
+in space, and the composition that will result from any combination of these
+elements. This is where the pattern system of staging comes in.
+Letter Patterns
+The staging system we will be using from this point on identiﬁes two
+categories of actor placement: pattern and position. We will discuss pattern
+ﬁrst.
+Pattern: There are three basic patterns of ﬁgure deployment in a frame.
+We will call them the “A,” “I,” and “L” patterns. These are the letters
+that grouped players resemble when viewed from above.
+The signiﬁcance of the patterns is that they are the simplest arrangement of
+actors according to the line of action. Therefore, staging patterns relate to
+camera placement.
+As you can see on the following page, the A and L patterns require three or
+more players to complete the letter shape. The only arrangement for two
+subjects is the I pattern. Figure 9.2 illustrates all three patterns.
+
+Figure 9.2: Patterns.
+Position: This refers to the direction the subjects are facing within a
+pattern. For any given pattern, there can be many positions.
+Most importantly, position relates to the composition of the frame. This
+means that once the camera has been placed for a given pattern, the more
+subtle arrangement of the actors (the direction they face in the frame) is
+determined by their positions. An experienced director will consider pattern
+and position simultaneously, but in the beginning, they are more easily
+understood as separate concepts. Three typical positions in the I pattern are
+shown in Figure 9.3.
+
+Figure 9.3: Patterns. All the positions are in the I pattern.
+One last point: The I pattern for two players is the basic building block
+in our system. This is because the line of action can be established between
+only two people at a time. When there are more than two people in a
+conversation, the line of action moves as explained in Chapter 6. This is
+good news since we will only have to learn the positions for two subjects in
+order to apply them to larger groups. From the cameraman’s point of view,
+the I pattern is found in the A and L patterns whenever a series of close-ups
+and singles are required.
+Staging Dialogue for Two Subjects
+For the sake of clarity, most of the photoboards in this chapter are shot in
+simple surroundings staged for the static camera. Later, we’ll see how
+camera movement or movement by the players can be substituted for
+cutting. For now, the camera is locked down, and the photoboard sequences
+represent multiple camera angles that have been edited together.
+
+POSITION ONE
+Face-to-Face
+The most basic positioning of two people in conversation is facing each
+other with their shoulders parallel. The ﬁrst option is to frame the subjects
+in proﬁle, as shown in the ﬁrst six panels.
+Compositionally, this staging allows for powerful subject oppositions. In
+this setup, we do not get to see much of the players’ expressions unless the
+composition is very tight (frame 6). If individual CUs are used the camera
+is usually repositioned for reverse OTS shots, although individual proﬁle
+CUs are certainly possible.
+
+POSITION ONE
+OTS
+
+This next series shows the classic shot, reverse shot pattern in over-theshoulder framings. These might be the logical follow-up shots to the proﬁle
+stagings on the previous page. Though OTS shots are usually shot as
+matched pairs maintaining consistent lens and framing choices, mixed pairs
+can be edited together. In a continuous exchange of dialogue, however,
+matched pairs are more commonplace.
+In tight framings, there are two major strategies for the OTS shots. Frames
+3 and 4 include the foreground subject’s entire head in the frame. In frames
+5 and 6, virtually one third to one half of the frame is blocked off, strongly
+isolating the player facing us.
+
+POSITION ONE
+Long Lens OTS
+
+In the next series of OTS shots (frames 1–6), still using Position One
+staging, the focal length of the lens begins at 120 mm and is increased to
+200 mm. The results are easy to see. Notice that for the ﬁrst time the
+framing device of the face is a true over-the-shoulder shot since we see the
+shoulder and neck of the framing subject. This combination of lens and
+tight framing produces a more intimate feeling than would be obtained with
+a wider lens.
+
+POSITION ONE
+Low-Angle Reverse Shots
+
+Another version of the shot, reverse shot pattern of Position One is seen in
+this next series, which can be described as over-the-hip shots. These are
+dynamic, low-angle positions that tend to put the subjects in an adversarial
+relationship. Frames 1 and 2 are only slightly low-angle and do not separate
+the subjects as much as do frames 3 and 4, which are shot from a camera
+height of 3 feet. In frames 5 and 6, the focal length of the lens is increased
+(100 mm) to lose focus on the foreground-framing subject, thus
+emphasizing the background ﬁgure.
+
+POSITION TWO
+Shoulder-to-Shoulder
+
+This basically frontal positioning offers more options than most others
+because players can be seen full face or in proﬁle in the same shot. In our
+example, the subjects are faced forward, looking at a road map spread on
+the hood of the car, but when the couple speaks to one another, they turn in
+proﬁle to the camera.
+Frames 1–3 are straightforward two-shots. Any of these could serve as a
+master shot, although frame 1 is somewhat wide for a conversation. Try to
+imagine a dialogue scene as you look at these frames. You will probably
+ﬁnd that the size of the shot will affect what type of scene comes to mind.
+You can probably think of this as a reverse exercise since you will most
+often face the opposite situation: imagining a shot for a scene in a script.
+Frames 4, 5, and 6 illustrate an actual sequence. We begin with the proﬁle
+two-shot in frame 4 and move into proﬁle close-ups in frames 5 and 6. The
+camera would be moved in for the CUs, but it would still be directed along
+the same angle of view as for the open two-shot. (In my opinion, this use of
+CUs tends to break up the scene, though in the continuity style it’s a
+perfectly legitimate cut.)
+In frames 7–9, we open with the medium two-shot. This time we have
+replaced the CUs of the previous version with a proﬁle two-shot by moving
+
+the camera around to the side and subsequently reversing to the OTS shot.
+Unfortunately, the framings don’t ﬁll the frame as much as I would like to
+see. If this were a storyboard, I would know in advance that the shots
+should be tighter.
+In this last series, frames 10–12, we begin with the master shot followed by
+two close-ups. This time we open with an angular two-shot. The camera is
+moved to the side for the shot, reverse shot CUs. Compare these with the
+two proﬁle CU shots we used earlier in frame 5 and 6. Notice that these
+newer CUs give a stronger sense of presence. This happens because each
+subject in the CU is looking in our (the camera’s) direction — in a sense,
+including us in the scene.
+POSITION THREE
+This basic staging deploys the ﬁgures at an angle of 90 degrees. This is a
+compromise between the parallel shoulder arrangement of Position One and
+the shoulder-to-shoulder arrangement of Position Two. It is a more casual
+pose, not one you would expect to see if the couple were arguing or having
+an intimate conversation. The looser relationship allows the couple to look
+away from one another and vary their head positions.
+
+In the angular two-shot shown in frames 1 and 2, the player facing the
+camera is in the favored position. This type of setup is similar to the OTS
+shots, and we expect to see a reverse of the player in the secondary position.
+The head-on two-shot in frames 3 and 4 puts the players on an equal basis
+and so is the logical choice for a master shot if no close-ups or reverses are
+used. The alternative is to have the player in the secondary position turn
+towards the camera to obtain the equivalent of a reverse shot. As with any
+of the “I” patterns, OTSs and CUs can be used, although this tends to force
+the subjects into the more direct relationship of Position Two. One way of
+maintaining the angular positioning is by composing the two-shot very
+tightly and closing the space between the subjects. A shot, reverse shot
+version of this is shown in frames 5 and 6.
+
+POSITION FOUR
+Beginning with Position Four, we will look at stagings that create tension.
+In all cases, this is due to the absence of eye contact between the players. In
+this series, the woman has turned from her partner, and the sense of
+separation is clear. This type of framing puts the viewer in a privileged
+position because we can see what the man cannot: the woman’s reactions to
+his words.
+Staging in depth in this way clearly places us in a closer relationship with
+one of the players. This is a deﬁnite choice of point of view that depends on
+
+the basic frontality of the scene. A reverse shot in this staging would
+drastically alter the point of view. If a more neutral relationship with the
+players is desired, there are other, probably better, stagings that can be used.
+As you can see, I have not used any reverse shots with this staging, which is
+inherently frontal.
+In frame 1, the two-shot is composed in depth with a 30 mm lens. The result
+is that slight distortion can be seen in the foreground player and the player
+in the background seems far away even though the players are only
+separated by the length of a picnic table.
+Frames 4, 5, and 6 present a slightly modiﬁed alternative. The opening twoshot is looser, allowing the viewer some breathing room. The close-up in
+frame 5 also has been made wider (almost a medium shot) to give the frame
+a more relaxed feeling. Frame 6 shows a lower angle close-up. Compare the
+feeling of this frame to frame 3 above. The result of these changes is that
+the sequence is less insistent.
+POSITION FIVE
+This is another staging that tends toward separation and tension. The body
+language of the woman’s folded arms and the man’s hands in his pockets or
+
+on his hips contributes to the interpretation of the scene. The framing can be
+used to emphasize the dramatic situation but is essentially neutral as to
+which actor is dominant. In the version shown, the woman refuses to look at
+the man. This, of course, is a type of control, and we can imagine that the
+man is placed in a position of weakness. We could just as easily propose a
+scene in which the man is confronting the woman with some lie she has
+told. In this case, the man would be in the dominant role.
+We begin with a high angle in frame 1. This view usually serves to create
+tension and isolation. The open surroundings contribute to this feeling. The
+cut to the two-shot in frame 2 is a legitimate edit, but I would prefer to
+show the players separated more. The next sequence (frames 3 and 4)
+shows a pair of reversed angular shots.
+In frames 5 and 6, we see a pair of tighter reverse shots. In these shots, the
+framing combines a CU framing and a medium shot. The obvious
+
+difference is that frame 6 features both players’ faces, while frame 5 is
+really an OTS shot.
+If it is necessary to withhold the woman’s expression, we could frame the
+scene from the opposite side of the action in the previous frames. In this
+case, we will be crossing the line of action.
+This staging would open with the high-angle shot in frame 7, cross the line
+to frame 8, and cross the line one last time to frame 9. This type of staging
+and shot sequence is not at all typical of the continuity style, but that is
+largely due to the unchallenged orthodoxy of the 180-degree convention.
+Do not automatically rule out a shot simply because it means crossing the
+line. If it works, use it.
+POSITION SIX
+This dramatic staging withholds eye contact for much of its effect. The
+value of this staging is its clarity, related in a sense to the shoulder-toshoulder two-shot. The difference is that in-depth staging encourages us to
+identify with the foreground player. My feeling about this type of setup is
+that over-cutting destroys the unity of the scene.
+
+In frame 1 we see a wide shot of the setup, but frame 2 is probably the best
+distance for a master shot. In this type of staging, the background player has
+room to move, pace, turn around, or leave the frame momentarily, while the
+foreground player is restricted to a smaller space if both players are to
+remain within the frame. Frames 3 and 4 reveal the way in which
+identiﬁcation can be controlled by placing us in an intimate relationship
+with the man. If cutting is used, the pair of close-ups in frames 5 and 6
+retain the feeling of separation.
+
+POSITION SEVEN
+With this staging, we continue the deployment of players who do not make
+eye contact. Because both players are looking offscreen in different
+directions, the viewer’s attention is divided between the background and the
+
+foreground players. This produces an offhanded, relaxed dramatic situation.
+Notice that the background player is looking past the foreground player.
+This directs the viewer’s attention to the foreground player and uniﬁes the
+shot.
+Consider this series a comparison of close-ups. The middle close-up of the
+man is a good example of how shot size contributes to the spatial unity of
+the sequence. Learn to move your eyes over the images without studying
+them. Reading a storyboard is a matter of editing with your eyes. This
+becomes easier when you have an actual scene to imagine.
+POSITION EIGHT
+
+This next version is a variation on the previous staging. As before, the
+players are in a right-angle relationship, but this time the background player
+is looking away from the other player. The three pairs of photos serve as a
+good example of the different ways in which the viewer’s relationship to the
+players is determined. In frames 1 and 2, the woman facing us is favored
+slightly. As a general rule, the player whose eyes are most clearly seen will
+dominate the shot. As we have seen before, in-depth staging encourages our
+identiﬁcation with the foreground player. Finally, the angular shots in
+frames 5 and 6 tend to balance the attention of the ﬁgures since both players
+are turned away from the camera.
+
+POSITION NINE
+This series features a staging that has the players so completely opposed
+that it seems as though it belongs in a musical comedy. This is only true if
+we imagine that the players are aware of each other and have taken a deﬁant
+
+stance. We can change this very easily if we imagine that the scene is set on
+a railroad platform and that the man has been hired to follow the woman.
+The man moves into the crowd and stands with his back to her. In this case,
+the staging would be suited to a thriller, not a comedy.
+Comparing the stagings in frames 1 through 4 you will see that the
+somewhat stylized positioning in frames 1 and 2 is less artiﬁcial looking as
+we move closer in frames 3 and 4.
+Personally, I ﬁnd frames 5–10 to be the most successful framings of this
+position. All six frames are evocative because the head turn indicates that
+the featured player is listening to something offscreen. In a sense, this is an
+aural version of the cut on the look.
+
+POSITION TEN
+The following three sequences record a staging in which the players are
+positioned at different heights. This usually means that tight two-shots are
+framed as up or down angles, though in wide framings this is not necessary.
+
+No reverse shots are shown in this series, though that is certainly a
+workable variation.
+Spend some time looking at the shot ﬂow in these sequences. Try “reading”
+the frames from right to left or diagonally to produce different
+combinations. Any of these shots works with any other, but each presents a
+slightly different feeling and spatial sense. Developing the skill to predict
+relationships between shots in a sequence will help you in composing
+individual shots.
+There are innumerable variations on two-player stagings that we have not
+looked at, but nearly all the possibilities will share the essential physical
+and emotional qualities of at least one of the positions illustrated. The point
+is not to memorize every conceivable arrangement of player and camera,
+but rather to sharpen your awareness of the relationship of the elements
+from which the dramatic qualities of a shot are composed.
+
+10 Dialogue Staging With Three Subjects
+Now that we have looked at the 10 positions for the “I” pattern, we can add
+a third player to our stagings, which will make the “A” and “L” patterns
+possible. Remember, our system is based on three assumptions:
+• The I pattern is the simplest building block. It is found in the A and L
+patterns.
+• Patterns determine camera placement based on the line of action.
+• Position determines the placement of players in the frame based on the
+basic staging pattern.
+The Difference Between A and L Patterns
+Because actors are not always arranged in precise A or L alignment, it is not
+always easy to decide which pattern to apply. In this case, camera
+placement is the determining factor.
+For example, when lining up players for a three-shot you may ﬁnd that two
+players are facing the third player. If the third player is framed between the
+other two, then the staging arrangement is the A pattern. If the third player
+is lined up outside the other two players, then the arrangement is the L
+pattern. This aspect of staging is called opposition. Figure 10.1 shows the
+various types of oppositions that can be obtained.
+
+Figure 10.1: Frames 1 and 2 show one subject opposed by two others.
+Since the lone ﬁgure in black is ﬂanked by the other two, this is an A
+pattern. Frames 3 and 4 show the alternative setup for the three-shot in
+which the lone subject is isolated to one side. This is an L pattern. Frames 5
+and 6 illustrate the type of opposition that can be obtained if we break down
+the three-shot into a two-shot opposed by a close-up. In frames 7–9 all the
+players are equally opposed in close-ups.
+The Basic Patterns and Positions
+In the two-player stagings of the previous chapter, the models in the
+photoboards were arranged in open space. Having established the basic
+positions in those examples, we can look at stagings that are less precisely
+aligned.
+By adding the additional player, we have increased the number of pattern
+and position combinations enormously. We do not need to look at all of
+them since we know that any combination can be reduced to the 10
+positions in the I pattern that we have already seen. Conversely, we can
+
+reverse the process and construct dozens of three-player stagings from the
+10 positions. This idea is shown in Figure 10.2.
+Figure 10.2: Here we see the boxed portion of the A and L patterns being
+replaced by the two alternate positions in the I pattern at the top of the
+ﬁgure. The box could just as easily be drawn horizontally or diagonally as
+long as two players are enclosed in the box.
+Before looking at the photoboard examples, we can review the line of
+action as it pertains to three-player scenes. Figure 10.3 shows a typical
+staging situation in the A pattern.
+
+Figure 10.3: In this A pattern staging, I ﬁrst determined the general angle of view.
+Although the camera can move 360 degrees around the players, the scene should have
+a basic viewing orientation. The circumstances vary with the scene, but in this case,
+the scene opens with a view from camera 1. The dialogue begins between players a
+and c. This establishes the line between them. Camera positions 1 and 2 for OTS shots
+are placed outside the line.
+Now player b speaks to player c, establishing a new line between them. On
+what side of the line do we place the camera? This is where the general
+view comes in. Rather than set up a new camera position outside of players
+a and b, as we did for players a and c, we stay on the same side of player a.
+Now when player b speaks to player c we stay on the same side of player b
+and use camera position 2. What about camera position 3? Do we actually
+need this angle? With the number of angles we already have, it may be
+unnecessary. This example can be handled in other ways, but the general
+idea is to reuse positions when possible rather than constantly creating new
+ones whenever a new line is established.
+In the following examples, we will consider some common and some notso-common staging situations with three players.
+A Pattern (Version One)
+
+Here is the same staging situation we just looked at in Figure 10.3. Frame 1
+is the only combination of setup and staging for this pattern that permits us
+to see all the subjects clearly. This makes it the obvious choice for a master
+shot.
+In the ﬁrst series of frames (2–5), single shots (medium shots and a closeup) are used after the opening master shot. This produces two results. First,
+it tends to fragment space, and secondly, it prevents us from seeing the
+player speaking and the players who are listening in one shot. Compare this
+with the next sequence.
+
+In this next series of six frames (6–11), OTS shots have been used to unify
+space. After the establishing shot, an entire conversation can be
+comfortably handled in OTS shots and an occasional three-shot or two-shot
+to vary the rhythm. As you can see, the OTS shots are framed in the same
+way we would handle the staging if there were only two players. The
+
+several OTS variations in the I pattern introduced in the last chapter all
+apply to the staging we are looking at here.
+A Pattern (Version Two)
+
+This “A” pattern staging is a direct positioning of opposed ﬁgures as might
+be expected in an interview or meeting in which the parties are on a formal
+basis. Again, this is a very common staging position whether the players are
+standing or sitting. Notice that the man’s sight line in frame 1 is very close
+to the camera, placing him in a direct relationship with the viewer. In frame
+2, we see the women in proﬁle, and their relationship to the viewer is
+deferential. It looks as though the women are the listeners and the man is in
+a position of authority. Frame 3 preserves this relationship even though we
+do not see the man’s face. This is because a down shot of this type is not the
+type of framing we would expect if either woman had anything important to
+say.
+Compare frames 4–6 with the last series. Frame 4 places the man in a very
+direct relationship with the viewer. Personally, I do not like the rendition of
+space in frames 4 and 5. Frame 5 was shot with a 40 mm lens, but it looks
+too wide to me. What do you think about frame 6? Now look at both
+sequences and compare the experience of “reading” them. Which sequence
+do you ﬁnd the most successful in terms of shot ﬂow? If you could
+substitute shots from one sequence for some in the other, which ones would
+you choose?
+
+In this next series, you can see how the man’s presence is diminished when
+he is not in a frontal position. Before he was in command; now he is in a
+reactive position. If we started with a picture of the woman facing the
+camera followed by the proﬁle shot of the man in frame 7, the woman
+would be in the position of authority.
+A Pattern (Version Two)
+The two series of frames below are a good comparison of overlapped space
+and discontinuous space within a frame. Frame 10 in the top row is an OTS
+shot and includes some of the man from the previous shot. This is what is
+meant by overlapping space. The reverse CU shot in frame 11 does not
+include space from the previous shot and is therefore discontinuous.
+Overlapping ties together the scene space. At the same time, close-ups like
+the ones in frames 12 and 14 isolate a subject in a way that might be
+justiﬁed dramatically.
+Notice how frames 11 and 13 serve as pivot shots directing our attention to
+the appropriate CU, frame 12 or 14. The direction of the man’s look is the
+determining factor. Cutting on his head turn is a powerful editing cue.
+One last point to be made is the importance of lens choice. These shots
+were all photographed in the 50 to 90 mm range. The three shots, frames 9
+and 13, were the widest at 50 mm, and it might have been possible to bring
+the women in the foreground into a closer relationship with the man with a
+longer lens. Manipulating scene space with the lens is a powerful technique,
+but if used carelessly it can cause spatial inconsistencies.
+
+L Pattern (Version One)
+Here we see a typical use of the L pattern. An angular view in frame 1
+moves to a low-angle OTS shot in frame 2. Actually, we are seeing a
+portion of the man’s arm, not his shoulder, and it preserves the spatial unity
+of the opening shot. We then move to two close-ups. Notice the rhythm
+created in four frames by the change in shot size and camera angle. We
+become progressively tighter for three frames and then back out to a
+slightly wider CU in frame 4. Compare this with the next series.
+
+Frame 5–7 show how the sequence would look if we only used OTS threeshots. An entire conversation could be shot this way, though frame 6 could
+be a little tighter. Generally speaking, this sequence has a more relaxed,
+stable feel than the previous version.
+L Pattern (Version Two)
+
+Here’s another version of the L pattern. This time the opening shot of the
+scene is a two-shot. Not until frame 3 do we see an overview of the scene
+space. This is an interesting strategy for opening a scene — deliberately
+withholding the full context of the scene. We also see a typical use of the
+two-shot in frame 1. It is typical because the L pattern generally groups the
+two players on the long top of the L together. Almost always, the L seating
+or standing arrangement occurs when a single player is addressing two
+others.
+We can compare the use of the three-shot in this last series with the twoshot in the previous series. Both three-shots are OTS framings. An
+alternative three-shot is shown in the bottom row. One last point: The
+frames in all these series are necessarily small for presentation purposes. In
+a theater, the subjects in these shots would appear considerably closer and
+more intimate.
+
+I Pattern
+This is a simple version of a common staging. Once again, we can see that
+the options for cutting tend toward shot, reverse shot patterns. If cutting is
+not used, we can employ more complex staging in depth, but quite often
+OTS shots, two-shots, and close-ups are the best way to frame the action. In
+this series, we ﬁnd this strategy working effectively. By adding a dolly
+move and by repositioning the players, we have obtained many of the same
+angles seen in multiple shots using only the master shot. Later we’ll look at
+staging techniques that use a master shot for an entire scene.
+
+A Pattern (In-Depth Staging One)
+This next series is an unusual staging of a dialogue sequence. I have
+included it as a study of in-depth staging and the use of lenses.
+Frames 1–4 are straightforward stagings of the players. A line of action is
+established between the man and the two women. Respecting the line we
+can move to the low-angle two-shot (frame 3) or the subsequent OTS shots
+of the women (frame 4), which establish a new line.
+
+If we want to explore more fully the relationship between the man and the
+women, we can use a pair of reverse shots. Here’s how we might cross the
+line: We could open the scene with a medium shot of the man in frame 5.
+This could be followed by the man’s head turn as he looks at the women in
+the foreground in frame 6. After several seconds, the man will turn away,
+and we can cut to frame 7. Now we can cut to the two-shots or the OTS
+shots from the previous series. We also have the option of cutting to OTS
+shots on the opposite side of the women after frame 7.
+
+A Pattern (In-Depth Staging Two)
+This staging in depth is a good example of the use of frontality. It has been
+designed to work without reverses or shots taken from the side. The camera
+is able to move all the way to the background to feature the women coming
+through the gate. After the establishing shot, a scene staged this way might
+only use frames 2 and 3 for an entire conversation.
+Frames 4–6 represent an alternative establishment of scene space. In this
+version, the scene opens with the woman in the background. We are
+intrigued by her look, and cut to the wider frame of the other two players in
+frame 5. This is a cut on the look, but it is not a POV shot. That would
+require a reverse angle. Finally, we widen all the way out in a wide
+establishing shot. This might serve as a dramatic pause in the middle of the
+scene or as the ﬁnal shot.
+A Pattern (Experimenting With the Line of Action)
+This A arrangement stages the players at different heights to obtain
+interesting angles. This is also an example of the unorthodox use of the line
+of action. Frames 1 and 2 establish the line in an unconventional manner by
+not basing it on the sight lines of the players. Frame 3 is a radical shift to a
+low-angle shot. But the scene geography was so clear in frame 1 that we
+
+remember where the boy on the railing was seated. Also, the gunstock was
+deliberately included in the shot as a spatial signpost.
+Frame 4 observes the new line established between the two boys on the
+railing, but in frame 5, we violate that line to get the shot of the boy
+standing on the ground. Frame 6 is a reestablishing shot and frame 7 again
+crosses the line. It is likely that an actual sequence would use head turns
+and other spatial cues that would make the editing pattern more cohesive.
+However, whether or not this rule-breaking approach works for you is your
+decision.
+L Pattern (Version Three)
+Here’s an alternative treatment of the previous scene. In this version, the cut
+on the look motivates many of the shots. We open with the three-shot in
+
+frame 1 (the third boy is hidden behind the railing). In frame 2, we cut to a
+reverse on the boy’s head turn and look. We reverse again and move to the
+CU of the boy behind the railing looking back. In frame 4, the boy seated
+on the railing throws a pebble at the boy behind the railing, who looks up in
+frame 5. We open up to a wide shot in frame 6 as the boy in the foreground
+calls to his two friends. This motivates the head turn of the boy in CU in
+frame 7. Throughout this sequence cutting has been motivated by either
+action or the cut on the look.
+
+11 Four or More Player Dialogue Stagings
+Staging dialogue scenes with four or more subjects utilizes the same A, I,
+and L patterns that we used for three-player dialogue scenes. However, as
+the number of subjects grows, so do the possibilities for individual shots or
+group shots. For instance, for a scene with ﬁve subjects, there are 5 possible
+CUs, 9 two-shots, 6 three-shots, 6 four-shots, and 1 ﬁve-person master shot,
+or approximately 27 shots. Obviously, this is an overwhelming number of
+choices for any scene, and while some setups are clearly impractical,
+photographing groupings with more than three subjects is a matter of
+consolidation and simpliﬁcation.
+In nearly all cases, dramatic structure in ﬁction does this for us by
+representing a generalized view of the human situation through the actions
+of individuals. In practical terms, this is found in any scene involving large
+numbers of people when we focus on the key experiences of the main
+characters within a compressed time frame. While these are dramatic
+conventions, they are similar to how we experience any large gathering of
+people in real life. At a dinner party, for example, people arrange
+themselves into small groups because it’s simply too difﬁcult to converse
+with more than ﬁve or six people simultaneously. Even when one person
+gains the attention of the other guests, it’s basically a two-person
+arrangement: the speaker and his audience. When ﬁlming a large group
+where several players speak, close-ups are often used in favor of three and
+four-player group shots, since this helps differentiate the players.
+
+Figure 11.1
+If we look at Figure 11.1, we see one man surrounded by seven other
+people. It would be unusual for each of these players to have signiﬁcant
+speaking parts. Even if that were the case, one or two players would almost
+certainly emerge as the central players. The key to camera positioning is
+identifying which players are the central players in the scene.
+Figure 11.2 shows the line of action established between the principal two
+players in the scene. CUs of all the other players might be used, but the
+basic staging preserves the line of action as established by these players.
+
+Figure 11.2
+Figure 11.3 shows what happens if three players share the dialogue equally.
+In this case, the A pattern applies and the camera can be positioned
+accordingly. As we learned in the previous chapter, even the A pattern is
+ultimately reduced to the two-subject I position when determining the line
+of action. The players who do not have dialogue may be included in the
+shot, but the camera position is restricted to the 180-degree working area on
+one side of the line of action.
+
+Figure 11.3
+
+Figure 11.4
+In Figure 11.4, the same logic applies to four key players. In this situation,
+we have multiple lines of sight or potential lines of action. While it is
+possible to puzzle out camera placement for each pair of players, there is a
+simpler way to work out the staging. Limit yourself to a few key setups. If
+you are establishing more than four sightlines to move around space in a
+large group, you are creating unnecessary problems. The dotted line in
+Figure 11.4 represents a basic line of action that permits close-ups, singles,
+two-shots, and a group shot. This means that we are establishing a general
+viewing direction.
+It should be mentioned at this point that all this attention to the line of
+action and camera setup implies an active cutting style. In any of the
+previous examples of large group stagings, a single camera setup could be
+used, and this of course would eliminate continuity problems.
+
+While it is easy to visualize this in illustrations from an uncluttered highangle view, it can be anything but simple to visualize a scene when you’re
+on the set with a large cast. But no matter how complex the staging
+becomes, the camera geography of any scene is easily determined by
+keeping the line of action in mind. This is true whether you choose to
+violate the line or not. The Japanese director Yasujiro Ozu, whose staging
+style required him to cross the line, was as consistent in his rejection of the
+traditional rules of continuity as any Hollywood director is in observing
+them. The purpose of describing staging in terms of the line of action is to
+help a director make clearheaded choices. The line and the patterns based
+on the line should be thought of as a system of organization, not as an
+aesthetic choice. If it helps you to break through to some new way of
+working, so much the better.
+A Pattern (Version One)
+This time 5 players are seated in a circular arrangement. In this case, it’s
+possible to interpret the staging as an I, A, or L arrangement depending on
+which players are being emphasized. The determination of the line of
+action, general viewing angle, and staging pattern is your choice.
+In this situation, the predominant viewing angle is over the shoulder of the
+grandmother shown in Figure 3. All the other players can be viewed from
+this position. Only one reverse is required to see the grandmother.
+In this situation, the line of action is extremely ﬂexible. The reason is that
+the line of action is generally determined by the sight line of the players
+featured in the scene. As you can see, there are so many possible sight lines
+in this circular staging that we could easily establish a new line anywhere in
+the scene space.
+Frames 2, 3, and 4 show an editing pattern in which subjects on the sides of
+the table are seen in angular shots, essentially from the point of view of the
+grandmother in frame 3. An unorthodox alternative is the side-by-side OTS
+shots of the grandmother in frames 5 and 6.
+
+L Pattern
+This is a good example of how a group of four players is treated in CUs,
+two-shots, and three-shots. In this arrangement the two girls seated side-byside clearly work as a two-shot and form the center of the scene. We can
+frame them as though they were one player opposite the boy, which means
+we are essentially working with the I pattern.
+In frame 1 we set up the full group and move into a wide OTS three-shot in
+frame 2 (the fourth ﬁgure is partially visible). The OTS two-shot in frame 3,
+the two-shot in frame 4, and the medium single shot in frame 5 make up
+one simpliﬁed treatment of the scene, assuming that editing is called for.
+To show how easy it would be to stage the scene for a single master shot,
+consider frame 2. If the camera were shifted a few feet to the right and tilted
+up, all four ﬁgures would be framed. In this arrangement, the seated ﬁgures
+would be in proﬁle and the standing ﬁgure would be in a frontal position.
+
+A Pattern (Version Two)
+This next series of nine panels shows three staging possibilities comparing
+I, L, and A pattern stagings. In the ﬁrst example we have a classic threeangle treatment of the I pattern. Panel 1 shows the head-on center position.
+From a closer position, but still located midpoint between the subjects, the
+camera is pivoted left and right to obtain panels 2 and 3.
+
+In the second sequence, we open up with the girl who is standing lined up
+to one side of the seated ﬁgures. This makes it the L pattern. At the same
+time, the camera has been moved to a position almost along the line of
+action and outside the scene space. Two angular shots give us a single and a
+three-shot.
+In this next sequence we have an A pattern interpretation of the same scene.
+In this case, the girl standing is lined up so that she is ﬂanked by the
+subjects in frames 7 and 8. In these two shots, the line of action practically
+runs through the camera position.
+Patterns can also be mixed. If you read the frames vertically, for instance,
+panels 1, 4, and 7 and shots from the I, L, and A patterns work together
+quite comfortably. The choice is essentially between symmetrical or
+asymmetrical framings. This is most obvious in the shot, reverse shot
+pattern.
+
+Frontal Positions for Single Setups
+By now the various possibilities for staging two-, three-, and four-or-moresubject dialogue sequences should be familiar as recognizable framing and
+editing patterns. In midsized groups where each subject is dramatically
+signiﬁcant, master shot stagings are often desirable. The three examples that
+follow show asymmetrical stagings and the use of depth in ﬁgure
+placement.
+In a group master shot in which the action is staged for one viewpoint, the
+screen too easily becomes the theatrical proscenium. Rather than have a
+scene staged across the frame, players can be staged along the lens axis, as
+with the group of boys in the hallway in frames 1 and 2. Here the players
+are seen in proﬁle. Foreground players may turn from the camera
+occasionally to react to background players, but they can be directed to
+speak or respond to players across from them as well.
+
+In-Depth Frontal Positions
+In this next series of frames, an in-depth composition is used with a
+foreground player close to the camera. The overly composed theatrical
+positioning in frame 3 is modiﬁed in frame 4 so that the background players
+form a looser group arrangement.
+The evolution of the compositions in frames 1–6 is representative of the
+staging process carried out on the set by the director, the actors, and the
+cinematographer. Frames 1 through 6 are all ways of dealing with the same
+scene, with frame 5 coming closest to an acceptable solution. However, I
+would probably bring the seated ﬁgure on the right forward slightly.
+When staging groups, ﬁlmmakers are sometimes fearful that their players
+are not seen clearly within the frame. The result of overcomposed ﬁgures is
+staginess, and the only cure is a disregard for ordered framing. In the
+following examples, ﬁgures are overlapped or cut off by the frame, and this
+freedom permits many more options for staging action. This style of
+composition is known as open framing and will be discussed further in a
+later chapter.
+
+Crowds and Large Groups
+In concluding the dialogue-staging section, we come to the treatment of
+individual players when they are in crowds or other large gatherings of
+people. When staging a dialogue scene in a crowd, the subjects in
+conversation are still placed in accordance with the concepts we applied to
+2, 3, and 4 players. However, there are some additional camera techniques
+available that solve some of the spatial problems that arise when the scene
+space is densely packed with people.
+
+There are two basic approaches to shooting dialogue in or around a crowd:
+The camera is either in the crowd looking out or outside the crowd looking
+in. The execution of each approach is largely dependent on the focal length
+of the lens that you use. Shots framed from within the action are normally
+taken with a wide or normal lens, while shots taken from outside the action
+are shot with a telephoto lens.
+Telephoto Lenses
+Apart from the speciﬁc visual appeal of a telephoto shot, long lenses have
+become popular in the shooting of large crowds for logistical reasons. For
+instance, it is possible to simulate large masses of people with a limited
+number of extras strategically placed in depth for the telephoto lens. In
+addition, due to the shallow depth of ﬁeld, the telephoto lens can isolate
+principal subjects from foreground and background elements whether the
+crowd is staged or real.
+At the same time, the camera can be placed at a distance from the crowd,
+making it easier for the cameraman to work. Spatial relationships within
+shots and between shots are indeﬁnite due to the shallow depth of ﬁeld, and
+the speciﬁc location of action is difﬁcult to identify. The telephoto lens
+permits cameramen to work in crowds discreetly, allowing them to
+photograph actors in real situations (as in the photos accompanying this
+section).
+The use of the telephoto requires keeping the camera outside the action. If
+the camera were in the midst of the crowd, it would have to be a great
+distance from the players in order to frame them, thereby allowing too
+many extras to come between the camera and the subjects. The result would
+be that the crowd would obscure the players. Therefore, telephoto shots of
+subjects within a crowd must be carefully staged so that just the right
+number of people move between the camera and the players. Since this
+turns out to be only a few people, 10 to 15 extras can be made to seem like
+a big crowd.
+Wide Lenses
+Staging action for the wide lens is far more difﬁcult. Generally, the camera
+is in the action, close to the subject of the shot. As with the telephoto shot,
+
+extras must be carefully arranged between camera and subject, but the
+greater depth of ﬁeld and clarity of the normal lens is less forgiving in terms
+of framing. The positioning of ﬁgures is much more critical, and a slight
+variation of any element can wreck the shot. If the camera and subject
+move, many more extras are necessary, and because the camera is within
+the action, a quarter turn takes in 90 degrees of space. This is space that
+might require dozens or hundreds of extras to ﬁll. At the same time, the
+camera and crew have to work in close quarters, and moving dolly track or
+lights requires clearing the area.
+For all this, the normal lens has decided advantages for creating
+understandable geography, as well as for its particular graphic qualities. It is
+usually necessary to stage physical action with the wider lenses, while
+dialogue stagings can be shot with a telephoto. We can now look at some
+examples of actual shots.
+Lens Comparisons for Crowd Scenes
+The arrow indicates the subjects of our shots. Frame 1 is a moderate wideangle shot (35 mm) outside the action. Frame 2 is shot through the parade
+and views our subjects from within the action using a 40 mm lens.
+
+In frame 3, we are again on the same side of the street as our subjects, this
+time with a longer lens to bring the background closer. One slightly
+unorthodox effect is that the subjects are in soft focus due to the shallow
+depth of ﬁeld. While some ﬁlmmakers object to allowing principal subjects
+to go soft even while they remain the center of attention, I ﬁnd that the
+subjects can be recognized if their clothes or appearance has been
+established in previous shots. Frame 4, taken with a 500 mm lens, was shot
+
+from across the street using two foreground spectators as a framing device.
+Finally, frames 5 and 6 are on the perimeter of the action, very nearly in the
+thick of things, shot with a 50 mm lens.
+We conclude with a comparison of lenses. First is a 40 mm lens with ﬁgures
+in the middleground, second is a 50 mm lens with the ﬁgures in the
+foreground, and last is a 300 mm lens shot with the ﬁgures in the
+background.
+40 mm lens
+
+50 mm lens
+300 mm lens
+
+12 Mobile Staging
+When Fred Astaire left Broadway for the studios of RKO he summed up his
+thoughts about motion pictures and dance this way: “Either the camera will
+dance or I will.” This is pretty good advice for a choreographer to follow,
+but it also happens to be a succinct way of describing the two basic methods
+of staging mobile action: move the camera or move the subject.
+In the previous three chapters on staging dialogue, we built sequences by
+using multiple camera viewpoints to direct the viewer’s attention — the
+camera moved around players who remained in a ﬁxed position. There is an
+alternative to this way of staging action: directing the viewer’s attention
+from one subject to another by having the subjects move within the space
+framed by the camera. In practice, both approaches are frequently combined
+to present a varied and ﬂuid dramatic sequence. In addition to cutting
+multiple viewpoints together and moving the subject in the frame, we can
+also move the camera in a tracking or crane shot. These three methods of
+photographing action in sequence represent the entire range of camera and
+subject staging techniques.
+In Figure 12.1, frames 1 and 2 illustrate a simple shot, reverse shot editing
+pattern using OTS framings. This is a straightforward way to treat a
+dialogue scene if the subjects are stationary. The alternative is to allow the
+players to reposition themselves as part of the action in a single shot, as
+shown in frames 3 and 4. By having the man turn around in frame 4 we
+obtain the frontal view that previously required a new shot.
+
+Figure 12.1: Frames 1 and 2 show the shot, reverse shot cutting pattern.
+Frames 3 and 4 represent a continuous shot in which the man turns around
+to face the camera. This strategy uses mobile staging to achieve the same
+results as cutting.
+A variation on this same idea of substituting the actor’s movement for
+editing is shown in Figure 12.2. This time the girl in the background of the
+shot comes forward until she is seen in close-up. The man with his back to
+the camera in frame 1 turns with her so that they are both facing the camera.
+In a sense, we have obtained the equivalent of a medium OTS shot, a closeup, and a two-shot without resorting to cutting.
+These two examples of mobile staging will give you the basic idea. The
+only criterion the actor’s movement should meet is whether it is motivated
+or not. This type of staging falls under the category of “stage business.”
+This can mean anything from lighting a cigarette (the classic piece of stage
+business in the ’40s) to moving around a bedroom while getting dressed in
+the morning. You should never really have to invent artiﬁcial business just
+
+to add action to a scene. If the story, actors, and the directing process are
+working together, ideas will emerge from this collaboration that are
+accurate observations of human behavior.
+Building Blocks
+Think of the longest, most involved sequence shot you can remember from
+a ﬁlm. Now imagine how you might draw that sequence in a storyboard.
+Since you cannot depict continuous movement in a single panel, you would
+have to choose key moments in the action and draw them in a series of
+panels. As it turns out, this is fairly easy because most action staged for a
+long interrupted shot is composed of these very same movements
+choreographed into a smooth continuity. We can also reverse the process
+and devise a continuous shot built from the same individual key events in
+the action.
+We’ve already looked at the building blocks for this approach in the
+patterns and positions catalogued in the previous chapters on staging.
+Working out choreographed movement with the actors is merely a matter of
+connecting different patterns and positions so that all the separate views of a
+scene are linked into a single shot.
+
+Figure 12.2: These separate frames at left represent a single shot. By using
+mobile blocking, the actors are seen in different positions and sizes, the
+same as if we had cut between several camera setups.
+Mobile Staging (Example One)
+Let’s try building a simple two-position sequence using camera movement
+and a subject who is repositioned in the shot. This strategy is shown in
+ﬁgure 12.3. The movement of the camera and the actor represents a single
+unbroken shot. The accompanying diagrams show an aerial view of the
+choreography.
+
+Figure 12.3: We begin with an OTS framing and …
+… the camera dollies forward as the girl who is standing moves to the
+opposite side of the table.
+Imagine that the two girls in the photographs have been speaking for
+several moments in the wide OTS shot in frame 1. Rather than cut to a new
+shot of the seated girl as she begins to speak, we dolly the camera forward 4
+feet while the girl in the hat walks to the other side of the seated girl. In this
+
+version both camera and player move simultaneously, and the ﬁnal staging
+in frame 6 permits us to see both players. You might recognize this
+arrangement; it is position ﬁve from the two-player stagings in Chapter 9.
+This particular type of move, in which a subject moves in the opposite
+direction of the camera, is called a counter move. In this version the girl
+who walks past camera is absent from the frame for a moment, but the
+whole action is very short and only a few seconds elapse from frame 1 to
+frame 6. Of course, the variables in timing and positioning are considerable
+and have a great deal of impact on the dramatic emphasis within the scene.
+Now we’re ready to try a considerably more ambitious sequence shot using
+staging patterns and positions we learned in the previous three chapters. We
+can begin with position four, version #8, from the two-subject dialogue
+stagings (Chapter 9) and combine it with another position at the picnic
+table. The following pages illustrate how a series of separate shots can be
+combined into a single shot by moving the actors and the camera.
+Mobile Staging (Example Two)
+In frame 1, the girl refuses to acknowledge her boyfriend. He moves
+forward and takes a seat at the opposite end of the table in frame 2. The
+schematic drawings show the movement of the camera to accommodate the
+new staging.
+
+Frustrated, the boy stands up and walks a few steps away, still speaking to
+the girl (frame 3). After a few moments, he returns to the table (frame 4)
+and angrily tries to provoke some kind of response from the girl. The
+camera has not dollied during this action.
+Now the boy walks towards the camera and the camera dollies ahead of him
+a few feet until he turns to face the girl in frame 5. As the boy speaks, the
+girl turns toward him to listen (frame 6). As this happens, the camera
+retracks towards her, leaving the boy out of frame. Once she is framed in a
+medium shot the camera comes to rest for a few moments.
+
+The camera slowly moves in front of the girl in frame 7 as the boy reenters
+the shot, sitting down behind her in frame 8. The camera comes to rest in
+this framing for a few moments, but when the boy leans left across the
+table, the camera moves with him and pushes into a closer shot as he makes
+his ﬁnal appeal to the girl in frame 9.
+
+Finally, the boy gives up, and making his parting comments he stands up in
+frame 10. The camera backs up a few feet to a wider shot as the boy walks
+away. The ﬁnal framing of the shot is seen in frame 11.
+In this example of mobile staging in a sequence shot, we used several
+different techniques to get the maximum use of a 15-foot piece of track.
+This included staging in depth to vary the framing, panning from a
+stationary position to reframe, retracking over the same space by reversing
+the direction of the camera, following one subject (the boy) and then
+another (the girl), and pushing in towards a subject and then backing away.
+
+Visualizing the staging of a scene requires collaboration on the set by the
+director, the cast, the cinematographer, the weather, happenstance, and any
+crewmember who has a good suggestion at the time. Particularly important
+is the camera operator: The speed and timing of a camera move and the
+transfer of attention from one actor to another are ultimately his
+responsibilities. These subtleties cannot be anticipated in a storyboard and
+must be worked out on the set during rehearsal. The communication
+between the cinematographer and the director must be very precise if the
+director is to get what he or she wants.
+Loosening Up Your Staging Style
+While the director is helping the actors to shape their performances and
+interpret the script, he is evaluating the visual and technical consequences
+of whatever staging improvisation takes place on the set. The restrictions
+placed by the camera on an actor’s movement are usually a distraction to
+him or her, and complex staging only increases the problem. On the one
+hand, the director wants to make the actor’s job easier, but he also has a
+visual plan that must be accommodated. There is no magic solution to this
+opposition of goals except for the director to have a broad knowledge of the
+creative options. The following suggestions are intended to overcome some
+staging conventions that hold directors back from taking chances.
+Action and Reaction
+First, there are only two types of shots in a conversation: the action and the
+reaction. Filmmakers are frequently over-concerned about the action. The
+truth is, we learn as much from the reaction as we do from the action.
+Knowing this will loosen up your staging because it means the person
+
+speaking need not be the center of attention. One version of this is shown at
+left.
+Figure 12.4: The arrow indicates the path of the background player. He
+passes the camera once before entering the frame on camera right. Our only
+indication of the background player’s location is the movement of the
+foreground player’s head or eyes, which might follow the other man as he
+walks.
+The choreography in Figure 12.4 shows the man in the background circling
+our main subject. As you can see from the two frames, most of the
+background player’s action is offscreen. The camera actually pushes into a
+CU of the foreground ﬁgure so we can see his reaction to a long speech
+made by the background player as he walks out of frame.
+The reaction doesn’t have to be a CU of the man’s face. It could also be a
+CU of his hands as he nervously ﬁngers his car keys or a shot of his foot
+tapping impatiently, or any other visual or physical index to the person’s
+feelings. If the person who is reacting is looking into a ﬁreplace, we might
+see the ﬂames for an extended period or just a shot of ashes. Sharing his
+point of view can help shape our understanding of his reaction.
+Moving the Center of Interest
+
+The camera following a subject who is the center of interest can move
+around other players so that the subject directs us to the reactions of the
+other players. This can be done in a single shot. The subject who is the
+center of interest need not be emotionally dominant but may have special
+knowledge that is of interest to the other players. From a practical
+standpoint the advantage of this staging is that one player moves while the
+other players are stationary.
+An extreme example of the moving center-of-interest strategy is the Marine
+Corps sergeant drilling new recruits, a scene we have watched in many
+movies. If the camera pans to follow the sergeant in a long continuous shot
+as he moves in and around a small formation of men, the background will
+include the faces of the recruits while featuring the sergeant. Carefully
+executed, this staging technique can provide many opportunities to include
+action and reactions simultaneously in a variety of compositions.
+Indirection
+Not every story point and line of dialogue in a scene needs to be
+emphasized. Film is such a direct medium that holding back its expressive
+power from time to time is a way of emphasizing all the other moments. In
+staging actors and choosing camera setups, this could mean relegating some
+action to the background even if it is central to the narrative.
+Similarly, the notion that an important line of dialogue requires a close-up is
+simply not true. People are often most attentive to the person who speaks
+most softly. What this means for the ﬁlmmaker is that he or she is freed
+from trying to compose every dramatic point full screen. Sometimes the
+smallest gesture is the most telling.
+
+13 Depth of the Frame
+So far, we have concentrated on the placement of the subject in front of the
+camera. First, we looked at a system of patterns and positions to organize
+the staging of actors. Second, we looked at ways of moving the actors so
+that several staging patterns and positions could be combined into a single
+choreographed shot. This approach is organized around the subject in a
+space rather than the space itself. While this gives us considerable control
+over compositional elements within the frame, we will not have explored
+the subject of staging fully until we examine the scene space in which the
+actors move.
+It’s not unusual today to hear about mainstream feature directors who shoot
+dialogue sequences with ﬁve and six setups for just one actor. This is
+clearly a symptom of indecision and a failure to commit to a directorial
+point of view. Admittedly, if shots were judged by pictorial quality alone,
+there are dozens, perhaps hundreds, of interesting compositions that a
+director and cameraman could devise. We can cut the problem down to size
+by organizing the possibilities according to a few basic conceptions of
+space.
+The Dramatic Circle of Action
+No matter what you are shooting, the space before the camera has limits
+within which the action of the scene is conﬁned. As a way of organizing the
+scene space, we will divide this action area into three segments using the
+traditional terms for depth in the graphic arts: the foreground immediately
+in front of the lens, the middleground, and, farthest from the camera, the
+background. In staging action for the camera, these terms have a particular
+meaning. Simply put, the dramatic circle of action for any scene is
+determined by the size and shape of the space that the action covers.
+In the Action/Out of the Action
+At a football stadium, space is clearly deﬁned: The players are conﬁned to
+the ﬁeld and the fans to the seats. Assuming that the game is the center of
+attention, there are only two ways of looking at the action: from the outside
+
+looking in as a spectator, or from the inside looking out at the action
+surrounding you as a player on the ﬁeld.
+“In” or “out” of the action are the two basic ways that the camera can
+record action and space. The variable here is the “shape” of the action. A
+parade, for example, may appear in a long line as it approaches the camera,
+stretching into the distance through foreground, middleground, and
+background, or, it can cross our path horizontally, like a curtain drawn
+across our ﬁeld of vision. If we are in the playground of an elementary
+school, a game of tag can be far more shapeless than a parade or a football
+game, with kids running every which way, disappearing around the corners
+of the school or behind us.
+Typically, being in the action is more intimate in dialogue sequences and
+more chaotic in action sequences. POV sequences of the type that
+Hitchcock devised often place the cameras in the action. This option also
+increases the likelihood that multiple angles will be needed because being
+in the action means you have to turn a full rotation to see everything
+happening within the dramatic circle of action. Stating from outside the
+action, the camera can cover everything in a single wide shot.
+Staging in Depth
+For our ﬁrst example illustrating the circle of dramatic action, we will
+concentrate on camera placement rather than blocking. Here’s the scene: A
+man walks from a payphone to his car. A proﬁle illustration shows us the
+location in Figure 13.1.
+Figure 13.1: Ext. phone booth — suburban neighborhood.
+Let’s ﬁrst assume that we won’t be able to cut multiple views together and
+that the action will be photographed in a single shot. The aerial view in
+
+Figure 13.2 illustrates camera positions in and out of the circle of dramatic
+action. The shape of the circle is determined by the space covered by the
+actor walking to his car. If he were to make a side trip off the ﬂagstone walk
+for any reason, the circle of action would include this additional space.
+Figure 13.2: The circle is drawn closely around the general space that the
+actor covers in his movement.
+Camera positions A, B, and C are all in the action. In order for any one
+camera to cover the actor’s entire movement from the payphone to the car,
+the camera would have to pan until aimed out of the circle. Also, the man’s
+prominence increases or decreases depending on whether he is walking
+towards or away from the camera. In a sense, the action has a beginning,
+middle, and end, like a self-contained drama. Being in the action also
+affects point of view: Positions A, B, and C accentuate our identiﬁcation
+with the salesman, while positions D, E, and F produce shots that tend
+toward distanced and more neutral observation.
+Camera positions outside the action can cover the actor’s entire movement
+with little or no panning if a sufﬁciently wide-angle lens is used. A camera
+outside the action maintains a stationary, narrow view of the man’s entire
+movement, while a camera inside the action might pan as much as 180
+
+degrees to photograph the same action. Also, when photographed from
+outside the action the actor remains about the same size throughout the shot.
+If photographed by a camera inside the action, his or her size in the frame
+would vary considerably.
+When there is more than one player in a scene, the circle of dramatic action
+is determined by the placement of the players. If the actors remain in the A,
+I, or L pattern without movement, the circle of dramatic action is drawn
+tightly around the pattern.
+The Purpose of the Dramatic Circle of Action
+Like the A, I, and L patterns, the circle of action is a way of looking at
+staging situations to discover familiar arrangements of camera and subject.
+The immediate beneﬁt of analyzing action this way is that a ﬁlmmaker may
+discover new ways of setting up a scene. It is particularly useful when it
+helps a director to gain an overview of a complex staging.
+To help familiarize yourself with the circle of action, learn to watch
+television and movie sequences in terms of space rather than shots. This
+means visualizing the geography of the location and the placement of the
+camera within that space. One good exercise is to keep track of where the
+camera is stationed for any scene staged in an interior location. Pay
+particular attention to how each new scene is introduced in the opening
+shots. You will soon begin to recognize basic strategies for establishing
+scene space and learn how each approach affects the narrative.
+For instance, cinematographer Gordon Willis often placed the camera deep
+in the circle of action and permitted the players to ﬂow around the camera
+as though it were an intimate witness. This results in framings and
+compositions in which a player passes within inches of the lens,
+momentarily obscuring the background. Using the opposite approach,
+director Jim Jarmusch prefers to keep his distance from the action, often
+using deadpan graphic framings that are like comic strip panels. Jarmusch
+often likes to stay outside the circle of action for entire scenes. Looking at
+the work of a random selection of ﬁlmmakers, such as Bernardo Bertolucci,
+Otto Preminger, David Lynch, Spike Lee, and Francois Truffaut, will
+provide examples of the various ways that space can be presented.
+
+Interior Depth
+Looking at the way a wide selection of directors set up a scene in a room
+will conﬁrm that there are only three places to put the camera: the
+foreground, the middleground, or the background. Shown in Figure 13.3 is
+an aerial view of a room with one camera placed adjacent to the door, a
+second in the center of the room, and a third at the wall farthest from the
+door. If a player enters the room and takes a seat at the table, the choice of
+camera position determines whether or not the player approaches the
+camera (B or C) or walks away from the camera (A). Because the room is
+relatively small, all three positions are in the circle of action.
+Figure 13.3
+
+Once we have established the location with one of the three basic camera
+positions, the staging of actors is the next decision. Figure 13.4 includes
+three diagrams of rooms, each showing one of the three basic uses of the
+circle of action. It doesn’t matter which of the staging patterns (A, I, or L)
+we’re using. What we are interested in is whether or not the camera is in or
+out of the action. For instance, we could have a tightly staged A pattern
+with actors standing close together, or an A pattern in which they are spread
+out across a room. For any given pattern, the camera can be inside or
+outside the action.
+Figure 13.4
+A. Placing the camera outside the action
+and locating a cluster of actors in some
+part of a room is the most common
+staging technique. Cutting is usually
+required for differentiation, since all the
+players are approximately the same
+distance from the camera and are
+therefore seen in similar shot sizes.
+B. Deep staging of this type is typical of
+Orson Welles and William Wyler. It
+permits the use of a single setup so that
+cutting, if used at all, is kept to a
+minimum.
+C. This is an exaggerated version of a
+
+type of staging in which the camera is at
+the center of the circle of action. It is
+virtually the antithesis of frontality. The
+camera can point anywhere from this
+central location, but the deployment of
+the actors on the perimeter of the room
+forces cutting, since no single
+composition can include more than two
+players.
+Staging in Depth
+Using extensive depth in the staging of shots serves two purposes: One, it
+can eliminate cutting by allowing the ﬁlmmaker to compose subjects within
+a single shot, and two, it enables the director to selectively emphasize
+dramatic elements. Graphically, staging in depth depends on the use of
+scale. This creates oppositions within the frame that can be substituted for
+the differentiation between players that is normally established by editing.
+We saw this in several of the patterns and positions illustrated in earlier
+chapters. Though it might seem axiomatic that near players are stronger in
+the frame than far players, attention can be shifted to the far player by the
+use of lighting, depth of ﬁeld, and narrative context. Mobile staging can
+further extend the range of emphasis so that near and far players can
+exchange positions or meet in the middleground on equal terms.
+This is the fundamental staging difference between Jean Renoir and Orson
+Welles’s use of deep space. In The Rules of the Game, Renoir moved his
+actors from the foreground to the background in a single setup using them
+
+to lead the attention of the viewer from one location to the next in order to
+introduce the next stage of the story. Welles, on the other hand, was inclined
+to separate his players in foreground and background spaces. This was
+frequently done in Citizen Kane to isolate Kane emotionally from those
+around him. Near the end of the ﬁlm, Kane and Susan Alexander are staged
+in depth at opposite ends of a huge room, each imprisoned spatially by the
+camera. Welles’s space is used for separating his characters; Renoir uses
+space so that his characters will intersect.
+Another more conceptual use of the depth of the frame is the linking of
+ideas through space. For instance, a clock in the extreme foreground of a
+shot may remind us that the old man in the background hasn’t long to live.
+There is no reason to limit the frame to only two levels of meaning, and the
+depth of the frame can be divided into as many distinct areas as can be
+clearly deﬁned by the ﬁlmmaker.
+Deep-Focus Cinematography
+In-depth staging is often confused with deep-focus cinematography. Though
+they are frequently used together, the connection is not automatic. There are
+times when staging in depth permits the foreground or background to be
+slightly out of focus for pictorial reasons, or attention may be shifted by
+moving the area of focus from a far to a near subject. The type of deep
+focus associated with Orson Welles, William Wyler, and cinematographer
+Gregg Tolland used short focal-length lenses stopped down to small
+apertures to keep foreground and background in focus. When this appeared
+as a staging style in the ’40s, deep-focus photography was at the cutting
+edge of technology. Today, faster ﬁlms (and the resulting smaller apertures
+and increased depth of ﬁeld) have extended the range of the area in focus,
+making deep-focus work considerably easier. But since there are still
+limitations to the available depth of ﬁeld in any lens, special techniques for
+deep-focus photography have been developed.
+Special Effects to Achieve Depth
+There are several alternatives to wide-angle lenses for deep-focus
+photography. In Citizen Kane, some of the most striking deep-focus
+compositions were accomplished with in-camera effects that could not be
+achieved at that time with just a wide-angle lens. These were accomplished
+
+by exposing the ﬁlm twice with the camera locked down. For instance, on
+the ﬁrst exposure, one side of the frame was masked while the unmasked
+side was focused on a foreground element very close to the camera. For the
+next exposure, the ﬁlm was rewound to the same starting point and the
+opposite side of the frame was covered so that the foreground side would be
+unaffected by the second exposure. During the second camera pass, the lens
+was refocused at a background element and recorded on the previously
+masked side of the frame. In this way, two areas of focus were combined
+onto one strip of ﬁlm, permitting extreme deep-focus effects.
+In the end shot of Hitchcock’s Spellbound, we share the POV of a man
+about to commit suicide. We see his hand in the extreme foreground as he
+turns the gun towards the camera (himself) and ﬁres. This type of dynamic
+framing was standard practice in the adventure comics of the time, but
+Hitchcock found he was unable to hold focus on the foreground gun and the
+background at the same time. Hitchcock’s solution was to have the prop
+department build an oversized gun and hand. The prop could be placed
+farther from the lens within the depth of ﬁeld and still ﬁll the frame as
+though it were in the extreme foreground.
+Split-Field Lenses
+One of the simplest solutions to the problem of ﬁlming extreme foreground
+and background space is to use a split-ﬁeld diopter lens. A full (or unsplit)
+diopter lens is simply a lens that is attached to the main optic already on the
+camera to permit close-up photography. Technically, a diopter is a unit of
+measurement for the negative focal length of a diverging lens, but over the
+years, it has come to mean a close-up lens attachment. Diopter lenses are
+attached to the end of the main lens like a ﬁlter. Since a diopter permits a
+lens to focus closer to the subject, a split-diopter does the same thing, but
+only affects one side of the lens. The uncovered side retains the normal
+focal length, while the covered side has a shortened focal length. Therefore,
+the lens can be focused on far objects and near subjects simultaneously. The
+effect isn’t perfect though. Since the diopter covers only part of the lens, a
+slight blurring is visible along the line where the effect begins. This line
+must be concealed through artful composition of all the elements in the
+shot. Furthermore, split-diopters can only be used with the camera locked
+
+off with foreground and background elements restricted to one half of the
+frame, so that no person or object moves across the line.
+Figure 13.5
+In frame 1, the man’s head is beyond the depth of ﬁeld. By using the split
+diopter in frame 2 the foreground and background are in focus. Diopter
+lenses can be rotated and positioned so that the split line (frame 3) can be
+located at the most advantageous place in the shot.
+Frames 1 and 2 of Figure 13.5 show the effect of a split-ﬁeld lens on a
+conventional OTS framing. In this case, a 40 mm lens set at f/8 fails to hold
+
+both subjects in focus in frame 1. As you can see, the man is out of focus.
+Using the split-diopter, the back of the man’s head is sharply deﬁned even
+though he is only approximately 14–18 inches in front of the lens. The
+location of the split line is shown in frame 3. You can detect a small degree
+of blurring along this line in the photo.
+Compressed Depth
+Where Welles and Renoir utilized deep-focus photography, ﬁlmmakers such
+as Robert Altman and Akira Kurosawa turned to documentary ﬁlms for
+inspiration, appropriating telephoto lens documentary techniques. For
+Kurosawa the shallow-focus effect characteristic of telephoto lenses was
+added to his already personal and wide-ranging style, which was rooted
+fundamentally in Hollywood technique. Altman, however, developed a style
+that relied far more on long lenses, creating a muted and dreamy mise-enscène in which his characters are seen in overlapping images and sounds.
+He did this by using telephoto lenses in the familiar documentary fashion to
+move in close, but also in a new way by shooting his wide and medium
+shots in the widescreen format, thereby compressing his master shots.
+The Staging Patterns and Telephoto Lenses
+By eliminating depth in the frame, telephoto lenses emphasize the width of
+the scene space. Differentiation between staging patterns becomes more
+difﬁcult unless the separation of players is lateral. This is particularly true
+when subjects overlap in the frame. Mobile staging is equally problematic
+with telephoto lenses since only lateral movement effectively emphasizes
+key moments in a scene. Subjects repositioning themselves in depth will
+appear to move without arriving at a new space. For the same reason
+camera movement in depth will appear to be negligible.
+Conversely, lateral camera movement with a telephoto lens will exaggerate
+planes of depth. For instance, a lateral tracking move will create powerful
+graphic tensions between two subjects standing a few feet apart. The
+background, brought up close by the characteristic long lens spatial
+compression, will be emphasized moving across the frame like a huge
+cyclorama.
+
+14 Camera Angles
+In narrative ﬁlm, there are many reasons for varying the viewing angle: You
+might change the angle in order to follow the subject, reveal or withhold
+story information, change point of view, provide graphic variety, establish a
+location, or develop mood. Of all these, following the subject is primary.
+This approach tends to overlook the importance of the space in which the
+action takes place, when in fact it supplies the context that deﬁnes the
+subject.
+In part, this division of the subject and space is a holdover from the studio
+system of the ’30s and ’40s. In order to cut down on expensive location
+shooting, dialogue scenes were photographed in studio sets and later
+integrated with stock location footage, creating the illusion of a spatially
+continuous world. The unconvincing process shots with cars driving in front
+of projected backgrounds never fooled anyone, but the story and the stars
+were held to be the only really important elements anyway. The audience
+paid to see the stars, and if the stars pleased them, the unconvincing effects
+were overlooked. By establishing a scene space in a wide shot and moving
+to medium shots to photograph the subject, the studios were able to
+frequently save money by sacriﬁcing the full expression of the
+spatial/dramatic context of a scene.
+Today, the separation of subject and environment continues, and though
+location shooting has replaced the studio, many directors still consider
+photography of the actors to be the main storytelling imagery, with the
+location the equivalent of stage scenery, appropriate only for establishing
+shots.
+The truth is that the subject is never separate from the location in either the
+narrative or the pictorial sense. The subject of a shot is often the subject and
+the location taken together, each informing the other and creatively
+inseparable. Together they can contribute to the mood and atmosphere,
+shape psychological and dramatic elements, and interact to produce new
+
+meaning in any shot. The spatial relationship of subject and environment is
+largely determined by the camera angle.
+By themselves, camera angles have no meaning. The (by now) reductive
+analysis that claims that low-angle views of a subject place the subject in a
+dominant position while high-angle views place the subject in a diminutive
+position is only valid in certain situations. The value of a shot really
+depends on the narrative.
+For example, in Citizen Kane, low-angle shots are used throughout the
+entire movie, but their signiﬁcance depends on the context. In the early
+scenes of Kane as a young man, when he seems to be a brash crusader, we
+may have ambivalent feelings about his use of power, but we probably envy
+the way he is able to snub the powerful forces of the status quo as
+represented by his stodgy guardian Thatcher. In most of these scenes, the
+ceilings are low, and Welles, who actually was tall, seems to dominate his
+surroundings. By the end of the ﬁlm, Kane, an old man who has lost much
+of his inﬂuence, is still photographed from low angles, but now the huge
+spaces of the rooms and halls of Xanadu dominate him and he seems small
+by comparison. The narrative undercuts the conventional understanding of
+low-angle perspectives.
+Viewer Placement
+In ﬁlm, the viewer identiﬁes with the camera. When the camera moves
+either in a tracking shot or through cutting, the viewer experiences the
+sensation of movement as well and frequently ﬁnds the images onscreen
+more real than the space in the movie theater. Psychologists call this illusion
+transference. Though it’s not often acknowledged, one reason for varying
+the viewing angle is for the physical excitement of transference, a viewing
+experience common in ﬁlm. Viewer placement doesn’t necessarily require
+elaborate camera moves and wide vistas to produce an effect; a sequence in
+a cramped diner can be as evocative as one set in a vast forest if the camera
+angles are chosen judiciously. Since transference implicates the viewer in
+any camera movement or change of angles in an edited sequence, the
+viewer becomes part of the choreography. Complex sequences may very
+well provide an experience as rhythmically and spatially inventive as a
+
+dance, dependent largely on the arrangement of camera angles and
+perspective.
+Figure 14.1
+Linear Perspective
+
+Whether we’re looking at a room, a building, or a densely wooded forest,
+certain viewpoints will emphasize depth and volume more than others will.
+The ﬁve cubes in Figure 14.1 illustrate how linear perspective is used to
+create the illusion of depth. Cube A is viewed head on. This type of
+rendering is called the orthographic view, and does not attempt to show
+perspective. Cube B is turned slightly so that an additional surface is
+exposed. This surface is foreshortened and the top and bottom lines
+converge at the horizon. This is called one-point perspective. Cube C is
+shown in two-point perspective. Cube D is turned so that now there are two
+foreshortened sides. This makes the perception of depth even more
+pronounced. Cube E is drawn in three-point perspective. This picture
+reveals the greatest sense of depth.
+One way to learn how the change in perspective works from shot to shot in
+a sequence is to reduce perspective to simple forms. Once the basic forms
+are understood you will be able to recognize them more easily when you are
+devising sequences.
+Perspective
+Every storyboard artist and production designer has a solid grasp of the
+principles of perspective and uses them frequently to visualize sets and
+camera angles. When composing a storyboard, a knowledge of perspective
+frees the artist to imagine different viewpoints in a real location, or to create
+a location that is entirely imaginary. This type of representation is called
+linear perspective and is just one of many drawing systems, none more
+valid than any other, though it conforms fairly closely to our way of seeing
+the world. Linear perspective has been the predominant way of creating the
+illusion of space in representational drawings since the Renaissance.
+But when a ﬁlmmaker places two shots side by side the interaction between
+the images produces an entirely new type of spatial experience that can best
+be described as sequential perspective. This is how he creates the type of
+cinematic choreography that includes the viewer in the space on the screen,
+a major factor in the design of shot ﬂow.
+
+To better understand the effect of a series of camera angles we can look at
+the subject in traditional terms, as the study of perspective. The cube
+illustrations in Figure 14.1 show the basic forms.
+Now let’s take the various views of the cube and use them as the basis of a
+location in a storyboard. A convenience store can be modeled on the cube,
+with a big sign on a tall post separate from the building. Figure 14.2 shows
+the store in one-, two-, and three-point perspective.
+Now let’s look at four versions of sequential perspective in storyboard
+form. The action is simple: A man drives up to the convenience store to ﬁnd
+a phone. He goes to the door but then sees that there is a phone booth
+alongside the building. He walks to the booth and makes a phone call.
+The purpose of the following examples is to illustrate shot ﬂow as a
+rhythmic variation of angles. In the continuity style, this means establishing
+the volume of a given space by moving through that space. Where there is
+motion, there is acceleration, velocity, and inertia, and continuity editing
+can establish its own physical laws. This type of “shot ballistics” is most
+pronounced in the kind of dynamic views that follow.
+Figure 14.2
+One-point perspective.
+
+Two-point perspective.
+Tree-point perspective.
+
+Eye-Level View
+In this ﬁrst version, I’ve used straight-on eye-level views. Opening frame 1
+uses the ﬂatness of the buildings to reinforce the effect of the road reaching
+into the distance. Eye-level views tend to be stable and can serve as a
+contrast to dynamic compositions. Compare these eye-level views with the
+more angular compositions in the next series.
+
+High-Angle View 1
+Notice that these three shots proceed in a generally smooth movement.
+First, the degree of perspective increases in each frame: Frame 1 has one
+foreshortened plane, frame 2 has two foreshortened planes, and frame 3
+shows all three planes receding so that the depth of the shot increases as we
+go along. Second, the shots become tighter as we move to the phone booth.
+This creates a sense of forward motion. This type of shot ﬂow is
+progressive.
+
+High-Angle View 2
+This next series is nonprogressive. This means that the angular view in one
+frame conﬂicts with the view in the following frame. The degree and
+direction of the conﬂict is varied but is most pronounced between the last
+two frames.
+
+Low-Angle View
+This is another example of conﬂicting frames. The contrast here is slight
+until the last two frames. Compare this will the eye-level views, which keep
+the same general distance from the subject as this series but are far less
+dynamic.
+Space vs. Subject
+One way of looking at camera angles and how they depict the scene space
+is to create the storyboard without the subject and just concentrate on the
+background. This was my approach in the convenience store storyboards. In
+visualizing that sequence, I drew many sketches and cut them out so that
+they could be rearranged easily on my drafting table. Each time the
+drawings were put in a new order, I could imagine a different version of the
+scene. Any change in viewpoint suggested subtle changes in mood, pacing,
+and even the narrative events of the scene.
+
+This is worth remembering when you are devising sequences. In the same
+way that we substituted the spatial concept of the circle of action for the
+subject-oriented patterns for staging, we can frame shots based on the
+location rather than the subject. Ultimately, the subject will become the
+determining factor, but by that time, many new ideas may have been
+discovered.
+Recent Trends in Perspective Rendering
+The way interiors are shot has changed over the last 25 years. Location
+shooting has slowly replaced studio sets not only for economic reasons but
+also because of the strong trend toward realism that studio sets have
+difﬁculty matching. Without the removable walls and ceilings of a studio
+set, wide-angle lenses must be used in the often-cramped quarters of a real
+interior so that full-ﬁgure shots can be framed. Often, ﬁlmmakers choose
+lenses to solve these problems, and pictorial considerations become
+secondary.
+If you ﬁnd yourself in an interior where the perspective of the wide-angle
+shot is determined by the size of the room rather than by design, try using a
+longer lens. Shooting through doorways and windows and past foreground
+objects instead of trying to ﬁnd a clear frame in a room are some of the
+ways of utilizing a longer lens. The wide-angle interior shot is a staple of
+television, and since it reﬂects a budgetary choice rather than an artistic
+decision, new ideas might arise from bucking the cliché.
+We can now look at a narrative situation that permits a wide combination of
+angles and lenses: the action sequence.
+Narrative Problem (Camera Angles in Action)
+The following action sequence features a backlot baseball game. The
+treatment is humorous and somewhat stylized, which for our purposes
+encourages the use of vigorous camera angles.
+The storyboard begins on a blustery late afternoon with broken clouds and a
+bright sun. A batter is at the plate. The count is 3 balls and 2 strikes. The
+sunlight shines into the batter’s eyes, and he has difﬁculty seeing.
+Fortunately, a few patchy clouds move in, blocking the sun momentarily
+
+and giving the batter a break, but the pitcher stalls by adjusting the laces on
+his sneaker until the sun reemerges.
+ 1. The count is 3 balls and 2 strikes.
+ 2. The sun makes the batter squint as he checks to see where the
+outﬁelders are standing.
+
+ 3. Batter’s POV of the bright sun.
+ 4. The pitcher starts his windup …
+
+ 5. The pitcher is ready to throw when the ﬁeld darkens.
+ 6. Clouds block the sun.
+
+ 7. Not wanting to give the batter a break, the pitcher stalls by adjusting
+laces on his sneaker.
+ 8. The pitcher stands when the sun returns. The team at bat jeers as the
+pitcher winds up and—
+
+ 9. We go to slow motion for the pitch.
+10. We stay in slow motion as the ball is released.
+
+11. Camera points straight up as ball passes sun in slow motion and clouds
+move in to block light.
+12. Shadows fade in slow motion.
+
+13. Batter smiles because of this lucky break. He sets himself for the
+swing.
+14. Crack! We return to normal camera speed as the batter connects with
+the ball.
+
+15. It’s a perfect hit.
+16. A kid seated on the hill jumps up to watch the ball climb into the sky.
+“Damn!”
+
+17. Camera pans through panels A, B, and C.
+18. Continue pan shot following the ball.
+
+19. Pan ends as ball nears telephone pole.
+20. Ball bounces off the pole …
+
+21. And right into the window of a nearby house.
+
+22. Woman in the house jumps as ball smashes the window. The ﬁelder
+comes running up to ﬁnd the ball.
+23. The ball bounces down the roof, rolls down the gutter, and into the
+drainpipe.
+24. The ﬁelder hurdles the front fence.
+
+25. The ﬁelder snags his foot on the fence.
+26. The ﬁelder falls, landing with a thud.
+
+27. The ball shoots out of the drainpipe …
+28. …and rolls right by the ﬁelder.
+
+29. Back at the inﬁeld, the batter heads for third. The ﬁelder appears in the
+background with the ball and throws it in.
+30. The second baseman and centerﬁelder botch the catch.
+
+31. The batter rounds third.
+32. The pitcher screams, “You idiots!” at the inﬁeld.
+
+33. The batter heads for home.
+34. The shortstop scoops up the ball and throws home as the batter runs by
+in the foreground.
+
+35. Extreme down shot. Slow motion. The camera pans with the shadow of
+the running batter. The ball slowly enters the shot. It’s a race of
+shadows.
+36. Slow motion continues. Camera points down the baseline to home as
+the catcher gets ready.
+
+37. Camera pulls back from CU of home plate in slow motion. Batter’s foot
+and catcher’s hand move in slowly towards the plate. Dust covers the
+frame.
+Summary
+As you can see from this brief story, camera angles are strongly dependent
+on narrative as well as other graphic and staging strategies. In this case,
+slow motion and the use of shadows motivated some of the camera angles,
+as well as the use of “graphic staging,” since the ball traveled high above
+the scene while the shadows were on the ground, as if they were actors in
+the scene. Naturally, forcing the camera to follow action that is low and
+high will have a lot to do with the camera angles needed to record a scene.
+Of course, slight variations in camera angle are as important as the more
+extreme angles of view and help to establish a rhythm of movement.
+I should add that this storyboard is a ﬁrst draft based on thumbnail
+drawings, which were used to plan out the basic idea. The ﬁrst 20 rough
+sketches took a little more than an hour to draw in pencil. More than half of
+
+the panels did not change signiﬁcantly from these ﬁrst compositions, while
+the rest of the panels were redrawn. In practice, there might be 2 or 20
+drafts of a storyboard until the ideas are worked out satisfactorily. For
+example, the initial idea was just to have a pitcher come to the plate and hit
+a home run. The business with the sun and the clouds and the slow motion
+developed from the rough sketches. When I went to ink the panels, I
+decided to add the fanciful gutter pipe gag, which would probably not
+survive another draft.
+
+15 Open and Closed Framings
+The terms open and closed compositions are used to describe the types of
+framing techniques and strategies devised to include or exclude the viewer
+from the picture space. Open and closed framings are related to the
+dramatic circle of action and being in or out of the action. Open and closed
+framing basically refers to how tight the framing of the action is. As it turns
+out open framings are typical of being in the action while closed framings
+are usually wider and similar to being outside the action. In ﬁlm, open
+framings are compositions of the type usually found in documentaries,
+where many of the elements in the frame are beyond the ﬁlmmaker’s
+control. In such stagings, several subjects may be partially cut off by the
+edge of the frame or partially obscured by foreground elements. Closed
+framings are compositions with subjects carefully positioned for maximum
+clarity and graphic balance. This way of composing pictures is likely to be
+found when the camera is placed outside the circle of action. Open forms
+seem more realistic, while closed forms seem staged.
+This distinction is not without contradictions. The truth, of course, is that all
+compositions are arranged by the photographer to some degree, whether it
+is obvious to the viewer or not. Television commercials have borrowed the
+pictorial look of documentary ﬁlm, carefully arranging compositions to
+look unarranged. This kind of studied offhandedness trades on the public’s
+general association between documentary-style images and objective
+reporting. Alternately, many documentarians produce highly stylized
+compositions by waiting weeks or months for the exact conditions of
+weather and season to produce an image for heightened effect. In our
+image-saturated culture, it is becoming increasingly difﬁcult to differentiate
+between authentic and misleading open and closed forms since imagemakers of all types are fully aware of their popular meanings, often using
+them to deceive the viewer.
+It’s probably best to think of open and closed framing as general
+descriptions, remembering that techniques derive their signiﬁcance from the
+contexts in which they are placed. For the narrative ﬁlmmaker, the most
+
+interesting aspect of open and closed framings is the way in which they are
+used to offer the viewer varying degrees of involvement and intimacy with
+the subjects on the screen. How the ﬁlmmaker uses this relationship raises
+the issue of aesthetic distance.
+Aesthetic Distance
+Aesthetic distance is a phrase used to describe the degree to which a work
+of art manipulates the viewer. All communications are in some way
+manipulative, but some works allow the viewer greater opportunity for
+reﬂection and participation at the moment of viewing than others. In
+ﬁlmmaking, aesthetic distance is aptly named, because unlike the novelist
+or poet, a ﬁlmmaker actually creates the illusion of physical depth and
+distance in the frame and, ultimately, in the movie theater. The size of a
+shot, from an extreme close-up to a long shot, places the audience in a
+physical relationship with the subject that has psychological and, ultimately,
+moral implications.
+Levels of Intimacy
+In this next section of examples, we’ll look at the ways that framing, choice
+of camera angle, and different lenses affect the degree of involvement the
+viewer has with the scene space and the individuals in the scene.
+Our narrative follows a man and woman in bed. The man has spent the
+night with the woman after having just met her the night before. He knows
+that she regrets inviting him to her apartment, and now, as morning light
+enters the room, they are both reluctant to face the expectations each of
+them has for the other. The ﬁlmmaker would like to bring the viewer into
+the dramatic circle of action so that he can feel the intimacy of the
+relationship. Since the scene is written from the man’s point of view, the
+ﬁlmmaker feels he must maintain this view in the composition of shots.
+Open Framing
+Version One
+The ﬁlmmaker decides to open the scene with a wide shot of the bedroom.
+He shoots three test shots, frames 1, 2, and 3, and places them side by side.
+Because the scene is written from the man’s point of view, he selects a view
+
+shot from the man’s side of the bed. He places the camera at a low angle so
+that the man is easier to see than the woman, thereby encouraging our
+identiﬁcation with the man. The ﬁlmmaker considers his choices and
+realizes that frames 2 and 3 may be too close to the subject. Since he
+expects to move in to CU framings later in the sequence, he would like
+there to be a signiﬁcant change in shot size from the opening shot to the
+anticipated CUs. Therefore, he chooses frame 1 to open the scene.
+Open Framing
+Version Two
+The ﬁlmmaker decides to move in for a shot of the woman, and
+photographs three OTS shots to choose from. In each, the man is clearly
+looking at the woman. Notice how frames 2 and 3 use depth of ﬁeld to
+selectively emphasize one of the subjects. Though it is generally thought
+that the focused player is the one that is emphasized, this is not always the
+case. By choosing just the right framing and action, the unfocused player
+can be made the key subject. The ﬁlmmaker selects frame 1 because he
+wants to move into the scene slowly and feels that frames 2 and 3 are too
+intimate at this stage in the action.
+
+Open Framing
+Version Three
+The ﬁlmmaker compares two new shots, this time from a reverse angle that
+will be used after the previous shot. Having maintained emotional distance
+in the last shot, the ﬁlmmaker decides to move in somewhat closer this
+time. He chooses frame 2. This is done to involve the viewer in a more
+intimate way, and for the graphic contrast that the change in size produces.
+Open Framing
+Version Four
+The ﬁlmmaker reviews the sequence and is bothered by his last choice. He
+likes moving into a closer shot for the reverse, but feels that the clarity of
+the CU of the man in the reverse is too bold. He also feels that he would
+like to see more of the woman. He now realizes that frame 2 is too much of
+a summation of the man’s position — too egocentric. He tests two new
+compositions, frames 3 and 4.
+
+These two frames are extremely open. In both of them, the woman has been
+repositioned so that she is turned away from the man. The shots are nearly
+identical except that frame 4 permits us to see the woman’s face even
+though it is beyond the depth of ﬁeld. Most important, we can see that she is
+awake with her eyes open. Each shot strongly affects the dramatic emphasis
+of the scene. Frame 3 expresses the man’s inability to understand the
+woman. She masks our view of him, and yet she also is withheld from our
+view. In a sense, we are placed in the same position as the man. Frame 4 is
+almost painfully revealing. We now see that the woman is awake but unable
+to face the man. The sense of separation is acute. This is the shot the
+ﬁlmmaker chooses.
+The open framing creates a context in which we share the man’s
+psychological point of view using framing and story elements. If the
+ﬁlmmaker had wanted to allow the viewer to watch the scene from a neutral
+perspective, he might have created the scene using closed framings. This
+distancing is not absolute but, like open-framed strategies, can be created in
+varying degrees. It is rare to ﬁnd a ﬁlm that uses open or closed framings
+exclusively. The ﬁlmmaker decides that he will reconceive the bedroom
+scene using closed framing, permitting the viewer to watch the scene unfold
+with less physical and emotional involvement.
+Closed Framing
+Version One
+The ﬁlmmaker tests three different camera angles for the opening shot,
+frames 1, 2, and 3. Frame 1 is symmetrical, with little dynamic tension to
+
+motivate the next shot. This permits the viewer to access the frame and the
+action without the pull of shot ﬂow. The action is so far away, however, that
+the move to a closer shot is required if more detail is to be seen. The
+ﬁlmmaker may opt to hold this shot throughout the scene and move the
+action towards the camera by having the couple leave the bed rather than
+change viewpoints through cutting. Frame 2 permits a better view of the
+couple and limits the degree of intimacy the viewer feels by placing the
+couple in a viewpoint that is not on the human scale. In this case, we are not
+only outside the circle of dramatic action, we are high above it. Finally,
+frame 3 is the least closed shot, but it still maintains a neutral and distanced
+stance. Notice that the angularity tends to make the shot less closed.
+The ﬁlmmaker likes frame 1 and considers staging the scene so that the
+players must sit up in bed to play out the action. Before doing this, he tries
+one other series of shots.
+Closed Framing
+Version Two
+The three frames in this last closed composition series are a sequence, not
+individual versions of a master shot. The ﬁlmmaker decides that if he is not
+going to use CUs or medium shots of the couple he can maintain emotional
+distance while cutting from the appropriate side of the bed when we hear
+the thoughts of the man or the woman. This entire approach is highly
+stylized and avoids the psychological identiﬁcation with character that is
+fundamental to the continuity style. Neither approach insures balanced
+treatment of the subject, though open-framing devices and other distancing
+strategies have been lauded by radical ﬁlmmakers as less manipulative.
+Ultimately, the viewer is manipulated no matter what technique is
+
+employed, and a ﬁlm can have no more integrity than the intentions and
+perspicacity of the ﬁlmmaker permit, regardless of technique.
+Framing Devices
+As we have just seen, open framings utilize foreground elements to enclose
+a subject for emphasis or as a way of placing a subject within a new context
+or including the viewer in the scene space. Framing devices are also used
+for purely compositional reasons to increase the sense of depth in the frame.
+Several framing devices are shown on the next page.
+In Figure 15.1, doorways become frames within the frame, distancing us
+from the action. We are placed in the position of eavesdropping on a
+conversation.
+Figure 15.1
+Different levels of action can be isolated, as in the next shot in Figure 15.2.
+In this case, architecture is used to frame the action.
+
+Figure 15.2
+In Figure 15.3 (page 273), telephoto lenses, because they compress action
+in depth, crowd many foreground elements (that may actually be very far
+away) in front of the camera. This use of framing devices tends to withhold
+information by revealing only portions of the principal subject. This is the
+opposite of a window or doorway frame, which directs our attention more
+emphatically to the subject within the square.
+
+Figure 15.3
+Mirrors have always fascinated ﬁlmmakers and can become a way of
+combining the “shot, reverse shot” cutting pattern in a single shot. A shot of
+this type is shown in Figure 15.4.
+
+Figure 15.4
+We now can move on to point of view, the subject of the next chapter,
+which is intimately connected to the type of framing devices we have just
+looked at.
+
+16 Point Of View
+In the last chapter on open and closed framings, we considered the ways in
+which graphic and editorial techniques determine the level of involvement
+the viewer has with the characters on the screen. Point of view, on the other
+hand, determines with whom the viewer identiﬁes. The two concepts are
+closely related and nearly always work together in any sequence.
+Each shot in a ﬁlm expresses a point of view, and in narrative ﬁlm the point
+of view changes often, sometimes with each new shot. For the most part,
+point of view — what is often called narrative stance — is largely invisible
+to the audience, though the accumulated effect of the changes profoundly
+affects the way the audience interprets any scene. Apart from the familiar
+subjective techniques of the kind used by Alfred Hitchcock, the ways in
+which camera placement, editing, and composition shape the narrative
+stance of any scene generally is overlooked. This probably accounts for the
+fact that point of view, which may be the most important aspect of a
+director’s contribution, is handled indifferently in so many ﬁlms.
+Frequently, narrative stance is the accidental result of technical or pictorial
+concerns, or worse, relentless manipulation.
+To better understand how the ﬁlmmaker can use the camera to determine
+point of view, let’s begin by looking at the three types of narration used in
+ﬁlms, borrowing the terminology used to denote point of view in literature.
+First-Person Point of View
+First-person narratives are exempliﬁed by the subjective techniques of
+Hitchcock in which we see events through the eyes of a character — the “I”
+of the story. Extensive use of the subjective viewpoint has always been
+awkward in narrative ﬁlm, largely because we are only given the visual
+point of view of a character and are deprived of seeing his or her reactions
+through facial or other gestures.
+Third-Person Restricted Point of View
+
+Third-person restricted, which presents the action as seen by an ideal
+observer, is the style of narrative most common in Hollywood movies, but
+rarely is it used as the sole viewpoint. Most of the time it is combined with
+limited use of omniscient and subjective passages.
+Omniscient Point of View
+For ﬁlm to present the omniscient point of view we have to know what the
+characters are thinking. This requires some type of narration, voiceover, or
+graphics. Overt narration is thought by many to be uncinematic and is rarely
+used. Actually, narration has been explored only tentatively, and so far, no
+mainstream narrative director has evolved a style that combines words and
+images in a particularly inventive way. The ﬁeld is open for new ideas.
+Levels of Identiﬁcation
+In a novel or short story, there is no question whose point of view we are
+reading at any moment. In ﬁlm, the point of view can be less deﬁnite, and in
+some instances, a shot can convey a narrative stance somewhere between a
+third-person and a fully subjective shot.
+In editing, the most powerful cueing device is the sight line of an actor in
+CU. Figure 16.1 illustrates a typical setup for a POV shot: the cut on the
+look. Below this ﬁrst shot are three possible reverse CUs.
+In frame 1, a man looks at a woman seated next to him in a car. In frame 2,
+we cut to his POV, a CU of the woman looking back at him. Since it is a
+subjective camera shot, she looks directly into the camera. Used in this way
+the CU is clearly seen from the man’s POV. Compare this with the CU in
+frame 3, shot at about 45 degrees from the woman’s sightline. This is
+clearly a third-person restricted view. The shot does not elicit our
+identiﬁcation with either the man or the woman. But what happens if we
+move the camera a few degrees outside of the woman’s sight line as shown
+in frame 4? In this case, we are placed in a closer relationship to the man,
+provided the narrative sets up the CU as the man’s look. In a sense, this is a
+modiﬁed subjective shot.
+This is a valuable concept: There are degrees of subjectivity, or to put it
+more accurately, degrees of identiﬁcation for any shot. For this reason, OTS
+shots and two-shots can favor the point of view of one of the players in a
+
+scene, depending on the line of sight of the actors and the narrative context.
+Generally speaking, the closer the line of sight of a player in CU is to the
+camera, the greater the degree of viewer identiﬁcation.
+Figure 16.1
+Viewer Involvement and Identiﬁcation
+There are two ways to determine viewer identiﬁcation: by graphic control
+or by narrative control. Graphic control elicits our identiﬁcation with a
+player using composition and staging. The modiﬁed subjective shot we
+considered on the previous page is an example of graphic control
+determined by how a player is composed in the frame.
+Narrative control directs our identiﬁcation using several strategies, but these
+are largely dependent on editing. For instance, in a detective story, the plot
+usually follows the private eye. Scenes begin when the private eye arrives at
+a location and end when he exits a scene. Even when this kind of story is
+covered in third-person restricted camera setups in closed framings, the
+narrative context implies that we are learning of events from the private
+eye’s point of view.
+Shaping Point of View
+There are no hard and fast rules for the graphic and narrative control of
+point of view. Both factors are dependent on one another for their full
+
+meaning. One of the most important skills a ﬁlmmaker develops with
+experience is a greater awareness, largely intuitive, of the predominant
+point of view in any shot and sequence.
+In the following examples, we join the ﬁlmmaker as he returns to the scene
+of the man and woman in bed from the previous chapter. This ﬁrst series of
+photoboards stages a subjective sequence using the cut on the look to set up
+shots. However, the basic principles shown here are also applicable to
+dramatic situations that are not purely subjective.
+Point of View (Version One)
+The ﬁlmmaker begins frame 1 by fading up from black as a subjective
+equivalent to the man opening his eyes as he awakens in the morning.
+Frame 1a is the CU shot of the woman from the man’s POV after the fade
+up is completed. Frame 2 is a reverse CU shot of the man partly obscured
+by the bed covers. This is a reversal of the usual editing pattern of the cut
+on the look. In this version, the POV shot comes ﬁrst and the “look”
+second.
+The ﬁlmmaker decides to revise the sequence with a new opening shot of
+the woman in frame 3. This time we see only the back of her head and her
+ﬁngers in her hair. She turns towards the camera in frame 3, completing the
+movement in frame 3a. Frame 4 serves as the cut to the look, though we do
+not see the man’s eyes in this tight OTS shot. Compare this frame with
+frame 2 in the previous series. Both frames serve the purpose of identifying
+the CU of the woman as a POV shot.
+
+Point of View (Version Two)
+The ﬁlmmaker decides to open the scene in a traditional POV editing
+pattern beginning with the ECU of the eye. This is followed by the
+obligatory reverse to the POV shot and an OTS two-shot. Now go back and
+look at the previous version. These might be the choices offered to you by
+an editor in a rough cut based on these few shots. If the footage was
+photographed with a stationary camera, you could easily change the order
+of the shots. If, however, the shots involved zoom movement or camera
+movement, your options would be reduced, assuming you followed
+traditional continuity practice.
+Point of View (Version Three)
+This time the ﬁlmmaker will devise an aural/subjective sequence. The
+viewer will see and hear things from the man’s point of view. This extended
+sequence begins below and continues on the following page. Frame 1 opens
+in darkness. Sounds of soft breathing are heard, and the picture fades up
+slowly to frames 2–4, which are CUs of the bed covers moving with the
+woman’s steady breathing. In frame 5, we see a CU of the man, very nearly
+a CU of his ear. This is the aural equivalent to a cut on the look beginning
+with a shot of the eyes. We cut to frame 6, a CU of the woman’s face with
+
+her breathing emphasized on the soundtrack. In frame 7 we return to the
+man, who is awake and watching the woman. Frame 8 is a visual subjective
+shot of the woman’s shoulder from the man’s POV as she turns away from
+him. In frame 9 we return to an ECU of the man’s eye watching the woman.
+In frame 10, the ﬁlmmaker abruptly changes to the woman’s point of view.
+We stay with this shot for several seconds until the woman moves out of
+frame as she sits up.
+In frame 11, the woman sits on the edge of the bed and then turns to the
+man in frame 12. The ﬁlmmaker cuts on the look to an OTS shot. Because
+frame 13 is so tight over the woman’s shoulder and is clearly lined up along
+her line of sight, we share her general viewpoint and identify with her. The
+ﬁlmmaker doesn’t take the scene any further than this moment but makes
+one last change to limit the number of shots by replacing shots 12 and 13
+with a single reverse two-shot in frame 14. In this case, the framing
+includes the woman’s look and the object of her look in a single shot.
+Interestingly, while the action is seen from the position of a third person, the
+staging encourages us to identify with her. On a visual level, the subject of
+the shot is the woman looking at the man. This, however, is merely a way of
+provoking our interest in knowing her reaction to what she sees. The
+secondary subject of the shot is the woman’s thoughts since her reaction is
+not externalized in dialogue or other behavior. By asking the viewer to
+consider the woman’s feelings, this setup shares many of the qualities of a
+subjective shot.
+
+Narrative Control of Point of View
+In this next situation, a woman looks for her husband on the beach and ﬁnds
+him sitting alone by the shore. Our purpose here is to discover ways of
+achieving viewer’s identiﬁcation with one of the characters in a scene.
+Narrative Control (Version One)
+This ﬁrst sequence uses the classic subjective setup: In frame 1, a woman
+looks at something offscreen; in frame 2, we see the object of her attention.
+In frame 3, the geographical relationship is established in a two-shot. In this
+sequence, we identify with the woman for two reasons: First, she is the
+person who escorts us, the viewers, into the scene. Second, in frame 3 the
+two-shot favors her line of sight. This is undercut slightly because we are
+outside the circle of dramatic action, tending toward the view of a neutral
+observer.
+Compare this with the next series, frames 4–6, which ends with a new shot
+at the end. In this case, we have remained within the woman’s line of sight
+in the ﬁnal shot, but from a reverse angle. These two graphic strategies
+develop our identiﬁcation with the woman differently. Interestingly, being
+closer to the man in frame 6 does not signiﬁcantly diminish our
+identiﬁcation with the woman. This is because the narrative context of the
+sequence, beginning with the woman, shapes the way we read the following
+shots.
+
+Narrative Control (Version Two)
+In this next series we can see what happens if we begin the previous
+sequence with the man. The question is whether or not this establishes our
+identiﬁcation with him instead of the woman. The answer, I think, is that
+the point of view is divided between the woman and the man, depending on
+the editing. To test this point, look at this sequence as you might expect it to
+appear onscreen. First, time the shots as you read them so that the shots of
+the man are longer than the shots of the woman. Now read the scene and
+make the woman’s shots (frames 2–3) longer. Identiﬁcation usually will
+side with the subject given the most screen time. Also, the woman is clearly
+looking at the man, while the man’s attention is not focused on any activity
+that we can easily share.
+Part of the strategy that sets this up is the right-angle shot of the man, which
+is in contrast to the woman’s line of sight. This introduces another factor
+related to the eyeline in determining point of view. Any aspect of a shot that
+suggests thought on the part of a subject sets up conditions that are
+favorable to identiﬁcation. Shots of the eyes, and CUs in general, fall into
+this category. This is why the over-the-hip shot of the woman in frame 3
+does not greatly enhance the cut on the look in frame 2. If an OTS shot
+
+showing the woman’s head were substituted, our identiﬁcation with her
+might be stronger.
+Narrative Control (Version Three)
+In this ﬁnal series, we combine the strategies of versions one and two to see
+how subtly identiﬁcation can be controlled. In frame 1, we begin with the
+man and cut directly to the woman looking at him. If we stop right here, our
+identiﬁcation is with the woman. The cut to the woman’s point of view
+clinches our identiﬁcation with her, as does the ﬁnal frame along her sight
+line. But now look over the shots again: As you can see, the man has the
+strongest CU graphically and is in three shots, while the woman is in only
+two.
+
+It’s clear that the type of shot and the cooperation between shots is more
+important in developing a consistent point of view than the number of shots
+given to a particular character. Finally, it is important that the subject we
+identify with be seen consistently. In this last series, two shots of the
+woman from the same angle build identiﬁcation more strongly than the
+three shots of the man, each from a different angle.

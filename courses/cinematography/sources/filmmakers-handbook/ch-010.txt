@@ -1,0 +1,59 @@
+1. By the “amount of light” we mean exposure, which is determined by the amount of light in the scene, the setting of the lens iris, the filters being used, and the setting of the electronic shutter.
+
+2. A Kodak test of 5245 color negative film once measured seventeen stops of latitude.
+
+3. The default zebra level on many cameras may be closer to 70 percent.
+
+4. How highlights get clipped varies by camera and by gamma and knee settings; see below.
+
+5. One key aspect of the display device is its contrast ratio; see p. 222.
+
+6. Due to the complexity of developing color negative and print film, their respective gammas are fixed. With black-and-white motion picture film it was a different story, and throughout the black-and-white era, gamma was used as a creative tool to be adjusted during developing, often scene by scene, at the behest of the cinematographer.
+
+7. Typically a CRT would have a 2.2 gamma value and a camera would have a gamma correction value of 1/2.2, or 0.45. In the real world, however, CRT gamma values varied from 2.2 to 2.6. Higher gamma values would give CRT images a slightly more contrasty appearance, which was often considered appealing.
+
+8. Technically speaking, the higher exposure values have been remapped along the “knee slope” to fit into the video signal’s fixed 0–100 percent or 0–109 percent dynamic range. This is done in the camera’s digital signal processing section.
+
+9. CinemaTone 1, for example, emulates the look of color negative transferred on a telecine to video, with characteristic open shadow detail. CinemaTone 2 emulates the look of film print transferred to video, with darker midtones and plugged-up shadow detail.
+
+10. Why avoid use of a knee point in capturing highlight detail? Adding a knee point can affect the red, green, and blue signals differently, with a resulting color shift in highlights captured along the knee slope. Advanced cine gammas like HyperGamma are designed to handle R, G, and B signals equally, with no color shift. Sony’s CinemaTone is an example of a cine gamma that does use a knee point to extend dynamic range, sometimes at the cost of false color in the highlights. When this occurs, one way to correct for it is to desaturate the highlights.
+
+11. This is why an 18 percent gray card looks halfway between black and white. If the human visual system were linear in its response to light, a 50 percent gray card would instead appear halfway.
+
+12. Note how this parallels the relationship between lens stops. Opening the iris one stop doubles the amount of light that passes through the lens. Opening five stops lets in thirty-two times as much light.
+
+13. Put another way, with use of a log transfer characteristic, Genesis could capture five f-stops above 18 percent neutral gray, for a dynamic range equivalent to 600 percent in video signal terms. Same for Sony’s F23, F35, and other digital cinematography cameras that can output an uncompressed log signal.
+
+14. Interestingly, the HDCAM SR format itself uses compression to record the uncompressed 4:4:4 output of a digital cinematography camera. Namely, intraframe MPEG-4 Studio Profile at a lossless 4.2:1 compression ratio.
+
+15. Actually, Log C is more of a family. ARRI uses a slightly different one for each ISO setting.
+
+16. If you turn the brightness control up on a monitor you can see the effect of elevated blacks.
+
+17. In analog NTSC video, black level was raised to 7.5 IRE units. Called setup or pedestal, the 7.5 IRE black level applied only to analog NTSC video used in North America, the Caribbean, parts of South America, Asia, and the Pacific. If you have archival NTSC analog videotape and want to transfer it to digital, the setup needs to be removed, to bring the black levels down from 7.5 IRE to 0. This is a menu option on professional decks.
+
+18. Particular attention has to be paid to the way bright values are treated (RGB allows for brighter whites than component) and which colors are legal (some RGB brightness levels and saturated colors are not legal in component broadcast video). Many graphics and compositing applications allow you to limit color selection to legal broadcast values.
+
+19. In postproduction, you may encounter codecs indicated 4:4:4:4 because they also include an alpha channel (see p. 590).
+
+20. The :00 and :01 frames are dropped every minute, unless the minute is a multiple of 10 (no frames are dropped at 10 min., 20 min., etc.). Thus, the number following 00:04:59:29 is 00:05:00:02. But the number following 00:09:59:29 is 00:10:00:00.
+
+21. Powering down, rewinding a tape, removing a tape, or replacing a tape may cause timecode breaks or discontinuities; see p. 226.
+
+22. The sensor’s job of translating light energy to electrical energy is an analog process (even in a digital camera). With a CCD chip, the sensor downloads the charge from one row of pixels at a time, sending the signal to the A/D converter. In a CMOS chip, every pixel does its own A/D conversion and the data comes off the chip already digitized.
+
+23. Not to mention that manufacturers sometimes claim numbers that can be misleading. For example, a camera with a single 4K sensor cannot produce a 4K image (since with a Bayer pattern, once it is demosaicked, you only have about 80 percent of the original resolution; see RAW Capture, p. 203).
+
+24. DPI and PPI are sometimes used to talk about the spacing of pixels in a video monitor, but don’t apply to the resolution of image files.
+
+25. If you know the size of an image in inches and its DPI, you can calculate the size in pixels, which is what you need. One situation in which DPI is relevant is when scanning a still photograph, because a higher DPI setting in the scanner will result in more pixels in the resulting image file.
+
+26. This may not be necessary with an SSD.
+
+27. The word “compression” can have several meanings in film, video, and audio. The digital data compression being discussed here should not be confused with compressing audio levels (see p. 454) or video levels (see pp. 185–207).
+
+28. Note that what is called “uncompressed” video has really already been compressed somewhat in the conversion from RGB to component color space, which discards some of the chroma information.
+
+29. With interlaced formats, this may be done on a field-by-field instead of a frame-by-frame basis. DV uses adaptive interfield compression: if little difference is detected between two interlaced fields in a frame, the DV codec will compress them together as if they were progressive to save bits.
+
+30. Unlike many naming schemes in video in which the “x” is pronounced as “by,” here the “x” is pronounced simply as x.

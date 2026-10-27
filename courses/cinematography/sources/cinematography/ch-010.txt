@@ -1,0 +1,345 @@
+Chapter 9: Lighting Equipment
+
+8.1. (previous page) Lighting can be a character in the story as well as merely illumination for the subject and the sets: Bladerunner (Warner Bros. 1982).
+
+8.2. Below, a 12K HMI with desert wheels. (Photo courtesy of Backstage Equipment Inc.)
+
+cinematography THE SEVEN TYPES OF LIGHTING EQUIPMENT
+
+DP’s and directors do not need to know all the details of how each piece of lighting equipment works but it is essential that they know the capabilities and possibilities of each unit as well as its limitations. A great deal of time can be wasted by using a light or piece of grip equipment which is inappropriate for the job. One of the DP’s most important functions is ordering the right lighting equipment for the job and using it appropriately. Motion picture lights fall into seven general categories: HMIs, tungsten fresnels, tungsten open face lights, fluorescent, xenons, practicals and sunguns.
+
+HMI
+
+HMIs generate three to four times the light of tungsten halogen, but consume up to 75% less energy for the same output. When a tungsten bulb is color corrected to match daylight, the advantage increases to seven times as a great deal of the spectrum is absorbed by the blue gel (color temperature blue or CTB. See the chapter on color balance). Because HMIs are more efficient in converting power to light, they generate less heat than a tungsten lamp with the same output (Figure 8.2).
+
+HMI stands for the basic components: H is from the Latin symbol for mercury (Hg) which is used primarily to create the lamp voltage.
+
+M is for the many rare earth metals such as sysporsium, thulium and homium which control the color temperature of the output. I stands for iodine and bromine which are halogen compounds. The halogen serves much the same function as in a tungsten halogen lamp in prolonging the useful life of the bulb and ensures that the rare earth metals remain concentrated in the hot zone of the are.
+
+HMI lamps have two electrodes made from tungsten which project into a cylindrical or ellipsoidal discharge chamber, Unlike tungsten bulbs which have a continuous filament of tungsten wire, HMIs create an electrical are which jumps from one electrode to another and generate light and heat in the process. Color temperature as it is measured for tungsten bulbs or sunlight does not technically apply to HMIs (or to other types of discharge lighting such as fluorescents) because they produce a quasi-continuous spectrum. In actual practice though, the same measurements and color temperature meters are used for all types of video and motion picture lighting sources.
+
+In an HMI lamp the basic mercury discharge spectrum is very discontinuous and concentrated in a few narrow bands. The output of the rare earths fills out the spectrum and produces a spectrum very close to daylight. Sources, especially those with other than continuous “natural” spectrums, can vary in how well they “show” the color of an object. Recall our discussion of metamerism in the chapter on color theory. Metamerism is where an object appears to be a certain color under one light source but looks quite different under another The farther a source is from a true spectrum, the greater this mismatch will be.
+
+COLOR RENDERING INDEX
+
+Lights are classified according to Color Rendering Index (CRI)
+
+This is a method of quantifying how accurately a lighting source displays the color of an object (see the discussion of metamerism in the chapter Color Theory). A CRI of 90 or above (on a scale of 0 to 100) ts considered necessary for film and video work. The CRI is especially important when judging fluorescent and other gas discharge sources. For most HMIs the color rendering index is greater than 90, and thus above the minimum for film and video. When first developed, HMIs were not dimmable but units have become available which can be dimmed to 40% of their rated output which corresponds to 30% of their light output. There is some slight shift of color temperature under these conditions. Under normal conditions a decrease in voltage to the ballast will make the light shift slightly cooler, This is the opposite of a tungsten bulb which gets warmer as the voltage drops.
+
+BALLASTS
+
+All HMIs require a ballast. As with a carbon are or an are welder, the ballast includes a choke which acts as a current limiter. The reason for this is simple: an are is basically a dead short; if the current were allowed to flow freely, the circuit would overload and either blow the fuse or burn up. Early ballasts for HMIs were extremely heavy and bulky (200 pounds or more) as they contained current limiters which consisted of heavy copper wire wound in a coil like a transformer. This coil ballast works on the principle of reactance (Figure The invention of the smaller and lighter electronic ballast was a major improvement. Electronic ballasts also allow the unit to operate on a square-wave, which solves the flicker problem as we will see in the chapter on technical issues. The square-wave also increases light efficiency by about 8%.
+
+Voltages as high as 12,000 VAC or more are needed to start the are, which is provided by a separate ignitor circuit in the ballast. This creates the power needed for the electric current to jump across the gap between the two electrodes. The typical operating voltage is around 200V. When a lamp is already hot, much higher voltages are needed in order to ionize the pressurized gap between the electrodes. This can be from 20kV to more than 65 kV. For this reason, some HMIs cannot be restruck while hot. Hot restrike, which generates a higher voltage to overcome this resistance is a feature on most newer HMIs.
+
+The reason for this is that once an HMI is hot, the gases inside the bulb are pressurized and ionized; they provide greater resistance and therefore a high voltage is necessary to jump the gap.
+
+Due to devitrification (deterioration of the glass of the bulb), which increases as the lamp ages, the color temperature falls by about 0.5 to 1K per hour burned, depending on the wattage. HMI bulbs should not be operated more than 25% past their rated life as there is a 8.3. The ballast acts as a transf danger of explosion. to provide operating voltage also starting voltage which can be as 18K’S AND 12K’S high as 20,000V. It is also a current limiter.
+
+The I8K and the 12K HMIs are the most powerful fresnel lights currently available. Like all HMIs they are extremely efficient in luminous output per watt of input power. They produce a very sharp, clean light which is the result of having a very small source (the gas arc) which is focused through a very large lens (usually a 24” lens for both types) (Figure 8.4).
+
+These large lights are invaluable where very large areas are being covered or there is a need for high light levels for high-speed shooting. They are also a natural for sunlight effects such as sun beams through a window or any other situation where a strong well defined beam is needed. They are also among the few sources (along with HMI PARs) which will balance daylight and fill in the shadows sufficiently to permit shooting in the bare sun without silks or reflectors.
+
+The fact that they burn approximately “daylight blue” (5500 degrees kelvin) is a tremendous advantage in these situations: no light is lost to filters. Often when a 12K or 18K is used to fill in sunlight it is the only unit operating on a generator. If it was drawing on one leg only, the load would be extremely difficult to balance and might damage the generator.
+
+Most 12 and |&Ks are 220 volt lights but some are 110 volt units which can make load balancing difficult. As with any large light, coordinate with the gennie operator before firing it up or shutting it down. Be sure to clarify with the rental house what type of power connectors are used on the lights when you are placing your lighting and grip order for the job.
+
+The most significant new development in HMIs is the new “flicker-free” ballasts which use square-wave technology to provide flicker-less shooting at any frame rate. With some units there is a penalty paid for flicker-free shooting at frame rates other than syne sound speed — when the high speed flicker-free button is selected on these units they operate at a significantly higher noise level. If the ballasts can be placed outside or shooting is MOS, this is not a problem.
+
+Header cables are the power connection from the ballast to the light head itself. Many larger HMIs can only take two header cables: a third header will usually result in a voltage loss too great to get the lamp to fire up.
+
+8.4. A 12K/18K HMI, currently the Square-wave refers to the shape of the sine wave of the alternating most powerful fresnel light available. current after it has been reshaped by the electronics of the ballast. (Photo courtesy of Arri Group.) as te de coast ier se n .
+
+Flicker is discussed in more detail in the chapter on Technical Issues but suffice it to say here that the normal sine wave of AC current leaves too many “gaps” which become visible if the camera shutter is not synchronized to its rhythm. By squaring the wave, these gaps are minimized and there is less chance of flicker. This is especially important if you are shooting at anything other than normal speed:
+
+high speed photography in particular will create problems. It is important to note that flicker can be a problem in video also, just as with film cameras.
+
+6K & BK 6K and 8K HMIs can handle many of the same jobs as the bigger lights, particularly where the area covered is smaller. Although they generally have a smaller lens they still produce a sharp, clean beam with good spread. In many applications they perform admirably as the main light: serving as key, window light, sun balance, etc. Some 6Ks and 8K’s are 110 volts and some are 220, depending on the manufacturer and the rental house. They may require a variety of connectors or a set of Siamese splitters.
+
+When ordering any large lamp, it is crucial to ask these questions and be sure the rental house will provide the appropriate distribution equipment or adapters. Failure to do so may result in the light not being functional. Some makes of HMIs provide for head balancing.
+
+This is accomplished by sliding the yoke support backwards or forwards on the head. This is a useful feature when adding or subtracting barndoors, frames or other items which radically alter the balance of the light.
+
+AK & 2.5K The smaller HMIs, the 4K and 2.5K are general purpose lights, doing much of the work that used to be assigned to 5K and 10K tungsten lights. Slightly smaller than the bigger HMIs, they can be easily flown and rigged and will fit in some fairly tight spots.
+
+1.2K AND SMALLER UNITS
+
+The smallest lamps, the 1.2K and 575 HMI, are versatile units. Lightweight and fairly compact, they can be used in a variety of situations.
+
+The electronics ballasts for the small units have become portable enough to be hidden in places where larger units might be visible cinematography 14-4
+
+RULES FOR USING HMI UNITS
+
+Always ground the light and the ballast with appropriate grounding equipment, Check the stand and ballast with a VOM meter for leakage by measuring the voltage between the stand and any ground.
+
+There will usually be a few volts, but anything above 10 or 15 volts indicates a potential problem.
+
+Keep the ballast dry. On wet ground, use boxes or rubber mats.
+
+Avoid getting dirt or finger marks on the lamps: oil from the skin will degrade the glass and create a potential failure point.
+
+Many lamps come provided with a special cleaning cloth.
+
+Ensure that there is good contact between the lamp base and the holder. Contamination will increase resistance and impair proper cooling.
+
+The filling tip (nipple) should always be above the discharge, otherwise there is a risk of a cold spot developing inside the discharge chamber where the filler substances may condense and change the photometric properties.
+
+Prolonged running at above rated voltage may result in premature failure.
+
+Extended cable runs may reduce the voltage to a point which affects the output and may result in the lamp not firing.
+
+Excessive cooling or direct airflow on the lamp may cool the lamp below its operating temperature which can result in a light with a high color temperature and inferior CRI.
+
+All bulbs are rated for certain burning positions which vary from plus or minus 15 degrees to plus or minus 45 degrees.
+
+In general, bulbs 4K and above have a 15 degree tolerance while smaller bulbs have a greater range.
+
+POTENTIAL PROBLEMS
+
+HMIs may sometimes fail to function properly. Be sure to have a few extra header cables on hand: they are the most common cause of malfunctions. The safety switch on the lens can also cause trouble. Never try to bypass it, however; it serves an important function.
+
+HMIs should never be operated without the glass lens. The glass filters out harmful ultraviolet radiation which can damage someone’s eyes and give them a sunburn. When they do fail to fire:
+
+Check that the breakers are on. Most HMIs have more than one breaker.
+
+After killing the power, open the lens and check the micro-switch which contacts the lens housing. Make sure it is operating properly and making contact. Wiggle it, but don’t be violent — the light won’t operate without it.
+
+If that fails, try another header cable. If you are running more than one header to a light, disconnect and try each one individually. Look for broken pins, garbage in the receptacle, ete.
+
+Check the power. HMIs won’t fire if the voltage is low. Generally they need at least 108 volts to fire. Some have a voltage switch (110, 120, 220); be sure it’s in the right position.
+
+Try the head with a different ballast and vice-versa.
+
+Let the light cool. Many lights won’t do a hot restrike.
+
+XENONS
+
+Xenons are similar to HMIs as they are a gas discharge are with a ballast. They feature a polished parabolic reflector which gives them the tools of lighting amazing throw and almost laser-like beam collin they can project a tight beam several blocks \ mount of spread (Figures 8.5 and 8.6).
+
+Xenons are very efficient with the highest lumens of any light. Xenons currently come in five sizes: a | K, 4K 7K and 10K. There is also a 75 watt sun-gun unit. The | units come in 110 and 220 volt models, some of whicl plugged. This produces a high output light which ca into a wall outlet or a small portable generator. Th are extremel) pow erful, and must be used cautiousl they c crack a window. Just one example with . NY \ 320, film stock an ie the light set at full spot {/64 at 40 feet from the ligh The current supplied by the ballast to the bulb Is p a result flicker is not a problem for xenons and they for high speed filming up to 10,000 fps. Xenons do, how some disadvantages: all xenons are expensive to rent cooling fan w hich makes them very difficult to use in \lso, because of the bulb placement and reflector desig: ilways a hole in the middle of the round beam, which can b mized but never entirely eliminated.
+
+ging and cutting are diffic ght: flags cast bizarre symmetrical shadows Due to the parabolic reflectors, fl:
+
+close to the lig the extremely high and concentrated output means that the through gel very quickly. Many people try to compensate by p the gel as far as possible from the light. This is a mistake place to gel is actually right on the face of the light Seventy-five watt xenon sunguns were developed fo rhey are excellent for flashlight effects. They come in bot! volt) and DC configurations. Most have motorized flood /spot trols which can be operated during the shot. As with larger xe there is a hole or a hot spot in the center of the beam (dependin the focus) which cannot be eliminated. Xenon bulbs do not shit temperature as they age or as voltage shifts CARBON ARCS
+
+For many years, the Brute Arc was the most powerful ligh able. It was the standard for fill to balance sunlight, night and sun effects through windows. Dating back to 1801, the ar the first high intensity electric light. It was used in theaters and th adopted by the film industry as the only source bright enoug!
+
+8.6. Bladerunner (1982) was the first f xenons in a feature film.
+
+eth used them very fuland evocative ements use with the extremely slow emulsions available then. It was the only artificial alternative to the all glass or all sky-light studios that were then necessary.
+
+They produce light by creating an actual are between two carbon electrodes. Since they are not enclosed in glass and surrounded by special gases, as the are burns the negative and positive electrode are consumed and so have to be continuously adjusted to keep them in the correct position. This is done with small electric motors. Even with feed motors and complex geared mechanisms, ares require an operator to monitor them constantly and adjust the speed of the motors to maximize output and prevent the are from “flaming out.” Ares require a huge amount of power (225 amps for the standard Brute) which calls for a #00 cable run for each light) and the fact that it must be DC, which dictates either a studio with DC power or a large DC generator (Figure 8.7).
+
+The Brute Arc has a lighting quality which is distinctive and quite beautiful. Because the plasma are which creates the light output is quite small, the are is almost a point source. The very small source of the plasma arc, combined with the very large lens, produces a sharp. specular light which has a very clean, “wrapping” quality.
+
+This combined with ability to change the color of the arc makes it unfortunate that they are no longer economically feasible. Arcs can be either daylight or tungsten balance without gels, something that no other light can do. This is accomplished by using either “white-flame” carbons (daylight balance) or “yellow-flame” carbons (tungsten balance), For daylight balance use, the white-flame carbons run high in ultraviolet and a Y-1 filter is usually added to counteract this. MT-2 converts the white-flame carbons to tungsten color balance.
+
+All arcs have their power supplied through a ballast, which is also called a grid. The grid serves two purposes: it is a giant resistor which limits current flow across the arc and reduces the voltage to the optimum 73 volts without reducing the amperage. Voltage that is too high or too low can cause the electrodes to burn improperly and inefficiently. While the 225 amp Litewate Brute is by far the most common type of DC arc, other sizes are available. These include the 150 (150 amps), the Baby Brute (225 amps) and the Titan (350 amps). Only a few Titans ever existed. Ares create a good deal of ultraviolet. To correct this, warming gels are used: a Y-1 for daylight balance carbons and a YF-101 or an MT-2 plus a Y-1 for tungsten balance (yellow flame carbons).
+
+Arcs are unfortunately expensive to operate as they require not only a very large generator but also each one needs its own operator to feed and trim the carbons. In addition, the supplied power must be DC (direct current) and so it must either be a dedicated gennie or one which can supply AC and DC at the same time — called a “concurent” gennie.
+
+TUNGSTEN FRESNELS
+
+Tungsten lamps are just bigger versions of ordinary household bulbs; they all have a filament of tungsten wire just as invented by Thomas Edison. There are two types of tungsten fresnels: studio and baby. The “studio” light is the full size unit, the “baby” is a smaller housing and lens, making it more compact for location use (Figure 8.8). As a rule the baby version is the housing of the next smaller size (for example the 5K is similar to a studio 2K). The baby lights are much favored for location work.
+
+8.7. The carbon arc was for decades the only really big light in motion pene production. For a history of Im lighting, see Motion Picture and Video Lighting, by the same author, also published by Focal Press.
+
+the tools of lighting TWENTY
+
+The biggest tungsten light now in use is the 20K. It is a large unit with tremendous output. Many jobs that were formerly done by the LOK are now done with this light. Most run at 220 volts and several models come with a built-in dimmer (Figure 8.9), TENNERS
+
+The LOK fresnel comes in three basic versions:
+
+* The baby 10K provides high intensity output with a fairly compact, easily transportable unit with a 14” fresnel lens.
+
+* The basic 1OK, known as a “tenner” or studio |OK. has a 20”fresnel, * The largest light of this group is the “Big Eye” tenner which has a 24” lens. The Big Eye is a very special light with quality all its own. The DTY (10K) bulb provides a fairly small source, while the extremely large fresnel is a large radiator.
+
+The result is a sharp hard light with real bite but with a wrap around quality which gives it a soft light quality on subjects 8.8. A head ar with a sandare close to the light. This is a characteristic of all very big lights assortment of tungsten fresnels. - en, ae Brace aes SN (Photo courtesy of Backstage Equip. NM hich gives them a unique quality. oe . ment.) It is important to never use a 20K, 1OK or a 5K pointing straight up (this applies to large HMIs and xenons as well). The lens blocks proper ventilation and the unit will overheat. Also, the filament will not be properly supported and will sag and possibly touch the glass.
+
+Either condition will cause the bulb to fail and overheating may crack the lens. The failure will cost somebody hundreds of dollars and put the light out of commission.
+
+FIVE K
+
+Although it is available in both versions, the baby 5K is far more popular than the larger unit. It can work as a general purpose “big light” and a fill used against a 10K. The 5K is also called a senior.
+
+JUNIORS
+
+The 2K fresnel is also known as a deuce or a junior. It has enough power to bring a single subject or actor up to a reasonable exposure. even with diffusion in front of the lens. Deuces are also useful as backlights, rims and kickers. Baby juniors (called BJs) are the more compact and an extraordinarily versatile unit.
+
+BABIES
+
+Thousand watt units (1 Ks) are also known babies, aces or 750s, The IK is used as an accent light, a splash on the wall, a small back light, a hard fill and for dozens of other uses. The baby can use cither a 750 watt bulb (EGR) or a 1000 watt bulb (EGT) the widely used name of 750 comes from the days before quartz halogen when the 750 tungsten bulb was the most common. Most are now used with the 1K quartz bulb, but are still called 750s. The Baby 1K, also called a Baby Baby, is the small size version. Because of its smaller lens and box, it has a wider spread than the studio 750 and this can be a useful feature when hiding small units in nooks and crannies 8.9. A 20K fresnel tungsten, (Photo courtesy of Cinemills.)
+
+TWEENIE / PEPPER The tweenie is “between” the 1K and the inkie. With the new high speed films, the tweenie is often just the right light for the small Jobs a baby used to do. It is very useful for a number of small jobs. easily hidden and can function as a quick accent, a slate light or an eyesight. There is also a 400w Pepper which is similar to an inkie (Figure 8.10).
+
+INKIE / PEPPER At 200 or 250 watts (depending on the bulb), the inkie or Pepper is not a powerful unit, but up close it can deliver a surprising amount of light. The inkie is great for a tiny spritz of light on the set, as an eye light, a small fill, or for an emergency last minute light to just raise the exposure a bit on a small area.
+
+OPEN FACE
+
+Some 2K, 1K and 650 units are available as “open face” lights, that is. they have no lenses but they do have some spot flood focusing.
+
+They are raw but they do have a tremendous output for their size.
+
+They are good for bounce or shooting through diffusion (Figure 6.11).
+
+PARS
+
+PAR stands for parabolic — the shape of the reflector. A parabola is the only shape which collects all of the light rays and projects them out in the same direction. In conjunction with this, all PAR units have a lens, which functions primarily to concentrate or spread the beam. Tungsten parts generally come with a fixed lens which is part of the unit: they are pretty much the same as a car headlight. HMI PARs always come with a set of interchangeable lenses: these go from a very wide beam to a very narrow beam. The disadvantage of PARs is that the beam generally covers only a very small area and is not a very complimentary light nor is it easily controllable but it is useful for many purposes which call for just raw light power.
+
+PARs come in two basic varieties: film versions come in a solid rotatable housing such as Mole Richardson’s MolePar (Figure 8.12) or CineQueen (Colortran), which feature barndoors and scrim holders: and in a flimsier theatrical version called a PAR can. Theatrical lights are not generally as sturdily built because they are generally hung in a theater and then left alone. They don’t get the rough treatment and adverse conditions that film and video lights do. PARs (especially NSPs) can quickly burn through even the toughest gels, melt bead board and set muslin diffusion on fire.
+
+PARs with a dichroic coating have an output which is very close to daylight (blue) balance. Small PAR 48s and 36s are also available at lower voltages as well as 110v. Nearly all types of bulbs are also available in 220 volts, which is the standard in Europe and much of the rest of the world.
+
+PAR GROUPS
+
+PARs are also made in groups, the best known being the Maxi Brute, a powerful unit with tremendous punch and throw. They are used in large night exteriors and in large scale interior applications: aircraft hangars, arenas, etc. They can also be used directly or through gel, muslin, etc., when very high light levels are needed to get through heavy diffusion.
+
+Maxi Brutes and Dinos are similar in design but different in size.
+
+Maxi’s come in configurations of 6, 9 or 12 x PAR 64 lamps; the most common being the 9 lamp head. A Dino is 36 x PAR 64 lamps.
+
+Other variations of this design exist as well (Figure 8.14).
+
+Fay lights are clusters of 650 watt PAR 36s and come in single lamps up to 9 (or 12) lamp configurations. The Wendy lights come in panels with the same PAR 36 lamps (usually DWE) and are 49 lamps in the largest configuration. They can be ordered with flood (FL), medium flood (MF), spot (SP) or very narrow spot (VNS) lamps. Same goes with the MolePar or Parcan which use the same PAR 64 as the Dinos and Maxi Brutes but are single lamp fixtures.
+
+The bulbs are housed in banks which are individually orientable 8.10. (top) The Pepper, a compact and versatile small light. (Photo cour tesy of LTM.)
+
+8.11. (above) The Mole Richardson open face 2K, usually called a Mighty ole. (Photo courtesy of Mole Richardson.)
+
+8.12. Mole’s 1K MolePar. (Photo cour tesy of Mole Richardson.)
+
+the tools of lighting 8.13. A Ruby Seven working along side some 24K multi-Par units. (Photo courtesy of Luminaria.)
+
+8.14. The Dino, or in this illustration, Mole Richardson’s Moleeno, consists of 36 1K PAR bulbs. (Photo courtesy of Mole Richardson.)
+
+cinematography 150 for some control. All the bulbs are individually switchable, which makes for very simple intensity control. All PAR group lights allow for spot, medium and flood bulbs to be interchanged for different coverages. Also called 5-lights, 9-lights or 12-lights, depending on how many bulbs are incorporated, FAY lights use PAR 36 bulbs (650 watts), The FAY bulbs are dichroic daylight bulbs; tungsten bulbs can also be used. They can be used as daylight fill in combination with or in place of HMIs. They are not exactly daylight balance but are very close and can be corrected with gels Most people refer to any PAR 36 dichroic bulb as a FAY, but in fact there are several types. FAY is the ANSI code for a 650 watt PAR-36 dichroic daylight bulb with ferrule contacts. If the bulb has screw terminals it is an FBE/FGK, With heavy diffusion these units can be used as a large-source soft light (Figure 8.16).
+
+THE RUBY
+
+Multi-PAR units are an outstanding source of raw “firepower.” They provide a lot of output per watt that can be concentrated into a small area or flooded with some degree of precision. They have nowhere the degree of control of a fresnel, however.
+
+In particular, it is difficult 1f not impossible to “spot” them. The individual banks can be panned left and right and the whole unit can be tilted up and down, but there is no way to focus all of the heads or flood them in a truly uniform way. The Ruby Seven solves this problem with an ingenious mechanism that tilts the outer ring in or out, moving on the axis of the center bulb (Figure 8.13 and 8.15).
+
+HMI PARS
+
+HMI PARs are available as 2.5K, 1.2K and 575s. These are extremely popular as bounce units, to create shafts and for raw power. The smaller ones can be moved easily, where moving a scaffold and heavy light is a major operation. HMI PARs are different from tungsten units in that they have changeable lenses which can be added to make a narrow spot, a medium flood, wide flood and an extra wide flood. As with tungsten PARs, the beam is oval and the unit can be rotated within its housing to orient the pattern. Every HMI PAR will come with its own set of lenses.
+
+SOFT LIGHTS
+
+Studio soft lights consist of one or more 1000 watt or 1500 watt bulbs directed into a “clamshell” white painted reflector which bounces light in a random pattern, making a light which ts apparently s large as the front opening. They vary from the IK st tudio sO the Baby sofi, also known as a 750 soft) up to the powerful 8K Studio Soft, which has eight individually switchable bulbs (Figure 8.17).
+
+All soft lights have certain basic problems: they are extremely inel-ficient in ligh t output; they are bulky and hard to transport: like all soft lights they are difficult to control, while the large reflector does 8.15. (above, left) The Ruby make the light “soft,” the random bounce pattern makes the light 4 PAR based unit that offers tional controllability. (Photo till somewhat raw and un] leasant. of Luminaria.)
+
+As a result of this rawness, some people put some diffusion over 8.16. (top) Two Mole FA\ the soft light for any close-up work. Big studio softs through a large — jn with some 4x8 floppies frame of 216 is probably the easiest and quickest way to create a trol se soft source in the studio. Often used with the studio is the egg-crate, which minimizes side spill and does make the beam a bit more controllable. Soft lights see most of their use in television studios where they provide a soft source without additional rigging. Since they are more or less permanently flown, their bulkiness Is not a problem Small compact versions of the 2K and IK soft lights are called zip lights. They have the same width but half the height of ¢ soft light of “similar wattage. Because of their compactness, zips are great for slipping into tight spaces.
+
+COLOR CORRECTED FLUORESCENTS
+
+Color corrected fluorescent tubes have gained enormous popularity in recent years. Pioneered by the Kino Flo company, they are extremely lightweight, compact and portable sources. Achieving a truly soft light can be difficult and time consuming. If it’s done “by bouncing off a large white surface or by punching big lights through heavy diffusion — either way takes up a lot of room and calls for a lot of flagging to control it.
+
+Kino Flos had their origin in 1987, While working on the film Barfly, DP Robby Mueller was shooting in a cramped interior that didn’t leave much room for a conventional bounce or diffusion soft source. His gaffer Frieder Hochheim and best boy Gary Swink came up with an answer: for fill and accent lighting, they constructed high-frequency fluorescent lights. By using remote ballasts, the fixtures were maneuverable enough to be te yped to walls, hidden behind drapes and mounted behind the bar. Kino Flos were born (Figures 8.18. 8.19 and 8.21).
+
+8.17. The 8K soft light — useful, but strictly for studio use. Big softlights are very popular in television lighting.
+
+8.18. (below) The Wall-O-Light from Kino Flo. Kinos can be rebulbed for tungsten, aa light, bluescreen, greenscreen and other color conditions.
+
+8.19. (below, right) Photometrics for a 2 ft.,4 bank Kino Flo.
+
+cinematography 152
+
+Unlike conventional fluorescent ballasts which can be quite noisy especially as they age, their ballasts were dead quiet and their light was flicker free due to the higher than normal frequency. There are now several companies that make these types of lights. Their secret is two-fold: first, the ballasts are high-frequency, which eliminates the potential problem of flicker which is always present with fluorescent type sources. Second, the bulbs are truly color correct. They precisely match daylight and tungsten. Colored bulbs are also available for various effects as well as for greenscreen, bluescreen or red screen. Kino makes a variety of extremely large rigs which can either front light or backlight an effects screen.
+
+An added bonus of color correct, high-frequency fluorescents is that they generate considerably less heat than either tungsten or HMI. For this reason they have become very popular for lighting television sets for news and other types of programming. Portable fluorescent arrays are available from several sources. The Lowell unit, for example, uses 6 120 volt, 4 foot, 2-pin tubes, and the flicker free ballast serves as a counter-balance for the head. The unit draws only 3 amps and folds down to a compact, highly portable package.
+
+Fluorescent rigs are often used as a front fill when shooting in a fluorescent-lit industrial situation.
+
+CYCS, STRIPS, NOOKS AND BROADS
+
+When just plain output is needed, broad lights are strictly no-frills, utilitarian lights. They are just a box with a double-ended bulb. As simple as it is, the broad light has an important place in film history. In classical Hollywood hardlighting, the fill near the camera was generally a broad light with a diffuser. The distinctive feature of the broad light is its rectangular beam pattern, which makes blending them on a flat wall or cye much easier: imagine how difficult if would to be smoothly combine the round, spotty beams of mighties or fresnel lights.
+
+The smallest version of the broad is the nook, which, as its name implies, is designed for fitting into nooks and crannies (Figure 8.20).
+
+The nook light is a compact, raw-light unit, usually fitted with an FCM or FHM 1000 watt bulb. The nook is just a bulb holder with a reflector. Although barndoors are usually available, nooks aren’t generally called on for much subtlety. but they are an efficient and versatile source for box light rigs, large silk overhead lights and for large arrays to punch through frames.
+
+A number of units are specifically designed for illuminating cycs and large backdrops. For the most part they are open face 1K and 1.5K units in small boxes; these are call cyes, cye strips or Far Cyes (which create a more even distribution up and down the background.
+
+Their primary characteristic is the asymmetrical throw which puts more output at the top or bottom, depending on the orientation of the unit. The reason for this is that cye lights must be either placed at the top or bottom of the cyc but the coverage must be even. Placing cyc lights must be done carefully to achieve this coverage.
+
+Strip lights are gangs of PARs or broad lights, originally used as theatrical footlights and cye lights. They are often circuited in groups of three. With each circuit gelled a different color and ona dimmer, a wide range of colors can be obtained by mixing. This can be a quick way to alter background colors and intensities. rhe Lowell Tota Lite deserves special mention. Small, cheap and fundamental, its no-nonsense reflector design and 1000 watt double-end bulb provide tremendous bang for the buck. Practically a back pocket light, the Tota can be used as an umbrella bounce, hidden in odd places or used in groups fora frog light or cye illumination. Two Totas can be ganged by simply inserting the male end of the stand clamp into the female side of the other Tota. Adding more lights to the stack is a problem: they are too close together to allow the doors to open fully.
+
+CHINESE LANTERNS AND SPACELIGHTS
+
+Chinese lanterns are the ordinary paper globe lamps available at houseware stores. A socket is suspended inside which holds either a medium base bulb (household, ECA, ECT. BBA, BCA, etc.) ora IK or 2K bi-post. Just about any rig is possible if the globe is large 8.20. (above) The Mole nook light; a very handy compact unit that can be tucked into a variety of spaces.
+
+(Photo courtesy of Mole Richardson.)
+
+8.21. (left) Color correct fluorescents in the form of a right light for the camera. This is the Iris, made by Soft lights. (Photo courtesy of Softlights.)
+
+8.22. (top) Spacelights and lekos in use On a miniatures shoot. (Photo courtesy of Mark Weingartner.)
+
+8.23. (right) Two Musco lights set up to light a large background for a water shot. (Photo courtesy of Musco Lighting, Inc.)
+
+cinematography 154 enough to keep the paper a safe distance from the hot bulb. Contro! is accomplished by painting the paper or taping gel or diffusion to it. Similar in principle are spacelights (Figure 8.22), which are basically big silk bags with several 1K nook lights inside, For establishing an even overall base level on a set, they can be quite useful. With a bit of rigging, they can be made dimmable, although it is not convenient. When cabling, you will want to separate them into different circuits to give you some degree of control over the level.
+
+SELF CONTAINED CRANE RIGS
+
+There are a number of units which consist of several large HMls rigged on a crane (Figure 8.23), Most also carry their own generator. Musco was the first of these, but now there are several to choose from. These units can provide workable illumination up to a hall mile away and are used for moonlight effects and broad illumination of large areas. The main Musco unit comes with its own 1000 amp generator, which is typical of this type of unit. The 6K heads are individually aimable by a handheld remote control which operates up to 1000 feet away from the truck. The boom allows placement of the heads at up to 100 feet in the air.
+
+LEKOS
+
+The ellipsoidal reflector spot (Leko) is a theatrical light, but is used occasionally as a small effects light because of its precise beam control by the blades. Because the blades and gobo holder are located at the focal point of the lens, the leko can be focused sharply and patterned gobos can be inserted to give sharply detailed shadow effects.
+
+Not all lekos have gobo holder slots and if you need one you must specify when ordering (Figure §.24). Lekos come in a size defined by their lens size and focal length (such as 6x9). The longer the focal length the narrower the beam.
+
+BALLOON LIGHTS
+
+Balloon lights are a recent development which provide a powerful and flexible new tool for night exteriors (Figures 8.25, 8.26 and 8.27). They generate a soft, general fill light for large areas. Perhaps their greatest advantage is that they are much easier to hide than a crane or scaffolding. They are also faster to set up. The disadvantage is that they can be very time consuming and expensive to gel.
+
+Wind is a factor when flying balloon lights. The smaller the balloon, the lower the acceptable wind speeds for keeping the balloon aloft. [5-20 mph for the smaller balloons (25 mph for the large ones) is a general upper limit of safety. A good reference is to observe flags if they’re flapping straight out, it’s too windy.
+
+————— <a 8.24. (abo ; on-camera | Mee we ‘Serr 8.25. (left boat movie. [ Star.
+
+PORTABLE UNIT
+
+| | operated units are generally wo basic types: tungsten and HMI. Tung either 12 volt or 30 volt and powered from battery cifically designed as sunguns, but some are 120 by changing the bulb and power cable (Fig ted a tungsten sungun will run for bout fifteen t tes. Sunguns with | IMI bulbs are daylight bal DAY EXTERIORS
+
+Ua s can be appl Ipproached in three ways: filling with ( Brute Are or 12K HMI, bouncing the existing | ome combination of the three (Figure & T ( IC >FOUIPMENT )y 1 vou have to control it. As soon id what ean be done with the barndoors, 1t becomes t! 8.26. (bel | is Wide and varied, 16K HMI t cing the amount ot ing the quality is done with nets. The same frames LIGHTS UP! INDUSTRIES
+
+16K HMI
+
+FOOTCANDLES
+
+POWER LIGHTING OPERATING HELIUM
+
+PRODUCT SIZE WATTAGE SOURCE AMPS
+
+16K )
+
+Suir CASE
+
+AREA HEIGHT 5 WT.
+
+400%400 30-120°
+
+SIZE bs. 44s”
+
+| 208V PH 8 8.28. (top) A sungun with handle.
+
+8.29. (top, right) Lighting a“walk and talk” is often a tricky business. Here, the gaffer and key grip are “Holly-wooding” (hand holding) a slight diffusion and a reflector card.
+
+8.30. (above, middle) Flying a 20x20 silk requires an experienced crew.
+
+(Photo courtesy of Matthews Studio Equipment.)
+
+8.31.(above) The soft side of a reflector board. (Photo courtesy of Matthews Studio Equipment.)
+
+cinematogt apl ly 156
+
+=. ig me % used for nets can be covered with white silk-like material which is a medium heavy diffusion. When they are covered with black duvetyne they are flags and cutters, which can control spill, cast shadows or block off flares from the lens. The same silk-like material also comes in larger sizes for butterflies and overheads. These come in various sizes, commonly: 4x4, 6x6, 8x8, 12x12 and 20x20.
+
+These are referred to as 8by, |2by, etc. (Figure 8.30).
+
+FOR MORE INFORMATION ON LIGHTING
+
+Lighting is a vast subject; here we have room only to cover the basic tools. For more on lighting techniques, photometric data, grip equipment and methods, electrical distribution, bulbs and scene lighting examples see Motion Picture and Video Lighting by the same author, also published by Focal Press, Photometric data, bulb designations for all types of lights, gel charts and color correction data can also be found in The Filmmaker s Pocket Reference, also a Focal Press book.
+
+lighting as storytellinc

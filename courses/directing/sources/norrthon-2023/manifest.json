@@ -1,0 +1,43 @@
+{
+ "key": "norrthon-2023",
+ "title": "Cueing in Theatre: Timing and Temporal Variance in Rehearsals of Scene Transitions",
+ "author": "Stefan Norrthon ",
+ "file": "s10746-023-09672-8.pdf",
+ "format": "pdf",
+ "sha256": "10eb2e74cd047e35cc31fb17583a6737cd7fa9e18613dbcda958945a9f7543a5",
+ "words": 9453,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 20",
+   "words": 8970,
+   "pages": [
+    1,
+    20
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Pages 21 to 21",
+   "words": 483,
+   "pages": [
+    21,
+    21
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks",
+  "text quality looks poor (32% common English words, 1.7% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "text_quality": {
+  "common_word_share": 0.32,
+  "odd_character_share": 0.017
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-25",
+  "source_file": "s10746-023-09672-8.pdf",
+  "note": "Date is when the file arrived in the source ingest folder."
+ }
+}

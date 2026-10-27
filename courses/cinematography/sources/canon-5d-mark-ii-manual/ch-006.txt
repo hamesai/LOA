@@ -1,0 +1,615 @@
+101
+Although using the self-timer or Remote Switch can prevent camera 
+shake, using mirror lockup to prevent camera vibrations can also help 
+when you use a super telephoto lens or shoot close ups.
+When [8C.Fn III -6: Mirror lockup] is set to [1: Enable] (p.180), 
+shooting with mirror lockup will be possible.
+1 Focus the subject, press the shutter button completely 
+and release it.
+X The mirror will swing up.
+2 Press the shutter button completely again.
+X The picture is taken and the mirror goes back down.
+Mirror LockupN
+ In very bright light such as at the beach or ski slope on a sunny day, take 
+the picture promptly after mirror lockup.
+ Do not point the camera toward the sun. The sun’s heat can scorch and 
+damage the shutter curtains.
+ If you use bulb exposures, the self-timer, and mirror lockup in 
+combination, keep pressing the shutter button completely (self-timer 
+delay time + bulb exposure time). If you let go of the shutter button 
+during the 10-sec./2-sec. self-timer countdown, there will be a shutterrelease sound. This is not the actual shutter release (no picture is taken).
+ When [1: Enable] is set, single shooting will take effect even if the drive 
+mode is set to continuous.
+ When the self-timer is set to <Q> or <k>, the picture will be taken 
+after 10 sec. or 2 sec. respectively.
+ The mirror locks up, and after 30 seconds, it will go back down 
+automatically. Pressing the shutter button completely again locks up the 
+mirror again.
+ For mirror lockup shots, using the Remote Switch RS-80N3 or Timer 
+Remote Controller TC-80N3 (both sold separately) is recommended.
+ You can also lockup the mirror and shoot with the remote controller (sold 
+separately, p.102). With Remote Controller RC-1, setting it to a 2-sec. 
+delay is recommended for shooting.
+COPY
+
+102
+With Remote Controller RC-1 or RC-5 (both 
+sold separately), you can shoot remotely up 
+to about 5 meters/16.4 feet from the 
+camera. RC-1 enables you to shoot 
+immediately or have a 2-sec. delay, and 
+RC-5 has a 2-sec. delay.
+1 Focus the subject.
+2 Set the lens focus mode switch to <MF>.
+ You can also shoot with <f>. 
+3 Press the <o > button. (9)
+4 Select the self-timer. Look at the LCD panel and turn the 
+<5> dial to select <Q> or <k>. 
+5 Press the remote controller’s transmit button.
+ Point the remote controller toward the 
+camera’s remote control sensor and 
+press the transmit button.
+X The self-timer lamp lights and the 
+picture is taken.
+R Remote Control Shooting
+RC-1 RC-5
+Remote
+control
+sensor
+Camera misoperation may occur near certain types of fluorescent lights. 
+During wireless remote control, try to keep the camera away from 
+fluorescent light.
+COPY
+
+103
+An EX-series Speedlite (sold separately) makes flash photography as 
+easy as normal shooting without flash.
+For detailed instructions, see the EX-series Speedlite’s instruction 
+manual. This camera is a Type-A camera that can use all the features 
+of EX-series Speedlites.
+ FE Lock
+This enables you to attain a proper flash exposure for a specific part 
+of the subject. Aim the viewfinder center over the subject, then press 
+the <A> button and take the picture.
+ Flash Exposure Compensation
+In the same way as normal exposure compensation, you can set 
+exposure compensation for flash. You can set the flash exposure 
+compensation up to ±2 stops in 1/3-stop increments (with the 
+camera).
+Press the camera’s <m> button, then turn the <5> dial while 
+looking at the LCD panel or LCD monitor.
+ With an EZ/E/EG/ML/TL-series Speedlite set in the TTL or A-TTL 
+autoflash mode, the flash can be fired at full output only.
+Set the camera’s shooting mode to <a> (manual exposure) or 
+<f> (aperture-priority AE) and adjust the aperture setting before 
+shooting.
+ When using a Speedlite which has manual flash mode, shoot in the 
+manual flash mode.
+D Flash Photography
+EOS-dedicated, EX-series Speedlites
+Using Non-EX-series Canon Speedlites
+Shoe-mount Speedlites Macro Lites
+COPY
+
+104
+D Flash Photography
+Sync Speed
+The camera can synchronize with non-Canon compact flash units at 1/
+200 sec. and slower speeds. With large studio flash units, since the 
+flash duration is longer, set the sync speed within 1/60 sec. to 1/30 sec. 
+Be sure to test the flash synchronization before shooting.
+PC Terminal
+ The camera’s PC terminal can be 
+used with flash units having a sync 
+cord. The PC terminal is threaded to 
+prevent inadvertent disconnection.
+ The camera’s PC terminal has no 
+polarity. You can connect any sync 
+cord regardless of its polarity.
+Cautions for Live View shooting
+When using a non-Canon flash unit for Live View shooting, set the [6 
+Live View/Movie func. set.] menu’s [Silent shoot.] to [Disable] 
+(p.120). The flash will not fire if it is set to [Mode 1] or [Mode 2].
+Using Non-Canon Flash Units
+ If the camera is used with a flash unit or flash accessory dedicated to 
+another camera brand, the camera may not operate properly and 
+malfunction may result.
+ Do not connect to the camera’s PC terminal any flash unit requiring 250 
+V or more.
+ Do not attach a high-voltage flash unit on the camera’s hot shoe. It might 
+not fire.
+A flash unit attached to the camera’s hot shoe and a flash unit connected to 
+the PC terminal can both be used at the same time.
+COPY
+
+105
+When an EX-series Speedlite (such as the 580EX II and 430EX II) 
+settable by the camera is attached, you can use the camera’s menu 
+screen to set the Speedlite’s flash function settings and Custom 
+Functions.
+First attach the Speedlite to the camera and turn on the Speedlite.
+For details on Speedlite functions, refer to the Speedlite’s instruction 
+manual.
+1 Select [External Speedlite control].
+ Under the [7] tab, select [External 
+Speedlite control], then press <0>.
+2 Select [Flash function settings]. Turn the <5> dial to select [Flash 
+function settings], then press <0>.
+3 Set the flash function settings. Turn the <5> dial to select a flash 
+function and set it as desired. The 
+procedure is the same as setting a 
+menu function.
+ On the screen, the settable items and 
+what’s displayed will differ depending 
+on the current flash mode, flash 
+Custom Function settings, etc.
+3 Setting the FlashN
+Flash Function Settings
+ If you press the <B> button in step 3, you can revert the setting to the 
+default.
+ With an EX-series Speedlite not settable with the camera, only [Flash 
+exp. comp], [E-TTL II], and [Flash firing] are settable for [Flash 
+function settings].
+(For some EX-series Speedlites, [Shutter sync.] is also settable.)
+COPY
+
+106
+3 Setting the FlashN
+1 Select [Flash C.Fn settings]. Turn the <5> dial to select [Flash 
+C.Fn settings], then press <0>.
+2 Set the flash function settings. Turn the <5> dial to select the 
+function number, then set the 
+function. The procedure is the same 
+as setting the camera’s Custom 
+Functions (p.172).
+In step 1, select [Clear all Speedlite C.Fn’s] to clear all the Speedlite’s 
+Custom Function settings (except [C.Fn-0: Distance indicator 
+display]).
+Flash C.Fn Settings
+About E-TTL II
+For normal flash exposures, set it to [Evaluative].
+If [Average] is set, the flash exposure will be averaged for the entire 
+metered scene as with an external metering flash. Flash exposure 
+compensation may be necessary depending on the scene, so this setting is 
+for advanced users.
+Canceling Speedlite Custom Function Settings
+If you use an EX-series Speedlite and the Speedlite Custom Function’s 
+[Flash metering mode] is set to [TTL (autoflash)], the flash will always be 
+fired at full output.
+COPY
+
+107
+6
+Live View Shooting
+and Movies
+You can shoot while viewing the picture on the camera’s LCD 
+monitor. This is called “Live View shooting.” You can shoot 
+both still photos and movies.
+When shooting movies at the 1920x1080 size (Full HD 
+quality), use a large-capacity card having an actual 
+reading/writing speed of at least 8 MB/sec.
+If you use a card with a slow writing speed when shooting movies 
+at 1920x1080, the movie might not be recorded properly. Also, if 
+you playback movies on a card having a slow read/write speed, 
+movie might not playback properly.
+To check the card’s read/write speed, refer to the card 
+manufacturer’s Web site.
+About Remote Live View Shooting
+With EOS Utility (provided software) installed in your personal 
+computer, you can connect the camera to the personal computer 
+and shoot remotely while viewing the computer screen. For details, 
+see the Software Instruction Manual in the CD-ROM.
+COPY
+
+108
+This sets the camera for Live View shooting of still photos. To shoot 
+movies, see page 121.
+1 Set the shooting mode. Select one of the following modes: 
+d/s/f/a/F.
+2 Select [Live View/Movie func. set.].
+ Under the [6] tab, select [Live View/
+Movie func. set.], then press <0>.
+3 Select [LV func. setting]. Turn the <5> dial to select [LV func. 
+setting], then press <0>.
+ “LV” stands for Live View.
+4 Select the [Live View function settings] type.
+ Turn the <5> dial to select [Stills 
+only], then press <0>.
+ For details on [Stills+movie], see 
+page 121.
+5 Select the [Screen settings] type. Turn the <5> dial to select [Stills 
+display], then press <0>.
+X The screen for step 3 will reappear.
+ For details about this function, see 
+the next page.
+A Preparing for Live View ShootingN
+COPY
+
+109
+A Preparing for Live View ShootingN
+6 Display the Live View image. Press the <A> button.
+X The Live View image will appear on 
+the LCD monitor.
+ Press the <A> button again to turn 
+off the LCD monitor and quit the Live 
+View shooting.
+You can select the LCD monitor’s image brightness.
+ Stills displayh
+Geared for still photos, the image is displayed at the standard 
+brightness to make it easy to see.
+ Exposure simulationg
+Geared for still photos, the Live View image will closely reflect the 
+brightness level of the image you capture. If you set exposure 
+compensation, the image brightness will change accordingly.
+ Movie displaye
+Geared for movies, the image is displayed at the standard brightness 
+and the depth of field will be wider than with [Stills display]. The 
+shooting coverage will also correspond to the proportion of the movierecording size which was set. (The semi-transparent mask on the top, 
+bottom, left, and right of the screen will not be included in the recorded 
+movie.) Even when [Movie display] is set, you can take still photos by 
+pressing the shutter button completely. The shutter speed, aperture, 
+and ISO speed will be set automatically.
+About [Screen settings]
+ During Live View shooting, do not point the lens toward the sun. The 
+sun’s heat can damage the camera’s internal components.
+ Cautions for using Live View shooting are on pages 125-126.
+Still and movie shooting are possible even in the fully-automatic modes 
+(1/C) (p.121).
+COPY
+
+110
+Live View shooting is effective for still subjects whose distance to the 
+camera does not change. If you handhold the camera and shoot while 
+viewing the LCD monitor, camera shake can cause blurred images. 
+Using a tripod is recommended.
+1 Use AF to focus. Press the <p> button.
+X The camera will focus with the current 
+AF mode (p.113).
+2 Take the picture. Press the shutter button completely.
+X The picture will be taken and the 
+captured image is displayed on the 
+LCD monitor.
+X After the image review ends, the 
+camera will return to Live View 
+shooting automatically.
+ As with normal shooting through the viewfinder, while the Live View 
+image is displayed, you can still use the camera buttons to change 
+settings and playback images.
+ When you press the <o > or <m> button, the setting 
+screen will appear on the LCD monitor and you can change the 
+settings.
+ During Live View shooting, the metering mode will be set to 
+evaluative metering regardless of the current metering mode setting.
+ To check the depth of field for still photos, press the depth-of-field 
+preview button. The image brightness displayed will be close to the 
+actual brightness of the resulting image.
+ During continuous shooting, the exposure set for the first shot will 
+also be applied to subsequent shots.
+ShootingN
+Operations During Live View Display
+COPY
+
+111
+ShootingN
+ Pressing the <M> button will display the menu screen so you 
+can set menu functions. Press the <M> button again to return 
+to the Live View image. If you select [2 Dust Delete Data], 
+[6 Sensor cleaning], [7 Clear settings], or [7 Firmware Ver.], 
+the Live View shooting will be terminated.
+Battery Life with Live View Still Photo Shooting
+ The figures above are based on a fully-charged Battery Pack LP-E6 and CIPA 
+(Camera & Imaging Products Association) testing standards.
+ Continuous Live View shooting is possible for about 2 hours at 23°C/73°F or 
+1 hour and 50 minutes at 0°C/32°F (with fully-charged Battery Pack LP-E6).
+Temperature At 23°C / 73°F At 0°C / 32°F
+Possible Shots Approx. 200 Approx. 180
+ The image’s field of view is about 100%.
+ If the camera is not operated for a prolonged period, the power will turn 
+off automatically as set with [5 Auto power off] (p.44). If [5 Auto 
+power off] is set to [Off], the Live View shooting will stop automatically 
+after 30 min. (camera power remains on).
+ A grid can be displayed. With the [6 Live View/Movie func. set.] 
+menu’s [Grid display], you can set either [Grid 1 ] or [Grid 2 ].
+ With the [6 Live View/Movie func. set.] menu’s [Metering timer], you 
+can change how long the AE lock’s setting is to be retained.
+ When you take a picture with flash, the shutter will sound like it took two 
+shots. However, only one shot will be taken.
+ With the stereo video cable (provided) or HDMI cable (sold separately), 
+you can display the Live View image on a TV (p.139-140).
+ You can also use a remote controller (sold separately, p.102) for Live 
+View shooting.
+COPY
+
+112
+ShootingN
+ Each time you press the <B> button, the information display will change.
+* The display will show only the settings currently applied.
+About the Information Display
+Histogram 
+Shots remaining
+Exposure level indicator/AEB rangeAperture
+Shutter speed
+AE lock
+Magnifying frame
+AF point (Quick mode)
+Movie shooting remaining time/Elapsed time
+Picture Style
+Battery check
+Flash-ready
+Drive mode
+Screen settings
+· h: Stills display
+· g: Exposure simulation
+· e: Movie display
+White balance
+Image-recording quality
+Flash exposure compensation
+AF mode
+· : Quick mode
+· : Live mode
+· : Live face detection mode
+ISO speedMovie recording size
+Highlight tone priority
+AEB
+FEB
+About the <E> icon
+ If Live View shooting is done under direct sunlight or other hot 
+environments, the <E> icon (warning for the camera’s high internal 
+temperature) may appear on the screen. If Live View shooting continues 
+with a high internal temperature, it may degrade image quality. You 
+should therefore stop Live View shooting if the warning icon appears.
+ If you use a hard disk-type card and continue Live View shooting while 
+the <E> warning icon is displayed, the camera’s internal temperature 
+will further increase and the Live View shooting will then stop 
+automatically. Live View shooting will be disabled until the camera’s 
+internal temperature decreases.
+ The histogram and <g> icon are displayed when [Exposure 
+simulation] has been set as explained in step 5 on page 108. If <g> 
+is blinking, it indicates that the Live View image is not being displayed at 
+the suitable brightness due to low or bright light conditions. However, the 
+captured image will reflect the exposure setting.
+ If flash is used or bulb is set, the <g> icon and histogram will be 
+grayed out (for your reference). The histogram might not be properly 
+displayed in low light or bright light conditions.
+COPY
+
+113
+The AF modes available are [Quick mode], [Live mode] (p.115), and 
+[Liveu mode] (face detection) (p.116).
+If you want to achieve precise focusing, set the lens focus mode switch 
+to <MF>, magnify the image, and focus manually (p.119).
+Select the AF mode.
+ Under [6 Live View/Movie func. 
+set.], select [AF mode].
+ While the Live View image is 
+displayed, if you press the 
+<o > button, you can also 
+select the AF mode with the <6> 
+dial.
+The dedicated AF sensor is used to focus in the One-Shot AF mode 
+(p.79), using the same AF method as with viewfinder shooting.
+Although you can focus the desired area quickly, the Live View image 
+will be interrupted momentarily during the AF operation.
+1 Display the Live View image. Press the <A> button.
+X The Live View image will appear on 
+the LCD monitor.
+ The small box in the screen is the AF 
+point, and the larger box is the 
+magnifying frame.
+Using AF to FocusN
+Selecting the AF Mode
+Quick Mode: 
+AF point
+Magnifying frame
+COPY
+
+114
+Using AF to FocusN
+2 Select the AF point. Press the <o > button, then 
+use <9> to select the AF point.
+ If you keep tilting <9> in the same 
+direction, it will toggle between 
+manual and automatic AF point 
+selection.
+3 Focus the subject. Aim the AF point over the subject, 
+and hold down the <p> button.
+X The Live View image will turn off, the 
+reflex mirror will go back down, and 
+AF will be executed.
+X When focus is achieved, the beeper 
+will sound and the Live View image 
+will reappear.
+X The AF point used to focus will be 
+displayed in red.
+4 Take the picture. Check the focus and exposure, then 
+press the shutter button to take the 
+picture (p.110).
+ You cannot take a picture during autofocusing. Take the picture only 
+while the Live View image is displayed.
+ Autofocus will not work with the release button on Remote Switch 
+RS-80N3 and Timer Remote Controller TC-80N3 (both sold separately).
+COPY
+
+115
+Using AF to FocusN
+The image sensor is used to focus. Although AF is possible with the 
+Live View image displayed, the AF operation will take longer than 
+with Quick mode. Also, achieving focus may be more difficult than with 
+Quick mode.
+1 Display the Live View image. Press the <A> button.
+X The Live View image will appear on 
+the LCD monitor.
+X The AF point < > will appear.
+2 Move the AF point. Use <9> to move the AF point to 
+where you want to focus (it cannot go 
+to the edges of the picture).
+ If you press <9> straight down, the 
+AF point will return to the image 
+center.
+3 Focus the subject. Aim the AF point over the subject, 
+and hold down the <p> button.
+X When focus is achieved, the AF point 
+will turn green and the beeper will 
+sound.
+X If focus is not achieved, the AF point 
+will turn red.
+4 Take the picture. Check the focus and exposure, then 
+press the shutter button to take the 
+picture (p.110).
+Live Mode: 
+AF point
+COPY
+
+116
+Using AF to FocusN
+With the same AF method as the Live mode, the human face is 
+detected and focused. Have the target person face the camera.
+1 Display the Live View image. Press the <A> button.
+X The Live View image will appear on 
+the LCD monitor.
+ When a face is detected, the <p> 
+frame will appear over the face to be 
+focused.
+ If multiple faces are detected, < > will 
+be displayed. Use the <9> to move the 
+< > frame over the target face.
+2 Focus the subject. Press the <p> button to focus 
+the face covered by the <p> frame.
+X When focus is achieved, the AF point will 
+turn green and the beeper will sound.
+X If focus is not achieved, the AF point 
+will turn red.
+ If a face cannot be detected, the < > AF 
+point will be displayed and the center AF 
+point will be used for focusing.
+3 Take the picture. Check the focus and exposure, then 
+press the shutter button to take the 
+picture (p.110).
+Liveu (Face Detection) Mode: 
+COPY
+
+117
+Using AF to FocusN
+ If the focus is way off, face detection will not be possible. If the lens 
+enables manual focusing even while the lens focus switch is set to 
+<f>, turn the focusing ring to attain rough focus. The face will then be 
+detected and <p> will be displayed.
+ An object other than a human face might be detected as a face.
+ Face detection will not work if the face is very small or large in the 
+picture, too bright or too dark, titled horizontally or diagonally, or partially 
+hidden.
+ The <p> focusing frame might cover only part of the face.
+ When you press <9> straight down, it will switch to the Live mode 
+(p.115). You can tilt the <9> to switch to another AF point. If you press 
+<9> straight down again, it will switch back to Liveu (face detection) 
+mode.
+ Since AF is not possible with a face detected near the edge of the 
+picture, the <p> will be grayed out. Then if you press the <p> 
+button, the center AF point < > will be used to focus.
+Live Mode and Liveu (Face Detection) Mode Notes
+AF operation
+ Focusing will take slightly longer.
+ Even when focus has been achieved, pressing the <p> button will 
+focus again.
+ The image brightness may change during and after the AF operation.
+ If the image flickers, making it difficult to focus, stop and resume the Live 
+View shooting under the actual light source to be used. Check that the 
+flickering has stopped, then autofocus.
+ If you press the <u> button in the Live mode, the AF point area will be 
+magnified. If it is difficult to focus in the magnified view, return to the 
+normal view and autofocus. Note that the AF speed may differ between 
+the normal and magnified views.
+ If you autofocus in the Live mode’s normal view and then magnify the 
+image, the focus might be off.
+ In the Liveu mode, pressing the <u> button will not magnify the image.
+COPY
+
+118
+Using AF to FocusN
+Live Mode and Liveu (Face Detection) Mode Notes
+Shooting conditions which can make focusing difficult:
+ Low-contrast subjects such as the blue sky and solid-color, flat surfaces.
+ Subjects in low light.
+ Stripes and other patterns where there is contrast only in the horizontal 
+direction.
+ Under a light source whose brightness, color, or pattern keeps changing.
+ Night scenes or points of light.
+ Under fluorescent lighting or when the image flickers.
+ Extremely small subjects.
+ Subjects at the edge of the picture.
+ Subjects strongly reflecting light.
+ The AF point covers both a near and faraway subject (such as an animal 
+in a cage).
+ Subjects which keep moving within the AF point and cannot keep still 
+due to camera shake or subject blur.
+ A subject approaching or moving away from the camera.
+ Autofocusing while the subject is way out of focus.
+ Soft focus effect is applied with a soft focus lens.
+ A special effects filter is used.
+ In the Live mode or Liveu (face detection) mode, if you want to shoot a 
+peripheral subject and the target subject is not in focus, aim the center 
+AF point over the subject to focus, then take the picture.
+ The external Speedlite will not emit the AF-assist beam.
+ Autofocus will not work with the release button on Remote Switch RS80N3 and Timer Remote Controller TC-80N3 (both sold separately).
+COPY
+
+119
+You can magnify the image and focus precisely manually.
+1 Set the lens focus mode switch to <MF>.
+ Turn the lens focusing ring to focus 
+roughly.
+2 Moving the magnifying frame. Use <9> to move the magnifying 
+frame to the position where you want 
+to focus.
+ If you press <9> straight down, the 
+magnifying frame will return to the 
+image center.
+3 Magnify the image. Press the <u> button.
+X The image within the magnifying 
+frame will be magnified.
+ Each time you press the <u> button, 
+the view will change as follows:
+4 Focus manually. While looking at the magnified image, 
+turn the lens focusing ring to focus.
+ After achieving focus, press the <u> 
+button to return to the normal view.
+5 Take the picture. Check the focus and exposure, then 
+press the shutter button to take the 
+picture (p.110).
+Focusing ManuallyN
+Magnifying frame
+AE lock
+Magnified area position
+Magnification
+5x 10x Normal view
+COPY
+
+120
+Below are instructions for setting the [6 
+Live View/Movie func. set.] menu’s [Silent 
+shoot.].
+ Mode 1
+The shooting operation noise is quieter than with normal shooting 
+through the viewfinder. When you set the drive mode to <i>, you 
+can shoot continuously at approx. 3 fps.
+ Mode 2
+When you press the shutter button completely, only one shot will be 
+taken. While you keep holding down the shutter button, the camera 
+operation will be suspended. Then when you return to the shutter 
+button’s halfway position, the camera operation will resume. The 
+shooting noise is thereby minimized. Even if the current drive mode 
+is set to continuous, only a single shot will be taken.
+ Disable
+If you use a TS-E lens to make vertical shift movements or use an 
+Extension Tube, be sure to set this to [Disable]. Setting it to [Mode 
+1] or [Mode 2] will result in incorrect or irregular exposures.
+When you press the shutter button completely, the shutter will sound 
+like it took two shots. However, only one shot will be taken.
+Silent ShootingN
+ If you use flash, the [Disable] operation will take effect even if you had 
+set it to [Mode 1] or [Mode 2].
+ When using a non-Canon flash unit, set it to [Disable]. The flash will not 
+fire if it is set to [Mode 1] or [Mode 2].
+ If [Mode 2] is set and you use a remote controller (p.102) to shoot, the 
+operation will be the same as with [Mode 1].
+COPY

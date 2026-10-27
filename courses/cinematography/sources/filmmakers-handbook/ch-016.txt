@@ -1,0 +1,567 @@
+CHAPTER 11
+
+Sound Recording Techniques
+
+This chapter is about methods of recording audio for video and film. See Chapter 10 for discussion of audio recording equipment.
+
+PREPARING FOR A SHOOT
+
+GATHERING GEAR
+
+Lists of useful audio equipment for a video or film shoot appear on p. 367. Here are some considerations in choosing audio equipment.
+
+Recorders and Formats
+
+When shooting video, the choice of camera is usually driven by picture needs, but it clearly has an impact on sound as well. In selecting a system, you must consider: How many audio channels do you need? Does the camcorder allow manual adjustment of audio levels? Can you use external mics? Are there professional mic connectors (such as XLR) or will you need adapters? If you’re working with a sound recordist, will you need a mic mixer so he or she can control levels? Does the camera record audio in a highly compressed format or with a low sample rate that might compromise quality?
+
+For film or double-system video shoots, the recordist has more freedom in choosing a recorder. This decision should be made on the basis of what features are needed, the cost, and how postproduction will be done. Many of the questions mentioned above apply here as well. How many channels do you need? Can you easily input professional-type mics? Do you need timecode? What digital format will you use? How will files be exported from the recorder for archive and postproduction? Do you have enough storage media? How will the deck be powered in the field? Do you need a shoulder case? Are the controls easily readable in daylight? Sometimes when a recorder is too small, or has badly arranged controls, it may be hard to use in high-pressure situations.
+
+Spare batteries and an AC power connection for the recorder should be kept on hand.
+
+Fig. 11-1. For documentary and handheld shooting, a small shoulder pouch—like this one by Portabrace—can be used to carry spare batteries, filters, memory cards, and accessories. Shown here, two wireless receivers are connected by cables to the camera, but sit in the pouch to keep the weight off the camera.
+
+Microphones
+
+Unless you can carry several mics, your choice of a primary microphone is crucial. Many recordists prefer a short shotgun, which is directional enough to exclude some background sound but has a wide enough pickup pattern for general uses. This type of mic is good for unpredictable documentary or dramatic scenes. The Sennheiser ME 66 and the Røde NTG2 are lower-cost versions; the Sennheiser MKH 60 is more expensive. When shooting alone, these can also be mounted on a camera.
+
+Having a cardioid mic, which is less directional, can be useful for dramatic scenes with more than one character speaking, and for documentary interviews or scenes in relatively quiet locations. For noisy locations, a long shotgun mic, like the Sennheiser MKH 8070, can be useful to help isolate voices when you can’t get close to the subject (a sporting event, a news conference). Long shotgun mics tend to be big and awkward, and the narrow pickup pattern is often too directional for recording in tight quarters. In documentary work, subjects can find them intimidating.
+
+Modular microphone systems allow you to use one power supply with several heads of varying directionality (omni, cardioid, and supercardioid; see Fig. 10-18). This provides a great deal of flexibility. There are modular systems at both ends of the price range.
+
+Always try to have at least one backup microphone and cable as insurance. If the second microphone is more directional or less directional than your primary mic, you’ll have more flexibility. Lavalier mics (see p. 426) are very small, pack easily, and can be used for general recording in some situations.
+
+For dramatic work and any kind of controlled shooting, a microphone boom is essential to allow the mic to be positioned close to the sound source while keeping the person holding the mic out of the shot (see Figs. 1-28 and 9-27). Typically, recordists carry extendable booms that can be adjusted for each shot. Studio mic booms are mounted on a pedestal to relieve the boom person of the considerable fatigue that results from holding a boom all day. For smaller, mobile crews, borrow a stand from a lighting kit and get a bracket so you can mount the boom on it; this is particularly useful for situations such as sit-down interviews or scenes in a drama in which actors aren’t moving.
+
+In some documentary scenes, the boom may be too big or intrusive. The mic can be handheld (with or without a pistol grip shock mount) for more intimate situations. A short table stand for the mic can be handy at times.
+
+Headphones
+
+The choice of headphones is also important. For controlled shooting situations, it makes sense to get headphones that have good fidelity and closed ear pads that fit around the ear. These block any sounds coming directly to the recordist without having gone through the microphone first, so you can be sure of the recording without being misled by other sounds around you. Open headphones are lightweight and more comfortable. They usually rest on top of the ear (supra-aural). With these, you may not hear some defects that will be apparent on a better sound system. Sometimes sound leaking out of these headphones may be picked up by the mic.
+
+Fig. 11-2. (upper left) Headphones with closed ear pads. (upper right) Headphones with open ear pads. (bottom) Mono earpiece shown with mono connector; stereo-to-mono adapter (so you can hear both channels from the camcorder); and right-angle adapter (so the plug doesn’t stick out from the camcorder).
+
+One problem with headphones that fit around the ear for unstaged documentary filming, especially when a directional microphone is used, is that the recordist can hear only sounds he or she expects to hear; if someone speaks outside the mic’s range of sensitivity, the recordist will not hear or react to it. Some documentary recordists just put the headphone over one ear so they can better relate to people and react to events.
+
+If a boom person is handling the microphone separately from the recordist, that person should have his or her own headphone feed.
+
+Some camcorders have a small speaker at the operator’s ear. All cameras can be used with a wired earpiece that goes in one ear. These are not intrusive and they allow you to respond to what’s going on around you. They aren’t great for close monitoring of the sound (it’s easy to be fooled by what you hear in the other ear that’s hearing the scene without the earpiece), but you’ll hear major problems like breakup or loss of audio.
+
+Stereo headphones should be used with a mono adapter when you are recording only one channel of audio so that you can hear it in both ears. Some headphone outputs can be switched to mono for that purpose. A mono earpiece may need a stereo adapter if you’re recording stereo so you can hear both channels.
+
+Other Equipment
+
+A typical professional video package includes a field mixer (see p. 430). Get a breakaway cable with a headphone return line in it (see Fig. 11-3). This allows the recordist to monitor the sound coming from the camcorder (as a check that the signal is really there), and it breaks apart easily so the camera and sound recordist can separate quickly.
+
+One or more wireless microphone systems (see p. 428) will greatly increase your mobility and flexibility for both film and video shoots.
+
+Fig. 11-3. Breakaway cable. The part of the cable on the right plugs into the mic mixer’s output. The part on the left is the pigtail that plugs into the camera’s input. In the middle is a breakaway link for quickly disconnecting the camera from the mixer when needed. Also included is a headphone feed from the camera to the mixer.
+
+Recordist’s Tools and Supplies
+
+Having a few tools at hand can mean the difference between easily finishing a shoot and canceling it. After looking online or consulting a technician, even inexperienced persons can often make adjustments or isolate what needs to be repaired.
+
+Permanent felt-tip marker (e.g., Sharpie)
+
+Spare batteries for recorder and mic
+
+Sound report sheets or log
+
+Flash memory cards
+
+CDs or DVDs for backup
+
+External hard drive
+
+Small roll of gaffer’s tape
+
+For maintenance and repairs:
+
+Head-cleaning cassette (for videotape or DAT)
+
+Swiss Army knife with scissors
+
+Screwdriver handle and detachable blades: two sets, medium and jeweler’s size
+
+Small needle-nose pliers with wire-cutting edge
+
+Small volt/ohm meter (“multitester”)
+
+Battery-operated soldering iron, rosin-core solder
+
+Short length of light wire
+
+Preparing the Recorder
+
+Equipment should be checked thoroughly before using. This is especially important if it has been transported, was used by someone else, or came from the rental house. School equipment is often more likely to be malfunctioning than working properly. Many recordists check their equipment whenever they arrive at a new location for shooting. The preparation you do depends a lot on the particular technology you’re using. If anything in this list is unfamiliar, look elsewhere in this chapter and in Chapter 10.
+
+Check the batteries. If possible this should be done with the machine running in “record” position to see how the batteries read under load. Many rechargeable batteries will read fairly high on the meter until they are ready to give out, then the voltage drops sharply, so be prepared if the reading seems at all low. See Batteries and Power Supplies, p. 127, for more on managing batteries.
+
+Check the settings. There are numerous settings; here are a few to check: Is the limiter or AGC on or off? If recording digitally, what about sample rate, bit depth, file formats? Scan through physical switches and menu selections. Check the manual if you’re unsure about any settings.
+
+Timecode and/or pilot. For a timecode-capable recorder, make sure the timecode can be properly recorded and played back. On analog sync recorders, check that the pilot signal is actually being recorded on tape.
+
+Microphones. Do you have cables? Windscreen? Various clips for lavs? Are the recorder inputs set correctly for mic level (and phantom power if needed)? Wireless mics should be checked for clear radio channels (without interference) and fresh batteries.
+
+Clean the heads. This should be done as a matter of course for analog recorders (see p. 419). For video cameras that record to tape, or DAT machines, it may not be necessary unless there’s evidence of a problem. For most digital recorders, this does not apply.
+
+Test the audio. Do a test recording and listen to it carefully for defects. Check the meter. Make sure you can move the level control without causing static. If there is static, moving the control rapidly back and forth a few times can help. Set the headphone level adjustment, if there is one. Gently move the recorder, cable, and microphone while listening through headphones to be sure there are no loose connections. This should not produce noise or static.
+
+If you can’t get the recorder to work properly, systematically isolate various components. Try a different mic or mic cable; plug the mic into a different input; make sure the recorder is not in “pause”; check the AC/battery power switch (if there is one); try running the recorder on AC power; try cleaning the battery contacts with an eraser or grit-free abrasive; and so on.
+
+Before going out to shoot, coil up excess cabling and fasten with Velcro cable ties (see Fig. 11-4). Make the recorder and/or mixer package as neat and compact as possible. It’s much easier to concentrate on recording if you can move without getting tangled up. For handheld work, carry the recorder on the side of you that allows easiest access to the controls and the meter, and put some padding under the strap to spread the load. Wear soft-soled shoes and clothing that doesn’t rustle.
+
+Recordists on feature films often use a sound cart as a platform for mounting the recorder, mixer, and accessories that can be wheeled between setups (see Fig. 1-41).
+
+Fig. 11-4. Cable tie. This Velcro fastener can be used to keep coiled cables under control. (Fletcher Chicago/The Rip Tie Company)
+
+THE SOUND RECORDIST’S ROLE
+
+The sound recordist is responsible for placing the microphones (although someone else may hold them), operating the recorder or mixer, and making sure that the quality of the recording is good. For staged (controlled) work, the recordist, also known as the production sound mixer, can usually experiment with various mic positions and monitor the level of a rehearsal before shooting begins.
+
+On video shoots, the recordist usually does not control the camcorder, but he or she must ensure that the sound actually recorded in the camera is acceptable. When possible, this means monitoring from the camera with headphones and/or doing periodic playback to check the recording.
+
+For staged work, there is a standard protocol for starting each take; see Shooting a Take, p. 370.
+
+For unstaged documentary shooting, the recordist should be alert and attentive to the action and not be glued to the meters. With time, your judgment will make you less dependent on the meter. Recordists should be respectful of actors or subjects when placing body mics. Some recordists bring a newspaper to the set and pretty much tune out when they’re not recording. Try not to “disappear” on set. Staying alert will help you and others do their jobs. On some sets, people in the sound department are treated like second-class citizens. The recordist may be forced to find mic positions only after all the lighting and blocking is done, making his job harder. He may also be blamed for airplanes flying over and the dog barking next door.
+
+Communication
+
+On all productions, crew members must communicate with each other. The camera operator must be able to signal to the recordist (or boom person) that he is in the frame, and the recordist must be able to indicate his need to change position. Sometimes in documentary work, only the recordist can hear whether a scene is worthy of being filmed. For all of these reasons, the filmmakers should have a set of signals with which to communicate silently. If these are hand signals, they should be sent with minimal commotion, so as not to disturb actors or documentary subjects. This requires that crew members watch each other as well as the action. The recordist, or whoever is operating the microphone, should try not to position himself on the camera operator’s blind side (which is usually the right), and the camera operator should frequently open her other eye so that she can see the recordist while shooting. This is most important when filming improvised or unstaged action. After a crew works together for a while they begin to predict each other’s needs, and eye contact precludes the need for hand signals.
+
+If circumstances are such that a good-quality recording can’t be made, the recordist should say so. If an airplane makes a take unusable, tell the director when the take is over (some directors want you to signal the problem during the take; smart directors will be looking at you as soon as they hear the plane). The director must decide whether to try to salvage a take with ADR or other postproduction cures (hence the solution for every conceivable production problem: “We’ll fix it in the mix!”).
+
+Labeling and Managing Media
+
+When recording to videotape, the tape box should be clearly labeled with the production title, production company, tape number, date, frame rate, timecode type (drop or nondrop), reference tone level, and any special track assignments (such as “Lavalier Ch. 1, Boom Mic Ch. 2”).
+
+When recording to file, either in the camera or using a separate audio recorder, this information can be noted in the log (see below), spoken into the microphone and recorded, or sometimes included in metadata in the file. Additional information may include sample rate and bit depth (which is often 48 kHz at 16 bits).
+
+When recording audio to file with a flash memory or hard drive system, take care in organizing file names; keeping track of drives, memory cards, or optical discs; making backups; and all the other details that will prevent the disaster of losing irreplaceable recordings due to carelessness or a corrupted file. See Managing Data on the Shoot, p. 117.
+
+If recording to tape, develop a system to keep track of which tapes have been recorded and which are fresh (if you reuse tape, it is especially easy to get confused). Cassettes have little record-inhibit tabs that should be pushed in after recording to prevent accidental rerecording.
+
+A reference tone is traditionally recorded at the head of every videotape, audiotape, or other recording, though with digital it is not as useful. This is discussed on p. 452.
+
+Logging
+
+For a video shoot, someone may be assigned to keep logs of all the takes (see p. 376). On a double-system digital or film shoot, the sound recordist often keeps a sound report, which is a paper or digital log of each take, noting the length, any problems, and whether the director considers the take good or bad (similar to the camera report in Fig. 9-36). On some productions, a sound take number is given each time you record audio (and is included on the slate). This identifies each piece of sync and wild sound. Since sound take numbers advance chronologically throughout the production (unlike scene numbers), in conjunction with the log, they aid in locating pieces of sound and picture. When you’re recording to file using a hard drive or flash memory recorder, the system may automatically assign a take or event number to the file name or user bits.
+
+Some NLEs can read the metadata information in a Broadcast Wave file, including scene/take, time of recording, and other info. There are also apps that can automatically generate a sound report from BWF files.
+
+In unstaged documentary work, there’s no time for meticulous log keeping. Instead, if using a separate audio recorder, the soundperson can record a quick message after every shot or two, describing what was filmed, if there were problems with the slate, and so on; this can save a great deal of time in the editing room. It’s a good idea to keep an informal log, listing the contents of each sound roll or group of files.
+
+Before recording wild sound (sound recorded without picture) identify it as such by speaking into the microphone. In some cases you may want to record wild sound to a separate tape or media, especially if a telecine transfer will be done.
+
+RECORDING TECHNIQUE
+
+The general objective in sound recording is to place the microphone close enough to the sound source to produce a loud and clear sound track. A good track should be easily intelligible; lack strongly competing background sounds, unpleasant echo, or distortion; and be reasonably faithful to the tone quality of the original sound. Once a good recording is in hand, you have a great deal of freedom to alter the character of the sound later as you choose.
+
+Placing the Microphone
+
+The ideal placement for many mics is between one and three feet in front of the person speaking, slightly above or below the level of the mouth. If the microphone is directly in line with the mouth, it may pick up popping sounds from the person breathing into it. A windscreen helps. If a directional mic is too close, it will bring out an unnatural bass tone quality. This is the proximity effect, which results from the particular way low frequencies interact with directional microphones. If a microphone is too far from the subject, background sound (ambient sound) often competes with or drowns out the speaker’s voice. Also, undesirable acoustic qualities of the recording space, such as echo and boominess, become more noticeable (see below).
+
+The microphone’s position is almost always compromised by the camera’s needs. It’s important, however, that the sound source be solidly within the pickup pattern of the mic. Generally a boom mic will be brought in from just above the camera’s frame, as close as possible without getting in the shot (see Fig. 8-10). The boom operator should practice during rehearsals. Be attentive to mic shadows—you may need to move away from a light to avoid them. Ask the camera operator for a frame line before the shot begins so you know how far in you can go.
+
+Keep in mind that sound diminishes with distance from the sound source. Sound pressure is inversely proportional to the distance; thus, moving twice as far from the sound source diminishes the sound to half of its previous level. If the recording level of the sound seems low, especially with respect to louder background sounds, you must get closer to the sound source and not attempt to correct the problem by turning the level way up on the recorder.
+
+Many beginners think the recordist should try to capture all sounds in a general fashion, standing back from, say, a party, a conversation, or a street scene to record all the sounds together. The result of such recordings is often an indistinct blur (which indeed can be useful in some scenes). However, usually the recordist should instead select individual sounds and get close enough to record them clearly. If an overall mix of sounds is desired, it may be necessary to put together several distinct tracks later.
+
+For documentary filming in noisy conditions, you may need to get closer to the subject than you feel comfortable doing. A few experiences with scenes ruined by bad sound will help overcome shyness. Another approach to a noisy situation is to use a lavalier mic on the subject with a wireless transmitter to get the mic in close while allowing the recordist to stand back.
+
+Shooting a group of people at a dinner table or conference table can be difficult. A boom mic is hard to manage if the conversation is unpredictable (and can be really distracting if it swings around wildly trying to catch everyone who talks; using two booms can help). Sometimes you can place a couple of omni mics or lavs in the center of the table and go wireless to the camera or recorder. Or try using a boundary (PZM) mic (see Fig. 10-19). Some lavs have a bracket so they can be taped facedown on a surface as a kind of boundary mic. Be careful about the sound of objects being put down on the table. You may need to keep the mic off the table surface or give people a cushion—say, a placemat for cups and glasses—to soften the noise of putting things on the table.
+
+For placing multiple microphones, see p. 459.
+
+SOUND PERSPECTIVE. Whenever you put a mic very close to the sound source it minimizes both background sounds and the natural reverberation of sound reflecting in the recording space. In some situations a close mic sounds artificial. For example, if the camera is filming a distant long shot and the mic is very close, the recording will lack the proper sound perspective. Although distorted sound perspective is found regularly in movies, you may not like it. To correct this, the recordist could move farther back, but at the risk of sacrificing clarity. Alternatively, during the sound mix you could lower the level and maybe use equalization and a little reverb to give a sense of distance to the sound (see Chapter 15). Similarly, any missing ambient sounds can be added later by mixing in additional tracks. These kinds of effects are usually handled better under the controlled conditions of sound editing than they are while making a live recording. You can always add background sounds, distance effects, and equalization during sound editing and mixing, but nothing can make a noisy, echoing, or weak recording sound pleasing and clear.
+
+Background Sound
+
+Ambient sounds are the background sounds that surround any recording space. They can come from birds, traffic, waves, refrigerators, fluorescent lights, stereos, and the like. The best way to minimize their effect, when possible, is to eliminate them entirely. Don’t shoot the birds, but do turn off refrigerators and air conditioners, and close windows facing out to the street.1 When possible, locations should be chosen with ambient noise in mind. Try not to set up shoots underneath an airport flight path or by a busy highway. Sometimes you can get a permit to block off a street while you are shooting; otherwise, plan to shoot at a quiet time of day. Heavy sound blankets (furniture packing pads) can be used to dampen noisy windows or air vents. These can be clipped and hung on grip stands to make a quieter space near the actors or subject.
+
+Fig. 11-5. Use a directional mic’s pickup pattern to your advantage. (top) When filming near a noise source (such as the street) if your mic is pointing at both the subject and the noise, you’ll pick them both up on the mic. (bottom) If you reposition so that the mic is pointing away from the noise source, you’ll minimize noise and pick up your subject more clearly. In any situation, you want the mic as close to the subject as possible (within a few feet); this is especially important in a noisy setting. (Steven Ascher)
+
+Ideally, audible background sounds should remain consistent throughout a scene. Consistency is important for editing, since much condensing and rearranging of the movie’s chronology is done at that time. An editor needs the freedom to juxtapose any two shots without worrying that the background tone may not match. The audience will tune out the gentle ambience of an electric fan, but they’ll be aware of it if it pops in and out in every other shot. If you begin shooting a scene with the window closed, don’t open it during the scene. In situations where you can’t control some background sound (a neighbor’s auto, for example), try to record some of the offending sound alone in case during editing it’s needed to cover sections of the scene that lack it.
+
+Make every effort to turn off or lower any music that is audible at the filming location. Discontinuous music is a glaring sign that the chronology of shots has been changed. Recording music may also create copyright problems (see Chapter 17). If ambient music can’t be eliminated, or if it is part of the scene you are filming, plan your editing around it when you shoot.
+
+When shooting in a noisy location, there are a number of things you can do. First, use a directional mic and get the mic as close to the source as possible. Always keep its pickup pattern in mind (see Figs. 10-17 and 10-20). Try not to let the subject come between the mic and a major noise source, like the street. To mic someone on the sidewalk, don’t stand with your back to the buildings where you will pick up your subject and the street noise equally (see Fig. 11-5). With a supercardioid microphone, if you can point the mic upward from below (or down from above), you can minimize street-level noise, including sound reflected off buildings.
+
+Lavalier mics are often useful for noisy settings. These are especially effective for a single subject. Sometimes you can even mic two people near each other with one lav (you may want to place the mic a little lower than normal on the person wearing the mic to try to even out the two voices). Lavs can also be hidden, for example, in a piece of furniture.
+
+ROOM TONE. Record 20 seconds of room tone at every location. Have everyone be quiet and stop moving while you record. Even if nothing in particular is audible, every site has its distinct room tone, which is very different from the sound of absolute silence. Room tone—an expression that refers to outdoor sound as well—is used in editing to bridge gaps in the sound track, providing a consistent background. When shooting video with a boom mic, if the camera is pointed at the mic while you’re recording, it’s easier to find the tone when editing.
+
+Acoustics of the Recording Space
+
+The size, shape, and nature of any location affects the way sound travels through it. An empty room with hard, smooth walls is acoustically live, reflecting sound and causing some echoing. Bathrooms are often very acoustically live; sound may reverberate in them for a second or more before dying out (try singing in the shower). A room with carpets, furniture, and irregular walls is acoustically dead; sound is absorbed or dispersed irregularly by the surfaces. Wide-open outdoor spaces are often extremely dead, because they lack surfaces to reflect the sound. Test the liveness of a recording space by clapping your hands once or giving a short whistle and listening to the way the sound dies out.
+
+The acoustics of a location affect the clarity of the sound track and the loudness of camera noise. It’s hard to hear clearly in an overly live room (a boomy location), as high frequencies are lost and rumbly low frequencies predominate. If you’ve ever tried to talk in a tunnel, you know what it does to the intelligibility of voices.
+
+You can improve an overly reverberant location in a number of ways. Use a directional mic and move closer to the sound source. Deaden a room by closing curtains or by hanging sound blankets on stands and spreading them on the floor. Avoid positioning a microphone near a smooth wall, where it will pick up both direct and reflected sound; echo may be increased or sound waves may cancel each other, weakening the microphone’s response. This may also occur when a mic is mounted on a short table stand over a smooth, hard surface. Avoid placing the mic in a corner or equidistant from two or more walls, where reflected sound may cancel or echo. Sometimes boominess can be reduced by filtering out low-frequency sounds below about 100 Hz (see Bass Filters, p. 459).
+
+If a space is too live, even a quiet camera’s noise will sound loud. When you point the mic away from the camera, you often are aiming at reflected sound bouncing off a wall. When this happens, deaden the space with blankets, move closer to the subject, or use the pickup pattern of the mic to cancel out both direct and reflected camera noise. Put a film camera in a barney if needed.
+
+SETTING THE RECORDING LEVEL
+
+One of the recordist’s key jobs is controlling the volume of the recording. The loudness of sound as it passes through a camera or audio recorder is called its level or gain; this is adjusted with a control labeled “volume,” “gain,” or “level.” This control is sometimes called a pot (short for potentiometer). All prosumer and professional cameras and audio recorders have a manual control to set the recording level (some consumer cameras only have auto control). In a typical recording situation, you’re controlling the level of one or more microphones.
+
+Setting the level isn’t hard. In the simplest terms, you want to record sound as loud as you can without it being too loud. This provides the best dynamic range and keeps the sound signal as far from the noise floor as possible. In film and video production, sound levels are always readjusted during editing and mixing, so even if you record a sound loudly on the shoot, you can always make it quiet later if that’s called for (see Fig. 11-11).
+
+Setting the level too high is sometimes called overmodulating, overrecording, “going over,” or “recording too hot.” The opposite is underrecording or “recording too low.”
+
+To know how to handle levels, you need to know a bit about the nature of sound, what meters do, and the workings of your digital or analog recorder. Please see Sound, p. 402, and How Audio Is Recorded, p. 405, before reading this section.
+
+Understanding Sound Level
+
+Figure 11-6 shows a simplified representation of the level of a sound signal over time. Notice that the level is always changing, with peaks and valleys. The upper black line shows the highest limit of the peaks. Peaks often come and go very quickly, so the ear may not fully perceive their loudness. However, we are very concerned with how high the peaks are because digital recording equipment can’t tolerate peaks that are too high.
+
+The lower black line represents the average level. This corresponds most to how our ears perceive the loudness of sound. The relationship of the average level to the peak level varies with the type of sound. With a “normal” male speaking voice, the peaks might be 8 to 10 dB higher than the average. With short, percussive sounds like a hammer, jangling keys, or a chirping bird, the peaks might be up to 50 dB higher than the average—a much bigger ratio.2
+
+Fig. 11-6. Sound levels over time. Typical sounds contain volume peaks that are higher than the average level (how much higher depends on the sound).
+
+When recording sound, we need some way to measure or meter the sound level.
+
+Most digital systems have peak-reading meters. The peak meter responds almost instantaneously to quick surges in volume (called transients) and provides a reading of the maximum sound level, which helps ensure that you’re not recording too loudly.
+
+Peak meters come in various forms, including on-screen displays (see Fig. 11-7) and the modulometer found on a Nagra recorder. The PPM (peak program meter) widely used in Europe responds to transients faster than a VU meter (see below) but slower than a true peak reader. Many audio peaks come and go so fast that you can’t actually see them on a meter. Peak meters may have a peak hold function, to let the meter linger a bit at the highest peaks so you can read them.3
+
+Fig. 11-7. Digital peak-reading meter. You never want the level to reach 0 dB. When the dot to the right of 0 lights up, the sound will be clipped. Indicators below the meter show that Input 1 is going to both recording channels, the mic is being fed +48 volt phantom power, and the camera is recording PCM uncompressed audio.
+
+The drawback of peak meters is that the level shown on the meter may not correspond well to perceived loudness. For example, the clink of two wineglasses in a toast might peak very high on the meter but sound very quiet.
+
+To get a better reading of how loud something sounds, you can use a VU (volume unit) meter (see Fig. 11-8). The VU meter is the classic meter for analog equipment and if a meter has a needle and is not identified otherwise, it’s probably a VU meter (there are also electronic versions with LED lights). VU meters read the average sound level. They give an accurate reading of steady sounds that don’t have sharp peaks (like steady reference tones or a violin playing a long, slow note). However, they are designed to respond relatively slowly to changes in sound level (you can think of the needle as being fairly “heavy”), which means that quick transients from sounds like the aforementioned hammer or keys can pass by without deflecting the meter much (see Fig. 11-9). This is the problem with VU meters—they don’t give a good reading of how high the peaks are.
+
+Fig. 11-8. VU meter. Some VU meters use LED lights or a digital display instead of a needle. (Carol Keller)
+
+Peak and average: keep these two concepts in mind when you record sound. With digital recording in the field, we’re primarily concerned with peaks because a signal with overly high peaks causes recording problems (as described below). But when we want to know how loud things sound, peak meters aren’t as useful as VU meters and neither is as good as the newer digital loudness meters that are primarily used in postproduction (see p. 662). Meters can help you if used correctly, but in the end, your ears tell you more about loudness than a meter can.
+
+For more on the relationship of levels and how they sound, see Fig. 15-14.
+
+Fig. 11-9. Peak level and the VU meter. The gray area represents the sound level of a drumbeat, with its short, percussive peaks. The black line is the response of a VU meter. Note that the VU meter lags behind the actual spikes in level, and it doesn’t rise as high or drop as low as the quick peaks and valleys. The VU meter indicates an average level that gives a good sense of how loud something sounds but is often significantly lower than the actual peaks. (From http://en.wikipedia.org/wiki/VU_Meter)
+
+Digital Level
+
+The peak meters found on digital cameras or recorders typically start at 0 dB at the top of the scale and range down to a negative number like −60 or less at the bottom (see Figs. 11-7 and 11-10). In digital recording, 0 dB represents all the digital bits being used; there is nothing higher. This is full scale. The units on the meter are marked as “dB” and represent dBFS or decibels full scale. You could think of them as decibels below full scale—the number tells you how close you are to the top. You never want the signal to actually reach 0 dB because anything above this level will be clipped and distorted.
+
+As a general rule, you want to record the signal as high (loud) as you can without letting the signal reach 0 dB. How best to do that depends on your equipment, the sound, and your preferences.
+
+With professional recording, the level is often set so that the average level of voices or music on the peak meter reads around −20 dBFS or a bit higher and the loudest peaks reach about −10 dBFS. This leaves a safety margin of 10 dB before reaching the top, in case of any sudden, hotter (louder) peaks (see Fig. 11-10). If you’re looking for a simple rule to follow, this should work fine in most situations.
+
+Some recordists like to record at a higher level, to stay farther away from the noise floor and use the full dynamic range of the system. This is often done with consumer and prosumer machines that have more noise. The average level may be set to around −12 dBFS, with peaks up to about −2. This of course leaves little headroom or safety margin in case of a loud peak.4
+
+Fig. 11-10. (left) Peak-reading meter. The left channel reads −20 dBFS. (right) Rough guidelines for setting the level during field recording. Average level is around −20 dBFS or so with typical peaks reaching up to −10 dBFS. This leaves a safety margin of 10 dB for unexpectedly loud peaks. Different situations call for different levels.
+
+Many recordists use a limiter as a matter of course with digital recordings to protect against high peaks (see p. 454).
+
+Digital meters often have a clipping indicator, or “over” light, to show when peaks hit 0 dB; sometimes these light up just before you hit 0. Some systems only have a peaking indicator. In this case, turn the level up until the light comes on frequently, then reduce the level until the light stops flashing on.
+
+With any recorder, be attentive to the type of sound and how high the peaks are. If you’re filming a scene of two characters having a fight, the dialogue might go from low mumbles to loud shouts (with a few smashed dishes along the way). In situations like this in which dynamic range is high, you might want to keep the level lower than normal to protect against unexpected peaks. This is a situation in which a good limiter can help.
+
+On the other hand, when you’re recording something very even and predictable, you can nudge the level higher without risking overrecording.
+
+If your recorder has an adjustment for headphone volume, set it at a comfortable level and leave it there. This will help you record consistent levels, and when you’re in a situation in which it’s difficult to watch the meter, it will help you to estimate proper recording level by the way things sound in the headphones.
+
+If you do accidentally record something too hot, there are software solutions, such as iZotope RX 2, that may be able to recover some clipped peaks (see p. 667).
+
+Fig. 11-11. Setting the recording level. The sound signal is what we want; the interfering noise could come from the recording system, the recording environment, or, with analog recorders, tape noise. (A) If the sound signal is recorded at a low level—near the level of the noise—when the volume is increased to a medium level in playback, the competing noise gets louder too. (B) If the signal is recorded as loudly as possible without overrecording, you can lower the volume in playback and the noise level will diminish as well. (C) If the level is set so high in recording that the signal is distorted, it will still be distorted in playback even if the level is reduced later (note the clipped peaks). (Steven Ascher)
+
+Analog Levels and VU Meters
+
+You may encounter analog equipment in the form of a tape recorder or perhaps in a field mixer that has a VU meter. With analog, the same rule applies as for digital: you want to keep levels as loud as possible without overrecording. However, the rule is interpreted slightly differently.
+
+VU meters have a scale that goes from about −40 VU to +3 or +6 with a bold change in the color or thickness of the markings at the 0 VU point (see Fig. 11-8). For normal recording, the level should be set so that the highest deflections of the meter read up to 0 VU. Though most recordists are careful to avoid letting the needle pass the 0 dB mark, it’s usually the case that occasional, loud peaks can go to +3 or even more without causing problems. With analog tape recording, there isn’t a fixed top level as in digital, where the sound is sure to be distorted. The actual point of overrecording and distortion is really determined by the type of sound, the recorder’s amplifier, and the tape being used. Some sounds may read a few decibels above the 0 point without serious distortion, some will distort, and some will not be badly harmed by the crackle and breakup produced (a gunshot, for example).
+
+Another difference between digital and analog is at the lower end of the scale, where quiet sounds are recorded: analog has a lot more noise. All analog magnetic tape has inherent noise, and both digital and analog recordings can have noise from the physical space where the microphone is, and from the circuits in the mic and the recorder. Ideally the sound you’re recording should be a lot louder than the noise. Compared to digital recording, with analog you can be a little less worried about overrecording, but you should be a little more careful about not recording things too quietly.
+
+If you’re using a VU meter, keep in mind that the actual peaks will be higher than the meter indicates (see Fig. 11-9). So if you’re recording percussive sounds like hammering, a chirping bird, or jangling keys, don’t turn the level control way up to try to get them to read high on the scale. Many types of sounds will record just fine even though the VU meter is only in the middle or even the lower part of its range.
+
+Some analog machines have peak-reading meters. With Nagra’s modulometer, a typical recording might be in the −8 to −1 dB range; this is easy to remember because the needle will be roughly in a vertical position. If the level goes above 0 dB, lower it somewhat.
+
+Reference Tone
+
+In analog recording, a reference tone (also called a line-up tone) was recorded at the beginning of a tape or session to help ensure that recordings were played back at the proper level. This would help you or others calibrate the playback level to match the level of the original recording. Much like color bars, tone is much less useful in the digital era since digital levels are fixed when a file is made, and they don’t change when you copy the file. However, there are still situations when reference tone can be useful, and it is expected, for example, when making a videotape for broadcast.
+
+Many pro or prosumer recorders, mixers, and cameras have a tone generator or oscillator that can make a steady tone, typically at 1 kHz. You may have a choice of tone level, often between −12 dBFS and −20 dBFS. The idea is to use a tone level that corresponds to the average level at which you recorded (the program level). Though the idea is simple enough, there are variations depending on the type of equipment and style of recording.
+
+A standard approach for professional digital video recording in the United States is to record the average program level around −20 dBFS. In this case, set the reference tone to −20 dBFS. This is a level that postproduction houses and broadcasters are used to and should result in fairly consistent levels. The −20 tone equates to 0 VU on a VU meter. In Europe and the UK, −18 dBFS is often used instead as the reference level.
+
+When using a VU meter, tone is typically set at 0 VU. Peaks are not allowed to exceed +3 or sometimes +6 dB.
+
+When using a Nagra recorder, tone is typically set at −8 dB on the modulometer.
+
+As noted above, sometimes people record at −12 dBFS average level. In this case, use a line-up tone at −12 dBFS.
+
+It’s important when recording a reference tone that you indicate in writing (and sometimes as a recorded, spoken message) what level the tone is recorded at. If you use a nonstandard tone, be sure to discuss it with anyone involved in postproduction sound or dub work.
+
+Reference tones are just that—a reference. Just because a tone is recorded at the start of a tape or program doesn’t mean the levels are correct throughout.
+
+Making Level Adjustments
+
+In general, recordings sound better if the level is not changed in a noticeable way during the recording. This may mean, for example, setting the level at a compromise position between the loud and soft voices of two people talking. (Another solution might be to move the microphone closer to the soft-spoken person.) Try to anticipate surges in volume, choosing perhaps to underrecord slightly an orator whose every sentence is greeted with loud cheers from the audience. This is another situation where a good limiter could be helpful (see below).
+
+When possible, set levels during rehearsals, or have an interview subject talk for a bit so you can get a level. Often a certain amount of level adjustment (called “riding the gain” or “riding the pot”) is called for during a shot. Try to make level changes between lines of dialogue, not during them; if you have to reset during a line, adjust the level gently and not too suddenly.
+
+Try to maintain consistency in your tracks. If you’re recording a scene in a drama, try to keep the characters at roughly the same level so they can be edited together without a lot of level changes.
+
+When recording a single mic with a two-channel (or more) recorder or camera, some recordists use the second channel as insurance against overrecording. Record the mic on one channel at full, normal level. Also route the mic to the second channel, but set the level on this track 6 dB lower than the first channel (some set it even lower than that). This second track is used only if the first one is too hot.
+
+When quiet sounds seem underrecorded, don’t turn the level control beyond three-fourths of its full range, as this will usually add system noise. Instead, get closer to the sound source. If extremely loud sounds (like live rock music) require that the level control be set at less than one-fourth of its range, this too may degrade the sound signal. If this is the case, get an attenuator, or line pad, to place on the cable between the microphone and the recorder (some mics and recorders have built-in attenuators; see Fig. 10-31). The attenuator cuts down the strength of the signal.
+
+Automatic Level Control
+
+Many audio and video recorders are equipped with some form of automatic control of recording level. The names for the various types of automatic systems are not entirely standardized. Some types work better than others, but often the effectiveness depends more on the sophistication of the particular camera or recorder than on the type used.
+
+AUTOMATIC GAIN CONTROL. Automatic gain control (AGC) or automatic level control (ALC) works by automatically choosing a predetermined recording level. If the sound signal coming in is too quiet, it will be boosted; and if it is too loud, the gain will be reduced. AGC requires no attention on the part of the operator, and it can be quite effective for straightforward recording in which the sound level doesn’t vary too much. However, some AGC devices don’t handle sudden volume changes well. Say you’re recording someone in a kitchen. While he speaks, the level is fine, but when he stops, the AGC responds to the quiet by boosting the gain, bringing the sound of the refrigerator to full prominence. AGCs sometimes have a slow release time, and if a sudden, loud sound occurs while someone is speaking, the recording level will drop, reducing the level of the dialogue, and return to normal some moments later.
+
+For all these reasons, AGC gets a bad rap. Indeed, some AGCs are not very good and in most situations a competent recordist setting the level manually can do much better. However, some AGCs work well and can be a real lifesaver if you’re shooting alone or in a challenging situation. Test your own system and judge for yourself.
+
+LIMITERS AND COMPRESSORS. A limiter is another form of automatic control that allows you to set the basic recording level; the limiter only kicks in to reduce the level if you’re in danger of overrecording. Limiters often cut in fairly sharply when the sound level gets too high, protecting against sudden volume peaks (see Fig. 15-14).5 Some limiters work so well that they’re virtually “transparent” (unnoticeable); others can produce an unnatural, flattened effect in the sound.
+
+Some wireless mics and other systems have limiters with a flashing LED indicator instead of a meter. Turn up the gain until the indicator lights up, showing that the limiter is cutting in; then decrease the level a bit until the limiter operates only on the loudest peaks.
+
+Limiters can be very helpful for scenes in which sound levels change suddenly. They’re especially useful for digital recording, where too much level is a particular problem. Limiters can be a kind of insurance policy against hot peaks, but if they’re relied upon too heavily (that is, if the recording level is set so high that the limiter is constantly working), the sound may lose much of its dynamic range and seem flat and without texture. Some pros use them regularly; others avoid them.
+
+A compressor is another method used in various audio systems (including some wireless mics) for dealing with excess level. Compressors reduce the level by a certain ratio (say, 2:1 or 3:1), which compresses (reduces) the dynamic range of the sound. Compressors and limiters are in the same family. Limiters reduce the level more sharply than compressors usually do, but unlike compressors, they are generally set to act only on the very loudest sounds.
+
+A compressor/expander (sometimes called a compander) compresses the dynamic range during recording—to lower loud volume peaks so they won’t overrecord and boost very quiet sounds so they won’t be lost—and then expands the dynamic range during playback by safely raising louder sounds and reducing quieter ones.
+
+Different systems use different methods or different names. Some recorders use the term “compressor” to describe something more like an AGC. Some flash recorders can store a backup recording at a lower level and automatically switch to it if the main recording gets too hot.
+
+For more on compressors and limiters, see Level and Dynamic Range, p. 659.
+
+Gain Structure
+
+There are many situations in which you want to use two pieces of audio gear together; for example, using a wireless mic with a camcorder. It’s important to coordinate how the level is set in each, especially with analog connections. Gain structure or gain-staging refers to the process of setting the level correctly through the whole audio chain.
+
+As a rule, you want the upstream item (say, the wireless receiver) set to output at normal full level (unity gain) but not so high that the sound is distorted. If you feed too low a level from the wireless to the camera, the camera will need to boost the signal, raising the noise level. If you feed a signal that’s too hot, the signal will be distorted from that point forward.
+
+In shooting, it’s common to use a microphone mixer (field mixer) with a camera or audio recorder (see p. 430). Most mixers have level controls for individual channels and a master fader that controls all the tracks together. Especially when using only one channel, you generally want to avoid situations in which the channel is set low but the master is set high, which may add noise. Set the channel at a healthy level, then use the master to fine-tune the level.
+
+When using a field mixer, typically the recordist wants to set things up so he or she can control the level from the mixer, knowing that the camera will record correctly. Ideally, the field mixer should output to the camera using line level (see p. 431). Make sure any AGC is turned off in the camera. Turn on the mixer’s tone generator and set it to 0 VU on the mixer’s VU meter or −20 dBFS on a peak meter.6 Then adjust the gain on the camera so the tone reads −20 dBFS on the camera’s digital meter (but see p. 432 for more on reference tones). Now the recordist can adjust the level during the shoot using the mixer’s meter and level control. You should still try to monitor the audio output from the camera with headphones, and check the camera’s meter from time to time. The same concepts apply when using a mixer with a separate audio recorder.
+
+MUSIC, NARRATION, AND EFFECTS
+
+Recording Music
+
+Some suggestions for music recordings:
+
+It’s often best to record music in stereo (if not with more than two channels). See p. 461 for more on stereo mics.
+
+When you record an acoustic band or orchestra, try to find a mic placement that balances the instruments nicely. Often a stereo mic slightly behind and above the conductor’s position on a high stand is used as the master mic. With many instruments, the sound will radiate out and up, so getting the mic high helps. Hanging mics is another solution. Sometimes a second mic is added to capture a vocalist or soloist. You may also want to put mics elsewhere in the space to record on separate tracks or to mix with the master. When you use more than one mic, be careful to avoid phase cancellation (see p. 459).
+
+When you record an individual instrument, place the mic near the point where the sound is emanating (for example, the sound hole of a guitar or the bell of a saxophone).
+
+When recording amplified vocalists or instrumentalists, you often want to put your mic by the loudspeaker, not the person. When you record a person at a podium, you may get better sound by miking the person directly, but you must get the mic very close. Often with amplified speeches or musical performances you can get a line feed directly from the public address system (or a band’s mixing board) to your recorder. By doing this, you avoid having to place a microphone and you usually get good-quality sound (in the case of the band’s mixer, you get premixed sound from multiple microphones).
+
+Generally, you want to let the musicians control the volume. Avoid using automatic level control or making sudden manual adjustments to the recording level. Find the highest level that can accommodate loud passages in the music and then try to leave the level alone. For live performances, professional recordists sometimes attend rehearsals, follow the musical score, and make slight adjustments during rests or pauses between soft and loud passages. When recording music, consider using a higher bit depth and/or sample rate.
+
+When shooting a musical performance, plan to record fairly long takes. Unlike a lecture that can be cut into short segments and spliced together, musical performance sound must be relatively continuous. The camera should get a number of cutaways that can be used to bridge various sections or tie together takes from different performances. Shooting with more than one camera helps ensure that you will have sufficient coverage. For cutaways, get some neutral shots (such as faces and audience shots) that don’t show fingering or specific hand positions, which can be used anywhere.
+
+If you want to use an existing recording, transfer the digital source file directly to your editing system. You may need to convert to a different file format. Use uncompressed sources whenever possible.
+
+If you plan to use music in your movie, you should be familiar with music copyright laws (see Chapter 17).
+
+Music Videos and Music Playback Scenes
+
+Music videos and scenes in movies that include performers lip-syncing to prerecorded music present some challenges to the sound recordist. Generally, the band will have already recorded the song, and the performers will sing along with it for the video. The recordist is usually responsible for having equipment to play back the song. It’s a good idea to also record a scratch track—an audio recording that isn’t usually intended for use in the final version of the movie—of the performers on the set. In this case, the scratch track will help in syncing the footage to the song and will capture any on-set banter or other sound that may be wanted by the director.
+
+VIDEO CAMERAS. Shooting to music playback with video cameras is fairly straightforward. The music should be played back on a stable, speed-controlled format such as hard drive, flash memory, or good-quality CD player. Use a camera frame rate that won’t require speed changes in postproduction. In NTSC countries, 23.976 fps and 29.97 fps should work fine. In PAL countries, you can use 25 fps. The singers’ mouth movements captured on video should then match up to the song in postproduction. Some video cameras may drift slightly in speed relative to the audio. A sync generator may be used to keep the audio playback and the camera locked together. Even without it, if shots are kept relatively short, sync drift won’t be apparent in the shot.
+
+FILM CAMERAS. Shooting with a film camera for video release in NTSC countries can be somewhat trickier. If the camera is run at 24 fps, the film will be slowed down by 0.1 percent during the telecine transfer (see Chapter 16). Compared to the master recording of the song, the singers on video will then be moving their lips 0.1 percent too slow. One way to solve this is to run the camera at 23.976 fps.
+
+Another solution is to shoot at 24 fps and pull up (speed up) the music playback by 0.1 percent on the set. There are several recorders that can be made to play exactly 0.1 percent fast. Or you can create a file in a DAW that’s sped up by this amount and play that on the set. The lip-sync singing is then done to the sped-up song, but when the picture is transferred to video, it will drop down to the speed of the original song. Always consult with the transfer house or other professionals before shooting.
+
+When vocalists are to be recorded actually singing on camera but need to stay in sync with prerecorded music, an earwig (see p. 375) can be used to play the music back in their ear without being picked up by the mic. Also, a low-frequency “thumper” subwoofer speaker can be used to supply the beat at a tone that won’t interfere with the vocal track. Thumpers are sometimes used for dance scenes where actors need to keep the beat but the actual music can’t be played on set (for example, because it would interfere with dialogue).
+
+Recording Narration
+
+Narration (voice-over) should generally be recorded in a soundproof booth in a studio, as any background sound in the narration may cause serious problems. Any noise in the recording will be especially noticeable in the movie as the narration cuts in and out. For a low-budget production, or if you have to record on location, you can build an enclosure with sound blankets and grip stands to try to isolate the narrator. Set it up as far from windows and outside noise (such as airplanes) as possible—basements sometimes work best. You might even try a big coat closet.
+
+Be attentive to echoes from reflected sound, especially in the small space of a recording booth. Even the stand used to hold the narration can create unwanted acoustic effects. Use a clip or small stand to hold the script. Narrators often like to use their hands when speaking, so it’s better if they don’t have to hold the script.
+
+Often the mic is placed quite close to the narrator for a feeling of presence. Position the mic a few inches to the side and use a good windscreen to avoid breath popping. Listen closely for breath sounds while recording; redo takes if necessary. Many people like the warm, full sound of a large-diaphragm studio mic like a Neumann U 87 or U 89. For more on writing and delivering narration, see p. 533.
+
+Recording Sound Effects
+
+Sound effects (SFX) are nonmusical, nonspeech sounds from the environment. The sounds of cars, planes, crowds, and dripping water are all considered effects. Effects usually have to be recorded individually. Don’t expect to get a good recording of effects during scenes that involve dialogue. An effect may be difficult to record well either because of practicalities (positioning yourself near a jet in flight, for example) or because it doesn’t sound the way audiences have come to expect it to (for example, your recording of a running brook may sound more like a running shower). It can be better to purchase prerecorded effects from an online sound library; mix studios often stock a wide range of effects (see Chapter 15). You can also try simulating an effect—crinkling cellophane to simulate the sound of “fire,” for instance. There are many postproduction processes (reverb, speed changes, filtering) that can be used to create and enhance effects.
+
+Fig. 11-12. Equalizer screen on Pro Audio To Go mobile app. Equalization can be done, for example, to reduce the level of low frequencies (bass) during recording. See also Fig. 15-17. (Weynand Training International)
+
+OTHER RECORDING ISSUES
+
+Bass Filters
+
+Many recorders, mixers, and microphones are equipped with filters that reduce the level of low-frequency sounds. These filters are variously called bass cut, bass roll-off, high pass, and low-frequency attenuation (LFA). Some filters cut off bass fairly sharply at some frequency, say 100 Hz. Others roll off low frequencies more gradually, often diminishing them 12 dB per octave; thus, the filter might reduce 150 Hz somewhat, 75 Hz quite a bit, and 37 Hz almost entirely.
+
+Filtering, also called equalization, is done to minimize the low-frequency rumble caused by such things as wind, traffic, machinery, and microphone-handling noise. The low-frequency component of these sounds is disturbing to the listener and can distort higher-frequency sounds. If low-frequency sounds are very loud, the recording level must be kept low to avoid overrecording, and this impairs the sounds that you really care about (like voices).
+
+Microphones and recorders may have a two- or three-position bass roll-off switch. The first position (sometimes labeled “music” or “M”) provides a relatively flat frequency response with no bass filtering. The next position (“voice” or “V”) provides filtering below a certain frequency. If there is a third position, it rolls off bass starting at an even higher frequency (see Fig. 10-21). Do test recordings with the filter to judge its effect. On some mics, the “M” position is optimal for most recording, and the “V” position should be used only for excessive rumble or when the mic is very close to someone speaking. Sometimes the third position removes so much of the low end that recordings sound very thin and hollow. For the same reason, it’s usually best to avoid using a camcorder’s “wind” menu setting.
+
+There are two schools of thought on filtering bass: one is to filter as needed in the original recording; the other is to hold off as much as possible until postproduction. The first school argues that the low frequencies will be filtered out eventually, and a better recording can be made if this is done sooner rather than later. This must be weighed against the fact that frequencies rolled off in the original recording are not replaceable later. The sound studio has better tools and is a better environment in which to judge how much bass needs to be removed.
+
+A prudent approach is to filter bass only when excessive rumble or wind noise requires it or when trying to compensate for a microphone that is overly sensitive to low frequencies. Then filter only the minimum amount to improve the sound. If filtering is done, keep it consistent in the scene.
+
+Multiple Microphones and Multitrack Recorders
+
+There are many situations in which you may want to use more than one microphone. Typical examples are when recording two people who are not near each other, recording a musical group, or recording a panel discussion. Many recorders have provisions for two microphone inputs, and some machines can record from microphone and line inputs simultaneously (mics can usually be fed into the line input with the proper preamp). A mic mixer allows several mics to be fed into the recorder. Try to get microphones that are well matched in terms of tone quality. Sometimes a filter can be used on one mic to make it sound more like another.
+
+Fig. 11-13. Multiple microphones. (left) Distance from the woman to microphone A is only slightly longer than distance to microphone B, leading to possible phase cancellation. (right) Separation between microphones is three times the distance from each mic to its sound source. Now the distance between microphone A and the woman at right is sufficient to minimize the chance of phase cancellation. (Carol Keller)
+
+When recording with multiple mics, be careful to avoid phase cancellation. This occurs when two mics are slightly different distances from the sound source, so the peak of a sound wave reaches one mic slightly before or after it reaches another mic. This diminishes the strength and quality of the sound signal because the diaphragm of one mic is being pushed by the sound pressure while the other mic is being pulled and the two signals cancel each other out. The rule of thumb for avoiding this is that the microphones should be at least three times farther from each other than the distance from each mic to its sound source (see Fig. 11-13). Directional microphones that are angled away from each other can often be placed closer together.
+
+Start with one mic and watch the level on the audio meter when you plug in the second mic—the strength of the sound signal should be increased, not decreased. Sometimes two microphones are wired differently, so that even if the mics are placed correctly, they cancel each other anyway. When recording in stereo, phase cancellation is not always noticeable but becomes apparent when the two mics are combined (summed) to one mono channel.
+
+When using multiple mics, when someone is not speaking, keep his mic level down to avoid unwanted noise; this is often difficult when recording unpredictable dialogue.
+
+If the recorder has multiple recording channels, this opens up various possibilities for multiple microphones. You can record both a boom mic and a lavalier separately. You can place two mics in different positions and choose whichever sounds best later. If different subjects have their own mics and recording channels, their lines of dialogue can be separated more easily for editing and mixing purposes. Director Robert Altman used recording systems with up to forty-eight tracks with wireless mics on individual actors, each feeding a different channel. With this system, the actors can freely improvise, and everyone’s lines will be recorded well, something that is almost impossible to do with only one mic and recording channel. Phase cancellation can often be avoided with multiple recording tracks if the editor can choose the sound from one mic or another without trying to mix them together.
+
+Having many tracks can be cumbersome for dailies screenings or for the picture editor. If you record to multiple tracks, you may need to create one or two mixdown tracks that combine the key dialogue tracks. Some multitrack recorders allow you to record a mixdown along with the individual source tracks.
+
+Stereo Recording
+
+Most video and audio recorders have at least two channels and are capable of recording in stereo. Some digital cameras are equipped with dual built-in mics that give some stereo separation between the left and right sides.
+
+When movies are distributed to the public, in theaters, on TV, or as DVDs, they are in stereo (at least two channels) or another multichannel format such as 5.1-channel sound (see Mix Formats, p. 669). However, it’s important to make the distinction between recording in stereo on location and releasing the finished movie in stereo. For very many projects, dialogue scenes and the like are recorded in mono, even if those scenes will ultimately appear in a stereo sound track in the finished movie. A mono recording is made with one microphone (or more) on one audio channel. It’s very easy during the sound mix to place a “mono” sound on either the left or the right side of the screen to create a stereo effect if needed.
+
+Nevertheless, there are times when stereo recording is desired either for the entire production or for specific types of sound such as music, effects, or wide shots (perhaps to capture the sound of a horse moving from one side of the screen to the other).
+
+There are various techniques for recording stereo. Stereo mics built into camcorders usually employ the X-Y method (see Fig. 11-14). This uses two cardioid mics each pointed 45 degrees to the side (the two mic capsules may be in the same housing). The X-Y method is straightforward and simple, though when the two mics are separate—that is, not in the same case—mounting and controlling them must be done with care. It can sometimes be difficult to get the proper balance between the left and right side.
+
+Some people prefer the M-S (mid-side) method, which is a bit more complicated. This also employs two mics: one with a cardioid pickup pattern and one with a figure-eight pattern (see Fig. 11-15). Mics like the Shure VP88 have both mics built into a single housing. The cardioid mic picks up sound from the front and the figure-eight mic gets the left- and right-side image; each mic is sent to a separate channel on the audio or video recorder. Later, the two tracks are “matrixed” through an M-S decoder or by tweaking the phase of the tracks in a DAW. The advantage of the M-S method is that it offers a lot of flexibility. In postproduction, you can create the standard two-channel, left-right stereo effect, and tweak the “width” of the stereo image. You can also easily isolate the mono signal from directly in front, if needed, which is more difficult if you originally recorded with X-Y stereo. Some M-S mics (such as the VP88) allow you to output an X-Y (left-right) signal if you prefer; on some you can even select how wide the stereo pattern is.
+
+Fig. 11-14. Pickup pattern of a stereo mic in the X-Y configuration. Shown here, the two mic capsules are in one body. (Robert Brun)
+
+Fig. 11-15. Pickup pattern of a stereo mic in the M-S configuration. Shown here, the two mic capsules are in one body. (Robert Brun)
+
+Fig. 11-16. Shure VP88 microphone. Versatile mic that can output an M-S signal or can be switched internally to provide a stereo (X-Y) output with a choice between low, medium, or high stereo effect. Comes with a splitter cable for outputting the two channels. Use both output connectors for M-S or stereo output, or use just one in the M-S mode to record a mono signal from the cardioid capsule or the figure-eight capsule. (Shure Brothers, Inc.)
+
+Fig. 11-17. Schoeps M-S setup showing separate cardioid and figure-eight mics that can be combined (matrixed) to create stereo. Schoeps makes very high-quality professional mics. (Posthorn Recordings, NY)
+
+Surround Sound Recording
+
+Some cameras and microphones offer the possibility of recording 5.1-channel surround sound, which provides a feeling of dimensionality and sense of space for productions that will be shown in a 5.1-channel format. Some consumer camcorders have built-in mics that can record the 5.1 channels to two channels (a stereo pair) using Dolby Digital encoding. There are also stand-alone mics, such as those made by Holophone, that simulate the directionality of human hearing and feed five or more separate cables to an external mixer or recorder for a 5.1 or 7.1 surround format (see Fig. 11-18). For more on surround formats, see p. 669.
+
+Fig. 11-18. Holophone’s H2-Pro 5.1 can capture up to five channels (left, center, right, left surround, right surround, and low frequency) in one mic body. Outputs each channel via a separate XLR cable to a mixer or recorder. Other models can encode the 5.1 channels to two-channel stereo for recording in a typical camera. (Holophone)
+
+RECORDING DOUBLE SYSTEM FOR VIDEO AND FILM
+
+Double-system (or dual-system) recording means using a separate audio recorder from the camera. All film shoots are done double system since film cameras don’t record sound. Video shoots are sometimes done with a separate audio recorder in order to record higher-quality sound or more audio tracks or to provide more mobility for the recordist than might be possible by recording sound in the camera. In this situation, it’s still recommended to record audio in the video camcorder as well, to serve as a scratch track for reference.7
+
+When sound and picture are recorded in separate machines, there are two basic concerns:
+
+Ensure that both sound and picture can be played back at the same speed or frame rate, so they don’t drift relative to each other during a shot.
+
+Make it as easy as possible to sync the sound to the picture in postproduction—that is, to line up the sound recording with the picture so that when we see something happen on screen we hear it at the same time. Syncing up is discussed on p. 589.
+
+Speed Control
+
+To record double-system sync sound, it’s essential that the speed of the camera and recorder be precisely controlled. Today, digital video cameras have precise speed control and film cameras with crystal-controlled motors are used for sync work (see Camera Motors, p. 258).
+
+As for audio recorders, digital machines should have speed control that’s accurate enough for sync recording. Small amounts of sync drift with some systems can be corrected in editing. Speed control with analog recorders is discussed on p. 419.
+
+PULLDOWN. When shooting film in former NTSC countries the speed of the audio may need to be adjusted after recording. Film shot at 24 fps will typically be slowed to 23.976 fps when transferred to video (see p. 690). This means that audio recorded in the field may also need to be pulled down (slowed down) by the same 0.1 percent. The transfer facility can do it in the telecine session. Audio playback speed can be also be adjusted in the editing room, by modifying the speed of the audio track in the NLE. Pulldown may not be needed if the project is edited at true 24 fps (see p. 690). Another approach is to build in a speed adjustment during recording by manipulating the sample rate. On some recorders, instead of recording at the standard 48 kHz sample rate, the recorder can be set for 48.048 kHz. This creates 480 extra samples per second when recording. However, the recording is “stamped” as having the normal 48 kHz rate, so the playback machine plays back the usual 48,000 samples per second, making the sound 0.1 percent slower. This has the advantage of avoiding sample rate conversion, which could degrade the quality. With some recorders, to make sure the 48.048 kHz is stamped as 48 kHz, the setting is indicated as 48.048F (“F” for fake or Fostex).
+
+Always discuss settings with the post team before recording!
+
+SYNCING AUDIO AND PICTURE
+
+Many different techniques and technologies are used for making the syncing process easier. Some of them involve timecode (be sure to read Timecode, p. 223, before reading this section). Because there are a lot of options, this topic can get confusing; remember, in the end you’ll probably only be using one of them on your shoot. As noted on p. 369, slates (see Fig. 9-30) are used both to visually identify what’s being filmed as well as to aid in syncing the picture and sound. The following discussion is only about syncing.
+
+Traditional Slates
+
+Syncing involves lining up the sound and the picture. It’s much easier to do if there’s a distinct event that can be seen clearly in the picture and heard on the sound track. For example, the closing of a car door might suffice. A slate is an event in sound and picture that can be used to facilitate syncing.
+
+The traditional slating device is the clapper board, discussed on p. 368. Even if a slate is electronic (such as an iPad app) it may still be based on the same principle of matching the picture of the slate closing to its sound. The advantage of traditional slates is that they’re low-tech and fairly foolproof. The disadvantage is that it can take a long time in the telecine or editing system to find the right audio and sync it up to the picture.
+
+Slating can also be done by gently tapping the microphone once or twice or even by snapping your fingers within range of the recorder.
+
+When you make any slate, it’s imperative not to turn off the camera or recorder between the slate and the shot itself, as novices sometimes do.
+
+Fig. 11-19. Timecode slate. A “dumb slate” can display timecode sent from the audio recorder or other source. A “smart slate” incorporates its own timecode generator (see Fig. 11-20). (Denecke, Inc.)
+
+Timecode Slates
+
+A timecode slate (also called a digislate) looks like a standard clapper board with a timecode display on its face (see Fig. 11-19). In one of the simplest ways of using a timecode slate, timecode (often indicated as TC) is fed from the audio recorder to the slate. Any video camera or sync-sound film camera can be used (the camera may have no timecode capability or may be running a different timecode from the audio recorder).
+
+Slates are done in the usual way, preferably at the head of the shot. When the top clap stick is lowered on the slate, the timecode at that instant is held on the display. In postproduction, the frame where the clap sticks closed is paused on screen so the audio timecode at that moment can be read on the slate. That number is entered into the editing or telecine system, which locates that same timecode in the audio and, presto, the shot is in sync.
+
+In this method, timecode is sent to the slate from the audio recorder via a cable or a wireless link. With a smart slate, the slate has its own timecode generator. Jam-syncing means that one timecode source sets the other machine to its timecode. You can jam-sync the slate with timecode from the audio recorder or from another timecode source, and the slate and recorder should maintain the same free run/time-of-day code.
+
+A timecode generator, such as Ambient’s Lockit box, Denecke’s SB-T, or Horita’s PG-2100 Portable Mini Time Code Generator, can be used to jam-sync the slate and/or audio recorder.
+
+When using a slate app for an iPad or other tablet (see Fig. 9-30), keep in mind that even if it has a timecode display, if it doesn’t allow for jam-syncing or displaying timecode from the audio recorder, it won’t support this kind of precise numerical syncing method.
+
+TIMECODE SLATE ISSUES. Some people prefer smart slates because they require no connection between the slate and the audio recorder. On the other hand, this provides one more opportunity for timecode to go out of whack. A wireless transmitter can be used to send code from the recorder to a dumb slate (timecode reader only), which simplifies things somewhat but requires a good wireless link.
+
+As a safety precaution when using a timecode slate, be sure to record the sound of the clap sticks closing (the old-fashioned slate system) in case there’s a problem with the code. Also be sure to frame the slate in the camera viewfinder clearly so the timecode numbers are big and easy to read.
+
+Timecode generators tend to drift slightly over time. This can lead to sync errors if the timecode in a slate or camera differs from the timecode in the audio recorder. When using more than one timecode device, pick one of them to serve as the master clock and use it to jam-sync the other machines. Rejam whenever devices are powered down or, in any case, no more than every few hours. The Zaxcom Nomad mixer/recorder can wirelessly and continuously jam timecode to multiple cameras, and it includes a visual timecode display that could be used instead of a digislate in some situations (see Fig. 10-10).
+
+Audio Timecode Frame Rates
+
+Most timecode-capable recorders offer a variety of timecode frame rates. The goal is to pick a frame rate for the audio timecode that will match or be compatible with the video or film timecode rate. Keep in mind that the audio timecode frame rate does not control the speed of the audio, it only affects how the timecode is recorded. Not all audio recorders can handle all timecode rates.
+
+23.976 fps. Digital cameras that record “24p” in NTSC countries are usually operated at 23.976 fps (also known as 23.98). This timecode is always nondrop (ND).
+
+24 fps. If a film camera is run at 24 fps, this timecode is sometimes used when the film-to-digital transfer and recording is at 24p.
+
+25 fps. This rate is used for film and video shot at 25 fps or true 24 when editing is to be done in a PAL video environment.
+
+29.97 fps. This is the standard timecode for video shot at 23.976 or 29.97 fps in NTSC countries.
+
+30 fps, ND. This is a true 30 fps rate, not the same as 29.97, and is often used in NTSC countries for film shot at 24 fps. After the 30 fps audio TC has been slowed down by 0.1 percent, it will match the 29.97 fps rate on the video transfer (and it can still work when the video transfer is recorded at 23.976 fps). This is a standard audio timecode rate used for film production in the United States.
+
+Unless instructed otherwise, it’s always safest to record nondrop (ND or NDF) timecode. Be sure to discuss any audio timecode choices with the lab, post house, and postproduction team before recording! Label all boxes, logs, and slate clearly with sound TC speed, drop or nondrop (as well as the usual items listed earlier). Do a workflow test before beginning a production to make sure all systems are set correctly.
+
+Fig. 11-20. Timecode generator. The Denecke SB-T reads, generates, and jams to all standard frame rates. Outputs timecode and video sync in PAL and NTSC, as well as trilevel sync for HD. Enlargement shows available frame rates. (Denecke, Inc.)
+
+No Slates
+
+When you’re shooting with DSLRs or other video cameras and using a separate audio recorder, there are software solutions that can automatically sync audio from the recorder with audio recorded by the camera. The recorder captures high-quality audio. The camera mic picks up lower-quality audio, but it’s recorded in sync with the picture, like typical video. In editing, the camera’s audio is on one track of the NLE and you import the recorder’s audio onto another track. Several NLEs, and software like PluralEyes, can match the audio waveforms of the two tracks and put them in sync (see p. 589).
+
+This saves time on the set, as no slates are necessary, and saves time when syncing is done. The camera can start and stop at will, and as long as the recorder is running, you’ll be able to sync up the material. This can be particularly handy when several cameras are used to shoot, say, a concert—you could have several roaming cameras and never need an audio or visual slate to find sync. This can also be useful for interviews in which you want to start and stop the camera while always rolling sound.
+
+Even without software, it’s usually not hard to put shots in sync that don’t have a slate; it just takes longer.
+
+Another technique that doesn’t require slates and doesn’t require any audio recorded in the camera (no modern film cameras record audio on film) involves timecode. If you use a digital or film camera that can internally record the same timecode as the audio recorder, then you don’t need slates at all. In postproduction, the editing or transfer system simply locates the identical timecode numbers in video and audio; syncing can be totally automated. This can save a lot of time in a telecine session.
+
+There are various ways to record the same code in picture and sound; which one you choose depends on the capabilities of your equipment.
+
+FILM CAMERAS. Some film cameras can expose a running timecode display along the edge of the film (in-camera timecode). The AatonCode system (also used in Panavision cameras) exposes on the film a combination of human-readable numbers and a machine-readable matrix of dots (see Fig. 6-14). The ARRI system uses a bar code. The camera’s timecode is jam-synced to the audio recorder. In postproduction, properly equipped telecines can read the film timecode and automatically sync it to the audio code (see Chapter 16).
+
+VIDEO CAMERAS. In one method, the timecode output from the video camera is connected by cable or wireless link to the timecode input of the audio recorder. This may allow use of record run timecode, which is often preferable. Some audio recorders can be slaved to the camera’s timecode so they start and stop automatically when the camera does.
+
+Another method is to use free run/time-of-day timecode and jam-sync the camera and audio recorder with the same TC source. This could be done by cable or with a timecode generator such as the Ambient or Denecke products mentioned above. This may be preferable when more than one camera is being used. For precise sync with more than one HD camera, you need to feed each camera the same timecode via the timecode input and feed trilevel sync via the genlock input.
+
+If your camera won’t accept timecode input (many cameras won’t), you can put external timecode on one of the camera’s audio channels. First, using a TC generator (see above), jam-sync the audio recorder. Then remove the TC source and plug it into one of the audio inputs on the camera (it will need to stay attached while you shoot). Record the TC at an audible level, but don’t let it get too hot. Be sure to inform the post team that you’ve done this.
+
+WHEN TIMECODES DON’T MATCH. Depending on your equipment and what you’re trying to do, there may be situations where you can’t have identical code in the camera and audio recorder. For example, when shooting HD at 23.976 fps, you may find that your audio recorder can’t handle that rate. However, if you use 29.97 fps timecode in the audio recorder, you can jam the camera’s 23.976 timecode to the recorder and the two will have identical code at the first frame of every second, even though the frames within each second are different.8 Matching up different timecodes with different frame rates is called cross jamming.
+
+OPERATING A DOUBLE-SYSTEM RECORDER
+
+Operating an audio recorder on a double-system shoot draws on all techniques described earlier in the chapter and in Chapter 10. However, there are a few additional things to keep in mind.
+
+If your recorder is equipped with confidence monitoring, it’s a good idea to monitor it and not the microphone directly (see Monitoring, p. 415). This allows you to check the recording quality. Running out of storage space on a flash card or other storage medium during a take is unnecessary and embarrassing. Some recordists routinely change cards when they start to fill even if some recording time is remaining, which ensures adequate supply and means the camera crew won’t have to wait for you to make a change later. If you don’t have enough storage space to complete a shoot, in emergencies you may be able to switch to a lower sample rate, but don’t forget to log this and to inform the postproduction team.
+
+In unstaged documentary work, it’s important that the soundperson be ready to record at a moment’s notice. If shooting appears imminent, the recorder should be put in the standby position (on some recorders this is done by pressing the record button, but not the forward button) and the recording level should be set. If the scene looks interesting, the recordist should not hesitate to record. If the scene doesn’t pan out, simply say “no shot” into the mic and stop recording. If the scene is good, the camera should roll. The first part of the scene that has no picture can usually be covered with another shot or a cutaway. There is no advantage to rolling vast amounts of sound, but often if you wait too long to start the recorder, the take will be useless (this is another situation where prerecord can help).
+
+When shooting film, some telecines require five to seven seconds of preroll before the slate or first usable audio. Consult the transfer house before you shoot to find out how much preroll, if any, they need. Make sure you let the recorder run the allotted time before the slate is done or the camera starts (and/or use prerecord to build in the preroll time; see p. 415).
+
+When a film roll runs out during a shot, it’s helpful to announce “run out” into the mic when it happens. It’s especially useful when using tail slates.
+
+If shooting film, it’s generally a good idea to record or store all wild sound (sound without picture) separately so that no one has to wade through it during the telecine session or when syncing up.
+
+1. Many a crew has driven off from a location forgetting to turn the fridge back on. Put your car keys in it when you turn it off to remind you.
+
+2. The ratio between peak and average level is called the crest factor.
+
+3. How quickly a meter responds to a peak, and then releases afterward, is called its “ballistics.” PPMs, for example, are defined by very specific ballistics, and there are a few different flavors of PPMs.
+
+4. The idea of “safety margin” as used above is the difference between the highest peaks and the maximum level the system can record without distortion. “Headroom,” however, is usually defined as the difference between the average signal level and the system maximum. If you’re recording the average program level at −20 dBFS with peaks up to −10 dBFS, you have 20 dB of headroom, but only 10 dB of “safety margin.”
+
+5. The threshold point where a limiter cuts in and how much it limits the sound level varies among systems and is sometimes adjustable.
+
+6. On some mixers the tone is not adjustable.
+
+7. This could be done as a feed from the audio recorder or just by leaving the camera mic on.
+
+8. The same thing happens when you transfer film to 24p video but have audio timecode at 30 fps.

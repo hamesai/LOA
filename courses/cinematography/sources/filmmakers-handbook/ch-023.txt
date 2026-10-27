@@ -1,0 +1,761 @@
+CHAPTER 16
+
+Working with Film in Postproduction
+
+This chapter is about working with motion picture film during editing, postproduction, and distribution. This concerns projects that are shot on film but edited digitally, as well as projects that are shot digitally but will make film prints for theatrical distribution. You’ll also find material on traditional methods of conforming film negative and printing it. Since the vast majority of projects that are shot on film today are edited digitally using NLEs, information on now old-fashioned film editing using workprint and flatbed editing machines has been deleted from this edition of the book. However, if you are cutting workprint in the traditional way, you can find excerpts on editing from the third edition at www.filmmakershandbook.com.
+
+See Chapter 9 for production techniques, Chapter 14 for nonlinear editing, and Chapter 7 for sending film to the lab for processing during production.
+
+OVERVIEW OF FILM-VIDEO TRANSFERS
+
+From Film to Digital and Back Again
+
+In contemporary filmmaking, every movie that isn’t shot on digital video gets transferred to digital at some point, usually for editing and certainly as part of distribution.
+
+Though theatrical distribution is increasingly digital, many theaters around the world still show 35mm film prints. So movies intended for theatrical distribution, whether shot digitally or on film, may need to make film prints, which often involves a digital-to-film transfer (film-out).
+
+Your options abound when it comes to taking film original footage and editing it digitally. You’ve also got options when it comes to taking the digitally edited movie when it’s done and translating that to film. Different productions use different strategies, depending on time, budget, and intended distribution. In fact, there are so many strategies and combinations that it can be hard to keep them straight. The good news is that even though there are numerous routes to get from one end of the process to other, eventually you only have to pick one.
+
+In overview, there are two chief ways of transferring film to digital: a telecine, which can transfer to standard definition and high definition video (and sometimes larger frame sizes) and a film scanner, which can create high-resolution files (often 2K or 4K) in formats such as DPX. Telecines tend to be used for material intended for television, for independent films, and for the editing stage of high-budget feature films. Scanners, which are slower and more expensive to transfer on, tend to be used for final transfers of higher-budget features. However, distinctions between telecines and scanners are breaking down; see below for more on both.
+
+Fig. 16-1. Shadow Telecine. CCD imaging. Outputs all common HD and SD video resolutions. (Digital Film Technology)
+
+Some of your options in transferring film to digital include:
+
+Recording format. Film may be transferred to a variety of digital formats (SD, HD, 2K, 4K) and recorded to file or tape.
+
+Frame rate conversion. Film is generally shot at 24 fps (25 fps for TV in PAL countries). The digital transfer may be recorded at frame rates including 24, 25, and 30 fps. Converting from one frame rate to another may involve a pulldown process.
+
+Color correction. In some transfers, a lot of time and care are put into color balancing; other transfers are done quickly without fine-tuning color, or they are done “flat” to maximize color correction options later.
+
+Audio speed correction. When the playback speed of the picture is changed, the audio may need to be sped up or slowed down to stay in sync.
+
+Audio syncing. On a film shoot, sound and picture are recorded separately. It’s possible to sync the audio during the telecine session or after.
+
+As for the other side of the process—transferring a digital project to film—regardless of whether the footage originated on film or digital, perhaps the most widely used method is a laser film recorder, which can create a film negative from a digital file or tape. Of course, the usefulness of 35mm film prints for distribution is rapidly diminishing as theaters convert to digital.
+
+Choosing your route through production and postproduction should be done in consultation with the lab or postproduction facility, editing team, and audio post facility. Get the cinematographer and sound recordist in on those conversations too. It’s hard to overstate the importance of working out your planned workflow with all concerned parties in advance.
+
+A note about terminology: “digital video” includes many different resolutions and frame sizes, including SD and HD. However, when you’re talking about high-resolution formats such as RGB or 2K or 4K, while they are digital, many people don’t consider them “video” because they can’t be recorded or broadcast with typical video equipment. In the discussion below, the term “digital” includes video and nonvideo formats.
+
+SOME FILM-DIGITAL WORKFLOWS
+
+This section examines some possible workflows that can be used for projects that originate on film (or on 24p video). The scenarios are not offered as recommendations, but rather as a way to discuss various options. Elements from one workflow might be combined with another.
+
+Scenario One: Shoot Film, Transfer Once, Finish Digital
+
+This might be used for a project shot on film and destined for the cinema, or geared toward a relatively quick postproduction schedule for television broadcast. If film prints are needed, they are made by doing a film-out from the final digital master. See Figure 16-2.
+
+In this scenario, film may be shot in any format (35mm, 16mm, or Super 8). Production audio is recorded in the field double-system with a file-based (flash memory or hard drive) recorder. Timecode on the audio is highly recommended.
+
+In-camera timecode or timecode slates (see p. 466) during production will greatly facilitate syncing the audio, but timecode on the film is not required. After shooting, the negative is processed and prepared for the film-to-video transfer or scanning (see below). All the footage may be transferred, or the telecine or film scanner can fast-forward through undesired material to record only the selected takes. In this workflow, the film will only be transferred to digital once, so the output of the telecine or scanner is recorded to a high-quality digital format such as 1920 x 1080 HD or, in the case of a low-enough shooting ratio or a high-enough budget, 2K or 4K. Some transfers are recorded to a tape format such as HDCAM SR. Others go directly to file on hard drives—bypassing videotape altogether—as uncompressed DPX files or high-quality Apple ProRes or Avid DNxHD compressed files.
+
+Fig. 16-2. Scenario One. A possible route for shooting film, transferring to digital once, then editing and finishing digitally.
+
+Because this is the only digital transfer that will be done, a degree of care must be taken in color correction—more than for the “digital dailies” used in Scenario Two. Even so, final color correction will be done later in the process.
+
+If possible, it’s desirable to sync sound and picture during the telecine session (scanners don’t offer this possibility). If the film and audio have proper timecode, there are automated systems that can sync up on the fly during the telecine transfer. However, if picture and sound need to be lined up manually, it can get expensive to do this in the telecine suite. As an alternative, some facilities have a layback suite. Here, you could take the picture recorded in the telecine that has no audio and sync it up in this specialized room that bills at a lower hourly rate (see Fig. 16-3).
+
+The reason to sync up at this stage is so that the master recording (tape or file) will have sound on it. This can simplify other postproduction tasks and make it easy to create digital dailies for the production team on location or for whoever needs them. However, on many productions, the sound is synced later, using the nonlinear editing system to do the work. Syncing on the NLE may be the most economical and can result in better sync because of subframe accuracy.1
+
+Fig. 16-3. The layback suite is an editing room set up for syncing audio to video. Less expensive than syncing in the telecine suite. (DuArt Film and Video)
+
+After the telecine or scanning step is completed, the transfer facility uses the HD master tapes or high-resolution files to create compressed HD media that can be directly imported into your editing system. You might choose an even more compressed version tailored to offline editing using a codec such as ProRes Proxy.
+
+After the material has been loaded into the NLE, you’re ready to do your offline edit. When you’re done with the offline edit and have “locked picture,” you’re ready to do the online. Often this is done at a postproduction facility. Or you may be doing the online yourself.
+
+If you did the offline edit with high-quality, high-resolution files, you can simply use them for the various stages of finishing. If you used a more compressed codec for offline editing, then you’ll need to up-res to the full-resolution files or tapes created in the telecine (this is a typical offline/online workflow; see p. 556). Color correction may be done at this stage or later on a specialized system.
+
+Generally, audio will be exported to a digital audio workstation (DAW) for mixing in a dedicated sound studio (see Chapter 15). The audio is reimported to the online.
+
+At this point, the show is complete and can be duplicated to various formats and frame rates as needed. If film prints are required for film distribution, a film-out can be done from the digital master.
+
+Scenario Two: Shoot Film, Transfer Twice, Finish via D.I.
+
+For higher-budget films, instead of using a normal telecine to transfer the camera negative to digital, you can use a high-resolution film scanner to create a 2K or 4K data file. At this resolution, the master edited version of the movie is called a digital intermediate, or D.I. (see below). The D.I. can be used to produce any number of digital file or tape outputs, including a Digital Cinema Package for theatrical use and a film-out to make film prints.
+
+Because film scanners are expensive, create very large files, and may be slow, it’s more economical to use them to scan only the footage used in the edited movie. In this workflow, the film is transferred to digital twice. The first time captures all or most of the footage that was shot. These are digital dailies (also called video dailies), made as quickly as possible, often with minimal color correction, to HD using a conventional telecine. These dailies are used for the offline edit. Then, after the movie is edited and you know exactly which shots are needed for the final film, the selected footage is scanned at high resolution (2K or 4K) to create the D.I. (see Fig. 16-4).
+
+Fig. 16-4. Scenario Two. A possible route for shooting film, transferring to video dailies for the offline edit, then scanning the film to create a digital intermediate.
+
+In this scenario let’s assume the production audio is synced with the picture in the telecine when the digital dailies are made. The telecine also compiles a shot log, which is a database that correlates the film keycode numbers and the video timecode generated during the transfer (see p. 693).
+
+To begin the offline edit, you import the dailies (picture and sound) into the NLE. You also import the shot log, which, as you edit, enables the NLE to keep track of which parts of the film negative are being used in the movie.
+
+When the offline is done and picture is locked, the NLE generates a pull list (see p. 701) to locate the selected negative that needs to be scanned. In some cases, selected shots are pulled by a negative cutter from the original camera rolls and strung together on a reel for digital scanning. In other cases, the rolls are left intact, and the scanner simply locates the frames it needs using keycode, fast-forwarding from one shot to the next on the camera roll.
+
+Once the negative has been scanned at high resolution, an assembly (sometimes called a conform) is done to rebuild the edited film with high-res media (this is much like an online edit; see p. 611). Visual effects (VFX) are added; dust busting (to remove any dirt) and color correction are done. Actually, several different color corrections may be used for different end products. For example, one LUT (lookup table; see p. 631) is used to translate the image for HD output, and a different LUT is used for film-out (and there are many different LUTs for particular looks).
+
+These days, production audio recorded in the field that has been synced in the telecine or NLE can usually be used for the final audio mix.2 However, particularly on high-budget films, the sound editors may prefer to use the original production audio files as a source for the final mix. This may be because, on a concert film, for example, the production audio was recorded at a higher sample rate or bit depth or with more channels. In this scenario, rather than export audio from the NLE for the mix, an audio OMF/AAF or composition is sent to a DAW without media, then the production audio files are imported directly into the DAW for mixing. Afterward, the mixed tracks are recombined with the digital master and a printmaster is made for film prints.
+
+Scenario Three: Shoot Film, Transfer Twice, Finish via Film
+
+This workflow is now much less common, but it might be used for a low-budget project that is shot on film and edited without a lot of visual effects. Like Scenario Two, it involves first making digital dailies by transferring the film quickly for offline editing. As before, the telecine generates a shot log that allows the NLE to track, via key numbers, what part of the negative you’re using for the edit.
+
+In this scenario, since we’re trying to save money, the production audio is imported into the NLE and syncing is done in the editing room, which is cheaper than having the transfer house do it.
+
+Fig. 16-5. Scenario Three. A possible route for shooting film, transferring to video dailies for the offline edit, then conforming the negative in the traditional way and finishing on film. Final video transfer is done from a film print or master positive.
+
+The big differences between Scenario Two and Three take place after you lock picture in the offline. In Scenario Two, selected negative is then digitally scanned at high res to create a 2K or 4K D.I., from which all digital and film outputs are made. In Scenario Three, the NLE generates a film cut list (or an EDL can be used instead), which a negative cutter uses to conform the camera original negative in essentially the traditional way. This may involve cutting 16mm negative into A&B rolls or, in 35mm, creating a single strand (for more on negative cutting and printing, see p. 706). The lab then makes film prints from that conformed negative.
+
+Since you will also need a digital version of the final, edited movie, this can be made by running a film print or intermediate (see p. 711) through a telecine.
+
+In this scenario, audio is exported from the NLE for mixing on a DAW. The mixed sound track is then used for the video transfer. Analog and digital sound masters are also created for making film prints.
+
+This method has become uncommon for a variety of reasons: there are few traditional negative cutters left, the process is time-consuming, and so on. However, D.I.’s are not cheap, and this method may be more affordable on some projects.
+
+FILM-TO-DIGITAL TRANSFER DEVICES
+
+The Telecine and Lower-End Methods
+
+The telecine (pronounced “tel-e-sin-ee”) is a device for converting film to video in real time. It has a transport to move film footage continuously across a scanner head that reads each frame and converts it to a digital video signal. High-end telecines are very sophisticated. Many can handle a variety of film formats (35mm, 16mm, Super 16, Super 8, and 8mm), either positive or negative film, at several different speeds with no danger of scratching. Modern telecines can output in HD or SD video and in some cases higher resolutions of 2K or 4K (not in real time).
+
+There are various types of telecines. Linear array CCD systems (such as DigitalFilmTechnology’s popular Spirit series) use a bright xenon light to project an image of each frame onto several horizontal rows of CCDs. Some newer systems use LED illumination. The older flying spot systems optically superimpose the raster of a CRT onto each frame of film, which is then digitally sampled. Each of the different technologies has its “look,” but all can produce superb results.
+
+The film chain is a lower-end transfer device made up of a special 16mm film projector that projects the film image directly into a video camera. Film chains, holdovers from the early days of television, are less expensive than telecine transfers, provide much less control, and are not gentle enough to allow transferring negative. Super 8 and 8mm films are commonly transferred on this type of technology.
+
+Sometimes people make a slop transfer by using a video camera to shoot a film image projected on a screen or an image off a flatbed editing system. Quality is low, and speed control is not precise enough for reliable editing.
+
+In general usage, the word “telecine” is often used to mean any film-to-video conversion. It’s also used to refer to the pulldown process (see Working with 24p and Pulldown, p. 601).
+
+High-Resolution Film Scanners
+
+Telecine transfers can produce images of very high quality, but which are subject to the limitations of video itself in terms of resolution and tonal reproduction. Film scanners are film transfer machines that get around those limitations and can capture all the resolution and tonal range of the original negative. If you’re familiar with digital still photography, imagine every frame of 35mm or Super 16 film reproduced as a TIFF or RAW file, and you’ll have the right idea. Film scanners typically capture film frames to uncompressed Digital Picture Exchange (DPX) files. DPX is based on a format Kodak devised for its pioneering (now defunct) Cineon film scanning system. DPX files are huge and therefore recorded directly to arrays of hard drives or to digital linear tape (DLT).
+
+Fig. 16-6. The Spirit DataCine series of high-resolution scanners can output HD and SD video formats, and some can output 2K and 4K DPX data files. (DuArt Film and Video)
+
+The two most common types of scans are 2K and 4K, which are typically 2048 x 1556 pixels and 4096 x 3112 pixels, respectively (the vertical pixel dimension of a 2K or 4K scan is determined by aspect ratio). The 4K version most closely approximates the original resolution of 35mm negative. However, when compared to 2K, 4K requires four times the data. This means longer scan times per frame and four times the disk storage for the larger 50MB/frame DPX files (2K files are 12MB/frame). This translates into at least double the costs of 2K. As a consequence, 2K scans have been Hollywood’s budget choice for most 35mm special effects, digital cinema applications, and digital intermediate work, although this is changing as the price of high-end computing and fast disk arrays drops. For Super 16 scanning, 2K is considered more than adequate.
+
+A 2K or 4K scan can serve as the ultimate “universal master”—a high-resolution 24p source from which to generate a digital intermediate for film release, files for digital cinema projection, as well as downconverts to HD or SD at virtually any frame rate and frame size, including NTSC and PAL. One caveat, however, is that storing and retrieving ninety minutes of huge DPX files is expensive, as is processing them to create downconverts to SD and HD. It is often more economical to simply transfer the negative on a telecine to a 24p HD master, which is then used as the digital intermediate to make HD deliverables.
+
+TYPES OF FILM SCANNERS. Some film scanners have a continuous film transport similar to that of a telecine. They can transfer film to HD video and also create 2K and 4K scans. Examples are the DigitalFilmTechology’s Scanity and Spirit DataCine family, and Cintel’s C-Reality, DSX, and dataMill. Some can scan film negative to 2K resolution at 24 fps (real time).
+
+Other scanners are based on the slower, intermittent, pin-registered transports of optical printers, and these create high-resolution film scans at less than real time.
+
+Digital Intermediates
+
+Kodak created the term digital intermediate, or D.I., to describe the process of scanning film to 2K or 4K digital files, doing color correction, degraining, scratch removal, wire removal, special effects, and so forth, in the digital realm, then outputting the results back to film in a seamless, undetectable manner, with no loss of resolution or tonal scale. However, in the years since the term first appeared, its use has widened to encompass virtually all high-resolution digital postproduction, from HD formats to DPX files. Many people use it to refer to a post workflow that results in no film-out at all—for instance, preparing a feature shot on Super 16 and scanned to HD for digital projection at a film festival.
+
+Perhaps the best use of the term is to refer to workflows that involve shooting with high-quality image capture systems (including 16mm and 35mm film, HD video, RGB 4:4:4, or 2K or 4K files from digital cinematography cameras) with the intent of doing a high-quality theatrical release, either on film or via a DCP.
+
+TELECINE OPTIONS AND CONTROLS
+
+Film gets transferred to digital in various ways and you have many choices.
+
+RECORDING FORMAT AND SCANNING OPTIONS
+
+Frame Size
+
+If a film is only going to be transferred to digital once, an argument can be made for transferring to the highest-resolution format you can afford. For a well-budgeted feature, that means scanning to 2K or 4K DPX files. For an independent film or television production, 1920 x 1080 HD is virtually a match for 2K and it’s cheaper.
+
+If you’re going to the expense of shooting film, it is counterproductive to transfer to SD, as most broadcasters and screening venues show HD these days.
+
+If you’re making digital dailies for the offline edit, choose a lower-data-rate HD file using ProRes or DNxHD codecs. It will not only provide a better offline editing experience, but you’ll be able to better inspect which shots are sharp or soft before they make it to the big screen.
+
+Frame Rate and Scanning
+
+Which frame rates you use to record in the digital transfer may depend on the part of the world you’re working in (formerly NTSC countries or formerly PAL countries; see p. 7), the equipment available to you, and the end product you want to create.
+
+NTSC COUNTRIES. The universal standard frame rate for shooting film is 24 fps. When editing digitally, there are many advantages to editing at 24 fps as well. Having a direct, one-to-one correspondence between film frames and digital frames simplifies things a great deal, and it ensures greater accuracy when moving back and forth between celluloid film and digital video. If you edit at 24 fps in the NLE, you can still derive other frame rates if needed later (for example, if you’re broadcasting at 60i). Since each film frame resembles a progressive scan (each frame captured all at once), it also makes sense to do the digital transfer to a progressive digital format.
+
+There are two main methods of transferring film to digital at 24p. One is to record to a 24-frame format. When recording to file, both ProRes and DNxHD can record at 24p. When recording to tape, formats like HDCAM SR can record at 24 PsF (see p. 602 and Fig. 14-35).
+
+The other method is to record to a 60i format using 2:3 pulldown (see p. 603). If this is done, reverse pulldown can be used to restore the 24p stream in the NLE.
+
+If the movie is being made for television and will be broadcast at 60i (30 fps), some people prefer to transfer the film in the telecine to 60i video using 2:3 pulldown and then just treat it like any other 60i video project. This can work fine, but it may lock you into interlace, which has various disadvantages (see p. 11).
+
+When working with a 24p format, it’s important to keep in mind that while the standard speed for film cameras is 24 fps, telecines in countries where NTSC video has been used will usually transfer at video frame rates that are 0.1 percent slower than the integer number (see The Frame Rate, p. 14). So when a video camera or deck indicates it’s operating at “24p,” that usually means 23.976p.3
+
+What does this 0.1 percent slowdown mean to you? Well, first of all, you can’t hear it or see it. Footage playing at 24p will look the same as 23.976p. However, if sound is running at one rate and the picture is running 0.1 percent faster or slower, they will go out of sync with each other. It’s essential that the 0.1 percent slowdown be taken into account when working with audio (this is discussed below). It’s also important to be clear whether you mean 24p or 23.976p as you plan workflows. Many NLEs offer the option of working at true 24p or at 23.976 fps.
+
+PAL COUNTRIES. In countries where PAL was formerly the broadcast standard, frame rates are simpler. Film can be shot for television at 25 fps and telecined to 25p video in a simple frame-to-frame transfer with no speed change or pulldown. HD or SD video at 25p or 50i runs at exactly the stated rate.
+
+When film is shot for cinema projection at 24 fps and transferred to 25p video you have options about how to handle it. The most common method is to speed the film up to 25 fps in the telecine (a 4.1 percent increase), which again provides a simple frame-to-frame transfer. This is sometimes called the 24@25 method. It will cause the audio to rise in pitch slightly (about a half tone), which can be digitally processed later if desired to lower the pitch. Depending on your NLE and your preferences, you may then edit at 25p or slow the NLE down to 24p for editing. When projected in a theater at 24 fps, this will run normally, and when shown on television at 25 fps, it will have a 4.1 percent shorter running time and higher-pitched audio.
+
+You can also use pulldown to transfer with no speed change. With the 24+1 telecine pulldown method, sometimes called PAL+1, an extra field is added every 12 frames, adding 1 video frame every second, bringing 24 fps up to 25 fps. With this method, audio remains at normal speed.
+
+Recording Media and Compression
+
+You can record with many video formats in the telecine (though your transfer facility may not have them all).
+
+It is increasingly popular to record directly to file, using codecs like ProRes and DNxHD. The transfer house can transfer the files to your hard drives, which you should then immediately back up.
+
+Some people prefer to record to tape, which can be used for archiving. HDCAM SR offers very high-quality RGB 4:4:4 recording, but it’s not cheap. Other HD formats include D-5 HD and standard HDCAM for 4:2:2 Y’CBCR recording. You’ll still need files for editing, which can be made at the same time as the tapes or later from the tapes.
+
+High-resolution 2K and 4K scans may be done to hard drives or media such as digital linear tape (DLT).
+
+IMAGE CONTROL
+
+Transfer and Color Correction Strategy
+
+The telecine works in concert with several other pieces of equipment. The color corrector is a dedicated video processing system that allows the telecine operator or colorist to program color and other image settings. This is also called grading and the colorist may be called a grader.
+
+For digital dailies, you have a choice of transferring all the footage so you have easy access to it in the editing room, or you could transfer only circle takes that were indicated in the camera report or log as being good. Generally, digital dailies are made directly from the original camera negative rolls (often two camera rolls are spliced together to form a lab roll or flat for transfer). You have a few choices in terms of how the footage is color-corrected:
+
+A one-light transfer uses a single color correction for the entire roll. This is the fastest and cheapest and may be done for dailies if the footage is going to be transferred a second time (as in Scenario Two, above).
+
+In a best-light transfer, the colorist may make a few corrections on each roll.
+
+In a timed transfer, the colorist does scene-to-scene color correction, making each shot look as good as possible. This is the slowest and most expensive. It’s worth noting that no matter how well scene-to-scene grading is done, further color correction will be needed after the movie is edited.
+
+A flat transfer (also called a flat grade) is a variant of a one-light and involves creating an image that has visibly low contrast and preserves as many of the extremes of exposure as possible at one time. This approach is often used when the negative is going to be transferred only once, because it provides the most flexibility for digital color correction at a later stage (otherwise, certain types of color correction in the transfer may lock you into particular looks that can’t be undone later). A standard Cineon/DPX 10-bit log transfer characteristic (gamma) is often used to provide consistency in different playback environments. But you (and audiences and clients) won’t like the flat image until, at a later stage, a LUT is applied to adjust the color and contrast of the material. The director of photography may choose a given LUT to create a particular look, which can be changed at any point later. Makes for a fast and economical transfer.
+
+Fig. 16-7. Colorist at work on a DaVinci system. (DuArt Film and Video)
+
+Other Telecine Image Controls
+
+Beyond simply reproducing what is on the film, telecines can provide tremendous creative control over the image. Shots can be moved horizontally (X axis) or vertically (Y axis) or resized (Z axis). This allows you to pan and scan a widescreen image for conversion to a narrower aspect ratio. You might want to enlarge the image, in order to remove unwanted objects near the edge of the frame, or to zoom in on something important.
+
+Telecines offer a variety of frame rates. Off speeds can be used for effects on individual shots, or entire films can be time compressed or expanded to fit a certain broadcast length. Speeding up a feature film 3 percent can shave three and a half minutes off the running time without making any cuts. Some movies actually play better if sped up a little for the small screen. With any speed changes, you need to watch carefully for motion artifacts like judder that may be introduced, especially in scenes with fast subject or camera movement.
+
+Film may have a certain amount of weave or unsteadiness in the telecine gate, causing the entire image to float slightly. This may go undetected in a straight transfer but be painfully apparent if nonmoving video titles or effects are later superimposed on the image (titles that are already on the film are not a problem). Some telecines and scanners use pin registration (see Fig. 6-3) or electronic alignment systems to increase steadiness.
+
+Other image processing includes enhancement (also called detail; see p. 138), which can make the image appear sharper. This should be used sparingly. Many systems are equipped with grain reducers, which can help soften the appearance of film grain.
+
+Cleaning the Negative
+
+Handling of negative should be kept to a minimum and any unnecessary shuttling in the telecine should be avoided. Use extreme care to avoid dirt, scratches, and cinch marks. The transfer facility should clean the negative before making transfers or prints. The safest cleaning method is ultrasonic cleaning. As the film passes through a solvent bath, high-frequency vibrations remove all but the most firmly embedded dust particles.
+
+Some telecines and scanners are equipped with liquid gates (also called wet gates), in which the film is immersed in a liquid with the same refractive index as the film. This can hide base scratches, minimize surface emulsion scratches, and sometimes lessen graininess.
+
+Both ultrasonic cleaning and wet gate printing may weaken or open tape splices. Notify the transfer facility if the footage has any tape splices.
+
+After transfer or scanning there is often some dirt in the image. Dust busting is typically done for feature films to clean up visible dirt spots by digitally cloning clean areas from surrounding frames and pasting pixels from those areas over the dirt. This technique can also be used to repair scratches and other artifacts.
+
+AUDIO OPTIONS
+
+Since telecine suites usually charge hundreds of dollars an hour, you want to minimize your time in there. A key cost factor is how audio syncing is handled.
+
+As discussed above, one option is to have the audio synced in the telecine suite. The advantage to the producer is that both picture and sound are taken care of at one time and synced dailies can be delivered quickly to the production team. This workflow is most expensive if traditional clapper sticks are used without timecode. A timecode slate is more efficient: the telecine operator stops at each slate, types in the timecode number, and the audio playback shuttles to the correct piece of sound. The fastest method is to shoot with in-camera film timecode (AatonCode or ARRI Code). In this case the audio can instantly chase (find and keep up with) the picture during the transfer and there is no extra time penalty for syncing during the transfer.
+
+A more cost-effective strategy is to transfer the picture first (silent transfer), then sync audio to picture later in a layback suite (see Fig. 16-3). Or, even better, you can sync it yourself on your NLE. For more, see Working with Double-System Sound, p. 589.
+
+Speed Control
+
+As discussed in Frame Rate and Scanning, above, the frame rates used for filming, transfer, and editing vary by project and by which part of the world you’re working in. The playback speed of the audio often needs to be adjusted to stay in sync with the picture. Speed adjustments may be handled by the transfer facility, or you may be doing them in the editing room.
+
+NTSC COUNTRIES. Film is traditionally shot at exactly 24 fps. As noted above, in countries where NTSC video has been standard, video frame rates are not whole numbers, but instead are 0.1 percent slower than what they appear to be. When you transfer film that was shot at exactly 24 fps using a telecine, it will typically be transferred either to 23.976 video or, if pulldown is used, to 29.97. In either case, the digital transfer of the film is playing 0.1 percent slower than real time. We have to take that into account when syncing the audio.
+
+There are various methods to slow the audio down by 0.1 percent in the telecine suite or after. Digital recorders are sometimes set to a sample rate of 48.048 kHz in the field and then played back at 48 kHz to slow the playback 0.1 percent (see p. 465). Or audio can be recorded normally, then slowed down in post.
+
+If you’re syncing in the NLE, you can import audio at its normal rate, then modify its speed to 99.9 percent.
+
+Alternatively, if your NLE supports it, you can speed the picture up 0.1 percent to true 24 fps before syncing the audio. This allows you to import audio digitally at standard 48 kHz sample rate with no frame rate or speed conversion that could lower quality.
+
+Confusingly, the term “pulldown” is also used to refer to this slowing down of picture or sound, as in, “Don’t forget to pull down the sound 0.1 percent in transfer.” Similarly, speeding up may be referred to as “pulling up,” as in, “Will this audio recorder pull up from 29.97 to 30?”4
+
+When production audio is recorded in the field with timecode, typically a true 30 fps timecode is used. When the audio is slowed down by 0.1 percent, this becomes 29.97 fps timecode, which can stay in sync with either 23.976 or 29.97 fps video.
+
+A film camera can be run at certain speeds that do not require any pulldown in the audio. Modern crystal-sync film cameras can be operated at 29.97 or 23.976 fps. Since these speeds can run on the telecine without being slowed down, real time is maintained, so audio should not be pulled down. Some telecines can be run at precisely 24 fps, so they maintain real time as well.
+
+As long as you keep in mind whether you’re working with real-time media or footage that’s been slowed 0.1 percent, you can decide if you need to correct for the difference. Some techniques of changing audio speed can degrade the audio quality, so be sure to discuss workflow plans with the post team.
+
+PAL COUNTRIES. When 24 fps film is transferred to 25 fps video in the typical way, there is a 4.1 percent increase in frame rate. The audio will need to be sped up by 4.1 percent, which results in a noticeable change in pitch, though that may be digitally corrected later. If you slow the video down in the NLE to edit at 24 fps, you can import double-system sound into the NLE with no speed change.
+
+Some people use the 24+1 telecine pulldown method (sometimes called PAL+1), in which an extra field is added every 12 frames to create a 25 fps digital transfer. In this case audio should run at its normal speed.
+
+FILM TRANSFER DATA
+
+Several systems are used to track footage and timecode in the film-to-video transfer, later in editing, and for any retransfers or negative cutting during the finishing process. The following are the main ones in play, though they’re not all used on every production.
+
+Film Key Numbers/Keycode
+
+Kodak and Fujifilm expose eye-readable key numbers and machine-readable bar codes along the edge of camera negative that can be read after the negative is processed (see p. 283). Key numbers identify every frame of the original negative and are essential for match cutting after editing. Kodak calls its bar code version Keykode and Fujifilm call its MR code. Most telecines have keycode readers, allowing them to track the negative as it goes through the machine. Key numbers run in an unbroken sequence from the beginning of each camera roll to the end. Unlike timecode in video, film key numbers are permanent in the film and never change, so they’re a solid reference for finding and cutting the sections of negative.
+
+In-Camera Timecode (also called Film Timecode)
+
+All Aaton and some ARRI cameras have the ability to expose timecode along the edge of the negative near the key numbers and keycode (see Fig. 6-14). In-camera film timecode—AatonCode and ARRI Code are 24 fps versions of SMPTE/EBU timecode—is always set to record the time of day (TOD) at the moment each frame of film is exposed. For sync-sound shooting, the audio recorder in the field records identical TOD code, so sound and picture can be matched up by timecode either in a properly equipped telecine or in the NLE.
+
+Audio Timecode
+
+Timecode recorded with the audio in the field is sometimes called audio timecode, production audio timecode, or sound timecode. As noted above, when the film camera records the same timecode as the audio recorder, we can easily sync the sound and picture. However, since many film cameras don’t record in-camera timecode, a timecode slate may be used for sync (see Fig. 11-19). A timecode slate displays the same timecode as the audio recorder in big LED numbers so that when the film camera shoots it for a few seconds, we have a convenient way to line up picture and sound for sync.
+
+Video Timecode (also called Telecine Timecode)
+
+Whenever you transfer film to video in a telecine, the video will be given timecode, which is recorded on the videotape or to the metadata of a digital file. Sometimes referred to as telecine timecode, this is completely separate from any production timecode that may or may not have been recorded in the film camera or audio recorder. Video timecode allows each videotape reel or file of the transfer to have its own unique, ascending timecode that runs continuously from the beginning of the reel to the end (note that each video reel may contain more than one film camera roll). When recording to a 1080p/24 format like HDCAM in 24p PsF mode, this will be 24 fps timecode. When recording to 60i it will be standard 30 fps SMPTE timecode. When you capture 60i to a nonlinear editing system, you can either edit at 30 fps or use reverse pulldown to reconstruct the 24 fps frame rate and timecode from the film (see Fig. 14-31). PAL transfers will normally be 25-frame EBU code. Together with the key numbers, it’s essential that video timecode be tracked correctly for accurate negative cutting and online editing.
+
+Fig. 16-8. This Cinema Tools screen provides a good opportunity to look at the data associated with a film transfer. (Apple, Inc.)
+
+FILM DATA (from film shot in the field):
+
+SCENE AND TAKE: from slate or log
+
+CAMERA ROLL: original camera negative roll number
+
+LAB ROLL AND DAILY ROLL: each may contain more than one camera roll
+
+KEY: key number read from the keycode exposed in the film when it was manufactured
+
+INK: ink edge code printed on the workprint after it has been synced; used when transferring from workprint
+
+TK SPEED: telecine transfer speed in fps
+
+STANDARD: film format; 35mm four-perf shown here
+
+VIDEO DATA (the video being recorded in telecine session):
+
+REEL: reel number of videotape or file, as assigned by production or facility
+
+TIMECODE: timecode of video
+
+DURATION: length of shot/clip
+
+TC RATE: timecode rate of video; 30 fps nondrop shown here
+
+SOUND DATA (from production audio recorded in the field):
+
+ROLL: sound roll number
+
+TIMECODE: audio timecode recorded in the field (and displayed on digislate)
+
+TC RATE: timecode rate of production audio (see p. 467)
+
+Ink Edge Code
+
+On feature films for which a film workprint has been made, identical ink edge code numbers are printed on each roll of workprint and matching roll of mag sound after an editor has put them in sync. Also called Acmade numbers, they facilitate traditional film-style editing using a flatbed. Some NLEs can track these numbers to aid in cutting the workprint for, say, test screenings by film projection. Ink edge code numbers must be entered into the NLE manually during logging.
+
+Shot Logs
+
+Without doubt, there’s a lot of data to keep track of. You may wonder what you need it for. If you’re planning to edit on an NLE and then return to the original camera negative to do additional digital transfers and/or cut the negative for film prints (as outlined in Scenarios Two and Three, above), then you’ll want to track the video timecode, key numbers, and production film timecode (if any). However, if you plan to transfer the negative only once, edit digitally, and never return to the negative, you may not need anything more than the video timecode recorded on the master tapes or files.
+
+Rather than you trying to keep track of all these numbers yourself, the telecine facility can give you a computer file called a shot log or telecine log. A shot log might contain information such as scene, take, camera roll number, lab roll number, dailies roll number, key numbers, telecine frame rate, video reel, video timecode, audio reel, audio timecode, and telecine operator’s notes.
+
+Be sure to ask for a shot log and specify which types of data you wish to be included. A good policy is to ask that all timecode and keycode data be included in the log, even if there is an extra charge for this. You never know what information about the picture or synced sound might prove to be a lifesaver at a later date.
+
+There are several logging formats, including FLEx (.flx), ALE, ATN (Aaton), and FTL. The shot log is typically delivered as a file to be imported into your NLE; you may first need to convert it to a format compatible with your NLE. The numbers from the log file should be checked carefully after capturing the clips in the NLE (see below).
+
+BOOKING A TRANSFER
+
+The following are some considerations in planning and ordering a film-to-digital transfer. As noted above, transfers can be loosely thought of in two categories: digital dailies, which are made for offline editing purposes, often with the intent of going back to the original camera negative after editing to do another transfer; and final transfers, which are done for edited films either from the negative before online editing, or from an assembled source such as a master positive or print after the film is done. Many films, ranging from student projects to big-budget television movies, are transferred only once; that transfer is used for the offline edit and for the finished product.
+
+It’s essential that you talk with the transfer facility, the video editor, and the negative cutter before making any arrangements for the transfer.
+
+Film-to-tape transfers are generally billed on an hourly or per-project basis. Transfer time will be longer than the running time of the material; how much longer depends on the material and what’s being done to it. As a ballpark, digital dailies without scene-to-scene color correction (“one-light” or “best light”) may take one and a half to two times the running time of the footage; dailies with sound and color correction may take three to six times the running time; careful color correction of a finished film may take fifteen to twenty times. Footage with many short shots may take more time to transfer than material with long takes.
+
+Digital Dailies
+
+For video dailies, the negative cutter, lab, or transfer facility prepares the footage for transfer. The following items should be specified and/or discussed when you place your order:
+
+Film format. Specify whether you shot 35mm, Super 16, 16mm, or Super 8. Flat (nonanamorphic) or ’Scope. Color negative or black-and-white. Manufacturer and film type.
+
+Aspect ratio. Did you shoot 16:9? 1.66? 1.85? 2.39? When shooting 35mm particularly, it’s a good idea to film a framing chart at the head of the reel so that the telecine operator can verify your camera’s aspect ratio and exact framing.
+
+Video format. What videotape format are you recording to? Or are you recording direct to hard disk or other data format? What frame rate are you recording to: 24p? 60i? 50i?
+
+Punch head of each camera roll or flat. A punch mark is made in the negative to serve as a reference point at the zero timecode frame. This is typically done at a key number ending in 00 (such as KJ 23 1234 5677+00). Ask for a list of each roll’s corresponding key numbers at punch marks. After you have captured the video into the NLE, you can use the list to check against transfer errors. Many people like to have a punch made at the head of each camera roll or wherever there is a break in key numbers (that is, wherever two pieces of film are spliced together). Sometimes punches are only made at the head of each film flat (also called lab roll or lab reel), which may be made up of a few camera rolls spliced together.
+
+Pulldown. When transferring from 24 fps to 60i, it’s standard practice to do an “A-frame transfer,” which should start at the head punch with an even hour of timecode (such as 02:00:00:00). For more, see Managing Pulldown, p. 698.
+
+Timecode. This is the video timecode that will be recorded on tape or file. For editing purposes, nondrop timecode (ND) is recommended to avoid errors. Specify the starting timecode for each tape (typically a different hour for each).
+
+Burn-in numbers. If you’re making digital dailies (with the intention of scanning the film again later or cutting negative), there are a set of numbers you may want to have burned in so they’re visible on screen. These include film key number, in-camera film timecode (if any), audio timecode (if any), and video timecode. You must specifically request from your postproduction facility inclusion of each of these burned-in data windows in your dailies; you can specify where they’re placed on the screen. You can also have a “clean picture” (not burned in) with timecode and keycode information on the address track of the videotape and in the telecine shot log. You can also have two sets of tapes or files made, one with and one without burn-ins.
+
+Audio sync. Do you want audio synced in the telecine session or will you do it later? Is there audio timecode (production timecode)? Timecode slates? Do you want audio code recorded to video?
+
+Color correction. Do you want the colorist to adjust the image for each scene or just once for the entire roll? See above for more on this.
+
+Shot log. You will usually want a shot log of the transfer (see above). Ask for a file format compatible with your editing system.
+
+Shipping and storage. Do you want the negative returned to you or stored by the lab or transfer facility? What type of shipping do you want for the videotape and/or negative?
+
+Contact info. Be sure to include off-hour phone numbers in case of questions.
+
+Transferring Edited and Finished Films
+
+On some productions, a high-quality transfer or scan is done after the offline edit to create color-corrected, high-res media for the online (see Scenario Two, p. 680). On some productions, the final, high-quality transfer is done from a film print or other motion picture film element (see Scenario Three, p. 681). A good colorist will contribute enormously to the way your film looks, so ask for recommendations and check out the colorist’s previous work. In a supervised transfer you get to be present. In an unsupervised transfer—which usually costs less—you let the colorist work alone. Be sure to let the colorist know in advance of any special looks you’re going for. Some transfer facilities will charge you per foot instead of per hour for unsupervised work.
+
+Keep in mind that you may need to make several versions of the movie recorded in different aspect ratios (with or without letterboxing and/or pan and scan), with different edits (full-length and TV cutdown), or in different video standards (HD, SD, and compressed versions for Internet streaming). If you’ve made a distribution deal, these assorted masters are called “deliverables” and are required by contract. Today it’s common to make one master transfer and do your versioning from that. The key to going this route is to make a universal 1080p/24 HD master (or larger frame size). From this single master, all broadcast HD, SD, and Internet submasters can be generated with no loss in quality.
+
+Use a high-quality digital master as the audio source. Even if there’s timecode, it helps to have a countdown leader with an audible sync pop at “2” to check against potential errors.
+
+If you’ve already cut the negative and done film printing in the lab, you may have some choices about what film element to use for the transfer.
+
+Original negative. Using the original negative for the transfer results in the sharpest picture with the most flexibility for color correction in terms of color and tonal scale. Because color negative reproduces a full tonal scale at about half real contrast, all shadow and highlight details are visible (including perhaps those power cables on the floor you thought were hidden in the dark corner of the set), details that will be unavailable in later prints that have higher projection contrast. However, for transfers done after the movie is edited, going back to the original negative may entail doing an online edit of the show after it is retransferred to video, which adds cost.
+
+Master positive. For movies that have already been edited, a color master positive (sometimes called an interpositive, or IP) makes a second-best source for the video transfer. A master positive is a single-strand, low-contrast, positive copy of the original negative made from a special intermediate film stock (for more, see Intermediates, p. 711). A master positive preserves the original negative’s full latitude yet has finer grain than the original. It is typically struck from a negative that has been scene-to-scene color-corrected, so it will already be fine-tuned for color and density before it gets to the telecine suite (although more correction will be necessary in the telecine). No online edit is needed after transfer.
+
+Duplicate (“dupe”) negative. Made from the same intermediate film stock as a master positive, a duplicate negative is also printed from a master positive. A dupe negative is less desirable than a master positive as a video transfer element because is it one generation further removed from the original, with consequent loss of sharpness and a buildup of grain and contrast.
+
+Print. For reasons of cost, a master positive, which costs considerably more than a simple print, may not be feasible. Standard answer or release prints, although more contrasty, are the only alternative. Prints are generally complete with all titles and credits, which may or may not be an advantage depending on your needs (foreign broadcasters or distributors may want a “textless” version). For transfer to video, a black-and-white print can be developed to lower contrast (gamma) to facilitate a less contrasty transfer, an option not available in developing a color print.
+
+EDITING FILM DIGITALLY
+
+As described earlier, film is mostly used today as an acquisition format for digital postproduction. In other words, projects that shoot film generally transfer or scan the footage to create digital files, and from that point forward they do editing, visual effects, and color correction digitally.
+
+On many productions, film is transferred to digital once, and the camera original negative is never used again. The digital files or tapes created during the telecine or scanning process essentially become the new camera original materials. So you can handle the editing the same way you would for other video projects. See Chapter 14 for digital editing, and in particular the discussion of working with 24 fps media that starts on p. 601. If this is your workflow, the following discussion doesn’t apply to you.
+
+However, as outlined in Scenarios Two and Three above (see p. 680), on some productions, the camera original footage is transferred once to digital dailies for the offline edit. Then, after the offline edit is locked, the film footage is rescanned and/or physically cut. If you are using one of these types of workflows, then you need to ensure that you can translate the offline edit back to the film without errors. This includes (1) making sure the NLE is working with accurate metadata about the film transfer and (2) making sure that any edits you do in the offline won’t create problems later (the rules are slightly different if you plan to rescan the film versus cutting negative in the traditional way). There are also things to keep in mind if you plan to eventually make film prints.
+
+PREPARING TO EDIT
+
+One of the first considerations is what frame rate you will be editing in (also called the editing timebase). For example, editing at 24p can work nicely with film shot at 24 fps and transferred to 24p files. Or you may be delivering the project to a broadcaster at 60i and choose to edit at 29.97 fps. Reasons to choose different editing timebases are found elsewhere in the book and should be discussed with the postproduction team.
+
+Importing audio to the NLE is discussed on p. 690. Syncing is discussed on p. 589.
+
+Managing Data
+
+When an NLE is used to edit material that originated on film, it’s essential that for every shot you edit digitally in the NLE, you can later identify the physical piece of film that shot came from. Once you’re done editing, you need to be able to precisely locate each piece of film used in the movie, and know with utter precision which frames of film to scan or cut. Working backward from a video edit to the original film footage is sometimes called doing a matchback or matching back.
+
+In the days before NLEs existed, film projects were sometimes edited on linear videotape. Translating the video edit back to film was done simply using video timecode, a method you could still use today. Every roll of camera original negative has a hole punched in the center of a certain frame at the head of the roll. Once it has been transferred to video, we know the video timecode of that punched frame and every other frame of film on the roll. So, after editing the movie in video, you can use an EDL (see p. 632) to identify every frame of film used in the video edit via timecode.
+
+Today NLEs still keep track of video timecode, but some NLEs also offer a more accurate and automated way to match back using film key numbers (keycode; see p. 283 and p. 691), which are actually printed on the film. After you’re done with the offline edit, the NLE should be able to produce an accurate list of all the negative using key numbers.
+
+Fig. 16-9. Telecine and video data. This Avid display shows the data that the NLE is tracking, which includes: the timecode of the video transfer (09:10:23:03), the pulldown phase (C2), the film keycode (K? 05 7788-8336+02), and the timecode of the production audio (10:29:40:19). Keycode, which is recorded on the film’s edge by the manufacturer and references each original film frame exactly, is the most reliable common reference when doing multiple video transfers. (Michael Phillips/Avid Technologies, Inc.)
+
+As discussed above, a telecine log (also called a shot log) allows you to import into the NLE information about the transfer, including video timecode, key numbers, and many other kinds of metadata. It’s important to verify that those numbers are correct before you start editing. To begin with, make sure that the key numbers and timecode are the same in the telecine log, any burn-in numbers on screen, and in the NLE’s bin or browser.
+
+For further verification, you can also make a confidence list. (These instructions are for Avid systems, but you can apply a similar method to other systems.) To do this, create columns in each bin with these headings: “start,” “camroll,” “kn start,” “kn mark-in,” “clip name.” Then load each clip in the source monitor and mark an In Point at the frame where the slate closes. This should bring up the key number for that frame in the kn mark-in column. Do this for every clip and then generate a bin list and send it to the negative cutter or lab. The negative cutter can then check a few takes by running down the slate and examining the actual key number on film. This way, he or she can verify that the key numbers entered into the system are correct.
+
+Managing Pulldown
+
+If you’ve transferred 24 fps film to 30 fps video (60i) and want to edit at 24 fps in the NLE, you need to do a reverse pulldown to convert back to 24p. To do this accurately, and to track timecode and key numbers correctly, the NLE needs to know the pulldown type (also called pulldown phase or pulldown field identifier) of the first frame of each clip (the pulldown type of the first frame may be called the pull-in). Pulldown type is often indicated as A1, A2, B1, B2, B3, etc. (see Fig. 16-10). With standard A-frame transfers, A frames will have timecode ending in :00, :05, or multiples of five frames. Pull-in information should be in the shot log and you may never have to worry about it.
+
+Sometimes there are errors and you need to enter the pull-in manually. The pulldown type for any frame may be visible following the key number burned in on screen (see Fig. 16-9).
+
+UNDERSTANDING PULLDOWN TYPE. How pulldown works can be confusing. To see what’s going on, look at Fig. 16-10 (you may also want to look at Fig. 14-31). Figure 16-10 shows a group of four film frames transferred to five frames of 60i video. Notice that film frame A is transferred to two fields of video (A1 and A2). Frame B is transferred to three fields (B1, B2, and B3). Frame C is also transferred to two fields, but they are split between two different video frames.
+
+Fig. 16-10. This shows the relationship of pulldown and timecode in an A-frame film transfer using normal pulldown. See also Fig. 14-31.
+
+Here’s a way of looking at them:
+
+Frame A is transferred to both fields that make up video frame 1 with no timecode change between the two fields.
+
+Frame B is transferred to both fields of video frame 2, and to the first field of video frame 3. (Three fields total—B1, B2, B3—timecode change between fields 2 and 3.)
+
+Frame C is transferred to the second field of frame 3 and the first field of frame 4. (Two fields total—C1, C2—timecode change between the fields.)
+
+Frame D is transferred to the second field of video frame 4 and both fields of video frame 5. (Three fields total—D1, D2, D3—timecode change between fields 1 and 2.)
+
+If the pulldown type is not indicated, you can figure it out by slowly stepping through the video field by field while watching on a monitor. Find a distinct frame, say a hole-punch or the moment where the clap sticks come together. If two fields are identical and there is no timecode change between them, you’re looking at an A frame (note that the A frame is special in having this simple one-to-one relationship between film and video frames). If two fields are identical but the timecode changes between them, that’s a C frame. If three fields are identical but there is a timecode change between the first and second field, you’re looking at a D frame.
+
+When working with PAL or other direct frame-to-frame transfers where no pulldown is used, pulldown type doesn’t exist. What a relief!
+
+EDITING CONSIDERATIONS FOR TRADITIONAL FILM FINISH
+
+This section applies only to projects like the one described in Scenario Three, in which the workflow involves a digital offline edit followed by traditional film conforming to make film prints—in other words, if you’re cutting negative the old-fashioned way. It does not apply to anyone making a D.I. or other digital master immediately after the offline edit that will be used to make digital outputs and perhaps a film-out.
+
+Dupe Frames and Cutting Frames
+
+When you’re editing digitally you can repeat a shot as many times as you like. For example, you might want to use a certain establishing shot several times in your movie. In film, every shot is based on one piece of negative, which normally can be put in only one place in the movie. If you want to use the same shot twice, that footage will usually need to be duped (physically duplicated on another piece of film).
+
+Also, at the head and tail of every shot removed from the original camera rolls during negative conforming (“cutting the negative”), the negative cutter needs a fraction of the next frame beyond the first and last frame of the shot for the overlap required by a cement splice. If you take a shot and cut it into two pieces, you need to leave at least one unused frame between the pieces. This is called a cutting frame or cutback frame. Many nonlinear editing systems have a “dupe detection” feature that warns you if you’ve reused any part of a shot or left insufficient cutting frames between shots. When editing at 30 fps on an NLE, leave at least two video frames unused so you will be sure to have at least one film frame.
+
+Fades and Dissolves
+
+When making fades and dissolves, video editors can choose virtually any length effect. Film contact printing machines, on the other hand, offer a standard set of fade and dissolve lengths and you should try to use one of them. Check with your lab for available lengths. Standards usually include 16, 24, 32, 48, 64, or 96 frames, which (at 24 fps) is 0.67, 1, 1.33, 2, 2.67, or 4 seconds. Some nonlinear systems can print out an optical list (see below), which will help you identify any nonstandard effects you may have used.
+
+Reel Divisions
+
+The film needs to be divided into sections that will fit on reels for printing. This is discussed on p. 705.
+
+WHEN YOU’RE DONE WITH THE OFFLINE EDIT
+
+You’ve edited the movie on your NLE and locked picture. Now it’s time to go back to the original camera negative to rescan it for a D.I. or to cut it for traditional film finish.
+
+If you edited at 24 fps (either true 24p or 23.976p), you should be able to generate a frame-accurate list of the negative used in the final sequence. Sometimes you do this from an EDL using timecode. However, it’s preferable if your NLE can make the list using film key numbers (keycode) from the original transfer (particularly if you plan to do a D.I. with DPX files). Specialized software is sometimes required. Avid uses FilmScribe.
+
+The lab or negative matcher will use the key numbers and/or the timecode to find the negative that corresponds to the clips you used in the NLE sequence.
+
+Film Cut Lists
+
+Several types of lists are used to translate from the NLE to the film negative or workprint. Remember, when talking about negative cutting and film postproduction, an individual shot or clip is called a “scene” (as opposed to the meaning of the word in shooting, where a “scene” can be made up of several shots).
+
+Pull list. Tells the negative matcher which scenes to take (pull) from each camera roll. There are various types of pull lists, including scene pull lists and optical pull lists.
+
+Assemble list. Shows all the scenes in their proper order. Includes the beginning and ending footage and frame count of each scene; the first and last key number of each shot; the lab roll number; the camera roll number; and the clip name.
+
+Dupe list. Shows which material needs to be duplicated prior to conforming the negative because it’s used more than once in the movie. A dupe list can be generated at any time during editing to check that no material has been unintentionally duplicated.
+
+Optical list. Shows what source material is needed to create special effects, including freeze frames, slow motion, fast motion, etc.
+
+Change list. Shows only the changes (additions or deletions) that have been made since an earlier version. This is helpful if a film workprint is being cut along with the edited video for test screenings or if the negative has been transferred and edited already and only certain sections need to be changed.
+
+Retransferring for a D.I.
+
+If you’ll be rescanning the negative for a D.I., the NLE can generate a pull list of the shots used in the film. You may want to pull shots with handles (a few extra frames) or take shots from flash frame to flash frame. You might even choose to avoid cutting the negative at all, and have the telecine or scanner fast-forward to the sections you need. The benefit is that you minimize handling and don’t destroy any footage in case you want to edit another version differently.
+
+After the footage is scanned, you transfer the project to a finishing system capable of working with high-resolution files. The offline sequence is then relinked to the new high-res media, and the D.I. is conformed with any visual effects, graphics, titles, and so on.
+
+Matchback from a 30 fps Project
+
+If you shoot film at 24 fps, transfer to 30 fps video (60i), then edit the offline video at 30 fps, be aware that certain errors may creep in when you translate the video edit back to film. This is because there won’t be an exact match between the 30 fps video timecode and the 24 fps film frame count.
+
+Take a look at Figure 16-10. You can visualize the lower row as a shot that’s five frames long in video and see that it translates neatly and exactly back to four frames of film (the upper row). The same is true of any shot in video that’s a multiple of five frames.
+
+Now imagine a three-frame shot in video (say, the first three frames in Fig. 16-10). This could be thought of as two and a half frames of film. If we use only the A and B frames from the negative, the film shot will be slightly shorter than the offline video. If we include the A, B, and C frames, the film will be slightly longer than the video.
+
+The software that performs the matchback from 30 fps to 24 fps will drop or add a frame when needed to keep the overall running time the same between the video and film. This may cause slight sync drift, but never more than plus or minus one frame. It can result in some bad edits, such as when you thought you cut something out of the movie (like a flash frame) and you find it’s back in after the matchback. You should be able to review the cut list and see where the software made changes to check for potential problems. This is also the reason you should leave two cutting frames in the video for the negative matcher so she’ll be sure to have at least one in the film.
+
+These kinds of problems apply only when you go back from a 60i video offline to cut the negative (or to do a rescan at 24 fps). If you’re planning to transfer from film to video only once and stay in 60i, it’s nothing to worry about.
+
+FROM DIGITAL TO FILM
+
+A digital video-to-film transfer, or a transfer of digital files to 35mm, is called a film-out or scan-out. These conversions are primarily used by two distinct markets.
+
+At the high end are big-budget feature filmmakers who are working with high-resolution files in a digital intermediate. These may be 4:4:4 RGB or DPX files (or other formats) acquired with high-end HD or digital cinematography cameras at resolutions including HD, 2K, and 4K. Or the movie may have been shot in film and scanned in a high-resolution scanner.
+
+In this workflow, the postproduction and effects are done in the HD, 2K, or 4K realm, and at the last stage the D.I. is recorded to film to make prints for theatrical distribution in cinemas.
+
+The other transfer market is for independent or television movies that have been shot in HD or SD video, but where the filmmakers want to make film prints to show in festivals or for theatrical release. If necessary, the video is up-resed and converted to 24p before doing a film-out.
+
+Digital projection is becoming the norm, so the need for 35mm prints is diminishing rapidly.
+
+Digital-to-Film Recorders
+
+There are various technologies for writing digital video or digital files to film, and they range in quality and cost. At the highest level currently are film recorders. These systems use either a laser, a high-res LCD panel, or a cathode ray tube to record high-resolution HD, 2K, or 4K images directly onto 35mm film. Most of these machines work slower than real time, but some newer ones can operate at 24 fps. Generally film recorders are used to create film negatives or intermediates from which quantities of prints can be made. But some, like the Cinevator, can create prints directly; a filmmaker who only needs a film print for a few festivals may prefer this method.
+
+Fig. 16-11. Arrilaser film recorder for making film-outs. (DuArt Film and Video)
+
+The most popular laser film recorder is the Arrilaser, which uses three solid-state lasers—red, green, and blue—to write directly to the color negative. LED recorders include the Definity from CCG. CRT film recorders, including models made by Celco, use a high-resolution black-and-white CRT whose image is projected into a film camera. Each film frame gets three exposures: one each through a red, a green, and a blue filter.
+
+The original video-to-film conversion method is the 16mm kinescope, a device mainly consisting of a special film camera shooting a high-quality video monitor in real time. This type of kinescope (the color negative that results is also called a kinescope, or “kine”; rhymes with “skinny”) is the most economical transfer method. Since 16mm has all but died as a distribution format, few people make 16mm kinescopes or choose to film-out to 16mm anymore.
+
+PREPARING FOR THE DIGITAL-TO-FILM TRANSFER
+
+Before choosing a transfer facility, talk to filmmakers you know and ask to see samples of the facility’s work. Once you choose a facility, work closely with it to prepare your video prior to transfer. Do short tests of footage before investing in the full transfer.
+
+Color and Image Considerations
+
+The process begins with making your digital cinematography look as good as possible. When shooting your movie, use a high-quality digital camera at the highest resolution you can afford. Shoot HD, 2K, or 4K if possible. Shoot at 24p. Using high-quality PL-mount cine lenses when the camera has a Super 35–sized sensor can make a huge difference. If you’re shooting with a 2⁄3-inch HD camcorder, Zeiss DigiPrimes can’t be beat. (Remember that primes are faster and sharper than zooms.) Be fastidious about focus. Use a properly set up field monitor (see Appendix A) to avoid unintentional over- and underexposure. If using an HD video camera, turn down the sharpness or enhancement (see p. 138). You may want to use a special gamma or even a log curve instead of standard Rec. 709 gamma to preserve as much shadow or highlight detail as possible (see Chapter 5). Before you begin shooting, consult with a transfer facility about the use of nonstandard gammas.
+
+During editing, project the video on a big screen and look for things like poor focus that may not be noticeable on a small monitor but will be in a theater. Hopefully you didn’t shoot interlace (see p. 11), but if you did, watch for interlace artifacts in which straight diagonal lines look like stair steps. These and artifacts like color fringing may lead you to reedit sections or do some video fixes.
+
+Color correction that looks good in video won’t necessarily translate directly to film. Video and film possess different color gamuts and tonal scales. Each post facility has its particular film recorder tweaked with custom color lookup tables (LUTs), which means that you can’t take the same set of color corrections from one facility to another. But this is also an area where a lot of creative input can be had in terms of the look on film. If you’re on a tight budget, you may be going more or less directly from your color-corrected video with a best-light or minimal correction, but the facility will still have to assign overall values for color correction, gamma, and sharpness. Discuss using noise or grain reduction.
+
+Frame Rate
+
+If you shot at 24p, then you’re way ahead of the game in terms of the film-out. Since film is also 24p, there should be no problem with motion or interlace artifacts. If you shot at 25p or 50i, the film-out will be made on a frame-for-frame basis, so there won’t be motion artifacts, but the projected movie will run 4 percent slower. You may want to give the composer in advance a version that has been slowed down 4 percent in case any music adjustments need to be made prior to the film-out.
+
+When material has been shot at 24p, transferred to 60i video and edited at 60i, then transferred to film, you can get strange motion artifacts. Better to use reverse pulldown and edit at 24p. If you mastered at 60i, the transfer facility will do the reverse pulldown.
+
+If you shot at 60i, the footage needs to be deinterlaced (see p. 213) and pulled down to 24 fps. Poorly done, this may result in some scenes looking soft (unsharp) or having judder (stuttering motion). Various transfer houses have proprietary software for doing the frame rate conversion and some are superior to others.
+
+Resolution
+
+High-quality transfers are done from HD, 2K, and 4K files. If you shot in SD, the facility will up-res your video prior to the film-out. Some facilities favor high definition RGB 4:4:4 instead of 2K for film-out, maintaining that it matches 2K quality while being more economical. Of course, the higher the resolution you start with, the better it will look when recorded to film.
+
+Titles
+
+Credit rolls can create weird motion artifacts. If you have an SD or HD master in 60i, it’s best to remake the titles in 24p, and don’t use fonts with fine lines. Some people prefer cards for end credits instead of a moving roll to avoid any motion issues.
+
+Subtitles can be done in video but, if so, they can’t be removed from the film negative. If you’re only making a few prints to distribute in different languages, consider making them without subtitles, then use a laser-burn process to add them to individual prints.
+
+Aspect Ratio
+
+Cinema projection is virtually always widescreen, so you need to consider any potential aspect ratio conversions (see p. 74).
+
+Most theaters will crop or mask the top and bottom of the full 35mm frame to project a 1.85 widescreen image. Since HD video masters are typically 16:9 (the equivalent of 1.78 film aspect ratio), not much adjustment is needed to fit the 1.85 frame. One method is to crop the digital image 2 percent at the top and bottom. Another option is to scale down the digital image just a bit, to bring the top and bottom inside the film frame. This way, you don’t crop anything out and the thin black bars on the sides can be masked by the theater curtains.
+
+For some productions, an anamorphic (’Scope) film-out is made for widescreen aspect ratios like 2.40.
+
+Reel Length
+
+Films are divided into manageable lengths, called reels, for editing and printing. A typical feature film will be made up of several reels. Before doing a film-out (or making prints the traditional way), if the movie isn’t already divided into reels, it needs to be broken into roughly twenty- to twenty-one-minute sections, since 35mm films are generally printed and released on 2,000-foot reels. Talk to the lab and transfer facility for their preferences; they can usually do this reel balancing for you.
+
+Choosing the reel breaks involves a bit of care and artfulness. Be attentive to the scenes at which reel breaks take place, particularly the first scene on a new reel. Avoid having reel breaks in midscene or where music is playing or before scenes with important information (in case the projectionist messes up the transition from one reel to the next). The heads and tails of reels tend to get a lot of wear and tear, so try to avoid very light scenes, which show dirt more.
+
+If you’re cramped for space on a reel, remember that the head and tail of the reel are reserved for printing leaders so the movie itself can’t be more than about 1,900 feet (35mm film runs at 96 feet per minute). The reels should also be balanced so each reel is full (or nearly so), with the last reel shorter if necessary.
+
+If you’re doing the reel breakdown on your NLE, see p. 653 for information about leaders and sync pops, which are needed to keep the picture and print sound track in sync.
+
+After a film is printed, the reels are often spliced together for projection or shown alternately on two projectors, using a changeover device. See 35mm Release Prints, p. 713, for inscribing changeover marks on the release prints. See p. 715 for special precautions when preparing sound tracks for multireel films.
+
+Film Stock
+
+Some film recorders are designed to record to particular film stocks, and others offer a range of options. Be sure to discuss this with the transfer facility.
+
+Alpha Cine Labs in Seattle, popular with many independents, uses Kodak Color Intermediate II 5242/2242 (acetate/polyester) or Fuji Eterna-RDI 8511/4511 (acetate/polyester). All are intermediate stocks that produce a negative with sharper resolution than camera original negative, and they are better suited to printing a large number of release prints. The polyester-base stock is more resistant to wear and tear compared to acetate. If using an acetate negative for more than ten prints, Alpha Cine recommends creating an additional master postive and dupe negative.
+
+Filmmakers are often unaware that they have a choice of print stocks on which to print their film-out. Kodak, for instance, offers Kodak Vision color print film 2383 and Vision color print film 2393. The 2383 is Kodak’s workhorse print stock, but the more contrasty 2393 has richer blacks and more saturated colors (and costs more). Fuji offers three Eterna print stocks that differ in density, contrast, and color saturation.
+
+As noted above, sometimes a direct print is made with no negative if only one print and a few screenings are anticipated.
+
+For more on these topics, see Making Film Prints, p. 709. Sound tracks for film prints are discussed starting on p. 713.
+
+TRADITIONAL FILM CONFORMING AND BLOWUPS
+
+As described on p. 49, not that many years ago the standard workflow for a movie shot on film involved editing a film workprint, then cutting the camera original negative to match the edited workprint. Negative cutting, also called conforming, is the process of assembling the camera original in rolls so that prints and intermediates can be made. Conforming must be done with utmost care and precision and cutting errors made during conforming can be disastrous.
+
+As time and technology have moved on, most people now edit digitally. As described in Scenario Three on p. 681, it is still possible to go from a digital offline edit to conform negative in the traditional way. However, this workflow is falling by the wayside. Independents just don’t need film prints as much as they used to, and studio filmmakers usually prefer to do a D.I. with a film-out rather than conform and print from the negative in the traditional way.
+
+This section is included as an overview of methods you may want to be familiar with and may still be using. Film restoration and archival work often involves traditional methods.
+
+PREPARING THE ORIGINAL FOR PRINTING
+
+Films are conformed in different ways depending on the film gauge and what kind of printer is being used. A printer is essentially a machine that duplicates one piece of film onto another. The camera original and the unexposed printing stock move past an aperture where the intensity and the color of light exposing the stock can be controlled. Prints can be made either by putting the original in contact with the print stock on a contact printer or by projecting the original onto the print stock through a lens on an optical printer (see Fig. 16-12).
+
+Below are two principal ways of laying out the original for printing (and sometimes digital transfer).
+
+Fig. 16-12. Contact and optical printing. (A) The contact printer: the original is printed in emulsion-to-emulsion contact with the print stock. The inset shows how this changes the wind. Usually the original reads through the base (B-wind), and the contact print reads through the emulsion (A-wind). (B) The optical printer: a lens is used between the original and print stock. The wind can be preserved or changed on an optical printer. (Carol Keller)
+
+Single Strand
+
+Splicing the conformed original into a single strand (also called A-rolling) is simple and straightforward. This is the standard process in 35mm printing, since the frame line is wide enough to make cement splices that aren’t visible on screen.
+
+However, when you’re printing from a single strand in 16mm and Super 8, splices—whether made with cement or tape—will show on the screen. Virtually all professionally made 16mm films are printed using a more expensive technique that makes cement splices invisible (see below).
+
+Single-strand printing has some disadvantages. When you use a contact printer, fades on negative stocks and double exposures, superimposed titles, or dissolves on either negative or reversal stocks are normally not possible, since these effects require the overlapping of two shots. You can do these effects from a single strand if the effect is optically printed or done digitally; then a new piece of negative with the effect is spliced into the roll.
+
+A&B Rolls
+
+Printing in multiple strands of original can make splices invisible in 16mm. A&B rolling (also called checkerboard printing) is the most common way of printing 16mm films. This involves dividing the shots from the original onto two rolls and spacing them with black leader. Thus, the first shot of the movie is on the A-roll, with black leader opposite it on the B-roll. The second shot is spliced onto the B-roll, and leader of the same length fills the space on the A-roll. To print the A&B rolls, first the A-roll is run through the printing machine with the print raw stock. The shots on the roll are exposed onto the print stock, but wherever there is black leader nothing happens. Then the B-roll is threaded up with the print stock. The shots on this roll occur only where black leader was on the A-roll.
+
+This technique leads to invisible splices because the overlap needed to make the cement splice occurs over black leader, through which no light reaches the print stock. A&B rolls allow you to do fades, dissolves, double exposures, and superimposed titles.
+
+Fig. 16-13. A&B rolling. (left) Three shots laid out on A&B rolls with black leader as spacing. (right) The overlap for the 16mm cement splice occurs over the black leader, not over the picture. (Carol Keller)
+
+BLOWUPS
+
+Enlarging from a smaller gauge to a larger (for example, from 16mm to 35mm) is called a blowup. Going from a larger gauge to a smaller is called reduction printing or, sometimes, blowdown. Today most filmmakers who shoot Super 8, 16mm, or Super 16 and need 35mm film prints do so by running the film through a telecine or scanner and then doing a film-out to 35mm. However, the traditional method is to use an optical printer for blowups.
+
+16mm and Super 16 Blowups
+
+Blowups from 16mm and Super 16 to 35mm (see Fig. 1-39) may be done for low-budget feature films that receive theatrical distribution. The Super 16 format, having a larger frame and wider screen aspect ratio, was basically designed for blowup so if you know at the start of the project that you will need a blowup, shoot Super 16 whenever possible.
+
+When shooting 16mm or Super 16, do everything you can to minimize grain. Use fine-grained film stocks and avoid underexposure of color negative. Slightly overexposing color stock up to one stop produces the finest-grain blowup (for more on grain and exposure, see Chapter 7). Avoid flashing and force processing (pushing).
+
+When composing images during the shoot, keep in mind the aspect ratio you intend to distribute the film in. In the United States, most theaters show films at 1.85:1, though some can accommodate 1.66:1, which is a standard used in European theaters. When shooting regular 16mm, be aware that the top and bottom of the frame will be cropped. Some viewfinders are marked for 1.85 aspect ratio (see Fig. 6-6). The lines marked for the top and bottom of the TV safe action area are very close to 1.66 cutoff. Even if the film was not shot with blowup in mind, if the framing is not too tight you’ll probably be fine.
+
+MAKING FILM PRINTS
+
+You may have done a film-out to create your film negative from a digital file, or you may have shot film and conformed negative in the traditional way. In either case, you have options when it comes to making film prints. For projects that are shot on film, the terms camera original and original camera negative (OCN) refer to the footage that went through the camera. For the purposes of this section, “camera original” will also refer to the first negative produced in a film-out.
+
+PRINTING BASICS
+
+A print made directly from the camera original is referred to as a first-generation print. A print made from a copy of the camera original would be a second-generation print. Sharpness is lost and grain increased every time a duplicate is made. The filmmaker has to decide how many generations are acceptable.
+
+Film must be as clean as possible before you make any prints or intermediates (see p. 689).
+
+Print Exposure and Color Correction
+
+The exposure and color for each scene must be controlled in printing to correct errors in the original and to provide creative adjustments. Contact and optical printers usually have an exposure scale divided into one to fifty steps called printer lights or printer points. Color balance is controlled by dividing an intense beam of white light into three separate beams of red, green, and blue light by means of a beam-splitter. Each of these colored beams is first modulated in fifty incrementing steps by light gates (little barndoors) and then recombined at the printer aperture (additive printing).
+
+Different labs use different machines and standards, but as a rule a normally exposed negative will print near the middle of the range, usually between 25R, 25G, 25B (“25 points across”) and 30R, 30G, 30B (“30 points across”). A negative that was overexposed in shooting will appear darker or “heavier” and will need brighter printer lights to compensate when printed. One stop of overexposure will need a correction of +6 points or +7 lights applied to all three colors.
+
+At the lab, the color timer (U.S. term) or grader (British term) adjusts exposure and color balance, much as a colorist corrects the image during a video transfer and uses his judgment about how corrections will ultimately translate to the film print.
+
+The types of corrections available in film printing machines will seem primitive compared to working in video. In a film printer, an overall color balance must be chosen for each scene. In video, you can change the color of, say, a person’s shirt without affecting the skin tone; or you could darken only the sky while leaving the landscape unchanged. This is yet another reason why many film projects are finished digitally, with a film-out to make prints.
+
+Print Stocks
+
+Camera stocks are matched to companion print stocks to produce an image of proper gamma (see Chapter 7). There is no reason, however, that a Fuji print can’t be struck from a Kodak negative, or vice versa. (It happens all the time.) If your overall imagery has less contrast than normal, consider a Kodak or Fuji print stock with higher contrast or deeper color. Different negative and print stocks combine to produce a range of looks and palettes. Don’t be afraid to test them.
+
+ANSWER PRINTS
+
+The first print from the conformed original is the answer print. It is a timed, color-corrected, trial print. The first answer print is rarely perfect. You’ll make corrections, then a second (or third) answer print to check them. Generally you should let the timer do the color corrections for the first answer print on his or her own. Then screen and/or discuss it with the timer to make any changes for the next print. Nevertheless, tell the timer in advance of any special timing instructions, such as night scenes or scenes that should have an unusual color cast. Often filmmakers get used to the timing of the dailies and are shocked by the new timings in the answer print.
+
+Evaluating the Answer Print
+
+View the answer print (or any other print being evaluated) on a projector you know or under standard conditions. The lab will often have a projection room that meets industry standards for image brightness and color temperature. Carefully check for conforming errors, invisibility of splices, smooth cuts without image jumping, quality of effects. If the print shows dirt from the original, have the printing rolls cleaned before striking the next print. If there are scratches or cinch marks, you may want to see if wet gate printing will help. If there is a sound track, listen carefully for good sound reproduction without distortion or excess noise.
+
+Write down a list of shots that need correction. It’s best to screen the print with the timer at this point or note errors by footage count from the “Picture Start” mark on the head leader of each reel. See p. 626 for some color correction guidelines that apply to both film and video.
+
+INTERMEDIATES
+
+Even if handled carefully, the camera original will start to show wear after several prints. Splices can pull apart after repeated trips through the printer. Some labs do not like to pull (make) more than a few prints from color negative original; however, as noted above, polyester-base stocks sometimes used for film-outs are more rugged. If more than ten prints are to be made from acetate original, standard practice is to duplicate the original onto an intermediate, which you then substitute for the original when making release prints (that is, the prints for distribution). Intermediates serve several purposes: they protect the original from handling; they serve as an insurance copy; and they allow quantity printing at a lower price. However, if you are making only a few release prints, printing directly from the original saves money and achieves the highest quality. Intermediates are sometimes referred to as preprint elements.
+
+Original Color Negative
+
+Intermediates for original color negative are usually made in a two-step process. The original negative is first printed to a master positive. (Master positive is the correct term for color positive intermediates, but interpositive, IP, and interpos, terms from the earlier days of black-and-white printing, are often used instead.) Master positives are commonly made with Kodak 5242 for 35mm or 7242 for 16mm (both are acetate stocks). Also popular are master positives with an indestructible polyester base made with Kodak 2242/3242 (35mm/16mm). Equivalent Fuji intermediate stocks for making master positives are Eterna-CI 8503/8603 (35mm/16mm, acetate) and 4503 (35mm, polyester).
+
+Master positives have a gamma of 1.0, which reproduces a positive version of the original negative’s tonal scale with a 1:1 contrast. After the master positive is made, it is printed to the same intermediate stock it was made with, which reverses the tonalities again, to produce a duplicate negative (dupe neg). Release prints can then be struck from the dupe negative. This two-step process not only protects the original negative, but the master positive makes an excellent low-contrast, first-generation source for a video transfer (see p. 696).
+
+When the same shot is used twice in a movie, a dupe neg can be made of the original shot and cut in with the original camera negative. In this case, be sure to have the dupe neg printed on acetate stock so it will splice with the OCN (acetate and polyester can’t be cement-spliced together).
+
+There are other forms of intermediates for color negative originals. Color separation negatives (also called YCM masters) are three separate records of the color original made on black-and-white film using red, green, and blue filters, respectively. Although expensive, YCM masters use no color dyes and create a permanent, nonfading record of the colors for archival storage.
+
+Reversal Original
+
+For films shot with reversal original, an internegative (IN) can be made from the original. This allows release prints to be made in the standard negative/positive process instead of trying to strike reversal prints from reversal original, a process that may not be available and often results in lower-quality optical sound tracks.
+
+Black-and-White Negative
+
+To control contrast, black-and-white negatives are duplicated by the same two-step process used for duplicating color negatives. First the negative is printed onto Eastman Fine Grain Duplicating Positive Film 5366/7366 (35mm/16mm, acetate), and then the master positive is printed onto a duplicate negative made with the same stock.
+
+Check Prints
+
+A check print is like an answer print but made instead from a dupe negative or internegative. After a dupe negative or internegative blowup to 35mm is made, for instance, a check print is struck to verify that all went well.
+
+RELEASE PRINTS
+
+A release print is a print intended for distribution—finished and ready to be shown. Minor timing errors on a check print or an answer print can usually be corrected when the release print is made. Today most movies projected on film are distributed in 35mm. A few film festivals still accept 16mm, but 16mm distribution has largely disappeared.
+
+Fig. 16-14. Release prints being prepared for shipping. (Film-Tech.com)
+
+35mm Release Prints
+
+Usually 35mm prints are mounted on plastic or metal reels and shipped in plastic cases or heavy-duty ICC or Goldberg metal cases. The reels of film should be taped or otherwise secured to prevent unspooling in shipment. Reels are usually about twenty minutes long. Some theaters will splice all the reels into a single platter for projection (see Fig. 16-17). The sound should be prepared with pullups in anticipation of the reels being spliced together (see Analog Optical Tracks, p. 715).
+
+Some theaters will keep the reels separate and use two matched projectors. They change over from one projector to the other at the end of each reel to avoid an interruption for reloading. Changeover marks are small circles inscribed in the upper-right-hand corner of a few frames at the end of each reel to cue the projectionist when to start the next projector. The lab can put marks on the print, or on a dupe negative so they appear on all prints. Counting backward from the last frame on a reel, the marks appear on frames 25 to 28 and 196 to 199.
+
+Print Care and Handling
+
+When labeling print containers for shipment, be sure to put your return address inside the case, since many shippers will cover over exterior labels. Indicate whether a case or reel is part of a set (for example, “Reel 2 of 3”). Prints should be kept clean and free from damage. Broken perforations may be repaired with splicing tape or preperforated tape applied to just the edge of the film without obscuring the picture.
+
+Release prints today are generally made on polyester stock. All prints get scratched, but 16mm prints are particularly vulnerable. Always clean the projector gate before use (see below). For distribution, you may want to use a film shipping house (see Chapter 17) that can inspect and repair prints whenever they come back from being shown. For more on prints and projection, see below.
+
+SOUND FOR FILM PRINTS
+
+Before reading this, see Mix Formats, p. 669, for information about sound mixing and release formats for sound. This section is about putting the finished track on a film print. A film print with sound is called a composite or married print.
+
+ANALOG OPTICAL TRACKS
+
+Optical Tracks
+
+The traditional type of composite print employs an optical sound track, which uses a photographic process to record and play the sound. Optical tracks are a worldwide standard in 16mm and 35mm. Conventional optical tracks look like jagged lines along the edge of the film (see Fig. 16-16). In the projector, an exciter lamp shines a narrow beam of light through the sound track. As the area (thickness) of the track varies, so does the amount of light that can pass through it. A photocell on the opposite side of the film converts the changes in light into a changing electrical signal, which is reproduced as sound.
+
+In 35mm, optical sound may be mono (one channel of sound) or stereo. With Dolby SR (Spectral Response) tracks, four channels of sound (LCRS; see p. 670) can be encoded in one pair of stereo tracks. Dolby SR increases the dynamic range and reduces the noise of optical tracks; it can produce very good quality. In 16mm, optical tracks are mono and the sound quality is relatively poor.
+
+Fig. 16-15. Film projector and optical sound. Light from the exciter lamp shines through the optical sound track. The resulting variations in the light are registered by the photocell (shown in cutaway). In 16mm, the optical sound reader is separated from the film gate where the image is projected by 26 frames. (Carol Keller)
+
+Making Optical Tracks
+
+To make an optical track, you supply the lab or sound facility with the movie’s sound track (the printmaster; see p. 673) on disc, hard drive, mag film, or other format. Using an optical recorder, the track will be exposed photographically on a piece of film called an optical sound negative or optical sound master. After development, the optical sound negative is then contact printed with each release print. At each step in the process, the density of the optical track must be carefully controlled. If a sound house produces the optical master, it’s imperative that the house have a close working relationship with the lab.
+
+Newer projector technology uses an LED instead of a tungsten exciter lamp, and prints have a cyan-colored sound track. However, these projectors don’t read conventional silver tracks well. A compromise high-magenta sound track may produce acceptable results on either type of projector.
+
+KEEPING OPTICAL TRACKS IN SYNC. When you submit a sound track to the lab to make an optical sound master, it should be prepared according to the standard SMPTE leader format with an audible beep at the “2” (see Reel Breaks and Reference Movies, p. 652). On the optical master, the beep will appear as a frame of squiggly lines in an area where the track is otherwise smooth. The lab will position this frame several frames ahead of the “2” when it makes the release print. The separation is 26 frames in 16mm and 20 frames in 35mm. Without the beep, the lab may have no accurate way to put the track in sync with the picture. Be sure to discuss with the lab the frame rate at which the film was edited to ensure proper speed adjustments have been made.
+
+WHEN REELS ARE SPLICED TOGETHER. For projection it is common to splice together the various reels that make up a movie and show it in one continuous strand. An interesting thing happens if you splice together two reels of a release print. Say you have a 35mm print and you splice the first frame of picture of reel 2 to the last frame of reel 1. When the splice runs through the projector, the picture will cut from one reel to the next, but the sound won’t change until almost a second later. Actually, you get 20 frames of silence after the cut, at which point the sound from reel 2 starts with the first 20 frames cut off. Not good.
+
+Why does this happen? Look at the 16mm projector in Figure 16-15. The film is moving from top to bottom, so as the cut moves through the projector it first passes the film gate but doesn’t reach the sound reader until about a second later. This separation is the reason the optical sound for any frame of picture is located on the print 26 frames ahead of the picture in 16mm (20 frames in 35mm).
+
+To create a smooth, natural cut in which the sound and picture change in sync, we must repeat sound from the head of reel 2 to the tail of reel 1. This can be done before, during, or after the mix. It simply means duplicating this short section of sound and adding it onto the tail of reel 1’s track. Mixers do it as a matter of course at the mix. This is sometimes called a pullup (but should not be confused with the use of “pull up” to mean speed up). A pullup should be done to the tail of every reel in the film except the last one. This is only needed for film prints and does not apply to editing together reels of video.
+
+DIGITAL SOUND TRACKS
+
+On most modern film releases, digital tracks are used on the film prints to provide better quality and more audio channels.
+
+Dolby Digital
+
+Perhaps the most common digital film print format is Dolby SR-D. With this system, a pattern of dots that carry digital data is printed between the sprocket holes of the film print (see Fig. 16-16). Also called Dolby Digital, this format can accommodate a 5.1-channel mix (left, center, right; left and right surround; and a subwoofer for low-frequency effects). Dolby Digital prints also include the analog Dolby Stereo optical track described above, for theaters that can’t play the digital track. The analog track plays a four-channel mix folded down from the 5.1-channel digital mix. Dolby Digital Surround EX can accomodate 6.1 or 7.1 channels. Dolby Digital requires a license from Dolby for each production as well as certification from a Dolby technician that proper procedures are followed.
+
+Fig. 16-16. The edge of a 35mm release print showing four types of analog and digital sound tracks that can be put on the same print. (Frank Angel)
+
+DTS, SDDS, and THX
+
+Digital Theater Systems (DTS) uses a CD-ROM to play six channels of uncompressed digital sound on a disc playback system interlocked to the film projector. This can be used for a four-channel or 5.1-channel mix. DTS needs to be licensed for your production and works only in theaters equipped with disc playback equipment. DTS can be used on 16mm and 35mm prints and requires a timecode track on the print.
+
+Sony Dynamic Digital Sound (SDDS) is an eight-channel digital system that uses a matrix of dots, similar to SR-D, but positioned along both edges of the film outside the sprocket holes. This can be used for 7.1-channel mixes.
+
+On major releases, analog, Dolby Digital, DTS, and SDDS tracks may all be included on the same print so it’s usable with any projection system.
+
+Lucasfilm’s THX system isn’t an audio format, but it sets standards for the playback environment, regardless of the film format. THX-licensed home theater systems are based on Dolby Pro Logic Surround decoding.
+
+FILM PROJECTION
+
+Projectors (often jittery machines with dirty, low-contrast optics) are usually the weak link in the chain of equipment that transfers the image from the world to the screen. Even so, the image quality of projected film may be more consistent than video projection, which varies widely with the type of equipment and how it’s adjusted. When projecting 35mm, the theater will have a set of lenses for different types of prints (flat or anamorphic).
+
+If you’re handling the projection, keep the film path of the projector clean, especially the area of the film gate behind the lens. Dirt and emulsion dust regularly accumulate in the gate and can easily scratch the film. Use a cotton swab with alcohol or acetone to clean both sides of the pressure plate (acetone should never be used on plastic or sound heads). Hairs that lodge in the gate during a screening can often be blown out with a can of compressed air while the film runs. Try to focus the picture and adjust the sound before the audience arrives. Focusing can be done with the naked eye, with binoculars, or with an assistant at the screen if the distance from the projector to the screen (the throw) is great. If you focus on the grain and not the image itself, you’ll be sure to maximize sharpness even if the scene itself was filmed out of focus.
+
+Whenever possible, do a tech-check before the audience arrives to set audio levels and ensure that the right lens and masking are being used.
+
+Fig. 16-17. Many theaters use a platter system so that an entire print can be spliced together, fed to the projector in one piece, and spooled up again. The projectionist only has to start the projector at the beginning and turn it off at the end. (Film-Tech.com)
+
+1. In the telecine, sync is adjusted in one-frame increments; in the NLE you can slide audio plus or minus one-quarter frame or less.
+
+2. Quality varies among digital formats. Uncompressed PCM audio tracks at 48 kHz, 16 or 20 bits, are common in video formats and will serve fine if the original audio was recorded at a similar resolution.
+
+3. People often round 23.976 to 23.98 or 23.97 for convenience.
+
+4. And the term “pullup” has other meanings as well! See When Reels Are Spliced Together, p. 715.

@@ -1,0 +1,598 @@
+181
+3 Custom Function SettingsN
+C.Fn III -8 AF Microadjustment
+Normally, this adjustment is not required. Do this adjustment 
+only if necessary. Note that doing this adjustment may prevent 
+correct focusing from being achieved. AF adjustment cannot be 
+done during Live View shooting in Live and Liveu modes.
+You can make fine adjustments for the AF’s 
+point of focus. It can be adjusted in ±20 steps 
+(-: Forward / +: Backward).
+The adjustment amount of one step varies 
+depending on the maximum aperture of the lens. 
+Adjust, shoot (73), and check the focus. 
+Repeat to adjust the AF’s point of focus.
+With setting 1 or 2 selected, press the <B> button to view the register 
+screen. To cancel all the registered adjustments, press the <L> button.
+0: Disable
+1: Adjust all by same amount
+The same adjustment amount is applied to 
+all lenses.
+2: Adjust by lens
+An adjustment can be set individually for any 
+particular lens. Adjustments for up to 20 lenses 
+can be registered in the camera. When a lens 
+whose focus adjustment has been registered 
+is attached to the camera, its point of focus will 
+be shifted accordingly.
+If adjustments for 20 lenses have already been registered and you want to 
+register an adjustment for another lens, select a lens whose adjustment can 
+be overwritten or deleted.
+ It is best to make the adjustment at the actual place to be photographed. 
+This will make the adjustment more precise.
+ With setting 2, if an Extender is used, the adjustment will be registered 
+for the lens and Extender combination.
+ The registered AF microadjustments will be retained even if you use the Custom 
+Function to clear all settings (p.172). However, the setting itself will be [0: Disable].
+COPY
+
+182
+3 Custom Function SettingsN
+C.Fn IV: Operation/Others
+C.Fn IV -1 Shutter button/AF-ON button
+0: Metering + AF start
+1: Metering + AF start/AF stop
+During autofocusing, you can press the <p> button to stop the 
+autofocusing.
+2: Metering start/Metering + AF start
+This is useful for subjects which keep moving and stopping repeatedly. 
+In the AI Servo AF mode, you can press the <p> button to start or 
+stop the AI Servo AF operation. The exposure is set at the moment the 
+picture is taken. Thus, the optimum focusing and exposure will always 
+be achieved as you wait for the decisive moment.
+3: AE lock/Metering + AF start
+Convenient when you want to focus and meter at different parts of the 
+picture. Press the <p> button to meter and autofocus, and press 
+the shutter button halfway to attain AE lock.
+4: Metering + AF start/Disable
+The <p> button will not function.
+C.Fn IV -2 AF-ON/AE lock button switch
+0: Disable
+1: Enable
+The functions of the <p> and <A/y> buttons will be switched 
+with each other’s function.
+When set to 1, press the <p> button to display the image index or to 
+reduce the image display.
+COPY
+
+183
+3 Custom Function SettingsN
+ C.Fn IV -3 Assign SET button
+You can assign a frequently-used function to <0>. When the camera is 
+ready to shoot, you can press <0>.
+0: Normal (disabled)
+1: Image quality
+Press <0> to display the image-recording quality setting screen on the 
+LCD monitor. Turn the <6> or <5> dial to set the desired imagerecording quality, then press <0>.
+2: Picture Style
+Press <0> to display the Picture Style selection screen on the LCD 
+monitor. Turn the <6> or <5> dial to select a Picture Style, then 
+press <0>.
+3: Menu display
+Gives the same function as the <M> button.
+4: Image replay
+Gives the same function as the <x> button.
+5: Quick Control screen
+When you press <0>, the Quick Control screen will appear. Use <9> 
+to select the function, then turn the <5> or <6> dial to set it.
+6: Record movie (Live View)
+If the [6 Live View/Movie func. set.] menu has been set to enable 
+movie shooting (p.121), press <0> to start shooting a movie when the 
+camera is ready to shoot.
+C.Fn IV -4 Dial direction during Tv/Av
+0: Normal
+1: Reverse direction
+The dial’s turning direction for setting the shutter speed and aperture 
+can be reversed.
+In the manual exposure mode, the direction of the <6> and <5> 
+dials will be reversed. In other shooting modes, the <6> dial will be 
+reversed. The direction of the <5> dial will be the same in the manual 
+exposure mode and for setting exposure compensation.
+COPY
+
+184
+3 Custom Function SettingsN
+C.Fn IV -5 Focusing Screen
+If you change the focusing screen, change this setting to match the 
+focusing screen type. This is to obtain the correct exposures.
+0: Eg-A
+1: Eg-D
+2: Eg-S
+About focusing screen characteristics
+Eg-A: Standard Precision Matte
+Standard focusing screen that comes with the camera. Provides 
+good viewfinder brightness and enables easy manual focusing.
+Eg-D: Precision Matte with grid
+This is the Eg-A with a grid. It makes 
+it easier to align horizontal or vertical 
+lines.
+Eg-S: Super Precision Matte
+Focusing screen which makes manual focusing easier than with 
+the Eg-A. Effective for users who mainly focus manually.
+About Super Precision Matte Eg-S and Maximum Lens Aperture
+ This focusing screen is optimized for f/2.8 and faster lenses.
+ If the lens is slower than f/2.8, the viewfinder will look darker than with 
+Eg-A.
+ Even if all the Custom Functions are cleared, this setting will be retained.
+ Since the standard Eg-A focusing screen comes with the camera, C.Fn 
+IV -5-0 is already factory set.
+ To change the focusing screen, refer to the instructions that come with 
+the focusing screen.
+ The C.Fn IV -5 setting is not included in the registered camera user 
+settings (p.187).
+COPY
+
+185
+3 Custom Function SettingsN
+C.Fn IV -6 Add original decision data
+0: Off
+1: On
+Data for verifying whether the image is original or not is appended to the 
+image automatically. When the shooting information of an image 
+appended with the verification data is displayed (p.129), the <L> icon 
+will appear.
+To verify whether the image is original, the Original Data Security Kit 
+OSK-E3 (sold separately) is required.
+The images are not compatible with the image encryption/decryption 
+features of Original Data Security Kit OSK-E3.
+COPY
+
+186
+For faster access, you can register up to six menus and Custom 
+Functions whose settings you change frequently.
+1 Select [My Menu settings]. Under the [9] tab, select [My Menu 
+settings], then press <0>.
+2 Select [Register]. Turn the <5> dial to select 
+[Register], then press <0>.
+3 Register the desired items. Turn the <5> dial to select the item, 
+then press <0>.
+ When the confirmation dialog 
+appears and you select [OK] and 
+press <0>, the menu will be 
+registered.
+ You can register up to six items in My 
+Menu.
+ To return to the screen in step 2, 
+press the <M> button.
+ Sort
+You can change the order of the registered menu items in My Menu. 
+Select [Sort] and select the menu item whose order you want to 
+change. Then press <0>. With [z] displayed, turn <5> to change 
+the order, then press <0>.
+ Delete / Delete all items
+Deletes the registered menu items. [Delete] deletes one menu item 
+at a time, and [Delete all items] deletes all menu items.
+ Display from My Menu
+When [Enable] is set, the [9] tab will be displayed first when you 
+display the menu screen.
+3 Registering My MenuN
+About My Menu settings
+COPY
+
+187
+Under the Mode Dial’s <w>, <x>, and <y> positions, you can 
+register most of the current camera settings including your preferred 
+shooting mode, menus, Custom Function settings, etc.
+1 Select [Camera user setting]. Under the [7] tab, select [Camera 
+user setting], then press <0>.
+2 Select [Register]. Turn the <5> dial to select 
+[Register], then press <0>.
+3 Register the desired items. Turn the <5> dial to select the Mode 
+Dial position where the camera 
+settings are to be registered, then 
+press <0>.
+ When the confirmation dialog 
+appears, select [OK] and press 
+<0>.
+X The current camera settings (p.190) 
+will be registered under the Mode 
+Dial’s C* position.
+In step 2, if you select [Clear settings], the respective Mode Dial 
+position will revert to the default setting effective before you registered 
+the camera settings. The procedure is the same as step 3.
+w Register Camera User SettingsN
+About Camera user setting’s [Clear settings]
+COPY
+
+188
+w Register Camera User SettingsN
+ Shooting functions
+Shooting mode + setting, ISO speed, AF mode, AF point, Metering 
+mode, Drive mode, Exposure compensation amount, Flash 
+exposure compensation amount
+ Menu Functions
+[1] Quality, Beep, Shoot w/o card, Review time, Peripheral 
+illumination correction
+[2] Exposure compensation/AEB, White balance, Custom WB, 
+WB SHIFT/BKT, Color space, Picture Style
+[4] Highlight alert, AF point disp lay, Histogram, Slide show, 
+Image jump w/6
+[5] Auto power off, Auto rotate, File numbering
+[6] LCD brightness, Sensor cleaning (Auto cleaning), Live View/
+Movie function setting
+[7] INFO. button, External Speedlite control
+[8] Custom Functions
+Settings Registered
+ The My Menu settings will not be registered.
+ When the Mode Dial is set to the <w>, <x>, or <y> position, the [7 
+Clear settings] and [8 Clear all Custom Func. (C.Fn)] menus will not 
+work.
+ Even when the Mode Dial is set to the <w>, <x>, or <y> position, 
+you can still change the drive mode and menu settings. If you want to 
+register those changes, follow the procedure on the preceding page.
+ By pressing the <B> button, you can check which shooting mode is 
+registered under the <w>, <x>, and <y> positions (p.190).
+COPY
+
+189
+11
+Reference
+This chapter provides reference information for camera 
+features, system accessories, etc. The back of this 
+chapter also has an index to make it easier to look up 
+needed information.
+COPY
+
+190
+When the camera is ready to shoot, press the <B> button and 
+“Camera settings” and “Shooting functions” screens will appear.
+When “Shooting functions” is displayed, you can set the shooting 
+functions while looking at the LCD monitor.
+Display “Camera set.” and 
+“Shoot. func.”
+ Press the <B> button.
+X The button toggles between the two 
+screens.
+Display one of them.
+ Under the [7] tab, select [INFO. 
+button], then press <0>.
+ Select [Camera set.] or [Shoot. 
+func.], then press <0>.
+* This icon is displayed only when the transfer of some images failed while using 
+the Wireless File Transmitter WFT-E4/E4A.
+B Checking Camera Settings
+Camera Settings
+Date/Time (p.42)
+(p.68, 69)
+(p.76)
+Auto rotate display (p.146)
+Shooting mode registered under 
+the Mode Dial’s w, x, and y 
+positions
+(p.29, 55)
+Auto power off (p.44)
+(p.67)
+Transfer of some images failed*
+COPY
+
+191
+B Checking Camera Settings
+ When you press <9> straight down, the Quick Control screen 
+appears (p.38).
+ If you press the <m>, <o>, <n>, or <S> button, 
+the setting screen will appear on the LCD monitor and you can turn 
+the <6> or <5> dial to set the respective function. You can also 
+select the AF point with <9>.
+Shooting Functions
+White balance correction
+Aperture
+Metering mode
+Flash exposure 
+compensation
+AF point
+White balance
+Shutter speed
+Battery check
+ISO speed
+Drive mode
+Shots remaining
+AF mode
+Maximum burst
+Image-recording
+quality
+Picture Style
+Exposure level/
+AEB range
+Shooting mode
+ AE lock
+Highlight tone priority
+Quick Control icon
+If you turn off the power while the “Shooting settings display” screen is 
+displayed, the same screen will be displayed when you turn on the power 
+again. To avoid this, press the <B> button to turn off the display on the 
+LCD monitor, then turn off the power switch.
+COPY
+
+192
+You can check the battery’s condition on the LCD monitor. The Battery 
+Pack LP-E6 has a unique serial No., and you can register multiple 
+battery packs to the camera. When you use this feature, you can check 
+the registered battery pack’s remaining capacity and operation history.
+Select [Battery info.].
+ Under the [7] tab, select [Battery 
+info.], then press <0>.
+X The battery info screen will appear.
+3 Checking the Battery Information
+Model of the battery or household power 
+source being used.
+Remaining battery capacity displayed by the 
+battery check display (p.28) in 1% increments.
+Shutter count or shots taken with the 
+current battery. The number is reset when 
+the battery is recharged.
+Battery’s recharge performance level is 
+displayed in one of three levels.
+ (Green): Battery’s recharge 
+performance is fine.
+ (Green): Battery’s recharge performance 
+is slightly degraded.
+ (Red): Purchasing a new battery is 
+recommended.
+Battery position
+Do not use any battery other than the Battery Pack LP-E6. Otherwise, the 
+camera’s full performance may not be attained or malfunction can result.
+ If you use two LP-E6 battery packs in the Battery Grip BG-E6, battery 
+information for the two battery packs will appear.
+ When size-AA/LR6 batteries are used in the Battery Grip BG-E6, only 
+the battery check display will be displayed.
+ If for some reason, communication with the battery is not successful, the 
+battery check display will show < > on the LCD panel and in the 
+viewfinder. [Cannot communicate with battery] will be displayed. Just 
+select [OK] and you can continue shooting.
+COPY
+
+193
+3 Checking the Battery Information
+You can register up to six Battery Pack LP-E6’s to the camera. To 
+register multiple battery packs to the camera, do the procedure below 
+for each battery pack.
+1 Press the <B> button. With the Battery info. screen 
+displayed, press the <B> button.
+X The battery history screen will 
+appear.
+X If the battery has not been registered, 
+it will be grayed out.
+2 Select [Register]. Turn the <5> dial to select 
+[Register], then press <0>.
+X The confirmation dialog will appear.
+3 Select [OK]. Turn the <5> dial to select [OK], 
+then press <0>.
+X The battery pack will be registered, 
+and the battery history screen will 
+reappear.
+X The grayed out battery will now be 
+displayed in white letters.
+ Press the <M> button. The 
+Battery info. screen will reappear.
+Registering the Battery to the Camera
+ Battery registration is not possible if size-AA/LR6 batteries are in the 
+Battery Grip BG-E6 or if you use the AC Adapter Kit ACK-E6.
+ If six battery packs have already been registered, [Register] cannot be 
+selected. To delete unnecessary battery information, refer to page 195.
+COPY
+
+194
+3 Checking the Battery Information
+Affixing the serial No. onto all the registered Battery Pack LP-E6’s with 
+a label makes it convenient.
+1 Write the serial No. on a label. Write the serial No. displayed on the 
+battery history screen on a label 
+about 25 mm x 15 mm / 1.0 in. x 
+0.6 in. in size.
+2 Take out the battery and affix the label.
+ Set the power switch to <2>.
+ Open the battery compartment cover 
+and remove the battery.
+ Affix the label as shown (side with no 
+electrical contacts) in the illustration.
+ Repeat this procedure for all of your 
+battery packs so you can easily see 
+the serial No.
+Labeling the Serial No. on the Battery
+Serial No.
+a81a5900
+Do not affix the label on any part other than as shown in the illustration in 
+step 2. Otherwise, the misplaced label might make it difficult to insert the 
+battery or impossible to turn on the camera.
+COPY
+
+195
+3 Checking the Battery Information
+You can check the remaining capacity of any battery pack (even while 
+not installed) and also when it was last used.
+Look for the serial No.
+ Refer to the battery’s serial No. label 
+and look for the battery’s serial No. on 
+the battery history screen.
+X You can check the respective battery 
+pack’s remaining capacity and the 
+date when it was last used.
+1 Select [Delete battery info.].
+ Follow step 2 on page 193 to select [ Delete battery info. ], then
+press <0>.
+2 Select the battery pack to be deleted.
+ Turn the <5> dial to select the battery pack to be deleted, then
+press <0>.
+X <X> will appear.
+ To delete another battery pack, repeat this procedure.
+3 Press the <L> button.
+X The confirmation dialog will appear.
+4 Select [OK].
+ Turn the <5> dial to select [OK], then press <0>.
+X The battery pack information will be deleted, and the screen in 
+step 1 will reappear.
+Checking the Remaining Capacity of a Registered Battery Pack
+Serial No. Date last used
+Remaining capacity
+Deleting the Registered Battery Pack Information
+COPY
+
+196
+With the AC Adapter Kit ACK-E6 (sold separately), you can connect the 
+camera to a household power outlet and not worry about the battery 
+level.
+1 Connect the DC plug. Connect the DC Coupler’s plug to the 
+AC adapter’s socket.
+2 Connect the power cord. Connect the power cord as shown in 
+the illustration.
+ After using the camera, unplug the 
+power plug from the power outlet.
+3 Place the cord in the groove. Insert the cord carefully without 
+damaging the cord.
+4 Insert the DC Coupler. Open the battery compartment cover 
+and open the DC Coupler cord notch 
+cover.
+ Insert the DC Coupler securely until it 
+locks and put the cord through the 
+notch.
+ Close the cover.
+Using a Household Power Outlet
+DC coupler cord hole
+Do not connect or disconnect the power cord while the camera’s power 
+switch is set to <1> or <J>.
+COPY
+
+197
+The date/time (back-up) battery maintains the camera’s date and time. 
+Its service life is about 5 years. If you turn on the power and the date/
+time is reset, replace the back-up battery with a new CR1616 lithium 
+battery as described below.
+The date/time setting will also be reset, so be sure to set the 
+correct date/time (p.42).
+1 Set the power switch to <2>.
+2 Unscrew the battery holder screw.
+ Use a small Philips screwdriver.
+ Be careful not to lose the screw.
+3 Take off the battery holder. Push out the battery in direction d.
+4 Replace the battery in the battery holder.
+ Make sure the battery is in the proper 
++ – orientation.
+5 Tighten the battery holder screw.
+Replacing the Date/Time Battery
+For the date/time battery, be sure to use a CR1616 lithium battery.
+COPY
+
+198
+o: Set automatically k: User selectable : Not selectable
+Function Availability Table
+Mode Dial 1 C d s f a F
+Quality
+JPEG k k k k k k k
+RAW k k k k k k k
+RAW+JPEG k k k k k k k
+ISO speed
+Auto o o k k k k k
+Manual k k k k k
+Picture 
+Style
+Standard o k k k k k k
+Portrait k k k k k k
+Landscape k k k k k k
+Neutral k k k k k
+Faithful k k k k k
+Monochrome k k k k k k
+User Defined k k k k k
+White 
+balance
+Auto WB o o k k k k k
+Preset WB k k k k k
+Custom WB k k k k k
+Color temperature setting k k k k k
+WB correction k k k k k
+WB bracketing k k k k k
+Color 
+space
+sRGB o o k k k k k
+Adobe RGB k k k k k
+Auto Lighting Optimizer o o k k k
+Peripheral illumination correction k k k k k k k
+Long exposure noise reduction k k k k k
+High ISO speed noise reduction o o k k k k k
+Highlight tone priority k k k k k
+COPY
+
+199
+Function Availability Table
+o: Set automatically k: User selectable : Not selectable
+Mode Dial 1 C d s f a F
+AF
+One-Shot k k k k k
+AI Servo k k k k k
+AI Focus o o k k k k k
+AF point 
+selection
+Auto o o k k k k k
+Manual k k k k k
+Metering 
+mode
+Evaluative o o k k k k k
+Partial k k k k k
+Spot k k k k k
+Center-weighted average k k k k k
+Exposure
+Program shift k k
+Exposure compensation k k k k
+AEB k k k k
+AE lock k k k
+Depth-of-field preview k k k k k
+D r i v e 
+Single shooting o k k k k k k
+Continuous shooting k k k k k k
+10 sec. self-timer/
+Remote control k k k k k k k
+2 sec. self-timer/
+Remote control k k k k k
+External 
+Speedlite
+FE lock k k k k k
+Flash exposure 
+compensation k k k k k
+Flash control k k k k k
+Live View 
+shooting
+Stills only k k k k k
+Stills+movie k k k k k k k
+COPY
+
+200
+1 Shooting 1 (Red) Page
+2 Shooting 2 (Red)
+3 Playback 1 (Blue)
+Menu Settings
+Quality 73 / 83 / 74 / 84 / 76 / 86 541 / D1 / D2
+Beep On / Off –
+Shoot w/o card On / Off 29
+Review time Off / 2 sec. / 4 sec. / 8 sec. / Hold 145
+Peripheral illumination 
+correction Enable / Disable 70
+Exposure 
+compensation/AEB 1/3-stop increments, ±2 stops 97
+White balance Q / W / E / R / Y / U / I / O / P (2500 - 10000) 65
+Custom WB Manual setting of white balance 66
+WB SHIFT/BKT WB correction: White balance correctionWB-BKT: White balance bracketing 6869
+Color space sRGB / Adobe RGB 76
+Picture Style
+PStandard / QPortrait / RLandscape / 
+SNeutral / UFaithful / VMonochrome / 
+WUser Def. 1, 2, 3
+59-64
+Dust Delete Data Obtains data to be used to erase dust spots 149
+Protect images Erase-protect images 141
+Rotate Rotate vertical images 134
+Erase images Erase images 142
+Print order Specifies images to be printed (DPOF) 163
+Transfer order Select images to be transferred to a personal computer 170
+External media backup Displayed when external media is used via WFT-E4/E4A (sold separately) –
+The shaded menu items are not displayed in the fully-automatic modes (1/
+C).
+COPY

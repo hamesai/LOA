@@ -1,0 +1,1089 @@
+CHAPTER 3
+
+Space
+
+Space is a complex visual component. Defining space is the first step in understanding how to control visual structure. Space not only defines the screen where the other six visual components are seen, but space itself can make important contributions to the overall visual structure of your production. This chapter is divided into two parts. Part One defines the four basic types of space: deep, flat, limited, and ambiguous. Part Two discusses aspect ratio, surface divisions, and open and closed space.
+
+PART ONE
+
+It’s important for picture makers to understand the choices they have in controlling the visual components. For example, we have choices when picking colors. Different colors will communicate different moods and emotions to the audience. How we light a scene involves a variety of choices about tone and brightness. Visual space has its own variety of choices that will communicate different moods, emotions, and ideas to the audience. Understanding space affects the staging of actors, decisions about camera angle and lenses, the lighting, the locations, and the set design. The more a filmmaker knows about the types of visual space, the easier it is to make the best choices for a production.
+
+Deep Space
+
+The real world where we live is three-dimensional, having height, width, and depth. But the screen world is only two-dimensional. Movie, television, and computer screens are flat surfaces that have height and width but, practically speaking, have no actual depth. The challenge is to portray our three-dimensional world on a two-dimensional screen surface and have the result look convincingly three-dimensional.
+
+Deep space is the illusion of depth on a two-dimensional screen surface.
+
+ 
+
+This photograph could be described as a busy freeway that extends from the foreground (FG) into the depth of the distant background (BG). This description seems correct, but it’s completely wrong. The photograph is presented on a page in a book or on a digital screen, both of which are two-dimensional surfaces. But something about this picture convinces us that we’re seeing depth. This picture appears deep because it uses the depth cues.
+
+THE DEPTH CUES
+
+Depth cues create the illusion of three-dimensional depth on a two-dimensional surface.
+
+1. Convergence
+
+The most effective depth cue is convergence.
+
+ 
+
+Here’s the two-dimensional plane that was introduced in Chapter One. When discussing space we’ll call this a frontal plane. The plane’s horizontal top and bottom lines are parallel and its vertical left and right side lines are also parallel. The frontal plane lacks depth. It appears as flat as the surface of this page or a screen.
+
+ 
+
+This building is also a frontal plane. The building’s horizontal lines are parallel and its vertical lines are parallel. For visual space purposes, this building lacks depth.
+
+The depth cue of convergence can be activated by changing the camera angle.
+
+One-point convergence:
+
+ 
+
+From a different camera angle, the building’s horizontal lines are no longer parallel.
+
+ 
+
+The building’s horizontal lines now appear to converge, or meet, at a single point called a vanishing point, or VP.
+
+ 
+
+The building is no longer a frontal plane. It is now a longitudinal plane. Convergence, which creates and defines the longitudinal plane, is the most important depth cue in creating the illusion of depth on a two-dimensional surface.
+
+Two-point convergence: Additional converging lines and vanishing points can enhance the depth cue and the illusion of depth.
+
+ 
+
+Changing the height of the camera can add more convergence. In this example the camera has been lowered.
+
+ 
+
+There are now two sets of converging lines.
+
+ 
+
+The longitudinal plane’s horizontal lines converge to a vanishing point located to the right of the frame. The vertical lines of the longitudinal plane converge to a second vanishing point located above the frame. If the camera position is raised instead of lowered, the vertical sides of the longitudinal plane will converge below the frame.
+
+ 
+
+Two-point convergence can also be created using two longitudinal planes.
+
+ 
+
+The horizontal lines of each longitudinal plane converge to separate vanishing points.
+
+ 
+
+Inverting the two longitudinal planes also creates two-point convergence. This occurs when looking into the corner of a room, for example.
+
+ 
+
+Because the vanishing points may be hidden behind the longitudinal planes, the converging lines aren’t as visible and the illusion of depth may be reduced or go unnoticed.
+
+Three-point convergence: A third set of converging lines can further enhance the illusion of depth.
+
+ 
+
+This building’s lines converge to one of three vanishing points.
+
+ 
+
+One vanishing point appears above the building. The second and third vanishing points are to the building’s left and right.
+
+ 
+
+Three sets of converging lines can be created by a low camera angle looking up or a high camera angle looking down.
+
+Convergence, longitudinal planes, and perspective can be applied to any object, including actors.
+
+ 
+
+When the camera is at eye level, an actor is like a flat, frontal plane.
+
+ 
+
+When the camera is lowered and tilted up, the actor becomes a longitudinal plane. This also occurs when the camera is raised and tilted down at the actor.
+
+Convergence and on-screen vanishing points attract the audience’s attention.
+
+ 
+
+In this illustration, the audience’s attention is drawn to the actor, but also to the vanishing point (indicated by the X) between the two longitudinal planes.
+
+ 
+
+When the subject is positioned at the vanishing point, it can direct and keep the audience’s attention on the subject.
+
+ 
+
+Should the subject always be located on the vanishing point? Absolutely not. But as these two examples reveal, it’s important to know that on-screen vanishing points will attract the audience’s attention and can be used to control where the audience is looking.
+
+ 
+
+The audience’s attention will be drawn to an on-camera vanishing point. As a vanishing point moves out of frame, its ability to attract the audience’s attention decreases or becomes ineffective.
+
+All things being equal, the more vanishing points the greater the illusion of depth. One-point convergence can look deep. Two-point convergence can appear deeper, and three-point convergence can look deepest. It’s possible to have more than three vanishing points in a picture. Four, five, ten, or more vanishing points are possible in a single shot. But an audience generally won’t notice more than three vanishing points. This limitation is an advantage for the picture maker because it means there are only three levels of illusory depth possible when using the depth cue of convergence.
+
+Remember that no matter how many vanishing points are added, there isn’t any real depth. The photographs used here to illustrate deep space exist on a flat, two-dimensional surface. All of the depth is an illusion.
+
+2. Size Change
+
+The second most important depth cue is size change. As an object of known size gets smaller, it seems farther away. As an object of known size gets larger, it appears closer.
+
+ 
+
+These shots appear to have depth because the actors are staged at different distances from the camera. Using actors, this depth cue is sometimes called “staging in depth.” Staging objects in the FG, MG, and BG increases their size difference and enhances the illusion of depth.
+
+3. Textural Diffusion
+
+Depth created by differences in detail is called textural diffusion. This is the third most important depth cue. Objects with more texture and detail seem closer. Objects with less textural detail seem farther away.
+
+ 
+
+The detailed texture in the FG actor’s costume and face makes him appear closer to the camera when compared to the BG actors. This picture also uses the depth cue of size change.
+
+ 
+
+The walls in the white hallway lack texture and detail. Even though the walls are longitudinal surfaces, the absence of depth cues, especially textural diffusion and convergence, keeps the hallway from looking deep. The dark, wallpapered hallway shot on the right has many depth cues including textural diffusion. The wallpapered hallway has more apparent depth because the changes in textural detail make the walls appear closer and farther from the viewer.
+
+ 
+
+The spectators in the FG of this shot have individual textures and details. The BG spectators are reduced to tiny dots and lack individual textural detail.
+
+4. Movement
+
+The illusion of depth can be enhanced using object movement and camera movement.
+
+4A. Object Movement
+
+Before we define movement in the screen world, let’s first define real world movement. Object movement in the real world is anything in front of the camera that moves: a person, an animal, a car, a drifting cloud, a beam of light are examples of moving objects.
+
+In the real world, there are two basic directions that an object can move in front of the camera—perpendicular or parallel to the picture plane.
+
+Object movement perpendicular to the picture plane:
+
+ 
+
+The picture plane is the two-dimensional window that frames our pictures.
+
+ 
+
+Illusory depth is created when an object moves perpendicular to the picture plane. Movement perpendicular to the picture plane is toward or away from the camera.
+
+ 
+
+As an object moves at a constant rate of speed toward the camera, the object appears to speed up. Conversely, as an object moves away from the camera, it appears to slow down. This apparent speed change is the depth cue. Object movement perpendicular to the picture plane also activates the depth cues of size change and textural diffusion.
+
+Object movement parallel to the picture plane:
+
+ 
+
+Objects can also move parallel to the picture plane—horizontal (left-right), vertical (up-down), or diagonal. The movement can be in a straight line or in a circular direction.
+
+ 
+
+A single object moving parallel to the picture plane in any direction does not create depth.
+
+ 
+
+However, depth can be created when two or more objects, at different distances from the camera, move parallel to the picture plane. This creates the depth cue called relative movement. Relative movement is the apparent speed difference between objects moving in the FG, MG, and BG.
+
+ 
+
+This example of relative movement shows three track runners (one each in the FG, MG, and BG) at a starting line. All three will begin running at the same time. Even though they actually travel the same distance and move at the same speed, the FG runner will appear to move fastest, the MG runner will seem to move slower, and the BG runner slowest.
+
+ 
+
+Adding a vanishing point and converging lines reveals the apparent speed and distance differences between the FG, MG, and BG runners that creates the relative movement. With relative movement, the FG always moves fastest and the BG moves slowest.
+
+4B. Camera Movement
+
+There are three camera moves that create relative movement and contribute to the illusion of depth. These moves are the dolly in/out, the track left/right, and the crane up/down. It doesn’t matter how the camera is being moved (by dolly, car, aircraft, mechanical rigs, or hand-held); the same depth cue applies.
+
+ 
+
+A dolly in/out moves the camera closer or farther from a subject. The dolly activates the depth cue of relative movement.
+
+ 
+
+In this example, the camera uses a wide-angle lens. As the camera dollies in, the FG actor gets larger faster than the two actors in the BG. The relative movement is due to the different distances of the FG and BG actors from the camera.
+
+ 
+
+These diagrams explain why the relative movement occurs. The camera begins 5 feet from the FG actor and 100 feet from the BG actors.
+
+ 
+
+The camera dollies forward 3 feet. Now the camera is only 2 feet from the FG actor creating a medium close-up. The BG actors began 100 feet away and ended 97 feet from the camera (only 3% closer), so the BG actors’ size change is minimal and may even go unnoticed. The radical size change in the FG actor and the very minor size change in the BG actors create relative movement. When the camera dollies away from the subject, the same relative movement is created. The FG actor quickly decreases in size and the BG actors barely change size at all.
+
+ 
+
+Relative movement can also be created when the camera moves laterally left and right, often called a tracking shot.
+
+ 
+
+This shot uses a FG actor and two BG actors. The camera tracks from left to right.
+
+ 
+
+A ground plan map diagrams the camera movement. As the camera moves from left to right, the FG actor moves faster and farther than the two BG actors. An audience interprets the relative movement between the FG and the BG as depth.
+
+ 
+
+The third camera move that creates relative movement is a crane shot. The camera is raised or lowered, usually on a mechanical arm.
+
+ 
+
+As the camera cranes up, the FG actor moves quickly toward the bottom of the frame. The BG actors move less distance and more slowly.
+
+ 
+
+The difference in speed and distance traveled between the FG and BG objects creates the relative movement.
+
+5. Aerial Diffusion
+
+The depth cue of aerial diffusion depends on particles in the air. These particles can be fog, rain, smog, snow, smoke, dust, or anything suspended in the air that obscures the view of the distance.
+
+Aerial diffusion causes three visual changes that create the illusion of depth. First, it causes a premature loss of detail and texture. Second, it condenses the picture’s tonal range. And third, aerial diffusion changes the color of the picture to the color of the aerial diffusion itself.
+
+ 
+
+Here’s a photo example taken on an extremely clear day without aerial diffusion. All of the buildings’ details, individual textures, and colors are easy to see and differentiate.
+
+ 
+
+On another day, the same scene has aerial diffusion (falling snow) which increases the apparent depth of the shot. The textural details in the BG buildings have been eradicated so the buildings seem farther away. The aerial diffusion has also condensed the picture’s darkest and lightest tones into the middle range of the gray scale. Additionally, most of the buildings’ color has been replaced with the color of off-white snow.
+
+ 
+
+In this interior scene, the aerial diffusion is smoke. Notice how the FG actor on the right has the most textural detail and tonal contrast. The MG actor has less detail and lower tonal contrast. The two BG actors lack texture and tonal contrast due to the thick aerial diffusion. Adding a thin layer of smoke to interior scenes makes the space appear larger because the aerial diffusion activates a depth cue that usually does not occur indoors.
+
+The loss of textural detail due to aerial diffusion seems similar to the depth cue of textural diffusion, but there is a difference. Textural diffusion relies on actual distance from the camera to produce a loss in detail. Aerial diffusion does not rely on actual distance but rather on particles in the air, which prematurely obscure textural detail and create the illusion that the affected area is farther away.
+
+6. Tonal Separation
+
+ 
+
+Tone refers to the gray scale. The gray scale is a series of tonal steps from black to white.
+
+Tonal separation deals with a viewer’s perception of depth based on the brightness of objects. Usually, brighter objects appear closer and darker objects farther away.
+
+ 
+
+Even with two objects of identical size, a viewer usually sees the brighter object as closer and the darker object as farther away.
+
+7. Color Separation
+
+Colors can be used as a depth cue. Color separation deals with the perception of depth based on warm and cool colors. The warm colors are red, orange, and yellow and the cool colors are blue and green. Warm colors usually appear closer and cool colors seem farther away. Chapter Six elaborates on the warm/cool classification and explains the complexities of color more fully.
+
+ 
+
+The red rectangle seems closer and the blue rectangle appears farther away, even though both are the same brightness and size.
+
+8. Up/Down Position
+
+The up/down position uses an object’s vertical location in relation to the horizon line to create depth. When positioning objects based below the horizon line, objects lower in the frame seem closer and objects higher in the frame appear farther away.
+
+ 
+
+These squares have their bases below the horizon line. In the left picture both squares appear to be the same distance from the camera even though one square is smaller. In the picture on the right, the small square higher in the frame seems farther away.
+
+ 
+
+This depth cue reverses when objects are based above the horizon line. Objects higher in the frame seem closer and objects lower in the frame seem farther away.
+
+ 
+
+The up/down position depth cue can be summarized as: objects based closer to the horizon line seem farther away and objects based farther from the horizon appear nearer.
+
+ 
+
+These photos illustrate how an object’s base position above and below the horizon line affects the apparent depth.
+
+9. Shape Change
+
+As an object appears to change shape, it becomes a cue to illusory depth. Shape change can occur on moving or non-moving objects. To find the basic shape of any object, reduce it to a silhouette.
+
+ 
+
+From table height, a cup’s silhouette is a rectangular shape. But the silhouette can change radically if the cup is turned in three-dimensional space or if the camera moves its position.
+
+ 
+
+Now the cup’s shape is a circle. The shape change from a rectangle to a circle can only occur if the object moves in three-dimensions, which is the depth cue.
+
+ 
+
+As a car turns, its shape or silhouette makes a radical change. This shape change on a two-dimensional screen surface creates the illusion of depth.
+
+ 
+
+Shape change can also occur without any camera or object movement. This picture of a building appears deep because it has convergence, size change (the windows get smaller), and because the windows change shape. Every window in this building is actually the same size and shape, but the lower windows appear as tall rectangles, and the upper windows appear more square.
+
+10. Overlap
+
+Overlap is a minor depth cue, so it’s the last cue on the list.
+
+ 
+
+In the left diagram, the circle appears closer because it partially covers the square. The space is less deep on the right diagram because the circle and square are side by side, eliminating the overlap. The effectiveness of overlap depends on the contribution of the other depth cues.
+
+ 
+
+If overlap is combined with the depth cues of tonal separation, color separation, size change, and up/down position the illusion of depth increases.
+
+ 
+
+The camera angle and actor placement creates overlap. This adds an additional layer of depth to the shot.
+
+11. Focus
+
+Focus refers to the sharpness of objects in a picture.
+
+ 
+
+Depth cues are visually effective when they are in focus. As a depth cue becomes blurred, it loses its ability to create illusory depth. A blurry BG may separate itself from an in-focus FG, but the result is not necessarily deep space.
+
+ 
+
+This picture from Sideways uses many depth cues. The BG has convergence, size change, textural diffusion, and up/down position. But none of those depth cues create any useful visual depth because they’re out of focus.
+
+12. 3-D Pictures
+
+The first stereoscopic pictures, drawings actually, appeared in the early 1830s. The first 3-D movie was shown in 1915, and since then producers and exhibitors have used 3-D with a variety of viewing techniques. When properly presented, 3-D creates a remarkable illusion of depth.
+
+3-D pictures and movies work best when used in conjunction with the traditional deep space depth cues. Without these depth cues, the 3-D experience can be unsatisfying. Our real world reliance on the depth cues is so strong that when they’re removed, the sense of deep space is diminished, even in a 3-D movie.
+
+ 
+
+ 
+
+Here are two 3-D photos that demonstrate the importance of the traditional depth cues. To view the photos properly you’ll need a pair of anaglyph 3-D glasses with one red lens and one blue lens. Both photos have the identical amount of 3-D depth. But the photo of the grocery store aisle looks much deeper because it exploits the traditional depth cues.
+
+Flat Space
+
+Flat space is the visual opposite of deep space. Flat space emphasizes the actual two-dimensionality of the screen surface.
+
+THE FLAT CUES
+
+Just as there are depth cues, flat space has its own set of cues. In creating flat space, the depth cues should be eliminated and replaced with flat space cues.
+
+1. Frontal Planes
+
+The most effective flat space cue is the frontal plane.
+
+ 
+
+Here is the frontal plane that was introduced earlier in this chapter. Perspective, converging lines, longitudinal planes, and vanishing points have been eliminated.
+
+ 
+
+From the correct camera angle, this building becomes a flat, frontal plane. The building’s horizontal lines remain parallel and its vertical lines remain parallel. Each of its doors and windows are frontal planes that emphasize the two-dimensionality of the screen surface.
+
+ 
+
+ 
+
+Both of these flat space shots eliminate longitudinal surfaces and emphasize frontal, two-dimensional surfaces.
+
+2. Size Consistency
+
+Keeping similarly sized objects the same size will emphasize the flatness or two-dimensionality of the screen.
+
+ 
+
+In each example the people are the same size. The single frontal plane created by the actors, architecture, and camera angle emphasizes the flat, two-dimensional screen surface.
+
+3. Textural Diffusion
+
+A flatter space is created when all objects have the same amount of textural detail. Manipulating textures on actors or other subjects can be impractical in live-action photography. This flat space cue is an interesting idea, but actually controlling individual textures is not always possible.
+
+ 
+
+The overall texture in the shot is similar throughout which helps to maintain flat space. This shot also uses the flat space cues of size constancy and a frontal surface created by the arrangement of the construction workers and their vehicle.
+
+4. Movement
+
+Both object movement and camera movement can be used to create flat space.
+
+4A. 
+Object Movement
+
+ 
+
+As mentioned earlier, the picture plane is the two-dimensional window that frames our pictures. Objects moving parallel to the picture plane emphasize flat space.
+
+ 
+
+Movement parallel to the picture plane can be horizontal (left-right), vertical (up-down), diagonal, or in a straight line or a circular direction.
+
+ 
+
+The moving objects must remain on one plane to avoid creating the depth cue of relative movement.
+
+ 
+
+This line of people, all moving on the same plane and parallel to the picture plane, maintains flat space.
+
+When creating flat space, movement perpendicular to the picture plane (toward or away from the camera) should be avoided because it activates too many depth cues. However, there is one exception to this rule. It is possible to maintain flat space when an object moves perpendicular to the picture plane, but there are restrictions on the lens and the distance of the object from the camera.
+
+ 
+
+In this first example, the camera uses a wide-angle lens. An actor, in a full shot, begins 30 feet from the camera and runs directly at the lens. As the actor moves, the depth cues of size, textural detail, and speed change are activated to create deep space.
+
+ 
+
+This second example uses a telephoto lens. The actor begins the shot with the same image size as the wide-angle shot. Due to the telephoto lens, the actor must be positioned much farther away from the camera. Again, the actor runs 30 feet directly at the lens. But this time the space appears flat because the depth cues are not activated. There won’t be any noticeable size, texture, or speed changes because the actor remains so far away from the camera. This choice of lens and the subject’s greater distance from the camera can create flat space.
+
+ 
+
+This shot uses a wide-angle lens. A car moves perpendicular to the picture plane. As the car drives away it adds depth because the movement activates the depth cues of size change, textural diffusion, and speed change.
+
+ 
+
+This shot uses a telephoto lens. The actors walk perpendicular to the picture plane towards the camera. The space remains flat because none of the depth cues are activated. The distance of the actors from the camera is so great that they barely change size, gain detail, or increase in speed as they move towards the camera.
+
+4B. 
+Camera Movement
+
+A camera’s pan, tilt, and zoom can emphasize flat space because these moves do not add the depth cue of relative movement.
+
+ 
+
+Panning means rotating the camera to the left or right on its horizontal axis. Tilting rotates the camera on a vertical axis. When the camera pans or tilts, all objects in the shot maintain their relative positions to one another. There is little or no discernable relative movement.
+
+A zoom is not really a camera move, but it is the flat space equivalent of the deep space dolly in/out. Many cinematographers and directors dislike the zoom. Often the zoom is dismissed as a quick, unattractive imitation of a dolly shot. It’s true that a zoom takes less time to prepare than a dolly, but the difference is not just practical or economical. The visual difference is the type of space that the dolly or zoom creates.
+
+A dolly move creates the depth cue of relative movement. The zoom eliminates relative movement. During a zoom, the FG, MG, and BG change size in unison, which reduces the depth of the shot to a flat plane. A zoom also alters the focal length of the lens. During a zoom-in, the depth of field decreases and areas of the shot go out of focus. As any object blurs, its depth cues are eradicated and the shot appears more flat. A zoom-in can also exclude depth cues that were visible in the wide-angle start of the shot. A zoom-out increases the depth of field and may bring depth cues into the shot but the lack of relative movement during the zoom will still emphasize flat space.
+
+ 
+
+These illustrations compare the visual differences between the zoom and dolly shots. In the zoom-in, the lack of relative movement makes the FG and BG enlarge at the same rate. The dolly-in creates relative movement increasing the FG size while the BG appears unchanged.
+
+Creating flat space requires the elimination of the deep space camera moves (dolly in/out, tracking left/right, and crane up/down). However, there is one exception where a tracking shot or a crane shot maintains flat space.
+
+ 
+
+In this diagram and photograph, actors (A) walk along a flat wall and the camera tracks right-to-left with the actors. The tracking move keeps the camera’s picture plane parallel to the wall’s frontal surface which maintains flat space. The same situation occurs if the camera cranes up/down remaining parallel to the frontal plane of a vertical wall.
+
+5. Aerial Diffusion
+
+Aerial diffusion refers to particles in the air that obscure our view of the distance. Aerial diffusion can be a flat space cue if it overwhelms and hides the depth cues.
+
+ 
+
+Here, the aerial diffusion (fog) is so thick that it hides any BG depth cues that could undermine the flat space.
+
+6. Tonal Reduction
+
+As mentioned earlier, tone refers to the gray scale.
+
+ 
+
+Flat space can be emphasized when a picture’s tonal range is confined to only one third of the gray scale. The more narrow the range of grays in a shot, the flatter the space will appear.
+
+ 
+
+ 
+
+This picture looks flatter because almost all of its tones are in the upper third of the gray scale.
+
+ 
+
+ 
+
+The use of only darker tones in this picture helps to maintain flat space.
+
+7. Color Reduction
+
+Reducing a shot’s color range to only warm or only cool colors can emphasize flat space. The warm colors are red, orange, and yellow. The cool colors are blue and green.
+
+ 
+
+These examples emphasize flat space by limiting the colors within the shot to either all warm or all cool.
+
+8. Staging on One Plane
+
+Composing all objects on the same horizontal plane enhances the flat space.
+
+ 
+
+This example stages all of the actors on the same horizontal line parallel to the picture plane. This eliminates the depth cue of up/down position.
+
+9. Shape Constancy
+
+In creating a strictly flat space, objects should never change shape due to three-dimensional object movement or camera moves. A flat, graphic, animated film can accomplish this, but eliminating shape changes in live-action filmmaking is an unrealistic task.
+
+10. Overlap
+
+Eliminating the depth cue of overlap in the creation of flat space is impossible. Every shot has a background and any object appearing in front of that background creates overlap. Fortunately, overlap is usually a minor depth cue so it rarely interferes with the creation of flat space.
+
+ 
+
+11. Focus
+
+Out-of-focus areas of the frame appear flat regardless of the depth cues they may contain. It doesn’t matter if the blur is in the FG, MG, or BG.
+
+ 
+
+The BG of this shot contains a variety of depth cues that become flat because of the blur. There may be a visual separation between the in-focus FG and the out-of-focus BG, but the depth cues are unrecognizable.
+
+ 
+
+Out-of-focus objects on multiple planes will often merge into one flat plane, leaving the subject as the only in-focus frontal surface. In this shot, the blurred FG and BG foliage merge into one plane.
+
+12. Reversing the Depth Cues
+
+Rather than eliminating the depth cues, certain depth cues can be reversed and used to create flat space.
+
+Tonal Separation. The depth cue of tonal separation suggests that brighter objects appear closer and darker objects appear farther away. Reversing this rule by placing brighter objects in the BG and darker objects in the FG flattens the space.
+
+ 
+
+ 
+
+In the above photograph and diagram, the brighter BG will visually advance and the darker FG objects will recede. When the FG recedes and the BG advances, the space flattens.
+
+Color Separation. Once again, as a depth cue, warmer colors advance or appear closer, and cooler colors recede or seem farther away. Placing warmer colors in the BG and cooler colors in the FG can flatten the space.
+
+ 
+
+ 
+
+In this example the bluer FG wall recedes and the warmer BG store interior advances to strengthen the flat space.
+
+Size Difference. This important depth cue relies on larger objects seeming closer and smaller objects appearing farther away.
+
+ 
+
+ 
+
+Larger objects placed in the BG will visually advance and smaller objects in the FG may recede making the space appear flatter. In the above example, the large wall portraits pull the BG forward to meet the FG.
+
+Textural Diffusion. Objects with more textural detail appear closer. If the BG is given more textural detail than the FG, the BG tends to move forward or advance toward the FG. This helps to flatten the space.
+
+ 
+
+ 
+
+Reversing texture usually involves adding detail to the BG so it will appear closer and flatten the space. Removing FG texture and detail is often impractical in live-action production. This extraordinary example removes the FG detail and increases the BG texture to flatten the space.
+
+Limited Space
+
+Limited space is a specific combination of deep and flat space cues. Limited space uses all of the depth cues except two:
+
+No convergence. The most important depth cue, longitudinal planes created by converging lines, must be eliminated and replaced with flat, frontal planes.
+
+No object movement perpendicular to the picture plane. Movement toward or away from the camera should be avoided. Objects should only move parallel to the picture plane.
+
+Limited space is a challenging spatial plan to use, but it has a unique visual quality that sets it apart from deep and flat space.
+
+ 
+
+This shot is an excellent example of limited space. There are many depth cues including size change, textural diffusion, tonal separation, up/down position, and overlap. But any longitudinal planes and converging lines have been eliminated.
+
+ 
+
+The shot has three frontal planes in the FG, MG, and BG. Due to the actors’ size change and placement, each plane is visually well separated from the other planes. The largest actors define the FG, the smaller actor delineates the MG, and the smallest actors define the BG.
+
+ 
+
+The shot can be further reduced to reveal only three frontal planes.
+
+ 
+
+The visual concept of limited space is similar to looking through three visually well-separated sheets of glass as FG, MG, and BG frontal planes.
+
+ 
+
+Here’s an example of limited space from The Shawshank Redemption. This shot contains many depth cues including size change, textural diffusion, up/down position, and overlap. But the converging lines and longitudinal planes have been replaced with frontal planes.
+
+ 
+
+Each plane is visually well separated from the other plane because of the size difference between the actors.
+
+ 
+
+The Shawshank Redemption shot uses only two frontal planes. Limited space can include as few as two frontal planes or as many as three. When there are more than three frontal planes, it becomes difficult to visually separate the planes. The best way to guarantee a strong visual separation between the frontal planes is by using similar objects of known size on each plane.
+
+ 
+
+The visual separation between the MG and BG planes is obvious because of the difference in the actors’ sizes. When the BG actor and other minor depth cues are removed, the BG wall is no longer visually separated from the MG and the limited space becomes flat space.
+
+The following three shots are examples of limited space. The converging lines and longitudinal planes have been replaced with frontal surfaces. The actors’ size change creates the critical visual separation between the frontal planes.
+
+ 
+
+ 
+
+ 
+
+Recognizable & Ambiguous Space
+
+Pictures usually contain enough visual information to reveal the subject, the size of space, and the camera’s position in relation to the subject. This kind of picture is called recognizable space. Most photographs and pictures are recognizable space.
+
+ 
+
+There is nothing confusing about this picture of an ocean shoreline. The shot’s size and spatial cues are easy to define. It is recognizable space. Ambiguous space occurs when the viewer is unable to understand the size of the location, the spatial relationships of the objects in the shot, or the position of the camera. Ambiguous space creates tension, disorientation, or confusion in an audience. Thrillers and horror films use ambiguous space to enhance the emotional mood of the story.
+
+Ambiguous space uses any combination of the flat and deep space cues. There are several ways ambiguous space can be created.
+
+ 
+
+Objects of unknown size. The size relationship between objects can be manipulated to confuse the viewer. This shot is deep and ambiguous.
+
+ 
+
+Camouflage due to lighting patterns. Lighting and shadows can hide the recognizable aspect of a space. This shot has strong converging lines but is also ambiguous because its size and spatial cues are unreliable.
+
+ 
+
+Disorienting camera angles. An unusual camera angle can disguise the actual space of familiar objects or locations. The shot is deep and ambiguous.
+
+ 
+
+Mirrors and reflections. Multiple images can disorient the viewer, making it difficult to understand the physical location of objects. The use of mirrors creates spatial ambiguity both for the characters in the scene and the audience. This space is flat and ambiguous.
+
+ 
+
+Ambiguous space can be difficult to maintain. Once a person or object of known size enters a shot, it usually gives the audience enough visual information to transform an ambiguous shot into a recognizable shot. The ambiguity of the shot on the left is eliminated when the actor appears in the shot on the right.
+
+Comparing the Four Space Types
+
+Any shot can be composed using one of the four basic types of space. These pictures illustrate four ways to structure the space of a subway location.
+
+ 
+
+The first illustration is deep space. The picture gives the illusion of depth because it emphasizes so many depth cues. There is one-point convergence, several longitudinal planes (the floor, the ceiling, the subway maps, and the train), size change (the FG and BG actors and the columns), textural diffusion (the floor, the actors, and the train), tonal separation (the FG is brighter and the BG is darker), color separation (the FG is warm and the BG is cool), up/down position (the BG actor is higher in the frame), shape change (the floor tiles and the train windows), and overlap. Additionally, relative movement can be created with a dolly or crane camera move and the BG actor walking perpendicular to the picture plane.
+
+ 
+
+This shot is flat space. The depth cues have been eliminated or reversed. The converging lines and longitudinal walls have been replaced with frontal planes. The actors are staged on the same horizontal plane. They are the same size and they have the same amount of detail. Movement is parallel to the picture plane. The camera may zoom or track laterally, parallel to the frontal plane of the train. The back wall behind the train is brighter which pulls the BG closer to camera and flattens the space.
+
+ 
+
+This third version is limited space. The many depth cues include size change, textural diffusion, and color and tonal separation, but the longitudinal planes are replaced with frontal surfaces. The FG and BG frontal surfaces have excellent visual separation because the actors have been staged to emphasize size change.
+
+ 
+
+The fourth illustration is ambiguous space. The size and spatial relationships of the objects are confusing because their relative size and visual relationship are disorienting. The unreliability of the spatial cues makes this space ambiguous.
+
+Each of these four versions of the subway location brings the story to life. Each picture is visually unique. What type of space is most appropriate for your production? Will deep space best visualize the ideas in your story, or would flat space be better? Would a combination of flat and deep space be the best plan? Chapter Nine explains why and how to choose a particular type of space.
+
+Controlling Space During Production
+
+CREATING DEEP SPACE
+
+Eliminate the Flat Space Cues. Don’t use flat cues that can weaken the depth.
+
+Emphasize Converging Lines. Any wall, floor or ceiling can create a longitudinal plane.
+
+Stage Objects Perpendicular to the Picture Plane. This is commonly called “staging in depth.” Arrange your compositions to emphasize size change. Don’t ignore the FG. Larger objects emphasize the FG and make BG objects appear farther away.
+
+Object Movement. Use movement perpendicular to the picture plane to induce size change and textural diffusion.
+
+Camera Movement. Get the camera moving. Use dolly, tracking, and crane moves that create relative movement. It doesn’t matter how the camera is being moved (by dolly, car, aircraft, mechanical rigs, or hand-held); the same depth cue applies. Be sure to motivate the camera move by linking it to object movement or dramatic purpose.
+
+Use Tonal/Color Separation. Light your shots with the knowledge that brighter, warmer objects look closer and darker, cooler objects seem farther away.
+
+Use Wide-Angle Lenses. A wide-angle lens sees a wider field of view and has the ability to include more depth cues in the shot. Close-ups with a wide-angle lens force the actor to come very close to the camera, which accentuates the depth cues of size change and textural diffusion.
+
+Focus and Depth of Field. Try to keep everything in focus. When a depth cue is blurry it loses its ability to create depth.
+
+CREATING FLAT SPACE
+
+Eliminate the Deep Space Cues. Don’t use depth cues that can weaken the flat space.
+
+Emphasize Frontal Surfaces. Emphasize the most important flat space cue.
+
+Arrange Objects Parallel to The Picture Plane. Keep objects on a single, frontal plane so that they remain the same size. This is sometimes called “flat staging.” Only use object movement parallel to the picture plane.
+
+Camera Movement. Don’t dolly unless it tracks parallel to the picture plane. A tripod may be all you need because the camera should only tilt and pan to eliminate relative movement and maintain flat space. Zooming will keep the space flat but if you dislike the zoom lens, don’t use it.
+
+Reduce Tonal/Color Separation. It’s important to reduce tonal contrast and condense the gray scale. Color should be limited to all warm or all cool colors.
+
+Use Telephoto Lenses. A telephoto lens excludes depth cues because of the lens’s narrow field of view. A longer lens requires objects to be staged farther from the camera and helps to eliminate the depth cues of size difference and textural diffusion. Don’t be fooled into thinking that a telephoto lens optically flattens the image. It can’t. Emphasizing the flat space cues, not a lens, creates flat space.
+
+Focus and Depth of Field. A shallow depth of field will allow the backgrounds to go out of focus. Blurred spaces and objects eliminate depth and emphasize flat space.
+
+Reverse the Depth Cues. Many of the depth cues can be reversed and used to create flat space.
+
+PART TWO
+
+There are some secondary concepts that make space more visually useful. This includes aspect ratio (defining the physical proportion of the frame), surface divisions (dividing the frame), and closed & open space (creating space outside of the frame).
+
+Aspect Ratio
+
+Every picture has a shape, usually a rectangle. This includes movies, television, computer screens, advertising billboards, and pictures in frames, magazines, or books. Aspect ratio is not the picture’s actual dimensions. Aspect ratio is a pair of numbers indicating the proportional relationship between the width and height of any rectangular picture.
+
+ 
+
+This frame has an aspect ratio of 1.5:1. It was determined by measuring the height (usually given the measurement of 1), and then comparing the height to the width. The width is one-and-a-half times greater than the height, so the aspect ratio is 1.5:1.
+
+ 
+
+Most of the standard aspect ratios in use today were inherited from motion pictures photographed and projected on film. The most common aspect ratio for today’s theatrical motion pictures is 1.85:1. The height of the frame is 1 and the width of the frame is about seven-eights wider or 1.85.
+
+ 
+
+“Wide screen” movies on film used an aspect ratio that was approximately 2.40:1. This aspect ratio is almost two-and-a-half times as wide as it is high. A nearly identical aspect ratio of 2.39:1 is still in use today.
+
+ 
+
+Digital television adopted the aspect ratio of 1.78:1. Again, the height is 1 and the width is about three-quarters times larger. This is similar to and almost as wide as 1.85.
+
+ 
+
+The 1.78:1 aspect ratio can also be expressed as 16x9. The height is 9 units and the width is 16 (of the same units) in length.
+
+Surface Divisions
+
+The screen is a flat surface that can be divided into smaller areas using surface divisions. These divisions provide a useful tool for visual storytelling. There are several ways to divide the frame.
+
+Halves. The simplest way to divide the frame is through the middle.
+
+ 
+
+The division of the middle can be horizontal, vertical, or diagonal.
+
+Thirds. The frame can be divided into thirds.
+
+ 
+
+Most often, the divisions are vertical, but they can also be horizontal. In fine art, the vertical division of thirds is called a triptych.
+
+Grids. The frame can be divided into fourths, fifths, sixths, or more. All of these divisions are called grids.
+
+ 
+
+The grid encompasses a wide range of surface divisions that can be created with straight or circular lines.
+
+ 
+
+Square on a Rectangle. This is a unique surface division that generates a square within the rectangular frame.
+
+Every rectangle has a square hidden within it. This surface division reveals the imaginary line that creates the square. The square can be placed on the left or right side of the overall rectangular frame.
+
+The Golden Section. Dividing a frame using this system is fairly complex.
+
+ 
+
+This frame has been divided using the Golden Section system. No two divisions are the same size yet each division always relates proportionately to the overall frame. An explanation of the Golden Section is included in the Appendix Part A.
+
+The Purpose of Surface Divisions
+
+The actual line that divides the frame can be almost anything in the shot. Architectural features including walls, doorways, windows, patterns of light or shadow, and objects in nature like trees can all be used as surface divisions. The following examples show the range of objects that can create the division and how the surface divisions can be used to communicate moods, emotions, and ideas.
+
+A surface division forces the viewer to compare or contrast each area of the divided frame.
+
+ 
+
+In this shot from Closer, a surface division separates the two actors. The dividing line is the edge of a background wall. The surface division helps to express the story’s theme which is alienation and isolation between the characters.
+
+ 
+
+The importance of the surface division becomes obvious when it’s removed. Without the surface division, the actors gain an intimacy that is inappropriate for the story.
+
+ 
+
+A narrow band of light coming through a partially opened door creates this vertical division of the middle from There Will Be Blood. The surface division emphasizes the emotional separation between the father and son.
+
+ 
+
+This division of the middle from Traffic is a doorway. The surface division visually emphasizes the lack of communication between the controlling father and the rebellious daughter.
+
+ 
+
+In Lawrence of Arabia the conflict between Lawrence and Ali is emphasized by staging their argument in a single shot that is divided in half by a tent pole.
+
+ 
+
+The doorway in this scene from Radio Days creates a square on the rectangle surface division. The division separates two characters who have opposite lifestyles.
+
+ 
+
+In this shot from Klute the surface division is a standing actor who separates the two women applying for the same job. The woman on the left is rejected and the woman on the right is accepted.
+
+ 
+
+The split screen from Kill Bill Vol. 1 is an excellent example of a mechanical surface division created in postproduction. The shot simultaneously shows the victim and her approaching killer. Showing both characters heightens the intensity of the conflict and allows the audience to choose their subject.
+
+ 
+
+The surface division of the middle in Saving Private Ryan almost looks like a split screen, but it uses the doorway as a surface division. It tells the story of a close-knit family on the right side’s interior and the tragedy of war on the left side’s exterior.
+
+Surface divisions can direct and confine the audience’s attention to one portion of the frame.
+
+ 
+
+In this example from Run, Lola, Run, the surface division acts like a visual fence that confines the viewer’s attention to the right side of the picture. The audience concentrates on the actor and ignores the other area of the frame.
+
+A surface division can change the aspect ratio of the on-screen image. Imagine an art museum where all the paintings are exactly the same size and shape. That could become monotonous and boring. The same is true for a screen. One consistent aspect ratio is not necessarily correct for every shot. Changing the aspect ratio with surface divisions can contribute to the storytelling and also provide visual variety to the overall production.
+
+ 
+
+The horizon line in this shot from The Last Picture Show is a division of the middle. The upper half of the frame is empty which creates a new aspect ratio that forces the composition into the lower half of the frame. This adds loneliness and desolation to the story’s mood.
+
+ 
+
+In Klute the main character feels trapped and forgotten. In this scene she sits in the middle corner of a division of thirds. The surface division emphasizes her isolation and loneliness.
+
+ 
+
+In Café Society the surface divisions add visual variety to the movie’s aspect ratio.
+
+ 
+
+As mentioned earlier, surface divisions can be created by architecture or patterns of light and shadow. These grids divide the frame into many smaller areas which add rhythmic intensity and variety to the visual structure.
+
+Modern theatrical films are projected digitally which allows filmmakers to choose or create any aspect ratio during photography or in postproduction. The aspect ratio can even change during the film.
+
+ 
+
+Grand Budapest Hotel uses different aspect ratios to indicate different time periods. The present tense is wide screen and the flashbacks use a more narrow aspect ratio.
+
+ 
+
+In Mommy, the aspect ratio changes with the emotional moods of the main character. When the boy feels trapped the aspect ratio is almost a square, but it widens when the boy feels liberated.
+
+Digital projection, computers, hand-held digital devices, and the internet are constantly exploring and using a variety of alternative aspect ratios.
+
+Closed & Open Space
+
+ 
+
+Almost every picture we see is closed space because it’s physically enclosed by a frame. Museums display art in frames that create a closed border around the picture. In a magazine or book, the frame lines are the borders of the picture itself or the edges of the page. Plastic frames enclose the screens on televisions, computers, and personal devices. Curtains are the frame surrounding movie theatre screens.
+
+ 
+
+Not only does the frame create closed space, but the picture’s lines reinforce the frame lines and make the space even more closed. In closed space, pictures exist inside the frame, not outside the frame.
+
+Open space occurs when the picture seems to extend beyond the enclosing frame lines. Open space has nothing to do with the location. The wide-open spaces of the desert or interstellar space may be geographically large, but they’re not open space. Getting the visual space to open and extend beyond the frame is difficult but possible. The impediment to open space is the ever-present frame lines. Open space can be created when the frame lines are weakened, overpowered, or removed.
+
+Because open space is so difficult to produce, and rarely occurs, it usually generates intense emotional and visceral responses from the audience. The importance of this intensity is discussed in Chapter Nine.
+
+There are several factors that can help create open space.
+
+1. LARGE SCREEN SIZE
+
+A picture’s frame lines are usually well within the audience’s view. The frame lines keep the space closed. As the screen size increases, the frame lines move beyond the audience’s peripheral vision so that their view is filled with a frameless picture. Without frame lines to enclose it, the picture and the visual space opens.
+
+Open space is fragile and difficult to maintain with normal screen sizes in standard viewing situations. As the screen size shrinks, the ability to create open space diminishes. Standard television and computer screens can’t display open space because they have overwhelming frame lines that a viewer cannot ignore. Giant theatre screens provide the best opportunity for eliminating the frame lines and creating open space. The closer you sit to the screen, the less the frame lines are within your field of view, which promotes open space.
+
+2. MOVEMENT
+
+Movement is a critical visual component in creating open space. The screen’s frame lines are immobile visual borders that enclose the picture. Object movement that is visually stronger than the stationary frame lines can promote open space. There are three kinds of movement that can overwhelm the frame lines and create open space.
+
+ 
+
+2A. Random, multi-directional movements that fill the frame can have enough visual intensity to overwhelm the frame lines and open the space.
+
+ 
+
+2B. Movement in or out of the frame may also promote open space. The movement must be large in relation to the frame. The opening shot of Star Wars: Episode IV A New Hope is an example of open space. When the enormous space ship enters, the upper frame line temporarily disappears and the space opens. The audience feels that the ship is not only on screen but also outside the frame above the audience in the theatre. Once the ship is completely in frame, the top frame line closes the space.
+
+Open space is also created when space ships in Star Wars travel at “light speed.” The sudden stretching of the stars creates movement that is visually more powerful than the frame lines. So for that light speed moment the space opens.
+
+An object entering frame won’t necessarily create open space because the object is usually too small or is moving at the wrong speed. If an object enters too slowly, the movement is not intense enough to overpower the frame lines. If the object moves too fast, it may not have time to overwhelm the frame line and open the space.
+
+2C. Some camera moves can create open space. The individual movements of a pan, tilt, tracking, or crane won’t be multi-directional but may open the space if used simultaneously. Random camera movement including a roll (rotations on the lens axis), dolly in/out, and zooms may be enough to overpower the frame lines and open the space.
+
+3. ELIMINATION OF STATIONARY LINES IN THE SHOT
+
+Although object movement can create open space, any non-moving lines in the shot will instantly negate the open space and reinforce closed space. Even a simple horizon line can prevent a space from opening regardless of the object movement (which is why an empty desert isn’t open space). The more stationary lines in a shot, the more closed the space becomes. Open space requires the removal of stationary lines.
+
+4. ELIMINATION OF THE FRAME LINES
+
+If frame lines around a picture keep it closed, the best way to create open space is to permanently remove the frame lines. Virtual reality (VR) viewing goggles create open space because there aren’t any frame lines at all. The entire experience is open space. VR systems are designed to fill the viewer’s entire field of view and eliminate frame lines. VR audiences describe these open space experiences as unusually immersive. Viewers feel they’re inside the scene instead of outside a window watching the images through a closed, stationary frame.
+
+Contrast & Affinity
+
+The various aspects of visual space discussed in this chapter can be related to the Principle of Contrast & Affinity. Remember, contrast and affinity can occur within the shot, from shot to shot, and from sequence to sequence.
+
+ 
+
+This is an example of affinity of space within the shot. A surface division divides the frame, and both spaces are flat. The overall visual intensity of the picture is low.
+
+ 
+
+In this example of contrast of space within the shot the surface division (the wall corner) separates the deep and flat areas of the picture. Visual contrast adds visual intensity.
+
+ 
+
+This pair of pictures is an example of affinity of space from shot to shot because both shots are flat. They are low in visual intensity because of their visual affinity.
+
+ 
+
+These flat and deep pictures illustrate contrast of space from shot to shot. The visual intensity between the two shots is high.
+
+Affinity from sequence to sequence occurs when all shots in two or more sequences use the same type of space. Contrast of space from sequence to sequence occurs when one group of scenes is uniformly flat and the next group is uniformly deep.
+
+The Principle of Contrast & Affinity can also be applied to ambiguous & recognizable space, open & closed space, and all of the other basic visual components.
+
+Picture makers often comment that deep space looks interesting and flat space looks dull. That’s a generalization which is easy to reverse, but the comment is understandable. Deep space is inherently more intense because it uses visual contrasts. Most of the important depth cues require visual contrasts such as large/small (size change), detail/lack of detail (textural diffusion), bright/dark (tonal separation), and warm/cool (color separation). Using the depth cues automatically adds more visual contrast so the space gains intensity or seems more interesting.
+
+Flat space tends to be less intense than deep space. Flat space is created with affinities which lack visual intensity. Flat space cues require objects of the same size, similar tones, colors, and textures. The affinity required to create flat space reduces visual intensity.
+
+Is flat space always less intense than deep space? No. Each of the seven visual components affects the others. A low intensity flat space can be made more intense by adding contrasting lines, tones, or colors, for example. Controlling all of the components and their interaction gives picture makers the freedom to create unique visual structures and vary the visual intensity of a shot, sequence, or an entire production.
+
+Space is a complex visual component. When you take photographs, view pictures in a museum, or watch a film, learn to recognize the visual space. Is it flat, deep, limited, or perhaps a combination of spaces? Learn to define the space you see, determine what you want, and then control it when looking through your camera’s viewfinder.
+
+Are there only four types of space? No. Deep, flat, limited, and ambiguous space offer a wide range of visual possibilities, but hybrid spaces exist.
+
+ 
+
+A chart from flat to deep displays the available spatial variations. Define your own visual space. Mix and match the deep and flat cues to create a space that best suits you and your story. Perhaps you prefer space that uses all of the depth cues but the colors are always cool. Maybe you prefer limited space but you need movement perpendicular to the picture plane. Fine. Use it. Make visual rules that satisfy your requirements, but whatever you decide, adhere to your rules. Your choices will give your production visual unity, a unique visual style, communicate moods, emotions, and ideas, and, most important, help tell your story.
+
+Films to Watch
+
+It helps to see space in use. There are brilliant examples in movies, on television, and on all of our digital screens and devices. Talented picture makers all over the world are constantly capturing images with interesting space. Which ones should you view? You should watch the ones that you like the best. Explore old and new films from every source you can find. You’ll see visual choices that tell a story and inspire you.
+
+If you’ve never seen the films listed below, watch them. If you like the film, view it again with the sound off. The more times you watch a film silently, the more you’ll learn about its visual structure.
+
+The wonderful advantage to studying pictures is that there are no secrets. The ingredients in food, for example, can be hidden. You eat a delicious meal but can’t guess the secret recipe. A picture’s visual structure can’t hide because everything is visible on the screen. The more times you watch a film, the more the visual ingredients will reveal themselves.
+
+The films listed below are excellent examples of well-controlled space.
+
+Touch of Evil (1958)
+
+Directed by Orson Welles
+
+Written by Orson Welles
+
+Photographed by Russell Metty
+
+Art Direction by Robert Clatworthy
+
+ 
+
+This film noir classic is a catalog of deep space cues and how to use them for maximum effect. Of course most of Welles’ films are excellent examples of deep space. Yes, the films are old, but you will not find a filmmaker who understood deep space better than Welles. The above shot uses the depth cues of convergence, size change, textural diffusion, movement, up/down position, and overlap.
+
+The Shining (1980)
+
+Directed by Stanley Kubrick
+
+Written by Stanley Kubrick & Diane Johnson
+
+Photographed by John Alcott
+
+Production Design by Roy Walker
+
+ 
+
+Deep space is a main character symbolizing inescapable evil in Kubrick’s remarkably simple film. This shot uses eight of the ten depth cues. Notice the convergence, size change, textural diffusion, tonal separation, movement perpendicular to the picture plane, up/down position, shape change, and overlap.
+
+The Favourite (2018)
+
+Directed by Yorgos Lanthimos
+
+Written by Deborah Davis & Tony McNamara
+
+Photographed by Robbie Ryan
+
+Production Design by Fiona Crombie
+
+ 
+
+ 
+
+The size of the locations are exaggerated by the use of depth cues to enhance the paradox of a personal conflict played against the magnitude of 18th century English politics.
+
+Klute (1971)
+
+Directed by Alan Pakula
+
+Written by Andy & Dave Lewis
+
+Photographed by Gordon Willis
+
+Art Direction by George Jenkins
+
+ 
+
+Manhattan (1979)
+
+Directed by Woody Allen
+
+Written by Woody Allen & Marshall Brickman
+
+Photographed by Gordon Willis
+
+Production Design by Mel Bourne
+
+ 
+
+Klute is an elegant example of consistent flat space which creates the film’s extraordinary visual style. Equally brilliant is Manhattan which uses flat space and surface divisions to isolate the incommunicative characters.
+
+Witness (1985)
+
+Directed by Peter Weir
+
+Written by Earle Wallace & William Kelley
+
+Photographed by John Seale
+
+Production Design by Stan Jolley
+
+ 
+
+ 
+
+Witness visualizes the difference between the rural Amish community (flat space) and the urban police (deep space). Watch how the filmmakers use both types of space to tell the story and build a visual conflict.
+
+American Beauty (1999)
+
+Directed by Sam Mendes
+
+Written by Alan Ball
+
+Photographed by Conrad L. Hall
+
+Production Design by Naomi Shohan
+
+ 
+
+The spatial structure of this film is a constant flat space. It emphasizes frontal surfaces and closed space created by walls, windows, and doorways. This visual scheme creates a world for the main characters’ inner conflicts.
+
+In the Mood for Love (2000)
+
+Directed by Kar-Wai Wong
+
+Written by Kar-Wai Wong
+
+Photographed by Christopher Doyle
+
+Production Design by William Chang
+
+ 
+
+The simple spatial rules of this remarkable film give it visual unity and emphasize its strong visual style.
+
+Fanny and Alexander (1982)
+
+Directed by Ingmar Bergman
+
+Written by Ingmar Bergman
+
+Photographed by Sven Nykvist
+
+Production Design by Anna Asp
+
+ 
+
+ 
+
+Bergman and Nykvist are masters at using flat and limited space in all of their cinematic collaborations.
+
+Don’t Look Now (1973)
+
+Directed by Nicolas Roeg
+
+Written by Allan Scott & Chris Bryant
+
+Photographed by Anthony Richmond
+
+Art Direction by Giovanni Soccol
+
+ 
+
+The characters in Don’t Look Now are swept up in a story of suspicion and the supernatural. Ambiguous space adds tension and anxiety to the story.

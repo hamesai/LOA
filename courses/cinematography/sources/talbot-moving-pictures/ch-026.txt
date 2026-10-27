@@ -1,0 +1,430 @@
+CHAPTER XXIV
+
+ELECTRIC SPARK CINEMATOGRAPHY
+
+Although we commonly think of the human senses as very acute, yet in
+reality they possess many imperfections. For instance, our vision
+is too slow to follow the excessively rapid and brief movements of
+insects. Strive as one may, one cannot detect the flapping motion of a
+fly’s wing, or follow the different methods of flying practised by the
+dragon-fly and the bee. I have spoken early in this work of Marey’s
+wonderful researches, which were spread over a prolonged period, and
+carried out with the express object of extending our knowledge of
+animal motion.
+
+Marey’s experiments, however, were limited in their scope, as he soon
+realised. The dry glass plate was not a convenient medium for recording
+the impressions of rapid motion, while extreme difficulties were
+encountered in connection with the illuminant and the exposure. These
+drawbacks became baffling when it was attempted to record the movements
+of insects. He endeavoured to solve the problem by concentrating a
+pencil of brilliant sunlight upon a condenser, so as to secure such a
+powerful luminous cone of light as to enable an exposure to be made in
+1/42,000th of a second.
+
+Marey wrestled with the task in a most determined manner, and his
+efforts were supported by eminent physiologists in other countries;
+but the obstacles were so formidable and the available resources so
+limited that they could not arrive at any practical result. It has been
+left to Monsieur Lucien Bull, the accomplished assistant director of
+the Marey Institute, to overcome the difficulty. Through his courtesy
+I am enabled to describe his fascinating researches, as well as the
+peculiar and efficient apparatus he has evolved for the purpose. The
+beautiful and highly interesting results he has achieved are shown in
+the accompanying illustrations.
+
+It was obvious at the outset that the familiar cinematograph camera and
+its system of operation were unsuited to recording such excessively
+rapid movements as take place in the oscillation of a fly’s wing.
+Intermittent motion was quite out of the question. No device working on
+this principle was capable of enabling one hundred exposures or more to
+be made in the short space of one second. If it were attempted the film
+would only be torn and twisted before it had moved twelve inches. In
+its place continuous motion on the part of the film was imperative, and
+finally this requisite was supplied in a decidedly novel manner.
+
+The general characteristics of the apparatus conceived and fashioned
+by Monsieur Bull may be gathered from the illustrations. As the usual
+illuminants were unsuited to photography of extremely rapid motion,
+recourse was had to the electric spark, which is of tremendous luminous
+intensity. These sparks are generated at uniform intervals and as
+rapidly as the exigencies of the experiment demand. In order to grasp
+the details of the installation a vertical sectional diagram, Fig. 19,
+is given, and by its means the design and operation of the apparatus
+may be gathered.
+
+[Illustration: FIG. 19.--DIAGRAM OF APPARATUS EMPLOYED BY M. LUCIEN
+BULL TO PHOTOGRAPH INSECTS IN FLIGHT.]
+
+Instead of the ordinary camera there is a cylindrical wheel _R_,
+mounted rigidly upon a shaft supported on brackets at either end. The
+flat rim of this wheel carries the sensitised film, which, as the wheel
+is 13½ inches in diameter, is 42½ inches in length. This band is of the
+standard width and is sufficiently long to receive fifty-four pictures
+of the ordinary cinematographic dimensions during one revolution of
+the wheel. As the pictures are only three-quarters of an inch in
+depth, the deformation arising from the impression being made upon a
+curved surface is so slight as to be unworthy of consideration. The
+arrangement adopted has the advantage of enabling the wheel to be
+rotated very rapidly, so that consecutive pictures may be taken at very
+brief intervals of time.
+
+As the work is carried out in the laboratory in full daylight, the
+wheel carrying the ribbon of sensitised film is enclosed in an
+octagonal light-tight box _B_, the upper half of which is hinged so
+that when the box is dismounted and taken into the dark-room it can
+be opened easily to permit the exposed film to be withdrawn and a new
+strip inserted.
+
+The shaft upon which the cylinder revolves is fitted with an
+interrupter _I_, whereby the primary circuit of the induction coil _A_
+may be broken at regular intervals during the revolution of the wheel.
+If desired, as many as 2,000 interruptions can be made in one second,
+by rotating the wheel at a very high speed, if the necessities of the
+experiment demand such a high number of exposures; each interruption
+producing an electric spark in the spark gap _E_ placed behind the
+condenser _C_. This condenser converges the luminous rays into the
+objective _O_, which is mounted in front of the travelling sensitised
+ribbon.
+
+The lens is mounted in a small box _V_ attached to the front vertical
+face of the octagonal box, the latter being pierced at this point to
+permit the light to pass from the objective to the film behind. In this
+lens box, between the back of the objective and the exposure aperture,
+there is a mirror _M_, attached at its top to a horizontal rod having
+a milled screw head. When the mirror is in the position shown in the
+diagram, the image reflected therein through the lens is thrown on to
+a ground-glass screen _D_, set in the top of the lens box. This serves
+consequently as a view-finder. When the exposures are to be made the
+screw controlling the mirror is turned, and this swings the mirror
+upwards like a flap until it lies flat against the under side of the
+ground-glass _D_, forming a light-tight joint.
+
+The wheel carrying the sensitised film is driven by an electric
+motor, the shaft of the wheel being extended beyond the box on one
+side to carry a small grooved pulley, the drive from the motor being
+transmitted through a small belt. The motor may be driven at varying
+speeds, so that the number of exposures per second may be varied
+according to the revolutions of the box completed in that period of
+time.
+
+The interrupter--also mounted outside the film-box--whereby the make
+and break in the primary circuit of the induction coil is controlled,
+and consequently the frequency of the spark between the points _E_
+in the secondary coil circuit, is a disc of ebonite, into which are
+compressed fifty-four strips of copper spaced equidistantly--each strip
+corresponding to a picture on the film--which are pressed by two metal
+brushes as in the commutator of the ordinary dynamo. As the copper
+strips in the ebonite disc pass beneath these two brushes the electric
+circuit of the induction coil is opened and closed, thereby producing
+an electric spark in the secondary circuit of the coil. The intensity
+of the spark is augmented by means of a small condenser _L_, which is
+placed in parallel in the secondary circuit.
+
+The sparks are produced between two pointed magnesium electrodes, less
+than 1/12th of an inch in thickness, while the spark is about 1/25th
+of an inch in length. The spark is very rich in the ultra-violet rays,
+which possess a powerful photographic quality. In order that these
+rays shall not be absorbed during their passage through the condensers
+_C_, the latter are made of Iceland spar. To secure improved results,
+a small condenser _c_ is sometimes placed immediately in front of the
+spark-gap _E_. The general arrangement of the apparatus for operation
+is shown on page 266, the whole being mounted upon a bench with the
+induction coil upon a shelf beneath.
+
+The photographs obtained in this manner, however, are purely of a
+silhouette character, and often it is very difficult to interpret
+correctly the movement of the wings of an insect from such a result. In
+order to obviate this drawback, Monsieur Bull introduced a stereoscopic
+system, wherein two lenses are mounted side by side before the film
+box, with two spark-gaps in the same circuit. This enables two sparks
+to be produced simultaneously with each interruption of the primary
+circuit, to give two images of the object upon the sensitised celluloid
+films.
+
+In order that the two exposures should be made upon the films exactly
+at the same time, a special type of shutter had to be evolved, whereby
+the exposure apertures were opened simultaneously at the critical
+moment when the cylinder commenced to revolve, and which closed in
+concert when the rotation was completed, because, as the films were
+travelling continuously, there was no necessity for an alternate
+closing and opening shutter movement, as is required in ordinary
+cinematography working upon the intermittent motion principle. The
+interval between the sparks acts in the same manner as a shutter
+swinging across the lens, and serves to secure a succession of
+instantaneous pictures upon the films. The images are obtained in such
+rapid succession that there is no possibility of the films becoming
+fogged through the objective apertures being open the whole time the
+wheel completes a revolution. The two sparks being in the same circuit,
+they must be produced in absolute synchrony.
+
+The crucial question was how to open and close the shutter
+simultaneously at the critical moments. This was solved in an ingenious
+manner. The shutter itself is made of brass and is placed close to the
+film. There are two apertures, side by side, corresponding to the size
+of the image upon the cinematograph film.
+
+[Illustration: FIG. 20.--THE INGENIOUS STEREOSCOPIC SHUTTER TO THE BULL
+CAMERA.]
+
+The operation of the shutters is shown in Fig. 20. When the cylinder
+is at rest, the exposure holes are closed by a single curtain _A_,
+consisting of a thin sheet of steel of sufficient length to cover
+the two holes. It is held in position by means of an electromagnet
+controlling an extended spring. When the cylinder commences to revolve
+the spring connected to the shutter is released under an electric
+impulse discharged through the electromagnet. The shutter falls,
+exposing the two apertures _f1_ and _f2_. When the cylinder has
+completed its revolution, another electric impulse releases a second
+steel curtain _B_, held in position by a second spring, controlled by
+an electromagnet, so that it drops also and falls over the exposure
+holes. This system is both simple and positive in its operation, and
+it may be pointed out that this control is quite independent of the
+interrupter, which works in conjunction with the electric spark.
+
+The interval of time elapsing between each picture is determined by
+means of a tuning fork making 50 double vibrations per second, which
+operates an electric signal. This tuning fork is set up in such a
+manner that the ends of its vibrating tongues are photographed upon the
+film throughout the experiment. As the vibrations of the tuning fork
+are known, it is only necessary, in order to determine the interval
+of time between each exposure, to count the number of photographs
+taken successively during a complete vibration of the tuning fork. As
+a result of experiment, however, it has been found that the ear can
+be trained to determine with astonishing accuracy the speed at which
+the apparatus revolves--and consequently the number of pictures taken
+per second--by the succession of sparks produced by a tuning fork the
+vibrations of which are known. This means that in conjunction with the
+photographic record, the speed at which the exposures were made can be
+determined without effort, and this velocity can be varied very easily.
+In addition, a measured scale, engraved on glass, is placed in the
+field of the lens, whereby the investigator is enabled to determine
+the exact displacement of the insect in the field of vision within a
+given period. Such is the apparatus, devised so far back as 1904, with
+which Monsieur Lucien Bull has accomplished some remarkable work of
+incalculable value to science, and with striking precision.
+
+[Illustration: M. LUCIEN BULL’S COMPLETE APPARATUS.]
+
+[Illustration: THE NOVEL CAMERA SHOWING STEREOSCOPIC LENS.
+
+Taking 2,000 moving pictures per second.--_See page 265._]
+
+I will now proceed to explain how the photographs are taken. In
+the first place, in order to obtain natural and conclusive data
+regarding the flight of insects, it is imperative that they should be
+cinematographed while in full liberty, but the point arose as to how to
+control the instrument so that the camera and film did not commence to
+revolve until the moment the insect entered the field of the lens. The
+habits of insects vary greatly. Some fly off immediately they are
+released, while others hesitate for a minute fraction of a second. As
+the apparatus makes only one complete revolution at a time, and that
+in the fraction of a second, the control has to be of such a finely
+adjusted character that the record obtained is of movement purely and
+simply, and not of the insect in a quiescent state preparatory to
+flight.
+
+[Illustration: A BEE CINEMATOGRAPHED IN FULL FLIGHT.
+
+At the left is the glass tube from which it has escaped.--_See page
+273._]
+
+Another question was how to induce the insect to cross the field of
+the lens. All insects instinctively fly towards a light. The apparatus
+therefore was set near a window, the insect being released from the
+side away from the window, so that in order to reach the light it had
+to traverse the field of the lens. As the latter is very small, it was
+essential that the release should be carried out in such a way that the
+insect did not fly above or below the field of the lens during exposure
+of the film.
+
+At first sight these obstacles appeared insurmountable. It was
+obvious that the release of a fly from the hand would be too slow and
+uncertain, while the movement of the insect after securing its liberty
+would be unnatural, because no matter how delicately it might be
+handled, there would be the liability of injuring its fragile frame.
+The governing point was to devise ways and means of opening the shutter
+just at the moment the insect started to fly from one side of the lens
+field to the other, under completely natural conditions.
+
+This delicate problem was resolved by Monsieur Bull in an ingenious
+manner, but not before he had carried out innumerable experiments
+attended by dispiriting failures. At last he succeeded in evolving
+means whereby the insect automatically and instantaneously opened the
+shutter of the camera at the moment it started to fly. The artifices by
+which this end was achieved are shown in Fig. 21. The system, however,
+had to be modified for different types of insect. That marked _A_ was
+used for the ordinary house-fly and for dragon flies. It comprised a
+small pair of pincers, or clamp, which held the fly firmly captive by
+means of a small electromagnet, but in such a way as not to inflict
+the slightest injury. This clamp was introduced in the stereoscopic
+shutter electrical circuit. The two legs of the clamp have a natural
+tendency to fly apart under the action of a spring, but are held closed
+by a tooth at the end of a rocking arm, mounted on one leg, engaging
+with a fixed tooth on the second leg of the clamp. The latter is
+placed in an electrical circuit with the shutter of the camera. When
+all arrangements are completed, the experimenter closes this circuit.
+This action causes the electromagnet of the clamp to pull down the
+projecting end of the toothed arm; the two legs are allowed to fly
+apart, liberating the insect, and as the clamp releases the fly the
+stereoscopic shutter is opened.
+
+[Illustration: FIG. 21.--THE INGENIOUS DEVICES EMPLOYED BY M. LUCIEN
+BULL TO RELEASE THE INSECT AT THE CRITICAL MOMENT.]
+
+This system, however, was of no avail in connection with the
+_Hymenoptera_ group of insects, since wasps, bees, and similar insects
+hesitate slightly before they seek safety in flight. Consequently the
+device _B_ was evolved. This consists of a small glass tube, in which
+the insect is introduced at one end. The opposite end is cut obliquely,
+and is fitted with a very light hinged shutter of mica, having a
+fragile spring, which covers about one-half of the opening. The spring
+closes the electric circuit operating the stereoscopic shutter of the
+camera.
+
+Let us suppose a bee is to be cinematographed in flight. It is pushed
+head foremost into the free end of the tube, which is large enough to
+carry it comfortably, and the half-closed mouth is pointed towards the
+window. The insect naturally endeavours to approach the light, and
+accordingly crawls along the tube until at last it reaches the mica
+shutter, beneath which it endeavours to escape. As it crawls out of the
+tube it lifts the mica flap, and the circuit is broken. But the shutter
+does not open, because at this moment the operator himself closes the
+contact. By this time the insect has emerged a sufficient distance from
+the tube to complete its final preparations preliminary to flying away.
+Just as it springs from the tube the mica shutter falls, the electrical
+circuit is closed once more, the shutter is opened, and pictures of the
+bee on the wing are recorded upon the celluloid film.
+
+For the _Coleoptera_ group of insects--beetles--where there is still
+a more marked hesitation before flight, the device C was prepared. In
+this instance Monsieur Bull compels the weight of the insect, which
+is relatively heavy, to establish the necessary contact to operate
+the shutter. A glass tube without an oblique mouth is used for this
+purpose, and instead of the mica flap, a very light horizontal plate of
+aluminium, balanced by a counterweight at one end, is passed through
+the tube. This plate is mounted on a central pivot, and extends a
+certain distance from either end of the tube. The counterweight is
+slightly lighter than the weight of the insect, and rests in contact
+with a platinum point. The beetle is introduced into the tube at this
+end, and crawls along the rod towards the opposite end. When it has
+passed about half-way through the tube, and has crossed the fulcrum of
+the beam, it causes the contact end to rise like a see-saw, thereby
+breaking the electrical contact. In this case, as with the device B,
+the operator recloses the break in the circuit. The beetle continues
+its journey, and finally emerges from the tube upon the flattened
+end of the beam, on which it completes its arrangements to fly away.
+Directly it leaves the platinum beam, the latter, under the action of
+the counterweight, falls upon the platinum point, re-establishes the
+contact, the circuit is closed, the shutter is opened, and the flight
+is caught upon the sensitised band.
+
+Monsieur Bull has devised a wide variety of these ingenious appliances,
+whereby he is able to secure the flight of any insect, and by the
+employment of which the chances of failure are reduced to the minimum.
+Indeed, when the apparatus is set up correctly, is in the hands
+of a skilled operator, and every arrangement has been completed
+satisfactorily, failure can only result from one cause--the refusal
+of the insect to fly away. The best results are obtained from insects
+which are in a fresh, healthy condition. If they have been imprisoned
+for too long a period, or are fatigued, the chances are that the
+results will be very disappointing. The records which Monsieur Bull has
+secured, showing insects in flight, illustrate some very interesting
+facts, and are of far-reaching value from the scientific point of view.
+At the present moment they are of additional interest owing to the
+absorbing fascination of aviation, inasmuch as they enable us to study
+with ease the movement of the wings of powerful, speedy fliers, which
+hitherto has been impossible under natural conditions, owing to the
+excessive velocity with which the wings move, and the brief character
+of the motion. With such an apparatus as I have described, any very
+rapid motion can be cinematographed, for the system is very elastic,
+and capable of very extensive application.
+
+[Illustration: A DRAGON-FLY IN FLIGHT.
+
+At left is the electric clamp from which the insect has been released,
+and at right the tuning fork to determine the interval of time between
+successive pictures.]
+
+Another vast field of research which has been opened by the
+cinematograph is the study of the flight of projectiles. This subject
+has occupied earnest attention among military authorities for some time
+past. A few years ago Professor Vernon Boys carried out some wonderful
+experiments in this direction, and produced some very striking results.
+His work has been continued recently, by cinematographic means, by an
+eminent German investigator, Dr. C. Cranz, professor at the Berlin
+Military Academy. He has succeeded in accelerating the exposures of
+the film to such a degree that 500 consecutive pictures can be taken
+in 1/10th of a second, the exposures varying from 1/1,000,000th to
+1/10,000,000th part of a second, the last-named period being such an
+infinitesimal fraction of time as to be beyond human comprehension.
+The pictures obtained are of the standard dimensions, and a striking
+feature, despite the tremendous speed at which they are taken, and the
+extremely brief exposure, is the clearness and definition obtained.
+
+[Illustration: CINEMATOGRAPH FILM OF A BULLET FIRED THROUGH A SOAP
+BUBBLE.
+
+The flight of the missile may be followed easily. It will be seen
+that the bubble breaks not when the bullet enters, but when it
+emerges.--_See page 276._]
+
+In this instance, also, the electric spark is called upon to serve as
+the illuminant to enable the images to be recorded upon the sensitised
+band, but the means whereby the interruption of the primary circuit of
+the induction coil is secured differs materially from that practised by
+Bull. Obviously the film travels with a continuous, instead of with an
+intermittent, motion, the sensitised band in this instance being run
+over two steel cylinders. The tremendous speed at which the film moves
+may be gathered from the fact that, at the rate of exposures made, over
+280 feet of film must pass before the exposure aperture in the short
+space of one second--more than 2½ miles per minute.
+
+The apparatus evolved by this German investigator is more complicated
+than that of his French contemporary, and the method of operation is
+widely dissimilar. The arrangements, too, for preventing the film
+receiving more than one series of pictures--the film is rotated before
+the exposure aperture in the form of an endless band--demanded a
+special electrical contact control system, while the manipulation of
+the apparatus varies according to the character of the experiment.
+
+The results obtained are startling. Although taken at such a tremendous
+speed, the pictures when thrown upon the screen under normal conditions
+enable every motion to be followed quite easily because everything
+moves slowly. For instance, one can see the hammer of an automatic
+pistol fall, and follow exactly what takes place during the whole
+firing operation, and the ejection of the spent cartridge. Similarly,
+when the pistol is fired, and the bullet is photographed as it emerges
+from the muzzle or when it strikes, passes through and emerges from a
+steel plate, the movement can be followed with complete facility, as
+it appears to move across the screen no more rapidly than a person
+walks, because, although the exposures are made at the rate of 30,000
+pictures per second, they are projected at a speed of only 16 pictures
+per second. By this means analysis of extremely rapid motion in all its
+details can be effected--a result of far-reaching possibilities to the
+study of ballistics.
+
+Facilities are provided to enable the progress of the missile, both
+vertically and horizontally, to be measured, so that the speed of the
+projectile may be determined with unimpeachable accuracy. Fluctuations
+in the speed of a missile can be ascertained and investigated. Suppose
+the speed of the projectile is measured as it emerges from the arm,
+and again as it reaches the end of an extensive free trajectory;
+losses in velocity due to resistance of the air and other causes
+can be calculated. Individual pictures, when enlarged--and the
+sharp, well-defined character of the images on the band enables this
+enlargement to be carried out to a very wide limit--supply a ready
+means to investigate any particular phase and phenomenon at close
+quarters.
+
+It is not generally known that about twelve years ago the British
+Government set up such an installation at Devonport to investigate the
+phenomena of bullets in flight. Here also illumination was carried
+out by means of the electric spark, but the rate of exposures was
+considerably slower. The results of the work of Monsieur Bull and
+Professor Cranz, however, has opened up another and more wonderful
+province for the cinematograph, and the investigation of rapid motion.
+The efforts of these two scientists prove conclusively that motion
+photography is capable of recording the most rapid movements known
+with perfect success, although the circumstances may demand such
+extraordinarily short exposure as the 10,000,000th part of a second.

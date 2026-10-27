@@ -1,0 +1,673 @@
+CHAPTER 9
+
+Story & Visual Structures
+
+The Key Relationship
+
+Picture makers must understand story structure or they may never be able to correctly use visual structure. This chapter explains the basic concepts that are foundational to the key relationship between story and visual structures.
+
+The rewards to linking these two structures together are great. Filmmakers are better prepared to create and control the visual structure when they understand the basic parts of the story they want to tell.
+
+A story has three basic parts: the beginning or exposition, the middle or conflict, and the end or resolution. Let’s start at the beginning.
+
+EXPOSITION
+
+Exposition can be defined as “the facts needed to begin the story.” These facts include (but are not limited to) the identity and personalities of the characters, the plot, the location, and the time period. More facts may be added, but the basic information needed to begin the story should be established in the exposition. If the audience is not given the facts they need to begin the story, they can never become involved in the story because they’re distracted looking for the missing exposition.
+
+The fundamentals of exposition were first formalized in the ancient Greek theatre as early as 500 BC. Throughout history, storytellers from every civilization and culture developed various techniques for presenting a story’s exposition. In its short history, films have found ways to deal with exposition, too.
+
+ 
+
+Early silent movies depended on title cards for most of its exposition. This card from Buster Keaton’s 1926 film The General gives the audience important exposition that would be difficult to convey without words. The title card is still in use today.
+
+ 
+
+These title cards, from Boyz n the Hood and The Untouchables, give the audience story exposition for location, time period, and the politics in Chicago.
+
+ 
+
+In a film directed by Sergio Leone each of the three main characters is introduced with story exposition and a title card labeling them The Good, The Bad and The Ugly.
+
+As a story develops, additional exposition may be needed to introduce new characters, facts, or situations. In North by Northwest the Intelligence Agency is used throughout the story to reveal additional exposition. The Harry Potter films reveal new information with expositional scenes throughout the stories.
+
+Another common technique for exposition is narration. Casablanca begins with a map of Europe and a voice-over lesson in geography and politics. Orson Welles narrated some of his films (a convention he brought from radio) to give the audience the facts they needed to begin a story. In The Shawshank Redemption Morgan Freeman narrates the entire story adding new exposition as needed. Other examples of expository narration include films from Billy Wilder, Woody Allen, Martin Scorsese, the Coen Brothers, and Wes Anderson, as well as the films A Clockwork Orange, Fight Club, and Apocalypse Now, to name just a few. In Ferris Bueller’s Day Off and Alfie the main character talks directly to the camera, offering exposition and commentary on the story situation.
+
+CONFLICT
+
+The middle part of a story is called the conflict. When a story begins, there’s often little or no conflict, but one quickly develops because it is the conflict that drives the story forward. When a conflict begins, the main characters encounter obstacles that prevent them from reaching their goal. As the story develops, the obstacles become more difficult and the conflict becomes more intense.
+
+A conflict can be internal or external. An internal conflict involves an emotional struggle. Remains of the Day is about a British butler whose internal conflict keeps him in denial of a changing world. In Serpico, the policeman’s internal conflict is a moral dilemma between corruption and honesty. The tragic main character in Up in the Air struggles with a conflict between personal isolation and companionship. In The Apartment the main character has two internal conflicts. One is his anxiety about personal integrity, and the second is his attempt to advance his romantic life.
+
+An external conflict involves a physical situation. The external conflict in Jaws is trying to stop a menacing shark that’s killing vacationing swimmers. In Cloverfield, the external conflict is people trying to escape an alien monster.
+
+A story conflict can be both internal and external. In Casablanca the internal conflict involves Rick’s love for Ilsa. The external conflict is finding safe transportation out of Morocco. Martin Scorsese’s The Departed has an internal conflict about personal morality and an external conflict of finding the double-crossing informant. In Guillermo del Toro’s The Shape of Water the internal conflict is a love story and the external conflict is preventing the Amphibian Man from being killed.
+
+The conflict builds in intensity as the obstacles confronting the main characters become more difficult to overcome. The most intense part of the conflict is the climax. At the climax the main character must do something to end the conflict. The climax of Jaws is the final action sequence when the shark is killed. In The Apartment the climax is the main character quitting his unethical job and admitting he’s in love. In The Shape of Water the climax is the villain’s death.
+
+RESOLUTION
+
+The last part of a story is the resolution. It provides time for the characters, relationships, and plot details to fully complete their stories. Casablanca’s resolution occurs at the airport. Ilsa and Victor have escaped by plane and the conflict is over. Rick and Captain Renault walk off into the fog, and it’s business as usual. The resolution in Jaws is quick and simple. The shark has been killed and the remaining characters safely swim to shore. In The Shape of Water the lovers are reunited in the film’s resolution.
+
+ 
+
+The external conflict in Citizen Kane appears to end without an explanation for the mysterious word “Rosebud.” But the resolution’s final shots reveal the symbol of Kane’s lost childhood and his sled “Rosebud” as it burns in an incinerator and is gone forever.
+
+ 
+
+When a resolution requires more information, filmmakers may use title cards as in Catch Me If You Can and Boyz n the Hood. Other examples of title card resolutions include Hotel Rwanda, The King’s Speech, Moneyball, American Graffiti, and Animal House. Sometimes a longer resolution is required using narration as in The Shawshank Redemption, Double Indemnity, American Beauty, Trainspotting, or Father of the Bride.
+
+Every story, no matter how simple or complex, has an exposition, conflict, climax, and resolution. The story can be a book, a multi-part episodic series, a feature-length movie, a television program, a documentary, a digital game, an animated cartoon, or a commercial.
+
+Stories usually exist as printed words. That’s fine if you’re reading a book or a script, but a more visual format can help picture makers understand a story’s structure and connect it to the visual structure.
+
+The Story Structure Graph
+
+The structure of any story can be diagrammed on a graph.
+
+GRAPH A
+
+ 
+
+This is the story structure graph. The vertical axis on the left represents the story conflict intensity from 0–25–50–75–100. The more intense the story conflict becomes, the higher the number. The horizontal axis indicates the time length of the story (120 minutes in this example).
+
+GRAPH B
+
+ 
+
+A red line drawn on the graph represents the story’s conflict intensity. The story begins with the exposition (labeled EX). The story conflict intensity is at zero because it hasn’t started. Once the conflict begins, the intensity builds and the red story line moves upward from zero to 25, 50, 75. At the story climax, which is the most intense part of the conflict, the intensity reaches 100 on the graph. In the resolution (labeled RES), the conflict is over, the intensity drops to zero, and the story ends.
+
+Graph B is a good, generic example of a story’s structure. Graph B suggests that stories begin at zero intensity, steadily increase in intensity during the conflict, reach 100 or maximum intensity at the climax, and then drop to zero intensity in the resolution. But not all stories are alike. When the details of any story are carefully examined, a more specific graph can be created. It’s critical that the story structure graph reflects the specific structural details of the story you’re telling.
+
+Here is an example of a specific story and its graph. This story, only 30 minutes long, has an extremely simple exposition, conflict, climax, and resolution. The story, entitled The Meeting, is about Alex who wants to meet Jordan. The story’s conflict is the increasingly difficult obstacles that keep them apart. Alex tries three times to meet Jordan. The first two attempts fail, but finally, against all odds, the third attempt is successful. In the resolution, Alex and Jordan become friends.
+
+GRAPH C
+
+ 
+
+This is the story conflict intensity graph for The Meeting. The red story line now moves up and down depending on the specifics of the story conflict intensity. The three rises in the red line indicate Alex’s three attempts to meet Jordan. To fully understand the specifics of this story graph, The Meeting can be outlined in a Story Sequence List. Each sequence in the story has been categorized as exposition, conflict, climax, or resolution.
+
+THE MEETING—STORY SEQUENCE LIST
+
+EXPOSITION: Alex and Jordan are strangers.
+
+EXPOSITION: Alex sees Jordan and wants to meet.
+
+CONFLICT: Attempt 1 Alex tries to meet Jordan.
+
+CONFLICT: Attempt 1 Alex fails.
+
+CONFLICT: Attempt 2 Alex tries a second time to meet Jordan.
+
+CONFLICT: Attempt 2 Alex fails again.
+
+CONFLICT: Attempt 3 Alex tries a third time to meet Jordan.
+
+CLIMAX: Attempt 3 Meeting is a success.
+
+RESOLUTION: Alex and Jordan become friends.
+
+ 
+
+To give the story graph more clarity, it can be labeled with a brief description of each sequence based on the Story Sequence List. The circled numbers relate to the numbers in the Story Sequence List. The Meeting graph visually charts the specific intensities of the story exposition (EX), conflict, climax (CX), and resolution (R).
+
+The exposition begins at zero intensity because the conflict has not begun. The conflict begins five minutes into the story as Alex tries to meet Jordan. Each new meeting attempt increases the story intensity. The third attempt, the climax, is successful. In the resolution, Alex and Jordan have met and the story conflict intensity returns to zero.
+
+The Meeting story example is extremely simple but it illustrates the purpose of the graph. The story’s specific structure has been transferred from the script’s words on a page to a visual graph.
+
+ 
+
+The generic story structure line can be superimposed over The Meeting’s specific story red line. Although the story’s structure has unique variations, its fundamental organization still builds from zero to 100 and then returns to zero.
+
+ 
+
+The story conflict intensity graph can accommodate any variation in a story’s structure. One common variation is adding intensity during the exposition. In this version of The Meeting Alex and Jordan are separately introduced to the audience at a raucous New Year’s party that is disbanded by the police. This new opening sequence creates an intensity spike which has been added to the graph in the exposition. After the expository spike the story intensity drops to zero and a traditional conflict, climax, and resolution follow. Although the exposition’s spike is intense, the graph’s most dynamic sequence is still the climax. Action and horror movies often begin with an intense expositional sequence.
+
+Every story, with any kind of structural variations can be graphed using this technique. Alfred Hitchcock’s North by Northwest is an excellent story structure example because the intensifying events are extremely clear. You must be familiar with North by Northwest to understand the following Story Sequence List. If you’ve not seen this film, you should view it now.
+
+Each sequence in North by Northwest has been categorized as exposition, conflict, climax, or resolution.
+
+EX = Exposition
+
+CO = Conflict
+
+CX = Climax
+
+R = Resolution
+
+NORTH BY NORTHWEST—STORY SEQUENCE LIST
+
+EX: Introduce Roger Thornhill as a busy executive.
+
+CO: Thornhill is kidnapped.
+
+EX: Thornhill meets Vandamm at mansion.
+
+CO: Drunk driving.
+
+CO: Police station and return to mansion.
+
+CO: Thornhill finds hotel room and escapes.
+
+CO: United Nations.
+
+EX: Introduce Professor and Intelligence Headquarters.
+
+CO: Grand Central Station.
+
+CO: Thornhill meets Kendall on train.
+
+CO: Chicago train station.
+
+CO: Crop duster.
+
+CO: Chicago hotel.
+
+CO: Auction.
+
+EX: The Professor intervenes.
+
+CO: Mt. Rushmore Visitors’ Center.
+
+CO: Kendall and Thornhill reunite.
+
+CO: Thornhill in hospital.
+
+CO: Vandamm’s house.
+
+CO: Walk to Vandamm’s plane.
+
+CX: Mt. Rushmore.
+
+R: Thornhill and Kendall reunite on the train.
+
+The North by Northwest Story Sequence List is used to create a specific story conflict intensity graph.
+
+ 
+
+The graph is a visual map of the changes in the story’s external conflict as Thornhill evades Vandamm’s assassins. As the story sequences gain intensity, the graph’s story line rises. The numbers on the graph’s red line refer to the numbered sequences on the North by Northwest Story Sequence List.
+
+The story’s exposition (sequence 1) introduces Roger Thornhill, and lacks intensity. Thornhill is kidnapped (2) and the story conflict intensity begins to increase. The intensity builds (3–4) as a drunk Thornhill drives a car down a dangerous road. Thorn-hill recovers at the police station, and the story conflict intensity diminishes (5). As the story progresses, the graph indicates the increases and decreases in the conflict intensity as Vandamm tries to kill Thornhill. The most intense conflict of the story is the climax at Mt. Rushmore (21).
+
+You may disagree with this interpretation of the conflict intensity changes in North by Northwest. Depending on your ideas about story structure and character, you might locate the intensity changes at different places in the story. That’s fine. The interpretation of intensity can differ depending on the story and the filmmakers’ interpretation of conflict. The graph can illustrate the story intensities in any way that you wish. The important concept is to find your story’s conflict and graph its intensity changes. If you don’t understand the plot and conflict structure, you won’t be able to develop a visual structure that supports the story.
+
+An intensity graph can be created for an entire story or a sequence within a story. The North by Northwest Crop Duster sequence, like every sequence in the movie, has its own intensity build with an exposition, conflict, climax, and resolution. The conflict is external: Thornhill is trying to avoid being killed. The specifics of this sequence can be listed and used to create a graph.
+
+CROP DUSTER—STORY SEQUENCE LIST
+
+EX = Exposition
+
+CO = Conflict
+
+CX = Climax
+
+R = Resolution
+
+EX: Thornhill arrives by bus.
+
+CO: Two cars and a truck pass by.
+
+CO: Local man arrives and departs on a bus.
+
+CO: Plane attack 1.
+
+CO: Plane attack 2 with machine guns.
+
+CO: Thornhill fails to stop a passing car.
+
+CO: Plane attack 3 with machine guns.
+
+CO: Thornhill runs and hides in the cornfield.
+
+CO: Plane attack 4.
+
+CO: Plane attack 5 with crop dusting chemicals.
+
+CX: Plane and truck explode.
+
+R: Thornhill escapes.
+
+ 
+
+The numbers along the red story line refer to the numbered events on the Crop Duster Story Sequence List. Notice how the structure remains at zero intensity for the first five minutes of the sequence. Hitchcock keeps the story and visual conflict intensities low until the plane arrives. The conflict intensifies each time the plane attacks. The climax (11) is the explosion. Thornhill escaping in a stolen truck (12) is the resolution.
+
+Here are a Story Sequence List and intensity graph for Jordan Peele’s Get Out. Each sequence in the film has been categorized as exposition, conflict, climax, or resolution. This Story Sequence List and graph are based on the external conflict of Chris trying to avoid becoming the next victim of a bizarre medical procedure. You must be familiar with Get Out to understand the following Story Sequence List. If you’ve not seen this film, you should view it now.
+
+GET OUT—STORY SEQUENCE LIST
+
+EX = Exposition
+
+CO = Conflict
+
+CX = Climax
+
+R = Resolution
+
+CO: Logan is abducted.
+
+EX: Chris and Rose pack for a trip and drive; Rod is introduced.
+
+CO: Car hits a deer; police confrontation.
+
+EX: Armitage house; meet Missy, Dean, Walter, Georgina, and Jeremy.
+
+CO: Dinner. Jeremy becomes belligerent.
+
+CO: Chris can’t sleep; encounters Walter and Georgina.
+
+CO: Missy with teacup hypnotizes Chris.
+
+CO: Next day; Chris talks with Walter and Rose.
+
+CO: Auction guests arrive; Chris takes flash photo of Logan.
+
+CO: Silent auction; Chris and Rose decide to leave.
+
+CO: Auction guests exit; Chris finds Rose’s photos.
+
+CO: The family attacks Chris; teacup hypnosis activated.
+
+CO: Rod is unable to contact Chris.
+
+EX: Chris sees Armitage family video.
+
+CO: Rod consults TSA supervisors.
+
+CO: Rod tells Rose he’s contacted the police.
+
+EX: Chris is told about the transplant procedure.
+
+CO: Chris escapes and kills Dean, Missy, and Jeremy; Georgina dies.
+
+CX: Chris uses a camera flash; Walter kills Rose and commits suicide.
+
+R: Rod arrives and exits with Chris.
+
+ 
+
+Get Out begins with an intensity spike (1 on the graph) as Logan is abducted. Then the story intensity drops to zero with conventional exposition for Chris and Rose (2). The story exposition continues at the Armitage residence, and the conflict builds (4, 5, 6). When Missy hypnotizes Chris the conflict jumps in intensity (7). Chris’ flash photo of Logan (9) intensifies the conflict further. When the family attacks Chris (12) the story conflict gains even more intensity. The comedic scene with Rod and his TSA supervisors (15) reduces the conflict intensity. The fights, murders, and car crash sequences (17, 18 and 19) increase the story intensity to a climax (19). In the resolution (20) Rod arrives and escapes with Chris.
+
+Visual Structure
+
+The terms exposition, conflict, climax, and resolution are traditionally applied to the story structure, but these same terms can be applied to the visual structure.
+
+VISUAL EXPOSITION
+
+There is story exposition and there is visual exposition. The story exposition defines the characters, the conflict, the location, and the time period. The visual exposition defines how space, line, shape, tone, color, movement, and rhythm will be used to support the story.
+
+Exposition gives the audience the facts they need to begin the story. A story begins: “Once upon a time there was a cautious, unhappy family.” This exposition could be expanded to include the visual structure: “Once upon a time there was a cautious, unhappy family who lived in flat space with square shapes and cool colors.” Now there are two expositions, one for the story and another for the visuals. The visual exposition establishes rules for using the basic visual components and defines what they mean.
+
+In Jaws the story, musical, and visual expositions occur simultaneously in the film’s opening sequence. The audience watches the shark kill an innocent swimmer (the story exposition), the audience hears ominous music (the shark’s theme song exposition), and an underwater camera looks for victims (the shark’s eye view visual exposition).
+
+ 
+
+These shots from the beginning of Jaws are the visual exposition for the shark’s underwater view of its victims.
+
+The expository rules established in Jaws are followed throughout the story. The exposition has taught the audience to associate the music and camera angle with the shark so it becomes unnecessary to show the shark. The music or the camera angle automatically prompt fear in the audience.
+
+The visual exposition should define the structure for all seven basic visual components. Each visual component can be assigned to an emotion, mood, idea, situation, or character. The exposition teaches the audience the story, visual, sound, and musical facts they need to begin the story.
+
+For example, a green color can represent danger. Therefore, in the visual exposition, the story’s first dangerous event will occur using green. If presented consistently, the audience will learn that a green color communicates danger.
+
+ 
+
+In the exposition of Don’t Look Now, red is defined as the symbol of danger and death. Red is then assigned to various characters in the story to add conflict, suspicion, and visual intensity to the movie. In Precious, a harsh orange color indicates the abusive domestic relationship between a mother and daughter. The color’s meaning is set up in the expository scene between the two characters. Once the rule is defined, the orange color immediately communicates to the audience both the location and the characters’ ongoing toxic relationship.
+
+The rules defined in the visual exposition become the guidelines for everyone involved in the production. The expository choices made for space, line, shape, tone, color, movement, and rhythm will determine the correct lenses, camera angles, staging of actors, and art direction for your production. Visual rules give a production unity, style, and visual structure that can support the story telling.
+
+VISUAL CONFLICT & CLIMAX
+
+A writer uses words to create story intensity. A composer uses an orchestra to create musical intensity, and a picture maker uses space, line, shape, tone, color, movement, and rhythm to create visual intensity. The seven basic visual components can be structured using the Principle of Contrast & Affinity to increase or reduce visual intensity and build toward a visual climax.
+
+The Principle of Contrast & Affinity states:
+
+The greater the contrast in a visual component, the more the visual intensity of the picture increases.
+
+The greater the affinity in a visual component, the more the visual intensity of the picture decreases.
+
+More simply stated:
+
+CONTRAST = GREATER VISUAL INTENSITY
+
+AFFINITY = LESS VISUAL INTENSITY
+
+A scene, sequence, or an entire story can benefit from a carefully controlled visual structure that creates a cinematic experience and supports the story. As the story conflict intensifies, the visual structure can also intensify by using the Principle of Contrast & Affinity. The most intense part of the story conflict is the climax. The Principle of Contrast & Affinity can create a visual climax that supports the intensity of the story climax.
+
+ 
+
+In Matchpoint the main character’s story conflict is intensified by changes in the visual rhythm and line. The affinity of a vertical linear motif early in the story (left picture) lacks intensity. Later in the film (right picture) the linear motif changes to intense contrasting diagonal lines which communicate the character’s internal stress and conflict.
+
+ 
+
+The linear motif increases the story conflict intensity in Klute. The changes from horizontal to vertical and diagonal lines connect the visual structure to the increasing intensity of the story conflict.
+
+ 
+
+The tonal, color, rhythm, and camera movement changes in each sequence of Sicario support the intensity changes in the main character’s situation and conflict. Different visual components add intensity to each sequence which gives the film extraordinary visual variation.
+
+VISUAL RESOLUTION
+
+The end of a story is the resolution, and the visual structure has a resolution, too. In a story’s resolution the conflict is over and the intensity decreases. The visual intensity can also decrease using affinity of the visual components.
+
+ 
+
+The resolution in Collateral makes a dramatic shift from a fast, intense visual rhythm (in the close-up of Jamie Foxx) to a slow, almost non-existent rhythm (in the wide shot of Tom Cruise). This rhythm change reduces the visual intensity and creates the slow tempo needed for the resolution.
+
+The visual structure can be planned using graphs that diagram the story structure and the visual structure.
+
+The Visual Structure Graph
+
+The first graph to consider and draw is the story structure graph.
+
+GRAPH 1
+
+ 
+
+This story graph for The Meeting diagrams the specifics of the exposition (EX), conflict (CO), climax (CX), and resolution (R).
+
+GRAPH 2
+
+ 
+
+A second graph is added directly below the story graph. The second graph can be used to plan the structure for any of the visual components. In this example the second graph is used to plan the visual component of space, specifically flat and deep. The second graph asks the picture maker an important question: How will space be used to help tell the story?
+
+This critical question can be answered with one of three choices:
+
+A visual component can be used as a Constant.
+
+A visual component can be used as a Progression.
+
+A visual component can be used with Contrast & Affinity.
+
+CHOICE 1: THE CONSTANT
+
+Choosing a constant means that a visual component remains unchanged throughout the production.
+
+ 
+
+A line drawn into the second graph indicates that every shot in this production of The Meeting will be flat space. Keeping a visual component as an unchanging constant creates a specific visual world and ensures visual unity for the entire production. This flat space choice was made because the story of The Meeting takes place in a small town where life is simple and there aren’t any external obstacles preventing Alex from meeting Jordan. The source of the story’s conflict is Alex’s obsessive, self-defeating personality. The constant, simple flat space is used to visualize the unsophisticated small town and as a counterpoint to Alex’s complex personal problems.
+
+The choice for space or any visual component should be based on an understanding of the story. What moods or emotions is the story trying to communicate and which visual components can best communicate those ideas? Perhaps a story conflict is about a person trapped in a toxic lifestyle. Entrapment may best be communicated by a constant flat space because it feels claustrophobic or enclosed. Using affinity of flat space throughout a story helps to visualize a trapped situation. This is the visual structure for Alan Pakula’s film Klute.
+
+ 
+
+Klute is entirely flat space which gives the film visual unity and a feeling of being confined or trapped. The audience understands that flat space means trapped because it’s established in the story and the visual expositions. The main character is seen in a variety of situations where she’s marginalized, ignored, or literally trapped, and it all occurs in flat space.
+
+Does flat space always communicate being trapped? No. Any type of space can communicate entrapment if it’s established in the exposition.
+
+ 
+
+Stanley Kubrick’s The Shining is about a family trapped in a haunted hotel. A majority of this film is consistently photographed in deep space. The audience understands that deep space means trapped because it’s defined in the story exposition. Characters constantly discuss the snowstorm that isolates the hotel and traps its inhabitants. The story conflict intensifies as the family struggles with their situation, and it all happens in deep space. The exposition in Klute and The Shining gives the audience the story facts, the visual facts, and the definition of what they mean.
+
+A story about the complicated life of a reclusive media tycoon might use deep space to visualize the complexity of this billionaire’s inner soul. To see how one filmmaker used a constant deep space to communicate this complex personality, watch Orson Welles’ Citizen Kane.
+
+CHOICE 2: THE PROGRESSION
+
+Instead of keeping a visual component consistent and unchanged for an entire story, a visual component can make a gradual change or progression.
+
+ 
+
+The first graph is always the story, in this example The Meeting. The second graph, for space, is a progression from flat to deep. The progression is motivated by the story structure. Alex’s three attempts to meet Jordan progressively increase in story conflict intensity. The visual progression from a simple flat space to a complex deep space supports the increasing complications in Alex’s plans and the story’s conflict.
+
+ 
+
+In The Shining there are two visual components that use a progression. The space begins with less depth and becomes extremely deep. The dominant red color progresses from a desaturated pink to a saturated red. These progressions can be planned and illustrated using the graphs.
+
+ 
+
+The first graph is a simplified diagram of the story conflict intensity in The Shining. The story conflict gains intensity as Jack Nicholson’s character becomes progressively more dangerous. This character progression is supported by the visual progressions of space and color. The second graph shows the progressive change in space from minor depth to extreme depth. The third graph diagrams the progressive change in the red color’s saturation. The progression of space and color saturation supports the increasing intensity in the story conflict.
+
+CHOICE 3: CONTRAST & AFFINITY
+
+The third choice for controlling a visual component uses the Principle of Contrast & Affinity. This gives the picture maker the most specific control of the visual structure. Using contrast and affinity, the visual intensity in a shot, a scene, or sequence can be structured and controlled with a precise relationship to the story’s structure.
+
+ 
+
+In The Meeting there are three increasingly intense moments in the story conflict indicated by numbered Xs on the graph. These three moments are the results of Alex’s attempts to meet Jordan. The first attempt is a small failure, the second is a bigger failure, and the third attempt appears to be the biggest failure but is successful. The Principle of Contrast & Affinity can be used to visually intensify each attempt.
+
+ 
+
+The plan for space is shown in the second graph and uses the Principle of Contrast & Affinity. The “spikes” or changes from flat to deep occur at the conclusion of each of the three attempted meetings. Each one becomes more intense by increasing the visual contrast between flat and deep space. The most intense sequence is the third, surprisingly successful attempt. To give that climax the greatest intensity, there is repeated visual contrast from shot to shot alternating between deep and flat space.
+
+In Ernst Lubitsch’s 1939 movie Ninotchka there is an extraordinary example of the Principle of Contrast & Affinity that demonstrates its visual power. Lubitsch uses visual contrast to give the film’s star, Greta Garbo, a unique entrance.
+
+ 
+
+This story graph is for Ninotchka. The X is Garbo’s entrance. The entire film is flat space except for one shot.
+
+ 
+
+The picture on the left is a shot representative of the consistent flat space staging for the entire film. The shot on the right is Garbo’s deep space entrance. It is the only deep space shot in the film.
+
+Stanley Kubrick uses the Principle of Contrast & Affinity in a similar way in The Shining. In the story exposition, the son is warned to stay out of room 237. Eventually the father enters that room and makes a shocking discovery. Kubrick uses contrast from sequence to sequence to create visual intensity.
+
+ 
+
+A majority of The Shining is photographed using deep space, red hues, and square and triangular shapes. Room 237 is flat space, a green color, and circular shapes.
+
+ 
+
+The contrast of visual components foreshadows and emphasizes the conflict that occurs in room 237.
+
+Using the Graphs
+
+Drawing graphs can help you plan the visual structure for an entire production, a sequence, one scene, or even just a single shot. The motivation for using any visual component is always found in the story structure.
+
+If you don’t understand the story’s structure and conflict, it will be extremely difficult to find an appropriate visual structure. Aligning the visual structure graphs under the story graph will always remind you of the critical story/visual relationship.
+
+It’s important that you consider the space, line, shape, tone, color, movement, and rhythm in your production. Whether you have a plan for the visual components or not, the components will be photographed, and they will communicate moods, emotions, and ideas to your audience. As a visual storyteller, you want to ensure that the visual structure supports the story. Creating graphs is a constant reminder that the visual components should relate to the story structure.
+
+ 
+
+The labels on the visual component graphs can be organized in whatever way works best for your production. By flipping the deep and flat labels on the space graph, the entire structure of the space has been reversed. The graphs allow quick reorganization of visual ideas. The visual component’s structure always relates back to the story because the graphs are located directly below each other.
+
+Graphs are usually created in preproduction when you’re planning your film. During postproduction the graphs and the structural concepts they represent can be equally important. The visual contrast and affinity created by editing may or may not be supporting the story properly. Graphing your edited work can uncover errors in planning or production and help you correct them in postproduction.
+
+Drawing a graph encourages the picture maker to consider how a visual component could contribute to the storytelling. Any aspect of a story’s plot, conflict, or character can be graphed. The following graphs are examples of how the basic visual components can be used to support the story.
+
+EXAMPLE 1
+
+ 
+
+This story is about a child who has nightmares (labeled 1, 2, and 3 on the story graph). The second graph shows how recognizable and ambiguous space support the story. Recognizable space is used as a constant. Contrasting ambiguous space is employed at different levels of ambiguity during the three nightmare sequences. Just as Spielberg used ominous music for the shark in Jaws, this story uses ambiguous space during the child’s dreams.
+
+The degree of ambiguity and length of time ambiguous space is used changes as the story evolves. The quick first dream is ambiguous space. The second dream is less important so keeping its ambiguity low supports the story and will make the third dream more intense. The most intense ambiguous sequence occurs during the third dream (the story’s climax) when the space alternates from shot to shot between extremely ambiguous and recognizable spaces. This maximum contrast of space increases the visual intensity in support of the story. The story structure and the visual structure are now linked together.
+
+EXAMPLE 2
+
+ 
+
+The first graph diagrams the conflict of an action story about a detective trying to capture an escaped convict. The second graph indicates that this production will be entirely limited space. The third graph is the plan for the linear motif. It combines a progression with contrast & affinity. The linear motif begins with vertical lines. As the motif becomes diagonal, the visual structure gains intensity to support the story. At the climax the linear motif changes to contrast from shot to shot, alternating between horizontal and diagonal lines. This contrast creates the most intense linear motif to support the story’s climax when the convict is captured. In the resolution, the conflict is over and the linear motif becomes horizontal, which is least intense.
+
+ 
+
+Here is the same story with a different visual structure. The space is flat and the shapes are squares. The visual structure changes during the story climax to deep space and triangular shapes which are inherently intense. This gives the climax more intensity.
+
+EXAMPLE 3
+
+ 
+
+This story is a romantic, coming-of-age portrait of rural life in the late 1800s. Two children run away from home and become lost in a forest. Through a series of conflicts the children discover their inner strength and return home with a new self-confidence.
+
+The first graph is, of course, the story structure. The five visual component graphs below it illustrate the plan for hue, brightness, saturation, and tone.
+
+HUE: Constant warm colors. Contrast of warm and cool at the climax.
+
+BRIGHTNESS: Progression from affinity to contrast at the climax.
+
+SATURATION: Constant saturated colors.
+
+TONAL CONTROL: Progressions of art direction and lighting.
+
+TONE: Constant coincidence. Contrast of non-coincidence at climax.
+
+This story begins at sunrise with affinity of warm, saturated colors, a middle range of tones, the gray scale controlled by art direction and coincidence of tone. The climax of the story is a midnight chase in the woods during a lightning storm that contrasts warm and cool colors, the tonal range, and coincidence & non-coincidence of tone. The resolution returns to affinity of warm, saturated colors (another sunrise), midrange tones controlled by art direction, and coincidence of tone.
+
+ 
+
+Since the graph for hue only specifies “warm and cool,” a color script can be created to avoid any verbal miscommunication. The hue range is the warm colors used throughout the story. The blue adds the hue contrast needed for the intense climax.
+
+EXAMPLE 4
+
+The graphs can be used to plan the visual structure for a single scene. Any scene can be divided into directorial beats. A Beat List reveals a scene’s structure, which can be used to plan the visual components. A definition of directorial beats and the script for the following graph can be found in the Appendix Part C.
+
+BEAT 1: Jim is shy and Maisy is hostile.
+
+BEAT 2: Jim timidly persists.
+
+BEAT 3: Jim becomes assertive.
+
+BEAT 4: Maisy concedes.
+
+BEAT 5: Maisy flirts with Jim.
+
+ 
+
+Numbers indicating the directorial beats have been placed along the horizontal line of the story conflict intensity graph. The hue, tone, and camera movement graphs indicate where the visual components will change to delineate the directorial beats and help tell the story.
+
+EXAMPLE 5
+
+Contrasting visual components may not always occur during the most intense parts of the story.
+
+ 
+
+Some stories have conflicts or character relationships which may be best served if the visual components gain affinity, not contrast. This example is about two hostile characters who cannot cooperate. As the story develops, the conflict between them is slowly resolved.
+
+This visual component plan uses warm colors for one character and cool colors for the other. As the story progresses, the two characters begin to compromise and work together. The color scheme slowly changes from contrast of warm and cool hues to affinity of warm colors. In the resolution of the story, the characters unite which is visualized by the affinity of warm colors.
+
+EXAMPLE 6
+
+ 
+
+This story is a courtroom drama. A lawyer must defend a client who is being framed by a corrupt corporation. At the climax the client is found innocent.
+
+All of the visual components use a constant. There won’t be any change in the deep space, square shapes, cool desaturated colors, horizontal movement, and darker tones throughout the entire production.
+
+Keeping all, or most, of the visual components as an unchanging constant can create an excellent visual structure if it fulfills the needs of the story. In this example, the actors, the sound, and the music convey the story’s intensifying conflict. The unchanging visual structure creates a passive, consistent environment for the actors’ performances. The visual components will simply give the production a visual style.
+
+If all of the visual components remain constant throughout a production, graphs aren’t really necessary. A list of the visual rules is all you need because the rules don’t change.
+
+EXAMPLE 7
+
+A digital game can have a story with a traditional exposition, conflict, climax, and resolution or use an unconventional story structure. Often, each game level increases the degree of conflict or alters the story to create variety for the game player. Controlling the visual components is extremely important in games and works the same way as it does in any picture making.
+
+The series of graphs on the next page are for a digital game with only five levels. Most games have many more levels, but these graphs demonstrate how visual structure can be applied to these complex productions.
+
+ 
+
+The game is structured so each new level increases in player difficulty (story conflict intensity) and in the visual component intensity. Level five, the most difficult in the game, has the most intense visual structure.
+
+Consider each visual component when creating game environments and action. For example, if an object explodes, should the track of the debris move horizontally, vertically, or diagonally?
+
+ 
+
+Perhaps the explosions on the game’s early levels should use horizontal movement. More intense explosions on later levels would use diagonal tracks, and the most intense explosions on the game’s final levels would use objects moving in all three directions.
+
+Controlling the visual components within each level and from level to level has many advantages. The game can have an overall visual style that makes it unique. Or each game level can have its own rules that add visual variety. Each level, sequence, or scene in the game can build in visual intensity as the game itself gets more difficult, complex, and intense.
+
+EXAMPLE 8
+
+An advertisement can appear anywhere there’s a screen, from a tiny screen in the palm of your hand to giant screens in public places. A successful advertisement should stand out from its overwhelming competition and compel a consumer to purchase a particular product or service. Visuals in a commercial often take precedence over the story content. In fact, it’s common for the visuals to become the content. These visuals must be carefully structured because it’s not the visuals supporting a story, it’s just visuals for the sake of visuals. In these situations the visual component choices are critical because they are the only messengers of the advertisement’s content.
+
+The visual component concepts can be applied to any product or service. The Principle of Contrast & Affinity will always add or reduce visual intensity and can make anything appear aggressive or passive.
+
+ 
+
+The commercial for this exciting product exploits contrast for all seven basic visual components.
+
+SPACE: deep and flat.
+
+LINE: diagonals and horizontals.
+
+SHAPE: circles and triangles.
+
+TONE: light and dark.
+
+COLOR: hue and saturation.
+
+OBJECT MOVEMENT: vertical and horizontal.
+
+CAMERA MOVEMENT: no movement and dolly movement.
+
+RHYTHM: slow and fast.
+
+All of the basic visual components gain contrast as the advertisement progresses. The result is a series of shots that communicate the intensity of the product and demand the constant attention of the viewer.
+
+ 
+
+The same product or service could be portrayed as soothing, quiet and calm by exploiting visual affinity.
+
+SPACE: flat.
+
+LINE: horizontal.
+
+SHAPE: circles.
+
+TONE: middle third of the gray scale.
+
+COLOR: desaturated cool colors.
+
+OBJECT MOVEMENT: affinity of continuum.
+
+CAMERA MOVEMENT: none or only horizontal.
+
+RHYTHM: affinity of a slow, regular rhythm.
+
+The visual graph for this version of the advertisement is all affinity. Any story, product, or service can have any amount of intensity based on how the Principle of Contrast & Affinity is applied to the seven basic visual components.
+
+Here is a list of the visual components you can consider in finding a visual structure.
+
+STORY: The story’s conflict intensity.
+
+SPACE: Flat/deep.
+
+SPACE: Ambiguous/recognizable.
+
+SPACE: Open/closed.
+
+SPACE: Surface divisions.
+
+LINE: Orientation.
+
+LINE: Direction.
+
+LINE: Quality.
+
+SHAPE: Circle, square, triangle.
+
+COLOR: Hue.
+
+COLOR: Brightness.
+
+COLOR: Saturation.
+
+COLOR: Warm/cool.
+
+TONE: Control by art direction or lighting.
+
+TONE: Coincidence/non-coincidence.
+
+MOVEMENT (object): Direction.
+
+MOVEMENT (object): Fast/slow.
+
+MOVEMENT: Continuum of movement.
+
+MOVEMENT (camera): 2D/3D.
+
+RHYTHM (stationary objects): Fast/slow.
+
+RHYTHM(stationary objects): Regular/irregular.
+
+RHYTHM (moving objects): Fast/slow.
+
+RHYTHM (moving objects): Regular/irregular.
+
+RHYTHM (editorial): Fast/slow.
+
+RHYTHM (editorial): Regular/irregular.
+
+RHYTHM: Continuous/fragmented.
+
+The first graph is always the story. The visuals are being used to help tell the story, so understanding and diagramming the story conflict intensity is always the first critical step. The examples in this chapter vary in complexity to demonstrate different approaches, but the best approach is usually the simplest one.
+
+Although every visual component must be controlled, many can remain constant. Your graphs might only indicate the visual components that change as the story unfolds. The unchanging, constant components can simply be a list. Visual progressions and the Principle of Contrast & Affinity are important tools that should be used sparingly. An overly elaborate visual structure can be difficult to control and too complex for an audience to understand. Visual structure is a useful tool that should support the story, not overwhelm the crew and distract the audience from the storytelling.

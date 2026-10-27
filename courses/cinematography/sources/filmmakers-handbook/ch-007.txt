@@ -1,0 +1,583 @@
+CHAPTER 3
+
+The Video Camcorder
+
+This chapter is about the basic operation of video cameras and recorders used in production. Before reading this, see the overview of digital video systems in Chapter 1. The use of lenses is discussed in Chapter 4 and a more detailed discussion of video recording is in Chapter 5. See Chapters 10 and 11 for microphones and audio recording for video.
+
+Overview of the Digital Camcorder
+
+Devices that can record video range from dedicated video cameras designed for professionals and consumers to mobile phones, tablet computers, and digital still cameras including DSLRs and point-and-shoot models. Obviously there are big differences between them, but they all share things in common. The idea of a camcorder comes from the days when video cameras recorded to videotape, and the camcorder combined a camera and videotape recorder (VTR) in one convenient unit. Today most camcorders record directly to flash memory cards, disk drives, or optical discs, but videotape is still used on some productions, either within a camcorder or when recording to a separate VTR. All camcorders have these elements:
+
+Fig. 3-1. Video camcorder. (Panasonic Broadcast)
+
+The lens. Forms an image of the scene on the camera’s sensor(s). Most lenses have controls for the focus of the image, the brightness of the image (using the iris diaphragm), and—with zoom lenses—the magnification of the image (using the zoom to change focal length). On some cameras the lens is built into the camera; on others it is detachable and different lenses can be used.
+
+The sensor. Light-sensitive electronic chip that converts the image formed by the light coming through the lens into a grid of electrical charges. Either a CMOS or CCD type of imager. See Figs. 1-9 and 2-6.
+
+Digital signal processor. A microprocessor that digitizes the electrical charges from the sensor and converts them into a digital video signal. Other tasks for these complex chips may include adjusting color and tonal reproduction, setting frame rate and length of exposure (using the shutter), and adjusting the sensitivity of the sensor (using the gain control), plus managing and storing a range of complex parameters.
+
+The viewfinder. A small video monitor viewed through an eyepiece that allows you to see what you’re shooting or playing back. Most camcorders also provide a separate fold-out LCD screen for external viewing.
+
+The recording system. Stores the video signal on flash media, hard drive, tape, or disc.
+
+Audio recording. Most camcorders have built-in or attached microphones and provisions to plug in external mics. Professional camcorders offer full manual control of audio input and recording (see Chapters 10 and 11).
+
+The power supply. Camcorders can be run on rechargeable batteries or by plugging them into an AC power supply.
+
+Timecode. An hour:minute:second:frame timestamp for each frame of video, critical for many aspects of postproduction (see p. 223). All professional camcorders have full timecode capability, while nonprofessional camcorders provide a limited type of timecode that is nonetheless useful when timecode is required.
+
+Many consumer cameras are designed for the “point-and-shoot” user and are highly automated. Since control of focus, exposure, and color is part of the creative process of shooting, it’s often not an advantage to have these things set automatically. Professional camcorders are generally not as automatic and always provide manual overrides. If you hope to capture high-quality images and sound, it’s important to know when it’s best to make adjustments manually and, when using automatic settings, which automatic settings can be trusted.
+
+Before you can start shooting, you need to set up the camera to capture the picture and sound properly. Some of the settings, such the format and basic frame rate, can be thought of as “project settings”—once set, you may not change them much at all for an entire movie. Other settings are picture controls, such as exposure, which you’ll probably adjust on every shot. Then there are the tasks of managing your recording (how to handle the digital data being recorded to memory cards, drives, or tape) and managing your power supply (batteries or AC).
+
+INITIAL SETTINGS
+
+Here are some items to set up before you shoot; some of these you may change later for individual scenes or shots.
+
+FORMAT. Most camcorders can shoot in more than one format, so you will need to make choices about resolution (say, 1080p or 480i), type of compression (“codec”), data rate, and choice of progressive or interlace scanning. These options are discussed in Chapters 1 and 2. Your options will be determined by your camera, and some choices may not be available (for example, a given resolution may not be available at all frame rates). Typically, you’ll use one format for the entire production. On some cameras, selecting the “recording format” is a single menu choice that sets a host of things at once. An example from one Sony camera: by choosing the “1080/60i FX” format you will record 1920 x 1080 HD at 30 fps interlace in the AVCHD codec at 24 Mbps data rate.
+
+FRAME RATE. Before starting production, choose a base frame rate for the project. See p. 81 for options. As just noted, some formats are limited to certain frame rates; for example, PAL 576i is always 25 fps. Having a project frame rate doesn’t prevent you from shooting some footage at higher or lower frame rates for slow- or fast-motion footage if your camera has that capability (see p. 389). At the same time, if you want to include footage in your production that was shot at other frame rates (such as archival material or shots from other cameras), you can usually convert the frame rate if you want that footage to appear at normal speed in the movie.
+
+SHUTTER SPEED. With traditional video cameras, you won’t usually need to make a shutter speed choice to start shooting. Shutter speed is usually by default about half the frame rate. For example, if you’re shooting at 30 fps, the default shutter speed will typically be 1⁄60 second. With professional cameras and many consumer models, you can manually select higher or lower shutter speeds if you want them for different effects.
+
+With DSLRs and some newer cameras, unless you put them into an automatic mode you’ll need to select the shutter speed prior to shooting. As a starting point, it’s safe to set the speed for about half the frame rate (1⁄50 second for 24p, 25p, or 50i; 1⁄50 or 1⁄60 second for 30p; 1⁄60 second for 60i or 60p). For more on shutter speed see p. 135.
+
+GAIN AND ISO SPEED. Traditional video cameras have a gain adjustment to boost the video signal for dark scenes. Gain should normally be set at 0 dB, and increased only when you can’t get enough exposure otherwise, because increasing gain will add electronic noise to the image. DSLRs and some video cameras have an ISO speed setting that is much like gain. The camera manufacturer may recommend a particular ISO as a starting point, which you can adjust up and down for individual shots. Like gain, if you set ISO too high, the image may be noisy. With a DSLR, you normally want to start with one of the lower ISO numbers if there’s enough light to shoot. For more on gain and ISO, see Camera Sensitivity, p. 133.
+
+ASPECT RATIO. If you’re shooting HD, the aspect ratio is by default 16:9. If you’re shooting SD, you’ll have a choice between 4:3 and 16:9 (though not all SD cameras can shoot 16:9). Wider aspect ratios are available with digital cinema cameras and with HD cameras using anamorphic lenses or other means. For more, see Aspect Ratio Choices, p. 74.
+
+VIEWFINDER AND MONITOR SETUP
+
+To see the video image, we use a monitor. The viewfinder is a miniature monitor mounted on the camera that allows you to see the image you’re shooting through a magnifying eyepiece. Professionals often work with a larger, separate monitor as well, which permits others to watch too. Many camcorders have both an eyepiece-style viewfinder and a fold-out LCD screen (see Fig. 3-1). Fold-out LCD screens allow you to hold the camera away from your face and in positions that would be difficult with a viewfinder. But they can drain the battery faster and may be hard to see in bright daylight. DSLRs and some video cameras can be difficult to operate with the camera’s LCD unless a magnifying loupe is attached to the screen. Many people prefer an external electronic viewfinder (EVF), as shown in Figures 1-3 and 3-2.
+
+Fig. 3-2. An adjustable LCD screen allows you to see the picture from a variety of angles. (left) Nikon D5100 with pivoting screen. (right) SmallHD external LCD monitor with magnifying loupe eyepiece, which also blocks stray light from striking the screen. (Nikon, Inc.; Angel De Armas/SmallHD)
+
+Viewfinders and other types of monitors are essential for checking how the shot is framed and if the focus, exposure, and color are correct. However, it takes experience to learn when you can trust the picture and when you should take what you’re seeing in the viewfinder with a grain of salt. Some examples:
+
+When you’re shooting, viewfinders and monitors show you the video as it comes out of the camera, but they don’t tell you what is actually being recorded. So if there are problems with the recording device or tape, you’ll find out only when you stop recording and watch playback.
+
+The edges of the frame that you see in the viewfinder or monitor may be different from what the audience will see. See p. 327 for discussion of TV cutoff and aspect ratio.
+
+Exposure, color contrast, and various image defects (such as moiré) may look quite different in the viewfinder compared to what is actually being recorded. LCD-based viewfinders and monitors in particular are poor at accurately displaying dark details, often “plugging up” shadows and not revealing the camera’s full latitude.
+
+The more you work with any given camera or monitor, the better you’ll be able to translate what you see in the viewfinder to what’s really being recorded. The ultimate picture reference is a high-quality studio monitor in a dimly lit room.
+
+Camera viewfinders can be set to display information about things like battery power, timecode, audio levels, and recording time remaining (see Fig. 3-3). This info is very useful, but sometimes having all that text on the screen is distracting. Also, there’s a natural tendency when shooting to avoid positioning things in the frame where they’re hidden by the data displays. (Later on, when you see the image on a monitor with no data overlays you may wonder why parts of the picture look empty.) Most cameras allow you to turn off all viewfinder data when you want to, usually with the quick press of a button.
+
+Fig. 3-3. Data in the viewfinder. You can choose to display lots of information about battery level, timecode, lens settings, and menu choices. Sometimes all the clutter blocks what you want to see. The zebras (stripes) shown here indicate overexposure.
+
+Adjusting the Viewfinder
+
+With the exception of some consumer cameras, most viewfinders and monitors have adjustments for brightness, contrast, and color. Adjustments made to the viewfinder or monitor affect only what you see in the monitor itself—they have no effect on the video that’s being recorded. However, if the monitor is not “set up” properly, you won’t be able to evaluate the image correctly and this may lead you to make other changes (in exposure, lighting, focus) that will affect the actual recorded video. It’s very important to set up a camera viewfinder or LCD screen before you shoot by adjusting the brightness, contrast, and color so that what you see is what you get (WYSIWYG). See Appendix A for instructions.
+
+Some viewfinders have a peaking or detail adjustment that helps you focus by adding a fine white or colored edge around things that are sharply in focus. If you set the peaking level high and turn the focus ring on the lens, objects will really pop in the viewfinder when you’ve got them in focus.1 However, a problem with setting the peaking very high is that the white edges can make it harder to judge the lighting and exposure. Often a medium setting is a good compromise.
+
+Some cameras allow you to quickly magnify the center of the image as a focusing aid. This can be particularly helpful in HD, where focus is especially critical. Many cameras have a zebra indicator that highlights areas in the frame that may be overexposed (see Fig. 3-3). For more on use of zebras, see The Digital Video Camera’s Response to Light, p. 185.
+
+VIEWFINDER FOCUS. If your camera is equipped with a typical eyepiece (tubelike viewfinder), you must focus the viewfinder for your eye before shooting. This is done with the focus or diopter adjustment on the viewfinder. This has no effect on the focus of the image being recorded through the camera lens; rather, it allows you to make the tiny monitor screen in the viewfinder as sharp as possible for your eye. Everyone’s eyes are different and you should reset the viewfinder focus anytime someone else has been using the camera.
+
+With the camera on, turn or slide the viewfinder focus adjustment until the picture or printed characters on the screen are sharp. If your camera generates bars (a test signal), they provide a sharp image to look at while focusing the eyepiece. It is important that your eye be relaxed and not straining to focus.
+
+Modern video viewfinders are very wide in diameter (they have a large “exit pupil”), so you can easily wear glasses while hand-holding. On some cameras you can flip the magnifying lens out of the way, which some people who wear glasses find more comfortable. If the camera’s diopter won’t compensate for your vision, try switching to contact lenses.
+
+PICTURE CONTROLS
+
+Setting the Exposure
+
+Once you’ve selected overall settings for frame rate, shutter speed, and ISO or gain, you can manually control the moment-to-moment exposure of a scene by adjusting the iris (see p. 151), which regulates how much light comes through the lens. On some cameras you must turn the iris ring on the lens to do this (turn toward the lower f-numbers to increase exposure; see F-stops on p. 151). On other cameras there is no mechanical iris ring to turn; instead you control the lens iris with a knob or button on the camera body, which activates the iris electronically. It’s an advantage to use a camera that allows you to adjust the iris smoothly up or down; avoid cameras that have clicks or detents in the setting, which can make for jarring changes during a shot.
+
+How should you set the exposure? The simplistic answer is: so the picture looks good. With too much exposure, the scene will look very bright and washed out. The brightest parts will have no detail at all—just blown-out areas of undifferentiated white. With too little exposure, the scene will be murky and dark—the darkest parts of the scene will appear as masses of undifferentiated black (see Fig. 5-2).
+
+To start, make sure the viewfinder or monitor is properly adjusted (see Appendix A). Then set the exposure so the balance between light and dark is as pleasing as possible. The most important elements of the scene—often people’s faces—should have sufficient detail and be neither washed out nor murky. Overexposure can be a particular problem with video. Washed-out areas of the frame often look objectionable and may “bloom” or spread into other parts of the frame. Even so, sometimes you have to let a bright sky or window burn out if you hope to see detail in darker parts of the frame.
+
+In some situations there may not be enough light to get a good exposure, in which case you might increase the camera’s sensitivity by raising the gain/ISO setting, or in some cases by lowering the shutter speed (see below).
+
+If there’s too much light even when the lens is stopped down, use a neutral density filter (see p. 134). Sometimes the overall exposure seems okay, but there’s too great a range between the bright and dark parts of the scene to get a pleasing image (see Fig. 7-16). For all of these exposure problems, there are several solutions, including using lights or repositioning or adjusting the camera. As a rule of thumb, scenes that are slightly underexposed are easier to fix in post than scenes that are grossly overexposed, so it’s usually best to slightly underexpose rather than overexpose when shooting digital video.
+
+This discussion of exposure is deliberately simplified. For more precise and specific ways to adjust exposure, see Forming the Video Image, p. 185.
+
+AUTOMATIC EXPOSURE CONTROL. Many video cameras (and some film cameras) have the ability to set the exposure automatically. Autoexposure (AE) can be helpful in some situations, particularly for fast-moving documentary scenes. But though many beginners prefer the supposed security of AE, professionals usually avoid it because even small shifts in light and dark tones within a scene can cause the auto-iris to fluctuate in an undesirable way. This sort of inconstant exposure is a hallmark of amateur shooting.
+
+The camera’s autoexposure system works by measuring the brightness of the scene through the lens and guessing an appropriate iris setting. Depending on the particular camera, its settings, and the amount of light, the AE system may also try to adjust the gain/ISO speed (see p. 133) and/or the shutter (see p. 135). Changes to each of these can affect not only the exposure, but other aspects such as noise and how motion looks. More advanced cameras permit you to select which of these functions to make automatic. For example, there may be a setting that allows you to use just auto-iris control or auto-gain control (AGC). If you want to experiment with automatic exposure, it’s a good idea to start by setting the gain and shutter manually, and then see the effect of auto-iris alone (on some DSLRs this is called shutter-priority mode).
+
+The central drawback of automatic exposure is that the AE system doesn’t know which part of the scene you’re interested in; it assumes the center zone. Dark or light backgrounds can be a particular problem. If you shoot someone against a bright background or with backlighting, the camera reads all that brightness and closes down the iris, darkening the scene and often throwing your subject into silhouette. Some cameras have a backlight feature that compensates by increasing the exposure a stop or more or an AE shift setting to increase or decrease exposure a set amount. (See Fig. 7-17 for more on backlight.) Some cameras allow you to select a section or portion of the frame on which to base the automatic exposure, and this can help in getting the exposure you want.
+
+AE systems often make exposure adjustments when none is needed. Say you’re shooting your subject and a person with a dark sweater crosses the frame close to the camera, between you and the subject. Normally you would want the exposure to remain constant—you don’t want the exposure of the subject and background to change when the person walks by. AE, however, may open the iris momentarily as the dark sweater passes through the frame. Similarly, if you pan the camera (turn it horizontally) across a group of dark and light objects, the brightness of the background may change unnaturally as the camera passes the various objects.
+
+Automatic exposure control works best in scenes that are front lit (where the light comes from behind the camera position), that have relatively uniform backgrounds, and where the subject and background are neither excessively bright nor dark. AE can be of enormous help in run-and-gun documentary situations when your subject changes locations rapidly, and it can work acceptably in scenes where the lighting is even.
+
+Autoexposure will generally prevent you from overexposing, so some camera operators let the auto-iris initially set the exposure, then lock the setting in place by switching to manual control. Some camcorders have an “iris lock” or “exposure lock” button on the side that toggles the auto-iris on and off—when you press the button, auto-iris is on; when you press a second time, the iris is locked at that exposure. Professional cameras with 2⁄3-inch sensors use zoom lenses with a similar button on the lens handgrip that momentarily enables auto-iris for as long as it is held down. Using this function, you might, for instance, let auto-iris get a reading of a wide shot of the scene, or you might zoom in on the most important part of the frame. In either case, let the iris adjust, lock it in place, then set the zoom where you want.
+
+Setting the White Balance
+
+Video and film cameras need to compensate for the color of light falling on a scene so that the image doesn’t come out with an unintended blue or yellow color cast. When shooting video, adjusting the camera to the color of the light is called setting the white balance.2 Before reading this section, please see the discussion of color temperature on p. 308.
+
+Most places you go, your eye and brain adjust to the available lighting to make the overall color of light appear white. But in actuality, every different lighting environment, indoors and out, has a different color balance. For example, daylight is relatively blue, while incandescent bulbs used in the home as well as in professional tungsten movie lights are by comparison yellow/red. Most cameras have a 3200°K white balance setting for tungsten movie lights. If all you did was shoot under studio lighting, the 3200°K setting would be all you needed. But if you go outside to shoot in daylight, which has a higher color temperature than tungsten, the picture will look blue; skin tones and anything red in the scene will look cold and unnatural.
+
+So we need a way to adjust the camera’s white balance to different types of lighting. When white balance is adjusted normally, white objects will look white on screen. Most video cameras give you three ways to set white balance: by using presets; by adjusting the white balance manually; or by letting it set itself automatically. Before manually setting white balance, be sure that your monitor or color viewfinder is properly set up (see Appendix A).
+
+USING WHITE BALANCE PRESETS. Most cameras have a white balance switch with a “preset” position for 3200°K, which may be labeled “tungsten” or “indoors.” Many cameras also have a daylight preset at 5600°K.
+
+On most 2⁄3-inch sensor cameras, to shoot in daylight you use the 3200°K preset along with a built-in filter wheel that, in the “5600K” position, inserts an orange filter to warm up the light coming through the lens before it reaches the sensor. (This filter is similar to the 85 filter used for tungsten-balanced films. It cuts down the light intensity by about two-thirds of a stop; see p. 309.)
+
+Fig. 3-4. Some image controls on a Sony FS100. (lower left) Gain control: three-position toggle switch; the amount of gain at each position is set in the menu. (center) White balance toggle with preset and two user-settable memory positions. The buttons in the top row switch the gain, white balance, and shutter speed settings between manual and automatic control.
+
+Using presets is fast and convenient and many pros use them routinely. If you’re shooting in lighting that’s exactly 3200°K or 5600°K, you should get a true white. If your lighting situation varies from those two standards, you can usually correct the resulting off-balance color in postproduction—or you may not want to. For more, see Fine-Tuning White Balance, p. 112.
+
+On some professional video cameras and DSLRs, you can also dial in a white balance preset for an exact color temperature in Kelvin degrees, usually in increments of one hundred degrees. This setting can be recalled as needed.
+
+MANUAL WHITE BALANCE. Many professionals prefer to reset the white balance by hand for every new lighting condition. For example, scenes lit by household bulbs, tungsten movie lights, fluorescents, sunlight, or shade (no direct sun, just skylight) will all have a different color balance. Whenever the lighting changes they “do a white balance” by holding a white card or piece of white paper in the same light as the subject, zooming in so the card fills most of the frame, then pushing the camera’s white balance button.3
+
+On some DSLRs, a manual white balance setting is obtained by taking a still image of a white card or a transluscent white lens cap and using that to set a custom white balance, which can be recalled as needed when shooting. To set a custom white balance, check the manual of your particular DSLR for instructions. (DSLRs are designed primarily for taking stills in an instant of time, and many photographers rely on instantaneous auto white balance, called AUTO or AWB, over standard color balance presets. Presetting a custom color balance is not standardized as it is on video cameras.)
+
+When white-balancing, the camera’s circuits adjust the relative strength of the red, green, and blue signals coming from the sensor(s) until the white card looks white on video (if white objects look white, then the other colors will look natural too). It does no good if the white card isn’t reflecting back the same light that’s falling on the subject, so be aware of light sources that hit the subject but not the card, or vice versa. Also make sure you’re exposed properly for the scene before doing the white balance. If you’re not sure about your exposure, switch the lens into auto-iris mode and let the camera decide exposure. If the camera doesn’t have enough light to white-balance properly, it will indicate this in the viewfinder.
+
+It’s okay if the white paper has black text as long as, when you zoom in on it, the white predominates. In documentary situations, any white object in the prevailing light of the scene will do—for instance, a white shirt or a white wall. A neutral gray card will also work or even a truly gray object in a pinch.
+
+Professional video cameras can memorize two white balances, and they have a button or switch to choose one or the other. Maybe you’re shooting a documentary and one room is lit with dim reddish tungsten bulbs, while another is lit with greenish cool white fluorescents. Once you’ve done a white balance in each room, a flip of the switch is all it takes to toggle between the two.
+
+As noted above, some cameras use a filter wheel for balancing in daylight. Normally you would dial in the filter before doing a manual white balance, unless there’s not enough light.
+
+AUTOMATIC WHITE BALANCE. All consumer camcorders and DSLRs and many professional camcorders have the ability to set the white balance continuously and automatically with no user input. This is called auto white balance or auto tracing white balance (ATW).
+
+On some video cameras and DSLRs, auto white balance works surprisingly well. Experiment with yours to see how you like it. In run-and-gun situations, having quick, automated white balance can be very convenient. However, there are reasons why pros generally don’t leave the white balance on auto. Usually the auto feature needs a few seconds after a lighting change to make its adjustment. Some systems get confused by very bright light or by discontinuous-spectrum light sources such as fluorescent or mercury vapor. But even if the automatic feature is working perfectly you can end up with inconsistent results. Say you’re shooting a person in tungsten light, then change position to shoot the same person from a different angle that reveals a window in the background. The auto white balance will try to compensate for the bluer window, making the skin tone warmer in the second shot. With the change in the skin tone, the two shots may not cut together well. If a noticeable color shift takes place in the middle of a continuous shot, it’s difficult if not impossible to fix it in post.
+
+Fig. 3-5. Iconix camera and control unit. The camera head is a little bigger than a golf ball and can be used for hard-to-reach camera angles and point-of-view shots as well as stereoscopic 3D applications. Outputs 2K and most flavors of HD. (Iconix Video)
+
+Color balance is a creative element in shooting and when possible it’s best to control it yourself.
+
+FINE-TUNING WHITE BALANCE. Other than when shooting with professional tungsten studio lights, almost every lighting situation varies a little or a lot from the preset “standards.” Household bulbs can be warmer or cooler than 3200°K, and 5600°K is only a crude average of the actual color temperature you’ll find at any given moment outdoors (think of all of the variations of yellow sun, blue sky, amber sunset, gray cloud cover, etc.). What does that mean for the filmmaker?
+
+One of the arguments for using presets is that every scene doesn’t need to be corrected for identical whites. In the world, white is rarely simply white. Think of a white linen tablecloth under candlelight. It should be warm, not pure white. Look at figurative paintings and you’ll rarely see white applied as colorless white. The tinting of white has graphic and emotional power. If you shoot video under candlelight with 3200°K preset, whites will indeed look warm and yellowish. However, if you do a manual white balance, white will be rendered white but the warmth and mood will be removed.
+
+So, by using presets as a creative tool, the whites may be “off” but the color balance can still serve the scene you’re shooting. Some cameras allow you to easily tweak the color warmer or cooler to your liking or, as mentioned above, to dial in a specific color temperature by Kelvin number.
+
+If you prefer a neutral color balance and don’t want to have to fix it in post, then do a manual white balance. But sometimes even after white-balancing, the overall balance seems too cool or too warm. This could be a problem with the way the monitor is adjusted or it may be simply the way the camera’s electronics work. For example, some cameras have a tendency to balance on the cool side. In general, skin tone looks better if slightly too warm rather than too blue.
+
+A simple, low-tech trick is to “fool” the camera by doing a white balance on a nonwhite object. If you balance on a piece of pale blue paper, the camera will try to make the blue appear white, which will warm the entire image (alternatively, you could do the white balance with a blue filter over the lens). Vortex Media (www.warmcards.com) and other manufacturers make sets of cards of different shades of blue and green; by white-balancing on them you can warm or cool the image for a more pleasing look.
+
+Another approach is to use screw-on filters or a matte box (see Fig. 8-10). An 81B filter adds a mild amount of warming and an 812 warms a bit more. Remember you must put the filter on after you do the white balance; otherwise the camera will try to remove the warming effect of the filter.
+
+If you’re using lighting, you can do a normal balance using white light, then put colored warming gels on the lights (see Chapter 12). For shooting a scene that has light sources of different color temperature, see Mixed Lighting, p. 514.
+
+BLACK BALANCE. Professional video cameras have a black balance feature, which ensures that black is truly black with no color cast. A black balance should be done if the camera is new, if it hasn’t been used for a while, if it was just used by someone else, or if it has experienced a dramatic temperature change. On some cameras it’s recommended to black-balance after changing shutter speed or switching between progressive and interlace recording. To black-balance, press the black-balance control button. If your camera doesn’t automatically close the iris before black balancing, cap the lens or close down the iris all the way to “C” (if it closes all the way to “C,” that is). Afterward, do a new white balance.
+
+Setting the Focus
+
+Before you shoot, you need to focus the camera’s lens on what you’re shooting. This is discussed in Focusing the Image, p. 153. Most professional cameras allow you to focus manually by turning the focus ring on the lens. As discussed in Adjusting the Viewfinder, p. 106, some cameras have a peaking feature in the viewfinder to assist you in seeing proper focus. Some cameras also allow you to magnify the viewfinder image so you can see the focus more clearly.
+
+AUTOFOCUS. Many camcorders have autofocus capability, notably consumer camcorders that rely on autofocus and as a result can be tricky or impossible to focus manually. There are several types of autofocus. Passive autofocus, the most common, works either by (1) analyzing the image and adjusting the lens to maximize fine-detail contrast and therefore sharpness in the center of the image or (2) dividing a small sample of incoming light into pairs of images, then comparing them to determine object distances. Video cameras typically use the former; DSLRs use the latter. A less-used technique, active autofocus, involves emitting and sensing the reflection of an infrared beam in order to gauge object distance. Passive autofocus can focus through windows but gets confused by underexposed or low-contrast scenes. Active autofocus can’t focus through glass (it reflects the infrared beam) but works fine with dark scenes.
+
+Some autofocus systems work quite well and can be handy in various situations, including times when you can’t look through the viewfinder or when focusing is difficult. Many cameras offer three focus modes: full manual; full automatic (with continuous autofocus adjustment); and manual with instant focus readjustment when you push and hold a button (similar to iris lock). This last mode can be very useful, especially with LCD viewfinders in which it may be hard to see precise focus. Point the camera at the subject, press the focus button, and let the camera lock focus at that point. Then you can frame the shot as you like. This method can result in very accurate focus, particularly when the camera and subject aren’t moving.
+
+However, using the camera in continuous autofocus mode can produce unwanted results, particularly in scenes where there’s movement or unusual framing. One problem is that the autofocus system may not focus on the things you want to be in focus. Say you’re shooting a man close to the camera who’s looking at a mountain in the distance. Normally, the filmmaker should control whether the man or the mountain is in better focus. Using autofocus, however, the camera will usually choose whichever part of the scene is centered in the frame. Sometimes there’s nothing of interest in the center. Say you’re positioned at the head of a table, shooting a person on the left side of the table talking to a person on the right side. Autofocus may try to focus on the wall behind them. Some newer cameras have face-recognition ability that can help keep the focus on a person. When the camera and/or subject are moving, autofocus can sometimes track the action better than you can manually, but other times it will make focus changes when none is called for.
+
+Fig. 3-6. Panasonic AG-AF100. Four Thirds CMOS sensor. Records AVCCAM internally to SDXC cards. Can output uncompressed 4:2:2 via HDMI for external recording. (Panasonic Broadcast)
+
+Autofocus systems do a certain amount of “hunting” to find proper focus, though recent cameras respond a lot faster than older models; small-sensor cameras with lightweight lenses are the fastest. Situations that may throw off autofocus include low light, low contrast, shooting through glass or other material (like a scrim or a fence), bright backlight, and horizontal stripes.
+
+Because focus is one of the key creative controls in shooting, continuous autofocus should be used only if absolutely necessary.
+
+RECORDING TO CARDS, DRIVES, AND OPTICAL DISCS
+
+The latest digital video camcorders record to nonlinear media like flash memory cards, solid-state drives, hard disk drives, and optical discs instead of linear videotape (discussed below). This provides flexibility during shooting that includes instant playback of takes in any order, longer record times, recording at higher data rates and resolutions, and a choice of frame rates. Sometimes today’s camcorders even record to two types of media at once (tape included) for instant backup. In postproduction, recording to nonlinear media saves time while ingesting clips into an editing system.
+
+These camcorders vary in terms of available codecs, file formats, and other factors. See p. 21 for an overview of these systems, and p. 90 for considerations of working with them.
+
+TYPES OF MEDIA
+
+Solid-State Media
+
+There are several types of solid-state media cards (also called flash memory media), including CompactFlash (CF); Secure Digital (SD); Secure Digital High Capacity (SDHC); Secure Digital Extended Capacity (SDXC); Sony’s SxS (pronounced “S by S”); Panasonic’s P2; and Sony’s Memory Stick. Check your camera manual for recommended cards. You’ll need a card that can store data fast enough to keep up with the format you’re shooting, so be sure to check the sustained read/write rate of the particular card, which is often expressed in megabytes per second (MB/s).4 Keep in mind that shooting at a higher frame rate or larger frame size on the same camera may require a higher data transfer rate. If you’re shooting with a DSLR, be aware that video requires a high transfer rate, so slower cards suitable for stills may not work for video.
+
+Some people buy cards with the most storage capacity they can afford, so they can shoot as long as possible without downloading. Others prefer smaller cards, so that if one gets lost or corrupted, they don’t lose as much material at once. Get name-brand cards—this is not a place to skimp on quality.
+
+Each memory card should be formatted before first use or when you want to wipe all the data to reuse it. To avoid possible errors, format the card on the same camera you’re going to be using it with. Insert cards carefully into the camera’s card slots and never try to remove a card or power down while the camera is formatting, reading, or writing data (often indicated by a red light near the card slot).
+
+There are many external devices that record on flash media and connect to the camera via HDMI, HD-SDI, or other cabling, such as AJA’s Ki Pro series, Convergent Design’s nanoFlash, and Cinedeck’s Extreme. Some of these allow you to insert flash media cards in the device; others use their own internal solid-state drive storage (see below). Use the device’s menu to select format, codec, and data rate, if applicable. Different editing systems use different container file formats, or “wrappers,” to package the video/audio data (see p. 242); the recorder may offer file choices such as AVI, MOV, or MXF. Check to make sure you’re using the right file format for your editing system. If the proper format isn’t supported you’ll need to do the extra step of converting the files while transferring them into the editing system before you edit.
+
+Fig. 3-7. This Nexto DI portable backup device can transfer the contents of a P2, SxS, or CompactFlash card to two hard drives simultaneously, with error checking. Allows previewing files and downloading in the field without a computer. (Nexto DI Co., Ltd.)
+
+With some camera/drive combinations, you can slave the drive to the camera, so it starts and stops when you press the camera trigger.
+
+Hard Disk Drives
+
+Compared to flash memory media, HDDs are heavier and more fragile and need more power, so they’re used less often for direct recording (they’re still essential for backing up in the field, however). High-end digital cinema cameras may require direct-to-disk video recorders (such as systems made by S.two or Codex Digital) or a RAID (redundant array of independent disks) to handle the high data rates of uncompressed video and provide bulletproof data protection (see p. 240). At the low-budget end, some people record directly to a laptop, using their NLE’s capture function. Some small external recorders are available with HDD or SDD options (see Fig. 2-19).
+
+Solid-State Drives
+
+Solid-state drives, or SSDs, are literally a cross between flash memory and hard disk drives. Think of them as hard disk drives with the disk removed and stuffed instead with flash memory. This means they function as exact replacements for hard disk drives, with the same SATA multipin connections. They are silent, have no moving parts and no heads to crash, and take no seek time—all of which equals less power usage and near-instant access to data. In terms of capacity, they leave flash memory cards in the dust. Unfortunately, their lone drawback is that they still cost considerably more than hard disk drives.
+
+SSDs have rapidly replaced HDDs for field recording of video and digital cinema. Increasingly they’re found slotted directly into cameras (including the Sony NEX-FS100, RED Epic, and Aaton Delta-Penelope), as well as affordable field recorders from Cinedeck, Convergent Design, Atomos, Blackmagic Design, and Ikegami. The most popular sizes are 128GB and 256GB, but Sony has introduced a family of SRMemory cards including 512GB and 1TB capacities, along with a portable SR-R1 portable field recorder for use with high-end Sony cameras that previously required HDCAM SR tape recorders.
+
+Optical Discs
+
+As of this writing, camcorders recording to optical discs include a few consumer models and Sony’s XDCAM HD family of products, which use Sony’s Professional Disc media based on Blu-ray technology housed in a cartridge shell (see Fig. 1-22). Present capacities of Professional Disc media are 50GB (dual layer, rewritable) for camcorders and 128GB (quad layer, write once) for editing and archival purposes. Optical discs combine the benefits of a digital, nonlinear file-based workflow with a physical object that can be saved and archived. Sony’s Professional Disc format claims an estimated archival life of fifty years, while hard disk drives and flash memory are deemed not archival in any sense. As a consequence, Sony’s optical disc format, being the only existing archival nonlinear medium, remains popular with television networks, reality show productions, and independent producers concerned with preserving extensive volumes of work.
+
+MANAGING DATA ON THE SHOOT
+
+To safely navigate from the shoot through postproduction, you need to be extremely careful with the data recorded in the field. This means planning your workflow in advance so the data is safely stored, in a well-organized way, with plenty of backups in case any files or storage systems get corrupted. You should create a system that’s clearly understood and coordinated with everyone on the production and postproduction team. Even if you’re working alone, it’s not uncommon in postproduction to need to return to the original camera data, so you want to make sure files can be easily located and reused as necessary. Being organized also includes logging and managing the metadata that will help you find and work with your files (see Importing and Organizing Your Material, p. 562).
+
+Different people use different systems to label, organize, and process their data. It depends in part on the production, your equipment, and your preferences. Below are some suggestions that may or may not be appropriate for your workflow.
+
+Recording
+
+If you’re using flash memory cards, label the outside of each card with a unique number, such as F1, F2, etc. (“F” for flash, or whatever letter you like). If more than one camera is on the shoot, you could use a name like C2F3. If you’re using paper labels, put them only in the space provided on the card. This number identifies the physical card.
+
+Once you’ve filled up the card and are ready to download its contents to a folder on a hard drive, you need a system to identify the contents of each card. Different productions use different systems. In some productions, the contents of each card download is assigned a reel number, with the numbers advancing consecutively throughout the entire project, much as you would assign a tape number to a videotape when you recorded on it. The folder on the hard drive should be given that reel number, along with the project name (such as OCEAN-002). You can also include the number of the physical card (such as OCEAN-002-F3), which helps you stay organized and can help identify the source of any data problems later. Some people prefer a system that includes the date, with reel numbers starting at 1 each day, such as OCEAN-120610-02. Come up with a system that works for you and keep it consistent for the production.
+
+Each time you press the button to start recording, the camera creates a new clip or file, which represents that shot (actually, often more than one file is produced for each clip). Some cameras automatically name clips with a multidigit number (which helps ensure that no two clips have the same number). On higher-end cameras you can assign a clip name. As an example, RED cameras use a naming scheme that includes the camera letter, reel number, the date, and a random two-digit number. So the file name A004_C010_0612K5_001.RDM tells us that this is the tenth clip recorded on the A camera’s fourth card on June 12.
+
+If a clip exceeds the capacity of one card, some cameras with multiple card slots will allow a clip to span to a second card. This creates two spanned clips, which can be rejoined when ingested into the editing system. Often the editing system will do this automatically.
+
+When a card fills up, store the card safely until it can be downloaded and backed up. Use a dedicated memory card case, Ziploc bag, or area in your camera case for your cards—they’re small and easy to lose! Some people like to slide the write-protect tab on the card (if there is one) to prevent erasure or changes to the files; others prefer to simply mark full cards with a piece of tape or store them in a place or holder reserved for full cards. With some equipment you can download directly from the device via cable without removing the card; this may be helpful with microSD cards, which are particularly easy to misplace.
+
+It goes without saying that you can’t be too careful or attentive when recording to solid-state media. Why? Well, there’s no sound of tape or film traveling through the camera. How do you know anything is being recorded? You don’t unless you watch the timecode counter, check takes in playback, keep an eye on media usage, and generally respect the fact that a camcorder is an image-capture computer. As with all computers, glitches happen.
+
+Downloading and Backing Up
+
+On some productions, there are enough cards so that downloading (also called offloading) can be done at the end of the day, in the comfort of the production office or editing room. On other shoots, downloading takes place on location, while shooting is ongoing. If this is the case, set up a downloading station in a safe, quiet spot away from distractions whenever possible. Regardless of how and when downloading is done, the goal is to make sure the transfer from the memory card to the storage drive(s) is done without any data errors. Multiple backups should be made as quickly as possible for protection.
+
+One approach for location work is to use a device that transfers data from the memory card to an internal SSD or hard drive. For example, Nexto DI makes handheld units that can accept various types of media cards and automatically download them to an internal drive (see Fig. 3-7). Once you have the data in the unit, you can connect the Nexto DI device to a laptop or desktop computer to transfer files for backup and editing. Panasonic makes units that download P2 cards to a removable hard drive that can later be connected to a computer (see Fig. 2-17). The advantage of transfer units is that they are easy to carry in the field, the transfer is relatively quick, and many systems employ error checking to verify that data is transferred accurately. Field transfer devices can often play back video so you can visually check clips, using either built-in screens or by connecting to a monitor.
+
+Fig. 3-8. This setup for downloading camera files is well organized and placed away from other activities. Under the laptop is the Mobile Rocket by Maxx Digital, containing the RED ROCKET card, for accelerated processing of RED R3D files (including debayering, color correction, and downscaling). (David Kruta)
+
+Another approach is to use a laptop computer with either a built-in memory card slot or an external card reader connected by USB or other connection. One or two external drives are connected to the laptop, if possible using a fast connection such as FireWire, eSATA, or Thunderbolt.
+
+Transferring files from cards can be done manually, using the Finder (for Macs) or Windows Explorer, but there are a number of dedicated applications that offer advantages. For example, ShotPut Pro can copy files to more than one destination at the same time. It also allows you to define how you want folders to be named and can print out a report of where files are stored. Synk and other applications can streamline syncing and backing up from one drive to another. Programs that use a verified transfer or checksum verification are preferable to simple copying with the Finder or Windows Explorer in order to ensure data integrity.
+
+When transferring files from a card, it’s not a bad idea to slide the record-inhibit tab on the memory card to prevent any files from being added or deleted during the transfer process.
+
+FOLDER MANAGEMENT. It’s essential that you organize the data properly when you store it. The postproduction team may have their own system—if so, use it. Here is one organizational method that you can modify as appropriate for your production. For this example, we’ll call the project “Ocean” and assume you’ve shot with flash memory cards, which you’re downloading to a laptop that’s connected to an external drive.
+
+First decide what type of external hard disk drive is appropriate to your needs. Are you shooting at a relatively low data rate like AVCHD, HDV, or XDCAM EX, or higher data rate like ProRes 422 HQ or even uncompressed? Are you just parking the files for later ingest into an NLE, or do you wish to play back the files for visual inspection from the hard drive? Bear in mind that 5400 rpm drives are slower; 7200 rpm drives are faster. USB 2.0 is slower; FireWire 800 is faster; Thunderbolt is fastest (for more, see p. 237).
+
+Create a folder for all of the project’s media on the external drive. Give it a clear name, such as “OCEAN Source Media.” Depending on the production, there may be a production number or episode number, which you can include in the folder name.
+
+Open that folder and create a subfolder within it. This will be the session folder for the day’s shoot. Name it using the date, the location, and/or other information, such as the cameraperson’s initials. For example, the folder might be named “120610-Harbor Exteriors-RD.” If you use a date format that begins with the year (such as YYMMDD), it’s easier to sort the files.
+
+Open that folder and create a subfolder within it for each card download. Name it with whatever system the production is using, as described above. For example, this might be the consecutive reel number system (such as OCEAN-002-F3) or the method that uses the project title, date, and card number for that day (such as OCEAN-120610-02-F3). Whatever method you use, be sure that each download folder has a unique name that is not repeated.
+
+Insert the card into the card reader. When the card’s icon appears on the desktop, double-click it to open the card. Select the entire contents of the card and drag or copy it to the card folder you just made—don’t leave out files just because you don’t know what they are. Don’t rename any files or change the directory structure in any way. Simply copy everything as it is from the card to the folder. Don’t download the contents of more than one card into the folder.
+
+Always check after each download that it has been completed properly. The quickest way to do this is to examine the size in megabytes or gigabytes of the folder or folders contained in the card’s icon, and compare them directly to the copied folder or folders. They do not have to match exactly but they should be virtually the same size. If there is an obvious difference in size, you have a problem.
+
+Fig. 3-9. A possible folder structure for organizing downloads of memory cards from the camera (see text). Note that camera cards typically contain a variety of subfolders and files (such as the “PRIVATE” and “AVF_INFO” folders here). Though the specific names of these subfolders and files vary by camera system and shoot, be sure to copy all of them into the folder you make for each card download (in this illustration, the folder for this card is named “OCEAN-002-F3”).
+
+After Downloading
+
+After the card has been downloaded, immediately back up the data to a second drive if at all possible. Do you really want to rely on only a single copy of the camera’s files, once the flash memory card has been erased for reuse?
+
+Which brings up a commonsense suggestion: don’t wipe or erase flash memory cards or SSDs until the last minute, when they’re actually needed for reuse. If you can get through a day using other cards, then the cards you’ve filled serve as additional backups. As they say, you can’t be too rich or too thin—or have too many backups.
+
+On many productions, each clip is visually checked to ensure that it has been safely downloaded. This may be done using nonlinear editing software (discussed in Chapter 14). Some camera manufacturers make stand-alone applications for viewing media from their cameras.
+
+One more time: before erasing the card, work out a protocol so you’re absolutely sure it has been downloaded, checked, and backed up. It’s a good idea to assign one crew member to be responsible for managing cards and getting them back to the camera department for reuse.
+
+RECORDING TO DIGITAL TAPE
+
+This section is for those using a camcorder that records to tape. For the basic principles of recording to tape, see the discussion of audio on p. 405 and video on p. 227.
+
+The Tape Path
+
+When you insert a tape cassette into the videotape recorder (VTR), a mechanism inside the machine opens the front of the cassette, pulls the tape out, and wraps it around the head drum, which is a fast-spinning cylinder containing magnetic heads for recording, playback, and erasure (see Fig. 3-10). Other fixed (stationary) heads for audio and control tracks may be positioned inside the VTR along the edge of the tape path. A capstan and pinch wheel actually pull the tape along.
+
+During recording, each head sweeps a diagonal path across the tape, magnetizing a short swath (called a helical scan). In the case of MiniDV, DVCAM, and DVCPRO, for instance, ten diagonal tracks equals one frame of video. Each of the tracks also includes a section for audio, for timecode, and for timing (control) of tracks. Some formats also have tracks running along the edge of the videotape called longitudinal or linear tracks (see Fig. 3-11).
+
+Fig. 3-10. Simplified view of the tape path and heads. Video formats vary widely in the configuration of the heads and the tape path. (Robert Brun)
+
+The VTRs for different video formats differ widely in the way the heads are arranged and in many other aspects of the system.
+
+Fig. 3-11. Digital videotape track layout. Individual formats differ in the number, type, and position of tracks. (Robert Brun)
+
+The Power Switch
+
+Professional tape-based camcorders have a two- or three-position power switch to allow you to put the camera in different states of readiness. In one state, power is supplied to the camera so you can see through it, but the tape is not threaded in the VTR. This is sometimes called “save” mode. In another state, the tape is threaded, the heads are spinning, and the tape will start recording immediately when you push the trigger (sometimes called “standby” or “operate” mode). The names vary, and not all camcorders have a true “save” mode.
+
+“Standby” mode should be used when recording is imminent. It allows you to roll tape instantly and generally ensures a clean transition from one shot to the next. However, when you are paused between shots, going to “save” mode disengages the tape and stops the heads from spinning. This conserves power and cuts down wear and tear, but when you’re ready to shoot, the camera takes a few seconds to come up to speed. If there is fast-breaking action, it’s probably best to leave the camera in “standby.” If you know it will be several minutes between shots, switch to “save” or power down the camera completely.
+
+Clean Cuts from Shot to Shot
+
+Tape-based digital camcorders provide seamless transitions between shots. If you press stop at the end of one shot, then press start again, the new shot begins without a glitch. However, you may get a brief breakup in the image (and break in timecode) between shots if you power the camera down, switch to “save” mode, take the tape out of the camera, or play back a shot to check it. If you do any of these things, you can still ensure a glitch-free transition. Some cameras have an “end search” button (professional cameras often have a return button marked “RET”); these will pause the camera at the very end of the last shot, ready to begin the new shot with continuous control track. On consumer cameras, often if you just play to the end of the last recorded shot and press stop while still on the shot, the camera can pick up from there, recording smoothly into the next shot.
+
+To avoid potential problems in editing, it’s a good idea to let the camera roll for five seconds or so after pressing start before beginning shooting or calling “action.” This preroll time ensures that the recording has fully stabilized. Similarly, it’s prudent to wait a few seconds after the scene stops before stopping the camera.
+
+Tape Recording Problems
+
+If the heads encounter tape particles or dirt, they won’t make good contact with the tape, which can cause dropouts. In DV this can appear as a sudden “hit” of little checkerboard patterns of image breakup. What you are viewing is highly sophisticated digital error correction attempting to compensate for the dropout. Dropout in HDV, which uses MPEG-2 compression, is rarely seen because of its advanced error correction. Dropout with MPEG-4 formats like AVCHD is even more uncommon. If dropout is severe, however, entire sections of a frame of MPEG-2 or MPEG-4 can get blocky or even freeze for several seconds.
+
+If you think you need to clean the record or playback heads of a camcorder, get a head-cleaning cassette for that video format and read the instructions for its use. Typically, it is run like an ordinary tape through the machine for five or ten seconds. Never rewind or reuse the head cleaner. Some people clean the heads on a regular basis; others only when the heads are obviously dirty (as indicated by bad recordings).
+
+Fig. 3-12. Sony HVR-V1U. Records HDV, including 1080/24p, to MiniDV tape. Also records DV and DVCAM (to DVCAM tape). Three 1⁄4-inch CMOS sensors and HDMI output. (Sony Electronics, Inc.)
+
+Protecting and Labeling Material
+
+If you decide to go back and check something you just shot for performance or technical reasons, be very careful to make sure you return to the end of the recorded section of the tape before recording again. Hearts have been broken by cuing to the wrong spot and unintentionally burning a good take. Some cinematographers refuse to rewind on set for that reason (though without checks you then run the risk of being unaware of a head clog or other problem).
+
+When you’ve finished recording a tape, remove it from the VTR and immediately slide the record lock on the cassette to prevent erasure. Label all tapes before shooting or immediately after. On the tape cassette itself, indicate the name of the project, the production company, the date, the tape number, and be sure to write “Camera Original” or apply the manufacturer’s premade sticker.5 Put the same information on the tape box label. On the box, include a line or two about the content; you may want to note the starting timecode (if any) as well.
+
+Tape Stock
+
+Videotape is composed of a base or backing material (polyester) and a thinner, magnetically sensitive layer that actually records the video signal. Manufacturers make a variety of formulations for the magnetic layer, ranging from various oxides to higher-quality “metal” tapes.
+
+Metal tapes come in two varieties: metal particle (MP) and metal evaporated (ME). All digital formats today use one or the other. The format determines which type of metal tape is required. For instance, MiniDV and HDV require ME tape, while Panasonic’s DVCPRO formats use MP tape and Sony’s DVCAM format uses ME tape. It is important not to use MP tapes in devices designed for ME tapes, as it can damage the recording heads through wear.
+
+Today’s video formats record a lot of data on narrow tapes, and the quality of the tape stock is critical. A higher-quality tape will have fewer defects and allow you to record with fewer dropouts. Talk to people and check online user groups for suggestions on picking a brand of tape. Some manufacturers offer “mastering” stocks for top quality (at a top price). If you’re renting a camera, the rental house will often have a preference. Many people recommend finding one brand you like and staying with it (or at least cleaning the heads between brands).
+
+Cassettes come loaded with different-length tapes. Often, longer tapes are less expensive per minute of running time, and allow you to make fewer tape changes while shooting. On the other hand, sometimes long-playing cassettes contain tape stock with a thinner base, which may be more vulnerable to stretching. One consideration on cassette length: if a tape gets lost or damaged, the longer it is, the more you suffer. Losing a half hour of footage is bad enough; losing three hours is a whole lot worse.
+
+Though tape stock is reusable, each pass through the VTR adds to the likelihood of dropouts or other defects. Professionals generally only use fresh, virgin tapes for critical camera recordings but if you need to reuse a tape don’t lose sleep over it. Relative to all the costs of production, tape is usually very cheap. Don’t scrimp. You can find good prices online and save by buying in lots of ten or more.
+
+STORING TAPE STOCK. Improperly stored videotape can deteriorate in various ways, including becoming brittle or losing its magnetic charge. Keep tapes away from any magnetic fields (including electric motors). Store them in spaces that would be comfortable for humans—Sony recommends medium humidity (neither very dry nor very moist) at temperatures from 59° to 77°F (15° to 25°C). Tapes should be fully wound or rewound and stored upright. Since all tape formats eventually become obsolete, it’s a good idea to transfer important archive masters to a new format—or possibly to a hard drive—every several years.
+
+OPERATING THE CAMCORDER
+
+Shooting Checklist
+
+Some things to review before shooting:
+
+Charge and/or check the batteries (see below).
+
+Review or adjust initial settings such as format, frame rate, shutter speed, and gain (see p. 104).
+
+Set the timecode, if any (see Timecode, p. 223).
+
+For information on audio recording, see Audio in the Video Camera, p. 417, as well as Chapters 10 and 11. We’ll assume here that audio is ready to go.
+
+Insert a formatted memory card or a fresh tape cassette.
+
+Make sure the viewfinder is focused for your eye and adjusted for color and brightness.
+
+When you’re ready to shoot, check or set the white balance, exposure, and lens focus (see pp. 107–114).
+
+See Chapter 9 for on-set procedures and other production considerations. For logging, see Chapters 9, 13, and 14.
+
+Fig. 3-13. Canon EOS C300 camera. Has a Super 35 sensor and records HD using the XF codec (MPEG-2, long GOP, 4:2:2 color) to CF cards. Supports HD-SDI output to external recorders or monitors. Available in Canon EF lens mount and PL-mount versions. (Canon U.S.A., Inc.)
+
+The Camera Trigger
+
+All cameras have a trigger to start and stop the recording device (push once to go into “record” mode; push again to stop). Get in the habit of glancing up to check the record indicator in the viewfinder to make sure that you’re actually rolling when you think you are. It’s surprisingly easy to get off cycle, and push the button thinking you’re starting the camera when actually you’re stopping it (and when you check later, you’re shocked to find you’ve recorded none of the takes you wanted, just lots of nothingness in between). This horrifying mistake is particularly easy to make when recording to flash memory since the camera is equally quiet when it’s recording or not.
+
+The red tally light in the viewfinder indicates when you’re recording or, for a switched, multicamera shoot, when the camera is being selected (“taken”). There is usually a tally light on the outside of the camera so everyone knows when you’re recording. For documentary work, many filmmakers turn it off or put a piece of tape over it.
+
+Temperature and Humidity
+
+In winter, when bringing a cold camera into a warm house, allow it to warm up in a sealed plastic bag to avoid condensation. When shooting in cold weather, try to keep the camera warm. Frozen tapes should be warmed before use. A hair dryer on low heat or air setting is sometimes used to warm or dehumidify equipment. Don’t store the camera or media in a closed car in hot, sunny weather. Since humidity can cause recording problems, avoid steamy locations when possible.
+
+Some digital cinema and HD cameras and certain DSLRs are prone to overheating even when used in moderate temperatures. Give the camera time to cool down if it feels very hot or displays a warning light. When possible, carry a spare DLSR body and switch bodies when one overheats.
+
+See below for the effect of temperature on batteries.
+
+Bars and Tone
+
+Since the analog era, it has been a professional practice to record 30 seconds of color bars and audio reference tone at the start of every camera tape, using the camera’s color bar generator and an audio test tone from the camera or the sound mixer (see Appendix A and Reference Tone, p. 452). The idea was to roll far enough into the tape to avoid any dirt and also to provide bars and tone for video and audio calibration later on.
+
+In digital video, levels are encoded into the digital stream and can’t be adjusted during copying or cloning, so recorded bars and tone are not that useful. However, if there’s an analog step—perhaps you’re using a video monitor connected through an analog video input—bars and tone can help with setup. For instance, you may want to put bars on at least some cassettes to help in adjusting picture monitors on location or in the NLE.6
+
+In the working world you may, however, encounter editors or producers who expect or demand bars and tone, regardless of their actual value. Many who cut their teeth in the analog world are reluctant to part with what they consider professional practices.
+
+Lastly, when recording to digital tape, some people think it’s a good idea to record at least ten seconds of something at the head of each tape—why not bars and tone?—to avoid potential dropouts. But it’s common practice among cinema verité filmmakers, for instance, to eject a spent cassette and immediately load another, without a break, to continue shooting an ongoing scene. They don’t seem to complain much about tape dropouts.
+
+BATTERIES AND POWER SUPPLIES
+
+All electronic gear needs power to run. For a shoot to go smoothly, you must have power when you need it.
+
+AC Power Supplies
+
+For interior work, you can use an AC power supply, which is plugged into the wall. (In the UK, wall current is called the “mains.”) With AC (alternating current), you never run out of juice, but your mobility is limited by the cable. When shooting in a foreign country, keep in mind that different countries have different types of power (see Electric Power, p. 518). The AC power may be supplied at 120 or 240 volts at a line frequency of 50 or 60 Hz. In some remote places what comes out of the wall isn’t AC at all. Fortunately, many power supplies and battery chargers can accommodate different types of power (either automatically or with a switch). In some cases, you have to convert the power to a different standard before plugging in (see p. 519). Check the manual that came with your equipment.
+
+Fig. 3-14. Common video connectors. Also see Figs. 5-29, 10-13, and 10-32 for other connectors used for video and audio. (Robert Brun)
+
+Battery Power
+
+For shooting in the field, and when portability is important, rechargeable batteries are used to power the camera. Most camcorders and film cameras use onboard camera-mounted batteries that range from several ounces to a few pounds. Battery belts and packs can also be used, especially for larger cameras.
+
+There are several types of rechargeable batteries. Nickel-cadmium (NiCad) is a widely used type of professional camera battery that has improved a lot in recent years and is well suited to high power demands. Newer battery formulations that are more expensive and lighter weight include nickel–metal hydride (NiMH) and lithium-ion (Li-Ion). NiMH is somewhat heavier than lithium for the same power output, but has no travel restrictions (see below). Lead acid batteries (what nonelectric cars use) are heavy for the amount of power they supply. These may be used for powering lights directly or sometimes for camera power, using a car’s interior accessory outlet. Batteries with the same chemistry can vary a lot in terms of power output and life depending on how they’re made. Beware of cheap, poor-quality cells.
+
+When getting a battery to use for your gear, first make sure that the voltage it delivers is compatible with your camera (check the manual). Some cameras specify a particular voltage, like 7.9 volts; others can accept a range, such as 11 to 17 volts. Keep in mind that every battery has a rated (“nominal”) voltage, but will typically deliver somewhat more than this when fully charged and less as it discharges. For example, a 12-volt nominal battery might start out at 14 volts and drop to 10 volts after a couple of hours of shooting. Since many professional cameras require at least 10.5 or 11 volts to operate, Anton/Bauer, maker of widely used battery systems, recommends using a battery rated 13.2 volts for a 12-volt camera, since it will deliver at least 11 volts before running out of juice.
+
+To estimate how long a battery will last, look in the camera manual for how much power the camera consumes, which is usually indicated in watts. Batteries are often rated in watt-hours. If the camera consumes 26 watts and the battery supplies 52 watt-hours of power, that should give you about two hours of use, which is a reasonable minimum for most shooting situations.7
+
+Actually, estimating how much power you’ll need for a day of shooting can be tricky because video cameras consume varying amounts of power depending on whether you’re using a built-in LCD monitor, a viewfinder, or both. Also, digital recorders use power whether they’re actually recording or merely standing by with the circuits on, so you could spend hours rehearsing actors with the gear on, then run out of power just before you start to record. It’s better to be safe than sorry, so bring plenty of batteries, a charger, and an AC power unit if you can. You can nurse batteries along by powering down the camera when not recording. With tape-based cameras, you can save battery power by switching to “save” mode when not rolling (but don’t bother for less than a few minutes’ break) and avoid rewinding tapes.
+
+With small-format camcorders, it’s usually a good idea to use larger, extended batteries instead of the small ones that usually come with the camera. DSLRs can drain batteries quickly; consider a battery grip that contains extra cells, which can also help in holding the camera.
+
+With larger, professional cameras you may have a choice between a heavy, high-capacity brick or smaller battery packs. The lighter batteries won’t run as long, but if you’ll be hand-holding the camera, they may save your back. On the other hand, sometimes large batteries balance a shoulder-mounted camera better. Pro batteries are available with various camera mounts; two of the most common are the V-mount (see Fig. 1-27) and Anton/Bauer’s Gold Mount.
+
+Estimating your battery needs with a film camera is more straightforward. Check the manual to determine how much film your camera will shoot per battery. If you know how much film you plan to shoot, you know how many charged batteries you need for the day.
+
+Newer cameras and batteries often have a display that indicates how many more minutes of use the battery has in it. Bear in mind that most rechargeable batteries will maintain a working voltage for a time, then drop sharply when depleted, so battery checks while shooting don’t always give much prior warning of when you’ll run out. Batteries should be checked under load (with the camera running) if possible.
+
+Batteries put out much less power when they’re cold. For cold-weather shooting, keep the battery warm until you’re ready for it or get an extension power cable so you can keep the battery inside your coat while shooting.
+
+Camera-mounted lights (and video taps on film cameras) consume a lot of power. It’s always safer to run them off their own battery (separate from the camera’s) to be sure you can keep the camera going even if the other systems run out of juice. A battery belt or battery pack makes a good auxiliary supply. On an expedition where normal battery charging is difficult, consider a solar-powered charger or a high-capacity, nonrechargeable lithium expedition battery.
+
+For many types of smaller equipment that consume less power (including audio recorders, microphones, and wireless transmitters), you can get high-capacity rechargeable batteries in AA, AAA, and 9-volt form. Nonrechargeable batteries are available in different chemistries: alkaline cells provide more power than standard cells. Lithium and other expensive types are better yet. When replacing any battery, be sure the polarity is correct (that is, the plus-minus orientation of each cell). If the equipment uses several batteries together, never replace less than a full set. Reversed or dead cells will drain the others.
+
+Fig. 3-15. DSLR (Olympus E-5) with Redrock Micro shoulder mount. (Redrock Micro)
+
+Battery Charging and Maintenance
+
+There are many types of batteries and chargers, so be sure to read the manual that comes with your gear. Most rechargeable camera batteries have a number of individual cells inside wired together. NiCads often charge faster than NiMH or Li-Ion. Always use a charger designed for the batteries you’re using and don’t mix different battery chemistries on the same charger unless the charger is specifically designed for it.
+
+Generally, the more power a battery puts out, the more time it needs to charge. Some chargers are designed to switch off when the battery is fully charged. With others, you must unplug the battery when done. Overcharging a battery can destroy it. If the charger isn’t one that automatically shuts off, unplug a battery if it feels hot.
+
+Proper battery charging is surprisingly complex and the best chargers use microprocessors to quickly supply the initial charge, then go into equalize mode to top off and balance all the cells without overheating them. With many chargers, a light will go on or off when the battery is mostly charged, but more time is needed to charge the final 10 or 20 percent. For example, with some of its chargers, Sony recommends leaving the battery on for an hour after the charge light goes off to allow for topping off. Avoid old-fashioned slow chargers that can take up to sixteen hours depending on the system. Fast chargers may work in as little as an hour, and that can make all the difference for recharging during a shoot or when you’re on the road.
+
+After you take a battery off the charger, it will lose some charge over time (called self-discharge). Batteries retain their charge best in a cool place: 32° to 50°F (0° to 10°C) is ideal. Li-Ion batteries hold their charge longer than NiCad or NiMH. If a battery has been off the charger for some time, be sure to check it and recharge if necessary just before a shoot. Some chargers are designed so you can leave the battery on charge indefinitely without harm. However, avoid low-end chargers that supply a constant trickle charge, which may reduce capacity and battery life. If you’re storing a battery for weeks or months between uses, discharge it, put it in a plastic bag, and put it in a refrigerator for maximum life (especially with Li-Ion).
+
+Never charge a cold or frozen battery. Warm it up to the manufacturer’s recommended minimum temperature first (room temperature is always safe). As noted above, batteries output less power when cold. Don’t charge batteries if the temperature is above 110°F (43°C).
+
+Overdischarging can harm a battery as much as overcharging. Most video cameras will shut off before overdischarging a battery, but a lighting fixture or a “deep discharger” may drain it past the safety point. A 12-volt battery should never be allowed to go below 9 or 10 volts. If you’re getting a low-battery indication from your equipment, replace the battery with a fresh one.
+
+There’s a lot of debate about the concept of battery memory. Some people claim that if a NiCad or NiMH battery is repeatedly discharged only partway and recharged, it will eventually lose its ability to store a full charge. According to Anton/Bauer this is a myth, and an apparent loss of capacity over time is not a memory effect but due to the use of trickle chargers and batteries that are of too low nominal voltage for the camera.8
+
+Even so, rotating through your batteries may have benefits and causes no harm. Shoot with each battery until you get the low-battery warning on the camera, put it on the charger, and continue shooting with the next one. As you go through the rotation over the course of days, each one will get fully charged and discharged.
+
+Some chargers double as AC power supplies for the camera—very handy when all your batteries are dead and you don’t have time to recharge.
+
+Rechargeable batteries have a limited life in terms of both age and the number of discharge/charge cycles. You should expect to get around 400 to 600 cycles from a NiCad or NiMH battery and around 1,000 cycles from a NiMH before the battery won’t hold a full charge. Larger batteries tend to last longer than smaller ones when used with the same equipment. You may be able to replace just the cells in a professional battery pack, saving the cost of buying a whole new battery. Both heat and physical shocks can destroy a battery or lessen its life.
+
+Fig. 3-16. A fitted foam insert in a hard-shell case protects and organizes your gear. Zacuto makes a variety of precut inserts. (Zacuto USA)
+
+Travel Restrictions
+
+Airlines restrict the size and number of lithium batteries you can fly with due to fire hazard. The following are the U.S. Department of Transportation’s policies: No spare lithium batteries are allowed in checked baggage (spares are ones not installed in equipment). For carry-on baggage, there is generally no restriction on the number of smaller spare batteries; this includes cell phone batteries and AA and AAA cells, as well as most standard laptop computer batteries. As for the larger batteries often used with professional cameras, you are allowed one larger lithium-ion battery installed in a device (such as a brick battery rated between 100 and 300 watt-hours (8 to 25 grams of lithium content), plus up to two spares, but the spares must be carried on and not checked. For more information, see http://safetravel.dot.gov.
+
+International rules may be more restrictive. The International Air Transport Association (IATA) currently prohibits you from flying with lithium-ion batteries above 160 watt-hours.
+
+CAMERA SENSITIVITY
+
+Digital cameras have improved greatly in their sensitivity to light, particularly as large-sensor cameras, which are inherently more sensitive than small-sensor cameras, have become more common.
+
+Your camera’s sensor—whatever the size—can capture images formed by only a certain range of light levels; the scene you want to shoot may be within that range or it may be too dark or too bright. To expand this range, you can increase the camera’s sensitivity for dark scenes or insert a dark neutral density filter in front of the sensor when there’s too much light.
+
+Setting the Gain or ISO Speed
+
+Most cameras have a gain or sensitivity switch that can brighten the image for low-light shooting. The trade-off is that increasing the gain also increases noise in the image, which looks a bit like graininess in film. Video gain is measured in dB (decibels). A typical gain switch might include settings for 0, 3, 6, 9, and 18 dB. Boosting gain by 6 dB doubles sensitivity, equivalent to opening up one stop. (This is like doubling the ISO or, when processing film, pushing one stop.) Switching to 18 dB is like opening up three stops. Usually, small increases in gain can improve the image in low-light situations without introducing too many image defects, but higher increases may show noticeable noise and should be used only if necessary (such as the hypergain setting in some cameras that can look like a snowstorm of noise). However, some newer cameras can be gained over 20 dB with a very clean image. Increasing gain may allow you to shoot at a higher f-stop to increase depth of field or to use less lighting.
+
+DSLRs and some digital cameras have an ISO speed setting, which is functionally equivalent to gain. The ISO scale used in digital cameras is akin to the system used for rating the speed of still and motion picture film (see p. 275). Doubling the ISO number doubles sensitivity, like opening up one stop or increasing gain by 6 dB. As in the case of increased gain, a higher ISO speed will add noise to the image, so many people tend to shoot with the lowest possible ISO given the amount of light and other settings. However, cameras are optimized for a particular ISO, and lowest may not be best. Check the manual and do tests to see which setting has the cleanest image.
+
+One thing to keep in mind about increasing gain and ISO speed is that neither truly increases the sensitivity of the sensor. Instead, they boost the signal after it leaves the sensor. So when you’re shooting a very dark scene that registers down near the noise level of the sensor, if you increase the gain or ISO, you’re boosting the noise along with the picture. If the scene is so bright that the highlights are clipped at the sensor, reducing the ISO will make the highlights look darker, but they’ll still be clipped. Though it’s a little counterintuitive (especially to anyone who has shot film), reducing the ISO or gain can actually reduce the camera’s dynamic range in terms of its ability to handle bright highlights. For example, according to Canon, the EOS C300 camera has a native ISO of 850, at which setting “the dynamic range, especially in highlight areas, reaches its maximum. At lower ISO settings, the dynamic range tends to shift more toward shadow detail.” For more on this, see p. 205.
+
+For extremely dark scenes, some cameras can record infrared (and may be equipped with an infrared on-camera “light”; see Fig. 2-16A). Infrared responds to heat, not visible light, and the image looks unnatural; but with it, you can shoot scenes too dark to shoot otherwise. You may like the weirdness of the look. Sony calls its consumer infrared system NightShot.
+
+THE ISO STANDARD. In still photography, each film manufacturer is required to rate its film products based on an ISO standard. A photographer may choose to rate a particular film emulsion higher, but the relationship between ISO rating and film sensitivity is the same from one manufacturer to the next.
+
+With digital cameras, the relationship between sensitivity and ISO is much more complicated. Manufacturers of digital still cameras use two types of ISO ratings: an arbitrary Recommended Exposure Index, which can be anything the manufacturer decides, or a Standard Output Specification, which specifies a standard output level corresponding to 18 percent gray (middle of the gray scale) when the camera is exposed at the declared ISO rating.
+
+Unlike ISO ratings for still photography, which apply to the film and not the camera, digital ISO ratings apply to the digital camera system as a whole, not to individual components such as sensors, which have no separate sensitivity rating.
+
+The ISO Standard Output Specification does not apply to digital cinema images, only to compressed digital still images like JPEG encoded to sRGB color space (a web standard)—not to RAW images captured directly off the sensor. In the case of RAW images, only the arbitrary Recommended Exposure Index can be used.
+
+So don’t assume that the ISO rating of a particular digital camera system or image is necessarily applicable to any other in terms of overall sensitivity until verifying it.
+
+Neutral Density Filters for Digital Cameras
+
+In sunlit scenes, there’s often too much light for the camera. Even with the lens iris closed down to a minimum aperture, the image may be overexposed. Most professional digital video cameras are equipped with internal neutral density filters that cut down the amount of light coming through the lens (see Neutral Density Filters, p. 312). For example, a camera might have a neutral density filter dial with three positions: (1) 1⁄4, or one-quarter the amount of light, equal to two stops and created by a 0.6 ND filter; (2) 1⁄16, or one-sixteenth the amount of light, equal to four stops and created by a 1.2 ND; and (3) 1⁄64, or one sixty-fourth the amount of light, equal to six stops and created by a very dark 1.8 ND.
+
+Some professional digital video cameras also provide a second filter wheel on the same axis as the ND wheel to permit selection of different levels of ND in combination with an orange filter for warming up daylight (the orange filter further cuts light intensity by almost half; see p. 309).
+
+With some digital video cameras there is no internal ND filter wheel; instead you must use glass ND filters that either screw on the lens or fit in a matte box.
+
+You can also buy variable ND filters that can be adjusted for different amounts of darkening (see Fig. 8-6). Be sure to get a high-quality variable ND or you risk softening the image.
+
+Neutral density filters can be helpful when you want to shoot at a wider iris for shallower depth of field (see p. 156) or when you want to avoid shooting at high f-stops, which reduce sharpness due to diffraction (see Lens Sharpness, p. 173). Adjusting the ISO speed can help in these situations too.
+
+Fig. 3-17. This panel on the ARRI Alexa displays key camera settings. Starting in the lower right and moving clockwise, you can see the white balance is set to 5600 degrees kelvin; the EI (same as ISO) is set to 800; the frame rate is set to 25 fps; and the shutter angle is set to 180 degrees. Shutter angle is simply another way of expressing the shutter speed; a 180-degree shutter is open for half of each frame, so the shutter speed at 25 fps is 1⁄50 second. (ARRI, Inc.)
+
+Shutter Speed
+
+If you’ve done much still photography, you know that still cameras have a shutter speed adjustment that controls how long the film or digital chip is exposed to light when you press the trigger. You might use a high shutter speed (short exposure time) for shooting sports when you want to freeze fast-moving action (see Fig. 2-14). You might use a slow shutter speed (long exposure time) in a dark scene when you need to collect as much light as possible to get enough exposure on the digital sensor or film.
+
+Most video cameras also have a shutter speed adjustment; it controls not how many frames are taken each second (that’s the frame rate; see p. 81) but the length of time the sensor collects light while each frame is being captured. The standard shutter speed is determined in part by the frame rate; as noted on p. 104, the standard shutter speed is generally about half the frame rate.
+
+There are times when you might want to use a higher shutter speed. Some cameras are capable of shutter speeds up to 1⁄10,000 second or more (the faster the shutter speed, the shorter the exposure). Why use a higher shutter speed? In a normal video or film image, any motion in the frame (whether caused by the camera or the subject movement) will cause a certain amount of blur (see Fig. 2-14). This blur looks natural at normal playback speed, but if you plan to extract still frames or slow the footage down with pixel estimation software for digital slow motion, you will want to make each frame crisper by using a higher shutter speed of at least 1⁄500 second or more. High shutter speeds are also useful in analyzing footage from sporting events. For more on slow motion, see p. 389.
+
+Using high shutter speeds may cause certain image problems, particularly if there’s a lot of camera or subject movement (see Judder or Strobing, p. 393). High shutter speeds are sometimes used to create a deliberately choppy feel, which cinematographer Janusz Kaminski famously employed in Saving Private Ryan to add a jittery, electric atmosphere to battle sequences.
+
+Because high shutter speeds cut down the exposure, if you increase the shutter speed you’ll need to compensate by opening the iris, by increasing the gain or ISO speed, or by adding more light. Very high shutter speeds are usually feasible only in bright light. In a situation where you deliberately want to reduce exposure so you can open the iris to achieve shallow depth of field (see p. 153), you might increase the shutter speed, but be aware that this may affect the way motion looks, as noted above. Because changing shutter speed affects motion, if you’re using a DSLR on autoexposure, you’ll usually want to prevent the AE from changing the shutter speed.
+
+Slower shutter speeds produce more motion blur and are sometimes used for a more gentle, dreamy effect. Some cameras have a slow shutter mode that allows you to select shutter speeds that are longer than one frame or field: for example, 1⁄15-, 1⁄8-, and 1⁄4-second shutter speeds when shooting 60i. This causes a single exposure to effectively stretch across multiple frames. Any camera or subject movement will result in blurring and highlight trails. You might like this as a special effect, but if not, use a good tripod and avoid any camera or subject movement. In static shots you can use a slow shutter speed to get more exposure when there isn’t enough light to shoot otherwise.
+
+Some digital cameras can indicate shutter speed in terms of the shutter angles cinematographers are familiar with from shooting film (see p. 255). A shutter angle of about 180 degrees results in a shutter speed that’s about half the frame rate (for example, 1⁄50-second shutter speed when shooting at 24 fps).
+
+Shooting computer and video monitors can be challenging if the refresh rate (scanning rate) of the monitor doesn’t match the frame rate of the camera, which will result in a rolling frame bar or uneven screen illumination (flicker). Some cameras have a special shutter control that allows you to dial the shutter speed up or down in small increments to match the scanning rate of the camera to the monitor. Sony and Canon call it Clear Scan; Panasonic calls its system Synchro Scan. See Chapter 9 for more on shooting monitors.
+
+Flicker may also occur when shooting with any pulsed lighting source, such as HMIs or fluorescents. See HMI Bulbs, p. 481, for recommended shutter speeds.
+
+Camera Sensors
+
+For background on sensors, see Digital Video Systems, p. 5, and Forming the Video Image, p. 185.
+
+It used to be the case that video cameras with three sensors (one each for red, green, and blue) produced better images than single-chip cameras. In a three-chip camera, an internal prism splits the light into the three primary color components (see Fig. 1-14). Some three-chip cameras also use a pixel shift technique to increase apparent resolution by offsetting the red and blue sensors by half a pixel from the green sensor to effectively double the number of discrete image samples.
+
+While three-chip digital video cameras provide advantages in light sensitivity and full pixel counts for each color component, today both the highest-end cameras and the lowest-end cameras are single-chip, not to mention DSLRs. Such cameras typically use a Bayer pattern filter on the front surface of the sensor to create separate red, green, and blue pixels (see Fig. 1-13). To accomplish this, a Bayer filter contains microscopic red, green, and blue filters that cover exactly one pixel each. The result is always that 50 percent of pixels are covered by a green filter, and 25 percent each by a red or blue filter. This pattern is sometimes called RGBG.
+
+A three-chip video camera requires a beam-splitting prism behind the lens, and you must use a lens specifically designed for that type of prism. With single-chip cameras there is no prism, which simplifies the optical path and, in the case of large sensors, allows the use of high-quality PL-mount film lenses designed for 16mm and 35mm film cameras as well as a universe of lenses designed for SLR and DSLR cameras.
+
+It’s imperative to keep a single sensor free of dust. Always put a cap on the camera if you remove the lens and try not to change lenses in a dusty environment. Dust may appear in the viewfinder without impairing the recorded image; but if you see dark specs in the image and on the sensor, it may need cleaning. The sensor is extremely delicate; it’s easy to damage in cleaning, and, if you’re cleaning a DSLR sensor, it’s easy to damage the mirror too. Some sensors are self-cleaning. Others can be blown clean gently with a rubber squeeze blower. Follow instructions in your camera’s manual or consider having it done by a professional.
+
+Since focused sunlight can damage the sensor, don’t point the camera at the sun for extended periods. Similarly, direct sunlight focused through a camera’s viewfinder can damage the monitor screen if left for too long.
+
+Camera Setup
+
+Numerous adjustments and settings provided by a camera’s digital signal processing affect the color, contrast, and sharpness of the image. These settings are user-adjustable, although some people prefer to leave them to the expertise of a digital imaging technician (DIT). When you get a new professional or semiprofessional camera, it’s a good idea to have a knowledgeable person explain the internal image settings to you. Many people, including experienced operators, choose to leave such settings alone, relying instead on the default or factory settings.
+
+If you elect to fine-tune the image, some cameras offer a scene file or picture profile capability to store settings for different looks as defined by adjustments to color phase and intensity, white balance tint, tonal scale reproduction (selectable gamma curves) and black stretch, and other image parameters including sharpness. On many cameras you can store these scene files on a memory card, which you can bring from shoot to shoot to re-create that look when you use the exact same type of camera, or to ensure consistency on a multicamera shoot, again when you use the same type of camera (though different lenses may cause differences between cameras).
+
+GAMMA. In video, gamma determines the apparent contrast of the image, particularly in the midtones. Gamma has a big impact on the feel of the image and whether details are visible in shadows or highlights. Many prosumer and professional cameras offer a choice of gamma settings. Options may include settings that look vibrant and contrasty; other settings are more muted and “cinelike.” For more on gamma and contrast, and choosing a gamma setting, see p. 193.
+
+Fig. 3-18. Detail or enhancement. (top) A shot made with the detail set to minimum. (bottom) Detail set to maximum. Notice the artificial white edge around the numbers on the clock and other objects. (Steven Ascher)
+
+DETAIL. Before reading this, see Sharpness and Focus on p. 70. Detail (sometimes called enhancement, edge enhancement, sharpness, or aperture correction) is a setting that affects the apparent sharpness of a video image (see Fig. 3-18). Many cameras have a menu setting for detail (this is for the recorded image, not a viewfinder adjustment). When image detail is set too high, a crisp, clear outline appears around objects, making them stand out boldly with a kind of electric “ringing” effect.9 When detail is set very low, the image may seem soft or unsharp. (You cannot truly add sharpness that doesn’t exist to an image. When detail is low or turned off, that is, in fact, the true resolution of the video image.)
+
+With small-sensor cameras, increasing the detail to a high setting feels “videolike,” while setting the detail lower appears more “filmlike.” An example of the first is TV news footage, which is often shot with a crisp, enhanced look. Shots made with a low detail setting can sometimes look mushy, but your eye gets used to the mellower, subtler look.
+
+Depending on your small-sensor camera, what you’re shooting, and your preferences, you may like more or less detail, but overuse of enhancement should be avoided, particularly with HD, which has inherently more resolution and looks sharper without any extra help. If you use Photoshop, play around with the Sharpen or Unsharp Mask filters on a still image to get an idea of what setting the detail circuit too high does to a digital video image.
+
+In the case of large-sensor digital video cameras, any detail circuit should be turned off. In most cases, this is the factory default setting anyway. Detail enhancement is an electronic cheat that large-sensor cameras, with their native ability to capture and reproduce true fine detail, no longer require.
+
+Likewise with small-sensor cameras: when in doubt, less detail is safer than more, since it can be added later but can’t be removed. Be aware that what looks good on a small monitor may look very different when projected big. Always experiment first with the detail setting if you’re planning to project the final results on a big screen.
+
+CHROMA. The chroma setting affects how saturated colors are. High chroma means bright, deep colors; low chroma means pale, desaturated colors. Very saturated colors may look appealing on a small monitor, but are sometimes too vibrant on a bigger screen. Your choice of gamma setting will also have an effect on chroma. For more on color, see p. 304.
+
+If you’re not a video tech or a DIT with experience in adjusting color matrix parameters, it’s prudent to avoid toying with internal color settings. The camera’s default settings will usually produce attractive images, and hue, saturation, and the like can be easily adjusted in postproduction, when ideally you will have access to a large, calibrated monitor in a controlled visual environment.
+
+OTHER CAMERA FEATURES
+
+Prerecord Cache
+
+Some digital video cameras have a prerecord cache (also called loop or retroloop) system that continually stores about five to ten seconds of material when the camera’s on but not rolling. Then, when you hit the trigger to record, the shot begins five to ten seconds before you pressed start. This can be particularly useful in unpredictable documentary situations—say, if you’re waiting for an animal to emerge from a nest. Some external HDD or flash memory recorders can add this capability to cameras that lack it.
+
+Image Stabilization
+
+Small-sensor video cameras often feature internal optical or electronic image stabilization to counteract camera shake or jostling and make it less noticeable when hand-holding the camera. Experiment with yours to see if you like the effect. Many people leave the stabilization on routinely. Image stabilization is also available to DSLR users when built in to individual lenses. See Chapter 9 for devices, such as Steadicams, that can stabilize large and small cameras.
+
+Digital Tricks
+
+Professional video cameras have a skin detail function that can target skin tones and soften facial textures for a more flattering look while leaving the rest of the image sharp. Some cameras can capture a previously recorded image and superimpose it in the viewfinder, helping you to re-create a setup recorded earlier. Some cameras can adjust the hue of a specific color, leaving other colors unaffected.
+
+Consumer video cameras typically offer a range of in-camera visual effects, including titles, fades and dissolves, in-camera editing, colorizing, posterizing, and other image distortions. Consult your camera’s manual for details. In general, it is far better to do these effects in postproduction than in the camera.
+
+Cameras that record to nonlinear media are generally capable of interval recording or shooting individual frames, allowing you to do time-lapse or animation work (see p. 392).
+
+Like DSLRs—obviously designed to shoot stills more than video—many digital video cameras can now capture high-quality stills, some while simultaneously recording video. If your camera doesn’t have a dedicated still capture mode, you may be able to get frame grabs from the video footage (easy to do by exporting from an NLE). This works best with progressive formats, of HD or higher resolution. Since they are made from one field only, SD cameras generally produce stills of low quality, and stills from interlaced HD formats are only somewhat better.
+
+1. This can be especially helpful when you’re working with a camera that has its internal detail set low; see p. 138.
+
+2. In film, the similar issue of the suitability of a film stock for certain lighting conditions is usually talked about in terms of color temperature or color balance. For example, a particular Kodak or Fuji color negative film will be described as daylight- or tungsten-balanced.
+
+3. Confusingly, on some cameras the button that performs a manual white balance is labeled “auto white balance.” This should not be mistaken for settings that continuously and automatically alter the balance (see Automatic White Balance, above).
+
+4. The data rate of camera codecs is often expressed in megabits per second (Mb/s). To convert from megabits to megabytes, divide by 8 (so, for example, if the camera generates 24 Mb/s that’s about 3 MB/s).
+
+5. Never label a cassette using masking tape or other tape. It can easily jam in a deck.
+
+6. When it comes to postproduction, bars and tone are still considered essential when making finished master tapes of the edited movie.
+
+7. This assumes you’re using a battery with a high enough nominal voltage, as described above.
+
+8. For more, see the Video Battery Handbook at www.antonbauer.com.
+
+9. The detail setting doesn’t actually improve the ability to see fine details. It doesn’t increase resolution, it just makes shapes pop out more—which fools the eye into seeing things as sharper.

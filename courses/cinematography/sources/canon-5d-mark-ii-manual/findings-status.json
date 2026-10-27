@@ -1,0 +1,17 @@
+{
+ "e7d70de9": {
+  "state": "applied",
+  "note": "module 2, 4 GB clip limit and movie mode",
+  "date": "2026-10-26"
+ },
+ "1878df6e": {
+  "state": "applied",
+  "note": "module 2, 4 GB clip limit and movie mode",
+  "date": "2026-10-26"
+ },
+ "fa6fb1c7": {
+  "state": "skipped",
+  "note": "sensor size and resolution are already in the module 2 lesson; the codec is covered by the H.264 paragraph",
+  "date": "2026-10-26"
+ }
+}

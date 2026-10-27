@@ -1,0 +1,686 @@
+CHAPTER IV
+
+THE KINETOSCOPE: THE ANIMATOGRAPH: THE CINEMATOGRAPH
+
+_The Kinetoscope_
+
+The World’s Fair at Chicago drew huge crowds from all parts of the
+world in 1893. The innumerable and varied side-shows evinced keen
+rivalry to obtain popular patronage. But there was one building
+sheltering a small instrument which made a particularly bold bid for
+public favour. It was a novelty, something that the man in the street
+had never seen before.
+
+The announcement ran that “Edison’s Kinetoscope, showing photographs in
+motion, was to be seen for the first time.” It worked automatically,
+and to investigate the new wonder the curiosity-provoked sightseer
+dropped a nickel--a coin equal in value to 2½_d._--into the slot,
+and applied his eye to the peep-hole, when he was treated to a new
+sensation for about 30 seconds. He saw photographic pictures flit
+before his gaze in such rapid succession that they appeared to be
+imbued with life. Children skipped, the lips of an orator moved in
+speaking, and so on. It certainly was a marvellous device, and those
+who availed themselves of the opportunity to see it in operation by
+means of the nimble nickel, expressed undisguised wonderment; to many
+it appeared uncanny.
+
+The Kinetoscope, Fig. 3, was housed in a wooden cabinet with a hinged
+door at one side. Within was a wooden frame _A_, which carried a series
+of small reels _B_ and _B¹_ arranged in two horizontal rows at either
+edge of the frame. At the top of the frame there were two larger
+wheels _C_, between which was a magnifying lens _D_. Behind the latter
+there was a small electric lamp and reflector _F_. In front of the
+magnifying lens there was a disc having a narrow radial slot near its
+edge, which constituted the shutter. This was rotated continuously, and
+completed one revolution during the passage of each image across the
+eye-piece or magnifying lens.
+
+[Illustration: FIG. 3.--EDISON’S FIRST KINETOSCOPE.]
+
+The ribbon of pictures, printed as transparencies upon a strip of
+celluloid film, somewhat dense so as to bring out the detail, formed an
+endless band _E_, 40 feet in length. This was threaded over the various
+reels in the manner shown in the illustration, and finally passed over
+the first large wheel _C_, thence to the second large wheel _C_, and
+back once more on to the reels _B B¹_. Though 40 feet constituted
+the average length of film employed, longer ones could be used within
+certain limits, by increasing the number of reels on the frame. As
+the film passed from one of the large wheels _C_ to the other, it had
+to traverse the field of the magnifying lens, and the light, striking
+through the transparency, gave the person looking through the eye-piece
+a slightly magnified view of the picture.
+
+The cabinet stood on end, so that one had to bend over the instrument
+to peer through the small eye-piece. When the coin dropped into the
+slot, an electric motor was started, setting the film and shutter
+in motion. The film travelled from left to right, while the shutter
+rotated in the opposite direction, cutting up the band of pictures
+into separate images, so that only one was seen at a time. The band
+travelled continuously, and each image was momentarily rendered
+visible by the light flashing through the radial slot in the shutter,
+the effect being the same as if the electric incandescent lamp were
+extinguished and relighted intermittently, at very brief intervals.
+
+[Illustration: EDISON’S FIRST KINETOSCOPE.
+
+This machine, completed about 1890, was very crude. It was known as the
+“peep-hole,” because one peered into the cabinet through the eye-piece
+at side.]
+
+The shutter had to be revolved at sufficient speed to bring the radial
+slot near its edge centrally over an image; in other words, the shutter
+had to complete its revolution with sufficient speed to bring the
+opening over the picture at the moment the latter on the travelling
+celluloid film came into the centre of the field of the lens. When
+this operation was carried out with sufficient velocity, the images
+were seen in such rapid succession as to convey the idea of continuous
+motion, by virtue of the principle of visual persistence.
+
+One point must be borne in mind. The band of pictures travelled
+_continuously_. It did not, as in the machine of to-day, make a
+momentary pause as it came between the light and the lens. The movement
+to-day is intermittent, not continuous, though, curiously enough, all
+the early experimenters strove first towards the perfection of the
+latter arrangement. Continuous motion of the film has proved to be
+impossible, because the shutter must revolve at such a speed that
+the illumination is not sufficient to produce a bright impression upon
+the screen.
+
+In order to prevent the film slipping in any way while travelling over
+the smooth reels by friction, a toothed sprocket was introduced to
+ensure the film being fed regularly and steadily before the lens; and
+to secure a purchase upon the film the latter was perforated uniformly
+along the margin to engage with the sprocket teeth. Edison found, as
+a result of his experiments, that four perforations per picture, on
+either side of the film, gave the best results, though in his earliest
+investigations he confined himself to perforating only one edge in this
+manner.
+
+[Illustration: Edison Film made about 1891 for the kinetoscope.
+
+Edison Film made in 1911 for the cinematograph.
+
+TWENTY YEARS’ HISTORY OF MOVING PICTURES IN FILMS.
+
+The only difference between the two films is that the kinetoscope film
+had to be made very dense. The size of the picture, 1-inch wide by
+¾-inch deep, and perforation gauge, are identical.]
+
+Although many years have passed since the Kinetoscope first startled
+the public, the film has undergone but little change. The width
+remains the same; the dimensions of the picture are identical; and
+the perforation gauge has never been revised in regard to the number
+of holes per picture. The only salient difference between two Edison
+films, taken at intervals of twenty years, relates to the density of
+the picture, which nowadays, being projected upon a screen instead of
+being followed through a magnifying glass at short range, is thinner
+and lighter.
+
+Brilliant as the Kinetoscope was, it made no great impression upon the
+public. It became known as the “peep-hole machine,” and was regarded,
+like the telephone in its early days, as a scientific toy. Edison
+appears to have failed to grasp its possibilities and the important
+part it was destined to play in our complex life, for he did not patent
+it in Great Britain.
+
+_The Animatograph_
+
+Among those who saw the instrument at the World’s Fair were two Greek
+visitors from London. One was a greengrocer, the other a toy-maker.
+With shrewd business instinct they perceived here an opportunity to
+make a fortune in England. The Kinetoscope was known only by name in
+London, and the search for novelty in regard to new forms of amusement
+inevitably brings a rich reward to the ingenious exploiter. The two men
+acquired a machine and brought it home with them, their intention being
+to make duplicates and instal them in public places, to work upon the
+penny-in-the-slot principle.
+
+The two Greeks evidently were not animated by very lofty ideas of
+business integrity, for they did not trouble to ascertain if the
+Kinetoscope were patented in Great Britain.
+
+Upon arrival in London they sought for a man who could duplicate the
+machine they had brought with them; and they approached Mr. Robert
+W. Paul, an electrical engineer and scientific instrument maker,
+who at that time had his workshops in Hatton Garden. They brought
+the Kinetoscope to him. He had never seen it before, and was deeply
+interested in its operation. When, however, they suggested that he
+should produce copies of it to their order, he declined, for he felt
+sure that Edison never would have omitted to secure its protection in
+Great Britain. He pointed out to the Greeks that reproduction would
+probably be illegal, and that both he and they would expose themselves
+to litigation and heavy damages for infringing a patent.
+
+His clients expressed dissatisfaction at this decision and departed
+with the instrument. After they had gone, Paul was prompted to make a
+search at the Patent Office, and to his intense surprise he found that
+Edison had not protected his invention by taking out British patents.
+He was thus at liberty to build as many machines as he desired, and
+forthwith he set to work, not only for his Greek visitors, but also for
+his own market.
+
+The experience with the Kinetoscope in the United States was duplicated
+in Great Britain, as, indeed, it was in every other country where it
+was placed on exhibition. Several machines were set up at apparently
+suitable points, but the public failed to respond. Two factors
+contributed to this result. In the first place, the machines were
+weighty, and as the electricity for driving the motor and lighting the
+incandescent electric lamp was drawn from accumulators, the whole
+apparatus was somewhat bulky and awkward to move from place to place.
+Besides, it was difficult to secure the necessary films; sufficient
+variety could not be supplied for the machines. Only one company was
+engaged at the time in their production--the American Kinetoscope
+Company--and the only studio in operation was at Orange in New Jersey,
+the output of which was relatively small. Under these circumstances
+public curiosity could not be sustained.
+
+The difficulty with the film supply presently became still more
+acute. The American company learned that the Kinetoscope was being
+manufactured in England, and that American films were being used with
+English machines. As manufacture could not be prevented, owing to
+Great Britain being an open market, and as, consequently, Paul was
+perfectly justified in his action, the American company decided on a
+novel method of frustrating Mr. Paul’s efforts. Two agents, Maguire
+and Baucus, came to London and endeavoured to corner the English
+market. They secured the output of Kinetoscope films from America, and
+declined to sell them to anyone in Great Britain who did not possess an
+American-built machine. The result was that all the purchasers of the
+Paul Kinetoscopes found themselves unable to secure further films; even
+Paul himself could not obtain supplies.
+
+The Americans regarded the outlook with complete self-satisfaction.
+They believed that the English market was within their grasp. But they
+reckoned without their host. Paul was determined not to be vanquished
+so easily, especially as he had sold Kinetoscopes to customers in
+all parts of the world, and had a steady stream of buyers flocking
+to his workshops from points as remote as Tokio, South America, and
+New Zealand. Many of these early purchasers of the British-built
+Kinetoscopes have since become famous in the world of cinematography
+either as producers or manufacturers, notably Monsieur Charles Pathé,
+the founder of the celebrated French cinematograph film manufacturing
+establishment, who was one of Paul’s first customers.
+
+Now although Paul had manufactured several Kinetoscopes, he realised
+the disadvantages of the instrument. Only one person at a time could
+see the picture in animation. What was required in order to popularise
+moving pictures was to devise a way to enable several hundreds, or even
+thousands, of people to witness the same subject simultaneously.
+
+Paul’s first idea was to convert the ordinary Kinetoscope into a
+projecting apparatus. While he was quietly considering the feasibility
+of this scheme he was introduced to another inventor Mr. Birt Acres,
+at that time in the employment of a firm engaged in the manufacture of
+dry plates and bromide papers. Acres had conceived a mechanical means
+of printing on bromide paper from glass negatives a number of copies
+of a subject at a very rapid rate, and had committed to paper his
+crude suggestion. He submitted his drawing to Paul. The negative was
+to be set in a frame, beneath which the bromide paper travelled over
+rollers in a continuous length. The coil of paper was to move a certain
+distance--the length of the negative, in fact--and then to pause; when
+a flat pad, carried at the end of a lever beneath the paper, was to
+rise up and press the latter flatly and tightly against the negative.
+When the exposure had been made the clamping device, as it was called,
+fell back, and permitted the paper to travel another short distance to
+bring a fresh unexposed surface beneath the negative, when the same
+cycle of operations was repeated.
+
+[Illustration: PAUL’S CAMERA SHOWING MECHANISM FOR MOVING THE FILM
+INTERMITTENTLY PAST THE LENS. THE FILM WAS CARRIED IN DETACHABLE DARK
+BOXES.
+
+THE FIRST KINETOSCOPE FILM MADE IN ENGLAND.
+
+The manufacture of films was commenced in England by Robert Paul to
+thwart the American attempt to corner the British market.]
+
+When Acres brought his sketch to Paul, the latter was wrestling with
+the problem of photographing objects in motion. It was imperative
+to perfect a camera in order to defeat the machinations of the
+Americans bent upon the capture of the English film market. In this
+task, however, the most satisfactory means of securing intermittent
+motion was the stumbling block. He thought for a time that Acres’s
+ingenious method of printing bromide prints might offer a clue. Being a
+mechanical engineer, Paul recognised the inefficiency of Acres’s ideas
+as far as its application to cinematography was concerned, because
+the clamping device was not actuated by a positive drive. But the rough
+drawing which Acres had made of his bromide printing process set Paul
+thinking, and gave birth in the end to an entirely different project.
+
+[Illustration: THE “BLACK MARIA,” THE FIRST EDISON STUDIO FOR MAKING
+KINETOSCOPE FILMS.
+
+It was a rambling building of cheap construction mounted centrally upon
+a pivot. It revolved upon a circular track to face the sun.
+
+ _See page 105._
+]
+
+His efforts were accelerated by the tactics of Maguire and Baucus,
+and it was not long before he produced a camera working with an
+intermittent motion. With this camera some excellent films were
+obtained, and in the first instance these were employed with the
+Kinetoscope. The purchasers of the Paul machines consequently
+experienced no difficulty whatever in getting all the films they
+wanted, and the American product was ignored. It was not comparable
+with the English films in excellence or variety, and Maguire and Baucus
+retired from the scene completely discomfited. The attempt to obtain
+possession of the English market was a dismal failure owing to the
+unexpected enterprise of Robert Paul.
+
+Paul had already attempted to apply the principle governing the
+operation of the Kinetoscope to the projection of a picture upon the
+screen. He had contrived a special lantern through which the film was
+run continuously, the revolution of the shutter serving to cut out
+each picture on the film, and throw it individually upon the sheet,
+thereby bringing it into a stationary position for a minute fraction
+of a second. But the projecting efforts were somewhat disheartening.
+The illusory effect was produced; but the picture was so faint as to
+render the result of no commercial value. The conditions attending the
+watching of the pictures at a range of about six or eight inches, as
+in the Kinetoscope, and at one of ten times as many feet, when thrown
+upon a whitened wall or screen, were vastly different. The shutter had
+to revolve at such a rapid rate to prevent blurring that a sufficient
+volume of light could not be passed through each picture in the short
+interval the shutter was open--less than 1/1,000th of a second--so the
+resultant image was faint and ill-defined.
+
+It was evident that the film would have to be brought momentarily, by
+some means or other, into a fixed position behind the lens, so as
+to enable sufficient light to pass through to the screen, to yield
+a picture comparing with that of a slide projected from a magic
+lantern; and, further, that the picture would have to be moved during
+its eclipse by the shutter, in order to allow the next image to be
+brought into place. In other words, instead of the film moving forwards
+continuously, it would have to advance with a jerky or intermittent
+motion while the shutter was passing across the lens, and cutting off
+the light from the screen.
+
+Paul concentrated his energies upon this problem. It was by no means
+a simple undertaking, for there were no previous efforts in the same
+direction to assist him. The great point was how to bring successive
+pictures into position before the lens. He thought out a clamping
+device, which is known as the “gate,” and which he attached behind the
+lens. This gate was formed of two parts, one fixed and the other having
+a swinging or opening movement. The fixed part was pierced with an
+aperture which could be reduced by a sliding diaphragm. The aperture
+of the second part was of the same shape and dimensions as the picture
+on the film. The film was wound on a spool, and from this it passed
+through the gate and thence over a sprocket, the teeth of which engaged
+with the perforations in the edge of the celluloid band.
+
+The sprocket had to move intermittently, in such a way that a length
+of film corresponding to the depth of a picture was drawn through the
+gate at each movement, while the shutter momentarily cut off the light,
+otherwise there would have been a confusion of two consecutive pictures
+projected at the same time. How this movement was evolved is described
+in Chapter VII. It seems a simple task, but it proved exasperatingly
+difficult to secure accuracy, smoothness of motion, and the steadiness
+of the picture when thrown on the screen.
+
+About three o’clock one morning, in the early months of 1895, the
+quietness of Hatton Garden was disturbed by loud and prolonged
+shouts. The police rushed hurriedly to the building whence the cries
+proceeded, and found Paul and his colleagues in their workshop, giving
+vent to whole-hearted exuberance of triumph. They had just succeeded
+in throwing the first perfect animated pictures upon a screen. To
+compensate the police for their fruitless investigation, the film,
+which was 40 feet in length and produced a picture 7 feet square, was
+run through the special lantern for their edification. They regarded
+the strange spectacle as ample compensation, and had the satisfaction
+of being the first members of the public to see moving pictures thrown
+upon the screen.
+
+In February, 1896, the first public demonstration with this projection
+apparatus, described as the “Theatrograph,” was given at the Finsbury
+Technical College, and it caused a thrill of excitement and interest. A
+few days later, on February 28th, 1896, the apparatus was shown in the
+library of the Royal Institution. Again it stirred enthusiasm, and Mr.
+Robert Paul was congratulated warmly upon the success of his work by
+many of the leading British scientists of the day. This was the first
+demonstration of animated photography before a scientific institution
+in Great Britain. The films displayed were those which had been taken
+by the patient experimenter and his collaborators for the Kinetoscope,
+and included, among other things, a “Shoeblack at work in a London
+street,” and of “A Rough Sea at Dover.”
+
+The fact that the display was given before one of the foremost
+scientific bodies in the world stamped it as being a development of
+signal importance. The interest it created was universal. Among those
+who saw the demonstration was Lady Harris, the wife of the famous
+impresario, Sir Augustus Harris, who evinced the keenest enthusiasm in
+the apparatus, and who plied the experimenter with searching questions
+as to how the apparent animation was obtained.
+
+Next morning Paul received an urgent invitation from Sir Augustus
+Harris to join him at breakfast. The latter had heard from Lady Harris
+all about the remarkable exhibition at the Royal Institution, and, with
+a showman’s keen instinct, desired to glean further details without
+delay. He said that he had heard in Paris of a French invention
+similar to Paul’s. This took the English experimenter by surprise, for
+he had been labouring in absolute ignorance that other men were at work
+in the same field. However, the impresario was on business bent. He saw
+the possibilities of the Theatrograph as a form of amusement, and Paul
+was asked if he were willing to permit its being exploited at Olympia,
+which Harris had acquired.
+
+“Well, I don’t know,” rejoined the experimenter. “I have no idea of its
+value from the public point of view.” He thought that the indifference
+of the British public to the Kinetoscope did not augur well for the new
+development.
+
+“Now look here,” continued Sir Augustus Harris. “It won’t draw the
+public for more than a month. They soon get tired of these novelties.
+Are you prepared to come in on sharing terms, say, 50 per cent. of the
+receipts? Do you agree?”
+
+Paul was somewhat doubtful of the results, but he acquiesced, and
+the agreement was drawn up there and then. The sequel showed how
+ill-founded his apprehensions had been. The Theatrograph caught the
+popular fancy, and proved the most powerful amusement-magnet at
+Olympia. It was the first picture palace in the world, that is to
+say, the first establishment devoted exclusively to the projection of
+moving pictures as a complete entertainment. From it the whole modern
+development of cinematography may be said to have sprung.
+
+Indeed, it is difficult to realise the effect produced upon the world
+at large, through the skill and industry of Robert W. Paul. So far
+as Great Britain is concerned, he certainly fathered the enterprise
+of animated photography, as is evidenced by the fact that in British
+cinematographic circles he is known popularly as “Daddy Paul.” The
+lapse of time has not effected any essential change in the construction
+of the apparatus. The camera and projector as used to-day are
+fundamentally the same as those Paul first employed. Modifications
+have been made in details of the mechanism, but they are of slight
+importance. When the outcry against the danger of the cinematograph was
+raised in the early days of the industry, as a result of the fire at
+the Charity Bazaar in Paris, it was found that Paul had realised the
+danger and had endeavoured to guard against it, though his idea, being
+somewhat premature, was disregarded at the time.
+
+The success of the “Theatrograph” at Olympia caused a wholesale demand
+for the new marvel. People wanted to attach the device to existing
+magic lanterns, so that animated pictures could be produced upon the
+screen whenever desired. Paul still cherished such little faith in
+his invention that he sold the projector attachment for the small sum
+of £5 ($25), and it could be fixed to any lantern. He was inundated
+with orders from all parts of the world. Many enthusiasts acquired a
+complete projecting outfit, the price of which at that time was about
+£80 ($400). The capacity of the workshop in Hatton Garden proved quite
+inadequate to the demand. The men worked night and day turning out the
+projecting apparatus, and the sale aggregated several hundreds sterling
+per week during the years 1896 and 1897. Provincial showmen lost no
+time in acquiring the novelty, or arranged with the inventor to provide
+such an item in their programmes. Within a short time twenty machines
+were being operated under Paul’s personal direction in the provinces.
+
+London was by no means backward in following up the development.
+The first to introduce moving pictures to a metropolitan vaudeville
+audience was Mr. Moul, the energetic manager of the Alhambra Theatre.
+Like Sir Augustus Harris, however, he regarded it merely as a
+nine-days’ wonder, and did not think that the sensation it had created
+could be sustained for more than a week or so, which shows how even
+the most astute showman may sometimes err in gauging the public taste,
+and also parenthetically the professional estimation of the idea. An
+arrangement was made whereby Paul undertook to give a display with
+the “Animatograph”--this name had been substituted for the original
+“Theatrograph”--at the Alhambra Theatre, for a fortnight from March
+25th, 1896. According to the terms of the contract, if the display
+proved popular, it was to be prolonged upon the same terms until moving
+pictures fell from public favour. That engagement of fourteen days
+grew into one of four years! For over 1,000 nights Paul personally
+superintended his moving pictures at the Alhambra; and then retired
+only because of pressure of work in other directions. Of course,
+other music halls in the metropolis acquired the apparatus. Operators
+were scarce, and they could not be trained rapidly enough to meet the
+demand. As a rule, men manipulating the limelight in the theatres
+were found to be the most suitable for the purpose, and they readily
+accepted an opportunity to earn £4 ($20) per week for a few minutes’
+work every day. Times have changed since then, and to-day operators can
+be secured for about half that sum as weekly wage.
+
+At one time in the early days Paul had no less than eight theatres in
+London demanding his personal attendance, involving a nightly journey
+of twenty miles. It is significant of the tremendous enthusiasm that
+was aroused by the moving pictures that the managers of the various
+halls had to arrange their programmes to suit the convenience of the
+operator, so that there might be no interference with his carefully
+prepared time-table of his evening’s movements from one place to
+another.
+
+The exigencies of the manufacture of apparatus and films became at
+last of such a character that Paul found the strain of operating to be
+intolerable, so he retired from active work in the projecting world.
+His film manufacturing business attained considerable proportions,
+and this was continued until the latter part of 1908, when he
+abandoned all active participation in the industry he had initiated,
+to devote himself to his work on precision instruments for electrical
+measurements. His association with cinematography to-day is very
+slight, being confined mostly to collaboration with eminent physicists
+and scientists in illustrating scientific subjects by the aid of motion
+photography.
+
+_The Cinematograph._
+
+While Robert W. Paul was busy in his laboratory, problems identical
+with his own were engaging the attention of French experimenters,
+and notably of Messrs. Lumière and Sons, of Paris and Lyons, a firm
+famous in the manufacture of photographic apparatus, dry plates, and
+paper, whose efforts to solve the problem of natural colour photography
+are well known to the world. Their attention, like Paul’s, was
+first directed to this new field by the Kinetoscope, which made its
+appearance in France about 1893. Messrs. Lumière instantly realised its
+drawbacks and limitations, the greatest of which, from their point of
+view, was the fact that the long ribbon of instantaneous pictures was
+visible to one person only. Then again they considered the number of
+pictures shown per second--thirty--to be too high.
+
+They sought to devise an apparatus operating with an intermittent
+action, whereby a short length of film corresponding to the depth of a
+picture was jerked into position behind the lens while the light was
+eclipsed by the shutter, and afterwards to project the same pictures by
+a similar mechanism.
+
+With the Kinetoscope as a basis they set to work, and, by means of a
+reciprocating motion given to a hook frame under the movement of a
+triangular piece of mechanism, they succeeded in stopping and starting
+the film alternately with such a degree of nicety that the successive
+sections of film were brought into position before the lens without
+damaging the guiding perforating holes or films. This constituted the
+salient feature of the Lumière device and the fundamental principle of
+the patent.
+
+The Lumière camera was distinctly ingenious, simple and positive in its
+action, as well as being light and compact. The mechanism whereby the
+film was jerked down sufficiently after each exposure to bring another
+section of sensitised surface before the lens, may be likened to two
+projecting fingers which engaged with a hole on either side of the
+film. These two pins, or hooks, by the revolving action of a triangular
+eccentric, were brought forward towards the film and engaged with the
+perforations. When the shutter swung across the lens, thus cutting off
+the light, this pair of fingers dropped down, smartly jerking the film
+with them. The latter was then gripped and held firmly in position
+during the next exposure, when the two fingers withdrew from the
+perforations, rose sharply upwards, and clutched the film once more by
+the next pair of perforations.
+
+While the Lumière experimenters adopted the width of film used in
+the Kinetoscope and secured pictures of the same dimensions, yet
+they made an important deviation from Edison’s idea. Instead of
+making four perforations per picture on either side of the film at
+regular intervals, they made just one round hole on each side of the
+image. These perforations were placed 20 millimetres--approximately
+4/5 inch--apart. The reason for this deviation from the Edison method
+was that they had refrained from the use of toothed sprockets such as
+Edison and Paul had adopted, and which had to mesh with the film so
+as to feed it regularly and steadily forward before the lens in both
+the camera and the projector. From the mechanical point of view theirs
+was a preferable method, inasmuch as the comparative closeness of the
+perforations in the Edison gauge somewhat weakens the strength of the
+film, and can easily result in tearing.
+
+There is every reason to believe that Messrs. Lumière were in
+ignorance of the efforts of Paul, in just the same way as the British
+investigator was oblivious of the work of the Frenchmen. In France the
+Kinetoscope failed, as it did in England and the United States. From
+the French point of view a unique opportunity existed to establish a
+new industry; accordingly they manufactured several films upon their
+principle.
+
+The original bands of pictures were 17 metres--nearly 56 feet--in
+length. Unfortunately for the Lumière firm, the Kinetoscope had, thanks
+to Paul, been purchased more generally than was at first thought
+possible; while Paul had marketed in England a considerable number
+of films carrying the Edison standard perforation. The result was
+that they could not dispose of their films to people who were already
+possessed of the moving picture machine, and who demanded films of
+the Edison gauge. Messrs. Lumière ultimately abandoned the single
+perforation on either side of the picture in favour of that which had
+come into vogue through the Kinetoscope and the work of Paul.
+
+[Illustration: FIG. 4.--THE EARLY LUMIÈRE PROJECTING SYSTEM SHOWING
+WATER CONDENSER B.]
+
+The early Lumière projector was very interesting. Realising the high
+inflammability of the celluloid film, and the intense heat produced
+by the focussing of the electric arc light through the condenser upon
+the film, the experimenters sought to remove the danger of fire by
+counteracting the heat production of the rays of light. A spherical
+bottle, filled with water, was placed between the electric arc and
+the lens to act as condenser, Fig. 4. The bottle _B_ was encased in a
+metal cylinder _E_, fixed to the front of the lantern _A_ by four rods,
+each terminating in a screw _V_. The metal cylinder _E_ was continued
+forwards in the form of a tube _F_, the end of which was fitted with
+a hinged shutter _G_ carrying a small piece of ground glass _H_. When
+the film was set in motion this hinged shutter was lifted and laid back
+upon the top of the tube to which it was attached.
+
+The spherical bottle, which was filled with distilled water to which
+a few drops of acetic acid were added, acted in exactly the same way
+as the glass condenser of to-day. But it possessed this advantage. The
+luminous rays were concentrated, and there was no loss of luminous
+light; only the heat rays were absorbed almost entirely by the water.
+Another beneficial result was that the light thrown through the
+picture, and thence on to the screen, was whiter, because the condenser
+glass is greenish, and imparts that tint to the light passing through
+it.
+
+In the course of about 30 or 40 minutes the water under the action of
+the heat rays commenced to boil, but no inconvenience resulted. A piece
+of coke _D_, attached to a short length of wire _C_, was suspended
+in the decanter and placed just below the surface of the water, thus
+causing it to boil with complete evenness; there was no spurting of the
+contents, and no bubbling to interfere with the light. If the sphere
+of water were removed or broken during the operation of the lantern,
+as the condensation of the light rays immediately ceased there was no
+danger of the film being set alight. It may be pointed out, in passing,
+that Edison introduced a bulb of alum water between the electric lamp
+and the film as a heat absorbent in his Kinetoscope.
+
+Although highly efficient, this expedient possessed certain drawbacks,
+and consequently in the course of time it was superseded by the
+glass condenser. Mechanical ingenuity succeeded in devising a means
+of minimising the danger of combustion or provided some method of
+smothering it in its incipient stage.
+
+Although the Lumière invention proved a great success in France, and
+was the first commercial apparatus produced in that country, it did
+not get a foothold in Great Britain, owing to the contemporaneous work
+of Paul. The Lumière apparatus was a well-built mechanism, typical of
+French workmanship, but if anything rather too light for general wear
+and tear. It was introduced to the English public by Professor Treuwé,
+the famous French conjurer, at the Regent Street Polytechnic in 1896,
+but failed to provoke a sensation, because Paul’s “Theatrograph” had
+already been seen at Olympia and held first place in public esteem. On
+the other hand, it created widespread interest in the United States,
+where, at the time of its arrival, projection upon the screen was
+unknown. Paul’s machine had not penetrated to North America, because
+the British market demanded his whole attention. It is a curious irony
+of fate that, although animated photography was first made possible
+in America by the ingenuity of an American inventor, and the only
+films then available were the product of the Edison “Black Maria” at
+Orange, yet it was a French apparatus which laid the foundations of the
+cinematograph industry in the United States. The product of Messrs.
+Lumière was introduced mainly through the enterprise of one man, Mr.
+Richard G. Hollaman, the energetic president of the Eden Musée Company.
+
+Mr. Hollaman saw the Kinetoscope at the Chicago World’s Fair in
+the summer of 1893, but as it was crude and did not arouse great
+enthusiasm, he took no especial interest in it. In the following year,
+however, he acquired an improved Kinetoscope from Berlin, which had
+been made by the celebrated electrical engineering firm, Siemens and
+Halske. This machine was circular in shape, and showed the pictures
+in movement in much the same way as Edison’s contrivance. Two of the
+machines were installed in the Eden Musée and remained there for six
+months. At the end of that time they were abandoned for the reason that
+no new films could be obtained.
+
+In the spring of 1896 an exhibition was given in a shop in Park Row,
+New York City. In this instance the pictures were thrown upon the
+screen. The machine had been devised and built by an experimenter named
+Latham, but it was exceedingly faulty. The pictures shown depicted two
+prize fighters, but the images vibrated so violently on the screen,
+and were so scratched and imperfect, that the eyes of spectators were
+subjected to a fearful strain, and the apparatus was commercially
+valueless. Mr. Hollaman sought out the inventor with a view to the
+perfection of the device for his theatre, but learned that lack of
+capital prevented Latham from perfecting his apparatus.
+
+A little later the president of the Eden Musée received a communication
+from a firm named Raff and Gammon. They offered him the State rights
+for a moving picture machine which had been designed by Edison, and of
+which they were empowered to dispose on his behalf. They invited Mr.
+Hollaman to a demonstration at Koster and Bial’s theatre, where they
+threw a picture upon the screen which measured about 10 feet in width
+by 6 feet in depth. Mr. Hollaman has told me that he recalled very
+vividly two of the films he saw there. One depicted “Mammy washing her
+child,” while the other was “The Gardener playing the Hose.” Both these
+films were made by Lumière and Sons at Lyons.
+
+In the autumn of 1896 the Lumière apparatus appeared in the United
+States. It was introduced by Mr. Hurd, acting as agent for the
+French manufacturers, and this was the first practical cinematograph
+apparatus to be seen in North America. A demonstration was given, and
+Mr. Hollaman, realising the tremendous strides it represented in the
+projection of moving pictures, made a contract for its installation
+at the Eden Musée. The picture thrown on the screen by this projector
+measured 22 by 16 feet. From the day the “Cinematographe” was first
+shown to the public in the Eden Musée in 1896, it has constituted a
+permanent feature of the place. In fact, Mr. Hollaman has been the
+pioneer of all developments in the field of cinematography in North
+America. The French machines had been in use for some time, when
+Lumière’s agent, who had let them out on lease, suddenly called in all
+the projectors and retired from active operations in the United States.
+Another machine had to be secured for the Eden Musée, and for three
+months a Joli instrument was used, followed by an American apparatus
+operated by its maker, Eberhard Schneider.
+
+Another change was made in September, 1897, when Mr. Charles Urban,
+now identified with Kinemacolor, but at that time acting as salesman
+for Maguire and Baucus, who had endeavoured in vain to oust Paul in
+London and who had retired from the scene after meeting with failure,
+approached the Eden Musée with a new projector, which was installed.
+Some time later Urban introduced a new machine which he had made
+himself, and as it possessed several improvements it was adopted. This
+was the first “Bioscope,” as it was called, that was ever shown to the
+public.
+
+Shortly afterwards Maguire and Baucus, in company with Urban, left
+the United States for London, to establish an English cinematograph
+firm under the name of the Warwick Trading Company. In 1900 Mr.
+Hollaman secured the services of Frank Cannock, an expert operator and
+mechanician, for his cinematograph department, which had now become of
+paramount importance; and since that date the latter has manufactured
+all the machines required by the Eden Musée.
+
+I have given a brief outline of the most interesting chapter in the
+story of cinematography, the epoch in which experimenters in different
+countries were struggling to perfect the same idea, independently of
+one another, and by different methods. Several other investigators
+were engaged in the quest, but their work was not of such importance
+as that of Edison, Paul, or Lumière. The first evolved the crude idea,
+and the latter two, in their respective countries, produced successful
+apparatuses entirely different from one another. The work of Robert
+Paul should command the greatest appreciation; for the Bioscope, which
+amuses the multitude from morning to night every day between the two
+Poles, is fundamentally the same as that which he introduced to the
+theatrical world for the first time on March 25th, 1896.

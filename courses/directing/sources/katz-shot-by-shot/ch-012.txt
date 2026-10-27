@@ -1,0 +1,1950 @@
+Part IV
+The Moving Camera
+
+Director Ida Lupino on set of Outrage (1950)
+
+17 The Pan
+The moving camera is uniquely cinematic and the different types of moves
+are deﬁned by the speciﬁc mechanical supports that make them possible:
+the tripod, camera dollies, jib arms, and cranes. Over the past three decades,
+this gear has pushed mechanical design and manufacture to make amazing
+camera acrobatics possible. Computer control was added in the 80s,
+accelerating the use as an outgrowth of visual-effects technology, especially
+Industrial Light and Magic. Computer control means a complex camera
+move can be programmed into software and repeated by specialized camera
+support gear (smart dollies) with each move identical to the previous ones.
+This was essential for multiple camera passes for visual-effects creation. In
+modern dollies, remote operation has become the standard so that camera
+operators no longer need to be stationed on a dolly moving with the camera.
+Nowadays, the dolly and the camera head can be controlled remotely with a
+joystick or traditional geared-head hand wheels while the crew watches the
+camera view on a computer monitor, making highly complex moves
+possible. For example, one of the oldest manufacturers, Chapman/Leonard
+Studio Equipment, created the Hydrascope, a completely waterproof
+telescoping remote crane that can travel from a height of 38 feet into a pool
+of water. Many other suppliers provide camera cars, camera rigs for cars,
+and “helicopter” and various other versions of Steadicam (the original
+operator-worn camera stabilizer). All the above gear requires permits for
+public spaces and carries safety, liability, and logistical considerations.
+Camera aesthetics have changed due to virtual cameras in computer
+animation programs and video games that have absolute freedom to go
+anywhere at any speed. This has led to a lot of pointless camera movement,
+something Steadicam initiated decades before on a far smaller scale. This
+aesthetic choice is based on the current trend promoting more cuts and
+motion because it’s attention grabbing. The trend has grown to the point
+that the mainstream audiences seem to have less patience for slower-paced
+techniques. There is no hard evidence for this; regardless, camera
+technology constantly strives to make a real-world camera as free as a
+virtual camera in the computer. This is not encouraging aesthetic restraint.
+
+The latest development in camera choreography has put huge sweeping
+camera moves within the reach of even the smallest low-budget ﬁlm. Of
+course, I’m referring to drones and multi-motor copters. With four to eight
+motors, there are drones that can carry large camera packages and gimbals.
+Drones under $500 have 2k and 4k cameras, stabilizers, and are
+programmable. While current drones are not quiet enough for work close to
+actors when dialogue is recorded, they are in the early stages of
+development and are having a major impact on low-budget aerial and cranestyle camera moves in the space of a few years. Quieter drones are certainly
+going to be developed soon. GoPro cameras and their competitors are part
+of the same trend that puts exotic or at least very portable camera gear in
+the hands of low-budget ﬁlmmakers. What has happened is that between
+smartphone cameras, drones, and sports cameras, the world is under a
+microscope like never before.
+In the next four chapters, we’ll be looking at techniques for using the
+moving camera. Generally, a moving shot is more difﬁcult and timeconsuming to execute than a static shot, but it also offers graphic and
+dramatic opportunities unique to ﬁlm. Camera movement replaces a series
+of edited shots used to follow a subject, to make connections between ideas,
+to create graphic and rhythmic variation, or to simulate the movement of a
+subject in a subjective sequence.
+THE PAN
+Of the three types of camera movement — panning, tracking, and craning
+— only panning is accomplished without moving the camera from one
+position to another. The different types of camera movement are frequently
+combined in a single shot, and a crane or dolly shot usually requires some
+panning to hold the subject in the frame. In a sequence shot, a tracking shot
+may combine a crane move with lateral tracking movement while panning
+and zooming to frame choreographed action.
+The pan is the simplest of moving shots, comparatively easy to execute with
+modest equipment. Like all moving shots, it provides multiple views within
+a single shot as an alternative to editing.
+Panning and Tilting
+
+The pan shot is extremely versatile and is one of the easiest moves to
+execute, requiring none of the preparation or heavy equipment that tracking
+and craning do. In the horizontal panoramic shot, the camera rotates on its
+vertical axis as much as 360 degrees, taking in the entire visible horizon.
+The camera also can be angled up or down in a vertical pan or tilt. What
+distinguishes the pan from other types of camera movement is that the
+camera rotates on an axis in one location rather than actually being
+displaced. Consequently, the pan shot does not offer the dramatic shift in
+perspective that tracking, crane, and handheld shots do. In this respect, it is
+similar to the static shot. At the same time, the pan can cover space faster
+than tracking and crane shots in which the camera must be physically
+moved over the ground, usually with an operator and his or her assistant.
+The pan can easily frame one goalpost on a football ﬁeld and move to the
+opposite goalpost in a second. Even a fast-moving tracking shot would take
+10 seconds or more to cover the same distance.
+A pan (horizontal rotation) or a tilt (vertical rotation) can be used to:
+• Include space greater than can be viewed through a ﬁxed frame.
+• Follow action as it moves.
+• Connect two or more points of interest graphically.
+• Connect or imply a logical connection between two or more subjects.
+Panoramic Shot
+The most familiar use of the pan is a slow move over a landscape — a
+staple of home movies and outdoor pictures where wide-open spaces are
+featured. The scenic pan is usually used as an establishing shot. Typical
+uses are the vertical tilt up or down a skyscraper to convey a feeling of
+height and the horizontal pan to convey the immensity of a location like a
+desert or ocean that spreads well beyond the borders of a ﬁxed frame.
+A 180-degree pan of this type was used in a well-known shot by Howard
+Hawks in the Western Red River. Early on the morning of the ﬁrst day of
+the massive cattle drive that serves as the center of the ﬁlm, Hawks wanted
+to illustrate the immensity of the undertaking and the huge herd of cattle.
+He placed the camera in the middle of the herd near several of the principal
+characters who were seated on horses. A slow pan begins, taking in the
+nervous anticipation of the cowboys and the thousands of cattle that extend
+
+as far as the eye can see in all directions. The camera rotates in a semicircle
+until it reaches the dominant ﬁgure of John Wayne 30 seconds later. As the
+leader of the group of men who have staked their ranches on the success of
+the cattle drive, Wayne has the responsibility for their families and their
+futures. The pan allows us to share the moment when he considers the
+enormity of what he is about to do. The shot tells us that men are small and
+the undertaking is great. In the context of the Western, this relationship also
+deﬁnes the men’s courage.
+Panning to Reframe
+The camera operator may use the pan to reframe a moving subject so it
+remains in a desired portion of the frame. Put simply, actors move. In
+reasonably close shots such as a medium shot, you will compose the
+actor(s) in the shot in a pleasing way. But the actor has his work to do to
+and he might create a compositional imbalance or move slightly out of
+frame as he performs. The camera operator will subtly reframe to follow the
+actor/action. The choice of reframing or locking the camera in position and
+forcing the actors to limit their movement depends on the dramatic intent of
+the scene. This use of the pan is intended to be invisible or unobtrusive.
+Panning to Cover Action
+When the ﬁeld of view is great and the camera movement necessary to
+follow the action is extensive, the pan can cover wide spaces more quickly
+than any other type of camera movement. The pan is athletic and snappy,
+while many crane and dolly moves are precise and deliberate.
+Camera placement is the key to panning with the action. As with any
+staging consideration, the type of panning required depends on whether or
+not the camera is in or out of the dramatic circle of action. Accentuating the
+sense of motion and space usually is done by placing the camera within the
+action. If the subject is moving, the camera will be forced to pan more
+extensively than if the camera is viewing the action from a distance.
+Panning and Lenses
+The focal length of the lens can magnify or reduce the sense of motion of a
+pan move. Long lenses like a telephoto increase the sense of motion during
+a pan, while a very wide lens decreases the sense of motion.
+
+Imagine you are standing in a ﬁeld with a camera in your hand pointing
+forward. If you now turn around to face the opposite direction always
+pointing the camera directly ahead, you’ve just made a 180-degree pan. If
+you used a wide-angle lens, the appearance of the background movement
+will be slight. That’s because the wide-angle lens includes a great deal of
+background as much as 90 degrees. Therefore, the camera covers a distance
+twice of the width of what the camera sees when held still (180 divided by
+90). If the same move is made with a telephoto lens the coverage of the lens
+or ﬁeld of view might only be 10 degrees. Now when you pan the
+appearance of motion is much greater. That’s because it now takes 18 ﬁelds
+of view (180 divided by 10) to cover the same rotational distance instead of
+just two with the wide-angle lens.
+Director Akira Kurosawa frequently uses the telephoto pan for action
+employing foreground, middleground, and background elements to achieve
+different levels of motion and depth. The small depth of ﬁeld apparent with
+the telephoto lens is used to isolate the subject as well as increase the sense
+of motion when the camera moves. In his samurai ﬁlms, Kurosawa often
+framed running ﬁgures or galloping horses through woods using a telephoto
+lens, allowing the background to become a blur of light and dark shapes,
+while foreground elements like trees interrupt the frame rhythmically for a
+stroboscopic effect.
+
+Figure 17.1
+The use of the telephoto lens for this type of shot requires adroit camera
+operation; high-speed panning can be difﬁcult, particularly in low-light
+conditions. Even so, extreme telephoto lenses can be used to great effect in
+demanding situations. While covering the fast whitewater rafting action in
+John Boorman’s Deliverance, cinematographer Vilmos Zsigmond used a
+1,000 mm lens to follow the erratic and unpredictable path of the main
+characters on the river. The 1,000 mm lens is very nearly the longest camera
+optic available, requiring extremely precise framing and focusing. Although
+Zsigmond was advised that he might have trouble following the action with
+this lens, he reported that the sequence was fairly easy to shoot.
+Panning to Lead the Eye
+The pan is highly manipulative and easily leads the eye from one point to
+another. A passing car or the motion of leaves blowing along the ground
+can motivate a pan to an area of narrative signiﬁcance. The car or leaves
+may have no speciﬁc relationship to the action of the story, but the pan is
+such a compelling move that we usually do not question the effect,
+accepting it as a pictorial device. An attention-leading device of this type is
+shown in Figure 17.1 on page 290.
+
+A slightly more complex version of this technique is the cross-pan, in which
+a moving subject leads to another moving subject. This requires that the two
+subjects cross paths. Cross-pans of this type have a choreographic quality:
+Attention skips from subject to subject motivated largely by convention;
+each change in subject drives the audience expectation that the new subject
+is important. In fact, this shot is often employed as a POV shot of a person
+searching for something. Movement is not restricted to one direction only
+(as in the examples of the car and the leaves). In fact, the direction of the
+pan can change completely, going ﬁrst in one direction and then in the
+opposite direction without pause. If the action is sustained — for example, a
+dance in a ballroom — cross-pans can work like a perpetual motion,
+moving from couple to couple indeﬁnitely. Figure 17.2 illustrates the basic
+crossing pattern.
+Figure 17.2
+Panning to Emphasize Depth
+Though the pan generally moves our attention horizontally or vertically
+across the frame it can also be used to lead our attention to near and far
+elements staged in depth. Figure 17.3 illustrates a pan shot that begins with
+a boy in the background running down a street towards the camera. The
+
+camera pans with the runner as he turns a comer and moves left to right
+until he goes behind the woman seated in the car in the extreme foreground.
+Figure 17.3: Depth shifts from background to foreground.
+Panning for Logical Connection
+In addition to its use in following action, the pan also can serve as a device
+to connect elements in the frame, automatically suggesting a logical
+relationship. When the pan moves from one point of interest to another it
+poses the question: “What is the connection between these two subjects?”
+Depending on the narrative strategy, the connection may be immediately
+clear or the ﬁlmmaker might create narrative motion by withholding the
+answer until later. Either way, the pan juxtaposes elements in a way that
+clearly makes the connection worthy of our interest.
+Summary
+The pan is an extremely versatile tool that seems to have fallen out of favor.
+Many contemporary ﬁlmmakers prefer the cut as a way to connect space
+and story elements so that they will have greater freedom when editing. As
+a result, their use of space is restricted and may have a choppy look.
+The next time you are at a location where there is activity — the grocery
+store, the parking lot of a shopping center, or on line at a movie theater —
+
+imagine a scene including many of the images that surround you. Now
+imagine connecting these images by means of a continuous pan. You will
+probably be surprised at how the action around you overlaps and intersects.
+Inevitably, certain images will connect logically, but in some situations, you
+will use the pan to connect images based solely on their graphic
+compatibility and later realize that this has suggested logical connections
+that you hadn’t thought of before.
+NARRATIVE EXAMPLES
+We now return to the narrative problem we last saw in Chapter 8. This was
+the sequence in which a boy is waking up in his bedroom while his sister
+gets ready for school, his mother ﬁxes breakfast, and his father leaves the
+house for work. In the version storyboarded at the end of Chapter 8 only
+static shots were used. In this new version, the ﬁlmmaker decides to try a
+different storytelling style by using extensive pan shots.
+Version One
+The ﬁlmmaker utilizes two shorthand storytelling devices, which he will
+intercut. The ﬁlm will open on a CU of the refrigerator and the many notes,
+letters, and cards attached to it with magnets. The camera will pan over
+these notes capturing fragments of messages and images. This will be
+intercut with a similar panning style framing speciﬁc articles on the ﬂoor of
+the boy’s bedroom shown in Figure 17.4.
+The storyboard begins in frame 1 with an overview of the refrigerator door
+with halftone lines describing the path of the camera. In the actual pan shot,
+the camera would only partially frame the messages:
+1. A reminder of an appointment at the dentist.
+2. A note from school to the boy’s parents: “Dear Mr. and Mrs.
+Dreyfuss, Mark has been late to school six times in the last month.
+He’s failed to hand in several assignments, and is already quite far
+behind in math. He explained his lateness was due to a nervous
+disorder. I asked him to bring a note from the doctor….”
+3. A postcard from Mr. Dreyfuss from a hotel in Chicago.
+
+4. A second postcard from Mr. Dreyfuss still on a business trip.
+5. A third postcard from Mr. Dreyfuss. We learn that he travels a great
+deal.
+6. A one-panel cartoon torn from a page of Good Housekeeping.
+7. A second note from school inquiring about the ﬁrst note and
+requesting a meeting with Mr. and Mrs. Dreyfuss.
+Under the refrigerator shot in frame 1, we hear Mrs. Dreyfuss in the kitchen
+asking her daughter if Mark is up yet. We learn from this simple pan that
+Mark has trouble in school and that his father is often away on business.
+Figure 17.4: The camera opens in ECU on a refrigerator magnet — one of
+those “Have a nice day” faces. The camera pulls back until it covers a ﬁeld
+of about the size of a postcard. The camera begins to pan over all the notes
+and cards attached to the refrigerator door. All the while, we hear kitchen
+sounds, and Mrs. Dreyfuss and her teenaged daughter speaking.
+
+Version Two
+The ﬁlmmaker thinks that this ﬁrst opening has merit as a visual idea, but
+unless this strategy is used under the titles at the opening of the movie it is
+too stylized for the opening, which is meant to carry a great deal of
+exposition.
+A new idea is planned in which the extended pan over “storytelling” objects
+is moved to the boy’s bedroom. In this setup, the camera is placed in a
+central location in the action so that it will cover nearly 180 degrees of
+space.
+The aerial diagram illustrates the position of the separate elements in the
+storyboard. The camera is at position A. It begins pointing down at the
+triangle of the paper airplane on the ﬂoor, moves up the boy’s arm to the
+posters behind him on the wall, moves across the wall left to right until it
+reaches the door, and then pans back to the boy in bed. The speciﬁc action
+is described in the following storyboards.
+
+1. The movie opens on a big red F 57. The camera pulls back to reveal that
+this is written on the wing of a paper airplane to look like the markings on a
+ﬁghter plane.
+2. As the camera backs out we realize that the paper airplane is actually the
+paper from a spelling test and that the F 57 is not the boy’s idea of
+aeronautic identiﬁcation but the failing grade given by his teacher. We see
+the boy’s name.
+
+3. The camera pans over a nearby sandwich on a plate, an overturned
+drinking glass, and the boy’s hand hanging down alongside the bed.
+4. The camera pans up the boy’s arm but does not frame the boy’s face,
+continuing up and over the bed to several posters on the wall. In each
+poster, the boy has placed a photo of himself over the original photograph.
+This way he appears with the rock bands U2 and Pink Floyd and on the
+cover of Time.
+
+5. The camera continues to pan to the right over more posters, including one
+of the ﬁrst man on the moon, but the face of Neil Armstrong has been
+covered by a photo of Mark Dreyfuss,
+6. The camera continues to the bedroom door, where Mark has placed
+another of his photos on the body of a bodybuilder.
+
+7. The door opens and Mark’s sister enters carrying a pair of blue jeans. She
+tosses these…
+… and the camera follows the blue jeans through the air …
+… until they land on Mark in bed. This is the ﬁrst time we actually see him,
+but we recognize him from his photographs.
+In the last few pages the pan was categorized in a number of ways:
+• Panoramic Shot
+• Panning to Reframe
+• Panning to Cover Action
+• Panning to Lead the Eye
+• Panning to Emphasize Depth
+• Panning for Logical Connection
+
+In general the use of the pan is the closest thing to how we look from point
+of interest to point of interest in daily experience. Because cinematography
+and editing only approximate vision and perception, graphic or artistic
+strategies are often interwoven with more deliberate imitation of how we
+see things. This was seen in the examples in the preceding pages. All
+movies are an approximation of human perception.
+Neuroscience has begun to explain how the hardware of the eye works with
+the software of the brain to produce a coherent understanding perception.
+As of today, a comprehensive understanding of vision has not emerged. For
+most of the 20th century the popular explanation of motion pictures was the
+persistence of vision which has lived on in books on ﬁlmmaking, but not at
+all in the ﬁelds of psychology and neuroscience. Persistence of vision has
+not been an accurate description of the process of experiencing a series of
+still images as ﬂuid motion for more than 70 years.
+The pan is the closest thing in shot repertoire to a head turn, but certainly
+not the underlying perceptual process of the brain. First, the eye only sees a
+very small amount of reality in focus. If you look at any object right now
+the eye only sees a very small portion of your visual ﬁeld in focus. The
+fully focused world you are looking at (including this page) is composed of
+lots of these spotlighted views that are experienced about 3–5 times a
+second. These are called saccades and refer to the quick movement of the
+eye between moments of ﬁxation. There are also smooth pursuit eye
+movements that may be supplemented by saccadic action in the human
+visual system. A series of saccades with only a small portion of focused
+imagery are assembled in real time to produce a much larger focused area.
+Saccadic suppression of image displacement is the reason we don’t see
+individual images while the brain is assembling the image we think we’re
+seeing when we see the world around us. It’s also the reason that
+unconscious blinking is also suppressed. The misinformation regarding how
+the brain processes these scattered and disconnected fragments of imagery
+is partially the result of the human eye being compared to a camera, the
+popular metaphor in ﬁlm books and lore. A fascinating subject, crucial to
+our understanding of human consciousness, perception remains a mystery
+and the focus of intense study in the sciences.
+
+J. L. Fisher Crane Image courtesy of ThatCat Rentals, NYC.
+
+18 The Crane Shot
+The crane shot is usually thought of as a strictly vertical movement
+normally called a boom shot, but actually, the crane is capable of moves in
+many directions, though the distinguishing factor is its vertical capability.
+Used in this way the crane shot is perhaps the least naturalistic move in the
+moving camera repertoire. It’s not analogous to any perception in normal
+experience, since we rarely see the world from the privileged position that a
+towering crane move provides.
+Crane shots are inherently majestic and hold our interest regardless of the
+subject because of the sheer physical pleasure of the move: The power of
+the exotic viewing angle and the seductive change of perspective draw us
+in. Used at the beginning of a sequence the crane shot emphasizes the sense
+of presence and establishes the geography of an environment at the same
+time. The crane move that enters a location is a “once upon a time” shot
+directing our attention from the general to the speciﬁc. Where the
+establishing pan shot moves across a wide expanse of space surveying a
+ﬁctional world, the crane permits us to “feel” the dimensions of that world
+by penetrating space, further endorsing its reality through the illusion of
+depth.
+The crane shot has many other uses besides the epic grandeur of the
+establishing shot. In Alfred Hitchcock’s Notorious, the crane is used at a
+party to descend two stories from the ceiling of an enormous hall to a set of
+keys in Ingrid Bergman’s hand. Here the purpose is to underscore the
+psychological tension that the keys represent in the story.
+Another move of this type used to dramatize a character’s anguish is the
+opening shot of Bernardo Bertolucci’s Last Tango in Paris. Marlon Brando
+is walking on a sidewalk under an elevated train after the suicide of his
+wife. The camera reveals his torment by making a sudden rapid descent to a
+close-up of his upturned face as he screams at the sky.
+Besides being used to move the camera within a shot, the crane can serve as
+a mobile tripod. The crane can rapidly deploy the camera within a scene for
+static shots that would normally require scaffolding or a tripod. During the
+
+studio production era in Hollywood, studio sets were the ideal location for a
+crane because even in small interiors, studio walls and ceilings were “wild,”
+meaning that they could be easily removed to access light or clear the
+viewpoint of the camera. The bulky Mitchell cameras of Hollywood’s
+golden era could be rapidly repositioned within a set, and the director was
+able to make fairly rapid adjustments to the position of the camera. Today,
+when most ﬁlms are shot on real locations, this freedom of movement with
+a big crane is only possible outdoors, but the smart ﬁlmmaker who
+understands the varied uses of the crane will make use of it for more than
+just a few impressive introductory shots.
+The Range of Motion
+The crane’s range of motion depends on the type of crane, but generally, the
+camera can move up and down in an arc around its base. Included as a
+member of the crane family are jib arms and booms, which are added as
+accessories for many dollies. Because the dolly can move laterally during a
+shot, the range of motion is greatly increased by adding the vertical
+capability of the boom. Figure 18.1 shows the full range of motion for a
+remote-control type crane operating from a ﬁxed point. When the terrain
+permits, a crane can also drop below the base, very nearly doubling its
+vertical range.
+When the base is in motion the crane can continue to move vertically,
+thereby greatly increasing the area covered. A crane or boom arm can be
+attached to a camera car or any other stable moving platform to allow for
+vertical movement alongside a moving subject. Figure 18.2 shows a remote
+control crane moving on track while simultaneously making a vertical
+move.
+
+Figure 18.1: Range of motion.
+Figure 18.2: Simultaneous vertical and horizontal movement.
+
+The crane can also be an inquisitive observer. Not only can it rise to get the
+overview of a scene, but it can go from the overview to the details of a
+scene and then return to the wide shot. A crane can move over an obstacle
+like a fence or a wall. Figure 18.3 shows the kind of gymnastic movement
+that can be accomplished with newer remote-control cranes.
+Figure 18.3: The inquisitive observer.
+Point of View
+A crane move can reinforce the subjective feel of a shot by imitating the
+general path of a subject, as shown in Figure 18.4. As the subject goes up a
+hill to look over the crest, the camera follows from behind. Since
+information is revealed to us as it is revealed to the subject, we see things
+from his general viewpoint.
+
+Figure 18.4: Point of view.
+Following a subject’s line of sight doesn’t have to cover a great distance. A
+boom arm on a dolly, which is still essentially a crane shot, can imitate a
+person dropping to a crouching position. Figure 18.5 shows a fairly simple
+move that would encourage the viewer to interpret the shot as the view seen
+by the man looking under the garage door. The camera would frame the
+crouching subject, using him as a framing device, or continue to move past
+him toward the object of interest.
+Like all long moving shots, the crane shot can be used as a sequence shot
+moving from one point of interest to another. This can be done to make
+comparisons. For example, for a ﬁlm set in South Africa the crane can
+move from a close-up of a cross atop a beautiful church steeple and then
+slowly descend past this symbol of Christianity to the all-white
+congregation of Afrikaners below as they turn a black couple away from the
+doors of the church. This is only the most obvious type of irony, but it
+illustrates the cinematic relationship between the conceptual use of imagery
+and technique. Naturally, more subtle comparisons can be made, permitting
+the viewer greater freedom to interpret, but the point is that the crane shot is
+more than a tool for pictorial invention.
+
+Figure 18.5: Point of view.
+Learning the Moves
+Studying movies and breaking down sequences is always a good way to
+learn how to use the moving camera, but that’s not the same as doing it
+yourself. To make and test your own moves, we are back to computer
+previs, unless you own a crane. In FrameForge and other software, you can
+choose an actual crane such as the Chapman or Jimmy Jibs. While the
+software has a learning curve, this is the fastest and most accurate way to
+learn how to move the camera. It’s also the best way to show a production
+designer or cinematographer what you are looking for. If the software is
+being used in the art department, then the design of camera moves can be
+collaborative. Once your location has been created in 3D in FrameForge or
+iClone you can turn out a few versions of the camera move and actor
+choreography in an hour.
+
+FrameForge Dolly
+
+MoVI & Segway Image courtesy of Upper Cut Productions, UK
+
+19 The Tracking Shot
+The tracking shot is used to follow a subject, connect story points, and
+explore space. This can be a simple shot framing one subject or a complex
+sequence shot that connects multiple story elements varying the staging and
+composition in a single ﬂowing movement. However, even the most
+intricate tracking shots can be understood more easily if we look at the
+narrative and pictorial building blocks on which they’re based.
+The Circle of Action and the Moving Camera
+The circle of dramatic action is almost the same for the moving camera as it
+is for the stationary camera we looked at in Chapter 13. For instance, if
+there is a ballroom dance and the camera is on the ﬂoor surrounded by
+dancers, it is in the action. If the camera dollies along a balcony to cover the
+action of the couples dancing some distance away, it is outside the action.
+This would also be the case if the camera were stationary. The difference
+between the stationary and the traveling camera is that the traveling camera
+can move into or out of the action within a single shot. In story terms, this
+means moving from the general to the speciﬁc view of things or vice versa.
+This change between the interior and the exterior of the circle of action is
+one of the most useful features of the moving camera; it enables the
+ﬁlmmaker to structure story elements visually.
+The Subject-to-Camera Distance
+In addition to entering or exiting, the circle of action the camera
+encompasses includes moving towards or away from a subject to shape our
+identiﬁcation with that subject. Moreover, a moving shot develops over
+time so that the degree of emphasis is variable within a shot.
+By comparison, a stationary close-up has only one graphic value for the
+length of the shot, but a moving close-up shot can include a range of values
+from a wide close-up to an extreme close-up. Depending on whether the
+move is towards or away from the subject, the general increase or decrease
+in intimacy (or any other effect of the framing) evolves during the shot.
+Planning for the Tracking Shot
+
+We can identify the various ways a tracking shot can be planned if we think
+in terms of, ﬁrst, the traveling camera’s relationship to the circle of action;
+and second, the subject-to-camera distance. These two factors determine the
+type of spatial relationship that exists between the camera and the subject of
+any shot. Regardless of whether the camera is inside or outside the circle of
+action, the subject-to-camera distance may increase, decrease, or remain the
+same.
+As discussed in Chapter 5, one of the ways a scene in a script can be broken
+down into shots is by asking what the point of view of the scene is and what
+the appropriate emotional distance between the viewer and the subject is.
+Of course, before analyzing a scene you may have a moving shot in mind
+that came to you while reading the script. Even so, it might be helpful to
+make a list of the elements that are to be emphasized in the shot you
+imagine. If you draw a schematic of the tracking shot, you can write the key
+moments along the path of the camera. This could include important lines
+of dialogue or speciﬁc choreography for the actor. While this type of
+planning can be used to organize a speciﬁc shot, thinking in terms of the
+dramatic circle of action is useful when trying to ﬁnd a shot to record
+complex action. In the remainder of this chapter, we will look at the basic
+traveling camera strategies to help build a vocabulary of moves.
+Tracking to Introduce a Subject or Location
+A tracking shot can investigate a location or subject, revealing it to us
+slowly by focusing on individual details of the overall location. This can be
+done from inside or outside the circle of action. In one version, the camera
+begins in close-up, pulling back to a wide view so that we move from the
+speciﬁc detail to the general outline. For example, the camera moves down
+a sidewalk on a deserted street of shops. At ﬁrst, the view is in CU so that
+we see only peeling paint, broken glass, and other signs of decay at a
+bakeshop. Details of this ﬁrst store reveal the signs of a failed family
+business. The camera pulls back, tracking past dilapidated storefronts and
+vacant businesses. “Closed” or “Out of Business” signs are in many of the
+windows. A homeless person sleeps in the door of an empty store. The
+signs of economic disaster are revealed slowly until an entire street is in
+
+view. In this way, camera movement relates the citywide economic
+depression to the individual level by ﬁrst showing us the bakeshop.
+Often a tracking shot follows a lateral path along subjects deployed over a
+large area, such as at a city park or cars in trafﬁc — for example, Godard’s
+long traveling shot past car after car in Weekend. While it may be
+convenient and appropriate to move along a straight path, a tracking shot is
+not restricted to a straight line. The camera can also turn corners, move
+forward and backward, come to a halt and begin to move again, change
+speeds, cross its own path, frame subjects in close-up or wide shot, or move
+through windows or doors or any other visual scheme the ﬁlmmaker can
+conceive and the crew can execute.
+Tracking at the Same Speed as the Subject
+The most familiar use of the tracking shot is to follow two or more people
+in conversation. When the subject and the camera are moving at the same
+speed and the subject-to-camera distance does not change, the moving shot
+is the compositional equivalent of a static shot. The camera can track
+directly ahead of or behind the subjects, it can track on a parallel path in
+line with the subjects, or it can parallel their path from a position slightly
+ahead or slightly behind them. Basic tracking angles are shown in Figure
+19.1. The subjects can also be framed in full ﬁgure, medium shot, or closeup, placing the camera inside or outside the action. This same parallel
+tracking shot is used frequently to record conversations in cars or on
+horseback, boats, or any other conveyance. The shot is also useful in action
+sequences in which car-mounted cameras are often used to move alongside
+fast-moving subjects.
+
+Figure 19.1
+Tracking Faster or Slower Than the Subject
+This is really a variation on the parallel tracking shot. The only difference is
+that the camera is moving at a different speed from that of the subject. In
+this way, the subject will approach the camera as it moves or be left behind
+when the camera moves faster (Figure 19.2). This gives the ﬁlmmaker the
+ability to let the subject enter or exit the circle of action as the camera is
+moving.
+If we use a tracking shot to show that a runner is losing a race, the camera
+can move slightly faster than the runner, passing him during the course of
+the shot. If we want to show the runner winning, obviously we would have
+the runner going faster than the camera. In an action sequence, this is a
+more dynamic shot than the conventional parallel tracking shot because it
+develops while it’s on the screen as the subject travels across the frame.
+This holds our interest more than a shot in which the camera and subject
+move at the same speed. Also, when the camera is moving at a different
+speed from that of the subject the perspective is accentuated by three planes
+of motion — background, subject, and foreground — rather than two planes
+of motion, which is the case when the camera and subject move at the same
+speed. Using three planes of motion increases the sense of depth.
+
+Figure 19.2
+The camera moves slower than the subject does.
+The camera moves faster than the subject does.
+Not only can the subject and camera move at different speeds, but they can
+change speeds within a shot. When recording conversations, the camera can
+keep pace with the subjects and then slow down as the subjects move ahead
+of the camera, leaving it behind. Another variation is to have the subjects
+overtake the moving camera and then move along at the same speed. Still
+another version might have the camera at rest as the couple approaches,
+then begin to move along with them at the same speed throughout their
+conversation and have them leave the camera behind at the end of the
+scene. All these variations have the same purpose: to create the sense that
+we have eavesdropped on a real conversation that continues after the
+subjects move on.
+Moving Towards or Away From a Subject
+So far, we have been interested in parallel tracking. The camera can also
+move directly towards or away from a subject or object, increasing or
+
+diminishing its importance within the context of a story. The basic move is
+illustrated in Figure 19.3.
+A dolly move towards a subject’s face can be used to emphasize a
+character’s moment of realization. This familiar convention is often set up
+as a cut on the look. For instance, a woman arrives at a bar and ﬁnds her
+husband embracing another woman. There are three possible camera
+moves: 1) The camera dollies into a CU of the woman looking at her
+husband, 2) the camera dollies towards the husband, and 3) both dolly shots
+are used sequentially.
+Figure 19.3: The push-in or the pullback.
+A dolly shot can also deemphasize a subject by pulling back. This tends to
+isolate the subject as well. For example, a woman is standing on a railroad
+platform as the train pulls away with her only child, a daughter, onboard.
+Mounted on a train the camera might back away from the woman on the
+platform, indicating her sense of loss as her daughter departs.
+Perhaps the most familiar use of the backtracking shot or pullback is as an
+introductory shot at the beginning of a scene. This familiar technique draws
+a relationship between the object at the beginning of the shot and the
+location in which it is set. In a typically commentative use, the camera
+might pull back from a worn but expensive topcoat to reveal that it is on a
+chair in a squalid one-room apartment. This ironic setup tells us that the
+owner of the coat, formerly a wealthy businessman, has lost everything
+except this last possession from better days.
+Varying the Camera Angle Within the Shot
+
+Figure 19.4 illustrates a typical tracking setup for a dialogue scene. In this
+parallel tracking arrangement, the camera moves alongside the couple. The
+height of the camera is slightly below eye level, but because the camera is
+several feet away, the angle of view is indistinguishable from an eye-level
+shot, as shown in storyboard frame A. If the scene builds to an angry
+exchange between the players, the director might want to cut to a lower
+angle framing for a more dynamic composition. Normally this would mean
+cutting to a new angle. An alternative solution would be to move the actors
+closer to the camera, forcing it to tilt up to include the actors’ heads in a
+medium shot. Storyboard frame B shows the result of moving the couple to
+within a few feet of the lens. The same effect is produced if the camera
+dollies to the couple.
+
+Figure 19.4: To combine low and high angles in a single tracking shot,
+change the camera-to-subject distance. As the subjects get closer to the
+dolly, the camera must be tilted up to include them in the frame. The change
+in angle is shown in storyboard frames A and B.
+Tracking Around a Subject
+The camera can surround the dramatic circle of action by completing a full
+circle with the subject at the center, as shown in Figure 19.5. Extreme
+examples of this appear in similar ways in two ﬁlms, Woody Allen’s
+Hannah and Her Sisters and Brian De Palma’s The Untouchables. In both
+ﬁlms, a completely circular track surrounds people seated at a table. Even
+when the camera movement is slow, the shot is designed to draw attention
+
+away from the characters as individuals so that we will evaluate the
+situation as a whole. In The Untouchables, the circular tracking shot
+symbolizes that the four crimeﬁghters, individuals from diverse
+backgrounds, have ﬁnally become a team. The camera surrounds them,
+unifying them in space.
+Figure 19.5
+Allen’s use of a similar circular tracking shot is parenthetical. Here, the
+camera circles the sisters seated at a table so rapidly that it overpowers their
+conversation. The shot dismisses their observations and opinions, putting
+them on display for our inspection. The viewer is put in a superior position,
+knowing that what the sisters are saying reveals what they don’t know about
+themselves.
+Still another use of the circular tracking shot is seen in Martin Scorsese’s
+The Color of Money (1986), the follow-up (25 years later) to Robert
+Rossen’s study of a pool hustler in The Hustler (1961). In this case, the
+camera is used to convey the character’s state of mind. The camera circles
+the character, Fast Eddie, in CU framing as he enters the ﬁrst world-class
+competition since his retirement 20 years before. He is momentarily
+overcome by the rush of excitement, and the movement of the camera
+conveys Eddie’s feelings in a single move.
+
+Combining Interior and Exterior Spaces
+The change from adjacent interior and exterior locations is usually handled
+by a cut between shots of each space. This eliminates the problem of
+matching interior and exterior lighting, which can vary greatly.
+Photographed separately, the two locations need not actually be near each
+other, so a studio interior can be combined with a real outdoor location
+halfway around the world. This is a decided advantage from the production
+manager’s point of view, but artistically the separation of exteriors and
+interiors diminishes spatial unity.
+The alternative is to move the camera from interior to exterior or vice versa
+in a continuous move. Here are some of the possibilities:
+Figure 19.6
+
+Figure 19.7
+Figure 19.8
+Entering an Interior
+The dolly is set up so that the camera tracks in front of the subject as shown
+in Figure 19.6. The camera is stationary as the subject approaches. When
+the subject is within a few feet of the camera, the dolly is pulled backward
+into the room, followed by the subject.
+The camera can also precede the subject from any angle or path using
+curved track or a temporary platform of boards or plywood. Typical angles
+of entry are shown in Figure 19.7. If the move is small, another variation
+could add a jib arm to the dolly. The dolly would remain inside the house
+on the level ﬂoor of the interior space, and the jib arm and camera would be
+extended out the door. As the subject approaches the door the dolly is
+
+pulled back until the jib arm is inside the doorway, waiting for the subject to
+follow. One advantage of this setup is shown in Figure 19.8. Because there
+are steps up to the front door, a dolly would have to be placed on a ramp
+with a gentle slope. Apart from the time it would take to build the ramp, it
+would be a difﬁcult shot to execute smoothly. The jib arm solves the
+problem and offers considerable ﬂexibility if there is a need to change the
+staging.
+Even without the jib arm, the camera and dolly can be placed indoors and
+still connect exterior and interior space using a dolly move. If the camera is
+close to the doorframe, it can be aimed outside to frame what looks like an
+exterior shot, since the doorframe is not seen. As the subject approaches the
+door from outside, the camera pulls back deeper into the room until the
+doorframe and the room are included in the shot. An additional alternative
+is to use a zoom lens to cover the subject’s approach, gradually widening
+out to frame the subject. Eventually, the shot will include part of the
+doorframe and part of the room.
+Shooting an Interior From the Exterior Position
+It is also possible to move from an exterior to an interior space by allowing
+the subject to pass a moving camera, as shown in Figure 19.9. In this case,
+the camera pans with the subject to the edge of the doorway but remains
+outside. The subject enters the interior, and the camera photographs the
+scene inside while remaining outside. With the right choice of lens and
+staging, the results will appear as though the camera had entered the
+location.
+
+Figure 19.9: Shooting an interior from an exterior position. The camera
+dollies and pans with the subject, but remains outside to shoot the interior.
+Shooting Through Windows to Combine Interiors and Exteriors
+In this last setup, the traveling camera is placed in an interior location. The
+camera frames a subject through a window as he approaches the house
+(Figure 19.10). The camera is placed close enough to the window glass so
+that the window frame is not visible and the viewer is unaware that the
+camera is inside the room. As the camera pans to follow the subject
+entering through a doorway, the camera quickly pans past the wall and
+doorframe, following the subject into the house. At this moment, the viewer
+realizes that he’s been watching the subject from inside a room. With this
+arrangement, track can be laid inside the room so that the moving shot can
+continue in the interior space.
+
+Figure 19.10: Shooting through windows to combine interiors and
+exteriors.
+Obviously the positioning of the camera is dependent on the room and the
+action of the subject, but the principle in the last three shots is the same:
+The selective view of the camera can make it seem as though the camera
+has crossed from an interior to an exterior (or the reverse) while following a
+subject.
+Traveling Shots and Camera Angles
+The traveling camera increases the effect of all other perspective cues that
+help us judge distance. Since we identify camera angles by the way in
+which they render perspective, it stands to reason that the traveling camera
+will intensify our perception of space for any angle. In the chapter on
+camera angles, it was established that three-point perspective provided the
+greatest amount of information about the spatial relations for any of the
+possible views of an object in space. Similarly, the traveling camera can
+move through one, two, or three planes of movement. To move in three
+planes simultaneously the camera must move forward or backward while
+moving vertically and horizontally. If the camera is performing this type of
+movement while framing an object in three-point perspective, the maximum
+degree of depth will be achieved for any given scene. The use of any
+foreground elements or other pictorial or compositional devices that help
+
+the viewer understand spatial relationships will further increase the sense of
+depth.
+Viewer Placement and the Moving Camera
+Placement, as described in Chapter 14, is the movement of the viewer to
+different viewing positions in a scene through changes in camera angle.
+This was compared to choreography, because the viewer experiences a
+whole range of kinetic and physical effects as carefully arranged as a dance
+performance. Shot-ﬂow choreography is present in any sequence of shots,
+but it is most palpable when the camera is in motion.
+A moving shot may pass through several angles of view or present only one
+angle of view during the length of a shot. When following a subject at a
+ﬁxed distance, the angle of the shot does not change. But if the camera
+approaches or retreats from the subject, the camera angle will change if the
+camera also moves up or down, left or right. Directors interested in
+exploiting the “pull” of this type of perspective shift will learn to stage
+action to force the camera to move along more than one axis or move
+around objects to include a range of views.
+We can represent the perspective shifts of camera movement in drawings I
+call “perspective tunnels.” This type of diagram is really an extension of the
+“Quattrocento Cube,” the term used to describe the conception of the
+picture space in a painting or drawing that began with the development of
+linear perspective in the Renaissance.
+Two well-known traveling shots are illustrated in Figure 19.11. First is the
+long descending crane shot in Alfred Hitchcock’s Notorious. The camera
+descends two stories to end in CU on a set of keys in Ingrid Bergman’s
+hand. A more complex move is shown in the long crane move into the El
+Rancho cabaret in Citizen Kane. The actual shot was done using a miniature
+for the exterior and a full-scale set for the interior completion of the move,
+but the extended perspective cube or tunnel would be the same in any case.
+
+Figure 19.11: The long crane shot from Notorious.
+
+The crane shot that passes through the skylight in Citizen Kane.
+
+DJI S1000 Drone
+Image courtesy of DJI Technology, Inc.
+
+20 Tracking Shot Choreography
+Now that the basic types of moving camera shots have been described, we
+can look at how actors’ staged in depth and multiple centers of interest can
+be combined using the traveling camera. The variations possible with a
+simple track setup can range from a stylish move alongside two players in
+conversation to the multi-character sequence shot that connects several
+story elements and locations.
+Moving Camera and Mobile Staging
+There are two staging options available with the moving camera: First, you
+can move the camera around a ﬁxed subject, as demonstrated in the
+previous chapter, or second, you can move the subject and the camera
+simultaneously.
+In the same way that there are basic staging patterns for dialogue in static
+shots, there are also basic camera moves for staged action. These moves are
+governed by two practical considerations: 1) the camera’s range of motion
+when moving on dolly track or other equipment and 2) the fact that it is
+easier to move the actors than to move the camera.
+The basic camera moves outlined in this chapter represent a ﬂexible system
+that will give you an understanding of how the choreography of camera and
+actors can be integrated. The ultimate goal of this system is to encourage
+and facilitate a varied use of space, camera angle, and composition, thereby
+stretching the limits of the frame.
+There are two parts to our staging system for the traveling camera:
+• Tracking Choreography: This refers to the path followed by a moving
+subject relative to the path of the moving camera.
+• Patterns and Positions: This is the same staging system for actors we
+used for static shots in Chapters 9, 10, and 11.
+The basic idea in our staging system for the moving camera is that any
+number of individual shots can be connected to form a single, uninterrupted
+shot. This approach analyzes a moving shot as represented in a storyboard.
+
+Each frame in a storyboard represents a static staging pattern that can be
+connected to other frames to form a single shot using the moving camera
+and mobile staging.
+We can begin by looking at the simplest use of a straight-track dolly move.
+Tracking Choreography One
+In ﬁgure 20.1, we see three separate versions of the basic tracking shot
+presented side by side. Below each dolly is the frame as the camera views
+the subject. In each of the three camera moves, the subject-to-camera
+distance remains the same and represents a basic unit or building block.
+This type of staging is used all the time in dialogue sequences, though
+almost always as a medium shot or full shot. In its simplest form the shot
+opens with the camera and subject in motion and ends without any change
+in the subject-to-camera distance. In this sense, the subject is seen very
+much as he would be in a static shot with only a small amount of
+background movement visible.
+Figure 20.1
+It’s possible to cut between any of these moving shots to vary the shot size,
+but a more ﬂuid way to change the framing is to have the subject move
+
+closer to or farther away from the camera during the course of the shot. This
+is usually done at the beginning or the end of the shot. In the aerial view of
+straight track shown in Figure 20.2, the gray areas at either end of the track
+represent the possible areas of approach or departure for any subject that
+moves parallel to the track. The ﬁlmmaker should consider the wide range
+of options the gray areas provide, since the approach can be used to include
+any area in the location that is of interest. Depending on the angle of
+approach or departure, the camera must pan to follow the subject. This
+becomes an opportunity to include a great deal of the action in the vicinity
+of the camera even before it begins to move.
+Figure 20.2
+The long track between the circles could be used to record the subject in
+any of the framings shown in ﬁgure 20.1, only the subject would approach
+the camera from a distance in the beginning of the shot and exit into the
+distance towards the end of the shot.
+With this type of staging, the camera may be motionless at the beginning of
+the shot while the subject approaches and then slowly begin to move as the
+desired framing is obtained. This framing is held for most of the shot. As
+the tracking move nears completion, the procedure is reversed and the
+camera slows down, possibly to a complete stop, as the subject moves away
+from the camera through the departure area. The approach may start very
+far away from the camera so that the subject is ﬁrst seen in a roomy full
+shot and may depart framed in the same way.
+Tracking Choreography Two
+
+Figure 20.3 is a variation in which the area of approach is not merely an
+introduction, but part of the main dramatic action of the shot. In this case,
+the approach is directly towards the camera. If this were a dialogue scene,
+the subjects would be speaking during their approach to the track before the
+camera began to move. It has become a familiar convention to allow the
+audience to hear the subjects’ conversation clearly even when they are very
+far from the camera.
+As you can see, this choreography combines two storyboard building blocks
+— a full front shot and a proﬁle medium shot. The illustration shows the
+subjects walking side by side throughout the tracking move, but of course
+the director is free to place the actors in any of the staging patterns and
+positions outlined in Chapter 9.
+Figure 20.3
+Tracking Choreography Three
+
+Figure 20.4 demonstrates how three shots can be combined: a full ﬁgure
+proﬁle, a full front shot, and a medium proﬁle shot. To combine these views
+the camera moves at the beginning of the shot at the same pace as the
+subjects, coming to rest as the subjects turn to approach the camera. When
+the subjects turn a second time to walk parallel to the track, the camera
+begins to move again. Other variations might include staging the action so
+that it takes place at different heights. For example, the track might be laid
+on a dock alongside a cruise ship. The ﬁrst portion of the camera move
+would follow a subject onboard the ship as he walks along the railing 20
+feet above the camera, which is moving parallel to the track. As shown in
+Figure 20.5, the player could then approach the camera when exiting the
+boarding ramp and complete the third leg of the tracking shot on the dock
+walking alongside the camera.
+Figure 20.4
+
+Figure 20.5: The tracking move covers a subject ar different heights.
+Tracking Choreography Four
+Figure 20.6 is almost the same as the previous S bend setup, with one
+important difference: The players cross the track. Again, a long or full shot
+is combined with a full front shot and a medium shot, but with a change in
+direction as shown in frame C of the storyboard. If this change in direction
+looks disconcerting, it is perfectly understandable in the actual shot, since
+the change of direction is gradual. The pivot point for the camera can be on
+either side of the players’ path when they cross the track. Reﬁnements of
+this type are determined by the location and the speciﬁc needs of the scene.
+Figure 20.6
+
+Crossing the track will work for any tracking layout in this section. Moving
+the action around the camera and forcing it to include 180 degrees of space
+places the camera in the center of the circle of action.
+Tracking Choreography Five
+Figure 20.7 reverses the framing of the two previous S bend patterns so that
+the players begin close to the camera and then move away. As with the
+other S bend moves, three framings are combined.
+Applying this or any of the other choreographed moves to a real staging
+problem is of course dependent on the location, but the basic principles will
+work for any subject, whether it’s two people in conversation, a car, or a
+speedboat.
+
+Figure 20.7
+Even the track is dispensable, used here as a convenient way of indicating
+the path of the camera. The camera could just as easily be mounted on a
+crane, remote-control boom, camera car, or Steadicam rig, each adding its
+particular personality and range of motion to the process of designing the
+shot.
+Tracking Choreography Six (Revealing Space)
+Figure 20.8 begins with the subject in close-up. The subject moves
+angularly away as more of the background is revealed. In this case, the
+tracking move can be seen as combining two shots frequently paired
+together: the close-up shot of a subject and a cut on his look. For example,
+Figure 20.7 might show the subject approaching the camera for a close-up
+at the beginning of a scene. We hold on his look and his reaction to
+surroundings that are not included in the frame. This forces us to experience
+the location through the experience of the subject. As he moves away from
+the camera the background is revealed slowly, and we learn that the man is
+moving through the smoking ruins of a factory that has burned down. As
+
+the shot continues to widen, we see the victims of the ﬁre being helped by
+police and emergency medical technicians.
+Figure 20.8
+Tracking Choreography Seven
+Figure 20.9 illustrates a reverse of the strategy shown in Tracking
+Choreography Six. This time we begin with a wide shot showing us what
+the location looks like. Instead of being introduced to the scene by studying
+the reaction of a particular player to his surroundings, we evaluate the
+location ﬁrst and the player approaching us second. If this staging were
+used in the factory scenario from Tracking Choreography Six, we would
+form our own opinion of the locale and the action. When the player is
+ﬁnally seen in CU at the end of the shot, we are interested in ﬁnding out if
+he will react to the damage as we have. This is another instance of spatial
+control used to determine a question-and-answer strategy. Tracking
+Choreography Six and Seven are shots that encourage comparisons between
+the subject and the location.
+
+Figure 20.9
+Extended Choreography
+Now that we have looked at several possibilities for camera and subject
+choreography, we can make more complex arrangements by combining the
+seven tracking patterns. For instance, we can string patterns Three, Seven,
+and Five together for a tracking shot in the park location (Figure 20.10).
+Furthermore, all of the shots we have looked at can be joined together and
+combined with additional camera movement. Figure 20.10 shows a simple
+track setup, but a crane could easily be substituted to add vertical motion.
+Figure 20.10: Three tracking patterns are combined to create a complex
+choreography.
+
+Controlling the Camera Path Instead of the Subject Path
+So far, we have only considered tracking shots where the subject was
+choreographed around straight track. However, there are many times when
+this is not possible — for example, when the action must follow a road, a
+path in the woods, or any other ﬁxed route, or when the terrain restricts the
+movement of the subjects. In this case, the graphic variation within the shot
+— namely, shot size and camera angle — is determined entirely by camera
+placement and the choice of lens. In the next three examples we will return
+to the extended choreography we looked at in Figure 20.10, only this time
+the camera paths have been chosen to illustrate the value of retracking and
+countering.
+In Figure 20.11, the camera tracks angularly through the scene in the
+opposite direction of the subject. This is a countermove that begins with the
+subject facing the camera until it passes the center of the shot, at which
+point the subject is facing away from the camera. As with any move in
+which the subject crosses the camera path, there is a reverse of screen
+direction. Because the change is gradual, crossing the line is unobtrusive.
+Figure 20.11: Extended countermove. In this setup, the camera and the
+subject move in opposite directions. The arrows indicate the panning action
+of the camera.
+In Figure 20.12, the camera tracks towards the subject to the center of the
+shot and then reverses direction and moves back in the same general
+direction as the subject. The reversal of the camera is usually a distracting
+
+maneuver unless the camera comes to a stop before changing direction.
+This would be justiﬁed if the subject stopped for a moment to perform some
+action — for instance, taking off his jacket on a hot day. Here is how it
+might be set up: The camera and subject are approaching each other and
+meet at about one third of the distance illustrated. The subject and camera
+stop at this point and the subject takes off his jacket and wipes his brow
+with a handkerchief. After a moment, the subject continues on his way and
+the camera moves back along the path it just covered. The viewer will be
+unaware that the camera is retracking along familiar ground because the
+camera is pointed in a new direction.
+Figure 20.12: The camera approaches the subject (gray arrows) and then
+reverses direction, remaining ahead of the subject (black arrows).
+In Figure 20.13, we see a side view of the pattern we’ve been studying. The
+camera path is parallel to and in the same direction as the path of the subject
+in three areas. When the subject approaches the camera directly, it pauses
+until the subject makes the turn to the next parallel course. This is a case
+where stopping the camera is necessary to keep the subject in frame.
+
+Figure 20.13: The direction of the camera move is indicated by the solid
+diagrammatic line. The camera parallels the subject during the lateral
+movement, pausing when the subject approaches the camera.
+Tracking Around an Obstacle
+If there is one lesson to be learned about designing movement for the
+traveling camera it is that it’s always better to work with, rather than
+against, the location. All too often directors rely on the sheer technical
+virtuosity (and forbearance) of their crews to move the camera over difﬁcult
+territory. The Louma Crane, Skycam, Steadicam, and other camera supports
+intended to extend the camera’s range of motion have their place, but
+resourceful staging is by far the most useful asset a director can call upon.
+In Figure 20.14, the camera is unable to follow the subject closely and
+include the background desired by the director because the swimming pool
+is in the way. A jib arm or remote-control crane might be able to put the
+camera above the water in the middle of the pool, but there is an equally
+good solution that is more easily executed. The action could be staged so
+that the camera frames the subject and pool area in wide shot, arriving in
+the middleground at the same time as the subject.
+
+Figure 20.14
+Figure 20.15
+We could carry the idea further by continuing the movement of subject and
+camera in a countering move that circles the woman on the lounge chair, as
+shown in Figure 20.15.
+
+Figure 20.16: The camera tracks parallel to the driver as he walks to the
+ofﬁce. As seen in the storyboard, the moving line of trucks is used as a
+framing device. When the driver enters the ofﬁce, the camera frames him
+through the window in panel 4.
+Permitting obstacles to remain between the subject and the camera can
+actually be of value since they may serve as framing devices. In the action
+illustrated in Figure 20.16, a truck driver walks along a line of slow-moving
+trucks. The original plan was to track parallel to the driver over a long
+distance as he approached an ofﬁce. The trucks would drive by in the
+background and the driver would be in the foreground. To execute the shot
+in this way the trucks would have to drive on the shoulder of the road. But
+let’s say that this became impossible on the day of the shoot because heavy
+rain had rendered the shoulder of the road impassable. The director could
+devise an alternative shot in which the trucks are in the foreground and the
+driver is in the background, reversing the staging originally planned. In the
+new version the trucks obscure the man much of the time as they drive by.
+A second obstacle (the building) is introduced when the driver enters the
+ofﬁce. The camera tracks to the window and zooms in slowly until the
+driver is framed through the glass speaking with his boss. Still, it is a
+
+perfectly acceptable and graphically interesting solution to permit an
+obstacle to block the primary subject.
+Changing Subjects Within a Shot
+The previous tracking examples dealt with a single subject. One value of
+the long tracking shot is its ability to link separate story elements together,
+moving from subject to subject within the shot. Figure 20.17 is an example
+of a basic strategy to move from one element to another. Actually, the
+technique is a cross pan performed as the camera is tracking. The shot
+begins by framing the car as it enters the shot (white dolly). It then follows
+the car on a parallel course. As the car begins to turn away, a boy on a
+bicycle arrives and the camera picks him up at the cross point, panning with
+him until the camera is pointed in a new direction. The camera changes
+direction (black dolly) and follows the boy on a parallel course until he
+exits the shot. If a new subject entered where the boy exited, the process
+could be reversed until the camera returned to the position and framing of
+the opening frames of the shot.
+
+Figure 20.17
+Tracking and Staging to Connect Multiple Story Elements
+We can carry the previous idea even further by combining lateral tracking,
+cross pans, mobile blocking, and in-depth framing. The following ﬁve
+storyboard panels describe action that could easily be shot as individual
+frames.
+Diagrams A–C, beginning on this page, show how the individual events can
+be tied together into a single, uninterrupted shot. The separate elements are
+positioned in depth and move in opposing directions that intersect in front
+of the camera. The ﬁrst element is a car that enters the shot in the
+foreground traveling to the background. The camera follows the car in a
+long tracking shot that moves left to right until the car exits the frame. The
+second element is three boys who enter the frame in the middleground. The
+
+camera changes direction, moving back over the space just covered and
+tracking with the boys as they carry on a conversation. The third element is
+a girl who enters the shot in the background. She moves past the boys
+toward the camera and the camera picks her up, following her to the
+foreground. At this point one of the boys runs over to speak to her.
+Diagram A
+Diagram B
+
+Diagram C
+
+Diagram D
+
+Subjective and Modiﬁed Subjective Tracking Shots
+So far, the tracking shots we’ve looked at frame the subject as seen by a
+neutral observer. A tracking shot can also be motivated subjectively as
+either a full POV shot or a modiﬁed subjective shot that includes the subject
+in the frame. For example, a man goes to the edge of a grassy ledge to ﬁnd
+his wife and his sister, who are seated below on the bench. In the following
+examples, the separate frames represent a continuous tracking shot.
+
+The ﬁrst version depicts a full subjective tracking shot in which the camera
+moves towards the two women seated on the beach. The tracking shot
+would normally be set up in a previous shot of the man looking at the
+women as he walks towards them.
+This next version is a variation on the subjective tracking shot in which the
+camera moves towards the subject and the man watching them. This is a
+situation where the man’s “look” is implied. Even though we do not see his
+eyes, he is clearly watching the women. As the camera moves towards the
+man, it goes from an objective to a subjective mode. By the time the camera
+uses the man’s arm as a framing device our close proximity to him
+encourages identiﬁcation.
+
+In this last version, we ﬁnd an interesting situation in which the man enters
+his own subjective shot. The camera tracks alongside the man as he
+approaches the women on the beach. Again, the camera’s closeness to the
+man elicits our identiﬁcation with him. As the man continues past the edge
+of the beach the camera stops moving. Now the man climbs down the slope
+and joins the women and the shot returns to the objective mode.
+Breaking the Mold
+Pat Harpin’s storyboard for Wes Anderson’s Moonrise Kingdom shows the
+iconic scene when Sam meets Suzy. Anderson frequently departs from
+traditional Hollywood style by drawing attention to the shot ﬂow with a
+visually deceptive simplicity that serves Anderson’s deadpan whimsy.
+Anderson often uses a staging style that treats the ﬁlm frame like a
+theatrical proscenium. He’s been developing this approach over several
+ﬁlms. This style eschews fast cutting and angular shots whether low or high
+angle for eye-level ﬂattened staging. However, Anderson ﬂuidly moves to
+more conventional framing and cutting when it suits him. The storyboard is
+129 panels; however, we have split the board into two parts with a total of
+54 panels.
+The sequence on the following pages depicts a summer pageant in a church
+put on by the town on a small island. Sam, a ten-year old khaki-clad scout,
+
+is seated in one of the pews with several other scouts and the scout leader.
+Sam wanders outside (it’s evening) past a woman stage manager and 30 or
+40 children in costumes, mainly animals. Sam goes back inside, goes
+downstairs to the basement of the church. That’s the end of Part One, but
+the scene continues to include the moment when Sam meets Suzy, with
+whom he will run away in one year, featured in Part Two.
+Moonrise Kingdom Storyboards: Part 1
+Begin with close-up on the poster announcing the pageant. We then see the
+church on the bluff and move to the interior of the church and the Noah’s
+Ark Pageant (Noye’s Fludde) set in Panel 4.
+
+Storyboard for Moonrise Kingdom by Pat Harpin
+Close on the singer in the church. We saw him in wider angle in the
+previous shot and now we pull back. In Panel 3 we reverse cut 180 degrees
+to frame the audience. All the of the shots in this and Page Three are shot
+ﬂat to camera. In the last panel we frame the scout leader and begin a dolly
+move down the bench and the faces of the scout troop.
+
+Storyboard for Moonrise Kingdom by Pat Harpin
+The lateral dolly move continues until we come to rest on Sam. These shots
+are themselves part of the comedy of the entire scene by allowing the
+technique of the shot to be apparent to the audience. We are being
+encouraged visually to view the scene.
+
+Storyboard for Moonrise Kingdom by Pat Harpin
+This scene was omitted from the movie, but continues the overall scene
+plan ﬁlled with straight-on shots that tend to diminish rather than exploit
+perspective three-point perspective.
+
+Storyboard for Moonrise Kingdom by Pat Harpin
+We return to Sam, who is showing his boredom watching the play.
+
+Storyboard for Moonrise Kingdom by Pat Harpin
+Sam stands and we follow him down a side aisle as he exits the theater and
+goes outside, where he is cautioned to be quiet by a woman/stage manager.
+
+Storyboard for Moonrise Kingdom by Pat Harpin
+The cutaway of the man with the coffee cup behind the stage and kids
+running behind him is omitted in the ﬁnal movie, but features the same
+deadpan delivery. In the ﬁlmed scene, the CUs of the seated audience
+members happen earlier. In the two ﬁnal panels of Page Nine, Sam is
+walking past many kids in animal costumes.
+
+Storyboard for Moonrise Kingdom by Pat Harpin
+
+Storyboard for Moonrise Kingdom by Pat Harpin
+
+Storyboard for Moonrise Kingdom by Pat Harpin
+Moonrise Kingdom Storyboards: Part 2
+Sam ﬁnds a dressing room in the basement hidden behind a rack of
+costumes. He pulls the costumes apart and sees ﬁve girls in bird costumes
+and makeup.
+
+Storyboard for Moonrise Kingdom by Pat Harpin
+The girls turn to see Sam, who just entered the room. Suzy turns last. Sam
+asks what kind of bird she is and she tells him she’s a raven.
+
+Storyboard for Moonrise Kingdom by Pat Harpin
+Another girl tells Sam he’s not allowed in the dressing room. The camera
+moves in closer on Sam and Suzy. On the last frame the camera tilts down
+to Suzy’s bandaged arm.
+
+Storyboard for Moonrise Kingdom by Pat Harpin
+Sam asks what happened to Suzy’s hand. An adult comes in to get the girls.
+In the storyboard she says nothing, but in the movie she tells Sam to go
+back to his seat. Suzy and another girl linger behind in time for the girl to
+tell Suzy that Sam likes her.
+
+Storyboard for Moonrise Kingdom by Pat Harpin
+Storyboard for Moonrise Kingdom by Pat Harpin
+
+21 Transitions
+The connections between shots are as important as the shots themselves and
+usually signify changes in time and place in the narrative. Today, segues of
+almost every type are used, with the greatest type of experimentation going
+on in commercials and music videos. In all, there are only seven ways of
+joining two shots together. They are:
+• The cut
+• The fade in
+• The dissolve
+• The white-in
+• The wipe
+• The white-out (or any colored version of this)
+• The fade out
+The Cut
+Habit and convention have established that the dissolve indicates a passage
+of time, while the cut is a present-tense segue. While this was an acceptable
+generalization for most of the ﬁlms in the ’30s and ’40s, today there are
+many more exceptions. The cut has undergone the greatest change, and is
+used in much wider application in connecting different periods of time.
+Television has popularized techniques that speed up the plot, and the cut has
+become the connection of choice. One use that has become a favored
+technique in television (now in features, too) is the montage sequence,
+connected by cuts. Typically, the montage sequence covers hours rather
+than days or weeks. Take, for example, the scene in Steven Spielberg’s
+Jaws in which Ofﬁcer Brody, Captain Quint, and Hooper assemble the
+shark cage onboard the ﬁshing vessel, the Orca. The scene is made up of six
+shots each lasting 3 seconds for a total of about 18 seconds, compressing
+what would probably take half an hour. In this case, the compositions are
+composed angularly and record strong graphic contrasts in medium and
+close shots, alerting us to the fact that normal, real-time continuity is being
+interrupted. The result is a rhythmically compelling sequence that is
+
+vigorous yet smooth. Another use of this technique, using a single camera
+angle and composition, might show the construction of a house or the
+growth of a family, with weeks and years foreshortened into a few seconds.
+The result is time-lapse photography that can show months, years, or
+decades passing within seconds.
+The Dissolve
+The dissolve, once approaching the status of a cliché, has begun to look
+fresh again, having been replaced by the cut for many of its uses in recent
+years. Regardless, it’s best if the ﬁlmmaker disregards fashion and employs
+whatever technique does the best job in a given situation.
+Because the dissolve can form a bridge between disparate times and places,
+however shaky the logic of the connection, it has always been thought of as
+a kind of Band-Aid for badly structured ﬁlms.
+While the practice in the continuity style is to hide the cut, the dissolve is
+intended to be seen or at least experienced. Dissolves can be any length but
+usually last anywhere from approximately 1/2 second (10–12 frames) to
+extremely expressive lengths of over a minute. The shortest dissolve
+possible, and one rarely seen today, is the so-called soft cut, a dissolve
+lasting only 1 to 10 frames. The soft cut was used in situations where a
+transition required smoothing, such as nature footage in a documentary. For
+example, the only available shots of a lion chasing a zebra might force the
+editor to combine jarring, fast-moving shots to convey the basic action. A
+dissolve could smooth the transitions but would be confusing and work
+against the speed of the action. A straight cut would produce jumpy results.
+In this case, the single-frame dissolve would be employed as a compromise.
+It would soften the cut but not slow down the action. Usually the soft cut is
+undetectable, and even most ﬁlmmakers cannot tell the difference. Its effect
+is subliminal.
+Focus-In/Out
+In a focus-in/out, the tail of one shot loses focus until the image is
+completely blurred and is dissolved to the next shot, which begins with a
+new blurred image that is then brought into focus. Technically, it’s a
+dissolve, but one that is concealed by another effect. Properly executed, the
+
+dissolve is invisible because the two unfocused shots are joined at a point
+where the images are too blurred to be identiﬁed. The loss of focus is
+usually gradual, and the dissolve blends the two shots together as if they
+were one. Of course, the viewer knows a bit of movie magic is taking place.
+The effect has often been used as a POV shot, indicating loss of
+consciousness. One version you’ve probably seen many times is the patientin-an-operating-room shot. We share the patient’s viewpoint as he is
+anesthetized and the operating room becomes a blur. Slowly the picture
+returns to sharpness, and we are in a recovery room hours later.
+The Match Shot
+Match shots are two adjacent shots that share a graphic element that is
+registered identically in each. Though described in many screenplays as a
+match cut, most often a dissolve links the shots. The dissolve helps to
+smooth out any imperfections in registration and lets the viewer enjoy the
+change more thoroughly. But this is not always the case. In À bout de
+soufﬂe (Breathless), Jean-Luc Godard makes a match cut on Jean Seberg as
+she drives in a convertible with the top down. Suddenly the background
+changes from day to night though the car and driver remain in the same
+position — a very radical cut in its day. Interestingly, it combines two very
+different qualities: the disruptive time shift of the jump cut and the graphic
+smoothness of the match cut.
+Wipes
+A traditional wipe is rarely seen today unless the ﬁlmmaker wants to
+deliberately recall the Hollywood style of the ’30s and ’40s. In its most
+familiar form, the wipe is the cross-frame movement of a new shot over an
+old one and resembles a curtain being drawn. George Lucas used angular
+wipes in Star Wars — an homage to the serials made by B studios like
+Monogram and Republic, which inspired the movie.
+Wipes can move in any direction, vertically, horizontally, or diagonally
+across the frame. Circles, squares, and spirals — any conceivable shape —
+can be used to remove one shot and introduce a new one. A wipe can be
+shaped to resemble a desired design element like a police badge or a
+keyhole expanding or contracting until one shot has replaced the other.
+Flying Down to Rio (1933), the movie that introduced the team of Fred
+
+Astaire and Ginger Rogers, contains dozens of different wipes used
+throughout the course of the movie to combine scenes.
+Another variation of the wipe, the push-off or push-over, has the incoming
+shot “pushing” the outgoing shot from the frame so that it appears to be
+moving intact across the frame. This differs from the traditional wipe, in
+which the new shot appears to move over the one it is replacing.
+A wipe can also be combined with an element in the shot moving in the
+same direction and at the same rate — for example, a telephone pole or a
+tree. In this case, the leading edge of the wipe is matched to the movement
+of the pole or tree trunk. Cars, joggers, or an elevator door, anything
+moving across the frame, can motivate a wipe of this kind. A version of this
+type of wipe used in cartoons has an animated character pulling the new
+shot into place. A recent car commercial shows an outgoing shot of a car
+“torn” from the screen in strips as if it were paper, revealing a perfectly
+registered car of a different color underneath.
+The Action Wipe
+The action wipe lies somewhere between an optical wipe and a match cut,
+and is made in the camera or, to be more speciﬁc, in the editing room. The
+action wipe connects two shots in a scene rather than linking two scenes in
+different locations. In almost every case, this effect is used to move from a
+wide shot to a medium or close shot, making the cut smoother by what
+amounts to an “invisible” cut on action. What distinguishes this cut from a
+normal cut on action is that the action is not of the principal subject.
+Instead, some design element within the frame that moves between the
+camera and the principal subject provides the action. The element can be
+any object positioned close enough to the camera to completely block the
+lens while moving through the shot. Typically, the action would be shot
+twice with the movement the same in each shot and the angle of view
+identical, but with a change in frame size. Later the two shots would be
+connected at the point where the subject is blocked from our view. In recent
+years, action wipes have also been used to connect shots taken from
+different viewing angles and even different periods of time (Figure 21.1).
+
+Figure 21.1: The action wipe.
+As with the match shot, which is similar to the action wipe, a cut or dissolve
+can connect the shots in an action wipe. Usually a dissolve is used to make
+the effect as seamless as possible.
+Transformations
+In special cases, the transformation of the principal subject in a shot can be
+considered a transition. Strictly speaking, the transformation is not the
+joining of two separate shots — the deﬁnition of a transition — but there is
+a complete change of subject. Figure 21.2 is a series of transformations by
+the pioneer animator, Émile Cohl, from 1909.
+Up until recently, this type of effect was so unusual that there was no reason
+to consider it anything but a novelty. Computer graphics, however, are now
+able to execute far more complex transformations between photographic
+images relatively easily. Portions of the frame, or the entire picture, can be
+broken down and reconstructed into a new photographic image smoothly
+with great textural and dynamic variation. Effects for TV commercials are
+designed for maximum impact to hold viewer attention. This is very nearly
+the opposite goal of transitions in the continuity style, but computer
+graphics are capable of any sort of image conﬁguration if the time and
+
+energy are spent to execute it. We can expect much more of this in the
+future.
+Fades
+The fade to black and the fade up from black have the effect of setting
+episodes off from one another like chapter headings. In this respect, the
+purpose of the fade is fundamentally different from the dissolve or cut. The
+fade separates scenes, while the dissolve and cut connect scenes. Going to
+black and then coming out of black to picture is a complete departure from
+the narrative, though if it is done rapidly the pause is minimal.
+A fade can employ pictorial elements in the scene. A typical use of this idea
+would be a scene in a room that ends with the lights being turned off. While
+still in black, the cut is made to the next scene, which could begin with a
+train coming out of the darkness of a tunnel.
+White-In/White-Out/Color
+Fades can be made to and from any color or made to white, an effect that
+John Huston used for the closing shot of Prizzi’s Honor. The movie ends at
+a bright sunny window that slowly becomes blindingly white until the
+frame is completely bleached out. This is the end of the ﬁlm, so we don’t
+return to another scene, but obviously all that would be needed to do so is a
+white-in. This can be motivated by any bright element in the new shot like a
+bright sky or lamp. The white-out has a particularly ethereal quality, though
+there is no real convention attached to the mood it produces, unlike the
+dissolve, which tends toward the lyrical and elegiac.
+The Freeze Frame
+This effect differs from the other types of visual punctuation we’ve looked
+at in that it is usually employed as a period rather than a transition between
+scenes. The best-known use of the freeze frame is in Truffaut’s Les Quatre
+Cents Coups (The 400 Blows) in the memorable ﬁnal shot of Antoine
+Doinel alone on the beach. The elegiac quality of the shot, the sense of
+ﬁnality and inescapable fate became a favorite effect in the ’60s and was so
+overused that it has almost completely disappeared. More recently, the
+freeze frame has served a more practical use as a species of POV when used
+to show the viewpoint of a photographer taking a picture. Usually we are
+
+watching some action when a burst of white and the sound of a shutter
+closing indicate a strobe ﬂash and the moment of exposure. The action
+freezes momentarily, showing us the photo that the photographer desires.
+The effect was used well in Robert Altman’s M*A*S*H when Hawkeye and
+Pierce break in on an ofﬁcer who is shacked up with a Japanese girl in order
+to take compromising pictures. We see the pictures as a series of freeze
+frames as the ofﬁcer madly scrambles to pull on his trousers.
+Montage
+“Montage” is a problematic term. To the Europeans all editing is montage;
+to the early Soviet ﬁlmmakers, Kuleshov, Pudovkin, and Eisenstein, it
+meant their special brand of associative editing; or, in the words of
+Eisenstein, “Montage is an idea that arises from the collision of independent
+shots.”
+In the United States and Great Britain, montage has its own special
+meaning: a brief sequence of linking devices, usually dissolves, used to
+convey the passage of time or a series of locations. It is this transitional use
+that is of interest to us here.
+Actually, montage of this type is not so much a linking device as a
+condensed narrative, a form of visual shorthand that uses actual transitions
+(dissolves, cuts, fade-ins/outs) in rapid succession to link ideas. Montage
+frequently uses symbolic images to represent change — for instance, piles
+of coins and dollars that grow larger dissolved against images of the stock
+exchange and industry to show the ﬁnancial rise of a character. Slavko
+Vorkapich, an immigrant from Yugoslavia, became known as a montage
+specialist in the United States during the late silent and early sound periods
+creating these types of sequences. Vorkapich, a gifted ﬁlmmaker, was
+interested in experimental ﬁlms and the avant-garde ﬁlm movement in
+Europe. Like other ﬁlmmakers experimenting with new techniques, he
+found work creating new versions of standard narrative sequences depicting
+dreams, drunkenness, after-death experiences, altered states, and fantastic
+realms.
+The montage is not used much today. When a long period of time is
+condensed to a short sequence, cuts are preferred to dissolves. Montage that
+
+conveys an idea or concept, as in the pile-of-money example, is rarer still,
+leaving an opportunity to experiment with old techniques in new ways.
+Split-Screen Effects
+Actually, the split-screen is not exactly a transitional effect, though it is
+used to join images that would otherwise be seen in separate shots. In 1927,
+the French director Abel Gance used the technique in several sequences in
+his epic biography, Napoléon, turning the screen into a triptych. He called
+this early widescreen process Polyvision. Three projectors were used to
+obtain the necessary width for panoramic shots, but they could be used in
+any combination, each showing a different image or a center image ﬂanked
+by two identical shots. Occasional use of the split-screen was used in the
+silent era to show two sides of a telephone conversation simultaneously, and
+a related technique, created with a multi-image lens, multiplied a single
+image in a revolving circular pattern. This became a standard representation
+for hallucinations and nightmares. Later, Busby Berkeley would use this
+device for purely graphic design.
+Split-screen effects were never widely used and all but disappeared by the
+’40s. The technique was resurrected in the ’60s in John Frankenheimer’s
+Grand Prix with the screen split into varying patterns of mortices. Anyone
+familiar with multi-image slideshows would recognize the technique, and
+though this type of multimedia presentation has continued to develop and
+thrive in corporate and advertising communication, there has been no
+crossover to narrative ﬁlm.
+The only director who has continually experimented with the split-screen is
+Brian De Palma, who has made a genuine effort to use the effect to discover
+new ways of telling a story. The effect is usually done as an optical at a lab
+after the ﬁlm has been shot, but for compositional reasons it is probably
+best to compose the frame with the split-screen in mind. Simple split-screen
+effects can also be created in any camera that can be accurately backwound, and are therefore well within the means of independent ﬁlmmakers.
+
+22 Format
+The Frame
+Painters, graphic artists, and photographers are able to vary the size of their
+work surface to suit the subject, from life-size murals to locket-size
+portraits, even though the viewpoint is ﬁxed. The ﬁlmmaker ﬁnds himself in
+the opposite situation. He can vary his viewpoint within a ﬁlm but not the
+shape or size of the frame that encloses it. He does have a choice, however,
+in the format he uses.
+The proportions of the ﬁlm frame are called the aspect ratio, a description
+of the relationship between the horizontal and vertical dimensions of the
+picture. The aspect ratio basically determines the shape of the image, which
+is almost always a rectangle of varying proportions, depending on the
+format.
+A Brief History of Formats
+George Eastman ﬁrst made stripﬁlm available in the 1890s, and since then
+there have been over one hundred different systems for photographing and
+projecting motion pictures. In the silent era, while the studios were just
+beginning to monopolize the making and distribution of motion pictures,
+there were a variety of formats, though the predominant aspect ratio was
+1.33:1. The conﬁnes of this rectangle were not ﬂexible enough for
+ﬁlmmakers like D.W. Grifﬁth, who occasionally masked a portion of the
+frame horizontally or vertically to compose speciﬁc scenes. More common
+temporary maskings of the frame included iris effects that turned the screen
+into a small soft-edged circle or oval, an effect similar to a close-up for
+directing our attention to a point on the screen. The most impressive format
+experiment in the silent period was the Polyvision process used for Abel
+Gance’s Napoléon. This was mentioned in the previous chapter because of
+its use of split-screen effects, but these compositional devices were not the
+purpose for using three projectors or widening the screen. Gance’s main
+interest was in providing a monumental viewing experience that
+overwhelmed the audience. While the screen could be stretched to include
+
+Napoleon’s armies, German director F.W. Murnau preferred to condense the
+screen width to a square for a smaller ﬁlm like the lyrical Sunrise (1927).
+Despite these and other experiments, the 1.33:1 proportion remained the allpurpose format throughout the silent period based on a ﬁlm gauge of 35
+mm. In 1932, the Academy of Motion Picture Arts and Sciences made this
+the standard aspect ratio, and, because they now had sound to consider, took
+some of the available width of the frame for the optical track. To maintain
+the 1.33:1 ratio, the height of the frame was lowered, and the result was the
+Academy aperture, with an actual ratio of 1.37:1. This was the standard for
+nearly 20 years.
+In the 1950s, the motion-picture industry responded to the economic threat
+of television with a whole array of widescreen systems designed to entice
+people out of their living rooms and back into the theaters. This was a
+repeat of a similar trend way back in the late ’20s and early ’30s, when the
+sound era began. In fact, many of the widescreen formats adopted in the
+’50s were developed or suggested two decades earlier. Among these were
+several ﬁlm gauges that were brieﬂy in use, including the Paramount
+process (56 mm), Spoor Natural Vision (63 mm), and Fox Grandeur (70
+mm). These and other innovations — stereophonic sound for one — might
+have become standardized in the ’30s had it not been for the Depression,
+which caused the studios, who originally backed the changes, to rethink
+their plans. Motivated by more conservative ﬁnancial expectations, the
+studios abandoned the costly replacement of existing equipment.
+Twenty years later, when television threw down the gauntlet, most of the
+technical preparation for widescreen motion pictures had already been
+worked out. Not that the technological problems were particularly difﬁcult;
+motion-picture cameras and projectors represent nineteenth-century
+technology (essentially mechanical), and while there have been reﬁnements,
+no major breakthroughs have been made in the basic design of the camera
+or projector, with the exception of the IMAX rolling loop system. Some of
+the widescreen systems developed over the last four decades are: Cinerama,
+originally a three-camera, three-projector system similar to Abel Gance’s
+Polyvision; Todd-AO; CinemaScope; VistaVision; Techniscope; Super
+Panavision 70, and Ultra Panavision 70. Only a few of these systems are in
+use today, and a mere list of trademarks does not begin to cover the
+
+complex subject of available ﬁlm and camera systems until the mid-2000s,
+when digital cameras and projection changed everything. As of this writing,
+ﬁlm is still in use for shooting theatrical features; however, digital is for all
+practical purposes the dominant technology for commercial ﬁlmmaking.
+The development of digital cameras and projection formats has been
+inﬂuenced by, and closely follows, the traditional ﬁlm formats that directly
+preceded it. Until fairly recently, there were three ﬁlm proportions in
+general use: 1.85:1, 1.66:1, and 1.75:1. In the United States, 1.85:1 was the
+unofﬁcial standard, while 1.66:1 was popular in Europe. Of the smaller
+formats, 16 mm, Super 16, and Super 8 were widely used, utilizing aspect
+ratios hovering around the 1.33:1 ratio. 16 mm can be used in the Academy
+and widescreen formats, which was the original reason for the introduction
+of Super 16 in the early 1970s. Super 16 uses more of the available negative
+and, therefore, produces a sharper, less grainy image.
+Digital Acquisition
+Movies can be ﬁlmed but can also be made entirely in the computer without
+a physical camera in sight, and so the popular term “digital acquisition” was
+born. Whether real or virtual, digital cameras output frames, the equivalent
+of the ﬁlm negative in sizes measured in pixels. Shorthand for various
+formats are names like 2k and 4k or image sizes that are 2,000 or 4,000
+pixels in size respectively. The most common format is 1920 × 1080 with
+an aspect ratio of 16:9, which is almost identical to 1.85:1. The aspect ratio
+is independent of the resolution so a 16:9 image can be composed of a few
+thousand pixels or millions of pixels. That’s where the notion of megapixels
+(a term often mentioned in the still-camera world) originated. The 2k and
+4k image sizes mentioned above are 2 megapixels and 8 megapixels. The
+math is simple: the megapixel size of a digital image is found by
+multiplying the pixel width by the height of the image. A 2k image is 2048
+× 1080 pixels, or 2,212 million pixels when multiplied. This is rounded off
+to 2 megapixels for simplicity. A 4k image is 4096 × 2160 or 8,857,360
+pixels, which is rounded off to 8 megapixels.
+While we used to speak of ﬁlm resolution in terms of the size of the
+negative such as 16 mm, 35 mm, or IMAX, the digital equivalent of the ﬁlm
+negative is the camera sensor. Their size is referred to in terms of
+
+megapixels, and basically represents the level of detail captured in each
+image. Professional still cameras such as Nikon, Canon, or Sony DSLRs
+have cameras with sensors in the 12-megapixel to 50-megapixel range. In
+motion pictures, the current crop of professional cameras are in the 4megapixel to 8-megapixel range. This number is always going up, and there
+is no reason not to capture more and more information as time goes on. The
+driver here is the human need to replicate reality.
+Digital Projection
+Beginning in the early 2000s, the major US studios made the primarily
+ﬁnancial decision to begin the biggest infrastructure change in the delivery
+and presentation of motion picture since movies began. Digital “prints”
+have replaced ﬁlm in 98.2% of cinemas worldwide as of May 3, 2016.
+Digital prints don’t wear out compared with a ﬁlm print that remains
+pristine through only a few dozen showings before the delicate emulsion
+surface is scratched or chipped. Digital prints can be rapidly produced and
+are far less expensive than ﬁlm prints. Digital projection does not have gate
+jitter, the microvibration seen by the audience as a high-frequency image
+movement, a consequence of mechanically transporting ﬁlm and
+magnifying the frame several thousand times. Unlike a ﬁlm print, a digital
+print is sharp across the entire screen when projected. This is not possible
+with mechanical ﬁlm mechanisms. However, there remain ﬁlmmakers such
+as Quentin Tarantino who are trying to preserve the traditional ﬁlm
+experience in arthouses. At the time of this writing, while ﬁlm is still used
+for some feature ﬁlms at the insistance of a few A-list directors, digital
+dominates. In 2015, approximately 85% of the 100 top-grossing movies
+were shot digitally. Sadly, in the near future, silver chemistry and the beauty
+of a ﬁlm print will only be found in specialty presentations and venues.
+Technically, 16:9 (1.77:1) is the international format of HDTV and Full HD.
+This is primarily a television and computer-monitor standard, but has
+become an alternative to 1:85 in the theaters. Typically, the dimensions of
+16:9 in consumer and prosumer cameras is 1920 × 1080 pixels, even if it’s
+captured at a higher resolution and downsampled. But this was barely
+established in the early 2000s, when 4k and higher resolutions were
+
+introduced, including 4k UHD, 5k UHD, and 8k UHD. Expect greater
+resolution and higher frame rates.
+At the same time, digital resolution is evolving, and frame rates are being
+tested far beyond that of 24 frames per second (fps), the sound ﬁlm standard
+for nearly a century. Television is a bit more complex, but uses a 30fps rate
+derived from 60 ﬁelds per second. New frame rates of 48fps and 60fps have
+been suggested for years, and recently frame rates of up to 120fps are in
+development. This is a controversial subject, with the eventual goal of
+replicating reality with higher frame rates versus the traditional look of
+ﬁlms projected at 24fps. The so-called “live” look of higher frame rates as
+seen in soap operas and newscasts is off-putting for many viewers. One of
+the best descriptions of the perceptual difference between high and low
+frame rates is that ﬁlm (24fps) is past tense and television (30fps) is present
+tense. When viewed, 24fps seems to be an experience that has happened in
+memory while faster frame rates tell us the presentation is happening as we
+watch. There is debate whether the preference by some people for 24fps is
+or is not a conditioned response, the result of seeing the slower frame rate
+for nearly a century. Expect this and other experiments in formats to
+continue. The new digital projectors in theaters can be reprogrammed in
+many ways that were impossible with ﬁlm projectors, allowing for more
+experimentation with formats.
+Stereoscopic
+The digital projection infrastructure transformation coincided with and
+made possible a widespread comeback of stereoscopic viewing, which now
+appears to be short-lived. The studios could charge more for a stereoscopic
+presentation and so this became part of the upgrade to digital in most
+cineplexes, including the need to provide reusable eyewear. Similarly, the
+TV manufacturers got behind the new technology and began making 3D
+ﬂat-screens. However, despite an initial interest from the mainstream
+audience the popularity of stereoscopic viewing has dropped off
+signiﬁcantly. Why?
+While the technical virtues of digital projection allowed for improvements
+in both the capture and projection of stereoscopic ﬁlms, the required glasses
+have never been popular. Far from unobtrusive, either shutter glasses or
+
+polarized light ﬁltration reduce screen brightness for the viewer. It’s
+noticeable even to the casual viewer. The cost of shooting or postprocessing stereoscopic is not inexpensive, and contrary to what has been
+said by various promoters of stereoscopic movies, it does not signiﬁcantly
+add to or change the fundamentals of continuity style ﬁlmmaking. In fact,
+the rapid loss of interest in stereoscopic movies is partially the victim of the
+human visual system. Namely, adaptation. Unless the stereoscopic
+experience exaggerates the effect of depth in shots that seem like stunts, the
+brain successfully reduces the effect. It does this because the various
+processes needed to fool the eye are unnatural and tax our viewing system.
+For most shots and staging, the stereoscopic effect diminishes once the
+movie begins. As the neuroscience of perception has still not produced a
+comprehensive understanding of vision, the nature of the perceptual
+experience of stereoscopic viewing is unknown. As both a ﬁnancial
+opportunity and a useful innovation, stereoscopic has failed to deliver.
+On the following pages are comparisons of ﬁlm formats and digital formats.
+While ﬁlm formats are a matter of history, the digital formats in the
+following diagram are part of a constantly (and rapidly) evolving science of
+image capture and presentation. It’s guaranteed they will be quite different
+within ten years. Finally, the list of ﬁlm and digital formats is not
+comprehensive. What follows is a general introduction to formats, laying
+out the major trends.
+digital formats
+
+23 Shadowing
+This section includes a quick start for new directors staging actors on set
+without storyboards or previs to consult. First, let’s shadow a director.
+Shadowing is the term given to the practice of a director-in-training being
+allowed to follow an actual director for a few days while ﬁlming. So you
+just got the call sheet outlining the day’s schedule. We’ll start with a short
+description of a director’s typical day and then we’ll look at a series of ideas
+to expand your staging chops. These are ideas based on staging examples
+from earlier chapters, but packaged as simple solutions you can easily
+remember. Let’s go. It’s 7:00 AM and you need to be on set.
+The movie where you will shadow the director is shooting at one location
+(multiple rooms in a suburban home). The scene involves ﬁve actors. It’s a
+simple setup. Two police ofﬁcers come to a home where a 911 call was
+made by a teenaged girl to stop her parents from ﬁghting. There’s no
+violence and no real reason to call 911 but the girl has nowhere else to turn.
+Of course when the police arrive, the teen’s parents are furious at her.
+This has all been worked out in a storyboard based on a speciﬁc home
+secured as the location, but at the last moment, a new house is substituted.
+The layout of the new home is so different that the storyboard showing long
+dolly moves is not going to work. The director won’t see the new location
+until he arrives there early on the day of the shoot, requiring him to
+improvise.
+A day of ﬁlming with a professional crew follows the following basic steps:
+Blocking, lighting, rehearsal, and shooting.
+7:00 AM
+Crew arrives. After grabbing coffee and a donut at the craft services
+table, the grips and cinematographer (DP) begin to scope out the
+interiors and what windows need to be blocked to keep out sunlight.
+The sun will be replaced by artiﬁcial lights. Equipment is unloaded
+from trucks and staged in the driveway and garage. Set dressing begins
+for areas the crew knows they will have to shoot. However, they need
+
+the director to explain the basic blocking of the scene now that the
+storyboards are only partially accurate.
+The director, cinematographer, production manager, and line producer
+now need to ﬁnalize the staging areas. Originally, the open ﬂoor plan of
+the old location had wide openings between the kitchen, the front door
+and entranceway, and the living room. This provided room for the
+tracking shots. Conversely, the new location is made up of separate
+rooms connected by narrow hallways and doors that are not dolly
+friendly, and this will add a lot of time to the setup. The line producer
+asks what is most important to the director: the tracking shots or
+keeping the teen hidden in the kitchen when the police arrive, where she
+can observe without being seen. The director agrees to give up the
+tracking shots. He’s most interested in the teen being able to observe the
+police and her parents secretly. The director, cinematographer, line
+producer, and production manager begin walking through the scene and
+lining up shots. Often, actors’ stand-ins are used at this point. The
+director will use a director’s ﬁnder (a lens simulating what the camera
+will see) as they walk through the action of the scene. They begin to see
+technical issues with each new choice they consider.
+The typical limitations the crew must deal with include where to hide
+lights and where to lay dolly track. Film crews are amazing at making
+almost any directorial request possible, but it’s always a matter of time
+and money. Lighting for a tracking shot may take more time than for a
+locked-off shot, and the line producer may tell the director they will
+have to limit some other part of the plan. The original plan had the teen
+on the ﬁrst ﬂoor and the parents on the second ﬂoor. Now the director
+sees that he can put the teen upstairs observing from the hallway
+looking down to the front door when the police arrive. The prop master
+will move a large indoor plant from the patio up to the balcony so the
+girl has a place to hide when the police arrive.
+A few other decisions of this kind are made and it’s now 8:15 AM. The
+director goes over the script and new shot list with the assistant director,
+script supervisor, and production manager. These professionals will ask
+
+detailed questions about every change in the scene so that story
+continuity is maintained.
+8:45 AM
+The actors arrive. They are met by the director and sent to makeup. The
+plan is to get to a ﬁrst shot by 10:15.
+9:30 AM
+The new shot order is conﬁrmed and requires bounce lighting into the
+front door area. The ﬁrst shots will be the police arriving. The front of
+the house is cleared and a rented squad car positioned in front of the
+house. The director and DP now discuss more details of the shot. A new
+problem arises. The squad car is not visible from the best camera angle
+for the front door because there’s a tree in the way. The director and the
+cinematographer ﬁnd a solution that requires a camera move. While this
+is being discussed, the line producer tells the cinematographer the tree
+can be digitally removed and a digital squad car added, but it will cost
+$5,000. Including the squad car in the shot is not critical to the story so
+the idea is scrapped. No squad car, just the police at the front door.
+10:15 AM
+The two actors playing the police are in uniform and the actors playing
+the teen’s parents arrive after makeup. Everyone is in costume and
+ready for rehearsal. The director likes to give very little direction
+initially; he wants the actors to perform as they would if they were in a
+real situation. The director wants to see how everyone will interact. He
+hopes to observe some unscripted natural behavior from his actors that
+he can ask them to repeat. The director tells the actors to only give 50%,
+and to just walk through the scene. They do this with the camera setup
+and because it’s a digital camera, they record the rehearsal. After a few
+rehearsals, the director has some new ideas. The father of the teen in the
+movie goes to answer the door, but stops partway in the foyer when he
+sees the police through the window. He looks up at the balcony where
+the teen is hiding. Her bedroom is on the second ﬂoor. This is not in the
+script, but the director thinks this hesitation is great. It tells the audience
+that when there’s trouble the father instinctively suspects his teen
+
+daughter is involved. This means adjusting the dolly move to capture
+this new moment.
+10:45 AM
+Everyone wants to get the shot done before the noon lunch break. After
+a few moments’ dolly rehearsal, they shoot the ﬁrst take. With time
+taken for coverage, the scene is completed by noon. This includes a
+second handheld camera taken up to the second ﬂoor, where the teen’s
+POV shots are recorded with the two police ofﬁcers and the teen’s
+parents in the shot. These are shot during rehearsal because lip synch
+won’t be seen at this distance. Distance and dialogue can be added later
+in postproduction.
+1:00 PM
+After lunch, the new shot is being setup. This is the ﬁght that sets off the
+whole scene. It was supposed to be shot in a bedroom, but the director
+now has the scene staged in the kitchen. The director begins working
+out the blocking with the cinematographer and they decide they can
+start the scene in the porch, following the father into the kitchen, where
+the argument with his wife begins. The director rehearses the actors
+playing the parents into the kitchen and lets them walk through the
+scene. Again, he tells them not to give him their full emotional intensity.
+The teen’s reaction to the ﬁght while in her bedroom will be shot on
+another day. The teen’s bedroom will be a stage set since it is used in
+several scenes, justifying the expense of the build.
+The rehearsal in the kitchen is going well, but it’s centered around the
+kitchen table and seems too contained for the director. He wants to show
+the wife’s impatience so he asks the actress to respond by using more
+space and not standing so close to the husband. The director points to
+two moments in the scene when the wife can just walk a few yards
+away in frustration and turn her back on her husband. He tells her to
+play it like she’s a caged animal. He’s building the case that the wife
+wants to leave the relationship, but has not acknowledged that to herself
+yet. So shaking her head and just walking out for a moment is stronger
+than the words in the script. The director now has the staging he wants,
+but the lighting has to be adjusted since the actress walks over to a
+
+window. There are a couple of tricky camera moves to make this work.
+There is now a tech rehearsal with the stand-in actors.
+2:30 PM
+The actors come back and do a couple of camera rehearsals, but the
+timing is tricky. They shoot the rehearsal and look at it. There are some
+modest adjustments and a line of dialogue is changed. Now everyone is
+ready to go for the shot.
+This is a longer scene than the front door scene and takes a couple of
+hours to complete. The actors are given a short break to refresh since
+the scene is emotionally draining. The director would like more time,
+but the actors are losing their energy. The earliest takes were best. The
+footage is reviewed by the director and producer and they feel they have
+what they need.
+4:30 PM
+There are some pickup shots they can shoot with the wife taking trash
+bags to the garage, and these shots are shot with a handheld camera
+outside. Meanwhile, the next big scene is back in the foyer when the
+teen’s father calls her downstairs. This is a relatively short scene
+because the girl does not come down. She climbs out the window of her
+bedroom. The father will go upstairs, but that’s the last moment to be
+shot in the house. The story now moves to the teen’s escape.
+5:30 PM
+Since the foyer was already lit, it only takes about 20 minutes for the
+new setup to be ready for the rehearsal. The cast is brought back in. The
+scene takes 30 minutes to shoot. The cast is let go. However, the
+director and DP don’t wrap quite yet. They get coverage of details in the
+house and potential moody cutaways and POV shots of the interiors.
+The exterior of the house will be a different home in another city.
+7:00 PM
+It’s a wrap. The crew begins breaking down the gear.
+This is a fairly typical day’s shooting of simple scenes. An action or VFX
+picture will have many scenes with all the same story and actor concerns,
+
+but far more technical considerations. The quiet time with the actors is
+harder for the director to ﬁnd.
+A director has many things on his mind when directing, but when it comes
+to blocking, once the actors move through the scene more or less how they
+would act if they weren’t ﬁlming, the director has to take reality and make it
+work for the camera. There are a few basic techniques the director can rely
+on to help do this. We’ve already discussed them, but while explaining them
+in detail is necessary, the following short cuts boil them down to very
+simple concepts.
+
+24 Short Cuts
+
+basic coverage
+All the action takes place in a very conﬁned space; essentially, a ﬁvefoot circle typical of televison staging for many programs. This
+approach is fast to light and the background does not need as many
+extras or set dressing. The downside is that this staging does not help
+convey the sense that the action is happening in the real world.
+In the following quick ﬁxes, we’ll look at ways to expand and
+improve the basic coverage we’re using here.
+
+walking & talking
+Our base coverage is staged in a ﬁve-foot circle where the dialogue is
+spoken. We looked at a variation having Anne approach from a
+distance. We looked at a second variation where we connected two
+separate poses.
+The panels above show a static pose joined to a moving pose. In this
+approach the dialogue is spoken in the base coverage circle, and as the
+two characters walk away side by side dialogue continues. We could
+just as easily have the moving pose ﬁrst, ending in the base coverage
+circle as a static shot. The earlier variations could also be added; for
+example, the current static/moving shot order could begin with Anne
+approaching camera, instead of the static shot.
+
+pose to pose
+Your actors arrive. You don’t have a storyboard. Set up the scene for
+basic coverage. Then set up another staging that you think will work
+with the second half of the scene. Now you have two poses, but you
+can have more, of course. The actors will connect them. They may be
+resistant if it feels awkward, but if you think of emotional moments
+when a change in staging supports the story, then set that pose up. The
+actors and cinematographer collaborate with the director to work this
+out.
+The takeaway here is that you learn to think in poses from the camera
+view. You can build complex and intricate staging by connecting
+poses.
+
+open it up
+Try using an approach shot where a character walks to the base
+staging area. This can replace the master shot, although you will shoot
+one for protection.
+During the approach, Anne can already begin the dialogue before she
+reaches the man. In the exit shot the man can remain positioned facing
+the camera, allowing for a nice reaction shot while Anne departs in
+the background. As you look at the panels above, consider variations
+using the A, I, L positions.
+
+why stop there?
+If we can connect two poses, we can just as easily connect an
+unlimted number of poses in a single scene.
+
+working with actors
+Most of the book explains staging in an analytical way, which is the
+best way to learn in the beginning. However, actors are the life’s blood
+of a motion picture and their process is emotional. Even though your
+storyboard may be great, if the actor has an alternative approach, it’s
+important to listen. Complex choreography requiring the actor to
+precisely hit marks is a distraction, and repeated takes are tiring for
+the actor. A good director learns how to adapt to the actors and also
+how to help them work through the challenges of complex staging
+when the storyboard must be followed.
+In situations where there is no storyboard, the process of staging
+means walking through the action explained in the script. As you walk
+through the scene, think in terms of poses (shots). Then you rehearse.
+Let the actors do what they think their characters would do. See
+anything you like? If so, use it.
+Sometimes it’s useful to show the storyboard to the the actors, but
+from their point of view, knowing where to hit their marks is one more
+thing to think about that distracts from their process. One way to help
+is to remain focused on the actor’s performance and allow the
+cinematographer or assistant director to adjust the staging. You will
+concentrate on the performance. You need to protect the actor from
+becoming frustrated with the ﬁlmmaking process. If you provide the
+actors a consistent emotional goal for a scene the technical
+requirements are far less distracting for them.
+
+25 Parting Shots
+The future of storytelling. Where have we been and where are we going.
+Big questions, but if we look at the arc of technology beginning in the
+ﬁfteenth century with the development of linear perspective, the general
+trend has been to replicate reality, or at least our perception of it. This trend
+has been accelerating for 500 years, but the digitization of all media has
+accelerated the acceleration. Dramatically. One century of improvements in
+ﬁlm stock is equal to about 15 years’ development of digital image sensors.
+Even more dramatic is the change in the way movies are disseminated. The
+theatrical movie experience is competing with increasingly impressive
+home theater installations but even the latest 90-inch ﬂat panels are not
+cutting edge. Why? Because direct input to the brain via VR glasses will be
+available within a few years, with lasers projecting directly on the eye’s
+retina, a major advance over glasses placing miniature video displays in
+front of each eye. This is all in its infancy but this and other neural-based
+approaches to delivering data to the brain are going to dominate the second
+half of 21st century media. VR may launch, fail, and launch again within the
+next decade, but the goal of direct input to the brain by a future technology
+is going to be the holy grail of media companies, and VR is just the
+beginning. We are in the age of neuroscience. Give it about 25 years to
+become a must-have consumer product.
+For those of us steeped in traditional ﬁlm and the almost two-century-old
+love affair with silver chemistry, change at the current rate means the end to
+cherished values and processes, but in the end a ﬁlmmaker has a story to tell
+and the tools are secondary. We at least have the choice to make them
+secondary, even though we live in an age of eye candy and short attention
+spans, with the emphasis on techno ﬂash. Commercial ﬁlmmaking is still
+the blisteringly competitive business for indie ﬁlmmakers that it’s been for
+more than 50 years. The alternative is reaching a small audience on YouTube or some other online distributor we haven’t seen yet. This is really all
+a ﬁlmmaker needs, but it may not be a living. While this may sound dour,
+
+it’s actually a hugely positive development. Right now, you can take your
+iPhone and make a short. You can upload your short in a few days and you
+can begin to build an audience. You don’t need investors or distributors.
+You don’t have to license your copyright to others. You don’t have to listen
+to a half-dozen gatekeepers demanding changes to your work. So what are
+you waiting for …?

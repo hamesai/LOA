@@ -1,0 +1,438 @@
+Chapter X
+MAKING MOTION PICTURE POSITIVES
+HAVING described the methods of making the negative
+record picture in the motion picture camera, we come
+now to the processes involved in making the positive
+print. Many persons, who have not given any thought to the
+matter, have an idea that the film which comes from the camera
+is the same film which is run through the projection machine.
+If one stops to think for a moment, however, he will readily see
+that the developed film from the camera is a negative, and while
+it is possible to run it through a projection machine for examination, it has a peculiar appearance on the screen, showing light
+objects as black and black objects as white.
+In order to show the proper relation of light values, it is necessary to make a print from this negative just as it is necessary to
+make a paper print or positive from a kodak negative. It is
+generally desirable also to make a number of duplicate copies
+from a single negative, so that the same picture may be shown at
+the same time in various places.
+There are methods of making a positive direct in the camera,
+but these methods are only practical in certain isolated instances,
+which will be described more fully in another portion of this
+book.
+Printing from a motion picture, negative is not as simple a
+process as printing from a still picture negative, since the exact
+relation of distance of one picture to another must be preserved
+throughout the many feet of film. Most cameramen will not
+have the time or the Inclination to make prints from their own
+films, but it is very desirable that the camera operator be conversant with all of the processes of finishing.
+Since motion pictures are shown in a projection machine by
+means of light projected through the picture, it is necessary that
+the prints be made upon transparent film instead of upon paper
+as is the ordinary print. To make these prints as accurately as
+is required, a printing machine is necessary. There are quite a
+number of different machines for this purpose, all of which are
+165
+
+MOTION PICTURE PHOTOG R A P H Y
+constructed on the same general principle. They may, however,
+be classified under the two general heads:
+Step printers and Continuous printers.
+The mechanism of the step printer is essentially the same as
+the mechanism of the camera, except that instead of the lens, it
+has a light-proof box containing a printing light for impressing
+the negative image upon the positive, the negative and positive
+film being fed through the gate at the same time. The negative
+and positive films are placed in rolls upon spools or spindles
+above the gate and are fed down by means of a tooth sprocket
+which engages the perforations. The negative film is placed
+nearer the light with the emulsion side away from the light and
+the positive film with the emulsion toward the light, so that the
+two emulsion surfaces come in contact face to face. A loop is
+left between the gate and the feed sprocket as in the camera
+—
+the positive film having a slightly larger loop than the negative
+so as not to interfere with it as the films are drawn down in
+contact. A pair of pins or claws draw the two films down to
+go into the gate and pass the aperture through which the printing light shines. As in the camera, a shutter cuts off the printing light during the time that the film is being drawn down and
+then opens and permits the printing light to impress the negative
+image upon the sensitive positive film.
+There are several reasons for this. We are not always able
+to control the amount of light which we need for taking a picture, but in the printing machine we have a light which wc can
+make any desired strength.
+We can impress the image from the negative upon the positive
+emulsion easily and quickly without having it nearly so sensitive
+as the negative stock so can use much stronger red light in our
+printing and positive developing room. Therefore positive stock
+is handled with much greater ease and certainty and by employees
+of less skill and training than is required for negative. The less
+sensitive positive stock is also much less liable to fog and gives
+a much clearer and more transparent print than would be possible upon the more sensitive negative emulsion.
+A printing machine is run much slower than a camera. The
+printing rate has nothing to do with the rate with which the
+positive film is run through the projection machine, so gives time
+to conduct the operation of printing carefully and with due re166
+
+MAKING MOTION PICTURE POSITIVES
+gard for the preservation of the precious negative film which
+may have cost large sums to produce.
+The operation of printing machines is conducted in a photographic dark room where many of these machines may be in
+operation at the same time. The pressure plate over the printing aperture is generally made of ruby glass, so that the operation of printing may be inspected while it is going on without
+allowing any of the actinic light from the printing lamp to penetrate into the dark room. In most cameras, the pressure plate
+on the gate is held in continuous tension against the film by means
+of springs, but this cannot be done in a printing machine, as the
+continuous friction of the pressure plate upon the negative, after
+it had been run for a number of prints would surely scratch and
+scar the negative, and these imperfections would in turn be
+printed upon the positive film. For this reason, a mechanism is
+provided in the printing machine for releasing the tension upon
+the pressure plate while the film is being drawn down, but which
+allows the pressure plate to come back into contact during the
+time of the printing; that is, during the time that the film is at
+rest. This is done to insure perfect contact between the negative
+and positive film, otherwise, if they were not in perfect contact,
+the light from the printing lamp after passing through the negative would be diffused before it reached the positive and would
+not produce a perfectly sharp clear picture upon the positive
+emulsion.
+The two films after passing through the printing gate, again
+form two loops and pass over the teeth of the take-up sprocket,
+and are wound upon two separate take-up rollers. The negative
+film is re-wound for passing again through the printer and the
+printed positive is sent to the positive developing room for development.
+As the tension of the take-up on the negative film has a tendency to produce wear and abrasion, especially when dust or
+dirt settle upon the film, it is a common practice in some laboratories to dispense with the negative take-up and feed the negative film as it comes from the printer into a cloth-lined box or
+bag, from which it is carefully re-wound by hand. In other
+places, both take-ups are dispensed with and the positive film is
+also run into a separate receptacle before being wound up for
+transmission to the positive developing room.
+167
+
+MOTION PICTURE PHOTOGRAPHY
+Step printers are commonly operated at a speed of from three
+to four frames per second, which is as fast as is consistent with
+high-grade work. The steadiest positives are produced by step
+printers as the claws draw the film down exactly the same distance each time. Step printers are especially valuable where
+some slight difference exists between the perforations upon the
+positive and the negative film, since any slight difference is being
+constantly compensated for between the printing of each frame.
+Take a concrete example
+:
+vVe might have a piece of negative film which had so shrunk
+during the process of development that there were sixty-five perforations per lineal foot, whereas the undeveloped positive which
+might have been perforated upon the same machine contains
+sixty-four perforations to the foot. The claws of the printing
+machine would still enter every fourth perforation of both the
+positive and negative, and as each frame was printed the positive
+film would be drawn down one-sixty-fifth of the distance between
+two perforations further than the negative film. In other words,
+64 feet of negative film would be printed upon 65 feet of positive
+film and yet each piece of film would have the same number of
+pictures and the same number of perforations, and the pictures
+upon both films would be equi-distant from one another, and
+each frame would have been in perfect contact while being
+printed.
+Continuous printers do not have pins or claws to pull the film
+down one picture at a time, but the two films are fed past a slit
+at a steady even speed by means of a sprocket. It can readily be
+understood that unless the negative and positive in a continuous
+printer have exactly the same number of perforations per foot
+that there will be a small but constant shift between the surfaces
+of the two films causing a slight blurr in the film.
+As negatives are of different densities and printing machines
+run at a uniform speed, it is necessary to have some means of
+changing the strength of the light to correspond with the density
+of the negative and give an even positive print. There are different methods of accomplishing this in different printing machines.
+The methods are as follows
+:
+The first is by varying the distance of the light from the
+printing aperture, which is accomplished from outside the lamp
+house by some mechanical device.
+168
+
+MAKING MOTION PICTURE POSITIVES
+The second is by varying the strength of the electric current
+supplying the printing lamp. This is done by a rheostat, or
+variable resistance placed in series of the lamp circuit.
+A third way is by varying the arc of exposure opening in the
+shutter.
+A fourth is by means of a condensing lens placed between the
+lamp and the printing aperture and moving the lens system instead of the lamp. This permits of a smaller lamp house than
+the first method of moving a lamp, as a very small movement of
+the condensing lens will produce the same amount of change as
+moving the lamp for a considerable distance.
+A fifth way is one which can only be used in the continuous
+printer. It is varying the width of the slot past which the film
+passes as it is printed.
+When a new negative comes in to be printed, it is necessary
+to find just what strength of light is needed to print each scene.
+In large laboratories, this work is in charge of a man called a
+timer. Some of these timers become so expert through long experience that by mere inspection of a negative, looking at it
+toward a light covered with a ground glass, they can tell exactly
+how to set the printing lamp to produce a good positive. Some
+of them have a test chart which consists of negatives of all different densities mounted upon a sheet of ground or opal glass,
+and comparing these known samples with the negative brought in,
+can ascertain the correct printing time. "Correct printing time"
+is the term used, although it is not accurate as all of the machines
+in a factory run at the same speed or time. What it really means
+is the strength of the printing light.
+None of these methods, however, can be absolutely accurate.
+An almost imperceptible change in the color of the negative deposit will need quite a different printing light from that of another
+negative of the same apparent density, but of slightly different
+color.
+These methods, however, work very well in places which do
+all of their own developing where the negatives are apt to be of
+uniform color.
+In commercial laboratories, negatives are developed under
+many different conditions with many different formulae and with
+deposits of different colors. A brownish pyro-developed negative, or one developed in an old developer which has left a slight
+169
+
+MOTION PICTURE PHOTOGRAPHY
+brownish or yellowish stain, requires a considerably stronger light
+than a blue-black negative developed say—in a fresh metol hydroquinonine bath.
+If the timer is in doubt as to the exact strength of light to use,
+he prints a test film about a foot long, using a range of lights
+from stronger to weaker than the one he judges will be correct.
+He then develops this test strip and determines from it the exact
+strength of light to use. Most printers are now equipped with
+what is called an automatic light change ; that is, a mechanical or
+electrical device for automatically changing the light for each
+scene.
+The automatic light change is actuated by an electrical contact on the machine which bears upon the edge of the negative
+film. By means of a special punch, a very slight nick or indentation is made in the edge of the negative film where a light change
+occurs. A small wheel connected with a delicate electric switch
+bears upon the edge of the film. As long as the negative film has
+no indentation upon its edge the light strength remains the same.
+When a light change is to occur, the small wheel depresses itself
+into the indentation by means of a spring and closes the electric
+circuit causing the light shift to advance one step. At each step
+the light will be shifted according to a hole punched in a control
+card. Each of these control cards has enough steps to shift the
+light for all of the different scenes which might occur in a two
+hundred foot roll of negative.
+As the developing racks hold approximately two hundred feet
+of film, negatives' to be printed are joined as nearly as possible
+to produce rolls of about two hundred feet. These control cards
+are punched by the timer or head printer so that each successive
+scene will be printed by the proper strength light.
+On each roll of negative to be printed, a piece of leader is
+cemented, marked in india ink with the numbers or other identification marks showing what is contained in the roll, also marks
+showing the frame line, so that the printing may be started in
+correct register.
+Negatives taken with different cameras often have different
+frame lines, that is, the line separating the frame in one film occurs in a different relation to the perforation on the edge, than
+it does in others. Printing machines are equipped with a framing device ; that is, the distance between the claws and the printno
+
+MAKING MOTION PICTURE POSITIVES
+ing frame may be altered so that each frame comes in exact
+register with the printing aperture. This framing must be done
+in all step printers, otherwise the line between the printed frames
+would come across the picture in the frame. The identification
+marks upon the negative leader are thus printed upon the ends
+of the positive film and remain there for its identification until
+it is ready to be assembled into a reel. The control card for each
+negative roll is marked with the same identification number as
+that on the negative roll and is filed away with it, or in a cardindex drawer where it can be found readily when more prints are
+to be made from that negative. As seventy-five to one hundred
+duplicate prints are frequently made from an original negative
+and reprints may be called for at any time, it will be seen that
+such a system is very important and necessary.
+Of the two types of printing machines just referred to the ones
+most used in this country are the Duplex, a step printer, and the
+Bell and Howell, a continuous printer. Since they are representative of designs of these types and most commonly met with
+in film laboratories, brief directions for their use are appended
+to the chapter.
+OPERATION OF THE DUPLEX PRINTER
+The threading is simple. The positive stock is placed on the
+front disc and the negative on the rear disc. The ends of both
+films are led under a roller above the feed sprocket then over
+the feed sprocket and under the tension roller which maintains
+the film in position on the sprocket. A four-inch loop is left in
+the negative strip and a five-inch loop in the positive strip, the
+latter being nearer the operator. The difference in loop size is
+to prevent scratching from friction of one surface upon the other.
+The films next pass through the tension box which is a continuation of the aperture plate and is located just above the gate. A
+spring contact attached to the track at one side of the tension
+box bears against the edge of the negative as it passes this point
+and serves to operate the light-changing mechanism by making
+contact through notches cut into the film near points where
+changes of scene occur. The wndth of the film track in the tension box is adjustable, thus making it possible to operate the
+light-changing device even though the n^ative be considerably
+shrunken.
+171
+
+MOTION PICTURE PHOTOGRA PHY
+After passing through the aperture plate another pair of loops
+are formed, this time the positive being four inches and the negative five inches. The films after being passed under the tension
+rollers adjacent to each sprocket are run over the sprockets and
+then attached to the take-up spindles.
+A highly perfected type of "automatic" now accomplishes the
+work of altering the printing light to suit the densities of the
+various scenes of the negatives being printed.
+The light-changing movement consists of an accurate escapement which is operated by an electro-magnet very accurately
+wound so as to operate the escapement instantaneously when a
+contact is made at the breaker-box. The intensity of the printing
+light is controlled by a light bar which is so operated that it
+comes successively into contact with a series of plugs on the
+front of the automatic corresponding to the various scenes on
+the negative strip. E^ch of these contacts puts the requisite
+amount of resistance in series with the printer light, and it is
+thus that the printing intensities are governed. This automatic
+has a capacity of i8 different light intensities and will also change
+the light for i8 successive scenes at one sitting.
+When the proper printing intensities have been ascertained
+for each scene of a given roll of negative, a card is punched with
+a series of holes corresponding to these light values. The card
+is then mounted on the front face of the automatic and plugs are
+inserted through the holes in the card, which is only used as a
+guide to the insertion of the bronze plugs, and may be removed
+before printing is commenced.
+With the older types, the light-bar was in contact all the way
+across the front of the contact panel, but with the present model
+only one of the contact buttons on the inner side of the light-bar
+is in contact with one contact plug at any time. This allows the
+bar to drop so easily, when the automatic is operated, that a
+greater pressure can be supplied to its buttons, which assures
+excellent contact between them and the plugs through which the
+light changes are accomplished, and also eliminates any possibility
+of arcing when the light-bar drops from one position to the next.
+Electric current is supplied to the magnet which operates the
+escapement and light-bar of the automatic by the starting clutch
+of the printer, and is cut off, when the printer is stopped, through
+the medium of a switch which operates in unison with the clutch
+172
+
+MAKING MOTION PICTURE POSITIVES
+handle. If the machine is run without a negative film in place,
+the breaker-box will supply a continuous current to the magnet
+which might cause it to burn out, but this is avoided by disconnecting the flexible wire cord and plug through which the current
+reaches the automatic. The current is cut off from the printing
+lamps when the light-bar is opened for the insertion of the card
+and the contact plugs, while the current is in turn cut off from
+the light-bar by opening the switch shown at the bottom of each
+automatic. If the current is left flowing through the light-bar
+a shock can be sustained if the hands of the operator come into
+contact with it when arranging the contact plugs. In former
+models the light-bar was exclusively shifted by electricity^ through
+the medium of the contact in the breaker-box above the machine
+gate, but the perfected escapement of the new automatic terminates in a handle at the top by which the light-bar can be
+raised or lowered by hand to any desired position.
+A film-notching device supplied with the printer is used to cut
+notches in the edge of the film at any point where a change in
+the printing light is required. This notching device is provided
+with a gauge which indicates the exact point at which the film
+should be notched, in order that the change of light shall occur
+exactly at the dividing line between scenes, and the rapidity with
+which the new automatic operates, insures freedom from long
+sections of improper density following changes of scene in the
+finished prints.
+OPERATION OF THE BELL AND HOWELL PRINTER
+The essential factors necessary to the effectual realization of
+the continuous printing are
+:
+First—Ability to maintain correct registration on the undeveloped positive stock, regardless of age or amount of shrinkage
+of the negative.
+Second—^A movement that will facilitate the continuous passage of the films over the light aperture without undue friction
+or abrasion.
+Third—The flexibility of the volume of light used for printing
+scenes of different density and the rapidity of the changes from
+one intensity to another.
+Fourth—The speed of operation or the actual capacity per
+working day, which is the most striking feature of this machine
+in comparison with other types.
+173
+
+MOTION PICTURE PHOTOGR A P H Y
+Referring to the first problem relative to correct registration
+of the films regardless of shrinkage due to development: In
+order to bring the sprocket holes of the negative and positive
+stock in proper alignment and to offset the difference in length of
+the developed and undeveloped films it was necessary to construct
+the path followed by the two films past the exposing aperture to
+conform to the arc of a circle whose diameter is such that when
+the positive and negative are in position upon it, with the undeveloped or positive on the outside, the shorter length of the
+shrunken negative is counter-balanced by the decreased length
+of its arc over that of the positive. The perforations are therefore made to coincide and all creepage due to longitudinal shrinkage is overcome.
+Now to take up the matter of lateral shrinkage or the shrinkage in width of the negative. It is obvious that guide rails along
+the film path are absolutely useless as the width of the positive
+film keeps these rails from bringing pressure to bear on both
+margins of the negative and hold it parallel with the positive
+stock. Therefore, some means had to be devised to bring about
+this condition without contact with the moving film other than
+through the medium of the driving sprocket teeth. With this
+end in view a sprocket was designed whose teeth on one side are
+built to conform with the standard perforation hole, being less
+than two thousandths of an inch smaller in widtji so as to completely occupy the opening, while the teeth that engage with the
+other margin of the film are slightly smaller in width in order to
+compensate for lateral shrinkage. Thus it will be seen that when
+two films are superimposed on this sprocket the perforations of
+the positive are held directly over and made to coincide with
+those of the negative, side movement being eliminated by the
+absolute filling of the sprocket holes along one margin of the entire length of the films by the sprocket teeth.
+In taking up the second clause relative to a film movement
+permitting a constant pressure to hold the films in proper contact at the instant of exposure, it is obvious that any device with
+such a small area bearing on the continuous moving film, and
+of a sufficient tension to insure perfect contact, would produce
+themuch loved enemy of the producer, namely scratches. Therefore, some means had to be evolved to overcome this difficulty,
+and the only available solution was to recess the aperture shuttle
+174
+
+MAKING MOTION PICTURE POSITIVES
+segment a point of contact with film and also to use, virtually, a
+cushion of compressed air, which was previously strained through
+silk mesh to remove dust particles.
+By use in the light chamber, of a constant pressure of air
+whose only means of exit is through the exposing aperture and
+against the negative holding it in perfect contact with the positive, the question of scratches was entirely eliminated.
+By careful consideration of the third problem mentioned relative to the varying strengths of light needed for consecutive
+scenes of different densities, it was found impractical to use an
+electrical resistance to diminish or increase the volume of light,
+owing to the fact that a slight decrease in the current supplied
+to the lamp greatly changes the quality of the light rays emanated, namely, from one of a pure white on full voltage to one
+consisting mostly of yellow rays on inserting a resistance. It
+is seen that very little latitude is available by using this method
+of changing and one of a mechanical nature had to be adopted
+instead of electrically controlled. Practical results were obtained by maintaining a constant radiation from the lamp and
+by increasing or decreasing the actual width of the exposing
+aperture similar to a focal plane shutter, which is the equivalent
+to varying the length of the exposure rather than the intensity
+of the light used.
+In the printer in question, one side of the light aperture is
+composed of a revolving segment whose movement is calibrated
+into twenty-two points and controlled by an index hand and dial
+mounted on the front of the machine. By placing the hand on
+point No. I, the aperture is set for the smallest opening or an
+exposure by a strip of light yi inch wide reaching across the film.
+Each consecutive point from No. i up, gives a ten per cent increase in exposure over the preceding one, consequently the wide
+latitude available for negatives of varying densities that this arrangement permits is very apparent. After setting the index
+hand at the desired light intensity (previously ascertained by consulting the original test pieces made of each scene), the actual
+change of aperture opening is automatically affected by means of
+a radial notch in the margin of the film between scenes allowing
+an electrical circuit to be completed which in turn shifts the
+movable element of the aperture to the desired position.
+The light changes are accompanied by an audible signal in175
+
+MOTION PICTURE PHOTOGRAPHY
+corporated in the mechanism, thus permitting the operator to
+properly follow the various scene changes listed on a card and
+placed on the machine for this purpose.
+The advantage covered by the fourth clause referring to speed
+of operations, is maintained by constructing and adjusting the
+different controls that each can properly perform its duty at a
+rate of speed of approximately one foot per second of printed
+positive film or for an average eight-hour day with due allowance
+for changes, rethreading and other adjustments, twenty-two
+thousand feet, which is the normal rate of speed and in no way
+exceptional.
+The operation of the machine is controlled by a combination
+switch handle and valve whose movement is limited to ^ of a
+revolution and in making development tests it is easy to start and
+stop the machine quickly enough to allow of only a few images to
+be printed of each scene.
+The air compressor is supplied in two sizes, the smaller being
+built to accommodate from- one to three machines and the larger
+from one to twelve machines. The compressors supply a constant stream of air which is filtered through a silk bag mounted
+on a metal frame and attached directly to the intake pipe. The
+machines now being furnished require no auxiliary electrical
+equipment, all local circuits being operated from one source of
+supply.
+176

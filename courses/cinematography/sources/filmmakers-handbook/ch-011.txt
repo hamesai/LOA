@@ -1,0 +1,320 @@
+CHAPTER 6
+
+The Film Camera
+
+An Overview of the Camera
+
+The motion picture camera has the following components:
+
+Fig. 6-1. Arriflex 16mm BL. The film chamber door and magazine lid are open to reveal the film path. The feed roll is 400 feet of core-loaded film. The pressure plate is open to show the film gate. The camera has a mirror shutter for reflex viewing. (ARRI, Inc.)
+
+The lens: focuses light from the world onto the film.
+
+The lens mount: receptacle where the lens is attached to the camera (see Chapter 4 for the lens and lens mount).
+
+The viewfinder: allows the camera operator to see what image is being recorded on film.
+
+The film chamber: a light-tight compartment that holds the film before and after it is exposed to light. Many cameras use a detachable magazine to hold the film.
+
+The motor: supplies the power to run the film past the lens for exposure.
+
+The film gate and claw: The claw pulls down each frame of film for exposure and holds it steady in the film gate during exposure.
+
+The shutter: blocks light from the film when it is moving between successive exposures.
+
+The unexposed film (raw stock) is loaded into the camera from the supply or feed reel. The film passes through the film gate for exposure and is spooled on the take-up reel.
+
+Fig. 6-2. Simplified camera. (Carol Keller)
+
+THE FILM GATE AND SHUTTER
+
+The Film Gate
+
+In the film gate, the raw stock is exposed to light that comes through the lens. The gate is composed of two plates that sandwich the film. The plate between the lens and the film is the aperture plate. The aperture itself is a rectangle cut out of the aperture plate, through which light from the lens shines. The aperture’s edges define the border of the image on the film. The base of the film rests on the other half of the gate, the pressure plate, which holds the film flat during exposure. Super 8 cartridges and some quick-change magazines (see Camera Film Capacity, p. 262) have a built-in pressure plate that is not part of the camera’s body.
+
+THE CLAW. Most cameras and projectors have a claw or shuttle that advances the film, frame by frame, in the gate. The claw engages a perforation in the film and pulls the film forward one frame (the pulldown). After exposure, the claw engages the next frame and pulls it down (see Fig. 1-32).
+
+Fig. 6-3. Film gate with open pressure plate. Not all cameras use registration pins. (Carol Keller)
+
+It’s critical that the film be held absolutely steady in the gate or else the image will not be steady when projected on screen. Some cameras have a registration pin to help ensure steadiness during exposure. The pin enters a perforation while the film is stopped in the gate and holds it motionless.
+
+THE INTERMITTENT. The claw is on an intermittent (that is, a noncontinuous or stop-start) movement that allows the film alternately to stop in front of the aperture and then to move on. Since the film roll is moving continuously through the camera, there must be some slack between the intermittent claw and the constantly moving feed and take-up reels to prevent the film from tearing. On most cameras and projectors, loops are formed between the film gate and the sprocket wheel—which drives the film—to provide the needed slack.
+
+Loops must be accurately formed. If they’re too small, the film may tear or chatter. When a camera jams, it usually “loses its loop.” If the loops are too large, they may rub against the camera housing and scratch the film. See your camera’s manual for proper loop size.
+
+The Shutter
+
+After each frame of film is exposed to light coming through the lens, the shutter must close to block the light while the next frame moves into position in the gate. The film must be completely at rest before the shutter opens again for the next exposure. If the shutter does not block the light when the film is moving, the image will be blurred. The simplest kind of shutter is a rotating disc with a section removed.
+
+A circle may be represented by 360 degrees. The shutter opening is the number of degrees open in the disc. The 180-degree shutter, a half-moon in shape, is used in many cameras, particularly in 16mm.
+
+SHUTTER SPEED AND EXPOSURE. Exposure is determined by two elements: the intensity of light that passes through the lens and the time each frame is exposed to the light. The reciprocity law simply says: Exposure = Intensity × Time. Doubling exposure time is equivalent to doubling intensity. The halving and doubling of light intensity are measured in stops (see Chapter 4). If you close down the lens by one stop, you must double the time of exposure to keep exposure constant.
+
+Standard film speed is 24 frames per second. A camera with a 180-degree shutter admits light to the film half the time (the disc is half open) so the exposure time (the shutter speed) is 1⁄24 × 1⁄2 = 1⁄48 second (which we usually round off to 1⁄50 second). As a rule of thumb, most film cameras have a shutter speed of about 1⁄50 second when operated at 24 fps, but check your camera to determine the angle of its shutter opening. The general formula for any shutter opening and camera speed is:
+
+For shutter openings less than 180 degrees, the shutter speed is faster than 1⁄50 second. For example, a 135-degree shutter at 24 fps yields a shutter speed of 1⁄24 × 135/360 = 1⁄64 (approximately 1⁄65 second).
+
+In general, longer exposure times have advantages: they decrease the possibility of judder (see p. 393) and they mean that less light is needed for proper exposure. However, if the exposure time is very long, there will be excessive motion blur in the image (see Fig. 2-14).
+
+THE VARIABLE SHUTTER. On cameras equipped with a variable shutter, the shutter angle can be narrowed to change the shutter speed. Narrowing the angle reduces exposure time. A 90-degree shutter, for example, gives a shutter speed of about 1⁄100 second at 24 fps. Closing the shutter reduces the exposure, allowing high-speed film to be used outdoors or allowing the lens to be opened to decrease depth of field or to shoot at a selected f-stop (see Chapter 4).
+
+Fig. 6-4. Variable shutter. (A) A 180-degree shutter shown fully open. The small rectangle represents the aperture. (B) To close the shutter, an adjustable disc (shaded) swings out; shown here, it forms a 90-degree opening. (C) The shutter is almost completely closed. (Carol Keller)
+
+A variable shutter that can be closed down while the camera is running allows exposure changes in the middle of a shot. For example, when the camera moves from a sunlit to a shaded area within a shot, it’s often necessary to change exposure. If variable shutters are used for exposure control, you risk judder in the image if there is a great deal of camera or subject movement (see p. 393). On cameras with a variable shutter, always check that the shutter is properly set before every day’s shooting. If someone else has used the camera, the shutter opening may have been narrowed.
+
+CAMERA SPEED AND MOTORS
+
+The first cameras were cranked by hand. The camera operator would hum a popular song of an appropriate tempo to approximate the filming speed. On modern cameras, either a spring-wound or electric motor drives the film through the camera and controls the rate at which the film moves.
+
+Standard Speed
+
+Standard worldwide theatrical film projection speed is 24 fps, and unless special effects are desired, it is assumed that the standard running speed of a film camera is also 24 fps (also known as sound speed). However, there are certain situations in which 24 fps is not used as the basic speed.
+
+In Europe and other places where PAL video has been standard, film footage intended primarily for television is shot at 25 fps (see Chapter 16). Even theatrical films may be filmed at 25 fps to simplify postproduction; however, European theatrical film projection is typically 24 fps.
+
+Film is sometimes shot at 23.976 fps. This is 0.1 percent slower than standard 24 fps and matches the video “24p” rate in formerly NTSC countries. This may be used to simplify video postproduction on a film project, or when the film footage needs to keep sync with a video camera, or sometimes when filming music videos to maintain sync with prerecorded music (see p. 456).
+
+In NTSC countries, film is sometimes shot at 29.97 fps when filming video monitors.
+
+Certain camera speeds can cause problems with some HMI, fluorescent, and other discharge-type lighting (see p. 481).
+
+When the camera speed (or frame rate) matches the projection speed, movement on the screen looks natural. When the camera speed increases, more frames are filmed each second. When film shot at high speed (say, 40 fps) is projected at the normal speed (24 fps), action is slowed down (slow motion). Conversely, if you film at a slower speed, say 8 fps, and then project at normal speed, movement is sped up—in this case, three times as fast.
+
+When you change camera speed, you need to make an exposure compensation, since the exposure time is different. Consult a frame-rate/exposure chart or use the formula for shutter speed specified above. In general, if you double the frame rate, you lose a stop of exposure, so compensate by opening the lens one stop. If you cut the frame rate in half, close the lens by a stop.
+
+For a discussion of slow motion and time-lapse shooting, see p. 389.
+
+Camera Motors
+
+Most cameras today have electric motors powered primarily by rechargeable batteries (see Batteries and Power Supplies, p. 127). In order to be used for sync-sound filming (see p. 464), the speed of the camera must be very precisely controlled. Most modern cameras used for sound work are equipped with crystal-controlled motors, which use a very stable crystal oscillator to ensure accuracy. Some cameras are not intended for sound work. Sometimes called MOS or wild cameras, nonsync cameras may have variable-speed motors or governor motors. These cameras are often small, light, and noisy. Some nonsync cameras use spring-wound motors, like Bolexes, that are wound by hand prior to the shot.
+
+Fig. 6-5. Bolex H16 Reflex 16mm camera. Beam-splitter reflex with nondivergent lens turret. Spring-wound motor capable of single-frame operation. This camera accepts 100-foot internal loads or an external magazine. It has a 135-degree variable shutter. (Bolex)
+
+VIEWING SYSTEMS
+
+The viewfinder allows you to see what is being recorded on film. Most modern cameras use a reflex viewfinder, which allows you to see through the lens (the taking lens). Some older or lower-cost cameras employ a nonreflex viewfinder that is separate from the taking lens.
+
+THE REFLEX VIEWFINDER
+
+Modern reflex cameras divert light coming through the lens to a viewfinder, where the image is projected on a viewing screen. Many newer cameras have fiber-optic viewing screens, which are bright and allow you to see if the image is properly focused across the whole image. By comparison, center-focusing viewfinders have disadvantages: they give no impression of depth of field, and you may need to focus on a point that is not in the center of the frame, so changing focus in the middle of a shot can be difficult.
+
+Composition in the Viewfinder
+
+The relationship between what you see in the viewfinder and the frame that will ultimately be seen by the audience depends on the camera and format you’re shooting. Some viewfinder screens are marked with more than one frame line. For example, a 16mm viewfinder may show markings for the full 1:33 camera aperture, the 1.85:1 widescreen frame, and a TV safe action area (see Fig. 6-6). See p. 327 for more on TV cutoff and working with widescreen formats. Some viewfinders display an area that is even larger than the camera aperture and give you advance warning when objects, such as the microphone boom, are about to enter the frame, which is very helpful.
+
+Fig. 6-6. Ground glass viewfinder screen typical of 16mm cameras. Note the safe viewing area, which provides warning of things just outside the frame. Horizontal marks near the edge of the frame indicate top and bottom frame lines when shooting for 1.85:1 widescreen aspect ratio. On some 35mm cameras, the viewfinder includes a magnification system to enlarge the frame for critical focusing, and a lens to unsqueeze an anamorphic image. (Carol Keller)
+
+The Mirror Shutter
+
+In some cameras, light is diverted from the lens to the viewfinder screen by a mirror shutter. The mirror, either part of the shutter or rotating in sync with it, alternately allows all the light to hit the film, and then, when the shutter is closed, all the light to go to the viewfinder (see Fig. 6-7). One advantage of a mirror shutter is that when each frame of film is exposed, no light is lost to the viewfinder, so in critical low-light situations you have as much exposure as possible. A disadvantage of mirror shutters is that when the camera is running, the viewfinder image flickers, since light goes to the viewfinder only about half the time.
+
+One paradox of the mirror shutter is that you see an image in the viewfinder when the shutter is closed, but the viewfinder image goes dark when each frame of film is actually exposed. In some situations this can be misleading. For example, if you film a gunshot and see the flash of the gun in the viewfinder, it may not actually appear on film. Systems are available to synchronize gun triggers to the camera shutter.
+
+Fig. 6-7. Mirror shutter. (A) With the shutter closed, all the light is diverted to the viewfinder. (B) With the shutter open, all the light strikes the film and exposes it. Compare with Fig. 6-8. (Carol Keller)
+
+Beam-Splitter Reflex
+
+In an alternate design for reflex viewing, a partially reflecting mirror (pellicule) or a prism (beam-splitter) in the light path diverts some of the light to the viewfinder, letting the balance hit the film (see Fig. 6-8). This system is used in most Super 8 cameras. Anywhere from one-third of a stop to a full stop of light (depending on the camera) goes to the finder and does not contribute to exposing the film. The exposure loss can be serious in low-light filming. If the prism is in the camera body, an exposure compensation for the light loss is usually made by altering the shutter speed used for exposure calculation. For example, some 16mm Bolex cameras have 135-degree shutters (1⁄65 second at 24 fps), but the Bolex manual suggests that an exposure compensation be made by using an “effective” shutter speed of 1⁄80 second with your light meter.
+
+Fig. 6-8. Beam-splitter reflex. Some light is always diverted to the viewfinder, making it unavailable for exposing the film. (Carol Keller)
+
+The Diopter Adjustment
+
+The viewfinder eyepiece on reflex cameras can correct for the cameraperson’s near- or farsightedness. Make sure the diopter adjustment on the eyepiece is adjusted every time someone new uses the camera. The diopter does not affect the actual focus of the image on film, but it does affect your ability to see if the image is in focus. For most 16mm and 35mm cameras, adjust the diopter as follows: Remove the lens or open the iris diaphragm on the lens. Point the camera at a bright area; the sky or a bright wall will do. (If viewing through a lens, throw the image out of focus as much as possible.) Adjust the eyepiece diopter adjustment until the grains of the ground glass (on fiber-optic screens use the etched frame line) are as sharp as possible. Lock the setting in place.
+
+If you wear eyeglasses while shooting, adjust the diopter with your glasses on. Wearing eyeglasses during shooting makes it difficult, if not impossible, to see the whole viewfinder image. If possible, adjust the diopter for your eyes without glasses or wear contact lenses. If the camera’s diopter adjustment is not strong enough to correct your eyesight, a correction lens can be mounted in some eyepieces.
+
+The Eyepiece
+
+With video cameras, it doesn’t matter if your eye is near the viewfinder. With many film cameras, if your eye isn’t pressed up against the eyepiece, stray light can enter, travel through the reflex system in reverse, and fog the film. When you are filming without looking through the eyepiece, close the viewfinder light trap or place something against the eyepiece. On some cameras, the light trap can be set so that it opens when you press your eye up against the eyepiece and closes when you pull your head away.
+
+Some cameras have illuminated viewfinders that highlight the frame line, which can be a boon for shooting dark scenes. Condensation from your breath on a cold day can be a real problem. Some cameras offer heated viewfinders. Some people apply a little anticondensation coating to the viewfinder (never use this on the taking lens).
+
+The eyepiece is usually fitted with a rubber eyecup that cushions the eye (or eyeglasses) and helps seal out stray light. A foam or chamois cover will make it more comfortable.
+
+For tripod- or dolly-mounted cameras, use a viewfinder that extends to the back of the camera. For shoulder-mounted camera rigs, the ideal position of the viewfinder is close to the film plane, since this allows the camera to be better balanced. Cameras used in both tripod and handheld work should ideally have interchangeable finders.
+
+Fig. 6-9. ARRI 416 camera. Super 16 format, quick-change magazines, video assist, 1 to 75 fps (though a high-speed model runs up to 150 fps). (ARRI, Inc.)
+
+CAMERA FILM CAPACITY
+
+Magazines
+
+Some small cameras are designed to be used with film loaded on spools that mount inside the camera body. But most cameras use magazines (mags), which are detachable film chambers (see Figs. 6-1 and 6-10). The standard 16mm magazine is 400 feet, which runs 11 minutes at 24 fps (36 feet per minute). Some 16mm cameras accommodate 200- or 1,200-foot mags. Aaton makes an 800-foot mag that accommodates 800-foot film rolls. In 35mm, a 1,000-foot mag holds about 10 minutes of film (35mm runs at 96 feet per minute). Some 35mm cameras have 200-foot, 400-foot, 500-foot, or other size magazines. Large-capacity mags weigh more but allow more shooting between reloads.
+
+Some magazines, like Mitchell mags, mount on top of the camera and are made up of a feed compartment in front of a take-up compartment. A variant of this is called a displacement magazine, like the 400-foot mag for the Arriflex 16 BL (see Fig. 6-1). Here the feed and take-up are together in one smaller chamber. Coaxial magazines often mount behind the camera body and have the feed and take-up chambers side by side (see Fig. 6-9). Coaxial mags have the advantage of being lower profile for shooting in tight spaces and they don’t change the camera’s balance as the load moves through the camera, which can be an advantage for Steadicam work. Generally, if the magazine has separate compartments for feed and take-up, this facilitates threading, unloading partial rolls, and dealing with problems.
+
+In quick-change magazines, such as all Aaton mags and ARRI 16SR and 416 mags, much of the camera mechanism and the pressure plate are part of the magazine itself. This makes each mag more expensive and heavier, but it has the tremendous advantage that once magazines are loaded with film, they can be clipped on the camera with no additional threading. This can make all the difference in pressure-filled situations, especially in documentary shooting when the action won’t wait for you to reload.
+
+Fig. 6-10. Magazine for Aaton 35-III camera is open, showing feed and take-up in same compartment. (AbelCine)
+
+Loading Magazines
+
+Magazines may be loaded with film prior to the day’s shoot and then reloaded as necessary. Feature filmmakers may have a photographic darkroom available in either a studio or a truck. More typically, mags are changed using a changing bag, which is a lightproof, double-layered, double-zippered fabric bag (see Fig. 6-11). Look for a clean, dry place to work, with subdued light. Some people like to work on a table or flat surface. You can work on the floor, but this may introduce dirt. Some changing bags have a kind of tentlike design that gives you room to work with big mags. Some people prefer to load 16mm mags on their lap; your legs help keep things from sliding around. Also, a lap is good for many locations (like outdoors) where a good, clean surface may not be available. Cleanliness is essential, because any dirt on the film may lodge in the gate (see Checking the Gate, p. 268). Some people like to blow mags clean with a can of compressed air (like Dust-Off), a tank of nitrogen, or even a rubber bulb syringe. Be careful with any compressed gas: avoid blowing dirt into cavities in the mag or camera; also, the cold, expanding gas can damage mirror shutters. Some people prefer to clean mags with a paintbrush reserved for this purpose. You can also grab bits of dirt with a piece of tape, sticky side out, wrapped around a finger.
+
+Before loading, the changing bag should be examined for rips or tears. If you find one, do a temporary repair with gaffer’s tape or discard the bag. Turn the bag inside out and brush it clean with your hand. When not in use, zipper the bag closed and, if possible, keep it in a cover. When you’re in the bag, bring the sleeves above the elbows to avoid light leaks and don’t work in direct sunlight: find some shade or go inside.
+
+Develop a standard operating procedure for loading mags so you won’t get confused under pressure. Remove the moistureproof tape from around the film can before putting it in the changing bag. Hold the can closed and put it in the bag; you can put the can under the mag to make sure it doesn’t accidentally open while you’re closing up the bag.
+
+Fig. 6-11. A changing bag functions as a portable darkroom. (Ted Spagna)
+
+Once you’ve zipped up the changing bag with the film and clean mag inside, and gotten your hands in, you can open the film can. The end of the film will usually be taped down. Don’t lose track of this tape! It might end up jamming the camera. If you stick it on the inside of the can you’ll know where it is. You can reuse it to tape up the film after it is exposed.
+
+On some magazines, you just have to slip the film into the feed side in the dark and then you can do most of the threading outside the bag with the lights on. Be sure the feed roll pulls out smoothly. If the roll fights you or makes noise when pulled, it’s probably not seated properly. Never pull hard on any film roll or you might cause cinch marks.
+
+Nearly all raw stocks are supplied with the emulsion facing in (see Fig. 7-8). Some magazines take up with the emulsion facing in and others, emulsion out.
+
+Fig. 6-12. Attaching the film to take-up core. Fold the film over itself and insert it in the slot. Position the slot as illustrated—angled against the direction of the take-up to keep the film from slipping out. Rotate the core to wind up several turns of film. Some magazines take up with emulsion facing in and others face out. (Carol Keller)
+
+Many mags have a post to accept a standard 2-inch plastic core. When film is taken up on a core, attach it as shown in Fig. 6-12. Wind the film around the core several times in the direction it takes up, and make sure there is no bump where the film fits into the slot on the core (you may have to refold it). Generally, the camera gate should be brushed or blown clean before attaching the fresh mag. Make sure all loops are the right size (you can count the frames and some mags have markings to help measure the loops) and be sure they are centered properly so they don’t bind or rub. You should check the gate every time you change mags or more often.
+
+Some mags use a “core adapter,” which is a mechanical core that clamps shut on the film when you slide a lever. These have two disadvantages: it’s easy to accidentally leave them in the film when unloading; and many labs prefer that film be delivered with a core in it.
+
+Run a few feet of film through the camera to make sure everything is running smoothly. If you hear a fast ticking sound, your loops may be off. If you hear a low, slow rubbing sound, the film roll may have dished in the feed side, and needs to be gently pressed flat. Sometimes a firm slap with the palm of your hand on the side of the mag (take it off the camera first) will stop a roll from rubbing. With mags that have separate feed and take-up compartments, you can run the camera with the take-up side open to see if everything is okay, and check that the film is not being scratched (see p. 269 for a scratch test).
+
+Labeling and Managing Magazines
+
+After the mag is loaded, a piece of tape should be put across the latches to prevent accidental opening. The edges of the magazine covers are sometimes a source of light leaks that may fog film, especially with old equipment. Taping the magazine with camera tape along the length of the lid ensures against leaks (see p. 269 for a light leak test).
+
+The magazine should be labeled with a piece of tape or a sticker to identify its contents:
+
+The type of film (e.g., 7219).
+
+The emulsion and roll number from the film can’s label (see Fig. 7-7); this is useful if there are problems later.
+
+The length of the roll (e.g., 400 feet).
+
+The camera roll number (e.g., CR 55); this should be marked only after the mag is on the camera.
+
+The mag’s number or serial number (useful if scratches are found later).
+
+The date.
+
+In documentary shooting you may not have time to get everything down. Items 1, 3, and 4 are essential. Some people use color-coded tape for different types of stock. Never label two camera rolls with the same number!
+
+Have on hand spare cores, cans, and black bags for short ends (the unshot portion of a partially filmed roll).
+
+When the mag is put on the camera, each roll of film is normally slated at the head by shooting a card or clapper board with production name and company, camera roll number, date, and so on for a few seconds.
+
+UNLOADING MAGAZINES. When unloading exposed film, tape up the end of the roll and be sure the black bag is neatly folded before closing and retaping the can. If the roll is a little loose, don’t pull on the end to tighten it—you could scratch the emulsion or cause static discharge. Be sure to mark the can clearly as exposed. See Chapter 17 for labeling the can after the film is exposed and Chapter 7 for handling, storing, and shipping film stock.
+
+When magazines are reloaded during a shoot, some people prefer to unload the exposed film, remove it from the changing bag, and then go back in with the fresh stock. This avoids any confusion. With mags that have separate feed and take-up compartments, it’s faster to clean the empty feed side, put the mag and fresh stock in the changing bag, load the feed side, and—while you’re still in the bag—unload the exposed film into the can you just emptied.
+
+Magazines are often emptied at the end of the day’s shooting and should be emptied before air travel. When unexposed film is put back in a can (recanned), it should be labeled as noted above, except without the camera roll and mag numbers. Mark “Unexposed/Recan” and put the name of the person unloading in case there are questions later.
+
+SPARE MAGAZINES. Have at least one extra magazine. This lets you change mags if problems develop and allows you to load the next roll before it’s needed, saving time at what might be a crucial moment. When you use two different raw stocks (for example, a slow-speed film for interiors and a high-speed for exteriors), the extra magazine makes both immediately available. On a feature film it is common to have five or more mags. Some documentary crews load up a lot of film at the beginning of a day’s shoot so they can do without a magazine changer and keep the crew size to a minimum.
+
+Daylight Spools
+
+Film in 16mm and 35mm is supplied on cores (darkroom load) or daylight spools (see Fig. 6-13). You don’t need a changing bag for daylight spools, but load them in subdued light since bright light could fog the edges of the film. Integral head and tail leaders and the way the unexposed film is wound on the spool help prevent stray light from penetrating to the inner layers. After shooting, the film is not as protected.
+
+Most 16mm magazines have both core and spool adapters (sometimes you remove the core adapter to mount a spool). Though most magazines will accept daylight spools of up to 400 feet, spools are heavier than darkroom loads and may scrape against the side of the magazine, creating an annoying noise.
+
+Fig. 6-13. Cores and daylight spool. (A) 16mm core. (B) 35mm core. (C) 16mm, 100-foot daylight spool. (Carol Keller)
+
+Super 8 Cartridges
+
+Super 8 Cartridges are lightproof, but you should still avoid exposing them to direct sunlight. Don’t break the cartridge’s moistureproof foil until you load the camera. A notch in the plastic cartridge automatically sets the ASA number on many Super 8 cameras with automatic exposure. When using Pro8 negative stocks, it may be necessary to manually carve out the notch for proper ASA and filter settings on certain cameras. On many cameras, the footage counter resets to zero when the film compartment door is opened. Be sure to write down the footage if you open the door to check the gate or change film in the middle of a cartridge.
+
+OTHER CAMERA FEATURES
+
+Video Assist
+
+A video assist (also called a video tap) diverts some light from the film camera to an attached small video camera that allows you to watch the image on a monitor and/or record it on video. Video taps can be valuable for allowing the director or others to see the shot, for reviewing takes, and for logging or even editing footage prior to processing. A video assist can be crucial for Steadicam, crane, or car shots in which the operator can’t look through the camera. However, there can be some drawbacks. The image is an approximation of what is being recorded on film and often misrepresents what the image will eventually look like. Since you’re not actually seeing the film, you can’t know about a host of film problems, including scratches or even a run-out.
+
+Sound Dampening
+
+Camera noise on the sound track can be annoying in a documentary or disastrous in a fiction film. Even when filming without sound, a noisy camera can be disruptive. Noise calls attention to the camera and can distract subjects or alter animal behavior when doing nature filming.
+
+High-end 16mm and 35mm cameras designed for sync-sound work are usually very quiet. Camera noise can be dampened with a barney, which is a soft cover, sometimes made of lead foam. Barneys may cover the whole camera or just the magazine. In a pinch, a heavy coat or a sound blanket (see Chapter 11) can serve as a makeshift barney. White barneys can be used to reflect sunlight and keep the film cooler in hot weather. The heater barney keeps the camera warm when filming in very cold weather.
+
+In-Camera Timecode
+
+Timecode can be very useful in production and postproduction. Some film cameras can expose timecode along the edge of the film, which can be read after the film is developed (see Fig. 6-14). The Aaton/Panavision system uses both Arabic numerals (human readable) and a matrix of dots (machine readable). The Arriflex system uses a bar code instead.
+
+Many cameras are not equipped for internal timecode but can still employ timecode using timecode slates. See Chapter 11 for use of timecode during shooting and Chapter 16 for timecode in film-to-video transfers.
+
+Fig. 6-14. In-camera timecode. The camera exposes the timecode along the edge of the film. The AatonCode system uses both human-readable numbers and a machine-readable matrix of dots. (AbelCine)
+
+Multiple-Format Cameras
+
+Some cameras are capable of shooting more than one format. For example, suitably equipped Aaton and ARRI 16mm cameras can shoot either 16mm or Super 16. The camera must have a Super 16 gate and the proper viewfinder screen, and the lens must be shifted over (recentered on the frame) when changing between formats. Many 35mm cameras have a number of interchangeable gates and viewing screens for different aspect ratios and formats. Bear in mind that a lens designed for one format won’t necessarily cover the full frame of a wider screen format. For example, Super 16 lenses will cover the 16mm frame, but the reverse is not necessarily true (see Chapters 1, 2, and 16 for more on 16mm and Super 16).
+
+CAMERA TESTS AND MAINTENANCE
+
+Of the following tests, checking the gate is done regularly while shooting. The other tests are often done before a shoot, when checking out a camera from a rental house or other equipment supplier.
+
+CHECKING THE GATE. Dirt or bits of emulsion often lodge in the camera aperture and are exposed as dark lines or shapes at the edge of the picture (“hairs in the gate”). A good way to check the gate is to remove the lens and, from in front of the camera, examine the edges of the aperture with a lighted magnifier. You need to manually inch the motor forward so that the mirror shutter is open, giving you a clear view of the aperture and the film behind it. Some people prefer to check the gate through the lens. This takes practice and works well only with long lenses. Open the iris all the way, focus to infinity, and set a zoom to telephoto. Use a small flashlight to look around the edge of the frame. The advantage of this method is you’re less likely to introduce dirt while checking the gate (in a dusty location, for example). However, if there’s dirt you still have to take the lens off.
+
+To clean the gate, carefully insert an orangewood stick (sold as cuticle sticks for nail care in drugstores) and lift the dirt out of the frame. Never insert anything metal and don’t touch the mirror shutter or any of the optics. Compressed air may damage the mirror. Don’t forget to inch the motor forward after cleaning to close the shutter and return the mirror to viewing position. You can inch the film forward a few frames or run it a bit and check again to be sure the dirt is really gone.
+
+How often should you check the gate? The answer depends on the camera, the cinematographer, and the project. On a feature, the gate should be checked whenever a new film roll is begun and at least before the camera is moved from one setup to another. Some people check the gate after every good take (circle takes). Once you find a hair, you have the unpleasant task of trying to guess how long it’s been there, so the more often you check, the safer you are. On a documentary, you may only have time to check once a roll. Hairs are more critical in 16mm—where the edge of the gate forms the edge of the image—than in some 35mm formats where the full Academy gate may give you some extra clearance from the part of the frame you’re actually using. The gates on some cameras seem to naturally stay fairly hair-free, such as many Aaton and Panavision cameras. Dirty locations and soft film emulsions require more attention to the gate. Do everything you can when loading and cleaning magazines to avoid or remove dirt that might otherwise end up in the gate.
+
+SCRATCH TEST. Run a few feet of film through the camera, and remove the film from the take-up reel. Examine the footage for surface scratches by holding the film obliquely toward a light source. To locate the cause of a scratch, mark the frame in the aperture; unload the film and mark where the scratch begins; then thread the film with the first marked frame in the aperture, and note the location where the scratch begins. Then clean the gate, rollers, or other possible scratching surfaces. Test for scratches whenever checking out a camera or magazine for the first time, and check occasionally during use. Keep some short ends around for scratch testing, but use only film that hasn’t run through a camera gate before.
+
+FRAMING CHART. At the start of a production, it’s standard practice to shoot a framing chart to establish the framing and format you intend. Get a test chart that has frame outlines of different aspect ratios (charts are available from film labs and are downloadable from the Web). Shoot it head-on, at the same height as the camera, perpendicular to lens axis. Match up the lines on the chart to the frame lines of the viewfinder screen. Once developed, this becomes a framing leader that the lab, telecine operator, and postproduction team can use to match their systems to the framing of the particular widescreen or full-frame format that you’re shooting, ensuring that the compositions intended by the cinematographer are maintained. This also checks the accuracy of the viewfinder.
+
+LIGHT LEAK TEST. Light leaks show up on developed camera original as uneven fogging extending outside the picture area. If you detect light leak in your footage, it may come from poor handling when loading or unloading the magazines. To check a camera for light leaks, load it with unexposed raw stock and mark or expose the frame in the aperture. Move a bright light source (held a few inches from the camera) around from every angle, then develop the film and check for edge fogging. If edge fog is found, reload the footage, placing the marked frame in the aperture. Edge fog at any point locates the source of the light leak. When shooting, it’s generally good practice to tape the edges of a magazine to reduce the chance of light leak.
+
+OTHER TESTS. See Chapter 4 for lens focusing tests that may discover faults in the camera viewfinder or the adjustment of the lens mounting. Always check rushes for any defects (see Chapter 16) and immediately search for the problem. An image with total vertical blurring is a sign of a lost loop in the camera. Partial vertical blurring is a sign of a shutter timing error: the frame has been exposed while moving. The whole image moving in and out of focus (breathing in the gate) usually calls for pressure plate adjustment. Investigate any image flicker or unevenness in exposure.
+
+Camera Care
+
+Keep the camera clean. Don’t blow compressed air into the aperture or places where dirt can become lodged. Never use metal to scrape emulsion from the gate. You can use alcohol on a cotton swab to remove emulsion deposits, but take care not to leave any cotton fibers. Acetone damages some plastics. Use magazine covers, lens socket caps, and body caps to keep dust out of camera openings.
+
+Don’t run a camera without film at speeds higher than 24 fps.
+
+Hand-carry a camera on a plane if you can rather than checking it as baggage. When shipping, use rugged shipping cases, and detach the lens before shipping. Place all delicate equipment in foam-lined and fitted cases. Secure the camera on a car seat rather than leaving it loose on the car floor or in the trunk, where it will be subject to more vibration.
+
+When you use a battery belt connected to the camera by a cable, be careful not to rest the camera on a surface and walk away, pulling the camera along behind you (sounds like obvious advice, but you’d be surprised how often it’s been done). Use a coiled cable to minimize the risk. When you rest the camera on a table, don’t let the lens extend over the edge where it may be hit by an unwary passerby.
+
+Obtain the manufacturer’s operation and maintenance manual for special information on oiling and overhaul instructions for your camera. Try to assemble a group of tools and spare parts for field repairs.
+
+Shooter’s Ditty Bag
+
+Typical items in a cinematographer’s (or assistant’s) bag:
+
+Changing bag
+Camera tape (white and black)
+
+Camelhair brush
+Magnifying lens with light
+
+Compressed air in a can
+Orangewood sticks
+
+Clean paintbrush
+Lens tissue
+
+Spare cores, cans, black bags
+Lens cleaning fluid
+
+Depth of field calculator or app
+Small flashlight
+
+Light meter(s)
+Slate with color chip chart
+
+Marking pens (Sharpies)
+Swiss Army knife
+
+50-foot measuring tape
+Small video monitor
+
+Grease pencil
+Chalk
+
+Screwdrivers
+Needle-nose pliers
+
+Jeweler’s screwdrivers
+Set of Allen wrenches
+
+Adjustable wrench
+Tweezers
+
+Electrical multimeter
+Soldering iron, wire
+
+Crocus cloth for removing burrs
+Camera oil or grease

@@ -1,0 +1,774 @@
+Chapter III
+THE NATURE OE LIGHT
+AS
+the whole structure of photography rests upon the application of the science of physics and chemistry, the
+student of photography or of cinematography can never
+be too well informed upon these subjects. While we shall endeavor to merely touch upon the fnore important principles of
+physics and chemistry which are most intimately concerned in
+their relation to photography, it would be well for the reader,
+who is earnestly in search of information, to dig up his highschool text-books and study the subjects of the physics of light
+and the chemistry of the salts of silver. If he has no such books,
+he will find a mine of interesting information in the public libraries, which are so numerous over the country that there are
+very few who do not have access to them. He who has considered these subjects dull and uninteresting will find they contain an unsuspected interest when he comes to trace their relation
+to and use in photography. It is not necessary to go deep into
+these subjects to get the simple facts upon which photography is
+based. When one has a clear conception of these facts, they will
+form a firm foundation upon which to build a sound structure of
+photographic knowledge. New facts acquired will then fit upon
+this foundation like bricks into a wall. If the student is uncertain
+as to what books to consult to acquire the knowledge which he
+wishes, he may find some assistance in consulting the bibliography or list of suitable text-books given in another place in this
+volume.
+It is hardly two hundred years ago since people first had any
+adequate idea that our atmosphere exists and that we live and
+move about at the bottom of a sea of air—the weight of which
+presses upon us and all other objects about us with a pressure of
+approximately fourteen pounds to the square inch. With our
+present day knowledge gained from barometers, air-ships and
+balloons floating in the air, and from hundreds of other common
+facts, we accept the presence of the atmosphere as a matter of
+course.
+25
+
+MOTION PICTURE PHOTOGRAPHY
+The existence of an all pervading ether is, however, somewhat
+more difficult to grasp. Much like our knowledge of the air, its
+existence is only an inference from observed facts. Ether is an
+all-pervading medium in which the entire universe is submerged,
+and by means of radiation or vibration, are transmitted light,
+radiant heat, actinic radiation, X-rays, electro-magnetic oscillations, magnetism, and Hertzian waves. Of these forms of
+radiant energy, light, or those radiations which enable the eye to
+see objects, are the only ones with which we are to deal.
+Light is transmitted through the ether in straight lines, by very
+minute waves or vibrations, which travel with great rapidity.
+For purposes of comparison, we often refer to the similarity
+of light waves to sound waves, but sound waves are carried by
+h c- -H r
+r
+Fig. 1.
+A B represents a minute section of a ray of light traveling in the
+direction indicated by the arrows. The curved line represents light
+waves. The distance from crest to crest of two consecutive waves
+is the wave length designated by C. The distance Rr from the
+crest to the bottom of the curve is called the amplitude of vibration.
+the atmosphere at a comparatively slow rate. It will be noted
+when viewing the steam emitted by a whistle at some distance
+from the observer that the steam is seen some little time before
+the sound is heard, showing that the light waves from the object
+travel much more quickly than the sound. Ether waves do not
+correspond to sound waves in some other respects. For instance,
+sound waves are composed of alternate compressions and refractions, while the wave movement or displacement in light waves is
+from side to side at right angles to the direction in which the
+light wave is traveling.
+Figure one is an illustration of the movement of light waves
+from side to side as it might appear if it were possible to magnify
+a ray of light and render it visible. Light itself is not visible.
+When we say we see a ray of light, as we sometimes do when the
+
+THE NATURE OF LIGHT
+sun-shine falls through a window or through the foliage of trees,
+we do not actually see the ray of light—what we see is small particles of dust floating in the atmosphere which show us where
+the ray of light is passing. The particles of dust reflect to our
+eye a small portion of the light which comes through the window
+or between the leaves, as the case may be. In ordinary diffused
+light, these particles are too small to be seen, but under the strong
+light of the sun, each particle becomes a tiny luminous point.
+Fig. 2.
+This drawing is an attempt at showing figure one in perspective
+with the purpose of revealing the fact that the curved line of figure
+one not only extends up and down but in every conceivable direction at right angles to the direction of propagation A. B.
+For an experiment to prove this, turn the light of a projection
+machine on in a quiet room, and if the atmosphere has not been
+disturbed so as to stir up dust, the path of the light will not be
+visible, but if we stir up a little dust, or blow a puff of smoke in
+front of the machine, we will see the path of the light spring out
+so that we can see it distinctly.
+To return to the vibration of the ether waves back and forth
+in a ray of light, we see that in the first diagram the waves are
+represented as traveling like the crests and hollows of waves on
+
+MOTION PICTURE PHOTOGRAPHY
+water, which move forward without moving the water which
+composes them forward. This we know, because a boat floating
+upon water agitated by waves, does not move forward with the
+waves, but simply bobs up and down in the same spot. In the
+same manner, light waves pass through the ether without the
+ether moving forward in the direction of the waves. There is a
+difference in the light waves and the water waves, however; for
+while the waves in water move up and down only, the vibrations,
+or waves, which occur in the ether, take place in every conceivable direction—sideways as well as up and down. Figure 2
+represents a cross-section of a ray of light in which may conceive
+that the wave or ray is vibrating back and forth in every direction within the limits of a circle.
+Waves of light pass through any transparent medium, which
+may be air, glass, water, celluloid, amber, or any other substance
+through which we can see. As long as light travels in the same
+substance or medium, it goes forward in a straight line, but as
+soon as it strikes the surface of a different medium, it is deflected or bent at a slight angle, depending upon the nature of
+the substance, and does not bend again until it encounters another
+medium. This is called the rectilinear propagation of light, which
+simply means, as before stated, that in any particular medium
+—
+whether air, water or glass, light always travels in straight lines.
+The principal sources of light are from objects heated to a
+high temperature. The most common source of light is, of
+course, the sun, which is a heavenly body incandescently hot. In
+the arc light, the light is emitted by the carbon tips heated to incandescency by the passing of the electric current. Incandescent
+lights give forth light because their filaments are heated by the
+passing of the electric current. Ordinary kerosene lamp flames
+are luminous, because of the hot particles of carbon in the flame.
+Bunsen burners and alcohol lamps give forth very little light,
+because there are no solid particles in their flames to be heated
+to incandescency. There are exceptions to this rule of light
+being accompanied by heat, such as the glow of the glow-worm,
+phosphorescence of phosphorus, and light from some kinds of
+electric discharges. These exceptions are not very well understood and are seldom of any use in connection with photography.
+In the Cooper-Hewitt lamp, vapor of mercury is rendered incandescent by the passing of the electric current. A luminous
+28
+
+THE NATURE OF LIGHT
+body, that is, anything giving forth light, sends forth the light
+in all directions from itself, just as a pebble dropped on the
+surface of quiet water sends out ripples which leave the place
+where the pebble dropped in ever-widening circles. Do not become confused by the idea of the circle. Remember that any
+point on the crest of any of these ripples or waves has come
+<
+Fig. 3.
+This diagram roughly illustrates how a luminous point S radiates
+light outwardly in every direction like the radii of a sphere, in
+this case the figure represents a cross-section of such a sphere.
+outward from the pebble in a straight line. In a similar way,
+light waves move out in straight lines from their point of origin,
+not only in one plane, as the ripples do from the surface of the
+water, but in every direction. (Fig. 3.)
+29
+
+MOTION PICTURE PHOTOGRAPHY
+The velocity at which light travels is 186,000 miles per second
+;
+that is, nearly eight times the distance around the earth in one
+second. What increases the heat in a light source, increases the
+amount of light from that source, so by increasing the amount
+of an electric light current or energy through an electric arc light,
+its brightness is increased.
+The size of the waves or vibrations of light varies as do the
+size of the ripples in a pond when stones of different size have
+been thrown in, but no matter what size these vibrations possess,
+they move forward at the same speed or velocity. The ether
+waves produced by a luminous body vary from 20,000,000,000,000
+to 40,000,000,000,000,000 waves per second, and the wave length
+in ether accordingly varies from one 3,250,000th of an inch to
+about one 1,675th of an inch. Light waves, as they travel
+through ether, are all alike in every respect except that of size,
+and in that respect, they differ only in wave length and amplitude
+of vibration.
+In figure one, the distance from A to B represents a ray of
+light traveling in the direction indicated by the arrow. The
+curved line represents light waves. The distance from crest to
+crest of a wave is the wave length. The distance from the crest
+and in that respect, they differ only in wave length and amplitude
+of the vibration.
+Light waves of different lengths produce different effects when
+they strike a solid body. Those of the greatest wave length give
+the sensation of red light ; as the wave length shortens, the color
+changes to orange-red, then to orange, and so on through orangeyellow, yellow, yellow-green, green, greenish-blue, blue, blueviolet, and violet. Waves of shorter lengths than these cannot
+be seen by the eye at all, but they are still able to produce an
+effect upon a photographic plate. They are called ultra-violet
+waves, or actinic waves. There is no fixed line between actinic
+waves and visible waves; that is, between light which we can
+see and light which we cannot see, but which will have an effect
+upon a photographic plate, because most of the light, which we
+can see, also has an effect upon a photographic plate.
+Actinic light simply means the light which has the strongest
+action upon a photographic plate, whether visible or not.
+There are also light waves, which are so long that they are not
+visible, they are longer than the visible red rays and are called
+infra-red or heat waves.
+30
+
+THE NATURE OF LI G'H T
+The intensity of light refers to its brightness, for example, a
+sunshiny day possesses a more intense or brighter light (degree
+of illumination) than a cloudy day.
+The intensity of light diminishes in proportion to the square
+of the distance from its source. For instance, let us refer to
+Figure No. 4, which represents light rays emanating from z small
+source, such as an arc lamp or the flame of a candle. Let the
+square A represent screen one foot square placed at a distance
+Fig. 4.
+The intensity of light falling upon a given area varies inversely as
+the square of the distance from which it is removed from the light
+source. The black squares marked X are the whole, one-fourth,
+and one-ninth, respectively, of the larger squares A, B and C. A
+is one foot, B, two feet and C, three feet away from the light
+source S. The black squares being of the same size will receive
+less light as they are removed from the arc light.
+of one foot from the light and the square B screen placed at a
+distance of two feet from the light. These two squares are in
+a line with the light, square A exactly shades square B. If we
+remove square A the same amount of light which fell upon
+square A will now fall upon square B. Square B is twice the
+diameter of square A, or four times its area. Since the same
+amount of light which fell upon square A covers a surface four
+times as great as twice the distance, it follows that the intensity
+of the light falling upon B is only one-fourth of the intensity of
+
+HISTORY O F CINEMATOGRAPHY
+light falling upon A, or conversely, the intensity of the light
+falling upon A is four times the intensity of light on screen B.
+This law of illumination must be taken into account very particularly where artificial illumination is used, for if it takes a cer-
+\
+Fig. 5.
+When a ray of light strikes another medium of greater or lesser
+density than the one it is leaving then, unless it strikes exactly
+perpendicular to the surface of the new medium, it will be bent
+or refracted. Figure 5 shows a ray passing through a block of
+glass and suffering two refractions, one upon entering and one
+upon leaving. In this case the two surfaces being parallel, the
+first refraction is neutralized by the second and the light ray continues in its original direction slightly displaced but parallel to
+its original course.
+tain number of lights to illuminate a certain small set properly,
+it will require four times as many lights to properly illuminate a
+set which is only twice as large. Therefore, it is practically impossible to artificially illuminate a very large set since the limit
+of the practical number of artificial lights is soon reached.
+When light strikes an object, part of it is reflected or thrown
+
+5 i
+
+T IT E NATURE OF LIGHT
+back. It is because of this fact that we are enabled to see objects
+and to photograph them. The kind or quality of light reflected
+enables one to photograph objects. The violet light is quite
+active photographically, while the other end of the spectrum,
+red, is not.
+If the object reflects all blue or violet the photographic sensitive surface will be strongly affected and the object easily photographed, but if the object reflects yellow and red waves only,
+the sensitive surface will be only feebly affected.
+Fig. 6.
+Production of the spectrum by means of a prism.
+It is for this reason that photographic operations are carried
+on in dark rooms which are illuminated only by faint red or
+orange light. All dark room lights should be carefully tested
+by exposing a sample of the most sensitive surface that is 10
+be worked under the light in question for a greater period of
+time than such sample would be exposed under any ordinary
+working conditions. If on development the sample shows traces
+of fog, the light should be changed or its intensity decreased.
+When a certain color of light predominates, the unaided eye is
+not able to distinguish a contamination of another color, consequently wherever possible it is very desirable to make a spectroscopic examination of the light passed by screens used for dark
+room illumination.
+33
+
+HISTORY O F OINEM.ATOGRAPHY
+From this it will be seen that much depends upon the quality
+of light reflected in photographic work.
+Refraction—When light passes from one medium to another
+of different density it is refracted or bent as shown in diagram
+No. 5. The different colored rays being 'refracted or bent in
+different degrees. Upon this principle depends the construction
+of lenses.
+Dispersion is shown in diagram No. 6 that is, light in passing
+through a glass prism is separated into its component parts, and
+Showing the elementary character of a primary color. Primary
+colors cannot be further resolved into other colors.
+in case of white light into the spectrum colors violet, indigo,
+blue, green, yellow, orange and red.
+Absorption—When light falls on an object which neither reflects, refracts nor transmits, the light is said to be absorbed. No
+known substance is an absolute absorber of light ; that is, an absolute non-reflector. A flat or matte black surface comes the
+nearest to being a total absorber of light, but it is not possible to
+paint an object so black but what sufficient light will be reflected
+from it to reveal its details when brilliantly illuminated. Thus
+we see that what we call blackness is not caused by no light
+reaching the eye but when very little does. The blackest object
+
+THE NATURE OF LIGHT
+looks gray in comparison to what is called Chevreul's black,
+which is the darkness of the mouth of a dark cavern or a hole in
+a large box lined with black velvet.
+If the object reflects only red all the other colors are absorbed
+;
+if only yellow is reflected, then all others are absorbed. Again,
+if we use, as our incident light, any particular color of light
+Fig. 8.
+When light strikes a smooth reflecting surface such as a mirror
+or a pool of still water it is reflected back at the same angle at
+which it strikes or in more scientific terms the angle of reflection
+N, C, B in figure 8 is equal to the angle of incidence A, C, N,
+both angles being measured from a line perpendicular to the reflecting surface at the point where the reflection takes place. These
+two angles always lie in the same plane with the perpendicular
+line which is always at right angles to the reflecting surface.
+which happens to be wholly absorbed by the object, that object
+will appear black; if, for example, we look at a yellow and a blue
+flower by the yellow flame of a spirit lamp with common salt in
+the wick, the yellow flower appears distinctly yellow, for it does
+not absorb yellow light on reflection, but the blue flower looks
+black, for it absorbs all the yellow light and reflects none of it.
+We have briefly discussed four qualities of light. The entire
+35
+
+MOTION PICTURE PHOTOGRAPH v
+science of optics is embraced under these four sub-heads and
+the better we understand these properties of light the more intelligently will we be able to know how to illuminate a scene and
+what lenses to use, in order to obtain any photographic result
+that we wish.
+We have already found that light is propagated outwardly in
+straight lines in every direction from a luminous object. When
+it strikes a smooth reflecting surface, such as a mirror or a pool
+of still water, it is reflected back from the reflecting surface at
+the same angle at which it strikes, or in more scientific terms, the
+angle of reflection is equal to the angle of incidence, as shown in
+Figure 8. As we have become accustomed to visualizing objects
+as being in a straight line before us, since light always travels
+in straight lines, when we look into a mirror we do not see the
+Reflection of light from an irregular surface.
+mirror itself but the image which it reflects and the reflected
+image appears to be behind or beyond the mirror, since our habit
+of sight perceives the reflected object in that direction. If, however, the rays of light fall upon an object which is not perfectly
+smooth, each tiny particle which composes its surface presents
+a different angle to the light rays than its neighbor, so that the
+light will be reflected at a different angle from each of these particles. This light reflected from the rough surface has thus had
+its direction broken so that it travels in many different directions.
+This is shown in exaggerated form in Figure No, 9,
+
+•*_-
+' %-.-.>"' r -tS^^^^T^ ^jii W ^^^HMr
+ip-^r gjitf^ i * *r$
+ra9HT its. i "vi- 8R
+fUS ^
+^^^™ ^t-.-* "^^J^^My-^^Sl^^Mlit ^^ %H
+»c ^ w>^2^1
+
+THE NATURE OF LIGHT
+Such light is called a diffused light, thus, on a cloudy or hazy
+day, the light of the sun is diffused by its many reflections and
+re-reflections from the particles of watery vapor in the atmosphere. On a clear day the direct rays of the sun cast a dark
+shadow when any object is interposed between the sun and
+any surface upon which its rays fall, but when the light is
+diffused the reflected rays from many directions fall beneath
+the object, since the object is not in line with these reflected
+rays, and illuminate the surface beneath the object and we
+are not able to distinguish any perceptible shadows.
+Practically all interior illumination is diffused light, for we
+can only have direct illumination where the sun shines through
+a window or other opening. We find it necessary to diffuse
+the light in interior scenes in order to make them appear
+natural, for it is not yet possible in the majority of cases to
+obtain sufficient illumination in an actual interior to act upon
+a photographic film with sufficient intensity in the short time
+of the exposure necessary with the motion picture camera.
+We have to build our interior sets in a studio using the artificial
+lighting equipment to produce the proper effect. This equipment may be Cooper-Hewitt mercury arcs or the usual carbon arc behind spun glass screens. If the stage is an open
+platform, exposed to the sky, using natural or daylight for
+illumination it becomes necessary to suspend screens of thin
+white cloth called diffusion or halation screens above the set,
+to break up and diffuse the direct rays of the sun.
+We can all recall witnessing interior scenes taken in the
+direct sunlight where the pictures hung on the wall cast long
+oblique shadows and the characters, as they went through
+their actions on the screen, were each accompanied by a
+funereal silhouette which mocked every gesture in grotesque
+distortion upon the floor or wall. Happily, such scenes have
+now passed into the limbo of fading memories. When artificial lights are used, such as arc lamps, the light is diffused
+by ground or ribbed glass screens or with tracing cloth or
+similar material. The tubes of Cooper-Hewitt lights cover
+such an area that it is not usually necessary to use a screen
+for them, for the light, coming from so large an area covered
+by the tubes, is already sufficiently diffused.
+W
+T
+hen we produced the spectrum by passing a ray of light
+through a glass prism we found that the beam of light was bent
+37
+
+MOTION PICTURE PHOTOGRAPHY
+or turned to one side by the glass ; that is, the light was refracted.
+This refraction only takes place at the point of entrance between
+two mediums of different density. After being refracted at the
+surface the light continues to travel through the second medium
+in a straight line from the point of entry to the point where it
+emerges on the other side where a second refraction takes place,
+light again continuing to travel in a straight line. This angle of
+refraction varies according to the density of the medium in its
+relation to light and is always the same in the same medium, thus
+different kinds of glass and all transparent crystals and liquids
+have different angles of refraction. This angle of refraction is
+Fig. 10.
+Illustrating the relationship between lenses and prisms. If we
+consider a lens as consisting of innumerable small prisms built up
+around a common center this relationship will become apparent.
+called the index of refraction. These indexes of refraction have
+been measured by mathematicians who make calculations for
+manufacturers of lens and predict all of its properties before one
+has been made. Such calculations are, however, far beyond the
+scope or needs of any ordinary photographer.
+In Figure No. 10, we have a point from which emanates rays
+of light. Suppose we take a number of prisms with varying
+angles as illustrated in the diagram, the angle of each being such
+that each ray which passes through each prism is refracted to
+the point so that each of these rays is again collected at this point.
+Let us now examine the line of prisms which we have thus placed.
+The central prisms have sides which are nearly parallel, which
+progress outward from the center, the angle increases until the
+two faces come together. We will now replace the line of prisms
+
+THE NATURE OF LIGHT
+with a lens covering practically the same range as the prisms as
+in Figure No. 1 1. We find that the lens also gathers all of
+the rays as the prisms did and refracts them again to the same
+point so that we can consider the lens as a number of prisms
+rounded off into a single piece, or speaking still more exactly,
+Fig. 11.
+This is the same as Figure 10 with the proper curved surfaces substituted for the angular surface of the joined group of prisms.
+>t)>
+If we take two luminous points, A and B, we find that the lens
+will form images of these two points as a and b. The point A
+being on the principal axis of the lens its image will be formed at
+a, also on the principal axis any motion of B will cause a
+diametrically opposite motion in b.
+that the lens is a continuation of an infinite number of prisms,
+the flat surfaces of which are too small for the eye to detect. This
+infinite number of surfaces, or points, we find ranges itself into
+the segment of a circle. This refraction of rays emanating from
+a point back to a point again is termed a "point of focus."
+If we now take two luminous points at the same distance from
+
+MOTION PICTURE PHOTOGRAPHY
+the lens but separated a short distance from one another, as in
+Figure No. 12 we will find if we have a screen for the rays to
+fall upon, that the two points will be reproduced side by side in
+exact miniature on the screen, but that the point of illumination
+which is above the original point of illumination is reproduced
+below the point of the original point of focus of the first point.
+If we now move this screen closer to or farther away from the
+lens, we find that the point of light enlarges in a circle of illumination. This is termed the circle of confusion. By moving the
+screen back and forth we also find that there is only one position
+in which the points of illumination are perfectly reproduced. If,
+however, we now move one of these points of illumination to a
+much greater distance than the other, we find that while one is
+sharp and distinct the other forms a small circle of confusion
+and that when we move the screen so that the more distant one
+is in focus, that the other becomes a circle of confusion, or out of
+focus, as it is termed. If, however, we move the two points
+closer to one another, but still at different distances from the
+lens, we find that we can bring them both to a focus on the screen
+or rather, so nearly to a focus that the eye is not able to distinguish the difference in sharpness between the two. This
+difference of distance between the two points of illumination is
+called the depth of focus.
+Let us now take the points of illumination, as in Fig. 13, with
+one of the points focused sharply. If now we interpose a piece
+of black cardboard, in which a small round hole has been cut,
+close to the lens so that this hole is near the center of the lens,
+we find that the brightness of the images is much decreased but
+that the image of the point which was out of focus is now much
+sharper. Let us refer again to our Fig. 13. Our images are not
+nearly so brilliant because much of the light which formerly
+came through the lens has been cut off by the piece of black cardboard ; but as the cardboard has narrowed down the angle which
+the light ray takes from the lens to the focal plane, we have narrowed down, or made smaller, our circle of confusion.
+Up to this point we have only considered light as it emanates
+from a point, but now we are ready to consider any object which
+may be reproduced by a lens as an image. In photography, practically all images that we have to consider are delineated or
+formed in one plane; that is, either upon the flat surface of a
+
+THE NATURE OF LIGHT
+photographic plate or upon a film stretched flat or upon a piece
+of photographic paper, as in a photograph, or upon a screen in
+a moving picture theater, so that no matter by what means we
+Fig. 13.
+Let us take the points A and B in these two diagrams. In both the
+upper and lower diagrams the image of A will formi in the plane a
+and that of B will form in the plane b. It is in these two planes
+that the sensitive surfaces should lie to render sharply the images
+of A or B as the case may be.
+We desire to receive both of these images however on the plate at
+once and utilize the two following means for obtaining the result.
+First we compromise between the two planes a and b and place
+our plate in the plane "C." We do this because the circle of confusion at C, is common to both and is the smallest mean between
+the planes a and b. This compromise prepares us for better
+results in our 2d procedure. This consists of placing
+a diaphragm close to the lens. This diaphragm is a piece of
+black cardboard with a smooth, round hole in it and its function
+is to diminish the angle on the rays of light that represent the
+extremes of the cones of light which form the images a and b.
+This has the desired effect of reducing the size of the circles of
+confusion at C to an inappreciable size. This size depends on the
+distance between A and B and on the size of the hole in the
+diaphragm. A circle not greater than 1/100 inch is permissible in
+stills but for the cinema film one of 1/400 inch is about the limit
+of size.
+produce a photographic image it is practically always done upon
+a flat surface. Let us for the purpose of our analysis, consider
+any object or any image as being composed of a collection of a
+
+MOTION PICTURE PHOTOGRAPHY
+vast number of small points of different degrees of illumination,
+placed beside each other forming an infinitely fine mosaic which
+delineates the object or image which we have under consideration.
+To make this point clearer, inspect very closely with the naked
+eye, or better still, with a small magnifying glass, any half-tone
+cut in this or any other book or paper and you will see that the
+entire picture is formed by small dots of varying sizes which
+make up the picture. In the same manner we may consider any
+object or image as consisting of an infinite number of small points
+not necessarily arranged in mechanical order as in a half-tone
+cut. This mechanical sequence in a half-tone is merely a method
+of surmounting certain mechanical difficulties in photo-mechanical
+Fig. 14.
+Production of an image by a lens.
+reproduction, the size of the dot representing the intensity of
+illumination of that particular portion of the picture which it
+represents.
+There are many other processes of photogravure too complicated for ordinary book production in which the dots are
+arranged in irregular order or in which the light intensity is
+registered by other means, such as the Mosstype, the Albertype
+and various photogelatine and lithographic processes.
+We have already seen that all objects reflect a certain percentage of light. If by means of a lens we can focus the luminous points which delineate an object upon a flat surface, we must
+necessarily obtain an image of that object upon the focal plane,
+as in Fig. 14.
+42
+
+THE NATURE O F L I G IT T
+This image is always reversed and inverted; that is, like a
+mirror reflection turned upside down. By again referring to
+Fig. 14 we see the reason for this. All of the light rays emanating from A on the tree which strike the lens are condensed
+and brought to a focus at the point a in the image. Likewise,
+Fig. 15.
+Indistinct image caused by overlapping circles of confusion.
+all of the rays which strike the lens from the point B are focused
+at the point b in the image; in a like manner all of the other
+points on the surface of the tree are delineated on the screen
+without rendering the diagram too complicated by trying to
+reproduce the path of the light rays from all of the other points
+on the tree. If we move the screen a small distance in either
+Fig. 16.
+Doubic inversion by means of two lenses.
+direction from the focal plane the image becomes blurred and indistinct, since our points of illumination then become overlapping
+circles of confusion, as in Fig. 15. The image ab in Fig. 14 is
+termed a real image, because it may be focused upon a screen and
+to distinguish it from certain other images which we will consider later, which can be seen but which cannot be focused upon
+a screen and which are termed virtual images. This image may
+43
+
+MOTION PICTURE PHOTOGRAPHY
+be again focused by another lens which again inverts the image,
+as in Fig. 16.
+In Fig. 17 we have a diagram of the ordinary telescope in
+which the real image has been twice enlarged, in order that the
+Fig. 17.
+Diagram showing the path of the light rays in an ordinary telescope.
+eye may see the enlarged image as an erect object. As it is of no
+consequence that the image be inverted in an astronomical telescope, it is provided with only two sets of lenses and the image
+is enlarged but once, the large lens, or objective, being made as
+Fig. 18.
+Light dispersion caused by an uncorrected lens.
+large as possible in order to collect all of the possible light from
+dim and distant stars. The image formed by this large objective
+with great light collecting power being then examined by a
+magnifying eye-piece selected by the astronomer as being most
+suitable for whatever investigation he is conducting; large astronomical telescopes being provided with a number of eye-pieces
+
+{Courtesy of the Universal Film Company)
+A HAZARDOUS POSITION.
+
+THE NATURE OF LIGHT
+of various degrees of magnification. When photographs are
+taken of heavenly bodies the eye-pieces are removed and the
+photographic plate inserted in the tube of the telescope at the
+proper focal distance.
+In our experiments with the prism, we learned that the glass of
+the prism had not only the power of refracting or bending the
+light, but also of dispersing or separating it into its component
+colors, and in our previous experiments with a single lens we will
+have noticed, if we have observed closely, that the images which
+we produced were fringed with prismatic color. In diagram iS
+Fig. 19.
+Correction of dispersion by lens elements of different kinds of glass
+we see the reason for this, the blue and violet rays being refracted
+to a greater extent than those of the other end of the spectrum.
+Very happily for photographic purposes, the light refracting
+power and the dispersive power of different kinds of glass are
+very different and not interdependent so that we are able to produce by cementing together, as in Fig. 19, or sometimes only
+mounting together in a metallic mount, lenses from certain combinations of different kinds of glass in which one kind counteracts
+the dispersive power of another kind and thus the different colors
+are brought to a focus at the same point. It would be very inconvenient to make a mathematical calculation and a very fine readjustment of a ground glass from the visual focus to the actinic
+focus of a lens every time we wished to take a photograph.
+This correction for visual and actinic focus is thus very impor-
+
+MOTION PICTURE PHOTOGRAPHY
+tant and is one of the principal reasons an ordinary magnifying
+lens is not suitable for making photographs.
+It is an unfortunate fact that there are on the market today
+some makes of cinematographic lenses which are not fully
+corrected for visual and actinic focus. The writer was at one
+time compelled through force of necessity, to use such a lens,
+and it was only after making many tests to obtain a focusing
+scale or by focusing upon an object at a certain ratio of distance
+nearer the lens, that he was able to produce pictures of satisfactory sharpness with it. As it is never necessary to change the
+focal distance from infinity in astronomical photography, no attempt is made to correct telescopic objectives since, when actinic
+focus is- once obtained, it is never necessary to change it.
+The lens is the agent by which the light is directed to the
+right spot in forming the image depending upon the refraction
+of light. But before taking up the consideration of this important piece of apparatus for photographic work it will be necessary
+to explain what we mean by the "Optics of Photography" as
+distinguished from the optics of other sciences, such as those of
+the telescope and the microscope.
+The chief distinctions are of two kinds: 1st, in photographic
+optics, the lens must be capable of transmitting and bringing
+to a focus in the same plane oblique and axial rays of light,
+as shown in Fig. 20.
+The principal lens or objective of the telescope will not give a
+sharp image of an object if removed a slight degree from the
+axis or perfect squareness of position in relation to the line of
+light. Hence, the sharpness of the image produced by the
+objective of the telescope is confined to a small area close to the
+axis. The photographic lens, on the other hand, must be so
+constructed that it will give a sharp image of objects in front
+of the center of the lens and also of those that are situated to a
+certain extent on each side of the center.
+2d. The photographic lens must also be so constructed that it
+will bring to a focus at the same spot the chemical and visual
+rays of light. If not corrected, the lens will act as a prism and
+separate the light into its component parts and produce the
+spectral or rainbow fringe around the edges of the image.
+The violet or active end of the spectrum is brought to a focus
+close to the lens and the red at the greatest distance. The
+
+THE NATURE OF LIGHT
+yellow, which is brightest visually, is also further from the lens
+than the active violet. In focusing' visually, the plane of the
+yellow would be sharp, but in photographing the sensitive surface would have to occupy the plane of the violet. The result
+would be that the image of the object focused by the eye would
+be a blur in the photograph. The photographic lens must be so
+constructed that the image of the object will appear sharp and
+clearly defined to the eye, and be equally sharp as a result of the
+Fig. 20.
+A cross section of a photographic objective, one of the combinations
+consisting of uncemented elements and the other of cemented lenses.
+chemical rays, when it is developed upon the photographic plate.
+Such a coincidence of the chemical and visual rays does not exist
+in the telescope or the microscope, but only in the photographic
+lens. In the telescope and the microscope, which are constructed
+for visual work, it is not necessary.
+To sum up these remarks it can be stated briefly that photographic lenses transmit oblique as well as axial rays and bring
+them to a focus in the same plane; and also bring the chemical
+and visual rays of light to a focus at the same spot.
+This brings us to the consideration of the photographic lens
+and the principles which underlie its construction. By a lens is
+understood a piece of clear glass bounded by polished curved
+surfaces. The various forms of simple lenses are divided into
+two general classes
+:
+
+MOTION PICTURE PHOTOGRAPHY
+{ist. Double Convex.
+2nd. Piano Convex.
+3rd. Convexo-Concave.
+fist. Double Concave.
+Negative or Diverging^ 2nd. Piano Concave.
+[ 3rd. Concavo-Convex.
+The first are thickest in the center, while the second are
+thinnest in the center.
+Fig. 21.
+A, B, C, positive or converging lenses. D, E, F, negative or
+diverging lenses. A, double convex; B, plano-convex; C, convexoconcave or meniscus; D, double concave; E, plano-concave; F,
+concavo-convex.
+These simple forms may be made up of one single piece of
+glass or they may be composed of several cemented together, as
+will be seen later. Diagram 21, illustrates these forms of lenses.
+All lenses, whether considered singly or in combination, have
+the following properties
+:
+1. Principal axis.
+2. Optical center.
+3. Principal and conjugate foci.
+4. Nodal points.
+ist. Principal axis of a lens is a line passing through the
+thickest part of positive lenses and thinnest part of negative
+
+THE NATURE OF LIGHT
+lenses, perpendicular to the surfaces of the lens, as in diagrams
+No. 22 and No. 23.
+2d. The optical center of a lens is the point from which focal
+measurements are made. This does not refer to a photographic
+objective which (in other than single view lenses) is a combination of lenses and quite another matter for the reason that a
+combination may have its optical center at a number of places
+according to the circumstances under which it is employed. The
+Fig. 22.
+Nodal point within the lens.
+positive optical center of a lens is determined by its form as
+follows and shown in diagrams No. 22 and No. 23.
+Draw two parallel radii AB and ab one from each center of
+curvature, and both inclined to principal axis ; then connect the
+two points B and b at which they touch the curved surfaces of
+lens. The point O, at which the line connecting B and b cuts the
+principal axis, is the optical center. In most cases the optical
+centre is within the lens itself but in some cases as with telephoto
+combinations and single meniscus lenses it may be some distance
+outside the lens. Such an example is shown in Fig. 23.
+3d. Conjugate foci. If a lens which has been carefully
+focused upon a distant object be then directed toward one comparatively near at hand, the nearer object will be found to be
+
+MOTION PICTURE PHOTOGRAPHY
+out of focus, necessitating the withdrawal of the ground glass
+from the lens before the image will assume its maximum sharpness. This establishes the fact that there exists a relation between the object that is focused, as regards its distance from the
+camera, and the focus of the lens. This relation is termed "conjugate foci." Foci is the plural of focus; conjugate means combined in pairs ; kindred in meaning and origin. Conjugate foci
+are then the distances from the lens to the image and from the
+Fig. 23.
+Nodal point outside the lens.
+lens to the object. Hereafter we will speak of the distance between the lens and the object as the anterior or major conjugate,
+and that existing between the lens and the ground glass of the
+camera, as the posterior or minor conjugate focus. Parallel rays
+aa—that is, rays from a great distance—falling upon a lens come
+to a focus at f ; but those from b, which may serve to represent
+any object ten or twenty yards distant, have their focus at c
+(Fig. 24). Then fo is the solar focus, bo and co are conjugate
+foci. The former of these is the anterior, and the latter the
+posterior conjugate. To facilitate reference, the lines indicating
+the conjugate foci are solid, while those relating to the solar focus
+
+THE NATURE OF LIGHT
+are dotted. The points b and c are interchangeable ; an object
+placed at either is sharp at the other.
+Rule for Conjugate Foci. Now for every position of the
+object there is a certain position of the camera, and these two
+distances, the distance of the object from the lens and of the
+lens from the plate, are called conjugate foci.
+Fig. 24.
+Conjugate foci.
+A very simple mathematical rule connects the distance from
+lens to object (D) the distance from lens to plate (d) and the
+enlargement or reduction of the object (i.e., the number of times
+a given line in the object is larger or smaller in the image).
+Note the word line, because some prefer to calculate reduction
+Fig. 25.
+Determination of Conjugate foci.
+and enlargement on the basis of area, which introduces different
+conditions.
+Let F be the focal length of the lens and r the ratios of enlargement or reduction.
+Then the distance d is equal to F plus F divided by r. Expressed more shortly
+:
+51
+
+MOTION PICTURE PHOTOGRAPH Y
+F
+d= F plus —
+.
+r
+On the other hand, D equals F plus F multiplied by r, or
+D= F plus F x r.
+An example will show how simple this rule is. Suppose one
+wants to reduce a picture so that a twelve-inch line becomes three
+inches—i. e., r= 4.
+If a six-inch lens is being used, d (camera extension) =6 plus
+6/4= 6 plus lYz= 7J^ inches, and D= 6 plus 6x4= 6 plus
+24 == 30 inches.
+Bear two other things in mind which will help to use this
+formula: (1) Positions of image and object are reversible. If
+we were enlarging 3 inches to 12 with a 6-inch lens we should
+place the lens and negative 7^ inches apart and the paper 30
+inches apart. (2) The smaller conjugate is just r times the
+larger, e.g., 7^ x 4= 30. This is always the case, and is useful
+as a check on calculation.
+52
+
+THE INSTITUTE STANDARD CAMERA. POPULAR MODEL.
+THIS IS THE MOST INEXPENSIVE HIGH QUALITY NEWS
+AND STUDIO CAMERA MADE. IT IS SOLD BY THE NKW
+YORK INSTITUTE OF PHOTOGRAPHY.

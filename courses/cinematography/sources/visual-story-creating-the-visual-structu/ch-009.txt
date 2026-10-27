@@ -1,0 +1,423 @@
+CHAPTER 4
+
+Line & Shape
+
+Line
+
+Line is an extremely important visual component because it communicates visual intensity and is also critical to the visual components of space, shape, movement, and rhythm.
+
+How do we see lines? We see lines because of tonal contrast. For a line to be visually useful, it needs to stand out from its background. Any line can be revealed or hidden depending on its tonal relationship with the background.
+
+ 
+
+These three horizontal lines and their backgrounds demonstrate how tonal contrast is required to see line. Line #1 is black, so it disappears on a black background. Obviously, the tonal affinity of black-on-black hides the line. The black line is most visible when it’s surrounded by a white background creating tonal contrast. Of course the gray Line #2 disappears when its background is the same gray. The gray line is most visible when it contrasts tonally with the white or black background. The white Line #3 is revealed by the black background and disappears when its background is white. Although it’s obvious that lines require tonal contrast to be seen, this critical concept is constantly overlooked or ignored in practical production. Many picture makers incorrectly believe that every line, regardless of its tonality, will be visually useful and apparent to the audience.
+
+ 
+
+These two shots, taken from different scenes of Do The Right Thing, reveal the importance of tonal contrast in making lines visually useful. In the left photo the diagonal curb does not create a line because it lacks tonal contrast. In the right photo the same diagonal curb becomes visually useful because the dark water has tonal contrast with the light gray sidewalk.
+
+Tonal contrast explains how we see lines. There are seven ways that explain where we see lines.
+
+1. EDGE
+
+We see lines around the borders of two-dimensional objects. This is called edge.
+
+ 
+
+This drawing of four lines represents a piece of paper. The paper has height and width, but no depth, so the paper is a two-dimensional object. When you look at this drawing of four lines you imagine a piece of paper. We know paper doesn’t have any actual lines around it, but we accept this drawing of four lines as a representation of the edges of a two-dimensional piece of paper.
+
+When the white paper is placed on a dark background the tonal contrast makes it easy to see the edges, or what we perceive as four lines, of the paper. When the same paper is placed on a white background, the tonal affinity causes the paper’s lines to disappear. Without tonal contrast, lines don’t exist.
+
+ 
+
+A shadow cast onto the two-dimensional surface of a wall is an example of edge. The dark shadows have tonal contrast with the bright wall so the shadow’s vertical and diagonal lines are easy to see.
+
+2. CONTOUR
+
+The apparent line around the border of three-dimensional objects is called contour. Most objects in the real world are three-dimensional, having height, width and depth. We see lines when there’s tonal contrast between the three-dimensional object and its background.
+
+When a black ball is placed on a white background the tonal contrast makes the ball’s circular line visible and visually useful. A gray ball on a gray background creates tonal affinity so the circular line and the ball almost disappear. There aren’t any visually useful lines in the shot with tonal affinity.
+
+ 
+
+The three-dimensional objects in this shot create strong lines because their contours have tonal contrast with their backgrounds.
+
+3. CLOSURE
+
+Primary points of interest in a picture can cause the viewer to add imaginary lines between the points. Creating these imaginary lines is called closure.
+
+ 
+
+Although this is a drawing of four dots, the viewer connects the dots with imaginary lines and sees a square. These primary points are usually people’s faces or other important subjects that attract the viewer’s attention. To create closure, the primary points need tonal contrast with their background.
+
+ 
+
+Here, the primary points are the actors’ heads. The closure creates a triangle and a diagonal line. Notice the tonal contrast between the actors’ faces and the background.
+
+4. INTERSECTION OF PLANES
+
+When two planes meet or intersect, they can create a line.
+
+ 
+
+Intersection of two planes occurs most often in architecture and manufactured objects. The corners of walls, floors, ceilings, structural beams, windows, and doorways create lines if there is tonal contrast between the two planes.
+
+ 
+
+The BG vertical lines are created by the intersection of two planes. The tonal contrast between the planes emphasizes the lines and makes them visually useful.
+
+5. AXIS
+
+Many objects have an invisible line or axis that runs through them, which can be perceived as a line.
+
+ 
+
+These actors each have a vertical axis. The axis is obvious because of the tonal contrast between the dark costumes and the bright hallway. The actors also create vertical lines due to contour.
+
+ 
+
+In this example the actors’ axis and contours both create diagonal lines. The hillside’s contour adds an additional diagonal. The lines are emphasized by the tonal contrast of the bright sky behind the actors and hillside.
+
+ 
+
+Here, the horizontal axis on the actor is difficult to define and not visually useful because of the tonal affinity between the object and its background. Tonal affinity will always weaken or remove lines.
+
+ 
+
+Not all objects have an axis. A square and a circle have no definite axis. A rectangle and oval have an obvious axis (indicated with dotted lines).
+
+6. IMITATION THROUGH DISTANCE
+
+When an object is far away its shape will be reduced and may appear to imitate a line.
+
+ 
+
+Electrical towers are constructed with wide steel beams, but when viewed from a distance the beams look like lines. The same is true for the partially constructed building which appears to be a collection of vertical and horizontal lines. These lines will only be visually useful if they have tonal contrast with their background.
+
+7. TRACK
+
+Track is the path of a moving object. As any object moves, it creates a track or line. There are two types of tracks: actual and virtual.
+
+7A. ACTUAL TRACKS
+
+When some objects move, they create a visible track or line.
+
+ 
+
+A skywriting airplane leaves behind a track of smoke. A skier moving down a snowy mountain makes a track in the snow. The plane’s smoke and the skier’s tracks in the snow are also examples of imitation through distance.
+
+7B. VIRTUAL TRACKS
+
+Most moving objects don’t create a visible track, but they do generate a virtual or imaginary track.
+
+ 
+
+A flying bird generates a virtual track. The line left behind by the bird exists only in the viewer’s imagination. A moving car, a running person, and a bouncing ball are examples of objects that create virtual tracks.
+
+Linear Motif
+
+Any picture can be reduced to its basic lines, which reveals the linear motif. Seeing and understanding linear motif is critical to organizing the visual structure of lines in your production. A picture’s linear motif can be any combination of circular, straight, vertical, horizontal, or diagonal lines.
+
+ 
+
+ 
+
+A picture’s linear motif is found by emphasizing its tonal contrasts. A high-contrast version of this shot from Hollywood Story reveals its vertical linear motif.
+
+There are two ways to reduce any picture to its linear motif. Many cinematographers use a contrast-viewing glass. Looking at a shot through a contrast-viewing glass increases the image’s contrast, eliminates distracting details, and reveals the linear motif. Another method for revealing the linear motif is to squint at the picture. Squinting also eliminates details and exaggerates the tonal contrasts of an image.
+
+ 
+
+Although this shot already has strong tonal contrast, squinting at the photo makes the diagonal linear motif even more obvious.
+
+ 
+
+If you squint correctly, you should see something like this high-contrast version of the shot. When you squint, the gray concrete darkens, the people disappear, and the brighter diagonal lines are emphasized.
+
+Contrast & Affinity
+
+Lines can create contrast or affinity in three ways: orientation, direction, and quality. Remember that contrast and affinity can occur within the shot, from shot to shot, and from sequence to sequence.
+
+1. ORIENTATION
+
+Orientation is the angle or position of lines created by non-moving, stationary objects. Most linear motifs are due to orientation. Architecture, furniture, paved streets, tree trunks, and natural terrain are examples of non-moving objects that can create lines using orientation. Orientation lines can be horizontal, vertical, diagonal, or circular.
+
+ 
+
+Squint at this shot and see which lines survive and which lines disappear. The linear motif in this example is almost entirely verticals and horizontals.
+
+ 
+
+The lines in these shots are created by orientation. Squint at the pictures. The linear motif of each shot is revealed in the lower set of diagrams. Each shot is an example of affinity of line orientation within the shot. The horizontal line is the least intense, the vertical line is more intense, and the diagonal line is the most dynamic or intense.
+
+ 
+
+Maximum contrast of line orientation within the shot occurs when the linear motif uses only diagonal and horizontal lines.
+
+ 
+
+These two pictures illustrate shot-to-shot linear motifs that have maximum contrast of line orientation. The horizontal motif (least intense) has maximum contrast with the diagonal (most intense).
+
+ 
+
+Maximum affinity of line orientation from shot to shot is illustrated by these pictures with the same vertical linear motif. The affinity can be horizontal, vertical, or diagonal.
+
+ 
+
+A linear motif can be created by lighting or by the object’s tonal range. In the left photo the diagonal lines are due to the cinematographer’s lighting and shadows. In the right photo the diagonal motif is created by the art director’s selection of paint.
+
+2. DIRECTION
+
+Direction is the angle or position of lines created by moving objects. These lines are called tracks.
+
+ 
+
+The arrows indicate the track made by moving objects. Notice that all of the object movement is parallel to the picture plane. There can’t be any actual movement in depth because screens are only two-dimensional.
+
+ 
+
+The tracks of these moving objects are horizontal, vertical, and diagonal.
+
+ 
+
+Affinity of line direction within the shot is created when two or more objects move in the same direction.
+
+ 
+
+Horizontal and vertical movements within the shot have maximum visual contrast or intensity.
+
+ 
+
+A similar visual intensity is created by horizontal and vertical movement from shot to shot.
+
+3. QUALITY
+
+Quality refers to a line being straight or circular.
+
+ 
+
+Lines 1 and 2 have affinity of quality of line. Lines 1 and 4 have maximum contrast because one is straight and the other circular.
+
+A shot’s linear motif incorporates orientation, quality, and, if there’s object movement, direction. When defining a linear motif it’s essential that you evaluate the lines in terms of the two-dimensional screen world, not as you understand the lines in the real, three-dimensional world.
+
+ 
+
+In the real world this fountain has two circular bowls. But in the screen world the bowls are not circular.
+
+ 
+
+Adding tonal contrast reveals the shot’s linear motif. On a two-dimensional surface, the upper circular fountain bowl is almost a straight line. The lower bowl lacks tonal contrast and disappears in the tonal affinity. The only visually useful circular lines are the arches in the background.
+
+ 
+
+This shot from Traffic illustrates affinity of line quality within the shot. All of the lines are straight. The affinity keeps the visual intensity low.
+
+ 
+
+Another scene from the same film, using straight and circular lines, illustrates contrast of line quality within the shot. This contrast in the linear motif creates visual intensity.
+
+ 
+
+Both of these shots use only straight lines and illustrate affinity of line quality from shot to shot. The affinity keeps the visual intensity low.
+
+What moods, emotions, or ideas can lines communicate to an audience? Horizontal lines are the least intense and are often associated with these adjectives: calm, quiet, weak, and simple. Verticals are described as confrontational, strong, ordered, and bold. Diagonals are associated with movement, aggression, and conflict. Generally speaking a straight line is associated with these characteristics: direct, strong, artificial, ordered, and rigid. A circular line is: indirect, childlike, romantic, soft, organic, and flexible. These moods, ideas, and emotional characteristics are only a general guide and may create predictable stereotypes. Your own feelings about lines will affect how you use them and what they can communicate.
+
+There are other ways to apply the Principle of Contrast & Affinity to line. Lines can be thick & thin, continuous & intermittent, long & short, and in-focus & out-of-focus. These variations in lines are important considerations in a drawing class, but it’s too difficult for an audience to detect these aspects of line during a story filled with moving images and sound. Line orientation, direction, and quality, however, are useful to the cinematic picture maker because lines with tonal contrast are easy to perceive.
+
+Shape
+
+Shapes are created by lines and lines require tonal contrast to be visually useful. The same is true for shape.
+
+ 
+
+These triangular shapes require tonal contrast to be seen. Tonal affinity erases shapes and tonal contrast emphasizes shapes.
+
+Just as there are basic types of lines, there are basic shapes. Since shapes exist in flat or deep space, they can be categorized as two-dimensional (flat space) or three-dimensional (deep space).
+
+ 
+
+The circle, square, and equilateral triangle are the two-dimensional basic shapes. Most ovals are classified as circles. Squares include rectangles.
+
+ 
+
+The sphere, cube, and three-sided pyramid are the three-dimensional basic shapes.
+
+Many other shapes, including the cylinder and cone, are often incorrectly classified as basic shapes. When viewed from below, they appear identical and offer no clue that one is pointed. This disqualifies them as basic shapes because they can hide their true shape identities depending on how they are viewed.
+
+ 
+
+Each of the three basic shapes can be classified in terms of its inherent visual intensity. The circle lacks a top, bottom, or sides. It doesn’t have a direction so its visual intensity is low. A square shape possesses a visual stability, weight, and immobility that’s lacking in the other shapes. The square is more intense than a circle but not as intense as the triangle. The triangle is an arrow. It points in a particular direction, which is something the square and circle can’t do. The triangle is the most dynamic of the three basic shapes because it’s the only shape that contains at least one diagonal line.
+
+Basic Shape Recognition
+
+The real world seems to be filled with so many differently shaped objects that it would be impossible to classify them all. But we can organize shapes by simplifying them and ignoring their details. For example, an audience won’t notice the shape difference between a three-sided pyramid and a four-sided pyramid. They both look like triangles.
+
+The basic shape of any object can be revealed by reducing it to a silhouette. An object, no matter how apparently unique, can be categorized into one of the three basic shapes.
+
+ 
+
+The silhouettes of these cars make their basic shapes easy to identify.
+
+ 
+
+Faces, when reduced to silhouettes, can be categorized into one of the three basic shapes.
+
+ 
+
+Trees and most other objects in nature come in three basic shapes
+
+ 
+
+Furniture, architecture, and almost any other object can be classified into one, two, or all three of the basic shapes.
+
+ 
+
+Light and shadow can be used to create circles, squares, and triangles. The emotional quality of a shot or scene can be enhanced or contradicted by the lines and shapes created by the lighting.
+
+The same emotional characteristics associated with circular and straight lines can be linked to round, square, and triangular shapes. Circular shapes are often described as friendly, passive, romantic, pertaining to nature, soft, and childlike. Square shapes are direct, industrial, ordered, artificial, adult, and rigid. Because of their diagonal lines, triangular shapes are often described as aggressive, dynamic, menacing, scary, chaotic, disorienting, and disorganized. These emotional associations are not rules and can lead to stereotypes. Chapter Nine explains how a wider range of emotional characteristics can be attached to almost any line or shape.
+
+Contrast & Affinity
+
+Like space and line, shape can be used to create visual contrast and affinity. Remember, contrast and affinity can occur within the shot, from shot to shot, and from sequence to sequence.
+
+ 
+
+Among the two-dimensional shapes, the circle and triangle have maximum contrast. Using only three-dimensional shapes, the sphere and the pyramid have maximum contrast. If all six shapes are considered as a group, maximum contrast is created by the sphere & triangle or the circle & pyramid. These two pairs create contrast in their basic shape, as well as in their two- or three-dimensional properties.
+
+ 
+
+This shot from Closer illustrates affinity of shape within the shot. The linear motif is horizontal and vertical straight lines and the shape motif is squares. The story, about alienation, is picturized by characters each living in their own, square, isolated world.
+
+ 
+
+In The Crow, circles are associated with the hero’s safe sanctuary, and squares are associated with the murderous villain’s headquarters. The shape contrast helps the audience recognize the locations.
+
+ 
+
+Squint at this shot. The linear motif is diagonal. The shape motif is squares and triangles. The diagonal lines and triangular shapes add visual intensity to the shot.
+
+ 
+
+In Stranger Than Fiction, circles represent meaningful relationships and squares and triangles represent alienation.
+
+Controlling Line & Shape During Production
+
+How can you control line and shape in production?
+
+Squint. Find the linear motif by squinting or use a contrast-viewing glass to reveal the lines and shapes in your shot. Evaluate the scenery, the location, and where you place the camera. Horizontal and vertical lines create squares and rectangles. Diagonal lines create triangles.
+
+Squint Again. Evaluate and control the lighting. Lines and shapes only exist because of tonal contrasts. Light and shadow can add, emphasize, diminish, or erase the lines and shapes in your shots.
+
+Control Movement. When an object moves it creates a horizontal, vertical, or diagonal track. The staging of actors and placement of the camera will determine the direction of the track created by any moving object.
+
+Create a Linear Motif Storyboard. Line and shape are important factors in planning a shot, a sequence, or an entire production. As you prepare your production, consider the overall linear motif created by orientation, direction, and quality of line. Find a linear motif that supports your story.
+
+The linear motif can decrease or increase the visual intensity of any sequence. It doesn’t matter if the sequence is a violent car chase or a quiet conversation. The contrast or affinity of line can support the storytelling.
+
+ 
+
+These storyboards are not the conventional drawings of people walking and talking. This storyboard reveals the linear motif of a 16-shot scene. The most intense shot in this storyboard is the diagonal #14. The linear motif’s shot-to-shot contrast in shot #13 (horizontal), shot #14 (diagonal), and shot #15 (horizontal) creates the visual intensity.
+
+Simplify Your Plan. Lines and shapes work best when it’s easy for the audience to see them. Keep your choices simple and be sure the lines and shapes are emphasized by tonal contrast.
+
+Films to Watch
+
+Natural Born Killer (1994)
+
+Directed by Oliver Stone
+
+Written by Quentin Tarantino & David Veloz
+
+Photographed by Robert Richardson
+
+Production Design by Victor Kempster
+
+ 
+
+Much of the film uses a diagonal linear motif to visualize the main characters’ psychotic view of the world.
+
+We Need to Talk About Kevin (2011)
+
+Directed by Lynne Ramsay
+
+Written by Lynne Ramsay & Rory Stewart Kinnear
+
+Photographed by Seamus McGarvey
+
+Production Design by Judy Becker
+
+ 
+
+The house interior uses horizontal and vertical lines and square shape motifs to emphasize the tension in the family.
+
+The Conformist (1970)
+
+Directed by Bernardo Bertolucci
+
+Written by Bernardo Bertolucci
+
+Photographed by Vittorio Storaro
+
+Production Design by Ferdinando Scarfiotti
+
+ 
+
+Almost every sequence uses a different linear or shape motif to express a variety of moods, emotions, and ideas related to the story’s conflict.
+
+Sexy Beast (2000)
+
+Directed by Jonathan Glazer
+
+Written by Louis Mellis & David Scinto
+
+Photographed by Ivan Bird
+
+Production Design by Jan Houllevigue
+
+ 
+
+The interior’s square, dark woodwork has tonal contrast with the white plaster walls. The circular arches have tonal contrast with the bright BG sky. The architecture creates a square shape motif that is associated with the victimized main characters. Circles are linked to the villain.
+
+The following three films use tonal contrast to create a variety of linear and shape motifs to support the story.
+
+The Third Man (1949)
+
+Directed by Carol Reed
+
+Written by Graham Greene
+
+Photographed by Robert Krasker
+
+Set Design by Vincent Korda
+
+ 
+
+This noir classic relies on diagonal lines to create a strong visual style.
+
+Oldboy (2003)
+
+Directed by Chan-wook Park
+
+Written by Chan-wook Park, Joon-hyung Lim, & Jo-yun Hwang
+
+Photographed by Chung-hoon Chung
+
+Production Design by Seong-hie Ryu
+
+ 
+
+The lines and shapes play an important role in the visual variety of the film and the emotional qualities associated with each scene.
+
+Casino Royale (2006)
+
+Directed by Martin Campbell
+
+Written by Neil Purvis, Robert Wade & Paul Haggis
+
+Photographed by Phil Meheux
+
+Production Design by Peter Lamont
+
+ 
+
+Diagonal lines are used to give additional visual intensity to the amazing action sequences.

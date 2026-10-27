@@ -1,0 +1,527 @@
+221
+Digital Camera Model DS126201 Systems
+This device complies with Part 15 of the FCC Rules. Operation is subject to the 
+following two conditions: (1) This device may not cause harmful interference, 
+and (2) this device must accept any interference received, including 
+interference that may cause undesired operation.
+Note: This equipment has been tested and found to comply with the limits for 
+class B digital devices, pursuant to Part 15 of the FCC Rules. These 
+limits are designed to provide reasonable protection against harmful 
+interference in a residential installation. This equipment generates, uses 
+and can radiate radio frequency energy and, if not installed and used in 
+accordance with the instructions, may cause harmful interference to 
+radio communications. However, there is no guarantee that interference 
+will not occur in a particular installation. If this equipment does cause 
+harmful interference to radio or television reception, which can be 
+determined by turning the equipment off and on, the user is encouraged 
+to try to correct the interference by one or more of the following 
+measures:
+— Reorient or relocate the receiving antenna.
+— Increase the separation between the equipment and receiver.
+— Connect the equipment into an outlet on a circuit different from 
+ that to which the receiver is connected.
+— Consult the dealer or an experienced radio/TV technician for help.
+The cable with the ferrite core provided with the digital camera must be used 
+with this equipment in order to comply with Class B limits in Subpart B of Part 
+15 of the FCC rules.
+Do not make any changes or modifications to the equipment unless otherwise 
+specified in the manual. If such changes or modifications should be made, you 
+could be required to stop operation of the equipment.
+Canon U.S.A. Inc.
+One Canon Plaza, Lake Success, NY 11042, U.S.A.
+Tel No. (516)328-5600
+This Class B digital apparatus complies with Canadian ICES-003.
+When connecting to and using a household power outlet, use only AC 
+Adapter Kit ACK-E6 (rated input: 100-240 V AC 50/60 Hz, rated output: 
+8.0 V DC). Using anything else can cause fire, overheating, or 
+electrical shock.
+COPY
+
+222
+IMPORTANT SAFETY INSTRUCTIONS
+1. SAVE THESE INSTRUCTIONS — This manual contains important safety 
+and operating instructions for Battery Charger LC-E6 & LC-E6E.
+2. Before using the charger, read all in structions and cautionary remarks on 
+(1) the charger, (2) the battery pack, and (3) the product using the battery 
+pack.
+3. CAUTION — To reduce risk of injury, charge only the Battery Pack LP-E6. 
+Other types of batteries may burst, causing personal injury and other 
+damage.
+4. Do not expose the charger to rain or snow.
+5. Use of an attachment not recommended or sold by Canon may result in 
+fire, electric shock, or personal injury.
+6. To reduce risk of damage to electric plug and cord, pull by plug rather than 
+by cord when disconnecting charger.
+7. Make sure cord is located so that it will not be stepped on, tripped over, or 
+otherwise subjected to damage or stress.
+8. Do not operate the charger with damaged cord or plug - replace them 
+immediately.
+9. Do not operate the charger if it has received a sharp blow, been dropped, 
+or otherwise damaged in any way; take it to a qualified serviceman.
+10. Do not disassemble the charger; take it to a qualified serviceman when 
+service or repair is required. Incorrect reassembly may result in a risk of 
+electric shock or fire.
+11. To reduce risk of electric shock, unplug charger from outlet before 
+attempting any maintenance or cleaning.
+MAINTENANCE INSTRUCTION
+Unless otherwise stated in this manual, there are no user serviceable parts 
+inside. Refer servicing to qualified serviceman.
+USA and Canada only:
+The Lithium ion/polymer battery that powers the product is 
+recyclable. Please call 1-800-8-BATTERY for information on 
+how to recycle this battery.
+For CA, USA only
+Included lithium battery contains Perchlorate Material – special handling may 
+apply.
+See www.dtsc.ca.gov/hazardouswaste/perchlorate/ for details.
+COPY
+
+223
+10-sec. or 2-sec. delay....................86
+1920x1080 ....................................121
+1st-curtain sync.............................105
+4- or 9-image index display...........131
+640x480 ........................................121
+A
+AC Adapter Kit ..............................196
+Access lamp....................................30
+Adobe RGB.....................................76
+AE lock............................................98
+AEB.................................97, 174, 175
+AF J Focusing
+AF Microadjustment......................181
+AF stop button...............................178
+AF-ON (AF start) button..........35, 182
+AI FOCUS (AI Focus AF)................80
+AI SERVO (AI Servo AF) ..........50, 79
+AI Servo AF.....................................79
+Aperture-priority AE ........................92
+Assist AF points ..............................80
+Auto Lighting Optimizer...........47, 177
+Auto playback ...............................135
+Auto power off...........................27, 44
+Auto reset........................................75
+Auto rotate of vertical images .......146
+Autofocus J Focusing
+Automatic selection (AF).................81
+Av (Aperture-priority AE).................92
+B
+B (Bulb)...........................................99
+B/W ...........................................60, 62
+Battery J Power
+Battery check ..................................28
+Battery Grip...................................192
+Beeper ..............................48, 79, 200
+Black-and-white (printing) .............158
+Black-and-white image..............60, 62
+Borders (Yes/No).......................... 157
+Bracketing ........................ 69, 97, 174
+Bulb ................................................ 99
+Noise reduction........................ 176
+Bulb exposures............................... 99
+C
+w, x, y ............................. 20, 187
+C (Creative Auto)......................... 51
+Cable ................................ 3, 139, 140
+Camera
+Camera shake.......................... 101
+Clear camera settings ................ 45
+Holding the camera.................... 34
+Setting description display ....... 190
+Camera shake .......................... 33, 35
+Camera user settings ............. 20, 187
+Card.................................... 13, 29, 43
+Card reminder ............................ 29
+Format........................................ 43
+Problem...................................... 30
+Center-weighted average metering... 95
+CF card J Card
+Cleaning ....................................... 147
+Clear camera settings .................... 45
+Clock .............................................. 42
+Color space .................................... 76
+Color temperature .......................... 67
+Color tone............................... 61, 160
+Continuous ..................................... 74
+Continuous shooting............... 85, 191
+Contrast.................................. 61, 160
+Cool tone (printing)....................... 158
+Copyright information ..................... 46
+Cord.................................. 3, 139, 140
+Creative Auto.................................. 51
+M icon ............................................. 4
+Cross-type focusing........................ 83
+Custom Functions ........................ 172
+Clearing all ............................... 172
+Index
+COPY
+
+224
+Index
+D
+Date/Time .......................................42
+Date/time battery replacement...197
+DC coupler....................................196
+Default (printing) ...........................158
+Depth-of-field preview.....................93
+Digital terminal ......................154, 167
+Dioptric adjustment.........................34
+Direct printing J Printing
+Direct selection .............................179
+Direct transfer ...............................167
+DPOF............................................163
+Drive mode .............................85, 191
+Dust Delete Data ..........................149
+Dynamic range..............................177
+E
+Erase (image) ...............................142
+Error codes ...................................209
+E-TTL autoflash ............................106
+Evaluative metering ........................95
+Exposure compensation .........96, 174
+Exposure simulation .....................109
+EX-series Speedlite ......................103
+Extension........................................75
+External Speedlite J Flash
+Eyecup..........................................100
+Eyepiece cover .......................23, 100
+F
+Faithful............................................60
+FE lock..........................................103
+FEB...............................................105
+File name........................................74
+File number.....................................74
+File size...........................55, 123, 129
+Filter effect (Monochrome)..............62
+Fine (Image-recording quality)........55
+Firmware Ver.................................202
+Flash
+Custom Functions.................... 106
+External Speedlite............ 103, 104
+FE lock..................................... 103
+Flash control ............................ 105
+Flash exposure compensation .. 103
+Flash sync (1st/2nd curtain)..... 105
+Flash-sync speed............. 104, 175
+Flash exposure 
+compensation............... 103, 174, 191
+Flash mode .................................. 105
+Flash-sync contacts ....................... 16
+Focus confirmation light ................. 48
+Focus lock ...................................... 50
+Focus mode switch .................. 31, 84
+Focusing
+AF mode ............................ 78, 191
+AF point display ....................... 129
+AF point selection ...... 81, 179, 191
+AF-assist beam........................ 179
+Beeper ......................... 48, 79, 200
+Difficult-to-focus subjects........... 84
+Live View shooting........... 113, 119
+Manual focusing................. 84, 119
+Out of focus ................. 49, 84, 118
+Recompose................................ 50
+Focusing screen........................... 184
+Folder Create/Select ...................... 72
+Format (CF card initialization) ........ 43
+Full Auto ......................................... 48
+Full HD ......................................... 121
+Full High-Definition....................... 121
+Function availability table ............. 198
+G
+Grid display .................................. 111
+Grid matte .................................... 184
+H
+HDMI ............................................ 140
+High-Definition...................... 121, 140
+High ISO speed noise reduction .. 176
+COPY
+
+225
+Index
+Highlight alert................................129
+Highlight detail loss.......................129
+Highlight tone priority ....................177
+Histogram (Brightness/RGB) ........130
+Hot shoe........................................104
+Household power..........................196
+I
+ICC profile.......................................76
+Illumination (LCD panel) .................99
+Image
+AF point display........................129
+Auto playback...........................135
+Auto rotate ................................146
+Erase ........................................142
+Highlight alert............................129
+Histogram .................................130
+Index.........................................131
+Jump display (Image browsing) ..132
+Magnified view..........................133
+Manual rotate............................134
+Playback...................................127
+Protect ......................................141
+Shooting information.................129
+Transfer to personal computer...167
+View on TV ...............................139
+Image dust prevention ..................147
+Image review time.........................145
+Image Stabilizer (lens) ....................33
+Image transfer...............................167
+Image-recording quality ..................54
+Index display.................................131
+ISO speed.......................57, 174, 191
+Automatic setting........................58
+ISO expansion ..........................174
+J
+JPEG...............................................54
+Jump display.................................132
+L
+Landscape ......................................59
+Language selection ........................ 42
+Large (Image-recording quality) ..... 55
+LCD monitor ................................... 13
+Brightness adjustment ............. 144
+Image playback........................ 127
+Menu settings..................... 40, 200
+Shooting functions ................... 191
+LCD panel ...................................... 18
+Illumination................................. 99
+Lens.......................................... 21, 31
+Lock release............................... 32
+Peripheral illumination correction .... 70
+Live View shooting ....................... 107
+Grid display .............................. 111
+Information display................... 112
+Live face detection mode......... 116
+Live mode ................................ 115
+Manual focusing............... 113, 119
+Movie recording ....................... 121
+Possible shots.......................... 111
+Quick mode.............................. 113
+Screen settings ........................ 109
+Silent shooting ......................... 120
+Long exposure noise reduction .... 176
+M
+M (Manual exposure) ..................... 94
+Magnified view...................... 119, 133
+Main Dial
+Main Dial .................................... 36
+Quick Control Dial ...................... 37
+Malfunction................................... 203
+Manual AF point selection .............. 81
+Manual exposure............................ 94
+Manual focusing ..................... 84, 119
+Manual reset................................... 75
+Maximum burst......................... 55, 56
+Medium (Image-recording quality) ... 55
+Memory card J Card
+COPY
+
+226
+Index
+Menu
+Menu settings ...........................200
+My Menu...................................186
+Setting operation ........................40
+3 icon .........................................4
+Metering mode........................95, 191
+MF (Manual focusing).....................84
+Microphone (Built-in/External) ......124
+Mirror lockup .........................101, 180
+Mode Dial J Shooting mode
+Monochrome image..................60, 62
+Movie
+Playback...................................137
+Recording .................................121
+View on TV ...............................139
+Multi-controller ..........................36, 81
+My Menu.......................................186
+N
+Natural/M (printing).......................158
+Neutral ............................................60
+Noise reduction.............................176
+Nomenclature .................................16
+Non-Canon flash units ..................104
+Normal (Image-recording quality) ...55
+NR (printing) .................................158
+NTSC............................................201
+Number...........................................74
+O
+ONE SHOT (One-Shot AF).............79
+One-Shot AF...................................79
+Original decision 
+(image verification) data ...............185
+P
+P (Program AE) ..............................88
+PAL ...............................................201
+Paper settings (printing)................156
+Partial metering...............................95
+PC terminal ............................ 16, 104
+Peripheral illumination correction ... 70
+Personal computer
+Image transfer.......................... 167
+Wallpaper................................. 169
+Personal white balance .................. 67
+PictBridge..................................... 153
+Picture Style ............................ 59 - 64
+Pixels.............................................. 54
+Playback J Image
+Portrait............................................ 59
+Possible shots .................. 28, 55, 111
+Power
+Auto power off...................... 27, 44
+Battery check ............................. 28
+Battery info............................... 192
+Household power..................... 196
+Possible shots.............. 28, 55, 111
+Recharge ................................... 24
+Switch ........................................ 27
+Precision matte ............................ 184
+Pressing completely ....................... 35
+Pressing halfway ............................ 35
+Printing ......................................... 153
+Page layout.............................. 157
+Paper settings.......................... 156
+PictBridge ................................ 153
+Print Order (DPOF).................. 163
+<l> button.......................... 159
+Printing effects ......................... 160
+Tilt correction ........................... 161
+Trimming.................................. 161
+Program AE.................................... 88
+Program shift ............................. 89
+Protect (image erase-protection) ... 141
+Q
+Quick Control Dial .......................... 37
+Quick Control screen...................... 38
+Quick mode .................................. 113
+COPY
+
+227
+Index
+R
+RAW..........................................54, 56
+RAW+JPEG ....................................54
+Recharge ........................................24
+Recording func..............................201
+Remote control shooting.......100, 102
+Remote Switch..............................100
+Rotate (image) ..............134, 146, 161
+S
+Safety shift ....................................175
+Safety warnings ............................219
+Saturation................................61, 160
+Self-timer.........................................86
+Sensor cleaning ............................147
+Sepia (Monochrome) ......................62
+SET button......................................40
+Sharpness.......................................61
+Shoot w/o card................................29
+Shooting information display.........129
+Shooting mode................................20
+Aperture-priority AE ....................92
+Bulb ............................................99
+Creative Auto..............................51
+Full Auto .....................................48
+Manual exposure........................94
+Program AE................................88
+Shutter-priority AE ......................90
+Shooting settings display ..............191
+Shutter button .................................35
+Shutter sync..................................105
+Shutter-priority AE...........................90
+Silent shooting ..............................120
+Single image display.....................128
+Single shooting ...............................85
+Slide show.....................................135
+Small (Image-recording quality)......54
+Small RAW................................54, 56
+Spot metering..................................95
+sRAW (Small RAW).................. 54, 56
+sRGB.............................................. 76
+Still photo J Image
+Strap............................................... 23
+Superimposed display.................. 179
+System map ................................. 210
+T
+Toning effect (Monochrome)........... 62
+Transfer order (image) ................. 170
+Trimming (printing) ....................... 161
+Tripod socket.................................. 17
+Tv (Shutter-priority AE)................... 90
+U
+Ultra DMA (UDMA)................... 29, 55
+USB (Digital) terminal........... 154, 167
+User defined ................................. 187
+V
+Video system........................ 139, 201
+View on TV ................................... 139
+Viewfinder....................................... 19
+Dioptric adjustment .................... 34
+Vivid.............................................. 158
+Volume (Movie playback) ............. 138
+W
+Wallpaper ..................................... 169
+Warm tone (printing)..................... 158
+WB J White balance
+White balance......................... 65, 191
+Bracketing .................................. 69
+Correction .................................. 68
+Custom....................................... 66
+Personal..................................... 67
+Wireless remote control................ 102
+COPY
+
+This Instruction Manual booklet is current as of September 2008. For information 
+on the camera’s compatibility with any accessories and lenses introduced after 
+this date, contact any Canon Service Center.
+CT1-1028-000 © CANON INC. 2008 PRINTED IN JAPAN
+CANON INC. 30-2, Shimomaruko 3-chome, Ohta-ku, Tokyo 146-8501, Japan
+U.S.A. CANON U.S.A. INC.
+ One Canon Plaza, Lake Success, NY 11042-1198, U.S.A. 
+ For all inquires concerning this product, call toll free in the U.S. 
+ 1-800-OK-CANON
+CANADA CANON CANADA INC. HEADQUARTERS
+ 6390 Dixie Road, Mississauga, Ontario L5T 1P7, Canada
+ CANON CANADA INC. MONTREAL BRANCH
+ 5990, Côte-de-Liesse, Montréal Québec H4T 1V7, Canada
+ CANON CANADA INC. CALGARY OFFICE
+ 2828, 16th Street, N.E. Calgary, Alberta T2E 7K7, Canada
+ For all inquiries concerning this product, call toll free in Canada
+ 1-800-OK-CANON
+EUROPE, CANON EUROPA N.V.
+AFRICA & Bovenkerkerweg 59-61, 1185 XB Amstelveen, The Netherlands
+MIDDLE EAST CANON FRANCE S.A.S.
+ 17,Quai du Président Paul Doumer, 92414 Courbevoie Cedex, France
+ CANON UK LTD.
+ Woodhatch Reigate,Surrey RH2 8BF, United Kingdom
+ CANON DEUTSCHLAND GmbH
+ Europark Fichtenhain A10, 47807 Krefeld, Germany
+ CANON ITALIA S.p.A.
+ Via Milano 8, 20097 San Donato Milanese, (MI), Italy
+ CANON Schweiz A.G.
+ Industriestrasse 12, 8305 Dietlikon, Switzerland
+ Canon GmbH
+ Zetschegasse 11, A-1230 Vienna, Austria
+ CANON España,S.A.
+ Av. De Europa,6 Alcobendas 28108 Madrid, Spain
+ CANON Portugal S.A.
+ Rua Alfredo da Silva,14 Alfragide 2610-016 Amadora, Portugal
+CENTRAL & CANON LATIN AMERICA, INC.
+SOUTH AMERICA 703 Waterford Way, Suite 400 Miami, FL 33126,U.S.A.
+ASIA CANON (China) Co., LTD.
+ 15F Jinbao Building No.89 Jinbao Street, Dongcheng District, Beijing 100005, China
+ CANON HONGKONG CO., LTD.
+ 19/F., The Metropolis Tower, 10 Metropolis Drive, Hunghom, Kowloon, Hong Kong
+ CANON SINGAPORE PTE. LTD.
+ 1 HarbourFront Avenue, #04-01 Keppel Bay Tower, Singapore 098632
+ CANON KOREA CONSUMER IMAGING INC.
+ Gangnam Finance Center 17F, 737,Yeoksam-Dong, Gangnam-Gu, Seoul, 135-984, Korea
+OCEANIA CANON AUSTRALIA PTY. LTD.
+ 1 Thomas Holt Drive, North Ryde, Sydney N.S.W. 2113, Australia
+ CANON NEW ZEALAND LTD.
+ Akoranga Business Park, Akoranga Drive, Northcote, Auckland, New Zealand 
+JAPAN CANON MARKETING JAPAN INC.
+ 16-6, Kohnan 2-chome, Minato-ku, Tokyo 108-8011, Japan
+COPY

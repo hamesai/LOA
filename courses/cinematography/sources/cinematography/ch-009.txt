@@ -1,0 +1,333 @@
+Chapter 8: Color
+
+7.1, (previous page) Color theory played a key role in the selection of wardrode and props, graphic impact and harmony in this shot sages in front of a New York City firehouse. (Photo by author.)
+
+7.2. (right)The naturally occuring color spectrum and respective wavelengths in nanometers.
+
+cinematography 128
+
+THE NATURE OF LIGHT
+
+As we recall from the chapter on exposure, light is composed of photons, which have the properties of both matter and light.
+
+Even Newton recognized that individual photons don’t have “color”, but they do have different properties of energy which cause them to interact in different ways with physical matter, which, when reflected is perceived by the eye/brain combination as “color.”
+
+Every single photon of light has a characteristic color which can vary if the observer is moving toward or away from the light source.
+
+Visible light is a small part of the continuous spectrum of electromagnetic radiation most of which is not directly observable, and was unknown until the last century. At the low frequency (long wavelength) end of the spectrum we find radio, television, microwave, and infra-red radiation. (Figure 7.2).
+
+Then we encounter a tiny slice of the spectrum which we can see with our eyes; this extends from red to violet — the colors of the rainbow. They were originally classified as Red, Orange, Yellow, Green, Blue, Indigo and Violet. (R-O-Y-G-B-I-V). Above violet the high frequency are ultra-violet, x-rays, and gamma rays.
+
+Indigo is no longer recognized as a color of the spectrum so the | is no longer used. Where formerly it could be memorized as Roy G. Biv, Roy no long has a vowel in his last name and it is now Roy G. By. Visible light is only produced when an electron falls into the second shell of an atom. Different colors happen because atoms have different sizes, different nuclear charges, and influences on each other when they are close together. For our purposes, it is conventional to consider visible light as a wave, as it exhibits all properties of a wave and follows the same rules as all electromagnetic waves.
+
+Waves have four major properties:
+
+* Amplitude * Frequency * Wavelength * Speed Amplitude is the height of the wave. (Figure 7.3). It shows the energy of the event that started the wave. In the previous pond example, if we had hoisted a large boulder and (with the help of a friend) launched it into the pond, we would have seen much higher waves come crashing toward us. For example, in audio, loud sounds have high amplitude.
+
+Frequency is a measure of the number of waves that pass a point in a given amount of time. It is usually measured in Hertz (Hz>. One hertz means one wave (peak to peak) passes every second. When we count waves, we have to divide the whole waveform into parts.
+
+The easiest way to do this is to go from one crest to another. This is one wave. We can now count the number of crests passing in a second to find our frequency, Again, to use an audio analogy. A short frequency wave is a very high pitched sound — like a dog whistle.
+
+A long frequency wave ts a low pitched sound, like a bass note on a guitar. Wavelength is just that: the length of the wave. It is measured in units of distance, which can be anything from meters to nanome- 380nm 450nm 490nm 560nm = $90nm 630nm 780nm ters. A nanometer is one thousand-millionth of a meter. (A meter, just for reference, is one millionth of the distance from the equator to the North Pole.)
+
+COLOR PERCEPTION
+
+The perception of color is a complex phenomenon which involves the physics of light, the nature of physical matter, the physiology of the eye and it’s interaction with the brain and even social and cultural factors. We can break it down to five aspects: * Abstract relationships: purely abstract manipulation of color for it’s own sake.
+
+* Representation: e.g., a sky is blue, an apple is red. * Material concerns: texture: chalky, shiny, reflective, dull, ete. * Connotation and symbolism: Associative meanings, memory, cultural significance, mythical reference. The red, white and blue of the flag.
+
+* Emotional expression: the fiery red of passion, the cold blue of night, ete.
+
+Most people can tell you that the three primaries are red, green and blue, but few can say why these, of all colors are the primaries. The reason 18 In Our eyes.
+
+THE TRISTIMULUS THEORY
+
+The human retina is filled with two kinds of light receptors which are called rods and cones. (Figure 7.4). The rods are primarily responsible for the perception of light and dark: value or grayscale.
+
+The cones primarily perceive color. The retina has 3 kinds of cones.
+
+The response of each type of cone as a function of the wavelength of the incident light is shown below. The peaks for each curve are at 440nm (blue), 545nm (green) and 580nm (red). Note that the last two actually peak in the yellow part of the spectrum.
+
+FUNCTIONS OF THE EYE
+
+There are many theories to explain the phenomenon of color vision.
+
+The most easily understood is the three-component theory which assumes three kinds of light sensitive elements (cones) — each receptive to one of the primary colors of light — an extreme spectrum red, (Figure 7.5), an extreme spectrum violet and an imaginary green. There are about seven million cone in each eye. They are located primarily in the central portion of the retina called the fovea, and are highly sensitive to color. People can resolve fine details with these cones largely because each one is connected to its own nerve end. Muscles controlling the eye always rotate the eyeball until the image of the object of our interest falls on the fovea. Cone vision is known as photopic or daytime vision.
+
+Other light receptors, called rods, are also present in the eye but they are not involved in color vision. Rods serve to give a general, overall picture of the field of view, and are receptive only to the | Wavelength | Amplitude
+
+| 1 second Frequency (hz)
+
+7.3. Components of a wave.
+
+color theory ys —=— = Ww Vitreous humor 4 Blind ] Retina spot Fovea
+
+= in .
+
+= CONES q \ j \ ; || \ | i ~ ee ad s rat bd iti st if] AA | | A ayy ify a> ras ih )\—* £ < 7.4. (top) Physiology of the eye.
+
+7.5. (above) Rods and cones in the retina.
+
+7.6, Spectral response of the human eye.
+
+cinematography 130 quantity of light waves entering the eye. Several rods are connected to a single nerve end; thus they cannot resolve fine detail. Rods are sensitive to low levels of illumination and enable the eye to see at night or under extremely low lighting conditions. Therefore, objects which appear brightly colored in daylight when seen by the color-sensitive cones appear only as colorless forms by moonlight because only the rods are stimulated. This is known as scotopic vision.
+
+THE PURKINJE EFFECT AND MOVIE MOONLIGHT
+
+As the adjacent spectral sensitivity curves show, the eye is not equally sensitive to all wavelength. In dim light particularly, there is a definite shift in the apparent brightness of different colors. This was discovered by Johannes von Purkinje. While walking at dawn one day, von Purkinje observed that blue flowers appeared brighter than red. while in full daylight the red flowers were brighter than the blue. This is now called the Purkinje effect and is particularly important in photometry — the measurement of light. The Purkinje effect fools the brain into perceiving moonlight as slightly blueish, even though as reflected sunlight, it is the same color as daylight.
+
+This is the reason it is a convention to light night scenes blue.
+
+LIGHT AND COLOR
+
+Color is light. but the color of objects is a combination of the color of the light and the nature of the material it is falling on and being reflected by. Essentially, the color of an object is the wavelenghts of light which it does not absorb. Sunlight appears white — it contains all colors. Light is an additive system of color. Red. Green and Blue are the primaries. When mixed in pairs they produce Magenta, Cyan and Yellow (a hot red, a blue/green, a bright yellow). The mixture of all colors in light creates white. The human eye has receptors (cones) Red/Green, Blue/Yellow which translate light waves of differing length to the optic nerve. The eye is not equally sensitve to all colors, (Figure 7,6) this has far ranging implications in color theory. exposure and even light meters.
+
+Paint is a subtractive system of color. The primaries are Red. Blue and Yellow, The mixing of paint removes subtracts light. All colors mixed would produce a muddy gray brown, or theoretically black.
+
+For our purposes we will be discussing the subtractive system of color, but painters need to understand both. Since the world they try to capture in paint and their actual paintings are affected by light and the additive system of color. Color has four basic qualities: Hue, ‘alue, Chroma and Temperature. The first three are physical properties and are often called the dimensions of color. The last is a psv-chological aspect of a color.
+
+The First Dimension: Hue — A hue is a wavelength of light. It is that quality by which we give names to color (i.e… red, yellow, blue. etc.) The average person can distinguish around 150 distinct hues.
+
+The hue ofa color is simply a definition of it’s wavelength: it’s place on the natural color spectrum, Hue, along with Chroma (saturation) and Value (lightness/darkness) make up the three distinct attributes of color. The terms “red” and “blue” are primarily describing hue — hue is related to wavelength for spectral colors. It is convenient to arrange the saturated hues around a Newton Color Circle. Starting from red and proceeding clockwise around the circle below to blue proceeds from long to shorter wavelengths. However it shows that not all hues can be represented by spectral colors since there is no single wavelength of light which has the magenta hue — it may be produced by an equal mixture of red and blue. Newton created the color he called purple by mixing red and blue pigments, thus creating a wheel of colors.
+
+The Second Dimension is Value — Relative lightness of darkness of color. A lightened color is called a Tint; created by adding white to a color \ darkened color 1s called a Shade, crei ated by adding led either black or a complement to a color. Dark colors Low Key Colors, pale colors are High Key Colors, VALUE
+
+Value. along with Chroma (saturation) and Hue make up the three distinct attributes of color. (Figure 7.8). The relative lightness of a olored surface depends upon the illuminance and upon tts reflee-tivity. Since the perceived lightness is not linearly proportional to the reflectivity, a scale from 0 to 10 is used to represent perceived lightness in color measurement systems like the Munsell system. It is found that equal surfaces with differing spectral characteristics ut which emit the same number of lumens will be perceived to be equally light. If one surface emits or reflects more lumens, It ill be perceived to be lighter in a logarithmic relationship which yields a constant increase in lightness of about 1.5 units with each doubling Ol lightness Every pure hue has tts own \ alue before mixing. No color 1s as dark as black or as light as white, but pure violet is darker than pure yellow is lighter than green, By arranging the color wheel as 1c wheel. aCCO! rding to the value of each ht le, We develop 1 color-a simple curve, with violet as the darkest hue and yellow as the liohtest. The average person can distinguish about 200 distinct value changes. Value is not equal for all hues.
+
+The Third Dimension: Chroma, (a led Intensity and Saturation) rhe strength of the color. or relative purity of a colot its brilliance or dullness (grayness). Any hue is most bright in its pure state when no black or white has been added to it Adding black or white or both (gray), or adding the color’s complement (the color opposite it on the color wheel) lowers the intensity, making a color duller. A color at its lowest possible intensity ts said | to be neutral. sO Cd Here the average person can see only about 20 of chroma chang Temperature; Another aspect of a color is temperature. The temperature is the relative warmth or coolness of a hue. This derives from the psychological reaction to color red or red/orange the warmest and blue or blue/green the coolest. It has been proven that people coming in trom the cold to a room panted in cool colors 7.7. Color is a cruc this frame from | srimary red and t function not only also have st mood and time « iy | which are important th this film. The shooting the film s built arou ie day N h 5 | | E captur ( i filter or “fix it up in | ol darkness f a parti shown here 7.9, (above) Warm and cool colors.
+
+7.10. (right) The derivation of the color wheel from the spectrum, as devised by Newton.
+
+7.11. Primary, secondary and tertiary divisions on the color wheel, Want
+
+Cyan Yellow
+
+BLUE RED
+
+Magenta take longer to feel warm than those coming into a room painted in warm colors. Even body temperature has been found to differ by a few degrees in rooms painted warm to those painted cool. Color temperature is derived from physical temperature — a neutral body when heated will first glow red, then orange and eventually white.
+
+THE COLOR WHEEL
+
+Artists have found it helpful to bend the linear spectrum around in a circle called the color wheel. The British scientist Sir Isaac Newton, who discovered the spectrum in the seventeenth century, also turned it into a color wheel. (Figure 7.10) On the color wheel, instead of being at opposite extremes, red and violet lie next to one another. A circular spectrum better describes our perception of the continuous flow of hues, and it establishes opposites across the diameters. The color wheel is created by wrapping the visible spectrum into a circle and joining the far red end (loing wavelengths) to the far violet end (short wavelengths).
+
+Primary Colors are hues which cannot be mixed and from which all other colors can be mixed. In light they are red, green and blue.
+
+Secondary Colors are hues made by mixing two primaries RED+BLUE = Magenta BLUE + GREEN = Cyan RED + GREEN = Yellow lertiary Colors are combinations of the secondary colors. The primary, secondary and tertiary colors together make up the twelve colors of the basic color wheel. (Figure 7,11)
+
+BEYOND THE COLOR WHEEL
+
+The color wheel is very useful but it deals only with hue, the spectral color. It tells us nothing about how bright the color is or how light or dark it is in terms of the gray scale.
+
+THE MUNSELL SYSTEM
+
+One of the most influential color-modeling systems was devised by Albert Henry Munsell, an American artist. Munsell desired to create a “rational way to describe color” that would use clear decimal notation instead of arbitrary color names. The Munsell system describes color in three dimensional form. The hues are arranged in a circle.
+
+Variations in chroma are away from or towards the central axis and variations in value are up and down the central axis. His system, which he began in 1898 with the creation of his color sphere, or tree, saw its full expression with his publication, 4 Color Notation, in
+
+1905. This work has been reprinted several times and is still a standard for colorimetry (the measuring of color).
+
+Munsell modeled his system as a globe around whose equator runs a band of colors. (Figures 7.12 and 7.13). The axis of the orb is a scale of neutral gray values with white as the north pole and black as the south pole. Extending horizontally from the axis at each gray value is a gradation of color progressing from neutral gray to full saturation.
+
+HUE, CHROMA AND VALUE
+
+Munsell named these aspects, or qualities, Hue. Value, and Chroma.
+
+They are similar to the traditional uses of these terms, but slightly different in some ways.
+
+HUE
+
+Munsell defined hue as “the quality by which we distinguish one color from another.” Hue is the spectral color: it can be defined by its wavelength on the electromagnetic spectrum. It is what, in everyday language, we call “color.”
+
+Munsell selected five principle colors (this is slightly different from the “primary” colors): red, yellow, green, blue, and purple; and five intermediate colors: yellow-red, green-yellow, blue-green, purple-blue, and red-purple; and he arranged these in a wheel measured off in 100 compass points:
+
+The colors were simply identified as R for red, YR for red-yellow, Y for yellow, etc. Each primary and intermediate color was allotted ten degrees around the compass and then further identified by its place in the segment. For example, primary red would be identified as 5R since it stands at the mid-point of the red segment. 2.5R would be a red tending more toward red-purple, while 7.5R is a red tending more toward yellow-red.
+
+VALUE
+
+Value was defined by Munsell as “the quality by which we distinguish a light color from a dark one.” In common language it might be referred to as “dark red” or “light red.” Value is a neutral axis that refers to the gray level of the color which ranges from white to black. As notations such as 1OR, SYR, 7.5PB, etc, denote particular hues, the notation N is used to denote the gray value at any point on the axis. Thus a value of 5N would denote a middle gray, 2N a dark gray, and 7N a light gray. In Munsell’s original system, values IN and 9N are, respectively, black and white, though this was later expanded to values of 0 (black) through 10 (white). We can, of course, see precise parallels to the Zone System, Remember the zone system is a way of considering all visible things in terms of color theory their light and dark value without regard to thei just adding the elements of color The value of a particular hue would be noted wit the hue designation. For example, 5PB 6/ indicates a middl blue at the value level of 6. It should be noted, too scale of value is visual, or perceptual. That ts, it’s - see differences in relative light, not on a strict se cal values from a light source or illuminant. This 1 eye/brain combination does not perceive all hues and \ (The CIE system described below is a more mathemat of describing color; a method which can be more closel) with color emulsion or electronic representations of CHROMA
+
+Chroma is the quality that distinguishes the differe hue to a gray shade. The chroma axis extends from tl at a right angle and the amount of chroma is noted aft designation. We can, of course, see precise parallels to th system. Remember the zone system is a way ol consid ible things in terms of their light and dark values. How is not uniform for every hue at every value. Munsell recognized tl full chroma for individual hues might be achieved at very diffe places in the color sphere. For example, the fullest chron SRP (red-purple) is achieved at 5/26: Another color such as 10% (yellowish yellow-red) has a much shorter chroma axis and lest chroma at 7/10 and 6/10:
+
+ru right) and 7.13 (bottom, ncing and retreating color ndon. Viewed as invidual sements within the film, the color just becomes part of the scene. When ook at them in direct opposition A more clearly see how the e in the storytelling of ench nt in the film 7.12 right in Barry Ly
+
+CHROMA a Chrama increa with red from the neutn stronger colors.
+
+neutral axis VALUE
+
+Value increases upward, from black at the bottom to white a the top Black, white and grays which have no hue, are located on a vertical line called the “neutral axis”
+
+In the Munsell System, reds, blues, and purples tend to be stronger hues that average higher chroma values at full saturation, while yellows and greens are weaker hues that average fullest chroma saturation relatively close to the neutral axis. Reds, blues, and purples reach fullest saturation at mid-levels on the value scale, while yellows and greens reach it at higher values. The result of these differences is that what Munsell originally envisioned as a sphere is radically asymmetrical. A three-dimensional solid representation of Munsell’s system is shown in Figures 7.14 and 7.15.
+
+COLOR MIXING
+
+COMPLEMENTARY
+
+Hues directly opposite one another on the color wheel are called complements. They are called complements because they contain or complete the triad of primary colors — for example, the primary red is opposite the secondary green, which contains the primaries yellow and blue.
+
+ADVANCING AND RETREATING COLOR
+
+Another psychological response: hottest, darkest colors move forward aggressively as do black, brown, dark blue and dark green. Pale tones retreat. Pale green and blue the furthest. Pale reds, oranges and yellows recede but not as far as cools. Yellow though light, advances when intense. (Figures 7.12 and 7.13).
+
+Weight and Balance — The way we see color depends not only on the color themselves, but also on the size of each color area, on the shapes that contain the color, and on the interaction between neighboring colors. Darker hues, like darker values, tend to be heavier looking than lighter ones, yet, warm intense colors like yellow and orange and can overpower a darker color.
+
+FILM AND VIDEO COLORSPACE
+
+The medium, whether it is paint. television, film, fabric or printed matter, also affects the possible range of colors, i.e., all the possible variations in hue, value and chroma that can be achieved in a medium, is referred to as its color gamut. In monitors and video systems, it is often referred to as colorspace.
+
+7.14. (above) The Munsell system is formed as a tree structure; the variations in horizontal size are due to the fact that some hues reach full saturation sooner than others.
+
+7.15, (left)The Munsell system represents hue, chroma and value as three axes of a tree structure.
+
+7.16. Relative colorspace of film and video.
+
+Film Colorspace
+
+Video Colorspace color theory 7.17. Triadic harmonies.
+
+7.18. (below) Complimentaries.
+
+7.19. (bottom) Split complimentaries.
+
+RED red/‘magenta orange Magenta Yellow violel yellow/green BLUE GREEN cyan/blue green/cyan Cyan
+
+RED violet orange Magenta Yellow blue/magenta yellowgreen BLUE GREEN cyan/blue green/cyan Cyan
+
+RED RED RED
+
+Magenta Yellow Magenta Yellow Magenta Yellow
+
+BLUE GREEN BLUE GREEN BLUE GREEN
+
+Cyan Cyan Cyan
+
+TRANSPARENCY AND REFLECTION
+
+These tend to lighten color. Transparency is the ability to see through the color to another under it. Reflection on a form as well as transparency will lighted it. In paint the transparency and reflective quality of the paint will affect the value and intensity of the color as well, this principle is used in set painting, prop and wardrobe and can affect lighting choices.
+
+COLOR HARMONIES & THE INTERACTION OF COLOR
+
+Color Harmony — Like music, color can be strongly emotive and expressive. Certain combinations of color, as of sound, have seemed to have special beauty or be intrinsically pleasing in ways most people recognize intuitively. The notions of balance and resolution are implied in color harmony. Harmony refers to clear relationships based on divisions of the color wheel, see Figures 7.17, 7.18 and 7.19. Some examples of color harmony follow:
+
+* Monochrome Color Harmony — refers to a harmony of tones of all the same hue but at different values and intensity (i.e, tints and shades of Blue).
+
+* Analogous Color Harmony — is a harmony of hues close to or touching one another on the color wheel, although of different values and intensities. (i.e. yellow-green, green and blue-green or yellow, green and blue).
+
+* Triadic Harmonies — are based on groups of three colors more or less equidistant from one another on the color wheel.
+
+The three primary or the three secondary colors form triadic harmonies, but any group of three will serve, if they are evenly spaced around the color wheel.
+
+* Complementary Harmonies — involve the pairing of any two colors that sit opposite one another on the color wheel. (i.e. red with green, yellow with violet)
+
+* Split Complementary Harmonies — group a color not with its complement, but with the pair of colors adjacent to its complement. (i.e. yellow with red-violet and blue-violet, blue with yellow orange and red orange, red with yellow-green and blue-green).
+
+* Discord and Discordant Colors — Colors can be mismatched or out of harmony, often referred to clashing colors. This happens when a grouping of harmonious colors are placed next to a color outside the harmony.
+
+INTERACTION OF COLOR AND VISUAL PHENOMENA
+
+All perception of color is based on an interaction of color. One color cannot be seen unless it has others around it. Scientists have put individuals in a room painted in one color. The subject could not distinguish what color the room was, instead they saw white. Only when another color was introduced to the environment were they able to see color. More important is the understanding of how color changes when surrounded by or touching other colors. The effect of simultaneous contrast is greatest at the edges between colors or on patterns of small scale.
+
+cinematography Degradation of Colors: One color adjacent to another color will give a tinge of its complement to the other color. Therefore, two adjacent complementary colors brighten each other. Therefore non-complementary colors will have the opposite effect. A yellow next to a green will give the green a violet tinge, making the latter appear muddy. This is known as the degradation of color.
+
+AFTERIMAGES
+
+Eye fatigue by staring at a color or a bright light can occur; this causes us to see an image in opposition of what we were looking at as relaxation from the stress of one color. A red dot will give a green afterimage. One can train their eyes to look into the shadow of a color and you can find its complement.
+
+THE LAWS OF SIMULTANEOUS CONTRAST
+
+Devised by the French chemist Michel-Eugene Chevreul, the law of simultaneous contrast was first described in his book “The Law of Simultaneous Contrast” written in 1839. When one object is next to another it is useful if any color difference between them is emphasized. Think of a man in a brown jacket standing in front of a brick wall. He is easier to distinguish if the eye/brain combination emphasizes whatever color difference exists between the jacket and the wall. To do this, the visual system modifies our perception of the red in both the jacket and the wall, but the adjustment is larger in the jacket since it is smaller and surrounded by the wall. The result of this adjustment is called simultaneous contrast. Put more simply: our perception of a color is changed by a color that surrounds and touches it. Both colors are actually changed by being next to each other. When two different colors come into direct contact, the contrast intensifies the difference between them. (Figure 7.20).
+
+A light color next to a dark color will appear lighter and the dark will appear darker. The same is true for hue (i.e. yellow/greener), temperature (hotter/cooler) and chroma (brighter/duller). * Colors are modified in appearance by their proximity to other colors.
+
+* All light colors seem most striking against black. * Dark colors seem most striking against white.
+
+* Dark colors upon light colors look darker than on dark colors.
+
+* Light colors upon dark colors look lighter than light colors. * Colors are influenced in hue by adjacent colors, each tinting its neighbors with its own complement.
+
+* If two complementary colors lie side by side, each seems more intense than by itself.
+
+* Dark Hues ona dark ground which is not complementary will appear weaker than on a complementary ground.
+
+* Light colors on a light ground which is not complementary will seem weaker than on a complementary ground.
+
+* A bright color against a dull color of the same hue will further deaden the color.
+
+* When a bright color is used against a dull color, the contrast will be strongest when the latter is complementary, * Light colors on light grounds (not complementary) can be greatly strengthened if bounded by narrow bands of black or complementary colors.
+
+* Dark colors on dark grounds (not complementary) can be strengthened if similarly bounded by white or light colors.
+
+7.20. Simultaneous contrast in practice.
+
+color theory 7.21. Additive color.
+
+7.22. Subtractive color.
+
+cinematography 138
+
+METAMERISM
+
+All this is closely related to metamerism. Two colors that match under one light source, but do not match under a different light source are called metamers. They are said to be a metameric match, Metamerism occurs because the appearance of a color depends on the wavelengths it reflects which, in turn, depend on the wavelengths of the light source.
+
+This can have an important influence of the selection of colors for sets or props, especially in the case of green screen or blue screen work. Always take the light source into consideration when previewing paint chips, wardrobe, makeup, etc. Obviously, this is the reason that the makeup room and wardrobe trailer should have a light source which approximates what will be used on the set.
+
+COLOR MODELS
+
+In addition to the pioneering Munsell system, several different color models are used to classify colors and to qualify them according to such attributes as hue, saturation, chroma, lightness, or brightness.
+
+There are a number of models which are relevant to film and video:
+
+THE RGB (CMY) COLOR MODEL The red, green, blue (RGB) and cyan, magenta, yellow (CMY) models are closely related; one is based on the additive primaries and the other on the additive secondaries. These are also the most representative models for additive and subtractive colors, respectively. RGB is also the basic color model for video and computer monitors.
+
+CMY is most commonly referred to as CMYK. The K stands for black (since B is already used for Blue). In subtractive colors (inks and paints) adding all three primaries together theoretically produces black. In additive color, mixing the three primaries together produces white light. So black has to be considered as a separate color.
+
+ADDITIVE COLORS
+
+Additive colors are those relevant to light and mixing colors in light. (Figure 7.21). The most common examples of this are television screens and computer monitors, which produce colored pixels by firing red, green, and blue electron guns at phosphors on the television or monitor screen. Additive color can be produced by mixing two beams of colored light, or by layering two or more colored gels or by showing the two colors in rapid sucession.
+
+This can be illustrated by a technique used in the earliest experiments with additive colors: color wheels. These are disks whose surface is divided into areas of solid color. When attached to a motor and spun at high speed, the human eye cannot distinguish between the separate colors and sees them instead as a composite of the colors on the disk. Color can also be mixed by showing small bits of color closely spaced together — such as pixels on a video screen.
+
+SUBTRACTIVE COLORS
+
+Subtractive colors are used to describe when pigments in an object absorb certain wavelengths of white light while reflecting the rest. (Figure 7.22), Any colored object, whether natural or man-made, absorbs some wavelengths of light and reflects or transmits others: the wavelengths left in the refiected/transmitted light make up the color we see. This is the nature of print color and cyan, magenta, and yellow, as used in four-color process printing, are considered to be the subtractive primaries. The subtractive color model in printing operates not only with CMY(K), but also with printing inks.
+
+RGB
+
+Red, green, and blue are the primary stimuli for human color perception and are the primary additive colors. The importance of RGB as a color model is that it relates very closely to the way we perceive color with the cone receptors in our retinas. RGB is the color mode! used in video or any other medium that projects the color. It is the basic color model on computers and is used for web graphics.
+
+CMY (K)
+
+Cyan, magenta, and yellow correspond roughly to the primary colors in art production: red, blue, and yellow — they are the secondary colors of the additive system.
+
+Both models fall short of reproducing all the colors we can see.
+
+Furthermore, they differ to such an extent that there are many RGB colors that cannot be produced using CMY(K), and similarly, there are some CMY colors that cannot be produced using RGB. The exact RGB or CMY gamut depends on other factors as well. Every RGB device, whether it be color negative, transparency film, video camera, display monitor, color printer, color scanner, etc., has it’s own unique gamut — it’s own colorspace, there will always be some variation as an image moves from system to system.
+
+THE HSB/HLS MODEL
+
+Hue, saturation, and brightness and hue, lightness, and saturation are two variations of a similar model that is a standard for computer graphics and some video applications. It closely approximates the qualities most apparent to human perception of color.
+
+HSB/HLS are two variations of a very basic color model for defining colors in desktop graphics programs that closely matches the way we perceive color. This model is somewhat analogous to Mun-seli’s system of hue, value, and chroma in that it uses three similar axes to define a color. In HSB, these are hue, saturation, and brightness: in HLS, they are defined by hue, lightness, and saturation.
+
+HUE
+
+The values for the hue axis run from 0-360° beginning and ending with red and running through green, blue and all intermediary colors like greenish-blue, orange, purple, etc. In this respect, HLS IS Very similar to Munsell’s color wheel. Although Munsell used a different method for indicating hue, both arrange the colors in a circular pattern and progress them through compass points. Saturation indicates the degree to which the hue differs from a neutral gray. The values run from 0%, which is no color saturation, to 100%, which is the fullest saturation of a given hue at a given percentage of illumination. This is similar to Munsell’s concept of chroma.
+
+Lightness (value) indicates the level of illumination. The values run as percentages; 0% appears black (no light) while 100% ts full illumination, which washes out the color (it appears white). In this respect, the lightness axis is similar to Munsell’s value axis. Colors at percentages less than 50% appear darker while colors at greater than 50% appear lighter.
+
+THE CIE COLOR SYSTEM
+
+The CIE color models are highly influential systems for measuring color and distinguishing between colors. The C.I.E. color system was devised by the C.L.E. (Commission International de I’Eclairage the International Commission on Illumination) in 1931 and has since become an international standard for measuring, designating, and matching colors. (Figure 7.23). In the C.I.E. system, the relative percentages of each of the theoretical primary colors (red, green, 7.23. A diagram of the CIE color system.
+
+color tneory cinematography blue) of a color to be identified are mathematically derived, then plotted on a Chromaticity Diagram as one chromaticity point, the dominant wavelength and purity can be determined. All possible colors may be designated on the Chromaticity Diagram, whether they are emitted, transmitted, or reflected. Thus, the C.IE. system may be coordinated with all other color designation systems. Any color on the CIE chromaticity diagram can be considered to be a mixture of the three CIE primaries, X,Y and Z, That mixture may be specified by three numbers X,Y and Z, called tristimulus values The light from a colored object is measured to obtain its Spectral Power Density (SPD) and the value for the SPD at each wavelength is multiplied times the three color matching functions and summed to obtain X, Y, and Z. These values are then used to calculate the CIE chromaticity coordinates.
+
+STANDARD LIGHT SOURCES IN CIE
+
+The following CIE standard sources were defined in 1931: * Source A — A tungsten-filament lamp with a color temperature of 2854K * Source B — A model of noon sunlight with a temperature of 4800K * Source C — A model of average daylight with a temperature of 6500K.
+
+This is slightly different from the standard 5500K daylight as defined by the U.S. government. The 5500K standard is still widely used for lighting instruments, globes and correction gels.
+
+DIGITAL AND ELECTRONIC COLOR
+
+Electronic color is displayed on television and computer screens through the use of a cathode-ray tube (CRT). A CRT works by moving back and forth behind the screen to illuminate or activate the phosphor dots on the inside of the glass tube. Color monitors use three different types of phosphors that appear red, green, and blue when activated. These phosphors are placed close together, and when combined in differing intensities can produce many different colors. The primaries of electronic color are therefore red, green, and blue, and other colors can be made by combining different intensities of these three colors. There are differences in the measurement system of analog and digital video. The intensity of each color is measured on a scale from 0 to 255 (in the digital system), and a color is specified by telling the monitor the RGB values. For instance, yellow is specified by telling the computer to add 255 red, 255 green, and 0 blue. Video color is analysed on the vectorscope. which is discussed in detail in the chapter on Video and High Def. ge Yan:
+
+SAN An the tools of lighting

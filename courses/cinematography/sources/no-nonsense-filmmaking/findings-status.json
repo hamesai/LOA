@@ -1,0 +1,32 @@
+{
+ "54a55ee4": {
+  "state": "applied",
+  "note": "module 1, 24 fps standard",
+  "date": "2026-10-26"
+ },
+ "0bd84925": {
+  "state": "applied",
+  "note": "module 5, crossing the 180 degree line",
+  "date": "2026-10-26"
+ },
+ "0d8b1d10": {
+  "state": "applied",
+  "note": "module 5, jump cut",
+  "date": "2026-10-26"
+ },
+ "eab5fd16": {
+  "state": "skipped",
+  "note": "Kuleshov and Fabe lessons already cover montage; the book adds no new claim",
+  "date": "2026-10-26"
+ },
+ "e0132384": {
+  "state": "skipped",
+  "note": "module 4 already says the backlight rims the subject",
+  "date": "2026-10-26"
+ },
+ "922da6ff": {
+  "state": "skipped",
+  "note": "production checklist is outside these modules",
+  "date": "2026-10-26"
+ }
+}

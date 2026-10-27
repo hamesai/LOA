@@ -1,0 +1,129 @@
+Chapter 3: The Lens and the Frame
+
+3.1. (previous page) Choice of lens, lens height and placement in relation to the subject are all critical to the visual power and the introduction of a character in this shot from Touch of Evil.
+
+3.2. (right) The well composed, balanced frame; the completely static camera position and the centered “head on” viewpoint all add up to reinforce the story content of a rigid social structure and 1 highly formalized social milieu in which the story of Barry Lyndon takes place THE LENS AND THE FRAME
+
+As we use the term in this book, cinematic technique means the methods and practices we use to add additional layers of meaning. nuance and emotional context to shots and scenes in addition to their objective content. The lens is one of the prime tools in achieving these means. Together with selecting the frame, it 1s also the area o! cinematography in which the director is most heavily involved As we discussed in Filmspace, setting the frame is a series of choices which decide what the viewer will see and not see. The first of these decision is where to place the camera in relation to the scene, After that, there are choices concerning the field of vision and movement, all of which work together to influence how the audience will perceive the shot: both in outright content and in emotional undercurrent and subtext to the action and the dialog STATIC FRAME
+
+A static frame is a proscenium. The action of the scene Is presented as a stage show: we are a third person observer. There is a proscenium wall between us and the action. This is especially true if everything else about the frame is also normal, i.e., level, normal lens, no movement, etc. This does not mean, however, that a static frame is not without value. It can be a useful tool which carries its own baggage and implications of POV and world view.
+
+In Stanley Kubrick’s film Barry Lyndon, the fixed, well composed, balanced frames reflect the static, hierarchical society of the time (Figure 3.2). Everyone has his place, every social interaction is governed by well defined and universally known rules. The actors move within this frame without being able to alter it. [t is a reflection of the world they live in and while it strongly implies a sense of order and tranquility, it also carries an overpowering lack of mobility: both social and physical.
+
+This is similar to Jim Jarmusch’s use of the fixed frame in Srv Than Paradise. The world is static: the characters try to find thei place in it. Each scene is played out completely within this fi) frame: without movement, cuts or changes in perspective. This use of the frame conveys a wealth of information independent of the script or the actions of the characters. [t adds layers of meaning In both the examples, the distancing nature of the frame ts used for its own purpose, in the Brechtian sense. The filmmakers are delibet ately putting the audience in the position of the impersonal observe!
+
+This can either lend an observational, judgmental tone or much like objects in the foreground of the frame, make the audience work harder to put themselves into the scene, or a combination of both. As with almost all cinematic techniques they can be used “in reverse”
+
+to achieve a completely different effect than normal.
+
+FOREGROUND/MIDGROUND/BACKGROUND
+
+As we discussed in Fi/mspace, one of the key elements of film is that we are projecting 3-dimensional space onto a 2-dimensional plane.
+
+Except in rare cases where we want this flatness, it is the job of the filmmakers to re-invent the depth that existed in the original scene or manipulate it in a way that serves the purpose of the scene.
+
+In the book Hitchcock/Truffaut, Hitchcock makes the point that a basic rule of camera position and staging is that the importance of an object in the story should equal its size in frame. We see that principal employed in this shot from The Ladv From Shanghai (Figure 3.4). The gun is what is important in the scene, so Welles uses a low camera angle, a wide lens and positioning to feature the gun prominently in the frame.
+
+LENS PERSPECTIVE
+
+WIDE LENSES AND EXPANSION OF SPACE
+
+As we discussed in the previous chapter, the fundamental aspect of the frame is that it constitutes a selection of what the audience is going to see. Some things are included and some are excluded. The first decision is always where the camera goes in relation to the subject. But this is only half of the job. Once the camera position is set there is still a decision to be made as to how much of that view Is to be included. This is the job of lens selection, Normal human vision, including peripheral, extends to around 180°. Foveal vision, which is more able to perceive detail, is around 40°. In 35mm film, the 50mm is generally considered the normal lens, equivalent to a 25mm in 16mm film. In fact, something around a 40mm is closer to typical vision. In video, the normal lens varies depending on the size of the video receptor. The focal length of a lens is significant in another way in addition to its field of view.
+
+Again, remember that all optics (including the human eye) work by projecting the three-dimensional world onto a two-dimensional plane. Lenses in the normal range (35mm to 50mm for 35mm film)
+
+portray the depth relationships of objects in a way fairly close to human vision. Technically. a normal lens is considered to be one where the focal length equals the diagonal of the aperture.
+
+With a wider than normal lens, depth perception is exaggerated:
+
+object appear to be farther apart (front to back) than they are in reality. This exaggerated sense of depth has psychological implications. The perception of movement towards or away from the lens is heightened; space is expanded and distant objects become much smaller. All this can give the viewer a greater sense of presence. A Table 3.1. Field of view of some typi-greater feeling of being in the scene — which is often a goal of the cal lenses. This is based on a 35mm filmmaker. As the lens gets even wider, there is distortion of objects, A¢@demy format. particularly those near the lens. This is the fundamental reason why a lens longer than 100mm is considered necessary for a portrait or 18mm 76° head shot. It’s a simple matter of perspective. If you are shooting 25mm 51° a close-up and you want to fill the frame, the longer the lens, the 39mm 39° closer the camera will have to be. As the camera gets closer, the percentage difference in distance from the nose to the eyes increases Soma = dramatically (Table 3.1). 85mm Nau For example: if the tip of the nose is 30cm from the lens, then the 135mm_| 9° eyes may be at 33cm, a 10% difference. With a wide lens, this is 300mm | 4° enough to cause a mismatch in size: the nose is exaggerated in size 600mm | 2° compared to the face at the plane of the eyes. With a longer than lens language 3.3. Extreme wide-angle optics are frequently thought of as “comedy” lenses due to the distortion and the breaking of the “fourth wall” which they often imply. (City of Lost Children.)
+
+(above)
+
+3.4, (right) The very wide lens cre ates a palpable space between the characters in this climactic scene in The Lady From Shanghai; he is heading out toward the light and she is in complete silhouette;all of which precisely underpin the exact story point at this moment in the film.
+
+3.5. A deep focus shot from Citizen Kane.(RKO Radio Pictures, 1941. Now owned by Turner Classic Movies).
+
+Three levels of the story are shown in the same frame.
+
+normal lens, the camera will be much farther back to achieve the same image size. In this case, the tip of the nose might be at 300cm, with the eyes at 303cm. This is a percentage difference of only 1° the nose would appear normal in relation to the rest of the face. The same fundamental principle applies to the perception of all objects with very wide lenses (Figure 3.3).
+
+Another aspect of wide lenses is that at a given distance and {/stop, they have greater depth-of-field. Not to get too technical here (enough of that in the chapter on Optics), but suffice it to say that the depth-of-field ofa lens is inversely proportional to the square of its focal length. This is discussed in detail in the chapter on Optics, but its perceptual ramifications are very much a part of the psychol ogy of the lens. This greater depth-of-field allows more of the scene to be in focus. This was used to great effect by master cinematographers of the 30s and 40s such as Gregg Toland, who used it to develop an entire look called deep focus, such as in the shot from The Long Voyage Home (Figure 2.9 in Lens Language). In this film and in Wuthering Heights (William Wyler, 1939), Toland perfected deep focus as a visual system.
+
+DEEP FOCUS
+
+The high point of deep focus as a storytelling tool is Citizen Kan (Orson Welles, 1941). According to David Cook in 4 History of Nai rative Film, “Welles planned to construct the film as a series of long takes, or sequence shots, scrupulously composed in depth to eliminate the necessity for narrative cutting within major dramatic scenes.
+
+To accomplish this, Toland developed for Welles a method of deep focus photography capable of achieving an unprecedented depth-of-field” (Figure 3.5).
+
+This deep focus also facilitates composition in depth to an unprecedented degree. Throughout the film we see action in the background which compliments and amplifies what we are seeing in the background, For example, early in the film we see Mrs. Kane in the foreground, signing the agreement for Mr. Thatcher to be the young Charles Foster Kane’s guardian. Throughout the scene, we see the young man through a window, playing outside with his sled even as his future is being decided (Figure 3.5).
+
+Welles also uses the distortion of wide angle lenses for psychological effect. Frequently in the film we see Kane looming like a giant in the foreground, dwarfing other characters in the scene — a metaphor for his powerful, overbearing personality. Later, Welles uses the exaggerated distances of wide lenses to separate Kane from other characters in the scene, thus emphasizing his alienation and self-absorption.
+
+COMPRESSION OF SPACE
+
+At the other end of the spectrum are very long lenses. They have effects that are opposite of wide lenses: they compress space, have less depth-of-field and de-emphasize movement away from and towards the camera (Figures 3.6, 3.7 and 3.8).
+
+This compression of space can be used for many perceptual purposes: claustrophobic tightness of space, making distance objects seem closer and heightening the intensity of action and movement.
+
+Their ability to decrease apparent distance has many uses both in composition but also in creating the psychological space.
+
+The effect of having objects seem closer together than they really are is often used for the very practical purpose of making stunts and fight scenes appear more dramatic and dangerous than they really are. With careful camera placement and a long lens, a speeding bus can seem to miss a child on a bicycle by inches, when in fact, there is a comfortably safe distance between them.
+
+The limited depth-of-field can be used to isolate a character in space. Even though foreground and background objects may seem closer, 1f they are drastically out of focus, the sense of separation is the same. This can result in a very detached, third person point of view for the shot. This detachment is reinforced by the fact that the compression of space makes more tangible the feeling that the real world is being projected onto a flat space. We perceive it more as a two-dimensional representation, Movement toward us with a long lens is not as dynamic and therefore is abstracted. It is more of a presentation of the idea of movement than perceived as actual movement of the subject. This is especially effective with shots of the actors running directly towards the ie III 3.6. (below, left) Perspective and space as affected by a very long focal length lens.
+
+3.7. (below, middle) A normal perspective.
+
+3.8. (below, right) Perspective and space as rendered by a very wide angle lens.
+
+lens language 3.9.Very long lens perspective makes this shot and the action of the characters more abstracted — it is reduced to the simple idea of leaving. (Rain Man. United Artists, 1988).
+
+camera; as they run toward us, there is very little change in their image size. We would normally think of this as decreasing the sense of movement, but in a way, it has the opposite effect. The same ts true of slow-motion. Although shooting at a high frame rate actually slows the movement down, our perceptual conditioning tells us that the people or objects are actually moving very fast — so fast that only high speed shooting can capture them on film. Thus shooting something in slow motion and with a long lens has the ultimate effect of making the moving seem faster and more exaggerated than it really is the brain interprets it in a way that contradicts the visual evidence (Figure 3.11).
+
+This is an excellent example of cultural conditioning as a factor in film perception. If you showed a long lens, slow motion shot of someone running to a person who had never seen film or video before, they might not understand at all that the person is running fast. More likely they would perceive the person as almost “frozen in time,” through some sort of magic.
+
+MANIPULATING PERSPECTIVE
+
+There are many tricks that can be used to alter the audience’s perception of space. In The Ladv From Shanghai, Welles uses a subtle and very clever trick to add subtext to the scene. In the film, Welles plays an ordinary seaman who ts seduced into an affair and a murder plot by Susan Hayward. There are double and triple crosses and the Welles character is in way over his head. This scene is a meeting between him and the beautiful woman who ts at the bottom of all the schemes and machinations. She asks him to meet her in an out-ofthe-way public place: the aquarium. On the face of it this seems like 3.10.(below) Linear perspective and perfect place for them to meet without being seen by her husband converging lines as affected by focal or otherwise attracting attention. In fact she has a darker purpose ength. (Figures 3.12 and 3.13).
+
+3.11. (bottom) A very long lens shot —- The staging also seems perfectly straightforward. They meet and solates action from a crowd shot. os a tna 7.
+
+(Nine and 1/2 Weeks). then talk while they stroll in front of the glass windows of the aquar-ee : ium. Welles uses several subtle tricks to make this happy, innocent i /\ place mysterious and foreboding. First, the motivated light from the PN oer backlights them, dramatically in a classic film noir fash- \ ion. As the Welles character begins to realize the danger of the situ-si]- — — “ation he ts in, they move to a spot where they are completeh houette. When he goes in for coverage, Welles doesn’t chicken out Most directors would ask the DP to add a little light on their faces for the close-ups, but Welles actually goes darker and the close-ups are totally silhouette. The motivated lighting is also a water effect so the ripples play naturally across their faces.
+
+The third trick is even more clever. In the wide shots, we see the fish in the aquarium: ordinary exhibition fish and turtles of one or cinematography 3.12. Mle =f The normal ‘per spect 3.13. In the close projections of their normal menace anc ness to the ting of the aqua and the rippling from the wa V suggest that the character his head ¥ two feet in length. In the close-ups, however, Welles had film of the fish back-projected at a greatly enlarged size. As a result, the fish re now gigantic. Although just barely seen behind their heads, the effect is powerful, mysterious and a little se te In combina- 3,14,Kuro tion with the silhouette and the rippling water effects the subtext !onglense 9 form compc lea iracter IS In over his depth, his he: id is under watet ze ne Pe cnein nein yt and he I It is a masterful stroke t is completely — fenses.He also employs a a unnotic vast majority of the audience. Like all the best tech- for deep $ — very unt nique, it seamlessly and invisibly. pete amen had 2 eae ite:
+
+Kurosawa uses very long lenses in a way that is stylistically distine- quantities of light even on day live. See | 3.19 and 3.20 for examples of how he uses OFS ou h pon TO!
+
+LSamural.
+
+nses to ¢ certain Compositional perspectives and character ationships. Ano thet example of lens use is the punch-in, shown in Figures 3 and 3.18)
+
+The characteristic of relative lack of depth-of-field can be used fot focus shots. As discussed above, shallow depth-of-field can isolate the subject. The essential point is the focus as a storytell-tool. This 1s a drawbacks of 16mm film and High Det they have far more depth-of-fie 35mm film, thus making 1t more it or n t« n > bee Na olent thug 3.16. At the th realize tney Nave lost th acker, a severe lens change pun » the scene, t i igh ene ch gets us | fe th >xperiencing = characters are drawn into identify with sudden loss am in the s our attenttion The punch-in The ath difficult to use focus as in this way. Digital video makes it alm¢ impossible, as nearly everything is in focus, no matter w Se tive focus to concentrate attention on the character is shown Q ures 3.15 and 3.16, Some people will say “pull back and use a longer lens” or “shoot wide open.” Unfortunately these two are not always option cially on a cramped location. Focus can also be shifted during shot, thus leading the eye and the attention of the viewer. The ter for the classic use of this Is “rack focus.” in which the focus is object in the foreground, for example. and then, on cue. th assistant radically changes the focus so that the focus shifts di cally to another subject either in front of or behind the original sul feet. Occasionally a director will ask fora dramatic rack focus the situation does not lend itself to the technique: especially whi there is not enough of a focus change to make the effect noti In this case it may just look like sloppy focus pulling \lso with tracking shots that are very tight and close (as in lop shooting). we can watch as objects come into view, then come into focus then go soft again. Selective focus and ou can also be highly subjective visual metaphors for the influet 3.17. (ne from Thel yht) A medium shot 3.18. (far right) A classic punch-in; little cl ept that we get intimate with the term punch-in usually ing to a longer lens, se the term camera straight WaNngQes drugs or madness, as well. The bottom line is that focus is an important storytelling tool.
+
+Another issue in selective focus is when two or more players are in the same shot but at different distances. If you don’t have much t/stop, it may be necessary for the focus-puller to chose one or the other to be in focus. This is up to the DP or director to decide and they should consult before the shot — and don’t forget to let the focus puller know.
+
+A few basic rules of thumb:
+
+* Focus goes to the person speaking. It is permissible to rack back and forth if they both do dialog.
+
++ Focus goes to the person facing the camera or most prominent in the frame.
+
+* Focus goes to the person experiencing the most dramatic or emotional moment. This may countermand the principal of focusing on the person speaking.
+
+- If there is doubt or if the actors don’t hit their marks, most camera assistants put the focus on the actor who has the lower number on the call sheet.
+
+This may sound frivolous but it’s not. Call sheets list the actors in numbered order of their characters. The lead is actor #1, ete. If you are playing it on the fly, the safe bet is to go with the actor with the lower number on the call sheet.
+
+If they are close enough the AC may split the focus between them or very subtly rack back and forth. Major focus racks need to be discussed in advance and rehearsed. This is true of all camera moves that are motivated by dialog or action. If the AC and the operator haven’t seen what the actors are going to do, it is difficult to anticipate the move just enough to time it correctly. Rehearsal 1s a time saver, as it usually reduces the number of blown takes.
+
+It is interesting to note that older books on cinematography barely mention focus at all. There is a reason for this. Until the “60s, it was the established orthodoxy that pretty much everything important in the frame should be in focus. The idea of deliberately having key elements in the frame that are deliberately out of focus really didn’t fully take hold until it was popularized by fashion photographers in the “80s.
+
+3.19. (above) Japanese and Chinese traditional art do not employ linear perspective, instead they rely on above/below relationships to convey depth. (Private collection of the author.)
+
+3.20. (left) Kurosawa almost exclusively employs very long lenses and slightly elevated points of view to render a similar type of compressed spaced. In this shot from Seven Samurai, we clearly see the influence of compostion and perspective from Japanese prints.
+
+3.21. (below) A normal lens keeps the background in focus; it can be distracting.
+
+3.22. (bottom) A very long lens throws the background out of focus and the viewer’s entire attention is drawn to the character.
+
+ens language

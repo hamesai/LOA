@@ -1,0 +1,89 @@
+CONTENTS
+
+Preface
+
+1. Introduction to Digital and Film Systems
+
+Digital Video Systems • The Video Format • What Is Compression? • Comparing Video Formats • High Definition Digital Formats • Digital Cinematography Systems • Standard Definition Digital Formats • Standard Definition Analog Formats • Recording to Memory Cards, Drives, and Discs • Sound Recording for Video • Video Editing • Film Systems • Comparing Film Formats • Sound Recording for Film • Film Editing • Shooting Digital Versus Shooting Film
+
+2. Before You Begin Production
+
+Getting Your Movie Off the Ground • Formats for the Big Screen and the Small(er) Screen • The “Look” of the Movie • The Impact of Sensor Size and Film Gauge • Color and Sensitivity to Light • Sharpness and Focus • Aspect Ratio Choices • Frame Rate and Scanning Choices • Choosing a Camera • Planning Your Workflow • Managing Data in Production and Post • The Importance of Sound • Coping with Technology
+
+3. The Video Camcorder
+
+Initial Settings • Viewfinder and Monitor Setup • Picture Controls • Recording to Cards, Drives, and Optical Discs • Types of Media • Managing Data on the Shoot • Recording to Digital Tape • Operating the Camcorder • Batteries and Power Supplies • Camera Sensitivity • Other Camera Features
+
+4. The Lens
+
+Focal Length and Perspective • The Light-Gathering Power of the Lens • Focusing the Image • Choosing a Zoom Lens • Prime Lenses • Close Focusing • Lens Quality and Condition • The Lens Mount • Lens Seating Problems • Care of the Lens
+
+5. The Video Image
+
+Forming the Video Image • The Digital Video Camera’s Response to Light • Understanding and Controlling Contrast • What Is Gamma? • Gamma Options When Shooting • Video Color Systems • Some Image Manipulations and Artifacts • Video Monitors and Projectors • Timecode • Digital Video Recording—How It Works • Pixels and Resolution • Working with Digital Data • Digital Connections • Hard Drive Storage • RAIDs • File Formats and Data Exchange • Digital Compression • Compression Methods • A Few Common Codecs
+
+6. The Film Camera
+
+The Film Gate and Shutter • Camera Speed and Motors • Viewing Systems • The Reflex Viewfinder • Camera Film Capacity • Other Camera Features • Camera Tests and Maintenance
+
+7. The Film Image
+
+Properties of the Film Stock • Contrast of the Image • Sharpness • Choosing a Raw Stock • Packaging, Handling, and Purchasing • The Light Meter and Exposure Control • Light Meters • Taking Readings • Exposure and Film Stocks • The Film Lab During Production • Screening the Rushes
+
+8. Color and Filters
+
+Color • Color Temperature • Filters • Matte Boxes and Lens Shades
+
+9. Shooting the Movie
+
+The Goals of Production • Composition and Shot Selection • The Moving Camera • Style and Direction • Dramatic Films • Documentaries • Preparing for Production • Preparing the Script and Approach • Scheduling and Planning • Organizing the Production • The Equipment Package • In Production • Logging • Supporting the Camera • Slow Motion, Fast Motion, and Judder • Slow Motion • Fast Motion • Judder or Strobing • Shooting TVs and Video Monitors • Shooting in 3D
+
+10. Sound Recording Systems
+
+Sound • How Audio Is Recorded • Analog Audio Recording • Digital Audio Recording • Types of Audio Recorders • Digital Audio Recorders • Audio in the Video Camera • The Analog Tape Recorder • The Microphone • Audio Connections
+
+11. Sound Recording Techniques
+
+Preparing for a Shoot • Gathering Gear • The Sound Recordist’s Role • Recording Technique • Setting the Recording Level • Music, Narration, and Effects • Other Recording Issues • Recording Double System for Video and Film • Syncing Audio and Picture • Operating a Double-System Recorder
+
+12. Lighting
+
+Light • Lighting Equipment • Bulbs • Types of Lighting Instruments • Lighting Technique • Lighting Styles • Positioning Lights • Controlling Lighting Contrast • Lighting and Color • Special Lighting Effects • Location Lighting
+
+13. Picture and Dialogue Editing
+
+Some Film Theory • Approaches to Editing • Dialogue Editing • The Editing Process • Titles
+
+14. Editing Digital Video
+
+Components of a Nonlinear Editing System • How the NLE Plays and Edits Media • Postproduction Workflow • What Format or Resolution to Edit In? • Importing and Organizing Your Material • Importing Files • Capturing from Tape • Creating and Editing Sequences • Basic Sound Editing • Working with Double-System Sound • Basic Video Effects • Titles, Graphics, and Stills • Mixing and Converting Formats • Working with 24p and Pulldown • Editing 24p Footage • Finishing and Output • Managing Media • Exporting a File • Output to Tape • Creating a DVD or Blu-ray • Creating a Digital Cinema Package • Color Correction • Tape Editing • The EDL and Online Editing
+
+15. Sound Editing and Mixing
+
+The Sound Editing Process • Sound Editing Tools • Sound Editing Technique • Music • Some Sound Editing Issues • Preparing for the Mix • The Sound Mix • Level and Dynamic Range • Frequency Range and EQ • Other Sound Processing • Mix Formats • Deliverables
+
+16. Working with Film in Postproduction
+
+Overview of Film-Video Transfers • Some Film-Digital Workflows • Film-to-Digital Transfer Devices • Telecine Options and Controls • Recording Format and Scanning Options • Image Control • Audio Options • Film Transfer Data • Booking a Transfer • Editing Film Digitally • Preparing to Edit • Editing Considerations for Traditional Film Finish • When You’re Done with the Offline Edit • From Digital to Film • Preparing for the Digital-to-Film Transfer • Traditional Film Conforming and Blowups • Preparing the Original for Printing • Blowups • Making Film Prints • Printing Basics • Answer Prints • Intermediates • Release Prints • Sound for Film Prints • Analog Optical Tracks • Digital Sound Tracks • Film Projection
+
+17. Producing and Distributing the Movie
+
+Developing the Project • Funding Sources • Budgets • Business Arrangements • Legal and Copyright Issues • Protecting Your Work • Releases for Real People, Places, and Things • Using Copyrighted Material • Distribution and Marketing • A Last Word
+
+Appendices
+
+A. Adjusting a Video Monitor
+
+B. Data Rates and Storage Needs for Various Digital Formats
+
+C. Depth of Field Tables
+
+D. Hyperfocal Distance Table
+
+E. Angle of View in Different Formats
+
+Bibliography
+
+Websites
+
+Index

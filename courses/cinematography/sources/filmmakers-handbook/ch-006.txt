@@ -1,0 +1,651 @@
+CHAPTER 2
+
+Before You Begin Production
+
+This chapter is an attempt to corral in one place some of the production and technical questions to consider before you even begin your movie. The discussion that follows ties together topics that are addressed separately and often in more detail in later chapters; use the index if any terms are unfamiliar.
+
+Particularly in moviemaking, we live in a transitional time with enormous changes between how things used to be done, how they’re done now, and how they’ll be done in the near future. Knowing the history, staying alert to current developments, and keeping an eye to “future proofing” your production are all important parts of planning your path.
+
+Before you begin a project, you have to make some fundamental choices about what methods and equipment you’ll use. The number of options in terms of financing, formats, camera settings, editing procedures, software, and distribution can be oppressive, and many people feel bewildered by them. Some of these choices can affect how the movie gets made, how it looks, its cost, and where you can show it when you’re done. But keep in mind that the technical and media landscape today is so advanced and so flexible that even if you go with a less-than-optimal choice or set a switch on your camera the wrong way, you’ll probably be fine in the long run.
+
+GETTING YOUR MOVIE OFF THE GROUND
+
+Germinating the Idea
+
+You have a great idea for a movie, be it fiction or documentary. Perhaps there’s an article, story, or novel you think would make a great film. Or maybe you have a personal relationship to something or someone interesting, or special access to unfolding or historical events.
+
+How do you turn your dream of a movie into a reality? There is no set route, and getting a film made involves plenty of detours, dead ends, rejections, and successes. Depending on your ambitions and your means, you may need a lot of money and a large organization, or you may be working in the DIY (do-it-yourself) mode, made increasingly feasible by low-cost HD equipment. Even for large-scale productions, producers often have to do a lot on their own before getting support for a project.
+
+A narrative film may begin with an idea or a treatment, which outlines the characters and plot. You may need to write a spec script (speculative—written before any deal is in place) as a way to get the project going. If you want to base a screenplay on an existing novel or short story, you need to option the story from the rights holder (see p. 742).
+
+A documentary might begin with research, a written proposal, and often some preliminary footage (more on this below). Documentaries may also involve securing rights to books, or getting permission from individuals, institutions, or government agencies before filming.
+
+It’s important to write about your idea, in part to clarify in your own mind what you’re trying to do. Make yourself answer the tough questions and get specific about your vision—that specificity can help you communicate with and inspire collaborators. Create a full, detailed proposal or treatment of the project, which you’ll need for various types of fundraising. Then condense it into a short, engaging version (no more than a few pages) for busy readers with short attention spans. See Developing the Project, p. 718, for more.
+
+Work up a one- or two-sentence logline that captures the story in an intriguing way (do a Web search on “logline” to see many good and bad examples). Practice an elevator pitch that can get someone interested in less than a minute. This forces you to be clear and succinct, both of which are essential. Practice a longer pitch you might give an executive if you had ten minutes on the phone or in person.
+
+Some people like to blog, create websites, post videos, tweet, or do other types of online promotion at the early stages of a project. Others guard their ideas until the production’s really under way. It’s up to you to decide when publicity might help.
+
+Working Backward from Distribution
+
+Some people create movies for their private use, but for most filmmakers, the goal is not just to make a film but to get it seen. How that happens depends in part on the choices you make: aesthetic, practical, technical, and commercial. There are many gatekeepers along the way who will decide whether to finance, buy, or show your movie. Depending on your goals, these may include funders, festivals, distributors, theater bookers, broadcasters, galleries, businesses, or school systems. Each will have certain expectations that influence whether they accept or reject your project. So when you’re starting out, it helps to consider the end product you’re aiming for.
+
+Perhaps the single most important question you can ask is: Who is your core audience? Who is going to be most interested in your project and support it when you’re making it and when it’s done? Who is going to forward your emails, join your Twitter feed, share links to your blog, or help you crowdfund on sites like Kickstarter (see Chapter 17)? If you can identify your audience and engage them, you’re on your way.
+
+Educate yourself about the world you want to work in. Research what projects have been successful recently in whatever area of filmmaking you’re interested in. Read case study articles (“how we made our movie”) to learn about what kinds of financing, technology, or production methods were used. Go to festivals and theaters to see what’s current. Visit museums and galleries. Watch TV. Get a sense of production values of successful films and how audiences respond. Read the “trades”—industry papers, magazines, and websites—to find out about what kinds of projects are getting produced and distributed.
+
+The point is not to imitate what’s successful at the moment (though Hollywood has made an industry of that). Hopefully, you’ll make your film as fresh and original as you can. In fact, people who pattern their work too closely on recently successful films often find that the public and the gatekeepers are looking for something completely different by the time their film comes out. Short-term trends about what’s hot can prove meaningless because for most projects there’s a delay of months or years between when you plan the movie, when (if ever) you get funding, when it’s completed, and when (if ever) it finds distribution. Entire genres go through cycles from hot to not (“What, another vampire film?” or “There were two docs on solar power already this year.”). Look for things that inspire you and give you ideas, then take your best guess about what the world will be like when you make and finish your film.
+
+The world is a global marketplace, so find ways that your project can appeal to audiences outside your own country. This might influence how you approach the story, the actors you cast, where you film, or what festivals you apply to.
+
+Achieving theatrical distribution has been a mark of success for fiction films and many documentaries as well, but the theatrical marketplace, particularly for independent films, is in turmoil. High marketing costs and low fees have driven many indie distributors and filmmakers out of business. A theatrical rollout can get you reviews in major papers and media outlets, which can be great, but there are lots of expenses for HD masters or film prints, ads, and sometimes an indie film will even need to guarantee a rental fee to the theater. So even if you’re aiming for theaters, you should focus just as much on other distribution channels, which may ultimately contribute more to your bank account. Again, knowing your core audience and engaging them is crucial to making money in the new distribution models.
+
+When it comes to technology, there are a lot of options to choose from. If you’re planning for a particular type of distribution (say, cable or broadcast television) there will be criteria about what formats are acceptable and certain technical specs that must be met. Many broadcasters have websites with production requirements and things like standard program lengths.1
+
+Are there long-term technical trends that might affect your film? For example, broadcasters such as PBS in the U.S. now require that all submissions be in HD (though they will still accept some SD material upconverted to HD). Even if you shoot in HD, various broadcasters may have strict rules about which cameras and formats they’ll accept and which they consider subpar. If you hope to sell your movie, you’ll want to be prepared.
+
+New forms of distribution create new markets and income streams. Keep an ear to the ground for what’s coming so you can take advantage. Distribution contracts sometimes refer to “formats now known or hereafter devised” as a way to lay claim to developments yet to come. In theory, the Internet can fully democratize distribution, removing the gatekeepers altogether. However, while posting your film on a website may make it available to viewers, there are still the hurdles of attracting an audience and trying to make a living from your work.2 Some things don’t change, and whenever money is involved, the gatekeepers are never far behind; filmmakers will always need to find a way to work with them.
+
+WORKING IN 3D. Along with a third dimension, 3D adds a host of further challenges and concerns. All realms—aesthetic, practical, technical, and commercial—are touched by the decision to fashion a story, whether dramatic or documentary, low-budget or Hollywood summer tent pole, in 3D space. Advances in digital cinema like smaller, more affordable cameras are making 3D production accessible in ways never before imagined. As consumers purchase more 3D camcorders and TVs, 3D is reaching into the mainstream. For a serious filmmaker, shooting in 3D means a lot more than simply using two cameras instead of one—there’s a lot to learn about the basics of 3D perception and good stereoscopy. These subjects can easily fill a book and so will be touched upon lightly in this one. See p. 396 for more on filming and exhibiting in 3D.
+
+Finding Funding and Support
+
+Many nonfilmmakers fantasize that the filmmaker’s life is one of endless creativity, with satisfying days filled with one artistic experience after another. There may be a few filmmakers who live like that, but for most, moviemaking involves seemingly short periods of real creative work and seemingly endless amounts of business. And when it comes to business, the biggest item is often finding money for the next project.
+
+“Independent filmmaking” is usually defined as working outside a studio or other large organization that bankrolls and controls your work. But even if you’re on salary with a large corporation, you’ll probably still need to convince others to fund your project. Raising money can be one of the most arduous and painful parts of making a movie.
+
+How you go about finding money depends on the type of project. Generally, the more elements of the project you can set in place before going to a funder, the better it will look. This is especially important if you don’t have a track record.
+
+Fiction films benefit enormously from having recognizable names in the cast and crew. Getting a well-known actor to commit to a role or getting a successful filmmaker to sign on as executive producer can help you draw in other talented people and increase interest in the film. To lure a key actor, create a juicy role that will let that actor show his or her range. It may take months or even years to get a known actor to read a script that has no money behind it, but if you’re offering a brilliant role, you have something of real value.
+
+Fig. 2-1. Small video crew. Including, at right, videographer, assistant, and dolly grip. (From the Better & Better series with Elizabeth Hepburn. Photo by Arledge Armenaki.)
+
+Documentarians sometimes seek out endorsements from well-known people or sign up a group of advisers or consultants to lend credibility to the proposed project.
+
+Funders—be they film studios, broadcasters, or foundations—love nothing more than sure bets. They want to minimize their risk by putting money into projects that seem likely to offer a return on their investment (in the case of a foundation, return may be measured not in dollars but in visibility or community outreach). This is why money tends to go to established producers or to fund projects that resemble previously successful projects (hence the production of Hit Film: The Sequel). If you’re new to the business, or trying to do something new, you’ll have an uphill battle. In this case, you may find that funders will support you only after the project is fairly far along or has received other backing (“first money” is always the riskiest).
+
+Sometimes you can obtain seed or development money to develop the proposal or script, begin serious fundraising, or do other preproduction work. Be aware that in some situations when you receive development funds you may be required to give up some or all ownership or control of the project.
+
+If it’s feasible to shoot selected scenes of a drama or documentary, you can improve your chances a lot by preparing a short trailer (coming-attractions promo) or sample reel. Some people put together short excerpts with narration, to describe the project and pique interest. For a drama, sometimes a slick theatrical trailer is made to give investors a sense of how the film might be marketed. Another approach is simply to edit together a few scenes, which may better indicate the movie’s style and the director’s ability. For a documentary, you can go a long way with a few scenes that show emotion, conflict, and compelling characters. Increasingly, broadcasters and funders insist on seeing footage or a sample reel from the project before they’ll put down money, particularly for documentaries.
+
+One of the biggest questions is when to share the project. Though you may have a clear idea of what the movie will look like and how great it will be, funders can be stunningly unimaginative when it comes to sharing that vision. Examples are legion of successful movies that collected a thick pile of rejection letters along the rocky road to completion. Often, the same funding sources have to be approached more than once before they say yes. But before you approach any potential funder or investor, think hard about whether the script or project is really ready. Surely there are movies that have been bankrolled by distributors on the basis of an unpolished rough cut; but there are probably far more examples of projects that were shown before they were presentable and ended up turning off the very people the filmmakers hoped to entice. Everyone in the business has a stack of scripts, proposals, and sample reels to look at. In a crowded marketplace, you often have only one shot at many potential backers, so be sure you’re taking your best shot.
+
+Working Backward from the Budget
+
+As you move toward actually producing the project, you’ll need an estimated budget that states how much money you need and details how you plan to spend it. For fiction films, an experienced producer or production manager creates a budget based on the script. Documentaries can sometimes be hard to predict, especially if you’re filming ongoing events (your main character is trying to stop oil drilling in a nature preserve—how long will that take?). For all types of films, the initial budget is based on estimating the number of shooting days, salaries for crew (and actors, if any), locations, travel, editing time, special effects, and so on.
+
+You can think of the estimated budget as a tool for fundraising and a tool for planning the production. But there’s an ongoing dynamic that often follows this sequence: (1) you determine how much money you need to do the project; (2) you go out and discover that the amount you can raise is less—often a lot less; (3) you reconfigure your plan so you can get it done on a smaller budget.
+
+You can help yourself from the outset by looking closely at every element in the script or plan and asking what can be cut without deeply compromising the film. Can you reduce the number of scenes, characters, or locations (some films, like Reservoir Dogs, restrict the action mostly to one setting)? Can you be creative with art direction and make the same location work for several unrelated scenes? Can you take a walk-and-talk dialogue scene in which characters wander through a busy mall and restage it in an empty park or a doorway so it can be done faster and with a smaller crew? Look for ways you can leverage things you own or have access to (cars, props, locations) by writing them into the script.
+
+While some independent films, both fiction and documentary, have been impressive for accomplishing a slick, high-budget look with very little money, far more have been successful by embracing a no-frills, low-budget aesthetic and focusing on storytelling and characters. If you’re operating with limited resources, put them into crafting a compelling, well-told story and don’t be overly concerned with “production value.”
+
+With experience you’ll learn where it makes sense to scrimp and where it doesn’t. Many filmmakers have learned the hard way the true costs of not taking enough time on the set to get good lighting; not trying to fix poor audio on the spot (which may be unfixable later); or using nonprofessional equipment that creates problems in postproduction.
+
+Fig. 2-2. A small camera provides a lot of flexibility for run-and-gun shooting. (Jonathan Weyland/Small HD)
+
+Often, movies are started with less than the full budget in hand, with hopes of raising the rest later. Filmmakers figure they’ll get something in the can (that is, through production but not necessarily all the way through postproduction) and worry about finishing funds later. This may be the only way to get into production, and if done responsibly it can be a smart strategy. Particularly if you don’t have a strong track record (but even if you do), it allows you to show backers, distributors, and broadcasters something concrete before they commit to a project.
+
+Nevertheless, there can be pitfalls to this approach. Filmmakers may have the strategy of paying the minimum for things out of pocket with the hope of getting a distributor to pick up finishing costs at the end. Keep in mind that most expenses that are “paid” by the distributor are usually deducted from your share of the film’s revenue (often with interest charges tacked on), so you’re really choosing between paying now or being paid less later.
+
+Avoid the temptation to finance your project on credit cards. The press may love stories of films that started on credit cards and went on to success, but no one talks about the far greater number of projects that left their makers with crippling debt when they went unsold.
+
+For more on budgeting, fundraising, and distribution, see Chapter 17.
+
+FORMATS FOR THE BIG SCREEN AND THE SMALL(ER) SCREEN
+
+The past sixty years have seen a war of technology between the big screen (theaters) and the small screen (TV). When television started stealing audiences from the theaters in the 1950s, cinema fought back with widescreen formats (see below), 3D, and multichannel surround sound. Now widescreen TV is common, 3D TV is gaining ground, and flat-screen TVs have increased in size to the point that some can provide a more cinemalike viewing experience in the home. Even a blockbuster Hollywood film will be seen by far more people sitting on couches at home than by audiences in theater seats. Even so, only the theater offers the communal experience of watching a movie with a large group, on an enveloping screen in a dark room, away from the distractions of daily life.
+
+The term “small screen” used to be understood as meaning broadcast television typically viewed on a modest-sized box in the living room. Now screens for personal viewing range from enormous wall-mounted displays to 10-inch tablets to inch-wide cell phones. The source of the programming can be OTA (over the air), satellite, cable, DVD, Blu-ray, hard drives, the Web, or any number of other storage and transmission technologies. For a filmmaker, it’s hard to know where or how your work will be seen or how you should prepare for that. The coming years will no doubt see new types of displays and viewing habits, and even if you’re producing mainly for one, you’ll want to take other viewing technologies into account.
+
+Though it may be possible to work in one format exclusively, today it’s more common to shoot in one or more formats, edit in another, and release the movie in several others. It helps to consider the three stages of the filmmaking process separately, while also keeping in mind the whole.
+
+Acquisition. How will you record picture and sound? Will you shoot video or film? Which format(s); which camera?
+
+Postproduction. How will you edit? What kinds of picture or sound manipulations will you need to do? What technologies will you use?
+
+Distribution. Where do you want to show the movie? What kind of steps do you need to take in advance to be sure the movie is suitable for these outlets?
+
+Theatrical Exhibition
+
+Projection on a large screen puts great demands on the image because any defects, shakiness, or lack of focus will be greatly enlarged and have the potential to disturb the viewing experience. Traditionally feature films for theaters were shot in 35mm film. For the feature film industry, this has meant that many of the tools and techniques of production and postproduction were geared toward 35mm (or even larger film formats).
+
+Historically speaking, the 35mm standard has played an important role for audiences worldwide. Even if they can’t describe why the picture looks the way it does, people have associated Hollywood movies with the feel of 35mm in terms of the tonal range, clarity of the image, frame rate, lenses, and other aspects (see The “Look” of the Movie, below). Obviously, films shot in 35mm can look very different from one another and may employ a variety of film stocks, lenses, or filters in order to achieve different looks. But there are certain qualities in common—qualities that have been deeply intertwined with our collective experience of seeing fictional movies in theaters. It’s worth noting that the 35mm film image has various characteristics that aren’t by definition “good”—things like graininess, unsteady projection, and motion artifacts (jerkiness during fast pans or wagon wheels that appear to spin backward).
+
+Fig. 2-3. Large-screen projection puts particular demands on image and sound quality. (Film-Tech.com)
+
+Today, more and more features are shot digitally, and our visual and cultural reference points are evolving. Not very long ago, audiences could easily recognize when a production was shot on video, but with many of today’s digital cameras, audiences and even professionals often don’t know if the movie they’re watching originated in digital or on film. Professional digital cinema cameras employ sensors the same size as 35mm film cameras (see below) and use the same lenses. Moreover, digital image quality is highly adjustable and can take on many different looks. Of course, not all digital cameras and recording formats are equal, and some digital movies, especially when shown on large screens, do reveal artifacts or flaws in the image.
+
+From an artistic point of view, this is not to say that film, or the 35mm look, is better than other formats. The films of John Cassavetes that were shot with a handheld 16mm camera would not be better if shot in 35mm. The look of a low-resolution cell phone camera may be perfectly suited to a scene or movie you’re shooting. Some people who shoot in digital have no interest in emulating Hollywood styles, or they may be seeking the unique possibilities of digital media. At the same time, as Hollywood moves toward digital, the grain and feel of the film image can sometimes seem almost old-fashioned compared to the latest digital cinema formats.
+
+Whether you choose to shoot in digital or film, another set of issues arise when the movie is sent out for theatrical release. Traditionally most theaters showed features using 35mm film projectors. This meant that productions shot in 16mm had to be blown up to 35mm, and productions shot in video had to be transferred to 35mm film via the film-out process. For a low-budget production, this blowup or film-out often represented a significant portion of the budget. Today all Hollywood productions shot on 35mm film go through a digital intermediate (D.I.) process and undergo a film-out if 35mm prints are needed, so the film-out process may be involved regardless of what format you shoot in.
+
+However, digital projection, also called digital cinema or D-cinema, is rapidly replacing 35mm print projection in theaters. Digital projectors operate at 2K and 4K resolution and offer theaters and producers lots of advantages, such as no longer needing to make heavy film prints to ship around the world. Digital projection is rock-steady and you’ll never sit through a screening with a scratched print. And of course there would be no rebirth of 3D in Hollywood without digital projection.
+
+For filmmakers who shoot digital, being able to project digitally means not having to do an expensive film-out to 35mm. However, there are costs in preparing a Digital Cinema Package (DCP), which is the standardized set of encrypted files (impossible to pirate) for digital projection, which is distributed on a hard drive. Sometimes smaller theaters may instead project using Blu-ray players, which bring down costs for both the exhibitor and the producer. See p. 625 for more on DCPs, and p. 747 for their impact on distribution.
+
+If you’re producing for theatrical exhibition, plan on an aspect ratio that’s at least 16:9 or wider (see p. 74). Theatrical projection, whether on film or digital, is standardized at 24 fps.
+
+Digital Television
+
+In 2009, American television switched from analog to digital broadcasting. Much of the rest of the world has already switched or will eventually convert to digital. Digital television (DTV) offers advantages to both consumers and broadcasters. Unlike analog TV, which is susceptible to ghosting and multiple images, DTV reception is crystal clear. (With digital broadcasting, the signal is either cleanly displayed or nothing is displayed—though occasionally digital errors do creep in.) DTV, like digital cable TV, is capable of transmitting a high definition channel and multiple standard definition channels in the same signal space, or bandwidth, as a single conventional analog TV channel. So broadcasters can offer several programs at the same time.
+
+It’s important to remember that DTV does not necessarily mean high definition. As of this writing, broadcasters are offering both SD and HD channels, and millions of consumers are still using SD televisions with digital conversion boxes.
+
+In the United States, the digital broadcast television standards are known as ATSC (after Advanced Television Systems Committee). As you can see in Fig. 2-4, ATSC standards include a variety of resolutions and frame rates in 4:3 and 16:9 aspect ratios. ATSC uses MPEG-2 video compression (the same codec used in DVDs, satellite, and digital cable TV) and Dolby Digital audio compression, capable of 5.1 audio channels (see Chapter 16).
+
+ATSC FORMATS
+
+Fig. 2-4. ATSC formats. Digital television broadcast in the United States includes these formats; 60i means 30 fps, interlaced. In former PAL countries, such as in Europe and Asia, HD frame sizes are the same, frame rates are 25p and 50i, and SD frame sizes conform to PAL standards (including 720 x 576).
+
+American broadcasters have chosen different HD formats. For example, as of this writing, CBS, NBC, and HBO use 1080i for their high definition programming, while ABC, ESPN, and Fox use 720p. After undergoing MPEG-2 compression and broadcast compromises, it’s unlikely that home viewers can see a lot of difference between the two formats for most types of programming.
+
+Meanwhile, 1080p at 24 and 30 fps is supported by some satellite services (like Dish Network and DirecTV), on-demand services (like Hulu), and devices like Blu-ray players, PlayStation, and Xbox. ESPN has announced sports programming in 1080p at 60 fps. In the future, it’s inevitable that 1080p will gain a greater foothold in broadcast.
+
+For filmmakers, if you shoot in either 1080p or 720p formats, you should be in a good position to deliver for any type of broadcast, but be sure to explore individual broadcasters’ submission requirements.
+
+Europe, Australia, and parts of Asia have adopted the DVB (Digital Video Broadcasting) set of standards. DVB-T (terrestrial) uses MPEG-2 compression, but also includes H.264 (MPEG-4 AVC) for delivery of both standard and high definition. For HD broadcasting, DVB offers the same common image formats (CIFs) as ATSC—1080i, 1080p, and 720p; however, in former PAL countries the field and frame rates are typically 50 and 25 instead of ATSC’s 60 and 30.
+
+Web and Mobile Delivery
+
+Not very many years ago, people watched television only via over-the-air broadcasts. Then came cable TV, which could bring more channels to your home on a wire, and satellite TV, which could beam them down from space. With the Internet, we gained the ability to watch content from websites worldwide. In the early stages, we did this while sitting at our computers.
+
+Now we have devices that can deliver programming from the Internet to the widescreen TV in our living room. These include Web-enabled televisions, Blu-ray players, and dedicated devices like Apple TV that can stream movies and TV shows purchased or rented from a wide range of providers. This form of distribution is sometimes called “over-the-top TV” since it often comes into your house on the same cable furnished by a cable TV operator, but it effectively rides over that company’s programming and allows you to choose your own.
+
+Fig. 2-5. Mobile video. In Sunset Boulevard, silent film star Norma Desmond says, “I am big; it’s the pictures that got small.” This is a lot smaller.
+
+In a related development, movies and television can also be delivered to mobile phones and tablets, further fragmenting the way media are consumed. To take one example in the U.S., with a Netflix subscription you can stream part of a movie to your phone, go home, turn on your TV, and continue watching where you left off. Watching a movie on a phone, a tablet, or a laptop is a very different experience than seeing it in a theater or even on a big TV. Texture and details are lost, and scale and proportion are completely different. On the other hand, especially when using headphones, there can be a particular immediacy with a movie playing in your hand. Filmmakers tend to fall into two camps about mobile video: those who are horrified by the idea of people watching their work on a tiny screen amid the distractions of the street or a gym, and those who are thrilled about the potential of more distribution channels and revenue streams.
+
+Over-the-top and on-demand services have the potential to seriously disrupt established modes of producing and consuming television and movies. For more on the financial implications for filmmakers, see Chapter 17.
+
+DVD and Blu-ray Discs
+
+VHS cassettes created a revolution in the 1970s by allowing consumers to watch movies at home on their own schedule. DVDs upped the ante in the mid-1990s with far better picture and sound quality, multiple languages, and extras—which killed off VHS. DVDs became a huge revenue source for films and TV shows.
+
+DVDs are standard definition only and were joined, in 2006, by Blu-ray Discs (BDs) designed to handle both SD and HD content. When Blu-ray was introduced, many expected another explosion of revenue as consumers converted to the new high definition technology. But the convenience and quality of streaming video, coupled with consumer satisfaction with “good enough” DVD quality, slowed Blu-ray adoption and computer manufacturers hesitated to adapt costlier BD drives to laptops. As of this writing, DVDs and BDs maintain an 80/20 split in home distribution of movies on optical disc, with Blu-ray increasingly gaining share. Further gains for Blu-ray are expected as prices fall, disc capacities increase, and Blu-ray 3D grows popular.
+
+THE “LOOK” OF THE MOVIE
+
+How a movie looks has an enormous impact on what the movie means to the audience. As Marshall McLuhan said, “The medium is the message,” and without a doubt the medium itself plays a large part in how we understand a movie’s content and experience its emotional impact. There are cultural traditions that associate certain technologies and styles with certain types of movies. As discussed above, the dramas we’re used to seeing in theaters have been closely associated with the look of 35mm film (even if many of them are now produced digitally). Hollywood films are typically shot with a large crew, careful lighting, and sophisticated dollies and other equipment to move the camera smoothly. In contrast, television news stories typically have the look of handheld video, often shot with harsh, camera-mounted lights. Clearly, there is a noticeable difference in terms of the emotional feel and texture of the two formats/looks.
+
+In a simplistic way, the crisp, bright video look makes news and sports feel “real.” But the same look can make TV dramas (like soap operas) seem “fake”—that is, instead of allowing the audience to enter into the dramatic world the show is trying to create, the video image makes us aware of the “reality” of a bunch of actors walking around on sets. Higher-budget dramas were traditionally shot on film in order to capture a richer, softer feel that allows viewers to “suspend disbelief” and enter into the fictional world of the movie. Today, productions done with digital cameras that are well lit and carefully shot can capture a very similar rich look.
+
+Over time, certain looks and styles can become clichés. At one time, so many documentaries were shot using grainy 16mm film and shaky handheld camerawork that their look became associated with “documentary.” When fiction films try to simulate a documentary look they often resort to shaky handheld camerawork and bad lighting. Meanwhile, documentary forms have evolved, and many nonfiction films have beautiful lighting and fluid, elegant camerawork.
+
+Styles are continually being borrowed and traded between different genres of filmmaking. As technologies and tastes develop, an ever wider range of looks and styles become possible. How audiences interpret those looks and styles keeps changing too, as new films explore different combinations.
+
+As a filmmaker, you have at your disposal many techniques and tools to create different looks and moods. The most important by far for the success of the movie are all the things that take place in front of the camera, including direction, performances, lighting, sets, and costumes. Then there are choices about how the movie is recorded (such as what camera, which lenses, what format) and the things done in postproduction (including editing, sound work, color correction, and music). Of course, for some filmmakers, the concerns of story, content, cost, and convenience are so much more pressing than the look or visual style that they’ll shoot with whatever they can get their hands on, and they pay as little attention as possible to technique.
+
+Quality is important. Many movies have been dragged down by inattention to the technical aspects of filmmaking. But for most audiences, the story comes first. If viewers feel emotionally or intellectually involved in a film, or simply find it entertaining, they can be very forgiving of an imperfect image. But if they’re not interested in the film, style alone won’t make them love it. For some films—experimental films, for example—style and texture can be especially important; even so, as you make stylistic choices, be sure they serve the film, not the other way around.
+
+Let’s examine some of the factors that go into particular looks. Some of these things can be experimented with or changed on a shot-by-shot or scene-by-scene basis. Others you may need to commit to before you start shooting, and stick with that choice to the end.
+
+THE IMPACT OF SENSOR SIZE AND FILM GAUGE
+
+As we saw in Chapter 1, a digital video camera focuses the image that comes through the lens onto an electronic sensor (see Figs. 1-4, 1-9, and 2-6). Similarly, a film camera focuses the image on a piece of film (see Fig. 1-31). The size of that sensor or the gauge of the film can affect the recorded image in a number of ways.
+
+Fig. 2-6. DSLR sensor from a Nikon D5100. The sensor size is Nikon DX, which is one of the APS-C formats. (Nikon, Inc.)
+
+Digital video cameras are available in a wide range of sensor sizes (see Fig. 2-7). Some compact consumer or prosumer video cameras have sensors as small as 1⁄4 inch or 1⁄3 inch.3 Many cameras used for news or television production have 1⁄2-inch or 2⁄3-inch chips (the latter has been a professional standard for years). DSLRs and digital cinema cameras have much larger sensors, including Four Thirds, APS-C, and full-frame 35mm, the same size as an image captured on film by traditional 35mm still cameras. Sensors in most digital cinema cameras are nearly identical in size to Super 35 motion picture film.
+
+Fig. 2-7. Comparison of different sensor sizes. This diagram represents the physical area of the sensor when recording in a 16:9 format (and is enlarged for clarity). A number of digital cameras have sensors roughly the size of Super 35 film (in this chart, the Super 35 group loosely includes everything from the RED Epic X to APS-C and RED One). As of this writing, only certain DSLRs have “full-frame” 35mm sensors (including the Canon EOS 5D Mark II and EOS-1D X). Some cameras use only part of their sensor for some recording formats. Don’t confuse the physical recording area of the sensor with the number of pixels in a given digital format, which is shown in Fig. 1-7. (Steven Ascher)
+
+There is a relationship between sensor size and pixels: for any given resolution—say, 1280 x 720—the smaller the sensor, the smaller the pixels need to be fit on it. If you envision each pixel (photosite) on the sensor as a tiny bucket that collects light, the bigger the sensor, the bigger each bucket can be. Bigger buckets have three advantages: they’re more sensitive (so you need less light to shoot), they have better dynamic range (they can handle scenes with greater range from dark to light), and they produce an image with less noise.
+
+The sensor size also affects the relationship between a given lens and the recorded image. For any focal length lens (say, 50mm), a larger sensor will produce a wider angle of view (see Figs. 4-6 and 4-7). Another way of saying the same thing is that for the same angle of view, the camera with the larger sensor will require a lens with a longer focal length, which can result in shallower depth of field (more on this below and in Chapter 4). In terms of lenses, a large sensor may or may not be an advantage, depending on what you’re trying to do. In the case of film cameras, a larger-gauge film like 35mm will always have better image quality than a smaller-gauge like 16mm, due to less grain and image defects. However, sensitivity will be the same if the same film emulsion is used. The relationship just described between lenses and sensor size applies to film gauges as well.
+
+These topics are described in more depth below and in later chapters.
+
+COLOR AND SENSITIVITY TO LIGHT
+
+Digital and film cameras are tools for capturing an image of the world that can then be displayed on a screen. That screen image may look a lot like the scene as it appeared in real life, or it may look very different, depending in part on the camera, the way it is adjusted, and other factors. Many digital cameras are highly adjustable in terms of color and contrast; you can opt for more muted, pastel tones or go for more vibrant, saturated hues.
+
+While it’s best to choose an overall look for a production or for a scene before you shoot, it is often not advisable to “bake in” anything too extreme. You’ll always have much better control over color in postproduction, and leaving camera settings fairly neutral allows you more flexibility in post. If you’re shooting film, different stocks are known for their palettes and inherent contrast. But again, fine-tuning color is best done in post.
+
+Color and the response to light are complex topics and are discussed more in Chapters 5, 7, and 8. But it’s worth thinking about these things when deciding on the camera system you’ll use to shoot your movie. (“Camera system” in this sense is meant to include the whole package, including the camera, its internal adjustments, its lens, and the recording format or, for a movie camera, the film stock.)
+
+Low-Light Shooting
+
+Digital and film camera systems vary widely in their sensitivity to light. Some can record an acceptable image using the light level of a normal home or office; others require much brighter movie lights. The camera’s ability to handle low light can have a big impact on your production style and budget. If you can shoot with available light (whether it’s daylight or artificial) or a minimal amount of movie lights, you’ll be able to work faster, more efficiently, and more freely. Low-light sensitivity can make a huge difference if you need to shoot outdoors in the evening or on the street at night. Anytime you’re filming real people going about their lives, it’s far preferable to not have to light them. There are many times you’ll want to add lights for artistic reasons (more on this below), but if your camera can get enough basic exposure without a lot of added lighting, your shoot will be easier and you’ll have the option of capturing the natural feel of the locations where you shoot.
+
+When you’re choosing a camera or a film stock, look into its low-light performance. Talk with knowledgeable people who have worked with it. As a rule of thumb, digital video cameras with larger sensors have better sensitivity than those with smaller chips. A video camera’s sensitivity depends in part on the frame rate (slower rate requires less light) and also whether you’re shooting progressive or interlace (interlace usually requires less light for the same frame rate). The camera manual or advertising may list the minimum amount of light needed (this may be indicated in light units called lux), or the camera may have an ISO rating (see p. 133). But ads and generalities aside, it’s worth doing tests to see how the camera actually performs.
+
+Most video cameras have a gain setting that can increase low-light sensitivity; a little gain boost can often help, but too much gain can introduce electronic noise to the image. Similarly, there are high-speed film stocks designed for low-light shooting that tend to be grainier than other stocks. You may or may not object to the graininess.
+
+With cameras that have detachable lenses, the choice of lens can make a big difference in how much light you need to shoot (see p. 168).
+
+Handling High Contrast
+
+Pay attention not just to the minimum amount of light the camera needs, but also to its ability to handle a wide range of brightness in a scene. Most scenes you’ll want to shoot contain areas that are much brighter or darker than other parts of the scene. All camera systems are significantly more limited than your eyes in being able to see details in both bright areas and shadows at the same time (see Fig. 7-16). Camera systems also vary in their ability to handle these high-contrast scenes. A film stock that can capture detail in shadows and bright areas at the same time is said to have wide latitude or exposure range. In video, the same thing can be described by saying the camera can handle a large dynamic range. In the past, film cameras had much greater range than video cameras. One of the giveaways that something is shot on video can be that the highlights (bright areas of the scene) are burned out, leaving bleached-out white areas. Today’s high-end digital cinema cameras are capable of tremendous dynamic range; some claim fourteen stops or more, which exceeds many film stocks.
+
+Many digital cameras allow you to create customized picture profiles, in which you can adjust gamma and knee settings that affect how the camera captures highlights or shadow detail (see p. 198). Experiment with different settings to create different looks.
+
+Wide dynamic range can make as much difference to the overall quality of the image as high resolution; look carefully at a camera’s dynamic range when buying or renting. The better your camera handles high-contrast scenes, the faster you’ll be able to work and the less lighting you’ll need. If the range of brightness in a scene is too great for your camera, there are a number of steps you can take (see p. 512).
+
+It’s worth noting here that careful lighting can work wonders to elevate the image produced by a low-end camera, and poor lighting will look bad even with the priciest camera. For more on lighting (and the use of light from natural sources), see Chapter 12.
+
+Color Versus Black-and-White
+
+Today’s audiences expect color and may think of black-and-white as old-fashioned. However, because black-and-white is now relatively unusual, it can also command attention and feel stylish. Black-and-white films made in the “color era” have a unique place; for example, Martin Scorsese’s Raging Bull. Distribution for black-and-white movies is generally more difficult.
+
+Part of the aesthetic challenge of black-and-white is to render the world through the range of gray tones from black to white. Lighting tends to be more difficult because there is no color contrast to give snap to the image. For example, in black-and-white, a green leaf and red apple may appear as the same gray tone, whereas in color they would be strongly differentiated.4 The Hollywood lighting style for black-and-white includes strong backlighting, or a rim light, to separate the subject from the background (see Chapter 12). On the other hand, one advantage when lighting a scene for black-and-white is you don’t need to worry about matching the color of your lighting sources.
+
+Black-and-white movies made today are mostly shot in color (always in the case of digital) and then made monochrome in postproduction. For shooting the genuine item—black-and-white film—there is Kodak Double-X Negative for 35mm and 16mm and Tri-X Reversal for 35mm, 16mm, and Super 8mm.
+
+Fig. 2-8. The GoPro Hero2 is a small, waterproof HD camera that can be mounted on a surfboard, helmet, or vehicle for action scenes. (GoPro)
+
+SHARPNESS AND FOCUS
+
+The word “resolution” can have different meanings, but it’s often used to talk about how much information a format can record. In a high-resolution image, fine details appear sharp and distinct; in a low-resolution image they may be blurred or not visible due to digital artifacts in the picture (see Fig. 1-8). Different video and film formats vary in their resolution. High-resolution formats—like 35mm film, digital cinema 2K and 4K, and HD video—can capture details in a scene with sharpness and clarity. Certain types of shots or subject matter reveal differences in resolution more than others. For example, a wide shot of a landscape with a lot of detail will look dramatically better in high definition, while a close-up of a face might look more similar in either standard or high definition.
+
+High resolution can make images look better, and because of the benefits of “oversampling,” when you capture images in high resolution, it can improve their look even when they’re shown on displays of lower resolution. If you’ve ever seen a black-and-white Ansel Adams photograph reproduced in a magazine, itself not capable of matching the fine detail or tonal scale of the original print, it’s likely you nevertheless felt the superior image quality of the original.
+
+However, as digital technology gets more sophisticated, a kind of arms race has developed between makers of cameras and TVs, all touting the advantages of their new, higher-res gear. Aside from the fact that the numbers claimed are sometimes fudged, it’s worth taking this battle with a grain or two of salt.
+
+First, there’s a lot of debate about how much resolution a typical viewer in a typical living room watching a typical TV can even perceive. As noted earlier, many people can’t see the difference between 720p and 1080p at typical viewing distances. Look at Figure 5-26: these images are very low resolution, but when viewed from far enough away, they begin to look sharp. The smaller the screen (and the larger the distance between the viewer and the screen) the less benefit you get from high-resolution cameras and TVs.
+
+In a theatrical setting, screens are bigger and viewers may sit proportionally closer or farther from the screen than viewers at home. A digital cinema production shot in a 4K format and projected in 4K may look great, but many digital theaters project in 2K. Will shooting with a more affordable 1080p HD camera put you at a disadvantage compared to shooting 2K? The difference in total pixels is only about 6 percent, which many would argue is not perceptible.5
+
+Even so, the resolution race ignores a key fact about vision that’s perhaps more important: sharpness, which is our sensation of how crisp and in focus an image looks, has less to do with seeing fine details (determined by resolution) and more to do with there being bold contrast between black and white in the image (see Fig. 5-5C). By adjusting contrast you can often make a low-res image look sharper or a high-res image appear softer.
+
+It would seem logical to assume that more sharpness is a good thing—and it often is—but the effect of sharpness on the look of your movie is something to consider closely. First of all, it’s quite possible for the image to be too sharp. With very high resolution you may see things you don’t want to—like every blemish on an actor’s face, or the telltale imperfections that let the audience know your sets are just sets. Sometimes the picture just looks too crisp. On many dramas, diffusion filters (see p. 315), smoke, and other techniques are used to soften the image, to make things feel a little less real and create some mood. Romantic scenes and historical dramas are often made to look more gauzy than sharp. In these cases, filmmakers working in high definition formats are deliberately throwing away some resolution.
+
+With some formats, particularly ones that aren’t high resolution, certain tricks are used to boost the apparent resolution. Since increasing contrast can make an image seem sharper than it really is, many video cameras have a detail or enhancement circuit that can put a thin light or dark edge around people and objects to get them to pop out more in the picture (see Fig. 3-18). Particularly with low-end cameras, the detail setting may be too high, and the image takes on a very electric, videolike look. This can work fine for things like sports, but may look cheap if you’re trying to achieve a more subtle feel. If possible, find a camera with user-adjustable detail settings and experiment with the look you like (see Chapter 3). Many TVs also have a detail or sharpness adjustment, which is generally set too high at the factory to create a vivid look.
+
+LENS QUALITY. Experienced filmmakers know that lens quality is paramount. The image can’t be any better than the lens is. No matter what format you work in, if your camera accepts detachable lenses, keep in mind that using a higher-quality lens will noticeably improve the image. You may want to rent or borrow a good lens (or set of lenses) for your shoot.
+
+While SD zooms costing tens of thousands of dollars are often considered insufficiently sharp to shoot HD with its demands for higher resolution and superior contrast, this may not necessarily be the case. Moreover, the explosive popularity of DSLRs has put a new range of SLR still camera lenses into play, of widely varying quality. There is no better advice than to test, test, test when it comes to considering any type of lens for your movie.
+
+Depth of Field
+
+Many dramas aim for a look that has very shallow depth of field (see Figs. 2-9 and 4-9). Depth of field is discussed in Chapter 4, but the effect of shallow depth of field is that you can easily set up shots in which the subject is sharp but the background and/or foreground is out of focus. Isolating people from their surroundings this way can be a powerful tool, useful in both fiction and documentary. It can both create a mood and allow the filmmaker to use selective focus to draw the audience’s attention to different elements in the frame. This is one of the key factors that characterizes the look of the classic 35mm feature film.
+
+Many factors go into controlling depth of field, some of which can be adjusted shot by shot while you are filming. But your choice of camera is also important. The larger the film format, or for digital cameras, the larger the sensor, the easier it is to achieve shots with shallow depth of field. So, for example, if you shoot with a DSLR that has a full-frame sensor, you’ll find it much easier to create shots with shallow depth of field than if you use a video camera with a 1⁄3-inch chip. However, despite the claims of some camera ads, while a large sensor facilitates shooting with shallow depth of field, individual shots may actually have very large depth of field, depending on the particular lens and settings.
+
+Fig. 2-9. Shallow depth of field. This shot from Capote is in focus on Philip Seymour Hoffman’s eyes and nose, while his shoulders and the background are soft, which lends a certain mood and intimacy. (Sony Pictures Classics)
+
+For video cameras with small sensors (like 1⁄3 inch and 1⁄2 inch) there are cine lens adapters that allow you to use PL-mount lenses or SLR still camera lenses to deliver the same depth of field and angle of view that a 35mm motion picture camera would, although often at a cost of several stops of exposure (see Fig. 2-10). These adapters are especially popular for use with MiniDV and HDV camcorders. The best known are made by P+S Technik, Redrock Microsystems, and Kinomatik.
+
+Fig. 2-10. Redrock Micro M3 cinema lens adapter allows you to mount cine lenses on a variety of small-format video cameras to achieve the angle of view and depth of field of a 35mm film camera. (Redrock Micro)
+
+The excitement about DSLRs is due in part to the ability to shoot with shallow depth of field, like “real” movies. But not all films and scenes benefit from this look. It’s one thing if you’re filming actors who hit their marks and you have an assistant pulling focus; it’s entirely different if you’re filming an uncontrolled documentary scene with several characters rushing around in different directions. Even if you get a person in focus, he may quickly move out of focus. Having the subject sharp and the background soft can look sexy; simply having the subject out of focus usually doesn’t. For unplanned, active scenes, having great depth of field can be a huge benefit, and that’s easier to do with a smaller sensor. Ironically, it was considered a major stylistic advance when Gregg Toland used wide-angle lenses, bright lights, and fast film stocks to overcome the shallow depth of field of typical 35mm movies to achieve his famous deep-focus look on Citizen Kane back in 1941 (see Fig. 9-10).
+
+With HD, if your subject’s out of focus, you’re really going to notice it. Thankfully many camcorders have a “magnify” or “focus assist” or “expanded focus” button that momentarily enlarges the viewfinder image for more precise focusing. Nevertheless, if possible bring a good-sized, high definition monitor to check focus on any HD production.
+
+ASPECT RATIO CHOICES
+
+See the discussions of aspect ratio on p. 15 and p. 41 before reading this section.
+
+For many years, both in film and in video, the shape of the frame was a rectangle, four units wide by three units high. In the film world this shape was expressed as a ratio, 1.33:1 (4 divided by 3). In the video world, the same thing was expressed as 4:3. Today, it’s often called nonwidescreen.
+
+Cinema was first to move to a wider screen image. In widescreen formats, the screen’s horizontal dimension extends to nearly twice its height or more (see Fig. 1-35).
+
+Many movies viewed in American theaters are made to be shown at the widescreen aspect ratio of 1.85:1, introduced in the early 1950s. European theatrical films may be made for projection at the not-quite-as-wide 1.66:1 (5 divided by 3). In HD video, widescreen means 16:9, which is the equivalent of 1.78:1, making it just slightly less wide than the cinema standard 1.85 for the same screen height. Some very widescreen theatrical films are shot at 2.39:1 (sometimes written 2.39, 2.35, or 2.40), popularly known as CinemaScope or ’Scope.
+
+Different aspect ratios call for different approaches to composing your shots, which can affect your choice of locations, the way you move the camera, art direction, and blocking of action (see p. 80).
+
+Though 4:3 is still used to broadcast standard def television, all HD formats are 16:9 and TV sets are now configured to this proportion. You should shoot 16:9 widescreen if you’re producing for TV, and you may consider either 16:9 or a wider aspect ratio for theatrical release. Before you start shooting you need to decide which aspect ratio you want to work in, and how you’re going to achieve that. Depending on the camera and the format, there are various alternatives that can affect the resolution of the image, the postproduction workflow, and the way the movie is shown.
+
+Widescreen Options for Digital Cameras
+
+Many if not most HD cameras have 16:9 sensors, so it’s 16:9 widescreen from start to finish. DSLRs and some digital cinema cameras have boxier-shaped sensors that are taller than 16:9 (they have additional pixels on top and bottom). In their case, the 16:9 widescreen image is extracted from the sensor by ignoring the unneeded pixels top and bottom (using only part of the sensor is called windowing). So, for example, the same DSLR can shoot stills at around 1.5:1 and produce HD video at the wider 1.78:1 (which is 16:9).
+
+With any camera, you can create a wider aspect ratio by masking off the top and bottom of the frame in postproduction. George Lucas shot some of the Star Wars films with HD cameras that natively capture 16:9, but he extracted a 2.39 widescreen image by cropping the top and bottom.
+
+Fig. 2-11. A widescreen image can be squeezed (compressed horizontally) to record it on a nonwidescreen video or film format. It is then unsqueezed for widescreen viewing. In film, the squeezing process is done with anamorphic lenses on the camera and projector. In video, normal or anamorphic lenses are used (depending on the aspect ratio and the recording format) and the image is compressed electronically. (Robert Brun)
+
+ANAMORPHIC LENSES. Another approach to getting wider aspect ratios than 16:9 is to use anamorphic lenses—a technology originally developed for film but now used on both digital and film cameras. Anamorphic lenses use a special lens element that optically squeezes a superwide frame horizontally, so it can be recorded in a frame that is not as wide. The anamorphic image looks squished horizontally—people look too tall and skinny and circles become vertical ovals (see Fig. 2-11). To view the picture properly, you need to unsqueeze (stretch) the image horizontally. Unsqueezing may be done by a camera viewfinder or a monitor to view the image properly while you’re shooting. In postproduction, the image can be unsqueezed electronically or optically so it can be viewed with conventional equipment. For theatrical film exhibition, lenses in the projector do the unsqueezing. Anamorphic systems are called ’Scope (for CinemaScope). Normal, nonanamorphic lenses are called spherical and nonanamorphic film prints are called flat.
+
+Traditional ’Scope lenses squeeze the image by a factor of 2, so you can capture a 2.39 widescreen image on a conventional 35mm film negative or a digital cinema camera like the ARRI Alexa Studio that has a 4:3 sensor. For digital cameras with 16:9 sensors, you can shoot the same widescreen format using Hawk anamorphic lenses that have a 1.3 squeeze factor.
+
+Anamorphic lenses are more challenging to use than spherical lenses. Horizontal angle of view is doubled by the added “anamorphosing” lens element. (Vertical angle of view, however, is not affected.) To obtain the same horizontal angle of view you would get with a nonanamorphic lens, you have to use an anamorphic lens of twice the focal length—which means depth of field is proportionately less, so anamorphic lenses require very accurate focus pulling. Most of these lenses aren’t fast, either, so more lighting is needed. Anamorphic lenses are also larger and heavier.
+
+STANDARD DEFINITION VIDEO. While standard definition video has a native 4:3 aspect ratio, there are a number of ways to create a 16:9 image in SD. The best way is to use a camera with 16:9 sensor and record the image anamorphically. This doesn’t involve anamorphic lenses as described above, but instead the image is electronically squeezed by the camera in recording and unsqueezed by the monitor in playback. This method is called full-height anamorphic (FHA) or sometimes full-height, squeezed (see Fig. 2-12F). Shooting full-height anamorphic with a 16:9 sensor is the most professional way to record widescreen in SD. Similarly, in postproduction, delivering a widescreen program to a broadcaster in full-height anamorphic format is preferred.
+
+With older SD cameras that have 4:3 sensors, you can create 16:9 by masking off the top and bottom of the sensor and either recording that as a letterbox with black bars on top and bottom (see Fig. 2-12E) or by digitally stretching the image in the vertical axis in camera so it becomes anamorphic (sometimes called squeeze mode or digital stretch). These options result in a 25 percent loss of resolution, which in SD can be a real problem.
+
+Widescreen Options for Film Cameras
+
+As you can see in Fig. 1-36, the original frame of motion pictures is 1.33:1 (which is the same as 4:3). This includes Super 8, 16mm, and 35mm.
+
+If you’re working in 16mm, avoid standard 16mm when possible. Super 16 is the obvious choice for widescreen productions, theatrical or TV, since its native 1.67 aspect ratio is a virtual match to 16:9. Some people shoot Super 16 with Hawk anamorphic lenses for a wider-screen look.
+
+In 35mm, there are several options for widescreen. Before reading this, you may want to review different 35mm formats on p. 44.
+
+The most common method is to expose the entire 1.33 frame, but use a viewfinder marked with 1.85 frame lines (see Fig. 6-6). When the film is projected or transferred to digital, the area outside the 1.85 central letterbox is masked out or removed. This technique once had the advantage that it provided a separate 4:3 version of a theatrical film for TV broadcast (which cinematographers disliked because it ignored their precise 1.85 widescreen compositions). With the adoption of 16:9 broadcasting, separate 4:3 versions are usually not needed or desirable.
+
+As discussed above, anamorphic lenses can be used to record a 2.39 ’Scope image to the full 35mm film frame minus the area reserved for the sound track. Because this anamorphic format uses the largest area of any four-perf 35mm format, the grain is tightest, projection is brightest (no masking in projector gate), and the result is glorious on the big screen.
+
+However, because of the unique production challenges posed by anamorphic lenses, three alternative methods have been developed to achieve a 2.39 aspect ratio using conventional spherical lenses, which, as discussed above, are always faster, sharper, and cheaper than anamorphic lenses.
+
+Super 35 is a four-perforation format that uses the entire width of the camera negative area from one row of perfs to the other—basically it’s the original 1.33 silent film frame. During digital intermediate finishing, a 16:9 or 1.85 image is produced by cropping the top and bottom of the full 1.33 image, from which conventional four-perf prints or a DCP file can be made. Alternatively, the full 1.33 frame can be greatly cropped to 2.39, then digitally squeezed and exposed into the area of a 35mm negative used for ordinary anamorphic images. Again, conventional 2.39 squeezed prints can be struck, or a 2.39 DCP file can be made.
+
+The latest 35mm cameras can shoot a three-perf-high frame that, like Super 35, occupies the entire width of the negative from one row of perfs to the other, but which results in an image virtually identical in aspect ratio to 16:9. Not only does this new format save 25 percent in camera film costs, but it provides an ideal framing for HD. Three-perf negatives must be scanned into digital files, since no three-perf projection format exists.
+
+If you look at the narrow 2.39 image on a Super 35mm negative, you’ll realize how much of the four-perf “real estate” is wasted. In fact, the 2.39 frame would fit nicely on a frame only two perfs high, while cutting film costs in half. With the advent of D.I., two-perf has achieved a new popularity for economical production of 2.39 images using conventional spherical lenses.
+
+Converting from One Aspect Ratio to Another
+
+Whether you work in video or film, widescreen or nonwidescreen, there will be situations in which you have to accommodate other aspect ratios. For example, your widescreen movie may be seen on nonwidescreen TVs. Or you may want to incorporate 4:3 footage into a 16:9 production. Different forms of distribution call for different aspect ratios, and if you’re converting from one to another it pays to think ahead. This discussion will address 4:3 and 16:9 but the same principles apply to other widescreen formats as well.
+
+FROM WIDESCREEN TO NONWIDESCREEN. Because many people still own 4:3 televisions, if you make a movie in 16:9 you may need to prepare a version that can be shown on a 4:3 screen. Converting from 16:9 to 4:3 can be done in a number of ways.
+
+Letterboxing means showing the entire 16:9 image inside of the 4:3 screen, with black bars on the top and bottom (see Fig. 2-12E). If the original was 16:9, letterboxing involves scaling down the 16:9 image to fit within the 4:3 screen. Letterboxing has become widely accepted, and it is perhaps the best solution to creating a 4:3 version of a 16:9 original because it preserves the original image composition.
+
+Fig. 2-12. Converting from one aspect ratio to another. When going from a nonwidescreen format to a widescreen format: (A) you can place the nonwidescreen frame within the widescreen frame with bars on either side; (B) you can enlarge the smaller frame, cropping the top and/or bottom edges and sacrificing some resolution; or (C) you can stretch it horizontally, causing a distorted picture. When converting from a widescreen format to a nonwidescreen format, you can: (D) crop the left and/or right sides; (E) letterbox the shot, preserving the whole frame but making it smaller; or (F) squeeze the image horizontally. Horizontal squeeze is commonly used to record widescreen images anamorphically on nonwidescreen video and film formats (the full-height anamorphic picture is later unsqueezed to restore the original widescreen frame). (G) If a letterboxed frame is displayed in a widescreen format using side bars, you get a postage stamp—a small image with black all around.
+
+Another approach is called edge crop or sometimes center crop. Here, a 4:3 rectangle is cut out of the center of the frame (see Fig. 2-12D). Edge crop may arbitrarily cut off important action—someone talking on the edge of the widescreen frame may not even be visible on screen. To reduce this problem, pan and scan may be used. With pan and scan, the position of the 4:3 crop is adjusted on a shot-by-shot basis or even within a shot so you can keep key action on screen. This is done during editing or post and may introduce artificial “camera” movements that the director or cinematographer never intended. At the very least, it is time-consuming if not also expensive.
+
+The third method, sometimes called squeeze mode, is to squeeze the picture horizontally, creating an anamorphically distorted picture in which people look tall and skinny and circles become vertical ovals (see Fig. 2-12F). Squeeze mode can be useful for outputting a full-height anamorphic SD image from a widescreen HD master, or directly from an HD camera, but only if it will later be unsqueezed for viewing (see above). Squeeze mode is not a good way to watch a program.
+
+FROM NONWIDESCREEN TO WIDESCREEN. Say you have a movie or some footage shot in 4:3 standard definition and want to convert it to 16:9, either as part of an upconvert to HD, or for display in SD on a widescreen monitor. There are several options; none is ideal.
+
+One approach is to center the 4:3 picture within the 16:9 frame with black bars on either side. This is variously called pillarbox, curtained, or sidebarred (see Fig. 2-12A). The advantage of pillarbox is that the entire 4:3 frame is preserved, with no loss of resolution or added distortion. There are, however, a few disadvantages. For one, the picture may seem too small since it doesn’t fill the frame. Some broadcasters won’t allow pillarbox. Another issue with pillarboxing is that some widescreen TVs are set to recognize the black bars and then stretch the image horizontally, distorting it (see Fig. 2-12C). Sometimes instead of black bars, a background of some sort is put behind the 4:3 image in editing or post to fill out the frame and create the sense that the whole frame is being used. One such technique involves placing an enlarged, out-of-focus version of the image itself into the background in order to fill in the empty sides.
+
+Another approach for converting 4:3 to 16:9 is to enlarge the 4:3 image so that it matches the width of the 16:9 frame (see Fig. 2-12B). While this is perhaps the most common technique, it means cropping the top and/or bottom of the picture and results in a 25 percent loss of resolution. If this is done during an editing session, you can move individual shots up or down to avoid cropping out important details. This is much like pan and scan and is sometimes called tilt and scan. Widescreen TVs typically have a zoom mode to scale up 4:3 material, which results in cropping and softening.
+
+Another approach is to stretch the 4:3 image horizontally by 33 percent (the opposite of squeeze mode described above). The resulting anamorphic distortion makes circles look like horizontal ovals and people look heavier than they are (see Fig. 2-12C). Widescreen TVs usually offer this as an option, and some consumers prefer it because it seems to “fill the screen,” but filmmakers who have carefully crafted their images may find the distortion disturbing. Some TVs apply more distortion to the edges of the frame than the center (called panorama mode) in hopes of disguising it a bit. It’s common to see programming stretched on airport or restaurant TVs, and many people probably aren’t even aware of it.
+
+In the course of converting material between 4:3 and 16:9, it can happen that letterboxed footage later gets pillarboxed, or vice versa. Either way, that footage can end up as a small rectangle with black bars on all sides; called postage stamp or windowbox, it’s something to avoid (see Fig. 2-12G).
+
+How Aspect Ratio Affects Your Shooting
+
+All this discussion of aspect ratios is to prepare you to think about how your choices affect the production from start to finish, and particularly to help you while you’re shooting. Let’s look at that part now.
+
+Fig. 2-13. Composition and aspect ratio. (A) The 4:3 nonwidescreen frame is well suited to a close-up of a face. (B) Shooting the same subject at the same size in 16:9 widescreen includes a lot more of the background, which needs to be taken into account. (C) If you shoot tighter to show the same amount of background as in A, the frame crops out the forehead and chin. (D) When B is letterboxed, the framing doesn’t change, but everything looks smaller. (Stephen McCarthy/Steven Ascher)
+
+One thing you can say for nonwidescreen 4:3, it’s well suited to the proportions of the human face. A close-up of a person talking can fill the frame nicely (see Fig. 2-13). If you shoot a close-up of a face in 16:9, you have a choice between cutting off the forehead or shooting wider and seeing a lot more of the background. When you’re shooting widescreen, you need to pay more attention to positioning the person in the space of the room and to the other things that are visible around and behind the person. When you’re selecting locations, dressing them (place objects or props), and choosing your camera angles, be sure you’re making good use of the widescreen frame. If you’re filming a single character, you’ll often want to counterbalance the person with objects or perhaps with lighting elsewhere in the frame.
+
+Widescreen formats are well suited to wide shots with more than one character or where landscape is featured. Widescreen formats work well in the cinema because even things that are relatively small are easy to see when enlarged on the big screen. When widescreen films are shown on smaller displays, details may disappear. The shot from Lawrence of Arabia in which a camel rider appears as a speck on a vast expanse of desert and comes toward us is suspenseful and glorious when shown in the theatrical Super Panavision 70mm prints at 2.20:1 aspect ratio. The same shot letterboxed on a small TV may leave you wondering for a while what (if anything) is going on.
+
+If you anticipate releasing a version of your movie in a different aspect ratio, keep that in mind when framing shots and blocking action. How you adjust depends on what format you’re shooting and what kind of conversion you’ll do. Again, though this discussion addresses 16:9 and 4:3, the same principles apply to conversions between other aspect ratios.
+
+If you’re shooting widescreen 16:9 and plan to make a letterboxed 4:3, you know the entire frame will be visible in the 4:3 version, but everything will be smaller. If there’s some element that’s crucial for the audience to see or read in the scene, make sure it’s big enough in the frame to still be legible when scaled down in the letterbox.
+
+If you’re shooting 16:9 and will be making a 4:3 version by doing edge crop, be careful not to position important elements too close to the left and right edges of the screen (or, if you’re doing pan and scan, you can use one edge or the other but not both at the same time). For example, it often looks good in 16:9 to have one character on the far left and one on the far right. Once converted to 4:3, one of them will probably be cut off. A classic problem occurs when someone enters frame from the left or right of the 16:9 version and on the 4:3 version you hear them before they enter the 4:3 frame.
+
+When doing edge crop, the frames of the 16:9 and 4:3 version share a “common top and bottom,” so the headroom—the distance from the top of someone’s head to the top of the frame—is the same for both. But the sides are different. You can’t be expected to put all the action in the center of the frame, but bear in mind the cropping that may happen later. Some broadcasters ask that when shooting 16:9 you protect for 14:9, a compromise that forces you to keep the action a little closer to the middle. Broadcasters may also require that graphics in a 16:9 production stay within an even narrower 4:3 safe area.
+
+When shooting in a 4:3 format that you plan to convert later to 16:9, the two versions will share “common sides” but you need be concerned with the cropping of the top and bottom of the frame. If you’re converting to 16:9 by enlarging the image (see Fig. 2-12B), you’ll be cutting out the top and/or bottom of the picture. This means when shooting you should leave enough room above and below the action so you don’t lose key details after the conversion.
+
+FRAME RATE AND SCANNING CHOICES
+
+Not that many years ago, choosing the basic frame rate for your movie was a no-brainer. If you were shooting film, you shot at 24 frames per second. If you were shooting video in North America, it was NTSC 60i (30 frames per second, interlaced) and in the UK, Asia, and Europe it was PAL 50i (25 frames per second, interlaced). Though these are still widely used frame rates, things have gotten a lot more complicated. You have more choices about frame rates and whether to shoot interlace or progressive. These choices can have a big impact on the look of your movie, your shooting style, and your postproduction and distribution options. Before reading this section, see pp. 11–15 in Chapter 1, and keep in mind that in the following discussion, we’re talking about the base frame rate for a project, not the use of high and low frame rates to create slow motion and sped-up motion (that’s discussed on p. 389).
+
+Let’s look now at the standard frame rates in ascending order of speed.
+
+24 fps Film and Digital
+
+In the silent era, early film cameras were hand-cranked at about 16 frames per second (but theater owners projected them faster so they could get more showings per day—hence the classic, sped-up look). Movies used to be called flickers (later flicks) because the image on the screen flickered (got brighter and darker). When talkies were introduced in the late 1920s, film cameras and projectors were motorized, and the speed was standardized to 24 fps to accommodate sound. This reduced flicker, but even at 24 fps the light would appear to flash on and off if projectors weren’t equipped with extra blades (see Fig. 16-15). The projector essentially flashes each frame on the screen two or three times, with an instant of darkness between. This gives an apparent “flash rate” of 48 to 72 flashes per second, which is fast enough so we perceive the illumination as continuous and not flickering.
+
+Over the years, we’ve come to associate 24 fps with the cinema experience. The look of Hollywood feature films is integrally tied to that frame rate. But shooting only 24 frames each second is a relatively slow “sample rate” in terms of the slices of time that are recorded. This reveals itself in several ways.
+
+First, when a camera runs at 24 fps, the standard amount of time that each frame is exposed to light is 1⁄48 second. This is slow enough that when a person moves across the frame quickly, he will be blurred while he is in motion (see Fig. 2-14). Audiences are used to this particular motion blur; they may even like it—it’s part of the “film” look.
+
+Fig. 2-14. Motion blur. (left) When the subject or camera moves quickly, there is motion blur within each frame that looks natural in video or film footage. (right) Shooting with a higher shutter speed reduces motion blur, which allows you to grab sharper still frames but can make motion seem choppy at some frame rates. (Steven Ascher)
+
+Another result of shooting 24 fps is that motion isn’t perfectly continuous. There’s a characteristic unsmoothness that you may not be consciously aware of (until you see a side-by-side comparison with footage shot at a higher frame rate). However, you can become very aware of it if the camera pans (pivots horizontally) across a landscape too quickly: the objects in the landscape will not appear to move smoothly across the screen, but instead seem to jump or stutter from one position to the next. This is called judder, skipping, or strobing. It happens when camera or subject movement is too fast, and it destroys the illusion of continuous movement (and gives viewers a headache). There are shooting techniques that help minimize strobing, such as throwing the background out of focus, tracking with a moving subject, and not panning too fast (for more on judder, see p. 393).
+
+The first 24p HD video camcorder was developed by Sony in response to a 1977 request from George Lucas, who was in the early planning stages of Star Wars. Today many if not most HD video and digital cinematography cameras can shoot at 24 fps, progressive. Many digital filmmakers like 24p because motion feels more filmlike. For digital acquisition of footage that will ultimately be transferred to film, 24p is particularly useful (it’s a very clean transfer, one progressive video frame per film frame) and it’s popular for movies that will remain digital from start to finish. With its relatively long exposure time, 24p is better than faster frame rates for shooting in low light.
+
+Fig. 2-15. Frame rate and the smoothness of motion. (top) Consecutive frames of a basketball falling. (bottom) The same action shot at a slower frame rate: now there are fewer frames in the same amount of time, and the ball moves farther between frames, which can increase the chance of choppy motion or judder. Note also that the slower frame rate typically has a slower shutter speed—resulting in more motion blur in each frame—which can help make the increase in judder less noticeable. (Steven Ascher)
+
+In terms of motion, 24p digital comes with many of the advantages and disadvantages of 24 fps film. When shot at the standard shutter speed of 1⁄48 second, it has the same motion blur of film. It may have somewhat worse strobing problems, however. This is because judder is most noticeable on parts of the frame that are sharply in focus, and with many digital cameras it’s harder to work at shallow depth of field, where you can throw the background out of focus (though large-sensor DSLRs and digital cinema cameras are an exception). Also, video monitors are typically brighter than film projectors, which exacerbates judder and flicker.
+
+So, while many digital filmmakers like 24p because of its look and because it’s progressive, keep in mind that in terms of its temporal (time) qualities, it’s a relatively slow frame rate that may cause the motion artifacts just discussed, which is why a lot of people shooting digital don’t prefer it.
+
+HOW 24p IS RECORDED. HD cameras use a variety of techniques to record 24p to file or to tape. Some HD cameras can record 24 fps “natively,” which means simply recording 24 progressively scanned frames each second in a digital file format to media like memory cards or hard drives. In Panasonic cameras, 24p native is sometimes indicated as “24pN.”
+
+Cameras that record 24p to tape divide each progressively scanned frame into two fields—first all the odd lines, then all the even lines—which in some ways resembles recording interlace at 48 fields per second. However, unlike normal interlace, since both fields originate from the same frame, that is, they are created during the same 1⁄48-second exposure, they can be recombined upon playback into a single, clean progressive frame. This method is known as progressive segmented frame (PsF).
+
+Both 24p native and PsF allow you to record 20 percent more material on a drive or a tape compared to the pulldown methods described below.
+
+Because 24p arrived on the scene after there was already 60i equipment in wide use, manufacturers felt that 24p would be most useful if it could be played on existing decks and monitors. Many digital cameras therefore use a technique of embedding the 24p stream in a 60i recording that can be viewed and edited on any 60i-compatible equipment. This is done using a process called 2:3 pulldown (also called 3:2 pulldown). For every four progressive frames that the camera captures, it splits them into five interlaced frames that are recorded as standard 60i to tape or to file. Using 2:3 pulldown, the speed of the movie doesn’t change and the resulting video can be edited like any other 60i video. If you want to edit or finish in 24p, the pulldown process can be reversed during postproduction to recover the original 24p stream.
+
+There are a few variations on pulldown. Panasonic also developed a system in which 24p and other frame rates are recorded into a 60p stream. This method is found on many cameras that record 720p HD. Panasonic developed another technique, called 24p Advanced pulldown (24pA), that offers some benefits when you shoot DV material for editing at 24 fps.
+
+For more on all of these methods, see Working with 24p and Pulldown on p. 601.
+
+WHEN 24p ISN’T QUITE 24 fps. As discussed on p. 14, frame rates for digital video cameras in formerly NTSC countries are usually not the whole numbers they appear to be. So digital video cameras running at 30 fps are really running at 29.97 fps and those set to 24 fps are generally recording at 23.976 fps (sometimes written 23.98 fps). A few high-end digital cinema cameras can run at precisely 24 fps, which is done primarily for feature films aimed for theaters. Material shot at true 24 fps can be converted to 23.976 when necessary, and vice versa. For more on the implications for audio recording, see p. 690.
+
+25p Digital
+
+If you live in a former PAL country, 25p can be an effective frame rate choice. It is very similar to 24 fps film in terms of how motion is rendered. Indeed, made-for-television productions shot on film in these countries are often shot at 25 fps.6 You can easily convert 25p to 50i for broadcast with good quality.
+
+30p Digital
+
+People living in former NTSC countries may choose 30p because it’s progressive, works well for video posted to the Web, and converts easily to 60i if needed for broadcast. Being a little faster than 24p, it handles motion with less objectionable judder. In many ways, 30p can feel like a fairly neutral frame rate, with no obvious flavor. If you’re shooting progressive HD and plan to intercut standard def NTSC material in the project, 30p allows the SD footage to be used without any frame rate conversion. One caveat about shooting 30p: if you plan to distribute your movie in formerly PAL territories, transferring from 30p to 25p or 50i may not result in the smoothest motion. For this kind of distribution, shooting 24p might be the better choice.
+
+50i/60i Digital
+
+As noted above, in formerly PAL countries, 50i (25 fps, interlaced) is the legacy frame rate still widely used for broadcast and for lots of different video equipment. In formerly NTSC countries, the equivalent is 60i (30 fps, interlaced). Interlace has the disadvantages discussed on p. 11. However, in terms of motion, since scanning takes place at 50 or 60 fields per second, there’s less judder than with frame rates like 24p, so things can move in the frame and the camera itself can pan more quickly without risk of strobing. In some sense, the look of 50i and 60i is more “realistic”—it’s closer to the way we normally perceive motion. It’s also the scanning rate many people have grown accustomed to from years of television, including sports, news, documentary, and corporate videos. Because of these associations, dramas shot at 50i and 60i may sometimes look less like “movies” and more like TV.
+
+48p/50p/60p Digital and Beyond
+
+Compared to 24p, motion looks much smoother when you shoot 48p for cinema or 50p or 60p for HD television. You get less motion blur when the camera or objects in the frame move (because the exposure time is much shorter), which can be a benefit for sports and other material where you want to capture all the action and be able to get good slow motion and crisp freeze frames. Like 50i and 60i, you get less judder than at slower frame rates but, being progressive, 48p, 50p, and 60p avoid edge tearing and other interlace weirdness.
+
+Visual effects pioneer Douglas Trumbull and James Cameron, among other filmmakers, have talked about how immersive and real the image feels at high frame rates, and how the increase in temporal resolution you get as the frame rate increases can be more exciting than the spatial resolution of simply increasing the number of pixels in the frame. Shooting at 48p, 50p, and 60p (and displaying at the same frame rates so that motion is rendered in real time) is a step in that direction.
+
+You can shoot HD at 1280 x 720 pixels at 60 fps (the format commonly known as 720p) and a number of networks broadcast in this format (see p. 63). A growing number of 1080-line HD and 2K digital cinema cameras can record at 48p, 50p, and 60p, and some monitors can display these frame rates directly—but as of this writing, corresponding theatrical and TV formats are not yet common for distribution or broadcast because of the high data rates.
+
+Big-screen 3D productions can be particularly enhanced by high frame rates. Peter Jackson’s Hobbit films were shot in 3D at 48p. There is talk of future standards of 72 or even 144 fps. For some dramas, high frame rates may look too realistic, as discussed earlier.
+
+Delivering Different Frame Rates
+
+Your choice of frame rate should be based mostly on the look you hope to achieve. Before you go into production, shoot some tests. You may find, for example, that the judder you get when panning at 24p bothers you, or that you need to adjust your shooting to minimize it.
+
+Bear in mind that we often see frame rates displayed in something other than their “pure” form. In NTSC countries most digital systems apply pulldown to 24p, as described above, so that by the time you see it on a screen you’re really looking at 24p converted to 60p (or first 60i then 60p). That footage will still look different from material originally shot at 60i, but it’s not the same as, say, watching a 24 fps film in a movie theater.
+
+As noted earlier, how the picture looks depends in part on how many frames are recorded each second, and also by how many times each frame is flashed on screen. In video, this is determined by the monitor or projector refresh rate. If you display video that was recorded at 30p on a monitor that has a 60 Hz refresh rate, each frame gets shown twice. Newer monitor technologies, such as screens that refresh at 120 or 240 Hz, repeat each frame more often and may make motion look smoother and reduce flicker. However, while you’re shooting, when you look in your camera viewfinder or on a monitor that has a slower refresh rate, the same footage may look choppier.7 For more, see p. 221.
+
+As discussed earlier in the chapter, the frame rate you shoot in is often different from the frame rate the movie is ultimately broadcast or distributed in. These days many editing programs or software apps can do frame rate conversions—some better than others. In the past, dedicated hardware systems provided the highest-quality conversions, but today there are both hardware tools and sophisticated software apps that can convert pretty much anything to anything and do it well. For example, if you shoot 60i, it’s fairly easy to convert to 50i for distribution in formerly PAL countries. Some people prefer to shoot digital at 24p (or transfer from film to 24p) to create a “universal master” from which 24p, 25p, 50i, and 60i can be relatively easily created for different distribution outlets.8 In general, shooting progressive is preferable since you can easily convert to interlace if necessary, but going the other way may result in lowered quality.
+
+Before choosing a frame rate, talk with post facilities and others with experience in the kind of project you’re doing. For more on frame rates, see Chapters 9 and 16; for more on frame rate conversions, see p. 598.
+
+CHOOSING A CAMERA
+
+Before you can choose a camera (or cameras) for your production, you have to make some basic decisions about whether you’re shooting digital or film and in what format or gauge. Chapter 1 and this chapter discuss those options. Then you’ll look at individual cameras and lenses for their capabilities. The next five chapters can serve as a reference for those choices. Below is an outline of things to consider.
+
+DIGITAL FORMATS. As you’ve seen, many things go into what might be called the “format,” including the type of compression (the codec), the amount of compression (or data rate, often user selectable), the frame size, the frame rate, and whether you’re shooting interlace or progressive. It may seem like a long list, but it’s less complicated than it looks. Seek advice, and remember that a format isn’t just a format, it’s the recipe of all these choices together. In the end you’ll decide on a recipe that you’ll follow for your movie and then get equipment that can deliver it. Or you’ll pick a recipe based on what your camera can handle. The truth of the matter is that movies have been made with wildly different format recipes and audiences for the most part don’t know or care.
+
+DIGITAL RECORDING MEDIA. Will you record to flash memory cards, hard drives, videotape, or some combination? More on this below.
+
+SIZE OF SENSOR OR FILM GAUGE. As discussed on p. 66, a digital camera’s sensor size or the width of the film gauge can affect your choice of lenses and make it easier or more difficult to shoot either with shallow depth of field or deep focus (other factors affect these things too). Sensor size also affects sensitivity and the size of the camera. This is a key factor in picking a camera.
+
+LENS OPTIONS. A camera that accepts detachable lenses will give you more options for choosing the right one for a scene or shot. Cameras with fixed lenses are sometimes more affordable and compact. The lens mount and sensor size can affect the range of available lenses in terms of focal length, speed, and cost. There’s a good argument for spending more on high-quality glass (which can last for years) than on the camera (which may soon be outdated).
+
+ABILITY TO HANDLE LOW LIGHT AND HIGH CONTRAST. See Color and Sensitivity to Light, p. 68. Remember that dynamic range and color may depend on how you adjust internal menus, so a camera may not look its best straight out of the box.
+
+CAMERA SIZE AND SHAPE. Camera size is a key consideration. The cost of a production is often closely tied to the size of the camera. If you’re shooting with a 35mm Panavision camera, you’ll need a sizable crew to lug it around. If you’re working with a DSLR, on the other hand, you might need only a cameraperson. If you’re shooting alone or with a small crew, a small camera that can be tossed into a shoulder bag and carried onboard an airplane can be a big asset.
+
+The size of a camera affects how people respond to the production. In documentary shooting, big cameras often draw attention (“What TV station will this be on?”) or may make subjects uncomfortable. A small camera that looks like a consumer model (or is a consumer model) sometimes helps you fly under the radar and avoid raising suspicions. Sometimes people ignore a DSLR because they assume you’re shooting stills, although the video capability of these cameras is no longer a secret.
+
+On a feature film, a small camera may make some people think it isn’t a “real” (that is, Hollywood) film. At times this can be a help—for example, if people can see you’re working with a small budget, they may be more understanding when you can’t pay them a lot. At other times, you might not be taken as seriously. As technology develops, small is often seen as cool.
+
+From the cameraperson’s standpoint, small cameras have advantages and disadvantages. Small, prosumer, or consumer cameras may not have the features or accept the accessories that professionals rely on to do their job. You may find your creativity hampered by the lack of manual controls, or, with DSLRs, the need to mount external viewfinders, monitors, audio recorders, and power sources that might otherwise be built into a dedicated video camera.
+
+For handheld shooting, some people love to work with a little camera that can be cradled in the hands, floated above the ground, or fit into small spaces. But when you hold a small camera up to your eye, all the weight is on your right arm, which can make steadiness difficult and be very tiring after a few hours. A heavier, longer camera that balances on the shoulder may be easier to work with. But beware of a camera that has a shoulder rest or brace but doesn’t really balance on the shoulder—your arm still has to hold it up. Some camerapeople like to wear a body brace for handheld work; others find that cumbersome. Once you trick out a DSLR with a full shoulder brace to adapt it for handheld work (and add the matte box, external viewfinder, and other attachments) it’s no longer really a small camera.
+
+Fig. 2-16. (A) A small handheld camera is light and portable but can be hard to hold steady. (B) This camera perches on the shoulder, which increases steadiness, but a lot of the weight is on your right arm, which can get tiring. (C) A shoulder-mount camera that balances on the shoulder can be steadier and sometimes more comfortable for handheld work, even if it’s heavier. (D) Some shoulder braces for small cameras place batteries or counterweights behind the back to help balance the camera. (Panasonic Broadcast; Redrock Micro)
+
+THE LATEST THING? In choosing a camera or format, some filmmakers like to work at the cutting edge of technology (often thought of as the “bleeding edge” for the problems you may encounter). Other filmmakers feel more comfortable with the tried and true. In exploring equipment or methods that are new to the market, be sure to look at the implications for shooting, editing, repairs, and so on. It usually takes some months or years for all the kinks to be worked out.
+
+STAYING FLEXIBLE. You may decide to use one camera system as your A camera to record the majority of the project and then have one or more other systems around for specialized shots, tight quarters, two-camera shooting, or whatever. The image from an inexpensive DSLR may show artifacts such as moiré (see p. 213) that a more expensive video camera might not, but it may be right for your purposes and budget (as either an A camera or B camera). Many successful films have combined high- and low-end gear in the same movie.
+
+PLANNING YOUR WORKFLOW
+
+As noted in Chapter 1, workflow is a term used in the digital video era to describe the sequence of steps or tasks needed to accomplish a goal in production, editing, or finishing. For example, if you shoot HDV and record on tape, your postproduction workflow will include capturing the video from the tape to a hard drive before you can start editing. However, if you record directly to a hard drive in the field, your workflow is simplified and you may be able to start editing immediately.
+
+Particularly now that there are so many technologies and ways of doing things, it’s important to plan out your workflow in advance. Often, choices you make at the beginning commit you to a certain workflow later on. The best workflow choices harmonize the steps of production, editing, and finishing, so you save time and don’t waste money fixing mistakes in post.
+
+Perhaps the best way to prepare a project workflow is to talk to people at each step of the production process and find out before you start how they like to work and what they need to do their jobs. If you’re shooting film, visit the film lab, meet the telecine colorist, and ask his or her advice about using the latest film stocks. If you’re shooting video or film, ask the people at the postproduction facility how they want material delivered, what kind of timecode they need, or if they have any particular audio requirements. Discuss strategies of online conforming and color correction with your editor and your post house. The value of talking to people in advance cannot be overstated! Don’t go blindly into decisions that may leave you regretting them later.
+
+MANAGING DATA IN PRODUCTION AND POST
+
+Digital video creates a lot of data to be recorded, processed, and stored. From the get-go, you need to consider which technologies and techniques you’ll use, as they affect many aspects of production and postproduction.
+
+Choosing Media for Recording and Storage
+
+Not too many years ago, a typical video camcorder recorded only one format onto a particular size tape cassette—end of story. Today, many cameras offer a variety of formats and ways to record them.
+
+When thinking about digital video recording, it helps to remember that digital video is just a form of computer data stored in files, whether on a tape, a hard disk drive (HDD), an optical disc, or a solid-state memory card like SD, Sony Memory Stick, CompactFlash, or Panasonic P2. Video files are a whole lot bigger than text files, but the basic operations of storing, copying, and moving them aren’t so different from what you might do with word processing files on your home computer.
+
+Fig. 2-17. (left) P2 card. These flash memory cards are about the size of a credit card and are available in various storage capacities. (right) The Panasonic AG-MSU10 unit can transfer the contents of a P2 card (in the upper slot) to a removable hard drive or SSD (in the tray below). Allows you to download cards in the field without a computer. (Panasonic Broadcast)
+
+SHOOT WITH TAPE OR GO TAPELESS? Videotape originated in the analog era and continues to be a useful medium for recording digital video. Tape cassettes are cheap, they can be quickly loaded and unloaded from a camera, and they can be used for long-term storage. Unlike a hard drive, a tape cassette is not a piece of “equipment”; so, for example, if you shoot footage for a client, you can give the client the tape and not be concerned about getting the drive back later.
+
+Tape continues to be used for some high-end digital cameras (such as Sony’s CineAlta cameras, which record to HDCAM SR) and for some lower-end cameras (like HDV models). However, the majority of new cameras no longer use tape; instead they record files to memory cards, hard drives, and discs.
+
+Fig. 2-18. DVCAM tape cassettes. The small cassette is MiniDV size. The larger shell holds more tape and can be used with larger professional cameras. (Sony Electronics, Inc.)
+
+The advantages of file-based, tapeless recording are numerous. Cameras no longer need a delicate tape transport and spinning head drum assembly, so they’re cheaper, there’s little or no mechanism to break, and they’re more robust in challenging shooting environments. Perhaps most important, any given camcorder can record to several different formats, even at different frame rates, which wasn’t possible in the old days of tape. File-based recording makes it easy to check takes in the field, mark them with comments, or get started editing.
+
+To get the best of both worlds, some people record simultaneously to both tape and either a hard disk drive (HDD) or solid-state drive (SSD). The HDD or SSD gets them editing faster and the tape goes to long-term storage in the archive. Sony HDV camcorders, for one example, can record HDV internally to a MiniDV cassette and simultaneously output the same HDV signal via FireWire to an external HDD or SSD controlled by the camera for dual starts and stops. This is called dual recording. Dual recording is also available in cameras that record to solid-state media. Some Sony AVCHD camcorders, for instance, that primarily record to SD cards or Memory Sticks can simultaneously record to an optional SSD, which has more than ten times the capacity of the smaller memory cards.
+
+PROTECTING DIGITAL DATA. While file-based recording has lots of benefits, it does introduce a new set of tasks and challenges during the shoot; namely, managing all the data produced by the camera. If you can afford enough flash memory cards, you can shoot all day and deal with downloading after the shoot. If not, you have to stop shooting when your cards fill up, and manage the process on set or location. Similarly, some cameras record to internal or external hard drives that need to be downloaded when they’re full.
+
+Fig. 2-19. The Atomos Ninja recorder can record, monitor, and play back Apple ProRes 422. Stores files on a removable hard drive or SSD. Can be used as an external recorder with cameras that can output uncompressed video via HDMI, allowing you to bypass the camera’s native codec and record high-quality 10-bit ProRes files. The ProRes files are ready for editing, usually with little or no conversion necessary. The Atomos Samurai adds Avid DNxHD recording and has HD/SD-SDI inputs. (Atomos)
+
+While flash memory continues to drop in price, many still consider it too expensive for long-term storage. The long-term stability of flash memory is also unproven. So when a flash memory card or drive fills up, most people download it to a hard drive or optical disc.
+
+Downloading can be done with a laptop; alternatively, there are several stand-alone portable hard drive solutions that can automatically download from a card to one or more drives, complete with verifying the data. Before you wipe forever clean the memory card so you can put it back in the camera, you want to be absolutely sure that you have copied intact working files to the backup device, because your footage is costly if not impossible to replace. Often this means that someone is assigned the responsibility of first playing back and inspecting the copied files before the card is recycled. All this takes time and equipment. Anyone who has feverishly downloaded cards under pressure from a crew waiting to get back to work with those cards may look back wistfully to the days when you could simply pop a recorded tape out of the camera and pop in a fresh one.
+
+Files can get corrupted and hard drives are susceptible to failure, so downloading precious footage to a single drive doesn’t make it safe. Some productions follow a “three by two by two” rule: download files to three storage devices (using at least two different technologies; see below) and store them in at least two different locations in case of a fire or other disaster. On some shoots, hard drives are given to different members of the production team to bring home in separate cars or flights.
+
+As of this writing, optical disc recording is limited mostly to professional camcorder systems like Sony’s XDCAM HD (Blu-ray based). The disc drive is integral to the camcorder and play/record decks. The “professional discs” can then be used for archiving.
+
+SAVING TIME IN EDITING. With videotape, you can’t start editing until you “capture” the material onto the hard drive of the editing system, which involves playing each tape in real time (an hour tape takes at least an hour to capture). One of the selling points of file-based recording is that you can start editing more quickly. However, not all tapeless systems are equal in this regard.
+
+Some systems are truly direct-to-edit. For example, the high-end ARRI Alexa can record to Apple’s ProRes codec, as can a variety of lower-end cameras using devices like AJA’s Ki Pro external recorder (see Fig. 5-11) or the Atomos Ninja (see Fig. 2-19). You can attach a drive with your ProRes files to a Final Cut Pro editing system and get right to work.
+
+Not all workflows are this seamless. DSLRs, for example, record in MPEG-4 file formats that must sometimes be converted before you can edit with them. (As native editing of mixed codecs becomes the norm in leading nonlinear editing systems, such conversions will become a thing of the past.) For various reasons, you may choose to transcode to a different codec for editing or finishing (more on this below). Although such conversions can usually be done faster than real time, the process is far from instantaneous.
+
+Also, regardless of what technology you use, there is still the time-consuming step of logging: the task of breaking down and labeling clips before you edit.
+
+LONG-TERM STORAGE. Not unlike the nuclear power industry, which keeps churning out nuclear waste without a good solution for storing it, digital video producers keep recording terabyte after terabyte of data without any good, long-term, archival storage system.
+
+Memory cards may still be too expensive to put on the shelf, issues of archival stability aside. Hard drives are a medium-term solution, but costs add up when you have a lot of data to store. Some filmmakers buy “bare” SATA drives cheaply on the Internet without any cables or housing. Bare drives can be mounted in a removable enclosure or a drive tray in a Mac Pro or HP workstation. Once you’ve uploaded your data, you take the bare drive out of the enclosure and store it. Since all hard drive mechanisms are destined to fail over time, some people recommend starting up your drives at least once a year, and after a few years transferring the data to another drive.
+
+Another solution is an LTO (Linear Tape—Open) drive, which accepts LTO tape cassettes. LTO is a linear tape format that uses simple, fixed magnetic heads instead of the complex spinning heads used in video recording. It provides high storage capacity and is considered archival. (Many industries use LTO for backup, including banks and financial institutions.) The latest LTO format, called LTO-5, which can store 1.5 terabytes per cassette, is sometimes used to archive video. In 2010 a new file system was announced for LTO tapes called Linear Tape File System (LTFS) that will allow an LTO tape drive to appear on a computer’s desktop as if it were just another hard drive. LTFS was created with video storage in mind. While LTO tapes are relatively cheap, as of this writing the drives aren’t. There is, of course, the irony that, thanks to progress, our cameras no longer use magnetic tape, but if we want to archive footage from these cameras, we may need…magnetic tape.
+
+A DVD can store 4.7GB and a Blu-ray Disc can store considerably more, depending upon number of recording layers: 25GB, 50GB, up to 128GB. The archival longevity of these discs, particularly DVDs, is questionable. Like color film, most DVDs rely on organic dyes that fade due to aging and temperature. Sony, however, claims its Professional Discs, based on Blu-ray technology, have an archival life of fifty years.
+
+Of course, with any archiving system, you need to make basic decisions about whether you’ll save everything from a project or you’ll weed out bad takes, outtakes, or other material to reduce storage requirements.
+
+For more, see Recording to Cards, Drives, and Optical Discs, p. 115.
+
+Cloud-based Workflows
+
+Various online services allow you to upload your video files to their servers over the Internet (“cloud storage”). Web-based systems can be used throughout the production process, including uploading high resolution camera footage, transcoding to editing formats and web-friendly viewing formats, archival storage, and collaborative tools that enable members of the production team to watch, label, and even edit material from wherever they are. For more, see www.aframe.com, www.sampledigital.com, and www.wevideo.com.
+
+Thinking About Camera Choices, Compression, and Workflow
+
+See the discussion of compression on p. 20 before reading this; for more on color systems, see p. 16.
+
+We’ve seen that shooting digital video involves processing a lot of digital data. The more resolution the camera is capable of, the more data you’ve got to deal with, which drives up costs. Compression reduces the amount of data, and is done at several stages between the sensor that captures the image and the device that will eventually display it. Let’s look at the different stages and the implications for workflow and choices you might make about cameras and postproduction.
+
+Fig. 2-20. The Aaton Penelope can shoot 35mm film, and replacing the film magazine with a “Digital-Mag” makes it a high-end digital cinematography camera. The Delta-Penelope can record uncompressed RAW as well as edit-ready, low-res proxy files. (AbelCine)
+
+If you’re using a large single-sensor camera to record in a RAW format, or to record RGB 4:4:4 in a log format like Sony S-Log, you’ve chosen the least-processed, most data-intensive type of recording. RAW files, for instance, come right off the sensor and allow maximum flexibility for adjusting color and tonal scale in postproduction. Uncompressed RAW recording requires a lot of fast storage. (The RED One and Epic get around this by compressing their RAW output.) During the shoot, processing is needed to convert RAW to something you can view properly on a monitor (see p. 203).
+
+RGB 4:4:4 also has a very high data rate, and it can be recorded with only a fast drive array or other high-throughput recording system. It’s worth noting that because neither RAW nor RGB 4:4:4 can be recorded and broadcast with typical video equipment, many people don’t consider them “video”; instead, they’re digital motion picture formats. All the formats discussed below are video.
+
+Most video cameras further process the RGB signal into component color (4:2:2), which involves throwing away some of the color resolution and reducing the data rate (see p. 209). This 4:2:2 component signal is also extremely high quality even though the data rate is lower than for RAW or RGB. Uncompressed 4:2:2 still requires so much storage that it isn’t practical for most productions and may not provide much benefit (that is, you may not see any difference in the picture between working in uncompressed and using some compression).
+
+To reduce storage needs more, most video cameras compress the 4:2:2 signal using one of the formats and codecs discussed in Chapter 1 (see High Definition Digital Formats, p. 23); for example, AVCHD or DVCPRO HD. Compression levels vary from light to heavy depending on the format and the options selected. Many codecs throw away even more color resolution; HDV and Sony’s XDCAM EX, for instance, are 4:2:0. For the vast majority of productions, these varieties of compressed video provide ample quality.
+
+One reason manufacturers offer so many different systems is that productions vary considerably in their relative priorities of quality, convenience, and cost. If you can afford it, there are advantages to shooting with as little compression as possible. On the other hand, a highly compressed system may suit your needs very well. As time goes on and codecs improve, you can work at lower data rates (more compressed) without sacrificing quality.
+
+Fig. 2-21. RAW files allow you to adjust many aspects of the image in postproduction, including exposure, color temperature, ISO, and color balance. Some NLEs, such as Avid Media Composer (shown here with settings for REDCODE files) and Adobe Premiere Pro, can work with RAW files natively, allowing you to make adjustments as you edit, without “baking in” a look beforehand. Not all systems can handle large RAW files with adequate performance for editing. (Avid Technology, Inc.)
+
+Some cameras may offer various options for compression. If you’re able to work with an external recorder you may have even more. For example, some cameras can only record highly compressed video within the camera, but can output uncompressed HD via an HD-SDI link or an HDMI cable to a flash memory recorder or hard drive.
+
+As you move into postproduction, you have more options about compression. If you shot in a relatively uncompressed, high-data-rate format and want to edit in that format, you’ll need a lot of storage and a powerful, fast hard drive array. On many productions, to save money and storage, footage is downconverted or compressed prior to editing. For example, HD material might be compressed to a low-data-rate file that’s easy to store and edit. After offline editing, the original, full-res files are linked to the edited sequence, and the movie can be output in its highest-quality form (see Fig. 14-9).
+
+In another type of postproduction workflow, camera footage is made less compressed before editing (making the files larger). Since the H.264 compression used in some DSLRs can create issues in editing, filmmakers may prefer to decompress or transcode footage to a less compressed codec like ProRes 422 or DNxHD 145 prior to editing (for more on compression and editing, see p. 554).
+
+Fig. 2-22. Most DSLRs create small, highly compressed video files that are easy to store, but are sometimes easier to work with when converted to a less compressed format prior to editing. (Ally Shore/SmallHD)
+
+In finishing your project, you’ll face yet more considerations about what format to create the master in, and how to manage up- or downconversions from that master for distribution (see Chapter 14).
+
+Workflow decisions about compression through the production chain have a whole array of pros and cons that you can best evaluate by talking with people and doing research on the Internet.
+
+THE IMPORTANCE OF SOUND
+
+In filmmaking, sound quality is often more important than picture quality. This may seem counterintuitive, but you can test it yourself. First watch a scene that’s well lit and in focus but has distant, scratchy, rumbling sound with dialogue that’s hard to understand. Then watch a scene that’s very underexposed and maybe a little out of focus, but has pristine audio with crystal-clear voices. After a minute or two, the first scene becomes truly irritating; the second one, though not ideal, is at least watchable.
+
+On many productions a misguided priority is placed on image over sound. For example, the director of photography may be given hours to light the set; then, at the last minute, the sound recordist is told to slide a microphone in wherever there’s room—as long as it doesn’t cast any shadows. Or a filmmaker may spend thousands to get a high-resolution camera, only to shoot with a cheap on-camera mic.
+
+For a fiction film, sound recorded poorly on the set can be remedied by rerecording the dialogue later in a studio (called ADR—automatic dialogue replacement). Even on an otherwise well-recorded movie, ADR may be necessary for scenes shot in noisy locations or where mics are impractical. ADR, of course, takes money and time.
+
+On a documentary, ADR is not done (even if it could be, most would argue it shouldn’t be). Many a great documentary scene has been abandoned on the cutting room floor because of unintelligible sound.
+
+Sound recording and editing is discussed in Chapters 10, 11, and 16. But there are several aspects to sound that you should consider before you begin production.
+
+Microphones
+
+When it comes to recording the human voice, there’s no substitute for getting close to the source. Miking from a few feet away usually allows you to capture the voice clearly, without too much competing background sound.
+
+Professional sound recordists often use a microphone at the end of a boom, which can be positioned close to the person talking. This may be a directional mic that reduces background noise (see Chapter 10). Another solution is to put a wireless mic on the main person(s) talking; a wireless lapel mic can be hidden under clothing or, for some documentaries, clipped on a tie or shirt.
+
+With video camcorders and DSLRs there’s a temptation to use the mic that is built in or mounted on the camera. On-camera mics can be useful for run-and-gun situations, or when the subject is very close to the camera. However, if you plan to shoot your movie mostly with an on-camera mic, be aware that there will be many situations where you’ll get bad sound. The camera is usually farther from the subject than is optimal for audio, and it’s often pointed at something other than the sound source. Also, built-in mics often pick up camera or handling noise. Avoid them when you can! Even if you’re filming alone, a wireless mic or sometimes a handheld mic can be a big improvement.
+
+The Recording System
+
+As discussed in Chapter 1, film is always shot double system. When shooting digital video, sound is recorded in the camera and it may also be recorded double system with a separate audio recorder. When choosing a camcorder, look into its sound recording capabilities. Few if any camcorders record audio that is the equal of high-quality professional sound recorders because professional recorders have expensive preamps and processing optimized for first-rate audio. But many camcorders record sound that is almost as good, typically 48 kHz, 16-bit digital audio, the same as many other digital recorders. Many indie features and documentaries have been successfully made with in-camera audio.
+
+Sometimes a particular camcorder or digital video format results in audio that is of lower quality. For example, DSLRs often have cheap preamps and inferior audio capabilities. Many filmmakers, especially those making dramatic feature films, prefer instead to use portable flash- or disc-based recorders to record uncompressed audio while shooting with DSLRs. Generally, audio is recorded in camera as well, to assist in syncing up (see p. 589).
+
+Talk to audio recordists or postproduction mixers to get advice about your setup. For professional results, you may decide to use different camera settings, a different camera, or a separate audio recorder. When you shoot video double system, you gain a certain flexibility, but there may be added complexity on the shoot and you also need to allow some time to sync the sound and picture during editing.
+
+Music
+
+Music is a powerful force in movies. It can have a huge impact on the audience’s emotions and energy. It can also have a huge impact on your budget. Filmmakers often plan scenes around their favorite song or find themselves shooting a scene in which a cool tune is playing in the background. Unless you have deep pockets, beware!
+
+If a character in your film plays or sings a song, you’ll need to clear the rights to it with the song’s publisher. To use a prerecorded song by a popular artist (whether it’s playing in the scene or added in editing) you’ll need to license it from both the publisher and the record company. This can cost thousands or tens of thousands of dollars. Never commit yourself to using a song (for example, by having a character perform it) without finding out first if you can clear and afford it (and leave several months for the process). Even a tune as ubiquitous as “Happy Birthday” is copyrighted and needs to be licensed.
+
+If you’re shooting a documentary, it’s generally a good idea to avoid radios or other music sources while you’re filming. Turn them off when possible. (It also makes cutting easier if no continuous music exists in the background.) There is an exception, however, which applies mostly to documentaries. The legal concept of copyright includes the idea of “fair use,” which permits limited use of unlicensed audio and video materials under specific circumstances.
+
+There’s more on music editing in Chapter 16 and on the legal aspects of clearing music and fair use in Chapter 17.
+
+The Sound Mix
+
+Early sound recordings were monophonic—just one audio channel. Then stereo (two channels) became standard. Now some sound systems have five or more channels. Having a multichannel sound mix can enhance your distribution opportunities (or be required by a broadcaster or distributor), but it adds complexity and cost to finishing the film. If you want or need a multichannel mix, budget for it and plan ahead (particularly in editing, but even in shooting). See Chapter 16 for more on mixing.
+
+COPING WITH TECHNOLOGY
+
+Surviving the Onslaught of Technology
+
+So, you’re setting out to make a movie, and you have to decide about equipment, formats, frame rates, perhaps even how many dimensions. As we’ve seen, there are many ways to go—too many, really. Your choices will be somewhat limited by the equipment you have or can afford. You may face difficult trade-offs that force you to sacrifice one option for another. And when you ask for advice, be prepared to hear different people argue passionately for or against any given choice. Some of these people will actually know what they’re talking about and others will be equally as sure of themselves.
+
+Fig. 2-23. A format is rarely just a format. This image was shot in 16mm film, transferred to DigiBeta, dubbed to DVCAM, exported as a TIFF file, up-resed and deinterlaced in Photoshop, then printed in black-and-white. A lot of film and video footage goes through a similarly complex path from acquisition to display. You can go crazy trying to control how each stage changes the picture. (Stephen McCarthy)
+
+It would seem that any disagreements about formats and settings could be settled by a simple test to see which looks best. But it’s often not that simple. Say you like the look of a certain movie and want to emulate it on your production. Well, as we’ve seen, there are lots of things that contribute to what you’re seeing: the direction, the subject, art direction (for a drama), lighting, camera, lenses, format, frame rate, the monitor or projector.
+
+As if all these considerations weren’t enough, there’s also the simple truth that the exact same technical specs can look good when shot and displayed with well-designed professional equipment and appear a lot worse with cheap consumer gear. It can seem overwhelming to account for so many factors. But to understand what you’re doing and why, you need to be a critical thinker and try to examine one factor at a time. For example, using just one camera and one monitor, experiment with different frame rates. Get to know the different feels they produce. Then, when you see the output of another camera, you’ll have a sense of whether it looks the way it does thanks to the frame rate or some other factor. And when you find something you like, try watching it in different environments—on small screens and large—to see how it holds up.
+
+It’s easy to get caught up in numbers. Filmmakers and consumers always want to know which is the “best” format, camera, or TV. Preferably, they’d like a simple numbered scale or ranking to compare “A” to “B.” As we’ve seen, there are many numbers used to quantify different things, but the numbers are sometimes more misleading than helpful. What your eye perceives can’t be boiled down to a meaningful number. Sometimes an image that “should” look inferior according to the numbers actually looks great. People develop prejudices based on old assumptions or how much something costs and then are shocked by a new technology that performs better than anything before in its price range. A format or camera may be just fine for your purposes even if another is technically “superior.”
+
+In the end, it’s not the numbers that matter, it’s what you see and hear. Over time you’ll learn to interpret why something looks and sounds the way it does, so you can decide if it’s right for you, or what you might do differently.
+
+The Cost of Independence
+
+As digital technology becomes more sophisticated, filmmakers are expected to understand and work with some really complex tools. These tools put a great deal of power in your hands, but require a lot of attention when you might rather concentrate on other things.
+
+As digital equipment and software become more affordable, it becomes technically possible for one person to shoot and edit a movie, do the color correction and sound mix, create the titles, effects, and everything else. Working this way can be a real boon: it saves time, money, and hassle and gives the filmmaker unprecedented creative control. But it entails some losses. When you’re no longer interacting with the professionals who would have otherwise done the sound mix, color correction, graphic layout, and such, you lose the benefit of their expertise. Technology can be democratizing, but it can be isolating too.
+
+1. Such as the PBS Red Book in the United States, available online, which details policies and deliverables.
+
+2. And even on the Internet there are gatekeepers. As discussed in Chapter 17, with distribution such as iTunes, Netflix, and VOD, it’s very hard for a filmmaker to make a deal directly without first going through an aggregator (middleman).
+
+3. Sensor sizes indicated as fractions of an inch are a diagonal measurement that comes from analog days when the target sensor fit inside a glass cylinder of that diagonal, so the sensor is slightly smaller than the stated size.
+
+4. When shooting digital, different color tones can be separated in post during the conversion to black-and-white.
+
+5. Meanwhile, manufacturers of 4K cameras argue that shooting 4K and downconverting to 2K or HD is noticeably better than shooting those lower-res formats. If so, then you need to weigh whether it’s enough better to justify the increased data and cost. As noted earlier, some theaters project from Blu-ray players, which are at HD resolution. One advantage of shooting at higher resolution than you plan to deliver (for example, shooting 4K for distribution in HD) is that you can enlarge or reposition the image in post without loss of quality. In general, HD and higher-res formats allow you to do things like zoom in 25 percent or more during editing, sometimes including the zoom as a move on screen, which isn’t possible in SD without noticeable softening.
+
+6. Or they’re shot on film at 24 fps and then sped up by 4 percent to 25 fps when transferred to video.
+
+7. ARRI describes the stuttering you may see in the Alexa camera viewfinder when doing quick pans at low frame rates as a “worst-case scenario,” since the effect will be much less apparent on external monitors or projectors. When recording to file at 24 fps, the Alexa offers a smooth mode to feed a 48 fps image at the same shutter speed to the viewfinder (to reduce apparent judder for the camera operator).
+
+8. However, going from 24p to 25 fps PAL often involves a change in speed and pitch (see p. 69).

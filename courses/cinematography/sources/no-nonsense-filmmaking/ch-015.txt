@@ -1,0 +1,68 @@
+Accessibili ty Statement 
+Accessibili ty of This Resource 
+The web v ersion of this resource No-Nonsense F ilmmaking has been d esigned to m eet Web C ontent 
+Accessibility Guidelines 2.0, level AA. In a ddition, it follows all guidelines in Appendix A: Checklist 
+for Accessibility of the Accessibility Toolkit – 2nd Edition. It includes: 
+• Easy navigationEasy navigation. This resource has a linked table of contents and uses hierarchical headings in 
+each chapter to make navigation easy. 
+• Accessible imagesAccessible images. All images in this resource that convey information have alternative text 
+and, if needed, linked image descriptions. 
+• Accessible linksAccessible links. All links are descriptive and include a textual reference if they open in a new 
+tab. 
+• Accessible interactivity. Accessible interactivity. Only accessible H5P types are used. 
+NO- NONSENSE FILMMAKING
+117
+
+Accessibility Checklist Accessibility Checklist 
+Element Element Requirements Requirements Pass? Pass? 
+Headings Headings Content is organized under headings and subheadings that are used sequentially. Yes 
+Headings Headings The chosen Pressbook uses either the Jacobs or Malala theme. No 
+Images Images Images that convey information include alternative text descriptions. These descriptions are provided in the alt text field, in the surrounding text, or linked to as a long description. Yes 
+Images Images Images and text do not rely on color to convey information. Yes 
+Images Images 
+Images that are purely decorative or are already described in the surrounding text contain empty 
+alternative text descriptions. (Descriptive text is unnecessary if the image doesn’t convey contextual 
+content information.) 
+ Yes 
+Tables Tables Tables include row and/or column headers that have the correct scope assigned. N/A 
+Tables Tables Tables include a title or caption. N/A 
+Tables Tables Tables do not have merged or split cells. N/A 
+Tables Tables Tables have adequate cell padding. Yes 
+Links Links The link text describes the destination of the link. Yes 
+Links Links If a link will open in a new window or download a file, a textual reference is included in the link text. Yes 
+Links Links For citations and references, the title of the resource is hyperlinked, and the full URL is not hyperlinked Yes 
+Audio Audio All audio content includes a transcript that includes all speech content and relevant descriptions of non-speech audio and speaker names/headings where necessary. No 
+Video Video All videos include high-quality (i.e., not machine generated) captions of all speech content and relevant non-speech content. No 
+Video Video All videos with contextual visuals (graphs, charts, etc.) are described audibly in the video. No 
+H5P H5P All H5P activities have been tested for accessibility by the H5P team and have passed their testing. Yes 
+H5P H5P All H5P activities that include images, videos, and/or audio content meet the accessibility requirements for those media types. No 
+Formulas Formulas Formulas have been created using MathML and are rendered with MathJax. N/A 
+Formulas Formulas If MathML is not an option, formulas are images with alternative text descriptions. N/A 
+Known Accessibili ty Issues and Areas for Improvement 
+• This Pressbook is using the Leonard Theme and may not be as easy to read for some as other 
+themes. 
+• For all videos hosted by YouTube that include captions and transcripts, the captions and 
+transcripts are auto-generated and not edited by a human for accuracy. Therefore, some 
+relevant non-speech content or descriptions may be missing. 
+• Though all H5Ps used in this Pressbook are accessible, the images used in the H5Ps do not 
+include alt text and therefore may not be accessible. 
+Let Us Know if Y ou Are Having Problems Accessing This Book 
+We are always looking for ways to make our resources more accessible. If you have problems accessing 
+this resource, please contact us to let us know so we can fix the issue. 
+Please include the following information: 
+MISCHA LIVINGSTONE
+118
+
+• The name of the resource 
+• The location of the problem by providing a web address or page description. 
+• A description of the problem 
+• The computer, software, browser, and any assistive technology you are using that can help us 
+diagnose and solve your issue (e.g., Windows 10, Google Chrome (Version 65.0.3325.181), 
+NVDA screen reader) 
+You can contact us through this formYou can contact us through this form. 
+This statement was last updated on August 16, 2025August 16, 2025. 
+The Accessibility Checklist table is adapted from “Accessibility Assessment” in The Rebus Guide to Publishing Open 
+Textbooks (So Far) by the Rebus Community under a CC BY 4.0 license. 
+ 
+NO- NONSENSE FILMMAKING
+119

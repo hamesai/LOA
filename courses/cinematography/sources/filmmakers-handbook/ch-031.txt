@@ -1,0 +1,4855 @@
+INDEX
+
+The page numbers in this index refer to the printed version of this book. To find the corresponding locations in the text of this digital version, please use the “search” function on your e-reader. Note that not all terms may be searchable.
+
+above-the-line costs, 728, 729
+
+A&B rolling, 682, 708
+
+A/B test, 423
+
+AAC, 20, 617, 673
+
+AAF (Advanced Authoring Format), 244, 613, 614, 655–57
+
+Academy aperture, 42, 45
+
+Academy leader, 653
+
+Acmade numbers, 284, 693
+
+acoustics, 445–46, 668
+
+acoustifoam, 425
+
+AC (alternating current) power supply, 127–28, 131, 482, 519
+
+acrylic filters, 497
+
+AC-3 (Dolby Digital), 670
+
+active autofocus, 113–14
+
+active glasses, 400, 401
+
+active pixels or lines, 8
+
+actors, 56, 356, 358, 373, 731–33
+
+acts, 525
+
+acutance, 173
+
+adapter rings, 319
+
+ADAT, 411, 412n
+
+additional photography, 3
+
+additive primaries, 304, 305
+
+additive printing, 710
+
+ADR (automatic dialogue replacement), 47, 98, 360, 532, 635, 642
+
+AES/EBU format, 416–17, 551
+
+AGC (automatic gain control), 109, 453–54, 455
+
+air travel, 132, 270, 285, 366
+
+aliasing, 13, 14, 230, 408
+
+Allen, Woody, 334, 335, 524
+
+Almendros, Néstor, 507
+
+alpha channels, 590–91
+
+Altman, Robert, 373, 461
+
+ambient sound, 443, 587, 645, 667
+
+American Cinematographer Manual, 162
+
+American Graffiti (film), 46
+
+amplitude, 402, 518
+
+analog optical tracks, 713–14
+
+analog sound levels, 451–52
+
+analog sound recorders, 7, 8, 405–6, 415–16, 419
+
+analog-to-digital (A/D) converters, 228, 229, 406
+
+analog TV, 62
+
+analog video formats, 7–8, 32, 193–94, 209, 227
+
+anamorphic images, 75, 78, 259, 705
+
+anamorphic lenses, 75–76
+
+angle of acceptance, 289–90
+
+angle of view, 73, 142–43, 148, 150, 151, 788–90
+
+angle/reverse angle style, 323
+
+animation, 140, 392–93
+
+animation stand, 596
+
+Annie Hall (film), 334, 335
+
+answer prints, 51, 696, 710–11
+
+antihalation backing, 271, 272
+
+aperture correction, 138
+
+aperture plate, 254
+
+appearance releases, 349, 735, 739–41
+
+apple boxes, 381, 496
+
+APS-C sensor, 67
+
+archival material, 347, 523, 747
+
+archival storage, 93–94
+
+A-rolling, 707
+
+art direction, 362, 364, 374
+
+art houses, 4, 749
+
+artifacts, 13, 14, 61, 211–16
+
+ASA number, 275
+
+aspect ratios, 15–16, 24, 41–42, 62, 74–81, 105, 106, 222, 232–33, 328, 599–600, 618, 684, 705
+
+assemble-edit recording, 620
+
+assemble lists, 701
+
+assemblies, 3, 537
+
+associate producers (APs), 362
+
+astigmatism, 173
+
+ATA drives, 240
+
+ATSC (Advanced Television Systems Committee) standard, 62–63, 250
+
+attenuators, 313, 432, 453
+
+audio gain automation, 585
+
+audio levels, 446–55, 585–86, 659–65
+
+audio recording, see sound recording
+
+audio reference tone, 616, 621, 622
+
+audio syncing, 587–90, 689–90
+
+audio timecode frame rates, 467–68
+
+audiovisual (AV) distribution, 4, 755, 760
+
+audio waveforms, 573, 585, 589, 660
+
+auditions, 363, 584
+
+autoexposure (AE), 108–9
+
+autofocus, 113–14, 160, 166
+
+auto-iris control, 108–9
+
+automatic gain (level) control (AGC), 109, 453–54, 455
+
+automatic knee function, 197–98
+
+automatic white balance, 111–12
+
+auto scene detection, 570
+
+autostereoscopic displays, 400
+
+auto tracing white balance (ATW), 111
+
+available light, 471
+
+AVC (Advanced Video Coding), 26
+
+AVCAM, 26
+
+AVCHD, 17, 18, 20, 22, 25, 26, 92, 95, 123, 247, 251, 400, 562
+
+AVC-Intra, 26
+
+AVC Ultra, 26, 28
+
+average sound level, 447, 448
+
+averaging light meters, 289, 294
+
+AVI, 116
+
+Avid Media Composer and Symphony, 36, 96, 206, 221, 249, 541, 547, 563, 568, 570, 575, 577, 580–81, 584, 589, 610, 611–13, 629–30, 698, 701
+
+A-wind, 282–83
+
+baby legs, 379
+
+back focus, 181–82
+
+background noise, 98, 444–45, 642, 645
+
+background plate, 212
+
+backing up camera files, 118–19, 121, 566
+
+backlighting, 70, 294–96, 475, 476, 499–501, 504, 505, 514
+
+backstory, 525
+
+backtimed edits, 570
+
+balanced cables, 432–34
+
+ballast, 481
+
+banana plugs, 433
+
+banding, 231, 232
+
+bandwidth, 12, 236
+
+barndoors, 493, 505
+
+barneys, 267
+
+barrel distortion, 173
+
+bars and tone, 127, 306, 452, 767–69
+
+base, 124, 272
+
+base plate, 319
+
+bash lights, 492
+
+bass (bass cut) filters, 459
+
+bass filtering, 459, 641, 666
+
+batch capturing, 612
+
+batch processing, 559
+
+batteries, 128–32, 366, 429, 439
+
+battery belts and packs, 128, 130
+
+battery charging, 130–31
+
+battery memory, 131
+
+Bayer pattern filter, 16, 137, 203, 233n
+
+Bazin, André, 332
+
+beam-splitter reflex, 260–61
+
+bed, 645
+
+behind-the-lens filters, 319–20
+
+below-the-line costs, 728
+
+best boy, 362
+
+best-light prints and transfers, 301, 687, 694
+
+Betacam camcorders, 32
+
+Betacam SP (superior performance), 32, 550
+
+Betamax, 32
+
+beta movement, 5
+
+Bezier handles, 593, 596
+
+B-frames (bidirectionally predicted frames), 247, 248
+
+bidirectional microphones, 420
+
+big close-ups, 323, 324
+
+binary code, 228, 407
+
+bins, 564, 567
+
+bird’s-eye view, 324
+
+bit depth (bit length, word length), 24, 229, 230, 232, 408–9, 414, 418
+
+bitmapped graphics, 595
+
+bit rate, 20, 600
+
+bits, 204, 228, 236, 407
+
+black-and-white film, 69–70, 193n, 310, 498
+
+black-and-white film filters, 310
+
+black-and-white negative, 712
+
+black-and-white TV, 17
+
+black balance, 113
+
+black body, 308
+
+black clip, 274n
+
+black gamma, 207
+
+blacking and coding, 621
+
+blacking a tape, 621
+
+black level, 205–6, 629, 768, 770–71
+
+black stretch/compress, 207
+
+black wrap, 494
+
+bleach bypass process, 278
+
+blocking action, 354, 372, 373
+
+blowdown, see reduction printing
+
+blowups, 708–9
+
+Blu-ray disc format, 20, 27, 34, 49, 63, 64–65, 219, 250, 251, 622–24, 747, 753, 755, 756
+
+bogey wheels, 382
+
+boke, 157
+
+Bonnie and Clyde (film), 390
+
+boominess, 443
+
+boom operators or mixers, 362
+
+booms, 98, 329, 330, 381, 382, 436–37, 443
+
+booster gels, 496
+
+Born Yesterday (film), 324, 338, 478
+
+boundary microphones, 421, 422, 443
+
+Bound for Glory (film), 388
+
+box office gross, 750
+
+breakaway cables, 438
+
+breathing (lens), 167
+
+breathing in the gate, 270
+
+Breathless (film), 528
+
+Bresson, Robert, 521
+
+brick battery, 129, 132
+
+briefcase dolly, 383
+
+brightness, 292, 768, 770–71
+
+broadband, 236
+
+broadcast monitors, 219–20
+
+Broadcast News (film), 353
+
+broads, 488
+
+B-roll, 347, 708
+
+Brooks, James, 353
+
+Brown, Garrett, 388
+
+budgets, 3, 58–59, 355, 721–22, 727–30
+
+built-in light meters, 289
+
+bulbs, 480–85
+
+Buñuel, Luis, 526
+
+burn-in timecode, 222, 653, 695
+
+Burton, Tim, 392
+
+business arrangements, 731–36
+
+busted takes, 372
+
+BWF (Broadcast Wave Format), 413, 414, 442, 673
+
+B-wind, 282–83
+
+bytes, 228
+
+cablemen, 362
+
+cable ties, 440
+
+cable TV, 4, 20, 49, 62, 63, 747, 752, 760
+
+cadence, 603
+
+Caine, Michael, 373
+
+callbacks, 363
+
+call sheets, 361, 368
+
+camera angles, 323, 327, 338–39, 341, 342, 352–53
+
+camera aperture, 259
+
+camera choice, 87–89
+
+camera cranes, 381
+
+camera motors, 254, 258, 465
+
+camera-mounted lights, 130, 492
+
+camera obscura, 172–73
+
+camera operators, 362
+
+camera original, 42, 49, 124, 283
+
+camera reports, 377–78
+
+camera roll, 39
+
+cameras, see film cameras; video cameras
+
+camera sensitivity, 133–39
+
+camera speed, 40, 257, 287
+
+camera take, 323
+
+camera trigger, 126
+
+Cameron, James, 86
+
+Canted shot, 326–27
+
+canvas, 571
+
+Capote (film), 73, 502
+
+capstans, 121
+
+capture cards, 550–51
+
+capturing from tape, 37, 553, 569–71
+
+cardioid microphones, 420–22, 427, 436, 461
+
+case noise, 425, 427
+
+Cassavetes, John, 61, 334
+
+casting, 3, 363, 732–33
+
+cathode ray tube, see CRT monitors
+
+CBR (constant bit rate) format, 249
+
+CCD (charge-coupled device), 6, 8, 16, 29, 103, 141, 185, 215, 229n
+
+CCIR 601, see ITU-R 601
+
+C-clamps, 496
+
+CDs (compact discs), 411
+
+cel animation, 393
+
+cell-phone video, 64
+
+cell scratch, 302
+
+cellulose acetate (safety) film, 40, 272
+
+cement splicing, 707–8
+
+center crop, 78
+
+center-weighted light meters, 289
+
+century stands (C-stands), 496
+
+CF (CompactFlash) cards, see flash memory cards
+
+CG (character generator), 594
+
+change lists, 538, 701
+
+changeover marks, 713
+
+changing bags, 263, 264, 266
+
+characteristic curves, 273–75, 276
+
+chase sequences, 392
+
+checkerboarding, 652
+
+checkerboard printing, 708
+
+check prints, 712
+
+checksum verification, 119
+
+Chinatown (film), 337
+
+chroma keys, 211–13
+
+chroma setting, 139
+
+chroma subsampling, 210
+
+chromatic aberration, 173
+
+chrominance (chroma), 17, 209, 626, 630, 770, 771
+
+chyron, 594
+
+cinch marks, 302
+
+CineAlta (Sony), 27, 28, 29, 91, 199
+
+CineForm, 252, 556, 561, 598
+
+cine gamma, 196, 198–200
+
+cine lens adapters, 73
+
+CinemaDNG format, 29
+
+CinemaScope, 46, 74, 76
+
+cinematographers, 321, 362
+
+items in bag, 270, 374
+
+cinema verité, 127, 347, 350–51, 386
+
+cine scale, 288
+
+cine-style lenses, 164, 166, 168
+
+circle of confusion (CoC), 155, 157, 162, 782
+
+circle of least confusion, 162
+
+circle takes, 269, 370, 372, 415
+
+Citizen Kane (film), 74, 146, 333, 477
+
+clapper boards (clap sticks), 368, 370, 466
+
+clapper loaders, 362
+
+claws, 39, 254–55
+
+clearance issues, 355, 736–37, 741–47
+
+clicks, 649
+
+clipped peaks, 450, 451, 660
+
+clip reels, 763
+
+clips, 552, 610
+
+see also NLEs
+
+clones, 227, 608
+
+close focusing, 170–71
+
+close-up (CU), 71, 147, 293–94, 323, 324, 333
+
+close-up diopters, 170–71
+
+closing down, 152
+
+cloud storage, 94
+
+CMOS (complementary metal oxide semiconductor), 6, 8, 16, 29, 103, 141, 185, 203, 215, 229n, 400
+
+C mount, 177
+
+coated filters, 319
+
+coaxial cables, 416
+
+coaxial magazines, 262, 389
+
+codecs (compressor/decompressor, coder/decoder), 20–21, 25, 243–49, 250, 251, 558–59, 615–17
+
+collimation, 177, 180–82
+
+color, 304–11
+
+in film systems, see color film
+
+monitors and, 221–22
+
+in video systems, 16–18, 207–11, 306
+
+color balance, see color temperature
+
+color bars, 306, 610, 616, 621, 622, 767–69, 771
+
+color-compensating filters, 317
+
+color contrast, 516
+
+color conversion filters, 310
+
+color correction (color grading), 51, 203, 626–31, 676, 687–88, 695, 704, 711
+
+color difference signals, 209
+
+colored filters and gels, 317, 319–20, 507
+
+color film, 306
+
+characteristic curves for, 274–75
+
+color temperature and, 309–11, 709–11
+
+exposure and image quality, 298
+
+exposure indexes, 134, 275–76
+
+standardizing reproduction, 306–7
+
+vs. black-and-white film, 69–70
+
+color gamut, 18, 195
+
+colorists, 626, 627, 687, 688, 695
+
+color negative original, 49, 696, 711–12
+
+color sampling, 18, 209–11
+
+color saturation, 139, 221, 306, 628, 630
+
+color scales (chip charts), 306
+
+color separation negatives (YCM masters), 711–12
+
+color space, 206–9, 618, 631, 773–74
+
+color subsampling, 18, 210
+
+color temperature, 109n, 308–9, 770
+
+in film systems, 309–11, 709–10
+
+mixed lighting and, 514–16
+
+print, 710–11
+
+in video systems, 109–13, 309
+
+color temperature meters, 310–11
+
+color timers (color graders), 51, 710
+
+combing, 13, 14
+
+coming-attraction promo, 57
+
+CompactFlash, see flash memory cards
+
+compact fluorescent lamps (CFLs), 308, 480, 483, 507
+
+company move, 359
+
+complementary colors, 305
+
+completion bonds, 736
+
+component video, 17, 209, 219
+
+composers, 636, 646–48, 704
+
+composite prints, 51, 713–16
+
+composite video, 17, 209
+
+compositing, 590, 591, 594
+
+composition, 259, 324–28
+
+compound clips, 583
+
+compression, 19–22, 245–50
+
+audio, 412–14, 660–62, 673
+
+common video codecs, 250–52
+
+methods, 246–50
+
+NLEs and, 248–49, 558–62, 624
+
+Web, 616–19
+
+workflow and, 94–97
+
+compressor/expander (compander), 454
+
+compressors (audio), 454–55, 660–62
+
+computer-generated imagery (CGI), 6, 590
+
+computer monitors, 218–20, 548, 768
+
+computers, 236–42, 547–49
+
+condenser microphones, 420
+
+confidence list, 698
+
+confidence monitoring, 415, 470
+
+conforming, 51, 249, 612–13, 622, 700, 706–7
+
+connections, 222, 237–38, 415–17, 431–34
+
+Conner, Bruce, 523
+
+consolidating media, 610–11
+
+contact printers, 707
+
+container formats, 242–45, 614–17
+
+contingency costs, 728
+
+continuity, sound and, 642–44
+
+continuity scripts, 376–77, 757
+
+continuity style, 341–44, 526–28
+
+continuity supervisor, 342
+
+contrast, 173
+
+film image, 276–78
+
+in lighting, 69, 88, 471, 476–78, 505, 512–14
+
+“look” of the movie and, 69
+
+in telecines, 687–88
+
+video image, 69, 191–207
+
+contrast ratio, 192n, 222, 476
+
+contrasty images, 193, 276, 291–92
+
+contre-jour, 475
+
+convergence (vergence), 397
+
+conversion boxes, 550–51
+
+cookies, 494, 505
+
+Coppola, Francis, 357
+
+copyright issues, 99, 445, 456, 736–38, 741–47
+
+core adapters, 265
+
+core-mounted film, 281
+
+corporate projects, 726–27
+
+Corpse Bride (film), 392
+
+corrected prints, 51, 709–13
+
+costume design, 362
+
+Coutard, Raoul, 176
+
+countdown leaders, 616, 621–22, 653, 656, 696
+
+coverage, 334–35, 371–72
+
+cover set, 359
+
+crabbing, 330
+
+crab dolly, 381
+
+craft service, 359
+
+cranes, 329, 381
+
+crash recording, 621
+
+crawls, credit, 541
+
+creative commons license, 743
+
+credit buying, 726, 735
+
+credits, 541, 543, 705
+
+crew, 3, 359, 361–63, 373, 441, 731–32
+
+crop factors, 150, 788
+
+crossfades, 587, 642, 643, 652
+
+cross jamming, 470
+
+cross lighting, 507, 508
+
+crowdfunding (crowdsourcing), 54, 725
+
+CRT film recorders, 703
+
+CRT monitors, 7, 194, 217, 327–28, 395, 600
+
+crystal sync, 48
+
+C-stands, 496
+
+CTB (color temperature blue) gels, 496–97, 515
+
+CTO (color temperature orange) gels, 496, 507, 515
+
+cucoloris, 494
+
+cue cards, 375
+
+cue sheets, 647, 657
+
+curtained, 79
+
+curvature of field, 173
+
+custom picture files, 207
+
+cutaways, 342–44, 371, 523, 528, 531
+
+cutters, 493
+
+cutting, see film editing
+
+cutting frames (cutback frames), 700
+
+D-5 HD, 28, 687
+
+D-9, 31
+
+DA-88 recorders, 412
+
+D-Beta, see Digital Betacam
+
+dailies, 3, 49, 50, 300–301, 372, 537, 589, 681
+
+see also syncing up
+
+daily production report, 377, 727
+
+daisy-chained, 237
+
+darkroom load, 266
+
+DAT (digital audiotape), 48, 410
+
+data rates, 20, 22, 236, 413, 559–62, 617, 775–81
+
+DAWs (digital audio workstations), 37, 556, 637–40, 648–50, 655–57, 664, 668, 673, 679, 681
+
+day-for-night, 517
+
+daylight-balanced film, 280–81, 310
+
+daylight-balanced lighting instruments, 513, 515
+
+daylighting, 301
+
+daylight spools, 266, 281
+
+day-out-of-days schedule, 358
+
+day rates, 731
+
+dBFS (decibels full scale), 449, 452, 664, 665
+
+DBV digital broadcasting, 250
+
+DCI P3, 197
+
+DCT (discrete cosine transform), 246
+
+deal memos, 732
+
+decibels, 449, 452, 664, 665
+
+decks, 7
+
+deep-focus shots, 332, 333
+
+de-essers, 668–69
+
+deferred salaries, 728, 732, 733
+
+degrees Kelvin, 110, 308–9, 317
+
+deinterlacing, 14, 213, 214, 597, 600, 618, 705
+
+delete edits, 578
+
+deliverables, 608, 673–74, 758
+
+depth of field (DOF), 67, 72–74, 153–57, 174, 180
+
+depth of field charts, 162, 782–85
+
+depth of focus, 180–82
+
+depth perception, 396
+
+detail adjustment, 72, 107, 138–39, 689
+
+developer, 271
+
+development period, 2–3, 53–54, 718–30
+
+DGA (Directors Guild of America), 534, 747
+
+dialogue editing, 355, 531–33, 586–87, 635
+
+diaphragm, 405
+
+dichroic filters (dike), 481, 497–98
+
+diffraction, 173–74
+
+diffraction-limited lens design, 174
+
+diffuse light, 472–74
+
+diffusion filters, 72, 315
+
+diffusion material, 488, 490, 491, 504, 507
+
+DigiBeta, see Digital Betacam
+
+digislate, 369, 466
+
+Digital 8, 32
+
+digital audio recording, 406–17
+
+digital audio workstations, see DAWs
+
+Digital Betacam, 20, 31–32
+
+digital cinema (D-cinema) cameras, 62, 67
+
+Digital Cinema Initiative (DCI), 197, 246, 252, 625
+
+Digital Cinema Package (DCP), 3, 46, 49, 62, 77, 625–26, 680, 748, 749
+
+digital cinematography systems, 28–30
+
+digital connections, 222, 236–45, 415–17
+
+hard drives, 7, 33–34, 238–42
+
+see also digital video formats
+
+digital cut, 621
+
+digital dailies, 49, 678, 679, 681, 694–95
+
+digital delivery, 752–54
+
+digital film editing, 48, 49, 696–700
+
+digital-film transfers, see film-outs
+
+digital imaging technician (DIT), 137
+
+digital intermediates (D.I.s), 43, 62, 680, 681, 685, 701
+
+digital nonlinear editing, see NLEs
+
+digital projection, 62
+
+digital sound level, 449–51, 585–86, 659–65
+
+digital sound recording, 227–28, 406–17
+
+digital sound tracks on prints, 715–16
+
+digital stretch (digital 16.9), 76
+
+digital television, see DTV
+
+digital-to-analog (D/A) converters, 228
+
+digital-to-film transfers, see film-outs
+
+digital video discs (DVDs), see DVDs
+
+digital video formats, 8–34, 104
+
+feature films shot in, 61–62
+
+NLEs and, 556, 558–62
+
+pixels, 8–11
+
+recording to media, 90–97
+
+resolution, 9–11, 69, 71–72, 220, 230–35
+
+sensor size and, 67
+
+telecine transfers, 693, 698
+
+digital video recording, 227–52
+
+basics of, 227–28
+
+compression, see compression
+
+digital connections, 236, 237–38
+
+digital zoom, 164
+
+digitizing, 7, 37, 553
+
+dimensionalization, 398
+
+dimmers, 491–92, 496
+
+DIN number, 275
+
+diode-type voltage changers, 519
+
+diopters:
+
+adjustment of, 107, 261
+
+close-up, 170–71
+
+split-field, 171
+
+dipping filters, 668
+
+direct cinema, 347
+
+directionality (light), 474–76, 500
+
+directionality (microphone), 420–23, 436, 444, 445, 446
+
+directors, 321, 361, 373
+
+director’s finder, 364
+
+director’s line, 344–46, 529
+
+directors of photography (DPs, DoPs), 354, 356, 362, 472
+
+director’s viewfinder, 365
+
+direct-to-edit (DTE) technology, 33
+
+DirecTV, 63
+
+Dirt on film, 302
+
+dirty close-up, 323
+
+Dish Network, 63
+
+DisplayPort cable, 218
+
+dissolves, 51, 140, 525–26, 592, 700
+
+distant landscapes, 296
+
+distorting images, 592–93
+
+distribution, 2, 3–4, 49, 55–56, 60–62, 540, 615, 625, 723, 747–59
+
+distribution costs, 728, 730
+
+dither, 409n, 600
+
+DITs (digital image technicians), 362
+
+DLP (digital light processing) displays, 218
+
+D-max, 274
+
+DM&E tracks, 674
+
+D-min, 274
+
+DNxHD, 21, 92, 252, 559, 561, 562, 598, 615, 676, 685, 687
+
+Dr. Strangelove (film), 473
+
+docudrama, 348
+
+documentaries, 3, 54, 57, 58, 65, 98, 99, 163, 166, 263, 321, 322, 346–53, 363, 438, 499, 533, 534, 535, 537, 540, 740, 741
+
+Dolby sound formats, 670–71, 714, 715–16
+
+dollies, 381–84
+
+dolly grips, 362, 382, 384
+
+dolly shots, 144, 169, 329, 330–31, 353
+
+doorway dolly, 381
+
+dots per inch (DPI), 235
+
+Double 8mm film, 41
+
+double-perforated (double-perf) film, 282
+
+double-system (dual-system) recording, 36, 47, 48, 92, 98–99, 464–70, 589–90, 637
+
+downconverting (downscaling, down-resing), 11, 599
+
+downloading (offloading) camera files, 118–20
+
+DPX (Digital Picture Exchange), 201, 202, 244–45, 676, 678, 684, 685, 701, 702
+
+dramatic films, 321, 332–46
+
+dressing a set, 80
+
+drop frame (DF) timecode, 223–24
+
+dropouts, 30, 127
+
+drop shadows, 543
+
+DSLRs (digital single-lens reflex cameras), 7, 8, 11, 20, 24, 25, 29, 31, 41, 66, 67, 72, 74, 75, 84, 88, 93, 97–99, 102, 104, 109–11, 113, 115, 126–27, 129, 133, 137, 140, 159, 160, 161, 167, 171–72, 179, 188, 213–14, 224, 318, 353, 374, 387, 388, 392, 409, 417
+
+DSPs (digital signal processors), 103, 195
+
+DTS (Digital Theater Systems), 716
+
+DTV (digital television), 62–63
+
+see also HDTV; SDTV
+
+dual-link configurations, 238
+
+dual-roller trim, 580, 581
+
+dubbers, 652, 654
+
+dubbing, 47
+
+dub stage, 637, 640
+
+dulling spray, 374, 507
+
+dupe frames, 700
+
+dupe lists, 701
+
+duplicate negatives (dupe negs), 51, 696, 711
+
+duplication, 623
+
+dust busting, 689
+
+dust on lens, 183, 302
+
+Dutch angle, 326–27
+
+duvetyn, 496
+
+DV (Digital Video), 17–19, 31, 418, 550, 558, 569, 570
+
+DVCAM, 17, 18, 31, 91, 122, 124, 418, 550, 569, 570
+
+DVCPRO, 17, 18, 31, 50, 122, 124, 550, 569, 570
+
+DVCPRO HD, 26, 27, 95, 418, 550, 558, 595, 605, 618
+
+DVCs (digital video cassette), see MiniDVs
+
+DVD burners, 34, 623
+
+DVDs (digital video discs), 20, 34, 49, 62, 64–65, 94, 219, 250, 411, 622–25, 747, 753, 755–57, 760, 764
+
+DVI (Digital Video Interface) cable, 218
+
+DVRs (digital video recorders), 34
+
+dye couplers, 275
+
+Dynamic Contrast Control (DCC), 198
+
+dynamic microphones, 405, 420
+
+dynamic range (audio), 403, 659–61
+
+Dynamic Range Stretch (DRS), 198
+
+dynamic range (video/film), 69, 187, 192, 196, 197, 204–5
+
+ear prompters (earwig), 375, 457
+
+EBU timecode, 223, 622, 691, 693
+
+echo, 443
+
+edge code, 50–51, 225, 284
+
+edge crop, 78
+
+edge enhancement, 138
+
+edge fog, 269, 302
+
+edge numbers, 284
+
+edge tear, 13, 14
+
+Edison, Thomas, 40, 346
+
+editing, 321–22, 521–43
+
+continuity and, 341–44, 525, 526–28
+
+coverage and, 335
+
+cutting styles, 525–30
+
+dialogue, 355, 531–33, 586–87
+
+digital film, 48, 49, 696–700
+
+documentaries, 350–51
+
+film, see film editing
+
+length and, 539–40, 758
+
+managing data, 697–700
+
+montage theory, 521–24
+
+organizing material, 534–35
+
+process, 533–40
+
+saving time in, 93
+
+schedule, 534
+
+selecting shots, 55–536
+
+sound, see sound editing
+
+story structure, 524–25
+
+test screenings, 538–39
+
+3D, 400
+
+titles, 541–43
+
+video, see NLEs; tape editing
+
+editing interface, 571, 573–75
+
+editing team, 533–34
+
+edit master tapes, 620
+
+editors, 533–34
+
+editor’s cut, 534
+
+editor’s daily log, 377, 535
+
+edit point, 521
+
+EDLs (edit decision lists), 39, 554, 614, 632–34, 656, 697, 701
+
+educational distribution, 4, 755–56, 760
+
+eggcrate, 489, 495
+
+8K format, 11
+
+8mm film, 32, 41, 42, 683
+
+Eisenstein, Sergei, 523
+
+electret condenser microphones, 420
+
+electricians, 362, 519
+
+electric power, 430–31, 518–19
+
+electronic image stabilization (EIS), 388
+
+electronic press kit (EPK), 763
+
+electronic viewfinder (EVF), 105
+
+elevator pitch, 54
+
+embed code, 619
+
+emulsion, 271–75, 405
+
+endorsements, 57
+
+ENG (electronic news gathering), 32
+
+enhancement, 138, 689
+
+enhancement circuit, 72
+
+EQ (equalization), 459, 651, 652, 655, 665–67
+
+equalizers, 404, 458, 459, 666
+
+equipment package, 366–68
+
+equity financing, 723
+
+errors and omissions (E&O) insurance, 736, 737, 738–40, 743
+
+essence, 242
+
+establishing shot, 323
+
+estimated budget, 58, 727
+
+Ethernet connections, 238
+
+EVF (electronic viewfinder), 105
+
+exclusive rights, 742
+
+executive producers, 56, 361, 719
+
+expedition batteries, 130
+
+exporting files, 614–19, 655–56
+
+expository scenes, 525
+
+exposure:
+
+control, 298
+
+film camera shutter speed and, 135–36, 256, 287–89, 298
+
+film image, 286–98
+
+lighting and, 511–12
+
+setting on video cameras, 107–9, 190–91
+
+video image, 185–91
+
+exposure error, 297–98
+
+exposure index (EI), 134–35, 275–76
+
+exposure latitude, 297
+
+exposure lock, 109
+
+exposure meters, see light meters
+
+exposure range, 69, 187, 296–97
+
+extended batteries, 129
+
+extend edits, 587
+
+extension bellows (extension tubes), 170
+
+exterior scenes, scheduling, 359
+
+extract edits, 578
+
+extreme close-up (ECU), 323, 324
+
+extreme wide angle lens, 145
+
+eyebrows, 317, 318
+
+eyedropper tool, 630–31
+
+eye line, 338, 339
+
+eyepieces, 261
+
+facial lighting, 502–6, 508–11
+
+fader filters, 312
+
+fades, 51, 140, 525–26, 700
+
+fair use, 99, 737, 741, 742–43
+
+fast lenses, 168
+
+fast motion, 391–93
+
+feed reels, 254
+
+festivals, 55, 703, 712, 737, 752, 759, 761, 764–65
+
+fiber-optic viewing screens, 258
+
+fibre channel systems, 240
+
+field blending, 213
+
+field mixers, 430, 438, 455
+
+field of view, 142–43, 148, 150, 151, 788–90
+
+field order (field dominance), 600
+
+field rate, 18–19
+
+50i, 85, 686, 704
+
+50mm lens, 151
+
+50p, 85–86
+
+file-based recorders, 48
+
+fill light, 477, 499–505, 513–14
+
+fill-to-fit edits, 584, 592
+
+film cameras, 1, 253–70
+
+collimation checking, 182
+
+components, 253–54
+
+defects, 303
+
+film capacity, 262–66
+
+film gate, 254–55, 263, 268–69
+
+filters for, 311–20
+
+focus, see focus
+
+formats, 40–47
+
+in-camera timecode, 267–68, 284, 469
+
+lenses, see lenses
+
+lens mounts, 177–78
+
+“look” of the movie and, 68–74
+
+motors, 254, 258, 465
+
+film cameras (cont.)
+
+multiple-format, 268
+
+music playback and, 457
+
+shooting CRT video displays with, 395
+
+shooting digital versus shooting film, 51–52
+
+shutter, 39, 103, 254, 255–57
+
+size of, 88–89
+
+sound dampening, 267
+
+speeds, 257
+
+tests and maintenance, 268–70, 366
+
+video assist, 267
+
+viewfinders, 230, 258–61
+
+film chains, 683
+
+film-to-digital transfers, 675–98, 700, 701, 704–6
+
+film editing, 3, 639, 706–7
+
+with NLEs, 49
+
+traditional, 38–39, 49–51, 700–702
+
+film formats, 40–47, 60–62
+
+film gamma, 193–94, 273–78
+
+film gate, 254–55, 263, 268–69, 716
+
+film gauge, 41, 66, 87–88
+
+film image, 271–303
+
+film labels, 281–82
+
+film laboratory, 299–303
+
+film-outs, 3, 29, 49, 62, 278, 675–98, 700–702, 704–6
+
+film pitch, 40
+
+film preservation, 52
+
+film printing, 709–13
+
+film processing, 299–303
+
+film projectors, 10, 39–40, 716–17
+
+film recorders, 703
+
+film scanners, 676, 680, 683–85
+
+film speed, 275–76, 280, 288, 298
+
+film stock, see raw stock
+
+film systems, 39–52
+
+film timecode, see in-camera timecode
+
+film-to-video transfers, 675–696
+
+filter effects, 593
+
+filter factors, 311–12
+
+filters:
+
+lens, 311–17
+
+lighting, 481, 496–98, 507, 515–17
+
+sound, 587, 665, 667, 668
+
+Final Cut Pro, 93, 251, 400, 535, 537,546, 547, 561, 563–67, 573–76, 578, 582–84, 588, 593, 596, 609n, 612, 613, 656–57, 662, 665, 672
+
+fine-cutting, 3, 537–38
+
+fingerprints on lens, 183–84
+
+finishing, 3, 49, 90, 559–62, 608–610, 728
+
+fire, lighting and, 517–18
+
+FireWire connections, 25, 31, 92, 226, 237, 550, 569
+
+FireWire drives, 240
+
+first answer prints, 51
+
+first assistant cameramen (1st ACs), 362
+
+first assistant directors (1st ADs), 361
+
+first cameramen, 362
+
+first frame of action (FFOA), 653
+
+first-generation prints, 709
+
+first money, 57
+
+first-run movie houses, 4, 749
+
+fiscal agents, 723
+
+fishpole booms, 35, 318, 425, 443, 436–37
+
+fit-to-fill edits, 584, 592
+
+fixed focal length lenses, 142, 163, 165, 168–69, 180
+
+flags, 493, 505, 506
+
+Flaherty, Robert, 40
+
+flange back, 181
+
+flange focal distance, 176–77, 180, 182
+
+flare, 174–76, 294, 296
+
+flash frames, 701, 702
+
+flashing process, 278
+
+flash memory cards and drives:
+
+sound recording, 35, 48, 410, 411, 414, 470
+
+video recording, 23, 25, 27, 32–34, 37, 90–93, 115–17, 120–21, 204, 239, 566, 568
+
+flat disc diffusers, 290
+
+flat images, 193, 276
+
+flat prints, 76
+
+flat rates, 731
+
+flats, 365
+
+flat-screen TVs, 60
+
+flat transfers, 687
+
+Fleming, Victor, 524
+
+flicker, 5, 82, 136, 303, 392, 394, 482, 517–18
+
+flicker box, 517
+
+flipping, 593
+
+flopping, 593
+
+fluid heads, 378, 379
+
+fluorescent lighting, 136, 308, 392, 483–85, 496, 515–16
+
+flying spot telecine systems, 683
+
+foam-core sheets, 489
+
+focal length, 67, 141–43, 146, 148–50, 163–65, 173, 174
+
+focal length multipliers, 150, 788
+
+focal plane, 141–42
+
+focus:
+
+close focusing, 170–71
+
+depth of field, 67, 72–74, 153–57
+
+“look” of the movie and, 70–72
+
+perspective, 143–45, 147
+
+selective, 72
+
+setting, 113–14, 158–61
+
+video camcorder settings, 113–14
+
+viewfinder adjustment, 106–7
+
+focus charts, 181
+
+fog:
+
+film, 274, 277
+
+lighting, 517
+
+fog filters, 316–17
+
+folder management, 119–21, 566
+
+Foley stage, 635, 644–45, 673–74
+
+follow focus, 5, 158–69
+
+force processing, 277–78, 280
+
+foreign distribution, 608, 639, 673–74, 757, 758
+
+formats:
+
+evolution of, 21
+
+most common notation for, 18
+
+sound, 412–14, 639, 669–73
+
+widescreen, see widescreen formats
+
+see also film formats; video formats
+
+48p, 85–86
+
+4:4:4, 4:2:2, 4:1:1, see color sampling
+
+4K format, 16, 23n, 29, 62, 71, 203, 230, 551, 560, 599, 616, 625, 676, 677, 680–85, 687, 702–5
+
+4K2K format, 11, 16
+
+Four Thirds sensor, 167, 788
+
+four-walling, 752
+
+frame blending, 592
+
+frame line, 40
+
+frame rates, 14–15, 18, 29, 81–87, 104, 257, 467–68, 482, 598–99, 618, 625, 685–88, 690, 704–5, 715
+
+frames:
+
+film, 40
+
+video, 6, 8, 15–16
+
+frame size, 11, 19, 43, 234, 560, 599–600, 617–18, 685
+
+frames per second (fps), 4
+
+framing charts, 269
+
+free run mode, 225
+
+freeze frames, 597
+
+French flags, 296, 317, 318, 493
+
+frequency, sound wave, 402, 403–4
+
+frequency range, 665–67
+
+frequency response, 404, 423, 424
+
+Fresnel lens, 486
+
+friction heads, 378
+
+front light, 474–75
+
+front rods, 318
+
+f-stops (f-numbers), 108, 151–53, 156, 162, 165–66, 173, 174, 189, 280, 287–89, 511–12
+
+fulfillment houses, 757
+
+fullcoat, 50
+
+full-frame sensor, 67, 788
+
+Full HD, 9, 19, 24, 26, 625
+
+full-height anamorphic (FHA) format, 76
+
+full scale, 449
+
+full white, 187
+
+fundamental (sound), 404
+
+funding, 54, 56–59, 57, 721, 723–27
+
+future proofing, 53
+
+gaffers, 362
+
+gaffer’s tape, 496, 498
+
+gain setting (audio), 446–55, 585–86, 641, 661, 659–65, 668
+
+gain setting (video), 69, 103–5, 108, 110, 133
+
+gain structure (gain-staging), 455
+
+gamma, 773–74
+
+in film, 193–94, 273–78, 704
+
+in video, 69, 138, 191, 194–95, 198–200, 618, 628
+
+garbage mattes, 591
+
+gator grips, 496
+
+geared heads, 378, 379
+
+gels, 317, 319–20, 496–97, 507, 515–16
+
+generators, 519
+
+genlock, 226
+
+geometric distortions, 173
+
+Get Low (film), 477
+
+glass filters, 317–18, 319
+
+glass masters, 623
+
+Glidecam, 388–80
+
+globes, see bulbs
+
+gobo heads, 496
+
+gobos, 493, 505
+
+Godard, Jean-Luc, 175, 176, 528
+
+Godfather, The (film), 322, 476
+
+Good, the Bad, and the Ugly, The (film), 46
+
+GoodFellas (film), 331
+
+GOP (group of pictures), 247–49, 617
+
+grading, see color correction
+
+Graduate, The (film), 526
+
+graduated filters (grads, wedges), 313
+
+graininess, 279, 709, 716
+
+grain reducers, 689
+
+grants, 724–25
+
+granularity, 279
+
+graphic equalizers, 458, 666
+
+graphics, 595–96
+
+gray cards, 200n, 292–93, 306–7
+
+green screen, 211–12, 352
+
+Grierson, John, 346
+
+Griffith, D. W., 333
+
+grips, 362
+
+guide tracks, 610
+
+gutter (title layout), 543
+
+gyroscopic stabilizers, 389
+
+Hi8 (high-band Video8), 32
+
+hairdressing, 362, 374
+
+halation, 272
+
+handheld light meters, 289
+
+handheld lights, 492
+
+handheld shooting, 65, 88, 89, 339, 347, 386–87
+
+handles, 582, 611, 651, 655
+
+hand noise, 425
+
+hand signals, 441
+
+hard cuts, 582
+
+hard disk drives (HDDs), 7, 33–34, 92, 116, 238–42
+
+hard drive interfaces, 239–40
+
+hard drives, 7, 33–34, 92,116, 238–42
+
+hard images, 193, 276
+
+hard light, 472–73, 477, 478, 488, 504, 517
+
+harmonics, 404
+
+haze control filters, 169, 296, 315
+
+HD, see HDTV
+
+HDCAM, 17, 24, 27–28, 234, 550
+
+HDCAM SR, 21, 28, 91, 117, 201, 208, 251, 418, 620, 677, 686, 687
+
+HDDs (hard disk drive recorders), 33–34, 92, 116
+
+HDMI (high definition multimedia interface), 218, 238, 551
+
+HD-SDI connections, 22, 96, 201, 203, 238, 551
+
+HDSLRs (high-definition single-lens reflex cameras), see DSLRS
+
+HDTV (high-definition television), 49, 140, 171, 315, 599, 618, 676, 677, 681, 684, 685, 702–5
+
+broadcast TV distribution, 55, 62–63
+
+comparing formats, 23–28
+
+feature films shot in, 62
+
+monitors, 221
+
+NLEs and, 560
+
+pixels, 9, 10–11, 232–33
+
+resolution, 9–10
+
+temperature and humidity and, 126–27
+
+HDV, 18, 20, 24, 25, 26, 73, 91, 123, 124, 418, 550, 551, 558, 560, 595, 618, 622
+
+HDRx (high dynamic range), 205
+
+head cleaning, 440
+
+head credits, 541, 542
+
+head drum, 121
+
+head leaders, 616, 621–22, 653, 656, 696
+
+headphone return line, 438
+
+headphones, 437–38, 440, 455, 640
+
+headroom (audio), 449
+
+headroom (framing), 81, 325
+
+headshots, 363
+
+head slates, 370
+
+heads (tape), 440
+
+heater barneys, 267
+
+helical scans, 122
+
+hemispherical diffusers, 290
+
+hertz (Hz), 403–4
+
+HEVC (High Efficiency Video Coding), 251
+
+high-contrast images, 193
+
+high def, see HDTV (high definition television)
+
+high definition format, see HDTV
+
+high-impedance equipment, 434
+
+high-key lighting, 477
+
+highlights, 69, 190, 201, 205, 274, 630, 704
+
+high-magenta sound track, 714
+
+high pass filters, 459
+
+high-speed cameras, 390–91
+
+hiring crew and actors, 3, 363, 731–33
+
+histograms, 188, 190
+
+Hitchcock, Alfred, 322, 331, 338, 339, 340, 353, 360, 396, 523, 531
+
+HMI (hydrargyrum medium-arc iodide) bulbs, 136, 281, 303, 308, 481–83, 515
+
+Hobbit films, 86
+
+home video distribution, 4, 747, 756–57, 758, 760
+
+household bulbs, 480, 507
+
+H.264, 20, 97, 250, 251, 547, 614, 615, 617, 622, 673
+
+H.265, 251
+
+HTML 5, 616, 617
+
+hue, 221, 306, 628, 770
+
+hum bar (shutter bar), 395
+
+hum filters, 668
+
+Huston, John, 373
+
+hypercardioid microphones, 421, 422
+
+hyperfocal distance, 162, 786–87
+
+hypergain, 133
+
+hypo (fixer), 271
+
+idea, germination of, 53–54
+
+IEEE 1394, see FireWire
+
+I-frames (intraframes), 247, 248, 249, 251, 617
+
+iLink, see FireWire
+
+illegal white, 187
+
+image reproduction ratio, 156
+
+imagers, see sensors
+
+image sequences, 615
+
+image stabilization, 140, 387–88, 593
+
+IMAX format, 47, 401
+
+impedance, 434
+
+importing, 37, 549, 553, 566–69
+
+inbetweening, 592
+
+in-camera editing, 140
+
+in-camera timecode (film cameras), 267–68, 284, 469, 677, 689, 691
+
+incident light meters, 287, 290–91, 293, 296
+
+inciting incidents, 525
+
+independent theatres, 749
+
+indirect costs, 728
+
+“in focus,” defined, 155–56
+
+infrared, 134
+
+infrared (IR) contamination, 315
+
+ingesting, 37, 549, 553, 566–68
+
+ink edge code numbers, 284, 693
+
+input/output (I/O) devices, 220, 221, 550–51
+
+insert-edit recording, 620–21
+
+insert edits, 577, 579, 632
+
+insert shots, 522
+
+institutional distribution, 755
+
+insurance, 728, 735–36, 738–40, 743
+
+in-takes (ins), 537
+
+interaxial distance, 397
+
+intercutting, 526, 529–30
+
+interframe compression, 246–48, 561
+
+interlace scanning, 11, 12–14, 18, 23, 85, 140, 213, 214, 215, 600, 618, 704
+
+intermediates (preprint elements), 43, 62, 272, 696, 711
+
+intermittent movement, 39, 40, 255
+
+internal focusing, 166
+
+internegative (IN), 712
+
+Internet, 4, 49, 56, 63–64, 94, 616–19, 660, 752
+
+interocular distance, 397
+
+interpolation, 210, 214, 221, 592, 597, 600
+
+interpositives (interpos), see IPs
+
+intervalometer, 392
+
+interviews, shooting, 347, 348, 351–53, 499, 508–11
+
+in the can, 59
+
+intraframe compression, 27, 246, 247
+
+inverse square law, 479
+
+investment, 721
+
+invisible cutting, 526–27
+
+I/O (input/output) devices, 220, 221, 550, 551
+
+IPs (interpositives), 696, 711
+
+IRE (Institute of Radio Engineers), 189
+
+iris diaphragm, 103, 107–8, 152, 156, 176, 287, 298
+
+iris lock, 109
+
+ISO rating, 68, 104–5, 108, 133–34, 205, 275–76, 277, 278, 280, 288, 312
+
+iTunes, 56n, 753, 760
+
+ITU-R 601 standard, 30n, 195–97, 206, 209, 232, 306, 595, 775
+
+ITU-R 709 standard, 195–97, 201, 204, 206, 209, 219, 221, 306, 595, 631, 704, 768, 774–75
+
+Jackson, Peter, 86
+
+jam-syncing, 226, 467, 469
+
+Jaws (film), 331
+
+J-cuts, 586
+
+jib arms, 381, 383
+
+JKL editing, 573
+
+JPEG 2000, 246, 252, 625
+
+JPEG file format, 25, 246
+
+judder, 83, 136, 393–94, 599, 705
+
+jump cuts, 334, 342, 344, 528–29
+
+Kaminski, Janusz, 136
+
+Keaton, Buster, 333
+
+Kelvin temperature scale, 308, 309, 317
+
+keycode, 283, 691, 697, 698
+
+keyframes, 585, 593, 617
+
+key lights, 476, 477, 499–503, 505, 513
+
+key numbers, 283–84, 691
+
+keywords, 565
+
+kickers, 501
+
+Kickstarter, 54, 725
+
+kinescopes, 7, 703
+
+knee point settings, 69, 186, 196, 197–98
+
+knee shots, 323
+
+knee slope, 197
+
+Kubrick, Stanley, 372
+
+Kuleshov, Lev, 521–22
+
+Kurosawa, Akira, 169
+
+Labeling media, 124, 441
+
+lab report, 300
+
+Lady in the Lake (film), 334
+
+lamps, see bulbs
+
+LANs (local area networks), 241
+
+lanterns, 489
+
+lapel microphones, see lavalier microphones
+
+laser film recorders, 677, 703
+
+laser subtitles, 705
+
+Last Picture Show, The (film), 338, 346
+
+latent edge numbers, 283–84
+
+latent images, 271
+
+latitude, 69, 192, 297
+
+launching a movie, 759–60
+
+lavalier microphones (lavs), 426–27, 436, 443, 445
+
+Lawrence of Arabia (film), 46, 81
+
+layback suites, 678–79, 690
+
+LCD (liquid crystal display) monitors, 7, 103, 105, 114, 129, 194, 197, 217, 327, 394, 552, 600
+
+LCOS (liquid crystal on silicon) display, 194
+
+LCRS format, 670, 714
+
+L-cuts, 531, 586
+
+lead acid batteries, 128
+
+leaders, 621, 653, 706
+
+leading the action, 326
+
+LED film recorders, 703
+
+LEDs (light-emitting diodes), 483, 485–86, 492, 496, 515, 714
+
+legal issues, 355, 736–39
+
+Leigh, Mike, 356
+
+lens aperture, 152
+
+lens barrel, 141, 166, 167
+
+lens doughnut, 318
+
+lensed spotlights, 486–87
+
+lenses, 102, 103, 141–84, 230
+
+aberrations, 172–73, 174
+
+anamorphic, 75–76
+
+care of, 183–84
+
+exposure control and, 298
+
+fast, 168
+
+focal length, 67, 141–43, 146, 148–50
+
+focusing the image, see focus
+
+light-gathering power, 151–53
+
+mounts, 176–79, 230
+
+normal, 151
+
+options for, 88
+
+prime, 142, 163, 165, 168–69, 180
+
+quality, 72, 171–76
+
+sensor size and, 67
+
+sharpness, 173–74
+
+telephoto, 145, 169
+
+wide-angle, 145–47, 156, 157, 162, 163, 167, 180, 393
+
+zoom, 103, 142, 144, 153, 159, 161, 163–68, 174, 294, 330–32, 353
+
+lens shades, 166, 167, 176, 296, 317, 318–19
+
+lenticular screens, 400
+
+letterboxing, 77–78
+
+level, setting recording, 446–55, 585–86, 659–65
+
+LFE (low frequency effects), 670
+
+library footage, 523
+
+library music, 745–46
+
+licenses, 671, 355, 736–37, 741–47
+
+life story rights, 742
+
+lift edits, 578
+
+light-balancing filters, 317
+
+lightbanks, 489, 490, 495
+
+light falloff, 479–80
+
+lighting, 471–520
+
+black-and-white film and, 69–70
+
+color and, see color temperature
+
+color contrast, 516
+
+contrast, 69, 88, 471, 476–78, 505, 512–14
+
+directionality, 474–76, 500
+
+documentaries, 499
+
+equipment, 479–98
+
+exposure and, see exposure
+
+function of, 471–72
+
+interviews, 508–11
+
+location, 364, 518–20
+
+“look” of the movie, 68–70
+
+low-light shooting, 68–69, 88
+
+positioning lights, 499–512
+
+qualities of light, 472–74
+
+special effects, 501–2, 506, 516–18
+
+styles, 498–99
+
+technique, 498–518
+
+lighting accessories, 493–96, 497
+
+lighting cameraman, 362
+
+lighting contrast ratio, 512
+
+lighting fixtures, 479–80, 486–92
+
+light leak test, 269, 302
+
+light meters, 189–90, 286–94, 296
+
+limbo, 352
+
+limited liability company (LLC), 722, 733
+
+limited partnership (LP), 722
+
+limited release (platforming), 759
+
+limiters, 450, 453, 454–55, 661, 664
+
+linear PCM audio tracks, 413, 418, 614
+
+linear tape editing, see tape editing
+
+Linear Tape File System (LTFS), 94
+
+linear tracks, 122
+
+line doubling, 213
+
+line level, 431–32
+
+line pads, see attenuators
+
+line producers, 362
+
+line skipping, 599
+
+line-up tone, 452–53
+
+lip sync, 48, 457, 589–90
+
+see also sync sound
+
+liquid gate printing, 302, 689
+
+literary property, 54, 361, 728
+
+lithium-ion (Li-Ion) batteries, 128, 130–32
+
+LKFS, 662–64
+
+location lighting, 364, 518–20
+
+location managers, 362
+
+location releases, 735, 741
+
+location scouting, 3, 364–65
+
+location sound engineer, 363
+
+locked-off shots, 328, 506
+
+logging, 93, 375–78, 442, 569–71, 693
+
+logging bins, 567
+
+loglines, 54, 720
+
+log (logarithmic transfer characteristic) capture, 200–203
+
+log sheets (for sound mix), 657
+
+long focal length lenses, see telephoto lenses
+
+long GOP, see GOP
+
+longitudinal timecode (LTC), 122, 224
+
+long shot (LS), 323, 324
+
+long-term storage, 52, 91–94
+
+long-tube shotgun microphones, see supercardioid microphones
+
+look book, 722
+
+“look” of the movie, 60–61, 65–87
+
+lookup tables (LUTs), 202–3, 307, 625, 631, 681, 688, 704
+
+looping, see ADR (automatic dialogue replacement)
+
+loops, 139, 255
+
+lossless compression, 245
+
+lossy compression, 20, 245
+
+loudness, 403
+
+loudness meters, 662–64
+
+low-contrast images, 193
+
+low-contrast (low-con) filters, 315
+
+lower (even) field, 13, 600
+
+lower thirds, 353, 543
+
+low-frequency attenuation (LFA), 459
+
+low-impedance equipment, 434
+
+low-key lighting, 477
+
+low-light shooting, 68–69
+
+LTC (longitudinal timecode), 122, 224
+
+LTO (Linear Tape—Open) drive, 94
+
+LT/RT format, 670, 673
+
+Lucas, George, 46, 83
+
+LUFS, 662–64
+
+Lumet, Sidney, 372
+
+Lumière brothers, 346
+
+luminance (luma), 17, 18, 209, 292, 591, 626, 629, 630
+
+LUTs (lookup tables), 202–3, 307, 625, 631, 681, 688, 704
+
+lux, 68
+
+macroblocks, 246
+
+macro lenses, 170
+
+magazines (mags), 262–66
+
+magic hour, 517
+
+magnetic film (mag, magstock, stripe), 50
+
+magnetic heads, 121
+
+magnetic tape, 7, 47, 94, 405–6, 452
+
+magneto-optical (MO) discs, 412
+
+makeup, 362, 374
+
+Manhattan (film), 334
+
+marketing, 747, 749, 753, 756–57, 759, 760, 762–63
+
+markets, 759, 761–62, 764–65
+
+married prints, 51, 713
+
+masking, 275
+
+master clips, 553, 576
+
+master files, 610, 615–16, 621
+
+master positives, 696, 711
+
+master shots, 334
+
+master tapes, 608
+
+matchback, 697
+
+match cutting, 526–27
+
+matching transformers, 434
+
+matte boxes, 166, 167, 171, 176, 313, 317–18
+
+matte shot, 212
+
+McLuhan, Marshall, 65
+
+media files, 242–43, 552–53, 563
+
+media management, 117–21, 415, 441–42, 609–14
+
+medium shot (MS), 293–94, 323, 324
+
+megabits per second (Mbps or Mb/s), 20
+
+memory cards, see flash memory cards
+
+metadata, 224, 242, 413, 535, 565, 619
+
+metal halide, 481
+
+metallic silver, 271–73, 278, 279
+
+metal videotape, 124
+
+M&E (music and effects) track, 673–74
+
+mic level, 431–32
+
+mic preamp (preamplifier), 405, 430
+
+microphone booms, 35, 318, 425, 436–37, 443
+
+microphone mixers, see field mixers
+
+microphones, 35
+
+in analog audio recording, 405
+
+bass filtering and, 459
+
+connections, 431–32
+
+directionality, 420–23, 436, 444, 445, 446
+
+field mixers, 430
+
+lavalier (lapel), 426–27, 436, 443, 445
+
+mounts, 424–25, 427
+
+multiple, 423, 459–61
+
+noisy conditions and, 443, 444–45
+
+on-camera, 98
+
+placement of, 442–46, 456, 458
+
+planning considerations, 436–37
+
+power, 430–31
+
+sound quality, 98, 423–24
+
+stereo, 455, 461–63
+
+types of, 420
+
+video camcorder, 417–18
+
+windscreens, 424–25
+
+wireless (radio), 98, 349, 428–30, 438, 439, 454
+
+middle gray, 292
+
+MiniDisc recorders, 412
+
+MiniDVs, 19, 25, 30, 73, 92, 122, 124, 569, 570
+
+minimum focus distance, 166
+
+minimum object distance (MOD), 161, 166
+
+mired value, 317
+
+mirroring, 240, 415
+
+mirror shutters, 259–60
+
+mise-en-scène, 332
+
+mix cue sheets, 657
+
+mixdown tracks, 461, 622
+
+mixed lighting, 113, 514–15
+
+mixing, 99, 635, 658–74
+
+mixing consoles, 640–42
+
+mix stems, 673
+
+mix studios, 636, 637
+
+M-JPEG (motion JPEG), 25
+
+mobile phones, 102
+
+mobile video, 64
+
+MOD (focus), 161
+
+modulometers, 447
+
+moiré, 89, 106, 213–15, 374
+
+monitoring, 415, 470
+
+monitors, 7, 216–22
+
+adjustment and setup, 105–7, 767–74
+
+color and, 221–22, 628
+
+composition in, 327–28
+
+NLEs and, 551–52
+
+resolution and scanning, 220–21
+
+shooting, 394–95
+
+types of, 7, 217–20
+
+viewfinders, see viewfinders
+
+VTR, 632
+
+waveform, 188–89, 190, 329, 628–30
+
+mono sound, 461, 669, 671, 714
+
+montage, 332, 521–24
+
+Montgomery, Robert, 334
+
+Morris, Errol, 352
+
+MOS cameras, 48, 258, 369
+
+MOS shots, 333–34
+
+motion blur, 82–84, 86, 136, 234, 256, 390–91, 393
+
+motion estimation, 592
+
+mounts, lens, 176–79, 230
+
+MOV, 116, 243, 553
+
+Movie, A (film), 523
+
+movie clips, clearing, 746–47
+
+moving-coil microphones, see dynamic microphones
+
+moving image, 4–5
+
+moving vehicles, shooting from, 385–86
+
+MPEG compression formats, 20, 23, 34, 62, 93, 123, 244, 247–51, 413, 553, 615, 617
+
+MP3, 20
+
+M-S (mid-side) method, 461–63
+
+MTF (modulation transfer function), 173, 234–35, 279
+
+multiple-format cameras, 268
+
+Murch, Walter, 524, 536
+
+music:
+
+copyright issues, 99, 445, 456, 736–38, 743–45
+
+downloading, 4
+
+editing, 636, 646–48
+
+planning considerations, 99
+
+playback, 456–57
+
+recording, 455–56
+
+scoring, 3
+
+music cue sheets, 745
+
+music editors, 636
+
+music licenses, 365, 647
+
+music supervisors, 636
+
+music videos, 334, 456–57, 523–24
+
+MXF (Material Exchange Format), 116, 252, 567, 625
+
+MXO2 (Matrox), 220–21, 249
+
+Myspace, 619
+
+Nanook of the North (film), 40
+
+narration, see voice-over
+
+narrative styles, 332–34
+
+native editing, 558, 568, 569
+
+native 24p, 602
+
+native resolution, 220
+
+naturalistic lighting, 498, 506
+
+natural sound, 645
+
+ND (neutral density) filters, 134–35, 298, 310, 312–13, 497, 507
+
+negative cleaning, 689
+
+negative costs, 728
+
+negative cutting, 682–83, 700, 706–7
+
+negative fill, 510
+
+negative film, 42, 272, 280, 281, 286
+
+negative matching, 51
+
+negative parallax, 398
+
+negative-positive process, 272
+
+negative report, 300
+
+negative storage, 300
+
+neopilot (pilot) tone, 419
+
+nested clips, 583–84
+
+Netflix, 56n, 64, 760
+
+nets, 493–94, 506
+
+networks, 241
+
+neutral test cards, 293–93
+
+Newton’s rings, 319
+
+nickel-cadmium (NiCad) batteries, 128, 130–32
+
+nickel-metal-hydride (NiMH) batteries, 128, 130–32
+
+night scenes, 296, 298, 359, 392, 516–17
+
+nitrate film, 40
+
+NLEs (nonlinear editing systems), 36–39, 48, 121, 140, 220, 322n, 465, 535, 536, 544–607, 584–88, 636–38, 640, 641, 645, 648, 649, 653, 655, 656, 664, 667–69, 673
+
+capturing and organizing material, 562–66
+
+capturing from tape, 569–71
+
+color correction, 626–31
+
+components of, 545–52
+
+compression and, 248–49, 558–62
+
+creating and editing sequences, 571–84
+
+double-system sound and, 589–90, 637
+
+exporting files, 614–19
+
+film-digital transfers, 598, 678–83, 690, 691, 693, 694, 697, 700, 701
+
+film editing with, 49
+
+importing files, 566–69
+
+media files and clips, 552–53
+
+media management, 609–14
+
+mixed formats and, 598–600
+
+offline/online, 554–57, 632–33, 679, 681
+
+output, 619–22
+
+real time and rendering, 553–54
+
+sound editing, 465, 584–88
+
+titles, graphics, and stills, 594–97
+
+24p footage and, 601–7
+
+video effects, 590–94
+
+video formats and, 556, 558–62
+
+workflow and, 554–56
+
+nodal point, 142n
+
+noise floor, 403, 409
+
+noise gates, 668
+
+noise reduction, 667–68
+
+nondrop (ND) timecode, 223, 467, 468, 694–95
+
+nonexclusive rights, 742
+
+nonfocusing lights, 487–88
+
+nonprofit status, 723
+
+nonsynchronous sound (wild sound), 48, 372, 442, 470
+
+nontheatrical distribution, 745, 747, 755–57
+
+nonwidescreen format, 74, 77–79
+
+notch filters, 668
+
+NTSC (National Television System Committee) standard, 7–8, 9, 12, 14–15, 17–19, 30, 81, 85, 86, 209, 223, 224, 232, 233, 395, 465, 468, 482, 595, 601, 603, 622, 684–86, 690
+
+numbered image sequences, 615
+
+NXCAM line of camcorders, 26
+
+Nyquist, Harry, 408
+
+Obie lights, 492
+
+OCN (original camera negative), 49, 696, 711–12
+
+octaves, 403
+
+October (film), 523
+
+off axis, 423
+
+offline editing, 554–57, 632–33, 679, 681
+
+offline/online workflow, 37–38, 556, 557
+
+ohms, 434
+
+oil dissolves, 526
+
+OLED (organic light-emitting diode) displays, 7, 194, 218, 394, 552, 600, 771
+
+Olympia (film), 389
+
+OMFI (Open Media Framework Interchange) files, 244, 613, 614, 655–57
+
+omnidirectional (omni) microphones, 420, 421, 425, 427
+
+OMNIMAX, 47
+
+on axis, 423
+
+180-degree rule, 344–46, 529
+
+on-camera microphones, 98
+
+on-demand services, 64
+
+1-inch Type-C, 32
+
+one-light (one-lite) workprints, 301
+
+one-sheets (posters), 763
+
+one-sheets (proposal), 720
+
+online editing, 38, 554–57, 632–34
+
+online promotion, 54
+
+open-faced spotlights, 487
+
+opening up, 152
+
+“operate” mode, 123
+
+optical discs, 7, 117
+
+optical effects, 51
+
+optical flow, 592, 599
+
+optical image stabilization (OIS) systems, 387–88
+
+optical lists, 700, 701
+
+optical low pass filter (OLPF), 214
+
+optical printers, 7–8, 51, 707
+
+optical sound negative (optical sound master), 714
+
+optical sound tracks, 713–15
+
+optimized media, 568
+
+options, 54, 742
+
+orangewood stick, 268
+
+original camera negative (OCN), 49, 696, 711–12
+
+original scores, 746
+
+“out of focus,” defined, 155–56
+
+Out of Sight (film), 529–30
+
+outreach campaign, 721
+
+outtakes (outs), 537, 649
+
+overcranking, 390
+
+overexposure, 108, 109, 190, 205, 286, 291, 298
+
+overhead sets (butterfly), 513
+
+overlap edits, 586
+
+overrecording, 446, 454
+
+overscan, 327–28
+
+over-the-top TV, 64, 752
+
+overtones, 404
+
+overview/summary of project, 720–21
+
+overwrite (overlay) edits, 577, 579
+
+oxide, 405
+
+PAL (Phase Alternating Line) standard, 7–8, 9, 15, 17–19, 30, 63, 81, 85, 209, 223, 232, 233, 395, 595, 601, 622, 676, 684–87, 691, 700
+
+panorama mode, 79
+
+pans, 78–79, 169, 328–30, 378, 394
+
+paper cuts (paper edits), 536
+
+parabolic microphones, 423n
+
+parallel editing, 526
+
+parametric equalizers, 666
+
+parfocal lenses, 161n
+
+parity, 240
+
+PAR (parabolic aluminized reflector) lamps, 487
+
+passive autofocus, 113
+
+passive glasses, 400, 401
+
+pay-per-view (PPV), 4, 753, 760
+
+payroll services, 732
+
+PBS guidelines, 55, 629
+
+PCM audio tracks, 243, 413, 418, 614
+
+peak hold function, 448
+
+peaking adjustment, 107, 160
+
+peak level, 446–50, 663
+
+peak-reading meters, 447–48, 450, 452, 662, 664
+
+peak white, 187, 771
+
+pedestal (video level), 205n,
+
+pedestal (camera movement) 329
+
+pellicule, 260
+
+perforations, film stock, 282
+
+persistence of vision, 4–5
+
+perspective, 143–45, 147, 385
+
+perspective control (PC) lens, 172
+
+P-frames (predicted frames), 247, 248
+
+phantom power, 417, 431
+
+phase, 221, 628
+
+phase cancellation, 460
+
+photo bulbs, 480
+
+photofloods, 480, 507
+
+photons, 228
+
+photosites, 6, 11, 16, 67, 203, 208, 228
+
+pickup patterns, 420, 421
+
+pickup shots, 3, 360
+
+picture car (picture vehicle), 386
+
+picture-in-picture (PIP), 592
+
+picture lock (picture freeze), 3, 538
+
+picture profiles, 137, 196, 207
+
+pigtail, 438
+
+pillarbox, 79
+
+pinch wheels, 121
+
+pincushion distortion, 173
+
+pinhole (lensless) cameras, 173
+
+pitch, 54
+
+pitch shifters, 592
+
+pixel aspect ratio, 232–33, 595, 618
+
+pixels, 6, 16, 228–35
+
+bit depth and, 229, 230, 232
+
+sensor size and, 67
+
+shape of, 232–33, 600, 618
+
+video format and, 8–11, 203
+
+pixel shift, 137
+
+pixels per inch (PPI), 235
+
+pixilation, 392
+
+plane of critical (primary) focus, 155
+
+plasma lighting technology, 486
+
+plasma screens, 7, 194, 217–18, 327, 394, 552, 600
+
+platters, 713, 717
+
+PlayStation, 63
+
+PLUGE pattern, 770, 772
+
+plugs, electrical, 520
+
+plus diopters, 170–71
+
+point-and-shoot cameras, 102, 103
+
+point-of-view (POV), 324, 335–40
+
+point-of-view cameras, 70, 112, 178
+
+polar diagrams, 421
+
+polarizing filters, 298, 310, 314–15
+
+polecats, 496
+
+positive film, 42
+
+positive parallax, 398
+
+postage stamp, 80
+
+posterization, 140, 232
+
+postflashing, 278
+
+postproduction period (post), 2, 3, 66, 68, 90, 96–97
+
+pot (potentiometer), 446
+
+Potemkin (film), 523
+
+power supply, 103, 127–32, 549
+
+PPM (peak program meter), 447, 448n
+
+practicals, 491–92, 498, 507
+
+precision, see bit depth
+
+precompute (render) files, 553–54, 610
+
+preflashing, 278
+
+preliminary footage, 54, 57
+
+Premiere Pro, 96, 220–21, 307, 535, 546–48, 564, 567, 572–73, 577, 581, 583, 589, 610–12, 630
+
+premix, 651
+
+preproduction period, 2, 3, 53–57, 353–68, 718
+
+prerecord function, 139, 415
+
+preroll time, 123, 415, 470, 620
+
+preset timecode, 225
+
+press kits, 762
+
+pressure plate, 254
+
+previsualization, 355–57
+
+primary colors, 274, 304–6, 308
+
+primary storylines, 573, 574
+
+prime lenses, 142, 163, 165, 168–69, 180
+
+principal photography, 3, 359–60
+
+printer lights (printer points), 709
+
+printers, 707
+
+printing film, 709–13
+
+printmaster, 673
+
+print stocks, 710
+
+process shot, 212
+
+producers, 361
+
+producer’s representatives, 764
+
+producing the movie, 2, 53–59, 718–47
+
+production assistants (PAs), 362
+
+production audio, 637
+
+production board (production stripboard), 358
+
+production book, 368
+
+production coordinators, 362
+
+production design, 362
+
+production goals, 321–23
+
+production period, 2, 3
+
+production scheduling, 357–59
+
+production sound mixer, see sound recordists
+
+production tasks, 361–62
+
+Professional Disc media, 117
+
+profit, 728–29
+
+program level, 452
+
+program monitors, 571, 632
+
+progressive scanning, 11–14, 18, 23, 140, 213, 215
+
+progressive segmented frame (PsF), 84, 213, 602–3, 686
+
+ProHD cameras, 25
+
+project files, 563, 609
+
+project narrative, 721
+
+projectors:
+
+film, 10, 39–40, 716–17
+
+video, 217, 218
+
+prompters, 352, 375
+
+proposals, 54, 720–22
+
+ProRes format, 21, 92, 251–52, 559, 560–62, 598, 615, 679, 685, 687
+
+proxars, 170
+
+proximity effect, 443
+
+proxy images and editing, 37, 556
+
+Psycho (film), 322, 340, 341
+
+P2 cards, see flash memory cards
+
+public domain, 742
+
+publicists, 763, 764
+
+publicity, 54, 763–64
+
+pulldown (audio speed), 465, 690
+
+pulldown (film camera), 255
+
+pulldown (frame rate),601–6, 683, 690, 694
+
+pulldown type (pulldown phase, pulldown field identifier), 698–700
+
+pull focus, 159
+
+pull-in, 698–99
+
+pulling (underdeveloping), 278
+
+pulling up (speed change), 690
+
+pull lists, 681, 701
+
+pullups (for film prints), 715
+
+pumping (lens), 167
+
+PZM (pressure zone) microphones, 421, 443
+
+Quad HD format, 11, 204
+
+quantizing, 228–29, 406
+
+quantizing error, 409
+
+quick-change magazines, 262
+
+QuickTime, 244, 251, 553, 615, 618–19
+
+radio microphones, see wireless microphones
+
+Raging Bull (film), 69, 344
+
+RAIDs (redundant array of inexpensive disks), 116, 239, 240–41, 558, 559
+
+rain, lighting and, 517
+
+ramp f-stop, 166
+
+range extenders, 165
+
+range of brightness, 69, 186
+
+Rashomon (film), 339, 527
+
+raster, 8
+
+raster graphics, 595
+
+rate cards, 734
+
+RAW formats, 25, 29, 95, 96, 134, 189, 196, 203–4, 558
+
+raw stock, 42, 254, 271–86, 296–98, 302–3, 706
+
+see also black-and-white film; color film
+
+RCA connectors, 416
+
+reaction shots, 340, 342, 371, 522, 528
+
+reality TV, 348
+
+real life, filming, 349–50
+
+real time timecode, 225, 553
+
+Rear Window (film), 339, 340, 523
+
+recanned film, 266
+
+rechargeable batteries, 129–32
+
+record buffer, 415
+
+recording head, 405
+
+record run mode, 225, 226
+
+reduction printing, 708
+
+reel breaks, 652–53, 705–6
+
+reel continuity, 537–38
+
+reel numbers (reel names), 566, 571
+
+reels, 705–6
+
+reenactments, 348
+
+reference black, 205
+
+reference monitors, 220, 222
+
+reference movies, 619, 652–53
+
+reference tone, 452–53, 455
+
+reference tracks, 610
+
+reflectance, 292, 293
+
+reflected light, 292
+
+reflected light meters, 287, 289, 292–93
+
+reflector floods, 480
+
+reflectors, 491, 506, 513, 514
+
+reflex viewfinders, 258–59
+
+refresh rate, 86, 136, 221
+
+regen (regenerate) timecode, 226
+
+register (flange back distance), 176
+
+registration pins, 255
+
+Regular 8mm film, 41
+
+rehearsal, 356, 357, 373
+
+relamping, 479
+
+relative aperture, see f-stops
+
+release prints, 51, 272, 696, 706, 711, 712–13
+
+releases, 3–4, 349, 735, 739–41
+
+rendering, 553–54, 610, 622
+
+Renoir, Jean, 347
+
+renting equipment, 733
+
+replace edits, 584
+
+replication, 623
+
+rerecording mixers, 650, 658
+
+rescaling, 11
+
+research, 54
+
+Reservoir Dogs (film), 58
+
+reshoots, 360
+
+Resnais, Alain, 526
+
+resolution:
+
+digital audio recording, 409
+
+film (resolving power), 279
+
+lenses, 173
+
+video, 9–11, 69, 71–72, 220, 230–35, 617–18
+
+resolving (tape speed), 419
+
+retainer rings, 319
+
+retroloop, 139
+
+reuse fees, 744
+
+reveal, 344
+
+reverb, 668
+
+reversal film stock, 43, 272–73, 280, 281
+
+reversal original, 712
+
+reverse-angle shot, 323
+
+reverse pulldown (reverse telecine), 601, 603–4, 693, 704
+
+RGB color, 16–18, 25, 95, 202, 206, 208–9, 551, 595, 628, 629, 677, 685, 687, 702, 705
+
+RGBG pattern, 137
+
+RGB parade monitors, 628
+
+Riefenstahl, Leni, 389
+
+rights, music, 99, 445, 456, 736–38, 743–45
+
+rights-managed clips, 747
+
+rim light, 70
+
+ring light, 474
+
+ripple edits, 526, 577, 580
+
+ripple trim, 580
+
+roll edits (roll trim), 581
+
+roller stands, 496
+
+rolling shutter, 215–16
+
+rolling spider, 381
+
+roll-off filters, 423, 459
+
+room tone, 445, 642, 645, 649
+
+rostrum camera, 596
+
+rough cuts, 3, 537–39
+
+royalty-free footage, 747
+
+RS-422 serial device control, 621
+
+rubberbanding, 585
+
+rule of thirds, 325
+
+rushes, see dailies; sync sound
+
+Russian Ark (film), 388
+
+Rx mount, 177
+
+safety base, 272
+
+SAG-AFTRA (Screen Actors Guild/American Federation of Television and Radio Artists), 732, 746–47
+
+sales agents, 755, 764
+
+sample rate (audio sampling frequency), 407, 408, 414
+
+sample reel, 57, 722
+
+sampling, 228
+
+sampling (color), 18, 209–11
+
+sandbags, 496
+
+SATA drives, 93, 116, 240
+
+satellite TV, 62, 63
+
+saturation, 139, 221, 306, 628, 630
+
+“save” mode, 123
+
+Saving Private Ryan (film), 136
+
+scaling, 11
+
+scan lines, 8
+
+scanning, 11, 12–13, 81–87, 221
+
+scene files, 137, 207
+
+scenes, 322–23
+
+scene-to-scene corrections, 301
+
+scheduling, 357–59
+
+scissors clips, 496
+
+scoops, 487–88
+
+’Scope, 46, 74, 76, 77
+
+scores, 646–47, 746
+
+Scorsese, Martin, 69, 331, 344
+
+scratch disks, 563
+
+scratches (film), 302
+
+scratch test, 269, 302
+
+scratch track, 456
+
+screen direction, 529
+
+screen door effect, 218
+
+screen tests, 299
+
+scrims (fabric), 493–94, 513
+
+scrims (wire mesh screens), 494–95
+
+script-based editing, 564
+
+script breakdown sheet, 357–58
+
+script clearance report, 741
+
+script notes, 377
+
+script preparation, 354–35
+
+scripts, 3, 722, 728, 737, 741
+
+script supervisors, 342, 361, 376–77
+
+scrolls, credit, 541, 542
+
+scrubbing, 649
+
+SCSI drives, 240
+
+SD, see SDTV
+
+SD cards, see flash memory cards
+
+SDDS (Sony Dynamic Digital Sound), 716
+
+SDI (serial digital interface) connections, 238
+
+SDTV (standard definition television), 140, 315, 599, 618, 676, 677, 684, 685, 705
+
+analog formats, 32
+
+broadcast TV distribution, 55
+
+comparing formats, 23
+
+digital formats, 30–32
+
+monitors, 221
+
+NLEs and, 560
+
+pixel count, 9–11, 232–33
+
+widescreen options for cameras, 76
+
+SECAM (Séquential Couleur à Mémoire), 7n
+
+secondary color correction, 631
+
+secondary storylines, 574
+
+second assistant cameramen (2nd ACs), 362
+
+second assistant directors (2nd ADs), 361
+
+second cameramen, 362
+
+second electric, 362
+
+second-generation prints, 709
+
+second unit, 362
+
+segmented frame (sF), see progressive segmented frame (PsF)
+
+segue, 647
+
+selective focus, 72
+
+self-contained movies, 618
+
+self-distribution, 749, 752, 756–57, 759
+
+sensitivity switch, 133
+
+sensors, 5–6, 8, 12, 73–74, 103, 136–37, 185–87
+
+sensor size, 11, 66–68, 87–88
+
+sepia look, 317
+
+sequences, 322, 571
+
+set construction, 362
+
+set lights, 501–2, 505
+
+sets, 374
+
+setup (black level), 205n
+
+setup (camera position), 323
+
+709 color, see ITU-R 709 standard
+
+shadow detail, 69, 630, 704
+
+sharpening filters, 631
+
+sharpness, 773
+
+film image, 279
+
+lens, 173–74
+
+“look” of the movie and, 70–72, 154–55
+
+video image, 138, 233–35
+
+shooting checklist, 125, 367–68
+
+shooting ratio, 360–61
+
+shooting script, 355
+
+shooting the movie, 65–87, 321–401
+
+shooting video displays, 394–95
+
+shoot out, 358
+
+short ends, 265, 285
+
+short focal length lenses, see wide-angle lenses
+
+shotgun microphones, see supercardioid microphones
+
+shot logs, 535, 681, 693, 698
+
+shot/reverse shot, 323
+
+shots, 322–27
+
+composition of, 324–25
+
+types of, 323–24
+
+shoulder mounts, 89, 129, 130
+
+show cards, 489
+
+shutter-priority mode, 109
+
+shutters (camera), 39, 40, 103, 254, 255–57
+
+shutters (lighting), 495–96
+
+shutter speed, 104, 108, 110, 135–36, 287–89, 298
+
+sidebarred, 79
+
+side light, 475
+
+sides, 363
+
+sight line, 338
+
+signal-to-noise (s/n) ratio, 403
+
+silent cameras, 48
+
+silent films, 45, 47, 333, 392
+
+silent transfer, 689
+
+silks, 494, 495, 513
+
+silver halide crystals, 271–73, 279
+
+single-perforated (single-perf) film, 282
+
+single-roller trim, 580
+
+single-strand printing, 707–8
+
+single system recording, 35
+
+16mm film, 41, 42, 44, 45, 61, 62, 65, 76, 163, 177, 180, 262, 266, 267, 272, 282–84, 289, 315, 394, 669, 682, 683, 685, 703, 707–9, 712, 715
+
+60fps, 390–91, 598, 605, 606
+
+60i format, 84, 85, 601, 604, 607, 686, 693, 694, 697, 698, 704, 705
+
+60 Minutes (television program), 347
+
+60p, 85–86, 605–6
+
+65mm film, 42, 46–47
+
+601 color, see ITU-R 601 standard
+
+skin detail function, 140
+
+skin tones, 191, 317, 630–31
+
+skip bleach process, 278
+
+skipping, see judder
+
+skylight filters, 314–15
+
+slates, 349, 368–71, 465, 466–69, 589, 610, 621
+
+slide edits (slide trim), 581
+
+sliders, 24, 330, 340, 367, 384, 385
+
+slip edits, 581
+
+slow motion, 40, 82, 257, 344, 389–91, 592
+
+slow shutter mode, 136
+
+slug, 578
+
+smart collections, 565
+
+smartphones, 23
+
+smart slates, 467
+
+smoke, lighting and, 72, 517–18
+
+SMPTE 431-2, 197
+
+SMPTE leader, 653–54
+
+SMPTE nondrop timecode, 223, 224, 622, 691
+
+snapping, 582–83
+
+snappy images, 193
+
+soft boxes, 488–89
+
+soft images, 193
+
+soft light, 472–74, 478, 488–91, 504
+
+software, NLE, 546–47
+
+software stabilization, 389
+
+Sokurov, Alexander, 388
+
+solid-state drives (SSDs), 33–34, 92, 116–17, 238
+
+Sonnenfeld, Barry, 540
+
+sound:
+
+for film prints, 713–15
+
+importance of, 97–99
+
+properties of, 402–4
+
+in telecine transfers, 689–91
+
+see also sound editing; sound recording
+
+sound blankets, 444, 446
+
+sound carts, 47, 440
+
+sound dampening, 267
+
+sound designers, 635
+
+sound editing, 3, 635–74
+
+on DAWs, 37, 637–40, 648–50, 655–57, 664, 668, 673, 679
+
+dialogue, 355, 531–33, 586–87, 635
+
+music, 636, 646–49
+
+on NLEs, 465, 584–88, 636–38, 640, 641, 645, 648, 649, 653, 655, 656, 664, 667–69, 673
+
+preparing for mixing, 650–57
+
+process, 637–39
+
+technique, 642–45
+
+tools, 639–42
+
+in traditional film editing, 50–51
+
+sound editors, 635–36, 659
+
+sound effects (SFX), 458–59, 635, 644–45
+
+sound mix, 3, 99, 635–39, 658–73, 681
+
+sound mixers (personnel), 440, 650–51, 658–59, 663–65
+
+sound mixers (equipment), 430, 451, 455, 552, 650–51
+
+sound overlaps, 531, 586
+
+sound perspective distortion, 145, 443–44
+
+sound pressure level (SPL), 403
+
+sound quality, 98, 423–24, 536–37
+
+sound recording:
+
+analog, 405–6, 415–16, 419
+
+digital, 227–28, 406–17
+
+for film, 47–48
+
+microphones, see microphones
+
+music, 455–57
+
+planning considerations, 97–99
+
+preparing for shoot, 435–40
+
+setting level, 446–55
+
+techniques, 435–70
+
+types of recorders, 409–14
+
+for video, 35–36, 98–99
+
+in video camcorders, 35–36, 98–99, 103, 417–19
+
+sound recordists, 35, 98, 99, 362
+
+role of, 440–42, 446
+
+tools and supplies, 439
+
+sound reports, 377–78, 442
+
+sound speed, 257, 676
+
+sound take number, 442
+
+source media files, 553, 609, 616
+
+source monitors, 571, 632
+
+source music, 646, 648
+
+space blankets, 489
+
+spanned clips, 118
+
+spare magazines, 266
+
+spatial compression, 246
+
+spatial resolution, 86
+
+S/P DIF, 416–17
+
+speakers, 552, 640, 660, 670
+
+special lighting effects, 501–2, 506, 516–18
+
+specialty chain, 4
+
+spec scripts, 54
+
+specular light, 472
+
+sped-up motion, 82
+
+speed:
+
+camera, 40, 257
+
+lens, 151–52
+
+speed control, 465, 690
+
+speed effects, 592
+
+speed ring adapters, 489
+
+spherical aberration, 173
+
+spherical lenses, 76
+
+Spielberg, Steven, 331
+
+spill light, 212, 493
+
+splice edits, 577
+
+splicing, see editing
+
+split edits, 531, 586, 587
+
+split-field diopters, 171
+
+split focus, 158
+
+splitting tracks, 637, 650–52
+
+spot light meters, 289, 294, 296
+
+spotlights, 486–87
+
+spotting, 636
+
+spotting sheets (spot lists), 647
+
+spreaders, 379–81
+
+sprocket wheels, 255
+
+squeezed images, 75–76
+
+squeeze mode, 76, 79
+
+stair-step aliasing, 13, 14
+
+standard def, see SDTV (standard definition television)
+
+standard definition format, see SDTV
+
+standard gamma, 195–97
+
+standard light, 301
+
+“standby” mode, 123
+
+stand-ins, 373
+
+stand-ups, 347
+
+Star Wars (film), 83, 592
+
+static shots, 328
+
+Steadicams, 19, 45, 140, 267, 330, 340, 388–89
+
+stems, 673
+
+step-up rings, 319
+
+stereographers, 400
+
+stereo pairs, 396, 568, 585, 649
+
+stereoscopy, 396
+
+stereo sound, 417, 455, 461–63, 669–71, 714
+
+stills, 140, 235, 596–97, 762
+
+stingers, 496, 647
+
+stock footage, 347–48, 523, 725, 747
+
+stock music, 648–49, 745–46
+
+stop framing (stop action), see freeze frames
+
+stopping down, 152
+
+storage area network (SAN), 241
+
+storage environment, 52, 125, 284–85
+
+storing picture settings, 207
+
+story beats, 524
+
+storyboards, 356–57
+
+story rights, 728, 742
+
+straight cuts, 526, 582
+
+string-outs, 3, 537
+
+stripe, 50
+
+striping, 240, 621
+
+strobing, see judder
+
+styles in moviemaking, 65–66, 332–53
+
+subsampling (color), 18, 209–11
+
+subtitles, laser, 705
+
+subtractive primaries, 304, 305
+
+summing audio, 649
+
+sun guns, 492
+
+sunlight, 513–14
+
+sunrise/sunset shots, 296
+
+super black, 205–6
+
+supercardioid microphones, 420–22, 436, 445
+
+Super 8, 41–44, 76, 260, 267, 272, 280, 282, 289, 683, 707, 708
+
+superimposed titles (supers), 541, 543
+
+superimpositions, 541
+
+Super Panavision, 81
+
+Super 16 film, 41, 44, 76, 268, 282, 684, 708, 709
+
+Super 35mm, 29, 45–46, 77, 159, 167, 178–79, 704
+
+Super 35 sensor, 67, 788
+
+super white, 187, 206
+
+suppliers, 733–35
+
+supply reels, 254
+
+surround sound, 417, 464, 670
+
+S-video (separate video), 209
+
+sweetening, 637
+
+swish pans, 329, 394
+
+SxS cards, see flash memory cards
+
+sync breaks, 588
+
+sync drift, 48, 465, 702
+
+sync errors, 467, 590
+
+synchronizing the dailies, 49, 589
+
+synchronous (sync) sound, 48, 587–88
+
+syncing up, 49, 99, 465–69, 589, 679
+
+sync point editing, 584
+
+sync pops, 653, 656, 706
+
+synopsis, 721
+
+table read, 356
+
+table stands (for cameras), 379
+
+tail slates, 349, 370, 470
+
+takes, 323, 370–72
+
+take-up reels, 254
+
+talking heads, 347
+
+tally lights, 126
+
+tape cassettes, 91
+
+tape decks, 7
+
+tape editing, 38–39, 544, 631–32
+
+tape focus, 159–60
+
+tape numbers (tape names), 571
+
+tape path, 121–22
+
+tape stock, 124–25
+
+target bins, 567
+
+target drive, 563
+
+tax incentives, 726
+
+technical survey, 364
+
+Techniscope, 46
+
+technology, coping with, 99–101
+
+telecine logs, 693, 698
+
+telecines, 601, 676, 683, 685–89
+
+telecine timecode, 284, 692–93
+
+telephoto lenses (tele-lenses), 145, 146, 169, 170
+
+teleprompters, 352, 375
+
+television, digital, see DTV
+
+television distribution, 4, 724, 748, 754–55, 759, 760
+
+temperature and humidity, 126–27, 284–85
+
+temporal compression, 246
+
+temporal resolution, 86
+
+temporal (time) qualities, 84
+
+test screenings, 538–39
+
+theatrical distribution, 3–4, 55, 60–62, 608, 675, 747, 748–52
+
+35mm film, 3, 10, 29, 41, 42, 44–46, 60–62, 65, 67, 71, 72, 77, 151, 177, 180, 262, 267, 282, 284, 315, 394, 654, 675, 677, 682, 685, 712
+
+30fps, 15, 390, 468, 598, 607, 676, 686, 690, 693, 698, 702
+
+30p, 85, 605–6
+
+three-chip cameras, 17
+
+three-color temperature meters, 310, 311
+
+3D productions, 11, 28, 30, 56, 60, 62, 65, 86, 396–401, 551, 749
+
+exhibition and distribution, 400–401
+
+fundamentals of, 397–98
+
+production in digital 3D, 398–400
+
+three-perf 35mm film, 46
+
+three-point editing, 579, 632
+
+three-point lighting, 499–501
+
+three-shot sequences, 523, 531
+
+3:2 pulldown, see 2:3 pulldown
+
+threshold of hearing, 403
+
+threshold of pain, 403
+
+throughput, 236
+
+thumbnails, 564, 573
+
+Thunderbolt connector, 218, 237–38
+
+THX system, 716
+
+tilt and scan, 79
+
+tilt-focus lenses, 172, 326
+
+tilts, 329–30
+
+timbre, 404
+
+timebase, 598, 606, 697
+
+timecode, 103, 222–27, 284, 465
+
+audio, 414, 439, 467–68, 691
+
+burn-in, 222, 653, 695
+
+double-system and multicamera shoots, 225–26
+
+in-camera (film), 267–68, 284, 469, 677, 689, 691
+
+NLEs and, 571–73
+
+problem avoidance, 226–27
+
+slating systems, 368–69, 466–69, 677
+
+telecine, 284, 692–93
+
+types of, 223–24
+
+timecode generators, 467, 468, 469
+
+timed (graded, color-balanced) workprints, 301
+
+time-lapse, 140, 257, 392–93
+
+timeline, 571–73, 582–83
+
+time-of-day (TOD) timecode, 225, 226, 227, 691
+
+time remapping, 592
+
+timing sheets, 647
+
+title cards, 541–42
+
+titles, 3, 140, 541–43, 594–95, 705
+
+title search, 738
+
+TiVo, 34
+
+Toland, Gregg, 74
+
+Tomasini, George, 360
+
+tonal range, 192–93
+
+tone generators (oscillators), 452
+
+tone quality, 404
+
+top light, 476
+
+TOSLINK connectors, 416
+
+Touch of Evil (film), 335, 336, 338
+
+tough spun, 488
+
+track building (audio), 637, 650–57
+
+tracking shots, see dolly shots
+
+track selectors, 584
+
+trailers, 57, 722, 749, 763
+
+transcoding, 558–62
+
+transfer characteristic of sensors, 185
+
+transferring, 37
+
+transfer tape, 320
+
+transformers, 519
+
+transients, 447
+
+transitions, 582, 587
+
+traveling mattes, 591
+
+travel restrictions on batteries, 132
+
+treatment, 2, 54
+
+trickle charge, 131
+
+trilevel sync, 226
+
+trim control, 431
+
+trimming clips, 579–82, 611
+
+tripod dolly, 381
+
+tripods, 378–81
+
+TRS plugs, 432
+
+trucking shots, 330
+
+true peak level, 663
+
+Trumbull, Douglas, 86
+
+T-stops, 153, 162, 165–66, 289
+
+tungsten-balanced film, 280–81, 296, 309–10, 481, 515, 517
+
+tungsten-halogen bulbs, 110, 111, 112, 308, 480–81, 492, 507, 515
+
+turnaround time, 359, 731
+
+TV cutoff, 106, 327–28
+
+TV lines per picture height (TVL/ph), 234, 235
+
+TV safe action frame, 328, 543
+
+TV safe title area, 328, 543
+
+25 fps, 15, 468, 598, 676, 686–87, 691
+
+25p, 29, 85, 686, 704
+
+24 fps, 4, 15, 48, 62, 82–85, 256, 257, 288, 394, 465, 468, 598, 676, 686–87, 690, 691, 693, 694, 698, 701, 702, 705
+
+24p, 29, 224, 598, 601–7, 686, 697, 701, 704
+
+24p Advanced, 604–5
+
+24p timecode, 607
+
+23.976 fps, 467, 469, 470, 686, 690, 701
+
+29.97 fps, 468, 470, 690, 697
+
+twitter (video artifact), 13
+
+2001: A Space Odyssey (film), 46
+
+2-inch Quad, 32
+
+two-color temperature meters, 310
+
+2K format, 16, 29, 62, 71, 230, 551, 560, 599, 625, 676, 677, 680–85, 687, 702–5
+
+two-perf 35mm film, 46
+
+two shot, 323, 324
+
+2:3 pulldown, 84, 601, 603–4, 686
+
+typefaces, 542–43
+
+U-bits (user bits), 225
+
+UHDTV (Ultra High Definition TV), 11
+
+ultrasonic film cleaning, 689
+
+ultraviolet light, 314
+
+U-matic, 3/4 inch, 32
+
+umbrella reflectors, 491
+
+uncompressed video, 245
+
+undercranking, 391–92
+
+underdeveloping, 278
+
+underexposure, 286, 291, 298
+
+underlighting, 476
+
+underrecording, 446
+
+underscan, 328
+
+underscore, 646
+
+union productions, 362, 363, 731–33, 746
+
+unit production managers (UPMs), 362
+
+unity gain, 455
+
+unsqueezing images, 75–76
+
+untimed workprints, 301
+
+upconverting (upscaling or up-resing), 11
+
+upcut dialogue, 532
+
+upper (odd) field, 13, 600
+
+USB (Universal Serial Bus) connectors, 237
+
+UV (1A skylight) filters, 314–15
+
+variable bit rate (VBR) format, 250, 251, 617, 624
+
+variable neutral density (ND) filters, 312
+
+variable shutters, 265–57, 395
+
+variable speed effects, 592
+
+VariCams, 27, 199
+
+varifocal lenses, 161n
+
+VCRs (videocassettes recorders), 7
+
+vector graphics, 595
+
+vectorscopes, 306, 307, 628, 630
+
+vertical angle of light, 476
+
+vertical interval timecode (VITC), 224
+
+Vertigo (film), 331
+
+VHS (Video Home System) format, 32, 64, 550
+
+video assist (video tap), 267
+
+video cameras and camcorders, 4–7, 102–40
+
+AC power supply, 127–28, 131
+
+analog versus digital, 7–8
+
+back focus checking, 182
+
+batteries, 103, 128–32
+
+built-in image stabilization devices, 387–88
+
+camera sensitivity, 133–39
+
+comparing, 21–28
+
+elements of, 103
+
+focus, see focus
+
+format, see video format
+
+initial settings, 104–5
+
+lenses, see lenses
+
+lens mounts, 178–79
+
+“look” of the movie and, 68–87
+
+managing data on shoot, 117–21
+
+microphones, 417–18
+
+as NLE input, 549–50
+
+operation of, 125–27
+
+overview of, 102–4
+
+picture controls, 107–14
+
+recording to digital tape, 121–25
+
+recording to flash memory cards, 32–33, 92–93, 115–17
+
+recording to hard and solid-state drives, 33–34, 115–17
+
+recording to optical discs, 117
+
+shooting CRT video displays with, 395
+
+sound recording in, 35–36, 98–99, 103, 417–19, 469
+
+videotape recorder, 121–25
+
+viewfinder and monitor setup, 105–7
+
+see also video formats; video image
+
+video dailies, 49, 681
+
+video decks, 7
+
+video editing, 38, 544–634
+
+see also NLEs; tape editing
+
+video effects, 590–94
+
+Video8, 32
+
+video-film transfers, 675–83, 675–98, 691–93, 700, 701, 704–6
+
+video formats, 8–34
+
+analog, 7, 8, 32, 193–94
+
+digital, see digital video formats
+
+focal length and, 148–50
+
+video image, 185–252
+
+analog formats, 7, 8, 32, 193–94
+
+color, 207–11
+
+controlling contrast, 69, 191–207
+
+digital formats, see digital video formats
+
+monitors, see monitors
+
+projectors, 217, 218
+
+timecode, see timecode
+
+video camera’s response to light, 185–91
+
+video layers, 590–91
+
+video monitors, 218–20, 767–74
+
+video noise, 216
+
+video-on-demand (VOD), 4, 56n, 747, 753, 760
+
+video sharing sites, 616–17
+
+video village, 373, 374
+
+viewer, 571
+
+viewfinders:
+
+composition in, 259, 327–28
+
+film camera, 230, 258–61
+
+focusing by eye through, 160–61
+
+video camcorder, 102, 103, 105–7
+
+viewing screens, 258
+
+vignetting, 150, 167, 173, 176, 318
+
+Vimeo, 616, 617, 619
+
+virgin tape, 125
+
+virtual print fee (VPF), 749
+
+visual effects (VFX), 3, 140, 526, 681
+
+visually lossless, 20–217
+
+Vivre sa vie (My Life to Live) (film), 175
+
+voice-over, 347, 457–58, 533
+
+voltage, 129, 405, 406, 407, 518, 519
+
+volume, 403
+
+VTRs (videotape recorders), 7, 102–3, 121, 123–25, 550, 570, 620, 621, 632
+
+VU meters, 447, 448, 449, 451–52, 455, 662
+
+walk-and-talk dialogue scene, 58
+
+walla, 645
+
+wall plates, 496
+
+wall spreaders, 496
+
+wardrobe, 362, 374
+
+wattage, 479, 518
+
+waveform monitors, 188–89, 190, 329, 628–30
+
+wavelet compression, 246
+
+Web compression, 616–19
+
+WebM, 615
+
+websites, 762
+
+wedges, 313, 382
+
+Welles, Orson, 335
+
+western dolly, 381
+
+wet gate printing, 689, 711
+
+WGA (Writers Guild of America), 737, 747
+
+What’s Up, Tiger Lily? (film), 524
+
+white balance, 109–13, 203, 309, 317
+
+white clip, 186, 274n
+
+wide-angle adapters, 149, 164–65
+
+wide-angle lenses, 145–47, 156, 157, 162, 163, 167, 170, 180, 393
+
+wide release, 759
+
+widescreen formats, 42, 46–47, 60, 74, 328, 705
+
+converting to, 77–81
+
+for digital cameras, 75–76
+
+for film cameras, 76–77
+
+wide shots, 294, 323, 506–8
+
+wild cameras, see MOS cameras
+
+wild sound, 48, 372, 442, 470
+
+Willis, Gordon, 476
+
+windings (film), 282–83
+
+windowbox, 80
+
+windowing (on sensors), 75, 150
+
+window light, 478, 504, 514–16
+
+windscreens, 424–25
+
+wipes, 526, 592
+
+wireless (radio) microphones, 98, 349, 428–30, 438, 439, 454
+
+Wiseman, Frederick, 350, 351
+
+WMV (Windows Media Video), 244
+
+word clock, 417
+
+workers’ compensation insurance, 736
+
+workflow, 1, 90, 554–56
+
+compression and, 94–97
+
+planning, 608–9
+
+workprints, 49, 300, 301
+
+wrappers, 242–45, 614–15
+
+written proposals, 54, 720–22
+
+X axis, 688
+
+Xbox, 63
+
+XDCAM, 17, 34, 93, 247
+
+XDCAM EX, 18, 27, 95, 250, 558
+
+XDCAM HD, 27, 34, 250
+
+XLR connectors, 416, 417, 433, 435
+
+XML Interchange Format, 244, 613, 655
+
+X-ray machines, 285, 286
+
+X-Y stereo, 461–63
+
+Y/C, see S-video
+
+Y axis, 688
+
+Y,B-Y,R-Y, 209
+
+Y’CBCR, 206, 209, 219, 551, 595, 628, 687, 767
+
+YouTube, 616, 619
+
+YPBPR, 209
+
+YUV, see Y’CBCR
+
+zebra indicator, 106, 107, 187, 190
+
+zeppelin, 425
+
+zero-frame reference mark, 283–84
+
+zero setup, 205
+
+zoom creep, 168
+
+zoom lenses, 103, 142, 144, 153, 159, 161, 163–68, 174, 294
+
+shooting with, 330–32, 353
+
+zoom mode (monitor), 79
+
+zoom range, 163–65

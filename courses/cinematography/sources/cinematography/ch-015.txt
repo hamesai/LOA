@@ -1,0 +1,201 @@
+Chapter 14: Shooting High Def and Digital Video
+
+12.18. (right) The Sony F900 Cinealta
+
+— a High Def camera that can shoot 24p and other HD formats.
+
+12.19. (below) Comparison of standard television format and High Def standard.
+
+cinematography the limitations of stationary head magnetic recording, longitudinal timecode from a VTR (or ATR) cannot be read at very slow speeds or with the tape stopped.
+
+Vertical Interval Timecode
+
+Vertical Interval Timecode (VITC) has a key advantage over LTC: it can be read even when the tape is not running at normal speed. In the vertical interval system, scan lines in the vertical interval of the video signal contain timecode data. This can be done because during the vertical interval, when the scan is returning to the top left of the screen, information is not needed to create video — it can be used for other purposes.
+
+SHOOTING HIGH DEF VIDEO
+
+High definition video is similar to shooting ordinary video in some ways, but quite different in other ways. High Def cameras offer considerably more control than other types of video cameras. These controls are either accessed through menus on the camera or through remote “paint box” units which come in a variety of configurations from fairly simple ones which can be used by a trained videographer or cinematographer on the set to very complex ones which are the province of engineers. The 16x9 format is shown in Figure 12.19 Any paintbox should be used only by people who know what they are doing as it is permanently affecting the image on tape — many effects cannot be undone in post and there is always a possibility you may be making your choices based on an improperly set up monitor or viewfinder.
+
+High Def cameras, including the Panasonic 27V (Figure 12.21), the Sony 900 series (Figures 12.18 and 12.20) and the Panavision 24p camera based on it, use 2/3” CCD video receptors. This gives them a depth-of-field similar to 16mm. As we discussed in the chapter on Optics, the smaller the format, the greater the depth-of-field This poses a problem when trying to shoot with a shallow focus or attempting a dramatic rack, especially when trying to throw the background out of focus to lessen the effect of distracting colors and objects behind the talent. You will want to avoid using regular video zooms on HD cameras — they just don’t have the resolution. This doesn’t appear on normal video or digital video but ts very apparent in High Def. Lenses designed for HD, or better yet, film lenses, are \ AIZONTAL Nt 7 SPECT RATK FRAME RATE
+
+Pixel widtt PR JE 18 ( 4:3 ( 1B( 640 F 4 3 24 30, 60
+
+10 2 16 3
+
+( 1920 F . }) 2 1 0 F 16:9 4, 3¢
+
+1¢ best choice to get maximum performance from these cameras.
+
+There are a number of High Def formats; each one 1s appropriate ) spec types of shooting, as shown as Tables 12.3 and 12.4. Not \| High Def cameras can shoot all formats. Twenty-four frame pro-sressive, or 24p is the format most often used for theatrical features. ij = *rogressive means that the scan lines are not interlaced as they are 1 normal video, This is especially important if the High Def video s going to be transferred to film for projection.
+
+‘ompanies that handle this conversion to film and it is important to adhere to their varying requirements for shooting the original HD video in order to optimize the transfer to film.
+
+There are several a:
+
+Partly because the High Def cameras so closely resemble a normal video camera night be used for BetaSP production, it 1s often assumed that it is something of a “point and shoot” technology This is definitely not the case, particularly if you are trying to get the most that the format can offer. A good deal of technical knowledge such as and experience are necessary to maximize the results, especially “film look.”
+
+you are trying to geta quction Table 12.3. High Def format
+
+Table 12.4. (left) Typical interchanc between film and HD video forma 12.20. (below) The Viper F camera from Thompson. Filmstrean refers to its ability to record uncom pressed RGB High Def data direct!
+
+a hard drive in the field. (Photo tesy of Thompson Broadcas tions.)
+
+Another myth is that you can choose to just “shoot it straight” and everything else can be done in post. This is not true; although there is more manipulation that can be done in post than might be possible in film, there are definitely some things you can do on the set that cannot be done in post and there are things you can screw up badly.
+
+10 THINGS TO REMEMBER WHEN SHOOTING HIGH DEF
+
+Here are some tips specific to working with High Definition cameras for narrative filming in general and particularly for digital projection or for transfer to film for standard projection:
+
+* Control highlights: HD has trouble with them. This is similar to other types of video although not as bad.
+
+19.91. the ® RIRBERSY Don’t crush the blacks. This sort of manipulation is perfectly High Def camera set up for file stole valid, but is most likely something best left until post-pro-production. (Photo courtesy of Pana- duction as it is irreversible.
+
+sonic.) * Nail exposure when you can, but if not, err on the side of underexposure, not overexposure (i.¢., like reversal film).
+
+* Don’t turn up the detail if you are transferring to film.
+
+* 1080 is a better choice for narrative storytelling. 720 is good for sports.
+
+* —Interlace always looks like video.
+
+* Very wide lenses are not now available, although that may change.
+
+* Biggest problem is too much depth of field remember, focus is an important storytelling tool.
+
+* Second biggest problem is seeing too much detail in things like makeup, sets and wardrobe.
+
+* Shoot at 23.98 or 29.97, not 24 or 30. This will reduce artifacts later in the process.
+
+LIGHTING FOR HIGH DEF VIDEO
+
+High Def is much closer to film than non-High Def video but there are still differences. It tends to “see into the shadows” much more than film and it sees detail much more than film. This means that shadows you would expect to go black or nearly black in film are still visible in HD. This can have the effect of ruining the illusion; the same is true of HD’s tendency to see more fine detail. The makeup and wardrobe departments must be especially on their toes.
+
+Tiny imperfections of sets and props can suddenly become obtrusive where on film they were more than acceptable. This is a big part of the “video look.” which, while far less apparent on High ‘Def can still be a problem if not dealt with properly. This problem is more complex than just detail resolution: it can be partially dealt with using diffusion filters but by no means entirely. Also, dealing with it in this w ay may mean using diffusion filters where you do not want to.
+
+The idea that HD requires less lighting is quite simply a myth. HD cameras have a speed equivalent to around ISO 320 — not really that fast in relation to film. People who claim that HD video needs less lighting are probably just willing to settle for bad lighting.
+
+This is much the same as happened with the advent of high speed lenses and high speed film (ISO 320, which is now more of a medium speed film, with ISO 500 and 800 being the real high speed stocks). Overenthusiastic supporters claimed that fewer people would be needed on the crew and fewer lights. None of this is true, of course. At best, you need a smaller generator and lighter gauge distribution cable and slightly smaller lights.
+
+Think of it this way — say you light a scene beautifully with four cinematography lights: a 12K through the window, a 10K raking down the hallway, a 2K bounce for a key on the scene and a baby-junior for a backlight.
+
+Let’s now assume that the speed of your video camera (or motion picture film) doubles (a very big jump in speed). Does this mean you need fewer lights? Not unless you want to do less lighting — that is, give up something important. You still need four lights — the only difference is that instead of a 12K you need a 6K, instead of a 10K you can use a 5K, and so on. Doubling the speed is a giant leap technologically, but in terms of exposure and lighting it is only one stop. Can you “get an exposure” using fewer lights? Of course you can. But as a cinematographer or director, if you are willing to say that just “getting an exposure” is your goal in lighting, then you don’t need to be reading books like this one.
+
+“Video lighting” has a bad reputation. This is not really the fault of video or of the people who shoot video. It is really a result of production circumstances: video is for the most part employed where producers don’t have the money for film. Since video is perceived as not being capable of delivering the image quality of film, the producers also usually make the decision to spend less on lighting. How often have you seen a normal video production with five electricians and five grips and a 10-ton truck of lighting and grip?
+
+The result is that video has a reputation as something you “don’t light as much” as film. The great danger of High Def is not that it will replace film but that the expectations and values of the decision makers and the audience will decline and that this lower level of production value will become the accepted norm. This is not to be confused with the idea that simpler lighting can be more beautiful — it often is. Indeed, most DPs find that as they learn more about lighting and have the benefit of years of experience and experimentation that they tend to use fewer lights to get the same effect.
+
+This is a function of a greater knowledge of what you can do with few units and the wisdom of years of doing it. This is a different issue, however. The key words are “the same effect.” not “settling for less” just because it’s video. Of course, there are times when you can light an entire scene with nothing but a china ball, (and it can be a thrilling experience when it really works), but there are many more times when you cannot. In terms of people and equipment you need what you need to light adequately — not to mention artistically and expressively in the service of the storytelling. Convincing a reluctant producer of this is an important skill to learn as a DP.
+
+SHOOTING DIGITAL VIDEO
+
+Digital video exists in many forms — DigiBeta, DV, DVCam, DVCPro and MiniDV. These differ in methods of compression, recording formats, tape speed and tape cassette size but all are similar in that they take an analog signal and convert it to digital — see the previous section on Analog/Digital Conversion for more on the various formats.
+
+As with all things digital, the equipment available changes almost on a daily basis: as you decide what to use for your project side-by-side comparisons will be most helpful. Naturally the producer will be most concerned about the cost/benefit ratio of the various formats. Although video is generally much cheaper than film, shooting on video may have very serious implications for your post-productions costs and for the sales value of the finished product. These are the producer’s concerns but it is your job as the cinematographer or director to make sure that the cost concerns are balanced with both the visual quality the system can produce and what its other capabilities are. For example, at the present time, no video camera, video and high def ZA
+
+12.22. How 3-to-2 pulldown works.
+
+3:2 Pulldown in telecine transfer Video Relds
+
+Alm Frames
+
+Odd
+
+- Even Odd
+
+Even gocoogodgdooda ood oooaoagqogooonaaeaog cinematography 212
+
+Odd
+
+Ewen
+
+Odd not even a top-of-the-line High Def camera can shoot true high speed. This has implications especially if you are shooting action sequences or anything else that requires a true slo-mo effect.
+
+Certainly tf you are attempting to bring to bear the entire arsenal of methods and techniques of cinematography, the lens systems will be of primary importance to you. Some cameras do offer interchangeable lenses and the quality of video lenses is improving. The size and quality of the CCD (the video receptor) is also important, not only for image quality but for focus — the smaller the CDD the greater the depth-of-field. At first glance this might seem like a good thing, but remember that depth-of-field is an important storytelling tool; too much depth-of-field restricts or even eliminates the possibility of using this important tool. This has implications beyond just the camera: for example, some cinematographers shooting projects on digital video that were formerly shot on film are finding that without the ability to restrict focus to the main subject, that distracting background set dressing or props are more obtrusive. Since the possibility of throwing them out of focus ts restricted, redressing the set or changing the background 1s a last resort stopgap. This calls for cooperation from other departments and from the director.
+
+Beyond this, the day-to-day operation of a digital video camera is much the same no matter what the recording format: white balancing, setting up the monitor, setting exposure and so on are essentially the same. Although much less than in the past, lighting ratios much be accommodating to the particular camera: although as we have pointed out, it is not always simply a matter of “adding more fill,” indeed in some cases, negative fill may be required as you are seeing too much into the shadows.
+
+TRANSFERRING VIDEO TO FILM
+
+NTSC AND 3:2 PULLDOWN
+
+When transferring American system film (24fps) to NTSC video (29.97fps), there is a mismatch of speed which must be corrected.
+
+NTSC has 60 fields/second (2 fields per frame). thus five fields take 5/60 second = 1/12 second time, which ts exactly the amount it takes for a film to show two frames. The solution to the problem is that each frame of film is not transferred to a corresponding frame of video.
+
+The first film frame is transferred to 3 NTSC fields. Next the second film frame ts transferred to 2 NTSC fields. The total time for the original film should be 2/24s = 1/12s, which is exactly the same it took for NTSC to transfer the same frames (3/30s+2/60s = 5/60s = 1/12s). This process alternates for successive frames. This ts called 3-to-2 pulldown, usually written as 3:2 pulldown. The problem with this is that every other film frame is shown for 1/20 of a second. while every other is shown for 1/30 of a second. This makes pans look less smooth than what they did in the movie theater or in PAL video, which does not require this process (Figure 12.22).
+
+PREPPING FOR TELECINE
+
+A great deal of film that is shot now goes from the processing lab to a telecine house where it is transferred directly to video (Figure 12.23). Even features intended for theatrical release are telecined for non-linear editing and for video dailies. It is important to follow the correct steps to prepare for telecine. Failure to do so will cost the producer considerably extra, which is not good for job security. * If you are doing anything at all out of the ordinary: greenscreen, unusual color balances, off speed shooting, ete.. it is best to confer with the telecine house before you start. * Film will be transferred at 24 frames per second with standard SMPI E framing unless specifically requested otherwise lransfer rates other than 16-3( fps may not be available at all telecine houses — check before you shoot.
+
+* Shoot a properly exposed and color balanced Gray Scale. It’s a good place for the colorist to start.
+
+d * Communicate with the telecine operator. A phone ca memo or notes on the camera reports are important. Some DPs also send audio recording with comments and also Polaroids of the scene: even pictures from a magazine that you are using as a reference or similar material. * Full and accurate camera reports. This is especially important if you are shooting at an off-speed frame rate AND want the footage transferred at that rate.
+
+* Write it on the slate. All slates have spaces to record if the shot is day or night, interior or exterior and frame rate. Some also have places for filtration and other key data. * Make sure the slate is in focus and lit to be readable. * Mark the camera reports as “Prep for telecine.” When this is requested, the lab cleans the negative and joins the camera rolls into lab rolls no larger than 1200 feet with 6 feet of leader on each end. In some cases, editors may request hole punches at head and tail of each camera roll and a KeyKode log. KeyKode is a written log recording the first and last KeyKode number for each camera roll within a lab roll, It is prepared by the lab during negative assembly and used by the Editor to check the accuracy of the Flex file (a computer file database).
+
+* Use correct slating procedures (see chapter on set operations) his is especially important if you are doing MOS takes ot tail slating. [fan MOS take is not properly slated, the transfer technician can spend considerable time looking f does not exist * Shoot a framing chart and communicate to the colorist what framing you are shooting. This is especially important with formats such as Super 35. Be sure that the framing chart agrees with your ground gi iss and also that all the ground gl adsSes O1 you i shoot apre AUDIO FOR TELECINE
+
+Most transter houses require that syne audio for telecine be recorded 30fps not using Drop Frame timecode. Audio should never be 12.23.A typical telecins cinematography recorded at 29.97fps. When shooting syne sound, a timecode slate can save considerable amounts of time and money. See the section on Timecode for information on timecode slates. Don’t forget that the slate has a brightness adjustment — be sure it is set properly for your shooting conditions and if it’s too bright, use a gel to take it down — unreadable slates are expensive! See the chapter on Ser Operations for proper use.
+
+PRE-ROLL
+
+Always pre-roll audio for 5 seconds or more. This is done by rolling audio (which is recording timecode) before syncing with the slate (either a timecode slate or an ordinary slate).
+
+The audio and smart slate timecodes must be in syne. It is important to re-jam the slate frequently to make sure it is in syne with the audio recorder. The slate is “jammed” by connecting it to the timecode output of the audio recorder. The timecode from audio is loaded into the slate where it runs on its own crystal clock. This is usually accurate for several hours, but it MUST be rejammed periodically. Some slates will say “Feed Me” when they sense they need rejamming.
+
+The AC and operator should also look at the slate as the 2nd AC holds it up before the take; sometimes the timecode will not be running, Stop and correct the problem before you shoot. To help check for syne between audio and timecode, before the first take of the day roll 10 seconds with the slate open and sound running at speed, and then clap the sticks and run 5 more seconds. The sound recordist should make note of the timecode of any wild tracks.
+
+EDITORIAL NEEDS
+
+Because of the needs of non-linear, computer based editing. editors often request additional services during the dailies transfer to assist them in editing and finishing the project. Preparing elements for non-linear editing can be considerably more involved than for old-style one light film prints.
+
+The editor may require KeyKode, a simo audio DAT with address track timecode, 2 or more simo 3/4” SP or Beta cassettes, (with or without burned in windows), digital Flex files with floppy discs or print outs, KeyKode logs, etc. A simo DAT is a first generation digital clone DAT of the audio made during the dailies transfer with timecode that matches the video dailies tapes. It is used by the editor for auto conforming sound during the final transfer and mix, A simo may also be a 3/4” Umatic tape or BetaSP tapes.
+
+A flex file is a computer file created at the time of the telecine transfer. It is a relational database that logs all timecode, keykode, audio code in and out points for every telecine edit. It also has scene, take, camera roll, lab roll, audio roll and tape numbers. The flex file ts used by the editor to digitize dailies into a non-linear edit system and to create a negative cutter’s list from the timecode EDL. It may be a KeyKode log disk, Evertz log, ete. It is important to check with the editor to make sure what is needed before the time of telecine transfer. Doing it later can be much more expensive.
+
+SHOOTING A GRAY CARD REFERENCE
+
+Using a gray card applies to both film finish and to film transferred to video. It is discussed here in relation to telecine and adjusting on the waveform monitor but lighting and shooting are the same for both situations. In video, a gray card may be used but the real standard is color bars, which are discussed in the chapter on video, GRAY CARD PLUS
+
+Kodak makes a simple tool which can be very helpful in telecine transfer. It is the Gray Card Plus, which consists of a large 18% neutral gray area bordered by 3% and 90% reflectance black-and-white patches to provide further reference for grading. The surface is specially treated to minimize glare. The Gray Card Plus (Figure 12.24) can be used to determine telecine transfer points, provide exposure information and help the telecine colorist or film timer create the effect the cinematographer is looking for.
+
+THE GRAY CARD PLUS AS A REFERENCE INTELECINE 12.24, The Kodak Gray Card Plus.
+
+In the telecine transfer room, the colorist shuttles to a frame showing the gray card and stops the film. She then adjusts the controls of the telecine and watches the results on the waveform monitor. Kodak recommends waveform monitor settings of 80 IRE units for the 90% reflectance patch, 45 [RE for the 18% gray card and 20 IRE to correspond to the 3% reflectance black patch. Some people feel these values result in initial grading that’s too flat.
+
+Many cinematographers prefer that they be placed at something more along the lines of white, 85 IRE, gray, 50 IRE and black, 15 IRE. The settings you suggest will produce snappier looking dailies, with more contrast and “blacker blacks” — sometimes called “stretch and crush.” The recommended IRE values of 80 - 45 - 20 IRE were chosen partly with tape-to-tape transfers in mind; the intent being to preserve a wider range of contrast for final grading options. This goes along with the philosophy of many telecine facilities. If they are producing video dailies which will then be used for the final edit in a “tape-to-tape” transfer, they will always keep the initial transfer fairly neutral and without much manipulation.
+
+This can be very frustrating for the cinematographer who is trying to achieve a certain look with off-color lighting or other than normal exposures. The dailies will come back looking very bland and neutral and uninitiated directors and producers will think you are not doing your job correctly. It is painful and embarrassing but in the end, it does provide a product with greater range of manipulation in the final result.
+
+You should always insist on being present for the tape-to-tape transfer. This is where the real grading decisions will be made; just as they used to be made by sitting in a screening room with the film timer, Kodak says in the instructions, “Make corrections, if needed, to improve overall color and contrast.” The dark patches reflect 3%; the light patches 90%, Why 20 IRE instead of 7.5 for the dark patches and 80 IRE instead of 100 for the light patches?
+
+The values that are used were chosen to be slightly above the toe and just below the shoulder of the contrast curve. This makes them less susceptible to variations in the film stock. Emulsions tend to differ more in the toe and shoulder areas than they do in the straight line portion of the characteristic curve.
+
+Also, a solid black and a pure white would narrow the threshold of adjustment on a wave-form monitor. It is difficult to set a pure black-and-white reference precisely at 7.5 and 100 IRE (0 and 700mv) respectively when you’re operating low on the toe and high on the shoulder. There’s also the effect of lens flair to consider with only a solid black bottom reference. Even though the finish of the card (as is true of most high quality gray cards) is as matte as possible. there is always going to be the possibility of some slight glare. Some people also put an absolute black (nonreflective) reference such as fuzzy Velcro or good quality velvet on the chart and then ask the colorist to place that chip at absolute black of the color system. If video and high def Reflectance od 2
+
+12.25. A color chart and gray scale.
+
+(Photo courte sy of FotoKem Film and Vide you set * black velvet patch at 7.5 IRE (0 my), the 3% dark patches on the GC+ should read around 15 [RE (100 my).
+
+he Higpest problem with any gray card reference is the way It’s shot. With uneven lighting on the card or a hasty shot in the scene with little relevance to the lighting, there’s no way a gray card can serve as an accurate reference. A gray card should be shot out of the scene and lit specifically as a grading reference or as an exposure reference to dehaneatae transfer points. For example, suppose you are lighting a scene with the key as moonlight blue which you intend to be very dark and shadowy (Figure 12.25).
+
+If you then place the gray card in this moonlight blue and shoot it, the colorist or film timer (absent other instructions) would have no choice but to make the gray card “neutral ine as it Is sup posed te be. This would be done by taking out all of the blue and raising tl exposure to lighten it up. Thus everything shes have tried to do th the lighting would be erased. The proper way to shoot a gray card reference is this:
+
+For a tungsten lit scene: position the gray card so it fills all or most of the frame. Have your gaffer light it with a unit that is as near to pure 3200° Kelvin as possible. Make sure there are no filters on the light and it is not on a dimmer. The light should cover the card as evenly as possible, without shadows. No other colors of light should be leaking onto the card from elsewhere in the scene. Make sure that the camera filtration is neutral also: remove any effects filters you have on. Meter the gray card without regard to your metering of the scene. For real precision it is best to ‘take both an incident reading right at the card and also a reflected reading w th the spot meter. They should agree. Shoot the card at that stop. Shoot several seconds, but there is no need to get carried away. The telecine opera tor will freeze the frame on the card and make adjustments. Simi larly, the film timer can stop the film on the Hazeltine machine. They don’t try to do it “on the fly If you are shooting daylight balance follow all of the above instruc tions but make sure your gray scale light 1s 5500° Kelvin, The ideal situation is to light the gray card (or gray scale or color chart) so that the exposure on it is exactly the same as the stop at which you 12.26. Framing chart for video, film TV transmitted area Save aperte.Ls 2? 1.85 and High Def. (Photo courtesy —_ of Mako Kowai.)
+
+are going to shoot the scene. Then it becomes a two step procedure.
+
+Shoot the gray card as outlined above. Move the gray card and shoot a few seconds of the scene as you have it lit — color gels, camera filters back in, etc. This gives the colorist not only a neutral reference, but also shows the scene in relation to that neutral reference.
+
+It is mostly psychological — it is way of showing the timer; “Yes, | really meant for it to look that way.”
+
+The exception to all of the above is when the card is to serve as a guide for color correction, e.g., fluorescent lighting without camera filter correction, no 85 filter outdoors, etc. For example, if you are shooting under fluorescents and you want the lab or the telecine operator to remove the green and make the lighting neutral, then by all means make sure that the “contaminated” source is what is lighting the gray card. This is much more exact and under your control than just writing “correct for fluorescent” on the camera report, although you must always note it on the report as well.
+
+Use of a gray card or gray scale in this way applies equally to both NTSC and PAL video transfers, analog or digital. Gray scales are just as helpful as gray cards and should be lit and shot in the same way. Color charts are also useful but not nearly as much as a neutral gray reference, the reason being that a gray reference can be quantified on the waveform and vectorscope.
+
+Even though charts such as the Macbeth color chart are produced under rigorous conditions, and extremely accurate, they have one flaw: the timer or colorist has no direct reference. Unless he or she has the same color chart in the room. there is no way to know how a it is supposed to look. Even in this case, the lighting in the telecine gyi el ae room would not match what is on the set — remember metamer- 7 or zoom axis. ism. Other ways of communicating with the colorist or timer include Polaroids, references to photographs from magazines (which you send over), notes on the slate or camera report, phone calls and even audio tapes with commentary.
+
+FRAMING CHARTS | Another part of your vision that you need to protect with references is the framing. Without a reference on the film, the telecine colorist has no way of knowing for certain what your exact framing Is.
+
+Remember that he can move the frame up/down, left/right and zoom video and high def

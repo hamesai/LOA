@@ -1,0 +1,1887 @@
+CHAPTER 6 The Relation of Shot to Shot: Editing
+
+ 
+
+ 
+
+Since the 1920s, when film theorists began to realize what editing can achieve, it has been the most widely discussed film technique. This hasn’t been all to the good, for some writers have mistakenly found in editing the key to good cinema (or even all cinema). Yet many films, particularly in the period before 1904, consist of only one shot and hence do not depend on editing at all. There are major films from the 1910s, such as Victor Sjöström’s Ingeborg Holm, that consist largely of single-take scenes that rely on subtle manipulations of mise-en-scene. Experimental films sometimes deemphasize editing by making each shot as long as the amount of film a camera will hold, as with Michael Snow’s La Région centrale and Andy Warhol’s Eat, Sleep, and Empire. Such films are not necessarily less “cinematic” than others that rely heavily on editing.
+
+Still, we can see why editing has exercised such an enormous fascination for film aestheticians, for as a technique it’s very powerful. The ride of the Klan in The Birth of a Nation, the Odessa Steps sequence in Potemkin, the hunt sequence in The Rules of the Game, the shower murder in Psycho, the diving sequence in Olympia, Clarice Starling’s discovery of the killer’s lair in The Silence of the Lambs, the tournament sequence in Lancelot du Lac, the reconstruction of the Dallas assassination in JFK—all of these celebrated moments derive much of their effect from editing.
+
+Perhaps even more important, however, is the role of editing within an entire film’s stylistic system. Today’s Hollywood film typically contains between 1000 and 2000 shots; an action-based movie can have 3000 or more. This fact alone suggests that editing strongly shapes viewers’ experiences, even if they aren’t aware of it. Editing contributes a great deal to a film’s organization and its effects on spectators.
+
+“Editing is the basic creative force, by power of which the soulless photographs (the separate shots) are engineered into living, cinematographic form.”
+
+— V. I. Pudovkin, director
+
+ 
+
+What Is Editing?
+
+Editing may be thought of as the coordination of one shot with the next. As we have seen, in film production a shot is one or more exposed frames in a series on a continuous length of film stock. The film editor eliminates unwanted footage, usually by discarding all but the best take. The editor also cuts superfluous frames, such as those showing the clapboard (p. 21), from the beginnings and endings of shots. She or he then joins the desired shots, the end of one to the beginning of another.
+
+These joins can be of different sorts. A fade-out gradually darkens the end of a shot to black, and a fade-in accordingly lightens a shot from black. A dissolve briefly superimposes the end of shot A and the beginning of shot B (6.1–6.3). In a wipe, shot B replaces shot A by means of a boundary line moving across the screen (6.4). Here both images are briefly on the screen at the same time, but they do not blend, as in a dissolve. In the production process, fades, dissolves, and wipes are optical effects and are marked as such by the editor. They are typically executed in the laboratory or, more recently, through digital manipulation.
+
+ 
+
+6.1 The first shot of The Maltese Falcon leads to …
+
+ 
+
+ 
+
+ 
+
+6.2 … a dissolve to …
+
+ 
+
+ 
+
+ 
+
+6.3 … the second shot.
+
+ 
+
+ 
+
+ 
+
+6.4 A wipe joins the last shot of one scene with the first of the next in Seven Samurai.
+
+ 
+
+ 
+
+The most common means of joining two shots is the cut. Until the rise of digital editing in the 1990s, a cut was made by splicing two shots together by means of film cement or tape. Some filmmakers “cut” during filming by planning for the film to emerge from the camera ready for final showing. Here the physical junction from shot to shot is created in the act of shooting. Such editing in the camera, however, is rare and is mainly confined to experimental and amateur filmmaking. Editing after shooting is the norm. Today most editing is done on computer, using footage stored on tape or a hard drive, so that the cuts (or edits, in video terminology) can be made without touching film. The final version of the film is prepared for printing by cutting and splicing the negative footage.
+
+As viewers, we perceive a shot as an uninterrupted segment of screen time, space, or graphic configurations. Fades, dissolves, and wipes are perceived as gradually eliminating one shot and replacing it with another. Cuts are perceived as instantaneous changes from one shot to another.
+
+“You can definitely help performances in the cutting room, by intercutting reaction, maybe re-recording lines, adding lines over reaction shots. And you can help a film’s structure by moving sequences about and dropping scenes that hold up pacing. And sometimes you can use bits and pieces from different takes, which also helps a lot. What you can do in the editing room to help a film is amazing.”
+
+— Jodie Foster, actor and director
+
+ 
+
+Consider four shots from the first attack on Bodega Bay in Alfred Hitchcock’s The Birds
+(6.5–6.8):
+
+Medium shot, straight-on angle. Melanie, Mitch, and the Captain standing by the restaurant window talking. Melanie on extreme right, bartender in background (6.5).
+
+Medium close-up. Melanie by the Captain’s shoulder. She looks to right (out offscreen window) and up, as if following with her eyes. Pan right with her as she turns to window and looks out (6.6).
+
+Extreme long shot. Melanie’s point of view. Gas station across street, phone booth in left foreground. Birds dive-bomb attendant, right to left (6.7).
+
+Medium close-up. Melanie, profile. The Captain moves right into shot, blocking out bartender; Mitch moves right into extreme foreground. All in profile look out window (6.8).
+
+ 
+
+6.5 The Birds: shot 1.
+
+ 
+
+ 
+
+ 
+
+6.6 The Birds: shot 2.
+
+ 
+
+ 
+
+ 
+
+6.7 The Birds: shot 3.
+
+ 
+
+ 
+
+ 
+
+6.8 The Birds: shot 4.
+
+ 
+
+ 
+
+Each of these four shots presents a different segment of time, space, and pictorial information. The first shot shows three people talking. An instantaneous change—a cut—shifts us to a medium close-up shot of Melanie. Here space has changed (Melanie is isolated and larger in the frame), time is continuous, and the graphic configurations have changed (the arrangements of the shapes and colors vary). Another cut takes us instantly to what she sees. The gas station shot (6.7) presents a very different space, a successive bit of time, and a different graphic configuration. Another cut returns us to Melanie (6.8), and again we are shifted instantly to another space, the next slice of time, and a different graphic configuration. Thus the four shots are joined by three cuts.
+
+Hitchcock could have presented the Birds scene without editing—as Jean Renoir might have done in a similar situation (5.170–5.172). Imagine a camera movement that frames the four people talking, tracks in and rightward to Melanie as she turns, pans rightward to the window to show the dive-bombing gull, and pans leftward back to catch the group’s expressions. This would constitute one shot. The camera movements, no matter how fast, would not present the marked and abrupt shifts that cuts produce. Now imagine a deep-space composition of the sort that Orson Welles might have used (5.39), presenting Mitch in the foreground, Melanie and the window in the middle ground, and the gull attack in the distance. Again, the scene could now be played in one shot, for we would have no abrupt change of time or space or graphics. And the movements of the figures would not yield the jumps in time, space, and composition provided by editing.
+
+Although many films today are shot with several cameras running simultaneously, throughout film history most sequences have been shot with only one camera. In the Birds scene, for example, the shots were taken at different times and places—one (shot 3) outdoors, the others in a sound stage (and these perhaps on different days). A film editor thus must assemble a large and varied batch of footage. To ease this task, most filmmakers plan for the editing phase during the preparation and shooting phases. Shots are filmed with an idea of how they will eventually fit together. In fictional filming, scripts and storyboards help plan editing, while documentary filmmakers often shoot with an eye to how the footage will be cut.
+
+Dimensions of Film Editing
+
+Editing offers the filmmaker four basic areas of choice and control:
+
+Graphic relations between shot A and shot B
+
+Rhythmic relations between shot A and shot B
+
+Spatial relations between shot A and shot B
+
+Temporal relations between shot A and shot B
+
+Graphic and rhythmic relationships are present in the editing of any film. Spatial and temporal relationships may be irrelevant to the editing of films using abstract form (p. 368), but they are present in the editing of films built out of nonabstract images (that is, the great majority of motion pictures). Let’s trace the range of choice and control in each area.
+
+Graphic Relations Between Shot A and Shot B
+
+The four shots from The Birds may be considered purely as graphic configurations, as patterns of light and dark, line and shape, volumes and depths, movement and stasis—independent of the shots’ relation to the time and space of the story. For instance, Hitchcock did not drastically alter the overall brightness from shot to shot, because the scene takes place during the day. But if the scene had been set at night, he could have cut from the uniformly lit second shot in the bar (6.6, Melanie turning to the window) to a shot of the gas station swathed in darkness. Moreover, Hitchcock usually keeps the most important part of the composition roughly in the center of the frame. (Compare Melanie’s position in the frame with that of the gas station in 6.7.) He could, however, have cut from a shot in which Melanie was in, say, upper frame left to a shot locating the gas station in the lower right of the frame.
+
+Hitchcock also plays off certain color differences. Melanie’s hair and outfit make her a predominantly yellow and green figure, whereas the shot of the gas station is dominated by drab grays set off by touches of red in the gas pumps. Alternatively, Hitchcock could have cut from Melanie to another figure composed of similar colors. Furthermore, the movement in Melanie’s shot—her turning to the window—does not blend into the movements of either the attendant or the gull in the next shot, but Hitchcock could have echoed Melanie’s movement in speed, direction, or frame placement by movement in the next shot.
+
+In short, editing together any two shots permits the interaction, through similarity and difference, of the purely pictorial qualities of those two shots. The four aspects of mise-en-scene (lighting, setting, costume, and the behavior of the figures in space and time) and most cinematographic qualities (photography, framing, and camera mobility) all furnish potential graphic elements. Thus every shot provides possibilities for purely graphic editing, and every cut creates some sort of graphic relationship between two shots.
+
+Graphics may be edited to achieve smooth continuity or abrupt contrast. The filmmaker may link shots by graphic similarities, thus making a graphic match. Shapes, colors, overall composition, or movement in shot A may be picked up in the composition of shot B. A minimal instance is the cut that joins the first two shots of David Byrne’s True Stories
+(6.9, 6.10). More dynamic graphic matches appear in Akira Kurosawa’s Seven Samurai. After the samurai have first arrived at the village, an alarm sounds and they race to discover its source. Kurosawa cuts together six shots of different running samurai, which he dynamically matches by means of composition, lighting, setting, figure movement, and panning camera movement. (We show the first three in 6.11–6.13.)
+
+ 
+
+6.9 A shot from True Stories showing the Texas horizon midway up the frame is graphically matched …
+
+ 
+
+ 
+
+ 
+
+6.10 … with a shot where the waterline of ancient seas is in the same position.
+
+ 
+
+ 
+
+ 
+
+6.11 Seven Samurai.
+
+ 
+
+ 
+
+ 
+
+6.12 Seven Samurai.
+
+ 
+
+ 
+
+ 
+
+6.13 Seven Samurai.
+
+ 
+
+ 
+
+Filmmakers often call attention to graphic matches at transitional moments (6.14–6.16). Such precise graphic matching is relatively rare. Still, as in the Birds shots, an approximate graphic continuity from shot A to shot B is typical of most narrative cinema. The director will usually strive to keep the center of interest roughly constant across the cut, to maintain the overall lighting level, and to avoid strong color clashes from shot to shot. In Juzo Itami’s Tampopo, an aspiring cook is trying to learn the secret of good noodles, and she questions a successful cook. Their confrontation is presented through head-on framings. Alternating shots keep each main character’s face in the right center of each frame (6.17, 6.18).
+
+ 
+
+6.14 In Aliens, the curved outline of Ripley’s sleeping face …
+
+ 
+
+ 
+
+ 
+
+6.15 … is graphically matched by means of a dissolve …
+
+ 
+
+ 
+
+ 
+
+6.16 … to the outline of the earth.
+
+ 
+
+ 
+
+ 
+
+6.17 The woman and her friend, the cowboy truck driver …
+
+ 
+
+ 
+
+ 
+
+6.18 … confront the enraged cook and his assistants. The key characters are made prominent by being placed in the same area of each shot.
+
+ 
+
+ 
+
+Editing need not be graphically continuous. Mildly discontinuous editing may appear in widescreen compositions organized around characters facing one another. A scene from Quentin Tarantino’s Pulp Fiction places the two hitmen opposite each other in a restaurant booth, each framed distinctly off-center (6.19, 6.20). Compared to the Tampopo example, the cut here creates greater graphic discontinuity. Note, however, that the cut does balance the frame area from shot to shot: each man fills the space left empty in the previous shot. In addition, each man’s face is just above the horizontal center of each frame, so that the spectator’s eye can easily adjust to the changing composition.
+
+ 
+
+6.19 As Tarantino cuts between Vincent and …
+
+ 
+
+ 
+
+ 
+
+6.20 … Jules, our eye must move back and forth across the screen.
+
+ 
+
+ 
+
+Graphically discontinuous editing can be more noticeable. Orson Welles frequently sought a clash from shot to shot, as in Citizen Kane when the dark long shot of Kane’s bedroom is followed by the bright opening title of the “News on the March” reel. Similarly, in Touch of Evil, Welles dissolves from a shot of Menzies looking out a window on frame right (6.21) to a shot of Susan Vargas looking out a different window on frame left (6.22). The clash is further accentuated by the contrasting screen positions of the window reflections. Alain Resnais’s Night and Fog began something of a fad by utilizing an extreme but apt graphic conflict: color footage of an abandoned concentration camp today is cut together with black-and-white newsreel shots of the camps in the period 1942–1945. Resnais balanced the color/black-and-white contrasts by finding striking similarities in shape, as when a tracking shot of fence posts graphically matches a low-angle shot of marching Nazi legs.
+
+ 
+
+6.21 Touch of Evil: graphic discontinuity.
+
+ 
+
+ 
+
+ 
+
+6.22 Touch of Evil.
+
+ 
+
+ 
+
+Later in the Birds sequence, Hitchcock employs conflict of graphic qualities. Gasoline spurting from the pump has flowed across the street to a parking lot, and Melanie, along with several other people at the restaurant window, has seen a man accidentally set the gasoline alight. His car ignites, and an explosion of flame engulfs him. What we see next is Melanie watching helplessly as the flame races along the trail of gas toward the station. Hitchcock cuts the shots as shown in 6.23–6.33:
+
+ 
+
+ 
+
+ 
+
+6.23 The Birds: shot 30.
+
+ 
+
+ 
+
+ 
+
+6.24 The Birds: shot 31.
+
+ 
+
+ 
+
+ 
+
+6.25 The Birds: shot 32.
+
+ 
+
+ 
+
+ 
+
+6.26 The Birds: shot 33.
+
+ 
+
+ 
+
+ 
+
+6.27 The Birds: shot 34.
+
+ 
+
+ 
+
+ 
+
+6.28 The Birds: shot 35.
+
+ 
+
+ 
+
+ 
+
+6.29 The Birds: shot 36.
+
+ 
+
+ 
+
+ 
+
+6.30 The Birds: shot 37.
+
+ 
+
+ 
+
+ 
+
+6.31 The Birds: shot 38.
+
+ 
+
+ 
+
+ 
+
+6.32 The Birds: shot 39.
+
+ 
+
+ 
+
+ 
+
+6.33 The Birds: shot 40.
+
+ 
+
+ 
+
+In graphic terms, Hitchcock has exploited two possibilities of contrast. First, although each shot’s composition centers the action (Melanie’s head, the flaming trail), the movements thrust in different directions. In shot 31, Melanie looks to the lower left, whereas in shot 32, the fire moves to the upper left. In shot 33, Melanie is looking down center, whereas in shot 34, the flames still move to the upper left, and so on.
+
+More important—and what makes the sequence impossible to recapture on the printed page—is a crucial contrast of mobility and stasis. The shots of the flames present movement of both the subject (the flames rushing along the gas) and the camera (which pans to follow). But each shot of Melanie could be a still photograph, since each one is absolutely static. She does not turn her head in any shot, and the camera does not track in or away from her. We must infer the progress of her attention. By making movement conflict with countermovement and with stillness, Hitchcock has powerfully exploited the graphic possibilities of editing.
+
+Rhythmic Relations Between Shot A and Shot B
+
+Each shot, being a strip of film, is of a certain length, measured in frames, feet, or meters. And the shot’s physical length corresponds to a measurable duration onscreen. As we know, at sound speed, 24 frames last one second in projection. A shot can be as short as a single frame, or it may be thousands of frames long, running for many minutes when projected. Editing thus allows the filmmaker to determine the duration of each shot. When the filmmaker adjusts the length of shots in relation to one another, she or he is controlling the rhythmic potential of editing.
+
+Cinematic rhythm as a whole derives not only from editing but from other film techniques as well. The filmmaker relies on movement in the mise-en-scene, camera position and movement, the rhythm of sound, and the overall context to determine the editing rhythm. Nevertheless, the patterning of shot lengths contributes considerably to what we intuitively recognize as a film’s rhythm.
+
+CONNECT TO THE BLOG
+
+Some analysts study rhythm in film by calculating average shot lengths across sequences of films. For more on that, see “My name is David, and I’m a frame-counter,” at www.davidbordwell.net/blog/?p=230.
+
+Sometimes the filmmaker will use shot duration to create a stressed, accented, moment. In one sequence of The Road Warrior, a ferocious gang member butts his head against that of a victim. At the moment of contact, director George Miller cuts in a few frames of pure white. The result is a sudden flash that suggests violent impact. Alternatively, a shot’s duration can be used to deaccentuate an action. During test screenings of Raiders of the Lost Ark, Steven Spielberg discovered that after Indiana Jones shoots the gigantic swordsman, several seconds had to be added to allow the audience’s reaction to die down before the action could resume.
+
+More commonly, the rhythmic possibilities of editing emerge when several shot lengths form a discernible pattern. A steady beat can be established by making all of the shots approximately the same length. The filmmaker can also create a dynamic pace. Lengthening shots can gradually slow the tempo, while successively shorter shots can accelerate it.
+
+Consider how Hitchcock handles the tempo of the first gull attack in The Birds. Shot 1, the medium shot of the group talking (6.5), consumes almost a thousand frames, or about 41 seconds. But shot 2 (6.6), which shows Melanie looking out the window, is much shorter—309 frames (about 13 seconds). Even shorter is shot 3 (6.7), which lasts only 55 frames (about 2⅓ seconds). The fourth shot (6.8), showing Melanie joined by Mitch and the Captain, lasts only 35 frames (about 1½ seconds). Clearly, Hitchcock is accelerating the pace at the beginning of what will be a tense sequence.
+
+In what follows, Hitchcock makes the shots fairly short but subordinates the length of the shot to the rhythm of the dialogue and the movement in the images. As a result, shots 5–29 (not shown here) have no fixed pattern of lengths. But once the essential components of the scene have been established, Hitchcock returns to strongly accelerating cutting.
+
+In presenting Melanie’s horrified realization of the flames racing from the parking lot to the gas station, shots 30–40 (6.23–6.33) climax the rhythmic intensification of the sequence. As the description on page 228 shows, after the shot of the spreading flames (shot 30, 6.23), each shot decreases in length by 2 frames, from 20 frames (⅘ of a second) to 8 frames (⅓ of a second). Two shots, 38 and 39, then punctuate the sequence with almost identical durations (a little less than 1½ seconds apiece). Shot 40 (6.33), a long shot that lasts over 600 frames, functions as both a pause and a suspenseful preparation for the new attack. The scene’s variations in rhythm alternate between rendering the savagery of the attack and generating suspense as we await the next onslaught.
+
+“I noticed a softening in American cinema over the last twenty years, and I think it’s a direct influence of TV. I would even say that if you want to make movies today, you’d be better off studying television than film because that’s the market. Television has diminished the audience’s attention span. It’s hard to make a slow, quiet film today. Not that I would want to make a slow, quiet film anyway!”
+
+— Oliver Stone, director
+
+ 
+
+We have had the luxury of counting frames on the actual strip of film. The theater viewer cannot do this, but she or he does feel the shifting tempo in this sequence because of the changing shot durations. In general, by controlling editing rhythm, the filmmaker controls the amount of time we have to grasp and reflect on what we see. A series of rapid shots, for example, leaves us little time to think about what we’re watching. In the Birds sequence, Hitchcock’s editing impels the viewer’s perception to move at a faster and faster pace. Quickly grasping the progress of the fire and understanding Melanie’s changes in position become essential factors in the rising excitement of the scene.
+
+Hitchcock is not, of course, the only director to use rhythmic editing. Its possibilities were initially explored by such directors as D. W. Griffith (especially in Intolerance) and Abel Gance. In the 1920s, the French Impressionist filmmakers and the Soviet Montage school explored the rhythmic possibilities of strings of short shots (pp. 463–466, 467–469). When sound films became the norm, pronounced rhythmic editing survived in dramas such as Lewis Milestone’s All Quiet on the Western Front and in musical comedies and fantasies such as René Clair’s À Nous la liberté and Le Million, Rouben Mamoulian’s Love Me Tonight, and Busby Berkeley’s dance sequences in 42nd Street and Footlight Parade.
+
+“[In editing The Dark Knight for both 35mm and Imax presentation], we needed to extensively test to ensure that the cuts were not so quick that the audience would get disoriented, looking at that Imax screen, and at the same time not interfere with the pace of the standard cinema version.”
+
+— Lee Smith, editor
+
+ 
+
+Spatial Relations Between Shot A and Shot B
+
+Editing usually serves not only to control graphics and rhythm but also to construct film space. Exhilaration in this newly discovered power can be sensed in the writings of such filmmakers as the Soviet director Dziga Vertov: “I am Kino-eye. I am builder. I have placed you … in an extraordinary room which did not exist until just now when I also created it. In this room there are twelve walls, shot by me in various parts of the world. In bringing together shots of walls and details, I’ve managed to arrange them in an order that is pleasing.”
+
+Such elation is understandable. Editing permits the filmmaker to juxtapose any two points in space and thus imply some kind of relationship between them.
+
+The director might, for instance, start with a shot that establishes a spatial whole and follow this with a shot of a part of this space. This is what Hitchcock does in shot 1 and shot 2 of the Birds sequence (6.5, 6.6): a medium long shot of the group of people followed by a medium shot of only one, Melanie. Such analytical breakdown is a very common editing pattern.
+
+Alternatively, the filmmaker could construct a whole space out of component parts. Hitchcock does this later in the Birds sequence. Note that in 6.5–6.8 and in shots 30–39 (6.23–6.32), we do not see an establishing shot including Melanie and the gas station. In production, the restaurant window need not have been across from the station at all; they could have been filmed in different towns or even countries. Yet we are compelled to believe that Melanie is across the street from the gas station. The bird cry offscreen and the mise-en-scene (the window and Melanie’s sideways glance) contribute considerably as well. Still, the editing plays a major role in creating the spatial whole of restaurant-and-gas-station.
+
+Such spatial manipulation through cutting is fairly common. In documentaries compiled from newsreel footage, for example, one shot might show a cannon firing, and another shot might show a shell hitting its target; we infer that the cannon fired the shell, though the shots may show entirely different battles. Again, if a shot of a speaker is followed by a shot of a cheering crowd, we assume a spatial coexistence.
+
+The possibility of such spatial manipulation was examined by the Soviet filmmaker Lev Kuleshov. During the 1920s, Kuleshov conducted informal experiments by assembling shots of separate dramatic elements. The most famous of these experiments involved cutting neutral shots of an actor’s face with other shots (variously reported as shots of soup, nature scenes, a dead woman, and a baby). The reported result was that the audience immediately assumed that the actor’s expression changed and that the actor was reacting to things present in the same space as himself. Similarly, Kuleshov cut together shots of actors “looking at each other” but on Moscow streets miles apart, then meeting and strolling together—and looking at the White House in Washington. Although filmmakers had used such cutting before Kuleshov’s work, film scholars call the Kuleshov effect any series of shots that in the absence of an establishing shot prompts the spectator to infer a spatial whole on the basis of seeing only portions of the space.
+
+CONNECT TO THE BLOG
+
+For more on why the Kuleshov effect works so well and on how it has been used in some older and more recent films, see “What happens between shots happens between your ears,” at www.davidbordwell.net/blog/?p=1861.
+
+The Kuleshov effect can conjure up robust cinematic illusions. In Corey Yuen’s Legend of Fong Sai-Yuk, a martial-arts bout between the hero and an adept woman begins on a platform but then moves into the audience—or rather, onto the audience. The two fight while balancing on the heads and shoulders of the crowd. Yuen’s rapid editing conveys the scene’s point by means of the Kuleshov effect (6.34, 6.35). (In production, this meant that the combatants could be hung on wires or bars suspended outside the frame, as in 6.35.) Across many shots, Yuen provides only a few brief full-figure framings showing Fong Sai-Yuk and the woman.
+
+ 
+
+6.34 In The Legend of Fong Sai-Yuk, a shot of the woman’s upper body is followed by …
+
+ 
+
+ 
+
+ 
+
+6.35 … a shot of her legs and feet, supported by unwilling bystanders.
+
+ 
+
+ 
+
+“Editing is very interesting and absorbing work because of the illusions you can create. You can span thirty years within an hour and a half. You can stretch a moment in slow motion. You can play with time in extraordinary ways.”
+
+— Paul Hirsch, editor
+
+ 
+
+While the viewer doesn’t normally notice the Kuleshov effect, a few films call attention to it. Carl Reiner’s Dead Men Don’t Wear Plaid mixes footage filmed in the present with footage from Hollywood movies of the 1940s. Thanks to the Kuleshov effect, Dead Men creates unified scenes in which Steve Martin converses with characters who were originally featured in other films. In A Movie, Bruce Conner makes a joke of the Kuleshov effect by cutting from a submarine captain peering through a periscope to a woman gazing at the camera, as if they could see each other (6.36, 6.37).
+
+ 
+
+6.36 In A Movie, a shot from one film leads to …
+
+ 
+
+ 
+
+ 
+
+6.37 … a shot from another, creating a visual joke.
+
+ 
+
+ 
+
+In the Kuleshov effect, editing cues the spectator to infer a single locale. Editing can also emphasize action taking place in separate places. In Intolerance, D. W. Griffith cuts from ancient Babylon to Gethsemane and from France in 1572 to America in 1916. Such parallel editing, or crosscutting, is a common way films construct a variety of spaces.
+
+More radically, the editing can present spatial relations as being ambiguous and uncertain. In Carl Dreyer’s La Passion de Jeanne d’Arc, for instance, we know only that Jeanne and the priests are in the same room. Because the neutral white backgrounds and the numerous close-ups provide no orientation to the entire space, we can seldom tell how far apart the characters are or precisely who is beside whom. We’ll see later how films can create even more extreme spatial discontinuities.
+
+Temporal Relations Between Shot A and Shot B
+
+Like other film techniques, editing can control the time of the action denoted in the film. In a narrative film especially, editing usually contributes to the plot’s manipulation of story time. You will recall that Chapter 3 pointed out three areas in which plot time can cue the spectator to construct the story time: order, duration, and frequency. Our Birds example (6.5–6.8) shows how editing reinforces all three areas of control.
+
+First, there is the order of presentation of events. The men talk, then Melanie turns away, then she sees the gull swoop, then she responds. Hitchcock’s editing presents these story events in the 1-2-3-4 order of his shots. But he could have shuffled the shots into any order at all, even reverse (4-3-2-1). This is to say that the filmmaker may control temporal succession through the editing.
+
+Such manipulation of events leads to changes in story–plot relations. We are most familiar with such manipulations in flashbacks, which present one or more shots out of their presumed story order. In Hiroshima mon amour, Resnais uses the protagonist’s memory to motivate a violation of temporal order. Three shots (6.38–6.40) suggest visually that the position of her current lover’s hand triggers a recollection of another lover’s death years before. In contemporary cinema, brief flashbacks to key events may brutally interrupt present-time action. The Fugitive uses this technique to return obsessively to the murder of Dr. Kimball’s wife, the event that initiated the story’s action.
+
+ 
+
+6.38 In Hiroshima mon amour, a view of the protagonist’s Japanese lover asleep is followed by …
+
+ 
+
+ 
+
+ 
+
+6.39 … a shot of her looking at him, leading to …
+
+ 
+
+ 
+
+ 
+
+6.40 … a flashback of her dead German lover’s hand.
+
+ 
+
+ 
+
+A much rarer option for reordering story events is the flash-forward. Here the editing moves from the present to a future event and then returns to the present. A small-scale instance occurs in The Godfather. Don Vito Corleone talks with his sons Tom and Sonny about their upcoming meeting with Sollozzo, the gangster who is asking them to finance his narcotics traffic. As the Corleones talk in the present, shots of them are interspersed with shots of Sollozzo going to the meeting in the future (6.41–6.43). The editing is used to provide exposition about Sollozzo while also moving quickly to the Don’s announcement, at the gangsters’ meeting, that he will not involve the family in the drug trade.
+
+ 
+
+6.41 In The Godfather, the Corleones discuss their upcoming meeting with Sollozzo.
+
+ 
+
+ 
+
+ 
+
+6.42 Flash-forward: Sollozzo arrives at the meeting, greeted by Sonny.
+
+ 
+
+ 
+
+ 
+
+6.43 The next few shots return us to the family conversation, where Don Vito ponders what he will tell Sollozzo.
+
+ 
+
+ 
+
+Filmmakers may use flash-forwards to tease the viewer with glimpses of the eventual outcome of the story action. The end of They Shoot Horses, Don’t They? is hinted at in brief shots that periodically interrupt scenes in the present. Such flash-forwards create a sense of a narration with a powerful range of story knowledge.
+
+We may assume, then, that if a series of shots traces a 1-2-3 order in the presentation of story events, it is because the filmmaker has chosen to do that, not because of any necessity of following this order.
+
+Editing also offers ways for the filmmaker to alter the duration of story events as presented in the film’s plot. Elliptical editing presents an action in such a way that it consumes less time on the screen than it does in the story. The filmmaker can create an ellipsis in three principal ways.
+
+Suppose a director wants to show a man climbing a flight of stairs but doesn’t want to show the entire duration of his climb. The director could use a conventional punctuation shot change, such as a dissolve or a wipe or a fade. In the classical filmmaking tradition, such a device signals that some time has been omitted. Our director could simply dissolve from a shot of the man starting at the bottom of the stairs to a shot of him reaching the top.
+
+Alternatively, the filmmaker could show the man at the bottom of the staircase, let him walk up out of the frame, hold briefly on the empty frame, then cut to an empty frame of the top of the stairs and let the man enter the frame. The empty frames on either side of the cut cover the elided time.
+
+Also, the filmmaker can create an ellipsis by means of a cutaway: a shot of another event elsewhere that will not last as long as the elided action. In our example, the director might start with the man climbing but then cut away to a woman in her apartment. We could then cut back to the man much farther along in his ascent.
+
+“I saw Toto the Hero, the first film of the Belgian ex-circus clown Jaco van Dormael. What a brilliant debut. He tells the story with the camera. His compression and ellipses and clever visual transitions make it one of the most cinematic movies in a long time. The story spans a lifetime and kaleidoscopic events with such a lightness and grace that you want to get up and cheer.”
+
+— John Boorman, director
+
+ 
+
+“[In editing James Bond films], we also evolved a technique that jumped continuity by simple editing devices. Bond would take a half-step towards a door and you would pick him up stepping into the next scene. We also used inserts cleverly to speed up a scene.”
+
+— John Glen, editor and director
+
+ 
+
+It’s also possible to expand story time. If the action from the end of one shot is partly repeated at the beginning of the next, we have overlapping editing. This prolongs the action, stretching it out past its story duration. The Russian filmmakers of the 1920s made frequent use of temporal expansion through such overlapping editing, and no one mastered it more thoroughly than Sergei Eisenstein. In Strike, when factory workers bowl over a foreman with a large wheel hanging from a crane, two shots expand the action (6.44–6.46). In October, Eisenstein overlaps several shots of rising bridges in order to stress the significance of the moment.
+
+ 
+
+6.44 In Strike, a wheel swings toward the foreman …
+
+ 
+
+ 
+
+ 
+
+6.45 … then swings toward him again …
+
+ 
+
+ 
+
+ 
+
+6.46 … and then again before striking him.
+
+ 
+
+ 
+
+CONNECT TO THE BLOG
+
+Sit in on an editing session for Johnnie To’s Mad Detective, and see some of the final cuts from the film in “Truly madly cinematically.”
+
+See
+www.davidbordwell.net/blog/?p=2155.
+
+We’re accustomed to seeing a scene present action only once. Occasionally, however, a filmmaker may go beyond expanding an action to repeat it in its entirety. The very rarity of this technique may make it a powerful editing resource. In Bruce Conner’s Report, there is a newsreel shot of John and Jacqueline Kennedy riding a limousine down a Dallas street. The shot is systematically repeated, in part or in whole, over and over, building up tension in our expectations as the shot seems to move by tiny increments closer to the moment of the inevitable assassination. Occasionally in Do The Right Thing, Spike Lee cuts together two takes of the same action, as when we twice see a garbage can fly through the air and break the pizzeria window at the start of the riot. Jackie Chan often shows his most virtuosic stunts three or four times in a row from different angles to allow the audience to marvel at his daring (6.47–6.49).
+
+ 
+
+6.47 In Police Story, chasing the gangsters through a shopping mall, Jackie Chan leaps onto a pole several stories above them …
+
+ 
+
+ 
+
+ 
+
+6.48 … and slides down in a shower of exploding lights.
+
+ 
+
+ 
+
+ 
+
+6.49 Cut to a new angle: Jackie leaps again, leading to an instant replay of the risky stunt.
+
+ 
+
+ 
+
+Graphics, rhythm, space, and time, then, are at the service of the filmmaker through the technique of editing. They offer potentially unlimited creative possibilities. Yet most films we see make use of a very narrow set of editing possibilities—so narrow, indeed, that we can speak of a dominant editing style throughout film history. This is what is usually called continuity editing. Still, the most familiar way to edit a film isn’t the only way to edit a film, and so we’ll also consider some alternatives to continuity editing.
+
+Continuity Editing
+
+Around 1900–1910, as filmmakers started to use editing, they sought to arrange their shots so as to tell a story coherently and clearly. Thus editing, supported by specific strategies of cinematography and mise-en-scene, was used to ensure narrative continuity. So powerful is this style that, even today, anyone working in narrative filmmaking around the world is expected to be familiar with it.
+
+As its name implies, the basic purpose of the continuity system is to allow space, time, and action to flow over a series of shots. All of the possibilities of editing we have already examined are turned to this end. First, graphic qualities are usually kept roughly continuous from shot to shot. The figures are balanced and symmetrically deployed in the frame; the overall lighting tonality remains constant; the action occupies the central zone of the screen.
+
+Second, the rhythm of the cutting is usually made dependent on the camera distance of the shot. Long shots are left on the screen longer than medium shots, and medium shots are left on longer than close-ups. The assumption is that the spectator needs more time to take in the shots containing more details. In scenes of physical action like the fire in The Birds, accelerated editing rhythms may be present, but in general, shorter shots will tend to be closer views.
+
+Since the continuity style seeks to present a story, it’s chiefly through the handling of space and time that editing furthers narrative continuity.
+
+Spatial Continuity: The 180° System
+
+In the continuity style, the space of a scene is constructed along what is called variously the axis of action, the center line, or the 180° line. The scene’s action—a person walking, two people conversing, a car racing along a road—is assumed to take place along a clear-cut vector. This axis of action determines a half-circle, or 180° area, where the camera can be placed to present the action. Consequently, the filmmaker will plan, film, and edit the shots so as to respect this center line. The camera work and mise-en-scene in each shot will be manipulated to establish and reiterate the 180° space.
+
+Consider the bird’s-eye view in 6.50. We have a girl and a boy conversing. The axis of action is the imaginary line connecting the two people. Under the continuity system, the director would arrange the mise-en-scene and camera placement so as to establish and sustain this line. The camera can be put at any point as long as it stays on the same side of the line (hence the 180° term). A typical series of shots for coverage of the scene would be these: (1) a medium shot of the girl and boy, (2) a shot over the girl’s shoulder, favoring the boy, and (3) a shot over the boy’s shoulder, favoring the girl. But to cut to a shot from camera position X, or from any position within the tinted area, would be considered a violation of the system because it crosses the axis of action. Indeed, some handbooks of film directing call shot X flatly wrong. To see why, we need to examine what happens if a filmmaker follows the 180° system.
+
+ 
+
+6.50 A conversation scene and the axis of action.
+
+ 
+
+ 
+
+The 180° system ensures that relative positions in the frame remain consistent. In the shots taken from camera positions 1, 2, and 3, the characters occupy the same areas of the frame relative to each other. Even though we see them from different angles, the girl is always on the left and the boy is always on the right. But if we cut to shot X, the characters will switch positions in the frame. An advocate of traditional continuity would claim that shot X confuses us: Have the two characters somehow swiveled around each other?
+
+The 180° system ensures consistent eyelines. In shots 1, 2, and 3, the girl is looking right and the boy is looking left. Shot X violates this pattern by making the girl look to the left.
+
+The 180° system ensures consistent screen direction. Imagine now that the girl is walking left to right; her path constitutes the axis of action. As long as our shots do not cross this axis, cutting them together will keep the screen direction of the girl’s movement constant, from left to right. But if we cross the axis and film a shot from the other side, the girl will now appear on the screen as moving from right to left. Such a cut could be disorienting.
+
+Consider a similar situation to that in 6.50, a standard scene of two cowboys meeting for a shootout on a town street (6.51). Cowboy A and cowboy B form the 180° line, but here A is walking from left to right and B is approaching from right to left, both seen in the shot taken from camera position 1. A closer view, from camera position 2, shows B still moving from right to left. A third shot, from camera position 3, shows A walking, as he had been in the first shot, from left to right.
+
+ 
+
+6.51 A Western shootout and the axis of action.
+
+ 
+
+ 
+
+“… what I call ‘new brutalism’ in cinema … is a form of naïveté, because it’s made by people who I think don’t really have a grasp of cinema’s history. It’s the MTV kind of editing, where the main idea is that the more disorienting it is, the more exciting. And you see it creeping into mainstream cinema more and more. You look at something like Armageddon and you see all the things that would have been forbidden in classical cinema, like crossing the line, camera jumping from side to side. It is a way to artificially generate excitement, but it doesn’t really have any basis to it. And I find it kind of sad, because it’s like an old man trying to dress like a teenager.”
+
+— John Boorman, director
+
+ 
+
+But imagine that this third shot was instead taken from position X, on the opposite side of the line. A is now seen as moving from right to left. Has he taken fright and turned around while the second shot, of B, was on the screen? The filmmakers may want us to think that he is still walking toward his adversary, but the change in screen directions could make us think just the opposite. A cut to a shot taken from any point in the colored area would create this change in direction. Such breaks in continuity can be confusing.
+
+Even more disorienting would be crossing the line while establishing the scene’s action. In our shootout, if the first shot shows A walking from left to right and the second shot shows B (from the other side of the line) also walking left to right, we would probably not be sure that they were walking toward each other. The two cowboys would seem to be walking in the same direction at different points on the street, as if one were following the other. We would very likely be startled if they suddenly came face to face within the same shot.
+
+The 180° system prides itself on delineating space clearly. The viewer should always know where the characters are in relation to one another and to the setting. More important, the viewer always knows where he or she is with respect to the story action. The space of the scene, clearly and unambiguously unfolded, does not jar or disorient, because such disorientation, it is felt, will distract the viewer from the center of attention: the narrative chain of causes and effects.
+
+Continuity Editing in The Maltese Falcon
+
+We saw in Chapter 3 that the classical Hollywood mode of narrative subordinates time, motivation, and other factors to the cause–effect sequence. We also saw how mise-en-scene and camera work may present narrative material. Now we can note how, on the basis of the 180° principle, filmmakers have developed the continuity system as a way to build up a smoothly flowing space that remains subordinate to narrative action. Let’s consider a concrete example: the opening of John Huston’s film The Maltese Falcon.
+
+The scene begins in the office of detective Sam Spade. In the first two shots, this space is established in several ways. First, there is the office window (shot 1a, 6.52), from which the camera tilts down to reveal Spade (shot 1b, 6.53) rolling a cigarette. As Spade says, “Yes, sweetheart?” shot 2 (6.54) appears. This is important in several respects. It is an establishing shot, delineating the overall space of the office: the door, the intervening area, the desk, and Spade’s position. Note also that shot 2 establishes a 180° line between Spade and his secretary, Effie; Effie could be the girl in 6.50, and Spade could be the boy. The first phase of this scene will be built around staying on the same side of this 180° line.
+
+ 
+
+6.52 The Maltese Falcon: shot 1a.
+
+ 
+
+ 
+
+ 
+
+6.53 The Maltese Falcon: shot 1b.
+
+ 
+
+ 
+
+ 
+
+6.54 The Maltese Falcon: shot 2.
+
+ 
+
+ 
+
+Once laid out for us in the first two shots, the space is analyzed into its components. Shots 3 (6.55) and 4 (6.56) show Effie and Spade talking. Because the 180° line established at the outset is adhered to (each shot presents the two from the same side), we know their location and spatial relationships. In cutting together medium shots of the two, however, Huston relies on two other common tactics within the 180° system.
+
+ 
+
+6.55 The Maltese Falcon: shot 3.
+
+ 
+
+ 
+
+ 
+
+6.56 The Maltese Falcon: shot 4.
+
+ 
+
+ 
+
+CONNECT TO THE BLOG
+
+For thoughts on the importance of eyeline directions in a very different art form, see “The eyeline match goes way, way back.”
+
+See
+www.davidbordwell.net/blog/?p=3518.
+
+The first is the shot/reverse-shot pattern. Once the 180° line has been established, we can show first one end point of the line, then the other. Here we cut back and forth from Effie to Spade. A reverse shot is not literally the reverse of the first framing. It’s simply a shot of the opposite end of the axis of action, usually showing a three-quarters view of the subject. In our bird’s-eye view diagram (6.50), shots 2 and 3 form a shot/reverse-shot pattern, as 6.55 and 6.56 do here. Earlier examples in this chapter of shot/reverse-shot cutting are 6.17, 6.18 and 6.19, 6.20.
+
+The second tactic Huston uses here is the eyeline match. That is, shot A presents someone looking at something offscreen; shot B shows us what is being looked at. In neither shot are both looker and object present. In the Maltese Falcon opening, the cut from the shot of Effie (shot 3, 6.55) to the shot of Spade at his desk (shot 4, 6.56) is an eyeline match. The shots from The Birds of Melanie watching the bird attack and fire also create eyeline matches, as do the examples of editing balancing frame compositions (6.17, 6.18 and 6.19, 6.20).
+
+Note that shot/reverse-shot editing need not employ eyeline matches. You could film both ends of the axis in a shot/reverse-shot pattern without showing the characters looking at each other. (In 6.56, Spade is not looking at Effie.) On the whole, however, most shot/reverse-shot cuts also utilize the eyeline match.
+
+The eyeline match is a simple idea but a powerful one, since the directional quality of the eyeline creates a strong spatial continuity. To be looked at, an object must be near the looker. The eyeline match presumably created the effects Kuleshov identified in his construction of false spaces through editing. That is, the expressionless actor seems to be looking at whatever we see in the next shot, and the audience assumes that the actor is reacting accordingly.
+
+Within the 180° system, the eyeline match, like constant screen direction, can stabilize space. Note how in shot 3, Effie’s glance off right reiterates Spade’s position even though he is not onscreen. And though Spade does not look up after the cut to shot 4, the camera position remains adamantly on the same side of the axis of action (indeed, the position is virtually identical to that in shot 1b). We know that Effie is offscreen left. Thus the breakdown of the scene’s space is completely consistent. Thanks to the shot/reverse-shot pattern and the eyeline match, we understand the characters’ locations even when they aren’t in the same frame.
+
+The spatial consistency is reaffirmed in shot 5, which presents the same framing as did shot 2. The office is shown again (shot 5a, 6.57), when the new character, Brigid O’Shaughnessy, enters. Spade stands to greet her, and the camera reframes his movement by a slight tilt upward (shot 5b, 6.58). Shot 5 is a reestablishing shot, since it reestablishes the overall space that was analyzed into shots 3 and 4. The pattern, then, has been establishment/breakdown/reestablishment—one of the most common patterns of spatial editing in the classical continuity style.
+
+ 
+
+6.57 The Maltese Falcon: shot 5a.
+
+ 
+
+ 
+
+ 
+
+6.58 The Maltese Falcon: shot 5b.
+
+ 
+
+ 
+
+Let’s pause to examine how this pattern has functioned to advance the narrative. Shot 1 has suggested the locale and, more important, has emphasized the protagonist by linking him to the sign on the window. Offscreen sound and Spade’s “Yes, sweetheart?” motivate the cut to shot 2. This establishing shot firmly anchors shot 1 spatially. It also introduces the source of the offscreen sound—the new character, Effie. The shot changes at precisely the moment when Effie enters. We are thus unlikely to notice the cut, because our expectations lead us to want to see what happens next. The area near the door has been shown when the cause–effect chain makes it important, not before.
+
+Shots 3 and 4 present the conversation between Spade and Effie, and the shot/reverse shot and the eyeline match reassure us as to the characters’ locations. We may not even notice the cutting, since the style works to emphasize the dramatic flow of the scene—what Effie says and how Spade reacts. In shot 5, the overall view of the office is presented again, precisely at the moment when a new character enters the scene, and this in turn situates her firmly in the space. Thus narrative elements—the dialogue, the entrance of new characters—are emphasized by adhering to the 180° system. The editing subordinates space to action.
+
+We can trace the same procedures, with one additional variation, in the shots that follow. In shot 5, Brigid O’Shaughnessy enters Spade’s office. Shot 6 presents a reverse angle on the two of them as she comes toward him (shot 6a, 6.59). She sits down alongside his desk (shot 6b, 6.60). Up to this point, the 180° line has run between Spade and the doorway. Now the axis of action runs from Spade to the client’s chair by his desk. Once established, this new line will not be violated.
+
+ 
+
+6.59 The Maltese Falcon: shot 6a.
+
+ 
+
+ 
+
+ 
+
+6.60 The Maltese Falcon: shot 6b.
+
+ 
+
+ 
+
+The extra factor here is a third tactic for ensuring spatial continuity—the match on action, a very powerful device. Assume that a person starts to stand up in shot 1. We can wait until the character is standing up and has stopped moving before cutting to shot 2. But we can instead show the person’s movement beginning in shot 1, and then we can cut to shot 2, which shows the continuation of the movement. We would then have a match on action, the editing device that carries a movement across the break between two shots.
+
+To appreciate the skill involved in making a match on action, recall that most films are shot with a single camera. In filming shots whose action will be matched at the editing stage, it is possible that the first shot, in which the movement starts, will be filmed hours or days apart from the second, in which the movement is continued. Thus matching action is not simply a matter of cutting together two complete versions of the same scene from different vantage points. The director and the crew must keep notes about matters of camera work, mise-en-scene, and editing so that all the details can be fitted together in the assembly phase of production.
+
+In the Maltese Falcon scene, the cut from the end of shot 5 (6.58) to the beginning of shot 6 (6.59) uses a match on action, the action being Brigid’s walk toward Spade’s desk. Again, the 180° system aids in concealing the match, since it keeps screen direction constant: Brigid moves from left to right in both shots. As you’d expect, the match on action is a tool of narrative continuity. It takes a practiced eye to spot a smooth match on action; so powerful is our desire to follow the action flowing across the cut that we ignore the cut itself.
+
+Except for the match on action, the editing in the rest of the scene uses the same tactics we have already seen. When Brigid sits down, a new axis of action has been established (shot 6b, 6.60). This enables Huston to break down the space into closer shots (shots 7–13, 6.61–6.67). All of these shots use the shot/reverse-shot tactic: the camera frames, at an oblique angle, one end point of the 180° line, then frames the other. (Note the shoulders in the foreground of shots 7, 8, and 10—6.61, 6.62, and 6.64.) Here again, the editing of space presents the dialogue action simply and unambiguously.
+
+ 
+
+6.61 The Maltese Falcon: shot 7.
+
+ 
+
+ 
+
+ 
+
+6.62 The Maltese Falcon: shot 8.
+
+ 
+
+ 
+
+ 
+
+6.63 The Maltese Falcon: shot 9.
+
+ 
+
+ 
+
+ 
+
+6.64 The Maltese Falcon: shot 10.
+
+ 
+
+ 
+
+ 
+
+6.65 The Maltese Falcon: shot 11.
+
+ 
+
+ 
+
+ 
+
+6.66 The Maltese Falcon: shot 12.
+
+ 
+
+ 
+
+ 
+
+6.67 The Maltese Falcon: shot 13.
+
+ 
+
+ 
+
+Beginning with shot 12, Huston’s cuts also create eyeline matches. Spade looks off left at Brigid (shot 12, 6.66). She looks off left as the door is heard opening (shot 13, 6.67). Archer, just coming in, looks off right at them (shot 14, 6.68), and they both look off at him (shot 15, 6.69). The 180° rule permits us always to know who is looking at whom.
+
+ 
+
+6.68 The Maltese Falcon: shot 14.
+
+ 
+
+ 
+
+ 
+
+6.69 The Maltese Falcon: shot 15.
+
+ 
+
+ 
+
+Huston could have played the entire conversation in one long take, remaining with shot 6b (6.60). Why has he broken the conversation into seven shots? Most evidently, the analytical cutting controls our attention. We’ll look at Brigid or Spade at exactly the moment Huston wants us to. In the long take and the more distant framing, Huston would have to channel our attention in other ways, perhaps through staging or sound.
+
+Furthermore, the shot/reverse-shot pattern emphasizes the development of Brigid’s story and Spade’s reaction to it. As she gets into details, the cutting moves from over-the-shoulder shots (6.61, 6.62) to framings that isolate Brigid (6.63 and 6.65) and eventually one that isolates Spade (6.66). These shots come at the point when Brigid, in an artificially shy manner, tells her story, and the medium close-ups arouse our curiosity about whether she’s telling the truth. The shot of Spade’s reaction (6.66) suggests that he’s skeptical. In short, the analytical editing cooperates with framing and figure behavior to focus our attention on Brigid’s tale, to let us study her demeanor, and to get a hint as to Spade’s response.
+
+When Archer enters, the breakdown of the space stops for a moment, and Huston reestablishes the locale. Archer is integrated into the action by means of a rightward pan shot (shots 16a and 16b, 6.70 and 6.71). His path is consistent with the scene’s first axis of action, that running between Spade and the doorway. Moreover, the framing on him is similar to that used for Brigid’s entrance earlier. (Compare shot 16b with 6a [6.71 and 6.59].) Such repetitions allow the viewer to concentrate on the new information, not the manner in which it is presented.
+
+ 
+
+6.70 The Maltese Falcon: shot 16a.
+
+ 
+
+ 
+
+ 
+
+6.71 The Maltese Falcon: shot 16b.
+
+ 
+
+ 
+
+Now firmly established as part of the scene, Archer hitches himself up onto Spade’s desk. His position puts him at Spade’s end of the axis of action (shot 17, 6.72). The rest of the scene’s editing analyzes this new set of relationships without ever crossing the 180° line.
+
+ 
+
+6.72 The Maltese Falcon: shot 17.
+
+ 
+
+ 
+
+The viewer is not supposed to notice all this. Throughout, the shots present space to emphasize the cause–effect flow—the characters’ actions, entrances, dialogue, reactions. The editing has economically organized space to convey narrative continuity.
+
+The continuity system, in exactly these terms, remains in force today. Most narrative films still draw on 180° principles (6.73, 6.74).
+
+ 
+
+6.73 In Ron Howard’s Parenthood, eyeline-matched shot/reverse shots present a conversation …
+
+ 
+
+ 
+
+ 
+
+6.74 … with the women in the foreground establishing the axis of action.
+
+ 
+
+ 
+
+Continuity Editing: Some Fine Points
+
+CONNECT TO THE BLOG
+
+Shots showing characters’ reactions are often important to the narrative. We talk about how in “They’re looking for us.”
+
+See
+www.davidbordwell.net/blog/?p=2743.
+
+The continuity system can be refined in various ways. If a director arranges several characters in a circular pattern—say, sitting around a dinner table—then the axis of action will probably run between the characters of greatest importance at the moment. In 6.75 and 6.76, from Howard Hawks’s Bringing Up Baby, the important interaction is occurring between the two men, so we can cut from one side of the woman in the foreground to the other side in order to get consistent shot/reverse shots. When one man leaves the table, however, a semicircular arrangement of figures in space is created, so that a new axis of action can be established between the two women. Now we can get shot/reverse-shot exchanges running down the length of the table (6.77, 6.78).
+
+ 
+
+6.75 In Bringing Up Baby, the shot/reverse shot between the man on the right …
+
+ 
+
+ 
+
+ 
+
+6.76 … and the one on the left gives way to …
+
+ 
+
+ 
+
+ 
+
+6.77 … a shot/reverse shot between the woman on the left …
+
+ 
+
+ 
+
+ 
+
+6.78 … and the one on the right.
+
+ 
+
+ 
+
+Both the Maltese Falcon and the Bringing Up Baby examples show that in the course of a scene the 180° line may shift as the characters move around the setting. In some cases, the filmmaker may create a new axis of action that allows the camera to take up a position that would have crossed the line in an earlier phase of the scene.
+
+“The way [Howard] Hawks constructs a continuity of space is remarkable, and generally holds you ‘inside’ it. There is no possible way of escape, unless the film decides to provide you with one. My theory is that his films are captivating because they build a sense of continuity which is so strong that it allows the complete participation of the audience.”
+
+— Slobodan Sijan, director
+
+ 
+
+The power of the axis of action and the eyelines it can create is so great that the filmmaker may be able to eliminate an establishing shot, thus relying on the Kuleshov effect. In Spike Lee’s She’s Gotta Have It, Nola Darling holds a Thanksgiving dinner for her three male friends. Lee never presents a shot showing all four in the same frame. Instead, he uses medium long shots including all the men (for example, 6.79), over-the-shoulder shot/reverse shots among them (for example, 6.80), and eyeline-matched medium close-ups of them. Nola is given her own medium close-ups (6.81).
+
+ 
+
+6.79 She’s Gotta Have It.
+
+ 
+
+ 
+
+ 
+
+6.80 She’s Gotta Have It.
+
+ 
+
+ 
+
+ 
+
+6.81 She’s Gotta Have It.
+
+ 
+
+ 
+
+Through eyelines and body orientations, Lee’s editing keeps the spatial relations completely consistent. For example, each man looks in a different direction when addressing Nola (6.82, 6.83). This cutting pattern enhances the dramatic action by making all the men equal competitors for her. They are clustered at one end of the table, and none is shown in the same frame with her. In addition, by organizing the angles around her overall orientation to the action (as in 6.84, an optical point-of-view shot), Lee keeps Nola the pivotal character. Further, the longer shot and her separate medium close-ups intensify the progression of the scene: the men are on display, and Nola is coolly judging each one’s behavior.
+
+ 
+
+6.82 She’s Gotta Have It.
+
+ 
+
+ 
+
+ 
+
+6.83 She’s Gotta Have It.
+
+ 
+
+ 
+
+ 
+
+6.84 She’s Gotta Have It.
+
+ 
+
+ 
+
+CONNECT TO THE BLOG
+
+Another refinement: What happens if the reverse shot is withheld? We show some examples and discuss their functions in “Angles and perceptions.”
+
+See
+www.davidbordwell.net/blog/?p=744.
+
+Another felicity in the 180° system is the cheat cut. Sometimes a director may not have perfect continuity from shot to shot because he or she has composed each shot for specific reasons. Must the two shots match perfectly? Again, narrative motivation decides the matter. Given that the 180° system emphasizes story action, if we’re paying attention to that, the director has some freedom to “cheat” mise-en-scene from shot to shot—that is, to mismatch slightly the positions of characters or objects.
+
+Consider two shots from William Wyler’s Jezebel. Neither character moves during either shot, but Wyler has blatantly cheated the position of Julie (6.85, 6.86). Yet most viewers would not notice the discrepancy since it’s the dialogue that is paramount in the scene; here again, the similarities between shots outweigh the differences of position. Moreover, a change from a straight-on angle to a slightly high angle helps hide the cheat. There is, in fact, a cheat in the Maltese Falcon scene, too, between shots 6b and 7. In 6b (6.60), as Spade leans forward, the back of his chair is not near him. Yet in shot 7 (6.61), it has been cheated to be just behind his left arm. Here again, the primacy of the narrative flow overrides such a cheat cut.
+
+ 
+
+6.85 In this shot from Jezebel, the top of Julie’s head is even with the man’s chin …
+
+ 
+
+ 
+
+ 
+
+6.86 … but in the second shot she seems to have grown several inches.
+
+ 
+
+ 
+
+One more fine point in spatial continuity is particularly relevant to a film’s narration. We have already seen that a camera framing can strongly suggest a character’s optical point of view, rendering the narration subjective. We see this in our earlier example from Fury (5.112, 5.113). That example depends on a cut from the person looking (5.112) to what he sees (5.113). We have also seen an instance of POV cutting in the Birds sequence discussed on pp. 228–231. Now we are in a position to see how optical POV is consistent with continuity editing, creating a variety of eyeline-match editing known as point-of-view cutting.
+
+Alfred Hitchcock’s Rear Window is built around the situation of the solitary photographer Jeff watching events taking place in an apartment across the courtyard. Hitchcock uses a standard eyeline-match pattern, cutting from a shot of Jeff looking (6.87) to a shot of what he sees (6.88). Since there is no establishing shot that shows both Jeff and the opposite apartment, the Kuleshov effect operates here: our mind connects the two images. More specifically, the second shot represents Jeff’s optical viewpoint, and this is filmed from a position on his end of the axis of action (6.89). The camera has not crossed the line. We are strongly restricted to what Jeff sees and what (he thinks) he knows.
+
+ 
+
+6.87 In Rear Window, Jeff looks out his window and …
+
+ 
+
+ 
+
+ 
+
+6.88 … the next shot shows what he sees from his optical POV.
+
+ 
+
+ 
+
+ 
+
+6.89 An overhead diagram of the Rear Window POV shot.
+
+ 
+
+ 
+
+As Rear Window goes on, the subjectivity of the POV shots intensifies. Becoming more eager to examine the details of his neighbor’s life, Jeff begins to use binoculars and a photographic telephoto lens to magnify his view. By using shots taken with lenses of different focal lengths, Hitchcock shows how each new tool enlarges what Jeff can see (6.90–6.93). Hitchcock’s cutting adheres to spatial continuity rules and exploits their POV possibilities in order to arouse curiosity and suspense.
+
+ 
+
+6.90 When Jeff looks through his binoculars …
+
+ 
+
+ 
+
+ 
+
+6.91 … we see a telephoto POV shot of his neighbor.
+
+ 
+
+ 
+
+ 
+
+6.92 When he employs a powerful photographic lens …
+
+ 
+
+ 
+
+ 
+
+6.93 … the resulting POV shot enlarges his neighbor’s activities even more.
+
+ 
+
+ 
+
+CONNECT TO THE BLOG
+
+For more examples of point-of-view editing and an analysis of a scene, see “Three nights of a dreamer,” at www.davidbordwell.net/blog/?p=1457.
+
+More Refinements: Crossing the Axis of Action
+
+Most continuity-based filmmakers prefer not to cut across the axis of action. They would rather move the actors around the setting and create a new axis. Still, can you ever legitimately cut across an established axis of action? Yes, sometimes. A scene occurring in a doorway, on a staircase, or in other symmetrical settings may occasionally break the line. Sometimes, too, the filmmakers can get across the axis by taking one shot on the line itself and using it as a transition. This strategy is rare in dialogue sequences, but it can be seen in chases and outdoor action. By filming on the axis, the filmmaker presents the action as moving directly toward the camera (a head-on shot) or away from it (a tail-on shot). The climactic chase of The Road Warrior offers several examples. As marauding road gangs try to board a fleeing gasoline truck, George Miller uses many head-on and tail-on shots of the vehicles (6.94–6.98).
+
+ 
+
+6.94 Near the climax of the chase in The Road Warrior, Max is driving left to right along the road …
+
+ 
+
+ 
+
+ 
+
+6.95 … and in later shots he is still driving toward the right. An attacking thug perched on the front of the truck turns and looks off right in horror …
+
+ 
+
+ 
+
+ 
+
+6.96 … realizing that another vehicle, moving right to left, is coming toward them on a collision course.
+
+ 
+
+ 
+
+ 
+
+6.97 Several quick shots facing head-on to the vehicles show the crash …
+
+ 
+
+ 
+
+ 
+
+6.98 … and a long shot shows the truck again, now moving right to left.
+
+ 
+
+ 
+
+“I saw David Lynch and asked him: ‘What’s this about crossing the axis?’ And he burst out laughing and said, ‘That always gets me.’ And I asked if you could do it, and he gave me this startled look and said, ‘Stephen, you can do anything. You’re a director.’ Then he paused and said, ‘But it doesn’t cut together.’”
+
+— Stephen King, novelist, on directing his first film, Maximum Overdrive
+
+ 
+
+Also, we should note that continuity-based films occasionally violate screen direction without confusing the viewer. This usually occurs when the scene’s action is very well defined. For example, during a chase in John Ford’s Stagecoach, there is no ambiguity about the Ringo Kid’s leaping from the coach to the horses (6.99, 6.100). We wouldn’t be likely to assume that the coach had turned around suddenly, as in the possible misinterpretation of the shootout scene with the two cowboys (6.51).
+
+ 
+
+6.99 In Stagecoach, in a long shot where all movement is toward the right, the hero begins leaping from the driver’s seat down onto the horse team …
+
+ 
+
+ 
+
+ 
+
+6.100 … and in the next shot both he and the coach are moving leftward.
+
+ 
+
+ 
+
+Crosscutting
+
+The continuity system shows that editing can endow the film’s narration with a great range of knowledge. A cut can take us to any point on the correct side of the axis of action. Editing can even create omniscience, that godlike knowledge that some films seek to present. The outstanding technical device here is crosscutting, first extensively explored by D. W. Griffith in his last-minute rescue scenes. In The Battle at Elderbush Gulch, a cavalry troop is riding to rescue some settlers trapped in a cabin and battling the Indians outside (6.101–6.104). After 11 additional shots of the cavalry, various parts of the cabin interior, and the Indians outdoors, a 12th shot shows the cavalry riding in from the distance behind the cabin.
+
+ 
+
+6.101 In The Battle of Elderbush Gulch, Griffith cuts from a shot of the cavalry …
+
+ 
+
+ 
+
+ 
+
+6.102 … to a view inside the besieged cabin …
+
+ 
+
+ 
+
+ 
+
+6.103 … back to the cavalry …
+
+ 
+
+ 
+
+ 
+
+6.104 … and then back to the cabin.
+
+ 
+
+ 
+
+“When we changed the axis of action in the Battle of Gaugamela, if I had kept the light on the left cheek of the Macedonians listening to Alexander’s speech, the actual continuity of light would have been correct. But it would feel different, being frontal light. So for me you have to respect the spirit of the light to maintain the intention of the atmosphere you are trying to convey, instead of ‘real continuity.’”
+
+— Rodrigo Prieto, cinematographer for Oliver Stone’s Alexander
+
+ 
+
+Crosscutting gives us an unrestricted knowledge of causal, temporal, or spatial information by alternating shots from one line of action in one place with shots of other events in other places. Crosscutting thus creates some spatial discontinuity, but it binds the action together by creating a sense of cause and effect and simultaneous time. In Jerry Maguire, for example, crosscutting interweaves the action of sports agent Jerry and his rival racing to sign up the same clients (6.105–6.108).
+
+ 
+
+6.105 In Jerry Maguire, from a shot of Jerry seething with tension …
+
+ 
+
+ 
+
+ 
+
+6.106 … there is a cut to his confident rival and his assistant.
+
+ 
+
+ 
+
+ 
+
+6.107 We cut back to Jerry placing a phone call …
+
+ 
+
+ 
+
+ 
+
+6.108 … and his rival doing the same.
+
+ 
+
+ 
+
+Fritz Lang’s M goes further, intercutting three lines of action. While the police seek the child murderer, gangsters prowl the streets looking for him as well, and we also occasionally see the murderer himself. Crosscutting ties together the different lines of action, bringing out a temporal simultaneity and the causal process of the pursuit. The crosscutting also gives us a range of knowledge greater than that of any one character. We know that the gangsters are after the murderer, but the police and the murderer do not. Crosscutting also builds up suspense, as we form expectations that are only gradually clarified and fulfilled. It may create parallels as well, and Lang exploits this possibility by suggesting analogies between the police and the crooks. Whatever other functions it may have, though, crosscutting remains primarily a means of presenting narrative actions that are occurring in several locales at roughly the same time.
+
+All the devices of spatial continuity show how film technique draws the spectator into an active process. We assume that setting, character movement, and character position will be consistent and coherent. Our prior knowledge of filmic conventions lets us form strong expectations about what shot will follow the one we are seeing. We also make inferences on the basis of cues, so that when Brigid and Spade look off left, we infer that someone is entering the room, and we expect to see a shot of that person.
+
+What makes the continuity system invisible is its ability to draw on a range of skills that we have learned so well that they seem automatic. This makes spatial continuity editing a powerful tool for the filmmaker who wishes to reinforce habitual expectations. In recent decades, Hollywood filmmakers have developed ways to make traditional continuity techniques more forceful. (See “A Closer Look.”) Because continuity editing has been so widely used for so long, it also becomes a central target for the filmmaker who wants to use film style to challenge or change our normal viewing activities.
+
+Temporal Continuity: Order, Frequency, and Duration
+
+In the classical continuity system, time, like space, is organized according to the development of the narrative. We know that the plot’s presentation of the story typically involves manipulation of time. Continuity editing seeks to support and sustain this temporal manipulation.
+
+To get specific, recall our distinction among temporal order, frequency, and duration. Continuity editing typically presents the story events in a 1-2-3 order. Spade rolls a cigarette, then Effie comes in, then he answers her, and so on. The most common violation of 1-2-3 order is a flashback, signaled by a cut or dissolve. Furthermore, classical editing also often presents only once what happens once in the story; in continuity style, it would be a gross mistake for Huston to repeat the shot of, say, Brigid sitting down (6.60). Again, though, flashbacks are the most common way of motivating the repetition of a scene already witnessed. So chronological sequence and one-for-one frequency are the standard methods of handling order and frequency within the continuity style of editing. There are occasional exceptions, as we saw in our examples from Hiroshima mon amour, The Godfather, and Police Story (pp. 233–235).
+
+What of duration? In the classical continuity system, story duration is seldom expanded; that is, screen time is seldom made greater than story time. Usually, duration is in complete continuity (plot time equaling story time) or is elided (story time being greater than plot time). Let’s first consider complete continuity, the most common possibility. Here a scene occupying five minutes in the story also occupies five minutes when projected on the screen.
+
+“Now nobody trusts the actor’s performance. If an actor has a scene where they are sitting in the distance, everybody says, ‘What are you shooting? It has to be close-up!’ This is ridiculous. You have the position of the hand, the whole body—this is the feeling of a movie. I hate movies where everybody has big close-ups all the time…. This is television. I have talking heads on my television set in my home all the time.”
+
+— Miroslav Ondříček, editor
+
+ 
+
+The first scene of The Maltese Falcon displays three cues for temporal continuity. First, the narrative progression of the scene has no gaps. Every movement by the characters and every line of dialogue is presented. Second, there is the sound track. Sound issuing from the story space (what we call diegetic sound) is a standard indicator of temporal continuity, especially when, as in this scene, the sound bleeds over each cut. Third, there is the match on action between shots 5 and 6. So powerful is the match on action that it creates both spatial and temporal continuity. The reason is obvious: if an action carries across the cut, the space and time are assumed to be continuous from shot to shot. In all, an absence of ellipses in the story action, diegetic sound overlapping the cuts, and matching on action are three primary indicators that the duration of the scene is continuous.
+
+A CLOSER LOOK
+
+INTENSIFIED CONTINUITY: L.A. Confidential and Contemporary Editing
+
+By the 1930s, the continuity system was the standard approach to editing in most of the world’s commercial filmmaking. But it underwent changes over the years. Today’s editing practices abide by the principles of continuity but amplify them in certain ways.
+
+Most obviously, mainstream films are now cut much faster than in the period between 1930 and 1960. Then, a film typically consisted of 300–500 shots, but in the years after 1960, the cutting pace picked up. Today a two-hour film might have over 2000 shots, and action films routinely contain 3000 or more. The average shot in The Bourne Ultimatum lasts about two seconds. Partly because of the faster editing, scenes are built out of relatively close views of individual characters, rather than long-shot framings. Establishing shots tend to be less common, sometimes appearing only at the end of a scene. Telephoto lenses, which enlarge faces, help achieve tight framings, and modern widescreen formats allow two or more facial close-ups to occupy the screen. Also, the camera tends to move very frequently, picking out one detail after another.
+
+The accompanying shots from L.A. Confidential show several of these tendencies at work. After arresting three black suspects, Lieutenant Ed Exley prepares to wring a confession from them. The scene takes less than a minute but employs nine shots, two with significant camera movement. (The film contains nearly 2000 shots, an average of four seconds apiece.) Director Curtis Hanson shifts the emphasis among several key characters by coordinating his editing with anamorphic widescreen, staging in depth, close-ups and medium close-ups, rack-focus, and mobile framing (6.109–6.120). Interestingly, the actors make no expressive use of their hands or bodies; the performances are almost completely facial.
+
+ 
+
+6.109 Shot 1: The scene begins by presenting only a portion of the space. A reflection shows Exley waiting and his colleagues milling about outside the interrogation room. This image singles out the core dramatic action to come—Exley’s brutal confrontation with the suspects.
+
+ 
+
+ 
+
+6.110 Shot 2: A match on Exley’s action of turning gives us a fuller view of the policemen and establishes two other main characters: Jack Vincennes on the left and Bud White in the background, watching. This is only a partial establishing shot; a later camera movement will acquaint us with the layout of the interrogation rooms.
+
+ 
+
+ 
+
+6.111 Shot 3: Hanson underscores White’s presence by cutting to a telephoto shot of him saying that the suspects killed his partner.
+
+ 
+
+ 
+
+6.112 Shot 4: In an echo of the opening framing, Exley now stands at the second interrogation room, seen in another reflection. The shot also reiterates Vincennes’s presence, which will provide an important reaction later.
+
+ 
+
+ 
+
+6.113 The camera tracks with Exley moving right to study the suspect in the third room. White’s reflection can be seen in frame center. The camera movement has linked the three main detectives on the case while also establishing the three rooms as being side by side. At the end of the camera movement, Exley turns, and …
+
+ 
+
+ 
+
+6.114 Shot 5: … a two-shot establishes his superior, Smith, on the scene. As Smith explains that the suspects’ shotguns put them at the murder scene, the camera racks focus to him, putting Exley out of focus.
+
+ 
+
+ 
+
+6.115 Shot 6: A cutaway to White listening—again, a tight facial shot taken with a telephoto lens—reminds us of his presence. He is only an observer in this phase of the scene, but as the questioning heats up, he will burst in to attack a suspect.
+
+ 
+
+ 
+
+6.116 Shot 7: Returning to the two-shot shows Smith demanding that Exley make the men confess.
+
+ 
+
+ 
+
+6.117 Shot 8: A reverse-angle on Exley, the first shot in the scene devoted to his face alone, underscores his determination: “Oh, I’ll break them, sir.”
+
+ 
+
+ 
+
+6.118 Shot 9: A cut back to the two-shot supplies Smith’s satisfied reaction.
+
+ 
+
+ 
+
+6.119 Exley turns away. The lens shifts focus to catch his grim face in the foreground, preparing us for the brutality he will display.
+
+ 
+
+ 
+
+6.120 Exley walks out of the shot. The camera tilts down slightly and racks focus to display Vincennes’s skeptical expression. The telephoto lens, accentuated by the rack-focus, has supplied facial views of Smith, then Exley, and then Vincennes in a single shot.
+
+ 
+
+CONNECT TO THE BLOG
+
+After you’ve read about L.A. Confidential, check out our blog entries on the Bourne trilogy, in “Unsteadicam chronicles” www.davidbordwell.net/blog/?p=1175, “[insert your favorite Bourne pun here]” www.davidbordwell.net/blog/?p=1230, and “I broke everything new again” www.davidbordwell.net/blog/?p=1285.
+
+We also compare a scene in The Shop Around the Corner with the same one in the remake, You’ve Got Mail, in “Intensified continuity revisited,” www.davidbordwell.net/blog/?p=859.
+
+For thoughts on multiple-camera shooting and continuity, see “Cutting remarks: On The Good German, classical style, and the police tactical unit” www.davidbordwell.net/blog/?p=91.
+
+Why did this intensified form of continuity become so common? Some historians trace it to the influence of television. Recent movies were broadcast by TV networks in the 1960s, transmitted by cable and satellite in the 1970s, and available on home video in the 1980s and 1990s. As people saw movies on home screens rather than in theaters, filmmakers reshaped their techniques. Constantly changing the image by cutting and camera movement could keep the viewer from switching channels or picking up a magazine. On smaller screens, faster cutting is easier to follow, and closer views look better than long shots, which tend to lose detail. Intensified continuity was shaped by many factors, such as the arrival of computer-based editing, but television was a major influence.
+
+Sometimes, however, a second possibility will be explored: temporal ellipsis. The ellipsis may omit seconds, minutes, hours, days, years, or centuries. Some ellipses are of no importance to the narrative development and so are concealed. A classical narrative film doesn’t show the entire time it takes a character to dress, wash, and breakfast in the morning. Shots of the character going into the shower, putting on shoes, or frying an egg might be combined so as to eliminate the unwanted bits of story time. As we saw on pp. 233–234, optical punctuations, empty frames, and cutaways are frequently used to cover short temporal ellipses.
+
+But other ellipses are important to the narrative. The viewer must recognize that time has passed. For this task, the continuity style has built up a varied repertoire of devices. In films made before the 1960s, dissolves, fades, or wipes are typically used to indicate an ellipsis between shots, usually the end of one scene and the beginning of the next. The Hollywood rule is that a dissolve indicates a brief time lapse and a fade indicates a much longer one.
+
+Contemporary filmmakers usually employ a cut for such transitions. For example, in 2001, Stanley Kubrick cuts directly from a bone spinning in the air to a space station orbiting the earth, one of the boldest graphic matches in narrative cinema. The cut eliminates millions of years of story time. Less drastically, most contemporary films indicate the passage of time through direct cuts. Changes in lighting, locale, or character position cue us that story time has passed (6.121–6.123).
+
+ 
+
+6.121 Wendy and Lucy: Arrested for shoplifting, Wendy is being fingerprinted, and she glances up at the clock. She’s worried about having left her dog Lucy at the supermarket.
+
+ 
+
+ 
+
+ 
+
+6.122 The clock shot has functioned as a cutaway to cover a time gap. This shot of Wendy in a cell indicates that some minutes have elapsed since she was fingerprinted.
+
+ 
+
+ 
+
+ 
+
+6.123 Wendy’s marked change of position from the previous shot suggests that still more time has passed. An older film would have implied the passage of time through dissolves, but here the abrupt changes of locale and character position suggest the same thing. A later shot of the clock will show that Wendy has been held for at least two hours.
+
+ 
+
+ 
+
+In other cases, it’s necessary to show a large-scale process or a lengthy period—a city waking up in the morning, a war, a child growing up, the rise of a singing star. Here classical continuity uses another device for temporal ellipsis: the montage sequence. (This should not be confused with the concept of montage in Sergei Eisenstein’s film theory.) Brief portions of a process, informative titles (for example, “1865” or “San Francisco”), stereotyped images (such as the Eiffel Tower), newsreel footage, newspaper headlines, and the like can be joined by dissolves and music to create a quick, regular rhythm and to compress a lengthy series of actions into a few moments.
+
+American studio films of the 1930s established some montage clichés—calendar pages fluttering away, newspaper presses pounding out an Extra—but in the hands of deft editors, such sequences became small virtuoso pieces. The driving pace of gangster films like Scarface and The Roaring Twenties owes a lot to dynamic montage sequences. Slavko Vorkapich, an experimental filmmaker, created somewhat abstract, almost delirious summaries of wide-ranging actions such as stock market crashes, political campaigns, and an opera singer’s career (6.124).
+
+ 
+
+6.124 In May Time, Slavko Vorkapich uses superimpositions (here, the singer, sheet music, and a curtain rising) and rapid editing to summarize an opera singer’s triumphs. Citizen Kane ironically refers to this passage in the montage sequences showing Susan Alexander’s failures.
+
+ 
+
+ 
+
+Montage sequences have been a mainstay of narrative filmmaking ever since. Jaws employs montage to summarize the start of tourist season through brief shots of vacationers arriving at the beach. A montage sequence in Spider-Man shows Peter Parker sketching his superhero costume, inspired by visions of the girl he loves (6.125, 6.126). All these instances also remind us that because montage sequences usually lack dialogue, they tend to come wrapped in music. In Tootsie, a song accompanies a series of magazine covers showing the hero’s rise to success as a soap opera star.
+
+ 
+
+6.125 For a montage sequence in Spider-Man, CGI technique creates a split image, showing both Peter’s expression and a close-up of the costume he’s designing.
+
+ 
+
+ 
+
+ 
+
+6.126 The Spider-Man sequence also uses a more traditional linking device, a dissolve that briefly superimposes two shots.
+
+ 
+
+ 
+
+In sum, the continuity style uses the temporal dimension of editing primarily for narrative purposes. Through prior knowledge, the spectator expects the editing to present story events in chronological order, with only occasional rearrangement through flashbacks. The viewer expects that editing will respect the frequency of story events. And the viewer assumes that actions irrelevant to story causality will be omitted or at least abridged by judicious ellipses. All these expectations allow the viewer to follow the story with minimal effort.
+
+Like graphics, rhythm, and space, time is organized to permit the unfolding of cause and effect, and the arousal of curiosity, suspense, and surprise. But there are many alternatives to the continuity style of editing, and these are worth a look.
+
+Alternatives to Continuity Editing
+
+Graphic and Rhythmic Possibilities
+
+Powerful and pervasive as it is, the continuity style remains only one style, and many filmmakers have explored other editing possibilities.
+
+Films using abstract or associational form have frequently granted the graphic and rhythmic dimensions of editing great weight. Instead of joining shot 1 to shot 2 primarily on the basis of the spatial and temporal functions that the shot fulfills in presenting a story, you could join them on the basis of purely graphic or rhythmic qualities—independent of the time and space they represent. In films such as Anticipation of the Night, Scenes from Under Childhood, and Western History, experimentalist Stan Brakhage uses purely graphic means of joining shot to shot. Continuities and discontinuities of light, texture, and shape motivate the editing. Similarly, parts of Bruce Conner’s Cosmic Ray, A Movie, and Report cut together newsreel footage, old film clips, film leader, and black frames on the basis of graphic patterns of movement, direction, and speed.
+
+Many non-narrative films have completely subordinated the space and time presented in each shot to the rhythmic relations among shots. Single-frame films (in which each shot is only one frame long) are the most extreme examples of this overriding rhythmic concern. Two famous examples are Robert Breer’s Fist Fight
+(6.127) and Peter Kubelka’s Schwechater.
+
+ 
+
+6.127 The stretches of single-frame shots in Fist Fight create a flickering effect on the screen.
+
+ 
+
+ 
+
+As early as 1913, some painters were contemplating the pure-design possibilities offered by film, and many works of the European avant-grade movements of the 1920s combined an interest in abstract graphics with a desire to explore rhythmic editing. Perhaps the most famous of these is the Fernand Léger–Dudley Murphy film Ballet mécanique. In Chapter 10, we’ll see how Ballet mécanique juxtaposes its shots on the basis of graphic and rhythmic qualities.
+
+The graphic and rhythmic possibilities of editing haven’t been neglected in the story film, either. Some narrative filmmakers occasionally subordinate narrative concerns to graphic pattern. The most famous examples are probably the films for which Busby Berkeley choreographed elaborate dance numbers. In 42nd Street, Gold Diggers of 1933, Footlight Parade, Gold Diggers of 1935, and Dames, the narrative periodically grinds to a halt, and the film presents intricate dances that are arranged, shot, and edited with a concern for the pure configuration of dancers and background (4.146, from 42nd Street).
+
+More complex is the graphic editing of Yasujiro Ozu. Ozu’s cutting is often dictated by a much more precise graphic continuity than we find in the classical continuity style. In a scene from An Autumn Afternoon, Ozu creates close graphic matches on two men seated at a table drinking sake (6.128, 6.129). In Ohayu, Ozu uses color for the same purpose, cutting from laundry on a line to a domestic interior and matching on a red shape in the upper left of each shot (a shirt, a lamp; 6.130, 6.131).
+
+ 
+
+6.128 In An Autumn Afternoon, Ozu cuts from one man drinking sake directly …
+
+ 
+
+ 
+
+ 
+
+6.129 … to another caught in almost exactly the same position, costume, and gesture.
+
+ 
+
+ 
+
+ 
+
+6.130 In Ohayu, Ozu creates a playful graphic match by cutting from an outdoor scene with a bright red sweater in the upper left …
+
+ 
+
+ 
+
+ 
+
+6.131 … to an interior with a vivid red lampshade in the same position.
+
+ 
+
+ 
+
+Some narrative films have momentarily subordinated spatial and temporal editing to rhythmic cutting. In the 1920s, both the French Impressionist school and the Soviet avant-garde frequently made story progression secondary to purely rhythmic editing. In such films as Abel Gance’s La Roue, Jean Epstein’s Coeur fidèle and La Glace à trois faces, and Alexandre Volkoff’s Kean, accelerated editing renders the tempo of an onrushing train, a whirling carousel, a racing automobile, and a drunken dance. Kuleshov’s The Death Ray and, as we shall see, Eisenstein’s October occasionally make rhythm dominate narrative space and time. We can find strong passages of rhythmic editing in Rouben Mamoulian’s Love Me Tonight, René Clair’s Le Million, and several films of Ozu and Hitchcock, as well as in Assault on Precinct 13 and The Terminator. Pulsating rhythmic editing is prominent in films influenced by music videos, such as The Crow and Romeo + Juliet. As we saw with graphics, rhythmic editing may override the spatial and temporal dimensions; when this happens, narrative usually becomes less important.
+
+Spatial and Temporal Discontinuity
+
+How can you tell a story without adhering to the continuity rules? Let’s sample some ways filmmakers have created distinct editing styles by use of what might be considered spatial and temporal discontinuities.
+
+One option is to use spatial continuity in ambiguous ways. In Mon Oncle d’Amérique, Resnais intercuts the stories of his three main characters with shots of each character’s favorite star, taken from French films of the 1940s. At one point, as René’s pesky office mate calls to him, we get the coworker in one shot (6.132). But Resnais cuts to a shot of Jean Gabin in an older film, turning in reverse shot (6.133). Only then does Resnais supply a shot of René turning to meet his questioner (6.134). The film does not definitely present the Gabin shot as a fantasy image; we can’t tell whether René imagines himself as his favorite star confronting his coworker, or whether the film’s narration draws the comparison independent of René’s state of mind. The cut relies on the cues of shot/reverse shot but uses them to create a momentarily jarring discontinuity that triggers ambiguity.
+
+ 
+
+6.132 Mon Oncle d’Amérique.
+
+ 
+
+ 
+
+ 
+
+6.133 Mon Oncle d’Amérique.
+
+ 
+
+ 
+
+ 
+
+6.134 Mon Oncle d’Amérique.
+
+ 
+
+ 
+
+More drastically, a filmmaker may violate or ignore the 180° system. The editing choices of filmmakers Jacques Tati and Yasujiro Ozu are based on what we might call 360° space. Instead of an axis of action that dictates that the camera be placed within an imaginary semicircle, these filmmakers work as if the action were not a line but a point at the center of a circle and as if the camera could be placed at any point on the circumference. In Mr. Hulot’s Holiday, Play Time, and Traffic, Tati systematically films from almost every side; edited together, the shots present multiple spatial perspectives on a single event. Similarly, Ozu’s scenes construct a 360° space that produces what the continuity style would consider grave editing errors. Ozu’s films often do not yield consistent relative positions and screen directions; the eyeline matches are out of joint, and the only consistency is the violation of the 180° line. One of the gravest sins in the classical continuity style is to match on action while breaking the line, yet Ozu does this comfortably in Early Summer
+(6.135, 6.136).
+
+ 
+
+6.135 In Early Summer, Ozu cuts on the grandfather’s gesture of drinking …
+
+ 
+
+ 
+
+ 
+
+6.136 … directly to the opposite side of the characters.
+
+ 
+
+ 
+
+Such spatially discontinuous cutting affects the spectator’s experience as well. The defender of classical editing would claim that spatial continuity rules are necessary for the clear presentation of a narrative. But anyone who has seen a film by Ozu or Tati can testify that no narrative confusion arises from their continuity violations. Though the spaces do not flow as smoothly as in the Hollywood style (this is indeed part of the films’ fascination), the causal developments remain intelligible. The likeliest conclusion is that the continuity system is only one way to tell a story. Historically, this system has been the dominant one, but artistically, it isn’t a necessity.
+
+There are two other notable devices of discontinuity. In Breathless, Jean-Luc Godard violates conventions of spatial, temporal, and graphic continuity by his systematic use of the jump cut. Though this term is often loosely used, its primary meaning is this: when two shots of the same subject are cut together but are not sufficiently different in camera distance and angle, there will be a noticeable jump on the screen. Classical continuity avoids such jumps by generous use of shot/reverse shots and by the 30° rule (advising that every camera position be varied by at least 30° from the previous one). An examination of shots from Breathless suggests the consequences of Godard’s jump cuts (6.137, 6.138). Far from flowing unnoticeably, such cuts are very visible.
+
+ 
+
+6.137 In Breathless, in the jump cut from this shot of Patricia …
+
+ 
+
+ 
+
+ 
+
+6.138 … to this one, the background has changed and some story time has gone by.
+
+ 
+
+ 
+
+Jump cuts should not be confused with those elliptical cuts that convey the passage of time by showing a person in different positions. We saw an instance earlier (6.121–6.123) in which Wendy is sitting in two positions on her cell bunk. In cuts like this one, we have two distinct angles on the subject, in accordance with the 30° rule. The jump cut shows the action from a single angle.
+
+Today’s mainstream films have somewhat domesticated the jump cut. It can now be found in montage sequences and during moments of surprise or violence. Ridley Scott’s Matchstick Men is one film that exploits the technique as extensively as Breathless does.
+
+A second violation of continuity is created by the nondiegetic insert. Here the filmmaker cuts from the scene to a metaphorical or symbolic shot that is not part of the space and time of the narrative. Clichés abound here (6.139, 6.140). More complex examples occur in the films of Eisenstein and Godard. In Eisenstein’s Strike, the massacre of workers is intercut with the slaughter of a bull. In Godard’s La Chinoise, Henri tells an anecdote about the ancient Egyptians, who, he claims, thought that “their language was the language of the gods.” As he says this (6.141), Godard cuts in two close-ups of relics from the tomb of King Tutankhamen (6.142, 6.143). As non diegetic inserts, coming from outside the story world, these shots construct a running, often ironic, commentary on the action, and they prompt the spectator to search for implicit meanings. Do the relics corroborate or challenge what Henri says?
+
+ 
+
+6.139 In Fury, Lang cuts from housewives gossiping …
+
+ 
+
+ 
+
+ 
+
+6.140 … to shots of clucking hens.
+
+ 
+
+ 
+
+ 
+
+6.141 A diegetic shot in La Chinoise is followed by …
+
+ 
+
+ 
+
+ 
+
+6.142 … nondiegetic shots of the lion bed of King Tutankhamen …
+
+ 
+
+ 
+
+ 
+
+6.143 … and his golden mask.
+
+ 
+
+ 
+
+There are still other alternatives to classical continuity, especially with respect to time. Although the classical approach to order and frequency of story events may seem the best option, it is only the most familiar. Story events do not have to be edited in 1-2-3 order.
+
+Modern audiences have become accustomed to scenes that are interrupted by brief flashbacks. But some filmmakers create greater uncertainty by inserting a shot that may or may not be out of story order. Michael Haneke’s Caché repeatedly shows a luxurious apartment building seen from across the street. After one nighttime view, there is a two-second shot of a boy watching, also at night (6.144, 6.145). At first, this shot seems to be in correct order, like the shots of Jeff looking at his neighbors in Rear Window (6.87, 6.88, 6.90–6.93). Later we’ll learn that Caché’s narration has misled us severely.
+
+ 
+
+6.144 This external shot from Caché seems at first to be in temporal order, but later it’s revealed to be a replayed videotape.
+
+ 
+
+ 
+
+ 
+
+6.145 The glimpse of the watching boy is also misleading. He seems to be watching the house, but in fact this shot is a flashback, and he is watching something very different.
+
+ 
+
+ 
+
+More insistently, in Resnais’s La Guerre est finie, scenes cut in conventional continuity are interrupted by images that may represent flashbacks, or fantasy episodes, or even future events. Editing can also play with variable frequency for narrative purposes; the same event can be shown repeatedly. In La Guerre est finie, the same funeral is depicted in different hypothetical ways, with the protagonist either present or absent.
+
+Again, Godard offers a striking example of how editing can manipulate both order and frequency. In Pierrot le fou, as Marianne and Ferdinand flee her apartment, Godard scrambles the order of the shots (6.146–6.149). Godard also plays with frequency by repeating one gesture—Ferdinand jumping into the car—but showing it differently each time. Such manipulation of editing blocks our normal expectations about story action and forces us to concentrate on the very process of piecing together the film’s narrative.
+
+ 
+
+6.146 In Pierrot le fou, initially, Ferdinand jumps into the car as Marianne pulls away …
+
+ 
+
+ 
+
+ 
+
+6.147 … but then the couple are seen back in their apartment.
+
+ 
+
+ 
+
+ 
+
+6.148 Next the car races down a street …
+
+ 
+
+ 
+
+ 
+
+6.149 … and then Marianne and Ferdinand climb onto a rooftop, an event that occurred before they drove off.
+
+ 
+
+ 
+
+The editing may take liberties with story duration as well. Although complete continuity and ellipsis are the most common ways of rendering duration, expansion—stretching a moment out, making screen time greater than story time—remains a distinct possibility. François Truffaut uses such expansions in Jules and Jim to underscore narrative turning points, as when the heroine Catherine lifts her veil or jumps off a bridge.
+
+Filmmakers have found creative ways to rework the most basic tenets of the continuity system. We’ve indicated, for example, that a match on action strongly suggests that time continues across the cut. Yet Alain Resnais creates an impossible continuous action in Last Year at Marienbad. Small groups of guests are standing around the hotel lobby; one medium shot frames a blonde woman beginning to turn away from the camera (6.150). In the middle of her turn, there is a cut to her, still turning but in a different setting (6.151). The smooth match on action, along with the woman’s graphically matched position in the frame, implies that she is moving continuously, yet the change of setting contradicts this impression. As we’ll see in Chapter 10, experimental films push ambiguous or contradictory editing even further.
+
+ 
+
+6.150 In Last Year at Marienbad, a match on action …
+
+ 
+
+ 
+
+ 
+
+6.151 … across two settings.
+
+ 
+
+ 
+
+CONNECT TO THE BLOG
+
+Early Japanese swordplay movies display some daring editing, as we demonstrate in “Bando on the run.”
+
+See
+www.davidbordwell.net/blog/?p=911.
+
+Our examples indicate that some discontinuities of order, duration, and frequency can become perfectly intelligible in a narrative context. On the other hand, with the jump cut, the nondiegetic insert, and the inconsistent match on action, temporal dislocations can also push away from traditional notions of story altogether and create ambiguous relations among shots.
+
+As an example of the power of spatial and temporal discontinuities in editing, let’s look at a famous example: Sergei Eisenstein’s October.
+
+Functions of Discontinuity Editing: October
+
+For many Soviet filmmakers of the 1920s, editing was a major means of organizing the entire form of the film; it did not simply serve the narrative progression, as in the continuity system. Eisenstein’s Strike, Potemkin, October, and Old and New tried to build a film on the basis of certain editing devices. Rather than subordinate his editing patterns to the mapping out of a story, Eisenstein conceived of these films as editing constructions.
+
+Eisenstein deliberately opposed himself to continuity editing, seeking out and exploiting what Hollywood would consider discontinuities. He often staged, shot, and cut his sequences for the maximum collision from shot to shot and sequence to sequence. He believed that by being forced to synthesize such conflicts the viewer would participate in actively understanding the film.
+
+No longer bound by conventional dramaturgy, Eisenstein’s films roam freely through time and space. They construct intricate patterns of images calculated to stimulate the viewer’s senses, emotions, and thinking. A short passage from October can illustrate how he uses editing discontinuities.
+
+The sequence is the third one in the film (and comprises over 125 shots). The story action is simple. The bourgeois Provisional Government has taken power in Russia after the February Revolution, but instead of withdrawing from World War I, the government has continued to support the Allies. This maneuver has left the Russian people no better off than under the czar. In classical Hollywood cinema, this story might have been shown through a montage sequence of newspaper headlines smoothly linked to a scene wherein a protagonist complains that the Provisional Government has not solved people’s problems. October’s protagonist, though, is not one person but the entire Russian people, and the film does not usually use dialogue scenes to present its story points. Rather, October seeks to go beyond a simple presentation of story events by making the audience actively assemble those events. So the film confronts us with a disorienting and disjunctive set of images.
+
+The sequence begins with shots showing the Russian soldiers on the front casting down their rifles and fraternizing freely with German soldiers (6.152). Eisenstein then cuts back to the Provisional Government, where a flunky extends a document to an unseen ruler (6.153); this document pledges the government to aid the Allies. The soldiers’ fraternization is suddenly disrupted by a bombardment (6.154). The soldiers run back to the trenches and huddle as dirt and bomb fragments rain down on them. Eisenstein then cuts to a series of shots of a cannon being lowered off a factory assembly line. For a time, the narration crosscuts these images with the soldiers on the battlefield (6.155, 6.156). In the last section of the sequence, the shots of the cannon are crosscut with hungry women and children standing in breadlines in the snow (6.157). The sequence ends with two intertitles: “All as before … “/“Hunger and war.”
+
+ 
+
+6.152 In October, Russian and German soldiers talk, drink, and laugh together on the battlefield.
+
+ 
+
+ 
+
+ 
+
+6.153 October: at the Provisional Government’s headquarters.
+
+ 
+
+ 
+
+ 
+
+6.154 October: a bombardment at the front.
+
+ 
+
+ 
+
+ 
+
+6.155 In October, a cannon in a factory intercut …
+
+ 
+
+ 
+
+ 
+
+6.156 … with soldiers at the front.
+
+ 
+
+ 
+
+ 
+
+6.157 In October, a breadline intercut with the war scenes.
+
+ 
+
+ 
+
+Graphically, there are some continuities. When the soldiers fraternize, many shots closely resemble one another graphically, and one shot of a bursting bomb is graphically matched in its movement with men bustling into a trench. But the discontinuities are more noteworthy. Eisenstein cuts from a laughing German soldier facing right to a menacing eagle statue, facing left, at the government headquarters (6.158, 6.159). There is a bold jump cut: The flunky is bowing; then suddenly he is standing up (6.160, 6.161). A static shot of rifles thrust into the snow cuts to a long shot of a bursting shell (6.162, 6.163). When the soldiers race back to the trenches, Eisenstein often opposes their direction of movement from shot to shot.
+
+ 
+
+6.158 October.
+
+ 
+
+ 
+
+ 
+
+6.159 October.
+
+ 
+
+ 
+
+ 
+
+6.160 October.
+
+ 
+
+ 
+
+ 
+
+6.161 October.
+
+ 
+
+ 
+
+ 
+
+6.162 October.
+
+ 
+
+ 
+
+ 
+
+6.163 October.
+
+ 
+
+ 
+
+Moreover, the cutting contrasts shots of the cannon slowly descending with shots of the men crouching in the trenches looking upward (6.155, 6.156). In the last phase of the sequence, Eisenstein juxtaposes the misty, almost completely static shots of the women and children with the sharply defined, dynamically moving shots of factory workers lowering the cannon (6.164). Such graphic discontinuities recur throughout the film, especially in scenes of dynamic action, and stimulate perceptual conflict in the audience. To watch an Eisenstein film is to submit oneself to such percussive, pulsating graphic editing.
+
+ 
+
+6.164 October.
+
+ 
+
+ 
+
+Eisenstein also makes vigorous use of temporal discontinuities. The sequence as a whole is opposed to Hollywood rules in its refusal to present the order of events unambiguously. Does the crosscutting of battlefield and government, and factory and street indicate simultaneous action? (Consider, for example, that the women and children are seen at night, whereas the factory appears to be operating in the daytime.) It is impossible to say if the battlefield events take place before or after or during the women’s vigil. Eisenstein has sacrificed the delineation of 1-2-3 order so that he can present the shots as emotional and conceptual units.
+
+Duration is likewise variable. The soldiers fraternize in fairly continuous time, but the Provisional Government’s behavior presents drastic ellipses; this permits Eisenstein to identify the government as the unseen cause of the bombardment that ruptures the peace. At one point, Eisenstein uses one of his favorite devices, a temporal expansion: there is an overlapping cut as a soldier drinks from a bottle. The cut recalls the expanded sequence of the wheel knocking over the foreman in Strike (6.44–6.46). At another point, the gradual collapse of the women and children waiting in line is elided. We see them standing, then later lying on the ground. Even frequency is made discontinuous: it is difficult to say whether we are seeing several cannons lowered off the assembly line or only one descending cannon shown several times. Again, Eisenstein seeks a specific juxtaposition of elements, not obedience to a time line. Editing’s manipulation of order, duration, and frequency subordinates straightforward story time to specific conceptual relationships. Eisenstein creates these relations by juxtaposing disparate lines of action through editing.
+
+Spatially, the October sequence runs from rough continuity to extreme discontinuity. Although at times the 180° rule is respected (especially in the shots of women and children), never does Eisenstein begin a section with an establishing shot. Reestablishing shots are rare, and seldom are the major components of the locales shown together in one shot.
+
+Throughout, the classical continuity of space is broken by the intercutting of the different locales. To what end? By violating space in this manner, the film invites us to make emotional and conceptual connections. For example, crosscutting to the Provisional Government makes it the source of bombardment, a meaning reinforced by the way the first explosions are followed by the jump cut of the government flunky.
+
+CONNECT TO THE BLOG
+
+We give several examples of striking and effective cuts in “Some cuts I have known and loved,” at www.davidbordwell.net/blog/?p=2346.
+
+More daringly, by cutting from the crouching soldiers to a descending cannon, Eisenstein powerfully depicts the men being crushed by the war-making apparatus of the government. This is reinforced by a false eyeline match from soldiers looking upward, as if at the lowering cannon—false because, of course, the two elements are in entirely separate settings (6.155, 6.156). By later showing the factory workers lowering the cannon (6.164), the cutting links the oppressed soldiers to the oppressed proletariat. Finally, as the cannon hits the ground, Eisenstein crosscuts images of it with the shots of the starving families of the soldiers and the workers. They, too, are shown as crushed by the government machine. As the cannon wheels come ponderously to the floor, Einstein cuts to the women’s feet in the snow, and the machine’s heaviness is linked by titles (“one pound,” “half a pound”) to the steady starvation of the women and children. Although all of the spaces are in the story, such discontinuities create a running political commentary on the story events.
+
+In all, then, Eisenstein’s spatial editing, like his temporal and graphic editing, constructs correspondences, analogies, and contrasts that ask us to interpret the story events. The interpretation is not simply handed to the viewer; rather, the editing discontinuities push the viewer to work out implicit meanings. This sequence, like others in October, demonstrates that there are powerful alternatives to the principles of classical continuity.
+
+SUMMARY
+
+When any two shots are joined, we can ask several questions:
+
+How are the shots graphically continuous or discontinuous?
+
+What rhythmic relations are created?
+
+Are the shots spatially continuous? If not, what creates the discontinuity? (Crosscutting? Ambiguous cues?) If the shots are spatially continuous, how does the 180° system create the continuity?
+
+Are the shots temporally continuous? If so, what creates the continuity? (For example, matches on action?) If not, what creates the discontinuity? (Ellipsis? Overlapping cuts?)
+
+More generally, we can ask the question we ask of every film technique: How does this technique function with respect to the film’s narrative form? Does the film use editing to lay out the narrative space, time, and cause–effect chain in the manner of classical continuity? How do editing patterns emphasize facial expressions, dialogue, or setting? Do editing patterns withhold narrative information? In general, how does editing contribute to the viewer’s experience of the film?
+
+Some practical hints: You can learn to notice editing in several ways. If you are having trouble noticing cuts, try watching a film or TV show and tapping with a pencil each time a shot changes. Once you recognize editing easily, watch any film with the sole purpose of observing one editing aspect—say, the way space is presented or the control of graphics or time. Sensitize yourself to rhythmic editing by noting cutting rates; tapping out the tempo of the cuts can help.
+
+Watching 1930s and 1940s American films can introduce you to classical continuity style; try to predict what shot will come next in a sequence. (You’ll be surprised at how often you’re right.) When you watch a film on video, try turning off the sound; editing patterns become more apparent this way. When there is a violation of continuity, ask yourself whether it is accidental or serves a purpose. When you see a film that does not obey classical continuity principles, search for its unique editing patterns. Use the slow-motion, freeze, and reverse controls on a DVD player to analyze a film sequence as this chapter has done. (Almost any film will do.) In such ways as these, you can considerably increase your awareness and understanding of the power of editing.
+
+WHERE TO GO FROM HERE
+
+What Editing Is
+
+Professional reflections on the work of the film editor include Ralph Rosenblum, When the Shooting Stops … The Cutting Begins: A Film Editor’s Story (New York: Penguin, 1980); Edward Dmytryk, On Film Editing (Boston: Focal Press, 1984); Vincent Lo Brutto, Selected Takes: Film Editors on Film Editing (New York: Praeger, 1991); Gabriella Oldham, First Cut: Conversations with Film Editors (Berkeley: University of California Press, 1992); and Declan McGrath, Editing and Post-Production (Hove, England: RotoVision, 2001). See also Ken Dancyger, The Technique of Film and Video Editing: History, Theory, and Practice, 4th ed. (Boston: Focal Press, 2007), and “The Art and Craft of Film Editing,” Cineaste 34, 2 (Spring 2009): 27–64.
+
+Walter Murch, one of the most thoughtful and creative editors in history, provides a rich array of ideas in In the Blink of an Eye: A Perspective on Film Editing, 2d ed. (Los Angeles: Silman-James, 2001). Murch, who worked on American Graffiti, The Godfather, Apocalypse Now, and The English Patient, has always conceived of image and sound editing as part of the same process. He shares his thoughts in an extended dialogue with prominent novelist Michael Ondaatje in The Conversations: Walter Murch and the Art of Editing Film (New York: Knopf, 2002). Ever the experimenter, Murch tried using an inexpensive digital program to edit a theatrical feature. The result is traced in detail in Charles Koppelman, Behind the Seen: How Walter Murch Edited Cold Mountain Using Apple’s Final Cut Pro and What This Means for Cinema (Berkeley, CA: New Riders, 2005). You can listen to Murch discussing his work on the National Public Radio program Fresh Air, available at www.npr.org.
+
+We await a large-scale history of editing, but André Bazin sketches a very influential account in “The Evolution of Film Language,” in What Is Cinema? vol. 1 (Berkeley: University of California Press, 1967), pp. 23–40. Editing in early U.S. cinema is carefully analyzed by Charlie Keil in Early American Cinema in Transition: Story, Style, and Filmmaking, 1907–1913 (Madison: University of Wisconsin Press, 2001). Professional editor Don Fairservice offers a thoughtful account of editing in the silent and early sound eras in Film Editing: History, Theory and Practice (Manchester: Manchester University Press, 2001). Several sections of Barry Salt’s Film Style and Technology: History and Analysis (London: Starword, 1992) are devoted to changes in editing practices.
+
+Documentary films characteristically rely on editing, perhaps more than fictional films do. A set of cutting conventions has developed. For example, it is common to intercut talking-head shots of conflicting experts as a way of representing opposing points of view. Interestingly, in making The Thin Blue Line, Errol Morris instructed his editor, Paul Barnes, to avoid cutting between the two main suspects. “He didn’t want the standard documentary good guy/bad guy juxtaposition…. He hated when I intercut people telling the same story, or people contradicting or responding to what someone has just said” (Oldham, First Cut,
+p. 144). Morris apparently wanted to give each speaker’s version a certain integrity, letting each stand as an alternative account of events.
+
+Dimensions of Film Editing
+
+Very little has been written on graphic aspects of editing. See Vladimir Nilsen, The Cinema as a Graphic Art (New York: Hill & Wang, 1959), and Jonas Mekas, “An Interview with Peter Kubelka,” Film Culture 44 (Spring 1967): 42–47.
+
+What we are calling rhythmic editing incorporates the categories of metric and rhythmic montage discussed by Sergei Eisenstein in “The Fourth Dimension in Cinema,” in Selected Works, vol. I, pp. 181–94. For a sample analysis of a film’s rhythm, see Lewis Jacobs, “D. W. Griffith,” in The Rise of the American Film (New York: Teachers College Press, 1968), chap. 11, pp. 171–201. Television commercials are useful to study for rhythmic editing, for their highly stereotyped imagery permits the editor to cut the shots to match the beat of the jingle on the sound track.
+
+The Kuleshov experiments have been variously described. The two most authoritative accounts are in V. I. Pudovkin, Film Technique (New York: Grove Press, 1960), and Ronald Levaco, trans. and ed., Kuleshov on Film: Writings of Lev Kuleshov (Berkeley: University of California Press, 1974), pp. 51–55. For a summary of Kuleshov’s work, see Vance Kepley, Jr., “The Kuleshov Workshop,” Iris 4, 1 (1986): 5–23. Can the effect actually suggest an expressionless character’s emotional reaction? Two film researchers tried to test it, and their skeptical conclusions are set forth in Stephen Prince and Wayne E. Hensley, “The Kuleshov Effect: Recreating the Classic Experiment,” Cinema Journal 31, 2 (Winter 1992): 59–75. During the 1990s, two Kuleshov experiments, one complete and one fragmentary, were discovered. For a description and historical background on one of them, see Yuri Tsivian, Ekaterina Khokhlova, and Kristin Thompson, “The Rediscovery of a Kuleshov Experiment: A Dossier,” Film History 8, 3 (1996): 357–67.
+
+Continuity Editing
+
+For a historical discussion of continuity editing, see Chapter 12 and the chapter’s bibliography. The hidden selectivity that continuity editing can achieve is well summarized in a remark from Thom Noble, who edited Fahrenheit 451 and Witness: “What usually happens is that there are maybe seven moments in each scene that are brilliant. But they’re all on different takes. My job is to try and get all those seven moments in and yet have it look seamless, so that nobody knows there’s a cut in there” (quoted in David Chell, ed., Moviemakers at Work [Redmond, WA: Microsoft Press, 1987], pp. 81–82).
+
+Many sources spell out the rules of continuity. See Karel Reisz and Gavin Millar, The Technique of Film Editing (New York: Hastings House, 1973); Daniel Arijohn, A Grammar of the Film Language (New York: Focal Press, 1978); Edward Dmytryk, On Screen Directing (Boston: Focal Press, 1984); and Stuart Bass, “Editing Structures,” in Transitions: Voices on the Craft of Digital Editing (Birmingham, England: Friends of ED, 2002), pp. 28–39; and Richard D. Pepperman, The Eye Is Quicker: Film Editing: Making a Good Film Better (Los Angeles: Michael Wiese Productions, 2004). Our diagram of a hypothetical axis of action has been adapted from Edward Pincus’s concise discussion in his Guide to Filmmaking (New York: Signet, 1969), pp. 120–25.
+
+For analyses of the continuity style, see Ramond Bellour, “The Obvious and the Code,” Screen 15, 4 (Winter 1974–75): 7–17, and André Gaudreault, “Detours in Film Narrative: The Development of Cross-Cutting,” Cinema Journal 19, 1 (Fall 1979): 35–59. Joyce E. Jesionowski presents a detailed study of Griffith’s distinctive version of early continuity editing in Thinking in Pictures: Dramatic Structure in D. W. Griffith’s Biograph Films (Berkeley: University of California Press, 1987). David Bordwell’s Planet Hong Kong: Popular Cinema and the Art of Entertainment (Cambridge, MA: Harvard University Press, 2000) considers how Hollywood continuity was used by another national cinema.
+
+Professional editor Bobbie O’Steen analyzes sequences from 10 Hollywood classics shot by shot in The Invisible Cut: How Editors Make Movie Magic (Studio City, CA: Michael Wiese Productions, 2009).
+
+Contemporary Editing and Intensified Continuity
+
+Taught in film schools and learned on the job by beginning filmmakers, the principles of continuity editing still dominate cinema around the world. As we suggested on p. 250, however, there have been some changes in the system. Shots tend to be shorter (Moulin Rouge contains over 4000) and framed closer to the performers. The medium shots in older filmmaking traditions display the hands and upper body fully, but intensified continuity concentrates on faces, particularly the actor’s eyes. Film editor Walter Murch says, “The determining factor for selecting a particular shot is frequently: ‘Can you register the expression in the actor’s eyes?’ If you can’t, the editor will tend to use the next closer shot, even though the wider shot may be more than adequate when seen on the big screen.”
+
+There’s some evidence that today’s faster cutting pace and frequent camera movements allow directors to be a bit loose in matching eyelines. In several scenes of Hulk, Mystic River, 8 Mile, and Syriana, the axis of action is crossed, sometimes repeatedly. If viewers aren’t confused by these cuts, it’s perhaps because the actors don’t move around the set very much and so the overall spatial layout remains clear. More complex spatial layouts may require more cutaways and sound cues, as editor Alan Heim explains with respect to one scene in The Notebook. See the Editors Guild website at www.editorsguild.com/v2/magazine/Newsletter/JulAug04/julaug04_notebook.html.
+
+For more on intensified continuity, see David Bordwell, The Way Hollywood Tells It: Story and Style in Modern Movies (Berkeley: University of California Press, 2006), pp. 117–89.
+
+Alternatives to Continuity Editing
+
+Eisenstein remains the chief source in this area. A highly introspective filmmaker, he bequeathed us a rich set of ideas on the possibilities of non-narrative editing; see the essays in Selected Works, vol. 1. For further discussion of editing in October, see the essays by Annette Michelson, Noël Carroll, and Rosalind Krauss in the special “Eisenstein/Brakhage” issue of Artforum 11, 5 (January 1973): 30–37, 56–65. For a more general view of Eisenstein’s editing, see David Bordwell, The Cinema of Eisenstein (Cambridge, MA: Harvard University Press, 1993). The writings of another Russian, Dziga Vertov, are also of interest. See Annette Michelson, ed., Kino-Eye: The Writings of Dziga Vertov (Berkeley: University of California Press, 1984). On Ozu’s manipulation of discontinuities, see David Bordwell, Ozu and the Poetics of Cinema (Princeton, NJ: Princeton University Press, 1988).
+
+Websites
+
+www.editorsguild.com/v2/index.aspx/ A website supporting Editors Guild magazine, with many articles and interviews discussing editing in current films.
+
+www.uemedia.com/CPC/editorsnet/ Offers articles on contemporary problems of editing.
+
+www.cinemetrics.lv/ Want to study cutting rhythms in a movie of your choice? This nifty software allows you to come up with a profile of editing rates.
+
+Recommended DVD Supplements
+
+Watching people editing is not very exciting, and this technique usually gets short shrift in DVD supplements. Each film in the Lord of the Rings trilogy, however, has an “Editorial” section, and The Fellowship of the Ring includes an “Editorial Demonstration,” juxtaposing the raw footage from six cameras in an excerpt from the Council of Elrond scene and showing how sections from each were fitted together. (An instructive exercise in learning to notice continuity editing would be to watch the Council of Elrond scene in the film itself with the sound turned off. Here a complex scene with many characters is stitched together with numerous correct eyeline matches and occasional matches on action. Imagine how confusing the characters’ conversations could have been if no attention had been paid to eyeline direction.)
+
+The DVD release of Lodge Kerrigan’s Keane includes not only the theatrical version but a completely recut version of the film by producer Steven Soderberg. Soderberg calls his cut his “commentary track” for the disc.
+
+In “Tell Us What You See,” the camera operator for A Hard Day’s Night discusses continuity of screen direction, and in “Every Head She’s Had the Pleasure to Know,” the film’s hairdresser talks about having to keep hair length consistent for continuity.
+
+“15-Minute Film School with Robert Rodriguez,” one of the Sin City supplements, provides a clear instance of the Kuleshov effect in use. Although Rodriguez does not use that term, he demonstrates how he could cut together shots of characters interacting with each other via eyeline matches even though several of the actors never worked together during the filming.
+
+A brief section of Toy Story’s supplements entitled “Layout Tricks” demonstrates how continuity editing principles are adhered to in animation as well as live-action filming. In a shot/reverse-shot sequence involving Buzz and Woody, the filmmakers diagram (as we do on p. 238) where a camera can be placed to maintain the axis of action (or “stage line,” as it is termed here). The segment also shows how a camera movement can be used to shift the axis of action just before an important character enters the scene.
+
+“Destination Yuma,” a short making-of for 3:10 to Yuma, contains an excellent demonstration of multiple-camera shooting for a scene of a stagecoach flipping over; the shooting and views from different cameras are immediately followed by the scene as edited in the final film. The audio commentary for El Mariachi (Sony “Special Edition”) describes editing scenes using the Kuleshov effect.

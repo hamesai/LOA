@@ -1,0 +1,272 @@
+GLOSSARY
+This partial list of terms includes the basic technical vocabulary used in this
+book. A more complete collection of ﬁlm terms can be found in How to
+Read a Film, by James Monaco; The VES Handbook of Visual Effects:
+Industry Standard VFX Practices, by Jeffrey A. Okun and Susan Zwerman;
+Focal Encyclopedia of Film and Television Techniques, by Raymond
+Spottiswoode; and the current standard comprehensive dictionary of ﬁlm,
+The Complete Film Dictionary, 2nd Edition, by Ira Konigsberg.
+A
+AERIAL or BIRD’S EYE SHOT A shot taken from a very high angle,
+most often a wide establishing shot. Drones, with their ability to affordably
+acquire high-angle video in remote or difﬁcult locations, have increased the
+use of these shots.
+AMERICAN SOCIETY OF CINEMATOGRAPHERS (ASC) A
+nonproﬁt craft organization of cinematographers with headquarters in
+Hollywood, California. This organization publishes both the American
+Cinematographer Manual and The American Cinematographer, a monthly
+magazine.
+ANGLE OF VIEW The size of the ﬁeld covered by a lens measured in
+degrees. A wide-angle lens has a wide angle of view while a telephoto lens
+has a narrow angle of view. Because a rectangular aperture masks the ﬁlm,
+the angle of view for any given lens is described according to the height and
+width of the aperture.
+ASPECT RATIO The relationship between the height and width of a
+motion-picture or television frame expressed numerically. Since the advent
+of digital projection standards there is one dominant projection aspect ratio,
+16:9; HDTV has varying resolutions, including 2k, 4k, and 5k, with 8k also
+being introduced. A wider aspect ratio on the order of CinemaScope is
+accomplished by reducing the height of the picture.
+
+B
+BEAT BOARDS Simple thumbnail sketches of key moments in a story or
+“story beats.” Typically used after a shot list and as preparation for a more
+detailed storyboard.
+BLOCKING THE SCENE The arrangement and choreographed
+movement of actors and major props (e.g., automobiles, horses) for the
+camera. Also called staging. Since the camera can also move, blocking the
+scene may include the movement of the camera.
+BOOM 1. Camera boom. A mechanical arm counterweighted to support a
+camera and attached to a dolly. Operated manually or by remote control, it
+permits a technician to move the camera over or through spaces that would
+otherwise be inaccessible. 2. Microphone boom. A telescoping arm that
+supports a microphone. The soundman positions the microphone just
+outside the camera frame while recording sound within the scene.
+C
+CAMERA ANGLE The viewpoint chosen by the director or
+cinematographer to photograph a subject.
+CAMERA ANGLE PROJECTION A method of turning the architectural
+plan and elevation for a set into a perspective drawing for the purpose of
+previewing how the ﬁnished set will appear to the camera when using a
+particular lens, camera position, and aspect ratio.
+CANTED FRAME Sometimes called Chinese or Dutch angles. The
+angling of the camera so that the horizontal frame line is not parallel to the
+horizon. A slightly canted frame dynamically charges the composition,
+while extreme angling has become a conventional way of conveying
+disorder and mayhem. The canted frame was used extensively in Carol
+Reed’s The Third Man.
+CHOKER SHOT Essentially a close-up, most often including the chin to
+top of hair with a little room at the top and bottom.
+CONTINUITY STYLE The photographic and editorial style that creates
+the illusion of a spatial/temporal continuum so that a sequence of shots
+appears to present events as they happened. The continuity style is the
+
+predominant style of narrative ﬁlms, sometimes called the Hollywood
+classical style or in France, “découpage classique.”
+COUNTERING Camera movement that is in the opposite direction of a
+moving subject.
+COVER SHOT See MASTER SHOT.
+CROSS-CUTTING The alternating of shots from two or more scenes to
+indicate parallel action.
+CUTAWAY A single shot inserted into a sequence that momentarily
+interrupts the general ﬂow of action. The inserted shot may introduce a
+pertinent detail or a new location related to the action, or a POV shot.
+D
+DEEP FOCUS A style of cinematography and staging that uses wide-angle
+lenses and small lens apertures to emphasize depth by keeping objects in
+the extreme foreground and background in focus simultaneously.
+DEPTH OF FIELD The amount of space in front of and behind the focus
+plane that appears acceptably sharp through a lens.
+DETAIL SHOT A tighter, more highly magniﬁed version of the close-up
+used to show a fragment of a whole subject or a small object in its entirety.
+DIGITAL INTERMEDIATE (D. I.) The process of digitally color
+correcting a ﬁnished ﬁlm/video in postproduction performed in a real-time
+DI suite, typically with the director present.
+DOLLY SHOT A shot made from a moving dolly. Also called a tracking
+or traveling shot.
+DRONE SHOT A shot made from a quad copter or drone.
+E
+ESTABLISHING SHOT A shot to introduce a new location in a movie,
+typically a wide shot from a high angle, and the ﬁrst shot of the new scene.
+However, while many directors establish this way, directors such as Steven
+Spielberg may begin a scene in close-up and pull back to a wide shot — an
+inherently more provocative approach. See AERIAL SHOT.
+
+F
+FLASH CUT An extremely brief shot, as short as one frame, which is
+nearly subliminal in effect. Also, a series of short staccato shots that create
+a rhythmic effect.
+FOCUS IN, OUT A transition effect by which an incoming shot comes
+into focus or an outgoing shot goes out of focus.
+FOCUS PULL/FOLLOW FOCUS The refocusing of the lens during a
+shot to keep a moving subject within the depth of ﬁeld.
+FOLLOW SHOT A tracking shot, pan, or zoom move that follows a
+moving subject.
+FORMS, OPEN AND CLOSED Styles of graphic composition. OPEN
+FORMS tend to emphasize looser, less controlled positioning of elements in
+the frame as if they were unplanned, extending beyond the boundaries of
+the frame as though the camera just discovered them. Open-form
+compositions are characteristic of documentary ﬁlms, accounting for their
+reputation as being more realistic. CLOSED FORMS tend toward selfcontained compositions carefully arranged to include everything of
+importance within the frame.
+FRONTALITY A style of ﬁgure placement in composition, popular in
+Western art, in which the subject of a painting or drawing faces the general
+direction of the viewer.
+I
+INSERT, INSERT SHOT Usually a close-up showing an important detail
+of a scene.
+INTERCUT See CROSS-CUTTING.
+J
+JIB ARM A mechanical arm supported on a dolly and counterweighted to
+hold the camera for an increased range of motion, usually vertical.
+JUMP CUT A linkage of shots in a scene in which the appearance of real
+continuous time has been interrupted by omission. In certain situations,
+jump cuts are an accepted convention for compressing time. They can also
+
+be used as a deliberately disruptive device to make the viewer aware of ﬁlm
+technique, as in the work of Godard. Recent trends have seen the use of the
+staccato jump cut in music videos and commercials for purely rhythmic
+effect.
+L
+LOCKED-OFF CAMERA When the camera is on a tripod or other stable
+support, the mechanism that controls the movement of the camera, such as a
+ﬂuid or geared head, can be locked in position for a static shot.
+LOOSE Refers to the composition of a shot. Loose framing includes a
+great deal of space around a subject.
+M
+MARK As in “hit your mark.” The mark in this case is the place the actor
+is supposed to be. Most often the mark is a location in the scene an actor is
+going to. It could be a few feet away from the actor’s position or across a
+room. The mark is typically identiﬁed with a piece of colored adhesive tape
+placed on the ﬂoor, out of camera view but visible to the actor in the scene.
+MASTER/MASTER SHOT The viewpoint of a scene in which the
+relationships between subjects are clear and the entire dramatic action could
+be understood if no other shots were used (as opposed to the wider
+establishing shot).
+MATCH CUT A transition effect between shots in a scene, or as a
+transition. 1. Two shots of the same action joined so that continuous motion
+is preserved. 2. Two or more shots of the same subject joined to preserve
+continuous placement and motion in each shot to indicate the passage of
+time. 3. Two shots of different subjects that share graphic elements or
+motion with precisely registered contours. For example, an image of the
+moon in a ﬁrst shot lines up exactly with a circular mirror in a second shot.
+In Bob Fosse’s All That Jazz, several dancers in a rehearsal hall are seen
+from one angle executing the same steps. Match cuts connect the actions as
+if they were performed by one dancer in an unbroken movement.
+MISE-EN-SCÈNE In French, “putting in the scene.” Originally, the term
+described the physical production of a play: the sets, props, and staging of a
+
+scene. Over the years, the term has been adapted to the description of ﬁlmic
+space — that is, the manipulation of staging and action within a shot during
+ﬁlming as opposed to the manipulation of space afterwards in the editorial
+process.
+MONTAGE From the French term “to assemble.” In European ﬁlm,
+montage is a description of the editorial process. In Soviet ﬁlm, under the
+inﬂuence of the early Soviet directors, particularly Sergei Eisenstein,
+montage represented the very essence of ﬁlm art. In the United States,
+montage has a special meaning, referring to a concentrated narrative device,
+usually lasting only a minute, in which a portion of the story is expressed
+without dialogue using a series of dissolves to connect short, expressive,
+often symbolic shots.
+MOVING SHOT A shot in which the camera is moved to follow a moving
+subject.
+O
+OFF CAMERA (OC) Same as offscreen.
+OFFSCREEN (OS) Direction in a screenplay when a subject or sound is
+outside of the camera frame.
+ON CAMERA Term indicating that a player or object can be seen by the
+camera.
+OTS (Over The Shoulder shot) A composition in which an actor or
+character is placed on the left or right side of the camera, but past the
+vertical center of the frame with their back to the camera. This leaves room
+on the opposite side of the frame for the actor (who is facing the camera).
+This staging is very common in dialogue scenes. In addition to over-theshoulder framings, the same idea works over the hip, or over the knee.
+Essentially, the OTS uses one actor in a scene as a framing device.
+Typically, the OTS is part of a Shot, Reverse Shot pattern.
+P
+PERSPECTIVE In the graphic arts and ﬁlm, the illusion of depth on a
+two-dimensional surface.
+
+PIXEL A physical point in a raster image or more simply, the smallest
+controllable element of a digital picture represented on a screen. Pixels are
+the little square tiles that you see when you zoom into a digital image.
+POINT OF VIEW (POV) SHOT A subjective viewpoint, one that is
+understood to represent an individual’s vision.
+PRESENCE 1. In audio recording, the ambient sound characteristic of a
+room or location. 2. The term used by André Bazin to identify the illusion
+of real third-dimensional space that the viewer experiences when watching
+a ﬁlm. Bazin regarded this as a further development of Renaissance linear
+perspective.
+PREVISUALIZATION/PREVIS/PREVIZ The prototyping of a ﬁlm
+sequence using digital technology.
+PRINCIPAL PHOTOGRAPHY The main photography of a ﬁlm and the
+period of time during which it takes place.
+PULLBACK SHOT A dolly shot or zoom effect that begins in close-up on
+an object and slowly widens to include more of the area surrounding the
+object.
+R
+REACTION SHOT In a dialogue scene the shot of a player listening while
+another player’s voice continues on the sound track. Most reaction shots are
+close-ups.
+RETRACKING The backward movement of the camera on a dolly (on or
+off track) along a path that it has already covered in the same shot or in a
+previous shot in the same scene.
+REVERSE ANGLE A shot that is turned approximately 180 degrees in
+relation to the preceding shot.
+S
+SCRATCH TRACK A temporary voice recording for animation or
+previsualization in which inexpensive voice talent or members of the
+creative team are substituted for bankable voice talent (movie stars) during
+preproduction.
+
+SEQUENCE SHOT A traveling camera shot in which choreographed
+action and camera movement replace the need for individual shots to
+describe complex action.
+SETUP The choice of camera angle, shot size, and staging. It is frequently
+described by the number of players in a shot: A two-shot, over-the-shoulder
+shot, and close-up are all typical setups.
+SHALLOW FOCUS A shallow depth of ﬁeld. Shallow focus is sometimes
+used to isolate a subject in focus from the indistinct background and
+foreground.
+SHOT, REVERSE SHOT or SHOT, COUNTER SHOT An editing and
+compositional pattern typical of dialogue sequences in which the camera
+frames a subject (the shot) and cuts to a matching (reverse) shot from a new
+angle approximately 180 degrees from the ﬁrst. This is a staple of dialogue
+sequences or any situation where there are two or more subjects interacting.
+The pair of shots is alternated with dialogue and each shot is a mirror image
+of the previous shot, but alternating between the actors. However, a Shot,
+Reverse Shot pattern is not restricted to dialogue and can also work with
+any subjects.
+SIGHT LINE An imaginary line that is drawn between a subject and the
+object he or she is looking at. When individual CUs of two subjects in
+conversation are joined together in a sequence their sight lines must match
+in order that they appear to be looking at each other.
+SINGLE A shot with only one subject in the frame.
+STATIC CAMERA Any shot in which the camera does not move.
+SUBJECTIVE CAMERA A camera technique that presents the viewpoint
+of a character in the scene. See POINT OF VIEW (POV) SHOT.
+SWISH PAN A rapid panning movement that blurs the frame. It is often
+used as a transition. Also called a FLASH PAN.
+T
+TAKE One version of a shot. The director has the cast and crew repeat the
+action of the shot in successive takes until he or she is satisﬁed it is correct.
+
+TIGHT Describes the size of a shot relative to its subject. A tight frame
+encloses a subject with very little space surrounding it.
+TRACKING SHOT A shot taken from a camera mounted on a dolly or
+some other moving vehicle.
+TRAVELING SHOT Any shot in which the camera moves through space.
+A crane shot and a tracking shot are both traveling shots. A pan shot,
+however, is not a traveling shot since the camera remains at one location
+pivoting a stationary point.
+TWO-SHOT A shot that frames two people.
+V
+VOICE-OVER (VO) The voice of an unseen narrator. Voice-over may also
+be used to indicate the thoughts of a character in a scene when the character
+is not speaking.
+W
+WIPE A transition between shots.
+WRAP The ofﬁcial end of a day’s shooting.
+Z
+ZIP PAN See SWISH PAN.
+ZOOM The movement of a zoom lens or the lens itself.

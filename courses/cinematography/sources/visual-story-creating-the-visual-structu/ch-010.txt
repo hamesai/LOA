@@ -1,0 +1,253 @@
+CHAPTER 5
+
+Tone
+
+Tone is the easiest visual component to explain and understand. Tone refers to the brightness of objects.
+
+ 
+
+The range of tones from black to white can be organized on a gray scale. Controlling the brightness of objects is critical when shooting in black & white or color. In fact, color photography can distract you from the important visual contributions that tone makes in a picture.
+
+Tonal control can help direct the audience’s attention to a specific area of the picture. If there isn’t any movement in a shot, the audience will usually look at the brightest object first. The tonal range of a picture can also affect its mood and emotional feeling as well as increase or reduce the visual intensity.
+
+Controlling Tone
+
+There are three ways to control the tone or brightness of objects in a shot: art direction (reflective control), lighting (incident control), and exposure (camera and lens adjustments).
+
+1. ART DIRECTION (REFLECTIVE CONTROL)
+
+The brightness range of a picture can be controlled by the actual reflectance value of the objects in the shot. This puts the tonal control entirely in the hands of the art director and costume designer. If a production requires a dark look, paint the scenery dark, wear dark clothing, and remove all the bright objects from the shot. The production will look dark because everything on camera is actually dark.
+
+ 
+
+This picture is primarily dark because the actors are wearing black and the walls and drapes are dark gray. The shot’s overall tonal range, controlled by art direction, is limited to the lower third of the gray scale.
+
+ 
+
+This tonal range is primarily in the upper third of the gray scale. Almost every object in the shot is bright due to the actual reflectance value of the object itself.
+
+ 
+
+Art direction adds contrast to this tonal range because the actors are wearing black costumes and the location is painted white. Most of the middle gray tones have been eliminated.
+
+If the tonal range is being controlled by art direction, the lighting must be shadowless because the gray scale is being controlled only by the actual brightness of objects, not by the lighting.
+
+ 
+
+The tonal range of television situation comedies and talk shows is usually controlled by art direction. In these examples the set is lighted evenly to give the actors freedom of movement and to accommodate any possible camera angle. The art director and costume designer control the tonal range of the production.
+
+ 
+
+Outdoor photography in overcast weather provides an overall even light. In these circumstances, the art department controls the gray scale. The tonal range of the scene is controlled by the actual brightness of the props, set dressing, and location, not the lighting.
+
+2. LIGHTING (INCIDENT CONTROL)
+
+The second method of controlling the tonal range of a picture is lighting. Now the photographer, not the art director, controls the gray scale. The brightness range of the shot depends on the amount of light falling on objects, not the actual brightness of the objects themselves.
+
+Using light and shadow, bright objects can appear dark, and dark objects can appear bright.
+
+ 
+
+The tonal contrast in this shot is controlled by the lighting. Most of the actor’s face is in shadow and there isn’t any light on the background.
+
+ 
+
+The general brightness range of this shot is limited to the upper third of the gray scale. Objects that are actually dark now look bright because of the lighting and the lens exposure.
+
+ 
+
+The tonal range of this shot is almost entirely in the lower third of the gray scale. Objects that are actually bright appear dark because they’re in shadow and the under-exposure pushes their tones into the lower third of the gray scale.
+
+Here are two shots of the same location. The photo on the left uses art direction to control the gray scale. The room is lit evenly so the tonal range of the scene is controlled by art direction and the actual reflectance value of the objects. The tiles are mostly white, and the actor’s robe is very dark. The photo on the right uses lighting to control the tonal range of the shot. The light and shadow completely reorganizes the location’s tonal range. Now the tiles and the robe are both dark. The brightest areas are the sinks, the window, and small areas of the floor.
+
+3. EXPOSURE
+
+The third method for controlling the tonal range of a shot uses the camera or lens.
+
+ 
+
+The tonal range of these pictures was modified by adjusting the lens aperture. This method will not allow selective control of one object or area but will affect the tonal range of the entire shot.
+
+All three of these methods for controlling the tonal range can be used individually or as a group.
+
+ 
+
+The tonal range in the above shot is controlled by art direction. Everything in the shot is painted white. The entire scene uses shadowless, even lighting. The lines and shapes are difficult to see because the tonal range lacks contrast.
+
+ 
+
+This photo is the identical scene. The lighting and camera exposure were not adjusted, but the art direction is changed. The columns and background behind the windows have been painted black. The set’s lines and shapes are obvious because of the tonal contrast. The set’s tonal range is still being controlled only by the art direction.
+
+ 
+
+In this third version of the same scene, the entire set has been painted white. The lens exposure has not been adjusted, but the lighting is changed. The lines and shapes are easy to see because of the tonal contrast added by the lighting and shadows. The tonal range is now being controlled by the photographer.
+
+ 
+
+In this fourth example, the tonal range is controlled by the art direction, lighting, and lens exposure. The wall of windows and the columns are painted white and the background behind the windows is painted black. The lighting has added additional shadows and highlights. The lens exposure has been adjusted to alter the scene’s overall tonal range.
+
+Coincidence & Non-Coincidence
+
+Coincidence and non-coincidence of tone refers to the relationship between the subject and the tonal organization of the shot. Coincidence of tone occurs when the tonal range reveals the subject. Non-coincidence occurs when the tonal range hides the subject. To determine if a shot is coincidence or non-coincidence, the picture maker must first identify the specific subject of the shot.
+
+ 
+
+The subject of an actor’s close-up is the face. Generally, in a close-up an audience looks specifically at the actor’s eyes. In Shot #1 the subject (the face) is clearly revealed by the tonal organization. The audience can easily see the actor’s eyes and facial expression. The subject and the tonal organization coincide, so Shot #1 is coincidence of tone. In Shot #2 the tonal organization hides the subject (the face). We know there’s a person but we cannot see the eyes or the facial expression. The subject and the tonal organization do not coincide, so Shot #2 is non-coincidence of tone.
+
+ 
+
+The subject of Shot #3 is “a person” standing in the doorway. The subject is not the face, it’s the entire person. The tonal organization of Shot #3 reveals the person so it’s coincidence of tone. Shot #4 is non-coincidence of tone because the person, who is still standing in the doorway, is obscured. The subject, a person, is hidden by the tonal organization.
+
+Identifying and using coincidence or non-coincidence of tone can be confusing unless you have clearly identified the specific subject of your shot. Physically hiding the subject behind another object isn’t non-coincidence of tone. The obscuring of the subject must be accomplished through the control of tone using light or shadow.
+
+ 
+
+These two shots are both coincidence of tone. Coincidence of tone makes it easy for the audience to follow the subject. How a filmmaker uses coincidence of tone depends on the story and their personal preferences.
+
+ 
+
+The actor’s face, the subject of this shot, is obscured by the non-coincidence of tone. The identity of the character (the informant in All The President’s Men) is being withheld from the audience by keeping the actor’s face in shadow.
+
+NON-COINCIDENCE DUE TO DARKNES
+
+These two shots are both non-coincidence of tone. The audience cannot see the subject of the shot (in this case, the faces of the actors). Non-coincidence of tone can be achieved by hiding the subject in darkness (the Kurtz character in Apocalypse Now) or obscuring it with tonal brightness and over-exposure (the psychotic title character in Mr. Brooks).
+
+ 
+
+In this scene from Whiplash the music teacher is introduced in a shot that begins as non-coincidence and then, when the actor steps into the light, becomes coincidence. The teacher’s expository entrance foreshadows his menacing personality.
+
+A key ingredient in horror, mystery, and suspense films often involves hiding the subject from the audience. Obscuring the subject can make the audience feel anxious, curious, or frightened. Because non-coincidence of tone conceals the visual subject, it makes the audience more aware of the sound. When there is less to watch, the audience will pay more attention to the dialogue, sound effects, and music.
+
+Contrast & Affinity
+
+To be visually useful, contrast or affinity of tone must be extreme. Remember that contrast and affinity can occur within the shot, from shot to shot, and from sequence to sequence.
+
+ 
+
+Contrast & affinity of tone are easy to understand because the gray scale organizes tone so perfectly. Maximum contrast of tone is jet black and bright white. Contrast of any visual component creates visual intensity.
+
+ 
+
+This picture uses contrast of tone within the shot to support the intensity of the story situation. The tonal range emphasizes black and white with almost all of the middle grays removed.
+
+ 
+
+Maximum affinity of tone is any small group of similar grays. The more similar the grays, the stronger the affinity. Reducing the tonal range to only one third of the gray scale is a good approach to creating tonal affinity. Limiting the tonal range to the upper or lower half of the gray scale doesn’t create enough tonal affinity for the audience to notice. Using affinity for any visual component reduces the visual intensity.
+
+ 
+
+This shot is an example of affinity of tone. The tonal range is condensed into the lower third of the gray scale. The upper and middle portions of the gray scale have been greatly reduced or eliminated.
+
+ 
+
+This picture also illustrates affinity of tone. The tonal range is condensed into the middle third of the gray scale. The upper and lower portions of the gray scale have been reduced or eliminated.
+
+Controlling Tone in Production
+
+You can control the tonal range or brightness of your production through art direction, lighting, camera exposure, or a combination of these three methods.
+
+Use Art Direction. If you control the actual brightness range of the scenery, locations, set dressing, props, and costumes, you can exercise the most specific control over the tonal range of your production.
+
+Use Lighting. Although it’s not as specific as art direction, light and shadow allow the picture makers to radically change the brightness range of a shot or sequence.
+
+Define the Subject. Use tone to control where the audience looks. If there is no movement, viewers will usually watch the brightest area of the frame.
+
+Hide or Reveal Objects. Use tone to emphasize important objects and hide unimportant ones. Consider how non-coincidence of tone might be used to obscure the subject of a shot and create visual intensity.
+
+Don’t Confuse Color With Tone. You are probably shooting in color but evaluate your lighting by ignoring the color. Shoot black & white tests, use a contrast-viewing glass, or watch a black & white monitor to evaluate the tonal range of your shots.
+
+Films to Watch
+
+T-Men (1947) Raw Deal (1948)
+
+Directed by Anthony Mann
+
+Written by John Higgins
+
+Photographed by John Alton
+
+Art Direction by Edward Jewell (T-Men)
+
+Art Direction by Edward Ilou (Raw Deal)
+
+ 
+
+These two genre films make full use of lighting to control the tonal range. The tonal contrasts add tension and visual style to the films.
+
+Repulsion (1965)
+
+Directed by Roman Polanski
+
+Written by Roman Polanski
+
+Photographed by Gilbert Taylor
+
+Art Direction by Seamus Flannery
+
+ 
+
+The tonal scheme for this film parallels the emotional breakdown of the main character. The tonal control progresses from art direction to lighting.
+
+Kill Bill Vol. I (2003)
+
+Directed by Quentin Tarantino
+
+Written by Quentin Tarantino & Uma Thurman
+
+Photographed by Robert Richardson
+
+Production Design by Yohei Taneda & David Wasco
+
+ 
+
+The film uses a wide range of lighting styles and tonal changes to give each sequence a unique look.
+
+Munich (2005)
+
+Directed by Steven Spielberg
+
+Written by Tony Kushner & Eric Roth
+
+Photographed by Janusz Kaminski
+
+Production Design by Rick Carter
+
+ 
+
+This film’s visual structure has superb examples of tonal ranges controlled by art direction and lighting. The changes give the story visual variety and help to delineate the location changes of countries, continents, and time periods.
+
+The following three films use art direction, lighting, and lens exposure to control the tonal range of each scene and sequence.
+
+In Cold Blood (1967)
+
+Directed by Richard Brooks
+
+Written by Richard Brooks
+
+Photographed by Conrad Hall
+
+Art Direction by Robert Boyle
+
+ 
+
+JFK (1991)
+
+Directed by Oliver Stone
+
+Written by Oliver Stone & Zachary Sklar
+
+Photographed by Robert Richardson
+
+Production Design by Victor Kempster
+
+ 
+
+Minority Report (2002)
+
+Directed by Steven Spielberg
+
+Written by Scott Frank & Jon Cohen
+
+Photographed by Janusz Kaminski
+
+Production Design by Alex McDowell

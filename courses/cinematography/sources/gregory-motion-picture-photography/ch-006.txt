@@ -1,0 +1,386 @@
+Chapter V
+CINEMATOGRAPH LENSES
+TECHNICAL terms used in photography are often puzzling
+to the amateur, particularly those terms which relate to
+the science of optics. The following glossary of optical
+terms has been prepared to give general information as to the
+descriptive words and phrases in ordinary use.
+Equivalent focal length. Focal plane, is the plane in which a
+far distant object is imaged by the lens. The line drawn perpendicularly through the center of the lens is its Optical Axis;
+the point at which the Focal Plane intersects the Optical Axis,
+the Focal Point of the lens.
+The Focal Length of a lens is the value upon which depends
+the size of the images produced by that lens. Its magnitude can
+be determined only by comparing the size of a given object with,
+its image as formed by the lens. The distance of the object,
+unless very great, must also be considered.
+For far distant objects the size of the image is in direct proportion to the focal length. A lens of 12-inch focal length will
+produce an image of a distant steeple twice as large as the image
+formed by a lens of 6-inch focal length.
+Back Focus is the distance from the focal point to the rear
+surface of the lens. In very thin lenses, this back focus is equal
+to the focal length. In lenses of considerable thickness and in
+combinations of lenses, the back focus cannot be relied upon as
+any indication of the value of the focal length. The focal length
+of such a lens is equal to the focal length of a thin lens, which
+gives an image equivalent in size to the one formed by the combination lens, hence the term Equivalent Focal Length.
+In using short focus cinematographic lenses it is important to
+know both the back and the equivalent foci, since the construction
+of some makes of motion picture cameras is such that the revolving shutter has not been placed close enough to the aperture
+to admit a lens of very short back focus without interfering with
+the shutter blades.
+64
+
+CINEMATOGRAPH LENSES
+On account of the exaggerated perspective, lenses of extremely short focus are not recommended for use except where
+limited space prevents the use of a lens of sufficient focal
+length to give a normal perspective.
+In the majority of photographic lenses the equivalent focal
+length is greater than the back focus, an exception being
+found in single meniscus or single concavo-convex combinations, which are practically never used as cine lenses where
+the back focus is the longer.
+By measuring back from the focal point a distance equal to
+the equivalent focal length, we find the position of the socalled optical center of the lens, which is nearly always near
+the diaphragm.
+Angle of view is the angle under which the diameter of the
+circular area covered sharply by the lens appears from the center
+of the lens. If the largest plate, which the lefts covers sharply,
+is used, the angle of view equal to the angle under which the
+diagonal of the plates appears from the center of the lens. The
+angle of view increases with the increase of the focus of the lens
+or the same size plate. Lenses for general purposes are calculated
+for an angle of about 60°. Lenses covering 75° to 100° are
+termed Wide Angle Lenses. Wide angle lenses have necessarily
+shorter foci than other lenses rated for the same plate.
+As a motion picture is customarily viewed at a distance
+relatively greater than a still photo the angle of view averaging nearest normal is about 28°, using the base and not the
+diagonal of the picture as a basis for calculation. This is the
+angle subtended by a two-inch lens on the standard 24 by 1
+inch aperture or picture frame. Lenses of shorter focus than
+this are termed wide angle, although the angle of view is still
+not so great as that found in many still pictures which are
+taken with lenses which would be far from being considered
+wide angle for an ordinary photograph.
+The circular area which is covered by the lens on the ground
+glass is called its image circle, and its diameter is expressed in
+linear measure (inches or centimeters).
+Effective aperture is measured by the diameter of the beam of
+light admitted by the lens. The effective aperture is not, as
+often thought, equal to the diameter of the front lens, nor is
+it equal to the linear diameter of the diaphragm opening used.
+65
+
+MOTION PICTURE PHOTOGRAPHY
+It equals the diameter of the diaphragm as it appears when
+observed through the front lens ; therefore, the effective aperture cannot be found by unscrewing the front lens and measuring the actual diameter of the diaphragm. Only in the case
+of a landscape lens, or meniscus, where the diaphragm is placed
+in front of the lens, is the effective aperture expressed by the
+linear diameter of the diaphragm.
+The actual diameter of the effective aperture may be obtained
+by placing a piece of developing paper against the glass of the
+front combination of the lens and exposing it through the
+lens. The diameter of the round black spot obtained by developing the paper is that of the effective aperture of the lens.
+The effective aperture varies, of course, with the size of the
+diaphragm opening.
+Relative aperture is a numerical expression of the ratio existing between the effective aperture and the focal length; for example, a relative aperture of / 6.3 (or more properly 1 :6.3) means
+that the focal length of that lens is 6.3 times greater than the
+effective aperture. This indicated ratio, in this instance the number 6.3 is called / value. If the relative aperture is known the
+effective aperture can be found by dividing the focal length by
+the / value. For example, focal length equals 160 millimeters.
+The relative aperture is / :8. Then the effective aperture must be
+160/8 or 20. In this case the effective is 20 millimeters.
+The relative aperture is a term of greatest value and convenience in judging the time of exposure. All lenses of the
+same relative aperture, no matter what their focus may be,
+require the same exposure under the same conditions. An
+exception will be mentioned under the heading "Depth of Focus."
+The exposure necessary for different relative apertures can
+be found easily because they are proportionate to the square
+of the / values. For instance, if two lenses are compared with
+the relative apertures j\ and /8 respectively, the squares of f
+values are 16 and 64 respectively, which means that the /8
+requires four times as long exposure as the f\ lens, since
+64/16=4. This, of course, holds true also in comparing the
+different stops.
+Speed. The relative aperture is very commonly called the
+speed of the lens, although speeds of two lenses are not proportionate to their relative apertures, but to the squares of
+66
+
+CINEMATOGRAPH LENSES
+the apertures. In other words, a lens with the speed of /4 is
+not twice as fast as a lens with the speed of fS, but four
+times so, as the comparison of the squares of their relative
+apertures 1/16 and 1/64 shows.
+There are two methods of designating lens stops, viz: the socalled / System of the Royal Photographic Society, wherein the
+stop is expressed by fractions of the focal length, and the U. S."
+(Uniform System), in which every following stop requires a
+doubling of the exposure or represents half the speed of the
+foregoing, the exposure required with /4 being taken as the
+unit.
+Comparison between the / system and the U. S. (Uniform
+System) of Stops:
+F. System F:4 F:4.5 F:5.6 F:6.3 F:8 F:11.3 F:16 F:22.6 F:32
+U. S. System... 1 1.2 2 2.5 4 8 16 32 64
+The above table gives the comparative stops in the two systems
+and shows at the same time the exposure values of the different
+stops in the / system. For instance, /:i 1.3 requires four times
+as long as /:5-6; and /:32, an exposure sixteen times longer than
+/:8, since 8/2=4 and 64/4=16.
+At first glance it would seem that the U. S. system would be
+the more convenient one to use since it gives the relative exposure
+direct, but in practice it is really just as simple to use the /
+system if it is well fixed in the mind that each succeeding f
+number as customarily^ marked on the lens barrel is half the
+speed of the preceding one. Wherever any calculation is involved the / number is the one used and a U. S. number must
+first be resolved to its / equivalent to obtain a result. The
+U. S. is becoming obsolete except on some of the simpler hand
+cameras with low
+r
+grade lenses.
+Depth of focus. Very closely connected with the speed of a
+lens is its depth of focus. All well-corrected lenses image only
+one plane of the object space sharply. The reason why a lens
+focused at a house images also w
+r
+ith sufficient sharpness, a
+horse in front and a tree back of it, is that a slight racking out
+of focus will not cause an indistinctness great enough to be noticeable to the eye. The range of sharpness forward and back of
+the object is called "depth of focus" or "depth of field." It
+depends on several factors, vis', the focal length of the lens, the
+aperture used (consequently its speed), the distance of the
+
+MOTION PICTURE PHOTOGRAPHY
+object, and the amount or lack of sharpness which seems permissable to the operator. Of these factors, focal length, aperture and distance are definite numerical values.
+That the amount of indistinctness permissible on the picture
+is susceptible of numerical expression is easily seen from the
+CIRCLE OF CONFUSION AND DEPTH OF FIELD
+AB is the plane of focus for nearby objects, NM is the principal plane of focus
+or the focal plane as determined by the aperture plate, while XY is the plane of focus
+for infinity. The lens is focused for the hyperfocal distance. Rays from infinity
+focus in plane XY and the rays spread when crossing the principal focal plane,
+rendering a point as a circle whose diameter is OP. These rays are shown by solid
+lines. The rays from a nearby point, as shown by the dotted lines, come to a focus
+in plane AB, and when crossing principal focal plane they are still somewhat diverged
+giving a circle of confusion whose diameter is EF.
+Some authorities give 1/25Oth of an
+1
+inch as the permissible maximum in size for
+the cine circle of confusion, but by trying to hold to l/1000th a better film will result.
+In this case the depth of field extends from one-half the hyperfocal distance to infinity.
+It will be seen that the nearer the object which is sharply focused upon the plane MN,
+the less will be the distance between the objects focused upon planes AB and XY.
+The depth of field varies directly as the / value and inversely as the focal length of
+the lens used.
+following: If an object at a given distance is in sharp focus, the
+light issuing from a point of that object is converged to a point
+on the plate. Light issuing from a point in the original object
+will also be converged to a point, but not on the plate, the cone
+of light showing in either case a circular patch of light on the
+plate. This circle of light is known as the "circle of confu68
+
+Making a Micro-cinematograph of Bacteria to illustrate a Bic
+subject at the N. Y. Institute of Photography.
+
+CINEMATOGRAPH LENSES
+sion." Its diameter can be used to express the amount of indistinctness existing in a picture. If the circle of confusion is not
+greater than i/io mm. or 1/250 inch, it would appear as a point
+to an eye 10 inches away, hence, an object no point of which is
+imaged by a circle larger than 1/10 mm. would appear sharp.
+The depth of focus decreases: 1. with increase of focal
+length ; 2. with increase of relative aperture (speed) ; 3. with
+increasing nearness of object.
+Of two lenses of equivalent focus, the one with the lower relative aperture (speed) has the greater depth of field. On the
+other hand, if the focal length of the lens is very short, a
+speed as high as F:4.5 will allow bringing every object from
+10 feet to infinity to a sharp focus, while a studio lens of long
+focus and the same speed may not even image an object of the
+depth of a head sharply within the range of the length of a studio.
+Speed, great focal length and depth of focus cannot be combined in the same lens. This is an unalterable law of optics.
+If speed be the most desirable quality, depth of focus must be
+sacrificed; if depth of focus, speed. This does not detract from
+the value of fast lenses, because with a given lens the depth of
+focus can be increased by diaphragming down the lens which
+means reduction of speed. If a short exposure demands the use of
+the lens wide open, one must not expect great depth of focus.
+Under ordinary conditions of light and distance, with fair judgment, and with lenses not too long in focus, these opposing qualities may be happily combined, so that lack of depth is hardly perceptible. There are many times w
+7
+hen a shallow depth of field is
+desirable, as when atmospheric perspective is desired.
+One case may be mentioned in which one lens may really
+have an advantage over another in regard to depth of focus. In
+some camera constructions correction of astigmatism is obtained
+at a great sacrifice of simplicity by employing an unusual number
+of lenses separated by air spaces. There is a certain loss of light
+by reflection on a lens surface and it is easily intelligible that the
+fewer reflecting surfaces in a lens, the smaller the loss of light.
+In some constructions the number of the lens surfaces runs
+as high as ten, while the Tessar contains only six. The consequence is that the lens with the greater number of reflecting
+surfaces requires a longer exposure than a lens of simple construction, although both may have the same relative aperture.
+69
+
+MOTION PICTURE PHOTOGRAP H Y
+Or to express it differently : the lens with the greater number of
+reflections requires an aperture of F:6.3 with a certain time of
+exposure, while the other lens will give a negative of equal
+density with its aperture stopped down to F7.2 or F7.5, which
+means a gain in depth of focus for the lens with the smaller number of reflecting surfaces.
+Cinematograph lenses are usually made with the smallest number of reflecting surfaces consistent with the requisite correction.
+They are also slightly faster than larger lenses of equal aperture
+because their small size makes the glass to be traversed by the
+light much thinner.
+Spherical Aberration. Owing to the fact that lenses are made
+with spherical curves, all single collective lenses have the defect
+of imaging an object through their marginal zone at a shorter
+focus than through their central zone. Such a lens may
+give a sharp image with a small central diaphragm, and a sharp
+image as well if the center is covered with a round opaque
+stop so that only an annular zone around the margin comes into
+action. But both images will not lie in the same plane, nor will
+they be of the same size. Even if a lens is spherically corrected,
+so that the parallel rays penetrating the lens near the optical axis
+and those going through the lens near the margin come to exactly
+the same focus, there may be a slight remnant of spherical aberration in the zone between center and margin. Small remnants
+of this kind (so-called Zonal Errors) are found in almost all
+photographic lenses, especially of the cemented symmetrical type.
+The unsymmetrical combination upon which the Tessar construction is based, allows a better correction of the zonal errors
+than any other known construction. The greater the relative
+aperture (speed of the lens), the greater the task to correct the
+spherical aberration for all zones of the lens.
+Unsatisfactory spherical correction is indicated either by a
+general indistinctness of the image or by a fairly sharp image,
+which is entirely covered by halo (fog). Stopping down the
+aperture may improve the performance of a badly corrected objective.
+Coma. The spherical aberration of pencils of light going
+through the lens in oblique direction is called coma. This manifests itself in the fact that although objects in the center of the
+field appear perfectly defined, objects outside the center show a
+
+CINEMATOGRAPH LENSES
+one-sided indistinctness which increases toward the margin of the
+field, and in the image of a point-shaped object assumes the form
+of a tail like a comet, wherefrom this aberration takes its name.
+Stopping down reduces the amount of coma.
+Astigmatism is that aberration which withstood longest the
+efforts of the opticians. A lens which is not corrected for
+astigmatism will not image sharply horizontal and vertical lines
+at the same time near the margin of the plate, although the
+center of the image may be perfect. This aberration is inherent in narrow pencils of light, so that stopping down the lens
+will not decrease the amount of astigmatism to the same degree
+that it decreases other uncorrected aberrations.
+CURVATURE OF FIELD
+In the absence of a test chart a very simple test for astigmatism
+may be made by focusing on the joints of a brick wall. No
+matter how much the lens may be racked in or out, both horizontal and vertical lines will never be sharply defined at the same
+time near the margin of the plate, if astigmatism be present.
+Curvature of Field. The ordinary lens images a flat object,
+not in a plane, but in a spheroidal surface, so that when the
+center of the image is focused sharp, the ground glass has to be
+brought nearer to the lens to obtain a sharp image of an object
+point near the margin of the plate.
+It is only in recent years that it is possible to correct astigmatism, together with the curvature of field in lenses of high speed.
+Lenses which are free from spherical aberration for a large
+71
+
+MOTION PICTURE PHOTOGRAPHY
+aperture and produce a flat image free from astigmatism, are
+called "Anastigmats," the prefix "an" meaning "without," hence,
+without astigmatism.
+Distortion is that fault of a lens which prevents the rendering of straight lines as such. The straight lines are reproduced as curves. All single lenses used with a diaphragm
+in front (landscape lenses) are subject to this defect in some
+degree. The distortion is called "cushion-shaped," when the
+PILLOW DISTORTION.
+BARREL DISTORTION.
+curves are concave, and "barrel shaped," when the curves are
+convex toward the margin of the plate.
+Lenses which are free from distortion are called rectilinear.
+A lens which distorts cannot be improved by using smaller
+stops.
+Distortion has nothing to do with curvature of field. The
+image can be properly flat and the definition perfect, and yet
+straight lines may be distorted into curves.
+Chromatic aberration is due to the fact that in a lens, unless
+corrected from chromatic aberration, the visual rays which form
+72
+
+CINEMATOGRAPH LENSES
+the image seen on the ground glass do not form the images at
+the same position as the actinic or chemical rays, which affect
+the sensitive plate. Since the image is focused with rays for
+which the eye is most sensitive, the image formed by the rays
+for which the plate is most sensitive will fall outside of the visual
+focus (focal point), and therefore must be blurred on the plate.
+Of course all photographic lenses which are of any value at all
+must, first of all, be corrected for chromatic aberration. An
+objective which has chromatic aberration is sometimes said to
+have chemical foens.
+CHROMATIC ABERRATION
+U—Focal plane of Violet Rays
+R—Focal plane of Red Rays.
+This is not an uncommon defect in cinematograph lenses, but
+may easily be tested for by focusing upon coarse printed matter
+with other placards at varying distances before and beyond the
+one focused upon. If any of the placards film clearer than
+the one focused upon it is plain proof that the visual and chemical foci do not coincide.
+Definition is that quality which enables a lens to produce
+sharp and crisp images, and its presence in an objective is
+a proof of exact workmanship as well as careful computation.
+The best workmanship will be wasted in a lens not well designed,
+and bad workmanship will annihilate the best computer's skill.
+If the various defects and aberrations are corrected and the workman has done everything to carry out the designer's ideas, the
+73
+
+.MOTION PICTURE PHOTOGRAP H Y
+lens will give at full aperture a flat and sharply cut image over
+the entire area covered. The area covered with perfection is
+sometimes called area of critical definition. Since most of the
+aberrations depend upon the opening of the lens, the definition
+may be improved in some cases by reducing the opening at the
+sacrifice of speed.
+Illumination. We speak of even illumination when the margin
+of the plate receives as much light as the center, and the negative
+shows an even density over its entire surface. A perfectly
+even illumination is only possible with small stops, especially
+when a larger plate than the lens is rated for, is used. All
+speed lenses when used with full aperture, show more or less
+drop in the illumination (vignetting) toward the margin of
+the field covered.
+This vignetting or cutting of oblique rays by the lens barrel is
+apt to show quite plainly in pictures taken at large aperture with
+extreme short focus cine lenses. To get a full exposure at the
+edges may even require a slightly larger diaphragm opening than
+is needed with a lens of longer focus where the vignetting effect
+is imperceptible within the small area of the aperture plate.
+Covering Power is expressed by the area which the evenly
+illuminated flat field covers with perfect definition. It depends
+upon the diameter of the lenses and on the degree to which the
+different aberrations are corrected and may, in some cases, be
+increased by using smaller stops.
+The greater the relative aperture and the greater the covering
+power, the more valuable the lens.
+Flare Spots. Occasionally a negative will show a nebulous
+patch of light covering shadows and high lights alike. Such
+patches are called flare spots or ghosts. They are formed by
+light reflected within the lens, at the lens surfaces bounding
+air spaces. It may be stated as a rule that every lens having an
+air space will show a flare spot under some conditions. Although it is possible to so adjust the curvature and direction of
+the lens surfaces that the flare spot is spread over nearly the
+whole plate (therefore not noticeable) this generally could be accomplished only by sacrificing more important corrections.
+Before it can be said that one lens is superior to another with
+respect to flare spot formation, the two lenses must be thoroughly
+74
+
+CINEMATOGRAPH LENSES
+tried out under a great variety of conditions of illumination.
+Generally it will be found that if a lens shows a flare spot and
+another of different construction does not, by changing conditions, the second lens will show a flare spot and the first will not.
+Very small stops may show flare spots when larger stops do
+not.
+Flare spots are most apt to appear when photographing an
+object against a strong light and least apt to appear when the
+light is coming from back of the camera.
+A condition resembling flare is apt to occur in a dirty lens particularly from almost imperceptible spots from oil spattered by
+the camera mechanism or from finger prints. Moral: Examine
+the lens frequently and keep it immaculately clean and well
+protected.
+Flare will occur with the best of lenses if strong extraneous
+light is allowed to strike the lens. Moral number two: Use a
+lens hood.
+75

@@ -1,0 +1,549 @@
+41
+3 Menu Operations
+1 Display the menu. Press the <M> button to display 
+the menu.
+2 Select a tab. Turn the <6> dial to select a tab.
+3 Select the desired item. Turn the <5> dial to select the item, 
+then press <0>.
+4 Select the setting. Turn the <5> dial to select the 
+desired setting.
+ The current setting is indicated in 
+blue.
+5 Set the desired setting. Press <0> to set it.
+6 Exit the menu. Press the <M> button to exit the 
+menu and return to camera shooting.
+Menu Setting Procedure
+ The explanation of menu functions hereinafter assumes that you have 
+pressed the <M> button to display the menu screen.
+ You can also use <9> to set menu settings. (Except for [3 Erase 
+images] and [5 Format].)
+COPY
+
+42
+1 Select [Language]. Under the [6] tab, select 
+[Language] (the third item from the 
+top), then press <0>.
+2 Set the desired language. Turn the <5> or <6> dial to select 
+the language, then press <0>.
+X The language will change.
+Check if the camera’s date and time are set correctly. If necessary, set 
+the correct date and time.
+1 Select [Date/Time]. Under the [6] tab, select [Date/
+Time], then press <0>.
+2 Set the date, time and date display format. Turn the <5> dial to select the number.
+ Press <0> so is displayed.
+ Turn the <5> dial to select the desired 
+setting, then press <0> (Returns to ).
+3 Exit the setting. Turn the <5> dial to select [OK], 
+then press <0>.
+X The date/time will be set and the 
+menu will reappear.
+Before You Start
+3 Setting the Interface Language
+3 Setting the Date and Time
+It is important to set the correct date/time because it will be recorded 
+together with each captured image.
+COPY
+
+43
+Before You Start
+If the card is new or was previously formatted by another camera or 
+personal computer, formatting the card with the camera is 
+recommended.
+When the card is formatted, all images and data in the card will 
+be erased. Even protected images will be erased, so make 
+sure there is nothing you need to keep. If necessary, transfer 
+the images to a personal computer, etc., before formatting the 
+card.
+1 Select [Format]. Under the [5] tab, select [Format], 
+then press <0>.
+2 Select [OK]. Turn the <5> dial to select [OK], 
+then press <0>.
+X The card will be formatted.
+X When the formatting is completed, 
+the menu will reappear.
+3 Formatting the Card
+When the card is formatted or data is erased, only the file management 
+information is changed. The actual data is not completely erased. Be aware 
+of this when selling or discarding the card. When discarding the card, 
+destroy the card physically to prevent personal data from being leaked.
+The card capacity displayed on the card format screen might be smaller 
+than the capacity indicated on the card.
+COPY
+
+44
+Before You Start
+You can change the auto power-off time for the camera to turn off 
+automatically after a certain period of non-operation. If you do not want 
+the camera to turn off automatically, set this to [Off]. After the power 
+turns off, you can turn on the camera again by pressing the shutter 
+button or other button.
+1 Select [Auto power off]. Under the [5] tab, select [Auto 
+power off], then press <0>.
+2 Set the desired time. Turn the <5> dial to select the 
+setting, then press <0>.
+3 Set the Power-off Time/Auto Power Off
+Even if [Off] has been set, the LCD monitor will turn off automatically after 
+30 min. to save power. (The camera’s power does not turn off.)
+COPY
+
+45
+Before You Start
+The camera’s shooting settings and menu settings can be reverted to the default.
+1 Select [Clear settings]. Under the [7] tab, select [Clear 
+settings], then press <0>.
+2 Select [Clear all camera settings]. Turn the <5> dial to select [Clear all 
+camera settings], then press <0>.
+3 Select [OK]. Turn the <5> dial to select [OK], 
+then press <0>.
+X Setting [Clear all camera settings] 
+will reset the camera to the following 
+default settings:
+3 Reverting the Camera to the Default SettingsN
+Shooting Settings Image-Recording Settings
+AF mode One-Shot AF Quality 73
+AF point selection Automatic selection ISO speed Auto
+Metering mode q (Evaluative metering) Picture Style StandardColor space sRGB
+Drive mode u (Single shooting) White balance Q (Auto)
+Exposure 
+compensation 0 (Zero) WB correction CanceledWB-BKT Canceled
+AEB Canceled Peripheral 
+illumination 
+correction
+Enable/
+Correction 
+data retained
+Flash exposure 
+compensation 0 (Zero)
+Live View 
+shooting Disable File numbering ContinuousAuto cleaning Enable
+Custom Functions No changes Dust Delete Data Erased
+COPY
+
+46
+Before You Start
+If you use EOS Utility (provided software) to set your copyright 
+information, the copyright information will be added to the image’s Exif 
+information. With the camera, the copyright information can only be 
+viewed or deleted. If your copyright information has not been set, it will 
+be grayed out on the screen and unusable.
+ With the [Clear settings] screen 
+displayed, press the <B> button to 
+display the copyright information.
+ Press the <M> button to return 
+to the [Clear settings] screen.
+ To delete the copyright information, 
+select [Delete copyright 
+information] on the [Clear settings] 
+screen.
+Camera Settings Camera Settings
+Auto power off 1 min. Image jump w/6 10 images
+Beep On Auto rotate OnzD
+Shoot w/o card On LCD brightness Auto: Standard
+Review time 2 sec. Date/Time No changes
+Highlight alert Disable Language No changes
+AF point display Disable Video system No changes
+Histogram Brightness Camera user settings No changes
+My Menu settings No changes
+3 About Copyright InformationN
+COPY
+
+47
+2
+Basic Shooting
+This chapter explains how to use the fully-automatic 
+modes (1/C) on the Mode Dial for best results.
+With the fully-automatic modes (1/C), all you do is point 
+and shoot and the camera sets everything automatically 
+(p.198). Also, to prevent botched pictures due to mistaken 
+operations, major shooting settings cannot be changed in the 
+fully-automatic modes.
+Fullyautomatic 
+modes
+About the Auto Lighting Optimizer
+In the fully-automatic modes (1/C), the Auto Lighting Optimizer 
+will adjust the image automatically to obtain the optimum 
+brightness and contrast. In the d/s/f modes, the Auto 
+Lighting Optimizer is enabled by default (p.177).
+COPY
+
+48
+1 Set the Mode Dial to <1>.
+2 Aim any AF point over the subject.
+ All the AF points will be used to focus, 
+and generally the closest object will 
+be focused.
+ Aiming the center AF point over the 
+subject will make focusing easier.
+3 Focus the subject. Press the shutter button halfway, and 
+the lens focusing ring will rotate to 
+focus.
+X The AF point which achieves focus 
+will briefly flash in red. At the same 
+time, the beeper will sound and the 
+focus confirmation light <o> in the 
+viewfinder will light.
+4 Take the picture. Press the shutter button completely to 
+take the picture.
+X The captured image will be displayed 
+for about 2 sec. on the LCD monitor.
+1 Fully Automatic Shooting
+AF point
+Focus confirmation light
+COPY
+
+49
+1 Fully Automatic Shooting
+ The focus confirmation light <o> blinks and focus is not 
+achieved.
+Aim the AF point over an area having good contrast between light 
+and dark, then press the shutter button halfway (p.84). If you are too 
+close to the subject, move away and try again.
+ Sometimes multiple AF points flash simultaneously.
+This indicates that focus has been achieved at all those AF points. 
+As long as the AF point covering the desired subject flashes, you 
+can take the picture.
+ The beeper continues to beep softly. (The focus confirmation 
+light <o> also does not light.)
+It indicates that the camera is focusing continuously on a moving 
+subject. (The focus confirmation light <o> does not light.) While the 
+beeper is beeping, you can press the shutter button completely to 
+shoot a moving subject in focus.
+ Pressing the shutter button halfway does not focus the subject.
+When the focus mode switch on the lens is set to <MF> (Manual 
+Focus), the camera does not focus. Set the focus mode switch to 
+<AF> (Auto Focus).
+ The shutter speed display is blinking.
+Since it is too dark, taking the picture may result in a blurred shot 
+due to camera shake. Either use a tripod or an external EX-series 
+Speedlite (sold separately, p.103) when shooting.
+ Although I used an external Speedlite, the bottom part of the 
+photo came out dark.
+If the lens hood is attached, it will obstruct the flash. If the subject is 
+near to the camera, detach the hood before shooting with flash.
+FAQ
+COPY
+
+50
+Depending on the scene, position the subject toward the left or right to 
+create a balanced background and good perspective.
+In the <1> (Full Auto) mode, while you press the shutter button 
+halfway to focus a still subject, the focus will be locked. You can then 
+recompose the shot and press the shutter button completely to take the 
+picture. This is called “focus lock”.
+In the <1> (Full Auto) mode, if the subject moves (distance to camera 
+changes) during or after you focus, AI Servo AF will take effect to focus 
+the subject continuously. As long as you keep aiming the AF point on 
+the subject while pressing the shutter button halfway, the focusing will 
+be continuous. When you want to take the picture, press the shutter 
+button completely.
+1 Full Auto Techniques
+Recomposing the Shot
+Shooting a Moving Subject
+COPY
+
+51
+The <1> Full Auto mode takes care of everything, whereas the <C> 
+Creative Auto mode enables you to easily change the picture’s 
+brightness, depth of field, color tone (Picture Style), etc. The default 
+settings are the same as the <1> (Full Auto) mode.
+* CA stands for Creative Auto.
+1 Set the Mode Dial to <C>.X The Creative Auto screen appears on 
+the LCD monitor.
+2 Press <9> straight down.X You can use <9> to select a 
+function. ( )
+ Functions (1) to (5) shown on the next 
+page can be selected.
+3 Set the desired setting. Use <9> to select the function.
+X A brief description of the selected 
+function is displayed on the screen’s 
+bottom.
+ Turn the <5> or <6> dial to 
+change the setting.
+ Press <9> straight down to return to 
+step 2 screen.
+4 Take the picture. When the picture is taken, the LCD 
+monitor turns off.
+C Creative Auto Shooting
+If you change the shooting mode or turn off the power switch, the Creative 
+Auto settings will revert to the default. However, the image-recording quality, 
+self-timer and remote control settings will be retained.
+COPY
+
+C Creative Auto Shooting
+52
+(1) Blurring/sharpening the background
+If you move the index mark toward the left, the background will look 
+more blurred. If you move it toward the right, the background will 
+look more in focus.
+(2) Adjusting the picture brightness
+If you move the index mark toward the left, the picture will look 
+darker. If you move it toward the right, the picture will look brighter.
+(3) Picture Style
+You can select one of four Picture Styles (p.59, 60).
+(4) Single, continuous, self-timer, and remote control shooting
+If you select <i>, you can shoot continuously up to about 3.9 shots 
+per sec. If you select <Q>, see the notes ( ) for “Self-timer 
+Operation” on page 86 and for “Remote Control Shooting” on page 
+102.
+(5) Image-recording quality
+When you press <0>, the image-recording quality setting screen 
+will appear. To set the image-recording quality, see “Setting the 
+Image-recording Quality” on page 54. After adjusting all the desired 
+settings, press <0> to return to the screen in step 2 on the 
+previous page.
+Shutter speed and aperture ISO speed
+(1)
+(2)
+(4)(5)
+Battery check Maximum burst
+Possible shots
+(3)
+When using an external flash, (1) cannot be set.
+COPY
+
+53
+3
+Image Settings
+This chapter explains image-related function settings: 
+Image-recording quality, ISO speed, Picture Styles, 
+white balance, color space, etc.
+ In the fully-automatic modes (1/C), only the imagerecording quality, lens peripheral illumination correction, 
+and file numbering method can be set as explained in this 
+chapter. Folders can also be created and selected.
+ The M icon on the right of the page title indicates that the 
+function can be used when the Mode Dial is set to <d/s/
+f/a/F>.
+COPY
+
+54
+You can select the pixel count and the image quality. There are six JPEG 
+recording quality settings: 73, 83, 74, 84, 76, and 86. There 
+are three RAW recording quality settings: 1, D1, and D2. RAW 
+images must be processed with the provided software (p.56).
+1 Select [Quality]. Under the [1] tab, select [Quality], 
+then press <0>.
+2 Select the image-recording quality. To select a RAW setting, turn the 
+<6> dial. To select a JPEG setting, 
+turn the <5> dial.
+ On the upper right, the “***M 
+(megapixels) **** x ****” number 
+indicates the recorded pixel count, 
+and [***] is the number of possible 
+shots (displayed up to 999).
+ Press <0> to set the selected quality.
+Image-recording Quality Setting Examples
+* If [–] is set for both RAW and JPEG, 73 will be set.
+3 Setting the Image-recording Quality
+73 only
+D2+741+73
+1 only
+COPY
+
+55
+3 Setting the Image-recording Quality
+Guide to Image-recording Quality Settings (Approx.)
+ Figures for the file size, possible shots, and maximum burst during continuous 
+shooting are based on Canon’s testing standards (ISO 100 and Standard 
+Picture Style) using a 2GB card. These figures will vary depending on the 
+subject, card brand, ISO speed, Picture Style, Custom Functions, etc.
+ Maximum burst during continuous shooting figures in parentheses apply to an 
+Ultra DMA (UDMA) 2GB card based on Canon’s testing standards.
+Quality Pixels(megapixels) PrintingSize File Size (MB) Possible Shots Maximum Burst
+JPEG
+73 Approx. 21.0
+(21.0M) A2 or larger
+6.1 310 78 (310)
+83 3.0 610 610 (610)
+74 Approx. 11.1
+(11.1M) Around A3
+3.6 510 330 (510)
+84 1.9 990 990 (990)
+76 Approx. 5.2
+(5.2M) Around A4
+2.1 910 910 (910)
+86 1.0 1680 1680 (1680)
+RAW
+1 Approx. 21.0(21.0M) A2 or larger 25.8 72 13 (14)
+D1 Approx. 10.0(9.9M) Around A3 14.8 120 15 (15)
+D2 Approx. 5.2(5.2M) Around A4 10.8 170 20 (20)
+RAW
++
+JPEG
+1
+73
+Approx. 21.0
+Approx. 21.0
+A2 or larger
+A2 or larger 25.8+6.1 57 8 (8)
+D1
+73
+Approx. 10.0
+Approx. 21.0
+Around A3
+A2 or larger 14.8+6.1 89 8 (8)
+D2
+73
+Approx. 5.2
+Approx. 21.0
+Around A4
+A2 or larger 10.8+6.1 110 8 (8)
+ If you select both RAW and JPEG, the same image will be recorded 
+simultaneously to the card in both types at the selected image-recording 
+quality. The two images will be saved in the same folder with the same 
+file numbers (file extension .JPG for JPEG and .CR2 for RAW).
+ When D1 or D2 is selected, the LCD panel will display D.
+ The icons are read as follows: 1 (RAW), D1 (Small RAW1), 
+D2 (Small RAW2), JPEG, 7 (Fine), 8 (Normal), 3 (Large), 4 
+(Medium), and 6 (Small).
+COPY
+
+56
+3 Setting the Image-recording Quality
+The RAW image is the data output by the image sensor, converted to 
+digital data and recorded on the card as is. You can select it from 
+among 1, D1, or D2. “RAW” written in the text will refer to 
+all three RAW settings: 1, D1, and D2.
+With RAW images, you can use the provided software to make various 
+adjustments as needed. From the RAW image, the software can 
+develop and produce the adjusted image in the desired type such as 
+JPEG or TIFF.
+The maximum burst during continuous shooting indicated on the 
+preceding page is the number of continuous shots that can be taken 
+without stopping, based on a formatted 2GB card.
+The number is displayed in the 
+viewfinder on the bottom right. If the 
+maximum burst is 99 or higher, “99” will 
+be displayed.
+About RAW
+Maximum Burst During Continuous Shooting
+About [8C.Fn II -2: High ISO speed noise reduction] and 
+RAW or RAW+JPEG images
+Although [8C.Fn II -2: High ISO speed noise reduction] (p.176) settings 
+(Standard/Low/Strong/Disable) are applied to the recorded images, the 
+images used for image playback (on the LCD monitor or TV screen) and 
+direct printing (except RAW+73/83) are not applied with noise reduction 
+(noise may be noticeable in the images).
+Confirm the noise reduction effects or print noise-reduced images with 
+Digital Photo Professional (provided software).
+Commercial software might not be able to display RAW images. Using the 
+provided software is recommended.
+COPY
+
+57
+3 Setting the Image-recording Quality
+Set the ISO speed (image sensor’s sensitivity to light) to suit the 
+ambient light level. In the fully-automatic modes (1/C), the ISO 
+speed is set automatically (p.58).
+1 Press the <m> button. (9)
+2 Set the ISO speed. While looking at the LCD panel or 
+viewfinder, turn the <6> dial.
+ It can be set within ISO 100-6400 in 
+1/3-stop increments.
+ With “A” selected, the ISO speed will 
+be set automatically (p.58).
+ The maximum burst is displayed even when a card is not in the camera. 
+Make sure that a card is loaded before taking a picture.
+ If [8C.Fn II -2: High ISO speed noise reduction] is set to [2: Strong], 
+the maximum burst will be greatly reduced (p.176).
+If the viewfinder displays “99” for the maximum burst, it means the maximum 
+burst is 99 or higher. If 98 or lower is displayed, the maximum burst is 98 or 
+lower. If you stop the continuous shooting, the maximum burst will increase. 
+After all the captured images are written to the card, the maximum burst will 
+be as listed on page 55.
+i: Setting the ISO SpeedN
+COPY
+
+58
+i: Setting the ISO SpeedN
+ISO Speed Guide
+If the ISO speed is set to “A”, the actual 
+ISO speed to be set will be displayed 
+when you press the shutter button 
+halfway. As indicated below, the ISO 
+speed will be set automatically to suit the 
+shooting mode.
+* If fill flash results in overexposure, ISO 100 or a higher ISO will be set.
+ISO Speed Shooting Situation(No flash) Flash Range
+L, 100 - 200 Sunny outdoors The higher the ISO speed, 
+the farther the flash range 
+will be.
+400 - 800 Overcast skies, evening
+1600 - 6400, H1, H2 Dark indoors or night
+About “A” (Auto) ISO Speed
+ If [8C.Fn II -3: Highlight tone priority] is set to [1: Enable], the 
+settable ISO speed range will be ISO 200 - 6400 (p.177).
+ Using a high ISO speed or shooting in high-temperature conditions may 
+result in more grainy images. Long exposures can also cause irregular 
+colors in the image.
+ When you shoot at high ISO speeds, horizontal stripes may appear as 
+noise.
+With [8C.Fn I -3: ISO expansion] set to [1: On], “L” (equivalent to ISO 50), 
+“H1” (equivalent to ISO 12800), and “H2” (equivalent to ISO 25600) can also 
+be set (p.174).
+Shooting Mode ISO Speed Setting
+1/C/d/s/f ISO 100 - 3200
+a/ F Fixed at ISO 400
+With flash Fixed at ISO 400*
+COPY
+
+59
+By selecting a Picture Style, you can obtain image effects matching 
+your photographic expression or the subject.
+In the <1> (Full Auto) mode, you cannot select the Picture Style.
+1 Press the <A> button. When the camera is ready to shoot, 
+press the <A> button.
+X The Picture Style screen will appear.
+2 Select a Picture Style. Turn the <6> or <5> dial to select 
+a Picture Style, then press <0>.
+X The Picture Style will take effect and 
+the camera will be ready to shoot.
+P Standard (C: Standard)
+The image looks vivid, sharp, and crisp. This is a general-purpose 
+Picture Style suitable for most scenes. This is set automatically in 
+the <1> (Full Auto) mode.
+Q Portrait (C: Smooth skin tones)
+For nice skin tones. The image looks softer. Effective for close-ups 
+of women or children.
+By changing the [Color tone] (p.61), you can adjust the skin tone.
+R Landscape (C: Vivid blues and greens)
+For vivid blues and greens, and very sharp and crisp images. 
+Effective for impressive landscapes.
+A Selecting a Picture StyleN
+Picture Style Effects
+You can also use the [2 Picture Style] menu to select the Picture Style.
+COPY
+
+60
+A Selecting a Picture StyleN
+S Neutral
+This Picture Style is for users who prefer to process images with 
+their personal computer. For natural colors and subdued images.
+U Faithful
+This Picture Style is for users who prefer to process images with 
+their personal computer. When the subject is captured under a color 
+temperature of 5200K, the color is adjusted colorimetrically to match 
+the subject’s color. The image is dull and subdued.
+V Monochrome (C: Monochrome image)
+For black-and-white images.
+W User Def. 1-3
+You can register your own Picture Style settings for [Portrait], 
+[Landscape], etc (p.63). Any User Defined Picture Style which has not 
+been set will have the same settings as the Standard Picture Style.
+The symbols on the top of the Picture Style selection screen refer to 
+parameters such as [Sharpness] and [Contrast]. The numerals 
+indicate the parameter settings, such as [Sharpness] and [Contrast], 
+for each Picture Style. 
+Symbols
+About the Symbols
+Black-and-white images shot in JPEG cannot be reverted to color. If 
+you want to later shoot pictures in color, make sure the 
+[Monochrome] setting has been canceled. When [Monochrome] is 
+selected, <0> will appear in the viewfinder and on the LCD panel.
+g Sharpness
+h Contrast
+i Saturation
+j Color tone
+k Filter effect (Monochrome)
+l Toning effect (Monochrome)
+COPY

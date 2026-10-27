@@ -1,0 +1,257 @@
+Chapter 11: Color Balance and Color Control
+
+10.1. (previous page) Bold use of color in Bladerunner. Throughout the film, color is tightly controlled for maximum effectiveness.
+
+Table 10.1. (below) Color, wavelength and frequency of the major bands of the spectrum.
+
+10.2. (bottom) Color and wavelength of typical sources.
+
+WAVELENGTH
+
+COLOR (nanometers) FREQUENCY Red ) 800-650 | 400-470 Orange 640-590 470-520
+
+Yellow 580-550 520-590
+
+Green 530-490 590-650
+
+Blue 480-460 | 650-700 Z Indiga 450-440 | 700-760
+
+Violet “| 430-390 760-800 | nanometer = 0,0000001 mm 25,000°K Northwest Sky
+
+5700° K Clear Mercury Lamps 4870° K Sunlight at Noon Incandescent Lamp
+
+Sunight at Sunrise cinematography 168
+
+WHAT IS WHITE?
+
+The eye will accept a wide range of light as “white,” depending on external clues and adaptation. The phenomenon is both psychological (adaptation) and environmental. The color meter (and color film, which is very objective about these things) will tell us that there are enormous differences in the color of light in a room lit with tungsten light, one lit with ordinary fluorescents and one flooded with noon daylight. Our perception tells us that all three are “white light,” mostly because we are psychologically conditioned to think of them as white and physiologically, the eye adapts. Without a side-by-side comparison, the eye is an unreliable indicator of what is neutral light. Unfortunately, color film emulsions and video CCD’s are extremely sensitive and unforgiving. An absolute color reference is essential.
+
+COLOR TEMPERATURE
+
+In film and video production, the most common system used in describing the color of light is color “temperature.” This scale is derived from the color of a theoretical black body (a metal object having no inherent color of its own, technically known as a Planckian radiator). When heated to incandescence, the black body glows at varying colors depending on the temperature (Table 10.1). Color temperature is a quantification of the terms “red hot,” “white hot.” ete.
+
+Developed by Lord Kelvin, the 19th century British scientific pioneer, color temperature is expressed in degrees Kelvin in his honor, On the Celsius scale, the freezing point of water equals 0°. The Kelvin scale takes absolute zero as the zero point. Absolute zero is -273° Celsius on the Kelvin scale, thus 5500° Kelvin is actually 5227° Celsius. Degrees Kelvin is abbreviated “K” and the degree symbol is omitted. Because a tungsten filament heated to incandescence is very similar to a Planckian radiator, the color temperature equivalence is very close for tungsten halogen lamps, but not for HMIs, CIDs and fluorescents (Figure 10.2). A graphic representation of the various wavelengths is called an SED (Spectral Energy Distribution) or SPD (Spectral Power Distribution).
+
+When a metal object (such as the tungsten filament of a light bulb) is heated to incandescence, its SED is quite similar to that of a Planckian radiator and is fairly smooth across all wavelengths, even if some are stronger than others. This is not necessarily true for all light sources. Fluorescent lights, for example, have very “spiky” outputs, which tend to be very heavy in green (Figure 10.3)
+
+Color temperatures can be very misleading: for many sources (especially those which exhibit discontinuous SEDs), it is only an approximation and is referred to as “correlated color temperature.”
+
+Color temperature tells us a great deal about the blue/orange component of light and very little about the magenta/green component. which can produce extremely unpleasant casts in the film even if the meter indicates a correct reading for the color temperature.
+
+An approximate measure of how close a source is to a pure black body radiator is the Color Rendering Index (CRI), a scale of | to 100 which gives some indication of the ability of a source to render color accurately. For photographic purposes, only sources with a CRI of 90 or above are generally considered acceptable.
+
+COLOR METERS
+
+Most light sources are not a narrow band of the spectrum; hence they are not a pure hue. Most colored light is a combination of various wavelengths; there is no one number that can describe the color as a color wheel Great American Mark
+
+Table 10.2. (above) Commo and natural sources accurately. Rather, it is defined on two scales: red/blue and magenta green. As a result, most meters give two readouts (they are called three color meters, since they measure red, blue and green), one for the warm/cool scale and one for the magenta/green scale. In the case of the Minolta color meter, the magenta/green readout is not in absolute numbers, but directly in amount of filtration needed to correct the color to “normal” on the magenta/green scale.
+
+Rosco Laboratories makes the following recommendations for gels based on reading from a Minolta Color Temperature meter. LB ts the Light Balancing index. Its use is based on whether you are using daylight or tungsten balance film. Light balancing values are shown in Table 10.3
+
+CC index is Color Correction. It describes the green/magenta aspects of the color source. It is most relevant when shooting with fluorescents. sodium vapor, mercury vapor or other types of discharge sources which usually have a large green component. The newer Minolta Color Meter III has an expanded green-magenta scale. Recommended corrections are shown in Table 10.4 and 494; 10.3.) trate gas discharge soure them difficult to control for fi video use.
+
+MIREDS
+
+Another problem with color temperature is that equal changes 1n color temperature are not necessarily perceived as equal changes In color. A change of SOK from 2000K to 2050K will be a noticeable difference in color, For an equivalent change in color perception at 5500K, the color temperature would need to shift 150K and about S00K at 1O,Q00K.
+
+For this reason, the mired system has been devised. Mired stands for micro-reciprocal degrees. Mireds are derived by dividing 1,000,000 by the Kelvin value. For example, 3200K equals 1.000,000/3200 = 312 mireds. To compute how much color correction is required, you use the mired values of the source and the final 85 (Full CTO) +131 1/2 CTO +81 1/4 CTO +42 - | - 1/8 CTO +20 + - CTB -131 1/2. CTB 68
+
+1/3 Blue ~-49 1/4 Blue -30 — 1/8 Blue -12 +167 | Fullcro | -131 | Full Blue +131 | Sun gs -68 | Half Blue +81 | HalfcTo | -49_| Third Blue +40 | QuarterCTO | -30 | Quarter Blue +20 | Eighth CTO “112 Eighth Blue + 12 UV filter 8M_| 1/4 Minusgreen | 5G
+
+15M | 1/2 Minusgreen | 13G 30M Full Minusgreen | 37
+
+1/4 Minusgreen | - 2 |1/4 Plusqreen_ 1/2 Minusgreen | - 5 |1/2 Plusgreen -12 Minusgreen Plusqreen
+
+| 1/4 Plusgreen 1/2 Plusqreen
+
+G | Full Plusgreen #3 +6 +13 Table 10.3. (top) Light Balancing
+
+Index for the most common correction gels.
+
+Table 10.4. (middle) Color compensating as indicated by the Minolta Color Meter Il. Color correction applies only to the magenta-green balance.
+
+Table 10.5. (bottom) Color compensating values as indicated by the Minolta Color Meter Ill.
+
+cinematography 170 desired color. If you have source at 5500K and wish to convert it to 3200K, subtract the mired value of the desired color from that of the source. 5000K = 200 mireds. 3200K = 312 mireds and then 312-200= 112 mireds. 85 orange has a mired value of +112. On the mired scale, a plus shift value means the filter is yellowish, a minus value means the filter will give a blue shift. When combining filters, add the mired values.
+
+COLOR BALANCE OF FILM
+
+No color film can accurately render color under all lighting conditions. In manufacture, the film is adjusted to render color accurately under a particular condition, the two most common being average daylight (type D film), which is set for 5500K and average tungsten illumination (type B film) designed for 3200K. There is a third, which is based on the now disused “photo” bulbs, which were 3400K (type A film), rather than 3200K; these are rare now.
+
+Given the fact that providing tungsten light is costly and electricity intensive, while sunlight is usually far more abundant, most motion picture films are type B, balanced for tungsten. The idea is that we put a correcting filter on when we can most afford to lose light to a filter factor — in the sunlight. Kodak and Fuji now have several daylight balance films available.
+
+COLOR BALANCE WITH CAMERA FILTERS
+
+There are three basic reasons to change the color of lights: * To correct the color of the lights to match the film type (instead of using a camera filter)
+
+* To match various lighting sources * For effect or mood To shoot with type B film under “blue” light (in the 5500° degree area) an 85 orange filter is used. The 80A or 80B blue filters for shooting daylight film with warm light are rarely used, and in most cases should be combined with a UV filter because tungsten film cannot tolerate the high proportion of UV in daylight and HMIs.
+
+There is some light loss when using a correction filter and the filter factor must be used to adjust the T/stop. For convenience, most manufacturers list an adjusted Exposure Index which allows for the filter loss.
+
+When using this adjusted EI, do not also use the filter factor. El is not technically the same as ASA (American Standards Association) which is the scale used to rate film for still photography, but in practice they are the same. This is because the speed of color film is not measured in the same way as black-and-white emulsion (see the chapter on Exposure). Color film speed is determined by testing.
+
+You will also notice two different Els on cans of black-and-white film, as well. This is not related to correction filters, since none are needed. It has to do with the fact that black-and-white films vary in their sensitivity to colors. In most cases the El for tungsten light will be 1/3 stop lower. Most black-and-white films available today are panchromatic, meaning they are relatively sensitive to most of the visible spectrum. Early black-and-white films were orthochromatic: they were not sensitive to blue light at all. This meant that actors with blue eyes appeared to have white eyes. Smaller color mismatches can also be corrected with color filters, as well. If the scene lighting is 2800K. for example (too warm), then an 82C filter will correct the light reaching the film to 3200K.
+
+There are three basic filter families used in film and video production: conversion, light balancing and color compensating. This applies to both lighting gels and camera filters.
+
+SION FILTERS ilters work in the Blue-Orange axis and deal with funda color balance in relation to the color sensitivity of the emu sion. Conversion filters affect all parts of the SED for smooth colot rendition. Although there used to be more, currently there are only of color emulsion: daylight and tungsten. The basic filter are shown in Table 10.7. The conversion filters we use in are called CTO and CTB (see below).
+
+two fv pe “4 | imilies CING FILTERS
+
+Light Balancing filters are warming and cooling filters; they work ‘entire SED as with the conversion filters, but they are used to smaller shifts in the Blue-Orange axis.
+
+CORRECTING LIGHT BALANCE
+
+Dayligh sources Include light itself (daylight is a combination of direct sun and . ool-white or daylight type fluorescents * (Color correct fluorescents , hroic sources such as FAY . | 1 Caroons n general, daylight sources are in the range of 5400K to 6500K, though they can range much higher. Near sunrise and sunset they 10.5. (lef possil car st Lighting, Inc
+
+10.6, (abo perature | 10.7. Gel taped to a 4x4 open frame is usually the best way to add color to an intense source such as these Ruby Sevens. Care must be taken not to get it too close or the gel will burn.
+
+(Photo courtesy of Luminaria, Inc.)
+
+Table 10.6. The basic filter families and their designations.
+
+are much warmer as the sun is traveling through a much thicker layer of atmosphere and more of the blue wavelengths are | out. The amount of dust and humidity in the air are also | which accounts for the different colorings of light prevalent ferent locales. Perhaps most famous is the translucent blue light of Venice made famous by the painter Canaletto.
+
+iltered actors, in dif- Correction is achieved with either “85” or CTO, both of which are orange filters. The Rosco product is Roscosun 85 (85 refers Wratten number equivalent), it has a mired shift value of | 31 + to the which will convert S500K to 3200K. (Technically. this is equivalent to a Wratten 85B; Wratten 85 has a mired shift value of 112, which converts 5500 to 3400, slightly cool for tungsten balance.)
+
+CTO
+
+CTO ts the acronym for Color Temperature Orange. CTO ts warmer than 85 and has a higher mired shift value: 159. This means that > it will convert 6500K to 3200K, which is excellent when correcting cooler sources such as HMIs, which are running blue o ily skylit situations. It is also useful when going for a warme as it will convert SS00K to 2940K. (5500K = mired 181 value of 159, Warmer equals positive. 181+159 = 340 mired. D 1,000,000 by 340 = 2940K.) The difference is basically Ameri European: probably due to the fact that European skylight is ally bluer than American skylight (Table 10.7)
+
+An important variation of 85 is the combination of color cor r heav- . shitt vide Can Vs gener reechion and neutral density. The purpose of this is to avoid having to put two separate gels on a window, which might increase the possibility for gel noise and reflections, not to mention the additional cost ( is substantial). The variations are shown in table 10.9: Untort no one makes a 1/2 85 plus ND filter, which would be usetul serve a natural blueness in the windows.
+
+TUNGSTEN TO DAYLIGHT
+
+Filters for converting warm tungsten sources to nominal di are called full blue, Tough Blue or CTB (Color Temperature (Table 10.8).
+
+which nately to pre \ slue)
+
+rhe problem with “blueing the lights” is that CTB has a transmission of 36% while 85 has a transmission of 58%. This means that while you lose almost a stop and a half with CTB, you lose only about 2/3 of a stop with CTO. CTB is very inefficient; its most common use is to balance tungsten lights inside a room with the daylight blue window light that is coming in. This is a losing situation from the start: the window light ts liable to be far more powerful than the tungsten lights to begin with. If we then lose 2 stops off the tungsten by adding CTB we are really in trouble (not to mention the fact that we also have to put an 80B filter on the lens with tungsten balance film and we lose heavily there too). In practice most people try to avoid this solution; the alternatives are:
+
+* Put 85 on the windows and shoot at tungsten balance. By doing this we avoid killing the tungsten lights, we don’t have to use an 80B on the camera and we lose 2/3 of a stop off the windows. which may keep them more in balance with the inside exposure.
+
+* Put 1/2 85 on the windows and 1/2 blue on the lights. * Put 1/2 CTB on the lights and let the windows go slightly blue. This is actually a more realistic color effect and is much preferred these days.
+
++ Use daylight balance lights (FAYs, HMIs or Kinos) inside.
+
+FLUORESCENT LIGHTING
+
+One of the most common color problems we face today is shooting in locations where the dominant source ts fluorescent. The problem with fluorescents is that they are not a continuous spectrum source: in most cases they are very heavy in green. Another problem is that even if they may appear to be approximately correct in color, their discontinuous spectra may cause them to render color very poorly. (Recall our discussion of metamerism in the chapter on Color Theory.) This is measured as the Color Rendering Index (CRI). A CRI of 90 or better is considered necessary for film and video work. As a result, fluorescents cannot be corrected only by changing the color with a gel on the lighting unit or filter on the camera lens.
+
+Also because of their discontinuous spectra, discharge sources (of which fluorescents are one example) can’t be considered to have a true color temperature. The black body color temperature that they approximate is called the Correlated Color Temperature (CCT). On NAME TYPICAL CONVERSION MIRED VALUE STOP LOSS
+
+85 | §500K >3200K +131 3/4stop Full CTO 5500K > 2900K, 6500K > 3125K | +167 | 2p stop 1/2CTO 5500K > 3800K, 4400K > 3200K | —481—C—“‘zQ; V2 v4cTO 5500K > 4500K, 3800K > 3200K | +42 | 1/3 1/8 CTO 5500K > 4900K, 3400K > 3200K | +20 | 1/3 NAME | TYPICAL CONVERSION MIRED VALUE | STOP LOSS CTB, Full Blue | 3200K > 5500K | 131 [4a 1/2 CTB, Half Blue | 3200K > 4100K 68 1/3 CTB, 1/3 Blue 3200K > 3800K | 49 2/3 1/4CTB, 1/4 Blue | 3200K > 3500K | 30 1/2 1/8 CB, 1/8 Blue 3200K > 3300K 242 | 4a 10.8.For this music video we wanted vivid color and a dreamlike effect.
+
+One tungsten bounce was gelled double CTO and the other flame red, the two were on separate flicker boxes and the shot was overcranked.
+
+The result was a nightmare-in-hell feeling that fit the tone of the video.
+
+Table 10.7. (left) CTO filters, conver sion vales and light loss Table 10.8. (left, below) CTB filters, conversion values and light loss.
+
+controlling color practical locations it is not always possible to turn off the fit cents and replace them with our own lights. The many options and combinations can get to be a bit t confusing sometimes. Table 10.1] shows a decision chart for dealing with these situations. Additional FOR USE WI tips on shooting with fluorescents include:
+
+* Inthe field, it may be necessary to use a combination of these techniques, Whatever you do, SHOOT A GRAY SCALE to give the lab a starting point for correction.
+
+* Shooting with ordinary fluorescents alone and letting the lab APP remove the green results in a very flat color rendition. Adding some lights (such as tungsten with plusgreen) gives a much fuller color feeling to the image * Several high output units are available which use color cor Table 10.9. (top) Combination 85s. rected (full spectrum) fluorescents and can be used in con Table 10.10. (above) Gels for correct junetion with HMI or tungsten lighting (with either daylight ing green sources or 3200K fluorescent tubes) and prov ide perfect color They are very efficient in power usage and give a soft even light * Full minusgreen is equivalent to CC30M (30 magenta). In an emergency. It is possible to use a piece of CC30M * Don’t forget that most backlighted advertising signs (such as those in bus shelters) have fluorescent tubes in them. The scene may look fine but the fluorescent cast of the lighted signs will be very ugly * If you are shooting a large area such as a supermarket, fac tory or office, it is far more efficient to add g lights than to have the crew spend hours on ladders gelling ot changing bulbs reen to * When you add plusgreen or fluorofilter to lights they give a very strongly colored light which to the eye looks very rong and doesn’t appear to visually match either HMI or tungsten light. It looks absolutely awful. You will often find it difficult to convince a director that this the right thing to do taking a color Polaroid.
+
+CORRECTING OFF-COLOR LIGHTS
+
+ARCS
+
+Carbon ares give off heavy ultraviolet. Rosco Y-1 or Lee L.< Yellow reduces the UV output. Correction of white flame c:
+
+ares to tungsten balance: use Rosco MT2 (together with Y-1) o1 729
+
+232. Rosco MTY is a combination of MT2 and Y- | room shot needed rate and raw. A 24K similar to a Dino) was vindow. The existing allow ed to leak in and cted. The combination f the ti We contributed to the sleazy, honky-tonk feel which was appropri-ite for the scens EXISTING YOUR
+
+- STRATEGY COMMENTS SOURCE LIGHTS
+
+Use fluorescents only (adding — A Ni Fl scent “y one or Shoot huaress fluorescent fill if necessary) and let the fluorescents | balance . .
+
+lab time the green out of the print ~ Remove existing fluorescent lamps and Any Tungsten replace with “full spectrum” fluorescent Replace the lamps in ‘ ri fluorescents or HMI Pp e bulbs which provide photographic daylight or tungsten balance - Add minusgreen gel to the existing fluorescents which removes the green.
+
+Cool white Gel the fluorescents - 7 “ | HMIs eMMOr ’ With cool white fluorescents this will fluore daylight bal )
+
+HOMESCENR (cay ont Balance result in daylight balance. Tungsten lights can be blued or HMls used | Add minusgreen gel. With warm white Warm white Gel the fluorescents this will result ina tungsten Tungsten :
+
+fluorescents (tungsten balance. Tungsten lights may be used or HMiIs with 85.
+
+i T | Add plusgreen to the HMis which matches them to the heavy green output Cool white HMIs Gel the HMIs of the fluorescents, Then use a camera fluorescents filter to remove the green or have the lab time it out.
+
+HMI
+
+HMlIs generally run a little too blue and are voltage dependent.
+
+Unlike tungsten, their color temperature goes up as voltage decreases.
+
+It is important to check each lamp with a color temperature meter or color Polaroid and write the actual color temp on a piece of tape attached to the side. For slight correction Y-1 or Rosco MT 54 can be used. For more correction, use 1/8 or 1/4 CTO, Many HMIs also run a little green. Have 1/8 and 1/4 minusgreen available.
+
+INDUSTRIAL LAMPS
+
+Various types of high efficiency lamps are found in industrial and public space situations. They fall into three general categories:
+
+Sodium Vapor, Metal Halide and Mercury Vapor. All of these lights have discontinuous spectrums and are dominant in one color. They all have very low CRIs. It is possible to shoot with them if some corrections are made. High pressure sodium lamps are very orange and contain a great deal of green. Low pressure sodium is a monochromatic light: they are impossible to correct.
+
+CAMERA FILTRATION FOR INDUSTRIAL SOURCES
+
+The following are recommended starting points for using camera filtration to correct off-balance industrial sources. They are approxima- Film Type Existing Source Camera Filters
+
+High Pressure Sodium 80B + CC 30M
+
+85 + CC50M Tungsten Metal Halide
+
+Mercury Vapor 85+CC50M
+
+High Pressure Sodium 80B + CC50B
+
+Metal Halide 81A + CC30M
+
+Daylight
+
+Mercury Vapor 81A+CC50M
+
+Table 10.11. (left) Strategies for dealing with off-color sources.
+
+Table 10.12. Typical camera filtration for common industrial sources.
+
+Always confirm with film testing ora Polaroid.
+
+controlling color Cool Whitk Davlieht
+
+Fluorescent s500K Cool White
+
+Fluorescent
+
+Daylight
+
+5500K Minusereen
+
+10.10. (top, left) Cool White fluorescent with normal daylight. Notice how green the left side of her face is.
+
+10.11. (top, middle) Cool White flu orescent balanced against a tungsten source with Rosco Plusgreen 50.
+
+Green is then removed by the lab.
+
+10.12. (top, right) Cool White fluorescent with Rosco Fluorofilter, which converts them to tungsten balance.
+
+10.13. (above, left) Cool White fluo rescent with Minusgreen (CC 30M)
+
+balanced with a daylight source.
+
+10.14. (above, middle) A Warm White fluorescent with Rosco Minusgreen and 1/4 CTO to match a tungsten source.
+
+10.15, (above, right) An Optima 32 (color correct fluorescent) matched with a tungsten source.
+
+cinematography 176
+
+Cool White lungsten Cool Wh
+
+Pluorescent s2001 Plusgreen 50 Fluorofilte tions only and should be confirmed with metering and testing. Neve: fail to shoot a gray scale and some skin tone for a timer’s guide.
+
+Only with these references will the color timer or video transfer col orist be able to quickly and accurately correct the color. For more on shooting the gray scale reference see the chapter on /mage Control.
+
+Pay close attention to how the gray scale is shot an incorrectly done gray scale can do more damage than none at all; if the telecine transfer artist or film color timer adheres to it, your dailies will be very different than you expected. Some starting points for testing are shown in Table 10.12.
+
+STYLISTIC CHOICES IN COLOR CONTROL
+
+As with everything in film and video production, stylistic choices affect the technical choices and vice versa. This is especially true with color correction. Until a few years ago, considerable time and money were spent on correcting every single source on the set and every light or fixture that appeared in the frame to precisely 3200K (for tungsten) or 5500K (for daylight or HMIs) with no green. As a result of the influence of commercials and music videos, there is more of a tendency to “let them go green” and even let many different mixed sources appear in the frame. This is a much more naturalistic look and has become a style all its own. It has been said that “green is the new orange.” Some commercials and features even go out of their way to establish the green fluorescent look.

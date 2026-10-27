@@ -1,0 +1,991 @@
+CHAPTER 14
+
+Editing Digital Video
+
+This chapter is about digital video editing using nonlinear editing systems, or NLEs (the term is used to refer both to the entire editing system and to the particular editing app—the software—it uses). Information is also included about tape editing, which is less common today but continues to play a role.
+
+See Chapter 1 for an overview of video editing concepts, Chapter 13 for a discussion of editing choices and styles, and Chapter 5 for more technical aspects of video.
+
+See Chapter 16 for specific issues for projects that are shot on motion picture film, including film-to-digital transfers and editing considerations when working with a film original. You’ll also find information on digital-to-film transfers when making film prints. However, if you are editing film workprint in the traditional way using flatbed editing machines, please see excerpts from the third edition of this book posted at www.filmmakershandbook.com.
+
+The State of Digital Editing
+
+Video editing lives in two worlds. On the consumer side, some NLEs are amazingly easy to use and intuitive. Even young kids can shoot some video, load it into a basic editing program like iMovie, and put a movie together.
+
+On the professional side, the profusion of formats, choices, and technologies has resulted in NLEs that are amazingly sophisticated and powerful. You can do so much with an NLE that many editors find their role now routinely includes whole areas that used to be someone else’s job (sound mixing, color correction, graphic design, computer repair, etc.). When you first encounter a professional NLE, it can be frightening for all the menus, icons, and ways of working. Remember that the same basic editing functions exist somewhere in each popular NLE, so your knowledge of one—even a consumer version—will help you figure out the next.
+
+Filmmakers vary in their interest in or ability to deal with technical stuff. Some editors with great filmmaking skills know very little about the systems they work on. Others are techno-geeks and proud of it. They want to know everything about the software and hardware and how to do the most complex tasks.
+
+Whatever your level of interest or ability, try to find people who can advise you. Other filmmakers working with the same NLE can be a great resource. Online user groups like the ones at www.creativeCOW.net are great places to post technical questions and find problems being discussed (see the Bibliography for more). You can find free video tutorials on YouTube, and sites like Lynda.com and macProVideo.com offer entire courses in different NLEs with video demonstrations. And when you’re stuck, you’ll often find that just doing an online search with some keywords turns up helpful solutions.
+
+This chapter covers both basic concepts as well as some more specialized details (particularly later in the chapter). If a section gets too technical for you, skip ahead to the next one. Also, a disclaimer: there are far too many editing systems, techniques, and different names for the same thing to cover them all. When it comes to working with your particular system, be sure to read the manual and consult the help section in the software.
+
+Before reading further, be sure to see Video Editing, p. 36, where key ideas are introduced.
+
+COMPONENTS OF A NONLINEAR EDITING SYSTEM
+
+Think of your NLE as a kind of factory. You put into it the raw materials: images and sounds from the camera, maybe graphics and music. You use the NLE to process all that material—to cut it, rearrange it, add titles and effects, and balance the audio. When you’re done, you ship the finished movie out of the factory in various forms: you might create a file to post on the Web, make a DVD, or record the movie on videotape. A nonlinear editing system is basically a computer running specialized software. Various devices are attached or installed internally to get material in and out of the computer. Hard drives store the video and audio. And picture and sound monitors allow you to see and hear what you’re working on. Depending on your situation, you may be working on a system assembled by someone else, or you may be putting one together yourself. If you’re getting your own, you can buy or rent the elements separately, or you may have a vendor sell you a turnkey system (a preassembled package). If you intend to buy, read about your options and get recommendations from vendors and people working with the gear. What you need depends in large part on the kind of work you’re doing and where your movies will be shown.
+
+Fig. 14-1. Nonlinear editing system. Grass Valley Edius software running on a desktop computer. (Grass Valley)
+
+Fig. 14-2. Laptops are portable for editing in the field and can be connected to external monitors and other devices in the editing room. (David Leitner)
+
+Software
+
+While the hardware and other equipment that go with an editing system are important, the software application—the NLE program itself—may have the biggest impact on your editing experience. There are numerous NLEs on the market, and they span a wide range of price and power. Since the early 1990s, Avid’s suite of NLEs has played a leading role in the mainstream feature film and television industries. Then Apple Final Cut Pro became popular with independent filmmakers and mainstream facilities as well. The introduction of Final Cut Pro X caused a lot of controversy in these markets (more on this below). Adobe’s Premiere Pro is also a key player with over 2 million users worldwide. Home users have various low-cost, stripped-down programs to choose from, including ones from Ulead and Apple. Professional NLEs are also made by Sony, Grass Valley, Discreet, Lightworks, and others.
+
+How should you select an NLE? Start by talking with others who do the kind of work you’re doing or want to do. Brand names are only part of the story because the same company may offer a range of products. Some companies offer their NLEs along with a suite of applications that integrate with the NLE to do specialized tasks such as visual effects, audio mixing, and DVD/Blu-ray authoring. This makes it easier to move back and forth from one application to another. Today there’s better integration between different brands, and it’s common for filmmakers to use one brand for part of the process, then work with an app by another company for a different part. Almost all NLEs are available for free trials, so you can see how they feel.
+
+One consideration in choosing an NLE is your computer and/or operating system (OS). Some applications, like Final Cut Pro, run only on Mac OS, some run only on Windows, and some run on both. The latest NLEs work fastest with a 64-bit operating system; if your OS or computer is only 32 bit, consider upgrading. High-end professional systems may include hardware and software as an integrated package.
+
+If you’re working alone, or on in-house projects, choose an NLE based on features and price. If you need to interact with outside production facilities and workers, use something standard in the industry or at least compatible. For example, you may want to bring a project to a post house for finishing and if you’re both using compatible software it’s a lot easier to move the project over.
+
+Another consideration is employment. If you hope to work in the industry it makes sense to get trained on the tools being used by professionals. To date, that has usually meant Avid, Final Cut Pro, Premiere Pro, and Sony Vegas. Fortunately, if you know one you can learn another without too much pain (well, a fair amount of pain). Many apps offer guides for those switching from one NLE to another. Some, like Premiere Pro, allow you to continue using keyboard shortcuts you’ve memorized from other NLEs.
+
+Starting with Final Cut Pro X, Apple radically reconfigured not just the editing interface of Final Cut but fundamental workflows and terminology. As of this writing, it’s not clear whether Final Cut Pro X will achieve an important role in the broadcast and feature film world, or if its chief market will be filmmakers outside of these industries. At times in this chapter you’ll find a general discussion of NLEs that includes earlier versions of Final Cut Pro followed by a separate discussion for Final Cut Pro X.
+
+The Computer
+
+When it comes to video editing, you can’t have too much computing power. A high-performance machine can mean the difference between being able to concentrate on creative tasks and having to wait repeatedly while the computer renders (computes) effects, prepares your material for output, or simply chokes because the processors or drives can’t keep up with the data. The need for power is especially acute if you’re working in HD or today’s highly compressed acquisition formats utilizing codecs like H.264.
+
+When computer shopping look for several things. First is the speed of the central processing unit (CPU), expressed in gigahertz. The faster the better, but speed costs money. Often a smart strategy is to get a computer near, but not at, the top of a manufacturer’s line—it will still be fast but you won’t pay extra for the absolute best. Many NLEs are designed to make use of multiple processors, and your work will go faster with dual-, quad-, or multicore chips. If you’re editing on a laptop, bear in mind that faster multiprocessors (if available) drain batteries faster. CPU speed (also known as clock speed) isn’t the only thing that determines overall performance; also look at the on-chip memory caches and attached buses.
+
+Another key item is random-access memory (RAM). Many tasks need lots of it and each NLE maker will have a minimum recommended amount. Adding more RAM will substantially improve the performance of a relatively slow computer. You can often find better RAM prices from aftermarket manufacturers (that is, not the computer maker). RAM comes in different sizes, types, and speeds, so make sure the RAM you get is right for your computer and comes from a reputable company.
+
+The video or graphics card drives the computer monitor(s). Video cards contain the graphics processing unit (GPU) and have their own RAM. Many newer applications use the GPU not just for viewing video but to take computing load off the CPU for tasks like effects and compression. Seek advice on getting a card, because certain applications work significantly better with particular cards, especially when working with HD or larger frame sizes. As one example, Premiere Pro’s Mercury Playback Engine leverages GPU acceleration to enable playback of several streams of HD simultaneously and make the entire NLE faster. Video cards also differ in the types of monitor connections, whether they’ll drive more than one monitor, and the resolutions they can handle.
+
+The computer is the heart of the NLE, but it only works when connected to other gear. You want a machine with lots of flexibility in terms of available ports for connections, such as USB, FireWire 800, Gigabit Ethernet, Thunderbolt, DVI, or HDMI (see Digital Connections, p. 237). With desktop systems, also look for the number of open expansion slots (especially PCI Express slots) into which you can put cards for various other connections, such as eSATA, which is commonly used for external drives.
+
+Fig. 14-3. Professional editing setups often have two computer monitors to provide plenty of room for the NLE interface. A broadcast video monitor displays the picture with proper color values for television. A mixer controls the speaker level. External hard drives may be configured in a RAID for speed and data integrity. Compare with the online suite in Fig. 1-30 (which has yet more gear). (Steven Ascher)
+
+You’ll need a DVD burner for creating DVDs and importing and exporting all manner of other data (you may also want a Blu-ray burner). Consider an uninterruptable power supply (UPS) that allows you to shut down in an orderly way in the event of a power outage.
+
+It’s essential to have a high-speed Internet connection, or at least be able to connect when needed. You’ll use the Internet for accessing help files, getting software updates, sharing files with others, and downloading sound effects or stock footage, among many other uses. And of course hard drives or SSDs are essential for storing your media and need to be managed carefully. Be sure to read Hard Drive Storage, starting on p. 238.
+
+Input and Output
+
+There are many different ways to get video and audio into and out of an NLE. Which methods you use depends on how the video was recorded and what your final product(s) will be.
+
+Today most cameras and audio recorders are file based, which means they create digital files that, by the time they get to the editing room, may be saved on flash memory cards, hard drives, SSDs, or optical discs like DVDs or Blu-rays. Importing files from a memory card into the NLE requires a computer with a built-in card slot of the appropriate size, or you can get an inexpensive external card reader with many different-sized slots that connects via USB.
+
+For transferring files from a hard drive or SSD, you’ll want a fast input connector. FireWire ports have been widely used for many years for connecting drives, video decks, and cameras. If your desktop computer doesn’t have FireWire, it can be easily added. Today there are a number of faster options, including Thunderbolt, eSATA, and USB 3.0, which may be preferable if your drives and computer support them. For more on all of these connections, see p. 237.
+
+Fig. 14-4. (left) AJA Io Express supporting a broadcast video monitor. (right) AJA Io XT with Thunderbolt connectivity between a laptop and a RAID. Both products offer a wide range of input/output and monitoring options, as well as conversions between SD and HD formats. Can capture to ProRes, DNxHD, and CineForm codecs. (AJA Video Systems)
+
+If you need to capture material into the NLE that was recorded on videotape, you’ll typically need a video deck (VTR) to play the tapes. If you don’t have one, you can rent one for the time needed to capture the material or you can have a post facility create files from your tapes. Many digital formats can be captured from a tape deck or camera via a FireWire connection directly to the computer, including high definition codecs like HDV and DVCPRO HD and standard definition formats like DV, DVCAM, and DVCPRO. The FireWire cable controls the deck and transfers video, audio, and timecode.
+
+Tape formats with higher data rates, such as HDCAM, usually require a capture card (see below) and instead of FireWire may use HD-SDI connections. Professional VTRs often use RS-422 serial device control, which provides precise control and allows insert editing (the RS-422 cable has a nine-pin connector; see Fig. 14-5).
+
+If you’re using footage from an analog tape source like Beta SP or VHS, you’ll usually need a capture card to digitize the material at best quality. Or you may be able to route the signal from an analog camera or deck through a digital deck that can make the digital-to-analog conversion.
+
+Fig. 14-5. The back of the AJA Io XT shows various connectors. (lower row, left to right): XLR for power; two Thunderbolt ports (one connects to the Mac, the other can daisy-chain to storage or other peripherals); BNC jacks for SD or HD component video out (composite video is on the Y connector); HDMI out (carries video, audio, and timecode); 3G/HD/SD-SDI out; and LTC (timecode) out. (AJA Video Systems)
+
+CAPTURE CARDS AND INPUT/OUTPUT DEVICES. A number of products serve as an interface so you can bring various formats of video and audio in and out of the computer. Depending on your workflow, these may or may not be needed or useful. Input/Output (I/O) devices such as AJA’s Io XT connect to an Apple computer via a Thunderbolt connection (see Fig. 14-5). PCI card systems (also called capture cards) plug directly into a desktop computer’s PCI Express (PCIe) card slot and often include a breakout cable with various video and audio connections (see Fig. 14-6). I/O cards and boxes are made by Blackmagic Design, AJA, and Matrox, among others. These devices vary enormously in their capabilities and price. Some of their functions you can also do with software—without needing the device—though in some cases the hardware can do it faster or with better quality. Available functions may include:
+
+Transcoding between digital formats. Some devices may convert your video to different codecs at different data rates. Useful if you want to transcode for editing or output (see p. 558).
+
+Up- and downconversion between SD and HD. Some can take in HD or SD and output the other. They can also cross convert between HD formats (such as between 1080i and 720p).
+
+HD-SDI and/or HDMI connections. Some allow you to input high definition via HD-SDI or HDMI from a video deck or camera. Or input uncompressed standard definition via an SDI link (see p. 237). They may also provide HDMI, HD-SDI, or SDI output to feed a video monitor.
+
+Digital audio input and output. Some may have connectors for digital audio formats such as AES/EBU (see p. 416).
+
+Hardware acceleration. Some are designed to take some of the processing load off the computer’s CPU. This can provide more real-time effects (see p. 553) and make for a more streamlined editing experience. Some can output edited HDV with no rendering.
+
+3D workflows. Some can output separate or combined stereoscopic signals for monitoring.
+
+2K or 4K workflows. Some can ingest or display 2K and/or 4K material.
+
+Conversion between analog and digital. If you have an analog source (composite, component, or S-video) the device may convert to digital files for editing.
+
+Fig. 14-6. Blackmagic Design’s Intensity Pro is an affordable input/output card that allows you to connect an HDMI video monitor to a desktop computer via its PCI Express slot. Can also be used to capture HDMI directly from a camera, bypassing the camera’s internal compression. Breakout cable on left provides connections to analog video and audio gear. The Intensity Extreme can be used with a laptop. (Blackmagic Design)
+
+Picture Monitors
+
+It’s easiest to use an NLE when your computer monitor is big and there’s plenty of room for the many parts of the application. Even better, use two monitors for more screen real estate so you can make parts of the interface bigger and easier to work with.
+
+Unless you’re creating video exclusively for the Web or to be seen only on computer or mobile devices, keep in mind that most computer monitors will not display the picture correctly for television or other types of video distribution. The differences between RGB computer monitors and true component (Y’CBCR, also called YUV) video monitors in terms of brightness and color values are explained on p. 218.
+
+Whenever possible, you should have a true HD video monitor (or NTSC/ PAL monitor, if working in SD) as part of your NLE setup. A good-quality plasma, OLED, or LCD display is a starting point, and for really accurate color (a necessity if you’ll be doing color correction on your projects), get a professional broadcast video monitor with adequate controls (see Appendix A). If you can’t afford or can’t use an HD broadcast monitor, workarounds for using a computer monitor to display component video are discussed starting on p. 218.
+
+Fig. 14-7. A small mixer is a helpful addition to the editing system for connecting audio equipment (like mics and tape decks) and controlling speaker volume. (Behringer)
+
+Audio Monitoring and Input
+
+Audio monitor is a fancy term for a set of speakers. Often people use a pair of self-powered desktop speakers for editing. Get good speakers whenever possible. For more on speaker selection and the audio environment of the editing room, see p. 639.
+
+It’s very helpful to have a small mixer (see Figs. 14-7 and 15-4) as part of your editing setup. You can use it to record from a microphone or from other analog sources.1 Often the speakers are patched through the mixer, which allows you to easily adjust the level and choose which channels you want to monitor.
+
+HOW THE NLE PLAYS AND EDITS MEDIA
+
+Media Files and Clips
+
+To start work on an NLE, you load the video you want to edit into the system. If you’re working with material that was originally recorded to a file, bringing it into the NLE is usually called importing, ingesting, or transferring. If the camera recorded files to a hard drive or memory card, ingest basically involves copying the files to the NLE’s drives.
+
+If the material was recorded on videotape, bringing the material into the NLE may be called capturing, importing, or, for analog tape, digitizing. You use the NLE’s capture tool to capture the video and audio from a VTR or camera.
+
+Either way you bring the material in, the video and audio files will be written to the NLE’s hard drives. These imported chunks of video and audio are the media files (also called source media files).
+
+Media files are contained in a wrapper file format such as MPEG-4 (.mp4 file extension), QuickTime (.mov), MXF, Windows Media (.wmv), or another format (for more on wrappers, see p. 242). Sometimes camera files need to be rewrapped by the NLE to a format that’s more compatible. On many systems, the video and each channel of audio are wrapped together in one file; on others, they are stored as separate media files.
+
+When each media file is imported, the NLE creates a master clip to go with it. A clip is like a pointer that tells the NLE to go to that media and play it. The clip doesn’t contain any audio or video data, but it links to the media file that does.
+
+The idea of “editing” using a nonlinear system is really just repositioning clips that tell the computer which media file to play next. Let’s say we’ve imported three shots: A, B, and C. When we edit these three clips together in order, we’re simply telling the computer to find the media for shot A, play it, instantly jump to shot B, play it, and so on.
+
+If we decide to shorten shot B and insert shot N before it, all we do is alter the “playlist.” Now the computer is told to play shot A, then jump to N, then jump to B, but this time play less of the shot than it did last time. Even though we have reordered and changed the length of the shots, the actual media files are not moved or changed. All we’ve done is altered the length and order of the clips that point to them. We can have many different versions of the movie with different clips pointing to the same media or different parts of it. Clips can “reuse” the same source media as often as needed (unless this is a project that was shot and will be finished on film; see p. 700).
+
+Real Time and Rendering
+
+When an NLE can play clips in a sequence and jump instantly from one to another, we say that it is processing in real time. Depending on your system and what you’re trying to do, there are occasions when the NLE may not be able to play or perform various effects in real time. Say, for example, instead of a hard cut between shots A and B, you decide to dissolve between them. The computer will play the end of shot A and meld it with the first few frames of shot B. If the computer can do this on the fly, that’s a real-time effect. But with some effects, the computer can’t do all the calculations fast enough. In this case, the effect must first be rendered, which means creating a new file (a render or precompute file) that contains the effect. If we render the dissolve between shots A and B, the frames that contain the A/B overlap become a render file that the NLE inserts between A and B in playback.
+
+Generally speaking, the faster your computer and/or the lower the resolution of your video the more you can do in real time. When dealing with material that requires a lot of processing, many NLEs will reduce the picture quality or frame rate on playback. You always have the choice to render when you want to maintain normal quality. With some NLEs, rendering means stopping work while the system processes; with others, rendering can take place in the background while you work.
+
+POSTPRODUCTION WORKFLOW
+
+Projects vary a lot in terms of the raw materials and the end products. You may have shot the movie with a smartphone or a top-of-the-line professional HD rig. Your ultimate goal may be a little movie to share with friends on YouTube, or a 7.1-channel surround-sound digital cinema production for screening in a two-thousand-seat theater.
+
+NLEs vary a lot too, in software and hardware. You might be running an old version of a consumer program on a slow laptop, or you might be working at a post house with the latest HD system with the fastest processor and terabytes of storage.
+
+With each project, you need to chart out a workflow—a plan for how you’re going to work with your materials and tools. As a rule, most filmmakers have three overarching needs: maintain the highest quality; find the fastest, most efficient route; save the most money. You can’t necessarily achieve all three. (The old saying has it that among good, fast, and cheap you can have any two.)
+
+A smart strategy in postproduction, like many other aspects of making a movie, is to think backward from the distribution you’re aiming for, to make sure your postproduction workflow will deliver what you’ll need creatively and technically. With so many formats, editing systems, and ways of working, it’s impossible to cover them all in a book like this. However, there are some standard ways of working based on what you’re starting with, the capabilities of the editing system, and the end product you hope to achieve.
+
+The Idea of Offline and Online
+
+The terms offline and online editing come from the days when video was edited exclusively on videotape, rerecording from one tape machine to another. In this traditional method, the camera tapes are dubbed to a lower-quality format and offline editing is done with more affordable offline editing decks (the original systems were called “offline” because the system was not computerized). In the offline edit you shape and structure the movie—every shot is cut to its proper length and is in its proper order. But at the end of offline editing you don’t have a finished, high-quality product—offline cuts often have poor image quality and rough sound. The goal of offline editing is to produce essentially a list of shots used in the movie, a sort of construction blueprint; this is called an edit decision list (EDL). The list indicates the timecode for the first and last frame of every shot used in the movie (see Fig. 14-41). You then take the EDL to an online editing suite, where the original, high-quality tapes are conformed by timecode to the sequence you created in the offline, using expensive online video decks. The end product of the online is the high-quality, finished master.
+
+The terms “offline” and “online” continue to be used today, in the era of digital nonlinear editing. What do they mean now? We can see from the above description that, in one sense, “offline editing” means working on something that is not a finished product; the finished piece will be created later in the online stage. Offline and online are thus stages in the editing process. But in another sense, the idea of offline editing equipment suggests something that works at a lower or “draft” quality while online equipment is capable of “finished” or high quality. Today these distinctions can become blurred. You might be able to use the same NLE to turn out an offline or an online product, simply by using different files or settings. Or your editing system might be capable of onlining a nonbroadcast or Web project, but not an HD movie for television.
+
+Fig. 14-8. An online workflow. In this scenario, all the work is done on one NLE. (Steven Ascher)
+
+Many workflows used with NLEs involve offline and online stages; how those stages are accomplished varies widely. Though many nonlinear editing systems can generate an EDL, there are now far better, more powerful methods for making the transition from offline to online (for more on this, see Managing Media, p. 609).
+
+A note about language: as you’ve probably already noticed, “offline” and “online” can be used as verbs (“We’re offlining Tuesday”), nouns (“The offline is in my car”), and adjectives (“This is an offline deck”). In a completely different context, the terms can also be used to indicate whether or not media files are connected to the system and available for editing (“These clips are offline”).
+
+An Online Workflow
+
+Perhaps the simplest, most straightforward workflow is to import the video footage into the NLE and edit it at full resolution either by using the native camera format or by transcoding to an edit-friendly format like Apple ProRes, Avid DNxHD, or CineForm. When you’re done, you output the final product(s) from the same machine (see Fig. 14-8). This can be thought of as an online workflow (there is no offline), and it is used for everything from simple student projects to professional projects of many kinds. This workflow is very convenient in the sense that you are working in one location on one machine with one set of tools, but it also means you’re limited to the capabilities of the software and hardware that are on your system.
+
+An Offline/Online Workflow
+
+For several reasons you may choose an offline/online workflow. You may want to do an offline at “draft” quality because your NLE doesn’t have enough hard drive storage or processing power for full quality (which may happen when working with data-intensive, high-resolution formats). Or you may do the offline at full quality, but prefer to do the online on a more powerful NLE with better equipment for color correction and mastering. Figure 14-9 outlines a possible workflow that involves shooting either SD, HD, 2K, or 4K format, capturing to one NLE system for offline editing, then moving to an online NLE for finishing. As this flowchart shows, regardless of what format you shoot in, you can reduce offline storage needs by transcoding to a lower-data-rate codec for editing. Some cameras and editing systems create proxy files (low-resolution copies of the original camera files), which are useful for offline editing, particularly on a laptop with limited storage space. To do the online edit, the edited sequence is separated from the proxy or low-res files used for the offline and relinked to the original high-resolution camera files. (Sometimes this requires reimporting files or recapturing tapes prior to the online.) In this workflow example, audio is exported to a digital audio workstation (DAW) for sound work and mixing at a sound studio. It’s also possible to do both the offline and the online on your own NLE.
+
+WHAT FORMAT OR RESOLUTION TO EDIT IN?
+
+A key decision in postproduction workflow is to determine whether you’re going to edit in the same video format that the camera produced or if you’re going to convert the video to a different format or resolution for editing. Virtually all digital video cameras use a codec to compress the video signal before recording (see p. 19 and p. 245). Which codec is used (and at what data rate) depends on the format you’re shooting and the particular camera. When you’re ready to edit, and you want to import what you’ve shot into the NLE, you may have a choice about whether to edit with that same codec (called native editing) or convert to a different codec (called transcoding), or you may even decide to edit with uncompressed video. After you’re done editing, you could export in the same codec you used for the edit or, more often, you’ll transcode to a number of different formats for distribution.
+
+Fig. 14-9. An offline/online workflow using two nonlinear editing systems and a digital audio workstation. (Steven Ascher)
+
+Native Editing
+
+When an NLE can work in the same codec that you shot with (and therefore allow you to import the video without changing it) it is said to handle that format “natively.” With native editing it’s a very simple path to import files from a drive or memory card (or capture from digital tape), edit, then export the finished movie back out of the NLE in the same format with no quality loss. The simplicity and ease of native editing are part of how digital video created such a revolution for consumers and pros alike.
+
+Today professional NLEs can work with most camera codecs natively, and consumer NLEs can handle at least the common consumer formats. Native editing can be done in an online-only workflow (you start at native quality and finish at native quality on the same editing system). Native editing can be fast because no time is spent converting to another codec. If you’re using a fairly compressed codec, such as DV, DVCPRO HD, HDV, or XDCAM EX, it can be cheap too, because no capture card or fast RAID hard drive array is needed.
+
+With RAW digital cinematography formats, the files can be very large and native editing usually requires a RAID. Not all NLEs can handle these files at full resolution, but one advantage of working natively with REDCODE R3D files from RED cameras, for example, is that you can make the full range of adjustments to color balance, ISO, and other parameters nondestructively (so you can change them later) without having to “bake in” any corrections by transcoding prior to editing (see Fig. 2-21).
+
+While native editing offers various benefits, including being able to get right to work without first converting to another codec, it should be noted that all the codecs mentioned above are acquisition codecs used in cameras; they are not typically used to distribute a finished movie. So even if you choose to edit natively, you’ll generally convert the project to other codecs at the end of the process.
+
+Transcoding for Editing and/or Finishing
+
+If editing natively is so easy, why not edit everything that way? In fact, depending on your situation, you may never need to transcode. However, for various reasons you might want to. In some cases, an NLE can indeed work natively with a format, but the system slows down or works at less than full resolution. Or the format requires more hard drives or faster storage than you have. With some formats you may save time and maintain higher quality by transcoding.
+
+Apple, Avid, and CineForm each offers a suite of codecs to which you can convert any format for editing and finishing. They can deliver very high picture quality at data rates much lower than uncompressed video. Apple’s codec is ProRes and Avid’s is DNxHD (be sure to read about them in A Few Common Codecs, p. 250). Many other NLEs and camera systems can work with these codecs as well. ProRes and DNxHD are each really a family of codecs: there are high-data-rate versions with alpha channels for effects-heavy productions (see p. 590); there are midlevel versions that have reduced file sizes but ample quality for editing and finishing; and there are low-data-rate versions that are generally intended for offline editing only.
+
+If you decide to transcode to ProRes, DNxHD, CineForm, or another codec for editing and/or finishing, you may have options about when to do it. In some cases you may transcode during import or capture from camera files or tapes.2 Or you could import files natively, then transcode all your footage for editing. Since transcoding takes time and creates a second set of files to store (the originals plus the transcodes), in some cases people edit natively with the original camera files, then transcode just the final edited movie before exporting from the NLE (more on this below).
+
+Transcoding can usually be done within the NLE, or you may prefer to batch process a number of files at once before importing to the NLE using a separate application like Apple Compressor, Adobe Media Encoder, Adobe Prelude, or a free program like MPEG Streamclip or HandBrake.
+
+Sometimes when a project has a wide variety of material created in different codecs or frame rates, filmmakers will choose to convert everything to ProRes or DNxHD, perhaps doing frame rate conversions at the same time, as a way to standardize and simplify the post process.
+
+EDITING AT A LOWER DATA RATE. Appendix B shows the data rate and storage requirements of various formats and codecs. As you can see, there are big differences between some of them. For example, you’d need only 217 MB to store a minute of standard definition DV but it takes more than 17 GB to store a minute of uncompressed 2K footage—that’s over eighty times more space on a hard drive. High-data-rate formats not only use up a lot of storage, but they can require much faster processing in the storage system and the NLE. For some forms of HD, for example, you need a RAID and can’t edit with single drives (see p. 240). If the video is stored on a network with shared storage, high data rates can cause bottlenecks.
+
+Transcoding to a format with a lower data rate can be done in an offline/online workflow. The video is converted to a more compressed codec or format for offline editing. When you’re done, you configure a high-quality version of the movie using the original files at the full resolution.
+
+This is a situation in which DNxHD and ProRes can be very useful. DNxHD 36 and ProRes Proxy are designed for offline editing and produce full-raster HD at 36 Mbps, hardly more than standard definition DV’s 25 Mbps. Alternatively, you could transcode to a less-compressed flavor of ProRes or DNxHD that maintains higher picture quality but still has a manageable data rate; in which case you could simply finish at this resolution without any further conforming.
+
+Working with low-res proxy files (which may be generated by the camera or in the editing system) makes it easy to edit on a laptop and send files over the Internet. When you’re ready, you link the offline edit to the full-resolution original media for the online edit and finishing.
+
+There are various other methods of reducing data rate for offline editing. Some systems offer other codecs such as M-JPEG that can be used at various resolution levels. Resolution may be indicated as a compression ratio, such as 2:1 or 15:1. Higher compression (in this case, 15:1) means lower data rate. Some systems allow you to capture only one field of an interlaced format, instantly cutting the data rate in half. Avid indicates single-field resolutions with an “s” after the compression ratio (such as 15:1s).
+
+When working with RED files, you can use the REDCINE-X application to transcode the original R3D files into lower-resolution, self-contained QuickTime, MXF, or DPX files for editing (and finishing if you choose). Any particular looks you create in terms of color, contrast, and exposure are stored in RMD files, allowing you to reference back to the original R3D files if needed to re-create the same look at full resolution.
+
+EDITING IN A SMALLER FRAME SIZE. In various situations you may decide to downconvert material from a large frame size to a smaller one for editing. For example, you may downscale 4K or 2K material to 1920 x 1080 HD because the NLE can’t handle all the data and/or because you plan to finish the project in HD.
+
+Or you may be creating a Web video and decide you don’t need Full HD files. When working in iMovie, for example, you have the option to convert 1920 x 1080 HD footage to half size (960 x 540) either on import or export. The smaller size saves storage space and may still be large enough for the website where the video will reside.
+
+In an older methodology, some people choose to offline HD projects in SD. The downconversion can be done by a card, deck, or camcorder during capture (some HDV cameras, for instance, can downconvert to DV in playback). Another approach is to make a set of SD tapes or files from your HD material, then capture those into the NLE. While this may make it easier to work with a low-powered editing system, and can speed up tasks like making a DVD of a rough cut when you need one, there are disadvantages to editing an HD project in SD, which has a different frame size, pixel shape, and color space. Editing in HD but using a more compressed codec (like ProRes Proxy or DNxHD 36) can provide a better editing experience and an easier translation between offline and online.
+
+EDITING AT A HIGHER DATA RATE. We’ve seen that using compression to reduce the data rate can be helpful for offline editing. Are there times when it helps to go the other way, to a less compressed codec or all the way to uncompressed for editing? As you’ve probably guessed, the answer is yes. People sometimes convert highly compressed material to a less compressed codec for editing or finishing. There are a variety of reasons.
+
+First, highly compressed codecs like the H.264 used in many DSLRs and other MPEG-2 and MPEG-4 codecs require a lot of computer processing to decode and edit (since they use long-GOP interframe compression; see p. 246). While your NLE may be able to play them natively, performance may be compromised. Also, when you’re ready to output the project from the NLE, the system will need to “conform” or render the movie first, which can take a lot of time at a point when you may be under deadline pressure.
+
+Fig. 14-10. When setting up a new project or sequence, the NLE needs to know the format, resolution (frame size), and frame rate of the movie you’re editing. These can be set manually, or some systems can set them automatically based on the first video clip. Audio may be stereo (two channels) or surround (usually 5.1 channels). The selection at the bottom of this screen from Final Cut Pro X shows that even if you’re editing natively, any material that needs rendering will be rendered in ProRes 422. (Apple, Inc.)
+
+Another issue is that when editing with a compressed format, whenever you manipulate a shot by changing its speed, color correction, or other effects, the system needs to recompress the footage to store it. The same is true when you composite one shot with another, do a dissolve, or add a title over picture. The more compressed a format is to begin with, the worse it will look on recompression.
+
+You can minimize these problems in a few ways. One method is to transcode all your camera footage to ProRes, DNxHD, or CineForm and use the transcoded files for editing and finishing. Being I-frame codecs, they put less demand on the computer’s CPU and require no conforming (other methods of speeding up the conforming process are discussed on p. 248). Working with these codecs will give you faster renders and better compositing.
+
+If you don’t want to transcode all your footage, some NLEs, like Final Cut Pro, can be set to edit natively with the compressed codec, but will create ProRes 422 render files only for effects. This helps minimize recompression artifacts and saves time and drive space compared to transcoding everything. In general, if your NLE has an option to render to ProRes or another intermediate codec, it’s a good idea to do so.
+
+Another consideration comes when it’s time to finish the project. Highly compressed formats are usually 8 bit and use 4:1:1 or 4:2:0 color subsampling, which can compromise graphics and chroma keys and make titles less sharp and distinct (see p. 212 for more on this). Titles, composites, and effects will look better if created in a less compressed, 4:2:2 format. Color correction and chroma keys work better in a 10-bit than an 8-bit environment.
+
+For all these reasons, it’s common to bump up from a compressed codec to something less compressed for finishing (often using one of the higher-data-rate ProRes or DNxHD codecs). You might do this for offline editing, or you might wait until the online to transcode to a less compressed codec.
+
+While there are potential quality advantages to higher-data-rate formats, when transcoding files you should pick a codec that’s appropriate to your workflow without increasing file size too much. For example, if you shoot with AVCHD and decide to transcode to ProRes, you may be fine with ProRes 422 (LT), which is only 102 Mbps, or even ProRes 422 (147 Mbps), while you would gain little or nothing by going up to ProRes 422 (HQ), which is 220 Mbps. On the other hand, if you’re sending a shot out to an animator for compositing, for example, you might save it as an uncompressed file to maintain the best possible quality during the later stages of work.
+
+IMPORTING AND ORGANIZING YOUR MATERIAL
+
+When the editor receives material from the production crew, the footage may be well organized and carefully logged as to which drives or tapes contain which scenes. Or the material may be a chaotic mess of undocumented footage. It’s essential that the editor organize the material thoroughly so that anything can be found easily when needed.
+
+Organization takes place on several levels. The first is prepping files and folders before ingesting anything into the NLE. Amateurs (and sometimes professionals in a hurry) may be used to simply grabbing camera files and throwing them into an NLE to start editing. But on a serious production, especially one involving a lot of elements, it’s crucial that what you do at every step ensures that original files are safe and that you be able to work backward from the edited project to find any original media (video, audio, graphics, etc.) when needed. Drives may fail, or you may be working in more than one resolution, and you’ll want the NLE to be able to quickly link back to original files or tapes. This can only happen if you’re careful in structuring and identifying your material.
+
+Another kind of organizing is done in the NLE during or after import or capture, when you’ll have an opportunity to name clips, set parameters, and add comments and/or keywords to help you find things later. The goal is to organize all your clips and files in a logical way that allows you to see what you have and find everything easily.
+
+Setting Up a Project
+
+With most NLEs, the first step to begin editing your movie is to create a new project in the NLE. The project is command central for the editing process, giving you access to all your material. With some NLEs, the project also stores various settings for the movie and organizes the editing interface. The project is saved on your hard drive as a relatively small project file that can be easily moved from one computer to another.
+
+As discussed earlier in the chapter, when you capture video from tapes or import from camera files, the NLE will typically create new media files for the video (and/or audio) as well as master clips that point to those media files and allow you to edit with them. The project is where the clips are kept. The media files are stored separately—exactly where depends on the NLE and how you’re working. In general, you’ll get better performance if media files are not on the same physical hard drive on which the NLE app and the operating system are running.3 Usually external drives are best.
+
+So when you start a new project, one of the first settings is to specify where to store captured media, transcoded media, and render files. This is called setting the scratch disk or target drive. Actually, the media files will go in a particular folder on the scratch disk. In Final Cut Pro versions prior to X, this is called the capture scratch folder, and it’s found within the “Final Cut Pro Documents” folder that Final Cut automatically creates. The Avid equivalent is the “Avid MediaFiles” folder, which should be placed at the root level on the drive.
+
+Depending on your NLE, the next step may be to specify the base format, frame size, frame rate, codec, and other parameters of the sequence (movie) you want to create, which is typically—though not always—the same as whatever you’ve been shooting. Most NLEs have presets for common camera formats—pick the one that corresponds to the footage you’re working with. If you’re working with mixed formats, the frame size or frame rate of particular video or audio material you’re bringing into the system may be different from the movie you’re making.
+
+The Project Window or Browser
+
+Once you open the new project, you’ll find the browser or project panel in which clips are stored and organized (see Fig. 14-15). This is your main tool for organizing all your video, audio, graphics, and titles. In the browser you can create folders or bins into which you put clips and sequences. You might put all the clips from a certain scene in one bin, original music in another, edited sequences in a third, and so on (see Fig. 14-11).
+
+The project window has columns for many types of information, including clip name, media starting and ending timecode, reel (tape) number, codec, etc. You can customize it with more categories, such as notes, shoot date, location, or anything you like. By clicking on column headers you can quickly sort the clips in a bin to find, say, all clips from a certain reel or scene.
+
+With most NLEs you can have the browser display the clips as text, or you can switch to a frame view that shows thumbnails (still frames) from each clip and may be able to play the clips in motion. You can rearrange clips to experiment with the order before editing them together—a bit like storyboarding.
+
+Fig. 14-11. Bin. This Adobe Premiere Pro bin contains (top to bottom) one sequence, two video clips with audio, one title graphic, and one audio-only music clip. These different types of elements are often placed in separate bins for better organization. Compare with Fig. 14-16. (Adobe Systems, Inc./Steven Ascher)
+
+Sometimes one clip contains different sections you want to identify to make it easier to find them later. With some NLEs, you can break a master clip into subclips, which are sections that act like new, separate clips. For example, with a long interview you might create different subclips for each new question. Some NLEs also allow you to use keywords for this purpose (more on this in the next section).
+
+Some NLEs can import the script or a documentary transcript and associate individual clips with lines from the written document (called script-based editing). If you find what you want in the script, you can quickly locate all the video clips that contain that bit of dialogue (see p. 535).
+
+Newer NLEs offer various automated methods of identifying shots that have people in them, or wide shots, or other attributes.
+
+For a project that originated on film, you may need to track keycode numbers, in-camera or audio timecode, as well as camera roll, sound roll, and telecine reel numbers. Though you could enter this data by hand, it’s far better to automatically import it from a shot log generated at the telecine session (see Chapter 16).
+
+For more, see Organizing Material, p. 534.
+
+Getting Started with Final Cut Pro X
+
+When Final Cut was redesigned for version X, Apple changed the existing interface, invented new terminology, and repurposed existing terms in ways that can put people familiar with other NLEs through mental gymnastics.4
+
+When you import media files, they are stored as part of an event. You can create a new event for each set of files you’re importing or you can bring new files into an existing event (so, for example, an event might include everything that was shot on a given day, or everything that was shot for an entire film). Each event has its own event folder inside the “Final Cut Events” folder at the root level of the hard drive you choose. The event folder contains unedited clips, any transcoded media files, and sometimes a copy of your original media files.
+
+In the event library you can select and view clips (see Fig. 14-17). With most NLEs, unedited clips are typically stored in a bin within a particular project and you can only view them if that project and bin are open. With Final Cut Pro X, you can always see all the clips from all the events on your system (unless you choose to hide them). So if you want to use something you shot last year as part of a biking movie, you can easily grab it for the music video you’re making this year. Obviously you don’t want hundreds of clips in an unorganized mass. Instead of bins, Final Cut Pro X (FCP X) uses keywords (metadata) to help you locate and organize what you need.
+
+Fig. 14-12. Organizing with keywords. In Final Cut Pro X, you can assign one or more keywords to each clip. By clicking on a keyword collection (the items shown in the event library on the left), the browser will display all the clips with that keyword. Clips are not in bins, but are simply displayed when you click a keyword collection. Different groupings of clips can be viewed depending on what keywords you give them. (Apple, Inc./Steven Ascher)
+
+When you import footage into the system (or afterward) you can assign one or more keywords to each clip or part of a clip. Say you’re doing a video for a band, and you create separate events for their Friday show and their Saturday show (see Fig. 14-12). You could assign a keyword with the name of a particular song to every shot you filmed of that song. By clicking on the keyword collection of that song in the event library, you can quickly find all the shots of that song regardless of which night or show they were filmed. You could assign additional keywords to any shots that show the crowd, or that were taken from the balcony. By tagging clips with keywords and other identifiers, you create a kind of “virtual bin” that identifies shots and can gather them in different combinations (it’s “virtual” because you’re not moving clips around, just linking to them). You can refine the groupings using smart collections, such as “crowd shots on Saturday night,” or “crowd shots from the balcony.” The same clip can be part of many different collections. Using metadata to organize and locate your clips can be a powerful tool, and many other NLEs have their own organizational systems that employ metadata.
+
+In Final Cut Pro X, the word “project” refers to what in other NLEs would be considered an individual sequence on the timeline (more on this below). The project file in FCP X contains the clips used in that sequence but not the media files they reference (which are stored with the event).
+
+IMPORTING FILES
+
+When working with file-based video or audio stored on memory cards and hard drives, importing, ingesting, or transferring means bringing the media into the NLE so you can work with it.
+
+Prepping Files Before Importing
+
+If you’re really in a rush on location, you can edit directly from flash memory cards, but you’ll get better performance and be better organized if you copy the contents of the card to a hard drive or SSD drive before editing. As noted above, keeping your files organized and backed up is paramount. Different people use different systems, but the main idea is to keep all the original media from the project together, grouped into folders in a logical way so you can identify everything you need. It can help with organization to group folders by the type of content. For example, you might have separate master folders for camera files, stills, graphics, audio, stock footage, and so on.
+
+See Folder Management, p. 119, for suggestions of possible ways to organize downloads from camera memory cards. If folders weren’t well organized when the cards were originally downloaded at the shoot, the editor can set up a folder structure prior to editing. The contents of each memory card from the camera should be copied to its own folder on the hard drive that includes all the files and folders from the card (and be sure to keep the structure of the subfolders on the card unchanged). Give this folder a unique name such as BIKES003, or include the date, such as BIKES-003-120814. Use a consistent naming system for all the cards. This doesn’t have to be the same name used on the original camera card. When you import the files from this folder into the NLE, the folder name should be used as the reel name for each clip (equivalent to the reel or tape number when shooting videotape). Having this association between a clip’s reel name and the folder it came from helps you and the NLE locate files. Don’t rename these folders after you import material into the NLE.
+
+If for some reason the original media hasn’t been backed up yet, stop what you’re doing and make one or more backups and store them in different locations (for more on this, see p. 118).
+
+With some NLEs, when you import files you have the option to duplicate the media files and place a copy within the NLE’s folder structure (for example, with Final Cut Pro X you can choose to copy files to the Final Cut events folder). This is an alternative way to organize and back up media files. On advantage is that you’ll have all your media consolidated in a central location as part of the NLE’s folder system. If you select this option when importing directly from a camera flash media card that will be erased later, don’t forget to make a separate backup on another hard drive.
+
+As noted above, some people choose to transcode camera files with a separate application before importing into the NLE. For example, Red Giant’s Magic Bullet Grinder can be used to convert DSLR files into both a full-resolution ProRes or Photo-JPEG file and a low-res proxy for logging and offline editing. It will generate timecode (continuous or reset with each clip) and allows you to burn in the timecode on the proxies (see Fig. 5-24). VideoToolShed’s Offloader can automate backups and generate Avid DNxHD files with QuickTime or MXF wrappers.
+
+If media files are transcoded to a different codec on import or before, some people back up the transcoded files to save transcoding time in case the files are lost or damaged; however, even if you don’t back up the transcodes you should be able to re-create them if needed.
+
+Importing
+
+As discussed earlier, when you import files, the NLE will create master clips (which you’ll edit with on the timeline) and you need to tell the NLE where to store them. With many NLEs, you simply create a new bin in the browser or project window and select it as the target bin or logging bin. In Final Cut Pro X, instead of a bin you select an event in which new clips are stored.
+
+With some NLEs you can import files by dragging and dropping them into the NLE’s browser from the Finder (Macs) or Windows Explorer. However, with some NLEs importing files from the camera should (or must) be done using commands or tools within the NLE, so the system can process files correctly. With Premiere Pro, you can use the media browser for importing file-based formats (Adobe Bridge, a companion application, can be very useful and provides some functions beyond the browser). In legacy versions of Final Cut Pro prior to X, you use the log and transfer tool to import camera files.
+
+If you’re transcoding files, you’ll need to choose the resolution (and sometimes codec) that you want to transcode to. Depending on the system you’re using, you may have an opportunity to preview the clips before importing, choose which clips (or which portions of a clip) you want to import, and enter metadata like clip names, scene numbers, and notes. As mentioned above, the reel name can be an important organizing tool. Some systems will automatically insert the name of the source folder that the media files came from in the “reel” field; if not, you can do it manually. With Final Cut Pro X, you can associate clips with their source folder by choosing to “import folders as keyword collections,” which creates a keyword for the source folder name and applies it to all the files from that folder.
+
+Cameras automatically give each clip a name (often a string of numbers and letters), which aren’t very friendly for editing. It’s more useful to give clips names like “Sc. 4, Tk 5” or “Sal on the train,” or even “Clip #1.” One issue with renaming clips is that, since they occasionally become corrupted or mysteriously go offline, you may need to reimport them later—at which point you’ll want to know a clip’s original file name so you can find it in the backups. Many NLEs use hidden metadata to store the original file name even if you change it in the browser, in which case you’ll probably be able to find the file. However, some people prefer to leave the original names as they are and use the “notes” column or make a new field in the browser to give each clip a friendlier description. Some systems allow you to rename clips with a combination of the original name and a description you assign, so you’re covered both ways.
+
+On import, you may also have options for various types of automated analysis or processing, such as image stabilization, color adjustment, and content analysis. Any adjustments are usually nondestructive and can be undone later.
+
+Because of file size limitations, sometimes when cameras record a very long take, they store the recording in more than one media file, “spanning” from one file to the next to form one long, continuous clip (the clip is called a spanned clip). Sometimes you get a spanned clip when a flash media card fills up and the recording switches to the next card. Different cameras and NLEs handle spanned clips in different ways. For example, with P2 or SxS media, spanned clips get combined into a single clip with continuous timecode on ingest into the NLE. With RED cameras, the individual R3D files that make up a long take are linked to a single QuickTime reference file to form a continuous clip.
+
+NATIVE OR NOT. As NLEs become more flexible and can handle more video formats natively, you may be able to work with files without technically “importing” them. For example, when using Avid Media Composer with Avid Media Access (AMA), the system can link to many types of video files that reside on memory cards or external or networked drives without processing or moving them to the NLE’s storage.5 This is handy for getting right to work and avoids unnecessarily duplicating or transcoding files. Even so, performance is generally better if files are on hard drives instead of cards, and some codecs are harder than others to handle natively.
+
+Sometimes even when an NLE can work natively with a given video format or codec, it still needs to process, index, or rewrap the files (for example, converting the wrapper from MXF to QuickTime). Or, you may decide it’s preferable to transcode to ProRes, DNxHD, or another codec for better editing performance. Apple refers to rewrapping or transcoding to ProRes as creating optimized media. In these cases, when you import or transfer material, the system creates new files that may take some time to process and store on your scratch disk.
+
+AUDIO. When ingesting media, you may have the option of which audio channels from the original recording you want to import (A1, A2, etc.). These may be separate mono channels (1 + 2), which is typical when different mics are used on different channels. Or two channels may form a stereo pair, which is common when the recording was done with a stereo mic or when you’re importing stereo music. In some cases you’ll have audio recorded in 5.1- or 7.1-channel surround sound. In general, you should only import audio channels that were actually recorded by the camera, not any additional, silent ones. Some NLEs offer the option to remove silent channels on import, which is a good idea.
+
+There is usually a setting for audio sample rate (or to allow you to convert to a different sample rate during import). The current standard for professional broadcast video postproduction is typically 48 kHz at 16 bits per sample.
+
+You have no control over audio level when importing digital files or capturing videotape formats over FireWire. When you’re editing material that was shot on film, you may need to speed-adjust the audio before capture; see p. 690.
+
+FRAME RATE AND PULLDOWN REMOVAL. You may need to select the proper frame rate for your video. Footage shot in 24p may need to have pulldown removed; see p. 601.
+
+CAPTURING FROM TAPE
+
+If your camera records to videotape, you’ll need to capture the footage into the NLE for editing.
+
+Start by inserting the tape into the VTR or camera, connecting it to the computer, and opening the capture tool in the NLE (see Fig. 14-14). The capture tool should be able to control the deck or camera, allowing you to play and rewind the tape.
+
+As with importing files, there are some basic settings to attend to. You’ll need to indicate which scratch disk you want to store the media files on and which bin in the browser to put the master clips (the logging bin).6 You may also have a choice of resolution and/or codec. For formats like DV and HDV it’s common to edit natively. Unless you’re using a higher-end format with a professional deck, you’re probably using FireWire (1394) device control.
+
+Fig. 14-13. (left) The Sony DSR-11 is a standard definition deck that can play and record DV and DVCAM in NTSC or PAL. (right) The rear panel on the DSR-11 has analog inputs and outputs for stereo audio, composite video and S-video. The FireWire (iLink) connection (“DV IN/OUT”) provides input and output for digital component video and audio.
+
+LOGGING. There are several approaches to capturing and logging tapes, depending upon the tape format and playback device you use.
+
+For instance, when capturing DV, DVCAM, or DVCPRO from MiniDV tapes using a camcorder connected with a FireWire cable, one method is to capture the entire tape at once, which can create a giant one-hour clip. Some NLEs allow you to set a maximum clip duration, say thirty minutes, which would result in two half-hour clips. Logging of clips is done after capture, by creating and organizing subclips in the NLE.
+
+With these tape formats, it is also possible to go through each tape before capture and log it first, which means marking which sections you want to capture, marking an In Point (beginning) and Out Point (end) for each individual clip, giving the clip a name, indicating scene numbers, and adding any comments. After you’ve logged everything, you do a batch capture, in which the NLE automatically captures the media for the clips that you logged (all you have to do is put in the right tape when requested).7 Using this approach, the material is already tagged and organized when you ingest it into the NLE.
+
+When logging and capturing DV, DVCAM, or DVCPRO tapes in this fashion, use a tape deck (VTR) to save wear and tear on your camcorder. Small camcorders are not designed for heavy shuttling of tape back and forth like professional tape decks, which is why some people prefer to capture an entire MiniDV tape at once and log afterward.
+
+In the case of capturing HDV from MiniDV tapes using an HDV camcorder with FireWire for playback, it’s not possible to log the tape before capture. This is because HDV is a long-GOP format that does not offer frame-accurate machine control through FireWire.
+
+Fortunately most NLEs today can do auto scene detection (also known as scene extraction), which allows you to capture an entire tape in one pass while the NLE uses timecode or picture changes to automatically create a new clip at every camera stop. You can name and comment on clips as they’re being captured, or after they’re captured.
+
+Fig. 14-14. The tape capture tool in Avid Media Composer controls the video deck and allows you to name and define clips to be captured. (Avid Technology, Inc.)
+
+When logging a tape before capture, keep in mind that every clip needs continuous timecode, so when marking clips be sure that they don’t include spots on the tape where there’s a break in timecode or control track (if you do, the system will usually create a new clip at the break).8 If there are no timecode breaks, you can make clips as long or short as you want; however, the longer they are, the more you have to redo if there are problems or a file gets corrupted.
+
+REEL NAME. Every tape needs a unique reel name (also called tape number or tape name). You can name tapes however you like, but if there’s any chance you will be making an EDL to move the project to another system, it’s traditional to use tape names that are less than six characters with no spaces or punctuation (the name can have numbers and letters but it should start with numbers). A numbering scheme like 001, 002, etc., is always safe. In any case, be sure every tape has a unique name and that you’ve indicated it correctly on the tape itself, on the tape box, and in the NLE when capturing. If you have a tape with timecode restarts (places where the timecode resets to 00:00:00 in the middle of a tape because the tape was removed and restarted; see Avoiding Timecode Problems, p. 226), give each section its own tape number, such as 003A, 003B, etc.
+
+CREATING AND EDITING SEQUENCES
+
+Now that you’ve got your material stored on the hard drives, you’re ready to start editing. The moment has arrived.
+
+The Editing Interface and Timeline
+
+All NLEs have certain things in common, even if they differ in their particulars and the names for various parts and actions. The editing interface is the main display used to control the system. This is divided into several areas or windows, which may be spread over one or two computer monitors, depending on your setup.
+
+Most NLEs use two windows to display video (see Fig. 14-15). One is for viewing and marking clips you want to use. This may be called the viewer or source monitor. The second window is for viewing the edited movie or sequence you are creating. This may be called the record monitor, program monitor, or canvas. Some NLEs have only a single monitor window in which you can view individual clips or the edited sequence.
+
+The timeline, where you actually build the movie, shows how the clips are edited together (see Fig. 14-16). In nonlinear editing, a group of clips on the timeline is a sequence. With NLEs, the word “sequence” refers to everything on a given timeline, which might mean an entire movie or just a few shots. Don’t confuse this use of “sequence” with the general film usage of “sequence” to mean an individual scene (see p. 322).
+
+Fig. 14-15. Adobe Premiere Pro main editing interface. (Apple, Inc./Steven Ascher)
+
+Fig. 14-16. Timeline in Adobe Premiere Pro. Video clips with their associated audio clips are on the Video 1 track and Audio 1 track. A title graphic is on the Video 3 track. Audio 2 contains a stereo music clip with left and right channels paired together. These items are in the bin in Fig. 14-11. (Adobe Systems, Inc./Steven Ascher)
+
+NLEs use colored rectangles along the timeline to represent video and audio clips, often with a thumbnail (still frame) showing what the clip contains. Clips are arranged on one or more tracks, allowing you to move clips in relation to each other. Transitions between clips, such as fades and dissolves, are shown graphically.
+
+Audio clips are represented in another set of tracks. These tracks can be edited independently of the picture or locked together with it. Many systems will display audio waveforms, which are a visual representation of the sound signal that’s helpful for finding sounds on the timeline (see Fig. 14-24).
+
+A thin vertical bar moving over the timeline indicates where the system is playing in “play” mode, or the point at which an edit may take place when you are in “edit” mode. This bar is variously referred to as the cursor, play head, position indicator, or current time indicator (CTI). The cursor usually moves across the timeline from left to right when you are playing a sequence.
+
+You can zoom in on the timeline to see in detail how audio and video fit together at a particular cut or transition, or zoom out to see a sequence or the entire movie as a whole, to get a sense of the pacing and overall balance. Once you work with this graphical representation of the movie, you’ll find it becomes an important tool in how you think about the structure and layout of the movie you’re making.
+
+Clips and sequences can be played using keyboard commands or by clicking on-screen buttons using the mouse. Professional editors usually rely on JKL editing, which is supported by most NLEs. The J key is “play reverse,” the K key is “stop,” and L is “play forward.” Hitting either J or L twice doubles the speed. Often the space bar on the keyboard is both “play” and “stop.”
+
+Most NLEs allow you to customize the keyboard as you like. Some editors like to work with a multibutton mouse, trackball, or graphics tablet to control the NLE. NLEs usually give you several different ways of doing the same task, so you can find the style of working that suits you best. You can use the keyboard, mouse, trackpad, or a combination. Many pros find that once they know (and have customized) the keyboard, they use the mouse or trackpad relatively little for basic editing tasks.
+
+THE FINAL CUT PRO X INTERFACE. Instead of the two-window layout most professional NLEs use, FCP X has a single viewer, which shows source clips or edited sequences depending on what you point at with the mouse.9
+
+With other NLEs, as you edit you are building a sequence of clips on the timeline. With FCP X, that sequence is called a project. With other NLEs, a project can contain many sequences; with FCP X, each project is just one sequence. The project defines certain aspects of the movie you’re building (such as the frame rate and format) and contains information about the clips, titles, and effects in it.
+
+In most other NLEs, such as Premiere Pro, you might have video clips on video tracks 1, 2, and 3 and audio clips in a parallel set of audio tracks (see Fig. 14-16). In FCP X, there aren’t tracks. Instead, the primary storyline contains the main clips used in the project (see Fig. 14-18). Unlike other NLEs in which each clip on the timeline is either video or audio, FCP X clips can contain both video and audio (though you can detach the audio from the video as needed).
+
+Fig. 14-17. Apple Final Cut Pro X main interface. Areas of the screen change depending on what’s selected. The single viewer displays both source clips in the browser and the edited movie in the timeline. (Apple, Inc./Steven Ascher)
+
+Fig. 14-18. Final Cut Pro X timeline. The primary storyline contains clips with both video and associated audio. Shown here, the first clip in the storyline has a connected video/audio clip (above) and two audio-only clips (below). The secondary storyline groups another set of clips, which are attached to the primary storyline. (Apple, Inc./Steven Ascher)
+
+Above and below the storyline you can attach connected clips (essentially like additional tracks, but the clips stay glued to the storyline). You can also have secondary storylines (which can contain a few or many clips) that float above the primary storyline and function like big connected clips, and can be edited and moved around as a group. So, for example, in a documentary you might use the primary storyline for interview clips and use a secondary storyline for cutaways or additional audio.
+
+Secondary storylines and attached clips in FCP X are not locked into conventional vertical tracks and, as you edit, they automatically reposition themselves up or down, either in the video area above the primary storyline or in the audio area below it. By doing so, they preserve their exact sync relationships to the primary storyline as you move clips around. One of the main achievements of FCP X is its rock-solid preservation of sync relationships among all the clips in edited sequences, including video, audio, and effects. Unlike most other NLEs, FCP X makes it almost impossible to knock the timeline out of sync.
+
+In this book, it’s not possible to go into full detail about all the terms and methods used in different NLEs. The following discussion, covering important principles, uses the most common terms that apply to timeline sequences in all NLEs, including FCP X.
+
+You Won’t Hurt Anything
+
+As you get started, remember that clips arranged on the timeline are nothing more than pointers to media files stored on the hard drives (see Media Files and Clips, p. 552). You can delete, change, move, or copy clips without in any way affecting or damaging the original media that they point to. Nonlinear editing is thus completely nondestructive. You can totally mess up a sequence and then return to a previously saved version with no harm done.
+
+To further relax you about the editing process, keep in mind that all systems have undo commands (Ctrl-Z on Windows or Command-Z on Macs), which allow you to easily undo editing mistakes. Some NLEs allow you to select how many “levels” of undo are stored (that is, how many actions in a row can be undone). It’s a good idea to set this to twenty or more steps so you can fix things that go wrong.
+
+When experienced editors have a sequence they like, but want to experiment with changes, they will duplicate the sequence—make a copy of it and park it in a bin. In doing this, you know you can always get back to where you were before. Sequences by themselves take up very little storage space. FCP X has an audition function that permits you to store alternative versions of sequences and switch between them.
+
+Even so, anytime you’re using a computer, all sorts of things can go wrong (power outages, crashes, corrupted files) to make you miserable. Be sure to save your work regularly, especially before and after doing anything complex. Many NLEs have an autosave function that stores a backup copy of your project file in a location you indicate (on Avid systems, this place is called the attic). If you set autosave for every fifteen minutes, that’s the most work you’ll lose in a crash. Opening a backup file can be helpful if you need an earlier version of a sequence made prior to recent changes. With some newer systems, especially Mac apps under OS X Lion 10.7, the system saves automatically and you can’t do it manually. In Lion, for instance, FCP X autosaves continuously. If you experience any sort of crash, FCP X starts up instantly, with no loss of data or editing. Furthermore, if the Final Cut Projects folder is located on your boot drive, Apple’s Time Machine can create an automatic hourly backup.
+
+At the end of each day, be sure to back up (or duplicate) your project file to a separate hard drive, a thumb drive, or the Web (FCP X being a possible exception). This is to protect your sequences and editing work. Normally, you don’t back up the media files each day. They’re too big and it shouldn’t be necessary if they were backed up properly before or during the importing process. In the event of a disaster, you can recover your work the way you left it as long as you have a clean copy of the project file, and of the original media files or tapes, and you’ve been careful when importing and labeling your clips, files, and folders.
+
+Marking Clips and Putting Them on the Timeline
+
+To begin editing, start by identifying the clips you want to use in the bin or browser. On most systems, you can double-click a clip in the browser to view it. You can also drag it to the viewer/source monitor.
+
+The entire, uncut clip is the master clip. To use only a portion of it, mark an In Point (start mark) and Out Point (end mark) in the source window. On many systems, the I key marks In and the O key marks Out (these are conveniently located above J, K, and L on the keyboard for one-handed operation). You have just marked the clip. It’s ready to be put into the movie.10
+
+You then mark an In Point on the timeline, indicating where you want the new clip to go (if you don’t mark an In Point on the timeline, the NLE will make the edit wherever the play head is positioned, which can be a timesaver).
+
+To edit the clip to the timeline, your options may include: clicking on it in the source monitor or bin and dragging it to the timeline (drag and drop) or using on-screen buttons or keyboard commands to select the edit type.
+
+You also need to select which video and audio tracks to add the new clip to. Typically, you’ll start by putting the picture on video track 1 and the sound on audio track 1 (and often 2 as well). In FCP X, you’ll start by adding clips to the primary storyline.
+
+If you haven’t done so already, you may need to choose the base format, frame size, and frame rate for the new sequence in the timeline. Some NLEs will automatically set it to be the same as the first clip you add to the timeline, which is a nice shortcut (but it’s a good idea to check that the settings are correct). If your project includes material in more than one format, or you’re setting up the sequence manually, see Mixing and Converting Formats, p. 598, for options.
+
+Adding Clips to a Sequence
+
+As you edit, you build up a string of clips on the timeline. When you want to add a new clip to an existing sequence, you have two main options about how the new clip will affect the clips already on the timeline. Different NLEs use different terms for these two styles of edits.
+
+Say you’ve already built a three-shot sequence using clips A, B, and C. Now you want to insert a new shot after clip A. There are a couple of ways to do this.
+
+Fig. 14-19. Adding a shot. (A) With an insert or splice edit, adding a new shot causes existing shots after the insertion point to be pushed later in the sequence. (B) With an overwrite edit, the new shot replaces existing material without changing the position of other shots. (Steven Ascher)
+
+INSERT OR SPLICE EDIT. In this type of edit, you insert (splice) the new clip, and material moves to the right to make room for it. In Figure 14-19A, the new clip goes in at the end of shot A. Shot B remains intact but is pushed back later in the sequence. Note that the sequence gets longer when we add the new clip. If shot B began in the edited sequence at, say, one minute timecode prior to making the edit, it will begin at one minute plus the length of the new clip after we make the edit. Any clips following B will also be pushed back the same amount.
+
+In Premiere Pro and Final Cut Pro this type of edit is called an insert. Avid calls it a splice edit. It’s sometimes called a ripple edit because in video terms, this edit has rippled all the clips after the edit point; that is, it has changed where they occur on the timeline.
+
+OVERWRITE OR OVERLAY EDIT. In an overwrite edit, when we add the new clip we overwrite (cover over) the existing sequence starting at the edit point and continuing until the end of the new clip. In Figure 14-19B, the new clip replaces the beginning of shot B. The end of shot B and the rest of the sequence are unaffected. Note that the total length of the sequence does not change. Clips following the edit (later in the sequence) do not ripple; they remain in their original positions.
+
+Insert edits on an NLE are a basic way of adding new material as you construct a sequence. Overwrite edits are useful for changing a sequence you’ve built without changing its length or the sync relationship between picture and sound. Say you’d constructed a sequence of images edited to a music track, so that cuts in the picture match up to musical beats and the overall sequence is exactly the length of the song. Using overwrite edits, you could add or change shots in the picture without changing the length of the sequence or the basic sync between picture and sound.
+
+Removing Clips from a Sequence
+
+Now, instead of adding a clip to the sequence A, B, C, we want to remove shot B. Again we have two options for doing so.
+
+Fig. 14-20. Removing a shot. (A) With a delete or extract edit, removing a shot causes all the following shots to be pulled earlier in the sequence. (B) With a lift edit, any material that’s removed is replaced with filler (on some systems, the space is maintained without filler). The rest of the sequence remains unchanged. (Steven Ascher)
+
+DELETE OR EXTRACT EDIT. If we simply want to remove shot B, we can delete it. This is essentially cutting out shot B and attaching the beginning of shot C to the end of shot A (see Fig. 14-20A). The total length of the sequence is reduced—it becomes shorter by the length of shot B. Some people just call this delete; other names include extract edit or ripple delete. With Final Cut Pro X’s “magnetic timeline,” the system will perform a delete edit by default unless you instruct it otherwise.
+
+On some NLEs, when a clip is deleted, it is sent to the clipboard (a temporary storage area) and can be easily reinserted elsewhere in the sequence. Even without the clipboard, you can always go back to the original clip in the browser to insert the shot elsewhere.
+
+LIFT EDIT. In a lift edit, when we mark and remove shot B, it is replaced with black filler (see Fig. 14-20B). The filler (also called slug or gap) is just a placeholder that keeps clips A and C in their original positions, leaving a gap the exact size of shot B between them. The sequence maintains its original length, shot B is gone, and the gap can easily be filled with another shot later. Sync relationships and the total length of the sequence do not change. On some systems, the same thing is done with the replace with gap command. With some NLEs, the space left behind after a lift edit is maintained without filler or slug.
+
+Many editing systems offer several other variations on the above-mentioned edits. However, you can perform most editing tasks with these four basic edits. To review: You can bring a clip to the timeline by inserting or by overwriting. You can remove a clip by extracting or by lifting.
+
+Three-Point Editing
+
+When we add a clip to the timeline using an overwrite edit, four edit points play a part in the process. First we decide which part of each source clip we want to use by marking an In Point and Out Point on the clip in the browser or viewer. Then we decide where on the timeline to put it, which involves an In Point and Out Point on the timeline. In Fig. 14-40, you can see the equivalent four points when editing on tape.
+
+To perform an insert or overwrite edit, you need to give the editing system only three of those points; it will calculate the fourth itself.
+
+Say, for example, on our timeline we have a shot of an airport runway that shows a red plane taking off, followed a little while later by a green plane taking off. Between them, we want to add a close-up of a blue plane taking off. We could mark the clip of the blue plane with an In Point just before it starts moving and an Out Point just after it lifts off. We then mark an In Point on the timeline, telling the NLE to place the clip after the red plane takes off. That’s three points.
+
+Alternatively, we might mark an In Point on the timeline just after the red plane takes off, and an Out Point just before the green plane starts down the runway. Then we mark an In Point on the close-up of the blue plane. Again, only three points.
+
+Or we might choose to mark the timeline the same way, but rather than marking an In Point just before the blue plane starts moving in the close-up, we mark instead an Out Point just as it lifts off the tarmac. It’s still three points. By the way, using the Out Point as the mark instead of the In Point is called a backtimed edit.
+
+This concept is called three-point editing. If you happen to mark all four points, the NLE will normally use only three of your marks: the In and Out Points on the timeline and the In Point on the source clip.
+
+Trimming Clips
+
+After clips have been added to the timeline, you need to be able to adjust their length. This is a fundamental part of editing—fine-tuning how one shot moves into the next. In video terms, trimming means to adjust an edit point, either to extend or shorten a shot.
+
+There are several ways to trim shots. Most NLEs have a special trim mode that helps you to adjust the cut between two shots. Trim mode often has two or more windows: one displays the last frame of the outgoing shot; another shows the first frame of the incoming shot (see Fig. 14-21). Once in trim mode, you can extend or shorten the tail (end) of the first shot, the head (beginning) of the second shot, or both. The trim editor allows you to preview the edit with a looping feature, which can play the transition repeatedly while you adjust it.
+
+You can also trim shots right on the timeline by using keyboard commands or by clicking on the end of a clip and dragging one way or the other with the mouse. With most editing systems you have a choice: you can adjust trims by eye, you can click or use a keyboard command to move the edit point by a preset number of frames, or you can type in any number of frames you want.
+
+Fig. 14-21. Trim mode. This Avid trim tool displays the last frame of the outgoing clip and the first frame of the incoming clip. You can select to trim the ends of either or both clips. (Avid Technology, Inc./Steven Ascher)
+
+Types of Trims
+
+Like other types of edits, trims also come in different flavors.
+
+Fig. 14-22. Types of trims. (A) With a ripple trim (single-roller trim or trim tail), the tail of shot B is extended and shot C is pushed later in the sequence by the same amount. (B) With a roll trim (dual-roller trim or trim joint), the tail of shot B is extended and the head of C is overwritten by the same amount. Shot C becomes shorter, but its position in the sequence doesn’t change. (Steven Ascher)
+
+RIPPLE EDITS. Let’s go back to our sequence of clips A, B, and C. If we perform a ripple edit to the tail of clip B, we can extend the shot—that is, move the tail of the clip to the right, which adds frames (see Fig. 14-22A). This will push clip C further down, lengthening the overall sequence and rippling all the subsequent clips. If we wanted to shorten the tail of B, we could just as easily delete frames, moving the tail of clip B to the left. This will shorten the entire sequence and bring up all clips following the edit. Avid calls this a single-roller trim; it can also be called a ripple trim.
+
+ROLL EDITS. Let’s start again with the original A, B, C sequence and apply a roll edit (or roll trim) to the cut between clips B and C (see Fig, 14-22B). In this trim, we add frames to the tail of B and delete the same number of frames from the head of C. Clip B is extended and clip C is shortened. Clip C now starts later, but because the clip has also gotten shorter by the same amount, the clip does not move relative to the timeline. The tail of C remains in the same place and the overall sequence does not change length. Avid calls this a dual-roller trim; in Premiere Pro it’s called a rolling edit.
+
+Trimming Entire Clips
+
+Two more specialized trims can be used to trim both ends of a clip at once.
+
+Fig. 14-23. Slip and slide trims. (A) After doing a slip trim, all shots remain unchanged in length and relative position, but we now view a different portion of shot B. (B) With a slide trim, shot B is itself fixed, but its position in the sequence can be changed. As shown here, shot B is slid to the right, which causes the tail of A to be extended and the head of C to be overwritten. (Steven Ascher)
+
+SLIP EDITS. A slip edit (or slip trim) allows you to use a different portion of a clip without changing its length or position relative to other clips (see Fig. 14-23A). If you slip a clip to the right, you effectively trim back the head of the clip while extending the tail the same amount. This has the effect of allowing you to view a later portion of the shot without changing anything else. Slip edits are very handy when you want to fine-tune a cutaway or adjust audio sync without changing clip positions.
+
+SLIDE EDITS. A slide edit (or slide trim) allows you to grab a clip and slide it over adjoining clips (see Fig. 14-23B). For example, in the A, B, C sequence, you could grab shot B and slide it to the right on the timeline. The NLE does this by extending the tail of A and trimming back the head of C. Clip B is itself unchanged but is in a new position. The length of the sequence is unchanged.
+
+Handles and the Limits on Trims
+
+NLEs make it easy to execute your creative ideas. If you want to shorten or lengthen a shot, you just click on it and perform the trim—within limits. Say you have a two-minute master clip in the bin and you put the entire clip on the timeline. If you later try to extend the head or tail of the shot, you’ll get an error message about having “insufficient media” to do the edit. You’ve used the whole clip (which represents the entire media file)—there is no more. This is pretty straightforward, but some people are puzzled by the error message.
+
+One issue with putting an entire master clip in a sequence is that if you later decide to dissolve in or out of the shot, you won’t have the needed extra frames at the head or tail. For example, if you want a 30-frame dissolve at the start of a clip, you’ll typically need 15 extra frames at the head of the clip to use for the overlap with the previous clip. To solve this problem, you can simply trim the head of the clip back by at least 15 frames.
+
+When extra media at the head or the tail of a clip is available for use but is not currently visible (or audible) in the sequence, it’s called a handle. Having handles on your clips gives you the flexibility to extend them or apply transitions later if you want (see Fig. 15-10).
+
+Some NLEs show you available handles when making trims, such as the Inline Precision Editor in newer versions of Final Cut Pro. Another way to check whether you have handles on a clip is by using the match frame command. Put the cursor on the first frame of a clip in the timeline and hit “match frame.” The master clip will appear in the viewer/source monitor and you can see how much longer it is than the portion you’re currently using in the sequence. You’ll find many other uses for the match frame command—such as hunting for other shots near the one you’re matching.
+
+Transitions Between Clips
+
+A straight cut (also called hard cut or simply cut) is when one shot ends and the other begins cleanly. In NLE terms, all the other ways of bridging from one shot to another (including a dissolve or fade-out/fade-in) are called transitions. See Joining Sequences, p. 525, for more on the use of transitions in storytelling.
+
+Transitions are easy to do. You can select the type of transition, its duration in frames, and its position relative to the cut (centered on the cut, beginning on the cut, or ending on the cut). Some systems let you fine-tune the center of the transition at any point near the cut. As noted above, if you want to do a dissolve you’ll need handles of half the dissolve length from each shot. When doing dissolves, keep in mind that a bright shot will tend to overpower a dark shot, so a brighter shot will seem to dissolve in faster on a dark shot than vice versa.
+
+Moving Clips on the Timeline
+
+There are several ways to move a clip that’s already on the timeline. One way is to click on it and drag it with the mouse. Most NLEs have a snapping function that makes clips attach “magnetically” to nearby items (including other clips, the play head, or marks you’ve set). Turn snapping on to avoid accidentally leaving a small gap between two clips you want to join. Sometimes you want to position two clips very close to each other but not touching—in that case you’ll have more control if you turn snapping off.
+
+Snapping is very handy when you want to mark a clip or area for removal. The cursor will snap to the head of the clip, where you can mark an In Point. It will also snap to the tail of the clip (but on some systems you then have to move one frame to the left before marking the Out Point to avoid unintentionally cutting a frame from the following clip). In some systems you can click on a clip to select it or you can lasso a clip or a group of clips by dragging around them with the mouse.
+
+The NLE has options for how clips behave when moved over each other. In one mode, pushing one clip into another will overwrite the second clip. In another mode you can drag one clip ahead of another and make them swap positions. Clips can also be moved numerically by typing in a frame count plus or minus. Consult your NLE’s manual for the various options and how to execute them.
+
+As discussed above, Final Cut Pro X uses a different methodology than most NLEs in terms of arranging and moving clips. Instead of fixed, separate tracks for video and audio, you have a primary storyline, which is a central track containing video and/or audio, to which you can add connected clips and other storylines. You can also collapse a group of clips into a compound clip, which makes it easy to move them around together (you can expand a compound clip as needed and fully edit the contents inside). When you move one group of connected video and audio clips toward another, in a situation where they would simply collide with other NLEs, clips automatically jump up or down on the timeline to make way for any overlap, which may be helpful for certain kinds of edits.
+
+All NLEs have copy and paste functions that can be used to move single clips or many clips on several tracks in a large portion of the timeline. This is a good way to move clips from one sequence to another.
+
+Using Multiple Video Tracks
+
+All NLEs allow you to create more than one layer of video, which is done by stacking two or more clips on different video tracks. A simple example is a title superimposed over picture. Normally the top track is the one that is seen “first,” so the title goes on the upper track and the picture appears under the letters (see Figs. 14-16 and 13-5). By adjusting a clip’s opacity, you can change how visible it is (lowering opacity makes it more transparent). For more on layers and compositing, see below.
+
+Even if you’re not doing layered effects, using two video tracks can simplify some basic cutting decisions. For example, if you have a continuous shot of a woman talking on the lowest video track and a short cutaway of a man listening on the track above, you can just push the cutaway forward and back, experimenting with placement without having to do a new overwrite edit every time you move it, as you would if the two shots were on the same track.
+
+Often, you want to move a clip vertically to another track while maintaining its original horizontal (time) position. In Premiere Pro, clips will stay in their horizontal position if snapping is turned on. With some NLEs, you need to hold down the command or shift key while dragging to keep clips from sliding forward or back.
+
+NESTED CLIPS. Complex video or audio effects may require many layers of clips. Sometimes when you need several clips in several layers to accomplish an effect, you’ll want to nest those clips into a single clip, which is easier to move around and work with. Different NLEs use different terms and methods for nesting. With some, you select one or more clips and use the “nest” command. Some allow nesting by creating a separate sequence that contains the various clips on different tracks; you then insert that sequence into the master sequence as a single clip on the timeline. The nested clip is like a box that keeps things neatly packaged and allows you to do things like add a color effect or audio filter to all the clips in the nest at one time. You can “step into” the nested clip (often by double-clicking on it) whenever you want to work with the clips within.
+
+In Final Cut Pro X, the rough equivalent is a compound clip. Final Cut Pro X also offers auditions, which is a method of nesting an alternative clip or group of clips in the same place, so you can easily try different versions to see which you like best.
+
+Other Types of Edits
+
+In addition to the standard insert and overwrite edits discussed above, there are some more specialized ways of bringing clips to the timeline.
+
+If you have a gap you want to fill on the timeline, but the clip you want to fill it with is either too long or too short, you can use fit-to-fill. To do this edit you mark In and Out Points on both the new clip and the gap. Fit-to-fill will either speed up or slow down the clip to make it fit the gap exactly.
+
+If you have a clip on the timeline that’s the right length and in the right position but you don’t like the picture, you can do a replace edit. With some NLEs, you park the play head at the start of the clip you want to replace on the timeline; go to the viewer and put that cursor at the head of the replacement shot; then hit “replace.” This saves you having to set any In or Out marks.
+
+Avid offers a variation called sync point editing, which lets you overwrite a clip so that a particular point in the source clip is in sync with a particular point in the sequence. So you might mark a musical beat in the audio track and a hand clap in a new video clip, then do an overwrite edit so those two things line up. Very handy for syncing up (see below).
+
+BASIC SOUND EDITING
+
+NLEs are powerful tools for editing and mixing sounds. On some projects, all the sound work is done with the NLE. On others, audio is exported to a DAW for final mixing. For more on sound editing, see Chapter 15.
+
+Working with Audio Tracks
+
+Footage from a video camera typically has one or two channels of audio (and sometimes more). When you capture or import that footage, the NLE may create separate clips for the video and each audio channel, but all those clips are linked together to make editing easier (you can unlink them when needed).
+
+With most NLEs, when you edit a clip from the source viewer to the timeline, the video clip goes to a video track on the timeline and the associated audio clips go to one or more audio tracks (see Fig. 14-16). The NLE has a track selector where you can choose which tracks to place the clips on. You can select not to include any combination of the clips in the edit.
+
+With Final Cut Pro X, audio and video appear in the same clip on the same storyline (track) on the timeline (see Fig. 14-18). The audio and video clips can be manually separated and unlinked if desired.
+
+Audio recorded and captured in stereo (for example, most music) normally has two paired channels, left and right. When you edit a stereo clip to the timeline the audio will appear as a stereo pair. With some NLEs, both channels occupy the same track; on others, a clip containing the left channel will be on one track, and a paired clip containing the right channel will be on the next track. Any level changes or other adjustments will affect both tracks, unless you choose to unpair them.
+
+Often, a sound recordist will record one mic on channel 1 and a separate mic on channel 2. These should not be edited as stereo pairs, but instead should be treated as the separate dual mono channels that they are. If you imported the footage in stereo, you should generally unpair these tracks before editing. For more on working with stereo pairs, see p. 649.
+
+Fig. 14-24. Audio waveforms. A visual representation of a clip’s sound, waveforms make some editing tasks easier. Shown here, stereo tracks of a percussive drum sound. The height of each waveform above the centerline corresponds to loudness. (Steinberg Media Technologies GmbH)
+
+Audio Levels
+
+You often need to adjust the sound level (volume) of clips in a sequence, either to correct audio that was recorded too loudly or too quietly in the field, or to balance sounds you’re editing together. Changing the audio level is called adjusting the gain.
+
+Audio levels can be adjusted in several ways. Most NLEs can display the audio gain as a line on the clip itself. Pushing the line up with the mouse increases the sound level for the entire clip. To set different levels in different sections of a clip, you can add keyframes on the line in any area where you want to raise or lower the level (this is also called rubberbanding or audio gain automation).
+
+With some NLEs, the audio waveform display in each clip shows you its audio levels, so you can make quick adjustments visually.
+
+Sometimes it’s easier to use keyboard commands when you want to change the level of a clip, a group of clips, or the level of a keyframe. Keyboard commands can be very precise when you want to nudge the level up or down a few decibels. The gain is normally 0 dB if nothing has been done to the clip. Raising gain by 6 dB will make the clip sound about twice as loud.11
+
+When you’re editing, what level should the sound be? Most NLEs have a peak-reading audio meter in which 0 dBFS represents the maximum level (see Fig. 11-10). In no case should the audio level reach 0 dB. If the peaks (the loudest parts) are reaching 0 dB, bring the level down. When using a peak meter, keeping the dialogue peaks around −10 dBFS is a reasonable average for typical broadcast audio levels. For more precise instructions on using meters and setting levels, see The Sound Mix, p. 658.
+
+After you’ve got a few clips playing normally and showing a good level on the meter, adjust the volume of the speakers (or headphones) to a comfortable level. Then don’t change the speaker level while you edit. You’ll be able to tell a lot about the level just from listening. However, if you constantly raise and lower the speaker level, you won’t know if something is really too loud or too quiet.
+
+Working with Dialogue
+
+Before reading this, see Dialogue Editing, p. 531.
+
+NLEs are wonderful tools for editing dialogue. You can quickly balance levels if one character is louder than another. You can do precision surgery when you need to make a cut in midsentence or remove a breath. You can create multiple tracks for overlapping dialogue.
+
+One very common dialogue edit is when you want the sound to cut before or after the picture cut. Various terms for this effect include split edit, overlap edit, and sound overlap. Some people use the terms L-cut—where the picture cut precedes the audio cut—and J-cut, in which the audio cut leads the picture cut (see Fig. 14-25). Say you have a clip of a man talking, followed by a clip of a woman responding, and you want the picture to cut to her before she starts talking (which may make a more natural transition). Make sure the audio tracks are locked or disabled (so they won’t move). Then, on the video track only, select the picture cut between the man and the woman and do a rolling edit to the left, into the tail of his shot. You might want to have continuous ambience (background sound of the location or setting) on another track to help smooth the cut if there’s a noticeable change in the background sounds or dialogue sound quality between his take and hers.
+
+Fig. 14-25. Dialogue often feels more natural when the audio cut between two shots follows or leads the picture cut (sometimes called a split edit). Shown here, an L-cut from the man to the woman and a J-cut from the woman back to the man (the names are suggested by the shapes of the cuts on the timeline). An ambience track may be added to reinforce continuity by remaining consistent across the three shots. (Steven Ascher)
+
+Sometimes it can be very effective to do a split edit from one scene to another, letting the audio from the incoming scene start during the end of the outgoing scene, pulling us forward into the next scene.
+
+Many NLEs can perform an extend edit, which is handy for making split edits. You simply click on the picture cut, put the play head where you’d like that cut to be, then hit “extend” or “enter.”
+
+Audio Transitions and Filters
+
+The audio equivalent of a dissolve is called a crossfade. The outgoing clip fades out while the incoming clip fades in. Like picture dissolves, you can set the length and position of the crossfade relative to the cut (assuming you have sufficient handles). Crossfades come in different styles; often you want to use an “equal-power” version, which maintains a constant volume level through the transition. This type of crossfade is sometimes indicated as “Crossfade (3 dB).”
+
+At a cut between two clips you’ll sometimes hear a slight click, even though neither clip has a clicking sound in it. If you put a short crossfade (as short as two frames) between them, the click will usually go away.
+
+Various filters can help you to reduce noise, equalize the sound, or add special effects. You can apply these to individual clips, to a nested group of clips, or—on some NLEs—to entire tracks. For more, see Chapter 15.
+
+Maintaining Sync
+
+When you import a typical clip from a video camera, the sound will be in sync with the picture (that is, when you see someone’s lips moving, the sound comes out at the exact same time). However, if you’re not careful as you edit, the sync relationship between picture and sound tracks can go out of whack, making the sound early or late relative to the picture.
+
+When you make an insert (splice) edit, as long as you insert the same amount to every track on the timeline, all the clips that are already on the timeline will stay in sync. For example, if you insert a 15-frame clip into the middle of a sequence, as long you add 15 frames to all the tracks, they will all stay in sync. However, if you were to add 15 frames to the picture but not to the audio tracks, the sound following the insertion would be 15 frames out of sync (that is, sound would be 15 frames early; see Fig. 14-26).
+
+Most NLEs can automatically add the same amount to all tracks when you make an insertion, keeping the tracks in sync. For this to happen, all the tracks need to be unlocked or enabled so they can expand with the insertion (see your NLE’s manual for how to accomplish this with your system). The same idea about sync applies when removing clips via delete (extract) edits. If you delete the same number of frames from all tracks, they’ll stay in sync.
+
+Unlike insert and delete edits, when you use overwrite edits to add clips to the timeline, or use lift edits to remove them, you don’t have to worry about messing up sync relationships. When you use a lift edit to get rid of a clip, the space where the clip was located remains as a gap, maintaining the original spacing between the other clips on the timeline.
+
+Fig. 14-26. A sync break. (top) If clip B is added to the video track only using an overwrite edit, the rest of clip A stays in sync with its audio. (bottom) If clip B is instead added to the video track using an insert edit—and the audio track is locked—the rest of shot A and any clips that follow go out of sync. The +15 indicator tells you that the picture is 15 frames late relative to its audio. Different NLEs use different methods to indicate a sync break.
+
+Sometimes you want to put audio and video out of sync with each other for creative reasons, and sometimes it happens by accident. With some NLEs, if you do anything that causes a video clip and its associated audio to go out of sync (called a sync break), you’ll see a numerical display on the clips showing how many frames you need to move one relative to the other to put them back in sync (see Fig. 14-26). For example, on some systems, if you see a +7 appear on an audio clip, that tells you that the sound is 7 frames late compared to the picture. One way to fix that is to move the audio clip 7 frames earlier (to the left on the timeline) to put it back in sync. If you see that all the audio clips to the right of a certain point are out of sync, that’s the point where you need to add or remove some frames on either the audio or video track(s).
+
+Sometimes you create a group of clips (such as music and sound effects) that have a specific sync relationship to the picture but since they’re not linked to the video clip, they don’t display any sync break numbers if they get out of position. One solution is to add markers (locators) on picture and sound clips so you can see how they line up. Some editors like to put a tail leader and/or set of clips on every video and audio track at the end of the sequence so they can quickly see if one or more tracks have gone out of sync, and by how much.
+
+In Final Cut Pro X, you can connect a group of audio and video clips to maintain sync even when you move the group, or you can create a compound clip or secondary storyline to keep them together. Also, when you add a sync clip to a project, the primary video and audio tracks form one joined clip, so it’s much less likely you’ll throw them out of sync accidentally.
+
+WORKING WITH DOUBLE-SYSTEM SOUND
+
+Double-system or dual-system sound means using an audio recorder that’s separate from the camera (see p. 464). Film is always shot double system, and some video projects are too, particularly when shooting with DSLRs. When the sound and picture are recorded separately, they have to be put in sync before you can edit. This process is called synchronizing the dailies, syncing the rushes, or, more commonly, just syncing up (pronounced “sinking”). When syncing is complete, every sync-sound shot on the picture has its audio properly lined up.
+
+On some projects shot on film, syncing takes place in the telecine or on another system before the footage gets to the editing room. On other film projects syncing is done in the NLE. Audio speed adjustments needed for projects shot on film are discussed on p. 690.
+
+The first step for both film and video projects is to import the picture and sound into the NLE. Lining up the video and audio clips can happen several ways:
+
+If manual slates (clap sticks) were used, you find the first frame in which the hinged bar of the slate closes and place a marker or In Point on the video clip. Then find the first moment where the sound of the slate is audible (which is also visible in the audio waveform) and place a mark on the audio clip. This method also works with slate apps like MovieSlate (see Fig. 9-30) if there’s no timecode in the audio.
+
+If a timecode slate was used, you can read the visual timecode display and enter that number to locate the matching code in the audio. Or, if both picture and sound have the same embedded timecode, this can be done automatically and doesn’t require slates.
+
+If you shot with a digital camera that recorded a scratch audio track along with the picture, some NLEs can automatically line up the low-quality audio from the camera with the high-quality clips from the external sound recorder by matching their audio waveforms. Singular Software’s PluralEyes plug-in can also do this. This method is very useful for a multicamera shoot without slates, allowing all the video clips from different cameras to align with a master sound track.
+
+Once the video and audio clips are in sync, different NLEs and software use different methods to link them so they stay together and display sync breaks if they should get out of sync later. Avid has an AutoSync function that allows you to simply mark In Points on the sound and picture where the clap sticks hit, then use AutoSync to create a new, merged clip. In Premiere Pro, choose synchronize from the clip menu. If you’ve created a synchronized, merged clip that contains high-quality audio from a recorder and low-quality audio from a camera like a DSLR, don’t forget to mute or delete the camera audio track(s).
+
+Accuracy and Lip Sync
+
+When manually syncing up a slated shot, be sure to line up the first point in the picture where the slate makes contact and the first point where it is audible in the sound. Sometimes the picture slate occurs between frames. Simply line up the exact point where you think the slate occurred in the picture with the first point where you can hear it on the sound track. On some NLEs you can slip an audio clip with subframe accuracy, allowing you to nudge the clip in tiny increments to get the precise beginning of the slate’s sound.
+
+At some point you will probably need to sync up a shot that has not been slated. To do this, find a surrogate slate in the scene—the closing of a door or an object being placed on a table. Learn to sync up the movements of people’s lips with the sound of their words. Look for words that contain hard labial sounds like b and p for which the sound becomes audible just as the lips part. The m sound can be used, but it’s not as precise.
+
+After you have determined approximate sync, experiment by sliding the picture two frames ahead or two back to see if you can improve it. Then try moving it one frame each way. A sync error of one or two frames is usually noticeable to attentive audiences. Sound that is slightly late is less objectionable than sound that is early (the former happens often in nature; the latter never does). Sync should be checked carefully, preferably on a big screen. Sync errors detected after a project is done are very upsetting!
+
+BASIC VIDEO EFFECTS
+
+NLEs are capable of a wide range of digital effects, and hundreds of plug-ins (standardized, add-on tools that work inside another program) can be purchased for specialized tasks. Compositing is the art of building shots from layers of disparate elements that may include live action, computer-generated imagery (CGI), text, graphics, and effects.
+
+While all NLEs will do compositing, for more complete control consider applications like Adobe After Effects, Apple Motion, Autodesk Smoke or Flame, eyeon’s Fusion, and the Foundry’s NukeX. These apps offer a wider set of tools for compositing, editing, and finishing in 2D or 3D. While many of these are expensive, some can be rented for a project or used free on a trial basis (for example, After Effects and Smoke offer free thirty-day trials and students can use Smoke free for three years).
+
+The complexity of video effects and compositing is beyond the scope of this book. What follows are some basic NLE effects you might typically use.
+
+Layers, Alpha Channels, and Keys
+
+As noted above, when you have two or more tracks (layers) of video, the resulting video image is as if seen from above the timeline; that is, the top track is seen first. If the clip on top is totally opaque, that’s all you’ll see. If it has areas of transparency, layers below will be visible through it.
+
+Typically, when you have a superimposed title over a video image, you want the title to be opaque where the lettering is and transparent everywhere else so the picture underneath shows through (see Fig. 13-5). Titles and graphics may be created with an alpha channel, which is a fourth information channel in addition to the red, green, and blue channels. An alpha channel is a gray-scale image (black-and-white) that defines which parts of a clip are transparent. In many systems, white areas in the alpha channel are opaque, black areas are transparent, and gray areas are partially transparent.12 Graphics with transparency have an extra layer for the alpha channel. An example of a video format with an alpha channel is ProRes 4:4:4:4 (the extra 4 in addition to the typical 4:4:4 indicates that it has an alpha channel).
+
+A video layer can include a moving alpha channel, sometimes called a traveling matte. A traveling matte allows you to superimpose a moving foreground layer (whether it be an actor or a graphic) on a different background. A garbage matte is a rough matte used to exclude parts of the frame that don’t belong in the shot (like light stands or areas outside a green screen) so that other effects can be applied to just the areas you’re interested in.
+
+One way to modify the alpha channel and create transparency in portions of the image is to use a key. When keying, a portion of the image is selected, based on color or brightness, to be made invisible or transparent. In the example of white titles over a video background, a luma (luminance) key could be applied to the titles. The luma key would identify the brightest part of the frame only (the white letters), make them opaque, and make everything else on the clip transparent. Chroma keys are used with blue- or green-screen shooting to make colored areas transparent (for more, see p. 211).
+
+When you stack up layers of images and effects, NLE playback can become rough or choppy due to all the processing involved. In some cases you may need or want to render the effects to see them at full quality and full speed. With some NLEs, it’s fastest to simply render the top video track, which will include the layers below.
+
+Fig. 14-27. Compositing. The subject is shot in front of a green screen, which is then keyed out. The subject can then be composited on a new background. Autodesk Smoke is a sophisticated compositing application. (Autodesk)
+
+Wipes
+
+In a wipe, image A replaces image B at a boundary edge moving across the frame. Think of scene transitions in Star Wars, which are patterned after old wipe styles that were once popular in Hollywood. There are hundreds of wipe patterns. In some wipes, image A pushes image B off the screen vertically, horizontally, or in a particular pattern (stars, a cross, etc.). The edge of the wipe can be soft or hard or have a colored line. These days, flashy wipes can seem pretty tacky and should be avoided unless that’s the look you’re going for.
+
+Speed Effects
+
+Changing the speed of a shot is often used to add an energetic or frantic feel (high speed) or dreamy quality (slow motion). It’s very easy to apply speed effects to clips in a timeline. When you double a clip’s speed, the system simply skips every other frame; when you slow a clip to 50 percent speed, it plays each frame twice. When slowing down footage shot at normal speed, most NLEs can do frame blending, an option that may produce a smoother look by creating dissolves between frames. Even better, systems or plug-ins with optical flow processing can analyze the motion of objects in the frame (motion estimation) and construct intermediate frames (interpolated frames) between the existing frames to make the slow motion seem more continuous (this is sometimes called “inbetweening”). Optical flow is especially helpful when you want to play a shot much slower than its original speed. The best slow motion is produced by shooting at high frame rates (see Slow Motion, p. 389).
+
+If you double the speed of a clip it gets shortened by half, causing the sequence to be shorter as well. Often you’d rather maintain the length of the clip and sequence, but have the motion in the shot be faster. Some NLEs have an option to change speed without rippling the sequence. In others, the workaround is to move the clip to its own video track, change its speed, then move it back to the main sequence or storyline.
+
+A constant speed effect is one that’s applied uniformly to the entire clip. However, some NLEs permit variable speed effects (different speeds in different parts of the clip, which is sometimes called time remapping).
+
+Sometimes you want to fill a hole in the timeline with a clip that’s too long or too short. With fit-to-fill edits, the NLE will adjust the speed of the clip as needed (see p. 584).
+
+Changing the playback speed of audio will affect the pitch of the sound. The faster you make the clip, the higher the pitch (think of the chipmunk sound when voices are made really fast). Many NLEs or audio editing programs have a pitch shifter that can restore the pitch (see Fig. 15-19). Voices and short sounds respond better to this process than long, continuous musical notes, which may hiccup after being pitch shifted, especially when going down in pitch.
+
+Scale, Orientation, and Distortion
+
+You can always make the picture smaller, so it becomes a frame within the frame (picture-in-picture, or PIP). With HD and larger formats like 2K and 4K, you can scale up (enlarge) the frame quite a bit—25 percent or more—with acceptable quality. This allows you to reframe the shot or do a zoom-in. With SD, enlarging the image results in noticeable softening and may not hold up. Upscaling is often necessary when you’re introducing nonwidescreen SD footage into a widescreen SD or HD movie (see p. 599).
+
+For techniques for zooming in on stills, see p. 596.
+
+An image can be reversed horizontally (mirror image), which is useful when a shot has the wrong screen direction. An image can also be reversed top to bottom. Some people call the former flipping and the latter flopping, while others call them both flopping. A discussion topic for long winter evenings?
+
+There are numerous ways to distort the image, squeezing it or changing perspective or wrapping it around a shape like a sphere or a box.
+
+Keyframes and Effect Curves
+
+Many effects are designed to change image size, position, rotation, or speed as the shot progresses. You can start at the beginning of a clip, get the various settings (parameters) the way you want them, and set a keyframe (actually you can set a keyframe for each parameter). You then go to a later part of the clip, change the parameters as you please, and set another keyframe. Each keyframe is a waypoint, and the computer will interpolate between them, making a transition from one to the next. How that transition is made may be adjustable. A linear transition is just that—a straight line from one keyframe to the next. Often you want more of an S-curve, allowing an effect or movement to ease in (picking up speed or intensity gradually) then ease out by decelerating gracefully at the end. Many systems offer tools like Bezier handles, which you use to adjust the shape of the curve between keyframes, or an option to apply “smoothing” to keyframes.
+
+Other Image Effects and Controls
+
+Filter effects number in the hundreds. These allow you to process the texture or appearance of the image, such as adding blur or distorting colors.
+
+Image stabilization can smooth out a shot that was filmed shakily or from a bumpy vehicle. Most NLEs have a stabilization feature or you can get a plug-in like CoreMelt’s Lock & Load or use separate applications like Adobe After Effects. Stabilizers attempt to keep objects in the frame relatively steady while the frame itself moves around them (for example, if the objects go left, the frame goes left too, keeping the objects in the same place on screen). This will result in a constantly moving black border around the frame if you don’t enlarge the image to push the border off screen (which lowers resolution a bit). Nevertheless, some image stabilizers are amazingly effective and can make a bumpy walking shot look like it was shot with a Steadicam. Sometimes a stabilizer can even smooth out a jerky zoom.
+
+In FCP X, image stabilization is built in, available as an option in the video inspector window of every video clip, with controls for smoothness of scale and rotation. Clips can be also be automatically stabilized when you import them if “analyze for stabilization and rolling shutter” is clicked in Preferences.
+
+Fig. 14-28. Compositing in 3D, with multiple layers of video using Smoke. (Autodesk)
+
+TITLES, GRAPHICS, AND STILLS
+
+Virtually every movie makes use of titles, text, and graphics of various kinds. NLEs can create text elements as well as shapes, gradients, and other patterns for graphics. For more sophisticated control over text and graphics, you can use programs such as After Effects, Photoshop, and Motion, and plug-ins like Boris Red, together with your NLE.
+
+Titles
+
+See Titles, p. 541, before reading this section.
+
+On-screen text in video is sometimes called CG (produced by a character generator) or chyron (after an early maker of video text devices). NLEs include basic text generators and often have complex tools for animating titles within the NLE or as part of the NLE suite.
+
+The NLE’s title tool should give you simple controls over font choice, font size, color, position, justification, kerning (the space between characters), and leading (rhymes with “sledding”—it’s the space between lines). This is all you need to make basic titles. “Supered” video titles (those that appear over picture) generally need drop shadows or some kind of graphic pad under them so the letters don’t blend into the background. Another technique is to slightly blur the background under a title to make it stand out more. Usually titles in video shouldn’t be overly bright or they’ll get noisy.
+
+Bitmapped (also called raster) graphics and titles are made up of individual pixels and look best when made at high resolution and with low compression. If you try to enlarge a bitmapped title it may look soft. Many NLEs and design apps can create vector graphics, which are defined by geometrical formulas instead of pixels. Vector-based titles or other shapes can be scaled to any size with smooth results (you could build them for an offline edit at one resolution, then import them into an online sequence and rerender them at full resolution).
+
+As noted in Chapter 13, avoid fonts that have serifs or any graphics with fine horizontal lines, especially for interlaced video formats where they might cause flicker.
+
+Graphics
+
+For optimum control over graphic elements, the NLE is usually not the best tool for the job. Graphic artists often use programs like Photoshop or Illustrator to create graphics, then import them to the NLE using a variety of file formats. Generally you want to use uncompressed or lossless formats. Depending on your system you might use TIFF (.tif), PNG (.png), Photoshop (.psd), or highest-quality JPEG (.jpg). Often, graphics involve a number of layers and some NLEs can import a Photoshop file with the layers on different video tracks, giving you easy access to create effects or alternate versions of the image (for example, different layers might have the same text in different languages).
+
+Over time, the process of moving graphics from outside programs to the NLE has gotten simpler. However, keep two issues in mind when you’re creating graphics on other applications.
+
+First, remember that most graphics programs work in RGB color space while most NLEs work in component (Y’CBCR, also called YUV) color space. See Video Color Systems, p. 207, for more on this. Be aware that colors that may seem dull in RGB on the computer monitor can look very bright on a component video monitor. Avoid choosing rich, saturated colors in the graphics program; they may end up looking garish and noisy in video and exceed the legal range in component 709 or 601 color space (see Fig. 5-12). Choose “broadcast safe” colors in the graphics app or NLE.
+
+Another concern is pixel aspect ratio (see Pixel Shape, p. 232). Graphics programs (and all computers) use square pixels, as do true HD formats. However, SD formats (NTSC and PAL) and some HD formats (like DVCPRO HD and certain versions of HDV) use nonsquare pixels. This means that graphics may look distorted if you’re not careful (see Fig. 5-27). In some cases you may need to build the graphics at a larger frame size so they’ll look correct when shown in nonsquare pixels.13 Consult the documentation with your NLE for suggested frame sizes.
+
+Fortunately, newer versions of many NLEs and graphics programs can automatically adjust for frame size, pixel shape, and color space if you tell them what formats the video and graphics are in.
+
+Animating Stills
+
+You may want to incorporate digital stills or scanned photographs into a movie. Further, you may want to animate them with moves: panning across the image, zooming out from a detail to the whole picture, or moving closer on someone’s face. At one time, moves on still images were done by shooting photographic prints on an animation stand (also called a rostrum camera). Today, they’re done in the NLE or in applications like After Effects or Motion, which may provide more precise control and more fluid moves (in which case you might export the animation still as a movie file to be imported into the NLE).
+
+Before reading further, be sure to see Still Images and Video, p. 235.
+
+Start with a still or graphic that has at least the same dimensions in pixels as the video format you’re working in, because if you scale up a smaller image in the NLE it can cause a loss of sharpness. If you plan to move in on a portion of the image, prepare the image at a larger frame size than the project. For example, if you want to scale up an image to 200 percent in the NLE, prepare the image at twice the project frame size before you import it. For a tighter zoom, say 3x to 4x, multiply by that amount. With 720p HD formats, a still that’s about 4,000 pixels wide will give you room to do a moderately tight zoom-in. When working in SD formats, aim for an image at least 2,000 pixels across.
+
+If you’re starting with a digital still, you can use Photoshop or another app to scale the image up. If you’re scanning a photograph printed on paper, make sure the scanner is set to a high enough resolution to produce the digital image size you need. For example, if you scan an eight-by-ten-inch photo at 150 dpi, this will produce an image size of 1200 x 1500 pixels. The smaller the photo, the higher-res scanner setting you’ll need to create an adequately sized digital image.
+
+While applications like After Effects and Motion can accept very large stills, not all NLEs can (while legacy versions of Final Cut Pro were limited to 4000 x 4000 pixels, FCP X appears to have no limit). With many applications, performance is slower with large images. When importing a still to an NLE, check the import settings because some may scale the still to the project size, which you want to avoid if you made it bigger to accommodate moves.
+
+When adjusting the moves across the image, experiment with speed and motion settings. Generally you want to “ease” into a move (ramping up in speed) and then ramp down as the move finishes in a different place, to create a graceful, nonmechanical feel.14 With some systems, you can set keyframes along a path as waypoints for X-Y moves (horizontal-vertical) and Z moves (in-out). With others, you simply indicate a starting frame and an ending frame, and the system moves from one to the other. Bezier handles (see p. 593) can smooth transitions.
+
+When scanning and editing stills into your movie, bear in mind the aspect ratio of the format you’re working in. Vertically oriented stills won’t fill the frame if you try to show the whole photo, which could look awkward, especially with widescreen video formats. This is why filmmakers often start tight enough on vertical pictures so the photo fills the frame; then they do a move up or down (such as a move from feet to face on a portrait). Another approach is to put some kind of background behind the picture so the sides aren’t completely empty.
+
+Some people like to animate stills with a kind of pseudo-3D technique. Say you have a shot of a man standing by lake. Using Photoshop, create a layer that isolates the man on a transparent background. Then create a separate layer with only the lake, filling in the hole where the man was by cloning nearby areas. Load the layers into the NLE and, as you pan across the image, move the man’s layer at a slightly different rate than the background to create the illusion of dimensionality.
+
+FREEZE FRAMES. Sometimes you want to use a still that comes from your video footage—otherwise known as a freeze frame or frame grab. NLEs can easily generate a freeze frame from any shot on the timeline, which you can then edit back into your sequence as a still. However, if you try to enlarge part of the freeze frame, it will look softer, as described above.
+
+When working with interlaced formats, freeze frames may look ragged or show edge tear (see Figs. 1-11 and 5-17) if there’s any movement between the two fields that make up the frame. In this case, you’ll want to deinterlace the still (this command may be among the video effects). The NLE will discard one of the fields and, if you select the interpolation option, will fill in the missing lines with an approximation of what would be there if you had shot with a progressive camera. You’ll usually want to deinterlace when making frame grabs (still photos) from your movie, say for publicity purposes. For more on deinterlacing moving footage, see p. 213 and p. 600.
+
+Fig. 14-29. Multicam editing. For shoots in which multiple cameras cover the same action (like a concert shoot), some NLEs allow you to load the different camera angles in the same timeline and easily switch between them to create the edited sequence. Shown here, Edius NLE (with lines added for clarity). (Grass Valley)
+
+MIXING AND CONVERTING FORMATS
+
+Today it’s common to work on projects that use footage shot in different formats or codecs. For example, you might be working on a documentary in HD that uses archival footage shot in SD. Or you might be working on a dramatic feature shot with a high-end HD camera that has some B camera (second camera) footage shot with a DSLR.
+
+Sometimes filmmakers choose to work with mixed formats as a stylistic device, and sometimes they’re forced to do so by circumstances of available equipment or preexisting footage. When you put different types of source material in a movie, the differences between them in look and feel will be accentuated anyplace there’s a hard cut from one to another. This may serve the effect you’re trying to achieve, or it may have the unintended result of making some of the footage look worse by comparison.
+
+Most newer NLEs can play different formats or codecs in the same sequence, allowing you to mix and match. You choose one format (with a given frame size, frame rate, and codec) as the base for the sequence, and any footage that’s in another format or codec is adjusted to play within the sequence. Though makers of NLEs like to claim this is a seamless process, you still may need to address various issues. First, while the NLE may indeed be able to play footage that was shot in different formats in one sequence, it may sacrifice some processing speed or stability. Some effects may not play in real time, but need to be rendered first. If mixing codecs is slowing things down, you might consider transcoding some or all of the footage to ProRes, DNxHD, or CineForm (see p. 558).
+
+Even if the NLE can play different formats, you may still be dealing with differences in frame rate, frame size, aspect ratio, and other factors. In some cases the NLE may make automatic adjustments; in others, you may need or want to control things manually.
+
+Frame Rate
+
+Depending on your NLE, you’ll need to set either the project as a whole or an individual sequence on the timeline to a particular frame rate or timebase. This is the basic frame rate for the movie, and any footage you’re using that has a different frame rate will need to be converted to it. Sometimes material is converted from one frame rate to another when you import it into the NLE. Sometimes the footage itself is not really “converted”; you simply have clips with different frame rates on the timeline, and the NLE displays them at the project timebase (or attempts to) when you view the sequence.
+
+As discussed in the next section, material shot in 24p can have pulldown applied to create 60i or other frame rates. Often, footage shot at 24p has pulldown added during recording (or, if shot on film, during video transfer), then the pulldown is removed in the NLE so you can edit at 24p. PAL material shot at 25 fps can be slowed down by 4 percent to match a 24 fps timeline.
+
+Conversions between 24, 30, 50, and 60 fps are discussed below and in Chapters 2 and 16. Frame rate conversions are needed when going between NTSC and PAL, or between various HD formats. Not all frame rate conversions can be done successfully without motion artifacts. Interpolation can help, particularly when going from, say, 60i to 24p. Rather than simply throwing away some fields—which can cause judder—some fields are blended (combined), which can create smoother motion. Many NLEs and plug-ins offer frame blending or optical flow analysis (see p. 592) when slowing down a clip.
+
+For some frame rate conversions, NLEs produce inferior results compared to more sophisticated software plug-ins or apps, or hardware devices like Snell’s Alchemist or Blackmagic Design’s Teranex system. Filmmakers sometimes have footage converted with specialized software or a hardware transcoder prior to editing, or they send selected material out to a post house for transcoding after the offline edit. Do some tests to see how the footage responds. In some cases you can download a free trial version of conversion software to check it out.
+
+Frame Size and Aspect Ratio
+
+When working in a format with a relatively large frame size (such as 4K, 2K, or HD), there may be times when you want to include footage shot in a smaller frame size. A classic case is when you want to use SD material—perhaps from archival stock footage—in an HD project. This can create two problems.
+
+First, the SD frame has fewer pixels, so it will need to be scaled up to fill the HD frame. This will make it look less sharp and possibly noisy in comparison to the HD. This may be unavoidable.
+
+Conversions can often be done with software or hardware devices. For example, you might be able to up-res from SD to HD using your NLE’s scaler, a dedicated plug-in, or a separate application like After Effects, or you might send the footage out to a post house to be processed by a high-end hardware conversion system. Both software and hardware solutions vary in their sophistication and in the quality of the output.
+
+Another potential problem is cutting together widescreen 16:9 material with nonwidescreen 4:3 material. This can happen with SD or HD movies. Several options are available for accommodating one aspect ratio within the other; these are discussed in Aspect Ratio Choices, p. 74. If you try to blow up the 4:3 footage so it fills the widescreen frame, that clip will have lower resolution and you’ll lose the top and/or bottom of the image, which may be objectionable. Sometimes people display the SD as a smaller box centered in the HD frame to avoid scaling it up (see Fig. 2-12A). Some broadcasters won’t allow this technique. You can also place the SD material over an HD background (such as a blurred, full-screen version of the SD shot) to avoid black side bars.
+
+Generally speaking, downconverting from a high definition format (many pixels) to a lower definition format (smaller frame size) works much better than going the other way. When done right, the image often looks superior to native images in the lower def format. However, downconversion must be done carefully and the NLE may not be the best tool for the job. People making their own standard definition DVDs from HD masters are often disappointed by the results. Seek advice on the best settings for your software. Going up or down in resolution, if you just repeat or delete pixels you can get artifacts (one common up-resing technique is line doubling, which repeats existing lines of pixels, and a common but low-quality method of downconversion is line skipping, where entire rows of pixels are deleted). Better systems use interpolation to calculate either a larger or a smaller set of pixels based on averaging adjacent pixels.
+
+Interlace and Field Order
+
+When editing interlaced footage, particularly when mixing different interlaced formats in the same sequence, you may need to check that the field order (also called field dominance) is set correctly. There are two types of fields in an interlaced frame. The upper field (also called field two or F2) contains the odd-numbered scan lines. The lower field (also field one or F1) is made up of the even-numbered lines. Field order refers to which field occurs first in each frame. Digital video formats derived from NTSC and all DV formats are “lower field first” or “lower field dominant.” “Upper field first” is found in 1080i HD, video generated by computer graphics systems, and standard definition PAL. See Fig. 5-17 to get an idea of the two fields.
+
+When creating a sequence in the NLE or when doing a reverse pulldown process on capture, it’s also important to make sure the setting for field order matches the footage you’re working with. If there’s a mismatch between your sequence and footage you want to use, you may need to change the field order of some of your material. Sometimes if the field order is set incorrectly on a clip, it will stutter or the image will tear.
+
+There is no field dominance or field order with progressive formats because there are no fields. Mixing interlaced and progressive formats in the same sequence doesn’t seem to present any issues. All modern displays are progressive (including LCDs, plasma screens, and OLEDs) and have no problems showing interlaced video, which they convert on the fly to progressive. If you’re preparing video for display on the Web, you should generally deinterlace any interlaced footage. Most NLEs have deinterlacing filters, you can get specialized plug-ins, and applications like Compressor and Adobe Media Encoder can also deinterlace.
+
+Traditional CRT TVs are still in use in the world, and these will reveal some field-order problems in your movie that you won’t see if you only watch on a progressive display. However, few editing rooms have a CRT around to check for errors. For more on deinterlacing, see p. 213.
+
+Pixel Type
+
+HD uses square pixels; SD uses nonsquare pixels. When mixing formats with different pixel shapes, to avoid distortions in the image you may need to convert some of the footage when importing it to the sequence. See Pixel Shape, p. 232.
+
+Bit Rate
+
+Many cameras record with 8-bit codecs. Some higher-end cameras and recorders operate at 10 or 12 bits. Editing in HD at 10 bits may mean converting to ProRes 4:2:2 or DNxHD 220, or working with uncompressed video. To avoid artifacts when downconverting from a high bit rate to a lower bit rate format, use dither (which may be an option with your software).
+
+WORKING WITH 24P AND PULLDOWN
+
+Be sure to read 24 fps Film and Digital, p. 82, before starting this section.
+
+Since the introduction of sound in 1927, virtually all movies have been shot at 24 frames per second, and that continues to be the standard frame rate for theatrical movies and many other types of films. When NTSC television came along, the TV industry (at least in North and South America and Japan) adopted a different frame rate—essentially 30 frames per second (60 fields per second taking into account interlace). To convert movies shot on film so they can be broadcast on TV, the film is run though a telecine, which is a machine that scans the film frames and records them to video (see p. 676). But you can’t simply speed up a 24 fps film to 30 fps for TV; if you did, motion would be unnaturally sped up, people’s voices and music would rise in pitch, and a ninety-minute film would run for only seventy-two minutes.
+
+Instead, using a process called 2:3 pulldown (also called 3:2 pulldown), every four film frames are recorded to five video frames (see Fig. 14-31). By distributing each group of four film frames in this way, the overall speed of the movie doesn’t change, motion looks normal, and the resulting video can be edited like any other 60i video.15 If you prefer to edit a film-to-tape transfer at 24 fps, you can do a reverse telecine process (also called reverse pulldown) to extract the 2:3 pulldown and restore the original film 24 fps in the NLE.
+
+But pulldown is not used just for projects shot on film. Many digital cameras use an internal pulldown process to record 24p to 60i video. In part this is because 60i has been a standard for over sixty years in NTSC countries (originally as SD), and manufacturers want to ensure that their 24p format can be used with existing 60i-compatible decks and monitors. Broadcast and cable HD signals, for instance, are mostly 60i (720p broadcasting, which is rarer, being the exception).
+
+Different types of pulldown can be used to convert between different frame rates. What they all have in common is the idea of changing the base frame rate without changing the overall speed of the footage, so the material after pulldown plays like the original as much as possible.
+
+Let’s look at different types of pulldown, with a particular focus on 24p because it can require special attention in editing.
+
+Before proceeding, there are a couple of things to note that depend on where you live:
+
+Pulldown is a product of mismatched NTSC and film frame rates. In former PAL countries, the issue of pulldown was nonexistent, since film intended for TV was shot at 25 fps, the same frame rate as PAL. For a discussion of converting 24 fps to 25 fps in PAL territories, see Frame Rate and Scanning, p. 685.
+
+In former NTSC countries, bear in mind that when we talk about video frame rates in whole numbers, we mean rates that are 0.1 percent slower—so 30 fps really means 29.97 fps and 24 fps in video means 23.976 fps (sometimes written 23.98 fps). This is explained on p. 14. In the discussion below, round numbers are used but mean the lowered fractional rates, unless specified otherwise.
+
+Native 24p
+
+Some digital video cameras can record 24 fps “natively,” which in this case means recording 24 progressive frames per second to nonlinear (nontape) media like memory cards, hard drives, optical discs, or SSDs. With Panasonic cameras, this is called “24pn” when recording to P2 memory cards. As an analogy, you could think of shooting film as a kind of native 24 fps format: you’re simply capturing entire frames, 24 times a second.
+
+Native 24p is simple and straightforward and allows you to record 20 percent more material on a memory card or hard drive compared to the pulldown methods described below. However, if you need to output the footage to a 60i format, then you need to apply one of the pulldown methods. Most cameras and decks that are capable of shooting native 24p can apply pulldown on output, which is useful for monitoring or rerecording.
+
+Progressive Segmented Frame
+
+Some cameras record 24p using a technique called progressive segmented frame (PsF), also called segmented frame (sF). With PsF, the entire frame is captured in one exposure at the camera’s sensor and then split into two fields, each with half the horizontal lines, prior to recording. As a result, 24 PsF is recorded as though it were 48i (see Fig. 14-30). But the difference between PsF and interlace is that in PsF, both fields are captured at the same moment in time (as halves of a true progressive frame), instead of one field being exposed after the other, as in the case of interlace. In postproduction, you can recombine the two fields to remake the original, single progressive frame with no artifacts like the edge tear or aliasing that may result with interlaced material.
+
+Fig. 14-30. Progressive segmented frame (PsF). The top line represents four frames of the original 24p stream captured by the camera. The middle line shows how each frame is divided into two fields for recording. Later, the 48i fields can be recombined simply to re-create the original 24p stream.
+
+If 60i video is needed from 24 PsF, normal pulldown is done prior to output, with the segmented frames again treated as fields. The segmented frame method can be used with a variety of frame rates, including 25p and 30p.
+
+24p Normal Pulldown (2:3 Pulldown)
+
+As noted above, 2:3 pulldown is the traditional method used when movies shot on film are converted to video in former NTSC countries like the U.S. Many digital video cameras use the same technique to convert 24p to 30 fps (60i). The 24p video signal is processed within the camera so that every group of four frames is translated into five frames of 60i that can be recorded on tape or file. If you’re planning to finish your movie on video at 60i, then using 24p normal is a good pulldown choice; you’ll get the look of 24 fps motion and can edit in the normal way you would with 60i. This pulldown is sometimes called 24p over 60i.
+
+To see how 24p normal works, take a look at Figure 14-31. The original 24p stream is shown at top. Each group of four frames (A, B, C, and D) is converted to five frames (ten fields) of video in the 60i stream shown in the middle row. Frames A and C are transferred to two fields each (which is what we’d expect in an interlaced format—two fields per frame). However, frames B and D are transferred to three fields each. This pattern, or cadence, is why normal pulldown is also called 2:3 or 2:3:2:3. The point of this whole operation is to create six extra frames every second, bringing us from 24 fps to 30 fps.
+
+Normal pulldown creates smooth motion and is how most 24 fps material (whether from film or digital) is converted to 30 fps. For productions that will be edited and shown in 60i (without ever returning to 24p) you can work with the footage essentially like any other video material that originated in 60i.
+
+Fig. 14-31. Normal (2:3) pulldown. Again, the top line shows four frames of the original 24 fps material. The middle line shows how extra fields are added to create five frames of 60i. The bottom line shows how reverse pulldown (reverse telecine) works: by deleting two fields and combining others, the 24p stream can be rebuilt.
+
+REVERSE 2:3 PULLDOWN. On some productions, the workflow is to shoot at 24p, use pulldown to convert to 60i (which might happen because the camera uses pulldown internally or because 24p video or film has been transferred to a 60i video format), and then do a reverse pulldown to return to 24p for editing (see below for more on why you might want to do this).
+
+Not all NLEs can do reverse pulldown, also called reverse telecine. In some cases, pulldown and reverse pulldown can be done with software as a render process, but if you are capturing from tape and have a capture card or external hardware, reverse pulldown can be done on the fly in real time.
+
+In Figure 14-31, reverse pulldown is represented by going from the middle row to the bottom row. The bottom row is the “recovered” or restored 24p stream in the NLE. Here’s how it works: The first frame of the 60i has only two fields (A1 and A2), which are combined to restore the A frame in the bottom row. The same thing happens with the next frame of the 60i. But then things get a bit messier. There’s an extra field—B3—that gets discarded. Then we find that the two fields of the C frame (C1 and C2) are split across two frames in the 60i. Then we have an extra D field to throw away.
+
+For the NLE to do reverse pulldown, it needs to orient itself within the pattern so it knows which fields to save and which to discard. Notice that the A frame is special. It’s the only frame of the 24p material that is transferred to exactly one frame of 60i (two fields with no timecode change between the fields). The A frame can be used as a marker to indicate the start of the pattern. Some NLEs can automatically recognize the A frame but in some cases you need to help the system locate the A frames (for more on this, see Managing Pulldown, p. 698).
+
+When working with compressed digital formats that you are importing natively into the NLE (typically done with DV, for example), one disadvantage of 2:3 pulldown is that it requires decompressing frames 3 and 4 to extract the C frame. That is why 24p Advanced pulldown was created.
+
+24p Advanced Pulldown
+
+Another pulldown pattern, called 24p Advanced (which may be indicated as 24pA), is similar to normal pulldown in that some frames of the 24p stream are transferred to two fields of 60i and some to three. However, Advanced uses a slightly different cadence. Instead of 2:3:2:3, the advanced pattern is 2:3:3:2 (see Fig. 14-32).16
+
+The 60i footage that results is not quite as smooth as with normal 2:3 pulldown. Advanced pulldown can be thought of as a kind of intermediate format that is not meant to be shown at 60i, directly from the camera tapes or files. It’s designed for material that will be edited at 24 fps, and its benefits come when converting back from 60i to 24p. With 24pA, reverse pulldown can be done simply and in real time with no decompression required. The camera sets a flag in the data stream, telling the system to simply discard the third frame in the 60i, leaving us with a tidy package of the original A, B, C, and D frames in compressed form.
+
+Shooting in 24p Advanced can result in a higher-quality capture into the editing system and reduces the amount of data you need to store by 20 percent. It can result in a better end product if you plan to edit in a 24 fps timebase, but not if you’re editing at 30 fps. There are various workarounds and conversion methods if you shoot in 24pA but would rather have 24p normal footage.
+
+Fig. 14-32. Advanced (2:3:3:2) pulldown. Note the difference between this and Fig. 14-31. Instead of deleting separate fields B3 and D1 to re-create the 24p media, here we delete the entire third frame (B3 and C1), which makes for a cleaner, simpler reverse pulldown process.
+
+24p and 30p over 60p
+
+Cameras that record HD in the 720p format, such as Panasonic cameras using DVCPRO HD, employ another pulldown method to record at a variety of frame rates. In this system, the camera is always recording at 60p. To shoot 24p, the camera exposes images at 24 fps, then applies 2:3 pulldown internally to repeat one frame twice, then the next frame three times, and so on as it records the 60p stream (see Fig. 14-33). This method is sometimes called 24p over 60p. If you want to do reverse pulldown, the system knows which frames come from the original 24p stream and which are the repeat frames to be discarded.
+
+Fig. 14-33. 24p over 60p. The 720p HD format is always recording at 60 fps. When you shoot at 24p (top row), pulldown is used to record each frame either twice or three times in the 60p recording (and each recorded frame is a complete, progressive frame—not divided into fields as shown in Figs. 14-30, 14-31, and 14-32). To re-create the 24p stream, the system simply ignores the extra recorded frames in the middle row.
+
+A similar method can be used to embed other frame rates in the 60 fps stream. For example, if you shoot 30p, the system records two identical 60p frames at a time and ignores one of them during playback, giving you a 30p stream. In former PAL countries, the 720p format natively records at 50p, and can easily record 25p by repeating frames.
+
+With some cameras, you can shoot at 60 fps with no pulldown. If you’re editing at 24p, that footage can be used for 2.5x slow motion, much like shooting film at 60 fps (for more, see Slow Motion, p. 389).
+
+Some Consumer/Prosumer Methods
+
+A number of cameras don’t shoot true 24p but offer various “fudged” methods that try to simulate something like it. Manufacturers may claim that these look a lot like 24p, but there are important differences.
+
+Some Sony HDV camcorders offer a Cineframe 24 mode (sometimes written 24F). The camera’s sensor captures 60i, from which fields are selected to simulate the motion of 24p. The result is that motion is uneven, which any attempt at a reverse pulldown will reveal to the discerning eye. This is a consumer-oriented feature that should not be confused with true, professional 24p and should not normally be used for blowup to 35mm or bump-up to HDCAM for the festival circuit.
+
+Sony’s Cineframe 30 and Cineframe 25 modes function in 60i and 50i camcorders, respectively, by dropping one field and doubling the other—the same technique found in slow shutter speed effects in Sony camcorders. Some may feel this simulates the motion blur of 30p and 25p but at half the vertical resolution (since you’re recording only one of each two fields). The loss of resolution may or may not bother you depending on the application.
+
+Some Canon HDV camcorders offer a 24F mode in which the camera records at 48i, deinterlaces to 24p, then adds 2:3 pulldown to create 60i. While impressive to many, this method doesn’t deliver the resolution of true 24p.
+
+Cameras from other manufacturers have various types of frame modes to simulate progressive recording or frame rates in which they don’t really operate. Experiment with them to see if you like the look, but ask questions about how they work so you’ll know whether they might cause problems for you later.
+
+EDITING 24P FOOTAGE
+
+How you edit 24p material depends on the kind of project you’re doing, the workflow you choose, and the equipment you have.
+
+Working in a 24p Project
+
+When working with footage that originated at 24p, be it film, 24p compressed or uncompressed HD, or a RAW format, it’s often best to edit at 24 fps on the NLE. This is sometimes referred to as working in a 24p timebase. Editing at 24p is well suited to making a 24p end product, like a 24p DVD or Blu-ray or a 24p master for theatrical screenings. This is also a good choice when you’re doing an offline edit and want to return to the 24p original material for the online, to make a digital intermediate, or to cut film (for more on these, see Chapter 16). If you make a 24p master, this can be a good source from which many other formats (60i, 50i, 25p) can be created.
+
+SPEED CONSIDERATIONS. As mentioned above, virtually all HD and SD cameras operating at “24p” in former NTSC countries are actually recording at 23.976 fps, which is often rounded to 23.98.17 If you recorded sound in the video camera or with a separate audio recorder, you should have no problems with sync as long as you edit using a 23.976 timebase.
+
+However, film projects in the United States are traditionally shot at exactly 24 fps. Film footage is then generally slowed down to 23.976 in the telecine when transferred to any type of video. Regardless, projects shot on film are sometimes edited at 23.976p and sometimes at true 24p. The choice will affect the way audio speed adjustment is handled. This is discussed on p. 690. Note that slowing the sound to match the picture is often referred to as “pulling down” or “pulldown,” but this is different from the pulldown discussed above, which means changing the picture frame rate.
+
+TIMECODE CONSIDERATIONS. In some workflows, 24p HD or film material is transferred to a 60i tape or file format before capturing to the NLE. Keep in mind that the 24p timecode used in the original footage and in the 24p nonlinear editing sequence is not the same as the 30-frame timecode of the tape or files. The count of hours, minutes, and seconds will be the same, but the frame count won’t be, since with 24 fps there are 24 frames each second and with 30 fps there are 30. The editing system may be able to make the conversion automatically, but care needs to be taken that pulldown is done correctly and that the timecode of the NLE sequence does indeed match the original 24p source (ultimately, you’ll be doing the online with the original material, and it’s imperative that timecode of the clips in the sequence is identical). This is especially critical when working with film (see Editing Film Digitally, p. 696).
+
+Working in a 60i Project
+
+When producing a movie that will be shown in 60i (say, a television movie), or if your project uses a lot of 60i footage (for example, existing archival material), you may want to edit at 60i instead of 24p. In this case, any 24p material you’re using can have 2:3 pulldown applied and then be treated as 60i footage.
+
+Keep in mind that if you edit 24p material at 60i, and then go back to do an online with the original 24p footage, there may be slight cutting discrepancies between the offline NLE sequence and what you end up with in the online. These errors come from the difference between the 30-frame timecode used in the sequence and the 24-frame timecode of the original source footage. For more on this concept, see Matchback from a 30 fps Project, p. 702. For this reason, you may want to plan your workflow to transfer any 24p footage to 60i for use as a source for the finished edit.
+
+FINISHING AND OUTPUT
+
+Now you’re done editing (you’ve “locked” the picture) and you’re ready to get the movie out of the NLE and into the world.
+
+Final Products and Versions
+
+Different projects can have very different needs when it comes to finishing. You may just be outputting a short video to share on the Web, and with many NLEs the finishing process is highly automated and very simple. On the other hand, you could be delivering your project to a broadcaster or distributor who will have specific technical requirements and request different versions and deliverables (see p. 758). For a typical independent film, you may potentially need:
+
+High-quality master file of movie.
+
+HDCAM or other tape format for broadcast or film festival use. Whenever tapes are involved, you’ll want a master tape to store safely and clones to use for actual distribution. You’ll want at least one of each for every version of the movie.
+
+Textless version. If you hope to distribute in a foreign country, you’ll want a version of the project that has no on-screen text or titles over picture. Sometimes you do this by building a “clip reel” that contains a second copy of any shot that has text over it, but without the text. (Alternatively, you can remove the text from the movie itself, but include those shots with text at the end so a foreign distributor or broadcaster can see how the text should look.)
+
+Sometimes nonwidescreen (4:3) versions of a widescreen movie are required. In SD, this might involve both full-height anamorphic and letterboxed versions.
+
+Audio tracks. Audio deliverables are discussed on p. 673. For more on preparing audio tracks for foreign distribution, see Foreign Release, p. 673.
+
+For theatrical distribution, you may need a Digital Cinema Package (see p. 625) and/or 35mm film prints (see Chapter 16).
+
+Compressed files for the Web. You may need versions in different codecs, audio formats, sizes, or bit rates for YouTube, Vimeo, Hulu, and others.
+
+DVDs and/or Blu-ray Discs. A typical retail disc will have extras including deleted scenes, commentary, and other features.
+
+Planning Your Workflow
+
+As you prepare to finish your project, take some time to plan out your path. You may be doing everything yourself on your own system or you may be preparing to send your project out to sound editors, mix studios, online facilities, and transfer houses. No matter what your route, seek advice about how to accomplish the tasks for finishing. If you’re doing the work by yourself, consult manuals, do some research on the Web, and talk to people about the best workflow. There are lots of “gotchas” to be avoided: hidden settings that need to be changed; equipment that’s incompatible; technical requirements you’re unaware of.
+
+If you’re working with outside facilities, it’s absolutely essential that you start with them and work backward so you can deliver what they need. Ask them about their preferred workflow, file formats, track layouts, frame rates—anything. Many facilities have instructions posted on their website about how they want materials prepared. There’s no “standard operating procedure” when it comes to postproduction; it all depends on the particular project, equipment, software, and techniques being used. See p. 733 for the business aspects of booking an online edit session.
+
+If you’ve been working with a simple online workflow (with no separate offline edit) on your own NLE, you may be ready to export the movie directly to a finished file, the Web, a DVD, Blu-ray, or even a videotape master.
+
+Or you may be using an offline/online workflow, in which case you’re getting ready to do the online edit. This may involve linking to higher-resolution media on your NLE or moving the project to a different system—perhaps at a postproduction facility where you’ll do the online edit. For the basics of offline/online workflow, see p. 37 and p. 556.
+
+The next sections are about managing your media and project and the steps involved in preparing for an online edit. Many of these steps also apply to situations in which you want to share your project with another editor, or when you want to archive the project for long-term storage.
+
+If you’re not doing a separate online and are ready to output your movie, you may want to skip ahead to p. 614.
+
+Color correction is a central part of finishing a project, and it may be done on the NLE before output, during the online edit, or later. This is discussed on p. 626.
+
+MANAGING MEDIA
+
+Managing your media and other files is a central part of getting ready for an online edit, moving the project to another computer, or archiving a project when you’re done with it.
+
+File Types
+
+Let’s review the types of files the NLE uses:
+
+Source media files. The video and audio media files imported from the camera tend to be very large and therefore the most difficult to store and move around. Often, some of the media files are excluded when preparing for an online edit or archiving the project (more on this below).
+
+Project files. With most NLEs, the project file contains all the bins, clips, and sequences.18
+
+Render or precompute files. These are created during editing and can easily be deleted and rerendered later if needed. Old, unneeded render files have a habit of piling up on the hard drive if you don’t occasionally clear them out. Corrupted render files often cause playback problems. Many NLEs have a tool or command to identify unneeded render files so you can delete them.
+
+Other media. You may have imported graphics, stills, music, sound effects, and other media that have become part of the project.
+
+Many NLEs have a system or tool for working with media. Avid has its media tool; Premiere Pro has a media browser and Adobe Bridge. Final Cut Pro X has its event library. These tools can simplify the process of moving or deleting files. When you need to manually move media or render files, often it’s best to do it with the media management tools in the NLE rather than accessing them directly via Windows Explorer or the Mac’s Finder, though tasks and NLEs vary.
+
+Preparing the Movie for Finishing
+
+Your movie is on the timeline. Editing decisions are done. The final steps of finishing await. Just to remind you one more time, all the clips in the sequence are merely “pointers” that link to the actual media files—the files that contain the video and audio (see Media Files and Clips, p. 552). Sometimes people use the word “clip” to refer to both the pointer and the media file, but it’s important to make the distinction.
+
+Before doing anything more, duplicate the sequence, put the copy in a new bin, and use the copy for the next steps. In Final Cut Pro X, you’d duplicate the project and store it outside of the Final Cut Projects folder (so FCP X can’t see it). The original is now safely stored away.
+
+Often, when you’re finished offline editing, there are still a number of clips in the sequence that serve no function. For example, audio clips that you made silent, or video clips hidden under another clip on the timeline that are never seen in the movie. Delete those so they don’t add unnecessary media and work.
+
+If you’re making a master file for broadcast use or for sending to another facility, see p. 621 for instructions on adding color bars, slate, and countdown, and resetting the sequence timecode.
+
+For instructions on handling the audio portion of the sequence, see Chapter 15.
+
+PREVENTING ERRORS. Because various things can go wrong during the finishing process (especially if you’re moving the project to another system), it’s a good idea to make a copy of the movie as you now have it; this can serve as a check against errors later. Typically you might export a self-contained QuickTime file of the sequence, sometimes with burned-in timecode. For the online session, if there is one, the offline movie can be loaded as one video track in the online NLE. This is sometimes called a guide track, a reference track, or a reference movie. A guide track helps prevent errors and shows the online editor your intentions for any effects that don’t automatically carry across to the online.

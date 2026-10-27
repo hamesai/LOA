@@ -1,0 +1,214 @@
+Overview 
+Before you start planning your flight – key considerations 
+Which Category is right for your project? 
+UK Drone Categories 
+Planning a flight in the Open Category - Step by Step Checklist 
+Overview 
+This document is intended for guidance when it comes to planning your flight of an unmanned 
+aircraft. The responsibility lies with you as the operator to seek the official guidance from the 
+Civil Aviation Authority (CAA), to ensure that you are operating legally within the UK and that 
+you comply with the regulations based on the category that your operation falls within. 
+When filming with a drone, as with any other kind of camera, a production requires permission 
+from the landowner to carry out commercial filming activity. As a Drone Operator or Pilot you 
+should seek permission to take-off and land the drone, as without permission, you could be 
+guilty of (civil) trespass. The Operator and Drone Pilot are responsible for proper use of the 
+airspace.Outside of take-off and landing of the drone, prior to conducting any flight it is 
+recommended that you assess the risk and plan your operation well in advance. These are the 
+key factors you should consider before planning your flight. 
+Distance from uninvolved persons 
+The regulations are primarily based on the distance from persons rather than vehicles vessels 
+and structures, however vehicles and buildings will normally contain people, so the operator 
+must take this into consideration and not cause or permit the aircraft to endanger them. 
+“Distance from persons” should therefore be taken to include vehicles and buildings unless 
+these are known to be unoccupied, to ensure safety and best practice. 
+The minimum required distance is determined by the weight and type of aircraft. These rules 
+vary depending on the specifc category requirements or if you, as a Drone Operator or Pilot 
+hold an Opertational Authorisationthe basic rule is to not fly within 50m from assemblies of 
+people – subject to the 1:1 rule (unless in the A1 sub-category) and no overflight when 
+operating in the open category. Overflight is only allowed in A1 sub-category, or when 
+operating within the boundaries of a CAA Operational Authorisation. Please see table for 
+further details. 
+If your aircraft has no minimum distance required from persons, we would recommend that 
+5m distance be observed as an absolute minimum to help ensure safety. Operators should also 
+observe the 1:1 rule for separation distances to allow a safe flight - this is a rule of thumb which 
+states that you must remain equal distance horizontally and vertically, e.g. 100m high requires 
+100m horizontal separation. 
+Overflight of uninvolved persons 
+You should assess the area to ensure that no people are put at unnecessary risk from the 
+aircraft, you should also ensure that you are not overflying uninvolved people. In most cases it 
+is illegal to overfly uninvolved people unless you hold an Operational Authorisation with the 
+CAA or are operating with a smaller aircraft. Please see table for further clarification. 
+Filming with drones in the UK - Guidance for Productions 
+
+Congested areas 
+A congested area is defined as a Town, City, Industrial or Recreational area. To fly within a 
+congested area you must fall into the correct criteria and this requires further training in most 
+cases. It is illegal to fly your drone in these areas if it does not meet the standards of pilot 
+competency, or the weight limitations fall outside of what is deemed to be safe. 
+Assemblies of people 
+Assemblies of people can be thought of as any situation where people cannot easily or quickly 
+move away in case of danger - e.g. commercial streets, beaches, concerts, play parks, rallies. 
+Assemblies of people should be avoided whenever possible and it is illegal to overfly any 
+assembly of people in the majority of cases (see table for requirements for each category). 
+Airspace near airports 
+It is illegal to fly your drone in or around an airport which has a flight restriction zone without 
+permission. You must obtain permission from the relevant air traffic control or airfield operator 
+if you wish to fly in this area. Some airfields do not have these restrictions in place, but you 
+must identify them in the planning process to ensure that you do not endanger manned 
+aviation at these sites. Restricted areas mapped at NATS website (National Air Traffic 
+Services). 
+Risks around roads 
+There are many risks to flying around busy roads, and this should be avoided wherever 
+possible. Any possible loss of control around a road could potentially cause a traffic accident, 
+and anything that may distract a driver is a significant hazard also. 
+As vehicles contain people, you must not overfly them at any height when operating your 
+drone within the open category unless your aircraft falls within that criteria or you hold a CAA 
+Operational Authorisation, in which case you must ensure that a safe flight can be made, which 
+is your personal responsibility. 
+We do not recommend the overflight of roads. To reduce risk, if necessary, it is best practice 
+to treat roads as if you were crossing them on foot, i.e. to fly over only if there if there is a 
+sufficient gap between cars that would allow you to cross over safely if on foot. 
+Weather 
+You must ensure that you assess the weather well in advance of any planned flights and then 
+re-assess prior to take off. Considerations for wind and rain should be made and most aircraft 
+are not waterproof (unless specified by the manufacturer) so flights in wet conditions should 
+be avoided. 
+You should check the manufacturer's maximum wind resistance on the aircraft that you are 
+flying to avoid the risk of catastrophic failure if it is flown outside of the aircraft’s 
+recommended limits or “flight envelope”. 
+Insurance 
+If you are flying for a commercial purpose, then you must have valid insurance. This insurance 
+has to comply with the regulations EC 785/2004 regardless of any other insurance you may 
+
+have. If the flight is recreational then no insurance is legally required, however we recommend 
+having public liability insurance as an absolute minimum. 
+Visual Line of Sight (VLOS) 
+All flights must be conducted within VLOS all times to a max of 500m (unless the Operator or 
+remote pilot holds an exemption). The 500m limit is not a factor in the open category, but the 
+drone must within VLOS at all to the naked eye to monitor its path and maneuver it clear of 
+obstructions and avoid collisions. 
+From the 1st January 2023, all remote pilots must hold a General Visual Line of Sight Certificate 
+(GVC) which is a qualification required for Operational Authortisation and allows pilots to 
+operate in the Specific Category. 
+Drone Categories 
+The rules for each aircraft are dependent on the weight of the aircraft, or mass when it is in 
+flight (Maximum Take Off Mass or “MTOM”), and when the drone was manufactured and thus 
+whether it meets certain new safety standards. 
+Which Category is right for your project? 
+If your operation involves any of the following: 
+● F
+lying within a congested area
+● Flying near live roads
+● Flying close to persons or crowds
+● Flying near or around airports
+● Flying near railways
+● Flying an aircraft over 2kg
+● Flying within controlled airspace
+We would generally recommend that you hire a suitably qualified drone operator or pilot for 
+your production. This will ensure that they understands the regulations and will save time, 
+whilst maintaining safety. 
+Where you are using a smaller aircraft and are not flying close to uninvolved persons, this is 
+generally a suitably low enough risk for flights in the Open Category. 
+UK Drone Categories 
+Drone categories and sub-categories (that determine what Pilots are allowed to do) are based on the estimated risk 
+associated with that category of drone, which is determined by the weight of the drone. These regulations are split 
+into three categories: 
+**Note** All commercial activity requires insurance compliant to EC 785/2004 
+Every flight carried out under the remit of an operational authorisation, commercial or otherwise, must be covered 
+by insurance 
+
+OPEN CATEGORY Little to No Risk 
+SPECIFIC CATEGORY Medium / Special Risk 
+CERTIFIED CATEGORY Same regulation as manned aviation. 
+Note: This document will not give information on the ‘Certified Category’ and production companies or operators 
+should not be concerned about this and focus on the Open and Specific Category Rules ONLY. 
+OPEN CATEGORY 
+Overview 
+The Open Category is designed for the use of aircraft that pose little to no risk and usually consist of drones that 
+weigh less that 25kg. The Open Category is divided into three sub-categories 
+In all A1 sub categories: Max height 120m/400ft - No dropping of articles - No carriage of dangerous goods. 
+All flights must be within visual line of sight of the operator / remote pilot. 
+Anyone operating in the Open Category is not subjected to an operations manual requirement and therefore is not in 
+the oversight of the CAA. Within the Open Category there is no requirement for paperwork, but you should still 
+check take off and landing permissions, airspace and abide by the terms of the Open Category and drone code in 
+which you intend to operate. Varying levels of training and demonstrations of competency are required for the 
+different sub-categories a list of which can be found here: The Drone and Model Aircraft Code. 
+A1 This sub-category allows the flight of aircraft weighing up to 250g, close to people and over people, but not 
+over assemblies of people with the requirement of an Operator ID only. 
+It also allows flights of aircraft up to 500g, but without any overflight of uninvolved people or assemblies of 
+people. For this the the pilot requires their Operator ID, Flyer 1D and A2 Certificate of Compency 
+documentation 
+For more information see here CAP2012 
+A2 This sub-category allows the flight of aircrafts weighing up to 2kg ‘ 
+Within this sub-category the pilot can fly close to people (50m horizontal subject to 1:1 rule) but no overflight 
+at any height 
+The documentation for this sub-category includes Operator ID, Flyer ID and A2 Certification of Competency. 
+For more information see here CAP2012 
+
+A3 Can fly aircraft weighing up to 25kg. 
+The drone must fly far from people (50m from uninvolved people, 150m from residential, commercial, 
+industrial or recreational areas). for this reason A3 category drones cannot operate in most areas of city 
+centres in the Open Category and must follow the Specific Category guidance) 
+Documentation required includes Operator ID and Flyer ID. 
+For more information see here CAP2012 
+SPECIFIC CATEGORY 
+Overview 
+The Specific Category is for operations that pose a higher risk than that of the Open Category, or where one of more 
+elements of the operation fall outside of the boundaries of the Open Category 
+Operating in this category falls under the CAA’s oversight and therefore requires the Operator to abide by their CAA 
+Operational Authorisation 
+Flight specific paperwork is required for operations that fall within this category which includes risk assessment, on 
+site survey form and pre-deployment form. 
+Can fly aircraft up to 25kg maximum take-off mass. 
+Must operate within the terms of the individual’s CAA Operational Authorisation. 
+Can use the Predefined risk assessment process set out by the CAA 
+Distances from uninvolved people: 
+ 30m take-off and landing. 
+50m whilst in flight. 
+Can over fly uninvolved people if at least 50m above but only if safe to do so and must be kept to a minimum 
+Must remain 50m distance horizontally (subject to 1:1 rule) from assemblies of people 
+Operational Authorisation will establish how close the drone may be flown to buildings and to people, vehicles and 
+vessels not under the control of the pilot – this may be closer than the usual / standard distances allowed. 
+Max distances Visual line of sight 500m. 
+Documentation required in the Specific Category includes; Operator ID, Flyer ID, GVC Certificate, CAA Operational Authorisati on. 
+For further information please see; CAP1789A; C AP722; CAP722A; CAP722H 
+
+Planning a flight in the Open Category - Step by Step Checklist 
+This check list is for the Open Category. If your operation falls within the Specific Category 
+then please operate under your procedures that form part of your CAA Operational 
+Authorisation. 
+If you are planning to fly a drone in the Open Category, we recommend the following as a 
+basic level for good practice. 
+1 Apply for an Operator ID with the CAA, and Flier ID if required. 
+2 Check to see who owns the land, to avoid any issues with trespass. 
+3 Make sure you have appropriate insurance. Insurance is required for any commercial 
+activity. 
+4 Check the aircraft's weight & category – see table 
+5 Check f or any Airspace restrictions, Flight Restriction Zones (FRZ), Runway Protection 
+Zones (RPZ), or No-fly zones to ensure that you are flying legally - link UAS restricted 
+zones. 
+6 Check if you will be flying in a congested area - if you are, this will need to be properly risk 
+assessed 
+7 Check if at any point you will be flying close to people – see table 
+8 Check to see if your operation may require flying over people at any time. Please note that 
+overflight of assemblies of people is forbidden outside the A1 category. 
+9 Check if there are any local bylaws - check with the local authority website, this is your 
+responsibility, and you could face prosecution if you fail to comply. 
+10 Check if there are any local permitting requirements - if there is a local film office you 
+should contact them to discuss your flight and any local processes you may need to follow, 
+or any guidance or restrictions regarding the area in which you intend to operate. Be aware 
+that there are additional restrictions in the capital, for more information visit Film London. 
+11 Check that the risk is as low as reasonably practicable and create a risk assessment if the 
+flight is within a congested area. 
+12 Send details to the local authority (or film office), including timings, map, risk assessment. 
+Documentation may vary depending on the authority and your category/authorisation. 
+Make sure you provide enough notice prior to your flights. (If you’re applying for a flight in a 
+restricted area, this normally requires 21 days’ notice) 
+13 Check that the weather is suitable in advance of the operation. 
+14 Check that the aircraft is airworthy. 
+About Osprey Drone Training 
+Osprey Drone Training are a CAA approved drone training organisation providing a number of 
+courses with qualifications to ensure safe drone flying. 
+For more info on the Filming in England team, please visit: 
+www.filminginengland.co.uk 
+To get in touch please email: production@creativeengland.co.uk

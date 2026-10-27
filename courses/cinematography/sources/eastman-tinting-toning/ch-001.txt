@@ -1,0 +1,109 @@
+The Project Gutenberg eBook of Tinting and toning of Eastman positive motion picture film
+ 
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Tinting and toning of Eastman positive motion picture film
+ Second edition—revised
+
+Creator: Eastman Kodak Company
+
+ 
+Release date: March 30, 2023 [eBook #70417]
+
+Language: English
+
+Original publication: United States: Eastman Kodak Company, 1918
+
+Other information and formats: www.gutenberg.org/ebooks/70417
+
+Credits: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)
+
+*** START OF THE PROJECT GUTENBERG EBOOK TINTING AND TONING OF EASTMAN POSITIVE MOTION PICTURE FILM ***
+
+ Transcriber’s Note
+ Italic text displayed as: _italic_
+
+ Tinting and Toning
+ _of_
+ Eastman Positive
+ Motion Picture
+ Film
+
+ Price $2.50
+ Second Edition—Revised
+
+ Eastman Kodak Company
+ Rochester, N. Y.
+ 1918
+
+PREFACE
+
+Owing to the difficulty of obtaining foreign made dyes, a revision of
+the first edition of this publication has been made necessary.
+
+As the result of an exhaustive series of tests of the products of the
+National Aniline & Chemical Company, Incorporated, New York City, it
+is now possible to recommend a number of American made dyes suitable
+for the tinting of motion picture film, and those recommended in this
+book are in most cases equal in every respect to those previously
+obtained abroad.
+
+To date, it has not been possible to obtain a thoroughly satisfactory
+blue dye, film tinted with the Cine Blue recommended being too red,
+especially before drying. A more suitable dye will no doubt be
+available in due course.
+
+The number of sample tints has been curtailed to twelve, and these
+are given merely for guidance. It is intended that the various
+formulas should be altered to suit individual requirements.
+
+The chapter on toning has been thoroughly revised, a number of tones
+having been eliminated and others substituted. The formula for the
+copper tone has been improved, while the formulas for green tones
+requiring the use of vanadium chloride have been eliminated in view
+of the expense and difficulty of obtaining satisfactory vanadium
+chloride. With the samples at present on the market it has not been
+possible to prepare a single-solution toning bath which would keep
+for any reasonable length of time.
+
+Attention is drawn to the new method of dye toning[1] recently worked
+out in our Research Laboratory. This consists in first treating the
+film in the copper toning bath and then immersing the washed film in
+a solution of a basic dye, the dye attaching itself to the image and
+leaving the gelatine clear. Although specific directions are given
+for obtaining five tones only by this method, as further dyes are
+available, those suitable for toning purposes will be published in
+due course.
+
+The method of producing sulphide tones has been changed to one of
+simple re-development with sodium sulphide, the addition of hypo to
+the sulphide solution having been eliminated. By commencing with thin
+positive film of the correct density, and using a plain solution of
+sodium sulphide for re-development, satisfactory transparent tones
+are obtainable with precision.
+
+The formulas for the iron and uranium tones are the same as in the
+first edition.
+
+ EASTMAN KODAK COMPANY,
+ ROCHESTER, N. Y.
+
+ August, 1918.
+
+Tinting and Toning of Eastman Positive Motion Picture Film
+
+In the production of motion picture film it is becoming more common
+to vary the color of the film either by toning or tinting or by a
+combination of the two processes. Toning consists in either wholly
+or partially replacing the silver image of the positive film by some
+colored compound, the clear portions or highlights of the image,
+consisting of plain gelatine, remaining unaffected and colorless.
+Tinting, on the other hand, consists of immersing the film in a
+solution of dye which colors the gelatine itself, causing the whole
+picture on the screen to have a veil of color over it.

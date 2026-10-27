@@ -1,0 +1,430 @@
+Chapter XXIV
+COLORED, STEREOSCOPIC AND TALKING
+MOTION PICTURES
+For years photography in natural color has occupied the
+attention of many of our foremost experimenters, and in this
+field remarkable success has been achieved.
+In order to fully understand the principles of color photography, especially as applied to motion photography, we will have
+to revise our conception of color. Color is the rate of vibration
+of a definite light ray or beam. Color is not pigment, nor has it
+more than an indirect relation to pigment. In mixing pigments
+we call the red, yellow and blue primary colors. But in mixing
+pigment we are not mixing color but the absence or absorption
+of color. A mixture of the three primary pigments will give us
+a deep brown, approaching black. On the contrary we find that
+the primary colors are red, blue and green, and we also find
+that a mixture of these three colors produces white. It is true
+that these three "primary" colors may be subdivided infinitely
+by spectroscopic analysis, but at the same time they form the
+minimum group which will give us pure white.
+There are certain mechanical objections to making use of these
+three colors in photography, at least in the systems employed in
+motion photography. Further experimentation has shown that
+red and green alone, when of the proper mixtures will give us
+a color combination which very closely approximates white, and
+which will also give us a reproduction of all other colors to a
+degree which is remarkably accurate.
+These facts are well known to all experimenters in color. The
+mechanical application of these principles however has been a
+source of trouble to most experimenters, and only quite recently
+has there been a fully successful commercial application of
+natural color processes to motion photography. The first successful system was the "Kinemacolor." In this system a camera
+was employed which had a shutter containing colored gelatin
+films or light filters. One of these was red and the other green.
+Naturally with this system panchromatic film had to be employed.
+334
+
+MOTION PICTURES IN COLOR
+The film was exposed at the rate of thirty-two frames per second. These thirty-two frames consisted of sixteen frames exposed through the green filter and sixteen through the red, the
+two exposures being alternated. Thus at the rate mentioned,
+there will be an exposure of sixteen PAIRS of images per second. Persistence of vision will then present the PAIRS in such
+rapid succession that no color flicker or color bombardment will
+be noticeable.
+This negative is developed and printed in the usual manner.
+Both negative and positive are black and white only. The positive
+film is then projected in a special projector which operates at the
+same speed as the camera and which is equipped with the same
+type of shutter. As we are dealing with color and not with pigment, we project the red taken frames through the red filter
+and the green through the green. This gives us a picture upon
+the screen in full natural color. The only exception which can
+be made to this statement is due to the fact that the use of only
+two colors gives us a color quality which is very slightly degraded, in some instances.
+As these frames are exposed in succession, it is obvious that
+each succeeding frame is slightly different from the preceding,
+as in any motion picture film. As the rate is double, the amount
+of relative motion is cut in half, but even so, with rapidly moving objects we find that the red and green frames are not exact
+duplicates. For this reason such subjects, when projected upon
+the screen had one side outlined in a thin line of green and the
+opposite side had a corresponding red outline. This was the
+most serious fault of Kinemacolor.
+After this system was abandoned there was no practical advance made until Prizma was introduced. This was a process
+considerably more complicated than Kinemacolor. The prizma
+film is also made in paired frames, but with this exception it is
+entirely different from the preceding system. The prizma negative is printed upon BOTH sides of the positive film by means
+of a special machine. The two color images are thus superposed,
+giving a film which may be projected at the normal rate of
+projection.
+When the positive is printed, it is so treated that an image is
+obtained in gelatin relief. This stage is not unlike the gelatin
+relief secured in the familiar bromoil work. There is no silver
+335
+
+MOTION PICTURE PHOTOGRAPHY
+or other opaque substance in the gelatin. The film is now wound
+tightly upon a drum and the exposed side dyed in red or green
+as the case may be. The dye "takes" upon the film to a degree
+corresponding to the depth of the gelatin. When this is completed, the film is dried and reversed upon a second drum and
+the opposite side of the film dyed with the other color. If both
+dye baths have been carefully compounded and the film treated
+properly, we will now have a film in which each individual frame
+carries a complete two-color (almost natural color) image and
+may be projected in any projecting machine.
+It will be seen that two feet of negative are required for printing one foot of positive. Also, as the two color images are on
+opposite sides of the film, the image upon the side which would
+normally be the rear or celluloid surface of the film is exposed
+to scratching in the projector. If a scratch is made upon one
+surface, this scratch will show the pure color of the image upon
+the opposite side of the film.
+The only other process which has yet been of commercial use
+is the Technicolor. This process is characterized by these facts
+:
+Both images are upon one side of the film, the positive has no
+opaque material in the gelatin, neither is the positive subjected
+to any chemical treatment, and finally the positive is printed
+mechanically, just as book illustrations are printed, by pressing
+a dyed master or matrix into contact with the film substance.
+However, as Mr. L. T. Troland of the Technicolor Motion Picture Corporation has prepared the story of the Technicolor for
+this chapter, we will give his article verbatim.
+THE TECHNICOLOR PROCESS
+By L. T. TROLAND
+of the
+Technicolor Motion Picture Corporation
+The desirability of obtaining motion pictures in natural colors
+was recognized at an early date and many color processes have
+been devised. However, it is only within the past few years that
+the Technicolor company has perfected apparatus and methods
+which make motion pictures in natural colors a commercial reality. At the present time it is possible to take natural color negative under the same conditions of lighting and lens aperture as
+336
+
+,^ ...
+TSfc*
+- ^MMBb^.
+.-Jj
+v^
+Wm^^^
+ct s
+Hal4 1!
+A VJ1
+1w^H^ ^1
+Si
+
+MOTION PICTURES IN COLOR
+are used for black and white work, and to obtain positive prints
+having the same mechanical properties as black and white positive but carrying a natural color image. When projected under
+the proper conditions the results are very close to perfection.
+Fundamental Principles of Color Photography. All practicable
+systems of color photography depend upon the use of a silver
+bromide negative film or emulsion which is impressed by light
+in the same manner as the black and white negative film. However, instead of forming a single image on the film in white
+light a number of images are formed simultaneously in colored
+light. This is accomplished by passing the light from the lens
+through so-called filters which remove all of the rays except those
+winch it is desired to record. In the case of a two-color process,
+such as that used at the present time by Technicolor, red and
+green filters are employed ; and the rays which pass through the
+former impress upon the negative a record which shows, when
+developed, the distribution of red light over the scene, whereas
+the green filter yields a corresponding representation of the distribution of green light.
+Numerous schemes have been devised for obtaining these twocolor records in practice. The Kinemacolor process, which gave
+the first colored motion pictures to the public, utilized red and
+green filter sectors in a shutter rotating before the lens, the two
+records being made successively. This scheme naturally resulted
+in color fringes because a moving object changed its position between the taking of the red and green records. Consequently the
+Kinemacolor process was always unsuitable for scenes having
+rapid action. Another system is to utilize two lenses, or virtually
+two cameras, which make the color records simultaneously. This
+avoids the motion fringes but encounters another type of fringe
+which is due to the fact that the lenses look at the scene from two
+different points of view, introducing a steroscopic separation. In
+order to avoid these fundamental difficulties, the Technicolor
+camera employs the so-called split-beam system, in accordance
+with which the two records are taken simultaneously from the
+same point of view, only a single lens being used. This insures
+that there will be no fringing of any sort.
+For all natural color work it is absolutely essential to employ
+panchromatic negative film. Ordinarily motion picture negative
+is practically insensitive to both red and green light. In a two337
+
+MOTION PICTURE PHOTOGRAPHY
+color process the blue and violet rays, to which the ordinary
+negative is responsive, are not utilized at all. When it was first
+placed on the market, commercial panchromatic negative was of
+very slow speed and was subject to other photographic defects
+such as coarseness of grain, poor characteristic curve, liability
+to halation, etc. Consequently, up to very recently the Technicolor company was obliged to process its own panchromatic negative and at an early date was successful in producing a very
+high speed film having excellent photographic characteristics.
+However, at the present time commercial panchromatic negative
+has been improved so greatly that satisfactory results can be obtained with it. Still, in order to obtain the highest photographic
+speed it must be hypersensitized by bathing in an alkaline solution prior to its use in the camera.
+The Technicolor Camera. In general appearance and mechanical operation the Technicolor camera closely resembles the standard Bell & Howell instrument. It has all of the attachments and
+accessories which are required for any kind of motion picture
+photography, including dissolve mechanisms, lenses of various
+focal length, etc. It differs from the black and white camera in
+certain details of its mechanism, particularly in the fact that the
+film is pulled two picture frames instead of one for each stroke
+of the shuttle. This is to enable the simultaneous recording of
+the red and green images in place of the single image required
+in black and white work. Accordingly, at normal speed, the film
+travels through the camera at double the footage rate for black
+and white. The shuttle mechanism provides pilot pins which accurately fit the perforations when the film is in the taking position. A high degree of precision in manufacture and adjustment
+of this part of the instrument is necessary for good results since
+the registration of the colors depends upon it.
+A further special feature of the Technicolor camera lies in the
+optical system which includes a prism for splitting the beam into
+two portions and filtering the rays so as to form red and green
+images simultaneously on the film. The lenses are of the anastigmat type but are of a special formula to compensate for the
+peculiar optics of the prism system. The entire optical system,
+together with the special mechanical features of the camera are
+protected by Technicolor patents. Technicolor cameras have
+been used over a period of several years under practically all
+
+MOTION PICTURES IN COLOR
+conceivable conditions and have proven to be commercially reliable instruments in the hands of properly trained cameramen.
+Special high speed models are also available for use in slow
+motion photography or the taking of miniatures.
+Exposing the Negative. The majority of requirements which
+apply to black and white camera work are also applicable to the
+use of the Technicolor cameras. The cameraman must know
+his instrument and how to get the set and the action into the field
+of t,he lens in good focus and with the proper distribution of
+light and shade. However, in color work there are naturally
+some new considerations, some of which make new demands on
+the cameraman's judgment, but others of which lighten his load.
+In the earlier days of color photography it was necessary to use
+a much greater amount of light than for black and white but,
+as already noted, this requirement has now been eliminated. However, the color of the light is naturally much more important
+than in black and white. Mercury vapor arcs cannot be employed
+to any appreciable extent. Mazda lamps are very satisfactory for
+close-up work or on sets which are not too deep but, in general,
+the high intensity or sunlight arc gives the best results where
+natural sunlight cannot be employed. It is a general rule that
+the color of the lights should be as close as possible to that of
+the average noon sun.
+In judging the effect which will be obtained on the film in black
+and white work, the cameraman has to allow for the distortion
+of light values for colored objects which occur in the film. Thus
+fed objects will be black and yellow ones will be much darker
+than they appear to the eye, whereas dark blues may appear
+almost white. Make-up and costume must be adjusted accordingly. This requirement is eliminated in natural color photography since the film records the values just as the eye sees them.
+This means that face make-up should not be of the ordinary motion picture or theatrical type but should rather be as natural as
+possible. The Technicolor process does not exaggerate facial defects as does the black and white photography in some cases.
+Another interesting point is that under artificial lighting the violet and ultra-violet rays can be filtered out by the use of yellow
+screens placed over the lamps, thus eliminating the sunburn and
+"Kliegl eye'' troubles which are frequently so distressing to the
+actors.
+
+MOTION PICTURE PHOTOGRAPHY
+Finishing the Negative. Since Technicolor negative is sensitive
+to light of all colors it must be developed in practically complete
+darkness, although it is permissible to use a weak green safety
+light of the Wratten series 3 type. Development is in a metol
+hydroquinone formula by the time and temperature method.
+The rack and tank system is employed and the film dried on a
+drum as usual.
+The finished negative is entirely in black and white but is double
+the length of a corresponding black and white negative. Each
+phase of the action (approximately 16 phases per second) is
+represented by two separate pictures. They are accurately of the
+same size and form so that they will register perfectly when
+superposed, but they differ in that the density of the silver deposit represents the green values of the scene in one case and
+the red values in the other. Corresponding pictures are adjacent
+to each other on the film and are so placed that the foot of the
+red picture adjoins the foot of the green picture ; in other words,
+one of the pictures is upside-down with respect to.the other. The
+registration relationships are symmetrical about the center line between two such corresponding pictures, and are controlled by the
+positions of the pictures with respect to the sprocket holes. Registration is determined in the beginning by the accurate adjustment of the optical system in the camera and from that point
+on is entirely automatic. After being finished a negative can be
+examined by means of a special instrument to determine whether
+or not there is any defect of register, but ordinarily this can be
+dispensed with, since very little trouble is experienced along
+this line.
+The preparation of the negative for printing does not differ in
+any important essential from the corresponding operation in
+black and white work. Of course, the footage is double and it
+is always necessary to make splices in such a manner as not to
+separate the red and green images of a pair. Rush prints in
+full color can be made with practically the same rapidity as in
+black and white and these are viewed by the director in the usual
+manner.
+Technicolor Positive. The first kind of Technicolor positive film
+to be placed on the market had a "double-coated" structure. Each
+side of the celluloid base carried an emulsion image, whereas
+ordinary black and white positive has emulsion on only one side.
+
+MITCHELL PROFESSIONAL MOTION
+PICTURE CAMERA
+
+THE INSTITUTE STANDARD PROFESSIONAL MOTION PICTURE CAMERA
+AS EQUIPPED FOR STUDIO PRODUCTION.
+
+MOTION PICTURES IN COLOR
+This double-coated positive is manufactured by printing- the red
+series of pictures on one film and the green series on another.
+These films are of one-half the thickness of ordinary motion
+picture positive. After printing they are cemented together with
+the sprocket holes in perfect registration and with the emulsion
+sides out, after which the cemented strip is subjected to a special
+development process. This process, instead of producing a black
+and white silver image, yields what is known as a gelatin relief.
+In such a relief the picture is represented by the thickness of the
+emulsion, this being very thin in the highlights and of maximum
+thickness in the heavy shadows with intermediate gradations representing values in-between. After being developed, the film has
+a transparent relief of this sort on each face, one representing
+in its gradations the red values of the scene and the other, in
+perfect register with the first, the green values.
+The next step is to impregnate the gelatin relief with coloring
+material of the proper hue. One side is colored red by a bathing
+process, whereas the other is colored green in a similar manner.
+Subsequently the film is given a coat of waterproof varnish on
+both sides. The result is a film representing the original scene
+in its natural colors.
+This double-coated process is still being used by the Technicolor
+company for rush prints and for print orders which require a
+very small number of copies. The double-coated film gives results
+of remarkable beauty and has proven itself to be highly practical for commercial purposes, its mechanical life being substantially the same as that of black and white positive. However,
+the fact that it differs in structure from the latter subjects it
+to certain objections. A projector in good adjustment will not
+injure either side of a film, but poorly adjusted projectors, which
+are the rule, have a greater tendency to damage the celluloid than
+the emulsion side. A double-coated film is therefore more liable
+to be scratched under these conditions. In the case of a color
+film this may produce a bright streak of red or green. Doublecoated film, in general, shows a greater tendency to warp or
+"cup" under certain weather conditions than does single-coated
+film. It is also slightly thicker than the latter and the two images
+cannot be brought simultaneously into the same focal plane in
+the projector.
+Accordingly, the Technicolor company has perfected a process
+341
+
+MOTION PICTURE PHOTOGRAPHY
+whereby it is now able to manufacture a single-coated 'film in full
+natural color, this film having identical mechanical and structural
+characteristics with black and white, with the exception that in a
+number of respects it is superior to the latter. Technicolor singlecoated film has a coating of gelatin on one side only, the back
+having no coating of any kind. It is of the same thickness as
+standard motion picture positive, both as regards the base and
+the emulsion. Both color-images are located in the single gelatin layer. It is projected in exactly the same manner as black
+and white positive and no special precautions are necessary.
+The special qualifications of Technicolor single-coated positive,
+in addition to color, are as follows. The mechanical strength
+of the film, as tested by the number of times it can be run through
+a projector before the sprocket holes break down, is about 40
+per cent, greater than that of black and white film. This is due
+in part to the fact that it is not subjected to any chemical treatment in the printing process, the latter being entirely mechanical
+or physical. In part its added durability is also attributable to
+the great toughness of the gelatin coating. This coating is entirely free from silver or any other generally opaque material,
+the images being represented in pure transparent color. Accordingly, the gelatin surface shows a high polish, practically identical in appearance with the back. To assist in splicing and threading, a mark is supplied which enables the operator to determine
+the emulsion side of the film without any uncertainty. The
+smoothness of the gelatin coating makes it practically impervious
+to oil, which has so detrimental an effect upon the matte surface
+of ordinary positive. The character of the pigments and the absence of metallic silver make the film almost perfectly transparent to heat rays, so that it can be stopped indefinitely in projectors under conditions where a black and white film would
+catch fire in a few seconds. However, this should not be taken
+to mean that it is good practice to take chances of this sort, at
+least when a nitrocellulose base is employed and especially with
+high intensity or other arc lamps. Nevertheless, it does mean
+that Technicolor positive is far safer in everyday use than is
+black and white. The single-coated positive is normally supplied
+on nitrocellulose base but can be made at a normal increase of
+cost on cellulose acetate, or safety base.
+The Manufacture of Technicolor Single-Coated Positive. As
+342
+
+MOTION PICTURES IN COLOR
+previously indicated, Technicolor single-coated positive is made by
+a photomechanical process. The first step in this process is to
+prepare a pair of so-called matrices. These are made by photographic printing from the original negative, one of the matrices
+being from the red record series of pictures and the other from
+the green record series. A special printer is employed which
+separates the two series in alternation so that all of the red representing images are printed on one matrix strip and all of the
+green ones on another. The matrix strips are made on a special
+positive film and the images are developed by a process similar
+to that employed in making Technicolor double-coated film.
+Each matrix when finished comprises a gelatin relief representing one color aspect of the scene.
+These matrices are then placed in corresponding pairs on special transfer machines where they function in a manner similar to
+a metallic half-tone plate in ordinary printing. They are impregnated with the appropriate coloring materials and pressed
+into contact with a special gelatin-coated blank film containing
+no silver and the color transferred to the latter. Registration is
+maintained automatically throughout the process by means of
+pins entering the perforations. The transfer machine applies the
+two colors one after the other and also, when necessary, an overall tint. When the blank emerges from the transfer machine it
+carries the color pictures in finished form and is ready for projection without any further treatment.
+The Projection of Technicolor Film. As above noted, there are
+no special mechanical precautions which need to be taken in the
+projection of Technicolor film. In threading the projector the
+red mark which will be noted on one side of each frame should
+be towards the operator when the film passes head first through
+the machine. The emulsion side will then be toward the light
+as required. In order to get the most beautiful screen results
+the operator should pay close attention to his focus and to the
+brightness of the screen. To bring out the colors at their best
+a screen brightness of at least ten foot-candles is desirable. A
+greater brightness will do no harm and fair results can be obtained even with a five foot-candle intensity. The color of the
+projection source is also important. The best results will be obtained with an uncored carbon arc, either of the plain or reflector type. The high intensity arc has a tendency to give rather too
+343
+
+MOTION PICTURE PHOTOGRAPHY
+bluish a light but the amber tint which is standard on all Technicolor single-coated positive overcomes this to a large extent.
+Patching and cleaning is done in the same manner as with black
+and white.positive.
+Experimentation continues, but it is directed more now toward
+producing a useable system for the sixteen millimeter amateur
+films than for the theatrical films, due to the highly perfected
+systems now in use. The only probable advances in standard
+color films will be some process which is possible with less expensive equipment than is now used or one which makes use of
+the 3 color process. On the other hand there is a great field for
+experimentation in the amateur field.
+Along with color work, experimentation in stereoscopic motion pictures has occupied the attention of research workers.
+This is one phase of the work which will not, probably, ever become universally used. This is due to an inherent difficulty in
+the presentation of the images. Any form of true stereoscopic
+photography must in some way or other present an individual
+image to each of the two eyes. There is only one way in which
+this can be done in theatrical presentation, and that is by the use
+of some form of individual viewing device for each spectator.
+By this system, stereoscopic motion pictures have already been
+successfully presented to the public, but they have failed to arouse
+popular enthusiasm due to the inconvenience of using the viewing device.
+In this work pairs of images are made, but in this case with
+two lenses placed side by side as in any stereoscopic camera. In
+projection one set of images is projected through a green screen
+and the other through a red screen. In viewing, a lorgnette is
+used which has one red and one green lens. Thus the green image
+will be invisible to the eye covered with the green lens, and only
+the eye looking through the red lens will see this image. In this
+manner the two images while projected in superposition are presented separately to the two eyes.
+The third field of modern experimentation has to do with the
+recording of sound synchronously with the film. This is accomplished in two major ways, first, by recording the sound directly
+upon the film and second by recording the sound upon a phono-
+
+MOTION PICTURES IN COLOR
+graph record. Both methods have been used and both are to a
+greater or less extent successful, but the system which is enjoying the greatest popular favor is that employing the record. This
+is reproduced electrically and as a result the process is fully successful, all artificial timbre being removed.
+Color and stereoscopy have been developed to a high degree
+of success, and further developments in these lines will probably
+not be more than improvements, but the field of sound recording
+is still fully experimental, and there is no way of safely predicting just what will occur in this field. However, in view of
+present developments, we may predict that the natural color film
+with sound will become common if not the universal type of film,
+both in theatres and in the home, while stereoscopic films will
+no doubt remain in the ranks of novelties. There is only one
+more thing for the experimenter to consider at this time and this
+is the transmission of motion pictures by radio. There is little
+reason to believe that direct transmission of the actual scenes
+will be used, due to the difficulty of transporting the delicate
+transmitter, but that this will become popularized in the very
+near future, as a means of sending the motion picture projection
+into the home via radio.
+Everything considered, there is no single field of endeavor
+which, to-day, presents more glorious opportunities to the young
+man or woman, than does motion picture photography.
+345

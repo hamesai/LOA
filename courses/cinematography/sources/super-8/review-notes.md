@@ -1,0 +1,5 @@
+- Sections 1 and 2 (the front matter and Chapter I) were read earlier by opening the files directly and were then recorded by hand. Sections 3 to 6 were served in order by `source_read.py`.
+- The body text is an OCR conversion with many errors, so figures and dates in garbled passages were not used.
+- The report is a 1976 survey written for communicators in developing countries. Its prices, models and distribution formats are historical. What survives for this course is the account of the 8 mm families, the sound arrangements, the reversal film and print route, the film-chain route to television, and the hybrid argument for mixing film and video.
+- Edits applied to the course: module 6 lesson 1 (three kinds of 8 mm, sound eighteen frames ahead and its editing cost, reversal and print routes, editing the camera original, the 16 mm image area, single-frame and intervalometer features, and a new check) and module 7 lesson 3 (film chain and flying-spot scanner).
+- Not applied: the shooting-ratio remark under module 5, which adds nothing the lesson lacks.

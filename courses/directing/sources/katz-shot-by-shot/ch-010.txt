@@ -1,0 +1,948 @@
+Part II
+Elements of the Continuity Style
+
+6 Composing Shots: Spatial Connections
+Shot Size
+As we all know, the universal units of composition are the long shot, the
+medium shot, and the close-up. Though they can be used to describe spaces
+as large as the solar system or as small as the head of a pin, we always
+know approximately how large an area is being framed when these terms
+are used. That’s because the shots are scaled to the subject and related to
+one another proportionately.
+A long shot of the Empire State Building frames all of the building and a
+generous piece of Manhattan; a medium shot of the building would lop off
+some of the lower ﬂoors. Moving in for a close-up, a single window might
+ﬁll the frame. There are no absolute rules in the use of these terms and even
+the terms themselves vary. In Figure 6.1 on page 130, the basic framing
+heights are shown for the human ﬁgure.
+The change of size from shot to shot varies but is determined by the limits
+of identiﬁcation. As long as we recognize that the subject framed in closeups, extreme close-ups, medium shots, and other shot sizes are just portions
+of the wide shot, the change in scale is permissible. Actually, even this
+deﬁnition must take into account the change in editing styles over several
+decades. The move from wide shot to close-up was considered too radical a
+jump for audiences during the ﬁrst ﬁve decades of motion pictures unless a
+medium shot was used in between. Hollywood editors were forbidden to
+juxtapose a wide shot with a close-up lest they confuse the audience as to
+where the close-up was taking place. Today, after several decades of
+familiarity with Hollywood conventions, and decades of television
+audiences easily accept extreme changes in scale. If anything, it is likely
+that the conservative editing rules of the past lagged behind audience
+understanding.
+Visual recognition between shots, however, is only half the strategy of the
+continuity style. Most often, the relationship between shots is one of
+implication or inference. For example, we see a wide shot of a man
+
+approaching a door. This is followed by a cut to an extreme close-up of the
+man’s hand turning the doorknob. Even if the doorknob was too small to
+attract our attention in the wide shot, we expect that it is connected to the
+previous shot since it makes logical sense, even though we could be looking
+at another doorway in a different place and time. Narrative logic and the
+visual connection between shots cooperate to create a sense of continuous
+space. This pair of ideas, cause and effect and spatial recognition, provide
+the organizational basis of the continuity style.
+
+Figure 6.1: Basic framing heights for the human ﬁgure
+
+Long shots, medium shots, and close-ups can describe any subject or
+location but are most often used to describe the human ﬁgure. The terms
+take on special meaning in this connection. Here the change in scale
+between shots is not related by logic or visual recognition alone. Instead,
+framing is determined by conventions of post-Renaissance art, or what are
+generally considered pleasing and balanced compositions.
+The Close-Up
+Television has greatly increased the use of the close-up. To compensate for
+the small size of the screen compared to a movie theater, the close-up is
+used to bring us into closer contact with the action. For dialogue sequences,
+the shoulder-and-head shot has become the predominant framing. Costminded producers like the tighter shots because they are easier to light and
+can be joined to almost any other shot, reducing the amount of coverage
+needed. The preference for the close-up has been carried over to feature
+ﬁlms as more and more ﬁlm directors graduate from television to the big
+screen.
+In ﬁlm, the eyes have it. Jean-Luc Godard once said that the most natural
+cut is the cut on the look. The powerful suggestiveness of this gesture helps
+explain ﬁlm’s love affair with winks, glances, stares, tears, squints, glares,
+and the whole range of language that the eyes command. The eyes are
+perhaps the most expressive feature of the human face, communicating
+silently what the mouth must do largely with words and sounds. A look can
+tell us that an object out of frame is of interest, and it can tell us in which
+direction the object is located. In the same way that the focal length of the
+lens and the angle of the camera can place the viewer in a deﬁnite
+relationship with the subjects on the screen, the eyeline of a subject clearly
+determines spatial relations in the scene space. Viewers are particularly
+sensitive to incongruities in the sight lines between subjects who are
+looking at each other. In most situations, they can easily detect when the
+eye match is even slightly off. The use of lens-axis teleprompters has come
+about largely because audiences are aware when a performer is looking at a
+cue card that is only a few inches off the camera’s optical axis.
+The close-up can bring us into a more intimate relationship with the
+subjects on the screen than we would normally have with anyone but our
+
+closest friends or family. Sometimes this capacity for inspection can be
+overdone, and the close-up becomes a violation of privacy by forcing a
+degree of intimacy that should only be shared by consent. The camera,
+however, does not require consent, particularly if it’s equipped with a
+telephoto lens. Television news cameramen frequently pry into the lives of
+families during moments of grief, using extreme close-ups. Viewers may
+ﬁnd themselves uncomfortable watching scenes that they would normally
+have the tact to turn away from in their daily lives.
+In every culture, there are customs of privacy, physical contact, and
+accepted behavior based on the distances permitted between people in
+various situations. A ﬁlmmaker can use the camera to record these social
+distances in such a way that we react to them as if they were happening
+within our own personal space. Not only can the close-up reveal the
+intimate, it can make us feel as if we are intruding on moments of privacy
+or sharing a moment of vulnerability — as if the person on the screen has
+opened himself up to us. We can be made to feel detachment or an
+emotional involvement with events and subjects on the screen largely
+through the manipulation of space with the lens of the camera.
+Figure 6.2 features a series of eight close-up framings in three aspect ratios:
+Academy aperture, which is the same as 16 mm and television (1.33:1);
+widescreen (1.85:1); and the anamorphic CinemaScope process (2.35:1).
+The images are shown in pairs as they might appear together in a sequence
+because the balance or imbalance of any frame is dependent on the shots
+that come before and after it. In the ﬁrst two frames, the subjects are
+positioned dead center. If you move your eyes over these frames, “reading”
+them as though they were edited, you will see that there is no rhythm in the
+shot change since the eyes remain focused on the center of the screen.
+Compare this with frames 3 and 4. Here the off-center compositions in
+alternate close-ups create a left/right eye motion that is dynamic. This effect
+becomes more pronounced as the width of the screen increases. Here we
+have a good example of what is meant by sequential art, since compositions
+are not judged individually but by how they combine in a sequence.
+Conventions in Western art favor portraits that position the human face
+slightly off-center to avoid disturbing symmetrical compositions. The
+
+customary solution is to leave extra space on the side of the screen the
+subject is looking at and more space at the bottom of the frame than at the
+top. In ﬁlm, the use of off-center compositions becomes more common as
+the screen widens. But don’t let this stand in the way of experimentation.
+
+Figure 6.2
+There is no reason for ﬁlmmakers to accept these limitations if they do not
+suit their sense of design. The following examples illustrate common and
+
+uncommon framing proportions.
+Extreme use of screen width is possible as shown in Figure 6.3, illustrating
+unconventional treatments of portrait composition. Sharply off-center
+framing is possible in any aspect ratio, though the effect becomes more
+pronounced the wider the screen. This type of composition has become
+quite common in television commercials recently, inﬂuenced by print
+graphics in advertising. This has had a subtle inﬂuence on the movies,
+which tend to absorb techniques from the other arts.
+The eyes, mouth, and ears are frequently given extreme close-ups of their
+own, usually to advance some speciﬁc part of the narrative. For example, a
+shot of a woman walking home alone at night on a lonely street might be
+followed by an extreme close-up of her ear, as faint footsteps are heard. A
+similar setup might utilize a close-up of her eyes indicating her fear. These
+are familiar devices, and there are many more ways that you can utilize
+macro close-ups if you begin to experiment. Three versions of extreme and
+macro close-ups are shown in Figure 6.4 on page 136. In all cases, the
+viewpoint was from the front or side of the face favoring the features. This
+is just one more convention that need not limit your individual style.
+Unconventional viewpoints, framing, and shot size can be used to explore
+portraiture through texture, light, and the inﬁnite varieties of form. This
+does not mean that you have to give up traditional methods. They are by no
+means exhausted creatively, and can be as communicative, startling, and
+moving as more experimental techniques.
+
+Figure 6.3
+The Medium Shot
+Before television began emphasizing the use of the close-up and extreme
+close-up, the medium shot was the workhorse for dialogue scenes
+throughout the sound period. Combining valuable qualities of the full shot
+and the close-up, it is still widely employed in television and feature ﬁlms.
+Like the full shot, the medium shot captures an actor’s gestures and body
+language, but is still tight enough to include subtle variations in facial
+expression.
+The medium shot is also the general range in which group shots are
+composed for dialogue scenes. The two-shot, three-shot, four-shot, or ﬁveshot are the typical groupings. With more than ﬁve players in the frame, the
+camera often must pull back into the full-shot range to include everyone if
+the ﬁgures are not signiﬁcantly overlapped. The medium shot shares the
+honors with the close-up for popularity at the present time but only insofar
+as it is used in conjunction with close-ups — not as the primary setup for a
+scene. We will pass over examples of medium shots in this section and
+cover them in depth later in the workshop section of the book.
+
+Figure 6.4: Basic framing heights for the human ﬁgure
+
+The Full Shot
+The full shot as an alternative to the medium or close-up has fallen into
+disuse in the last twenty years, relegated to the function of an establishing
+shot when it is necessary to connect a character and a location in a single
+shot. Filmmakers seem to be reluctant to play a scene wide if a close-up or
+medium shot can be substituted. One of the reasons the full shot is
+underused is that it requires dialogue scenes to be played in long takes. This
+is because the full shot usually frames all the speaking characters in a scene,
+making a cutting pattern of medium and close-up shots unnecessary. If the
+long shot is used with these two tighter framings, the editing pattern
+invariably moves in close and does not return to the full shot. While the
+medium and long shots can encompass the action in a scene without
+resorting to other shots to fulﬁll the narrative, a close-up generally must be
+accompanied by other close-up, medium, or full shots to fulﬁll the narrative
+requirements of a scene.
+One of the full shot’s most attractive qualities is that it allows the actor to
+use body language. This type of physical expression has all but disappeared
+from the movies since the silent period. Again, television and tight-ﬁsted
+producers are to blame since there is nothing as inexpensive to shoot or to
+light as the close-up. This is most clear in the way dance is photographed in
+music videos, which rarely show the full ﬁgure in extended shots.
+Compositionally, the long shot of a single ﬁgure offers many of the same
+opportunities for asymmetrical framing as the close-up. The vertical line of
+the standing ﬁgure easily ﬁts into designs that stress graphic patterns,
+particularly in the wider formats.
+Figure 6.5 on page 138 features two full shots illustrating frame balance.
+Slightly off-center framing is so common today that the more
+conservatively framed centered subject is nearly as powerful as a drastically
+decentered composition.
+The Line of Action
+The general approach in this book is to encourage the development of
+solutions that are adapted to the individual preferences of the ﬁlmmaker.
+Many of the solutions that will be shown are part of recognizable strategies,
+
+but the ﬁlmmaker’s personal vision can at any time overrule systems,
+accepted practice, traditional wisdom, or convention. Having said that, we
+can look at the most basic rule of camera placement that the continuity
+system observes: the line of action.
+The purpose of the line of action is quite simple: It organizes camera angles
+to preserve consistent screen direction and space. It’s also useful for
+organizing the shooting plan. Because the set has to be relit every time the
+camera is moved to a new angle, it makes sense to gang shots sharing a
+similar angle of view together, so that they can be shot at one time. This
+avoids having to light any camera position more than once.
+We can think of the line of action as an imaginary partition running through
+the space in front of the camera. It was originally devised to make sure that
+if multiple angles of a scene were shot, they could be cut together without a
+confusing reversal of left and right screen direction. This way, subjects
+moving through the frame in one shot continue in the same direction in a
+subsequent shot. The line of action is also called the “180-degree rule” or
+the “axis of action,” illustrated in Figure 6.6 on page 139. To maintain
+consistent screen direction of the two people seated at the table, the
+continuity system proposes that an imaginary line of action be drawn
+between them. The direction of the line can be anywhere the ﬁlmmaker
+chooses, but it is usually the line of sight between subjects featured in a
+scene. Once the line is determined, a working space of 180 degrees (the
+gray semicircle) is established. For any scene or sequence, only camera
+positions within the established semicircle are permitted. The result is that
+the screen direction of any shots obtained from one side of the line will be
+consistent with each other. This is illustrated in Figure 6.7, which shows the
+shots obtained with cameras A, B, and C of Figure 6.6. Camera positions
+that are outside the gray working space are said to be across the line or over
+the line. Figure 6.8 shows what happens if we edit shots from both sides of
+the line together, in this case, cameras A and F. The result is that the man is
+looking at the back of the woman’s head.
+
+Figure 6.5: Frame balance
+
+Figure 6.6
+Figure 6.7
+Figure 6.8
+The Triangle System
+
+When the line of action is in use, another convention, the triangle system of
+camera placement, is a shorthand way of describing camera positions on
+one side of the line. The system proposes that all the basic shots possible for
+any subject can be taken from three points within the 180-degree working
+space. Connecting the three points, we have a triangle of variable shape and
+size, depending on the placement of the cameras. Any shot can be joined to
+any other shot in the triangle system of setups. The system includes all the
+basic shot sizes and camera angles used for dialogue scenes in the
+continuity style. The triangle system is employed for all types of situations,
+including single subjects and action scenes. It is used extensively for live
+television programs such as quiz shows, sports programs, and sitcoms. Even
+though three cameras are pictured in the following examples, a single
+camera can be moved to each point along the triangle and the different
+setups obtained individually. This is often the case in feature ﬁlms.
+However, the triangle system lends itself to the multiple camera setup as
+long as extensive staging or camera movement is not required. This would
+create the problem of one camera moving in front of another. There are ﬁve
+basic camera setups that can be obtained within the triangle: Angular
+singles (medium shots or close-ups), master two-shots, over-the-shoulder
+shots, point-of-view singles (medium shots or close-ups), and proﬁle shots.
+In Figure 6.9, camera positions A and C are angular shots of the two
+subjects seated at the table. Position B is a two-shot. The framings
+accompanying each camera position, of course, could be varied, and the
+shot size for cameras A and C can be any size from an extreme close-up to
+a full shot.
+Figure 6.10 is the second triangle setup for over-the-shoulder shots.
+Cameras A and C are moved into the over-the-shoulder position. Camera B
+always obtains the two-shot as in Figure 6.9 and so is not included in the
+subsequent examples. Variations are only obtained with the outside or wing
+camera positions.
+
+Figure 6.9
+OVER-THE-SHOULDER SHOTS
+
+Figure 6.10
+In the setup pictured in Figure 6.11, cameras A and C have been moved just
+inside the line of action or, more appropriately, the line of sight of the
+subjects. Camera positions A and C are now used to obtain close-ups from
+each subject’s point of view. In this case, the subject not being
+photographed would be moved out of the way to place the camera in
+position. This is indicated by the broken line.
+POINT OF VIEW CLOSE-UPS
+
+Figure 6.11
+Figure 6.12 shows the last possible setup within the triangle method proﬁle
+shots using cameras A and C. Naturally, the exact angle of the shot,
+composition, and shot size are inﬁnitely variable within the triangle as long
+as the line of action is not violated.
+PROFILE SHOTS
+
+Figure 6.12
+Establishing a New Line of Action With a New Sight Line
+The only time the camera is permitted to cross the line of action is when a
+new line is established. One way to do this is shown in Figure 6.13. In this
+example, the old line is established between the couple seated at the table.
+A second man approaches the table and the seated man turns his attention to
+him. This new line of sight establishes a new line of action and a
+corresponding 180-degree working space for the camera. This is indicated
+by the gray semicircle. The establishment of a new line is usually set up
+with a shot of a person who turns his attention to a new area or person
+within the frame. This pivot shot joins the two lines of action.
+
+Once the new line of action has been set up, the camera can move across
+the old line of action anywhere within the new working space as long as the
+sight line remains with the two men. You will notice that this space also
+includes the woman. Even though it is permissible under the 180-degree
+rule, a camera will not be placed in quadrant X to photograph the woman.
+The next time she is seen in a shot, the camera will be located according to
+the old line of action. This is called a reestablishing shot. Conventional
+wisdom advocates reusing lines of action and the corresponding camera
+setups so that a consistent sense of space is reinforced through repetition.
+Once the basic editing pattern (and shot geography) have been established,
+a return to an old line of action does not have to be motivated by the pivot
+shot since the viewer has a general sense of the spatial relationships
+between actors.
+Figure 6.13
+The business of changing lines is considerably less complicated in practice.
+The shooting plan is arranged so that all the shots from a given angle are
+consolidated even if dialogue is shot out of order. Later, the shots are edited
+into the proper dramatic sequence. Onscreen, the changing line of action
+may appear to follow a far more complex scheme than was actually the
+case.
+
+Establishing a New Line When a Player Crosses the Line
+A second method of establishing a new line is to have one of the players in
+a scene cross his own line of action. This is shown in Figure 6.14 on page
+144. As before, the line of action is between the seated couple; the working
+space for the camera is on the near side of the line A. In Step One, the actor
+gets up from the table and moves to a new position over the line into space
+B. As soon as the man reestablishes eye contact with the woman in Step
+Two, the new line of action is established. The new line overrules the old
+line, which is no longer in effect. Again, a working space of 180 degrees is
+created. The only requirement for this strategy is that the actor’s relocation
+must be seen clearly in a shot that permits the viewer to reorient himself.
+
+Figure 6.14
+Another factor to consider when establishing any new line is which side to
+use for the camera. Figure 6.15 on page 145 illustrates an alternative setup
+to the one in Figure 6.14. This time the working space for the camera is on
+the opposite side of the line. Either choice is permissible as long as the new
+space agrees with the pivot shot taken from the previous line of action. This
+is shown in Figure 6.16. Part One shows the line of action and
+
+corresponding semicircular working space for the camera. The line
+bisecting the semicircle is the new line of action that will be established
+when the man moves to the standing position to face the woman. Cameras
+A and B represent the choices for the pivot shot used to record the man as
+he moves to the new position. Part Two of the diagram shows the 180degree working space that you would use if camera position B were used
+for the pivot shot. Part Three shows the 180-degree working space if
+camera position A were used for the pivot shot.
+As a rule, the working area chosen for each new line of action keeps the
+camera in the center of the group when shooting dialogue situations at a
+table or in a conﬁned space.
+Figure 6.15
+
+Figure 6.16
+Moving the Camera Across the Line
+Not only can a player cross the line and establish a new one, but the camera
+can pan, dolly, or make a crane move to a new space and a new line of
+action. This is easily accomplished as long as the camera movement is
+uninterrupted. In this situation, an eyeline does not have to be established
+and the camera can move from one side of the line of sight between two
+players to the other without confusion. Figure 6.17 shows one version of
+this strategy with a curved camera path (black dotted line) crossing the line
+of action.
+
+Figure 6.17
+Cutaways and Bridge Shots
+Another way to cross the line to another part of the scene is to interrupt the
+geography of a sequence with a shot that is clearly related to the action, but
+not the geography of the scene. For instance, let’s say that we have
+established the line of action in a scene in the classroom of a school. We
+want to cross the line, but none of the strategies we have looked at in
+previous examples will work within the action of the scene. In this case, we
+photograph a close-up of a student’s notebook or other pertinent detail. This
+cutaway serves the same purpose as the pivot shot. When we return to the
+main action, the camera can be moved over the line and a new line
+established. This solution is generally used as a quick ﬁx in the editing
+process when problems of continuity arise.
+The Line of Action for Moving Subjects and Action
+In my opinion, the line of action is most useful when used to organize the
+photography of multiple-player dialogue sequences. Though screen
+direction would seem to be crucial to understanding the relationship of fastmoving subjects — for instance, cars in a chase sequence — unquestioning
+observance of the line of action may actually stand in the way of more
+
+interesting arrangements of shots. For one thing, continuity editing is not
+the only way of organizing ﬁlm images: Other methods, such as kinetic or
+analytical editing, may be in conﬂict with strict continuity and yet provide
+better solutions to creative problems. For another, today’s viewers are so
+visually sophisticated that they are able to “read” unconventional editing
+patterns with relative ease. Be aware that more dynamic results may be
+obtained in some sequences if the line is crossed and screen direction is
+reversed. Later we’ll be looking at other types of editing more closely, but
+for now, as we continue to explore the line of action, keep in mind that there
+are alternative ways of organizing shots.
+
+Figure 6.18: Line of action follows direction of motion.
+Action Sequences
+In action sequences, there is frequently no line of sight to establish the line
+of action. In this case, the line of action follows the dominant motions of
+the subject of the shot. If one car is pursuing another, the line is the path of
+the cars, as shown in Figure 6.18. If the two cars are alongside each other,
+an additional line of action can be established between the cars. I call this
+the implied sight line because even when the drivers of the cars are not
+prominent in the shot, the cars become the symbols of the drivers and their
+line of sight. This situation is peculiar to cars, boats, planes, or any other
+conveyance that has a driver. Both lines are shown in Figure 6.19. Shots
+photographed from both sides of the line of motion (camera positions A, C
+and B, D) will result in a reversal of screen direction when cut together, as
+shown in the accompanying storyboard panels. The implied sight line is a
+special case and only overrides the line of motion temporarily. Otherwise,
+the line of motion is the prevailing rule. While this may seem like the type
+of situation that the 180-degree rule was devised to prevent, it is actually a
+common editing pattern even in dialogue scenes where there is a line of
+motion and an implied sight line.
+This is the case in The Godfather Part II when the young Vito Corleone is
+driving a small truck along crowded New York streets. Fanucci, the local
+crime lord, is seated next to Vito, and they have a conversation as the car
+moves along. Two tracking shots are used, one on each side of the car,
+framing a good deal of the car and the moving background. Cut together,
+the shots form a pair of very wide over-the-shoulder shots. Each time there
+is a cut during the conversation, the background reverses direction. The
+abruptness of the cut could have been softened if the shots were tighter, so
+that Vito and Fanucci ﬁlled the frame. As it turns out, the shot change is not
+bothersome, and so stands as an example of the latitude possible within the
+180-degree rule.
+
+Figure 6.19, Part 1: Two possible lines of action.
+
+Figure 6.19, Part 2
+Crossing the Line in Action Sequences
+The strategies for “properly” crossing the line in nondialogue situations are
+essentially the same as those illustrated for dialogue scenes, beginning with
+Figure 6.13, page 143. The only difference is that the principal line of
+motion is substituted for the sight line. To recap, there are three basic ways
+to establish a new line of action/motion:
+1) A subject (car, horse, person, etc.) can cross the line, establishing a
+new one by the direction of his new line of motion.
+2) The camera can cross the line either following a subject to a new
+scene space or merely traveling for graphic variety to a new
+viewpoint.
+
+3) A new subject can enter the frame and become the dominant line of
+motion in contrast to the ﬁrst. This is analogous to the situation in
+Figure 6.13 when a new character entered the scene establishing a
+new line of sight.
+Crossing the Line While on the Line
+The closer the camera is to the line of action, the more difﬁcult it is to
+detect when the camera has crossed the line. In Figure 6.20, camera
+positions A and B are on the line of action, so when they are edited together
+there is a reversal of screen direction. This type of sequence would probably
+have been avoided 60 years ago; but today, audiences have no problem
+understanding the geography of the scene space in this editing pattern. This
+reversal is somewhat more startling than is sometimes the case when
+shooting on the line since the subject is in proﬁle. When the subject’s sight
+line is the same as the line of action, we get front and back views, which
+help the viewer differentiate the shots.
+When actually ﬁlming, it’s rarely necessary to go through elaborate staging
+and logistical analysis to ﬁnd a way of establishing a new line of action. My
+basic belief is that if the ﬁlmmaker has a solid understanding of cinematic
+geography, has a good overview of the scene, has kept thorough notes on
+what he is going to shoot and has already shot, then he will probably not
+encounter any major difﬁculties with continuity. Even so, on most ﬁlm
+shoots there’s a script supervisor keeping track of continuity.
+Conclusion
+The 180-degree rule is only a rule if you accept it. My own feeling is that
+many of its assumptions are overstated. Audiences have turned out to be far
+more astute in understanding the spatial relationships in ﬁlms than they are
+generally given credit for. Directors like Ozu, Bresson, and Dreyer
+developed narrative techniques that frequently violate the conventions of
+continuity ﬁlmmaking to achieve their aims. While demanding in other
+respects, the viewer is not confused by their visual styles. Unlike Godard
+and the radical ﬁlm movement, these directors were not reacting against the
+continuity style, and their visual solutions to thematic concerns are more
+varied and particular than the often-mannered style of the left.
+
+Figure 6.20, Part 1: The line of action. When edited together, shots
+obtained with cameras A and B reverse screen direction.
+
+Figure 6.20, Part 2: The line of action. Any of the camera positions shown
+above can be edited together without disorienting the viewer.
+
+7 Editing: Temporal Connections
+In 1920, the Soviet ﬁlmmaker and theorist Lev Kuleshov performed a now
+famous experiment demonstrating that the meaning of shots in sequence
+can be created entirely through editing. Kuleshov used a close-up shot of
+the Russian actor Moszhukhin’s expressionless face as a reaction shot in
+three different sequences. The actor is seen “reacting” to a bowl of soup, a
+woman in a cofﬁn, and a child playing with a toy bear. Audiences viewing
+the scenes marveled at Moszhukhin’s sensitive performance in each
+situation, though in every instance it was the same close-up. The logic
+driving our understanding here is cause and effect.
+When we speak of storytelling logic, we are actually referring to the
+structure of shots, sequences, and scenes. Structure controls the order in
+which the story information is given to the viewer. It is as important to the
+storytelling process as the actual information being presented. Since
+structure in ﬁlms can be presented in a storyboard in ways that a screenplay
+cannot convey, the visualization process can be considered part of the
+writing and, ultimately, the editing process.
+The Narrative Impulse
+Novelist E.M. Forster’s often-quoted deﬁnition of plot is a good place to
+begin understanding the kind of structural logic that motivates editing
+choices. Forster began by describing a series of events that were not a plot:
+“The King died and then the Queen died.” But, as Forster observed, if we
+say, “The King died and the Queen died of grief,” we have described a plot
+because there is a causal connection.
+In the course of any story, this cause-and-effect relationship is the
+underlying scheme that involves the reader. It does this by asking the reader
+to become involved in making the logical connections between events.
+Forster’s example is simpliﬁed to make a point, and doesn’t show us how
+an author might reveal the relationship between the King and Queen. For
+instance, in the early chapters the Queen might be portrayed as indifferent
+to the King’s death. As the story progresses, however, the author might
+
+reveal small details that would explain that the Queen, having assumed the
+throne takes care not to reveal her feelings for fear of being seen as weak by
+her subjects. Or we might learn in chapter one that the Queen has died and
+not discover until the last page of the story that the cause of her illness was
+the King’s death. In both cases, the reader is provoked into speculation by
+the order and manner in which the plot is revealed even though the same
+basic events are being related in each version of the story.
+In ﬁction, cause-and-effect is frequently set up as a question-and-answer
+scheme that encourages the reader’s participation. The cliffhanger ending in
+a serialized story, where the answer to the question of what will happen
+next is withheld to create suspense, is an example of the most exaggerated
+exploitation of this device.
+Stories that use a question-and-answer strategy may be set up in many
+ways. A question may be answered through the accumulation of detail over
+several dozen pages or it might be answered succinctly shortly after it has
+been posed. In fact, the question-and-answer presentation of information
+usually occurs on every page of a story operating on several levels
+simultaneously. This is as true for a screenplay or ﬁlm as it is for a novel or
+short story. Continuity editing is based on these types of question-andanswer strategies, though we usually speak of them as connections. Listed
+below are the three most basic types of connections found in continuity
+editing:
+Temporal connections: We cut from a man dropping his drinking glass
+in one shot to the glass breaking on the ﬂoor in the second shot.
+Spatial connections: We cut from a wide shot of the White House to a
+recognizable detail of the White House in a closer shot — for example,
+the capitol dome.
+Logical connections: We cut from a wide shot of the White House to a
+shot of the President seated in an ofﬁce. No temporal or spatial
+connection is necessary in this combination. If we recognize the White
+House and we recognize the President, then we make the logical
+connection that he’s seated in an ofﬁce in the White House, even though
+
+there is no actual information presented to tell us the President is in the
+White House. It’s merely implied.
+These types of connections create the illusion of a real, physical world from
+fragmentary images and sounds. The previous examples mainly show how
+to establish a convincing version of the natural world, but editing
+connections can also can be used to shape the plot and dramatic content as
+well.
+Narrative Motion
+To advance the narrative it is necessary not only to ask questions but to set
+up expectations. For instance, in the example of the two shots used to show
+the man dropping his drinking glass, questions and answers are only used to
+depict action. If, however, we know that one of the drinks at the party
+contains poison, we will be provoked into asking all sorts of who, what,
+when, where, and why questions about the poison. Since we bring all sorts
+of knowledge and experience to any story we read or watch, we will
+speculate about possible answers to all the questions raised. Nearly all
+editing strategies in narrative ﬁlm are devised to set up a framework of
+expectations in a series of shots. The result is narrative motion.
+This way of arranging shots is fundamental in ﬁlm editing. Even dialectical
+montage, which Soviet ﬁlmmaker Sergei Eisenstein felt was an alternative
+to cause-and-effect editing, exploited narrative motion by setting up
+expectations and asking questions. In Eisenstein’s dialectical shot pattern of
+thesis-antithesis-synthesis, the ﬁrst two shots ask the question: “What is the
+connection between these ideas?” The answer, supplied by Eisenstein in
+shot three, is synthesis. A new idea from the combination of two previous
+ideas. In this analysis, Soviet montage and Hollywood continuity cutting
+are not polar opposites but variations of the same principle of question-andanswer strategies.
+Q & A Patterns
+The simplest question-and-answer editing pattern requires only two shots
+— for example, a shot of a person looking offscreen followed by a shot of
+the object the person is observing, typically called the “cut on the look.”
+Patterns are not limited by length and may require dozens of shots to
+
+complete a question-and-answer cycle. Or, the patterns can be varied by
+changing the order of the shots. Though we do not speak of their
+storytelling in this way, much of what we appreciate in the ﬁlms of directors
+like Buñuel, Hitchcock, Godard, Welles, and Truffaut are the ways in which
+they develop question-and-answer patterns that engage the viewer.
+Context
+The meaning of any given Q and A pattern can be further extended or
+modiﬁed by changing the context that frames it. For instance, in the
+Kuleshov experiment, our understanding of the man’s reaction to the soup,
+cofﬁn, and child is framed by our assumption that the man is sincerely
+moved in each scene. If a new scene is added establishing that he is faking
+his responses, then we will interpret the original sequences differently.
+While this may seem like rudimentary plotting, the manipulation of these
+types of narrative elements was crucial to the way Alfred Hitchcock created
+suspense or Buster Keaton constructed a gag.
+Figure 7.1: Question-and-answer relationship between shots links them
+into an overlapping chain.
+Using the Patterns
+For me, the main concern for the visualizer is not the pictorial elements of a
+shot or sequence, but the structure of the sequence — or, to put it another
+way, what the viewer knows and when. As it turns out, interesting
+compositional ideas are usually the result of narrative invention rather than
+daring pictorial experimentation.
+The ﬁrst series of examples illustrates how the narrative context and
+question-and-answer pattern determine how we read a scene.
+Example One
+
+Narrative context: Our scene takes place in the woods on a summer day.
+Laura, a teenager, is looking for her older brother Tom. At this point in the
+story, we have not yet seen Tom and so we do now know what he looks
+like.
+Shot A: Laura enters the woods.
+Question: “Where is Tom?”
+Shot B: Laura stops short a few yards from a clearing.
+New Question: “What has she found?”
+Shot C: Tom and a girl lying naked on a blanket in a clearing.
+Answer: “Laura has found her brother.”
+This is a straightforward question-and-answer editing pattern, and the
+viewer can easily anticipate the outcome. If, in the next example, we change
+the context slightly so that we know what Tom looks like, then shot C
+becomes an answer to shot A and simultaneously raises a new question.
+Example Two
+Shot A: Laura enters the woods.
+Question: “Where is Tom?”
+Shot C: Tom and a girl lying naked on a blanket in a clearing.
+
+Answer: “Tom is here.”
+New Question: “Will Laura ﬁnd Tom?”
+Shot B: Laura stops short a few yards from the clearing.
+Answer: “Laura has found Tom.”
+Now, if we were to prolong the time before Laura’s arrival in shot B, the
+viewer would share a secret with the ﬁlmmaker by knowing that Tom is
+nearby in a compromising situation. This editing pattern places an answer
+before the question, thereby creating suspense. We can do this by changing
+the order of the shots and adjusting the context.
+Example Three
+Let’s change thee narrative context again. This time we know that Tom’s
+sister is looking for him. However, we have not seen her in the story at this
+point and do not know what she looks like. The context, set in a previous
+scene, leaves Tom’s whereabouts unknown. As the scene opens, we receive
+our ﬁrst answer.
+Shot C: Tom and a girl lying naked on a blanket in a clearing.
+Answer: “Tom is here.”
+Shot A: A girl enters the woods.
+Question: “Is this Laura?”
+
+Shot B: Laura stops short a few yards from the clearing.
+Answer: “This is Laura.”
+By revealing Tom in a compromising situation in the opening shot, a
+suspenseful situation is established for the remainder of the scene. When
+Laura enters the woods in the second shot, the fuse is lit, and we know that
+a potentially embarrassing meeting is possible. Hitchcock frequently sets up
+a scene this way by placing the audience in a privileged (and
+uncomfortable) position by providing them with information that the
+protagonist desperately needs but cannot obtain. A further embellishment of
+the same idea might undermine our expectations by letting Laura ﬁnd other
+couples making love in the woods before discovering Tom. These earlier
+encounters would be designed to momentarily encourage us to believe that
+Laura has found Tom before revealing to us that the couples are strangers to
+Laura. This would make us unsure of our ability to second-guess the
+narrative and more susceptible to the surprise of the actual meeting. In
+screenwriting, this is called misdirection. It’s a strategy that deliberately
+misleads the audience in the interest of suspense.
+In addition to the narrative context created by the ﬁlmmaker, the audience
+brings certain assumptions to their understanding of any scene that the
+ﬁlmmaker uses. These assumptions might include popularly held notions of
+
+morality or familiarity with storytelling conventions. The ﬁlmmaker can
+play with these assumptions by reinforcing or subverting them.
+Hitchcock did this rather perversely in Psycho by killing off the person that
+for the ﬁrst third of the ﬁlm the audience believes is the protagonist. This
+was completely unexpected, breaking all the rules of conventional narrative.
+The result is that the audience feels completely abandoned, as indeed they
+were, by any kind of moral reason in the ﬁctional world they are watching.
+The point of these examples is this: Editing patterns and narrative context
+are used to keep the viewer engaged in a perpetual state of guessing at both
+conscious and unconscious levels.
+More Q and A Variations
+In addition to altering the order of question-and-answer patterns, the rhythm
+and timing of the patterns can be varied by withholding some or all of
+expected narrative information for a few shots or for several scenes. It is
+also possible to have more than one question or answer raised within a
+single shot or combined within a shot. Using a mini-noir scenario, we can
+look at a few examples:
+• A question can be raised in one shot and answered several shots later
+rather than in the following shot.
+Sequence A
+In this case, the look in the ﬁrst shot would ordinarily be answered by a shot
+of the gun. However, the answer has been postponed while shots 2 and 3
+show the man turning on the light.
+• An answer can be given in a shot and the question raised later.
+Sequence B
+
+In this version, the cut on the look has been reversed so that we see the
+object of attention before the look.
+• A question can be raised and elaborated on in a series of shots before
+being answered in a single shot or in a series of shots.
+Sequence C
+The questions in these shots, of course, are Who is the person coming
+through the door, and why?The partial answer is that it is a man, and in
+frame 3, we see that he has one ﬁnger missing. In frame 4, we learn that he
+is there to ﬁnd the gun.
+• There can be more than one question raised in a shot or shots.
+Consequently, more than one answer can be given in a shot or shots.
+Sequence D
+In frame 1 two questions are raised: Who is coming through the door, and
+whose hand emerges from behind the door? When the person enters the
+room in frame 2, we receive a partial answer, learning that the person is a
+man. But frame 2 also raises the question of the signiﬁcance of the pool of
+black ink on the ﬂoor. In frame 3, the man puts his hand on the sheet of
+
+paper on the table. This answers the question of the man’s identity since we
+now know it is the man with the missing ﬁnger, but a new question is
+raised: Why has part of the letter been carefully removed? Finally, in frame
+3, we learn that the gun is on the ﬂoor. However, a new question is raised:
+Who is the woman standing over the gun?
+Compared with the previous examples, this last series includes far more
+information in the same number of shots. This is an exaggeration of Q and
+A patterns, but the subtle use of these same strategies was exploited by
+Bergman, Kurosawa, Dreyer, and many other ﬁlmmakers to shape
+psychological ﬁction and implicate the viewer in the moral dilemmas they
+presented.
+If we try to imagine a graphic representation of the question-and-answer
+relationships we have been looking at, the shots do not appear connected
+end-to-end as the editor arranges them into a sequence, but rather they
+resemble a series of overlapping panels — like a deck of cards that has been
+fanned out. Figure 7.1 on page 155 shows the narrative relationship
+between shots in a series. Each is connected to the next by some cause-andeffect relationship. Some shots are more prominent narratively than others,
+while others remain in the background without answering questions or
+raising new ones, simply supporting existing information with more detail.
+The Limits of Clarity
+Because question-and-answer storytelling techniques frequently relate
+information in a roundabout way, this indirectness may appear confusing to
+the uninitiated when described in a screenplay, shot list, or storyboard.
+Screenwriters, directors, and editors may be encouraged to avoid unusual Q
+and A patterns because it is mistakenly believed that the results will be
+clearer to an audience. An example of this is the classic establishing shot at
+the opening of a scene. For instance, a scene ends as we learn that an actress
+is on her way to the theater to replace the ailing lead. In the opening shot of
+the following scene, we see the theater. This familiar pattern merely shows
+us what we already expect (the actress is going to the theater) and does little
+to raise expectations or contribute to narrative motion. If, however, the
+introduction of the theater is composed of separate shots that raise
+questions, then the viewer is engaged in connecting these pieces to form a
+
+meaningful idea. Consider this sequence of shots as a way of introducing
+the theater location:
+A CU of a few crumpled theater programs on the ground.
++ A CU of stage ﬂats in a garbage dumpster in an alleyway outside the
+theater.
++ A CU of an empty marquee with most of the letters taken down.
+= A closed show.
+This is a storytelling alternative to an establishing shot showing the front of
+a theater with a banner across the lobby doors with the word “closed”
+printed across it in big letters. Both versions are familiar strategies to show
+someone arriving at the theater, and the lesson is not the speciﬁc solution,
+but rather the overall notion that storytelling should engage the viewer at
+every point.
+As narrative editing patterns become more complex and syncopated, it is
+increasingly difﬁcult to execute them without considerable planning. As we
+have seen, challenging patterns often mean that questions and answers
+overlap from shot to shot. This precise interrelationship between shots tends
+to limit the cutting options to a carefully designed plan. On the other hand,
+the cutting options that are eliminated are nearly always stock solutions. In
+a sense, business-as-usual editing strategies are easily interchangeable
+precisely because they lack the connective relationships of complex
+question-and-answer strategies. This brings us to the subject of coverage of
+action.
+Camera Cutting vs. Coverage
+Theoretically, a fully developed storyboard can show a director all the shots
+he needs for a scene. If the director and cinematographer shoot the boards
+exactly as they appear on paper, even the lengths of shots can be estimated.
+Later, the editor only has to trim shots here and there to make them all ﬁt
+smoothly together. This method of shooting is called cutting in the camera
+and presupposes a perfect script, perfect storyboard, and the perfect
+execution of each shot. Optimism may be a virtue, but to disregard the
+things that can go wrong in ﬁlmmaking — and they are many — is
+foolhardy. Cutting in the camera is like working on a high wire without a
+
+net. Risky, yes, but Spielberg, Hitchcock, and John Ford all did this to
+eliminate editing options that the studio heads might use to alter their work.
+The alternative view supposes that perfection is unobtainable and, therefore,
+not worth pursuing in the ﬁrst place. Directors who believe this, and who
+are unsure of how to visualize, shoot sequences by resorting to a
+programmed formula of camera setups. This system, usually based on the
+triangle system of camera placement, is called coverage. It employs several
+camera options for every action, ensuring that a logical sequence can be cut
+together in the editing process with the maximum number of options. A
+formulaic selection of wide, medium, and close-up shots is usually
+sufﬁcient for a basic rendition of any scene and places a great deal of
+emphasis on the editor’s contribution. While coverage is an extremely safe
+way to shoot, it is also uninspired, because visual strategies designed for the
+speciﬁc needs of a scene are discouraged unless all the coverage shots have
+been obtained ﬁrst. Unfortunately, there is often only enough time within
+the shooting schedule for coverage, with the result that many interesting
+visual approaches are never attempted.
+Each method, camera cutting and coverage, has advantages and
+disadvantages and is rarely used exclusively in feature ﬁlmmaking. For this
+reason, “getting coverage” can refer not only to a system of camera
+placement but also to shooting extra backup shots (in addition to those
+storyboarded) if time permits or if the director has gambled on an unusual
+approach to a scene. Once a set is lit and blocked and the essential shots
+needed to convey the story have been photographed, the attitude of director
+and cinematographer is generally: “We’re here, so we might as well get
+some backup shots just in case.” Any ﬁlmmaker will know how practical
+this is, since moving the camera to pick up extra angles is fairly rapid in
+comparison with the time it takes to light a set and block a scene. Once the
+technical and dramatic needs of a scene are set, directors are often tempted
+to get as many shots as possible before tearing down lights and moving on
+to the next scene. It’s the same even when using a storyboard, and just how
+many extra shots are ﬁlmed depends on the conﬁdence and experience of
+the director. And ﬁnally, there is the enthusiasm factor. Many directors just
+like to take pictures. Even after all the necessary shots are in the can, if the
+
+weather is right or the lighting and set are great, it can be very hard to call it
+a wrap.
+One of the more useful aspects of coverage is that action is played out in
+full for most setups even if the director expects to only use a small portion
+of a particular take. This is most useful when ﬁlming dialogue. For instance,
+a scene consisting of a father speaking to his children is storyboarded so
+that the father does all the talking. In the storyboards, the father is pictured
+in a three-shot that dollies past the kids and ends up in a close-up on Dad.
+The entire scene is played in one long take. Though everyone on the
+creative team might agree that this is the way the scene should be
+photographed, it would be unwise to rely on this one shot and not get
+reaction shots of the children at the same time. The director would then be
+covered in case there is a problem with the tracking shot.
+Now let’s suppose that instead of using the long dolly shot indicated in the
+storyboard, the director elects to use camera coverage instead. He would
+probably shoot a medium shot and close-up of the father and the same
+setups of the kids. That would be six shots. He would probably also shoot a
+three-shot OTS of the kids and a reverse OTS of Dad. That would be a total
+of eight setups. The amount of time it would take to light and photograph
+all these shots could easily mean that the dolly shot would have to be
+sacriﬁced. That is the practical choice between coverage and camera
+cutting.
+It should be clear from this example that the balance between the two
+methods depends on the situation. Some scenes are obviously easier to ﬁlm
+than others for dramatic or technical reasons. Sometimes it’s possible to get
+considerable coverage and complex dolly moves or other time-consuming
+setups. Be assured, however, that many of the shots will not be used in the
+edited version. Part of learning your craft as a visualizer is having a good
+sense of what will work before the camera rolls. All directors leave a
+margin for error and cover themselves, but knowing what works in advance
+translates into a high average of usable shots. The payoff is not the money
+saved by shooting fewer setups, but the extra time that can be used to take
+greater artistic chances with more ambitious staging, shots, and
+performances.
+
+Composing Action for Editing
+So far, this chapter has focused on editing for the director, stressing
+storytelling and narrative motion. A full discussion of editing techniques for
+the ﬁlm editor as well as editing room procedures can be found in several
+excellent books listed in the recommended reading section in the back of
+this book. However, a brief overview of these techniques is of value to any
+ﬁlmmaker visualizing a sequence.
+Cutting On Movement
+Like the line of action, cutting on movement or action is one of the two
+main strategies of the continuity style to create the illusion of a continuous
+real world on the screen.
+As mentioned at the beginning of the chapter, edit points are “placed” in the
+shot or at least anticipated by the director in the staging of action. There are
+three ways in which an edit can be made to preserve the continuity of action
+when two or more views of a subject are being combined. Suppose we have
+a shot of a boy running across the front lawn of his home and jumping over
+a hedge onto the sidewalk, as shown in Figure 7.2. The ﬁrst shot runs the
+entire length of the action. Now we decide to cut to a new angle somewhere
+into the ﬁrst shot. Here are the three options: 1) We can cut to the new shot
+at the point where the boy reaches the hedge and begins to jump. 2) We can
+cut to the new shot while the boy is in midjump. 3) We can cut to the new
+shot after he lands on the ground.
+
+Figure 7.2: Cutting ranges for actions.
+Figure 7.3
+These are all acceptable edit points, but the common practice in the
+continuity style would locate the cut somewhere into the action rather than
+before or after the boy has left the ground. This tends to hide the cut and
+
+make the transition to a new shot invisible. The exact point of the cut is
+dependent on the subject and the editor’s sense of movement.
+Cutting on the action is found in virtually all types of sequences whether the
+subject of the shot is lifting a drink to his or her lips or merely turning his
+head or moving his eyes. Filmmakers mindful of this essential editing
+strategy will stage action so that it will overlap an anticipated edit point
+between camera angles.
+Exits and Entrances
+When the subject of a shot moves into or out of a frame it is common
+practice to make the cut while the subject is still partially within the frame.
+Figure 7.3 shows the position of a subject in an outgoing and an incoming
+shot. The effect onscreen is to make the cut smoother and to speed up the
+ﬂow of action.
+Clearing the Frame
+This is an alternative strategy to cutting on movement when joining
+different angles of the same subject. Instead of cutting while the subject is
+within the frame, the subject is allowed to exit the frame before the cut to a
+new shot is made. It is customary in this strategy to hold on the empty
+frame of the outgoing shot for a moment. Figure 7.4 shows an example of
+this strategy. In the outgoing shot birds ﬂy into the frame, which gives us
+action to view while holding the clear frame for a minimum of 1–2 seconds
+at the end of the shot (in our diagram the last frame is symbolic of what
+would be 24 or more actually ﬁlm frames).
+
+Figure 7.4
+There are several options for cutting to the incoming shot after clearing the
+frame, depending on how long the clear frame is held in the outgoing shot.
+One option is for the incoming shot (A) to open without the subject in the
+frame. This opening can vary in length depending on the action in the shot
+before the main action arrives. If we open on a busy park or a trickling
+stream in the woods, the opening serves the purpose of an establishing shot
+and could be held for several seconds. A second option is for the incoming
+shot (B) to open with the subject already in the frame. This is not a common
+practice in the continuity style since it is somewhat abrupt. A third
+
+alternative would be to cut on the subject partially in frame, as shown in the
+previous ﬁgure (7.3).
+Figure 7.5
+Clearing the frame can be looked at in two ways. First, it is a method for
+joining shots of the same subject in different backgrounds. In this case, it
+serves a function similar to that of the dissolve and indicates a passage of
+time. The second use for clearing the frame is as a substitute for the cut on
+action so that an ingoing shot and outgoing shot represent continuous time.
+In general, clearing the frame is an easy out for directors who are timid
+about preserving continuity, since it is almost impossible to make a
+continuity mistake with this technique. In fact, it is such a ﬂexible cut that it
+can be used to join shots on opposite sides of the line of action.
+One last strategy is shown in Figure 7.5. In this version, the outgoing shot
+ends with the subject clearly within the frame. The incoming shot begins
+before the subject appears and holds on a clear frame for at least a second
+
+before the subject enters (again the clear frame in the diagram is symbolic
+of many more clear frames).
+Editing and Visualization
+One of the values of knowing conventional editing practices is that it gives
+the ﬁlmmaker a point of departure when he is visualizing. Staging, in
+particular, is made easier by an awareness of the types of movement that
+provide opportunities for cutting. In any given scene, the ﬁlmmaker will
+visualize how long certain actions should be viewed before moving to
+another shot. Typically, action is shot so that the beginning and end of a
+single shot of the action continues past the cutting point. Everything is shot
+so that the action overlaps. This gives the editor the ability to ﬁnd the best
+edit point in the action. Another strategy is to create clear actions for an
+actor such as slamming his ﬁst on a table, sitting down or getting up,
+scratching his nose, or drinking from a glass to create strong cutting points.
+This may sound far more mechanical than it really is. If these rules sound
+overly restrictive, it should be remembered that they can be broken at any
+time in favor of a better idea. The value of understanding editing practices
+is that it enables the director to visualize an overview of required camera
+setups for an entire sequence, allowing him to turn his attention to the
+dramatic needs of the scene.

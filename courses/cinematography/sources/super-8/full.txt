@@ -1,0 +1,644 @@
+## Introduction
+
+Super 8: the modest medium
+
+ 
+ 
+
+ Title page
+ 
+
+ 
+
+ Copyright
+ 
+
+ 
+
+ Contents
+ 
+
+ 
+
+ Introduction
+ 
+
+ 
+
+ Chapter I: 8-mm film and its context
+ 
+
+ 
+
+ Chapter II: The range of 8-mm hardware
+ 
+
+ 
+
+ Chapter III: 8 mm in relation to other media
+ 
+
+ 
+
+ Conclusion
+ 
+
+ 
+
+ Appendix: Access to further information
+ 
+
+ 
+
+ Index of technical terms
+
+Super 8: the modest medium
+
+ 
+
+by Jonathan F. Gunter
+
+ 
+
+Published in 1976 by UNESCO (United Nations Educational, Scientific and Cultural Organization), Paris
+
+ 
+
+ISBN 92-3-101368-8
+
+Copyright
+
+ 
+
+Published in 1976 by the United Nations Educational, Scientific and Cultural Organization.
+
+ 
+
+© UNESCO 1976
+
+ 
+
+ISBN 92-3-101368-8
+
+ 
+
+This edition was produced by converting a scanned copy of the UNESCO text (ERIC document ED138301). Text was recognised by optical character recognition and cleaned automatically, so some OCR errors may remain. The ERIC microfiche cover pages and the original scanner notes have been omitted.
+
+Contents
+
+ 
+ 
+
+Introduction
+
+ 
+
+Chapter I: 8-mm film and its context
+
+ 
+
+Chapter II: The range of 8-mm hardware
+
+ 
+
+Chapter III: 8 mm in relation to other media
+
+ 
+
+Conclusion
+
+ 
+
+Appendix: Access to further information
+
+ 
+
+Index of technical terms
+
+Introduction
+
+The emerging communication° technologies which have attracted the most attention have been the. large-scale, expensive and glamorous media. Much has beei written about the promise ofcomputers, communication satellites, and colour television. Yet, for all the enthusiasm that has Izieesi. generated, results from these media have bften been disappointing. Industrial tountries have found that the large institutions created by such technology tendto lose sight of grass-roots clients’ needs andto operate in their own narrow institutional interest.
+
+In non-industrial countries, problems withcomplex large-scale communication technologyare even greater. Dependence upon imported technical experts and foreign maintenance and repair tacilities been a s’ource of frustration tomany a Third World policy-maker. In educational settings, technology has often ‘been attacked. for eliminating ratherthan creating much-needed jobs. il4the shadow of the more glamorous technology, sive advances have taken place in the realm ‘1;T whatcan be termed ‘modest media’. ‘Several new media options offer many of.themune communication capabilities of complextechnology, but without neccssitatingcentralizedlargescale organization% ‘without dominating theireducational or communication environment, withoutcreating dependence upon A/Nip:technical-expertat, and,without-neces. sexily eliminating jobs. These’thodest media’ deserVe the attention ofcohnnunication and education planners in bothindustrial and non-industrialCountries.
+
+Allzmedia consist of hardware 1(equipthenVlund software (the messages or programmesproduce disseminated by the hardware).There is always interaction between these basic compo,nentsin anycommunication technology. Thecharactcristics of the hardyare influence the typesof software which can be prbduce’dand both influence the programmes.
+
+When ‘modest’hardware/software develop, new typesof .mediaprograoiming become possible,although it takes time for educatorsand cominunicators.to take advantageof a changed situation..
+
+The most obvious illustration ofthis process is the ‘transistor revolution’ in r-ro in the 1950s, whereas radio had previo7 been confinedto electrified areas of the glob ,radio reception spread to virtually the entire wM. Less than ten years after the .developmeAt ofthe transistor receiver, the audio-cassette recder was developed. This device allows for inexpense and simpleproduction of audio materials. Fif en yearsafter the development of ihe cassette re. s rder,educators and communicators aow be nning toapply the tool to decentralizing anprofessionalizing adio production.’
+
+There are )3asicdifferences between radio’s -4ransistor revolution’ andthe ‘8-mm revolution’ int. ifihn. Whereas the formerbegan with inejcpensive
+
+1. All technical termswith be italicised whn they are introduced. Readeas can refez back to the first mentionof a technical term by consulting the index on page 93.
+
+2. For an initial indication ofthe implications of the new audio hardware, see the technicil note on theTabacundo Community Radio Project (Nonformal EducationCenter, Upiversity of Massachusetts, Amherst MA 01002 (UnitedStates)). reeePtion, the latter beganwith changes inproduction.1:14nni film heir alaiexpanded .filM distributionviafilm Print, videotalitangtelevision:llowever,recep-lion Of film materialshie yet to achievebreak-througluThe world isstill aivaiting cheapbattery-poweredt_and…-filmL-projectorresult,filmreach far less of theworld’s peotile thanradio forthe foreseeable-future., .None the lase, whenfilth dreach People, it doestso with é.poxticularlypoweland Mvid formofcounication. To the. audiocommunication cape’.V itles of radio,,.film adds an elaboratevistkaljanrpage encompassing illation,colour ‘and .dynamicdistortions of time andspace. These coniMunicatiye.’powerscan now be exploited. by a!:wider nine.coinmunicators and educatiimthan ever before..’”in the lastten years, neWfilurfornurte hairedeveloped f,romamateur media :into’ toolswhich’ canbe considered forPtofessional commnnicati:Ontasks.The purpose ‘of thisstudy is to introducethe neWhardware Ind toassess its current and futureUtility-to communicaors andeducatOrs. Readersare encour–aged to deVelopa. critieal and reasonedapPraisil of. how these new toold’canbe of assistance tc:them.At this point,a word of caution is inorder.Whenever attentionis focusedupon .a specificmunication topl, there isa risk of placing theproves-Mal cart beforethe horse. Unlessone’s naturalenthusiasm fora new toOl is. restrained,one is likelyto take ths.,new-fthind stlutionin hand andgo ;Jutin search Sfa rfroblem. The work of the communicator’andthe educatormust always centreupon problems before solutions,upon questions before,answers. 87mm film should beseen as only one ofa number of conimunicationtoolswhich can be appliedto human problems. Thedeci-sion to use 8-mmshould come only afteran impartialplanning process involvinganalysis of the specificJproblem and audienceat hand. After an audience anda problem area have beenidentified, a series ofquestions must be answeredconcerning the nature ofthe target audience,its perceived needs,its communicationhabita and its resources.Next, specificproblems andtheir communicationcomponents areidentified. At thisstage, a rangeofcommunttation mediaansl -mediemixes should beconsidered for their postandieffectiveness, in contributingto solutionsto ,titeProbltms. 8-Mm film shouldbe applied te asitnation (*Tymm: enierges fromsuch a planningpiocess as an ‘effective comment inthe preferredsolu,tion: A decisionin favour of 8 mmwithout such a’Planning processis a poordecision.
+
+When attention’is focusedupOn a new covamunication tool,the initialorientation shouldbe not ‘how-to-do-it’ but’wbat-can-he-done’.Only itter consiciering tbe range\ofcapabitçies of newtechno- - logies should’one beceme eon,ed wipl how to ell bukiVitsrto *hat-can-be-operate thetechnologies., ,Thise;urvey[ of current8-mm filmhardwar wi done’, with afew suggestiorr nWhere to go in order to learnhow to do it.Special referenceswill be made td the needsof communicators’and educatbrsof the world’s non-industrialcountriei, whoconfront entirely different problemswith entirelydifferentresourAs than do theircolleagues idindustrial countries.’
+
+In industrialsettings, Aechnicalskills are available, buthighlxopriced rela,3ivete the costof equip._ ment. As aresult, ihere, is -aneconomic incentive towards the .useOf ever moremachinery, inorder to reduce laboer costs.Fewer but morehighly trained peOple are employed.
+
+In thenon=industrialsettings, thesituation is quite different.fluman laboqr ismuch lessexpensive relative to the costof machines.Repair ofmdchines is a Treaterproblem? Thetraining of manpower ‘to operatemachines is also moredifficult. Inthis situation, one’would hopefor machinerythat isinexpensive and easyto operateand maintain. One, wouldhope to employrelatively more’labourthanniachinery, and tocreate largenumbers of jobs which do notrequire elaboratetechnical training.
+
+Most oT the world’seqnipplentproduceis operate under the formerset ofeconomic criteria,producing- , ever more expensive machinery which requires ever f ewer operators with -eyer more extensive technical yarning. But If-nun film is one technology which7 runs counter to thie trend. Its origins in ‘home / movies’ P .yideta sufficiently large market to wirrant mumction ,of equipment, which means low unit costs. The .amatem’s desire to experiment has resulted in the dexclopmeht of arange pf ‘do-it-’ yourself’ gadgets whick can often ntetch ther highly.. pivfessionalistid services bf k6-mm fibp..
+
+‘Amery technical -demands on their tiine demise, film communicators everywhere. san cob- , centrate *air energies Ai the more important nontechnica matter of creating exciting ind bffectiye nieinages for well-designed film applications. -And wherever fifen and television industries have invested lees in older film formats, the rote of 8,mm firth will be far greater. In the non-industrial countriesespedaily; there is a rare opportunity for innovaiion.
+
+## Chapter I: 8-mm film and its context
+
+Chapter I: 8-mm film and its context
+
+Film viewing can be a. very vivid and stimulating experience. The medium can portray virtuany any sight human beiligs can see and any staind one can hear: In addition, film has many devices for heightening experience beymid the sights and sounds of real life.Editing of film footige allows the viewer’s perspective to shift instantly in time and space, In a split second, the s9ene may shift from a long shot of characters in a lafiascape to close-ups of characters’. faces as they sPeak. Voices can be synchronized with 4the image, or dissociated from the image as in the case of narration. Sound effects and music maybe mixed with voices to add realism and emotional .power to a scene. Fades, dissolves, superimpositions, ‘imimation, pixilation; time lapse and other visual techniques offer film a rime Of techniques for going beyond life’s experiences in sound and sight.
+
+These techniques have developed through the tradition of feature film production on 35 mm. Films which make full use of these techniqUes are corporate enterprises hivolving many man-years ofiabour on the part of specialized technical and artistic personnel.
+
+Several hundred people work on the average feature film, which costs upwards of U.S.$1 million. Qualityfilm programming fortelevisiongenerallycosts between $50,000 and $200,000 per hour. This level of expense and organization has been required to produce film of the technical quality that cinema and television patrons expect.
+
+The change to 16 mm Until relatively recently, most -film was shot in the studio, with large technical crews using mammoth equipment to film professional actors in fabricated plot situations. tscape from the studio and into the. filming of real people in real situations *as facilitated by the introductionof portable 16-mm sound cameras, This new equipment,which could be operated by a crew of two to four people, made possible the cinima viriti approach of filming reality with the least possible intrusion by the camera. This is one example of how hardwareand software interact.
+
+New communication styles and subjects develop as techuical bottlenecks involving equipment are removed.
+
+However, even in 16-ram viriti filming, some vestiges of the feature-film tradition remained after the introduction of the new equipment. This equipment is expensive and difficult to operate,although less so than traditional -studio equipment. A professional, although much smaller crew, is still required to operate this equipment. These obstacles tomodest, unpretentious filming were not removed until the introduction of inexpensive, “automated 8-mm equippent of sufficient quality to permit seriousfilm-making.
+
+The 8-mm revolution The introduction of 8-mm equipment has enabled fdm communicators to venture even further from the feature-film tradition. 8 ram has expanded the range of people and institutionswho can gain access to the film medium and as a result has removed many of the, constraints on film style and content. A few.
+
+“examples ot 8-mm film application will provide the most eloquent introduction to the potential of theie new formats.
+
+Professional film and television crews did not doeument the tragic assassination of the American President John F. Kennedy. 8-mm ‘`home movies” of the event were shot by an amateur am-maker, who thought he was merely recording the arrival of the president. 8 mm was the only film format which Ilikappened to be participating spontaneously in the presidential parade when ‘the tragic events occurred. .The 8-mm images were later reproduced as still photographs ii1 ,mass circulation news magazines, and as moving pictures in film andtelevis’on documentarits. In the years since the assassinatio, 8-mm film equipment has become an ubiquitous Lserver of events in the industrializeel countries.
+
+The German adventurer Rollo Gebhardt used_ 8-mm film to document his round-the-world sailing Voyage, and later showed his film on television in the Federal Republic ,of Germany. 8-mm equipment Th inexpensive enough that non-professionals can put- Chase their own equipment: Thus, 8 mm could be an intimate companion for months while waiting to film the highlights of the voyage. Professional equipment and professional crews, with their high costs, could not have operated on this basis.
+
+In December 1972, a major New York television station broadcast exclusive news features on the aftermath of the Nicaraguan earthquake. These feitures consisted of film shot by,an American doctor who was part of the relief ell’ort, and who had not had previous experience in ‘ film: Before travellink to Nicaragua, the doctor had been equipped by the television station with super-8 equipment and given verbal instructions bn hoN, to shoot film. The doctor mailed the exposed film to New York, where the footage was edited by station professionals. The result was a unique film statement by a participant in a human tragedy.
+
+Recently, an 8-mm docuMentary wasshown for the fi,ist time on American nationalpublic television.
+
+The film probed the violent deathof sa Texas blues s.ngern the 1930s.Friends mild relatives of the singer -spoke to the camera in an” intimateand natural manner. The moreimposing, more intiniidating presence of professional’film equipment and crew would not have beenas well suited tospontaneous expression by non-actors. rimne characterinsticsof 8 aim These vignettes illustrate s6me of the uniquefeatures of 8-n3m film as a producAion medium.8 mm can be shot by amateurs. 8 mm is(ubiquitous, and ioften,present when notewortny events occur.8 mm can wait around where such events are.likely to occur. 8-mni equipment is non-threatening,topeople, and encourages spontaneous,unaffected, and intimate expression.
+
+These features derive directly fromthe nature of the hardware. 8-mm equipment” ispohable, unobtrur sive and inexpensive. As a result,8 mm puts fewer technical and financial obstaclesbetween filin-maker and reality than do 16-mm or 35-mmfilm. Compared to these. formats, 8 mmproduces relatively lowdefinition, unglamorous images,which tire ‘,suited more to .documentingthan to dressing up .reality.
+
+In essence, 8 mm is a reality-basedmedium. ,The 8-mm medium offers spontaneityin content and style’ which compensatesfor its lower image quality. The significantly lower costsof 8 mm can, also allow increased voiume offilm production for educational and developmentalobjectives in many countries. And for some non-industrializedcountries, a limited amountof film work in 8 mm will bepossible, whereas none was possible in theolder, more expensive formats. .The above statements apply to8 mm generally, and sbould not be taken to meanthat 8 mm will apply to all fihm and televisioncommunication projeers. While project plaimersmay share ..thesb hopesfor the over,all iniPact of8 mm, they must deferjudgement-oof the medium’sapplicability toany.spocific situdtion until the endof a rigorous planningprocess . The ihvelopmento Today’s. 8-mm filth incorpotes tWo millennia oftechnological advances contributedby great Mindsfroin many cultures. Theancient Greek scholar Archi-med’es is Ei’aid to have ‘producedthe first 4ens. A- thousand years later, the Aralt scientist Alhazcn first explained many .basicoptical phenomena. Afteranother 500 years theLcameraobseura Was invented,by ‘ Leonardo da Vinci:-In ihe nineteeirtlicentury,.thedevelopinent Of still photographywas propelled bythe Frenchman DaGiierre. Atthe-end of the ninekeenth century, .the American inventor ThomasEdisonon-thesized many innovationsto produce the first motToit; piCture camera anda practical projector was dAgel-, oped by the French Lumièrebrothers in 1895.1*, Edison’s camera shot rapidsequences of etaphotographe called frames. Whenprojected at th., same speed they had been shot, stillpictures wperceived as continuous motion. Thefirst film forma,. designed- by Edisonwas 35 mm -wide. This gadic rapidly established itselfas the professional standard.In order to createa more economical film medium for poilcioritlessionals, 16-mmfilm wasr introduced by ‘’Eastman Kodak Company in 193.The format wasat first scorned by professionals, and didnot generate d’.im amateur film Market.In fact, 16-mm film did,ndt begin to gain accep- .tance as a profeesi6nal mediumuntil the SecondWorld War, when lighter,more Portable equipmentthan 35 mm was needed bymilitary forces, whoset , _ I. For a fascinating recounting of the developmentof 91m.techno-logy, see Melvin I.,. De Fleur, ‘Theories ofMass Communication, p. 23-35, NoW York, N.Y., McKay, 1970.%.,].n. specification spurredfurtherimprovemdt of 16-mm equipment.y thistime, thequality of filmemulsions hadimproved as well,and 16 milleould provide tecliiiically betterimages thanhad beenpossible two dikadesearlier. .Since 16 intinhad not initiallyfound acceptance with amateurs, aneven moreeconomical amateur film format, wasintroduced in032.- The double 8-mm forma4used half theframe of standard16-mm film. After passingthrongh the 8-mmcamera once, the film wdreversed, andrerposed on theother side of thefilm. kfter processing,the filni wasslit Double 8Super 818mm Fib.1.Thiscomparisonshows the differencesin frame six, and sprocket positionol double-8, super-8and 16-mm film.In super 8, as in 16 Mm,the sound stripeis opposite thesprocke holes. flown the middle. Since the imake size Ivas reduced 4;ertiCally1 as well aa horizontally,–-the 8-nun -user obtainnot two but four times as much running time from a given length of film as did the 16-pim user. areas 16 mm had not succeeded in developing an aateur market, 8 mm most certainlydid. 11movies’.became a common family diVersion e industrialized ‘countries. However, 8-ntm tisers complained of the difficulty of threading and rthreading film into the camera. Fuithermore, the double 8-mm format often meant low image quality due to .small image area and faulty exposure.
+
+Gradually, the growth in sales. of 8-mm equipment and film began to lag. In order to deal with the complaints of 8-mm users, and to stimulate the amateur film market, a new film format was introduced in 1964. Super-8 film offered features which had not been available in- any previous film forhiat.
+
+To eliminate loading problems, super-8 film was packaged in cartridges, which went into the camera quickly and with no chance for error. The film was, cut 8_mm wide, and was designed for a single .pass.
+
+When-the film was exposed, the cartridge was sikply taken out Of the camera and sent to the laboratory.
+
+To eliminate exposure problems, super-8 cameras were equipped with built-in light meters and automatic exposure control. After minimal instruction on how to correct foe difficult lighting situations, anyone Could produce aeceptably exposed images.
+
+To improve images quality, the frame area of super 8 was enlarged approximately 50 per cent over that of double fit,,p2Tahis was achieved even though the width of the laSi remained 41 ,mni. The eprocket holes used to’advance the film were reduced and rotated so as to use less of the film area.
+
+There la still some contioversy regarding the degree of improvement which has resilted from _the change to super 6. Some purists continue to use double 8, although double-8 equipment is no longer manufactured, and : double-8 filmisincreasingly difficult to obtain. Double-8 users feel that their images are of equal quality to those of super 8.
+
+Ate’ __.-.._.
+
+They maintain that the plastic pressure plate which holds cartridge super-8 film against, the Camera’s film gate is less steady than. the in-camera metal0 pressure plate of the double-8 format. As a result any increases in image quality which derive fromsuper 8’s increased image area are cancelled out bysuper 8’s inferior pressure plate.
+
+Fortunately, an 8-mm- format has developed which combines theadvantagess ofsuper 8’s larger image area with double 8’s in-camera metalpressure plate. Double super 8 (DS8$ uses 16-mm wide film adapted for two passes through an firramcamera.
+
+‘The film cornes.not in cartridges buton 16-mm wide reels. I3S8 .offersa wider range_of film types then. super 8 which incPudes one profesaional 16-mm emulsion, Ektachrome commercial ECO 7252. 4The inttial double super-8 cameras wer4 modified 16-mm cameras. As a result, these cameras (as-wellas r the subsequent double super-8 cameras of original design) are more rugged than, most super-8cameras.
+
+O’fcourse, these cameras are correspondingly more 1.4expensive.”4.
+
+One final 8-mm production formal’ must’ be mentioned. Single 8, developed by the Fuji Corporation, is identical to super 8, e ,w3ft or° the film cartridge design and the film base: Whereas super-8 film uses an acetate base, single 8 uses polyester.
+
+Polyesttr is strongei and/thinner than acetate. Both these featur,~ advantages in film projection. However, polyestebased film is more difficult to splice than acetate, which is a disadv.antage in production.
+
+Until recently% polyestenbased film could only be spliced with tape. Currotly, Epic splicersare available (at high cost) for splicing IIPolyester without tape. Certain new types cif cement are said to glue polyester; however, they are expensive and highly, toxic. In short, Fuji’s singlepolyester-based film is generally seen as havingight disadirantages in production and advantagesprojtion: The second difference heten single 8 and super 8 is tlie design of the film cartridge:Instead of the coaxial .design of the super-8 cartridge, sthgle 8 ,,.’,Uses two reels in avelltical configuration. This cartridgeis less complex and less subject to malfunction. permitsor flexible manual backwinding for ‘double exposures and tissolves while super’ 8 allo*s., only limited backwinding. Single 8’s metal in-camera pressure plate is said to produceslightly steadier and sharper images than super 8. On ths,other hand; the super-8 cartridge loads more quickly and easily, and has found greater acceptande among camera inanufactuiera. In fact, only Fuji manufactures single-8 cameras. . The cdnistence of three current inbompatibli production standards for 8-m’m film should be seen in its pfoper perspective. Filin footage on super 8, single 8 and double super 8 can be edited together and shown on virtually any current 8-mm projector.
+
+Sound in 8 mm is remarkably standardized upon magnetic recording displaced eighteen frames ahead of the corresponaing picture frame. Although optical sound exists in super 8; it- is used very rarely. On the other hand, 16-mm sound has two ‘standards (optical and magnetic) whibh are in wide use. Furthermore, 16 Ann suffers froth additional standardization pro& lems. 16-m, film sometimes comes with perforations on one side of the . film,sometimes,with perforations on both sides. Film is available ondifferent types of cores and reels. The three currentstandards in 8-mm film, seen in relation to 16-mm standards, do not pose insurmountable problems.
+
+Types of film Over the years, a variety of film types havebeen developed to meet the needs of 16-ihm and35-mm filin-makers. This progress has benefited the variety and quality of 8-mm films as well. 8 mm isavailable in black and white or in colour. Some films arecolour balanced for shooting indoors with tungstenlighting.
+
+Others are balanced’ for use outdoors in natural daylight. Special films are manufactured for use in brightly lit situations and dimly lit situations.Films to cover all these situations exist inall current 8-mm film formats.
+
+Tau). Selection of km filmgenersillavailible Light FilmSupai IPH4art* (A.Sit(151 m) numb0, Skutt\ Sound SuPorl eirthdie Silentsound grad NI KOdi Mai re0 SilentSound Don*. Ski6i !C Red eartip on “col (15 m) (30,5 m) I t)(Sliest) lodachieme 25 movie Film (daylight) iodachrime 40 movie Film (type A) eitschrome 40 Movie Mtn (type A) Kodak eitiehrome 160 Movie Maki* A) Kodak type G eitachrome .160 movie film Kodak eitachromeEf Film 1242 (tungaten) Daylight (filter), Tungaten (no filter) Dayligkt (no ger) %pen (filter) Daylight (ger) Tungsten (no filte;) Daylight (filter) Tungsten (no filter) DayEght (filter) Topton (no filter) Daylight (no filter) Tungsten (no fiher) Daylight (filter) Tungsten (no filter) L–-10daitachrome-St.Daylight filter)100 Film 7244 (type A)NIten (no filter)160 /swanpitachrome 9Daylight (filter)16’
+
+CImmercial Film S044Tungsten (no filter)25 Nichrome It25 Nichrome ,RT 200 liujipan guji p GA ,Kodak Reversal Film 7276 Kodak ttri.X Reversal film 7278 Kodak 44 reversal Film 7277 Daylight (no filter) Daylight (filter).,160 Tungsten (no filter)20 Daylight Tungsten50 Daylight200 Tungsten Daylight (lifter)25 Tungsten (no filter40 Daylight500 Tungstenf4 500 Daylight (filter)25 Tungsten (no ilter),40^ Daylight (no filter),50 Daylight (no filter)ill) Tungsten (Ito filter)160 .Daylight (no ilter)400 Ttuiptei (no ilter)320 Xt should he noted that the above typee of 8-mm films are designed for shooting positive reversals in ..the eamera.which when processed beconie the fizia print without pasting through the negative stage.
+
+It is possible tb Make extra film prints from a positive reversal, but peocessing is tricky and not without losses in tone and increase in contrast.
+
+In the professional gauges, there exist matched pairs of film types, one for shooting (the negative), one ..for printing (the positive). These ‘films complement each other’s Characteristics, and produce prints of high quality. 8 mm lacks this type of sophistication in Oriniing even in the industrialized countries. None the less, a broad range of 8-mm films for shooting is available (see able I. for a selection - of. films generally available).
+
+In’ some industrialized countries -the range and composition of the 8-mm film market varies. In many non-industrial countries ‘taxation and impor– tation. laws discourage the stocking of different films from different manufacturer& Eastman Kodak both sells and processes 3-min films in twenty-five different countries, seven of which are non-industrialized countries. Kodak has representatives in most other countries of the world, which offer processing services by forwarding film to Aodak laboratories in neighbouring countries. Fuji has also sales representation in many countries, and has 8-ntm processing facilities in eleven countries, of which one (Indonesia) is non-industrial. Although corresponding information was not readily available from other film’ manufact turers, the above information supports the conclusion’ that 8 mm is truly an international medium available in many countries of the world., This initial introduction to the 8-mm film for’mats - documents the ‘growth of motion pictures from their appearance near the turn of the century through the introduction of double 8 mm in “1934 and the introduction, of super 8 in 1964. Since that time, the dramatic innovations in the medium have been largely in the realm of hardware.
+
+## Chapter II: The range of 8-mm hardware
+
+Chapter II: The range of 8-mm hardware
+
+The technical side of film-makiug is best treated as a series of discreet functions handled by a mix of hardware and skills The sequence of tasks is: production planning, location recording, film processing, sound transfer, editing, sound mixing, display and distribution. Each of these functions can be fulfilled at a number of levels of sophistication and expense.
+
+This chapter will cover the major equipment options currently available to the 8-mm film-maker.
+
+Cameras Although 8 mnk cannot compete with the more established gauges in film availability, 8 mm offers a far greater range of choice in cameras. At the 1974 Fotokina show of photographic equipment in the Federal RePublic of Germany, there were 120 different 8-mm camera models on disPlay. Prices ranged from $30 for the simplest to over $2,000 for the most sophisticated super-8 camera. The prestige manufacturers of 16-mm equipment, Arriflex and Eclair, showed 8-mm prototypes which are expected to cost around $5,000, if and when they are commercially produced. Although this last figure may sound high, top 16-mm cameras of these companies cost alinost $15,000. Professional 35-mm cameras cost up to’ $50,000.
+
+The M=22 (S25$35) produces images which are technically excellent, according to one of the leading writers on film technology.1 Of course, the features of the camera are minimal. The lens, although very sharp, is limited to one fixed focal length. The camera does not have a light meter, or. . an automatic exposure system. The M-22 drive system is said to be rock stead, although it is limited to one filming speed: The M-22 is an economical tool for training__ or for incorporating filming by non-professionas into a serious film product.
+
+More expensive 8-ram cameras incorporate automatic exposure control, metorized zooin lenses, which can smoothly change their focal length from wide angles to close-ups of distant subjects. These features are .available only as expensiVe accessories on most 16-mm and 35-mm cameras.: Many super-8 cameras haires features which other formats offer only on specialized equipment. Some 8-mm cameras have macro-focusing lenses which give clear pictures of objects which are very close to the camera. This featttre allows extreme magnificationof small objects; the Elmo 204-T even has an adapter for filming slide titles. MAny super-8 cameras canexpose single frames of film, which permits animation (simtilated motion) of inanimate objects or drawings.- Furthermore, some cameras contain automatic timers (called intervalometers) which expose single frames at pre-determined intervals. This feature permits regularized time-lapse filming in which long periods of time are dramatically condensed. Such prOcesses as the opening of a flower or one day’s cloud movements can be shown as brief motion pictures. Finally,
+
+1. Lenny Lipton, Independent Filmmaking, p. 124,’San Franciico, Calif., Straight Arrow Press, 1973. 1111111ft- For single-system film ,rec;rding, the Supermatic200 records sound on the magnetic stripe ofilfhe film. [Courtesy Eastman Kodak Co.J……..4 Othercameras can produce standard visual effects such as slow fades to bladk, dissolves fromone image to another, and superimpositions of one imageoveranother. Each of tjie above capabilitiescan be sobtained with 8-mm ‘equipment costing under $600.
+
+These arel especially impbrtant features,since 8-mm laboratories cannot always process fades,dissolves, and supers without some loss in colour an4print quality (see also page 62,under ‘8-mm Open-reel Prints’).
+
+A final 8-mm feature which is worthy of inention is the existing light or /CL (existing lighjcamera.
+
+Costing as little as $100, thesecamras allow filmingin very dimly lit situations without additionallight-ing. This is achieved througha highly light-sensitive lens, a special shutter design, anda capacity for new low-light films. Some XL cameras also havea viewing system which is light-efficietrt. Thesefeatures are only available as eacpensive accessories on 16-mm or 35-mm cameras.
+
+Sound synchronization In recent years, 8-mm cameras have also beendeveloped which can record sound in synchronization with the visual image. There are two ,differnt approaches to sync filming : double-system and single-system. The former uses a sound recorder which isseparate from the camera. The single-system approach incorporates a sound recording head in thq camera itself and records on a magnetic stripe alonthe edge of the film.
+
+Single-system equipmenta only become available very recently. After the basic $200 models were introduced by Kodak, other models offering quieter operation and more features have been introduced by several manufacturers withpricesbeginningaround $350.
+
+The full capabilities of super-8cameras are most dramatically illustrated in the new Beaulieu 5008-S single-system camera. The camera hasa high-quality lens with a very long zooming ratio (6-80 mm). The lens can also make extreme close-ups of smallobjects. has existing light capacity, and records tetesilent quality sound on the edge of magnetically striped fdni: Alternitiyely, one mayalso record nhle-system sound. These capabilities arecontained Aniii,Cemer Which weighs 53 lb and costs in the ,reglon. of $1,609. Comparable features in16 mmabeut three times as much and cosi at least ski times es much. ,1 To date, the 16-mm and 8-mm camerashaye had but one area of direct overlap. Some douhlesuper-8 cameras are modified16-mm camerae. Features mentioned in the previsfus chapter need not berepeated.
+
+Double sAper Irs ability to use magazinescontaining up to 26 minutes of film andits compatibility with established 16-mm double-syitempracticesare ,worthy of mention. The new Pat& EDP cameraoffers these features at a price of $2,300.
+
+Double-system soUnd recoiders There is at present.a confusing array of systemsfor synchronizing sound rorders and cameras. At Fotokina there were no less than twenty-threedifferent systems on display. Only three ofthem are generally recognized as serious communicationtools: the Erlson system, the Inner Space systemand the Super-8 Sound system. The other twenty systems fail to permit flexible frame-for-frameediting of sound and picture, which is necessaryfot: maintaining ‘Synchronisation during editing.
+
+The Erlson system whit the electronicflash contact inéluded in mostquality 8-mm cameras to send to a modified Uher tape recorderazi ‘electronic pulsetwhich is later used to matchsiight and seund. The other two systems under consideration operateunder similar design premises, but incorporateelectronic feedback, circuitry to compensittecontinuously for slight fluctuations in running- speed.These two ms are interesting;in that they utilize more ern technologicalprinciples than the standard 16.mm and 35-mm synchronization sys ems.
+
+The backbone of the Inner Space system is the Cine Slave unit, a small black box that establishes and maintains synchronization between virtually any’ recorder and any camera, according to the manufacturer. This system is used by 16-mm as well at 8-min film:makers. The cainera” drive is generally slaved to the more accurate drive mechanism of the’ sound recorder. The One Slave is also-available w1t1 two crystal clocks which regulate running speeds without requiring a cable connexion between camera and recorder. This feature is often useful for afritof filming in fast-inoying situations where camera and soundsliperators need to move independently.
+
+IncidentallY, the companisdaims to have eold many Cine Slave units in trOpical ,cOuntries because of the special coating which protects the circuitry against heat ani humidity.
+
+The main component in the Sumr-8 Sound system is the Super-8 Sound recorder, R.-remarkably versatile and compact machine which fills a .number of location; transfer, editing and projection functions.
+
+Using sync cables developed by the company, the recorder can slave itself to the speed of virtually any piece of hardware from any manufacturer. For loca-_ tion filming, cables can be eliminated, since the machine has an internal crystal clodk. For this application,.the camera to be used must be fitted with their crystal camera control. The company’s empha- . sis is upon developing methods for integiating equip-. ment from’ different manufacturers into comprehensive film production systems.
+
+While large manufatturers develop Mutually incompatible systems, Super-8 Aund stresses standardization. The company has .modifiedsevexal cassette recorders for ,sync location filming. They haye also developed a crystal control package for converting kyariety of cameras and cassette recorders from diverse manufacturers to cableless sync filming Cassettes recorded id this way are then transferred via the Super-8 Sound recorder to a recordingmedium which can be edited on equipment from a variety of manufacturers. pot’
+
+Electra inFrance hasdesigned two syncsound recorders which aremodified Sony’swith quartzpilot control, but atlu her prices:The AutoQuartz, at an export priceof,000 plus,offers crystal syncsound with anysuperl8 camerafitted with anelectronic flash contact.This model(Sony TC-510.2)comes adaptable for8-mm fullcoat orordinary open-reel tape,including.chrome-dioxidecoated tapefor improved soundrendition. TheDiamant is asimilarly adapted modelbut builtaround theSony TC-142 cassette andpriced at about$1,000.
+
+Another technicalproblem with8-mm cameras has beentheir highoperating noise_levels. During indoor filming,this oftenimpairs soundquality. To solve thisproblem, Sper-8Sound developed acheap silencer madeof leather,foam andlead. Significant noise reductioncan beattained for camerasfronl many manufacturerstat asmall fraction’of the pricefor 16-mm carnetssilencers (about$100). This typeof inventivenets onthe iiart ofsuch small,dynamic organizations isforcing largeequipmetitmanufactu-’ rers to cometo termswith thedemand forstandardization androfessiongdization in8-mm.
+
+Lighting Motion-picturelighting is acomplex artwhich has provided thebasis for entirecareers inthe featurefilm industry.Independentfilm-makershave often ayoidedartificial lightingin favourof using theavailable light ofthe scenebeing filmed.What attitude ihould thesystematic 8-mmfilm communicatortake twith regard toirtificial lighting?
+
+Given theavailability ofXL (existinglight) cameras, manyusbra of 8 mmhave abandonedsupplemental lightingaltogether.However, inthe wordsOf, Gimthet Hoosof theSuper-9 FilmGroup, thefact that XL,camerai canalways producesomekind of . image does notguarantee anacceptable orpleasing image. Clearly,lighting decisiontishould bemade .according to thespecificconditions inwhich one ié o entirely disregard the tools of the lighting would be to deny oneselfa basic film the other hand, to use cumbersome ande4P4Ppentwould be to destroy the unobtrushie and inexpensive characterjoke bf’modest mediutte.
+
+There are several portable,inexpensive options formovie lighting which sh tdd beconsidered bt the8-mm film-makeras part olb4i.,1of her- .arsenal of evaipment.- The simplest and chea)estmethod is to replace common household light bulbsvith high intensity photo-flood lights. Prices for these bulbsbegin at$0.60. Since they can be insertedin existing lightfixtures, many indoor locatwouldnot requirespecial light stands. Using existing light-fixtures also has the advantage of leaving thescene intact, andfilming as thinpappear naturally, although with the benefit of heightened light levels., In some instances, the fihn-makermay want to use special photo-flood Jight stands in orderto gainidded control over light placement.A simple kitincluding three such standscosts about $55. Higher intensity, loiger lasting quarts lamps beginat a costof $16,_ A small portablequartz unit costs $50. A fullblown kit using this lightcosts $675. At this price, hoNiever, the ‘modest’ quality of the8-mm mediumbegins to be compromised. Supplemental lighting always reducesspontaneityand unobtrusiveneis tosome degree. Complications involving power limits of electrical dircuitrymust bedealt with. Non-actors feel uncomfortableunder thegram and heat of movie lights.However, modest lighting equipment can sometimes behelpful. Although the humble photo-flood is scornedby many rofessional film-makers, itserves as an illustration noble lighting quality whichcan be obtained markable ease and at low cost. ,The Lowell Tota-Light quarts ‘tlamp. (Courtesy of Lowell Lite Manufacturing Corporation.] Th.. Kodak sipermaticautomated super-8 film processor.Peculiarly shaPed plattic containers preventpouring ‘wrong chemicals intothe bin compartmenu,]Couitesy Eastmlit Kodak Co.], The next technical tisk after locationfilming is film processing. There are two majoi optionsfer solving .this problem: doing it oneselfor usipg commercial processors. The latter solntion is the least involved, provided that quality service isconveniently avail- ,able. The only certain waysofchecking tills alternative .is to write fo major film manufacturersconcerningtheir local representation, andto submit a-few ionsof film for processing. If commercial processingproves too slow, toohigh in price or too low in quality,there are a numberof methods for developing one’sown film The alter-natives range from manual developingtanks costingfrom $50 to a fully, automatedprocessor costingSl2,500. The least eipensive solution, themanual develop’. ing tank, costs between $50 and $200. Loadingexposedfdminto the tank, mixing and applyingthe sequence,of chemicals are not difficult.With some practice,quality black and white developing-can be done byanyone who has an ability to follow directionsandto work meticulously. Colour processing,however, isa more complicated matter. Colnur chemicalsmust be used at the twecisely controlled temperatures. Properagitation of the_ film during development is imptirtant.Acceptable colouiquality can be obtgined withsome practice, although perfect colour rendition is difficultto achieve. Manualfilm development is also rathertedioue and timeconsuming. With commercial proceSsing easilyavail-able, most film-makers in industrializedcountries donot bother to do theirown processing, In nonindustrialized countries, where processingis,leas avail-able and where labour is inexpensive,film-makers maychoose to hire and train staffto process their filmmanually. Many firms offer machineprocessors which can produce quality colour fiNi. Theserange in price from 000 to $12,500. Most ofthese machines require °parer. Ironically, the mostexpensive of them may pMve of Most interest to8-mm film-makers, since it can be operated bypersanel without elaborate techniCal training.
+
+The Kodak automated8-nun colour. processor (reversal film only) is a remarkablemachine. Its installation requires only a 220-voltelectrical outlet, a coldwater source, and adrain for dischargingused.chemicals. The machine operatesin daylight. Chemical concentrates are codedby colour and by the shapeof the bottleneck, so thatthey cannot be insertedinto - the wrongpait of the machine. Afterchemicals areinserted, the machine mixes its ownconcentrates, develops films (100 cartridgesof 50 feet) and signals . when the chemicals areexhausted. ‘With the press of a button, themachine flushes out the oldchemicals, washes itself, regains proper waterlevels, and signalsthe operator to insertthonew chemical concentrates.
+
+One disadvantage of themachine is thit it processes Only onefilm type (Ektachrome 7244,colour reversal) which was developedespecially for this machine. No other colour orblack-an47white films can be used, since they are notprehardened for the machine’s high processing temperatures.
+
+The manufacturer claimsthat if the machine is kept relatively busy, it can repayits costs in a couple of years froth savings overcommercial piocessing rates. Although’ theUse of such Ivcapital-intensive technology may be unacceptableto many planners in countries which are starvedfor capital and jobs, the automated processor doesoffer guaranteed colour quality which is otherwisedifficult to obtain.- Sound transfer In order to have preciseframe-for-frame control over sound in editing, film-makers usefulkoat, a magnetic recording tape with the samewidth and perforations. of super-8 film. In this way,sound and picture are on separate mediaof identical length, and canbe cut at precisely corresponding points. In most cases, sound ‘Dust be transferred from ‘he original locations sound medium to fullcoat.
+
+Single-system sound When sound has been recorded on a magnetic stripe at the edge of the film, it is possible to project the film, and even to edit the film without sound transfer.
+
+However, this approach has a drawback. For technical reasons, single-system sound is recorded with an eighteen-frame displacement ahead of the corresponding picture frame.1 Whien two pieces of striped film are spliced, the sound corresponding to the new picture does not begin until eighteen frames after the splice. Depending upon filming speed, this will amount to either 1 second or lass without sound. In many cases, this technical deficiency is a small price to pay for the ease, speed and economy of single-system film-making.
+
+However, in some cases, such. as scenes of dramatic films which involve dialogue, momentary loss of sound can impair the Apw and impact of the film Therefore, many film-mikers choose to transfer the sound from the stripe to a fullcoat, which allows frans. e-for-frame editing of both sound and picture.
+
+This is done by projecting the film in a sound projector which emits pulses to which a fullcoat recorder can slave itself.
+
+Double-lystem: cassette or reel tape Cassette and 1/4 ,inch reel-to-reel location recorders -receive and record once-per-frame digital pulses from the camera Fullcoat recorders such as the Super-8 Sound recorder read -and regulate their speed by these pulses as they re-record the sound on to fullcoat.
+
+1. Moser Development Company does offer a ‘displacement recorder’ for $1400 which repositions single-system sound on the stripe opposite the corresponding picture frame, in order to permit frame-for-frame single-system editing. After editing, sound is once again transferred to projection sync eighteen frames from the corresponding visual frame. However, with each -rerecording of the sound, one must expect some loss iri sound quality.
+
+Fu &oat tape Some film-makers use fullcoat recorders (such as the Super-8 Sound recorder) as location recorders: This approach has the advantage of producing original recordings which are ready to edit. The disadvantage is the increased size and weight of the fullcoat recorders (12 lb).
+
+Other approaches: Other systems have been developed which eliminate the transfer of sound to fullcoat tape: the Inner Space electronic editing system, the Optasound Estecl and the French Viast equipment. These systems transfer and edit sound electronically, passing directly from original recording io final sound track. Since ‘they are not compatible with the emergingstandards in 8 mm, these systems have not received broad acceptance among 8-mm film-makers.However, the future development of these systems should be noted. -Editihg After both sound and picture have been preparedfor editing, there begins a very important stage in the 8-mm film-making process. The low cost of 8-mmfilm encourages its ,use in films which are nottightly scripted, and which have high shooting ratios (which is to say that much more film is shot thanwill be used in the final product). In 8 mm the film editoris likely to .have a great influence on the film, sifting through great lengths of relatively unstructured film& Thus the 8-mm film editor assumes a major creative role which goes far beyond physical cuttingand splicing of film and into energizing the flow and pace of loosely scripted or non-scripted film.- The creative function of the editor canbe discharged effectively only if adequate hardware is available to facilitate the nuts-and-bolts aspectsof . Until recently,- 8 mm was -rightly criticized rofessionals for not havingdeveloped such . Finally, these problems are being resolved.tithe last few yzars,a number of satisfactory alternatives have been developed foiediting efficiently,atvarying livels nfexpense and sophistication. Single-system editing The simplest,quickest and cheaiesttype bf 8-mmsound editing is strictsingle-system editing, whichinvolves cutting soundfilm, with the original soundrecording on the edge stripe.This method has twodrawbacks. As mentioned above,there is an eighteen-framelag betweenany given point on the sound stripeandits corresponding pictureframe. This means that thefirst eighteen frames ofnew picture after each cut areaccompanied by sound froma previous, scene.Although this unwanted soundean be erased, thereare no simple ways ‘of providingsync fiend’ for thefirst eighteen fraines ofa new Shot. This problem canbe avoided by planningone’s film so that the firstsecond of anynew shot is ‘silent? ‘The other disadvantageof single-system editingis having to physicallycut the magnetic striped film.Once cut, it is difficultto splice or rejoin smoothlywithout ‘iound bumps’or joltein the sound track be-tween cuts. As a result, single-systemediting requiresvery meticulous workmanship, especiallyif thework print is to be the finalprint. None the lessingle-system editing is quickerand, cheaper thaother approaches. Single-systemsound editors costas little as $160. They are particularlyeffective andefficientin producing inexpensivematerialsfortelevision. One leading writeron 8-mm film technology feels that the potential of strictsingle-system sound editingis very underrated. He-alsofeels this method, usedin conjunction With double-systemfine cutting, cannot I. Verioue issues of Super g Fihnakerhave contained ‘tricks ofthe trade’ which also offer partialsohitions to this problem. sgrirsZgrAW:2721:”.-010if Is* I…AlioMI be overrated. Tomaximize speed,shooting and rough editing should bedone lingle-system.This allows for maximum speed andcafivenience in. shootingand in sifting through largeamounts offootage to locate promising shots and scenes.Subsequent fine cutting should be donedouble-system, so as. topermit maximum controlof sight andsound.’ Thisapproach, makes even more sensewhen silent andsingle-system sound footage are tobe mixed intovideotape for,the fmal product.
+
+Double-system editing After, sound transfer,,the double-systemfilm has separate soundand picture rollscontaining equal lengths of super-8sized film and tape.Sound and picture are exactlysynchronized framefor frame.
+
+Double-system editingallows the film-maker toline up soundand picture atexactly the samepoint.
+
+This is done bymeans of the classic.mechanical film synchronizer,whichconsistsof two sprocketed wheels, which rotate(In the same axis.Sound roll and picture roll are fed onto thesetwo.wheels, and are held in place bythe sprocketsholes .on the film-and tape. Sincethe sync markshave been matched upat the beginning ofeach roll,synchronization is maintained as the filmand tape are woundback and forth through the synchronizer.In this way, thedoublesystem film-makerdispenses with thetroublesome eighteen-frame lagbetween sound andpicture, and gains a capability toedit sound andpicture in precise, frame-for-framesynchronization.
+
+However, - moreequipment than justthe synchronizer (and moreexpense) is requiredin order to edit double-system.The film-maker musthave a means ofviewing the pictureand of hearing thesound as they passthrough the synchronizer’:He must have a meansof storing film and tape,and of windingthem through theilynchronizer, viewerand sound head.
+
+Various systems havebeen devised whichaccomplish I. Lenny Liptck,’Filmeraft’, Super 8Filnsaker, Vol. 2, No. 3, June 1975. function. tôiuplete editing tables fordoubletem ‘8-mm film cost between$795 and $4,500.
+
+All “tho systems offei at least partially-motorized -transport of film and sound.This is because hand rinding does not produce realisticsound-. Further- MOre, the tediumof manually transporting double/ stem materialAstracts serious film-makers from sensing sthe flow of their films andfrom performing ereatjve editing functions. The Super-8Sound editing bench consists of a film viewer, a soundhead, and a motorized synchronizer whichpUlls sound and &- vire through the machine. Althoughfilm rewinding is manual, its design offersrealistic sound, mid lessens tho force required for rewinding.At $795, this unit is widely recognized- as anexcellent cOmpromise <between economy and performance.
+
+Consisting of simple and rugged mechanical components, the unit is particularlysuited to non-indiistrial environments where maintenanceand repair of ,00*plex equipment is a problem. Theonly part which might ever be expected to break or wear, outis the motor, which can, beeasily removed and replaced. the synchronizer, sound head and rewinds aresimple components, which canbe expected to function flawlessly for a lifetime.
+
+The more complex editors may alsobe of interest to many 8-mm film-makers.The more elaborate hardWare uses a horizontal configurationand a completely motorized transport. Film andsound can be run through thehorizontal editing tables, at exact sound speed, at a slow, crawl (forreview of specific cuts) or rapid speed (for search ofparticular shots of scenes). The Super-8 Film Groupestimates that horizontal tables can reduce eflitingtime by 50 per cent. Of course, theseediting tables cost more than the above unit, and consist of morecomplex components, which are inevitablysomewhat more subject to maintenance andrepair problems.
+
+The basic table of this design isthe MKM, which accommodates one piciure track and onesound track, and which costs approximately$2,000. Inform reports say that themachine is well made, The Super-8 Research ten-plate editing tablefor three sound tracks and two film tracks, completely motorized. [Courtesy of Super-8 Research Associates.) 4 9eoe well worth thecost. Recently, a smallcompany,Super-8 Research Associates,introduced a mOrebasic table, which willcost about $1,000. However,these simple tablesare only the beginning of the trendtoward rapid and professionalizedediting capabilitiesfor super 8. Super-8 Research Associates hasalso developeda.table which has two Oiethretracks and three soundtracks. The table contains electroniccircuitry whichallows mixing of two tracks (syncsound, plus music or narration) into a third master track. Thesecondpicture track speeds the locationof .cutting pointsfrom one camera angleto another. This table costs approximately: $4,500. Althouthmuch more expen-sive than the Super-8 Soundeditipg bench, thiselaborate machine is muchless expensive thancorresponding 16.mm equipment.Similar tables bythe major 16-mm manufacturers(not all of which,however, offer sound mixing) cottbetween $8,000and $12,000. In Europe, a dumber of highlyimproved modelshave been developed forsuper 8 for single- or doublesystem sound editing. Steenbeck (FederalRppublicof Germany) already wellknown for its 164nm and 35-mm equipment, has manufactureda simple editingtable for super 8 (ST1068s). It is’a.horizontalfour-plate table with ohe 8-mmpicture track andone16-mm fulleoat audio traek. Allplates are motorized (220 volts 50-60 Hz; 1,10 voltson request); a rearscreen projects the image to ber edited.Cost isapproximately $5,800. Steenbeckis. also developing a six-plate *film…editing machine andas soon assufficient market demand exists,they will also beprepared to installa 8-mm fullcoat audio trackinstead of the present 16-mmtrack. Another German model is theKEM RS-Supereditinctable with six plates(one super-8 picturetrack and two super-8 soundtracks). At an ex.worksprice of $8,700, the table offersscreen projection ofcuts before editing, motorized tracks,variable for-ward-reverse speeds from 0to 100 frames per second, sync speed for all tracks at 24- framesper second.
+
+It is avaQable in 110,220, 240 volts at 50 or60 Hz.
+
+More expensive models featureinterchangeable sound and picture plates andinterchangeable film gauges.
+
+What appears to be oneof the more advanced ‘designs is -the Atema(Sweden) filM-editingmachine,- still in proiotype formfor super 8. Aside fromediting the picture track, themachine can edit sound,transfer scona ‘’.to magnetic stripe,perforiii post sync narration, pre-mix and finalmix: The entire table*eighs V’ kg hut can be collapsedcompactly for storage or movement.Although they cost leestha p. the corresponding 16-ram equipment,the more Ilrofessionalediting tables may seem expensiveto 8-mm users.Their complexity may inspirefear in those who arefar. from maintenance andrepair ‘stations. Nonethe less, there are twOfavourabirfeakars, even for someapplicatiorp in ‘non-industrialcountries. The professional editing table is -a greattime-saver for creattive: per- , sOnnel and the timeof creative people isalways limited. .Secondly, Manytables use’ a modular constrUction, whereby’ eachcompohent can be removed and servicedindividually: Thisfaeilitaies on=site maintenance and return tothe factory of thedamaged module, rather than ‘the enachine. Modular. conetrUction also:7facilitadd-on Purehases or / phased developmeni oferfuipmesit…Splicers Whether film is reviewed onthe siinple Super.8hound bench, (3,z on the complexSuper-8 Research talle,it is Cut and reassembledby aisplicer, adevice’eh is classically simple,reliable:and inexpensive.There are two basic waysOf splicing film: tapesplicing and cement, splicing.’Tape .,isthe cheaperand safer method, in the sensethat editkng decisions canbe easily changed byremoving the splicing tape.At $15, the Guillotinebrand tape splicershould be’ heralded as one ofthe bargains offilm-making. Fuji alsooffers an excellentand inexpensive tapesplicer.
+
+The second alternative is cement splicing, which Wins film,,,zegments with a chemical bond. Cement splices are Stronger thari tape, and ‘also more .per- :..nianent. With ceme, it is difficult to reverse editing decisions. On the other hana goo,d cement splice goes through the projee sm othly and , cannot ‘separate to createWhitelias es onI1e screen as tape splices can. A particularly popular ‘splicer is the- Bolex bevel-edged cement splicer. This model produces splices no thicker than the film itself which do not jump in the projector.
+
+The Super-8 Film Group feelsthat. quality cement splices, comparable to 16 mm, can be obtained in 8 min:. However, 8 mm requires more clean and metieulous working procedures than does the larger 16-mm format. For these reasons, film-makers who. have trained and grown accustomed to 16 mm find it tedious to edit 8 mm. Those who learn their craft on 8 mm soon learn how to splice the ‘modest medium’ quickly and cleanly. $ound mixing After editing of sync footage, music, sound effects and ‘voice-over’ narration are often mixed into the sound track. When properly used, these techniques subtly increase the emotional impact of film They underlie McLuhan’s references to the ‘media massage’ rather than the media message. _Only with the intioduction of the Super-8 .Sound recorder and the four track ‘consumer’ tape deck did these capabilities come within reach of the modestly financed 8-mm filmmaker.’ Other inexpensive studio sound processing tools, such as microphone mixers and frequency equalizers, can be investigated through sources listed in the appendix on page 81..
+
+1. One fairly expensive sound mixer for super 8 is the Electta Sono Studio, a modified Sony TC-755 table-bashd tape recorder ith sound-mixing panel (about $2,700). A quartz-controlled pilot signal synchronises sound and image for transfer, mixing and editing of sound. Up to five sound sources can be mixed V and synched with either camera or projector signals.
+
+Whether the sync portions of a film are doublesystem or single-system, relatively tightly controlled sound mixes can be performed Nv *th minimal equipment. The better 8-mm soundrojectors have recording capability which allows adding music, narration or sound effects to a sync sound track.
+
+It is possible to reduce the sound level of the sync recording as the new material is recorded. There is some loss in quality in the original recording. Furthermore, mistakes in sound mixing can destroy the original sync sound. In spite of these drawbacks, single-system sound mixs are performed by many 8-nun film-makers.
+
+Displitc Once edited and sound-mixed, film can be shown b’y optical projection, by conversion into a television signal, or by transfer to videotape. The method which is chosen will depend upon the film applicition at hand.
+
+For optical projection, materials which have been shot and edited single-skstem can simply be played on a sound projector. Double-systemmatedals can be played only on a projector which has been modified to emit sync pulses, which can be read and followed by a fullcoat recorder which has feedback circuitry.
+
+During projection, sound can be transferred from fullcoat to the edge of the film, provided the film has been prestriped.1 There are two ways to create a television signal from 8-mm film: with a telecine film chain or with_ a flying spot scanner. The best known 8-mm television projector isthe Kodak TVM100A ($2,000). This projector must be used in conjunction with a telecine
+
+1. There are several machines available for striping camera original . super 8. Stripers range inprice from $30 to over $400. According to the Super-8 Film GAnip, exppnlive stripers such as the Bolex are well worth the money. For technical reasons, film copies cannot be striped by the film-maker. However; sound striping can often be done by the laboratory which prints the copies. .’tefl .4,14,1v ,0^ft ertere- A sound projector, theElmo- ST-1200, that can beconvened to sound recording arid mixing. (Courtesyof Elmo. Corporation.) tibia elinin in a television studio, in orderto convert 11.mta film to television images. On the otherhand,the flying spot scanner ‘isan entirely self-contained gyatei, whose signalcan be fed directly into a normal television att. Eastman Kodak manufacturesone Ivideoplayer’ for non-broadcastuse. (VP-I, $1,400) 7and another model which is technicallycompatible with broadcast equipment, and whichproduces a signal of broadcast quality (VPX, $1,300).
+
+Another display Option isto record the 8-mmderived television signalon to videotape. In fact,Eastman Kodak spokesmenrepor t,. that the videoplayer has hien used primarily for transferring8-mm film to videotape rather thin for directdisplay ofmaterials. Video display ismost commonly achieved13y use of a %inch Philipsor 3/4-inch Sony standard videocassette recorder. These machinesgenerally cost betWeen $1,200 and $2,000. They have the advantage of being far siMplerto operate than theopen-reel movie projector. A final display option, which rivals the videocassette player in its ease of utilization is the 8-mm cartridgeprojector.Unlikeopen-reelprojectors, cartridge projectors’ do not require threading.The cartridge is simply shoved into the machineand the volume is adjusted. However, this option doesrequirethe packaging of the film ina special cartridge.Many of these projectors cannot functionwith an original edited film, because the splices willnot passsitmothly through the mechanism.’Asaresult, cartridge Projectors are usually employed with-film copies.
+
+Distiiibution There ‘are deveral alternatives for distributionof 8-mm film materials: cartridge prints, reelprints, television broadcast. of originals, and videocassette copies. The cost and practicality of these options vary widely. Users of 16 mm and 35 mm are justified in criticizing the lack of standardization inmost il-mm distribution formats. /On the other hand, this situation can also be seen as an advantage,offering the 8-mm producer a variety of options.
+
+The .8-mm cartridge Many large institutional users of superare devoted to the cartridge projector.Cartridges or convenience and .fool-proof operation. Manycartridge projectors are light, fold into a small briefcase,, and cost 5150-$500. These models containbuilt-in rear projection screens for daylight viewing by small groups. Many can also dolong-throw _projection-for use in darkeneti rooms withlarger groups: HoWever, there are two reasons why_these tools cannot receive complete acclaim for use by,8-mm-produCers.
+
+The first reason is the difficulty of producing materials foil these projectors on 8-mm film. As ironical as it may seeth, most films distributed in this manner are produced on16 mni and reduced to 8 mm in printing by specializedlalioratories. While’ this solves a number. 9f print quality problemsthai plague 8 mm, it is not encouraging to people who want to use 8 mm as the productionmedium.
+
+There is a second drawback totlie, cartridge projector: the lack of standardization between equipment manufacturers. In a briefinVestigation, seven mutually incompatible cartridges were uncoveted.1 Some use magnetic sound tracks. Some use optical sound tracks, which are photographically printed on to the, edge of the film. Others use twocartridges; one for pictures, one forsound. This final approach deserves special mention.
+
+Three different, manufacturers are developing two-cartridge systems. Each of the three systems (called PIP, Cue/See and 1-9 liy their makers) uses a standard 1/8-inch audiocassettefor the sound track.
+
+Unfortunately, however, the cartridge which contains
+
+1. The seven manufacturers are: Fairchild, Technicolor,Kodak, MPO Videotronic, Bohn and Benton, Beseler, and Philips. In addition, there are more manufacturers of lesser knon special application cartridges. 11111111..-___ 110H.r sli:Imo1,Im “Iboo/.
+
+A16C `4.4:}4.11.1W’1* alegalligil.MMISMIMagal2711” 1, 4, ,,;.
+
+‘’orAi Io the 8-mm visual track is different in each case.Also, the method of regulating speed of the visual medium. by inaudible one-per-frame pulses Gon the audio track ‘ is technically different with each system. As a result, software produced on one system cannot be played on either of the other\ two systems.
+
+Nevertheless, if one commits to a speCific system ani uses it ina niajor application, the benefifs deriving from split audio and visual tracks are impressive.
+
+The, audio track always moves at constant sound speed. However, the visual track moves only when it is necessary to aepict. motion. Slow movements can be filmed and projected at six ornine frames per second. Still pictures, graphs and charts use only one frame of film, no matter how long they are to remain on the screen. Conventional motion-picturespeeds are used Only when lip movements or rapid motion must be shown.
+
+This capability of varying the speed of the visual medium reeults in savings on film and processing.
+
+A 20-minute programme is likely to use only 50 feet of film, which ‘would last only 3 nitnutes at conventional filming speed. Cost savings can be significant when .large numbers of film copies are produced.
+
+However, capital costs of these systems are somewhat higher than conventional film systems. Furthermore, quality printing and cartridge loading may be difficult to obtain in many locations. 8-mm open-reel prints The second major distribution alternative for 8-mm film is via film print on open reels. When problems of cartridge incompatibilityiredispensed with, 8-mm printing problems loom eir en larger. As mentioned above, laboratory se4vices in 8 mm leave ipuch to be desired, even in the film-production centresof the industrialized countries. Only a few laboratories in the world offer 8-mm film-makers the services which are standard in 1m,./At this point two problems, deserve furtheraboration: low print quality and inadequate edge-ni bering services. .are:, either positive reversal filpis, which iP*00$11 to ,* Positive ‘print, or negative films, which atter,processing must be.printed on to a positive film iii order to be viewed. In sumniary, film prints can be *di la Olive Ways, as listed below in ordes..of ascAidint; run quality: (a) positive reversal,film to positive print; (b) positive reversal ‘fain to internegative to positive-print ; (o) negative film to positive print. The third \ Inethod is the one which is most generally. .employed in 16 mm. This also offers matched pairs of camera and print films, whichdesigned to alloW for the inevitable contrast bu-up which resnits when a film print is male fro a,n oriemalt Since 8 nim is still priniy used by amateurs, -111:1 do not print film copies;8-mm film is positive reversal film,’which processesa realistic image with ,projection contrast. When print,e made, they must be made by one of the first twoa athods mentioned above, and they inevitabli involsome build-up in contrast beyona aa rmal pr jectiOn contrast of the original a d toweggerated colours where middle tones and detail are lost. The degree of quality loss from original to print depends upon the laboratory making the print, the film type-employed, andmost importantlythe quality of exposure and processing in the original film. Most film-makers. in both the industrialized and the non-industiialized countries lack access to laboratoriesywhich haveleade the large capital investment in equipment talk is necessary in order to offer the sophistication and cOntrol in printing available to the 16-mm film-maker.
+
+In order to minimize loss in quality during printing, 8-mm film-makers must exercise extreme control over the quality oltheir original film. Exposure and focus merit special attention. Scenes can be illuminated with aitificial lights and reflectors so as to minimize contrast in the original film When the original is printed contrast builds up to a- realistic, projection contrast level.
+
+Other solutions are simply to accept the lqwered quality of 8-mm prints as one limitation imposed by the ease and economy of the medium. Although contrastbuild-up can beavoided,considerable expertise and expense is required, whichdilutes the innate features of the ‘modestmedium’. Many filmmakers simply edit their cameraoriginal film, and copy by transfer tovideotape. This approach avoids the colour quality loss and the expenseof film prints’.
+
+Another point which militates in favourof editing 8-mm original is the unavailabilityof workprinting. 16-ram users generally edit workprint8rather than risk scratching their originals. Theoriginals are onli cut and prepared forprinting when the workprint has been edited- and re-edited to thefilm-maker’s satisfaction. When the 16-mm f4m-makeris ready to- match up or conform the original to-the editedworkprint, the process is speeded byedge-numbers, which are present at the edge of theoriginal, and which have been printed on to the workprint.
+
+In 8 mm; workprinting can cost almostthe same amaunt as the originalprocessing. Edge-numbering in 8 mm is rarely availablei andoften poor in quality.
+
+Since numbers are not present in the8-mm original film emulsion, they must be stamped on tothe edge of original and workprint. In thisprocess,,ink can spill from the edge of the’film and on tothe image area itself. When edge-numbering is notavailable, 8-mm film.makers who edit a workprint areleft with pie tedious and time-consumingiob ofconforming visually 8-mm unedited original to aminiscule 8-mm workprint. It is all the more criticalwhen editing animation Alms which demand edge-numberingfor precision.
+
+As a result of the aboveconsideration’s, many 8-mm film-makers edit their,original camera films as standard procedure. This requiresclean and careful working habits. However, therisk of damaging, scratching, or miscutting an vriginal mustbe weighed against the additional time andexpense of workprinting and conforming an original to aworkprint.
+
+Working with the camera original meansthat the cinematographer will have to give uplaboratoryprocessed fades and dissolves, butwith the right equipment he can always providefor these during shooting.
+
+The Acme mini-printer makescopies of 8-mm materiols andcanproduce optical sound. f Courtesyof PSC Technology,Incorporated.] In-house printing The decision toedit one’s cameraoriginal reduces dependence uponlaboratory servicei.It is now possible to considerdispensing- with suchdependence altogether. Resently, a printingmachine has been developed whichwoulid allow thesmall 8-nun procluction unit toduce its own printcopies. However, this printer hu’n tbeen used widelyfor production printing. Its afoplictitan would have tobe approachedon apurely experimentalbasis..
+
+The Uhler cineprinter is aninexpensive ($500) contact printer,which can produceblack-and-white……ylithits at a rateof 40 feet perminute. Allowingfor loading time, thismachine should beable to produce sixty copies of ahalf-hour film during an18-hour day.
+
+In addition to purereproduction printing,the Acme optical printeroffers a host offeatures fOr production of specialoptical effects. ThemaChine can ‘freeze ‘frames’from motionfooiage, fade toblack, produce dissolves,and ‘performdensity and dolour correction. Drawbacksof the Acme printer areits cost ($12,000), its slowerprinting speed, andthe great skill required for opticalprinting.
+
+In order to useeither of thesemachines as the basis for aself-contained printinglabootory, measures willhaye be developedfor processinglarge amounts offilm. In addition,the entireprintingprocessing sYstem mustbe devised andtested under real workconditions, before anyfirm conclusions can bedrawn. Perhapsthis new prospectof total independence fromoutside technicalservices will spur into actionthose film-makerswho are most remote from commerciallaboratories. 8 mm apd televisionbroadcast,.- i One way ofentirely avoidingthe time,complexity and expense of8-mm printing is todistribute 8-mm films by televisionbroadcast. Ofcouxse,,this distribution system presumesaccess totelevision receiversby tie audience, as well as access by the 8-mm producer to a televiaion: station. This method has the further limitation that audiences cannot schedule their viewing at their convenience or view a film for atecond time,- as they can when they have their own 8-mm copies.
+
+None the less, distribution by television is inexpensive and instantaneous. Whether a telecine film chain or a llying-spot scanner is used, image quality can be improved during transmission by electronic image manipulation. 8-mm roponents maintain that, when image enfilincement is properly done, 8-mm film and 16-mm film are almost indistinguishable on the home television screen.
+
+In countries where’television is still a developing medinm in search of new programme resources, 8 mm has much to offer by way of providing economically and quickly various types of materials taken from the local scene, even mixing these with graphics’ and live camera.
+
+Videocassette The simplest way of producing cassette copies of 8-mm materials- is to patch a videoplayer into a cassette recorder. Since, recording takes place at playback speed, one could produce almost thirty-six ‘copies of a half-honr film in an 18-hour period. The cost of the components would be under $3,000. Although this is a good deal cheaper than the Acme film printer, the ,equipment reqitired to play back a cassette ($1,500) is over six times the cost of a sound film projector with accessories: However, videocassette transfer of 8-mm materials has the advantage of allowing, titling, optical and sound effects during the transfer. Kodak recommends the use of two videoplayers ‘in conjunction with an electronic special effects generator. The product is recorded on to a videocassette recorder and copied by re-recording on to another cassette machine.’
+
+1. ‘Super8 Film inTelevision’, Videoftim Notes,p.10, Rdchester; N.Y., Eastman Kodak Co., 1974. (Publication No. H-40-7.) tSss#, 6 4 Conclusion , This rapid tour through the realmof current equipment deinonstrates the versatility ofthemedium.
+
+Figure 2 shows graphically the variousproduction options. But if the 8-mm revolution seemsincomplete, that impression is certainly correct.Even u this -suiirey was going to press, several new itemsof equiiimeat were being released inexperimental or prototype form. Standardization has not yetbeen achieved in film cirtzidges or compatible soundequipment. Film manufacturers still have to develop fineremulsions, an improved negative/positivesystem, and a more reliable and more widely marketed 8-mmfullcoat tape.
+
+It is expected that when a larger marketfor higher quality super 8 products exists,manufacturers will respond with increased standardizationand improved products. ,.This leads to a word of caution on-the .economy of super 8. At the simpler levels ofproduction tone camera, shoot-edit typefilming, single-copy positive for both workprint and release print,single systern unedited sound) it can be generally as;reedthat super 8 is an extremely economical medium.Vithen this simpls level of production is all that is needed tofeed supplementary materials for 4 live ortaped television pro-’ gramme, again super 8 is veryeconomical., But the moment the film-makerdemands a higher level of produCtion and quality (silentand sound cameras, double systemsound, synchronized sound and picture editing, negativeshooting, positive workprint, and positive release prints), super8 then approaches the methodology-and costsof professional 16-mm film production. If allothex costs of production are the same no matter whatthe medium, but equipment and raw costs comprise amajor part of the production budget,, then considerable economy can be niade in 8 mm. And thesimpler the production, the greater the economy. -The option for super 8 is not asimple matter.
+
+It will depend on a number ofinterrelated factors : Ortolan FIG, 2. Sway of hasproigiionalurnalim the uses and purpose of the film, the simplicity or complexity of the production, the level of professional - quality that is required, and of course the available &budget. If the increased costs of professional production seem inhibiting, this is balanced by the lower costs of simpler production which provide access to a film medium where otherwisethere may have been ione at all.
+
+## Chapter III: 8 mm in relation to other media
+
+Chapter III: 8 mm in relation to other media
+
+mmin relation to* other media Ever since the introduction of 35-mm filar in-the last century,, new audio-visual technologies have been evolving and defining their role in world communication. Whereasmm was initially, rejected by professional film-merg, is now become the most universally accepteof the professional production media for television. The, newer electronic technology of videotape, though plagued by the incompa0bility of several competing technical standards, iv-Undergoingconstantrefinement,miniaturization,and improvement in COlont to become a hot competitor of small-gauge film. Meanwhile, the 16-mm film-maker stands aloof from both the newer media, confident that his medium will reign supreme forever. ‘A reasoned appiaisal of the three media demands that one go beyond gland generalizations toward consideration of the strenkts and weaknesses of each ,medium in relation to a number of situations.
+
+The versatility of 8 mm There are many varyinglevels’ of funding and sophistication with which 8 mm canbe used. The equipment necessary to gain entry toth.ç medium could be as modest as the following: twoM-22 cameras, $60; two audiocassetterecorders, -$8; one silentprojector,’ $100; one silent editor, $100. onesplicer with tape, $25; developing tahk andchemicals, $100giving a total expenditureof $465 for a basic 8-mm production kit. This would allowin-house development of black-and-white film andediting of film. Non-sync sound could be recorded, and edited(by re-recording on-to the second cassetterrcorder).
+
+A laiger investment wouldallow for duplication of all &aide components in the system, syncsound, mixing of wildsouAd with sync sot4nd, and production of titles superimposed over alive action background.
+
+The selection and cost of anintermediate 8-mm sound production kit could be asfollows: two singlesystem sound cameras,$450; two quality microphones, $80; ten cheapsilent cameras, $300; six cassette soukid recorders,$300; one Elmo ‘Titlist’ camera, $30J’ onesingle-system editor, $200; two splicers (tape and cement), $70; tworecording sound projectors, $1,000; , one filmproCessing tank, $100; still camera equipment, $200;miscellanrous, $200 giving a total expenditure of$3,200 for the kit. This Amounts to two syncsound units, five non-syncsound units, and -five sileht units.In addition, the system has editing and soundmixing capabilities. Theonly costs not coveredby the hardware budget arethose of film, batteries, developingchemicals and audiocassettes.
+
+A full-blown 8-mmproduction system with a capability of distributing copiesvia broadcast television or videocassette wouldentail aG’ investment such as that containedin Table 2.While $52,325 seems like a greatdeal of mdney I. in the context of it:mm film, this amountrepresents TABLE 2. A complete 8-mm production system (in dollars) Equiiment Location equipment 1 Beaulieu 5008-S sound camera with zoom and macro features1,600 2 Kodak profesonal XL sound cameras at $425850 2 Nizii 801 cameras with dissolve.capacity and intervalometers at $809.1,600 4 Eumig mini-5 cameras with zoom lens at $3001,200 1 Ehno ‘Tit list’ camera with macro and titling capability500 3 Super-8 Sound Scipio cassette sync recorders at $150450 2 Super-8 Sound Scipio cassette crystal sync recorders at $200400 2 Super-8 Sound crystal camera control boxes at $250500 2 Super-8 Sound XSD cassette crystal Sync recorders at 55001,000
+
+2. Kodak basic sound cameras at $150300 10 Kodak basic silent cameras at $30300 Price TOTAL8,700 Film processing equipment Kodak automated processor with accessories Sound processing equipment
+
+1. Super-8 Sound resolver200 2 Super-8 Sound fullcoat recorders for sound1,290 1 Teac 3340 Simul-sync recorder for sound mixing1,200 1 BSR Metrotec FEW-2 equalizer for sound mixing200 1 Sony microphone mixer for sound mixing300 TOTAL3,190 Editing equipment 5 simple sfitgle-system editors at $2501,250 2 Super-8 Sound single/double-system motorized editing benches at $8951,790 1 MKM horizontal, fully motorized editing table2,000 1 SERA PCP 45 eight plate editing table4,495 Taw,9,535 Projection equipment 2 Bo lex SM 8 sound projectors with recording and mixing .functionivat $6001,200 3 Kodak VPX videoplayers at $1,3003,900 1 special effects generator at $2,500’2,500 1 videocassette recorder with accessoriee2,500 1 television monitor800 TOTAL10,900 Miscellaneous Lights, tripode, camera silencers2,500 Spare parts, cables, connectors, etc._2,500 TOTAL5,000 617 TOTAL52,325 only tWo studio television cameras of the type used by the El Salvador educationaltelevision reform.
+
+For this amount, an 8-mm film projectreceives twelve simple location units for ,trainees, five inter- -mediate units, and five top-quality units. Film processing is done in-house, as are all soundtraiisfers and mixing functions. There are five, simpleeditors, twO senii-motorized singlefilouble-system editingbenches, and two fully motorized editing tables. Ifcopies of programming are needed, they can. hemade on -inch videocassette.Virtually all the technical functions of filmmaking are handled without any dependence upon outside technical services. This would beimpossible in, 16-mm film A total of twenty-two locationunits and nine editing units are included. These capabilities are achieVed for an expenseequivalent to three top 16-min cameras. 8-mm v: 16-umi film Several of the benefits of 16-mm film havebeen menkned above. 16-mm image quality isacceptable eithlir for direct projection, in conjunctionwith videotape,orfordirecttelevision transmission. 16-mm film is a thoroughly professionalizedmedium in wide use, offering the film-maker abroad seltion of quality equipment, of film types, andof t services.
+
+However, 16-mm film is a correspobding y more expensive medium than 8 mm. The leastexpensive camera is a spring drivenBell and Howell without a zoom lens, which costsabout $500. For the same money, one can purchase an8-mm camera with a motor drive, an automatic exposure systemand a motorized zoom lens. The most expensive16-inm cameras cost almost$15,000. Just the film magazine for the Arri BL costs more ihan ahigh-quality, 8-mm camera.
+
+In like manner, other types of equipmentfor 16 mm cost several times their equiiralentin 8 mm.
+
+Virtually all professional sync tape reborders 16 mm colt over $1,000. In 8 mm, the simplest tape recorders are available for under $150. A horizontal editing tablein 16 mm generally costs over $8,000.
+
+Such tables for super 8 can cost as low as $2,000.
+
+Sound-mixing equipment for double-system 8 mm costs under. $3,000. In 16 mm this equipment is so expensive that virtually no individual 16-mm users own their own equipment. Sound mixing in 16 inm is done by professional sound studios whichcan charge over $120 per hour for their services. The lower cost of 8-mm equipment enables the 8-mm user tr own his own equipment and to escape from expensive rentals and technical seryices.
+
+Running film through the 16-mm camera isa good deal more expensive than 8 mm. Whilean image area three times that of super 8 yields greater image , quality, it.also results in much higher bills as shown ine Table 3.
+
+Of course, for the added cost of 16-mm production, the film-maker gets: (a) access to the finer professidnal film emulsions; (b)a negative/positive film system; (c) frame-for-frame synchronized doublesystem sound; (d) a variety of picture and sound editing/mixing tables; and (e) high-quality positive prints. Synchronized sound and professional editing/ mixing tables are available in 8-mm, but at a cost that approximates that Of 16 mm. But film emulsiOns, negative/positive system, and multiple prints rivalling the quality of 16 mm have not yet been dcveloped for 8 ram; The 16-mm camera and sound accessories are also available in relatively, compact form, not always as light and versatile as its 8-mm counterpart, but portable none the less and usually quite rugged.
+
+TABLE 3.. Costs of 1.0.minutes of filming (in dollars) FilmProces.singWorkprintTotal 16 ram443244120 Super 816.801222’50.80 Double super 81112.2515.2538.50 When iilanning for simple productions, shoot/edit type sequences, silent footage (assupplementary television materials or for olive narration) simple demonstration clips, films with music or sound effects but no lip-synch (synOronization of voice with mouth movements), or use of camera originals only (no workprint, no copies), then 8 mmprovides the most economical and simplest seeds to a film medium. Whtn the purpose of the film demands finer filmemulsion, multiple prints, tightly synchronized sound editing, various optical effects produced during laboratory processing in brief, professional film methodologythen the film-maker must either accept ‘the higher costs of , professional 8-mm film production, or even optfor the still higher costs of 16 mm.
+
+The figures in Table 3 show that shooting 16 mm costs almost 2.5 times as much as shooting super8, and over three times as much as double super 8.
+
+These savings become especially important in aria filming, where shooting ratios are high, since one cannot control when interesting eventswill occur before the camera. Since actors are not hired and scripts are not written, film costs are a major item in a virité film budget. As aresult, 8 mm is ideally suited to this typ.e of film-making.
+
+On the other hadd, ihe lower equipment and materials costs of 8 mm become less important, in tightly scripted films which use professional actors and large crews. In the budget of such a film, equipment and materials costs are relativelysmall items.’
+
+The over-all cost of the project is not greatly affected by the added costs of 16 aim. In addition, the added costs of 16 mm are justified bytechnical quality required to niatch the scale of the production. In the words of Robert Doyle, presiden of Super-8 Sound, ends. of the camera are worki g for love of their craft rather than for money.,’
+
+Indeed, there are some instances when 8 mm can prove more expensive than 16 mm.If one needs to ,distribute a 16-mm product, it may prove cheaper to shoot the original on 16 mm rather than to enlarge an 8-mm film to 16 mm. Althoughquality blow-upsaxe available, they are expensive.It would cost -fromS1,500 to =MOto enlarge a half-hour filmto 16 minThis expense might wellcancel any savings whichhadbeen realised byproducing on 8mm.. Furthermore,a film transferred from 8 inmto 16 mm will inevitablybe of. lower technicalquality than a filmproducedcompletely on, 16mm In addition, filmsproduced and disuted on-8 min can approachthe costs of 16” “, if manyprofessional technicalservices suchas ptical andsound effectsare handled by outside laboratories.Only when technicalfunctions are performedby the8-mm film-maker himself,do costs remain low. 8-mm film v. video The other medium whichis often proposed inlieu of8 mm is small-formatvideotape. While thistechnologycannot be explored in depth inthis context,somecomments are in orderon the question of 8mm vvideo. Another approach,8 mm plus video, willalsobe mentioned. Videotape is anewer, more complex technologythan, film. Videotapewas invented less thantwentyyears ago, and derived from theelectronic technologiesof audio recoiding andtelevision. The first portable,small-format videotaperecorder did notappear until1968. The first portapak(portable videotape recorderand camera) wit)i colourcapabilities appeared within”the last threey ars.t.The portak has progresseda long way sinceits introductionseven years ago. Unlike the initialunits, the currentblack-and-white modelsprovidereliable service andacceptable. images, if theyarecarefully maintained.Regarding the colourporta-paks, there have beenfavourable informalreports.However; one must keepin mioethenewness andcomplexity, and rapiddevelopment, of this technology.The basic Sony portapakcosts in the area of$1,850. The recorder and,camera weigh about 22 lb. They produdeblack-and-white images on30-minute reels of Yrinchvideotape, which costabout $20.
+
+The recharpablebattery pack powersthe unit for 20 minutes. Soundis synchronouewithpicture, since it is recorttqglsingle-system at theedge of the tape.
+
+The ima0 can beplayed back on theunit’s recorder through’any television set.Processing of visualimages and transfer ofsound are eliminatedin electronic recording. MateYials canbe, played backimmediately after recording.Videotape is cheaperthan film. Unlike film, used videotape canbe erased andre-used.
+
+One televisiondocumentary, televisednationally hi the UnitedStateu,was edited downfrom 90 hours of 1/2-inchvideotapeltsee Table 4).The cost of producing such a programmeon anyfilm format would have been astronoinica).
+
+Of course, a shootingratio of ninety to oneis highly unusual.Many people maintainthat the low cost of video encouragesunnecessaryshooting. Nevertheless, the lowered costof shooting video isimpres- .sive, and does makepossible new typesof spontaneous audio-visual communications.
+
+In order to attainthese lower materialscosts, the video producer mustinvest much morein hardware Ithan the 8-mm user.In addition tothe camera/recorder unit, editingequipment must bepurchased as well.The minimum costof a sample 1/2-inchvideotape productionsystem (blackand white) wouldbe as follows: oneSony 3400 portapack,$1,850; two Panasonic 3130 editingdecks at $1,800 each,$3,600; two Sony12-inch monitors at$300 each, $600; miscellaneous (cablea, powersupplies, microphones,lights, TABLE 4. Film andproceuing costs for ninetyhours of shooting (in dollars) With fullWith no workprintingworkprintlng 16-mm film64,80041,040 Super-8 film27,43215,552 Double super-8 film20,79012,555 . 1/2-inchvideotape3,6003,600 equipment modific*ons), $500; givinga total of$6,550 for a basic’ %-inch videotapeproduction kit.In order to produce suck. effedtsas titles, dissolves, and superimpositions, additionalequipment would. beneeded. In order to broadcast 1,4-inch videotapeover television, a time-base corrector (TBC) is required.This machine,,first introduced in 1973, eliminatesthe smalltiming errors of small-format videotape,which pre-viously prevented it from attainingbroadcast quality.One of these machines costs about$14,000. Althoughtelevision stations in industrializedcountries-are beginning to purchase this equipment, videoapplications in non-industrialized countries might wellhave to addthe cost of a time-basecorrector to their hardwarebudget. Under this assumption,a project using video in a non-industrialized country Would need $20,000 worth of hardware in order to gainaccess to televisionbroadcast, For 8 mm touse television, the hardwarementioned in the simplest applicationabove wouldneed merely an additional investment of$1,300 in a Kodak VPX videoplayer, whose signaldoes not require time-base correction before broadcast.For theMoment, only sixty-cycle versions ofthe VPX areavailable. Nordmende of the FederalRepublic ofGermany has shown a prototype flyingspot scannerwhich operates on fifty-cyclecurrent. Thus the hard-k, ware cost of gaining access to television with 8mmwould total under $2,00tA A video system which produces qualitycolourvideotape watdd requirean investment such as thefollowing : Sony 1600 colourcamera, $5,000%; Sony3800portablecassettevideorecorder,$3,000;Sony 2550 editing programmer, $1,000;two Sony 2850 editing decks at $6,000 each, $12,000;two Sony17-inch television monitorsat $950 each, $1,900; mistellaneous (cables, microphones,.lights, tripods),$2,000; giving a total of $24,900 fora basic colour videotape production kit. Thissystem contains anadvancedprogrammableeditingsystem,which .increases quality and speed of editingover that offered by the lessautomated systemssuch as the black and white systemmentioned above.’It is also easier and quicker toedit en than thesimple mechanical tables of the$2,000 8-mm system.Of course, automation also ha’s amajor drawback.As a state-ofthe-art system, itis nave complex morefragile, and certainly more subjectbreakdos:in than the relatively simplemechanical editing sycuemsof 8-mm film.
+
+None the less,8-nun film userswho have the necessarycapital, the access torepair facilitiesand the need for rapidediting can thinkin terms of combining theirtechnology with video:8-mm materials can beplayed back on avideoplayer, andrecorded on avideocassette recorder.Then they can beedited on theSony programmedediting system.The final product can bedistributed bytelevisi4 broadcast or byvideocassette copy.
+
+If cost is a majorfactor, 8 mm has anedge over videorecording in the generationof television and videotape niaterials.A single-system8-Mm camera plus a videoplayercosts between-$1,600 and $3,000, depending uponthe camera quality.This is a far cheaper systemfor generatingcoleur television signals than eitherthe Akai colourportapak ($6,000) or theSony camera andportable recorder($8,000).
+
+It is also ‘Rualighter and morerugged than video– recording equipment.
+
+Video recording, onthe other. hand,has some distinct advantages overfilm, As detailedabove, tape costs asmall friction ofthe cost. of film.Tape does not ‘requirethe expense andaelay of processing.
+
+Video productionis Instantaneous,and Offers immediate playback.Video images have alive iiresence to them,which ,film does nothave. Continuoustechnical progressin electronicsis improvingvideo equipment, andreducing its cost. should be noted aboutthis editingsystem\does not have thecapability to producedissolves, titles or supers. Secondly, prices onsophisticated programmededitors areAn additional $5,000worth of equipment isrequired foi this. expected to drop as”or manufacturersintroduce models to compete with theSony system.
+
+Fortunately, it is possibleto have the best ofboth worlds, especially if televisionbroadcast ofvideocassette is the distribution format.Under theseconditions;iannisl in view of thecurrent ease of trans-ferring 8to television signals; it is possibletogenerate original niaterials in eithermm or video,according to the demands of thespecific -situation.A viriti situation that demandsan extremely highshooting ratio, where electricalcurrent is available,would call for video origination.A locatiOn withoutelectricity, where portabilitywas a consideration, or where equipment might be damagedor lost wouldencourage the use of 8 mm. From shooting, the integrationof 8 mm and videoextends into editing andsound mixing. Producersworking on small budgetscan edit 8-mm materials, entirely on film, and transfer the final Producttotape, at which time video materialcan be edited inProducers with larger budgetsmay choose to transfer8-mm materials directto tape, and then edit beth8 mm and video materials entirelyon videotape.The trend seems definitelyaway from confrontation . between the two media and towards ‘ a synthesis whereby preproduction materials fromvarious media16 mm, single-,and double-system,8mm, videotapeof different formats, effectson andiocassette, plusinputs from live televisioncameras, graphics orslidesare mixed electronicallyinto a final videotapeproduct. One would hope that producers willcbrne to seethemselves notas film-makers or televisionpro-ducers, but as image makers .whomix a range oftechnologies according to thedemands of eachspecific situation in which theyoperate.
+
+## Conclusion
+
+Conclusion
+
+In -the light of the previouschapters, we cannow summarize the qualities of 8-mm filmand put themin the :balande of planningdecisions for mediaapplications.owe 8 4:m is economical. Adequateequipment in blackand white or,Lin colour, withor without in-house processing, Ira be obtainedat less than half thecost of equivalent 16-mm equipment.Lower costs for film also mean higher film ratios and consequently more varied editingdecisions.8 mm is versatile. Lightweiiilt,miniaturized equipment means greater portability andmovementinto ‘high-risk’ areas atsea, perilous mountain crags, etc., where professionals would think twice before lugging in,a 16-mm or 35-mm camera. 8-mm versatility permits shooting underalmost any condition. Its essence ik spontaneity and participation. 8 mm is easy to operate. Simplicity ofoperation ‘allows larger groups of people to gainaccess to pro-Auction materials without lengthy,technicaltriining. It also givesmore time for the creative people to express theirgenius on production infle jartisinstead of mere technicalities. or8 mxible.Due to the variety ofequipmentOptions, 8-mm equipment canbe used solely for film or in conjunction withtelevision and other video materials.As a strictly film medium,there are numerous waysof combining sound andimage. 8 mm is basically aproduction medium, not adistribution medium. The many newfeatures incorpor ated intotodaY’s” 8-mm cameras(low lightcapability, built in light meters,manual ax,, electric zooms, automatedfades and dissolves, . “ stop-frame shooting, and thelike) have generated ,basically a production system.Beeause of this, most editingdecisions have to be pade or atleast ,foreseen at the time ofshooting. /Double-system editing, soundtransf,and sound mix can be performedwith 8-mm jquipment at reasonable cost, but the moreprecJin and quality equipment are needed,- thehighere costs rise.
+
+Moreover, since most 8-mmfilm is available only in positive reversalform, the 8-mm system ismainly,, for shoot/edit andshow. As of this writing,laboratory processing for 8 mm has not yetreached the soiShistication of 16 mm and 35 mmwith controlled-contrast prints. Apd indeed theworld-wide demand for such prints hi& not madeimproved laboratory processing commercially viable. Extraprints, however, can be made; and with tolerable contrast,aslong as the _film-maker foresees thisan*repares for it by proper lighting:…ndshoot/edit –4elisions.The improved.,featUres of 8-mm cameras notonly provide fcr these shoot/edit decisions, theyalso compensate somewhat for the restrictedlaboratory possibilities.
+
+Taking these basic qualitiesinto consideration, communication planners willhave to Study whether their problems .can besolved by a mediumthat is economical, veseatile, simple tooperate, flexible,but with limitations inmaking extra copies.They will, also have to decide iftheir situation can acceptthe slightly lower imagequality for otheradvantages, like portability and economy. /n the developing countries, the poesibleuses of 8 mm are numerous, most of them.not fully exploited, evcorst ciguitiespprorvitdraie nfiinlmg, miAnca118-ymmforprounijctrenainintresgcoencocneno: Irating on film or film-to-televilion production for education or culture. 8 mnffrfan provide buick, lowcost programme inputs for existing television stations. 8 mm can be taken to the bushor the isolated farms for on-the:spot reportageor cirtima iiiriti essays. 8 mm can reflect the depth and varii:ety ofa culture to its owir people, even using separate sound trackson capsette for the many dialects spoken. As a matter of fact, the more 8-mni cinematographers keep ‘away from the ‘established practices’ of filming in the jndustrialized countries, themare they can create new possibilities and applications of the medium.
+
+In ‘the long, run, it must be recognized that the .8-mm revolution ii not finished. It has just begun.
+
+The new directions 8 Aim will yet take will ingreat part be determined by its usage in the,next few yetars.
+
+Greater ‘demand for further professionalizatimi of equipment -and film, as well as more pophisticited laboratory processing, will eventually, inspiremanufacturers to respond with impro44’ tet simpliflfd hardware. The tentative nature of mach of thisreport is due to the fact that this revolution is still goingon, that equiprrient isstill being improved and eyen invented.
+
+Like the box camera of oldor todpocket44411. .110 automatic camera, 8 mm is a medium that began in the hands of the amateur. Its language is simpliCity, its manner spontreoils, its usageas creative as its user. In the TVV World especially, the possible innovations with 8 mm are considerable. And very , likely it is in the Thifd World that the 8-mm revolution .,will have its greatest impact.
+
+## Appendix: Access to further information
+
+Appendix: Access to further information
+
+Acess to futther ‘information Obtaining accurate, and current information on 8-mm film technology requites active inf&mation seeking. Since work on this study was begun, two ma’or8-mm equipment have ap, which affect theential ome ‘um (the# ‘Acme4ical printer, and the Kodak VPX brovideoplayer)n any field which is developing so radly, booksC cannoe relied upon. Most of the informationthis study .,is detive from catalogues, magazines and conytions people active in the development of the mectiuThis last) type of info!lna’tio1lii crucial in order to counter the elaggeration often found tin 6ransijacturers’ catalogues, an& in the magazines in which manufacturers advertise. .In the list of information sources below an attempt has 7been made to supply all tinformation needed for readeis eto gain access to the soe listed. In addition to the city of ..publication and publisher, the’ ‘aceess bibliography’ below als includes the publisher’s address and the price of the book. In order to speed service, payment should be-made in advance by international money orderet By the time these words are in print, tWo excellent books oh 8 mm willhave been published. Their in-depth- ‘how-to-doie coverage of 8 min should complement nicely the ‘whatcan-be-done’ orientation of the present study: -te.
+
+Boos, Gunther; litsouts, Mark. Handbook of super 8production. United Business Publications, 750 Third Ave., NewYork, NY 10017, 197$. MS&. z These two film-makers have been working professionallyin 8 mm for over fiVa years. They own the onlyproduction company in New York which is dedicated exclusiVely to 8 mm.Their book will cover the entire range of8..mm alternatives, from the simplest to .the most professional. Their knowledge of nuts-and-bohstechnical aspects of 8-mm filni-making should beused before.committing oneself to the medium. larron, Lenny. The super 8 book. Straight Arrow Press(625 Third St, San Francisco, CA 94107. $6.95), 1975.r.
+
+The author of what is generally con,idered thebest American text on. independent film-making has turnedhis interest to 8 nun. Some years ago; he abandoned 16-mni film to concentrate on’home movies’. He is enthusiastic about the advantages of modestapproaches to media production.The book is a comprehensive review of 8-mm hardware and of software production techniques.
+
+Of the many . existing manualson film production, several devote a significant amount of their tame to8-mm filmmaking: COML. David. Mociemaking. ‘LoyolaUniversity Press (Chicago IL 60657. $3.50), 1974.
+
+Although this book is oriented to. Americanstudents familiar with American fpaiure films, ikoffers a number ofinteresting exercises for developing creative as well, as technical skills.It is oriented toward 8-mm film.
+
+EASTMAN KODAK CO. Movieswitsh c:**P-urpose : a communicator’s guide to single concept jilms.Esistman Kodak Co. (343 State St, Roehester NY 14650. $0.15), No. VI-13, 1974.
+
+This booklet dembastrates some verybasiC cbncepts i of film Asign. It discusses cnnceptualization of film messages; storyboarding, shooting, anndamentals of lighting and editing. It is well worth the investment. Upon request, Kodakwill send an index of then, entire technicalpublications..
+
+GLENK, George D.; SCHOLZ, Charles B. The super 8handbook. Howard K. SeAs Co. (Indianapolis IN 46268.$4.5Q), 1973. &ice it has been in print for over three years,the hardware information in this book, is almost completelyoutdated. However, ,there are good sections on how to budget, script,organize, shoot, and edit 8-mm films inexpensiviaN ‘Apron, Lenny. Independent fihnmakingStraight Arrow Press, (625 Third St, San Francisco CA 94107. r I95),1973.
+
+Although it is primarily oriented rward 16 mm,this excellent introduclion to film-mak* makes extensivecomparisons between 16 mm and 8 mm. Of course;hardware’information is out of date. imam, John. Ai introduction to cinematography, Stipes Publishing Co. (10-12 Chester St, Champaign IL 61820. 55). 1974.
+
+This book itfidl of practical exercises and techniques for becoming a good cameraman and film-maker.
+
+Anyone natiergoing training for. mproduction should’ also acquaint himself with the betterorks in the film theory and visual comrnunications literature. A few of those works are fisted below : Aninurns, BudalL Film as art. University of California Press, (2223 Fulton St, Berkeley CA 94720. S1.95)58.
+
+One of the major theorists on art and vihisl perception meikis his statement-6n- film. . Visual thinking. University of California Press (2223 Fulton St, Berkeley CA 94720.69.
+
+In this- w, Arnheim deals in depthwith concepts which should be ofOrest to any film-maker.
+
+EISENSTEIN, Sergii. Film sense.Harcourt, Brace, JaVanovich, (757 Third Ave, New ‘York NY 10017. $2.45), 195’8..
+
+Eisenstein was not only a great director, but also a brilliant film theorist. His thoughts are as worthy of study today as they were when they were written.
+
+GASEILL, ArthUr L.; ENGLA.NDER, David A. Ilow to shoot’ a movie story : technique of pictorial continuity. Morgan & Morgan Inc..(Hastings on Hudson, N.Y. $2.50).v.
+
+This book specializes on motion-picture photography, and the particular visual conventions of film language. Reading this book will help 8-nun film-makers avoid ‘reinventing the wheel’ as regards visual atOryteillag., MANiZ, Harold. Photo design. Van Nostrand, Reinhold Company, Litton Educational Publishing Inc. (450 West 33rd St, New York NY 10001. $12.95).1971. . Color design in photography. Van Nostrand, ReinholdCompany, Litton Educationsd Publishing Inc. (450 West 33rd St, New York NNI,10001. $15.95), 1972. iThe above two books offer an excellent introduction to the inbject of photographic composition. All films should treat their sulqect matter in a visually artistic manner. There is no reason why a practically oriented film cannot also have artistic quality. These books are helpful in sensitizing beginning film-makers to visual design. McKim., Robert. 4periences in visual thinkiiig:Wadsworth Ptiblishing DCo. (Belmont, CA 94002. $7.95), 1972..
+
+This e%cellea$ workbook . helps sensitize the student to the unrealized potential of the ‘human lirain to think in vbual. terms. Many fucionting exercises for developing this facility are scattered…throughout the book. All filtii-makera should be visual thinkers. This book can ?gip them become thit., There are a number of magazines which follow developnlents in 8 mm. Several of them are listed below: Movie-issolker. Model & Allied Publications, Ltd. (13-35 Bridge St, Hemel Hempsted, Hertsfordshire, England. Annual subscription priest $10).
+
+This magazine is in the best tradition of the British holibyist. It gives ‘extremely thorough treatment to 8-*pment. Many technical tiis are included on how to achieve”onal eftects at low cost. One of their columnists is creditedthe invention of the word ‘super 8.ft.
+
+Super 8 filmeksr. PMS Publishing Co. (3161 Fillmore St, San Franciscii CA 94123. Subscription pFice: $7 Per year for six issues). This magasine includes articles on specific professional and semi-professionartiplications of 8-mm film. Articles on technical tips are included in each issue. The magazine generally covers more items than Movismoksr, although in leu depth. Unlike Moviemaker, this znagazine stays right up to date on the newest advanies in 8-mm hardware..
+
+Filmmaker’s newsleuer, Suni Mallow, ed. (80 Wooster St, New York NY 10012. Subscription price: $3 per annum). Monthly.
+
+Although this magazine is oriented toward the independent 16-mm producer, each issue has a column entitled ‘Super Serious 8’, which gives an in-depth analysis of some new piece of hardware “from the critical perspective of the 16-mm film-maker., It is virtually impossible for anyone to be in direct communication with all the manufacturers or 8-mm related e osiipmsnt. During the course of this study, a list of over 175 Mindfacturers was generated. Information regarding available products can be obtained from the above sources, and from the following catalogues, which contain fascinating information On productsl. f rom.many manufacturer in many countries: Super 8 sound catalogue. Sur-8 Sound, Inc. (95 Varvey St, Cambridge MA 02140. $2), 1975.
+
+In addition toproducitand distributing a broad range of 8-mm eqnipment, this firm has become the best clearing houie of up-to-date technical information on 8-mm film in the United States. In addition to their catalogue, they publish a brochure detailing complete 8-mm systema for production and training. They alsolave available ($15) a loose-leaf notebook which, they maintain, includes manufacturers’ information on every piece of 8-mm equipment produced anywhere in the world.
+
+The superior bulk film catalogue. Superior Bulk Film Co. (442-450 N. Wells St, Chicago IL 60610. Free), 1975. hi. addition to film, this catalogue lists lights, tripods, and- ‘accessories of all types.
+
+The Edmund ecientific catalogue. Edmund ScientificCo. (100 Edscorp Bldg., Barrington NJ 00007. Free).
+
+This is a complete resource for anyonewih a love for photographic and scientific gadgets:Inexpensive equipmentfor special effects and trick photography abound.
+
+Finally, for broader perspectives on wherethe film medium has come from and op new avenues forfurther development, the following resources are worthyotconsideration: Boom, Lee R.; hthurns, Louise. Making movies :from script to screen. Harcourt, Brace & Jovanovitch(757 Third Ave, New York NY 10019. $7.50),3.1973.
+
+The authors haye a wealth of experience inprofessional filmmaking. Their knowledge is communicated inpractical and vivid ways. Sample storyboards, scripts,budgets, and stills from major feature films offer the 8-mm experimenter pointsof references which may be useI in devising new communication techniques.
+
+Miasma,coin. The anatomy of a television commercial. Communication Aks (Hastings House Publishers, Inc., 10 East 40thSt, New YoNV-10016. $12.50), 1970.
+
+This book offers an excellent in-depth accountof a communications format which has been developed to ahigh degree of sophistication in the United States. Some of itslessons may offer insights relevant to the work of 8-mm film-makers.
+
+FUGELSANG, Andreas. Applied communication indeveloping countries and The story of a seminar in appliedcommunication, Dag Hammerskjold Foundation (Ovre Slottsgatan 2, 75220 Uppsala (Sweden). $11), 1973.
+
+These ‘short books provide an excellentintroduction to the problems of using visual media to communicatewith people from non-Western cultures. Their orientation is oneof reverence for cultural diversity and practical suggestionsfor methods of communicating cross-culturally.
+
+GUNTER, Jonathan F. NFE-TV: television andnonformal education. University of Massachusetts (NonformalEducation Center, 285 Hills, House South 285, University of Massachusetts,Amherst MA 01002. This study reviews the philosophies of Freire,Illich and Coombs for,their implications regarding media usage innon-formal education. Three case histories of educational television arepresented and used to define a realistic role fortelevision in non-formal education in non-industrial countries.
+
+KENNEDY, Tim. The skyriver project: the storyof a process. Accesschallenge for change. National Film Board(P.O. Box 6100, Montreal, Quebec 113C 3115 (Canada). Free.), 1973.
+
+This article recounts the history of aproject which applied film to community developmentproblems in Alaska. A fascinating method was devised whereby control over shootingand editing passed fromthe proIAl.Ional film-makerto democratic couununitxconsensus.centred upon specifii problems facingthe community. Resultsincluded showing finished filmsto goyermnent decision-makers andthus obtaining decisions favourableto the Community in health andeducation matters. ‘Skyriver’contains lessons relevant to the 8-mmSlm-maker who aims at effectingreal world change through his work. Nonninesteuric Haar le; YARD), Tapio.Television traffic : a ope-sersystreet? (Reports and Paperson Mam Communication no.70.).(Unesco, 7 Place de Fontinoy75000 Paris (France) 6 F.)-This study documents the globalflows of television programmingfrom a small tnumber ofintustrialiied countries and to therest ofthe world. Questionsare raised regarding the effects of thispatternupon the world’s diverse cultures. Muchinformation is containedconcerning the communicationenvironments in which 8 mm willdevelop. O’llsusre, Rita Cruise. Dominationand dependence in mass communica-tions : implications for theuse of broadcasting in developing countries.(DIDS Discussion Paper No.64.) (Institute for Development Studies,University of Sussex, Brighten(England)). This thought-provokingpaper focuses upon questions of insti-tutional and cultoral dripendencewhich hinder non-industrial countriesin their efforts to apply broadcastingto develorent objectives. Ram, Fred W. Pretestingcommunications : aimanual of procedures. Family Sdy Center, Universityof Chicago,6 E. 59th St, University of Chicago. (Communicationandtu Chicago IL 606.37. SI.) This volume presents strategiesand methods for incorporatingferrhative testing intothe production and editingprocess. Althoughit focuses on a number of ‘modestmedia’ besides film, and althoughits subject orientation is familylife education; the book containsideas which should be ofgreat value to the 8-mm experimenter whowants to base editorial decisionson scientific research as well ascreative intuition. All theconcepts and techniques listed can beunderstood and implemented-by lion-specialistsand without devotingmassive resources to testing. Vman,o Ravi; GitosAi., S. L.; Bowuns,John; Huu, R. H. Actionresearch and the production of communicationmedal’. University ofReading. (Agricultural Extension andRural Development Centre,University of Reading, 16 LondonRoad, Reading, RG1 SAQ(England) $2.50.) This short book relates the experienceof a field workshop inIndia, wherein practical evaluationmethods were incorporated intothe media productionprocess. Along with the above volume, this book offers convincing evidence ofthe need for doing this and practical guidelines on how to do it. Thisbook should be read by allexperimenters in 8-mm film communication.
+
+Index of technical terms
+
+ 
+
+Camera obscura 21 Positive 30
+
+ 
+
+Cinema verite 18 Positive reversal 30
+
+ 
+
+Conform 64 Projection contrast 63
+
+ 
+
+Contrast build-up 63 ‘Quartz lamps 41.
+
+ 
+
+Dissolves 34 Single 826
+
+ 
+
+Double 8-mm format 22 Single-system 34
+
+ 
+
+ouble super 8 (DS8)26 Slaved 38
+
+ 
+
+ouble-system 34 Software 12
+
+ 
+
+s 34 Super-8 film 23
+
+ 
+
+eedback.37 Superimpositions 34
+
+ 
+
+Flying spot scanner 56 Sync filming 34
+
+ 
+
+Frames 21 Telecine, film chain 56
+
+ 
+
+Falcoat 44 Time-base corrector 79
+
+ 
+
+Hardware 12 jOe-lapse 32
+
+ 
+
+Macro-focusing lenses 32 Vorkprinting 64
+
+ 
+
+Negative 30 XL (existing light)34
+
+ 
+
+Photo-flood lights.41 Zoom lenses 32
+
+ 
+
+Portapak 77
+
+ 
+
+z 3 g

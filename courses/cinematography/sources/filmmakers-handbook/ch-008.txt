@@ -1,0 +1,541 @@
+CHAPTER 4
+
+The Lens
+
+This chapter is about lenses for both digital and film cameras. To create the kinds of images you want it’s necessary to understand the basic characteristics of lenses and how they control light to form images.
+
+Camera lenses gather light rays reflected from a scene in front of the camera and bend or “focus” them into a tiny image on the surface of a frame of film or a camera’s sensor. If you think about the fact that you can project a sharp, colorful image created by the puny 1⁄3-inch sensor of an HD camcorder onto a screen twenty feet across, as routinely happens at film festivals, you’ll realize the level of performance required of even an inexpensive zoom lens.
+
+All photographic lenses are complex assemblies of simpler lenses called elements, which are akin to the lens in a magnifying glass. Some of these elements are cemented together to form compound elements. The elements are mounted in groups inside the lens barrel (housing).
+
+Generally speaking, motion picture film cameras, DSLRs, shoulder-mount camcorders, and some smaller digital video cameras accept interchangeable lenses, allowing you to select the best lens for a given situation. Lower-end video cameras, however, have fixed lenses, so your choice of camera will be based partly on its lens.
+
+FOCAL LENGTH AND PERSPECTIVE
+
+Focal Length
+
+If we aim a simple lens at a light source at infinity distance—a star will work fine, but anything at a great distance can serve as “infinity”—the lens will focus the incoming rays at a point behind the lens equal in distance to the focal length of the lens. This point falls on the focal plane (see Fig. 4-1). In a digital camera, the CMOS or CCD sensor is positioned at the focal plane; in a film camera, the film rests in the focal plane when exposed. (Because most lens concepts are identical for digital and film, in this chapter the terms “sensor” and “film” are used interchangeably to mean the surface where the image is formed.)
+
+Focal length is a measure of the power of a lens to bend light rays coming from the subject. The shorter the focal length, the greater the bending power and the closer the focal plane is to the rear of the lens.1 Lenses are identified by their focal length. Prime lenses (also called fixed focal length lenses) have only one focal length. Zoom lenses have a range of focal lengths, allowing you to change focal length during a shot. Focal length is expressed in millimeters.
+
+Fig. 4-1. Focal length. (A) The rays from a point source of light at infinity are parallel when they strike the lens. The distance from the lens to the focal plane (where the rays are brought back to a point) is the focal length. (B) The photographic lens forms an upside-down image flipped from left to right. (C) The closer an object is to the lens, the farther from the lens the rays converge and the larger the object appears on the film. (Carol Keller)
+
+For each shot, the cinematographer decides how large the subject should be in the frame. For example, should the shot include the whole body or should the face fill the frame? There are two ways to increase the size of the subject in the frame: you can either move the camera closer to the subject or use a longer focal length lens (see Fig. 4-2). If we view a scene with two lenses, the lens with the longer focal length will reveal less of the scene and make any object in its field of view appear larger. This lens “sees” the scene through a narrower angle—the longer the focal length, the narrower this angle of view (also called field of view).
+
+The size that an object appears in a digital or film image is directly proportional to lens focal length. If we double the focal length (keeping the distance to the subject constant), the subject will appear twice as large. Also, the size of the object is inversely proportional to its distance from the camera—that is, if we double the distance, we halve the size of the subject on film (see Fig. 4-3). At 10 feet, a 50mm lens yields the same size subject as a 25mm lens does at 5 feet.
+
+Fig. 4-2. Angle of view and focal length. (left) Keeping the angle of view constant, moving closer to the man (dollying in), makes him appear larger. (right) Keeping the camera in the same position while using increasingly longer focal lengths also makes the man larger but decreases the angle of view. See the results in Fig. 4-3. (Carol Keller)
+
+Perspective
+
+As just discussed, there are two ways to control the size of an object in the image: change the focal length or change the distance between camera and subject. Does it make a difference if you move the camera closer to the subject rather than use a longer focal length lens? Figure 4-3 illustrates that it does. When you change focal length to enlarge part of a scene, it’s like magnifying the original image. Both foreground and background objects become larger to the same relative extent. In other words, if the focal length is doubled, all the objects in the frame double in size.
+
+On the other hand, as the camera is moved closer, the relative size of foreground and background objects increase at different rates. Objects closer to the camera increase in size more than objects farther from the camera. In the first set of photographs in Fig. 4-3, the camera is moved closer to the subject. The building in the background does not increase in size nearly as much as the man in the foreground. If you move twice as close to an object, the object doubles in size on film, but objects in the background increase by less than that.
+
+Perspective may be thought of as the rate at which objects become larger the closer they are to the camera. In Fig. 4-3, as the camera moves in toward the subject, the man increases in size at a rate faster than that of the building, increasing the feeling of depth and making the man appear relatively far from the building. However, in the other set of pictures we can see that if we change only the focal length and don’t move the camera, the perspective doesn’t change. Although the image is magnified, the relationship between the man and the building remains the same. By cropping out closer objects, the space appears flatter and the foreground and background seem compressed.
+
+Fig. 4-3. Zooming compared to dollying. When you start at the same position (top), you can move the camera closer (the two photos at left) or zoom in (the two photos at right). In the zoom, everything gets proportionally larger—the man and the building double in size. In the dolly shot, at left, the man doubles in size but the building stays about the same size. (Compare how many windows are visible in the bottom pair of photographs.) (Ted Spagna)
+
+By altering both focal length and camera-to-subject distance, the cinematographer can control perspective. Coming in closer and using a wide-angle lens exaggerates distances, while moving back and using a lens with a long focal length compresses distances. An image is said to have natural perspective when the perspective appears similar to what one would see if standing at the camera position. A medium focal length lens that produces a natural perspective is termed “normal” (for more, see What’s a Normal Lens?, p. 151).
+
+Lenses of appreciably shorter-than-normal focal length are called wide-angle or short focal length lenses. A rough rule of thumb is that wide-angle lenses are about half the focal length of normal lenses (50 percent), while lenses below about 35 percent of normal are extreme wide angle. Lenses with a focal length appreciably longer than normal are called long focal length or telephoto lenses. Lenses longer than about 150 percent of normal focal length are considered telephoto.
+
+Perspective Effects
+
+As discussed above, the farther the camera is from the subject, the flatter or more compressed the perspective; that is, objects of different distances from the camera do not appear greatly different in size on film. With a long focal length lens, distant objects do not appear as small as you might expect (see Fig. 4-4). This effect is easily observed when a race is filmed head-on with a long focal length lens. The runners seem to be closer to one another than they actually are, and although they seem to be running hard, they don’t appear to be making much progress. This illusion occurs because of the great distance to the subject and the use of a long focal length lens. A very long lens can make the world seem almost flat or two-dimensional.
+
+Wide-angle lenses are apt to exaggerate depth; the distance between foreground and background seems greater than you would expect, objects far from the camera seeming too small in relation to the objects closer up. This phenomenon is sometimes called wide-angle lens distortion or perspective distortion. Although you may not find exaggerated perspective pleasing, it is, in fact, not “distorted,” and if you view the image on screen from up close, the perspective seems natural. As you get even closer to the screen, the perspective flattens. If you tend to sit close to a movie or TV screen (and not because you’re nearsighted), you probably prefer compressed perspective; if you sit far from the screen, it may be because you prefer more depth in the image.
+
+You can use a wide-angle lens to make a room seem larger. However, if someone is near the camera and moves toward it, he will appear to move unnaturally fast. In general, use a wide-angle lens to exaggerate the speed of any movement toward or away from the camera. A wide-angle lens on a moving vehicle pointed in the direction of the movement strongly suggests speed, especially if objects sweep past near the lens. Use a wide-angle lens to emphasize heights; for example, shoot down from the top of a building or shoot a person from below. Perspective effects are accentuated when there are objects in both the close foreground and the distant background. A distant landscape or seascape with nothing in the foreground will show perspective less.
+
+Fig. 4-4. Compression and exaggeration of depth. (top) The long focal length lens makes the foreground and background appear close together. The cars look flat, packed together, and close to the distant sign. (bottom) In this still from Citizen Kane, a feeling of deep space is created, in part, by using a short focal length lens. (Ted Spagna; RKO General)
+
+PERSPECTIVE IN THE CLOSE-UP. When you shoot a head-and-shoulder close-up with a wide-angle lens, the camera must be fairly close, which exaggerates depth. If you get very close, the nose will seem too large, and the ears too small and too far from the front of the face. Such close-ups are often used for comic or eerie effect. A hand movement in the direction of the camera seems too fast, the hand itself too large. Faces in profile and motion perpendicular to the lens’s axis show this exaggeration of perspective less.
+
+Figure 4-5 was shot with a DSLR that has a full-frame 35mm sensor. The image on the left was shot with a 28mm lens from about 8 inches away; the one on the right was shot with an 85mm lens at 4 feet. As photographer Bill Wadman notes, it wasn’t the choice of lenses but the distance from the subject that created the different perspective between the two shots (however, the longer focal length in the image on the right does make the subject larger, so her face is the same size, despite the greater distance).
+
+Fig. 4-5. Close-ups with different focal length lenses. (left) A head-and-shoulder close-up shot with a wide-angle lens from very close to the subject results in distorted facial features—the forehead and nose can appear too large and the face too wide. (right) A medium-length lens from a middle distance gives a feeling of dimensionality without looking unflattering. For details, see text. (Bill Wadman)
+
+If you film at the most common filming distances—about 5 feet or more from the subject—you don’t have to worry about exaggerating facial features. For close-ups of faces, it’s generally better to err on the side of flatter perspective (a longer focal length lens at a greater distance). However, when perspective is too flat, intimacy can be lost and the viewer may feel distant from the subject.
+
+Focal Length and Format
+
+With experience, cinematographers learn which focal lengths will achieve the effect they’re looking for. For example, when shooting a typical interview with an HD camera that has a 2⁄3-inch sensor, a range of focal lengths from about 10mm to 50mm will allow everything from a medium shot of the subject to a close-up of the face. Or, for a compressed-perspective shot of a stream of people flowing down a sidewalk, you could shoot from far away with a 150mm lens. Once you get comfortable shooting in any format, you’ll begin to have an instinctive feel for roughly what length lens you need in various situations, and what angle of view each focal length provides.
+
+When you shoot with different digital or film formats, keep in mind that the angle of view associated with any particular focal length becomes larger or smaller according to the actual size of your camera’s sensor or film format.
+
+Figure 4-6 shows that when using the same focal length lens, a camera with a larger sensor captures a wider angle of view than a camera with a smaller sensor. In Figure 4-7 you can see the results. The lens projects a circular image on the sensor, and a larger sensor (outer frame) captures a wider angle of view than a smaller sensor (inner frame). If we display the images from these two sensors on the same-sized monitor or screen, the smaller sensor’s image will look magnified, as if we had filmed with a longer focal length lens (as though we had zoomed in).
+
+Comparing two cameras with different-sized sensors, if you want the same angle of view from both of them, you’d need to use a wider-angle lens (shorter focal length) on the camera with the smaller sensor. To get a sense of the relationship of angle of view, focal length, and sensor or film format size, look at Appendix E. It indicates the focal length needed to achieve an identical 40-degree angle of view in cameras of various formats.
+
+Fig. 4-6. Angle of view and sensor size. If two cameras have the same focal length lens, the camera with the smaller sensor will see the scene with a narrower angle of view than the camera with a larger sensor. With film cameras, the same principle applies to wider and narrower film formats. See the results in Fig. 4-7. (Steven Ascher)
+
+Fig. 4-7. The lens projects a circular image onto the sensor. If we were to record the image with two different sensors, the larger sensor would capture more of the picture than the smaller sensor. When the image from each sensor is shown on a monitor, the larger-sensor image shows a wider angle of view, and the smaller-sensor image looks enlarged or zoomed in, as though it had been shot with a longer focal length lens. So if you want the same angle of view from two cameras that have different sensor sizes, you need to use a wider-angle lens with the smaller-sensor camera. (Steven Ascher)
+
+What does this mean for your filmmaking? First of all, for any particular shot (say, a head-and-shoulders close-up of an actor filmed from across a table), if you shoot with a large-sensor digital camera (like a DSLR with a full-frame sensor) or a film format with a large recording area, you’ll use a longer focal length lens than if you were shooting the same shot from the same position with a smaller-sensor camera. This will result in less depth of field behind the subject, making it easier to throw the background out of focus with the large-sensor camera.2 A shot taken with a digital camera with a 2⁄3-inch sensor will have roughly half the depth of field of a shot taken with a camera with a 1⁄3-inch sensor that has the same angle of view and f-stop.3
+
+Another consideration relates to shooting with a wide angle of view, which is often desirable, for example, when shooting in tight quarters or when filming a large group. If you shoot with a small-sensor camera, you’ll need a lens with a quite short focal length. With small-sensor cameras, at times there simply may not be a short enough lens to shoot very wide angle. For example, when shooting with a digital camera like the Sony F3 that has a Super 35–sized sensor, an 18mm lens can produce a nice wide-angle shot; for the same shot with a 1⁄3-inch sensor you’d need a 4mm lens, which is typically not available (though wide-angle adapters can help).
+
+On the other hand, a smaller sensor helps if you want to shoot a tight shot over great distance with a telephoto lens (often an advantage for sports or nature shooting). For any given focal length lens, you’ll get a more enlarged image (narrower angle of view) using a camera with a smaller sensor. And the smaller-sensor camera makes it easier to shoot deep-focus shots with great depth of field.
+
+MOVING BETWEEN FORMATS. Once you learn how various focal lengths look in one format, you can translate those numbers when working in another format. At www.abelcine.com you’ll find an excellent “Field of View Comparator” that shows the relationship of focal length to angle of view in various formats; there are apps for mobile devices as well that determine focal length for any format and angle of view (see the Bibliography).
+
+Comparing the angle of view of different lenses and formats is sometimes talked about in terms of a crop factor relative to a full-frame 35mm SLR or DSLR image (Canon 5D Mark II, for example). Looking at Appendix E, if we take the Canon 5D with its full-frame 35mm sensor as a reference (which measures 36mm in width in HD movie mode), then a camera like the Canon 7D with its smaller APS-C sensor (22.3mm width) would have a crop factor of about 0.6x. To match the angle of view produced by a 50mm lens on a Canon 5D when shooting with the Canon 7D, we’d multiply by 0.6 to find the equivalent, which is a 32mm lens. This concept is also called focal length multiplier. Crop factors, when available, can be used to compare lenses on any two formats, not just relative to full-frame 35mm.
+
+One thing to keep in mind when using lenses with different formats: if you use a lens designed for a smaller format on a camera with a larger sensor (or film gauge) it may not project a large enough image to cover the entire frame of a larger format. Or it may cover the frame, but produce vignetting (darkening) around the edges. There are special devices, however, to adapt lenses designed for smaller formats like 2⁄3 inch to larger format cameras like Super 35 by means of a tube that contains additional optical elements. When using these adapters, there is a light loss of several stops, but the resulting image is sharp, with no vignetting. There are also special devices to adapt PL-mount lenses to 2⁄3-inch sensor cameras, which maintain the angle of view of the larger format. These adapters often flip the image in the process, so the 2⁄3-inch camera must be capable of flipping the image back. Both types of adapters are usually considered rental items.
+
+WHEN ONLY PART OF THE SENSOR IS USED. Cameras that can shoot in more than one format sometimes use only part of the sensor to capture a particular format (called windowing). If the window is narrower than the full width of the sensor, this reduces the angle of view (think of the inner and outer boxes in Figure 4-7 as being on the same sensor).
+
+Video cameras that have a 16:9-shaped sensor will have a 25 percent narrower angle of view when switched to 4:3 mode, which crops the right and left edges (it will look as though you zoomed in slightly). A similar thing happens when you extract a 4:3 image from the center of a 16:9 HD shot using edge crop (see Fig. 2-12D). In either situation, what was your widest angle lens when working in 16:9 will appear less wide (narrower angle of view) in 4:3—you lose the edges of the shot.
+
+Changing the recording resolution may also have an effect on field of view. With cameras like the RED Epic or RED Scarlet-X, the full width of the sensor is active when shooting at 5K resolution, but when shooting at lower resolutions, like 2K or 1080p, the active image area of the sensor is not as wide (fewer pixels are used), resulting in a narrower angle of view. However, not all cameras behave this way. Many cameras use the full width of the sensor regardless of the resolution, and then scale the image upon output to the selected frame size.
+
+WHAT’S A NORMAL LENS? As noted above, for any given format, a lens of medium focal length that yields an image with natural perspective is called “normal.” In still photography, 50mm is considered normal for 35mm SLR and full-frame DSLRs. Used with these formats, a 50mm lens provides about a 40-degree horizontal angle of view.
+
+It’s interesting that in cinema, a narrower angle of view defines a normal lens. The classic Academy 35mm motion picture format, for instance, occupies four perforations of 35mm film compared to the eight perforations of an SLR frame, making it a little more than half the size. When a 50mm lens is used, this results in a smaller 24-degree horizontal angle of view, yet a 50mm lens is also considered normal for Academy 35mm. The equivalent horizontal angle of view in standard 16mm film is a 25mm lens. As “normal” benchmarks for film lenses, it’s easy to remember 50mm and 25mm.
+
+Why the difference between stills and motion pictures in what is considered a normal lens? It’s based on the effects of screen distance on perspective as seen by the audience. Traditionally motion pictures were viewed in a movie theater, with the average distance between the audience and the screen about twice the screen diagonal, whereas we usually look at photographs from a much closer distance, say arm’s length. Today your work may be shown on a big screen, a flat-panel TV, a laptop, a tablet, or a phone and viewed from far away, across the room, or close up—so no one approach to what is a normal lens will work for all.
+
+It’s probably safe to say that any lens with a horizontal angle of view between 40 and 24 degrees will fit within the range of normal perspective in any format. In the end, however, it’s best not to get too hung up on this, since what feels normal is ultimately subjective, and “normal” may not be your goal anyway.
+
+THE LIGHT-GATHERING POWER OF THE LENS
+
+F-stops
+
+The lens gathers light from the subject and projects its image on the film or on the digital camera’s sensor. The maximum light-gathering efficiency of the lens is called the speed of the lens. It is expressed as an f-number (f-stop or relative aperture), which is the ratio between the focal length of the lens and its diameter (maximum aperture):
+
+The f-number essentially tells us the light-passing power of a lens. As the lens diameter increases, so does the amount of light that passes through the lens. As the focal length increases, the light is dispersed over a greater area and the amount of light available for exposure to the film or video sensor decreases. The faster a lens, the more light it lets through; the slower a lens, the less light. Lenses of about f/2 (that is, the diameter of the lens is one-half the focal length) are usually considered fast.
+
+Inside most lenses is the iris diaphragm, which can close down to control the amount of light that the lens lets through. The iris is a mechanical device, usually made of overlapping blades (see Fig. 4-8), that can be set to form a large or small hole or aperture (lens aperture). It functions similarly to the iris in the eye. In dim light, the eye’s iris opens to admit more light, and in bright light it closes down to let less light pass through.
+
+Fig. 4-8. Iris diaphragm. As the blades of the iris open, more light passes through the lens.
+
+A formula similar to the one that describes the speed of the lens is used to express the light-gathering power of the lens at any iris diaphragm opening. The f-number, or f-stop, is the focal length of the lens divided by the diameter of the aperture. The standard series of f-stops, or f-numbers, is:
+
+1, 1.4, 2, 2.8, 4, 5.6, 8, 11, 16, 22, 32
+
+The distance between consecutive numbers is called a stop. On most professional cine (movie) lenses, the f-stops are engraved on a ring on the lens barrel. Each stop represents the halving (or doubling) of the amount of light that the lens passes. At high f-numbers, the iris is more closed and less light passes through. As the ring is turned toward the lower numbers (opening up), the iris opens; conversely, as the ring is turned to the higher numbers (stopping down or closing down), the iris closes. For a lens set at f/4, for instance, opening up a stop would mean setting the lens at f/2.8 (which doubles the amount of light for exposure), and closing down two stops from f/4 would mean setting the lens at f/8. Remember, opening the lens three stops lets eight—not six—times more light in (each stop doubles the previous amount). See Fig. 7-14 for intermediate f-stops.
+
+Lens manufacturers generally engrave the focal length, serial number, and speed of the lens (widest relative aperture) near the front element. The speed is sometimes written as a ratio; 1:1.4 would be an f/1.4 lens.
+
+A standard technique for setting the iris is to open the lens wider than the f-stop you want, then stop down to the selected opening without passing it. This avoids any play in the iris that, in some lenses, can cause errors at the smaller apertures.
+
+On some digital cameras, the iris is not adjusted on the lens itself but through controls in the camera. With certain cameras, the iris adjustment is made in discrete steps instead of continuously, which is a real disadvantage when making changes during a shot (adjustments are sudden, not smooth).
+
+T-stops
+
+Particularly when using a light meter to calculate exposure (either for film or digital), it’s important to know how much light is actually passing through the lens to the film or sensor. The f-stop is a geometric relationship between focal length and aperture and doesn’t take into account how much light is lost within a lens. Each air-to-glass surface within the lens reflects some light. A zoom lens may have more than fifteen elements and can lose a significant amount of light to internal scatter. A T-stop accounts for this loss (T is for “true” stop or “transmission”). A T-stop is defined as the equivalent to an f-stop of a perfect lens (a perfect lens transmits all the light it gathers with no internal losses). Thus, on a perfect lens, the f-stop and T-stop are identical. On a zoom lens that loses a full stop internally (that is, a 50 percent loss), setting the lens to f/8 would result in the same exposure as T11. Note that the T-stop is always a higher number than the f-stop.
+
+Some cine lenses are calibrated in both f-stops and T-stops (sometimes the f-stop in white on one side of the iris diaphragm ring and the T-stop in red on the other side). Many lenses are marked only in T-stops; others only in f-stops. Be sure to check the lens you’re using. With prime lenses, the difference between f-stops and T-stops is usually less than one-quarter stop—not enough to upset exposure calculations. With zoom lenses, the difference is usually greater. One zoom might have the widest aperture marked as f/2, but the T-stop could be T2.5, which means this lens loses two-thirds stop in transmission.
+
+If the lens is marked with T-stops, use them to calculate film exposures even though the light meter is marked in f-numbers (see Chapter 7). For depth of field calculations (see below), use f-stops.
+
+FOCUSING THE IMAGE
+
+Depth of Field
+
+On most lenses, you turn the lens barrel to focus. Many lenses have distance markings on them to aid accurate focusing. When shooting a portrait of a woman ten feet from the camera, you can set the focus mark on the lens barrel to 10 feet and she will be brought into sharp focus.
+
+In an ideal (theoretical) lens, there is only one subject plane in focus—everything in front of or behind this plane is out of focus. In the case of the portrait, if the woman’s eyes were exactly ten feet from the camera, her nose and ears would be out of focus. Fortunately, with real lenses the area that looks in focus is more generous. A zone (called the depth of field, or DOF) extends from in front of the subject to behind the subject, delineating the area of acceptable sharpness (see Fig. 4-9). In other words, the depth of field is the zone, measured in terms of near distance and far distance from the camera, where the image appears acceptably sharp.
+
+Fig. 4-9. Depth of field. In both shots, the camera is focused on the girls. (top) This shot has enough depth of field so that the foreground and the background are both in focus. (bottom) This shot has shallower depth of field, and only the girls are in sharp focus. It’s easier to create a shot with shallow DOF using a digital camera with a large sensor, or a film camera with a large film gauge like 35mm. See also Fig. 2-9. (Ned Johnston)
+
+Depth of field is not an absolute. There is no clear demarcation between parts of the image that are sharp and those that are blurry and out of focus. Instead, there is a gradual transition between the two. Even the idea of “acceptable sharpness” is relative. It depends on many factors, including the digital or film format, the use of lens filters, and lighting. For more on how depth of field varies with different formats, see p. 72.
+
+What “In Focus” Means
+
+To understand depth of field, it helps to understand what being “in focus” or “out of focus” actually means. A point in the subject or scene is considered in critical focus when it registers as a point on video or film (see Fig. 4-10). All of the points in the subject that are in critical focus make up the plane of critical focus (also called the plane of primary focus). Any point that is nearer or farther from the camera than this plane registers as a circle instead of a point in the image. This circle is the circle of confusion (CoC).
+
+When circles are sufficiently small or far enough away, they appear to the eye as points (you can check this by making a circle on a piece of paper and viewing it from a distance). The depth of field is determined by the region on either side of the plane of critical focus where points in the subject are circles so small that they appear to the viewer as points (and thus appear to be in sharp focus).
+
+Fig. 4-10. Depth of field. All three lenses are focused at the dashed line. (bottom) Point A is on the line and the rays of light converge to a point at the video sensor. This is in sharp focus. (middle) Point B is closer to the lens so the rays of light form a circle (circle of confusion) where they hit the sensor. This is out of focus. (top) The rays of light from point C also form a circle, but it’s small enough to appear as a point to the eye. This seems in focus to the viewer and thus C is within the depth of field. The same principle applies for a film camera; substitute the film for the sensor in the description above. (Steven Ascher)
+
+We use depth of field to define what parts of the subject are acceptably sharp, but as noted above, “acceptable sharpness” depends on many things. In part, the eye perceives sharpness in a relative way. For example, if you shoot with a low-resolution format (or use a diffusion filter to soften the image), the apparent depth of field is greater since nothing is particularly sharp. High definition video formats tend to have less depth of field than standard definition formats because they are capable of producing a very sharp image.
+
+One of the key considerations in focusing and depth of field is how much the image is magnified (points start to look like circles when you enlarge them). Something that looks sharp on a small TV screen may look out of focus when the same image is projected on a large theater screen. Depth of field will seem smaller on the big screen.
+
+Fig. 4-11. In focus and out of focus. Point sources of light appear as circles when they’re out of focus. The quality of the blurred image, which depends on the lens and its settings, is sometimes referred to as the boke or bokeh. A lens’s boke is most noticeable around highlights and light sources. (Steven Ascher)
+
+In general, the more you magnify an image, the softer (less sharp) it looks (see Fig. 1-8).
+
+Controlling Depth of Field
+
+There are two ways to control depth of field: change the size an object appears in the image (image reproduction ratio) or change the f-stop.4 The larger an object is reproduced, the less the depth of field. You can make an object appear larger by moving the camera closer and/or by using a longer focal length lens (if you’re using a zoom lens, zoom in). You might want to decrease depth of field for a portrait in order to throw the background out of focus. You might want to increase depth of field for a large group portrait, in which case you move the camera farther away from the subject and/or use a wider-angle lens.
+
+Stopping down the f-stop (using a smaller aperture) increases depth of field (see Fig. 4-12). The iris can be stopped down if you add light to the subject, increase video gain or ISO speed (see Chapter 3), or use a faster film (see Chapter 7). You can open the iris when there is less light on the subject, when you use a neutral density filter (see Chapter 8), when you increase shutter speed (see Chapters 3 and 6), or when you use a slower film.
+
+To minimize depth of field, open the iris, move closer, or use a longer focal length lens. To increase depth of field, stop down, move farther away, or use a wide-angle lens (also see Split-Field Diopters, p. 171). Long focal length lenses at close focusing distances and with wide apertures (for example, at f/2) yield the least depth of field, whereas wide-angle lenses at far distances and stopped down (for example, at f/16) give maximum depth of field. A 25mm lens set at f/2 when focused at 4 feet has a total depth of field of 7 inches (about half a foot).5 At f/11, total depth is 6 feet. If the same lens were set at f/2 but focused at 10 feet, total depth of field would be more than 5 feet. In other words, moving farther back, stopping down, or doing both increases depth of field dramatically.
+
+Fig. 4-12. Stopping down the lens increases depth of field. (top) Circle of confusion at wide aperture. (bottom) As the iris diaphragm closes, the diameter of the cone of light gets smaller and so the circle of confusion is smaller. (Carol Keller)
+
+It’s true that wide-angle lenses have more depth of field than longer focal length lenses. However, at relatively close distances it’s not as much as cinematographers tend to think. Say you’re filming something nearby and you find you don’t have enough depth of field to keep your subject in proper focus, so you consider going to a wider-angle lens and getting closer to the subject, with the goal of keeping the subject the same size in the frame. For example, you change from a 50mm lens at 10 feet to a 25mm at 5 feet. Will the wider-angle lens give you more depth of field? With these lenses, at close distances like this, the difference is negligible, and you will not improve the situation. However, for the zone outside the depth of field, the wider-angle lens will make the background less blurry than the longer focal length lens. For this reason, when cinematographers want to throw a background out of focus, they reach for their long focal length lenses.
+
+Different lenses produce a different blurry look in areas that are out of focus. The Japanese term boke (pronounced and sometimes spelled “bokeh”) is used to talk about the particular quality and amount of blurring, which can vary depending on lens design, iris shape and setting, and focal length. Some people feel that a lens iris with many blades—which produces a more circular aperture and therefore a smoother, more circular boke—is more pleasing (see Fig. 4-11).
+
+Although depth of field increases as the iris is closed down, small iris openings don’t produce the sharpest images because diffraction can cause an overall softening (see Lens Sharpness, p. 173).
+
+Focusing the Lens
+
+For feature films and other controlled filming situations with large crews, setting the lens focus is often done by measuring the camera-to-subject distance with a tape and then adjusting the lens using the distance markings on the lens barrel. For documentary or other uncontrolled shooting, focus setting is generally done by eye, looking through the viewfinder to determine proper focus. Some digital cameras have provisions for automatic focus control (see Setting the Focus, p. 113).
+
+WHERE TO FOCUS. Focus is one of the creative aspects of image making. You can use focus to draw the viewer’s attention where you want. However, if something important is out of focus, the viewer may feel annoyed or uncomfortable. Generally, when someone is speaking, he or she should be in focus, unless another person’s reaction is more important. For close shots, a rule of thumb is to focus on the subject’s eyes.
+
+A properly constructed lens focuses on a plane perpendicular to the direction of the lens. For example, suppose you want to focus on a group of people for a portrait and want them as sharp as possible at 10 feet from the camera. Should they be lined up along the arc of a circle, so that they are all 10 feet from the lens? No, only the person directly on line with the lens should be 10 feet away. All the others should be in the same plane, perpendicular to the axis of the lens.
+
+If you are focused on a subject, you will have roughly twice as much depth of field behind the subject as in front of it. Thus, if two objects are at different distances from the camera, focusing at a point halfway between them will not render the two objects equally sharp. Instead, a rule of thumb is to focus on a point one-third the distance from the closer to the farther object (see Fig. 4-13). If one object is at 10 feet and the other at 40 feet, the split focus distance is 20 feet (that is, 10 feet in front and 20 feet behind). This rule is not exact, and the proportion of the in-focus area that’s in front of the focus point versus behind it varies with focal length and distance from the camera. For a shot in which the camera and/or the actors’ movements are planned (blocked out), you should rehearse focus changes (follow focus). A camera assistant or focus puller often changes (pulls) focus during the shot. Follow-focus devices (sometimes remotely controlled) are available to make it easier to pull focus and repeat moves precisely (see Figs. 4-15 and 1-3). Place tape or make chalk marks on the floor to cue the actors or the focus puller. Put tape on the lens distance scale and mark settings with a Sharpie for a homemade follow-focus device.
+
+Fig. 4-13. Split focus. As a rule of thumb, depth of field extends roughly twice as far behind the plane at which the lens is focused as in front. (Robert Brun)
+
+TAPE FOCUS. On some productions—dramas, for instance—and for some shots like product shots in commercials, an assistant measures critical distances for focusing with a 50-foot tape or electronic measuring device. Sometimes measurements are made to near and far points that must be kept in focus at the same time, in order to determine a distance setting that keeps everything sharp. If there is adequate depth of field, this split focus distance can be calculated and the focus set accordingly.
+
+As a general rule for wide-angle lenses, tape focusing is often more accurate than eye focus. This is because it can be hard to discern fine degrees of focus in a small viewfinder when depth of field is so deep. When later shown on a big screen, however, the smallest degrees of focus will be terribly obvious.
+
+In film cameras, the distance is measured from the film plane, which is marked on film cameras by an engraved Ф on the camera housing and sometimes also by a small knob on which you can conveniently hook the end of the measuring tape. The focus scales on cine lenses are large and finely calibrated so that you can easily and accurately focus near or far.
+
+Fig. 4-14. Some cameras have a hook to attach a tape measure when doing tape focus. The Ф indicates the position of the sensor (or the film plane in a film camera). (Steven Ascher)
+
+Video lenses, particularly zooms, work somewhat differently. They are meant to be focused primarily by eye, so focus scales are smaller and less detailed. Their focus scales presume a focus measurement from the front element of the lens, not from the sensor’s focal plane. This mostly makes a difference in focusing very close objects, in that if you tape-measure from the focal plane inside the camera body instead of the front surface of the lens, your focus will be off.
+
+Similarly SLR and DSLR lenses are small with narrow barrels and comparatively crude focus markings. They also are meant to be focused by eye, not tape.
+
+With the advent of digital cinema and video cameras with large sensors, particularly those that accept film-style PL-mount lenses, digital focusing principles have aligned with film-style practice, not video. The Sony NEX-FS100, for instance, is a video camcorder with a Super 35–sized sensor that features both an engraved Ф to mark the focal plane on the camera body and also a steel pin on which to hook a measuring tape (see Fig. 4-14). If you use a film-style PL-mount lens on a DSLR by means of an adapter, you will want to measure focus from the sensor’s focal plane.
+
+Tape focus doesn’t work, of course, if your lens doesn’t have distance markings, and the lens must be properly collimated for the focusing scale to be accurate (see Depth of Focus, p. 180).
+
+FOCUS IN THE VIEWFINDER. In many shooting situations, focusing by eye through the viewfinder is preferable to tape focus. With small crews or when the action is uncontrolled, it may be impossible to use a tape. Eye focus is often faster and usually more accurate with long focal length lenses or in other situations where depth of field is shallow.
+
+Be sure the viewfinder’s diopter is adjusted properly to your vision before focusing either a video camera (see Chapter 3) or a film camera (see Chapter 6). To focus the camera lens, rotate the focus ring or other focus control until the subject is brought into sharpest focus. If the camera is not running, “go through” focus once or twice—that is, rotate the focus ring past the point where the image is sharpest, stop, and then rotate back to the point of sharpest focus.
+
+Professional camcorders also allow you to enhance the detail in the viewfinder (often called “peaking”), or to magnify portions of it, which can be a big help in seeing focus (see p. 107). You may also want to use the camera’s autofocus to find focus (but don’t leave it on auto; see p. 113).
+
+To see the image pop in and out of focus better, it always helps to focus a lens at the widest aperture. With video camcorders, you can use built-in ND filters for focusing (before you then stop down to the proper f-stop for the actual shot).
+
+Fig. 4-15. The follow-focus device has a geared wheel that engages a toothed ring on the lens. If the lens has no gear ring, or the teeth are the wrong size, a ring can usually be added. Also see Fig. 1-3. (Zacuto USA)
+
+When focusing a film or video zoom lens, remember that depth of field will be minimized at the longest focal length (zoomed in). To focus a film or video zoom lens, zoom all the way in, set focus, then zoom out to whatever focal length you like. (If, instead, you were to focus first at a wider focal length—where depth of field is greater—the subject will usually go out of focus when you zoom in.) While shooting, if the image is sharp at wide angle but goes out of focus when zoomed in, it probably means you didn’t focus at the longest focal length as you should have. If the image becomes seriously out of focus when zooming out from long focal length to wide angle, it may mean the lens is not properly seated (see The Lens Mount, p. 176).
+
+Note that when the subject is too close to the camera, closer than the zoom’s minimum object distance (MOD), this method doesn’t work, because when you zoom in, focus is not achievable. (See Minimum Focus Distance, p. 166.)
+
+Focusing a zoom lens made for an SLR or DSLR is somewhat different and more difficult than with film or video zooms because these zooms don’t necessarily maintain exact focus through their zoom range while being zoomed.6 Why? Because they’re designed for taking still photos (a still photographer using a zoom adjusts the framing of a shot before focusing and clicking the shutter, refocusing for each shot either manually or using autofocus). Therefore when using SLR or DSLR zooms, it’s always a good idea to check and recheck focus by eye whenever focal length has changed. Using image magnification in the viewfinder is ideal for this.
+
+When pulling focus during a shot, you obviously shouldn’t do too much “going through” focus as described above. If an unrehearsed focus pull must be done while the camera is rolling, documentary filmmakers often zoom in quickly, refocus, and zoom back to the new selected focal length. This “focusing zoom” is generally edited out. With some video cameras and digitally controlled zooms, you can preprogram zoom and focus and exposure settings and have the camera automatically transition from one to the other for very fluid moves, including very slow moves that are hard to do manually. (Sony calls this camcorder feature Shot Transition.)
+
+Whenever you’re shooting, always have a general idea of how much depth of field you’re working with. For example, if you’re using a wide-angle lens stopped down to a high f-number, you know you have a lot of depth of field, so focusing is less critical. Using the hyperfocal distance (see below) can help you estimate when refocusing is necessary.
+
+Because of the increased sharpness of HD compared to SD, focus is particularly critical when shooting HD. When shooting with digital cameras, focus and depth of field can be judged in the viewfinder or monitor (and a large, sharp monitor can help a lot). When using film cameras, some viewfinders provide a better sense of focus and depth of field than others (see p. 258). In general, any small video or film viewfinder image tends to exaggerate depth of field. If something looks out of focus in the viewfinder, it will be out of focus when recorded on film or video. But a sharp viewfinder image is not a guarantee that the picture will look sharp on screen.
+
+Depth of Field Charts
+
+Depth of field charts and calculators give an estimate of the depth of field. For a given focal length lens, you cross-reference the distance the lens is focused at, the lens aperture (f-stop), and the circle of confusion (CoC) to find the near and far extent of depth of field. You can also get depth of field apps for mobile devices (DOFMaster and pCAM are popular), and some lenses have rough depth of field guides engraved opposite the f-stop ring. Remember to use only f-stops, not T-stops, in depth of field calculations.
+
+Charts and calculators are designed for a “generic” reading of depth of field. In practice, the performance of your lens, the exact size of your film format or video sensor, and the amount of enlargement upon viewing can result in actual depth of field that is as much as 15 to 20 percent different, possibly throwing off readings at close focusing distances. So don’t think of depth of field—or DOF charts—as an absolute. Think of DOF charts and apps as useful guides that are necessary but not infallible.
+
+To provide a reference point for sharpness, a permissible maximum circle of confusion is chosen for different formats (sometimes called the circle of least confusion). To use a depth of field chart, you need to choose what circle of confusion you want to work with. For example, the 1986 edition of the American Cinematographer Manual recommends a 0.025mm (0.001 inch) permissible circle of confusion for 35mm film and a 0.015mm (0.0006 inch) CoC for 16mm.
+
+For a chart and more on circle of confusion, see Appendix C.
+
+The Hyperfocal Distance
+
+For any lens at a particular focal length and f-stop, the closest distance setting such that the far limit of depth of field extends to infinity is called the hyperfocal distance (see Appendix D). When the lens is set at the hyperfocal distance, depth of field extends from half that distance to infinity (infinity may be written ∞ on lenses and charts). For example, a 25mm lens at f/8 has a hyperfocal distance of 10 feet.7 When the lens is focused at 10 feet, the depth of field extends from 5 feet to infinity. The hyperfocal distance is also the near limit of depth of field when the lens is focused at infinity.
+
+The hyperfocal distance setting is quite handy when focusing is difficult. If you set the lens at the hyperfocal distance, you don’t need to worry about focus unless the subject comes closer than one-half the hyperfocal distance. Of course, the remarks about depth of field not being an absolute apply here as well, and to use the hyperfocal distance chart you must choose an appropriate circle of confusion for your work.
+
+Some very wide-angle lenses (and some very cheap lenses) have no provisions for focusing. These lenses are usually prefocused at the hyperfocal distance of the widest aperture. Consult the manufacturer’s data sheet to find the closest focusing distances at the various f-stops.
+
+CHOOSING A ZOOM LENS
+
+The zoom lens offers a continuous range of focal lengths in one lens. Focal length may be smoothly adjusted during a shot (zooming) or between shots. Zoom lenses are optically and mechanically more complex than fixed focal length (prime) lenses. Because of this, they are larger, heavier, more delicate, and more prone to flare and distortion compared to primes. On the other hand, today’s zoom designs have improved to the point that some high-quality zoom lenses are virtually as sharp as primes. This section is about choices in zoom lenses. For techniques of shooting with zooms, see p. 330.
+
+In documentary, regardless of digital or film capture, the zoom reigns supreme. It is usually the only lens used on a production, so the choice of which one you use is critical. Whatever type of shoot you are considering, when selecting a zoom lens (or camera/zoom combination) there are various criteria to take into account.
+
+Zoom Range
+
+Zoom lenses vary widely in their range of focal lengths. By convention, zooms designed for film are typically designated by their zoom range (for example, 10–100mm), while zooms designed for video are designated by their widest focal length times a magnification factor (for example, 10 x 9.5, which is the same as 9.5–95mm).
+
+Because the angle of view afforded by any particular focal length lens depends on the video or film format you’re shooting, you need to know which sensor size or film gauge your camera has in order to evaluate what the range of focal lengths really means visually (see Focal Length and Format, p. 148). Often the manufacturer of a lens will list its focal lengths in terms of the full-frame 35mm SLR/DSLR equivalents.
+
+Fig. 4-16. Video-style zoom lenses like this that have an attached zoom motor and a built-in 2x range extender are often used with 2⁄3-inch or 1⁄2-inch chip video cameras that accept detachable lenses. (Fujinon, Inc.)
+
+Having a good wide-angle lens can make a big difference in many shooting situations, particularly in documentary work or whenever you’re shooting in close quarters or want to capture wide vistas or deep-focus shots. To take the example of a 16mm film camera or digital camera with a 2⁄3-inch sensor (similar in size to 16mm), having a lens that zooms out to under 9mm opens up a whole range of possible shots (and ways that the camera can interact with the film subjects) that can’t be done if your lens reaches only 10mm or 12mm. Shooting people in cars or around a dinner table often requires a really wide lens (even 5.5mm or 6mm can be helpful). A difference of a couple of millimeters at long focal lengths is trivial, but at short focal lengths it is very noticeable (a 9.5mm lens is about 25 percent wider than a 12mm). Many lower-end digital cameras with small sensors are really deficient in the short focal lengths and need to be used with a wide-angle adapter (see below).
+
+Fig. 4-17. Cine-style zooms (also called cinema- or film-style zooms) typically offer manual zoom, focus, and iris control, and have large geared teeth to accept an external zoom motor and/or a follow-focus device if desired. (Fujinon, Inc.)
+
+Long focal lengths allow you to capture small details in the landscape or create shots with highly compressed perspective. Shooting at long focal lengths requires that the camera be very steady on a tripod (see Telephoto Lenses, p. 169). Having both long and short focal lengths in one lens gives you tremendous flexibility and allows for extreme zoom shots that range from a tight close-up to a distant, wide view in one shot. Some video cameras have a digital zoom feature that magnifies the image beyond the range of what the lens does optically. This is like enlarging the pixels using a digital video effect. It lowers the resolution and should generally be avoided.
+
+CHANGING THE ZOOM RANGE. Some zoom lenses can be fitted with a wide-angle attachment over the front element to convert to a zoom range of shorter focal lengths. For example, a 0.8x wide-angle converter could be used with a 12–120mm zoom to make it 9.6–96mm. As a rule, these “zoom-through” attachments don’t affect aperture or focus settings and may not significantly impair the image. Converters that do not maintain focus through the zoom range—you have to refocus each time you adjust focal length—are lighter, more compact, and less expensive, but much less useful.
+
+Fig. 4-18. Zooms designed for SLR or DSLR still cameras usually provide autofocus and auto-iris control through the camera (depending on the lens/camera combination). Manual overrides may be available, but the lens itself may have no manual iris control. Zooming is done manually. Some lens/camera combinations offer image stabilization. Often there are no distance markings on the lens for focus. (Nikon, Inc.)
+
+Rear-mounted lens attachments, such as range extenders, change the relative aperture and reduce the speed of the lens. For example, a 2x range extender converts a 12–120mm zoom range to a 24–240mm one and changes an f/2.2 aperture to an f/4.4. Aberrations are also magnified and may make the image unacceptable. Stopping down does minimize most of the aberrations, but stopping down to f/8 is the equivalent of f/16 when using a 2x extender.
+
+Many pro video zooms of the type used in newsgathering have a built-in 1.5x or 2x range extender that can be set by switching a lever (see Fig. 4-16). Doing so provides longer focal lengths, but sacrifices some image quality and lens speed. Front-mounted range extenders don’t change relative aperture, but sometimes they vignette at the shorter focal lengths. Range extenders are also used with prime lenses.
+
+Fig. 4-19. Century Double Aspheric 0.6x wide-angle adapter mounts on the front of the lens. With this adapter you can’t zoom during shots, but other Century adapters do permit full zooming. (Fletcher Chicago/Schneider Optics)
+
+Zoom Lens Speed
+
+The widest-aperture f-stop and T-stop are an important part of zoom lens designations. Faster lenses allow you to shoot in lower light. (Using very wide apertures limits depth of field and lens sharpness; see Depth of Field, p. 153, and Lens Sharpness, p. 173.)
+
+The Angenieux Optimo f/2.6, 16–42mm T2.8 designation tells us this lens is f/2.6 at its widest aperture. Its equivalent T-stop is T2.8 (it loses less than one-third of a stop); thus, it is a relatively fast zoom lens with a limited zoom range of 16–44mm (2.7 x 16 tells us its magnification factor is only 2.7).
+
+In order to claim higher speeds, some zoom lenses are designated with a fast aperture that is maintained only at wide angle. As you zoom in with the iris wide open, these lenses lose or ramp f-stop, which causes the image to darken. For example, the Fujinon 20 x 6.4 zoom (6.4–128mm) is a very fast f/1.4 from 6.4mm to 90mm but ramps to f/2 at 128mm. This means that if you were to shoot wide open at f/1.4 at 50mm and then zoom to 128mm, you’d lose a full stop of light at the long focal length. Generally, it’s undesirable to zoom across a range that loses more than one-third of a stop. When this lens is stopped down to f/2, the f-stop is constant across the zoom range and there are no problems. Some lenses have special detents on the T-stop ring that prevent zooming at focal lengths that will change the f-stop.
+
+Minimum Focus Distance
+
+Being able to focus on a subject that’s close to the camera can have a big impact on your shooting style. There are many situations where you want to get in very close to the subject; a common one is shooting the driver of a car from the passenger seat. The need to get close is particularly an issue in documentary work, where the relative position of camera and subject is often not under your control. The minimum object distance (MOD) is the closest an object can be to the lens and be in focus. Some zooms focus down to 2 feet, some even down to their front element. Others focus only to 6 feet or more and need close-up diopters or must be switched into macro mode for close focusing (see p. 170 for more on these items). To give you greater flexibility in shooting, ideally a zoom should focus to around a couple of feet or less with no additional attachments or adjustments.
+
+Front Element and Barrel
+
+The diameter of the front element of the zoom affects what size filters, lens shade, or matte box you can use (see Chapter 8). Particularly when you’re using more than one lens, it helps if both lenses accept the same size attachments (you may need adapter rings).
+
+On some zooms, the entire front part of the lens barrel rotates for focusing and moves in and out depending upon the focusing distance. The front element can crash into a matte box or filter if they are not mounted with adequate separation from the lens.
+
+On other zooms, called “internal focusing,” the outermost part of the front of the lens remains fixed, which is important when mounting polarizing or graduated filters that should not be rotated once they are positioned. If you are using a matte box, this is not an issue (see Chapter 8). Most cine zooms today are internal focusing. Many video zooms are not.
+
+There are differences between cine-style zooms, video zooms, and zooms designed for still cameras in terms of handling. The focus ring may turn in different directions, which is irritating when you’re used to one style of lens. The same holds true for the iris ring (if there is one—many autofocusing still zoom lenses don’t have them). 35mm-style cine zooms are designed with wide barrels, and focus rings that rotate through a wide swing with large, evenly spaced focus marks for fine, critical focusing. Video zooms tend to be narrow-barreled for light weight, and electronic still zooms sometimes have no markings at all besides focal length. Gear teeth for focusing or zooming are spaced differently on film and video zooms, which is a concern when using external follow-focus devices or motors. Some video and still zooms can be modified by attaching rubber rings with cine-style teeth.
+
+DSLRs, Four Thirds, and Super 35 digital camcorders have opened the floodgates to use of zooms designed for still cameras, and it would take an entire chapter to explore this subject adequately. Suffice it to say that zoom lenses for DSLRs are designed for both the professional and advanced consumer markets. Having a broad market helps keep prices down; however, these lenses often lack capabilities cinematographers rely on. As noted on p. 161, a still photography zoom may not hold perfect focus through its zoom range. Another issue is that certain still photography zooms extend in length when zooming. Their front section literally telescopes outward, sometimes almost doubling their length, making matte boxes and mounting rods useless. In documentary situations, this makes it quite obvious to your subjects when you’re zooming in on them, which is usually not what you want.
+
+Fig. 4-20. Extreme wide angle shot taken with Century 0.55x Super Fisheye adapter. Note barrel distortion causing trees to appear curved. (Fletcher Chicago/Schneider Optics)
+
+Zoom Lens Problems
+
+Some zooms, notably those with front focusing elements that turn, change image magnification noticeably when you rack (pull) focus. The effect is called focus breathing or pumping, and you can see it through the viewfinder. This is more common with video and still lenses than cine lenses. Avoid these lenses if you can.
+
+Check zoom lenses for vignetting with the lens wide open, at the shortest focal length and the distance scale at infinity (see Chapter 8). The lens shade or matte box should also be checked with the lens set at the closest focusing distance.
+
+Before you use a mechanical zoom lens, it’s a good idea to zoom back and forth several times to distribute the lubrication in the mechanism. Some manual lenses have “zoom creep”—the lens zooms by itself, sometimes due to the effect of gravity on internal elements. In this case, bring the lens to a technician for repair, but a temporary solution is to fit a wide rubber band, not too loose or too tight, around the zoom ring and barrel to create a little friction.
+
+Zoom lenses, due to their optical complexity, often have less depth of field than primes of equivalent focal length, which can be an issue at close focusing distances.
+
+PRIME LENSES
+
+Fast Lenses
+
+Due to their fewer elements, prime lenses in general are faster than zoom lenses. For low-light shooting, there are even “high-speed” primes optimized for shooting at their widest aperture. For 2⁄3-inch HD cameras, for example, nothing tops Zeiss DigiPrime lenses, which are mostly T1.6 (about a third of a stop slower than f/1.4) and come in several focal lengths, including an extremely wide 3.9mm. Though not inexpensive, DigiPrimes are true “diffraction-limited” lenses—sharpest when they’re wide open.
+
+Depth of field at common camera-to-subject distances can be very shallow when using fast lenses at full aperture. As a result, focusing can be difficult. One solution when shooting at night is to use wide-angle high-speed primes, because of the great depth of field of wide-angle lenses at common filming distances.
+
+Fig. 4-21. Canon 85mm cinema prime lens, T1.3, EF mount. Cine-style lenses usually have wide barrels and focus rings with clear, well-spaced marks for focusing. Note the large-sized teeth on the focus ring. (Canon U.S.A., Inc.)
+
+Telephoto Lenses
+
+Telephoto lenses (also called tele-lenses) are, loosely speaking, about 50 percent longer-than-normal lenses for the format; for example, a lens greater than about 12mm for a 1⁄3-inch sensor camera or greater than about 70mm for a camera with a Super 35 sensor would be considered telephoto.
+
+Telephoto lenses render the subject large even at great distances, providing extreme compression of perspective. The camera crew can be unobtrusive and can work a safe distance from dangerous events. Since they have little depth of field, telephotos are useful for throwing a distracting background out of focus or doing a dramatic focus pull.
+
+You can simulate a moving camera shot by using a telephoto to track a subject moving laterally to the lens (that is, pan with the subject from far away). The tracking pan keeps the subject’s size constant in the frame and makes it appear that the camera is dollying. Akira Kurosawa often used these tracking pans in his samurai movies to simulate the movement through space usually achieved with a dolly—the longer the focal length, the more sustained the effect.
+
+Telephotos are extremely vulnerable to camera vibration. A camera may function perfectly well with shorter focal lengths but reveal vibrations with a 300mm lens. You should use a lens support or cradle with long telephotos to minimize vibration and to avoid straining the lens mount; use a very steady tripod and do not hand-hold the camera (but see Image Stabilization Devices, p. 387). Heat waves often show up in landscape telephoto shots, which can be avoided by shooting in the morning before the ground has heated up. Distant scenes may be overexposed due to atmospheric haze; use a haze filter and stop the lens down one-half to one full stop. Tele-extenders may be used to increase focal length, but keep in mind the limitations discussed in Changing the Zoom Range, p. 164.
+
+Fig. 4-22. Panavision Primo prime lens family. (Panavision)
+
+CLOSE FOCUSING
+
+Some zoom lenses focus no closer than 3 feet from the subject. Prime lenses usually focus closer. Specialized macro lenses allow you to bring very close objects into focus. Often macro lenses can yield an image reproduction ratio of 1:1, that is, the image size is the same as the subject size—a thumbtack would fill the frame. Many video lenses have a built-in macro mechanism, which allows for close focusing but may cause the focus to shift while zooming.
+
+Many lenses can be extended farther from the film plane by the use of extension bellows or extension tubes. Bellows permit a wider range of focusing distances and greater magnification and are faster to adjust than tubes. Extension tubes and bellows work best with normal or slightly long focal length lenses. If they are used with a zoom lens, the zoom will not remain in focus across its range, and the results are often not sharp. You may need to increase exposure to compensate for light loss, and lighting can be a challenge at very close distances.
+
+Close-Up Diopters
+
+Close-up diopters or plus diopters are supplementary lenses screwed into the front of a lens like a filter. Also called Proxars (actually a brand name), these permit closer focusing with all lenses and require no exposure compensation. They are simple lenses with a single thin element, like a magnifying glass.
+
+Diopters come in varying strengths (+1⁄2, +1, +2, etc.). They are intended to be used on a lens that has been focused to infinity. When the host lens is focused to infinity, the diopter will bring an image into focus at a distance in meters equal to the reciprocal of its diopter number. A +1⁄2 diopter, for instance, will bring an image into focus at a distance of 2 meters. A +1 diopter will focus an image at 1 meter. A +2 diopter will focus an image at 1⁄2 meter. The higher the number of a plus diopter, the closer you can focus.
+
+As the diopter power increases, however, the quality of the image deteriorates. It’s better to use a longer focal length lens with a less powerful diopter than a shorter focal length with a more powerful diopter. For best results, close down the lens a few stops to curtail aberrations.
+
+You can also use a close-up diopter on a lens that is not focused to infinity, but the focus scale on the lens will not be accurate, nor will the diopter cause the lens to focus at a reciprocal of its diopter strength. You’ll have to experiment and focus by eye through the viewfinder.
+
+If the diopter has a flat side and a convex side, usually the convex (curved) side of the diopter should face the subject. If an arrow is marked on the diopter mount, face it toward the subject. Diopters may be combined to increase power. Place the higher-power diopter closer to the lens, and make sure the glass surfaces of the diopters don’t touch. A +2 diopter combined with a +3 diopter has the same power as a +5 diopter. If you’re going to stack diopters, it’s a good idea to obtain diopters with antireflective coatings to protect image contrast. They cost more than uncoated diopters, but they’re worth it.
+
+Split-Field Diopters
+
+Split-field diopters are usually half clear glass and half close-up diopter. These diopters allow half the frame to be focused on far distances and half to be focused at close distances. Frame the distant objects through the clear glass, the close ones through the plus diopter. The area between the two parts of the diopter will be out of focus and, for the shot to be successful, should be an indeterminate field. Carefully compose the shot on a tripod. If the diopter is used in a matte box, it may be positioned so that an area greater or less than half the frame is covered by the plus diopter.
+
+LENS QUALITY AND CONDITION
+
+At the start of production on a feature film, lens tests were traditionally shot on film, printed, and projected to ensure that the lenses being used were sharp, working properly, and well matched to one another. Today with many feature films shot digitally, procedures have changed. It’s easy to place the lenses in question on the digital cinema camera to be used, then scrutinize their performance directly on a high-resolution monitor or project the picture onto a large screen.
+
+Lens testing at rental facilities is available to all productions, large and small, usually for free.
+
+Many rental facilities make available lens test projectors that throw a super-high-resolution test chart backward through the lens and onto a screen. Any aberration or mechanical flaw in the lens can be seen immediately, even by a nontechnician. Lens test projectors are invaluable for testing any type of lens, prime or zoom, video or film, even DSLR.
+
+Even expensive lenses vary in quality, which can be readily seen on a lens test projector. When you purchase a costly lens, if possible examine it first on a lens test projector with a technician on hand to answer any questions. Small bubbles, which are often visible in a lens element, usually do not affect quality. Small surface scratches on used lenses do not affect performance unless they are fairly numerous, in which case they lower image contrast. A chip in a lens element can severely impair the image by scattering light. All the parts of a lens should move smoothly, and nothing should rattle when you shake the lens. There should be no play in the iris diaphragm.
+
+Zooms for standard definition video cameras were generally made to lower standards than cine lenses for film cameras. Since then, HD video cameras have placed significantly higher demands on lens design because of the need for four to five times the resolution of SD on the same-sized sensor. This is why it is not a good idea to attach a standard definition zoom to an HD camera, even if it fits the camera.
+
+High-quality, professional HD lenses often cost as much if not more than the camera, and this is not going to change. There is no lens equivalent to Moore’s Law, by which computer processors increase in power while decreasing in cost every couple of years. If anything, the trend is in the opposite direction, as demand for optical performance rises and lens costs skyrocket. For better or worse, with lenses you get what you pay for. For this reason, DSLR lenses may seem like an extreme bargain compared to cine lenses, but cine lenses have advantages that become apparent in the intensity of production. Even if the optics are superior, it’s very difficult to accurately focus-pull a DSLR lens—which is why a cottage industry exists of rebarreling the best DSLR optics into slightly more expensive lenses that can pass muster on a film set. Zeiss Compact Primes are a good example of DSLR lenses adapted to digital cinema use, in this case, by the manufacturers themselves.
+
+Fig. 4-23. Tilt-focus or perspective control (PC) lens. Tilt-shift lenses are sometimes used when shooting architecture to adjust perspective lines that appear to recede too fast. By tilting the lens axis, you can position the plane of focus at an angle to the camera instead of perpendicular to it. Tilting, shifting, and/or rotating the plane of focus allow you to bring an angled subject into even focus or create an out-of-focus effect (see Fig. 4-21). (Nikon, Inc.)
+
+LENS ABERRATIONS. Centuries before the invention of lenses, painters used a camera obscura (literally, “dark room”), which is a dark room with a small hole in one wall that looks out onto an exterior landscape. The landscape is projected on the opposite wall, flipped and upside down. Reduced in size, this concept is the pinhole (lensless) camera. Using a lens in a camera increases brightness and sharpness, but introduces aberrations in the image. Lens aberrations are distortions in the formation of the two-dimensional image by the lens. Common aberrations include spherical aberration (rays enter the outer edges of the lens and focus at different points than rays close to the lens axis, creating subtle ghosting and loss of contrast); chromatic aberration (rays of different colors bend at different angles, adding a color fringe to image detail and decreasing sharpness); curvature of field (if the lens is perpendicular to a wall, either the edges or the center of the frame will be sharp but not both); and astigmatism (vertical lines focus in a different plane than horizontal lines). Geometric distortions are most apparent when a grid is photographed. Barrel distortion causes the grid lines to bow away from the center; pincushion distortion will make them appear bowed in.
+
+Fig. 4-24. With a tilt-focus lens, the in-focus part of the image can be manipulated to create interesting effects. The lens sometimes makes real-world scenes look like miniatures. This effect can also be simulated in post for footage shot normally.
+
+Nearly all aberrations, except geometric distortion, are most apparent when the lens iris is wide open or nearly so, and they limit lens sharpness. As the iris is stopped down, the effect of the aberrations becomes less pronounced as the iris blocks those rays bent at the outer edges of the lens. Some professional digital video cameras have a menu option to electronically correct for chromatic aberration when certain zooms are used.
+
+VIGNETTING. Vignetting is an optical phenomenon in which less light reaches the edge of the image than the center. Vignetting, in the loose sense, refers to any darkening toward the edges of the frame. This often occurs when lenses from a smaller format are used in a larger format (for example, some still lenses designed for an APS-C sensor may vignette when mounted on a camera with a full-frame 35 sensor). Vignetting is most apparent when the lens is wide open and the distance scale is set at infinity (and, in the case of zoom lenses, at the widest angle). If a lens shade or matte box cuts off picture area, it too is said to “vignette.”
+
+LENS SHARPNESS. Defining lens sharpness presents the same problems as defining digital and film sharpness, which are discussed in Chapters 5 and 7. Resolution, contrast, acutance, and modulation transfer function (MTF) are all terms related to lens sharpness (see p. 233).
+
+Diffraction occurs when light passing through a small hole bends around the edges of the hole and scatters, rendering the image less sharp. When an iris diameter is sufficiently large, as in the case of an f/1.4 aperture in any of the formats popular in film or digital cameras, diffraction is of little concern. However, as you close down the aperture, and the size of the hole becomes very small, the softening effect of diffraction becomes more noticeable. At which f-stop this effect takes place depends on the focal length. While long focal length lenses may stop down to f/32 without problems, some wide-angle lenses will only close down to f/11 to prevent loss of sharpness at the smallest openings.
+
+The reason for this can be seen in the formula for f-stops on p. 151. Another way of stating the formula is that the diameter of the iris opening equals the focal length divided by the f-number. So for any given f-number, the shorter the focal length of your lens, the smaller the physical hole in the iris for the light to pass through. At f/8, the iris diameter of a 60mm lens is 7.5mm, while that of a 6mm lens is 0.75mm.
+
+Because of this relationship, the effect of diffraction depends in part on what digital or film format you’re shooting. As explained in Focal Length and Format (p. 148), the larger the sensor or film format, the longer focal length lenses you’ll typically be using. As a result, diffraction becomes less of a problem the larger your sensor size. With 35mm or Super 35 cameras, digital or film, even f/16 or f/22 is typically usable. However, when using a camera with a 1⁄4-inch or 1⁄3-inch sensor, closing the iris beyond f/8 may noticeably soften the image. With 16mm or 2⁄3-inch video cameras, f/8 is usable, although it’s advisable to avoid f/11 or smaller.
+
+In lens design, diffraction is the only true limit to perfection. In fact, an ideal lens design is called diffraction-limited, meaning that it is free of aberrations and limited in performance only by the physics of diffraction.
+
+Traditionally it’s been said that lenses are sharpest when stopped down two to three stops from their widest aperture. That’s because optical aberrations that degrade the image are most evident at the widest apertures, and stopping down a couple of stops masks the most visible effects of these aberrations. The best lenses, however, are those designed to be used at their widest aperture, like f/1.4 or f/2. That’s because these are diffraction-limited designs, which are never the cheapest.
+
+Because lens sharpness is limited at the wide apertures by aberrations and at the very smallest apertures by diffraction, you should try to shoot at middle apertures when using a lens you are concerned about or unfamiliar with. (Exceptions to this prudent practice are 1⁄3-inch and 1⁄4-inch sensor cameras, which if in good condition are optically sharpest at their widest apertures due to diffraction.) To avoid shooting at the smallest apertures, use a neutral density filter (or a slower film stock) so you can open the iris a few stops. Some people think there is a contradiction in the idea that sharpness decreases at small f-stops while depth of field increases. Sharpness, however, refers to how clear the image can be, whereas depth of field tells us the relative sharpness of objects at different distances from the camera.
+
+To get the most out of a sharp lens, you need to use a high-resolution digital format or a sharp film stock. However, particularly in video, a sharp lens can often vastly improve the look of a format that is lower resolution than the lens (cheap lenses make any format look bad). By the same token, HD cameras require very sharp (and expensive) lenses to capture the resolution they are capable of. As you can imagine, much of lens evaluation is subjective. The cinematographer may just like the look of a particular lens or favor a lens and format combination. In small-format digital and film cameras the tendency is to maximize image sharpness, but in larger formats that can achieve great sharpness, many cinematographers prefer a softer, more diffuse image.
+
+FLARE. Lenses are made of multiple glass elements. The more elements, the more reflections take place within the lens, which can create a wash of light that adds exposure to the image and lowers contrast. Zoom lenses are particularly vulnerable. This is particularly noticeable when a light source is in the image; for example, when someone is standing in front of a bright window. This type of flare diffuses the image, lightens the blacks, increases the appearance of grain, decreases sharpness, and often softens the edges of backlit figures.
+
+Nearly all modern lenses have multiple antireflective coatings on their elements to suppress internal reflections. One rule of thumb for checking coatings is that the more colors you can see reflected in the front elements of the lens, the more efficient the coating will be.
+
+Fig. 4-25. Vivre sa vie (My Life to Live), Godard’s 1962 film. Anna Karina is backlit with window light. Note how the extensive flare obscures the border between her hair and the window. (Corinth)
+
+The front element of a lens often picks up stray light from bright objects or other light sources even when the light source is not in the frame. This may cause flare and internal reflections of the iris diaphragm to appear in the image as bright spots in the shape of the iris opening. If the front element of the lens is viewed from in front of the camera and you can see reflections from light sources, there will be some flare in the image. The solution is to use a deeper lens shade or matte box or to flag the light source (see Chapter 12). Since flare adds exposure to the film, it sometimes affects the exposure calculation (see Chapter 7).
+
+Flare is generally considered a phenomenon that deteriorates the quality of the image, a form of system noise. On the other hand, you may like the effects of flare. It was considered an artistic breakthrough when Jean-Luc Godard’s cameraman, Raoul Coutard, in the early 1960s, pointed the camera lens into large café windows in interior shots and “degraded the image with flare” (see Fig. 4-25).
+
+THE LENS MOUNT
+
+Most professional cameras accept interchangeable lenses. The lens mount is the system that allows the lens to be attached to a camera. There are lens mounting systems that require a lens to be screwed in by threads (C mount), inserted and locked with a twist like a bayonet (SLRs, DSLRs, Sony E-mount, ARRI bayonet), or clamped down by a locking ring (ARRI PL, Aaton, Panavision, Sony F3, or B4 mount for 2⁄3-inch video cameras).
+
+In addition to a locking mechanism, all lens mount systems provide ultraprecise surfaces for the camera and lens to meet, plus a standard flange focal distance measured from the surface where the camera and lens meet to the focal plane of the sensor or film emulsion. This distance, sometimes called the register or flange back distance, must be precisely set and maintained in order for focusing marks to be accurate. (For more, see below.)
+
+Many lens mounts accept adapters to other lens mount systems in order to join otherwise incompatible lenses and cameras. If a camera’s lens mount has a relatively shallow flange focal distance, such as the Micro Four Thirds mount, it may be able to accommodate—using an adapter—a wide range of lenses with mounts designed for greater flange focal distance. But if the camera’s mount has a relatively large flange focal distance, you can’t really use lenses that have mounts designed for less depth.
+
+Another concern is that the lens needs to project a large enough image to cover the sensor or film area of the format you’re using (see Fig. 4-7). For example, a lens designed for a small-sensor camera may not work with a camera that has a larger sensor, or it may show darkening (vignetting) or softening around the edges of the frame.
+
+Consumer camcorders have permanently mounted zoom lenses. This prohibits the use of other lenses but eliminates the possibility of lens mounting errors.
+
+Whenever changing lenses or using lens adapters, be sure the lens is properly seated before shooting. Collimation is a professional technique for checking camera flange focal distance and the seating of the lens in film and digital cinema cameras (see p. 180).
+
+Mounts for Film Cameras
+
+The C mount was at one time the most common 16mm lens mount. It is a simple screw mount, an inch in diameter, that is not particularly strong and therefore not ideal for zooms or heavy lenses. There are adapters to fit lenses from virtually any other type of mounting system, including ARRI PL, onto a camera that accepts C mounts, but you cannot adapt a C-mount lens to a modern 16mm film camera with a spinning mirror, for example, an Arriflex or Aaton.
+
+The Bolex RX mount is a variant of the C mount. It has the same dimensions as an ordinary C mount and looks the same, but it has a longer flange focal distance to accommodate the change in back focus created by the behind-the-lens viewfinder prism in the Bolex H16 and later reflex models. Lenses intended for an RX mount should be used only on these reflex Bolexes and not on other C-mount cameras. (All RX lenses have “RX” inscribed on the barrel. If you have a C-mount lens that is not marked RX, it isn’t.)
+
+Arriflex 16mm and 35mm lens mounts have evolved over decades. The original standard mount from the 1930s was replaced by the bayonet (“Arri bayo”) in the 1960s, which was replaced by the modern PL (positive lock) mount in the 1980s. With adapters, the earlier mounts can be used on PL-equipped cameras, but PL lenses will not fit on cameras equipped with the earlier mounts. With the advent of digital cinema cameras with Super 35–sized sensors, the ARRI PL mount has exploded in popularity. In addition to digital cinema cameras from ARRI, the PL mount is found on large-sensor cameras from RED, Sony, P+S Technik, Vision Research, and Aaton, and various DSLRs including popular Canon models, which sometimes require physical modification to accept a PL mount.
+
+Fig. 4-26. Panasonic Lumix GH1 with PL to Micro Four Thirds lens adapter. Allows use of PL-mount lenses on some Olympus and Panasonic cameras, including the AF100. (MTF Services, Ltd.)
+
+Some recent PL mounts have tiny built-in electrical contacts that transmit lens data (focus setting, T-stop, depth of field) from the lens to the camera during recording. What’s required is an “intelligent” lens than can transmit its own data and a camera that can record it. The two lens-data systems common in PL mounts are the Cooke Optics /i Technology and the ARRI LDS (Lens Data System). Lens data is useful in re-creating shots exactly at a later date and serves myriad functions in post and special effects.
+
+Many other film camera manufacturers have their own mounts, including Aaton, Mitchell, Cinema Products (CP), and Eclair. Panavision lenses can be used on Panavision cameras and on Arriflex and other cameras modified for the Panavision PV mount.
+
+Mounts for Digital Cameras
+
+Most professional video cameras accept detachable zoom lenses. As noted above, the lenses used must be appropriate to the size of the sensor. For example, a lens for a 2⁄3-inch chip needs to cover a larger area than one designed for a 1⁄2-inch chip. All three-chip video cameras (2⁄3 inch, 1⁄2 inch, 1⁄3 inch, 1⁄4 inch) employ a beam-splitter prism assembly behind the lens, and zooms made for three-chip cameras are optically compensated for this prism in their design. A zoom designed for a three-chip camera cannot be used on a one-chip camera of identical sensor size that lacks a prism, unless you want chromatic aberration, uneven sharpness, and an incorrect focus scale. The bottom line is, video zooms should be used only with the type of camera for which they were designed.8
+
+All video lenses for 2⁄3-inch sensors, whether three-chip or one-chip, use a locking-ring mount called a B4 mount, with three flanges instead of the four flanges typical of film lens mounts like the ARRI PL. A reduced-size version of the B4 is used on interchangeable-lens camcorders with 1⁄2-inch and 1⁄3-inch sensors. Examples of 1⁄3-inch camcorders using this smaller mount include the Sony HVR-Z7 and all JVC shoulder-mount camcorders.
+
+There are compact, viewfinderless “box” or “cube” cameras and point-of-view cameras (all of which can resemble security cameras) that typically feature a C mount. On occasion a manufacturer will introduce a new mount like the wide-throated, locking-ring mount that Sony debuted on the PMW-EX3 and repeated as a “neutral” mount on the PMW-F3.
+
+As mentioned in the preceding section, ARRI’s PL mount has been universally adopted for digital cinema cameras with Super 35–sized sensors. (All large-sensor cameras are single-chip.) The PL-mount lens data systems from Cooke Optics and ARRI described above also function with certain digital cinema cameras.9
+
+Image converters such as the P+S Technik Mini35 allow the use of 35mm cine and still lenses on 1⁄3-inch HD camcorders. There are various makes and designs for cameras that accept detachable lenses and for small-format video cameras that have permanently mounted lenses (see Fig. 2-10). These can provide the angle of view and depth of field associated with the lens as it would appear on a 35mm film camera, even though the camcorder has a much smaller sensor area.
+
+DSLRs from Canon, Nikon, Panasonic, and others use the compact, bayonet-type mounts their manufacturers have developed for still photography. Those capable of capturing HD video are typically recent models optimized for autofocus lenses. They tend to lack the mechanical linkages between the lens and camera that typified SLRs of an earlier era. The Canon 5D Mark II, for instance, accepts only electronically driven EF-mount lenses. Earlier Canon lenses with the mechanical Canon FD mount are incompatible.
+
+Fig. 4-27. Sony Alpha to E-mount adapter. Allows use of A-mount lenses on Sony’s NEX line of cameras, including the FS100 and FS700. In general, lens adapters vary in terms of communication between the lens and the camera for control of focus and iris (if any). Research your particular lens/adapter/camera combination before purchasing one.
+
+Sony’s E-mount is a DSLR-type bayonet mount dedicated to its NEX line of HD-capable still cameras and large-sensor camcorders with APS-C– or Super 35–sized sensors. Notable is the extremely shallow 18mm flange focal distance, which means that just about any lens can be adapted to an E-mount camera with the proper mechanical adapter. For the NEX-FS100 camcorder (same sensor as in the Sony F3), there are lens adapters for Nikon, Canon, Zeiss, Leica, Sony Alpha, and PL-mount lenses. The same holds true for the shallow (20mm flange focal distance) Micro Four Thirds mount adopted by Panasonic for its AG-AF100 large-sensor camcorder.
+
+Fortunately, older-style mechanical SLR lenses like those with a Canon FD mount or Nikon F mount are ideal for mechanical lens adapters.
+
+LENS SEATING PROBLEMS
+
+Depth of Focus
+
+Never confuse depth of focus with depth of field. Depth of focus is a zone of focus behind the lens (inside the camera) where the video or film camera’s sensor can record an acceptably sharp image. In a sense, it’s like a miniature depth of field surrounding the focal plane.
+
+The greater the depth of focus, the more leeway you have for a lens that is mounted slightly too close or too far from the sensor or film. Like depth of field, depth of focus increases as the iris is stopped down. However, unlike depth of field, it is least in wide-angle lenses and when shooting objects far from the camera. This means that a fast wide-angle lens needs to be very accurately mounted. On some lenses, even tiny pieces of dirt on the mount can throw off focus.
+
+If a prime lens is not properly seated, its focus scale will not be accurate and a tape-measured focus setting will be inaccurate. Although focusing through the viewfinder will correct this error, an improperly seated lens might not be able to focus to infinity.
+
+If a zoom lens is not properly seated, it will go out of focus as it is zoomed out to wide angle. The lens may focus well at long focal lengths where depth of focus is considerable (although there is little depth of field), but as the lens is zoomed to wide angle, tolerances become more critical and the picture may go out of focus. If the image goes out of focus when zooming in from wide to telephoto, it means you probably didn’t focus properly. If it goes out of focus when zooming out from telephoto to wide angle, it probably means the lens is out of collimation.
+
+In an emergency, an improperly seated zoom can still be used as a variable focal length lens (that is, for changing focal lengths between shots), especially at the longer focal lengths and when the lens is stopped down.
+
+Flange Focal Distance and Back Focus
+
+Proper lens mounting is critical, and as noted above, each lens mount system has a specified flange focal distance, measured from the surface on the mount where the camera and lens join to the sensor or film emulsion. This distance must be precisely set and rigorously maintained. If the flange focal distance is set correctly, you should be able to use many different lenses, assuming they are set up to specs, without focus problems.
+
+Mass-market cameras with interchangeable lenses like DSLRs have no provision for fine adjustment of flange focal distance, but professional 16mm and 35mm film cameras do, as do large-sensor digital cinema cameras such as the RED One, RED Epic, and ARRI Alexa.
+
+Why would the flange focal distance need to be adjusted? Usually it doesn’t. But perhaps a camera with a heavy lens attached has been dropped. Or the flange focal adjustment in the camera has loosened. Some people feel that temperature extremes can cause a mount to expand or contract, making focus scales unreliable.
+
+The larger the film or sensor format is (that is, the larger the circle of confusion), the more mechanical tolerance is permissible. Full-frame 35mm (still) and Super 35 (motion) are vastly more forgiving of errors in flange focal distance than cameras with 2⁄3-inch sensors and smaller, where tolerances are minute.
+
+In film cameras, adjustments to the flange focal distance are made with ultrathin metal spacers called shims. A technician must perform this operation, typically using a device called a collimator—an optical instrument that projects tiny test patterns through the lens and onto the surface of the film or sensor. When a film lens is mounted improperly, it’s said to be “out of collimation.”
+
+Fig. 4-28. Focus chart. Get a full-sized chart or use this one in a pinch. (Schneider Optics)
+
+Video lenses are adjusted differently. Back focus is the distance from the rear element of the lens to the sensor’s focal plane. When a video lens is mounted improperly, people say “the back focus is off.” Video lenses typically have a small ring behind the iris ring that adjusts back focus by shifting the rear element of the lens closer to or farther away from the sensor. Adjusting a lens’s back focus affects only that individual lens, not the lens mount.
+
+Back focus is so critical in small-sensor cameras that camcorders with 1⁄4-inch sensors are only made with fixed, noninterchangeable lenses. Some Sony cameras with 1⁄3-inch and 1⁄2-inch sensors have an automated electronic “flange back” or back focus adjustment, which can be found in the camera’s menu.10
+
+Adjusting Back Focus—Video Cameras
+
+With small-sensor video cameras (from1⁄3 inch to 2⁄3 inch) that have interchangeable lenses, back focus can usually be checked or adjusted in the field when needed.
+
+Put the camera on a tripod and view the image with the sharpest, biggest monitor you can find. Pin a large Siemens star to the wall, or sharply display one on your laptop (see Fig. 4-28). Position it at least seven to ten feet away. Use only enough light (or use filters) so that you can set the iris to wide open. Zoom in on the chart and focus the lens, then zoom out to the widest angle. Loosen the small, knurled retaining knob on the back focus ring and turn the ring until the image is as sharp as possible. Touching only the zoom control, zoom in all the way. If the image is not sharp, refocus the lens using the front focus ring, not the back focus adjustment. Zoom out and reset the back focus again if necessary. Repeat this process until one lens focus setting produces a sharp image at both telephoto and wide angle, then gently tighten down the knurled retaining knob, making sure not to nudge the back focus ring in the process. Ideally this should be close to the dot or other marking for the standard position on the back focus adjustment.
+
+Adjusting Flange Focal Distance or Back Focus—Digital Cinema Cameras
+
+With large-sensor digital cinema cameras, the adjustment of lens back focus or camera flange focal distance varies with make and model. The ARRI Alexa uses the same PL lens mount shimming technique used for ARRI film cameras. The RED One uses an adjustable ring, located behind the PL-mount locking ring, to adjust flange focal distance of its PL mount. The flange focal distance of DSLRs can’t be adjusted, but their PL-mount adapters often can.
+
+A host of precision devices are made for adjusting the flange focal distance or back focus in the field. Some of them use the principle of the collimator—projecting an illuminated test pattern to test the lens/camera combination. An example of this approach is the Zeiss Sharp Max, meant for 2⁄3-inch three-chip cameras. Another approach is for the test device to fit into the PL mount like a lens and project an illuminated Siemens star focused precisely at 52mm, the flange focal depth of the PL mount, which you can observe on a monitor while adjusting the flange focal depth. This is the principle behind uniQoptics’ diascope and RED’s own RED Focus. A third approach is a device that fits into the PL mount and projects a series of lines on the sensor, which the user, viewing the monitor, must align by turning the device.
+
+Checking Collimation—Film Cameras
+
+In the past, film camera assistants would pin a dollar bill, lens resolution chart, or Siemens star to the wall, light it for the widest aperture of the lens in question, and shoot focus tests at various distances. The film then had to be processed, printed, and projected. Today, with the pressures of time and loss of film labs, this is impractical.
+
+Most camera rental facilities have lens test devices that can be used for instant checks of lens performance by nontechnicians. A lens technician with an autocollimator can quickly spot-check whether the lens set at infinity focus is focusing sharply on a piece of test film running through the camera.
+
+CARE OF THE LENS
+
+When possible, remove lenses from the camera when shipping and pack them in fitted, foam-lined cases (see Fig. 3-16). Shocks, prolonged vibration, and extreme heat can loosen a lens element. Keep the lens mount clean, especially the surface of the metal flanges where the lens mount meets the camera’s mounting surface. Both camera and lens mating parts must be free of dirt and dust to ensure proper seating of the lens, especially in the case of zoom and wide-angle lenses. If necessary, clean the mount with a soft cloth.
+
+When a lens is not in use—even if it’s still on the camera—cover the front element with a lens cap to protect it from dust, fingerprints, rain, ocean spray, etc. Use a rear element cap when the lens is not on the camera. Some people like to keep a clear or UV filter in place at all times to protect the front element (see Chapter 8), although professionals usually abstain from this practice to avoid reducing contrast.
+
+Dust on the Lens
+
+Dust on the lens can lower contrast. It may be blown off with a rubber syringe or squeeze-bulb air blower available at any pharmacy or photo store, or with a small container of compressed air (like Dust-Off). If using a can of compressed air, keep the can upright so that air and not propellant is deposited onto the lens surface. Tip the lens down when blowing dust off so that the dust falls downward. Some cinematographers use their breath to remove dust, but take care not to blow saliva on the element, since it is harder to remove than dust.
+
+If air doesn’t remove all the dust, use a clean camelhair brush, reserved for the sole purpose of lens cleaning. Avoid touching the bristles, since oil from the hand will transfer to and remain on them. An alternate method is to fold photographic lens tissue over itself several times, then tear off an edge and lightly brush the element with the torn edge. Don’t rub a dry element with the lens tissue; you may damage the lens coating.
+
+Fingerprints on the Lens
+
+Oil and fingerprints are more difficult to remove and, if left on the lens, can etch themselves into the coating; remove them as soon as possible. First, remove dust from the lens as described above. Use a wetted photographic tissue or Q-tip—not an eyeglass or silicone-coated tissue, which may damage the coating. The tissue or Q-tip must be perfectly clean, not previously used. Never rub a dry tissue or Q-tip on a dry lens.
+
+To remove the oil of fingerprints, apply a drop of lens-cleaning solution (pros favor Pancro lens-cleaning fluid) or isopropyl alcohol (available at most drugstores) to the tissue or tip of the Q-tip—in other words, not directly to the lens. Take care that liquid does not come into contact with the area where the element meets the barrel, as it may loosen the element. After moistening the element, rub the wetted tissue or Q-tip as gently as possible, using a circular motion combined with a rolling motion to lift any dirt off the element. To avoid grinding grit into the coating, continually use a clean portion of the tissue or additional unsoiled Q-tips. As you do this, the liquid will slowly dry, leaving a clean area on the lens surface. If Q-tips are used, blow off any remaining cotton fibers with a rubber air blower. (Cotton swabs on wooden sticks made for hobbyists shed fewer fibers and are preferable to Q-tips if available.)
+
+If need be, you can breathe on the lens to cause condensation. When the condensation evaporates, breathe on the lens again. Condensed breath will remove only what water can dissolve, not the oil of fingerprints.
+
+1. Technically, the focal length of a lens is defined as the distance from the nodal point (optical center) of the lens to the focal plane when the lens is focused at infinity.
+
+2. In theory, you could get similarly shallow depth of field with a small-format film or video sensor, but you’d need a very wide aperture (low f-number) and many lenses just aren’t fast enough.
+
+3. This is a rule of thumb; other factors come into play.
+
+4. Some consumer or prosumer camcorders don’t have f-stop markings on the iris, but adjusting the iris still means changing the f-stop.
+
+5. With a 1⁄1000-inch circle of confusion.
+
+6. Lenses that shift focus as the zoom (magnification) changes are called varifocal lenses. Most true video and film lenses hold focus across the zoom range and are parfocal lenses.
+
+7. Based on a 1⁄1000-inch circle of confusion.
+
+8. Professional video zooms typically have coded names that indicate the format they were designed for. Take the example of the Fujinon A22x7.8BERM-28. A indicates this is for a 2⁄3-inch sensor, B indicates camera manufacturer, E indicates internal range extender, R means servo zoom, M means manual focus, and 28 indicates camera type. Different manufacturers use different code letters.
+
+9. Some professional camcorders communicate with their zoom lenses and display lens data in the viewfinder. Some can save lens data files to flash memory cards. But no standardized system yet exists to capture or exploit this data.
+
+10. The use of the term “flange back” here is a confusing mix of “flange focal distance” and “back focus.” As discussed above, these are related but different concepts. This electronic lens adjustment only affects back focus.

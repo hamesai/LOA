@@ -1,0 +1,529 @@
+141
+Protecting the image prevents it from being erased accidentally.
+1 Select [Protect images]. Under the [3] tab, select [Protect 
+images], then press <0>.
+X The protect setting screen will 
+appear.
+2 Select the image and protect it. Turn the <5> dial to select the 
+image to be protected, then press 
+<0>.
+X When an image is protected, the 
+<K> icon will appear on the screen.
+ To cancel the image protection, press 
+<0> again. The <K> icon will 
+disappear.
+ To protect another image, repeat step 
+2.
+ To exit the image protection, press 
+the <M> button. The menu will 
+reappear.
+K Protecting Images
+Image protect icon
+If you format the card (p.43), the protected images will also be erased.
+ Once an image is protected, it cannot be erased by the camera’s erase 
+function. To erase a protected image, you must first cancel the 
+protection.
+ If you erase all the images (p.143), only the protected images will 
+remain. This is convenient when you want to erase unnecessary images 
+all at once.
+COPY
+
+142
+You can either select and erase images one by one or erase them in 
+one batch. Protected images (p.141) will not be erased.
+Once an image is erased, it cannot be recovered. Make sure 
+you no longer need the image before erasing it. To prevent 
+important images from being erased accidentally, protect it.
+1 Playback the image to be erased.
+2 Press the <L> button.X The erase menu will appear at the 
+bottom of the screen.
+3 Erase the image. Turn the <5> dial to select [Erase], 
+then press <0>. The image 
+displayed will be erased.
+By checkmarking the images to be erased, you can erase multiple 
+images at one time.
+1 Select [Erase images]. Under the [3] tab, select [Erase 
+images], then press <0>.
+L Erasing Images
+Erasing a Single Image
+3 Checkmarking <X> Images to be Erased in a Batch
+COPY
+
+143
+L Erasing Images
+2 Select [Select and erase images]. Turn the <5> dial to select [Select 
+and erase images], then press 
+<0>.
+X An image will appear.
+ Press the <I> button to display 
+the three-image view. To return to the 
+single-image display, press the <u> 
+button.
+3 Select the image to be erased. Turn the <5> dial to select the 
+image to be erased, then press 
+<0>.
+X The <X> icon will be displayed on 
+the upper left.
+ To erase another image, repeat step 
+3.
+4 Erase the image. Press the <L> button.
+ Turn the <5> dial to select [OK], 
+then press <0>.
+X The selected image will be erased.
+You can erase all the images in a folder or card at one time. When the 
+[3 Erase images] menu is set to [All images in folder] or [All images 
+on card], all the images in the folder or card will be erased.
+3 Erasing All Images in a Folder or Card
+COPY
+
+144
+The LCD monitor’s brightness is adjusted automatically for optimum 
+viewing. You can set the automatic adjustment’s brightness level 
+(brighter or darker) or adjust the brightness manually.
+1 Select [LCD brightness]. Under the [6] tab, select [LCD 
+brightness], then press <0>.
+2 Select [Auto] or [Manual]. Turn the <6> dial to make the 
+selection.
+3 Adjust the brightness. While referring to the gray chart, turn 
+the <5> dial, then press <0>.
+ You can adjust [Auto] to one of three 
+levels, and [Manual] to one of seven 
+levels.
+Changing Image Playback Settings
+3 Adjusting the LCD Monitor Brightness
+Automatic adjustment Manual adjustment
+ While [Auto] is set, be careful not to obstruct the round, external light 
+sensor (left of the power switch) with your finger, etc.
+ To check the image’s exposure, you should look at the histogram 
+(p.130).
+COPY
+
+145
+Changing Image Playback Settings
+You can set how long the image is displayed on the LCD monitor 
+immediately after capture. To keep the image displayed, set [Hold]. To 
+not have the image displayed, set [Off].
+1 Select [Review time]. Under the [1] tab, select [Review 
+time], then press <0>.
+2 Set the desired time. Turn the <5> dial to select the 
+setting, then press <0>.
+3 Setting the Image Review Time
+If [Hold] is set, the image will be displayed until the auto power off time 
+elapses.
+COPY
+
+146
+Changing Image Playback Settings
+Vertical images are rotated automatically so they 
+are displayed vertically on the camera’s LCD 
+monitor and personal computer instead of 
+horizontally. The setting of this feature can be 
+changed.
+1 Select [Auto rotate]. Under the [5] tab, select [Auto 
+rotate], then press <0>.
+2 Set the auto rotate. Turn the <5> dial to select the 
+setting, then press <0>.
+ OnzD
+The vertical image is automatically rotated on both the camera’s 
+LCD monitor and on the personal computer.
+ OnD
+The vertical image is automatically rotated only on the personal 
+computer.
+ Off
+The vertical image is not rotated.
+3 Auto Rotate of Vertical Images
+Auto rotate will not work with vertical images captured while Auto rotate was 
+[Off]. They will not rotate even if you later switch it to [On] for playback.
+ Immediately after image capture, the vertical image will not be 
+automatically rotated for the image review.
+ If the vertical image is taken while the camera is pointed up or down, the 
+image might not rotate automatically for playback.
+ If the vertical image is not automatically rotated on the personal 
+computer screen, it means the software you are using is unable to rotate 
+the image. Using the provided software is recommended.
+COPY
+
+147
+8
+Sensor Cleaning
+The camera has a Self Cleaning Sensor Unit attached 
+to the image sensor’s front layer (low-pass filter) to 
+shake off dust automatically. 
+The Dust Delete Data can also be appended to the 
+image so that the dust spots remaining can be erased 
+automatically by Digital Photo Professional (provided 
+software).
+Minimizing Dust
+ When changing lenses, do it in a place with minimal dust.
+ When storing the camera without a lens attached, be sure to 
+attach the body cap to the camera.
+ Remove dust on the body cap before attaching it.
+Even while the Self Cleaning Sensor Unit is operating, you can 
+press the shutter button halfway to interrupt the cleaning and start 
+shooting immediately.
+COPY
+
+148
+Whenever you set the power switch to <1/J> or <2>, the Self 
+Cleaning Sensor Unit operates to automatically shake off the dust on 
+the front of the sensor. Normally, you need not be aware of this 
+operation. However, you can execute the sensor cleaning at anytime as 
+well as disable it.
+1 Select [Sensor cleaning]. Under the [6] tab, select [Sensor 
+cleaning], then press <0>.
+2 Select [Clean nowf]. Turn the <5> dial to select [Clean 
+nowf], then press <0>.
+ Select [OK], then press <0>.
+X The screen will indicate that the 
+sensor is being cleaned. Although 
+there will be a shutter sound, a 
+picture is not taken.
+ In step 2, select [Auto cleaningf] and set it to [Disable].
+X The sensor cleaning will no longer be executed when you set the 
+power switch to <1/J> or <2>.
+f Automatic Sensor Cleaning
+Cleaning the Sensor Now
+Disabling Automatic Sensor Cleaning
+ For best results, do the sensor cleaning while the camera bottom is 
+placed on a table or other flat surface.
+ Even if you repeat the sensor cleaning, the result will not improve that 
+much. Right after the sensor cleaning is finished, the [Clean nowf] 
+option will remain disabled temporarily.
+COPY
+
+149
+Normally, the Self Cleaning Sensor Unit will eliminate most of the dust 
+that might be visible on captured images. However, in case visible dust 
+still remains, you can append the Dust Delete Data to the image to later 
+erase the dust spots. The Dust Delete Data is used by Digital Photo 
+Professional (provided software) to erase the dust spots automatically.
+ Get a solid-white object (paper, etc.).
+ Set the lens focal length to 50mm or longer.
+ Set the lens focus mode switch to <MF> and set the focus to infinity 
+(∞). If the lens has no distance scale, look at the front of the lens 
+and turn the focusing ring clockwise all the way.
+1 Select [Dust Delete Data]. Under the [2] tab, select [Dust 
+Delete Data], then press <0>.
+2 Select [OK]. Turn the <5> dial to select [OK], 
+then press <0>. After the automatic 
+sensor cleaning ends, a message will 
+appear. Although there will be a 
+shutter sound, a picture is not taken.
+3 Appending Dust Delete DataN
+Preparation
+Obtain the Dust Delete Data
+COPY
+
+150
+3 Appending Dust Delete DataN
+3 Photograph a solid-white object. At a distance of 20 cm - 30 cm / 
+0.7 ft. - 1.0 ft., fill the viewfinder with a 
+patternless, solid-white object and 
+take a picture.
+X The picture will be taken in the aperturepriority AE mode with an aperture of f/22.
+ Since the image will not be saved, the 
+data can still be obtained even if there 
+is no card in the camera.
+X When the picture is taken, the camera 
+will start obtaining the Dust Delete 
+Data. When the Dust Delete Data is 
+obtained, a message will appear. 
+Select [OK], and the menu will 
+reappear.
+ If the data was not obtained 
+successfully, a message to that effect 
+will appear. Follow the “Preparation” 
+procedure on the preceding page, then 
+select [OK]. Take the picture again.
+After the Dust Delete Data is obtained, it is appended to all the JPEG 
+and RAW images captured thereafter. Before an important shoot, you 
+should update the Dust Delete Data by obtaining it again.
+To erase dust spots automatically with the bundled software, see the 
+Software Instruction Manual in the CD-ROM.
+The Dust Delete Data appended to the image is so small that it hardly 
+affects the image file size.
+About the Dust Delete Data
+Be sure to use a solid-white object such as a new sheet of white paper. If the 
+paper has any pattern or design, it may be recognized as dust data and 
+affect the accuracy of the dust deletion with the software.
+COPY
+
+151
+Dust which could not be removed by the automatic sensor cleaning can 
+be removed manually with a blower, etc.
+The surface of the image sensor is extremely delicate. If the 
+sensor needs to be cleaned directly, having it done by a Canon 
+Service Center is recommended.
+Before cleaning the sensor, detach the lens from the camera.
+1 Select [Sensor cleaning]. Under the [6] tab, select [Sensor 
+cleaning], then press <0>.
+2 Select [Clean manually]. Turn the <5> dial to select [Clean 
+manually], then press <0>.
+3 Select [OK]. Turn the <5> dial to select [OK], 
+then press <0>.
+X In a moment, the mirror will lockup 
+and the shutter will open.
+ “CLn” will blink on the LCD panel.
+4 End the cleaning. Set the power switch to <2>.
+3 Manual Sensor CleaningN
+ As power source, using the AC Adapter Kit ACK-E6 (sold separately) is 
+recommended.
+ If you use the battery, make sure it is fully recharged. If a battery grip with 
+size-AA/LR6 batteries is attached, manual sensor cleaning will not be 
+possible.
+COPY
+
+152
+3 Manual Sensor CleaningN
+ While cleaning the sensor, never do any of the following. Doing any 
+of the following will cut off the power and close the shutter. The 
+shutter curtains and image sensor might get damaged.
+• Setting the power switch to <2>.
+• Opening the battery compartment cover.
+• Opening the card slot cover.
+ The surface of the image sensor is extremely delicate. Clean the sensor 
+with care.
+ Use a plain blower without any brush attached. A brush can scratch the 
+sensor.
+ Do not insert the blower tip inside the camera beyond the lens mount. If 
+the power is turned off, the shutter will close and the shutter curtains or 
+reflex mirror might get damaged.
+ Never use canned air or gas to clean the sensor. The blowing force can 
+damage the sensor or the spray gas can freeze on the sensor.
+COPY
+
+153
+9
+Printing Images and Transferring
+Images to a Computer
+ Printing (p.154)
+You can connect the camera directly to a printer and print 
+out the images in the card. The camera is compatible with 
+“wPictBridge” which is the standard for direct printing.
+ Digital Print Order Format (DPOF) (p.163)
+DPOF (Digital Print Order Format) enables you to print 
+images recorded in the card according to your printing 
+instructions such as the image selection, quantity to print, 
+etc. You can print multiple images in one batch or give the 
+print order to a photofinisher.
+ Transferring Images to a Personal Computer (p.167)
+By connecting the camera to a personal computer, you can 
+transfer images from the camera’s card by operating the 
+camera.
+COPY
+
+154
+The direct printing procedure is done entirely with the camera 
+while looking at the LCD monitor.
+1 Set the camera’s power switch to <2>.
+2 Set up the printer. For details, see the printer’s 
+instruction manual.
+3 Connect the camera to the printer.
+ Use the interface cable provided with 
+the camera.
+ When connecting the cable plug to 
+the camera’s <D> terminal, the 
+cable plug’s <D> icon must face the 
+front side of the camera.
+ To connect to the printer, refer to the 
+printer’s instruction manual.
+4 Turn on the printer.
+5 Set the camera’s power switch to <1>.
+X Some printers may make a beeping 
+sound.
+Preparing to Print
+Connecting the Camera to a Printer
+COPY
+
+155
+Preparing to Print
+6 Playback the image. Press the <x> button.
+X The image will appear, and the <w> 
+icon will appear on the upper left to 
+indicate that the camera is connected 
+to a printer.
+X The <l> button lamp will light in 
+blue.
+wPictBridge
+ Movies cannot be printed.
+ The camera cannot be used with printers compatible only with CP Direct 
+or Bubble Jet Direct.
+ Do not use any interface cable other than the one provided.
+ If there is a long beeping sound in step 5, it indicates a problem with the 
+printer. To find out what’s wrong, do the following:
+1. Press the <x> button to playback the image.
+2. Press <0>.
+3. On the print setting screen, select [Print].
+The error message will be displayed on the LCD monitor (p.162).
+ You can also print RAW images taken by this camera.
+ If you use the battery to power the camera, make sure it is fully charged. 
+With a fully-charged battery, printing up to about 3.5 hours is possible.
+ Before disconnecting the cable, turn off the camera and printer first. Hold 
+the plug (not the cord) to pull out the cable.
+ For direct printing, using the AC Adapter Kit ACK-E6 (sold separately) to 
+power the camera is recommended.
+COPY
+
+156
+The screen display and setting options will differ depending on the 
+printer. Some settings might not be available. For details, see the 
+printer’s instruction manual.
+1 Select the image to be printed. Check that the <w> icon is 
+displayed on the upper left of the LCD 
+monitor.
+ Turn the <5> dial to select the 
+image to be printed.
+2 Press <0>.X The print setting screen will appear.
+3 Select [Paper settings]. Select [Paper settings], then press 
+<0>.
+X The paper settings screen will 
+appear.
+wPrinting
+Printer-connected icon
+Print setting screen
+* Depending on the printer, settings such as the date and file number 
+imprinting and trimming might not be available.
+Sets the printing effects (p.158).
+Sets the date or file number imprinting to on 
+or off.
+Sets the quantity to be printed.
+Sets the trimming (p.161).
+Sets the paper size, type, and layout.
+Returns to step 1.
+Starts the printing.
+The paper size, type, and layout you have set are displayed.
+COPY
+
+157
+wPrinting
+ Select the size of the paper loaded in 
+the printer, then press <0>.
+X The paper type screen will appear.
+ Select the type of the paper loaded in 
+the printer, then press <0>.
+ When using a Canon printer and 
+Canon paper, read the printer’s 
+instruction manual to check what 
+paper types can be used.
+X The page layout screen will appear.
+ Select the page layout, then press 
+<0>.
+X The print setting screen will reappear.
+* From the Exif data, the camera name, lens name, shooting mode, shutter speed, 
+aperture, exposure compensation amount, ISO speed, white balance, etc., will be 
+imprinted.
+QSetting the Paper Size
+YSetting the Paper Type
+USetting the Page Layout
+Bordered The print will have white borders along the edges.
+Borderless The print will have no white borders. If your printer cannot print borderless prints, the print will have borders.
+Borderedc The shooting information* will be imprinted on the border on 9x13cm and larger prints.
+xx-up Option to print 2, 4, 8, 9, 16, or 20 images on one sheet.
+20-upc
+35-upp
+On A4 or Letter size paper, 20 or 35 thumbnails of the images 
+ordered through DPOF (p.163) will be printed.
+• [20-upc] will have the shooting information* imprinted.
+Default The page layout will vary depending on the printer type or its settings.
+COPY
+
+158
+wPrinting
+4 Set the printing effects. Set as necessary. If you need not set 
+any printing effects, go to step 5.
+ The screen display may differ 
+depending on the printer.
+ Select the option on the upper right, 
+then press <0>.
+ Select the desired printing effect with 
+the dial, then press <0>.
+ If the <e> icon is displayed next to 
+<z>, you can also adjust the 
+printing effect (p.160).
+* When you change the printing effects, it is reflected in the image displayed on 
+the upper left. Note that the printed image might look slightly different from the 
+displayed image which is only an approximation. This also applies to 
+[Brightness] and [Adjust levels] on page 160.
+Item Description
+EOn
+The image will be printed according to the printer’s standard 
+colors. The image’s Exif data is used to make automatic 
+corrections.
+EOff No automatic correction will be performed.
+EVivid The image will be printed with higher saturation to produce more vivid blues and greens.
+ENR The image noise is reduced before printing.
+0 B/W Prints in black-and-white with true blacks.
+0 Cool tone Prints in black-and-white with cool, bluish blacks.
+0 Warm tone Prints in black-and-white with warm, yellowish blacks.
+zNatural Prints the image in the actual colors and contrast. No automatic color adjustments will be applied.
+zNatural M
+The printing characteristics are the same as the “Natural” 
+setting. However, this setting enables finer printing 
+adjustments than with “Natural.”
+EDefault The printing will differ depending on the printer. For details, see the printer’s instruction manual.
+COPY
+
+159
+wPrinting
+5 Set the date and file number imprinting.
+ Set as necessary.
+ Select <I>, then press <0>.
+ Set as desired, then press <0>.
+6 Set the number of copies. Set as necessary.
+ Select <R>, then press <0>.
+ Set the number of copies, then press 
+<0>.
+7 Start printing. Select [Print], then press <0>.
+X The <l> button’s blue lamp will 
+blink and the printing will start.
+ With Easy printing, you can print another image with the same settings. 
+Just select the image and press the <l> button lit in blue. With Easy 
+printing, the number of copies will always be 1. (You cannot set the 
+number of copies.) Also, any trimming (p.161) will not be applied.
+ The [Default] setting for printing effects and other options are the 
+printer’s own default settings as set by the printer’s manufacturer. See 
+the printer’s instruction manual to find out what the [Default] settings are.
+ Depending on the image’s file size and image-recording quality, it may 
+take some time for the printing to start after you select [Print].
+ If image tilt correction (p.161) has been applied, it will take longer to print 
+the image.
+ To stop the printing, press <0> while [Stop] is displayed, then select 
+[OK].
+COPY
+
+160
+wPrinting
+In step 4 on page 158, select the printing 
+effect. When the <e> icon is displayed 
+next to <z>, press the <B> 
+button. You can then adjust the printing 
+effect. What can be adjusted or what is 
+displayed will depend on the selection 
+made in step 4.
+ Brightness
+The image brightness can be adjusted.
+ Adjust levels
+When you select [Manual], you can change 
+the histogram’s distribution and adjust the 
+image’s brightness and contrast.
+With the Adjust levels screen displayed, press 
+the <B> button to change the position of 
+the <h>. Turn the <5> dial to freely adjust 
+the shadow level (0 - 127) or highlight level 
+(128 - 255).
+ kBrightener
+Effective in backlit conditions which can make the subject’s face look 
+dark. When [On] is set, the face will be brightened for printing.
+ Red-eye corr.
+Effective in flash images where the subject has red eye. When [On] 
+is set, the red eye will be corrected for printing.
+e Adjustment of Printing Effects
+ The [kBrightener] and [Red-eye corr.] effects will not show up on the 
+screen.
+ When you select [Detail set.], you can adjust the [Contrast], 
+[Saturation], [Color tone], and [Color balance]. To adjust the [Color 
+balance], use <9>. B is for blue, A is amber, M is magenta, and G is 
+green. The color in the respective direction will be corrected.
+ If you select [Clear all], all the printing effect settings will be reverted to 
+the default.
+COPY

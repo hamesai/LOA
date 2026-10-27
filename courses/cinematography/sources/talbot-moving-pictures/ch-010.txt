@@ -1,0 +1,502 @@
+CHAPTER IX
+
+HOW THE PICTURES ARE SHOWN UPON THE SCREEN.
+
+Having obtained the positive film, with its string of consecutive
+pictures, we now proceed to reproduce upon a large scale the animation
+which has been, so to speak, harnessed by the camera. For this purpose
+three essentials are necessary--a projecting apparatus, a powerful and
+brilliant illuminant, and a white surface or screen, upon which the
+pictures are thrown.
+
+In its general appearance the projector resembles the magic lantern,
+which before the advent of the cinematograph held the field as a
+favourite source of amusement. It has the small box or cabinet in
+which the light is placed, and the condenser whereby the rays from the
+illuminant are converged into a powerful beam to be thrown through
+the picture and the lens upon the screen. This part of the apparatus
+is practically the same as that required for the purpose of showing
+still-life lantern slides. It is the mechanism required to bring the
+consecutive pictures singly before the lens in rapid succession that
+constitutes the real difference between the modern projector and the
+old stereopticon.
+
+The projecting mechanism has the same task as the camera for securing
+the pictures. That is to say, a small section of film corresponding
+to the dimensions of a picture has to be brought into position before
+the lens in such a way as to permit the powerful concentrated beam
+of light from the lantern to pass through it and throw an enlarged,
+brilliant, and clearly defined picture upon the screen. The image rests
+on the screen for the fraction of a second, to be followed by the
+next picture. One does not observe the change from one picture to the
+other, as there is a revolving shutter, the opaque blade or blades of
+which cut across the screen at regular intervals. While the shutter
+is passing the lens, thereby interrupting the passage of light to the
+screen, the succeeding picture is brought into position; and when the
+opaque blade has passed, it is exposed in its turn and makes way for
+the next picture, this alternate action continuing until the end of the
+film is reached. It will be seen that an intermittent motion has to be
+given to the film in projection, in precisely the same manner as is
+required in the camera for exposure.
+
+Although the evolution of a smooth-working and perfect camera taxed
+mechanical ingenuity to a high degree, the proportions of the task were
+not to be compared with those involved in the design of the projector.
+Many factors had to be taken into consideration. In the first place,
+it was imperative that each picture should be superimposed exactly
+upon its predecessor, that when the image reached the sheet it should
+stand as steadily and as still for the minute fraction of a second as
+if it were a lantern slide, and that the change from one picture to the
+other should be carried out in such a way as to render the change as
+imperceptible as possible to the spectator. In short, every effort had
+to be made to reproduce by intermittent motion the effect obtainable
+with the _camera obscura_.
+
+The perfection of this illusion has demanded years of unremitting
+experiment and research. When animated pictures first came before the
+public they had a violent flickering, oscillating, and jumping motion,
+which proved exceedingly painful to the eyes. The effect was somewhat
+similar to that produced by gazing at a picture which is vibrating,
+and blinking rapidly meanwhile, or when a flicker-disc is rotated very
+rapidly before the limelight centred upon a stage scene and actors.
+
+By dint of persistent effort and the perfection of mechanical details,
+this serious flickering and jumping effect has been eliminated; that
+is, so far as is possible with an apparatus designed to convey the
+impression of continuous motion by intermittent action. The projecting
+mechanism is of substantial design, while the moving parts subjected
+to wear and tear are made of the strongest metals. The wear and
+tear, however, is tremendous, and as all the moving parts are liable
+to displacement they must be fitted with adjusting devices whereby
+all slackness can be taken up and the apparatus be kept tuned to a
+high pitch of efficiency. Great ingenuity has been displayed in the
+conception and manufacture of these details, and the cinematograph
+projector of to-day is a wonderful piece of mechanism.
+
+[Illustration:
+
+ [_By courtesy of Messrs. Butcher & Sons, Ltd._
+
+FIG. 9.--THE OPTICAL PRINCIPLE OF THE CINEMATOGRAPH.]
+
+The optical principle of the cinematograph is exactly that of the magic
+lantern. Reference to Fig. 9 will explain it fully. The illuminant is
+represented by _L_ and the centre of the light is opposite the centre
+of the condensers _C C_, which receive the rays and condense them, the
+point of convergence being in the lens or objective _O_, from which
+they pass out in the form of an expanding cone of light to fall upon
+the screen. The rays in passing from the condensers penetrate the
+picture _F_ on the film in position before the lens. It will be seen
+that the lens has to be mounted so that its longitudinal axis is level
+with the light. The distance of the light _L_ from the condensers, and
+similarly the distance of the lens or objective _O_ from the picture
+_F_ is governed by the focus of the objective.
+
+It is obvious, therefore, that the picture to be projected must be
+brought to a stop in a position central to the lens, and for this
+purpose there is a film trap or gate, where it makes a momentary halt,
+in precisely the same way that the unexposed film is arrested in its
+progress through the camera.
+
+The film to be projected is carried upon a spool mounted on an arm or
+bracket above the mechanism, with the pictures upside down as in the
+ordinary magic lantern. The spools used are of the open or the closed
+type. The former is permissible in countries where there is no rigid
+legislation governing cinematograph displays, or where non-inflammable
+films are used; but in Great Britain the film must be wound upon a
+spool enclosed in a metallic case, to provide protection against fire.
+The best spool boxes are lined with asbestos, which ensures a greater
+degree of safety.
+
+From the spool the film is threaded over a toothed sprocket, which
+engages with the perforations, and also under a spring grip roller
+which keeps the film in contact with the sprocket. A loop is then
+formed, and from this the film passes into the gate behind the lens.
+This gate consists, as in the camera, of two pieces, one rigid, the
+other swinging and hinged to the first, so that it may be opened to
+enable the film to be introduced. When closed, the film is held flat
+and rigid. As the shutter passes across the field of the lens, cutting
+the picture off the sheet, the film is given a sharp jerk downwards
+to bring the next picture into exactly the same position in the gate
+before the lens as that occupied by the preceding image. The descending
+film passes round a second toothed sprocket, with its grip roller, and
+thence into the second spool box, where it is coiled upon the bobbin.
+The machine is operated either by hand or by power and belting passing
+over a pulley.
+
+I have described the broad principle upon which the projector
+operates; the details of the mechanism vary according to the ideas of
+various makers. There are several excellent projecting mechanisms on
+the market, each possessing departures in detail, to some of which
+reference is made later.
+
+The great difficulty was to impart intermittent motion to the
+mechanism which feeds the film to the lens at regular intervals from a
+continuous rotary drive, the handle being revolved at uniform speed.
+It occurred to Paul, who was the first man in England to attack the
+problem scientifically, that it might be feasible to employ the type of
+intermittent gear used in watches, known as the Geneva stop. He decided
+to adopt this mechanism.
+
+The driving wheel when it completes a revolution falls into a notch
+of the driven wheel, and in continuing its rotary movement moves the
+latter forward the extent of one notch, but no more, owing to the
+convex space between each notch, or concave rim of each tooth, which
+coincides with the curve of the driving wheel and fits closely against
+its circumference. When the driving wheel makes its second revolution
+it engages with the second notch, and so on, with the result that in
+this case the driving wheel makes seven revolutions to one of the
+driven wheel. Each notch coincides with a picture; that is to say, each
+time the driving wheel forces the second wheel forward one notch, a
+picture on the film is brought before the lens for projection.
+
+This novel gear gave the desired result, but it underwent considerable
+modification, the number of teeth in the driven wheel being ultimately
+reduced to four. The driving wheel was also altered. Instead of being
+notched as in the Geneva stop movement, it was fitted with a pin,
+which, when the wheel made a complete revolution, fell into one of the
+deep notches in the driven wheel, and so moved it forward. By this
+modification the gearing was reduced to 4 to 1; the driving wheel made
+four revolutions to one of the driven wheel, and each notch of the
+latter corresponded to a picture. Owing to the fact that the notches in
+this driven wheel resemble a Maltese cross in form, the device became
+known as the “Maltese Cross” movement. It is in use to-day. The notched
+Maltese cross wheel is attached to the spindle of the sprocket wheel
+below the lens, and the movement forward of one notch suffices to jerk
+the film down smartly three-quarters of an inch or the depth of one
+picture.
+
+The advantage of this movement is that the film is pulled down very
+quickly, and as a result the flicker is reduced to a negligible
+quantity. The gear is noiseless and enables a very steady picture
+to be obtained upon the screen. On the other hand, not being a true
+mechanical movement, the forward motion of the film is accompanied by
+a certain degree of shock, which not only imposes a strain upon the
+fragile film, but at the same time sets up great wear and tear in the
+mechanism itself.
+
+For these reasons another system of bringing the film into place was
+evolved. A wheel having an eccentric movement is introduced below
+the film gate. This wheel carries a projecting roller, and with each
+revolution the roller strikes the film which passes over the wheel, and
+pulls it down the depth of a picture. This type of action is known as
+the “dog” movement, and is incorporated in a variety of ways for the
+purpose of facilitating the smooth and regular movement of the film
+through the gate. Its disadvantages are that it is noisy; and secondly,
+that it is almost impossible to secure a steady picture upon the
+screen, as the dog strikes the film so smartly as to set up a vibration
+which is communicated to the picture in the gate. But it is simpler
+than the “Maltese cross” movement, while the wear and tear upon the
+mechanism itself is so slight as to be almost non-existent.
+
+These two movements have divided the cinematograph world into two
+camps, one adhering to the “Maltese cross,” the other staunch in its
+support of the “dog” movement. But the former appears to be increasing
+in favour, despite its acknowledged defects. Some years ago Paul
+indicated an improvement on it which demands attention because it
+converts an indifferent mechanical movement into one scientifically
+correct. The principle is shown in Fig. 10. Instead of having four
+notches or slots in the driven wheel, as in the Maltese cross, he has
+only three slots. The driving member _A_ has an arm _C_ carrying a
+roller _E_ at its outer edge. The driving member _A_ when it completes
+a revolution, enters the slot _c_ in the driven wheel _B_, and at the
+moment of entering the slot is at a tangent to the circular path _a_
+of _E_, with the result that the roller _E_ enters the slot without
+setting up any shock whatever, carries the wheel _B_ round, and leaves
+the slot at a similar tangent to its path, at the same time bringing
+the next slot tangent to the path of the roller _E_ on arm _A_. Thus
+the film is given increasing speed without the slightest strain, and as
+the movement enables the images to be changed rapidly without jarring,
+it is possible to reduce the period of eclipse to almost nothing.
+For this reason, the opaque sector of the shutter can be cut down to
+one sixteenth of the area of the circle described by the shutter.
+With the other movements the sector of the shutter must cover at
+least one-quarter of the superficies. In other words, the three-slot
+wheel cuts down the period of eclipse to less than one-quarter of
+that possible by any other mechanism, and as the sector only covers
+one-sixteenth of the circle, the period of light thrown through the
+film on to the screen is increased, with an accompanying increase of
+brilliancy and a complete absence of flicker.
+
+[Illustration: FIG. 10.--PAUL’S IMPROVED “CROSS” DRIVING MECHANISM.]
+
+The shutter is one of the most important features of the projector. In
+the majority of cases it is placed before the lens, but in the Gaumont
+“chrono” machine it is placed between the condenser and the picture.
+In order to secure the best results, the area of the opaque surface
+covering the lens while the next picture is brought into position
+should be reduced to the minimum, and the eclipsing action should be
+so carried out as to reduce the flicker, which is directly due to
+the cutting off of one picture to enable the next to be brought into
+position. In the early days the shutter had one blade only; when a
+brilliant light was used, the alternate periods of light and darkness
+could be easily distinguished, and the eyes suffered accordingly. An
+effort to remedy this disastrous effect was made by the introduction
+of a violet-coloured sector of similar area to the opaque sector, and
+set opposite to the latter, which gave the shutter the appearance of
+a two-bladed propeller. This is effective to a certain degree; but it
+has been superseded by a shutter having three blades. The shutter is
+mounted upon a spindle in front of the lens, the distance therefrom
+being determined by the focus of the objective.
+
+The heat concentrated upon the film by the converging rays of light
+from the condenser is tremendous. The effect is identical with that
+produced by focussing the sun’s rays with a lens upon a piece of paper.
+If the rays are permitted to play upon one part of the celluloid film
+for four or five seconds it will become ignited. So long as the film is
+moving little apprehension need be entertained; the danger arises when
+the film is stopped to attempt focussing with a stationary picture,
+or the film breaks during projection and stops in the gate. Several
+disastrous catastrophes have arisen from the firing of the film during
+projection. It is impossible to lay too great a stress upon the danger,
+for the average operator is little more than a cog in the machine,
+and fails to concentrate attention upon the work in hand so as to
+anticipate and meet emergencies.
+
+Manufacturers have tried to remove the danger by the evolution of what
+is known as an automatic safety cut-off. This is a second shutter,
+which, when the projector is at rest, drops between the light and
+the lens. The shutter is connected to the balls of a governor. As the
+revolving speed of the governor is increased by the turning of the
+driving handle, the balls assume a horizontal circle of rotation, and
+in so doing, lift the shutter until it rises clear of the aperture in
+the gate, through which the light strikes the picture. In the same way,
+as the revolving speed of the governor is decreased, the balls fall and
+the shutter descends.
+
+The introduction of this automatic cut-off is somewhat to be deplored.
+It makes the operator less careful; he trusts blindly to his automatic
+friend, which, though it functions admirably, is, like all such
+mechanisms, liable to fail at a critical moment. When such a breakdown
+does occur, the average operator is invariably caught napping, and the
+film is fired before he realises what has happened. The older system,
+whereby the cut-off, a shutter working upon a hinged flap principle,
+had to be operated manually, was far safer. Its opening or closing
+constituted a part of the cycle of operations in the preparations for
+projection, thus calling for a definite movement on the part of the
+operator.
+
+The most efficient safety appliance yet associated with the projector
+itself is the Urban-Joy-Harris anti-firing device, Fig. 11, a very
+simple arrangement, whereby the rising and falling gate is converted,
+to all intents and purposes, into a fire-proof box. When the film
+is threaded through the gate, only that part before the lens, upon
+which the light rays are converged, is exposed to the air on the side
+nearest the light. On the opposite side the exposure hole is contained
+in a tube, holding the lens, which consequently forms an air-tight
+chamber upon that side. Should the film catch fire while stationary
+in the gate, the air contained in the lens chamber _A_ becomes
+heated suddenly, and expands, so that the products of combustion are
+discharged through the exposure hole of _H_ into the air. The fire
+cannot creep up and down the film, as small bars exactly above and
+below the exposure hole successfully prevent such action.
+
+[Illustration:
+
+ FIG. 11--THE URBAN-JOY-HARRIS ANTI-FIRING DEVICE. THE DOTTED
+ LINES SHOW ACTION OF MECHANISM CLOSING SHUTTER _C_ WHEN
+ FILM _F_ BREAKS AT _K_.
+]
+
+In addition there is the Harris safety shutter, which in the event of
+the film breaking below the gate, and thus preventing its own passage
+owing to the interruption in the driving effort, shuts off the light
+from the film, and also stops the electric motor, should the machine be
+driven by electricity. This safety-shutter _B_ holds a semi-circular
+flap _D_, which is connected by a small lever to a rectangular flap
+_C_. The flap _D_ is so adjusted as to hang over the loop in the film
+_E_ between the sprocket and the entrance to the film gate. Under
+normal conditions the loop _E_ does not come into contact with the
+shutter _D_, but when the film _F_ becomes broken below at _K_, the
+loop _E_ is enlarged suddenly owing to the film not being able to pass
+through the gate, with the result that it forces the flap _D_ to a
+vertical position, and this in turn throws the flap _C_ down over the
+exposure hole. There is a tube _I_ which contains about half-an-ounce
+of mercury with an electrical contact at either end, the object of
+which is to change the centre of gravity of the flap _D_, and also to
+cut off the supply of electric energy to the motor. When the machine is
+running smoothly this tube _I_ is in a horizontal position making the
+electrical connection at either end, but when the flap _D_ rises, owing
+to the enlargement of the loop _E_ in the film, the weight of mercury
+is thrown to one end of the tube, causing it to cant in such a way as
+to retain the flap _D_ in a vertical position. If the film should take
+fire, only the picture before the lens is consumed. Even the perforated
+edges remain untouched, so that the film is not severed, and can
+continue its travel through the machine when the breakdown is repaired.
+
+To supply the light necessary to projection, acetylene, the
+oxy-hydrogen limelight, and the electric arc have all been used; but
+the last is the illuminant most generally favoured. It enables the
+maximum amount of light to be collected by the condenser. When the
+projection of moving pictures was first attempted an arc light was
+unavailable, because that form of lighting had not been adapted to
+the magic lantern. The late T. C. Hepworth, the eminent authority
+on the lantern, was wrestling with the problem, but there was no
+commercial apparatus suited to the cinematograph. In using electric
+light a resistance is required to absorb or dissipate in the form of
+heat the current over and above that required for the light. Many
+types of resistances have been devised for this purpose, to suit
+varying requirements. This method of dealing with the surplus current
+is, however, distinctly wasteful, and accordingly, where picture
+projection is being carried out on a large scale, a motor generator is
+adopted. The current derived from the supply main is utilised to drive
+an electric motor, which in turn actuates a dynamo, whereby current
+is furnished for the light. This seems a roundabout process, but it
+effects a great economy in the consumption of electricity.
+
+The mounting for the lantern is also important. As there is continual
+movement in the mechanism owing to the communication of driving
+effort, either by hand or by power, the mounting chosen must be of a
+sufficiently massive character to absorb all the vibration set up.
+Paul devised an iron pillar, to one side of the top of which the
+lantern was fixed, while the projector was attached to the other.
+The principle was similar to that used for the mounting of a machine
+gun, and although the idea met with considerable criticism, yet Paul
+succeeded in producing steadier pictures than were possible with other
+forms of mounting. That his idea was sound is witnessed to-day, for
+the principle he advocated has been resuscitated in the Brockliss
+Motiograph, which is mounted on a rigid pillar, and undoubtedly throws
+a steadier picture than is possible from any other system of supporting
+the projector.
+
+In the majority of projecting mechanisms a second lens is mounted
+upon the frame, in line with and beside the cinematograph objective.
+This second lens is used for the projection of lantern slides for the
+illustration of a song, title announcement, or other purposes. In order
+to bring the light of the lamp into line with this second lens the
+lantern is moved bodily sideways the requisite distance; the projector
+itself is not touched--it remains a rigid fixture.
+
+Paul also adopted a driving system which might be revived profitably
+to-day where manual operation is practised. Instead of the small handle
+placed somewhat high, calling for quick rotation and fatiguing wrist
+movement, he used a large wheel mounted at such a height that the
+operator, when standing beside, had the lowest travel of the handle
+almost at arm’s length. The wheel being of large diameter, a slow,
+steady revolution was sufficient, which caused no fatigue, the drive
+being transmitted through a pulley or chain to the projector. In many
+of the latest picture palaces, however, the apparatus is driven by
+an electric motor, which yields a more uniform speed and conduces to
+steadier projection.
+
+I will now take up the distinctive features of some of the best
+known makes of projector. A comparison of the latest Edison model,
+the “B Underwriter,” with the first kinetoscope, affords a striking
+illustration of the advance of cinematography in twenty years. The new
+machine is constructed throughout of metal, is wonderfully compact,
+and the mechanism has been reduced to the acme of simplicity. All
+moving parts subject to heavy wear and tear are made of lignum vitæ.
+The shutter is of the three-bladed type, while the intermittent action
+is conveyed by the Maltese Cross movement. Being rigidly mounted upon
+a heavy stand, the picture projected is very steady and free from all
+disconcerting lateral and vertical movement.
+
+In the “Gaumont Chrono” projector, the salient characteristic, as I
+have mentioned already, is the position of the shutter, which is placed
+between the film and the condenser. The film-trap is worthy of notice
+because it conduces very materially to the steadiness of the picture
+thrown with this machine. The edges of the film are gripped by means
+of burnished steel runners or vertical clamps, and they secure it in
+position during exposure with the exact degree of tension required
+to obtain steadiness, yet without hindering the travel of the film
+through the gate, or inflicting injury upon the celluloid. The trap is
+fitted with an asbestos shield, which serves to insulate the film while
+passing through the trap from the intense rays of the light, which is
+continually playing upon the metal around the exposure hole.
+
+The dog movement has been adopted in this apparatus, but upon an
+improved principle. Instead of striking the film one smart blow to jerk
+it through the gate, it imparts a steady pushing action. The result is
+that the film does not suffer any injury. A massive dog striking the
+film heavily is apt to produce cracks across the perforations at the
+points of impact, which in time become weak spots in the film. This
+well-conceived machine has met with remarkable popularity among moving
+picture theatres in this country; it is an excellent example of French
+engineering skill, wherein lightness is combined with strength and
+simplicity.
+
+[Illustration:
+
+ The projector and mechanism. The complete projecting installation.
+
+THE LATEST EDISON DEVELOPMENT IN CINEMATOGRAPHY.
+
+This outfit is in striking contrast to the original “peep-hole” machine
+facing page 32.]
+
+The Ernemann “Imperator” projector commands deserved attention. It is
+built stoutly so as to last and withstand rough usage. Steel forms
+the constructional material throughout, and a noticeable feature is
+that motion is communicated to all driving parts through heavy gearing.
+In this machine the “Maltese Cross” movement has been brought to its
+highest pitch of perfection, being of large substantial construction,
+and so designed as to obviate the objections to its use. The driven
+part is made of hardened silver steel, and there are means of taking
+up all slack arising from wear directly it becomes manifest. Instead
+of the cross being struck by a pin on the driving wheel, the latter
+carries a roller which picks up the slotted wheel without jar or noise.
+The mechanism is kept cool by running in an enclosed oil bath, which
+tends to reduce the wear and tear to a minimum, while at the same time
+the machine is light and easy running, a feature which appeals to the
+operator.
+
+[Illustration: THE “CHRONO” PROJECTOR.
+
+The main feature of the Gaumont lantern is the position of the shutter
+between the film and the light, instead of outside the lens.]
+
+[Illustration:
+
+ _See page 319._
+
+OUTSTRIPPING THE HUMAN EYE.
+
+The Greene di-optic projector which shows on the sheet what the organ
+of sight misses during blinking.]
+
+Another machine which possesses many interesting points is the “Silent
+Knight,” its chief claim to attention being, as its name implies,
+quietness in running, combined with easy operation and steadiness of
+the pictures projected. It has the fire-proof gate already described,
+and also aluminium fire-proof spool boxes. The movement is the Maltese
+Cross. Simplicity has been studied to the last degree, and the
+necessity to withstand hard wear and tear, as well as rough handling in
+inexperienced hands, has not been overlooked. All the vital parts are
+made of chilled steel running in an oil bath, with the necessity for
+adjustments reduced to the minimum, though capable of being carried out
+easily when the necessity arrives.
+
+The foregoing by no means exhausts the variety of machines on
+the market. There is the Pathé machine, a masterpiece of French
+manufacture; the Kamm projector, the “Empire,” remarkable for its many
+ingenious devices to secure protection against fire, the chief of which
+is a contrivance whereby the light is cut off automatically in the
+event of the film breaking, although the machine is still running, and
+so on. In every instance the direct aim is the evolution of a projector
+which will produce an absolutely steady picture, free from flickering
+and fluttering, and as noiseless in operation as human skill can
+contrive. In this particular field England and the Continent are ahead
+of the United States manufacturers. Except in one or two instances the
+American product is distinctly inferior. It looks attractive, but its
+results fail to stand comparison with the British and French machines.
+The projecting features of the moving picture industry in the United
+States have not advanced to the high state of excellency attained in
+Europe.
+
+In projecting, the pictures have to be thrown upon the screen at the
+same speed as that at which they were taken by the camera, that is, if
+steady continuous motion is to be secured. The average speed is, as
+I have said, about sixteen pictures per second, and it is essential
+that the handle should be rotated at a regular uniform pace. Outside
+influences appear to exercise a distinct effect upon this manual
+action, just as we have seen them do in the process of taking the
+original picture. The musical accompaniment is likely to induce the
+inexperienced operator inadvertently to accelerate or retard the speed
+of projection. For this reason, power driving is coming more and more
+into use, the motion being communicated to the mechanism by means of a
+small electric motor. The results are far superior to those produced
+by the average operator, though not comparable to projection by a
+practised and intelligent hand. The latter can tell the approximate
+speed at which the pictures were taken, and can adjust his speed to
+a far greater nicety than is possible by a mechanical agency which
+maintains a constant speed.

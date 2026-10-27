@@ -1,0 +1,491 @@
+Chapter 18: Special Techniques
+
+also most HMI sunguns are flicker-free. With high speed shooting, flicker can also sometimes be a problem with small tungsten bulbs, especially if they are on camera because the smaller filaments don’t have the mass to stay heated through the cycle as do larger bulbs.
+
+Although not nearly as noticeable as with HMIs it may still be distracting. At higher than normal speeds ordinary fluorescents will certainly flicker.
+
+FILMING PRACTICAL MONITORS
+
+Because a monitor is a scanned image, most reflectance meters (spot meters) don’t accurately read the exposure off of video monitors.
+
+They usually underestimate the exposure, often by a stop or more.
+
+Use tests and check with a Polaroid (preferably a color Polaroid).
+
+You can use the brightness control on the monitor to turn it down to more closely match the scene. Also, most monitors run very blue; you can either adjust the color towards orange or put some CTO over the screen to match your scene lighting. It will need to be flat and smooth enough so that wrinkles don’t show.
+
+If you are running your own source material through the monitor and you have the luxury of setting up to color bars, you can read the green band, (which correlates reasonably well to 18% gray) with a spot meter and open 2/3rd to | stop. Alternate method: read white and expose the picture Zoned between VI & VII. You will be surprised how dim you need to set the TV so it won’t look washed out on the film later. The monitor will generally end up being set much dimmer than you would have it for normal viewing. You can’t trust your eye or the meter; trust the Polaroids, they do not lie. Because NTSC video runs at 29.97 frames per second, televisions and monitors in a scene will exhibit a roll bar unless precautions are taken to prevent it. This includes computer monitors, radar screens and many other types of CRT (cathode ray tube) displays. The solution will depend on the nature of the monitor and the requirements of the scene being filmed.
+
+NTSC video (the American broadcast standard for all television and video recording) is based on a 3.58 Mhz (megahertz) subcarrier which results in a frame rate of 29.97, Thus each video field is “on” for approximately 1/60th of a second (actually 1/59.94). The frame rate of a motion picture camera with a 180° shutter is 1/48th of a second. It is the discrepancy between these two frame rates which results in the “roll bar” effect.
+
+CRTs will be one of three types:
+
+* NTSC, PAL or SECAM video from broadcast television, cable or prerecorded videotape on the set.
+
+* A computer monitor, graphics workstation, radar screen, video game or other type CRT display.
+
+* Specially prepared video to match a 24fps or 25fps frame rate on the camera.
+
+There are four kinds of final results you will be aiming for: * Film shot for theatrical projection with syne sound. * Film shot for theatrical projection at 24fps without syne sound, * Film shot to be transferred directly to videotape, either with syne sound or without.
+
+* Film which will be edited as film work print, then transferred to video. While film editors and video transfer houses can accommodate film shot at non-standard frame rates (even with lip-syne dialog) the inconvenience may be undesirable.
+
+Unfortunately, it is impossible to lock a roll bar off the screen at 7 technical issues the standard 24fps camera speed. There are several methods available to achieve the desired result. The simplest case is film transferred directly to video. A crystal control is used to run the camera at 29.97fps with a 180° shutter. This works only with a shutter angle of 180° or more. This method works for both MOS and syne sound filming.
+
+For theatrical projection (24fps) which must be shot at sound syne speed (24fps): use a 144° shutter and crystal controlled camera at 23.976fps. This works because a 144° shutter equals 1/60th of a second exposure which approximates the video exposure time. A roll bar will still be visible but can be minimized and can be locked in place on the screen. There is a 1/3rd stop loss in closing down to 144° shutter angle.
+
+This method can only be used with cameras that have adjustable shutters. Always discuss it with the rental house when you are going to be dealing with practical monitors so that they can insure that all equipment is compatible.
+
+MONITORS AND MOS SHOOTING
+
+When the filming is MOS and is intended for projection at 24fps: shooting can be at 29,97 fps with 180° shutter or at 23.976 with 144° shutter. At 29.97, there will be a noticeable slowing of the action when projected at 24fps: if this is not acceptable, the 23.976fjps method should be used. If the film is to be transferred to video, either method may be used, but be sure to slate the film clearly and log the variation onto the camera reports so that the video transfer house will know how to deal with it. Without appropriate slating to alert them to this, all of the video dailies will be out of syne.
+
+There is an alternate method which makes filming monitors very simple. Specialty video houses can transform the video source material to 24fps video, which may then be filmed at normal camera speeds without a roll bar. This must be used in conjunction with a camera capable of supplying a framing pulse as output.
+
+CRTs such as computer screens, radar screens, medical monitors or video games have a wide variety of frame rates. In some cases they are raster scans (like a normal TV) or vector scans (where each line is traced separately). In many cases it is necessary to either determine the frame rate from manufacturer’s specifications with a frequency checker or by observing the image through the viewfinder or gate while varying the frame rate of the camera with a crystal speed control. Several very accurate meters are available which will tell you what the frame rate of a particular CRT is. The simplest and most reliable method is to take a portion of the video signal and use it to drive the camera. This is accomplished with a synchronizer unit as described below.
+
+Although shooting NTSC videotape of an NTSC monitor will present no problems with a roll bar, shooting videotape of computer monitors can be just as difficult as filming them. Because computer monitor frame rates usually differ from standard NTSC video the screen will seem to flicker, which may be unacceptable for some applications. It is often necessary to alter the scan rate of the computer monitor to conform to video standard. Some video cameras have a facility to alter the frame rate of the video camera to match different monitors. In Sony Betacams, it is called Clearscan.
+
+Synchronizers are available which will alter the scan rate of some monitors. For computers, software patches can be used to adjust the scan rates. As a last resort, it is possible to replace the video tube in the monitor with a similar tube which has long persistence phosphors. If the decay rate of the phosphor is longer than the scan rate, cinematography the flicker will be eliminated, but some “smearing” of the image may result. When shooting computer monitors, two pieces of information are essential: the filming scan rate of the monitor and the shutter ratio of the camera.
+
+SHOOTING PROCESS PHOTOGRAPHY
+
+CHROMA KEY
+
+Chroma key, also known as bluescreen, greenscreen or process photography, is a method of producing mattes for compositing. The basic principle is the same for all processes and for both film and video: by including an area of a “pure” color in the scene, that color can then be made transparent and another image can be substituted for it. [tis accomplished by different methods in film and in video — 15.5.Redscreenis often preferred for but the idea is the same. shooting models. (Photo courtesy of Kino Flo.)
+
+Green and blue are the most common colors used, but in theory any color can be used. There is one fundamental principle that must be remembered. Whatever color you are using to become transparent will be replaced for the entire scene. Thus, if the background is green and the actor has bright green eyes, his eyes will become transparent. The color chosen for the process background should be one that does not occur in the foreground.
+
+Red screens are often used for shooting motion control passes of miniatures particularly in television sci-fi work (Figure 15.5), The theory is that first you shoot a “beauty pass” — a motion control pass against a black backdrop, with the subject model lit for beauty.
+
+Then you shoot the same model with no subject lights against a red screen, so what you get is the black silhouette of the model against a solid red background. The red screen produces an excellent matte, which is then used to composite the beauty pass. Some people also shoot magenta screen. Redscreen is almost never used in shooting people. As with all types of color process photography, the choice of background color is dependent on the color of foreground subjects it’s the difference between them that matters most.
+
+CHROMA KEY AND ULTIMATTE
+
+Ultimatte is a sophisticated form of chroma key video developed by Peter Vlahos. According to U/timatte Technical Bulletin #3, “There are several reason why it may be advantageous to shoot Ultimatte foregrounds on film rather than video. The most obvious advantage is the possibility of non-real-time photography. Film currently offers greater flexibility than video for high speed slow motion photography or stop motion, animation and motion control photography.” It is important to always discuss any matte shots with the post house that will be doing the keying. Each house has its own preferences for exposures and balances.
+
+If there is any camera movement in a matte shot, the post house will most likely request that you include motion tracking reference marks. These can be as simple as little black “x” marks made of black tape. They might be placed on the green screen itself as a clue to the movement that will be required of the background element that is to be laid in. In other cases, the marks might be needed on the subject itself. The marks can easily be removed in post with a simple “garbage matte.”
+
+Another important safety is to shoot a reference frame. This is a shot of the same green or bluescreen background without the foreground element. This is useful in case there is any problem with the matte. The post people can use pieces of the reference shot to fill in “holes” in the matte shot with the foreground elements. Other recommendations include:
+
+technical issues 20’ X 20’
+
+USING
+
+4ft 4BANKS
+
+SIDE
+
+15.6. (top) A large bluescreen setup lit with Kino Flos. ( Photo courtesy of Kino Flo.)
+
+15.7. Typical lighting setup with Kino Flas. (Photo courtesy of Kino Flo.)
+
+15.8. Spacing is important for even illumination of the cyc, which is critical for a good process shot. ( Photo courtesy of Kino Flo.)
+
+cinematography 266
+
+* Use a pin-registered camera such as a Panaflex, Arri BL or 535, Arri II, 435 or similar.
+
+* Use the lowest grain film possible. Grain introduces noise into the image. 35mm is much preferred over 16mm.
+
+* Do not use diffusion over the lens. Do not use heavy smoke effects. Keying software can deal with some smoke effects, but there are limits.
+
++ Always shoot a gray scale lit with neutral light (3200K or 5500K) at the beginning of each roll. Shoot the gray scale (or chip chart for video) in a place where they will not be contaminated by splash back from the background or floor. * Whenever possible use a polarizing filter to eliminate specular glare, especially off the floor.
+
+* Especially with a video camera, but also with film cameras, avoid shooting with the lens wide open. The reason for this is that many camera lenses vignette very slightly when wide open which can create problems with the matte.
+
+* In video, never compensate for low light levels by boosting the gain. Never push film.
+
+* The video camera should be color balanced for the foreground subject.
+
+* To match the depth of focus of the foreground, shoot the background plate with the focus set at where it would be if the foreground object was actually there.
+
+* Carefully plan the screen direction and perspective of the background plates; it is essential that they match the foreground. If you are shooting video, note that there is a slight difference in perspective between a 1/2” video tube and a 2/3 camera.
+
+* Either before or after shooting the scene, it is a good practice to remove the foreground subject and shoot a clean plate of the colored background as you have it lit. This can later be used as a reference in post-production and can save marginal shots.
+
+LIGHTING FOR BLUESCREEN/GREENSCREEN
+
+Optimum exposure levels depend on the nature of the subject and the setup. Ultimatte needs at lease 30 IRE units of separation between the background color (blue or green) and the higher of the other two colors (Figures 15.6 through 15.9).
+
+In general, you want the exposure of the background to be about the same as the foreground. There is no general agreement on this.
+
+Some people set them to be exactly the same, some people underexpose the background by up to one stop and some people light the background by as much as one stop hotter than the foreground. The bottom line is simple: ask the person who will be doing the final composite. Different special effects houses will have varying preferences which may be based on the hardware/software combination they use. Always consult with your effects people before shooting.
+
+According to U/timatte Bulletin #3: “A 1:1 lighting ratio between the foreground subject and the backing is a safe choice, even it is not the ideal one.”
+
+When a green background can be lit separately from the foreground, it is advisable to reduce the light on the background to one stop below the foreground. Ultimatte does not advise using blue light on a blue background, which they have found can produce certain transition anomalies. Set pieces (such as tables, boxes to sit on, etc.) which are painted to give the actor something to walk behind or interact with present problems. The top of the piece will almost always be hotter than the shadow side. This will definitely cause problems with the composite. Lighting can help but it may create problems of its own. One trick is to use paints of different reflectances on the top and side surfaces. Ultimatte recommends Gothic Ultra Blue on the top surface and Ultimatte Blue on the shadowed surfaces. The Gothic Ultra has less luminance than the Ultimatte Blue.
+
+Nothing will undermine the believability of a composite more than a mismatch of lighting in the foreground and background. Careful attention must be made to recreating the look, direction and quality of the lighting in the background plate. Some of the following information is courtesy of Ultimatte and Kino Flo:
+
+* Guard against backsplash.
+
+* Block off whatever blue/greenscreen not in use. * Do not use a complementary color as a back light. * Ask if they need to see the floor — seeing the floor means dealing with shadows.
+
+* Don’t use diffusion.
+
+* Don’t use smoke.
+
+* Don’t include the matte color in the scene.
+
+* Try not to have anybody lying on the floor or on a table if it is at all possible. Sometimes a mirror on the floor will help fill in the background color in tight spaces.
+
+* Use black-and-white Polaroid and a blue filter (47B) to check the uniformity of the background lighting and meter with spot meter and incident.
+
+* Always shoot a film test to determine the true ASA of the film stock, the Exposure Value (EV) and color density. * Spot meters vary widely when measuring blue light: some brands are as much as three f-stops from other brands. Always use the same meter for testing as for principal photography. * Kino Flo lit bluescreens are typically best illuminated at 12 an f-stop to I-12 stops EV below nominal key. depending on the meter.
+
+* Kino Flo lit greenscreens are usually best illuminated at key toa full f-stop below key, depending on the meter. * Film stocks react differently to reflected green light than to blue light. The green layer of Kodak 5248, 5279, 5293, and 5298, for example, creates an ersatz matte line photochemically on highlight edges that must be fixed in post production.
+
+However, with pure blue light, the anomaly barely shows up.
+
+Note: Kodak has developed a “hybrid” color negative film stock specifically for visual effects lighting called SFX 200T.
+
+The new stock does not register the type of edging seen in film types mentioned above.
+
+* Illumination contrast — the difference between foreground lighting and background lighting — can assist in the matte extraction process. However, too much contrast can devalue the matte.
+
+* Many DPs prefer a blue background when foreground plates include warm colors, such as lighter skin tones. When the foreground subject is biased in the cooler range. the DP and the post-production supervisor and effects house may prefer a green background.
+
+15.9. A greenscreen setup. Keeping backsplash off the foreground sub ject is important to limit contamination, (Photo courtesy of Kino Flo), LUMINANCE KEY
+
+Luminance key is the same concept as chroma key except that the difference between light and dark objects is used as the key for producing a difference matte. If the subject is primarily light colored then the background and all parts of the scene that you want to become “transparent” so that the composited background plate will show through should be black. The opposite is true if the subject is predominantly dark.
+
+Luminance key is fairly simple to create but the inherent problem is that any shadow areas in the foreground subject will become transparent to the background matte: this creates severe limitations on lighting. For a good key, the foreground objects should be about 20 to 25 IRE units above black.
+
+DIMMERS
+
+There are a number of ways we control the intensity of light output at the unit itself:
+
+. Flood-spot * Wire scrims * Grip nets * Ditfusion * Neutral density filters * Aim (spilling the beam)
+
+* Switching off bulbs in multi-bulb units (soft lights) he alternative is to control the power input into the light with dim mers. There are advantages and disadvantages. The advantages are: * Fine degree of control * Ability to control inaccessible units * Ability to quickly look at different combinations * Ability to do cues * Ability to preset scene combinations * Ability to save energy and heat buildup by cooling down between take The disadvantages are:
+
+* Lights change color as they dim: see Table 15.4 * Some lights cannot be dimmed: particularly HMIs * Necessity of additional cabling * Cost The first dimmers invented were resistance units. They operate by placing a variable resistance in the power line. The excess energy TYPE LAMP COLOR SHIFT | DIRECTION | SHIFT Incandescent / Tungsten Halogen Orange-red Lower Marked
+
+Fluorescent Not discernible | Negligible | Negligible Metal Halide Blue | Higher Drastic
+
+Mercury Not discernible Negligible Negligible is burned off as heat. Resistance dimmers are still available up to 10K; they are heavy and clumsy but cheap. The major problem with resistance dimmers is that they must be loaded to at least 80% of their capacity in order to operate. If you put a SK on a 1OK dimmer; for example, the dimmer will only reduce the output a small amount: you won’t be able to dim all the way down. This sometimes necessitates the use of a dummy load to operate.
+
+The next generation of dimmers were autotransformers. They operate as variable transformers and alter the voltage. They do not have to be loaded to capacity and they don’t generate excessive heat but they do operate only on AC. Known as variacs (for variable AC) they are still standard equipment, particularly in the 1K and 2K sizes.
+
+For larger applications, silicon controlled rectifiers are used.
+
+Known as SCRs, these are electronic devices which are small in size, quiet and relatively low cost. They can be controlled remotely by dimmer boards, which means that the dimmer packs themselves can be near the lights, which saves cabling; only a small control cable needs to run from the board to the dimmer packs. The remote cable carries a control voltage of 0 to 10 volts and can be run up to 200 feet. The signal is multiplex and can run up to 192 dimmers.
+
+SCR dimmers do not alter the voltage, they work by “clipping” the waveform so that the voltage is heating the filament for a shorter period of time. The result of this is that the output of this type of dimmer cannot be read with an ordinary voltage meter, only a VOM (volt-ohm meter) which reads root mean square voltage (RMS) such as the high end Fluke meters will work.
+
+There must be a load on the circuit to read the output. The shorter rise time can sometimes cause filament sing and create RF (radio frequency) and AF (audio frequency) noise. The RF interference can be transmitted back along the power line and can cause problems, particularly for unbalanced high impedance type sound systems. In most cases, with properly grounded audio systems, there should be no problem, but a portable radio can be used to test and find the source of any trouble.
+
+When using an SCR dimmer with a generator, the gennie must be frequency controlled, the loss of syne will cause flicker; also, since most dimmers are voltage regulated, raising the voltage of the generator will not increase the output. An anomaly of these systems is that the neutral load can, in some cases, be higher than the hot line.
+
+SCR dimmers are basically theatrical equipment so their connectors will often not be compatible with the rest of your equipment. As a rule the outputs will be theatrical three pin connectors, either 60 amp or 100 amp. It is important to order adapters to whatever plugging system your are using.
+
+The input side of most dimmer packs are Camlock connectors. Frequently the neutral is reversed (male instead of female); the easiest way to run into trouble with dimmer orders is to forget to order feeder cable with the neutral reversed or “turnarounds”: female to female connectors.
+
+Control panels vary in sophistication. Some are simply sets of Table 15.4. Most light sources shift in color when dimmed.
+
+technical issues 15,10. The Unilux system, a high power strobe system capable of rame rates up to 500fps with strobe durations as short as 1/100,000th of a second. (Photo courtesy of Unilux.)
+
+cinematography 270 slider switches: one for each circuit, others include masters and sub-masters and may have separate banks for X and Y scenes. making it possible to do a cue from one preset to another. The next level is “soft patching” which allows for electronic routing of each line to a dimming circuit. The most advanced feature computer control, timed cues and other sophisticated control features. Most control panels will run any set of dimmers. The effect of dimming on color temperature varies with the source is shown in Table 15.4.
+
+WORKING WITH STROBES
+
+There are several types of strobe lighting for cinematography, the most widely known being Unilux (Figure 15.10). The Unilux package consists of a power supply and from one to three strobe heads.
+
+Several units can be controlled together for a greater number of heads. Frame rates of up to 500fps are possible. The strobes are fired by a pulse from the camera which signals when the shutter is open. Any camera which provides such a pulse is compatible with the system. In some cases a pulse contact is added to a mov ing part of the camera and this provides the syne signal.
+
+Strobe lighting in film has three basic uses:
+
+* To light cooler (strobes produce substantially less heat than tungsten heads), which can be a tremendous adv antage when shooting ice cream, for example.
+
+* To produce sharper images. The exposure duration for each flash can be as short as 1/100,000th of a second, as a result. the image is “frozen” and appears sharper than if photographed on moving film at standard exposures.
+
+* To provide sufficient exposure for high speed photography with a small power input.
+
+It is often used in “spray” shots of soft drink cans being opened: the strobe effect captures each droplet of spray crisply. In fact, it can be too sharp for some people. In shower scenes for shampoo commercials it can appear that the shower is a series of razor sharp drops rather than a soft spray. As a result, for beauty applications, it is common practice to combine Unilux with tungsten lighting. In most cases, the Unilux light is balanced with an equal amount of tungsten within a range of plus or minus one stop. This presents an interesting exposure problem, Like most strobes, Unilux is blue, about 6000° Kelvin: appropriate filtration is required. When mixing with tungsten use an 85 to obtain 3400K and an 85B to reach 3200K. To maximize the Unilux. use SOA or CTB or the tungsten lights. Most people prefer to light only the moving object with strobe and the rest of the scene with tungsten. Strobes are fan cooled and noisy and so are not useful for syne sound shooting.
+
+STROBE EXPOSURE
+
+Consider this situation: you are shooting at 96 frames per second and the desired effect is equal amounts of tungsten and strobe lights.
+
+Every time you increase the frame rate of motion picture camera you are decreasing the amount of time the shutter stays open: you are decreasing exposure. 96fps is four times faster than normal. the shutter speed is 1/200th of a second instead of the normal 1/50th (assuming a 180 shutter). This is an exposure loss of two stops. This is simple enough to deal with: to achieve a £/5.6 for example. you light to an f/11.
+
+But the same is not true of the strobe lighting. The strobe is instantaneous: it fires for only a few thousandths of a second at some time while the shutter is open, as a result, it is completely independent of the frame rate. [t doesn’t matter whether the film is moving at six frames a second or 600, the exposure will be the same.
+
+Here’s the problem. We read the tungsten and have to compensate, we then read the Unilux with a strobe meter and we don’t have to compensate. Clearly we can’t read them at the same time. How do we arrive at a setting for the lens? The answer is intuitively obvious, but mathematically a bit complex: we read them separately and then add the two exposures. As it turns out, adding f/stops is not especially simple. Let’s take the simplest case first. We read the Unilux by itself (and it is very important to turn off all tungsten lights when we do this) and find that they are an f/5.6. We have to balance the tungsten to that. As we know, at 96fps, we have to set the tungsten lights for f/11, which will be £/5.6 at 96fps. The temptation might be to average them; that would result in a very incorrect exposure: we must add them.
+
+What is f/5.6 plus {/5.6? ( No, it’s not 11.2.) In effect we are doubling the amount of light: the tungsten is providing f/5.6 and the Unilux is supplying an entirely different illumination which is also f/5.6. Twice as much light as /5.6 is {78. Recall that each f/stop represents a doubling of the amount of light. Now it gets a bit stickier.
+
+Let’s say that the Unilux is f/8 and the tungsten is f/5.6. Think of it this way: if f/8 is a base of 100%, then the tungsten light is 50% (one stop less equals 1/2 the amount of light). We then have 150% of the base light. 150% of f/8 is 1/2 stop hotter than f/8 — f/8 and a half. If the one of the sources is f/8 and the other is {/4, the correct exposure is f/8 and 1/4. F/4 is only 25% the amount of light of f/8:
+
+125%, Although a flashmeter is the preferred method many ordinary electronic light meters can read high speed strobes. The reason is that at 60 flashes per second, it is perceived as continuous by many meters, TYPICAL EXPOSURES
+
+Unilux is switchable for four intensity levels, the Unilux H3000 System is switchable to 16 speed ranges, which gives 1/4 stop level control. The levels are determined by the speeds at which the lights are flashing. Remember that the flash rate is twice the camera speed because there is one flash for the shutter and one for the viewfinder.
+
+The lights only come up to full intensity when the camera goes to speed. If you want to take a reading, the lights must be running at speed. Other considerations:
+
++ Shutter angle should be opened to the maximum.
+
+* Check the synchronization frequently. This is done by removing the lens and looking at the shutter with camera running and strobes operating. The shutter will be “frozen” and it should appear open.
+
++ For reflex viewing, the strobes can be run in “split syne” mode. In this case there are two flashes for each rotation of the shutter: one for the exposure and one for the viewfinder. * Unilux always comes with a technician; don’t forget to budget for him. Some types of strobe units are rented without operator, but be sure to check.
+
+* Unilux requires 208v-240v 3-phase and a ground. It cannot be run thorough a stage box because there is no ground. Standard Unilux consumes 5 amps per light. The Unilux H3000 system requires 220 volt single-phase and 10 amps per light. * Some cameras (such as the Photo-Sonics Actionmaster 16) must be fitted with an additional pickup for synchronization. technical issues 15.11. The Photo-Sonics 4B, capable of frame rates up to 3250 fps, 100 to 1000 fps in phase lock. (Photo courtesy of Photo-Sonics.)
+
+Table 15.5. Magnification requires an increase in exposure, Exposure
+
+Magnification increase ratio in stops 1:10 1/3
+
+1:6 1/2
+
+1:4 2/3
+
+1:3 1
+
+12 118
+
+1:1.4 ] 12 - 1:1.2 123 1:1 2 cinematography 272
+
+HIGH SPEED PHOTOGRAPHY
+
+High speed photography (Figure 15.11) differs mainly in the amount of light needed and in the calculation of exposure. Variations in frame rate are covered in the chapter on exposure. A few other formulae are also useful. (Thanks to Photo-Sonies, Inc., for the following calculations.)
+
+* 1/Exposure Time = 360° + shutter angle x frame rate.
+
+Example: 360° = 120° x 360fps = 1/1080 exposure time.
+
+Don’t forget to compensate if there is a beamsplitter in the camera — usually 1/2 stop.
+
+* Times Normal Speed = Frame Rate + Transfer Rate (e.g.: 24 or 30fps).
+
+Example: 360 + 24 = 15 Times Normal Speed.
+
+* Frames Exposed = Frame Rate x Event Duration.
+
+Example: 360 x .5 second = 180 Frames Exposed (for an event that lasts 1/2 second), * Screentime = Frame Rate x Event Duration + Transfer Rate.
+
+Example: 360 x .5 +24 =7.5 Seconds Screen Time.
+
+* Frame Rate Required = Screen Time = Event Duration x Transfer Rate.
+
+Example: 7.5 Seconds + .5 x24 = 360fps required.
+
+* Run Time = Frames Per Foot x Footage = Frame Rate.
+
+Example: 16 x 1000’ + 360 = 44.4 Seconds Run Time.
+
+* Sereentime for moving objects = Field of View = Object Velocity x Frame Rate + Transfer Rate. (Note: Field of view and object velocity must use the same units of measurement.) :
+
+Example: 2’ Field of View + 20’ per second x 360fps = 24 = 1.5 Seconds Screentime.
+
+LIGHTING FOR EXTREME CLOSE-UP
+
+There are two basic considerations in lighting for extreme close-up.
+
+The first is that due to extremely small depth of field (which is inherent in close focusing) and the need to stop down for improved optical performance, very high light levels are needed. Particularly with high-speed photography, an uncorrected stop of f/64 and higher is often called for. Since the area being lit is usually small there is generally no problem with this, although in dealing with large units it can be quite a job just to get them close together and all focused on a small subject (Table 15.5).
+
+The other problem is caused by the lens being so close to the subject. In some cases the front of the lens may be no more than an inch away from the subject. This makes it difficult to achieve any kind of front lighting or fill: the lens and the camera are in the w ay.
+
+It is more difficult when the subject is reflective. In this case no matter how much light is poured on the subject what you will see in the reflective surface is a mirror image of the lens itself, which will appear as a large black circle.
+
+There are two solutions: one is to cut a hole in a reflector card just large enough for the lens. Sometimes it is not even necessary for the hole to cover the entire front optic; with experimentation you will find that the actual working area is smaller and that the hole can be smaller without interfering with the image. A number of subtleties are possible with a little imagination, The other solution is a haif silver mirror. The mirror is placed between the lens and the object and angled slightly to reflect the image of the light source onto the subject in axis with the lens. Don’t FILM TYPE FORMAT RESULT ASA professional pack coaterless positive print coaterless positive print positive print (requires coating)
+
+professional pack positive print (requires coating)
+
+square picture pack coaterless positive print 4x5 film packet positive print (requires coating)
+
+positive print (requires coating)
+
+FINE GRAIN PRINT
+
+53 700
+
+42 2
+
+POSITIVE/NEGATIVE
+
+665 75
+
+55 5
+
+SPECIAL PURPOSE
+
+410 positive print for oscilloscope 10000 51 high con positive print 320 146L high con positive transparency 200 46L positive transparency 800 a n/a COLOR PRINT a
+
+669
+
+668 pack color print forget that the mirror has an exposure factor which you can measure — Table 15.6. Types of Polaroid film for with a spot or incident meter. Ring lights, which are any type of unit which fits around the lens, may be useful in lighting for extreme close-up, if they are made small enough.
+
+POLAROID PREVIEW
+
+Polaroid has become a popular way of checking exposure and balances on sets. Used in conjunction with metering, it can be a useful “confidence restorer.” There are several Polaroid emulsions commonly used and it is important to select the film which best suits the circumstances in which you will be shooting (Table 15.15). Polaroid doesn’t keep long even in the fridge: never freeze it.
+
+No Polaroid emulsion matches film or video in contrast ratio or spectral response; as a result Polaroids are similar to the video monitor in that they require considerable interpretation. They should never be used as anything other than a rough guide. Over-reliance on the video monitor or a preview Polaroid can lead to problems, don’t use them as crutches or as a substitute for a searching eye and a properly used light meter or waveform monitor.
+
+100 series films (e.g., 107) are amateur films. The 600 series (667, etc) are professional emulsions and generally exhibit greater stability and consistency from batch to batch. Since the rated speed of the Polaroid seldom matches the rated speed of the film stock or video camera, it is usually necessary to make some exposure compensation. There are several methods for doing this: relabeling the lens, neutral density filters and altering shutter speed.
+
+UNDERWATER FILMING
+
+Most professional cameras have underwater housings specially designed for them and they are widely available for rental. Water, even fresh water, acts as a filter, absorbing the red wavelengths first, then on down the spectrum, until all frequencies are absorbed. This is why there is no light at all below a certain depth, which varies lighting tests and scene preview.
+
+technical issues according to the clarity of the water. There are severa ; lighting units available, most of them smaller “sungun,” batt operated units. Observe the manufacturer’s rated maximum depth carefully; exceeding it may lead to an implosion and short SEAPARS
+
+The SeaPar® by Hydrolmage is built around a 1200 watt HMI PAR bulb, encased in a watertight container which can stand depths of up to 220’ in salt water (110 Ibs/inch*). The fresne permanently bonded to the front of the bulb to reduce the amount of glass, so instead of changing lenses, it is necessary to change lights [his is made easier by the inclusion of an underwater pluggable connector which can be detached underwater. It includes an aluminum retainer ring for gels and accessories and a bonded ground returt line back to the ballast which operates above water and is equipped with a 20 amp ground fault interrupter. A flicker-free ballast is als: available. LTM makes the AQUAPAR which is similat rungsten-halogen PAR 64s (1000 watt) and PAR 36s (650 watt) are also available in watertight housings. The PAR 36 ca figured for use with an underwater battery pack which can run two lights for an hour. In the tungsten units, the bulbs can be changed to alter the beam from wide-flood to narrow-spot and for daylight ot tungsten balance.
+
+MEASURES OF IMAGE QUALITY
+
+No matter what medium we are dealing with: video, filn photos, computer monitors, we need ways to describe their ability to reproduce an image accurately. What we subjectively call “sharp ness,” whether in lenses, emulsions, or video tubes, is act combination of factors, MODULATION-TRANSFER FUNCTION
+
+The modulation transfer function is a measure of an imaging tem’s ability to reproduce fine detail. Physically, the measurement evaluates the effect of the image of light diffusion within the emulsion. It is sometimes called the contrast transfer function. Modula tion is an expression of the difference between lightest and darkest areas of a test pattern.
+
+Che film is exposed to a test pattern which consists of alternating black-and-white lines which become sma ler and closer together 15.12. Smoke adds a great deal to this shot, especially when you real ize it is a studio set. (City of Lost Chil- After development, the image is read with a micro-densitometer.
+
+Where the lines are large and far apart, the image system will have no trouble reproducing them as completely black or white, which is a modulation factor of one (the modulation of the reproduced image exactly matches the modulation of the test target), but where the lines get smaller and closer together, the image system will begin to blur them together until they eventually are reproduced as a uniform gray. The graph of the modulation transfer function shows the system’s ability to accurately reproduce at all spatial frequencies (line pairs or cycles per millimeter), The measurement shows the degree of loss in image contrast as the detail becomes finer (1.e., a higher frequency of modulation), The rate of modulation is defined by the formula: where M is modulation and E is exposure:
+
+E max - E min M= ———_—— E max + E min The result is the ratio of modulation of the developed image to the modulation of the exposing pattern.
+
+Mi
+
+Mo
+
+The ratio is plotted on the vertical axis as a percentage of response.
+
+The spatial frequency of the patterns is plotted on the horizontal axis as cycles per millimeter. When the detail is large. the film reproduces it accurately, as in the left hand part of the curve. As the detail is finer and the lines closer together (the right hand part of the curve) the film is less able to reproduce it accurately.
+
+For most of us modulation-transfer functions are only useful in comparison to each other, but they can be useful in judging films, lens, imaging systems, etc. The MTF of each component of a system (lens, emulsion, print stock or lens, video tube, tape, monitor) can be multiplied to arrive atan MTF for the entire system. When judged in a comprehensive manner such as this, film still has a clear superiority as a total imaging system over even high definition video.
+
+EFFECTS
+
+SMOKE
+
+Many types of smoke are available for use on sets: incense in bee-smokers, smoke cookies, smoke power and others. They have all been found to be hazardous to health except for cracker smoke.
+
+Cracker smoke is atomized oil: baby oil, cooking oil and other types of lightweight oil are used. The oil is atomized by forcing compressed air or nitrogen through extremely small holes. Cracker smoke is very white, and fills an area with thick billowing smoke very quickly. The smoke has the added advantage of hanging for an extremely long time which can be a tremendous time-saver in production. Other types of smoke required “smoking it up” before every take. followed by wafting it around, then waiting for it to settle: a laborious, boring process. Smoke crackers are available in all sizes, from small hand carry units up to big industrial size crackers with compressors that are moved on dollies (Figures 15.12 and 15.13).
+
+FIRE
+
+Real fire almost always needs help. It may deliver enough exposure itself but if it is in the frame or even near the frame, it will flare the image badly and destroy the shot. The secret of fire shots is to use several sources on dimmers or flicker boxes — fire jumps around, it doesn’t just go up and down (Figure 15.14). One light or even technical issues two lights on dimmers that just get brighter and darker \ vincing because the shadows don’t flicker and jump like Fire 1s established by a low key orange flickering effect be used to warm the light and the flicker can be accomplis variety of ways. Silver foil. waving hands and rotating are used, but the simplest and most convincing effect is usua place the source light on a dimmer and have an electrician with a1 “eye operate It.
+
+\ more high-tech method is the use of a fl kinds are available. One is a random generator which can grammed for various rates of random flicker. The other u cal sensor to “read” the light of a candle or fire and drives a di in syne with it. This is particularly effective for scenes wl dimmer or fire is the primary source and is visible in th McIntire Enterprises makes several “magic boxes” which cat ip to LOK dimmers and a smaller unit which directly controls up t a 2K (Figure 15.15)
+
+Small handheld candles or oil lamps can be executed wit! socket and a small bulb. They can be AC powered with a ning up the actor’s sleeve or DC powered with a battery hidd on the actors body. Flame bars, which are pipes with holes spaced along them through which gas is pumped, are far more relia controllable than real fire 15.14 ommercial, the rector vaggio” look.
+
+There is n a nearby Ireplac terns.A fire- » flic units This was oper-trician who could give amount of fire flicker director’s only other keep the scene very Like fire effects, the look of a flickering TV is best accomplished with dimmers. The source, which might be a fresnel or practical bulbs in porcelain sockets with some diffusion, are usually placed in a snoot box to confine the light in a realistic pattern. In general 1/2 or full CTB cools the light to simulate the blue look of black-and-white television. This is a convention even though most people oF watch color TV, 1 projects a variety of colors. Here again, It is he effect have some sensitivity important that the person opet to the mood of the scene and keep it random. Actual television flickers considerably less than is usually portrayed, but the activity helps eri ry uitinneson Tc = : ° Photo courte h\ sell the effect Projection effects can be accomplished the same iddition of sometimes bouncing the light for a softer jection is bounced off a large screen. while television is a smaller direct source. Projection can also be simulated by running actual film through a projector and aiming it at the audience. Obvi vusly it to defocus the proyector or remove the lens so the image IS necessary vont appear on the faces. The drawback of this method is that the projection ts likely to make too much noise With the advent of high speed film and electronic gain for video cam eras, high-speed lenses, high efficiency HMIs and sunguns, day-for-night is not done as often. In black-and-white infrared film can be used for night effects, general y In conjunction with a filter such as a Wratten #25 (1 15.16)
+
+lraditionally, day-for-night is done at mid-day since long shadows way the fact that it is d Of course. showing the sk.
+
+forbidden. In color (both film and video), it is possible to 2-1/2 stops. Moonlight blue can be simulated by removing vith tungsten balance film or white balancing the video en. Subtleties of color balance can be achieved th color correcting filters depending on the feel that is desired Harrison and Harrison make a series of day-for-night filters. The ct while the red component is blue-red, the blue gives the night ef| also lowers the contrast, which can help maintain the night illusion; the #3 filter offers a greater degree of contrast control. They have an exposure factor of 2 stops. In other parts of the world, day-for-night is Often named for the » where it was presumably invented and is known as “American night.” In fact, the original title of Francois the United States as Dav For Nis ruffaut’s film known in 15.16. Day for night, such as this shot from Yojimbo (Toho, 1961), is muc easier to achieve realistically in black and-white.
+
+15.17. Rain can never be effective unless it is backlit as in this shot from Nine and 1/2 Weeks
+
+15.18. The Thundervoltz from Lightning Strikes provides portable power for 70K lightning effects. Undersiz-ing your lightning effects units can Bes serious mistake. (Photo courtesy of Lightning Strikes.)
+
+MOONLIGHT EFFECT
+
+\s you recall from our discussion of the Purkinje effect, it is a widely accepted convention that moonlight is blue. The use of blue for moonlight is controversial and mz iIny purists insist on using no more than 1/2 CTB for the effect. More common is full CTB o1 double blue. Of course, these are all in addition to whatever blue is used to establish basic color balance. Some people also add just a touch of lavender for a romantic look that is slightly more pleasing to the skintone of the actors.
+
+WATER EFX
+
+The dapple of light reflected on water can be a beautiful and subtle effect. It can be achieved in a number of ways. Some people use broken mirrors or crumpled aluminum foil to reflect a strong directional light (usually a fresnel or a PAR), These tend to be somewhat ul ed and artificial. The best effect is always aahiGved | by using tual water. In a shallow pan with a black backing water itself can be highly reflective if you use a strong enough unit.
+
+RAIN
+
+Rain is the province of the prop department, but it does have implica tions for lighting. To ible, rain must be backlit (Figure 15.17)
+
+Front lighting will not work with anything but the most intense downpours, and even then the result will be anemic. Even with the most carefully controlled rain effect, water gets everywhere. Several precautions are necessary:
+
+* Raise all connectors, especially distribution connectors, oft the ground on apple boxes. Wrap them in plastic oe se with tape. Use electrical tape as gaffers tape won’t withstand walter.
+
+* Ground everything you can.
+
+* Put rain hats on all lights. Protect the lenses of all large lights water on a hot lens will shatter it with the possibility of glass flying out.
+
+* Cover equipment racks and other spare equipment with heavy plastic.
+
+* Crew members should wear insulating shoes and stand on rubber mats whenever working with electrical equipment * Observe all electrical safety rules religiously.
+
+Most rain conditions (which includes real rain as well as rain towers) call for a camera umbrella, which is a large sturdy beach Ol patio type umbrella and perhaps an aluminized space blanket or rain cover for the camera. Be sure that the filters are protected as well rain drops on the filter or lens are very noticeable.
+
+For heavier water conditions a rain deflector may be necessary.
+
+Based on an idea used for the bridges of boats, a rain deflector is a spinning round glass in front of the mirror. It rotates fast enough to spin the water off and keep the lens area clear. One caution: when tried with a Steadicam, the spinning glass acts as a gyro and tends to pull the camera off course strongly enough for the Steadicam operator to be unable to control it. There is another device which blows compressed air or nitrogen toward a clear filter to keep water off.
+
+This system can also be used to keep dust away from the filter in shots which stir up a lot of debris such as explosions.
+
+LIGHTNING
+
+Because lightning must be extremely powerful to be effective, it generally calls for a specially built rig. Nearly universal now is the use of machines from Lightning Strikes (Figure 15.18), which are basically incredibly powerful strobes. Included with them are a controller which can vary the timing and intensity of strikes to very accurately reproduce actual lightning. For further realism, several units should be used. Except when a storm is far away, actually lightning comes from several different angles. If a storm is approaching in the scene, a skilled operator will increase the intensity and frequency as the storm nears.
+
+Most older lightning rigs are based on carbon are technology. They consist of an are ballast and a set of carbons which can be pushed together then rapidly withdrawn with a levered handle. The resulting arc produces a powerful and momentary blast of light which is very convincing. A brute arc itself can be used by reversing the polarity of the DC so that it is “wrong” and then throwing the striking lever. The carbons will produce a brief, powerful are but won’t strike because the polarity is wrong.
+
+Understandably, these effects can be very hard on a generator, so be sure you have plenty of headroom before attempting these effects.
+
+Sometimes flashbulb rigs are used for the effect. Small flashbulb effects may be appropriate where lightning is only needed for one shot and rental of a dedicated unit would be impractical. M type flashbulbs, which have a long burn time, are most effective for this purpose. Regular flashbulbs fire very quickly and they might burn while the shutter is closed, resulting in no exposure.
+
+GUN SHOTS
+
+Gun shots are flashes of short enough duration that they might occur while the shutter is closed. The standard procedure is for the operator to watch for the flashes. If the operator sees them, then they did not get recorded on film. If the operator saw them, it means the flashes occurred while the mirror was reflecting the image to the viewfinder. Depending on how critical they are, another take may be necessary.
+
+Several things can be done to alleviate this problem. There are prop guns that do not use gunpowder but instead use an electrical pulse coupled with a chemical charge to produce a flash. This has the added bonus of being much safer. More safety in itself is good. but it also means much less need for safety rigging, which can be a time consuming process. Also, a licensed pyrotechnician/armorer and fire safety officer are not needed. These electronic guns also produce a longer duration flash which means fewer retakes.
+
+There are also some systems which time the gunfire to the shutter, thus assuring a good take nearly every time. The Rolls-Royce of such systems is AatonTCGun, which has a timecode generator on each gun, jam-synced to the camera. In addition to locking the firing technical issues of each gun to the shutter it can be rigged with a timecode controlled limiter which automatically drops the record level of a digital audio recorder for the duration of the gunshot. This is important for two reasons: first, gunshots can be very hard on the hearing of the sound recordist and the boom operator, both of whom are hearing them through the headphones. Secondly, very loud sudden noises such as gunshots actually drop out on most recorders: the mic is so overloaded that it actually produces a momentary blank spot on the tape instead of a very loud noise.
+
+SAFETY WITH GUNS
+
+Guns should only be handled by a licensed pyrotechnician/armorer — in most places this is a legal requirement. The same applies to bullet hits planted on people, props or the set. Bullet hits are small black powder charges and can be dangerous. If the gun is not firing in the shot, the armorer should open each gun, verify that it is empty. then show it to the actors and camera crew with the action open.
+
+If firing of blanks is anywhere near towards the camera a shield should be set by the grips to cover the camera, the operator and the focus puller. This is usually done with Lexan: a clear polycarbonate that is optically smooth enough to shoot through but strong enough to protect the people, the lens and the camera. This shield needs to be secured and bagged so that it won’t get knocked over by an errant diving stunt man or a chair that gets kicked in the action.
+
+Great care must be taken by the grips as the disadvantage of Lexan is that it scratches very easily. Always get more Lexan than you think you need because after a few gun fights, many areas will be too scratched to shoot through. Anytime anyone is testing the gun they should shout “fire in the hole” before shooting.
+
+EXPLOSIONS
+
+The same type of shield is necessary for small explosions, rockets, shattering glass, etc. For small explosions, the camera crew also need to be protected from objects that get blown into the air. Often a furny pad (called a sound blanket on the East coast) over the heads of the crew is enough.
+
+For larger explosions, the camera should be either locked down and switched on remotely, or operated with a remote control head and video assist. In this case, either very heavy duty crash boxes are needed or expendable cameras. Explosions are usually filmed with multiple cameras at various frame rates: at least one or more of the cameras will be run a high frame rate; often up to 120fps or more.
+
+HMI PARs are available in explosion proof housings. This does not mean that they are impervious to explosions, it means that they are sealed so that no electrical spark will cause a problem in an explosive environment.
+
+TIME LAPSE PHOTOGRAPHY
+
+Time lapse is usually done with an intervalometer — an electronic device which controls the timing and duration of each exposure. The Norris Intervalometer starts at an exposure of 1/16 of a second and gets longer from there. The interval between exposures can be anywhere from a fraction of a second up to several hours or even days apart. With longer exposure you get not only a time lapse effect but may also get blurring of the subject. This can be strongly visual with subjects such as car lights or moving clouds. For moving clouds, a 10 to 15 second interval is a good starting point.
+
+One issue with time lapse shots is that the exposure may change radically during the shot: especially if it is night-into-day or day-cinematography THE STEELE CHART
+
+TIME COMPRESSION /INTERVALOMETER SCREEN TIMES 18 2s 58 10S 15S 208 30S 1M 2M 5M 10M 20M
+
+FRAMES 24 48 120 240 360 480 720 «61440 2880 7200 14400 28800 INTERVAL EVENT DURATION
+
+——5 ——— 12Frm/Sec | 2s 4S 10S 208 308 408 IM 2M 4M 10M 20M 8Frm/Sec 38 65 15S 30S 455 | 1M 90S 3M 6M | 15M 30M 1H -——— —— 6Frm/Sec 4S | BS 208 40S 1M 80S 2M 4M 8M | 20M 40M 80M T 7 | | | 4frm/Sec | 65 12S 30S IM 90S 2M 3M 6M 12M 30M | 1H | 2H 3Frm/Sec | 8S 16S 40S s0S | 2M 4M 8M 16M 40M 80M 2H 2Frm/Sec 12s | 248 iM | 2M ———— ~ ——_—__–—__—_— 1Frm/Sec | 248 | 48s 2M 4M oe ie | | 48S | 96S 4M 8M | 3M 6M 16M 2Sec/Frm
+
+3Sec/Frm | 728 | 2M 6M 12M | 245 4Sec/Frm | 96S 3M 8M 16M
+
+128
+
+5Sec/Frm 2M =| 4M 10M 20M | 10H 20H ——— —j $$} 6H 16H 32H
+
+12H
+
+8Sec/Frm 32M | 48M 64M 96M 3H
+
+125 245 | 12M 24M a GE } 1O0Sec/Frm 4M 8M 20M 40M 1H 80M 2H 4H 8H | 20H 40H 15Sec/Frm 6M 12M 30M 1H 90M 2H 3H 6H | 12H 30H od 1
+
+—_—– 20Sec/Frm 8M 16M 40M BOM 2H 2H 4H BH 16H | 40H 30 | | 40M 8H 30Sec/Frm 12M 24M 1H 2H 3H 4H 6H 12H 24H me | 5D 10D | ] 1 1Min/Frm 24M 48M 2H 4H 6H 8H 12H 24H 2D 5D 10D 20D —_— {__t ———— 2Min/frm 48M 96M 4H 8H 12H 16H 24H 2D 4D 70D 20D 40D - t 5Min/Frm 2H 4H 10H 20H 30H 40H 2D 5D
+
+10D 25D | 50D | 100D STEP 1: Decide how long you want the event to last on screen STEP 2: Decide how long you want to film the event in real time.
+
+STEP 3: Sel interval according to data in the far left column.
+
+NOTE: This chan is a guideline only. 1 the specific numbers you’re looking for are not on the chant, you can use the chart to “quesstimate” by finding the closest comesponding numbers. equals the interval © The Steel Chart, Lance Steele Rieck, 1997 into-night, also if heavy clouds move in during the shot. This can be controlled with a timing device or it may be necessary to stand by and do exposure changes manually. If you don’t want the depth-of-field to change during the shot, you may want to add or subtract ND filters or alter the shutter setting. Also, with long intervals between exposures it is possible for enough light to leak around the normal camera shutter to fog frames. An additional shutter, known as a capping shutter, is added to prevent this. Capping shutters are available from the same places that supply intervalometers. Table 15.7 shows screen time vs. event duration for time lapse photography.
+
+TIME SLICING
+
+This is the effect that was popularized in a series of Gap ads and most famously in the film The Matrix, This is the effect where a character is suddenly “frozen” but the camera dollies around the figure or the object. This effect is accomplished with an array of 35mm still cameras arranged around the subject. A regular film camera is EXAMPLE: The DP wants 15 seconds time-lapse footage of clouds pass: ing. You have six hours to film. First, look under SCREEN TIME for “15S”. Follow column down till you find “GH” or six hours. Follow row to the far leh INTERVAL column where you will find the interval: 1Min/Frm.
+
+FORMULA: Event duration in seconds divided by screen lime in frames Table 15.7. The Steele chart for calculating time lapse shots. (Courtesy of Lance Steele Rieck.)
+
+technical issues 15.19. Time slicing shots require extensive setup. The PAWS system uses miniature motion picture cameras instead of still cameras, but the principle is the same. (Photo cour tesy of PAWS & Co.)
+
+part of the array. At the moment of freezing the action, the entire circle of still cameras is fired. These still photos are then scanned and blended together to form a film shot (Figure 15.19).
+
+Visualize it this way: imagine a film camera on a mount that ean be dollied around the subject instantaneously, let’s say 90°, with the film running at very high speed. Since the dolly is instant, it “sees” the subject from all points around that arc before the subject can move. This is what the still cameras do: they see the subject from as many points of view as you wish — all at the same time. In practice, the subject is often placed on greensereen and then the green background is replaced with live action footage of the original scene, usué illy matching the dolly action simulated by the still array. The result 1s a dolly around a live action scene with a frozen rae in the middle. The still cameras can be arranged in any type of mov imaginable: the effect is not restricted to a dolly around, professional formats

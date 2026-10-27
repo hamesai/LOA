@@ -1,0 +1,615 @@
+121
+You can shoot movies in all shooting modes. Also, during the Live View 
+image display or movie shooting, you can take still photos by pressing 
+the shutter button completely. Playing back the movie on a TV set 
+connected to the camera is recommended (p.139-140).
+1 Select [6 Live View/Movie func. set.].
+ The menu procedure is the same as 
+on page 108.
+2 Enable movie shooting.
+Fully-Automatic Modes (1/C)
+ Select [Movie recording] and set it to 
+[Enable].
+d/s/f/a/F Modes
+ Select [LV func. setting].
+ Select [Stills+movie], then select 
+[Movie display].
+ 3Set the movie recording size. Select [Movie rec. size] and set the 
+size.
+• [1920x1080]
+Full HD (Full High-Definition) 
+quality
+• [640x480]
+4:3 standard quality
+k Shooting Movies
+COPY
+
+122
+k Shooting Movies
+4 Display the Live View image. Press the <A> button.
+X The image matching the [Screen 
+settings] (p.109) setting is displayed 
+on the LCD monitor.
+5 Focus the subject. Before shooting a movie, focus with 
+AF or manual focus (p.113-119).
+6 Start shooting the movie. Press <0> to start shooting the movie. 
+While the movie is being shot, the “o” 
+mark will be displayed on the upper right 
+of the screen.
+7 Stop shooting the movie. Press <0> again.
+ With a 4GB card, you can shoot a movie in [1920x1080] for about 12 
+min. At [640x480], about 24 min. (Based on Canon’s testing 
+standards.)
+ You can shoot movies up to about 90 min. total at 23°C/73°F. Or up to about 
+80 min. total at 0°C/32°F (with a fully-charged Battery Pack LP-E6).
+ During movie shooting, the top, bottom, left, and right parts of the screen will 
+have a semi-transparent mask. The area enclosed by the semi-transparent 
+mask will be the movie image that is recorded. The semi-transparent mask 
+size will change depending on the [Movie rec. size] setting (p.121).
+ In the fully-automatic modes (1/C), the movie shooting screen 
+will always be displayed.
+ In the d/s/f/a/F modes, if [LV func. setting] is set to 
+[Stills+movie], you can still shoot movies by pressing <0> even if [Screen 
+settings] has been set to [Stills display] or [Exposure simulation].
+o: Shooting movie
+Movie Shooting Time
+About the Screen
+COPY
+
+123
+k Shooting Movies
+ You can take a still photo at anytime by pressing the shutter button 
+completely, even during movie shooting. The shutter speed and aperture are 
+set automatically. The ISO speed is also set automatically within ISO 100 - 3200.
+ The still photo will cover the entire screen including the semi-transparent mask.
+ If you take a still photo during movie shooting, the movie will record a still photo 
+for about 1 sec. The captured still photo will be recorded to the card, and when 
+the Live View image is displayed, the movie shooting will resume automatically. 
+One movie file and the still photo file(s) will be recorded to the card.
+Taking Still Photos During Movie Shooting
+Notes on Movie Shooting
+Recording and Image Quality
+ After you start shooting a movie, the movie shooting will stop automatically if 
+the file size reaches 4 GB or if the movie time exceeds 29 min. 59 sec.
+ For movie shooting, the ISO speed is set automatically. ISO 100 is set as standard, then 
+it can increase up to ISO 6400 (expandable to H1: 12800) for low-light conditions.
+ If the attached lens has an Image Stabilizer, the Image Stabilizer will 
+operate at all times even if you do not press the shutter button halfway. 
+The Image Stabilizer may cause the total movie shooting time or the 
+number of possible shots to decrease. If you use a tripod or if the Image 
+Stabilizer is not necessary, you should set the IS switch to <2>.
+ The camera’s built-in microphone will also record the operation noise of the 
+Image Stabilizer, AF motor, and in-focus beeper. Also, if you operate the 
+camera’s dial or lens during movie shooting, the respective operation noise 
+will also be recorded. If you use a commercially-available external 
+microphone, you can prevent (or reduce) these noises from being recorded.
+ Autofocusing during movie shooting is not recommended since it might 
+momentarily throw the focus way off or change the exposure. If the AF 
+mode has been set to [Quick mode], AF is not possible even if you 
+press the <p> button during movie shooting.
+ If [Screen settings] has been set to [Stills display] or [Exposure 
+simulation], the start of the movie shooting might momentarily record a 
+substantial exposure change.
+Operation
+ External flash cannot fire for still photos taken during movie shooting.
+ If [Screen settings] has been set to [Movie display], the depth-of-field 
+preview button will not work. 
+COPY
+
+124
+k Shooting Movies
+Notes on Movie Shooting
+Playback and Connection to TV
+ If the brightness suddenly changes greatly during movie shooting, that 
+part might look momentarily still when you playback the movie.
+ If you connect the camera to a TV set with an HDMI cable (p.140) and 
+display the Live View image while shooting a movie at [1920x1080], the 
+image displayed on the TV set will be small. However, the movie itself 
+will be recorded in the [1920x1080] size as set.
+ If you connect the camera to a TV set (p.139-140) and display the Live View 
+image while shooting a movie, the TV will not output the sound. (The sound will 
+be properly recorded, but the camera will not output the sound to the TV set.)
+If you use a card having a slow writing speed, the five-level indicator 
+on the right might appear during movie shooting. It indicates how 
+much data has not yet been written to the card (remaining capacity of 
+the internal buffer memory). The slower the card, the faster the 
+indicator will climb upward. If the indicator becomes full, movie 
+shooting will stop automatically. If the card has a fast writing speed, 
+the indicator will either not appear or the level will hardly go upward. 
+First, shoot a few test movies to see if the card can write fast enough.
+Indicator
+Recording and Image Quality
+ The movie will be recorded in the MOV format.
+ The movie will be recorded in the Picture Style currently set.
+ The movie will be recorded in the sRGB-equivalent color space 
+optimized for movies.
+Exposure
+ With [Screen settings] set to [Movie display] or during movie shooting, 
+you can adjust the image brightness (exposure compensation) by setting 
+the power switch to <J> and turning the <5> dial (except in 1/C 
+modes).
+ During movie shooting, you can lock the exposure (AE lock) by pressing 
+the <A> button. To cancel the AE lock, press the <S> button. (The 
+metering timer will not operate.)
+ Center-weighted average metering will be used for movie shooting. If the 
+AF mode is set to [Liveu (Face detection) mode], the exposure control 
+will be evaluative metering linked to the detected face.
+COPY
+
+125
+About Sound
+ The sound is recorded in monaural by the camera’s built-in microphone 
+(p.16).
+ Stereo sound recording is possible by connecting an external 
+microphone equipped with a stereo mini plug (3.5mm dia.) to the 
+camera’s external microphone IN terminal (p.16).
+ The sound recording level will be adjusted automatically.
+Display and Operating the Camera
+ The shutter speed and aperture displayed in the Live View screen when 
+the shutter button is pressed halfway are for shooting still photos.
+ If you take still photos during movie shooting while drive mode is set to 
+<Q> or <k>, <u> (single shooting) will take effect automatically.
+ You can use Remote Controller RC-1/RC-5 (sold separately, p.102) to 
+start and stop the movie shooting. With RC-1, set the timing switch to 
+<2> (2-sec. delay), then press the transmit button. If the switch is set to 
+<o> (immediate shooting), still photo shooting will take effect.
+ If the movie shooting is not possible due to the insufficient remaining 
+capacity of the card. movie recording size and movie shooting remaining 
+time (p.112) will be displayed in red.
+Live View Shooting Cautions for Stills and Movies
+Notes About the Live View Image
+ Under low light or bright light conditions, the Live View image might not 
+reflect the brightness of the captured image. However, for movies, the 
+movie image displayed will be recorded in almost the same way you see 
+it on the LCD monitor.
+ If the light source within the image changes, the screen might flicker. If 
+this happens, stop and resume the Live View shooting under the actual 
+light source to be used.
+ If you point the camera in a different direction, it might throw off the Live 
+View image’s correct brightness momentarily. Wait until the brightness 
+level stabilizes before shooting.
+ If there is a very bright light source in the picture, such as the sun, the bright 
+area might appear black on the LCD monitor. In still photos, such bright 
+areas will be recorded properly as a bright area. In movies, the bright areas 
+will be recorded in almost the same way you see it on the LCD monitor.
+COPY
+
+126
+Live View Shooting Cautions for Stills and Movies
+Notes About the Live View Image
+ Under low light, the Live View image might show chrominance noise. In 
+still photos, chrominance noise is not recorded. However, in movies, it 
+will be recorded in almost the same way you see it on the LCD monitor.
+ When you magnify the image, the image sharpness may look more 
+pronounced than it really is.
+Notes About the Shooting Results
+ When you shoot continuously with Live View function for a long period, 
+the camera’s internal temperature may increase and it can degrade 
+image quality. Terminate Live View shooting when not shooting images.
+ Before taking a long exposure or shooting a movie, stop Live View 
+shooting temporarily and wait several minutes before shooting. This is to 
+prevent image degradation.
+ Live View shooting in high temperatures and at high ISO speeds may 
+cause noise or irregular colors.
+ If you shoot still photos at a high ISO speed or shoot a movie in low light, 
+horizontal stripes may become noticeable as noise.
+ If you take the picture while the image is magnified, the exposure might 
+not come out as desired. Return to the normal view before taking the 
+picture. During the magnified view, the shutter speed and aperture will be 
+displayed in red. Even if you take the picture during magnified view, the 
+captured image will show the normal view.
+Custom Function Notes
+ Live View shooting will disable certain Custom Function settings (p.173).
+ If [8C.Fn II -4: Auto Lighting Optimizer] (p.177) is set to anything 
+other than [3: Disable], the image may look bright even if a decreased 
+exposure compensation or flash exposure compensation has been set.
+Notes about lenses and flash
+ The focus preset feature on super telephoto lenses cannot be used.
+ With an external Speedlite, FE lock, modeling flash, and test flash cannot 
+be used.
+COPY
+
+127
+ 7
+Image Playback
+This chapter explains how to playback and erase 
+photos and movies, how to display images on a TV 
+screen, and other playback-related functions.
+About images taken with another camera:
+The camera might not be able to properly display images captured 
+with a different camera or edited with a personal computer or whose 
+file name was changed.
+COPY
+
+128
+1 Playback the image. Press the <x> button.
+X The last captured image or last image 
+viewed will appear.
+2 Select the image. To playback images starting with the 
+last image, turn the <5> dial 
+counterclockwise. To playback 
+images starting with the first captured 
+image, turn the dial clockwise.
+ Press the <B> button to change 
+the display format.
+3 Exit the image playback. Press the <x> button to exit the 
+image playback and return the 
+camera to shooting ready.
+x Image Playback
+Single Image Display
+Single image display
+Histogram display
+Single image display + 
+Image-recording quality
+Shooting information display
+COPY
+
+129
+x Image Playback
+ About the Highlight Alert
+When the [4 Highlight alert] menu is set to [Enable], overexposed 
+highlight areas will blink. To obtain more image detail in the 
+overexposed areas, set the exposure compensation to a negative 
+amount and shoot again.
+ About the AF Point Display
+When the [4 AF point disp.] menu is set to [Enable], the AF point 
+which achieved focus will be displayed in red. If automatic AF point 
+selection was used, multiple AF points might be displayed in red.
+B Shooting Information Display
+Flash exposure
+compensation amount
+Metering mode
+Shooting mode/
+Movie
+Highlight tone priority
+White balance
+Date and time
+Original decision (image 
+verification) data appended
+White balance correction
+Histogram
+(Brightness/RGB)
+Color space
+Color temperature if
+<P> is set
+Picture Style and 
+settings
+File size
+Image-recording 
+quality/Movierecording size
+Playback number/
+Total images recorded
+Folder number - File number
+Card
+Aperture
+Shutter speed/
+Recording time
+Protect
+Exposure compensation amount
+* When you shoot in the RAW+JPEG mode, the JPEG image file size will be 
+displayed.
+ISO speed
+AF Microadjustment
+COPY
+
+130
+x Image Playback
+ About the Histogram
+The brightness histogram display shows the exposure level 
+distribution and overall brightness. The RGB histogram display is for 
+checking the color saturation and gradation. The display can be 
+switched with the [4 Histogram] menu.
+[Brightness] Display
+This histogram is a graph showing the 
+distribution of the image’s brightness level. The 
+horizontal axis indicates the brightness level 
+(darker on the left and brighter on the right), 
+while the vertical axis indicates how many 
+pixels exist for each brightness level. The more 
+pixels there are toward the left, the darker the 
+image. And the more pixels there are toward the 
+right, the brighter the image. If there are too 
+many pixels on the left, the shadow detail will be 
+lost. And if there are too many pixels on the 
+right, the highlight detail will be lost. The 
+gradation in-between will be reproduced. By checking the image and 
+its brightness histogram, you can see the exposure level inclination 
+and the overall tone reproduction.
+[RGB] Display
+This histogram is a graph showing the distribution of each primary 
+color’s brightness level in the image (RGB or red, green, and blue). The 
+horizontal axis indicates the color’s brightness level (darker on the left 
+and brighter on the right), while the vertical axis indicates how many 
+pixels exist for each color brightness level. The more pixels there are 
+toward the left, the darker and less prominent the color. And the more 
+pixels there are toward the right, the brighter and denser the color. If 
+there are too many pixels on the left, the respective color information will 
+be lacking. And if there are too many pixels on the right, the color will be 
+too saturated with no detail. By checking the image’s RGB histogram, 
+you can see the color’s saturation and gradation condition and white 
+balance inclination.
+Sample Histograms
+Dark image
+Normal brightness
+Bright image
+COPY
+
+131
+Search for images quickly with the index display showing four or nine 
+images on one screen.
+1 Turn on the index display. During image playback, press the 
+<I> button.
+X The 4-image index display will 
+appear. The currently-selected image 
+will be highlighted in a blue frame.
+ Press the <I> button again to 
+switch to the 9-image index display.
+2 Select the image. When you turn the <6> dial, you 
+can browse the images as set with 
+[4 Image jump w/6] (p.132).
+ Turn the <5> dial to move the blue 
+frame to select the image.
+ Press the <u> button to display the 
+selected image in the normal view.
+(9 images → 4 images → 1 image)
+x Searching for Images Quickly
+H Display Multiple Images on One Screen (Index display)
+ÎÎ
+COPY
+
+132
+x Searching for Images Quickly
+With the single image display, index display, and magnified view, you 
+can turn the <6> dial to jump through the images.
+1 Select the jump method. In the [4 Image jump w/6] menu, 
+select the desired jump method from 
+[1 image/10 images/100 images/
+Screen/Date/Folder/Movies/Stills], 
+then press <0>.
+ With the index display, you can jump 
+by a single screen by selecting 
+[Screen].
+ If you want to jump by date, select 
+[Date]. To jump by folder, select 
+[Folder].
+2 Browse by jumping. Press the <x> button to playback 
+the image.
+ Turn the <6> dial.
+X The jump display will proceed 
+according to the selected jump 
+method.
+X On the bottom right, the jump method 
+and current image location are 
+indicated.
+I Jump through Images (Jump display)
+Image location
+Jump method
+COPY
+
+133
+You can magnify the image by 1.5x to 10x on the LCD monitor.
+1 Magnify the image. During image playback, press the 
+<u> button.
+X The image will be magnified.
+ To increase the magnification, hold 
+down the <u> button. The image will 
+continue to be magnified until it 
+reaches the maximum magnification.
+ Press the <I> button to reduce 
+the magnification. If you hold down 
+the button, the image will continue to 
+reduce to the single image display.
+2 Scroll around the image. Use <9> to scroll around the 
+magnified image.
+ To exit the magnified display, press 
+the <x> button and the singleimage display will return.
+u/y Magnified View
+Magnified area position
+ During the magnified view, you can turn the <5> (or <6>) dial to view 
+another image at the same magnification and position (the display jumps 
+according to the selected jump method).
+ Magnified view is not possible during the image review immediately after 
+the image is taken.
+ The movie image cannot be magnified.
+COPY
+
+134
+You can rotate the displayed image to the desired orientation.
+1 Select [Rotate]. Under the [3] tab, select [Rotate], 
+then press <0>.
+2 Select the image. Turn the <5> dial to select the 
+image to be rotated.
+ You can also select an image on the 
+index display.
+3 Rotate the image. Each time you press <0>, the 
+image will rotate clockwise as follows: 
+90° → 270° → 0°
+ To rotate another image, repeat steps 
+2 and 3.
+ To exit and return to the menu, press 
+the <M> button.
+b Rotating the Image
+ If you have set [5 Auto rotate] to [OnzD] (p.146) before taking 
+vertical shots, you need not rotate the image as described above.
+ If the rotated image is not displayed in the rotated orientation during 
+image playback, set the [5 Auto rotate] menu to [OnzD].
+ A movie cannot be rotated.
+COPY
+
+135
+You can playback the images in the card as an automatic slide show.
+1 Select [Slide show]. Under the [4] tab, select [Slide 
+show], then press <0>.
+2 Select the images to be played back.
+ Turn the <5> dial to select the item, 
+then press <0>.
+[All images/Movies/Stills]
+ Turn the <5> dial to select one of 
+the following: [jAll images/
+kMovies/zStills]. Then press 
+<0>.
+[Folder/Date]
+ Turn the <5> dial to select either 
+[nFolder] or [iDate].
+ When <z > is displayed 
+brightly, press the <B> button.
+ Turn the <5> dial to select the folder 
+or date, then press <0>.
+3 Auto Playback (Slide Show)
+Quantity of images for playback
+Item Playback Images
+jAll images All the still photos and movies in the card will be played back.
+nFolder Still photos and movies in the selected folder will be played back.
+iDate Still photos and movies taken on the selected shooting date will be played back.
+kMovies Only the movies in the card will be played back.
+zStills Only the still photos in the card will be played back.
+COPY
+
+136
+3 Auto Playback (Slide Show)
+ 3Set the playback time and repeat option.
+ Turn the <5> dial to select [Set up], 
+then press <0>.
+ For still photos, set the [Play time] 
+and [Repeat] options, then press the 
+<M> button.
+4 Start the slide show. Turn the <5> dial to select [Start], 
+then press <0>.
+X After [Loading image...] is displayed 
+for a few seconds, the slide show will 
+start.
+ To pause the slide show, press <0>. 
+During pause, [ ] will be displayed 
+on the upper left of the image. Press 
+<0> again to resume the slide 
+show.
+5 Quit the slide show. To quit the slide show and return to 
+the setting screen, press the 
+<M> button.
+[Play time][ Repeat]
+ During pause, you can turn the <5> or <6> dial to view another 
+image.
+ During the slide show, auto power off will not work.
+ The display time may vary depending on the image.
+ To view the slide show on a TV set, see page 139-140.
+COPY
+
+137
+1 Playback the image. Press the <x> button to display the 
+image.
+2 Select a movie. Turn the <5> dial to select the image.
+ During the single-image display, the 
+<1s> icon displayed on the 
+upper left indicates that it is a movie.
+ During the index display, the perforation 
+on the left edge of the image indicates 
+that it is a movie. Movies cannot be 
+played from the index display. Press 
+the <u> button to switch to the 
+single-image display.
+3 Press <0>. On the single-image display, press <0>.
+X The movie playback panel will appear 
+on the bottom.
+4 Playback the movie. Turn the <5> dial to select [7] 
+(play), then press <0>.
+X The movie playback will start.
+ You can pause the movie playback by 
+pressing <0>.
+ During movie playback, you can 
+adjust the sound volume by turning 
+the <6> dial.
+ For more details on the playback 
+procedure, see the next page.
+k Playing Movies
+Speaker
+COPY
+
+138
+k Playing Movies
+Item Playback Description
+2 Exit Returns to the single-image display.
+7 Play Pressing <0> toggles between play and stop.
+8 Slow motion Adjust the slow motion speed by turning the <5> dial. The slow-motion speed is indicated on the upper right.
+5 First frame Displays the movie’s first frame.
+3 Previous frame Each time you press <0>, a single previous frame is displayed. If you hold down <0>, it will rewind the movie.
+6 Next frame
+Each time you press <0>, the movie will play frame-byframe. If you hold down <0>, it will fast forward the 
+movie.
+4 Last frame Displays the movie’s last frame.
+Playback position
+mm’ SS” Playback time
+ Volume Turn the <6> dial to adjust the volume of the camera’s built-in speaker (p.17).
+ Press the <B> button to switch the information display.
+ If you took a still photo when you shot the movie, the still photo will be 
+displayed for about 1 sec. during the movie playback.
+ If you connect the camera to a TV set (p.139-140) to playback a movie, 
+adjust the sound volume with the TV set. (Turning the <6> dial will not 
+adjust the sound volume.)
+ Movies cannot be edited with the camera. With ZoomBrowser EX/
+ImageBrowser (provided software), you can edit out the unnecessary 
+beginning or ending parts of the movie.
+COPY
+
+139
+You can also view the still photos and movies on a TV set. Before 
+connecting or disconnecting the cable between the camera and 
+television, turn off the camera and television.
+* Adjust the movie’s sound volume with the TV set.
+* Depending on the TV set, part of the image displayed might be cut off.
+1 Connect the provided stereo video cable to the camera.
+ Connect the stereo video cable to the 
+camera’s <q> terminal. Insert 
+the cable plug all the way in.
+2 Connect the video cable to the TV set.
+ Connect the stereo video cable to the 
+TV’s video IN terminal and to the 
+audio IN terminal.
+3 Turn on the TV and switch the TV’s video input to select the 
+connected terminal.
+4 Set the camera’s power switch to <1>.
+5 Press the <x> button.X The image will appear on the TV 
+screen. (Nothing will be displayed on 
+the camera’s LCD monitor.)
+ To playback the movie, see page 137.
+Viewing the Images on TV
+Viewing on Non-HD (High-Definition) TV Sets
+(Red)
+(White)
+(Yellow)
+ If the video system format does not match the TV’s, the images will not be 
+displayed properly. Set the proper video system format with [6 Video system].
+ Do not use any stereo video cable other than the one provided. Images 
+might not be displayed if you use a different video cable.
+COPY
+
+140
+Viewing the Images on TV
+The HDMI Cable HTC-100 (sold separately) is required.
+1 Connect the HDMI cable to the camera.
+ Connect the HDMI cable to the 
+camera’s <D> terminal.
+ With the plug’s <dHDMI MINI> logo 
+facing the front of the camera, insert it into 
+the camera’s <D> terminal.
+2 Connect the HDMI cable to the TV set. Connect the HDMI cable to the TV’s 
+HDMI IN port.
+3 Turn on the TV and switch the TV’s video input to select the 
+connected port.
+4 Set the camera’s power switch to <1>.
+5 Press the <x> button.X The image will appear on the TV 
+screen. (Nothing will be displayed on 
+the camera’s LCD monitor.)
+ The images will be displayed automatically 
+at the TV’s optimum resolution.
+ To playback movies, see page 137.
+Viewing on HD (High-Definition) TV Sets
+* By pressing the <B> 
+button, you can change 
+the display format.
+ Do not connect any other device to the camera’s <D> 
+terminal. Doing so may cause a malfunction.
+ Some TVs might not be able to display the captured images. In such a 
+case, use the provided stereo video cable to connect to the TV.
+ The camera’s <q> terminal and <D> terminal cannot 
+be used at the same time.
+COPY

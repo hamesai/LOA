@@ -1,0 +1,417 @@
+Chapter IV
+THE MOTION PICTURE CAMERA
+LONG before motion pictures were dreamed of, philosophers
+and medical men were conscious of persistency of vision.
+They knew from their experiences and the experiences of
+others, if they looked at a bright object, such as the sun or a
+lighted lamp and turned their eyes to a dark corner the image, or
+at least a bright spot, would remain before their eyes for a few
+moments. The brain retained the illumination that the eye had
+sent to it for a few moments. Experiments proved that this
+persistency of vision did not occur in the retina of the eye. Close
+inspection of the retina showed that the picture projected thereon
+by the lens of the eye vanished the instant the entering ray was
+cut off. Therefore scientists stated definitely that the illusion was
+centered in the brain. No further explanation has been made.
+No human being or animal has ever been known to be without
+this peculiar trait. No human being or animal has been known
+to lose this persistency of vision. If a mortal could be found
+who did not possess it, when looking at moving pictures, he
+would see not pictures in motion, but a number of "still" or inanimate pictures following one another very rapidly, each one perfectly still for about a sixteenth of a second.
+Motion pictures are simply a number of snapshots run before
+a strong illuminating light and projected, by means of a powerful lens, upon a white screen or surface. Each picture is arranged so that it will stop for a fraction of a second and then
+move on, succeeded by another slightly different in appearance.
+The brain retains the image of the first picture and when the
+image of the second is telegraphed to it, by the sense of sight,
+the two blend and overlap and the spectator imagines he has
+seen but one image.
+The camera in which the pictures are taken is similar to the
+projecting apparatus but instead of the light rays being emitted
+from the machine, as in the case of the projecting machine, they
+are gathered in or admitted through the lens. The rays fall
+
+MOTION PICTURE PHOTOGRAPHY
+upon a long strip of sensitized film, the same as that used in small
+hand cameras, made into a continuous roll which is fed past the
+lens intermittently at the rate of sixteen exposures a second.
+A revolving shutter is used in both camera and projector to
+cut off the light w^hile the film is moving and a new section is
+being drawn into position before the lens.
+^^
+}^^y///^^///////////////////j'////y/////////////////A^
+Diagram of the mechanism of the Universal Camera. A single
+sprocket camera with harmonic cam movement.
+The motion picture camera is similar to the ordinary camera
+with the exception that it is provided with a mechanism for
+making exposures in rapid succession on a ribbon of film. Sixteen pictures per second has been adopted as the standard speed
+for taking and projecting motion pictures. This rate was adopted
+after a long series of experiments to ascertain the least number
+54
+
+THE MOTION PICTURE CAMERA
+of pictures necessary to produce upon the screen a moving picture which would not offend the eye by the flicker or pulsation
+due to the intermittent succession of light and darkness which
+produces the illusion of motion.
+If the number of pictures thrown upon the screen is less than
+sixteen per second, the persistency of vision is not sufficient to
+carry the impression of light over the intervening period of darkness. Although the eye ma}»not be able to distinguish that the
+light is completely cut off while the next succeeding picture is
+being drawn Into place, there is an unpleasant pulsation commonly called "flicker," which is very fatiguing and annoying.
+By increasing the number of alternate dark and light periods per
+second the persistency of vision is able to bridge the gap between
+the successive periods of light thrown on the screen. As the
+flashes increase In their rapidity, they gradually merge Into a
+sensation of continuous light upon the screen without perceptible
+pulsation or flicker.
+At sixteen pictures per second flicker is very perceptible so
+that many of the first cameras made w^ere constructed to take
+many more than sixteen pictures per second. Some of them
+made as many as sixty-four exposures and used a film four times
+the area of the present standard. With the small returns obtainable from the exhibition of motion picture films in those days,
+this rendered the expense of taking motion pictures almost prohibitive. The present narrow width of film was adopted to cut
+down expense.
+It was also found that it was not necessary to take so many
+pictures to produce a satisfactory illusion of motion. However,
+flicker is unpleasant when the number of light flashes is less than
+thirty per second. Sixteen pictures per second produce a satisfactory illusion of motion so Instead of taking and projecting
+thirty or more pictures per second, a second blade or flicker blade
+was placed upon the shutter of the projection machine. This
+Intercepted the light for an instant while the individual pictures
+stood still upon the screen so that there were two flashes of
+light for each picture.
+Any camera mechanism which records the successive pictures
+upon the sensitive film Is satisfactory—^there Is no need of a
+flicker blade except to make a perfect record for reproduction.
+It is highly desirable that the pictures be accurately spaced at
+55
+
+MOTION PICTURE PHOTOGRAPHY
+the standardized distance of three-quarters of an inch apart or
+sixteen pictures per foot. Each successive picture when thrown
+upon the screen will be as nearly as possible in perfect register,
+that is in exactly the same place upon the screen. If this is not
+done an unpleasant jumpiness or wavering of the picture will
+result.
+In recording, that is in photographing, a motion picture at the
+rate of sixteen per second, there are several operations in making
+each frame or picture which must be accomplished in onesixteenth part of a second. It is not possible to utiHze all of
+this sixteenth part of a second in making the exposure because
+the film must be drawn down into position for a succeeding exposure before the next sixteenth part of a second. During this
+very short period of time it is necessary to cut off the light from
+the lens by means of the shutter, draw the film down accurately
+just three-fourths of an inch, hold it in place, and expose it to
+the image from the lens long enough to impress that image upon
+the sensitive surface, then completely cover the film exposed
+in the frame aperture before repeating this cycle of operations.
+All must take place in the sixteenth part of a second.
+It will be appreciated that a mechanism which fulfills these
+conditions must be accurately and substantially constructed and
+be able to perform this cycle of operations many thousands of
+times without appreciable wear. It is possible to construct an
+intermittent mechanism which will draw the film down so rapidly
+that only a fifth or sixth part of this sixteenth of a second is
+used in changing the film, but such a mechanism wears out many
+times more rapidly than one which takes a longer time to pull
+the film down for the next exposure.
+In constructing a camera, therefore, it has been the generally
+accepted practice to use an intermittent mechanism, comparatively
+slow in moving the film and to make up for its slowness by increasing the "rapidity" or "speed" of the film. Although these
+words are not correct, they are often used to indicate the sensitiveness of the photographic emulsion. Sensitiveness of the film
+is its ability to record the lens image in a given time.
+There are many types of camera movement, but the best of
+these is probably the harmonic cam. This is often called the
+Lumiere, or the Lumiere-Carpentier movement, as it was first
+used in a camera of that name. The harmonic cam is a trian56
+
+I
+(Courtesy Wilart Instrument Company)
+REAR VIEW OF THE WILART PROFESSIONAL
+MODEL CAMERA.
+
+(Photo by U. S. Signal Corps School of Photography)
+Wilart Professional Camera mounted on a Motion Picture Apparatus
+Company's Precision Ballbearing Tripod.
+
+THE MOTION PICTURE CAMERA
+gular cam with curved sides, working between two guides which
+it moves up and down as it revolves. As it accomplishes the
+downward movement of the fingers in a third of a revolution it
+permits of a larger shutter opening than any other movement in
+general use.
+The Geneva, or Maltese Cross movement has been used in
+camera construction, and while it gives a quicker downward
+pull of the film than the harmonic cam, it has several disadvantages which preclude its use. In ihe Geneva movement
+the downward draw of the film is accomplished in about an eighth
+of a revolution, but, as this movement has four bearing surfaces
+which are liable to wear unevenly it has not found much favor as
+a camera movement. Should one side, for instance, wear a trifle
+more than the other three sides, every fourth picture in the
+negative would be slightly out of register with the other three.
+In addition to this, slight variations in the thickness of the negative film, or its pliability, cause it to ride the intermittent sprocket
+more or less snugly, causing a variation in the frame line, or an
+up and down movement of the picture.
+The harmonic cam, on the other hand, revolves once for each
+frame taken. Any small amount of wear, being the same for
+each successive picture, is not appreciable. This wear may be
+readily taken up in most constructions by loosening two screws
+which hold one of the guides between which the cam runs, and
+the guides may be adjusted firmly against the cam. The shutter
+opening with the Lumiere movement may be greater than i8o
+degrees, which is much more than any other movement in common use. The shutter blade could be reduced to 120 degrees
+were it not for the fact that it must have an additional width
+sufficient to cover the aperture opening, so that the smallest
+shutter blade that can be used in any movement is that fraction
+of a revolution during which the film moves downward plus a
+segment wide enough to completely cover the aperture opening
+from corner to corner. The Pathe, Prevost, the Universal, the
+Gillon, and many other makes of cameras, use the harmonic cam.
+Almost all other movements are some variation of the rod
+and crank principle. That is, a rod, or other connection, fitted
+to a crank pin on the shutter shaft actuates the up and down
+movement of the claws. Since the downward movement of the
+crank is one-half of a revolution, no rod and crank motion can
+57
+
+MOTION PICTURE PHOTOGRAPHY
+have as wide a shutter opening as the harmonic cam. Some of
+them decrease the time in which the film is moved down by having
+a crank whose throw is greater than the distance from picture
+to picture, and use only a portion of the crank throw for drawing the film down, the engagement of the pins or claws with the
+film taking place after the crank has commenced to move downward and releasing before the crank reaches the bottom of its
+throw.
+There are many variations of the rod and crank movement.
+In the Pittman model the fingers are upon springs actuated by a
+crank. The fingers move in a circular path except when drawing
+down the film, where they are forced to subtend a chord of the
+circle by a friction plate in the plane through which the film
+moves. This friction plate being struck i6 times per second by
+the revolving spring claws makes this movement a very noisy
+one. In the Williamson movement a small arc-shaped slot guides
+the pins in an approximately straight line during the period of
+their engagement with the film. In other movements a double
+crank is used, giving both the in and out and up and down movement to the claws. A third variety of movement which was
+much used a few years ago was called the slip claw movement.
+In this movement the claws were ratchet-shaped and in their
+upward travel slipped along the perforation as a pawl slips over
+a ratchet.
+The Pathe Freres formerly made an amateur model which used
+the slip claw movement. The slip claw movement has almost entirely gone out of use because it could not be reversed. No matter in which direction the crank of the camera was turned the
+slip claws would pull the film down in the same direction. An
+inadvertent throwing back of the crank, for even a fraction of a
+revolution, would cause the film to lose its upper loop. Unless
+there was a great nicety of adjustment between the friction at
+the gate and the pressure of the spring claws they were liable to
+push the film backward on their upward travel, causing the
+frames to overlap, thereby making what is called a creep in the
+film.
+The in and out movement, or the movement of the pins in and
+out of the perforations, is accomplished in various cameras by
+many different methods. A positive in and out movement is
+much to be preferred over one which is accomplished by some
+58
+
+THE MOTION PICTURE CAMERA
+sort of spring pressure. A positive in and out movement is one
+in which the pins are pressed in and withdrawn by a mechanical
+movement, such as a cam or drunken screw. In the Pathe or
+Gillon types the in and out movement is accomplished by a
+drunken screw. A drunken screw is a thread having an irregular pitch, the thread used for the in and out movement
+being a continuous one with the contours so placed as to force
+the pins into the perforations at the beginning of the downward
+throw of the cam and withdraw them at the bottom of the throw.
+In the Prevost movement the in and out throw of the pins is
+accomplished by small harmonic cams of the same design as the
+larger cam which produces the up and down movement. Most
+of the rod and crank types of movement have a cam working
+against a spring to push the fingers in and out, the cam pressing
+the fingers in and the spring pushing them out when released by
+the cam. It is possible to operate a movement of this type so
+fast that the spring does not have an opportunity to withdraw
+the fingers quickly enough, thereby causing creeping and losing
+of the loop. The Ememann camera has a rod and crank movement with cam and spring for the in and out finger movement.
+There are many types of movement beside those mentioned,
+none of which, however, are enough in general use to justify
+discussion here. In purchasing a camera, therefore, make sure
+that the movement is some modification of the harmonic cam
+with a positive in and out movement of the claws. A second
+choice is one of the better types of rod and crank movement.
+The DeBrie camera is one of the highest type of rod and crank
+movement.
+As nearly all parts of a camera movement shift backward and
+forward i6 times per second they are subjected to a great deal
+of wear. All of these parts subject to wear must, of course,
+be kept constantly but lightly lubricated, and should be provided
+with means for adjustment so that there is the least possible
+amount of play between bearing surfaces. The finger shuttle,
+that is a frame bearing the fingers, which moves up and down,
+is carried in some sort of guides which should be provided with
+adjustable gibs for taking up wear.
+The shutter is the revolving blade which cuts oflF the light
+from the lens while the film is being moved downward for the
+next picture, or exposure. The circular revolving shutter is so
+SO
+
+MOTION PICTURE PHOTOGRAPHY
+universally used in motion picture cameras that it is almost unnecessary to take any other type into consideration. The shutter
+should consist of two blades, one of which is set immovably with
+a minimum area for keeping the aperture closed during the downward movement of the film. Another blade should be provided
+which may be adjusted so as to decrease the opening in the shutter by revolving it past the fixed blade, so that the opening may
+be entirely closed if necessary. While it is preferable to use
+the maximum opening of the shutter in most instances, there are
+many times when it is desirable, for various reasons, to cut down
+the exposure by means of the shutter opening instead of a smaller
+diaphragm opening.
+A means for decreasing the shutter opening while the camera
+is in operation is called a shutter dissolve. By its employment
+are obtained such effects as fade-outs, fade-ins, dissolves, etc.
+There are two types of shutter dissolve, the automatic and the
+hand operated. In the automatic dissolve the pressure of a
+button on the camera throws a clutch into operation that closes
+the movable shutter blade gradually in a predetermined number
+of feet of film. With the hand operated dissolve the shutter may
+be closed gradually by hand in any length of film desired. Generally neither one of these features is provided by camera manufacturers, one of the few exceptions being the Bell & Howell
+camera, which has an automatic dissolve incorporated in the
+camera mechanism. So desirable is this form of dissolve that
+most professional cameramen have had them installed in their
+cameras by some mechanic who makes a specialty of cinematographic machinery. It is to be expected that most manufacturers
+will meet the demand for this device in their later models of
+cameras.
+One of the hardest problems for the student motion picture
+photographer is the choice of a camera. The popularity of motion
+pictures has caused many inventors and promoters to place miniature or toy motion picture outfits on the market. While such
+cameras and projectors may have a field of their own among
+amateurs who have no serious intention of becoming professional
+motion picture photographers, they are of little use for any
+other purpose.
+The reason for their existence is the decreased cost in their
+operation, by reason of the very small film which they use. This
+•0
+
+TH E MOTION PICTURE CAMERA
+puts them within the reach of those who could not otherwise
+afford the expense of private production. In some cases, they
+may be a boon to a student with professional aspirations whose
+financial position will not permit the purchase of apparatus using
+standard film. In general, however, the use of toy or miniature
+picture apparatus by those for whom the contents of this book
+are intended, is strongly deprecated. In the first place, cheap
+cameras using standard film may be purchased for the same price
+as a good miniature camera. In the second place, there is always
+a chance that the owner or user of a standard camera may be
+able to dispose of his production in some commercial way. On
+the other hand, there is no chance for the operator of the miniature camera to obtain any financial return of the expenditure
+which he has made.
+By judicious forethought, the owner of a standard camera
+may conduct his exf)eriments with very short lengths of film,
+using only a foot or two at a time. The cost of material need
+not influence even those whose financial restrictions are most
+stringent.
+It must be understood that the purchase of a cheap camera
+for serious work is not recommended. By all means, purchase
+the highest grade of camera that your means will allow. Generally speaking, the price of a camera is in fairly direct proportion to the quality of work which it will produce. A cheap
+camera produces poor work because the manufacturer cannot
+afford to put accurate workmanship into it. On the other hand,
+some of the better makes of the cheaper cameras will produce
+pictures for certain purposes, which are almost, if not quite, as
+satisfactory as those made by a much higher priced instrument.
+It would be ridiculous for a man who expected to use his camera
+only for taking a few topical events for exhibition in a local
+theatre to buy an expensive studio outfit with an equipment of
+lenses, diaphragms, hoods and dissolves, when a cheaper camera
+would do perfectly well for his purpose.
+So many different types and brands of cameras have been
+placed on the market that it is not possible to give a description
+of all of them here, but most of the principal types are shown in
+the illustrations and the reader must depend upon his judgment
+in selecting the type of instrument best adapted to his requirements.
+61
+
+MOTION PICTURE PHOTOGRAPHY
+The ease or difficulty with which the film may be threaded
+through the camera has an important bearing upon its usefulness.
+As a rule, a camera of a straight line threading, that is one in
+which there are no twists in the film in its passage through the
+camera, is the simplest and most desirable. On the other hand,
+the more compact models, in which the retorts are placed side
+by side, cannot be threaded without a twist in the film.
+The general rule for threading the camera is as follows
+:
+Place the feed retort in position.
+Pull out as much film as is needed to thread the camera.
+Pass the film over the feed sprocket and open the gate.
+Place the film smoothly between the side guides with the
+emulsion towards the lens.
+Close the gate carefully and latch, leaving a loop of film between the feed sprocket and the upper portion of the gate large
+enough so that pulling the film down in the gate for six perforations will not draw the loop taut between the sprocket and the
+top of the gate, and yet not so large that the loop will strike any
+portion of the camera mechanismi.
+Then leave another similar loop at the bottom of the gate.
+Carry the film around the take-up sprocket beneath the rollers,
+through the light trap in the retort to the spool in the take-up
+sprocket and the take-up spool.
+Fasten the cover of the take-up magazine.
+Give the handle a turn to see that the film is feeding through
+properly and close the camera.
+The film in the feed retort must be wound so that when the
+retort is in place the film is threaded properly, the emulsion side
+of the film in the gate toward the lens. In straight line threading the loop is not a true loop but only a slackness in the film
+to provide for a quick downward movement of that portion of
+the film within the gate when it is dragged down by the claws.
+In cameras with the magazines side by side a true, or return,
+loop must be made in the film between the feed sprocket and the
+gate and between the gate and the take-up sprocket. Types of
+the double return loop threading are found in the DeBrie, Pathe
+Portable and Newman & Sinclair cameras.
+The Prevost, carrying its magazines side by side on top of the
+camera, is an exception, the feed magazine being directly above
+the feed sprocket and gate, feeds downward in a straight line
+62
+
+1,302,388.
+S. M. UWHUN.
+OVKC rjCIUIE C«IIC«>
+fniCATIOI nifO MAT 21. 19
+Patented Apr. 29. 1919
+fc^
+THE "LAVVHUX" ^[OTION PICTURE CAMERA. INVENTION OF S. McKEE
+LAWHUN, PRESIDENT OF NEW YORK INSTITUTE OF PHOTOGRAPHY
+(An imiirovenieiit over Mr. Lavvluni's former patent. See diagram.)
+
+in
+<
+<
+O
+<
+<
+w
+Oh
+OU
+W
+I—
+I
+H
+o
+M
+J
+w
+
+THE MOTION PICTURE CAMERA
+and simple loop into the gate. From the bottom of the gate
+it goes upward and to the right in a long single loop, without a
+twist, to the take-up sprocket, where it feeds directly into the
+take-up retort. The return, or true, loop is the same sort of a
+loop as would be formed by wrapping a piece of film in a spiral
+direction about a round object, while the simple loop of straight
+threading is merely a slackness in the film without any other
+twist or turn.
+In addition to the simple directions given here there are a
+number of variations in different cameras which provide rollers
+for guiding the film in various directions. For example, in the
+old style Gillon a roller is provided which brings the film in a
+straight line from the feed retort, from whence it passes over
+another roller before passing to the feed sprocket ; the object of
+the second roller being to engage the film around a greater part
+of the circumference of the feed sprocket, in which only two
+teeth would engage the film around a greater arc of the sprocket's
+circumference.
+63

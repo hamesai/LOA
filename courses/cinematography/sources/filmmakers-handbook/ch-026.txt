@@ -1,0 +1,21 @@
+APPENDIX C
+
+DEPTH OF FIELD TABLES
+
+See Focusing the Image, p. 153, and Depth of Field Charts, p. 162, before using these tables. For faster reference, you may want to get a depth of field app for a smartphone, such as DOFMaster or pCAM, or get a full set of charts, such as the ones in the American Cinematographer Manual.
+
+This appendix contains two tables to give you an idea of depth of field (one in feet and inches, the other in meters).
+
+To use these tables: (1) Find the lens aperture you are using (expressed as a T-stop) in the Lens Aperture column at upper left. Read across that row to the right until you locate the lens focal length at which you are shooting. (2) Find the point at which the lens is focused in the Point of Focus column on the left side of the chart. Read across that row to the right until you come to the column you located in (1). These figures indicate the near and far limits of the depth of field as measured from the focal plane. For example, at T8, a 100mm fixed focal length lens focused at 10 feet provides a depth of field from 9-0 to 11-4 (that is, 9 feet to 11 feet 4 inches).
+
+This method is used for a 1⁄500-inch circle of confusion (CoC). For 1⁄1000-inch CoC, read depth of field two columns to the right. For 1⁄2000-inch, read four columns to the right.
+
+Whether you use charts or an app to calculate depth of field, the starting point is deciding what size circle of confusion you’re working with. As discussed in Chapter 4, this is a complex topic involving many factors, including the size and resolution of the recording format and the intended display technology.
+
+The American Cinematographer Manual recommends a 0.025mm (0.001 inch) CoC for 35mm motion picture film and about half of that—0.015mm (0.0006 inch)—for 16mm film.
+
+For DSLRs, based on a 0.030mm (0.0012 inch) CoC for a full-frame DSLR like the Canon 5D Mark II, the CoC for other sensor sizes can be calculated as follows: 0.020mm (0.0008 inch) for a Super 35 sensor, 0.019mm (.0007 inch) for APS-C, and 0.015mm (0.0006 inch) for Four Thirds. You may note that 16mm film and the Four Thirds digital sensor share the same CoC even though the sensor is much bigger (see Fig. 2-7). This is in part because the DSLR CoC is based on viewing still images, where resolution can be precisely detected by the eye, whereas viewing 16mm involves film grain and unsteady projection, which reduce resolution and the eye’s ability to discern sharp focus. Similarly, even though a 2⁄3-inch SD camcorder and a 2⁄3-inch HD camcorder have the same size sensor, the CoC for the HD image (where fine detail can readily be seen) is considerably smaller than the CoC for the SD image.
+
+So always keep in mind that depth of field is not an absolute, and charts and apps only provide an approximation.
+
+Depth of field is a geometrical calculation, and the f-stop, a geometrical measurement, should be used for depth of field estimations. These charts were calculated with f-stops but are expressed in terms of T-stops, allowing one-third stop for the difference. If your lens is not marked in T-stops, using the f-stop will give a slightly stingy figure for depth of field.
