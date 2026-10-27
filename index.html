@@ -373,6 +373,22 @@ textarea.reflect { width: 100%; font: 400 0.95rem var(--f-body); color: var(--in
 .ch summary { cursor: pointer; font-size: 0.92rem; color: var(--accent); }
 .ch details > div { padding-top: 0.4rem; display: grid; gap: 0.35rem; }
 .mv-ctl { margin-top: 0.75rem; }
+/* phones: one row of module buttons, one row of tabs, a smaller title, so the lesson starts near the top of the screen */
+@media (max-width: 560px) {
+  .mview { padding-left: 0.75rem; padding-right: 0.75rem; }
+  .mv-wrap { gap: 0.6rem; }
+  .mv-top { flex-wrap: nowrap; gap: 0.3rem; padding: 0.3rem 0; }
+  .mv-top > .row { flex-wrap: nowrap; gap: 0.3rem; }
+  .mv-top .btn.sm { padding: 0.4rem 0.55rem; font-size: 0.82rem; white-space: nowrap; min-height: 40px; }
+  .mv-head { gap: 0.35rem; }
+  .mv-head h2 { font-size: 1.5rem; line-height: 1.15; }
+  .mv-hint { font-size: 0.88rem; }
+  .mv-tabs { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+  .mv-tabs::-webkit-scrollbar { display: none; }
+  .tab { flex: 0 0 auto; padding: 0.5rem 0.6rem; white-space: nowrap; }
+  .sl-main { grid-template-columns: minmax(0, 1fr); min-width: 0; }
+  .slide { min-width: 0; }
+}
 /* practice tab: an intro, then six numbered steps in one column */
 .pr { display: grid; gap: 1.25rem; max-width: 52rem; }
 .pr-top { display: grid; gap: 0.9rem; }
@@ -679,12 +695,12 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
   <div class="mv-wrap">
     <div class="mv-top">
       <span class="row">
-        <button class="btn ghost sm" id="mv-close" type="button">← Back to dashboard</button>
-        <button class="btn ghost sm" id="mv-lib" type="button">← Back to library</button>
+        <button class="btn ghost sm" id="mv-close" type="button">← Dashboard</button>
+        <button class="btn ghost sm" id="mv-lib" type="button">← Library</button>
       </span>
       <span class="row">
-        <button class="btn ghost sm" id="mv-prev" type="button">Previous module</button>
-        <button class="btn ghost sm" id="mv-next" type="button">Next module</button>
+        <button class="btn ghost sm" id="mv-prev" type="button">← Prev</button>
+        <button class="btn ghost sm" id="mv-next" type="button">Next →</button>
       </span>
     </div>
     <header class="mv-head">
