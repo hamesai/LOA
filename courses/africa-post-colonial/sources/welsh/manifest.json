@@ -1,0 +1,113 @@
+{
+ "key": "welsh",
+ "title": "The Rise And Fall Of Apartheid",
+ "author": "Welsh, David",
+ "file": "The Rise And Fall Of Apartheid (Welsh, David) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+ "format": "epub",
+ "sha256": "29cce48066f2d634fbe194ce6d77b14abf2511a5fb3de631939b360cb7258e8f",
+ "words": 258794,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Preface",
+   "words": 543
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Abbreviations",
+   "words": 351
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Afrikaner Nationalism and the Coming of Apartheid",
+   "words": 11487
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "The Black Experience: A Prelude to Apartheid",
+   "words": 9195
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "The Rise and Decline of Apartheid",
+   "words": 23623
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "The Decline and Rise of the Black Opposition",
+   "words": 13310
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "The Soweto Uprising and its Consequences",
+   "words": 12186
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Fissures and Fractures in Afrikaner Nationalism",
+   "words": 14298
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "The Turbulent Eighties",
+   "words": 25593
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "The Growth of Black Resistance in the 1980s",
+   "words": 30447
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Groping Towards Negotiation",
+   "words": 16135
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Getting to the Table",
+   "words": 16459
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Opening Pandora’s Box",
+   "words": 25059
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Negotiating the Interim Constitution",
+   "words": 22052
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "The Founding Election",
+   "words": 12948
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "Conclusion",
+   "words": 5192
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "Notes",
+   "words": 11532
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "Bibliography",
+   "words": 8384
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (37% common English words, 1.4% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-10-30",
+  "source_file": "The Rise And Fall Of Apartheid (Welsh, David) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+  "found_by": "user"
+ },
+ "text_quality": {
+  "common_word_share": 0.366,
+  "odd_character_share": 0.014
+ }
+}

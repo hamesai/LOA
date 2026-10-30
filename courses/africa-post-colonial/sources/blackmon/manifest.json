@@ -1,0 +1,151 @@
+{
+ "key": "blackmon",
+ "title": "Slavery by Another Name",
+ "author": "Douglas A. Blackmon",
+ "file": "Slavery by Another Name (Douglas A. Blackmon) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+ "format": "epub",
+ "sha256": "2ca36bb8e6aa841c026a26a4c5145648291a74a02d57c438965615966378effb",
+ "words": 174960,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "SAN-1",
+   "words": 596
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "SAN-7",
+   "words": 307
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Preface to the UK edition",
+   "words": 810
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "INTRODUCTION",
+   "words": 3768
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "I",
+   "words": 10150
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "II",
+   "words": 7120
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "III",
+   "words": 10014
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "IV",
+   "words": 11566
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "V",
+   "words": 15122
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "VI",
+   "words": 9710
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "VII",
+   "words": 14188
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "VIII",
+   "words": 6308
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "IX",
+   "words": 4933
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "X",
+   "words": 9222
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "XI",
+   "words": 2896
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "XII",
+   "words": 7048
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "XIII",
+   "words": 4160
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "XIV",
+   "words": 5160
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "XV",
+   "words": 5245
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "XVI",
+   "words": 12805
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "XVII",
+   "words": 4161
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "EPILOGUE",
+   "words": 8098
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "SAN-32",
+   "words": 1006
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "SAN-33",
+   "words": 11648
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "SAN-34",
+   "words": 4641
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "SAN-35",
+   "words": 4278
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-10-30",
+  "source_file": "Slavery by Another Name (Douglas A. Blackmon) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+  "found_by": "user"
+ },
+ "text_quality": {
+  "common_word_share": 0.339,
+  "odd_character_share": 0.002
+ }
+}

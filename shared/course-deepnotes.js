@@ -512,3 +512,412 @@ window.COURSE_DEEP_X = {
   "investing-cap": { stumble: "Writing a plan that says what you hope for but not what would make you change it.", connects: "Joins goal, safety net, risk, portfolio, costs, tax and scam checks from modules 1 to 6." }
 };
 Object.keys(window.COURSE_DEEP_X).forEach(function (k) { if (window.COURSE_DEEP[k]) Object.assign(window.COURSE_DEEP[k], window.COURSE_DEEP_X[k]); });
+
+/* africa-pre-colonial entries */
+(function () {
+  var MAIN = {
+ "africa-pre-colonial-1": {
+  "place": "It comes first because every later claim needs a tag, and the tags need the five kinds of evidence.",
+  "skills": [
+   [
+    "Know",
+    "The five kinds of evidence and the five tags"
+   ],
+   [
+    "Do",
+    "Rewriting a claim to match its evidence"
+   ],
+   [
+    "Reason",
+    "Why Nok, early iron, the Bantu expansion and Jenne-jeno need caution"
+   ]
+  ],
+  "benefit": "You can read any claim about African history and ask how strong its evidence is.",
+  "style": "Method and cases. Tables of evidence, then four worked cases."
+ },
+ "africa-pre-colonial-2": {
+  "place": "The Nile and the Horn come next because they have written records, which makes them the first test of the tags.",
+  "skills": [
+   [
+    "Know",
+    "Kerma, Napata, Meroë, Aksum and the Ethiopian dynasties"
+   ],
+   [
+    "Do",
+    "Ordering events across 2,000 years"
+   ],
+   [
+    "Judge",
+    "Reading inscriptions and legitimising texts"
+   ]
+  ],
+  "benefit": "You can narrate the north-east in order and say which points are traditional or contested.",
+  "style": "Timelines and source reading. Royal texts examined for purpose."
+ },
+ "africa-pre-colonial-3": {
+  "place": "North Africa follows because its sources are mostly hostile or distant, so source bias becomes the main skill.",
+  "skills": [
+   [
+    "Know",
+    "Carthage, Roman Africa, the Arab conquests, the Berber dynasties and the Saharan trade"
+   ],
+   [
+    "Do",
+    "Rewriting contested claims and mapping a route"
+   ],
+   [
+    "Judge",
+    "The Almoravid-Ghana debate"
+   ]
+  ],
+  "benefit": "You can handle hostile sources and rewrite dramatic claims to match the evidence.",
+  "style": "Rewrite exercises and a route map."
+ },
+ "africa-pre-colonial-4": {
+  "place": "The Sahel comes next because it joins oral epics, Arabic travel writing and local chronicles in one region.",
+  "skills": [
+   [
+    "Know",
+    "Ghana, Mali, Songhai, Kanem-Borno, the Hausa states and Sokoto"
+   ],
+   [
+    "Do",
+    "Ranking sources by distance and purpose"
+   ],
+   [
+    "Judge",
+    "Competing readings of the Sokoto jihad"
+   ]
+  ],
+  "benefit": "You can hedge a number and defend a source ranking.",
+  "style": "Source ranking and number tests."
+ },
+ "africa-pre-colonial-5": {
+  "place": "The forest and coast come next because they show states and non-states side by side, and a long colonial argument about art.",
+  "skills": [
+   [
+    "Know",
+    "Igbo-Ukwu, Ife, Benin, Oyo, Asante and Dahomey"
+   ],
+   [
+    "Do",
+    "Comparing three states in a table"
+   ],
+   [
+    "Judge",
+    "Founding myths and the Frobenius claim"
+   ]
+  ],
+  "benefit": "You can compare coastal and forest states and treat myth as evidence of purpose.",
+  "style": "Comparison tables and myth checklists."
+ },
+ "africa-pre-colonial-6": {
+  "place": "East and Central Africa come next because they show three different meetings with the wider world.",
+  "skills": [
+   [
+    "Know",
+    "The Swahili coast, the Great Lakes kingdoms and Kongo"
+   ],
+   [
+    "Do",
+    "Reading a royal letter"
+   ],
+   [
+    "Judge",
+    "Origin debates and a rejected racial theory"
+   ]
+  ],
+  "benefit": "You can weigh a chronicle against archaeology and read an African royal letter.",
+  "style": "Origin stories tested and a letter read."
+ },
+ "africa-pre-colonial-7": {
+  "place": "Southern Africa comes next because colonial and apartheid myths make source criticism central.",
+  "skills": [
+   [
+    "Know",
+    "Mapungubwe, Great Zimbabwe, Mutapa, the Zulu kingdom and the mfecane"
+   ],
+   [
+    "Do",
+    "Correcting a myth with dates"
+   ],
+   [
+    "Judge",
+    "Both sides of the mfecane debate"
+   ]
+  ],
+  "benefit": "You can correct a colonial myth and argue a contested cause.",
+  "style": "Myth-and-correction tables and a debate."
+ },
+ "africa-pre-colonial-8": {
+  "place": "The Atlantic world comes last because it joins the whole continent and ends at Berlin.",
+  "skills": [
+   [
+    "Know",
+    "The Voyages figures, the competing views of effects, abolition and the Berlin Conference"
+   ],
+   [
+    "Do",
+    "Recomputing shares from the Voyages table"
+   ],
+   [
+    "Judge",
+    "Whether the Atlantic trade underdeveloped Africa"
+   ]
+  ],
+  "benefit": "You can quote the slave-trade figures with their source and correct the Berlin myth.",
+  "style": "Data and argument. A table of estimates and a debate."
+ },
+ "africa-pre-colonial-cap": {
+  "place": "The capstone is a source-critical atlas of three places from three regions.",
+  "skills": [
+   [
+    "Judge",
+    "Joining evidence, tags and a historians' disagreement"
+   ],
+   [
+    "Do",
+    "Building a map, timelines and evidence tables"
+   ],
+   [
+    "Reason",
+    "Saying what a source can and cannot prove"
+   ]
+  ],
+  "benefit": "You finish with a reusable atlas and a habit of tagging every claim.",
+  "style": "Project-based. A brief, a worked word budget and a rubric."
+ }
+};
+  var X = {
+ "africa-pre-colonial-1": {
+  "stumble": "Treating a famous claim as settled because it is famous.",
+  "connects": "The tags and rewrites are used in every later module."
+ },
+ "africa-pre-colonial-2": {
+  "stumble": "Treating the Kebra Nagast as a genealogy.",
+  "connects": "The legitimising-text skill returns in Module 4 and the capstone."
+ },
+ "africa-pre-colonial-3": {
+  "stumble": "Repeating the salted-earth story or the 1076 destruction of Ghana as fact.",
+  "connects": "The trans-Saharan network sets up Module 4."
+ },
+ "africa-pre-colonial-4": {
+  "stumble": "Quoting Mansa Musa's wealth as a fact or in modern dollars.",
+  "connects": "The ranking skill feeds the capstone evidence tables."
+ },
+ "africa-pre-colonial-5": {
+  "stumble": "Equating the kingdom of Benin with the Republic of Benin.",
+  "connects": "Dahomey and Asante lead into the Atlantic trade of Module 8."
+ },
+ "africa-pre-colonial-6": {
+  "stumble": "Believing the Swahili coast was an Arab colony.",
+  "connects": "Afonso's letter prepares the slave-trade argument of Module 8."
+ },
+ "africa-pre-colonial-7": {
+  "stumble": "Treating the southern sequence as a proven dynastic line.",
+  "connects": "The oral-testimony skill returns in the capstone."
+ },
+ "africa-pre-colonial-8": {
+  "stumble": "Quoting 12.5 million without the disembarked figure, or saying Berlin drew the borders.",
+  "connects": "Everything feeds the capstone atlas."
+ },
+ "africa-pre-colonial-cap": {
+  "stumble": "Tagging a claim FIRM on the strength of one source.",
+  "connects": "Uses every module."
+ }
+};
+  Object.keys(MAIN).forEach(function (k) { window.COURSE_DEEP[k] = Object.assign(MAIN[k], X[k]); });
+})();
+
+/* africa-post-colonial entries */
+(function () {
+  var MAIN = {
+ "africa-post-colonial-1": {
+  "place": "It comes first because every later case needs the habit of treating figures as ranges.",
+  "skills": [
+   [
+    "Know",
+    "The Scramble, the Congo Free State and Adwa"
+   ],
+   [
+    "Do",
+    "Ordering events and stating a toll as a range"
+   ],
+   [
+    "Reason",
+    "Why no single cause explains the Scramble"
+   ]
+  ],
+  "benefit": "You can weigh a headline figure by asking who counted it.",
+  "style": "Method and cases. Tables of causes and a worked arithmetic check."
+ },
+ "africa-post-colonial-2": {
+  "place": "Resistance follows conquest and brings in oral testimony and late archives.",
+  "skills": [
+   [
+    "Know",
+    "Maji Maji, the Herero and Nama war and Mau Mau"
+   ],
+   [
+    "Do",
+    "Comparing tolls by method"
+   ],
+   [
+    "Reason",
+    "What each kind of record can and cannot show"
+   ]
+  ],
+  "benefit": "You can compare three disputed tolls without averaging them.",
+  "style": "Three cases then a comparison practice lesson."
+ },
+ "africa-post-colonial-3": {
+  "place": "Pan-Africanism comes before independence, and a famous fake teaches source criticism on the way.",
+  "skills": [
+   [
+    "Know",
+    "The Congresses, Manchester 1945 and the OAU"
+   ],
+   [
+    "Do",
+    "Running four authenticity tests"
+   ],
+   [
+    "Reason",
+    "Why a hoax spreads and what real evidence shows"
+   ]
+  ],
+  "benefit": "You can test any striking document before you repeat it.",
+  "style": "History then a source-criticism case study with worked arithmetic."
+ },
+ "africa-post-colonial-4": {
+  "place": "Independence builds on conquest, resistance and unity.",
+  "skills": [
+   [
+    "Know",
+    "Ghana, Algeria, Congo, Kenya, Tanzania and Burkina Faso"
+   ],
+   [
+    "Do",
+    "Stating a criterion before a verdict"
+   ],
+   [
+    "Reason",
+    "How independence was both won and conceded"
+   ]
+  ],
+  "benefit": "You can contrast independence paths and judge a project by its aims and results.",
+  "style": "Cases, then a lesson on primary voices."
+ },
+ "africa-post-colonial-5": {
+  "place": "Apartheid joins settler rule, resistance and negotiation.",
+  "skills": [
+   [
+    "Know",
+    "The laws, Sharpeville, Rivonia, Soweto and 1994"
+   ],
+   [
+    "Do",
+    "Separating laws from events"
+   ],
+   [
+    "Reason",
+    "Weighing four causes of the end"
+   ]
+  ],
+  "benefit": "You can explain apartheid as a system and handle its disputed figures.",
+  "style": "A system, then events, then a causal debate."
+ },
+ "africa-post-colonial-6": {
+  "place": "States under strain test causal claims.",
+  "skills": [
+   [
+    "Know",
+    "Biafra, the Derg and adjustment"
+   ],
+   [
+    "Do",
+    "Testing a one-cause claim"
+   ],
+   [
+    "Reason",
+    "How wide uncertainty ranges differ"
+   ]
+  ],
+  "benefit": "You can argue a multi-cause answer from evidence.",
+  "style": "Three mechanisms and a causes practice lesson."
+ },
+ "africa-post-colonial-7": {
+  "place": "The recent past needs the most caution.",
+  "skills": [
+   [
+    "Know",
+    "Rwanda, the Congo wars, the AU, the Arab Spring, Sudan and South Sudan"
+   ],
+   [
+    "Do",
+    "Date-stamping a claim [check current]"
+   ],
+   [
+    "Reason",
+    "Why recent events are snapshots"
+   ]
+  ],
+  "benefit": "You can state what is known and flag what may have changed.",
+  "style": "Cases with explicit currency tags."
+ },
+ "africa-post-colonial-cap": {
+  "place": "The capstone joins every module.",
+  "skills": [
+   [
+    "Make",
+    "A comparative brief"
+   ],
+   [
+    "Do",
+    "Self-scoring against the rubric"
+   ],
+   [
+    "Reason",
+    "Structure against agency"
+   ]
+  ],
+  "benefit": "You can defend a qualified answer with tagged evidence.",
+  "style": "Project-based. A brief, a word budget and a rubric."
+ }
+};
+  var X = {
+ "africa-post-colonial-1": {
+  "stumble": "Quoting a Congo or Adwa figure as exact.",
+  "connects": "Tags and ranges recur in every module."
+ },
+ "africa-post-colonial-2": {
+  "stumble": "Averaging three different tolls.",
+  "connects": "The voices-and-records habit feeds the capstone."
+ },
+ "africa-post-colonial-3": {
+  "stumble": "Repeating a viral quotation without testing it.",
+  "connects": "The four tests return in the capstone."
+ },
+ "africa-post-colonial-4": {
+  "stumble": "Writing leaders only as heroes or villains.",
+  "connects": "Criteria-first verdicts return in Modules 5 to 7."
+ },
+ "africa-post-colonial-5": {
+  "stumble": "Crediting one person for the end of apartheid.",
+  "connects": "Cause-ranking returns in Module 6."
+ },
+ "africa-post-colonial-6": {
+  "stumble": "Treating adjustment as the only cause.",
+  "connects": "Causal testing feeds the capstone."
+ },
+ "africa-post-colonial-7": {
+  "stumble": "Stating the situation in Sudan as settled.",
+  "connects": "Currency tags feed the capstone."
+ },
+ "africa-post-colonial-cap": {
+  "stumble": "Stating an uncertain claim as fact.",
+  "connects": "Uses every module."
+ }
+};
+  Object.keys(MAIN).forEach(function (k) { window.COURSE_DEEP[k] = Object.assign(MAIN[k], X[k]); });
+})();

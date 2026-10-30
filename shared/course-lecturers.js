@@ -678,3 +678,140 @@
   window.COURSE_LECTURERS = L;
   window.COURSE_LECTURER_PEOPLE = PEOPLE;
 })();
+
+/* africa-pre-colonial entries */
+(function () {
+  var PEOPLE = {
+ "Jan Vansina": {
+  "years": "1929–2017",
+  "known": "Belgian historian of Central Africa who developed the historical method for oral tradition (Oral Tradition as History, 1985)",
+  "src": "https://en.wikipedia.org/wiki/Jan_Vansina",
+  "check": "dates and role checked in Wikipedia excerpt 30/10/2026"
+ },
+ "Ibn Khaldun": {
+  "years": "1332–1406",
+  "known": "Maghribi-born scholar and judge who wrote the Muqaddimah, an introduction to history that introduced the idea of asabiya, or group solidarity",
+  "src": "https://en.wikipedia.org/wiki/Ibn_Khaldun",
+  "check": "death (808 AH, 1406) and works checked in Wikipedia excerpt 30/10/2026; birth year 1332 is the standard date and was not shown in the excerpt"
+ },
+ "Ibn Battuta": {
+  "years": "1304–1369",
+  "known": "Moroccan traveller (born Tangier 24/02/1304) who dictated the Rihla in 1354 to 55 after journeys that took him to Kilwa and to Mali",
+  "src": "https://en.wikipedia.org/wiki/Ibn_Battuta",
+  "check": "birth date, journeys and the Rihla checked in Wikipedia excerpt 30/10/2026; the death year is given as 1368 or 1369"
+ },
+ "Samuel Johnson": {
+  "years": "1846–1901",
+  "known": "Yoruba Anglican minister born in Sierra Leone who finished The History of the Yorubas in 1897; his brother Obadiah reconstructed it for publication in 1921",
+  "src": "https://www.bu.edu/missiology/missionary-biography/i-k/johnson-samuel-1846-1901",
+  "check": "checked against Boston University biography and the Cambridge University Press description 30/10/2026"
+ },
+ "Olaudah Equiano": {
+  "years": "c. 1745–1797",
+  "known": "Writer and abolitionist whose Interesting Narrative (1789) was a best seller; his birthplace is disputed",
+  "src": "https://en.wikipedia.org/wiki/Olaudah_Equiano",
+  "check": "death date 31/03/1797 and the birthplace dispute checked in Wikipedia excerpt 30/10/2026; birth year is approximate"
+ }
+};
+  var ROWS = [
+["africa-pre-colonial-1", "Jan Vansina", "He turned oral tradition from an object of doubt into a source with rules.", "Before you trust a story, ask how it travelled: who carried it, for how long, and for whom. Then tag the date and look for a second kind of evidence."],
+["africa-pre-colonial-2", "Ibn Khaldun", "He asked what holds a group together before believing its claims.", "When a ruler's text says he is chosen, ask who stood behind him and who wrote it later. Treat it as evidence of the winners' image."],
+["africa-pre-colonial-3", "Ibn Khaldun", "His life among Maghribi dynasties gives a lens for the Almoravids and Almohads.", "Use a lens to ask questions, never to fill gaps. Where the sources are thin, say that they are thin."],
+["africa-pre-colonial-4", "Ibn Battuta", "He is the best eyewitness we have for Mali in 1352 to 53, with known faults.", "Rate a witness by what they saw, what they were told and how long afterwards they spoke. Then cross-check."],
+["africa-pre-colonial-5", "Samuel Johnson", "He wrote a Yoruba history from Yoruba informants, with an openly patriotic aim.", "Read an author's aim and informants first. A history written to preserve a nation selects as well as records."],
+["africa-pre-colonial-6", "Ibn Battuta", "His few lines on Kilwa are among the earliest eyewitness words on a Swahili town.", "Pair a visitor's impression with what the ground shows. Where their dates differ, give a range."],
+["africa-pre-colonial-7", "Jan Vansina", "His rules for oral sources apply to the Zulu testimonies and the Shaka stories alike.", "Count the years between event and telling, and ask who the speaker could have met. Differences between versions are clues."],
+["africa-pre-colonial-8", "Olaudah Equiano", "His narrative is a key voice on the Atlantic trade, and his birthplace is disputed.", "Keep the records beside the story. A disputed detail does not cancel a witness, but it tells you how to cite him."],
+["africa-pre-colonial-cap", "Jan Vansina", "His habit of asking who carried a source and why suits an atlas that tags every claim.", "Give each source a date, a carrier, a purpose and a second check, and tag the claim that rests on it."]
+  ];
+  ROWS.forEach(function (r) { var p = PEOPLE[r[1]]; window.COURSE_LECTURERS[r[0]] = { name: r[1], years: p.years, known: p.known, src: p.src, why: r[2], welcome: r[3] }; });
+  Object.assign(window.COURSE_LECTURER_PEOPLE, PEOPLE);
+})();
+
+/* africa-post-colonial entries */
+(function () {
+  var PEOPLE = {
+ "Albert Adu Boahen": {
+  "years": "1932–2006",
+  "known": "Ghanaian historian (University of Ghana, 1959 to 1990) and first African to chair its history department, who worked on the UNESCO General History of Africa",
+  "src": "https://en.wikipedia.org/wiki/Albert_Adu_Boahen",
+  "check": "dates, post and UNESCO role checked in Wikipedia excerpt 30/10/2026; the colonial-period argument comes from the working library"
+ },
+ "W. E. B. Du Bois": {
+  "years": "1868–1963",
+  "known": "American scholar and organiser of the Pan-African Congresses, co-founder of the NAACP (1909), who moved to Ghana in 1961 and died in Accra on 27/08/1963",
+  "src": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois",
+  "check": "NAACP, fieldwork, Black Reconstruction and death checked in Wikipedia excerpt 30/10/2026; birth year 1868 is the standard date and was not shown in the excerpt"
+ },
+ "Julius Nyerere": {
+  "years": "1922–1999",
+  "known": "Tanzanian politician and theorist (born 13/04/1922) who helped form TANU in 1954, led Tanganyika to independence and developed ujamaa",
+  "src": "https://en.wikipedia.org/wiki/Julius_Nyerere",
+  "check": "dates, TANU and ujamaa checked in Wikipedia excerpt 30/10/2026"
+ },
+ "Steve Biko": {
+  "years": "1946–1977",
+  "known": "South African activist (born 18/12/1946) who founded the South African Students' Organisation in 1968 and developed Black Consciousness; died in police custody on 12/09/1977",
+  "src": "https://en.wikipedia.org/wiki/Steve_Biko",
+  "check": "dates, SASO and death checked in Wikipedia excerpt 30/10/2026"
+ },
+ "Chinua Achebe": {
+  "years": "1930–2013",
+  "known": "Nigerian novelist (born 16/11/1930) who published Things Fall Apart in 1958, served the Biafran cause and published There Was a Country in 2012",
+  "src": "https://en.wikipedia.org/wiki/Chinua_Achebe",
+  "check": "dates and works checked in Wikipedia excerpt 30/10/2026"
+ }
+};
+  var ROWS = [
+ [
+  "africa-post-colonial-1",
+  "Albert Adu Boahen",
+  "He wrote African history from the African side and treated the colonial period as short.",
+  "Before you accept a colonial-era account, ask who the African actors were and what lasted. Then check what the official source leaves out."
+ ],
+ [
+  "africa-post-colonial-2",
+  "Albert Adu Boahen",
+  "His African-perspective habit applies to every case of resistance.",
+  "Match each question to the record that can answer it, and keep African and colonial records apart."
+ ],
+ [
+  "africa-post-colonial-3",
+  "W. E. B. Du Bois",
+  "He organised the Pan-African Congresses and built arguments from collected evidence.",
+  "Ask for the data behind a claim, the references and the purpose, before you repeat it."
+ ],
+ [
+  "africa-post-colonial-4",
+  "Julius Nyerere",
+  "He led Tanganyika to independence and built ujamaa, a project to judge by its aims and results.",
+  "State the aim, test the results, and name your criterion before you give a verdict."
+ ],
+ [
+  "africa-post-colonial-5",
+  "Steve Biko",
+  "He asked what a system did to people's sense of themselves, as well as what it did to their bodies.",
+  "Define your terms, separate laws from events, and ask what a measure asked people to believe."
+ ],
+ [
+  "africa-post-colonial-6",
+  "Chinua Achebe",
+  "He wrote of Biafra as a witness and an envoy, and critics have noted his limits too.",
+  "Use a witness for experience and a historian for scale, and mark what each lacks."
+ ],
+ [
+  "africa-post-colonial-7",
+  "Julius Nyerere",
+  "His preference for gradual steps to unity gives a lens on the African Union.",
+  "Compare an institution's words with its practice, and ask what members gave up."
+ ],
+ [
+  "africa-post-colonial-cap",
+  "Chinua Achebe",
+  "His writing from inside experience, and the critics' remarks, model the capstone's voice note.",
+  "Name the voice, who produced it, what it shows and its limits, and pair it with a record."
+ ]
+];
+  ROWS.forEach(function (r) { var p = PEOPLE[r[1]]; window.COURSE_LECTURERS[r[0]] = { name: r[1], years: p.years, known: p.known, src: p.src, why: r[2], welcome: r[3] }; });
+  Object.assign(window.COURSE_LECTURER_PEOPLE, PEOPLE);
+})();

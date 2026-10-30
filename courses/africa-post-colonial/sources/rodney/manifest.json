@@ -1,0 +1,91 @@
+{
+ "key": "rodney",
+ "title": "How Europe Underdeveloped Africa",
+ "author": "Walter Rodney",
+ "file": "How Europe Underdeveloped Africa (Walter Rodney, Vincent Harding) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+ "format": "epub",
+ "sha256": "136379c86bac67a238324bd75619dc2bf8a15cc575fc7fbd10120b01f42ae9e6",
+ "words": 135696,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Copyright",
+   "words": 167
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Frontmatter02",
+   "words": 326
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "PREFACE",
+   "words": 423
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "CONTENTS",
+   "words": 173
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "INTRODUCTION",
+   "words": 6173
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Chapter01_split_001",
+   "words": 11820
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Chapter02_split_001",
+   "words": 17268
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Chapter03_split_001",
+   "words": 7281
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Chapter04_split_001",
+   "words": 23488
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Chapter05_split_001",
+   "words": 23758
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Chapter06_split_001",
+   "words": 34122
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "POSTSCRIPT",
+   "words": 2305
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Index_split_000",
+   "words": 4222
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Index_split_001",
+   "words": 4170
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-10-30",
+  "source_file": "How Europe Underdeveloped Africa (Walter Rodney, Vincent Harding) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+  "found_by": "user"
+ },
+ "text_quality": {
+  "common_word_share": 0.388,
+  "odd_character_share": 0.001
+ }
+}

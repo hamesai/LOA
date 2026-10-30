@@ -156,3 +156,35 @@ window.COURSE_ABOUT_COMMON = {
   ],
   honest: "Claims carry numbered sources. Where we infer, we say so, and invented numbers in worked examples are marked illustrative."
 };
+
+/* africa-pre-colonial entries */
+window.COURSE_ABOUT["africa-pre-colonial"] = {
+ "audience": "An adult learner with some general knowledge of history who wants to understand the African past to c. 1880 through its evidence, not only its names and dates.",
+ "learn": [
+  "Name the kinds of evidence for African history and tag claims by strength.",
+  "Narrate Kush, Aksum and Ethiopia, the Maghrib, the Sahel, the Guinea coast, East and Central Africa and southern Africa.",
+  "Read oral traditions, chronicles and outside accounts with their biases in view.",
+  "Weigh historians' disagreements, from the Almoravid-Ghana debate to the mfecane.",
+  "Use the Slave Voyages table and explain what the Berlin Conference did and did not do.",
+  "Build a source-critical atlas of three places."
+ ],
+ "make": "A source-critical atlas of three African places: a map, tagged timelines, evidence tables, a historians' disagreement essay and a reflection on an African-authored or oral source.",
+ "ready": "A notebook with two columns (claim and evidence), a blank map of Africa, and a browser for the Slave Voyages database and the UNESCO World Heritage pages.",
+ "limits": "Written for English readers and based on a working library built from public sources and the author's knowledge of the scholarship. Books named in the course were not read. Only a handful of web pages (the Slave Voyages estimates table, encyclopaedic entries and a few biographies) were opened, in excerpt form. Dates and figures carry evidence tags; anything marked check current may have changed. Madagascar, dynastic Egypt, the Sahara before the camel and West African Islamic movements outside Sokoto are not covered. The Post-Colonial period is a separate course."
+};
+
+/* africa-post-colonial entries */
+window.COURSE_ABOUT["africa-post-colonial"] = {
+ "audience": "An adult learner with some general knowledge of history who wants to understand African history from the Scramble to the present through its evidence, including how to handle contested numbers and famous fakes.",
+ "learn": [
+  "Order the main events from the Scramble to the present and give several causes for each.",
+  "Handle death tolls as ranges with methods, from the Congo Free State to Sudan.",
+  "Trace Pan-Africanism to the OAU and the African Union.",
+  "Contrast independence paths and weigh the causes of apartheid's end.",
+  "Test a famous document, the Willie Lynch letter, with four authenticity tests and find real evidence instead.",
+  "Write a comparative brief on structures inherited from colonial rule and choices made by African actors."
+ ],
+ "make": "A comparative brief of 2,000 to 2,500 words on three cases, with a comparison table, a 400-word argument that names historians who disagree, and a 200-word note on an African voice or archive.",
+ "ready": "A notebook with two columns (claim and evidence), a blank map of Africa, and a browser for the archives and databases linked under each module.",
+ "limits": "Written for English readers from a working library built from public sources and the author's knowledge of the scholarship. Books named in the course were not read. Pages opened in full were the three articles on the Willie Lynch letter; others were encyclopaedic excerpts, and recent events (2020 to 2026) were taken from pages the library's builder read on the dates given. Anything marked check current may have changed. Several topics are only touched: North African histories beyond Algeria and the Arab Spring, Somalia, Zimbabwe after 1980, Nigerian politics after 1970, the Angola and Mozambique wars, HIV/AIDS and the Sahel jihadist conflict. The pre-colonial period is a separate course. Modules 2, 5, 6 and 7 deal with massacres, genocide, famine and torture."
+};

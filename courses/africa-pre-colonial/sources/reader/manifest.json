@@ -1,0 +1,336 @@
+{
+ "key": "reader",
+ "title": "Africa",
+ "author": "John Reader",
+ "file": "reader.epub",
+ "format": "epub",
+ "sha256": "45bb502ef3da329da0c2562f262e0b36e0a843568b24d2b182e4d35b12800889",
+ "words": 297388,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "copyright",
+   "words": 466
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "CONTENTS",
+   "words": 259
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "PREFACE",
+   "words": 1290
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "PROLOGUE",
+   "words": 1561
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "PART ONE",
+   "words": 3945
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "CHAPTER 2",
+   "words": 3868
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "CHAPTER 3",
+   "words": 2874
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "CHAPTER 4",
+   "words": 1982
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "PART TWO",
+   "words": 3926
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "CHAPTER 6",
+   "words": 3393
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "CHAPTER 7",
+   "words": 3158
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "CHAPTER 8",
+   "words": 3375
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "CHAPTER 9",
+   "words": 3379
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "CHAPTER 10",
+   "words": 1475
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "PART THREE",
+   "words": 2333
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "CHAPTER 12",
+   "words": 3097
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "CHAPTER 13",
+   "words": 4754
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "CHAPTER 14",
+   "words": 3227
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "CHAPTER 15",
+   "words": 4850
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "CHAPTER 16",
+   "words": 3540
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "CHAPTER 17",
+   "words": 3905
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "CHAPTER 18",
+   "words": 4251
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "CHAPTER 19",
+   "words": 3449
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "PART FOUR",
+   "words": 2879
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "CHAPTER 21",
+   "words": 1618
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "CHAPTER 22",
+   "words": 6991
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "CHAPTER 23",
+   "words": 6314
+  },
+  {
+   "file": "ch-028.txt",
+   "title": "CHAPTER 24",
+   "words": 3879
+  },
+  {
+   "file": "ch-029.txt",
+   "title": "CHAPTER 25",
+   "words": 5381
+  },
+  {
+   "file": "ch-030.txt",
+   "title": "CHAPTER 26",
+   "words": 6928
+  },
+  {
+   "file": "ch-031.txt",
+   "title": "CHAPTER 27",
+   "words": 3361
+  },
+  {
+   "file": "ch-032.txt",
+   "title": "CHAPTER 28",
+   "words": 3157
+  },
+  {
+   "file": "ch-033.txt",
+   "title": "CHAPTER 29",
+   "words": 4848
+  },
+  {
+   "file": "ch-034.txt",
+   "title": "CHAPTER 30",
+   "words": 4614
+  },
+  {
+   "file": "ch-035.txt",
+   "title": "PART FIVE",
+   "words": 5049
+  },
+  {
+   "file": "ch-036.txt",
+   "title": "CHAPTER 32",
+   "words": 4139
+  },
+  {
+   "file": "ch-037.txt",
+   "title": "CHAPTER 33",
+   "words": 4958
+  },
+  {
+   "file": "ch-038.txt",
+   "title": "CHAPTER 34",
+   "words": 3410
+  },
+  {
+   "file": "ch-039.txt",
+   "title": "CHAPTER 35",
+   "words": 2218
+  },
+  {
+   "file": "ch-040.txt",
+   "title": "CHAPTER 36",
+   "words": 6222
+  },
+  {
+   "file": "ch-041.txt",
+   "title": "CHAPTER 37",
+   "words": 5446
+  },
+  {
+   "file": "ch-042.txt",
+   "title": "CHAPTER 38",
+   "words": 5687
+  },
+  {
+   "file": "ch-043.txt",
+   "title": "CHAPTER 39",
+   "words": 6241
+  },
+  {
+   "file": "ch-044.txt",
+   "title": "CHAPTER 40",
+   "words": 4392
+  },
+  {
+   "file": "ch-045.txt",
+   "title": "PART SIX",
+   "words": 5891
+  },
+  {
+   "file": "ch-046.txt",
+   "title": "CHAPTER 42",
+   "words": 4656
+  },
+  {
+   "file": "ch-047.txt",
+   "title": "CHAPTER 43",
+   "words": 4248
+  },
+  {
+   "file": "ch-048.txt",
+   "title": "CHAPTER 44",
+   "words": 4536
+  },
+  {
+   "file": "ch-049.txt",
+   "title": "CHAPTER 45",
+   "words": 9491
+  },
+  {
+   "file": "ch-050.txt",
+   "title": "PART SEVEN",
+   "words": 10584
+  },
+  {
+   "file": "ch-051.txt",
+   "title": "CHAPTER 47",
+   "words": 7504
+  },
+  {
+   "file": "ch-052.txt",
+   "title": "CHAPTER 48",
+   "words": 4157
+  },
+  {
+   "file": "ch-053.txt",
+   "title": "CHAPTER 49",
+   "words": 5264
+  },
+  {
+   "file": "ch-054.txt",
+   "title": "CHAPTER 50",
+   "words": 6112
+  },
+  {
+   "file": "ch-055.txt",
+   "title": "CHAPTER 51",
+   "words": 5213
+  },
+  {
+   "file": "ch-056.txt",
+   "title": "PART EIGHT",
+   "words": 4611
+  },
+  {
+   "file": "ch-057.txt",
+   "title": "CHAPTER 53",
+   "words": 4620
+  },
+  {
+   "file": "ch-058.txt",
+   "title": "CHAPTER 54 First Dance of Freedom1",
+   "words": 5586
+  },
+  {
+   "file": "ch-059.txt",
+   "title": "CHAPTER 55",
+   "words": 8216
+  },
+  {
+   "file": "ch-060.txt",
+   "title": "MAPS AND CHART",
+   "words": 268
+  },
+  {
+   "file": "ch-061.txt",
+   "title": "NOTES",
+   "words": 12549
+  },
+  {
+   "file": "ch-062.txt",
+   "title": "BIBLIOGRAPHY",
+   "words": 16504
+  },
+  {
+   "file": "ch-063.txt",
+   "title": "INDEX",
+   "words": 11289
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-10-30",
+  "source_file": "reader.epub",
+  "found_by": "user"
+ },
+ "text_quality": {
+  "common_word_share": 0.353,
+  "odd_character_share": 0.004
+ }
+}

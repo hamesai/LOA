@@ -165,3 +165,75 @@ window.COURSE_METHODS = Object.assign(window.COURSE_METHODS || {}, {
  "Sergei Eisenstein": ["Cut for effect on the viewer.", "Treated montage as collision.", "Tried metric, rhythmic and tonal cuts."],
  "Peter Brook": ["Stripped to an empty space.", "Added back only what the story needed.", "Served one strong idea."]
 });
+
+/* africa-pre-colonial entries */
+Object.assign(window.COURSE_DOSSIERS, {
+ "Jan Vansina": "Confidence: partial. Sources: Wikipedia pages on Vansina and on oral tradition, read as excerpts on 30/10/2026; none of his books was read.\nMethods: a working definition of oral tradition (spoken, sung or instrument-played, passed on by word of mouth over at least a generation); attention to the carrier and to present politics; fieldwork collection; a rigorous approach developed in the 1960s with his students.\nVoice: not documented. Inferred as careful and methodical.\nBounds: died 2017. Knew oral sources, Central African kingdoms and the archive. Knew nothing of later digital methods.\nGaps: his own texts were not read; later critiques are noted only in the oral tradition page.",
+ "Ibn Khaldun": "Confidence: partial. Sources: Wikipedia page on Ibn Khaldun, excerpts, 30/10/2026; the Muqaddimah was not read.\nMethods: group solidarity (asabiya); cooperation and division of labour; a historical method with few followers in his time; career as a Maliki judge in Cairo and adviser to rulers; a report on Timur sent to Fez.\nVoice: not documented. Inferred as analytic and blunt.\nBounds: died 1406. Knew the Maghrib, Egypt and Syria. Knew nothing of the Atlantic trade.\nGaps: his views on Ethiopia and the Sahel were not read; applications in the course are our inference.",
+ "Ibn Battuta": "Confidence: partial. Sources: Wikipedia page on Ibn Battuta, excerpts, 30/10/2026; the Rihla was not read.\nMethods: dictated his account to Ibn Juzayy in 1354 to 55; visited Kilwa and Mali; mistook the Niger for the Nile; scholars find his chronology confused in places.\nVoice: not documented. Inferred as curious and a little vain.\nBounds: died 1368 or 1369. Knew the Islamic world, Mali and the East African coast. Knew nothing of the Portuguese in Kongo.\nGaps: the Rihla text on Mali and Kilwa was not read.",
+ "Samuel Johnson": "Confidence: partial. Sources: Boston University biography and Cambridge University Press description, excerpts, plus front matter of the 1921 edition on the Internet Archive, 30/10/2026; the History was not read in full.\nMethods: collected oral and recorded accounts; thanked informants including the Timi of Ede; wrote from patriotic motives; saw Christianity as crowning Yoruba history; his brother reconstructed the lost manuscript.\nVoice: not documented. Inferred as earnest and patriotic.\nBounds: died 1901. Knew Oyo, Ibadan and Sierra Leone. Knew nothing of later archaeology.\nGaps: the main chapters on Oyo were not read.",
+ "Olaudah Equiano": "Confidence: partial. Sources: Wikipedia page on Equiano, excerpts, 30/10/2026; the Narrative was not read.\nMethods: published in 1789 a narrative that shaped the antislavery movement; the Narrative went through nine editions in his lifetime; Carretta found records suggesting Carolina as his birthplace, which other scholars dispute.\nVoice: not documented. Inferred as measured and persuasive.\nBounds: died 31/03/1797. Knew the Atlantic trade and London. Knew nothing of Berlin 1884.\nGaps: the Narrative text and Lovejoy's rebuttal were not read."
+});
+Object.assign(window.COURSE_METHODS || {}, {
+ "Jan Vansina": [
+  "Defined oral tradition narrowly.",
+  "Asked who carried it and why.",
+  "Looked for a second kind of evidence."
+ ],
+ "Ibn Khaldun": [
+  "Asked what holds a group together.",
+  "Distrusted flattering histories.",
+  "Looked at how people cooperate."
+ ],
+ "Ibn Battuta": [
+  "Recorded what he saw.",
+  "Dictated it afterwards.",
+  "Is cross-checked for dates."
+ ],
+ "Samuel Johnson": [
+  "Collected oral and recorded accounts.",
+  "Named informants.",
+  "Wrote to preserve a history."
+ ],
+ "Olaudah Equiano": [
+  "Told his story in print.",
+  "Aimed it at an antislavery public.",
+  "Is read with the records beside it."
+ ]
+});
+
+/* africa-post-colonial entries */
+Object.assign(window.COURSE_DOSSIERS, {
+ "Albert Adu Boahen": "Confidence: partial. Sources: Wikipedia page on Boahen, excerpts, 30/10/2026; none of his books was read.\nMethods: first African chair of the University of Ghana history department (1967 to 1975); professor from 1971; worked on the UNESCO General History of Africa from 1993 to 1999; lectured publicly on Ghana's recent history in February 1988; the working library credits him with the argument that the colonial period was short and African institutions persisted.\nVoice: not documented. Inferred as measured and patriotic.\nBounds: died 24/05/2006. Knew Ghanaian and West African history and the academy. Knew nothing of the 2020s.\nGaps: the colonial-period argument comes from the library, not from his books.",
+ "W. E. B. Du Bois": "Confidence: partial. Sources: Wikipedia page on Du Bois, excerpts, 30/10/2026; none of his books was read.\nMethods: fieldwork for The Philadelphia Negro (1899); extensive references in Black Reconstruction (1935); co-founded the NAACP in 1909; the library names him as organiser of the Pan-African Congresses; moved to Ghana in October 1961.\nVoice: not documented. Inferred as formal and exacting.\nBounds: died 27/08/1963. Knew the Atlantic world, the Congresses and early Ghana. Knew nothing of the OAU's later years.\nGaps: his Pan-African writings were not read.",
+ "Julius Nyerere": "Confidence: partial. Sources: Wikipedia page on Nyerere, excerpts, 30/10/2026; none of his writings was read.\nMethods: formed TANU in 1954; preached non-violent protest influenced by Gandhi; developed ujamaa; wrote poetry and translated two Shakespeare plays into Swahili; the library records that he stepped down in 1985.\nVoice: not documented. Inferred as teacherly and plain.\nBounds: died 14/10/1999. Knew Tanganyika and Tanzania, the OAU and southern African liberation politics. Knew nothing of the African Union.\nGaps: his own essays on ujamaa were not read; the application to the AU is our inference.",
+ "Steve Biko": "Confidence: partial. Sources: Wikipedia page on Biko, excerpts, 30/10/2026; I Write What I Like was not read.\nMethods: helped found SASO in 1968; Black Consciousness defined in a 1971 SASO manifesto as an attitude of mind and a way of life; banned in 1973; arrested in August 1977.\nVoice: not documented. Inferred as direct and argumentative.\nBounds: died 12/09/1977. Knew apartheid South Africa and student politics. Knew nothing of the 1990 negotiations.\nGaps: the manifesto and his essays were not read.",
+ "Chinua Achebe": "Confidence: partial. Sources: Wikipedia page on Achebe, excerpts, 30/10/2026; none of his books was read.\nMethods: published Things Fall Apart in 1958; served the Biafran cause as an envoy; There Was a Country (2012) reopened discussion of the war; critics have called his picture of Igbo society sexist.\nVoice: not documented. Inferred as measured and wry.\nBounds: died 21/03/2013. Knew Nigeria, Biafra and the American academy. Knew nothing of events after 2013.\nGaps: the memoir text was not read."
+});
+Object.assign(window.COURSE_METHODS || {}, {
+ "Albert Adu Boahen": [
+  "Started from African actors.",
+  "Asked what lasted.",
+  "Checked what the colonial source omits."
+ ],
+ "W. E. B. Du Bois": [
+  "Collected the data first.",
+  "Cited references.",
+  "Asked who the evidence served."
+ ],
+ "Julius Nyerere": [
+  "Stated the aim.",
+  "Tested results against it.",
+  "Named the criterion."
+ ],
+ "Steve Biko": [
+  "Defined his terms.",
+  "Asked what the system did to people's minds.",
+  "Kept evidence apart from interpretation."
+ ],
+ "Chinua Achebe": [
+  "Wrote from inside experience.",
+  "Set the witness beside the record.",
+  "Admitted limits."
+ ]
+});

@@ -1,6 +1,383 @@
 /* Lecturer oversight for courses other than cinematography. Written by _template/gen_oversight.js from each module's lecturer welcome, steps and challenges. Voiced lines are simulated, written for teaching, and add no facts. */
 (function () {
   var O = {
+ "africa-post-colonial-1": {
+  "brief": "Before you accept a colonial-era account, ask who the African actors were and what lasted. Then check what the official source leaves out.",
+  "holds": [
+   "Order the main events from the British occupation of Egypt to the Belgian annexation of Congo.",
+   "Name several causes of the Scramble and the weakness of any single one.",
+   "Treat treaties as weak evidence of consent.",
+   "State the Congo and Adwa figures as ranges with their methods."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Order: Berlin Conference; British occupation of Egypt; Adwa; Omdurman; Belgium annexes the Congo Free State.",
+   "Challenge C2 (Core): Write 130 words explaining three causes of the Scramble and one weakness in explaining it by only one cause.",
+   "Challenge C3 (Stretch): Explain Adwa in 150 words under the headings military, diplomatic and Italian errors, then state one thing sources disagree on."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Explain Adwa in 150 words under the headings military, diplomatic and Italian errors, then state one thing sources disagree on.",
+   "rubric": [
+    "Must include modern weapons and mobilisation of a large army; French and Russian supply and the Wuchale dispute; Baratieri's poor maps, divided columns and domestic pressure to act.",
+    "All three headings plus one named disagreement."
+   ]
+  }
+ },
+ "africa-post-colonial-2": {
+  "brief": "Match each question to the record that can answer it, and keep African and colonial records apart.",
+  "holds": [
+   "Narrate each case in order with causes and dates.",
+   "Give the range and the method behind each disputed number.",
+   "Explain the dispute over the 2021 Joint Declaration.",
+   "Name an African voice and a colonial record for each case."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Complete a table: for each event give years, place, one cause and one disputed number.",
+   "Challenge C2 (Core): In 140 words explain why many Ovaherero and Nama reject the 2021 Joint Declaration, and name one fact supporting the claim of genocide.",
+   "Challenge C3 (Stretch): Evaluate the claims about Mau Mau deaths (British 11,000; Anderson about 20,000 or more; Elkins up to 100,000 or more) in 200 words."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Evaluate the claims about Mau Mau deaths (British 11,000; Anderson about 20,000 or more; Elkins up to 100,000 or more) in 200 words. Say what evidence each uses and which you would trust most and why.",
+   "rubric": [
+    "A good answer says the British figure counts insurgents killed in action; Anderson uses court and administration records; Elkins uses oral testimony and gaps in census data, which demographers criticise.",
+    "Three sources, one method for each, a reasoned preference."
+   ]
+  }
+ },
+ "africa-post-colonial-3": {
+  "brief": "Ask for the data behind a claim, the references and the purpose, before you repeat it.",
+  "holds": [
+   "Trace Pan-Africanism from 1900 to the OAU.",
+   "Explain the turning point of Manchester 1945.",
+   "Compare the Casablanca and Monrovia groups.",
+   "Apply four authenticity tests to the Willie Lynch letter and say what real evidence shows about slaveholder tactics."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Match: Henry Sylvester Williams; Marcus Garvey; W. E. B. Du Bois; George Padmore; Leopold Senghor; Kwame Nkrumah with: 1900 conference;",
+   "Challenge C2 (Core): Explain in 120 words why the 1945 Manchester Congress is often called a turning point.",
+   "Challenge C3 (Stretch): Compare the Casablanca and Monrovia groups on aims, members and method, then say whether the OAU of 1963 resembled one more than the other and why.",
+   "Challenge C4 (Source criticism): A friend shares a post quoting the 'Willie Lynch letter' as a real 1712 speech."
+  ],
+  "challenge": {
+   "title": "Challenge: Source criticism",
+   "task": "A friend shares a post quoting the 'Willie Lynch letter' as a real 1712 speech. In 150 words explain, using the four tests, why it should not be treated as authentic, and name one real source of evidence on divide-and-rule tactics.",
+   "rubric": [
+    "Must say it is a modern hoax; provenance: first in print about 1970, online from 1993, no eighteenth-century source;",
+    "Four tests named, at least two anachronisms, one real source, and a respectful tone."
+   ]
+  }
+ },
+ "africa-post-colonial-4": {
+  "brief": "State the aim, test the results, and name your criterion before you give a verdict.",
+  "holds": [
+   "Put the main independence dates in order.",
+   "Contrast the paths of Ghana, Algeria, Congo, Kenya, Tanzania and Burkina Faso.",
+   "Evaluate ujamaa with two sets of evidence and a stated criterion.",
+   "Explain the Congo crisis with four actors and an open question."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Put these in order: Ghana independent; Algeria independent; Congo independent; Kenya independent; Tanganyika independent.",
+   "Challenge C2 (Core): Evaluate in 150 words whether ujamaa 'failed'. Give two sets of evidence.",
+   "Challenge C3 (Stretch): Explain the Congo crisis in 200 words with four actors (Belgium, the UN, the US and Soviet Union, Congolese leaders) and one open question."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Explain the Congo crisis in 200 words with four actors (Belgium, the UN, the US and Soviet Union, Congolese leaders) and one open question.",
+   "rubric": [
+    "Belgium's unpreparedness and support for Katanga; UN intervention (ONUC) and its limits; Cold War interest; Lumumba, Kasa-Vubu, Mobutu and Tshombe;",
+    "Four actors and one named open question."
+   ]
+  }
+ },
+ "africa-post-colonial-5": {
+  "brief": "Define your terms, separate laws from events, and ask what a measure asked people to believe.",
+  "holds": [
+   "Name the main apartheid laws and separate them from events.",
+   "Order Sharpeville, Rivonia, Soweto, the release of Mandela and the 1994 election.",
+   "Treat each death toll as a record with a method.",
+   "Rank four causes of the end with evidence."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Order: Sharpeville; Rivonia trial verdict; Soweto uprising; Mandela released; first all-race election.",
+   "Challenge C2 (Core): In 130 words distinguish apartheid laws from the events of resistance, with three examples of each.",
+   "Challenge C3 (Stretch): Rank four causes of apartheid's end (internal resistance, sanctions and the economy, the Cold War's end, negotiation) in 200 words and justify the…"
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Rank four causes of apartheid's end (internal resistance, sanctions and the economy, the Cold War's end, negotiation) in 200 words and justify the order, citing two pieces of evidence.",
+   "rubric": [
+    "Any defensible ranking that acknowledges more than one cause, links each to evidence (mass strikes and UDF; US sanctions of 1986 and capital flight; 1989 events in Europe; CODESA) and states the uncertainty.",
+    "Four causes ranked, two pieces of evidence, uncertainty stated."
+   ]
+  }
+ },
+ "africa-post-colonial-6": {
+  "brief": "Use a witness for experience and a historian for scale, and mark what each lacks.",
+  "holds": [
+   "Narrate the Biafran War, the Derg and adjustment in order.",
+   "Explain why tolls are uncertain.",
+   "Test a causal claim about adjustment.",
+   "Compare mechanisms across the cases."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Order: January 1966 coup in Nigeria; Biafra declared; fall of Haile Selassie; Red Terror begins; EPRDF takes Addis Ababa.",
+   "Challenge C2 (Core): In 130 words explain why the death toll in Biafra is uncertain and give two reasons for the range.",
+   "Challenge C3 (Stretch): Argue in 200 words whether structural adjustment was 'the' cause of the African economic crisis of the 1980s, using at least two other factors."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Argue in 200 words whether structural adjustment was 'the' cause of the African economic crisis of the 1980s, using at least two other factors.",
+   "rubric": [
+    "A good argument names alternative factors (oil shocks, falling commodity prices, debt, wars, policy errors before adjustment), notes mixed outcomes and avoids a single cause.",
+    "Two other factors and a qualified conclusion."
+   ]
+  }
+ },
+ "africa-post-colonial-7": {
+  "brief": "Compare an institution's words with its practice, and ask what members gave up.",
+  "holds": [
+   "Order the events from the Arusha Accords to South Sudan.",
+   "Explain Article 4(h) against non-interference.",
+   "Treat Rwandan and Congolese tolls as ranges with methods.",
+   "Assess the Arab Spring with criteria, and mark recent events [check current]."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Put in order: Arusha Accords; plane shot down; RPF takes Kigali; AU launched; South Sudan independence.",
+   "Challenge C2 (Core): Explain in 150 words how the AU's Article 4(h) differs from the OAU's non-interference principle, and give one limit in practice.",
+   "Challenge C3 (Stretch): Assess the statement 'the Arab Spring failed in Africa'. Use Tunisia, Egypt and Libya and give a verdict with criteria. 200 words."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Assess the statement 'the Arab Spring failed in Africa'. Use Tunisia, Egypt and Libya and give a verdict with criteria. 200 words.",
+   "rubric": [
+    "A good answer sets criteria (regime change, democratic outcomes, stability, rights) and finds mixed results: Tunisia, a democratic opening then rollback; Egypt, new authoritarianism; Libya, conflict and fragmentation.",
+    "Criteria, three cases, a qualified verdict."
+   ]
+  }
+ },
+ "africa-post-colonial-cap": {
+  "brief": "Name the voice, who produced it, what it shows and its limits, and pair it with a record.",
+  "holds": [
+   "Choose three cases, one from each group.",
+   "Tag every date, name and figure honestly.",
+   "Use at least three kinds of source including an African voice or archive.",
+   "Self-score against the five rubric rows."
+  ],
+  "signoff": [
+   "Challenge 1 (Accuracy and tagging): Dates, names and figures are correct; contested numbers carry ranges and tags.",
+   "Challenge 2 (Evidence and perspective): At least three kinds of source, including at least one African voice or archive.",
+   "Challenge 3 (Argument): A 400-word argument on the central question.",
+   "Challenge 4 (Comparison): A table and text that connect the cases.",
+   "Challenge 5 (Presentation and sources): Structure, resources and style."
+  ],
+  "challenge": {
+   "title": "Challenge: Presentation and sources",
+   "task": "Structure, resources and style.",
+   "rubric": [
+    "Resources are real; British spelling and DD/MM/YYYY dates used; recent events flagged [check current]."
+   ]
+  }
+ },
+ "africa-pre-colonial-1": {
+  "brief": "Before you trust a story, ask how it travelled: who carried it, for how long, and for whom. Then tag the date and look for a second kind of evidence.",
+  "holds": [
+   "Name the five kinds of evidence and one blind spot of each.",
+   "Read oral tradition as a structured source with known biases.",
+   "Use the five evidence tags and rewrite uncertain claims to match.",
+   "Explain Nok, early iron, the Bantu expansion and Jenne-jeno with the right tags."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Classify each statement by the main kind of evidence: (a) over 500 related languages descend from one ancestor;",
+   "Challenge C2 (Core): A museum label says: 'The Nok invented ironworking in Africa around 500 BCE, and the Yoruba descend directly from them.' Write three sentences that…",
+   "Challenge C3 (Stretch): Compare the older single-migration account of the Bantu expansion with the current picture, in 120 to 150 words: what each claims, what evidence…"
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Compare the older single-migration account of the Bantu expansion with the current picture, in 120 to 150 words: what each claims, what evidence supports the change, and what remains disputed.",
+   "rubric": [
+    "A correct answer describes the old model (one wave, conquest, iron-led); describes the new model (several waves and routes, interaction with existing groups);",
+    "Highlight each of the four required elements in your text. All four passes."
+   ]
+  }
+ },
+ "africa-pre-colonial-2": {
+  "brief": "When a ruler's text says he is chosen, ask who stood behind him and who wrote it later. Treat it as evidence of the winners' image.",
+  "holds": [
+   "Narrate Kerma, Napata, Meroë, Aksum and Ethiopia in order.",
+   "Explain why the Meroitic script limits what we know.",
+   "Read royal inscriptions and legitimising texts critically.",
+   "Flag at least four contested or traditional points."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Put these in order: Piye's conquest of Egypt; Ezana's conversion; the Battle of Wayna Daga; Meroë becomes the royal burial site;",
+   "Challenge C2 (Core): Explain in about 100 words why the Meroitic script limits what we know about Kush, and name two outside sources historians use to compensate.",
+   "Challenge C3 (Stretch): Write 150 words comparing how a Zagwe-friendly source and the Kebra Nagast would present the 1270 change, and why historians treat the Solomonic…"
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Write 150 words comparing how a Zagwe-friendly source and the Kebra Nagast would present the 1270 change, and why historians treat the Solomonic account with caution.",
+   "rubric": [
+    "The Solomonic text presents a restoration of a rightful line; Zagwe sources (church hagiography of Lalibela) present them as pious builders; the Kebra Nagast was written for legitimacy, so it is a political text;",
+    "Your text flags the political purpose and the uncertain dating."
+   ]
+  }
+ },
+ "africa-pre-colonial-3": {
+  "brief": "Use a lens to ask questions, never to fill gaps. Where the sources are thin, say that they are thin.",
+  "holds": [
+   "Explain the shift from Carthage to the Islamic Maghrib.",
+   "Mark the Almoravid-Ghana debate as contested.",
+   "Map the main trans-Saharan trade and its goods.",
+   "Read hostile or distant sources critically."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Match each person to a place or event: Hannibal; Augustine; Belisarius; Yusuf ibn Tashfin; Abd al-Mu'min; Ahmad Baba.",
+   "Challenge C2 (Core): In about 120 words, evaluate this sentence: In 1076 the Almoravids conquered and destroyed Ghana.",
+   "Challenge C3 (Stretch): Using Sijilmasa, Awdaghust, Ghana, Taghaza and Timbuktu, sketch a trade route on your blank map and label what travelled in each direction."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Using Sijilmasa, Awdaghust, Ghana, Taghaza and Timbuktu, sketch a trade route on your blank map and label what travelled in each direction.",
+   "rubric": [
+    "Gold and enslaved people moved north; salt (Taghaza), cloth, copper and horses moved south; books and Islamic scholarship moved along the same routes. The labels show at least four goods and two directions.",
+    "A reviewer should be able to tell which goods go which way from your labels alone."
+   ]
+  }
+ },
+ "africa-pre-colonial-4": {
+  "brief": "Rate a witness by what they saw, what they were told and how long afterwards they spoke. Then cross-check.",
+  "holds": [
+   "Narrate Ghana, Mali, Songhai, the Hausa states and Sokoto.",
+   "Rank sources by distance and purpose.",
+   "Tag at least five disputed or traditional points.",
+   "Weigh competing readings of the Sokoto jihad."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Complete the table: state, centre, a key ruler or founder, and a key source for Ghana, Mali, Songhai.",
+   "Challenge C2 (Core): Rank these four sources for reliability on Mansa Musa's wealth and justify in about 100 words: (a) al-Umari, (b) Ibn Battuta, (c) the Catalan Atlas,…",
+   "Challenge C3 (Stretch): Write 150 words on the causes of the Sokoto jihad, presenting two interpretations and saying which evidence would help decide between them."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Write 150 words on the causes of the Sokoto jihad, presenting two interpretations and saying which evidence would help decide between them.",
+   "rubric": [
+    "A religious-reform reading (Usman's writings) and a socio-economic or ethnic reading (taxation, Gobir's rulers, Fulani grievances);",
+    "Two named readings plus a source type for each."
+   ]
+  }
+ },
+ "africa-pre-colonial-5": {
+  "brief": "Read an author's aim and informants first. A history written to preserve a nation selects as well as records.",
+  "holds": [
+   "Match each state to its signature feature.",
+   "Reject the Frobenius claim with evidence.",
+   "Compare Oyo, Asante and Dahomey in a table.",
+   "Treat founding myths as evidence of belief and purpose."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Match: Igbo-Ukwu; Ife; Benin; Oyo; Asante; Dahomey with one of: cavalry empire; lost-wax bronzes from c. 9th to 10th century; Golden Stool; Agojie;",
+   "Challenge C2 (Core): Write 130 words responding to this museum caption: The Ife heads are too sophisticated to be African;",
+   "Challenge C3 (Stretch): Build a table comparing Oyo, Asante and Dahomey on: how rulers were checked, main sources of wealth, relation to the Atlantic trade, cause of…"
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Build a table comparing Oyo, Asante and Dahomey on: how rulers were checked, main sources of wealth, relation to the Atlantic trade, cause of decline. Add one [CONTESTED] point for each.",
+   "rubric": [
+    "Oyo, Alaafin checked by Oyo Mesi and Bashorun; cavalry and tribute; supplied captives through coastal ports; decline via the Ilorin revolt and the jihad. Asante, Asantehene with a council and appointed officials;",
+    "Each cell has an entry and each state has one contested note."
+   ]
+  }
+ },
+ "africa-pre-colonial-6": {
+  "brief": "Pair a visitor's impression with what the ground shows. Where their dates differ, give a range.",
+  "holds": [
+   "Explain the Swahili origins debate.",
+   "Compare Buganda and Kongo.",
+   "Read Afonso's letter as a source.",
+   "Reject the Hamitic theory."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Place these on your timeline: Portuguese reach Kongo; Kilwa sacked by Portugal; Fort Jesus completed; Mbwila; Ibn Battuta at Kilwa.",
+   "Challenge C2 (Core): Explain in 120 words why historians no longer accept that the Swahili towns were founded by Persians.",
+   "Challenge C3 (Stretch): Compare Buganda and Kongo on: source of the king's authority, how provinces were run, relation to outsiders, and the surviving African-authored…"
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Compare Buganda and Kongo on: source of the king's authority, how provinces were run, relation to outsiders, and the surviving African-authored evidence. Add one source limitation for each.",
+   "rubric": [
+    "Buganda: Kabaka with appointed chiefs, clans, canoe navy, outsiders arrive late; sources are oral tradition and 19th-century visitors, so thin before 1800.",
+    "Each dimension has an entry for both kingdoms."
+   ]
+  }
+ },
+ "africa-pre-colonial-7": {
+  "brief": "Count the years between event and telling, and ask who the speaker could have met. Differences between versions are clues.",
+  "holds": [
+   "Explain the southern sequence without calling it a proven line.",
+   "Name the colonial myth about Great Zimbabwe and its correction.",
+   "Argue both sides of the mfecane debate.",
+   "Use African-authored and oral sources on Zulu history."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Order: Mapungubwe hill occupied; Great Zimbabwe at height; Mutapa emerges; Rozvi overthrow Torwa; Shaka takes the Zulu chiefdom.",
+   "Challenge C2 (Core): In 130 words explain how colonial and white-minority governments misused Great Zimbabwe, and how scholars corrected the record.",
+   "Challenge C3 (Stretch): Weigh the claim Shaka caused the mfecane. Give two points for, two against, and say what evidence would shift your view."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Weigh the claim Shaka caused the mfecane. Give two points for, two against, and say what evidence would shift your view.",
+   "rubric": [
+    "For: Zulu expansion displaced neighbours (Ndwandwe, Ngwane) who in turn migrated. Against: drought and famine pre-dating Shaka, ivory and slave trade from Delagoa Bay, Cobbing's critique, exaggeration of depopulation.",
+    "Two points each side and a named evidence type."
+   ]
+  }
+ },
+ "africa-pre-colonial-8": {
+  "brief": "Keep the records beside the story. A disputed detail does not cancel a witness, but it tells you how to cite him.",
+  "holds": [
+   "State the slave-trade figures with their source.",
+   "Explain at least two competing views of the trade's effects.",
+   "Correct the Berlin Conference drew the borders myth.",
+   "Test the label pre-colonial."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Using the Voyages estimates page, find the total embarked 1501 to 1866 and the share from West-Central Africa.",
+   "Challenge C2 (Core): Write 150 words on this statement: The Berlin Conference divided Africa among European powers. Rate it and correct it.",
+   "Challenge C3 (Stretch): Argue a position, in 200 words, on whether the Atlantic trade underdeveloped Africa."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Argue a position, in 200 words, on whether the Atlantic trade underdeveloped Africa. Use two historians, one for each side, and name one limit in the evidence.",
+   "rubric": [
+    "States Rodney's or Manning's argument and a counter such as Thornton's; notes that effects varied by region; identifies a data problem (patchy population data, no counterfactual); avoids a one-word verdict;",
+    "Two named historians, a limit and a qualified conclusion."
+   ]
+  }
+ },
+ "africa-pre-colonial-cap": {
+  "brief": "Give each source a date, a carrier, a purpose and a second check, and tag the claim that rests on it.",
+  "holds": [
+   "Write the atlas to the 1,800 to 2,500 word brief.",
+   "Tag every date and figure honestly.",
+   "Use at least four kinds of evidence.",
+   "Self-score against the five rubric rows."
+  ],
+  "signoff": [
+   "Challenge 1 (Accuracy and tagging): Facts are correct; every date or figure carries an honest evidence tag.",
+   "Challenge 2 (Use of evidence): At least four kinds of evidence across the atlas.",
+   "Challenge 3 (Historiographical argument): A 300-word essay on one disagreement.",
+   "Challenge 4 (Connections): Two trade routes between your places.",
+   "Challenge 5 (Presentation and sources): Structure, sources and style."
+  ],
+  "challenge": {
+   "title": "Challenge: Presentation and sources",
+   "task": "Structure, sources and style.",
+   "rubric": [
+    "Resources are real and reachable; British spelling and DD/MM/YYYY dates used."
+   ]
+  }
+ },
  "camping-basics-1": {
   "brief": "Walk gently and take only what you need. The best camp is the one the next person cannot tell you used.",
   "holds": [
@@ -621,6 +998,153 @@
    "task": "Show a label with allergens emphasised, a distance-selling note, flags for alcohol and claims, dispatch rules, and inference labelled.",
    "rubric": [
     "Allergen information before purchase and at delivery; licensing and claims flagged; inference labelled."
+   ]
+  }
+ },
+ "investing-1": {
+  "brief": "Before you invest, ask what you will need and when. Money you will need soon belongs in a safe place; money you can leave can take a little risk.",
+  "holds": [
+   "Define saving and investing with time horizon and risk.",
+   "Calculate a three-month and six-month emergency fund.",
+   "Compare an interest rate with inflation."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Your essential spending is £1,800 a month. Give your three-month and six-month emergency fund targets.",
+   "Challenge C2 (Core): Explain, in three sentences, why an emergency fund comes before investing.",
+   "Challenge C3 (Stretch): £10,000 earns 2% and inflation is 4%. Estimate the change in buying power after one year, using the approximation, and say why it is only an estimate."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "£10,000 earns 2% and inflation is 4%. Estimate the change in buying power after one year, using the approximation, and say why it is only an estimate.",
+   "rubric": [
+    "About minus 2%, or roughly £9,800 in today's money. It is an approximation, because the exact figure is £10,200 ÷ 1.04 = £9,807.69.",
+    "The exact answer is 10,200 divided by 1.04, which is about 9,807.69."
+   ]
+  }
+ },
+ "investing-2": {
+  "brief": "Put every sum on the same timeline. Ask what it will be worth later, after inflation, and after fees.",
+  "holds": [
+   "List the four sources of return.",
+   "Compound a sum over several years.",
+   "Measure the effect of an annual fee."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): A fund pays £25 in dividends and its price falls £60. What is the total return before fees?",
+   "Challenge C2 (Core): Compound £2,000 at 4% for 15 years. Show the formula.",
+   "Challenge C3 (Stretch): Compare a 0.2% charge with a 1.2% charge on £20,000 invested for 25 years at a gross 6%. Give the difference in pounds and say what you assumed."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Compare a 0.2% charge with a 1.2% charge on £20,000 invested for 25 years at a gross 6%. Give the difference in pounds and say what you assumed.",
+   "rubric": [
+    "Net 5.8% gives about £81,879; net 4.8% gives about £64,575. Difference about £17,304. Assumes gross 6% every year, no tax.",
+    "Compute 20,000 × 1.058^25 and 20,000 × 1.048^25, then subtract. The results are about £81,879 and £64,575."
+   ]
+  }
+ },
+ "investing-3": {
+  "brief": "Plan for the bad end of the range before you invest. A plan that only works in the good years is not a plan.",
+  "holds": [
+   "Distinguish risk tolerance from risk capacity.",
+   "Apply the FCA 10% rule of thumb.",
+   "Calculate the gain needed to recover from a fall."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Your net assets are £30,000, with no debts. What is the 10% rule of thumb limit for high-risk investments?",
+   "Challenge C2 (Core): A portfolio falls 20%, then rises 20%. Where does it end, and why?",
+   "Challenge C3 (Stretch): Write one paragraph separating your risk tolerance from your risk capacity, using a realistic example."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Write one paragraph separating your risk tolerance from your risk capacity, using a realistic example.",
+   "rubric": [
+    "Tolerance is emotional and capacity is financial. A good answer shows different answers and the one that governs.",
+    "Check the paragraph names both and gives a case where they differ."
+   ]
+  }
+ },
+ "investing-4": {
+  "brief": "Look at what your holdings do together in a bad year. Two funds that fall at the same time give you less protection than they seem to.",
+  "holds": [
+   "Describe three levels of diversification.",
+   "Explain the efficient frontier in plain terms.",
+   "Write a portfolio description you can review."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Apply a 60/30/10 split to £8,000. Give each slice.",
+   "Challenge C2 (Core): Explain, without jargon, why two holdings that move apart can lower portfolio risk.",
+   "Challenge C3 (Stretch): Write a one-paragraph portfolio description with a review date and two triggers for change."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Write a one-paragraph portfolio description with a review date and two triggers for change.",
+   "rubric": [
+    "A complete paragraph names the split, the reason, the review date and the triggers.",
+    "All four elements must appear."
+   ]
+  }
+ },
+ "investing-5": {
+  "brief": "Find every charge, in percent and in pounds. Compare each with a plain tracker, and ask what the extra cost must buy.",
+  "holds": [
+   "Name the main types of pooled fund.",
+   "Read the SPIVA table and state its limits.",
+   "Apply the ISA and Capital Gains Tax allowances."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): Name two ways to hold a pooled fund in the UK.",
+   "Challenge C2 (Core): The SPIVA figure for 10 years is 83.33%. What does it mean, and what does it not show?",
+   "Challenge C3 (Stretch): Gain £12,000 outside an ISA, with a £3,000 exempt amount. Give the taxable gain before rates, and name two things that could reduce it."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Gain £12,000 outside an ISA, with a £3,000 exempt amount. Give the taxable gain before rates, and name two things that could reduce it.",
+   "rubric": [
+    "£9,000 before losses and reliefs. Two of: allowable losses, reliefs, costs of disposal.",
+    "Subtract the exempt amount, then name reductions."
+   ]
+  }
+ },
+ "investing-6": {
+  "brief": "Write the basis for your estimate before you buy. Then ask for a margin, and check the firm before you pay anyone.",
+  "holds": [
+   "Apply the investment and speculation test.",
+   "Explain the margin of safety.",
+   "Run the FCA Firm Checker and Warning List before paying anyone."
+  ],
+  "signoff": [
+   "Challenge C1 (Warm-up): A stranger offers a guaranteed 15% a month on social media. Name three warning signs.",
+   "Challenge C2 (Core): Estimate an asset at £120. What purchase price gives a 25% margin of safety?",
+   "Challenge C3 (Stretch): Write the checks you would make on a firm you found online, in order."
+  ],
+  "challenge": {
+   "title": "Challenge: Stretch",
+   "task": "Write the checks you would make on a firm you found online, in order.",
+   "rubric": [
+    "Firm Checker, then Warning List, then a call-back on a number you found yourself, then impartial advice. Order and reasons both matter.",
+    "All four steps appear, in order, with reasons."
+   ]
+  }
+ },
+ "investing-cap": {
+  "brief": "Mark every forecast in your plan. Replace each with a range you can survive, or remove it.",
+  "holds": [
+   "Write the plan on one page.",
+   "Score it against the rubric.",
+   "Name what would change it."
+  ],
+  "signoff": [
+   "Challenge 1 (Plan completeness): All eight sections are written: goal, safety net, risk, portfolio, costs, tax, scam checks and review.",
+   "Challenge 2 (Arithmetic): Costs, the emergency fund and the risk limit are calculated, with working shown.",
+   "Challenge 3 (Honesty): Every assumption is labelled, and the plan says where it stops applying."
+  ],
+  "challenge": {
+   "title": "Challenge: Honesty",
+   "task": "Every assumption is labelled, and the plan says where it stops applying.",
+   "rubric": [
+    "Illustrative and inference labels appear where needed.",
+    "Find one labelled assumption and one stated limit."
    ]
   }
  },

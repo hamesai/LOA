@@ -1,0 +1,98 @@
+{
+ "ch-001.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-10-30"
+ },
+ "ch-002.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-10-30"
+ },
+ "ch-003.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-10-30"
+ },
+ "ch-004.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-10-30"
+ },
+ "ch-005.txt": {
+  "limit": 4000,
+  "done": 6,
+  "total": 6,
+  "date": "2026-10-30"
+ },
+ "ch-006.txt": {
+  "limit": 4000,
+  "done": 4,
+  "total": 4,
+  "date": "2026-10-30"
+ },
+ "ch-007.txt": {
+  "limit": 4000,
+  "done": 4,
+  "total": 4,
+  "date": "2026-10-30"
+ },
+ "ch-008.txt": {
+  "limit": 4000,
+  "done": 4,
+  "total": 4,
+  "date": "2026-10-30"
+ },
+ "ch-009.txt": {
+  "limit": 4000,
+  "done": 7,
+  "total": 7,
+  "date": "2026-10-30"
+ },
+ "ch-010.txt": {
+  "limit": 4000,
+  "done": 8,
+  "total": 8,
+  "date": "2026-10-30"
+ },
+ "ch-011.txt": {
+  "limit": 4000,
+  "done": 5,
+  "total": 5,
+  "date": "2026-10-30"
+ },
+ "ch-012.txt": {
+  "limit": 4000,
+  "done": 5,
+  "total": 5,
+  "date": "2026-10-30"
+ },
+ "ch-013.txt": {
+  "limit": 4000,
+  "done": 7,
+  "total": 7,
+  "date": "2026-10-30"
+ },
+ "ch-014.txt": {
+  "limit": 4000,
+  "done": 6,
+  "total": 6,
+  "date": "2026-10-30"
+ },
+ "ch-015.txt": {
+  "limit": 4000,
+  "done": 4,
+  "total": 4,
+  "date": "2026-10-30"
+ },
+ "ch-016.txt": {
+  "limit": 4000,
+  "done": 2,
+  "total": 2,
+  "date": "2026-10-30"
+ }
+}
