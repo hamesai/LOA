@@ -1,0 +1,106 @@
+{
+ "key": "moyo",
+ "title": "Dead Aid (Dambisa Moyo) (z-library.sk, 1lib.sk, z-lib.sk)",
+ "author": "",
+ "file": "Dead Aid (Dambisa Moyo) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+ "format": "pdf",
+ "sha256": "92a0ac4bdf75175eb4c819302d4d0c2fb2c3fb88dbcef02c0fe8136f3b7b1ecf",
+ "words": 60931,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 20",
+   "words": 4804,
+   "pages": [
+    1,
+    20
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Pages 21 to 40",
+   "words": 8111,
+   "pages": [
+    21,
+    40
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Pages 41 to 60",
+   "words": 8361,
+   "pages": [
+    41,
+    60
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Pages 61 to 80",
+   "words": 7146,
+   "pages": [
+    61,
+    80
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Pages 81 to 100",
+   "words": 8250,
+   "pages": [
+    81,
+    100
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Pages 101 to 120",
+   "words": 8213,
+   "pages": [
+    101,
+    120
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Pages 121 to 140",
+   "words": 7686,
+   "pages": [
+    121,
+    140
+   ]
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Pages 141 to 160",
+   "words": 5336,
+   "pages": [
+    141,
+    160
+   ]
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Pages 161 to 179",
+   "words": 3024,
+   "pages": [
+    161,
+    179
+   ]
+  }
+ ],
+ "warnings": [
+  "pypdf failed: No module named 'pypdf'",
+  "no chapter outline or headings found: split into 20-page blocks",
+  "text quality looks poor (31% common English words, 1.2% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-10-30",
+  "source_file": "Dead Aid (Dambisa Moyo) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "found_by": "user"
+ },
+ "text_quality": {
+  "common_word_share": 0.314,
+  "odd_character_share": 0.012
+ }
+}

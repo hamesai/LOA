@@ -1,0 +1,136 @@
+{
+ "key": "olivier",
+ "title": "Mansa Musa and the Empire of Mali",
+ "author": "P. James Oliver",
+ "file": "Mansa Musa and the Empire of Mali - A True Story of Gold and Greatness from Africa (2013) (P. James Olivier [Olivier, P. James]) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+ "format": "epub",
+ "sha256": "6d5cca5275bf998da1e21c981a69090743ede73194064a20688fafff17b5b4b4",
+ "words": 22506,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "index_split_003",
+   "words": 405
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "index_split_004",
+   "words": 479
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "index_split_005",
+   "words": 311
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "index_split_006",
+   "words": 720
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "index_split_007",
+   "words": 944
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "index_split_008",
+   "words": 1142
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "index_split_009",
+   "words": 824
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "index_split_010",
+   "words": 680
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "index_split_011",
+   "words": 965
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "index_split_012",
+   "words": 998
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "index_split_013",
+   "words": 1186
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "index_split_014",
+   "words": 997
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "index_split_015",
+   "words": 898
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "index_split_016",
+   "words": 970
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "index_split_017",
+   "words": 1038
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "index_split_018",
+   "words": 611
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "index_split_019",
+   "words": 885
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "index_split_020",
+   "words": 811
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "index_split_022",
+   "words": 4443
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "index_split_023",
+   "words": 813
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "index_split_025",
+   "words": 842
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "index_split_026",
+   "words": 1282
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "index_split_027",
+   "words": 262
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-10-30",
+  "source_file": "Mansa Musa and the Empire of Mali - A True Story of Gold and Greatness from Africa (2013) (P. James Olivier [Olivier, P. James]) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+  "found_by": "user"
+ },
+ "text_quality": {
+  "common_word_share": 0.318,
+  "odd_character_share": 0.003
+ }
+}

@@ -1,0 +1,156 @@
+{
+ "key": "hochschild",
+ "title": "King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa",
+ "author": "Adam Hochschild",
+ "file": "King Leopold’s Ghost A Story of Greed, Terror, and Heroism in Colonial Africa (Adam Hochschild) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+ "format": "epub",
+ "sha256": "3da65ad2377cbb618df71f56b1de025ff5b512121d7b5d44fb739e9249a792e7",
+ "words": 144196,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "index_split_002",
+   "words": 241
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "index_split_003",
+   "words": 155
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "index_split_004",
+   "words": 1951
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "index_split_006",
+   "words": 5088
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "index_split_009",
+   "words": 4857
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "index_split_010",
+   "words": 5644
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "index_split_011",
+   "words": 5444
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "index_split_012",
+   "words": 5758
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "index_split_013",
+   "words": 5094
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "index_split_014",
+   "words": 5340
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "index_split_015",
+   "words": 5567
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "index_split_016",
+   "words": 9964
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "index_split_017",
+   "words": 4099
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "index_split_018",
+   "words": 7052
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "index_split_019",
+   "words": 5523
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "index_split_022",
+   "words": 3884
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "index_split_023",
+   "words": 5135
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "index_split_024",
+   "words": 6372
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "index_split_025",
+   "words": 3978
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "index_split_026",
+   "words": 7097
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "index_split_027",
+   "words": 9125
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "index_split_028",
+   "words": 7233
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "index_split_029",
+   "words": 6009
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "index_split_031",
+   "words": 3993
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "index_split_032",
+   "words": 13536
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "index_split_033",
+   "words": 5210
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "index_split_034",
+   "words": 847
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-10-30",
+  "source_file": "King Leopold’s Ghost A Story of Greed, Terror, and Heroism in Colonial Africa (Adam Hochschild) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+  "found_by": "user"
+ },
+ "text_quality": {
+  "common_word_share": 0.336,
+  "odd_character_share": 0.006
+ }
+}

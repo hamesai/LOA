@@ -103,3 +103,57 @@ window.COURSE_LECTURER_INTRO = {
     }
   }
 };
+
+/* africa-pre-colonial entries */
+window.COURSE_LECTURER_INTRO["africa-pre-colonial"] = {
+ "blurb": "Five people tied to how African history is read: an oral-history method, a medieval theory of dynasties, a traveller, a Yoruba historian and a writer of the Atlantic trade. Each leads one or more modules, and the last lesson of each applies one of their methods. Their voices are simulated, are not quotations, and add no facts beyond the lessons.",
+ "people": {
+  "Jan Vansina": [
+   "A Belgian historian (1929 to 2017) of Central Africa who developed the historical method for oral tradition.",
+   "Gives you the carrier test: ask who carried a tradition, over how long, and why it is told now."
+  ],
+  "Ibn Khaldun": [
+   "A scholar and judge (1332 to 1406) of Maghribi origin whose Muqaddimah introduced asabiya, or group solidarity.",
+   "Gives you the cohesion question: ask what held a group together and who wrote its story afterwards."
+  ],
+  "Ibn Battuta": [
+   "A Moroccan traveller (1304 to 1369) whose Rihla, dictated in 1354 to 55, describes Kilwa and Mali.",
+   "Gives you the witness test: what was seen, what was told, and how long afterwards."
+  ],
+  "Samuel Johnson": [
+   "A Yoruba Anglican minister (1846 to 1901) who finished The History of the Yorubas in 1897.",
+   "Gives you the aim-and-informants check for an African-authored history."
+  ],
+  "Olaudah Equiano": [
+   "A writer and abolitionist (c. 1745 to 1797) whose 1789 Narrative was widely read and whose birthplace is disputed.",
+   "Gives you the records-beside-the-story habit for first-person accounts."
+  ]
+ }
+};
+
+/* africa-post-colonial entries */
+window.COURSE_LECTURER_INTRO["africa-post-colonial"] = {
+ "blurb": "Five people tied to how African history is made and read: an African-perspective historian, a scholar-organiser, a first president, a Black Consciousness leader and a novelist. Each leads one or more modules, and the last lesson of each applies one of their methods. Their voices are simulated, are not quotations, and add no facts beyond the lessons.",
+ "people": {
+  "Albert Adu Boahen": [
+   "A Ghanaian historian (1932 to 2006) who put African perspectives at the centre of the colonial period.",
+   "Gives you the actors test: ask who the African actors were, what lasted and what the official source leaves out."
+  ],
+  "W. E. B. Du Bois": [
+   "An American scholar and organiser (1868 to 1963) of the Pan-African Congresses who died in Accra.",
+   "Gives you the data test: ask what evidence stands behind a claim, and who gathered it."
+  ],
+  "Julius Nyerere": [
+   "Tanzania's first president (1922 to 1999), who led Tanganyika to independence and proclaimed ujamaa.",
+   "Gives you the aims test: state the aim, test the results and name your criterion."
+  ],
+  "Steve Biko": [
+   "A South African activist (1946 to 1977) who founded SASO and developed Black Consciousness.",
+   "Gives you the definition test: define terms precisely and ask what a system did to people's minds."
+  ],
+  "Chinua Achebe": [
+   "A Nigerian novelist (1930 to 2013) who served the Biafran cause and wrote There Was a Country.",
+   "Gives you the witness test: use a witness for experience and a historian for scale."
+  ]
+ }
+};

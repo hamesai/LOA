@@ -1,0 +1,94 @@
+{
+ "key": "diop-precolonial",
+ "title": "Precolonial Black Africa",
+ "author": "",
+ "file": "diop-precolonial-ocr.txt",
+ "format": "txt",
+ "sha256": "d9a24643f2262a1bb829a60d082d9a58b5297cb908239ff5d84eb5f5488f4f7e",
+ "words": 77142,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Cheikh Anta Diop",
+   "words": 688
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Chapter 0: Preface",
+   "words": 1461
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Chapter 1: Analysis of the Concept of Caste",
+   "words": 5631
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Chapter 2: Socio-Political Evolution of the Ancient City",
+   "words": 5432
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Chapter 3: Formation of the Modern European States",
+   "words": 2395
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Chapter 4: Political Organization in Black Africa",
+   "words": 15384
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Chapter 5: Political Organization (Power of the African Empires)",
+   "words": 13262
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Chapter 6: Economic Organization",
+   "words": 10372
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Chapter 7: Ideological Superstructure, Islam in Black Africa",
+   "words": 4409
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Chapter 8: Intellectual Level, Teaching and Education",
+   "words": 6114
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Chapter 9: Technical Level",
+   "words": 4470
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Chapter 10: Migrations and Formation of Present-Day African Peoples",
+   "words": 6104
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Chapter 11: Postface",
+   "words": 464
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Chapter 12: Bibliography",
+   "words": 956
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (36% common English words, 1.3% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-10-30",
+  "source_file": "diop-precolonial-ocr.txt",
+  "found_by": "user",
+  "note": "Scanned PDF OCR'd with Tesseract 5.4 (eng); text is OCR of the user's own PDF"
+ },
+ "text_quality": {
+  "common_word_share": 0.36,
+  "odd_character_share": 0.013
+ }
+}

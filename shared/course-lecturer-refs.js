@@ -152,5 +152,10 @@ Object.assign(window.COURSE_REFS = window.COURSE_REFS || {}, {
   "lec-bachelier-1900": { t: "Théorie de la spéculation, Annales scientifiques de l'École Normale Supérieure, 3e série, 17 (1900), pp. 21 to 86. Read in French: the introduction and sampled sections.", s: "Louis Bachelier, Numdam", u: "https://www.numdam.org/item/ASENS_1900_3_17__21_0" },
   "lec-bogle-2016": { t: "Saving a Company, Building a Colossus, Preserving a Culture, speech of 09/07/2016", s: "John C. Bogle, Bogle Financial Markets Research Center", u: "https://boglecenter.net/wp-content/uploads/65th-Anniversary-7-9-16.pdf" },
   "lec-bogle-1997": { t: "Who's in Charge Here: Asset Allocation or Cost? AIMR seminar remarks, 20/07/1997 (read in part)", s: "John C. Bogle, Bogle Financial Markets Research Center", u: "https://boglecenter.net/wp-content/uploads/AIMR-7-20-97.pdf" },
-  "lec-graham-ii": { t: "The Intelligent Investor, fourth revised edition (1973) with Zweig's commentary: Chapter 1 and Chapter 20 passages read in a full-text copy", s: "Benjamin Graham, Internet Archive copy", u: "https://archive.org/details/BooksInvesting" }
+  "lec-graham-ii": { t: "The Intelligent Investor, fourth revised edition (1973) with Zweig's commentary: Chapter 1 and Chapter 20 passages read in a full-text copy", s: "Benjamin Graham, Internet Archive copy", u: "https://archive.org/details/BooksInvesting" },
+  "wiki-boahen": { t: "Albert Adu Boahen (secondary; excerpts on dates, career, UNESCO General History of Africa, his 1988 lecture)", s: "Wikipedia", u: "https://en.wikipedia.org/wiki/Albert_Adu_Boahen" },
+  "wiki-dubois": { t: "W. E. B. Du Bois (secondary; excerpts on fieldwork, Black Reconstruction, NAACP and his move to Ghana)", s: "Wikipedia", u: "https://en.wikipedia.org/wiki/W._E._B._Du_Bois" },
+  "wiki-nyerere": { t: "Julius Nyerere (secondary; excerpts on dates, TANU, Ujamaa and later life)", s: "Wikipedia", u: "https://en.wikipedia.org/wiki/Julius_Nyerere" },
+  "wiki-biko": { t: "Steve Biko (secondary; excerpts on SASO, Black Consciousness and his death)", s: "Wikipedia", u: "https://en.wikipedia.org/wiki/Steve_Biko" },
+  "wiki-achebe": { t: "Chinua Achebe (secondary; excerpts on dates, Biafra and There Was a Country)", s: "Wikipedia", u: "https://en.wikipedia.org/wiki/Chinua_Achebe" }
 });
