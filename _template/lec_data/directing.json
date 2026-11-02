@@ -1,0 +1,1314 @@
+{
+ "refs": {
+  "mey-site": [
+   "Vsevolod Meyerhold: Biomechanics (a brief introduction)",
+   "Student study site on Google Sites, citing Thompson (2007); not verified against the book",
+   "https://sites.google.com/view/vsevolodmeyerholddoe/vsevolod-meyerhold/biomechanics"
+  ],
+  "aap": [
+   "An Actor Prepares, translated by Elizabeth Reynolds Hapgood (read in full text from a scan of the Eyre Methuen edition: the chapters on action and the 'if', units and objectives, the unbroken line and the super-objective)",
+   "Konstantin Stanislavski, Internet Archive (Digital Library of India scan)",
+   "https://archive.org/details/2015.126189.AnActorPrepares"
+  ],
+  "gb-companion": [
+   "Shakespeare's Dramatic Art, in A Companion to Shakespeare Studies, edited by H. Granville-Barker and G. B. Harrison (1934; his own essay, pages 45 to 88, read from an OCR scan with some garbling)",
+   "Harley Granville-Barker, Cambridge University Press, Internet Archive (Digital Library of India scan)",
+   "https://archive.org/details/in.ernet.dli.2015.62272"
+  ],
+  "wiki-montage": [
+   "Soviet montage theory (the five methods, the montage of attractions and the differences from Kuleshov and Pudovkin; secondary)",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/Soviet_montage_theory"
+  ],
+  "wiki-biomech": [
+   "Biomechanics (Meyerhold) (secondary)",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/Biomechanics_(Meyerhold)"
+  ],
+  "tdr-gordon": [
+   "Meyerhold's Biomechanics, The Drama Review 18(3), 1974 (only the opening extract on the publisher's page was available)",
+   "Mel Gordon, Cambridge University Press",
+   "https://www.cambridge.org/core/product/283DDA016590D866F655651102284D12"
+  ],
+  "wiki-brook": [
+   "Peter Brook (secondary; the first 100,000 characters read)",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/Peter_Brook"
+  ]
+ },
+ "modules": [
+  {
+   "key": "directing-1",
+   "name": "Harley Granville-Barker",
+   "min": 28,
+   "outcome": "Read a text for its pace and its breaks, then decide act divisions and cuts with a reason for each.",
+   "intro": "Granville-Barker was a working actor, director and playwright who wrote about plays as they play in time. His own essay on Shakespeare's dramatic art says how a playwright makes time move, and what scenery can do to the words.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read his 1934 essay Shakespeare's Dramatic Art in full from an OCR scan with some garbling, and passages of Edward Moore's introduction to volume VI of the Prefaces that describe his 1912 Savoy productions. We did not read the Prefaces themselves. {{gb-companion}} {{gb-prefaces}}"
+    },
+    {
+     "t": "p",
+     "x": "Britannica gives his dates and training. {{brit-gb}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Treat time as a dramatic tool. He writes that for Shakespeare time has its dramatic uses but no rights of its own, and that he moves his play now quickly, now slowly, as he needs. {{gb-companion}}",
+      "Look for the relay. In Richard II, he says, from Bolingbroke's banishment on there is no sense of pause, and as each scene ends the thread is picked up in the next, like the running of a relay race. {{gb-companion}}",
+      "Count the devices for pace. In Hamlet, a play about delay, the speed of the action is kept up by fresh characters appearing, short scenes, swift-flowing verse, and changes between verse and prose. {{gb-companion}}",
+      "Let space be fluid. Shakespeare may move characters from one room to another in the middle of a scene, or Caesar from the street to the Senate House, and need not say where they are. The editors' scene localisations obscure this, and the student is advised to erase them. {{gb-companion}}",
+      "Economise and concentrate. For the battle in Antony and Cleopatra he allows himself less than nine hundred lines, of which one episode runs to two hundred and the last to a hundred and fifty, and he keeps the characters in constant action with intervals for emotional reaction. {{gb-companion}}",
+      "Keep scenery out of the way. He says we betray Shakespeare by foisting painted pictures on the stage that only distract us from the visions his poetry creates. {{gb-companion}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "At the Savoy in 1912 he staged The Winter's Tale and Twelfth Night with continuous action on an open stage and quick, lightly stressed speech, extending an apron in front of the proscenium arch. The Winter's Tale ran with one fifteen-minute interval and the whole text in about three hours, with only six lines cut. Critics at first said the speed took the poetry out, and two months later accepted the same method in Twelfth Night. {{brit-gb}} {{gb-prefaces}}"
+    },
+    {
+     "t": "p",
+     "x": "From Moore's introduction: he held that an interval is a decision, because it relaxes attention and lets time seem to pass; he cut six lines as unintelligible but kept a speech whose obscurity he judged intended; and he wanted a simple setting, a shell for the director's ideas. {{gb-prefaces}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Barker wrote about verse plays on a platform stage, so his speed advice may not suit a naturalistic scene. We read his 1934 essay and Moore's introduction, not the whole of the Prefaces. {{gb-companion}} {{gb-prefaces}}"
+    },
+    {
+     "t": "table",
+     "title": "Barker's reading checklist, applied to your scene (the left column follows the sources; the right column is our adaptation)",
+     "head": [
+      "Question",
+      "Source in his work",
+      "What to write"
+     ],
+     "rows": [
+      [
+       "Where does the text want speed?",
+       "Hamlet's pace devices; the relay of Richard II",
+       "Mark runs of short lines and quick exchanges"
+      ],
+      [
+       "Where does it want a pause?",
+       "One pause marked in The Winter's Tale",
+       "Mark silences, entrances and shifts of topic"
+      ],
+      [
+       "Does it need an interval?",
+       "An interval is a decision",
+       "Decide, and say what the break will do to attention"
+      ],
+      [
+       "Where can place be left loose?",
+       "Fluid space; erase the editors' localisations",
+       "Cut stage directions that only locate the scene"
+      ],
+      [
+       "Is any line unclear?",
+       "Six lines cut, one obscure speech kept",
+       "Ask whether the obscurity is the character's or only old language"
+      ],
+      [
+       "Does the setting help the words?",
+       "Painted pictures distract",
+       "Remove anything the audience looks at instead of listening"
+      ]
+     ],
+     "src": "The first column and the 'source' column follow the sources; the right column is our adaptation. {{gb-companion}} {{gb-prefaces}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: Barker-style reading of the waiting-room scene (illustrative, our application)"
+    },
+    {
+     "t": "example",
+     "title": "Pace, breaks and cuts",
+     "steps": [
+      "Read it aloud once at normal speed and time it: two minutes forty seconds.",
+      "Mark where Dee's lines run short and fast (her argument with Hal) and where she is silent (the envelope).",
+      "Decide the scene needs no interval, and plan one held silence before she opens the letter.",
+      "Check a cut: the line about the weather does nothing, so cut it; Hal's odd phrase 'it's only paper' is awkward but is in his character, so keep it."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: his Antony and Cleopatra count (his figures, our arithmetic)"
+    },
+    {
+     "t": "example",
+     "title": "Where do the lines go?",
+     "steps": [
+      "He allows himself less than 900 lines for the whole battle business. One episode is about 200 lines and the last about 150. {{gb-companion}}",
+      "Those two are 350 lines, which is 350 ÷ 900 = about 39% of the budget at most, so the other episodes share the remaining 550 lines.",
+      "Do the same for your scene: list the beats and their line counts. A beat that takes more than a third of the lines should justify itself, as he says the long ones do by giving the characters an interval to react."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a pace and cut sheet"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Read your scene aloud and time it.",
+      "Mark the fast runs and the silences.",
+      "Mark each cut with a reason.",
+      "Decide whether it needs a break and what the break does.",
+      "List what in the setting could pull the eye from the words and remove it."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Read your scene aloud and time it. Mark the fast runs, the silences, any cuts and your reason for each. Then decide whether it needs a break."
+    },
+    {
+     "t": "check",
+     "q": "What did Granville-Barker say about Shakespeare's use of time?",
+     "o": [
+      "It follows the calendar strictly",
+      "Time has dramatic uses but no rights of its own",
+      "Time is irrelevant",
+      "Time must be explained in a prologue"
+     ],
+     "a": 1,
+     "w": "He says time has its dramatic uses, but no rights of its own. {{gb-companion}}"
+    },
+    {
+     "t": "check",
+     "q": "What did Granville-Barker add in front of the proscenium arch for his Savoy productions?",
+     "o": [
+      "A trapdoor",
+      "An apron",
+      "A second balcony",
+      "A curtain wall"
+     ],
+     "a": 1,
+     "w": "Moore says he extended an apron out in front of the proscenium to approximate a platform stage. {{gb-prefaces}}"
+    },
+    {
+     "t": "check",
+     "q": "How did Barker decide whether to cut a line?",
+     "o": [
+      "Cut every difficult line",
+      "Cut for a reason, keeping obscurity that served the character",
+      "Never cut",
+      "Cut by length alone"
+     ],
+     "a": 1,
+     "w": "He cut six lines as unclear but kept an obscure speech as a deliberate effect. {{gb-prefaces}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Read for pace, breaks and cuts, and give a reason for each. {{gb-companion}}",
+      "An interval is a choice. {{gb-prefaces}}",
+      "Make the setting serve the words. {{gb-companion}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did Granville-Barker say about scenery?",
+    "o": [
+     "It should always be lavish",
+     "It is wrong if it draws attention from the text",
+     "It should be banned",
+     "It should be historical"
+    ],
+    "a": 1,
+    "w": "He insisted scenery was wrong if it called attention to itself at the expense of the text. {{gb-prefaces}} {{gb-companion}}"
+   }
+  },
+  {
+   "key": "directing-2",
+   "name": "Konstantin Stanislavski",
+   "min": 30,
+   "outcome": "Run a twenty-minute 'if' exercise with a cast, debrief it, and repeat it later without letting the cast copy their earlier result.",
+   "intro": "Stanislavski taught by setting small problems and talking them through. In An Actor Prepares the 'if' is an honest supposition that sets the actor in motion. The book gives three exercises you can run in rehearsal.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read An Actor Prepares in full text, including the chapters on action, units and objectives, the unbroken line and the super-objective. It is a teaching narrative with an invented class and a teacher called Tortsov, so we treat it as his method put into story form, not as a record of real lessons. {{aap}} Britannica supplies his dates and the Moscow Art Theatre's opening. {{brit-stan}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Offer a supposition, not a lie. The teacher asks the class what they would do if a madman were behind a door. They measure the distance to the door, look for escape routes, barricade it with furniture. {{aap}}",
+      "Explain why it works. The teacher points out that by using the word 'if' he frankly recognised he was offering only a supposition, and that nobody was forced to believe a lie. Everything is 'clear, honest and above-board'. The secret of 'if' lies in the fact that it does not use fear or force. {{aap}}",
+      "Make 'if' a lever. He says 'if' acts as a lever to lift us out of the world of actuality into the realm of imagination, and that in moments of doubt, when thoughts, feelings and imagination are silent, remember 'if'. {{aap}}",
+      "Give circumstances, then ask for action. For the housewarming exercise he supplies the supposed facts: an inheritance, a party, a cold flat, green wood that will not burn, guests about to arrive. Then: 'let me see what you would do if my supposed facts were true.' {{aap}}",
+      "Argue the other side to find the push. He takes Chekhov's tale of the farmer who unscrewed a rail nut for a fishing sinker and argues the defence until the student weakens. He says the student felt the same inner push the judge would have felt, and that analogous feelings would draw an actor close to the character. {{aap}}",
+      "Do not ask for a copy. Later, when the class repeats the madman exercise, the teachers tell them it has become false and affected: they copied the outer form and lost the cause. {{aap}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Stanislavski co-founded the Moscow Art Theatre, which opened on 26/10/1898 (14/10/1898 in the old calendar). Britannica says he was disappointed that first night because the acting only imitated outward gestures, and that he spent forty years developing what became the system. He would repeat a blunt test in rehearsal: he did not believe the actor. {{brit-stan}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Britannica notes that the American Method's use of personal emotional memory is controversial. Never push a performer to relive a painful memory in rehearsal. Our advice: use imagined 'if' questions and actions instead, and stop if someone is distressed. {{brit-stan}}"
+    },
+    {
+     "t": "table",
+     "title": "The 'if' exercises (the right column is our adaptation)",
+     "head": [
+      "Exercise in the book",
+      "What the teacher says",
+      "Use in rehearsal"
+     ],
+     "rows": [
+      [
+       "The madman behind the door",
+       "'If' admits it is only a supposition; no one is forced to believe",
+       "Offer one honest 'if' and watch what people do"
+      ],
+      [
+       "The housewarming and the fire",
+       "Give supposed facts, then ask what you would do",
+       "State the given circumstances in one breath"
+      ],
+      [
+       "The farmer and the nut",
+       "Argue the defence; the push is the character's push",
+       "When an actor judges a character, ask them to argue the case"
+      ],
+      [
+       "Repeating the madman exercise",
+       "The copy is false and affected",
+       "Change one circumstance each time; never say 'do it like last night'"
+      ]
+     ],
+     "src": "The first two columns follow the book. The last column is our adaptation. {{aap}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a rehearsal slot for the waiting room (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Twenty minutes",
+     "steps": [
+      "0 to 5 minutes: the cast say the given circumstances aloud: who, where, when.",
+      "5 to 15 minutes: the 'if' is 'if the envelope held a result that could change your life'. Each actor improvises with the chairs and the door. Do not stop them.",
+      "15 to 20 minutes: debrief: who, what did you want, what did you do. Write the answers on the wall as first objectives.",
+      "Next day: repeat with one new circumstance (Hal has already read his own result). Check the actors are not copying the previous grouping."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: timing the slot (our arithmetic)"
+    },
+    {
+     "t": "example",
+     "title": "Split of a 20-minute slot",
+     "steps": [
+      "Five minutes for circumstances, ten for action and five for debrief: 5 + 10 + 5 = 20.",
+      "That is 25% on circumstances, 50% on action and 25% on debrief. The book's own exercises leave the work to the students and the talk to the teacher afterwards. {{aap}}",
+      "If a run goes long, cut the circumstances statement, not the debrief, because the debrief is where the wants are named."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: run it twice"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "State the given circumstances in one breath.",
+      "Offer one honest 'if' without telling anyone what to feel.",
+      "Let them act for several minutes without stopping.",
+      "Ask each person what they did and what they wanted.",
+      "Repeat the next day with a new circumstance and compare."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Run exercise 1 with at least two people for fifteen minutes. Write down three wants you heard. Repeat it the next day with one new circumstance and compare."
+    },
+    {
+     "t": "check",
+     "q": "Why does the 'if' work, according to the book?",
+     "o": [
+      "It makes people believe a lie",
+      "It is an honest supposition that starts action",
+      "It copies earlier rehearsals",
+      "It removes the author"
+     ],
+     "a": 1,
+     "w": "The teacher stresses it admits it is only a supposition and uses no fear or force. {{aap}}"
+    },
+    {
+     "t": "check",
+     "q": "What did the teacher do in the farmer exercise?",
+     "o": [
+      "Agreed with the student",
+      "Argued the defence until the student weakened",
+      "Cut the scene",
+      "Told the student to play it for laughs"
+     ],
+     "a": 1,
+     "w": "He used every argument to justify the defendant until the student weakened. {{aap}}"
+    },
+    {
+     "t": "check",
+     "q": "What went wrong when the class repeated the madman exercise?",
+     "o": [
+      "They forgot the lines",
+      "They copied the outer form and lost the inner cause",
+      "They were bored of the door",
+      "The teacher changed the rules"
+     ],
+     "a": 1,
+     "w": "They repeated a successful rehearsal instead of re-creating the inner experience. {{aap}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Offer an honest 'if', then watch what people do. {{aap}}",
+      "Argue the other side to find the character's push. {{aap}}",
+      "Never ask for a copy of last night. {{aap}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did the teacher in An Actor Prepares say about the word 'if'?",
+    "o": [
+     "It tells actors what to feel",
+     "It admits a supposition and sets the actor in motion",
+     "It is banned",
+     "It replaces the text"
+    ],
+    "a": 1,
+    "w": "He says it admits it is only a supposition, and acts as a lever into imagination. {{aap}}"
+   }
+  },
+  {
+   "key": "directing-3",
+   "name": "Konstantin Stanislavski",
+   "min": 30,
+   "outcome": "Build a character's unbroken line backward from the scene's first moment and join it to the through-line and super-objective.",
+   "intro": "Stanislavski said an actor has no real line until the pieces join. The book gives the 'day backwards' exercise for building each actor's line, and a chapter that shows how all the small objectives should pull toward one super-objective.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read An Actor Prepares in full text, including the chapters on the unbroken line and the super-objective. It is an invented teaching story, not an evidence-based study, and Tortsov's lessons are Stanislavski's method in story form. {{aap}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Begin with the problem. The teacher asks what each student would do after the first reading of a play: act, think into the part, go off and try to feel it, start from the suppositions, or divide the play into small units. He answers that you must read the play many times and follow the steps the author took. {{aap}}",
+      "Explain the line. He shows that disconnected movements are not a dance, and that in every art we must have an unbroken line. When the line emerges as a whole, he says, creative work has begun. {{aap}}",
+      "Allow for breaks. He concedes that in healthy people there must be interruptions, but during the breaks a person continues to exist, so a line of some sort continues. The normal line is one with necessary interruptions. {{aap}}",
+      "Build it backwards. He asks a student what he did that day, and advises going backwards from the present, because it is easier. The student recalls changing clothes, before that fencing and gymnastics, a cigarette, a singing lesson, and waking up. The short lines are then run forwards and backwards to fix them. {{aap}}",
+      "Extend it forwards. He asks the student to take the rest of the day, because intentions and prospects also have movement, and joins the two into one line from waking to night. {{aap}}",
+      "Join it to the super-objective. All the small objectives and thoughts of the actor should converge to carry out the super-objective, and any detail not related to it will stand out as superfluous or wrong. {{aap}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "The impetus toward the super-objective must be continuous through the whole play. In a play without genius the actor has to point up the super-objective himself, and the name he gives it matters: a verb gives more impetus. {{aap}}"
+    },
+    {
+     "t": "p",
+     "x": "His example is Woe from Wit. 'I wish to strive for Sophy' makes the social theme episodic. 'I wish to struggle for my country' brings forward Chatsky's love of country and the indictment of society, and 'I wish to struggle for freedom' deepens it further. Choosing the name changes the production. {{aap}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The book is an invented teaching story, and the actress account in it is told by the teacher and is not independently checked. Use the exercise as a rehearsal tool, and judge it by whether your actors find it useful. {{aap}}"
+    },
+    {
+     "t": "table",
+     "title": "The line, the exercises and the super-objective (the right column is our adaptation)",
+     "head": [
+      "Idea in the book",
+      "What the teacher says",
+      "Use in rehearsal"
+     ],
+     "rows": [
+      [
+       "The unbroken line",
+       "Needed in every art; the role lives by it",
+       "Ask what the character did just before the scene"
+      ],
+      [
+       "Short lines",
+       "Episodes like changing clothes or a lesson join into a line",
+       "Group the recalled actions into three to five short lines"
+      ],
+      [
+       "Backwards, then forwards",
+       "Easier to recall backwards; extend into the future",
+       "Run the day backward, then forward from the scene"
+      ],
+      [
+       "Super-objective",
+       "All objectives converge; unrelated detail looks wrong",
+       "Name it as a verb and test each unit against it"
+      ],
+      [
+       "Choice of name",
+       "The name changes the emphasis of the play",
+       "Try three names and see which unit changes"
+      ]
+     ],
+     "src": "The first two columns follow the book. The last column is our adaptation. {{aap}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: Dee's day backwards (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Building the line",
+     "steps": [
+      "Scene start: Dee sits down with the unopened letter.",
+      "Just before: she walked down the corridor, counting the doors.",
+      "Before that: she signed the form at the desk, and her hand shook.",
+      "Before that: she sat in the car park for ten minutes.",
+      "Before that: she woke early and rehearsed the call she would make if the result was bad.",
+      "Line: Dee has spent the morning rehearsing control. The super-objective is 'to stay in charge of how my life changes', so 'delay' and 'send away' now have roots."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: three names for one super-objective (illustrative, after the Woe from Wit example)"
+    },
+    {
+     "t": "example",
+     "title": "Name it as a verb",
+     "steps": [
+      "Try 'I wish to stay in control'. The scene reads as a woman gripping the situation.",
+      "Try 'I wish to protect Hal from my fear'. Her silence reads as care, and her sending him away reads as sacrifice.",
+      "Try 'I wish to be told it will be all right'. Her delay reads as hope.",
+      "Choose the one that explains the most of the scene without contradicting the text, as the book chooses between Sophy, country and freedom. {{aap}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: day backwards for each actor"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Pick the first moment of the scene.",
+      "Ask the actor, as the character, what they did just before it, then before that, back to waking.",
+      "Keep the answers short and physical, with a place and an object.",
+      "Group them into three to five short lines and run them forward and back.",
+      "Name the super-objective as a verb, and check each unit against it."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Ask each actor to do the day-backwards exercise for the character, in about ten minutes. Collect the three lines and check them against the super-objective you wrote in the previous lesson."
+    },
+    {
+     "t": "check",
+     "q": "Which direction does the teacher advise when recalling a day?",
+     "o": [
+      "Forward from waking up",
+      "Backward from the present",
+      "Random order",
+      "Only the end"
+     ],
+     "a": 1,
+     "w": "He advises going backwards from the present, which is easier. {{aap}}"
+    },
+    {
+     "t": "check",
+     "q": "According to the teacher, what happens to a detail unrelated to the super-objective?",
+     "o": [
+      "It improves the scene",
+      "It stands out as superfluous or wrong",
+      "It is cut automatically",
+      "It becomes the objective"
+     ],
+     "a": 1,
+     "w": "Any detail not related to the super-objective will stand out as superfluous or wrong. {{aap}}"
+    },
+    {
+     "t": "check",
+     "q": "In the Woe from Wit example, what changes when the super-objective is renamed?",
+     "o": [
+      "Nothing",
+      "Which themes come to the front of the production",
+      "The title",
+      "The length"
+     ],
+     "a": 1,
+     "w": "Different names bring forward the love story, the country or the freedom theme. {{aap}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "An actor needs a line, not only exercises. {{aap}}",
+      "Build it backwards from the first moment of the scene. {{aap}}",
+      "Name the super-objective as a verb and test every unit against it. {{aap}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What is the day-backwards exercise for?",
+    "o": [
+     "Practising memory tricks",
+     "Building an unbroken line from short lines",
+     "Learning lines",
+     "Warming the voice"
+    ],
+    "a": 1,
+    "w": "The short recalled lines join into a longer line. {{aap}}"
+   }
+  },
+  {
+   "key": "directing-4",
+   "name": "Vsevolod Meyerhold",
+   "min": 26,
+   "outcome": "Make a 60-second physical score for a unit and compare it with the version built objective-first.",
+   "intro": "Meyerhold began in Stanislavski's company and then built an actor's training from the body outward. We could not obtain his own writing, so this lesson uses encyclopaedia and secondary sources, and says where they differ.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read Britannica's biography and its entry on biomechanics, Encyclopedia.com, a Wikipedia article, a student study site and the opening extract of Mel Gordon's 1974 article in The Drama Review. We did not read Meyerhold's own writings or the 1969 collection Meyerhold on Theatre. {{brit-mey}} {{brit-bio}} {{enc-mey}} {{wiki-biomech}} {{mey-site}} {{tdr-gordon}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Place him. Meyerhold (1874 to 1940) studied at the Moscow Philharmonic school with Vladimir Nemirovich-Danchenko and joined the Moscow Art Theatre in 1898. He played Treplev in The Seagull, and left Moscow after four years. Encyclopedia.com says he later rejected Stanislavski's psychological realism, though they remained friends. {{brit-mey}} {{enc-mey}}",
+      "Define the system. Britannica describes biomechanics as an anti-realistic system of production developed in the early 1920s, drawing on commedia dell'arte, kabuki and the writings of Edward Gordon Craig. {{brit-bio}}",
+      "See how the actors were trained. They were coached as gymnasts and acrobats and emphasised movement and pantomime over words; the stage was exposed to the back wall and furnished with scaffolding, ladders and ramps. {{brit-bio}}",
+      "Note what the opposition was. Wikipedia says he felt Stanislavski's system overemphasised spirit and psychologising, while biomechanics drew on elementary laws of reflexes, and that constructivist costumes were simplified so mistakes stayed visible. {{wiki-biomech}}",
+      "Read his own remark. In the extract from Gordon's article Meyerhold says he could determine twelve or thirteen rules for the training of an actor, but when polished perhaps no more than eight would remain. Gordon adds that he put his Biomechanics class on the same level as other movement courses such as acrobatics, modern dance and eurhythmics. {{tdr-gordon}}",
+      "Try the three-part action from the student site, with care. The site describes an actor exploring the economical gesture, the biggest gesture, then scaling down, with three parts to an action, called otkaz, posyl and tochka. It is a student summary of a book we have not checked. {{mey-site}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Britannica's two entries do not agree on dates: the biography links the puppet-like staging to his 1906 Hedda Gabler, and the entry on biomechanics says it developed in the early 1920s. We treat the 1920s as the system's fuller form and 1906 as an early experiment. This is our inference. {{brit-mey}} {{brit-bio}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Do not teach acrobatics or risky movement without a qualified teacher, and keep falls and lifts out of the capstone. The sources we read describe gymnastic training, not how to do it safely. His theatre was closed on 08/01/1938 and he was arrested in 1939, so his later work was cut short. {{enc-mey}}"
+    },
+    {
+     "t": "table",
+     "title": "Where the sources agree and differ (the right column is our reading)",
+     "head": [
+      "Question",
+      "What the sources say",
+      "Our reading"
+     ],
+     "rows": [
+      [
+       "When did biomechanics begin?",
+       "Biography: linked to the 1906 Hedda Gabler; entry: early 1920s",
+       "An early experiment in 1906, the full system in the 1920s"
+      ],
+      [
+       "Role of the actor's personality",
+       "Mechanistic, puppet-like; subordinated to the director's will",
+       "Treat as a staging style, not a claim about all acting"
+      ],
+      [
+       "Relation to Stanislavski",
+       "Rejected psychological realism but stayed a friend; opposed the stress on spirit",
+       "Compare, do not choose: use both in rehearsal"
+      ],
+      [
+       "How central was the class?",
+       "Rated level with acrobatics, dance and eurhythmics at his workshop",
+       "One part of a training, not the whole"
+      ]
+     ],
+     "src": "The first two columns follow the sources. The last column is our adaptation. {{brit-mey}} {{brit-bio}} {{enc-mey}} {{wiki-biomech}} {{tdr-gordon}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a physical score for the unit 'send away' (illustrative, our adaptation)"
+    },
+    {
+     "t": "example",
+     "title": "A 60-second score",
+     "steps": [
+      "Set the objective aside. Give the actor three beats: a preparing move (draw back), the main action (reach toward the door), and a finish (hold the arm and stop).",
+      "Count a steady rhythm of four, and play the three beats on counts 1, 3 and 4.",
+      "Run it silently for sixty seconds, then add the words.",
+      "Compare it with the objective-first version. Note where the body found a choice the thought did not."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: how many repeats in a minute (our arithmetic)"
+    },
+    {
+     "t": "example",
+     "title": "Timing the score",
+     "steps": [
+      "A count of four at one count per second is a four-second bar. In sixty seconds that is 60 ÷ 4 = 15 bars.",
+      "If the score is one bar long, the actor repeats it 15 times. Vary one thing each pass, such as the size: small, large, small again, as the student site describes. {{mey-site}}",
+      "Use the repeat count to compare two versions on equal footing: same score, same minute, one with the objective-first approach and one without."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: score, compare, record"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Pick one unit of the scene.",
+      "Design three beats and a steady count.",
+      "Run it silent, then with words, then in the objective-first way.",
+      "Record what changed in the body and the voice.",
+      "Keep the movement safe and supervised."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Make a sixty-second physical score of one unit. Run it silent, with words, and in the objective-first way. Record what changed."
+    },
+    {
+     "t": "check",
+     "q": "What did Britannica say biomechanics emphasised?",
+     "o": [
+      "Long speeches",
+      "Movement and pantomime over words",
+      "Realistic scenery",
+      "Emotion memory"
+     ],
+     "a": 1,
+     "w": "The actors were coached as gymnasts and acrobats and emphasised pantomime over words. {{brit-bio}}"
+    },
+    {
+     "t": "check",
+     "q": "In what year did Meyerhold join the Moscow Art Theatre, per Britannica?",
+     "o": [
+      "1898",
+      "1922",
+      "1906",
+      "1938"
+     ],
+     "a": 0,
+     "w": "He joined in 1898, two years after starting at the school in 1896. {{brit-mey}}"
+    },
+    {
+     "t": "check",
+     "q": "What did Meyerhold say about his rules for training an actor, in Gordon's extract?",
+     "o": [
+      "He had none",
+      "He found twelve or thirteen and would leave perhaps eight",
+      "He found a hundred",
+      "He copied Stanislavski's"
+     ],
+     "a": 1,
+     "w": "He said he determined twelve or thirteen rules and would leave perhaps no more than eight. {{tdr-gordon}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "The body can find a choice that the thought misses. {{brit-bio}}",
+      "Sources differ on dates; say what you used. {{brit-mey}} {{brit-bio}}",
+      "Keep movement safe and supervised."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did Meyerhold's biomechanics draw on?",
+    "o": [
+     "Only realism",
+     "Commedia dell'arte, kabuki and Craig's writings",
+     "Cinema editing",
+     "Classroom lectures"
+    ],
+    "a": 1,
+    "w": "Britannica lists those influences. {{brit-bio}}"
+   }
+  },
+  {
+   "key": "directing-5",
+   "name": "Sergei Eisenstein",
+   "min": 28,
+   "outcome": "Cut a short sequence three ways, metric, rhythmic and tonal, and explain how a collision of shots makes an idea.",
+   "intro": "Eisenstein came to film from the theatre and treated editing as the clash of images. We could not obtain his essays, so this lesson uses Britannica, a film textbook and secondary accounts of his five methods, and says where they differ.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read Britannica's biography, the film textbook's discussion of the Odessa Steps, a study guide on Eisenstein and a Wikipedia article on Soviet montage theory. We did not read Film Form or Eisenstein's essays, which are in copyright and were not available. {{brit-eis}} {{cwc}} {{media-eis}} {{wiki-montage}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Place him. Eisenstein (1898 to 1948) was born in Riga and entered the Proletkult Theatre in Moscow in 1920 as an assistant decorator. He developed an interest in kabuki, and made a short film for a stage production in 1923. {{brit-eis}}",
+      "Start from attractions. His first article on editing proposed a montage of attractions, in which chosen images are presented for maximum psychological impact. Wikipedia dates the essays to 1923 and 1924 and describes an attraction as an element that reliably affects an audience's attention and emotions. {{brit-eis}} {{wiki-montage}}",
+      "Define montage as collision. A secondary account says he saw montage as an idea arising from the collision of two independent shots, not from shots stuck together, and Wikipedia reports that he called montage 'the nerve of cinema' and contrasts it with Pudovkin's building by addition. {{media-eis}} {{wiki-montage}}",
+      "Cut by length. In metric montage shots are cut to a set number of frames regardless of content, like a beat; Wikipedia says he favoured simple ratios such as 3:4, 2:4 and 1:4, and cites October. {{wiki-montage}}",
+      "Cut by movement, then by tone. Rhythmic montage lets the movement inside the shot matter as much as length, with the Odessa Steps as the example; tonal montage uses the emotional meaning of shots, as after the death of the sailor Vakulinchuk in Potemkin. {{wiki-montage}}",
+      "Cut for an idea. Overtonal montage combines the earlier three, and intellectual montage juxtaposes a few rich images to create a concept in no single shot: in Strike, workers being attacked are cut with a bull being slaughtered. He drew on Chinese and Japanese characters, where eye and water together mean crying. {{wiki-montage}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "The film textbook says the Odessa Steps was built to create an emotional effect and not to give clear geography: it cuts violence against innocence, repeats images and holds some while flashing others. Battleship Potemkin (1925) was commissioned to mark the 1905 revolution. {{cwc}} {{brit-eis}}"
+    },
+    {
+     "t": "p",
+     "x": "Wikipedia notes that Kuleshov's famous experiment, the same neutral face set beside soup, a coffin and a woman, has been challenged by later scholars as unscientific. {{wiki-montage}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The sources define the higher methods differently. Wikipedia says overtonal combines metric, rhythmic and tonal; a study guide speaks of the collective calculation of all the piece's appeals; another account calls it resonance beyond a single tone. We use the simplest reading and mark it as ours. {{wiki-montage}} {{media-eis}}"
+    },
+    {
+     "t": "table",
+     "title": "Eisenstein's five methods, as the secondary accounts describe them (the last column is our adaptation)",
+     "head": [
+      "Method",
+      "What decides the cut",
+      "Cut this on your sequence"
+     ],
+     "rows": [
+      [
+       "Metric",
+       "Shot lengths set to a regular beat",
+       "Every shot three seconds"
+      ],
+      [
+       "Rhythmic",
+       "The movement and content inside the shot, as well as length",
+       "Lengthen the shot with movement; shorten the still one"
+      ],
+      [
+       "Tonal",
+       "The emotional tone of the shots, such as light or haze",
+       "Cut cool and dim to warm and bright"
+      ],
+      [
+       "Overtonal",
+       "A combination of the earlier methods, or the collective calculation of all appeals",
+       "Use only after the first three work"
+      ],
+      [
+       "Intellectual",
+       "An idea formed in the viewer's thinking by the collision",
+       "Cut the envelope against an image that carries an idea"
+      ]
+     ],
+     "src": "The first two columns follow the sources. The last column is our adaptation. {{wiki-montage}} {{media-eis}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: cutting the letter sequence three ways (illustrative, our application)"
+    },
+    {
+     "t": "example",
+     "title": "Four shots, three cuts",
+     "steps": [
+      "Material: four shots of the waiting room: the clock, Dee's hands, the door, the envelope.",
+      "Metric: cut every three seconds regardless of content. The effect is steady, like a pulse.",
+      "Rhythmic: lengthen the shot of the clock and shorten the shot of the door so the movement inside the shots drives the cut.",
+      "Tonal: cut from a cool, dim shot of the door to a warm shot of the envelope to carry a change of feeling.",
+      "Watch all three. Say which one makes the viewer feel the waiting."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: metric ratios (the ratios are from Wikipedia, the frame counts are our arithmetic)"
+    },
+    {
+     "t": "example",
+     "title": "Beats in frames",
+     "steps": [
+      "At 24 frames a second, a 3:4 pattern could alternate shots of 24 and 32 frames, which is 1 second and 1⅓ seconds.",
+      "A 2:4 pattern could alternate 24 and 48 frames, which is 1 and 2 seconds. A 1:4 pattern could alternate 12 and 48, which is half a second and 2 seconds. {{wiki-montage}}",
+      "Cut the same four shots with each pattern and note which one feels like a heartbeat and which like a shudder.",
+      "The frame lengths are an illustration of the ratios, not Eisenstein's own figures."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: three cuts and an idea"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Choose four shots from your own footage.",
+      "Cut them metric, rhythmic and tonal.",
+      "Watch with a friend and ask what each version felt like.",
+      "Try one collision of two shots to make an idea, such as the waiting against a held breath.",
+      "Write what idea the collision made and whether it was yours or the viewer's."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Cut four shots three ways (metric, rhythmic, tonal) and write what each version made the viewer feel."
+    },
+    {
+     "t": "check",
+     "q": "Which of these is one of Eisenstein's five methods of montage?",
+     "o": [
+      "Metric",
+      "Linear",
+      "Static",
+      "Verbal"
+     ],
+     "a": 0,
+     "w": "The five are metric, rhythmic, tonal, overtonal and intellectual. {{wiki-montage}} {{media-eis}}"
+    },
+    {
+     "t": "check",
+     "q": "What was the Odessa Steps sequence built to do, per the textbook?",
+     "o": [
+      "Show clear geography",
+      "Create an emotional effect",
+      "Explain the plot",
+      "Show the harbour"
+     ],
+     "a": 1,
+     "w": "It was built to create an emotional effect and not to give clear geography. {{cwc}}"
+    },
+    {
+     "t": "check",
+     "q": "What did the Strike example of intellectual montage cut together?",
+     "o": [
+      "Soldiers and flags",
+      "Workers being attacked and a bull being slaughtered",
+      "A clock and a door",
+      "Rain and a window"
+     ],
+     "a": 1,
+     "w": "Wikipedia gives shots of workers being attacked cut with a bull being slaughtered. {{wiki-montage}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "A cut can make an idea from the collision of two shots. {{media-eis}}",
+      "Try metric, rhythmic and tonal on the same shots.",
+      "Secondary sources define the higher methods differently, so say which you used."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Which of these is one of Eisenstein's five methods of montage?",
+    "o": [
+     "Metric",
+     "Linear",
+     "Static",
+     "Verbal"
+    ],
+    "a": 0,
+    "w": "The five are metric, rhythmic, tonal, overtonal and intellectual. {{wiki-montage}} {{media-eis}}"
+   }
+  },
+  {
+   "key": "directing-6",
+   "name": "Peter Brook",
+   "min": 26,
+   "outcome": "Test a production plan by stripping it to the empty space and adding back only what the story needs.",
+   "intro": "Brook began from a bare space and a watching audience. We could not read The Empty Space, so this lesson uses Britannica, Wikipedia and the Royal Shakespeare Company's page on the 1970 Dream, and says so.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read Britannica's biography, the first 100,000 characters of a Wikipedia biography, a Wikipedia entry on The Empty Space and the RSC's page on the 1970 Dream. We did not read The Empty Space, which is in copyright. {{brit-brook}} {{wiki-brook}} {{wiki-empty}} {{rsc-dream}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Place him. Brook (1925 to 2022) directed his first Shakespeare in 1945 and became known for Marat/Sade (1964) and The Mahabharata (1985). In 1968 he published The Empty Space. {{brit-brook}}",
+      "Know the book's frame. It came from four lectures and examines four modes: Deadly, Holy, Rough and Immediate. Brook defined an empty space as any space in which theatre takes place. We have not read it, so use the names as a guide to what to look up. {{wiki-empty}}",
+      "Strip the set. In 1970 Brook staged A Midsummer Night's Dream at the RSC. The RSC says the designer Sally Jacobs built a brilliantly lit white box in place of the usual pretty forest. {{rsc-dream}}",
+      "Replace scenery with skill. The actors wore bright silks and performed circus skills such as plate-spinning and trapeze-swinging. {{rsc-dream}}",
+      "Find one idea. Oberon and Theseus were played by one actor, and Titania and Hippolyta by one, to suggest the wood was the eruption of buried fears and desires. {{rsc-dream}}",
+      "Know the lineage and the later road. The RSC adds that Brook took up the baton from Granville-Barker, who staged the play with minimal scenery almost sixty years earlier. Wikipedia says Brook won a Tony for Best Direction of a Play for the production, set up the International Centre for Theatre Research with Micheline Rozan in 1971, and has been based at the Bouffes du Nord in Paris since 1974. {{rsc-dream}} {{wiki-brook}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Wikipedia reports that the Mahabharata (first performed 1985) was acclaimed, and that post-colonial scholars criticised its claim to universalism. Treat the claim of a universal theatre with that criticism in mind. {{wiki-brook}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The 1970 Dream is described here from the RSC's and Wikipedia's pages, not from reviews or the production's own papers. The stripping test is our design, built from the empty-space idea and the staging. {{rsc-dream}} {{wiki-empty}}"
+    },
+    {
+     "t": "table",
+     "title": "The stripping test (the right column is our adaptation)",
+     "head": [
+      "Step",
+      "Question",
+      "What the 1970 Dream did"
+     ],
+     "rows": [
+      [
+       "1",
+       "Take away the set, the costumes and the music. Does the scene still play with two actors and a bare floor?",
+       "Replaced the forest with a white box"
+      ],
+      [
+       "2",
+       "Add back one thing at a time. What does it give the audience that the actors cannot?",
+       "Added silks and circus skills"
+      ],
+      [
+       "3",
+       "If you cannot say what it gives, leave it out.",
+       "Kept only what served the idea"
+      ],
+      [
+       "4",
+       "Find one idea that the whole staging serves.",
+       "Doubling the court and the fairy rulers"
+      ]
+     ],
+     "src": "The questions are our test. The last column follows the RSC page. {{rsc-dream}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: stripping the waiting room (illustrative, our application)"
+    },
+    {
+     "t": "example",
+     "title": "Add back one thing at a time",
+     "steps": [
+      "Start with two actors and a bare floor. Dee holds the letter. Hal stands at a distance. The nurse enters.",
+      "Add one chair. Does it help Dee delay? Yes, she can sit and stand, so keep it.",
+      "Add a window. Does it do anything the actors cannot? No, so leave it out.",
+      "Idea: double the nurse and Hal with one actor, so the person who stays and the person who tells are the same. This borrows the Dream's doubling and is our idea."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a ledger of what you added (invented)"
+    },
+    {
+     "t": "example",
+     "title": "Count what survived",
+     "steps": [
+      "Suppose your first plan has ten elements: set, five props, two costume pieces, music and a light change.",
+      "After the stripping test you keep one chair, one costume piece and the light change: 3 of 10, or 30%.",
+      "Write the reason beside each element you kept. The elements you cut are not lost; they may return if the story asks for them."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: strip and add back"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "List every element of your design.",
+      "Strip to two actors and a bare floor and run the scene.",
+      "Add back one element at a time and say what it gives.",
+      "Keep only what you can justify.",
+      "State the one idea your staging serves."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Strip your production plan to a bare floor, add back only what the story needs, and write the one idea your staging serves."
+    },
+    {
+     "t": "check",
+     "q": "What did Brook's 1970 Dream use in place of a forest set?",
+     "o": [
+      "A white box with circus skills",
+      "Real trees",
+      "Video",
+      "A painted curtain"
+     ],
+     "a": 0,
+     "w": "The RSC says Sally Jacobs built a brilliantly lit white box in place of the usual pretty forest. {{rsc-dream}}"
+    },
+    {
+     "t": "check",
+     "q": "Which actors were doubled in the RSC's account?",
+     "o": [
+      "Puck and Bottom",
+      "Oberon with Theseus, and Titania with Hippolyta",
+      "Lysander and Demetrius",
+      "None"
+     ],
+     "a": 1,
+     "w": "Oberon and Theseus were played by one actor and Titania and Hippolyta by one. {{rsc-dream}}"
+    },
+    {
+     "t": "check",
+     "q": "How many elements survive if you keep 3 of 10?",
+     "o": [
+      "10%",
+      "30%",
+      "50%",
+      "70%"
+     ],
+     "a": 1,
+     "w": "3 ÷ 10 = 30%."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Strip to the empty space and add back only what the story needs. {{rsc-dream}}",
+      "One strong idea can serve the whole staging. {{rsc-dream}}",
+      "Say which source you used for a claim about a production."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did Brook's 1970 Dream use in place of a forest set?",
+    "o": [
+     "A white box with circus skills",
+     "Real trees",
+     "Video",
+     "A painted curtain"
+    ],
+    "a": 0,
+    "w": "The RSC says Sally Jacobs built a brilliantly lit white box in place of the usual pretty forest. {{rsc-dream}}"
+   }
+  },
+  {
+   "key": "directing-cap",
+   "name": "Konstantin Stanislavski",
+   "min": 28,
+   "outcome": "Use Stanislavski's tests as the review for a staged and filmed scene, and write what to keep and what to fix.",
+   "intro": "The teacher in An Actor Prepares gives nine tests for a right objective and three types of objective. They make a rubric for the capstone review.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read the chapter on units and objectives in full text, including the nine tests, the three types of objective, and the passage on why an objective must be a verb. It is a teaching narrative, so the tests are Stanislavski's through the teacher. {{aap}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Aim it at the partner. Objectives must be on our side of the footlights, directed toward the other actors and not toward the spectators. {{aap}}",
+      "Make it personal and analogous. It should be personal yet analogous to the character's, and creative and artistic. {{aap}}",
+      "Make it real and truthful. It should be real, live and human, not dead, conventional or theatrical, and truthful so that the actor, the partner and the audience can believe in it. {{aap}}",
+      "Make it attractive and clear. It should attract and move the actor, and be clear cut and typical of the role, with no vagueness. {{aap}}",
+      "Give it value and activity. It should have value and content, not skim the surface, and be active to push the role ahead. {{aap}}",
+      "Make it a verb. The objective must always be a verb, because a noun such as 'a mother's love' leads an actor to illustrate the idea, while a verb holds the germ of action. {{aap}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "The teacher warns against a dangerous purely motor form of objective that leads to mechanical performance, and names three types: the external or physical, the inner or psychological, and the rudimentary psychological. His example: nodding and shaking hands mechanically, shaking hands to express respect, and the hard case of offering a hand to someone you insulted yesterday. {{aap}}"
+    },
+    {
+     "t": "p",
+     "x": "Britannica records that he repeated the test 'I do not believe you' in rehearsal. In your review, watch the recording for moments that look copied from the rehearsal and not freshly lived. {{brit-stan}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "This is our application of his tests to a recording. He wrote them about live rehearsal, and a recording or a camera may need different checks. {{aap}}"
+    },
+    {
+     "t": "table",
+     "title": "A capstone review using the nine tests (the right column is our adaptation)",
+     "head": [
+      "Test in the book",
+      "Source",
+      "Question for your recording"
+     ],
+     "rows": [
+      [
+       "Directed to the other actors, not the spectators",
+       "Test 1",
+       "Did the actors play to each other and not to the camera or the audience?"
+      ],
+      [
+       "Personal yet analogous to the character",
+       "Test 2",
+       "Did the want feel like the actor's own and the character's?"
+      ],
+      [
+       "Real, live and human",
+       "Test 4",
+       "Did I believe the want, the relationship and the world?"
+      ],
+      [
+       "Truthful and believable",
+       "Test 5",
+       "Did I believe the want?"
+      ],
+      [
+       "Clear cut and typical of the role",
+       "Test 7",
+       "Could a viewer name each want without being told?"
+      ],
+      [
+       "Active",
+       "Test 9",
+       "Was each want a verb the actor did, not a feeling they showed?"
+      ],
+      [
+       "On the super-objective",
+       "Chapter XV",
+       "Did each unit serve the through-line and super-objective?"
+      ]
+     ],
+     "src": "The first two columns follow the book. The last column is our adaptation. {{aap}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a review note (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Marking the recording",
+     "steps": [
+      "Watch the stage version once with the sound on.",
+      "Mark each time you stopped believing. Note the unit and the actor's want.",
+      "Find the pattern. If the same unit appears three times, the objective is probably weak or the tactic is repeated.",
+      "Write one fix for that unit, rehearse it, and record again."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: scoring a unit against the nine tests (invented scores)"
+    },
+    {
+     "t": "example",
+     "title": "A tally",
+     "steps": [
+      "Score each test 0 or 1 for the unit 'send away': aimed at the partner 1, personal 1, creative 1, real 1, truthful 1, attractive 0, clear 1, valuable 0, active 1.",
+      "The total is 7 of 9, or 78%. The two zeros show where to work: the want does not attract the actor, and it skims the surface.",
+      "Write a fix for each zero, such as renaming the objective as a stronger verb, and score the next run. {{aap}}",
+      "Two fixes and one thing to keep is the review format of this course; the scores are only a way to find them."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: the review"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Watch your recording and mark each moment you did not believe.",
+      "Group the marks by unit.",
+      "Score each unit against the tests.",
+      "Write one fix per group of marks and one thing to keep.",
+      "Rehearse the fixes and record again."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Watch your recording and mark each moment you did not believe. Group them by unit and write one fix per group."
+    },
+    {
+     "t": "check",
+     "q": "Where should an objective be aimed, according to the book?",
+     "o": [
+      "At the audience",
+      "At the other actors",
+      "At the camera operator",
+      "At the prompter"
+     ],
+     "a": 1,
+     "w": "The objectives must be directed toward the other actors, not the spectators. {{aap}}"
+    },
+    {
+     "t": "check",
+     "q": "What part of speech must an objective be, according to the teacher?",
+     "o": [
+      "A noun",
+      "A verb",
+      "An adjective",
+      "A name"
+     ],
+     "a": 1,
+     "w": "The objective must always be a verb, so it carries the germ of action. {{aap}}"
+    },
+    {
+     "t": "check",
+     "q": "In the invented scoring, 7 of 9 tests met is about what percentage?",
+     "o": [
+      "66%",
+      "70%",
+      "78%",
+      "88%"
+     ],
+     "a": 2,
+     "w": "7 ÷ 9 = 0.78."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Use the tests as a rubric for the review. {{aap}}",
+      "Mark every moment you did not believe, then group them by unit.",
+      "Write fixes you can try in the next rehearsal."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Which of these is one of Stanislavski's tests for an objective?",
+    "o": [
+     "It is aimed at the partner",
+     "It is aimed at the audience",
+     "It is vague",
+     "It is a result"
+    ],
+    "a": 0,
+    "w": "The objective is directed toward the other actors, not the spectators. {{aap}}"
+   }
+  }
+ ]
+}

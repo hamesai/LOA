@@ -26,6 +26,8 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   }
  ],
  "myths": [
+  ["The Berlin Conference carved up Africa.","It set ground rules and recognised Leopold's Congo claim; borders came from later bilateral treaties."],
+  ["The Congo death toll is exactly 10 million.","It is Hochschild's reckoning from a halving of an uncounted base, and other books give other figures."],
   [
    "Africa was conquered because Africans lacked guns.",
    "Many African states had guns. Conquest also involved African soldiers, allies, disease, finance and diplomacy."
@@ -158,6 +160,8 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   }
  ],
  "myths": [
+  ["Garvey's UNIA had millions of paying members.","The numbers are Garvey's own claims and cannot be verified."],
+  ["Africa for the Africans meant self-rule by existing African peoples.","In his open letter of 18/04/1922 it meant a nation built in Africa by the worldwide diaspora."],
   [
    "The Willie Lynch letter is an authentic 1712 speech.",
    "It is a modern hoax: no provenance, anachronistic words and no corroboration. Real evidence on slaveholder tactics exists elsewhere."
@@ -324,6 +328,8 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   }
  ],
  "myths": [
+  ["Apartheid appeared from nothing in 1948.","It built on earlier segregation such as the 1913 and 1936 land acts, and its 1948 election win was by five seats on a minority of votes."],
+  ["The Soweto toll was 176.","Welsh gives the Cillie figure as 575 countrywide to 02/1977, probably an undercount."],
   [
    "Apartheid was just a social custom.",
    "It was a legal and political system built from many laws."
@@ -407,6 +413,7 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   }
  ],
  "myths": [
+  ["Poverty in Africa rose from 11 to 66 per cent under aid.","Moyo's figure is untraceable and contested; do not use it as a measured fact."],
   [
    "The Biafran War was just tribal hatred.",
    "It followed coups, massacres and a blockade; the causes were political and economic as well."
@@ -490,6 +497,7 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   }
  ],
  "myths": [
+  ["Rwandan identity cards began in 1926.","Sources differ; most historians date ethnic cards to the 1930s."],
   [
    "The AU is a government.",
    "It is an association of states with limited enforcement."

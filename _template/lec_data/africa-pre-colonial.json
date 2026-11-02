@@ -1,0 +1,1213 @@
+{
+ "refs": {},
+ "modules": [
+  {
+   "key": "africa-pre-colonial-1",
+   "name": "Jan Vansina",
+   "min": 24,
+   "outcome": "Decide whether a spoken tradition can be used as a source, and mark what it can and cannot tell you.",
+   "intro": "Vansina (1929 to 2017) was a Belgian historian of Central Africa who made oral tradition a respectable historical source. His method asks what the tradition is, who carried it, and what pressures shaped it.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read encyclopaedic pages in excerpt form on 30/10/2026, not his own work. Wikipedia gives his dates and says he was a major innovator in the historical methodology of oral tradition, and that David Beach judged his 1985 Oral Tradition as History to have made nearly all earlier frameworks obsolete. {{wiki-vansina}} The Oral tradition page reports his working definition and the 1960s debate he started. {{wiki-oral}}"
+    },
+    {
+     "t": "p",
+     "x": "Confidence in this dossier: partial. His own books were not read, so the method below is the encyclopaedic summary plus the working library's account of his advice. {{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Check the definition. A message counts as oral tradition if it is spoken, sung or played on an instrument and passed on by word of mouth over at least a generation. {{wiki-oral}}",
+      "Treat reverence for speech as a fact about the society. Vansina compares the attitude of an oral society to speech with a literate society's reverence for the written word. {{wiki-oral}}",
+      "Look for compressed genealogies and the floating gap between the founding past and recent memory. {{lib}}",
+      "Ask who tells it and why now, because tellers shape accounts for present politics. {{lib}}",
+      "Collect by fieldwork where you can. Historians who gathered traditions in person broke from the habit of working only in archives and libraries. {{wiki-oral}}"
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Vansina's questions applied to the Sundiata epic (the left column follows the sources; the right column is our application)",
+     "head": [
+      "Question",
+      "Source in his work",
+      "Application to the epic"
+     ],
+     "rows": [
+      [
+       "Is it oral tradition by definition?",
+       "Working definition",
+       "Spoken or sung, passed on by a griot over generations"
+      ],
+      [
+       "Who carries it?",
+       "Griots as hereditary specialists",
+       "Mamadou Kouyaté, recorded by Niane"
+      ],
+      [
+       "What is the floating gap?",
+       "Library summary",
+       "Between the founding past and recent memory"
+      ],
+      [
+       "Whose present politics shape it?",
+       "Library summary",
+       "Mande rulers and the griot families"
+      ],
+      [
+       "Can the date be trusted?",
+       "Library summary",
+       "c. 1235 is a traditional date"
+      ]
+     ],
+     "src": "{{wiki-oral}} {{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a date from a griot (our application)"
+    },
+    {
+     "t": "example",
+     "title": "Test c. 1235 for Kirina",
+     "steps": [
+      "The epic names Sundiata's victory over Sumanguru at Kirina. It is oral tradition by Vansina's definition.",
+      "A founding date sits in the part of the past furthest from living memory, so it is the least certain part (our inference).",
+      "Verdict: keep the story, tag the date as traditional, and look for a second kind of evidence before calling it firm. {{lib}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: test one tradition"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write down a tradition you know.",
+      "Check it against the working definition.",
+      "Name who carried it and who benefits from it.",
+      "Find the floating gap.",
+      "Tag any date it gives."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Pick one oral tradition from this module. State the definition test, the carrier, the floating gap and a tag for its date."
+    },
+    {
+     "t": "check",
+     "q": "What does the working definition of oral tradition require?",
+     "o": [
+      "A written copy",
+      "Word-of-mouth transmission over at least one generation",
+      "A king as author",
+      "A date"
+     ],
+     "a": 1,
+     "w": "That is the definition reported from his 1985 book. {{wiki-oral}}"
+    },
+    {
+     "t": "check",
+     "q": "Why should a date from a founding tradition be tagged traditional?",
+     "o": [
+      "Griots are unreliable",
+      "Details thin in the floating gap and tellers shape the past",
+      "Oral tradition has no dates",
+      "Writing is always better"
+     ],
+     "a": 1,
+     "w": "The library lists the floating gap and present politics as the cautions. {{lib}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Use the definition, then ask who carried the tradition and why it is told now. {{wiki-oral}}",
+      "Mark the floating gap and tag the dates.",
+      "Look for a second kind of evidence."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Which historian is credited with making oral tradition a rigorous historical source?",
+    "o": [
+     "Jan Vansina",
+     "Walter Rodney",
+     "Ivor Wilks",
+     "Julian Cobbing"
+    ],
+    "a": 0,
+    "w": "He and his students developed a rigorous approach in the 1960s. {{wiki-oral}}"
+   }
+  },
+  {
+   "key": "africa-pre-colonial-2",
+   "name": "Ibn Khaldun",
+   "min": 22,
+   "outcome": "Test a ruler's story against how groups and dynasties actually work, before you accept it.",
+   "intro": "Ibn Khaldun (1332 to 1406) lived between the Maghrib and Cairo and wrote a famous introduction to history. Here we borrow one idea of his, group solidarity, to question a ruler's account.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read encyclopaedic pages in excerpt form on 30/10/2026, not his own work. Wikipedia says his Muqaddimah introduced the idea of asabiya (group feeling or solidarity), stresses the human capacity to think and to cooperate in a division of labour, and that his historical method had few precedents or followers in his own time. {{wiki-khaldun}}"
+    },
+    {
+     "t": "p",
+     "x": "Confidence: partial. We did not read the Muqaddimah. Our application to Ethiopian sources below is our own inference, not his words."
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Ask what holds the group together. For Ibn Khaldun the key word is asabiya. {{wiki-khaldun}}",
+      "Ask how people cooperate. He argues that no individual can supply all his needs and that people cooperate to do so. {{wiki-khaldun}}",
+      "Ask whether the story fits that picture. A dynasty that claims divine descent but shows no organised group behind it should raise questions (our application).",
+      "Ask who wrote it. His own career as a judge and adviser to rulers suggests that writers of history can serve patrons (our inference). {{wiki-khaldun}}"
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Applying his questions to the Solomonic claim of 1270 (our application)",
+     "head": [
+      "Question",
+      "Answer from the working library"
+     ],
+     "rows": [
+      [
+       "What group stood behind Yekuno Amlak?",
+       "The library does not say; flag a gap"
+      ],
+      [
+       "Who wrote the claim of descent?",
+       "The Kebra Nagast, compiled in Ge'ez in the 14th century"
+      ],
+      [
+       "Whom did it serve?",
+       "The Solomonic line"
+      ],
+      [
+       "Verdict",
+       "A political legitimising story, not a checkable genealogy"
+      ]
+     ],
+     "src": "{{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: plausibility test (our application)"
+    },
+    {
+     "t": "example",
+     "title": "Would a pedigree like this be written after the event?",
+     "steps": [
+      "The dynasty began in 1270 and the text was compiled in the 14th century, so it was written after the change of power.",
+      "A text written after the event, by those who benefited, is better evidence of the winners' image than of the past.",
+      "Verdict: use it as evidence of legitimation, as the library does. {{lib}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a legitimacy check"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Name the dynasty and the date it began.",
+      "Name the text that justifies it and the date it was written.",
+      "Ask who benefited.",
+      "State what the text can and cannot prove."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write a four-line legitimacy check for one ruler's claim in this module."
+    },
+    {
+     "t": "check",
+     "q": "What does asabiya mean in the Muqaddimah?",
+     "o": [
+      "Trade",
+      "Group solidarity or feeling",
+      "A city",
+      "A treaty"
+     ],
+     "a": 1,
+     "w": "Wikipedia gives it as solidarity, group feeling or group consciousness. {{wiki-khaldun}}"
+    },
+    {
+     "t": "check",
+     "q": "Why is the Kebra Nagast better evidence of the winners' image than of the past?",
+     "o": [
+      "It is very old",
+      "It was compiled after the change of power to legitimise it",
+      "It was written by Greeks",
+      "It names no kings"
+     ],
+     "a": 1,
+     "w": "It is a legitimising text. {{lib}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Ask what group stood behind a ruler. {{wiki-khaldun}}",
+      "Ask when the text was written and for whom.",
+      "Mark our application as inference."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Which idea is Ibn Khaldun known for introducing?",
+    "o": [
+     "Asabiya, or group solidarity",
+     "Tophets",
+     "The baqt",
+     "Heterarchy"
+    ],
+    "a": 0,
+    "w": "It is his term for solidarity or group feeling. {{wiki-khaldun}}"
+   }
+  },
+  {
+   "key": "africa-pre-colonial-3",
+   "name": "Ibn Khaldun",
+   "min": 22,
+   "outcome": "Read a Maghribi dynasty story alongside what you know about how groups rise and fall, and mark where evidence ends.",
+   "intro": "Ibn Khaldun's life was spent among Maghribi dynasties. In 1384 the Egyptian sultan made him professor at the Qamhiyyah madrasa and chief Maliki judge in Cairo, where he found his reform efforts resisted. His group-feeling idea gives a lens for the Almoravids and Almohads.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read encyclopaedic pages in excerpt form on 30/10/2026, not his own work. Wikipedia reports the 1384 appointment, that he resigned the judgeship within a year, that a ship carrying his family sank off Alexandria in 1384, and that he took part in the campaign against Timur at Damascus in 1400 to 1401. {{wiki-khaldun}}"
+    },
+    {
+     "t": "p",
+     "x": "Confidence: partial. We did not read the Muqaddimah. Applications to the Almoravids and Almohads are our inference."
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Name the group. The Almoravids were a Sanhaja Berber movement led by Abd Allah ibn Yasin and Yusuf ibn Tashfin. {{lib}}",
+      "Name what united it. The library describes a preacher and commanders; asabiya is our lens, not a claim of the library. {{wiki-khaldun}}",
+      "Name the successor. The Almohads were led by Ibn Tumart and Abd al-Mu'min, who took Marrakesh in 1147. {{lib}}",
+      "Ask what happened next. For the Ghana story, remember that the traditional account of an Almoravid conquest rests on thin and late sources. {{lib}}",
+      "Keep the historian's career in view. His own record as an official shows how political posts shaped writing. {{wiki-khaldun}}"
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Lens and limit for Maghribi dynasties (our application)",
+     "head": [
+      "Dynasty",
+      "What the lens helps ask",
+      "Where the evidence stops"
+     ],
+     "rows": [
+      [
+       "Almoravids",
+       "What bound the Sanhaja movement together?",
+       "Ghana destruction c. 1076 is contested"
+      ],
+      [
+       "Almohads",
+       "What bound followers to Ibn Tumart as Mahdi?",
+       "Scale of persecution is contested"
+      ]
+     ],
+     "src": "{{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: two limits (our application)"
+    },
+    {
+     "t": "example",
+     "title": "Lens versus evidence",
+     "steps": [
+      "The lens suggests asking about solidarity. It does not replace evidence for what happened.",
+      "For the 1076 claim, evidence is thin and late, so the lens cannot rescue it.",
+      "Write: tradition says the Almoravids broke Ghana; archaeology shows no clear destruction layer. {{lib}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: one dynasty"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Name the group and its leaders.",
+      "Write one question about its cohesion.",
+      "List one claim that is contested and say why."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Pick the Almoravids or the Almohads. Write the group's cohesion question and one contested claim."
+    },
+    {
+     "t": "check",
+     "q": "What did Ibn Khaldun become in Cairo in 1384?",
+     "o": [
+      "A sultan",
+      "Professor and chief Maliki judge",
+      "A merchant",
+      "A Mahdi"
+     ],
+     "a": 1,
+     "w": "Wikipedia reports both appointments. {{wiki-khaldun}}"
+    },
+    {
+     "t": "check",
+     "q": "Why can a general lens not settle the Ghana question?",
+     "o": [
+      "It is too old",
+      "The evidence is thin and late and archaeology shows no clear destruction",
+      "Ghana is not in Africa",
+      "Ibn Khaldun never mentioned it"
+     ],
+     "a": 1,
+     "w": "A lens frames questions; evidence answers them. {{lib}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Use the lens to ask questions, not to supply answers. {{wiki-khaldun}}",
+      "Keep contested claims contested. {{lib}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did Ibn Khaldun do in Egypt in 1384?",
+    "o": [
+     "Became chief Maliki judge in Cairo",
+     "Founded Marrakesh",
+     "Conquered Ghana",
+     "Wrote the Sundiata epic"
+    ],
+    "a": 0,
+    "w": "He was appointed professor and Maliki qadi. {{wiki-khaldun}}"
+   }
+  },
+  {
+   "key": "africa-pre-colonial-4",
+   "name": "Ibn Battuta",
+   "min": 22,
+   "outcome": "Weigh a travel account as an eyewitness with known weaknesses, using Mali in 1352 to 53 as the test case.",
+   "intro": "Ibn Battuta (born 24/02/1304, Tangier) travelled from 1325 and dictated his Rihla in 1354 to 55. His Mali chapters are the best eyewitness account we have, with real strengths and real chronological problems.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read encyclopaedic pages in excerpt form on 30/10/2026, not his own work. Wikipedia gives his birth date and the start of his pilgrimage on 14/06/1325, his visit to the Mali capital and its ruler Mansa Suleyman, king since 1341, the fact that he mistook the Niger for the Nile, and that he dictated the account to Ibn Juzayy after the Marinid ruler asked for it. {{wiki-battuta}}"
+    },
+    {
+     "t": "p",
+     "x": "Confidence: partial. We did not read the Rihla. The library calls the Mali account the best eyewitness account. {{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Note when and for whom it was recorded. He dictated it to Ibn Juzayy after returning in 1354. {{wiki-battuta}}",
+      "Note what he saw. He praised Mali's justice and safety and criticised some customs. {{lib}}",
+      "Note his errors. He took the Niger for the Nile, so geography is not safe. {{wiki-battuta}}",
+      "Note the chronology problem. Scholars find that some of his dated stages cannot all be right. {{wiki-battuta}}",
+      "Compare with other sources. Check al-Umari and the Sundiata epic on the same state. {{lib}}"
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Ibn Battuta as a source on Mali (the library gives the strengths; the limits come from the encyclopaedic page)",
+     "head": [
+      "Strength",
+      "Limit"
+     ],
+     "rows": [
+      [
+       "Eyewitness to Mali in 1352 to 53",
+       "Visited decades after Musa's pilgrimage"
+      ],
+      [
+       "Describes court, justice and safety",
+       "Some customs judged by an outsider"
+      ],
+      [
+       "Records the king, Suleyman",
+       "Took the Niger for the Nile"
+      ],
+      [
+       "Dictated to a scholar",
+       "Chronology of some stages is uncertain"
+      ]
+     ],
+     "src": "{{lib}} {{wiki-battuta}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: two ways to use him"
+    },
+    {
+     "t": "example",
+     "title": "Use and caution",
+     "steps": [
+      "Use him for what a visitor saw: the court, safety on the roads, the ruler's name.",
+      "Do not use him for Musa's 1324 to 25 pilgrimage, which he did not see.",
+      "Do not trust his dates where scholars find the chronology confused. {{lib}} {{wiki-battuta}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: rate a witness"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write what the witness saw.",
+      "Write what they were told.",
+      "Write the gap between event and recording.",
+      "Write one cross-check."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Rate Ibn Battuta on Mali using the four steps above."
+    },
+    {
+     "t": "check",
+     "q": "What did Ibn Battuta mistake the Niger for?",
+     "o": [
+      "The Congo",
+      "The Nile",
+      "The Senegal",
+      "The Zambezi"
+     ],
+     "a": 1,
+     "w": "Wikipedia reports that he believed it to be the Nile. {{wiki-battuta}}"
+    },
+    {
+     "t": "check",
+     "q": "Why is he not the right source for Musa's pilgrimage?",
+     "o": [
+      "He was in Mali in 1352 to 53, decades later",
+      "He never left Morocco",
+      "He wrote in Greek",
+      "He was Musa's rival"
+     ],
+     "a": 0,
+     "w": "He describes the court, not Musa's trip. {{lib}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Rate a witness by what they saw, were told and how long after. {{wiki-battuta}}",
+      "Cross-check with other sources."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "To whom did Ibn Battuta dictate his account?",
+    "o": [
+     "Ibn Juzayy",
+     "Al-Umari",
+     "Leo Africanus",
+     "Al-Sa'di"
+    ],
+    "a": 0,
+    "w": "At the suggestion of the Marinid ruler. {{wiki-battuta}}"
+   }
+  },
+  {
+   "key": "africa-pre-colonial-5",
+   "name": "Samuel Johnson",
+   "min": 22,
+   "outcome": "Read an African-authored history with its aims, informants and editing in view.",
+   "intro": "Samuel Johnson (1846 to 1901) was a Yoruba clergyman born in Sierra Leone who finished The History of the Yorubas in 1897. It is one of the main African-authored sources for Oyo and its neighbours.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read encyclopaedic pages in excerpt form on 30/10/2026, not his own work. A Boston University biography says he was born in Hastings, Sierra Leone, ordained in the 1880s, pastor at Oyo from 1887, finished the history by 1897, and wrote from patriotic motives; his brother Obadiah rewrote the book from his papers and it appeared in 1921. {{bu-johnson}} Cambridge University Press describes it as bringing together oral and recorded accounts, and repeats the story of the lost manuscript. {{cup-johnson}}"
+    },
+    {
+     "t": "p",
+     "x": "Confidence: partial. We did not read the book beyond the front-matter excerpt. The library calls it an African-authored history that mixes tradition and documentary work. {{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Start with the author's stated aim. Johnson says he wrote from patriotic motives, so that the history would not be lost. {{bu-johnson}}",
+      "Note his informants. The preface thanks the Timi of Ede, Lagunju, as a gifted and trusty historian. {{ia-johnson}}",
+      "Note his position. He was an Anglican pastor at Oyo who saw Christianity as crowning, not overturning, Yoruba history. {{bu-johnson}}",
+      "Note the editing. The manuscript was lost and reconstructed by his brother, so the 1921 text is partly Obadiah's work. {{cup-johnson}}",
+      "Cross-check with other evidence such as Robin Law's study of Oyo. {{lib}}"
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Johnson's History as a source (summaries follow the sources named)",
+     "head": [
+      "Feature",
+      "Consequence for the reader"
+     ],
+     "rows": [
+      [
+       "Patriotic aim",
+       "Preserves tradition; shapes selection"
+      ],
+      [
+       "Oral and documentary sources",
+       "Check each claim for its kind of evidence"
+      ],
+      [
+       "Unitary Yoruba state, with Oyo and Ife as pillars",
+       "A unified picture that later historians test"
+      ],
+      [
+       "Reconstructed edition of 1921",
+       "Treat the text as a joint product"
+      ]
+     ],
+     "src": "{{bu-johnson}} {{cup-johnson}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: using Johnson on Oyo"
+    },
+    {
+     "t": "example",
+     "title": "Which claim to trust",
+     "steps": [
+      "We did not check what Johnson wrote about the Oyo Mesi, so take the institution from the library's description of Oyo and use Johnson as one voice among several (our caution).",
+      "Where a source of this kind gives exact dates for early kings, treat them as traditional until another source supports them (our caution). {{lib}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a source card"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the author, date and aim.",
+      "Write the informants.",
+      "Write the editing history.",
+      "Write one cross-check."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Make a source card for Johnson's History with the four lines above."
+    },
+    {
+     "t": "check",
+     "q": "When did Johnson finish the manuscript, and when was the book published?",
+     "o": [
+      "1897 and 1921",
+      "1921 and 1897",
+      "1846 and 1901",
+      "1500 and 1600"
+     ],
+     "a": 0,
+     "w": "The brother reconstructed it after his death. {{bu-johnson}}"
+    },
+    {
+     "t": "check",
+     "q": "Why is the 1921 text called a joint product?",
+     "o": [
+      "Two authors wrote it from scratch",
+      "Obadiah rewrote the book from Samuel's notes after the manuscript was lost",
+      "It is a translation",
+      "It was banned"
+     ],
+     "a": 1,
+     "w": "That is the account in both sources. {{cup-johnson}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Read an author's aim, informants and editing together. {{bu-johnson}}",
+      "Cross-check Johnson with other sources."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Who reconstructed The History of the Yorubas after Samuel Johnson's death?",
+    "o": [
+     "Obadiah Johnson",
+     "Henry Townsend",
+     "Leo Frobenius",
+     "Robin Law"
+    ],
+    "a": 0,
+    "w": "His brother, a Lagos doctor. {{bu-johnson}}"
+   }
+  },
+  {
+   "key": "africa-pre-colonial-6",
+   "name": "Ibn Battuta",
+   "min": 22,
+   "outcome": "Use a traveller's description of a Swahili town while holding its date and aims in view.",
+   "intro": "Ibn Battuta reached the East African coast during his early travels, and his remarks on Kilwa are among the few eyewitness lines on the Swahili towns.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read encyclopaedic pages in excerpt form on 30/10/2026, not his own work. Wikipedia says he arrived at Kilwa, then a transit centre of the gold trade, described it as one of the finest and most beautifully built towns, and recorded a visit in 1330 while the library gives 1331. It notes that his stated chronology for the early 1330s has problems. {{wiki-battuta}}"
+    },
+    {
+     "t": "p",
+     "x": "Confidence: partial. We did not read the Rihla. We do not know which date is right."
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Note the claim. He found Kilwa among the most beautifully built towns. {{wiki-battuta}}",
+      "Note the date range. His visit is c. 1330 to 1331, and the library uses 1331. {{wiki-battuta}} {{lib}}",
+      "Note what archaeology adds. The library points to coral-rag stone buildings, the palace of Husuni Kubwa and a great mosque. {{lib}}",
+      "Note a mismatch. The quoted passage says the buildings were of wood with reed roofs, while the library points to coral-rag stone buildings, so compare them with excavation (our observation). {{wiki-battuta}} {{lib}}",
+      "Write the date as about 1330 to 1331."
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Kilwa: witness and excavation (our comparison)",
+     "head": [
+      "Source",
+      "What it gives",
+      "Limit"
+     ],
+     "rows": [
+      [
+       "Ibn Battuta",
+       "A visitor's impression of a fine town",
+       "Date uncertain; chronology problems"
+      ],
+      [
+       "Excavation (Husuni Kubwa, great mosque)",
+       "Stone buildings of the 13th and 14th centuries",
+       "Does not give a visitor's view"
+      ],
+      [
+       "Kilwa Chronicle",
+       "Later official story of origins",
+       "Shirazi claim is a prestige story"
+      ]
+     ],
+     "src": "{{wiki-battuta}} {{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: reconcile two dates"
+    },
+    {
+     "t": "example",
+     "title": "1330 or 1331?",
+     "steps": [
+      "Wikipedia says his Kilwa stay was recorded in 1330 and the library says 1331.",
+      "Both fall within one year, and he is uncertain about his own chronology. State the range.",
+      "Do not build an argument that depends on the exact year. {{wiki-battuta}} {{lib}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: pair a witness with a site"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the witness's claim.",
+      "Write what excavation shows.",
+      "State the date range.",
+      "State what remains unknown."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Pair Ibn Battuta's remark on Kilwa with one archaeological fact. State the date range."
+    },
+    {
+     "t": "check",
+     "q": "What did Ibn Battuta say of Kilwa?",
+     "o": [
+      "It was a ruin",
+      "One of the finest and most beautifully built towns",
+      "It was Portuguese",
+      "It had no mosque"
+     ],
+     "a": 1,
+     "w": "Wikipedia quotes his judgement. {{wiki-battuta}}"
+    },
+    {
+     "t": "check",
+     "q": "How should you give the date of his visit?",
+     "o": [
+      "Exactly 1330",
+      "About 1330 to 1331",
+      "1505",
+      "1698"
+     ],
+     "a": 1,
+     "w": "His chronology is uncertain. {{wiki-battuta}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Pair a witness with a site. {{wiki-battuta}}",
+      "State date ranges."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What was Kilwa when Ibn Battuta visited?",
+    "o": [
+     "An important transit centre of the gold trade",
+     "A Portuguese fort",
+     "A Roman port",
+     "An Omani capital"
+    ],
+    "a": 0,
+    "w": "Per Wikipedia. {{wiki-battuta}}"
+   }
+  },
+  {
+   "key": "africa-pre-colonial-7",
+   "name": "Jan Vansina",
+   "min": 22,
+   "outcome": "Apply the oral-tradition method to Zulu testimony and say what the recording date does to it.",
+   "intro": "Vansina's rules for oral sources apply to the James Stuart Archive and to the Shaka stories alike.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read encyclopaedic pages in excerpt form on 30/10/2026, not his own work. The Oral tradition page reports the working definition and the debate in which Vansina and his students developed a rigorous approach to recovering the past from oral traditions. {{wiki-oral}} It also reports a later view that discrepancies between traditions can signal problems, shifts and struggles, and that the presentist critique, that traditions are shaped by the present, is hard to dismiss. {{wiki-oral}}"
+    },
+    {
+     "t": "p",
+     "x": "Confidence: partial. The Stuart archive was not read; the library describes it. {{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Identify the type. The James Stuart Archive records testimony from Zulu elders in the early 20th century. {{lib}}",
+      "Count the gap. Shaka died in 1828, so testimony recorded around 1900 to 1920 is about 70 to 90 years later (our arithmetic).",
+      "Compare versions. Differences between versions are signals, not noise. {{wiki-oral}}",
+      "Ask who benefits now. Present politics shape what is remembered. {{wiki-oral}}",
+      "Place trader accounts beside testimony and note the interests of each. {{lib}}"
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Zulu sources compared (our grid built on the library)",
+     "head": [
+      "Source",
+      "Recorded",
+      "Interest"
+     ],
+     "rows": [
+      [
+       "James Stuart Archive",
+       "Early 20th century",
+       "Elders' memory; collector's questions"
+      ],
+      [
+       "Magema Fuze",
+       "c. 1900",
+       "An isiZulu author's view"
+      ],
+      [
+       "Fynn, Isaacs",
+       "Early English trader accounts",
+       "Trade interests"
+      ]
+     ],
+     "src": "{{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: counting the gap (our arithmetic)"
+    },
+    {
+     "t": "example",
+     "title": "How long after?",
+     "steps": [
+      "If a testimony is recorded in 1905 about Shaka, who died in 1828, the gap is 1905 minus 1828, which is 77 years.",
+      "A speaker aged 70 in 1905 was born in 1835, seven years after Shaka's death, so cannot have seen him.",
+      "So the speaker relies on what others told them. Tag the account as tradition. {{lib}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a testimony card"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write when it was recorded.",
+      "Write who spoke and their age.",
+      "Write the gap.",
+      "Write one rival version."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Make a testimony card for one Shaka story with the four lines."
+    },
+    {
+     "t": "check",
+     "q": "What does Vansina's method suggest about differences between versions of a tradition?",
+     "o": [
+      "Discard them",
+      "They can signal shifts and struggles worth analysing",
+      "They prove forgery",
+      "They never occur"
+     ],
+     "a": 1,
+     "w": "That is the later emphasis reported on the Oral tradition page. {{wiki-oral}}"
+    },
+    {
+     "t": "check",
+     "q": "A 70-year-old speaks in 1905. Could they have met Shaka (d. 1828)?",
+     "o": [
+      "Yes",
+      "No, they were born about 1835",
+      "Only if from Natal",
+      "Unknown"
+     ],
+     "a": 1,
+     "w": "1905 minus 70 is 1835. This is our arithmetic."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Count the gap between event and recording. {{wiki-oral}}",
+      "Treat differences between versions as signals.",
+      "Place trader accounts beside testimony."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What should you compute first for an oral testimony?",
+    "o": [
+     "The gap between event and recording",
+     "Its length in words",
+     "The speaker's height",
+     "The price of the book"
+    ],
+    "a": 0,
+    "w": "Gap and speaker's age show whether it is first-hand. {{wiki-oral}}"
+   }
+  },
+  {
+   "key": "africa-pre-colonial-8",
+   "name": "Olaudah Equiano",
+   "min": 24,
+   "outcome": "Use a first-person narrative of the Atlantic trade while keeping the records that complicate it beside it.",
+   "intro": "Olaudah Equiano (c. 1745 to 1797) published The Interesting Narrative in 1789. It is one of the earliest widely read writings by an African in England, and its account of his origins is disputed.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read encyclopaedic pages in excerpt form on 30/10/2026, not his own work. Wikipedia says the Narrative went through nine editions in his lifetime, was a best seller by 1792, and shaped the antislavery movement. It also reports that Vincent Carretta found a 1759 baptism record listing him as born in Carolina and a naval muster pointing to South Carolina, that Carretta called the circumstantial evidence compelling but not absolutely conclusive, and that other scholars think the weight of evidence supports Equiano's own account. {{wiki-equiano}}"
+    },
+    {
+     "t": "p",
+     "x": "Confidence: partial. We did not read the Narrative."
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Note the genre. It is the first influential slave narrative, but his experience was unusual: he did not do field work and learned to read and write. {{wiki-equiano}}",
+      "Note the aim. It was published to support antislavery campaigning in Britain. {{wiki-equiano}}",
+      "Put the records beside the text: baptism 1759, muster roll, the Narrative itself. {{wiki-equiano}}",
+      "Tag the birthplace claim as contested.",
+      "Use the narrative for what is not disputed: the experience of the trade and its audience."
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Equiano: claim and records",
+     "head": [
+      "Item",
+      "What it says",
+      "Status"
+     ],
+     "rows": [
+      [
+       "The Narrative",
+       "Born in Igbo country",
+       "Contested"
+      ],
+      [
+       "Baptism, 09/02/1759",
+       "Born in Carolina, aged 12",
+       "A record Carretta relies on"
+      ],
+      [
+       "Naval muster",
+       "Points to South Carolina",
+       "Same"
+      ],
+      [
+       "His African descent",
+       "Certain by Carretta's reading",
+       "Not disputed"
+      ]
+     ],
+     "src": "{{wiki-equiano}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: reading age against date (our arithmetic)"
+    },
+    {
+     "t": "example",
+     "title": "Check the age",
+     "steps": [
+      "The baptism register gives age 12 on 09/02/1759, so a birth year around 1747.",
+      "The commonly given c. 1745 differs by about two years. State a range.",
+      "Whatever the birthplace, use the Narrative with the Voyages data in Module 8 for scale. {{wiki-equiano}} {{sv-est}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a narrative card"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the author, date and aim.",
+      "Write the genre.",
+      "Write the records that complicate it.",
+      "Write what you will and will not use it for."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Fill in a narrative card for Equiano."
+    },
+    {
+     "t": "check",
+     "q": "What did Carretta's records question?",
+     "o": [
+      "Equiano's literacy",
+      "Equiano's account of being born in Africa",
+      "The abolition of the trade",
+      "Voyages totals"
+     ],
+     "a": 1,
+     "w": "A baptism record and a muster roll point to Carolina. {{wiki-equiano}}"
+    },
+    {
+     "t": "check",
+     "q": "Is Equiano's experience typical of the enslaved?",
+     "o": [
+      "Yes, entirely",
+      "No, he avoided field work and was taught to read and write",
+      "He was never enslaved",
+      "He never travelled"
+     ],
+     "a": 1,
+     "w": "Wikipedia says his experience was very different from most. {{wiki-equiano}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Keep records beside the narrative. {{wiki-equiano}}",
+      "Tag disputed birthplace claims.",
+      "Use the Narrative for audience and experience."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did Carretta find in 1999 that questioned Equiano's account of his birth?",
+    "o": [
+     "A baptism record and a muster roll listing Carolina",
+     "A Portuguese letter",
+     "A Voyages table",
+     "A Kano Chronicle entry"
+    ],
+    "a": 0,
+    "w": "He called the evidence compelling but not conclusive. {{wiki-equiano}}"
+   }
+  },
+  {
+   "key": "africa-pre-colonial-cap",
+   "name": "Jan Vansina",
+   "min": 20,
+   "outcome": "Write the atlas reflection by treating every source as a witness with a date, a carrier and a purpose.",
+   "intro": "Vansina's habit, that tradition must be treated as a source with a carrier and a purpose, is the habit the atlas rubric rewards.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read encyclopaedic pages in excerpt form on 30/10/2026, not his own work. The encyclopaedic pages report his method, the 1985 book and the later critiques. {{wiki-vansina}} {{wiki-oral}}"
+    },
+    {
+     "t": "p",
+     "x": "Confidence: partial; none of his books was read."
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write each source's date and its gap from the events.",
+      "Write who carried it.",
+      "Write its purpose.",
+      "Write what a second kind of evidence adds.",
+      "Tag the claim."
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Reflection template (our design)",
+     "head": [
+      "Line",
+      "Example prompt"
+     ],
+     "rows": [
+      [
+       "Source",
+       "Name the African-authored or oral source"
+      ],
+      [
+       "Gap",
+       "How long after the events was it recorded?"
+      ],
+      [
+       "Carrier and purpose",
+       "Who held it, and whom did it serve?"
+      ],
+      [
+       "Check",
+       "Which second kind of evidence did you use?"
+      ]
+     ],
+     "src": "{{wiki-oral}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a reflection in four lines (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Tarikh al-Sudan",
+     "steps": [
+      "Source: the Tarikh al-Sudan, by al-Sa'di, c. 1655.",
+      "Gap: it was written about 127 years after Askia Muhammad's reign ended in 1528 (1655 minus 1528; our arithmetic, from the dates in Module 4).",
+      "Purpose: a scholarly history favouring its own circles.",
+      "Check: compared with Leo Africanus. {{lib}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: your reflection"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Choose your source.",
+      "Fill in the four lines.",
+      "Write 150 words."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Draft the 150-word reflection from the template."
+    },
+    {
+     "t": "check",
+     "q": "What four things does the template ask for?",
+     "o": [
+      "Date, carrier, purpose, second check",
+      "Price, size, colour, place",
+      "Author, title, publisher, ISBN",
+      "Weather, mood, time, place"
+     ],
+     "a": 0,
+     "w": "Gap, carrier and purpose, and a second kind of evidence. {{wiki-oral}}"
+    },
+    {
+     "t": "check",
+     "q": "In the worked example, what is the gap between 1528 and 1655?",
+     "o": [
+      "127 years",
+      "100 years",
+      "160 years",
+      "200 years"
+     ],
+     "a": 0,
+     "w": "1655 minus 1528 is 127. This is our arithmetic."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Treat each source as a witness with a date, a carrier and a purpose. {{wiki-oral}}",
+      "Always name a second kind of evidence."
+     ]
+    }
+   ],
+   "quiz": null
+  }
+ ]
+}

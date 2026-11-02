@@ -25,6 +25,28 @@
      "x": "German and Belgian rule hardened the categories Hutu, Tutsi and Twa, and Belgium issued identity cards in the 1930s. The 1959 social revolution overthrew the Tutsi monarchy, and many Tutsi fled. The Rwandan Patriotic Front, formed by exiles in Uganda, invaded in 1990. {{lib}}"
     },
     {
+     "t": "p",
+     "x": "Reader sets this inside a wider argument that colonial codification of customary law, chiefs and 'tribal' units created fixed ethnic identities. Specialists agree that colonial rule hardened identities but argue that Tutsi and Hutu categories existed in some form before it [CONTESTED]. {{rd-interwar}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "German ethnographers gave the Tutsi a supposed Hamitic origin from outside Africa. That was a colonial racial theory, now discredited, and not a fact. Tutsi were about 12 to 15 per cent of the population and Hutu about 85 per cent, and the Tutsi share was officially 9 per cent at independence [ESTIMATE]. {{rd-interwar}} {{rd-indep}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Date of the identity cards: Reader says Belgian authorities introduced a card naming 'tribe' in 1926. {{rd-interwar}} Our check against specialist accounts: most Rwanda historians date compulsory ethnic cards to 1933 to 1935, and the 'ten cows' rule is a simplification of inconsistent practice [CONTESTED]. This course says only that Belgium made ethnic identity a legal category in the 1930s."
+    },
+    {
+     "t": "p",
+     "x": "Schooling and posts were reserved for Tutsi under Bishop Classe's policy, and Hutu had almost no route to higher education except the Catholic seminaries until 1956. The Hutu Manifesto of 03/1957 denounced the political monopoly of the Tutsi, and in 12/1958 a proposal to drop the labels from official use was rejected by Hutu leaders as obfuscation. {{rd-elite}}"
+    },
+    {
+     "t": "p",
+     "x": "Belgium then switched sides. Tutsi chiefs were dismissed from early 1960 and about 130,000 Tutsi fled. In the communal elections of 07/1960 the Parmehutu party won 210 of 229 communes, the republic was declared at Gitarama on 28/01/1961, and independence came on 01/07/1962 with Kayibanda as president. Ethnic quotas of 9 per cent applied in schools and jobs. Dates should be checked against a specialist such as Prunier [check]. {{rd-indep}}"
+    },
+    {
      "t": "fig",
      "id": "africa-post-colonial-tl7",
      "title": "Events from 1994 to the present",

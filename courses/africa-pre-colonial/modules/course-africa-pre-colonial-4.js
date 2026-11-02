@@ -513,6 +513,182 @@
   },
   {
    "id": "l6",
+   "title": "What the supplied books add to Ghana, Mali and Songhai",
+   "min": 28,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Four of the six books touch this module: a young readers' retelling on Mansa Musa (the cover prints the author as P. James Oliver), Diop's Precolonial Black Africa, Reader and Rodney. Their numbers and claims disagree, which is the point. Each table sets the claims out and says how to choose."
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "The young readers' book on Mansa Musa is a retelling. It says openly that its market-day chapter is an imagined reconstruction, and it adds scenes (an ebony throne, a palace with a herald, bandits cleared from the road) with no source named. It cites no Arabic text directly. Use it only to cross-check, never as evidence. {{oli-court}}"
+    },
+    {
+     "t": "h",
+     "x": "Musa's pilgrimage: figures from three kinds of source"
+    },
+    {
+     "t": "table",
+     "title": "Numbers attached to the pilgrimage, and how to treat them",
+     "head": [
+      "Claim",
+      "Where it appears",
+      "How to choose"
+     ],
+     "rows": [
+      [
+       "About 60,000 followers, 80 camels carrying 300 lb of gold each",
+       "Young readers' retelling {{oli-court}}",
+       "Our rule from lesson 2 stands: the numbers vary between sources and cannot be treated as exact. [CONTESTED]"
+      ],
+      [
+       "Musa gave only about 20,000 gold pieces as alms in the two holy cities, against 100,000 from Askia Muhammad",
+       "Diop, quoting an eastern annal through Hamidullah {{dpc-state}}",
+       "A direct conflict with the popular picture of Cairo's price collapsing. Show both; do not pick. [CONTESTED]"
+      ],
+      [
+       "Musa ran out of gold in Cairo and borrowed at 700 for every 300",
+       "Young readers' retelling, from a note {{oli-court}}",
+       "A detail from the Arabic reports as relayed in a popular book; unchecked here. [THIN EVIDENCE]"
+      ],
+      [
+       "Gold lowered its price in Cairo for years",
+       "Al-Umari through the course lesson {{lib}}",
+       "[PROBABLE]"
+      ]
+     ],
+     "src": "{{oli-court}}"
+    },
+    {
+     "t": "h",
+     "x": "The Atlantic voyage story"
+    },
+    {
+     "t": "p",
+     "x": "The young readers' book dates the voyage to 1312 and says some travellers may have reached the Americas, citing Van Sertima. {{oli-ship}} Diop retells al-Umari through Hamidullah: a first fleet, then 2,000 vessels sent by the ruler who handed power to Musa, and he thinks contact was constant. {{dpc-tech}} The first fleet is 200 ships in one account and 400 in the other, so quote neither as exact. The course keeps the voyage as reported by al-Umari and Atlantic crossing as unproven; Mande-American contact is [CONTESTED] and rejected by most archaeologists."
+    },
+    {
+     "t": "h",
+     "x": "Mud brick and the architect"
+    },
+    {
+     "t": "p",
+     "x": "The young readers' book says Musa and as-Sahili introduced sun-dried mud brick to the Sudan. {{oli-court}} Mud brick is far older: Kerma's monumental mud-brick buildings date to about 2500 BCE (lesson 1 of Module 2) and Jenne-jeno's wall is mud brick. Diop, reading Ibn Khaldun, adds that as-Sahili built a square, domed reception hall at the capital, not a mosque, and that this is not the oblong buttressed Sudanese style. {{dpc-tech}} So keep the course wording that Musa brought an architect and patronised building, and do not say the mosque at Gao is certain. [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "Ghana's size: three sets of figures"
+    },
+    {
+     "t": "table",
+     "title": "What is said about Ghana, and what the archaeology allows",
+     "head": [
+      "Claim",
+      "Book",
+      "Judgement"
+     ],
+     "rows": [
+      [
+       "200,000 warriors including 40,000 archers",
+       "Al-Bakri's informants, repeated by Diop {{dpc-state}}",
+       "Reader calls this probably a tenfold or even twentyfold exaggeration. {{rd-gold}}"
+      ],
+      [
+       "Ghana's Black emperors ruled 1,250 years over a land as vast as Europe",
+       "Diop {{dpc-state}}",
+       "No firm source; a king-list tradition at best. [TRADITIONAL DATE]"
+      ],
+      [
+       "Koumbi Saleh: about 250 hectares, stone houses, a mosque, glass gold-weights, 15,000 to 20,000 people at its densest",
+       "Reader {{rd-gold}}",
+       "The best archaeological figure; the king's own town has not been found. [PROBABLE]"
+      ]
+     ],
+     "src": "{{rd-gold}}"
+    },
+    {
+     "t": "p",
+     "x": "Diop dates an earlier Ghana to the time of the Prophet from the Tarikh al-Fattash king-lists. Earlier dates are traditional only. {{dpc-state}} The course dates Ghana from the late 8th century and al-Bakri in 1068. [TRADITIONAL DATE]"
+    },
+    {
+     "t": "h",
+     "x": "Songhai and the chronicles"
+    },
+    {
+     "t": "p",
+     "x": "Diop shows Kati and Sa'di working as historians: they cite authorities, date events to the day, and question informants. {{dpc-tech}} A second book, from Diop's earlier work, notes that Kati admits some early chapters had little to rest on. {{dio-method}} He contrasts the chroniclers' hostile portrait of Sonni Ali with their warm portrait of Askia Muhammad and reads Sonni Ali's harshness to the Timbuktu clergy as defence of older religion. That reading is plausible but it is an interpretation. [CONTESTED] Diop also calls the Arab chroniclers objective; the course tags al-Bakri, al-Umari and Ibn Battuta as distance sources, and that stands."
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "The young readers' glossary and Diop disagree on who the Songhai hostage was. The glossary names princes Ali Koleni and Sulayman Nar, taken by Musa in 1325; Diop names 'Ali-Kolon, the future Sonni Ali'. Sonni Ali reigned from about 1464, roughly 140 years later (our arithmetic), so both cannot be right. Teach neither."
+    },
+    {
+     "t": "h",
+     "x": "The Moroccan invasion, two dates"
+    },
+    {
+     "t": "p",
+     "x": "Diop tells of the deportation of Sankore scholars to Marrakesh in March 1594, Ahmad Baba among them. {{dpc-tech}} The course places the battle of Tondibi in 1591. Both can be right: Tondibi opened the war, and the deportations came later."
+    },
+    {
+     "t": "h",
+     "x": "Later states"
+    },
+    {
+     "t": "p",
+     "x": "Rodney lists Sokoto, Ahmadu, al-Hajj Umar and Samori Toure as nineteenth-century builders of states, and says Africa went into the slave trade as into a gale that wrecked a few societies and slowed many, with African rulers still making decisions until about 1885. {{rod-trade}} It is his image, one position in the debate set out in Module 8."
+    },
+    {
+     "t": "check",
+     "q": "The young readers' book says Musa 'introduced' mud brick to the Sudan. What is the best correction?",
+     "o": [
+      "Agree: no mud brick existed before 1324",
+      "Mud-brick building is far older, as at Kerma and Jenne-jeno",
+      "Mud brick came from Spain",
+      "Musa never built anything"
+     ],
+     "a": 1,
+     "w": "The archaeology in Modules 1 and 2 shows older mud-brick sites. {{rd-jj}}"
+    },
+    {
+     "t": "check",
+     "q": "Reader says al-Bakri's figure of 200,000 men for Ghana is likely to be:",
+     "o": [
+      "An accurate count",
+      "A tenfold or even twentyfold exaggeration",
+      "An undercount",
+      "A Mali figure"
+     ],
+     "a": 1,
+     "w": "Reader judges the figure from informants to be inflated. {{rd-gold}}"
+    },
+    {
+     "t": "check",
+     "q": "The glossary names Ali Koleni as the Songhai hostage; Diop names the future Sonni Ali. What should a lesson do?",
+     "o": [
+      "Pick the glossary",
+      "Pick Diop",
+      "Teach neither: the dates conflict",
+      "Merge them"
+     ],
+     "a": 2,
+     "w": "Sonni Ali reigned about 140 years after 1325. {{dpc-state}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Popular numbers for Musa's pilgrimage are not exact and one source gives a smaller alms figure. {{dpc-state}}",
+      "Ghana's army and age are inflated in tradition; Koumbi Saleh is the check. {{rd-gold}}",
+      "A retelling is not evidence. {{oli-court}}"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l7",
    "title": "The lecturer's method: Ibn Battuta",
    "min": 22,
    "blocks": [

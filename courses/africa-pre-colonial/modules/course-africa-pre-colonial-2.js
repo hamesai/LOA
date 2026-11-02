@@ -250,7 +250,7 @@
     },
     {
      "t": "p",
-     "x": "It minted its own coins in gold, silver and bronze from about the late 3rd century CE, a mark of economic confidence [PROBABLE]. Its stelae, carved stone obelisks, are famous. The tallest still standing is about 24 m. An obelisk taken to Rome in 1937 was returned in 2005. {{lib}}"
+     "x": "It minted its own coins in gold, silver and bronze from about the late 3rd century CE, a mark of economic confidence [PROBABLE]. Its stelae, carved stone obelisks, are famous. Reader gives one standing stele about 21 m high, a fallen great stele of about 33 m, and a 24 m stele taken to Rome in 1937. {{rd-axum}} That Rome obelisk was returned in 2005 {{lib}}, so always quote a height with the stele it belongs to."
     },
     {
      "t": "h",
@@ -520,6 +520,117 @@
   },
   {
    "id": "l6",
+   "title": "What the supplied books add to Kush and Aksum",
+   "min": 24,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Reader and Rodney help with the facts here; Diop's account of Egypt and the Sudan is a position, shown beside the standard view. Where a book disagrees with the lessons, the lessons keep their tags and the book is shown as one side."
+    },
+    {
+     "t": "h",
+     "x": "Aksum: Reader's evidence against 'a word, not a reality'"
+    },
+    {
+     "t": "p",
+     "x": "Diop writes that Aksum is more a word than a reality, with one obelisk and two statue bases. {{dio-egypt}} That is wrong against the archaeology and the coins. Reader describes a highland city of about 75 hectares and about 20,000 people by AD 500, Sabaean-style inscriptions from the 7th century BCE that develop into Ge'ez, temples at Yeha and Haoulti, plough farming and teff, its own coinage in gold, silver and copper, and over 140 stelae. {{rd-axum}}"
+    },
+    {
+     "t": "table",
+     "title": "Why Aksum rose and fell: environmental account and rival accounts",
+     "head": [
+      "Question",
+      "Reader",
+      "Rodney",
+      "How to choose"
+     ],
+     "rows": [
+      [
+       "Who founded Aksum?",
+       "An indigenous state on the highland, with South Arabian influence in script and temples. {{rd-axum}}",
+       "A Sabaean-origin dynasty in the first century CE. {{rod-pre}}",
+       "Both accept South Arabian links; 'founded by Sabaeans' is [CONTESTED]."
+      ],
+      [
+       "Why did it decline?",
+       "Longer rains then deforestation, erosion, the loss of Red Sea trade and falling rain from about AD 750; the elite moved south by about AD 800. {{rd-axum}}",
+       "Kush's fall was completed by attacks from Axum. {{rod-pre}}",
+       "Ezana's inscription mentions a campaign, but trade shifts and environment matter too; keep 'Aksum destroyed Meroe' [CONTESTED]."
+      ],
+      [
+       "The Solomon and Sheba descent",
+       "A legend that legitimised later kings; no evidence. {{rd-axum}}",
+       "The Zagwe and Solomonic kings competed with rival claims. {{rod-pre}}",
+       "Treat the Kebra Nagast as a political story, as lesson 4 does."
+      ]
+     ],
+     "src": "{{rd-axum}}"
+    },
+    {
+     "t": "h",
+     "x": "Kush and Meroe: where the books give different dates"
+    },
+    {
+     "t": "p",
+     "x": "Reader says Meroe collapsed in the 2nd century AD and that Kush conquered Egypt in 730 BC and ruled for over sixty years. {{rd-nile}} The lessons keep the tagged ranges (Piye about 744 to 714 BCE; the 25th Dynasty to about 656 BCE; Meroe's decline in the 4th century CE) because Reader gives approximate dates in a popular survey. His environmental point stands as a [CONTESTED] factor: iron smelting for fuel may have helped clear the woods around Meroe."
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Diop's count of 84 Meroitic pyramids and the course's 'over 200' do not conflict: the first is for Meroe, the second for Sudan as a whole. His 'Birmingham of antiquity' line repeats an old claim about Meroe's iron that the course tags [CONTESTED]. {{dpc-state}}"
+    },
+    {
+     "t": "h",
+     "x": "What Diop's Egypt arguments look like in this module"
+    },
+    {
+     "t": "p",
+     "x": "Diop reads Kmt as 'land of the Blacks' and treats Osiris as a real Black ancestor. {{dio-egypt}} The standard reading of Kmt is 'the black land', after the Nile silt (our summary, outside these books). Diop is right on a narrower point: ancient Egyptian texts have no idea of Black Africans as a separate race, and nineteenth-century translators read race into them. {{dio-egypt}} Keep both."
+    },
+    {
+     "t": "h",
+     "x": "Ethiopia in the age of Portuguese contact"
+    },
+    {
+     "t": "p",
+     "x": "Reader gives Ethiopia as Africa's oldest continuous state and shows it as an active diplomat. Thirty Ethiopian envoys reached Genoa on their way home from Avignon and Rome in 1306. {{rd-eth}} The Portuguese priest Francisco Alvares travelled in Ethiopia from 1520 to 1526 and found no town above 1,600 households, repeated locust famines, and a king asking for European craftsmen. {{rd-cont}}"
+    },
+    {
+     "t": "check",
+     "q": "Which statement about the Aksum obelisk heights is safest?",
+     "o": [
+      "The tallest standing is exactly 24 m",
+      "Quote a height with the named stele: about 21 m standing, about 33 m fallen, about 24 m the one taken to Rome",
+      "All stelae are the same height",
+      "The heights were never measured"
+     ],
+     "a": 1,
+     "w": "Reader names three different stelae. {{rd-axum}}"
+    },
+    {
+     "t": "check",
+     "q": "Diop says Aksum was 'more a word than a reality'. What is the best reply?",
+     "o": [
+      "Agree, since only one obelisk is known",
+      "Aksum has coins, inscriptions, temples and over 140 stelae",
+      "Aksum was Egyptian",
+      "Aksum was founded in 1306"
+     ],
+     "a": 1,
+     "w": "Reader lists the evidence. {{rd-axum}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Aksum was a real, documented state with its own coins and script. {{rd-axum}}",
+      "Rodney states 'Aksum destroyed Kush' as fact; the course keeps it [CONTESTED]. {{rod-pre}}",
+      "Ethiopia sent envoys to Europe before Portuguese ships reached its coast. {{rd-eth}}"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l7",
    "title": "The lecturer's method: Ibn Khaldun",
    "min": 22,
    "blocks": [

@@ -1,0 +1,1468 @@
+{
+ "refs": {
+  "gg-paxton": [
+   "Joseph Paxton",
+   "Grace's Guide to British Industrial History",
+   "https://www.gracesguide.co.uk/Joseph_Paxton"
+  ],
+  "wga-paxton": [
+   "Biography of Paxton, Joseph",
+   "Web Gallery of Art",
+   "https://www.wga.hu/bio/p/paxton/biograph.html"
+  ],
+  "sch": [
+   "The Crystal Palace, environmentally considered",
+   "Henrik Schoenefeldt, arq: Architectural Research Quarterly 12(3/4), 2008",
+   "https://kar.kent.ac.uk/28429/2/The_Crystal_Palace_environmentally_considered.pdf"
+  ],
+  "jstor-glaz": [
+   "The glazing of the Crystal Palace",
+   "JSTOR",
+   "https://www.jstor.org/stable/24188017"
+  ],
+  "jekyll-colour": [
+   "Colour in the Flower Garden (1908), full text (the plan of the spring garden, the section on keeping a border furnished and the grey-border notes read; not read cover to cover)",
+   "Gertrude Jekyll, Project Gutenberg #50764",
+   "https://www.gutenberg.org/files/50764/50764-h/50764-h.htm"
+  ],
+  "jekyll-wood": [
+   "Wood and Garden (1899), full text (the introduction, the January chapter, the iris passage and the chapter Beginning and Learning read; not read cover to cover)",
+   "Gertrude Jekyll, Project Gutenberg #36279",
+   "https://www.gutenberg.org/files/36279/36279-h/36279-h.htm"
+  ],
+  "mendel65": [
+   "Experiments in Plant Hybridization (1865), English translation (read in full as far as the first four experiments and the opening on method)",
+   "Gregor Mendel, translated text at the University of Hamburg",
+   "https://www-archiv.fdm.uni-hamburg.de/b-online/e08_mend/mendel.htm"
+  ],
+  "wiki-mendel": [
+   "Gregor Mendel",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/Gregor_Mendel"
+  ],
+  "wiki-liebig": [
+   "Liebig's law of the minimum",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/Liebig%27s_law_of_the_minimum"
+  ],
+  "wisc-liebig": [
+   "Law of the Minimum (Soil Science 326)",
+   "Phillip Barak, University of Wisconsin-Madison",
+   "https://soilsfacstaff.cals.wisc.edu/facstaff/barak/soilscience326/lawofmin.htm"
+  ],
+  "pmc-liebig": [
+   "Finding Liebig's law of the minimum",
+   "Tang and Riley, Ecological Applications 31(8), 2021",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC9285345"
+  ],
+  "brit-silent": [
+   "Silent Spring",
+   "Encyclopaedia Britannica",
+   "https://www.britannica.com/topic/Silent-Spring"
+  ],
+  "ss-carson": [
+   "Silent Spring chapters 15-17: summary and analysis (secondary study guide)",
+   "SuperSummary",
+   "https://www.supersummary.com/silent-spring/chapters-15-17/"
+  ],
+  "liebig-1843": [
+   "Chemistry in its Application to Agriculture and Physiology, edited by Lyon Playfair, American edition by John W. Webster (1843; the chapter on the inorganic constituents of plants, the soil analyses and the chapter on the alternation of crops read in part)",
+   "Justus von Liebig, Internet Archive",
+   "https://archive.org/details/chemistryinitsap00lieb"
+  ],
+  "loudon-paxton": [
+   "Ridge and furrow glazing by Joseph Paxton at Chatsworth (a description of a 97.5 ft house, citing Paxton's Magazine of Botany, vol. 2; a secondary source for Paxton's methods)",
+   "Loudon's Encyclopaedia of Gardening text, via Gardenvisit",
+   "https://www.gardenvisit.com/book/gardening_tools_equipment_and_buildings/chapter_6_structures_used_in_gardening/ridge_and_furrow_glazing_by_joseph_paxton_at_chatsworth"
+  ],
+  "loudon-paths": [
+   "Chatsworth: Paxton's slatted paths over heating pipes (Loudon's 1839 tour; a secondary description of Paxton's practice)",
+   "J. C. Loudon, Gardening Tours, via Gardenvisit",
+   "https://www.gardenvisit.com/book/gardening__tours_by_jc_loudon_1831-1842/from_london_to__sheffield_in_the_spring_of_1839/ridge_and_furrow_glazing"
+  ],
+  "carson-1963": [
+   "Statement and questioning, Interagency Coordination in Environmental Hazards (Pesticides), Senate subcommittee hearing, 4 June 1963 (Carson's prepared statement and the questions that followed read; OCR text with some garbling)",
+   "Rachel Carson, hearing record at the University of Michigan 'Give Earth a Chance' archive",
+   "https://michiganintheworld.history.lsa.umich.edu/environmentalism/exhibits/show/main_exhibit/item/472"
+  ]
+ },
+ "modules": [
+  {
+   "key": "greenhouse-year-1",
+   "name": "Joseph Paxton",
+   "min": 24,
+   "outcome": "Describe two jobs that each main part of your greenhouse does, find one part that does only one, and test one small change.",
+   "intro": "Joseph Paxton's glasshouses at Chatsworth were drawn so that the pillars drained the roof, the vents opened from one place and the paths shed dust. A detailed description of one of his houses shows each part doing more than one job.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read a published description of one of Paxton's ridge-and-furrow houses, taken from Loudon's Encyclopaedia of Gardening, which cites Paxton's own Magazine of Botany for the details, and Loudon's 1839 tour, which describes the paths at Chatsworth. These are secondary descriptions of Paxton's work, not his own text, and we did not read the Magazine of Botany itself. {{loudon-paxton}} {{loudon-paths}}"
+    },
+    {
+     "t": "p",
+     "x": "The outline of his career comes from Grace's Guide and the Web Gallery of Art biography. {{gg-paxton}} {{wga-paxton}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Start with the roof as a set of repeated spans. The description says the ridge-and-furrow roof appears to be a number of span roofs joined together, and that the house is 97.5 ft long and 26 ft wide. {{loudon-paxton}}",
+      "Give the pillars two jobs. Cast-iron pillars support the roof, and the front pillars are hollow and carry a leaden pipe that takes water from the roof into a drain outside, so there is no visible spout. {{loudon-paxton}}",
+      "Give the glazing two jobs. The sash-bars are grooved to hold the glass, so the putty does not shell off and let in wet, and the front lights slide in a double groove so people can enter at any point without a door. {{loudon-paxton}}",
+      "Make the air adjustable from one place. Air enters by sliding the front sashes and by back-wall ventilators that swing on pivots and are opened with long iron rods fixed to pins in the wall, so the opening can be adjusted. {{loudon-paxton}}",
+      "Give the path two jobs. At Chatsworth the paths over the heating pipes were covered with loose cross-boards about 4 inches wide. Heat rises through the gaps, dust falls through when the paths are swept, and watering the paths to raise steam leaves the boards dry underfoot. {{loudon-paths}}",
+      "Note the roof's aim from other sources. Grace's Guide says the roof was set at right angles to the morning and evening sun to admit more light and drain rainwater. {{gg-paxton}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Between 1836 and 1841 he built the Great Conservatory at Chatsworth, which became the test-bed for the techniques he later used on the Crystal Palace. {{wga-paxton}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The house in the description is a particular one, and the figures are for that house. A small greenhouse will differ. The lesson uses it to show the habit of asking what jobs each part does. {{loudon-paxton}}"
+    },
+    {
+     "t": "table",
+     "title": "Parts and jobs in the described house (the right column is our adaptation)",
+     "head": [
+      "Part",
+      "Jobs in Paxton's house",
+      "Your greenhouse"
+     ],
+     "rows": [
+      [
+       "Front pillar",
+       "Holds the roof up; carries the roof water to the drain",
+       "Does a post or gutter bracket also move water?"
+      ],
+      [
+       "Sash-bar",
+       "Holds the glass; keeps wet out",
+       "Check that glazing bars hold and seal"
+      ],
+      [
+       "Pivoting back vent",
+       "Lets air in; adjustable by a rod from below",
+       "Can you open it from where you stand?"
+      ],
+      [
+       "Slatted path",
+       "Lets heat rise; passes dust and water through",
+       "Does your path trap dust or standing water?"
+      ],
+      [
+       "Sliding front light",
+       "Lets in light; serves as a door",
+       "Could one opening do two jobs?"
+      ]
+     ],
+     "src": "The first two columns follow the descriptions. The last column is our adaptation. {{loudon-paxton}} {{loudon-paths}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a jobs list for one greenhouse (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Reading your own house the Paxton way",
+     "steps": [
+      "Sketch the house from above. Mark north and the direction of the ridge.",
+      "Mark where the low morning and evening sun comes in. Grace's Guide says Paxton set his roof to catch it. {{gg-paxton}}",
+      "List each main part with the jobs it does. For example: glazing admits light and sheds rain; the base holds the structure and keeps out draughts; a vent lets hot air out and lets air circulate.",
+      "Circle any part with only one job. Ask whether it could do two, or whether it is needed at all.",
+      "Write one change you would test this season. Keep it small, and write what you expect to see."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: counting jobs (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "A score for the described house",
+     "steps": [
+      "Count the parts in the table above: five. Count their jobs as listed: two each for the pillar, the sash-bar, the vent, the path and the sliding light, which is 10 jobs.",
+      "That is 10 jobs ÷ 5 parts = 2 jobs a part. A part with 1 job is below the average, and is the first one to ask about.",
+      "Do the same for your own list. The number is only a prompt for a question, not a measure of quality."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a one-change test"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Pick the part of your greenhouse with only one job.",
+      "Write what a second job for it could be, or whether it can go.",
+      "Write what you expect the change to do and how you will see it.",
+      "Make the change on one bay or bench only.",
+      "Record what happened after two weeks."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Do the jobs list for your own greenhouse or for the one you are planning. Name at least four parts and two jobs for each."
+    },
+    {
+     "t": "check",
+     "q": "What did the front pillars of the described house carry inside them?",
+     "o": [
+      "Wires",
+      "A leaden pipe taking roof water to a drain",
+      "Seeds",
+      "Heaters"
+     ],
+     "a": 1,
+     "w": "The front pillars are hollow and carry a leaden pipe that takes water from the roof into a drain. {{loudon-paxton}}"
+    },
+    {
+     "t": "check",
+     "q": "Why were the Chatsworth path boards laid loose with gaps?",
+     "o": [
+      "To save wood",
+      "So heat and steam rise, dust falls through, and the boards stay dry",
+      "To hide pipes",
+      "To store tools"
+     ],
+     "a": 1,
+     "w": "Heat rises through, dust falls through when swept, and watering leaves the boards dry. {{loudon-paths}}"
+    },
+    {
+     "t": "check",
+     "q": "What did Paxton aim to catch with his ridge-and-furrow roof, according to Grace's Guide?",
+     "o": [
+      "Only the midday sun",
+      "The low morning and evening sun, and to drain rain",
+      "Northern light",
+      "Heat from the soil"
+     ],
+     "a": 1,
+     "w": "The roof was set at right angles to the morning and evening sun to admit more light and drain rainwater. {{gg-paxton}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Ask what jobs each part does. {{loudon-paxton}}",
+      "Look for the part that does only one job.",
+      "Test one small change and write down what you expected."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Paxton's ridge-and-furrow roof was set at right angles to which light?",
+    "o": [
+     "Midday sun",
+     "Morning and evening sun",
+     "Northern light",
+     "Artificial light"
+    ],
+    "a": 1,
+    "w": "Paxton set the roof at right angles to the morning and evening sun to admit more light and drain rain. {{gg-paxton}}"
+   }
+  },
+  {
+   "key": "greenhouse-year-2",
+   "name": "Gertrude Jekyll",
+   "min": 24,
+   "outcome": "Plan a handover between two or three plantings so that no bed sits empty or crowded, and say where the plan is inference.",
+   "intro": "Gertrude Jekyll's Colour in the Flower Garden gives a working recipe: plant things that follow each other in season, and train a later plant to cover the gap an earlier one leaves. The recipe uses space and time together.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read Jekyll's own book Colour in the Flower Garden (1908) in the sections on the spring garden, on keeping a border furnished, and on the grey borders. We did not read all of it. {{jekyll-colour}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Plant in long drifts. She came to the conclusion that in all flower borders it is better to plant in long rather than block-shaped patches, and that a thin long planting does not leave an unsightly empty space when the flowers are done and the leaves have died down. {{jekyll-colour}}",
+      "Admit that no border stays full alone. A border given to the season from mid-July to October cannot be kept fully furnished without various contrivances. {{jekyll-colour}}",
+      "Plant things that follow each other. A full-grown Gypsophila covers a space a good four feet wide. On each side she plants Oriental Poppies, which make their leaf and flower growth in early summer while the Gypsophila is young, and die down by the time it is full grown and has covered them. {{jekyll-colour}}",
+      "Cover the next gap in advance. When the Gypsophila's seed-pods turn brown, she grows trailing Nasturtiums at its foot or within reach and leads them up. In another border Clematis and white Everlasting Pea are planted so they can be trained over the Gypsophila when its bloom is done. {{jekyll-colour}}",
+      "Leave supports in place. She sticks stiff branching spray among the Gypsophila in May to support it, and it remains as a firm sub-structure when the top is cut back and the other plants are brought over. {{jekyll-colour}}",
+      "Make one planting do more than one job. Tall plants such as Rudbeckia, Dahlias and snapdragons can be pulled down to cover bare ground with flowering side-shoots. {{jekyll-colour}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Jekyll wrote about flower borders in an English garden. The principle of pairing plants whose seasons follow each other carries over to a greenhouse bed, but that step is our inference. {{jekyll-colour}}"
+    },
+    {
+     "t": "table",
+     "title": "Jekyll's handover and a greenhouse version (the right column is our adaptation)",
+     "head": [
+      "Stage in Jekyll's border",
+      "What happens",
+      "Greenhouse bed version"
+     ],
+     "rows": [
+      [
+       "Early summer",
+       "Poppies grow and flower while the Gypsophila is young",
+       "A quick early crop grows while the later crop is small"
+      ],
+      [
+       "Midsummer",
+       "Poppies die down; Gypsophila fills out and covers them",
+       "The early crop is out as the late crop fills the space"
+      ],
+      [
+       "After bloom",
+       "Seed-pods brown; nasturtiums or climbers are led over",
+       "A third crop or cover is ready for the next gap"
+      ],
+      [
+       "Throughout",
+       "A twig support stays as a sub-structure",
+       "Strings and canes stay in place for the next planting"
+      ]
+     ],
+     "src": "The first two columns follow the book. The last column is our adaptation. {{jekyll-colour}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a handover in one bed (illustrative numbers)"
+    },
+    {
+     "t": "example",
+     "title": "A time line for a 12-foot bed",
+     "steps": [
+      "Jekyll's Gypsophila covers about four feet when full grown. {{jekyll-colour}} In a 12 ft run that is 12 ÷ 4 = 3 plants.",
+      "She plants poppies on each side of each Gypsophila. {{jekyll-colour}} That is two poppy positions beside each of the three plants, or 6 in all, which is a number for the drawing, not hers.",
+      "Mark the time line in weeks: poppies up and flowering, weeks 18 to 26; Gypsophila filling out, weeks 22 to 32; cover for the brown pods from week 33. These weeks are invented to show the layout.",
+      "Check the line for overlaps and gaps. Weeks 22 to 26 overlap by 5 weeks, which is the handover. A gap would show as a week with no label.",
+      "Greenhouse version: lettuce in the place of the poppies and a tomato in the place of the Gypsophila, with the same overlap check. That substitution is ours."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a handover plan"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Choose one bed and two crops where one finishes as the other fills.",
+      "Draw a time line with sowing, peak and finish for each, in weeks.",
+      "Mark the weeks they overlap and check for gaps.",
+      "Name a third crop or cover for the end.",
+      "Leave any supports in place for the next crop."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Choose one bed in your greenhouse plan. Pair two crops and draw the handover on a time line."
+    },
+    {
+     "t": "check",
+     "q": "Why did Jekyll prefer long drifts to block-shaped patches?",
+     "o": [
+      "They were cheaper",
+      "A long thin planting leaves no unsightly gap when flowers are done",
+      "They needed less water",
+      "They flowered longer"
+     ],
+     "a": 1,
+     "w": "She wrote that a long thin planting does not leave an unsightly empty space when the flowers are done. {{jekyll-colour}}"
+    },
+    {
+     "t": "check",
+     "q": "In Jekyll's example, why were poppies planted beside Gypsophila?",
+     "o": [
+      "They need the same soil",
+      "The poppies finish as the Gypsophila fills the space",
+      "They cross-pollinate",
+      "To keep pests away"
+     ],
+     "a": 1,
+     "w": "The poppies grow early and die down as the Gypsophila reaches full size and covers them. {{jekyll-colour}}"
+    },
+    {
+     "t": "check",
+     "q": "What did she leave in place among the Gypsophila after cutting it back?",
+     "o": [
+      "Nothing",
+      "The stiff branching spray that supported it",
+      "A net",
+      "Mulch"
+     ],
+     "a": 1,
+     "w": "The spray remains as a firm sub-structure when the top is cut back. {{jekyll-colour}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Plan a year in time as well as space. {{jekyll-colour}}",
+      "Pair crops so one finishes as the next fills the space.",
+      "A bed that sits empty or crowded is a planning gap."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did Jekyll say a long drift of plants avoids?",
+    "o": [
+     "Slugs",
+     "An unsightly empty space when the flowers are done",
+     "Watering",
+     "Frost"
+    ],
+    "a": 1,
+    "w": "A long thin planting does not leave an empty space when flowers are done. {{jekyll-colour}}"
+   }
+  },
+  {
+   "key": "greenhouse-year-3",
+   "name": "Gregor Mendel",
+   "min": 26,
+   "outcome": "Keep a seed-tray log of seeds sown, germinated and surviving, and say why small numbers mislead.",
+   "intro": "Gregor Mendel chose his plant, tested his seed stock for two years, protected the crosses and counted every seed. His paper also shows single plants giving ratios far from the average, which is why a small tray proves little.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read Mendel's 1865 paper in an English translation, from the opening on method through the first four experiments. It is his own report, so the record is rich for these claims. {{mendel65}} Wikipedia gives the outline of his life. {{wiki-mendel}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Choose the plant by its qualities. The plants must have constant differing characteristics, must be protectable from foreign pollen, and their offspring must stay fertile. He found the genus Pisum met these. {{mendel65}}",
+      "Test the seed stock first. He obtained 34 varieties from seedsmen and put them through a two-year trial. In one variety a few markedly different plants appeared, and he concluded the seeds had been accidentally mixed. {{mendel65}}",
+      "Select and keep records. He chose 22 of the varieties for the crossings, and they remained constant throughout. {{mendel65}}",
+      "Prevent stray pollen. He notes that accidental fertilisation by foreign pollen, if unrecognised, would lead to entirely erroneous conclusions, and he describes opening the bud early and removing the stamens with forceps before dusting the stigma. {{mendel65}}",
+      "Count every seed and report the ratio. From 253 hybrids he obtained 7,324 seeds, of which 5,474 were round and 1,850 angular, a ratio of 2.96 to 1. From 258 plants he obtained 8,023 seeds, 6,022 yellow and 2,001 green, a ratio of 3.01 to 1. {{mendel65}}",
+      "Show the spread between single plants, and take care when counting. He lists the first ten plants, reports extremes such as 43 round and 2 angular on one plant and 14 round and 15 angular on another, and says that with a smaller number of plants very considerable fluctuations may occur. He also warns that the green colour is sometimes less developed and easily overlooked, and that insect-damaged seeds can vary in colour and shape. {{mendel65}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "He also notes that the pods must stay on the plants until thoroughly ripened and dried, because only then are the shape and colour of the seed fully developed. {{mendel65}}"
+    },
+    {
+     "t": "p",
+     "x": "Wikipedia says that between 1856 and 1863 he cultivated and tested some 28,000 plants. {{wiki-mendel}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Mendel counted seeds from crosses, and a tray log counts germination. What we borrow is the discipline of choosing and testing the stock, controlling stray influences and counting everything. The worked examples are our arithmetic on his figures or on invented tray numbers. {{mendel65}}"
+    },
+    {
+     "t": "table",
+     "title": "Mendel's first two experiments (his figures; the ratio column is from the paper)",
+     "head": [
+      "Experiment",
+      "Plants",
+      "Seeds",
+      "Counts",
+      "Ratio"
+     ],
+     "rows": [
+      [
+       "1: seed form",
+       "253",
+       "7,324",
+       "5,474 round, 1,850 angular",
+       "2.96 : 1"
+      ],
+      [
+       "2: colour of albumen",
+       "258",
+       "8,023",
+       "6,022 yellow, 2,001 green",
+       "3.01 : 1"
+      ]
+     ],
+     "src": "From {{mendel65}}."
+    },
+    {
+     "t": "h",
+     "x": "Worked example: ten plants against the whole (his figures, our arithmetic)"
+    },
+    {
+     "t": "example",
+     "title": "Why a small count misleads",
+     "steps": [
+      "The first ten plants in experiment 1 gave round : angular counts of 45:12, 27:8, 24:7, 19:10, 32:11, 26:6, 88:24, 22:10, 28:6 and 25:7. {{mendel65}}",
+      "Their totals are 336 round and 101 angular, which is 437 seeds and a ratio of 336 ÷ 101 = 3.33 to 1. The whole experiment gave 2.96 to 1. {{mendel65}}",
+      "Single plants range from 19 ÷ 10 = 1.9 to 1 (plant 4) to 28 ÷ 6 = 4.7 to 1 (plant 9). With about 40 seeds a plant, the ratio swings widely.",
+      "Colour in experiment 2 shows the same: ten plants gave 355 yellow and 123 green, or 2.89 to 1, against 3.01 to 1 overall. {{mendel65}}",
+      "For a tray: 6 seeds sown and 4 germinated is 67%, and 24 sown with 20 germinated is 83%. Both may come from one packet, so do not judge a seed lot on one small tray."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a seed-tray log"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Start the log with columns for date sown, number sown, number germinated, number surviving to pricking out, and notes on failures.",
+      "Use the same tray, compost and place for each lot you compare.",
+      "Sow enough seeds in each lot to give a steady figure, and repeat the lot.",
+      "Count after the same number of days each time, and count seedlings that are small or pale too.",
+      "Report the failures along with the successes."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Start a seed log with columns for date sown, number sown, number germinated, number surviving to pricking out, and notes on failures."
+    },
+    {
+     "t": "check",
+     "q": "Tray 1: 30 seeds sown, 27 germinated. What is germination?",
+     "o": [
+      "80 per cent",
+      "90 per cent",
+      "27 per cent",
+      "93 per cent"
+     ],
+     "a": 1,
+     "w": "27 divided by 30 is 0.9, or 90 per cent."
+    },
+    {
+     "t": "check",
+     "q": "What did Mendel say happens with a smaller number of experimental plants?",
+     "o": [
+      "Results are always exact",
+      "Very considerable fluctuations may occur",
+      "Counting is unnecessary",
+      "Seeds germinate faster"
+     ],
+     "a": 1,
+     "w": "He noted that with a smaller number of experimental plants, very considerable fluctuations may occur. {{mendel65}}"
+    },
+    {
+     "t": "check",
+     "q": "What did he do about the odd plants in one of the 34 varieties?",
+     "o": [
+      "Ignored them",
+      "Concluded the seed had been accidentally mixed, after the two-year trial",
+      "Sold them",
+      "Crossed them first"
+     ],
+     "a": 1,
+     "w": "They did not vary in the following year and agreed with another variety, so the seeds had been accidentally mixed. {{mendel65}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Test the stock before the experiment. {{mendel65}}",
+      "Count everything and report failures as well as successes. {{mendel65}}",
+      "Small numbers can mislead, so repeat the lot."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "A tray of 20 seeds has 17 germinate. What is the germination percentage?",
+    "o": [
+     "75",
+     "80",
+     "85",
+     "90"
+    ],
+    "a": 2,
+    "w": "17 divided by 20 is 0.85, or 85 per cent."
+   }
+  },
+  {
+   "key": "greenhouse-year-4",
+   "name": "Justus von Liebig",
+   "min": 26,
+   "outcome": "Use the idea of the limiting factor to decide which factor to check first, test the fix, rule out the other causes, and state the limits of the idea.",
+   "intro": "Justus von Liebig's agricultural chemistry gives cases of a crop failing because one needed thing was missing, a diagnosis by analysis and a test with a remedy. The later 'law of the minimum' is a tidy summary of this habit, with limits.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read parts of the 1843 American edition of his Chemistry in its Application to Agriculture and Physiology: the chapter on the inorganic constituents of plants, the soil analyses and the chapter on the alternation of crops. {{liebig-1843}}"
+    },
+    {
+     "t": "p",
+     "x": "We did not find the phrase 'law of the minimum', or the barrel picture, in the passages we read. The law and its popularisation are covered by secondary sources, which say it was developed by Carl Sprengel and popularised by Liebig. {{wiki-liebig}} {{wisc-liebig}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "See that a missing constituent can stop a crop. He writes that we never find a luxuriant crop of grass on sandy and calcareous soils which contain little potash, evidently because one of the constituents indispensable to the growth of the plants is wanting. {{liebig-1843}}",
+      "Watch what extra yield removes. When the grass crop of a meadow is increased with gypsum, more potash is taken away with the hay than can be restored, so after several years the crops diminish, owing to the deficiency of potash. {{liebig-1843}}",
+      "Test the remedy. If the meadow is strewn from time to time with wood-ashes, even those used by soap-boilers, the grass thrives as luxuriantly as before, because the ashes are only a means of restoring the potash. {{liebig-1843}}",
+      "Diagnose by analysis. For a very barren soil on which white clover would not grow, he gives an analysis and names the likely cause as a deficiency of lime, magnesia, potash and gypsum, and notes that marl increased its fertility. {{liebig-1843}}",
+      "Rule out another cause. He says the dryness of that soil could not be the cause, because the stiff subsoil prevented a deficiency of moisture. {{liebig-1843}}",
+      "Read the summary with care. Modern summaries say growth is limited by the scarcest resource and picture a barrel with a short stave. {{wiki-liebig}} A 2021 paper calls it a crude approximation and shows other models fit growth data better. {{pmc-liebig}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Liebig's cases concern field soils. The pH and EC readings in this module come from the module's own sources, and the worked example below is our reading, not his. {{liebig-1843}}"
+    },
+    {
+     "t": "table",
+     "title": "Liebig's cases and a greenhouse reading (the right column is our adaptation)",
+     "head": [
+      "Case in the book",
+      "What was short",
+      "Fix and check",
+      "Greenhouse reading"
+     ],
+     "rows": [
+      [
+       "Meadow dressed with gypsum",
+       "Potash, drawn off with larger hay crops",
+       "Wood-ashes restore potash; grass recovers",
+       "A heavy crop can use up one nutrient first"
+      ],
+      [
+       "Barren soil, no white clover",
+       "Lime, magnesia, potash, gypsum",
+       "Marl; clover grows",
+       "Name the likely missing thing, then test the fix"
+      ],
+      [
+       "Dryness considered",
+       "Not moisture; the subsoil held water",
+       "Excluded as a cause",
+       "Rule out water and light before blaming feed"
+      ]
+     ],
+     "src": "The first three columns follow the 1843 text. The last column is our adaptation. {{liebig-1843}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: reading a pH and EC pair (illustrative, our reading)"
+    },
+    {
+     "t": "example",
+     "title": "Finding the short stave",
+     "steps": [
+      "List the factors you can measure or see: pH, EC, water, light and temperature.",
+      "Suppose pH is inside the range this module gives for your crop, but EC is low and the plants are pale. The short stave looks like feed strength.",
+      "Suppose instead that EC is fine but pH is far outside the range. The short stave may be the availability of what is in the medium. See this module's lessons on why pH and EC matter.",
+      "Change one thing, then re-test. Another factor may now be the limit. {{wisc-liebig}}",
+      "Write the reading, the change and the result in your log, as Liebig's cases record the cause, the remedy and the result. {{liebig-1843}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: did the fix work? (invented numbers)"
+    },
+    {
+     "t": "example",
+     "title": "A before-and-after check",
+     "steps": [
+      "Before: 12 pale plants of 40, which is 12 ÷ 40 = 30%. You raise the feed strength on one bench only.",
+      "After two weeks: 3 pale plants of 40 on that bench, which is 7.5%, and 11 of 40 on the untouched bench, which is 27.5%.",
+      "The fall on the changed bench is 22.5 points, and the control bench barely moved. The fix is supported, and the next check is whether another factor now limits growth."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a limiting-factor check"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "List every factor you can measure or see for the crop.",
+      "Rule out water, light and temperature first, as he ruled out moisture.",
+      "Name the likely short factor and the fix, and change one thing on one bench.",
+      "Keep a control bench unchanged.",
+      "Re-test and write down what limits growth next."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Take your latest pH and EC readings. Name the likely short stave, say what you would change, and note what you would check next."
+    },
+    {
+     "t": "check",
+     "q": "According to the law of the minimum as usually summarised, what limits growth?",
+     "o": [
+      "The total of all resources",
+      "The scarcest resource",
+      "The most abundant nutrient",
+      "Temperature only"
+     ],
+     "a": 1,
+     "w": "Growth is dictated by the scarcest resource, not by the total. {{wiki-liebig}}"
+    },
+    {
+     "t": "check",
+     "q": "In Liebig's meadow, why did hay crops fall after years of gypsum?",
+     "o": [
+      "Too much water",
+      "More potash was removed than was restored",
+      "Frost",
+      "Too many weeds"
+     ],
+     "a": 1,
+     "w": "The larger crops took away more potash than could be restored, so the crops diminished for deficiency of potash. {{liebig-1843}}"
+    },
+    {
+     "t": "check",
+     "q": "Why did he say dryness was not the cause of the barren soil?",
+     "o": [
+      "It rained a lot",
+      "The stiff subsoil prevented a deficiency of moisture",
+      "He did not test it",
+      "The soil was sandy"
+     ],
+     "a": 1,
+     "w": "He said the stiff subsoil prevented a deficiency of moisture. {{liebig-1843}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Find the missing thing, test the fix, rule out the other causes. {{liebig-1843}}",
+      "When one is fixed, another may become the limit. {{wisc-liebig}}",
+      "Treat the law as a rule of thumb, not an exact model. {{pmc-liebig}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "In the barrel image of Liebig's law, what sets how much the barrel holds?",
+    "o": [
+     "The longest stave",
+     "The shortest stave",
+     "The average stave",
+     "The number of staves"
+    ],
+    "a": 1,
+    "w": "The shortest stave sets the capacity. {{wiki-liebig}}"
+   }
+  },
+  {
+   "key": "greenhouse-year-5",
+   "name": "Joseph Paxton",
+   "min": 26,
+   "outcome": "Write a hot-day routine that ventilates first, shades outside the glass and logs temperatures on a schedule.",
+   "intro": "The Crystal Palace was a very large greenhouse that had to be kept cool, and the record of how Paxton's team did it gives this module a model. His ordinary houses already had adjustable vents worked from one place.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "The Crystal Palace facts come from a scholarly article on the building's environment, which draws on the building's records; we read it in an earlier pass, and it is a secondary source. {{sch}} The vent details for a Paxton house come from the Loudon description used in module 1. {{loudon-paxton}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Use ventilation as the main tool. The article says ventilation was the primary tool at the Palace, and that opening up for ventilation was the common horticultural way to bring extreme indoor heat down. {{sch}}",
+      "Make it operable from one place. Horizontal metal louvres were opened and closed by a wheel and cord, so one operator could work a 216-foot row from one position. {{sch}} In a Paxton house, back vents swung on pivots and were opened with long iron rods. {{loudon-paxton}}",
+      "Keep the rain out. The louvre blades were S-shaped, so rain could not enter while they were open. {{sch}}",
+      "Shade the outside of the glass. Translucent calico screens were hung outside, between the ridge beams, which shields the glass from direct solar radiation better than shading inside. {{sch}}",
+      "Log the temperature on a schedule. The Royal Sappers and Miners kept a two-hourly register of temperatures read from 14 thermometers in different parts of the building. {{sch}}",
+      "Learn from the log and adjust. After the first hot day, compare the log with how the plants looked and move the trigger. This step is our summary."
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The Palace was far larger than a home greenhouse, and the louvres and screens were custom work. The habits carry over, but the figures do not. {{sch}}"
+    },
+    {
+     "t": "table",
+     "title": "From the Palace to a hot-day routine (the right column is our adaptation)",
+     "head": [
+      "Palace practice",
+      "Source",
+      "Home routine"
+     ],
+     "rows": [
+      [
+       "Louvres worked from one position",
+       "Article",
+       "Vents you can open from the door"
+      ],
+      [
+       "S-shaped blades keep rain out",
+       "Article",
+       "Vents with a drip edge or rain cover"
+      ],
+      [
+       "Calico outside, between the ridges",
+       "Article",
+       "Shade netting or paint outside, not inside"
+      ],
+      [
+       "Two-hourly register, 14 thermometers",
+       "Article",
+       "Max-min thermometer plus a note at set times"
+      ],
+      [
+       "Pivoting vents on rods",
+       "Loudon",
+       "Adjustable openings, not just open or shut"
+      ]
+     ],
+     "src": "The first two columns follow the sources. The last column is our adaptation. {{sch}} {{loudon-paxton}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: how much did the Palace record? (the figures are from the article, the arithmetic is ours)"
+    },
+    {
+     "t": "example",
+     "title": "Counting readings",
+     "steps": [
+      "A reading every two hours is 24 ÷ 2 = 12 readings a day on each thermometer. {{sch}}",
+      "With 14 thermometers that is 12 × 14 = 168 readings a day. {{sch}}",
+      "A home greenhouse with 2 thermometers read every 2 hours during 12 daylight hours is 6 × 2 = 12 readings a day, which is enough to see the daily peak.",
+      "Write the readings in one table, with the time, the two temperatures and the vent setting.",
+      "After a hot day, find the hour of the peak and ask whether the vent was opened before it. The vent should open before the peak, not at it."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: building a routine (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Four lines",
+     "steps": [
+      "Take the upper comfort temperature for your crop from this module's climate lessons.",
+      "Choose the trigger for opening vents, and make sure you can reach them from one place. {{sch}}",
+      "Decide where shade goes. Put it outside the glass, and note when you apply it. {{sch}}",
+      "Choose logging times. On hot days, read every two hours, as the Palace's team did. {{sch}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: write the routine"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the trigger temperature for opening vents.",
+      "Write how you open them and from where.",
+      "Write where shade goes and when.",
+      "Write the logging times.",
+      "After the first hot day, compare the log with the plants and adjust the trigger."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write your own hot-day routine in four lines: trigger, ventilation, shade and log times."
+    },
+    {
+     "t": "check",
+     "q": "Where were the Crystal Palace's calico shading screens hung?",
+     "o": [
+      "Inside the glass",
+      "Outside the glass",
+      "On the floor",
+      "Over the vents only"
+     ],
+     "a": 1,
+     "w": "They were hung outside, between the ridge beams, which shields the glass better. {{sch}}"
+    },
+    {
+     "t": "check",
+     "q": "How often was temperature recorded in the Palace's register?",
+     "o": [
+      "Once a week",
+      "Daily",
+      "Every two hours",
+      "Never"
+     ],
+     "a": 2,
+     "w": "A two-hourly register was kept. {{sch}}"
+    },
+    {
+     "t": "check",
+     "q": "In the worked example, how many readings a day did 14 thermometers read every two hours give?",
+     "o": [
+      "14",
+      "84",
+      "168",
+      "336"
+     ],
+     "a": 2,
+     "w": "12 readings × 14 thermometers = 168."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Ventilate first. {{sch}}",
+      "Shade the outside of the glass. {{sch}}",
+      "Log temperatures at fixed times so you can learn from them. {{sch}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Why were the Crystal Palace's louvre blades S-shaped?",
+    "o": [
+     "For looks",
+     "So rain could not enter while open",
+     "To trap heat",
+     "To hold shading"
+    ],
+    "a": 1,
+    "w": "The S-shaped blades kept rain out when the ventilators were open. {{sch}}"
+   }
+  },
+  {
+   "key": "greenhouse-year-6",
+   "name": "Rachel Carson",
+   "min": 26,
+   "outcome": "Apply a look-first, least-disruption order to a pest decision and explain why broad spraying can backfire.",
+   "intro": "Rachel Carson's 1963 testimony to the US Senate gives her argument in her own words, including her answer to the question of whether she wanted to stop all chemical use. She did not. She wanted people to look first and choose the most selective response.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read her prepared statement and the questions that followed from the printed record of the Senate subcommittee hearing of 4 June 1963. It is Carson's own spoken and written testimony, so the record is rich for her position. The OCR text has some garbling. {{carson-1963}}"
+    },
+    {
+     "t": "p",
+     "x": "We could not obtain the full text of Silent Spring in this pass. Britannica and a study-guide summary stand in for the book, and the claims from them are marked as secondary. {{brit-silent}} {{ss-carson}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Look at the whole setting. She says people often assume pesticides are being introduced into a simple, easily controlled environment, as in a laboratory experiment, and that this is far from true. {{carson-1963}}",
+      "Count the spread. Massachusetts studies of 11 reservoirs found DDT in fish at an average of 85.4 parts per million and a maximum of 96.7, nearly 14 times the legal tolerance for DDT in foods. {{carson-1963}}",
+      "Follow the build-up. At Big Bear Lake, toxaphene applied at 0.2 ppm was found at 78 ppm in plankton, 200 ppm in fish and 1,700 ppm in a pelican. {{carson-1963}}",
+      "Ask first whether another method will do. Her answer to the committee's chairman: instead of automatically reaching for the spray gun, consider the whole problem, and find out first whether any other method can be used. {{carson-1963}}",
+      "If chemicals are needed, use them sparingly and selectively, in such a way that the controls built into the environment are not destroyed. {{carson-1963}}",
+      "Back diverse, specific methods. Biological controls are adapted to a particular species or group, so we must search for a great diversity of armaments, each precisely adjusted to its task, rather than one superweapon. {{carson-1963}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "She says clearly that she did not advocate abandoning chemical control: asked whether she was trying to stop the use of chemical poisons, she answered that this was not what she advocated, and she cited with approval the coordination of chemical and biological controls in the apple orchards of Nova Scotia. {{carson-1963}}"
+    },
+    {
+     "t": "p",
+     "x": "Her recommendations included reducing aerial spraying to the minimum needed, giving advance notice of spraying, and approving a new pesticide only when no existing chemical or other method will do the job. {{carson-1963}}"
+    },
+    {
+     "t": "p",
+     "x": "Britannica says Silent Spring called for greater moderation and care, not an end to all use. A study-guide summary says that spraying can weaken the environment's natural checks on a pest, so that the species can reproduce explosively. These are secondary. {{brit-silent}} {{ss-carson}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Carson testified about farms, forests and waterways. Applying her order of questions to a small glasshouse is our inference, and the thresholds in the worked example are invented. {{carson-1963}}"
+    },
+    {
+     "t": "table",
+     "title": "From the testimony to a greenhouse pest decision (the right column is our adaptation)",
+     "head": [
+      "Carson's point",
+      "Source",
+      "Greenhouse step"
+     ],
+     "rows": [
+      [
+       "Do not assume a simple, controlled setting",
+       "Statement",
+       "Look at the whole house: crop, neighbours, natural enemies"
+      ],
+      [
+       "Find out first whether another method can be used",
+       "Reply to Senator Ribicoff",
+       "Try cleaning, removal or exclusion first"
+      ],
+      [
+       "Use chemicals sparingly and selectively",
+       "Reply to Senator Ribicoff",
+       "Spot-treat the affected plants"
+      ],
+      [
+       "Do not destroy built-in controls",
+       "Reply to Senator Ribicoff",
+       "Protect the predators you can see"
+      ],
+      [
+       "Diverse armaments, each adjusted to its task",
+       "Statement",
+       "Match the response to the pest"
+      ]
+     ],
+     "src": "The first two columns follow the testimony. The last column is our adaptation. {{carson-1963}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a decision ladder for a pest sighting (illustrative, our reading)"
+    },
+    {
+     "t": "example",
+     "title": "Look first, then the gentlest response",
+     "steps": [
+      "Look first. Scout the same ten plants on a schedule and write down what you find.",
+      "Identify what you see. Is it a pest, a natural enemy, or plant damage from something else?",
+      "Decide whether it matters. Suppose your threshold is 5 pests on 10 plants. You count 3 on the first visit and 9 on the second, three days later. The count has tripled and passed the threshold.",
+      "Choose the gentlest response that works, such as cleaning, removing leaves or a biological control, before anything broader. {{carson-1963}}",
+      "Check again after a set time and record what happened. If a broad treatment kills the natural enemies too, expect pests to return. {{ss-carson}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: how build-up is counted (her figures, our arithmetic)"
+    },
+    {
+     "t": "example",
+     "title": "Concentration steps in the lake",
+     "steps": [
+      "From 0.2 ppm in the water to 78 ppm in plankton is 78 ÷ 0.2 = 390 times. {{carson-1963}}",
+      "Fish at 200 ppm are 200 ÷ 0.2 = 1,000 times the water level. The pelican at 1,700 ppm is 1,700 ÷ 0.2 = 8,500 times. {{carson-1963}}",
+      "The lesson for a small house is the direction, not the numbers: a chemical can concentrate along a food chain, so spot-treat and choose the narrowest option."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a decision ladder"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the pest you are most likely to meet and your threshold in numbers.",
+      "Write the steps in order: look, identify, decide, gentlest response, check.",
+      "Name the natural enemies you want to protect.",
+      "Write what would make you move to the next step.",
+      "Record each sighting and what you did."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write your own four-step ladder for the pest you are most likely to meet, and say what would make you move to the next step."
+    },
+    {
+     "t": "check",
+     "q": "What did Carson say should come before reaching for the spray gun?",
+     "o": [
+      "Nothing",
+      "Finding out first whether any other method can be used",
+      "A bigger sprayer",
+      "A ban on farming"
+     ],
+     "a": 1,
+     "w": "She said to consider the whole problem and find out first whether any other method can be used. {{carson-1963}}"
+    },
+    {
+     "t": "check",
+     "q": "Did she advocate abandoning chemical control altogether?",
+     "o": [
+      "Yes",
+      "No; she said chemicals have a place, used sparingly and selectively",
+      "Only for farms",
+      "Only for gardens"
+     ],
+     "a": 1,
+     "w": "She said she had not advocated complete abandonment. {{carson-1963}}"
+    },
+    {
+     "t": "check",
+     "q": "Why might broad spraying lead to a pest returning?",
+     "o": [
+      "It adds nutrients",
+      "It can weaken natural checks on the pest",
+      "It warms the house",
+      "It improves pollination"
+     ],
+     "a": 1,
+     "w": "The summary says weakening the environment's checks lets a species reproduce explosively. {{ss-carson}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Look first, then act in the gentlest effective way. {{carson-1963}}",
+      "Use chemicals sparingly and selectively, without destroying built-in controls. {{carson-1963}}",
+      "Record what you did and what happened."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Which approach best matches Carson's argument for pest control?",
+    "o": [
+     "Spray on a fixed schedule",
+     "Look first, decide, then use the gentlest effective response",
+     "Never act",
+     "Use the strongest chemical available"
+    ],
+    "a": 1,
+    "w": "She argued for finding out first whether another method can be used, and then using chemicals sparingly and selectively. {{carson-1963}}"
+   }
+  },
+  {
+   "key": "greenhouse-year-7",
+   "name": "Gertrude Jekyll",
+   "min": 24,
+   "outcome": "Write a month-by-month note, say what is true only 'in my experience in this place', and use the notes with earlier years to review the greenhouse year.",
+   "intro": "Gertrude Jekyll's Wood and Garden is a year of working notes set out month by month. It also records her mistakes and her rule never to say 'I know', which suit a ledger of one particular greenhouse.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read the introduction, the opening of the January chapter, her account of the winter iris and the chapter Beginning and Learning in Wood and Garden (1899). It is her own book, so the record is rich for these points, but we did not read it all. {{jekyll-wood}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Arrange the year by month. The main chapters run from January to December, and about a third of the book first appeared in 1896 and 1897 as Notes from Garden and Woodland in a newspaper. {{jekyll-wood}}",
+      "Begin each month with the work in hand. The January chapter opens with a hard frost, the thermometer at eighteen degrees, and the job of preparing protection for tender shrubs and cutting out crowded fir. {{jekyll-wood}}",
+      "Say what is true only in this place. She says the lesson she has learned most thoroughly is never to say 'I know', and that two able gardeners who disagree should each have said 'In my experience in this place' such a plant can only be done in such a way. {{jekyll-wood}}",
+      "Record the mistake and the fix. She planted a winter iris in a well-prepared border, got thick leaves and no flowers, concluded it wanted to be less well fed, moved it to poor soil at the foot of a sunny wall, and was rewarded with a good crop of flowers. {{jekyll-wood}}",
+      "Learn from trying. She advises that the real way is to learn a little from everybody and from every place, that there is no royal road, and that the learner should try, and go on trying, since there are all sorts of ways of learning, not only from people and books, but from sheer trying. {{jekyll-wood}}",
+      "Give new plantings time. Irises give a few blooms the first season but are not in strength till their second and third years. {{jekyll-colour}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Her notes cover an outdoor garden and woodland. Using her month-by-month structure for a greenhouse ledger is our adaptation. {{jekyll-wood}}"
+    },
+    {
+     "t": "table",
+     "title": "Jekyll's habits and a greenhouse ledger (the right column is our adaptation)",
+     "head": [
+      "Habit in the book",
+      "Source",
+      "Ledger version"
+     ],
+     "rows": [
+      [
+       "Month-by-month chapters",
+       "Wood and Garden",
+       "One note per month, written that month"
+      ],
+      [
+       "'In my experience in this place'",
+       "Wood and Garden",
+       "Mark results as true of your house, not of all houses"
+      ],
+      [
+       "Record the mistake and the change",
+       "Wood and Garden, iris",
+       "Write what you tried, what happened, what you changed"
+      ],
+      [
+       "Learn from sheer trying",
+       "Beginning and Learning",
+       "Try one thing at a time on a small scale"
+      ],
+      [
+       "Wait for the second and third year",
+       "Colour in the Flower Garden",
+       "Compare each month with the same month last year"
+      ]
+     ],
+     "src": "The first two columns follow the books. The last column is our adaptation. {{jekyll-wood}} {{jekyll-colour}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: one month's note (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Did, saw, next year",
+     "steps": [
+      "Pick a month. Write what you did, in a line or two. Jekyll's January chapter opens with the work in hand. {{jekyll-wood}}",
+      "Write what you saw: crops at harvest, problems, readings that surprised you.",
+      "Write one line for next year: earlier, later, more, less or stop.",
+      "Mark any claim that is only true of your house with 'in my experience in this place'. {{jekyll-wood}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: reading three years of March notes (invented numbers)"
+    },
+    {
+     "t": "example",
+     "title": "A cross-year review",
+     "steps": [
+      "March sowings: year 1, 40 sown and 30 germinated, 75%. Year 2, 40 and 34, 85%. Year 3, 40 and 32, 80%.",
+      "Average germination: (75 + 85 + 80) ÷ 3 = 80%.",
+      "Year 1 was 5 points below the average and year 2 was 5 above. Look at the notes for those years for a cause, such as the heater being off in year 1 or a new compost in year 2.",
+      "One year's gap is not a pattern. Wait for the second and third year before you change the plan. {{jekyll-colour}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: the year-end review"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Read all twelve month notes in order.",
+      "List three things that worked and three to change.",
+      "Compare each month with the same month in earlier years.",
+      "Mark which results are only true of your house.",
+      "Write the plan for next year's first month."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write your note for the current month using the three parts: did, saw, next year."
+    },
+    {
+     "t": "check",
+     "q": "How is the main part of Wood and Garden arranged?",
+     "o": [
+      "By plant family",
+      "Month by month, January to December",
+      "By soil type",
+      "Alphabetically"
+     ],
+     "a": 1,
+     "w": "Its chapters run from January to December. {{jekyll-wood}}"
+    },
+    {
+     "t": "check",
+     "q": "What did Jekyll say two disagreeing gardeners should have said?",
+     "o": [
+      "Nothing",
+      "'In my experience in this place' it can only be done this way",
+      "That the other is wrong",
+      "That it depends on the weather"
+     ],
+     "a": 1,
+     "w": "She said they should have said 'In my experience in this place'. {{jekyll-wood}}"
+    },
+    {
+     "t": "check",
+     "q": "Why does she say not to judge new plantings after one year?",
+     "o": [
+      "They die",
+      "Some are not in strength until their second or third year",
+      "They flower in winter",
+      "They need no care"
+     ],
+     "a": 1,
+     "w": "Irises, for example, are not in strength till their second and third years. {{jekyll-colour}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Keep short notes every month. {{jekyll-wood}}",
+      "Mark what is true only in your house. {{jekyll-wood}}",
+      "Review across years, because some results need time. {{jekyll-colour}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What three parts does a Jekyll-style month note have in this course?",
+    "o": [
+     "Cost, profit, tax",
+     "What I did, what I saw, next year",
+     "Sow, grow, sell",
+     "Rain, wind, sun"
+    ],
+    "a": 1,
+    "w": "Did, saw, and a line for next year."
+   }
+  },
+  {
+   "key": "greenhouse-year-cap",
+   "name": "Joseph Paxton",
+   "min": 24,
+   "outcome": "Scope your year from a standard repeating unit and a fixed deadline, as Paxton did with a building.",
+   "intro": "Joseph Paxton designed the Crystal Palace from repeated parts to a fixed deadline, after testing the techniques on smaller houses. His method helps scope the capstone year: fix the limits, choose the standard unit, then repeat it.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "The account of the 1850 design comes from a short article on the glazing, from Grace's Guide and from the Web Gallery of Art biography. We did not read Paxton's own account of the commission, and the JSTOR article was only opened, so these are secondary. {{jstor-glaz}} {{gg-paxton}} {{wga-paxton}}"
+    },
+    {
+     "t": "p",
+     "x": "The repeated-span roof and the draining pillar come from the Loudon description in module 1. {{loudon-paxton}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Accept the fixed limit. In June 1850 Paxton, a gardener, asked whether it was too late to submit a design for the Great Exhibition building, and on 11 June he sketched the essence of the building on blotting paper. {{jstor-glaz}}",
+      "Build on what is tested. The design drew on the glasshouses he had already built, and the Great Conservatory at Chatsworth had been the test-bed for the techniques. {{wga-paxton}}",
+      "Choose a standard part. The building's parts were prefabricated, and like modular buildings they could be produced in vast numbers and assembled into buildings of varied design. {{gg-paxton}}",
+      "Repeat the part. His roof in the described house is a number of span roofs joined together, so the same unit repeats along the length. {{loudon-paxton}}",
+      "Make each part do more than one job, as in module 1. {{loudon-paxton}}",
+      "Test one unit before committing the whole. This step is our reading of the Chatsworth-then-Palace sequence. {{wga-paxton}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Paxton's order of work, in our reading: accept the fixed limit, choose a standard part, then multiply it. For a greenhouse year the fixed limit is your frost dates and the standard part is a season block or a bed. {{jstor-glaz}}"
+    },
+    {
+     "t": "table",
+     "title": "From the Palace to a greenhouse year (the right column is our adaptation)",
+     "head": [
+      "Paxton's move",
+      "Source",
+      "Your year"
+     ],
+     "rows": [
+      [
+       "Fixed deadline, June 1850",
+       "JSTOR article",
+       "Frost dates and the dates you will be away"
+      ],
+      [
+       "Standard prefabricated part",
+       "Grace's Guide",
+       "One bed or one six-week season block"
+      ],
+      [
+       "Repeat the span",
+       "Loudon",
+       "Repeat the block across the year with shifted dates"
+      ],
+      [
+       "Test at Chatsworth first",
+       "WGA",
+       "Run one block before committing the year"
+      ]
+     ],
+     "src": "The first two columns follow the sources. The last column is our adaptation. {{jstor-glaz}} {{gg-paxton}} {{loudon-paxton}} {{wga-paxton}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: scoping with a standard unit (illustrative numbers)"
+    },
+    {
+     "t": "example",
+     "title": "Blocks in a frost-free year",
+     "steps": [
+      "Suppose your last frost is on week 18 and the first frost on week 44. The open window is 44 − 18 = 26 weeks.",
+      "With six-week blocks, 26 ÷ 6 = 4.33, so 4 full blocks use 24 weeks and 2 weeks remain for clean-out and reset.",
+      "Under glass you can start earlier and finish later. If the glass adds 8 weeks at each end, the window is 26 + 16 = 42 weeks, and 42 ÷ 6 = 7 blocks exactly.",
+      "Write the work in one block: sow, grow, harvest, clean out. Shift the dates for each repeat so crops hand over cleanly, as in module 2.",
+      "Test the first block on one bed and change the plan before you repeat it."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: scope the year"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the fixed limits: frost dates and dates away.",
+      "Choose one standard unit, a bed or a block of weeks.",
+      "Write the work for one unit.",
+      "Repeat the unit across the year with shifted dates.",
+      "Test one unit first and revise the plan."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Draw your year as a row of standard units. Mark the fixed limits and note one unit you will test first."
+    },
+    {
+     "t": "check",
+     "q": "What did Paxton do first on 11 June 1850?",
+     "o": [
+      "Built the Palace",
+      "Sketched the essence of the building on blotting paper",
+      "Ordered glass",
+      "Resigned"
+     ],
+     "a": 1,
+     "w": "He sketched the essence of the building on blotting paper. {{jstor-glaz}}"
+    },
+    {
+     "t": "check",
+     "q": "Why did Paxton's prefabricated parts suit the job?",
+     "o": [
+      "They were hand-made to fit",
+      "They could be produced in large numbers and assembled",
+      "They were all different",
+      "They were cheaper to design"
+     ],
+     "a": 1,
+     "w": "Elements could be produced in vast numbers and assembled into varied designs. {{gg-paxton}}"
+    },
+    {
+     "t": "check",
+     "q": "In the worked example, how many six-week blocks fit a 42-week window?",
+     "o": [
+      "4",
+      "6",
+      "7",
+      "8"
+     ],
+     "a": 2,
+     "w": "42 ÷ 6 = 7."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Start from the fixed limits. {{jstor-glaz}}",
+      "Choose a standard unit and repeat it. {{gg-paxton}}",
+      "Test one unit before committing the year. {{wga-paxton}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "In the Paxton method for scoping a year, what do you choose after the fixed limits?",
+    "o": [
+     "A standard repeating unit",
+     "The most complex bed",
+     "A new crop each week",
+     "The most expensive seed"
+    ],
+    "a": 0,
+    "w": "Choose a standard unit, then repeat it across the year. {{gg-paxton}}"
+   }
+  }
+ ]
+}

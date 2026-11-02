@@ -522,6 +522,130 @@
   },
   {
    "id": "l6",
+   "title": "What the supplied books add to the Sahara trade",
+   "min": 24,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "The books agree on the broad picture of salt, gold, camels and caravans, and disagree sharply about the Almoravids, the 'silent trade' and who carried the caravans. This lesson sets the positions side by side."
+    },
+    {
+     "t": "h",
+     "x": "Camels, salt and the start of the gold trade"
+    },
+    {
+     "t": "p",
+     "x": "Reader dates regular camel use for trade to the 2nd to 5th centuries AD and calls salt the first and most important long-distance good. Taoudeni and Teghaza salt came in slabs of about 30 kg, cut by debt-bonded miners. {{rd-pol}} He argues that gold only crossed the Sahara in quantity after the camel and a better climate, around the end of the 3rd century AD, because no classical writer records it and Lucan, about AD 60, says no gold was mined in Africa. That is his argument and a minority position, so tag it [CONTESTED]. {{rd-gold}}"
+    },
+    {
+     "t": "h",
+     "x": "The Almoravids and Ghana: four voices"
+    },
+    {
+     "t": "table",
+     "title": "Did the Almoravids conquer Ghana in 1076? What each book says",
+     "head": [
+      "Source",
+      "Says",
+      "Status"
+     ],
+     "rows": [
+      [
+       "Diop, Precolonial Black Africa",
+       "Tells a conquest of 1076 to 1087, with looting and killing, from al-Bakri and later writers. {{dpc-state}}",
+       "The traditional account, stated as fact."
+      ],
+      [
+       "Reader",
+       "Quotes Conrad and Fisher: no source, external or internal, unambiguously points to such a conquest, and later writers grow more confident. His own ecological explanation of Ghana's decline is a guess. {{rd-gold}}",
+       "[CONTESTED]"
+      ],
+      [
+       "The course lesson 2",
+       "A traditional account says conquest about 1076; scholars since the 1980s call the evidence thin.",
+       "[CONTESTED]"
+      ]
+     ],
+     "src": "{{rd-gold}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Diop says there was no Arab conquest south of the Sahara before the Moroccan invasion of the 16th century. That is too absolute: he leaves out Almoravid military pressure and the conquest of Egypt and Nubia's frontier. For the Sahel and the Swahili coast he is closer to the mainstream. {{dpc-state}}"
+    },
+    {
+     "t": "h",
+     "x": "Silent trade: a story that grew"
+    },
+    {
+     "t": "p",
+     "x": "Herodotus, al-Idrisi and Ibn Yaqut describe trade where goods are left and the buyers withdraw. Diop reports this for the gold-producers of the Faleme. {{dpc-tech}} Rodney calls Bovill's reading of it 'dumb' and says it describes first exchanges, not a permanent practice: the people of Bambuk and Boure were in regular trade by Ghana's time. {{rod-pre}} Oliver's young readers' book gives the same idea to Mali's gold traders without a source. {{oli-court}} Use it as a reported practice, not as the explanation of Ghana's gold. [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "Who carried the caravans?"
+    },
+    {
+     "t": "p",
+     "x": "Diop writes that caravans were an Arab initiative and that Africans traded only at home markets such as Djenne, Timbuktu and Gao. {{dpc-state}} The same book names Wangara merchants, and the lesson table has Soninke and Dyula networks beside Berber caravaners. Rodney adds that much capital came from Maghrib merchants who sent agents south, and that the Sudan exported few slaves because Kanem-Bornu raided its southern neighbours. {{rod-pre}} The safer line is a network with Sahelian, Berber and North African partners."
+    },
+    {
+     "t": "h",
+     "x": "Money and the scholars of Timbuktu"
+    },
+    {
+     "t": "p",
+     "x": "Diop lists the currencies on the Sahel: salt blocks, cowries (500 to 3,000 to the mithqal of gold), gold dust, copper rings, cloth strips and a 40,000-dinar debt note between Sijilmasa and Awdaghust in the 10th century. {{dpc-tech}} Treat the weights as the book's. On Timbuktu, he describes 'Sankore' as a set of mosque schools run by qadis and scholars without a founding act, repaired in 1569 by the qadi al-Aqib, with 150 to 180 Quranic schools. {{dpc-tech}} He does not say Mansa Musa founded a university, and neither should the lesson. The figure of over 700 works for Ahmad Baba is a traditional number. [CONTESTED]"
+    },
+    {
+     "t": "check",
+     "q": "Which source puts the Almoravid 'conquest' of Ghana most in doubt?",
+     "o": [
+      "Diop, who tells it as certain",
+      "Reader, quoting Conrad and Fisher on the lack of unambiguous sources",
+      "Oliver's book",
+      "Woodson's tales"
+     ],
+     "a": 1,
+     "w": "Conrad and Fisher are cited by Reader. {{rd-gold}}"
+    },
+    {
+     "t": "check",
+     "q": "What is the safest way to describe the silent trade of Ghana's gold?",
+     "o": [
+      "It was the permanent method of the whole trade",
+      "A reported practice from earlier or peripheral exchanges, not the permanent system",
+      "Invented by Mali",
+      "Never reported"
+     ],
+     "a": 1,
+     "w": "Rodney and Diop both place regular trade alongside it. {{rod-pre}}"
+    },
+    {
+     "t": "check",
+     "q": "Did Mansa Musa found a university at Sankore, on Diop's account?",
+     "o": [
+      "Yes",
+      "No: Diop describes mosque schools without a founding act",
+      "Only as a library",
+      "Yes, in 1300"
+     ],
+     "a": 1,
+     "w": "Diop gives a set of mosque schools repaired in 1569. {{dpc-tech}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Camels, salt and gold made the Sahara a corridor; the start date for gold is argued. {{rd-gold}}",
+      "The Almoravid conquest of Ghana remains [CONTESTED]; one book states it as fact.",
+      "Silent trade is reported, not the whole trade. {{rod-pre}}",
+      "Sankore means mosque schools, not a founded university. {{dpc-tech}}"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l7",
    "title": "The lecturer's method: Ibn Khaldun",
    "min": 22,
    "blocks": [

@@ -49,6 +49,14 @@
      "x": "German reinforcements destroyed food stores and villages, which caused famine. The rising ended in 1907. {{lib}}"
     },
     {
+     "t": "p",
+     "x": "The belief that medicine could turn bullets to water was not unique to Maji Maji. Hochschild reports a similar belief among the Kuba in the Congo revolt of about 1908, in which about 180 were killed. {{hs-inquiry}}"
+    },
+    {
+     "t": "p",
+     "x": "Africans also rose under the cover of churches. John Chilembwe led an armed rising in Nyasaland in 1915. Rodney dates it 1917, which is an error; use 1915 and cite Rodney only for his point that independent African churches were a vehicle of protest [check]. {{rod-colonial}}"
+    },
+    {
      "t": "table",
      "title": "Maji Maji: who died, by two sources",
      "head": [
@@ -167,6 +175,15 @@
     {
      "t": "p",
      "x": "Survivors were put in camps, including on Shark Island, with very high mortality. The camps were ordered closed in 1908. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Hochschild gives about 80,000 Herero in 1903 and under 20,000 in 1906, which is a loss of more than three quarters (our arithmetic: 20,000 is one quarter of 80,000). He adds that the genocide drew little protest, including from Morel's circle. {{hs-victory}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Reader's account of German rule as a 'miniature economic miracle', with welfare resolutions of 1914, sits beside the Herero and Nama genocide and the Maji Maji war in the same empire without reconciling them. Reader says the 1914 resolutions were never put into effect. Keep the violence in view when you use a general survey. {{rd-interwar}}"
     },
     {
      "t": "h",
@@ -311,8 +328,8 @@
      ],
      "rows": [
       [
-       "About 11,000 insurgents killed",
-       "British count",
+       "About 11,500 insurgents killed (official)",
+       "British official count; Reader repeats it {{rd-mau}}",
        "Insurgents killed in action: a narrow category",
        "[ESTIMATE]"
       ],
@@ -346,6 +363,19 @@
     {
      "t": "p",
      "x": "Mau Mau was also a civil war among Kikuyu. The encyclopaedia page notes Branch's argument that the story cannot be told without the loyalists. {{lib}} {{wiki-mau}}"
+    },
+    {
+     "t": "p",
+     "x": "Reader gives the scale of the British response: eleven infantry battalions, a heavy-bomber squadron, 21,000 police and a Home Guard of 25,000. He puts about 2,000 loyalist Kikuyu and 32 white civilians among the dead, and says Kenyatta served seven years of hard labour and was released in 1961. {{rd-mau}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Reader frames the violence as mainly Kikuyu against Kikuyu loyalists and does not mention the detention camps, villagisation or torture. That is the older colonial-flavoured account, and it omits what Anderson and Elkins documented. Reader also says Kenyatta was installed as President in 1963. {{rd-mau}} Our check: he became Prime Minister at independence on 12/12/1963 and the first President of the republic in 12/1964 [check]."
+    },
+    {
+     "t": "p",
+     "x": "Rodney adds the schooling context: the British closed 149 Kikuyu Independent Schools Association schools, 21 of the Kikuyu Karinga Education Association and 14 other independent schools, 184 in all (our arithmetic: 149 + 21 + 14), as training grounds for rebellion. Check the count against Anderson or Elkins before relying on it [PROBABLE]. {{rod-colonial}}"
     },
     {
      "t": "h",
@@ -477,6 +507,11 @@
       ]
      ],
      "src": "{{lib}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The First World War reached Africa too. Reader gives Togo's surrender on 26/08/1914, over a million African troops and a million carriers in East Africa, 450,000 soldiers sent from French colonies to Europe, and up to 260,000 porters impressed in the Congo. Totals differ between sources [ESTIMATE]. {{rd-war}} Hochschild adds one Congo district where 1,359 of 83,518 conscripted men died. {{hs-victory}}"
     },
     {
      "t": "example",
