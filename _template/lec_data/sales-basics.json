@@ -1,0 +1,1340 @@
+{
+ "refs": {
+  "friedman-hbs": [
+   "John H. Patterson and the Sales Strategy of the National Cash Register Company, 1884 to 1922 (the Harvard Business School excerpt of the Business History Review article, on the Primer, read in full)",
+   "Friedman, Harvard Business School Working Knowledge",
+   "https://www.library.hbs.edu/working-knowledge/john-h-patterson-and-the-sales-strategy-of-the-national-cash-register-company-1884-to-1922"
+  ],
+  "friedman-full": [
+   "John H. Patterson and the sales strategy of the National Cash Register Company, 1884 to 1922 (the full article, read in an earlier pass for the territories, reports and quotas; the page now returns only a stub, so those details were not re-checked)",
+   "Friedman, Business History Review, via The Free Library",
+   "https://www.thefreelibrary.com/John+H.+Patterson+and+the+Sales+Strategy+of+the+National+Cash...-a054140954"
+  ],
+  "brit-patterson": [
+   "John Henry Patterson",
+   "Britannica Money",
+   "https://www.britannica.com/money/John-Henry-Patterson"
+  ],
+  "carnegie-principles": [
+   "Our Principles (from How to Win Friends and Influence People)",
+   "Dale Carnegie Training",
+   "https://www.dalecarnegie.com/en-gb/about/culture"
+  ],
+  "carnegie-wiki": [
+   "How to Win Friends and Influence People (the lists of principles and the reception section read in full; Wikipedia, secondary)",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People"
+  ],
+  "brit-carnegie-book": [
+   "How to Win Friends and Influence People",
+   "Encyclopaedia Britannica",
+   "https://www.britannica.com/topic/How-to-Win-Friends-and-Influence-People"
+  ],
+  "selfridge": [
+   "Harry Gordon Selfridge",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/Harry_Gordon_Selfridge"
+  ],
+  "selfridges": [
+   "Selfridges",
+   "Wikipedia",
+   "http://en.wikipedia.org/wiki/Selfridges"
+  ],
+  "ziglar-sum": [
+   "The Secrets of Closing the Sale by Zig Ziglar (a book summary, read for its first 100,000 characters of about 133,000; secondary, the book was not read)",
+   "The Investor's Podcast",
+   "https://www.theinvestorspodcast.com/blog/zig-ziglars-secrets-of-closing-the-sale-book-summary"
+  ],
+  "brit-cadbury": [
+   "George Cadbury",
+   "Britannica Money",
+   "https://www.britannica.com/money/George-Cadbury"
+  ],
+  "wiki-bournville": [
+   "Bournville",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/Bournville"
+  ],
+  "wa-cadbury": [
+   "The Campaign against Island Slavery 1901 to 1908 (adapted from John F. Crosfield; the Cadbury family's own account, read in full)",
+   "William A. Cadbury Charitable Trust",
+   "https://wa-cadbury.org.uk/the-campaign-against-island-slavery-1901-1908-adapted-from-the-account-by-john-f-crosfield/"
+  ],
+  "springer-cadbury": [
+   "Cocoa, Cadbury and Forced Labour in Sao Tome and Principe (chapter abstract)",
+   "Springer",
+   "https://link.springer.com/chapter/10.1007/978-3-031-68759-4_2"
+  ],
+  "jstor-higgs": [
+   "Happiness and Work: Portuguese Peasants, British Laborers, African Contract Workers, and the Case of Sao Tome and Principe, 1901 to 1909 (abstract)",
+   "Catherine Higgs, International Labor and Working-Class History 86, 2014",
+   "https://www.jstor.org/stable/43302765"
+  ],
+  "cadbury-1912": [
+   "Experiments in Industrial Organization (1912; the chapters on organisation, the Men's Works Committee and the suggestion scheme read in part; the firm's own account, by Edward Cadbury)",
+   "Edward Cadbury, Internet Archive",
+   "https://archive.org/details/experimentsinind00cadb"
+  ],
+  "selfridge-roc": [
+   "The Romance of Commerce (1918): chapter I (honesty and advertising) and chapter XXIV (the department store's managers, windows and figures) read",
+   "H. Gordon Selfridge, Internet Archive",
+   "https://archive.org/details/cu31924030139004"
+  ]
+ },
+ "modules": [
+  {
+   "key": "sales-basics-1",
+   "name": "John H. Patterson",
+   "min": 26,
+   "outcome": "Describe selling as a trained process, and judge when structure helps and when it turns into pressure, using the NCR Primer's own lines.",
+   "intro": "John H. Patterson gave National Cash Register salesmen a script, the Primer, that told them what to say and what to do while saying it. Its own lines show the two sides: honest advice about sympathy and sincerity, and closing tricks that a buyer could fairly call pressure.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read the Harvard Business School excerpt of Friedman's Business History Review article in full. It quotes the Primer directly. We read the rest of the article in an earlier pass, but its page now returns only a stub, so claims taken from it are marked and were not re-checked. {{friedman-hbs}} {{friedman-full}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Do not credit him with the invention. Scripts were rare but not new: Henry B. Hyde's Hints for Agents (1859), booklets for Bible Society canvassers, and Bates Harrington's How 'Tis Done (1879) came before the first NCR Primer in 1887. {{friedman-hbs}}",
+      "See what the script covered. The first sales script, How I Sell National Cash Registers, was written by Patterson's brother-in-law Joseph Crane and told salesmen what to do while speaking, with an asterisk meaning point to the item. {{friedman-hbs}}",
+      "Follow the four steps. Approach (no mention of the register; offer to help the merchant raise profit), proposition (first description of the register and how it prevents theft and gives an accurate daily account), demonstration (at a hotel display or the branch office), and close. {{friedman-hbs}}",
+      "Read the closing advice. It said not to ask for an order but to take it for granted, asking 'what colour shall I make it?' or 'how soon do you want delivery?', then fill in the order blank and hand over the pen. {{friedman-hbs}}",
+      "Read the warnings in the same text. 'Avoid giving the impression to the merchant that you are trying to force him to buy,' because 'no man likes to feel he is being sold,' and the first rules were sympathy for the buyer's business and sincerity. {{friedman-hbs}}",
+      "See that the script was revised. A Book of Arguments followed, then a Sales Manual in 1894 that combined the two, nearly two hundred pages by 1904, cut to a 56-page booklet by 1910 to make it easier to master. {{friedman-hbs}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Friedman reports an agent's own account of selling: he says he sells a stranger the register that fits his needs, tells a buyer who thinks the price high that he does not blame him, and sometimes says he does not want to sell a register to someone who will not use it, because one misplaced register might spoil the sale of a dozen. Another agent sells the model the buyer asks for first and educates him afterwards, even if it is not the best fit. That is a limit, not a model. {{friedman-hbs}}"
+    },
+    {
+     "t": "p",
+     "x": "A former salesman, T. C. Henry, wrote in his 1913 book Tricks of the Cash Register Trust that every argument a merchant could raise had been thrashed out in the company's schools, and he called the company a shark. {{friedman-full}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "These sources describe a company of the 1880s to 1920s selling cash registers. The seven steps in this module come from a modern textbook, so the link to Patterson is the idea of a repeatable process, not the same steps. {{friedman-hbs}}"
+    },
+    {
+     "t": "table",
+     "title": "The Primer's four steps and a fair-dealing check (the right column is our adaptation)",
+     "head": [
+      "Step",
+      "What the Primer had the salesman do",
+      "Check before you copy it"
+     ],
+     "rows": [
+      [
+       "Approach",
+       "Say nothing of the register; offer to help the merchant raise profit",
+       "Is the offer true? Do you have anything to offer that helps?"
+      ],
+      [
+       "Proposition",
+       "Describe the register's benefits (stops theft, accurate daily account)",
+       "Can you show each benefit? Say what it cannot do."
+      ],
+      [
+       "Demonstration",
+       "Lead the customer up to the point of buying",
+       "Does the buyer get to try and question it?"
+      ],
+      [
+       "Close",
+       "Take the sale for granted; hand over the pen",
+       "Would you be happy if the buyer read this page? If not, drop it."
+      ]
+     ],
+     "src": "The first two columns follow the excerpt. The last column is our adaptation. {{friedman-hbs}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: structure that serves the buyer (illustrative, our reading)"
+    },
+    {
+     "t": "example",
+     "title": "A one-page process",
+     "steps": [
+      "Write your own seven steps on one page, in your own words, from this module.",
+      "For each step, write one thing you will say or do, and one thing you will not do. The Primer warned against forcing the sale. {{friedman-hbs}}",
+      "Add a test: would I be comfortable if the buyer read this page?",
+      "Practise it, but listen, because the buyer's answers decide the next step.",
+      "Remove anything a customer could fairly call a trick."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: how long a script lives (the figures are from the excerpt, the arithmetic is ours)"
+    },
+    {
+     "t": "example",
+     "title": "Cutting a manual",
+     "steps": [
+      "The Sales Manual reached nearly 200 pages in 1904 and 56 pages in 1910. {{friedman-hbs}}",
+      "That is 56 ÷ 200 = 28% of the size, a cut of about 72%.",
+      "The stated reason was that it was easier for salesmen to master. A script nobody can remember does not change what they say.",
+      "For your own page: if you cannot say each step from memory after three practices, shorten it."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: write and test your process"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the steps of your sale on one page.",
+      "For each step, write what you will do and what you will not do.",
+      "Apply the 'could the buyer read this?' test to each line.",
+      "Practise it aloud with someone and note where it sounds like a trick.",
+      "Shorten it until you can say it from memory."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write a one-page process for a sale you might make, with a will say and a will not do for each step."
+    },
+    {
+     "t": "check",
+     "q": "What was the Primer?",
+     "o": [
+      "A tax form",
+      "NCR's sales script, How I Sell National Cash Registers",
+      "A magazine",
+      "A price list"
+     ],
+     "a": 1,
+     "w": "The first company sales script became known as the Primer. {{friedman-hbs}}"
+    },
+    {
+     "t": "check",
+     "q": "What did the Primer say about forcing a sale?",
+     "o": [
+      "Always force it",
+      "Avoid giving the impression you are forcing the buyer",
+      "Never ask",
+      "Ignore objections"
+     ],
+     "a": 1,
+     "w": "It warned that no man likes to feel he is being sold. {{friedman-hbs}}"
+    },
+    {
+     "t": "check",
+     "q": "Which closing advice from the Primer is an example of taking the sale for granted?",
+     "o": [
+      "Ask if they want to think it over",
+      "Ask 'what colour shall I make it?' and hand over the pen",
+      "Offer a refund",
+      "Leave a brochure"
+     ],
+     "a": 1,
+     "w": "It told salesmen not to ask for an order but to assume the buyer would buy. {{friedman-hbs}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "A repeatable process helps new salespeople. {{friedman-hbs}}",
+      "Sincerity and sympathy for the buyer's business were rules too. {{friedman-hbs}}",
+      "Test every step: could the buyer read this page?"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Who gave National Cash Register salesmen scripts, territories and training?",
+    "o": [
+     "Dale Carnegie",
+     "John H. Patterson",
+     "Zig Ziglar",
+     "Harry Selfridge"
+    ],
+    "a": 1,
+    "w": "Patterson did, as described by Friedman. {{friedman-hbs}}"
+   }
+  },
+  {
+   "key": "sales-basics-2",
+   "name": "John H. Patterson",
+   "min": 24,
+   "outcome": "Set a territory, a daily record and an honest target for prospecting, and note the limits of Patterson's methods.",
+   "intro": "Patterson's company divided the map into territories, recorded every call and set quotas, and used contests and conventions to drive effort. Those habits underpin prospecting and records. His pressure on rivals is the part to leave out.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "The Harvard Business School excerpt of Friedman's article states the management system in general terms. {{friedman-hbs}} The details on territories, daily reports, the sales school and quotas come from the full article and from Britannica, which we read in an earlier pass; the full article's page now returns only a stub, so those details were not re-checked. {{friedman-full}} {{brit-patterson}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Give each person a territory. Patterson assigned each salesman an exclusive territory. {{brit-patterson}}",
+      "Train before you send. He opened a sales school in 1894, with an initial course of six weeks. {{friedman-full}}",
+      "Record every call. Salesmen wrote daily reports listing the customers called on, the sales made and the prospects visited. {{friedman-full}}",
+      "Set a quota from a stated basis. Quotas were first set by the population of the territory, on his calculation that one register could be sold for every four hundred people, and later by the previous year's sales. {{friedman-full}}",
+      "Meet and compare. He held conventions and thematic sales contests, and the excerpt describes a system covering everything from quota calculation and commission rates to motivating discouraged salesmen. {{friedman-hbs}}",
+      "Leave out the hostility. The excerpt says he pressured salesmen to rid their regions of competition, and the reports also tracked competitors the company aimed to knock out. Aggressive tactics against rivals are not a model here. {{friedman-hbs}} {{friedman-full}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The quota basis was crude, one register per 400 people, and it was replaced by past sales as experience grew. A target should come from your own record and move when the record does. {{friedman-full}}"
+    },
+    {
+     "t": "table",
+     "title": "Patterson's system and a personal version (the right column is our adaptation)",
+     "head": [
+      "Element",
+      "In Patterson's company",
+      "Personal version"
+     ],
+     "rows": [
+      [
+       "Territory",
+       "An exclusive area for each salesman",
+       "A defined type of customer and area"
+      ],
+      [
+       "Training",
+       "A six-week school from 1894",
+       "Practise your process aloud before you go out"
+      ],
+      [
+       "Record",
+       "A daily report of calls, sales and prospects",
+       "A one-line daily log"
+      ],
+      [
+       "Quota",
+       "Population first, then last year's sales",
+       "A target set from your own last month"
+      ],
+      [
+       "Contests and conventions",
+       "Motivation by competition",
+       "Review weekly with a peer, not against them"
+      ]
+     ],
+     "src": "The first two columns follow the sources. The last column is our adaptation. {{brit-patterson}} {{friedman-full}} {{friedman-hbs}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a quota from population (his rule, our arithmetic)"
+    },
+    {
+     "t": "example",
+     "title": "One register per 400 people",
+     "steps": [
+      "A territory of 12,000 people at one register per 400 gives 12,000 ÷ 400 = 30 registers. {{friedman-full}}",
+      "A territory of 50,000 gives 50,000 ÷ 400 = 125.",
+      "If last year's sales in the first territory were 24, the later method would set this year's quota near 24, which is 80% of the population figure.",
+      "The population rule ignores the competition, price and local trade, which is why experience replaced it. {{friedman-full}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a prospecting week (illustrative numbers)"
+    },
+    {
+     "t": "example",
+     "title": "Territory, record, target",
+     "steps": [
+      "Define your territory: a type of customer and an area. A clear boundary stops you drifting.",
+      "Set a target you can check, for example 20 qualified conversations in the week.",
+      "Keep a daily record: who you contacted, what happened and the next step. {{friedman-full}}",
+      "At the end of the week, count. If you had 12 conversations against a target of 20, you reached 60 per cent.",
+      "Adjust the target using last week's result, as Patterson's quotas moved to past volume. {{friedman-full}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: your prospecting system"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Define your territory in one sentence.",
+      "Set a weekly target from your own record.",
+      "Make a one-line daily log template.",
+      "Count at the end of the week and work out the percentage.",
+      "Adjust the target and write down why."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Define your territory, set a weekly target, and make a one-line daily record template."
+    },
+    {
+     "t": "check",
+     "q": "How were NCR quotas first set?",
+     "o": [
+      "By the salesman's wish",
+      "By the population of the territory",
+      "By the weather",
+      "By a lottery"
+     ],
+     "a": 1,
+     "w": "Initially quotas were set according to the population of the territory. {{friedman-full}}"
+    },
+    {
+     "t": "check",
+     "q": "A territory of 12,000 people at one register per 400 gives what quota?",
+     "o": [
+      "12",
+      "30",
+      "300",
+      "480"
+     ],
+     "a": 1,
+     "w": "12,000 ÷ 400 = 30."
+    },
+    {
+     "t": "check",
+     "q": "12 conversations against a target of 20 is what percentage?",
+     "o": [
+      "40",
+      "50",
+      "60",
+      "70"
+     ],
+     "a": 2,
+     "w": "12 divided by 20 is 0.6, or 60 per cent."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Territory, record and target give prospecting a shape. {{friedman-full}}",
+      "Review results and adjust the target.",
+      "Avoid hostile tactics against rivals. {{friedman-hbs}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did NCR salesmen record in daily reports?",
+    "o": [
+     "Their meals",
+     "Customers called on, sales and prospects",
+     "The weather",
+     "Their mileage only"
+    ],
+    "a": 1,
+    "w": "Daily reports listed customers called on, sales made and prospects. {{friedman-full}}"
+   }
+  },
+  {
+   "key": "sales-basics-3",
+   "name": "Dale Carnegie",
+   "min": 24,
+   "outcome": "Use Carnegie's six ways to make people like you in your first thirty seconds, keep the interest genuine, and say what the critics said.",
+   "intro": "Dale Carnegie's How to Win Friends and Influence People gave short rules for dealing with people. The book is still in copyright and we did not read it, so this lesson works from the wording of its principles and from the reception, including the charge that the method can be insincere.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We did not read the book. The principles below are quoted as worded in the Wikipedia article's lists, and the reception comes from the same article. Britannica's note on genuine interest comes from an earlier pass. {{carnegie-wiki}} {{brit-carnegie-book}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Know the book's shape. It was published by Simon & Schuster in late 1936, and the 1981 edition cut its sections from six to four. Carnegie called it an action-book. {{carnegie-wiki}}",
+      "Start with the fundamentals. The first part says: don't criticise, condemn or complain; give honest and sincere appreciation; arouse in the other person an eager want. {{carnegie-wiki}}",
+      "Learn the six ways. Become genuinely interested in other people; smile; remember a person's name is the sweetest and most important sound in any language; be a good listener and encourage others to talk about themselves; talk in terms of the other person's interest; make the other person feel important, and do it sincerely. {{carnegie-wiki}}",
+      "Notice the qualifiers. 'Genuinely' and 'sincerely' are in the wording of the principles. Britannica notes the emphasis on genuine interest rather than flattery. {{carnegie-wiki}} {{brit-carnegie-book}}",
+      "Know the criticism. Sinclair Lewis said the book taught people to smile and bob and pretend to be interested in other people's hobbies, and later scholars called Carnegie insincere and manipulative. {{carnegie-wiki}}",
+      "See the balanced early review. The New York Times in February 1937 said Carnegie offered insightful advice but that his wisdom was very simple and should not replace real knowledge. {{carnegie-wiki}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "These can be used as tricks. If the interest is not real, the buyer will often notice, and this module's lessons on fair selling apply. Use the list as habits of attention, not as a script. {{carnegie-wiki}}"
+    },
+    {
+     "t": "table",
+     "title": "The six ways and a sincerity check (the right column is our adaptation)",
+     "head": [
+      "Way to make people like you",
+      "Source",
+      "Sincerity check"
+     ],
+     "rows": [
+      [
+       "Become genuinely interested in other people",
+       "Part 2",
+       "Can you name one thing you actually want to know about them?"
+      ],
+      [
+       "Smile",
+       "Part 2",
+       "Smile because you are glad to meet them, not to look keen"
+      ],
+      [
+       "Remember their name",
+       "Part 2",
+       "Write it down; use it to respect, not to manipulate"
+      ],
+      [
+       "Be a good listener",
+       "Part 2",
+       "Do you let them finish?"
+      ],
+      [
+       "Talk in terms of their interest",
+       "Part 2",
+       "Is what you say true of their situation?"
+      ],
+      [
+       "Make them feel important, sincerely",
+       "Part 2",
+       "Praise only what you actually noticed"
+      ]
+     ],
+     "src": "The first two columns follow the article. The last column is our adaptation. {{carnegie-wiki}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a thirty-second opening (illustrative, our reading)"
+    },
+    {
+     "t": "example",
+     "title": "Built on the six",
+     "steps": [
+      "Before the call, find one thing about the person or company that interests you, from your preapproach notes.",
+      "Greet them by name and smile, even on the phone. {{carnegie-wiki}}",
+      "Say who you are in one sentence, and why you are calling in terms of their interest. {{carnegie-wiki}}",
+      "Ask one open question, then listen without interrupting. {{carnegie-wiki}}",
+      "Say something sincere you noticed, and do not invent it."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a name-recall practice (invented numbers)"
+    },
+    {
+     "t": "example",
+     "title": "Measuring one habit",
+     "steps": [
+      "At an event, meet 10 people and write each name after leaving. The next day, check how many you can recall: say 6.",
+      "That is 6 ÷ 10 = 60%. Set a target such as 8 of 10, and try repeating the name in conversation and writing it at once.",
+      "The target and method are our suggestion. The book gives the principle, not a count. {{carnegie-wiki}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: an opening you could defend"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write one sincere interest question for a real prospect.",
+      "Write your one-sentence introduction in their terms.",
+      "Write what you will notice and say, and check it is true.",
+      "Practise it and watch for anything that sounds like a technique.",
+      "Cut anything you would not say to a friend."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write your thirty-second opening for a real or imagined prospect, with the question you will ask."
+    },
+    {
+     "t": "check",
+     "q": "Which is one of Carnegie's six ways to make people like you?",
+     "o": [
+      "Interrupt often",
+      "Be a good listener",
+      "Talk about yourself",
+      "Never use names"
+     ],
+     "a": 1,
+     "w": "Be a good listener, and encourage others to talk about themselves. {{carnegie-wiki}}"
+    },
+    {
+     "t": "check",
+     "q": "What did Sinclair Lewis say about the book?",
+     "o": [
+      "It was the best ever",
+      "It taught people to smile and bob and pretend interest",
+      "It was too long",
+      "It was banned"
+     ],
+     "a": 1,
+     "w": "He criticised it as teaching people to smile and bob and pretend to be interested. {{carnegie-wiki}}"
+    },
+    {
+     "t": "check",
+     "q": "What does the lesson warn about using the six ways?",
+     "o": [
+      "Never use them",
+      "They can be used as tricks, so keep the interest genuine",
+      "They are illegal",
+      "They only work online"
+     ],
+     "a": 1,
+     "w": "Britannica notes the emphasis on genuine interest. {{brit-carnegie-book}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Be interested, smile, use names, listen. {{carnegie-wiki}}",
+      "Talk in terms of their interests.",
+      "Keep it sincere, because critics call the method manipulative when it is not. {{carnegie-wiki}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "In what year did How to Win Friends and Influence People appear?",
+    "o": [
+     "1906",
+     "1936",
+     "1966",
+     "1996"
+    ],
+    "a": 1,
+    "w": "It appeared in 1936. {{carnegie-wiki}} {{brit-carnegie-book}}"
+   }
+  },
+  {
+   "key": "sales-basics-4",
+   "name": "Harry Gordon Selfridge",
+   "min": 24,
+   "outcome": "Stage a presentation so the customer can see, handle and picture the product, thinking from the customer's side, without exaggeration.",
+   "intro": "Harry Gordon Selfridge wrote a book arguing that dependable statements pay and that a sales manager must think from the customer's standpoint. He treated windows and displays as a craft and the first contact with staff as the start of the customer's goodwill.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read chapter I of his 1918 book The Romance of Commerce, on honesty and advertising, and chapter XXIV, on the managers of a department store. It is his own book, so the claims about his methods are his. {{selfridge-roc}} The facts about the store come from Wikipedia. {{selfridge}} {{selfridges}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Begin from the customer's standpoint. The manager of sales must put himself in the place of the public and think from the standpoint of the customer. {{selfridge-roc}}",
+      "Treat the display as a craft. Windows are studied with the care a stage manager gives stage effects, designed and dressed in a studio before they go into the window. {{selfridge-roc}}",
+      "Make the first contact good. Before the public complete their first transactions they must come into direct contact with a member of staff, and on how that transaction is conducted depends largely the future goodwill or disrespect of the customer. {{selfridge-roc}}",
+      "Let staff learn from errors. The precept for staff is 'Don't make the same mistake twice.' {{selfridge-roc}}",
+      "Keep every statement dependable. Honesty always pays, and exaggerated statements of any kind are dangerous. {{selfridge-roc}}",
+      "Use figures. The sales manager must be an adept at figures, to whom a table of comparative percentages is as clear as the primer. {{selfridge-roc}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Wikipedia describes a store that opened on 15 March 1909, with goods laid out for customers to examine and features that included a silence room. It credits him with promoting shopping for pleasure rather than necessity. {{selfridge}} {{selfridges}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Selfridge sold in a large store with staff and a window budget. A small seller has a table, a phone and a few photographs. The thinking carries over as making the item easy to see and understand, and that adaptation is ours. {{selfridge-roc}}"
+    },
+    {
+     "t": "table",
+     "title": "From the store to your presentation (the right column is our adaptation)",
+     "head": [
+      "Selfridge's point",
+      "Source",
+      "Your presentation"
+     ],
+     "rows": [
+      [
+       "Think from the customer's standpoint",
+       "Romance of Commerce, ch. XXIV",
+       "List the buyer's questions before you begin"
+      ],
+      [
+       "Dress the window with care",
+       "ch. XXIV",
+       "Arrange the product so it can be seen and handled"
+      ],
+      [
+       "The first contact decides goodwill",
+       "ch. XXIV",
+       "Greet and listen before you present"
+      ],
+      [
+       "Don't make the same mistake twice",
+       "ch. XXIV",
+       "Keep a log of what went wrong and fix it"
+      ],
+      [
+       "No exaggeration",
+       "ch. I",
+       "Show the limits as well as the benefits"
+      ]
+     ],
+     "src": "The first two columns follow the book. The last column is our adaptation. {{selfridge-roc}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: staging a demonstration (illustrative, our reading)"
+    },
+    {
+     "t": "example",
+     "title": "See, handle, picture",
+     "steps": [
+      "List the three questions this buyer is most likely to have. Think from their side. {{selfridge-roc}}",
+      "Lay out the product so they can see it, then put it in their hands.",
+      "Show it in use in a situation like theirs, so they can picture it.",
+      "Say what it does not do. A dependable statement beats a large one. {{selfridge-roc}}",
+      "End by asking what they would want to know next, and answer from what you know."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a table of percentages (invented numbers)"
+    },
+    {
+     "t": "example",
+     "title": "Did the new demonstration help?",
+     "steps": [
+      "Before: 50 demonstrations and 11 sales, which is 11 ÷ 50 = 22%.",
+      "After the change: 50 demonstrations and 16 sales, which is 16 ÷ 50 = 32%.",
+      "The rise is 10 percentage points. With only 11 and 16 sales, chance could explain part of it, so repeat the count over more demonstrations before you decide.",
+      "Keep the table by week, as he expects the manager to read percentages. {{selfridge-roc}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: stage your demo"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the three questions the buyer will ask.",
+      "Plan how they will see and handle the product.",
+      "Plan how they will picture using it.",
+      "Write what you will say it does not do.",
+      "Keep a log of results and mistakes, and fix each one once."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Plan a demonstration for one product, with the buyer's three questions, what they will see and handle, and what you will say it cannot do."
+    },
+    {
+     "t": "check",
+     "q": "According to Selfridge, what does the sales manager need to do first?",
+     "o": [
+      "Cut prices",
+      "Put himself in the place of the public and think from the customer's standpoint",
+      "Hire more staff",
+      "Close the windows"
+     ],
+     "a": 1,
+     "w": "He says the manager must think from the standpoint of the customer. {{selfridge-roc}}"
+    },
+    {
+     "t": "check",
+     "q": "What was the staff precept in The Romance of Commerce?",
+     "o": [
+      "Never speak",
+      "Don't make the same mistake twice",
+      "Always argue",
+      "Close early"
+     ],
+     "a": 1,
+     "w": "He gives the precept 'Don't make the same mistake twice'. {{selfridge-roc}}"
+    },
+    {
+     "t": "check",
+     "q": "Which feature did Selfridges include for customers?",
+     "o": [
+      "A silence room",
+      "A cinema only",
+      "A factory floor",
+      "A bank vault"
+     ],
+     "a": 0,
+     "w": "Wikipedia lists a silence room among the store's features. {{selfridge}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Think from the customer's standpoint. {{selfridge-roc}}",
+      "Stage the product so it can be seen, handled and pictured.",
+      "Keep statements dependable and learn from each mistake once. {{selfridge-roc}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Which feature did Selfridges include for customers?",
+    "o": [
+     "A silence room",
+     "A cinema only",
+     "A factory floor",
+     "A bank vault"
+    ],
+    "a": 0,
+    "w": "Wikipedia lists a silence room among the store's features. {{selfridge}}"
+   }
+  },
+  {
+   "key": "sales-basics-5",
+   "name": "Zig Ziglar",
+   "min": 24,
+   "outcome": "Sort an objection into Ziglar's five reasons people do not buy, respond to the real one honestly, and check a price objection before answering it.",
+   "intro": "Zig Ziglar's Secrets of Closing the Sale is full of practical lists. We could not read the book, so this lesson uses a long summary, which reports his five reasons, his advice on price objections and on a no, and his line between a professional and a peddler.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read the first 100,000 characters of a book summary of the 1984 book, about three-quarters of it. It is secondary, and nothing here is a quotation from Ziglar. Check the book before you quote him. {{ziglar-sum}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Sort a no into its reason. The summary lists five: they feel they do not need what you sell; they do not have any money; they are in no rush; they do not want what you sell; they do not trust you. {{ziglar-sum}}",
+      "Treat many nos as requests for more. The summary says many people who say no are really saying 'tell me more', that you should not pressure them, and that you should give them new information so they can make a new decision. {{ziglar-sum}}",
+      "Check the price objection first. It says to repeat the objection as a question so the prospect has to defend it, and to verify that price is the real objection before responding. {{ziglar-sum}}",
+      "Do not argue. Objections thrive on opposition and die with agreement, so involve the prospect instead of lecturing. {{ziglar-sum}}",
+      "Know the named closes. Examples in the summary: the cost close (the price is paid once but the cost is maintenance over the product's life), the 1902 close (break the cost into a small figure), the 20/20 close (doing nothing about the problem costs more than acting) and the four questions close (like it, want it, can afford it, when to start). {{ziglar-sum}}",
+      "Keep the motive straight. Selling done for the prospect, not to the prospect, is professional, while recommending extras only to earn more makes you a peddler, and sincerity, trust and integrity are essential. {{ziglar-sum}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "We read a secondary summary, not the full book. Check the book before quoting. This module's lessons on objections, closing and fair selling still apply, and you should never pressure a buyer who has said no for a good reason. {{ziglar-sum}}"
+    },
+    {
+     "t": "table",
+     "title": "Five reasons and an honest response (the right column is our adaptation)",
+     "head": [
+      "Reason in the summary",
+      "Question to find out",
+      "Honest response"
+     ],
+     "rows": [
+      [
+       "Do not need it",
+       "What would make this useful to you?",
+       "Return to their needs; accept if there is none"
+      ],
+      [
+       "Have no money",
+       "What would be comfortable for you?",
+       "Look at terms or a smaller option; say if it does not fit"
+      ],
+      [
+       "In no rush",
+       "What happens if you wait?",
+       "Give true information about timing; do not invent a deadline"
+      ],
+      [
+       "Do not want it",
+       "What would you rather have?",
+       "Offer an alternative or let them go"
+      ],
+      [
+       "Do not trust you",
+       "What would you need to know?",
+       "Slow down, give evidence, do what you say"
+      ]
+     ],
+     "src": "The first column follows the summary. The other columns are our adaptation. {{ziglar-sum}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: which of the five is it? (illustrative, our reading)"
+    },
+    {
+     "t": "example",
+     "title": "Sorting a price objection",
+     "steps": [
+      "The buyer says: It is too expensive. First repeat it as a question: 'Too expensive compared with what?' {{ziglar-sum}}",
+      "Verify that price is the real objection. If they have no money, say so honestly and look at terms, a smaller option or a later date.",
+      "If they do not see the need, return to the questions that uncover needs.",
+      "If they do not trust you, slow down, give evidence and do what you say you will do.",
+      "Do not argue. Acknowledge the concern, then give information. {{ziglar-sum}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a cost close, honestly (invented numbers)"
+    },
+    {
+     "t": "example",
+     "title": "Total cost, not just price",
+     "steps": [
+      "Product A costs £40 and lasts one year; product B costs £90 and lasts four years. Over four years A costs 4 × 40 = £160 and B costs £90.",
+      "Per year, A is £40 and B is £90 ÷ 4 = £22.50. The 1902 close would say B costs about £0.06 a day (22.50 ÷ 365). {{ziglar-sum}}",
+      "That is a fair comparison only if the lifetimes are true. State the evidence for the four years, or do not use the argument.",
+      "If B does not suit their need, say so, even if it costs you the sale."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: an objection sheet"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write one sorting question for each of the five reasons.",
+      "Write one honest response for each.",
+      "Add a price check: repeat it as a question and verify it is the real objection.",
+      "Practise it with someone who plays a hard buyer.",
+      "Mark any response you would not say if the buyer could read the page."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write a sorting question for each of the five reasons, and one honest response for each."
+    },
+    {
+     "t": "check",
+     "q": "Which is one of the five reasons in the summary?",
+     "o": [
+      "They like the colour",
+      "They do not trust you",
+      "They live far away",
+      "They are too busy to eat"
+     ],
+     "a": 1,
+     "w": "Not trusting the seller is one of the five. {{ziglar-sum}}"
+    },
+    {
+     "t": "check",
+     "q": "What does the summary say a no might really mean?",
+     "o": [
+      "Never ask again",
+      "Tell me more",
+      "Call the police",
+      "I am sold"
+     ],
+     "a": 1,
+     "w": "The summary says a no may really be tell me more. {{ziglar-sum}}"
+    },
+    {
+     "t": "check",
+     "q": "What should you do with a price objection first, per the summary?",
+     "o": [
+      "Cut the price",
+      "Repeat it as a question and verify price is the real objection",
+      "Ignore it",
+      "End the call"
+     ],
+     "a": 1,
+     "w": "Verify that price is the real objection before responding. {{ziglar-sum}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Sort the objection into its real reason. {{ziglar-sum}}",
+      "Give information, do not pressure.",
+      "Selling is for the buyer, not to the buyer. {{ziglar-sum}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Which is one of Ziglar's five reasons people do not buy, as summarised?",
+    "o": [
+     "They do not trust you",
+     "They hate shopping",
+     "They like you",
+     "They want a discount"
+    ],
+    "a": 0,
+    "w": "They do not trust you is one of the five reasons. {{ziglar-sum}}"
+   }
+  },
+  {
+   "key": "sales-basics-6",
+   "name": "George Cadbury",
+   "min": 28,
+   "outcome": "Write a personal code of fair dealing that covers your claims, your sources and what you do when you find a problem, using the Cadbury case with its delays and disputes.",
+   "intro": "George Cadbury's firm ran a model village and faced a hard test: cocoa it bought came from islands where labour was forced. The family's own account is detailed and sympathetic, and historians dispute the pace. The case shows fair dealing as a habit with costs.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read the Cadbury family trust's account of the campaign in full. It is adapted from a firm insider's history, so it is sympathetic, and the pace of the firm's action has been criticised. We also read a chapter on the firm's own organisation, including how it handled complaints, and Britannica, Wikipedia and two scholarly abstracts. {{wa-cadbury}} {{cadbury-1912}} {{brit-cadbury}} {{springer-cadbury}} {{jstor-higgs}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Start from a rumour and check it. In 1901 William Cadbury heard of forced labour on cocoa plantations in the islands of São Tomé and Príncipe, and then the firm received particulars of an estate for sale that listed 200 labourers among its assets. He wrote to anti-slavery campaigners, missionaries and other chocolate makers. {{wa-cadbury}}",
+      "Hope for the better case, and look anyway. The account says he hoped to find a situation less bad than the evidence suggested, but went on gathering evidence, including from a Scottish missionary, and visited Lisbon in March 1903. {{wa-cadbury}}",
+      "Weigh walking away. The account says it would have been easy to stop buying and wash their hands of it, but William wanted any injustice put right, and only about 5 per cent of São Tomé cocoa went to England, so withdrawal alone probably would not have helped. {{wa-cadbury}}",
+      "Get an independent investigator. In 1904 Cadbury, Fry, Rowntree and Stollwerck chose Joseph Burtt to investigate. He reported mortality of over 10 per cent of young adults even on the best estates, and on one plantation 80 deaths among 150 newcomers. {{wa-cadbury}}",
+      "Act, then wait on advice. The report went to the Foreign Office and to the Portuguese government in 1907. On the Foreign Office's advice William delayed publishing it and waited a further year for new rules to take effect. In October 1908 he and Burtt visited the islands and found the situation unchanged. {{wa-cadbury}}",
+      "Decide, and face the dispute. In March 1909 Cadbury Brothers announced it would make no further purchases of cocoa from the islands. In September 1908 the Standard had accused the firm of laggardliness, indifference and hypocrisy, and the firm sued for libel. {{wa-cadbury}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "The firm also had a standing way to look into complaints. Edward Cadbury's 1912 book says that when the Men's Works Committee began in 1905 its early work included the investigation of complaints received from customers, and that the organisation was designed so that no case of difficulty could arise without coming to the board's knowledge. That is the firm's own account. {{cadbury-1912}}"
+    },
+    {
+     "t": "p",
+     "x": "A scholarly chapter describes the firm spending a decade investigating, and an article on the episode describes it as an international scandal in which the firm was a major buyer. Critics argue that the delay mattered. {{springer-cadbury}} {{jstor-higgs}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The main account of the investigation here is the family's own, which is sympathetic, and the pace of the firm's action has been criticised. We present the case to show how hard fair dealing can be, not as a clean success story. {{wa-cadbury}} {{jstor-higgs}}"
+    },
+    {
+     "t": "table",
+     "title": "The Cadbury timeline and the habit each step shows (the right column is our adaptation)",
+     "head": [
+      "Date",
+      "What happened",
+      "Habit"
+     ],
+     "rows": [
+      [
+       "1901",
+       "Rumour of forced labour; estate particulars list 200 labourers",
+       "Follow up a worrying fact"
+      ],
+      [
+       "1903",
+       "Visit to Lisbon with a missionary witness",
+       "Ask those who know first-hand"
+      ],
+      [
+       "1904",
+       "Joseph Burtt chosen to investigate, with rival firms",
+       "Use an independent investigator"
+      ],
+      [
+       "1907 to 1908",
+       "Report passed on; publication delayed on advice; second visit",
+       "Record what you decide and why you wait"
+      ],
+      [
+       "March 1909",
+       "Announced no further purchases from the islands",
+       "Act on what you find"
+      ]
+     ],
+     "src": "The first two columns follow the family account. The last column is our adaptation. {{wa-cadbury}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: counting the years (the dates are from the account, the arithmetic is ours)"
+    },
+    {
+     "t": "example",
+     "title": "How long did it take?",
+     "steps": [
+      "From the first rumour in 1901 to the announcement in March 1909 is 8 years, a little over 8 years. {{wa-cadbury}}",
+      "Burtt's 80 deaths among 150 newcomers is 80 ÷ 150 = 53%. {{wa-cadbury}}",
+      "A critic would ask whether the second year of waiting on the Foreign Office's advice cost lives. The account does not say, and we do not either. Fair dealing includes keeping a record of why you waited. {{jstor-higgs}}",
+      "For your own work: write the date you first heard of a problem and the date you acted, and note why."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a five-line code (illustrative, our reading)"
+    },
+    {
+     "t": "example",
+     "title": "Your own code",
+     "steps": [
+      "I say only what I can support, and I say what a product cannot do.",
+      "I know where what I sell comes from, and I ask when I do not.",
+      "If I find a problem, I tell the customer, even when it costs me a sale.",
+      "I keep honest records and keep my word on follow-up.",
+      "I review the code every year and change it when I learn something."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: write your code and test it"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write five lines in short sentences.",
+      "Name one situation that would test each line.",
+      "Write what you would do about a complaint, who looks into it and how fast.",
+      "Write the date you will review the code.",
+      "Show it to someone you trust and ask what is missing."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write your own five-line code, and name one situation that would test each line."
+    },
+    {
+     "t": "check",
+     "q": "When did Cadbury announce it would buy no more cocoa from the islands?",
+     "o": [
+      "1861",
+      "March 1909",
+      "1936",
+      "1951"
+     ],
+     "a": 1,
+     "w": "The family account says it announced this in March 1909. {{wa-cadbury}}"
+    },
+    {
+     "t": "check",
+     "q": "Why does the lesson flag its main source?",
+     "o": [
+      "It is secret",
+      "It is the firm's own, sympathetic account, and the pace was criticised",
+      "It is wrong",
+      "It is long"
+     ],
+     "a": 1,
+     "w": "It is the family's account, and critics said the firm was slow. {{wa-cadbury}} {{jstor-higgs}}"
+    },
+    {
+     "t": "check",
+     "q": "According to the account, why did William not simply stop buying in 1903?",
+     "o": [
+      "He did not care",
+      "He wanted any injustice put right, and withdrawal alone probably would not have helped",
+      "He needed the cocoa",
+      "He did not believe the reports"
+     ],
+     "a": 1,
+     "w": "He wanted to see injustices put right, and only about 5 per cent of the cocoa went to England. {{wa-cadbury}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Fair dealing has costs and takes time. {{springer-cadbury}}",
+      "Know where what you sell comes from, and use an independent check. {{wa-cadbury}}",
+      "Write a code and test it against hard cases."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did Cadbury do in March 1909, according to the family account?",
+    "o": [
+     "Opened Bournville",
+     "Announced no further purchases of cocoa from the islands",
+     "Wrote a book",
+     "Sold the firm"
+    ],
+    "a": 1,
+    "w": "The family account says it announced that it would buy no more cocoa from the islands. {{wa-cadbury}}"
+   }
+  },
+  {
+   "key": "sales-basics-cap",
+   "name": "Dale Carnegie",
+   "min": 24,
+   "outcome": "Use Carnegie's principles on handling people to prepare and review your role-play, keep the interest sincere, and check yourself against his critics.",
+   "intro": "Dale Carnegie's principles on winning people to your way of thinking and on changing people without giving offence give a review checklist for a role-play. The book's critics supply the other half of the checklist.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We did not read the book. The principles below are quoted as worded in the Wikipedia article's lists, and the criticism comes from the same article. {{carnegie-wiki}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Avoid the argument. The only way to get the best of an argument is to avoid it; show respect for the other person's opinions and never say 'You're wrong.' {{carnegie-wiki}}",
+      "Admit your own errors. If you're wrong, admit it quickly and emphatically; begin in a friendly way. {{carnegie-wiki}}",
+      "Let them talk. Let the other person do a great deal of the talking, and try honestly to see things from their point of view. {{carnegie-wiki}}",
+      "Give them the idea. Let the other person feel the idea is theirs; be sympathetic with their ideas and desires; appeal to the nobler motives. {{carnegie-wiki}}",
+      "Correct without giving offence. Begin with praise and honest appreciation; call attention to mistakes indirectly; talk about your own mistakes first; let the other person save face. {{carnegie-wiki}}",
+      "Check against the critics. Sinclair Lewis said the method taught people to pretend, and later scholars called Carnegie manipulative. A role-play review should ask, for each technique, whether it was sincere. {{carnegie-wiki}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "These principles can be used as tricks. 'Let the other person feel the idea is theirs' is a case where the line between helping and manipulating matters most. Use them with this module's fair-selling rules. {{carnegie-wiki}}"
+    },
+    {
+     "t": "table",
+     "title": "A role-play review checklist built on the principles (the right column is our adaptation)",
+     "head": [
+      "Principle",
+      "Source",
+      "Check in your review"
+     ],
+     "rows": [
+      [
+       "Avoid the argument; never say 'You're wrong'",
+       "Part 3",
+       "Did you contradict the buyer, or ask a question?"
+      ],
+      [
+       "Admit your mistakes quickly",
+       "Part 3",
+       "Did you say plainly where you were wrong?"
+      ],
+      [
+       "Let them do a great deal of the talking",
+       "Part 3",
+       "What share of the time did the buyer speak?"
+      ],
+      [
+       "Begin with honest appreciation",
+       "Part 4",
+       "Was the praise true?"
+      ],
+      [
+       "Let them save face",
+       "Part 4",
+       "Did you leave the buyer able to say no without embarrassment?"
+      ],
+      [
+       "Sincerity (the critics' test)",
+       "Reception",
+       "Would you do this if you were not selling?"
+      ]
+     ],
+     "src": "The first two columns follow the article. The last column is our adaptation. {{carnegie-wiki}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: reviewing a role-play (invented numbers)"
+    },
+    {
+     "t": "example",
+     "title": "Talk share and checks",
+     "steps": [
+      "A role-play lasts 12 minutes. You timed yourself speaking 7 minutes and the buyer 5 minutes.",
+      "Your share is 7 ÷ 12 = 58%, and the buyer's is 42%. A target such as 'buyer talks at least half' is our suggestion, not Carnegie's.",
+      "Next run: you speak 5 minutes and the buyer 7. The buyer's share is 7 ÷ 12 = 58%.",
+      "Mark each principle on the checklist as met, partly met or missed, and give one example from the recording for each."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a sincerity check (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "The critics' question",
+     "steps": [
+      "In the recording you said 'That's a great question' four times, and you meant it once.",
+      "A buyer may notice. Cut the phrase where it is not true, and replace it with a specific remark about the question.",
+      "Rewrite one line for each principle so it is true of this buyer, and keep only the lines that are."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: review your role-play"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Record a role-play with permission.",
+      "Time the talk share.",
+      "Mark each principle in the checklist with an example.",
+      "Mark every line you did not mean and rewrite it.",
+      "Write three things to keep and three to change, and run it again."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Record a role-play, mark it against the checklist and rewrite every line that was not sincere."
+    },
+    {
+     "t": "check",
+     "q": "Which is a Carnegie principle for winning people to your way of thinking?",
+     "o": [
+      "The only way to get the best of an argument is to avoid it",
+      "Interrupt often",
+      "Never smile",
+      "Talk about yourself"
+     ],
+     "a": 0,
+     "w": "It is the first of the twelve ways to win people to your way of thinking. {{carnegie-wiki}}"
+    },
+    {
+     "t": "check",
+     "q": "What did the critics say the method risked?",
+     "o": [
+      "Being too long",
+      "Insincerity and manipulation",
+      "Being too honest",
+      "Being too slow"
+     ],
+     "a": 1,
+     "w": "Lewis and later scholars called it insincere and manipulative. {{carnegie-wiki}}"
+    },
+    {
+     "t": "check",
+     "q": "In the example, the buyer spoke 5 of 12 minutes. What share is that?",
+     "o": [
+      "25%",
+      "42%",
+      "50%",
+      "58%"
+     ],
+     "a": 1,
+     "w": "5 ÷ 12 = 0.417."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Avoid the argument and let the buyer talk. {{carnegie-wiki}}",
+      "Admit your own errors and let people save face. {{carnegie-wiki}}",
+      "Keep only the techniques you can use sincerely."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Which is a Carnegie principle for winning people to your way of thinking?",
+    "o": [
+     "The only way to get the best of an argument is to avoid it",
+     "Interrupt often",
+     "Never smile",
+     "Talk about yourself"
+    ],
+    "a": 0,
+    "w": "It is the first of the twelve ways to win people to your way of thinking. {{carnegie-wiki}}"
+   }
+  }
+ ]
+}

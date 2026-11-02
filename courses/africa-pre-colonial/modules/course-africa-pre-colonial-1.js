@@ -529,6 +529,177 @@
   },
   {
    "id": "l6",
+   "title": "What the supplied books add to the evidence",
+   "min": 26,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Six books were read for this course: Reader's survey, Rodney, two by Diop, Woodson's folk tales and a young readers' book on Mali. Read them as positions with dates, not as verdicts. Reader and Woodson are the easiest to use; Rodney and Diop each argue a case, so show them next to a second source every time."
+    },
+    {
+     "t": "h",
+     "x": "Bantu: the same story, with a range"
+    },
+    {
+     "t": "p",
+     "x": "Reader confirms that Bantu is a language label with no ethnic meaning, that the word-root evidence puts the cradle in the Benue valley and Cameroon grassfields, and that the farmers reached the lakes region about 2,500 years ago and the southern limit by the 4th century AD [PROBABLE]. He counts more than 600 Bantu languages and says some authorities count 300, so give a range, not a single figure. {{rd-bantu}}"
+    },
+    {
+     "t": "h",
+     "x": "Where did West African iron come from? Three positions"
+    },
+    {
+     "t": "table",
+     "title": "Origin of sub-Saharan iron-working: what each book argues",
+     "head": [
+      "Source",
+      "Position",
+      "Status"
+     ],
+     "rows": [
+      [
+       "Reader (1990s, popular)",
+       "Almost certainly an imported skill, brought by Phoenician and Berber traders, because no copper-smelting stage came before it; Taruga on the Jos plateau holds the earliest furnaces he cites. In another chapter he calls the Nile a cul-de-sac and says West African iron is older than Meroe's. {{rd-iron}} {{rd-nile}}",
+       "[CONTESTED]"
+      ],
+      [
+       "Rodney (1972)",
+       "Kush was a source of iron-working and of brass casting for the wider continent, and iron reached most of Africa after the birth of Christ. {{rod-pre}}",
+       "[CONTESTED]"
+      ],
+      [
+       "Diop (1950s to 1970s)",
+       "Black Africans discovered iron independently and the Egyptian Old Kingdom already used it. His own 1973 papers on this were not available in the book. {{dio-egypt}}",
+       "[CONTESTED]"
+      ]
+     ],
+     "src": "{{rd-iron}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Reader's two chapters disagree with each other, and the three books disagree with the course's first-millennium-BCE dating. Do not pick a winner from them. The way to choose is to ask which claim rests on dated furnaces and calibrated radiocarbon, and to read newer excavation reports (outside these books, not checked here)."
+    },
+    {
+     "t": "h",
+     "x": "Jenne-jeno: the figures in one popular account"
+    },
+    {
+     "t": "p",
+     "x": "Reader describes Jenne-jeno as occupied for about 1,600 years, with a main mound of 33 hectares, 25 satellite mounds making 69 hectares in all, and up to about 27,000 people around AD 800. He gives a mud-brick wall 3.6 m thick at the base with no sign of a ruling elite, and a fall to one tenth of the population in the 12th to 14th centuries [CONTESTED]. The population is an estimate, so keep it as a range. {{rd-jj}}"
+    },
+    {
+     "t": "h",
+     "x": "Reading Diop beside mainstream Egyptology"
+    },
+    {
+     "t": "p",
+     "x": "Diop belongs in this module as a case study in how African history was argued in the 1950s to 1970s, not as a source of facts. The table sets his claims beside the standard view; the right-hand column says how to judge each. The standard view in the middle column is our summary of mainstream scholarship, outside these books and not verified here."
+    },
+    {
+     "t": "table",
+     "title": "Diop's claims and how to weigh them",
+     "head": [
+      "Claim in the books",
+      "Standard view (our summary)",
+      "How to choose"
+     ],
+     "rows": [
+      [
+       "Egypt was about 10,000 years old when Herodotus visited. {{dio-egypt}}",
+       "State unification about 3100 BCE; the great pyramids about 2600 BCE.",
+       "Radiocarbon and king-lists beat a figure with no stated basis. [THIN EVIDENCE]"
+      ],
+      [
+       "Tomb reliefs show two of four peoples as Black Africans, so Egyptians were Black. {{dio-egypt}}",
+       "Conventional colours for four peoples; skin colour in art does not settle identity.",
+       "Colour in art is a weak test either way. [CONTESTED]"
+      ],
+      [
+       "Wolof and Egyptian words are related; 'fari' comes from Pharaoh. {{dio-method}} {{dpc-state}}",
+       "Short look-alike words are chance unless regular sound correspondences are shown.",
+       "Reject the method; the question stays open. [CONTESTED]"
+      ],
+      [
+       "Skull and nose measurements show a Black Egypt. {{dio-egypt}}",
+       "Race typing by skull index is obsolete; recent ancient-DNA work is the live evidence.",
+       "Do not use skull indices. [CONTESTED]"
+      ],
+      [
+       "Greek science and religion drew on Egypt. {{dio-method}}",
+       "Herodotus himself says many Greek god names came from Egypt; the scale is debated.",
+       "Partly accepted; the sweeping version is [CONTESTED]."
+      ],
+      [
+       "Vai and Bamum scripts match Egyptian signs. {{dpc-tech}}",
+       "The Vai and Bamum scripts are nineteenth-century inventions (dates outside these books).",
+       "His own text half-admits they may be recent. [THIN EVIDENCE]"
+      ]
+     ],
+     "src": "{{dio-egypt}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "The English text of Diop's African Origin of Civilization is a defective edition: paragraphs are cut, repeated or run together in places, so quote nothing from it without checking another copy. Some of its notes lean on nineteenth-century race writers; treat those pages as period race science, not evidence."
+    },
+    {
+     "t": "h",
+     "x": "Folk tales are not oral tradition"
+    },
+    {
+     "t": "p",
+     "x": "Woodson's 1928 book is a school reader. His preface says the tales come from different sources and are given in simple language for children. It names no teller, date or collector, and one tale mentions a king of Calabar who reigned fifty years; a name inside a story is not evidence that the king existed. This is the difference Vansina draws between tales and historical tradition. {{wood-tales}}"
+    },
+    {
+     "t": "check",
+     "q": "Which statement about iron-working origins is best supported by the books read for this module?",
+     "o": [
+      "Reader proves iron came from Carthage",
+      "Rodney proves iron came from Kush",
+      "Reader, Rodney and Diop disagree, so the origin stays contested",
+      "Diop proved Africans first discovered iron"
+     ],
+     "a": 2,
+     "w": "Each book argues a position and Reader contradicts himself across two chapters. {{rd-iron}} {{rod-pre}}"
+    },
+    {
+     "t": "check",
+     "q": "Why can a Woodson tale not date a ruler?",
+     "o": [
+      "Because Woodson was not African",
+      "Because the tales have no named teller or date and were adapted for children",
+      "Because tales never mention rulers",
+      "Because Woodson wrote in 1990"
+     ],
+     "a": 1,
+     "w": "The preface says the tales were adapted for school children and gives no sources. {{wood-tales}}"
+    },
+    {
+     "t": "check",
+     "q": "What does a short look-alike word between Wolof and Egyptian prove on its own?",
+     "o": [
+      "A family link",
+      "A shared migration",
+      "Nothing: regular sound correspondences are needed",
+      "That Egypt was African"
+     ],
+     "a": 2,
+     "w": "Chance resemblances are common among short words. {{dio-method}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Bantu counts run from about 300 to more than 600 depending on who counts. {{rd-bantu}}",
+      "West African iron has three book-length answers and none is settled. [CONTESTED]",
+      "Diop's own Egyptian dates and language comparisons are not supported; his questions about historiography are worth studying. {{dio-egypt}}",
+      "A folk tale is a story, not a king-list. {{wood-tales}}"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l7",
    "title": "The lecturer's method: Jan Vansina",
    "min": 24,
    "blocks": [

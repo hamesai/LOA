@@ -43,7 +43,58 @@
     },
     {
      "t": "p",
-     "x": "Marcus Garvey's Universal Negro Improvement Association, from 1914, mobilised millions in the 1920s with the slogan Africa for the Africans and with the Black Star Line. {{lib}}"
+     "x": "Marcus Garvey's Universal Negro Improvement Association, from 1914, claimed millions of members in the 1920s [ESTIMATE], and used the slogan Africa for the Africans and with the Black Star Line. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Garvey's own membership claims rose each year: 2 million by 1919, 4 million by 1920 and 6 million with 900 branches by 1923. They are self-reported and cannot be verified, and the editor says they were likely exaggerated. About 25,000 people filled Madison Square Garden on 01/08/1920. {{gv-auto}} {{gv-intro}}"
+    },
+    {
+     "t": "p",
+     "x": "The slogan did not mean self-rule by existing African peoples. In an open letter of 18/04/1922 he meant that Black people from across the world should build a nation in Africa, with diaspora settlers working in partnership with Africans. {{gv-afr}}"
+    },
+    {
+     "t": "p",
+     "x": "His Declaration of the Rights of the Negro Peoples of the World was adopted at the 1920 convention. It protests the partition of Africa, rejects taxation without representation, and demands Africa for the Africans at home and abroad. {{gv-decl}}"
+    },
+    {
+     "t": "h",
+     "x": "Why Garvey's critics had grounds"
+    },
+    {
+     "t": "table",
+     "title": "The record that critics such as Du Bois used",
+     "head": [
+      "Fact",
+      "What the primary source or editor shows"
+     ],
+     "rows": [
+      [
+       "Meeting with the Ku Klux Klan",
+       "On 25/06/1922 in Atlanta he met the Klan's acting leader, and in a speech of 09/07/1922 said the UNIA and the Klan wanted the same thing, Africa for Black people and America for white people"
+      ],
+      [
+       "Segregationist support",
+       "On 13/02/1922 he welcomed a Mississippi senator's resolution urging the US to find an African home for Black Americans"
+      ],
+      [
+       "Black Star Line",
+       "Garvey says he was convicted for selling stock after the line was insolvent, with a five-year sentence; supporters called it a frame-up and the editor says it was badly run; he was deported in 1927"
+      ],
+      [
+       "Liberia",
+       "In 1924 he planned an advance party with land grants, but Liberia, under pressure from European governments, refused the UNIA a settlement"
+      ]
+     ],
+     "src": "{{gv-klan}} {{gv-sen}} {{gv-intro}} {{gv-lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Du Bois published a critical article, Back to Africa, in the Century magazine in February 1923. Garvey's reply is polemic that accuses Du Bois of favouring light-skinned people, so treat it as a partisan witness and not as neutral evidence. {{gv-dubois}} {{gv-intro}}"
+    },
+    {
+     "t": "p",
+     "x": "Garvey died on 10/06/1940 in London and was reburied in Jamaica in 1964. He never entered an African country, yet Nkrumah said his writings fired his enthusiasm. {{gv-intro}}"
     },
     {
      "t": "p",
@@ -84,6 +135,11 @@
       ]
      ],
      "src": "{{lib}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Hochschild notes that even the 1919 Paris Congress did not demand full independence for African colonies, so open demands for self-government were almost unspoken until the 1920s and 1930s. {{hs-notes}}"
     },
     {
      "t": "example",
@@ -153,6 +209,11 @@
     {
      "t": "p",
      "x": "The Fifth Pan-African Congress was organised by George Padmore and Kwame Nkrumah with Du Bois as honorary chair. Jomo Kenyatta, Peter Abrahams and Hastings Banda also took part. {{lib}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Reader calls Manchester in 10/1945 the sixth Pan-African Congress. It is conventionally the fifth, and this course uses fifth. His account is otherwise useful: delegates were mostly African and the resolutions asked for autonomy and independence. {{rd-mau}}"
     },
     {
      "t": "p",
@@ -509,6 +570,23 @@
     {
      "t": "activity",
      "x": "Take a quotation you have seen online. Run the four tests on it and write one line for each: provenance, language, internal logic, corroboration."
+    },
+    {
+     "t": "h",
+     "x": "A documented contrast: convict leasing in the US South"
+    },
+    {
+     "t": "p",
+     "x": "For a real forced-labour system built after emancipation, and documented from court, company and federal records, see Douglas Blackmon's Slavery by Another Name. He shows that the Thirteenth Amendment allowed involuntary servitude for convicts, that vagrancy laws followed in the Black Codes, and that by 1877 every former Confederate state except Virginia leased convicts. {{bm-origins}}"
+    },
+    {
+     "t": "p",
+     "x": "His case study is Green Cottenham, arrested on 30/03/1908 in Alabama for vagrancy and leased to a steel subsidiary for 12 dollars a month paid to the county. His own estimate that more than a hundred thousand people were caught in the system is his inference [ESTIMATE]. {{bm-intro}} Federal prosecution of peonage came with the Attorney General's circular of 12/12/1941. {{bm-end}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Limits: Blackmon writes about the US South after emancipation, up to the Second World War. He does not discuss Africa, Garvey, Pan-Africanism or the Willie Lynch letter, and the label 'slavery' is his argument, since the system was not lifelong or hereditary. The point of the contrast is method. A real system leaves court records, so a claim about it can be checked, while the Willie Lynch letter has no document behind it. {{bm-intro}}"
     },
     {
      "t": "check",

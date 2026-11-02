@@ -507,6 +507,148 @@
   },
   {
    "id": "l6",
+   "title": "What the supplied books add to the southern states and the Zulu",
+   "min": 28,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Three books bear on this module: Reader on Mapungubwe, Great Zimbabwe and the Cape; Rodney on dates and the Zulu; and Reader's two chapters on the Mfecane, which disagree. The tables show where each differs from the lessons."
+    },
+    {
+     "t": "h",
+     "x": "Mapungubwe and Great Zimbabwe: three date ranges"
+    },
+    {
+     "t": "table",
+     "title": "Dating the southern stone states",
+     "head": [
+      "Source",
+      "Mapungubwe",
+      "Great Zimbabwe",
+      "Status"
+     ],
+     "rows": [
+      [
+       "The lesson",
+       "K2 about 1000 to 1220 CE, then the hill about 1220 to 1290, dates revised by Huffman.",
+       "Stone enclosures mostly between the 12th and 15th centuries, by ancestors of the Shona.",
+       "[PROBABLE]"
+      ],
+      [
+       "Reader (1990s)",
+       "Hill-top burials by the early 12th century and a gold rhinoceros about AD 1200, fading about 1250. {{rd-zim}}",
+       "Built between 1275 and 1550; the Great Enclosure in the 14th century, its outer wall 244 m long, 5 m thick and up to 10 m high. {{rd-zim}}",
+       "[PROBABLE]"
+      ],
+      [
+       "Rodney (1972)",
+       "Not covered.",
+       "11th to 14th centuries, builders 'believed' Sotho-speaking, and a Shona-speaking Rozwi dynasty setting up Mutapa in the 15th century with Zimbabwe as its first capital. {{rod-pre}}",
+       "Disputed on both builders and dates. [CONTESTED]"
+      ]
+     ],
+     "src": "{{rd-zim}}"
+    },
+    {
+     "t": "p",
+     "x": "Reader reads Great Zimbabwe ecologically: a tsetse-free plateau where a cattle surplus came first and gold control followed. He says the walls are loosely built drystone, that a contractor estimated 84 men could build the complex in two years, that the Zimbabwe birds are soapstone about 35 cm tall, and that environmental damage ended the centre in the late 15th century. {{rd-zim}} Treat the ecological reading as one view. [CONTESTED] Diop agrees that the builders were Africans and calls the Phoenician theory refuted, but his evidence is skeleton typology, which is weak. {{dpc-tech}} Diop also shows how Dr Maes, in the 1920s, said Black Africans could not have raised the Tundi-Daro standing stones; this is the same prejudice that gave Great Zimbabwe a Phoenician myth. {{dio-egypt}}"
+    },
+    {
+     "t": "h",
+     "x": "Khoisan herders and the Cape"
+    },
+    {
+     "t": "p",
+     "x": "Reader reports Khoisan sheep in the western Cape from about the first century AD and cattle from about the seventh, about 50,000 Khoisan in the south-western Cape when the Dutch landed in 1652, seasonal herding circuits, and a revolt in 1659 in which Khoisan leaders asked who was the natural owner. Commandos killed 2,480 Khoisan between 1786 and 1795 in the official count. {{rd-cape}} These are colonial records, written by the side that took the land, so tag them [PROBABLE] and state the source."
+    },
+    {
+     "t": "h",
+     "x": "Weighing the mfecane again"
+    },
+    {
+     "t": "table",
+     "title": "Three accounts of the upheavals of 1816 to 1840",
+     "head": [
+      "Account",
+      "Cause",
+      "Evidence it leans on"
+     ],
+     "rows": [
+      [
+       "The older Zulu-centred story (Omer-Cooper, as described by Reader)",
+       "Shaka's state, under drought and population pressure, drove refugees outward. {{rd-fron}}",
+       "Traders' accounts written after the events. Zululand surveys show no general ecological crisis. {{rd-fron}}"
+      ],
+      [
+       "Slaving thesis (Reader's later chapter)",
+       "Illegal slave trading from Delagoa Bay, taking at least 1,000 and perhaps 6,000 men a year from about 1818, plus Cape frontier labour raids such as Dithakong in 1823. {{rd-zulu}}",
+       "Portuguese and Mauritius inquiry records. Reader calls it 'not yet proven'. {{rd-zulu}}"
+      ],
+      [
+       "Rodney",
+       "Explains Shaka's military change as outgrowths of Dingiswayo's age-regiments and a growing population; Zulu rule was free of slave trading. {{rod-trade}}",
+       "1970s textbook synthesis."
+      ]
+     ],
+     "src": "{{rd-zulu}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Reader's chapter on climate and slavery puts the cause in drought and maize-fed overpopulation, and his two later chapters reject that for Zululand and favour the slaving thesis. The book disagrees with itself. Use the later chapters, which cite more sources, and say plainly that Reader changed his case. {{rd-clim}} {{rd-zulu}}"
+    },
+    {
+     "t": "p",
+     "x": "Rodney dates Shaka's birth to about 1787, his headship to 1816 and his death to 1828, matching the lesson. He gives the Zulu defeat of the British at Isandhlwana as 1876; the lesson's 22/01/1879 is correct, so do not cite his year (our check). {{rod-trade}} The Dithakong case is a good exercise in source criticism: Moffat and Melvill reported repelling an invading horde of 30,000 or more, while the archives show a displaced group of about 2,000 and a massacre. {{rd-zulu}}"
+    },
+    {
+     "t": "check",
+     "q": "Reader's surveys of Zululand say what about the drought-pressure theory of the Mfecane?",
+     "o": [
+      "They prove it",
+      "They show no general ecological crisis there",
+      "They never looked",
+      "They show famine"
+     ],
+     "a": 1,
+     "w": "The archaeology refutes the Zululand pressure scenario. {{rd-fron}}"
+    },
+    {
+     "t": "check",
+     "q": "Which date for the battle of Isandhlwana is correct for the course?",
+     "o": [
+      "1876, as Rodney writes",
+      "22/01/1879",
+      "1816",
+      "1828"
+     ],
+     "a": 1,
+     "w": "The lesson carries the right date; Rodney's year is a slip."
+    },
+    {
+     "t": "check",
+     "q": "Why does Reader's own text weaken a single-cause Mfecane story?",
+     "o": [
+      "He offers two accounts in different chapters",
+      "He never mentions Shaka",
+      "He gives no dates",
+      "He rejects all evidence"
+     ],
+     "a": 0,
+     "w": "A drought account and a slaving account both appear. {{rd-clim}} {{rd-zulu}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Great Zimbabwe has three date ranges in these books; keep the range and the tag. [PROBABLE]",
+      "The Mfecane is contested; Reader's later chapters favour slaving and frontier raids. [CONTESTED]",
+      "Colonial records of the Khoisan come from the side that took the land. {{rd-cape}}"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l7",
    "title": "The lecturer's method: Jan Vansina",
    "min": 22,
    "blocks": [

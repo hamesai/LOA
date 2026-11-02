@@ -1,0 +1,1400 @@
+{
+ "refs": {
+  "wiki-muybridge": [
+   "Eadweard Muybridge (opening, 1872 to 1879 sections read)",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/Eadweard_Muybridge"
+  ],
+  "wiki-toland": [
+   "Gregg Toland (opening, Citizen Kane and deep focus sections read)",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/Gregg_Toland"
+  ],
+  "wiki-freund": [
+   "Karl Freund (opening, unchained camera, television and Photo Research sections read)",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/Karl_Freund"
+  ],
+  "wiki-eastman": [
+   "George Eastman (opening and founding of Kodak sections read)",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/George_Eastman"
+  ],
+  "toland-ac1941": [
+   "Realism for Citizen Kane (read in full; originally published in American Cinematographer, February 1941, republished online by the ASC)",
+   "Gregg Toland, ASC, in American Cinematographer",
+   "https://theasc.com/article/realism-for-citizen-kane"
+  ],
+  "freund-1953": [
+   "The Man Who Filmed 'I Love Lucy' Tells Us How It Was Done (Freund's own account, read in full, as reproduced on a third-party television-history site; we did not see the original print)",
+   "Karl Freund, Director of Photography",
+   "https://eyesofageneration.com/the-man-who-filmed-i-love-lucy-tells-us-how-it-was-done-by-karl-freund/"
+  ],
+  "muybridge-1887": [
+   "Animal Locomotion: prospectus and catalogue of plates (Muybridge's own text; only the opening prospectus excerpts were read)",
+   "Eadweard Muybridge, University of Pennsylvania, 1887, via the Internet Archive",
+   "https://archive.org/stream/animallocomotion00muyb/animallocomotion00muyb_djvu.txt"
+  ],
+  "eastman-patent": [
+   "US Patent 388,850, Camera (specification read in part)",
+   "George Eastman, 1888, via Google Patents",
+   "https://patents.google.com/patent/US388850A/en"
+  ],
+  "wiki-paul": [
+   "Robert W. Paul (opening and film career sections read)",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/Robert_W._Paul"
+  ]
+ },
+ "modules": [
+  {
+   "key": "cinematography-1",
+   "name": "Eadweard Muybridge",
+   "min": 22,
+   "outcome": "Run a one-variable test on a moving subject, say what each faster exposure costs in light, and keep the evidence.",
+   "intro": "Eadweard Muybridge needed shutters fast enough, and plates sensitive enough, to freeze a galloping horse. His method is a worked case of the trade-off this module teaches: motion, shutter and light.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "Eadweard Muybridge (1830 to 1904) was an English photographer known for pioneering photographic studies of motion. {{wiki-muybridge}}"
+    },
+    {
+     "t": "p",
+     "x": "We read the opening of his own 1887 prospectus and a Wikipedia page as excerpts, so the record is partial. His voice is not documented in what we read, so anything voiced in this course is inferred. {{muybridge-1887}} {{wiki-muybridge}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Name what the eye cannot do. Leland Stanford wanted a proper picture of a horse at full speed, because the eye could not break down a trot or gallop. {{wiki-muybridge}}",
+      "Make a first attempt and find why it failed. In 1873 a single camera gave a small, very fuzzy picture, because the emulsions were insensitive and early pictures were little more than blurry silhouettes. {{wiki-muybridge}}",
+      "Change the equipment, not just the effort. He experimented with ever-faster mechanical shutters and electrically triggered mechanisms, and with more sensitive emulsions to suit shorter exposures. {{wiki-muybridge}}",
+      "Multiply the viewpoints and trigger them from the subject. In June 1878 a battery of 12 cameras along the Palo Alto track had shutters tripped by wires that the horse or a cart wheel hit. {{wiki-muybridge}}",
+      "Test in front of witnesses. On 15 June 1878 the press and turf men watched, and an accident with a snapping strap was captured on the negatives and shown to them. {{wiki-muybridge}}",
+      "Scale the test into an investigation. The experiments continued in 1879 with 24 cameras, and his 1887 prospectus offers 781 plates. {{wiki-muybridge}} {{muybridge-1887}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "In his own prospectus he says the 1878 photographs, published as The Horse in Motion, were results of experiments with automatic electro-photographic apparatus he devised, that the subject had held his attention since 1872, and that a systematic investigation with improved appliances would show facts of value to the artist and the scientist. {{muybridge-1887}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Muybridge wanted to freeze each moment. A film camera at 180° wants the opposite: some blur in every frame. What we borrow is the trade-off and the testing habit, not his aim. That reading is ours."
+    },
+    {
+     "t": "table",
+     "title": "His problem against your DSLR (the right column is our adaptation)",
+     "head": [
+      "His constraint",
+      "His answer",
+      "Your equivalent"
+     ],
+     "rows": [
+      [
+       "Insensitive emulsion",
+       "More sensitive emulsions",
+       "Raise ISO, open the aperture or add light"
+      ],
+      [
+       "Slow mechanical shutter",
+       "Faster shutters, electric triggers",
+       "A faster shutter speed in the camera, with a stop cost"
+      ],
+      [
+       "One viewpoint cannot show phases",
+       "A row of cameras",
+       "A burst of frames, or a higher frame rate for slow motion"
+      ],
+      [
+       "Sceptics doubted the picture",
+       "A public session and the original negative",
+       "Keep your original file and your settings log"
+      ]
+     ],
+     "src": "The first two columns follow {{wiki-muybridge}}. The third is our adaptation."
+    },
+    {
+     "t": "h",
+     "x": "Worked example: how much blur, and what it costs (illustrative numbers)"
+    },
+    {
+     "t": "example",
+     "title": "A runner at 5 m/s past your camera",
+     "steps": [
+      "At 1/50 s the runner moves 5 ÷ 50 = 0.1 m, that is 10 cm, during one exposure. The picture shows a smear about that long.",
+      "At 1/1000 s the runner moves 5 ÷ 1000 = 0.005 m, that is 5 mm. The picture shows a nearly frozen figure.",
+      "The shutter is 1000 ÷ 50 = 20 times faster, so you need 20 times more light, which is log base 2 of 20, about 4.3 stops.",
+      "You can pay in three currencies: aperture (open 4.3 stops, for example f/8 to about f/1.8), sensitivity (ISO 100 to about ISO 2000), or lamps. Muybridge's equivalent was a more sensitive plate. {{wiki-muybridge}}",
+      "Decide first what motion you want. For cinema blur keep near 180°. To freeze, pay the stops before the day."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a one-variable test"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the goal in one sentence, for example: show a hand wave with clear fingers but still a trace of motion.",
+      "Shoot a baseline clip at 24 fps and 1/48 s. Note the result, and say why it falls short.",
+      "Change one thing only, the shutter speed, and shoot again. Keep the exposure right by changing the aperture, ISO or ND only as far as needed, and log each change.",
+      "Repeat with a second speed. Put the three clips side by side.",
+      "Keep the original files and the settings table so another person could check your result."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Do the one-variable test with a real moving subject and write the stops each step cost. Keep the table."
+    },
+    {
+     "t": "check",
+     "q": "What did Muybridge change after the fuzzy 1873 picture?",
+     "o": [
+      "Only the lens colour",
+      "Faster shutters, electric triggering and more sensitive emulsions",
+      "A slower horse",
+      "A larger tripod only"
+     ],
+     "a": 1,
+     "w": "He worked on faster shutters, electrically triggered mechanisms and more sensitive emulsions. {{wiki-muybridge}}"
+    },
+    {
+     "t": "check",
+     "q": "A runner moves 5 m/s. About how far do they move during a 1/500 s exposure?",
+     "o": [
+      "5 cm",
+      "1 cm",
+      "5 mm",
+      "1 mm"
+     ],
+     "a": 1,
+     "w": "5 ÷ 500 = 0.01 m, which is 1 cm."
+    },
+    {
+     "t": "check",
+     "q": "Going from 1/50 s to 1/1000 s costs about how many stops of light?",
+     "o": [
+      "2",
+      "3",
+      "4.3",
+      "6"
+     ],
+     "a": 2,
+     "w": "The ratio is 20, and log base 2 of 20 is about 4.3."
+    },
+    {
+     "t": "take",
+     "i": [
+      "A short exposure is paid for in light or sensitivity. {{wiki-muybridge}}",
+      "Change one variable at a time and write down the result.",
+      "Keep the original and the log so a sceptic can check."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "How many cameras did Muybridge use at Palo Alto in June 1878, according to the source?",
+    "o": [
+     "1",
+     "12",
+     "24",
+     "100"
+    ],
+    "a": 1,
+    "w": "He used a battery of 12 cameras. {{wiki-muybridge}}"
+   }
+  },
+  {
+   "key": "cinematography-2",
+   "name": "Gregg Toland",
+   "min": 24,
+   "outcome": "Audit the limits of your kit against what the story needs, choose which to change, test each change, and plan around the rest.",
+   "intro": "Gregg Toland started from what the picture needed, found where conventional equipment fell short, changed what he could with engineers, tested it, and then solved the new problems the changes created. A DSLR audit follows the same order.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "Gregg Toland (1904 to 1948) was an American cinematographer known for innovative use of lighting and techniques such as deep focus. {{wiki-toland}}"
+    },
+    {
+     "t": "p",
+     "x": "We read his own 1941 essay Realism for Citizen Kane in full, and a Wikipedia page as excerpts. The essay is a primary source, so this record is rich. {{toland-ac1941}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Start from what the picture must do. He and Welles felt the audience should feel it was looking at reality rather than at a movie. {{toland-ac1941}}",
+      "Say what conventional practice cannot do. The unconventional set-ups, he writes, cannot be done by conventional means, but they had to be done. {{toland-ac1941}}",
+      "Change the sets to serve the shot. Most sets had real ceilings, low and sometimes lower than a real room, and many angles were low, so some sets were built on parallels to put the lens at floor level. {{toland-ac1941}}",
+      "Change the light. With no overhead lighting possible, everything was lit from the floor, so they used the twin-arc broadsides developed for Technicolor, with smaller lamps added. {{toland-ac1941}}",
+      "Choose film and glass together. He reasoned that if a fast film like Plus-X at about f/3.5 improved definition, a super-speed film like Super XX at still smaller stops might do better, and he says preliminary experiments proved it. {{toland-ac1941}}",
+      "Meet the new problems as they appear: lighting balance, focus setting and lens behaviour, each of which he describes. Solving them, he says, taught the crew a lot. {{toland-ac1941}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Wikipedia adds that he modified the Mitchell camera to allow a wider range of movement, especially from low angles, and devised a remote-control system for focusing. {{wiki-toland}}"
+    },
+    {
+     "t": "p",
+     "x": "He says the Vard Opticote non-glare coating gave an increase in speed of half a stop to a stop, with a marked increase in definition from eliminating flare and internal reflections. {{toland-ac1941}}"
+    },
+    {
+     "t": "p",
+     "x": "He says the ceilings were muslin, so microphones could sit just above them, out of the picture and with no overhead lights to cast shadows. {{toland-ac1941}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The sources differ on the speed of Super XX. Wikipedia gives ASA 100. An editorial note on Toland's essay gives the 1940 film a Weston rating of 64, approximating ASA. The lesson does not depend on the number. {{wiki-toland}} {{toland-ac1941}}"
+    },
+    {
+     "t": "table",
+     "title": "Toland's limits and answers, with a DSLR parallel (the third column is our adaptation)",
+     "head": [
+      "Limit",
+      "Toland's answer",
+      "Your DSLR parallel"
+     ],
+     "rows": [
+      [
+       "Little depth at wide stops",
+       "Smaller aperture, more light, faster film",
+       "Smaller aperture, more lamps or ISO, and ND to control the rest"
+      ],
+      [
+       "Flare and low contrast in the glass",
+       "Coated lenses",
+       "Lens hood, clean glass, test for flare"
+      ],
+      [
+       "Microphone shadows",
+       "Muslin ceilings, mics above",
+       "A separate recorder close to the speaker"
+      ],
+      [
+       "Lenses vary by stop",
+       "Know each lens",
+       "Test every lens at every stop you plan to use"
+      ],
+      [
+       "Camera could not reach low angles",
+       "Modified camera, floors on parallels",
+       "Low tripod, ground spreader or a rig that lets you shoot low"
+      ]
+     ],
+     "src": "Toland's column is from his essay and Wikipedia. The third column is our adaptation. {{toland-ac1941}} {{wiki-toland}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: how many stops did his changes have to cover?"
+    },
+    {
+     "t": "example",
+     "title": "From the usual stop to his stop (arithmetic on his numbers)",
+     "steps": [
+      "He says conventional interiors ran between f/2.3 and f/2.8, with an occasional f/3.5, while his crew shot at f/8 or smaller, often f/11. {{toland-ac1941}}",
+      "From f/3.5 to f/11 is 2 × log base 2 of (11 ÷ 3.5), about 3.3 stops. That is about 10 times less light reaching the film.",
+      "The coating gave half a stop to one stop, so it covers up to 1 stop of that. {{toland-ac1941}}",
+      "That leaves at least 2.3 stops for the film and the lamps. A faster film and brighter arc lamps supplied it. {{toland-ac1941}}",
+      "The same bookkeeping works for you: list the stops you need, then list what each change contributes."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a limit audit"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write what your next project needs in one sentence, such as: two people sharp in a small room, handheld, with clear sound.",
+      "List every limit that stands in the way: clip length, noise at the ISO you need, depth of field at the aperture you can light, rolling shutter, sound, focus.",
+      "For each, mark Change, Plan around, or Accept. Change what lights, lenses or settings can solve, and plan around what they cannot.",
+      "Test each change before the day, with a before and after frame.",
+      "Write down any new problem the change created, as Toland did, and solve that too."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Do the limit audit for your next project with at least five limits. Test one change and show the before and after."
+    },
+    {
+     "t": "check",
+     "q": "Where did Toland start?",
+     "o": [
+      "With the newest film",
+      "With what the picture needed to do",
+      "With the cheapest lamps",
+      "With a new camera body"
+     ],
+     "a": 1,
+     "w": "He and Welles started from the feeling of reality they wanted. {{toland-ac1941}}"
+    },
+    {
+     "t": "check",
+     "q": "About how many stops separate f/3.5 from f/11?",
+     "o": [
+      "1.3",
+      "2.3",
+      "3.3",
+      "5.3"
+     ],
+     "a": 2,
+     "w": "2 × log base 2 of (11 ÷ 3.5) is about 3.3."
+    },
+    {
+     "t": "check",
+     "q": "Why test each lens at each stop?",
+     "o": [
+      "Lenses are identical",
+      "Some lenses lose quality at certain stops and recover at others",
+      "It saves film",
+      "It changes colour"
+     ],
+     "a": 1,
+     "w": "He notes lenses that were excellent until f/6.3, worse below, then better again at f/11 or f/16. {{toland-ac1941}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Start from the need, then audit the limits. {{toland-ac1941}}",
+      "Change what you can, test it, and plan around the rest.",
+      "Every change can create a new problem. Look for it."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Which film stock did Toland use on Citizen Kane, according to the sources?",
+    "o": [
+     "Kodak Super XX",
+     "Kodachrome",
+     "Ektachrome",
+     "Vision3 500T"
+    ],
+    "a": 0,
+    "w": "He used Kodak Super XX. {{wiki-toland}} {{toland-ac1941}}"
+   }
+  },
+  {
+   "key": "cinematography-3",
+   "name": "Gregg Toland",
+   "min": 26,
+   "outcome": "Say what a depth requirement costs in light, set the aperture from the composition, lower the lighting contrast to match, and test the lens.",
+   "intro": "Gregg Toland shot interiors at f/8 to f/16 when convention was f/2.3 to f/2.8. His essay is a method for buying depth of field and then paying for it in light and contrast.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "This lesson rests on Toland's own 1941 essay, read in full, which makes the record rich for this topic. Wikipedia is used only to show where a source differs. {{toland-ac1941}} {{wiki-toland}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Measure the depth the composition needs. Some sets needed acceptable sharpness over nearly 200 feet. In another shot, two people were two or three feet from the lens with important action 30 to 40 feet behind them. {{toland-ac1941}}",
+      "In one close composition a head less than 16 inches from the camera and a loving cup at arm's length were both sharp, with men 12 to 18 feet away also sharp. {{toland-ac1941}}",
+      "Choose the lens and the stop. Short lenses increase depth, and so does stopping down. He says 35, 28 and 24 mm lenses at f/11 or f/16 become, for practical purposes, universal-focus lenses. {{toland-ac1941}}",
+      "Pay for the stop with light and film. Smaller stops are paid for by raising the illumination level, a faster film and arc lamps, which put much light into a small unit. {{toland-ac1941}}",
+      "Change the lighting balance. Fast film tends to flatten contrast, while coated lenses and small apertures both raise it, so scenes must be lit with much less contrast, with shadows opened up by more fill. {{toland-ac1941}}",
+      "Set focus by experience and test the lens. He says the right focus point depends on focal length, stop and focus distance, and some lenses are poor at certain stops. {{toland-ac1941}}"
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Conventional interiors against Citizen Kane, in Toland's words",
+     "head": [
+      "",
+      "Conventional interior",
+      "Citizen Kane"
+     ],
+     "rows": [
+      [
+       "Aperture",
+       "Maximum or close to it, f/2.3 to f/2.8, rarely f/3.5",
+       "f/8 or smaller, often f/11, one at f/16"
+      ],
+      [
+       "Light",
+       "Spots from overhead rails",
+       "Arc broadsides from the floor"
+      ],
+      [
+       "Units used",
+       "Not stated",
+       "In many scenes, only five or six"
+      ],
+      [
+       "Contrast",
+       "Usual",
+       "Much lower, shadows opened with fill"
+      ]
+     ],
+     "src": "From {{toland-ac1941}}."
+    },
+    {
+     "t": "h",
+     "x": "Worked example 1: what f/11 buys over f/2.8"
+    },
+    {
+     "t": "example",
+     "title": "Depth of field on a 35 mm lens (c = 0.03 mm and the lens are illustrative)",
+     "steps": [
+      "DOF ≈ 2 u² N c ÷ f². {{wiki-dof}} For a 35 mm lens, a subject at 3 m, and c = 0.03 mm, at f/2.8 that is 2 × 3000² × 2.8 × 0.03 ÷ 35² = 1,512,000 ÷ 1225 ≈ 1234 mm, about 1.2 m.",
+      "At f/11 it is 2 × 3000² × 11 × 0.03 ÷ 35² = 5,940,000 ÷ 1225 ≈ 4849 mm, about 4.8 m. {{wiki-dof}}",
+      "The depth is about four times larger. f/2.8 to f/11 is four stops (f/2.8, 4, 5.6, 8, 11), so you need 16 times the light."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example 2: checking his focusing example against the formula"
+    },
+    {
+     "t": "example",
+     "title": "Focus at 4 feet 6 inches (our check, with illustrative lens and blur values)",
+     "steps": [
+      "Toland gives one example: focus set 4 feet 6 inches (about 1372 mm) from the camera, and everything from 18 inches to infinity acceptably sharp. He does not say which lens or stop. {{toland-ac1941}}",
+      "The standard hyperfocal formulas are not in his essay or our sources, so this check is our addition: H = f² ÷ (N × c), near limit = H × u ÷ (H + u), far limit = H × u ÷ (H − u) if u is less than H, otherwise infinity.",
+      "Try a 24 mm lens at f/16 with c = 0.03 mm: H = 576 ÷ 0.48 = 1200 mm. Because 1372 mm is more than H, the far limit is infinity. The near limit is 1200 × 1372 ÷ 2572 ≈ 640 mm, about 25 inches.",
+      "With a looser blur tolerance of c = 0.045 mm, H is 800 mm and the near limit is about 505 mm, about 20 inches, close to his 18 inches.",
+      "So his statement is plausible for a wide lens at a very small stop with a generous blur tolerance, but it is not true for every lens. Do not copy a focusing rule without testing it."
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Very small apertures lose sharpness to diffraction on many lenses. That is not in Toland's essay; it is our caution, which is why he and we say to test each lens."
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a depth budget"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Sketch the shot and write the nearest and farthest things that must be sharp, with distances.",
+      "Pick a lens and a stop, and work the depth of field with the formula. If it falls short, go wider or stop down.",
+      "Work the stops you gave up. Each stop smaller needs twice the light.",
+      "Set the lighting contrast to match: open the shadows with fill, and check the highlights.",
+      "Shoot a test at your chosen stop and the stop on each side, and check the near and far limits against your numbers."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Do the depth budget on a real scene. Report the predicted and measured near and far limits and the stops of light paid."
+    },
+    {
+     "t": "check",
+     "q": "Which two changes did Toland say raise contrast?",
+     "o": [
+      "Fast film and long lenses",
+      "Coated lenses and reduced apertures",
+      "Arc lamps and muslin",
+      "Low angles and ceilings"
+     ],
+     "a": 1,
+     "w": "He says fast film flattens contrast, while coated lenses and reduced apertures increase it. {{toland-ac1941}}"
+    },
+    {
+     "t": "check",
+     "q": "You close from f/2.8 to f/11. About how much more light do you need?",
+     "o": [
+      "Twice",
+      "Four times",
+      "Sixteen times",
+      "Sixty-four times"
+     ],
+     "a": 2,
+     "w": "Four stops is 2 to the power 4, which is 16."
+    },
+    {
+     "t": "check",
+     "q": "Does a focusing rule from a published example work for any lens?",
+     "o": [
+      "Yes",
+      "No, it depends on the lens and stop, so test it",
+      "Only on film",
+      "Only at f/11"
+     ],
+     "a": 1,
+     "w": "Our check shows his example holds only for a wide lens at a very small stop with a generous blur tolerance."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Set the stop from the depth the shot needs. {{toland-ac1941}}",
+      "Deep focus is paid for in light and in lighting contrast. {{toland-ac1941}}",
+      "Test your lens at your stop before you trust a number."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Which apertures did Toland use for his deep focus scenes, according to his own essay?",
+    "o": [
+     "f/1.4 to f/2",
+     "f/2.3 to f/3.5",
+     "f/8 or smaller, often f/11, one at f/16",
+     "f/32 to f/64"
+    ],
+    "a": 2,
+    "w": "He says nearly all interiors were at f/8 or smaller, often f/11, and one at f/16. {{toland-ac1941}}"
+   }
+  },
+  {
+   "key": "cinematography-4",
+   "name": "Karl Freund",
+   "min": 24,
+   "outcome": "Measure light before setting it, choose the lighting contrast for the delivery chain, and light each position to the same reading.",
+   "intro": "Karl Freund made light meters as well as films, and his own account of filming I Love Lucy begins with a lighting contrast problem. His method is to name the constraint, choose the contrast for it, and measure.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "Karl Freund (1890 to 1969) was a cinematographer and director who photographed Metropolis (1927) and Dracula (1931). {{wiki-freund}}"
+    },
+    {
+     "t": "p",
+     "x": "We read his own account of filming I Love Lucy in full, as reproduced on a third-party site, and Wikipedia as excerpts. The record is partial to rich, with the caveat that we did not see the original print. {{freund-1953}} {{wiki-freund}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Name what the show needs. Three motion picture cameras were used instead of TV cameras, for editing flexibility and better picture than kinescope recording. {{freund-1953}}",
+      "Place the lights to serve the audience and the cameras. The lights had to go above the stage, so the audience had a clear view and the cameras could move without floor cables. {{freund-1953}}",
+      "Find the problem in the result. Overhead light was unflattering, and prints that looked right in a projection room showed too much contrast on a closed TV circuit. He names subject lighting contrast as the greatest difference between standard motion picture technique and TV film. {{freund-1953}}",
+      "Choose the fix that changes the least. He chose to expose the negative with a subject lighting contrast considerably lower than normal for black-and-white film, and to process the negative and print in the normal way. {{freund-1953}}",
+      "Plan the light from rehearsal. At the end of the second day the cameraman sees a run-through and notes the camera positions, and instructs the electrical crew where lights are to go. {{freund-1953}}",
+      "Keep the changes simple during the shoot. The only floor lights are on each camera dolly above the lens, controlled by dimmers. {{freund-1953}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Wikipedia adds that his company Photo Research Corporation made the Norwood Director direct-reading incident light meter with Donald W. Norwood, and that a photometer and a brightness meter earned him two Academy Awards for technical achievement. {{wiki-freund}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Wikipedia says Freund designed a flat lighting system that eliminates shadows. His own account describes lower subject contrast with overhead lights. We follow his own account. Wikipedia also gives two founding dates for Photo Research, 1941 and 1944, and we do not settle which is right. {{wiki-freund}} {{freund-1953}}"
+    },
+    {
+     "t": "table",
+     "title": "His constraint and answer, with your parallel (the third column is our adaptation)",
+     "head": [
+      "Constraint",
+      "Freund's answer",
+      "Your parallel"
+     ],
+     "rows": [
+      [
+       "Audience and mobile cameras",
+       "Lights overhead, no floor cables",
+       "Lights on stands out of frame, taped cables"
+      ],
+      [
+       "Too much contrast on the delivery chain",
+       "Lower subject lighting contrast, normal processing",
+       "Add fill, and choose a flat profile only if you will grade"
+      ],
+      [
+       "Several cameras, one light plan",
+       "Light worked out at rehearsal",
+       "Light once for the setups you will shoot, then meter"
+      ],
+      [
+       "No time to relight",
+       "Dimmers on the dolly lights",
+       "Dimmable or adjustable lamps, and flags"
+      ]
+     ],
+     "src": "The first two columns are from his account. The third is our adaptation. {{freund-1953}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: the lighting ratio as a number (illustrative values)"
+    },
+    {
+     "t": "example",
+     "title": "Key and fill, in stops",
+     "steps": [
+      "Freund does not state a ratio in his account. Here is our arithmetic. Measure the shadow side at 80 fc, which is the fill alone, and add 160 fc of key on the lit side. The lit side then reads 160 + 80 = 240 fc.",
+      "The ratio is 240 ÷ 80 = 3 to 1, which is log base 2 of 3, about 1.6 stops.",
+      "If you raise the fill to 160 fc, the lit side is 320 fc against 160, a ratio of 2 to 1, which is 1 stop. That is a flatter picture.",
+      "If you drop the fill to 40 fc, the lit side is 200 fc against 40, a ratio of 5 to 1, about 2.3 stops. That is more contrasty.",
+      "Pick the ratio for the delivery chain and the mood, measure it, and write it on the plan sheet."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a meter run"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Pick the aperture and ISO you want and look up the footcandles in the Kodak table (for example f/4 at EI 500 needs 40 fc). {{kodak-500t}}",
+      "Place the lights from your rehearsal, as Freund did, and note the positions.",
+      "With an incident meter or a reliable phone meter, measure at the face for each position the actor will stand in, on the key side and the shadow side.",
+      "Work the lighting ratio in stops and compare it with your target.",
+      "Adjust, measure again, and record the final numbers."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Do a meter run at three positions and write the readings and the ratio for each."
+    },
+    {
+     "t": "check",
+     "q": "What did Freund do about lighting contrast, in his own account?",
+     "o": [
+      "Raised it",
+      "Used a subject lighting contrast considerably lower than normal and processed normally",
+      "Ignored it",
+      "Removed all lights"
+     ],
+     "a": 1,
+     "w": "He lowered the subject lighting contrast and used normal processing. {{freund-1953}}"
+    },
+    {
+     "t": "check",
+     "q": "Key adds 160 fc to a shadow side of 80 fc. What is the lit-to-shadow ratio?",
+     "o": [
+      "2:1",
+      "3:1",
+      "5:1",
+      "8:1"
+     ],
+     "a": 1,
+     "w": "The lit side is 240 fc and 240 ÷ 80 is 3."
+    },
+    {
+     "t": "check",
+     "q": "Where were Freund's floor lights?",
+     "o": [
+      "On stands in the audience",
+      "On each camera dolly above the lens",
+      "Under the actors",
+      "There were none overhead"
+     ],
+     "a": 1,
+     "w": "The only floor lights were mounted on each camera dolly above the lens. {{freund-1953}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Choose the lighting contrast for the delivery chain. {{freund-1953}}",
+      "Measure the light at each position and write it down.",
+      "A lighting ratio is a number in stops, not a feeling."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did Freund's Norwood Director measure?",
+    "o": [
+     "Incident light",
+     "Sound",
+     "Film length",
+     "Lens sharpness"
+    ],
+    "a": 0,
+    "w": "It was a direct-reading incident light meter. {{wiki-freund}}"
+   }
+  },
+  {
+   "key": "cinematography-5",
+   "name": "Karl Freund",
+   "min": 26,
+   "outcome": "Plan a multi-camera set-up with a wide camera and close cameras, convert his lens choices to your sensor, and schedule the rehearsal that makes it work.",
+   "intro": "Karl Freund took the camera off the tripod, and later perfected a three-camera system with a wide centre camera and two close-up cameras. His account is a plan for coverage, lenses, crew and rehearsal.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read his own account of filming I Love Lucy in full, as reproduced on a third-party site, and Wikipedia as excerpts. The camera facts come from his account. {{freund-1953}} {{wiki-freund}}"
+    },
+    {
+     "t": "h",
+     "x": "Two methods, one idea: put the camera where the story needs it"
+    },
+    {
+     "t": "p",
+     "x": "Wikipedia says Freund was a pioneer of the unchained camera, free of the tripod, in films such as The Last Laugh (1924). He wore the camera on his stomach and walked while it filmed, and also put it on a cart on a track and on a crane. {{wiki-freund}}"
+    },
+    {
+     "t": "p",
+     "x": "For I Love Lucy he did not invent the three-camera system, but he perfected it for film cameras in front of a live audience. {{wiki-freund}}"
+    },
+    {
+     "t": "h",
+     "x": "His three-camera method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Choose the cameras and glass. Three BNC Mitchell cameras with T-stop calibrated lenses, on dollies. {{freund-1953}}",
+      "Give each camera a job. The middle camera usually covers the long shot with a 28 to 50 mm lens. The two close-up cameras, 75 to 90 degrees apart from the centre camera, carry 3 to 4 inch lenses. {{freund-1953}}",
+      "Staff each camera as a unit. A crew of four per camera: the cameraman, his assistant, a grip and a cable man. {{freund-1953}}",
+      "Mark and cue everything. Every dolly move is marked on the floor for every scene, and the camera moves are cued from the monitor box, with the whole crew on an intercom. {{freund-1953}}",
+      "Plan the week. It takes four days to line up a show, two of them rehearsals. Rehearsals with cameras fill the last two days, and the actual shooting time is an hour and a half. {{freund-1953}}",
+      "Accept the trade-offs. Retakes are not desirable with an audience, and he says close-ups of the usual glamour kind were discarded because they stood out like a sore thumb. {{freund-1953}}"
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Freund's plan and your two-camera plan (the right column is our adaptation)",
+     "head": [
+      "",
+      "Freund",
+      "You, with a small crew"
+     ],
+     "rows": [
+      [
+       "Centre camera",
+       "Long shot, 28 to 50 mm",
+       "Wide master on a tripod"
+      ],
+      [
+       "Side cameras",
+       "Close-ups, 3 to 4 inch lenses, 75 to 90° from centre",
+       "One close camera on a slider or second tripod"
+      ],
+      [
+       "Crew",
+       "Four per camera",
+       "Two or three people, with one job each"
+      ],
+      [
+       "Marks and cues",
+       "Floor marks and an intercom",
+       "Tape marks and agreed hand signals"
+      ],
+      [
+       "Lining up and rehearsal",
+       "Four days, with camera rehearsals in the last two",
+       "At least a full run-through with the camera moves"
+      ]
+     ],
+     "src": "The Freund column is from his account. The right column is our adaptation. {{freund-1953}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example 1: his lenses on your sensor"
+    },
+    {
+     "t": "example",
+     "title": "Do his focal lengths transfer to a 1.6 crop DSLR? (our arithmetic)",
+     "steps": [
+      "The 35 mm Academy frame is 22 by 16 mm. {{wiki-35mm}} A 1.6 crop sensor is about 22.5 mm wide (36 ÷ 1.6), so the two frames are almost the same width: 22.5 ÷ 22 is about 1.02.",
+      "So his 28 to 50 mm centre lens frames nearly the same on your crop camera, and so do his 3 to 4 inch lenses, which are 76 to 102 mm (3 × 25.4 and 4 × 25.4).",
+      "On a full-frame camera, 36 mm wide, multiply by about 1.64 (36 ÷ 22) to get the same framing: his 28 to 50 mm becomes about 46 to 82 mm, and 76 to 102 mm becomes about 125 to 167 mm.",
+      "Use these as starting points, then check the framing on your own camera."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example 2: his week against your hours (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Scaling a four-day plan",
+     "steps": [
+      "His plan is four days of lining up and rehearsal for about an hour and a half of shooting. {{freund-1953}}",
+      "If you have 12 hours in total for a short scene, follow his lean: keep most for planning, light and rehearsal, say 8 hours, and leave 4 for shooting and resets.",
+      "At 36 minutes per setup from the schedule method in this module, 4 hours of shooting is 6 or 7 setups at most, before breaks, so plan 6 to keep spare time.",
+      "With two cameras rolling together you may need fewer setups: a wide master and a close camera at once."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a two-camera plan"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Draw the plan view and the line of action. Put the wide camera on the line side and the close camera 75 to 90 degrees away on the same side.",
+      "Choose the lenses with the conversion above, and write the framing for each.",
+      "Decide the lighting contrast the two cameras can share, as in the last lesson.",
+      "Write the marks and cues, and assign every job.",
+      "Schedule the rehearsal first, then the shoot, with spare time."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write the two-camera plan for a one-minute scene, with lenses, jobs, marks and a schedule."
+    },
+    {
+     "t": "check",
+     "q": "Where did Freund put the close-up cameras?",
+     "o": [
+      "Behind the centre camera",
+      "75 to 90 degrees from the centre camera",
+      "On the ceiling",
+      "Beside the actors"
+     ],
+     "a": 1,
+     "w": "They were 75 to 90 degrees apart from the centre camera. {{freund-1953}}"
+    },
+    {
+     "t": "check",
+     "q": "A 3 inch lens is about how many millimetres?",
+     "o": [
+      "30",
+      "76",
+      "300",
+      "760"
+     ],
+     "a": 1,
+     "w": "3 × 25.4 mm is about 76 mm."
+    },
+    {
+     "t": "check",
+     "q": "What took most of Freund's week for each show?",
+     "o": [
+      "Shooting",
+      "Rehearsal and planning",
+      "Editing",
+      "Travel"
+     ],
+     "a": 1,
+     "w": "Four days lined up each show, two of them rehearsals, against an hour and a half of shooting. {{freund-1953}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Give each camera a job and each person a job. {{freund-1953}}",
+      "His lenses transfer closely to a 1.6 crop sensor.",
+      "Rehearse more than you shoot."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What was Freund known for pioneering?",
+    "o": [
+     "The unchained camera",
+     "VHS",
+     "Super 8",
+     "The tripod"
+    ],
+    "a": 0,
+    "w": "He was a pioneer of the unchained camera. {{wiki-freund}}"
+   }
+  },
+  {
+   "key": "cinematography-6",
+   "name": "George Eastman",
+   "min": 22,
+   "outcome": "Cost the whole path from exposure to finished file, decide which steps to hand to a lab, and handle film so the handed-off steps start well.",
+   "intro": "George Eastman separated taking the picture from developing it, sold the system as a whole, and saw that most of the money would be in the film. His method is a way to cost and divide a film shoot.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "George Eastman (1854 to 1932) founded the Eastman Kodak Company and helped bring roll film into the mainstream. {{wiki-eastman}}"
+    },
+    {
+     "t": "p",
+     "x": "We read part of his own 1888 patent and Wikipedia as excerpts, so the record is partial. The patent describes the camera, not his business thinking, so the business points come from Wikipedia. {{eastman-patent}} {{wiki-eastman}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Remove the step the customer finds hard. In 1888 he released the Kodak camera, sold loaded with film for 100 exposures. {{wiki-eastman}}",
+      "Take the work back in a package. The photographer mailed the camera to Rochester with $10, and the company processed the film, made a print of each exposure, reloaded the camera and returned it all. {{wiki-eastman}}",
+      "Build the camera around the film. His patent describes a camera whose lens sits inside a hollow cylindrical shutter with openings on opposite sides, turning half a revolution with each press, and a roll-holder with a measuring roller and an indicator. {{eastman-patent}}",
+      "Make the money where it recurs. He saw that most revenue would come from film rolls rather than cameras, and so he focused on film production. {{wiki-eastman}}",
+      "Sell to the whole market. By providing quality, affordable film to every camera maker, Kodak turned competitors into de facto business partners. {{wiki-eastman}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The source describes Eastman as controlling his public image, and a definitive biography only appeared in 1996, so we know his methods mostly from the products and the patent. {{wiki-eastman}}"
+    },
+    {
+     "t": "table",
+     "title": "Stages of a shot on film and who does each (the Eastman column follows the sources; the rest is our adaptation)",
+     "head": [
+      "Stage",
+      "1888 Kodak",
+      "Your film shoot"
+     ],
+     "rows": [
+      [
+       "Load",
+       "Loaded at the factory",
+       "You load a cartridge or magazine in the dark"
+      ],
+      [
+       "Expose",
+       "Photographer",
+       "You, with a meter and a test"
+      ],
+      [
+       "Count what is used",
+       "A film indicator",
+       "Footage counter and your shot log"
+      ],
+      [
+       "Develop and print",
+       "Eastman's factory",
+       "A lab, in a process such as ECN-2 for colour negative"
+      ],
+      [
+       "Deliver",
+       "Prints and a reloaded camera",
+       "Scans and files, with the originals returned"
+      ]
+     ],
+     "src": "Eastman's column follows the sources. The third column is our adaptation. {{wiki-eastman}} {{eastman-patent}} {{kodak-500t}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: cost per exposure, per frame and per minute (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Putting a price on each step",
+     "steps": [
+      "In 1888 $10 covered processing, prints, a reload and the return, for 100 exposures. That is 10 ÷ 100 = $0.10 per exposure. {{wiki-eastman}}",
+      "A Super 8 cartridge holds 3,600 frames. {{wiki-super8}} Suppose stock, processing and scan together cost £60, a placeholder, not a quote. That is 60 ÷ 3,600 = £0.0167, about 1.7p per frame.",
+      "At 18 frames per second a cartridge runs 200 seconds, which is 3.33 minutes, so the cost is 60 ÷ 3.33 = £18 per minute shot.",
+      "With a shooting ratio of 3 to 1 the cost per finished minute is about £54. As Eastman saw, the film is where the money goes, so work this out before you buy the camera."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "What you cannot hand off: handling the film"
+    },
+    {
+     "t": "p",
+     "x": "Kodak says to store unexposed film at 13 °C (55 °F) or lower, at -18 °C (0 °F) or lower for extended storage, and to process exposed film promptly. {{kodak-500t}}"
+    },
+    {
+     "t": "p",
+     "x": "Let film warm to room temperature before use, to prevent telescoping, condensation and spotting. Kodak lists 1 hour for 8 mm and 16 mm film after an 8 °C rise and 1.5 hours after a 39 °C rise, and 3 and 5 hours for 35 mm. {{kodak-500t}}"
+    },
+    {
+     "t": "p",
+     "x": "Do not use a safelight. Handle unprocessed film in total darkness. {{kodak-500t}}"
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a hand-off table"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "List every step from buying the film to a finished file.",
+      "For each, ask who can do it well, and where a mistake would be invisible until too late.",
+      "Hand off the steps you cannot do well or cannot check, such as processing and scanning. Keep the steps that need your eye, such as metering and handling.",
+      "Get a real quote from a lab, with its date, and work the cost per finished minute at your shooting ratio.",
+      "Write the film handling steps from the Kodak sheet into your plan sheet."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Make the hand-off table and write the all-in cost per finished minute from a real quote."
+    },
+    {
+     "t": "check",
+     "q": "Where did Eastman expect most revenue to come from?",
+     "o": [
+      "Cameras",
+      "Film rolls",
+      "Tripods",
+      "Lenses"
+     ],
+     "a": 1,
+     "w": "He recognised that most revenue would come from film rolls. {{wiki-eastman}}"
+    },
+    {
+     "t": "check",
+     "q": "A £60 cartridge holds 3,600 frames. About what does each frame cost?",
+     "o": [
+      "0.17p",
+      "1.7p",
+      "17p",
+      "£1.70"
+     ],
+     "a": 1,
+     "w": "60 ÷ 3,600 is about £0.0167."
+    },
+    {
+     "t": "check",
+     "q": "What does Kodak say about handling unprocessed film?",
+     "o": [
+      "Use a green safelight",
+      "Handle it in total darkness",
+      "Handle it in bright light",
+      "Keep it hot"
+     ],
+     "a": 1,
+     "w": "Do not use a safelight; handle unprocessed film in total darkness. {{kodak-500t}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Cost the whole path, not only the film.",
+      "Hand off what you cannot do well or cannot check. {{wiki-eastman}}",
+      "Handle film cool, warm it before use and keep it dark. {{kodak-500t}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "How many exposures did the first Kodak camera hold when it was sold loaded in 1888?",
+    "o": [
+     "12",
+     "36",
+     "100",
+     "400"
+    ],
+    "a": 2,
+    "w": "It was sold loaded with enough film for 100 exposures. {{wiki-eastman}}"
+   }
+  },
+  {
+   "key": "cinematography-7",
+   "name": "Robert W. Paul",
+   "min": 22,
+   "outcome": "Build a hybrid timeline by deciding each source's share of the final picture, and keep the exposure right when sources are layered.",
+   "intro": "Robert W. Paul built his own camera and projector when only copies of others' films existed, and his camera could expose the same film more than once. His method is to build what is missing and to treat each layer as a share of the result.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "Robert W. Paul (1869 to 1943) was an English pioneer of film and a maker of scientific instruments. {{wiki-paul}}"
+    },
+    {
+     "t": "p",
+     "x": "We read only one Wikipedia page, as excerpts. The record is faint, no primary source was found, and the page notes that the credit for some firsts is claimed for others. His voice is not documented. {{wiki-paul}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Start from the tool you can copy. In 1894 he reverse-engineered an Edison Kinetoscope that had not been patented in Britain. {{wiki-paul}}",
+      "Find the bottleneck. The only films available were bootleg copies made for Edison's machines, so he resolved to make his own camera. {{wiki-paul}}",
+      "Work with others, and split when needed. He and Birt Acres shared the credit for Britain's first 35 mm camera, then dissolved the partnership and competed. {{wiki-paul}}",
+      "Build the next tool. In April 1896 he built the Cinematograph Camera No. 1, the first with reverse-cranking, so the same film could be exposed several times. {{wiki-paul}}",
+      "Use the tool for new work. Superpositions and multiple exposures appear in his 1901 film Scrooge, or, Marley's Ghost. {{wiki-paul}}",
+      "Build the place for the work. In 1898 he designed and built Britain's first film studio. {{wiki-paul}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "The page also says Georges Méliès began using cameras built by Paul, that The British Film Catalogue credits his 1898 film Our New General Servant with the first use of intertitles, and that his films pioneered close-up framing and cut transitions. {{wiki-paul}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The page notes that others claim some of these firsts, for example Louis Le Prince. We treat the claims as Wikipedia's, not as settled. {{wiki-paul}}"
+    },
+    {
+     "t": "table",
+     "title": "Paul's moves and your hybrid parallel (the right column is our adaptation)",
+     "head": [
+      "Paul",
+      "Hybrid project"
+     ],
+     "rows": [
+      [
+       "Reverse-engineered a machine that existed",
+       "Learn the camera or deck you were given before you replace it"
+      ],
+      [
+       "Built a camera when none was available",
+       "Build the missing step: a capture route for tape, a scan route for film"
+      ],
+      [
+       "Superposed exposures on one film",
+       "Layer clips on one timeline and decide each layer's share"
+      ],
+      [
+       "Built a studio",
+       "Set up a folder, naming and backup system before the edit"
+      ]
+     ],
+     "src": "The left column follows {{wiki-paul}}. The right column is our adaptation."
+    },
+    {
+     "t": "h",
+     "x": "Worked example: layering and exposure (our arithmetic, illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "How much light does each layer get?",
+     "steps": [
+      "Expose a frame twice on the same film at full exposure each time and the film gets twice the light, one stop too much. Reverse-cranking is what made multiple exposures possible. {{wiki-paul}}",
+      "To keep the total correct, each pass must give 1 ÷ n of the exposure. Two passes: each at half, one stop under. Three passes: each at a third, log base 2 of 3 is about 1.6 stops under. Four passes: each at a quarter, 2 stops under.",
+      "A digital edit shows the same idea as opacity: two layers at 50 percent add to one full-strength picture, and three layers at about 33 percent each.",
+      "Our caution: film and digital blend differently, because digital layers are usually mixed in a non-linear colour space, so equal opacity may not look like equal light. Check by eye."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a hybrid share table"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "List each source: DSLR, film scan, tape capture. Note frame rate and shutter angle for each.",
+      "Choose one project frame rate, and a conversion for any source that differs.",
+      "For each shot, say which sources appear and the share of the picture each takes.",
+      "If you layer, divide the exposure among the layers as above, then check by eye.",
+      "Keep every original, as Paul's machines kept every negative, and back them up twice."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Make a two-layer composite from a digital and an analog clip. State the share each takes and what could not be matched."
+    },
+    {
+     "t": "check",
+     "q": "What was special about Cinematograph Camera No. 1?",
+     "o": [
+      "First colour camera",
+      "First with reverse-cranking, so film could be exposed several times",
+      "It used no film",
+      "It recorded sound"
+     ],
+     "a": 1,
+     "w": "It was the first camera to feature reverse-cranking. {{wiki-paul}}"
+    },
+    {
+     "t": "check",
+     "q": "Three layers must add to one correct exposure. About how many stops under is each?",
+     "o": [
+      "1",
+      "1.6",
+      "2",
+      "3"
+     ],
+     "a": 1,
+     "w": "Each gets a third of the light, which is log base 2 of 3, about 1.6 stops."
+    },
+    {
+     "t": "check",
+     "q": "Why did Paul build his own camera?",
+     "o": [
+      "He disliked Edison",
+      "Only bootleg copies of Edison films were available",
+      "He wanted colour",
+      "The law required it"
+     ],
+     "a": 1,
+     "w": "The only films available were copies made for Edison machines. {{wiki-paul}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Build the missing step instead of waiting for it. {{wiki-paul}}",
+      "Each layer gets a share of the final picture.",
+      "Keep every original."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did reverse-cranking allow, according to the source?",
+    "o": [
+     "Sound",
+     "The same film footage to be exposed several times",
+     "Colour film",
+     "Faster shutters"
+    ],
+    "a": 1,
+    "w": "It allowed the same footage to be exposed several times. {{wiki-paul}}"
+   }
+  },
+  {
+   "key": "cinematography-cap",
+   "name": "Eadweard Muybridge",
+   "min": 20,
+   "outcome": "Write a report whose every claim a sceptic could check, with a protocol set before the test and the original files kept.",
+   "intro": "Muybridge convinced sceptical witnesses by testing in public and by letting reporters inspect the original negative. Your report works the same way: a protocol, evidence for each claim, and the originals kept.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "This lesson rests on Wikipedia excerpts about Muybridge and the opening of his own 1887 prospectus, so the record is partial. {{wiki-muybridge}} {{muybridge-1887}}"
+    },
+    {
+     "t": "h",
+     "x": "His method of proof, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "A claim met doubt. In July 1877 he made a clearer picture of the horse Occident at full speed, and had it retouched and published as a cabinet card. Critics doubted the heavily manipulated image was truthful. {{wiki-muybridge}}",
+      "He let the doubters inspect the original. He allowed reporters to study the original negative. {{wiki-muybridge}}",
+      "He changed the test so that it did not need trust. As he and Stanford planned a new project that would convince everyone, they did not feel the need to prove the 1877 image. {{wiki-muybridge}}",
+      "He tested in public. The session of 15 June 1878 was witnessed by the press and turf men, and a snapping strap was captured on the negatives and shown to the attendees, which convinced even the most sceptical witnesses. {{wiki-muybridge}}",
+      "He then built a larger body of evidence. 24 cameras in 1879, and 781 plates in the 1887 work. {{wiki-muybridge}} {{muybridge-1887}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The source says the original 1877 negative has not resurfaced. We do not know what it would have shown. {{wiki-muybridge}}"
+    },
+    {
+     "t": "table",
+     "title": "Evidence for each claim in your report (our adaptation)",
+     "head": [
+      "Claim",
+      "Evidence a sceptic can check",
+      "Original kept?"
+     ],
+     "rows": [
+      [
+       "The film version shows visible grain",
+       "A 100% crop of a flat area from each version",
+       "Scan and DSLR file"
+      ],
+      [
+       "Motion blur matched",
+       "Frame grabs of the same moving hand at the same shutter angle",
+       "Both clips"
+      ],
+      [
+       "The film was exposed correctly",
+       "The bracket chart and the grey-card frame",
+       "The scan of the bracket"
+      ],
+      [
+       "Cost per finished minute",
+       "The quote with its date, the shooting ratio and the arithmetic",
+       "The quote"
+      ],
+      [
+       "Light was consistent",
+       "Readings at three positions",
+       "The log"
+      ]
+     ],
+     "src": "Idea from {{wiki-muybridge}}. The table is our adaptation."
+    },
+    {
+     "t": "h",
+     "x": "Worked example: setting the protocol before the test (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "A pass or fail rule for 'the two versions match in motion'",
+     "steps": [
+      "Before you shoot, write the rule: both clips at 24 fps, shutter angle within 10° of each other, same hand wave, same lens framing within a few percent.",
+      "After you shoot, record the angles: digital 1/50 s is 360 × 24 ÷ 50 = 172.8°, film 180°. The difference is 7.2°, inside the rule.",
+      "If the film camera had run at 18 fps with a 144° shutter, its exposure is (144 ÷ 360) ÷ 18 = 1/45 s. The digital equivalent at 24 fps is about 1/48 s. Compare what you actually recorded, not what you intended.",
+      "A rule written after the result is only a story. A rule written before is a test."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: the evidence column"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "List every claim in your report in one column.",
+      "Beside each, write the frame, number or log that backs it, and the file name of the original.",
+      "Strike any claim you cannot back, or rewrite it as a question.",
+      "If you graded or retouched a frame, show the ungraded original beside it, as Muybridge allowed the negative to be inspected. {{wiki-muybridge}}",
+      "Ask someone who did not make the work to try to break one claim. Fix what they find."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Make the evidence column for your report and have one person try to break a claim."
+    },
+    {
+     "t": "check",
+     "q": "What convinced Muybridge's sceptics in June 1878?",
+     "o": [
+      "A long speech",
+      "A public session in which an accident was captured on the negatives",
+      "A painting",
+      "A price list"
+     ],
+     "a": 1,
+     "w": "The captured accident convinced even sceptical witnesses. {{wiki-muybridge}}"
+    },
+    {
+     "t": "check",
+     "q": "When should you write the pass rule for a comparison?",
+     "o": [
+      "After the result",
+      "Before the test",
+      "Never",
+      "Only if it fails"
+     ],
+     "a": 1,
+     "w": "A rule written after the result is only a story, which is our reasoning from his open testing."
+    },
+    {
+     "t": "check",
+     "q": "Digital 1/50 s at 24 fps is what shutter angle?",
+     "o": [
+      "144°",
+      "172.8°",
+      "180°",
+      "360°"
+     ],
+     "a": 1,
+     "w": "360 × 24 ÷ 50 = 172.8°."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Back each claim with something a sceptic can check. {{wiki-muybridge}}",
+      "Write the pass rule before the test.",
+      "Keep the originals and show them beside any graded frame."
+     ]
+    }
+   ],
+   "quiz": null
+  }
+ ]
+}

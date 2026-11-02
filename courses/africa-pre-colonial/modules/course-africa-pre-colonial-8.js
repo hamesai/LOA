@@ -535,6 +535,255 @@
   },
   {
    "id": "l6",
+   "title": "What the supplied books add to the Atlantic trade",
+   "min": 34,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "This module has the most material: Rodney's argument, Reader's later chapters, two shorter claims from Diop, and a few tales. The lesson keeps the Rodney, Manning, Nunn and Thornton debate and adds Lovejoy and Eltis as named positions. Each table says what to trust."
+    },
+    {
+     "t": "h",
+     "x": "How the trade began"
+    },
+    {
+     "t": "p",
+     "x": "Reader gives the first Portuguese slave raids as 1441, the first licensed slave voyage as 1444 (six caravels, 230 captives landed at Lagos), and Azurara's count of 927 captives shipped to Portugal from 1441 to 1446. {{rd-lag}} Horses became a medium of exchange, with a horse worth ten to fifteen slaves in the 1450s, and the Jolof elites raided to pay for mounts. {{rd-port}} The El Mina fort was founded in 1482, and Portugal took an estimated half of West African gold exports while it controlled the coast. {{rd-port}} These records come from Portuguese chroniclers and officials, so they show what Portugal knew, not the African side."
+    },
+    {
+     "t": "h",
+     "x": "The totals: older estimates beside Voyages"
+    },
+    {
+     "t": "table",
+     "title": "Estimates of the Atlantic trade in the supplied books",
+     "head": [
+      "Source",
+      "Figure",
+      "How to read it"
+     ],
+     "rows": [
+      [
+       "Voyages (the course)",
+       "About 12.5 million embarked, 1501 to 1866",
+       "The current standard database."
+      ],
+      [
+       "Curtin, via Reader",
+       "9,391,100 landed in the Americas, 1451 to 1870 {{rd-atl}}",
+       "A 1969 landed total; Rodney calls it a low figure. {{rod-trade}}"
+      ],
+      [
+       "Lovejoy, via Reader",
+       "11,863,000 shipped, with 9,600,000 to 10,800,000 landed {{rd-atl}}",
+       "Older range; near Voyages once embarked and landed are separated."
+      ],
+      [
+       "Rodney",
+       "Estimates run from a few million to over a hundred million; Middle Passage deaths 15 to 20 per cent {{rod-trade}}",
+       "The upper range has no basis."
+      ],
+      [
+       "Diop (1960)",
+       "100 to 300 million taken or dead, and a population of 400 million without it {{dpc-tech}}",
+       "Unsupported. [THIN EVIDENCE]"
+      ]
+     ],
+     "src": "{{rd-atl}}"
+    },
+    {
+     "t": "p",
+     "x": "The estimates differ in what they count (embarked, landed, or captured in Africa). Reader gives Lovejoy's yearly averages of about 2,500 to 1600, 18,680 in the 1600s and 61,330 in the 1700s, and says under 5 per cent were landed in what is now the United States, about 42 per cent in the Caribbean and about 38 per cent in Brazil. {{rd-atl}} Use Voyages as the base and these as comparison."
+    },
+    {
+     "t": "h",
+     "x": "The debate: who did what, and with what effect"
+    },
+    {
+     "t": "table",
+     "title": "The long-run effects: positions in the supplied books",
+     "head": [
+      "Scholar",
+      "Position",
+      "What to say"
+     ],
+     "rows": [
+      [
+       "Rodney",
+       "The trade and later colonial rule caused underdevelopment; population stagnation had no cause other than the slave trade; Europe chose what Africa exported. {{rod-trade}}",
+       "One strong position. The population claim is tested by Manning's models. [CONTESTED]"
+      ],
+      [
+       "Manning (via Reader)",
+       "Shipping 9 million between 1700 and 1850 meant about 21 million captured, and almost no population growth south of the Sahara from 1750 to 1850. {{rd-trans}}",
+       "A model, not a count. [CONTESTED]"
+      ],
+      [
+       "Lovejoy (via Reader)",
+       "The trade transformed African societies and slavery within Africa grew after 1807. {{rd-trans}}",
+       "Widely though not universally accepted."
+      ],
+      [
+       "Eltis (via Reader)",
+       "The majority of Africans would have been about as well off without trading contact; changes came from within. {{rd-trans}}",
+       "The opposing view. [CONTESTED]"
+      ],
+      [
+       "Thornton (the course)",
+       "Africans controlled the terms on the coast; the trade rested on African demand and political power.",
+       "Contested in turn."
+      ],
+      [
+       "Reader",
+       "Says the evidence does not settle the question, then judges the transformation thesis more believable. {{rd-trans}}",
+       "His lean, not a result."
+      ]
+     ],
+     "src": "{{rd-trans}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Rodney writes that Africans had little clue about the system and that few slaves existed in Africa. Reader's chapters, Diop's account of the Askias' slave estates and the course's Songhai material show slavery was widespread in the Sahel and elsewhere. {{rd-slave}} {{dpc-tech}} Use Rodney as one position, not as a source of fact."
+    },
+    {
+     "t": "h",
+     "x": "African traders in the records"
+    },
+    {
+     "t": "p",
+     "x": "Richard Miles, an agent on the Gold Coast, recorded 2,352 purchases from 1772 to 1780 in 1,308 barters with 295 dealers, only eleven of whom were regular suppliers. Many sellers were small traders, not state elites. {{rd-trade}} Antera Duke of Old Calabar kept a diary in 1785 to 1788 that survives in a published transcription; the original was lost in the Second World War. {{rd-trade}} Cowries from the Maldives were in use after 1515 and ran to over ten billion shells in the 1700s, and African buyers decided which goods they wanted. {{rd-trade}}"
+    },
+    {
+     "t": "h",
+     "x": "Guns, iron and food crops"
+    },
+    {
+     "t": "table",
+     "title": "Claims about guns and crops, and the checks",
+     "head": [
+      "Claim",
+      "Source",
+      "Check"
+     ],
+     "rows": [
+      [
+       "British traders exported 283,000 to 394,000 guns a year to West Africa, 1750 to 1807; about 20 million guns in all",
+       "Reader, giving best estimates {{rd-trans}}",
+       "Estimates, not counts. A 1759 check at Luanda found only 200 of 4,000 guns serviceable. [PROBABLE]"
+      ],
+      [
+       "Maize and cassava arrived in the 16th century but became staples in the 18th",
+       "Reader {{rd-trans}}",
+       "The best-supported timing."
+      ],
+      [
+       "Maize and cassava became staples late in the 19th century",
+       "Rodney {{rod-trade}}",
+       "Later than Reader's timing. [CONTESTED]"
+      ],
+      [
+       "Maize and cassava reached Africa before Columbus",
+       "Diop, citing Van Sertima {{dpc-tech}}",
+       "No archaeological evidence offered. [THIN EVIDENCE]"
+      ]
+     ],
+     "src": "{{rd-trans}}"
+    },
+    {
+     "t": "h",
+     "x": "Slavery inside Africa after 1807"
+    },
+    {
+     "t": "p",
+     "x": "Reader, following Lovejoy, says enslavement inside Africa grew after abolition. By the end of the 19th century French officials counted slaves as 30 to 50 per cent of people in the Sahel, with a conservative estimate of about 2.5 million in the Sokoto caliphate in 1900; Zanzibar held over 100,000 slaves from the 1830s. {{rd-after}} More than 3 million were still shipped across the Atlantic in the 19th century, and the Royal Navy squadron captured 1,635 ships. {{rd-after}} Reader's total of 600,000 enslaved inside Africa each year is his own chain of assumptions. {{rd-clim}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "h",
+     "x": "Abolition, pretext and Berlin"
+    },
+    {
+     "t": "p",
+     "x": "Rodney argues anti-slavery served as a pretext for colonisation, citing Britain's action against Jaja and Nana, who by then traded palm oil, and says conquest succeeded because of African agents and political fragmentation. {{rod-trade}} Set it beside the humanitarian reading. Reader reports that no African was invited to Berlin in 1884 to 1885 and that treaties were drawn in European languages with untranslatable land terms. {{rd-berlin}} He says the new borders divide at least 177 ethnic culture areas. {{rd-bound}} The course already says Berlin did not itself draw the map; later bilateral agreements did."
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Reader's chapter on Berlin and boundaries misdates Bismarck's fall (1899 to 1900); he left office in 1890. Do not quote that date. {{rd-bound}}"
+    },
+    {
+     "t": "h",
+     "x": "Population"
+    },
+    {
+     "t": "p",
+     "x": "Reader estimates about 47 million people in sub-Saharan Africa in 1500 by back-projection, and blames tropical disease and tsetse for keeping numbers low. {{rd-farm}} That is an estimate, not a count, and it differs from Rodney's trade-only explanation. [THIN EVIDENCE]"
+    },
+    {
+     "t": "p",
+     "x": "A last note, our inference and not in the book: Woodson's trapped-hare tale resembles the Uncle Remus tar-baby story, which may show tales crossing the Atlantic with enslaved people; the book itself says nothing of this. {{wood-tales}}"
+    },
+    {
+     "t": "check",
+     "q": "Which figure is the course's base for how many people were embarked?",
+     "o": [
+      "9,391,100",
+      "About 12.5 million, from Voyages",
+      "100 million",
+      "400 million"
+     ],
+     "a": 1,
+     "w": "Curtin's figure is landed only. {{rd-atl}}"
+    },
+    {
+     "t": "check",
+     "q": "Which source says the trade left Africa little changed and that most Africans would have been about as well off?",
+     "o": [
+      "Rodney",
+      "Eltis, as set out by Reader",
+      "Diop",
+      "Woodson"
+     ],
+     "a": 1,
+     "w": "Reader describes Eltis against Lovejoy. {{rd-trans}}"
+    },
+    {
+     "t": "check",
+     "q": "What does the Miles barter record show?",
+     "o": [
+      "Only kings sold slaves",
+      "Many sellers were small traders, with only eleven regular suppliers among 295",
+      "Africans did not sell",
+      "Guns were never used"
+     ],
+     "a": 1,
+     "w": "2,352 purchases from 295 dealers. {{rd-trade}}"
+    },
+    {
+     "t": "check",
+     "q": "Rodney says there were few slaves in Africa. What is the best response?",
+     "o": [
+      "Accept it",
+      "Show it as one position; slavery in the Sahel and elsewhere is well recorded",
+      "Delete the claim",
+      "Say Rodney wrote in 1900"
+     ],
+     "a": 1,
+     "w": "Reader and Diop's accounts show widespread slavery. {{rd-slave}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Use Voyages as the base total; older estimates differ in what they count. {{rd-atl}}",
+      "Add Lovejoy and Eltis to the Rodney, Manning, Nunn and Thornton debate. [CONTESTED]",
+      "African sellers included many small traders, not only elites. {{rd-trade}}",
+      "Slavery inside Africa grew after 1807 on Lovejoy's account. [CONTESTED]"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l7",
    "title": "The lecturer's method: Olaudah Equiano",
    "min": 24,
    "blocks": [

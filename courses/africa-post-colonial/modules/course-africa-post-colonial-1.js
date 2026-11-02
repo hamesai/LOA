@@ -20,6 +20,57 @@
      "x": "Within about thirty years of the Berlin Conference of 1884 to 1885, European states took nearly all of Africa. {{lib}}"
     },
     {
+     "t": "h",
+     "x": "What the Berlin Conference did and did not do"
+    },
+    {
+     "t": "p",
+     "x": "The Berlin Conference opened on 15/11/1884 and its General Act is dated 26/02/1885 [check]. Fourteen states took part and no African was present. {{hs-berlin}} {{rd-berlin}}"
+    },
+    {
+     "t": "p",
+     "x": "Hochschild calls the popular picture of Berlin as the meeting that divided Africa a myth. The conference set ground rules, among them free trade in the Congo basin, free navigation and the principle of effective occupation, and it recognised Leopold's claim at the mouth of the Congo. The actual frontiers came afterwards, from many bilateral treaties and conquests between 1885 and 1914. {{hs-berlin}} {{rd-borders}}"
+    },
+    {
+     "t": "table",
+     "title": "Three books on Berlin",
+     "head": [
+      "Source",
+      "What it says",
+      "Verdict for this course"
+     ],
+     "rows": [
+      [
+       "Hochschild",
+       "Ground rules and recognition of an existing claim; no partition",
+       "Followed"
+      ],
+      [
+       "Reader",
+       "Gives the dates and the Act, yet his chapter blurb repeats the 'carved up' line; he also lets Leopold's claim be recognised, not created",
+       "Use his facts, not his blurb"
+      ],
+      [
+       "Moyo",
+       "Repeats 'the ill-conceived partitioning of Africa' and arbitrary borders; a popular economics book, not a history of the conference",
+       "Do not repeat; see Module 6"
+      ]
+     ],
+     "src": "{{hs-berlin}} {{rd-berlin}} {{rd-borders}}"
+    },
+    {
+     "t": "check",
+     "q": "What is the most accurate sentence about the Berlin Conference?",
+     "o": [
+      "It drew the map of modern Africa.",
+      "It set ground rules and recognised Leopold's Congo claim; borders came from later bilateral deals.",
+      "It was held in 1895.",
+      "African kings signed its Act."
+     ],
+     "a": 1,
+     "w": "Hochschild treats the 'carved up' picture as a myth, and Reader's own narrative of effective occupation agrees. {{hs-berlin}}"
+    },
+    {
      "t": "fig",
      "id": "africa-post-colonial-tl1",
      "title": "Conquest, 1880 to 1912",
@@ -159,6 +210,27 @@
     },
     {
      "t": "p",
+     "x": "Hochschild adds steamboats and the medical advance of quinine, and notes that only 430 whites were in the Congo by the end of 1889, mostly officers on leave and under half of them Belgian. A few thousand whites ruled many millions of Africans on his estimate. {{hs-tools}}"
+    },
+    {
+     "t": "p",
+     "x": "Reader gives the same point a sharper edge: the 'thin white line' really was thin, and rule depended on African collaboration, yet technology made the outcome close to inevitable. At Omdurman the British killed at least 10,800 Sudanese for 49 of their own dead. {{rd-conquest}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Reader also claims that fewer than half of one per cent of Africans resisted and that a conquest and resistance story is seriously misleading. Most African historians dispute this, so treat it as one view [CONTESTED]. The course's Module 2 cases and Adwa show organised resistance. {{rd-conquest}}"
+    },
+    {
+     "t": "h",
+     "x": "Disease as an ally of conquest"
+    },
+    {
+     "t": "p",
+     "x": "Rinderpest, brought in with cattle imported at Massawa in 1889, is estimated to have killed 90 to 95 per cent of Africa's cattle by the early 1900s [ESTIMATE]. Lugard said it favoured the European enterprise. Reader's wider claim that many game parks are former cattle country is his argument and is [CONTESTED]. {{rd-conquest}}"
+    },
+    {
+     "t": "p",
      "x": "They did not decide every war, because Ethiopia, equipped with modern rifles, beat Italy. {{lib}}"
     },
     {
@@ -180,6 +252,21 @@
     {
      "t": "p",
      "x": "Agents collected treaties from chiefs to present as titles at Berlin. They were often signed without translators or with different meanings in each language. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "In the Congo, Stanley claimed treaties with over 450 chiefs. A sample treaty of 01/04/1884 gave sovereignty, tolls and rights to labour for a piece of cloth a month, and the chiefs could not read the language. The cover bodies Leopold used, from the International African Association to the International Association of the Congo, were funded by him alone. {{hs-treaties}}"
+    },
+    {
+     "t": "example",
+     "title": "Worked example: the Lochner concession (Barotseland)",
+     "steps": [
+      "Frank Lochner reached Lewanika, the Lozi king, in 1890 and presented the British South Africa Company as an arm of the Queen's government.",
+      "Lewanika signed on 26/06/1890: 2,000 pounds a year, schools and a British Resident, in return for exclusive trade, mining and construction rights over some 200,000 square miles.",
+      "The Company paid nothing for seven years, so arrears were 7 x 2,000 = 14,000 pounds (our arithmetic), then 850 pounds a year with no back pay. A Resident arrived in 1897.",
+      "The Colonial Office admitted Lochner made too free a use of the Queen's name, yet the agreement stood.",
+      "Lesson: the paper proves a signature and the terms. It does not prove that the signer understood or accepted what the other side later claimed. Lewanika was himself a ruler with an empire and slaves who sought British protection for his own ends. {{rd-lewanika}}"
+     ]
     },
     {
      "t": "p",
@@ -294,8 +381,79 @@
      "x": "Roger Casement's 1904 report and E. D. Morel's campaign led Belgium to take over the territory in 1908. {{lib}}"
     },
     {
+     "t": "example",
+     "title": "Worked example: how Morel proved forced labour from shipping records",
+     "steps": [
+      "E. D. Morel was a shipping clerk at Elder Dempster in the late 1890s.",
+      "He compared the ships' records with the Free State's published trade figures.",
+      "About 80 per cent of imports were arms and ammunition, and exports to Europe were worth about five times the goods sent for Africans.",
+      "Africans were therefore not being paid. This is a method, not a rumour: cross-check two independent sets of records. {{hs-morel}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Casement's report of 1904 was official and sober, but the Foreign Office stripped the witnesses' names under pressure, which weakened it against Leopold's reply. Leopold ran a press bureau, paid editors and hosted favourable visitors, so reassurance and travel accounts can be bought. {{hs-casement}} {{hs-spin}}"
+    },
+    {
+     "t": "h",
+     "x": "After 1908: a change of form"
+    },
+    {
+     "t": "p",
+     "x": "The Belgian takeover of 1908 ended Leopold's personal rule. It did not end forced labour: the same personnel and the Force Publique stayed, and taxes in kind took over from quotas. Hochschild says the fall in atrocity reports owed more to cultivated rubber and head taxes than to reform. Morel called it a partial victory. Leopold's profit is put at 220 million francs by the historian Jules Marchal, about 1.1 billion dollars in today's money. {{hs-victory}} {{hs-notes}}"
+    },
+    {
+     "t": "p",
+     "x": "Why was the Congo singled out? Hochschild argues that the French Congo had an equally brutal concession system and perhaps 50 per cent population loss in rubber areas, and that the Herero genocide of 1904 to 1906 (Module 2) drew little protest. The reform movement focused on a safe target and, in Morel's case, did not question empire itself. {{hs-victory}} {{hs-campaign}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The archives of the Free State were burned for eight days in 08/1908. Hochschild says the toll is an estimate partly because of this. {{hs-forget}} The Tervuren museum was renovated and reopened in 2018 [check current]."
+    },
+    {
+     "t": "check",
+     "q": "Why is 'the 1908 handover ended forced labour' wrong?",
+     "o": [
+      "Forced labour never existed.",
+      "The system continued through taxes and the same personnel, so only the form changed.",
+      "Leopold stayed in power.",
+      "The Force Publique was disbanded."
+     ],
+     "a": 1,
+     "w": "Hochschild stresses continuity after 1908. {{hs-victory}}"
+    },
+    {
      "t": "p",
      "x": "What is not disputed is the scale of violence and forced labour. {{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "How the system worked"
+    },
+    {
+     "t": "p",
+     "x": "A decree of 1885 made the state owner of all land not occupied, and concession companies, with the state holding about half the shares, took the rubber. Quotas for one company were 3 to 4 kg of dried rubber per man per fortnight. Women and children were held as hostages until the quota arrived, and the hippo-hide whip, the chicotte, was the common penalty. {{hs-state}} {{hs-rubber}}"
+    },
+    {
+     "t": "p",
+     "x": "The incentives were set up by managers. One company paid 1.35 francs a kilo to produce rubber that sold for up to 10 francs, and Congo rubber earnings rose ninety-six times between 1890 and 1904. {{hs-rubber}} The Force Publique had over 19,000 men by about 1900, took over half the state budget, and its posts grew from 183 in 1900 to 313 in 1908. {{hs-state}}"
+    },
+    {
+     "t": "p",
+     "x": "Severed hands were used as proof that cartridges had not been wasted on game. Hochschild treats this as a system of discipline run by soldiers and allies, and cites officials who admitted it. Africans were also foremen and soldiers, and the pre-colonial Congo had its own wars. {{hs-rubber}}"
+    },
+    {
+     "t": "h",
+     "x": "African resistance and testimony"
+    },
+    {
+     "t": "p",
+     "x": "Africans resisted from the start. Nzansu's rising lasted to about 1899, the Luluabourg mutiny of 1895 held the Kasai for over half a year, and a mutiny of some 3,000 soldiers in the north-east in 1897 lasted three years. More than a dozen peoples rebelled. {{hs-state}}"
+    },
+    {
+     "t": "p",
+     "x": "Hochschild stresses that almost no African voice survives in writing for the worst years. The African American historian George Washington Williams wrote an Open Letter to Leopold on 18/07/1890, the first systematic indictment, though Hochschild notes he embellished his own record. The Commission of Inquiry of 1904 to 1905 took 370 depositions and kept them sealed until the 1980s. {{hs-intro}} {{hs-williams}} {{hs-inquiry}}"
     },
     {
      "t": "h",
@@ -307,7 +465,15 @@
     },
     {
      "t": "p",
-     "x": "The library gives about 10 million as Adam Hochschild's reading of the demographic loss, and tags it [ESTIMATE, CONTESTED]. {{lib}}"
+     "x": "In the book itself Hochschild reaches about 10 million, calling the earlier figure of eight to ten million unproven and tagging it as his own reckoning [ESTIMATE, CONTESTED]. {{hs-intro}} {{hs-toll}} {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "His chain of reasoning is explicit. No census existed until 1924, when the population was reckoned at about 10 million. A Belgian government commission of 1919, the top Free State official Liebrechts in 1920, and the ethnographer Jan Vansina's local-source work all judged that the population had fallen by at least half. Hochschild's 10 million is that halving applied to a base of about 20 million. {{hs-toll}}"
+    },
+    {
+     "t": "p",
+     "x": "He names four causes: killing, starvation and exhaustion, disease, and a collapse in births. Sleeping sickness, which Leopold's defenders stress, was made worse by hunger and trauma on his argument. Outright murder was not the largest cause. {{hs-toll}}"
     },
     {
      "t": "p",
@@ -349,9 +515,56 @@
      "src": "{{lib}} {{wiki-congo}}"
     },
     {
+     "t": "table",
+     "title": "Four books, four versions of the Congo loss",
+     "head": [
+      "Source",
+      "Figure and base",
+      "Basis",
+      "Problem"
+     ],
+     "rows": [
+      [
+       "Hochschild",
+       "About 10 million, from about 20 million in 1880 to about 10 million in 1924",
+       "1919 commission, Liebrechts, Vansina, 1924 reckoning",
+       "Share is firmer than the absolute number [ESTIMATE, CONTESTED]"
+      ],
+      [
+       "Ndaywel è Nziem",
+       "13 million in the 1998 edition, later lowered by him to 10 million",
+       "Congolese historian's synthesis, as reported by Hochschild",
+       "Reported, not seen in the original"
+      ],
+      [
+       "Reader",
+       "At least 20 million before, 8.5 million after a '1911 census'",
+       "Administrative figure",
+       "Hochschild finds no census before 1924, and Reader elsewhere gives 10 million for 1885"
+      ],
+      [
+       "Reader, other passage",
+       "Population of about 10 million in 1885",
+       "Not sourced",
+       "A halving of 10 million is 5 million, not 10 million"
+      ]
+     ],
+     "src": "{{hs-toll}} {{hs-after}} {{hs-notes}} {{rd-berlin}}"
+    },
+    {
+     "t": "example",
+     "title": "Worked example: why the base matters (our arithmetic)",
+     "steps": [
+      "If the 1885 population was about 20 million and half were lost, the loss is about 10 million.",
+      "If it was about 10 million, a loss of half is about 5 million.",
+      "So the headline number depends on a base nobody counted. The share (at least half) is better supported than the total.",
+      "Write the range, name the source and say which base it uses."
+     ]
+    },
+    {
      "t": "callout",
      "k": "note",
-     "x": "Genocide or forced labour? Hochschild is reported as saying that no reputable historian of the Congo has charged genocide, because a forced-labour system, though as deadly, is different. A 2003 article by Weisbord argued the opposite. The question is [CONTESTED]. {{wiki-congo}}"
+     "x": "Genocide or forced labour? In the book Hochschild says the killing was of genocidal proportions but not strictly a genocide, because the aim was labour and not the elimination of a group. {{hs-toll}} A 2003 article by Weisbord argued the opposite. The question is [CONTESTED]. {{wiki-congo}}"
     },
     {
      "t": "example",
@@ -458,6 +671,37 @@
      "x": "Whether the borders caused later conflict is [CONTESTED]. Scholars point to the Organisation of African Unity's decision to keep them, which Module 3 covers. {{lib}}"
     },
     {
+     "t": "p",
+     "x": "Reader counts 177 culture areas divided by borders, and notes that the railway to Uganda (1901) cut cotton freight from 200 pounds to 2.40 pounds a tonne. {{rd-borders}} Tropical Africa was under 2 per cent of Britain's trade in 1913. {{rd-interwar}}"
+    },
+    {
+     "t": "table",
+     "title": "Was colonialism a net transfer out of Africa? Two readings",
+     "head": [
+      "Reading",
+      "Evidence it uses",
+      "Weakness"
+     ],
+     "rows": [
+      [
+       "Rodney: services were tiny and exports drained the continent",
+       "Social spending per head in 1934 was about 6 pounds 15 shillings in the UK against 7 shillings 4 pence in Ghana; hospital beds were set aside for Europeans; roads led to the coast",
+       "Selected figures from the 1930s to 1950s; economic historians find colonial investment varied"
+      ],
+      [
+       "Reader: colonies were not obviously profitable for the metropoles",
+       "Tropical Africa was under 2 per cent of Britain's 1913 trade; the Company paid no dividend for 33 years",
+       "Low trade share does not show that Africans were not harmed"
+      ]
+     ],
+     "src": "{{rod-colonial}} {{rd-interwar}} {{rd-borders}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Both are one side of an open debate [CONTESTED]. Rodney also claims monoculture was a colonial invention, while many economic historians say African farmers responded to world prices too. Module 6 returns to export dependence. {{rod-colonial}}"
+    },
+    {
      "t": "h",
      "x": "Adwa, 01/03/1896"
     },
@@ -500,6 +744,10 @@
       ]
      ],
      "src": "{{lib}} {{wiki-adwa}}"
+    },
+    {
+     "t": "p",
+     "x": "Reader gives Italian losses of 3,179 officers and men killed plus about 2,000 locally recruited troops, 11,000 rifles lost, Ethiopian losses of about 7,000 dead and 10,000 wounded, and a Menelik force near 100,000 [ESTIMATE]. His totals fall inside the ranges in the table. {{rd-conquest}}"
     },
     {
      "t": "example",

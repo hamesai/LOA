@@ -25,6 +25,19 @@
      "cap": "Dates from the working library; each bar is one year wide."
     },
     {
+     "t": "callout",
+     "k": "note",
+     "x": "Counts differ by source. Reader counts 16 independences in 1960, 38 by 1965 and 45 by 1975, and says 30 states founded the OAU, while the library says 17 in 1960 and the OAU count in Module 3 is 32 or 33. The difference is mostly which territories are counted. Say 'about 17' and name your source. {{rd-indep}}"
+    },
+    {
+     "t": "p",
+     "x": "Reader counts more than 70 coups in 32 countries between the killing of Togo's president Olympio on 13/01/1963 and Mobutu's fall in 1997, and says only five of the OAU founders had no violent change of government by 1997. The count is dated and the tally has grown since [check current]. {{rd-indep}}"
+    },
+    {
+     "t": "p",
+     "x": "The French Brazzaville Conference was held in early 1944 under de Gaulle and ruled out self-government even in the distant future. Rodney dates it 1948, which is wrong. {{rd-mau}} {{rod-colonial}}"
+    },
+    {
      "t": "table",
      "title": "Independence dates",
      "head": [
@@ -114,6 +127,52 @@
     {
      "t": "p",
      "x": "Historians weigh how independence came about. Frederick Cooper stresses the strategic choices of African unions and parties and the weakness of European states after 1945. Others stress Cold War rivalry or metropolitan economics. Many argue that independence was both won and conceded [CONTESTED]. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Rodney adds two claims worth separating. First, independence was not given: the choice that Africa should be free was made by Africans, by mass parties, strikes and the pressure of events from the Second World War to Bandung (1955). Second, the changeover had an element of conspiracy, because the colonial powers turned to the cadres their schools had produced. Historians who stress African nationalist agency and the speed of the transfers of 1957 to 1964 contest the second claim [CONTESTED]. {{rod-colonial}}"
+    },
+    {
+     "t": "table",
+     "title": "What colonial rule left at independence: education and elites",
+     "head": [
+      "Item",
+      "Figure",
+      "Source and status"
+     ],
+     "rows": [
+      [
+       "Africans in secondary school in all sub-Saharan Africa, 1938",
+       "about 11,000, for a population above 165 million",
+       "Reader [ESTIMATE]"
+      ],
+      [
+       "University graduates in the Congo, 1960",
+       "16 (Rodney) or fewer than 30 (Hochschild); the same order of size, different definitions",
+       "Range 16 to 30 [PROBABLE]; tiny is [FIRM]"
+      ],
+      [
+       "Senior civil-service posts held by Congolese",
+       "3 of about 5,000 management posts",
+       "Hochschild; Reader gives 3 of 4,875"
+      ],
+      [
+       "Uganda, 1959 spending per pupil",
+       "11 pounds African, 38 Indian, 186 European",
+       "Rodney, dated"
+      ],
+      [
+       "Adults without literacy, 1960s",
+       "80 to 85 per cent",
+       "UNESCO figure quoted by Rodney, dated"
+      ]
+     ],
+     "src": "{{rd-elite}} {{rod-colonial}} {{hs-forget}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Rodney's slogan 'education for underdevelopment' is an argument, and missions and village communities did build much African schooling. Reader adds that whenever ethnicity met class consciousness, ethnicity usually won, which is a generalisation and not a law [CONTESTED]. {{rod-colonial}} {{rd-elite}}"
     },
     {
      "t": "check",
@@ -281,6 +340,10 @@
     },
     {
      "t": "p",
+     "x": "The numbers behind 'almost no graduates' are sharp: fewer than thirty African graduates, no army officers, engineers or physicians, and 3 of about 5,000 management posts held by Congolese. {{hs-forget}}"
+    },
+    {
+     "t": "p",
      "x": "In his independence speech Lumumba spoke of the humiliations of colonial rule, while King Baudouin's speech praised Leopold. {{lib}}"
     },
     {
@@ -294,6 +357,18 @@
     {
      "t": "p",
      "x": "Lumumba was handed to Katangan forces and killed on 17/01/1961. A Belgian parliamentary commission (2001) found Belgium morally responsible, and the US Senate's Church Committee (1975) documented CIA plotting. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Lumumba was in office for 76 days (our arithmetic: 30/06 to 14/09/1960 is 31 + 31 + 14). The sources agree on a chain: Soviet aid from 08/1960, a US cable of 19/07/1960 asking for his removal, and a US National Security Council meeting on 18/08/1960. Hochschild, citing the Church Committee, says a National Security Council subcommittee including Allen Dulles authorised an assassination, and poison reached the CIA station. Reader is weaker, calling the authorisation implicit, and says the poison and sniper plans were abandoned. {{hs-forget}} {{rd-lumumba}}"
+    },
+    {
+     "t": "p",
+     "x": "What can be said safely: US officials planned his murder, Katangese officials and Belgian officers carried out the killing in January 1961, and Belgium apologised in 2001. The US has not. The US role in the plot and the killing itself is where specialists differ [CONTESTED]. {{hs-forget}} {{hs-after}} {{rd-lumumba}}"
+    },
+    {
+     "t": "p",
+     "x": "Mobutu took power again in 1965, ruled for 32 years, and renamed the country Zaire in 1971 [check]. Hochschild's parallel with Leopold, one-man rule living off the land, is his interpretation. {{hs-forget}}"
     },
     {
      "t": "p",

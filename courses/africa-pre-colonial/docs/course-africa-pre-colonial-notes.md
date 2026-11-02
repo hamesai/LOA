@@ -15,14 +15,14 @@ Read this before relying on any lesson. The course is written from a finished wo
 - part | Boston University: Johnson, Samuel (1846-1901) | 5 | Biography entry, excerpt.
 - part | Cambridge University Press: The History of the Yorubas | 5 | Publisher's description and contents, excerpt.
 - part | Internet Archive: The History of the Yorubas (1921 edition) | 5 | Front matter and the author's preface only.
-- none | Books named in the lessons (Iliffe, Vansina, Hunwick, Thornton, Rodney, Manning, Nunn, Cobbing, Chirikure, Law, Wilks, Lovejoy and others) | all | Named as pointers in the working library. Not opened by us.
+- none | Books named in the lessons but not supplied (Iliffe, Vansina, Hunwick, Thornton, Manning, Nunn, Cobbing, Chirikure, Law, Wilks, Lovejoy, Eltis and others; Lovejoy, Eltis and Manning appear only as Reader describes them) | all | Named as pointers in the working library. Not opened by us.
 - none | UNESCO World Heritage pages and the BBC and PBS series | all | Links come from the working library, which opened them for a link check. We did not re-read them.
 
 ## Lecturers
 - Dossiers for Jan Vansina, Ibn Khaldun, Ibn Battuta, Samuel Johnson and Olaudah Equiano are built from the pages above, with confidence tag partial. None of their own works was read. Voiced lines are simulated, written for teaching and not quotations.
 
 ## Not read, or not verified
-- Whether the Rhodes-era, Zulu, Dahomey and Kongo details in the working library match the specialist books. They were taken as written.
+- Whether the Rhodes-era, Dahomey and Kongo details in the working library match the specialist books. The Zulu, Dahomey and Kongo details were partly checked against Reader and Rodney (31/10/2026 to 01/11/2026); the rest were taken as written.
 - Ibn Battuta's visit to Kilwa: Wikipedia says 1330 and the working library says 1331. The lessons give about 1330 to 1331 and note that his chronology is uncertain.
 - The Berlin Conference attendance: the working library says twelve European states plus the Ottoman Empire and the United States; the Wikipedia excerpt says thirteen European nations and the United States. Both total fourteen, and the lessons say fourteen states.
 - Samuel Johnson's stated reasons for writing are from a biography and the preface excerpt, not from the whole book.
@@ -33,3 +33,7 @@ Read this before relying on any lesson. The course is written from a finished wo
 - The lecturers' definitions and the barrier-aid answers (shared/barriers) were written from the lessons and not checked against further sources.
 - The course has no per-lesson lecturer notes (shared/course-lecturer-notes.js).
 - The Post-Colonial Africa course is separate and was not touched.
+- Six books supplied by the user were read for the 31/10/2026 to 01/11/2026 review: Reader (37 of 63 chapters read, 26 skipped on purpose: human evolution and Palaeolithic chapters, post-1885 colonial and independence chapters, notes, bibliography and index), Rodney (8 of 14 read; the colonial-period chapters 5 and 6 and the front matter and index skipped on purpose), Oliver (all 23), Diop African Origin (21 of 22), Diop Precolonial Black Africa (all 14, read from an OCR of a scanned PDF) and Woodson (all 41). The Diop African Origin text is a defective edition with missing and repeated passages.
+- Facts stated in findings but taken from outside these books (Vai and Bamum script dates, the date of Isandhlwana, the Egyptian unification date, the ancient-DNA remark, the Columbian exchange) are labelled as not verified here.
+- The Reader chapters on human evolution and the Palaeolithic were not read, and Reader is a popular survey from the 1990s; later excavation reports on iron-working and Great Zimbabwe may differ.
+- Over 700 works for Ahmad Baba, Diop's Meroe and Moroccan-invasion dates, and Reader's 600,000-a-year estimate of slaves held inside Africa were not checked against a second source.

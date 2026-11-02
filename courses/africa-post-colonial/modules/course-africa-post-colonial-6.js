@@ -34,11 +34,24 @@
     },
     {
      "t": "p",
+     "x": "Reader adds detail. The majors' coup killed Prime Minister Balewa, Akintola and the Sardauna of Sokoto, six of seven conspirators were Igbo, and no Igbo politician was killed. General Ironsi's unitary decree of 05/1966 abolished the regions and brought northern riots, and after the counter-coup further pogroms drove more than a million refugees to the east by the end of 1966. {{rd-indep}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Rodney argues that the war was not an age-old tribal conflict, and that tribalism was produced by colonial administration and regional separation. That is the colonial construction view, which specialists qualify: pre-colonial identities existed but colonial rule hardened them [CONTESTED]. The 1966 anti-Igbo pogroms are well documented, so his claim that no Hausa massacre of Igbo occurred concerns pre-colonial times only. {{rod-colonial}} {{rd-indep}}"
+    },
+    {
+     "t": "p",
      "x": "In 1966 anti-Igbo killings in the north killed thousands, with figures that vary widely [ESTIMATE], and drove Igbo to the east. {{lib}}"
     },
     {
      "t": "p",
      "x": "Lt Col Odumegwu Ojukwu declared the Republic of Biafra on 30/05/1967. The federal government blockaded Biafra. The war ended with surrender in January 1970. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Reader says the war ended in 01/1970 after thirty months, with an amnesty for all who had fought, rebels reabsorbed in the federal army and Igbo civil servants and property restored. He does not give a toll, so the range above stands on other sources. Elections for civilian rule were later annulled when Chief Abiola won, and Nigeria's income per head was only 310 US dollars in 1993. {{rd-indep}}"
     },
     {
      "t": "h",
@@ -282,6 +295,58 @@
      "x": "IMF and World Bank loans came with conditions: devaluation, removal of subsidies, privatisation, trade liberalisation and cuts in public spending. {{lib}}"
     },
     {
+     "t": "h",
+     "x": "Three positions, not one story"
+    },
+    {
+     "t": "table",
+     "title": "Rodney, Moyo and the mainstream on what held Africa back",
+     "head": [
+      "Position",
+      "Core claim",
+      "What has tested it"
+     ],
+     "rows": [
+      [
+       "Rodney (1972) and Babu",
+       "Underdevelopment is a relationship of exploitation, and Africa should delink from the world market. Rodney also blames African elites who spend on imported luxuries",
+       "North Korea and Albania, Babu's exemplars, did not deliver, while export-led Asian economies grew; the prediction that socialism would replace capitalism was overtaken by 1991"
+      ],
+      [
+       "Moyo (2009)",
+       "Aid is a curse, and should be reduced over five to ten years in favour of bonds, trade, Chinese investment, microfinance and remittances",
+       "Eurobond defaults by Zambia in 11/2020, Ghana in 12/2022 and Ethiopia in 2023; mixed results on microfinance"
+      ],
+      [
+       "Mainstream development economics",
+       "Aid, policy and institutions all matter, and evidence on each is mixed",
+       "The Burnside-Dollar finding that aid works in good policy settings failed replication"
+      ]
+     ],
+     "src": "{{rod-ch1}} {{rod-post}} {{my-case}} {{my-mech}}"
+    },
+    {
+     "t": "p",
+     "x": "Rodney says openly that African development needs a radical break with the capitalist system. {{rod-pref}} The book appeared in 1972 while he taught at Dar es Salaam, and the editors of its later introduction are partisan by their own account. {{rod-intro}} His own text assigns blame to an African political class too. {{rod-ch1}}"
+    },
+    {
+     "t": "p",
+     "x": "Moyo's own proposal is milder than the foreword suggests. The book describes a gradual but uncompromising reduction over five to ten years, with modest aid and emergency relief exempt, while the foreword speaks of five years and then shutting it off. Quote the book. {{my-mech}} {{my-end}}"
+    },
+    {
+     "t": "h",
+     "x": "Moyo's account of the debt crisis"
+    },
+    {
+     "t": "p",
+     "x": "She traces the crisis through Bretton Woods in 07/1944, the oil shocks of 1973 and 1979, and rising rates. Mexico defaulted on 12/08/1982, eleven African states followed, and Africa's debt service rose from 2 billion dollars in 1975 to 8 billion in 1982. Programmes of the 1980s paired budget support with privatisation, trade liberalisation and civil-service cuts, and she reports a net flow of about 15 billion dollars a year from poor to rich countries in 1987 to 1989. She treats adjustment as a continuation of the aid model and not as a free-market cure, which is her verdict and not the standard one. {{my-history}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Moyo credits the late-1980s market reforms for the 2000s recovery in the same book that blames aid. Both claims are contested. {{my-intro}} The commodity boom behind the 2000s growth ended in 2014 to 2016 [check current]."
+    },
+    {
      "t": "table",
      "title": "The adjustment debate",
      "head": [
@@ -329,6 +394,89 @@
       "Verdict: adjustment shaped outcomes but cannot be the sole cause [CONTESTED].",
       "Write the sentence with the verb 'shaped', not 'caused'. {{lib}}"
      ]
+    },
+    {
+     "t": "table",
+     "title": "Checking Moyo's numbers before you use them",
+     "head": [
+      "Claim in Dead Aid",
+      "Status"
+     ],
+     "rows": [
+      [
+       "Poverty in Africa rose from 11 per cent to 66 per cent between 1970 and 1998",
+       "Contested and untraceable: the book's notes have no entry for it, it uses an old dollar-a-day line, and later work finds poverty falling slowly after the mid-1990s. Do not use as a measured fact."
+      ],
+      [
+       "Over 1 trillion dollars in aid to Africa in 50 years",
+       "Her own text gives different totals for different windows (300 billion, 400 billion, 1 trillion, 2 trillion). Never quote one without the window."
+      ],
+      [
+       "Chinese investment: 900 million dollars in 2004, 30 billion from 2000 to 2005, a stock of 100 billion by 2007",
+       "Internally inconsistent: a flow of 900 million a year cannot sum to 30 billion over five years. Treat all three as unreliable and use current research data."
+      ],
+      [
+       "Doing Business time and cost figures for starting a company",
+       "Dated: the World Bank discontinued the Doing Business index in 09/2021. Do not use."
+      ],
+      [
+       "Markets are forgiving of African borrowers",
+       "Overtaken by the defaults named above."
+      ],
+      [
+       "Mobutu stole about 5 billion dollars",
+       "Sourced in her endnotes to a cached web search for a Transparency International file, not a primary study."
+      ],
+      [
+       "Microfinance as banking on the unbankable",
+       "Randomised evaluations in six countries found modest average effects and no transformation of poverty; 2010 Andhra Pradesh crisis."
+      ],
+      [
+       "Harry Dexter White, US Secretary of State",
+       "Wrong: he was a Treasury official."
+      ]
+     ],
+     "src": "{{my-case}} {{my-history}} {{my-notes}} {{my-rem}} {{my-bonds}} {{my-mech}} {{my-trade}}"
+    },
+    {
+     "t": "table",
+     "title": "Her dated figures against current data (checked 01/11/2026)",
+     "head": [
+      "Measure",
+      "Moyo",
+      "Current figure",
+      "Caution"
+     ],
+     "rows": [
+      [
+       "Aid",
+       "About 37 billion dollars to Africa in 2006",
+       "OECD preliminary 2024: total aid 212.1 billion dollars, about 42 billion bilateral to Africa and 36 billion to sub-Saharan Africa; a broader final measure gives 66.5 billion for sub-Saharan Africa",
+       "The figure depends on the measure; preliminary data [check current]"
+      ],
+      [
+       "Poverty",
+       "66 per cent in 1998 on an old dollar-a-day line",
+       "About 43 per cent of sub-Saharan Africans below the current 3.00 dollar line, and the region holds most of the world's extreme poor",
+       "Different lines and prices, so not comparable"
+      ],
+      [
+       "Remittances",
+       "About 20 billion dollars in 2006, with fees near 20 per cent",
+       "About 54 billion dollars to sub-Saharan Africa in 2023, with average costs near 7.9 per cent",
+       "Remittances now exceed aid and FDI for many states"
+      ]
+     ],
+     "src": "{{my-intro}} {{my-rem}} {{oecd-oda}} {{owid-pov}} {{wb-remit}}"
+    },
+    {
+     "t": "p",
+     "x": "Her arithmetic is sound where it can be checked: a fall in aid share from 75 to 5 per cent in steps of 14 points takes exactly five years (our arithmetic: 75 minus 5 times 14 is 5). Her anecdotes, such as the mosquito-net maker, are illustrations and not data. {{my-rem}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Moyo's chapters on China give one side: infrastructure and no governance conditions, with a 2007 Pew survey showing favourable views of China in most of ten African countries. They say little about debt, labour practices, resource-for-loan deals or Sudan. Her 2004 to 2007 figures are dated, so use the debate on Chinese lending from current research instead [check current]. {{my-bonds}} {{my-trade}}"
     },
     {
      "t": "check",

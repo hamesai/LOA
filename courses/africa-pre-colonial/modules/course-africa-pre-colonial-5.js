@@ -514,6 +514,153 @@
   },
   {
    "id": "l6",
+   "title": "What the supplied books add to states and stateless societies",
+   "min": 28,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "The books split on a basic question: were African societies mostly kingdoms, or was kingship an exception? Diop says kingdoms; Reader says kingdoms were an eruption from a different pattern; Rodney concentrates on how the slave trade changed the states that did exist. Set the three beside the course's cases."
+    },
+    {
+     "t": "table",
+     "title": "Monarchy everywhere, or the exception? Three positions",
+     "head": [
+      "Source",
+      "Claim",
+      "Check against"
+     ],
+     "rows": [
+      [
+       "Diop (1960)",
+       "All pre-colonial Africa was covered by monarchies and empires; no spot, even in forest, escaped monarchic authority; there was no feudalism because land belonged to no one. {{dpc-state}}",
+       "Igbo society and Jenne-jeno had no kings in the course. Land tenure in states was varied. [CONTESTED]"
+      ],
+      [
+       "Reader (1990s)",
+       "Chiefs had status but little power; age-grades spread power sideways; states arose when trade let some accumulate wealth and coerce porters and slaves. {{rd-pol}}",
+       "Fits the Igbo case. A general explanation, itself [CONTESTED]."
+      ],
+      [
+       "Rodney (1972)",
+       "Societies before 1500 were transitional between communalism and feudalism; the slave trade then changed them. {{rod-trade}}",
+       "A Marxist frame; use it as one reading."
+      ]
+     ],
+     "src": "{{rd-pol}}"
+    },
+    {
+     "t": "p",
+     "x": "Diop is right that European feudalism is a poor template for Africa; he is wrong to say there were no non-state societies. Reader adds that the Luganda word that comes nearest to 'reign', mirembe, means a period of peace between succession struggles, and that primogeniture is rare, so 'king' is often a European label. {{rd-kongo}}"
+    },
+    {
+     "t": "h",
+     "x": "Igbo-Ukwu and the other bronze dates"
+    },
+    {
+     "t": "p",
+     "x": "Reader dates the Igbo-Ukwu burial and its lost-wax bronzes to the 10th century, anchored by dated mining debris of AD 895 to 1000, and says it held a crown, regalia and 165,000 glass and carnelian beads, in a region with no states. {{rd-gold}} Rodney gives a single span, the 14th and 15th centuries, for Ife and Benin bronzes. {{rod-pre}} The lesson ranges are tighter (Ife heads about the 12th to 15th centuries; Benin plaques the 16th and 17th); the book's span is a 1972 generalisation. [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "Oyo, Asante, Dahomey and Calabar in the slave-trade era"
+    },
+    {
+     "t": "table",
+     "title": "Four states and what the books say",
+     "head": [
+      "State",
+      "Reader",
+      "Rodney"
+     ],
+     "rows": [
+      [
+       "Oyo",
+       "Fell through overextension, rivalry among regional chiefs and a Muslim revolt. {{rd-after}}",
+       "An inland cloth-and-cavalry empire that exported captives in numbers from the early 19th century and fell about 1830. {{rod-trade}}"
+      ],
+      [
+       "Asante",
+       "Rose on gold and flintlock muskets; Osei Tutu; the Asantemanhyiamu council; a trading empire of about 250,000 km2 by 1820. {{rd-after}}",
+       "Absorbed captives locally, as Odonko-ba descendants. {{rod-trade}}"
+      ],
+      [
+       "Dahomey",
+       "A small centralised slaving kingdom with ten kings from 1650 to 1889; King Agaja's letter of 1726; Dalzell's estimate of 10,000 to 12,000 exported a year. {{rd-after}}",
+       "Called the black Sparta, a tribute-payer to Oyo until Oyo's fall. {{rod-trade}}"
+      ],
+      [
+       "Old Calabar (Efik)",
+       "Governed through the Egbo society, with one dominant trader by the early 19th century. {{rd-after}}",
+       "Not covered."
+      ]
+     ],
+     "src": "{{rd-after}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Reader's sacrifice figures for Asante and Dahomey come from visitors such as Bowdich and Burton, who wrote for audiences that wanted horror. Treat counts as [THIN EVIDENCE]. His report of forty-one young women in a well at Benin City, dated before AD 1200 and read as ritual sacrifice, is a single archaeological report, so say only 'reported'. {{rd-slave}}"
+    },
+    {
+     "t": "p",
+     "x": "Rodney reads Ibadan as selling its own captives and serfs for guns, which undermined its base. {{rod-trade}} Other historians stress war among Yoruba states after Oyo fell. Present Rodney's reading as one interpretation. [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "Myths as beliefs, not events"
+    },
+    {
+     "t": "p",
+     "x": "Woodson's 1928 Yoruba creation tale has the younger son Odudua scatter earth with a hen and the elder Orisha drunk on palm wine. That differs from the common Ife telling in which Obatala moulds people and Oduduwa comes later, so it is a second variant for the founding-myth checklist. {{wood-tales}} His tale of why children belong to the mother, and the Fang legend of Ngurangurane, record beliefs about custody and tribute, not events. {{wood-tales}} Diop's matching of Yoruba, Serer and Peul names to Egyptian words by sound alone is chance resemblance. {{dio-egypt}} Frobenius, whose Atlantis claim for Ife the course rejects, is cited approvingly by Diop; the same source can serve opposite arguments. {{dio-method}}"
+    },
+    {
+     "t": "check",
+     "q": "Diop says no spot in Africa escaped monarchic authority. What does the course show against this?",
+     "o": [
+      "Nothing",
+      "Igbo society and Jenne-jeno had no kings",
+      "Kingship was always rare",
+      "Africa had no kings"
+     ],
+     "a": 1,
+     "w": "Reader also describes age-grade societies without strong chiefs. {{rd-pol}}"
+    },
+    {
+     "t": "check",
+     "q": "When did Reader date the Igbo-Ukwu burial?",
+     "o": [
+      "The 3rd century",
+      "The 10th century, from dated mining debris",
+      "The 15th century",
+      "The 19th century"
+     ],
+     "a": 1,
+     "w": "He cites mining debris dated by radiocarbon to the 10th century. {{rd-gold}}"
+    },
+    {
+     "t": "check",
+     "q": "What does Reader say a sacrifice well at Benin City shows?",
+     "o": [
+      "A proven date",
+      "A single report read as probable ritual sacrifice, to be stated only as reported",
+      "A royal tomb",
+      "A well for water"
+     ],
+     "a": 1,
+     "w": "The date and reading come from one archaeological report. {{rd-slave}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Kingdoms and stateless societies both existed; claims of 'monarchy everywhere' go beyond the evidence. [CONTESTED]",
+      "Igbo-Ukwu is dated to the 10th century by mining debris. {{rd-pol}}",
+      "Visitor counts of human sacrifice are weak evidence. [THIN EVIDENCE]"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l7",
    "title": "The lecturer's method: Samuel Johnson",
    "min": 22,
    "blocks": [

@@ -1,0 +1,1322 @@
+{
+ "refs": {
+  "lancet12": [
+   "Physical activity: more of the same is not enough (comment on Morris's 1953 papers)",
+   "The Lancet, 2012",
+   "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(12)61027-7/fulltext"
+  ],
+  "ding24": [
+   "From London buses to activity trackers: a reflection of 70 years of physical activity epidemiology (read in full: the three sections on progress, over-estimation and equity)",
+   "Ding et al., via PubMed Central",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11336341"
+  ],
+  "morris94": [
+   "Exercise in the prevention of coronary heart disease: today's best buy in public health",
+   "J. N. Morris, Medicine and Science in Sports and Exercise, 1994",
+   "https://www.ovid.com/jnls/acsm-msse/pdf/00005768-199407000-00001~exercise-in-the-prevention-of-coronary-heart-disease-todays"
+  ],
+  "morris80": [
+   "Vigorous exercise in leisure-time: protection against coronary heart disease",
+   "Morris, Chave, Adam, Sirey, Epstein and Sheehan, The Lancet, 1980",
+   "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(80)92476-9/fulltext"
+  ],
+  "morris80b": [
+   "Vigorous exercise in leisure-time: protection against coronary heart disease (abstract)",
+   "Semantic Scholar",
+   "https://www.semanticscholar.org/paper/Vigorous-exercise-in-leisure-time%3A-protection-heart-Morris-Pollard/30fb09b9ed56ddedabe7da5a5e6cacfd14d653da"
+  ],
+  "rogers57": [
+   "The necessary and sufficient conditions of therapeutic personality change (abstract)",
+   "C. R. Rogers, Journal of Consulting Psychology 21(2), 1957, APA PsycNet",
+   "https://psycnet.apa.org/record/1959-00842-001"
+  ],
+  "rogers57pdf": [
+   "The necessary and sufficient conditions of therapeutic personality change (1957), full text, read in full",
+   "Carl R. Rogers, Journal of Consulting Psychology 21(2)",
+   "https://larrygmaguire.com/wp-content/uploads/2020/08/The-Necessary-and-Sufficient-Conditions-of-Therapeutic-Personality-Change.pdf"
+  ],
+  "eager": [
+   "Summary and evaluation of Carl Rogers' necessary and sufficient conditions of therapeutic personality change",
+   "Elisabeth Eager, The Person-Centered Journal 17, 2010",
+   "https://adpca.org/wp-content/uploads/2020/12/17_13.pdf"
+  ],
+  "brit-selye": [
+   "Hans Selye",
+   "Encyclopaedia Britannica",
+   "https://www.britannica.com/biography/Hans-Selye"
+  ],
+  "brit-gas": [
+   "General adaptation syndrome",
+   "Encyclopaedia Britannica",
+   "https://www.britannica.com/science/general-adaptation-syndrome"
+  ],
+  "pmc-selye": [
+   "Hans Selye (1907-1982): founder of the stress theory (read in full; a short biography that describes his rat experiments and the three phases)",
+   "Tan and Yip, Singapore Medical Journal 2018",
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC5915631/"
+  ],
+  "cunanan": [
+   "The general adaptation syndrome: a foundation for the concept of periodization",
+   "Cunanan et al., Sports Medicine 48, 2018",
+   "https://pubmed.ncbi.nlm.nih.gov/29307100/"
+  ],
+  "todd-delorme": [
+   "Thomas L. DeLorme and the science of progressive resistance exercise",
+   "Todd, Shurley and Todd, J Strength Cond Res 26(11), 2012",
+   "https://europepmc.org/article/med/22592167"
+  ],
+  "elite-delorme": [
+   "The not-so-famous DeLorme scheme (a trainer's article that quotes DeLorme and Watkins 1948 and 1951 and describes the 1945 method; read in full, secondary)",
+   "The Elite Trainer",
+   "https://theelitetrainer.com/the-not-so-famous-delorme-scheme"
+  ],
+  "bandura77": [
+   "Self-efficacy: toward a unifying theory of behavioral change (1977), full text read for the sources of efficacy information, the definitions and the evidence on modelling, persuasion and arousal",
+   "Albert Bandura, Psychological Review 84(2), via a SuSanA copy",
+   "https://www.susana.org/knowledge-hub/resources?id=4524"
+  ]
+ },
+ "modules": [
+  {
+   "key": "personal-training-1",
+   "name": "Jerry Morris",
+   "min": 26,
+   "outcome": "Read a study with a six-question evidence card, using Morris's bus study as the worked example, and say what the study cannot tell you about one client.",
+   "intro": "Jerry Morris's 1953 comparison of London bus drivers and conductors began modern research on activity and heart health. A 2024 reflection on the 70 years since lists exactly what such studies can and cannot show, which is what an evidence card is for.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We did not read the 1953 paper itself. We read a 2024 review of the field that opens with it, which is a good source for the study's design and the limits of this kind of research, and a 1994 paper by Morris and a 2012 Lancet comment, which we read in an earlier pass as excerpts. {{ding24}} {{morris94}} {{lancet12}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "State the question. Morris and colleagues asked whether physical activity at work is linked to coronary heart disease. {{lancet12}}",
+      "Name the groups compared. Sedentary London bus drivers against their more active conductor colleagues. {{lancet12}}",
+      "Name what was measured. Cardiac events. The drivers were at higher risk than the conductors. {{lancet12}}",
+      "Note what the finding was for its time. The 2024 review calls it ground-breaking, the first time physical activity was linked to a major chronic disease, and the birth of physical activity epidemiology. {{ding24}}",
+      "Ask what else could explain it. The review says being able to be active is itself a marker of good health, especially at older ages, so health or vitality can affect later activity (time-varying confounding), and this is rarely handled well. {{ding24}}",
+      "Ask who the study speaks for. Research has traditionally used healthy Western cohorts that are better educated and healthier than average, and the review calls generalisability the field's Achilles heel. {{ding24}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "The review also notes that randomised trials of activity are hard to run because outcomes take decades, that those done have been inconclusive, and that observational effect sizes are larger and more consistent. It says whether observational studies over- or under-estimate the benefit remains inconclusive. {{ding24}}"
+    },
+    {
+     "t": "p",
+     "x": "It adds that activity may be done out of necessity in hazardous settings or in demanding work without enough recovery, that more activity may be unobtainable for people fighting fatigue from a debilitating condition, and that blanket messages such as 'move more, sit less' deserve rethinking. {{ding24}}"
+    },
+    {
+     "t": "p",
+     "x": "In 1994 Morris wrote that activity could be 'today's best buy in public health', citing forty years of population studies showing a protective association in men of middle and early old age. Notice the scope of the claim: a protective association, in particular groups. {{morris94}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "A study of two jobs is observational. It compares groups, and it cannot by itself show that activity caused the difference. That caution is ours, supported by the review's points on confounding. {{ding24}}"
+    },
+    {
+     "t": "table",
+     "title": "Morris's 1953 bus study on an evidence card (the right column is our reading of what the sources say)",
+     "head": [
+      "Question",
+      "On the card",
+      "Limit or caution"
+     ],
+     "rows": [
+      [
+       "What was asked?",
+       "Is physical activity at work linked to coronary heart disease?",
+       "A link is not a cause"
+      ],
+      [
+       "Who was compared?",
+       "Bus drivers, who sit, and conductors, who move about",
+       "Two jobs in one setting; other differences may exist"
+      ],
+      [
+       "What was measured?",
+       "Cardiac events",
+       "Outcomes take years to appear"
+      ],
+      [
+       "What was found?",
+       "Drivers had higher risk than conductors",
+       "A difference between groups, not a promise for a person"
+      ],
+      [
+       "Who does it speak for?",
+       "Working men on London buses",
+       "Healthy-worker and healthy-volunteer effects; generalisability is weak"
+      ],
+      [
+       "What does it mean for my client?",
+       "Supports advice to move more",
+       "Do not promise an outcome for one person"
+      ]
+     ],
+     "src": "The first column and the 'on the card' answers follow the sources; the last column is our reading, supported by {{ding24}}. {{lancet12}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: relative and absolute risk (invented numbers)"
+    },
+    {
+     "t": "example",
+     "title": "Reading a difference between two groups",
+     "steps": [
+      "Suppose 30 of 1,000 drivers and 20 of 1,000 conductors have a cardiac event over a period. These numbers are invented to show the sum, not Morris's.",
+      "Risk in drivers is 30 ÷ 1,000 = 3.0%. Risk in conductors is 20 ÷ 1,000 = 2.0%.",
+      "Relative risk is 3.0 ÷ 2.0 = 1.5, so drivers have 50% more. The absolute difference is 1.0 percentage point, or 10 more events per 1,000 people.",
+      "A headline might say 'drivers 50% more likely', while a client hears 1 in 100. Quote both numbers.",
+      "If the more active men were also healthier to begin with, some of the gap is health, not activity. That is the confounding the review warns about. {{ding24}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a card for a headline (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Using the card on a claim a client brings",
+     "steps": [
+      "A client says: a study shows people who take 10,000 steps live longer.",
+      "Ask the six questions: what was asked, who was compared, what was measured, what was found, who does it speak for, and what it means for this client.",
+      "Check who wore the tracker: the review says device-based evidence over-represents privileged, healthier groups. {{ding24}}",
+      "Answer: supports moving more, does not promise 'longer life' for this person, and 10,000 is a target to test, not a threshold of benefit."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: the six-question card"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Pick one study or headline a client has quoted.",
+      "Fill in the six questions in your own words.",
+      "Write one sentence on what it cannot tell you about this client.",
+      "Write the advice it does support, in a form that makes no promise.",
+      "File the card with the client notes."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Pick one study or headline. Fill in the six-question card and write one sentence on what it cannot tell you about your client."
+    },
+    {
+     "t": "check",
+     "q": "What did Morris's 1953 bus study compare?",
+     "o": [
+      "Cyclists and walkers",
+      "Bus drivers and conductors",
+      "Doctors and nurses",
+      "Men and women"
+     ],
+     "a": 1,
+     "w": "It compared sedentary bus drivers with more active conductors. {{lancet12}}"
+    },
+    {
+     "t": "check",
+     "q": "According to the 2024 review, why can an observational link overestimate the benefit of activity?",
+     "o": [
+      "Because trials are too large",
+      "Being able to be active is itself a marker of good health",
+      "Because step counters are inaccurate",
+      "Because it takes too long to read"
+     ],
+     "a": 1,
+     "w": "Health and vitality can affect later activity, which biases the association. {{ding24}}"
+    },
+    {
+     "t": "check",
+     "q": "In the invented example, 30 of 1,000 against 20 of 1,000 is a relative risk of what?",
+     "o": [
+      "1.0",
+      "1.5",
+      "2.0",
+      "10"
+     ],
+     "a": 1,
+     "w": "3.0% ÷ 2.0% = 1.5."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Ask six questions of any study.",
+      "An observational link is not a cause, and who is in the study matters. {{ding24}}",
+      "Quote the absolute risk as well as the relative risk."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did Morris's 1953 bus study compare?",
+    "o": [
+     "Cyclists and walkers",
+     "Bus drivers and conductors",
+     "Doctors and nurses",
+     "Men and women"
+    ],
+    "a": 1,
+    "w": "It compared sedentary bus drivers with more active conductors. {{lancet12}} {{ding24}}"
+   }
+  },
+  {
+   "key": "personal-training-2",
+   "name": "Jerry Morris",
+   "min": 24,
+   "outcome": "Frame screening as a way to let people in safely, using the benefit and risk picture, and say plainly where the population picture stops.",
+   "intro": "Jerry Morris's later work reported that vigorous leisure-time exercise appeared protective. That gives the opening of a screening conversation, which should explain why you ask the questions and stay honest about what a population finding can promise one person.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read the abstract of his 1980 Lancet paper on vigorous leisure-time exercise, an excerpt of his 1994 paper, and the 2024 review for the limits of the evidence. We did not read the full 1980 paper. {{morris80}} {{morris80b}} {{morris94}} {{ding24}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Say the benefit first, with its scope. The 1980 abstract says vigorous exercise apparently protected against rapidly fatal heart attacks and other first clinical attacks of coronary disease alike, throughout middle age. {{morris80b}}",
+      "Keep the claim to what was studied. The 1994 paper's claim is a protective association in men of middle and early old age, from population studies. {{morris94}}",
+      "Say why you ask the questions. The authors suggest vigorous exercise may be a natural defence of the body, with a protective effect on the ageing heart. {{morris80}} Screening exists because one person's picture can differ from the group's, so the aim is to find who needs a doctor first.",
+      "Run the screening steps from this module in order and record the answers. The decision rules are in the module's screening algorithm, not in Morris's papers.",
+      "If the algorithm says refer, refer, and frame it as starting safely, not as a refusal.",
+      "Do not over-promise. The 2024 review notes that 'move more, sit less' messages can exclude people who are fighting fatigue from a condition or who are active out of necessity. {{ding24}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Morris studied groups of men in middle age. Screening decisions follow the screening algorithm in this module, and you refer on when it says to. Using his work to frame the conversation is our adaptation. {{morris80b}}"
+    },
+    {
+     "t": "table",
+     "title": "A benefit-and-risk screening opening (the right column is our adaptation)",
+     "head": [
+      "Move in the conversation",
+      "Source of the idea",
+      "What you say"
+     ],
+     "rows": [
+      [
+       "Benefit first, in scope",
+       "1980 abstract",
+       "Regular vigorous activity is linked to better heart health in studies of groups"
+      ],
+      [
+       "Say what it does not promise",
+       "2024 review",
+       "It does not predict what will happen to one person"
+      ],
+      [
+       "Say why you ask",
+       "1980 paper",
+       "The questions find the few people who should see a doctor before starting"
+      ],
+      [
+       "Refer without blame",
+       "Our adaptation",
+       "This is about starting safely, not about saying no"
+      ],
+      [
+       "Offer a next step either way",
+       "Our adaptation",
+       "Here is what we can do this week"
+      ]
+     ],
+     "src": "The first two columns follow the sources where cited; the last column is our adaptation. {{morris80b}} {{ding24}} {{morris80}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a short script for the screening conversation (illustrative, our reading)"
+    },
+    {
+     "t": "example",
+     "title": "Say it in about a minute",
+     "steps": [
+      "Open: regular activity is linked to better heart health in studies of groups of people. {{morris80b}}",
+      "Limit: a study of a group cannot tell us what will happen to you, so I ask a few questions first. {{ding24}}",
+      "Ask: run the screening questions from this module, in order, and write down each answer.",
+      "Decide: if the algorithm says refer, say 'I would like you to see your doctor first so we can start safely', and give a clear next step.",
+      "Close: either way, say what you will do next, for example 'we start with a walking plan this week'."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: why a group finding is not a personal forecast (invented numbers)"
+    },
+    {
+     "t": "example",
+     "title": "Natural frequencies",
+     "steps": [
+      "Suppose, among 1,000 inactive men, 30 have a cardiac event over some years, and among 1,000 active men, 20 do. These numbers are invented.",
+      "Being active would then be linked to 10 fewer events per 1,000, or 1 in 100 people.",
+      "If the link were causal, about 1 event would be avoided for every 100 people who became active, so for most individuals there is no visible difference, and for one client you cannot say whether they are the one.",
+      "That is why the script says 'linked to', and why it makes no promise."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: write your opening"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the benefit in one sentence, with its scope.",
+      "Write the limit in one sentence.",
+      "Write why you ask the questions.",
+      "Write the referral sentence, without blame.",
+      "Practise it aloud and time it."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write and practise a one-minute screening opening that uses a benefit, a limit, a reason and a next step."
+    },
+    {
+     "t": "check",
+     "q": "What did the 1980 abstract say vigorous exercise appeared to protect against?",
+     "o": [
+      "Nothing",
+      "Rapidly fatal heart attacks and other first clinical attacks of coronary disease",
+      "Colds",
+      "Weight gain"
+     ],
+     "a": 1,
+     "w": "The abstract says it apparently protected against rapidly fatal heart attacks and other first clinical attacks. {{morris80b}}"
+    },
+    {
+     "t": "check",
+     "q": "Why say 'linked to' rather than 'will'?",
+     "o": [
+      "It sounds modest",
+      "A group finding cannot forecast one person",
+      "Law requires it",
+      "The studies were on women"
+     ],
+     "a": 1,
+     "w": "Group studies show associations, and one person's picture can differ."
+    },
+    {
+     "t": "check",
+     "q": "What is the purpose of the benefit-first screening script?",
+     "o": [
+      "To avoid screening",
+      "To explain that screening is about starting safely",
+      "To sell sessions",
+      "To skip referrals"
+     ],
+     "a": 1,
+     "w": "It explains the questions and finds who needs a doctor first."
+    },
+    {
+     "t": "take",
+     "i": [
+      "State the benefit with its scope. {{morris80b}}",
+      "A population finding is not a personal forecast.",
+      "Screening is about starting safely, so frame referral that way."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What is the purpose of the benefit-first screening script?",
+    "o": [
+     "To avoid screening",
+     "To explain that screening is about starting safely",
+     "To sell sessions",
+     "To skip referrals"
+    ],
+    "a": 1,
+    "w": "It explains the questions and finds who needs a doctor first."
+   }
+  },
+  {
+   "key": "personal-training-3",
+   "name": "Carl Rogers",
+   "min": 28,
+   "outcome": "Use reflective listening, with an honest view of its limits and of what Rogers did and did not claim, to start a coaching conversation.",
+   "intro": "Carl Rogers' 1957 paper is short, and its six conditions are stated as a hypothesis for psychotherapy. It also says things a trainer must not copy, such as that no diagnosis is needed. Reading the paper itself shows what to borrow and what to leave.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read Rogers' 1957 paper in full from a reproduction of the journal article. Its text has some scanning errors in the middle, which we skipped. {{rogers57pdf}} A short summary and the abstract came from earlier passes. {{rogers57}} {{eager}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "See that he offers a hypothesis. He says the statement is not offered with any assurance as to its correctness, but as a theory that implies hypotheses open to proof or disproof. {{rogers57pdf}}",
+      "Learn the six conditions. Two people in psychological contact; the client is in a state of incongruence, vulnerable or anxious; the therapist is congruent in the relationship; the therapist experiences unconditional positive regard; the therapist experiences an empathic understanding of the client's frame of reference and tries to communicate it; and the client perceives this, to a minimal degree. {{rogers57pdf}}",
+      "Note what congruence means. It means the therapist is freely and deeply himself in the relationship, with his experience accurately represented in his awareness, not a facade. It does not require being a paragon, and it allows 'I am afraid of this client' if it is not denied. {{rogers57pdf}}",
+      "Note what unconditional positive regard means. There are no conditions of acceptance, no 'I like you only if'; it means caring for the client as a separate person with permission to have their own feelings. A footnote adds that it exists in degrees, not as an all-or-nothing state. {{rogers57pdf}}",
+      "Define empathy as he does: to sense the client's private world as if it were your own, without losing the 'as if'. {{rogers57pdf}}",
+      "Read what he leaves out. He says the conditions do not need a special professional knowledge, or an accurate psychological diagnosis, and that they apply to any helping relationship. {{rogers57pdf}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "He also says the conditions 2 to 6 occur in degrees, and that the more of them present, the more marked the change he predicts. He says many good friendships fulfil the six conditions for brief moments, and that the therapeutic relationship is a heightening and extension of qualities found in other relationships. {{rogers57pdf}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Rogers wrote about psychotherapy. A personal trainer is not a therapist, and coaching has a narrower scope. If a client describes distress beyond coaching, refer them on, as this module's scope lesson says. {{rogers57pdf}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Do not carry over his view that a diagnosis is not needed. In fitness work, screening and referral rules come first, and they come from this module's screening lesson, not from Rogers. {{rogers57pdf}}"
+    },
+    {
+     "t": "table",
+     "title": "The six conditions and a coaching reading (the right column is our adaptation)",
+     "head": [
+      "Condition in the paper",
+      "Rogers' own gloss",
+      "Coaching reading"
+     ],
+     "rows": [
+      [
+       "1. Psychological contact",
+       "Each makes some perceived difference to the other",
+       "Be present: phone away, eyes up"
+      ],
+      [
+       "2. Client in incongruence",
+       "Vulnerable or anxious",
+       "Expect a gap between what a client says they want and what they do"
+      ],
+      [
+       "3. Therapist congruent",
+       "Freely himself; no facade",
+       "Do not fake enthusiasm; say when you do not know"
+      ],
+      [
+       "4. Unconditional positive regard",
+       "Caring for the client as a separate person; exists in degrees",
+       "Do not make acceptance depend on adherence"
+      ],
+      [
+       "5. Empathic understanding",
+       "The client's private world 'as if' it were your own",
+       "Say back what you heard"
+      ],
+      [
+       "6. Client perceives it",
+       "To a minimal degree",
+       "Check: 'Is that right?'"
+      ]
+     ],
+     "src": "The first two columns follow the paper. The last column is our adaptation. {{rogers57pdf}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a reflective reply (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Fix, reflect, check",
+     "steps": [
+      "The client says: I never have time to train.",
+      "A reply that fixes: Then try mornings. A reply that reflects: It sounds as if your days are packed, and training feels like one more demand.",
+      "Check the reflection: Is that right? Then listen. This is the sixth condition: the client perceives the understanding. {{rogers57pdf}}",
+      "Ask an open question: What would a workable week look like for you?",
+      "Note the client's own words and use them when you set goals."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: counting your own turns (invented numbers)"
+    },
+    {
+     "t": "example",
+     "title": "A practice measure",
+     "steps": [
+      "Record a ten-minute chat with permission. Suppose you spoke 14 times: 6 questions, 4 pieces of advice and 4 reflections.",
+      "Reflections are 4 ÷ 14 = 29% of your turns, and advice is 29%.",
+      "Set a target for the next recording, such as reflections above advice. The target is our choice; Rogers gives none.",
+      "Compare the recordings, and note when the client's replies got longer."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a reflecting practice"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write three things clients often say and a reflection for each.",
+      "Add a check phrase such as 'Is that right?'.",
+      "Record or role-play a short conversation and count your turns.",
+      "Mark any moment you moved to advice before the client felt understood.",
+      "Write what you will do differently."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write three reflective replies to things clients often say, each with a check phrase. Role-play them and count how many of your turns were reflections."
+    },
+    {
+     "t": "check",
+     "q": "How did Rogers present his six conditions?",
+     "o": [
+      "As proven law",
+      "As a hypothesis, not offered with assurance as to its correctness",
+      "As a legal rule",
+      "As a sales method"
+     ],
+     "a": 1,
+     "w": "He said it was offered not with assurance but as a theory open to proof or disproof. {{rogers57pdf}}"
+    },
+    {
+     "t": "check",
+     "q": "What does he say about unconditional positive regard in a footnote?",
+     "o": [
+      "It is absolute",
+      "It exists in degrees, not as an all-or-nothing state",
+      "It is unnecessary",
+      "It means agreeing with everything"
+     ],
+     "a": 1,
+     "w": "The phrase sounds absolute, but it exists as a matter of degree. {{rogers57pdf}}"
+    },
+    {
+     "t": "check",
+     "q": "Which part of his view should a trainer NOT carry over?",
+     "o": [
+      "Listening",
+      "That no diagnosis or screening is needed",
+      "Being genuine",
+      "Checking understanding"
+     ],
+     "a": 1,
+     "w": "He says an accurate diagnosis is not necessary for therapy, which does not apply to fitness screening. {{rogers57pdf}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Reflect, then check. {{rogers57pdf}}",
+      "Treat the six conditions as a hypothesis about therapy, not a coaching rule.",
+      "Screening and referral come before listening technique."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What is a reflective reply?",
+    "o": [
+     "Giving a fix",
+     "Saying back what you heard, then checking",
+     "Changing the subject",
+     "Praising the client"
+    ],
+    "a": 1,
+    "w": "You say back what you heard and check it with the client. {{rogers57pdf}}"
+   }
+  },
+  {
+   "key": "personal-training-4",
+   "name": "Hans Selye",
+   "min": 26,
+   "outcome": "Use the idea of stress, recovery and adaptation to set load and volume, and state the debate around it.",
+   "intro": "Hans Selye's stress theory began in experiments on rats. Coaches borrow its three stages for planning load and recovery. The origin and the debate show why the model is a rule of thumb.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read a 2018 biography of Selye in full and Britannica's entries on him and on the syndrome, plus a 2018 review of the syndrome and periodisation. We could not obtain his 1936 paper in Nature. {{pmc-selye}} {{brit-selye}} {{brit-gas}} {{cunanan}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Start with the observation. Selye, a medical student, noticed that patients with different diseases had many complaints in common, such as looking tired and having no appetite. {{pmc-selye}}",
+      "See how it showed up in the laboratory. Injecting ovarian extracts into rats, he found a triad: enlarged adrenal glands, shrunken lymphatic tissue including the thymus, and stomach and duodenal ulcers. Every noxious agent produced the same findings. {{pmc-selye}}",
+      "Define stress. He used the word for the nonspecific response of the body to any demand. {{pmc-selye}}",
+      "Separate acute from chronic. The total response to chronically applied stressors is the general adaptation syndrome, with three phases: the alarm reaction, the stage of resistance and the stage of exhaustion. {{pmc-selye}} {{brit-gas}}",
+      "See how coaches borrow it. A 2018 review argues the syndrome remains a foundation for periodisation, because disturbance to the organism drives adaptation. {{cunanan}}",
+      "Know the debate. The same review notes that recent reviews have tried to refute the syndrome as a framework for training. {{cunanan}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Selye's original stressors were toxins, cold and other insults in animals, not lifting. Using the idea as a rule of thumb for dose and recovery is common, but it is a model, not a law. {{cunanan}} {{pmc-selye}}"
+    },
+    {
+     "t": "table",
+     "title": "Selye's stages and a training reading (the right column is our adaptation)",
+     "head": [
+      "Stage",
+      "In Selye's account",
+      "Coach's reading"
+     ],
+     "rows": [
+      [
+       "Alarm reaction",
+       "Taken off guard by the stressor",
+       "A new or larger load; performance may dip"
+      ],
+      [
+       "Stage of resistance",
+       "Attempts to maintain homeostasis by resisting",
+       "Adapting: the same load feels easier; progress it in small steps"
+      ],
+      [
+       "Stage of exhaustion",
+       "Falls victim to exhaustion if the stressor persists",
+       "Load too high or recovery too low; hold or reduce"
+      ]
+     ],
+     "src": "The first two columns follow the biography. The last column is our adaptation. {{pmc-selye}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a hold or reduce decision (illustrative, our reading)"
+    },
+    {
+     "t": "example",
+     "title": "Reading the week",
+     "steps": [
+      "List the demands on the client this week: training, work, sleep, illness, travel. Selye counted any demand. {{pmc-selye}}",
+      "Look at the signs this module teaches: performance falling, unusual fatigue, lingering soreness.",
+      "If demands are high and signs are present, hold the load or cut volume for a session. This is a stage where more is not better.",
+      "If the client is adapting, raise load or volume in a small step.",
+      "Write the decision and the reason in the client file."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a weekly load check (invented numbers)"
+    },
+    {
+     "t": "example",
+     "title": "Comparing weeks",
+     "steps": [
+      "Define a session's load as minutes × effort rating (1 to 10). A client trains three times a week: week 1, 3 sessions × 40 min × 5 = 600; week 2, 3 × 45 × 5 = 675; week 3, 3 × 50 × 6 = 900.",
+      "Week 2 is 675 ÷ 600 = 1.125, a rise of 12.5%. Week 3 is 900 ÷ 675 = 1.33, a rise of 33%.",
+      "The jump in week 3 is bigger because both time and effort rose. If the client also reports poor sleep that week, hold the load rather than raising it again.",
+      "The load formula and the comparison are our illustration, not Selye's."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a dose rule"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Choose how you will rate load: minutes × effort, or sets × reps × weight.",
+      "Write what a normal week looks like for this client.",
+      "Write the signs that mean hold or reduce.",
+      "Write the size of a small step up.",
+      "Review it every two weeks and record the decision."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write a hold-or-progress rule for one client, with the signs that mean hold, and test it on last month's sessions."
+    },
+    {
+     "t": "check",
+     "q": "What are the three stages of the general adaptation syndrome?",
+     "o": [
+      "Start, middle, end",
+      "Alarm, resistance, exhaustion",
+      "Warm-up, work, cool-down",
+      "Sleep, eat, train"
+     ],
+     "a": 1,
+     "w": "Alarm reaction, stage of resistance and stage of exhaustion. {{pmc-selye}}"
+    },
+    {
+     "t": "check",
+     "q": "What did Selye find in the rats whatever the noxious agent?",
+     "o": [
+      "A different result each time",
+      "The same triad: enlarged adrenals, shrunken thymus, ulcers",
+      "No change",
+      "Weight gain"
+     ],
+     "a": 1,
+     "w": "Every injected noxious agent produced the same findings. {{pmc-selye}}"
+    },
+    {
+     "t": "check",
+     "q": "Why call the model a rule of thumb?",
+     "o": [
+      "It is old",
+      "Recent reviews have tried to refute it as a framework for training",
+      "It has no stages",
+      "It is only for rats"
+     ],
+     "a": 1,
+     "w": "The 2018 review says recent reviews have tried to refute the syndrome as a training framework. {{cunanan}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Any demand counts as load. {{pmc-selye}}",
+      "Adapt in small steps and hold when signs of overload appear.",
+      "Treat the model as a rule of thumb. {{cunanan}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What are the three stages of Selye's general adaptation syndrome?",
+    "o": [
+     "Start, middle, end",
+     "Alarm, resistance, exhaustion",
+     "Warm-up, work, cool-down",
+     "Sleep, eat, train"
+    ],
+    "a": 1,
+    "w": "Alarm reaction, stage of resistance and stage of exhaustion. {{brit-gas}} {{pmc-selye}}"
+   }
+  },
+  {
+   "key": "personal-training-5",
+   "name": "Thomas DeLorme",
+   "min": 26,
+   "outcome": "Use DeLorme's 10RM method as a worked example of progression, say how he revised it, and compare it with modern methods.",
+   "intro": "Thomas DeLorme built a way to raise resistance step by step, first for injured soldiers. He then cut the volume he had first advised and said that other combinations might work as well. His revision is the useful lesson.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read a 2012 history article by Todd and colleagues in an earlier pass, and a trainer's article that quotes DeLorme and Watkins (1948) and the 1951 book and describes the 1945 method. We could not obtain the 1945 or 1948 papers themselves, so the details below are second-hand. {{todd-delorme}} {{elite-delorme}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Start with the problem. In the last years of the Second World War, military hospitals were overwhelmed with servicemen with orthopaedic injuries. {{todd-delorme}}",
+      "Try heavy resistance. In 1945 DeLorme had patients lift their 10-repetition maximum in multiple sets. {{todd-delorme}} The trainer's article describes the 1945 method as 7 to 10 sets of 10 repetitions, 70 to 100 in all, starting light and getting progressively heavier until a true 10RM was reached. {{elite-delorme}}",
+      "Record the result. The article quotes DeLorme's clinical observations on 300 cases as a 'splendid response in muscle hypertrophy and power, together with symptomatic relief'. {{elite-delorme}}",
+      "Revise on experience. In 1948 DeLorme and Watkins wrote that 70 to 100 repetitions was too high, that a total of 20 to 30 repetitions was far more satisfactory in most cases, and that fewer repetitions permit heavier loads and so greater and more rapid hypertrophy. {{elite-delorme}}",
+      "State the 1948 scheme. Three sets of ten at 50, 75 and 100 per cent of the 10RM, with only the last set taken to the limit. {{elite-delorme}}",
+      "Admit the scheme is not unique. The 1951 book says that by advocating three sets of ten repetitions the likelihood that other combinations might be just as effective is not overlooked. {{elite-delorme}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "The trainer's article adds that the 1945 workouts were short, about half an hour, but frequent, with the injured part trained once a day for five days. It is a trainer's interpretation and not a quotation from the paper, so treat it with care. {{elite-delorme}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The 50, 75 and 100 per cent details and the 1945 set counts come from a trainer's article that quotes the original papers, so treat them as secondary. DeLorme's method was for rehabilitation. This module's methods for load, effort and reps in reserve describe modern practice for healthy beginners. {{elite-delorme}}"
+    },
+    {
+     "t": "table",
+     "title": "DeLorme's two versions (from the trainer's article; the arithmetic column is ours)",
+     "head": [
+      "Version",
+      "Sets and reps",
+      "Loads",
+      "Total reps"
+     ],
+     "rows": [
+      [
+       "1945",
+       "7 to 10 sets of 10",
+       "Light first, progressively heavier to a true 10RM",
+       "70 to 100"
+      ],
+      [
+       "1948",
+       "3 sets of 10",
+       "50%, 75%, 100% of the 10RM",
+       "30"
+      ]
+     ],
+     "src": "From {{elite-delorme}}. The total-reps column is our arithmetic: 7 × 10 = 70, 10 × 10 = 100, 3 × 10 = 30."
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a DeLorme-style session (illustrative numbers)"
+    },
+    {
+     "t": "example",
+     "title": "Loads and volume for a 10RM of 40 kg",
+     "steps": [
+      "Suppose a client's 10RM on a leg press is 40 kilograms.",
+      "Set 1 is 50 per cent of 40, which is 20 kilograms for 10 reps. Set 2 is 75 per cent, 30 kilograms for 10 reps. Set 3 is 100 per cent, 40 kilograms for 10 reps. {{elite-delorme}}",
+      "Volume load is the sum of reps × weight: 10 × 20 + 10 × 30 + 10 × 40 = 200 + 300 + 400 = 900 kilogram-reps. Only the last 400 are at the full load.",
+      "Next session, if the client can do more than 10 reps on the last set, a small rise in load is a reasonable step and the 10RM should be found again. That step is our reading of the method.",
+      "Compare with this module's effort scales. Reps in reserve gives a similar steer without a test of maximum.",
+      "Record the loads and the result."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: why 1948 asked for fewer reps (his figures, our arithmetic)"
+    },
+    {
+     "t": "example",
+     "title": "Volume against load",
+     "steps": [
+      "The 1945 range was 70 to 100 reps; the 1948 advice was 20 to 30. {{elite-delorme}}",
+      "Thirty reps is 30 ÷ 70 = 43% of the lowest 1945 volume, and 30% of the highest.",
+      "His reason: fewer reps permit heavier loads, and heavier loads gave greater and more rapid hypertrophy. {{elite-delorme}}",
+      "That is the trade between volume and load, which this module returns to."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: test a progression rule"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Pick one lift for a beginner.",
+      "Find a 10-rep load with good form, not an all-out maximum.",
+      "Run 3 sets at about half, three-quarters and full of that load, as an example.",
+      "Write the rule for when the load goes up.",
+      "Compare it with your module's effort scale and note which you prefer."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Work a DeLorme-style session through for one lift with a made-up 10RM, and write the rule for raising the load."
+    },
+    {
+     "t": "check",
+     "q": "What did DeLorme originally use his method for?",
+     "o": [
+      "Running",
+      "Rehabilitation of injured servicemen",
+      "Weight loss",
+      "Sport performance"
+     ],
+     "a": 1,
+     "w": "It began as a rehabilitation technique for injured servicemen. {{todd-delorme}}"
+    },
+    {
+     "t": "check",
+     "q": "What did DeLorme and Watkins say in 1948 about the 70 to 100 repetitions of the earlier method?",
+     "o": [
+      "It was ideal",
+      "It was too high, and 20 to 30 was more satisfactory in most cases",
+      "It was too low",
+      "It should be doubled"
+     ],
+     "a": 1,
+     "w": "They said 70 to 100 repetitions was too high and 20 to 30 far more satisfactory. {{elite-delorme}}"
+    },
+    {
+     "t": "check",
+     "q": "In the worked example, what is the volume load of the three sets?",
+     "o": [
+      "300",
+      "600",
+      "900",
+      "1,200"
+     ],
+     "a": 2,
+     "w": "10 × 20 + 10 × 30 + 10 × 40 = 900."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Raise load step by step. {{todd-delorme}}",
+      "He cut the volume he first advised, and said other combinations might work as well. {{elite-delorme}}",
+      "Use the method as an example of progression, not as the one right scheme."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did DeLorme originally use his method for?",
+    "o": [
+     "Running",
+     "Rehabilitation of injured servicemen",
+     "Weight loss",
+     "Sport performance"
+    ],
+    "a": 1,
+    "w": "It began as a rehabilitation technique for injured servicemen. {{todd-delorme}}"
+   }
+  },
+  {
+   "key": "personal-training-6",
+   "name": "Hans Selye",
+   "min": 24,
+   "outcome": "Treat recovery, nutrition and health conditions as part of total load, and know when to refer.",
+   "intro": "Hans Selye counted any demand on the body as stress. That makes a training session one demand among many, and it is why some clients need a lighter plan or a doctor's input.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "The sources are the biography and encyclopaedia entries used in module 4 and the 2024 review of physical activity research. None of them is about training special populations, so this lesson stays at the level of the idea and leaves the rules to the module's own guidance. {{pmc-selye}} {{brit-gas}} {{ding24}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Use his definition. Stress is the nonspecific response of the body to any demand, so work, caring, illness and sleep loss count alongside training. {{pmc-selye}}",
+      "Keep acute and chronic apart. He distinguished acute stress from the total response to chronically applied stressors. {{pmc-selye}}",
+      "Remember the end of the sequence. If a demand persists, alarm gives way to resistance and then exhaustion. {{brit-gas}}",
+      "Note a modern caution. The 2024 review says activity can be done out of necessity in demanding work with too little recovery, and that more activity may be unobtainable for people fighting fatigue from a major or debilitating condition. {{ding24}}",
+      "List the demands, not just the session. Illness, poor sleep, heat, pregnancy, older age or a long-term condition add others. That link to Selye's idea is our reading.",
+      "Stay inside your scope. Follow this module's guidance, work with the client's clinician where needed, and refer on."
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "This is not medical advice. Selye's work does not tell you what a pregnant client or a client with a condition can do. Follow this module's guidance and refer on. {{pmc-selye}}"
+    },
+    {
+     "t": "table",
+     "title": "Demands that add to a training session (the right column is our adaptation)",
+     "head": [
+      "Demand",
+      "Why it counts",
+      "Coach's step"
+     ],
+     "rows": [
+      [
+       "Heavy work or caring",
+       "Activity and effort at work without enough recovery",
+       "Ask about the week, not just the session"
+      ],
+      [
+       "Poor sleep or illness",
+       "Any demand on the body counts",
+       "Hold or lighten the session"
+      ],
+      [
+       "A long-term condition",
+       "Fatigue may limit what is possible",
+       "Work with the clinician; refer on"
+      ],
+      [
+       "Nutrition",
+       "Fuel for recovery",
+       "Stay in scope; refer to a dietitian or doctor"
+      ],
+      [
+       "The session itself",
+       "One more demand",
+       "Size it to the rest of the week"
+      ]
+     ],
+     "src": "The first two columns follow the sources where cited; the last column is our adaptation. {{ding24}} {{pmc-selye}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a total-demand check (illustrative, our reading)"
+    },
+    {
+     "t": "example",
+     "title": "Rating the week",
+     "steps": [
+      "List all demands on the client this week: sessions, work, caring, sleep, illness and any condition.",
+      "Rate each as light, moderate or heavy, in the client's own view.",
+      "If several are heavy, plan a lighter session or an extra rest day, and say why.",
+      "Check nutrition within your scope and refer to a dietitian or doctor for anything beyond it.",
+      "Review with the client at the next session."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: scoring the week (invented scale)"
+    },
+    {
+     "t": "example",
+     "title": "A simple tally",
+     "steps": [
+      "Score light = 1, moderate = 2, heavy = 3. A client rates work 3, caring 2, sleep 3, training 2 and no illness 0.",
+      "The total is 3 + 2 + 3 + 2 + 0 = 10 out of a possible 15 for five items, or 67%.",
+      "Set your own rule before you use it, such as a lighter session when the total passes 60% with two heavy items. The rule is ours, not Selye's.",
+      "Re-score after the lighter session and note whether the client felt better."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a total-demand check"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "List the demands in the client's week.",
+      "Rate each in the client's own words.",
+      "Decide: go as planned, lighten, or hold.",
+      "Note anything that needs a clinician, and refer.",
+      "Record the decision and review next session."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Run a total-demand check with a real or imagined client and write the decision and the reason."
+    },
+    {
+     "t": "check",
+     "q": "Why does a session count as one demand among many?",
+     "o": [
+      "Selye counted any demand on the body as stress",
+      "Sessions are always light",
+      "It does not",
+      "Only illness counts"
+     ],
+     "a": 0,
+     "w": "Selye defined stress as the response to any demand. {{pmc-selye}}"
+    },
+    {
+     "t": "check",
+     "q": "What does the 2024 review say about people fighting fatigue from a condition?",
+     "o": [
+      "They should do more",
+      "More activity may be unobtainable for them",
+      "They should stop all activity",
+      "Nothing"
+     ],
+     "a": 1,
+     "w": "It says more activity may be unobtainable when battling fatigue from a debilitating condition. {{ding24}}"
+    },
+    {
+     "t": "check",
+     "q": "A client has two heavy demands this week and poor sleep. What is a sensible step?",
+     "o": [
+      "Raise the load",
+      "Lighten the session and say why",
+      "Cancel without a word",
+      "Ignore it"
+     ],
+     "a": 1,
+     "w": "Total demand is high, so a lighter session fits the idea."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Count every demand, not just the session. {{pmc-selye}}",
+      "Lighten when total demand is high.",
+      "Refer when a condition is beyond your scope."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Why does a session count as one demand among many?",
+    "o": [
+     "Selye counted any demand on the body as stress",
+     "Sessions are always light",
+     "It does not",
+     "Only illness counts"
+    ],
+    "a": 0,
+    "w": "Selye defined stress as the response to any demand. {{pmc-selye}}"
+   }
+  },
+  {
+   "key": "personal-training-cap",
+   "name": "Albert Bandura",
+   "min": 28,
+   "outcome": "Map each week of an 8-week plan to a source of self-efficacy, with the strongest source first, and use it to defend your coaching file.",
+   "intro": "Albert Bandura's 1977 paper names four sources of a person's belief that they can act, and ranks them. Performance accomplishments come first and verbal encouragement alone is weakest. That ranking decides how an 8-week plan should be built.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read Bandura's 1977 paper in full text, in the sections on efficacy expectations and outcome expectations, the four sources, and the evidence on modelling, persuasion and arousal. It is a theory paper about treating fears and avoidance, and its experiments are mostly on phobias. {{bandura77}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Separate two expectations. An efficacy expectation is the conviction that you can do what it takes; an outcome expectancy is the belief that a given behaviour leads to a result. The paper argues the first is what drives action. {{bandura77}}",
+      "Start with performance accomplishments. He calls this source especially influential because it is based on personal mastery experiences. Successes raise mastery expectations and repeated failures lower them, particularly early on. {{bandura77}}",
+      "Expect some failure. After strong expectations are built by repeated success, occasional failures matter less, and failures later overcome by determined effort can strengthen persistence. {{bandura77}}",
+      "Add models, but know they are weaker. Vicarious experience is a less dependable source than one's own accomplishments, so expectations from modelling alone are likely to be weaker. Models who struggle and overcome help phobics more than those who perform easily, and similarity to the model helps. {{bandura77}}",
+      "Use verbal persuasion with care. He says it is widely used because it is easy, but expectations induced this way are likely to be weaker than those from one's own accomplishments, because they lack an authentic experiential base and can be extinguished by a disconfirming experience. {{bandura77}}",
+      "Read the body. Emotional arousal is informative: high arousal usually debilitates performance, so people expect success when not beset by aversive arousal. Persistence in activities that feel threatening but are in fact relatively safe produces mastery experiences that raise self-efficacy. {{bandura77}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Bandura's 1977 paper is about behavioural change and therapy for fears. Using the four sources to structure a coaching plan is our adaptation. Check any claim about a client's progress against the evidence in their file. {{bandura77}}"
+    },
+    {
+     "t": "table",
+     "title": "The four sources, Bandura's strength ordering, and an 8-week plan (the last column is our adaptation)",
+     "head": [
+      "Source",
+      "Bandura on its strength",
+      "Where it goes in 8 weeks"
+     ],
+     "rows": [
+      [
+       "Performance accomplishments",
+       "Especially influential; based on mastery",
+       "Weeks 1 to 2 and again weeks 5 to 8: planned wins, then graded challenge"
+      ],
+      [
+       "Vicarious experience",
+       "Weaker alone; better with similar models who struggle and overcome",
+       "Week 3: a similar client's story or video, with permission"
+      ],
+      [
+       "Verbal persuasion",
+       "Weaker than accomplishments; needs an experiential base",
+       "Week 4: specific feedback tied to something the client has done"
+      ],
+      [
+       "Physiological states",
+       "High arousal debilitates; reading it calmly helps",
+       "Weeks 5 to 6: teach effort and breathlessness as normal"
+      ]
+     ],
+     "src": "The first two columns follow the paper. The last column is our adaptation. {{bandura77}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: mapping weeks to sources (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Eight weeks, strongest source first",
+     "steps": [
+      "Weeks 1 and 2: easy wins, so the client banks early accomplishments. Plan each session so the client can complete what was set. Early failure counts for more. {{bandura77}}",
+      "Week 3: introduce a model, such as a short demonstration or a story of a similar client who struggled and persisted. {{bandura77}}",
+      "Week 4: give specific feedback and name progress, tied to what the client did. {{bandura77}}",
+      "Weeks 5 and 6: increase challenge in steps, so mastery continues, and coach the reading of effort and breathlessness. {{bandura77}}",
+      "Weeks 7 and 8: review the log with the client and plan beyond week 8."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: tracking planned wins (invented numbers)"
+    },
+    {
+     "t": "example",
+     "title": "A success log",
+     "steps": [
+      "Count sessions where the client completed all of what was planned. Weeks 1 to 4: 3 of 3, 3 of 3, 2 of 3, 3 of 3.",
+      "That is 11 of 12 sessions, or 92%. A target such as 80% or more in the first two weeks is our choice, based on the point that early failure weighs more. {{bandura77}}",
+      "If week 2 had been 1 of 3, cut the next week's load so the client can finish what is planned, rather than praise effort alone, which is a weaker source. {{bandura77}}",
+      "Record each week's figure in the file as evidence for your choices."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: defend the plan"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "List the eight weeks and the source each leans on.",
+      "Make sure weeks 1 and 2 are set up for completed sessions.",
+      "Write one sentence per week saying why you chose it.",
+      "Add the success log and the target.",
+      "Review the file at week 4 and change anything the log contradicts."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Map your 8-week plan to the four sources, strongest first, and write one sentence per week defending the choice."
+    },
+    {
+     "t": "check",
+     "q": "Which is a source of self-efficacy in Bandura's model?",
+     "o": [
+      "Performance accomplishments",
+      "Equipment cost",
+      "Weather",
+      "Session length"
+     ],
+     "a": 0,
+     "w": "He names performance accomplishments, vicarious experience, verbal persuasion and physiological states. {{bandura77}}"
+    },
+    {
+     "t": "check",
+     "q": "According to Bandura, why is verbal persuasion weaker than performance accomplishments?",
+     "o": [
+      "It is expensive",
+      "It lacks an authentic experiential base and can be extinguished by a disconfirming experience",
+      "It is illegal",
+      "It is slow"
+     ],
+     "a": 1,
+     "w": "He says persuasion-induced expectations are weaker because they lack an experiential base. {{bandura77}}"
+    },
+    {
+     "t": "check",
+     "q": "In the success log, 11 of 12 sessions completed is about what percentage?",
+     "o": [
+      "75%",
+      "85%",
+      "92%",
+      "100%"
+     ],
+     "a": 2,
+     "w": "11 ÷ 12 = 0.917."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Build confidence from mastery first. {{bandura77}}",
+      "Models and encouragement help, but are weaker alone. {{bandura77}}",
+      "Log completed sessions as evidence for your plan."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Which is a source of self-efficacy in Bandura's model?",
+    "o": [
+     "Performance accomplishments",
+     "Equipment cost",
+     "Weather",
+     "Session length"
+    ],
+    "a": 0,
+    "w": "Performance accomplishments, vicarious experience, verbal persuasion and physiological states. {{bandura77}}"
+   }
+  }
+ ]
+}

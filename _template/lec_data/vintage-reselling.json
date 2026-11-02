@@ -1,0 +1,1299 @@
+{
+ "refs": {
+  "brit-wedgwood": [
+   "Josiah Wedgwood",
+   "Encyclopaedia Britannica",
+   "https://www.britannica.com/biography/Josiah-Wedgwood"
+  ],
+  "wiki-wedgwood": [
+   "Josiah Wedgwood",
+   "Wikipedia (read as excerpts)",
+   "https://en.wikipedia.org/wiki/Josiah_Wedgwood"
+  ],
+  "meteyard-1": [
+   "The Life of Josiah Wedgwood, from his private correspondence and family papers, vol. 1 (1865; chapters on his apprenticeship, early experiments, cream-coloured ware, carriage and the Bentley letters read in part; a biography that quotes his letters, so a secondary source with primary quotations)",
+   "Eliza Meteyard, Internet Archive",
+   "https://archive.org/details/lifeofjosiahwedg1865mete"
+  ],
+  "jstor-mckendrick": [
+   "Josiah Wedgwood and Cost Accounting in the Industrial Revolution (only the opening statement of the article was read)",
+   "Neil McKendrick, Economic History Review 23(1), 1970, via JSTOR",
+   "https://www.jstor.org/stable/2594563"
+  ],
+  "brit-chippendale": [
+   "Thomas Chippendale",
+   "Encyclopaedia Britannica",
+   "https://www.britannica.com/biography/Thomas-Chippendale"
+  ],
+  "wiki-chippendale": [
+   "Thomas Chippendale",
+   "Wikipedia (read as excerpts)",
+   "https://en.wikipedia.org/wiki/Thomas_Chippendale"
+  ],
+  "chippendale-dir": [
+   "The Gentleman and Cabinet-Maker's Director, third edition (title page, dedication and Preface read; the OCR has gaps and the date on the scan is ambiguous, 1761 or 1762)",
+   "Thomas Chippendale, scan at the Internet Archive (Getty Research Institute copy)",
+   "https://archive.org/details/gri_33125011695489"
+  ],
+  "wiki-hassall": [
+   "Arthur Hill Hassall",
+   "Wikipedia (read as excerpts)",
+   "https://en.wikipedia.org/wiki/Arthur_Hill_Hassall"
+  ],
+  "archive-hassall": [
+   "Food and its adulterations; comprising the reports of the Analytical Sanitary Commission of The Lancet for the years 1851 to 1854 (dedication, introduction, the summary of conclusions and the coffee chapter opening read; the individual analyses were not)",
+   "Arthur Hill Hassall, Internet Archive",
+   "https://archive.org/details/fooditsadulterat00hassrich"
+  ],
+  "selfridge-roc": [
+   "The Romance of Commerce (1918): chapter I (honesty and advertising) and chapter XXIV (the department store's managers, windows and figures) read",
+   "H. Gordon Selfridge, Internet Archive",
+   "https://archive.org/details/cu31924030139004"
+  ],
+  "brit-pacioli": [
+   "Luca Pacioli",
+   "Encyclopaedia Britannica (quick summary read)",
+   "https://www.britannica.com/biography/Luca-Pacioli"
+  ],
+  "wiki-pacioli": [
+   "Luca Pacioli",
+   "Wikipedia (read as excerpts)",
+   "https://en.wikipedia.org/wiki/Luca_Pacioli"
+  ],
+  "wiki-dentry": [
+   "Double-entry bookkeeping",
+   "Wikipedia (read as excerpts)",
+   "https://en.wikipedia.org/wiki/Double-entry_bookkeeping"
+  ],
+  "geijsbeek": [
+   "Ancient Double-Entry Bookkeeping: Lucas Pacioli's Treatise (A.D. 1494), reproduced and translated (1914). The inventory, memorandum, journal, ledger and trial-balance chapters read; a partial translation, and a 2022 study found that translations of Pacioli's treatise are unreliable, so the Italian original should be checked for any exact claim",
+   "John B. Geijsbeek, Internet Archive",
+   "https://archive.org/details/ancientdoubleent00geijuoft"
+  ]
+ },
+ "modules": [
+  {
+   "key": "vintage-reselling-1",
+   "name": "Josiah Wedgwood",
+   "min": 24,
+   "outcome": "Work out the true cost and margin of one item, including carriage, breakage and the other costs a quick sum leaves out, and treat a returns promise as part of the business.",
+   "intro": "Josiah Wedgwood's letters show a potter counting the cost of getting goods to a buyer: carriage rates, breakage, pilfering, and special commissions that ate the margin. A reseller faces the same list in modern form.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read the chapters of Eliza Meteyard's 1865 biography that deal with his early trade, his carriage problems and his letters to Thomas Bentley. It quotes his private letters, but it is a Victorian biography, not the letters themselves, so we treat its anecdotes with care. {{meteyard-1}} Britannica and Wikipedia give the outline. {{brit-wedgwood}} {{wiki-wedgwood}}"
+    },
+    {
+     "t": "p",
+     "x": "We read only the opening statement of Neil McKendrick's famous article on his costing. We do not repeat its findings. {{jstor-mckendrick}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Count what it costs to move goods. Meteyard says that before the canals the carriage of earthenware was so costly, slow and risky that it nearly prohibited the trade beyond narrow limits, and that besides the price there was the risk of floods, breakage and the dishonesty of those who carried goods. {{meteyard-1}}",
+      "Compare routes by their whole cost, not their rate. In a letter to Bentley, as Meteyard prints it, he sends ten crates by land at a stated rate per hundredweight. He notes the water route costs about half as much, but that the stealage and breakage on the river is often much more than the difference. The scan is rough, so we do not quote the rate. {{meteyard-1}}",
+      "Cost the special order before you accept it. Meteyard says many neighbouring potters refused commissions to match broken sets because the outlay on modelling and enamelling left little or no margin of profit even at a high price. {{meteyard-1}}",
+      "Know why you accept some low-margin work. Meteyard says Wedgwood accepted these commissions, often from the local aristocracy, because their patronage was worth much in other ways. Treat that as one writer's explanation, and count the benefit only if you can name it. {{meteyard-1}}",
+      "Count failures as costs. He pulled down one kiln after another to correct defects, and his losses at that period were very heavy. {{meteyard-1}}",
+      "Make selling easy for the buyer. Wikipedia credits him with early illustrated catalogues, free delivery and money-back guarantees. {{wiki-wedgwood}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "A reseller selling to consumers already has cancellation duties, so treat your returns text as part of your service. {{gov-distance}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Wedgwood made pottery and you will resell it, so the link is the habit of counting every cost, not his methods. The worked examples are our adaptation, with illustrative numbers. {{meteyard-1}}"
+    },
+    {
+     "t": "table",
+     "title": "Wedgwood's cost headings and a reseller's version (the right column is our adaptation)",
+     "head": [
+      "Cost heading in Wedgwood's trade",
+      "Source",
+      "Your version"
+     ],
+     "rows": [
+      [
+       "Carriage by land or water",
+       "Meteyard",
+       "Postage, courier choice and packaging"
+      ],
+      [
+       "Breakage and pilfering on the way",
+       "Meteyard",
+       "Damage in the post, lost parcels and refunds"
+      ],
+      [
+       "Outlay on special commissions",
+       "Meteyard",
+       "Time spent cleaning, repairing or researching one item"
+      ],
+      [
+       "Failed firings and pulled-down kilns",
+       "Meteyard",
+       "Items that never sell and the money tied up in them"
+      ],
+      [
+       "Guarantees and free delivery",
+       "Wikipedia",
+       "Your returns promise and any free-postage offer"
+      ]
+     ],
+     "src": "The first two columns follow the sources. The last column is our adaptation. {{meteyard-1}} {{wiki-wedgwood}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: one item, two sums (illustrative numbers)"
+    },
+    {
+     "t": "example",
+     "title": "The true cost of a glazed jug",
+     "steps": [
+      "You buy a glazed jug for £8 and sell it for £30. The quick sum gives profit of 30 − 8 = £22, a margin of 22 ÷ 30 = 73.3%.",
+      "List the other costs of this one item: cleaning supplies £0.60, packaging £1.20, and a £1.00 share of fuel for the trip where you found it.",
+      "Add the platform fee for a business seller, using eBay's pattern of 10.9% of the sale, a £0.40 order fee and 0.35%: 3.27 + 0.40 + 0.105 = £3.775. Check the fee page for the current rates. {{ebay-business}}",
+      "True cost = 8 + 0.60 + 1.20 + 1.00 + 3.775 = £14.575, so profit is 30 − 14.575 = £15.425, about £15.43.",
+      "Margin = 15.425 ÷ 30 = 51.4%. The quick sum overstated the margin by about 22 percentage points."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: the cheaper rate that costs more (illustrative numbers, after Wedgwood's river-versus-land letter)"
+    },
+    {
+     "t": "example",
+     "title": "Choosing a postage service",
+     "steps": [
+      "Service A costs £4.50 a parcel and about 1 parcel in 50 arrives broken. Service B costs £3.20 and about 1 in 5 arrives broken. Suppose a broken jug costs you its £8 purchase price.",
+      "Expected breakage cost for A = 8 ÷ 50 = £0.16, so A costs 4.50 + 0.16 = £4.66 a parcel.",
+      "Expected breakage cost for B = 8 ÷ 5 = £1.60, so B costs 3.20 + 1.60 = £4.80 a parcel.",
+      "The cheaper rate costs £0.14 a parcel more once breakage is counted. The breakage rates are invented to show the sum. Record your own breakage over 50 parcels before you decide. {{meteyard-1}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a cost sheet for one item"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the purchase price, cleaning, repair, packaging, postage and fees as separate lines.",
+      "Add a line for expected breakage or loss, using your own record.",
+      "Add a line for any share of travel or fuel.",
+      "Work out profit and margin on the total, and compare with the quick sum.",
+      "Write your returns promise in one sentence and check it against the distance-selling guidance."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Pick one item you have sold or will sell. Work out its true cost and margin with every cost listed, and compare it with the quick sum."
+    },
+    {
+     "t": "check",
+     "q": "In the worked example, what is the true profit on the jug?",
+     "o": [
+      "£22.00",
+      "About £15.43",
+      "£8.00",
+      "£30.00"
+     ],
+     "a": 1,
+     "w": "True cost is £14.575, so profit is 30 − 14.575 = £15.425."
+    },
+    {
+     "t": "check",
+     "q": "What did Wedgwood note about the cheaper water route, as Meteyard prints his letter?",
+     "o": [
+      "It was always best",
+      "Stealage and breakage on the river were often more than the saving",
+      "It was illegal",
+      "It was faster"
+     ],
+     "a": 1,
+     "w": "He said the stealage and breakage on the river were often more than the difference in carriage. {{meteyard-1}}"
+    },
+    {
+     "t": "check",
+     "q": "Why did many neighbouring potters refuse special commissions?",
+     "o": [
+      "They disliked the customers",
+      "The outlay left little or no margin of profit",
+      "They had no kilns",
+      "They were illegal"
+     ],
+     "a": 1,
+     "w": "Meteyard says the outlay on modelling and enamelling left little or no margin. {{meteyard-1}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Count carriage, breakage and failures as costs. {{meteyard-1}}",
+      "Compare options by total cost, not by rate.",
+      "Treat your returns promise as part of your service. {{wiki-wedgwood}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "In what year was the Wedgwood company founded, according to the sources?",
+    "o": [
+     "1599",
+     "1759",
+     "1859",
+     "1959"
+    ],
+    "a": 1,
+    "w": "He founded the company in 1759. {{brit-wedgwood}} {{wiki-wedgwood}}"
+   }
+  },
+  {
+   "key": "vintage-reselling-2",
+   "name": "Josiah Wedgwood",
+   "min": 24,
+   "outcome": "Test two sourcing channels with small matched lots, record the results and change one thing at a time.",
+   "intro": "Wedgwood improved his ware by trial after trial, at first scattered and then concentrated on one aim. His letters show him trying one earth, then glazes, then gold, and reporting the results.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read the chapters of Meteyard's biography on his apprenticeship, his experiments with agate and cream ware, and his letters to Bentley and his brother. Meteyard quotes his letters but writes as a Victorian biographer, so her general claims are secondary. {{meteyard-1}} Wikipedia says he developed improved bodies by systematic experimentation. {{wiki-wedgwood}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Start from a standard others use and vary it. Meteyard says that while the clays and oxides for imitation agate and marble were known in all the best potworks, he did not rest in following other men's discoveries, and by repeated trials varied agate ware into a good imitation of porphyry. {{meteyard-1}}",
+      "Insist on accuracy in the details. She says that in mixing materials, preparing glaze, weighing clay and the thickness of plate bats more accuracy was enforced. She credits this with more certainty in the parts of similar bodies. {{meteyard-1}}",
+      "Move from scattered trials to focus. His experiments on cream-coloured ware had been desultory and aimed at future purposes. He then concentrated on this one direction, with every essential of body, glaze, form and ornament the object of his care. {{meteyard-1}}",
+      "Accept that most trials fail and learn from them. Kilns were pulled down to correct defects, and experiments in body and glaze would sometimes turn out entire failures. {{meteyard-1}}",
+      "Change one thing and report. In a letter of July 1767 he tells Bentley he is going on with experiments upon various earths and clays for different bodies and will next go upon glazes, and that many turn out to his wishes. {{meteyard-1}}",
+      "Do not rush the sample. Writing about the tea service, he tells his brother that from experience the sooner he makes the pieces, the more imperfect they will be, and he reports a cup with green and gold sprigs that did not look as well as he expected. {{meteyard-1}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Meteyard also says that his brother Thomas repeatedly reproved him for an idle and unprofitable curiosity in making experiments. She writes as an admirer of Josiah, so weigh that story as one side. {{meteyard-1}}"
+    },
+    {
+     "t": "p",
+     "x": "Wikipedia says he opened showrooms and warehouses in several cities, timed openings carefully and limited the number of jaspers on display to give a feeling of rarity. {{wiki-wedgwood}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Limiting what a buyer sees to create a feeling of rarity is a sales technique, not a model for a reseller. Never imply that an item is scarcer than it is. The habit we borrow is the experiment. {{wiki-wedgwood}}"
+    },
+    {
+     "t": "table",
+     "title": "From the pottery to a sourcing test (the right column is our adaptation)",
+     "head": [
+      "What Wedgwood did",
+      "Source",
+      "Sourcing version"
+     ],
+     "rows": [
+      [
+       "Varied a known recipe by repeated trials",
+       "Meteyard",
+       "Try a known channel with a small matched lot"
+      ],
+      [
+       "Enforced accuracy in weights and thickness",
+       "Meteyard",
+       "Record cost, date and condition the same way for every item"
+      ],
+      [
+       "Concentrated on one aim",
+       "Meteyard",
+       "Test one category or one channel at a time"
+      ],
+      [
+       "Went from bodies to glazes in turn",
+       "Letter, 1767",
+       "Change one variable between tests"
+      ],
+      [
+       "Reported trial results to a partner",
+       "Letters",
+       "Write the results in the same table each month"
+      ]
+     ],
+     "src": "The first two columns follow Meteyard's account. The last column is our adaptation. {{meteyard-1}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: two channels, five items each (illustrative numbers)"
+    },
+    {
+     "t": "example",
+     "title": "A small matched test",
+     "steps": [
+      "Channel A (charity shop): five items bought at £8 each, £40 in total. Channel B (car boot): five items at £5 each, £25 in total.",
+      "After 30 days, four of A's items sold for £160 in total, and two of B's items sold for £70 in total.",
+      "Sell-through: A is 4 ÷ 5 = 80%. B is 2 ÷ 5 = 40%.",
+      "Cost of sold items: A 4 × 8 = £32. B 2 × 5 = £10. Profit before fees, postage and packaging: A 160 − 32 = £128. B 70 − 10 = £60.",
+      "Unsold stock at cost: A £8. B 3 × 5 = £15. On this test A is better, but five items is a small sample, so repeat it before you change your plan."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a one-variable test plan"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Choose one question, such as which channel gives the better sell-through.",
+      "Buy five items from each channel in the same category and price range.",
+      "Write cost, date bought and condition for every item in one table.",
+      "Check at 30 days and record sell-through, profit and unsold stock at cost.",
+      "Change one thing and run it again."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Run a two-channel test with five items each. Write the results in the format of the worked example."
+    },
+    {
+     "t": "check",
+     "q": "In the worked example, what is channel B's sell-through?",
+     "o": [
+      "20%",
+      "40%",
+      "60%",
+      "80%"
+     ],
+     "a": 1,
+     "w": "Two of five items sold, which is 40%."
+    },
+    {
+     "t": "check",
+     "q": "In his 1767 letter, what did Wedgwood say he would do after the earths and clays?",
+     "o": [
+      "Stop",
+      "Go upon glazes",
+      "Sell the works",
+      "Retire"
+     ],
+     "a": 1,
+     "w": "He said he would next go upon glazes. {{meteyard-1}}"
+    },
+    {
+     "t": "check",
+     "q": "Why change only one thing between tests?",
+     "o": [
+      "It is cheaper",
+      "You can tell what caused the change in results",
+      "Platforms require it",
+      "It lowers tax"
+     ],
+     "a": 1,
+     "w": "If two things change you cannot tell which one mattered."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Vary a known thing by repeated small trials. {{meteyard-1}}",
+      "Record every trial the same way.",
+      "Change one thing at a time, and repeat before you decide."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "How did Wedgwood develop improved pottery bodies, according to the source?",
+    "o": [
+     "By luck",
+     "By systematic experimentation",
+     "By copying only",
+     "By importing them"
+    ],
+    "a": 1,
+    "w": "Wikipedia says he developed improved bodies by systematic experimentation. {{wiki-wedgwood}} {{meteyard-1}}"
+   }
+  },
+  {
+   "key": "vintage-reselling-3",
+   "name": "Thomas Chippendale",
+   "min": 24,
+   "outcome": "Word a listing so that the claim matches the evidence, tell a documented piece from one made in a famous style, and record the dimensions and details a buyer needs.",
+   "intro": "Thomas Chippendale's Director was written so that a gentleman could choose and a cabinet-maker could make. Anyone could copy it, so 'Chippendale' furniture was made far beyond his workshop. His own title page and preface show how a description can be exact.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read the title page, the dedication and the Preface of the third edition of the Director from a library scan. The OCR has gaps in places, and the date reads 1761 on the printed title and 1762 in the catalogue note, so we quote only the clear parts. {{chippendale-dir}}"
+    },
+    {
+     "t": "p",
+     "x": "Britannica and Wikipedia supply his dates and the attribution warnings. {{brit-chippendale}} {{wiki-chippendale}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "See what the book says it is for. The title page says it is calculated to assist the gentleman in the choice and the cabinet-maker in the execution of the designs. He adds that if no one drawing suits the gentleman, there are hints enough to construct a new one. {{chippendale-dir}}",
+      "Note that he names the styles himself. The catalogue note on the scan describes designs in the Gothic, Chinese and modern taste, and the book is advertised as a collection of designs for household furniture. {{chippendale-dir}}",
+      "Note what the title page promises about detail. It offers proper directions for the most difficult pieces, with the mouldings shown at large and the dimensions of each design specified. {{chippendale-dir}}",
+      "See how he handles doubt about whether the designs can be made. He says he gives no design that a skilful workman cannot execute with advantage, and he blames malice, ignorance and inability for the claim that the Gothic and Chinese drawings could not be worked. {{chippendale-dir}}",
+      "Note his own caution. He admits that in many drawings his pencil has faintly copied the images his fancy suggested. {{chippendale-dir}}",
+      "Read the attribution warning from Britannica. Pieces that resemble the Director plates cannot be attributed to his shop without further evidence, because the designs were available to other makers, some of them subscribers, and some plates were by other designers. {{brit-chippendale}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Britannica says a tentative attribution may be made where a piece corresponds to a Director plate and the original owner was a subscriber or is known to have employed Chippendale. It adds that his reputation is exaggerated, largely because of the Director. {{brit-chippendale}}"
+    },
+    {
+     "t": "p",
+     "x": "Wikipedia says recognisably Chippendale furniture was produced in Dublin, Philadelphia, Lisbon, Copenhagen and Hamburg. {{wiki-chippendale}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Modern reproductions and later copies exist. This lesson uses Chippendale as a case of style versus maker, and does not help you date a piece. Use the evidence ladder in the dating module for that. {{brit-chippendale}}"
+    },
+    {
+     "t": "table",
+     "title": "What you can say, given what you can show (our adaptation)",
+     "head": [
+      "Evidence you hold",
+      "Honest wording",
+      "Wording to avoid"
+     ],
+     "rows": [
+      [
+       "A design that looks like the style, no records",
+       "In the Chippendale style",
+       "Chippendale chair"
+      ],
+      [
+       "A match to a published plate, no history",
+       "After a design published in the Director; maker unknown",
+       "Made by Chippendale's workshop"
+      ],
+      [
+       "A match to a plate and a documented first owner or bill",
+       "Tentatively attributed to the workshop, with the document stated",
+       "Genuine Chippendale, no questions"
+      ]
+     ],
+     "src": "Principle from {{brit-chippendale}}; the table is our adaptation to listings."
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a listing record with dimensions (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Describing one chair the way the title page promises detail",
+     "steps": [
+      "The title page promises the dimensions of each design specified. Do the same for your piece. {{chippendale-dir}}",
+      "Record: overall height 96 cm, seat height 46 cm, seat width 54 cm, depth 50 cm (illustrative numbers), with the measuring points named.",
+      "Record the joinery and wear you can see, such as a repair to one rear leg, and photograph the moulding at close range, because he shows mouldings at large. {{chippendale-dir}}",
+      "State the evidence: 'Mahogany chair in the Chippendale style. The back resembles a plate in the Director but there are no records of the maker.' That wording matches the second row of the table.",
+      "Never write 'Chippendale' alone as if it were a maker's mark."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: three descriptions of one piece"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Take a piece in a famous style.",
+      "Write a description with no evidence beyond the look.",
+      "Write one with a matched published design.",
+      "Write one with a document, and state the document.",
+      "Add measured dimensions and a note of repairs to each."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Take a piece in a famous style. Write three descriptions: one with no evidence, one with a matched design and one with a document. Check each against the table."
+    },
+    {
+     "t": "check",
+     "q": "What does a piece resembling a Director design show about its maker?",
+     "o": [
+      "Chippendale made it",
+      "Nothing certain without further evidence",
+      "It is a copy",
+      "It is from 1754"
+     ],
+     "a": 1,
+     "w": "Britannica says such pieces cannot be attributed to his shop without further evidence. {{brit-chippendale}}"
+    },
+    {
+     "t": "check",
+     "q": "What does the title page promise about the designs?",
+     "o": [
+      "Only prices",
+      "Mouldings shown at large and the dimensions specified",
+      "A guarantee of maker",
+      "No dimensions"
+     ],
+     "a": 1,
+     "w": "It promises the mouldings at large and the dimensions of each design specified. {{chippendale-dir}}"
+    },
+    {
+     "t": "check",
+     "q": "Which wording fits a chair in the style with no records?",
+     "o": [
+      "Genuine Chippendale",
+      "In the Chippendale style",
+      "From Chippendale's own workshop",
+      "Attributed to Chippendale"
+     ],
+     "a": 1,
+     "w": "Only 'in the style' is supported."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Style is not a signature. {{brit-chippendale}}",
+      "Match the claim to the evidence you hold.",
+      "Give dimensions and detail, as his title page does. {{chippendale-dir}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "In what year did Chippendale publish The Gentleman and Cabinet-Maker's Director?",
+    "o": [
+     "1654",
+     "1754",
+     "1854",
+     "1954"
+    ],
+    "a": 1,
+    "w": "Britannica gives 1754 for the first edition. {{brit-chippendale}}"
+   }
+  },
+  {
+   "key": "vintage-reselling-4",
+   "name": "Arthur Hill Hassall",
+   "min": 24,
+   "outcome": "Check an item with a test before you describe it, record the result, say how certain the test was, and word the listing to match what the test showed.",
+   "intro": "Arthur Hill Hassall bought samples, examined them under the microscope and published what he found, with figures. His book also says plainly that a home test is not as certain as the microscope.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read the dedication, the introduction with its summary of conclusions, the opening of the introductory remarks on method and the coffee chapter's closing remarks in his book Food and its adulterations. The individual analyses were not read. {{archive-hassall}}"
+    },
+    {
+     "t": "p",
+     "x": "Wikipedia says his Lancet reports led directly to the 1860 Food Adulteration Act. {{wiki-hassall}} The book dedication is dated December 1854, so the 1860 Act is Wikipedia's claim, not the book's. {{archive-hassall}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "State the purpose and the plan. The introductory remarks propose a rigorous series of investigations into the articles of diet supplied to London, and say the work will rest on observation and experiment, with the microscope and test-tube as constant companions. {{archive-hassall}}",
+      "Do not accept what others say without checking. The introduction says the statements of writers so often handed down from author to author were in no case accepted unless confirmed by personal research. {{archive-hassall}}",
+      "Sort the problem into kinds. He lists three kinds of adulteration: adding cheap substances for bulk and weight, adding colouring matter, and adding substances for smell, flavour or pungency. He calls colouring with poisonous substances such as lead, copper, mercury and arsenic the most objectionable. {{archive-hassall}}",
+      "Report counts. In the first series of ground coffees, 31 of 34 were adulterated, chicory was found in 31 and roasted corn in 12. In the second report, of 42 samples, 11 were unadulterated and 31 were adulterated with chicory. {{archive-hassall}}",
+      "Be open about where the samples came from. He says the names and addresses of the sellers will be published, after a delay of three months to give a chance to mend, and meanwhile only the street or place is given. {{archive-hassall}}",
+      "Say how sure the test is. He gives simple tests for those who have no microscope, but says the microscope affords the only ready and certain means of detecting most coffee adulterations. {{archive-hassall}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "He says the microscope showed chicory in coffee even though three eminent chemists had been cited in the House of Commons as saying neither chemistry nor any other means could detect it. {{archive-hassall}}"
+    },
+    {
+     "t": "p",
+     "x": "He also proposes a central board of analysts, inspectors in the main towns and published reports as the means of discovery. {{archive-hassall}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Food adulteration is a different problem from reselling old goods. The link is the method: buy a sample, test it, count the results, say how sure you are and publish. The legal rules in this module remain the authority. {{archive-hassall}}"
+    },
+    {
+     "t": "table",
+     "title": "A test log for older stock (illustrative entries, our adaptation)",
+     "head": [
+      "Item",
+      "Claim you want to make",
+      "Test",
+      "How sure",
+      "Result and wording"
+     ],
+     "rows": [
+      [
+       "Small ring",
+       "Silver",
+       "Check for a hallmark and weigh; have the metal tested",
+       "A hallmark is checkable; a home guess is not",
+       "No hallmark; 4 g; test not done: Ring, metal not tested"
+      ],
+      [
+       "Table lamp",
+       "Working",
+       "A competent person checks wiring, plug and fuse",
+       "A visual check alone is weak",
+       "Cracked cable: For parts, not for use"
+      ],
+      [
+       "Carved figure",
+       "Bone",
+       "Specialist opinion on the material",
+       "Needs a specialist",
+       "Possibly ivory: do not list until confirmed"
+      ]
+     ],
+     "src": "Rules behind each row are in this module: hallmark weights, electrical safety and ivory. The 'how sure' column follows Hassall's distinction between simple tests and the microscope. {{archive-hassall}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: reading his coffee counts (his figures, our arithmetic)"
+    },
+    {
+     "t": "example",
+     "title": "Percentages from two series",
+     "steps": [
+      "First series: 31 adulterated of 34 is 31 ÷ 34 = 91.2%. Unadulterated: 3 of 34, 8.8%. {{archive-hassall}}",
+      "Second report: 31 adulterated of 42 is 31 ÷ 42 = 73.8%. Unadulterated: 11 of 42, 26.2%. {{archive-hassall}}",
+      "Together: 62 adulterated of 76 samples is 62 ÷ 76 = 81.6%.",
+      "These samples were bought from London shops by the investigators, not drawn at random, so the percentages describe those samples and should not be read as the rate for all coffee.",
+      "Do the same for your own test log: count tested, passed and failed, and state the proportion with the number tested."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a pre-listing test log"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Add a row for every item you intend to list.",
+      "Write the claim you want to make before you test.",
+      "Choose the best test you can afford, and say how sure it is.",
+      "Record the result, even if it is a failure.",
+      "Word the listing to match the result, and withdraw any claim the test does not support."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Start a test log with the five columns. Add every item you intend to list from now on."
+    },
+    {
+     "t": "check",
+     "q": "In Hassall's first series of ground coffees, how many were adulterated?",
+     "o": [
+      "3 of 34",
+      "31 of 34",
+      "34 of 34",
+      "12 of 34"
+     ],
+     "a": 1,
+     "w": "Of 34 coffees, all but three were adulterated. {{archive-hassall}}"
+    },
+    {
+     "t": "check",
+     "q": "What did he say about simple tests compared with the microscope?",
+     "o": [
+      "They are equally certain",
+      "The microscope is the only ready and certain means for most",
+      "Tests are useless",
+      "The microscope is unreliable"
+     ],
+     "a": 1,
+     "w": "He said the microscope affords the only ready and certain means. {{archive-hassall}}"
+    },
+    {
+     "t": "check",
+     "q": "You did not test a lamp. What can you say about it?",
+     "o": [
+      "It works",
+      "Untested; for display or parts",
+      "It is safe",
+      "It is guaranteed"
+     ],
+     "a": 1,
+     "w": "State only what you tested."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Test a claim before you make it, and write the result down. {{archive-hassall}}",
+      "State how sure your test is.",
+      "Word the listing to match the test."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "In which publication did Hassall's food adulteration reports appear?",
+    "o": [
+     "The Times",
+     "The Lancet",
+     "Punch",
+     "The Economist"
+    ],
+    "a": 1,
+    "w": "His reports were published in The Lancet. {{wiki-hassall}} {{archive-hassall}}"
+   }
+  },
+  {
+   "key": "vintage-reselling-5",
+   "name": "Harry Gordon Selfridge",
+   "min": 24,
+   "outcome": "Plan photographs and a listing so the buyer can see, judge size and condition, and feel at ease, without exaggeration or hiding a flaw.",
+   "intro": "Harry Gordon Selfridge wrote a book arguing that honesty and dependable statements pay, and that displays, publicity and staff manners decide how a customer feels. Online, your photographs and words are the shop floor.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read chapter I of his 1918 book The Romance of Commerce, on honesty and advertising, and chapter XXIV, on how the managers of a department store work, including its displays and its use of figures. It is his own book, so his opinions are his, and some of its history is not independently checked. {{selfridge-roc}}"
+    },
+    {
+     "t": "p",
+     "x": "Wikipedia-level facts about the store come from the course's earlier sources. {{selfridge}} {{selfridges}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "State the principle. He writes that honesty always pays, though honesty alone will never build a business, as good bricks alone will not build a house. {{selfridge-roc}}",
+      "Make every statement dependable. He asks why pay for advertising space and fill it with matter that must quickly be discovered to be false, which reduces the value of every future statement. {{selfridge-roc}}",
+      "Do not exaggerate. He says exaggerated statements are dangerous and that no people are easier to compete against than those who use exaggeration. {{selfridge-roc}}",
+      "Think from the customer's side. He says the manager of sales must put himself in the place of the public and think from the standpoint of the customer. {{selfridge-roc}}",
+      "Treat displays as a craft. Windows are studied with the care a stage manager gives stage effects, and displays are designed and dressed before they go into the windows. {{selfridge-roc}}",
+      "Use figures. He says the manager of sales must be an adept at figures, to whom a table of comparative percentages is as clear as the primer. {{selfridge-roc}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "On staff, he writes that the first contact with a member of staff largely decides the customer's future goodwill, and he gives the staff rule 'Don't make the same mistake twice'. {{selfridge-roc}}"
+    },
+    {
+     "t": "p",
+     "x": "Selfridges opened on 15 March 1909 after an investment of £400,000, and he promoted shopping for pleasure rather than necessity. {{selfridge}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Selfridge sold in a physical store, and his claims about his own methods are his own. Online the buyer cannot touch the goods, so the thinking carries over as making the item easy to see and understand. That adaptation is ours. {{selfridge-roc}}"
+    },
+    {
+     "t": "table",
+     "title": "From the store to the listing (the right column is our adaptation)",
+     "head": [
+      "Selfridge's point",
+      "Source",
+      "Listing version"
+     ],
+     "rows": [
+      [
+       "Every statement dependable",
+       "Romance of Commerce, ch. I",
+       "Say only what you checked; state defects plainly"
+      ],
+      [
+       "No exaggeration",
+       "Romance of Commerce, ch. I",
+       "Avoid 'rare', 'mint' or 'museum quality' unless you can show why"
+      ],
+      [
+       "Think from the customer's side",
+       "Romance of Commerce, ch. XXIV",
+       "Answer the questions a buyer would ask before they ask"
+      ],
+      [
+       "Dress the window with care",
+       "Romance of Commerce, ch. XXIV",
+       "Plan the photographs and the background"
+      ],
+      [
+       "Use a table of percentages",
+       "Romance of Commerce, ch. XXIV",
+       "Track views, sales and returns for each listing"
+      ]
+     ],
+     "src": "The first two columns follow the book. The last column is our adaptation. {{selfridge-roc}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a plan for one listing (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Making a listing easy to judge",
+     "steps": [
+      "Make the item accessible: photograph it from the front, back, sides and base, so the buyer can look round it as they would in a shop. {{selfridge}}",
+      "Make the setting calm: a plain background and even light, with nothing that distracts.",
+      "Show size: place it beside a ruler or a familiar object.",
+      "Show the flaws up close, because a shop customer would see them at once, and a flaw found on arrival costs trust. {{selfridge-roc}}",
+      "Write the title and description in a fixed order: what it is, size, condition, flaws, what is included."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a table of percentages (illustrative numbers)"
+    },
+    {
+     "t": "example",
+     "title": "Did the new photographs help?",
+     "steps": [
+      "Before re-photographing: 200 views and 6 sales, which is 6 ÷ 200 = 3%.",
+      "After: 200 views and 9 sales, which is 9 ÷ 200 = 4.5%.",
+      "The rate rose by 1.5 percentage points, or by 50% relative to 3%.",
+      "With only 6 and 9 sales, chance could explain much of the change. Repeat the check on more listings before you decide."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a listing plan"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the five questions a buyer would ask about this item.",
+      "Plan the photographs that answer them, with a size reference and close-ups of flaws.",
+      "Write the description in the fixed order.",
+      "Remove every claim you cannot show.",
+      "Record views and sales for the listing and work out the percentage."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Plan the photographs and the description for one item before you take a single picture. Then compare the plan with your result."
+    },
+    {
+     "t": "check",
+     "q": "According to Selfridge, what is the problem with false statements in advertising?",
+     "o": [
+      "Nothing",
+      "They reduce the value of every future statement",
+      "They are cheap",
+      "They are legal"
+     ],
+     "a": 1,
+     "w": "He says they reduce the value of every future statement. {{selfridge-roc}}"
+    },
+    {
+     "t": "check",
+     "q": "What does making goods accessible mean for an online listing?",
+     "o": [
+      "Hiding flaws",
+      "Photographs from every side so the buyer can look round the item",
+      "A long story",
+      "Low prices only"
+     ],
+     "a": 1,
+     "w": "Online, photographs stand in for walking round an item."
+    },
+    {
+     "t": "check",
+     "q": "When did Selfridges open?",
+     "o": [
+      "15 March 1909",
+      "1 January 1800",
+      "4 July 1776",
+      "1 May 1951"
+     ],
+     "a": 0,
+     "w": "It opened on 15 March 1909. {{selfridge}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Honest, dependable statements protect every later one. {{selfridge-roc}}",
+      "Show size and flaws close up.",
+      "Plan the listing, then track the percentages."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What idea did Selfridge promote about shopping?",
+    "o": [
+     "It should be a chore",
+     "Shopping for pleasure rather than necessity",
+     "It should be silent",
+     "It should be free"
+    ],
+    "a": 1,
+    "w": "He promoted shopping for pleasure rather than necessity. {{selfridge}}"
+   }
+  },
+  {
+   "key": "vintage-reselling-6",
+   "name": "Luca Pacioli",
+   "min": 26,
+   "outcome": "Keep a stock count that closes each week, so purchases, sales and shelf stock agree.",
+   "intro": "Luca Pacioli's chapter on bookkeeping starts with an inventory made in one day, then a daily memorandum, a journal and a ledger, and ends with a check that the debits equal the credits. The same shape gives a weekly stock check.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read the inventory, memorandum, journal, ledger, closing and trial-balance chapters in Geijsbeek's 1914 English translation of Pacioli's chapter. It is a partial translation, and a 2022 study found that translations of this treatise are unreliable, so use the steps and not exact phrasing. {{geijsbeek}}"
+    },
+    {
+     "t": "p",
+     "x": "The claim that Pacioli warned against going to sleep before the debits equal the credits comes from Wikipedia. We did not find it in the translated sections we read. {{wiki-pacioli}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Take the inventory in one day. The merchant lists whatever he has, beginning with the most valuable and most easily lost things, such as cash and jewels, and the whole inventory must be completed in one day. {{geijsbeek}}",
+      "Describe each thing fully. He says to enter each item with its marks and names, even if there are ten thousand, since things are never too clear to a merchant. {{geijsbeek}}",
+      "Keep a memorandum of every deal. Nothing should be omitted, including whether it was paid in cash, in trade or on time, and the merchant never can be too plain. {{geijsbeek}}",
+      "Move the record into two further books. After the inventory you need a memorandum, a journal and a ledger, though many use only the last two for a small business. {{geijsbeek}}",
+      "Post each entry twice. For each journal entry he makes two in the ledger, one in the debit and one in the credit, and never a credit without the same entry in the debit. {{geijsbeek}}",
+      "Check that the sides agree. He adds all the debit entries and all the credit entries on a separate sheet, and the totals should be the same, otherwise some mistake has been made in the ledger. {{geijsbeek}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "He says to balance the books at the end of the year and carry the remainders to a new ledger, and he opens with the saying that where there is no order there is confusion. {{geijsbeek}}"
+    },
+    {
+     "t": "p",
+     "x": "Wikipedia says his Summa de arithmetica was published in Venice in 1494 and included one of the first published descriptions of the double-entry system, which he did not invent. {{wiki-pacioli}} {{wiki-dentry}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Whether a sole trader needs double-entry books is a question for an accountant, and nothing here says you do. We borrow the idea of a check that proves your records agree. That adaptation is ours. {{geijsbeek}}"
+    },
+    {
+     "t": "table",
+     "title": "Pacioli's books and a reseller's records (the right column is our adaptation)",
+     "head": [
+      "Pacioli's book",
+      "What it holds",
+      "Your version"
+     ],
+     "rows": [
+      [
+       "Inventory",
+       "Everything owned, taken in one day",
+       "A weekly stock count of every item with its cost"
+      ],
+      [
+       "Memorandum",
+       "Every deal, with terms, nothing omitted",
+       "A purchase and sale log with date, price and how paid"
+      ],
+      [
+       "Journal",
+       "Entries in order of date",
+       "A dated list of changes to stock and cash"
+      ],
+      [
+       "Ledger",
+       "Each entry twice, debit and credit",
+       "Stock and cash totals that move together"
+      ],
+      [
+       "Trial balance",
+       "Debit totals equal credit totals",
+       "Opening stock plus purchases less sales equals the shelf"
+      ]
+     ],
+     "src": "The first two columns follow the translation. The last column is our adaptation. {{geijsbeek}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: closing the stock (illustrative numbers)"
+    },
+    {
+     "t": "example",
+     "title": "A weekly check",
+     "steps": [
+      "At the start of the week you hold 40 items that cost £620 in total.",
+      "You buy 6 more items for £84, and you sell 9 items whose cost was £130.",
+      "Expected stock = 40 + 6 − 9 = 37 items. Expected cost = 620 + 84 − 130 = £574.",
+      "Count the shelf. If you find 37 items, the records agree. If you find 36, one item is missing, mislabelled or sold without being recorded, so find it before the next sale.",
+      "Then compare the platform payouts with your sales record in the same way."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example: the same week posted twice (illustrative numbers, Pacioli's debit and credit idea)"
+    },
+    {
+     "t": "example",
+     "title": "A trial balance",
+     "steps": [
+      "Opening: cash £400 and stock £620, so capital is £1,020. Debits: cash 400, stock 620. Credits: capital 1,020. {{geijsbeek}}",
+      "Buy 6 items for £84 cash: debit stock 84, credit cash 84.",
+      "Sell 9 items for £330 in cash: debit cash 330, credit sales 330. Move their cost out of stock: debit cost of goods 130, credit stock 130.",
+      "All debits are 400 + 620 + 84 + 330 + 130 = 1,564. All credits are 1,020 + 84 + 330 + 130 = 1,564. They agree. {{geijsbeek}}",
+      "Balances: cash 646, stock 574, cost of goods 130 on the debit side, total 1,350; sales 330 and capital 1,020 on the credit side, total 1,350. Stock of £574 matches the shelf sum above."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a weekly close"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Count the stock in one session and write the count and the cost.",
+      "Add the week's purchases from your log and subtract the week's sales.",
+      "Compare the result with the count and resolve any difference.",
+      "Compare platform payouts with your sales log.",
+      "Write the date and the result, and carry the balance forward."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Do a stock count this week. Write the opening count, purchases, sales and closing count, and check them."
+    },
+    {
+     "t": "check",
+     "q": "In the first worked example, what is the expected closing cost?",
+     "o": [
+      "£620",
+      "£574",
+      "£84",
+      "£130"
+     ],
+     "a": 1,
+     "w": "620 + 84 − 130 = £574."
+    },
+    {
+     "t": "check",
+     "q": "What did Pacioli say about the inventory, in the translation?",
+     "o": [
+      "Take it over a year",
+      "It must be completed in one day",
+      "Skip small items",
+      "Keep it secret from staff"
+     ],
+     "a": 1,
+     "w": "The whole inventory must be completed in one day. {{geijsbeek}}"
+    },
+    {
+     "t": "check",
+     "q": "When the debit and credit totals differ, what did he say it shows?",
+     "o": [
+      "Nothing",
+      "That some mistake has been made in the ledger",
+      "A profit",
+      "A tax due"
+     ],
+     "a": 1,
+     "w": "He says the totals should be the same, otherwise a mistake has been made. {{geijsbeek}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Count everything in one session. {{geijsbeek}}",
+      "Check that the two sides agree. {{geijsbeek}}",
+      "Close the stock count every week."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "In what year was Pacioli's Summa de arithmetica published in Venice?",
+    "o": [
+     "1294",
+     "1494",
+     "1694",
+     "1894"
+    ],
+    "a": 1,
+    "w": "It was published in 1494. {{wiki-pacioli}}"
+   }
+  },
+  {
+   "key": "vintage-reselling-cap",
+   "name": "Luca Pacioli",
+   "min": 24,
+   "outcome": "Prove your launch pack agrees with itself, with a trial balance of the numbers.",
+   "intro": "Pacioli ended with a check that the two sides of the ledger agree and a rule that a mismatch means a mistake to find. A launch pack has many numbers, and a short trial balance catches the ones that disagree.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read the closing and trial-balance chapters in the 1914 translation. The idea of a trial balance is in the translation, and the 2022 warning about translations applies. {{geijsbeek}} Wikipedia describes the modern trial balance as two columns that must match. {{wiki-dentry}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "List every number the pack states: purchase prices, sale prices, fees, postage, packaging, hours, tax example.",
+      "Add the debit side and the credit side separately, as he adds all the debit entries and all the credit entries on a separate sheet. {{geijsbeek}}",
+      "Compare the totals. If they are the same the sheet agrees. If not, some mistake has been made. {{geijsbeek}}",
+      "Find the mistake by going back through the entries one at a time, since he says an entry in only one side cannot exist. {{geijsbeek}}",
+      "Fix the number at its source and carry the fix to every place it is used.",
+      "Write the date of the check on the pack."
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Your launch pack is not a set of double-entry books. We borrow the idea of a check that shows the numbers agree. That adaptation is ours. {{geijsbeek}}"
+    },
+    {
+     "t": "table",
+     "title": "A trial balance for the launch pack (our adaptation)",
+     "head": [
+      "Check",
+      "Agrees when"
+     ],
+     "rows": [
+      [
+       "Sum of the five items' purchase prices",
+       "Equals the cost of goods in the profit table"
+      ],
+      [
+       "Sum of the five items' profits",
+       "Equals total revenue minus all costs in the table"
+      ],
+      [
+       "Fees in the profit table",
+       "Match the fee page and date you cite"
+      ],
+      [
+       "Hours counted",
+       "Match the profit-per-hour figures"
+      ],
+      [
+       "Tax example",
+       "Real costs and allowance use the same gross sales"
+      ]
+     ],
+     "src": "Idea from {{geijsbeek}} and {{wiki-dentry}}."
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a five-item pack (illustrative numbers)"
+    },
+    {
+     "t": "example",
+     "title": "Proving the pack agrees",
+     "steps": [
+      "Five items cost £8, £12, £5, £20 and £9, a total of £54. They sell for £30, £45, £18, £60 and £28, a total of £181.",
+      "Fees use eBay's pattern of 11.25% of the sale (10.9% plus 0.35%) plus £0.40 an order: 11.25% × 181 = £20.3625 and 5 × 0.40 = £2.00, so fees are £22.3625. Check the fee page for the current rates. {{ebay-business}}",
+      "Packaging is £1.20 an item, £6.00, and cleaning is £0.60 an item, £3.00.",
+      "Total profit = 181 − 54 − 22.3625 − 6 − 3 = £95.6375, about £95.64.",
+      "Now add the per-item profits: £16.425, £25.7375, £8.775, £31.05 and £13.65. Their sum is £95.6375. The two routes agree. If they did not, you would go back through the items one at a time."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: the five checks"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Run each check in the table on your own pack.",
+      "Write the totals side by side.",
+      "Where they differ, find the entry that is wrong.",
+      "Fix it at its source and carry it to every place used.",
+      "Write what you changed and the date."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Run the five checks on your pack and write what you changed."
+    },
+    {
+     "t": "check",
+     "q": "What is a trial balance for?",
+     "o": [
+      "To set a price",
+      "To confirm the totals agree",
+      "To file tax",
+      "To list items"
+     ],
+     "a": 1,
+     "w": "It lists balances in two columns to confirm debits equal credits. {{wiki-dentry}}"
+    },
+    {
+     "t": "check",
+     "q": "In the worked example, what is the total profit?",
+     "o": [
+      "£54",
+      "About £95.64",
+      "£181",
+      "£22.36"
+     ],
+     "a": 1,
+     "w": "181 − 54 − 22.3625 − 6 − 3 = £95.6375."
+    },
+    {
+     "t": "check",
+     "q": "What do you do when the two totals differ?",
+     "o": [
+      "Ignore it",
+      "Go back through the entries to find the mistake",
+      "Raise prices",
+      "Delete the pack"
+     ],
+     "a": 1,
+     "w": "A mismatch means a mistake to find. {{geijsbeek}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Check that the numbers in the pack agree. {{geijsbeek}}",
+      "A mismatch means an error to find.",
+      "Fix mismatches at their source before you finish."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did Pacioli propose to prove that a ledger balanced?",
+    "o": [
+     "A trial balance",
+     "A price list",
+     "A contract",
+     "A tax return"
+    ],
+    "a": 0,
+    "w": "He proposed a trial balance. {{wiki-pacioli}} {{geijsbeek}}"
+   }
+  }
+ ]
+}

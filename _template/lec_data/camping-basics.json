@@ -1,0 +1,1241 @@
+{
+ "refs": {
+  "muir-np": [
+   "Our National Parks (1901), full text",
+   "John Muir, Project Gutenberg #60929",
+   "https://www.gutenberg.org/files/60929/60929-h/60929-h.htm"
+  ],
+  "sc-bio": [
+   "John Muir Biography",
+   "Sierra Club John Muir Exhibit",
+   "https://www.sierraclub.org/john-muir-exhibit/john-muir-biography"
+  ],
+  "brit-muir": [
+   "John Muir",
+   "Encyclopaedia Britannica",
+   "https://www.britannica.com/biography/John-Muir"
+  ],
+  "sc-menu": [
+   "John Muir's Menu",
+   "J. Parker Huber, Sierra Club John Muir Exhibit",
+   "https://www.sierraclub.org/john-muir-exhibit/john-muir-s-menu"
+  ],
+  "kephart10": [
+   "The Book of Camping and Woodcraft (1910 edition), chapter VII The Camp (read in an earlier pass; not re-checked in the second pass)",
+   "Horace Kephart, Outing Publishing Company, via Internet Archive",
+   "https://archive.org/details/bookofcampingwoo00keph"
+  ],
+  "kephart-wc": [
+   "Camping and Woodcraft, full text of the Internet Archive copy (forest travel, rivers, thirst and cookery sections read)",
+   "Horace Kephart, via Internet Archive",
+   "https://archive.org/stream/bookofcampingwoo00keph/bookofcampingwoo00keph_djvu.txt"
+  ],
+  "nansen-fn": [
+   "Farthest North, Vol. II (1897), full text (the sledge-journey equipment chapter read)",
+   "Fridtjof Nansen, Project Gutenberg #34120",
+   "https://www.gutenberg.org/files/34120/34120-h/34120-h.htm"
+  ],
+  "rsgs-nansen": [
+   "Fridtjof Nansen: The First Crossing of Greenland",
+   "Royal Scottish Geographical Society",
+   "https://www.rsgs.org/blog/fridtjof-nansen-the-first-crossing-of-greenland"
+  ],
+  "wiki-nansen": [
+   "Fridtjof Nansen",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/Fridtjof_Nansen"
+  ],
+  "lgfl-cooker": [
+   "The Nansen Cooker (Polar Life KS1/2)",
+   "London Grid for Learning, Polar Exploration in the Heroic Age of Scientific Discovery",
+   "https://polar.lgfl.org.uk/Documents/Life%20L3%20-%20The%20importance%20of%20the%20nansen%20cooker.pdf"
+  ],
+  "wiki-nimrod": [
+   "Nimrod Expedition",
+   "Wikipedia",
+   "https://en.wikipedia.org/wiki/Nimrod_Expedition"
+  ],
+  "brit-shack": [
+   "Ernest Shackleton",
+   "Encyclopaedia Britannica",
+   "https://www.britannica.com/biography/Ernest-Henry-Shackleton"
+  ],
+  "shack-south": [
+   "South (1919), full text (preface and chapter I read in this pass)",
+   "Ernest Shackleton, ibiblio",
+   "https://www.ibiblio.org/ebooks/Shackleton/South/South.htm"
+  ],
+  "nightingale": [
+   "Notes on Nursing: What It Is, and What It Is Not (1859), full text",
+   "Florence Nightingale, Project Gutenberg #17366",
+   "https://www.gutenberg.org/files/17366/17366-h/17366-h.htm"
+  ]
+ },
+ "modules": [
+  {
+   "key": "camping-basics-1",
+   "name": "John Muir",
+   "min": 22,
+   "outcome": "Pack so that what you carry in can be carried out, use fire only where the rules allow, and give a reason for shared rules in shared places.",
+   "intro": "John Muir travelled light and argued that wild places survive only if many people treat them the same careful way. His method is a way to think about weight, fire and rules before you pack.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "John Muir was a Scottish-born American naturalist who founded the Sierra Club in 1892 and served as its first president. {{brit-muir}} His writing influenced the creation of national parks. {{brit-muir}}"
+    },
+    {
+     "t": "p",
+     "x": "We read his own book Our National Parks (1901) in part, and secondary pages from Britannica and the Sierra Club. His own text makes this record partial to rich for this topic, and the opinions below are his, not ours. {{muir-np}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Travel light so the land decides your route. He wrote that nearly all his mountaineering was done on foot, carrying as little as possible and depending on camp-fires for warmth, so that he might be light and free to go wherever his studies led. {{muir-np}}",
+      "Add a load only when the trip demands it, and know its cost. For a long Sequoia trip he was persuaded to take a small wild mule to carry provisions and a pair of blankets, so a load was a deliberate choice, not a default. {{muir-np}}",
+      "Live off the place without damaging it. He describes dead resin-rich roots that make fires that burn through the thickest storms, and fallen needles of old groves that make a fine mattress. {{muir-np}}",
+      "Eat little and carry food that keeps. A Sierra Club article on his trips says he rolled bread and tea in a pair of blankets with some sugar and a tin cup, and that he did not hunt or fish. {{sc-menu}}",
+      "Treat fire as the greatest risk to the place. He complains that shepherds set innumerable fires that burn the seedlings on which the forest's permanence depends, and many of the old trees too. {{muir-np}}",
+      "Take the argument to the public. He argues that if every citizen could take one walk through a reserve there would be no more trouble about its care, because only in darkness does vandalism flourish. {{muir-np}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Muir relied on camp-fires. In the UK and Ireland, fires are often restricted, so follow this module's fire rules and the landowner's rules, not Muir's habits. Britannica also notes that Muir held deeply harmful attitudes toward Black and Indigenous peoples, so he is a source for these ideas, not a model in general. {{brit-muir}}"
+    },
+    {
+     "t": "table",
+     "title": "Muir's habits and what they point to (the right column is our adaptation to UK and Irish camping)",
+     "head": [
+      "Muir's habit",
+      "Principle",
+      "What you do"
+     ],
+     "rows": [
+      [
+       "Carried as little as possible",
+       "Plan ahead and prepare",
+       "Weigh the pack and cut what you do not need"
+      ],
+      [
+       "Slept on fallen needles, used dead roots for fire",
+       "Minimise campfire impact",
+       "Use a stove, and use fires only where permitted and in an established spot"
+      ],
+      [
+       "Did not hunt or fish",
+       "Leave what you find",
+       "Take photographs and nothing else"
+      ],
+      [
+       "Argued for protection by the public",
+       "Be considerate of others",
+       "Follow access rules, and tell others why they exist"
+      ]
+     ],
+     "src": "The left column follows the sources. The principles and the right column are our adaptation. {{muir-np}} {{sc-menu}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a carry-in, carry-out ledger (illustrative numbers)"
+    },
+    {
+     "t": "example",
+     "title": "A carry-in, carry-out ledger for one night",
+     "steps": [
+      "Weigh what you carry in: tent 1.9 kg, sleeping bag 1.2 kg, stove and fuel 0.7 kg, food 1.4 kg, water 1.0 kg, clothes and kit 2.0 kg. The total is 8.2 kg.",
+      "During the night you eat all the food (1.4 kg) and burn 0.1 kg of fuel. You drink the 1.0 kg of water.",
+      "In the morning you carry out 8.2 − 1.4 − 0.1 − 1.0 = 5.7 kg of kit, plus the packaging from the food, say 0.15 kg, plus any rubbish you made. Bring a bag for it.",
+      "The pack gets lighter as you eat, but nothing you brought stays behind. If you cannot account for an item on the way out, you left something.",
+      "Muir's rule of 'as little as possible' is this ledger done before the trip, not after. {{muir-np}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: pack the way Muir argued"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "List every item you plan to carry and its weight, and total it.",
+      "Mark what each item leaves behind: wrapping, used tissue, cooking waste, gas canister.",
+      "Cross out anything you cannot justify. If you cannot say what it is for, leave it.",
+      "Write the fire decision: stove, or fire only where the landowner allows it and the ground is safe.",
+      "Check the plan against the access rules for the land you will use, and plan a bag for what must leave with you."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Make the ledger for your first night. Total the weight in, the weight consumed and the weight out, and name what must leave with you."
+    },
+    {
+     "t": "check",
+     "q": "What did Muir say about how he travelled in the mountains?",
+     "o": [
+      "With a large pack",
+      "On foot, carrying as little as possible",
+      "By horse only",
+      "By train"
+     ],
+     "a": 1,
+     "w": "He wrote that he travelled on foot carrying as little as possible. {{muir-np}}"
+    },
+    {
+     "t": "check",
+     "q": "In the UK and Ireland, why should you not copy Muir's use of camp-fires?",
+     "o": [
+      "Fires are always allowed",
+      "Fires are often restricted, so follow local rules",
+      "Fires are unsafe in daylight",
+      "Muir never used fires"
+     ],
+     "a": 1,
+     "w": "Fire rules vary and are often restrictive. Check the fire lesson and the landowner's rules."
+    },
+    {
+     "t": "check",
+     "q": "You carry in 8.2 kg, eat 1.4 kg, burn 0.1 kg and drink 1.0 kg. About how much kit do you carry out?",
+     "o": [
+      "8.2 kg",
+      "5.7 kg",
+      "1.4 kg",
+      "6.8 kg"
+     ],
+     "a": 1,
+     "w": "8.2 − 1.4 − 0.1 − 1.0 = 5.7 kg of kit, plus your rubbish."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Carry little, and plan what leaves with you. {{muir-np}}",
+      "Fire is the great risk to the place, so use it only where it is allowed. {{muir-np}}",
+      "Shared places last when many people follow shared habits. {{muir-np}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What organisation did John Muir found in 1892?",
+    "o": [
+     "The Met Office",
+     "The Sierra Club",
+     "The National Trust",
+     "Ordnance Survey"
+    ],
+    "a": 1,
+    "w": "Muir founded the Sierra Club in 1892. {{brit-muir}}"
+   }
+  },
+  {
+   "key": "camping-basics-2",
+   "name": "Horace Kephart",
+   "min": 22,
+   "outcome": "Score a pitch on a written checklist, set a realistic pace, choose a route that avoids flood and tangle, and say which of his advice to adapt in the UK and Ireland.",
+   "intro": "Horace Kephart wrote a handbook of camp craft that is full of numbered, practical judgements. His method is to decide from the ground and the weather, with figures where he has them.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "Horace Kephart published The Book of Camping and Woodcraft in 1906, and later editions followed. {{kephart10}}"
+    },
+    {
+     "t": "p",
+     "x": "We read two parts of the Internet Archive copy. The pitch checklist comes from the chapter read in an earlier pass and has not been re-checked in this pass. The pace, river and thirst advice was read in this pass from the full text. The record is partial to rich. {{kephart10}} {{kephart-wc}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Choose the pitch for drainage and exposure. His camp chapter looks for an open spot that is level enough for the tent and fire but raised so it drains, well above any chance of overflow from a stream, with exposure to the breeze in summer and shelter from the prevailing wind in cold weather. {{kephart10}}",
+      "Look overhead. He warns against pitching under a tree that would drip, near a dead tree, or among shallow-rooted trees a storm may overthrow, and he says to clear brush, stubs and rotten wood from the site. {{kephart10}}",
+      "Expect slow going. He says that a mile and a half an hour of actual progress is making good time in the woods, because the ground is covered with stubs, loose stones, slippery roots, saplings, downwood and vines. {{kephart-wc}}",
+      "Choose the line of travel by the ground, not the shortest map line. He says the aboriginal rule of keeping away from streams and following the ridges between them still holds for a party on foot, because a bank route means many fords, thickets and bogs. {{kephart-wc}}",
+      "Plan for a river to rise. He says a heavy rainstorm may send the river out of its banks and leave a party marooned where it can go neither forward nor back. {{kephart-wc}}",
+      "Manage thirst and water by habit. Drink as often as you please but not much at a time, and never try to quench thirst by swallowing snow or ice; melt it first in the mouth if no fire is possible. {{kephart-wc}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Kephart wrote for American forests in the early 1900s. He also advises trenching around the tent, which is poor practice on UK and Irish sites and forbidden in many places. Choose a slightly raised pitch instead. His advice about dead trees applies anywhere. {{kephart10}}"
+    },
+    {
+     "t": "table",
+     "title": "A pitch and route checklist drawn from Kephart (the right column is our adaptation)",
+     "head": [
+      "Check",
+      "Kephart's point",
+      "Your test on the day"
+     ],
+     "rows": [
+      [
+       "Drainage",
+       "Raised, well above stream overflow",
+       "Where would water run if it rained now? Is there a wet line or debris from past floods?"
+      ],
+      [
+       "Wind",
+       "Exposure in summer, shelter in cold weather",
+       "Which way is the forecast wind? Where does the bank or wall break it?"
+      ],
+      [
+       "Overhead",
+       "No drip, no dead or shallow-rooted trees",
+       "Look up. Any dead branch, loose bark or leaning tree within falling reach?"
+      ],
+      [
+       "Ground",
+       "Clear brush, stubs, rotten wood",
+       "Run a hand over where you will lie. Remove stones and sticks, and put them back in the morning"
+      ],
+      [
+       "Pace",
+       "A mile and a half an hour is good time in the woods",
+       "Add time for rough ground to your plan"
+      ],
+      [
+       "Route",
+       "Ridges beat river banks",
+       "Count the fords and bog crossings on your line"
+      ]
+     ],
+     "src": "Kephart's points follow the sources. The last column is our adaptation. {{kephart10}} {{kephart-wc}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example 1: a pace in Kephart's terms"
+    },
+    {
+     "t": "example",
+     "title": "Planning a woodland walk (illustrative)",
+     "steps": [
+      "A route in rough woodland is 9 km. Kephart's figure is a mile and a half an hour, which is 1.5 × 1.609 = 2.41 km per hour. {{kephart-wc}}",
+      "At 2.41 km per hour, 9 km takes 9 ÷ 2.41 = 3.7 hours of actual progress.",
+      "Add time for breaks and for stops to look at the map. If you also plan 1 hour of rest, the walk takes about 4.7 hours.",
+      "If your plan assumed 5 km per hour on a path, you would have allowed only 1.8 hours. The two numbers differ by almost a factor of two, which is how people are caught out by dark."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Worked example 2: scoring two pitches"
+    },
+    {
+     "t": "example",
+     "title": "Two pitches on the five-point test (illustrative)",
+     "steps": [
+      "Score each pitch yes or no for drainage, wind, overhead, ground and flood risk.",
+      "Pitch A scores four yes and one no, because a dead branch hangs above. Pitch B scores five yes. {{kephart10}}",
+      "Choose B. If only A is available, move the tent out of the branch's reach, and write down why.",
+      "Check that your choice is allowed on the land, and write the reason in your trip notes."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a pitch and pace sheet"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the route length, and divide it by 2.4 km per hour for rough woodland and by your own path speed for paths. Use the larger figure to plan.",
+      "Choose the pitch with the checklist above and write the score.",
+      "Check flood marks and the line of the nearest stream.",
+      "Plan your water: where, how much, and how you will treat it.",
+      "After the trip, write the real pace and compare it with the plan."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Walk a rough woodland section with a timer and measure your real pace. Compare it with Kephart's figure and write what slowed you."
+    },
+    {
+     "t": "check",
+     "q": "Which of these did Kephart advise against?",
+     "o": [
+      "Pitching on raised ground",
+      "Pitching near a dead tree",
+      "Observing flood marks",
+      "Clearing brush from the site"
+     ],
+     "a": 1,
+     "w": "He said the tent should not be set near a dead tree. {{kephart10}}"
+    },
+    {
+     "t": "check",
+     "q": "What pace did Kephart call good time in the woods?",
+     "o": [
+      "A mile and a half an hour of actual progress",
+      "Five miles an hour",
+      "A mile a day",
+      "Ten miles an hour"
+     ],
+     "a": 0,
+     "w": "He said a mile and a half an hour of actual progress is making good time. {{kephart-wc}}"
+    },
+    {
+     "t": "check",
+     "q": "Why did he say to follow ridges instead of river banks?",
+     "o": [
+      "Ridges are shorter",
+      "River banks mean many fords, thickets and bogs, and rivers can rise",
+      "Ridges have no trees",
+      "Rivers are never crossable"
+     ],
+     "a": 1,
+     "w": "He says bank routes bring fords and thickets, and a storm may send the river out of its banks. {{kephart-wc}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Decide from the ground and the weather, and write the reasons.",
+      "Use a slow pace for rough woodland. {{kephart-wc}}",
+      "Adapt trenching and open-fire advice to UK and Irish rules. {{kephart10}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "According to Kephart, what should you avoid pitching near?",
+    "o": [
+     "A dead tree",
+     "A raised spot",
+     "A breeze",
+     "Morning sun"
+    ],
+    "a": 0,
+    "w": "He advised against pitching near a dead tree. {{kephart10}}"
+   }
+  },
+  {
+   "key": "camping-basics-3",
+   "name": "Fridtjof Nansen",
+   "min": 24,
+   "outcome": "Test your sleep system before the trip, choose layers by trial, and build a night plan that deals with wet ground and condensation.",
+   "intro": "Fridtjof Nansen planned his sledge journeys by experiment. He tried clothes, tents and cookers before he left. His method is a way to build and test a sleep system on a small scale first.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "Fridtjof Nansen led the first crossing of Greenland in 1888, and in 1895 made a long sledge journey from the ship Fram. {{rsgs-nansen}} {{nansen-fn}}"
+    },
+    {
+     "t": "p",
+     "x": "We read his own account of the equipment for the 1895 journey in Farthest North, Volume II (read in the equipment and preparation chapter), and a Royal Scottish Geographical Society article and Wikipedia. His own text makes the record rich for this topic. {{nansen-fn}} {{rsgs-nansen}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Test the clothes in the real cold. On 29 November he walked in his thick wolfskin dress at -37.6 °C and sweated, and on 9 December at -41 °C the perspiration still poured down his back. He concluded the dress was too warm. {{nansen-fn}}",
+      "Choose layers over bulk. The Greenland crossing party used light woollen garments, and he is described as a pioneer of the layering system. {{rsgs-nansen}} Wikipedia credits him with the layer principle, in which heavy garments gave way to layers of lightweight material. {{wiki-nansen}}",
+      "Try the sleeping bag and change the design. One-man bags of reindeer calf skin proved insufficiently warm, so he went back to a double bag of adult reindeer skin, in which the occupants warm each other. {{nansen-fn}}",
+      "Count the weight. He says a bag for two men is not a little lighter than two single bags, and says the objection that a joint bag disturbs sleep was not true in his experience. {{nansen-fn}}",
+      "Take a tent, even a thin one. He says a tent gives so much protection and comfort that its small extra weight is worth carrying. He tried a floored silk tent of about 7 pounds but dropped it, because snow carried in on the feet melted from body heat and the floor absorbed the water, making the tent heavier. {{nansen-fn}}",
+      "Seal the pitch against the wind. His floorless tent was held down with pegs and banked round with snow to keep out wind and draughts. {{nansen-fn}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "In a storm on the Greenland crossing, his party lay in the tent in their sleeping bags for three days while the ice melted under them and rain poured above. {{rsgs-nansen}}"
+    },
+    {
+     "t": "table",
+     "title": "Nansen's sleep-system choices and your equivalent (the right column is our adaptation)",
+     "head": [
+      "Problem",
+      "Nansen's answer",
+      "Your equivalent"
+     ],
+     "rows": [
+      [
+       "Too warm while moving",
+       "Lighter clothing; wolfskin saved for stops",
+       "Remove a layer before you sweat; keep a dry warm layer for camp"
+      ],
+      [
+       "Bag not warm enough",
+       "A bigger, double bag",
+       "A bag rated for the lowest night temperature, plus a liner"
+      ],
+      [
+       "Floor soaks up melt-water",
+       "A floorless tent banked with snow",
+       "A groundsheet that sheds water and a pitch that drains"
+      ],
+      [
+       "Wind and draughts",
+       "Peg down and bank with snow",
+       "Peg the skirt, face the low side into the wind"
+      ],
+      [
+       "Wet ground below",
+       "Three days on melting ice",
+       "An insulating pad under you, and a spare dry set to sleep in"
+      ]
+     ],
+     "src": "Nansen's column follows the sources. The right column is our adaptation. {{nansen-fn}} {{rsgs-nansen}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: weighing the choice (illustrative numbers)"
+    },
+    {
+     "t": "example",
+     "title": "One double bag against two singles",
+     "steps": [
+      "Suppose a single sleeping bag weighs 1.3 kg and a double bag of the same warmth class weighs 1.9 kg. Two singles weigh 2.6 kg.",
+      "The double saves 2.6 − 1.9 = 0.7 kg, which is 27 percent less. Nansen reports a joint bag is lighter than two single bags. {{nansen-fn}}",
+      "The warmth gain comes from the pair sharing heat, as he describes. {{nansen-fn}}",
+      "The cost is flexibility: you cannot split up and you must agree on bedtime. Decide whether that suits your party.",
+      "The numbers here are illustrative. Weigh your own bags before you decide."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a tested sleep system"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "List the lowest temperature you may meet and the bag, pad and layers rated for it.",
+      "Test the system in your garden or a safe spot on a cold night. Note when you were cold, and from which side.",
+      "Test the groundsheet and pitch in rain. Where did water collect?",
+      "Change one thing and test again, as Nansen did with the bag and the tent.",
+      "Write the night plan: which layers go on as it cools, and which dry set stays untouched."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Test your sleep system on a cold night near home. Write when and where you felt cold, change one thing and test again."
+    },
+    {
+     "t": "check",
+     "q": "Why did Nansen reject the thick wolfskin dress for walking?",
+     "o": [
+      "It was too light",
+      "He sweated in it even at -41 °C",
+      "It had no hood",
+      "It was too short"
+     ],
+     "a": 1,
+     "w": "He sweated in it at -37.6 and -41 degrees. {{nansen-fn}}"
+    },
+    {
+     "t": "check",
+     "q": "Why did he give up the floored silk tent?",
+     "o": [
+      "It was too cold",
+      "Snow carried in melted and the floor absorbed the water",
+      "It had too many pegs",
+      "It was too small"
+     ],
+     "a": 1,
+     "w": "Melted snow soaked the floor and made the tent heavier. {{nansen-fn}}"
+    },
+    {
+     "t": "check",
+     "q": "What did he find about a double bag?",
+     "o": [
+      "Warmer and lighter than two singles",
+      "Colder than two singles",
+      "Heavier and no warmer",
+      "Impossible to use"
+     ],
+     "a": 0,
+     "w": "A double bag kept occupants warmer and was lighter than two singles. {{nansen-fn}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Test the system before you rely on it. {{nansen-fn}}",
+      "Layers beat bulk, and a spare dry set matters. {{rsgs-nansen}}",
+      "What is under you matters as much as what is over you. {{rsgs-nansen}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What clothing principle is Nansen credited with?",
+    "o": [
+     "One heavy fur",
+     "Layers of lightweight material",
+     "Cotton only",
+     "No layers"
+    ],
+    "a": 1,
+    "w": "He is credited with the layer principle. {{wiki-nansen}}"
+   }
+  },
+  {
+   "key": "camping-basics-4",
+   "name": "Fridtjof Nansen",
+   "min": 24,
+   "outcome": "Plan one flame to do several jobs, estimate fuel from a test, and say why cooking inside a closed tent is dangerous.",
+   "intro": "Fridtjof Nansen weighed fuel, food and cooking gear as carefully as anything. His account of the cooker and its tests is a worked example of choosing a stove from numbers.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read his own account of the cooking apparatus in Farthest North, Volume II, the Greenland crossing material at secondary level, and a schools resource on the cooker. The cooker facts below are from his own book, so the record is rich for this topic. {{nansen-fn}} {{lgfl-cooker}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Choose the fuel by heat for weight. He chose petroleum over alcohol, because alcohol, though easy to burn, does not give so much heat for its weight as petroleum when the latter is entirely consumed, as in the lamp he used. {{nansen-fn}}",
+      "Burn it completely. The lamp, the Primus, turns petroleum to gas before burning it, which makes combustion unusually complete. Professor Torup's laboratory experiments gave the cooker 90 to 93 per cent of the heat the petroleum should theoretically yield. {{nansen-fn}}",
+      "Make one flame do several jobs. The apparatus had two boilers and a vessel for melting snow or ice, so food could be cooked and water melted at once, and in the morning and evening there was as much to drink as wished. {{nansen-fn}}",
+      "Make it light. The cooker, with two tin mugs, a ladle and two spoons, weighed exactly 8 pounds 13 ounces, and the Primus lamp 4½ ounces. {{nansen-fn}}",
+      "Test it before the journey and record the numbers. In one test they made about two litres of excellent oatmeal porridge, plus half-melted ice and a little water, in a little over half an hour, using 50 grammes of petroleum. {{nansen-fn}}",
+      "Plan the food with the same arithmetic. He made calculations to find the most advantageous provisions, nutritious yet no heavier than necessary, for both men and dogs. {{nansen-fn}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "A schools resource adds that the cooker was compact and made of lightweight aluminium so it could be carried on a sledge, and that it warmed the tent as it heated the meal. {{lgfl-cooker}}"
+    },
+    {
+     "t": "p",
+     "x": "He describes how he planned to cope with thirst. He filled india-rubber flasks from the cooker each morning and carried them inside his coat so they would not freeze, and he later found he needed to drink little during the day. {{nansen-fn}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Nansen's cooker warmed the tent. That is not a reason to cook inside a closed tent now: burning fuel produces carbon monoxide, which cannot be seen or smelled and can kill. Cook outside, or in a well-ventilated porch the manufacturer allows. This safety point is not in Nansen's text. It is our own advice."
+    },
+    {
+     "t": "table",
+     "title": "A cooking plan from Nansen's tests (the right column is our adaptation)",
+     "head": [
+      "Question",
+      "Nansen's evidence",
+      "Your plan"
+     ],
+     "rows": [
+      [
+       "Fuel choice",
+       "Petroleum gives more heat for its weight than alcohol, if fully burnt",
+       "Compare fuel weight per litre boiled for your stove and fuel"
+      ],
+      [
+       "Efficiency",
+       "90 to 93 per cent of theoretical heat",
+       "Use a lid, a wind guard and a stable base"
+      ],
+      [
+       "Jobs per flame",
+       "Cook and melt water together",
+       "Heat water first, use it for the meal, then for a drink"
+      ],
+      [
+       "Weight",
+       "8 lb 13 oz cooker, 4½ oz lamp",
+       "Weigh your whole kit and set a limit"
+      ],
+      [
+       "Test",
+       "About 2 litres of porridge and melt in just over half an hour on 50 g",
+       "Run a trial at home and log the fuel used"
+      ]
+     ],
+     "src": "Nansen's column is from his book. The right column is our adaptation. {{nansen-fn}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a fuel plan from his test (our arithmetic)"
+    },
+    {
+     "t": "example",
+     "title": "Planning fuel for two days",
+     "steps": [
+      "His test used 50 g of petroleum for about two litres of porridge plus melted water in a little over half an hour. {{nansen-fn}}",
+      "Suppose you plan two hot sessions a day (breakfast and dinner) for two days, which is four sessions. Treat each as about 50 g, as an assumption, not a measured figure for your stove.",
+      "Four sessions at 50 g is 200 g. Add a 25 percent margin for wind and cold: 200 × 1.25 = 250 g.",
+      "Do your own trial. Weigh the canister before and after a real session and replace his figure with yours.",
+      "If your stove uses 80 g per session, the same plan needs 4 × 80 × 1.25 = 400 g, which is a different canister size."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a one-flame plan"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "List what you need hot: a meal and a drink, or water to wash up.",
+      "Choose a pot with a lid and a stable base, and a wind guard.",
+      "Plan the order: water first, then the meal, then a drink.",
+      "Run a home trial and weigh the fuel before and after. Replace the assumed figure with yours.",
+      "Plan where you will cook, outside or in a ventilated porch the maker allows, never inside a closed tent."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Run a home cooking trial. Weigh the fuel before and after, and work out the fuel for your trip with a 25 percent margin."
+    },
+    {
+     "t": "check",
+     "q": "What did Nansen choose as fuel, and why?",
+     "o": [
+      "Alcohol, because it burns easily",
+      "Petroleum, because it gives more heat for its weight when fully burnt",
+      "Wood, because it is free",
+      "Coal"
+     ],
+     "a": 1,
+     "w": "He chose petroleum for heat per weight. {{nansen-fn}}"
+    },
+    {
+     "t": "check",
+     "q": "What was the cooker's efficiency from Professor Torup's experiments?",
+     "o": [
+      "50 to 60 per cent",
+      "70 to 75 per cent",
+      "90 to 93 per cent",
+      "100 per cent"
+     ],
+     "a": 2,
+     "w": "The experiments gave 90 to 93 per cent of the theoretical heat. {{nansen-fn}}"
+    },
+    {
+     "t": "check",
+     "q": "Why is it wrong to cook inside a closed tent today?",
+     "o": [
+      "It is too slow",
+      "Burning fuel makes carbon monoxide, which can kill",
+      "It wastes fuel",
+      "It melts the tent"
+     ],
+     "a": 1,
+     "w": "Carbon monoxide cannot be seen or smelled and is deadly. This is safety advice from this course, not from Nansen."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Choose a stove from numbers, and test it. {{nansen-fn}}",
+      "One flame can cook, melt and warm. {{nansen-fn}}",
+      "Never cook inside a closed tent."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What did the Nansen cooker let a party do at the same time?",
+    "o": [
+     "Cook food and melt snow for water",
+     "Navigate and sleep",
+     "Pitch and strike a tent",
+     "Sail and ski"
+    ],
+    "a": 0,
+    "w": "It cooked food and melted snow together. {{nansen-fn}} {{lgfl-cooker}}"
+   }
+  },
+  {
+   "key": "camping-basics-5",
+   "name": "Ernest Shackleton",
+   "min": 22,
+   "outcome": "Set a turn-back rule from distance, food and time before you leave, and treat turning back as a decision made on the plan, not on the day.",
+   "intro": "Ernest Shackleton turned back 97 geographical miles from the South Pole in 1909. His account and the record of the expedition show the sums behind that decision and the habit of asking those who know the ground first.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read the preface and the opening of his own book South (1919), and Wikipedia and Britannica on the Nimrod expedition. The turn-back facts come from Wikipedia and his preface, so the record is partial. {{shack-south}} {{wiki-nimrod}} {{brit-shack}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Ask those who know the ground before you decide the route. In South he describes consulting the whaling captains at South Georgia about the ice, and he says their advice was worth attention and shaped his decision to steer for the South Sandwich group before pushing south. {{shack-south}}",
+      "Depot supplies for the return and count what you carry. On the Nimrod march, by late December the party carried about a month of food, having stored the rest in depots for the return. {{wiki-nimrod}}",
+      "Do the sum honestly. They could not cover the remaining distance and back on that amount. {{wiki-nimrod}}",
+      "Decide on the plan, not the feeling. On 4 January 1909 Shackleton accepted that the Pole was beyond them and revised the goal. {{wiki-nimrod}}",
+      "Turn back with margin. The march ended on 9 January, 97 geographical miles from the Pole. In South he writes that they were beaten by stress of circumstances within ninety-seven miles of their goal. {{wiki-nimrod}} {{shack-south}}",
+      "Judge the result by the return. Britannica records that he turned back because supplies were running out, and that later, after the Endurance was lost, not one of the crew died. {{brit-shack}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Wikipedia's account of the Nimrod march is a secondary source. The preface to South is Shackleton's own statement of the 97-mile figure. We did not read the diary accounts of the march. {{wiki-nimrod}} {{shack-south}}"
+    },
+    {
+     "t": "table",
+     "title": "The turn-back sum and your day walk (the right column is our adaptation)",
+     "head": [
+      "Quantity",
+      "Shackleton's case",
+      "Your case"
+     ],
+     "rows": [
+      [
+       "Food in hand",
+       "About a month, with the rest in depots",
+       "Food and water for the day, plus a margin"
+      ],
+      [
+       "Distance remaining",
+       "97 geographical miles to the Pole",
+       "Distance to the camp or summit and back"
+      ],
+      [
+       "The decision",
+       "Taken on 4 January, days before the turn",
+       "Fixed before you leave: a clock time"
+      ],
+      [
+       "Outcome",
+       "Everyone returned",
+       "You can try again another day"
+      ]
+     ],
+     "src": "The Shackleton column follows the sources. The right column is our adaptation. {{wiki-nimrod}} {{shack-south}} {{brit-shack}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a turn-back time from a distance sum (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "A day walk to a camp in rough country",
+     "steps": [
+      "The camp is 8 km away and you need to be back by dark at 18:00. Your pace in rough country is 2.4 km per hour (Kephart's 1.5 miles). {{kephart-wc}}",
+      "Out and back is 16 km. At 2.4 km per hour that is 16 ÷ 2.4 = 6.7 hours of walking, plus 1 hour of stops, so 7.7 hours.",
+      "To be back at 18:00 you must start no later than 18:00 − 7.7 h = 10:18. A clock turn-back time, for example 14:00 at the latest, protects the return.",
+      "If you reach a point where the time already used plus the time back passes your turn-back, you turn back, even if the camp is in sight. That is a decision made on the plan.",
+      "The numbers are illustrative. Use your own pace and the daylight for the date."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: write the turn-back rule"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the distance out and back, and your pace for the terrain from a tested trip.",
+      "Add stops, then work out the latest start time and the turn-back time.",
+      "Add a weather limit, such as a wind or visibility figure from the forecast, that also means turn back.",
+      "Tell someone the plan and the turn-back time.",
+      "On the day, apply the rule without bargaining. After the trip, check whether the limits were right."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write a turn-back rule for a day trip, with a clock time and a weather limit, and give it to someone before you go."
+    },
+    {
+     "t": "check",
+     "q": "How close did Shackleton's party get to the South Pole before turning back in 1909?",
+     "o": [
+      "About 9 miles",
+      "97 geographical miles",
+      "500 miles",
+      "They reached it"
+     ],
+     "a": 1,
+     "w": "The march ended 97 geographical miles from the Pole. {{wiki-nimrod}} {{shack-south}}"
+    },
+    {
+     "t": "check",
+     "q": "Whom did Shackleton consult about the ice before choosing his route in South?",
+     "o": [
+      "Whaling captains at South Georgia",
+      "Nobody",
+      "The King",
+      "Tourists"
+     ],
+     "a": 0,
+     "w": "He took advice from the whaling captains. {{shack-south}}"
+    },
+    {
+     "t": "check",
+     "q": "Why set the turn-back time before you leave?",
+     "o": [
+      "To look careful",
+      "A decision made on the plan is not changed by the pull of the goal",
+      "It saves time",
+      "It is legally required"
+     ],
+     "a": 1,
+     "w": "The rule fixes the decision when your judgement is clearest (our reasoning)."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Ask those who know the ground first. {{shack-south}}",
+      "Fix the turn-back time and the weather limit before you leave.",
+      "A successful turn-back is a success, not a failure. {{brit-shack}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "How close did Shackleton's party get to the South Pole before turning back in 1909?",
+    "o": [
+     "About 9 miles",
+     "97 geographical miles",
+     "500 miles",
+     "They reached it"
+    ],
+    "a": 1,
+    "w": "They reached 97 geographical miles from the Pole. {{wiki-nimrod}} {{shack-south}}"
+   }
+  },
+  {
+   "key": "camping-basics-6",
+   "name": "Florence Nightingale",
+   "min": 22,
+   "outcome": "Observe and record a patient or companion with facts, check the basic conditions of air, warmth, light and quiet, and report accurately when you call for help.",
+   "intro": "Florence Nightingale wrote that disease is often hindered recovery from a want of basic conditions, and that careful observation matters more than a glance. Her method suits first aid and the call for help.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "Florence Nightingale published Notes on Nursing in 1859. We read parts of its full text, including its opening on air and on what causes disease, its chapter on variety, and its passages on observation. The record is rich for these topics. {{nightingale}}"
+    },
+    {
+     "t": "p",
+     "x": "She wrote for nurses in homes and hospitals, not for hikers. We adapt her method to first aid in the outdoors, and the adaptation is ours. {{nightingale}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Name what is missing before you name the disease. She wrote that when a patient is cold, feverish or faint, the cause is often a want of fresh air, light, warmth, quiet, cleanliness, or punctuality and care in diet, and that disease is a reparative process hindered by such wants. {{nightingale}}",
+      "Make air the first check. The very first canon of nursing, she says, is to keep the air the patient breathes as pure as the external air without chilling him. {{nightingale}}",
+      "Observe for a purpose. The most important practical lesson, she says, is to teach nurses what to observe, how to observe, what shows improvement and what the reverse. Observation is not for piling up facts but for saving life and increasing health and comfort, and she says what is wanted is facts, not opinions. {{nightingale}}",
+      "Do not judge by a glance. She warned that far more untruth than truth is conveyed by repeated words that someone looks well or ill. {{nightingale}}",
+      "Give variety and relief. In her chapter on variety she says the nerves of the sick suffer from seeing the same walls and ceiling for a long time. {{nightingale}}",
+      "Make the arrangements work when you are not there. She advises arranging that what you do when you are there is done when you are not there. {{nightingale}}"
+     ]
+    },
+    {
+     "t": "table",
+     "title": "Nightingale's list of wants and the camp equivalent (the right column is our adaptation)",
+     "head": [
+      "Her list",
+      "In a camp or on a walk",
+      "What to do"
+     ],
+     "rows": [
+      [
+       "Fresh air",
+       "A closed tent full of breath and fumes",
+       "Ventilate; never run a stove in a closed tent"
+      ],
+      [
+       "Warmth",
+       "Cold, wet clothes",
+       "Add dry layers, insulate from the ground, hot drink"
+      ],
+      [
+       "Light",
+       "Dark, lost, unable to see the problem",
+       "Use a head torch and check the person's face and hands"
+      ],
+      [
+       "Quiet",
+       "Panic and noise around the patient",
+       "One person talks to them, calmly"
+      ],
+      [
+       "Cleanliness",
+       "Dirty wounds and hands",
+       "Clean hands, clean dressings"
+      ],
+      [
+       "Punctuality and diet",
+       "Missed food and drink",
+       "Plan sips and snacks at set times"
+      ]
+     ],
+     "src": "Her list is from the book. The middle and right columns are our adaptation. {{nightingale}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: a record you could read out on the phone (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Recording facts, not glances",
+     "steps": [
+      "At 14:05 you find a walker, aged about 50, sitting and shivering. At 14:10 you note: conscious, answers questions slowly, shivering, skin cold and damp, wet clothes, no injury seen. {{nightingale}}",
+      "You note what you have done: dry layer, insulation under them, hot drink given at 14:15. You write the time of each action.",
+      "At 14:30 you note: still shivering, speech clearer. That is improvement. If it were worse, you would write that too.",
+      "You call for help and say, in order: where you are (grid reference), who, what you saw, what you did, how it has changed. Facts first, opinions last.",
+      "Leave a written note of the plan if someone must stay behind, so it works when you are not there. {{nightingale}}"
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: a first-aid record"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Carry a small notebook and pencil.",
+      "Practise writing the time, what you see, what you did and what changed.",
+      "Check the six wants before you worry about a diagnosis.",
+      "Practise a call: where, who, what, what you did, how it has changed.",
+      "Learn proper first aid from a qualified course. This lesson is about observation and reporting, not treatment."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Practise recording a mock casualty with times and facts, then read the record aloud as a call for help."
+    },
+    {
+     "t": "check",
+     "q": "What was Nightingale's first canon of nursing?",
+     "o": [
+      "Give medicine early",
+      "Keep the patient's air as pure as outside air without chilling",
+      "Keep windows shut",
+      "Keep the patient busy"
+     ],
+     "a": 1,
+     "w": "She says to keep the air the patient breathes as pure as the external air without chilling him. {{nightingale}}"
+    },
+    {
+     "t": "check",
+     "q": "According to Nightingale, what is observation for?",
+     "o": [
+      "Piling up facts",
+      "Saving life and increasing health and comfort",
+      "Passing exams",
+      "Entertainment"
+     ],
+     "a": 1,
+     "w": "She says observation is not for piling up facts but for saving life and increasing health and comfort. {{nightingale}}"
+    },
+    {
+     "t": "check",
+     "q": "Why write times and facts rather than impressions?",
+     "o": [
+      "To look professional",
+      "A glance can mislead, and times show whether things are getting better or worse",
+      "It is a legal rule",
+      "It avoids using a phone"
+     ],
+     "a": 1,
+     "w": "She warned against judging by a glance. {{nightingale}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Check the basic conditions first. {{nightingale}}",
+      "Observe for a purpose, and write facts with times. {{nightingale}}",
+      "Learn first aid from a qualified course; this is not a substitute."
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "What was Nightingale's first canon of nursing?",
+    "o": [
+     "Give medicine early",
+     "Keep the patient's air as pure as outside air without chilling",
+     "Keep windows shut",
+     "Keep the patient busy"
+    ],
+    "a": 1,
+    "w": "It was fresh air without chilling. {{nightingale}}"
+   }
+  },
+  {
+   "key": "camping-basics-cap",
+   "name": "Ernest Shackleton",
+   "min": 22,
+   "outcome": "Plan a first camp with margins, roles and a turn-back rule, then review what went to plan and what did not.",
+   "intro": "Ernest Shackleton planned a great expedition in months, took local advice, and then led his crew home when the plan failed. His record is a model for a plan with margins and a review.",
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The record behind this lesson"
+    },
+    {
+     "t": "p",
+     "x": "We read his preface and opening chapter in South and secondary pages from Britannica and Wikipedia. The record is partial. {{shack-south}} {{brit-shack}} {{wiki-nimrod}}"
+    },
+    {
+     "t": "h",
+     "x": "His method, step by step"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Present the plan and get it challenged. Shackleton presented his plans for the Nimrod expedition to the Royal Geographical Society in February 1907. {{wiki-nimrod}}",
+      "Budget the time to prepare. He then had about six months to raise money, equip a ship and recruit the party. {{wiki-nimrod}}",
+      "Take local knowledge. For the Endurance voyage he consulted the whaling captains about the ice and weighed their advice in choosing the route. {{shack-south}}",
+      "Fix the goal and revise it when the sums say so. On the Nimrod march he accepted on 4 January that the Pole was beyond them. {{wiki-nimrod}}",
+      "When the plan fails, protect the people. The Endurance was trapped in the ice and crushed, the crew camped on the ice and reached Elephant Island by boat, and Shackleton and five others sailed to South Georgia to bring help. Not one of the crew died. {{brit-shack}}",
+      "Take the leadership seriously. In South he writes that a leader is helped greatly if there is no uncertainty in the minds of those who follow. {{shack-south}}"
+     ]
+    },
+    {
+     "t": "table",
+     "title": "A camp plan with margins (the right column is our adaptation)",
+     "head": [
+      "Part of the plan",
+      "Shackleton's habit",
+      "Your plan"
+     ],
+     "rows": [
+      [
+       "Review by others",
+       "Presented to the Royal Geographical Society",
+       "Share the plan with someone experienced"
+      ],
+      [
+       "Preparation time",
+       "About six months",
+       "Start weeks ahead, not the night before"
+      ],
+      [
+       "Local knowledge",
+       "Whaling captains",
+       "Ask the landowner, warden or local walkers"
+      ],
+      [
+       "Margins",
+       "Depots for the return",
+       "Spare food, a spare layer, time before dark"
+      ],
+      [
+       "Roles",
+       "Clear lines of leadership",
+       "Navigator, cook and time-keeper"
+      ],
+      [
+       "Review",
+       "The record in South",
+       "A written review within a day"
+      ]
+     ],
+     "src": "The Shackleton column follows the sources. The right column is our adaptation. {{wiki-nimrod}} {{shack-south}}"
+    },
+    {
+     "t": "h",
+     "x": "Worked example: margins in numbers (illustrative)"
+    },
+    {
+     "t": "example",
+     "title": "Planning margins for a first camp",
+     "steps": [
+      "Plan the meals for 2 days and 1 night: 6 meals. Add one spare day's food, which is 3 meals, so you carry 9. That is a 50 percent margin on food.",
+      "Plan the walk at 2.4 km per hour for 12 km, which is 5 hours. Add 30 percent for rough ground and mistakes: 6.5 hours. {{kephart-wc}}",
+      "Daylight ends at 18:00, so you must start by 11:00 and turn back at 14:00 at the latest.",
+      "Add one spare layer and one more hot drink. Write the numbers on the plan sheet and leave a copy with someone.",
+      "After the trip write three things to keep and three to change."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Apply it: the plan and the review"
+    },
+    {
+     "t": "ol",
+     "i": [
+      "Write the plan: route, pitch, meals, turn-back rule, contacts.",
+      "Add margins for food, clothing and time, and write them as numbers.",
+      "Assign roles. If you are alone, you hold all three roles, so write the checks for each.",
+      "Run the trip. Note what went to plan and what did not.",
+      "Write the review within a day: three things to keep, three to change."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Write the plan with margins and a turn-back rule, run a short trip, and write your review."
+    },
+    {
+     "t": "check",
+     "q": "Which habit does the capstone borrow from Shackleton?",
+     "o": [
+      "Skipping the review",
+      "Planning with margins and clear roles",
+      "Camping alone only",
+      "Leaving without a plan"
+     ],
+     "a": 1,
+     "w": "He planned with depots, advice and clear leadership. {{wiki-nimrod}} {{shack-south}}"
+    },
+    {
+     "t": "check",
+     "q": "What did Shackleton do before choosing his Weddell Sea route?",
+     "o": [
+      "Ignored advice",
+      "Consulted the whaling captains",
+      "Asked tourists",
+      "Flipped a coin"
+     ],
+     "a": 1,
+     "w": "He took advice from the whaling captains. {{shack-south}}"
+    },
+    {
+     "t": "check",
+     "q": "Why write a review within a day?",
+     "o": [
+      "To impress others",
+      "The details are fresh and you can change the next plan",
+      "It is required",
+      "It saves money"
+     ],
+     "a": 1,
+     "w": "A review is how the next plan improves (our reasoning)."
+    },
+    {
+     "t": "take",
+     "i": [
+      "Plan with margins in numbers, and share the plan.",
+      "Ask local people. {{shack-south}}",
+      "When a plan fails, protect people first, then learn. {{brit-shack}}"
+     ]
+    }
+   ],
+   "quiz": {
+    "q": "Which habit does the capstone borrow from Shackleton?",
+    "o": [
+     "Skipping the review",
+     "Planning with margins and clear roles",
+     "Camping alone only",
+     "Leaving without a plan"
+    ],
+    "a": 1,
+    "w": "He planned with depots, advice and clear leadership. {{wiki-nimrod}} {{shack-south}}"
+   }
+  }
+ ]
+}

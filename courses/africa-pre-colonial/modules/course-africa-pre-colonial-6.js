@@ -517,6 +517,135 @@
   },
   {
    "id": "l6",
+   "title": "What the supplied books add to the coast, the lakes and Kongo",
+   "min": 26,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "For this module Reader gives the richest new material, with Rodney agreeing on the Great Lakes and Kongo. The tables below show what each adds and where to be careful."
+    },
+    {
+     "t": "h",
+     "x": "The Swahili coast before and after the Portuguese"
+    },
+    {
+     "t": "p",
+     "x": "Reader says the first-century Periplus devotes about 450 of its 7,000 words to the coast beyond the Horn, names Rhapta (not yet located), and shows Roman trade with India and Arabia far larger than with East Africa; no Roman coin has been found there. That coast trade was small and Arabian-led. {{rd-per}} Vasco da Gama in 1498 found Mocambique, Mombasa and Malindi to be Muslim towns whose merchants wore silk-bordered cottons, and he took the Arab pilot Ahmad ibn Majid on board for the crossing to India. {{rd-eth}} Portuguese cannon took Zanzibar in 1503 and Mombasa and Kilwa in 1505, helped by rivalry among the towns. {{rd-cont}} Reader also mentions Chinese fleets and a giraffe sent to China in 1415, which sits with the lesson's [PROBABLE] note on Zheng He. {{rd-lag}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Da Gama's journal is a hostile-contact source: the Portuguese were poor in goods, offended hosts with their gifts, and then used force. It is evidence of the towns' wealth, written by people with a motive to find them weak. {{rd-eth}}"
+    },
+    {
+     "t": "h",
+     "x": "The Great Lakes: dates, ditches and a myth"
+    },
+    {
+     "t": "p",
+     "x": "Reader dates Ntusi to the 11th to 14th or 15th century, with hundreds to thousands of people, cattle bones and smelting, and Bigo's ditches, more than ten kilometres long and cut up to five metres into bedrock around about 300 hectares, to the 13th to 16th centuries, as a cattle refuge. {{rd-lakes}} Rodney also describes Bigo's earthworks and treats the Bachwezi as a product of African synthesis. {{rod-pre}} Both reject the Hamitic myth, which held that lighter-skinned Ethiopian conquerors built these states. Reader quotes Speke's theory of conquest of inferior by superior races and says no Cushitic substratum is found, one Bantu language runs through the region, and Tutsi and Hutu speak the same Bantu language. {{rd-lakes}} Rodney adds that even Ethiopian origins would make the Bachwezi black or brown Africans. {{rod-trade}}"
+    },
+    {
+     "t": "p",
+     "x": "Woodson's Kintu and Nambi tale gives Buganda its own explanation of death and the first man. It is a myth, not evidence for dating Buganda's kings. {{wood-tales}}"
+    },
+    {
+     "t": "h",
+     "x": "Kongo: a king, a letter and a reply"
+    },
+    {
+     "t": "table",
+     "title": "What Reader and Rodney add on Kongo",
+     "head": [
+      "Point",
+      "Reader",
+      "Rodney"
+     ],
+     "rows": [
+      [
+       "The ruler",
+       "Nzinga Mbemba was baptised Afonso in 1491 and ruled from 1506 to 1543; he welcomed missionaries and sent young nobles to Portugal. {{rd-kongo}}",
+       "Afonso asked for masons, priests, clerks and doctors and was swamped by slave ships. {{rod-trade}}"
+      ],
+      [
+       "Language and religion",
+       "A Kikongo catechism of 1555 was the first printed transcription of a Bantu language; Christianity took on a Kongo character. {{rd-kongo}}",
+       "Not covered."
+      ],
+      [
+       "The letter",
+       "Afonso complained that his own people, even nobles, were being seized and sold, and asked that no trade in slaves exist; Portugal replied that Kongo had nothing else to sell. {{rd-kongo}}",
+       "Rodney's phrasing that trade 'forced him to specialise' is an interpretation; Afonso also took part in the trade."
+      ],
+      [
+       "Decline",
+       "About 5,000 soldiers including 500 mercenary musketeers; provincial revolt and a shift of Portuguese buying to Angola after the early eighteenth century. {{rd-after}}",
+       "Not covered."
+      ]
+     ],
+     "src": "{{rd-kongo}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Reader writes of a Kongo capital that fell from five thousand people to one hundred between 1774 and the 1790s during drought and slave exports. That is one chapter's reading of Portuguese records. {{rd-clim}}"
+    },
+    {
+     "t": "h",
+     "x": "Diop's Nile origin of peoples"
+    },
+    {
+     "t": "p",
+     "x": "Diop traces the Yoruba, Serer and Peul to the Nile by matching names. {{dio-egypt}} For the Bantu-speaking lakes and Kongo the linguistic and archaeological case points to origins in the Cameroon and Nigeria borderland, which Reader confirms. {{rd-bantu}} Where they differ, trust the Bantu evidence and treat Diop's model as a hypothesis. [CONTESTED]"
+    },
+    {
+     "t": "check",
+     "q": "What does Reader say about Tutsi and Hutu languages?",
+     "o": [
+      "They are Cushitic",
+      "Both speak the same Bantu language, against the conquest myth",
+      "They speak Arabic",
+      "They have no language"
+     ],
+     "a": 1,
+     "w": "This undercuts Speke's theory of conquering races. {{rd-lakes}}"
+    },
+    {
+     "t": "check",
+     "q": "What was Portugal's reply to Afonso's 1526 complaint about slaving?",
+     "o": [
+      "It ended the trade",
+      "Kongo had nothing else to sell",
+      "It sent a fleet",
+      "It offered gold"
+     ],
+     "a": 1,
+     "w": "Reader summarises the reply. {{rd-kongo}}"
+    },
+    {
+     "t": "check",
+     "q": "Why must da Gama's account of Swahili towns be read with care?",
+     "o": [
+      "It was written by a Swahili merchant",
+      "It was written by hostile newcomers who were poor in trade goods",
+      "It is lost",
+      "It is a legend"
+     ],
+     "a": 1,
+     "w": "The Roteiro records insults and force as well as wealth. {{rd-eth}}"
+    },
+    {
+     "t": "take",
+     "i": [
+      "The Swahili towns were wealthy and divided when the Portuguese came. {{rd-eth}}",
+      "The Hamitic myth fails on language evidence. {{rd-lakes}}",
+      "Afonso asked for the slave trade to end, and was refused. {{rd-kongo}}"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l7",
    "title": "The lecturer's method: Ibn Battuta",
    "min": 22,
    "blocks": [
