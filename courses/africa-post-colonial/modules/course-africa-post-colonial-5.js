@@ -29,6 +29,14 @@
      "x": "The Union of South Africa (1910) was a white-ruled state. The Natives Land Act of 1913 stopped Africans buying land outside scheduled reserves, which covered about 7 per cent of the country. The Native Trust and Land Act of 1936 raised African-held and trust land to 13.7 per cent. The body founded at Bloemfontein in 1912 was the South African Native National Congress, and it took the name African National Congress in 1925. {{w-black}} {{lib}}"
     },
     {
+     "t": "p",
+     "x": "The Truth and Reconciliation Commission's historical chapter agrees on the land figures: the 1913 Act confined Africans to reserves of about 7 per cent of the land, and at least 3.5 million black South Africans were later forcibly removed. It stresses that apartheid was not the first racially discriminatory system and the National Party government was not the first to shoot protesters. The Rand strike of 07/1913 left just over 100 dead, the troops at Bulhoek in 1921 killed 183, and the Bondelswarts people were bombed from the air in 1922, with about 100 killed. The Commission still holds that the system built from 1948 was different in kind, because it set out to segregate every part of life. {{trc-vol1}}"
+    },
+    {
+     "t": "p",
+     "x": "The Commission's mandate covered only gross violations (killing, abduction, torture and severe ill-treatment), and about 21,300 people made statements. The pass laws, removals and Bantu Education fell outside that definition, so the TRC record is a narrow slice of apartheid's harm and not a count of it. The report counts the Sharpeville dead as 69 and calls them ordinary people protesting against the pass. It says the law was a veneer, that the State Security Council eclipsed the Cabinet in the 1980s, and that the evidence drew it to the finding that the state sanctioned murder. {{trc-vol1}}"
+    },
+    {
      "t": "h",
      "x": "Roots: why 1948 was not a bolt from nowhere"
     },
@@ -237,7 +245,7 @@
     },
     {
      "t": "p",
-     "x": "The Pan Africanist Congress called a protest against pass laws. Police opened fire on a crowd, and Welsh reports that 52 of the dead were allegedly shot in the back. The government banned the ANC and PAC. The ANC formed an armed wing, Umkhonto we Sizwe, on 16/12/1961. {{lib}}"
+     "x": "The Pan Africanist Congress called a protest against pass laws. Police opened fire on a crowd, and Welsh reports that 52 of the dead were allegedly shot in the back. The government banned the ANC and PAC. Umkhonto we Sizwe was formed in 11/1961, on Mandela's own account, and announced itself with attacks on government buildings in Johannesburg, Port Elizabeth and Durban and a Manifesto on 16/12/1961. {{mandela-dock}} {{lib}}"
     },
     {
      "t": "p",
@@ -403,6 +411,49 @@
     {
      "t": "p",
      "x": "The Truth and Reconciliation Commission (1996 to 1998, chaired by Desmond Tutu, final volumes in 2003) took testimony in exchange for amnesty. It is not a court. {{lib}}"
+    },
+    {
+     "t": "table",
+     "title": "What the TRC's findings volume says (1998)",
+     "head": [
+      "Actor",
+      "Finding"
+     ],
+     "rows": [
+      [
+       "The former state",
+       "Predominant portion of gross violations; from 1978 it planned and covered up extra-judicial killings; apartheid a crime against humanity"
+      ],
+      [
+       "State Security Council",
+       "Its words 'eliminate' and 'wipe out' were foreseen to mean killing by the president, defence and law-and-order ministers and security chiefs"
+      ],
+      [
+       "Inkatha Freedom Party",
+       "Primary non-state perpetrator, over one third of all reported violations, in collusion with the state"
+      ],
+      [
+       "ANC and MK",
+       "Gross violations (landmines, Church Street, exile-camp torture and executions, self-defence units), but not a policy of targeting civilians"
+      ],
+      [
+       "PAC, Poqo and APLA",
+       "Deliberately targeted civilians, including white farmers"
+      ],
+      [
+       "UDF",
+       "Language and 'necklacing' created a climate for violations"
+      ],
+      [
+       "Civil society",
+       "Media, judiciary, churches, business and health found complicit mainly by omission"
+      ]
+     ],
+     "src": "{{trc-vol5}}"
+    },
+    {
+     "t": "p",
+     "x": "The Commission says it used a balance of probabilities, that its conclusions are findings and not verdicts, and that no major role-player emerges unscathed. It also says responsibility was not equal, because the state was held to a higher standard than voluntary groups and the preponderance rested with the state and its allies. It lists its own gaps, among them the 1990s violence, Venda, Lebowa and Bophuthatswana, and civil society beyond the sectors it heard. The Commission adds that most of the region's gross violations fell on neighbouring states, so its South African focus is something of a distortion. {{trc-vol5}}"
     },
     {
      "t": "p",
@@ -640,6 +691,37 @@
      "src": "{{lib}}"
     },
     {
+     "t": "p",
+     "x": "Read the statement itself. Mandela says he planned sabotage after a calm assessment, that Umkhonto chose sabotage over guerrilla war, terrorism or open revolution, and that the ANC stayed non-violent and only agreed not to discipline members who joined 'properly controlled violence'. He denies the ANC is communist, says he never joined the Communist Party, and that the Freedom Charter is not a blueprint for a socialist state, though it nationalises mines, banks and monopoly industry. He quotes Sharpeville's 69 dead. {{mandela-dock}}"
+    },
+    {
+     "t": "table",
+     "title": "Figures Mandela quoted in 1964 (his sources, not ours)",
+     "head": [
+      "Item",
+      "Figure"
+     ],
+     "rows": [
+      [
+       "Per-head state spending on pupils, 1960 to 1961",
+       "12.46 rand African against 144.57 rand white in the Cape"
+      ],
+      [
+       "African pupils passing in 1962",
+       "5,660 Junior Certificate and 362 matric"
+      ],
+      [
+       "Johannesburg poverty datum line",
+       "42.84 rand a month against an average wage of 32.24; 46 per cent of African families below it"
+      ],
+      [
+       "New tuberculosis cases, 1961",
+       "58,491"
+      ]
+     ],
+     "src": "{{mandela-dock}}"
+    },
+    {
      "t": "table",
      "title": "Two more primary documents of 1989",
      "head": [
@@ -664,6 +746,10 @@
     {
      "t": "p",
      "x": "The TRC is also a source with a perspective. Welsh notes that none of its 15 commissioners in 1998 came from National Party or IFP backgrounds, and that de Klerk obtained a court order removing a finding about him from the report in 1998. Welsh thinks it underplayed the UDF's ungovernability campaign. Present both views and label them as Welsh's assessment. {{w-pandora}} {{w-resist}}"
+    },
+    {
+     "t": "p",
+     "x": "Two checks against the TRC's own volume 5. It lists 15 commissioners, with Wynand Malan's name starred as 'subject to minority position'; this text does not say what party backgrounds they had, so the claim about National Party and IFP backgrounds rests on Welsh alone [check current]. The copy we hold prints the finding that de Klerk knew of the Khotso House bombing authorisation and was an accessory by non-disclosure, so it may be a later text than the 1998 one from which Welsh says a finding was removed; check which edition you are quoting. {{trc-vol5}}"
     },
     {
      "t": "p",

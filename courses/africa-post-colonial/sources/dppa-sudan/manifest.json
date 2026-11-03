@@ -1,0 +1,28 @@
+{
+  "key": "dppa-sudan",
+  "title": "Sudan war: peace efforts resume to end 'drone war' (UN DPPA, 21/10/2026)",
+  "author": "UN Department of Political and Peacebuilding Affairs",
+  "file": "dppa-sudan.txt",
+  "format": "txt",
+  "sha256": "166ae572463744163d62fa17378791723fe9708b2673c04ee5cd6d8ffa521285",
+  "words": 663,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "UN DPPA, Sudan: war, peace efforts resume to end drone war fuelling humanitarian crisis (d",
+      "words": 663
+    }
+  ],
+  "warnings": [],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "dppa-sudan.txt",
+    "found_by": "source-discovery",
+    "url": "https://dppa.un.org/en/news/sudan-war-peace-efforts-resume-to-end-drone-war-fuelling-humanitarian-crisis",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.306,
+    "odd_character_share": 0.009
+  }
+}

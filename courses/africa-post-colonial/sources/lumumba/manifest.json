@@ -1,0 +1,28 @@
+{
+  "key": "lumumba",
+  "title": "Speech at the proclamation of the Congo's independence, 30/06/1960",
+  "author": "Patrice Lumumba",
+  "file": "lumumba.txt",
+  "format": "txt",
+  "sha256": "fb510172d2a61dda25fed79252e2267da4d03f52a9439bd6442de6cced0bd038",
+  "words": 1163,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "Lumumba, speech at the proclamation of independence, 30/06/1960 (Marxists Internet Archive",
+      "words": 1163
+    }
+  ],
+  "warnings": [],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "lumumba.txt",
+    "found_by": "source-discovery",
+    "url": "https://www.marxists.org/subject/africa/lumumba/1960/06/independence.htm",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.365,
+    "odd_character_share": 0.003
+  }
+}

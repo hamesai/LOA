@@ -592,6 +592,14 @@
      "x": "Ethiopia in the age of Portuguese contact"
     },
     {
+     "t": "h",
+     "x": "The Kebra Nagast read directly"
+    },
+    {
+     "t": "p",
+     "x": "Budge's 1932 translation shows what kind of text the Solomonic legend is. The Queen of the South is made Ethiopian, a ruler with ships, caravans and a merchant, Tamrin, who reports on Solomon. She converts from sun worship, bears Solomon's son, who is anointed king in Jerusalem and returns with the Ark, and the nobles swear that only his male line shall rule. {{kebra-nagast}} The compiler adds Christian commentary, polemic against Rome's heresies and harsh language about Jews, and claims the book was approved by a council of bishops and found in a Constantinople church. {{kebra-nagast}} Its closing colophon says a translator named Isaac turned it into Ge'ez and that it was not translated earlier because it declares non-Israelite kings transgressors, an open attack on the Zagwe. {{kebra-nagast}} The names Kaleb and Justin show that real Aksumite history was folded in, but the book is a later compilation and carries no firm date. Teach it as a legitimising text, not as a record of the tenth century BCE. [CONTESTED]"
+    },
+    {
      "t": "p",
      "x": "Reader gives Ethiopia as Africa's oldest continuous state and shows it as an active diplomat. Thirty Ethiopian envoys reached Genoa on their way home from Avignon and Rome in 1306. {{rd-eth}} The Portuguese priest Francisco Alvares travelled in Ethiopia from 1520 to 1526 and found no town above 1,600 households, repeated locust famines, and a king asking for European craftsmen. {{rd-cont}}"
     },

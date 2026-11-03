@@ -1,0 +1,48 @@
+{
+  "key": "casement",
+  "title": "Casement Report on the Congo Free State (Africa No. 1 and 7, 1904)",
+  "author": "Roger Casement; UK Parliament",
+  "file": "casement.md",
+  "format": "md",
+  "sha256": "86be59625fb5146f51c2ca7f75bfe535ceee552d8ccbbf936af8822a18f7aa76",
+  "words": 128926,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "Casement Report on the Congo (Africa No. 1 and 7, 1904), archive.org djvu text",
+      "words": 16329
+    },
+    {
+      "file": "ch-002.txt",
+      "title": "Part 2: Casement report to Lord Lansdowne, 11/12/1903",
+      "words": 33766
+    },
+    {
+      "file": "ch-003.txt",
+      "title": "Part 3: inclosures to the report (depositions and papers)",
+      "words": 23232
+    },
+    {
+      "file": "ch-004.txt",
+      "title": "Part 4: Foreign Office replies and the Congo State note (Africa No. 1)",
+      "words": 1411
+    },
+    {
+      "file": "ch-005.txt",
+      "title": "Part 5: Africa No. 7 (1904), Congo Free State reply and annexes",
+      "words": 54188
+    }
+  ],
+  "warnings": [],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "casement.md",
+    "found_by": "source-discovery",
+    "url": "https://archive.org/stream/casement-report/Casement%20report_djvu.txt",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.354,
+    "odd_character_share": 0.008
+  }
+}

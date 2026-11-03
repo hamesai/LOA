@@ -1,0 +1,35 @@
+{
+ "key": "chirikure",
+ "title": "Chirikure et al., Zimbabwe Culture before Mapungubwe, PLOS ONE 2014",
+ "author": "",
+ "file": "chirikure-plos-2014.pdf",
+ "format": "pdf",
+ "sha256": "7a93aac2cadffbee48773a1f9ed36a53faeb8a133b49f1fc539f5bd5eef25bef",
+ "words": 11220,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 18",
+   "words": 11220,
+   "pages": [
+    1,
+    18
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks",
+  "text quality looks poor (30% common English words, 2.1% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-02",
+  "source_file": "chirikure-plos-2014.pdf",
+  "found_by": "source-discovery",
+  "url": "https://doi.org/10.1371/journal.pone.0111224",
+  "query": "Source Discovery, 01/11/2026"
+ },
+ "text_quality": {
+  "common_word_share": 0.302,
+  "odd_character_share": 0.021
+ }
+}

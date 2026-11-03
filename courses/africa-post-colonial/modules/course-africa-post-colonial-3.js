@@ -360,7 +360,19 @@
     },
     {
      "t": "p",
-     "x": "The principles were sovereign equality, non-interference in internal affairs, respect for existing borders, peaceful settlement of disputes and support for the liberation of dependent territories. {{lib}}"
+     "x": "The UNESCO General History helps with the count. It says thirty states were represented at the conference that opened on 23/05/1963 and signed the Charter on 25/05/1963. Togo was not admitted after the assassination of President Olympio, and Morocco refused the invitation; both signed later. Thirty plus those two gives 32 (our arithmetic), and this text does not account for a 33rd. It also calls Manchester in 1945 the Fifth Pan-African Congress, which supports the course against Reader's 'sixth'. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "The same chapter says the OAU set up an African Liberation Committee of nine states with its base in Dar es Salaam and a Special Fund from voluntary contributions, and declared 25 May African Liberation Day. It lists seven principles in the Charter, among them respect for the territorial integrity of every state and its right to an independent existence. This is wording about each state's territory and not a pledge to keep the colonial borders. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Article III of the Charter lists seven principles: sovereign equality, non-interference in internal affairs, respect for the sovereignty and territorial integrity of each state, peaceful settlement of disputes, condemnation of political assassination and of subversion by neighbouring states, dedication to the emancipation of dependent territories, and non-alignment. The Charter itself does not say 'existing borders'; that pledge is not in this text. {{oau-charter}} The border pledge comes from the Cairo resolution of 1964 (our note, from the library). {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "The Charter's preamble promises to fight neocolonialism in all its forms and a larger unity beyond ethnic and national differences. It names four principal institutions (Assembly, Council of Ministers, General Secretariat and a Commission of Mediation, Conciliation and Arbitration) and caps any member's budget share at 20 per cent. The Liberation Committee is not in the Charter text, so it came from a later resolution. It closes 'Done in the City of Addis Ababa, Ethiopia, 25th day of May, 1963'. {{oau-charter}}"
     },
     {
      "t": "p",
@@ -570,6 +582,70 @@
     {
      "t": "activity",
      "x": "Take a quotation you have seen online. Run the four tests on it and write one line for each: provenance, language, internal logic, corroboration."
+    },
+    {
+     "t": "h",
+     "x": "A documented record of racial terror: Ralph Ginzburg's 100 Years of Lynchings"
+    },
+    {
+     "t": "p",
+     "x": "For a record that is real, dated and sourced, read Ginzburg's compilation of American newspaper reports on lynchings from 1880 to 1960. Each item gives the newspaper, a place and a date, and often a contradicting report: for example the burning at Newnan, Georgia, on 23/04/1899 and the Waco, Texas, case of 15/05/1916 are each reported in several papers. Ginzburg says some reports are verbatim and others are rewritten, so it is a compilation, not a transcript. {{gz-press}} The book was published in 1962, during the Civil War centennial (our note). This lesson does not describe the violence."
+    },
+    {
+     "t": "table",
+     "title": "Counts of lynchings differ by compiler",
+     "head": [
+      "Source",
+      "Figure",
+      "Note"
+     ],
+     "rows": [
+      [
+       "Chicago Tribune table, 31/12/1914",
+       "205 in 1892; 54 in 1914",
+       "Annual counts from 1885"
+      ],
+      [
+       "Tuskegee Institute, as reported 26/04/1959",
+       "231 in 1892; 4,733 since 1882",
+       "Definition: legal evidence of a death, illegality, three or more participants, a pretext of serving justice, race or tradition"
+      ],
+      [
+       "Southern Commission on the Study of Lynching, 09/11/1931",
+       "3,603 since 1889; fewer than a quarter of victims since 1890 accused of assault on white women",
+       "Two of 21 in 1930 'certainly' innocent and 11 'possibly'"
+      ],
+      [
+       "New York Herald-Tribune, 03/12/1933",
+       "3,745 from 1889 to 1932; 1,406 for homicide against 623 for rape",
+       "At least 80 Black women among the victims"
+      ]
+     ],
+     "src": "{{gz-tribune}} {{gz-tuskegee}}"
+    },
+    {
+     "t": "p",
+     "x": "The totals differ because compilers defined and counted differently, so any total is an [ESTIMATE, CONTESTED], but each is attached to a named source and a date, which is what the Willie Lynch letter lacks. {{gz-tribune}} {{gz-tuskegee}}"
+    },
+    {
+     "t": "p",
+     "x": "The same book reprints a Washington Tribune item of 01/09/1934 that quotes a Virginia roadside marker: Colonel Charles Lynch held an informal court for Tories, and his brother John Lynch's summary justice gave rise to the term Lynch law. The marker as printed gives 1870, an evident misprint for the Revolutionary period (our inference). This agrees with Cobb's account above, with the limits that it is a press report of a marker and that the book does not discuss the word's history. {{gz-marker}} {{cobb}}"
+    },
+    {
+     "t": "p",
+     "x": "Ginzburg never mentions the letter. A name list cannot prove a negative, so the safest sentence is that the book, a century of press reports, shows a documented history of racial terror that did not need an invented speech to explain it. The book also holds items that tie the diaspora to Africa: a petition of 25/06/1903 asking Congress for 100 million dollars to carry willing Black Americans to Liberia, a Georgia man lynched in 1912 for recruiting settlers for an African colony, a Chicago Defender editorial of 18/12/1915 comparing American lynching with Belgium's cutting off of hands in the Congo, and the silent parade of 28/07/1916 in New York. {{gz-press}}"
+    },
+    {
+     "t": "check",
+     "q": "Why do the lynching counts in different newspapers disagree?",
+     "o": [
+      "Some papers invented figures.",
+      "Compilers used different definitions and sources, and each attached its figure to a named source.",
+      "Lynching was not recorded.",
+      "All counts are identical."
+     ],
+     "a": 1,
+     "w": "Tuskegee, the Tribune and the 1931 commission counted differently. {{gz-tuskegee}}"
     },
     {
      "t": "h",

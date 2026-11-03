@@ -545,6 +545,10 @@
      "x": "Reader confirms that Bantu is a language label with no ethnic meaning, that the word-root evidence puts the cradle in the Benue valley and Cameroon grassfields, and that the farmers reached the lakes region about 2,500 years ago and the southern limit by the 4th century AD [PROBABLE]. He counts more than 600 Bantu languages and says some authorities count 300, so give a range, not a single figure. {{rd-bantu}}"
     },
     {
+     "t": "p",
+     "x": "Grollemund and colleagues (PNAS 2015) date the Bantu languages with a tree of 424 languages tied to three archaeological anchors. The Bantu branch dates to about 4,800 years ago, the homeland is the savannah of north-western Cameroon, and the main line went south-east along the edge of the rainforest, following savannah corridors, not the coast or the forest. Moves from savannah into rainforest took about 300 years longer than comparable savannah moves. {{grollemund}} This is a model, not a count, so keep it [PROBABLE] and set it beside Reader's older account."
+    },
+    {
      "t": "h",
      "x": "Where did West African iron come from? Three positions"
     },

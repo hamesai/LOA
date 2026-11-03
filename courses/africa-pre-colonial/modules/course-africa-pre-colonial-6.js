@@ -530,6 +530,10 @@
     },
     {
      "t": "p",
+     "x": "Gibb's translation also covers the coast. Ibn Battuta left Mecca after the pilgrimage that ended in 1330 and called at Zayla, Mogadishu (a sultan of Berberah origin who spoke the local language), Mombasa and Kilwa. He found Kilwa a very fine town of mostly Zanj inhabitants, ruled by the generous Abu'l-Muzaffar Hasan and then by his miserly brother Dawud, and was told that gold dust reached Sofala from the interior. {{ibn-battuta-gibb}} This fits the lesson's range of about 1330 to 1331 for his visit."
+    },
+    {
+     "t": "p",
      "x": "Reader says the first-century Periplus devotes about 450 of its 7,000 words to the coast beyond the Horn, names Rhapta (not yet located), and shows Roman trade with India and Arabia far larger than with East Africa; no Roman coin has been found there. That coast trade was small and Arabian-led. {{rd-per}} Vasco da Gama in 1498 found Mocambique, Mombasa and Malindi to be Muslim towns whose merchants wore silk-bordered cottons, and he took the Arab pilot Ahmad ibn Majid on board for the crossing to India. {{rd-eth}} Portuguese cannon took Zanzibar in 1503 and Mombasa and Kilwa in 1505, helped by rivalry among the towns. {{rd-cont}} Reader also mentions Chinese fleets and a giraffe sent to China in 1415, which sits with the lesson's [PROBABLE] note on Zheng He. {{rd-lag}}"
     },
     {

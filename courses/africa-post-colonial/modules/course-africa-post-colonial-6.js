@@ -326,6 +326,50 @@
      "src": "{{rod-ch1}} {{rod-post}} {{my-case}} {{my-mech}}"
     },
     {
+     "t": "h",
+     "x": "Three documents of the crisis years"
+    },
+    {
+     "t": "table",
+     "title": "Lagos Plan, Berg Report and Sankara compared",
+     "head": [
+      "Document",
+      "Diagnosis",
+      "Remedy",
+      "Note"
+     ],
+     "rows": [
+      [
+       "Lagos Plan of Action (OAU, 1980)",
+       "Underdevelopment partly external and colonial, but member states also neglected agriculture",
+       "Collective self-reliance, intra-African trade, an African Common Market, state and joint trading bodies, with outside help only to supplement",
+       "Admits that member states fail to fund the institutions they create"
+      ],
+      [
+       "Berg Report (World Bank, 1981)",
+       "Three causes: structural, external shocks, and domestic policy; it ranks policy first (overvalued exchange rates, marketing boards that taxed farmers, an overextended public sector)",
+       "Policy reform and a doubling of aid in real terms by the end of the 1980s",
+       "Says it accepts the Lagos Plan's long-term goals and that donors 'contributed to the present crisis'"
+      ],
+      [
+       "Sankara at the OAU (1987)",
+       "Debt is colonialism continued and cannot be repaid",
+       "A united front to refuse repayment, cut arms spending, produce and consume in Africa",
+       "A speech of aims, delivered months before his death"
+      ]
+     ],
+     "src": "{{lagos-plan}} {{berg}} {{sankara-debt}}"
+    },
+    {
+     "t": "p",
+     "x": "The Berg Report says external forces were not the chief factor in the growing deficits of oil importers: poor export performance counted for more, and export volume fell in two thirds of countries with data in the 1970s. Critics argue that it undervalued external shocks. It also praised progress: primary enrolment rose from 36 to 63 per cent and life expectancy from 39 to 47. Its figures include a rise in debt from 6 to 32 billion dollars between 1970 and 1979. {{berg}} The Lagos Plan gave Africa's GDP as 2.7 per cent of the world's per capita figure and growth of no more than 4.8 per cent a year from 1960 to 1980. {{lagos-plan}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The Arusha Declaration of 1967 is an earlier African statement of self-reliance. It argues that money is not the foundation of development, that foreign gifts, loans and investment endanger independence ('he who pays the piper calls the tune'), and that agriculture and hard work come first, while saying Tanzania will not refuse outside money. {{arusha}} It reaches a conclusion close to Moyo's from a socialist starting point (our reading). Sankara's UN speech of 1984 makes the same case against aid in the Sahel. {{sankara-un}}"
+    },
+    {
      "t": "p",
      "x": "Rodney says openly that African development needs a radical break with the capitalist system. {{rod-pref}} The book appeared in 1972 while he taught at Dar es Salaam, and the editors of its later introduction are partisan by their own account. {{rod-intro}} His own text assigns blame to an African political class too. {{rod-ch1}}"
     },

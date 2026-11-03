@@ -365,6 +365,47 @@
      "x": "Mau Mau was also a civil war among Kikuyu. The encyclopaedia page notes Branch's argument that the story cannot be told without the loyalists. {{lib}} {{wiki-mau}}"
     },
     {
+     "t": "table",
+     "title": "Kenya's own commission on Mau Mau (TJRC, 2013)",
+     "head": [
+      "Item",
+      "What the report says",
+      "Caution"
+     ],
+     "rows": [
+      [
+       "Roots",
+       "Land alienation: the Crown Lands Ordinance of 1915, about 5 million acres taken by 1914, and about 294,000 Kikuyu living outside the reserves in 1948, nearly 29 per cent",
+       "The Commission follows Elkins, Anderson and Hornsby and does not give its own method"
+      ],
+      [
+       "Mau Mau dead",
+       "The Corfield Tribunal recorded 11,503, which the report says is probably an undercount",
+       "This is a count of insurgents killed, not all deaths"
+      ],
+      [
+       "Killed by Mau Mau",
+       "At least 14,000 Africans, 29 Asians and 95 Europeans, 'debatable'",
+       "Conflicts with the 32 white civilians and about 2,000 loyalists above; a compilation without a method [CONTESTED]"
+      ],
+      [
+       "Detention",
+       "150,000 to 320,000 held in more than 50 camps; about 1,000 hanged",
+       "A wide range, so state it as a range"
+      ],
+      [
+       "Lari and Hola",
+       "Lari, 26/03/1953, about 400 killed, mostly women and children; Hola, 1959, 11 clubbed to death and 77 permanently injured",
+       "The Hola date and count match the course"
+      ]
+     ],
+     "src": "{{tjrc-kenya}}"
+    },
+    {
+     "t": "p",
+     "x": "The report adds that the British removed and hid most records of the war on the eve of independence, so any count rests on what survived. It treats the war as ending with Dedan Kimathi's capture in 10/1956, while elsewhere calling it a war of 1952 to 1955, so its own dates differ from the course's 1952 to 1960. It also gives independence as 12/12/1963 and the republic a year later, which supports our check on Reader. After independence the amnesty for fighters ran to 01/1964, over 2,000 came out of the forest, and Kenyatta's government did not honour them. In 2011 a British court let Kenyan claimants sue. {{tjrc-kenya}}"
+    },
+    {
      "t": "p",
      "x": "Reader gives the scale of the British response: eleven infantry battalions, a heavy-bomber squadron, 21,000 police and a Home Guard of 25,000. He puts about 2,000 loyalist Kikuyu and 32 white civilians among the dead, and says Kenyatta served seven years of hard labour and was released in 1961. {{rd-mau}}"
     },

@@ -1,0 +1,55 @@
+{
+ "key": "leo-pory-vol3",
+ "title": "Leo Africanus, History and Description of Africa, tr. J. Pory, Hakluyt ed. vol. III (1896)",
+ "author": "",
+ "file": "leo-africanus-pory-vol3.txt",
+ "format": "txt",
+ "sha256": "2f09b05d148e6cb1a2e3eb3a92e0373625ae186619118b274de59ade5bb7b8e2",
+ "words": 147781,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "UU UNU NUL UV AY AMUTA",
+   "words": 350
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Chapter 1: FIFTH BOOKE OF",
+   "words": 27090
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Chapter 2: SIXTH BOOKE OF",
+   "words": 15196
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Chapter 3:",
+   "words": 14072
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Chapter 4:",
+   "words": 25432
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Chapter 5: NINTH BOOKE OF",
+   "words": 65641
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (34% common English words, 1.3% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-02",
+  "source_file": "leo-africanus-pory-vol3.txt",
+  "found_by": "source-discovery",
+  "url": "https://archive.org/details/india.history.resource.88580",
+  "query": "Source Discovery, 01/11/2026"
+ },
+ "text_quality": {
+  "common_word_share": 0.342,
+  "odd_character_share": 0.013
+ }
+}

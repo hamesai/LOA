@@ -618,6 +618,26 @@
     },
     {
      "t": "p",
+     "x": "Ibn Battuta's own dates settle his stay in Mali: he arrived on 28 June 1352 and left on 27 February 1353. He praises the justice and safety of the country and the care taken with dead merchants' goods, and criticises the nakedness of women, dust thrown on heads and the eating of carrion; Mansa Sulayman gave him bread, beef and curds at first and later 100 mithqals. {{ibn-battuta-gibb}} At Walata heirs came through the mother's brother. He says Mansa Musa gave the poet-architect as-Sahili 4,000 mithqals in a day and that as-Sahili's grave lay at Timbuktu. {{ibn-battuta-gibb}} Gibb's 1929 notes still state that the Almoravids destroyed Ghana in 1076; that is an older editor's summary and stays [CONTESTED]."
+    },
+    {
+     "t": "p",
+     "x": "Leo Africanus, writing about 1526 from visits made in the 1510s, gives the outsider's view of Songhai in Pory's English of 1600. His Timbuktu has chalk-and-thatch houses, a stone temple and a palace by a Granada builder, many cloth weavers, a rich king whose daughters married merchants, and books from Barbary that sold for more than any other goods. A camel-load of salt fetched a large price because salt had to come from Taghaza. {{leo-pory-vol3}} He says Askia conquered Cano, Casena and Guber and drew tribute from Agadez. {{leo-pory-vol3}} The 1896 editor notes that Leo's Askia material is second-hand from merchants and his dates are confused, and that Sankore is generally regarded as the oldest mosque in the city. {{leo-pory-vol3}} Read Leo beside the Timbuktu chronicles, never in place of them. [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "The Timbuktu chronicle itself (our reading of the French)"
+    },
+    {
+     "t": "p",
+     "x": "Houdas's French translation of al-Sa'di's Tarikh es-Soudan, written in Timbuktu in the 1650s, is the native source behind several numbers in this module. This paragraph is our own reading of the French, not a published English translation. Sa'di says Mansa Musa travelled with a cortege of sixty thousand, preceded by five hundred slaves carrying gold rods, and gave only 20,000 gold pieces to the two holy cities against 100,000 from Askia Muhammad. {{tarikh-houdas}} So the young readers' book and Diop both take their figures from this late source, written about 330 years after the event, not from Cairo witnesses. [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Sa'di also gives Timbuktu's own origin: a Tuareg camp near the end of the 5th century of the Hijra, named for a slave woman who guarded their goods, which grew from a thorn camp into a clay town with a great mosque and later Sankore, and which filled out only under Askia Daoud. {{tarikh-houdas}} That is tradition, not archaeology. [TRADITIONAL DATE] It gives Mali's rule over Timbuktu from 1336, Tuareg rule from 1433, Sonni Ali's sack in 1468 and the askias from 1493, which fit the lesson's dates. {{tarikh-houdas}} Its Sonni Ali is a scholar's hostile portrait of a ruler who persecuted Timbuktu's jurists. {{tarikh-houdas}} The first Sonni was Ali-Kolon, a Mali hostage who fled and founded the dynasty, a different man from Sonni Ali of 1464, so Diop's 'Ali-Kolon, the future Sonni Ali' joins two men. {{tarikh-houdas}} [CONTESTED]"
+    },
+    {
+     "t": "p",
      "x": "Diop shows Kati and Sa'di working as historians: they cite authorities, date events to the day, and question informants. {{dpc-tech}} A second book, from Diop's earlier work, notes that Kati admits some early chapters had little to rest on. {{dio-method}} He contrasts the chroniclers' hostile portrait of Sonni Ali with their warm portrait of Askia Muhammad and reads Sonni Ali's harshness to the Timbuktu clergy as defence of older religion. That reading is plausible but it is an interpretation. [CONTESTED] Diop also calls the Arab chroniclers objective; the course tags al-Bakri, al-Umari and Ibn Battuta as distance sources, and that stands."
     },
     {
