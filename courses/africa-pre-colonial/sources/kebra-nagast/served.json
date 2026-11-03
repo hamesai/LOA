@@ -1,0 +1,50 @@
+{
+ "ch-008.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-11-02"
+ },
+ "ch-009.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-11-02"
+ },
+ "ch-010.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-11-02"
+ },
+ "ch-011.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-11-02"
+ },
+ "ch-029.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-11-02"
+ },
+ "ch-047.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-11-02"
+ },
+ "ch-048.txt": {
+  "limit": 4000,
+  "done": 1,
+  "total": 1,
+  "date": "2026-11-02"
+ },
+ "ch-049.txt": {
+  "limit": 4000,
+  "done": 2,
+  "total": 2,
+  "date": "2026-11-02"
+ }
+}

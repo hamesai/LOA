@@ -1,0 +1,32 @@
+{
+ "3355fbcb": {
+  "state": "applied",
+  "note": "module 4, lesson 2 (Setif toll, Algerian independence date, Nkrumah slogan)",
+  "date": "2026-11-02"
+ },
+ "6b9289cc": {
+  "state": "applied",
+  "note": "module 4, lesson 2 (Setif toll, Algerian independence date, Nkrumah slogan)",
+  "date": "2026-11-02"
+ },
+ "9cdf5a75": {
+  "state": "skipped",
+  "note": "Mazrui's five traditions are one author's framing; Module 4 lesson 2 states them once as such. Module 3 is about diaspora and the Lynch letter, so no change there",
+  "date": "2026-11-02"
+ },
+ "34647c0e": {
+  "state": "skipped",
+  "note": "Sharpeville and Angola dates are already in Module 5; the independence-date table was spot-checked only for Algeria, and the other course dates were not re-checked against Table 5.1 in this pass",
+  "date": "2026-11-02"
+ },
+ "1a20ea42": {
+  "state": "applied",
+  "note": "module 3, lesson 3 (OAU signatory count, Liberation Committee, Charter principles)",
+  "date": "2026-11-03"
+ },
+ "e13b6b95": {
+  "state": "applied",
+  "note": "module 3, lesson 3 (OAU signatory count, Liberation Committee, Charter principles)",
+  "date": "2026-11-03"
+ }
+}

@@ -396,6 +396,37 @@
     },
     {
      "t": "h",
+     "x": "What Casement saw for himself"
+    },
+    {
+     "t": "p",
+     "x": "Casement's report is dated 11/12/1903 and was printed as a Parliamentary paper (Africa No. 1). He travelled the Upper Congo for about two and a half months in 1903, and compared places he had known in 1887. He found Lukolela down from about 5,000 people to under 600, the F* villages from 4,000 or 5,000 to no more than 500, Montaka from 4,000 to 600 or 800, and the Lake Mantumba towns down by 60 to 70 per cent in ten years. These are local reductions, not a count of the whole colony. {{casement}}"
+    },
+    {
+     "t": "p",
+     "x": "He names several causes together: sleeping sickness and smallpox, flight across the river to French territory, hunger, and the methods used to extract rubber and food. Sleeping sickness has a prominent place in his list, though he says the people put the main blame on the extraction. This is the one piece of primary evidence in the course that sets the disease argument beside the violence argument. {{casement}}"
+    },
+    {
+     "t": "p",
+     "x": "He saw two mutilated people himself at Lake Mantumba, a young man whose hands had been beaten off and a boy of 11 or 12 whose right hand was cut off at the wrist, and later confronted a company sentry who had cut off a 15-year-old's hand, which he reported for arrest. An officer's diary entry, which Casement says he cannot vouch for, says each cartridge used had to be accounted for by a right hand. Casement's own firsthand evidence is for individual cases. The wider claim rests on witnesses. {{casement}}"
+    },
+    {
+     "t": "example",
+     "title": "Worked example: checking the arithmetic of a levy",
+     "steps": [
+      "Casement's account of one small township: the weekly levy of food, mats and firewood was worth 132 francs at local prices, and the Government paid 21.30 francs.",
+      "Over a year, 132 francs x 52 is 6,864 francs given, and 21.30 francs x 52 is 1,107.60 francs received (our arithmetic).",
+      "So the township gave about six times what it was paid for, and Casement notes that the levy was set by officials and enforced by fines and the chain gang.",
+      "At the A.B.I.R. concession he saw 242 men each owing 3 kg of rubber, so about 726 kg (our arithmetic), watched by armed sentries. A check on one document's sums is evidence about method, not about the total toll. {{casement}}"
+     ]
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Casement's report also records African testimony taken with interpreters, including refugees who said soldiers cut off hands to prove killings and that white officers asked for proof. It is a European's record of African voices, with the usual limits, and he used the language of his day for the people he met ('savages', 'cannibals'). Names are masked with letters in the printed version, which is the stripping of names that Hochschild reports. {{casement}} {{hs-casement}}"
+    },
+    {
+     "t": "h",
      "x": "After 1908: a change of form"
     },
     {
@@ -550,6 +581,10 @@
       ]
      ],
      "src": "{{hs-toll}} {{hs-after}} {{hs-notes}} {{rd-berlin}}"
+    },
+    {
+     "t": "p",
+     "x": "Casement's local figures are a fifth kind of evidence: counts of particular places made by a visitor who knew them earlier. They support a very large loss in the districts he saw but cannot be added up to a total. {{casement}}"
     },
     {
      "t": "example",

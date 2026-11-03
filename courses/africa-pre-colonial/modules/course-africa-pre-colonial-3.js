@@ -595,6 +595,10 @@
     },
     {
      "t": "p",
+     "x": "Gibb's translation of Ibn Battuta gives the route and prices as an eyewitness. He left Sijilmasa on 18 February 1352 with a caravan, reached Taghaza in 25 days, where houses and a mosque were built of salt blocks and slaves dug the slabs, and took two months to reach Walata. Salt was worth 8 to 10 mithqals at Walata and 20 to 40 at Mali, and it served as money there. {{ibn-battuta-gibb}} At Takedda copper bars were also money, and he left in a caravan carrying six hundred women slaves. {{ibn-battuta-gibb}} The prices are his, in mithqals, from one journey."
+    },
+    {
+     "t": "p",
      "x": "Diop lists the currencies on the Sahel: salt blocks, cowries (500 to 3,000 to the mithqal of gold), gold dust, copper rings, cloth strips and a 40,000-dinar debt note between Sijilmasa and Awdaghust in the 10th century. {{dpc-tech}} Treat the weights as the book's. On Timbuktu, he describes 'Sankore' as a set of mosque schools run by qadis and scholars without a founding act, repaired in 1569 by the qadi al-Aqib, with 150 to 180 Quranic schools. {{dpc-tech}} He does not say Mansa Musa founded a university, and neither should the lesson. The figure of over 700 works for Ahmad Baba is a traditional number. [CONTESTED]"
     },
     {

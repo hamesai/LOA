@@ -1,0 +1,183 @@
+{
+  "key": "gha-vii",
+  "title": "General History of Africa, vol. VII: Africa under Colonial Domination 1880-1935",
+  "author": "UNESCO; ed. A. A. Boahen",
+  "file": "gha-vii.md",
+  "format": "md",
+  "sha256": "9e8ac7634b6892a797ace90199dc849dcb40adabc910c821012c34434f0bada5",
+  "words": 389503,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "UNESCO, General History of Africa, vol. VII: Africa under colonial domination 1880-1935 (e",
+      "words": 3777
+    },
+    {
+      "file": "ch-002.txt",
+      "title": "Chapter 1: Africa and the colonial challenge",
+      "words": 7555
+    },
+    {
+      "file": "ch-003.txt",
+      "title": "Chapter 2: European partition and conquest of Africa: an overview",
+      "words": 12071
+    },
+    {
+      "file": "ch-004.txt",
+      "title": "Chapter 3: African initiatives and resistance in the face of partition",
+      "words": 7373
+    },
+    {
+      "file": "ch-005.txt",
+      "title": "Chapter 4: African initiatives and resistance in North-East Africa",
+      "words": 8795
+    },
+    {
+      "file": "ch-006.txt",
+      "title": "Chapter 5: African initiatives and resistance in North Africa and the",
+      "words": 10835
+    },
+    {
+      "file": "ch-007.txt",
+      "title": "Chapter 6: African initiatives and resistance in West Africa, 1880-1914",
+      "words": 14725
+    },
+    {
+      "file": "ch-008.txt",
+      "title": "Chapter 7: African initiatives and resistance in East Africa, 1880-1914",
+      "words": 6713
+    },
+    {
+      "file": "ch-009.txt",
+      "title": "Chapter 8: African initiatives and resistance in Central Africa,",
+      "words": 10653
+    },
+    {
+      "file": "ch-010.txt",
+      "title": "Chapter 9: African initiatives and resistance in Southern Africa",
+      "words": 10619
+    },
+    {
+      "file": "ch-011.txt",
+      "title": "Chapter 10: Madagascar, 1880s-1930s",
+      "words": 11676
+    },
+    {
+      "file": "ch-012.txt",
+      "title": "Chapter 11: Liberia and Ethiopia, 1880-1914",
+      "words": 12467
+    },
+    {
+      "file": "ch-013.txt",
+      "title": "Chapter 12: The First World War and its consequences",
+      "words": 11625
+    },
+    {
+      "file": "ch-014.txt",
+      "title": "Chapter 13: Methods and institutions of European domination",
+      "words": 7664
+    },
+    {
+      "file": "ch-015.txt",
+      "title": "Chapter 14: The colonial economy",
+      "words": 8340
+    },
+    {
+      "file": "ch-016.txt",
+      "title": "Chapter 15: The colonial economy of the former French, Belgian and",
+      "words": 13590
+    },
+    {
+      "file": "ch-017.txt",
+      "title": "Chapter 16: The colonial economy: the former British zones",
+      "words": 16013
+    },
+    {
+      "file": "ch-018.txt",
+      "title": "Chapter 17: The colonial economy: North Africa",
+      "words": 14629
+    },
+    {
+      "file": "ch-019.txt",
+      "title": "Chapter 18: The social repercussions of colonial rule: demographic aspects",
+      "words": 14515
+    },
+    {
+      "file": "ch-020.txt",
+      "title": "Chapter 19: The social repercussions of colonial rule: the new social",
+      "words": 8884
+    },
+    {
+      "file": "ch-021.txt",
+      "title": "Chapter 20: Religion in Africa during the colonial era",
+      "words": 12294
+    },
+    {
+      "file": "ch-022.txt",
+      "title": "Chapter 21: The arts in Africa during the period of colonial rule",
+      "words": 10404
+    },
+    {
+      "file": "ch-023.txt",
+      "title": "Chapter 22: African politics and nationalism, 1919-35",
+      "words": 7340
+    },
+    {
+      "file": "ch-024.txt",
+      "title": "Chapter 23: Politics and nationalism in North-East Africa, 1919-35",
+      "words": 9455
+    },
+    {
+      "file": "ch-025.txt",
+      "title": "Chapter 24: Politics and nationalism in the Maghrib and the Sahara,",
+      "words": 8992
+    },
+    {
+      "file": "ch-026.txt",
+      "title": "Chapter 25: Politics and nationalism in West Africa, 1919-35",
+      "words": 9842
+    },
+    {
+      "file": "ch-027.txt",
+      "title": "Chapter 26: Politics and nationalism in East Africa, 1919-35",
+      "words": 10682
+    },
+    {
+      "file": "ch-028.txt",
+      "title": "Chapter 27: Politics and nationalism in Central and Southern Africa,",
+      "words": 18218
+    },
+    {
+      "file": "ch-029.txt",
+      "title": "Chapter 28: Ethiopia and Liberia, 1914-35",
+      "words": 13657
+    },
+    {
+      "file": "ch-030.txt",
+      "title": "Chapter 29: Africa and the New World",
+      "words": 15600
+    },
+    {
+      "file": "ch-031.txt",
+      "title": "Chapter 30: Colonialism in Africa: its impact and significance",
+      "words": 13932
+    },
+    {
+      "file": "ch-032.txt",
+      "title": "Chapter 31: End matter: bibliography and index",
+      "words": 46568
+    }
+  ],
+  "warnings": [],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "gha-vii.md",
+    "found_by": "source-discovery",
+    "url": "https://www.sahistory.org.za/sites/default/files/archive_files/general_history_africa_vii.pdf (SAHO copy of UNESCO open-access volume; UNESCO's own pages were blocked)",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.34,
+    "odd_character_share": 0.008
+  }
+}

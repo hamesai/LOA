@@ -1,0 +1,173 @@
+{
+  "key": "gha-viii",
+  "title": "General History of Africa, vol. VIII: Africa since 1935",
+  "author": "UNESCO; ed. A. A. Mazrui, C. Wondji",
+  "file": "gha-viii.md",
+  "format": "md",
+  "sha256": "eb13295f62b92a71599045d97f9b159c455ec738b1b2649ecd40107040a7fc2f",
+  "words": 448434,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "UNESCO, General History of Africa, vol. VIII: Africa since 1935 (ed. Ali A. Mazrui and C. ",
+      "words": 6510
+    },
+    {
+      "file": "ch-002.txt",
+      "title": "Chapter 1: Introduction",
+      "words": 10812
+    },
+    {
+      "file": "ch-003.txt",
+      "title": "Chapter 2: The Horn and North Africa, 1935-45",
+      "words": 12247
+    },
+    {
+      "file": "ch-004.txt",
+      "title": "Chapter 3: Tropical and equatorial Africa under French, Portuguese and",
+      "words": 8118
+    },
+    {
+      "file": "ch-005.txt",
+      "title": "Chapter 4: Africa under British and Belgian domination, 1935-45",
+      "words": 12753
+    },
+    {
+      "file": "ch-006.txt",
+      "title": "Chapter 5: Seek ye first the political kingdom",
+      "words": 7954
+    },
+    {
+      "file": "ch-007.txt",
+      "title": "Chapter 6: North Africa and the Horn",
+      "words": 14917
+    },
+    {
+      "file": "ch-008.txt",
+      "title": "Chapter 7: West Africa, 1945-60",
+      "words": 13190
+    },
+    {
+      "file": "ch-009.txt",
+      "title": "Chapter 8: Equatorial West Africa",
+      "words": 12852
+    },
+    {
+      "file": "ch-010.txt",
+      "title": "Chapter 9: The struggle for political sovereignty in Eastern Africa,",
+      "words": 11877
+    },
+    {
+      "file": "ch-011.txt",
+      "title": "Chapter 10: Southern Africa since 1945",
+      "words": 13870
+    },
+    {
+      "file": "ch-012.txt",
+      "title": "Chapter 11: Economic changes in Africa in the world context",
+      "words": 12588
+    },
+    {
+      "file": "ch-013.txt",
+      "title": "Chapter 12: Agriculture and rural development since 1935",
+      "words": 13673
+    },
+    {
+      "file": "ch-014.txt",
+      "title": "Chapter 13: Industrial development and urban growth, 1935-80",
+      "words": 14542
+    },
+    {
+      "file": "ch-015.txt",
+      "title": "Chapter 14: Comparative strategies of economic decolonization in Africa",
+      "words": 15011
+    },
+    {
+      "file": "ch-016.txt",
+      "title": "Chapter 15: Nation-building and changing political structures",
+      "words": 13390
+    },
+    {
+      "file": "ch-017.txt",
+      "title": "Chapter 16: Nation-building and changing political values",
+      "words": 13282
+    },
+    {
+      "file": "ch-018.txt",
+      "title": "Chapter 17: Religion and social evolution",
+      "words": 8142
+    },
+    {
+      "file": "ch-019.txt",
+      "title": "Chapter 18: Language and social change",
+      "words": 7036
+    },
+    {
+      "file": "ch-020.txt",
+      "title": "Chapter 19: The development of modern literature since 1935",
+      "words": 11836
+    },
+    {
+      "file": "ch-021.txt",
+      "title": "Chapter 20: Arts and society since 1935",
+      "words": 20837
+    },
+    {
+      "file": "ch-022.txt",
+      "title": "Chapter 21: Trends in philosophy and science in Africa",
+      "words": 20477
+    },
+    {
+      "file": "ch-023.txt",
+      "title": "Chapter 22: Education and social change",
+      "words": 10660
+    },
+    {
+      "file": "ch-024.txt",
+      "title": "Chapter 23: Africa and its diaspora since 1935",
+      "words": 7257
+    },
+    {
+      "file": "ch-025.txt",
+      "title": "Chapter 24: Pan-Africanism and regional integration",
+      "words": 8414
+    },
+    {
+      "file": "ch-026.txt",
+      "title": "Chapter 25: Pan-Africanism and liberation",
+      "words": 10111
+    },
+    {
+      "file": "ch-027.txt",
+      "title": "Chapter 26: Africa and the capitalist countries",
+      "words": 12612
+    },
+    {
+      "file": "ch-028.txt",
+      "title": "Chapter 27: Africa and the socialist countries",
+      "words": 13078
+    },
+    {
+      "file": "ch-029.txt",
+      "title": "Chapter 28: Africa and the developing regions",
+      "words": 13178
+    },
+    {
+      "file": "ch-030.txt",
+      "title": "Chapter 29: End matter",
+      "words": 97210
+    }
+  ],
+  "warnings": [],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "gha-viii.md",
+    "found_by": "source-discovery",
+    "url": "https://www.sahistory.org.za/sites/default/files/archive_files/general_history_africa_viii.pdf (SAHO copy of UNESCO open-access volume; UNESCO's own pages were blocked)",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.333,
+    "odd_character_share": 0.005
+  }
+}

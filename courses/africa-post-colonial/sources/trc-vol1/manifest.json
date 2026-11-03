@@ -1,0 +1,284 @@
+{
+  "key": "trc-vol1",
+  "title": "Truth and Reconciliation Commission of South Africa Report, vol. 1 (1998)",
+  "author": "South African TRC",
+  "file": "trc-vol1.pdf",
+  "format": "pdf",
+  "sha256": "6e554232c314cc44be79b1ebef857e963d849414e667bf07018db9839602198b",
+  "words": 173561,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "Front matter",
+      "words": 88,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "file": "ch-002.txt",
+      "title": "Contents",
+      "words": 300,
+      "pages": [
+        3,
+        3
+      ]
+    },
+    {
+      "file": "ch-003.txt",
+      "title": "Foreword",
+      "words": 9750,
+      "pages": [
+        4,
+        26
+      ]
+    },
+    {
+      "file": "ch-004.txt",
+      "title": "Chapter 2",
+      "words": 7510,
+      "pages": [
+        27,
+        46
+      ]
+    },
+    {
+      "file": "ch-005.txt",
+      "title": "Chapter 3",
+      "words": 1271,
+      "pages": [
+        47,
+        50
+      ]
+    },
+    {
+      "file": "ch-006.txt",
+      "title": "Chapter 4",
+      "words": 17509,
+      "pages": [
+        51,
+        96
+      ]
+    },
+    {
+      "file": "ch-007.txt",
+      "title": "Chap 4 Appendix A",
+      "words": 3263,
+      "pages": [
+        97,
+        105
+      ]
+    },
+    {
+      "file": "ch-008.txt",
+      "title": "Chapter 5",
+      "words": 12530,
+      "pages": [
+        106,
+        137
+      ]
+    },
+    {
+      "file": "ch-009.txt",
+      "title": "Chapter 6",
+      "words": 8013,
+      "pages": [
+        138,
+        160
+      ]
+    },
+    {
+      "file": "ch-010.txt",
+      "title": "Chap 6 Appendix 1",
+      "words": 2648,
+      "pages": [
+        161,
+        167
+      ]
+    },
+    {
+      "file": "ch-011.txt",
+      "title": "Chap 6 Appendix 2",
+      "words": 2612,
+      "pages": [
+        168,
+        176
+      ]
+    },
+    {
+      "file": "ch-012.txt",
+      "title": "Chapter 7",
+      "words": 9294,
+      "pages": [
+        177,
+        203
+      ]
+    },
+    {
+      "file": "ch-013.txt",
+      "title": "Chapter 8",
+      "words": 13730,
+      "pages": [
+        204,
+        239
+      ]
+    },
+    {
+      "file": "ch-014.txt",
+      "title": "Chap 8 Appendix 1",
+      "words": 1540,
+      "pages": [
+        240,
+        244
+      ]
+    },
+    {
+      "file": "ch-015.txt",
+      "title": "Chap 8 Appendix 2",
+      "words": 204,
+      "pages": [
+        245,
+        245
+      ]
+    },
+    {
+      "file": "ch-016.txt",
+      "title": "Chap 8 Appendix 3",
+      "words": 264,
+      "pages": [
+        246,
+        246
+      ]
+    },
+    {
+      "file": "ch-017.txt",
+      "title": "Chapter 9",
+      "words": 3777,
+      "pages": [
+        247,
+        260
+      ]
+    },
+    {
+      "file": "ch-018.txt",
+      "title": "Chap 9 Appendix 1",
+      "words": 183,
+      "pages": [
+        261,
+        262
+      ]
+    },
+    {
+      "file": "ch-019.txt",
+      "title": "Chap 9 Appendix 2",
+      "words": 25,
+      "pages": [
+        263,
+        264
+      ]
+    },
+    {
+      "file": "ch-020.txt",
+      "title": "Chap 9 Appendix 3",
+      "words": 1193,
+      "pages": [
+        265,
+        268
+      ]
+    },
+    {
+      "file": "ch-021.txt",
+      "title": "Chap 9 Appendix 4",
+      "words": 209,
+      "pages": [
+        269,
+        269
+      ]
+    },
+    {
+      "file": "ch-022.txt",
+      "title": "Chapter 10",
+      "words": 6973,
+      "pages": [
+        270,
+        296
+      ]
+    },
+    {
+      "file": "ch-023.txt",
+      "title": "Chapter 11",
+      "words": 2214,
+      "pages": [
+        297,
+        303
+      ]
+    },
+    {
+      "file": "ch-024.txt",
+      "title": "Chap 11 Appendix 1",
+      "words": 1625,
+      "pages": [
+        304,
+        310
+      ]
+    },
+    {
+      "file": "ch-025.txt",
+      "title": "Chap 11 Appendix 2",
+      "words": 2372,
+      "pages": [
+        311,
+        319
+      ]
+    },
+    {
+      "file": "ch-026.txt",
+      "title": "Chap 11 Appendix 3",
+      "words": 333,
+      "pages": [
+        320,
+        321
+      ]
+    },
+    {
+      "file": "ch-027.txt",
+      "title": "Chap 11 Continue",
+      "words": 22927,
+      "pages": [
+        322,
+        394
+      ]
+    },
+    {
+      "file": "ch-028.txt",
+      "title": "Chapter 12",
+      "words": 19081,
+      "pages": [
+        395,
+        450
+      ]
+    },
+    {
+      "file": "ch-029.txt",
+      "title": "Chapter 13",
+      "words": 22123,
+      "pages": [
+        451,
+        512
+      ]
+    }
+  ],
+  "warnings": [],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "trc-vol1.pdf",
+    "found_by": "source-discovery",
+    "url": "https://www.justice.gov.za/trc/report/finalreport/Volume%201.pdf",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.364,
+    "odd_character_share": 0.005
+  }
+}

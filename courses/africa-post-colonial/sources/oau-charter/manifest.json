@@ -1,0 +1,113 @@
+{
+  "key": "oau-charter",
+  "title": "Charter of the Organization of African Unity (1963)",
+  "author": "dayle",
+  "file": "oau-charter.pdf",
+  "format": "pdf",
+  "sha256": "3296b112197e9496c965fd74236cf2ddf8106f0c948c34e3b949a4c79c4f64b5",
+  "words": 2073,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "OAU CHARTER",
+      "words": 260,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "file": "ch-002.txt",
+      "title": "PRINCIPLES",
+      "words": 203,
+      "pages": [
+        3,
+        3
+      ]
+    },
+    {
+      "file": "ch-003.txt",
+      "title": "RIGHTS AND DUTIES OF MEMBER STATES",
+      "words": 157,
+      "pages": [
+        4,
+        4
+      ]
+    },
+    {
+      "file": "ch-004.txt",
+      "title": "INSTITUTIONS",
+      "words": 203,
+      "pages": [
+        5,
+        5
+      ]
+    },
+    {
+      "file": "ch-005.txt",
+      "title": "THE COUNCIL OF MINISTERS",
+      "words": 242,
+      "pages": [
+        6,
+        6
+      ]
+    },
+    {
+      "file": "ch-006.txt",
+      "title": "GENERAL SECRETARIAT",
+      "words": 224,
+      "pages": [
+        7,
+        7
+      ]
+    },
+    {
+      "file": "ch-007.txt",
+      "title": "SPECIALIZED COMMISSION",
+      "words": 175,
+      "pages": [
+        8,
+        8
+      ]
+    },
+    {
+      "file": "ch-008.txt",
+      "title": "REGISTRATION OF CHARTER",
+      "words": 234,
+      "pages": [
+        9,
+        9
+      ]
+    },
+    {
+      "file": "ch-009.txt",
+      "title": "INTERPRETATION OF THE CHARTER",
+      "words": 183,
+      "pages": [
+        10,
+        10
+      ]
+    },
+    {
+      "file": "ch-010.txt",
+      "title": "AMENDMENT OF THE CHARTER",
+      "words": 192,
+      "pages": [
+        11,
+        11
+      ]
+    }
+  ],
+  "warnings": [],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "oau-charter.pdf",
+    "found_by": "source-discovery",
+    "url": "https://au.int/sites/default/files/treaties/7759-file-oau_charter_1963.pdf",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.397,
+    "odd_character_share": 0.0
+  }
+}

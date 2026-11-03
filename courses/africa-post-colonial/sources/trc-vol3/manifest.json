@@ -1,0 +1,95 @@
+{
+  "key": "trc-vol3",
+  "title": "Truth and Reconciliation Commission of South Africa Report, vol. 3 (1998)",
+  "author": "South African TRC",
+  "file": "trc-vol3.pdf",
+  "format": "pdf",
+  "sha256": "8596a81355dd7d11e4f1c7bb8794dbb4933a736c5acadd151331091afc6a86a6",
+  "words": 305659,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "Front matter",
+      "words": 89,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "file": "ch-002.txt",
+      "title": "Contents",
+      "words": 94,
+      "pages": [
+        3,
+        3
+      ]
+    },
+    {
+      "file": "ch-003.txt",
+      "title": "Chapter 1",
+      "words": 13555,
+      "pages": [
+        4,
+        36
+      ]
+    },
+    {
+      "file": "ch-004.txt",
+      "title": "Chapter 2",
+      "words": 49618,
+      "pages": [
+        37,
+        157
+      ]
+    },
+    {
+      "file": "ch-005.txt",
+      "title": "Chapter 3",
+      "words": 70332,
+      "pages": [
+        158,
+        331
+      ]
+    },
+    {
+      "file": "ch-006.txt",
+      "title": "Chapter 4",
+      "words": 23441,
+      "pages": [
+        332,
+        392
+      ]
+    },
+    {
+      "file": "ch-007.txt",
+      "title": "Chapter 5",
+      "words": 56188,
+      "pages": [
+        393,
+        530
+      ]
+    },
+    {
+      "file": "ch-008.txt",
+      "title": "Chapter 6",
+      "words": 92342,
+      "pages": [
+        531,
+        748
+      ]
+    }
+  ],
+  "warnings": [],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "trc-vol3.pdf",
+    "found_by": "source-discovery",
+    "url": "https://www.justice.gov.za/trc/report/finalreport/Volume%203.pdf",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.326,
+    "odd_character_share": 0.011
+  }
+}

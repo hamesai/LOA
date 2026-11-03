@@ -610,6 +610,18 @@
      "x": "Myths as beliefs, not events"
     },
     {
+     "t": "h",
+     "x": "Johnson's own account of Ife and Oyo"
+    },
+    {
+     "t": "p",
+     "x": "Samuel Johnson, writing by 1897 from the traditions of Oyo's hereditary court historians, gives the founding story in detail. Oduduwa fled from 'Mecca', settled at Ife, and his grandchildren became the kings of Owu, Ketu, Benin, Ila, Sabe, Popo and Oyo. Oranyan, left only the land, founded Oyo, and new Alafin are installed with a sword brought from Ife. {{johnson}} Johnson himself calls Oduduwa 'really a mythical personage'. {{johnson}} He then argues the Yoruba came from Upper Egypt or Nubia and reads Phoenician letters on an Ife obelisk; that is his own 1890s inference, and the course rejects it as it rejects Frobenius. [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "On government, Johnson confirms the lesson's checks on the king. The Alafin is elected from the royal family by the seven Oyo Mesi, led by the Basorun, who can move his rejection. The military nobles, the Eso, rank by merit under the Kakanfo, and vassal kings take titles and the sword of justice from Oyo. {{johnson}} Among the Egba and Ijebu, by contrast, the Ogboni councils held power and 'Egbas have no king that rules'. {{johnson}} His figure of 1,060 vassal kings is a legendary number, and his sacrifice counts are from memory, so quote neither. [THIN EVIDENCE]"
+    },
+    {
      "t": "p",
      "x": "Woodson's 1928 Yoruba creation tale has the younger son Odudua scatter earth with a hen and the elder Orisha drunk on palm wine. That differs from the common Ife telling in which Obatala moulds people and Oduduwa comes later, so it is a second variant for the founding-myth checklist. {{wood-tales}} His tale of why children belong to the mother, and the Fang legend of Ngurangurane, record beliefs about custody and tribute, not events. {{wood-tales}} Diop's matching of Yoruba, Serer and Peul names to Egyptian words by sound alone is chance resemblance. {{dio-egypt}} Frobenius, whose Atlantis claim for Ife the course rejects, is cited approvingly by Diop; the same source can serve opposite arguments. {{dio-method}}"
     },

@@ -1,0 +1,481 @@
+167
+Windé Koroji Ouest (Mali, Third and Second Millennia BCE): The Environmental and Subsistence Evidence
+beads and two polished stone hachettes which may have served as grave goods, but were not in direct contact 
+with the inhumation. The superior portion of the body would have been oriented to the SSW . 
+● WKO T umulus 5, although not directly dated, corresponds in artefactual content and form to the nearby 
+“pseudotumuli” of Zampia which were dated to the first millennium BCE (MacDonald 1998). This tumulus has a diameter of 5.5 m and rises 0.5 m above the plain. Excavation of the SW quadrant of the tumulus 
+reco
+vered 0.85 m³ of rough sandstone, 2 “intact” pots (with bottoms broken out), fragments of 42 additional 
+vessels, one grooved and one ungrooved sandstone pilon, two broken grinding platforms, 18 upper grindstones, 
+a terracotta bottleneck, and – at the centre of the tumulus – a sandstone hammer or “phallus”. No human 
+or animal remains were encountered. The ceramics differ significantly from those found in the other WKO 
+units and at other related Windé Koroji occupation sites. Like the ceramics of Zampia those of T umulus 5 
+were remarkable for being largely decorated with rouletted cord-wrapped elements (55% of motifs); such high 
+percentage separate these assemblages from Windé Koroji facies sites where such roulettes are comparatively 
+scarce (ca. 10%) and which instead feature larger quantities of fine twisted cord roulettes (ca. 40% of motifs) 
+and impressed, rather than rouletted, cord-wrapped elements (MacDonald 1994, 1996). As such, it is hypothesised that this alignment of monuments at WKO is subsequent to the site’s domestic occupation.
+Both WKO-I and WKO-II feature ceramic and stone tool assemblages that correspond to the surface assemblage 
+of the site (see descriptions and illustrations in MacDonald 1996). Indeed, when the surface and excavated 
+assemblages from Windé Koroji Ouest were first studied, parallels were immediately drawn between its ceramics 
+and lithics and those of Karkarichinkat in the Tilemsi Valley (MacDonald 1994). Statistical analyses (MacDonald 1996: Fig. 8) and Manning ’s (2008) excavations in the Tilemsi Valley have in large part borne out an 
+affiliation, if not synonymy, between these two archaeological entities. One strong point of comparison is pottery 
+decoration, where knotted cord, twisted cord roulettes and cord-wrapped elements (whether impressed or rouletFig. 2. Plan of Windé Koroji Ouest based on a topographic survey of the site undertaken in 1993.
+
+168
+Kevin MacDonald, Louis Champion & Katie Manning
+ted) are major elements in both traditions. Likewise, both lithic industries feature comparable hyper-denticulated 
+leaf-shaped, triangular and tanged projectile point forms whose manufacture dominates lithic reduction sequences. Finally, radiocarbon dating from the Tilemsi Valley (Manning 2008) indicates widespread de-population of 
+the region around 2000 BCE, the point at which Windé Koroji Ouest was occupied (see below). On these bases 
+we hypothesise a degree of cultural relatedness between the lower Tilemsi Valley and Windé Koroji traditions.
+As the primary subsistence data from Windé Koroji Ouest comes from excavation unit WKO-I we will now 
+briefly describe it in plan, stratigraphy and dating before moving on to the discussion of its ecofactual assemblages.
+Excavation Unit WKO-I
+WKO-I was a 2 × 2 m excavation attaining a depth of ca. 100 cm below surface before reaching sterile soil. It 
+was excavated by trowel and hand mattock (“dabba”) stratigraphically (not by arbitrary spit). Five stratigraphic 
+layers were recorded in order of excavation:
+● Layer I – Surface wash, loam with eroded artefacts and bone fragments.
+● Layer II – Semi-sterile, sandy loam surrounding and partially overlying Layer III.
+● Layer III – Midden deposit, ashy sand; directly overlying Layer IV .
+● Layer IV – Sunken round house feature with hearth, ashy sand.
+● Layer V – Sterile basal levee soil, loam with clay.
+Excavated context numbers are associated with these layers as follows:
+● I = 1, 2
+● II = 4, 5, 10, 12
+● III = 3, 6, 7, 8, 9, 11
+● IV = 14, 15, 17, 19 
+● V = 13, 16, 18, 20
+These layers may be combined and re-ordered into the following sequence of three depositional horizons:
+● A – Initial occupation, “sunken” round house with hearth and domestic debris (ca. 2100-1900 BCE); Layer 
+I V.
+● B – Later occupation, use of locality as a midden with accumulated bone, shell and potsherds (ca. 16001100 BCE); Layer III.
+● C – Abandonment/deflation surface, probably including some sub-recent material and material from local 
+tumulus-building, mixed with materials eroding out of Horizon B (undated, post 1600 BCE); Layers I and II.
+The sunken round house in Horizon A is a remarkable feature. Cut vertically into the original levee, it is circular 
+and can be reconstructed to a diameter of approximately two metres. Off centre, in its NW quadrant, is a clearly 
+defined hearth, with burned red soil, shored-up with large potsherds and containing ash and bone fragments 
+(Fig. 3). Throughout Layer IV were fragments of burnt daub, suggesting wattle and daub walls for this semisubterranean structure. Although not as extreme in depth as historic Bobo semi-subterranean dwellings – probably only a 50 cm step-down – it is reminiscent of the many Middle Niger traditions of first peoples having 
+“emerged” from such “holes” in the riverbank (Lemoal 1960; Shinzo 1990: 220-221).
+T wo conventional radiocarbon dates were run on wood charcoal samples from the excavations. The earliest of 
+these is associated with Horizon A, and came from the hearth feature in context 17: 3635±90 bp (GX-19990), 
+calibrated to 2136-1893 BCE (one sigma). The more recent date is from the midden, context 7: 3115±195 bp 
+(GX-19234), calibrated to 1612-1123 BCE (one sigma). As the midden directly over-fills the sunken structure, 
+and there is no visible change in associated material culture (similar vessel forms and décor dominated by fine 
+twisted cord roulettes, knotted cord roulettes, impressed cord-wrapped elements and impressed net), we believe 
+it unlikely that the occupation in this area truly comprised a thousand year span. We are likely looking at only 
+a limited extension of the more reliable hearth date’s 2100-1900 BCE range, perhaps to 1400 BCE if we take 
+the maximum of the second date’s calibrated probability range as our guide. 
+
+169
+Windé Koroji Ouest (Mali, Third and Second Millennia BCE): The Environmental and Subsistence Evidence
+Palaeoenvironmental Indicators: Geomorphology, Shell, and Wood Charcoal
+The “Gourma des Monts” is abutted to the north and west by the Lacustrine Gourma, an area riven with palaeochannels. Evidence for palaeohydrological activity takes the form of a network of east-west running wadis or 
+palaeochannels, connecting the region with the Inland Niger Delta floodplain. Beyond the immediate vicinity 
+of the Gandamia escarpment there are two other major hydrological environments in the southwestern Gourma: 
+the true “lacustrine Gourma” (Lac Korarou and environs), and the dunefields of the Gourma proper (the Haut or 
+Upper Gourma). Lac Korarou lies approximately 40 km to the north-west of Douentza. It has received floodwaters from the Niger along its tributary channel (the Koradou) as recently as the 1970s, but since then has existed 
+only as an isolated ponding area (Blanck et al. 1996). During the Holocene African Humid Period (AHP) the 
+lake would have been perpetually filled and would have created its own inundated plain to the westwards. It is 
+therefore likely that the high floods during the Holocene AHP would have brought the Inland Delta floodplain 
+to the western edge of the Dyoundé massif. Indeed, locals have recounted years in the 1950s and 1960s when the 
+flood (crue) attained Débéré, only 10 km from the western tip of the massif. However, Blanck et al. (1996) state 
+that strong and persistent overflows from Lac Korarou to the west probably did not continue after the beginning 
+of current climate conditions, which commenced not long after ca. 2000 BCE (Blanck et al. 1996: 117). 
+Some local hydrological evidence can be drawn from the shells recovered from the WKO-I excavations. Analysis of this assemblage was undertaken by a student researcher, Chloe Jackson, using collections of the London 
+Natural History Museum with confirmation of identifications by Peter Mordon and Fred Naggs, both of that 
+museum. Over 1000 fragments were analysed with only those diagnostic specimens enumerated in Table 1. Given 
+the large size of the assemblage it is interesting that only four taxa were present, including two gastropod and 
+two bivalve species. The occurrence in quantity of freshwater snail Lanistes varicus and the freshwater bivalves 
+Asparthia chaiziana & dahomeyensis, without the presence of bivalve taxa requiring perennial waters, is a good 
+indication of a seasonal floodplain environment: all three taxa are capable of surviving long periods of drought 
+by estivating in mud. Likewise, they still occur in the Inland Niger Delta and adjoining lacustrine regions. It is 
+noteworthy that Asparthia are parasitic of fish in their larval stage and require their assistance for propagation, 
+indicating at least a seasonal connection to permanent waters (V an Damme 1984). Asparthia and Lanistes are both 
+edible and supply shells which may be used for functional or decorative purposes, explaining their presence at the 
+site. However, the frequency of the very small, extended conical shells of the air-breathing, terrestrial gastropod 
+Subulina sp. is more difficult to explain, except that they tend to occur in damp, arboreal locales within leaf litter.
+Fig. 3. Plan of excavations at WKO-I showing the extent of the sunken round house and the location of the hearth (both 
+plans are within Horizon A). Depths are BD (below datum) which was established 10 cm above surface at the SW corner 
+of the excavation unit. Colour references are in comparison to a standard Munsell soil colour chart. Unshaded objects are 
+potsherds, black objects are bone, and stippled objects are stone.
+
+170
+Kevin MacDonald, Louis Champion & Katie Manning
+Regarding woodland, there is good evidence that Windé Koroji Ouest was near or within a gallery forest 
+during its occupation. The archaeobotanist Dirk Uebel was able to examine the WKO wood charcoal as a 
+side-project during his larger study of the T ongo Maaré Diabel wood remains. In total, 153 pieces were identified 
+from both WKO-I and WKO-II showing no spatial or temporal differentiation. The most important taxa were 
+Khaya senegalensis (African mahogany, 33%), Rubiaceae (flowering trees, probably Mitragyna, 21%), Anogeissus 
+leiocarpa (African birch, 19%), T amarindus indica (tamarind, 9%), Acacia raddiana (umbrella-thorn acacia, 8%), 
+Prosopsis africana (iron tree, 6%), and Acacia albida (apple-ring acacia, also known as Faidherbia albida, 3%). 
+All major taxa come from what would be riverine, savanna gallery forest. The presence of Acacia albida is of 
+particular interest as it is associated with millet agriculture and livestock economies, combining the provision of 
+important dry season leaf fodder for livestock, while adding significant fertility to agricultural fields ( Wickens 
+1969; Giffard 1971).
+Overall, environmental indicators suggest that during its occupation Windé Koroji Ouest was situated at 
+the eastern end of the Inland Niger Delta floodplain, in a gallery forest zone – a substantially more humid and 
+verdant environment than today.
+The Macrobotanical Remains
+The charred macrobotanical remains from Windé Koroji Ouest (WKO) serve to provide important information 
+on early pearl millet cultivation. Preliminary work on a few WKO samples by Cecilia Capezza, including the 
+initial identification of domestic millet from the site, has been significantly expanded in a new analysis of all 
+samples by Louis Champion.
+T wenty-six litres of soil flotation samples (in ten samples) were collected from the midden and the sunken 
+hut/hearth in WKO-I. Hand-picked specimens, invariably nut or larger seed fragments, were also identified. 
+Sampled sediments from the excavations were processed manually by bucket flotation. The flots were collected 
+on a 0.25 mm mesh and air dried in a single bag. Each sample was sieved into five size fractions: >4 mm, 2-4 
+mm, 1-2 mm, 0.5-1 mm, <0.5 mm. The ≥0.5 mm sub-samples were scanned for charred plant structures such 
+as seeds, fruits, nutshell and parenchyma with the aid of a low-power stereomicroscope (10-40x). Some modern 
+uncharred plant material were also separated from the charred remains and rejected during this process. After 
+sorting, the charred remains were identified by comparing taxa with specimens in the modern reference collection 
+housed at the Institute of Archaeology, University College London. 
+For all the samples analysed, whole vegetal items were recorded by count in a list of taxa, from which tables 
+of relative frequency were constructed (Tab. 2).Within the ten floated samples, two proved to be completely 
+devoid of plant remains. In total, 197 grains and fruits remains were identified.
+Table 1. T otal numbers of diagnostic gastropod and bivalve specimens from WKO-I by horizon.
+
+171
+Windé Koroji Ouest (Mali, Third and Second Millennia BCE): The Environmental and Subsistence Evidence
+The most frequent remains from WKO were seeds of the Gramineae family. While many of them (44%) are 
+too fragmentary to yield closer taxonomic identification, a number of seeds have been positively identified as 
+Pennisetum glaucum (pearl millet) on the basis of their morphological characteristics (Fig. 4). They were all seen to 
+have the typical club-shaped to spherical profile with a thick apical part, characteristic traits of the domesticated 
+pearl millet grain (Brunken et al. 1977; D’Andrea et al. 2001; Zach & Klee 2003; Manning et al. 2011). 
+In 1994, direct AMS dates were attempted by the Oxford radiocarbon lab on the two millet grains (from 
+WKO-I context 19) shown in Figure 4. Unfortunately this direct dating attempt was unsuccessful due to insufficient carbon. However, as 17 charred seeds of Pennisetum glaucum (pearl millet), representing 22% of the total 
+Table 2. A summary of the archaeobotanical evidence from Windé Koroji Ouest. T otal numbers and frequency of identified 
+specimens have been summed across contexts from each horizon and for the site. 
+
+172
+Kevin MacDonald, Louis Champion & Katie Manning
+assemblage, have been found in all the three occupation phases of the site, including in the early hearth feature, 
+it is reasonable to assert that domestic millet was present at the site throughout its occupation, including the 
+earliest dated occupation of ca. 2100 to 1900 BCE.
+In the Sahel zone, two regional trajectories in the spread of pearl millet cultivation emerge from the archaeobotanical data. The first documented radiation of domestic millet was identified in Mauritania by Munson (1976), 
+apparently spreading outwards into Senegal and the northern edge of the Middle Niger. In south-eastern Mauritania pearl millet impressions have subsequently been directly dated in ceramics from the Dhar Nema region 
+to 1750-1500 BCE (Fuller et al. 2007; MacDonald et al. 2009), and from Dhars Tichitt and Oualata to 
+1900-1500 BCE (Amblard 1996). The second, more recently documented trajectory comes from north-eastern 
+Mali, in the Lower Tilemsi Valley, which produced an extensive suite of pearl millet samples dating to between 
+2500 and 2000 BCE (Manning et al. 2011). These are at present the earliest morphologically domestic millet 
+grains known from Africa. Elements of this more easterly domestication event then appears to spread rapidly 
+along a north-south corridor into the Malian Gourma (Windé Koroji) and on to the sites of Ounjougou in 
+the southern Bandiagara (Ozainne et al. 2009), before appearing in northern Ghana, all by ca. 2000 BCE 
+(D’Andrea et al. 2001, 2007).
+Amongst the fruits from WKO the most common remains belong to Vitex doniana (black plum) common 
+in woodland savanna areas but only occasionally found in the southern Sahel (Maydell 1986; Cissé 1991). 
+This tree is sometimes planted for both its fruits and the young leaves which are used as a pot herb. The fruits 
+are edible and produce a sweet beverage (Dalziel 1937; Maydell 1986; Cissé 1991). The presence of black 
+plum trees which require a higher ground water table seems to indicate that the ecology of the site in the second 
+millennium BCE was much more humid than today. In the same horizon as the black plum, we found fruit 
+Fig. 4. Examples of identified botanical remains from WKO-I: A = Fruit of Vitex doniana from context 7; B = Fruit of 
+Lannea microcarpa from context 8; C = Fruit of Sclerocarya birrea from context 7; D & E = Drawings of the Pennisetum 
+glaucum grains from context 19. 
+
+173
+Windé Koroji Ouest (Mali, Third and Second Millennia BCE): The Environmental and Subsistence Evidence
+remains attributed to Lannea microcarpa (African grape), another woodland savanna tree that usually grows in 
+wetter conditions. Its fruits, which ripen during the rainy season, are edible and are especially appreciated for 
+making an alcoholic drink (Maydell 1986; Cissé 1991). The presence of both Vitex doniana and Lannea microcarpa in the initial occupation phase of the site (2100-1900 BCE) is an indication of the presence of a river or 
+a water table close by, which could support tropical gallery forests or extrazonal vegetation north of where these 
+would normally occur. Vitex is regarded as typical of Sudano-Guinean vegetation, restricted to the far south of 
+Mali under modern climatic conditions, while Lannea is found in the Sudanian zone (Eichhorn & Neumann 
+2014). As shown in Table 2, the analyses suggest potential change through time with these two fruit taxa being 
+present in Horizon A, but disappearing afterwards. This may suggest a trend of aridification, however, due to 
+small sample sizes, caution should be applied. Wood charcoal of both these taxa are reported from Ounjougou 
+in the Middle Holocene period (Eichhorn & Neumann 2014). Neither appears in the WKO wood charcoal 
+studied by Uebel (see above).
+Also present at WKO are remains of Sclerocarya birrea (marula tree). The fruits, which ripen between April 
+and June, are edible and a fermented drink is obtained from their juice. An oil used for food preparation is also 
+extracted from the kernel (Dalziel 1937; Cissé 1991).
+Only one seed of cf. Diospyros mespiliformis, the West African ebony tree, was recovered from a sample in 
+Horizon B. The tree is often in a state of semi-cultivation (Dalziel 1937: 348) and frequently goes uncut because 
+of associations with tree spirits across many West African societies (Blench 2001). The fruits of this savanna tree 
+are edible fresh or dried and they are also used for beverages or jam and to produce a concentrated juice used 
+for various purposes (Cissé 1991). D. mespiliformis is also part of the Sudanian vegetation zone (Eichhorn & 
+Neumann 2014).
+All of these fruit species are characteristic of the savanna woodlands of West Africa. They are also taxa typically 
+associated with savanna agriculture and have been reported from other archaeobotanical studies, such as Sclerocarya type fruits from Iron Age Walaldé in Senegal (Murray & Deme 2014), or Sclerocarya, Vitex and Diospyros 
+mespiliformis from northern Burkina Faso at medieval Saouga (Neumann et al. 1998). T o this end, assemblages 
+of edible fruit trees are often associated with traditional savanna agroforestry, with pearl millet cultivation and 
+permanent settlements. Whether these early finds represent the establishment of such systems at Windé Koroji 
+is uncertain and requires further research. 
+The Faunal Remains
+The analysis of the WKO fauna was not completed until a few years ago, despite the earlier publication of some 
+preliminary results (i.e. MacDonald & MacDonald 2000). The present re-analysis by MacDonald and Manning was spurred on by Linseele (2007: 123, 137) who had questioned the identification of domestic cattle 
+at Windé Koroji. On the basis of an isolated large bovid first phalanx measurement from the site, which we 
+published in 2000, she postulated that the WKO cattle may have all been African buffalo. In the absence of a 
+complete faunal report her concern was fully justifiable, especially since the faunal remains from Windé Koroji 
+do indeed include both Bos (cattle) and Syncerus (African buffalo). Before discussing the results from our analysis, 
+we must first discuss some methodological issues, including the differentiation of Bos and Syncerus.
+Work on the WKO faunal assemblage was undertaken with the aid of comparative collections at the UCL 
+Institute of Archaeology, the Natural History Museum (London), and the authors’ [KCM and KM] personal 
+collections. The separation of Syncerus from Bos was particularly assisted by Joris Peters’ (1986) manual on the 
+subject. Attribution to one taxon or the other was only made when morphological criteria included the taxon 
+identified and excluded the other. Examples of some of these differentiations may be seen in Figure 5. Elements 
+which could not be clearly differentiated were classed as Bovinae (Syncerus or Bos). Highly fragmentary or undiagnostic elements were left at size class (e.g. large bovid). Bovid size class boundaries follow those set out in 
+previous work on the Jenné-Jeno fauna (MacDonald 1995: Table 7.1). Remains were quantified conventionally 
+by NISP (Number of Individual Specimens Present) and MNI (Minimum Number of Individuals). NISP was 
+calculated in such a way that mandibles with associated dentition – even if loose – were classed as a single specimen, reconstructed long bones were treated likewise. No ribs were identified or counted.
+
+174
+Kevin MacDonald, Louis Champion & Katie Manning
+The assemblage from WKO-I was, on the whole, very well preserved with no erosion or leaching, although 
+there were some carbonate encrustations. 19% of the 269 identified mammal, bird and reptile bones showed 
+traces of charring; bovid remains in particular were frequently burnt (51%), suggesting the roasting of meat.
+In Horizon A (ca. 2100-1900 BCE) at WKO-I there is a distinct dominance of warthog remains, accounting 
+for over 75% of the total mammalian NISP (Tab. 3). Domestic cattle are apparently absent from this layer, although there are some Bovinae and large bovid remains which might represent cattle. However, there are definite 
+livestock present in the form of domestic sheep (Ovis aries), which account for 3% of the mammalian fauna, 
+or 6% if Ovis/Capra (sheep or goat) and small medium bovids are included (Fig. 6). A sheep first phalanx from 
+context 14, layer IV , measures (in mm): GL=41.2, GLpe=40.7, Bp=13.3, Bd=12.3, and would thus appear to 
+be within the range of non-dwarf savanna varieties.
+The wild mammalian fauna from the site’s initial occupation are consistent with a wooded savanna mosaic 
+near standing water. The red-fronted duiker (Cephalophus rufilatus) and the roan antelope (Hippotragus equinus) in 
+particular are fond of woodland edges or open woodland. The African buffalo (Syncerus caffer) tend to range within 
+distance of standing water and were likely to have been wet season visitors. The comparative slaughter of warthogs 
+(Phacochoerus aethiopicus) may be ascribed to their extreme territoriality, making them vulnerable to over-hunting. 
+There is also a great diversity in the occasional game whose scattered remains were left in the sunken house of layer IV , 
+including guineafowl, francolin, aardvark, large rodents, Nile monitor lizards, terrapins, snakes, and even crocodiles. 
+In Horizon B (ca. 1600-1100 BCE) the faunal spectrum appears to fall more in line with “pastoral expectations”. Definite cattle remains (Bos sp.) are relatively abundant in Horizon B, from ca. 1600 BCE. In this later 
+phase at WKO, domestic Bos account for 23% of mammalian remains, or for over 40% if Bovinae are included 
+in this tally. There are no clear sheep/goat remains in the midden layer, although the seven small medium bovid 
+elements could be attributable to them. Regarding wild fauna there is little perceptible change apart from the 
+sharp decline in warthog, perhaps due to the aforementioned territorial over-hunting, and there is also a slight 
+decline in taxonomic diversity (13 to 9 wild taxa recorded). The addition of waterbuck (Kobus ellipsiprymnus) 
+and kob (Kobus kob) is consistent with the waterside gallery forest fauna of the previous horizon.
+Fig. 5. Morphological diagnostics of Bos sp. from WKO-I: A = Magnum (os carpale II+III), the example on the left is Bos 
+sp. from context 3, that on the right is Syncerus caffer from context 1. Note the rectangular (Bos) versus square (Syncerus) 
+habitus of these two examples (see Peters 1986: trait 19, pp. 6 and 19); B = Astragalus (talus), the example is Bos sp. from 
+context 6. Note that the lateral groove shown by the arrow is present in Bos but not in Syncerus (see Peters 1986: trait 32, 
+pp. 8 and 21); C = Jugal, Bos sp. from context 8. Note that the margin of jugal is more rounded and fuller in Bos, while it 
+is thinner and more angular in Syncerus. 
+
+175
+Windé Koroji Ouest (Mali, Third and Second Millennia BCE): The Environmental and Subsistence Evidence
+The morphologically identifiable Bos sp. (cattle) of Horizon B are fragmentary but suggest a relatively large 
+breed. The following are the available measurements (in mm): First phalanx, context 3, layer III, GLpe=65.8, 
+Bp=36.6, Bd=32.7; Magnum, context 3, layer III, GD=32.5, GB=36.4; Metacarpal, context 3, layer III, Bd=63.4, 
+Dd=34.1; Astragalus, context 6, layer III, GLl=72.3, Dl=38.3; Scaphoid, context 6, layer III, GD=41, GH=32.1.
+Remains from Horizon C (post 1600 BCE), while listed in Table 3, are not considered in detail here as they 
+are few in number, derive from surface deflation and therefore are either eroded from Horizon B or may be 
+relatively recent. It is, however, worth noting two elements of goat (Capra hircus) from Horizon C. These are the 
+only two bones of this taxon identified from the site, and suggest a dwarf variety not present in the region today 
+(in mm): Astragalus, context 1, layer I, GLl=23.3, Glm=21.4; Dm=14.0, Dl=12.5.
+As concerns fish remains, only one portion of the assemblage (that from Horizon A) was available for study, 
+a previous UK analyst having “mislaid” the Horizon B samples. However, initial counts indicate that absolute 
+fish bone counts (NISP) between the two horizons were similar. The material from Horizon A, layer IV , has 
+been fully analysed by Manning (Tab. 4). The results are not unexpected. Size reconstruction across the taxa 
+indicates fishing without access to deeper channels or permanent waters where larger specimens can be had or, 
+in other words, a floodplain-focused exploitation. Most fish are in the 20-30 cm range and only a single catfish 
+(Auchenoglanis sp.) would have exceeded 100 cm in length and was probably brought in from farther afield. 
+Certainly the Tilapia (<20 cm to 50 cm size range), Lates (20-30 cm size range) and Synodontis (30-50 cm size 
+range) could have come from floodplain waters, or local channels, in the peak flood season.
+So, returning to the faunal assemblage as a whole, how can we account for the striking differences in faunal 
+profiles between Horizons A and B? Analysis of wood charcoal from the site by Dirk Uebel indicates that it was 
+in proximity to riverine gallery forests in Horizons A and B. This is further attested by the presence of antelope 
+species such as Cephalophus rufilatus, Hippotragus equinus and Kobus ellipsyprimnus. Thus, particularly during 
+the wet season, it was unlikely for this inundated region to provide suitable pasture for grazing, and it may have 
+fostered waterborne disease, explaining the relative absence of cattle in contrast to agropastoral sites in the Lower 
+Fig. 6. Morphological diagnostics of Ovis aries from WKO-I: A = Comparison of a modern Malian Ovis aries reference 
+specimen from Dia (collected 1999) of the same dental stage as an example from context 19. Note especially the dp4 where 
+pillars typical of Capra are absent; B = Ovis aries first phalanx from context 14 in two views.
+
+176
+Kevin MacDonald, Louis Champion & Katie Manning
+Table 3. Summary of identifiable faunal remains from WKO-I aggregated by occupational horizon. Note that the numbers 
+on the left are MNI and those on the right are NISP .
+Tilemsi Valley (Manning 2008, 2011). It should be noted that in the Tilemsi there was no significant floodplain 
+year around, while the wet season at Windé Koroji would have been problematic for herds of cattle. 
+Seasonality indicators from the early occupation at Windé Koroji include fruit pits of Vitex doniana and Scerocarya birrea, which both only ripen in the wet season, as well as extensive shallow water fish remains, principally 
+Clarias and Tilapia, indicative of floodplain exploitation. Interestingly, the post-1600 BCE occupation (Horizon 
+B) – when cattle are present – lacks comparable botanical indicators, but still possesses fish remains, crocodile and 
+freshwater terrapin remains. It is therefore possible that the initial occupation of the site was confined to the wet 
+season, making the presence of cattle unlikely, with a shift to some occupation outside of the peak flood (fruit 
+
+177
+Windé Koroji Ouest (Mali, Third and Second Millennia BCE): The Environmental and Subsistence Evidence
+tree) season in the subsequent period. Alternatively, occupation at Windé Koroji might straddle an ecological 
+shift, with more permanent inundation giving way over time to drier and less forested landscapes, facilitating 
+the presence of cattle. Regardless, we can be certain that the initial inhabitants of WKO were practicing millet 
+cultivation, or at least had access to domestic millet grain, and were keeping sheep. It is thus unlikely that they 
+would not have been familiar with cattle (present by this time in the Lower Tilemsi Valley), even if they were 
+not keeping and slaughtering them at this site until after 1600 BCE.
+Conclusions
+Windé Koroji Ouest is not a site in isolation. It existed within wider, mobile subsistence networks which undoubtedly moved between the edge of the ancient Niger floodplain and areas deeper within the Gourma. Indeed, 
+it is instructive to consider it in the context of coeval agro-pastoralist groups in the Lower Tilemsi Valley with 
+which its material culture has been compared (MacDonald 1996). Around 2000 BCE the populations of the 
+Windé Koroji Complex and associated groups in the Lower Tilemsi Valley, despite having a relatively homogenous material culture, exhibited an interesting range of agro-pastoral adaptations (Manning 2011). All feature 
+strong components of hunting and fishing, coupled with millet cultivation and the gathering of wild fruits. 
+Relative herd compositions varied, with cattle or ovicaprines sometimes absent, or varied in their proportions. 
+Overall, this indicates a very flexible economic strategy, unwedded to any particular resource – except, perhaps, 
+Table 4. Summary of identifiable fish remains from WKO-I, for Horizon A only (those from Horizon B were not available 
+for analysis). Numbers are counts of identified diagnostics within each reconstructed size range estimated by comparison 
+with modern reference specimens of known length.
+
+178
+Kevin MacDonald, Louis Champion & Katie Manning
+millet – and probably featuring decreasing mobility for core groups (attested by early structural remains at both 
+Karkarichinkat and Windé Koroji). Such (semi-)sedentary loci were probably coupled with mobile herd segments 
+whose presence or absence at any point on the landscape was determined by water and pasture resources, as well 
+as seasonal disease vectors. Such adaptations differ from other contemporary, historically and archaeologically 
+attested peoples of the Inland Niger Delta who tended to specialise in one subsistence activity, trading symbiotically to increase their dietary breadth and food security (McIntosh 1998; MacDonald 1999).
+In summary, our analysis of organic remains from Windé Koroji Ouest opens a precious, if narrow, window 
+on the environment and subsistence strategies at the eastern margin of the Inland Niger Delta between ca. 
+2100 and 1400 BCE. At that time the site was located at the edge of a stream, close to the Niger’s floodplain 
+surrounded by savanna gallery forest. Domestic millet and sheep are present from the site’s earliest occupation, 
+as well as evidence for hunting, fishing, mollusc gathering and the exploitation of arboreal fruits. It appears 
+that after 1600 BCE either more arid conditions prevailed, or mobility patterns changed, allowing the seasonal 
+presence of domestic cattle. 
+Acknowledgements
+This project has been funded by a combination of small grants from the British Academy, the Swan Fund (Oxford), the Prehistoric Society (UK), and the UCL Institute of Archaeology. It was conducted in cooperation 
+with the Malian Institut des Sciences Humaines. We would like to thank Dorian Fuller and Chris Stevens for 
+their comments on portions of this paper. Finally, we wish to express our gratitude to Cecilia Capezza, Nafogo 
+Coulibaly, Dirk Uebel, Chloe Jackson and Rachel Hutton MacDonald for their important contributions to the 
+Windé Koroji project.
+Kevin C. MacDonald, Institute of Archaeology, University College London (UCL), Great Britain 
+kevin.macdonald@ucl.ac.uk
+Louis Champion, Institute of Archaeology, University College London (UCL), Great Britain 
+championlouis@gmail.com
+Katie Manning, Geography, Kings College London, Great Britain 
+Katie.manning@kcl.ac.uk
+
+179
+Windé Koroji Ouest (Mali, Third and Second Millennia BCE): The Environmental and Subsistence Evidence
+References
+Amblard, S. 1996. Agricultural Evidence and its Interpretation 
+on the Dhars Tichitt and Oualata, south-eastern Mauritania. In: 
+Pwiti, G. & Soper, R. (eds), Papers from the 10th Congress of the PanAfrican Association for Prehistory and Related Studies. University of 
+Zimbabwe Publications, Harare, pp. 421-427.
+Blanck, J.-P ., Pion, J.-C., Besnus, Y. & Ballo, A. 1996. Paléo -
+écoule ments et paléoenvironnements dans le Gourma lacustre 
+(Mali). Apports des données satellitaires. Préhistoire Anthropologie 
+Méditerranéennes 5, 111-117.
+Blench, R. 2001. T rees on the march: The dispersal of economic 
+trees in the prehistory of West-Central Africa. Paper presented at 
+the Safa Conference, Cambridge, UK, May 2000. 
+http://dlc.dlib.indiana.edu/dlc/handle/10535/4574 (accessed 22 
+Oct. 2016).
+Breunig, P . & Neumann, K. 2002. From hunters and gatherers to 
+food producers: new archaeological and archaeobotanical evidence 
+from the West African Sahel. In: Hassan, F . (ed.), Ecological Change 
+and Food Security in Africa’s Later Prehistory. Kluwer Academic/
+Plenum Publishers, New York, pp. 123-155.
+Brunken, J., De Wet, J. M. J. & Harlan, J. R. 1977. The morphology 
+and domestication of pearl millet. Economic Botany 31, 163-174.
+Cissé, A. 1991. Inventaire et étude biologique des plantes sauvages 
+alimentaires consommées dans le sahel malien en periode de disette. 
+Ministère de l’ Education, UNESCO, Bamako.
+Dalziel, J. M. 1937. The useful plants of West Tropical Africa. The 
+Crown Agents for the Colonies, London.
+D’Andrea, A. C., Klee, M. & Casey, J. 2001. Archaeobotanical 
+evidence for pearl millet (Pennisetum glaucum) in sub-Saharan West 
+Africa. Antiquity 75, 341-348.
+D’Andrea, C., Kahlheber, S., Logan, S. & Watson, D. 2007. Early 
+Domesticated Cowpea (Vigna unguiculata) from Central Ghana. 
+Antiquity 81, 686-698.
+Eichhorn, B. & Neumann, K. 2014. Holocene vegetation change 
+and land use at Ounjougou, Mali. In: Stevens, C., Nixon, S., 
+Murray; M. A. & Fuller, D. Q. (eds), Archaeology of African Plant 
+Use. Left Coast Press, Walnut Creek, pp. 83-96.
+Fuller, D. Q., MacDonald, K. & Vernet, R. 2007. Early 
+domesticated pearl millet in Dhar Nema (Mauritania): evidence 
+of crop-processing waste as ceramic temper. In: Cappers, R. (ed.), 
+Fields of Change. Progress in African Archaeobotany. Barkhuis 
+Publishing, Groningen, pp. 1-76.
+Gallais, J. 1975. Pasteurs & Paysans du Gourma: La Condition 
+Sahelienne. Editions du CNRS, Paris.
+Giffard, P . L. 1971. L ’arbre dans le paysage Sénégalais. Sylviculture 
+en zone tropicale sèche. CTFT , Dakar.
+Lemoal, G. 1960. Les habitations semi-souterraines en Afrique de 
+l’Ouest. Journal de la Société des Africanistes 30 (2), 193-203.
+Linseele, V . 2007. Archaeofaunal Remains from the past 4000 years in 
+Sahelian West Africa. Cambridge Monographs in African Archaeology 
+70, BAR International Series 1658. Archaeopress, Oxford.
+MacDonald, K. C. 1994. Socio-Economic Diversity and the Origins 
+of Cultural Complexity along the Middle Niger (2000 BC to AD 300). 
+Unpublished PhD Thesis, University of Cambridge, Cambridge.
+MacDonald, K. C. 1995. The Faunal Remains (Mammals, Birds, 
+and Reptiles). In: McIntosh, S. K. (ed.), Excavations at Jenné-Jeno, 
+Hambarketolo, and Kaniana (Inland Niger Delta, Mali), The 1981 
+Season. University of California Press, Berkeley, pp. 291-318.
+MacDonald, K. C. 1996. The Windé Koroji Complex: evidence 
+for the peopling of the eastern inland Niger delta (2100-500 BC). 
+Préhistoire Anthropologie Méditerranéennes 5,147-165.
+MacDonald, K. C. 1998. Before the Empire of Ghana: Pastoralism 
+and the Origins of Cultural Complexity in the Sahel. In: Connah, 
+G. (ed.), Transformations in Africa: Essays on Africa’s Later Past. 
+Cassell, London, pp. 71-103.
+MacDonald, K. C. 1999. Invisible Pastoralists: an inquiry into 
+the origins of nomadic pastoralism in the West African Sahel. In: 
+Gosden, C. & Hather, J. (eds), The Prehistory of Food: appetites for 
+change. Routledge, London, pp. 333-349.
+MacDonald, K. C. & MacDonald, R. H. 2000. The Origins 
+and Development of Domesticated Animals in Arid West Africa. 
+In: Blench, R. M. & MacDonald, K. C. (eds), The Origins and 
+Development of African Livestock: Archaeology, Genetics, Linguistics 
+and Ethnography. UCL Press, London, pp. 127-162. 
+MacDonald, K. C., Vernet, R., Martinón-T orres, M. & Fuller, 
+D. Q. 2009. Dhar Néma: from early agriculture to metallurgy in 
+southeastern Mauritania. Azania: Archaeological Research in Africa 
+44, 3-48.
+Manning, K. 2008. Mobility, Climate Change and Cultural 
+Development. A Revised view of the Lower Tilemsi Valley, northeastern 
+Mali. Unpublished PhD Thesis, University of Oxford, Oxford.
+Manning, K. 2010. A developmental history for early West African 
+Agriculture. In: Allsworth-Jones, P . (ed.), West African Archaeology: 
+New Developments, New Perspectives. BAR International Series 
+2164. Archaeopress, Oxford, pp. 43-52.
+Manning, K. 2011. The First Herders of the West African Sahel: 
+Comparative Analyses of Zooarchaeological data from the Lower 
+Tilemsi Valley. In: Jousse, H. & Lesur, J. (eds), Peoples and Animals 
+in Holocene Africa: Recent Advances in Archaeozoology. Africa Magna 
+Verlag, Frankfurt/Main, pp. 75-88.
+Manning, K., Pelling, R., Higham, T ., Schwenniger, J.-L. & Fuller, 
+D. Q. 2011. 4500-year old domesticated pearl millet (Pennisetum 
+glaucum) from the Tilemsi Valley, Mali: new insights into an 
+alternative cereal domestication pathway. Journal of Archaeological 
+Science 38, 312.
+Marshall, F . & Hildebrand, E. 2002. Cattle Before Crops: The 
+Beginnings of Food Production in Africa. Journal of World 
+Prehistory 16 (2), 99-143.
+Maydell von, H.-J. 1986. Trees and shrubs of the Sahel. Josef Margraf 
+Verlag, Weikersheim.
+McIntosh, R. J. 1998. The Peoples of the Middle Niger. Blackwell 
+Publishers, Malden.
+
+180 Kevin MacDonald, Louis Champion & Katie Manning, Windé Koroji Ouest (Mali, Second Millennium BCE)
+Murray, S. S., & Déme, A. 2014. Excavations at Walaldé began 
+as part of the Middle Senegal Valley (MSV) Project. In: Stevens, 
+C., Nixon, S., Murray, M. A. & Fuller, D. Q. (eds), Archaeology 
+of African Plant Use. Left Coast Press, Walnut Creek, pp. 97-102.
+Munson, P . J. 1976. Archaeological Data on the Origins of 
+Cultivation in the Southwestern Sahara. In: De Wet, J. & Stemmler, 
+A. (eds), Origins of African Plant Domestication. Mouton, The 
+Hague, pp. 187-209.
+Neumann, K. 2005. The romance of farming – plant cultivation and 
+domestication in Africa. In: Stahl, A. B. (ed.), African Archaeology. 
+A Critical Introduction. Blackwell, Malden, pp. 249-275.
+Neumann, K., Kahlheber, S. & Uebel, D. 1998. Remains of woody 
+plants from Saouga, a medieval West African village. Vegetation 
+History and Archaeobotany 7 (2), 57-77. 
+Ozainne, S., Lespez, L., Le Drézen, Y., Eichhorn, B., Neumann, K. & 
+Huysecom, E. 2009. Developing a chronology integrating archaeo -
+logical and envir
+onmental data from different contexts: The Late 
+Holocene sequence of Ounjougou (Mali). Radiocarbon 51, 457-470.
+Peters, J. 1986. Osteomorphology and Osteometry of the Appendicular 
+Skeleton of African Buffalo, Syncerus caffer (Sparrman, 1779), and 
+Cattle, Bos primigenius f. taurus (Bojanus 1827). Occasional Papers, 
+Laboratorium voor Paleontologie, Rijksuniversiteit Gent, Ghent.
+Shinzo, S. 1990. T raditions orales à Ja : Histoire et Idéologie dans 
+une ancienne cité Islamique. In: Junzo, K. (ed.), Boucle de Niger 
+II. Institut de Recherches sur les langues et cultures d’Asie et 
+d’Afrique, T okyo.
+Van Damme, D. 1984. The Freshwater Mollusca of Northern 
+Africa: Distribution, Biogeography and Palaeoecology. Dr. W . Junk 
+Publishers, Dordrecht.
+Wickens, G. E. 1969. A Study of Acacia albida Del. (Mimosoideae). 
+Kew Bulletin 23 (2), 181-202.
+Zach, B. & Klee, M. 2003. Four thousand years of plant 
+exploitation in the Chad Basin of NE Nigeria II: discussion on 
+the morphology of caryopses of domesticated Pennisetum and 
+complete catalogue of the fruits and seeds of Kursakata. Vegetation 
+History and Archaeobotany 12, 187-204.

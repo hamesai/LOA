@@ -1,0 +1,30 @@
+{
+  "key": "ginzburg",
+  "title": "100 Years of Lynchings",
+  "author": "Ralph Ginzburg",
+  "file": "100 Years of Lynchings (Ralph Ginzburg [Ginzburg, Ralph]) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "format": "pdf",
+  "sha256": "e296d9dcc10624933cf095263c2de13308d7cb7eb53d7b7c8a83226de97251fc",
+  "words": 89236,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "Pages",
+      "words": 89236,
+      "pages": [
+        4,
+        310
+      ]
+    }
+  ],
+  "warnings": [],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "100 Years of Lynchings (Ralph Ginzburg [Ginzburg, Ralph]) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "found_by": "user"
+  },
+  "text_quality": {
+    "common_word_share": 0.352,
+    "odd_character_share": 0.001
+  }
+}

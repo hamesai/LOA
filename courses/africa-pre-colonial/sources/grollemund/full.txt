@@ -1,0 +1,1227 @@
+## Pages 1 to 11
+
+Bantu expansion shows that habitat alters the route
+and pace of human dispersals
+Rebecca Grollemund a,1, Simon Branford a, Koen Bostoen b, Andrew Meade a, Chris Venditti a, and Mark Pagel a,c,1
+aEvolutionary Biology Group, School of Biological Sciences, University of Reading, Reading RG6 6BX, England; bKongoKing Research Group, Department of
+Languages and Cultures, Ghent University, 9000 Ghent, Belgium; and cThe Santa Fe Institute, Santa Fe, NM 87501
+Edited by Peter S. Bellwood, Australian National University, Canberra, ACT, Australia, and accepted by the Editorial Board August 10, 2015 (receive df o r
+review February 25, 2015)
+Unlike most other biological species, humans can use cultural innovations to occupy a range of environments, raising the intriguing
+question of whether human migrations move relatively independently of habitat or show preferences for familiar ones. The Bantu
+expansion that swept out of West Central Africa beginning∼5,000 y
+ago is one of the most influential cultural events of its kind, eventually spreading over a vast geographical area a new way of life in
+which farming played an increasingly important role. We use a new
+dated phylogeny of ∼400 Bantu languages to show that migrating
+Bantu-speaking populations did not expand from their ancestral
+homeland in a “random walk” but, rather, followed emerging savannah corridors, with rainfores t habitats repeatedly imposing
+temporal barriers to movemen t. When populations did move
+from savannah into rainforest, rates of migration were slowed, delaying the occupation of the rai nforest by on average 300 y, compared with similar migratory movements exclusively within savannah
+or within rainforest by established rainforest populations. Despite
+unmatched abilities to produce innovations culturally, unfamiliar habitats significantly alter the route and pace of human dispersals.
+human dispersal | phylogeography | phylogenetics | languages | Bantu
+M
+ost biological species are confined to areas of the world for
+which their genes have adapted them, but humans, relying
+on cultural innovations passed down for generations, have been
+able to inhabit nearly every environment on Earth (1). Even so,
+from our earliest migrations as a species, there is reason to believe
+that modern humans, despite all of their cultural evolutionary
+potential, might have preferred to follow habitats that did not
+require them to master new environments. The so-called “beachcomber” or “coastal routes ” hypothesis proposes that the first
+migrations out of Africa might have followed a coastal route via
+India to the Far East and eventually to Australia (2). Much more
+recently, there was a suggestion that during the occupation of the
+Pacific by Austronesian people∼3,500 y ago (3), there were several
+periods during which the migration paused while people acquired
+the sailing technology to attempt fu rther voyages (4). This technology, in the form of boat designs, might also have been under
+strong natural selection (5), showing that cultural innovations are
+not just a matter of whimsy. East–west migrations might in general
+be more common than north–south movements because the former
+are less likely to encounter variation in climate and habitat (6).
+Bantu migrations swept out of West Central Africa beginning
+∼5,000 y ago (B.P.) and eventually moved all the way down to the
+southern tip of the African continent. It was one of the most influential cultural events of its kind, spreading over a vast geographical area a new, more sedentary way of life that was
+fundamentally different from that of indigenous forest foragers —
+ancestral Bantu speakers had mixed-subsistence economies, in
+which farming gradually gained in importance (7 –9).
+Two major events in the recent paleoenvironmental history of
+Central Africa might have influenced the route of the Bantu expansion (10–18). The first was a contraction at ∼4,000 B.P. of the
+Congo rainforest at its periphery, for instance along the coasts of
+South Cameroon, Gabon, and Congo (11, 16, 19). A second event
+at ∼2,500 B.P. affected amongst others the western part of the
+Congo Basin, creating patches of more or less open forests and
+wooded or grassland savannahs (14, 15). These areas eventually
+merged into a corridor known as the “Sangha River Interval” that
+repeatedly facilitated the north –s o u t hs p r e a do fc e r t a i nt y p i c a l
+savannah plant and animal species (17, 20 –22).
+The Sangha River Interval may also have been a crucial passageway for the initial north –south migration of Bantu speech
+communities across the Equator. The archaeological evidence is
+not yet detailed enough on its own to test this idea (17). However, the geographical expansion of the Bantu linguistic family,
+coupled with phylogenetic trees that make use of archaeological
+evidence, provides an opportunity to reconstruct how and when
+this cultural expansion moved through the varying habitats of
+West Central Africa.
+Here we use a new time-calibrated phylogenetic tree describing
+the patterns of descent of ∼400 Bantu languages to study the route
+and pace of Bantu speakers as they migrated from their ancestral
+homelands. Our data include a dense sampling of languages that
+descend from the early phases of the Bantu expansion, along with
+five now-extinct northern Ban tu languages and several Bantu
+languages spoken in the northeastern Democratic Republic of the
+Congo (DRC). In combination with information on present-day
+geographical positions of the Bantu languages, the phylogenetic
+Significance
+Humans are uniquely capable of using cultural innovations to
+occupy a range of environments, raising the intriguing question
+of whether historical human migrations have followed familiar
+habitats or moved relatively independently of them. Beginning
+∼5,000 y ago, savannah-dwelling populations of Bantu-speaking
+peoples swept out of West Central Africa, eventually occupying
+a vast geographical area. We show that this expansion avoided
+unfamiliar rainforest habitats by following savannah corridors
+that emerged from the Congo rainforest, probably from climate
+change. When Bantu speakers did move into the rainforest,
+migration rates were delayed by on average 300 y compared
+with similar movements on the savannah. Despite unmatched
+abilities to produce innovations culturally, unfamiliar habitats
+significantly alter the route and pace of human dispersals.
+Author contributions: R.G., S.B., K.B., A.M., C.V., and M.P. designed research; R.G., S.B., K.B.,
+A.M., C.V., and M.P. performed research; R.G., S.B., K.B., A.M., C.V., and M.P. contributed
+new reagents/analytic tools; R.G., S.B., K.B., A.M., C.V., and M.P. analyzed data; and R.G., S.B.,
+K.B., A.M., C.V., and M.P. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission. P.S.B. is a guest editor invited by the Editorial
+Board.
+Freely available online through the PNAS open access option.
+Data deposition: The Bantu language data and the multistate encoding of the language
+data are available at www.evolution.reading.ac.uk/DataSets.html.
+1To whom correspondence may be addressed. Email:m.pagel@reading.ac.uk or r.b.grollemund@
+reading.ac.uk.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1503793112/-/DCSupplemental.
+www.pnas.org/cgi/doi/10.1073/pnas.1503793112 PNAS Early Edition | 1o f6
+EVOLUTION
+
+tree allows us to infer ancestral migration routes and then test
+among proposed scenarios for how Bantu speakers moved through
+the savannah and rainforest habitats of Central, Eastern, and
+Southern Africa.
+Results
+Dated Phylogenetic Tree of the Bantu. We derived a Bayesian
+posterior sample of n = 100 phylogenetic trees from linguistic
+data on 424 Bantu and related languages ( Materials and Methods
+and SI Materials and Methods ). The consensus phylogeny (Fig.
+1a n d Fig. S1 ) depicts a progressive “backbone” or pectinate
+radiation from a common ancestor with the out-group Grassfields languages. This radiating tree occurs in 100% of the trees
+in the posterior sample ( SI Materials and Methods ). The tree ’s
+broad outlines are similar to the tree that Currie et al. (23)
+report, but where those authors find paraphyletic groups for
+the central-western and west-western Bantu, we reconstruct
+monophyletic groups.
+On the basis of four calibration ranges supported by archaeological studies ( Materials and Methods and SI Materials and
+Methods), the root of the tree estimates a common ancestor with
+the outgroup Grassfields speakers at ∼6,900 B.P. (node 0, Fig. 1;
+age = 6,929.7 ± 418.6 B.P.), a date considerably older than the
+5,000-B.P. younger limit suggested by our calibration range. The
+tree then dates the remaining Bantu in-group (node b) to ∼4,800
+B.P. (4,846.5 ± 138.1), a time that is near to the older end of
+dates suggested by archaeology (node b prior range = 4,000 B.P.
+to 5,000 B.P.; SI Materials and Methods ).
+The ∼4,800 B.P. date for node 1 can be compared with the
+results from two recent genetic studies on the assumption that the
+in-group Bantu node coincides with the beginning of the Bantu
+expansion. Gignoux et al. (24) report a population expansion of
+“sub-Saharan” people at ∼4,600 y ago, and Li et al. (25) find evidence for a Bantu population expansion at ∼5,600 y ago.
+Historical Migration Route. We used information on the latitudinal
+and longitudinal positions of the languages to reconstruct the
+probable ancestral geographical locations of each of the internal
+nodes of the trees in the posterior sample ( Materials and Methods
+and SI Materials and Methods ). We then used these reconstructions to record the routes of dispersal of Bantu speakers from their
+homeland, and we linked the reconstructed geographical position
+at each node to its inferred time, as recorded on the tree, and to
+information from palynological and paleoenvironmental studies
+(13–15, 26) on the likely habitats at different times in the past.
+The reconstructions (Fig. 2 A and B) locate the ancestral
+homeland of the common ancestors to the Bantu and outgroup
+Grassfields speakers (node 0, Fig. 1) in the savannah habitat of
+Northwestern Cameroon. The pectinate nature of the tree means
+that the Bantu language groups that descended from the Bantu
+common ancestor (node 1, Fig. 1) would themselves become the
+ancestors to the major radiation of the Bantu that eventually occupied large parts of Central, Eastern, and Southern Africa.
+The principal dispersal route (Fig. 2 A) first moves in a southeasterly direction (approximately nodes 1–8), before traversing in
+a predominantly easterly direction along the southern boundary of
+the Congo rainforest [this is in contrast to Currie et al. (23), whose
+reconstructed route moves in alternating south and east steps,
+crossing the Congo rainforest]. We find no evidence for the suggestion (27, 28) that the main migration followed a coastal route
+(Fig. 2). A few early groups did explore coastal routes (Fig. 1), but
+these groups moved in from the east after having branched off the
+main backbone migration, rather than being ancestral to it.
+At least three principal southern migrations branched off from
+the backbone as it moved east along the southern boundary of
+the rainforest (Fig. 2 A), the last of which were the ancestors to
+modern-day South African Bantu speakers. This migration route
+is consistent with proposals (29 –35) that the ancestors of the
+modern-day Eastern Bantu groups diverged from the Western
+Bantu ∼2,000 y ago in the Congo region.
+However, our results reject the suggestion (36 –38) that the
+Eastern Bantu speakers in the Great Lakes region of East Africa
+trace their ancestry back to Bantu-speaking peoples who had
+migrated from the northern Congo. Instead, we find that the
+Eastern Bantu are the descendants of people who moved north
+into the Great Lakes region from the main backbone (brown
+lines, Fig. 2A ). This result emerges despite the fact that our tree
+includes five now-extinct Bantu languages, along with several
+contemporary Bantu languages, all spoken in the northeastern
+DRC and that have been proposed (39) to have shared a more
+recent common ancestor with Eastern Bantu. Our findings are
+also consistent with genetic studies (40) that have found a positive correlation between genetic and linguistic distances, which
+suggests that a northern migration route was less probable.
+Our principal interest is in whether the early Bantu migration
+(nodes 1–8 in Fig. 2 A) took advantage of changes to the climate
+and habitat in the western Congo basin that created north –south
+“corridors” through the core of the Central African rainforest
+(dashed curve Fig. 2A ). Before ∼4,000 B.P. (11, 16, 19), nearly
+the entire light- and darker-shaded regions of Fig. 2 A were covered by rainforest (SI Materials and Methods and Fig. S2A). Then,
+palynological and geological data (11, 16, 19, 41) indicated that, by
+at least 4,000 y ago, climate changes had created encroaching
+savannah habitats in the periphery of the rainforest (white and
+light green shading, Fig. 2 A)—for instance, along the coasts of
+Gabon and Congo. It is only toward 2,500 B.P. that climate change
+Jarawan
+A31-40-50-60
+A10-20-30
+A40-60-70
+B20-A80-90
+B20
+B10-30
+C10-20-30-40
+C60-70-80
+B80
+B50-60-70
+H10-30-42-B40
+L50-60-K10-30-R10-20-30
+L20-30-40
+D10-20-30-43-55
+M40-50-60
+P30-K21-S10-20-30-40-50-N20-30-40
+JE10-20-30-40
+JD50-60
+M10-20-30
+F10-20-30
+G50-60-N10-P10-20
+G10-20-30
+E74a-G20-G39
+E46-50-60
+G40-E70
+CENTRAL-WESTERN
+WEST-WESTERN
+SOUTH-WESTERN
+EASTERN
+C50-D10
+D20-30-C40
+L10-20-H21a-H30-40
+0100020003000400050006000
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+NORTH-WESTERN
+Cameroon
+NORTH-WESTERN
+Gabon
+a
+b
+c
+d
+Fig. 1. Consensus time tree of n = 424 Bantu languages, derived fromn = 100
+trees drawn from the Bayesian posterior distribution. Triangles are proportional to the number of languages in the group, and the labels are the
+codes used by Guthrie (65). Phylogenetic methods and full tree are reported in
+SI Materials and Methods . The four calibrations used are identified by red
+letters (a, 5,000 B.P. or older; b, 4,000 –5,000 B.P.; c, 3,000 –3,500 B.P.; and d,
+2,500 B.P.; SI Materials and Methods). (Inset) Map of Africa with colored dots
+to represent the current location of the languages. Note: The age of the root
+on the consensus tree differs from the average root in the posterior sample
+(text). This is because the ages of nodes on the consensus tree were reconstructed by fitting the phylogenetic model to the fixed consensus tree topology. All statistics reported in the text are based on the posterior sample, not
+the consensus tree.
+2o f6 | www.pnas.org/cgi/doi/10.1073/pnas.1503793112 Grollemund et al.
+
+also led to the development of savannah vegetation in central
+parts of the Congo rainforest, yielding corridors such as the Sangha River Interval in the western part of the Congo Basin ( SI
+Materials and Methods and Fig. S2 B), which connected northern
+and southern savannahs (14, 15, 17).
+To test the savannah-corridor hypothesis (that the backbone
+Bantu migration followed savannah rather than rainforest habitats), we reconstructed the ancestral geographical positions of
+nodes 0– 8 (Fig. 1) for each of the trees in our posterior sample.
+Then, using dates from the trees along with the paleoclimatic
+data ( SI Materials and Methods and Fig. S2 A–C), we asked
+whether at the time the Bantu speakers are inferred to have been
+at those positions, the habitat had changed from rainforest to
+either savannah or other nonrainforest habitat. The last of these
+nodes (node 8) roughly corresponds to the point at which the
+southeasterly Bantu migration reaches the southern boundary of
+the rainforest, before turning east.
+We find that in all 100 trees in the posterior sample, the
+backbone moves in a southeasterly direction toward the southern
+boundary of the rainforest (Fig. 2 B). A small number of ancestral
+positions are reconstructed in a “bulb” of rainforest habitat in the
+northwest, but the majority are not, suggesting that the main migration moved around it (curved arrow). Thus, in n = 96 (96%) of
+the trees, the reconstructed positions of at least 7 of the 9 ancestral
+nodes miss the rainforest entirely (routes plotted in Fig. 2 B): all
+9 nodes miss the forest in n = 73 of the trees, and at least 8 miss
+the forest in n = 87 trees, giving an average of 8.53 ± 0.96 of 9 of
+the backbone nodes falling in nonrainforest habitat.
+It is unlikely that the reconstructed migration route and fit to
+the habitat could have arisen by chance: When we simulate migrations as random walks from the ancestral homeland, and by
+using conservative criteria that favor the random-walks hypothesis
+(simulation details in SI Materials and Methods ), we find that, at
+most, 6.3 –9.7% of the random-migration routes follow the savannah corridor as closely as the real data (corresponding to 7, 8,
+or 9 nodes outside the forest; Fig. 2 C). Only when we restrict the
+simulations to move exclusively in a southeasterly direction do our
+simulated routes coincide with the savannah corridor beyond a
+negligible level ( ∼47% of routes; Materials and Methods and SI
+Materials and Methods).
+An intriguing alternative to the proposal that the Bantu followed emerging savannah habitats is that they created their migration route by deforesting the Sangha River Interval region (42).
+However, we think this scenario is unlikely to have played a major
+role in determining the Bantu ’s route. The thinning of the rainforest occurred simultaneously over much of the region from
+Cameroon to the Congo (42), and it grew from southern as well as
+northern areas (Fig. 2A). This thinning has been linked to climatic
+changes, but not to human deforestation (43, 44), suggesting that
+if Bantu populations contributed to thinning, it was to a process
+that was already underway.
+There is also no evidence to suggest that the predominantly
+north–south movement of the Bantu through the savannah corridor followed or was aided by rivers. Archaeological evidence
+from the Inner Congo Basin (45, 46) suggests movement of Bantu
+communities along rivers mostly in a west to east direction and
+involving groups that are not part of the backbone or main
+migration lineage.
+Migration Rates Within and Between Savannah and Rainforest Habitats.
+The tree, along with the dates and palynological and paleoenvironmental information, can be used to identify“habitat transitions,”
+defined as instances in which the geographical position and date
+reconstructed at the beginning of a branch on the tree implies a
+different habitat from the one implied by the geographical position
+and date at the end of the branch.
+Across trees, we found an average of 52.7 ± 4.4 independent
+habitat transitions, with 35.8 ± 3.4 corresponding to transitions
+from savannah into forest and 16.9 ± 2.5 from forest back to
+savannah: We say “back” to savannah because most rainforestdwelling Bantu speech communities have an ancestral history of
+residing in savannah. The consensus tree records 48 transitions
+between habitats, 31 corresponding to transitions from savannah
+to rainforest, and 17 from rainforest back to savannah (Fig. 3).
+The remaining branches record movement within the same habitat,
+either forest or savannah.
+?
+9
+?
+8
+7
+6
+5
+0020000222221
+34
+AB
+C
+Fig. 2. Ancestral migration route reconstruction. ( A) Ancestral migration route reconstructed on consensus tree by using geographical locations of contemporary languages and connecting ancestral locations by straight lines (true route will differ). Numbered positions correspond to nodes on the consensus
+tree (Fig. 1). Curved dashed line indicates suggested migration route through savannah corridors (B ). Lighter green shading corresponds to the delimitation of
+the rainforest at 5,000 B.P.; the darker green corresponds to the delimitation of the rainforest at 2,500 B.P. (text and SI Materials and Methods ). ( B) Map
+showing the ancestral locations of the backbone nodes (Fig. 1) for the 100 trees in the Bayesian posterior sample; curved arrow is suggested route for the
+early migration based on a small number of reconstructed points that fall in rainforest. ( C) Same as B but showing the ancestral locations of random migration
+routes for nodes 0– 8 (text and SI Materials and Methods ).
+Grollemund et al. PNAS Early Edition | 3o f6
+EVOLUTION
+
+On average, Bantu speaking groups that moved into the rainforest (F) were significantly delayed, taking on average ∼300 y
+longer than comparable transitions within savannah (S) habitats
+(Fig. 4). This significant delay isobserved separately in at least 90%
+of the trees in the posterior sa mple and is not an artifact of S- >F
+transitions covering a greater distance: Our analyses control for the
+distance moved, implying that S- >F transitions proceed at an absolutely slower pace. We think it is unlikely that the slower S- >F
+transitions could arise from a higher extinction rate of groups that
+attempted this transition: Even if there were higher extinction rates,
+because the analyses control for the distance moved, the finding of
+a slower rate of movement of successful transitions stands.
+By comparison, transitions from the rainforest back to savannah take no longer on average than movements within either
+rainforest or savannah (not significant in any tree; Fig. 4). This
+finding might suggest that the savannah is an easier habitat to
+occupy or, more interestingly, that the rainforest-dwelling Bantu
+cultures in our tree tend to descend from ancestrally savannahdwelling cultures and retained some cultural knowledge of how
+to exploit the savannah environment.
+Discussion
+Together, our results show that the Bantu expansion was characterized by a measureable preference for following familiar savannah habitats as it moved from present-day northwest Cameroon
+in a southeasterly direction, taking advantage of a savannah corridor that began to appear by ∼4,000 y ago. This route avoided
+rainforest habitats and spawnednumerous migratory branches that
+led to the occupation of nearly all of southern Africa, along with
+several independent movements north into the Great Lakes region
+of East Africa.
+When savannah-dwelling Bantu-speaking groups did move into
+the rainforest, their rate of migration was significantly slowed. On
+its own, this result might not be surprising —the rainforest is
+covered with dense vegetation that might have made subsistence
+(and especially farming) more diff icult, and rainforest habitats
+might harbor more predators and organisms causing infectious
+disease. What is surprising, however, and relevant to the question
+of human cultural innovation, is the extent to which the rainforest
+slowed human movement. Vansina (47) has written that “[Bantu]
+Farmers took some 2000 y to settle the rainforests of equatorial
+Africa, and then, about another half millennium to absorb new
+technologies and to become finely attuned to all of the potential of
+their habitats. ” Our phylogenetic reconstructions, showing that
+transitions into the rainforest were delayed by ∼300 y compared
+with movements of a similar distance within savannah habitats, are
+in good agreement with Vansina’s observations and correspond to
+a 50% reduction in the pace of human expansion.
+Could transitions into the rainforest really delay movements
+by hundreds of years? Our results curiously seem to fit with
+modern studies that suggest that human innovation has less to do
+with thinking hard until the right solution comes to mind (the
+lightbulb switching on in our minds), than with the slow accumulation of knowledge and technology principally resulting from
+“trial and error. ” Thus, Basalla (48) and Arthur (49) both emphasize the cumulative nature of human innovations, downplaying
+the role of “genius” innovators. For instance, Henry Ford ’sf a -
+mous assembly line production drew on earlier experiments with
+streamlining assembly lines, and Watt ’ss t e a me n g i n ew a sl e s so f
+an “out of thin air ” invention than a development of Newcombe’s
+earlier engine. Thomas Edison is often credited with “inventing
+the light bulb, ” but records show that his patent was for a better
+filament to a lightbulb, and his notebooks reveal that he tried
+thousands of filament materials before alighting by chance on his
+favored material. The typically low population densities of subsistence peoples such as early Bantu speakers would only have
+exaggerated the difficulties of accumulating new technologies (50).
+Our approach shows that evidence bearing on subtle questions
+of human history can be investigated by using phylogenies derived from languages, combined with relevant information on
+contemporary cultures and appropriate statistical modeling. Indeed, there is reason to believe that language phylogenies might
+even be preferable to gene-based trees in this regard (51).
+Languages typically evolve at a higher rate than genes, meaning
+that they can resolve shorter time scales, but languages might
+have an even more fundamental role. Languages track the inheritance of culture, and it is this inheritance that is normally
+pertinent to questions of human cultural evolution. Genes, by
+comparison, can readily move among cultures, without necessarily taking their cultures with them.
+Savannah -> Rainforest
+Rainforest -> Savannah 
+Fig. 3. Consensus time tree with panels that enlarge the clades that have
+savannah to rainforest ( n = 31 independent transitions) and rainforest to
+savannah ( n = 17 independent transitions). Numbers of each kind of transition vary in the posterior sample (text). Both kinds of transition are widely
+distributed among the clades near to the rainforest, and S- >F transitions are
+always ancestral to F- >S transitions. Some lineages have experienced three
+transitions in their history.
+h a n n a v a Sh a n n a v a S t s e r o Ft s e r o F300 400 500 600 700 800300 400 500 600 700 800300 400 500 600 700 800
+Fig. 4. Posterior distribution of times taken for four different habitat transitions, controlling for distance moved. Savannah to forest transitions are significantly
+slowed (Tukey honest significant difference test; P < 0.05) compared with transitions within savannah in 90 of 100 trees in the posterior sample. Rainforest to
+savannah transitions take no longer on average than movements within either rainforest or savannah (not significant in any tree). Mean in years ± SD: S->S =
+368.6 ± 13.9; S->F = 662.8 ± 78.7; F->S = 446.0 ± 64.7; F->F = 420.6 ± 24.2. All significance tests were performed on log-transformed data to normalize variances.
+4o f6 | www.pnas.org/cgi/doi/10.1073/pnas.1503793112 Grollemund et al.
+
+Materials and Methods
+Linguistic Data. We collected lexical data from published sources and from
+fieldwork for 409 Bantu and 15 Bantoid languages. Our wordlist is a modified
+version of the Atlas Linguistique du GABon (52). This list comprises 159 words
+from which we have sampled 100 words that are the best documented for
+the languages we studied ( Materials and Methods and SI Materials and
+Methods). We then classified the words into cognate sets and built a binarycoded dataset (each column identifies a unique cognate class), yielding 3,859
+cognate classes for the 424 languages.
+Phylogenetic-Statistical Methodology. We inferred a time-dated phylogeny
+from the lexical dataset using a variable-rates molecular clock model that allows
+the rate of evolution to vary among branches of the tree. The variable-rate
+clock is modeled by applying a scalar multiplier to each branch of the tree that
+alters the rates by some fixed amount (53). We assume these scalars are drawn
+from a log-normal prior distribution with μ = 1 and unknown σ2 that we estimate from the data. Node ages were estimated by using a Yule process (54).
+Trees were inferred using Markov chain Monte Carlo methods (55) that
+implemented Tuffley and Steel ’s covarion model (56), which allows the rate
+of evolution to jump between an “on” and an “off” state throughout the
+tree (model testing and selection is detailed in SI Materials and Methods and
+Table S1). The covarion model is well suited to binary-coded cognate data,
+owing to the fact that each cognate class ideally arises just once on the tree. The
+variable rates and covarion models were implemented in our BayesPhylogenies
+software (57). The ladderised or pectinate phylogeny of Fig. 1 is robust to
+subsampling of the n = 100 words ( SI Materials and Methods ).
+Chains were run for 3 × 108 iterations, with a sampling period of 10,000
+iterations. We used the Tiv and the Grassfields languages as out-groups to
+root the tree.
+Calibration Ranges. We used archaeological data to propose date ranges, and in
+one case a fixed date, for four nodes of our tree (labeled a–di nF i g .1 ) .T h ef o u r
+calibrations are as follows: (a) 5,000 B.P. or older for Bantoid, non-Bantu (58);
+(b) 4,000–5,000 B.P. for Narrow Bantu (13, 14, 16, 44, 59, 60); (c) 3,000–3,500 B.P.
+for the Mbam-Bubi ancestor (61); and (d) 2,500 B.P. for Eastern Bantu (62). We
+used a uniform prior in our Bayesian tree inference for all calibration ranges.
+Geographical Data. We recorded the latitude and longitude of the approximate centroid of each of our languages ( Dataset S1), using data provided by
+Bastin et al. (38) and fieldwork studies.
+Ancestral Reconstructions. We inferred ancestral latitude and longitude for
+each node of our tree using a Brownian motion model applied to the contemporary data that allowed for rates of geographical movement to vary
+throughout the tree, following methodology we have reported elsewhere
+(63) and as implemented in our BayesTraits software.
+Simulated Migrations of Savannah Corridor Route. We generated random
+dispersal routes from the Bantu homeland for the nine nodes (nodes 0 –8o f
+Fig. 1) corresponding to the southeasterly movement through the savannah
+corridor and out into the savannah south of the Congo rainforest. We held
+constant the consensus phylogenetic tree and the timings at its nodes, so as
+not to introduce a large and unknown additional source of possible geographical movements. Simulated routes were allowed to go to places that
+Bantu have actually inhabited historically or at present. Moves into the sea
+or other bodies of water were prohibited, and a newly simulated position
+was not allowed to occupy a space already occupied (defined as within
+10 km of any previously simulated point, unless the distance to be traveled
+was less than this).
+These constraints narrowed the space of possible migration routes, making
+it more likely the simulated routes would coincide with the savannah corridor. We then simulated two dispersal scenarios. In the first, the distances
+moved along the backbone on the tree followed those actually observed
+along the same branches but in a random order; in the second, these distances
+were drawn from a random distribution but normalized to have the same
+total distance moved as observed in the real data. The first yielded 9.7% of
+routes with seven or more nodes falling in the savannah corridor, and the
+second returned 6.3% using the same criterion. Only when we constrain the
+simulations to move exclusively in a southeasterly direction do our simulated
+routes coincide with the savannah corridor beyond a negligible level —∼47%
+of route falls in savannah corridor.
+ACKNOWLEDGMENTS. We thank Gérard Philippson for the data on Eastern
+Bantu languages, Jean-Marie Hombert for the Grassfields languages, the
+KongoKing research group (leader KB) for the data on the Kikongo languages
+(H), and Jean-Pierre Donzo and Guy Kouarata for data on C languages spoken
+in Congo and DRC. This work was supported by European Research Council
+Advanced Investigator Award 268744 (Mother Tongue; to M.P.). K.B. was supported by European Research Council Starting Grant No. 284126 (KongoKing)
+and by the Special Research Fund of Ghent University.
+1. Pagel M (2012) Wired for Culture: Origins of the Human Social Mind (Penguin, New
+York), p 432.
+2. Mellars P (2006) Going east: New genetic and archaeological perspectives on the
+modern human colonization of Eurasia. Science 313(5788):796–800.
+3. Hung H-c, et al. (2011) The first settlement of Remote Oceania: The Philippines to the
+Marianas. Antiquity 85(329):909–926.
+4. Gray RD, Drummond AJ, Greenhill SJ (2009) Language phylogenies reveal expansion
+pulses and pauses in Pacific settlement. Science 323(5913):479–483.
+5. Rogers DS, Ehrlich PR (2008) Natural selection and cultural rates of change. Proc Natl
+Acad Sci USA 105(9):3416–3420.
+6. Diamond J (1997) Guns, Germs, and Steel: The Fates of Human Societies (Norton, New
+York), p 480.
+7. Diamond J, Bellwood P (2003) Farmers and their languages: The first expansions.
+Science 300(5619):597–603.
+8. Russell T, Silva F, Steele J (2014) Modelling the spread of farming in the Bantu-speaking
+regions of Africa: An archaeology-based phylogeography. PLoS One 9(1):e87854.
+9. Neumann K, et al. (2012) First farmers in the Central African rainforest: A view from
+southern Cameroon. Quat Int 249(6):53–62.
+10. Schwartz D (1992) Assèchement climatique vers 3000 BP et expansion bantu en
+Afrique Centrale atlantique: Quelques réflexions. Bull Soc Geol Fr 163(3):353–361.
+11. Vincens A, et al. (1994) Changement majeur de la végétation du lac Sinnda (vallée du
+Niari, Sud-Congo) consécutif à l ’assèchement climatique holocène supérieur: Apport
+de la palynologie. Comptes Rendus à l ’Academie des Sciences de Paris 318:1521 –1526.
+12. Vincens A, Buchet G, Servant M (2010) Vegetation response to the ” African Humid
+Period” termination in Central Cameroon (7° N)–new pollen insight from Lake Mbalang.
+Clim Past 6(3):281–294.
+13. Maley J, Brenac P (1998) Vegetation dynamics, palaeoenvironments and climatic
+changes in the forests of western Cameroon during the last 28,000 years BP. Rev
+Palaeobot Palynol 99(2):157–187.
+14. Maley J (2001) La destruction catastrophique des forêts d ’Afrique centrale survenue il
+ya environ 2500 ans exerce encore une influence majeure sur la répartition actuelle
+des formations végétales. Syst Geogr Plants 71:777–796.
+15. Maley J, Willis K (2010) Did a savanna corridor open up across the Central African
+forests 2500 years ago? CoForChange. Available at www.coforchange.eu/products/
+notes/did_a_savanna_corridor_open_up_across_the_central_african_forests_2500_years_ago.
+Accessed 18 August 2015.
+16. Ngomanda A, et al. (2009) Western equatorial African forest-savanna mosaics: A
+legacy of late Holocene climatic change. Clim Past 5(4):647–659.
+17. Bostoen K, et al. (2015) Middle to Late Holocene Palaeoclimatic change and the early
+Bantu expansion in the rain forests of West Central-Africa. Curr Anthropol 56(3):
+354–384.
+18. Klieman KA (2003) The Pygmies were our compass: Bantu and Batwa in the History of
+West Central Africa, Early Times to c. 1900 C.E. (Heinemann, Portsmouth, NH), p 253.
+19. Vincens A, Schwartz D, Bertaux J, Elenga H, de Namur C (1998) Late Holocene climatic
+changes in western equatorial Africa inferred from pollen from Lake Sinnda, southern Congo. Quat Res 50(1):34–45.
+20. White F (1979) The Guineo-Congolian Region and its relationships to other phytochoria. Bulletin Jardin Botanique National Belgique/Bulletin Nationale Plantentuin
+Belgie 49(1/2):11 –55.
+21. Gond V, et al. (2013) Vegetation structure and greenness in Central Africa from Modis
+multi-temporal data. Philos Trans R Soc Lond B Biol Sci 368(1625):20120309.
+22. Doumenge C, Gonmadje C, Doucet J-L, Maley J (2014) Intervalle de la Sangha: Mythe
+ou réalité biogéographique? (Résumés, Stellenbosch, Afrique du Sud).
+23. Currie TE, Meade A, Guillon M, Mace R (2013) Cultural phylogeography of the Bantu
+Languages of sub-Saharan Africa. Proc R Soc 280(1762):20130695.
+24. Gignoux CR, Henn BM, Mountain JL (2011) Rapid, global demographic expansions
+after the origins of agriculture. Proc Natl Acad Sci USA 108(15):6044–6049.
+25. Li S, Schlebusch C, Jakobsson M (2014) Genetic variation reveals large-scale population expansion and migration during the expansion of Bantu-speaking peoples.
+Proc R Soc 281(1793):20141448.
+26. Adams J, Faure H, eds (1997) Review and Atlas of Palaeovegetation: Preliminary Land
+Ecosystem Maps of the World Since the Last Glacial Maximum (Oak Ridge National
+Laboratory, Oak Ridge, TN).
+27. Phillipson DW (1977) The Later Prehistory of Eastern and Southern Africa (Africana,
+New York), p 323.
+28. Blench R (2012) Two vanished African maritime traditions and a parallel from South
+America. Afr Archaeol Rev 29(2/3):273–292.
+29. Heine B, Hoff H, Vossen R (1977) Neuere Ergebnisse zur Territorialgeschichte der
+Bantu. Zur Sprachgeschichte und Ethnohistorie in Afrika , eds Möhlig WJG, Rottland F,
+Heine B (Dietrich Reimer, Berlin), pp 57 –72.
+30. Henrici A (1973) Numerical classification of Bantu languages. African Language Studies
+14:82–104.
+Grollemund et al. PNAS Early Edition | 5o f6
+EVOLUTION
+
+31. Heine B (1973) Zur genetischen Gliederung der Bantu-Sprachen. Afr Uebersee 56(3):
+164–185.
+32. Ehret C (1999) Subclassifying Bantu: The evidence of stem morpheme innovation.
+Bantu Historical Linguistics. Theoretical and Empirical Perspectives , eds Hombert JM,
+Hyman LM (CSLI, Stanford, CA), pp 43 –147.
+33. Ehret C (2001) Bantu expansions: Re-envisioning a central problem of early African
+history. Int J Afr Hist Stud 34(1):5–41.
+34. Holden CJ (2002) Bantu language trees reflect the spread of farming across subSaharan Africa: A maximum-parsimony analysis. Proc Biol Sci 269(1493):793–799.
+35. Holden CJ, Gray RD (2006) Rapid radiation, borrowing and dialect continua in the
+Bantu languages. Phylogenetic Methods and th e Prehistory of Languages , eds
+Forster P, Renfrew C (MacDonald Institute for Archaeological Research, Cambridge,
+U.K.), pp 19 –31.
+36. Möhlig WJG (1981) Stratification in the history of the Bantu languages. Sprache und
+Geschichte in Afrika 3:251–317.
+37. Bastin Y, Coupez A, de Halleux B (1983) Classification lexicostatistique des langues
+bantoues (214 relevés). Bull Seances Acad R Sci Outre Mer 27(2):173–199.
+38. Bastin Y, Coupez A, Mann M (1999) Continuity and Divergence in the Bantu
+Languages: Perspectives from a Lexicostatistic Study (Musée Royal de l ’Afrique Centrale, Tervuren, Belgium), p 225.
+39. Vansina J (1995) New linguistic evidence and ‘the Bantu expansion ’. J Afr Hist 36(2):
+173–195.
+40. de Filippo C, Bostoen K, Stoneking M, Pakendorf B (2012) Bringing together linguistic
+and genetic evidence to test the Bantu expansion. Proc R Soc B Biol Sci 279(1741):
+3256–3263.
+41. Desjardins T, et al. (2013) d13C variation of soil organic matter as an indicator of
+vegetation change during the Holocene in central Cameroon. C R Geosci 345:266–271.
+42. Bayon G, et al. (2012) Intensifying weathering and land use in Iron Age Central Africa.
+Science 335(6073):1219–1222.
+43. Maley J, Giresse P, Doumenge C, Favier C (2012) Comment on “Intensifying weathering and land use in Iron Age Central Africa ”. Science 337(6098):1040, author reply
+1040.
+44. Neumann K, et al. (2012) Comment on “Intensifying weathering and land use in Iron
+Age Central Africa ”. Science 337(6098):1040, author reply 1040.
+45. Eggert MKH (1992) The Central African rain forest: Historical speculation and archaeological facts. World Archaeol 24(1):1–24.
+46. Wotzka H-P (1995) Studien zur Archäologie des Zentralafrikanischen Regenwaldes:
+Die Keramik des Inneren Zaïre-Beckens und Ihre Stellung im Kontext der BantuExpansion (Heinrich-Barth-Institut, Köln, Germany).
+47. Vansina J (1990) Paths in the Rainforests (Univ of Wisconsin Press, Madison, WI), p 428.
+48. Basalla G (1988) The Evolution of Technology (Cambridge Univ Press, Cambridge, U.K.).
+49. Arthur WB (2009) The Nature of Technology: What It Is and How It Evolves (Penguin,
+London).
+50. Powell A, Shennan S, Thomas MG (2009) Late Pleistocene demography and the appearance of modern human behavior. Science 324(5932):1298–1301.
+51. Pagel M (2009) Human language as a culturally transmitted replicator. Nat Rev Genet
+10(6):405–415.
+52. Hombert J-M, Van der Veen L, Medjo Mve P (2011) ALGAB, Atlas Linguistique du
+GABon (Laboratoire Dynamique du Langage, Lyon). Available at www.ddl.ish-lyon.
+cnrs.fr/equipes/index.asp?Langue =FR&Equipe=8&Page=Action&ActionNum=48. Accessed November 10, 2014.
+53. Drummond AJ, Ho SY, Phillips MJ, Rambaut A (2006) Relaxed phylogenetics and
+dating with confidence. PLoS Biol 4(5):e88.
+54. Yule GU (1925) A mathematical theory of evolution, based on the conclusions of
+Dr. JC Willis, FRS. Philos Trans R Soc Lond, B Contain Pap Biol Character 213:21–87.
+55. Larget B, Simon DL (1999) Markov chain Monte Carlo algorithms for the Bayesian
+analysis of phylogenetic trees. Mol Biol Evol 16:750–759.
+56. Tuffley C, Steel M (1998) Modeling the covarion hypothesis of nucleotide substitution.
+Math Biosci 147(1):63–91.
+57. Pagel M, Meade A, Barker D (2004) Bayesian estimation of ancestral character states
+on phylogenies. Syst Biol 53(5):673–684.
+58. Lavachery P (2001) The Holocene archaeological sequence of Shum Laka Rock Shelter
+(Grassfields, Western Cameroon). Afr Archaeol Rev 18(4):213–247.
+59. Oslisly R (2001) The history of human settlement in the middle Ogooué valley (Gabon).
+African Rain Forest Ecology and Conservation , eds Weber W, White LJT, Vedder A,
+Naughton-Treves L (Yale Univ Press, New Haven), pp 101 –118.
+60. Ngomanda A, et al. (2005) Vegetation changes during the past 1300 years in western
+equatorial Africa: A high-resolution pollen record from Lake Kamalété, Lopé Reserve,
+Central Gabon. Holocene 15(7):1021–1031.
+61. Lavachery P (2003) A la lisière de la forêt. Peuplements Anciens et Actuels des Forêts
+Tropicales, eds Froment A, Guffroy J (IRD Editions, Paris), pp 89 –102.
+62. Ashley CZ (2010) Towards a socialised archaeology of ceramics in Great Lakes Africa.
+Afr Archaeol Rev 27(2):135–163.
+63. Venditti C, Pagel M (2010) Speciation as an active force in promoting genetic evolution. Trends Ecol Evol 25(1):14–20.
+64. Guthrie M (1948) The Classification of the Bantu Languages (Oxford Univ Press for the
+International African Institute, London), p 91.
+65. Guthrie M (1967 –1971) Comparative Bantu: An Introduction to the Comparative Linguistics and Prehistory of the Bantu Languages (Gregg International, London), 4 vols.
+66. Grollemund R (2012) Nouvelles approches en classification: Application aux langues
+bantu du Nord-Ouest. Thesis (Université Lumière Lyon 2, Lyon).
+67. Grollemund R, Branford S, Hombert J-M, Watters JR (2015) Towards a new phylogenetic classification of Bantoid languages. Towards Proto-Niger-Congo: Comparison
+and Reconstruction , ed Watters JR (Language Science Press, Berlin).
+68. Yang Z (1996) Among-site rate variation and its impact on phylogenetic analyses.
+Trends Ecol Evol 11(9):367–372.
+69. Pagel M, Meade A (2006) Estimating rates of lexical replacement on phylogenetic
+trees of languages. Phylogenetic Methods and the Prehistory of Languages , eds
+Forster P, Renfrew C (McDonald Institute Monographs, Cambridge, U.K.), pp 173 –182.
+70. Cornelissen E (2003) On microlithic quartz industries at the end of the Pleistocene in
+Central Africa: The evidence from Shum Laka (NW Cameroon). Afr Archaeol Rev
+20(1):1–24.
+71. Lavachery P (2001) The Holocene archaeological sequence of Shum Laka rock shelter
+(Grassfields, Cameroon). Afr Archaeol Rev 18:213–247.
+72. Asombang R, De Maret P (1992) Re-investigating Shum Laka (Cameroun). Nsi 10/11:
+13–16.
+73. de Maret P, et al. (1993) Preliminary results of the 1991-1992 field season at Shum
+Lake, Northwestern province, Cameroon. Nyame Akuma 39:13–15.
+74. de Maret P, Asombang R, Cornelissen E, Lavachery P, Moeyersons J (1995) Continuing
+research at Shum Laka rock shelter, Cameroon (1993-1994 field season). Nyame Akuma
+43:2–3.
+75. de Maret P, Clist B, Van Neer W (1987) Résultats des premières fouilles dans les abrissous-roche de Shum Laka et Abeke au Nord-Ouest du Cameroun. Anthropologie
+91(2):559–584.
+76. Lavachery P (1998) De la pierre au métal: Archéologie des dépôts holocènes de l ’abri
+sous roche de Shum Laka (Cameroun). PhD thesis (Université Libre de Bruxelles,
+Bruxelles).
+77. Lavachery P (2003) A la lisière de la forêt: 10.000 ans d ’interactions entre l’homme et
+l’environnement dans les Grassfields (Cameroun).Peuplements Anciens et Actuels de des
+Forêts Tropicales, Actes du Séminaire-Atelier Orléans 15-16 Octobre 1998, Collection
+Colloques et Séminaires, eds Froment A, Guffroy J (IRD Editions, Paris), pp 89 –102.
+78. Lavachery P, Cornelissen E (2000) Natural and cultural spatial patterning in the Late
+Holocene deposits of Shum Laka Rock Shelter, Cameroon. J Field Archaeol 27(2):
+153–158.
+79. Ribot I, Orban R, de Maret P (2001) The Prehistoric Burials of Shum Laka Rockshelter
+(NorthWest Cameroon) (Royal Museum for Central Africa, Tervuren, Belgium).
+80. de Maret P (1994-1995) Pits, pots and the Far West streams. Azania 29–30:318–323.
+81. Hassan FA (1996) Abrupt Holocene climatic events in Africa. Aspects of African
+Archaeology, eds Pwiti G, Soper R (Univ of Zimbabwe, Harare, Zimbabwe), pp 83 –89.
+82. de Maret P (1992) Sédentarisation, agriculture et métallurgie du Sud-Cameroun:
+Synthèse des recherches depuis 1978. L’archéologie au Cameroun. Actes du premier
+Colloque international de Yaoundé, 6-9 janvier 1986 , ed Essomba JM (Karthala, Paris),
+pp 247 –262.
+83. de Maret P (1982) New survey of archaeological research and dates for West-Central
+and North-Central Africa. J Afr Hist 23:1–15.
+84. de Maret P, Clist B, Mbida C (1983) Belgian archaeologial mission in Cameroon, 1983
+field season. Nyame Akuma 23(5–6):5–6.
+85. Clist B (1987) A critical reappraisal of the chronological framework of the early Urewe
+Iron Age industry. Muntu 6:35–62.
+86. Phillipson DW (1993) African archaeology(Cambridge Univ Press, Cambridge, U.K.), p 389.
+87. Organ CL, Shedlock AM, Meade A, Pagel M, Edwards SV (2007) Origin of avian genome size and structure in non-avian dinosaurs. Nature 446(7132):180–184.
+88. Lemey P, Rambaut A, Welch JJ, Suchard MA (2010) Phylogeography takes a relaxed
+random walk in continuous space and time. Mol Biol Evol 27(8):1877–1885.
+89. Bouckaert R, et al. (2012) Mapping the origins and expansion of the Indo-European
+language family. Science 337(6097):957–960.
+90. Anhuf D, Frankenberg P (2000) Die mittelholozäne Feuchtphase 5000 BP –Eine Vegetationsrekonstruktion für Afrika. Regensburger Geographische Arbeiten 33:99–126.
+91. Maley J (2002) A catastrophic destruction of African forests about 2,500 years ago still
+exerts a major influence on present vegetation formations. IDS Bull 33(1):13–30.
+92. White F (1983) The Guineo-Congolian Regional Centre of Endemism. The Vegetation of
+African: A descriptive Memoir to Accompany the UNESCO/AETFAT/UNSO Vegetation
+Map of Africa (UNESCO, Paris), p 356.
+93. White F (1986) La Vegetation de L’Afrique (The Vegetation of Africa)(ORSTOM– UNESCO,
+Paris), p 384.
+6o f6 | www.pnas.org/cgi/doi/10.1073/pnas.1503793112 Grollemund et al.
+
+Supporting Information
+Grollemund et al. 10.1073/pnas.1503793112
+SI Materials and Methods
+Data. We studied 424 language-cultural groups, of which 409 are
+Bantu-speaking, sampled from the whole Bantu area as described by
+G u t h r i e( 6 4 ,6 5 ) :A ,B ,C ,D ,E ,F ,G ,H ,J ,K ,L ,M ,N ,P ,R ,a n dS .
+The remaining 15 comprise one Tivoid language, eight Grassfields
+languages (spoken in Cameroon), and six Jarawan languages (spoken
+in Northern Cameroon and Nigeria).
+For the geocoordinates of these cultures, we have worked from
+the data provided by Bastin et al. (38) and used fieldwork studies to
+correct mistakes and to add the geocoordinates for languages that
+were not included in Bastin ’s study. The list of languages and
+geocoordinates are provided in Dataset S1.
+Our linguistic data come from fieldwork carried out by one of
+us (R.G.) and from dictionaries.
+For phylogenetic inference, we used a selection of 100 meanings
+comprising a modified version of the Atlas Linguistique du GABon
+list (52). The Atlas includes 159 meanings, and our sample of 100
+meanings are those that are best documented for the languages
+we studied. Of these 100 meanings, 68 overlap with the Swadesh ’s
+100-word list:
+animal, arm, ashes, bark, bed, belly, big, bird, bite, blood,
+bone, breast, burn, child, cloud, come, count, dew, die, dog,
+drink, ear, eat, egg, elephant, eye, face, fall, fat/oil, feather,
+fingernail, fire, fire-wood, fish, five, fly, four, give, goat,
+ground/soil, hair, head, hear, heart, horn, house, hunger, iron,
+intestine, kill, knee, knife, know, leaf, leg, liver, louse, man,
+moon, mouth, name, navel, neck, night, nose, one, person,
+rain, road/path, root, salt, sand, see, send, shame, sing, skin,
+sky, sleep, smoke, snake, spear, steal, stone, sun, tail, ten,
+three, tongue, tooth, tree, two, urine, village, vomit, walk, war,
+water, wind, woman.
+For each of the n = 100 lexical items (meanings), we have used
+the comparative method whereverpossible to identify cognate sets
+(words with the same meaning that derive from a common ancestor). Where it was not possibl e to establish strict correspondences for every word, we based our cognacy judgment on the
+principle of resemblance. This work was conducted by R.G. as part
+of her PhD and postdoctoral work on the Bantu languages (66).
+We identified 3,859 cognate sets across the n = 100 meanings.
+These were coded as binary characters for purposes of phylogenetic analysis. In practice, expert opinion on cognate classifications can differ (this difference also occurs in the alignment of
+gene sequence data where it is necessary to identify homologous
+genes), so we have conducted a series of analyses to check that
+our principal results are robust to variation in the data.
+We created subsampled datasets, with each one consisting of 50
+meanings randomly sampled without replacement from the data.
+These datasets were then converted to a binary matrix from which
+we inferred the tree. We repeated this procedure 100 times. We
+found that in 98% of these random samples based on just half the
+data, the tree we inferred showed the ladderized or pectinate
+backbone that we reported for the full-dataset tree in Fig. 1. This
+result ensured that the signal for the tree we use to infer the
+Bantu migration route was robust to variation in the data.
+Phylogenetic-Statistical Methodology. We inferred a time-dated
+phylogeny from the lexical dataset using a variable-rates molecular
+clock model that allows the rate of evolution to vary among branches
+of the tree. The variable-rate clock is modeled by applying a scalar
+multiplier to each branch of the tree that alters the underlying rate of
+change by some fixed amount. We assumed these scalars were drawn
+from a log-normal prior distribution withμ = 1 and unknownσ2 that
+we estimate from the data (53). We used a Yule process as our
+prior on node ages (54).
+Trees were inferred by using Markov chain Monte Carlo (MCMC)
+methods (55) that implemented Tuffley and Steel’s covarion model
+(56), which allows the rate of evolution to jump between an on and
+an off state throughout the tree. The covarion model is well suited
+to binary coded cognate data, owing to the fact that each cognate
+class ideally arises just once on the tree. The variable-rates and
+covarion models were implemented in our BayesPhylogenies software (57).
+Outgroup Choice. Time-trees require a root to establish a direction
+of time. We ran tests using four potential out-groups: i)T i v ;
+ii)T i va n dG r a s s f i e l d s ;iii) Tiv and Jarawan; and iv)T i v ,G r a s s -
+fields, and Jarawan.
+These tests revealed that, when not constrained otherwise, the
+Jarawan were consistently placed as a sister clade to the MbamBubi languages, in the North West Bantu languages, and that the
+Grassfield languages and Tiv formed a monophyletic group. This
+choice is also consistent with the results of Grollemund et al. (67).
+The final experiments used an outgroup of Tiv (a Tivoid language) and the eight Grassfields languages: Fefe, Mungaka, Bamun,
+Kom, Oku, Aghem, Njen, and Moghamo. These are classified as
+Bantoid (Wide Bantu) languages and they are situated at an upper
+node (upon Narrow Bantu) within the Niger-Congo tree (see refs.
+66 and 67 for further discussion on the distinction between Bantoid
+and Bantu languages).
+Choice of Model of Sequence Evolution. We tested four models of
+sequence evolution: a two-state (binary) model, a two-state binary
+plus a gamma site-heterogeneity model (68), a two-state covarion
+model (56), and a two-state covarion plus a gamma site-heterogeneity model (68). From the results( T a b l eS 1 )w ec h o s et h ec o v a r i o n
+model without gamma rate heterogeneity. The ∼57 log-unit improvement by the gamma when coupled with the covarion, compared
+with covarion alone, is significant on conventional grounds, but we
+prefer the simpler model judging the modest likelihood improvement
+of ∼0.015 log-units per site not different from random.
+This choice makes no difference to any of our conclusions and
+is backed up by several features of the likelihood analysis. One is
+that the gamma scaling parameter takes a value of 11.34 ± 1.48
+in our posterior sample. This result implies a variance of rateheterogeneity of just 0.09 —that is, that sites show only scant
+variation in their rates of evolution. A visual scan of the difference in the site likelihoods of the two models backs this result
+up: the differences are narrowly (leptokurtic) distributed around
+a mean of ∼0.015, with no unusual outliers.
+Last, the log-likelihood approach treats all sites as independent,
+even though the nature of binary coding introduces negative
+correlations among most sites. This means that the sum of the
+likelihoods over all sites almost certainly overestimates the true
+difference among models (69).
+Final MCMC Runs. Five Markov chains were run for a minimum of
+3 × 108 iterations, with a sampling period of 10,000 iterations,
+following a burn-in period of 1 × 107 iterations. One of the five
+runs was discarded owing to misconvergence —the likelihood
+being significantly worse (24.2 log-units) than that from the other
+four runs. The samples from the four runs were combined and
+then thinned, to avoid autocorrelation, to give a final sample of
+100 trees.
+Grollemund et al. www.pnas.org/cgi/content/short/1503793112 1o f5
+
+The consensus tree, from the sample of 100, was taken, and node
+height estimates were calculated separately on this tree. This is the
+tree presented in Figs. 1 and 3 and used in the reconstruction of
+the route in Fig. 2 A.
+Calibration Ranges. We calibrated four parts of our trees: three
+using date ranges and one as a fixed point. These calibrations are
+based on archaeological data and are labeled in Fig. 1: (a)
+5,000+ Bantoid, non-Bantu; (b) 4,000 –5,000 Narrow Bantu; (c)
+3,000–3,500 Mbam-Bubi ancestor; and (d) 2,500 Eastern Bantu.
+Calibration ranges (b) and (c) were applied by using a uniform
+prior on the specified date ranges. Calibration point (d) was fixed
+to the exact date. Calibration range (a) was applied, by using a
+uniform prior, to the range 5,000 –20,000. The calibration ranges
+and point were applied to the most recent common ancestor to
+the languages specified.
+Tests were run without calibration ranges and with the four calibrations in every combination. These revealed that calibrations (a),
+(b), and (d) inform the date estim ates for the tree, but not the topology. The use of calibration (c) causes the topology to change
+to pull all of the Mbam-Bubi and A10 –20–30–40–60–70 into a
+monophyletic group, instead of these being two separate groups
+branching early from the backbone when this calibration is not used.
+Calibration ranges (a) and (b). We calibrated node 1 in our tree
+(branching off of Narrow Bantu) to 4,000 –5,000 B.P. on the basis
+of an important cultural innovation observed in the archaeological
+record of Shum Laka (17). This rock shelter in the Grassfields
+region of Cameroon is the principal archaeological site associated
+with the Bantu homeland. Its four large stratigraphic units bear
+witness to 30,000 y of human occupation from the Late Pleistocene to the Late Holocene (70–74). Its upper Holocene unit shows
+significant evolution in human activities. Local preexisting microlithic Late Stone Age traditions became gradually mixed with a
+new industry. The layer dated ∼7,000–6,000 B.P. bears the first
+marks of the Ceramic Late Stone Age, i.e., bifacial macrolithic
+and polished stone tools and a few decorated potsherds. At
+∼5,000–4,000 B.P., this macrolithic industry had become predominant over preexisting microlithic industries and reached a
+point of completion. A new type of pottery appeared in the same
+period (71, 75 –79).
+Small immigrant communities from further north, settling into
+the Grassfields due to a serious climatic deterioration in ∼7,100–
+6,900 B.P. in the Sahara and the Sahel, may have been held
+responsible for the slow introduction of these new technologies
+(71, 80, 81). These immigrants may have introduced the BenueCongo languages, out of which the Bantu ancestor language(s)
+emerged. In other words, between 7,000 –6,000 B.P. and 5,000 –
+4,000 B.P., we observe the slow development of a Ceramic Late
+Stone Age culture, which can be associated with two millennia of
+local language diversification in the Grassfields region, i.e., before the split-off of Narrow Bantu. For these reasons, we have
+linked a first calibration point for the Grassfields languages
+saying that they should be >5,000 B.P. whereas for the Bantu, we
+have linked them to a calibration point of 4,000 –5,000 B.P.
+Calibration range (c). We have calibrated the branching off of the
+Mbam-Bubi languages on the basis of the oldest attestations of
+villages found to the south of the Bantu homeland (17). The site
+of Obobogo near Yaoundé provides the earliest archaeological
+evidence for a sedentary way of life dated to ∼3,500–3,000 B.P.
+(82, 83). This sedentary settlement pattern is characterized by
+several typical archaeological features distinguishing Obobogo
+from earlier Late Stone Age sites: the distribution of the archaeological material over a much larger surface, several rows of
+postholes suggesting the former presence of houses, several refuse
+pits in a row, numerous potsherds, fragments of polished implements, grinding stones, grooved stones, and Elaeis guineensis and
+Canarium schweinfurthii nuts (84). Charcoal identifications indicate that the Obobogo village was located at that time in a degraded gallery forest, possibly linked with the forest perturbation
+episode that has been observed in∼4,000–3,500 B.P. in the SanagaMbam confluence area of central C ameroon. Taking into account
+the current-day geographic distribution of the Mbam-Bubi and
+North-West Bantu languages, the fragmentation of their most
+common recent ancestor probably happened somewhere in the
+Cameroonian lowlands south of Yaoundé. That is why we tentatively associate this node in our tree with the oldest archaeological
+evidence for a sedentary way of life as attested at the Obobogo site.
+Calibration point (d). We have calibrated the branching off of the
+East Bantu languages with reference to the Urewe ceramic tradition of the East-African Great Lakes region, which is first dated
+∼2,500 B.P. (62, 85). Several regional ceramic traditions of more
+southerly latitudes can be derived from this ancestral Urewe
+tradition on both typological and chronological grounds. They
+are part of the Early Iron Age industrial complex, whose archaeological sites testify to a way of life that was clearly distinct
+from that of earlier inhabitants of East Africa (86). The spread
+of this lifestyle, which Urewe sites first bear witness, is commonly
+associated with the spread of East Bantu languages. This information suggests a link to the Eastern Bantu at 2,500 B.P., the
+oldest date for the Urewe tradition.
+Reconstruction of Ancestral States. To track the migration route of
+the Bantu across Africa through time, we first calculated the range
+centroid for each language on our tree. We used the longitude and
+latitude of the centroid as data from which we inferred rates of
+evolution and ancestral geographic positions for each node in our
+tree, and no restriction was placed on the location of the reconstructed geographical positions.
+The variable rates model of trait evolution (63) allows us to trace
+the evolutionary history of shifts in the rate of evolution without any
+a priori information about the phylogenetic position of those shifts.
+This model is implemented in a Bayesian framework, in our
+BayesTraits software, which allows us to derive a posterior
+probability density of rate estimates for each branch of the tree.
+We apply this model to on each tree in our sample and separately
+to the longitude and latitude data. We then scale branches of each
+phylogeny by the mean of the posterior distribution of the scalars
+acting on each of its branches.
+We use these scaled trees to perform ancestral state reconstructions of geographical positions. Reconstructions followed a
+procedure that Organ et al. (87) introduced that finds the posterior
+distribution of ancestral states at each node of the tree by successively proposing values from the prior distribution. Similar
+methods have been used to infer ancestral longitudes and latitudes
+in a phylogenetic context (88, 89).
+The scaled trees were produced with experiments of 1.1 × 109
+iterations, a 1 × 108 burn-in period, and sampling 250,000 iterations apart. The ancestral state reconstructions were performed
+with experiments of 1.1 × 107 iterations, a 1 × 106 burn-in period,
+and sampling 1,000 iterations apart.
+Rainforest Data. We have used three rainforest delimitations
+(Fig. S2): i) The rainforest at 5,000 B.P. is Fig. S2 A (26, 90);
+ii) The rainforest at 2,500 B.P. is Fig. S2B (14, 15, 91); and iii)T h e
+current delimitation of the rainforest is Fig. S2C (92, 93).
+Palynology and geological data (11, 16, 19) indicate that by at
+least 4,000 y ago, climate changes had created encroaching savannah habitats along the coasts of Gabon and Congo and at the
+northwestern and southwestern ends of the rainforest.
+For all nodes between 2,000 and 5,000 B.P., delimitation B was
+used to test whether a node was in or out of the rainforest.
+Simulated Migrations of Savannah Corridor Route. We generated
+random dispersal routes from the Bantu homeland for the nine
+nodes (nodes 0 –8 of Fig. 1) corresponding to the southeasterly
+movement through the savannah corridor, and out into the
+Grollemund et al. www.pnas.org/cgi/content/short/1503793112 2o f5
+
+savannah south of the Congo rainforest. We held constant the
+consensus phylogenetic tree and the timings at its nodes, so as not
+to introduce a large and unknown additional source of possible
+geographical movements. In addition, simulated routes were only
+allowed to go to places that Bantu have actually inhabited historically or at present. Moves into the sea or other large bodies of water
+were prohibited, and a newly simulated position was not allowed to
+occupy a space already occupied (defined as within 10 km of any
+previously simulated point, unless the distance to be traveled was
+less than this).
+These constraints narrowed the space of possibilities outside
+the corridor, making it more likely the simulated routes will
+coincide with the savannah corridor. We then simulated two
+dispersal scenarios: shuffled distances and random distances.
+For the shuffled distances the method is:
+1. Start from the reconstructed location of the root of the migration (node 0 of Fig. 1);
+2. Randomly shuffle the eight distances traveled the first eight
+backbone nodes of the tree (nodes 1 –8 of Fig. 1);
+3. Repeat for each of the eight distances:
+a. Pick a random direction so that the end location will remain in the area currently populated by the Bantu;
+b. Keep the end location from being too close to a previous
+point in this journey.
+For the random distances, step 2 of this method is altered to:
+randomly generate eight distances that total the same as the
+actual migration route (1,936 km).
+The shuffled distances method yielded 9.7% of routes with
+seven or more nodes falling in the savannah corridor, the random
+distance method returned 6.3% using the same criterion. If the
+random routes were restricted only to move southeasterly, then
+∼47% fulfill the seven or more node criteria (shuffled distances:
+46.4%; random distances: 46.9%).
+Grollemund et al. www.pnas.org/cgi/content/short/1503793112 3o f5
+
+98
+90
+53
+76
+70
+7149
+48
+31
+70
+96
+49
+78
+89
+9870
+99
+77
+90
+49
+86
+99
+99
+71
+98
+98
+80
+93
+81
+73
+50
+87
+97
+91
+77
+99
+88
+71
+38
+42
+99
+99
+86
+92
+99
+94
+50
+96
+95
+89
+65
+59
+59
+79
+73
+70
+35
+38
+38
+99
+73
+40
+43
+99
+41
+88
+65
+90
+79
+36
+74
+93
+98
+93
+96
+92
+96
+35
+54
+62
+88
+88
+61
+73
+43
+34
+90
+71
+99
+73
+76
+61
+94
+92
+43
+98
+24
+84
+35
+33
+51
+54
+90
+94
+88
+96
+97
+96
+65
+84
+93
+76 64
+85
+85
+63
+70
+53
+51
+98
+99
+98
+73
+92
+98
+96
+97
+79
+58
+78
+53
+96
+76
+85
+64
+79
+99
+94
+69
+99
+49
+81
+92
+68
+41
+46
+69
+37
+70
+42
+56
+93
+56
+73
+96
+69
+46
+79
+99
+97
+85
+61
+66
+47
+83
+46
+30
+30
+53
+77
+89
+82
+99
+98
+99
+95
+98
+68
+99
+74
+98
+89
+51
+99
+52
+86
+65
+97
+92
+99
+97
+95
+96
+96
+90
+93
+84
+96
+93
+86
+97
+51
+96
+35
+95
+53
+98
+70
+42
+75
+95
+96
+87
+99
+49
+63
+31
+48
+85
+56
+89
+99
+55
+94
+46
+55
+98
+46
+37
+99
+99
+98
+96
+70
+61
+77
+88
+89
+48
+95
+98
+99
+99
+97
+85
+97
+68
+66
+48
+39
+48
+94
+76
+99
+77
+78
+86
+94
+71
+51
+55
+72
+72
+54
+Fig. S1. Consensus tree with estimated node heights.
+Grollemund et al. www.pnas.org/cgi/content/short/1503793112 4o f5
+
+Fig. S2. Rainforest delimitation at 5,000 B.P. ( A); 2,500 B.P., Savannah corridor ( B); and current ( C).
+Table S1. Results of the model selection procedure
+Model Log-likelihood ± SD
+Mean difference to
+binary model
+Two-state (binary) model −64,310.9 ± 23.4 —
+Two-state+gamma −62,749.5 ± 22.6 1,561
+Two-state covarion −61,454.2 ± 19.6 2,856
+Covarion+gamma −61,397.9 ± 23.6 2,913
+Dataset S1. The list of languages used in this study and the geocoordinates of the language. The Guthrie zone is listed for the Bantu
+languages. Extinct languages are noted with an asterisk (*) in front of the name. Few languages do not have geocoordinates because:
+(i) for one of them, the geolocation is unknown (i.e., D313_Mbuttu_1919); and ( ii) for the remaining languages, it would have duplicated
+the geolocalization of a same language (i.e., C52_Soko and C52_Soko_1919 have the same geolocalization)
+Dataset S1
+Grollemund et al. www.pnas.org/cgi/content/short/1503793112 5o f5

@@ -133,6 +133,10 @@
      "x": "Rodney adds two claims worth separating. First, independence was not given: the choice that Africa should be free was made by Africans, by mass parties, strikes and the pressure of events from the Second World War to Bandung (1955). Second, the changeover had an element of conspiracy, because the colonial powers turned to the cadres their schools had produced. Historians who stress African nationalist agency and the speed of the transfers of 1957 to 1964 contest the second claim [CONTESTED]. {{rod-colonial}}"
     },
     {
+     "t": "p",
+     "x": "The World Bank's Berg Report of 1981 gives the same legacy: Zaire had no African doctor, lawyer, engineer or army officer at independence, Nigerians held fewer than 700 of 3,000 senior civil-service posts until the mid-1950s, 1,500 French technical staff held almost all top jobs in Senegal in 1961, and in Kenya and Tanzania under 20 per cent of high-level posts were African. {{berg}}"
+    },
+    {
      "t": "table",
      "title": "What colonial rule left at independence: education and elites",
      "head": [
@@ -235,7 +239,15 @@
     },
     {
      "t": "p",
-     "x": "The Setif massacres of May 1945 have a contested toll, with estimates from about 1,000 to 45,000 [CONTESTED]. {{lib}}"
+     "x": "The Setif massacres of May 1945 have a contested toll, with estimates from about 1,000 to 45,000 [CONTESTED]. {{lib}} The UNESCO General History gives some 10,000 deaths, without a method. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "On Algerian independence the UNESCO table gives 03/07/1962, the day France recognised the referendum result, while this course also gives 05/07/1962, the day it was proclaimed and celebrated. Both dates are in use, so say which one you mean. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Mazrui's chapter in that volume reads Nkrumah's slogan as a claim that independence is necessary but not sufficient, and he says Nkrumah meant the freedom of the whole continent. The line that 'all else will be subtracted' is Mazrui's own gloss on Ghana and Uganda, not Nkrumah's words. He lists five traditions of resistance (warrior, jihad, radical Christianity, non-violent mobilisation and guerrilla war), which is one author's framing and not a consensus. {{gha-viii}}"
     },
     {
      "t": "p",
@@ -477,7 +489,7 @@
     },
     {
      "t": "p",
-     "x": "The Arusha Declaration of 05/02/1967 proclaimed ujamaa, familyhood, an African socialism of self-reliance, nationalisation and villages. In 1973 to 1976 the state moved much of the rural population into villages, often by compulsion. {{lib}}"
+     "x": "The Arusha Declaration of 05/02/1967 set out TANU's socialism and self-reliance. Its text does not use the word ujamaa and does not mention villagisation: it says the major means of production should be controlled by peasants and workers, stresses agriculture, and sets a leadership code (no company shares, directorships, second salaries or rented houses). The National Executive Committee met at Arusha from 26/01/1967 to 29/01/1967. Ujamaa and villages come from related documents and later policy. {{arusha}} In 1973 to 1976 the state moved much of the rural population into villages, often by compulsion. {{lib}}"
     },
     {
      "t": "p",
@@ -516,11 +528,19 @@
     },
     {
      "t": "p",
+     "x": "In his speech to the UN General Assembly on 04/10/1984 Sankara gave Upper Volta's baseline as 7 million people, infant mortality of 180 per 1,000, life expectancy 40, illiteracy 98 per cent and about 100 US dollars a head. He described a solidarity fund, primary health care and a campaign to build 500 houses in three months. He also named Burkina Faso's 4 August 1983 revolution, called for Mandela's release and for Africa to have a veto seat. {{sankara-un}}"
+    },
+    {
+     "t": "p",
+     "x": "In his OAU speech of 29/07/1987 he argued that debt was colonialism continued, that Africa should refuse to repay, and that Africa should form an 'Addis Ababa Club' against debt. He warned that if Burkina Faso stood alone he might not be at the next summit; he was killed on 15/10/1987. {{sankara-debt}}"
+    },
+    {
+     "t": "p",
      "x": "Thomas Sankara took power in 1983 in Upper Volta and renamed it Burkina Faso, the land of upright people, in 1984. {{lib}}"
     },
     {
      "t": "p",
-     "x": "His government ran a mass vaccination campaign of about 2.5 million children in 1984, planted trees, restricted female genital cutting and polygamy, ran anti-corruption campaigns, and spoke against debt at the OAU in 1987. {{lib}}"
+     "x": "His government ran a mass vaccination campaign of about 2.5 million children in 1984 [check: the figure is from the library; his UN speech of 04/10/1984 gives the health baseline and programme but not this number], planted trees, restricted female genital cutting and polygamy, ran anti-corruption campaigns, and spoke against debt at the OAU in 1987. {{lib}}"
     },
     {
      "t": "p",
@@ -633,6 +653,11 @@
       ]
      ],
      "src": "{{lib}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Read the whole text. Lumumba says independence was won by a struggle 'filled with tears, fire and blood', and lists forced labour, insults, unequal law and seized land. He also welcomes the treaty just signed with Belgium and its aid, asks Congolese to put aside tribal quarrels, asks them to respect the lives and property of foreigners, and ends with 'Long live independence and African unity'. He speaks of 'eighty years of colonial rule', which counts from about 1880 (our arithmetic). The version used here is a Moscow translation of 1961, so wording differs between translations. {{lumumba}}"
     },
     {
      "t": "p",

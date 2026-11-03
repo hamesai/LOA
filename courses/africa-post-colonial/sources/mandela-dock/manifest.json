@@ -1,0 +1,28 @@
+{
+  "key": "mandela-dock",
+  "title": "Statement from the dock at the Rivonia Trial, 20/04/1964 ('I am prepared to die')",
+  "author": "Nelson Mandela",
+  "file": "mandela-dock.txt",
+  "format": "txt",
+  "sha256": "d6e2de947c4970140997414925fba8c7fc9c3559f625eec22e6a435b5c23fcf2",
+  "words": 10715,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "Mandela, statement from the dock, Rivonia, 20/04/1964 (mandela.gov.za)",
+      "words": 10715
+    }
+  ],
+  "warnings": [],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "mandela-dock.txt",
+    "found_by": "source-discovery",
+    "url": "http://www.mandela.gov.za/mandela_speeches/before/640420_trial.htm",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.394,
+    "odd_character_share": 0.0
+  }
+}

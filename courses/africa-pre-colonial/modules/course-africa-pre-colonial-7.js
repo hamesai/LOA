@@ -551,6 +551,10 @@
     },
     {
      "t": "p",
+     "x": "A 2014 excavation paper adds a fourth view. At Mapela Hill in south-western Zimbabwe, Chirikure and colleagues found stone-walled terraces and fired earth floors from the 11th century, and a Bayesian chronology puts the start of the K2 phase there at 1055 to 1219 CE. They argue that the chain from K2 to Mapungubwe to Great Zimbabwe is too linear, and that the Zimbabwe culture grew in many linked places, not one cradle. {{chirikure}} The paper gives Great Zimbabwe as 1300 to 1450 CE. It rests on nine dates from one trench and an interpretive framework, so treat the polycentric model as a strong challenge, not a settled result. [CONTESTED]"
+    },
+    {
+     "t": "p",
      "x": "Reader reads Great Zimbabwe ecologically: a tsetse-free plateau where a cattle surplus came first and gold control followed. He says the walls are loosely built drystone, that a contractor estimated 84 men could build the complex in two years, that the Zimbabwe birds are soapstone about 35 cm tall, and that environmental damage ended the centre in the late 15th century. {{rd-zim}} Treat the ecological reading as one view. [CONTESTED] Diop agrees that the builders were Africans and calls the Phoenician theory refuted, but his evidence is skeleton typology, which is weak. {{dpc-tech}} Diop also shows how Dr Maes, in the 1920s, said Black Africans could not have raised the Tundi-Daro standing stones; this is the same prejudice that gave Great Zimbabwe a Phoenician myth. {{dio-egypt}}"
     },
     {

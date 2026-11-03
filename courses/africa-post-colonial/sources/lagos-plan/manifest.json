@@ -1,0 +1,79 @@
+{
+  "key": "lagos-plan",
+  "title": "Lagos Plan of Action for the Economic Development of Africa 1980-2000",
+  "author": "Organization of African Unity",
+  "file": "lagos-plan.pdf",
+  "format": "pdf",
+  "sha256": "fb99cf70d5125698e9710739750add78edf682e6fbd4039ab5f6bcd43ecf916c",
+  "words": 37599,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "Pages 1 to 20",
+      "words": 6902,
+      "pages": [
+        1,
+        20
+      ]
+    },
+    {
+      "file": "ch-002.txt",
+      "title": "Pages 21 to 40",
+      "words": 7831,
+      "pages": [
+        21,
+        40
+      ]
+    },
+    {
+      "file": "ch-003.txt",
+      "title": "Pages 41 to 60",
+      "words": 6909,
+      "pages": [
+        41,
+        60
+      ]
+    },
+    {
+      "file": "ch-004.txt",
+      "title": "Pages 61 to 80",
+      "words": 8119,
+      "pages": [
+        61,
+        80
+      ]
+    },
+    {
+      "file": "ch-005.txt",
+      "title": "Pages 81 to 100",
+      "words": 6897,
+      "pages": [
+        81,
+        100
+      ]
+    },
+    {
+      "file": "ch-006.txt",
+      "title": "Pages 101 to 104",
+      "words": 941,
+      "pages": [
+        101,
+        104
+      ]
+    }
+  ],
+  "warnings": [
+    "no chapter outline or headings found: split into 20-page blocks"
+  ],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "lagos-plan.pdf",
+    "found_by": "source-discovery",
+    "url": "https://faolex.fao.org/docs/pdf/au213002.pdf",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.351,
+    "odd_character_share": 0.001
+  }
+}
