@@ -70,6 +70,10 @@
      "x": "Relief flights and a publicity campaign drew global attention and fed the humanitarian movement, including the founding of Medecins Sans Frontieres by doctors who had worked in Biafra. {{lib}}"
     },
     {
+     "t": "p",
+     "x": "The introduction to UNESCO's volume VIII (Mazrui) calls the war a world war in microcosm: French support for Biafra against British support for Nigeria, Egyptian pilots on the federal side, Chinese and white-minority support for Biafra against Soviet arms for Nigeria. It also says Czech Delfin jets, banned by Prague in 05/1968, were delivered after the Warsaw Pact invasion that August. It gives no sources for several of these alignments, so treat them as contested [CONTESTED]. The volume was completed in 1989. {{gha-viii}}"
+    },
+    {
      "t": "table",
      "title": "Why the Biafran toll is a range",
      "head": [
@@ -176,6 +180,14 @@
     {
      "t": "p",
      "x": "The regime allied with the Soviet Union and Cuba, which supported Ethiopia against Somalia in the Ogaden War of 1977 to 1978. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Volume VIII's chapter on the socialist countries (Thiam and Mulira) puts figures on the alliance, citing Soviet-bloc sources without audit. It says Ethiopia was the leading African recipient of Soviet military aid apart from Egypt, with about 1 billion dollars of arms, 1,500 Soviet advisers and an estimated 20,000 Cuban troops during the Ogaden war, and about 1.5 billion dollars in all by 1981. It also says the Soviet Union had armed Somalia before that, with 181 million dollars of military aid in 1977. The authors add that Mengistu chose the socialist model partly as a way of unifying Ethiopia after the emperor's fall. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Locksley Edmondson's chapter in the same volume gives Cuban figures from one cited study: 18,000 to 24,000 combat troops in Angola in 1975 to 1976, about 20,000 in Ethiopia in 1977 to 1978, and at the 1978 peak about 19,000 in Angola and 16,000 to 17,000 in Ethiopia. These are estimates. {{gha-viii}}"
     },
     {
      "t": "h",
@@ -365,6 +377,38 @@
      "x": "The Berg Report says external forces were not the chief factor in the growing deficits of oil importers: poor export performance counted for more, and export volume fell in two thirds of countries with data in the 1970s. Critics argue that it undervalued external shocks. It also praised progress: primary enrolment rose from 36 to 63 per cent and life expectancy from 39 to 47. Its figures include a rise in debt from 6 to 32 billion dollars between 1970 and 1979. {{berg}} The Lagos Plan gave Africa's GDP as 2.7 per cent of the world's per capita figure and growth of no more than 4.8 per cent a year from 1960 to 1980. {{lagos-plan}}"
     },
     {
+     "t": "p",
+     "x": "The Plan's later chapters add its own diagnosis. It says African states cannot exercise sovereignty over their natural resources because foreign transnational companies choose a narrow range of them, African states keep a small share of the value added, and the raw-material industries are not linked to national economies. It sets aims, such as a ratio of one scientist to five technicians to 30 craftsmen and the training of 8,000 Africans in five years, and admits that many states had failed to take most of the actions needed for self-reliance. These are aims set in 1980 and not results. {{lagos-plan}}"
+    },
+    {
+     "t": "p",
+     "x": "The UNESCO General History of Africa, volume VIII, has the Plan's own drafter explain its lineage. Adebayo Adedeji of the Economic Commission for Africa describes a line from the ECA strategy of 02/1971 and the OAU declaration of 05/1973, through the ECA's Revised Framework of 1976, to the Monrovia Strategy that OAU heads adopted in 07/1979. He calls the Plan Africa's economic Magna Carta and says it puts the domestic and regional market, not export earnings, at the centre. He also records that the oil price rise announced on 23/12/1973, from US$5.04 to US$11.65 a barrel, hurt oil-importing African states, and that the OPEC example was not repeated for other commodities. Ali Mazrui's section of the chapter argues that debtors under-used the threat of default, citing Nyerere on becoming OAU chairman in 11/1984. This is an insider's advocacy, not an evaluation of results. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "The Berg Report's second chapters set out its argument that policy, not prices alone, explains the slow growth of the 1970s. It says the net barter terms of trade of African oil importers fell by 1.5 per cent a year, less than for other oil importers, with mineral exporters the main exception, and that Africa's share of world non-fuel exports fell from 3.1 per cent in 1960 to 1.2 per cent in 1978. It blames overvalued exchange rates, which it found in 18 of 19 countries in one study, a bias against agriculture and exports, and population growth of 2.7 per cent a year. Its example is Ghana's cocoa, where output fell from 566,000 tonnes in 1965 to 249,000 in 1979 while farmers got about six times more for it between 1963 and 1979 and consumer prices rose 22 times. It also admits its export data are patchy, and a World Bank document written to justify reform is itself an argument. {{berg}}"
+    },
+    {
+     "t": "p",
+     "x": "Maxwell Owusu's chapter in volume VIII reads farm policy differently from Berg, and the two should be set side by side. He says marketing boards and export taxes withheld at least 700 million pounds from producers between 1940 and 1962, one third to one half of the value of output, and that Tanzania's agencies paid farmers one fifth to one half of world cereal prices from 1971 to 1976. He adds that cheap food for towns and overvalued exchange rates cut farm incomes and encouraged smuggling. Berg draws a similar lesson on prices, but Owusu also stresses the fall in commodity terms of trade, from 126 in 1953 to 86 in 1971, a different measure from Berg's. The FAO figures he cites show agricultural output growth falling from 2.7 per cent a year in the 1960s to 1.3 per cent in the 1970s, and per capita output from plus 0.2 to minus 1.4. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Pierre Kipre's chapter in the same volume adds the industrial side. Africa produced only 0.9 per cent of the world's manufactured goods in 1980, a figure Adedeji also gives, and imports of manufactures were over 60 per cent of imports in 1978. In Nkrumah's Ghana, 72 per cent of budget credits in 1959 to 1963 and 61 per cent in 1964 to 1970 went to industry, but the state sector did not outlast his fall in 1966. In French-speaking Africa, 67 per cent of approved investment for 1965 to 1970 went to mining. Kipre also shows urban population growing from 31.8 million in 1950 to 132.9 million in 1980, driven by crisis in the countryside more than by factory jobs. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "In volume VIII's chapter on philosophy and science, Ali Mazrui and Jacob Ajayi contrast the two reports directly. They say Adedeji and the ECA stressed global constraints on African development, while the World Bank and IMF stressed mismanagement and policy errors. They treat the Lagos Plan, which the ECA and OAU analysis underlay, as an alternative paradigm to the Berg Report. They date Berg to 1979, but the Bank's report appeared in 1981 [check current]. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Chinweizu's chapter on Africa and the capitalist countries gives the diplomatic record. The UN adopted a Declaration for a New International Economic Order in 1974, and the Common Fund proposed at UNCTAD IV in Nairobi in 1976 shrank from 44 billion to 10 billion dollars, with only 1 billion paid up, by 1983. Commodity agreements covered five commodities by 1984. The Lome Conventions of 1975, 1979 and 1984 grew from 46 to 64 ACP states, and STABEX covered 34 and then 44 commodities. Chinweizu argues that Africa's failure also rested on elites with a 'dependency mentality', who treated development as imported consumption, and he calls blaming the West a form of irresponsibility. That is a polemical thesis against structural readings such as Rodney's [CONTESTED]. Coquery-Vidrovitch's chapter in the same volume gives 1980 and 1986 for Lome II and III, which does not match Chinweizu's 1979 and 1984. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Two more chapters of volume VIII bear on the Lagos Plan. Kouassi says the Plan, adopted in 04/1980, disagreed with the Berg Report of 1981, as inward-looking food self-sufficiency against outward-looking cash-crop exports, and that rivalry between the ECA and the OAU, in the persons of Adedeji and Edem Kodjo, dogged it. This gives Berg's date as 1981, against 1979 in the philosophy chapter. In the last chapter Mazrui gives black Africa's population growth as 2.5 per cent a year in 1960 to 1970, 2.7 in 1970 to 1980 and 3.1 in 1980 to 1986. {{gha-viii}}"
+    },
+    {
      "t": "callout",
      "k": "note",
      "x": "The Arusha Declaration of 1967 is an earlier African statement of self-reliance. It argues that money is not the foundation of development, that foreign gifts, loans and investment endanger independence ('he who pays the piper calls the tune'), and that agriculture and hard work come first, while saying Tanzania will not refuse outside money. {{arusha}} It reaches a conclusion close to Moyo's from a socialist starting point (our reading). Sankara's UN speech of 1984 makes the same case against aid in the Sahel. {{sankara-un}}"
@@ -384,6 +428,10 @@
     {
      "t": "p",
      "x": "She traces the crisis through Bretton Woods in 07/1944, the oil shocks of 1973 and 1979, and rising rates. Mexico defaulted on 12/08/1982, eleven African states followed, and Africa's debt service rose from 2 billion dollars in 1975 to 8 billion in 1982. Programmes of the 1980s paired budget support with privatisation, trade liberalisation and civil-service cuts, and she reports a net flow of about 15 billion dollars a year from poor to rich countries in 1987 to 1989. She treats adjustment as a continuation of the aid model and not as a free-market cure, which is her verdict and not the standard one. {{my-history}}"
+    },
+    {
+     "t": "p",
+     "x": "Volume VIII of the UNESCO General History gives World Bank figures for low-income Africa in a chapter by Catherine Coquery-Vidrovitch. Debt rose from 17.5 per cent of GNP in 1970 to 54.5 per cent in 1984, and from 75.2 to 278.1 per cent of exports. The debt service ratio rose from 6.1 to 19.9 per cent. In the prose, the share of export earnings paid out in debt service went from 18 per cent in 1980 to 26 per cent in 1982, and to 38 per cent for the poorest countries. Public savings fell from 15 to 6 per cent of GDP. Africa took only 3 per cent of world direct foreign investment between 1965 and 1983. Edem Kodjo, then secretary-general of the OAU, said in Lagos in 04/1980: 'Africa is dying'. {{gha-viii}}"
     },
     {
      "t": "callout",
@@ -748,6 +796,10 @@
     {
      "t": "p",
      "x": "The page also notes that critics have called him sexist in his depiction of Igbo society, which is a reminder that every witness has limits. We did not read his books. {{wiki-achebe}} {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Volume VIII gives a contemporary reading of Achebe's role. Ali Mazrui quotes his view that the African writer must challenge injustice even when Africans commit it. He adds that few heroic works came out of the Nigerian civil war, and that the death of the poet Christopher Okigbo drew a larger literary response than the deaths of half a million Igbo. He names Anthills of the Savannah (1987) as Achebe's first novel since the war. {{gha-viii}}"
     },
     {
      "t": "h",

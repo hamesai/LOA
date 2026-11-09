@@ -13,5 +13,10 @@
   "state": "skipped",
   "note": "reading limits are recorded in the sources notes and the review reports, not in a lesson",
   "date": "2026-11-02"
+ },
+ "7c4f31d8": {
+  "state": "applied",
+  "note": "module 6, lesson 3 (Lagos Plan natural-resources diagnosis and targets)",
+  "date": "2026-11-04"
  }
 }

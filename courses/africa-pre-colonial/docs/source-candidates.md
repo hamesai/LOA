@@ -64,3 +64,21 @@ When you choose, supply the file or approve a download, and I will ingest with `
 | 12 | Chirikure et al. 2014 | Ingested, read in full, applied (Module 7). |
 | 13 | Huffman, Mapungubwe | Skipped: paywalled hardback, not obtained. |
 | 14 | Fordham extracts (al-Bakri, al-Umari, Ibn Khaldun) | Skipped. Fordham carries only the Ibn Battuta page; its al-Bakri and al-Umari links go to Boston University pages that reproduce the Levtzion and Hopkins translations (Cambridge University Press, 1981, in copyright). No lawful open copy found for Ibn Khaldun. |
+
+## Update 04/11/2026: UNESCO volumes obtained and partly read
+
+The PDFs were saved by the user from the UNESCO record (the site blocks scripted downloads). Rows 1 to 3 above are therefore no longer "not obtained". Each volume is ingested with `--found-by source-discovery` (label stays Source Discovery), keys `gha-i`, `gha-ii`, `gha-iii`, `gha-iv`, `gha-v`, `gha-vi` and `gha-ix` (vol. IX is the 2021 print volume, UNESCO id 396045, not the 2025 record listed in row 3). All are Status: partial. Reports: `source-review-gha-*.md`.
+
+| Row | Volume | Read in full | Findings logged | Left unread (in scope) |
+|---|---|---|---|---|
+| 1 | IV (Niane, 1984) | Chapters 6, 7, 8 (Mali, its decline, Songhai), 11 (Hausa), 17 (Solomonid Ethiopia), 18 (Swahili), 21 (Zambezi-Limpopo), 22 (Equatorial Africa and Angola), 24 (Madagascar): 9 of 34 sections, 30% of words | 43 | Almohads (ch. 2), Niger Bend and Volta, Chad, coastal Guinea, Nubia, Great Lakes (two chapters), southern Africa, the closing chapters |
+| 2 | II (Mokhtar, 1981) | Chapters 1 (Egypt's peopling and the Cairo symposium), 10 and 11 (Kush), 14 and 15 (Aksum), 24 (West Africa before the seventh century): 6 sections | 25 | Nubia chapters, Pre-Aksumite and Christian Aksum, Carthage and Roman North Africa, East, Central and Southern Africa chapters |
+| 2 | III (El Fasi, 1988) | Chapter 6 (Bantu-speaking peoples): 1 section | 3 | Almoravids, trade routes (32,000 words), Sahara, Chad, East African coast and the rest |
+| 2 | V (Ogot, 1992) | None | 0 | All in-scope chapters (Atlantic trade, Dahomey, Oyo, Asante, Kongo, Great Lakes) |
+| 2 | VI (Ajayi, 1989) | Chapter 5 (Mfecane): 1 section | 5 | Abolition, Sokoto, Zulu aftermath, East Africa, Ethiopia |
+| 2 | I (Ki-Zerbo, 1981) | None | 0 | Oral tradition, linguistics, archaeology, metals chapters |
+| 3 | IX (Holl, 2021) | Keita (Y chromosome), Gourdine (ancient DNA of Egypt), Bocoum (metallurgies): 3 sections | 6 | The rest of the volume, including Dembele on the inner Niger delta; the volume's text is split into unreliable blocks, so chapters were located by title and author |
+
+Skipped on purpose with stated reasons: front matter and bibliographies, out-of-scope periods (Pharaonic, Ptolemaic and Roman Egypt, the Maghrib after the Almohads, 19th-century Egypt and Maghrib, human evolution and prehistory).
+
+Rows 4 (Johnson), 5 (Kebra Nagast), 6 (Houdas), 7 (Ibn Battuta), 8 (Leo), 10 (Grollemund), 12 (Chirikure) keep their earlier status. Row 9 (Equiano, 85,660 words) and row 11 (Breunig, 10,616 words) remain ingested and NOT read: the GHA reading used the available time. They are named in the final report as open work.

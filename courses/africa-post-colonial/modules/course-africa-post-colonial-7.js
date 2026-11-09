@@ -48,6 +48,10 @@
     },
     {
      "t": "p",
+     "x": "UNESCO's volume VIII gives a figure for the violence of 11/1959: 200 to 270 killed, over 1,200 arrests and about 7,000 people made victims of destruction, which is a range beside HRW's 'several hundred'. It dates the Gitarama coup, which deposed the mwami and proclaimed a republic, to 28/01/1961, and says Belgium, breaking with its earlier policy, backed the Hutu. {{gha-viii}}"
+    },
+    {
+     "t": "p",
      "x": "Schooling and posts were reserved for Tutsi under Bishop Classe's policy, and Hutu had almost no route to higher education except the Catholic seminaries until 1956. The Hutu Manifesto of 03/1957 denounced the political monopoly of the Tutsi, and in 12/1958 a proposal to drop the labels from official use was rejected by Hutu leaders as obfuscation. {{rd-elite}}"
     },
     {
@@ -83,6 +87,10 @@
     {
      "t": "p",
      "x": "HRW describes the genocide as organised through the state. Orders passed from the prime minister to prefects and burgomasters, who read them out at local meetings, and umuganda communal labour was turned to killing. Machetes were imported in numbers enough to arm every third adult Hutu male. Yet in the centre and south many Hutu at first refused to kill and had to be coerced. The genocide was a campaign in which participants were recruited over time, not a spontaneous outburst, and 'ancient tribal hatred' does not explain it. {{hrw-rwanda}}"
+    },
+    {
+     "t": "p",
+     "x": "HRW's account of the propaganda shows the killing was prepared in public before 1994. The newspaper Kangura attacked the RPF and Tutsi from 10/1990. The radio station RTLM was incorporated in 04/1993 and began broadcasting in 08/1993, with about 50 founders, most from the north. About 29 per cent of households had a radio in 1991 and 66 per cent of Rwandans could read. HRW describes two techniques: 'created' events, such as the faked attack on Kigali, and 'accusation in a mirror', blaming the enemy for what one plans. Léon Mugesera's speech of 22/11/1992 called on a party meeting to 'exterminate this scum'. Killings in Kibilira, the north-west and Bugesera from 1990 to 1993 left about 2,000 Tutsi dead, and no one was convicted. A UN rapporteur called the killings genocide in 08/1993, and in 07/1991 donors had declined to make removing ethnic classification from identity cards a condition of aid. {{hrw-rwanda}}"
     },
     {
      "t": "h",

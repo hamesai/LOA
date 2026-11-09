@@ -551,6 +551,153 @@
      "x": "Reader gives the first Portuguese slave raids as 1441, the first licensed slave voyage as 1444 (six caravels, 230 captives landed at Lagos), and Azurara's count of 927 captives shipped to Portugal from 1441 to 1446. {{rd-lag}} Horses became a medium of exchange, with a horse worth ten to fifteen slaves in the 1450s, and the Jolof elites raided to pay for mounts. {{rd-port}} The El Mina fort was founded in 1482, and Portugal took an estimated half of West African gold exports while it controlled the coast. {{rd-port}} These records come from Portuguese chroniclers and officials, so they show what Portugal knew, not the African side."
     },
     {
+     "t": "p",
+     "x": "M. Ly-Tall adds a second record of the horse rate on the Gambia: at first one horse for eight slaves, soon one for fifteen. Together with Reader's range it shows there was no fixed rate, and the volume's own chapters disagree about the direction of change. {{gha4-decl}} {{rd-port}}"
+    },
+    {
+     "t": "p",
+     "x": "Devisse and Labib, in the volume's chapter on inter-continental relations, give the opposite direction: on Ca da Mosto, a horse cost 14 slaves in the north at first, 10 to 12 in Senegambia, and between 6 and 15 at Sine-Saloum late in the fifteenth century, settling at roughly six slaves for a horse. They add that Senegambian society had griots, weavers, smiths and cobblers but no merchants, so kings ran the trade, and that the need to sell slaves to pay for horses and iron changed social relations quickly. {{gha4-inter}} {{gha4-decl}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "They give early Atlantic figures as estimates: the slave trade began in 1440, Lagos shared 240 slaves in 1444, Arguin sent several hundred a year after 1448, about 1,000 a year came from Cape Verde to Sine-Saloum after 1460, Verlinden estimates about 880 a year reaching Portugal, and Lisbon received 3,589 slaves between 15 June 1486 and 31 December 1493. They cite Curtin for 175,000 taken from Africa in the whole fifteenth century and say Portuguese gold from the Atlantic coast never exceeded, and perhaps never reached, one tonne a year. {{gha4-inter}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "p",
+     "x": "For the Gold Coast, Boahen says slaves were imported to work the mines in the fifteenth and sixteenth centuries, with 2,060 recorded arriving from Benin in April 1529, and that exports began from the mid-seventeenth century and passed gold by 1710. He gives Daaku's 5,000 to 6,000 a year by 1700, rising to 6,000 to 7,000, and Curtin's 474,000 for the whole eighteenth century, which he says Curtin underestimated by 7.3 to 18.4 per cent. {{gha5-lower}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "h",
+     "x": "The struggle for trade, 1500 to 1800: Malowist in volume V"
+    },
+    {
+     "t": "p",
+     "x": "Marian Malowist says the Portuguese first wanted African gold, and that the Crown's revenue rose from about 60 million reals in the 1480s to 200 million under Manuel and at least 279.5 million by 1534 (De Azevedo's figures). Portugal, with about 1.4 million people in 1550, could not make the iron, brass and cloth that the trade needed and had to buy them abroad. It met trouble buying gold from the mid-1520s as French, English and Dutch traders brought more goods more cheaply, and the Crown went bankrupt for the first time in 1560. {{gha5-malowist}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "He gives early slave figures as estimates: 25,000 to 40,000 from Arguin between 1451 and 1505 (Godinho), and Curtin's 274,900 taken by Europeans between 1451 and 1600, of whom about 149,000 went to Europe and the Atlantic islands, 75,000 to Spanish America and 50,000 to Brazil. He says the trade only boomed when sugar plantations spread, that Africans were a small part of the labour at Potosi (about 5,000 of 150,000 in the late 1500s), and that the Spanish Crown sold import licences (the asiento), which made contraband easy. He adds that the Ham-curse and salvation arguments were used to justify the trade. {{gha5-malowist}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "p",
+     "x": "He says the French (from the 1520s), English (from the 1550s) and Dutch (from 1593) at first wanted gold and ivory, not slaves, and that about 200 Dutch ships sailed to Africa between 1593 and 1607. The Dutch built Nassau on the Gold Coast in 1611, held Gore by 1617 and held Angola from 1641 to 1648. The Portuguese for a long time banned exporting firearms to Africa, which helped their rivals. {{gha5-malowist}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "For the eighteenth century he gives, from Curtin, about 6 million Africans landed in the Americas; Brazil nearly 2 million; English colonies 263,700 in the seventeenth century and 1,401,300 in the eighteenth; San Domingo almost 790,000; the Bight of Biafra and Benin over 1.3 million; and central and south-east Africa 810,100 (24 per cent) between 1711 and 1810. He treats the Royal African Company (1672) and the Liverpool 'triangular trade' as the English system, tied to Birmingham and Manchester goods. {{gha5-malowist}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Malowist rejects the view that only the coastal zone was ravaged, saying slave-catchers reached the interior and that Asante and Dahomey rulers, with the merchants and planters, opposed abolition. He concludes the slave trade sped capital accumulation in Europe (especially England) and in Africa, that European expansion was largely trade, not conquest, that Africa as a market for European goods has probably been underestimated, and that new crops could not make up for the demographic loss. He also says the 1591 Moroccan expedition to the Niger had no lasting effect on Morocco. {{gha5-malowist}} [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "Structures under the trade, 1500 to 1800: Diagne in volume V"
+    },
+    {
+     "t": "p",
+     "x": "Pathe Diagne argues that timeless African institutions are a myth, and that between 1500 and 1800 the Atlantic and Muslim worlds reshaped them. He says the captive (jonya) system of the western Sudan, in which royal captives held power and kept what they produced, gave way in places to chattel slavery, especially where Islamic law spread (Futa Jallon around 1725, Futa Toro in 1775). He says sub-Saharan land tenure (lamana) did not allow land renting, and that tenancy, share-cropping and land rents came with Islamic and Ottoman law. {{gha5-diagne}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "He describes a craft economy of castes and guilds (Mande smiths, Sonni Ali's arsenals, Kano and Siyu leather, Kanem Qur'ans, Shona gold and copper, Kongo raffia cloth). On the Mediterranean and Indian Ocean coasts he describes a 'predatory economy' of corsairs and tribute, giving Algiers 35 galleys and 25 brigantines in 1558 for a city of 20,000, and on the Atlantic an 'entrepot economy' in which depots had under 5,000 people each and Portuguese middlemen displaced African merchants. {{gha5-diagne}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "He gives 1582 figures for Santiago and Fogo of 15,000 people, 13,400 of them slaves, and says French trade grew from 100 million pounds in 1716 to 400 million in 1789 while Senegambia's imports stayed under 5 million. He says the new states were the best armed (Kanem-Borno) or those with most access to the sea (Kayor, Dahomey, Angola, Changamire), and that the aristocracy at Saint-Louis shared 50,000 pounds at the end of the eighteenth century. {{gha5-diagne}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Diagne's chapter is a thesis, not a count. It gives slave-trade victims as anywhere from 25 to 200 million with no basis (Inikori's chapter is the place to look), treats 'feudal' and 'emiral' as categories imposed from outside, and says the Atlantic depots contributed nothing to local prosperity, which Boahen's Gold Coast chapter contradicts. Use his examples as claims to test, not as settled evidence."
+    },
+    {
+     "t": "h",
+     "x": "The volume's own conclusion: Ogot on 1500 to 1800"
+    },
+    {
+     "t": "p",
+     "x": "B. A. Ogot, the volume's editor, says no single label fits these three centuries: 'the era of the slave trade' overlooks that the trade ran to about 1850 in West and Central Africa, that East Africa's slave century was the nineteenth, and that parts of southern Africa were hardly touched; the neo-Marxist label of integration into world capitalism treats Africans as victims; and migration and ecological catastrophe each explain only part. He says each has some truth, and that the period's main feature is that peoples coalesced into the larger social, cultural and political groups of today while Africa moved from loose links in 1500 to being tied into the world market by 1800. {{gha5-ogot}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "He highlights state-building and centralisation. On the Lower Guinea coast, thirty-eight states on a 1629 map gave way to Aowin, Denkyira and Akwamu and then by 1750 to Asante; Dahomey, formed from migrants from Allada about 1625, was a new idea of an absolute state; Imerina, Buganda, Rwanda and Maravi grew, while Kongo declined from 1665 and Mutapa broke up from 1629 (the Mutapa polity lasted until 1917). He says merchant classes rose beside or in place of old ruling classes, such as the vashambadzi of Zambezia and the Afro-Portuguese traders. {{gha5-ogot}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "He asks how much African historians should stress slavery, warns against equating 'slave' with 'African', and sets Inikori's claim that African slavery was crucial to the Atlantic economy beside Braudel's different account of European capitalism, saying the question needs a radical reassessment. He also sums up M'Bokolo's doubt that American crops raised population, and warns against reading African history mainly through droughts and famines. {{gha5-ogot}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "On religion he says Christianity declined in Ethiopia and on the east coast and persisted in Kongo, where Afonso I (1506 to 1543) made it the state religion, about 400 Capuchins came in the seventeenth century, and Beatriz Kimpa Vita's Antonianism arose in 1704; he quotes Vansina that a single syncretic religion formed there, the source of Haitian vodou. Islam spread (to Asante and Baule by the 1750s, with a Muslim quarter in Kumasi by 1800), and Malam Jibril dan Umaru was the teacher of Uthman and Abdullahi dan Fodio. {{gha5-ogot}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "For the Loango coast, M'Bokolo says slave exports ran at about 100 a year around 1639, 12,500 a year in 1762 to 1778 and 13,000 to 14,000 a year from 1780 to 1790, and that the trade there was almost over by 1780 as ports such as Cabinda and Malemba took over. He says the numbers for Cameroon and Gabon cannot be quantified, and that captains preferred slaves from Loango and farther south, which shaped where ships called. {{gha5-mbokolo}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "h",
+     "x": "The diaspora in Europe, the Americas and Asia: Harris in volume V"
+    },
+    {
+     "t": "p",
+     "x": "Joseph Harris says Africans reached Iberia before the slave trade, and that Portugal imported an estimated 700 to 900 African slaves a year between 1450 and 1500, with about 100,000 slaves estimated in Portugal and Madeira by the early seventeenth century. Papal bulls of 1454 and 1456 treated Portuguese expansion as a crusade, which he says gave church cover to enslavement. In Spain, free Black communities formed religious brotherhoods in Barcelona (about 1455), Valencia (1472) and Seville (1475), and Juan Latino took degrees at Granada in 1546 and 1556. {{gha5-diaspora}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "In England he says Granville Sharp fought the Somerset case in 1772, in which Lord Mansfield did not abolish slavery but ruled that a master could not force a slave to leave England, and that some 15,000 Africans lived in England at the time. In the Americas he dates the legal entrenchment of chattel slavery in English North America to 1660 and the 1619 arrival of twenty Africans at Jamestown as the start of the demand for Black labour. {{gha5-diaspora}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "He treats resistance as organised, with political aims. He gives the Jamaican Maroon War of 1725 and the 1739 treaty with Cudjoe, the Great Rebellion in Guyana in 1763 to 1764, Cato's Rebellion in South Carolina in 1739, and Palmares in Brazil, which he says lasted from 1605 to 1695 with an estimated 20,000 people, mostly of Congo-Angola origin. He says obeah, vodun and Islam (in Bahia) were used to organise revolts. {{gha5-diaspora}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "p",
+     "x": "For San Domingo before the revolution he gives about 500,000 slaves, 24,000 free people of colour and 32,000 French settlers, and for the Atlantic Africans he describes new institutions: the Sierra Leone settlement of over 400 people in 1787, Paul Cuffee's repatriation of 38 people in 1814, Richard Allen's Free African Society in 1787 and Prince Hall's lodge. Authors such as Phillis Wheatley, Equiano, Ignatius Sancho and Ottobah Cugoano wrote against slavery. Harris gives Benin as Equiano's birthplace, which the course should check against Equiano's own narrative before repeating. {{gha5-diaspora}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Harris also says the slave trade to Asia was far older than the Atlantic trade, running from the Horn and East African coast to Arabia, Persia and India. Oman took Kilwa in 1784 and Zanzibar in 1785, and about 160,000 slaves were imported into the Mascarenes from 1670 to 1810, with Bourbon's slave population put at 53,726 in 1808. In India he describes Africans (Habshis and Siddis) as soldiers and rulers: a Bengal succession of African rulers from 1486 to 1493 with an army of 30,000, Siddis at Janjira who resisted the Mughals, and Malik Ambar, an Ethiopian who ruled around Ahmadnagar from 1602 to 1626. {{gha5-diaspora}} [PROBABLE]"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Harris's chapter has slips. It gives the 1518 asiento to 'Charles I of Portugal' (Charles I was king of Spain), says Alexandre Dumas was born in the nineteenth century (its own plate shows General Dumas, 1762 to 1806), and says Toussaint defeated Napoleon's army within five years, which compresses a longer and more complex war. Use his lists of places and dates with care and check the person and date against a second source before repeating them."
+    },
+    {
+     "t": "p",
+     "x": "He says the Royal African Company shipped nearly 66,000 firearms and over 9,000 barrels of gunpowder to West Africa between 1673 and 1704, and gives Inikori's figure of about 49 million pounds of gunpowder from Britain between 1750 and 1807. These figures are import records, not a measure of how many guns reached any one kingdom. {{gha5-lower}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "S. M. Cissoko says Songhai slave estates were worked by communities under overseers and paid rent in kind, and Adamu says Hausa slaves ranged from the captured bayi to the second-generation cucenawa. Slavery inside the Sahel existed long before the Atlantic trade. {{gha4-songhay}} {{gha4-hausa}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Hamady Bocoum argues that imported iron bars and the Atlantic trade pushed African smiths into technological dependence, because Europe moved to blast furnaces while Africa kept direct reduction. That is his thesis, with no tonnage or date for the bars in the chapter, and it should sit beside Rodney and Thornton as one more named position. {{gha9-bocoum}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "On the Loango coast and Angola, Vansina describes a trade run by caravans, brokers and Brazilian capital: about 50,000 guns a year in the late eighteenth century, which he notes may be high, and Luanda exporting 10,000 or more slaves a year early in the seventeenth century. About 1800, 88 per cent of Angola's revenue came from the slave trade with Brazil. He says the trade made areas specialise and lose crafts, such as the Tio giving up iron-smelting. {{gha5-kongo}}"
+    },
+    {
+     "t": "h",
+     "x": "Inikori in UNESCO volume V (1992)"
+    },
+    {
+     "t": "p",
+     "x": "J. E. Inikori says studies since 1976 show Curtin's 1969 totals were much too low, especially before 1700, and infers a 40 per cent rise from about 11 million to about 15.4 million across the Atlantic. He adds about 6.9 million across the Sahara, the Red Sea and the Indian Ocean from 1500 to 1890. His chapter predates the Voyages database, whose figure of about 12.5 million embarked is the course's base, so his totals are an inference to compare, not a count. {{gha5-inikori}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "He argues that African population fell absolutely from at least 1650 to 1850, that the trade fed wars and military aristocracies, and that it laid the foundation for dependency. Manning's model, through Reader, shows almost no growth in 1750 to 1850, and Eltis argues the opposite effect, so this is the strongest of the named positions and still a position. {{gha5-inikori}} {{rd-trans}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Inikori also claims that the English and north-east United States industrial revolutions could not have happened when they did without African slave labour. That is the thesis of his chapter, argued from trade tables, and economic historians dispute it. {{gha5-inikori}}"
+    },
+    {
      "t": "h",
      "x": "The totals: older estimates beside Voyages"
     },
@@ -770,6 +917,46 @@
      ],
      "a": 1,
      "w": "Reader and Diop's accounts show widespread slavery. {{rd-slave}}"
+    },
+    {
+     "t": "h",
+     "x": "An editor's claim about the slave trade"
+    },
+    {
+     "t": "p",
+     "x": "Ki-Zerbo says the slave trade drained Africa of people from the fifteenth to the twentieth century and deprived it of stability and creative dynamism. He offers this as a framing in a general introduction, without numbers, so treat it as a position beside Rodney, Manning and Lovejoy, not as a measurement. {{gha1-intro}} [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "History written as an abolition argument"
+    },
+    {
+     "t": "p",
+     "x": "Fage observes that the late eighteenth-century histories of Dahomey (Norris 1789, Dalzel 1793) and Benezet's account of Guinea (1772) found a market because of the dispute over the slave trade. Dalzel's editor felt he had to justify a history of Dahomey at all. Read such books as arguments with evidence in them, not neutral surveys. {{gha1-fage}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "African writers in English, and the limits of slave-trade sources"
+    },
+    {
+     "t": "p",
+     "x": "Hrbek names Ignatius Sancho (1781), Ottobah Cugoano (1787) and Olaudah Equiano (1789) as liberated slaves whose polemical books are rich in biography. He adds that the slave-trade period was unfavourable to objective reporting about Africans, though the needs of trade forced close attention to economies and governments. {{gha1-hrbek}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "Population and the slave trade in one author's view"
+    },
+    {
+     "t": "p",
+     "x": "Mabogunje puts Africa's population at about 100 million by 1650, over 20 per cent of the world, and says the savanna, which held much of it, lost ground with slave raiding from the sixteenth century. He thinks external slave raiding had a pernicious effect. The figure is borrowed from Carr-Saunders and is not measured, so compare it with Manning's and Lovejoy's estimates before using it. {{gha1-mabogunje}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "h",
+     "x": "The editor's framing of exploitation"
+    },
+    {
+     "t": "p",
+     "x": "Ki-Zerbo says Africa was exploited at three peaks: in antiquity, from the sixteenth century in the slave trade, and in the nineteenth century under colonisation, and that Europe's capital accumulation and industrial revolution were not conceivable without contributions forced from Asia, the Americas and above all Africa. He also describes slavery south of the Sahara as marginal and mostly of prisoners of war, a statement that sits uneasily against the Voyages totals and should be tested against them. {{gha1-concl}} [CONTESTED]"
     },
     {
      "t": "take",

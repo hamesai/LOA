@@ -1208,7 +1208,7 @@ ARCHIVE_ADD({
      "It has never been found"
     ],
     "a": 1,
-    "w": "Griffith deciphered it phonetically in 1911."
+    "w": "Griffith found the key to its sound values in 1909 (Leclant, UNESCO vol. II)."
    },
    {
     "q": "What is the Kebra Nagast best described as?",

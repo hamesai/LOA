@@ -38,6 +38,10 @@
      "x": "In 1900 Henry Sylvester Williams, a Trinidadian lawyer, convened the Pan-African Conference in London. {{lib}}"
     },
     {
+     "t": "p",
+     "x": "The date is conventional. The 2024 UNESCO revisiting volume notes that one historian dates pan-Africanism to 1893, with a week-long meeting in Chicago, followed by Atlanta in 1895 and Williams's African Association in 1897. It also says the movement was coined and nurtured mostly by diaspora intellectuals in the nineteenth century, and that the UNESCO volume VIII has little on women and communists in the movement. {{gha-ix}}"
+    },
+    {
      "t": "h",
      "x": "Garvey"
     },
@@ -152,6 +156,30 @@
      ]
     },
     {
+     "t": "h",
+     "x": "Interwar nationalism that came before 1945 (volume VII)"
+    },
+    {
+     "t": "p",
+     "x": "Garvey's weight. Ralston says Casely Hayford used the impetus of Garveyism to found the National Congress of British West Africa in 1917, with the inaugural session in Accra in 03/1920. Boahen credits Casely Hayford and Akiwande Savage and treats Garvey as a secondary influence. [CONTESTED] Treat Garvey as one input, not the cause. Ralston also records the Negro World at about 200,000 circulation, banned in Nyasaland by 1922, and Kenyatta's memory of Kenyans listening to it in 1921; Garvey's UNIA sent emissaries to Liberia in 05/1920, which later banned it, and the Bulhoek leader Enoch Mgijima wrote to Garvey. African students in the United States (Aggrey from 1898, Azikiwe from 1925, Banda, Nkrumah from 1935) outnumbered black missionaries going the other way. {{gha-vii}}"
+    },
+    {
+     "t": "p",
+     "x": "The NCBWA and its limits. Its first conference met in Accra on 11 to 29/03/1920, and its 1920 delegation to London was rejected. Later sessions were at Freetown (1923), Bathurst (1925 to 1926) and Lagos (1930). Boahen argues it pushed the elective-seat constitutions of Nigeria (1923), Sierra Leone (1924) and the Gold Coast (1925), but that those seats 'anaesthetised' it, and the leaders were co-operationist. Other groups were the Gold Coast Youth Conference (1929), the Nigerian Youth Movement (1934), the West African Students' Union and Wallace-Johnson's West African Youth League. Unions were illegal until 1932 to 1941 in British territories and 1937 in French. Diagne was a deputy from 1914 to 1934, and the Ligue universelle pour la defense de la race negre dates from 1925. {{gha-vii}}"
+    },
+    {
+     "t": "p",
+     "x": "Beyond Africa's west coast. The League against Imperialism's Brussels congress (02/1927) brought about 180 delegates, among them Messali Hadj, Lamine Senghor, Jomo Kenyatta and the South Africans J. T. Gumede and I. A. La Guma. Egypt's Wafd was formed in 11/1918; Zaghlul's arrest on 08/03/1919 sparked a revolution across classes and faiths, and independence was declared on 28/02/1922 with four reserved points (communications, defence, minorities, Sudan). The 1936 treaty legalised the British occupation. In Sudan, the White Flag League (1924) and the Khartoum military revolt (27 to 28/11/1924) were followed by neo-Mahdism under Abd al-Rahman. In Somaliland, riots at Burao over western education (1922) preceded the Somali National League (1935). Colonial governments cut humanities teaching (Ponty, Achimota, Makerere) to avoid India's example. {{gha-vii}}"
+    },
+    {
+     "t": "p",
+     "x": "Ethiopia and Liberia. The Walwal incident was on 05/12/1934, and Italy invaded on 03/10/1935 without a declaration of war. The League voted 50 to 1 on 09/10/1935 but imposed no oil sanctions; the Hoare-Laval plan leaked on 07/12/1935, and Italian troops entered Addis Ababa on 06/05/1936. The International African Friends of Abyssinia formed in 08/1935 with Kenyatta as secretary. Akpan explains that Liberia survived because only Italy wanted to avenge Adwa. In Liberia, the Christy commission (08/09/1930) found forced recruitment of labour for Fernando Po with official collusion; President King resigned in 12/1930, and the United States recognised Barclay on 11/06/1935. Akpan stresses that colonial regimes were equally brutal. {{gha-vii}}"
+    },
+    {
+     "t": "p",
+     "x": "What it added up to. Afigbo argues that colonialism turned racial distinctions into class divisions and created a literate elite excluded from partnership, which led it into opposition, and that it fossilised borders (Sokoto and Borno lost territory; Samori's and Rabih's empires were split). Oloruntimehin adds that nationalism was not only urban and elite: protest migrations, deposed chiefs and cocoa hold-ups belong to it too. Negritude, in Soyinka's account, has its manifesto in Legitime Defense by Martinican students about 1932, with Cesaire, Senghor and Damas as its midwives, and lost its hold as its circumstances disappeared. West African concert-party theatre dates from the 1900s, and Egypt's press grew from 169 papers (1898) to 282 (1913). {{gha-vii}}"
+    },
+    {
      "t": "check",
      "q": "Where did Pan-Africanism begin?",
      "o": [
@@ -214,6 +242,14 @@
      "t": "callout",
      "k": "note",
      "x": "Reader calls Manchester in 10/1945 the sixth Pan-African Congress. It is conventionally the fifth, and this course uses fifth. His account is otherwise useful: delegates were mostly African and the resolutions asked for autonomy and independence. {{rd-mau}}"
+    },
+    {
+     "t": "p",
+     "x": "Volume VIII adds that Africans such as Nkrumah, Awolowo, Kenyatta and Banda played leading parts at Manchester, that it called for complete independence and for strikes and boycotts, and that no Africans from French, Portuguese or Belgian territories attended. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Joseph Harris's chapter in the same volume traces the road to Manchester. Italy's invasion of Ethiopia stirred the diaspora, and C. L. R. James founded the International African Friends of Ethiopia in 1936 and the International African Service Bureau followed in 1937. Ras Makonnen's Manchester businesses gave future leaders a meeting place. The Pan-African Federation, formed in 1944 by Padmore, Kenyatta, Peter Abrahams, Wallace-Johnson and James, with Nkrumah joining later, organised the congress of 1945. {{gha-viii}}"
     },
     {
      "t": "p",
@@ -363,8 +399,30 @@
      "x": "The UNESCO General History helps with the count. It says thirty states were represented at the conference that opened on 23/05/1963 and signed the Charter on 25/05/1963. Togo was not admitted after the assassination of President Olympio, and Morocco refused the invitation; both signed later. Thirty plus those two gives 32 (our arithmetic), and this text does not account for a 33rd. It also calls Manchester in 1945 the Fifth Pan-African Congress, which supports the course against Reader's 'sixth'. {{gha-viii}}"
     },
     {
+     "t": "callout",
+     "k": "warn",
+     "x": "Even good secondary sources slip. The 2024 UNESCO volume calls the Sirte Declaration of 09/09/1999 the founding act of the OAU, which became the African Union in 2002. The OAU Charter was signed on 25/05/1963; Sirte launched the process that created the African Union. {{gha-ix}} {{oau-charter}}"
+    },
+    {
      "t": "p",
      "x": "The same chapter says the OAU set up an African Liberation Committee of nine states with its base in Dar es Salaam and a Special Fund from voluntary contributions, and declared 25 May African Liberation Day. It lists seven principles in the Charter, among them respect for the territorial integrity of every state and its right to an independent existence. This is wording about each state's territory and not a pledge to keep the colonial borders. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Volume VIII's chapter on pan-Africanism and liberation (Kodjo and Chanaiwa) credits the OAU with diplomatic wins: UN General Assembly Resolution 2555 asking agencies to aid liberation movements, non-recognition of Ian Smith's UDI, a UN Commission for Namibia, and the Lusaka Manifesto of 14 to 16/04/1969. A Paris conference on sanctions (20 to 27/05/1981, 122 governments) called for mandatory sanctions on South Africa, which the Security Council refused. Its recognition decided which movements counted, and its pressure helped bring FRELIMO together from MANU and UDENAMO and the Patriotic Front from ZANU and ZAPU. The authors rate 1963 to 1973 as years of organisation and manifestos without concrete results, and 1973 to 1980 as the fruitful decade. That is their judgement. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Mazrui's introduction to the same volume reads the early OAU as shallow in depth but continental in width, taking in Arab and black states. In his account the radical Casablanca school wanted continental unity and distrusted regional steps, while the moderate Monrovia school accepted them. He says Nkrumah's fall in 02/1966 and the Arusha Declaration of 1967 shifted the divide, and that Ethiopia and Portugal in 1974 moved the OAU to the left. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Edmondson's chapter in volume VIII adds that after the 1967 war only Guinea broke with Israel, but in 10/1973 seventeen sub-Saharan states did so and four more followed in 11/1973, leaving Malawi, Lesotho, Swaziland and Mauritius with ties. He rejects the view that the oil weapon caused the break. The first Arab-African summit met in Cairo from 7 to 9 March 1977. {{gha-viii}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The same chapter says the Comoros, Seychelles and Zimbabwe all became independent in 1980. Its own table in chapter 15 gives the Comoros 1975, the Seychelles 1976 and Zimbabwe 1980, so only Zimbabwe fits. Check each date against a second source. {{gha-viii}}"
     },
     {
      "t": "p",

@@ -145,7 +145,7 @@
     },
     {
      "t": "p",
-     "x": "The Almoravids were a Sanhaja Berber movement from the western Sahara, led first by the preacher Abd Allah ibn Yasin and then by commanders such as Yusuf ibn Tashfin. They founded Marrakesh (c. 1070) and won at Zallaqa in Spain in 1086. {{lib}}"
+     "x": "The Almoravids were a Sanhaja Berber movement from the western Sahara, led first by the preacher Abd Allah ibn Yasin and then by commanders such as Yusuf ibn Tashfin. They founded Marrakesh (c. 1070) and won at Zallaqa in Spain in 1086. {{gha3-alm}}"
     },
     {
      "t": "h",
@@ -153,7 +153,7 @@
     },
     {
      "t": "p",
-     "x": "A traditional account says an Almoravid conquest broke the Ghana empire about 1076. Scholars since the 1980s, notably Conrad and Fisher, argued the evidence is thin and derived from late sources. Others defend a more limited military and political impact [CONTESTED]. {{lib}}"
+     "x": "A traditional account says an Almoravid conquest broke the Ghana empire about 1076. Scholars since the 1980s, notably Conrad and Fisher, argued the evidence is thin and derived from late sources. Others defend a more limited military and political impact [CONTESTED]. {{gha3-alm}}"
     },
     {
      "t": "p",
@@ -222,7 +222,7 @@
       "Zagwe"
      ],
      "a": 1,
-     "w": "The Almoravids founded Marrakesh. {{lib}}"
+     "w": "The Almoravids founded Marrakesh. {{gha3-alm}}"
     },
     {
      "t": "check",
@@ -234,7 +234,7 @@
       "The Almohads denied it"
      ],
      "a": 1,
-     "w": "Conrad and Fisher challenged the traditional account. {{lib}}"
+     "w": "Conrad and Fisher challenged the traditional account. {{gha3-alm}}"
     },
     {
      "t": "take",
@@ -650,6 +650,323 @@
   },
   {
    "id": "l7",
+   "title": "What the UNESCO General History adds to the Almoravids",
+   "min": 22,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "UNESCO's volume III (1988) has a long chapter on the Almoravids. It supports the course's caution about Ghana and adds corrections on their name, their beginnings and their effect on the Sahel. Other chapters of the volume, including the one on trade routes, are not yet read."
+    },
+    {
+     "t": "h",
+     "x": "Where the movement came from"
+    },
+    {
+     "t": "p",
+     "x": "The Almoravids grew out of the veiled Sanhaja of the Western Sahara after a century of disunity. The Sanhaja had lost control of the northern and southern ends of the gold route, Sijilmasa and Awdaghust, to Zanata and Ifriqiyan traders after about 970, and a new salt mine at Taghaza had broken their salt monopoly. {{gha3-alm}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Ibn Yasin's career is thinly known and its chronology is in the chapter's words uncertain and confused. He taught first among the Judala from about 1039, was expelled, and then found his mainstay in the Lamtuna. He died in 1059 fighting the Barghawata. {{gha3-alm}}"
+    },
+    {
+     "t": "h",
+     "x": "Two corrections"
+    },
+    {
+     "t": "p",
+     "x": "The name al-Murabitun was long read as people of the ribat, a fortress. The chapter says this rests on one late source and that recent scholars have abandoned it. A 1966 dig on Tidra island found no ribat and nothing to build one from, so the name is read as dedication to jihad and to the bond. {{gha3-alm}}"
+    },
+    {
+     "t": "p",
+     "x": "Marrakesh was founded in 463 AH (1070), not 454 AH (1062) as older books say, after a revision of the literary and archaeological evidence. Abu Bakr gave command to his cousin Yusuf ibn Tashfin about 1072. Yusuf took Fez in 1075, Ceuta in 1083 and crossed to Spain in 1086, winning at Zallaqa. {{gha3-alm}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "Ghana and the Sahel"
+    },
+    {
+     "t": "p",
+     "x": "The chapter does not say the Almoravids destroyed Ghana. It says the archaeology at Koumbi Saleh is still vague and conclusive proof is lacking, cites Conrad and Fisher's arguments against a conquest, and says a raid would not have ended the market town. It says Ghana went over to Islam officially at the end of the eleventh century. {{gha3-alm}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Islam had reached the Sahel earlier: the chief of Takrur was with Abu Bakr in 1056, Gao's princes were Muslim by the tenth century, and Soninke merchants may have brought Islam by the ninth or tenth century. The chapter also rejects the old idea that the Almoravid conquests devastated the Sahel. {{gha3-alm}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Volume IV's chapter on Mali states the fall of Koumbi to the Almoravids in 1076 as a date. Volume III's author doubts a conquest. Teach it as a disagreement inside the same series. {{gha3-alm}} {{gha4-mali}}"
+    },
+    {
+     "t": "h",
+     "x": "The empire and its end"
+    },
+    {
+     "t": "p",
+     "x": "The empire ran from the Ebro to the Senegal, with gold flowing north and Spanish-minted dinars found in Mauritania. Yusuf bought black slaves from the Sudan and Christian captives for his army. Weak local administration, the severity of the Maliki jurists, who had al-Ghazali's books burned about 1143, and the Atlas-based Almohad movement brought it down. {{gha3-alm}}"
+    },
+    {
+     "t": "h",
+     "x": "After the Almoravids: Saidi on the Almohads"
+    },
+    {
+     "t": "p",
+     "x": "O. Saidi's chapter in volume IV treats the Almohads as the next attempt to unify the Maghrib, from the middle of the twelfth to the middle of the thirteenth century. He says it had economic motives as well as religious ones: control of the northern ends of the trans-Saharan routes and the joining of the Maghrib's growth areas. {{gha4-almohad}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Ibn Tumart, born about 1075 in the Anti-Atlas among the Masmuda, gave himself an Arabic name and a Sharifian ancestry that Saidi says were invented. The story that he met al-Ghazali is later hagiography. He preached the oneness of God (tawhid), which gave the Muwahhidun their name, called the Almoravids anthropomorphists and declared jihad on them. He proclaimed himself Mahdi in 1121 and withdrew to Tinmallal in 1123. {{gha4-almohad}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "'Abd al-Mu'min took over after Ibn Tumart died (1130, with the succession settled in 1133) and ruled to 1163. After the Almoravid cavalry beat the Almohads at al-Buhayra in 1128, he took the mountains first, partly for the trade routes and mines, and overran Marrakesh and Morocco in about fifteen years. Saidi says Almoravid society was resilient and its rule remembered as peaceful, so outside the Masmuda the Almohads were not welcomed as liberators. {{gha4-almohad}}"
+    },
+    {
+     "t": "p",
+     "x": "He conquered Ifriqiya in 1159 to 1160, taking Mahdiyya from the Normans, and ordered a land survey from Barqa to Nul, which Saidi calls the first land register since Roman times. He argues the conquests also aimed at the caravan axis from the Draa to Oran, and that the Almohads cut the Atlantic coast of Morocco, which the Almoravids had linked to the Sahara, from Saharan contacts. {{gha4-almohad}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Saidi also argues that the long war of the Banu Ghaniya, Almoravid heirs based in the Balearics, who held much of Ifriqiya between about 1184 and 1209, was partly a fight over the Saharan trade, because their zone was the outlet of the great routes. He rejects the colonial-era idea of the Hilali Arabs as a catastrophe. {{gha4-almohad}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "The Almohads won at Alarcos on 18 July 1195 and lost at Las Navas de Tolosa on 16 July 1212, a defeat Saidi calls more symbolic than decisive. The empire then broke up. The Hafsids went independent in Ifriqiya in 1228, Almohad rule left Spain about 1230, al-Ma'mun renounced the Mahdi creed in 1230, the Marinids took Marrakesh in 1269, and a remnant held Tinmallal until 1275. His guess that the Almohads lacked the commercial depth that Sudan gold gave the Almoravids is his own view. {{gha4-almohad}} [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "Caravans, salt and copper: Niane's trade chapter"
+    },
+    {
+     "t": "p",
+     "x": "D. T. Niane's chapter on exchanges between regions calls 1100 to 1500 the golden age of trans-Saharan trade and says the Sahara was never a barrier. It follows Ibn Battuta's 1352 route: Sijilmasa, then 25 days to Taghaza, about ten days of rest, two months in all to Walata, 51 days there, and 24 more to Niani. A messenger sent ahead from the caravan was paid 100 mithqal. {{gha4-trade}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "He says caravans of 12,000 camels are reported by Ibn Khaldun but the average on normal Niger-Maghrib routes was about 1,000. Ibn Battuta left Takedda with a caravan of about 600 women slaves. Salt cost 8 to 10 mithqal at Walata and 20 to 40 at Niani, and al-Umari reports Takedda copper sold at roughly its weight in gold. A Tlemcen family, the al-Makkari brothers, ran a network with partners at Sijilmasa and in the Sudan. {{gha4-trade}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "On slaves he says Mauny's tentative figure of 20,000 a year to the north, or 2 million in a century, is only an estimate and that the trade to the Arab world was not a haemorrhage. The Nubian baqt required 442 slaves a year for Cairo. He also says the forest was a filter and not a barrier, that Shaw suggests the copper trade between savannah and forest may reach back to the ninth and tenth centuries, and that the excavation at Kong has not confirmed its traditional date of Sundiata's time. {{gha4-trade}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "p",
+     "x": "Devisse and Labib, in the same volume, say the Mediterranean states each controlled the northern ends of the southern routes in turn, and that African gold supplied Fatimid, Umayyad, Almoravid, Almohad and Hafsid coinage. They give Genoa about 68,000 pounds of gold imported in 1377 and say Aragon took about 70 kg a year from the Maghrib trade. They put African gold exports to the north at perhaps 4 to 8 tonnes a year, which they call small beside Europe's needs, and Mauny's own figure at under 4 tonnes. {{gha4-inter}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "h",
+     "x": "Egypt under the Ottomans, 1517 to 1798: Vesely in volume V"
+    },
+    {
+     "t": "p",
+     "x": "R. Vesely says the Ottomans beat the Mamluks at Marj Dabiq on 24/08/1516 and at Raydaniyya on 23/01/1517, ending the Mamluk sultanate. He gives Ottoman technical superiority and the defection of the Mamluk governor Khayr Bey as causes, and puts the deeper reason in the Mamluk state's weaker economy, which had lost the eastern spice trade to the Portuguese. Khayr Bey governed Egypt until 1522, and after Ahmad Pasha's failed revolt of 1524 a Kanun Name set up Ottoman government there, with a governor (wali), a council (Diwan), garrison corps (odjaks) and the transfer of the surplus to Istanbul from 1525. {{gha5-egypt}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "He says Egypt was the Ottomans' link between the Mediterranean and the Indian Ocean and that they used it against the Portuguese: Aden was taken in 1538, Massawa and Zeila in 1557, and a province called Habesh was formed on the Red Sea coast, while the transit trade shifted from spices to coffee. He says the Egyptian garrisons became tied to local trade and the Mamluk households of the beys, and that struggles between the Fakariyya and Qasimiyya factions, riots (1678, 1687, 1695) and famine in 1695 marked the later seventeenth century. {{gha5-egypt}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Between 1760 and 1798 he describes Ali Bey (to 1772), Muhammad Bey Abu al-Dhahab (to 1775), and then Murad and Ibrahim Bey ruling in practice while the Porte took what money it could. The Ottoman expedition of Hasan Pasha (1786 to 1787) failed to break them, and the French landing of 1798 ended the period. He says Cairo grew to 300,000 people, above its earlier peak of 250,000. {{gha5-egypt}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "He argues Egypt stayed within what he calls late feudalism and did not produce a new bourgeois class, a Marxist reading he qualifies in a footnote. On culture he says Cairo lost its place as the centre of the Sunni world, Arabic writing turned popular (as in al-Shirbini's satire of 1787), Sufi orders spread, and Egypt had no printing press in the eighteenth century although Istanbul printed from 1729. {{gha5-egypt}} [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "Algiers, Tunis and Tripoli, 1500 to 1830: Cherif in volume V"
+    },
+    {
+     "t": "p",
+     "x": "M. H. Cherif says the Maghrib was in crisis by the early sixteenth century, with a population he puts at 3 to 6 million after the epidemics of the fourteenth and fifteenth centuries, nomads outside state control, and the Zayyanid (Tlemcen) and Hafsid (Tunis) states failing. He rejects blaming the Hilalian nomads alone and gives structural causes: desert encroachment, a patchwork of ways of life and weak unifying institutions. {{gha5-maghrib}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "He describes a Spanish and Ottoman contest in which Spain held coastal posts (Oran from 1509, Tripoli 1510 to 1551, Goulette 1535 to 1574) but could not take the interior. The Ottomans took Tripoli in 1551, Kairouan in 1557, Djerba in 1558 and Tunis in 1569 and 1574, building on the Barbarossa corsair brothers. The three regencies were never fully integrated into the empire, paid no regular tribute and became largely independent from the early seventeenth century. {{gha5-maghrib}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Cherif says rural society ran on kinship groups (kabila) and alliances of them (saff), and that the 'makhzen' and 'siba' division is better read as shifting alignments than random rebellion. The ruling Turks and converts were open to locals in Tunis and Tripoli, where Muradite beys (to 1702), Husayn b. Ali (from 1705) and the Karamanli dynasty (from 1711, to 1835) formed semi-national monarchies, but not in Algiers, which kept an exclusive military regime with eleven deys between 1671 and 1710 and excluded the kulughli (children of Turks and local women) from about 1630 to 1680. {{gha5-maghrib}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "On privateering he says Algiers held about eighty vessels and Tunis thirty to forty around 1610 to 1630, that it peaked in the first half of the seventeenth century and declined from the 1680s as France and England forced treaties, which he calls the start of unequal treaties (import duty of 3 per cent). Cereals and leather went to Europe, Tripoli kept trans-Saharan gold, slave and ostrich-feather trade, and he says European states and their merchants gained most. {{gha5-maghrib}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "He says Tunisia enjoyed peace from 1762 to 1815 under Ali Bey (1759 to 1782) and Hammuda Pasha (1782 to 1814), Algiers had a stable dey in Muhammad b. Uthman (1766 to 1791) and faced a Kabyle revolt in 1767 to 1771, and the Ottomans reasserted direct rule in Tripoli in May 1835 after the Karamanli dynasty's finances collapsed. He concludes the Ottoman solution gave the Maghrib firearms and administration but also iron rule and stagnation, and that 1815 opened a period of European domination. {{gha5-maghrib}} [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "Morocco, 1511 to 1790: El Fasi in volume V"
+    },
+    {
+     "t": "p",
+     "x": "Mohammed El Fasi says the Sa'did dynasty began in 1511 with sharifs from the Dar'a who fought the Portuguese. Muhammad al-Shaykh took Agadir after the Portuguese held the export monopoly on Sus sugar, and the Portuguese then left Safi and Azemmur in 1542. He entered Fez on 13/09/1554 and was killed in 1557 by a guard in Ottoman pay, and Morocco stayed outside Ottoman rule. {{gha5-morocco}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "He gives the Battle of the Three Kings (Wadi al-Makhazin) on 04/08/1578, where King Sebastian of Portugal was killed and the Sa'did sultan Abd al-Malik died during the fight. Ahmad al-Mansur then ruled to 1603. The chapter says tradition counts nearly 14,000 Christian prisoners, and that the ransoms enriched al-Mansur, so that, citing Levi-Provencal, they brought in more gold than the Sudan conquest. El Fasi also says the letters between Abd al-Malik and Sebastian that he quotes appear only in Moroccan sources, not in European documents. {{gha5-morocco}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "On the Sudan expedition he says nearly everyone, including the ulama, opposed it as war on fellow Muslims (citing Terrasse), but al-Mansur overrode them. After 1603 Sa'did sons fought for about half a century until the Alawites, a sharifian family from Tafilalt, took power from 1640. Mawlay al-Rashid took Fez in 1666 and Marrakesh in 1668 and died in 1671, and Mawlay Ismail was proclaimed on 16/04/1672. {{gha5-morocco}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Mawlay Ismail ruled until 21/03/1727 from Meknes. He retook al-Mahdiyya (1681), Tangier (1684), Larache (1689) and Arzila (1691) from Spain and Britain. The chapter says he raised the Wadaya and Bawakhir militias, the second made of enslaved men, and that between 1693 and 1708 the ulama of Fez wrote to him that free men could not lawfully be enslaved, until he forced approval of a register of slaves (the Diwan al-Abid). By the chapter's account he left about 500 sons, and after his death the militia was 'pernicious'. {{gha5-morocco}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Muhammad III (the later eighteenth century) developed Mogador (Essaouira), signed a trade agreement with Denmark in 1757, recognised American independence, and, the chapter says, expelled the Portuguese from Mazagan in 1767. El Fasi calls his reign prosperous and peaceful. {{gha5-morocco}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "El Fasi says he descends from the Jazuli sheikh he praises, and he defends Mawlay Ismail against European accounts of cruelty and defends the Bawakhir enslavement as lawful, even though his own letters show the Fez ulama said it was not. Treat his judgments as an interested narrator's and rely on his documents and dates."
+    },
+    {
+     "t": "p",
+     "x": "They also say the Maghrib states earned about 10 per cent customs on European imports, that Tunis's customs house yielded 150,000 dinars a year in the fifteenth century, and that Christian mercenaries and ship hire made the northern kings tributary partners as much as rivals. {{gha4-inter}}"
+    },
+    {
+     "t": "check",
+     "q": "What does Saidi say about the claim that Ibn Tumart studied under al-Ghazali?",
+     "o": [
+      "It is well proved",
+      "It is later hagiography; sources deny the meeting",
+      "It comes from Ibn Battuta",
+      "It was confirmed by excavation"
+     ],
+     "a": 1,
+     "w": "He says there is no evidence of the meeting and the claim came much later. {{gha4-almohad}}"
+    },
+    {
+     "t": "check",
+     "q": "What does the chapter say about the name al-Murabitun?",
+     "o": [
+      "It certainly means people of the fortress",
+      "The fortress reading rests on one late source and is abandoned; no ribat was found on Tidra",
+      "It is a Greek word",
+      "It comes from Marrakesh"
+     ],
+     "a": 1,
+     "w": "The 1966 Tidra dig found no ribat. {{gha3-alm}}"
+    },
+    {
+     "t": "check",
+     "q": "When was Marrakesh founded on the revised dating?",
+     "o": [
+      "1062",
+      "1070",
+      "1086",
+      "1147"
+     ],
+     "a": 1,
+     "w": "463 AH, 1070. {{gha3-alm}}"
+    },
+    {
+     "t": "h",
+     "x": "The Beni Hilal and the 'osmotic' picture of migration"
+    },
+    {
+     "t": "p",
+     "x": "Ki-Zerbo says the arrival of the Beni Hilal in North Africa was long and wrongly shown as a nihilistic, devastating invasion. He prefers an osmotic picture, as with the Mossi horsemen who took local wives and left local religious authority in place. This is his general position in a methods essay, not a study of the Hilal; read it with the Ibn Khaldun lesson and treat the scale of damage as [CONTESTED]. {{gha1-intro}}"
+    },
+    {
+     "t": "h",
+     "x": "Horse and camel: Obenga's dates"
+    },
+    {
+     "t": "p",
+     "x": "Obenga gives the arrival of the horse and the camel, which matter for the Sahara network. The horse reached Egypt towards the end of the Hyksos invasion, about 1600 before our era, and passed to the Libyans about the thirteenth century before our era and to the Nubians early in the first millennium before our era. The one-humped camel appears in a Chad Sahara rock painting dated to the third century before our era, was brought into Egypt by Cambyses' men in 525 before our era, and reached the Maghrib, he says, with Roman troops of Syrian origin; the Berbers then used it to settle beyond the limes, which drove sedentary black oasis peoples south or into slavery. {{gha1-obenga}} [PROBABLE] The last claim is his inference and should be set beside the camel arguments in the supplied books [CONTESTED]."
+    },
+    {
+     "t": "h",
+     "x": "North African sources: who wrote, and what they cannot tell"
+    },
+    {
+     "t": "p",
+     "x": "For ancient North Africa Djait stresses that almost nothing written is Punic. Carthage is known through Greek and Latin writers: Polybius (about 200 to 120 before our era), who seems to have been at the siege of 146 before our era, is the chief source; Sallust is the best on the Berber kingdoms; Procopius's war against the Vandals is the basic text for the Vandal and Byzantine period, with Victor Vitensis and Corippus going into the interior. Donatism is known mainly through its opponent Augustine, so read with caution, and the Periplus of Hanno is a composite, not written before the first century before our era. {{gha1-djait}} [FIRM]"
+    },
+    {
+     "t": "p",
+     "x": "The classical authors probably did not go past Cape Juby. Roman expeditions beyond the frontier (Balbus in 19 before our era, Flaccus in 70 and Maternus in 86 of our era) informed Ptolemy's map of 'Inner Libya', but the texts give an image of Africa more than data on the western Sudan. For the Arabic period, Khalifa b. Khayyat is the oldest annalist, Ibn 'Abd al-Hakam's Futuh Misr wa l-Maghrib is a legal collection that includes the Baqt treaty with Nubia, and Kindi's Wulat Misr (d. 961) is a sound source for the eighth-century Maghrib. 'Umar b. Shabba records a revolt of Sudan at Medina in 145 AH (762 of our era), an early sign of Africans in Arabia. {{gha1-djait}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Later archives help: published Almoravid and Almohad letters let Laroui say that Almohadism can be seen from inside, and documents from the Cairo Geniza (Arabic in Hebrew script, mostly undated) and the Italian archives of Venice, Genoa, Pisa and Barcelona hold contracts and treaties. Djait also warns that the Ibadite chronicle of Ibn al-Saghir shows trade between Tahert and Gao by the end of the eighth century, but that Lewicki's bolder deductions from such allusive texts go too far. {{gha1-djait}} [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "Tafineq and Punic influence"
+    },
+    {
+     "t": "p",
+     "x": "Diagne says the Tuareg script Tafineq, a Berber writing, is said to have developed under Punic influence through contact with Carthage. The claim is a standard one in the volume, but he gives no inscription chain, so tag it [PROBABLE] and keep it as a proposed link. {{gha1-diagne}}"
+    },
+    {
+     "t": "h",
+     "x": "Is Berber Semitic? A footnote in the volume"
+    },
+    {
+     "t": "p",
+     "x": "Greenberg lists Berber as one of five Afro-Asiatic branches. A footnote inserted at the request of a Committee member answers that Berber is a Semitic language and among the oldest, and that classing it as Hamito-Semitic or Afro-Asiatic reflects the politics of colonial French Berber studies (citing M. El Fasi, 1971). Present both as named positions; most linguists today follow Greenberg, so mark the footnote [CONTESTED]. {{gha1-greenberg}}"
+    },
+    {
+     "t": "h",
+     "x": "The Sahara as filter, not wall"
+    },
+    {
+     "t": "p",
+     "x": "Diarra describes the Sahara as nearly a third of the continent over some 15 degrees of latitude, humid in the past, never an absolute barrier, and crossed by caravan routes for centuries. It acted as a filter that limited the spread of Mediterranean influence in agriculture, architecture and crafts, and so helped isolate part of the continent. {{gha1-diarra}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "How quickly innovations spread"
+    },
+    {
+     "t": "p",
+     "x": "Mabogunje notes that tools and techniques sometimes spread so fast across the grassland belt that researchers cannot tell where they began. That is a caution for any lesson about the origin of the camel, the horse or iron in the Sahara and Sudan. {{gha1-mabogunje}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "Pastoralists, chariots and boats in the Sahara"
+    },
+    {
+     "t": "p",
+     "x": "Hugot says the Tassili stock-raisers were contemporary with the painters of the 'flying gallop' chariots, and suggests a time near the Sea Peoples' attacks on Egypt, but he admits the period is not known. Cattle and dogs were present at Aukar by 2000 before our era, and the Sudanese Neolithic people probably sailed lakes in reed boats like the kaddei of Chad. These are the background to the later horse-and-camel lessons of the Sahara trade. {{gha1-hugot}} [TRADITIONAL DATE]"
+    },
+    {
+     "t": "h",
+     "x": "Herodotus, Hanno and the Garamantes in Shaw's view"
+    },
+    {
+     "t": "p",
+     "x": "Shaw says Herodotus's account of the Carthaginian silent trade for West African gold is almost certainly based on fact, while the voyage of Hanno is probably a forgery, a judgement that agrees with Djait. Contacts with the classical world were slender, sporadic and indirect. The Garamantes, who used chariots, are his proposed intermediaries in carrying iron-working south. {{gha1-shaw}} [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "Rome's granary"
+    },
+    {
+     "t": "p",
+     "x": "Ki-Zerbo says Rome treated the Nile valley and the North African provinces as a granary and drew wild animals, slaves and gladiators from Africa. The first of his three peaks of external exploitation is therefore antiquity, which gives the Roman Africa lesson a continental frame. His claim is a summary and not a measured one. {{gha1-concl}} [CONTESTED]"
+    },
+    {
+     "t": "take",
+     "i": [
+      "The Almoravids began as a Saharan reform movement tied to the gold and salt routes. {{gha3-alm}}",
+      "Conquest of Ghana in 1076 is unproven [CONTESTED]. {{gha3-alm}}",
+      "Marrakesh dates from 1070. {{gha3-alm}}"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l8",
    "title": "The lecturer's method: Ibn Khaldun",
    "min": 22,
    "blocks": [

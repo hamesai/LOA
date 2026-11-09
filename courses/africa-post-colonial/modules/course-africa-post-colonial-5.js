@@ -30,7 +30,7 @@
     },
     {
      "t": "p",
-     "x": "The Truth and Reconciliation Commission's historical chapter agrees on the land figures: the 1913 Act confined Africans to reserves of about 7 per cent of the land, and at least 3.5 million black South Africans were later forcibly removed. It stresses that apartheid was not the first racially discriminatory system and the National Party government was not the first to shoot protesters. The Rand strike of 07/1913 left just over 100 dead, the troops at Bulhoek in 1921 killed 183, and the Bondelswarts people were bombed from the air in 1922, with about 100 killed. The Commission still holds that the system built from 1948 was different in kind, because it set out to segregate every part of life. {{trc-vol1}}"
+     "x": "The Truth and Reconciliation Commission's historical chapter agrees on the land figures: the 1913 Act confined Africans to reserves of about 7 per cent of the land, and at least 3.5 million black South Africans were later forcibly removed. It stresses that apartheid was not the first racially discriminatory system and the National Party government was not the first to shoot protesters. The Rand strike of 07/1913 left just over 100 dead, the troops at Bulhoek in 1921 killed 183 according to the TRC (volume VII gives 163 killed and 129 wounded, [CONTESTED]; do not state one figure without its source), and the Bondelswarts people were bombed from the air in 1922, with about 100 killed. The Commission still holds that the system built from 1948 was different in kind, because it set out to segregate every part of life. {{trc-vol1}}"
     },
     {
      "t": "p",
@@ -197,6 +197,14 @@
      ]
     },
     {
+     "t": "h",
+     "x": "Land and labour in volume VII"
+    },
+    {
+     "t": "p",
+     "x": "Kaniki says the 1913 Natives' Land Act reserved 88 per cent of South Africa for whites and 12 per cent for reserves, but a page later gives 6 million Africans on reserves of 88,000 square kilometres against 1.14 million square kilometres for 1.8 million Europeans, which is about 7 per cent. [CONTESTED] The course and the TRC use about 7 per cent in 1913 and 13.7 per cent after 1936, so take 12 per cent as a slip or a later-figure blend. Boahen's final chapter gives 89 per cent for whites and also conflicts with the course; use neither figure without the TRC. Kaniki adds that a white miner earned eleven times an African miner in 1935, that mines employed 163,000 in 1906 including 51,000 indentured Chinese, and that the Civilised Labour Policy dates from 1924 and the Urban Areas Act from 1923. {{gha-vii}}"
+    },
+    {
      "t": "check",
      "q": "Which was a law of the apartheid system?",
      "o": [
@@ -250,6 +258,15 @@
     {
      "t": "p",
      "x": "Welsh gives the official 69 dead, a crowd of 3,000 to 25,000, about 200 police in the station and firing for some 20 seconds. A state of emergency followed on 30/03/1960, with 11,503 detained by August, and the ANC and PAC were banned from 01/04/1960. The 'at least 91' revision is from the web source, not Welsh. {{w-opp}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "The TRC's national overview disagrees with Welsh on the emergency of 1960. It says the government detained over 1,600 people. {{trc-vol2}} Welsh gives 11,503 by 08/1960. {{w-opp}} Neither gives a method, so say that the numbers differ by a factor of about seven (our arithmetic) and mark the figure [CONTESTED] until a third source settles it."
+    },
+    {
+     "t": "p",
+     "x": "The same chapter gives other dated points for 1960 to 1990. The Pondoland rising at Ngquza Hill in 06/1960 left at least 11 dead; MK formally declared war on 16/12/1961, and the PAC's Poqo was set up in 09/1961. MK's Church Street car bomb of 05/1983 killed 19 and injured 217, the UDF was formed in 08/1983 from over 500 organisations, and the state of emergency ran from 06/1986 to mid-1990. It counts over 600 dead at Kassinga in 1978. It also says most victims of the southern African conflict lived outside South Africa. In the 1990s, it adds, more killings came from people not bound to any political authority, which makes responsibility hard to assign. {{trc-vol2}}"
     },
     {
      "t": "h",
@@ -331,7 +348,19 @@
     },
     {
      "t": "p",
+     "x": "The UNESCO General History, volume VIII, written by Chanaiwa in 1993, gives Sharpeville as 72 killed and 186 wounded, including 40 women and eight children, among a crowd of 10,000 to 20,000, which is a third set of numbers beside 69 and at least 91. For Soweto it says that police killed 23 people and wounded 200, a figure that looks like an early count and is far below the 575 above. It also mislabels two points: it says the Group Areas Act classified all South Africans by race, which was the Population Registration Act, and it writes 'Pan African Congress' for the Pan Africanist Congress. Use the chapter for sequence and context, not for single figures. {{gha-viii}}"
+    },
+    {
+     "t": "p",
      "x": "The causes can be counted. Countrywide, African secondary pupils rose from 178,959 in 1974 to 389,046 in 1976, and 257,505 pupils enrolled in Form 1 in 1976 against Soweto capacity of 38,000. Teacher to pupil ratios were 1:20 for whites and 1:54 for Africans in 1975, and per-capita spending was 605 rand against 39.53 rand. The Afrikaans rule was only the fuse. The government withdrew it on 06/07/1976. {{w-soweto}}"
+    },
+    {
+     "t": "h",
+     "x": "Protest before 1948 (volume VII)"
+    },
+    {
+     "t": "p",
+     "x": "The anti-dipping campaign (1913 to 1917), the 1918 bucket strike (152 jailed) and the 1920 strike of 71,000 African miners come before the Defiance Campaign. The Industrial and Commercial Workers' Union began in 01/1919 in Cape Town and had 30,000 members in 1924 and 100,000 in 1927 (Kadalie claimed 250,000 [ESTIMATE]). The Communist Party began in 1921, and the ANC took its present name in 1925 with Nkosi Sikelel' iAfrika and a black, green and gold flag. Independent churches grew from 76 in 1918 to 320 in 1932 and over 800 by 1942. Bondelswarts (05/1922): about 100 killed and over 150 jailed, with aircraft used. {{gha-vii}}"
     },
     {
      "t": "check",

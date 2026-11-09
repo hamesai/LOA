@@ -38,6 +38,14 @@
      "x": "The French Brazzaville Conference was held in early 1944 under de Gaulle and ruled out self-government even in the distant future. Rodney dates it 1948, which is wrong. {{rd-mau}} {{rod-colonial}}"
     },
     {
+     "t": "p",
+     "x": "Volume VIII agrees, and adds that no African representatives took part and that its impact has been much exaggerated. It also gives the scale of African service to France: about 80,000 tirailleurs were sent to France in 1939 and 1940, and another 100,000 crossed the sea from 1943 to 1945. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Volume VIII's economic chapter adds that living standards fell after the war and unrest followed, from Thiaroye in 1944 and Douala in 1945 to Constantine in 1945 and Madagascar in 1947. France created the colonial franc in 1946 and the investment fund FIDES the same year. Coquery-Vidrovitch argues that French business accepted decolonisation after the 1951 to 1952 recession because colonial profits were falling, so that economic decolonisation came before political decolonisation. That is one author's interpretation [CONTESTED]. {{gha-viii}}"
+    },
+    {
      "t": "table",
      "title": "Independence dates",
      "head": [
@@ -243,6 +251,10 @@
     },
     {
      "t": "p",
+     "x": "Volume VIII's chapter on North Africa (Chenntouf) describes Setif on 8 May 1945 only as bloody incidents with a large number of deaths, and gives no figure. It says North Africa supplied 216,000 men to 1940, including 123,000 Algerians, and 385,000 more from 1943 to 1945 for the liberation of France. Ferhat Abbas's Manifesto of the Algerian People had a second version on 31/03/1943, so the first edition was 10/02/1943, though the chapter prints 1945. The Algerian Statute of 20/09/1947 left control with the European minority. {{gha-viii}}"
+    },
+    {
+     "t": "p",
      "x": "On Algerian independence the UNESCO table gives 03/07/1962, the day France recognised the referendum result, while this course also gives 05/07/1962, the day it was proclaimed and celebrated. Both dates are in use, so say which one you mean. {{gha-viii}}"
     },
     {
@@ -251,11 +263,38 @@
     },
     {
      "t": "p",
+     "x": "Volume VIII's chapter on West Africa (Suret-Canale and Boahen) sets the British and French routes side by side. In French West Africa the Brazzaville conference of 30/01 to 08/02/1944 ruled out self-government. The first college of 1945 had only 117,000 voters out of 16 million people. The laws of 11/04/1946 ended forced labour and of 07/05/1946 gave citizenship, and the RDA was founded at Bamako in 10/1946. Repression in the Cote d'Ivoire in 1949 and 1950 led Houphouet-Boigny to break with the communists in 1950. In the referendum of 28/09/1958 Guinea voted more than 80 per cent against de Gaulle's constitution, and the other territories became independent in 1960. Boahen argues that the British reacted to nationalist pressure instead of following a plan, so that the initiative lay with West Africans. Flint, Pearce and Fieldhouse read it differently, so treat this as one side of a debate [CONTESTED]. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Volume VIII was written and first published in 1993 and covers 1935 to 1992, though the 2024 volume gives other dates for it, 1990, 1995 and 1999. Its own reviewer lists what it missed: Thomas Sankara's revolution of 1983 to 1987, which happened as it was written, gender, the diasporas outside the United States, rural Africa, disease and public health, and young people. Coverage of 1935 to 1960 is thin, with most countries given two or three pages. The reviewer still praises its balanced view of nation-building from 1960 to 1980 and its link of internal and external causes. {{gha-ix}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "The 2024 volume's own independence dates are not safe either: it gives Angola on 11/11/1974 and Cabo Verde on 24/09/1973, while volume VIII's table gives 11/11/1975 and 05/07/1975. Follow the table and check each date against a second source. {{gha-ix}} {{gha-viii}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Volume VIII's West Africa chapter slips too. It dates Ghana's independence to 5 March 1957 when it came on 06/03/1957, and its opening says the last West African colonies became independent in 1973 and 1974, when Cape Verde came on 05/07/1975. Only Guinea-Bissau, which declared independence on 24/09/1973, fits. {{gha-viii}}"
+    },
+    {
+     "t": "p",
      "x": "The National Liberation Front began the war on 01/11/1954. In the Battle of Algiers (1956 to 1957), both the FLN's bombings and French torture occurred. {{lib}}"
     },
     {
      "t": "p",
      "x": "The Evian Accords of 18/03/1962 led to a referendum and independence on 05/07/1962. Almost all the settlers left in 1962. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Ivan Hrbek's chapter in volume VIII supplies detail. Nine historic chiefs began the revolt on 01/11/1954 with 2,000 to 3,000 ALN fighters. French forces rose from 56,000 to half a million by 1960, and the ALN reached 130,000 at its height. The Soummam congress met in 08/1956, and the provisional government was formed in 09/1958. The referendum of 01/07/1962 gave 99.7 per cent for independence, and about half a million Europeans left by the end of 07/1962. Hrbek says nearly one million Algerians died, which matches the official claim that most historians reject [CONTESTED]. {{gha-viii}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The same chapter has dating slips: the FLN in 05/1955 (it announced itself on 01/11/1954), Israel crossing into Sinai on 24/10/1956 (it was 29/10/1956), and Djibouti's independence on 26/06/1977 (27/06/1977) [check current]. {{gha-viii}}"
     },
     {
      "t": "table",
@@ -304,6 +343,14 @@
      ]
     },
     {
+     "t": "h",
+     "x": "Algeria and the Maghrib before 1945 (volume VII)"
+    },
+    {
+     "t": "p",
+     "x": "Berque dates the roots of Maghrib nationalism to the interwar years: Emir Khalid's election wins were annulled and he was exiled in 1923; the Jonnart Law (04/02/1919) enfranchised about half a million Muslim voters but limited them to a third of town councils; the Tunisian Destour was founded in 02/1920; the Etoile nord-africaine was founded in Paris in 1924; the Ulema Association followed in 1931; and the Berber Dahir (16/05/1930) set off over 120 incidents in three months. Ferhat Abbas's early assimilationism (Le Jeune Algerien, 1922 to 1927) sits behind his later turn. {{gha-vii}}"
+    },
+    {
      "t": "check",
      "q": "What did the Evian Accords lead to?",
      "o": [
@@ -349,6 +396,31 @@
     {
      "t": "p",
      "x": "Belgium left the Congo with almost no African graduates in senior posts. Independence on 30/06/1960 made Patrice Lumumba prime minister and Joseph Kasa-Vubu president. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Crowder's chapter in volume VIII gives the wartime background. Obligatory labour in the Congo rose from 60 to 120 days a year by 1944, tin output rose from 2,750 tonnes in 1939 to 17,300 in 1945, and a strike at the Union miniere in 1941 left about seventy strikers dead. The Congo supplied 85 per cent of the funds of the Belgian government in exile. He blames the failure of independence on Belgium giving Africans little beyond primary education and no political role until very late. In 1935 Belgian officials thought in terms of at least a hundred years, where British ones thought of three generations. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Edmond Kouassi's chapter on the United Nations in volume VIII describes the UN force in the Congo. It arrived on 15/07/1960 with 300 Tunisians and 80 Ghanaians and numbered 11,155 men by the end of the month. Hammarskjold accepted Tshombe's conditions at Elisabethville on 12/08/1960. After Kasavubu dismissed Lumumba on 05/09/1960, the UN official Andrew Cordier closed the radio station to him. Katanga's secession ended in 01/1963 and the UN troops left on 30/06/1964. Kouassi calls the UN a collective imperial power in the Congo as well as a partner, and says the cause of Hammarskjold's crash on 17/09/1961 is still unexplained. {{gha-viii}}"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "The chapter names Antoine Gizenga as the man captured by Mobutu's troops and shot in Katanga on 17 January 1961. It was Lumumba who was killed that day, and Gizenga survived. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "UNESCO's volume VIII adds context to the Congo. Riots in the African quarters of Leopoldville on 4 to 7/01/1959 and a Brussels round table in 01/1960 set independence for 30/06/1960. Lumumba had founded the MNC in 10/1958 and led the only party with a national base, while Kasavubu's ABAKO stood for regional and federal ideas. In 1958 Congolese were 99 per cent of the population but held 5 per cent of capital investment. The same chapter says the Cameroonian UPC's 'bloody week' of 22 to 30/05/1955 left 25 dead officially and about five times as many in fact, and that the Portuguese repression in Angola in 1961 killed 30,000 to 50,000, with 150,000 to 200,000 going into exile. These are figures from one author with no method. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "Volume VIII's chapter on nation-building, by J. Isawa Elaigwu, argues that independence leaders mostly kept the colonial state they inherited. The bureaucracy grew but kept its colonial goals, Francophone states stayed in the franc zone, and Nigeria left the sterling zone only in 1973. In Kenya, Kenyatta had stripped the regional assemblies of their powers by 1964, and Tom Mboya told parliament that Kenya rejected the Westminster model. The chapter counts more than 70 military coups by the mid-1980s, starting from Egypt in 1952. It also says single-party states held together better than multi-party ones, though it admits that Mali, Upper Volta and Nkrumah's Ghana were still overthrown, so treat that claim as arguable [CONTESTED]. {{gha-viii}}"
+    },
+    {
+     "t": "p",
+     "x": "The opening pages of the next chapter, by Chinweizu, argue that independence kept Africa inside a Western orbit, since states inherited colonial-era agreements and defence pacts, and that France cut Guinea off after 1958 until relations resumed in 1963. He also lists Western interventions, including Kenya and Tanganyika in 1964 and the Shaba operations of 1977 and 1978 to 1979, and treats the Ghana coup of 1966 as Western-made. That is a polemical thesis, and the Ghana and Congo claims are contested [CONTESTED]. {{gha-viii}}"
     },
     {
      "t": "p",
@@ -493,6 +565,10 @@
     },
     {
      "t": "p",
+     "x": "Volume VIII's chapter on political values (Ki-Zerbo, Mazrui and Wondji) sorts post-colonial regimes into five types: socialist, military, apartheid, conservative, and liberal-pluralist, the last said to be only the Gambia, Botswana, Senegal, Namibia and Mauritius. It explains the failure of socialism by the strength of ethnicity over class, a Westernised elite, a collectivism based on custom rather than command, and economies tied to the world market. It reports Nyerere's argument that multi-partyism was a luxury Africa could not afford, and says the case for one-party rule had collapsed by the 1970s. It also misdates the one-party states of Guinea, Mali and Tanzania to the 1950s, when they came in the 1960s. These are the authors' framework, not settled findings [CONTESTED]. {{gha-viii}}"
+    },
+    {
+     "t": "p",
      "x": "Outcomes are [CONTESTED]: output suffered and the economy was in crisis by the late 1970s, yet Tanzania had high literacy, national unity with Swahili as a common language, and no ethnic civil war. Nyerere stepped down voluntarily in 1985. {{lib}}"
     },
     {
@@ -557,6 +633,10 @@
     {
      "t": "p",
      "x": "Portugal's Carnation Revolution of April 1974 ended its wars in Angola, Mozambique and Guinea-Bissau. Amilcar Cabral, assassinated in 1973, was the leading theorist. Namibia became independent in 1990. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "The same volume gives the PAIGC's course. Cabral and five companions founded it in Bissau in 1956; the chapter says 19/10/1956, while 19/09/1956 is the date usually given [check current]. A dock strike in 08/1959 left more than 50 dead, and the party took up arms in 1963. Portuguese troops rose from 1,000 in 1961 to over 30,000 in 1967, yet the PAIGC held two thirds of Guinea. Cabral was killed in 01/1973 and independence was declared on 24/09/1973. {{gha-viii}}"
     },
     {
      "t": "example",
@@ -723,6 +803,10 @@
     {
      "t": "p",
      "x": "He also translated Shakespeare's Julius Caesar and The Merchant of Venice into Swahili. Our library records that he stepped down voluntarily in 1985. {{wiki-nyerere}} {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Volume VIII adds that the translations set off a debate in Tanzania on whether blank verse is admissible in Swahili poetry. Ali Mazrui reads them as part of the ujamaa vision, since Nyerere rendered The Merchant of Venice as a title meaning 'Capitalists of Venice', and as an effort to make Kiswahili carry world culture. That is Mazrui's own interpretation, not Nyerere's stated aim [CONTESTED]. {{gha-viii}}"
     },
     {
      "t": "h",
