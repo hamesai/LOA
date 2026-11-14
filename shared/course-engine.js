@@ -28,16 +28,37 @@
   function refHref(r) {
     var u = safeUrl(r.u);
     if (u) return u;
-    var q = String(r.s || "").split(",")[0] + " " + String(r.t || "").split(/[:(]/)[0].trim();
+    var q = String(r.s || "").split(",")[0] + " " + String(r.t || "").split(/[:(]/)[0].trim() + (r.p ? " " + r.p : "");
     return "https://www.google.com/search?tbm=bks&q=" + encodeURIComponent(q.trim());
   }
-  function refTitle(r) { return safeUrl(r.u) ? r.t : r.t + " (search for this source)"; }
+  /* The exact location: the chapter, section or page recorded in r.p, shown with the source's name. */
+  function refTitle(r) {
+    var where = r.p ? " (" + r.p + ")" : "";
+    return r.nolink ? r.t + where : safeUrl(r.u) ? r.t + where : r.t + where + " (search for this source)";
+  }
+  /* A ref marked nolink (a private working document that no search can find) is shown as plain text, not as a dead link. */
+  function refNode(r, title, text) {
+    if (r.nolink) return h("span", { title: title, text: text });
+    return h("a", { href: refHref(r), target: "_blank", rel: "noopener noreferrer", title: title, text: text });
+  }
 
   /* ---------- citations and rich text ---------- */
   function refNums(c) {
     var nums = {}, n = 0, s = JSON.stringify([c.intro, c.outcomes, c.lessons]), re = /\{\{([a-z0-9-]+)\}\}/g, m;
     while ((m = re.exec(s)) !== null) if (!nums[m[1]] && REFS[m[1]]) nums[m[1]] = ++n;
     return nums;
+  }
+  /* Bibliography helpers: sources sorted by their author line, each written out in full like a book's list. */
+  function bibKeys(nums) {
+    return Object.keys(nums).sort(function (a, b) { return String(REFS[a].t).toLowerCase() < String(REFS[b].t).toLowerCase() ? -1 : 1; });
+  }
+  function bibFull(r) {
+    return [r.t, r.s, r.p, r.u, r.d ? "checked " + r.d : null].filter(function (x) { return x; }).join(". ") + ".";
+  }
+  function bibList(keys) {
+    var ul = h("ul", { class: "bib", style: "list-style:none;padding-left:0" });
+    keys.forEach(function (k) { ul.appendChild(h("li", { style: "padding-left:2em;text-indent:-2em;margin-bottom:.6em" }, h("span", { text: bibFull(REFS[k]) }))); });
+    return ul;
   }
   function rich(text, nums) {
     var frag = document.createDocumentFragment(), re = /\{\{([a-z0-9-]+)\}\}|\*\*(.+?)\*\*|`([^`]+)`/g, last = 0, m;
@@ -48,7 +69,8 @@
         var r = REFS[m[1]];
         if (r) {
           var label = String(nums[m[1]] || "?");
-          frag.appendChild(h("sup", { class: "cite" }, h("a", { href: refHref(r), target: "_blank", rel: "noopener noreferrer", title: refTitle(r) + ", " + r.s, text: label })));
+          var jk = m[1];
+          frag.appendChild(h("sup", { class: "cite" }, h("a", { href: "#bib-" + jk, class: "cite-jump", title: refTitle(r) + ", " + r.s, text: label, onclick: function (ev) { if (window.CE_goTab) { ev.preventDefault(); window.CE_goTab("bib", "bib-" + jk); } } })));
         }
       } else if (m[2]) frag.appendChild(h("strong", { text: m[2] }));
       else if (m[3]) frag.appendChild(h("code", { text: m[3] }));
@@ -222,7 +244,7 @@
     var refs = h("ol", { class: "refs" }), order = Object.keys(nums).sort(function (a, b) { return nums[a] - nums[b]; });
     order.forEach(function (k) {
       var r = REFS[k];
-      refs.appendChild(h("li", {}, h("a", { href: refHref(r), target: "_blank", rel: "noopener noreferrer", title: refTitle(r), text: r.t }), h("span", { class: "refs-s", text: " " + r.s + (r.p ? ", " + r.p : "") + (r.d ? ". Checked " + r.d : "") })));
+      refs.appendChild(h("li", {}, refNode(r, refTitle(r), r.t),h("span", { class: "refs-s", text: " " + r.s + (r.d ? ". Checked " + r.d : "") })));
     });
     root.appendChild(h("section", { class: "lesson" }, h("h2", { text: "Sources" }), refs));
     return root;
@@ -230,6 +252,35 @@
 
   /* ---------- notes: the deeper scope behind a module ---------- */
   var SKILL_TYPES = { Know: "remember and recognise", Reason: "work something out", Do: "perform the task", Judge: "decide between options" };
+  /* ---------- bibliography tab: each source numbered as in the text, with its full details ---------- */
+  CE.bibCount = function (key) { var c = COURSE[key]; return c ? Object.keys(refNums(c)).length : 0; };
+  CE.bibliography = function (m) {
+    var c = COURSE[m.key], nums = refNums(c), root = h("article", { class: "notes bibtab" });
+    root.appendChild(h("header", { class: "dhead" },
+      h("span", { class: "mono lec-k", text: "Sources" }),
+      h("h2", { text: "Bibliography" }),
+      h("p", { class: "lead", text: "Every source this module cites, numbered as in the text. Click a number in the notes or slides to come here." })));
+    var lessons = (c.lessons || []).map(function (L) { return { t: L.title, s: JSON.stringify(L.blocks || []) }; });
+    Object.keys(nums).sort(function (a, b) { return nums[a] - nums[b]; }).forEach(function (k) {
+      var r = REFS[k], cited = lessons.filter(function (L) { return L.s.indexOf("{{" + k + "}}") >= 0; }).map(function (L) { return L.t; });
+      var web = safeUrl(r.u) ? h("a", { href: r.u, target: "_blank", rel: "noopener noreferrer", text: r.u }) : h("a", { href: refHref(r), target: "_blank", rel: "noopener noreferrer", text: "Search for this source" });
+      var rows = [
+        h("dt", { text: "Publisher or series" }), h("dd", { text: r.s || "Not recorded" }),
+        h("dt", { text: "Chapter or section" }), h("dd", { text: r.p || "Whole work" }),
+        h("dt", { text: safeUrl(r.u) ? "Chapter web address" : "Web address" }), h("dd", {}, web),
+        ...(r.vu ? [h("dt", { text: "Whole volume" }), h("dd", {}, h("a", { href: r.vu, target: "_blank", rel: "noopener noreferrer", text: r.vu }))] : []),
+        h("dt", { text: "Checked" }), h("dd", { text: r.d || "Not recorded" }),
+        h("dt", { text: "Source file" }), h("dd", { text: r.b ? "courses/" + m.key.replace(/-\d+$/, "") + "/sources/" + r.b : "Not held locally" }),
+        h("dt", { text: "Cited in" }), h("dd", { text: cited.length ? cited.join("; ") : "No lesson" }),
+        h("dt", { text: "In the slides" }), h("dd", {}, h("a", { href: "#", text: "Go to the first slide that cites it", onclick: function (ev) { ev.preventDefault(); if (window.CE_goSlide) window.CE_goSlide(k, r.t); } }))
+      ];
+      root.appendChild(h("section", { class: "bibentry", id: "bib-" + k, style: "margin:0 0 1.4em;padding-bottom:1em;border-bottom:1px solid var(--line, #ddd)" },
+        h("h3", {}, h("a", { href: "#", title: "Go to this source's slide", text: nums[k] + ".", onclick: function (ev) { ev.preventDefault(); if (window.CE_goSlide) window.CE_goSlide(k, r.t); } }), " " + r.t),
+        h("p", { class: "refs-s", text: "Full citation: " + bibFull(r) }),
+        h("dl", { class: "bibdl", style: "display:grid;grid-template-columns:max-content 1fr;gap:.2em 1em" }, ...rows)));
+    });
+    return root;
+  };
   CE.hasDeep = function (key) { return !!(window.COURSE_DEEP && window.COURSE_DEEP[key] && COURSE[key]); };
   CE.deep = function (m, nb) {
     var c = COURSE[m.key], d = (window.COURSE_DEEP || {})[m.key], nums = refNums(c), Lc = CE.lecturer(m.key);
@@ -376,7 +427,7 @@
           if (u2.tab.length) ad.appendChild(h("p", { class: "dadd-t", text: "Also behind " + (u2.tab.length === 1 ? "a table: " : u2.tab.length + " tables: ") + u2.tab.slice(0, 3).join("; ") + (u2.tab.length > 3 ? "; and more" : "") + "." }));
           li.appendChild(ad);
         }
-        li.appendChild(h("p", { class: "dadd" }, h("a", { href: refHref(r), target: "_blank", rel: "noopener noreferrer", text: safeUrl(r.u) ? "Open the source" : "Search for this source" })));
+        if (!r.nolink) li.appendChild(h("p", { class: "dadd" }, h("a", { href: refHref(r), target: "_blank", rel: "noopener noreferrer", text: safeUrl(r.u) ? "Open the source" : "Search for this source" })));
         rl.appendChild(li);
       });
       });
@@ -506,7 +557,7 @@
     return handled;
   };
   rawDraw = function (s, el, ctx) {
-    var kinds = ["section", "outline", "bullets", "table", "fig", "example", "check", "video", "terms", "activity", "take", "refs", "callout", "next", "lecturer", "lecnote"];
+    var kinds = ["section", "outline", "bullets", "table", "fig", "example", "check", "video", "terms", "activity", "take", "refs", "bib", "callout", "next", "lecturer", "lecnote"];
     if (kinds.indexOf(s.kind) < 0) return false;
     el.textContent = ""; el.className = "slide k-" + s.kind;
     var nums = s.nums || {};
@@ -546,9 +597,14 @@
       el.appendChild(h("h2", { text: s.h }));
       var rl = h("ol", { class: "refs", start: String(s.items[0].n) });
       s.items.forEach(function (it) {
-        rl.appendChild(h("li", {}, h("a", { href: refHref(it.r), target: "_blank", rel: "noopener noreferrer", title: refTitle(it.r), text: it.r.t }), h("span", { class: "refs-s", text: " " + it.r.s + (it.r.p ? ", " + it.r.p : "") + (it.r.d ? ". Checked " + it.r.d : "") })));
+        rl.appendChild(h("li", {}, refNode(it.r, refTitle(it.r), it.r.t),h("span", { class: "refs-s", text: " " + it.r.s + (it.r.p ? ", " + it.r.p : "") + (it.r.d ? ". Checked " + it.r.d : "") })));
       });
       el.appendChild(rl);
+      return true;
+    }
+    if (s.kind === "bib") {
+      el.appendChild(h("h2", { text: s.h }));
+      el.appendChild(bibList(s.keys));
       return true;
     }
     if (s.kind === "next") {

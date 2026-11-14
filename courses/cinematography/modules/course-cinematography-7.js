@@ -639,9 +639,9 @@
      "t": "example",
      "title": "Worked example: the same cartridge at the handbook's frame size (our arithmetic)",
      "steps": [
-      "3,600 frames × 12 MB = 43,200 MB, about 43 GB for one Super 8 cartridge at 2K.",
+      "Assumed frame sizes, not handbook figures: 12 MB per 2K frame and 50 MB per 4K frame. 3,600 frames × 12 MB = 43,200 MB, about 43 GB for one Super 8 cartridge at 2K.",
       "At 18 fps that is 18 × 12 = 216 MB for each second of picture.",
-      "At 4K the same cartridge is 3,600 × 50 MB = 180,000 MB, about 180 GB. {{fh-ch16}}",
+      "At 4K the same cartridge is 3,600 × 50 MB = 180,000 MB, about 180 GB (our arithmetic on the assumed size).",
       "For television or independent work the handbook says 1920 × 1080 HD is virtually a match for 2K and cheaper, and for Super 16 it calls 2K more than adequate. {{fh-ch16}} Ask the lab what it would charge for HD and for 2K."
      ]
     },

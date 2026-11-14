@@ -33,12 +33,28 @@
      "x": "Igbo-Ukwu lies in south-eastern Nigeria. Excavations by Thurstan Shaw in 1959 to 60 found elaborate lost-wax bronzes, dated to about the 9th to 10th centuries [PROBABLE]. It shows a sophisticated metal tradition in a society without an obvious large state. {{lib}}"
     },
     {
+     "t": "p",
+     "x": "Shaw's excavation found a storehouse of regalia, a wood-lined burial chamber and a disposal pit. Wood from a copper-studded stool in the burial chamber dates between the 8th and early 11th centuries, while another sample from the same site falls in the 14th or 15th century, so the date is disputed. {{gha3-shaw}}"
+    },
+    {
+     "t": "p",
+     "x": "Where the copper came from is open. Shaw argues for trans-Saharan sources such as Takedda and Azelik; Onwuejeogwu cites copper and lead at Abakaliki and tin at Afikpo and Calabar. Onwuejeogwu also reconstructs Nri as a ritual-based state from about the 9th century, with Igbo-Ukwu possibly the burial of a ruler in that system. {{gha3-anquandah}} {{gha3-shaw}}"
+    },
+    {
      "t": "h",
      "x": "Ife"
     },
     {
      "t": "p",
      "x": "Ife is the spiritual centre of the Yoruba, with the myth of Oduduwa. Naturalistic heads in terracotta and copper alloy date to roughly the 12th to 15th centuries [PROBABLE, dates approximate]. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Ife's urban history begins with hamlets around 350 CE, and some naturalistic bronze and terracotta work is dated to the 11th century by bronze dating; the 12th to 15th century span is one view. Blue segi beads found at Ife also occur at Kumbi Saleh, Tegdaoust and Gao, which shows contact across the Sahel. {{gha3-anquandah}}"
+    },
+    {
+     "t": "p",
+     "x": "Shaw proposes that Ife's wealth came from trade in slaves, kola and horses, with slave-raiding harder in the forest, so buyers used local authorities. He also cautions that not every bound figure in Ife art shows a slave, so keep this as a hypothesis. {{gha3-shaw}}"
     },
     {
      "t": "p",
@@ -122,6 +138,10 @@
     {
      "t": "p",
      "x": "Benin is the kingdom of the Edo people. Tradition places the first Oba, Eweka I, around 1180 and a revived monarchy under Oba Ewuare in the 15th century [TRADITIONAL DATE]. Portuguese traders arrived in the 1480s. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Connah's excavations show Benin's walls to be linear earthworks that mark territory, not defence. The outer wall is traditionally dated to Oguola in the late 13th century, and the inner wall was built in the 14th or 15th century, which implies a strong central government by then. Dark's dating puts the present dynasty near 1300, against Egharevba's court-history dates near 1170, so treat both as traditions. {{gha3-anquandah}}"
     },
     {
      "t": "p",
@@ -237,6 +257,18 @@
     {
      "t": "p",
      "x": "Akan states were unified by Osei Tutu in the late 17th century, traditionally c. 1701 with victory over Denkyira at Feyiase [TRADITIONAL DATE]. The Golden Stool is said to have been brought down by the priest Okomfo Anokye and became the symbol of the union. The story is a founding myth with a political purpose. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Before the Akan states, the Gold Coast had proto-urban centres. Begho was a farming town from about the 2nd century CE and a trading centre from the 11th century, peaking in the 14th century with about 500 compounds. Bono Manso was the state capital, which absorbed earlier chiefdoms around the end of the first millennium. Earthworks at Akyem Manso and Akwatia may be defensive or may wall labour camps for gold, and the defence reading is the stronger but unproven view. {{gha3-anquandah}}"
+    },
+    {
+     "t": "p",
+     "x": "Farming in the Guinea zone grew out of gathering, not as a sudden switch. Wild grasses were planted near shrinking water, and oil palms moved from collected nuts to planted groves, so hunting and fishing continued alongside farming for a long time. Stone Age hunter-gatherer tools survived in places into the 11th century. {{gha3-shaw}}"
+    },
+    {
+     "t": "p",
+     "x": "Malaria may have shaped the spread of sickle-cell, whose carriers gained protection against falciparum malaria; the gene is thought to have built up over about 1500 years in endemic areas, and forest clearance favoured the mosquito. Treat this as a hypothesis from the evidence on skeletons and disease. {{gha3-shaw}}"
     },
     {
      "t": "p",
@@ -679,6 +711,30 @@
     {
      "t": "p",
      "x": "E. J. Alagoa's 1992 chapter in UNESCO volume V covers the Fon, the Yoruba, the Niger Delta, Igboland and the Cross River. It is the only chapter read so far for this module, so other coastal chapters of the volume are still open."
+    },
+    {
+     "t": "p",
+     "x": "Andah reviews the Upper Guinea coast, from the Senegal to Cape Palmas. Accounts of its peopling differ. One school says the coast was filled by people driven out of the interior from the 3rd century CE or earlier, which is popular but unproven. Andah asks the course to treat drift as one hypothesis among several. {{gha3-andah}}"
+    },
+    {
+     "t": "p",
+     "x": "The Mande spread is dated differently by different writers: Livingstone places the first Mande movements west in the 14th century, using the sickle-cell distribution; Lamp puts the invasion in the 15th century; Hair in the 16th. Andah notes that the Mande may have brought iron, cotton and warfare, but the evidence for rice, iron and states on the coast does not depend on them. {{gha3-andah}}"
+    },
+    {
+     "t": "p",
+     "x": "The Senegambian stone circles (over 30000 square km, with Dialloumbere's group of at least 54 circles) are burial grounds, probably of dynasties. Excavations in the Sine-Saloum area date them to about 1000 CE, not the 14th century; over 4000 mounds hold gold, carnelian and iron goods. Their builders were most likely ancestors of the present Mandingo, Wolof and Fulbe. {{gha3-andah}}"
+    },
+    {
+     "t": "p",
+     "x": "The nomoli and pomtan stone figures, in the thousands from Sherbro Island to the Kisi country, date by association to the 6th and 7th centuries at Kamabai. Who made them is open: Atherton and Kalous attribute them to an earlier Sapes population, Person to West Atlantic makers, and Andah argues for an independent local tradition, since no clay figures were made first. {{gha3-andah}}"
+    },
+    {
+     "t": "p",
+     "x": "Iron-using levels at the Sierra Leone rock shelters Kamabai and Yagala date from the 7th or 8th century, and stone tools continued to the 14th. Rice, not millet or cotton, was the main crop of the Upper Guinea coast. Andah's conclusion is that intensive agriculture, centralised monarchies, guilds and markets were present before Sudanic intrusions, and that iron and states were not imposed from the Sudan. {{gha3-andah}}"
+    },
+    {
+     "t": "p",
+     "x": "Vai and Kono speakers came to the coast along trade corridors that carried salt and dried fish north, not in a mass conquest, and Vai became a trade language. Hill argues that trade routes came before population growth and more complex politics. Present this as a hypothesis. {{gha3-andah}}"
     },
     {
      "t": "h",

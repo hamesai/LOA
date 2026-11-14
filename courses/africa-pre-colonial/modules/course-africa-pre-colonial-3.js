@@ -253,7 +253,27 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Camels came into regular use across the Sahara in the first centuries CE [PROBABLE], building on earlier Saharan polities such as the Garamantes of Fezzan. Gold moved north from the Sahel. Salt from Taghaza and Taoudeni, copper, cloth, books and people moved in several directions. {{lib}}"
+     "x": "Camels came into regular use across the Sahara in the first centuries CE [PROBABLE], building on earlier Saharan polities such as the Garamantes of Fezzan. Gold moved north from the Sahel. Salt from Taghaza and Taoudeni, copper, cloth, books and people moved in several directions. Carbon-14 dating puts the end of the Garamantian civilisation between the 8th and 10th centuries, after an Arab expedition in 762-3 sacked Zawila; the course should not place it earlier. {{gha3-lewicki}} {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "The northern termini were Sijilmasa, Wargla and Tadmekka. Lewicki says that from the 8th to the 12th century the Wargla-Ghana route ran through Sijilmasa and was more important than the Wargla-Tadmekka route, and that Ghana stored gold from Bambuk and Bure. Tadmekka (Es-Suk, north of Gao) was visited by Ibadite merchants from Wargla, Djerid and Djabal Nafusa for gold, and was ruled by the Banu Tanmak. It converted to Islam in 1109. {{gha3-lewicki}}"
+    },
+    {
+     "t": "p",
+     "x": "The Fatimids minted gold to challenge the Abbasids, with dinars of high fineness after 953 and especially after 975. For about two centuries the Sijilmasa-Ghana route was their main source of gold, and western gold reached Ifriqiya until about 990, after which the flow moved to Spain and the western Maghrib. {{gha3-devisse}}"
+    },
+    {
+     "t": "p",
+     "x": "Surviving Almoravid dinars (Messier's sample of 1503 coins) come from Sijilmasa (214), Aghmat (173), Fez (118), Nul Lamta (78), Marrakesh (67), Tlemcen (13) and Spain (840). The counts show what has survived, not what was struck. {{gha3-devisse}}"
+    },
+    {
+     "t": "p",
+     "x": "Before the trans-Saharan trade, the Senegal and Niger valleys already had towns and crafts: Jenne-Jeno was a town from about 400 to 900 and grew again from 900 to 1400. The north-south trade built on these economies rather than creating them. Luxury imports at Tegdaoust were for a northern clientele. {{gha3-devisse}}"
+    },
+    {
+     "t": "p",
+     "x": "Lewicki also gives the early history of the Lamtuna. Later writers credit the Lamtuna king Tilutan (d. 837) with 100,000 camels and tribute from more than twenty Sudanese kings. Treat these as reported claims, not measured facts. {{gha3-lewicki}}"
     },
     {
      "t": "table",
@@ -322,7 +342,7 @@
       "Only horses"
      ],
      "a": 0,
-     "w": "Gold and enslaved people moved north; salt, cloth and copper moved south. {{lib}}"
+     "w": "Gold and enslaved people moved north; cloth and luxury goods moved south; salt moved in both directions. Copper was already worked in the south, so it did not need to come from the north. {{gha3-devisse}} {{lib}}"
     },
     {
      "t": "check",

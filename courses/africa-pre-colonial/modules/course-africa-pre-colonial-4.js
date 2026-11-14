@@ -37,6 +37,22 @@
      "x": "Archaeology at Kumbi Saleh and Tegdaoust shows urban trading centres. Modern Ghana, named in 1957, lies about 500 km to the south-east and is not the same place. {{lib}}"
     },
     {
+     "t": "p",
+     "x": "Awdaghust (Tegdaoust) was a Berber market city ten days from Ghana. Its Sanhaja kingdom paid tribute to Ghana until about 1054, and buyers there paid in gold dust. Lewicki cites Ibn Hawkal's visit in 951-2, but doubts that he reached the city. {{gha3-lewicki}}"
+    },
+    {
+     "t": "p",
+     "x": "Gold was not coined in the south. Devisse argues that tibr meant untreated gold and dhahab refined or minted gold; no die or mint has been found south of the Sahara. Gold went north as ingots or blanks, and Tegdaoust has yielded gold wire and five half-ingots. {{gha3-devisse}}"
+    },
+    {
+     "t": "p",
+     "x": "Al-Idrisi (mid-12th century) describes two gold systems: Takrur and its dependencies, which mediated trade after about 1050, and Ghana, whose trade ran through Gharbil and Ghiyara. Ghana was one competitor among several, not the sole supplier. {{gha3-devisse}}"
+    },
+    {
+     "t": "p",
+     "x": "Kumbi Saleh has occupation layers from the 8th to the 15th centuries, more than seven metres deep, and a major mosque, but the royal capital al-Bakri describes has not yet been found. Devisse puts the north's yearly gold need at one to three tonnes, which he calls an arbitrary estimate. {{gha3-devisse}}"
+    },
+    {
      "t": "h",
      "x": "Mali"
     },
@@ -331,6 +347,10 @@
      "x": "Kanem-Borno was a long-lived state around Lake Chad, from about the 9th century, with a Muslim dynasty. Mai Idris Alooma (r. c. 1564 to 96) is its best-known ruler. It links the Sahel to the Hausa states and Libya. {{lib}}"
     },
     {
+     "t": "p",
+     "x": "The earliest sources for Kanem are geographers' reports. Lewicki places a Zaghawa kingdom of Kanem south-east of Fezzan and cites al-Muhallabi (c. 1000) on its kings and their dress. Kawar sent slaves north to Djarma and Zawila, and its alum (kawari) was sold on the same routes. {{gha3-lewicki}}"
+    },
+    {
      "t": "h",
      "x": "The Hausa states"
     },
@@ -345,6 +365,46 @@
     {
      "t": "p",
      "x": "The scholar Usman dan Fodio criticised Hausa rulers for heavy taxation and for tolerating non-Islamic practices. After conflict with Gobir he migrated in 1804 and led a jihad that created a federation of emirates under Sokoto, from 1809 under his son Muhammad Bello. It lasted until the British conquest of 1903. His daughter Nana Asma'u was a leading poet and educator. {{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "What the UNESCO chapters add"
+    },
+    {
+     "t": "p",
+     "x": "The jihads combined religious reform (tajdid) with militant action. Their leaders drew on a belief that a renewer would come at the turn of the 13th Hijri century, which the Western Sudan dated to 1785 to 1881, and Usman dan Fodio and Ahmadu Lobbo both claimed the role. {{gha6-batran}}"
+    },
+    {
+     "t": "p",
+     "x": "The start of the caliphate runs in stages. Reform was peaceful and successful in the countryside from about 1775 to 1795; the clash turned to war from 1795 to 1810; formal war was declared in 1804 after Usman's hijra to Gudu, and the main Hausa states had capitulated by January 1809. {{gha6-last}}"
+    },
+    {
+     "t": "p",
+     "x": "The caliphate kept no standing army and never campaigned for territory as such. Its expansion came piecemeal, from emirate initiative and the budget deficit, and most violence was raiding for captives. {{gha6-last}}"
+    },
+    {
+     "t": "p",
+     "x": "Attacks on pastoral Fulbe after 1795 drove herders into the reformers' camp, gave the pastoralist faction lasting influence in the new state, and fed the claim that the jihad was a Fulbe war, as Borno scholars called it. Batran argues that many Fulbe fought against the jihad and that it was partly aimed at Fulbe rulers in Massina and Senegambia. Weigh the two readings. [CONTESTED] {{gha6-last}} {{gha6-batran}}"
+    },
+    {
+     "t": "p",
+     "x": "In Massina, Fulbe herders paid tribute to Segu (including a yearly 100 boys, 100 girls and horses) and were raided for cattle. Ahmadu allied with the Fulbe leaders Hammadi Badejio and Golajio, who took Kuna from the Bambara in 1815 to 16. {{gha6-batran}}"
+    },
+    {
+     "t": "p",
+     "x": "The jihads freed slaves who joined them, and those who had not joined were re-enslaved on al-Maghili's ruling. The caliphates kept a high slave-to-free ratio after the jihad. {{gha6-batran}}"
+    },
+    {
+     "t": "p",
+     "x": "Borno ran as a dyarchy from 1820 to 1845 between Mai Ibrahim and Shaykh al-Kanemi. Mai Ibrahim was executed by Umar in 1846 after a Wadai invasion, and from 1855 to 1880 Borno was a unitary patron-client state. {{gha6-last}}"
+    },
+    {
+     "t": "p",
+     "x": "The caliphate's trade ran north to Tripoli. Trade on the Tripoli-Kano route peaked after about 1850, with an ostrich-feather boom in the 1870s, declined after 1900 as cheap sea freight and desert insecurity took hold, and ended when the railway reached Kano in 1911. Nomadic Tuareg and Chaamba carried the trade; northern oasis merchants financed it. {{gha6-baier}}"
+    },
+    {
+     "t": "p",
+     "x": "Desert nomads were organised in segmentary lineages, with aristocratic warrior groups over subordinate free people and servile workers. The Sanusiyya brotherhood (founded in the 1840s) settled disputes, guaranteed safety on the Benghazi-Wadai route and by the late 19th century governed the Cyrenaican interior. {{gha6-baier}}"
     },
     {
      "t": "h",
@@ -576,6 +636,10 @@
     {
      "t": "p",
      "x": "The young readers' book says Musa and as-Sahili introduced sun-dried mud brick to the Sudan. {{oli-court}} Mud brick is far older: Kerma's monumental mud-brick buildings date to about 2500 BCE (lesson 1 of Module 2) and Jenne-jeno's wall is mud brick. Diop, reading Ibn Khaldun, adds that as-Sahili built a square, domed reception hall at the capital, not a mosque, and that this is not the oblong buttressed Sudanese style. {{dpc-tech}} So keep the course wording that Musa brought an architect and patronised building, and do not say the mosque at Gao is certain. [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Devisse adds that the pre-14th-century mosques at Tegdaoust and Kumbi Saleh were built of stone, and that the mud-building tradition predates the trans-Saharan trade. The claim that Musa introduced architecture needs that correction. {{gha3-devisse}}"
     },
     {
      "t": "h",

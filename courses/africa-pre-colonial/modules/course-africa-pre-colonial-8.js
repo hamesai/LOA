@@ -255,11 +255,39 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Britain outlawed the trade for its subjects in 1807 and slavery in the empire in 1833 to 34. The Royal Navy's West Africa Squadron intercepted ships and freed well over 100,000 people, a rough figure [PROBABLE]. Freetown and Liberia (settled from 1822) received freed people. {{lib}}"
+     "x": "Britain outlawed the trade for its subjects in 1807 and slavery in the empire in 1833 to 34. The Royal Navy's West Africa Squadron intercepted ships and freed well over 100,000 people, a rough figure [PROBABLE]. Freetown and Liberia received freed people; Liberia's settlement at Cape Mesurado began in 1821 and took its name in 1824. {{gha6-daget}} {{lib}}"
     },
     {
      "t": "p",
      "x": "Palm oil and groundnut exports grew. Slavery inside Africa often expanded in the 19th century as domestic demand rose, which is Lovejoy's argument, widely though not universally accepted. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Abolition came in stages, not on one date. Britain's ban of 25 March 1807 followed Denmark's in 1802 and preceded the United States in 1808. Portugal's legal trade south of the Equator ended in 1842 under British pressure, Brazil's trade stopped in 1851, and the trade on the Loango coast went on to the end of the century. Daget dates the decline region by region: Senegal and Goree by 1824, the Rio Pongos and Rio Nunez to 1866 to 67, and the whole trade to about 1860 to 70. {{gha6-daget}}"
+    },
+    {
+     "t": "p",
+     "x": "Why abolition happened is contested. Eric Williams (1944) argued that it followed Britain's economic interests; Drescher calls it 'econocide' and Anstey stresses faith and benevolence. Daget notes that many leading abolitionists were bankers, and that the political factors are less disputed. [CONTESTED] {{gha6-daget}}"
+    },
+    {
+     "t": "p",
+     "x": "The planters' side was economic too. US plantations found it profitable to import new Africans while the price stayed under about 600 dollars a head, until 1860. After Britain standardised sugar import duties in 1846, Brazilian slave imports rose 84 per cent over the previous five years. {{gha6-daget}}"
+    },
+    {
+     "t": "p",
+     "x": "African participation was uneven, and Daget argues the distributors resisted suppression to protect an integrated barter system, not from humanitarian reasons. Some coastal peoples destroyed slave ships and some hinterland peoples knew nothing of the trade. Daget's conclusion is that African adaptability was as important as Western decisions in ending the Atlantic trade. {{gha6-daget}}"
+    },
+    {
+     "t": "p",
+     "x": "Naval suppression had its own abuses. Capture bounties (100 francs a head in France, 1825) led to charges that sailors cared more for the reward than the captives. Slave ships used false flags and forged papers, and the American flag protected the trade until 1862. {{gha6-daget}}"
+    },
+    {
+     "t": "p",
+     "x": "Daget's period totals are a separate series from the Voyages figures used in this module: 1807 to 1867, about 1.9 million Africans put on board, most of them loaded south of the Equator. Do not mix the two without saying which is which. {{gha6-daget}}"
+    },
+    {
+     "t": "p",
+     "x": "Around 1850 the missions, the traders and the consuls became part of a process that led to colonial rule. Blockades and protectorates were justified as suppression, and humanitarian methods became instruments of political and economic power. {{gha6-daget}}"
     },
     {
      "t": "h",
@@ -844,6 +872,26 @@
     {
      "t": "p",
      "x": "Reader, following Lovejoy, says enslavement inside Africa grew after abolition. By the end of the 19th century French officials counted slaves as 30 to 50 per cent of people in the Sahel, with a conservative estimate of about 2.5 million in the Sokoto caliphate in 1900; Zanzibar held over 100,000 slaves from the 1830s. {{rd-after}} More than 3 million were still shipped across the Atlantic in the 19th century, and the Royal Navy squadron captured 1,635 ships. {{rd-after}} Reader's total of 600,000 enslaved inside Africa each year is his own chain of assumptions. {{rd-clim}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "h",
+     "x": "The trans-Saharan slave trade on its own series"
+    },
+    {
+     "t": "p",
+     "x": "Austen's preliminary estimates run against the usual picture: the trans-Saharan trade in people rose in the 19th century. About half a million slaves entered Egypt and a quarter of a million Morocco between 1800 and 1880, and few entered Algeria after the French conquest. The Benghazi-Wadai route kept supplying Egypt into the late 19th century, because it was harder for abolitionists to watch. {{gha6-baier}}"
+    },
+    {
+     "t": "p",
+     "x": "Nomads were mostly transporters, guides and escorts for the trade, not its financiers. Merchants from the northern oases organised the caravans, and nomads collected tolls and fees. Keep the Atlantic and trans-Saharan figures as separate series when you compare them. {{gha6-baier}}"
+    },
+    {
+     "t": "p",
+     "x": "By the early 1880s smuggled Winchester repeaters were reaching Benghazi and Tripoli, and single-shot Remington rifles spread through Morocco. Insecurity on the Tripoli-Kano route after 1898 may reflect this spread of firearms to raiders. Treat that as a possibility, not a settled cause. {{gha6-baier}}"
+    },
+    {
+     "t": "p",
+     "x": "By 1900 the trans-Saharan trade had largely collapsed. The French occupation of the Algerian desert, from the outposts of 1852 to 1854 to the defeat of the Ahaggar in 1902, turned a trade network into a colonial frontier. {{gha6-baier}}"
     },
     {
      "t": "h",

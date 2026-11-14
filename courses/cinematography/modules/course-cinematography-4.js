@@ -1173,7 +1173,7 @@
     },
     {
      "t": "p",
-     "x": "Standard sources in the CIE set include illuminant A, a tungsten source that Brown puts at 2,854 K (other references give 2,856 K), and C, about 6,500 K daylight. 5,500 K is still the common standard for lighting instruments. {{brown-color}}"
+     "x": "Standard sources in the CIE set include illuminant A, a tungsten source that Brown puts at 2,854 K (our addition: other references give 2,856 K), and C, about 6,500 K daylight. 5,500 K is still the common standard for lighting instruments. {{brown-color}}"
     },
     {
      "t": "check",

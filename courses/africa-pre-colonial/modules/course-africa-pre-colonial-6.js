@@ -49,6 +49,26 @@
      "x": "The debate is about how much of each, not whether Africans built the towns [CONTESTED]. {{gha4-swahili}}"
     },
     {
+     "t": "p",
+     "x": "Masao and Mutoro argue that imported pottery dates were built on too few sherds from one or two test pits. They set Takwa's imported-pottery date against carbon-14 at about 1195 plus or minus 135, and say imported pottery dates mark when trade reached a site, not when it was founded. Takwa has yielded over five million local potsherds against 500 imported ones. {{gha3-masao}}"
+    },
+    {
+     "t": "p",
+     "x": "On the language and the coast, Arab geographers call the coastal people Zanj, and their words (a name for God, a word for kings) are Bantu. Al-Mas'udi and al-Biruni record Bantu forms, and Pemba (Kanbala) had Muslims who spoke Zanj in the 9th century, which suggests islamised Bantu speakers rather than Arab settlers. Kiswahili is closest to Mijikenda and Pokomo, and its north-coast synthesis is the likeliest origin. {{gha3-masao}}"
+    },
+    {
+     "t": "p",
+     "x": "The Shirazi story is contested. Masao and Mutoro note that the Benadir towns are about two centuries older than Kilwa, that the Kilwa dynasty of South Arabian origin is dated to the end of the 13th century, and that most local chronicles were written down in the 19th century, with only an earlier Kilwa text in Barros (16th century). Stone building was known on the coast before any Shirazi arrived, and the Shirazi arrived as individual men, not families. {{gha3-masao}}"
+    },
+    {
+     "t": "p",
+     "x": "The Red Sea coast shows a parallel story. Arab raids reached Ethiopia's ports early (702 by one account), Arabs destroyed Adulis and occupied the Dahlak Islands, and an independent Muslim principality on Dahlak from the early 10th century took over Adulis trade. Over 200 Arabic inscriptions on Dahlak Kabir date from 911 to 1539. {{gha3-cerulli}}"
+    },
+    {
+     "t": "p",
+     "x": "Enslavement on the coast before the 12th century is poorly documented. Arab writers describe ivory, ambergris, tortoiseshell and iron as the main exports, and they do not list slaves among the trade. Slaves were probably taken by capture or abduction, and the Zanj who rose in Iraq in the 9th century may have come from several regions. Do not infer a large coastal slave trade before the 12th century from this period. {{gha3-masao}}"
+    },
+    {
      "t": "table",
      "title": "Two readings of Swahili origins",
      "head": [
@@ -244,6 +264,18 @@
      "x": "Earthworks at Ntusi and Bigo in western Uganda, roughly 11th to 16th centuries, show earlier centralised polities [PROBABLE]. Oral tradition links them to the legendary Chwezi and Bunyoro-Kitara. How far that tradition describes a historic empire is [CONTESTED]. {{lib}}"
     },
     {
+     "t": "p",
+     "x": "The Great Lakes kingdoms have a long pre-history in the interior. Bantu farmers reached the Lakes earlier than the middle of the first millennium BCE and expanded through the first millennium CE, while Central Sudanic and Southern Cushitic herders and hunter-gatherers were absorbed. Lacustrine society spread from the Bukoba area, partly because forest clearance for charcoal wore out the land. {{gha3-ehret}}"
+    },
+    {
+     "t": "p",
+     "x": "Chiefship changed before the Common Era. A new chief whose power rested on control of iron smelting displaced older petty chiefs, who kept religious and medical roles. Large cattle-based polities came later, after about 1100. The Rutara expansion north-west near the end of the period is the start of the era remembered in later oral tradition as the Bachwezi. {{gha3-ehret}}"
+    },
+    {
+     "t": "p",
+     "x": "Highland planting agriculture, with bananas, irrigation and manure, was worked out in the Pare mountains around 1000 CE, and the Chaga spread from there. Bananas also reached the Lakes from the south. The interior did not share in the Indian Ocean trade of the 9th and 10th centuries, which the proto-Swahili ran on the coast. {{gha3-ehret}}"
+    },
+    {
      "t": "h",
      "x": "Buganda"
     },
@@ -338,6 +370,14 @@
     {
      "t": "p",
      "x": "Kongo was centred on Mbanza Kongo. Tradition, not firm dates, puts the founder Lukeni lua Nimi around the late 14th century [TRADITIONAL DATE]. The king, the Manikongo, governed provinces through appointed governors, and shell money called nzimbu circulated. {{gha4-kongo}}"
+    },
+    {
+     "t": "p",
+     "x": "Before the Kongo kingdom, the region north of the Zambezi had Early Iron Age farmers in two streams. Copper and mining on the Copperbelt and in the upper Lualaba drew trade over a wide area, and the Sanga and Katoto cemeteries show wealth by about 1000 CE. Pottery breaks sharply at about 1000 to 1100 CE in the east, where the Luangwa tradition appears, probably brought by whole families from north-west of the Copperbelt. {{gha3-phillipson}}"
+    },
+    {
+     "t": "p",
+     "x": "The Luba dynastic traditions are later than that archaeological break; their political developments are dated to the 13th or 14th century. Keep archaeological continuity and the traditions of kingship apart. Phillipson also argues that foreign pottery at copper sites suggests men travelled to get metal, since potting was men's work, so families did not necessarily move. {{gha3-phillipson}}"
     },
     {
      "t": "p",

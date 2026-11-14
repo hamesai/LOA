@@ -735,7 +735,7 @@
     },
     {
      "t": "p",
-     "x": "Exposure equals intensity times time. At the standard 24 fps, a 180° shutter gives 1/48 s, which people round to 1/50 s. A narrower shutter gives a faster speed. {{fh-ch6}} A 135° shutter gives about 1/65 s, and a 90° shutter about 1/100 s. {{fh-ch6}}"
+     "x": "Exposure equals intensity times time. At the standard 24 fps, a 180° shutter gives 1/48 s, which people round to 1/50 s. A narrower shutter gives a faster speed. {{fh-ch6}} A 135° shutter gives 1/64 s, and a 90° shutter about 1/96 s (our arithmetic: the shutter angle over 360, times the exposure time for one frame at 24 fps)."
     },
     {
      "t": "table",
@@ -781,9 +781,9 @@
      "t": "example",
      "title": "Worked example: the light lost to a beam-splitter (our arithmetic)",
      "steps": [
-      "A Bolex H16 has a 135° shutter, which is 1/64 s at 24 fps, or about 1/65 s. {{fh-ch6}}",
+      "A Bolex H16 has a 135° shutter, which is 1/64 s at 24 fps (our arithmetic). {{fh-ch6}}",
       "Its manual suggests metering with an effective shutter speed of 1/80 s to allow for the light that the prism diverts to the finder. {{fh-ch6}}",
-      "The ratio is 80 ÷ 65 = 1.23, and log base 2 of 1.23 is about 0.3, so roughly a third of a stop. That sits inside the handbook's range of a third to a full stop for beam-splitter reflexes. {{fh-ch6}}"
+      "The ratio is 80 ÷ 64 = 1.25, and log base 2 of 1.25 is about 0.32, so roughly a third of a stop. That sits inside the handbook's range of a third to a full stop for beam-splitter reflexes. {{fh-ch6}}"
      ]
     },
     {

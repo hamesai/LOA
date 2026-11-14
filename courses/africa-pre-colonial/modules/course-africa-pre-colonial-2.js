@@ -250,6 +250,10 @@
     },
     {
      "t": "p",
+     "x": "Aksum's decline had several causes. The Sassanid takeover of Yemen and rivalry with Byzantium cut its sea trade through Adulis. Beja groups from the north pressed onto the Eritrean plateau and pushed Aksum's kings south. Adulis was destroyed about the 8th century, on archaeological evidence. About twenty kings are named on Aksumite coins, from Endybis to Hataza, many with Christian crosses on the reverse. {{gha3-mekouria}}"
+    },
+    {
+     "t": "p",
      "x": "It minted its own coins in gold, silver and bronze from about the late 3rd century CE, a mark of economic confidence [PROBABLE]. Its stelae, carved stone obelisks, are famous. Reader gives one standing stele about 21 m high, a fallen great stele of about 33 m, and a 24 m stele taken to Rome in 1937. {{rd-axum}} That Rome obelisk was returned in 2005 {{lib}}, so always quote a height with the stele it belongs to."
     },
     {
@@ -338,6 +342,18 @@
     {
      "t": "p",
      "x": "After Aksum's decline the Zagwe dynasty ruled the central highlands, traditionally in the 12th and 13th centuries. The start and end dates are [CONTESTED]. King Lalibela, reigning c. 1181 to 1221 [TRADITIONAL DATE], is credited with eleven rock-hewn churches at Lalibela. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "A tenth-century crisis is reported by two sources. Ibn Hawkal (c. 977) describes a queen who had ruled Abyssinia for years after killing the king, and the History of the Patriarchs describes a queen who sacked Aksum and drove out the king, who appealed to Alexandria and to Nubia. The sources disagree on her identity, so label her as contested. {{gha3-mekouria}}"
+    },
+    {
+     "t": "p",
+     "x": "The Zagwe were of Agaw origin, from Lasta in the south-west, and Zagwe-era churches reuse Aksumite forms. Debre Damo's wooden ceilings and stone-and-wood construction are dated to about the 10th century, and the rock churches around Guerealta (about 120 are listed) may be of similar date. Lalibela's rock churches are a separate question. {{gha3-mekouria}}"
+    },
+    {
+     "t": "p",
+     "x": "The Solomonic move was southward expansion against Muslim states. The Christian capital moved from Aksum to Lasta and then to Shoa's frontier, and the monastery of St Stephen on Lake Hayq moved with it. Along the way the southern Muslim states were Damot, then Shoa under Makhzumi sultans from 896-7 until Ifat took it in 1280, then Ifat under the Walasma dynasty, whose centre passed to Adal by the 14th century. Sabr al-din I of Ifat fought Amda Seyon in 1332, and a chronicle records the first documented chewing of k'at by Muslims in that war. {{gha3-cerulli}}"
     },
     {
      "t": "p",
@@ -714,7 +730,7 @@
     },
     {
      "t": "p",
-     "x": "Earlier we gave the decipherment of Meroitic as 1911; Leclant says the key to transliteration was found by Griffith in 1909. The language is still not understood, and about 800 texts cannot be translated. {{gha2-kush1}}"
+     "x": "Leclant dates the key to Meroitic transliteration to Griffith's work in 1909. The language is still not understood, and about 800 texts cannot be translated. {{gha2-kush1}}"
     },
     {
      "t": "p",
