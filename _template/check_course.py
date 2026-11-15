@@ -189,6 +189,31 @@ def main():
             hits = sorted(set(mm.group(0) for mm in META.finditer(t)))
             if hits:
                 hard.append("%s: author-talk in lesson text (%s). Rewrite it as teaching, or move it to the refs or a source note" % (k, "; ".join(hits[:4])))
+    # Integration (added 15/11/2026): source findings are taught inside the topic lessons, organised by period, place or idea.
+    # A lesson or heading organised around a source ("What the books add to X", "What the UNESCO General History adds",
+    # "... (volume VII)", "Three books on Berlin") is a bolted-on section, not teaching, and fails the course.
+    ADD_T = re.compile(r"(?i)(^what (the )?.{0,70}\badds?\b)|\bbooks add\b|\bwhat the (unesco|general history|supplied|books)\b")
+    ADD_H = re.compile(r"(?i)\((volume|vol\.?) [IVX]+\)|\bin volume [IVX]+$|^what volume [IVX]+ adds|^what the (books|unesco|supplied|general history)\b|\b(two|three|four|five|six) books\b|\(chapter \d+\)$")
+    for k in keys:
+        if k not in lesson_files:
+            continue
+        t = read(lesson_files[k])
+        try:
+            obj = json.loads(t[t.index("] = ", t.index("(window.COURSE")) + 4:].rstrip().rstrip(";"))
+        except Exception as e:
+            soft.append("%s: could not parse the module file for the integration check (%s)" % (k, e))
+            continue
+        hits = []
+        for L in obj.get("lessons", []):
+            if ADD_T.search(L.get("title", "")):
+                hits.append("lesson '%s'" % L["title"])
+            for b in L.get("blocks", []):
+                s = b.get("x", "") if b.get("t") == "h" else (b.get("title", "") if b.get("t") == "table" else "")
+                if s and ADD_H.search(s):
+                    hits.append("heading '%s'" % s)
+        if hits:
+            hard.append("%s: a section is organised by source, not by topic (%s). Teach those findings inside the lessons on that period, "
+                        "place or idea, with each claim cited (see 'Integrating sources' in TEMPLATE.md)" % (k, "; ".join(hits[:3])))
     # Competence (added 15/11/2026): do practice items ask learners to use the subject or only to remember it?
     try:
         import practice_audit as PA

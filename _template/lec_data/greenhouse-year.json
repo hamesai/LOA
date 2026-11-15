@@ -541,7 +541,8 @@
       "93 per cent"
      ],
      "a": 1,
-     "w": "27 divided by 30 is 0.9, or 90 per cent."
+     "w": "27 divided by 30 is 0.9, or 90 per cent.",
+     "kind": "application"
     },
     {
      "t": "check",

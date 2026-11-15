@@ -15,7 +15,8 @@
                                            (writes docs/STALE-SOURCES.md; stale_sources.py --backfill takes dates from refs' own reading notes)
     python _template/kit.py audit <id>    the accuracy and competence report: source flags by kind, author-talk, applied practice,
                                            open findings, reading coverage. Run it after every module, not only at the end.
-    python _template/kit.py ship <id>      inject, meta, gate, check, sources, bump, md, then open. Stops if the gate or check reports a PROBLEM.
+    python _template/kit.py ship <id>      inject, meta, gate, check, sources, bump, md, then open. Stops if the gate or check reports a PROBLEM,
+                                           or if lecturer lessons in the module files differ from lec_data (lec_sync_from_modules.js fixes it).
     python _template/kit.py rebuild <id>   run courses/<id>/build/build.py (the course's own build scripts live in courses/<id>/build/,
                                            never in a session scratchpad), then ship
 """
@@ -284,6 +285,13 @@ if __name__ == "__main__":
             sys.exit("build.py failed; nothing shipped.")
         os.execv(sys.executable, [sys.executable, __file__, "ship", cid])
     elif cmd == "ship":
+        # Lecturer lessons edited by hand in the module files would be silently reverted by the injector, so stop first.
+        if (ROOT / "_template" / "lec_data" / (cid + ".json")).exists():
+            d = subprocess.run(["node", str(ROOT / "_template" / "lec_sync_from_modules.js"), cid, "--check"],
+                               capture_output=True, text=True, encoding="utf-8")
+            if d.returncode:
+                print(d.stdout + d.stderr)
+                sys.exit("Lecturer lessons in the module files differ from lec_data; nothing shipped.")
         if not inject(cid):
             sys.exit("Lecturer injection failed.")
         if not meta():

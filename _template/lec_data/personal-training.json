@@ -403,7 +403,7 @@
     },
     {
      "t": "check",
-     "q": "Why say 'linked to' rather than 'will'?",
+     "q": "A client asks whether starting to walk will stop them having a heart attack. Why should your answer say the habit is 'linked to' lower risk rather than that it 'will' prevent one?",
      "o": [
       "It sounds modest",
       "A group finding cannot forecast one person",
@@ -411,7 +411,8 @@
       "The studies were on women"
      ],
      "a": 1,
-     "w": "Group studies show associations, and one person's picture can differ."
+     "w": "Group studies show associations, and one person's picture can differ.",
+     "kind": "application"
     },
     {
      "t": "check",

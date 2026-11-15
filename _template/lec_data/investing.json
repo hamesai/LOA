@@ -306,7 +306,8 @@
       "£5,000"
      ],
      "a": 1,
-     "w": "£1,000 × 1.05^20 is £2,653.30. Our arithmetic."
+     "w": "£1,000 × 1.05^20 is £2,653.30. Our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -561,7 +562,7 @@
     },
     {
      "t": "check",
-     "q": "Two holdings that tend to fall together give you...",
+     "q": "You add a second fund that usually falls when your first fund falls. How much does it lower your portfolio risk?",
      "o": [
       "Large risk reduction",
       "Little risk reduction",
@@ -569,7 +570,8 @@
       "No fees"
      ],
      "a": 1,
-     "w": "Holdings with high covariances among themselves do little to lower portfolio risk. {{lec-markowitz-1952}}"
+     "w": "Holdings with high covariances among themselves do little to lower portfolio risk. {{lec-markowitz-1952}}",
+     "kind": "application"
     },
     {
      "t": "take",

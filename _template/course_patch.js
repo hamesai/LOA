@@ -3,7 +3,9 @@
    const m = P.load("cinematography", "cinematography-3");
    P.replaceText(m, "l2", "text that identifies the block", "old words", "new words");
    P.insertAfter(m, "l2", "text that identifies the block", [ {t:"p", x:"..."}, {t:"check", q:"...", o:[...], a:0, w:"..."} ]);
-   P.addLessonBeforeLecturer(m, {id:"", title:"...", min:20, blocks:[...]});     renumbers l1, l2... and keeps the lecturer lesson last
+   P.addLessonBeforeLecturer(m, {id:"", title:"...", min:20, blocks:[...]});     renumbers l1, l2... and keeps the lecturer lesson last;
+     only for a topic the module does not yet teach (a period, place or idea), never a lesson about what a source adds
+   For larger reshapes, write the module's lessons to courses/<id>/build/lessons/<key>.json and run apply_lessons.js.
    P.save(m);
    Blocks are found by searching the block's JSON for the identifying text, so use words that appear in only one block.
    Never renumber or remove modules: saved progress and the ledger use module keys. Lesson ids are positional and may shift. */
@@ -38,6 +40,9 @@ exports.insertAfter = function (m, lid, needle, blocks) {
   L.blocks.splice(i + 1, 0, ...blocks);
 };
 exports.addLessonBeforeLecturer = function (m, lesson) {
+  // A new lesson must be a new topic. Findings from a source go into the existing lesson on that topic (insertAfter / replaceText).
+  if (/(^what (the )?.{0,70}\badds?\b)|\bbooks add\b|\bwhat the (unesco|general history|supplied|books)\b|\((volume|vol\.?) [IVX]+\)/i.test(lesson.title || ""))
+    throw new Error("lesson '" + lesson.title + "' is organised by source; teach its findings inside the topic lessons instead (TEMPLATE.md, Integrating sources)");
   const idx = m.obj.lessons.findIndex(L => /^The lecturer's method/.test(L.title));
   m.obj.lessons.splice(idx < 0 ? m.obj.lessons.length : idx, 0, lesson);
   m.obj.lessons.forEach((L, i) => L.id = "l" + (i + 1));

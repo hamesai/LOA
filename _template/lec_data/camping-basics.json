@@ -362,7 +362,7 @@
     },
     {
      "t": "check",
-     "q": "Which of these did Kephart advise against?",
+     "q": "Your group likes a flat spot beside a large dead tree. Following Kephart, what should you do?",
      "o": [
       "Pitching on raised ground",
       "Pitching near a dead tree",
@@ -370,7 +370,8 @@
       "Clearing brush from the site"
      ],
      "a": 1,
-     "w": "He said the tent should not be set near a dead tree. {{kephart10}}"
+     "w": "He said the tent should not be set near a dead tree. {{kephart10}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -443,7 +444,7 @@
     {
      "t": "ol",
      "i": [
-      "Test the clothes in the real cold. On 29 November he walked in his thick wolfskin dress at -37.6 °C and sweated, and on 9 December at -41 °C the perspiration still poured down his back. He concluded the dress was too warm. {{nansen-fn}}",
+      "Test the clothes in the real cold. On 29 November he walked in his thick wolfskin dress at -37.6 °C and sweated, and on 9 December at -41 °C the perspiration still poured down his back. He concluded the dress was too warm (the temperatures and sweating are unverified: not found in the sources checked). {{nansen-fn}}",
       "Choose layers over bulk. The Greenland crossing party used light woollen garments, and he is described as a pioneer of the layering system. {{rsgs-nansen}} Wikipedia credits him with the layer principle, in which heavy garments gave way to layers of lightweight material. {{wiki-nansen}}",
       "Try the sleeping bag and change the design. One-man bags of reindeer calf skin proved insufficiently warm, so he went back to a double bag of adult reindeer skin, in which the occupants warm each other. {{nansen-fn}}",
       "Count the weight. He says a bag for two men is not a little lighter than two single bags, and says the objection that a joint bag disturbs sleep was not true in his experience. {{nansen-fn}}",
@@ -501,7 +502,7 @@
      "title": "One double bag against two singles",
      "steps": [
       "Suppose a single sleeping bag weighs 1.3 kg and a double bag of the same warmth class weighs 1.9 kg. Two singles weigh 2.6 kg.",
-      "The double saves 2.6 − 1.9 = 0.7 kg, which is 27 percent less. Nansen reports a joint bag is lighter than two single bags. {{nansen-fn}}",
+      "The double saves 2.6 − 1.9 = 0.7 kg, which is 27 percent less. Nansen reports a joint bag is lighter than two single bags (unverified: not found in the sources checked). {{nansen-fn}}",
       "The warmth gain comes from the pair sharing heat, as he describes. {{nansen-fn}}",
       "The cost is flexibility: you cannot split up and you must agree on bedtime. Decide whether that suits your party.",
       "The numbers here are illustrative. Weigh your own bags before you decide."
@@ -866,7 +867,7 @@
     },
     {
      "t": "check",
-     "q": "Whom did Shackleton consult about the ice before choosing his route in South?",
+     "q": "Before choosing your route, you can ask a local guide or rely on last year's blog. What does Shackleton's choice in South suggest you do?",
      "o": [
       "Whaling captains at South Georgia",
       "Nobody",
@@ -874,7 +875,8 @@
       "Tourists"
      ],
      "a": 0,
-     "w": "He took advice from the whaling captains. {{shack-south}}"
+     "w": "He took advice from the whaling captains. {{shack-south}}",
+     "kind": "application"
     },
     {
      "t": "check",

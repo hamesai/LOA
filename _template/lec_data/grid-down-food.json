@@ -342,7 +342,7 @@
      "title": "A first-hours order of eating",
      "steps": [
       "List what is in the fridge and freezer. Mark each as perishable (cooked meat, dairy, cut fruit) or stable (hard cheese, whole fruit, vegetables with skins).",
-      "Pasteur's sensitive infusion clouded within a day at room temperature, so rank by how much a microbe has to feed on and how recently it was cooked or opened. {{pasteur-1864}}",
+      "Pasteur's sensitive infusion clouded within a day at room temperature (unverified: the timing was not confirmed in the 1864 text or secondary sources checked), so rank by how much a microbe has to feed on and how recently it was cooked or opened. {{pasteur-1864}}",
       "Put the cooked and opened items first. If the power is off for 4 hours, check the fridge thermometer reading against your course's limit and apply it. The limit comes from your food-safety source, not from Pasteur.",
       "Keep the freezer shut. Eat what you can from the fridge before opening the freezer.",
       "Write the order on a card on the fridge door, with the time the power went off."
@@ -806,7 +806,7 @@
     },
     {
      "t": "p",
-     "x": "Britannica says the French government offered a prize in 1795 for a way to conserve food for transport, and that Pasteur later explained that the heat killed microorganisms and the seal stopped new ones entering. {{brit-appert}} {{brit-canning}}"
+     "x": "Britannica says the French government offered a prize in 1795 for a way to conserve food for transport, and that Pasteur later explained that the heat killed microorganisms and the seal stopped new ones entering (unverified: the explanation is not in the Britannica excerpt checked). {{brit-appert}} {{brit-canning}}"
     },
     {
      "t": "callout",
@@ -922,7 +922,7 @@
       "Franklin"
      ],
      "a": 1,
-     "w": "Britannica says Pasteur later explained that the heat killed microorganisms and the seal stopped new ones. {{brit-canning}}"
+     "w": "Britannica says Pasteur later explained that the heat killed microorganisms and the seal stopped new ones (unverified: not in the excerpt checked). {{brit-canning}}"
     },
     {
      "t": "take",
@@ -942,7 +942,7 @@
      "Franklin"
     ],
     "a": 1,
-    "w": "Britannica says Pasteur later explained that the heat killed microorganisms and the seal stopped new ones entering. {{brit-canning}}"
+    "w": "Britannica says Pasteur later explained that the heat killed microorganisms and the seal stopped new ones entering (unverified: not in the excerpt checked). {{brit-canning}}"
    }
   },
   {

@@ -140,7 +140,31 @@ A source is a book, paper, report or long article. Sources are the best way to a
 
 Rules: the text stays on this machine and is never uploaded, published or put on a page. Quote at most 15 words from a source and paraphrase the rest. A claim comes from the source only if you found it in the text. Where a source disagrees with a web source or another source, show both in a table.
 
-To improve an existing course with a source, run a **source review pass** (see the library-of-alexandria skill): read the whole source with `source_read.py`, log findings for every module, fix what the source contradicts, add depth where it extends the course with `_template/course_patch.js`, and never renumber modules. A pass on part of a source is allowed only when asked for, and its report says Status: partial.
+To improve an existing course with a source, run a **source review pass** (see the library-of-alexandria skill): read the whole source with `source_read.py`, log findings for every module, fix what the source contradicts, and add depth where it extends the course, inside the lessons that teach each subject (see Integrating sources below). Never renumber modules. A pass on part of a source is allowed only when asked for, and its report says Status: partial.
+
+## Integrating sources (set 15/11/2026)
+
+Lessons teach subjects, not sources. A source's findings are written into the lessons on their period, place or idea, so a learner meets each fact where it belongs and never reads a tour of what one book says.
+
+| Do | Do not |
+|---|---|
+| Put a correction in the sentence it corrects, citing both sources | Add a lesson "What the books add to X" or "What the UNESCO General History adds" |
+| Add a new fact as a sentence, table row or subheading in the topic lesson | End a lesson with a section headed "... (volume VII)" or "Three books on X" |
+| Name an author only for a contested claim, beside the rival view, with how to choose | Write "Haberland says ..." for an uncontested fact |
+| Read a primary source inside the lesson about its event (a speech in the lesson on that independence) | Collect speeches and testimony into a separate "voices" lesson |
+| Add a lesson named for a new topic when a source opens one (for example "North Africa, 1500 to 1830") | Leave a topic the course does not teach in a source-named section |
+| Teach a subject shared by two modules or courses once, and bridge to it | Teach the same event twice with different figures |
+
+How:
+- **Small changes**: `course_patch.js` `insertAfter` and `replaceText`. `addLessonBeforeLecturer` refuses source-named titles.
+- **Reshaping a module**: export its lessons with their citations, write the teaching sequence to `courses/<id>/build/lessons/<module-key>.json` as `{ "intro", "outcomes", "lessons": [...] }` (intro and outcomes without the lecturer parts, lessons without the lecturer lesson), and run `node _template/apply_lessons.js <id> <module-key>`. It keeps the lecturer lesson last and renumbers ids. The JSON is then the module's source; keep it in step if you later patch the module file.
+- **Keep citations with their facts.** Split run-on paragraphs into one-claim sentences, each ending with its citation, so `source_verify.py` can check every figure. A reworded sentence can lose an old waiver's `match` text: add a new waiver with the same reason and today's date.
+- **Provenance goes in the notes**, not the lesson: what each source added is recorded in `course-<id>-notes.md` and the sources panel.
+- `check_course.py` fails any module with a source-organised lesson title or heading.
+
+## Lecturer data and shipping
+
+`kit.py ship` re-applies lecturer lessons from `_template/lec_data/<id>.json`. If a lecturer lesson was edited in the module file, ship stops rather than reverting it. Run `node _template/lec_sync_from_modules.js <id>` to copy the module text into `lec_data` (the usual fix), or `kit.py inject <id>` to apply `lec_data` on purpose. `--check` reports drift without writing.
 
 ## Finding sources to deepen a course
 
@@ -197,6 +221,7 @@ How to reach it without padding:
 | number | Every figure in a cited sentence is in the cited text (a run of citations after one sentence counts as one source). Short year ranges, MM/YYYY and DD/MM dates, words, ordinals, decimal millions and common OCR damage are matched. | correct it, cut precision the source lacks, label "our arithmetic", or waive OCR damage |
 | names | Most proper names in a cited sentence appear in the cited text. | re-cite to the right chapter, or split the sentence |
 | author-talk | No build narration in lessons ("the library says", "this lesson does not quote", "our wording", "the supplied books"). Injection markers (`Lecturer lens:`) are hidden by the engine. | rewrite as teaching; use "Source note:" for provenance |
+| integration | No lesson title or heading organised by source ("What the books add", "What the UNESCO General History adds", "(volume VII)", "Three books on X", "(chapter 12)"). | teach the findings in the topic lessons; see Integrating sources |
 | practice | Each module: at least half of checks plus quiz items applied, and one applied challenge. Items tagged `kind: "application"` and generated (`gen`) items count. | `case_chk` / `case_question` / `applied_challenge` in `author.py`; `practice_convert.py <id> file.json` for existing items |
 
 Waivers live in `courses/<id>/docs/verify-waivers.json`: `{"key", "kind", "item", "match", "reason", "checked"}`, where `match` is a piece of the sentence (so a rewrite retires the waiver) and the reason says what you read (for example "OCR prints '1800024000' for 18,000 to 24,000"). Write one only after re-reading the passage. `pc_fixlib.py` has `waive()`, `replace()`, `recite()`, `add_ref()` and `set_ref_field()` for scripted hand fixes.

@@ -354,7 +354,8 @@
       "It removes the author"
      ],
      "a": 1,
-     "w": "The teacher stresses it admits it is only a supposition and uses no fear or force. {{aap}}"
+     "w": "The teacher stresses it admits it is only a supposition and uses no fear or force. {{aap}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -370,7 +371,7 @@
     },
     {
      "t": "check",
-     "q": "What went wrong when the class repeated the madman exercise?",
+     "q": "Your cast repeats a strong improvisation the next night and it feels empty. What went wrong when the class repeated the madman exercise, and what is the lesson?",
      "o": [
       "They forgot the lines",
       "They copied the outer form and lost the inner cause",
@@ -378,7 +379,8 @@
       "The teacher changed the rules"
      ],
      "a": 1,
-     "w": "They repeated a successful rehearsal instead of re-creating the inner experience. {{aap}}"
+     "w": "They repeated a successful rehearsal instead of re-creating the inner experience. {{aap}}",
+     "kind": "application"
     },
     {
      "t": "take",

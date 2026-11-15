@@ -238,7 +238,8 @@
       "Leave a brochure"
      ],
      "a": 1,
-     "w": "It told salesmen not to ask for an order but to assume the buyer would buy. {{friedman-hbs}}"
+     "w": "It told salesmen not to ask for an order but to assume the buyer would buy. {{friedman-hbs}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -402,11 +403,12 @@
       "480"
      ],
      "a": 1,
-     "w": "12,000 ÷ 400 = 30."
+     "w": "12,000 ÷ 400 = 30.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "12 conversations against a target of 20 is what percentage?",
+     "q": "Your weekly target is 20 conversations and by Friday you have had 12. What percentage of target is that?",
      "o": [
       "40",
       "50",
@@ -414,7 +416,8 @@
       "70"
      ],
      "a": 2,
-     "w": "12 divided by 20 is 0.6, or 60 per cent."
+     "w": "12 divided by 20 is 0.6, or 60 per cent.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -586,7 +589,7 @@
     },
     {
      "t": "check",
-     "q": "What does the lesson warn about using the six ways?",
+     "q": "A colleague memorises Carnegie's six ways and uses prospects' names every sentence to seem friendly. What does the lesson warn about this?",
      "o": [
       "Never use them",
       "They can be used as tricks, so keep the interest genuine",
@@ -594,7 +597,8 @@
       "They only work online"
      ],
      "a": 1,
-     "w": "Britannica notes the emphasis on genuine interest. {{brit-carnegie-book}}"
+     "w": "Britannica notes the emphasis on genuine interest. {{brit-carnegie-book}}",
+     "kind": "application"
     },
     {
      "t": "take",

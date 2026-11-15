@@ -292,7 +292,7 @@
     },
     {
      "t": "p",
-     "x": "Wikipedia says he opened showrooms and warehouses in several cities, timed openings carefully and limited the number of jaspers on display to give a feeling of rarity. {{wiki-wedgwood}}"
+     "x": "Wikipedia says he opened showrooms and warehouses in several cities, timed openings carefully and limited the number of jaspers on display to give a feeling of rarity (unverified: the rarity detail was not found in the page we checked). {{wiki-wedgwood}}"
     },
     {
      "t": "callout",
@@ -457,16 +457,16 @@
       "Note what the title page promises about detail. It offers proper directions for the most difficult pieces, with the mouldings shown at large and the dimensions of each design specified. {{chippendale-dir}}",
       "See how he handles doubt about whether the designs can be made. He says he gives no design that a skilful workman cannot execute with advantage, and he blames malice, ignorance and inability for the claim that the Gothic and Chinese drawings could not be worked. {{chippendale-dir}}",
       "Note his own caution. He admits that in many drawings his pencil has faintly copied the images his fancy suggested. {{chippendale-dir}}",
-      "Read the attribution warning from Britannica. Pieces that resemble the Director plates cannot be attributed to his shop without further evidence, because the designs were available to other makers, some of them subscribers, and some plates were by other designers. {{brit-chippendale}}"
+      "Read the attribution warning from Britannica. Pieces that resemble the Director plates cannot be attributed to his shop without further evidence, because the designs were available to other makers, some of them subscribers, and some plates were by other designers (unverified: this wording was not found in the Britannica excerpts we checked). {{brit-chippendale}}"
      ]
     },
     {
      "t": "p",
-     "x": "Britannica says a tentative attribution may be made where a piece corresponds to a Director plate and the original owner was a subscriber or is known to have employed Chippendale. It adds that his reputation is exaggerated, largely because of the Director. {{brit-chippendale}}"
+     "x": "Britannica says a tentative attribution may be made where a piece corresponds to a Director plate and the original owner was a subscriber or is known to have employed Chippendale (unverified: the tentative-attribution rule was not in the excerpts checked). It adds that his reputation is exaggerated, largely because of the Director. {{brit-chippendale}}"
     },
     {
      "t": "p",
-     "x": "Wikipedia says recognisably Chippendale furniture was produced in Dublin, Philadelphia, Lisbon, Copenhagen and Hamburg. {{wiki-chippendale}}"
+     "x": "Wikipedia says recognisably Chippendale furniture was produced in Dublin, Philadelphia, Lisbon, Copenhagen and Hamburg (unverified: the city list was not found in the page we checked). {{wiki-chippendale}}"
     },
     {
      "t": "callout",
@@ -543,7 +543,7 @@
       "It is from 1754"
      ],
      "a": 1,
-     "w": "Britannica says such pieces cannot be attributed to his shop without further evidence. {{brit-chippendale}}"
+     "w": "Britannica says such pieces cannot be attributed to his shop without further evidence (unverified; see the lesson text). {{brit-chippendale}}"
     },
     {
      "t": "check",
@@ -707,7 +707,7 @@
     },
     {
      "t": "check",
-     "q": "In Hassall's first series of ground coffees, how many were adulterated?",
+     "q": "You want a historical example to show buyers why testing claims matters. In Hassall's first series of ground coffees, what did he find that makes the point?",
      "o": [
       "3 of 34",
       "31 of 34",
@@ -715,7 +715,8 @@
       "12 of 34"
      ],
      "a": 1,
-     "w": "Of 34 coffees, all but three were adulterated. {{archive-hassall}}"
+     "w": "Of 34 coffees, all but three were adulterated. {{archive-hassall}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -907,7 +908,7 @@
     },
     {
      "t": "check",
-     "q": "What does making goods accessible mean for an online listing?",
+     "q": "A shop buyer can pick up and turn over an item; an online buyer cannot. What should your listing do to make up for that?",
      "o": [
       "Hiding flaws",
       "Photographs from every side so the buyer can look round the item",
@@ -915,7 +916,8 @@
       "Low prices only"
      ],
      "a": 1,
-     "w": "Online, photographs stand in for walking round an item."
+     "w": "Online, photographs stand in for walking round an item.",
+     "kind": "application"
     },
     {
      "t": "check",

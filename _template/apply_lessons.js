@@ -28,6 +28,8 @@ for (const key of keys) {
   obj.lessons = spec.lessons.concat(lec);
   obj.lessons.forEach((L, i) => { L.id = "l" + (i + 1); });
   for (const L of spec.lessons) for (const b of L.blocks) if (!b.t) throw new Error(key + ": block without t in " + L.title);
+  for (const L of spec.lessons) if (/(^what (the )?.{0,70}\badds?\b)|\bbooks add\b|\bwhat the (unesco|general history|supplied|books)\b/i.test(L.title))
+    throw new Error(key + ": lesson '" + L.title + "' is organised by source; teach its findings inside the topic lessons");
   fs.writeFileSync(p, head + '(window.COURSE = window.COURSE || {})["' + key + '"] = ' + JSON.stringify(obj, null, 1).replace(/\n/g, "\r\n") + ";\r\n", "utf8");
   const words = spec.lessons.reduce((n, L) => n + JSON.stringify(L.blocks).replace(/\{\{[^}]+\}\}/g, "").split(/\s+/).length, 0);
   console.log(key + ": " + spec.lessons.length + " teaching lessons + " + lec.length + " lecturer; about " + words + " words (JSON count)");

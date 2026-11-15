@@ -177,7 +177,8 @@
       "1 mm"
      ],
      "a": 1,
-     "w": "5 ÷ 500 = 0.01 m, which is 1 cm."
+     "w": "5 ÷ 500 = 0.01 m, which is 1 cm.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -189,7 +190,8 @@
       "6"
      ],
      "a": 2,
-     "w": "The ratio is 20, and log base 2 of 20 is about 4.3."
+     "w": "The ratio is 20, and log base 2 of 20 is about 4.3.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -355,11 +357,12 @@
       "5.3"
      ],
      "a": 2,
-     "w": "2 × log base 2 of (11 ÷ 3.5) is about 3.3."
+     "w": "2 × log base 2 of (11 ÷ 3.5) is about 3.3.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why test each lens at each stop?",
+     "q": "You are hiring an old set of primes for a feature. Why test each lens at each stop before the shoot?",
      "o": [
       "Lenses are identical",
       "Some lenses lose quality at certain stops and recover at others",
@@ -367,7 +370,8 @@
       "It changes colour"
      ],
      "a": 1,
-     "w": "He notes lenses that were excellent until f/6.3, worse below, then better again at f/11 or f/16. {{toland-ac1941}}"
+     "w": "He notes lenses that were excellent until f/6.3, worse below, then better again at f/11 or f/16. {{toland-ac1941}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -690,7 +694,8 @@
       "8:1"
      ],
      "a": 1,
-     "w": "The lit side is 240 fc and 240 ÷ 80 is 3."
+     "w": "The lit side is 240 fc and 240 ÷ 80 is 3.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1052,7 +1057,8 @@
       "£1.70"
      ],
      "a": 1,
-     "w": "60 ÷ 3,600 is about £0.0167."
+     "w": "60 ÷ 3,600 is about £0.0167.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1211,7 +1217,8 @@
       "3"
      ],
      "a": 1,
-     "w": "Each gets a third of the light, which is log base 2 of 3, about 1.6 stops."
+     "w": "Each gets a third of the light, which is log base 2 of 3, about 1.6 stops.",
+     "kind": "application"
     },
     {
      "t": "check",
