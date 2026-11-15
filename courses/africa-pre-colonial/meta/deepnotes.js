@@ -17,7 +17,7 @@ Object.assign(window.COURSE_DEEP = window.COURSE_DEEP || {}, {
    ]
   ],
   "benefit": "You can read any claim about African history and ask how strong its evidence is.",
-  "style": "Method and cases. Tables of evidence, then four worked cases.",
+  "style": "Method first: why the past was denied, then one lesson each on oral, written, laboratory and language evidence, then the land, early farming, iron, Bantu and Jenne-jeno as cases.",
   "stumble": "Treating a famous claim as settled because it is famous.",
   "connects": "The tags and rewrites are used in every later module."
  },
@@ -38,7 +38,7 @@ Object.assign(window.COURSE_DEEP = window.COURSE_DEEP || {}, {
    ]
   ],
   "benefit": "You can narrate the north-east in order and say which points are traditional or contested.",
-  "style": "Timelines and source reading. Royal texts examined for purpose.",
+  "style": "One long timeline from the Nile before Kush to Gondar, with royal texts examined for purpose and the Funj and Fur added.",
   "stumble": "Treating the Kebra Nagast as a genealogy.",
   "connects": "The legitimising-text skill returns in Module 4 and the capstone."
  },
@@ -59,7 +59,7 @@ Object.assign(window.COURSE_DEEP = window.COURSE_DEEP || {}, {
    ]
   ],
   "benefit": "You can handle hostile sources and rewrite dramatic claims to match the evidence.",
-  "style": "Rewrite exercises and a route map.",
+  "style": "Carthage to the Ottoman regencies, the Saharan trade with its numbers, rewrite exercises and a route map.",
   "stumble": "Repeating the salted-earth story or the 1076 destruction of Ghana as fact.",
   "connects": "The trans-Saharan network sets up Module 4."
  },
@@ -80,7 +80,7 @@ Object.assign(window.COURSE_DEEP = window.COURSE_DEEP || {}, {
    ]
   ],
   "benefit": "You can hedge a number and defend a source ranking.",
-  "style": "Source ranking and number tests.",
+  "style": "State by state from Ghana to Sokoto, including Segu, the Mossi and Senegambia, with source ranking and number tests.",
   "stumble": "Quoting Mansa Musa's wealth as a fact or in modern dollars.",
   "connects": "The ranking skill feeds the capstone evidence tables."
  },
@@ -122,7 +122,7 @@ Object.assign(window.COURSE_DEEP = window.COURSE_DEEP || {}, {
    ]
   ],
   "benefit": "You can weigh a chronicle against archaeology and read an African royal letter.",
-  "style": "Origin stories tested and a letter read.",
+  "style": "The coast, the interior, the Lakes, Kongo, the Congo basin and Madagascar; origin stories tested and a letter read.",
   "stumble": "Believing the Swahili coast was an Arab colony.",
   "connects": "Afonso's letter prepares the slave-trade argument of Module 8."
  },
@@ -143,16 +143,16 @@ Object.assign(window.COURSE_DEEP = window.COURSE_DEEP || {}, {
    ]
   ],
   "benefit": "You can correct a colonial myth and argue a contested cause.",
-  "style": "Myth-and-correction tables and a debate.",
+  "style": "From the first farmers to the mfecane, including the Zambezi states and the Cape; myth-and-correction tables and a debate.",
   "stumble": "Treating the southern sequence as a proven dynastic line.",
   "connects": "The oral-testimony skill returns in the capstone."
  },
  "africa-pre-colonial-8": {
-  "place": "The Atlantic world comes last because it joins the whole continent and ends at Berlin.",
+  "place": "The Atlantic world comes last because it joins the whole continent and ends on the eve of partition, where Post-Colonial Africa begins.",
   "skills": [
    [
     "Know",
-    "The Voyages figures, the competing views of effects, abolition and the Berlin Conference"
+    "The Voyages figures, the competing views of effects, the diaspora, and abolition in stages"
    ],
    [
     "Do",
@@ -163,10 +163,10 @@ Object.assign(window.COURSE_DEEP = window.COURSE_DEEP || {}, {
     "Whether the Atlantic trade underdeveloped Africa"
    ]
   ],
-  "benefit": "You can quote the slave-trade figures with their source and correct the Berlin myth.",
+  "benefit": "You can quote the slave-trade figures with their source, keep rival estimates apart, and test the label pre-colonial.",
   "style": "Data and argument. A table of estimates and a debate.",
-  "stumble": "Quoting 12.5 million without the disembarked figure, or saying Berlin drew the borders.",
-  "connects": "Everything feeds the capstone atlas."
+  "stumble": "Quoting 12.5 million without the disembarked figure, or treating 1807 as the end of the trade.",
+  "connects": "Everything feeds the capstone atlas, and Post-Colonial Module 1 picks up at Berlin."
  },
  "africa-pre-colonial-cap": {
   "place": "The capstone is a source-critical atlas of three places from three regions.",

@@ -44,7 +44,11 @@
     },
     {
      "t": "p",
-     "x": "Our library cites his view that the colonial period was short and that African institutions persisted. We did not read his books, so the method below is our application, not his words. {{lib}}"
+     "x": "Boahen edited volume VII of the UNESCO General History, and the 2024 revisiting volume reviews it. That review dates the volume's contributions to the 1970s, its latest references to 1981 and its publication to 1987, while another chapter of the same revisiting volume gives 1985. It says the volume put African agency at the centre, but had one woman among its authors and said little about education. So the volume is both a model of the method and a source from its own time, and the series' publication years vary between chapters of the revisiting volume. {{gha-ix}}"
+    },
+    {
+     "t": "p",
+     "x": "His view is that the colonial period was short and that African institutions persisted. Source note: this rests on summaries, not his books, so the method below applies his view rather than quoting it. {{lib}}"
     },
     {
      "t": "h",
@@ -175,7 +179,7 @@
     },
     {
      "t": "p",
-     "x": "We read an encyclopaedic page in excerpt form on 30/10/2026, not his own work. Wikipedia reports that in February 1988 he lectured publicly on Ghana's history from 1972 to 1987, an act credited with breaking a culture of silence. It also says he spoke against Marxist history early in his career. {{wiki-boahen}}"
+     "x": "Source note: this rests on an encyclopaedic summary, not his own work. Wikipedia reports that in February 1988 he lectured publicly on Ghana's history from 1972 to 1987, an act credited with breaking a culture of silence. It also says he spoke against Marxist history early in his career. {{wiki-boahen}}"
     },
     {
      "t": "p",
@@ -253,7 +257,7 @@
     },
     {
      "t": "check",
-     "q": "Why keep African and colonial records separate in your notes?",
+     "q": "You are taking notes on Maji Maji from a German officer's report and from oral testimony collected later. Why keep them separate?",
      "o": [
       "They answer different questions",
       "They always agree",
@@ -261,7 +265,8 @@
       "They are the same"
      ],
      "a": 0,
-     "w": "Each has its own limits. {{lib}}"
+     "w": "Each has its own limits. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -303,7 +308,7 @@
     },
     {
      "t": "p",
-     "x": "He moved to Ghana in October 1961 and died in Accra on 27/08/1963, aged 95, and was given a state funeral. Our library names him as organiser of the Pan-African Congresses. {{wiki-dubois}} {{lib}}"
+     "x": "He moved to Ghana in October 1961 and died in Accra on 27/08/1963, aged 95, and was given a state funeral. He organised the Pan-African Congresses. {{wiki-dubois}} {{lib}}"
     },
     {
      "t": "h",
@@ -378,7 +383,7 @@
     },
     {
      "t": "check",
-     "q": "Which Du Bois habit asks for the collected evidence?",
+     "q": "A classmate wants to write about a community without visiting or interviewing anyone. Which of Du Bois's habits would challenge that?",
      "o": [
       "Fieldwork",
       "Slogans",
@@ -386,7 +391,8 @@
       "Silence"
      ],
      "a": 0,
-     "w": "The Philadelphia Negro rested on fieldwork. {{wiki-dubois}}"
+     "w": "The Philadelphia Negro rested on fieldwork. {{wiki-dubois}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -438,7 +444,11 @@
     },
     {
      "t": "p",
-     "x": "He also translated Shakespeare's Julius Caesar and The Merchant of Venice into Swahili. Our library records that he stepped down voluntarily in 1985. {{wiki-nyerere}} {{lib}}"
+     "x": "He also translated Shakespeare's Julius Caesar and The Merchant of Venice into Swahili. He stepped down voluntarily in 1985. {{wiki-nyerere}} {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Volume VIII adds that the translations set off a debate in Tanzania on whether blank verse is admissible in Swahili poetry. Ali Mazrui reads them as part of the ujamaa vision, since Nyerere rendered The Merchant of Venice as a title meaning 'Capitalists of Venice', and as an effort to make Kiswahili carry world culture. That is Mazrui's own interpretation, not Nyerere's stated aim [CONTESTED]. {{gha-viii-ch01}}"
     },
     {
      "t": "h",
@@ -533,7 +543,7 @@
       "Joined the OAU"
      ],
      "a": 0,
-     "w": "The library says so. {{lib}}"
+     "w": "That is the lesson's point. {{lib}}"
     },
     {
      "t": "take",
@@ -700,6 +710,10 @@
      "x": "The page also notes that critics have called him sexist in his depiction of Igbo society, which is a reminder that every witness has limits. We did not read his books. {{wiki-achebe}} {{lib}}"
     },
     {
+     "t": "p",
+     "x": "Volume VIII gives a contemporary reading of Achebe's role. Ali Mazrui quotes his view that the African writer must challenge injustice even when Africans commit it. He adds that few heroic works came out of the Nigerian civil war, and that the death of the poet Christopher Okigbo drew a larger literary response than the deaths of half a million Igbo. He names Anthills of the Savannah (1987) as Achebe's first novel since the war. {{gha-viii-ch19}}"
+    },
+    {
      "t": "h",
      "x": "His method, step by step"
     },
@@ -827,7 +841,7 @@
     },
     {
      "t": "p",
-     "x": "We read an encyclopaedic page in excerpt form on 30/10/2026, not his own work. Wikipedia reports that he published widely, wrote poetry and developed his ujamaa ideology. Our library records that in the 1960s he and others preferred gradual regional steps to Nkrumah's continental government. {{wiki-nyerere}} {{lib}}"
+     "x": "Source note: this rests on an encyclopaedic summary, not his own work. Wikipedia reports that he published widely, wrote poetry and developed his ujamaa ideology. In the 1960s he and others preferred gradual regional steps to Nkrumah's continental government. {{wiki-nyerere}} {{lib}}"
     },
     {
      "t": "p",
@@ -913,7 +927,7 @@
       "A federal Europe"
      ],
      "a": 0,
-     "w": "The library says so. {{lib}}"
+     "w": "That is the lesson's point. {{lib}}"
     },
     {
      "t": "check",

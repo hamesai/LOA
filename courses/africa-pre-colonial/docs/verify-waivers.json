@@ -174,5 +174,21 @@
   "match": "Applied to the Zulu case (our application)",
   "reason": "Vansina's general rules are applied to the Zulu case, and the sentence signposts the application as the course's own",
   "checked": "15/11/2026"
+ },
+ {
+  "key": "gha1-clark",
+  "kind": "unread",
+  "item": null,
+  "match": "Late Stone Age hunter-gatherers were replaced over much of the subcontinent",
+  "reason": "same pp. 528 to 529 passage checked against the chapter text on 15/11/2026; sentence reworded when Module 7 was consolidated (15/11/2026) with no new claims; rest of chapter stays skipped (Stone Age prehistory)",
+  "checked": "15/11/2026"
+ },
+ {
+  "key": "gha1-clark",
+  "kind": "unread",
+  "item": null,
+  "match": "Much southern African rock art may be only",
+  "reason": "same pp. 528 to 529 passage checked against the chapter text on 15/11/2026; sentence reworded when Module 7 was consolidated (15/11/2026) with no new claims; rest of chapter stays skipped (Stone Age prehistory)",
+  "checked": "15/11/2026"
  }
 ]

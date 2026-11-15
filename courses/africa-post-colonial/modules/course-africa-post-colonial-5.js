@@ -1,23 +1,19 @@
 /* Post-Colonial Africa: conquest, independence and the struggle for the state (c. 1880 to the present) (module 5). Block types: _template/TEMPLATE.md. */
 (window.COURSE = window.COURSE || {})["africa-post-colonial-5"] = {
- "intro": "Apartheid, meaning apartness, was a system of racial classification, segregation and political exclusion built by South Africa's National Party after 1948 on earlier segregation. It was resisted by mass movements, armed struggle, international pressure and internal revolt, and it ended through negotiation between 1990 and 1994. Historians still argue about the weight of each cause. Lecturer lens: Biko (1946 to 1977) was the leading voice of Black Consciousness. We borrow one habit: define terms precisely and ask what a system did to people's sense of themselves.",
+ "intro": "Apartheid, meaning apartness, was a system of racial classification, segregation and political exclusion built by South Africa's National Party after 1948 on older foundations of land, labour and segregation, some traced in Pre-Colonial Africa Module 7. It was resisted by mass movements, armed struggle, international pressure and internal revolt, and it ended through negotiation between 1990 and 1994. Historians still argue about the weight of each cause. Lecturer lens: Biko (1946 to 1977) was the leading voice of Black Consciousness. We borrow one habit: define terms precisely and ask what a system did to people's sense of themselves.",
  "outcomes": [
-  "Explain apartheid as a system of many laws, not one law.",
-  "Order the main events from Sharpeville to the 1994 election.",
-  "Handle the Sharpeville and Soweto death tolls as records with methods.",
-  "Rank four causes of apartheid's end with evidence and state the uncertainty.",
+  "Explain how land, labour and the vote were segregated before 1948.",
+  "Explain apartheid as a system of many laws, and weigh the blueprint debate.",
+  "Order the main events from the Defiance Campaign to Soweto, and handle the Sharpeville and Soweto tolls as records with methods.",
+  "Describe the negotiated end of 1990 to 1994, and use the TRC report as a source with a mandate and limits.",
+  "Rank the causes of apartheid's end with evidence and state the uncertainty.",
   "Lecturer's method: Separate the system from the mind: ask what a law did, and what it asked people to believe about themselves."
  ],
  "lessons": [
   {
-   "id": "l1",
-   "title": "Foundations and the apartheid laws",
-   "min": 24,
+   "title": "Before 1948: land, labour and the vote",
+   "min": 28,
    "blocks": [
-    {
-     "t": "p",
-     "x": "Apartheid was a system built from many laws on earlier segregation. It was not a single law and not only a social custom. {{lib}}"
-    },
     {
      "t": "fig",
      "id": "africa-post-colonial-tl5",
@@ -26,64 +22,153 @@
     },
     {
      "t": "p",
-     "x": "The Union of South Africa (1910) was a white-ruled state. The Natives Land Act of 1913 stopped Africans buying land outside scheduled reserves, which covered about 7 per cent of the country. The Native Trust and Land Act of 1936 raised African-held and trust land to 13.7 per cent. The body founded at Bloemfontein in 1912 was the South African Native National Congress, and it took the name African National Congress in 1925. {{w-black}} {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "The Truth and Reconciliation Commission's historical chapter agrees on the land figures: the 1913 Act confined Africans to reserves of about 7 per cent of the land, and at least 3.5 million black South Africans were later forcibly removed. It stresses that apartheid was not the first racially discriminatory system and the National Party government was not the first to shoot protesters. The Rand strike of 07/1913 left just over 100 dead, the troops at Bulhoek in 1921 killed 183 according to the TRC {{trc-vol1}} (volume VII gives 163 killed and 129 wounded {{gha-vii-ch27}}) [CONTESTED], so do not state one figure without its source. The Bondelswarts people were bombed from the air in 1922, with about 100 killed. The Commission still holds that the system built from 1948 was different in kind, because it set out to segregate every part of life. {{trc-vol1}}"
-    },
-    {
-     "t": "p",
-     "x": "The Commission's mandate covered only gross violations (killing, abduction, torture and severe ill-treatment), and about 21,300 people made statements. The pass laws, removals and Bantu Education fell outside that definition, so the TRC record is a narrow slice of apartheid's harm and not a count of it. The report counts the Sharpeville dead as 69 and calls them ordinary people protesting against the pass. It says the law was a veneer, that the State Security Council eclipsed the Cabinet in the 1980s, and that the evidence drew it to the finding that the state sanctioned murder. {{trc-vol1}}"
+     "x": "By 1948 South Africa was already comprehensively racialised and segregated; apartheid extended those institutions more ruthlessly under an ideology of nationalism and religion. {{w-origins}}"
     },
     {
      "t": "h",
-     "x": "Roots: why 1948 was not a bolt from nowhere"
+     "x": "The Cape and the frontier"
     },
     {
      "t": "p",
-     "x": "Welsh stresses continuity. By 1948 South Africa was already comprehensively racialised and segregated, and apartheid extended those institutions more ruthlessly under an ideology of nationalism and religion. The 1913 Land Act passed with hardly any dissent because a cross-party consensus on segregation existed at Union and for over a decade afterwards. Colour policy became a party fight only from 1929. {{w-origins}} {{w-black}}"
+     "x": "Dutch settlement at the Cape began in 04/1652, and slaves were imported from 1658. Commandos killed 503 Khoisan in 1774 and 2,480 more between 1786 and 1795 on official records. {{rd-cape}}"
     },
     {
      "t": "p",
-     "x": "The longer background is older. Dutch settlement at the Cape began in 04/1652, slaves were imported from 1658, and a smallpox epidemic in 1713 killed most of the Khoisan [ESTIMATE]. Commandos killed 503 Khoisan in 1774 and 2,480 more between 1786 and 1795 on official records. Do not say apartheid began in 1652. Say that land, labour and the frontier set patterns it later hardened. {{rd-cape}}"
+     "x": "Do not say apartheid began in 1652. Say that land, labour and the frontier set patterns it later hardened (our judgement)."
+    },
+    {
+     "t": "h",
+     "x": "Diamonds, gold and the compound"
+    },
+    {
+     "t": "p",
+     "x": "Diamonds were found in 1867 and gold on the Witwatersrand in 1886. At Kimberley the Cape government issued a pass notice in 07/1872 to register labour, closed compounds followed from 1885, and De Beers used convict labour from 1884 to 1932. {{rd-diamonds}}"
+    },
+    {
+     "t": "p",
+     "x": "African mine workers numbered 15,000 in 1890, 69,000 in 1897 and just under 190,000 in 1912. {{rd-diamonds}}"
+    },
+    {
+     "t": "p",
+     "x": "A white miner earned eleven times an African miner in 1935. The Urban Areas Act dates from 1923 and the Civilised Labour Policy from 1924. {{gha-vii-ch17}}"
+    },
+    {
+     "t": "h",
+     "x": "The Union and the land"
+    },
+    {
+     "t": "p",
+     "x": "Clause eight of the Treaty of Vereeniging (31/05/1902) postponed any decision on African voting rights, in effect indefinitely. {{rd-boer}} The Union followed on 31/05/1910 as a white-ruled state. {{rd-mau}}"
+    },
+    {
+     "t": "p",
+     "x": "The Natives Land Act of 1913 confined Africans to reserves of about 7 per cent of the land. {{trc-vol1}} The Native Trust and Land Act of 1936 raised African-held and trust land to 13.7 per cent. {{w-black}}"
     },
     {
      "t": "callout",
      "k": "warn",
-     "x": "Textbooks long blamed Shaka for the Mfecane, the upheaval of the 1820s. Reader reports a revisionist view that slave raiding from Delagoa Bay and pressure from the Cape frontier caused much of it, and he says it is not yet proven. Treat 'Shaka caused it' as [CONTESTED]. Reader also notes the old story suited white-minority separatist ideology. {{rd-frontier}} {{rd-mfecane}}"
+     "x": "One chapter of UNESCO's volume VII says the 1913 Act reserved 12 per cent for Africans, then gives figures a page later that work out at about 7 per cent. {{gha-vii-ch17}} Use about 7 per cent, which the TRC also gives. {{trc-vol1}}"
     },
     {
      "t": "p",
-     "x": "Diamonds were found in 1867 and gold on the Witwatersrand in 1886. At Kimberley the Cape government issued a pass notice in 07/1872 to register labour, closed compounds followed from 1885, and De Beers used convict labour from 1884 to 1932. Reader reads this as the origin of apartheid as a legally defined policy, which is his interpretation. Welsh agrees that segregation came first. {{rd-diamonds}}"
+     "x": "The 1913 Land Act passed with hardly any dissent, because a cross-party consensus on segregation existed at Union and for over a decade afterwards. {{w-origins}}"
     },
     {
      "t": "p",
-     "x": "African mine workers numbered 15,000 in 1890, 69,000 in 1897 and just under 190,000 in 1912. The 1936 census shows 393,000 of 1,700,000 African men aged 15 to 50 (23 per cent, our arithmetic: 393 divided by 1,700 is 23.1) worked in mines and allied industries. {{rd-diamonds}}"
-    },
-    {
-     "t": "p",
-     "x": "Hertzog tried from 1926 to remove the Cape's African male voters from the common roll and succeeded in 1936, with only 11 MPs voting against. Africans had made up 7.5 per cent of the Cape electorate by 1929. {{w-black}} The Coloured common-roll vote ended in 1956. {{w-apartheid}}"
-    },
-    {
-     "t": "p",
-     "x": "Clause eight of the Treaty of Vereeniging (31/05/1902) postponed any decision on African voting rights, in effect indefinitely. {{rd-boer}} The Union followed on 31/05/1910, exactly eight years later, with a franchise that left Cape Africans a small minority of voters. {{rd-mau}}"
+     "x": "Hertzog tried from 1926 to remove the Cape's African male voters from the common roll and succeeded in 1936, with only 11 MPs voting against. Africans had made up 7.5 per cent of the Cape electorate by 1929. {{w-black}}"
     },
     {
      "t": "h",
-     "x": "The 1948 election and the blueprint debate"
+     "x": "State violence before apartheid"
     },
     {
      "t": "p",
-     "x": "The National Party and its Afrikaner Party ally won 79 seats to the United Party's 65 in the election of 26/05/1948, a majority of five. Welsh quotes an estimate that the United Party and Labour won about 53.3 per cent of the votes to the Nationalists' 39.4 per cent. The first-past-the-post system and rural over-representation turned a minority of votes into a majority of seats. {{w-origins}}"
+     "x": "Apartheid was not the first racially discriminatory system, and the National Party government was not the first to shoot protesters. The Rand strike of 07/1913 left just over 100 dead, and the Bondelswarts people were bombed from the air in 1922, with about 100 killed. {{trc-vol1}}"
+    },
+    {
+     "t": "p",
+     "x": "At Bulhoek in 1921 troops killed 183 according to the TRC; {{trc-vol1}} another history gives 163 killed and 129 wounded. {{gha-vii-ch27}} Do not state one figure without its source [CONTESTED]."
+    },
+    {
+     "t": "h",
+     "x": "African protest before 1948"
+    },
+    {
+     "t": "p",
+     "x": "The body founded at Bloemfontein in 1912 was the South African Native National Congress, and it took the name African National Congress in 1925. {{w-black}}"
+    },
+    {
+     "t": "p",
+     "x": "The 1920 strike of 71,000 African miners came long before the Defiance Campaign. The Industrial and Commercial Workers' Union began in 01/1919 in Cape Town and had 100,000 members in 1927. {{gha-vii-ch27}}"
+    },
+    {
+     "t": "p",
+     "x": "The ANC Youth League formed in 1944 under Mandela, Tambo, Sisulu and Lembede, and about 60,000 African miners struck in 1946 and were crushed. {{w-black}} {{w-opp}}"
+    },
+    {
+     "t": "check",
+     "q": "A student says apartheid's land policy began in 1948. Which earlier law undermines that, and what did it do?",
+     "o": [
+      "The Natives Land Act of 1913, which confined Africans to reserves of about 7 per cent of the land",
+      "The Group Areas Act",
+      "The Freedom Charter",
+      "The Bantu Education Act"
+     ],
+     "a": 0,
+     "w": "Segregation of land long predates 1948. {{trc-vol1}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "A documentary says the National Party was the first South African government to shoot protesters. Which evidence answers that?",
+     "o": [
+      "None",
+      "Troops killed protesters at Bulhoek in 1921 and the Rand strike of 1913 left over 100 dead",
+      "Sharpeville",
+      "Soweto"
+     ],
+     "a": 1,
+     "w": "Earlier governments used lethal force too. {{trc-vol1}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Segregation of land, labour and the vote came before 1948. {{w-origins}}",
+      "The 1913 Land Act confined Africans to about 7 per cent of the land. {{trc-vol1}}",
+      "African protest and organisation grew from 1912."
+     ]
+    }
+   ],
+   "id": "l1"
+  },
+  {
+   "title": "1948 and the apartheid laws",
+   "min": 26,
+   "blocks": [
+    {
+     "t": "h",
+     "x": "The 1948 election"
     },
     {
      "t": "p",
      "x": "The word apartheid entered official National Party language in 1944. Urban African numbers rose 57 per cent between 1936 and 1946 as wartime industry suspended pass-law enforcement, and Smuts admitted in 1942 that segregation had failed to stop urbanisation. {{w-origins}} {{w-black}}"
     },
     {
+     "t": "p",
+     "x": "The National Party and its Afrikaner Party ally won 79 seats to the United Party's 65 in the election of 26/05/1948, a majority of five. {{w-origins}}"
+    },
+    {
+     "t": "p",
+     "x": "The United Party and Labour won about 53.3 per cent of the votes to the Nationalists' 39.4 per cent, on one estimate. The first-past-the-post system and rural over-representation turned a minority of votes into a majority of seats. {{w-origins}}"
+    },
+    {
+     "t": "h",
+     "x": "Was apartheid a blueprint?"
+    },
+    {
      "t": "table",
-     "title": "Was apartheid a blueprint? Historians disagree",
+     "title": "Two readings",
      "head": [
       "Reading",
       "Evidence",
@@ -93,7 +178,7 @@
       [
        "A set plan",
        "The Sauer Commission report of 03/1948 had about 30 proposals, nearly all enacted within a decade",
-       "Welsh thinks the core intent (white domination, curbing urbanisation, removing the Coloured vote) was fixed before 1948"
+       "Welsh: the core intent (white domination, curbing urbanisation, removing the Coloured vote) was fixed before 1948"
       ],
       [
        "Pragmatic and piecemeal",
@@ -104,54 +189,12 @@
      "src": "{{w-apartheid}}"
     },
     {
-     "t": "table",
-     "title": "The pillars in numbers",
-     "head": [
-      "Measure",
-      "Figure",
-      "Source"
-     ],
-     "rows": [
-      [
-       "Per-pupil spending, white against African, 1953",
-       "127.84 rand against 17.08 rand",
-       "Welsh"
-      ],
-      [
-       "Per-pupil spending, 1969 to 1970",
-       "282.00 rand against 16.97 rand, about 16 to 1",
-       "Welsh"
-      ],
-      [
-       "Group Areas removals to 31/08/1984",
-       "83,691 Coloured, 40,067 Indian and 2,418 white families",
-       "Welsh"
-      ],
-      [
-       "Homeland 'independence'",
-       "Transkei 1976, Bophuthatswana 1977, Venda 1979, Ciskei 1981",
-       "Welsh"
-      ],
-      [
-       "Forced removals by 1983",
-       "3.5 million, about 10 per cent of the population",
-       "Surplus People Project estimate [ESTIMATE]"
-      ],
-      [
-       "Pass-law prosecutions, 1946 to 1964",
-       "about 6.5 million",
-       "Savage, as reported by Welsh"
-      ]
-     ],
-     "src": "{{w-apartheid}}"
-    },
-    {
-     "t": "p",
-     "x": "The pillars came down late. The Mixed Marriages Act and section 16 of the Immorality Act were repealed in 1985, influx control (the pass laws) was abolished in 1986 after a committee found it unworkable, and the land laws, Group Areas Act and Population Registration Act were repealed in 1990 and 1991. {{w-80s}} {{w-table}}"
+     "t": "h",
+     "x": "The laws"
     },
     {
      "t": "table",
-     "title": "Laws and policies after the National Party's 1948 victory",
+     "title": "Laws and policies after 1948",
      "head": [
       "Law or policy",
       "Year",
@@ -182,9 +225,72 @@
        "Bantustan policy",
        "From 1959",
        "Assigned Africans to nominally independent homelands"
+      ],
+      [
+       "End of the Coloured common-roll vote",
+       "1956",
+       "Removed the last non-white voters from the common roll {{w-apartheid}}"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{lib}} {{w-apartheid}}"
+    },
+    {
+     "t": "table",
+     "title": "The pillars in numbers",
+     "head": [
+      "Measure",
+      "Figure",
+      "Source"
+     ],
+     "rows": [
+      [
+       "Per-pupil spending, white against African, 1953",
+       "127.84 rand against 17.08 rand",
+       "{{w-apartheid}}"
+      ],
+      [
+       "Per-pupil spending, 1969 to 1970",
+       "282.00 rand against 16.97 rand, about 16 to 1",
+       "{{w-apartheid}}"
+      ],
+      [
+       "Group Areas removals to 31/08/1984",
+       "83,691 Coloured, 40,067 Indian and 2,418 white families",
+       "{{w-apartheid}}"
+      ],
+      [
+       "Homeland 'independence'",
+       "Transkei 1976, Bophuthatswana 1977, Venda 1979, Ciskei 1981",
+       "{{w-apartheid}}"
+      ],
+      [
+       "Forced removals by 1983",
+       "3.5 million, about 10 per cent of the population [ESTIMATE]",
+       "{{w-apartheid}}"
+      ],
+      [
+       "Pass-law prosecutions, 1946 to 1964",
+       "about 6.5 million",
+       "{{w-apartheid}}"
+      ]
+     ],
+     "src": "{{w-apartheid}}"
+    },
+    {
+     "t": "h",
+     "x": "Contradictions inside the system"
+    },
+    {
+     "t": "p",
+     "x": "The Tomlinson Commission of 1955 projected about 21.36 million Africans and 4.58 million whites by the year 2000, and found that even with the reserves holding most Africans, some 6.5 million would stay in white areas. Verwoerd rejected its main proposals. {{w-apartheid}}"
+    },
+    {
+     "t": "p",
+     "x": "Africans were 69 per cent of the labour force in 1970, and white skill shortages followed. {{w-apartheid}}"
+    },
+    {
+     "t": "p",
+     "x": "The pillars came down late. The Mixed Marriages Act and section 16 of the Immorality Act were repealed in 1985, the pass laws were abolished in 1986 after a committee found them unworkable, and the land laws, Group Areas Act and Population Registration Act were repealed in 1990 and 1991. {{w-80s}} {{w-table}}"
     },
     {
      "t": "example",
@@ -193,60 +299,65 @@
       "Sort 'Group Areas Act', 'Defiance Campaign' and 'Soweto uprising'.",
       "Group Areas Act (1950) is a law. The Defiance Campaign (1952) and the Soweto uprising (1976) are events of resistance.",
       "Keep a two-column list so that you never describe a protest as if it were a statute.",
-      "A strong answer names at least three laws and three events. {{lib}}"
+      "A strong answer names at least three laws and three events."
      ]
     },
     {
-     "t": "h",
-     "x": "Land and labour in volume VII"
-    },
-    {
-     "t": "p",
-     "x": "Kaniki says the 1913 Natives' Land Act reserved 88 per cent of South Africa for whites and 12 per cent for reserves, but a page later gives 6 million Africans on reserves of 88,000 square kilometres against 1.14 million square kilometres for 1.8 million Europeans, which is about 7 per cent. [CONTESTED] {{gha-vii-ch17}} The TRC gives about 7 per cent in 1913, so take 12 per cent as a slip or a later-figure blend. {{trc-vol1}} Boahen's final chapter gives 89 per cent for whites, which conflicts with both; use neither figure without the TRC. Kaniki adds that a white miner earned eleven times an African miner in 1935, that mines employed 163,000 in 1906 including 51,000 indentured Chinese, and that the Civilised Labour Policy dates from 1924 and the Urban Areas Act from 1923. {{gha-vii-ch17}}"
+     "t": "check",
+     "q": "The National Party won in 1948 with under 40 per cent of the votes. How?",
+     "o": [
+      "It did not",
+      "First-past-the-post and rural over-representation turned a minority of votes into a majority of seats",
+      "Africans voted for it",
+      "The election was cancelled"
+     ],
+     "a": 1,
+     "w": "The electoral system shaped the result. {{w-origins}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which was a law of the apartheid system?",
+     "q": "A source says apartheid was a fixed plan from 1948. What evidence supports, and what complicates, that reading?",
      "o": [
-      "The Group Areas Act",
-      "The Defiance Campaign",
-      "The Treason Trial",
-      "Sharpeville"
+      "Nothing complicates it",
+      "The Sauer report's proposals were nearly all enacted, but a minister admitted in 1948 the method was still to be worked out",
+      "No laws were passed",
+      "It was a single law"
      ],
-     "a": 0,
-     "w": "It separated where people could live. {{lib}}"
-    },
-    {
-     "t": "check",
-     "q": "A student says apartheid's land policy began in 1948. Which earlier law undermines that, and what did it do?",
-     "o": [
-      "It confined most Africans to a small share of land",
-      "It ended segregation",
-      "It created the ANC",
-      "It abolished pass laws"
-     ],
-     "a": 0,
-     "w": "That is the lesson's point. {{lib}}",
+     "a": 1,
+     "w": "Both readings have evidence. {{w-apartheid}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Apartheid was a system of many laws. {{lib}}",
-      "It built on the Union of 1910 and the Land Act of 1913.",
-      "Keep laws and events apart in your notes."
+      "The NP won seats, not votes, in 1948. {{w-origins}}",
+      "Apartheid was a system of many laws, enacted over a decade. {{w-apartheid}}",
+      "Its own projections showed it could not work."
      ]
     }
-   ]
+   ],
+   "id": "l2"
   },
   {
-   "id": "l2",
    "title": "Resistance: from the Defiance Campaign to Soweto",
-   "min": 28,
+   "min": 34,
    "blocks": [
     {
+     "t": "h",
+     "x": "The long campaign"
+    },
+    {
      "t": "p",
-     "x": "The Defiance Campaign (1952), the Freedom Charter (1955) and the Treason Trial (1956 to 1961) marked early mass resistance. {{lib}}"
+     "x": "The Programme of Action adopted in 12/1949 called for boycott, strikes and civil disobedience. {{w-black}} The Defiance Campaign began on 26/06/1952, with 8,500 volunteers arrested. {{w-opp}}"
+    },
+    {
+     "t": "p",
+     "x": "The Freedom Charter was adopted at Kliptown in 06/1955 by nearly 3,000 delegates, though how far it reflected popular submissions is disputed. In the Treason Trial 156 people were arrested in 12/1956, and the last 30 were acquitted in 03/1961. {{w-opp}}"
+    },
+    {
+     "t": "p",
+     "x": "Resistance was never one movement. The Africanist breakaway of 1958 led to the PAC in 1959, which opposed the Charter's claim that South Africa belongs to all who live in it. {{w-opp}}"
     },
     {
      "t": "h",
@@ -254,480 +365,81 @@
     },
     {
      "t": "p",
-     "x": "The Pan Africanist Congress called a protest against pass laws. Police opened fire on a crowd, and Welsh reports that 52 of the dead were allegedly shot in the back. The government banned the ANC and PAC. Umkhonto we Sizwe was formed in 11/1961, on Mandela's own account, and announced itself with attacks on government buildings in Johannesburg, Port Elizabeth and Durban and a Manifesto on 16/12/1961. {{mandela-dock}} {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "Welsh gives the official 69 dead, a crowd of 3,000 to 25,000, about 200 police in the station and firing for some 20 seconds. A state of emergency followed on 30/03/1960, with 11,503 detained by August, and the ANC and PAC were banned from 01/04/1960. Welsh does not give the later revision of the toll. {{w-opp}}"
-    },
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "The TRC's national overview disagrees with Welsh on the emergency of 1960. It says the government detained over 1,600 people. {{trc-vol2}} Welsh gives 11,503 by 08/1960. {{w-opp}} Neither gives a method, so say that the numbers differ by a factor of about seven (our arithmetic) and mark the figure [CONTESTED] until a third source settles it."
-    },
-    {
-     "t": "p",
-     "x": "The same chapter gives other dated points for 1960 to 1990. The Pondoland rising at Ngquza Hill in 06/1960 left at least 11 dead; MK formally declared war on 16/12/1961, and the PAC's Poqo was set up in 09/1961. MK's Church Street car bomb of 05/1983 killed 19 and injured 217, the UDF was formed in 1983 from over 500 organisations, and the state of emergency ran from 06/1986 to mid-1990. It counts over 600 dead at Kassinga in 1978. It also says most victims of the southern African conflict lived outside South Africa. In the 1990s, it adds, more killings came from people not bound to any political authority, which makes responsibility hard to assign. {{trc-vol2}}"
-    },
-    {
-     "t": "h",
-     "x": "The 1940s roots and the long campaign"
-    },
-    {
-     "t": "p",
-     "x": "The ANC Youth League formed in 1944 under Mandela, Tambo, Sisulu and Lembede, who named the Ja-Baas mentality of psychological enslavement. About 60,000 African miners struck in 1946 and were crushed. The Programme of Action adopted in 12/1949 called for boycott, strikes and civil disobedience. {{w-black}} {{w-opp}}"
-    },
-    {
-     "t": "p",
-     "x": "The Defiance Campaign began on 26/06/1952, with 8,500 volunteers arrested. The Freedom Charter was adopted at Kliptown in 06/1955 by nearly 3,000 delegates, though how far it reflected popular submissions is disputed. In the Treason Trial 156 people were arrested in 12/1956, and the last 30 were acquitted in 03/1961. {{w-opp}}"
-    },
-    {
-     "t": "p",
-     "x": "Resistance was never one movement. The Africanist breakaway of 1958 led to the PAC in 1959 and opposed the Charter's claim that South Africa belongs to all who live in it. Riots in Durban in 01/1949 killed 142 people, 87 African and 50 Indian. {{w-opp}}"
+     "x": "The Pan Africanist Congress called a protest against pass laws. Police opened fire on a crowd of 3,000 to 25,000, with about 200 police in the station and firing for some 20 seconds; 52 of the dead were allegedly shot in the back. {{w-opp}}"
     },
     {
      "t": "table",
-     "title": "Sharpeville: two sets of figures",
+     "title": "Sharpeville: three sets of figures",
      "head": [
-      "Item",
-      "Apartheid-era police record (as in the library)",
-      "Newer research (encyclopaedia page we opened)"
+      "Source",
+      "Killed",
+      "Wounded"
      ],
      "rows": [
       [
-       "Killed",
+       "Apartheid-era police record",
        "69",
-       "At least 91"
+       "180 {{lib}}"
       ],
       [
-       "Wounded",
-       "180",
-       "At least 238"
+       "UNESCO volume VIII (1993)",
+       "72",
+       "186 {{gha-viii-ch10}}"
       ],
       [
-       "Total victims",
-       "249, including 29 children",
-       "329 or more"
+       "Later research",
+       "At least 91",
+       "At least 238 {{wiki-sharpeville}}"
       ]
      ],
-     "src": "{{lib}} {{wiki-sharpeville}}"
-    },
-    {
-     "t": "callout",
-     "k": "note",
-     "x": "The library tags 69 as FIRM because it is the official figure. The page we opened says newer research shows at least 91 were killed, and the TRC found in 1998 that the shooting involved a degree of deliberation. Say: 'the official toll is 69, but later research puts it at least 91'. {{lib}} {{wiki-sharpeville}}"
+     "src": "{{lib}} {{gha-viii-ch10}} {{wiki-sharpeville}}"
     },
     {
      "t": "example",
      "title": "Worked example: reading an official figure (our arithmetic)",
      "steps": [
-      "Police record: 69 killed plus 180 wounded is 249 victims, which matches the 249 reported.",
-      "Newer research: 91 killed plus 238 wounded is 329.",
-      "The difference is 22 more killed and 58 more wounded, so the official count missed about a quarter of the dead on the newer figure (22 divided by 91 is about 24 per cent).",
-      "The lesson: an official figure is a record made by someone with an interest, not a perfect measure. {{wiki-sharpeville}}"
+      "Police record: 69 killed plus 180 wounded is 249 victims.",
+      "Later research: 91 killed plus 238 wounded is 329.",
+      "The difference is 22 more killed, so the official count missed about a quarter of the dead on the newer figure (22 divided by 91 is about 24 per cent).",
+      "An official figure is a record made by someone with an interest, not a perfect measure. {{wiki-sharpeville}}"
      ]
     },
     {
-     "t": "h",
-     "x": "Rivonia, Biko and Soweto"
+     "t": "p",
+     "x": "The TRC found in 1998 that the evidence showed a degree of deliberation in the decision to open fire, more than frightened officers losing their nerve. {{wiki-sharpeville}}"
     },
     {
      "t": "p",
-     "x": "Mandela was arrested on 05/08/1962 after 17 months underground. The Rivonia trial opened in 10/1963 and, after 86 days, eight of ten accused were convicted and given life, Bernstein was acquitted and Hepple's charges were withdrawn. The judge declined the death penalty because the charge was sabotage, not treason. {{w-opp}} In his statement from the dock on 20/04/1964 Mandela said he was prepared to die for a democratic ideal. They were sentenced to life on 12/06/1964. {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "Steve Biko's Black Consciousness Movement, from the late 1960s, urged psychological liberation. SASO formed in 1969 after black students left the multiracial student union, and Black Consciousness defined 'black' as anyone legally discriminated against, so Coloured and Indian students were included. Mandela and the Communist Party criticised it as lacking class analysis. Eight SASO leaders including Biko were banned in 07/1973. {{w-soweto}} He died in police custody on 12/09/1977. {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "On 16/06/1976 Soweto schoolchildren protested the compulsion to use Afrikaans in teaching. Police shot into the march, and Hector Pieterson, aged 12 or 13 (sources differ), became its symbol. {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "Welsh gives the Cillie Commission's official figure as 575 people killed countrywide from 16/06/1976 to 28/02/1977, with another 111 in 1977; he notes that many Sowetans believe the true number is much higher, though no authoritative higher figure was produced. Fifteen people died on 16/06/1976 itself [ESTIMATE, CONTESTED]. Figures of 176 and about 700 seen elsewhere could not be traced in Welsh, so do not repeat them without a source. {{w-soweto}} {{w-concl}} {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "The UNESCO General History, volume VIII, written by Chanaiwa in 1993, gives Sharpeville as 72 killed and 186 wounded, including 40 women and eight children, among a crowd of 10,000 to 20,000, which is a third set of numbers beside the official count and later revisions. For Soweto it says that police killed 23 people and wounded 200, a figure that looks like an early count and is far below later totals. It also mislabels two points: it says the Group Areas Act classified all South Africans by race, which was the Population Registration Act, and it writes 'Pan African Congress' for the Pan Africanist Congress. Use the chapter for sequence and context, not for single figures. {{gha-viii-ch10}}"
-    },
-    {
-     "t": "p",
-     "x": "The causes can be counted. Countrywide, African secondary pupils rose from 178,959 in 1974 to 389,046 in 1976, and 257,505 pupils enrolled in Form 1 in 1976 against Soweto capacity of 38,000. Teacher to pupil ratios were 1:20 for whites and 1:54 for Africans in 1975, and per-capita spending was 605 rand against 39.53 rand. The Afrikaans rule was only the fuse. The government withdrew it on 06/07/1976. {{w-soweto}}"
-    },
-    {
-     "t": "h",
-     "x": "Protest before 1948 (volume VII)"
-    },
-    {
-     "t": "p",
-     "x": "The anti-dipping campaign (1913 to 1917), the 1918 bucket strike (152 jailed) and the 1920 strike of 71,000 African miners come before the Defiance Campaign. The Industrial and Commercial Workers' Union began in 01/1919 in Cape Town and had 30,000 members in 1924 and 100,000 in 1927 (Kadalie claimed 250,000 [ESTIMATE]). The Communist Party began in 1921, and the ANC took its present name in 1925 with Nkosi Sikelel' iAfrika and a black, green and gold flag. In Mozambique, independent churches grew from 76 in 1918 to more than 380 twenty years later. Bondelswarts (05/1922): about 100 killed and over 150 jailed, with aircraft used. {{gha-vii-ch27}}"
-    },
-    {
-     "t": "check",
-     "q": "A pamphlet gives Sharpeville as '69 dead'. Why should you add 'at least 91 later'?",
-     "o": [
-      "The figures come from different counts: the police record and later research",
-      "Nobody died",
-      "The date changed",
-      "Mandela counted them"
-     ],
-     "a": 0,
-     "w": "The apartheid-era record undercounted. {{wiki-sharpeville}}",
-     "kind": "application"
-    },
-    {
-     "t": "check",
-     "q": "You are writing a caption for a photograph of the 16 June 1976 march. What were the students protesting?",
-     "o": [
-      "A protest against compulsory Afrikaans in teaching",
-      "A trade fair",
-      "The Rivonia verdict",
-      "The 1994 election"
-     ],
-     "a": 0,
-     "w": "Schoolchildren marched on 16/06/1976. {{lib}}",
-     "kind": "application"
-    },
-    {
-     "t": "take",
-     "i": [
-      "Sharpeville: 69 official; at least 91 in later research. {{lib}} {{wiki-sharpeville}}",
-      "Soweto: 575 official countrywide to 02/1977, probably an undercount [ESTIMATE, CONTESTED].",
-      "Rivonia sentences were handed down on 12/06/1964."
-     ]
-    }
-   ]
-  },
-  {
-   "id": "l3",
-   "title": "The 1980s, negotiation and 1994",
-   "min": 28,
-   "blocks": [
-    {
-     "t": "p",
-     "x": "In the 1980s the United Democratic Front (1983) and trade unions (COSATU, 1985) mobilised. The Tricameral Parliament, approved by white voters on 02/11/1983, gave whites 178 seats, Coloured people 80 and Indians 40, and excluded Africans. Welsh argues that this exclusion provoked, more than any other single factor, the forces that brought apartheid down. A partial state of emergency began in 07/1985 and a nationwide one on 12/06/1986, lasting until 1990. {{w-80s}} {{w-resist}} {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "The costs were heavy on all sides. Welsh counts over 21,500 political deaths between 09/1984 and 1994, roughly 3,000 by security forces and about 18,500 in conflict inside black communities, mostly in Natal [ESTIMATE]. The Inkatha and ANC or UDF conflict killed over 10,700 people in KwaZulu-Natal between 1976 and 1994. Necklace killings numbered nearly 400 [ESTIMATE]. {{w-resist}}"
-    },
-    {
-     "t": "p",
-     "x": "The US Congress passed sanctions over Reagan's veto in 1986. Economic isolation, capital flight and war in Angola and Namibia increased pressure. {{lib}}"
-    },
-    {
-     "t": "h",
-     "x": "Negotiation"
-    },
-    {
-     "t": "p",
-     "x": "F. W. de Klerk became National Party leader on 02/02/1989 and State President after Botha's forced resignation on 14/08/1989. On 02/02/1990 he unbanned the ANC, PAC and Communist Party, lifted emergency restrictions on 33 organisations including the UDF and Cosatu, and announced Mandela's release, which took place on 11/02/1990. {{w-80s}} {{w-pandora}} {{w-table}} {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "CODESA opened on 20/12/1991 with 19 parties and collapsed over voting majorities in 05/1992; a multiparty process followed in 1993. A white referendum on 17/03/1992 gave de Klerk a mandate with 68.7 per cent. Talks were interrupted by violence, such as the Boipatong massacre in 06/1992 and the assassination of Chris Hani on 10/04/1993. The interim constitution was adopted on 18/11/1993. Deaths in political violence ran at roughly 2,500 to 2,700 in 1991 and 3,700 to 3,800 in 1993 [ESTIMATE]; Welsh's two passages differ slightly, so this is our estimate of the range. {{w-pandora}} {{w-interim}} {{w-table}} {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "The transition nearly failed on both flanks. General Constand Viljoen chose to contest the election instead of leading a revolt, the Inkatha Freedom Party agreed to take part only on 19/04/1994, eight days before the vote, and car bombs by the far right killed 21 in the final week. {{w-interim}}"
-    },
-    {
-     "t": "h",
-     "x": "1994 and after"
-    },
-    {
-     "t": "p",
-     "x": "The first all-race elections were held in April 1994, with the main voting day on 27/04/1994. The ANC won about 62.65 per cent. Mandela was inaugurated on 10/05/1994 [FIRM]. {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "The Truth and Reconciliation Commission (1996 to 1998, chaired by Desmond Tutu, final volumes in 2003) took testimony in exchange for amnesty. It is not a court. {{lib}}"
-    },
-    {
-     "t": "table",
-     "title": "What the TRC's findings volume says (1998)",
-     "head": [
-      "Actor",
-      "Finding"
-     ],
-     "rows": [
-      [
-       "The former state",
-       "Predominant portion of gross violations; from 1978 it planned and covered up extra-judicial killings; apartheid a crime against humanity"
-      ],
-      [
-       "State Security Council",
-       "Its words 'eliminate' and 'wipe out' were foreseen to mean killing by the president, defence and law-and-order ministers and security chiefs"
-      ],
-      [
-       "Inkatha Freedom Party",
-       "Primary non-state perpetrator, over one third of all reported violations, in collusion with the state"
-      ],
-      [
-       "ANC and MK",
-       "Gross violations (landmines, Church Street, exile-camp torture and executions, self-defence units), but not a policy of targeting civilians"
-      ],
-      [
-       "PAC, Poqo and APLA",
-       "Deliberately targeted civilians, including white farmers"
-      ],
-      [
-       "UDF",
-       "Language and 'necklacing' created a climate for violations"
-      ],
-      [
-       "Civil society",
-       "Media, judiciary, churches, business and health found complicit mainly by omission"
-      ]
-     ],
-     "src": "{{trc-vol5}}"
-    },
-    {
-     "t": "p",
-     "x": "The Commission says it used a balance of probabilities, that its conclusions are findings and not verdicts, and that no major role-player emerges unscathed. It also says responsibility was not equal, because the state was held to a higher standard than voluntary groups and the preponderance rested with the state and its allies. It lists its own gaps, among them the 1990s violence, Venda, Lebowa and Bophuthatswana, and civil society beyond the sectors it heard. The Commission adds that most of the region's gross violations fell on neighbouring states, so its South African focus is something of a distortion. {{trc-vol5}}"
-    },
-    {
-     "t": "p",
-     "x": "Inequality remains among the highest in the world [check current]. The TRC is praised for exposing truth and criticised for limited reparations. {{lib}}"
-    },
-    {
-     "t": "example",
-     "title": "Worked example: how long did Mandela's imprisonment last? (our arithmetic)",
-     "steps": [
-      "From the sentence on 12/06/1964 to release on 11/02/1990 is 25 years and 8 months.",
-      "The commonly quoted figure is 27 years. It counts from his arrest on 05/08/1962, which Welsh gives, so the span to 11/02/1990 is 27 years and 6 months (our arithmetic). {{w-opp}}",
-      "Always ask what a duration counts from.",
-      "A careful sentence: Mandela was released on 11/02/1990 after 27 years in custody, counted from his arrest. {{lib}}"
-     ]
-    },
-    {
-     "t": "check",
-     "q": "Put in order: Sharpeville, Rivonia verdict, Soweto, release of Mandela, first all-race election.",
-     "o": [
-      "1960, 1964, 1976, 1990, 1994",
-      "1964, 1960, 1990, 1976, 1994",
-      "1976, 1960, 1964, 1994, 1990",
-      "1990, 1994, 1960, 1964, 1976"
-     ],
-     "a": 0,
-     "w": "That is the order in the library. {{lib}}"
-    },
-    {
-     "t": "check",
-     "q": "A student calls the Truth and Reconciliation Commission 'a court that punished apartheid's crimes'. What should you correct?",
-     "o": [
-      "It was a court",
-      "It offered amnesty in exchange for truth and was not a court",
-      "It replaced the courts",
-      "It had no powers"
-     ],
-     "a": 1,
-     "w": "That is the lesson's point. {{lib}}",
-     "kind": "application"
-    },
-    {
-     "t": "take",
-     "i": [
-      "De Klerk legalised the ANC on 02/02/1990; Mandela was freed on 11/02/1990. {{lib}}",
-      "The ANC won about 62.65 per cent on 27/04/1994 [FIRM].",
-      "The TRC traded amnesty for testimony and was not a court."
-     ]
-    }
-   ]
-  },
-  {
-   "id": "l4",
-   "title": "Why did apartheid end? Weighing causes",
-   "min": 30,
-   "blocks": [
-    {
-     "t": "p",
-     "x": "Historians offer several explanations for the end of apartheid, and most scholars see a combination [CONTESTED]. {{lib}}"
-    },
-    {
-     "t": "table",
-     "title": "Four explanations and their evidence",
-     "head": [
-      "Cause",
-      "Evidence",
-      "Weakness"
-     ],
-     "rows": [
-      [
-       "Internal resistance and mass mobilisation",
-       "UDF and COSATU; unrest from 1976",
-       "Repression held the state together for years"
-      ],
-      [
-       "Economic pressure and sanctions",
-       "US sanctions of 1986; the debt standstill begun by Chase Manhattan in 07/1985; capital flight; cost of defence",
-       "Sanctions' effect is hard to isolate"
-      ],
-      [
-       "The end of the Cold War",
-       "The 'communist threat' justification weakened in 1989",
-       "Talks began before the Cold War's end"
-      ],
-      [
-       "Elite negotiation",
-       "CODESA; the 1993 interim constitution",
-       "Critics argue economic power stayed with the old elite"
-      ]
-     ],
-     "src": "{{lib}}"
-    },
-    {
-     "t": "table",
-     "title": "Two more causes from Welsh",
-     "head": [
-      "Cause",
-      "Evidence",
-      "Weakness"
-     ],
-     "rows": [
-      [
-       "Erosion of Afrikaner resolve",
-       "Afrikaners in white-collar work rose from 27.5 per cent (1936) to 66.2 per cent (1991); the Information Scandal of 1978; Botha's 1982 purge of the right; the Broederbond's 1986 paper abandoned entrenched white rule; church and press turned",
-       "Welsh calls it one factor, not the sole one [CONTESTED]"
-      ],
-      [
-       "Stalemate recognised by both sides",
-       "MK was in military terms little more than an irritant, and the state held throughout the emergency, yet by 1989 neither side could win",
-       "Describes why talks began, not why each side blinked"
-      ]
-     ],
-     "src": "{{w-afrik}} {{w-resist}} {{w-concl}}"
-    },
-    {
-     "t": "p",
-     "x": "On sanctions Welsh agrees that their effect is hard to isolate. GDP growth fell from 5.5 per cent a year in the 1960s to 3.25 in the 1970s and 2.24 in the 1980s, but he judges the debt standstill of 07/1985 far more significant than any sanction, and the oil embargo was largely circumvented. De Klerk said sanctions did more to delay change than advance it, a claim set against Anthony Sampson's view that pressure brought apartheid down [CONTESTED]. {{w-80s}}"
-    },
-    {
-     "t": "table",
-     "title": "Welsh against Reader on why apartheid ended",
-     "head": [
-      "Reader",
-      "Welsh"
-     ],
-     "rows": [
-      [
-       "The system became unaffordable and demographically unsustainable: the population tripled from 12.671 million in 1951 to 38.9 million in 1991, and nothing ideological was involved in giving up power",
-       "No single cause: the leaders of the ANC and the National Party recognised that neither could win, a deadlock produced by black mobilisation, white erosion and isolation, with leadership the indispensable complement"
-      ]
-     ],
-     "src": "{{rd-endsa}} {{w-concl}}"
-    },
-    {
-     "t": "p",
-     "x": "Welsh's own ranking is: stalemate recognised by leaders, mass mobilisation and unions, economic and demographic pressure, Afrikaner erosion, with sanctions and the end of the Cold War as facilitating factors [CONTESTED]. Reader also says Mandela was gaoled for treason in 1964. That is wrong: the 1964 verdict was for sabotage. {{w-concl}} {{rd-endsa}}"
-    },
-    {
-     "t": "p",
-     "x": "Welsh also names contradictions inside the system. The Tomlinson Commission of 1955 projected about 21.36 million Africans and 4.58 million whites by the year 2000, and found that even with the reserves holding most Africans, some 6.5 million would stay in white areas. Verwoerd rejected its main proposals. Africans were 69 per cent of the labour force in 1970, and white skill shortages followed. {{w-apartheid}}"
-    },
-    {
-     "t": "p",
-     "x": "The Durban strikes of 1973 involved more than 60,000 African workers (Welsh gives over 67,000 in one chapter and over 61,000 in another), and led to the Wiehahn Commission and recognition of African unions by 1979. Welsh doubts the claim that apartheid was simply functional for capitalism. {{w-apartheid}} {{w-resist}}"
-    },
-    {
-     "t": "example",
-     "title": "Worked example: ranking causes (our application)",
-     "steps": [
-      "Choose an order and say what would change it.",
-      "Mass resistance made the system hard to govern. Economic pressure made it costly. The Cold War's end removed a justification. Negotiation turned these into a settlement.",
-      "One possible ranking: resistance and economic pressure first, because they forced talks; negotiation next, because it set the terms; the Cold War's end last as a facilitating factor. This is a defensible choice, not the only one.",
-      "State the uncertainty: no single cause is proven decisive. {{lib}}"
-     ]
-    },
-    {
-     "t": "activity",
-     "x": "Rank the four causes in 200 words and cite two pieces of evidence."
+     "x": "A state of emergency followed on 30/03/1960, and the ANC and PAC were banned from 01/04/1960. {{w-opp}}"
     },
     {
      "t": "callout",
      "k": "warn",
-     "x": "Do not credit one person. De Klerk and Mandela were central to the negotiation, but the library lists crediting a single person as a common mistake. {{lib}}"
+     "x": "Detention figures for the 1960 emergency differ: over 1,600 in the TRC's overview, {{trc-vol2}} 11,503 by August in Welsh. {{w-opp}} Neither gives a method, and they differ by a factor of about seven (our arithmetic), so mark the figure [CONTESTED]."
     },
     {
-     "t": "check",
-     "q": "An exam answer says apartheid ended because De Klerk changed his mind. What is the best answer?",
-     "o": [
-      "De Klerk decided alone",
-      "A combination of resistance, economic pressure, the Cold War's end and negotiation",
-      "Sanctions only",
-      "It never ended"
-     ],
-     "a": 1,
-     "w": "Most scholars see a combination [CONTESTED]. {{lib}}",
-     "kind": "application"
-    },
-    {
-     "t": "check",
-     "q": "A critic says South Africa got political change but not economic change in 1994. Which argument are they making?",
-     "o": [
-      "Negotiation left economic power with the old elite",
-      "The ANC lost the election",
-      "Sanctions were never imposed",
-      "The TRC was a court"
-     ],
-     "a": 0,
-     "w": "It is one of the four explanations. {{lib}}",
-     "kind": "application"
-    },
-    {
-     "t": "take",
-     "i": [
-      "Four causes: resistance, economy and sanctions, the Cold War's end, negotiation. {{lib}}",
-      "Rank them with evidence and state uncertainty.",
-      "Do not credit one person alone."
-     ]
-    }
-   ]
-  },
-  {
-   "id": "l5",
-   "title": "Reading apartheid sources: statements, testimony and commissions",
-   "min": 26,
-   "blocks": [
-    {
-     "t": "p",
-     "x": "Apartheid left statements from the dock, a movement's writings and a truth commission. Each answers a different question. {{lib}}"
-    },
-    {
-     "t": "table",
-     "title": "Three kinds of source on apartheid",
-     "head": [
-      "Source",
-      "Who made it",
-      "Purpose",
-      "Limit"
-     ],
-     "rows": [
-      [
-       "Mandela's statement from the dock (20/04/1964)",
-       "A defendant at the Rivonia trial",
-       "To state a political case in court",
-       "A prepared statement by one party"
-      ],
-      [
-       "Biko, I Write What I Like",
-       "A movement leader",
-       "To argue for psychological liberation",
-       "A position, not a neutral account"
-      ],
-      [
-       "Truth and Reconciliation Commission report",
-       "A statutory commission",
-       "To take testimony in exchange for amnesty",
-       "Not a court; limited reparations"
-      ]
-     ],
-     "src": "{{lib}}"
+     "t": "h",
+     "x": "Armed struggle and Rivonia"
     },
     {
      "t": "p",
-     "x": "Read the statement itself. Mandela says he planned sabotage after a calm assessment, that Umkhonto chose sabotage over guerrilla war, terrorism or open revolution, and that the ANC stayed non-violent and only agreed not to discipline members who joined 'properly controlled violence'. He denies the ANC is communist, says he never joined the Communist Party, and that the Freedom Charter is not a blueprint for a socialist state, though it nationalises mines, banks and monopoly industry. He quotes Sharpeville's 69 dead. {{mandela-dock}}"
+     "x": "Umkhonto we Sizwe was formed in 11/1961, on Mandela's own account, and announced itself with attacks on government buildings in Johannesburg, Port Elizabeth and Durban and a Manifesto on 16/12/1961. {{mandela-dock}} The PAC's Poqo was set up in 09/1961. {{trc-vol2}}"
+    },
+    {
+     "t": "p",
+     "x": "Mandela was arrested on 05/08/1962 after 17 months underground. After 86 days of trial at Rivonia, eight of ten accused were convicted and given life; the judge declined the death penalty because the charge was sabotage, not treason. {{w-opp}} They were sentenced on 12/06/1964. {{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "Reading the statement from the dock"
+    },
+    {
+     "t": "p",
+     "x": "In his statement of 20/04/1964 Mandela says he planned sabotage after a calm assessment, that Umkhonto chose sabotage over guerrilla war, terrorism or open revolution, and that he was prepared to die for a democratic ideal. {{mandela-dock}} {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "He denies the ANC is communist and says the Freedom Charter is not a blueprint for a socialist state, though it nationalises mines, banks and monopoly industry. {{mandela-dock}}"
     },
     {
      "t": "table",
@@ -748,17 +460,122 @@
       [
        "Johannesburg poverty datum line",
        "42.84 rand a month against an average wage of 32.24; 46 per cent of African families below it"
-      ],
-      [
-       "New tuberculosis cases, 1961",
-       "58,491"
       ]
      ],
      "src": "{{mandela-dock}}"
     },
     {
+     "t": "p",
+     "x": "Read it as what it is: a prepared statement by one party to a trial, stating a political case in court (our reading). Its figures are his, quoted for argument."
+    },
+    {
+     "t": "h",
+     "x": "Black Consciousness"
+    },
+    {
+     "t": "p",
+     "x": "SASO formed in 1969 after black students left the multiracial student union. Black Consciousness defined 'black' as anyone legally discriminated against, so Coloured and Indian students were included. Mandela and the Communist Party criticised it as lacking class analysis. {{w-soweto}}"
+    },
+    {
+     "t": "p",
+     "x": "Eight SASO leaders including Steve Biko were banned in 07/1973. {{w-soweto}} Biko died in police custody on 12/09/1977. {{wiki-biko}}"
+    },
+    {
+     "t": "h",
+     "x": "Soweto, 1976"
+    },
+    {
+     "t": "p",
+     "x": "On 16/06/1976 Soweto schoolchildren protested the compulsion to use Afrikaans in teaching. Police shot into the march, and Hector Pieterson, aged 12 or 13 (sources differ), became its symbol. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "The causes can be counted. African secondary pupils rose from 178,959 in 1974 to 389,046 in 1976, and 257,505 pupils enrolled in Form 1 in 1976 against Soweto capacity of 38,000. Per-capita spending was 605 rand for white pupils against 39.53 rand for African. The Afrikaans rule was only the fuse, and it was withdrawn on 06/07/1976. {{w-soweto}}"
+    },
+    {
+     "t": "p",
+     "x": "The Cillie Commission's official figure is 575 people killed countrywide from 16/06/1976 to 28/02/1977. Many Sowetans believe the true number is much higher, though no authoritative higher figure was produced. {{w-soweto}} [ESTIMATE, CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "An early count of 23 killed, printed in one UNESCO chapter, is far below the later totals, so use that chapter for sequence and context, not for single figures. {{gha-viii-ch10}}"
+    },
+    {
+     "t": "check",
+     "q": "A pamphlet gives Sharpeville as '69 dead'. What should you add?",
+     "o": [
+      "Nothing",
+      "That 69 is the police record, and later research puts it at least 91",
+      "That nobody died",
+      "That Mandela counted them"
+     ],
+     "a": 1,
+     "w": "The apartheid-era record undercounted. {{wiki-sharpeville}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "You are writing a caption for a photograph of the 16 June 1976 march. Which caption fits the evidence?",
+     "o": [
+      "Students protest a trade fair",
+      "Students protest compulsory Afrikaans in teaching, in schools far over capacity",
+      "Workers protest wages",
+      "Students celebrate independence"
+     ],
+     "a": 1,
+     "w": "The language rule was the fuse; overcrowding and underfunding were the charge. {{w-soweto}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Sharpeville: 69 official; at least 91 in later research. {{wiki-sharpeville}}",
+      "Mandela's dock statement is a political case made in court. {{mandela-dock}}",
+      "Soweto: 575 official countrywide to 02/1977, probably an undercount [ESTIMATE, CONTESTED]."
+     ]
+    }
+   ],
+   "id": "l3"
+  },
+  {
+   "title": "The 1980s, negotiation and 1994",
+   "min": 32,
+   "blocks": [
+    {
+     "t": "h",
+     "x": "Unions and the ungovernable 1980s"
+    },
+    {
+     "t": "p",
+     "x": "The Durban strikes of 1973 involved more than 60,000 African workers and led to the Wiehahn Commission and recognition of African unions by 1979. {{w-apartheid}} {{w-resist}}"
+    },
+    {
+     "t": "p",
+     "x": "The Tricameral Parliament, approved by white voters on 02/11/1983, gave whites 178 seats, Coloured people 80 and Indians 40, and excluded Africans. That exclusion provoked, more than any other single factor, the forces that brought apartheid down. {{w-80s}}"
+    },
+    {
+     "t": "p",
+     "x": "The UDF was formed in 1983 from over 500 organisations. {{trc-vol2}} COSATU followed in 1985. {{lib}} A nationwide state of emergency ran from 12/06/1986 to 1990. {{w-80s}} {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Over 21,500 people died in political violence between 09/1984 and 1994, roughly 3,000 at the hands of security forces and about 18,500 in conflict inside black communities, mostly in Natal [ESTIMATE]. {{w-resist}}"
+    },
+    {
+     "t": "p",
+     "x": "Most victims of the southern African conflict lived outside South Africa: over 600 died at Kassinga in 1978. {{trc-vol2}}"
+    },
+    {
+     "t": "p",
+     "x": "The US Congress passed sanctions over Reagan's veto in 1986. Economic isolation, capital flight and war in Angola and Namibia increased pressure. {{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "Towards talks"
+    },
+    {
      "t": "table",
-     "title": "Two more primary documents of 1989",
+     "title": "Two documents of 1989",
      "head": [
       "Document",
       "What it is",
@@ -768,71 +585,260 @@
       [
        "Mandela's memorandum to Botha, 03/1989, handed over on 05/07/1989",
        "A prisoner's offer to talk",
-       "Welsh calls it one of the seminal documents"
+       "One of the seminal documents of the transition"
       ],
       [
        "ANC Harare Declaration, 21/08/1989",
        "Preconditions for talks released through the OAU",
-       "Shows the ANC's terms: release of prisoners, unbanning, an end to the emergency"
+       "The ANC's terms: release of prisoners, unbanning, an end to the emergency"
       ]
      ],
      "src": "{{w-groping}}"
     },
     {
      "t": "p",
-     "x": "The TRC is also a source with a perspective. Welsh notes that none of its 15 commissioners in 1998 came from National Party or IFP backgrounds, and that de Klerk obtained a court order removing a finding about him from the report in 1998. Welsh thinks it underplayed the UDF's ungovernability campaign. Present both views and label them as Welsh's assessment. {{w-pandora}} {{w-resist}}"
+     "x": "F. W. de Klerk became State President after Botha's forced resignation on 14/08/1989. On 02/02/1990 he unbanned the ANC, PAC and Communist Party and announced Mandela's release, which took place on 11/02/1990. {{w-80s}} {{w-pandora}} {{lib}}"
     },
     {
      "t": "p",
-     "x": "Two checks against the TRC's own volume 5. It lists 15 commissioners, with Wynand Malan's name starred as 'subject to minority position'; this text does not say what party backgrounds they had, so the claim about National Party and IFP backgrounds rests on Welsh alone [check current]. The copy we hold prints the finding that de Klerk knew of the Khotso House bombing authorisation and was an accessory by non-disclosure, so it may be a later text than the 1998 one from which Welsh says a finding was removed; check which edition you are quoting. {{trc-vol5}}"
+     "x": "CODESA opened on 20/12/1991 with 19 parties and collapsed over voting majorities in 05/1992. A white referendum on 17/03/1992 gave de Klerk a mandate with 68.7 per cent. {{w-pandora}} {{w-interim}}"
     },
     {
      "t": "p",
-     "x": "The TRC's 1998 finding on Sharpeville, as quoted by the encyclopaedia page we opened, said that the evidence showed a degree of deliberation in the decision to open fire, and that the shooting was more than frightened officers losing their nerve. {{wiki-sharpeville}}"
+     "x": "Talks were interrupted by violence, such as the Boipatong massacre in 06/1992 and the assassination of Chris Hani on 10/04/1993. The interim constitution was adopted on 18/11/1993. {{w-interim}} {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "The Inkatha Freedom Party agreed to take part only on 19/04/1994, eight days before the vote, and car bombs by the far right killed 21 in the final week. {{w-interim}}"
+    },
+    {
+     "t": "h",
+     "x": "1994"
+    },
+    {
+     "t": "p",
+     "x": "The first all-race elections were held in April 1994, with the main voting day on 27/04/1994. The ANC won about 62.65 per cent. Mandela was inaugurated on 10/05/1994 [FIRM]. {{lib}}"
     },
     {
      "t": "example",
-     "title": "Worked example: weighing a commission's finding (our application)",
+     "title": "Worked example: how long was Mandela imprisoned? (our arithmetic)",
      "steps": [
-      "The finding contradicts the older police account of panicking officers.",
-      "It rests on testimony taken under an amnesty process, which gave people reasons to speak and reasons to shape what they said.",
-      "So treat it as strong evidence for deliberation but not as a final legal judgement, because the TRC is not a court.",
-      "A careful sentence: the TRC found evidence of deliberation, and later research puts the dead at least 91. {{wiki-sharpeville}} {{lib}}"
+      "From the sentence on 12/06/1964 to release on 11/02/1990 is 25 years and 8 months.",
+      "The commonly quoted figure is 27 years. It counts from his arrest on 05/08/1962, which gives 27 years and 6 months to his release (our arithmetic). {{w-opp}}",
+      "Always ask what a duration counts from.",
+      "A careful sentence: Mandela was released on 11/02/1990 after 27 years in custody, counted from his arrest."
      ]
     },
     {
-     "t": "check",
-     "q": "Which source was made by a party at a trial?",
-     "o": [
-      "Mandela's statement from the dock",
-      "The TRC report",
-      "The 1913 Land Act",
-      "The Freedom Charter"
+     "t": "h",
+     "x": "The Truth and Reconciliation Commission as a source"
+    },
+    {
+     "t": "p",
+     "x": "The TRC (1996 to 1998, chaired by Desmond Tutu, final volumes in 2003) took testimony in exchange for amnesty. It is not a court. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "Its mandate covered only gross violations (killing, abduction, torture and severe ill-treatment), and about 21,300 people made statements. The pass laws, removals and Bantu Education fell outside that definition, so the TRC record is a narrow slice of apartheid's harm, not a count of it. {{trc-vol1}}"
+    },
+    {
+     "t": "table",
+     "title": "What the TRC's findings volume says (1998)",
+     "head": [
+      "Actor",
+      "Finding"
      ],
-     "a": 0,
-     "w": "It was made at Rivonia. {{lib}}"
+     "rows": [
+      [
+       "The former state",
+       "Predominant portion of gross violations; from 1978 it planned and covered up extra-judicial killings; apartheid a crime against humanity"
+      ],
+      [
+       "Inkatha Freedom Party",
+       "Primary non-state perpetrator, over one third of all reported violations, in collusion with the state"
+      ],
+      [
+       "ANC and MK",
+       "Gross violations, but not a policy of targeting civilians"
+      ],
+      [
+       "PAC, Poqo and APLA",
+       "Deliberately targeted civilians"
+      ],
+      [
+       "Civil society",
+       "Media, judiciary, churches, business and health found complicit mainly by omission"
+      ]
+     ],
+     "src": "{{trc-vol5}}"
+    },
+    {
+     "t": "p",
+     "x": "The Commission used a balance of probabilities, and called its conclusions findings, not verdicts. Responsibility was not equal: the state was held to a higher standard than voluntary groups. {{trc-vol5}}"
+    },
+    {
+     "t": "p",
+     "x": "The TRC is also a source with a perspective. Welsh notes that none of its 1998 commissioners came from National Party or IFP backgrounds, that de Klerk obtained a court order removing a finding about him, and thinks it underplayed the UDF's ungovernability campaign. {{w-pandora}} {{w-resist}} The report itself lists its own gaps, among them the 1990s violence. {{trc-vol5}}"
     },
     {
      "t": "check",
-     "q": "Why is the TRC finding not a legal verdict?",
+     "q": "A student calls the TRC 'a court that punished apartheid's crimes'. What should you correct?",
      "o": [
-      "The TRC is not a court",
-      "It was secret",
-      "It is too old",
-      "It has no sources"
+      "It was a court",
+      "It offered amnesty in exchange for truth, judged on a balance of probabilities, and was not a court",
+      "It replaced the courts",
+      "It had no powers"
      ],
-     "a": 0,
-     "w": "It traded amnesty for testimony. {{lib}}"
+     "a": 1,
+     "w": "Findings, not verdicts. {{trc-vol5}} {{lib}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "Someone uses the TRC's count of victims as the total harm of apartheid. What is the flaw?",
+     "o": [
+      "None",
+      "The mandate covered only gross violations; pass laws, removals and Bantu Education fell outside it",
+      "The TRC counted everyone",
+      "The TRC was secret"
+     ],
+     "a": 1,
+     "w": "A source's mandate limits what it counts. {{trc-vol1}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Each apartheid source answers a different question. {{lib}}",
-      "A commission is not a court.",
-      "State a source's purpose before you use it."
+      "De Klerk unbanned the ANC on 02/02/1990; Mandela was freed on 11/02/1990. {{lib}}",
+      "The ANC won about 62.65 per cent on 27/04/1994 [FIRM].",
+      "The TRC is a source with a narrow mandate, not a court."
      ]
     }
-   ]
+   ],
+   "id": "l4"
+  },
+  {
+   "title": "Why did apartheid end? Weighing causes",
+   "min": 26,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Historians offer several explanations for the end of apartheid, and most see a combination [CONTESTED]. {{lib}}"
+    },
+    {
+     "t": "table",
+     "title": "Six explanations and their evidence",
+     "head": [
+      "Cause",
+      "Evidence",
+      "Weakness"
+     ],
+     "rows": [
+      [
+       "Internal resistance and mass mobilisation",
+       "UDF and COSATU; unrest from 1976 {{lib}}",
+       "Repression held the state together for years"
+      ],
+      [
+       "Economic pressure and sanctions",
+       "US sanctions of 1986; the debt standstill of 07/1985; capital flight {{lib}}",
+       "Sanctions' effect is hard to isolate"
+      ],
+      [
+       "Demography and cost",
+       "The population tripled from 12.671 million in 1951 to 38.9 million in 1991; the system became unaffordable {{rd-endsa}}",
+       "Explains pressure, not the timing"
+      ],
+      [
+       "Erosion of Afrikaner resolve",
+       "Afrikaners in white-collar work rose from 27.5 per cent (1936) to 66.2 per cent (1991); the Broederbond's 1986 paper abandoned entrenched white rule {{w-afrik}}",
+       "One factor, not the sole one [CONTESTED]"
+      ],
+      [
+       "Stalemate recognised by both sides",
+       "MK was militarily little more than an irritant and the state held, yet by 1989 neither side could win {{w-resist}} {{w-concl}}",
+       "Describes why talks began, not why each side moved"
+      ],
+      [
+       "The end of the Cold War",
+       "The 'communist threat' justification weakened in 1989 {{lib}}",
+       "Talks began before the Cold War's end"
+      ]
+     ],
+     "src": "{{lib}} {{w-afrik}} {{w-concl}} {{rd-endsa}}"
+    },
+    {
+     "t": "p",
+     "x": "On sanctions: GDP growth fell from 5.5 per cent a year in the 1960s to 3.25 in the 1970s and 2.24 in the 1980s, but the debt standstill of 07/1985 was far more significant than any sanction, and the oil embargo was largely circumvented. {{w-80s}}"
+    },
+    {
+     "t": "p",
+     "x": "De Klerk said sanctions did more to delay change than advance it, a claim set against Anthony Sampson's view that pressure brought apartheid down [CONTESTED]. {{w-80s}}"
+    },
+    {
+     "t": "p",
+     "x": "Welsh's own ranking is: stalemate recognised by leaders, mass mobilisation and unions, economic and demographic pressure, Afrikaner erosion, with sanctions and the end of the Cold War as facilitating factors [CONTESTED]. {{w-concl}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "One survey says Mandela was gaoled for treason in 1964. That is wrong: the 1964 verdict was for sabotage. {{rd-endsa}} {{w-opp}}"
+    },
+    {
+     "t": "example",
+     "title": "Worked example: ranking causes (our application)",
+     "steps": [
+      "Choose an order and say what would change it.",
+      "Mass resistance made the system hard to govern. Economic and demographic pressure made it costly. The Cold War's end removed a justification. Negotiation turned these into a settlement.",
+      "One defensible ranking: resistance and economic pressure first, because they forced talks; leaders' recognition of stalemate next; the Cold War's end last as a facilitating factor.",
+      "State the uncertainty: no single cause is proven decisive."
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Rank the causes in 200 words and cite two pieces of evidence."
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Do not credit one person. De Klerk and Mandela were central to the negotiation, but crediting a single person is a common mistake. {{lib}}"
+    },
+    {
+     "t": "check",
+     "q": "An exam answer says apartheid ended because De Klerk changed his mind. What is the best answer?",
+     "o": [
+      "De Klerk decided alone",
+      "A combination of resistance, economic and demographic pressure, recognised stalemate and the Cold War's end, turned into a settlement by negotiation",
+      "Sanctions only",
+      "It never ended"
+     ],
+     "a": 1,
+     "w": "Most scholars see a combination [CONTESTED]. {{w-concl}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "A critic says South Africa got political change but not economic change in 1994. Which argument are they making?",
+     "o": [
+      "Negotiation left economic power with the old elite",
+      "The ANC lost the election",
+      "Sanctions were never imposed",
+      "The TRC was a court"
+     ],
+     "a": 0,
+     "w": "It is one reading of the settlement. {{lib}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Several causes worked together; rank them with evidence. {{w-concl}}",
+      "The debt standstill of 1985 mattered more than sanctions, on one reading. {{w-80s}}",
+      "Do not credit one person alone."
+     ]
+    }
+   ],
+   "id": "l5"
   },
   {
    "id": "l6",

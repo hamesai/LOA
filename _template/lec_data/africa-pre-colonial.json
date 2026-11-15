@@ -18,7 +18,7 @@
     },
     {
      "t": "p",
-     "x": "Confidence in this dossier: partial. His own books were not read, so the method below is the encyclopaedic summary plus the working library's account of his advice. {{lib}}"
+     "x": "Source note: this account of his method rests on encyclopaedic summaries, not on his own books. {{lib}}"
     },
     {
      "t": "h",
@@ -73,7 +73,7 @@
     },
     {
      "t": "h",
-     "x": "Worked example: a date from a griot (our application)"
+     "x": "Worked example: a date from a griot"
     },
     {
      "t": "example",
@@ -175,16 +175,16 @@
      "i": [
       "Ask what holds the group together. For Ibn Khaldun the key word is asabiya. {{wiki-khaldun}}",
       "Ask how people cooperate. He argues that no individual can supply all his needs and that people cooperate to do so. {{wiki-khaldun}}",
-      "Ask whether the story fits that picture. A dynasty that claims divine descent but shows no organised group behind it should raise questions (our application).",
+      "Ask whether the story fits that picture. A dynasty that claims divine descent but shows no organised group behind it should raise questions.",
       "Ask who wrote it. His own career as a judge and adviser to rulers suggests that writers of history can serve patrons (our inference). {{wiki-khaldun}}"
      ]
     },
     {
      "t": "table",
-     "title": "Applying his questions to the Solomonic claim of 1270 (our application)",
+     "title": "Applying his questions to the Solomonic claim of 1270",
      "head": [
       "Question",
-      "Answer from the working library"
+      "Answer"
      ],
      "rows": [
       [
@@ -208,7 +208,7 @@
     },
     {
      "t": "h",
-     "x": "Worked example: plausibility test (our application)"
+     "x": "Worked example: plausibility test"
     },
     {
      "t": "example",
@@ -216,7 +216,7 @@
      "steps": [
       "The dynasty began in 1270 and the text was compiled in the 14th century, so it was written after the change of power.",
       "A text written after the event, by those who benefited, is better evidence of the winners' image than of the past.",
-      "Verdict: use it as evidence of legitimation, as the library does. {{lib}}"
+      "Verdict: use it as evidence of how the dynasty wanted to be seen, not as a record of 1270. {{lib}}"
      ]
     },
     {
@@ -238,15 +238,16 @@
     },
     {
      "t": "check",
-     "q": "What does asabiya mean in the Muqaddimah?",
+     "q": "A desert-edge group conquers a city, rules for three generations and loses its cohesion. Which of Ibn Khaldun's ideas is being applied?",
      "o": [
-      "Trade",
-      "Group solidarity or feeling",
-      "A city",
-      "A treaty"
+      "The baqt",
+      "Asabiya, group solidarity or feeling",
+      "Heterarchy",
+      "The tophet"
      ],
      "a": 1,
-     "w": "Wikipedia gives it as solidarity, group feeling or group consciousness. {{wiki-khaldun}}"
+     "w": "Wikipedia gives asabiya as solidarity, group feeling or group consciousness. {{wiki-khaldun}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -270,15 +271,16 @@
     }
    ],
    "quiz": {
-    "q": "Which idea is Ibn Khaldun known for introducing?",
+    "q": "An essay explains the Zagwe-to-Solomonic change as a new group with strong cohesion replacing a tired one. Whose idea is it borrowing, and what must it still show?",
     "o": [
-     "Asabiya, or group solidarity",
-     "Tophets",
-     "The baqt",
-     "Heterarchy"
+     "Ibn Khaldun's asabiya; evidence for that cohesion in 1270",
+     "Vansina's floating gap; nothing more",
+     "The baqt; a treaty",
+     "Heterarchy; a lack of kings"
     ],
     "a": 0,
-    "w": "It is his term for solidarity or group feeling. {{wiki-khaldun}}"
+    "w": "Asabiya is a lens: it frames the question, and evidence must answer it. {{wiki-khaldun}}",
+    "kind": "application"
    }
   },
   {
@@ -308,7 +310,7 @@
      "t": "ol",
      "i": [
       "Name the group. The Almoravids were a Sanhaja Berber movement led by Abd Allah ibn Yasin and Yusuf ibn Tashfin. {{lib}}",
-      "Name what united it. The library describes a preacher and commanders; asabiya is our lens, not a claim of the library. {{wiki-khaldun}}",
+      "Name what united it. The sources describe a preacher and his commanders; asabiya is a lens you bring to them, not something they state. {{wiki-khaldun}}",
       "Name the successor. The Almohads were led by Ibn Tumart and Abd al-Mu'min, who took Marrakesh in 1147. {{lib}}",
       "Ask what happened next. For the Ghana story, remember that the traditional account of an Almoravid conquest rests on thin and late sources. {{lib}}",
       "Keep the historian's career in view. His own record as an official shows how political posts shaped writing. {{wiki-khaldun}}"
@@ -316,7 +318,7 @@
     },
     {
      "t": "table",
-     "title": "Lens and limit for Maghribi dynasties (our application)",
+     "title": "Lens and limit for Maghribi dynasties",
      "head": [
       "Dynasty",
       "What the lens helps ask",
@@ -338,7 +340,7 @@
     },
     {
      "t": "h",
-     "x": "Worked example: two limits (our application)"
+     "x": "Worked example: two limits"
     },
     {
      "t": "example",
@@ -444,7 +446,7 @@
     },
     {
      "t": "table",
-     "title": "Ibn Battuta as a source on Mali (the library gives the strengths; the limits come from the encyclopaedic page)",
+     "title": "Ibn Battuta as a source on Mali: strengths and limits",
      "head": [
       "Strength",
       "Limit"
@@ -501,15 +503,16 @@
     },
     {
      "t": "check",
-     "q": "What did Ibn Battuta mistake the Niger for?",
+     "q": "Ibn Battuta writes that he travelled along 'the Nile' in Mali. How should you read that passage?",
      "o": [
-      "The Congo",
-      "The Nile",
-      "The Senegal",
-      "The Zambezi"
+      "As proof the Nile reaches Mali",
+      "As his mistake: the river was the Niger, which he took for the Nile",
+      "As a later forgery",
+      "As a reference to the Senegal"
      ],
      "a": 1,
-     "w": "Wikipedia reports that he believed it to be the Nile. {{wiki-battuta}}"
+     "w": "Wikipedia reports that he believed the Niger to be the Nile. {{wiki-battuta}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -611,8 +614,8 @@
      "t": "example",
      "title": "Which claim to trust",
      "steps": [
-      "We did not check what Johnson wrote about the Oyo Mesi, so take the institution from the library's description of Oyo and use Johnson as one voice among several (our caution).",
-      "Where a source of this kind gives exact dates for early kings, treat them as traditional until another source supports them (our caution). {{lib}}"
+      "Take the Oyo Mesi from the general account of Oyo, and treat Johnson as one voice among several.",
+      "Where a source of this kind gives exact dates for early kings, treat them as traditional until another source supports them. {{lib}}"
      ]
     },
     {
@@ -634,15 +637,16 @@
     },
     {
      "t": "check",
-     "q": "When did Johnson finish the manuscript, and when was the book published?",
+     "q": "You quote The History of the Yorubas (1921) as Samuel Johnson's words. What must you add?",
      "o": [
-      "1897 and 1921",
-      "1921 and 1897",
-      "1846 and 1901",
-      "1500 and 1600"
+      "Nothing",
+      "He finished in 1897 but the manuscript was lost; his brother Obadiah rebuilt the text from notes, so it is a joint product",
+      "It was written in 1500",
+      "It was banned"
      ],
-     "a": 0,
-     "w": "The brother reconstructed it after his death. {{bu-johnson}}"
+     "a": 1,
+     "w": "The brother reconstructed it after his death. {{bu-johnson}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -689,7 +693,7 @@
     },
     {
      "t": "p",
-     "x": "We read encyclopaedic pages in excerpt form on 30/10/2026, not his own work. Wikipedia says he arrived at Kilwa, then a transit centre of the gold trade, described it as one of the finest and most beautifully built towns, and recorded a visit in 1330 while the library gives 1331. It notes that his stated chronology for the early 1330s has problems. {{wiki-battuta}}"
+     "x": "Source note: this rests on encyclopaedic summaries, not his own text. Wikipedia says he arrived at Kilwa, then a transit centre of the gold trade, described it as one of the finest and most beautifully built towns, and recorded a visit in 1330, while other accounts give 1331. It notes that his stated chronology for the early 1330s has problems. {{wiki-battuta}}"
     },
     {
      "t": "p",
@@ -703,9 +707,9 @@
      "t": "ol",
      "i": [
       "Note the claim. He found Kilwa among the most beautifully built towns. {{wiki-battuta}}",
-      "Note the date range. His visit is c. 1330 to 1331, and the library uses 1331. {{wiki-battuta}} {{lib}}",
-      "Note what archaeology adds. The library points to coral-rag stone buildings, the palace of Husuni Kubwa and a great mosque. {{lib}}",
-      "Note a mismatch. The quoted passage says the buildings were of wood with reed roofs, while the library points to coral-rag stone buildings, so compare them with excavation (our observation). {{wiki-battuta}} {{lib}}",
+      "Note the date range. His visit is c. 1330 to 1331, and accounts differ on the year. {{wiki-battuta}} {{lib}}",
+      "Note what archaeology adds: coral-rag stone buildings, the palace of Husuni Kubwa and a great mosque. {{lib}}",
+      "Note a mismatch. The quoted passage says the buildings were of wood with reed roofs, while the surviving ruins are coral-rag stone, so compare the text with excavation. {{wiki-battuta}} {{lib}}",
       "Write the date as about 1330 to 1331."
      ]
     },
@@ -744,7 +748,7 @@
      "t": "example",
      "title": "1330 or 1331?",
      "steps": [
-      "Wikipedia says his Kilwa stay was recorded in 1330 and the library says 1331.",
+      "Wikipedia says his Kilwa stay was recorded in 1330; other accounts say 1331.",
       "Both fall within one year, and he is uncertain about his own chronology. State the range.",
       "Do not build an argument that depends on the exact year. {{wiki-battuta}} {{lib}}"
      ]
@@ -827,7 +831,7 @@
     },
     {
      "t": "p",
-     "x": "Confidence: partial. The Stuart archive was not read; the library describes it. {{lib}}"
+     "x": "Source note: this rests on descriptions of the Stuart archive, not the archive itself. {{lib}}"
     },
     {
      "t": "h",
@@ -845,7 +849,7 @@
     },
     {
      "t": "table",
-     "title": "Zulu sources compared (our grid built on the library)",
+     "title": "Zulu sources compared",
      "head": [
       "Source",
       "Recorded",
@@ -1054,15 +1058,16 @@
     },
     {
      "t": "check",
-     "q": "Is Equiano's experience typical of the enslaved?",
+     "q": "A teacher uses Equiano's life to stand for a typical enslaved person's experience. What should you point out?",
      "o": [
-      "Yes, entirely",
-      "No, he avoided field work and was taught to read and write",
+      "It is typical",
+      "His experience was unusual: he avoided field work and was taught to read and write",
       "He was never enslaved",
       "He never travelled"
      ],
      "a": 1,
-     "w": "Wikipedia says his experience was very different from most. {{wiki-equiano}}"
+     "w": "Wikipedia says his experience was very different from most. {{wiki-equiano}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -1156,7 +1161,7 @@
       "Source: the Tarikh al-Sudan, by al-Sa'di, c. 1655.",
       "Gap: it was written about 127 years after Askia Muhammad's reign ended in 1528 (1655 minus 1528; our arithmetic, from the dates in Module 4).",
       "Purpose: a scholarly history favouring its own circles.",
-      "Check: compared with Leo Africanus. {{lib}}"
+      "Check: compared with Leo Africanus. {{leo-pory-vol3}} {{fordham-leo}}"
      ]
     },
     {

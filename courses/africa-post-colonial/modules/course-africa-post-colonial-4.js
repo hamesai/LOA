@@ -1,18 +1,18 @@
 /* Post-Colonial Africa: conquest, independence and the struggle for the state (c. 1880 to the present) (module 4). Block types: _template/TEMPLATE.md. */
 (window.COURSE = window.COURSE || {})["africa-post-colonial-4"] = {
- "intro": "Between 1951 and 1990 most of Africa became independent. Paths ranged from negotiated transfers to prolonged war to crisis. The first generation of leaders faced colonial borders, thin administrations and Cold War pressure. Their choices shaped later decades. Lecturer lens: Nyerere (1922 to 1999) led Tanganyika to independence and proclaimed ujamaa. We borrow one habit: state the aim, then test results against it, and admit the costs.",
+ "intro": "Between 1951 and 1990 most of Africa became independent. Paths ranged from negotiated transfers to prolonged war to crisis. The first generation of leaders inherited colonial borders, thin administrations and a colonial state they mostly kept, under Cold War pressure. Their choices, and their own words about them, shaped later decades. Lecturer lens: Nyerere (1922 to 1999) led Tanganyika to independence and proclaimed ujamaa. We borrow one habit: state the aim, then test results against it, and admit the costs.",
  "outcomes": [
-  "Order the main independence dates from 1951 to 2011.",
-  "Contrast the paths of Ghana, Algeria, Congo, Kenya, Tanzania and Burkina Faso.",
-  "Evaluate whether ujamaa 'failed' with two sets of evidence and a stated criterion.",
+  "Order the main independence dates from 1951 to 2011, and say why counts and dates differ between sources.",
+  "Contrast the British and French routes in West Africa with the Algerian war.",
   "Explain the Congo crisis with four actors and one open question.",
+  "Evaluate whether ujamaa 'failed' with two sets of evidence and a stated criterion.",
+  "Read a leader's speech for aims and framing, not for results.",
   "Lecturer's method: Judge an independence project by its own stated aim and by its results, and name a criterion first."
  ],
  "lessons": [
   {
-   "id": "l1",
-   "title": "Paths to independence: a map of dates",
-   "min": 22,
+   "title": "Paths to independence, and what new states inherited",
+   "min": 28,
    "blocks": [
     {
      "t": "p",
@@ -25,25 +25,28 @@
      "cap": "Each bar is one year wide."
     },
     {
-     "t": "callout",
-     "k": "note",
-     "x": "Counts differ by source. Reader counts 16 independences in 1960, 38 by 1965 and 45 by 1975, and says 30 states founded the OAU, while other counts give 17 in 1960, and Module 3's OAU count is 32 or 33. The difference is mostly which territories are counted. Say 'about 17' and name your source. {{rd-indep}}"
+     "t": "h",
+     "x": "The war and after"
     },
     {
      "t": "p",
-     "x": "Reader counts more than 70 coups in 32 countries between the killing of Togo's president Olympio in 1963 and Mobutu's fall in 1997, and says only five of the OAU founders had no violent change of government by 1997. The count is dated and the tally has grown since [check current]. {{rd-indep}}"
+     "x": "About 80,000 tirailleurs were sent to France in 1939 and 1940, and another 100,000 crossed the sea from 1943 to 1945. {{gha-viii-ch03}}"
     },
     {
      "t": "p",
-     "x": "The French Brazzaville Conference was held in early 1944 under de Gaulle and ruled out self-government even in the distant future. Rodney dates it 1948, which is wrong. {{rd-mau}} {{rod-colonial}}"
+     "x": "The French Brazzaville Conference of early 1944 ruled out self-government even in the distant future; no African representatives took part, and its impact has been much exaggerated. {{rd-mau}} {{gha-viii-ch03}}"
     },
     {
      "t": "p",
-     "x": "Volume VIII agrees, and adds that no African representatives took part and that its impact has been much exaggerated. It also gives the scale of African service to France: about 80,000 tirailleurs were sent to France in 1939 and 1940, and another 100,000 crossed the sea from 1943 to 1945. {{gha-viii-ch03}}"
+     "x": "Living standards fell after the war and unrest followed, from Thiaroye in 1944 and Douala in 1945 to Madagascar in 1947. France created the colonial franc and the investment fund FIDES in 1946. {{gha-viii-ch11}}"
     },
     {
      "t": "p",
-     "x": "Volume VIII's economic chapter adds that living standards fell after the war and unrest followed, from Thiaroye in 1944 and Douala in 1945 to Constantine in 1945 and Madagascar in 1947. France created the colonial franc in 1946 and the investment fund FIDES the same year. Coquery-Vidrovitch argues that French business accepted decolonisation after the 1951 to 1952 recession because colonial profits were falling, so that economic decolonisation came before political decolonisation. That is one author's interpretation [CONTESTED]. {{gha-viii-ch11}}"
+     "x": "One reading holds that French business accepted decolonisation after the 1951 to 1952 recession because colonial profits were falling, so economic decolonisation came before political. {{gha-viii-ch11}} [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "The dates"
     },
     {
      "t": "table",
@@ -76,7 +79,7 @@
       ],
       [
        "1960",
-       "17 states, the Year of Africa",
+       "About 17 states, the Year of Africa",
        "Mostly negotiated; Congo in crisis"
       ],
       [
@@ -85,7 +88,7 @@
        "Negotiated"
       ],
       [
-       "05/07/1962",
+       "1962",
        "Algeria",
        "After a war that began on 01/11/1954"
       ],
@@ -95,9 +98,9 @@
        "After the Emergency"
       ],
       [
-       "1974 to 1975",
+       "1973 to 1975",
        "Portuguese colonies",
-       "After Portugal's revolution"
+       "Guinea-Bissau declared 24/09/1973; the rest after Portugal's revolution"
       ],
       [
        "1980",
@@ -120,33 +123,32 @@
        "Referendum in January 2011"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{lib}} {{brit-indep}}"
     },
     {
-     "t": "example",
-     "title": "Worked example: the length of Algeria's war (our arithmetic)",
-     "steps": [
-      "The war began on 01/11/1954 and Algeria became independent on 05/07/1962.",
-      "From 01/11/1954 to 01/11/1961 is 7 years. To 01/07/1962 is 8 months more. Add 4 days to 05/07/1962.",
-      "That is 7 years, 8 months and 4 days.",
-      "Say 'a little under eight years' because the war's end is dated by the Evian Accords (18/03/1962) in some tellings. {{lib}}"
-     ]
+     "t": "callout",
+     "k": "warn",
+     "x": "Counts and dates differ by source. One survey counts 16 independences in 1960, against 17 in other counts, mostly because of which territories are counted. {{rd-indep}} Even the UNESCO volumes slip: one gives Angola on 11/11/1974, where the volume's own table and Britannica give 11/11/1975. {{gha-ix}} {{gha-viii-ch05}} {{brit-indep}} Check each date against a second source."
     },
     {
-     "t": "p",
-     "x": "Historians weigh how independence came about. Frederick Cooper stresses the strategic choices of African unions and parties and the weakness of European states after 1945. Others stress Cold War rivalry or metropolitan economics. Many argue that independence was both won and conceded [CONTESTED]. {{lib}}"
+     "t": "h",
+     "x": "Won or conceded?"
     },
     {
      "t": "p",
-     "x": "Rodney adds two claims worth separating. First, independence was not given: the choice that Africa should be free was made by Africans, by mass parties, strikes and the pressure of events from the Second World War to Bandung (1955). Second, the changeover had an element of conspiracy, because the colonial powers turned to the cadres their schools had produced. {{rod-colonial}} Our note: historians who stress African nationalist agency and the speed of the transfers of 1957 to 1964 contest the second claim [CONTESTED]."
+     "x": "Frederick Cooper stresses the strategic choices of African unions and parties and the weakness of European states after 1945. Others stress Cold War rivalry or metropolitan economics. Many argue that independence was both won and conceded [CONTESTED]. {{lib}}"
     },
     {
      "t": "p",
-     "x": "The World Bank's Berg Report of 1981 gives the same legacy: Zaire had no African doctor, lawyer, engineer or army officer at independence, Nigerians held fewer than 700 of 3,000 senior civil-service posts until the mid-1950s, 1,500 French technical staff held almost all top jobs in Senegal in 1961, and in Kenya and Tanzania under 20 per cent of high-level posts were African. {{berg}}"
+     "x": "Rodney makes two claims worth separating. Independence was not given: the choice that Africa should be free was made by Africans, through mass parties, strikes and the pressure of events from the Second World War to Bandung (1955). And the changeover had an element of conspiracy, because the colonial powers turned to the cadres their schools had produced. {{rod-colonial}} The second claim is contested by historians who stress the speed of the transfers [CONTESTED]."
+    },
+    {
+     "t": "h",
+     "x": "What colonial rule left behind"
     },
     {
      "t": "table",
-     "title": "What colonial rule left at independence: education and elites",
+     "title": "Education and elites at independence",
      "head": [
       "Item",
       "Figure",
@@ -156,35 +158,42 @@
       [
        "Africans in secondary school in all sub-Saharan Africa, 1938",
        "about 11,000, for a population above 165 million",
-       "Reader [ESTIMATE]"
+       "{{rd-elite}} [ESTIMATE]"
       ],
       [
        "University graduates in the Congo, 1960",
-       "16 (Rodney) or fewer than 30 (Hochschild); the same order of size, different definitions",
-       "Range 16 to 30 [PROBABLE]; tiny is [FIRM]"
+       "16 or fewer than 30, by different definitions",
+       "{{rod-colonial}} {{hs-forget}}; tiny is [FIRM]"
       ],
       [
        "Senior civil-service posts held by Congolese",
        "3 of about 5,000 management posts",
-       "Hochschild; Reader gives 3 of 4,875"
+       "{{hs-forget}}"
       ],
       [
-       "Uganda, 1959 spending per pupil",
-       "11 pounds African, 38 Indian, 186 European",
-       "Rodney, dated"
+       "Senior civil-service posts held by Nigerians until the mid-1950s",
+       "fewer than 700 of 3,000",
+       "{{berg}}"
       ],
       [
-       "Adults without literacy, 1960s",
-       "80 to 85 per cent",
-       "UNESCO figure quoted by Rodney, dated"
+       "High-level posts held by Africans in Kenya and Tanzania",
+       "under 20 per cent",
+       "{{berg}}"
       ]
      ],
-     "src": "{{rd-elite}} {{rod-colonial}} {{hs-forget}}"
+     "src": "{{rd-elite}} {{hs-forget}} {{berg}}"
     },
     {
-     "t": "callout",
-     "k": "note",
-     "x": "Rodney's slogan 'education for underdevelopment' is an argument, and missions and village communities did build much African schooling. Reader adds that whenever ethnicity met class consciousness, ethnicity usually won, which is a generalisation and not a law [CONTESTED]. {{rod-colonial}} {{rd-elite}}"
+     "t": "p",
+     "x": "Independence leaders mostly kept the colonial state they inherited. The bureaucracy grew but kept its colonial goals, Francophone states stayed in the franc zone, and Nigeria left the sterling zone only in 1973. {{gha-viii-ch15}}"
+    },
+    {
+     "t": "p",
+     "x": "States also inherited colonial-era agreements and defence pacts; one reading holds that independence kept Africa inside a Western orbit. That is a polemical thesis [CONTESTED]. {{gha-viii-ch26}}"
+    },
+    {
+     "t": "p",
+     "x": "More than 70 military coups followed by the mid-1980s, starting from Egypt in 1952. {{gha-viii-ch15}} Another count gives more than 70 coups in 32 countries between 1963 and 1997 [check current]. {{rd-indep}}"
     },
     {
      "t": "check",
@@ -196,7 +205,7 @@
       "Namibia, in 1990"
      ],
      "a": 0,
-     "w": "Ghana became independent on 06/03/1957. {{lib}}",
+     "w": "Ghana became independent on 06/03/1957; Algeria is in North Africa. {{lib}}",
      "kind": "application"
     },
     {
@@ -204,7 +213,7 @@
      "q": "An essay says African independence was simply handed over by Britain and France. Which summary is better?",
      "o": [
       "It was handed over peacefully everywhere",
-      "Both won and conceded, with different paths",
+      "It was both won by African parties, unions and wars and conceded by weakened powers, by different paths",
       "It was won only by war",
       "It was decided only by the Cold War"
      ],
@@ -216,16 +225,16 @@
      "t": "take",
      "i": [
       "Independence paths ranged from negotiation to long war. {{lib}}",
-      "1960 was the Year of Africa with 17 states.",
-      "Interpretations differ: won, conceded or both [CONTESTED]."
+      "Counts and dates differ by source; check them. {{brit-indep}}",
+      "New states inherited thin elites and a colonial state they mostly kept. {{gha-viii-ch15}}"
      ]
     }
-   ]
+   ],
+   "id": "l1"
   },
   {
-   "id": "l2",
-   "title": "Ghana and Algeria",
-   "min": 28,
+   "title": "Ghana and French West Africa",
+   "min": 26,
    "blocks": [
     {
      "t": "h",
@@ -237,66 +246,174 @@
     },
     {
      "t": "p",
-     "x": "His slogan was to seek first the political kingdom. His rule turned authoritarian with preventive detention and a one-party state, and the economy weakened. He was overthrown by a coup on 24/02/1966. {{lib}}"
+     "x": "His slogan was to seek first the political kingdom. It can be read as a claim that independence is necessary but not sufficient, and he meant the freedom of the whole continent. {{gha-viii-ch05}}"
+    },
+    {
+     "t": "p",
+     "x": "His rule turned authoritarian with preventive detention and a one-party state, and the economy weakened. He was overthrown by a coup on 24/02/1966. {{lib}}"
+    },
+    {
+     "t": "example",
+     "title": "Worked example: Nkrumah's rule (our arithmetic)",
+     "steps": [
+      "Independence on 06/03/1957 and the coup on 24/02/1966.",
+      "From 06/03/1957 to 06/03/1965 is 8 years; to 24/02/1966 is almost a year more, less 10 days.",
+      "So Nkrumah ruled an independent Ghana for just under nine years.",
+      "A balanced sentence: he led a pioneering independence and then ruled by detention and one-party rule."
+     ]
     },
     {
      "t": "h",
-     "x": "Algeria"
+     "x": "Did Britain plan it?"
     },
+    {
+     "t": "p",
+     "x": "Boahen argues that the British reacted to nationalist pressure instead of following a plan, so the initiative lay with West Africans. Flint, Pearce and Fieldhouse read it differently [CONTESTED]. {{gha-viii-ch07}}"
+    },
+    {
+     "t": "h",
+     "x": "The French route"
+    },
+    {
+     "t": "p",
+     "x": "In French West Africa the first electoral college of 1945 had only 117,000 voters out of 16 million people. {{gha-viii-ch07}}"
+    },
+    {
+     "t": "p",
+     "x": "The laws of 11/04/1946 ended forced labour and of 07/05/1946 gave citizenship, and the RDA was founded at Bamako in 10/1946. {{gha-viii-ch07}}"
+    },
+    {
+     "t": "p",
+     "x": "Repression in the Cote d'Ivoire in 1949 and 1950 led Houphouet-Boigny to break with the communists in 1950. {{gha-viii-ch07}}"
+    },
+    {
+     "t": "p",
+     "x": "In the referendum of 28/09/1958 Guinea voted more than 80 per cent against de Gaulle's constitution, and the other territories became independent in 1960. {{gha-viii-ch07}} France cut Guinea off after 1958 until relations resumed in 1963. {{gha-viii-ch26}}"
+    },
+    {
+     "t": "table",
+     "title": "Two routes in West Africa",
+     "head": [
+      "",
+      "British West Africa",
+      "French West Africa"
+     ],
+     "rows": [
+      [
+       "Key step",
+       "Elected African majorities from 1951 (Gold Coast)",
+       "Citizenship and an end to forced labour, 1946"
+      ],
+      [
+       "Party",
+       "CPP (1949)",
+       "RDA (1946)"
+      ],
+      [
+       "Turning point",
+       "Ghana independent 06/03/1957",
+       "Guinea's No vote, 28/09/1958"
+      ],
+      [
+       "Debate",
+       "Did Britain react or plan?",
+       "Did France concede or keep control through the franc zone?"
+      ]
+     ],
+     "src": "{{gha-viii-ch07}} {{gha-viii-ch15}}"
+    },
+    {
+     "t": "check",
+     "q": "A student says French West Africa followed Ghana's path. What was distinctive about the French route?",
+     "o": [
+      "Nothing",
+      "Citizenship and the end of forced labour in 1946, a federation-wide party (RDA), and a 1958 referendum that only Guinea rejected",
+      "Independence came first in 1951",
+      "There were no elections"
+     ],
+     "a": 1,
+     "w": "Different laws, parties and turning points. {{gha-viii-ch07}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "Why was Guinea's 1958 vote costly?",
+     "o": [
+      "It was not",
+      "France cut Guinea off until 1963",
+      "Guinea joined Britain",
+      "Guinea lost territory"
+     ],
+     "a": 1,
+     "w": "Saying No had consequences. {{gha-viii-ch26}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Ghana led in 1957, then turned authoritarian: coup on 24/02/1966. {{lib}}",
+      "French West Africa moved through 1946 reforms, the RDA and the 1958 referendum. {{gha-viii-ch07}}",
+      "Whether Britain planned or reacted is [CONTESTED]."
+     ]
+    }
+   ],
+   "id": "l2"
+  },
+  {
+   "title": "Algeria",
+   "min": 28,
+   "blocks": [
     {
      "t": "p",
      "x": "France treated Algeria as part of France, with about a million European settlers. {{lib}}"
     },
     {
-     "t": "p",
-     "x": "The Setif massacres of May 1945 have a contested toll, with estimates from about 1,000 to 45,000 [CONTESTED]. {{lib}} The UNESCO General History gives some 10,000 deaths, without a method. {{gha-viii-ch05}}"
+     "t": "h",
+     "x": "Roots of nationalism"
     },
     {
      "t": "p",
-     "x": "Volume VIII's chapter on North Africa (Chenntouf) describes Setif on 8 May 1945 only as bloody incidents with a large number of deaths, and gives no figure. It says North Africa supplied 216,000 men to 1940, including 123,000 Algerians, and 385,000 more from 1943 to 1945 for the liberation of France. Ferhat Abbas's Manifesto of the Algerian People had a second version on 31/03/1943, so the first edition was 10/02/1943, though the chapter prints 1945. The Algerian Statute of 20/09/1947 left control with the European minority. {{gha-viii-ch02}}"
+     "x": "The Jonnart Law (04/02/1919) enfranchised about half a million Muslim voters but limited them to a third of town councils, and Emir Khalid's election wins were annulled before he was exiled in 1923. {{gha-vii-ch24}}"
     },
     {
      "t": "p",
-     "x": "On Algerian independence the UNESCO table gives 03/07/1962, the day France recognised the referendum result, while this course also gives 05/07/1962, the day it was proclaimed and celebrated. Both dates are in use, so say which one you mean. {{gha-viii-ch27}}"
+     "x": "The Etoile nord-africaine was founded in Paris in 1924 and the Ulema Association followed in 1931. Ferhat Abbas began as an assimilationist. {{gha-vii-ch24}}"
     },
     {
      "t": "p",
-     "x": "Mazrui's chapter in that volume reads Nkrumah's slogan as a claim that independence is necessary but not sufficient, and he says Nkrumah meant the freedom of the whole continent. The line that 'all else will be subtracted' is Mazrui's own gloss on Ghana and Uganda, not Nkrumah's words. He lists five traditions of resistance (warrior, jihad, radical Christianity, non-violent mobilisation and guerrilla war), which is one author's framing and not a consensus. {{gha-viii-ch05}}"
+     "x": "North Africa supplied 385,000 men from 1943 to 1945 for the liberation of France. Ferhat Abbas's Manifesto of the Algerian People appeared in 1943, and the Algerian Statute of 20/09/1947 left control with the European minority. {{gha-viii-ch02}}"
+    },
+    {
+     "t": "h",
+     "x": "Setif, 1945"
     },
     {
      "t": "p",
-     "x": "Volume VIII's chapter on West Africa (Suret-Canale and Boahen) sets the British and French routes side by side. In French West Africa the Brazzaville conference of 30/01 to 08/02/1944 ruled out self-government. The first college of 1945 had only 117,000 voters out of 16 million people. The laws of 11/04/1946 ended forced labour and of 07/05/1946 gave citizenship, and the RDA was founded at Bamako in 10/1946. Repression in the Cote d'Ivoire in 1949 and 1950 led Houphouet-Boigny to break with the communists in 1950. In the referendum of 28/09/1958 Guinea voted more than 80 per cent against de Gaulle's constitution, and the other territories became independent in 1960. Boahen argues that the British reacted to nationalist pressure instead of following a plan, so that the initiative lay with West Africans. Flint, Pearce and Fieldhouse read it differently, so treat this as one side of a debate [CONTESTED]. {{gha-viii-ch07}}"
+     "x": "The Setif massacres of May 1945 have a contested toll, with estimates from about 1,000 to 45,000 [CONTESTED]. {{lib}} One UNESCO chapter gives some 10,000 deaths without a method, and another gives no figure. {{gha-viii-ch05}} {{gha-viii-ch02}}"
+    },
+    {
+     "t": "h",
+     "x": "The war, 1954 to 1962"
     },
     {
      "t": "p",
-     "x": "Volume VIII was written and first published in 1993 and covers 1935 to 1992, though the 2024 volume gives other dates for it, 1990, 1995 and 1999. Its own reviewer lists what it missed: Thomas Sankara's revolution of 1983 to 1987, which happened as it was written, gender, the diasporas outside the United States, rural Africa, disease and public health, and young people. Coverage of 1935 to 1960 is thin, with most countries given two or three pages. The reviewer still praises its balanced view of nation-building from 1960 to 1980 and its link of internal and external causes. {{gha-ix}}"
-    },
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "The 2024 volume's own independence dates are not safe either: it gives Angola on 11/11/1974 and Cabo Verde, with Guinea-Bissau, on 24/09/1973. {{gha-ix}} Volume VIII's table gives 11/11/1975 and 05/07/1975, {{gha-viii-ch05}} and Britannica's list agrees with the table. {{brit-indep}} Check each date against a second source."
-    },
-    {
-     "t": "callout",
-     "k": "note",
-     "x": "Volume VIII's West Africa chapter slips too. It dates Ghana's independence to 5 March 1957, and its opening says the last West African colonies became independent in 1973 and 1974. {{gha-viii-ch07}} Ghana became independent on 06/03/1957 and Cape Verde on 05/07/1975, so of those only Guinea-Bissau, which declared independence on 24/09/1973, fits. {{brit-indep}}"
+     "x": "The FLN's war began on the night of 31/10/1954. {{brit-algeria}} Nine historic chiefs began the revolt with 2,000 to 3,000 ALN fighters. {{gha-viii-ch06}}"
     },
     {
      "t": "p",
-     "x": "The National Liberation Front began the war on 01/11/1954. In the Battle of Algiers (1956 to 1957), both the FLN's bombings and French torture occurred. {{lib}}"
+     "x": "French forces rose from 56,000 to half a million by 1960, and the ALN reached 130,000 at its height. The Soummam congress met in 08/1956, and the provisional government was formed in 09/1958. {{gha-viii-ch06}}"
     },
     {
      "t": "p",
-     "x": "The Evian Accords of 18/03/1962 led to a referendum and independence on 05/07/1962. Almost all the settlers left in 1962. {{lib}}"
+     "x": "In the Battle of Algiers (1956 to 1957), both the FLN's bombings and French torture occurred. {{lib}}"
     },
     {
      "t": "p",
-     "x": "Ivan Hrbek's chapter in volume VIII supplies detail. Nine historic chiefs began the revolt on 01/11/1954 with 2,000 to 3,000 ALN fighters. French forces rose from 56,000 to half a million by 1960, and the ALN reached 130,000 at its height. The Soummam congress met in 08/1956, and the provisional government was formed in 09/1958. The referendum of 01/07/1962 gave 99.7 per cent for independence, and about half a million Europeans left by the end of 07/1962. Hrbek says nearly one million Algerians died, which matches the official claim that most historians reject [CONTESTED]. {{gha-viii-ch06}}"
+     "x": "The Evian Accords of 18/03/1962 led to a referendum. {{lib}} The referendum of 01/07/1962 gave 99.7 per cent for independence, and about half a million Europeans left by the end of 07/1962. {{gha-viii-ch06}}"
     },
     {
-     "t": "callout",
-     "k": "note",
-     "x": "The same chapter has dating slips: it puts the FLN in 05/1955, Israel crossing into Sinai on 24/10/1956 and Djibouti's independence on 26/06/1977. {{gha-viii-ch06}} The FLN's war began on the night of 31/10/1954, {{brit-algeria}} Israel invaded Sinai on 29/10/1956, {{brit-suez}} and Djibouti became independent on 27/06/1977. {{brit-indep}}"
+     "t": "p",
+     "x": "France recognised the result on 03/07/1962 and independence was proclaimed and celebrated on 05/07/1962. Both dates are in use, so say which you mean. {{gha-viii-ch27}} {{lib}}"
     },
     {
      "t": "table",
@@ -309,128 +426,123 @@
      "rows": [
       [
        "Over a million 'martyrs'",
-       "Algerian official claims",
-       "Not supported by most historians"
+       "Algerian official claims, repeated in one UNESCO chapter {{gha-viii-ch06}}",
+       "Not supported by most historians [CONTESTED]"
       ],
       [
        "Several hundred thousand deaths",
-       "Most historians",
+       "Most historians {{lib}}",
        "[ESTIMATE, CONTESTED]"
       ],
       [
        "About a million settlers who left in 1962",
-       "The library",
+       "{{lib}}",
        "[FIRM] in scale"
       ],
       [
        "Killings of harkis after independence: tens of thousands",
-       "The library",
+       "{{lib}}",
        "[ESTIMATE] with a wide range"
       ]
      ],
-     "src": "{{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "Frantz Fanon's The Wretched of the Earth (1961) argued that violence was part of decolonisation [CONTESTED]. {{lib}}"
+     "src": "{{lib}} {{gha-viii-ch06}}"
     },
     {
      "t": "example",
-     "title": "Worked example: Nkrumah's rise and fall (our arithmetic)",
+     "title": "Worked example: the length of the war (our arithmetic)",
      "steps": [
-      "Independence on 06/03/1957 and the coup on 24/02/1966.",
-      "From 06/03/1957 to 06/03/1965 is 8 years, and to 24/02/1966 is almost 1 more year less 10 days.",
-      "So Nkrumah ruled an independent Ghana for just under nine years.",
-      "Write a balanced sentence: he led a pioneering independence and then ruled by detention and one-party rule, which weakened both politics and economy. {{lib}}"
+      "The war began on 01/11/1954 and Algeria became independent on 05/07/1962.",
+      "From 01/11/1954 to 01/11/1961 is 7 years. To 01/07/1962 is 8 months more. Add 4 days to 05/07/1962.",
+      "That is 7 years, 8 months and 4 days.",
+      "Say 'a little under eight years', because some tellings date the war's end to the Evian Accords (18/03/1962)."
      ]
     },
     {
-     "t": "h",
-     "x": "Algeria and the Maghrib before 1945 (volume VII)"
-    },
-    {
      "t": "p",
-     "x": "Berque dates the roots of Maghrib nationalism to the interwar years: Emir Khalid's election wins were annulled and he was exiled in 1923; the Jonnart Law (04/02/1919) enfranchised about half a million Muslim voters but limited them to a third of town councils; the Tunisian Destour was founded in 02/1920; the Etoile nord-africaine was founded in Paris in 1924; the Ulema Association followed in 1931; and the Berber Dahir (16/05/1930) set off over 120 incidents in three months. Ferhat Abbas's early assimilationism (Le Jeune Algerien, 1922 to 1927) sits behind his later turn. {{gha-vii-ch24}}"
+     "x": "Frantz Fanon's The Wretched of the Earth (1961) argued that violence was part of decolonisation. It is a polemic, an argument and not a record [CONTESTED]. {{lib}}"
     },
     {
      "t": "check",
-     "q": "What did the Evian Accords lead to?",
+     "q": "A textbook says 'over a million Algerians died in the war'. How should you treat that figure?",
      "o": [
-      "A referendum and Algerian independence",
-      "The end of the Cold War",
-      "A Belgian takeover",
-      "The OAU"
+      "As settled",
+      "As the official Algerian claim, which most historians reject in favour of several hundred thousand",
+      "As a French figure",
+      "As a census count"
      ],
-     "a": 0,
-     "w": "They were signed on 18/03/1962. {{lib}}"
+     "a": 1,
+     "w": "Name the source of a contested number. {{lib}} {{gha-viii-ch06}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why must Algerian war death-toll claims be handled with care?",
+     "q": "A student cites Fanon's The Wretched of the Earth as proof of what happened in Algeria. Why is that a problem?",
      "o": [
-      "Because official claims of over a million are not supported by most historians",
-      "Because nobody fought",
-      "Because the war lasted a day",
-      "Because they are exact"
+      "It argues a position: it is a polemic, not a record of events",
+      "It is too short",
+      "It has no author",
+      "It is a treaty"
      ],
      "a": 0,
-     "w": "Most historians give several hundred thousand. {{lib}}"
+     "w": "Use it for Fanon's argument, not for events. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Ghana led, then turned authoritarian: coup on 24/02/1966. {{lib}}",
-      "Algeria's independence came after a war of almost eight years.",
-      "Algerian tolls are [ESTIMATE, CONTESTED]."
+      "Algerian nationalism grew from the 1919 reforms and their limits. {{gha-vii-ch24}}",
+      "The war lasted a little under eight years; tolls are [ESTIMATE, CONTESTED].",
+      "Independence is dated 03/07/1962 or 05/07/1962; say which."
      ]
     }
-   ]
+   ],
+   "id": "l3"
   },
   {
-   "id": "l3",
    "title": "Congo and Kenya",
-   "min": 28,
+   "min": 32,
    "blocks": [
     {
      "t": "h",
-     "x": "Congo and Lumumba"
+     "x": "The Congo before 1960"
     },
     {
      "t": "p",
-     "x": "Belgium left the Congo with almost no African graduates in senior posts. Independence on 30/06/1960 made Patrice Lumumba prime minister and Joseph Kasa-Vubu president. {{lib}}"
+     "x": "Obligatory labour in the Congo rose from 60 to 120 days a year by 1944, and the Congo supplied 85 per cent of the funds of the Belgian government in exile. {{gha-viii-ch04}}"
     },
     {
      "t": "p",
-     "x": "Crowder's chapter in volume VIII gives the wartime background. Obligatory labour in the Congo rose from 60 to 120 days a year by 1944, tin output rose from 2,750 tonnes in 1939 to 17,300 in 1945, and a strike at the Union miniere in 1941 left about seventy strikers dead. The Congo supplied 85 per cent of the funds of the Belgian government in exile. He blames the failure of independence on Belgium giving Africans little beyond primary education and no political role until very late. In 1935 Belgian officials thought in terms of at least a hundred years, where British ones thought of three generations. {{gha-viii-ch04}}"
+     "x": "Belgium gave Africans little beyond primary education and no political role until very late. In 1935 Belgian officials thought in terms of at least a hundred years, where British ones thought of three generations. {{gha-viii-ch04}}"
     },
     {
      "t": "p",
-     "x": "Edmond Kouassi's chapter on the United Nations in volume VIII describes the UN force in the Congo. It arrived on 15/07/1960 with 300 Tunisians and 80 Ghanaians and numbered 11,155 men by the end of the month. Hammarskjold accepted Tshombe's conditions at Elisabethville on 12/08/1960. After Kasavubu dismissed Lumumba on 05/09/1960, the UN official Andrew Cordier closed the radio station to him. Katanga's secession ended in 01/1963 and the UN troops left on 30/06/1964. Kouassi calls the UN a collective imperial power in the Congo as well as a partner, and says the cause of Hammarskjold's crash on 17/09/1961 is still unexplained. {{gha-viii-ch29}}"
+     "x": "Riots in Leopoldville on 4 to 7/01/1959 and a Brussels round table in 01/1960 set independence for 30/06/1960. Lumumba had founded the MNC in 10/1958, the only party with a national base, while Kasavubu's ABAKO stood for regional and federal ideas. {{gha-viii-ch08}}"
     },
     {
-     "t": "callout",
-     "k": "note",
-     "x": "The chapter's wording is easy to misread: right after naming Antoine Gizenga it says 'he was captured by Mobutu's troops' and shot in Katanga on 17 January 1961, and only then mentions Lumumba's death. The man killed that day was Lumumba; Gizenga survived. Read every pronoun in a source against the people around it. {{gha-viii-ch29}}"
-    },
-    {
-     "t": "p",
-     "x": "UNESCO's volume VIII adds context to the Congo. Riots in the African quarters of Leopoldville on 4 to 7/01/1959 and a Brussels round table in 01/1960 set independence for 30/06/1960. Lumumba had founded the MNC in 10/1958 and led the only party with a national base, while Kasavubu's ABAKO stood for regional and federal ideas. In 1958 Congolese were 99 per cent of the population but held 5 per cent of capital investment. The same chapter says the Cameroonian UPC's 'bloody week' of 22 to 30/05/1955 left 25 dead officially and about five times as many in fact, and that the Portuguese repression in Angola in 1961 killed 30,000 to 50,000, with 150,000 to 200,000 going into exile. These are figures from one author with no method. {{gha-viii-ch08}}"
+     "t": "h",
+     "x": "Independence day: two speeches"
     },
     {
      "t": "p",
-     "x": "Volume VIII's chapter on nation-building, by J. Isawa Elaigwu, argues that independence leaders mostly kept the colonial state they inherited. The bureaucracy grew but kept its colonial goals, Francophone states stayed in the franc zone, and Nigeria left the sterling zone only in 1973. In Kenya, Kenyatta had stripped the regional assemblies of their powers by 1964, and Tom Mboya told parliament that Kenya rejected the Westminster model. The chapter counts more than 70 military coups by the mid-1980s, starting from Egypt in 1952. It also says single-party states held together better than multi-party ones, though it admits that Mali, Upper Volta and Nkrumah's Ghana were still overthrown, so treat that claim as arguable [CONTESTED]. {{gha-viii-ch15}}"
+     "x": "Independence on 30/06/1960 made Patrice Lumumba prime minister and Joseph Kasa-Vubu president. King Baudouin's speech praised Leopold. {{lib}}"
     },
     {
      "t": "p",
-     "x": "The opening pages of the next chapter, by Chinweizu, argue that independence kept Africa inside a Western orbit, since states inherited colonial-era agreements and defence pacts, and that France cut Guinea off after 1958 until relations resumed in 1963. He also lists Western interventions, including Kenya and Tanganyika in 1964 and the Shaba operations of 1977 and 1978 to 1979, and treats the Ghana coup of 1966 as Western-made. That is a polemical thesis, and the Ghana and Congo claims are contested [CONTESTED]. {{gha-viii-ch26}}"
+     "x": "Lumumba said independence was won by a struggle 'filled with tears, fire and blood', and listed forced labour, insults, unequal law and seized land. He also welcomed the treaty just signed with Belgium, asked Congolese to put aside tribal quarrels and to respect foreigners' lives and property, and ended with 'Long live independence and African unity'. {{lumumba}}"
     },
     {
-     "t": "p",
-     "x": "The numbers behind 'almost no graduates' are sharp: fewer than thirty African graduates, no army officers, engineers or physicians, and 3 of about 5,000 management posts held by Congolese. {{hs-forget}}"
+     "t": "example",
+     "title": "Worked example: reading a speech for aims, not results",
+     "steps": [
+      "Who speaks? A new prime minister, on the day of independence, interrupting a ceremonial script.",
+      "What does it show? How he framed decolonisation: as an African achievement won by struggle.",
+      "What does it not show? What happened next, or whether his aims were met.",
+      "Read the whole text: the speech also reaches out to Belgium and to foreigners, so do not quote only the angry lines. The version used is a Moscow translation of 1961, so wording differs between translations. {{lumumba}}"
+     ]
     },
     {
-     "t": "p",
-     "x": "In his independence speech Lumumba spoke of the humiliations of colonial rule, while King Baudouin's speech praised Leopold. {{lib}}"
+     "t": "h",
+     "x": "The crisis"
     },
     {
      "t": "p",
@@ -438,27 +550,40 @@
     },
     {
      "t": "p",
-     "x": "Lumumba asked the UN and then the Soviet Union for help, fell out with Kasa-Vubu and was removed on 05/09/1960. Joseph-Desire Mobutu took power on 14/09/1960. {{lib}}"
+     "x": "The UN force arrived on 15/07/1960 and numbered 11,155 men by the end of the month. Hammarskjold accepted Tshombe's conditions at Elisabethville on 12/08/1960. {{gha-viii-ch29}}"
     },
     {
      "t": "p",
-     "x": "Lumumba was handed to Katangan forces and killed on 17/01/1961. A Belgian parliamentary commission (2001) found Belgium morally responsible, and the US Senate's Church Committee (1975) documented CIA plotting. {{lib}}"
+     "x": "Lumumba asked the UN and then the Soviet Union for help, fell out with Kasa-Vubu and was removed on 05/09/1960; the UN official Andrew Cordier closed the radio station to him. Joseph-Desire Mobutu took power on 14/09/1960. {{gha-viii-ch29}} {{lib}}"
     },
     {
      "t": "p",
-     "x": "Lumumba was in office for 76 days (our arithmetic: 30/06 to 14/09/1960 is 31 + 31 + 14). The sources agree on a chain: Soviet aid from 08/1960, a US cable of 19/07/1960 asking for his removal, and a US National Security Council meeting on 18/08/1960. Hochschild, citing the Church Committee, says a National Security Council subcommittee including Allen Dulles authorised an assassination, and poison reached the CIA station. Reader is weaker, calling the authorisation implicit, and says the poison and sniper plans were abandoned. {{hs-forget}} {{rd-lumumba}}"
+     "x": "Lumumba was in office for 76 days (our arithmetic: 30/06 to 14/09/1960 is 31 + 31 + 14). The chain of events runs from Soviet aid in 08/1960, a US cable of 19/07/1960 asking for his removal, and a US National Security Council meeting on 18/08/1960. {{hs-forget}} {{rd-lumumba}}"
     },
     {
      "t": "p",
-     "x": "What can be said safely: US officials planned his murder, Katangese officials and Belgian officers carried out the killing in January 1961. The US role in the plot and the killing itself is where specialists differ [CONTESTED]. {{hs-forget}} {{hs-after}} {{rd-lumumba}} A Belgian parliamentary commission found in 11/2001 that Belgian ministers bore moral responsibility, and Belgium apologised on 05/02/2002. {{bbc-lumumba-2002}}"
+     "x": "Lumumba was handed to Katangan forces and killed on 17/01/1961. {{lib}}"
     },
     {
      "t": "p",
-     "x": "Mobutu took power again in 1965, ruled for 32 years, and renamed the country Zaire in 1971 [check]. Hochschild's parallel with Leopold, one-man rule living off the land, is his interpretation. {{hs-forget}}"
+     "x": "US officials planned his murder, and Katangese officials and Belgian officers carried out the killing. One account, citing the Church Committee, says a National Security Council subcommittee authorised an assassination and poison reached the CIA station; another calls the authorisation implicit and says the plans were abandoned [CONTESTED]. {{hs-forget}} {{rd-lumumba}}"
     },
     {
      "t": "p",
-     "x": "UN Secretary-General Dag Hammarskjold died in a plane crash in September 1961. Its cause remains [CONTESTED]. {{lib}}"
+     "x": "A Belgian parliamentary commission found in 11/2001 that Belgian ministers bore moral responsibility, and Belgium apologised on 05/02/2002. {{bbc-lumumba-2002}}"
+    },
+    {
+     "t": "p",
+     "x": "Katanga's secession ended in 01/1963 and the UN troops left on 30/06/1964. The UN was a collective imperial power in the Congo as well as a partner, and the cause of Hammarskjold's crash on 17/09/1961 is still unexplained. {{gha-viii-ch29}} [CONTESTED]"
+    },
+    {
+     "t": "callout",
+     "k": "note",
+     "x": "Read pronouns against the people around them. One chapter, right after naming Antoine Gizenga, says 'he was captured by Mobutu's troops' and shot on 17 January 1961. The man killed that day was Lumumba; Gizenga survived. {{gha-viii-ch29}}"
+    },
+    {
+     "t": "p",
+     "x": "Mobutu took power again in 1965 and ruled for 32 years. {{hs-forget}}"
     },
     {
      "t": "table",
@@ -466,7 +591,7 @@
      "head": [
       "Actor",
       "Role",
-      "Limit or open question"
+      "Open question"
      ],
      "rows": [
       [
@@ -477,12 +602,12 @@
       [
        "The United Nations",
        "Sent a force (ONUC)",
-       "Its limits and Hammarskjold's death"
+       "Its limits, and Hammarskjold's death"
       ],
       [
        "The US and the Soviet Union",
        "Cold War interest and covert action",
-       "Degree of influence"
+       "How far US plans shaped the killing"
       ],
       [
        "Congolese leaders",
@@ -490,7 +615,7 @@
        "Who bears responsibility"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha-viii-ch29}} {{hs-forget}} {{bbc-lumumba-2002}}"
     },
     {
      "t": "h",
@@ -502,55 +627,50 @@
     },
     {
      "t": "p",
+     "x": "He had stripped the regional assemblies of their powers by 1964, and Tom Mboya told parliament that Kenya rejected the Westminster model. {{gha-viii-ch15}}"
+    },
+    {
+     "t": "p",
      "x": "He kept the settler land system largely intact through purchase schemes, and many Mau Mau fighters got no land [CONTESTED]. {{lib}}"
     },
     {
-     "t": "example",
-     "title": "Worked example: reading two speeches of one day (our application)",
-     "steps": [
-      "Lumumba's address of 30/06/1960 interrupted a ceremonial script.",
-      "He said independence was won by struggle and recalled forced labour and racial law, which is what he said, not a verdict.",
-      "It claims that decolonisation was an African achievement. Baudouin's speech praised Leopold.",
-      "Read them side by side to see two histories of one event. {{lib}}"
-     ]
-    },
-    {
      "t": "check",
-     "q": "Name the four actors the library asks you to use for the Congo crisis.",
+     "q": "Using the four-actor table, which actor's role is the most disputed, and why?",
      "o": [
-      "Belgium, the UN, the US and Soviet Union, and Congolese leaders",
-      "France, Britain, Italy and Spain",
-      "Ghana, Kenya, Algeria and Egypt",
-      "Portugal, Spain, Israel and India"
+      "Belgium's, because no commission met",
+      "The United States', because accounts differ on whether an assassination was authorised and whether its plans shaped the killing",
+      "The UN's, because it sent no troops",
+      "None is disputed"
      ],
-     "a": 0,
-     "w": "The library's C3 names these four. {{lib}}"
+     "a": 1,
+     "w": "Specialists differ on the US role. {{hs-forget}} {{rd-lumumba}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "A student assumes Kenyatta seized settler farms in 1963. What did he actually do about settler land?",
+     "q": "A student assumes Kenyatta seized settler farms in 1963. What did he actually do?",
      "o": [
-      "Abolished it at once",
-      "Kept the system largely intact through purchase schemes",
+      "Abolished settler land at once",
+      "Kept the system largely intact through purchase schemes, and centralised power by 1964",
       "Gave all land to Britain",
       "Moved the capital"
      ],
      "a": 1,
-     "w": "The library tags this as [CONTESTED]. {{lib}}",
+     "w": "Continuity of land and a stronger centre. {{lib}} {{gha-viii-ch15}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "The Congo crisis had Belgian, UN, Cold War and Congolese causes. {{lib}}",
+      "Belgium left the Congo with almost no African elite and a timetable of months. {{gha-viii-ch04}}",
       "Lumumba was killed on 17/01/1961; responsibility is debated.",
-      "Kenyatta kept settler land arrangements largely intact [CONTESTED]."
+      "Kenyatta kept settler land arrangements and centralised power [CONTESTED]."
      ]
     }
-   ]
+   ],
+   "id": "l4"
   },
   {
-   "id": "l4",
    "title": "Tanzania, Burkina Faso and the liberation wars",
    "min": 30,
    "blocks": [
@@ -564,15 +684,15 @@
     },
     {
      "t": "p",
-     "x": "The Arusha Declaration of 05/02/1967 set out TANU's socialism and self-reliance. Its text does not use the word ujamaa and does not mention villagisation: it says the major means of production should be controlled by peasants and workers, stresses agriculture, and sets a leadership code (no company shares, directorships, second salaries or rented houses). The National Executive Committee met at Arusha from 26/01/1967 to 29/01/1967. Ujamaa and villages come from related documents and later policy. {{arusha}} In 1973 to 1976 the state moved much of the rural population into villages, often by compulsion. {{lib}}"
+     "x": "The Arusha Declaration of 05/02/1967 set out TANU's socialism and self-reliance: the major means of production should be controlled by peasants and workers, agriculture comes first, and a leadership code bars company shares, directorships, second salaries and rented houses. {{arusha}}"
     },
     {
      "t": "p",
-     "x": "Volume VIII's chapter on political values (Ki-Zerbo, Mazrui and Wondji) sorts post-colonial regimes into five types: socialist, military, apartheid, conservative, and liberal-pluralist, the last said to be only the Gambia, Botswana, Senegal, Namibia and Mauritius. It explains the failure of socialism by the strength of ethnicity over class, a Westernised elite, a collectivism based on custom rather than command, and economies tied to the world market. It reports Nyerere's argument that multi-partyism was a luxury Africa could not afford, and says the case for one-party rule had collapsed by the 1970s. It also misdates the one-party states of Guinea, Mali and Tanzania to the 1950s, when they came in the 1960s. These are the authors' framework, not settled findings [CONTESTED]. {{gha-viii-ch16}}"
+     "x": "Its text does not use the word ujamaa and does not mention villagisation; those come from related documents and later policy. {{arusha}} In 1973 to 1976 the state moved much of the rural population into villages, often by compulsion. {{lib}}"
     },
     {
      "t": "p",
-     "x": "Outcomes are [CONTESTED]: output suffered and the economy was in crisis by the late 1970s, yet Tanzania had high literacy, national unity with Swahili as a common language, and no ethnic civil war. Nyerere stepped down voluntarily in 1985. {{lib}}"
+     "x": "Nyerere argued that multi-partyism was a luxury Africa could not afford. One framework explains the failure of African socialism by the strength of ethnicity over class, a Westernised elite and economies tied to the world market [CONTESTED]. {{gha-viii-ch16}}"
     },
     {
      "t": "table",
@@ -602,16 +722,18 @@
      "src": "{{lib}}"
     },
     {
+     "t": "example",
+     "title": "Worked example: two ways to define failure (our application)",
+     "steps": [
+      "A criterion of output: ujamaa failed, because agricultural output fell and a crisis followed.",
+      "A criterion of national cohesion: ujamaa succeeded, because there was no ethnic civil war and Swahili united the country.",
+      "State your criterion first, then judge.",
+      "A balanced answer says which criterion you chose and why, and admits that the other gives a different verdict [CONTESTED]."
+     ]
+    },
+    {
      "t": "h",
      "x": "Sankara and Burkina Faso"
-    },
-    {
-     "t": "p",
-     "x": "In his speech to the UN General Assembly on 04/10/1984 Sankara gave Upper Volta's baseline as 7 million people, infant mortality of 180 per 1,000, life expectancy 40, illiteracy 98 per cent and about 100 US dollars a head. He described a solidarity fund, primary health care and a campaign to build 500 houses in three months. He also named Burkina Faso's 4 August 1983 revolution, called for Mandela's release and for Africa to have a veto seat. {{sankara-un}}"
-    },
-    {
-     "t": "p",
-     "x": "In his OAU speech of 29/07/1987 he argued that debt was colonialism continued, that Africa should refuse to repay, and that Africa should form an 'Addis Ababa Club' against debt. He warned that if Burkina Faso stood alone he might not be at the next summit. {{sankara-debt}} He was killed in a coup on 15/10/1987. {{brit-sankara}}"
     },
     {
      "t": "p",
@@ -619,11 +741,19 @@
     },
     {
      "t": "p",
-     "x": "His government ran a mass vaccination campaign of about 2.5 million children in 1984 [check: the figure is from the library; his UN speech of 04/10/1984 gives the health baseline and programme but not this number], planted trees, restricted female genital cutting and polygamy, ran anti-corruption campaigns, and spoke against debt at the OAU in 1987. {{lib}}"
+     "x": "In his speech to the UN General Assembly on 04/10/1984 he gave the baseline as 7 million people, infant mortality of 180 per 1,000, life expectancy 40, illiteracy 98 per cent and about 100 US dollars a head. He described primary health care and a campaign to build 500 houses in three months. {{sankara-un}}"
     },
     {
      "t": "p",
-     "x": "It also repressed trade unions and used revolutionary tribunals. Sankara was killed on 15/10/1987 in the coup that brought Blaise Compaore to power. Compaore fled in 2014, and in April 2022 a military court convicted him in absentia of complicity and sentenced him to life. {{lib}}"
+     "x": "His government ran mass vaccination, planted trees, restricted female genital cutting and polygamy, and ran anti-corruption campaigns. It also repressed trade unions and used revolutionary tribunals. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "In his OAU speech of 29/07/1987 he argued that debt was colonialism continued, that Africa should refuse to repay, and warned that if Burkina Faso stood alone he might not be at the next summit. {{sankara-debt}} He was killed in a coup on 15/10/1987. {{brit-sankara}}"
+    },
+    {
+     "t": "p",
+     "x": "Blaise Compaore came to power in that coup, fled in 2014, and in April 2022 was convicted in absentia by a military court of complicity and sentenced to life. {{lib}}"
     },
     {
      "t": "h",
@@ -635,162 +765,88 @@
     },
     {
      "t": "p",
-     "x": "Portugal's Carnation Revolution of April 1974 ended its wars in Angola, Mozambique and Guinea-Bissau. Amilcar Cabral, assassinated in 1973, was the leading theorist. Namibia became independent in 1990. {{lib}}"
+     "x": "Portugal's Carnation Revolution of April 1974 ended its wars in Angola, Mozambique and Guinea-Bissau. Namibia became independent in 1990. {{lib}}"
     },
     {
      "t": "p",
-     "x": "The same volume gives the PAIGC's course. Cabral and five companions founded it in Bissau in 1956; the chapter says 19/10/1956, {{gha-viii-ch07}} while the party's own history gives 19/09/1956. {{paigc-hist}} A dock strike in 08/1959 left more than 50 dead, and the party took up arms in 1963. Portuguese troops rose from 1,000 in 1961 to over 30,000 in 1967, yet the PAIGC held two thirds of Guinea. Cabral was killed in 01/1973 and independence was declared on 24/09/1973. {{gha-viii-ch07}}"
+     "x": "Amilcar Cabral and five companions founded the PAIGC in Bissau in 1956; one chapter gives 19/10/1956, {{gha-viii-ch07}} while the party's own history gives 19/09/1956. {{paigc-hist}}"
     },
-    {
-     "t": "example",
-     "title": "Worked example: two ways to define failure (our application)",
-     "steps": [
-      "A criterion of output: ujamaa failed, because agricultural output fell and a crisis followed.",
-      "A criterion of national cohesion: ujamaa succeeded, because there was no ethnic civil war and Swahili united the country.",
-      "State your criterion first, then judge.",
-      "A balanced answer says which criterion you chose and why, and admits that the other criterion gives a different verdict [CONTESTED]. {{lib}}"
-     ]
-    },
-    {
-     "t": "check",
-     "q": "What was ujamaa?",
-     "o": [
-      "Tanzania's African socialism of self-reliance and villages",
-      "Kenya's land scheme",
-      "A French policy",
-      "The OAU Charter"
-     ],
-     "a": 0,
-     "w": "It was proclaimed in the Arusha Declaration of 05/02/1967. {{lib}}"
-    },
-    {
-     "t": "check",
-     "q": "A blog presents Sankara's rule as a story of pure success. Which balanced summary should you give instead?",
-     "o": [
-      "Only successes",
-      "Mass vaccination and anti-corruption campaigns alongside repression of unions",
-      "Only repression",
-      "No record survives"
-     ],
-     "a": 1,
-     "w": "It lists both. {{lib}}",
-     "kind": "application"
-    },
-    {
-     "t": "take",
-     "i": [
-      "Ujamaa's results are [CONTESTED]: crisis and cohesion both. {{lib}}",
-      "Sankara's government had reforms and repression.",
-      "Settler-colony liberation came later, in 1980 and 1990."
-     ]
-    }
-   ]
-  },
-  {
-   "id": "l5",
-   "title": "Primary voices of independence: how to read them",
-   "min": 24,
-   "blocks": [
     {
      "t": "p",
-     "x": "Independence left a rich record of speeches and manifestos. Each is a political act as well as a source. {{lib}}"
+     "x": "A dock strike in 08/1959 left more than 50 dead, and the party took up arms in 1963. Portuguese troops rose from 1,000 in 1961 to over 30,000 in 1967, yet the PAIGC held two thirds of Guinea. Cabral was killed in 01/1973 and independence was declared on 24/09/1973. {{gha-viii-ch07}}"
+    },
+    {
+     "t": "h",
+     "x": "Reading the leaders' own words"
     },
     {
      "t": "table",
      "title": "Voices from the independence era",
      "head": [
       "Source",
-      "Kind",
-      "What it is good for",
+      "Good for",
       "Limit"
      ],
      "rows": [
       [
        "Lumumba, independence speech (30/06/1960)",
-       "Speech",
-       "How a new leader framed decolonisation as an African achievement",
-       "A single speaker on one day"
+       "How a new leader framed decolonisation",
+       "One speaker on one day"
       ],
       [
        "Nkrumah, I Speak of Freedom",
-       "Collected speeches",
        "The case for political union",
        "Written by the leader about himself"
       ],
       [
-       "Nyerere, Freedom and Socialism",
-       "Essays and speeches",
-       "The aims of ujamaa",
+       "The Arusha Declaration (1967)",
+       "The aims of Tanzanian socialism",
        "Aims, not results"
       ],
       [
-       "Fanon, The Wretched of the Earth (1961)",
-       "Polemic",
-       "An argument that violence was part of decolonisation [CONTESTED]",
-       "Argument, not a record"
-      ],
-      [
-       "Sankara's speeches",
-       "Speeches",
-       "The stated aims of the Burkinabe revolution",
+       "Sankara's UN and OAU speeches",
+       "The stated aims and baseline of the revolution",
        "Stated aims were not the whole record"
       ]
      ],
-     "src": "{{lib}}"
-    },
-    {
-     "t": "callout",
-     "k": "note",
-     "x": "Read the whole text. Lumumba says independence was won by a struggle 'filled with tears, fire and blood', and lists forced labour, insults, unequal law and seized land. He also welcomes the treaty just signed with Belgium and its aid, asks Congolese to put aside tribal quarrels, asks them to respect the lives and property of foreigners, and ends with 'Long live independence and African unity'. He speaks of 'eighty years of colonial rule', which counts from about 1880 (our arithmetic). The version used here is a Moscow translation of 1961, so wording differs between translations. {{lumumba}}"
-    },
-    {
-     "t": "p",
-     "x": "Source note: these books are pointers for further reading, and the table gives their usual use, not a reading of them. {{lib}}"
-    },
-    {
-     "t": "example",
-     "title": "Worked example: aims against results (our application)",
-     "steps": [
-      "Take Nyerere's stated aim: self-reliance and villages.",
-      "Set it against the results in the lesson on Tanzania: compulsory villagisation, falling output, high literacy and national unity.",
-      "The speech tells you the aim. The results come from other sources, so never read the aim as the outcome.",
-      "State both in separate sentences and tag the outcome [CONTESTED]. {{lib}}"
-     ]
+     "src": "{{lumumba}} {{arusha}} {{sankara-un}}"
     },
     {
      "t": "check",
-     "q": "What is a speech by a leader best evidence for?",
+     "q": "A blog presents Sankara's rule as a story of pure success. Which balanced summary should you give instead?",
      "o": [
-      "The leader's stated aims and framing",
-      "The exact results of the policy",
-      "The number of dead",
-      "A neutral verdict"
+      "Only successes",
+      "Mass vaccination and anti-corruption campaigns alongside repression of unions and revolutionary tribunals",
+      "Only repression",
+      "No record survives"
      ],
-     "a": 0,
-     "w": "A speech shows aims, not outcomes. {{lib}}"
+     "a": 1,
+     "w": "Set aims and achievements beside repression. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "A student cites Fanon's The Wretched of the Earth as proof of what happened in Algeria. Why is that a problem?",
+     "q": "A student quotes the Arusha Declaration as proof that ujamaa villages improved farming. What is wrong?",
      "o": [
-      "It argues a position",
-      "It is too short",
-      "It has no author",
-      "It is a treaty"
+      "Nothing",
+      "The Declaration states aims, does not mention villagisation, and cannot show results; output fell under compulsory villagisation",
+      "It was written in 1990",
+      "It is a forgery"
      ],
-     "a": 0,
-     "w": "The library tags his claim about violence [CONTESTED]. {{lib}}",
+     "a": 1,
+     "w": "A founding text shows aims, not outcomes. {{arusha}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Read a speech for aims and framing, not for results. {{lib}}",
-      "Set each aim against evidence of outcome.",
-      "Books named here are pointers, not readings."
+      "Ujamaa's results are [CONTESTED]: crisis and cohesion both; state the criterion first. {{lib}}",
+      "Sankara's government had reforms and repression.",
+      "Settler-colony and Portuguese liberation came late, from 1973 to 1990."
      ]
     }
-   ]
+   ],
+   "id": "l5"
   },
   {
    "id": "l6",

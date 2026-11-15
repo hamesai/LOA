@@ -1,63 +1,150 @@
 /* Post-Colonial Africa: conquest, independence and the struggle for the state (c. 1880 to the present) (module 7). Block types: _template/TEMPLATE.md. */
 (window.COURSE = window.COURSE || {})["africa-post-colonial-7"] = {
- "intro": "The 1990s began with democratic openings and ended in the Rwandan genocide and the Congo wars. Africa then built new continental institutions, faced the Arab Spring in 2011 and produced Africa's newest state, South Sudan, which fell into civil war. This module covers events to October 2026, and the latest are unsettled. Lecturer lens: Nyerere preferred gradual steps to unity over a continental government. We apply that stance to the African Union and ask what states were willing to give up.",
+ "intro": "The 1990s began with democratic openings and ended in the Rwandan genocide and the Congo wars. Africa then built new continental institutions, faced the Arab Spring in 2011 and produced its newest state, South Sudan, which fell into civil war. This module covers events to October 2026, and the latest are unsettled. Lecturer lens: Nyerere preferred gradual steps to unity over a continental government. We apply that stance to the African Union and ask what states were willing to give up.",
  "outcomes": [
-  "Order the key events from the Arusha Accords to South Sudan's independence.",
+  "Explain how the categories Hutu and Tutsi hardened under colonial rule and after independence, without the Hamitic myth.",
+  "Narrate the genocide of 1994, the international failure, and handle the death toll as a range that depends on its baseline.",
   "Explain how the AU's Article 4(h) differs from the OAU's non-interference and name one limit.",
-  "Handle the Rwandan and Congolese death tolls as ranges with methods.",
   "Assess whether the Arab Spring 'failed' in Africa, with criteria.",
   "Mark recent events [check current] and avoid presenting them as settled.",
   "Lecturer's method: Judge an institution against its founding aim and against what members were willing to give up."
  ],
  "lessons": [
   {
-   "id": "l1",
-   "title": "Rwanda, 1994",
+   "title": "Rwanda before 1994: how the categories hardened",
    "min": 30,
    "blocks": [
     {
      "t": "callout",
      "k": "warn",
-     "x": "Content notice: this lesson deals with genocide. The sources are used for understanding. {{lib}}"
+     "x": "Content notice: this lesson and the next deal with genocide. The sources are used for understanding."
+    },
+    {
+     "t": "h",
+     "x": "From social labels to racial categories"
     },
     {
      "t": "p",
-     "x": "German and Belgian rule hardened the categories Hutu, Tutsi and Twa, and Belgium issued identity cards in the 1930s. The 1959 social revolution overthrew the Tutsi monarchy, and many Tutsi fled. The Rwandan Patriotic Front, formed by exiles in Uganda, invaded in 1990. {{lib}}"
+     "x": "'Tutsi' first described a person rich in cattle and 'Hutu' a follower of a more powerful person. {{hrw-rwanda}} Pre-Colonial Africa, Module 6, traces how the hierarchy grew between the seventeenth and nineteenth centuries."
     },
     {
      "t": "p",
-     "x": "Reader sets this inside a wider argument that colonial codification of customary law, chiefs and 'tribal' units created fixed ethnic identities. Specialists agree that colonial rule hardened identities but argue that Tutsi and Hutu categories existed in some form before it [CONTESTED]. {{rd-interwar}}"
+     "x": "German ethnographers gave the Tutsi a supposed Hamitic origin from outside Africa. That was a colonial racial theory, now discredited, and not a fact. {{rd-interwar}}"
     },
     {
-     "t": "callout",
-     "k": "warn",
-     "x": "German ethnographers gave the Tutsi a supposed Hamitic origin from outside Africa. That was a colonial racial theory, now discredited, and not a fact. Tutsi were about 12 to 15 per cent of the population and Hutu about 85 per cent, and the Tutsi share was officially 9 per cent at independence [ESTIMATE]. {{rd-interwar}} {{rd-indep}}"
+     "t": "p",
+     "x": "In the 1920s the Belgians gave office to Tutsi alone and shut Hutu out of higher education, acting on racial theories such as the 'Hamitic hypothesis' rather than on a plan to divide and rule. {{hrw-rwanda}} Hutu had almost no route to higher education except the Catholic seminaries until 1956. {{rd-elite}}"
+    },
+    {
+     "t": "p",
+     "x": "In the 1930s everyone was registered by group, and about 15 per cent declared themselves Tutsi, 84 per cent Hutu and 1 per cent Twa. {{hrw-rwanda}}"
     },
     {
      "t": "callout",
      "k": "note",
-     "x": "Date of the identity cards: Reader says Belgian authorities introduced a card naming 'tribe' in 1926. {{rd-interwar}} Our check against specialist accounts: most Rwanda historians date compulsory ethnic cards to 1933 to 1935, and Human Rights Watch says the popular 'ten cows' rule is not correct for the registration, though 1930s tax rules did distinguish owners of ten or more cattle [CONTESTED]. {{hrw-rwanda}} This course says only that Belgium made ethnic identity a legal category in the 1930s."
+     "x": "The date of the identity cards differs between sources: one survey gives 1926, {{rd-interwar}} while most Rwanda historians date compulsory ethnic cards to the mid-1930s (our check). The popular 'ten cows' rule for registration is not correct, though 1930s tax rules did distinguish owners of ten or more cattle. {{hrw-rwanda}} Say only that Belgium made ethnic identity a legal category in the 1930s."
     },
     {
      "t": "p",
-     "x": "Human Rights Watch (03/1999) describes how the categories hardened. 'Tutsi' first described a person rich in cattle and 'Hutu' a follower of a more powerful person. In the 1920s the Belgians gave office to Tutsi alone and shut Hutu out of higher education, acting on racial theories such as the 'Hamitic hypothesis' rather than on a plan to divide and rule. In the 1930s everyone was registered by group, and about 15 per cent declared themselves Tutsi, 84 per cent Hutu and 1 per cent Twa. Tutsi were said to be 17.5 per cent of the population in 1952 and counted as 8.4 per cent in 1991. {{hrw-rwanda}}"
+     "x": "Colonial codification of chiefs and 'tribal' units created fixed ethnic identities on one reading; specialists agree that colonial rule hardened identities but argue that the categories existed in some form before it [CONTESTED]. {{rd-interwar}}"
+    },
+    {
+     "t": "h",
+     "x": "The revolution of 1959 to 1962"
     },
     {
      "t": "p",
-     "x": "HRW sets out the run-up to 1994. The Belgians turned from the Tutsi in the 1950s, violence in 11/1959 killed several hundred, and in 09/1961 about 80 per cent voted to end the monarchy. About 20,000 Tutsi were killed and over 300,000 fled by 1967. Coffee gave 75 per cent of Rwanda's foreign exchange and its price fell at the end of the 1980s, before World Bank adjustment. HRW says the attack on Kigali on the night of 04/10/1990 was staged, and about 13,000 people were arrested. Habyarimana called the Arusha Accords 'a scrap of paper' on 15/11/1992, and an army memorandum of 21/09/1992 defined 'the enemy' as the Tutsi. {{hrw-rwanda}}"
+     "x": "The Hutu Manifesto of 03/1957 denounced the political monopoly of the Tutsi. {{rd-elite}} The Belgians turned from the Tutsi in the 1950s, and violence in 11/1959 killed several hundred. {{hrw-rwanda}}"
     },
     {
      "t": "p",
-     "x": "UNESCO's volume VIII gives a figure for the violence of 11/1959: 200 to 270 killed, over 1,200 arrests and about 7,000 people made victims of destruction, which is a range beside HRW's 'several hundred'. It dates the Gitarama coup, which deposed the mwami and proclaimed a republic, to 28/01/1961, and says Belgium, breaking with its earlier policy, backed the Hutu. {{gha-viii-ch08}}"
+     "x": "Another count gives 200 to 270 killed in 11/1959, over 1,200 arrests and about 7,000 people made victims of destruction. {{gha-viii-ch08}}"
     },
     {
      "t": "p",
-     "x": "Schooling and posts were reserved for Tutsi under Bishop Classe's policy, and Hutu had almost no route to higher education except the Catholic seminaries until 1956. The Hutu Manifesto of 03/1957 denounced the political monopoly of the Tutsi, and in 12/1958 a proposal to drop the labels from official use was rejected by Hutu leaders as obfuscation. {{rd-elite}}"
+     "x": "In the communal elections of 07/1960 the Parmehutu party won 210 of 229 communes, the republic was declared at Gitarama on 28/01/1961, and independence came on 01/07/1962 with Kayibanda as president. {{rd-indep}} In 09/1961 about 80 per cent voted to end the monarchy. {{hrw-rwanda}}"
     },
     {
      "t": "p",
-     "x": "Belgium then switched sides. Tutsi chiefs were dismissed from early 1960 and about 130,000 Tutsi fled. In the communal elections of 07/1960 the Parmehutu party won 210 of 229 communes, the republic was declared at Gitarama on 28/01/1961, and independence came on 01/07/1962 with Kayibanda as president. Ethnic quotas of 9 per cent applied in schools and jobs. Dates should be checked against a specialist such as Prunier [check]. {{rd-indep}}"
+     "x": "About 20,000 Tutsi were killed and over 300,000 fled by 1967. {{hrw-rwanda}} Ethnic quotas of 9 per cent applied in schools and jobs. {{rd-indep}}"
     },
+    {
+     "t": "h",
+     "x": "The run-up, 1973 to 1993"
+    },
+    {
+     "t": "p",
+     "x": "Habyarimana took power in a coup on 05/07/1973. {{rd-indep}} Coffee gave 75 per cent of Rwanda's foreign exchange and its price fell at the end of the 1980s. {{hrw-rwanda}}"
+    },
+    {
+     "t": "p",
+     "x": "The Rwandan Patriotic Front, formed by exiles in Uganda, invaded in 1990. {{lib}} The attack on Kigali on the night of 04/10/1990 was staged, and about 13,000 people were arrested. {{hrw-rwanda}}"
+    },
+    {
+     "t": "p",
+     "x": "Killings in Kibilira, the north-west and Bugesera from 1990 to 1993 left about 2,000 Tutsi dead, and no one was convicted. {{hrw-rwanda}}"
+    },
+    {
+     "t": "h",
+     "x": "Propaganda prepared in public"
+    },
+    {
+     "t": "p",
+     "x": "The newspaper Kangura attacked the RPF and Tutsi from 10/1990. The radio station RTLM began broadcasting in 08/1993. About 29 per cent of households had a radio in 1991. {{hrw-rwanda}}"
+    },
+    {
+     "t": "p",
+     "x": "Two techniques recur: 'created' events, such as the staged attack on Kigali, and 'accusation in a mirror', blaming the enemy for what one plans. Léon Mugesera's speech of 22/11/1992 called on a party meeting to 'exterminate this scum'. {{hrw-rwanda}}"
+    },
+    {
+     "t": "p",
+     "x": "An army memorandum of 21/09/1992 defined 'the enemy' as the Tutsi. In 07/1991 donors had declined to make removing ethnic classification from identity cards a condition of aid. {{hrw-rwanda}}"
+    },
+    {
+     "t": "p",
+     "x": "The Arusha Accords of 08/1993 gave the RPF 40 per cent of the troops and 50 per cent of the high command. {{rd-indep}} Habyarimana had called the talks' agreements 'a scrap of paper' on 15/11/1992. {{hrw-rwanda}}"
+    },
+    {
+     "t": "check",
+     "q": "A documentary says the genocide came from 'ancient tribal hatred'. Which evidence answers that best?",
+     "o": [
+      "None",
+      "The categories were social labels hardened into legal race by colonial rule, and the killing was prepared through propaganda and organisation from 1990",
+      "Rwanda had no history",
+      "The genocide was spontaneous"
+     ],
+     "a": 1,
+     "w": "Hardened categories and prepared propaganda, not age-old hatred. {{hrw-rwanda}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "A source says the 'ten cows' rule decided who was registered as Tutsi. What should you say?",
+     "o": [
+      "It is right",
+      "It is not correct for registration, though 1930s tax rules did distinguish owners of ten or more cattle",
+      "Cards were never issued",
+      "It was a German rule"
+     ],
+     "a": 1,
+     "w": "Check a popular story against specialist research. {{hrw-rwanda}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Hutu and Tutsi were social labels made into legal categories in the 1930s. {{hrw-rwanda}}",
+      "The Hamitic origin story was a colonial racial theory. {{rd-interwar}}",
+      "The killing was prepared in public from 1990, through propaganda and massacres."
+     ]
+    }
+   ],
+   "id": "l1"
+  },
+  {
+   "title": "The genocide of 1994 and its toll",
+   "min": 32,
+   "blocks": [
     {
      "t": "fig",
      "id": "africa-post-colonial-tl7",
@@ -66,31 +153,51 @@
     },
     {
      "t": "h",
-     "x": "The genocide"
+     "x": "One hundred days"
     },
     {
      "t": "p",
-     "x": "After the Arusha Accords of 04/08/1993, the plane carrying President Habyarimana was shot down on 06/04/1994. Killing began the next day. {{lib}}"
+     "x": "The plane carrying President Habyarimana was shot down on 06/04/1994, and killing began the next day. {{lib}} Who shot down the plane is [CONTESTED], since French and Rwandan inquiries reached different conclusions. {{lib}}"
     },
     {
      "t": "p",
-     "x": "It was organised through the army, the Interahamwe militia, local officials and radio. The RPF took control in July 1994, reaching Kigali on 04/07/1994. {{lib}}"
+     "x": "Orders passed from the prime minister to prefects and burgomasters, who read them out at local meetings, and umuganda communal labour was turned to killing. Machetes were imported in numbers enough to arm every third adult Hutu male. {{hrw-rwanda}}"
     },
     {
      "t": "p",
-     "x": "International failure: ten Belgian peacekeepers were killed on 07/04/1994, Belgium withdrew its troops, and on 21/04/1994 the Security Council voted unanimously to cut the UN force under General Romeo Dallaire from 2,539 to 270 while the killing was known. {{carlsson}} France ran Operation Turquoise in June 1994. In 2021 a French commission found heavy and overwhelming responsibilities in France's policy without finding complicity in the genocide itself. {{lib}}"
+     "x": "In the centre and south many Hutu at first refused to kill and had to be coerced. The genocide was a campaign in which participants were recruited over time, not a spontaneous outburst. {{hrw-rwanda}}"
     },
     {
      "t": "p",
-     "x": "HRW sets out the international failure in more detail than Carlsson. The UN force was one third the size first recommended, and Belgium supplied some 400 of the nearly 1,300 peacekeepers deployed by the end of 12/1993. {{hrw-rwanda-p13}} The US and the UK in 02/1994 refused a stronger mandate that would add cost. Dallaire and other military experts said 5,000 experienced soldiers could have ended the genocide even in the later weeks. Officials avoided the word genocide and spoke of 'chaos' and 'tribal' killing. The second force landed only after the RPF had won. Operation Turquoise used about 2,500 French troops and saved 15,000 to 17,000 lives, but also let genocidal officials flee. About 500 UN peacekeepers protected about twice that number. {{hrw-rwanda}}"
+     "x": "The RPF took Kigali on 04/07/1994, over a million refugees crossed into Zaire by 17/07/1994, and the Government of National Unity was sworn in on 19/07/1994. {{carlsson}}"
+    },
+    {
+     "t": "h",
+     "x": "The international failure"
     },
     {
      "t": "p",
-     "x": "HRW describes the genocide as organised through the state. Orders passed from the prime minister to prefects and burgomasters, who read them out at local meetings, and umuganda communal labour was turned to killing. Machetes were imported in numbers enough to arm every third adult Hutu male. Yet in the centre and south many Hutu at first refused to kill and had to be coerced. The genocide was a campaign in which participants were recruited over time, not a spontaneous outburst, and 'ancient tribal hatred' does not explain it. {{hrw-rwanda}}"
+     "x": "A cable of 11/01/1994 warned of plans to exterminate Tutsi, and its handling was criticised by the UN's own inquiry. {{carlsson}}"
     },
     {
      "t": "p",
-     "x": "HRW's account of the propaganda shows the killing was prepared in public before 1994. The newspaper Kangura attacked the RPF and Tutsi from 10/1990. The radio station RTLM was incorporated in 04/1993 and began broadcasting in 08/1993, with about 50 founders, most from the north. About 29 per cent of households had a radio in 1991 and 66 per cent of Rwandans could read. HRW describes two techniques: 'created' events, such as the faked attack on Kigali, and 'accusation in a mirror', blaming the enemy for what one plans. Léon Mugesera's speech of 22/11/1992 called on a party meeting to 'exterminate this scum'. Killings in Kibilira, the north-west and Bugesera from 1990 to 1993 left about 2,000 Tutsi dead, and no one was convicted. A UN rapporteur called the killings genocide in 08/1993, and in 07/1991 donors had declined to make removing ethnic classification from identity cards a condition of aid. {{hrw-rwanda}}"
+     "x": "The UN force was one third the size first recommended, and the US and the UK in 02/1994 refused a stronger mandate that would add cost. {{hrw-rwanda}}"
+    },
+    {
+     "t": "p",
+     "x": "Ten Belgian peacekeepers were killed on 07/04/1994, Belgium withdrew its troops, and on 21/04/1994 the Security Council voted unanimously to cut the UN force under General Romeo Dallaire from 2,539 to 270 while the killing was known. {{carlsson}}"
+    },
+    {
+     "t": "p",
+     "x": "Dallaire and other military experts said 5,000 experienced soldiers could have ended the genocide even in the later weeks. Officials avoided the word genocide and spoke of 'chaos' and 'tribal' killing. {{hrw-rwanda}}"
+    },
+    {
+     "t": "p",
+     "x": "Operation Turquoise was authorised on 22/06/1994 by 10 votes with 5 abstentions and was not under UN command. {{carlsson}} About 2,500 French troops saved 15,000 to 17,000 lives, but also let genocidal officials flee. {{hrw-rwanda}}"
+    },
+    {
+     "t": "p",
+     "x": "The UN inquiry found the overriding failure was a lack of resources and political will, and called for an apology. {{carlsson}} In 2021 a French commission found heavy and overwhelming responsibilities in France's policy, without finding complicity in the genocide itself. {{lib}}"
     },
     {
      "t": "h",
@@ -98,144 +205,100 @@
     },
     {
      "t": "table",
-     "title": "Rwanda: death-toll estimates",
+     "title": "Rwanda: death-toll estimates and their baselines",
      "head": [
       "Figure",
       "Source",
-      "Note"
+      "Baseline or method"
      ],
      "rows": [
-      [
-       "At least 500,000 and perhaps close to a million",
-       "Several secondary estimates [ESTIMATE, CONTESTED]",
-       "Rwanda's own census is higher than some independent estimates"
-      ],
       [
        "1,074,017",
-       "The post-genocide government's count, as reported",
-       "A 2020 symposium found it not credible because it overestimates the pre-genocide Tutsi population"
+       "The post-genocide government's count {{wiki-rwanda}}",
+       "Found not credible in 2020, because it overestimates the pre-genocide Tutsi population"
       ],
       [
-       "About 507,000",
-       "Human Rights Watch field research, as reported",
-       "Independent estimate"
-      ],
-      [
-       "500,000 to 600,000",
-       "Scholars in the 2020 symposium",
-       "About two-thirds of the Tutsi population"
-      ]
-     ],
-     "src": "{{lib}} {{wiki-rwanda}}"
-    },
-    {
-     "t": "table",
-     "title": "Reader's reckoning beside the others",
-     "head": [
-      "Source",
-      "Figure",
-      "Method"
-     ],
-     "rows": [
-      [
-       "UN Independent Inquiry (Carlsson), 15/12/1999",
        "Approximately 800,000",
-       "Stated without a method"
+       "UN Independent Inquiry, 15/12/1999 {{carlsson}}",
+       "Stated without a method; may include deaths from other causes"
       ],
       [
-       "UN figure as reported by Reader",
-       "500,000, which Reader says may be conservative",
-       "Reader's report of a 'definitive' UN estimate"
+       "800,000 to 850,000 Tutsi",
+       "Reader {{rd-indep}}",
+       "A Tutsi population of about 930,000, less about 130,000 survivors"
       ],
       [
-       "Reader",
-       "800,000 to 850,000 Tutsi plus 10,000 to 30,000 Hutu",
-       "Subtracting survivors, no more than about 130,000, from a Tutsi population of about 930,000"
+       "About 507,000, or 77 per cent of the Tutsi",
+       "Human Rights Watch {{hrw-rwanda}}",
+       "657,000 Tutsi from the 1991 census, less about 150,000 survivors; HRW says the census undercounts Tutsi"
       ],
       [
-       "Symposium author (above)",
        "About 491,000 to 522,000 Tutsi",
-       "A pre-genocide Tutsi baseline of 800,000"
+       "A 2020 symposium author {{wiki-rwanda}}",
+       "An 800,000 baseline, less 278,000 to 309,000 survivors"
       ]
      ],
-     "src": "{{carlsson}} {{rd-indep}}"
+     "src": "{{carlsson}} {{hrw-rwanda}} {{rd-indep}} {{wiki-rwanda}}"
     },
     {
-     "t": "table",
-     "title": "Human Rights Watch's reckoning (03/1999)",
-     "head": [
-      "Item",
-      "Figure",
-      "Note"
-     ],
-     "rows": [
-      [
-       "Tutsi population before 06/04/1994",
-       "657,000 (Seltzer, extrapolated from the 1991 census)",
-       "Lower than Reader's 930,000; HRW says some Tutsi registered as Hutu, so the true baseline is higher"
-      ],
-      [
-       "Tutsi survivors",
-       "About 150,000",
-       "130,000 alive in 07/1994 (Prunier) plus perhaps 20,000 abroad"
-      ],
-      [
-       "Killed",
-       "About 507,000, or 77 per cent",
-       "Our arithmetic: 657,000 less 150,000, and 507,000 over 657,000"
-      ],
-      [
-       "HRW's conclusion",
-       "At least half a million, about three quarters of the Tutsi",
-       "A UN expert's 800,000 also counted deaths from other causes"
-      ]
-     ],
-     "src": "{{hrw-rwanda}}"
+     "t": "example",
+     "title": "Worked example: the baseline decides the toll (our arithmetic)",
+     "steps": [
+      "HRW: 657,000 before, about 150,000 survivors, so about 507,000 dead, which is 507,000 over 657,000, about 77 per cent.",
+      "Reader: 930,000 before, about 130,000 survivors, so about 800,000 dead, which is 86 per cent.",
+      "The two baselines differ by 273,000 (930,000 minus 657,000), and that difference drives most of the gap between the tolls.",
+      "Write: at least half a million and perhaps 800,000 or more, depending on the pre-genocide Tutsi population [ESTIMATE, CONTESTED]."
+     ]
     },
     {
      "t": "p",
-     "x": "HRW also warns that tolls at single sites vary by a factor of ten or more. At Bisesero as many as 50,000 were said to have died, against a list of just over 5,100 names. The baseline problem is the same as in the table above: 657,000 against Reader's 930,000 differs by 273,000 (our arithmetic). {{hrw-rwanda}}"
+     "x": "Tolls at single sites vary by a factor of ten or more: at Bisesero as many as 50,000 were said to have died, against a list of just over 5,100 names. {{hrw-rwanda}}"
     },
     {
      "t": "callout",
      "k": "note",
-     "x": "HRW also documents grave RPF violations of humanitarian law in 1994. Robert Gersony of the UN High Commissioner for Refugees estimated 25,000 to 45,000 killed by the RPF between 04/1994 and 08/1994, and the UN agreed to suppress his report in 09/1994. Seth Sendashonga, a former RPF minister, put the toll at about 60,000 to 08/1995. HRW says it has too little data to confirm either figure, though they are likelier than claims of hundreds of thousands. HRW contrasts them with the genocidal authorities' campaign, which ran through the whole machinery of the state and sought to involve every Hutu citizen; the RPF ran a military campaign. Both sets of crimes are recorded. {{hrw-rwanda}}"
+     "x": "The RPF also committed grave violations in 1994. A UNHCR investigator estimated 25,000 to 45,000 killed by the RPF between 04/1994 and 08/1994, and the UN agreed to suppress his report in 09/1994. HRW says it has too little data to confirm the figure, and contrasts the genocidal campaign, which ran through the whole machinery of the state, with the RPF's military campaign. Both sets of crimes are recorded. {{hrw-rwanda}}"
     },
     {
-     "t": "example",
-     "title": "Worked example: checking a ratio (our arithmetic)",
-     "steps": [
-      "Reader's baseline: 930,000 Tutsi before, about 130,000 alive after, so 800,000 dead, which is 86 per cent of the Tutsi.",
-      "Deaths per survivor: 800,000 divided by 130,000 is about 6.2, and 850,000 divided by 130,000 is about 6.5.",
-      "So his sentence that seven died for every survivor is rounded up; about six is what his numbers give.",
-      "{{rd-indep}} The baseline decides the answer: 930,000 against 800,000 moves the toll by 130,000 (our arithmetic). State the range, 500,000 to 800,000 or more [ESTIMATE, CONTESTED] (our inference)."
-     ]
+     "t": "h",
+     "x": "Who can tell us what"
     },
     {
-     "t": "p",
-     "x": "The UN's own Independent Inquiry (the Carlsson report, 15/12/1999) opens by saying that approximately 800,000 people were killed in about 100 days, and it states the figure without a method. It found the overriding failure was a lack of resources and political will among the Secretary-General, Secretariat, Security Council, UNAMIR and member states, criticised the handling of the cable of 11/01/1994 that warned of plans to exterminate Tutsi, and called for an apology. {{carlsson}}"
-    },
-    {
-     "t": "p",
-     "x": "The inquiry's chronology matches the course: the Arusha Accords of 04/08/1993, UNAMIR created on 05/10/1993, the plane crash on 06/04/1994, the RPF capture of Kigali on 04/07/1994, over a million refugees crossing into Zaire by 17/07/1994 and the Government of National Unity sworn in on 19/07/1994. Operation Turquoise was authorised on 22/06/1994 by 10 votes with 5 abstentions, and was not under UN command. {{carlsson}}"
-    },
-    {
-     "t": "example",
-     "title": "Worked example: a baseline subtraction (our arithmetic, from a symposium author's figures as quoted)",
-     "steps": [
-      "One author estimated about 800,000 Tutsi before the genocide and between 278,000 and 309,000 survivors.",
-      "800,000 minus 309,000 is 491,000. 800,000 minus 278,000 is 522,000.",
-      "So the Tutsi death toll is between about 491,000 and 522,000, close to the 'two-thirds' statement (491,000 divided by 800,000 is about 61 per cent; 522,000 divided by 800,000 is about 65 per cent).",
-      "The method matters: the result depends on the baseline and on the survivor count. {{wiki-rwanda}}"
-     ]
-    },
-    {
-     "t": "p",
-     "x": "Who shot down the plane is [CONTESTED], since French and Rwandan inquiries reached different conclusions. UN and human rights bodies have documented RPF killings in and after 1994, such as at Kibeho in 1995. The present government's limits on political space are widely criticised, and the government rejects the criticism [CONTESTED]. {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "Reader gives the run-up: a raid from Burundi on 23/12/1963 was followed by Hutu killings of an estimated 10,000 Tutsi, Habyarimana's coup came on 05/07/1973, and the RPF invaded in 10/1990. A commission put the deaths from 10/1990 to 01/1993 at about 2,000, with violence 'privatised' through militias. The Arusha Accords of 08/1993 gave the RPF 40 per cent of the troops and 50 per cent of the high command. He says the downing of the plane has never been fully explained. Over a million fled into Zaire within a week of the RPF taking Gisenyi on 18/07/1994. {{rd-indep}}"
+     "t": "table",
+     "title": "Kinds of voice on Rwanda",
+     "head": [
+      "Source",
+      "Kind",
+      "What it shows",
+      "Limit"
+     ],
+     "rows": [
+      [
+       "Scholastique Mukasonga, Cockroaches",
+       "Survivor memoir",
+       "Lived experience and loss",
+       "One person's account"
+      ],
+      [
+       "Jean Hatzfeld, Machete Season",
+       "Interviews with perpetrators",
+       "How participants explain themselves",
+       "Self-serving accounts are possible"
+      ],
+      [
+       "Alison Des Forges and Human Rights Watch, Leave None to Tell the Story",
+       "Human-rights research",
+       "Organisation and responsibility {{hrw-rwanda}}",
+       "A reconstruction"
+      ],
+      [
+       "Mahmood Mamdani, When Victims Become Killers",
+       "Analytical argument",
+       "The colonial-legacy argument [CONTESTED]",
+       "One interpretation among several"
+      ]
+     ],
+     "src": "{{lib}} {{hrw-rwanda}}"
     },
     {
      "t": "check",
@@ -247,35 +310,36 @@
       "It counts only Hutu"
      ],
      "a": 0,
-     "w": "The 2020 symposium's finding, as reported. {{wiki-rwanda}}",
+     "w": "The baseline is too high. {{wiki-rwanda}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which date did the RPF reach Kigali?",
+     "q": "You want to explain why ordinary people took part in the killing. Which sources answer that best, and with what caution?",
      "o": [
-      "04/07/1994",
-      "06/04/1994",
-      "04/08/1993",
-      "09/07/2002"
+      "A single memoir",
+      "Perpetrator interviews and human-rights research on coercion and recruitment, remembering that participants may excuse themselves",
+      "A radio schedule",
+      "Census tables"
      ],
-     "a": 0,
-     "w": "Per the library. {{lib}}"
+     "a": 1,
+     "w": "Match the voice to the question, and know its limit. {{hrw-rwanda}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "The genocide began after the plane was shot down on 06/04/1994. {{lib}}",
-      "The toll is 500,000 to nearly a million or a little over, depending on baseline [ESTIMATE, CONTESTED].",
-      "Some points, such as who shot down the plane, are [CONTESTED]."
+      "The genocide was organised through the state from 07/04/1994. {{hrw-rwanda}}",
+      "The UN cut its force while the killing was known. {{carlsson}}",
+      "The toll is at least half a million, and higher on a larger baseline [ESTIMATE, CONTESTED]."
      ]
     }
-   ]
+   ],
+   "id": "l2"
   },
   {
-   "id": "l2",
    "title": "Justice, the Congo wars and the African Union",
-   "min": 30,
+   "min": 28,
    "blocks": [
     {
      "t": "h",
@@ -284,6 +348,10 @@
     {
      "t": "p",
      "x": "The International Criminal Tribunal for Rwanda, from 1994 in Arusha, tried senior leaders. Rwanda's gacaca community courts (2002 to 2012) handled well over a million cases. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "UN and human rights bodies have documented RPF killings after 1994, such as at Kibeho in 1995. The present government's limits on political space are widely criticised, and the government rejects the criticism [CONTESTED]. {{lib}}"
     },
     {
      "t": "h",
@@ -295,12 +363,16 @@
     },
     {
      "t": "p",
-     "x": "The Second Congo War (1998 to 2003) drew in about nine states and many armed groups. Deaths from violence, hunger and disease are given at several million [ESTIMATE, CONTESTED]. The widely cited International Rescue Committee figure of about 5.4 million excess deaths has been criticised for method. Fighting in the east continues [check current]. {{lib}}"
+     "x": "The Second Congo War (1998 to 2003) drew in about nine states and many armed groups. Deaths from violence, hunger and disease are given at several million [ESTIMATE, CONTESTED]. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "The widely cited International Rescue Committee figure of about 5.4 million excess deaths has been criticised for method. Fighting in the east continues [check current]. {{lib}}"
     },
     {
      "t": "callout",
      "k": "note",
-     "x": "Hochschild's afterword gives only 'a million or more' for the Congo wars, an early figure, and he explains Africa's troubles partly through the position of women, hero worship of strongmen and a long history of indigenous slavery. These are his interpretations in a popular history and not a mainstream consensus among Africanists. Do not adopt them as course fact. {{hs-after}}"
+     "x": "An early popular history gives only 'a million or more' for the Congo wars and explains Africa's troubles partly by hero worship of strongmen and a long history of indigenous slavery. These are one author's interpretations, not a consensus. {{hs-after}}"
     },
     {
      "t": "h",
@@ -331,11 +403,11 @@
       ],
       [
        "Goals",
-       "Sovereignty and borders",
+       "Sovereignty and independence",
        "Agenda 2063 (adopted 2015); African Continental Free Trade Area trading from 01/01/2021"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{lib}} {{oau-charter}}"
     },
     {
      "t": "p",
@@ -345,20 +417,20 @@
      "t": "example",
      "title": "Worked example: from principle to practice",
      "steps": [
-      "Article 4(h) lets the Union intervene in grave circumstances. The OAU barred interference.",
+      "Article 4(h) lets the Union intervene in grave circumstances; the OAU barred interference.",
       "Ask how often the clause has been used, who pays, and which states vote for it.",
-      "A limit in practice is that suspension of states after coups is the usual tool, and money and member-state reluctance restrict action.",
-      "Say: the principle changed more than the practice did [CONTESTED]. {{lib}}"
+      "The usual tool in practice is suspension of states after coups, and money and member-state reluctance restrict action.",
+      "Say: the principle changed more than the practice did [CONTESTED]."
      ]
     },
     {
      "t": "check",
      "q": "In 2003 a member state begins killing a minority. Under the OAU's rules and under the AU's Article 4(h), what could each organisation do?",
      "o": [
-      "It allows intervention in grave cases such as genocide",
-      "It bans all intervention",
-      "It created borders",
-      "It ended the Cold War"
+      "The OAU barred interference; the AU may intervene in grave cases such as genocide, though money and reluctance limit it",
+      "Both could intervene freely",
+      "Neither could act at all",
+      "Only the OAU could act"
      ],
      "a": 0,
      "w": "That is the break from non-interference. {{lib}}",
@@ -368,13 +440,13 @@
      "t": "check",
      "q": "A speaker cites 5.4 million deaths in the Congo wars as settled fact. What should you add?",
      "o": [
-      "It has been criticised for method",
-      "It is exactly confirmed",
-      "It excludes Congo",
-      "It was a census"
+      "That it is an excess-death estimate criticised for method, so give it as one estimate",
+      "That it is exactly confirmed",
+      "That it excludes Congo",
+      "That it was a census"
      ],
      "a": 0,
-     "w": "That is the lesson's point. {{lib}}",
+     "w": "Name the method behind a toll. {{lib}}",
      "kind": "application"
     },
     {
@@ -385,12 +457,12 @@
       "AU enforcement is limited by money and reluctance."
      ]
     }
-   ]
+   ],
+   "id": "l3"
   },
   {
-   "id": "l3",
    "title": "The Arab Spring in Africa",
-   "min": 26,
+   "min": 24,
    "blocks": [
     {
      "t": "p",
@@ -439,7 +511,7 @@
       "Statement: the Arab Spring failed in Africa.",
       "Criteria: regime change, democratic outcome, stability, rights.",
       "Tunisia: change and a democratic opening, then rollback. Egypt: change, then new authoritarianism. Libya: change, then conflict and fragmentation.",
-      "Verdict: mixed. It succeeded on removing rulers, failed on stable democracy in most cases, and later movements show that the process continued [CONTESTED]. {{lib}}"
+      "Verdict: mixed. It succeeded on removing rulers, failed on stable democracy in most cases, and later movements show that the process continued [CONTESTED]."
      ]
     },
     {
@@ -448,7 +520,20 @@
     },
     {
      "t": "check",
-     "q": "Which country's uprising led to a UN Security Council Resolution 1973?",
+     "q": "A pundit says 'the Arab Spring failed everywhere'. Using criteria, what is the better verdict?",
+     "o": [
+      "Agree",
+      "Mixed: rulers were removed, but stable democracy failed in most cases, and the 2019 movements in Algeria and Sudan continued the process",
+      "It succeeded everywhere",
+      "It never happened in Africa"
+     ],
+     "a": 1,
+     "w": "Name criteria before giving a verdict. {{lib}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "Which country's uprising led to UN Security Council Resolution 1973 and NATO air strikes?",
      "o": [
       "Libya",
       "Tunisia",
@@ -456,19 +541,8 @@
       "Algeria"
      ],
      "a": 0,
-     "w": "Resolution 1973 (March 2011) authorised protection of civilians. {{lib}}"
-    },
-    {
-     "t": "check",
-     "q": "What should a verdict on the Arab Spring state first?",
-     "o": [
-      "The criteria used",
-      "A slogan",
-      "A date",
-      "A flag"
-     ],
-     "a": 0,
-     "w": "A defensible verdict names criteria. {{lib}}"
+     "w": "Resolution 1973 (March 2011) authorised protection of civilians. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -478,17 +552,17 @@
       "Later movements in Algeria and Sudan matter [check current]."
      ]
     }
-   ]
+   ],
+   "id": "l4"
   },
   {
-   "id": "l4",
    "title": "Sudan, South Sudan and the unsettled present",
-   "min": 30,
+   "min": 26,
    "blocks": [
     {
      "t": "callout",
      "k": "warn",
-     "x": "Everything in this lesson is [check current]. It reflects what the library's builder read on the cited dates; we did not reopen those pages. Treat it as a snapshot. {{lib}}"
+     "x": "Everything in this lesson is [check current]. Source note: these sentences reflect sources read on the dates given and not reopened since. Treat them as a snapshot."
     },
     {
      "t": "h",
@@ -500,11 +574,15 @@
     },
     {
      "t": "p",
+     "x": "Pre-Colonial Africa, Module 2, shows that the north-south line had long been a shifting zone of identity rather than a fixed racial frontier."
+    },
+    {
+     "t": "p",
      "x": "Civil war began in December 2013 between President Salva Kiir and Riek Machar. Deaths are estimated in the hundreds of thousands, with one study putting it at about 400,000 by 2018 [ESTIMATE]. {{lib}}"
     },
     {
      "t": "p",
-     "x": "As reported by the library, in September 2026 Kiir dissolved the transitional government, Machar is detained and on trial, and elections are scheduled for 22/12/2026 [check current]. {{lib}}"
+     "x": "In September 2026 Kiir dissolved the transitional government; Machar is detained and on trial, and elections are scheduled for 22/12/2026 [check current]. {{lib}}"
     },
     {
      "t": "h",
@@ -516,7 +594,7 @@
     },
     {
      "t": "p",
-     "x": "A UN news item of 21/10/2026 says the war between the army and the RSF, former allies in a 2021 coup, is in its fourth year, that almost 34 million people need humanitarian support and eight million children are out of school, and that the sixth round of consultative talks in Geneva had neither belligerent present. It gives no death toll. Treat it as a dated snapshot [check current]. {{dppa-sudan}}"
+     "x": "A UN news item of 21/10/2026 says the war between the army and the RSF, former allies in a 2021 coup, is in its fourth year, that almost 34 million people need humanitarian support and eight million children are out of school, and that the sixth round of consultative talks in Geneva had neither belligerent present. It gives no death toll [check current]. {{dppa-sudan}}"
     },
     {
      "t": "h",
@@ -533,33 +611,34 @@
       "As of 30/10/2026, South Sudan's elections were scheduled for 22/12/2026 [check current].",
       "From 30/10/2026 to 22/12/2026 is 53 days (1 day to the end of October plus 30 days of November plus 22 days of December).",
       "A scheduled date 53 days away may move; treat it as 'scheduled' and not as 'will happen'.",
-      "Label each present-tense sentence with its date and [check current]. {{lib}}"
+      "Label each present-tense sentence with its date and [check current]."
      ]
     },
     {
      "t": "check",
      "q": "You are writing a lesson on South Sudan's elections using sources read last month. Why must you mark it [check current]?",
      "o": [
-      "Because they may have changed since the date the sources were read",
+      "Because events may have changed since the date the sources were read",
       "Because they are fictional",
       "Because they are exact",
       "Because they ended long ago"
      ],
      "a": 0,
-     "w": "The library's rule. {{lib}}",
+     "w": "Date every present-tense claim. {{lib}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "When did South Sudan become independent?",
+     "q": "A UN item gives 34 million in need but no death toll for Sudan's war. Another source says over 200,000 have died. How should you write it?",
      "o": [
-      "09/07/2011",
-      "09/01/2005",
-      "01/01/2021",
-      "22/12/2026"
+      "Use the UN figure for deaths",
+      "Give the need figure from the UN and the death estimate from aid workers, each with its date and source, both [check current]",
+      "Average them",
+      "Leave Sudan out"
      ],
-     "a": 0,
-     "w": "After a January 2011 referendum. {{lib}}"
+     "a": 1,
+     "w": "Keep figures with their source and date. {{dppa-sudan}} {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -569,114 +648,8 @@
       "Do not state the situation in Sudan or South Sudan as settled."
      ]
     }
-   ]
-  },
-  {
-   "id": "l5",
-   "title": "Voices on Rwanda and the Congo: survivors, perpetrators and analysts",
-   "min": 28,
-   "blocks": [
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "Content notice: these sources deal with genocide. They are listed for understanding. {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "Rwanda is known through survivors' writing, interviews with perpetrators, human-rights research and analysts' arguments. Each answers a different question. {{lib}}"
-    },
-    {
-     "t": "table",
-     "title": "Kinds of voice on Rwanda",
-     "head": [
-      "Source",
-      "Kind",
-      "What it shows",
-      "Limit"
-     ],
-     "rows": [
-      [
-       "Scholastique Mukasonga, Cockroaches",
-       "Survivor memoir",
-       "Lived experience and loss",
-       "One person's account"
-      ],
-      [
-       "Jean Hatzfeld, Machete Season",
-       "Interviews with perpetrators",
-       "How participants explain themselves",
-       "Self-serving accounts are possible"
-      ],
-      [
-       "Alison Des Forges, Leave None to Tell the Story",
-       "Human-rights research",
-       "Organisation and responsibility",
-       "A reconstruction"
-      ],
-      [
-       "Mahmood Mamdani, When Victims Become Killers",
-       "Analytical argument",
-       "The colonial legacy argument [CONTESTED]",
-       "One interpretation among several"
-      ],
-      [
-       "Scott Straus, The Order of Genocide",
-       "Analytical study",
-       "How killing was ordered",
-       "Limited by interview access"
-      ]
-     ],
-     "src": "{{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "Source note: these books are pointers for further reading, and the table gives their usual use, not a reading of them. {{lib}}"
-    },
-    {
-     "t": "example",
-     "title": "Worked example: choosing a voice for a question (our application)",
-     "steps": [
-      "Question: why did people take part?",
-      "Perpetrator interviews show how participants explain themselves. Analysts weigh pressure, fear, orders and belief.",
-      "Question: what was it like to survive? A survivor memoir answers that.",
-      "Do not use one kind of voice to answer a different kind of question. {{lib}}"
-     ]
-    },
-    {
-     "t": "check",
-     "q": "You want to explain how the Rwandan genocide was organised. Which kind of source answers that best?",
-     "o": [
-      "Human-rights research and analytical studies",
-      "A single memoir",
-      "A slogan",
-      "An advertisement"
-     ],
-     "a": 0,
-     "w": "Des Forges and Straus are named for this. {{lib}}",
-     "kind": "application"
-    },
-    {
-     "t": "check",
-     "q": "You are quoting a perpetrator's interview about why he killed. Why must it be used carefully?",
-     "o": [
-      "Participants may excuse themselves",
-      "They are always false",
-      "They give exact tolls",
-      "They are anonymous treaties"
-     ],
-     "a": 0,
-     "w": "Each voice has its own limit. {{lib}}",
-     "kind": "application"
-    },
-    {
-     "t": "take",
-     "i": [
-      "Match each voice to the question it can answer. {{lib}}",
-      "Survivor, perpetrator and analyst voices differ.",
-      "The books named were not read."
-     ]
-    }
-   ]
+   ],
+   "id": "l5"
   },
   {
    "id": "l6",

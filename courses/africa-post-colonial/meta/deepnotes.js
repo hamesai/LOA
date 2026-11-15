@@ -1,7 +1,7 @@
 /* Notes tab, 'Behind this module' (africa-post-colonial), keyed by module key. place, skills [type, text], benefit, style, stumble, connects. */
 Object.assign(window.COURSE_DEEP = window.COURSE_DEEP || {}, {
  "africa-post-colonial-1": {
-  "place": "It comes first because every later case needs the habit of treating figures as ranges.",
+  "place": "It comes first because it picks up where Pre-Colonial Africa ends, at Berlin, and every later case needs the habit of treating figures as ranges.",
   "skills": [
    [
     "Know",
@@ -38,7 +38,7 @@ Object.assign(window.COURSE_DEEP = window.COURSE_DEEP || {}, {
    ]
   ],
   "benefit": "You can compare three disputed tolls without averaging them.",
-  "style": "Three cases then a comparison practice lesson.",
+  "style": "Three cases, the wider pattern of resistance, then a comparison practice lesson.",
   "stumble": "Averaging three different tolls.",
   "connects": "The voices-and-records habit feeds the capstone."
  },
@@ -59,7 +59,7 @@ Object.assign(window.COURSE_DEEP = window.COURSE_DEEP || {}, {
    ]
   ],
   "benefit": "You can test any striking document before you repeat it.",
-  "style": "History then a source-criticism case study with worked arithmetic.",
+  "style": "Pan-African history, interwar nationalism inside Africa, then a source-criticism case study with worked arithmetic.",
   "stumble": "Repeating a viral quotation without testing it.",
   "connects": "The four tests return in the capstone."
  },
@@ -80,7 +80,7 @@ Object.assign(window.COURSE_DEEP = window.COURSE_DEEP || {}, {
    ]
   ],
   "benefit": "You can contrast independence paths and judge a project by its aims and results.",
-  "style": "Cases, then a lesson on primary voices.",
+  "style": "Cases, each read with its leaders' own words.",
   "stumble": "Writing leaders only as heroes or villains.",
   "connects": "Criteria-first verdicts return in Modules 5 to 7."
  },
@@ -122,7 +122,7 @@ Object.assign(window.COURSE_DEEP = window.COURSE_DEEP || {}, {
    ]
   ],
   "benefit": "You can argue a multi-cause answer from evidence.",
-  "style": "Three mechanisms and a causes practice lesson.",
+  "style": "Three mechanisms, three rival documents, and a practice lesson pairing witnesses with analysts.",
   "stumble": "Treating adjustment as the only cause.",
   "connects": "Causal testing feeds the capstone."
  },

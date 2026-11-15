@@ -1,18 +1,18 @@
 /* Post-Colonial Africa: conquest, independence and the struggle for the state (c. 1880 to the present) (module 6). Block types: _template/TEMPLATE.md. */
 (window.COURSE = window.COURSE || {})["africa-post-colonial-6"] = {
- "intro": "Within a decade or two of independence many African states faced coups, civil wars and economic crisis. Three cases show different mechanisms: a secessionist war (Biafra), a revolutionary military regime (Ethiopia's Derg) and a shock from debt and adjustment programmes. Each is a field of argument about causes and responsibility. Lecturer lens: Achebe (1930 to 2013) was a Nigerian novelist who served Biafra as an envoy. We borrow one habit: place the witness beside the numbers, and say what each adds and what each lacks.",
+ "intro": "Within a decade or two of independence many African states faced coups, civil wars and economic crisis. Three cases show different mechanisms: a secessionist war (Biafra), a revolutionary military regime (Ethiopia's Derg) and a shock from debt and adjustment programmes. Each is a field of argument about causes and responsibility, and each is known through witnesses, analysts and documents that answer different questions. Lecturer lens: Achebe (1930 to 2013) was a Nigerian novelist who served Biafra as an envoy. We borrow one habit: place the witness beside the numbers, and say what each adds and what each lacks.",
  "outcomes": [
-  "Explain the Biafran War, the Derg and structural adjustment in order.",
-  "Say why the Biafran death toll is uncertain and give two reasons for the range.",
-  "Test the claim 'structural adjustment caused Africa's poverty'.",
-  "Compare how wide the uncertainty ranges are across the cases.",
+  "Explain the Biafran War and say why its death toll is a wide range.",
+  "Explain the Derg's rise and fall, and why its famine was political as well as natural.",
+  "Compare the Lagos Plan, the Berg Report and Sankara's debt speech as diagnoses of the crisis.",
+  "Test the claim 'structural adjustment caused Africa's poverty', and check an author's numbers before using them.",
+  "Pair a witness with an analyst and an official document, and say what each can answer.",
   "Lecturer's method: Read a witness and a historian together, and mark which questions each can answer."
  ],
  "lessons": [
   {
-   "id": "l1",
    "title": "The Biafran War (1967 to 1970)",
-   "min": 26,
+   "min": 28,
    "blocks": [
     {
      "t": "p",
@@ -34,24 +34,32 @@
     },
     {
      "t": "p",
-     "x": "Reader adds detail. The majors' coup killed Prime Minister Balewa, Akintola and the Sardauna of Sokoto, six of seven conspirators were Igbo, and no Igbo politician was killed. General Ironsi led the military regime that followed, and after the counter-coup further pogroms drove more than a million refugees to the east by the end of 1966. {{rd-indep}}"
+     "x": "The majors' coup killed Prime Minister Balewa, Akintola and the Sardauna of Sokoto; six of seven conspirators were Igbo, and no Igbo politician was killed. After the counter-coup, pogroms drove more than a million refugees to the east by the end of 1966. {{rd-indep}}"
+    },
+    {
+     "t": "p",
+     "x": "The anti-Igbo killings in the north killed thousands, with figures that vary widely [ESTIMATE]. {{lib}}"
     },
     {
      "t": "callout",
      "k": "note",
-     "x": "Rodney argues that the war was not an age-old tribal conflict, and that tribalism was produced by colonial administration and regional separation. That is the colonial construction view, which specialists qualify: pre-colonial identities existed but colonial rule hardened them [CONTESTED]. The 1966 anti-Igbo pogroms are well documented, so his claim that no Hausa massacre of Igbo occurred concerns pre-colonial times only. {{rod-colonial}} {{rd-indep}}"
+     "x": "Rodney argues the war was not an age-old tribal conflict, and that tribalism was produced by colonial administration and regional separation. Specialists qualify this: pre-colonial identities existed but colonial rule hardened them [CONTESTED]. {{rod-colonial}}"
     },
     {
      "t": "p",
-     "x": "In 1966 anti-Igbo killings in the north killed thousands, with figures that vary widely [ESTIMATE], and drove Igbo to the east. {{lib}}"
+     "x": "Lt Col Odumegwu Ojukwu declared the Republic of Biafra on 30/05/1967. The federal government blockaded Biafra, and the war ended with surrender in January 1970. {{lib}}"
     },
     {
      "t": "p",
-     "x": "Lt Col Odumegwu Ojukwu declared the Republic of Biafra on 30/05/1967. The federal government blockaded Biafra. The war ended with surrender in January 1970. {{lib}}"
+     "x": "The war ended after thirty months with an amnesty for all who had fought; rebels were reabsorbed in the federal army and Igbo civil servants and property restored. {{rd-indep}}"
+    },
+    {
+     "t": "h",
+     "x": "A world war in microcosm"
     },
     {
      "t": "p",
-     "x": "Reader says the war ended in 01/1970 after thirty months, with an amnesty for all who had fought, rebels reabsorbed in the federal army and Igbo civil servants and property restored. He does not give a toll, so the range above stands on other sources. Elections for civilian rule were later annulled when Chief Abiola won, and Nigeria's income per head was only 310 US dollars in 1993. {{rd-indep}}"
+     "x": "The war drew in outside powers: French support for Biafra against British support for Nigeria, Egyptian pilots on the federal side, and Soviet arms for Nigeria. Several of these alignments are given without sources [CONTESTED]. {{gha-viii-ch01}}"
     },
     {
      "t": "h",
@@ -59,19 +67,7 @@
     },
     {
      "t": "p",
-     "x": "Starvation killed many civilians. Estimates run from about 500,000 to over 2 million [ESTIMATE, CONTESTED]. {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "The encyclopaedia page we opened gives about 100,000 overall military casualties and between 500,000 and 2 million Biafran civilians dead of starvation. It also says up to a million may have died in all. {{wiki-biafra}}"
-    },
-    {
-     "t": "p",
-     "x": "Relief flights and a publicity campaign drew global attention and fed the humanitarian movement, including the founding of Medecins Sans Frontieres by doctors who had worked in Biafra. {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "The introduction to UNESCO's volume VIII (Mazrui) calls the war a world war in microcosm: French support for Biafra against British support for Nigeria, Egyptian pilots on the federal side, Chinese and white-minority support for Biafra against Soviet arms for Nigeria. It also says Czech Delfin jets, banned by Prague in 05/1968, were delivered after the Warsaw Pact invasion that August. It gives no sources for several of these alignments, so treat them as contested [CONTESTED]. The volume was completed in 1989. {{gha-viii-ch01}}"
+     "x": "Starvation killed many civilians. About 100,000 military casualties and between 500,000 and 2 million Biafran civilians dead of starvation are the usual figures [ESTIMATE, CONTESTED]. {{wiki-biafra}} {{lib}}"
     },
     {
      "t": "table",
@@ -101,6 +97,20 @@
      "src": "{{lib}}"
     },
     {
+     "t": "example",
+     "title": "Worked example: how wide is the range? (our arithmetic)",
+     "steps": [
+      "The civilian toll runs from 500,000 to 2,000,000.",
+      "2,000,000 divided by 500,000 is 4, so the top is four times the bottom.",
+      "A range that wide means the headline is not a measurement; it states how little is known.",
+      "Write: 'between half a million and two million, depending on method'. {{wiki-biafra}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Relief flights and a publicity campaign drew global attention and fed the humanitarian movement, including the founding of Medecins Sans Frontieres by doctors who had worked in Biafra. {{lib}}"
+    },
+    {
      "t": "h",
      "x": "Genocide?"
     },
@@ -110,29 +120,19 @@
     },
     {
      "t": "p",
-     "x": "The page we opened also reports an author who argues that French intelligence helped introduce the genocide theme to the public through a Geneva press service. Treat that as one contested claim, not as settled. {{wiki-biafra}}"
-    },
-    {
-     "t": "example",
-     "title": "Worked example: how wide is the range? (our arithmetic)",
-     "steps": [
-      "The civilian toll runs from 500,000 to 2,000,000.",
-      "2,000,000 divided by 500,000 is 4, so the top is four times the bottom.",
-      "A range that wide means the headline is not a measurement. It is a statement of how little is known.",
-      "Write: 'between half a million and two million, depending on method'. {{lib}} {{wiki-biafra}}"
-     ]
+     "x": "One author argues that French intelligence helped introduce the genocide theme to the public through a Geneva press service. Treat that as one contested claim. {{wiki-biafra}}"
     },
     {
      "t": "check",
-     "q": "You are asked for 'the' Biafran death toll. Give the two reasons any figure is uncertain.",
+     "q": "You are asked for 'the' Biafran death toll. Which two reasons make any figure uncertain?",
      "o": [
-      "No reliable census and deaths from hunger in blockaded areas",
+      "No reliable census, and deaths from hunger in blockaded areas that few recorded",
       "Perfect records and a short war",
       "A truce in 1966 and a census in 1970",
       "Nothing is uncertain"
      ],
      "a": 0,
-     "w": "The library also names propaganda and the difficulty of separating war deaths from excess mortality. {{lib}}",
+     "w": "Propaganda and overlapping causes add to the uncertainty. {{lib}}",
      "kind": "application"
     },
     {
@@ -140,28 +140,28 @@
      "q": "A student writes 'the Biafran war was legally a genocide'. What does the fact that no court has adjudicated mean for that sentence?",
      "o": [
       "It is settled",
-      "No court has ruled, so the label stays contested",
+      "No court has ruled, so the label stays contested; say who uses it and who does not",
       "A court ruled yes",
       "A court ruled no"
      ],
      "a": 1,
-     "w": "The library tags it [CONTESTED]. {{lib}}",
+     "w": "The question is [CONTESTED]. {{lib}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
       "The Biafran war began on 30/05/1967 and ended in January 1970. {{lib}}",
-      "The civilian toll is 500,000 to over 2 million [ESTIMATE, CONTESTED].",
+      "The civilian toll is 500,000 to 2 million [ESTIMATE, CONTESTED]. {{wiki-biafra}}",
       "Do not reduce it to 'tribal hatred'."
      ]
     }
-   ]
+   ],
+   "id": "l1"
   },
   {
-   "id": "l2",
    "title": "The Derg and Ethiopia (1974 to 1991)",
-   "min": 28,
+   "min": 26,
    "blocks": [
     {
      "t": "p",
@@ -177,19 +177,27 @@
     },
     {
      "t": "p",
+     "x": "Mengistu chose the socialist model partly as a way of unifying Ethiopia after the emperor's fall. {{gha-viii-ch27}}"
+    },
+    {
+     "t": "p",
      "x": "A Red Terror in 1977 and 1978 killed civilians in the cities, with estimates from tens of thousands to several hundred thousand [ESTIMATE, CONTESTED]. {{lib}}"
     },
     {
-     "t": "p",
-     "x": "The regime allied with the Soviet Union and Cuba, which supported Ethiopia against Somalia in the Ogaden War of 1977 to 1978. {{lib}}"
+     "t": "h",
+     "x": "The Cold War alliance"
     },
     {
      "t": "p",
-     "x": "Volume VIII's chapter on the socialist countries (Thiam and Mulira) puts figures on the alliance, citing Soviet-bloc sources without audit. It says Ethiopia was the leading African recipient of Soviet military aid apart from Egypt, with about 1 billion dollars of arms, 1,500 Soviet advisers and an estimated 20,000 Cuban troops during the Ogaden war, and about 1.5 billion dollars in all by 1981. It also says the Soviet Union had armed Somalia before that, with 181 million dollars of military aid in 1977. The authors add that Mengistu chose the socialist model partly as a way of unifying Ethiopia after the emperor's fall. {{gha-viii-ch27}}"
+     "x": "The regime allied with the Soviet Union and Cuba, which supported Ethiopia against Somalia in the Ogaden War of 1977 to 1978. {{lib}} The Soviet Union had armed Somalia before that, with 181 million dollars of military aid in 1977. {{gha-viii-ch27}}"
     },
     {
      "t": "p",
-     "x": "Locksley Edmondson's chapter in the same volume gives Cuban figures from one cited study: 18,000 to 24,000 combat troops in Angola in 1975 to 1976, about 20,000 in Ethiopia in 1977 to 1978, and at the 1978 peak about 19,000 in Angola and 16,000 to 17,000 in Ethiopia. These are estimates. {{gha-viii-ch28}}"
+     "x": "Ethiopia received about 1 billion dollars of Soviet arms and 1,500 Soviet advisers during the Ogaden war, and about 1.5 billion dollars in all by 1981, on Soviet-bloc sources without audit. {{gha-viii-ch27}}"
+    },
+    {
+     "t": "p",
+     "x": "One cited study gives 18,000 to 24,000 combat troops from Cuba in Angola in 1975 to 1976 and about 20,000 in Ethiopia in 1977 to 1978. These are estimates. {{gha-viii-ch28}}"
     },
     {
      "t": "h",
@@ -202,6 +210,16 @@
     {
      "t": "p",
      "x": "Alex de Waal argues that famine in such contexts is shaped by political choices, not only drought. Live Aid raised funds in 1985, and debates continue on aid and its misuse. {{lib}}"
+    },
+    {
+     "t": "example",
+     "title": "Worked example: the width of the famine range (our arithmetic)",
+     "steps": [
+      "Deaths of 400,000 to 1,000,000.",
+      "1,000,000 divided by 400,000 is 2.5.",
+      "Compare Biafra, where the ratio was 4. The Ethiopian range is narrower, but still wide.",
+      "Neither range is a measurement; each reflects who counted and how."
+     ]
     },
     {
      "t": "h",
@@ -231,6 +249,11 @@
        "[ESTIMATE, CONTESTED]"
       ],
       [
+       "Ogaden War",
+       "1977 to 1978",
+       "[FIRM]"
+      ],
+      [
        "Famine",
        "1983 to 1985",
        "[ESTIMATE, CONTESTED]"
@@ -244,16 +267,6 @@
      "src": "{{lib}}"
     },
     {
-     "t": "example",
-     "title": "Worked example: the width of the famine range (our arithmetic)",
-     "steps": [
-      "Deaths of 400,000 to 1,000,000.",
-      "1,000,000 divided by 400,000 is 2.5.",
-      "Compare Biafra, where the ratio was 4. The Ethiopian range is narrower, but still a wide spread.",
-      "Neither range is a measurement; each reflects who counted and how. {{lib}}"
-     ]
-    },
-    {
      "t": "check",
      "q": "A charity leaflet calls the 1984 to 1985 Ethiopian famine 'a natural disaster caused by drought'. What is missing?",
      "o": [
@@ -263,20 +276,21 @@
       "It was caused by Italy"
      ],
      "a": 1,
-     "w": "The library cites de Waal's argument. {{lib}}",
+     "w": "Famine reflects political choices as well as weather. {{lib}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "When did the EPRDF take Addis Ababa?",
+     "q": "Why must Soviet aid figures for Ethiopia be handled with care?",
      "o": [
-      "May 1991",
-      "1974",
-      "1977",
-      "2006"
+      "They are audited",
+      "They come from Soviet-bloc sources without audit, so they are estimates",
+      "They are zero",
+      "They are from the World Bank"
      ],
-     "a": 0,
-     "w": "Mengistu fled to Zimbabwe. {{lib}}"
+     "a": 1,
+     "w": "Name the source of a figure and its limits. {{gha-viii-ch27}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -286,63 +300,40 @@
       "Famine reflects political choices as well as weather."
      ]
     }
-   ]
+   ],
+   "id": "l2"
   },
   {
-   "id": "l3",
-   "title": "Debt and structural adjustment",
-   "min": 28,
+   "title": "The economic crisis: three diagnoses",
+   "min": 30,
    "blocks": [
     {
-     "t": "p",
-     "x": "Oil shocks in 1973 and 1979, falling commodity prices and borrowing left many states with heavy debt. {{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "The OAU's Lagos Plan of Action (1980) urged self-reliance. The World Bank's Berg Report (1981) blamed domestic policies, such as overvalued currencies and state marketing boards, and urged market reforms. {{lib}}"
-    },
-    {
      "t": "h",
-     "x": "Adjustment"
+     "x": "Shocks and debt"
     },
     {
      "t": "p",
-     "x": "IMF and World Bank loans came with conditions: devaluation, removal of subsidies, privatisation, trade liberalisation and cuts in public spending. {{lib}}"
+     "x": "Oil shocks in 1973 and 1979, falling commodity prices and borrowing left many states with heavy debt. {{lib}} The oil price announced on 23/12/1973 rose from US$5.04 to US$11.65 a barrel, which hurt oil-importing African states. {{gha-viii-ch14}}"
+    },
+    {
+     "t": "p",
+     "x": "Low-income Africa's debt rose from 17.5 per cent of GNP in 1970 to 54.5 per cent in 1984, and from 75.2 to 278.1 per cent of exports. {{gha-viii-ch11}}"
+    },
+    {
+     "t": "p",
+     "x": "Africa produced only 0.9 per cent of the world's manufactured goods in 1980, and urban population grew from 31.8 million in 1950 to 132.9 million in 1980, driven by crisis in the countryside more than by factory jobs. {{gha-viii-ch13}}"
+    },
+    {
+     "t": "p",
+     "x": "Agricultural output growth fell from 2.7 per cent a year in the 1960s to 1.3 per cent in the 1970s, and per capita output from plus 0.2 to minus 1.4. {{gha-viii-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "Edem Kodjo, then secretary-general of the OAU, said in Lagos in 04/1980: 'Africa is dying'. {{gha-viii-ch11}}"
     },
     {
      "t": "h",
-     "x": "Three positions, not one story"
-    },
-    {
-     "t": "table",
-     "title": "Rodney, Moyo and the mainstream on what held Africa back",
-     "head": [
-      "Position",
-      "Core claim",
-      "What has tested it"
-     ],
-     "rows": [
-      [
-       "Rodney (1972) and Babu",
-       "Underdevelopment is a relationship of exploitation, and Africa should delink from the world market. Rodney also blames African elites who spend on imported luxuries",
-       "North Korea and Albania, Babu's exemplars, did not deliver, while export-led Asian economies grew; the prediction that socialism would replace capitalism was overtaken by 1991"
-      ],
-      [
-       "Moyo (2009)",
-       "Aid is a curse, and should be reduced over five to ten years in favour of bonds, trade, Chinese investment, microfinance and remittances",
-       "Eurobond defaults by Zambia in 11/2020, Ghana in 12/2022 and Ethiopia in 2023; mixed results on microfinance"
-      ],
-      [
-       "Mainstream development economics",
-       "Aid, policy and institutions all matter, and evidence on each is mixed",
-       "The Burnside-Dollar finding that aid works in good policy settings failed replication"
-      ]
-     ],
-     "src": "{{rod-ch1}} {{rod-post}} {{my-case}} {{my-mech}}"
-    },
-    {
-     "t": "h",
-     "x": "Three documents of the crisis years"
+     "x": "Three documents"
     },
     {
      "t": "table",
@@ -356,90 +347,138 @@
      "rows": [
       [
        "Lagos Plan of Action (OAU, 1980)",
-       "Underdevelopment partly external and colonial, but member states also neglected agriculture",
-       "Collective self-reliance, intra-African trade, an African Common Market, state and joint trading bodies, with outside help only to supplement",
+       "Underdevelopment partly external and colonial, but member states also neglected agriculture {{lagos-plan}}",
+       "Collective self-reliance, intra-African trade, an African Common Market",
        "Admits that member states fail to fund the institutions they create"
       ],
       [
        "Berg Report (World Bank, 1981)",
-       "Three causes: structural, external shocks, and domestic policy; it ranks policy first (overvalued exchange rates, marketing boards that taxed farmers, an overextended public sector)",
+       "Structural causes, external shocks and domestic policy, with policy ranked first {{berg}}",
        "Policy reform and a doubling of aid in real terms by the end of the 1980s",
-       "Says it accepts the Lagos Plan's long-term goals and that donors 'contributed to the present crisis'"
+       "Says donors 'contributed to the present crisis'"
       ],
       [
        "Sankara at the OAU (1987)",
-       "Debt is colonialism continued and cannot be repaid",
-       "A united front to refuse repayment, cut arms spending, produce and consume in Africa",
+       "Debt is colonialism continued and cannot be repaid {{sankara-debt}}",
+       "A united front to refuse repayment, produce and consume in Africa",
        "A speech of aims, delivered months before his death"
       ]
      ],
      "src": "{{lagos-plan}} {{berg}} {{sankara-debt}}"
     },
     {
-     "t": "p",
-     "x": "The Berg Report says external forces were not the chief factor in the growing deficits of oil importers: poor export performance counted for more, and export volume fell in two thirds of countries with data in the 1970s. Critics argue that it undervalued external shocks. It also praised progress: primary enrolment rose from 36 to 63 per cent and life expectancy from 39 to 47. Its figures include a rise in debt from 6 to 32 billion dollars between 1970 and 1979. {{berg}} The Lagos Plan gave Africa's GDP as 2.7 per cent of the world's per capita figure and growth of no more than 4.8 per cent a year from 1960 to 1980. {{lagos-plan}}"
+     "t": "h",
+     "x": "The Lagos Plan"
     },
     {
      "t": "p",
-     "x": "The Plan's later chapters add its own diagnosis. It says African states cannot exercise sovereignty over their natural resources because foreign transnational companies choose a narrow range of them, African states keep a small share of the value added, and the raw-material industries are not linked to national economies. It sets aims, such as a ratio of one scientist to five technicians to 30 craftsmen and the training of 8,000 Africans in five years, and admits that many states had failed to take most of the actions needed for self-reliance. These are aims set in 1980 and not results. {{lagos-plan}}"
+     "x": "The Plan's drafter, Adebayo Adedeji of the Economic Commission for Africa, traced its line from the ECA strategy of 1971 to the Monrovia Strategy of 07/1979, called it Africa's economic Magna Carta, and said it puts the domestic and regional market, not export earnings, at the centre. That is an insider's advocacy, not an evaluation of results. {{gha-viii-ch14}}"
     },
     {
      "t": "p",
-     "x": "The UNESCO General History of Africa, volume VIII, has the Plan's own drafter explain its lineage. Adebayo Adedeji of the Economic Commission for Africa describes a line from the ECA strategy of 02/1971 and the OAU declaration of 05/1973, through the ECA's Revised Framework of 1976, to the Monrovia Strategy that OAU heads adopted in 07/1979. He calls the Plan Africa's economic Magna Carta and says it puts the domestic and regional market, not export earnings, at the centre. He also records that the oil price rise announced on 23/12/1973, from US$5.04 to US$11.65 a barrel, hurt oil-importing African states, and that the OPEC example was not repeated for other commodities. Ali Mazrui's section of the chapter argues that debtors under-used the threat of default, citing Nyerere on becoming OAU chairman in 11/1984. This is an insider's advocacy, not an evaluation of results. {{gha-viii-ch14}}"
+     "x": "The Plan says African states cannot exercise sovereignty over their natural resources because foreign companies choose a narrow range of them and African states keep a small share of the value added. {{lagos-plan}}"
+    },
+    {
+     "t": "h",
+     "x": "The Berg Report"
     },
     {
      "t": "p",
-     "x": "The Berg Report's second chapters set out its argument that policy, not prices alone, explains the slow growth of the 1970s. It says the net barter terms of trade of African oil importers fell by 1.5 per cent a year, less than for other oil importers, with mineral exporters the main exception, and that Africa's share of world non-fuel exports fell from 3.1 per cent in 1960 to 1.2 per cent in 1978. It blames overvalued exchange rates, which it found in 18 of 19 countries in one study, a bias against agriculture and exports, and population growth of 2.7 per cent a year. Its example is Ghana's cocoa, where output fell from 566,000 tonnes in 1965 to 249,000 in 1979 while farmers got about six times more for it between 1963 and 1979 and consumer prices rose 22 times. It also admits its export data are patchy, and a World Bank document written to justify reform is itself an argument. {{berg}}"
+     "x": "The Report argues that external forces were not the chief factor in the deficits of oil importers: export volume fell in two thirds of countries with data in the 1970s. Critics argue it undervalued external shocks. {{berg}}"
     },
     {
      "t": "p",
-     "x": "Maxwell Owusu's chapter in volume VIII reads farm policy differently from Berg, and the two should be set side by side. He says marketing boards and export taxes withheld at least 700 million pounds from producers between 1940 and 1962, one third to one half of the value of output, and that Tanzania's agencies paid farmers one fifth to one half of world cereal prices from 1971 to 1976. He adds that cheap food for towns and overvalued exchange rates cut farm incomes and encouraged smuggling. Berg draws a similar lesson on prices, but Owusu also stresses the fall in commodity terms of trade, from 126 in 1953 to 86 in 1971, a different measure from Berg's. The FAO figures he cites show agricultural output growth falling from 2.7 per cent a year in the 1960s to 1.3 per cent in the 1970s, and per capita output from plus 0.2 to minus 1.4. {{gha-viii-ch12}}"
+     "x": "It blames overvalued exchange rates, found in 18 of 19 countries in one study, and a bias against agriculture and exports. Its example is Ghana's cocoa, where output fell from 566,000 tonnes in 1965 to 249,000 in 1979. {{berg}}"
     },
     {
      "t": "p",
-     "x": "Pierre Kipre's chapter in the same volume adds the industrial side. Africa produced only 0.9 per cent of the world's manufactured goods in 1980, a figure Adedeji also gives, and imports of manufactures were over 60 per cent of imports in 1978. In Nkrumah's Ghana, 72 per cent of budget credits in 1959 to 1963 and 61 per cent in 1964 to 1970 went to industry, but the state sector did not outlast his fall in 1966. In French-speaking Africa, 67 per cent of approved investment for 1965 to 1970 went to mining. Kipre also shows urban population growing from 31.8 million in 1950 to 132.9 million in 1980, driven by crisis in the countryside more than by factory jobs. {{gha-viii-ch13}}"
+     "x": "It also praised progress: primary enrolment rose from 36 to 63 per cent and life expectancy from 39 to 47. {{berg}}"
+    },
+    {
+     "t": "h",
+     "x": "Prices for farmers: where the readings meet"
     },
     {
      "t": "p",
-     "x": "In volume VIII's chapter on philosophy and science, Ali Mazrui and Jacob Ajayi contrast the two reports directly. They say Adedeji and the ECA stressed global constraints on African development, while the World Bank and IMF stressed mismanagement and policy errors. They treat the Lagos Plan, which the ECA and OAU analysis underlay, as an alternative paradigm to the Berg Report. They date Berg to 1979, but the Bank's report appeared in 1981 [check current]. {{gha-viii-ch21}}"
+     "x": "Marketing boards and export taxes withheld at least 700 million pounds from producers between 1940 and 1962, and Tanzania's agencies paid farmers one fifth to one half of world cereal prices from 1971 to 1976. {{gha-viii-ch12}} Berg draws a similar lesson on prices, but this account also stresses the fall in commodity terms of trade, from 126 in 1953 to 86 in 1971. {{gha-viii-ch12}}"
     },
     {
      "t": "p",
-     "x": "Chinweizu's chapter on Africa and the capitalist countries gives the diplomatic record. The UN adopted a Declaration for a New International Economic Order in 1974, and the Common Fund proposed at UNCTAD IV in Nairobi in 1976 shrank from 44 billion to 10 billion dollars, with only 1 billion paid up, by 1983. Commodity agreements covered five commodities by 1984. The Lome Conventions of 1975, 1979 and 1984 grew from 46 to 64 ACP states, and STABEX covered 34 and then 44 commodities. Chinweizu argues that Africa's failure also rested on elites with a 'dependency mentality', who treated development as imported consumption, and he calls blaming the West a form of irresponsibility. That is a polemical thesis against structural readings such as Rodney's [CONTESTED]. Coquery-Vidrovitch's chapter in the same volume gives 1980 and 1986 for Lome II and III, which does not match Chinweizu's 1979 and 1984. {{gha-viii-ch26}}"
+     "x": "The ECA stressed global constraints on African development, while the World Bank and IMF stressed mismanagement and policy errors. {{gha-viii-ch21}}"
+    },
+    {
+     "t": "h",
+     "x": "The diplomacy of a new order"
     },
     {
      "t": "p",
-     "x": "Two more chapters of volume VIII bear on the Lagos Plan. Kouassi says the Plan, adopted in 04/1980, disagreed with the Berg Report of 1981, as inward-looking food self-sufficiency against outward-looking cash-crop exports, and that rivalry between the ECA and the OAU, in the persons of Adedeji and Edem Kodjo, dogged it. This gives Berg's date as 1981, against 1979 in the philosophy chapter. In the last chapter Mazrui gives black Africa's population growth as 2.5 per cent a year in 1960 to 1970, 2.7 in 1970 to 1980 and 3.1 in 1980 to 1986. {{gha-viii-ch29}}"
+     "x": "The UN adopted a Declaration for a New International Economic Order in 1974, and the Common Fund proposed at UNCTAD IV in Nairobi in 1976 shrank from 44 billion to 10 billion dollars, with only 1 billion paid up, by 1983. {{gha-viii-ch26}}"
+    },
+    {
+     "t": "p",
+     "x": "One critic argues that Africa's failure also rested on elites with a 'dependency mentality', and calls blaming the West a form of irresponsibility. That is a polemical thesis against structural readings such as Rodney's [CONTESTED]. {{gha-viii-ch26}}"
     },
     {
      "t": "callout",
      "k": "note",
-     "x": "The Arusha Declaration of 1967 is an earlier African statement of self-reliance. It argues that money is not the foundation of development, that foreign gifts, loans and investment endanger independence ('he who pays the piper calls the tune'), and that agriculture and hard work come first, while saying Tanzania will not refuse outside money. {{arusha}} It reaches a conclusion close to Moyo's from a socialist starting point (our reading). Sankara's UN speech of 1984 makes the same case against aid in the Sahel. {{sankara-un}}"
+     "x": "Self-reliance was an older African idea. The Arusha Declaration of 1967 argues that foreign gifts, loans and investment endanger independence ('he who pays the piper calls the tune'), while saying Tanzania will not refuse outside money. {{arusha}}"
     },
     {
-     "t": "p",
-     "x": "Rodney says openly that African development needs a radical break with the capitalist system. {{rod-pref}} The book appeared in 1972 while he taught at Dar es Salaam, and the editors of its later introduction are partisan by their own account. {{rod-intro}} His own text assigns blame to an African political class too. {{rod-ch1}}"
+     "t": "check",
+     "q": "The Lagos Plan and the Berg Report disagree about the crisis. What is the core difference?",
+     "o": [
+      "None",
+      "The Plan stresses external and structural constraints and inward self-reliance; the Report ranks domestic policy first and urges market reform",
+      "Both blame the weather",
+      "Both reject aid"
+     ],
+     "a": 1,
+     "w": "Global constraints against policy errors. {{gha-viii-ch21}}",
+     "kind": "application"
     },
     {
-     "t": "p",
-     "x": "Moyo's own proposal is milder than the foreword suggests. The book describes a gradual but uncompromising reduction over five to ten years, with modest aid and emergency relief exempt, while the foreword speaks of five years and then shutting it off. Quote the book. {{my-mech}} {{my-end}}"
+     "t": "check",
+     "q": "Both the Berg Report and its critics say farmers were paid too little. Where do they differ?",
+     "o": [
+      "Nowhere",
+      "Critics also stress the fall in commodity terms of trade, an external cause the Report played down",
+      "Critics say farmers were overpaid",
+      "The Report blamed the weather"
+     ],
+     "a": 1,
+     "w": "The readings meet on prices and part on causes. {{gha-viii-ch12}} {{berg}}",
+     "kind": "application"
     },
+    {
+     "t": "take",
+     "i": [
+      "Shocks, debt and falling farm output came together in the 1970s. {{gha-viii-ch11}}",
+      "The Lagos Plan and the Berg Report are positions of their authors. {{lagos-plan}} {{berg}}",
+      "They meet on low farm prices and part on external causes."
+     ]
+    }
+   ],
+   "id": "l3"
+  },
+  {
+   "title": "Adjustment, debt relief and the aid debate",
+   "min": 30,
+   "blocks": [
     {
      "t": "h",
-     "x": "Moyo's account of the debt crisis"
+     "x": "Adjustment"
     },
     {
      "t": "p",
-     "x": "She traces the crisis through Bretton Woods in 07/1944, the oil shocks of 1973 and 1979, and rising rates. Mexico defaulted on 12/08/1982, eleven African states followed, and Africa's debt service rose from 2 billion dollars in 1975 to 8 billion in 1982. Programmes of the 1980s paired budget support with privatisation, trade liberalisation and civil-service cuts, and she reports a net flow of about 15 billion dollars a year from poor to rich countries in 1987 to 1989. She treats adjustment as a continuation of the aid model and not as a free-market cure, which is her verdict and not the standard one. {{my-history}}"
+     "x": "IMF and World Bank loans came with conditions: devaluation, removal of subsidies, privatisation, trade liberalisation and cuts in public spending. {{lib}}"
     },
     {
      "t": "p",
-     "x": "Volume VIII of the UNESCO General History gives World Bank figures for low-income Africa in a chapter by Catherine Coquery-Vidrovitch. Debt rose from 17.5 per cent of GNP in 1970 to 54.5 per cent in 1984, and from 75.2 to 278.1 per cent of exports. The debt service ratio rose from 6.1 to 19.9 per cent. In the prose, the share of export earnings paid out in debt service went from 18 per cent in 1980 to 26 per cent in 1982, and to 38 per cent for the poorest countries. Public savings fell from 15 to 6 per cent of GDP. Africa took only 3 per cent of world direct foreign investment between 1965 and 1983. Edem Kodjo, then secretary-general of the OAU, said in Lagos in 04/1980: 'Africa is dying'. {{gha-viii-ch11}}"
+     "x": "Mexico defaulted on 12/08/1982 and eleven African states followed; Africa's debt service rose from 2 billion dollars in 1975 to 8 billion in 1982. {{my-history}} The share of export earnings paid out in debt service went from 18 per cent in 1980 to 26 per cent in 1982. {{gha-viii-ch11}}"
     },
     {
-     "t": "callout",
-     "k": "warn",
-     "x": "Moyo credits the late-1980s market reforms for the 2000s recovery in the same book that blames aid. Both claims are contested. {{my-intro}} The commodity boom behind the 2000s growth ended in 2014 to 2016 [check current]."
+     "t": "p",
+     "x": "A net flow of about 15 billion dollars a year ran from poor to rich countries in 1987 to 1989, on one estimate. {{my-history}}"
     },
     {
      "t": "table",
@@ -473,65 +512,80 @@
      "x": "The Heavily Indebted Poor Countries initiative (1996) and the Multilateral Debt Relief Initiative (2005) wrote off large debts. {{lib}}"
     },
     {
-     "t": "h",
-     "x": "Politics after the Cold War"
-    },
-    {
-     "t": "p",
-     "x": "The end of the Cold War reduced support for authoritarian allies. From 1989 to 1991 many states held multiparty elections, for example after Benin's 1990 conference. Mobutu's Zaire collapsed in 1997. {{lib}}"
-    },
-    {
      "t": "example",
      "title": "Worked example: testing a causal claim",
      "steps": [
       "Claim: structural adjustment caused Africa's poverty.",
       "When did the decline begin? In the 1970s, before adjustment. What changed under adjustment? Some macro-stability and some social cuts. What else changed? Terms of trade, wars and governance.",
       "Verdict: adjustment shaped outcomes but cannot be the sole cause [CONTESTED].",
-      "Write the sentence with the verb 'shaped', not 'caused'. {{lib}}"
+      "Write the sentence with the verb 'shaped', not 'caused'."
      ]
     },
     {
+     "t": "h",
+     "x": "Three positions on what held Africa back"
+    },
+    {
      "t": "table",
-     "title": "Checking Moyo's numbers before you use them",
+     "title": "Rodney, Moyo and the mainstream",
+     "head": [
+      "Position",
+      "Core claim",
+      "What has tested it"
+     ],
+     "rows": [
+      [
+       "Rodney (1972)",
+       "Underdevelopment is a relationship of exploitation, and Africa should break with the capitalist system; African elites who spend on imported luxuries share the blame {{rod-ch1}} {{rod-pref}}",
+       "Export-led Asian economies grew, and the prediction that socialism would replace capitalism was overtaken by 1991 (our check)"
+      ],
+      [
+       "Moyo (2009)",
+       "Aid is a curse and should be reduced over five to ten years in favour of bonds, trade, investment, microfinance and remittances {{my-mech}}",
+       "Eurobond defaults by Zambia in 11/2020, Ghana in 12/2022 and Ethiopia in 2023 (our check)"
+      ],
+      [
+       "Mainstream development economics",
+       "Aid, policy and institutions all matter, and the evidence on each is mixed {{my-case}}",
+       "The finding that aid works in good policy settings failed replication"
+      ]
+     ],
+     "src": "{{rod-ch1}} {{my-case}} {{my-mech}}"
+    },
+    {
+     "t": "p",
+     "x": "Moyo treats adjustment as a continuation of the aid model and not as a free-market cure, which is her verdict and not the standard one. {{my-history}}"
+    },
+    {
+     "t": "h",
+     "x": "Checking an author's numbers"
+    },
+    {
+     "t": "table",
+     "title": "Moyo's numbers before you use them",
      "head": [
       "Claim in Dead Aid",
       "Status"
      ],
      "rows": [
       [
-       "Poverty in Africa rose from 11 per cent to 66 per cent between 1970 and 1998",
-       "Contested and untraceable: the book's notes have no entry for it, it uses an old dollar-a-day line, and later work finds poverty falling slowly after the mid-1990s. Do not use as a measured fact."
+       "Poverty in Africa rose from 11 to 66 per cent between 1970 and 1998",
+       "Untraceable in her notes and on an old dollar-a-day line; do not use as a measured fact {{my-notes}}"
       ],
       [
-       "Over 1 trillion dollars in aid to Africa in 50 years",
-       "Her own text gives different totals for different windows (300 billion, 400 billion, 1 trillion, 2 trillion). Never quote one without the window."
+       "Aid totals to Africa",
+       "Different totals for different windows (300 billion, 1 trillion, 2 trillion); never quote one without the window {{my-intro}}"
       ],
       [
-       "Chinese investment: 900 million dollars in 2004, 30 billion from 2000 to 2005, a stock of 100 billion by 2007",
-       "Internally inconsistent: a flow of 900 million a year cannot sum to 30 billion over five years. Treat all three as unreliable and use current research data."
+       "Chinese investment, 2004 to 2007",
+       "Internally inconsistent figures; use current research {{my-bonds}}"
       ],
       [
-       "Doing Business time and cost figures for starting a company",
-       "Dated: the World Bank discontinued the Doing Business index in 09/2021. Do not use."
-      ],
-      [
-       "Markets are forgiving of African borrowers",
-       "Overtaken by the defaults named above."
-      ],
-      [
-       "Mobutu stole about 5 billion dollars",
-       "Sourced in her endnotes to a cached web search for a Transparency International file, not a primary study."
-      ],
-      [
-       "Microfinance as banking on the unbankable",
-       "Randomised evaluations in six countries found modest average effects and no transformation of poverty; 2010 Andhra Pradesh crisis."
-      ],
-      [
-       "Harry Dexter White, US Secretary of State",
-       "Wrong: he was a Treasury official."
+       "Doing Business figures",
+       "The World Bank discontinued the index in 09/2021 (our check)"
       ]
      ],
-     "src": "{{my-case}} {{my-history}} {{my-notes}} {{my-rem}} {{my-bonds}} {{my-mech}} {{my-trade}}"
+     "src": "{{my-notes}} {{my-intro}} {{my-bonds}}"
     },
     {
      "t": "table",
@@ -546,75 +600,81 @@
       [
        "Aid",
        "About 37 billion dollars to Africa in 2006",
-       "OECD preliminary 2024: total aid 212.1 billion dollars, about 42 billion bilateral to Africa and 36 billion to sub-Saharan Africa; a broader final measure gives 66.5 billion for sub-Saharan Africa",
-       "The figure depends on the measure; preliminary data [check current]"
+       "About 36 billion bilateral to sub-Saharan Africa in 2024 on OECD preliminary data {{oecd-oda}}",
+       "Depends on the measure [check current]"
       ],
       [
        "Poverty",
-       "66 per cent in 1998 on an old dollar-a-day line",
-       "About 43 per cent of sub-Saharan Africans below the current 3.00 dollar line, and the region holds most of the world's extreme poor",
-       "Different lines and prices, so not comparable"
+       "66 per cent in 1998 on an old line",
+       "About 43 per cent of sub-Saharan Africans below the current 3.00 dollar line {{owid-pov}}",
+       "Different lines, not comparable"
       ],
       [
        "Remittances",
-       "About 20 billion dollars in 2006, with fees near 20 per cent",
-       "About 54 billion dollars to sub-Saharan Africa in 2023, with average costs near 7.9 per cent",
-       "Remittances now exceed aid and FDI for many states"
+       "About 20 billion dollars in 2006",
+       "About 54 billion dollars to sub-Saharan Africa in 2023, with average costs near 7.9 per cent {{wb-remit}}",
+       "Remittances now exceed aid for many states"
       ]
      ],
-     "src": "{{my-intro}} {{my-rem}} {{oecd-oda}} {{owid-pov}} {{wb-remit}}"
-    },
-    {
-     "t": "p",
-     "x": "Her arithmetic is sound where it can be checked: a fall in aid share from 75 to 5 per cent in steps of 14 points takes exactly five years (our arithmetic: 75 minus 5 times 14 is 5). Her anecdotes, such as the mosquito-net maker, are illustrations and not data. {{my-rem}}"
+     "src": "{{oecd-oda}} {{owid-pov}} {{wb-remit}}"
     },
     {
      "t": "callout",
      "k": "warn",
-     "x": "Moyo's chapters on China give one side: infrastructure and no governance conditions, with a 2007 Pew survey showing favourable views of China in most of ten African countries. They say little about debt, labour practices, resource-for-loan deals or Sudan. Her 2004 to 2007 figures are dated, so use the debate on Chinese lending from current research instead [check current]. {{my-bonds}} {{my-trade}}"
+     "x": "Her chapters on China give one side: infrastructure and no governance conditions. They say little about debt, labour practices or resource-for-loan deals, and her figures are dated [check current]. {{my-bonds}} {{my-trade}}"
+    },
+    {
+     "t": "h",
+     "x": "Politics after the Cold War"
+    },
+    {
+     "t": "p",
+     "x": "The end of the Cold War reduced support for authoritarian allies. From 1989 to 1991 many states held multiparty elections, for example after Benin's 1990 conference, and Mobutu's Zaire collapsed in 1997. {{lib}}"
     },
     {
      "t": "check",
-     "q": "Which was a factor before adjustment began?",
+     "q": "A blog says adjustment in the 1980s caused Africa's economic decline. What is the strongest objection?",
      "o": [
-      "Oil shocks and falling commodity prices",
-      "The Berg Report's effects",
-      "HIPC",
-      "MDRI"
+      "None",
+      "The decline began in the 1970s, before adjustment, with oil shocks and falling prices; adjustment shaped outcomes but was not the sole cause",
+      "Adjustment never happened",
+      "Africa grew fast in the 1980s"
      ],
-     "a": 0,
-     "w": "These came in the 1970s. {{lib}}"
+     "a": 1,
+     "w": "Check the timing of a cause. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What does 'lost decade' describe?",
+     "q": "A book gives 'over 1 trillion dollars in aid to Africa' with no time window. What should you do?",
      "o": [
-      "The 1980s and early 1990s, when many economies stagnated",
-      "A decade of rapid growth",
-      "The 1960s",
-      "The 2010s"
+      "Quote it",
+      "Ask for the window and measure; the same book gives several different totals",
+      "Double it",
+      "Ignore aid entirely"
      ],
-     "a": 0,
-     "w": "The library's description. {{lib}}"
+     "a": 1,
+     "w": "A total without a window is unusable. {{my-intro}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Debt, shocks and adjustment all shaped the crisis [CONTESTED]. {{lib}}",
-      "Adjustment did not begin the decline.",
-      "HIPC (1996) and MDRI (2005) wrote off large debts."
+      "Adjustment shaped the crisis but did not begin it [CONTESTED]. {{lib}}",
+      "HIPC (1996) and MDRI (2005) wrote off large debts.",
+      "Check an author's numbers, windows and dates before using them."
      ]
     }
-   ]
+   ],
+   "id": "l4"
   },
   {
-   "id": "l4",
-   "title": "Practice: comparing causes across the three cases",
-   "min": 28,
+   "title": "Practice: causes, witnesses and documents",
+   "min": 24,
    "blocks": [
     {
      "t": "p",
-     "x": "This practice lesson puts the three cases side by side and asks what kind of cause each one shows. {{lib}}"
+     "x": "This practice lesson puts the three cases side by side, then asks which kind of source answers which question."
     },
     {
      "t": "table",
@@ -629,7 +689,7 @@
       [
        "Biafra (1967 to 1970)",
        "Secessionist war after coups and massacres",
-       "500,000 to over 2 million",
+       "500,000 to 2 million civilians",
        "Was it genocide?"
       ],
       [
@@ -645,65 +705,7 @@
        "Sole cause or one of several?"
       ]
      ],
-     "src": "{{lib}}"
-    },
-    {
-     "t": "example",
-     "title": "Worked example: an argument with two other factors (illustrative)",
-     "steps": [
-      "Question: was structural adjustment the cause of the 1980s crisis?",
-      "Two other factors: oil shocks and falling commodity prices before adjustment began, and wars that destroyed output.",
-      "Evidence: decline had begun in the 1970s; some countries that delayed reform did worse; outcomes under adjustment were mixed.",
-      "Conclusion: adjustment shaped outcomes, but the crisis had several causes. {{lib}}"
-     ]
-    },
-    {
-     "t": "activity",
-     "x": "Write 200 words arguing whether structural adjustment was 'the' cause of the 1980s crisis, using at least two other factors."
-    },
-    {
-     "t": "check",
-     "q": "Which answer to the adjustment question is best?",
-     "o": [
-      "Adjustment alone caused it",
-      "Adjustment shaped it along with shocks, wars and governance",
-      "Nothing caused it",
-      "Only wars caused it"
-     ],
-     "a": 1,
-     "w": "A good argument names alternatives and avoids a single cause. {{lib}}"
-    },
-    {
-     "t": "check",
-     "q": "A source gives the Biafran toll as 500,000 to 2 million. What should that range tell you?",
-     "o": [
-      "That the toll is known exactly",
-      "That little is known and the method matters",
-      "That 1.25 million is right",
-      "That the war was small"
-     ],
-     "a": 1,
-     "w": "Wide ranges signal poor baselines. {{lib}}",
-     "kind": "application"
-    },
-    {
-     "t": "take",
-     "i": [
-      "Compare cases by mechanism, not by the largest number. {{lib}}",
-      "Name two or more causes for any broad outcome.",
-      "State ranges and methods."
-     ]
-    }
-   ]
-  },
-  {
-   "id": "l5",
-   "title": "Witnesses and analysts of strain: how to pair them",
-   "min": 26,
-   "blocks": [
-    {
-     "t": "p",
-     "x": "The three cases of this module are known through novels and memoirs, through the analysts' books and through official documents. {{lib}}"
+     "src": "{{wiki-biafra}} {{lib}}"
     },
     {
      "t": "table",
@@ -718,72 +720,74 @@
       [
        "Biafra",
        "Achebe's memoir; Adichie's novel Half of a Yellow Sun, read as fiction",
-       "Heerten and Moses (eds.) on the genocide question",
-       "National Archives (UK) files"
+       "Historians of the genocide question",
+       "UK National Archives files"
       ],
       [
        "The Derg",
-       "Survivor testimony (not read)",
-       "Alex de Waal; Gebru Tareke; Bahru Zewde",
-       "Court record: Mengistu convicted in absentia in 2006"
+       "Survivor testimony",
+       "Alex de Waal on famine",
+       "Mengistu's 2006 conviction in absentia"
       ],
       [
        "Adjustment",
        "Not applicable",
-       "Van de Walle; Easterly; Stiglitz",
-       "Berg Report (1981); Lagos Plan of Action (1980)"
+       "Development economists",
+       "The Berg Report (1981) and the Lagos Plan of Action (1980)"
       ]
      ],
-     "src": "{{lib}}"
-    },
-    {
-     "t": "p",
-     "x": "The Berg Report and the Lagos Plan of Action disagree about the cause of the crisis. The Berg Report stressed domestic policy and market reforms; the Lagos Plan stressed self-reliance. Read each as the document of its author, not as a neutral account. {{lib}}"
+     "src": "{{lib}} {{berg}} {{lagos-plan}}"
     },
     {
      "t": "example",
-     "title": "Worked example: two documents, one crisis (our application)",
+     "title": "Worked example: an argument with two other factors",
      "steps": [
-      "Berg Report (1981): blames overvalued currencies and state marketing boards.",
-      "Lagos Plan (1980): urges self-reliance.",
-      "Ask who wrote each, for whom, and what each leaves out (external shocks, in the Berg Report's case, as critics argue).",
-      "Verdict: use both as positions, and look for data on the causes elsewhere. {{lib}}"
+      "Question: was structural adjustment the cause of the 1980s crisis?",
+      "Two other factors: oil shocks and falling commodity prices before adjustment began, and wars that destroyed output.",
+      "Evidence: decline had begun in the 1970s; some countries that delayed reform did worse; outcomes under adjustment were mixed.",
+      "Conclusion: adjustment shaped outcomes, but the crisis had several causes."
      ]
     },
     {
+     "t": "activity",
+     "x": "Write 200 words arguing whether structural adjustment was 'the' cause of the 1980s crisis, using at least two other factors."
+    },
+    {
      "t": "check",
-     "q": "A student quotes the Berg Report as the neutral explanation of Africa's 1980s crisis. Why should it be read as a position?",
+     "q": "A student wants the Biafran death toll from Half of a Yellow Sun. What should you tell them?",
      "o": [
-      "It was written by one institution with a view",
-      "It is fiction",
-      "It was never published",
-      "It is a census"
+      "Use it",
+      "A novel is a dramatisation: use it for experience, and take numbers from demographic estimates with their methods",
+      "Novels give exact tolls",
+      "Ignore Biafra"
      ],
-     "a": 0,
-     "w": "It blamed domestic policy and was criticised for undervaluing external shocks. {{lib}}",
+     "a": 1,
+     "w": "Do not take numbers from fiction. {{lib}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "How should a novel such as Half of a Yellow Sun be used?",
+     "q": "A source gives the Biafran toll as 500,000 to 2 million. What should that range tell you?",
      "o": [
-      "As a dramatisation, beside evidence",
-      "As a death-toll source",
-      "As a treaty",
-      "Not at all"
+      "That the toll is known exactly",
+      "That little is known and the method matters",
+      "That 1.25 million is right",
+      "That the war was small"
      ],
-     "a": 0,
-     "w": "The library marks it as dramatised fiction. {{lib}}"
+     "a": 1,
+     "w": "Wide ranges signal poor baselines. {{wiki-biafra}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Pair witnesses with analysts and official documents. {{lib}}",
-      "Read each document as a position.",
-      "Do not take numbers from fiction."
+      "Compare cases by mechanism, not by the largest number. {{lib}}",
+      "Pair witnesses with analysts and official documents.",
+      "Read each official document as a position."
      ]
     }
-   ]
+   ],
+   "id": "l5"
   },
   {
    "id": "l6",

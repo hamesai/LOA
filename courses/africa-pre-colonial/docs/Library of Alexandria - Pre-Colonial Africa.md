@@ -2,7 +2,7 @@
 
 Level: Intermediate. Created 15/11/2026.
 
-Place the major African states from Nok and Kush to the Berlin Conference on a map and timeline, and judge how strong the evidence is for each claim, from archaeology and oral tradition to chronicles and outside accounts.
+Place the major African states from Nok and Kush to the eve of the Scramble on a map and timeline, and judge how strong the evidence is for each claim, from archaeology and oral tradition to chronicles and outside accounts.
 
 ## Progression ladder
 
@@ -412,18 +412,18 @@ R6. What is the Frobenius claim and why was it wrong? Answer: Non-African origin
 ### Pass condition
 You can explain the southern sequence, name the colonial myth and its correction, argue both sides of the mfecane debate, and complete C1 to C3.
 
-## Module 8: The Atlantic world, the slave trades, and the Berlin Conference
+## Module 8: The Atlantic world, the slave trades, and the eve of partition
 
 Prerequisites: Modules 1–7. Time: 7 h.
 
 ### Core idea
-From the 15th century, African states and merchants entered the Atlantic economy as sellers, buyers and rulers. The trans-Atlantic slave trade moved about 12.5 million people out of Africa. It strengthened some states and wrecked others, and ran beside the older trans-Saharan and Indian Ocean trades. The Berlin Conference (1884 to 85) closes the period by setting rules for European claims, but it did not itself carve up Africa.
+From the 15th century, African states and merchants entered the Atlantic economy as sellers, buyers and rulers. The trans-Atlantic slave trade moved about 12.5 million people out of Africa. It strengthened some states and wrecked others, and ran beside the older trans-Saharan and Indian Ocean trades. Abolition came in stages, slavery inside Africa grew, and colonisation was already under way before the Berlin Conference of 1884 to 85, which opens the Post-Colonial course.
 
 ### Tutorial
 
 1. State the slave-trade figures with their source.
 2. Explain at least two competing views of the trade's effects.
-3. Correct the Berlin Conference drew the borders myth.
+3. Explain how abolition came in stages and what followed it.
 4. Test the label pre-colonial.
 
 Worked example: Using the Voyages estimates page: 1,477,046 divided by 3,933,989 is about 0.375, so West Central Africa was about 38 per cent of embarkations in 1751 to 1800 (our arithmetic). The leading region varies by period.
@@ -434,9 +434,9 @@ Worked example: Using the Voyages estimates page: 1,477,046 divided by 3,933,989
 - Answer key: About 12.5 million (12,521,354 on the page I opened); about 5.7 million from West Central Africa, roughly 45 per cent. Database figures can be revised, so allow small differences.
 - Self-check: Your numbers match the page you see within a few per cent.
 
-**C2 (core).** Write 150 words on this statement: The Berlin Conference divided Africa among European powers. Rate it and correct it.
-- Answer key: Must include: a gathering of fourteen states without African delegates; rules (free trade on the Congo and Niger, notification and effective occupation) and recognition of the Congo Free State; borders mostly set by later bilateral treaties; colonisation began earlier (Algeria 1830, Egypt 1882). Verdict: partly misleading.
-- Self-check: You mention no African delegates, rules not borders, and one earlier colonial event.
+**C2 (core).** Write 150 words on this statement: Africa was pre-colonial until the Berlin Conference of 1884. Rate it and correct it.
+- Answer key: Must include: colonisation already under way (Algeria from 1830, the Cape and Natal, Egypt from 1882, Leopold's association from 1876); African states changing fast (Sokoto, Asante, the Zulu kingdom, Merina); abolition in stages from 1807 with slavery inside Africa growing; why the label is still a useful convenience. Verdict: misleading as a description, useful as a label.
+- Self-check: You give two earlier colonial events, one fast-changing African state, and say what the label is still good for.
 
 **C3 (stretch).** Argue a position, in 200 words, on whether the Atlantic trade underdeveloped Africa. Use two historians, one for each side, and name one limit in the evidence.
 - Answer key: States Rodney's or Manning's argument and a counter such as Thornton's; notes that effects varied by region; identifies a data problem (patchy population data, no counterfactual); avoids a one-word verdict; tags [CONTESTED].
@@ -447,7 +447,7 @@ Worked example: Using the Voyages estimates page: 1,477,046 divided by 3,933,989
 - Treating the Atlantic trade as the only slave trade.
 - Treating Africans as either only victims or only perpetrators.
 - Quoting the 12.5 million figure without the disembarked figure.
-- Saying the Berlin Conference drew the borders.
+- Treating 1807 as the end of the slave trade.
 
 ### Review
 
@@ -472,7 +472,7 @@ R6. What question does the label pre-colonial raise? Answer: It centres Europe.
 - [The Long-Term Effects of Africa's Slave Trades (2008)]() (Scholarly, Advanced, Search link). Named in the working library. Not read by us.
 
 ### Pass condition
-You can state the slave-trade figures with their source, explain at least two competing views of its effects, correct the Berlin drew the borders myth, and complete C1 to C3.
+You can state the slave-trade figures with their source, explain at least two competing views of its effects, explain how abolition came in stages, and complete C1 to C3.
 
 ## Capstone: A source-critical atlas of three African places
 
@@ -539,7 +539,7 @@ Read this before relying on any lesson. The course is written from a finished wo
 - Update 03/11/2026: Johnson's History of the Yorubas (OCR of the 1921 edition) was read for Part I chapters on origins, tribes and government and the first chapter of Part II (the founders); the rest was skipped as out of scope, so the course says nothing about Johnson's accounts of the 19th-century wars. Johnson's origin theory (Egypt, Nimrod, Phoenicia) and his count of 1,060 vassal kings are not taught as fact.
 - Update 03/11/2026 (later): Houdas's French translation of the Tarikh es-Soudan was read for the Sonni origins, Kankan-Mousa, Mali, Timbuktu's founding, Sonni Ali and Askia Muhammad (about 17,000 words). The reading is ours, not a published translation; nothing is quoted. The OCR is poor and Houdas's footnotes were read only where they sat in those chapters. The scholars' biographies, the later askias and the Moroccan conquest in the book are not read, so the course takes the invasion from other sources.
 - Update 04/11/2026: the UNESCO General History of Africa volumes were ingested from PDFs the user saved (the UNESCO site blocks scripts) and read in part, so every GHA citation in the course names the chapter. Read in full: vol. IV chapters 6, 7, 8, 11, 17, 18, 21, 22 and 24; vol. II chapters 1 (with the 1974 Cairo symposium annex), 10, 11, 14, 15 and 24; vol. III chapter 6; vol. VI chapter 5; and three vol. IX chapters (Keita, Gourdine, Bocoum). Volumes I and V are ingested but not yet read. The seven volumes have Status: partial reports in docs/source-review-gha-*.md.
-- Lessons added: Module 1 "What the UNESCO General History adds to the evidence"; Module 2 "...Egypt's peopling, Kush, Aksum and Ethiopia"; Module 4 "...Mali, Songhai and the Hausa states"; Module 6 "...the coast, Kongo and Madagascar"; Module 7 "...Great Zimbabwe and the Mfecane"; two paragraphs added to Module 8's supplied-books lesson. Modules 3 and 5 got no GHA material because the Almoravid, trade-route and coastal-Guinea chapters are unread.
+- Lessons added at the time (merged into the topic lessons on 15/11/2026): Module 1 "What the UNESCO General History adds to the evidence"; Module 2 "...Egypt's peopling, Kush, Aksum and Ethiopia"; Module 4 "...Mali, Songhai and the Hausa states"; Module 6 "...the coast, Kongo and Madagascar"; Module 7 "...Great Zimbabwe and the Mfecane"; two paragraphs added to Module 8's supplied-books lesson. Modules 3 and 5 got no GHA material because the Almoravid, trade-route and coastal-Guinea chapters are unread.
 - Corrections made: the Meroitic key is dated 1909 (Leclant), not 1911, in the Module 2 lessons and the review pack; the Great Zimbabwe wall height is an average of 7.3 m in Fagan, set against the course's maximum of about 11 m; Askia Muhammad's start is given as 1492 or 1493; the Mali population and Songhai city and army numbers are shown as estimates.
 - Cautions for later work: vol. IX chapters are positions (Keita, Gourdine and Bocoum argue; Bocoum calls his critics ideologically obstinate; Gourdine uses a commercial genealogy firm's analysis beside journal papers). Vol. IV chapters were written in 1984 and some dates are older than later work: Fagan's Mapungubwe date (15th century) is superseded by the K2 and hill dates in Module 7. Vol. IV contradicts itself on whether Askiya Muhammad conquered Hausaland (Cissoko yes, Adamu quoting Fisher no); the course teaches this as a disagreement. Ngcongco (vol. VI) states the older Mfecane view with a trade addition and does not discuss Cobbing's revision.
 - Real references: refs for the new lessons point to the UNESCO record and carry b: and p: so source_verify can check the numbers. 351 working-library (lib) citations remain in the older lessons; about 25 were replaced where a chapter read in full supports the sentence. The rest need real sources and are listed in the final report.
@@ -553,7 +553,8 @@ Read this before relying on any lesson. The course is written from a finished wo
 - Unread in volume V after this update: chapters 1 to 3 (front matter, population movements), 7 to 10 (Ottoman Egypt, Sudan, Morocco, Algeria/Tunisia/Libya), 29 (conclusion) and the Equiano and Breunig front chapter; all of volume I; and the volume II, III and VI chapters listed above.
 - Update 06/11/2026: volume V is finished (report status complete: 30 files read in full, 11 apparatus files skipped on purpose, none unread). Later chapters read and written in: Vesely on Ottoman Egypt, Cherif on Algiers, Tunis and Tripoli, and El Fasi on Morocco (all Module 3); Hasan and Ogot on the Sudan (Module 2); Malowist on the struggle for trade, Diagne on structures, and Ogot's conclusion (Module 8, with a callout on Diagne's unsupported 25 to 200 million); Vansina on population movements and the preface (Module 1, how to read a migration claim). El Fasi is an interested narrator and Harris, Diagne and Ogot carry slips or contested theses that the modules flag.
 - Still unread in the GHA set after this update: volume I entirely; large parts of volumes II, III and VI (trade routes, Sahara, abolition, Sokoto) and volume IX; Equiano and Breunig front chapter. About 340 working-library citations remain.
-- Update 08/11/2026: volume I (Methodology and African Prehistory) is finished: report status complete, 22 files read in full, 17 skipped on purpose (front matter, early prehistory and human evolution, biographies, bibliography and index), none unread. Findings 218 logged, 0 open. Read and written in: Ki-Zerbo's general introduction and chapter 15 (interdisciplinary method), Fage on historiography, Hama and Ki-Zerbo on the place of history, Curtin on recent trends, Obenga on sources, Djait and Hrbek on written sources before and after 1500, Vansina on oral tradition, Hampate Ba on living tradition, Iskander on archaeology and dating, Diagne on history and linguistics (with the editorial note on race), Olderogge on migrations, Greenberg and Dalby on language classification, Diarra and Mabogunje on historical geography, Hugot on the Sahara, Shaw on West African prehistory, Debono and Vercoutter on the Nile valley and metals, Porteres and Barrau on agriculture, and Ki-Zerbo's conclusion. Sections sit in the UNESCO lesson (l7) of Modules 1 to 7 and lesson l6 of Module 8, mostly Module 1.
+- Update 08/11/2026: volume I (Methodology and African Prehistory) is finished: report status complete, 22 files read in full, 17 skipped on purpose (front matter, early prehistory and human evolution, biographies, bibliography and index), none unread. Findings 218 logged, 0 open. Read and written in: Ki-Zerbo's general introduction and chapter 15 (interdisciplinary method), Fage on historiography, Hama and Ki-Zerbo on the place of history, Curtin on recent trends, Obenga on sources, Djait and Hrbek on written sources before and after 1500, Vansina on oral tradition, Hampate Ba on living tradition, Iskander on archaeology and dating, Diagne on history and linguistics (with the editorial note on race), Olderogge on migrations, Greenberg and Dalby on language classification, Diarra and Mabogunje on historical geography, Hugot on the Sahara, Shaw on West African prehistory, Debono and Vercoutter on the Nile valley and metals, Porteres and Barrau on agriculture, and Ki-Zerbo's conclusion. These sections first sat in separate UNESCO lessons; since 15/11/2026 they are taught inside the topic lessons (see the consolidation note below).
 - Disagreements inside volume I taught as named positions: Greenberg's Afro-Asiatic against Obenga's Cairo-report position on Egyptian and a Committee footnote that Berber is Semitic (Modules 1, 2, 3); Shaw and Vercoutter against the Meroe origin of West African iron, set beside Andah and Bocoum (Module 1); Bantu origin by the northern route, through the forest, or from Guthrie's Shaba core (Modules 1 and 6); Fage and Djait on the dates of the Periplus, Ptolemy and Cosmas, and on the composition of the Timbuktu tarikhs; Ki-Zerbo (1577) and Hrbek (1578) on the Ottoman letter to Bornu. Warning callouts flag Debono's impossible dynasty numbers, Obenga's script chain, Diagne's Narmer-to-Dahomey chain, Mabogunje's moral conclusion, and Ki-Zerbo's conclusion on slavery and land.
 - Prehistory chapters 19, 20 and 21 were searched for herding, Iron Age and Bantu passages and three findings logged (Modules 1, 6, 7); the rest of those chapters, chapter 26 on art and chapters 16 to 18 and 22 were skipped as earlier than the eight modules. Verify shows about 78 flagged numbers, nearly all OCR spacing ('1 6 3 5'), abbreviated ranges ('1312-35') or '10 000' spacing; three real slips (1500, two uses of 1981) were reworded.
 - Still unread in the GHA set after this update: large parts of volumes II, III and VI (trade routes, Sahara, abolition, Sokoto) and volume IX; Equiano and Breunig front chapter. About 340 working-library citations remain; none replaced in this stretch.
+- Consolidation 15/11/2026: the separate 'What the books add' and 'What the UNESCO General History adds' lessons were removed from all eight modules. Their findings are now taught inside topic lessons, organised by period and place rather than by author, with the same citations. Each module was rebuilt from courses/africa-pre-colonial/build/lessons/<module>.json by _template/apply_lessons.js. Some author-by-author detail that did not serve the teaching was cut (for example Debono's Palaeolithic sequence, Mabogunje's locust dates, Hampate Ba on caste origins); the source reviews keep it. Berlin is now taught once, in Post-Colonial Africa Module 1; Module 8 ends on the eve of partition.

@@ -11,7 +11,7 @@ ARCHIVE_ADD({
    "challenges": 24,
    "capstone": "A source-critical atlas of three African places",
    "file": "courses/africa-pre-colonial/docs/Library of Alexandria - Pre-Colonial Africa.md",
-   "summary": "Place the major African states from Nok and Kush to the Berlin Conference on a map and timeline, and judge how strong the evidence is for each claim, from archaeology and oral tradition to chronicles and outside accounts.",
+   "summary": "Place the major African states from Nok and Kush to the eve of the Scramble on a map and timeline, and judge how strong the evidence is for each claim, from archaeology and oral tradition to chronicles and outside accounts.",
    "tags": [
     "History",
     "Africa",
@@ -117,7 +117,7 @@ ARCHIVE_ADD({
    "library": "africa-pre-colonial",
    "number": "8",
    "kind": "module",
-   "title": "The Atlantic world, the slave trades, and the Berlin Conference",
+   "title": "The Atlantic world, the slave trades, and the eve of partition",
    "hours": "7 h",
    "challenges": 3,
    "belt": "Brown",
@@ -1011,11 +1011,11 @@ ARCHIVE_ADD({
   },
   "africa-pre-colonial-8": {
    "prereq": "Modules 1–7",
-   "core": "From the 15th century, African states and merchants entered the Atlantic economy as sellers, buyers and rulers. The trans-Atlantic slave trade moved about 12.5 million people out of Africa. It strengthened some states and wrecked others, and ran beside the older trans-Saharan and Indian Ocean trades. The Berlin Conference (1884 to 85) closes the period by setting rules for European claims, but it did not itself carve up Africa.",
+   "core": "From the 15th century, African states and merchants entered the Atlantic economy as sellers, buyers and rulers. The trans-Atlantic slave trade moved about 12.5 million people out of Africa. It strengthened some states and wrecked others, and ran beside the older trans-Saharan and Indian Ocean trades. Abolition came in stages, slavery inside Africa grew, and colonisation was already under way before the Berlin Conference of 1884 to 85, which opens the Post-Colonial course.",
    "steps": [
     "State the slave-trade figures with their source.",
     "Explain at least two competing views of the trade's effects.",
-    "Correct the Berlin Conference drew the borders myth.",
+    "Explain how abolition came in stages and what followed it.",
     "Test the label pre-colonial."
    ],
    "worked": "Using the Voyages estimates page: 1,477,046 divided by 3,933,989 is about 0.375, so West Central Africa was about 38 per cent of embarkations in 1751 to 1800 (our arithmetic). The leading region varies by period.",
@@ -1030,9 +1030,9 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "Write 150 words on this statement: The Berlin Conference divided Africa among European powers. Rate it and correct it.",
-     "key": "Must include: a gathering of fourteen states without African delegates; rules (free trade on the Congo and Niger, notification and effective occupation) and recognition of the Congo Free State; borders mostly set by later bilateral treaties; colonisation began earlier (Algeria 1830, Egypt 1882). Verdict: partly misleading.",
-     "check": "You mention no African delegates, rules not borders, and one earlier colonial event."
+     "task": "Write 150 words on this statement: Africa was pre-colonial until the Berlin Conference of 1884. Rate it and correct it.",
+     "key": "Must include: colonisation already under way (Algeria from 1830, the Cape and Natal, Egypt from 1882, Leopold's association from 1876); African states changing fast (Sokoto, Asante, the Zulu kingdom, Merina); abolition in stages from 1807 with slavery inside Africa growing; why the label is still a useful convenience. Verdict: misleading as a description, useful as a label.",
+     "check": "You give two earlier colonial events, one fast-changing African state, and say what the label is still good for."
     },
     {
      "id": "C3",
@@ -1046,7 +1046,7 @@ ARCHIVE_ADD({
     "Treating the Atlantic trade as the only slave trade.",
     "Treating Africans as either only victims or only perpetrators.",
     "Quoting the 12.5 million figure without the disembarked figure.",
-    "Saying the Berlin Conference drew the borders."
+    "Treating 1807 as the end of the slave trade."
    ],
    "review": [
     {
@@ -1074,7 +1074,7 @@ ARCHIVE_ADD({
      "a": "It centres Europe."
     }
    ],
-   "pass": "You can state the slave-trade figures with their source, explain at least two competing views of its effects, correct the Berlin drew the borders myth, and complete C1 to C3."
+   "pass": "You can state the slave-trade figures with their source, explain at least two competing views of its effects, explain how abolition came in stages, and complete C1 to C3."
   },
   "africa-pre-colonial-cap": {
    "prereq": "All modules",
@@ -1565,15 +1565,16 @@ ARCHIVE_ADD({
     "w": "3,933,989."
    },
    {
-    "q": "What is the best summary of the Berlin Conference?",
+    "q": "A timeline marks 1807 as the end of the Atlantic slave trade. What is the best correction?",
     "o": [
-     "It drew the map of Africa",
-     "It set rules for European claims and trade, without African delegates",
-     "It ended slavery",
-     "It created the Congo Free State by itself"
+     "It is right",
+     "Britain banned its subjects' trade in 1807; Brazil's trade stopped in 1851 and the trade went on into the 1860s",
+     "The trade ended in 1884",
+     "The trade ended in 1700"
     ],
     "a": 1,
-    "w": "Borders came by later treaty."
+    "w": "Abolition came in stages. {{gha6-daget}}",
+    "kind": "application"
    },
    {
     "q": "An essay says historians agree the Atlantic trade underdeveloped Africa. Which correction is best?",

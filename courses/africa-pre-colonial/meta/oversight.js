@@ -160,12 +160,12 @@
   "holds": [
    "State the slave-trade figures with their source.",
    "Explain at least two competing views of the trade's effects.",
-   "Correct the Berlin Conference drew the borders myth.",
+   "Explain how abolition came in stages and what followed it.",
    "Test the label pre-colonial."
   ],
   "signoff": [
    "Challenge C1 (Warm-up): Using the Voyages estimates page, find the total embarked 1501 to 1866 and the share from West-Central Africa.",
-   "Challenge C2 (Core): Write 150 words on this statement: The Berlin Conference divided Africa among European powers. Rate it and correct it.",
+   "Challenge C2 (Core): Write 150 words on this statement: Africa was pre-colonial until the Berlin Conference of 1884. Rate it and correct it.",
    "Challenge C3 (Stretch): Argue a position, in 200 words, on whether the Atlantic trade underdeveloped Africa."
   ],
   "challenge": {

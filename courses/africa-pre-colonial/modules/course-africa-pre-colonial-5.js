@@ -1,22 +1,22 @@
 /* Pre-Colonial Africa: states, networks and the evidence for them (to c. 1880) (module 5). Block types: _template/TEMPLATE.md. */
 (window.COURSE = window.COURSE || {})["africa-pre-colonial-5"] = {
- "intro": "The forest and coast produced bronze, brass, cavalry, gold-based bureaucracy and military monarchy, as well as societies without kings. This module teaches the comparison skill. Lecturer lens: Samuel Johnson (1846 to 1901) was a Yoruba clergyman born in Sierra Leone who finished The History of the Yorubas in 1897. It is one of the main African-authored sources for Oyo and its neighbours.",
+ "intro": "The forest and the Guinea coast produced rice and yam farming, stone circles, bronze and brass casting, cavalry empires, gold-based bureaucracy and military monarchy, as well as societies without kings and trading city-states. This module teaches the comparison skill, and how to read founding myths and African-authored histories. Lecturer lens: Samuel Johnson (1846 to 1901) was a Yoruba clergyman born in Sierra Leone who finished The History of the Yorubas in 1897. It is one of the main African-authored sources for Oyo and its neighbours.",
  "outcomes": [
-  "Compare forest and coastal states in a table.",
-  "Reject the Frobenius claim with evidence.",
-  "Read founding myths as evidence of belief.",
-  "Handle restitution as a changing position.",
+  "Describe the coast and forest before the large kingdoms, from rice farming to the Senegambian stone circles.",
+  "Reject the Frobenius claim with evidence, and handle the disputed dates of Igbo-Ukwu, Ife and Benin.",
+  "Compare Oyo, Asante and Dahomey in a table, including how rulers were checked.",
+  "Explain how communities met the Atlantic trade as middlemen, procurers or victims, and the debate over cause and effect.",
+  "Read founding myths as evidence of belief, and an African-authored history with its aims and editing in view.",
   "Lecturer's method: Read an African-authored history with its aims, informants and editing in view."
  ],
  "lessons": [
   {
-   "id": "l1",
-   "title": "Igbo-Ukwu, Ife and the Frobenius claim",
-   "min": 22,
+   "title": "The coast and forest before the kingdoms",
+   "min": 26,
    "blocks": [
     {
      "t": "p",
-     "x": "South of the savanna, forest and coastal societies built kingdoms and non-state systems around art, gold, trade and, increasingly, the Atlantic. Ife and Benin are known for sculpture, Oyo for cavalry and empire, Asante for gold and bureaucracy, and Dahomey for a centralised military monarchy. {{lib}}"
+     "x": "South of the savanna, forest and coastal societies built kingdoms and non-state systems around farming, art, gold, trade and, increasingly, the Atlantic. Before about 1450 the evidence is thin, resting on early archaeology, later oral tradition and the first Portuguese records. {{gha4-person}} {{gha4-kipre}} {{gha4-ryder}} [THIN EVIDENCE]"
     },
     {
      "t": "fig",
@@ -24,6 +24,116 @@
      "title": "Guinea coast and forest timeline",
      "cap": "Approximate spans. An open end means no firm end date is known."
     },
+    {
+     "t": "h",
+     "x": "Farming grew out of gathering"
+    },
+    {
+     "t": "p",
+     "x": "Farming in the Guinea zone grew out of gathering, not as a sudden switch. Wild grasses were planted near shrinking water, and oil palms moved from collected nuts to planted groves, so hunting and fishing continued alongside farming for a long time. {{gha3-shaw}}"
+    },
+    {
+     "t": "p",
+     "x": "Yams, oil palm, cola and Telfairia underlay the coastal and forest kingdoms, and mangrove swamp rice fields in Senegal and Guinea were worked with spades. {{gha1-porteres}} [PROBABLE] Rice, not millet or cotton, was the main crop of the Upper Guinea coast. {{gha3-andah}}"
+    },
+    {
+     "t": "p",
+     "x": "The density of population in southern Nigeria may be due to long yam cultivation combined with oil-palm nuts, a claim that lacks archaeological proof. {{gha1-shaw}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Forest clearance favoured the malarial mosquito, and the sickle-cell trait, whose carriers gained protection against falciparum malaria, is thought to have built up over about 1500 years in endemic areas. {{gha3-shaw}} Treat this as a hypothesis."
+    },
+    {
+     "t": "h",
+     "x": "Upper Guinea: stone circles, figures and early iron"
+    },
+    {
+     "t": "p",
+     "x": "The Senegambian stone circles are burial grounds, probably of dynasties. Excavations in the Sine-Saloum area date them to about 1000 CE, not the 14th century; over 4000 mounds hold gold, carnelian and iron goods. Their builders were most likely ancestors of the present Mandingo, Wolof and Fulbe. {{gha3-andah}}"
+    },
+    {
+     "t": "p",
+     "x": "Iron-using levels at the Sierra Leone rock shelters Kamabai and Yagala date from the 7th or 8th century, and stone tools continued to the 14th. {{gha3-andah}}"
+    },
+    {
+     "t": "p",
+     "x": "Intensive agriculture, centralised monarchies, guilds and markets were present on this coast before Sudanic intrusions; iron and states were not imposed from the Sudan. {{gha3-andah}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Vai and Kono speakers came to the coast along trade corridors that carried salt and dried fish north, not in a mass conquest, and Vai became a trade language. {{gha3-andah}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "Lineage societies and the Mande"
+    },
+    {
+     "t": "p",
+     "x": "The coast from the Balante and Baga to the Temne and Kru was a world of rice-growing, fishing and lineage societies. The 'kings' the Portuguese met were patriarchs or clan chiefs with councils that could overrule them, and there was no Islam south of the Rio Grande. {{gha4-person}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Kaabu became independent of Mali in 1537 and was a confederation of twelve Mande provinces under a mansa at Kansala. {{gha5-upper}} It lasted to 1867. {{gha4-person}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Kaabu's founder, Tiramaghan Traore, is placed in Sundiata's time, in the thirteenth century, in one UNESCO chapter, and at the end of the fifteenth century in another that still calls him one of Sundiata's generals. The two cannot both be right, so treat the date as unsettled. {{gha5-upper}} {{gha4-person}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "The Mane invasion of the Sierra Leone coast about 1540 to 1550 was a small, snowballing elite that spread Mandingo language and centralised rule. Dates reckoned from Malinke genealogies give only minimums. {{gha4-person}} [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "Languages of the coast"
+    },
+    {
+     "t": "p",
+     "x": "Greenberg's Kwa group contains Yoruba, Nupe, Edo, Igbo, the Akan languages and Ewe-Fon, and Cross River (Efik-Ibibio) falls within Benue-Congo. Kwa itself is not shown to be a unit. {{gha1-greenberg}} [CONTESTED]"
+    },
+    {
+     "t": "check",
+     "q": "A guidebook says the Senegambian stone circles are fourteenth-century monuments of unknown purpose. What can you correct?",
+     "o": [
+      "Nothing",
+      "Excavation dates them to about 1000 CE, and they are dynastic burial grounds with rich grave goods",
+      "They are Roman",
+      "They are natural rocks"
+     ],
+     "a": 1,
+     "w": "Over 4000 mounds hold gold, carnelian and iron goods. {{gha3-andah}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "A textbook says states and iron came to the Guinea coast from the Sudan. Which evidence best tests that?",
+     "o": [
+      "Ibn Battuta",
+      "Iron levels at Kamabai and Yagala from the 7th or 8th century, and markets, guilds and monarchies before Sudanic intrusions",
+      "The Kano Chronicle",
+      "Portuguese maps"
+     ],
+     "a": 1,
+     "w": "The coast had its own iron, rice and political forms. {{gha3-andah}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Farming grew slowly out of gathering; rice and yams were the staples. {{gha3-shaw}}",
+      "The coast had iron, burial monuments and markets before outside intrusions. {{gha3-andah}}",
+      "Many coastal 'kings' were clan chiefs with councils."
+     ]
+    }
+   ],
+   "id": "l1"
+  },
+  {
+   "title": "Igbo-Ukwu, Ife and the Frobenius claim",
+   "min": 26,
+   "blocks": [
     {
      "t": "h",
      "x": "Igbo-Ukwu"
@@ -34,11 +144,15 @@
     },
     {
      "t": "p",
-     "x": "Shaw's excavation found a storehouse of regalia, a wood-lined burial chamber and a disposal pit. Wood from a copper-studded stool in the burial chamber dates between the 8th and early 11th centuries, while another sample from the same site falls in the 14th or 15th century, so the date is disputed. {{gha3-shaw}}"
+     "x": "Shaw found a storehouse of regalia, a wood-lined burial chamber and a disposal pit. {{gha3-shaw}} The burial held a crown, regalia and 165,000 glass and carnelian beads, anchored by dated mining debris of AD 895 to 1000. {{rd-gold}}"
     },
     {
      "t": "p",
-     "x": "Where the copper came from is open. Shaw argues for trans-Saharan sources such as Takedda and Azelik; Onwuejeogwu cites copper and lead at Abakaliki and tin at Afikpo and Calabar. Onwuejeogwu also reconstructs Nri as a ritual-based state from about the 9th century, with Igbo-Ukwu possibly the burial of a ruler in that system. {{gha3-anquandah}} {{gha3-shaw}}"
+     "x": "The date is still argued. Wood from a stool in the burial chamber dates between the 8th and early 11th centuries, while another sample from the same site falls in the 14th or 15th century. {{gha3-shaw}} Charcoal dates can run old, and one date comes out near 1445. {{gha4-ryder}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Where the copper came from is open: trans-Saharan sources such as Takedda and Azelik, or local copper and lead at Abakaliki. Nri may have been a ritual-based state from about the 9th century, with Igbo-Ukwu possibly the burial of a ruler in that system. {{gha3-anquandah}} {{gha3-shaw}} [CONTESTED]"
     },
     {
      "t": "h",
@@ -46,19 +160,62 @@
     },
     {
      "t": "p",
-     "x": "Ife is the spiritual centre of the Yoruba, with the myth of Oduduwa. Naturalistic heads in terracotta and copper alloy date to roughly the 12th to 15th centuries [PROBABLE, dates approximate]. {{met-ife}} {{afhx-ife}} {{ife-openedition}}"
+     "x": "Ife is the spiritual centre of the Yoruba, with the myth of Oduduwa. Its urban history begins with hamlets around 350 CE. {{gha3-anquandah}} Its naturalistic heads in terracotta and copper alloy are dated to roughly the 12th to 15th centuries, or about 900 to 1300 CE on another reckoning. {{met-ife}} {{gha5-alagoa}} [PROBABLE, dates approximate]"
     },
     {
      "t": "p",
-     "x": "Ife's urban history begins with hamlets around 350 CE, and some naturalistic bronze and terracotta work is dated to the 11th century by bronze dating; the 12th to 15th century span is one view. Blue segi beads found at Ife also occur at Kumbi Saleh, Tegdaoust and Gao, which shows contact across the Sahel. {{gha3-anquandah}}"
+     "x": "Spectrographic analysis shows the naturalistic Ife 'bronzes' are made of brass, not bronze. {{gha1-iskander}} [PROBABLE]"
     },
     {
      "t": "p",
-     "x": "Shaw proposes that Ife's wealth came from trade in slaves, kola and horses, with slave-raiding harder in the forest, so buyers used local authorities. He also cautions that not every bound figure in Ife art shows a slave, so keep this as a hypothesis. {{gha3-shaw}}"
+     "x": "Blue segi beads found at Ife also occur at Kumbi Saleh, Tegdaoust and Gao, which shows contact across the Sahel. {{gha3-anquandah}}"
+    },
+    {
+     "t": "p",
+     "x": "Ife's wealth may have come from trade in slaves, kola and horses, but not every bound figure in Ife art shows a slave, so keep this as a hypothesis. {{gha3-shaw}}"
+    },
+    {
+     "t": "table",
+     "title": "Dating the forest metalwork: two readings",
+     "head": [
+      "Topic",
+      "Common dating",
+      "The 1984 challenge"
+     ],
+     "rows": [
+      [
+       "Ife heads",
+       "About the 12th to 15th centuries",
+       "The 25 brass and copper heads were likely cast just before a sixteenth-century catastrophe, when Portuguese metal was plentiful {{gha4-ryder}}"
+      ],
+      [
+       "Benin casting",
+       "From the 15th century, with Ewuare",
+       "Lost-wax casting became important only in the sixteenth century with imported European brass {{gha4-ryder}}"
+      ],
+      [
+       "Igbo-Ukwu",
+       "9th to 10th century",
+       "The radiocarbon dates are a puzzle; charcoal can date old {{gha4-ryder}}"
+      ]
+     ],
+     "src": "{{gha4-ryder}}"
+    },
+    {
+     "t": "p",
+     "x": "How to choose: the radiocarbon and mining dates for Igbo-Ukwu are strong, while the sixteenth-century reading of Ife rests on an argument about metal supply. Keep the common dates and tag them [CONTESTED] (our judgement)."
+    },
+    {
+     "t": "h",
+     "x": "The Frobenius claim"
     },
     {
      "t": "p",
      "x": "In 1910 the German ethnologist Leo Frobenius claimed such art could not be African and suggested a Greek or Atlantean origin. That view has since been rejected as racist and unsupported. {{natgeo-ife}} {{universalis-ife}}"
+    },
+    {
+     "t": "p",
+     "x": "The same habit runs through other origin stories. Meyerowitz gave the Akan a Mediterranean ancestry, an example of myth-making in the other direction. {{gha1-fage}} Johnson himself argued that the Yoruba came from Upper Egypt or Nubia; that is his own 1890s inference, rejected like Frobenius's. {{johnson}} [CONTESTED]"
     },
     {
      "t": "table",
@@ -81,11 +238,11 @@
       ],
       [
        "Counter-evidence",
-       "Metallurgical and stylistic study ties the heads to Yoruba traditions; Ife has a long local sequence",
+       "A long local sequence from hamlets around 350 CE; local brass and terracotta traditions",
        "Local origin is demonstrated"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha3-anquandah}} {{natgeo-ife}}"
     },
     {
      "t": "example",
@@ -93,7 +250,7 @@
      "steps": [
       "Caption: The Ife heads are too sophisticated to be African; they must have been made by visitors from the Mediterranean.",
       "Step one: name the assumption, that sophistication cannot be African. Step two: name the source, Frobenius in 1910.",
-      "Step three: state the rejection, with the local sequence and the Yoruba stylistic ties as evidence. {{lib}}"
+      "Step three: state the rejection, with Ife's long local sequence and its own brass and terracotta traditions as evidence. {{natgeo-ife}} {{gha3-anquandah}}"
      ]
     },
     {
@@ -119,21 +276,21 @@
       "Fort Jesus"
      ],
      "a": 1,
-     "w": "That is Shaw's finding [PROBABLE]. {{springer-igbo}}",
+     "w": "Igbo-Ukwu's bronzes come from a region with no large state. {{springer-igbo}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Igbo-Ukwu bronzes date to about the 9th to 10th centuries [PROBABLE]. {{springer-igbo}} {{smarthistory-igbo}}",
-      "Ife heads are Yoruba work; the Frobenius claim is rejected.",
+      "Igbo-Ukwu bronzes date to about the 9th to 10th centuries [PROBABLE]. {{springer-igbo}}",
+      "Ife heads are Yoruba brass and terracotta work; the Frobenius claim is rejected.",
       "Complex art does not need a large state."
      ]
     }
-   ]
+   ],
+   "id": "l2"
   },
   {
-   "id": "l2",
    "title": "Benin, 1897 and the question of return",
    "min": 24,
    "blocks": [
@@ -143,19 +300,44 @@
     },
     {
      "t": "p",
-     "x": "Connah's excavations show Benin's walls to be linear earthworks that mark territory, not defence. The outer wall is traditionally dated to Oguola in the late 13th century, and the inner wall was built in the 14th or 15th century, which implies a strong central government by then. Dark's dating puts the present dynasty near 1300, against Egharevba's court-history dates near 1170, so treat both as traditions. {{gha3-anquandah}}"
+     "x": "Dark's dating puts the present dynasty near 1300, against Egharevba's court-history dates near 1170, so treat both as traditions. {{gha3-anquandah}}"
+    },
+    {
+     "t": "h",
+     "x": "Ewuare and the walls"
+    },
+    {
+     "t": "p",
+     "x": "Ewuare turned a limited monarchy into an autocracy in the fifteenth century. He built the wall and a three-department palace, raised new orders of town chiefs and introduced primogeniture, but ruled directly only within about 64 km. {{gha4-ryder}} [TRADITIONAL DATE]"
+    },
+    {
+     "t": "p",
+     "x": "Benin's walls are linear earthworks that mark territory, not defence. The inner wall was built in the 14th or 15th century, which implies a strong central government by then. {{gha3-anquandah}}"
+    },
+    {
+     "t": "p",
+     "x": "A network of banks and ditches surrounds the city and its hinterland. A survey by Patrick Darling reported a vast total length, and a figure of 16,000 km is widely quoted. That figure comes from one survey and is [CONTESTED] pending independent replication. {{nasa-benin}} {{wiki-benin-moat}} {{guinness-benin}}"
+    },
+    {
+     "t": "h",
+     "x": "The brass casters"
     },
     {
      "t": "p",
      "x": "The court guild of brass casters made plaques and heads from the 16th and 17th centuries. The plaques record court life, officials and Portuguese visitors. {{bm-benin}} {{met-plaque}}"
     },
     {
-     "t": "h",
-     "x": "The earthworks"
+     "t": "p",
+     "x": "At Benin the same guild of artists carved wood and ivory while others worked pottery and bronze, so a switch between ivory and bronze can be a change of material rather than of style. {{gha1-kizerbo15}} [PROBABLE]"
     },
     {
      "t": "p",
-     "x": "A network of banks and ditches surrounds the city and its hinterland. A survey by Patrick Darling reported a vast total length, and a figure of 16,000 km is widely quoted. That figure comes from one survey and is [CONTESTED] pending independent replication. {{nasa-benin}} {{wiki-benin-moat}} {{guinness-benin}}"
+     "x": "Claims by other peoples to Ife or Benin descent are mostly prestige claims: groups that forgot their origin chose a powerful distant place. {{gha4-ryder}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "A report of forty-one young women in a well at Benin City, dated before AD 1200 and read as ritual sacrifice, is a single archaeological report, so say only 'reported'. {{rd-slave}}"
     },
     {
      "t": "h",
@@ -182,7 +364,11 @@
        "Background"
       ],
       [
-       "First Oba Eweka I c. 1180",
+       "First Oba Eweka I c. 1180, or about 1300",
+       "[TRADITIONAL DATE]"
+      ],
+      [
+       "Ewuare's autocracy and wall, 15th century",
        "[TRADITIONAL DATE]"
       ],
       [
@@ -198,7 +384,7 @@
        "[check current]"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{met-benin}} {{gha4-ryder}} {{bm-benin}}"
     },
     {
      "t": "callout",
@@ -207,90 +393,276 @@
     },
     {
      "t": "check",
-     "q": "What is the status of the 16,000 km earthworks figure?",
+     "q": "A news article says Benin's earthworks are '16,000 km long, the largest structure on Earth'. How should you report it?",
      "o": [
-      "Firm",
-      "Contested: one survey, awaiting independent replication",
-      "Disproved",
-      "Unknown to Darling"
+      "As a firm fact",
+      "As a widely quoted figure from one survey, contested until independently replicated",
+      "As disproved",
+      "As a Portuguese estimate"
      ],
      "a": 1,
-     "w": "It is a widely quoted survey figure. {{lib}}"
+     "w": "The figure rests on one survey. {{wiki-benin-moat}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why should you check the current position before writing about restitution?",
+     "q": "You are writing in 2026 about whether a museum still holds a Benin plaque. What must you do?",
      "o": [
-      "Nothing has been returned",
-      "Positions change as institutions decide",
-      "The law never changes",
-      "All objects returned in 2021"
+      "Assume nothing has been returned",
+      "Check the institution's current position, because returns and transfers have changed since 2021",
+      "Assume all were returned in 2021",
+      "Cite the 1897 inventory"
      ],
      "a": 1,
-     "w": "Several institutions have returned or transferred objects since 2021. {{lib}}"
+     "w": "Restitution positions change as institutions decide. {{museumsassoc-benin}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Benin's brass plaques record court life and Portuguese visitors. {{lib}}",
-      "Eweka's date is traditional.",
+      "Benin's dynasty dates are traditions; Ewuare built an autocracy in the 15th century. {{gha4-ryder}}",
+      "The brass plaques record court life and Portuguese visitors.",
       "Restitution status changes; check before citing."
      ]
     }
-   ]
+   ],
+   "id": "l3"
   },
   {
-   "id": "l3",
-   "title": "Oyo, Asante and Dahomey compared",
+   "title": "The Akan and the rise of Asante",
    "min": 28,
    "blocks": [
     {
-     "t": "p",
-     "x": "Oyo was a Yoruba kingdom with an Alaafin, the king, checked by a council of state called the Oyo Mesi and a powerful chief called the Bashorun. Cavalry raised from the north and tribute from neighbours underpinned its power in the 17th and 18th centuries. {{wiki-oyo}} {{africanhistoryextra-oyo}}"
+     "t": "h",
+     "x": "Towns before the states"
     },
     {
      "t": "p",
-     "x": "Decline followed the revolt at Ilorin (c. 1817), the spread of the Sokoto jihad and civil wars. Old Oyo was abandoned in the 1830s. {{wiki-oyo}} {{africanhistoryextra-oyo}} {{law-oyo}}"
+     "x": "Begho was a farming town from about the 2nd century CE and a trading centre from the 11th century, peaking in the 14th century with about 500 compounds. Bono Manso was a state capital that absorbed earlier chiefdoms. {{gha3-anquandah}}"
+    },
+    {
+     "t": "p",
+     "x": "Excavation at Begho shows trade with Jenne, with a kola market and a link to Mali's gold in the fourteenth century. The Portuguese began El Mina in 1481 for gold. {{gha4-kipre}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Earthworks at Akyem Manso and Akwatia may be defensive or may wall labour camps for gold; the defence reading is the stronger but unproven view. {{gha3-anquandah}}"
     },
     {
      "t": "h",
-     "x": "Asante"
+     "x": "Who the Akan are"
     },
     {
      "t": "p",
-     "x": "Akan states were unified by Osei Tutu in the late 17th century, traditionally c. 1701 with victory over Denkyira at Feyiase [TRADITIONAL DATE]. The Golden Stool is said to have been brought down by the priest Okomfo Anokye and became the symbol of the union. The story is a founding myth with a political purpose. {{ency-osei}} {{wiki-asante}} {{brit-asante}}"
+     "x": "The Akan and lagoon peoples are Kwa speakers, and linguistic work rules out origin stories from Mesopotamia, Libya or ancient Ghana. Akan culture shows matrilineal succession, day-names and a 42-day ritual calendar. {{gha4-kipre}} [THIN EVIDENCE]"
     },
     {
      "t": "p",
-     "x": "Before the Akan states, the Gold Coast had proto-urban centres. Begho was a farming town from about the 2nd century CE and a trading centre from the 11th century, peaking in the 14th century with about 500 compounds. Bono Manso was the state capital, which absorbed earlier chiefdoms around the end of the first millennium. Earthworks at Akyem Manso and Akwatia may be defensive or may wall labour camps for gold, and the defence reading is the stronger but unproven view. {{gha3-anquandah}}"
+     "x": "Oral tradition rarely goes back before the seventeenth century. The Ndenye ancestor Ano Asena looks ancient but belongs about 1690. {{gha4-kipre}}"
     },
     {
      "t": "p",
-     "x": "Farming in the Guinea zone grew out of gathering, not as a sudden switch. Wild grasses were planted near shrinking water, and oil palms moved from collected nuts to planted groves, so hunting and fishing continued alongside farming for a long time. Stone Age hunter-gatherer tools survived in places into the 11th century. {{gha3-shaw}}"
-    },
-    {
-     "t": "p",
-     "x": "Malaria may have shaped the spread of sickle-cell, whose carriers gained protection against falciparum malaria; the gene is thought to have built up over about 1500 years in endemic areas, and forest clearance favoured the mosquito. Treat this as a hypothesis from the evidence on skeletons and disease. {{gha3-shaw}}"
-    },
-    {
-     "t": "p",
-     "x": "Asante grew rich on gold, kola and the sale of captives. Kumasi had an elaborate administration studied by Ivor Wilks. Wars with Britain include 1824, when Asante defeated and killed Governor MacCarthy, and 1873 to 74, when the British took Kumasi. {{brit-asante}} {{countrystudies-ghana}} {{blackpast-anglo}}"
+     "x": "The Akan, Ga-Adangbe and Ewe completed their migrations between 1500 and 1800. A Dutch map of 1629 shows about thirty-eight small states between the Tano and the Volta, and gold output peaked in the late 1600s at about two million ounces. {{gha5-lower}} [PROBABLE]"
     },
     {
      "t": "h",
-     "x": "Dahomey"
+     "x": "From Denkyira and Akwamu to Asante"
     },
     {
      "t": "p",
-     "x": "The Fon kingdom of Abomey was powerful under Agaja (r. 1708 to 40), who conquered Allada (1724) and Whydah (1727) and reached the coast. Oyo then made Dahomey a tributary from about 1730. The state was highly centralised, held a royal monopoly on the trade in captives, and held the annual Customs ceremonies. {{brit-agaja}} {{wiki-agaja}} {{brit-dahomey}}"
+     "x": "Denkyira and Akwamu rose first, and Akwamu's wing system of military organisation was borrowed in turn by Asante. Asante beat Denkyira in 1699 to 1701, conquered Aowin, Wassa and others by 1730, and took Akyem in 1742. {{gha5-lower}} [PROBABLE]"
     },
     {
      "t": "p",
-     "x": "Its women soldiers, the Agojie or Amazons, are well documented from the 19th century in European accounts. Their origins, and the claim that Queen Hangbe founded them, are [CONTESTED]. Europeans emphasised human sacrifice at the Customs. Treat such descriptions critically but do not deny the practice outright. {{lib}}"
+     "x": "Akan states were unified by Osei Tutu in the late 17th century, traditionally c. 1701 with victory over Denkyira at Feyiase [TRADITIONAL DATE]. The Golden Stool is said to have been brought down by the priest Okomfo Anokye and became the symbol of the union. {{ency-osei}} {{wiki-asante}} {{brit-asante}}"
     },
     {
      "t": "p",
-     "x": "Some historians (Akinjogbin) argue Agaja tried to restrict the trade. Others (Law) argue he wished to control and profit from it [CONTESTED]. {{lib}}"
+     "x": "Asante grew rich on gold, kola and the sale of captives, and became a trading empire of about 250,000 km2 by 1820, governed with the Asantemanhyiamu council. {{rd-after}} Kumasi had an elaborate administration studied by Ivor Wilks. {{brit-asante}}"
+    },
+    {
+     "t": "p",
+     "x": "The Akan calendar of seven-day weeks, six-week months and nine-month years lets events be placed, for example, on the eighteenth day of the fourth month of Osei Bonsu's reign. {{gha1-hama}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Captives could rise: in Asante it was forbidden even to allude to someone's servile origin, so a former captive might become a village chief. {{gha1-concl}} Asante absorbed captives locally, as Odonko-ba descendants. {{rod-trade-009}} [CONTESTED as a general picture]"
+    },
+    {
+     "t": "h",
+     "x": "Did the slave trade make Asante?"
+    },
+    {
+     "t": "table",
+     "title": "Cause or result? Two readings of the Gold Coast",
+     "head": [
+      "Reading",
+      "Argument",
+      "Evidence"
+     ],
+     "rows": [
+      [
+       "State-building came first",
+       "Expansion began in the 1670s and 1680s, while slaves outweighed gold in exports only from about 1700 to 1710 {{gha5-lower}}",
+       "Export timing"
+      ],
+      [
+       "The trade drove the states",
+       "Asante and Dahomey are tied to the trade, which supplied guns and wealth {{gha5-lower}}",
+       "Guns, captives and war"
+      ],
+      [
+       "How to choose",
+       "Check the order of events and what was exported when",
+       "[CONTESTED]"
+      ]
+     ],
+     "src": "{{gha5-lower}}"
+    },
+    {
+     "t": "example",
+     "title": "Worked example: a founding myth",
+     "steps": [
+      "The Golden Stool story: Anokye summons a stool from the sky and it settles on Osei Tutu's knees.",
+      "Historians do not ask whether it fell from the sky. They ask what the story does.",
+      "It unites separate chiefdoms under a shared sacred object, matching the Asante's own account of their founders, and it was later invoked in the war of 1900. That is myth as evidence of belief and political purpose. {{gha1-hama}}"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "The Asante royal family knew a secret story of its origin while the public held an official one. {{gha1-vansina}} So even the founding myth had more than one version, for different audiences."
+    },
+    {
+     "t": "h",
+     "x": "Wars with Britain"
+    },
+    {
+     "t": "p",
+     "x": "Wars with Britain include 1824, when Asante defeated and killed Governor MacCarthy, and 1873 to 74, when the British took Kumasi. {{brit-asante}} {{countrystudies-ghana}} {{blackpast-anglo}} The Fante kept their independence by diplomacy and British support. {{gha5-lower}}"
+    },
+    {
+     "t": "check",
+     "q": "A family tradition places its founding ancestor 'far back in the mists of time'. A Dutch document names him in 1690. What does the Ano Asena case teach?",
+     "o": [
+      "Trust the tradition",
+      "Traditions can push an ancestor into a distant past; a dated document anchors him",
+      "Documents are always wrong",
+      "Both are useless"
+     ],
+     "a": 1,
+     "w": "Ano Asena looks ancient but belongs about 1690. {{gha4-kipre}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "Gold Coast states expanded from the 1670s; slave exports outweighed gold only from about 1700. What does that order of events support?",
+     "o": [
+      "The trade caused the states",
+      "State-building came first and the slave trade followed it, at least on the Gold Coast",
+      "Neither existed",
+      "Gold was never exported"
+     ],
+     "a": 1,
+     "w": "The timing is the evidence; the reading is [CONTESTED]. {{gha5-lower}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "The Akan built towns and gold trade long before Asante. {{gha4-kipre}}",
+      "Asante beat Denkyira in 1699 to 1701 {{gha5-lower}} and became a trading empire of about 250,000 km2 by 1820. {{rd-after}}",
+      "Whether the slave trade caused or followed state-building is [CONTESTED]."
+     ]
+    }
+   ],
+   "id": "l4"
+  },
+  {
+   "title": "Oyo and Dahomey",
+   "min": 28,
+   "blocks": [
+    {
+     "t": "h",
+     "x": "Oyo: a cavalry empire with checks on the king"
+    },
+    {
+     "t": "p",
+     "x": "Oyo rose from cavalry and archers learned from contact with the savannah north, used officials of slave origin, and was stopped by forest that its horses could not enter. It stayed out of direct European trade and guns before the nineteenth century. {{gha5-alagoa}}"
+    },
+    {
+     "t": "p",
+     "x": "An early fifteenth-century founding is only suggested; the capital was abandoned under Nupe pressure in the second quarter of the sixteenth century, and the imperial character came late, perhaps the early seventeenth century. {{gha4-ryder}} [TRADITIONAL DATE]"
+    },
+    {
+     "t": "p",
+     "x": "The Alafin is elected from the royal family by the seven Oyo Mesi, led by the Basorun, who can move his rejection. The military nobles, the Eso, rank by merit under the Kakanfo. {{johnson}}"
+    },
+    {
+     "t": "p",
+     "x": "Oyo's authority ran through the extended family, the ebi, in contrast to Dahomey's authoritarian monarchy over individuals. {{gha1-intro}} Among the Egba and Ijebu, power lay with Ogboni councils, and 'Egbas have no king that rules'. {{johnson}}"
+    },
+    {
+     "t": "p",
+     "x": "Decline followed the revolt at Ilorin (c. 1817), the spread of the Sokoto jihad and civil wars. Old Oyo was abandoned in the 1830s. {{wiki-oyo}} {{africanhistoryextra-oyo}} {{law-oyo}} Tensions among slaves, royal stewards, provincial representatives and the royal eunuchs are one explanation of the fall. {{gha1-intro}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "Dahomey: a centralised military monarchy"
+    },
+    {
+     "t": "p",
+     "x": "Dahomey grew from migrants out of Allada who settled at Abomey about 1625, built an absolute state, conquered its neighbours under Agaja in 1724 to 1727, and paid tribute to Oyo after 1730. {{gha5-alagoa}}"
+    },
+    {
+     "t": "p",
+     "x": "The Fon kingdom was highly centralised, held a royal monopoly on the trade in captives, and held the annual Customs ceremonies. {{brit-agaja}} {{wiki-agaja}} {{brit-dahomey}}"
+    },
+    {
+     "t": "p",
+     "x": "The king was dokunno, owner of all wealth, with power of life and death over ordinary men, and chiefs ruled villages and regions in his name while annexed peoples were assimilated. {{gha1-obenga}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Its royal message axes, the recades, carried picto-phonograms of the king's name; the Recade of Gezo shows the king as a buffalo. {{gha1-diagne}} [CONTESTED as a writing system]"
+    },
+    {
+     "t": "h",
+     "x": "Three Dahomey debates"
+    },
+    {
+     "t": "table",
+     "title": "What is argued about Dahomey",
+     "head": [
+      "Question",
+      "Readings",
+      "Status"
+     ],
+     "rows": [
+      [
+       "Did Agaja try to limit the slave trade?",
+       "Akinjogbin: he tried to restrict it; Law: he wished to control and profit from it {{lib}}",
+       "[CONTESTED]"
+      ],
+      [
+       "How central was the Atlantic trade?",
+       "The state handled no more than 20 per cent of foreign trade, the Atlantic trade was about 2.5 per cent of the economy, and Brazilian tobacco outweighed guns among imports; these are points for future research {{gha5-alagoa}}",
+       "[CONTESTED]"
+      ],
+      [
+       "How far were the sacrifices exaggerated?",
+       "Burton, British consul at the court in 1863, concluded the sacrificial customs had been greatly exaggerated {{rd-after}}",
+       "Counts are [THIN EVIDENCE]"
+      ]
+     ],
+     "src": "{{gha5-alagoa}} {{rd-after}}"
+    },
+    {
+     "t": "p",
+     "x": "Its women soldiers, the Agojie or Amazons, formed the spearhead of the royal army against Oyo and, at the battle of Cana in 1892, against the French. {{gha1-hama}} Their origins, and the claim that Queen Hangbe founded them, are [CONTESTED]."
+    },
+    {
+     "t": "h",
+     "x": "Comparing the three states"
     },
     {
      "t": "table",
@@ -304,21 +676,21 @@
      "rows": [
       [
        "How rulers were checked",
-       "Alaafin checked by Oyo Mesi and Bashorun",
-       "Asantehene with a council and appointed officials",
-       "Strong central control; royal trade monopoly"
+       "Alafin elected and checked by the Oyo Mesi and Basorun",
+       "Asantehene with the Asantemanhyiamu council and appointed officials",
+       "Strong central control; king owned all wealth"
       ],
       [
        "Wealth",
        "Cavalry and tribute",
        "Gold, kola, captives",
-       "Atlantic trade"
+       "Atlantic trade, though its share is argued"
       ],
       [
        "Atlantic trade",
-       "Supplied captives through coastal ports",
+       "Out of direct European trade before the 19th century",
        "Traded at coastal forts",
-       "Monopoly on captives"
+       "Royal monopoly on captives"
       ],
       [
        "Decline",
@@ -328,125 +700,159 @@
       ],
       [
        "Contested point",
-       "(none stated in library)",
-       "Osei Tutu's date",
-       "Hangbe and the Agojie; Agaja's aims"
+       "Its founding date",
+       "Cause or result of the slave trade",
+       "Agaja's aims; the Agojie's origins"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{johnson}} {{rd-after}} {{gha5-alagoa}}"
+    },
+    {
+     "t": "h",
+     "x": "Reading Johnson's History of the Yorubas"
+    },
+    {
+     "t": "p",
+     "x": "Samuel Johnson (1846 to 1901) was born in Sierra Leone, ordained in the Anglican church and served as pastor at Oyo. He finished the manuscript in 1897. {{bu-johnson}} The publisher lost it, and his brother Obadiah reconstructed the text from Samuel's notes; it was published in 1921. {{cup-johnson}}"
+    },
+    {
+     "t": "p",
+     "x": "Johnson wrote from the traditions of Oyo's hereditary court historians, and calls Oduduwa 'really a mythical personage'. {{johnson}} His history shaped later written Yoruba dynastic lists, so those lists are not independent of it. {{gha1-vansina}}"
     },
     {
      "t": "check",
-     "q": "A textbook calls the Alaafin of Oyo an absolute ruler. Which institution should you raise against that?",
+     "q": "A textbook calls the Alafin of Oyo an absolute ruler. Which institution should you raise against that?",
      "o": [
       "The Agojie",
-      "The Oyo Mesi, a council of state that checked the Alaafin",
+      "The Oyo Mesi, who elected the Alafin and could move his rejection",
       "The Golden Stool",
       "The Aro oracle"
      ],
      "a": 1,
-     "w": "The Oyo Mesi was the council checking the king. {{lib}}",
+     "w": "The seven Oyo Mesi checked the king. {{johnson}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which Dahomey ruler conquered Allada and Whydah?",
+     "q": "Oyo's cavalry conquered widely in the savanna but stopped at the forest edge. What explanation fits the evidence?",
      "o": [
-      "Ghezo",
-      "Agaja",
-      "Osei Tutu",
-      "Ewuare"
+      "A treaty with Portugal",
+      "Its horses could not operate in the forest",
+      "Famine",
+      "Ife forbade it"
      ],
      "a": 1,
-     "w": "Agaja, in 1724 and 1727. {{lib}}"
+     "w": "The forest was the barrier. {{gha5-alagoa}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Oyo, Asante and Dahomey differ in how rulers were checked. {{lib}}",
-      "Osei Tutu's date and Hangbe's role are contested.",
-      "The Agojie are documented mainly from the 19th century."
+      "Oyo was a cavalry empire whose king was elected and checked. {{johnson}}",
+      "Dahomey was centralised; how central the Atlantic trade was is [CONTESTED]. {{gha5-alagoa}}",
+      "Johnson's History is African-authored, reconstructed, and shaped later king lists."
      ]
     }
-   ]
+   ],
+   "id": "l5"
   },
   {
-   "id": "l4",
-   "title": "Non-state societies, myth as evidence and African-authored sources",
-   "min": 26,
+   "title": "The delta, stateless societies and the Atlantic trade",
+   "min": 24,
    "blocks": [
     {
      "t": "p",
-     "x": "Not every society had a king. The Aro of south-eastern Nigeria built a trading network around the Ibini Ukpabi oracle at Arochukwu and were active in the slave trade in the 18th century. The point is that a state is one form of order, not the measure of complexity. {{wiki-aro}}"
-    },
-    {
-     "t": "h",
-     "x": "African-authored and African-held sources"
+     "x": "Not every society had a king. Igbo farmers grew yams at least 3,000 years ago, and Igbo-Ukwu's bronze comes from a different tradition from Ife and Benin. {{gha5-alagoa}}"
     },
     {
      "t": "p",
-     "x": "Samuel Johnson's History of the Yorubas is an African-authored history that mixes tradition and documentary work. Johnson (1846 to 1901) was born in Sierra Leone, ordained in the Anglican church and served as pastor at Oyo. He finished the manuscript in 1897. {{bu-johnson}}"
-    },
-    {
-     "t": "p",
-     "x": "The publisher lost it. After his death his brother Obadiah reconstructed the text from Samuel's notes, and it was published in 1921. {{cup-johnson}} Johnson said he wrote from patriotic motives, so that the history of the fatherland would not be lost. {{bu-johnson}}"
-    },
-    {
-     "t": "p",
-     "x": "Other African sources include court oral traditions (Benin's court historians, Akan drum histories), royal regalia and palaces, and the UNESCO-listed Royal Palaces of Abomey. {{unesco-abomey}}"
-    },
-    {
-     "t": "example",
-     "title": "Worked example: a founding myth",
-     "steps": [
-      "The Golden Stool story: Anokye summons a stool from the sky and it settles on Osei Tutu's knees.",
-      "Historians do not ask whether it fell from the sky. They ask what the story does.",
-      "It unites separate chiefdoms under a shared sacred object, and it was later invoked in the war of 1900. That is how to treat myth as evidence of belief and political purpose. {{lib}}"
-     ]
+     "x": "The Aro of south-eastern Nigeria built a trading network around the Ibini Ukpabi oracle at Arochukwu and were active in the slave trade in the 18th century. {{wiki-aro}} They grew powerful from the seventeenth century through the oracle and mercenaries. {{gha5-alagoa}}"
     },
     {
      "t": "table",
-     "title": "Reading a founding myth (our checklist)",
+     "title": "Monarchy everywhere, or the exception?",
      "head": [
-      "Question",
-      "Golden Stool answer"
+      "Position",
+      "Claim",
+      "Check against"
      ],
      "rows": [
       [
-       "Who tells it, and who benefits?",
-       "Asante rulers; unity under Osei Tutu"
+       "Monarchy everywhere (Diop, 1960)",
+       "All pre-colonial Africa was covered by monarchies; no spot, even in forest, escaped monarchic authority {{dpc-state-007}}",
+       "Igbo society and Jenne-jeno had no kings [CONTESTED]"
       ],
       [
-       "What does it unite?",
-       "Separate chiefdoms"
-      ],
-      [
-       "What later use is attested?",
-       "Invoked in the war of 1900"
-      ],
-      [
-       "What does it not prove?",
-       "That the stool fell from the sky"
+       "Kingship as an eruption (Reader)",
+       "Chiefs had status but little power; age-grades spread power sideways; states arose when trade let some accumulate wealth and coerce others {{rd-pol}}",
+       "Fits the Igbo case [CONTESTED] as a general law"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{rd-pol}} {{dpc-state-007}}"
+    },
+    {
+     "t": "h",
+     "x": "The delta city-states"
+    },
+    {
+     "t": "p",
+     "x": "In the eastern delta, Bonny, Kalabari, Okrika and Nembe took on kingship from about the thirteenth century, and the trade quickened their change into trading city-states. {{gha5-alagoa}}"
+    },
+    {
+     "t": "p",
+     "x": "The delta grew from older north-south and east-west links as far as Lagos and the Ijebu country, not only from the slave and palm-oil trades. {{gha1-intro}} [PROBABLE] Old Calabar was governed through the Egbo society. {{rd-after}}"
+    },
+    {
+     "t": "p",
+     "x": "Antera Duke's diary, kept by a leading Calabar trader in pidgin English, is a unique document on daily life in a slave port. The original was destroyed in the Second World War and only extracts for 1785 to 1787 survive. {{gha1-hrbek}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "Go-betweens"
+    },
+    {
+     "t": "p",
+     "x": "On the Upper Guinea coast the Afro-Portuguese lancados and their descendants became a class of go-betweens who ran local trade in the seventeenth and eighteenth centuries, led by figures such as Bibiana Vaz of Cacheu. {{gha5-upper}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "Three ways to meet the trade"
+    },
+    {
+     "t": "table",
+     "title": "How communities met the slave trade",
+     "head": [
+      "Kind",
+      "Examples",
+      "Effect"
+     ],
+     "rows": [
+      [
+       "Middlemen",
+       "Delta city-states, Calabar",
+       "Wealth, new ways of controlling slaves, shifts in power {{gha5-alagoa}}"
+      ],
+      [
+       "Active procurers",
+       "Dahomey, the Aro",
+       "Gain at the cost of their own social and moral systems {{gha5-alagoa}}"
+      ],
+      [
+       "Victims",
+       "Parts of Yorubaland, Igboland, Ibibioland",
+       "Raids, kidnapping, villages dispersed {{gha5-alagoa}}"
+      ]
+     ],
+     "src": "{{gha5-alagoa}}"
     },
     {
      "t": "callout",
-     "k": "note",
-     "x": "Johnson's book was reconstructed after his death, so the published text is partly his brother's work (Cambridge University Press blurb)."
+     "k": "warn",
+     "x": "The claim that the trade brought isolated regions into the world economy, and that new food crops redressed the population balance, is speculative. The languages also show long stability, which should temper claims about the Europeans' impact. {{gha5-alagoa}}"
     },
     {
-     "t": "check",
-     "q": "What is the right question to ask about the Golden Stool story?",
-     "o": [
-      "Did it really fall from the sky?",
-      "What does the story do politically?",
-      "Who stole it?",
-      "How heavy is it?"
-     ],
-     "a": 1,
-     "w": "Treat myth as evidence of belief and political purpose. {{lib}}"
+     "t": "p",
+     "x": "Dalzel's History of Dahomy, on close investigation, is an anti-abolitionist pamphlet. {{gha1-hrbek}} Read European accounts of the trade with the abolition debate in mind; Module 8 takes this further."
     },
     {
      "t": "check",
@@ -458,625 +864,121 @@
       "Benin's walls"
      ],
      "a": 1,
-     "w": "State is one form of order; trade networks can be complex without one. {{lib}}",
+     "w": "State is one form of order; trade networks can be complex without one. {{wiki-aro}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "A town grew rich selling captives brought from inland, while its neighbours were raided. Which of the three kinds fits the town, and which the neighbours?",
+     "o": [
+      "Both victims",
+      "The town a middleman, the neighbours victims",
+      "Both procurers",
+      "The town a victim"
+     ],
+     "a": 1,
+     "w": "Middlemen, procurers and victims met the trade differently. {{gha5-alagoa}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Complex societies need not be states. {{lib}}",
-      "Johnson's History was written by 1897 and published in 1921 in a reconstructed form. {{cup-johnson}}",
-      "Myths are evidence of belief and purpose."
+      "Complex societies need not be states; the Aro and Igbo show it. {{wiki-aro}}",
+      "Communities met the trade as middlemen, procurers or victims. {{gha5-alagoa}}",
+      "European accounts of the trade often served the abolition debate."
      ]
     }
-   ]
+   ],
+   "id": "l6"
   },
   {
-   "id": "l5",
-   "title": "Practice: the founding-myth checklist and a comparison table",
+   "title": "Practice: founding myths and a comparison table",
    "min": 22,
    "blocks": [
     {
      "t": "p",
-     "x": "This practice lesson applies two tools from the module: the founding-myth checklist and the three-state comparison. {{lib}}"
+     "x": "This practice lesson applies two tools from the module: the founding-myth checklist and the three-state comparison."
     },
     {
      "t": "table",
-     "title": "Apply the myth checklist to Oduduwa and Ife (our practice case)",
+     "title": "The founding-myth checklist, applied to Oduduwa and Ife",
      "head": [
       "Question",
-      "Prompt for your answer"
+      "Answer"
      ],
      "rows": [
       [
        "Who tells it, and who benefits?",
-       "Ife is the spiritual centre of the Yoruba; think about what the story gives Ife"
+       "Oyo's court historians and Ife; it gives Ife spiritual precedence {{johnson}}"
       ],
       [
        "What does it unite or justify?",
-       "Yoruba claims to common origin"
+       "Yoruba claims to common origin: Oduduwa's grandchildren became the kings of Owu, Ketu, Benin, Oyo and others {{johnson}}"
       ],
       [
-       "What does physical evidence say?",
-       "Naturalistic heads of roughly the 12th to 15th centuries"
+       "Are there variants?",
+       "Yes: one tale has the younger son Odudua scatter earth with a hen {{wood-tales}}"
       ],
       [
        "What does it not prove?",
        "That a single ancestor founded all Yoruba kingdoms"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{johnson}}"
     },
     {
      "t": "p",
-     "x": "The Oduduwa myth is part of Ife's tradition. Treat it like the Golden Stool: ask what it does, not whether it literally happened. {{lib}}"
+     "x": "Ife's founding tradition can be read as migrants arriving about 1,000 years ago into land already settled, with the traditional 'Mecca' a place across the Niger, not in the Middle East. {{gha5-alagoa}} [PROBABLE]"
+    },
+    {
+     "t": "example",
+     "title": "Worked example: two variants, one checklist",
+     "steps": [
+      "Variant A: Oduduwa came from 'Mecca', settled at Ife, and his grandsons founded the kingdoms.",
+      "Variant B: Odudua, a younger son, scattered earth with a hen while his elder brother lay drunk on palm wine.",
+      "Both make Ife the place where the world and kingship began, so both serve Ife's claim to precedence.",
+      "Verdict: the variants disagree on events and agree on purpose, which is what a historian can use (our method)."
+     ]
     },
     {
      "t": "p",
-     "x": "For the comparison table, check each cell has an entry and that each state has one contested point. Osei Tutu's date for Asante, Hangbe and the Agojie for Dahomey, and Agaja's aims are contested. This module gives no specific contested point for Oyo, so write none rather than invent one. {{lib}}"
+     "x": "For the comparison table, check each cell has an entry and that each state has one contested point backed by a source. Never invent a contested point to fill a cell."
     },
     {
      "t": "check",
-     "q": "What should you do when your evidence gives no contested point for a state?",
+     "q": "Two versions of a founding myth disagree on who did what but both place the origin at Ife. What can a historian safely conclude?",
+     "o": [
+      "Nothing",
+      "That the stories serve Ife's claim to precedence, whatever happened",
+      "That both are literally true",
+      "That Ife was founded by Europeans"
+     ],
+     "a": 1,
+     "w": "Agreement on purpose is the usable evidence. {{johnson}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "You cannot find a source for a contested point about one state. What should your table say?",
      "o": [
       "Invent one",
-      "Say none is given",
+      "None found",
       "Copy another state's",
       "Leave the whole table blank"
      ],
      "a": 1,
-     "w": "Do not invent contested points. {{lib}}"
-    },
-    {
-     "t": "check",
-     "q": "Which dispute concerns Dahomey?",
-     "o": [
-      "The date of Feyiase",
-      "Whether Hangbe founded the Agojie",
-      "The Oyo Mesi",
-      "Igbo-Ukwu's age"
-     ],
-     "a": 1,
-     "w": "Origins of the Agojie are contested. {{lib}}"
+     "w": "Do not invent contested points. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Treat creation myths as evidence of purpose. {{lib}}",
+      "Treat founding myths as evidence of purpose, and compare variants. {{johnson}}",
       "Never invent a contested point to fill a cell."
      ]
     }
-   ]
-  },
-  {
-   "id": "l6",
-   "title": "What the books add to states and stateless societies",
-   "min": 28,
-   "blocks": [
-    {
-     "t": "p",
-     "x": "The books split on a basic question: were African societies mostly kingdoms, or was kingship an exception? Diop says kingdoms; Reader says kingdoms were an eruption from a different pattern; Rodney concentrates on how the slave trade changed the states that did exist. Set the three beside the course's cases."
-    },
-    {
-     "t": "table",
-     "title": "Monarchy everywhere, or the exception? Three positions",
-     "head": [
-      "Source",
-      "Claim",
-      "Check against"
-     ],
-     "rows": [
-      [
-       "Diop (1960)",
-       "All pre-colonial Africa was covered by monarchies and empires; no spot, even in forest, escaped monarchic authority; there was no feudalism because land belonged to no one. {{dpc-state-007}}",
-       "Igbo society and Jenne-jeno had no kings in the course. Land tenure in states was varied. [CONTESTED]"
-      ],
-      [
-       "Reader (1990s)",
-       "Chiefs had status but little power; age-grades spread power sideways; states arose when trade let some accumulate wealth and coerce porters and slaves. {{rd-pol}}",
-       "Fits the Igbo case. A general explanation, itself [CONTESTED]."
-      ],
-      [
-       "Rodney (1972)",
-       "Societies before 1500 were transitional between communalism and feudalism; the slave trade then changed them. {{rod-trade-006}}",
-       "A Marxist frame; use it as one reading."
-      ]
-     ],
-     "src": "{{rd-pol}}"
-    },
-    {
-     "t": "p",
-     "x": "Diop is right that European feudalism is a poor template for Africa; he is wrong to say there were no non-state societies. Reader adds that the Luganda word that comes nearest to 'reign', mirembe, means a period of peace between succession struggles, and that primogeniture is rare, so 'king' is often a European label. {{rd-kongo}}"
-    },
-    {
-     "t": "h",
-     "x": "Igbo-Ukwu and the other bronze dates"
-    },
-    {
-     "t": "p",
-     "x": "Reader dates the Igbo-Ukwu burial and its lost-wax bronzes to the 10th century, anchored by dated mining debris of AD 895 to 1000, and says it held a crown, regalia and 165,000 glass and carnelian beads, in a region with no states. {{rd-gold}} Rodney gives a single span, the 14th and 15th centuries, for Ife and Benin bronzes. {{rod-pre-009}} The lesson ranges are tighter (Ife heads about the 12th to 15th centuries; Benin plaques the 16th and 17th); the book's span is a 1972 generalisation. [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Oyo, Asante, Dahomey and Calabar in the slave-trade era"
-    },
-    {
-     "t": "table",
-     "title": "Four states and what the books say",
-     "head": [
-      "State",
-      "Reader",
-      "Rodney"
-     ],
-     "rows": [
-      [
-       "Oyo",
-       "Fell through overextension, rivalry among regional chiefs and a Muslim revolt. {{rd-after}}",
-       "An inland cloth-and-cavalry empire that exported captives in numbers from the early 19th century and fell about 1830. {{rod-trade}}"
-      ],
-      [
-       "Asante",
-       "Rose on gold and flintlock muskets; Osei Tutu; the Asantemanhyiamu council; a trading empire of about 250,000 km2 by 1820. {{rd-after}}",
-       "Absorbed captives locally, as Odonko-ba descendants. {{rod-trade-009}}"
-      ],
-      [
-       "Dahomey",
-       "A small centralised slaving kingdom with ten kings from 1650 to 1889; King Agaja's letter of 1726; Dalzell's estimate of 10,000 to 12,000 exported a year. {{rd-after}}",
-       "Called the black Sparta, a tribute-payer to Oyo until Oyo's fall. {{rod-trade}}"
-      ],
-      [
-       "Old Calabar (Efik)",
-       "Governed through the Egbo society, with one dominant trader by the early 19th century. {{rd-after}}",
-       "Not covered."
-      ]
-     ],
-     "src": "{{rd-after}}"
-    },
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "Reader's sacrifice figures for Asante and Dahomey come from European visitors such as Bowdich and Burton. Burton, British consul at the Dahomey court in 1863, himself concluded that its sacrificial customs had been greatly exaggerated. {{rd-after}} Treat counts as [THIN EVIDENCE]. His report of forty-one young women in a well at Benin City, dated before AD 1200 and read as ritual sacrifice, is a single archaeological report, so say only 'reported'. {{rd-slave}}"
-    },
-    {
-     "t": "p",
-     "x": "Rodney reads Ibadan as selling its own captives and serfs for guns, which undermined its base. {{rod-trade-009}} Other historians stress war among Yoruba states after Oyo fell. Present Rodney's reading as one interpretation. [CONTESTED]"
-    },
-    {
-     "t": "h",
-     "x": "Myths as beliefs, not events"
-    },
-    {
-     "t": "h",
-     "x": "Johnson's own account of Ife and Oyo"
-    },
-    {
-     "t": "p",
-     "x": "Samuel Johnson, writing by 1897 from the traditions of Oyo's hereditary court historians, gives the founding story in detail. Oduduwa fled from 'Mecca', settled at Ife, and his grandchildren became the kings of Owu, Ketu, Benin, Ila, Sabe, Popo and Oyo. Oranyan, left only the land, founded Oyo, and new Alafin are installed with a sword brought from Ife. {{johnson}} Johnson himself calls Oduduwa 'really a mythical personage'. {{johnson}} He then argues the Yoruba came from Upper Egypt or Nubia and reads Phoenician letters on an Ife obelisk; that is his own 1890s inference, and the course rejects it as it rejects Frobenius. [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "On government, Johnson confirms the lesson's checks on the king. The Alafin is elected from the royal family by the seven Oyo Mesi, led by the Basorun, who can move his rejection. The military nobles, the Eso, rank by merit under the Kakanfo, and vassal kings take titles and the sword of justice from Oyo. {{johnson}} Among the Egba and Ijebu, by contrast, the Ogboni councils held power and 'Egbas have no king that rules'. {{johnson}} His figure of 1,060 vassal kings is a legendary number, and his sacrifice counts are from memory, so quote neither. [THIN EVIDENCE]"
-    },
-    {
-     "t": "p",
-     "x": "Woodson's 1928 Yoruba creation tale has the younger son Odudua scatter earth with a hen and the elder Orisha drunk on palm wine. That differs from the common Ife telling in which Obatala moulds people and Oduduwa comes later, so it is a second variant for the founding-myth checklist.  His tale of why children belong to the mother, and the Fang legend of Ngurangurane, record beliefs about custody and tribute, not events. {{wood-tales}} Diop's matching of Yoruba, Serer and Peul names to Egyptian words by sound alone is chance resemblance. {{dio-egypt-006}} Frobenius, whose Atlantis claim for Ife the course rejects, is cited approvingly by Diop; the same source can serve opposite arguments. {{dio-method-006}}"
-    },
-    {
-     "t": "check",
-     "q": "Diop says no spot in Africa escaped monarchic authority. What does the course show against this?",
-     "o": [
-      "Nothing",
-      "Igbo society and Jenne-jeno had no kings",
-      "Kingship was always rare",
-      "Africa had no kings"
-     ],
-     "a": 1,
-     "w": "Reader also describes age-grade societies without strong chiefs. {{rd-pol}}"
-    },
-    {
-     "t": "check",
-     "q": "A label dates the Igbo-Ukwu burial to the fifteenth century and links it to the Portuguese. What does Reader's evidence let you correct?",
-     "o": [
-      "Nothing",
-      "He cites mining debris radiocarbon-dated to the tenth century, centuries before the Portuguese",
-      "It is Roman",
-      "It is nineteenth century"
-     ],
-     "a": 1,
-     "w": "He cites mining debris dated by radiocarbon to the 10th century. {{rd-gold}}",
-     "kind": "application"
-    },
-    {
-     "t": "check",
-     "q": "What does Reader say a sacrifice well at Benin City shows?",
-     "o": [
-      "A proven date",
-      "A single report read as probable ritual sacrifice, to be stated only as reported",
-      "A royal tomb",
-      "A well for water"
-     ],
-     "a": 1,
-     "w": "The date and reading come from one archaeological report. {{rd-slave}}"
-    },
-    {
-     "t": "take",
-     "i": [
-      "Kingdoms and stateless societies both existed; claims of 'monarchy everywhere' go beyond the evidence. [CONTESTED]",
-      "Igbo-Ukwu is dated to the 10th century by mining debris. {{rd-pol}}",
-      "Visitor counts of human sacrifice are weak evidence. [THIN EVIDENCE]"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "l7",
-   "title": "What the UNESCO General History adds to the Guinea coast",
-   "min": 26,
-   "blocks": [
-    {
-     "t": "p",
-     "x": "E. J. Alagoa's 1992 chapter in UNESCO volume V covers the Fon, the Yoruba, the Niger Delta, Igboland and the Cross River. It is the only chapter read so far for this module, so other coastal chapters of the volume are still open."
-    },
-    {
-     "t": "p",
-     "x": "Andah reviews the Upper Guinea coast, from the Senegal to Cape Palmas. Accounts of its peopling differ. One school says the coast was filled by people driven out of the interior from the 3rd century CE or earlier, which is popular but unproven. Andah asks the course to treat drift as one hypothesis among several. {{gha3-andah}}"
-    },
-    {
-     "t": "p",
-     "x": "The Mande spread is dated differently by different writers: Livingstone places the first Mande movements west in the 14th century, using the sickle-cell distribution; Lamp puts the invasion in the 15th century; Hair in the 16th. Andah notes that the Mande may have brought iron, cotton and warfare, but the evidence for rice, iron and states on the coast does not depend on them. {{gha3-andah}}"
-    },
-    {
-     "t": "p",
-     "x": "The Senegambian stone circles (over 30000 square km, with Dialloumbere's group of at least 54 circles) are burial grounds, probably of dynasties. Excavations in the Sine-Saloum area date them to about 1000 CE, not the 14th century; over 4000 mounds hold gold, carnelian and iron goods. Their builders were most likely ancestors of the present Mandingo, Wolof and Fulbe. {{gha3-andah}}"
-    },
-    {
-     "t": "p",
-     "x": "The nomoli and pomtan stone figures, in the thousands from Sherbro Island to the Kisi country, date by association to the 6th and 7th centuries at Kamabai. Who made them is open: Atherton and Kalous attribute them to an earlier Sapes population, Person to West Atlantic makers, and Andah argues for an independent local tradition, since no clay figures were made first. {{gha3-andah}}"
-    },
-    {
-     "t": "p",
-     "x": "Iron-using levels at the Sierra Leone rock shelters Kamabai and Yagala date from the 7th or 8th century, and stone tools continued to the 14th. Rice, not millet or cotton, was the main crop of the Upper Guinea coast. Andah's conclusion is that intensive agriculture, centralised monarchies, guilds and markets were present before Sudanic intrusions, and that iron and states were not imposed from the Sudan. {{gha3-andah}}"
-    },
-    {
-     "t": "p",
-     "x": "Vai and Kono speakers came to the coast along trade corridors that carried salt and dried fish north, not in a mass conquest, and Vai became a trade language. Hill argues that trade routes came before population growth and more complex politics. Present this as a hypothesis. {{gha3-andah}}"
-    },
-    {
-     "t": "h",
-     "x": "Dahomey and Oyo: two readings"
-    },
-    {
-     "t": "p",
-     "x": "Alagoa gives Akinjogbin's account: Dahomey grew from migrants out of Allada who settled at Abomey about 1625, built an absolute state, conquered its neighbours under Agaja in 1724 to 1727, paid tribute to Oyo after 1730, and was reshaped by the slave-trade economy, with the Gezo dynasty from 1818. {{gha5-alagoa}}"
-    },
-    {
-     "t": "p",
-     "x": "He then reports Peukert's challenge: the Dahomean state handled no more than 20 per cent of foreign trade, the Atlantic trade was only about 2.5 per cent of the economy, and Brazilian tobacco outweighed guns among imports. Alagoa calls these points for future research, so the old story is questioned and not overturned. {{gha5-alagoa}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "Oyo, he says, rose from cavalry and archers learned from contact with the savannah north, used officials of slave origin, and was stopped by forest that its horses could not enter. It stayed out of direct European trade and guns before the nineteenth century. {{gha5-alagoa}}"
-    },
-    {
-     "t": "h",
-     "x": "The Guinea coast before the Portuguese: three chapters in volume IV"
-    },
-    {
-     "t": "p",
-     "x": "Volume IV (1984) has three regional chapters on this coast: Yves Person from Casamance to the Ivory Coast lagoons, Pierre Kipre from the lagoons to the Volta, and A. F. C. Ryder from the Volta to Cameroon. All three say the evidence is thin before about 1450 and rely on the Portuguese records of the late fifteenth century, early archaeology and later oral tradition. {{gha4-person}} {{gha4-kipre}} {{gha4-ryder}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "h",
-     "x": "Upper Guinea: Person's chapter"
-    },
-    {
-     "t": "p",
-     "x": "Person describes rice-growing, fishing and lineage societies on the coast, from the Balante and Baga to the Temne, Bulom and Kru. The Portuguese 'kings' he says were patriarchs or clan chiefs with councils that could overrule them, and there were no large kingdoms and no Islam south of the Rio Grande. Trade before the Portuguese ran by relay between kinship groups, with kola reaching North Africa by the twelfth century. {{gha4-person}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He says Mali's Kaabu (Gabu) state was credited by tradition to Tiramaghan Traore and lasted to 1867, that Kaabu stayed loyal to a smaller Mali after the Portuguese arrived in the Gambia in 1446, and that the Bambugu gold fields stayed under Mali until 1599. He says the Mane invasion of the Sierra Leone coast about 1540 to 1550 was a small, snowballing elite that spread Mandingo language and centralised rule, and that dates reckoned from Malinke genealogies give only minimums. {{gha4-person}} [CONTESTED]"
-    },
-    {
-     "t": "h",
-     "x": "The lagoons and the Akan: Kipre's chapter"
-    },
-    {
-     "t": "p",
-     "x": "Kipre says the Portuguese saw the lagoon peoples in small kinship communities under patriarchs with religious more than political power, and began El Mina in 1481 for gold. Excavation at Begho shows trade with Jenne, with the site occupied about 1100 and a kola market and Mali gold link in the fourteenth century. {{gha4-kipre}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He argues that the Akan and lagoon peoples are Kwa speakers, and that Boahen's linguistic work rules out origin stories from Mesopotamia, Libya or ancient Ghana, placing the Kwa homeland in the Chad-Benue region. Akan culture shows matrilineal succession, day-names and a 42-day ritual calendar whose origin is argued. Oral tradition rarely goes back before the seventeenth century: the Ndenye ancestor Ano Asena looks ancient but belongs about 1690. The early Akan coastal states of Asebu, Fetu, Aguafo and Fanti were small, and Kipre sees full kingdoms by the end of the sixteenth century. {{gha4-kipre}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "h",
-     "x": "Ife, Benin and Oyo in Ryder's 1984 chapter"
-    },
-    {
-     "t": "p",
-     "x": "Ryder says forest peoples such as the Yoruba and Igbo expanded from within the forest, that glottochronology is largely discredited, and that a compact village could grow state organs by internal change, as Horton argued, with no need for outside conquerors. Most Yoruba states were one town and its villages, and forest states seldom ruled more than about 60 km from the capital. {{gha4-ryder}} [PROBABLE]"
-    },
-    {
-     "t": "table",
-     "title": "What the course said and what Ryder adds",
-     "head": [
-      "Topic",
-      "Course statement",
-      "Ryder's 1984 chapter"
-     ],
-     "rows": [
-      [
-       "Ife art",
-       "Heads in terracotta and copper alloy, roughly twelfth to fifteenth century",
-       "Terracotta tradition from about the eleventh century; the 25 brass and copper heads were likely cast just before a sixteenth-century catastrophe when Portuguese metal was plentiful, and later Yoruba kingship may descend from a later dynasty. {{gha4-ryder}} [CONTESTED]"
-      ],
-      [
-       "Benin bronzes",
-       "A revived monarchy under Ewuare in the fifteenth century",
-       "He agrees on Ewuare and the wall, but says all brass found in pre-sixteenth-century contexts was forged, and that lost-wax casting became important only in the sixteenth century with imported European brass. {{gha4-ryder}} [CONTESTED]"
-      ],
-      [
-       "Oyo",
-       "Old Oyo abandoned in the 1830s",
-       "An early fifteenth-century founding is only suggested; the capital was abandoned under Nupe pressure in the second quarter of the sixteenth century, and the imperial character came late, perhaps the early seventeenth. {{gha4-ryder}} [TRADITIONAL DATE]"
-      ],
-      [
-       "Igbo-Ukwu",
-       "Lost-wax bronzes about the ninth to tenth century",
-       "He gives the radiocarbon dates but calls them a puzzle that contradicts his own idea about brass, noting that charcoal dates can run old and that one date comes out near 1445. {{gha4-ryder}} [CONTESTED]"
-      ]
-     ],
-     "src": "{{gha4-ryder}}"
-    },
-    {
-     "t": "p",
-     "x": "For Benin he says tradition makes Oranyan from Ife the founder about 1300, and that Ewuare turned a limited monarchy into an autocracy in the fifteenth century. Ewuare built the wall and a three-department palace, raised new orders of town chiefs, introduced primogeniture and the Igue festival, and ruled directly only within about 64 km. Ryder suspects the story of the brother's killing hides a conquest. The Itsekiri kingdom came from Ewuare's grandson Iginua. {{gha4-ryder}} [TRADITIONAL DATE]"
-    },
-    {
-     "t": "p",
-     "x": "He says claims of Ife or Benin descent by other peoples are mostly prestige claims, since groups that forgot their origin chose a powerful distant place, and that the Tsoede bronzes of Nupe belong to a legendary figure given a 128-year life in tradition. {{gha4-ryder}}"
-    },
-    {
-     "t": "h",
-     "x": "The coast from Senegambia to the Volta, 1500 to 1800: volume V"
-    },
-    {
-     "t": "p",
-     "x": "Volume V's chapters on the Upper and Lower Guinean coasts, by Wondji and Boahen, cover the period after the Portuguese arrival. Wondji says the Upper Guinea coast has over a hundred ethnic groups, that oral tradition rarely goes before the seventeenth century, and that archaeology is in its infancy. {{gha5-upper}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "p",
-     "x": "Wondji says Kaabu became independent of Mali in 1537, was a confederation of twelve Mande provinces under a mansa at Kansala, and that Mansa Biram sold about 600 slaves a year at the end of the seventeenth century. He puts the Mane invasion at about 1545, says the Fulbe jihad in Futa Jallon from about 1725 to 1730 pushed Baga, Landuma and later Soso toward the coast, and describes the 'Kingdom of the Sapes' as an unresolved question: a confederation, as Niane thinks, or a Mande-led state, as Suret-Canale thinks. {{gha5-upper}} [CONTESTED]"
-    },
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "Wondji dates Tiramaghan Traore's conquest of Kaabu to the end of the fifteenth century while calling him one of Sundiata's retired generals. Person's chapter in volume IV, and the usual tradition, place Tiramaghan in Sundiata's time, in the thirteenth century. The two chapters do not agree, so treat the date as unsettled. {{gha5-upper}} {{gha4-person}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "He describes the Afro-Portuguese lancados and their descendants as a class of go-betweens who ran local trade in the seventeenth and eighteenth centuries, led by figures such as Bibiana Vaz of Cacheu and Jose Lopez de Moura of Sierra Leone, and says the Anglo-African families numbered nearly 12,000 by 1800. {{gha5-upper}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "Boahen says the Akan, Ga-Adangbe and Ewe completed their migrations between 1500 and 1800. The Ewe left Notsie in the late sixteenth or early seventeenth century, and a large Akan movement went west between 1680 and 1730. A Dutch map of 1629 shows about thirty-eight small states between the Tano and the Volta, and he says gold output peaked in the late 1600s at about two million ounces, a figure from Garrard. {{gha5-lower}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He traces the rise of Denkyira and Akwamu, which used a wing system borrowed in turn by Asante, and says Asante beat Denkyira in 1699 to 1701, conquered Aowin, Wassa and others by 1730, and took Akyem in 1742 and Ga in 1744 to 1745. The Aowin sacked Kumasi in 1718 to 1719. He says the Fante kept their independence by diplomacy and British support. {{gha5-lower}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He argues that on the Gold Coast the slave trade was the result of state-building and not its cause, because expansion began in the 1670s and 1680s while slaves outweighed gold only from about 1700 to 1710. This contradicts Fage and Clerici, who tie Asante and Dahomey to the trade. His chapter calls the period economic growth without economic development. {{gha5-lower}} [CONTESTED]"
-    },
-    {
-     "t": "check",
-     "q": "A catalogue says Benin's cast brass is older than the tenth century. Using Ryder (1984), what is the more careful claim?",
-     "o": [
-      "The catalogue is right",
-      "Brass from before the sixteenth century was forged, and casting grew with imported European brass",
-      "The Portuguese taught casting in 1485",
-      "Benin never cast brass"
-     ],
-     "a": 1,
-     "w": "This is his reading of the archaeology as of 1984. {{gha4-ryder}}",
-     "kind": "application"
-    },
-    {
-     "t": "check",
-     "q": "Why does Kipre say the Ano Asena story warns against oral dates?",
-     "o": [
-      "It has no hero",
-      "Documents date Ano Asena about 1690 although tradition pushed him into a distant past",
-      "It was written by Portuguese",
-      "It is about Benin"
-     ],
-     "a": 1,
-     "w": "Perrot's cross-checking gave about 1690. {{gha4-kipre}}"
-    },
-    {
-     "t": "h",
-     "x": "Ife, Benin and the delta"
-    },
-    {
-     "t": "p",
-     "x": "Ife's founding tradition is read as migrants arriving about 1,000 years ago into land already settled, and the traditional Mecca as a place across the Niger, not in the Middle East. He dates Ife art to about 900 to 1300 CE and Nok to about 900 BCE to 200 CE, a gap he notes. {{gha5-alagoa}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "In the eastern delta, Bonny, Kalabari, Okrika and Nembe took on kingship from about the thirteenth century and the trade quickened their change into trading city-states. Igbo farmers grew yams at least 3,000 years ago; Igbo-Ukwu bronze is from a different tradition from Ife and Benin; the Aro grew powerful from the seventeenth century through the Arochukwu oracle and mercenaries. {{gha5-alagoa}}"
-    },
-    {
-     "t": "table",
-     "title": "Three ways communities met the slave trade, as Alagoa sorts them",
-     "head": [
-      "Kind",
-      "Examples",
-      "Effect he describes"
-     ],
-     "rows": [
-      [
-       "Middlemen",
-       "Delta city-states, Calabar",
-       "Wealth, new ways of controlling slaves, shifts in power. {{gha5-alagoa}}"
-      ],
-      [
-       "Active procurers",
-       "Dahomey, the Aro",
-       "Gain at the cost of their own social and moral systems, disrupted by violence. {{gha5-alagoa}}"
-      ],
-      [
-       "Victims",
-       "Parts of Yorubaland, Igboland, Ibibioland",
-       "Raids, kidnapping, villages dispersed. {{gha5-alagoa}}"
-      ]
-     ],
-     "src": "{{gha5-alagoa}}"
-    },
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "Alagoa says the claim that the trade brought isolated regions into the world economy, and that new food crops redressed the population balance, is speculative. He also notes the languages show long stability, which should temper claims about the Europeans' impact. {{gha5-alagoa}}"
-    },
-    {
-     "t": "check",
-     "q": "What does Peukert's revision say about Dahomey?",
-     "o": [
-      "The state controlled all trade",
-      "The state handled at most 20 per cent of foreign trade and the Atlantic trade was a small share of the economy",
-      "Guns were the main import",
-      "Dahomey never existed"
-     ],
-     "a": 1,
-     "w": "Alagoa reports it as a challenge needing research. {{gha5-alagoa}}"
-    },
-    {
-     "t": "check",
-     "q": "Oyo's cavalry conquered widely in the savanna but stopped at the Ijesha. What explanation fits the evidence?",
-     "o": [
-      "A treaty with Portugal",
-      "Its cavalry could not operate in the forest",
-      "Famine",
-      "Ife forbade it"
-     ],
-     "a": 1,
-     "w": "Alagoa gives the forest as the barrier. {{gha5-alagoa}}",
-     "kind": "application"
-    },
-    {
-     "t": "h",
-     "x": "Oyo, Dahomey and the delta in Ki-Zerbo's footnotes"
-    },
-    {
-     "t": "p",
-     "x": "Two works cited in the introduction frame the Guinea coast. Akinjogbin (1967) contrasts Oyo's authority through the extended family, the ebi, with Dahomey's authoritarian monarchy over individuals, shaped by the slave trade. Law (1971) explains Oyo's decline by tensions among slaves, royal stewards, provincial representatives and the three royal eunuchs. Alagoa (1973) shows the Niger delta grew from older north-south and east-west links as far as Lagos and the Ijebu country, not only from the slave and palm-oil trades. {{gha1-intro}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "African historians of the Guinea coast, 1895 to 1934"
-    },
-    {
-     "t": "p",
-     "x": "Fage lists the first historians in Roman script from this region: Reindorf (1895), Samuel Johnson, whose Yoruba history is still the starting point though not published until 1921, and Egharevba on Benin (1934). He also marks Meyerowitz's books on the Akan, which gave them a Mediterranean ancestry, as an example of the myth-making that the Frobenius lesson warns about. {{gha1-fage}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Founders, Amazons and the Akan calendar"
-    },
-    {
-     "t": "p",
-     "x": "Hama and Ki-Zerbo say the Asante account of Osei Tutu and Anokye as founders corresponds to the Asante's own view down to today, and that Dahomey's Amazons formed the spearhead of the royal army against Oyo and, at the battle of Cana in 1892, against the French. In footnote form they also record Wilks's finding that the Akan used a calendar of seven-day weeks, six-week months and nine-month years, so that events can be placed, for example, on the eighteenth day of the fourth month of Osei Bonsu's reign. {{gha1-hama}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "What 'kingdom' meant in Dahomey"
-    },
-    {
-     "t": "p",
-     "x": "Obenga contrasts two kinds of kingdom. Danxome (Dahomey) comes closer to an absolute monarchy: a permanent heartland, a central authority of king, ministers and their delegates (after Glele), a king who is dokunno, owner of all wealth, with power of life and death over the anato, the ordinary men, and who recruited glesi to farm his estates. Chiefs ruled villages and regions in his name, and annexed peoples (Fon, Mahi, Alada, Savi, Juda) were assimilated. He adds that the palaver and consent through the chiefdoms were principles of government, a claim to weigh against the Atlantic-trade evidence in module 8. {{gha1-obenga}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Antera Duke's diary and the first African historians"
-    },
-    {
-     "t": "p",
-     "x": "Hrbek calls Antera Duke's diary, kept by a leading Calabar trader in pidgin English, a unique document on daily life in a slave port; the original was destroyed in Scotland in the Second World War and only extracts for 1785 to 1787 survive. He also reads Dalzel's History of Dahomy as, on close investigation, an anti-abolitionist pamphlet, and says Reindorf (1895) and Johnson (published 1921) start an unbroken line of African historians. {{gha1-hrbek}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Secret origins and written contamination on the Guinea coast"
-    },
-    {
-     "t": "p",
-     "x": "Two cases from this region appear in Vansina's chapter. The Asante royal family knew a secret story of its origin while the public held an official one, and the Ogboni traditions of Yorubaland have been so distorted to justify power that they no longer give a valid account of Ogboni origins. Johnson's history of Oyo also shaped later written Yoruba dynastic lists, which were made to match models, so the lists are not independent of it. {{gha1-vansina}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Ife 'bronzes' are brass"
-    },
-    {
-     "t": "p",
-     "x": "Iskander adds that spectrographic analysis shows the naturalistic Ife 'bronzes' of Nigeria are made of brass, not bronze (Willett, 1964). The labels bronze and brass, he warns, lead to wrong dates and wrong stories about metal supply when they are used loosely. {{gha1-iskander}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "The Dahomey recades"
-    },
-    {
-     "t": "p",
-     "x": "Diagne treats the royal message axes of Dahomey as a writing system: the Recade of Dakodonu, described by Le Herisse, can be read as picto-phonograms giving the king's name, and the Recade of Gezo shows the king as a buffalo. The comparison with the Palette of Narmer rests on similarity of method, not on shown contact. {{gha1-diagne}} [CONTESTED]"
-    },
-    {
-     "t": "h",
-     "x": "Where the Guinea-coast languages sit"
-    },
-    {
-     "t": "p",
-     "x": "Greenberg's Kwa group contains Yoruba, Igala, Nupe, Edo, Idoma, Igbo, the Akan-Guang and Ewe-Fon languages, and Ga-Adangme, though Kru and Ijo are doubtful members. Cross River (Efik-Ibibio) falls within Benue-Congo. Dalby warns that Kwa itself is not shown to be a unit. {{gha1-greenberg}} [CONTESTED]"
-    },
-    {
-     "t": "h",
-     "x": "Craft guilds and local forms at Benin"
-    },
-    {
-     "t": "p",
-     "x": "Ki-Zerbo notes that at Benin the same guild of artists carved wood and ivory while others worked pottery and bronze, which explains why a switch between ivory and bronze can appear as a change in material rather than in style. The Benin case also supports his general point that outside influence is received in the form of the recipient. {{gha1-kizerbo15}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Nok as ancestor of Yoruba art, and yams"
-    },
-    {
-     "t": "p",
-     "x": "Fagg and Willett are the art historians who see Nok figurines as ancestors of Yoruba art, a continuity across about 1,000 years that rests on style. Shaw adds that the density of population in southern Nigeria may be due to long yam cultivation, combined with oil-palm nuts, a claim he says lacks archaeological proof. {{gha1-shaw}} [CONTESTED]"
-    },
-    {
-     "t": "h",
-     "x": "Yams, rice swamps and the Guinea-coast economy"
-    },
-    {
-     "t": "p",
-     "x": "For the forest edge and the Guinea coast, the West African centre's sub-equatorial range gives the yam species, oil palm, cola and Telfairia that underlay the coastal and forest kingdoms. The authors also describe mangrove swamp rice fields in Senegal and Guinea worked with spades by the Serer, Dyula Bayot and Baga. {{gha1-porteres}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Captives who rose: Kayor, Asante and the Mossi land master"
-    },
-    {
-     "t": "p",
-     "x": "Ki-Zerbo gives cases of captives rising: in Kayor captives sometimes commanded the army and sat in government, and in Asante it was forbidden even to allude to someone's servile origin, so a former captive might become a village chief. He adds that conquering Mossi aristocrats left the land to the indigenous 'master of the land', the teng-soba. These cases show integration, but they do not contradict large-scale enslavement elsewhere, which he attributes to outside influence in Dahomey, Asante and Zanzibar. {{gha1-concl}} [CONTESTED]"
-    },
-    {
-     "t": "take",
-     "i": [
-      "Dahomey's story is being revised: the trade may have mattered less than once thought [CONTESTED]. {{gha5-alagoa}}",
-      "Communities met the trade as middlemen, procurers or victims. {{gha5-alagoa}}",
-      "Ife art dates to about 900 to 1300 CE. {{gha5-alagoa}}"
-     ]
-    }
-   ]
+   ],
+   "id": "l7"
   },
   {
    "id": "l8",

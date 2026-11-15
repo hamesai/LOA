@@ -6,7 +6,7 @@
   "Narrate Kush, Aksum and Ethiopia, the Maghrib, the Sahel, the Guinea coast, East and Central Africa and southern Africa.",
   "Read oral traditions, chronicles and outside accounts with their biases in view.",
   "Weigh historians' disagreements, from the Almoravid-Ghana debate to the mfecane.",
-  "Use the Slave Voyages table and explain what the Berlin Conference did and did not do.",
+  "Use the Slave Voyages table, keep rival estimates apart, and explain why abolition came in stages.",
   "Build a source-critical atlas of three places."
  ],
  "make": "A source-critical atlas of three African places: a map, tagged timelines, evidence tables, a historians' disagreement essay and a reflection on an African-authored or oral source.",

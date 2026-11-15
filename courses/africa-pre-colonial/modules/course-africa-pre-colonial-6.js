@@ -1,28 +1,40 @@
 /* Pre-Colonial Africa: states, networks and the evidence for them (to c. 1880) (module 6). Block types: _template/TEMPLATE.md. */
 (window.COURSE = window.COURSE || {})["africa-pre-colonial-6"] = {
- "intro": "The Swahili coast, the Great Lakes and Kongo show three ways African states met the wider world. Each leaves a different mix of archaeology, chronicle and letters. Lecturer lens: Ibn Battuta reached the East African coast during his early travels, and his remarks on Kilwa are among the few eyewitness lines on the Swahili towns.",
+ "intro": "The Swahili coast, the East African interior, the Great Lakes, Kongo and the Congo basin, and Madagascar show different ways African societies built states and met the wider world. Each leaves a different mix of archaeology, language evidence, chronicle and letters. Lecturer lens: Ibn Battuta reached the East African coast during his early travels, and his remarks on Kilwa are among the few eyewitness lines on the Swahili towns.",
  "outcomes": [
-  "Place events on the East African timeline.",
-  "Weigh a chronicle against archaeology.",
-  "Read an African royal letter critically.",
-  "Reject a racial theory of state origins.",
+  "Explain the Swahili origins debate, and weigh a chronicle against archaeology.",
+  "Place the coast's events from Kilwa's peak to the closing of Zanzibar's market on one timeline.",
+  "Describe how the East African interior and the Great Lakes kingdoms formed, and reject the Hamitic theory with evidence.",
+  "Read Afonso I's letters critically, and explain how the Atlantic trade reshaped Kongo, Angola and the Congo basin.",
+  "Outline how Madagascar's peoples and kingdoms formed between 1100 and 1800.",
   "Lecturer's method: Use a traveller's description of a Swahili town while holding its date and aims in view."
  ],
  "lessons": [
   {
-   "id": "l1",
    "title": "The Swahili coast and the origins debate",
-   "min": 24,
+   "min": 26,
    "blocks": [
     {
      "t": "p",
-     "x": "The Indian Ocean linked the Swahili coast to Arabia, India and China. The Great Lakes region built centralised kingdoms inland, and Kongo, on the Atlantic side, became a Christian kingdom that wrote to Europe as an equal. {{lib}}"
+     "x": "The Indian Ocean linked the Swahili coast to Arabia, India and China. Inland, the Great Lakes region built centralised kingdoms, and on the Atlantic side Kongo became a Christian kingdom that wrote to Europe as an equal."
     },
     {
      "t": "fig",
      "id": "africa-pre-colonial-tl6",
      "title": "East and Central Africa timeline",
      "cap": "Approximate spans. An open end means no firm end date is known."
+    },
+    {
+     "t": "h",
+     "x": "The earliest written glimpses"
+    },
+    {
+     "t": "p",
+     "x": "The Periplus devotes about 450 of its 7,000 words to the coast beyond the Horn and names Rhapta, not yet located; no Roman coin has been found there, and that coast trade was small and Arabian-led. {{rd-per}}"
+    },
+    {
+     "t": "p",
+     "x": "Mas'udi's Fields of Gold (965) is dense with information on the Zanj and the east coast. {{gha1-djait}} Arab geographers' words for the coastal people's God and kings are Bantu, and Pemba had Muslims who spoke Zanj in the 9th century, which suggests islamised Bantu speakers rather than Arab settlers. {{gha3-masao}}"
     },
     {
      "t": "h",
@@ -34,92 +46,78 @@
     },
     {
      "t": "p",
-     "x": "Towns were stone-built of coral rag. They traded ivory, gold from the south, timber and enslaved people, and imported cloth, glass beads and Chinese and Persian ceramics. {{gha4-swahili}}"
+     "x": "Kiswahili is closest to Mijikenda and Pokomo, and its north-coast synthesis is the likeliest origin. {{gha3-masao}}"
+    },
+    {
+     "t": "p",
+     "x": "Towns were stone-built of coral rag. They traded ivory, gold from the south, timber and enslaved people, and imported cloth, glass beads and Chinese and Persian ceramics. {{gha4-swahili}} Over fifty towns stood on the coast. {{gha4-inter}}"
+    },
+    {
+     "t": "p",
+     "x": "Islam was embraced voluntarily and not imposed; it reached the islands first and the coast itself in the thirteenth century, and African and Muslim titles (mfalme and sultan) stood side by side. {{gha4-swahili}}"
     },
     {
      "t": "h",
-     "x": "The origins debate"
+     "x": "Who built the towns?"
     },
     {
      "t": "p",
-     "x": "The Kilwa Chronicle, written down in Arabic and in Portuguese versions in the 1500s, says Kilwa was founded by Persian Shirazi settlers. Archaeologists such as Horton and Middleton emphasise African origins and see Shirazi claims as prestige stories. {{cambridge-shirazi}} {{africanhistoryextra-shirazi}} {{nature-swahili}} {{gha4-swahili}}"
+     "x": "The Kilwa Chronicle, composed about 1530, says Kilwa was founded by Persian Shirazi settlers. It survives in two versions, one in De Barros and one copied at Zanzibar in 1877, and most other coastal chronicles are recent recordings of oral tradition. {{gha1-hrbek}}"
     },
     {
      "t": "p",
-     "x": "The debate is about how much of each, not whether Africans built the towns [CONTESTED]. {{gha4-swahili}}"
+     "x": "Archaeologists such as Horton and Middleton emphasise African origins and see Shirazi claims as prestige stories. {{cambridge-shirazi}} {{nature-swahili}} The debate is about how much outside input there was, not whether Africans built the towns [CONTESTED]. {{gha4-swahili}}"
     },
     {
      "t": "p",
-     "x": "Masao and Mutoro argue that imported pottery dates were built on too few sherds from one or two test pits. They set Takwa's imported-pottery date against carbon-14 at about 1195 plus or minus 135, and say imported pottery dates mark when trade reached a site, not when it was founded. Takwa has yielded over five million local potsherds against 500 imported ones. {{gha3-masao}}"
-    },
-    {
-     "t": "p",
-     "x": "On the language and the coast, Arab geographers call the coastal people Zanj, and their words (a name for God, a word for kings) are Bantu. Al-Mas'udi and al-Biruni record Bantu forms, and Pemba (Kanbala) had Muslims who spoke Zanj in the 9th century, which suggests islamised Bantu speakers rather than Arab settlers. Kiswahili is closest to Mijikenda and Pokomo, and its north-coast synthesis is the likeliest origin. {{gha3-masao}}"
-    },
-    {
-     "t": "p",
-     "x": "The Shirazi story is contested. Masao and Mutoro note that the Benadir towns are about two centuries older than Kilwa, that the Kilwa dynasty of South Arabian origin is dated to the end of the 13th century, and that most local chronicles were written down in the 19th century, with only an earlier Kilwa text in Barros (16th century). Stone building was known on the coast before any Shirazi arrived, and the Shirazi arrived as individual men, not families. {{gha3-masao}}"
-    },
-    {
-     "t": "p",
-     "x": "The Red Sea coast shows a parallel story. Arab raids reached Ethiopia's ports early (702 by one account), Arabs destroyed Adulis and occupied the Dahlak Islands, and an independent Muslim principality on Dahlak from the early 10th century took over Adulis trade. Over 200 Arabic inscriptions on Dahlak Kabir date from 911 to 1539. {{gha3-cerulli}}"
-    },
-    {
-     "t": "p",
-     "x": "Enslavement on the coast before the 12th century is poorly documented. Arab writers describe ivory, ambergris, tortoiseshell and iron as the main exports, and they do not list slaves among the trade. Slaves were probably taken by capture or abduction, and the Zanj who rose in Iraq in the 9th century may have come from several regions. Do not infer a large coastal slave trade before the 12th century from this period. {{gha3-masao}}"
+     "x": "Stone building was known on the coast before any Shirazi arrived, the Shirazi came as individual men rather than families, and the Kilwa dynasty of South Arabian origin is dated to the end of the 13th century. {{gha3-masao}}"
     },
     {
      "t": "table",
-     "title": "Two readings of Swahili origins",
+     "title": "Two readings of who built the Swahili towns",
      "head": [
-      "",
-      "Shirazi chronicle tradition",
-      "Archaeological reading (Horton, Middleton)"
+      "Reading",
+      "Who held it",
+      "What it says",
+      "How to treat it"
      ],
      "rows": [
       [
-       "Who founded the towns",
-       "Persian settlers from Shiraz",
-       "African Bantu-speaking communities"
+       "Foreign founders",
+       "Strandes (1899), then Gray, Mathew, Kirkman and others",
+       "Persians and Arabs built the towns; Africans played a passive part {{gha4-swahili}}",
+       "An erroneous concept resting on a Hegelian idea of history [CONTESTED]"
       ],
       [
-       "Evidence",
-       "Kilwa Chronicle, written in the 1500s",
-       "Excavated towns from c. 8th century; Swahili is a Bantu language"
-      ],
-      [
-       "Role of Shirazi claims",
-       "Historical fact",
-       "Prestige stories"
-      ],
-      [
-       "Remaining dispute",
-       "How much outside input there was",
-       "Same question"
+       "African dynasties",
+       "Chittick, Ki-Zerbo, Diop, Horton",
+       "The ruling dynasties were local; at Pate the title mfalme passed between the men of a generation of one clan {{gha4-swahili}}",
+       "The Shirazi legends are prestige claims, like Solomon in Ethiopia [PROBABLE]"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha4-swahili}}"
+    },
+    {
+     "t": "h",
+     "x": "Dating the towns"
+    },
+    {
+     "t": "p",
+     "x": "Imported-pottery dates were built on too few sherds from one or two test pits. Takwa has yielded over five million local potsherds against 500 imported ones, and imported pottery marks when trade reached a site, not when it was founded. {{gha3-masao}}"
     },
     {
      "t": "example",
      "title": "Worked example: weighing a chronicle against archaeology",
      "steps": [
-      "The chronicle was written down centuries after the first towns, so it is a late source.",
-      "The archaeology shows African communities building the earliest towns, and the language is Bantu.",
-      "Use the chronicle to understand how later elites saw themselves. Do not use it to date founding. Mixing with Arab and Persian traders is real but does not make the towns foreign. {{lib}}"
+      "The Kilwa Chronicle was composed about 1530, centuries after the first towns, so it is a late source.",
+      "The archaeology shows African communities building the earliest towns from about the 8th century, and the language is Bantu.",
+      "Use the chronicle to understand how later elites saw themselves. Do not use it to date founding. Mixing with Arab and Persian traders is real but does not make the towns foreign. {{gha1-hrbek}} {{gha3-masao}}"
      ]
     },
     {
-     "t": "check",
-     "q": "What is the best statement of the Swahili origins debate?",
-     "o": [
-      "Persians founded the towns",
-      "Africans built the towns; the debate is about how much outside input there was",
-      "Chinese settlers founded them",
-      "No one knows who lived there"
-     ],
-     "a": 1,
-     "w": "The debate is how much of each. {{lib}}"
+     "t": "callout",
+     "k": "warn",
+     "x": "Enslavement on the coast before the 12th century is poorly documented: Arab writers list ivory, ambergris, tortoiseshell and iron as the main exports, not slaves. Do not infer a large coastal slave trade before the 12th century. {{gha3-masao}}"
     },
     {
      "t": "check",
@@ -131,55 +129,114 @@
       "As a Chinese source"
      ],
      "a": 1,
-     "w": "That is the reading of Horton and Middleton. {{lib}}",
+     "w": "The Shirazi claims served elite prestige. {{gha4-swahili}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "A site report dates a town's founding by its imported Chinese pottery. What is the flaw?",
+     "o": [
+      "None",
+      "Imported pottery shows when trade reached the site, not when it was founded, and the samples are often tiny",
+      "Chinese pottery cannot be dated",
+      "The pottery is local"
+     ],
+     "a": 1,
+     "w": "Takwa: five million local sherds against 500 imported. {{gha3-masao}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "The coast's towns date from about the 8th century [PROBABLE]. {{lib}}",
-      "Swahili is a Bantu language with Arabic loan-words.",
-      "Shirazi stories are prestige stories; proportion is contested."
+      "The coast's towns date from about the 8th century and were built by Bantu speakers [PROBABLE]. {{horton-shanga}}",
+      "Swahili is a Bantu language with Arabic loan-words. {{gha3-masao}}",
+      "Shirazi stories are prestige stories; the share of outside input is contested."
      ]
     }
-   ]
+   ],
+   "id": "l1"
   },
   {
-   "id": "l2",
-   "title": "Kilwa, Mombasa, Zanzibar and the caravans",
-   "min": 24,
+   "title": "Kilwa, the Portuguese and Oman",
+   "min": 28,
    "blocks": [
     {
-     "t": "p",
-     "x": "Kilwa peaked around the 13th and 14th centuries, with the palace-warehouse of Husuni Kubwa and a great mosque. It issued its own copper coins [PROBABLE]. UNESCO lists Kilwa Kisiwani and Songo Mnara. {{gha4-swahili}}"
+     "t": "h",
+     "x": "Kilwa at its height"
     },
     {
      "t": "p",
-     "x": "Ibn Battuta visited Kilwa; his own text puts it in about 1330 or 1331. {{wiki-battuta}} The Portuguese attacked Kilwa in 1505. {{wiki-sack-kilwa}} {{africanhistoryextra-kilwa}}"
+     "x": "Kilwa peaked around the 13th and 14th centuries, with the palace-warehouse of Husuni Kubwa and a great mosque. It minted copper and silver coins, and Mogadishu a coin dated 1322. {{gha4-swahili}} [PROBABLE]"
     },
     {
      "t": "p",
-     "x": "The two dates for Ibn Battuta's visit differ because he is uncertain about his own chronology, so say about 1330 to 1331 when you can. {{wiki-battuta}}"
+     "x": "The Sofala gold marketed at Kilwa was a major export, and 67 per cent of Kilwa's customs in the thirteenth century came from imported cotton. {{gha4-inter}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Ibn Battuta visited Kilwa; his own text puts it in about 1330 or 1331. {{wiki-battuta}} He found it a very fine town of mostly Zanj inhabitants, ruled by the generous Abu'l-Muzaffar Hasan, and was told that gold dust reached Sofala from the interior. {{ibn-battuta-gibb-018}}"
+    },
+    {
+     "t": "p",
+     "x": "There is no documentary or archaeological evidence for an overland route between Kilwa and the Zimbabwe gold country: its trade was by sea. {{gha5-coast}} [PROBABLE]"
     },
     {
      "t": "h",
-     "x": "Mombasa and Zanzibar"
+     "x": "China"
     },
     {
      "t": "p",
-     "x": "The Portuguese built Fort Jesus (1593 to 96). Omani forces took it in 1698 after a long siege. Omani rule moved to Zanzibar under Sayyid Said in the 1830s and 1840s, with clove plantations and a large trade in captives from the mainland. {{unesco-fort-jesus}} {{colonialvoyage-fort}} {{ebsco-oman-zanzibar}}"
+     "x": "Chinese ships did not sail beyond Sumatra and Java until Zheng He's voyages, so the earlier Chinese porcelain at Kilwa came through Indian Ocean traders. {{gha4-swahili}} A giraffe was sent to China in 1415. {{rd-lag}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "The dates of Zheng He's African calls differ inside one UNESCO volume: 1417 to 19 and 1421 to 22 in one chapter, {{gha4-swahili}} 1417 to 1419 and 1431 to 1433 in another. {{gha4-inter}} Give the early fifteenth century and the disagreement. Stories of Chinese settlers on Pate island are [CONTESTED]."
     },
     {
      "t": "h",
-     "x": "Caravans and China"
+     "x": "The Portuguese"
     },
     {
      "t": "p",
-     "x": "In the 19th century traders such as Tippu Tip (Hamad bin Muhammad al-Murjebi, who left an autobiography in Swahili) led caravans into the interior. Numbers of people taken from East Africa for sale in the 19th century are [CONTESTED], with estimates in the tens of thousands per year at the peak. Zanzibar's market was closed to new sales under British pressure in 1873. {{lib}}"
+     "x": "Vasco da Gama in 1498 found Mocambique, Mombasa and Malindi to be Muslim towns whose merchants wore silk-bordered cottons, and he took the Arab pilot Ahmad ibn Majid on board for the crossing to India. {{rd-eth}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Da Gama's journal is a hostile-contact source: the Portuguese were poor in goods, offended hosts with their gifts, and then used force. It is evidence of the towns' wealth, written by people with a motive to find them weak. {{rd-eth}}"
     },
     {
      "t": "p",
-     "x": "Chinese ceramics are found in coastal sites, and early-15th-century voyages (Zheng He) reached East Africa [PROBABLE]. Stories of Chinese settlers on Pate island are [CONTESTED]. {{gha4-swahili}}"
+     "x": "Portuguese cannon took Zanzibar in 1503 and Mombasa and Kilwa in 1505, helped by rivalry among the towns. {{rd-cont}} The coast was at its golden age in 1500, with over 100 settlements founded between 1200 and 1500. {{gha5-coast}}"
+    },
+    {
+     "t": "p",
+     "x": "The Zimba, originally Lundu's warriors, reached Kilwa about 1588 and Mombasa in 1589. {{gha5-coast}} The Portuguese built Fort Jesus in the 1590s. {{unesco-fort-jesus}} Yusuf bin Hasan seized it on 15/08/1631, and the Omani siege that ended with its fall in December 1698 lasted two and a half years. {{gha5-coast}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "The final Portuguese expulsion came in 1729, by the Swahili towns rather than by Oman. Blaming Portuguese action for the decline of other towns is wrong: Oromo and Zimba pressure and environmental change are likelier causes. {{gha5-coast}} [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "Oman, Zanzibar and the caravans"
+    },
+    {
+     "t": "p",
+     "x": "The Mascarene plantations after 1735 drove a French slave trade at Kilwa, including a 1776 treaty for 1,000 slaves a year. {{gha5-coast}}"
+    },
+    {
+     "t": "p",
+     "x": "Omani rule moved to Zanzibar under Sayyid Said in the 1830s and 1840s, with clove plantations and a large trade in captives from the mainland. {{unesco-fort-jesus}} {{colonialvoyage-fort}} {{ebsco-oman-zanzibar}}"
+    },
+    {
+     "t": "p",
+     "x": "In the 19th century traders such as Tippu Tip (Hamad bin Muhammad al-Murjebi, who left an autobiography in Swahili) led caravans into the interior. Numbers taken from East Africa for sale in the 19th century are [CONTESTED], and Zanzibar's market was closed to new sales under British pressure in 1873. {{lib}}"
+    },
+    {
+     "t": "p",
+     "x": "More than 30 000 pages of Swahili and Arabic manuscripts have come to light since 1965, and the poem al-Inkishafi on Pate was composed in the 1810s. {{gha1-hrbek}} The coast's own written record is larger than older histories assumed."
     },
     {
      "t": "table",
@@ -194,132 +251,255 @@
        "c. 1330 to 1331 (his chronology is uncertain)"
       ],
       [
-       "Portuguese sack Kilwa",
+       "Da Gama on the coast",
+       "1498"
+      ],
+      [
+       "Portuguese take Mombasa and Kilwa",
        "1505"
       ],
       [
-       "Fort Jesus completed",
-       "1593 to 96"
+       "Fort Jesus built",
+       "1590s"
       ],
       [
        "Omani forces take Fort Jesus",
-       "1698"
+       "December 1698"
+      ],
+      [
+       "Final Portuguese expulsion",
+       "1729"
       ],
       [
        "Zanzibar market closed to new sales",
        "1873"
       ]
      ],
-     "src": "{{lib}} {{wiki-battuta}}"
+     "src": "{{wiki-battuta}} {{gha5-coast}}"
     },
     {
      "t": "example",
      "title": "Worked example: arithmetic on the timeline (our arithmetic)",
      "steps": [
-      "From the Portuguese sack of Kilwa in 1505 to the Omani capture of Fort Jesus in 1698 is 1698 minus 1505, which is 193 years.",
-      "Fort Jesus took three to four years to build (1593 to 96) and held out as a Portuguese fort for about 102 years from 1596 to 1698.",
-      "So Portuguese hold on Mombasa was more than a century. Do not call it permanent, because Omani forces took it. {{lib}}"
+      "From the Portuguese attack on Kilwa in 1505 to the Omani capture of Fort Jesus in 1698 is 1698 minus 1505, which is 193 years.",
+      "A siege of two and a half years ending in December 1698 began in about mid-1696.",
+      "So the Portuguese held the coast for nearly two centuries, but not peacefully and not permanently."
      ]
     },
     {
      "t": "check",
-     "q": "You are building a coast timeline from four events. Which belongs first?",
+     "q": "A textbook says 'Portugal destroyed the Swahili towns, causing their decline'. What is the better supported view?",
      "o": [
-      "Fort Jesus completed",
-      "Kilwa sacked by Portugal (1505)",
-      "Mbwila",
-      "Zanzibar market closed"
+      "It is right",
+      "Portuguese attacks mattered, but Oromo and Zimba pressure and environmental change better explain much decline, and Pate prospered after 1600",
+      "Portugal never came",
+      "Oman destroyed them in 1505"
      ],
      "a": 1,
-     "w": "Kilwa 1505 comes first. {{lib}}",
+     "w": "Blaming Portugal alone is wrong on the evidence. {{gha5-coast}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why is Ibn Battuta's Kilwa date given as a range?",
+     "q": "You are building a coast timeline. Which pair is in the right order?",
      "o": [
-      "He never visited",
-      "His own chronology is uncertain",
-      "The sources are in Latin",
-      "Kilwa was not built then"
+      "Fort Jesus falls to Oman, then da Gama arrives",
+      "Kilwa attacked by Portugal (1505), then the Zimba reach Mombasa (1589)",
+      "Zanzibar closes its market, then Ibn Battuta visits",
+      "The final expulsion (1729), then Fort Jesus is built"
      ],
      "a": 1,
-     "w": "Scholars note problems in his dated stages. {{wiki-battuta}}"
+     "w": "1505 comes before 1589. {{gha5-coast}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Kilwa minted copper coins at its peak in the 13th and 14th centuries [PROBABLE]. {{lib}}",
-      "Omani power moved to Zanzibar in the 1830s to 40s.",
-      "Numbers of enslaved people taken from East Africa are contested."
+      "Kilwa minted coins and traded Sofala gold by sea at its 13th to 14th century peak. {{gha4-swahili}}",
+      "The Portuguese took the towns from 1505 but were expelled by 1729. {{gha5-coast}}",
+      "Omani Zanzibar ran a large trade in captives until 1873."
      ]
     }
-   ]
+   ],
+   "id": "l2"
   },
   {
-   "id": "l3",
-   "title": "The Great Lakes kingdoms: Ntusi, Bigo and Buganda",
-   "min": 24,
+   "title": "The East African interior",
+   "min": 22,
    "blocks": [
     {
      "t": "p",
-     "x": "Earthworks at Ntusi and Bigo in western Uganda, roughly 11th to 16th centuries, show earlier centralised polities [PROBABLE]. Oral tradition links them to the legendary Chwezi and Bunyoro-Kitara. How far that tradition describes a historic empire is [CONTESTED]. {{cambridge-antecedents}} {{unesco-bigo}} {{icomos-ntusi}}"
+     "x": "The interior between the coast and the lakes is reconstructed mainly from historical linguistics, so every date is approximate. In 1100 Bantu speakers were still few and lived in the wetter lands, while Nilotic and Southern Cushitic peoples held the drier plains. {{gha4-ehret}} [THIN EVIDENCE]"
     },
     {
      "t": "p",
-     "x": "The Great Lakes kingdoms have a long pre-history in the interior. Bantu farmers reached the Lakes earlier than the middle of the first millennium BCE and expanded through the first millennium CE, while Central Sudanic and Southern Cushitic herders and hunter-gatherers were absorbed. Lacustrine society spread from the Bukoba area, partly because forest clearance for charcoal wore out the land. {{gha3-ehret}}"
-    },
-    {
-     "t": "p",
-     "x": "Chiefship changed before the Common Era. A new chief whose power rested on control of iron smelting displaced older petty chiefs, who kept religious and medical roles. Large cattle-based polities came later, after about 1100. The Rutara expansion north-west near the end of the period is the start of the era remembered in later oral tradition as the Bachwezi. {{gha3-ehret}}"
-    },
-    {
-     "t": "p",
-     "x": "Highland planting agriculture, with bananas, irrigation and manure, was worked out in the Pare mountains around 1000 CE, and the Chaga spread from there. Bananas also reached the Lakes from the south. The interior did not share in the Indian Ocean trade of the 9th and 10th centuries, which the proto-Swahili ran on the coast. {{gha3-ehret}}"
+     "x": "Bantu communities spread between 1100 and 1600 by absorbing earlier peoples and by changing what they farmed. Immigrants never moved into empty land, so the period was one of conflict and borrowing, such as the age-sets Bantu groups took from Southern Nilotes. {{gha4-ehret}}"
     },
     {
      "t": "h",
-     "x": "Buganda"
+     "x": "Farming the mountains and the dry plains"
     },
     {
      "t": "p",
-     "x": "Traditions credit a founder, Kato Kintu. The kingdom emerged by the 16th to 17th centuries and grew strongly in the 18th and 19th. The Kabaka, or king, appointed chiefs, limiting the clans' power, and ran a canoe navy on Lake Victoria. {{buganda-history}} {{britannica-uganda}}"
+     "x": "Highland planting agriculture, with bananas, irrigation and manure, was worked out in the Pare mountains around 1000 CE, and the Chaga spread from there. {{gha3-ehret}}"
     },
     {
      "t": "p",
-     "x": "Kabaka Mutesa I (r. c. 1856 to 84) received Speke (1862) and Stanley (1875). Kasubi Tombs are UNESCO-listed and were damaged by fire in 2010. {{britannica-uganda}} {{unesco-kasubi}}"
+     "x": "In the dry interior Bantu settlers shifted from root crops to millet and sorghum. In the mountains of Kilimanjaro, Mount Kenya and Pare they joined the Bantu planting tradition and the Indonesian banana to Southern Cushitic irrigation and manure. {{gha4-ehret}} [PROBABLE]"
     },
     {
-     "t": "callout",
-     "k": "warn",
-     "x": "Speke's Hamitic theory held that such kingdoms were built by lighter-skinned outsiders. It was racial speculation that shaped colonial rule and is rejected today. {{cambridge-antecedents}}"
+     "t": "p",
+     "x": "Famine was the main challenge: Shambaa traditions record one about every fifteen years. Farmers answered by planting many crops as insurance, and herders by lending cattle so that a family's herd was spread among friends and kin. {{gha5-ochieng}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "Cut off from the coast"
+    },
+    {
+     "t": "p",
+     "x": "The interior did not share in the Indian Ocean trade of the 9th and 10th centuries. {{gha3-ehret}} No significant imported objects have been found at any interior site north of the Zambezi dated before 1600. {{gha5-ochieng}}"
+    },
+    {
+     "t": "p",
+     "x": "Internal trade moved iron, salt (the Uvinza springs, worked since about AD 1000), pots, honey and food between regions. The interior joined long-distance trade only about 1800. {{gha5-ochieng}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "Two kinds of political order"
     },
     {
      "t": "table",
-     "title": "Sources for the Great Lakes kingdoms",
+     "title": "Decentralised and centralising peoples of the interior",
      "head": [
-      "Source",
-      "What it gives",
-      "Limit"
+      "Type",
+      "Examples",
+      "How it worked"
      ],
      "rows": [
       [
-       "Earthworks at Ntusi and Bigo",
-       "Evidence of early centralised polities",
-       "Do not name their rulers"
+       "Decentralised",
+       "Kikuyu, Kamba, Maasai, Kalenjin",
+       "Clan and neighbourhood councils; age-sets {{gha5-ochieng}}"
       ],
       [
-       "Oral tradition (Chwezi, Kato Kintu)",
-       "Founding memory",
-       "Scale of Chwezi empire contested"
-      ],
-      [
-       "19th-century visitors (Speke, Stanley)",
-       "Observations of Mutesa's court",
-       "Racial theories; thin before 1800"
+       "Centralising",
+       "Shambaa, Pare, Sukuma, Nyamwezi",
+       "Ntemi chiefs with regalia and a royal fire {{gha5-ochieng}}"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha5-ochieng}}"
+    },
+    {
+     "t": "p",
+     "x": "The ntemi chiefships grew from local conditions, not from one Nile-valley origin as an older view held. Nyamwezi chiefdoms tended to split rather than merge until nineteenth-century trade centralised them. {{gha5-ochieng}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Luo immigrants reached the Kavirondo Gulf only in the sixteenth century, and the Maasai began to move south along the Rift from the sixteenth century. {{gha4-ehret}} [TRADITIONAL DATE]"
+    },
+    {
+     "t": "check",
+     "q": "An atlas shows Arab trade routes deep into Kenya and Tanzania in 1500. What does the evidence say?",
+     "o": [
+      "It is right",
+      "No imported objects are found inland north of the Zambezi before 1600, and the interior joined long-distance trade about 1800",
+      "The routes ran to Egypt",
+      "There was no trade at all"
+     ],
+     "a": 1,
+     "w": "Local trade in iron, salt and food existed; coast links came later. {{gha5-ochieng}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "A people has no chief but councils of elders and age-sets. Which description fits?",
+     "o": [
+      "A failed state",
+      "A decentralised political order, like the Kikuyu or Maasai",
+      "A Swahili town",
+      "An empire"
+     ],
+     "a": 1,
+     "w": "Decentralised peoples ran on councils. {{gha5-ochieng}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Bantu speakers spread inland by absorbing others and changing crops. {{gha4-ehret}}",
+      "Famine shaped farming and herding strategies. {{gha5-ochieng}}",
+      "The interior joined long-distance trade late, about 1800."
+     ]
+    }
+   ],
+   "id": "l3"
+  },
+  {
+   "title": "The Great Lakes kingdoms",
+   "min": 28,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Bantu farmers reached the Lakes earlier than the middle of the first millennium BCE, absorbing Central Sudanic and Southern Cushitic herders and hunter-gatherers. {{gha3-ehret}} A new chief whose power rested on control of iron smelting displaced older petty chiefs before the Common Era; large cattle-based polities came later, after about 1100. {{gha3-ehret}}"
+    },
+    {
+     "t": "h",
+     "x": "Ntusi, Bigo and the Chwezi"
+    },
+    {
+     "t": "p",
+     "x": "Ntusi dates to the 11th to 14th or 15th century, with cattle bones and smelting. Bigo's ditches, more than ten kilometres long and cut up to five metres into bedrock around about 300 hectares, date to the 13th to 16th centuries, probably as a cattle refuge. {{rd-lakes}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Oral tradition links these sites to the legendary Chwezi and Bunyoro-Kitara. The years 1200 to 1500 have scant evidence and no agreed chronology. {{gha4-lakes}}"
+    },
+    {
+     "t": "table",
+     "title": "Were the Bachwezi real?",
+     "head": [
+      "Position",
+      "Held by",
+      "Argument"
+     ],
+     "rows": [
+      [
+       "Legend only",
+       "Wrigley",
+       "The Chwezi stories hold no valid early history {{gha4-lakes}}"
+      ],
+      [
+       "A real aristocracy",
+       "Ogot, Oliver, Posnansky",
+       "The Bachwezi were a local Bantu aristocracy, tied to Bigo, dated 1350 to 1500 {{gha4-lakes}}"
+      ],
+      [
+       "How to choose",
+       "",
+       "The earthworks are real; the names and deeds are tradition [CONTESTED]"
+      ]
+     ],
+     "src": "{{gha4-lakes}}"
+    },
+    {
+     "t": "p",
+     "x": "Small Bantu agricultural and iron-working states came before pastoralist rulers, and pastoralist and cultivator were jobs people moved between, not ethnic labels. {{gha4-lakes}}"
+    },
+    {
+     "t": "h",
+     "x": "The Hamitic theory, and why it fails"
+    },
+    {
+     "t": "p",
+     "x": "Speke's Hamitic theory held that such kingdoms were built by lighter-skinned outsiders from the north. It was racial speculation that shaped colonial rule and is rejected today. {{cambridge-antecedents}}"
+    },
+    {
+     "t": "p",
+     "x": "No Cushitic substratum is found, one Bantu language runs through the region, and Tutsi and Hutu speak the same Bantu language. {{rd-lakes}} Clans were mixed: over half of Tutsi clans and 10 per cent of Hutu clans contained both groups. {{gha5-lakes}}"
+    },
+    {
+     "t": "p",
+     "x": "The Hima and Tutsi against Iru and Hutu pattern grew from local exchange into a hierarchy only between the seventeenth and nineteenth centuries, and colonial rule then fixed it as a racial caste. {{gha5-lakes}} [CONTESTED]"
     },
     {
      "t": "example",
@@ -327,169 +507,410 @@
      "steps": [
       "Who is speaking? A visitor, in 1862, with a racial theory of his own.",
       "What does he give? A description of Mutesa's court and kingdom.",
-      "What to discount? The Hamitic theory, which was speculation. Use the description with care. {{lib}}"
+      "What to discount? The theory, which the language and clan evidence refutes: one Bantu language, and clans containing both groups.",
+      "Use the description with care; reject the explanation. {{rd-lakes}} {{gha5-lakes}}"
      ]
     },
     {
+     "t": "h",
+     "x": "Drought and the new kingdoms, 1580 to 1800"
+    },
+    {
+     "t": "p",
+     "x": "A time of drought and famine ran from 1580 to 1680, with the worst droughts in 1588 to 1590 and 1617 to 1621; the Nile was at its lowest in 1621. {{gha5-lakes}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "The drought scattered the Luo and drove a Banyoro invasion south. Traditions of half the people dying come from analogy with Egypt, so treat them as an estimate. {{gha5-lakes}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "p",
+     "x": "Traditions credit Buganda's founding to Kato Kintu. The kingdom emerged by the 16th to 17th centuries and grew strongly in the 18th and 19th; the Kabaka appointed chiefs, limiting the clans' power, and ran a canoe navy on Lake Victoria. {{buganda-history}} {{britannica-uganda}}"
+    },
+    {
+     "t": "p",
+     "x": "Kintu stands for a group of clans, not a single man. {{gha4-lakes}} Buganda's rise came from a secure climate and farming, water trade, bark cloth and iron, while Bunyoro entered a long decline after its succession was opened to all the king's sons. {{gha5-lakes}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Rwanda was a small state until Ruganzu Ndori's new dynasty in the early seventeenth century, then grew with standing armies, ubuhake clientship and land grants. {{gha5-lakes}} Seven clan states existed before the Nyiginya dynasty. {{gha4-lakes}}"
+    },
+    {
+     "t": "p",
+     "x": "Kabaka Mutesa I (r. c. 1856 to 84) received Speke (1862) and Stanley (1875). The Kasubi Tombs are UNESCO-listed and were damaged by fire in 2010. {{britannica-uganda}} {{unesco-kasubi}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Great Lakes king lists were tidied into father-to-son lines, which lengthens dynasties, and Kagwa's history of Buganda shaped later Ganda lists. {{gha1-vansina}} Solar eclipses probably of 1520 and 1792 give the few fixed points. {{gha5-lakes}}"
+    },
+    {
      "t": "check",
-     "q": "An old guide says the lakes kingdoms were founded by tall northern pastoralists who brought kingship. How should you label the claim?",
+     "q": "An old guide says the Lakes kingdoms were founded by tall northern pastoralists who brought kingship. How should you answer it?",
      "o": [
-      "Proven migration",
-      "The Hamitic theory: racial speculation that outsiders built African kingdoms, now rejected",
-      "A Buganda constitution",
-      "A trade treaty"
+      "Accept it",
+      "It is the Hamitic theory; language and clan evidence show one Bantu-speaking population, and the hierarchy grew late",
+      "It is Buganda's constitution",
+      "It is a trade treaty"
      ],
      "a": 1,
-     "w": "It shaped colonial rule and is rejected today. {{lib}}",
+     "w": "Tutsi and Hutu speak one Bantu language and shared clans. {{rd-lakes}} {{gha5-lakes}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "What did Ntusi and Bigo show?",
+     "q": "A history of Rwanda begins with Tutsi kings arriving and founding the state. What should it start with instead?",
      "o": [
-      "Earlier centralised polities in western Uganda",
-      "A Roman fort",
-      "Swahili stone towns",
-      "Mande gold mines"
+      "The same story",
+      "The farming clan states that came first; the court story rests on the outmoded Hamitic theory",
+      "Archaeology alone",
+      "Kenya"
      ],
-     "a": 0,
-     "w": "Earthworks of roughly the 11th to 16th centuries. {{lib}}"
+     "a": 1,
+     "w": "Seven clan states existed before the Nyiginya. {{gha4-lakes}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Buganda's Kabaka appointed chiefs to limit the clans. {{lib}}",
-      "The Chwezi empire is partly tradition and contested.",
-      "Speke's Hamitic theory is rejected."
+      "Ntusi and Bigo show early polities; the Chwezi are [CONTESTED]. {{gha4-lakes}}",
+      "The Hamitic theory fails on language and clan evidence. {{gha5-lakes}}",
+      "Drought from 1580 to 1680 reshaped the region before Buganda and Rwanda rose."
      ]
     }
-   ]
+   ],
+   "id": "l4"
   },
   {
-   "id": "l4",
-   "title": "Kongo, Afonso I and reading a letter",
-   "min": 28,
+   "title": "Kongo and Angola",
+   "min": 30,
    "blocks": [
     {
-     "t": "p",
-     "x": "Kongo was centred on Mbanza Kongo. Tradition, not firm dates, puts the founder Lukeni lua Nimi around the late 14th century [TRADITIONAL DATE]. The king, the Manikongo, governed provinces through appointed governors, and shell money called nzimbu circulated. {{gha4-kongo}}"
+     "t": "h",
+     "x": "Before Kongo"
     },
     {
      "t": "p",
-     "x": "Before the Kongo kingdom, the region north of the Zambezi had Early Iron Age farmers in two streams. Copper and mining on the Copperbelt and in the upper Lualaba drew trade over a wide area, and the Sanga and Katoto cemeteries show wealth by about 1000 CE. Pottery breaks sharply at about 1000 to 1100 CE in the east, where the Luangwa tradition appears, probably brought by whole families from north-west of the Copperbelt. {{gha3-phillipson}}"
+     "x": "North of the Zambezi, copper mining on the Copperbelt and in the upper Lualaba drew trade over a wide area, and the Sanga and Katoto cemeteries show wealth by about 1000 CE. {{gha3-phillipson}}"
+    },
+    {
+     "t": "h",
+     "x": "The kingdom"
     },
     {
      "t": "p",
-     "x": "The Luba dynastic traditions are later than that archaeological break; their political developments are dated to the 13th or 14th century. Keep archaeological continuity and the traditions of kingship apart. Phillipson also argues that foreign pottery at copper sites suggests men travelled to get metal, since potting was men's work, so families did not necessarily move. {{gha3-phillipson}}"
+     "x": "The evidence for 1100 to 1500 is thin: the first manuscript on Kongo is of 1492, oral traditions were first written down in 1624, and everything earlier is hypothesis. {{gha4-kongo}} [TRADITIONAL DATE] Tradition puts the founder Lukeni lua Nimi around the late 14th century. {{gha4-kongo}}"
+    },
+    {
+     "t": "p",
+     "x": "About 1483 the core kingdom had six provinces under governors named by the king, except that Mbata's was elected and Soyo's was hereditary. Tribute came in nzimbu shells, raffia cloth, ivory and skins. {{gha4-kongo}}"
+    },
+    {
+     "t": "p",
+     "x": "Kings were chosen by a college of nine or twelve electors, and the capital Mbanza Kongo was a stone-walled trading city not yet thoroughly excavated. {{gha4-kongo}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "'Kingdom of Kongo' can also be read as nsi a Kongo, the country of the Kongo people, one large chiefdom bound by matrilineal clans recognising common founder-ancestors, rather than a king-ruled state in the western sense. {{gha1-obenga}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "The kingdom proper had about two million people on the figure most accept, though estimates run from half a million to eight million. {{gha5-kongo}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "h",
+     "x": "The Portuguese and the Christian court"
     },
     {
      "t": "p",
      "x": "Portuguese ships reached Kongo in 1483. King Nzinga a Nkuwu was baptised in 1491. {{britannica-kongo}} {{sahistory-kongo}}"
     },
     {
-     "t": "h",
-     "x": "Afonso I"
-    },
-    {
      "t": "p",
-     "x": "Afonso I (r. c. 1509 to 43) promoted Christianity, sent students to Portugal and wrote letters to the kings of Portugal. In a letter of 1526 he protested that the slave trade was depopulating his kingdom and corrupting his people, and asked the Portuguese to stop supplying goods to illegal traders. {{gilder-afonso}} {{heywood-kongo}} {{sahistory-kongo}}"
-    },
-    {
-     "t": "p",
-     "x": "These are among the earliest surviving African political letters about the trade [FIRM]. The texts were written in Portuguese by secretaries but under his seal. John Thornton's work shows Kongo as an active partner, not a passive victim. {{heywood-kongo}} {{wh-commons-afonso}}"
+     "x": "Afonso I reigned from 1506 to 1543 and made Catholicism the state religion. {{gha5-kongo}} He sent young nobles to Portugal, and a Kikongo catechism of 1555 was the first printed transcription of a Bantu language. {{rd-kongo}}"
     },
     {
      "t": "h",
-     "x": "Decline and prophecy"
+     "x": "Afonso's letters"
     },
     {
      "t": "p",
-     "x": "At Mbwila on 29/10/1665 a Portuguese-led force defeated Kongo and killed its king. Civil wars followed. The Antonian movement of Kimpa Vita (Dona Beatriz), who preached a Kongo Christianity and reunification, ended with her execution as a heretic in 1706. Queen Njinga of Ndongo and Matamba (c. 1583 to 1663) resisted the Portuguese and allied at times with the Dutch. {{britannica-kongo}} {{dacb-kimpa}} {{sahistory-kongo}}"
+     "x": "In a letter of 1526 Afonso protested that the slave trade was depopulating his kingdom and corrupting his people, and asked the Portuguese to stop supplying goods to illegal traders. {{gilder-afonso}} {{heywood-kongo}} {{sahistory-kongo}}"
+    },
+    {
+     "t": "p",
+     "x": "These are among the earliest surviving African political letters about the trade [FIRM]. The texts were written in Portuguese by secretaries but under his seal. {{heywood-kongo}} {{wh-commons-afonso}}"
+    },
+    {
+     "t": "p",
+     "x": "Afonso complained that his own people, even nobles, were being seized and sold, and Portugal replied that Kongo had nothing else to sell. {{rd-kongo}}"
+    },
+    {
+     "t": "p",
+     "x": "The trade grew from 1514; he tried to control it and in 1526 to abolish it, and failed. Exports were about 4,000 to 5,000 a year until about 1540 and 6,000 to 7,000 afterwards. {{gha5-kongo}}"
     },
     {
      "t": "example",
      "title": "Worked example: reading Afonso's 1526 letter",
      "steps": [
-      "Who is speaking? A king, via a secretary, to a king.",
+      "Who is speaking? A king, through a secretary, to a king.",
       "To whom and why? To obtain action from Portugal.",
-      "What does it prove? That a Central African ruler judged the trade harmful and could say so in European diplomatic form. What it does not prove: that Kongo had no part in the trade, because Afonso himself took part in earlier exchanges. {{lib}}"
+      "What does it prove? That a Central African ruler judged the trade harmful and could say so in European diplomatic form.",
+      "What does it not prove? That Kongo had no part in the trade: Afonso tried first to control it, and exports kept rising (our reading). {{gha5-kongo}}"
      ]
     },
     {
-     "t": "table",
-     "title": "Buganda and Kongo compared",
-     "head": [
-      "",
-      "Buganda",
-      "Kongo"
-     ],
-     "rows": [
-      [
-       "Source of king's authority",
-       "Kabaka appointing chiefs; clans",
-       "Manikongo with provincial governors"
-      ],
-      [
-       "Relation to outsiders",
-       "Arab traders then missionaries arrive late",
-       "Portuguese from 1483; Christian court"
-      ],
-      [
-       "African-authored evidence",
-       "Mostly oral tradition",
-       "Afonso's letters"
-      ],
-      [
-       "Source limit",
-       "Thin before 1800",
-       "Missionary accounts partial"
-      ]
-     ],
-     "src": "{{lib}}"
+     "t": "h",
+     "x": "Angola, Mbwila and Kimpa Vita"
+    },
+    {
+     "t": "p",
+     "x": "Angola was founded in 1575 and Luanda in 1576. {{gha5-kongo}} Queen Njinga of Ndongo and Matamba (c. 1583 to 1663) resisted the Portuguese and allied at times with the Dutch. {{sahistory-kongo}}"
+    },
+    {
+     "t": "p",
+     "x": "At Mbwila on 29/10/1665 a Portuguese-led force defeated Kongo and killed its king. {{britannica-kongo}} Civil war destroyed Mbanza Kongo in 1666; it was abandoned in 1678 and a king returned only in 1709. {{gha5-kongo}}"
+    },
+    {
+     "t": "p",
+     "x": "Kimpa Vita (Dona Beatriz) preached from 1704 a Kongo Christianity and reunification, and was burnt as a heretic in 1706. {{gha5-kongo}} {{dacb-kimpa}}"
+    },
+    {
+     "t": "p",
+     "x": "About one million slaves were put aboard on the Loango coast between 1660 and 1797, which may mean about two million people taken, perhaps nearer three. {{gha5-kongo}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Over half a million contemporary pages survive for the region from 1500 to 1800, more than for any other area of that size in Africa. {{gha5-kongo}} Much of it is missionary and Portuguese, so the Kongo voice comes through letters such as Afonso's."
     },
     {
      "t": "check",
-     "q": "You want evidence that a Kongo king saw the slave trade as harmful to his kingdom. Which source fits best, and what does it say?",
+     "q": "You want evidence that a Kongo king saw the slave trade as harmful. Which source fits, and what is its limit?",
      "o": [
-      "A Portuguese tax roll",
-      "Afonso I's 1526 letter, protesting that the trade was depopulating his kingdom",
-      "A Dutch treaty",
-      "A baptism register"
+      "A Portuguese tax roll; none",
+      "Afonso I's 1526 letter; it does not show Kongo stayed out of the trade, which grew under him",
+      "A Dutch treaty; it is forged",
+      "A baptism register; it is late"
      ],
      "a": 1,
-     "w": "He asked Portugal to stop supplying goods to illegal traders. {{lib}}",
+     "w": "He tried to control and then abolish the trade, and failed. {{gha5-kongo}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "What is the right limit to put on Afonso's letter as evidence?",
+     "q": "A website gives exact dates for Kongo kings in the 1300s. What should you say about them?",
      "o": [
-      "It proves Kongo never took part in the trade",
-      "It does not prove Kongo had no part in the trade",
-      "It is a forgery",
-      "It is oral tradition"
+      "They are documented",
+      "They are hypothesis: the earliest manuscript is 1492 and traditions were recorded only from 1624",
+      "They come from Kongo archives",
+      "They are Portuguese records"
      ],
      "a": 1,
-     "w": "Afonso himself took part in earlier exchanges. {{lib}}"
+     "w": "Earlier periods rest on later sources. {{gha4-kongo}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Kongo corresponded with Portugal as an equal. {{lib}}",
-      "Mbwila (29/10/1665) was a defeat for Kongo.",
-      "Kimpa Vita's movement ended with her execution in 1706."
+      "Kongo had elected kings, provincial governors and shell money before 1483. {{gha4-kongo}}",
+      "Afonso's letters are early African diplomacy against the trade, which still grew. {{gha5-kongo}}",
+      "Mbwila (29/10/1665) broke the old kingdom; Kimpa Vita sought to remake it."
      ]
     }
-   ]
+   ],
+   "id": "l5"
   },
   {
-   "id": "l5",
+   "title": "Luba, Lunda and the Congo basin",
+   "min": 24,
+   "blocks": [
+    {
+     "t": "h",
+     "x": "Luba and Lunda"
+    },
+    {
+     "t": "p",
+     "x": "Luba and Lunda name two political and cultural systems, not two peoples. The Upemba Depression finds at Sanga and Katoto are attributed to Luba ancestors, with emblems of rule by the thirteenth century, but oral chronology cannot be pushed back reliably beyond about 1700. {{gha5-luba}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "p",
+     "x": "Copper crosses served as currency from about 1300 and were standardised by 1500. {{gha5-luba}}"
+    },
+    {
+     "t": "p",
+     "x": "The Lunda hunter Cibinda Ilunga story is a cliche found elsewhere, and the Luba kingdom stayed small until the eighteenth century, relying on the Bambudye association since it had no standing army. {{gha5-luba}} [TRADITIONAL DATE]"
+    },
+    {
+     "t": "p",
+     "x": "The Lunda empire spread before 1700 through positional succession and perpetual kinship, which let a conquered chief be made a kinsman. Expansion was tied to the Angolan slave trade, with caravans from the 1670s at the latest. {{gha5-luba}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Lueji, called Mother of the Lunda People, is remembered as daughter, sister, wife and mother of a king. That is a tradition showing women's political weight, not a dated record. {{gha1-hama}} [TRADITIONAL DATE]"
+    },
+    {
+     "t": "h",
+     "x": "The river and the Atlantic"
+    },
+    {
+     "t": "p",
+     "x": "Pottery dated 1450 to 1650 at Kingabwa and clay pipes at Mafamba point to old trade along the Congo river, with camwood and copper the main long-distance goods before the Atlantic trade. {{gha5-mbokolo}} [PROBABLE]"
+    },
+    {
+     "t": "table",
+     "title": "Three stages of Atlantic trade in the Congo region",
+     "head": [
+      "Stage",
+      "Dates",
+      "Main supplier"
+     ],
+     "rows": [
+      [
+       "One",
+       "To about 1560",
+       "The Kongo kingdom {{gha5-mbokolo}}"
+      ],
+      [
+       "Two",
+       "1560 to 1750",
+       "A Malebo Pool and Loango axis {{gha5-mbokolo}}"
+      ],
+      [
+       "Three",
+       "1750 to about 1850",
+       "The whole Congo basin; ivory overtook slaves only after 1830 {{gha5-mbokolo}}"
+      ]
+     ],
+     "src": "{{gha5-mbokolo}}"
+    },
+    {
+     "t": "p",
+     "x": "Local trade in food, salt, pots and cloth was an 'economy of production' that benefited ordinary people; the export trade was an 'economy of destruction' that enriched a minority. {{gha5-mbokolo}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "On the Loango and Gabon coast, the Atlantic trade did not create trade but gave an existing system new intensity, and it splintered authority into a new class of traders and brokers. {{gha5-mbokolo}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "New crops"
+    },
+    {
+     "t": "p",
+     "x": "American crops such as maize, cassava and groundnuts took about two and a half centuries from 1600 to replace older ones. Whether this 'agricultural revolution' raised population is doubted, given the limited nutrition in cassava. {{gha5-mbokolo}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "On the Mbanza Kongo plateau in 1591, maize was 'the least valued' crop and fed to pigs, and manioc reached Kongo from the coast only after the sixteenth century. {{gha1-obenga}} [PROBABLE]"
+    },
+    {
+     "t": "check",
+     "q": "A textbook says the Atlantic trade created commerce in the Congo basin. What is the correction?",
+     "o": [
+      "It is right",
+      "River trade in camwood and copper already existed; the Atlantic trade intensified and redirected it",
+      "There was no trade before 1850",
+      "Trade came from the Swahili"
+     ],
+     "a": 1,
+     "w": "Kingabwa pottery and Mafamba pipes show older trade. {{gha5-mbokolo}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "A tradition says a foreign hunter came and founded the Lunda kingdom. How should you treat it?",
+     "o": [
+      "As a dated event",
+      "As a common founding cliche, a tradition rather than a record",
+      "As a Portuguese report",
+      "As proof of migration"
+     ],
+     "a": 1,
+     "w": "The hunter-king story is found elsewhere too. {{gha5-luba}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Luba and Lunda were political systems; their traditions reach reliably only to about 1700. {{gha5-luba}}",
+      "The Atlantic trade redirected old river trade in three stages. {{gha5-mbokolo}}",
+      "Whether American crops raised population is [CONTESTED]."
+     ]
+    }
+   ],
+   "id": "l6"
+  },
+  {
+   "title": "Madagascar",
+   "min": 20,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "The main peoples of Madagascar were present by the end of the twelfth century. The Indonesian, African and Arab contributions are still argued, and the Vazimba were probably no single people but earlier highland inhabitants. {{gha4-madag}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Malagasy (Merina) is Austronesian, closest to Maanyan of Borneo. {{gha1-greenberg}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "In the north-west, Swahili-style trading towns such as Mahilaka exported rice and soapstone and imported Indian pearls, cloth and Chinese ceramics. The first Malagasy kingdoms appear from the fifteenth century, south-east first. {{gha4-madag}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Most Malagasy peoples coalesced between 1500 and 1800. In the early 1600s the island was a patchwork of small chiefdoms, followed by a Sakalava empire in the west, Betsileo and Merina kingdoms in the highlands and the Betsimisaraka confederation in the east. {{gha5-madag2}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Merina state-making began under Ralambo (about 1610 to 1640), by tradition, and Andrianampoinimerina reunited the kingdom from about 1777, taking Antananarivo in 1797. Imerina's irrigated rice gave it an early economic base. {{gha5-madag2}} [TRADITIONAL DATE]"
+    },
+    {
+     "t": "p",
+     "x": "Madagascar fed the Indian Ocean and Atlantic slave trades: by one count around 1700, about half of the enslaved people in Barbados and Jamaica were from Madagascar, and the Mascarenes at first drew mostly on the island. {{gha5-madag2}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "check",
+     "q": "What is the safest sentence about Madagascar's origins?",
+     "o": [
+      "It was settled only by Arabs",
+      "It was settled by Indonesian, African and Arab-Swahili contributions in proportions still argued",
+      "It was empty until 1500",
+      "It was settled only from India"
+     ],
+     "a": 1,
+     "w": "The comparative contributions are still discussed. {{gha4-madag}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "A student says Malagasy is a Bantu language because Madagascar lies off Africa. What is the correction?",
+     "o": [
+      "It is right",
+      "Malagasy is Austronesian, closest to Maanyan of Borneo",
+      "It is Arabic",
+      "It is unknown"
+     ],
+     "a": 1,
+     "w": "Language follows descent, not geography. {{gha1-greenberg}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Madagascar's peoples mix Austronesian and African origins. {{gha4-madag}}",
+      "Kingdoms formed from the fifteenth century; the Merina unified the highlands by 1797. {{gha5-madag2}}"
+     ]
+    }
+   ],
+   "id": "l7"
+  },
+  {
    "title": "Practice: dating Kilwa and testing three origin stories",
    "min": 22,
    "blocks": [
     {
      "t": "p",
-     "x": "Module 6 offers three origin stories: Shirazi settlers for Kilwa, the Chwezi for the Great Lakes, and Lukeni lua Nimi for Kongo. This lesson tests all three. {{lib}}"
+     "x": "This module offers three origin stories: Shirazi settlers for Kilwa, the Chwezi for the Great Lakes, and Lukeni lua Nimi for Kongo. This lesson tests all three."
     },
     {
      "t": "table",
@@ -503,45 +924,55 @@
       [
        "Kilwa",
        "Persian Shirazi settlers",
-       "Archaeology shows African builders; Swahili is Bantu"
+       "Archaeology shows African builders; Swahili is Bantu {{gha3-masao}}"
       ],
       [
        "Great Lakes",
        "The legendary Chwezi and Bunyoro-Kitara",
-       "Earthworks at Ntusi and Bigo show earlier centralised polities, but the extent of an empire is contested"
+       "Earthworks at Ntusi and Bigo show earlier polities; the Chwezi themselves are contested {{gha4-lakes}}"
       ],
       [
        "Kongo",
        "Lukeni lua Nimi around the late 14th century",
-       "Tradition, not firm dates [TRADITIONAL DATE]"
+       "Tradition, first written in 1624 [TRADITIONAL DATE] {{gha4-kongo}}"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha3-masao}} {{gha4-lakes}} {{gha4-kongo}}"
     },
     {
      "t": "p",
-     "x": "In each case the story is a legitimate source on how people remembered their past. In none of them is it a full account of events. {{lib}}"
+     "x": "In each case the story is a legitimate source on how people remembered their past. In none of them is it a full account of events."
+    },
+    {
+     "t": "example",
+     "title": "Worked example: one story through three checks",
+     "steps": [
+      "Story: 'Kintu, the first king, came to Buganda from the east.'",
+      "Language check: Kintu stands for a group of clans, not a single man.",
+      "Archaeology check: none names Kintu; Buganda emerged by the 16th to 17th centuries.",
+      "Rewrite: Buganda's traditions name Kintu as founder, a figure who stands for incoming clans; the kingdom emerged by the 16th to 17th centuries [TRADITIONAL DATE]. {{gha4-lakes}} {{buganda-history}}"
+     ]
     },
     {
      "t": "p",
-     "x": "A dating exercise: Ibn Battuta's text puts Kilwa in about 1330 or 1331, and modern summaries differ between the two. Both are consistent with the Kilwa peak in the 13th and 14th centuries. Say about 1330 to 1331 when the exact year matters. {{wiki-battuta}} {{lib}}"
+     "x": "A dating exercise: Ibn Battuta's text puts Kilwa in about 1330 or 1331, and modern summaries differ between the two. Both fit Kilwa's peak in the 13th and 14th centuries, so say about 1330 to 1331. {{wiki-battuta}}"
     },
     {
      "t": "check",
      "q": "A writer says there were no large polities in western Uganda before the nineteenth century. Which evidence tests that?",
      "o": [
       "A Persian colony",
-      "The Ntusi and Bigo earthworks, earlier centralised polities of roughly the 11th to 16th centuries",
+      "The Ntusi and Bigo earthworks, polities of roughly the 11th to 16th centuries",
       "A Kongo capital",
       "An Omani fort"
      ],
      "a": 1,
-     "w": "The extent of the Chwezi empire is contested. {{lib}}",
+     "w": "The earthworks are real even if the Chwezi are contested. {{rd-lakes}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "How should you date Ibn Battuta's Kilwa visit?",
+     "q": "How should you date Ibn Battuta's Kilwa visit in an essay?",
      "o": [
       "Exactly 1331",
       "About 1330 to 1331",
@@ -549,7 +980,8 @@
       "1698"
      ],
      "a": 1,
-     "w": "His own chronology is uncertain. {{wiki-battuta}}"
+     "w": "His own chronology is uncertain. {{wiki-battuta}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -558,591 +990,11 @@
       "Pair each story with an independent check."
      ]
     }
-   ]
+   ],
+   "id": "l8"
   },
   {
-   "id": "l6",
-   "title": "What the books add to the coast, the lakes and Kongo",
-   "min": 26,
-   "blocks": [
-    {
-     "t": "p",
-     "x": "For this module Reader gives the richest new material, with Rodney agreeing on the Great Lakes and Kongo. The tables below show what each adds and where to be careful."
-    },
-    {
-     "t": "h",
-     "x": "The Swahili coast before and after the Portuguese"
-    },
-    {
-     "t": "p",
-     "x": "Gibb's translation also covers the coast. Ibn Battuta left Mecca after the pilgrimage that ended in 1330 and called at Zayla, Mogadishu (a sultan of Berberah origin who spoke the local language), Mombasa and Kilwa. He found Kilwa a very fine town of mostly Zanj inhabitants, ruled by the generous Abu'l-Muzaffar Hasan and then by his miserly brother Dawud, and was told that gold dust reached Sofala from the interior. {{ibn-battuta-gibb-018}} This fits the lesson's range of about 1330 to 1331 for his visit."
-    },
-    {
-     "t": "p",
-     "x": "Reader says the first-century Periplus devotes about 450 of its 7,000 words to the coast beyond the Horn, names Rhapta (not yet located), and shows Roman trade with India and Arabia far larger than with East Africa; no Roman coin has been found there. That coast trade was small and Arabian-led. {{rd-per}} Vasco da Gama in 1498 found Mocambique, Mombasa and Malindi to be Muslim towns whose merchants wore silk-bordered cottons, and he took the Arab pilot Ahmad ibn Majid on board for the crossing to India. {{rd-eth}} Portuguese cannon took Zanzibar in 1503 and Mombasa and Kilwa in 1505, helped by rivalry among the towns. {{rd-cont}} Reader also mentions Chinese fleets and a giraffe sent to China in 1415, which sits with the lesson's [PROBABLE] note on Zheng He. {{rd-lag}}"
-    },
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "Da Gama's journal is a hostile-contact source: the Portuguese were poor in goods, offended hosts with their gifts, and then used force. It is evidence of the towns' wealth, written by people with a motive to find them weak. {{rd-eth}}"
-    },
-    {
-     "t": "h",
-     "x": "The Great Lakes: dates, ditches and a myth"
-    },
-    {
-     "t": "p",
-     "x": "Reader dates Ntusi to the 11th to 14th or 15th century, with hundreds to thousands of people, cattle bones and smelting, and Bigo's ditches, more than ten kilometres long and cut up to five metres into bedrock around about 300 hectares, to the 13th to 16th centuries, as a cattle refuge. {{rd-lakes}} Rodney also describes Bigo's earthworks and treats the Bachwezi as a product of African synthesis. {{rod-pre-007}} Both reject the Hamitic myth, which held that lighter-skinned Ethiopian conquerors built these states. Reader quotes Speke's theory of conquest of inferior by superior races and says no Cushitic substratum is found, one Bantu language runs through the region, and Tutsi and Hutu speak the same Bantu language. {{rd-lakes}} Rodney adds that even Ethiopian origins would make the Bachwezi black or brown Africans. {{rod-trade}}"
-    },
-    {
-     "t": "p",
-     "x": "Woodson's Kintu and Nambi tale gives Buganda its own explanation of death and the first man. It is a myth, not evidence for dating Buganda's kings. {{wood-tales}}"
-    },
-    {
-     "t": "h",
-     "x": "Kongo: a king, a letter and a reply"
-    },
-    {
-     "t": "table",
-     "title": "What Reader and Rodney add on Kongo",
-     "head": [
-      "Point",
-      "Reader",
-      "Rodney"
-     ],
-     "rows": [
-      [
-       "The ruler",
-       "Nzinga Mbemba was baptised Afonso in 1491 and ruled from 1506 to 1543; he welcomed missionaries and sent young nobles to Portugal. {{rd-kongo}}",
-       "Afonso asked for masons, priests, clerks and doctors and was swamped by slave ships. {{rod-trade-008}}"
-      ],
-      [
-       "Language and religion",
-       "A Kikongo catechism of 1555 was the first printed transcription of a Bantu language; Christianity took on a Kongo character. {{rd-kongo}}",
-       "Not covered."
-      ],
-      [
-       "The letter",
-       "Afonso complained that his own people, even nobles, were being seized and sold, and asked that no trade in slaves exist; Portugal replied that Kongo had nothing else to sell. {{rd-kongo}}",
-       "Rodney's phrasing that trade 'forced him to specialise' is an interpretation; Afonso also took part in the trade."
-      ],
-      [
-       "Decline",
-       "About 5,000 soldiers including 500 mercenary musketeers; provincial revolt and a shift of Portuguese buying to Angola after the early eighteenth century. {{rd-after}}",
-       "Not covered."
-      ]
-     ],
-     "src": "{{rd-kongo}}"
-    },
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "Reader writes of a Kongo capital that fell from five thousand people to one hundred between 1774 and the 1790s during drought and slave exports. That is one chapter's reading of Portuguese records. {{rd-clim}}"
-    },
-    {
-     "t": "h",
-     "x": "Diop's Nile origin of peoples"
-    },
-    {
-     "t": "p",
-     "x": "Diop traces the Yoruba, Serer and Peul to the Nile by matching names. {{dio-egypt}} For the Bantu-speaking lakes and Kongo the linguistic and archaeological case points to origins in the Cameroon and Nigeria borderland, which Reader confirms. {{rd-bantu}} Where they differ, trust the Bantu evidence and treat Diop's model as a hypothesis. [CONTESTED]"
-    },
-    {
-     "t": "check",
-     "q": "Speke said Tutsi and Hutu were separate conquering and conquered races. Which point from Reader cuts against that?",
-     "o": [
-      "They are Cushitic",
-      "Both speak the same Bantu language",
-      "They speak Arabic",
-      "They have no shared customs"
-     ],
-     "a": 1,
-     "w": "This undercuts Speke's theory of conquering races. {{rd-lakes}}",
-     "kind": "application"
-    },
-    {
-     "t": "check",
-     "q": "What was Portugal's reply to Afonso's 1526 complaint about slaving?",
-     "o": [
-      "It ended the trade",
-      "Kongo had nothing else to sell",
-      "It sent a fleet",
-      "It offered gold"
-     ],
-     "a": 1,
-     "w": "Reader summarises the reply. {{rd-kongo}}"
-    },
-    {
-     "t": "check",
-     "q": "Why must da Gama's account of Swahili towns be read with care?",
-     "o": [
-      "It was written by a Swahili merchant",
-      "It was written by hostile newcomers who were poor in trade goods",
-      "It is lost",
-      "It is a legend"
-     ],
-     "a": 1,
-     "w": "The Roteiro records insults and force as well as wealth. {{rd-eth}}"
-    },
-    {
-     "t": "take",
-     "i": [
-      "The Swahili towns were wealthy and divided when the Portuguese came. {{rd-eth}}",
-      "The Hamitic myth fails on language evidence. {{rd-lakes}}",
-      "Afonso asked for the slave trade to end, and was refused. {{rd-kongo}}"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "l7",
-   "title": "What the UNESCO General History adds to the coast, Kongo and Madagascar",
-   "min": 40,
-   "blocks": [
-    {
-     "t": "p",
-     "x": "UNESCO's volume IV (1984) has chapters on the Swahili coast, on Equatorial Africa and Angola including Kongo, and on Madagascar. They add detail, give both sides of the origins argument, and admit where evidence is thin. The Great Lakes chapter of the same volume has not been read for this course."
-    },
-    {
-     "t": "h",
-     "x": "The Swahili coast: Matveiev's account"
-    },
-    {
-     "t": "p",
-     "x": "V. V. Matveiev says the Swahili community was built on Bantu-speaking people with Arab, Persian and Indian additions, with an elite, commoners and probably slaves by the twelfth century. Manda in the Lamu archipelago led trade in the ninth to twelfth centuries and Kilwa after that, with gold the chief export. {{gha4-swahili}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He says Islam was embraced voluntarily and not imposed, reached the islands first and the coast itself in the thirteenth century, and that African and Muslim titles (mfalme and sultan) stood side by side. Ibn Battuta in 1331 found Mogadishu deeply Islamised. {{gha4-swahili}}"
-    },
-    {
-     "t": "p",
-     "x": "Chinese ships did not sail beyond Sumatra and Java until Zheng He's voyages of 1417 to 19 and 1421 to 22 {{gha4-swahili}} (Devisse and Labib in Chapter 26 give the African calls as 1417 to 1419 and 1431 to 1433, and the volume does not reconcile them {{gha4-inter}}), so the earlier Chinese porcelain at Kilwa came through Indian Ocean traders. Kilwa minted copper and silver coins, and Mogadishu a coin dated 1322. {{gha4-swahili}} [PROBABLE]"
-    },
-    {
-     "t": "table",
-     "title": "Two readings of who built the Swahili towns, as set out in the chapter",
-     "head": [
-      "Reading",
-      "Who held it",
-      "What it says",
-      "How to treat it"
-     ],
-     "rows": [
-      [
-       "Foreign founders",
-       "Strandes (1899), then Gray, Mathew, Oliver, Freeman-Grenville and Kirkman, as Matveiev lists them",
-       "Persians and Arabs built the towns and brought civilisation; Africans played a passive part. {{gha4-swahili}}",
-       "Matveiev calls it an erroneous concept resting on a Hegelian idea of history [CONTESTED]."
-      ],
-      [
-       "African dynasties",
-       "Chittick, Misiugin, Ki-Zerbo, Diop",
-       "The ruling dynasties were local; at Pate the title mfalme passed between the men of a generation of the Wapate clan. {{gha4-swahili}}",
-       "The Shirazi legends are prestige claims, like Solomon in Ethiopia [PROBABLE]."
-      ]
-     ],
-     "src": "{{gha4-swahili}}"
-    },
-    {
-     "t": "p",
-     "x": "Matveiev also argues that Swahili wealth rested on trade without growth in production, and that the Portuguese navy broke it. Sutton and Garlake called the stone architecture non-creative; he disputes that. Both points are his positions. {{gha4-swahili}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "Devisse and Labib add that the Karimi merchants ran spices, gold and copper between Asia, Aden and Egypt, that the Sofala gold marketed at Kilwa was a major East African export (Summers puts output at about 10 tonnes a year, falling from the fifteenth century), and that 67 per cent of Kilwa's customs in the thirteenth century came from imported cotton. They say over fifty towns stood on the Swahili coast and that the Shirazi myth in its fixed form is late. {{gha4-inter}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Kongo and its neighbours: Vansina's chapter"
-    },
-    {
-     "t": "p",
-     "x": "Jan Vansina says the evidence for 1100 to 1500 is thin: the first manuscript on Kongo is of 1492, oral traditions were first written down in 1624, and everything earlier is hypothesis. Kongo and Loango formed by slow amalgamation between the thirteenth and fourteenth centuries, he thinks, and the first states north of Malebo may reach back to about 1000. {{gha4-kongo}} [TRADITIONAL DATE]"
-    },
-    {
-     "t": "p",
-     "x": "About 1483 the core kingdom had six provinces, under governors named by the king, except that Mbata's was elected and Soyo's was hereditary. Tribute came in nzimbu shells, raffia cloth, ivory and skins. The Portuguese-era figure for Mbamba's warriors is, in his words, surely an exaggeration. {{gha4-kongo}}"
-    },
-    {
-     "t": "p",
-     "x": "The kings were chosen by a college of nine or twelve electors, the king was called nzambi mpungu, and the capital Mbanza Kongo was a stone-walled trading city not yet thoroughly excavated. The slave trade, if it existed, was limited before 1483. {{gha4-kongo}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Kongo after 1500: Vansina in UNESCO volume V (1992)"
-    },
-    {
-     "t": "p",
-     "x": "Vansina says over half a million contemporary pages survive for the region from 1500 to 1800, more than for any other area of that size in Africa. He gives the founding of Kongo as unknown: some place the process from the ninth century, others no later than about 1400. The kingdom proper had about two million people on the figure most accept, though estimates run from half a million to eight million. {{gha5-kongo}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "p",
-     "x": "Afonso I reigned from 1506 to 1543 and made Catholicism the state religion. The slave trade grew from 1514; he tried to control it and in 1526 to abolish it, and failed. Exports were about 4,000 to 5,000 a year until about 1540 and 6,000 to 7,000 afterwards. {{gha5-kongo}}"
-    },
-    {
-     "t": "p",
-     "x": "Angola was founded in 1575 and Luanda in 1576. The old kingdom ended after the defeat at Mbwila in 1665, when civil war destroyed Mbanza Kongo in 1666; it was abandoned in 1678 and a king returned only in 1709. Kimpa Vita preached from 1704 and was burnt as a heretic in 1706. The identity of the Jaga invaders of the 1560s is not established, and he finds no evidence for a drought explanation. {{gha5-kongo}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "In the eighteenth century networks, not states, organised the region. About one million slaves were put aboard on the Loango coast between 1660 and 1797, which he thinks means about two million people taken, perhaps nearer three. Population effects are largely unknown. He also says Kongo kept its Catholicism after 1700, and that general claims of Christian influence on Kongo statuary are baseless. {{gha5-kongo}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "He also reports that some societies chose not to form states, that the equatorial forest was a filter and not a barrier, and that the Luba and Lunda origin traditions are disputed: some think they reflect the nineteenth century, while others, like de Heusch, take them as myths made when the empires began. {{gha4-kongo}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "h",
-     "x": "The Great Lakes: Ogot's chapter"
-    },
-    {
-     "t": "p",
-     "x": "Bethwell Ogot says the years 1200 to 1500 in the lakes region have scant oral, linguistic or archaeological evidence, no agreed chronology, and histories that are court-centred. The Chwezi stories are legendary: Wrigley says they hold no valid early history, while Ogot, Oliver and Posnansky accept the Bachwezi as real, tying them to Bigo, dated 1350 to 1500. {{gha4-lakes}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "He argues that small Bantu agricultural and iron-working states, such as the Batembuzi chiefdoms of about 900 to 1300, came before pastoralist rulers, that pastoralist and cultivator are jobs people moved between and not ethnic labels, and that the Bachwezi were a local Bantu aristocracy. The idea of a Luo army marching into Kitara, he says, must be discarded, and the Bachwezi's disappearance was successors' propaganda. {{gha4-lakes}}"
-    },
-    {
-     "t": "p",
-     "x": "He rejects the Kagame and White Fathers story of Hamitic Tutsi conquerors bringing kingship and iron to Rwanda as court-centred and based on the outmoded Hamitic theory. Seven clan states existed before the Nyiginya, and vassalage between herders and farmers developed after 1500. Kintu and Kimera stand for groups of clans, not single men, and Buganda's origin is reconstructed from clan traditions with generational dates. {{gha4-lakes}} [TRADITIONAL DATE]"
-    },
-    {
-     "t": "h",
-     "x": "The East African interior: Ehret's chapter"
-    },
-    {
-     "t": "p",
-     "x": "Christopher Ehret reconstructs the interior between the coast and the lakes mainly from historical linguistics, so every date is approximate. He says that in 1100 Bantu speakers were still few and lived in the wetter lands, while Nilotic and Southern Cushitic peoples held the drier plains. Bantu communities then spread between 1100 and 1600 by absorbing earlier peoples and by changing what they farmed. {{gha4-ehret}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "p",
-     "x": "In the dry interior Bantu settlers shifted from root crops to millet and sorghum, as the Takama peoples and the Nyamwezi and Sukuma did. In the mountains of Kilimanjaro, Mount Kenya and Pare they joined the Bantu planting tradition and the Indonesian banana to Southern Cushitic irrigation and manure. Ehret says this banana highland farming let the Chagga spread over five centuries and the Shambaa settle the Usambara range by 1500. {{gha4-ehret}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "On the Great Lakes side, he reads the Kintu period of Buganda and Busoga tradition as a settlement of north-east Victoria Bantu, perhaps in the fourteenth century, which brought intensive banana farming. He says Luo immigrants reached the Kavirondo Gulf only in the sixteenth century, and that the Maasai began to move south along the Rift from the sixteenth century. {{gha4-ehret}} [TRADITIONAL DATE]"
-    },
-    {
-     "t": "p",
-     "x": "Ehret says immigrants never moved into empty land, so the period was one of conflict and borrowing, such as the age-sets Bantu groups took from Southern Nilotes. Formal markets appeared only around Mount Kenya and Kilimanjaro, where highland farmers and plains herders swapped hides, vessels and grain for livestock; elsewhere they came well after 1600. {{gha4-ehret}}"
-    },
-    {
-     "t": "h",
-     "x": "Luba and Lunda: Ndaywel e Nziem in volume V"
-    },
-    {
-     "t": "p",
-     "x": "Ndaywel e Nziem says Luba and Lunda name two political and cultural systems, not two peoples. The Upemba Depression finds at Sanga and Katoto are attributed to Luba ancestors, with emblems of rule by the thirteenth century, but oral chronology cannot be pushed back reliably beyond about 1700 and the Lunda core state is only mentioned by 1680. Copper crosses served as currency from about 1300 and were standardised by 1500. {{gha5-luba}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "p",
-     "x": "He treats the Kongolo and Kalala Ilunga epic and the Lunda hunter Cibinda Ilunga story as traditions, noting that the hunter tale is a cliche found elsewhere and that the Kinguri emigration to Angola is a later elaboration from about 1700. The Luba kingdom stayed small until the eighteenth century and relied on the Bambudye association, since it had no standing army. Its real expansion followed 1800. He says the inner reason for the expansion is not understood. {{gha5-luba}} [TRADITIONAL DATE]"
-    },
-    {
-     "t": "p",
-     "x": "The Lunda empire spread before 1700 through positional succession and perpetual kinship, which let a conquered chief be made a kinsman, and reached the Kwango, the Luapula and eastern Angola. Kazembe on the Luapula was a tightly knit kingdom by the later eighteenth century and was visited by de Lacerda in 1798 to 1799. Expansion was tied to the Angolan slave trade, with caravans from the 1670s at the latest, and caused large-scale slave raiding and devastation. {{gha5-luba}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "The Swahili coast, 1500 to 1800: Salim in volume V"
-    },
-    {
-     "t": "p",
-     "x": "A. I. Salim says the coast was at its golden age in 1500, with over 100 settlements founded between 1200 and 1500. Kilwa, he says, was already past its peak, and there is no documentary or archaeological evidence for an overland route between Kilwa and the Zimbabwe gold country, since its trade was by sea. He says Swahili was not a name the coastal people used for themselves until recently, and elites claimed Arab or Shirazi descent although most were of mixed or black descent. {{gha5-coast}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He dates da Gama's visit to 1498, Kilwa's submission to tribute in 1502, Almeida's attack on Mombasa on 13 August 1505 and the building of Fort Jesus in 1593 to 1594. He says the Zimba, originally Lundu's warriors, reached Kilwa about 1588 and Mombasa in 1589 and that the Segeju saved Malindi. Yusuf bin Hasan seized Fort Jesus on 15 August 1631, and the Omani siege that ended with its fall in December 1698 lasted two and a half years. {{gha5-coast}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He says the final Portuguese expulsion came in 1729 by the Swahili towns and not by Oman, that Pate prospered most in the seventeenth and eighteenth centuries, and that the Mascarene plantations after 1735 drove a French slave trade at Kilwa, including a 1776 treaty for 1,000 slaves a year. He argues that blaming Portuguese action for the decline of other towns is wrong, since Oromo and Zimba pressure and environmental change are likelier causes. {{gha5-coast}} [CONTESTED]"
-    },
-    {
-     "t": "h",
-     "x": "The Great Lakes, 1500 to 1800: Webster, Ogot and Chretien in volume V"
-    },
-    {
-     "t": "p",
-     "x": "The volume V chapter on the Great Lakes divides 1500 to 1800 into three periods: successor states to the Bachwezi until about 1580, a time of drought and famine from 1580 to 1680, and state formation and expansion from about 1680 to 1800. It dates the worst droughts to 1588 to 1590, 1601 to 1602, 1613 and 1617 to 1621, says the Nile was at its lowest in 1621, and gives the Luo name Nyarubanga for the whole disaster. {{gha5-lakes}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "It says the drought scattered the Luo and drove a Banyoro invasion south, destroyed rain-maker leadership and many traditions, and left the later claim that the land was empty partly true. The traditions of half the people dying come from analogy with Egypt, so treat them as an estimate. {{gha5-lakes}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "p",
-     "x": "It describes Luo-speaking migrants from Pakwac-Pawir reaching the Nyanza shore and founding the Padhola and the ruling clans of Busoga, where nine major states by 1750 became nearly thirty by the late nineteenth century. Busoga states that passed office from father to son and used commoner administrators stayed stable, while those with fraternal succession and princely officials split in civil wars. Central Eastern Nilotes such as the Karimojong, Jie and Teso took shape between 1680 and 1830, and the Iteso became Eastern Nilotic-speaking while the Lango became Luo-speaking. {{gha5-lakes}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "p",
-     "x": "It says Bunyoro entered a long decline after Cwa's death, when the succession was opened to all the king's sons and Isansa (about 1733 to 1760) attacked the Wamara shrine of the Cwezi cult. It credits Buganda's rise to a secure climate and farming, water trade, bark cloth, iron ore and the lack of a royal clan, and to kabakas Mawanda (about 1674 to 1704), Junju and Kamanya, adding that the eighteenth century may have been more violent than earlier ones. {{gha5-lakes}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "For the southern kingdoms it rejects the Hamitic story, which entered through Speke, German officers and the White Fathers. It says clans were mixed (over half of Tutsi clans and 10 per cent of Hutu clans contained both groups) and that the Hima and Tutsi against Iru and Hutu pattern grew from local trade into a hierarchy only between the seventeenth and nineteenth centuries. Colonial rule then fixed it as a racial caste. It anchors dates on solar eclipses probably of 1520 and 1792. {{gha5-lakes}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "It says Rwanda was a small state until Ruganzu Ndori's new dynasty in the early seventeenth century, then grew under Cyirima Rujugira and Kigeri Ndabarasa with standing armies, ubuhake clientship and land grants, while Burundi's Baganwa dynasty dates from about the end of the seventeenth century. In the east, kingdoms such as Kyamutwara and Buzinza tended to fragment. {{gha5-lakes}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Madagascar and the Indian Ocean islands, 1500 to 1800: Kent in volume V"
-    },
-    {
-     "t": "p",
-     "x": "R. K. Kent says most Malagasy peoples coalesced between 1500 and 1800, and that overseas settlement that merged into new populations had ended by the mid-sixteenth century. In the early 1600s the island was a patchwork of small chiefdoms, followed by a Sakalava empire in the west, Betsileo and Merina kingdoms in the highlands and the Betsimisaraka confederation in the east. {{gha5-madag2}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He dates the Antemoro settlement at Matitana to between 1509 and 1513 from Portuguese visits, and favours an East African origin over the older idea of an Arabian one. He says the Maroserana dynasty formed in the south-west about 1550, not in the east or from India as Grandidier supposed, and that traditions of gold arriving by sea point to a possible link with the Mwene Mutapa that he calls controversial. {{gha5-madag2}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "He says the north-west Swahili trading posts exported rice and slaves, the Portuguese made an annual trip from Mozambique, and the Comoros were a transit point for Malagasy slaves, with a price rise from 9 or 10 piasters to 100 in 1614. English ships took slaves to Barbados and Jamaica, where, by one count around 1700, about half of the enslaved people were from Madagascar. The Mascarenes had large slave populations by 1800 and at first drew mostly on Madagascar. {{gha5-madag2}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "p",
-     "x": "He gives Merina state-making a tradition-based start under Ralambo (about 1610 to 1640), with Andrianjaka founding Antananarivo, Andriamasinavalona splitting the kingdom in four, and Andrianampoinimerina reuniting it from about 1777, taking Antananarivo in 1797 and ending tribute to the Sakalava. He says Imerina's irrigated rice gave it an early economic base. Eastern Madagascar's Betsimisaraka confederation was formed about 1712 under Ratsimilahoe, whose successors became leading slavers. {{gha5-madag2}} [TRADITIONAL DATE]"
-    },
-    {
-     "t": "h",
-     "x": "The Kenya and Tanzania interior, 1500 to 1800: Ochieng' in volume V"
-    },
-    {
-     "t": "p",
-     "x": "W. R. Ochieng' says that before 1500 historians rely on archaeology and linguistics and after it mainly on oral tradition, and that the interior peoples (Maasai, Chagga, Pare, Shambaa, Gogo, Hehe, Kikuyu, Kamba, Luo, Sukuma, Nyamwezi and others) were still isolated from the ocean. He cites Oliver that no significant imported objects have been found at any interior site north of the Zambezi dated before 1600, and he finds no record of Arab or Swahili penetration of the interior before 1700. He also warns that several peoples, such as the Gorowa, Zigua, Gogo, Turkana and most Kalenjin groups, have had almost no historical research. {{gha5-ochieng}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "Famine, he says (following Iliffe), was the main challenge: Shambaa traditions record one about every fifteen years, and famine explains migration in many Kenyan and Tanzanian traditions. Farmers answered by planting many crops as insurance, and herders by lending cattle through bridewealth and loans so that a family's herd was spread among friends and kin. Maize, groundnuts, sweet potatoes and cassava were introduced after 1500, but he says little is known of how they spread. {{gha5-ochieng}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "Internal trade moved iron (from the Ha and Zinza), salt (the Uvinza springs, worked since about AD 1000, and the Ugogo and Eyasi pans), pots, honey and food between regions. The Miji-Kenda were coast-to-interior middlemen by about 1750, and the Kamba replaced them by the mid-1700s. He concludes that the interior only joined long-distance trade about 1800. {{gha5-ochieng}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He describes two political types. Decentralised peoples (Kikuyu, Kamba, Maasai, Kalenjin) ran on clan and neighbourhood councils; centralising ones (Shambaa, Pare, Sukuma, Nyamwezi) had ntemi chiefs with regalia and a royal fire. He sides with Kimambo against the older view of Oliver and Fage that these chiefships came from one Nile-valley origin, saying they grew from local conditions. Nyamwezi chiefdoms tended to split rather than merge until trade in the nineteenth century centralised them, and the Fipa Milansi line was displaced in the later eighteenth century by Twa rulers whose bonds were personal rather than kin-based. The Nandi orkoiyot became more powerful only in the nineteenth century. {{gha5-ochieng}} [CONTESTED]"
-    },
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "Ochieng's closing section says Africa 'had fallen far behind' Europe and that the technical gap by 1800 helps explain imperialism. This is the author's framing in a short conclusion, and the chapter's own evidence is about farming, trade and chiefship, not a comparison of technologies. Present it as his view."
-    },
-    {
-     "t": "h",
-     "x": "From the Cameroon grasslands to the Congo: M'Bokolo in volume V"
-    },
-    {
-     "t": "p",
-     "x": "Elikia M'Bokolo opens by saying information for this region between 1500 and 1800 is less plentiful and reliable than elsewhere: oral traditions rarely go back more than five or six generations, states mostly formed late, and archaeology and linguistics have barely started. In the Cameroon highlands he describes the Tikar, Bamum and Bamileke as small-scale migrations that left a shared culture of sacred chiefs, title-holders and secret societies, with Fulbe pressure from the north felt from the mid-eighteenth century or earlier. For Bamum he says the traditions list ten kings from Nchare to Kuotu, that the kingdom had perhaps ten to twelve thousand people at the end of the eighteenth century, and that Claude Tardits has revised its history. {{gha5-mbokolo}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "p",
-     "x": "Of the Uele and Ubangi, he says knowledge has hardly advanced since the first anthropologists, and he doubts that 'migration' is the right word for the Zande and Mangbetu, where small organised elites regrouped local peoples into chiefdoms and kingdoms. The Vungara among the Zande and the Bandia among the Ngbandi rose in the seventeenth and eighteenth centuries. {{gha5-mbokolo}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "On the Gabon and Cameroon coast he says Pacheco Pereira (about 1505) found it densely populated, that Loango was well established by 1500 though traditions disagree on whether it came from Kongo or arose among the Vili, and that its kings had ritual duties: a sacred fire lit at each coronation and a yearly rain festival. He says the Atlantic trade did not create trade here but gave an existing system new intensity. Only the Orungu of Cape Lopez formed a strong centralised state (under Reombi Mpolo, about 1790 to 1810); elsewhere, as at Douala, the Gabon river and Loango, the trade splintered authority and created a new class of traders and brokers. {{gha5-mbokolo}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "On the Congo river he follows Harms and Vansina. Pottery dated 1450 to 1650 at Kingabwa and the clay pipes at Mafamba point to old trade along the river, with camwood and copper the main long-distance goods before the Atlantic trade. He gives three stages of Atlantic trade: the Kongo kingdom leading to about 1560, a Malebo Pool and Loango axis from 1560 to 1750, and the whole Congo basin as chief supplier from 1750 to about 1850. Slaves came mainly from the Lulonga, Alima, Boma and Ubangi regions, and ivory only overtook slaves after 1830. {{gha5-mbokolo}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He calls local trade in food, salt, pots and cloth an 'economy of production' that benefited ordinary people, and the export trade an 'economy of destruction' that enriched a minority. Bobangi society was built on trading firms of dependants and slaves, while the Tio kept decentralised chiefdoms. He says these trading economies did not become capitalist because profits could not be invested in land or free labour. {{gha5-mbokolo}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He says American crops (maize, cassava, groundnuts, beans, tobacco) took about two and a half centuries from 1600 to replace older ones, and that Vansina calls this an 'agricultural revolution'. M'Bokolo doubts it raised population, noting the limited nutrition in cassava and signs of malnutrition in the nineteenth century. He sets Rodney's view that imports caused technological stagnation beside Curtin's view that the 'three transatlantic migrations' may roughly balance out, and says the debate is open. {{gha5-mbokolo}} [CONTESTED]"
-    },
-    {
-     "t": "check",
-     "q": "A history of Rwanda starts with Tutsi kings arriving and founding the state. Using Ogot, what should the account start with instead?",
-     "o": [
-      "The same story",
-      "Farming clan states that came first; the court-centred story rests on the outmoded Hamitic theory",
-      "Archaeology alone",
-      "Kenya"
-     ],
-     "a": 1,
-     "w": "He cites Kagame and the White Fathers as the source of the court story. {{gha4-lakes}}",
-     "kind": "application"
-    },
-    {
-     "t": "h",
-     "x": "Madagascar"
-    },
-    {
-     "t": "p",
-     "x": "Manassé Esoavelomandroso says the main peoples of Madagascar were present by the end of the twelfth century, that the Indonesian, African and Arab contributions are still argued, and that the Vazimba were probably no single people but earlier highland inhabitants. The Merina arrived slowly between the thirteenth and fifteenth centuries according to their tradition. {{gha4-madag}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "In the north-west, Swahili-style trading towns such as Mahilaka exported rice and soapstone and imported Indian pearls, cloth and Chinese ceramics. He says the coastal cities of East Africa were founded by Africans and not by Arabs, and that stories of Arab ancestry served to claim a place among the sources of Islam. The first Malagasy kingdoms appear from the fifteenth century, south-east first. {{gha4-madag}} [PROBABLE]"
-    },
-    {
-     "t": "check",
-     "q": "What does Matveiev say about the Persian-founder reading of the Swahili towns?",
-     "o": [
-      "It is the best-proved account",
-      "It is a nineteenth-century theory, and the dynasties were local on his evidence",
-      "It was proved by coins",
-      "It is only held in Kenya"
-     ],
-     "a": 1,
-     "w": "He traces it to Strandes and a Hegelian idea of history. {{gha4-swahili}}"
-    },
-    {
-     "t": "check",
-     "q": "A website gives exact dates for Kongo kings in the 1300s. Using Vansina, what should you say about them?",
-     "o": [
-      "They are documented",
-      "They are hypothesis: the earliest manuscript is 1492 and traditions were recorded only from 1624",
-      "They come from Kongo archives",
-      "They are Portuguese records"
-     ],
-     "a": 1,
-     "w": "He says the earlier periods rest on later sources. {{gha4-kongo}}",
-     "kind": "application"
-    },
-    {
-     "t": "check",
-     "q": "What is the safest sentence about Madagascar's origins?",
-     "o": [
-      "It was settled only by Arabs",
-      "It was settled by Indonesian, African and Arab-Swahili contributions in proportions still argued",
-      "It was empty until 1500",
-      "It was settled only from India"
-     ],
-     "a": 1,
-     "w": "The chapter says the comparative contributions are still actively discussed. {{gha4-madag}}"
-    },
-    {
-     "t": "h",
-     "x": "Chronicles and European writers on the coast and Kongo"
-    },
-    {
-     "t": "p",
-     "x": "Fage sorts the written sources. The Kilwa Chronicle was a written record of tradition and a version was used by De Barros in the sixteenth century, giving the Portuguese one source for the coast. For the Guinea coast, evidence runs from Cadamosto (about 1460) to Barbot and Bosman, with Dapper (1668) a compiler, not a witness. For Lower Zaire and Angola he names Pigafetta and Lopez (1591), Cavazzi (1687) and Cadornega's History of the Angolan Wars (1681); there the pressure of Portuguese trade and missions changed society so quickly that even descriptions became partly history. {{gha1-fage}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Lueji and the Lunda in tradition"
-    },
-    {
-     "t": "p",
-     "x": "The chapter presents Lueji, called Swana Mulunda or Mother of the Lunda People, as daughter, sister, wife and mother of a king. This is the Lunda account of descent through women; it is a tradition used to show women's political weight, not a dated record. {{gha1-hama}} [TRADITIONAL DATE]"
-    },
-    {
-     "t": "h",
-     "x": "What 'Kingdom of Kongo' means, and which crops grew there"
-    },
-    {
-     "t": "p",
-     "x": "Obenga reads the 'Kingdom of Kongo' as nsi a Kongo, the country of the Kongo people, one large chiefdom in which the king (mfumu) is the eldest son and maternal uncle of every matrilineal clan (makanda) that recognises common founder-ancestors, and the supreme chief is the ntinu. It is not a king-ruled state in the western sense, in his view. {{gha1-obenga}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "For farming he gives Pigafetta and Lopez (1591), who list on the Mbanza Kongo plateau only eleusine, a sorghum, maize, rice, banana and oil palm. Maize is 'the least valued' and fed to pigs, and rice is of little value. Manioc, now a staple in Central Africa, reached Kongo from the Atlantic coast only after the sixteenth century. {{gha1-obenga}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Chinese and Arabic sources on the east coast"
-    },
-    {
-     "t": "p",
-     "x": "Djait says Chinese sources mostly concern the fifteenth century and the East African coast, apart from one text of the later eleventh century, and are still to be explored. Mas'udi's Fields of Gold (965) is dense with information on the Zanj and the east coast, and Buzurg ibn Shahriyar adds reports on the coast. These are the earliest written accounts the Swahili lessons can lean on, and they come from outside Africa. {{gha1-djait}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Kilwa's chronicle, Shungwaya and the coastal manuscripts"
-    },
-    {
-     "t": "p",
-     "x": "Hrbek says only Kilwa's chronicle is of any antiquity: it was composed about 1530 and survives in two versions, one in De Barros and one copied at Zanzibar in 1877. Most other coastal chronicles are recent recordings of oral tradition and should be treated as such. More than 30 000 pages of Swahili and Arabic manuscripts have come to light since 1965, including the Kitab al-Zanj on southern Somalia and northern Kenya, and the poem al-Inkishafi on Pate was composed in the 1810s. {{gha1-hrbek}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "Old maps preserve a lost name: many eastern Bantu migration traditions come from Shungwaya, no place of that name now known, which appears on Van Linschoten's map of 1596 and Blaeu's of 1662 as a town and later an area near the coast. Ahmad ibn Majid, the pilot who led Vasco da Gama from Malindi to India, left sea charts and opinions on the Portuguese, and Leo Africanus, writing after a Muslim's travels, supplied Europe for nearly three centuries with its only real knowledge of the interior, with errors. Portuguese records for South-East Africa are being published in about 20 volumes. {{gha1-hrbek}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Great Lakes king lists and Cavazzi's traditions"
-    },
-    {
-     "t": "p",
-     "x": "For the Great Lakes, Vansina says the tidying of successions produced a direct father-to-son line up to about the nineteenth century, which lengthens dynasties by counting collaterals as fathers, and that colonial indirect rule added pressure to lengthen lists by repeating royal names. Kagwa's history of Buganda influenced later Ganda lists. Tradition recalls remote sites as old but gives no date, which only archaeology supplied. Cavazzi's seventeenth-century Upper Kwango traditions became usable only after fieldwork in 1970, and they sum up changes that may cover several centuries, or even a thousand years before 1500, without dates. {{gha1-vansina}} [CONTESTED]"
-    },
-    {
-     "t": "h",
-     "x": "Bantu origins and the lakes and Kongo"
-    },
-    {
-     "t": "p",
-     "x": "Olderogge gives three named routes for Bantu origins (north of the forest, through the forest, or from Guthrie's Luba-Bemba core), warns that Bantu speech does not prove iron, and notes copper deposits in the Luba-Bemba core area. For the Great Lakes and Kongo lessons these are positions to compare, not a settled chronology. {{gha1-olderogge}} [CONTESTED]"
-    },
-    {
-     "t": "h",
-     "x": "Nilotic and Bantu groupings for the lakes"
-    },
-    {
-     "t": "p",
-     "x": "For the lakes region, Greenberg groups Nilotic into Western (Luo, Dinka-Nuer), Eastern (Bari, Karamojong, Teso, Turkana, Masai) and Southern (Nandi, Suk, Tatoga), against Meinhof's Hamitic Masai; and Bantu is treated as one branch of Benue-Congo with Guthrie's Shaba core as the rival origin. {{gha1-greenberg}} [CONTESTED]"
-    },
-    {
-     "t": "h",
-     "x": "Monsoons and the Rift for the coast and the lakes"
-    },
-    {
-     "t": "p",
-     "x": "Diarra states that the alternating monsoons let Arab and Indian ships sail to East Africa and back, but that the contacts stayed on the coast because Asian sailors wanted trade, not colonies. The warm Mozambique and Agulhas currents bring humidity to the south-east, and the rift lakes form a chain of settlement corridors from Lake Turkana to Lake Nyasa. {{gha1-diarra}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Cattle corridors and Rwanda"
-    },
-    {
-     "t": "p",
-     "x": "Mabogunje says cattle moved south only through fly-free corridors, and mentions the migration of cattle owners some nine centuries ago who, by merging with others, helped make the Tutsi and Hutu society of Rwanda and Burundi. The date and the migration are the author's summary and should be set against the Vansina chapter's warning about the Great Lakes traditions. {{gha1-mabogunje}} [TRADITIONAL DATE]"
-    },
-    {
-     "t": "h",
-     "x": "Asian plants on the east coast"
-    },
-    {
-     "t": "p",
-     "x": "Porteres and Barrau say the banana, taro, greater yam and perhaps sugar cane came from tropical South-East Asia, probably through south-western Arabia and East Africa or with early navigators landing in the south-east, and that early migrants to Madagascar and the east coast carried them. This supports the Indian Ocean dimension of the origins lesson, though it says nothing about when these plants arrived, so it adds no date. {{gha1-porteres}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "h",
-     "x": "Herders and the Iron Age in East and Central Africa: what the prehistory chapters say"
-    },
-    {
-     "t": "p",
-     "x": "Volume I's prehistory chapters are mostly about the Stone Age, but two passages bear on the lakes and Kongo lessons. Sutton says south of the equator and in most of East Africa there was no Neolithic in the usual sense, since food production spread only with the Iron Age, which began in most regions about 2000 years ago. In the highlands of Kenya and northern Tanzania, though, herding with perhaps a little farming appears in the terminal Late Stone Age 2000 to 3000 years ago. At Narosura in southern Kenya 95 per cent of the identified animal bones are domestic, 57 per cent sheep and goats and 39 per cent cattle; goats were killed young and cattle old, so the cattle were probably kept for milk and perhaps blood. He thinks herding may have reached the Ethiopian highlands and been carried south by small movements of Cushitic-speaking peoples. {{gha1-sutton}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "For equatorial Africa, Van Noten says the copper and Iron Ages arrived late in the relatively inaccessible forest region, so cultures developed locally. He cautions that at Dimba and Ngovo no domestic animals have been found, so a true Neolithic with pottery, polished tools, cattle and farming should not be assumed, and that Zaire-basin rock art, close to that of Bantu lands, is recent and even historical. {{gha1-vannoten}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "take",
-     "i": [
-      "Swahili towns were African and Bantu-based, with Persian ancestry stories read as prestige claims. {{gha4-swahili}}",
-      "Kongo's early history rests on late sources. {{gha4-kongo}}",
-      "Madagascar's origins are a mixed, contested picture. {{gha4-madag}}"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "l8",
+   "id": "l9",
    "title": "The lecturer's method: Ibn Battuta",
    "min": 22,
    "blocks": [

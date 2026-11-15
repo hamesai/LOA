@@ -1,19 +1,18 @@
 /* Post-Colonial Africa: conquest, independence and the struggle for the state (c. 1880 to the present) (module 3). Block types: _template/TEMPLATE.md. */
 (window.COURSE = window.COURSE || {})["africa-post-colonial-3"] = {
- "intro": "Pan-Africanism is the idea that people of African descent share a history and an interest, and later that African states should unite. It began in the Atlantic world, was carried into the colonies by students and activists, and produced the Organisation of African Unity in 1963. This module also teaches source criticism through a case in which a famous document circulating in African American and diaspora memory turns out to be a modern fake. Lecturer lens: Du Bois (1868 to 1963) was a scholar and organiser who convened the Pan-African Congresses. Here we borrow his twin habit: collect the data, then argue from it, which is also the habit that exposes a fake.",
+ "intro": "Pan-Africanism is the idea that people of African descent share a history and an interest, and later that African states should unite. Its roots lie in the diaspora traced at the end of Pre-Colonial Africa; it was carried into the colonies by students and activists, met the nationalism growing inside Africa between the wars, and produced the Organisation of African Unity in 1963. This module also teaches source criticism through a famous document that turns out to be a modern fake. Lecturer lens: Du Bois (1868 to 1963) was a scholar and organiser who convened the Pan-African Congresses. Here we borrow his twin habit: collect the data, then argue from it, which is also the habit that exposes a fake.",
  "outcomes": [
-  "Trace Pan-Africanism from 1900 to 1963.",
+  "Trace Pan-Africanism from 1893 to 1963, and weigh the record on Garvey.",
+  "Describe interwar nationalism inside Africa, from the NCBWA to the Wafd and the Ethiopian crisis of 1935.",
   "Explain why Manchester 1945 is called a turning point.",
-  "Compare the Casablanca and Monrovia groups and explain the OAU's compromise.",
+  "Compare the Casablanca and Monrovia groups, and say what the OAU Charter does and does not say about borders.",
   "Apply four authenticity tests to a famous document and explain why the Willie Lynch letter fails them.",
-  "Say what real evidence shows about slaveholder tactics and where to find it.",
   "Lecturer's method: Combine evidence with organising: ask what a document shows, and who gathered it and for what purpose."
  ],
  "lessons": [
   {
-   "id": "l1",
    "title": "Roots, Garvey and the first Congresses",
-   "min": 24,
+   "min": 26,
    "blocks": [
     {
      "t": "p",
@@ -35,11 +34,11 @@
     },
     {
      "t": "p",
-     "x": "In 1900 Henry Sylvester Williams, a Trinidadian lawyer, convened the Pan-African Conference in London. {{lib}}"
+     "x": "In 1900 Henry Sylvester Williams, a Trinidadian lawyer, convened the Pan-African Conference in London. {{lib}} The date is conventional: one historian dates pan-Africanism to 1893, with a week-long meeting in Chicago, followed by Atlanta in 1895 and Williams's African Association in 1897. {{gha-ix}}"
     },
     {
      "t": "p",
-     "x": "The date is conventional. The 2024 UNESCO revisiting volume notes that one historian dates pan-Africanism to 1893, with a week-long meeting in Chicago, followed by Atlanta in 1895 and Williams's African Association in 1897. It also says the movement was coined and nurtured mostly by diaspora intellectuals in the nineteenth century, and that the UNESCO volume VIII has little on women and communists in the movement. {{gha-ix}}"
+     "x": "The movement was coined and nurtured mostly by diaspora intellectuals in the nineteenth century. {{gha-ix}}"
     },
     {
      "t": "h",
@@ -47,11 +46,11 @@
     },
     {
      "t": "p",
-     "x": "Marcus Garvey's Universal Negro Improvement Association, from 1914, claimed millions of members in the 1920s [ESTIMATE], and used the slogan Africa for the Africans and with the Black Star Line. {{lib}}"
+     "x": "Marcus Garvey's Universal Negro Improvement Association, from 1914, used the slogan Africa for the Africans and ran the Black Star Line. {{lib}}"
     },
     {
      "t": "p",
-     "x": "Garvey's own membership claims rose each year: 2 million by 1919, 4 million by 1920 and 6 million with 900 branches by 1923. They are self-reported and cannot be verified, and the editor says they were likely exaggerated. About 25,000 people filled Madison Square Garden on 01/08/1920. {{gv-auto}} {{gv-intro}}"
+     "x": "Garvey's own membership claims rose each year: 2 million by 1919, 4 million by 1920 and 6 million with 900 branches by 1923. They are self-reported and cannot be verified, and the editor of his papers says they were likely exaggerated. About 25,000 people filled Madison Square Garden on 01/08/1920. {{gv-auto}} {{gv-intro}}"
     },
     {
      "t": "p",
@@ -60,10 +59,6 @@
     {
      "t": "p",
      "x": "His Declaration of the Rights of the Negro Peoples of the World was adopted at the 1920 convention. It protests the partition of Africa, rejects taxation without representation, and demands Africa for the Africans at home and abroad. {{gv-decl}}"
-    },
-    {
-     "t": "h",
-     "x": "Why Garvey's critics had grounds"
     },
     {
      "t": "table",
@@ -75,34 +70,30 @@
      "rows": [
       [
        "Meeting with the Ku Klux Klan",
-       "On 25/06/1922 in Atlanta he met the Klan's acting leader, and in a speech of 09/07/1922 said the UNIA and the Klan wanted the same thing, Africa for Black people and America for white people"
+       "On 25/06/1922 in Atlanta he met the Klan's acting leader, and in a speech of 09/07/1922 said the UNIA and the Klan wanted the same thing {{gv-klan}}"
       ],
       [
        "Segregationist support",
-       "On 13/02/1922 he welcomed a Mississippi senator's resolution urging the US to find an African home for Black Americans"
+       "On 13/02/1922 he welcomed a Mississippi senator's resolution urging the US to find an African home for Black Americans {{gv-sen}}"
       ],
       [
        "Black Star Line",
-       "Garvey says he was convicted for selling stock after the line was insolvent, with a five-year sentence; supporters called it a frame-up and the editor says it was badly run; he was deported in 1927"
+       "Convicted for selling stock after the line was insolvent; supporters called it a frame-up and the editor says it was badly run; deported in 1927 {{gv-intro}}"
       ],
       [
        "Liberia",
-       "In 1924 he planned an advance party with land grants, but Liberia, under pressure from European governments, refused the UNIA a settlement"
+       "In 1924 Liberia, under pressure from European governments, refused the UNIA a settlement {{gv-lib}}"
       ]
      ],
      "src": "{{gv-klan}} {{gv-sen}} {{gv-intro}} {{gv-lib}}"
     },
     {
      "t": "p",
-     "x": "Du Bois published a critical article, Back to Africa, in the Century magazine in February 1923. Garvey's reply is polemic that accuses Du Bois of favouring light-skinned people, so treat it as a partisan witness and not as neutral evidence. {{gv-dubois}} {{gv-intro}}"
+     "x": "Du Bois published a critical article, Back to Africa, in the Century magazine in February 1923. Garvey's reply is polemic, so treat it as a partisan witness. {{gv-dubois}} {{gv-intro}}"
     },
     {
      "t": "p",
      "x": "Garvey died on 10/06/1940 in London and was reburied in Jamaica in 1964. He never entered an African country, yet Nkrumah said his writings fired his enthusiasm. {{gv-intro}}"
-    },
-    {
-     "t": "p",
-     "x": "His resettlement plans and his methods were criticised by W. E. B. Du Bois and others. {{lib}}"
     },
     {
      "t": "h",
@@ -141,9 +132,8 @@
      "src": "{{lib}}"
     },
     {
-     "t": "callout",
-     "k": "note",
-     "x": "Hochschild notes that even the 1919 Paris Congress did not demand full independence for African colonies, and our inference is that open demands for self-government were almost unspoken until the 1920s and 1930s. {{hs-notes}}"
+     "t": "p",
+     "x": "Even the 1919 Paris Congress did not demand full independence for African colonies. {{hs-notes}}"
     },
     {
      "t": "example",
@@ -151,72 +141,194 @@
      "steps": [
       "The Congresses were held in 1919, 1921, 1923 and 1927.",
       "The gaps are 2, 2 and 4 years.",
-      "The first London conference (1900) to the 1919 Congress is 19 years.",
-      "So Pan-African organising was sparse before the First World War and regular only in the 1920s. That pattern is our reading of the dates. {{lib}}"
+      "The London conference of 1900 to the 1919 Congress is 19 years.",
+      "So Pan-African organising was sparse before the First World War and regular only in the 1920s (our reading of the dates)."
      ]
-    },
-    {
-     "t": "h",
-     "x": "Interwar nationalism that came before 1945 (volume VII)"
-    },
-    {
-     "t": "p",
-     "x": "Garvey's weight. Ralston says Casely Hayford used the impetus of Garveyism to found the National Congress of British West Africa in 1917, with the inaugural session in Accra in 03/1920. Boahen credits Casely Hayford and Akiwande Savage and treats Garvey as a secondary influence. [CONTESTED] Treat Garvey as one input, not the cause. Ralston also records the Negro World at about 200,000 circulation, banned in Nyasaland by 1922, and Kenyatta's memory of Kenyans listening to it in 1921; Garvey's UNIA sent emissaries to Liberia in 05/1920, which later banned it, and the Bulhoek leader Enoch Mgijima wrote to Garvey. African students in the United States (Aggrey from 1898, Azikiwe from 1925, Banda, Nkrumah from 1935) outnumbered black missionaries going the other way. {{gha-vii-ch29}}"
-    },
-    {
-     "t": "p",
-     "x": "The NCBWA and its limits. Its first conference met in Accra in 03/1920, and its 1920 delegation to London was rejected. Later sessions were at Freetown (1923), Bathurst (1925 to 1926) and Lagos (1930). Boahen argues it pushed the elective-seat constitutions of Nigeria (1923), Sierra Leone (1924) and the Gold Coast (1925), but that those seats 'anaesthetised' it, and the leaders were co-operationist. Other groups were the Gold Coast Youth Conference (1929), the Nigerian Youth Movement (1934), the West African Students' Union and Wallace-Johnson's West African Youth League. Unions were illegal until 1932 to 1941 in British territories and 1937 in French. Diagne was a deputy from 1914 to 1934, and the Ligue universelle pour la defense de la race negre dates from 1925. {{gha-vii-ch25}}"
-    },
-    {
-     "t": "p",
-     "x": "Beyond Africa's west coast. Egypt's Wafd was formed in 11/1918; Zaghlul's arrest on 08/03/1919 sparked a revolution across classes and faiths, and independence was declared on 28/02/1922 with four reserved points (communications, defence, minorities, Sudan). The 1936 treaty legalised the British occupation. In Sudan, the White Flag League (1924) and the Khartoum military revolt (11/1924) were followed by neo-Mahdism under Abd al-Rahman. In Somaliland, riots at Burao over western education (1922) preceded the Somali National League (1935). Colonial governments cut humanities teaching (Ponty, Achimota, Makerere) to avoid India's example. {{gha-vii-ne}}"
-    },
-    {
-     "t": "p",
-     "x": "Ethiopia and Liberia. The Walwal incident was on 05/12/1934, and Italy invaded on 03/10/1935 without a declaration of war. The League voted 50 to 1 on 09/10/1935 but imposed no oil sanctions; the Hoare-Laval plan leaked on 07/12/1935, and Italian troops entered Addis Ababa on 06/05/1936. The International African Friends of Abyssinia formed in 08/1935 with Kenyatta as secretary. Akpan explains that Liberia survived because only Italy wanted to avenge Adwa. In Liberia, the Christy commission (08/09/1930) found forced recruitment of labour for Fernando Po with official collusion; President King resigned in 12/1930, and the United States recognised Barclay on 11/06/1935. Akpan stresses that colonial regimes were equally brutal. {{gha-vii-ch28}}"
-    },
-    {
-     "t": "p",
-     "x": "What it added up to. Afigbo argues that colonialism turned racial distinctions into class divisions and created a literate elite excluded from partnership, which led it into opposition, and that it fossilised borders (Sokoto and Borno lost territory; Samori's and Rabih's empires were split). {{gha-vii-ch19}} Oloruntimehin adds that nationalism was not only urban and elite: protest migrations, deposed chiefs and cocoa hold-ups belong to it too. {{gha-vii-ch22}} Negritude, in Soyinka's account, has its manifesto in Legitime Defense by Martinican students, with Cesaire, Senghor and Damas as its midwives, and lost its hold as its circumstances disappeared. West African concert-party theatre dates from the 1900s, and Egypt's press grew from 169 papers (1898) to 282 (1913). {{gha-vii-ch21}}"
     },
     {
      "t": "check",
      "q": "A poster says 'Pan-Africanism was born at the founding of the OAU in 1963.' Where did it actually begin?",
      "o": [
-      "In the Atlantic world, outside the continent",
+      "In the Atlantic world, in the 1890s and 1900, among diaspora intellectuals",
       "At the OAU in 1963",
       "In Berlin in 1884",
       "In Manchester in 1945"
      ],
      "a": 0,
-     "w": "It began outside the continent and was carried in by students and activists. {{lib}}",
+     "w": "It was coined and nurtured mostly in the diaspora. {{gha-ix}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "A student claims the 1919 Paris Congress demanded immediate independence. What did the early Congresses mostly ask for?",
+     "q": "A biography says Garvey led 6 million members. How should you report the figure?",
      "o": [
-      "Immediate independence",
-      "Fair treatment, African participation in government and an end to forced labour",
-      "A European federation",
-      "A world army"
+      "As a count",
+      "As Garvey's own claim for 1923, unverifiable and likely exaggerated",
+      "As a census figure",
+      "As the UNIA's audited total"
      ],
      "a": 1,
-     "w": "They mostly stopped short of demanding independence. {{lib}}",
+     "w": "Self-reported membership needs a caution. {{gv-intro}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Pan-Africanism began in the Atlantic world. {{lib}}",
-      "The Congresses of 1919 to 1927 asked for rights more than independence.",
-      "Garvey and Du Bois disagreed on methods."
+      "Pan-Africanism began in the Atlantic world, conventionally in 1900. {{gha-ix}}",
+      "Garvey's numbers are his own claims; his critics had grounds. {{gv-intro}}",
+      "The Congresses of 1919 to 1927 asked for rights more than independence."
      ]
     }
-   ]
+   ],
+   "id": "l1"
   },
   {
-   "id": "l2",
+   "title": "Nationalism inside Africa between the wars",
+   "min": 28,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Pan-Africanism from outside met nationalism growing inside Africa. Colonialism turned racial distinctions into class divisions and created a literate elite excluded from partnership, which led it into opposition. {{gha-vii-ch19}}"
+    },
+    {
+     "t": "p",
+     "x": "Nationalism was not only urban and elite: protest migrations, deposed chiefs and cocoa hold-ups belong to it too. {{gha-vii-ch22}}"
+    },
+    {
+     "t": "h",
+     "x": "West Africa: the NCBWA and its limits"
+    },
+    {
+     "t": "p",
+     "x": "The National Congress of British West Africa held its first conference in Accra in 03/1920, and its 1920 delegation to London was rejected. Later sessions met at Freetown (1923), Bathurst (1925 to 1926) and Lagos (1930). {{gha-vii-ch25}}"
+    },
+    {
+     "t": "p",
+     "x": "Garvey's weight is debated. One reading says Casely Hayford used the impetus of Garveyism to found the Congress; another credits Casely Hayford and Akiwande Savage and treats Garvey as a secondary influence. {{gha-vii-ch29}} {{gha-vii-ch25}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "The Congress pushed the elective-seat constitutions of Nigeria (1923), Sierra Leone (1924) and the Gold Coast (1925), but those seats 'anaesthetised' it, and its leaders were co-operationist. {{gha-vii-ch25}}"
+    },
+    {
+     "t": "p",
+     "x": "Other groups followed: the Gold Coast Youth Conference (1929), the Nigerian Youth Movement (1934) and the West African Students' Union. Unions were illegal until 1932 to 1941 in British territories and 1937 in French. {{gha-vii-ch25}}"
+    },
+    {
+     "t": "p",
+     "x": "The Negro World reached about 200,000 circulation and was banned in Nyasaland by 1922, and African students in the United States, among them Azikiwe from 1925 and Nkrumah from 1935, carried ideas home. {{gha-vii-ch29}}"
+    },
+    {
+     "t": "h",
+     "x": "Egypt, Sudan and Somaliland"
+    },
+    {
+     "t": "p",
+     "x": "Egypt's Wafd was formed in 11/1918, and Zaghlul's arrest on 08/03/1919 sparked a revolution across classes and faiths. Independence was declared on 28/02/1922 with four reserved points (communications, defence, minorities, Sudan), and the 1936 treaty legalised the British occupation. {{gha-vii-ne}}"
+    },
+    {
+     "t": "p",
+     "x": "In Sudan, the White Flag League (1924) and the Khartoum military revolt (11/1924) were followed by neo-Mahdism. In Somaliland, riots at Burao over western education (1922) preceded the Somali National League (1935). {{gha-vii-ne}}"
+    },
+    {
+     "t": "h",
+     "x": "Culture: Negritude and the press"
+    },
+    {
+     "t": "p",
+     "x": "Negritude had its manifesto in Legitime Defense by Martinican students, with Cesaire, Senghor and Damas as its midwives. {{gha-vii-ch21}} Egypt's press grew from 169 papers (1898) to 282 (1913). {{gha-vii-ch21}}"
+    },
+    {
+     "t": "h",
+     "x": "1935: Ethiopia, and Liberia's crisis"
+    },
+    {
+     "t": "p",
+     "x": "The Walwal incident was on 05/12/1934, and Italy invaded Ethiopia on 03/10/1935 without a declaration of war. The League voted 50 to 1 on 09/10/1935 but imposed no oil sanctions, and Italian troops entered Addis Ababa on 06/05/1936. {{gha-vii-ch28}}"
+    },
+    {
+     "t": "p",
+     "x": "The invasion stirred the diaspora. The International African Friends of Abyssinia formed in 08/1935 with Kenyatta as secretary. {{gha-vii-ch28}}"
+    },
+    {
+     "t": "p",
+     "x": "In Liberia, the Christy commission (08/09/1930) found forced recruitment of labour for Fernando Po with official collusion; President King resigned in 12/1930. {{gha-vii-ch28}}"
+    },
+    {
+     "t": "table",
+     "title": "Interwar movements by region",
+     "head": [
+      "Region",
+      "Movement",
+      "Date"
+     ],
+     "rows": [
+      [
+       "British West Africa",
+       "National Congress of British West Africa",
+       "1920 {{gha-vii-ch25}}"
+      ],
+      [
+       "Egypt",
+       "The Wafd and the 1919 revolution",
+       "1918 to 1922 {{gha-vii-ne}}"
+      ],
+      [
+       "Sudan",
+       "White Flag League",
+       "1924 {{gha-vii-ne}}"
+      ],
+      [
+       "Kenya",
+       "Kikuyu Central Association (Module 2)",
+       "1924 {{gha-vii-ch27}}"
+      ],
+      [
+       "Diaspora and Africa",
+       "International African Friends of Abyssinia",
+       "1935 {{gha-vii-ch28}}"
+      ]
+     ],
+     "src": "{{gha-vii-ch25}} {{gha-vii-ne}} {{gha-vii-ch28}}"
+    },
+    {
+     "t": "check",
+     "q": "A summary says African nationalism began with Manchester in 1945. Which evidence shows it is older?",
+     "o": [
+      "None",
+      "The NCBWA (1920), Egypt's 1919 revolution and the Kikuyu Central Association (1924)",
+      "The OAU",
+      "The Berlin Conference"
+     ],
+     "a": 1,
+     "w": "Interwar movements came first. {{gha-vii-ch25}} {{gha-vii-ne}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "Egypt became 'independent' in 1922. Why should you qualify that?",
+     "o": [
+      "It did not",
+      "Britain kept four reserved points, including defence and Sudan, and the 1936 treaty legalised the occupation",
+      "Egypt joined France",
+      "Egypt was never occupied"
+     ],
+     "a": 1,
+     "w": "Formal independence with reserved powers. {{gha-vii-ne}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Nationalism grew inside Africa from about 1918, in elites and in rural protest. {{gha-vii-ch22}}",
+      "The NCBWA was co-operationist; Egypt's revolution won a qualified independence.",
+      "The 1935 invasion of Ethiopia joined Africa and the diaspora in protest."
+     ]
+    }
+   ],
+   "id": "l2"
+  },
+  {
    "title": "Negritude, Manchester and Accra",
    "min": 24,
    "blocks": [
@@ -230,7 +342,19 @@
     },
     {
      "t": "p",
-     "x": "Frantz Fanon, from Martinique and active in Algeria, later criticised its limits [CONTESTED]. {{lib}}"
+     "x": "Frantz Fanon, from Martinique and active in Algeria, later criticised its limits [CONTESTED]. {{lib}} Negritude lost its hold as the circumstances that produced it disappeared. {{gha-vii-ch21}}"
+    },
+    {
+     "t": "h",
+     "x": "The road to Manchester"
+    },
+    {
+     "t": "p",
+     "x": "Italy's invasion of Ethiopia stirred the diaspora. The International African Service Bureau followed in 1937, and Ras Makonnen's Manchester businesses gave future leaders a meeting place. {{gha-viii-ch23}}"
+    },
+    {
+     "t": "p",
+     "x": "The Pan-African Federation, formed in 1944 by Padmore, Kenyatta, Peter Abrahams, Wallace-Johnson and James, with Nkrumah joining later, organised the congress of 1945. {{gha-viii-ch23}}"
     },
     {
      "t": "h",
@@ -241,21 +365,13 @@
      "x": "The Fifth Pan-African Congress was organised by George Padmore and Kwame Nkrumah with Du Bois as honorary chair. Jomo Kenyatta, Peter Abrahams and Hastings Banda also took part. {{lib}}"
     },
     {
+     "t": "p",
+     "x": "It was the first Congress with a majority of African delegates, and it called for complete independence and for strikes and boycotts. No Africans from French, Portuguese or Belgian territories attended. {{gha-viii-ch05}}"
+    },
+    {
      "t": "callout",
      "k": "note",
-     "x": "Reader calls Manchester in 10/1945 the sixth Pan-African Congress. It is conventionally the fifth, and this course uses fifth. His account is otherwise useful: delegates were mostly African and the resolutions asked for autonomy and independence. {{rd-mau}}"
-    },
-    {
-     "t": "p",
-     "x": "Volume VIII adds that Africans such as Nkrumah, Awolowo, Kenyatta and Banda played leading parts at Manchester, that it called for complete independence and for strikes and boycotts, and that no Africans from French, Portuguese or Belgian territories attended. {{gha-viii-ch05}}"
-    },
-    {
-     "t": "p",
-     "x": "Joseph Harris's chapter in the same volume traces the road to Manchester. Italy's invasion of Ethiopia stirred the diaspora, and C. L. R. James founded the International African Friends of Ethiopia in 1936 and the International African Service Bureau followed in 1937. Ras Makonnen's Manchester businesses gave future leaders a meeting place. The Pan-African Federation, formed in 1944 by Padmore, Kenyatta, Peter Abrahams, Wallace-Johnson and James, with Nkrumah joining later, organised the congress of 1945. {{gha-viii-ch23}}"
-    },
-    {
-     "t": "p",
-     "x": "It was the first Congress with a majority of African delegates, and it demanded independence, not reform. Padmore, a Trinidadian, was the key organiser. {{lib}}"
+     "x": "One survey calls Manchester the sixth Pan-African Congress. {{rd-mau}} It is conventionally the fifth, as the UNESCO history also calls it. {{gha-viii-ch24}}"
     },
     {
      "t": "h",
@@ -283,8 +399,8 @@
       ],
       [
        "Manchester 1945",
-       "Majority African",
-       "Independence",
+       "Majority African, none from French, Portuguese or Belgian territories",
+       "Complete independence",
        "Future leaders were present"
       ],
       [
@@ -294,57 +410,58 @@
        "First hosted by an independent sub-Saharan state"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha-viii-ch05}} {{lib}}"
     },
     {
      "t": "example",
      "title": "Worked example: why Manchester was a turning point",
      "steps": [
       "Ask who attended: a majority of African delegates, including future leaders such as Nkrumah, Kenyatta and Banda.",
-      "Ask what was demanded: independence, not reform.",
-      "Ask who organised it: Padmore and Nkrumah, with Du Bois as honorary chair.",
-      "Verdict: it moved Pan-Africanism from diaspora advocacy to an African independence movement. The claim of a turning point is a judgement, not a measurement [CONTESTED]. {{lib}}"
+      "Ask what was demanded: complete independence, not reform, with strikes and boycotts as methods.",
+      "Ask who was missing: delegates from French, Portuguese and Belgian territories, so it was an anglophone turning point.",
+      "Verdict: it moved Pan-Africanism from diaspora advocacy to an African independence movement. 'Turning point' is a judgement, not a measurement [CONTESTED]. {{gha-viii-ch05}}"
      ]
     },
     {
      "t": "check",
-     "q": "You are explaining why historians treat Manchester 1945 as a turning point. What made it different?",
+     "q": "You are explaining why historians treat Manchester 1945 as a turning point. What made it different, and what is its limit?",
      "o": [
-      "It had a majority of African delegates and demanded independence",
+      "A majority of African delegates demanding independence; but no delegates from French, Portuguese or Belgian territories",
       "It was held in Berlin",
       "Garvey chaired it",
       "It created the OAU"
      ],
      "a": 0,
-     "w": "These are the two reasons. {{lib}}",
+     "w": "Name both the change and the gap. {{gha-viii-ch05}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "What was Negritude?",
+     "q": "A student calls Negritude a political party. What is the correction?",
      "o": [
-      "A cultural movement affirming African values against assimilation",
-      "A trade treaty",
-      "A military alliance",
-      "A colonial tax"
+      "It is right",
+      "It was a cultural and literary movement affirming African values against assimilation",
+      "It was a trade union",
+      "It was a colonial office"
      ],
-     "a": 0,
-     "w": "Cesaire, Senghor and Damas developed it. {{lib}}"
+     "a": 1,
+     "w": "Cesaire, Senghor and Damas developed it as a cultural movement. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Manchester 1945 demanded independence with a majority of African delegates. {{lib}}",
+      "Manchester 1945 demanded independence with a majority of African delegates. {{gha-viii-ch05}}",
       "Negritude was a cultural movement; Fanon later criticised its limits [CONTESTED].",
       "Accra 1958 put union on the agenda."
      ]
     }
-   ]
+   ],
+   "id": "l3"
   },
   {
-   "id": "l3",
    "title": "Casablanca, Monrovia and the OAU (1963)",
-   "min": 26,
+   "min": 28,
    "blocks": [
     {
      "t": "h",
@@ -356,7 +473,7 @@
     },
     {
      "t": "p",
-     "x": "Nkrumah's Africa Must Unite (1963) argued for a continental government. Julius Nyerere and others preferred gradual regional steps. {{lib}}"
+     "x": "Nkrumah's Africa Must Unite (1963) argued for a continental government. Julius Nyerere and others preferred gradual regional steps. {{lib}} The radical Casablanca school distrusted regional steps, while the moderate Monrovia school accepted them. {{gha-viii-ch14}}"
     },
     {
      "t": "table",
@@ -383,61 +500,61 @@
        "Nigeria, Liberia, Senegal, Ethiopia"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{lib}} {{gha-viii-ch14}}"
     },
     {
      "t": "h",
-     "x": "The OAU"
+     "x": "The founding"
     },
     {
      "t": "p",
-     "x": "The OAU Charter was signed in Addis Ababa on 25/05/1963. {{lib}}"
+     "x": "Thirty states were represented at the conference that opened on 23/05/1963 and signed the Charter on 25/05/1963. Togo was not admitted after the assassination of President Olympio, and Morocco refused the invitation; both signed later. {{gha-viii-ch24}}"
     },
     {
      "t": "p",
-     "x": "One count gives 32 independent states as signatories; the encyclopaedia page gives 33 signatory governments. Counts differ by source and by how a government is counted, so say 'about 32 or 33'. {{lib}} {{wiki-oau}}"
-    },
-    {
-     "t": "p",
-     "x": "The UNESCO General History helps with the count. It says thirty states were represented at the conference that opened on 23/05/1963 and signed the Charter on 25/05/1963. Togo was not admitted after the assassination of President Olympio, and Morocco refused the invitation; both signed later. Thirty plus those two gives 32 (our arithmetic), and this text does not account for a 33rd. It also calls Manchester in 1945 the Fifth Pan-African Congress, which supports the course against Reader's 'sixth'. {{gha-viii-ch24}}"
+     "x": "Thirty plus those two gives 32 (our arithmetic). One encyclopaedia summary gives 33 signatory governments, so say 'about 32 or 33' and name the source. {{wiki-oau}}"
     },
     {
      "t": "callout",
      "k": "warn",
-     "x": "Even good secondary sources slip. The 2024 UNESCO volume calls the Sirte Declaration of 09/09/1999 the founding act of the OAU, which became the African Union in 2002. {{gha-ix}} The OAU Charter was signed on 25/05/1963; Sirte launched the process that created the African Union. {{gha-ix}} {{oau-charter}}"
+     "x": "Even good secondary sources slip. The 2024 UNESCO volume calls the Sirte Declaration of 09/09/1999 the founding act of the OAU. {{gha-ix}} The OAU Charter was signed on 25/05/1963; Sirte launched the process that created the African Union. {{oau-charter}}"
+    },
+    {
+     "t": "h",
+     "x": "What the Charter says"
     },
     {
      "t": "p",
-     "x": "Volume VIII's chapter on Pan-Africanism and regional integration says the OAU set up an African Liberation Committee of nine states with its base in Dar es Salaam and a Special Fund from voluntary contributions, and declared 25 May African Liberation Day. It lists seven principles in the Charter, among them respect for the territorial integrity of every state and its right to an independent existence. This is wording about each state's territory and not a pledge to keep the colonial borders. {{gha-viii-ch24}}"
+     "x": "Article III lists seven principles: sovereign equality, non-interference in internal affairs, respect for the sovereignty and territorial integrity of each state, peaceful settlement of disputes, condemnation of political assassination and of subversion by neighbouring states, dedication to the emancipation of dependent territories, and non-alignment. {{oau-charter}}"
     },
     {
      "t": "p",
-     "x": "Volume VIII's chapter on pan-Africanism and liberation (Kodjo and Chanaiwa) credits the OAU with diplomatic wins: UN General Assembly Resolution 2555 asking agencies to aid liberation movements, non-recognition of Ian Smith's UDI, a UN Commission for Namibia, and the Lusaka Manifesto of 14 to 16/04/1969. A Paris conference on sanctions (20 to 27/05/1981, 122 governments) called for mandatory sanctions on South Africa, which the Security Council refused. Its recognition decided which movements counted, and its pressure helped bring FRELIMO together from MANU and UDENAMO and the Patriotic Front from ZANU and ZAPU. The authors rate 1963 to 1973 as years of organisation and manifestos without concrete results, and 1973 to 1980 as the fruitful decade. That is their judgement. {{gha-viii-ch25}}"
-    },
-    {
-     "t": "p",
-     "x": "Mazrui's introduction to the same volume reads the early OAU as shallow in depth but continental in width, taking in Arab and black states. In his account the radical Casablanca school wanted continental unity and distrusted regional steps, while the moderate Monrovia school accepted them. He says Nkrumah's fall in 02/1966 and the Arusha Declaration of 1967 shifted the divide, and that Ethiopia and Portugal in 1974 moved the OAU to the left. {{gha-viii-ch14}}"
-    },
-    {
-     "t": "p",
-     "x": "Edmondson's chapter in volume VIII adds that after the 1967 war only Guinea broke with Israel, but in 10/1973 seventeen sub-Saharan states did so and four more followed in 11/1973, leaving Malawi, Lesotho, Swaziland and Mauritius with ties. He rejects the view that the oil weapon caused the break. The first Arab-African summit met in Cairo from 7 to 9 March 1977. {{gha-viii-ch28}}"
+     "x": "The preamble promises to fight neocolonialism in all its forms. The Charter names four principal institutions (Assembly, Council of Ministers, General Secretariat and a Commission of Mediation, Conciliation and Arbitration) and caps any member's budget share at 20 per cent. {{oau-charter}}"
     },
     {
      "t": "callout",
-     "k": "note",
-     "x": "Volume VIII's chapter on Pan-Africanism and liberation says the Comoros, Seychelles and Zimbabwe all became independent in 1980. {{gha-viii-ch25}} The volume's own independence table, in chapter 5, gives the Seychelles 1976 and Zimbabwe 1980, so the chapter is wrong at least for the Seychelles. Check each date against a second source. {{gha-viii-ch05}}"
+     "k": "key",
+     "x": "The Charter itself does not say 'existing borders'; it speaks of each state's territorial integrity. {{oau-charter}} The pledge to respect colonial-era borders, the uti possidetis principle, came from the Cairo resolution of 1964 [FIRM]. {{lib}}"
+    },
+    {
+     "t": "h",
+     "x": "Liberation and diplomacy"
     },
     {
      "t": "p",
-     "x": "Article III of the Charter lists seven principles: sovereign equality, non-interference in internal affairs, respect for the sovereignty and territorial integrity of each state, peaceful settlement of disputes, condemnation of political assassination and of subversion by neighbouring states, dedication to the emancipation of dependent territories, and non-alignment. The Charter itself does not say 'existing borders'; that pledge is not in this text. {{oau-charter}} The border pledge comes from the Cairo resolution of 1964 (our note, from the library). {{lib}}"
+     "x": "The OAU set up an African Liberation Committee of nine states based in Dar es Salaam, with a Special Fund from voluntary contributions, and declared 25 May African Liberation Day. {{gha-viii-ch24}} The Committee is not in the Charter text, so it came from a later resolution. {{oau-charter}}"
     },
     {
      "t": "p",
-     "x": "The Charter's preamble promises to fight neocolonialism in all its forms and a larger unity beyond ethnic and national differences. It names four principal institutions (Assembly, Council of Ministers, General Secretariat and a Commission of Mediation, Conciliation and Arbitration) and caps any member's budget share at 20 per cent. The Liberation Committee is not in the Charter text, so it came from a later resolution. It closes 'Done in the City of Addis Ababa, Ethiopia, 25th day of May, 1963'. {{oau-charter}}"
+     "x": "Its diplomatic wins included non-recognition of Ian Smith's UDI, a UN Commission for Namibia and the Lusaka Manifesto of 14 to 16/04/1969. Its recognition decided which liberation movements counted. {{gha-viii-ch25}}"
     },
     {
      "t": "p",
-     "x": "A Liberation Committee based in Dar es Salaam supported anti-colonial movements. In 1964 the Cairo Resolution pledged respect for colonial-era borders, the uti possidetis principle [FIRM]. {{lib}}"
+     "x": "1963 to 1973 can be read as years of organisation and manifestos without concrete results, and 1973 to 1980 as the fruitful decade. That is a judgement, not a measurement. {{gha-viii-ch25}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "After the 1967 war only Guinea broke with Israel, but in 10/1973 seventeen sub-Saharan states did so. The first Arab-African summit met in Cairo from 7 to 9 March 1977. {{gha-viii-ch28}}"
     },
     {
      "t": "p",
@@ -449,8 +566,8 @@
      "steps": [
       "The non-interference clause answers the Congo crisis, which Module 4 covers, and fear of border change.",
       "Read the text, then ask what problem it was written to solve.",
-      "A rule drafted to protect new states from outside meddling later protected abusive rulers from regional criticism, which is our reading.",
-      "Forty years on, the African Union changed the principle, which Module 7 covers. {{lib}}"
+      "A rule drafted to protect new states from outside meddling later protected abusive rulers from regional criticism (our reading).",
+      "Forty years on, the African Union changed the principle, which Module 7 covers."
      ]
     },
     {
@@ -458,66 +575,62 @@
      "q": "In 1963 Casablanca wanted a strong union and Monrovia a looser one. Looking at the OAU's rules, which group did it resemble more?",
      "o": [
       "Casablanca",
-      "Monrovia, with non-interference, border respect and no supranational authority",
+      "Monrovia, with sovereign equality, non-interference and no supranational authority",
       "Neither: it had a world army",
       "It abolished borders"
      ],
      "a": 1,
-     "w": "The compromise was closer to Monrovia. {{lib}}",
+     "w": "The compromise was closer to Monrovia. {{oau-charter}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "Two new states dispute a colonial-era border in 1965. Which OAU decision would they be expected to follow?",
+     "q": "An essay says 'the OAU Charter of 1963 froze the colonial borders'. What is the precise correction?",
      "o": [
-      "Redrew borders",
-      "Pledged respect for colonial-era borders",
-      "Created the African Union",
-      "Ended apartheid"
+      "It is right",
+      "The Charter speaks of territorial integrity; the explicit pledge to keep colonial-era borders came in the Cairo resolution of 1964",
+      "The OAU redrew the borders",
+      "There were no borders"
      ],
      "a": 1,
-     "w": "It adopted the uti possidetis principle. {{lib}}",
+     "w": "Check the text before quoting it. {{oau-charter}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "The OAU compromised: sovereignty and borders over union. {{lib}}",
+      "The OAU compromised: sovereignty over union. {{oau-charter}}",
       "Signatory counts differ (32 or 33) between sources.",
-      "Non-interference later shielded abusive rulers [CONTESTED]."
+      "The border pledge is from 1964, not the Charter; non-interference later shielded abusive rulers [CONTESTED]."
      ]
     }
-   ]
+   ],
+   "id": "l4"
   },
   {
-   "id": "l4",
    "title": "Reading a famous fake: the Willie Lynch letter",
-   "min": 40,
+   "min": 34,
    "blocks": [
     {
      "t": "p",
-     "x": "Some documents become part of memory without being documents at all. The 'Willie Lynch letter' is one. It claims to be a speech given in 1712 by a slave owner named William or Willie Lynch to slaveholders on the James River in Virginia, explaining how to keep enslaved people divided and controlled. It is a modern hoax, not an authentic document, and it must not be used as evidence of what any slaveholder said or did. {{cobb}} {{sun}} {{longreads}}"
+     "x": "Some documents become part of memory without being documents at all. The 'Willie Lynch letter' claims to be a speech given in 1712 by a slave owner named William or Willie Lynch to slaveholders on the James River in Virginia, explaining how to keep enslaved people divided and controlled. It is a modern hoax, not an authentic document, and it must not be used as evidence of what any slaveholder said or did. {{cobb}} {{sun}} {{longreads}}"
     },
     {
      "t": "callout",
      "k": "warn",
-     "x": "Do not treat anything in the letter as a historical quotation or attribute it to a real eighteenth-century person. This lesson studies the document as a case of source criticism. It names no 'quotes' from it beyond tiny labels."
+     "x": "Do not treat anything in the letter as a historical quotation or attribute it to a real eighteenth-century person. This lesson studies the document as a case of source criticism and names no 'quotes' from it beyond tiny labels."
     },
     {
      "t": "h",
-     "x": "What the sources tell us about its history"
+     "x": "Where it came from"
     },
     {
      "t": "p",
-     "x": "The Longreads article says the speech was first 'discovered' in 1970 and began its online life in 1993, when a reference librarian at a University of Missouri library uploaded it. Longreads names Kansas City and the Baltimore Sun names St. Louis; our sources disagree on the campus, and the web address cited by Longreads is on the St. Louis server. {{longreads}} {{sun}}"
+     "x": "The speech was first 'discovered' in 1970 and began its online life in 1993, when a reference librarian at a University of Missouri library uploaded it. One source names Kansas City and another St. Louis, so the sources disagree on the campus. {{longreads}} {{sun}}"
     },
     {
      "t": "p",
-     "x": "The Baltimore Sun reporter traced a ten-page pamphlet to a distributor who said the closest he got to a source was a group called the Black Liberation Library, which published it in 1970. That group could not be traced further. {{sun}}"
-    },
-    {
-     "t": "p",
-     "x": "The Sun also found that the St. Louis newspaper that first printed it had no provenance to offer. Its publisher said he did not know whether it was real. {{sun}}"
+     "x": "A reporter traced a ten-page pamphlet to a distributor who said the closest he got to a source was a group called the Black Liberation Library, which published it in 1970. That group could not be traced further, and the St. Louis newspaper that first printed it had no provenance to offer. {{sun}}"
     },
     {
      "t": "p",
@@ -533,44 +646,44 @@
      "head": [
       "Test",
       "What you ask",
-      "What the sources report about this letter"
+      "What the sources report"
      ],
      "rows": [
       [
        "Provenance",
        "Where did it come from, and who held it before it was printed?",
-       "No eighteenth-century manuscript, archive or reference. First printed about 1970 by a group that cannot be traced. It 'appeared' on the Internet and was never discovered by historians (Cobb)."
+       "No eighteenth-century manuscript, archive or reference; first printed about 1970 by a group that cannot be traced {{cobb}} {{sun}}"
       ],
       [
        "Language and anachronism",
        "Could someone in 1712 have written these words?",
-       "Cobb finds words that did not carry their meaning in 1712: 'program' (1837), 'indoctrination' (1832), 'self-refueling' (1811), 'outline' in its modern sense (1759), and a capital-B 'Black'. A researcher quoted by the Sun said the syntax sounds too modern."
+       "'Program' (1837), 'indoctrination' (1832), 'self-refueling' (1811), 'outline' in its modern sense (1759), and a capital-B 'Black' {{cobb}}"
       ],
       [
        "Internal logic",
        "Does it fit the world it describes?",
-       "Cobb notes that most West Indian planters were absentees, and that a single letter could not explain slave policy across many regions, crops and laws. The letter is also credited with the word 'lynching', which has no reference before 1768."
+       "Most West Indian planters were absentees, and one letter could not explain slave policy across many regions, crops and laws {{cobb}}"
       ],
       [
        "Corroboration",
        "Does any independent source mention it or its author?",
-       "Historians the Sun consulted had never met the name in their research. None of our three sources cites any contemporary record of a James River meeting (our reading)."
+       "Historians consulted had never met the name in their research {{sun}}"
       ]
      ],
      "src": "{{cobb}} {{sun}} {{longreads}}"
     },
     {
      "t": "p",
-     "x": "The word 'lynching' has its own history. Cobb says there is no reference to the term before 1768, and that 'Lynch law' came from mob violence against Tories after the American Revolution. Only in the 1880s did lynching become associated with Black victims. {{cobb}}"
+     "x": "The word 'lynching' has its own history. There is no reference to the term before 1768, 'Lynch law' came from mob violence against Tories after the American Revolution, and only in the 1880s did lynching become associated with Black victims. {{cobb}}"
     },
     {
      "t": "example",
      "title": "Worked example: a date test you can run (our arithmetic)",
      "steps": [
-      "The letter claims 1712. Cobb reports the first reference to 'lynching' no earlier than 1768, and 'program' in its modern sense in 1837.",
+      "The letter claims 1712. The first reference to 'lynching' is no earlier than 1768, and 'program' in its modern sense dates from 1837.",
       "1768 minus 1712 is 56 years; 1837 minus 1712 is 125 years.",
-      "A text of 1712 cannot use a word that appears 56 or 125 years later in the senses reported. Several such words together, not one, make the case.",
-      "Verdict: the text fails the language test, and it also fails the provenance test. Rosenzweig is reported as reaching the same view, though we could not open his article and give that only as a secondary report. {{cobb}} {{wiki-lynch}}"
+      "A text of 1712 cannot use words that appear 56 or 125 years later in those senses. Several such words together, not one, make the case.",
+      "Verdict: the text fails the language test, and it also fails the provenance test. {{cobb}} {{wiki-lynch}}"
      ]
     },
     {
@@ -579,84 +692,39 @@
     },
     {
      "t": "p",
-     "x": "Cobb says the letter bypassed the historians and went straight into popular argument, where it became a verbal footnote explaining what is wrong with Black people. His point is that this misreads slavery, and that unity is not the same as unanimity. {{cobb}}"
+     "x": "The letter bypassed the historians and went straight into popular argument, where it became a verbal footnote explaining what is wrong with Black people. That misreads slavery, and unity is not the same as unanimity. {{cobb}}"
     },
     {
      "t": "p",
-     "x": "The St. Louis publisher offered a different reason: the letter seemed to answer how a small number of whites could control many. The historian Gerald Horne called it urban folklore that reduces a complicated history to a simple narrative. {{sun}}"
+     "x": "It seemed to answer how a small number of whites could control many. The historian Gerald Horne called it urban folklore that reduces a complicated history to a simple narrative. {{sun}}"
     },
     {
      "t": "p",
-     "x": "Longreads shows how far it has travelled, from rap lyrics to a 2007 film. It also records the argument that a fake's emotional power does not make it history. {{longreads}}"
+     "x": "It has travelled from rap lyrics to a 2007 film, but a fake's emotional power does not make it history. {{longreads}}"
     },
     {
      "t": "h",
-     "x": "What real evidence shows about divide and rule"
+     "x": "What real records look like"
     },
     {
      "t": "p",
-     "x": "Real documents do exist. Cobb points to a tract, Religious Instruction of the Negroes (Charles C. Jones, Savannah, 1842), written by a proslavery Presbyterian minister, and to the British practice of mixing people of different African ethnicities on slave ships to make communication, and so rebellion, harder. Jones's own book shows the mechanism from the slaveholders' side: he records that the statutes of the slave states forbade teaching enslaved people to read, and that 1830s synods resolved to give instruction only as the laws of the states allowed. He adds that owners could forbid religious meetings on their land and decide who preached there, and that ministers were to avoid any talk of owners' civil condition. All are paraphrased here; Jones was a planter's minister and an author of catechisms for enslaved people, and his account is his own, not neutral history. {{cobb}} {{jones}}"
+     "x": "Real documents exist. A tract, Religious Instruction of the Negroes (Charles C. Jones, Savannah, 1842), by a proslavery Presbyterian minister, records that the statutes of the slave states forbade teaching enslaved people to read, and that owners could forbid religious meetings on their land. Jones's account is his own, not neutral history. {{cobb}} {{jones}}"
     },
     {
      "t": "p",
-     "x": "Eric Foner, as reported by the Sun, said that many books and articles on slave management survive, and that it is hard to see why anyone would invent a document when so much real evidence exists. {{sun}}"
+     "x": "British slavers mixed people of different African ethnicities on ships to make communication, and so rebellion, harder. {{cobb}} Many books and articles on slave management survive, so it is hard to see why anyone would invent a document. {{sun}}"
     },
     {
      "t": "p",
-     "x": "The scale and timing of the Atlantic trade are also documented. The Slave Voyages estimates table gives 12,521,354 people embarked between 1501 and 1866, and 2,560,629 of them in the half-century 1701 to 1750, which includes 1712. {{sv-est}}"
+     "x": "The trade itself is documented in thousands of voyage records: the Slave Voyages estimates table gives 12,521,354 people embarked between 1501 and 1866, as Pre-Colonial Africa Module 8 showed. {{sv-est}}"
+    },
+    {
+     "t": "p",
+     "x": "Records of racial terror after slavery are also real and dated. A compilation of American newspaper reports on lynchings from 1880 to 1960 gives a newspaper, a place and a date for each item, and often a contradicting report. {{gz-press}}"
     },
     {
      "t": "table",
-     "title": "From a fake to real evidence",
-     "head": [
-      "Claim in the myth",
-      "What real sources show",
-      "Where to look"
-     ],
-     "rows": [
-      [
-       "One speech in 1712 set slaveholder policy",
-       "Slavery varied by region, crop, law and period",
-       "Cobb's essay; historians of slavery"
-      ],
-      [
-       "Divide-and-rule was a single plan",
-       "Documented tactics exist, such as mixing ethnic groups on ships and religious instruction tracts",
-       "Cobb's examples; Jones (1842) on literacy laws and church rules; the Slave Voyages database"
-      ],
-      [
-       "The system's effects are known only from this letter",
-       "The trade's scale is estimated from thousands of voyage records",
-       "Slave Voyages estimates (12,521,354 embarked, 1501 to 1866)"
-      ]
-     ],
-     "src": "{{cobb}} {{jones}} {{sv-est}}"
-    },
-    {
-     "t": "example",
-     "title": "Worked example: the share of the trade in the supposed year (our arithmetic)",
-     "steps": [
-      "Embarked, 1701 to 1750: 2,560,629. Embarked, 1501 to 1866: 12,521,354.",
-      "2,560,629 divided by 12,521,354 is about 0.2045, or about 20 per cent.",
-      "So about a fifth of all people embarked in the whole trade were embarked in the half-century around 1712.",
-      "That is a fact about the trade's scale. It tells us nothing about the letter's authenticity, which is why the two questions must be kept apart. {{sv-est}}"
-     ]
-    },
-    {
-     "t": "activity",
-     "x": "Take a quotation you have seen online. Run the four tests on it and write one line for each: provenance, language, internal logic, corroboration."
-    },
-    {
-     "t": "h",
-     "x": "A documented record of racial terror: Ralph Ginzburg's 100 Years of Lynchings"
-    },
-    {
-     "t": "p",
-     "x": "For a record that is real, dated and sourced, read Ginzburg's compilation of American newspaper reports on lynchings from 1880 to 1960. Each item gives the newspaper, a place and a date, and often a contradicting report: for example the burning at Newnan, Georgia, on 23/04/1899 and the Waco, Texas, case of 15/05/1916 are each reported in several papers. Ginzburg says some reports are verbatim and others are rewritten, so it is a compilation, not a transcript. {{gz-press}} The book was published in 1962, during the Civil War centennial (our note). This lesson does not describe the violence."
-    },
-    {
-     "t": "table",
-     "title": "Counts of lynchings differ by compiler",
+     "title": "Real counts differ, but each has a named source",
      "head": [
       "Source",
       "Figure",
@@ -666,82 +734,40 @@
       [
        "Chicago Tribune table, 31/12/1914",
        "205 in 1892; 54 in 1914",
-       "Annual counts from 1885"
+       "Annual counts from 1885 {{gz-tribune}}"
       ],
       [
        "Tuskegee Institute, as reported 26/04/1959",
        "231 in 1892; 4,733 since 1882",
-       "Definition: legal evidence of a death, illegality, three or more participants, a pretext of serving justice, race or tradition"
-      ],
-      [
-       "Southern Commission on the Study of Lynching, 09/11/1931",
-       "3,603 since 1889; fewer than a quarter of victims since 1890 accused of assault on white women",
-       "Two of 21 in 1930 'certainly' innocent and 11 'possibly'"
-      ],
-      [
-       "New York Herald-Tribune, 03/12/1933",
-       "3,745 from 1889 to 1932; 1,406 for homicide against 623 for rape",
-       "At least 80 Black women among the victims"
+       "Defined by legal evidence of a death, illegality, three or more participants {{gz-tuskegee}}"
       ]
      ],
      "src": "{{gz-tribune}} {{gz-tuskegee}}"
     },
     {
      "t": "p",
-     "x": "The totals differ because compilers defined and counted differently, so any total is an [ESTIMATE, CONTESTED], but each is attached to a named source and a date, which is what the Willie Lynch letter lacks. {{gz-tribune}} {{gz-tuskegee}}"
+     "x": "A real forced-labour system built after emancipation, convict leasing, is documented from court, company and federal records: by 1877 every former Confederate state except Virginia leased convicts. {{bm-origins}} A real system leaves records that can be checked; the Willie Lynch letter has no document behind it."
     },
     {
-     "t": "p",
-     "x": "The same book reprints a Washington Tribune item of 01/09/1934 that quotes a Virginia roadside marker: Colonel Charles Lynch held an informal court for Tories, and his brother John Lynch's summary justice gave rise to the term Lynch law. The marker as printed gives 1870, an evident misprint for the Revolutionary period (our inference). This agrees with Cobb's account above, with the limits that it is a press report of a marker and that the book does not discuss the word's history. {{gz-marker}} {{cobb}}"
-    },
-    {
-     "t": "p",
-     "x": "Ginzburg never mentions the letter. A name list cannot prove a negative, so the safest sentence is that the book, a century of press reports, shows a documented history of racial terror that did not need an invented speech to explain it. The book also holds items that tie the diaspora to Africa: a petition of 25/06/1903 asking Congress for 100 million dollars to carry willing Black Americans to Liberia, a Georgia man lynched in 1912 for recruiting settlers for an African colony, a Chicago Defender editorial of 18/12/1915 comparing American lynching with Belgium's cutting off of hands in the Congo, and the silent parade of 28/07/1916 in New York. {{gz-press}}"
+     "t": "activity",
+     "x": "Take a quotation you have seen online. Run the four tests on it and write one line for each: provenance, language, internal logic, corroboration."
     },
     {
      "t": "check",
-     "q": "Why do the lynching counts in different newspapers disagree?",
+     "q": "A friend shares a quotation from a '1712 speech' that uses the word 'program'. Which test does it fail, and why?",
      "o": [
-      "Some papers invented figures.",
-      "Compilers used different definitions and sources, and each attached its figure to a named source.",
-      "Lynching was not recorded.",
-      "All counts are identical."
+      "Provenance, because it is short",
+      "Language and anachronism: 'program' did not carry its modern meaning until 1837",
+      "Corroboration, because it is long",
+      "None"
      ],
      "a": 1,
-     "w": "Tuskegee, the Tribune and the 1931 commission counted differently. {{gz-tuskegee}}"
-    },
-    {
-     "t": "h",
-     "x": "A documented contrast: convict leasing in the US South"
-    },
-    {
-     "t": "p",
-     "x": "For a real forced-labour system built after emancipation, and documented from court, company and federal records, see Douglas Blackmon's Slavery by Another Name. He shows that the Thirteenth Amendment allowed involuntary servitude for convicts, that vagrancy laws followed in the Black Codes, and that by 1877 every former Confederate state except Virginia leased convicts. {{bm-origins}}"
-    },
-    {
-     "t": "p",
-     "x": "His case study is Green Cottenham, arrested on 30/03/1908 in Alabama for vagrancy and leased to a steel subsidiary for 12 dollars a month paid to the county. His own estimate that more than a hundred thousand people were caught in the system is his inference [ESTIMATE]. {{bm-intro}} Federal prosecution of peonage came with the Attorney General's circular of 12/12/1941. {{bm-end}}"
-    },
-    {
-     "t": "callout",
-     "k": "note",
-     "x": "Limits: Blackmon writes about the US South after emancipation, up to the Second World War. He does not discuss Africa, Garvey, Pan-Africanism or the Willie Lynch letter, and the label 'slavery' is his argument, since the system was not lifelong or hereditary. The point of the contrast is method. A real system leaves court records, so a claim about it can be checked, while the Willie Lynch letter has no document behind it. {{bm-intro}}"
+     "w": "A word can date a text. {{cobb}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which test does the word 'program' in the letter fail?",
-     "o": [
-      "Provenance",
-      "Language and anachronism",
-      "Corroboration",
-      "Weather"
-     ],
-     "a": 1,
-     "w": "Cobb reports that the word did not carry its modern meaning until 1837. {{cobb}}"
-    },
-    {
-     "t": "check",
-     "q": "Why is the claim 'it is not real, but it is true in spirit' risky?",
+     "q": "Someone says 'the letter is not real, but it is true in spirit'. Why is that risky?",
      "o": [
       "It is always correct",
       "It treats a fake as evidence and hides the real, documented sources",
@@ -749,20 +775,22 @@
       "It means the letter is authentic"
      ],
      "a": 1,
-     "w": "The Sun reports Foner and Horne saying real evidence is plentiful and that fiction cannot substitute for fact. {{sun}}"
+     "w": "Real evidence is plentiful, and fiction cannot substitute for fact. {{sun}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
       "The Willie Lynch letter is a modern hoax: no provenance, anachronistic language, doubtful logic, no corroboration. {{cobb}} {{sun}} {{longreads}}",
       "Test any document on provenance, language, logic and corroboration.",
-      "Real evidence of divide-and-rule tactics exists and is better history. {{cobb}} {{sv-est}}"
+      "Real records of slavery and racial terror exist, with names and dates. {{sv-est}} {{gz-press}}"
      ]
     }
-   ]
+   ],
+   "id": "l5"
   },
   {
-   "id": "l5",
+   "id": "l6",
    "title": "The lecturer's method: W. E. B. Du Bois",
    "min": 20,
    "blocks": [

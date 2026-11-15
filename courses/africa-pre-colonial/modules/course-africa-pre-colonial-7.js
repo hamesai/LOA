@@ -1,29 +1,124 @@
 /* Pre-Colonial Africa: states, networks and the evidence for them (to c. 1880) (module 7). Block types: _template/TEMPLATE.md. */
 (window.COURSE = window.COURSE || {})["africa-pre-colonial-7"] = {
- "intro": "From Mapungubwe to the Zulu, southern African history was long distorted by colonial and apartheid myths. Source criticism is the main tool for repairing it. Lecturer lens: Vansina's rules for oral sources apply to the James Stuart Archive and to the Shaka stories alike.",
+ "intro": "South of the Zambezi, cattle, copper, gold and ivory built a sequence of states from Mapungubwe to Great Zimbabwe, Mutapa and Rozvi, while herders, hunters and farmers shared the land and, from 1652, met a settler colony at the Cape. In the 19th century came the Zulu kingdom and the upheavals called the mfecane. This is the history most distorted by colonial and apartheid myths, so source criticism is the main tool for repairing it. Lecturer lens: Vansina's rules for oral sources apply to the James Stuart Archive and to the Shaka stories alike.",
  "outcomes": [
-  "Order the southern states without inventing a pedigree.",
-  "Correct the colonial Great Zimbabwe myth.",
-  "Handle Zulu sources of different kinds.",
-  "Weigh the mfecane debate.",
+  "Describe how farmers, herders and hunters shared southern Africa before the states, without the 'great migration' story.",
+  "Date Mapungubwe and Great Zimbabwe with their ranges, and correct the colonial myth.",
+  "Order Torwa, Mutapa, Rozvi and the Maravi, and explain the Portuguese role on the Zambezi.",
+  "Handle Zulu sources of different kinds, and weigh the mfecane debate.",
+  "Explain how the Cape colony grew and what it did to Khoi and San society.",
   "Lecturer's method: Apply the oral-tradition method to Zulu testimony and say what the recording date does to it."
  ],
  "lessons": [
   {
-   "id": "l1",
-   "title": "Mapungubwe and Great Zimbabwe",
+   "title": "Farmers, herders and hunters before the states",
    "min": 24,
    "blocks": [
-    {
-     "t": "p",
-     "x": "South of the Zambezi, cattle, gold and ivory built a sequence of states from Mapungubwe to Great Zimbabwe to Mutapa, and in the 19th century the Zulu kingdom and the upheavals called the mfecane. This is also the story most distorted by colonial and apartheid-era myths, so source criticism is central. {{lib}}"
-    },
     {
      "t": "fig",
      "id": "africa-pre-colonial-tl7",
      "title": "Southern Africa timeline",
      "cap": "Approximate spans. An open end means no firm end date is known."
     },
+    {
+     "t": "p",
+     "x": "Southern Africa is a highland region above 1,500 metres bounded by the Great Escarpment. The Kalahari is more open to ocean influence than the Sahara because the continent is narrower, which makes it less hot. {{gha1-diarra}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "The first farmers"
+    },
+    {
+     "t": "p",
+     "x": "In the first few centuries of our era Late Stone Age hunter-gatherers were replaced over much of the subcontinent by farmers with metallurgy, most likely an advance guard of Bantu-speaking groups from the north-west. There was no Neolithic stage. {{gha1-clark}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "The Bantu arrived by infiltration of small groups, not a sweeping invasion, and the Sotho-Tswana and Nguni languages split within South Africa, with the separation complete by about 1600. {{gha4-south}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "The question of when a 'great migration' from the north happened was the wrong question, partly provoked by white settlers' need to justify taking land. {{gha5-denoon}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "At Phalaborwa copper was mined from at least the eighth century. Stone-walled sites on the Orange Free State grasslands date from at least 1400 to 1450. {{gha4-south}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "p",
+     "x": "Botswana's semi-pastoral communities, with over 150 sites from about 800 to 1300 and manure deposits up to a metre thick, may have declined after 1300 through drier climate, and some herders may have helped create Sotho-Tswana chiefdoms. That is a hypothesis. {{gha4-south}} [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "Herders and hunters"
+    },
+    {
+     "t": "p",
+     "x": "The Khoikhoi spread south from Botswana after about 1300 as pastoralists with cattle and fat-tailed sheep. They were at the Cape by 1488 and killed the Portuguese viceroy Almeida and sixty men at Table Bay in 1510. {{gha4-south}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Khoisan sheep reached the western Cape from about the first century AD and cattle from about the seventh. {{rd-cape}}"
+    },
+    {
+     "t": "p",
+     "x": "Hunters, herders and farmers coexisted and could pass between ways of life, so Khoi herding was not a doomed transitional stage. {{gha5-denoon}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Khoikhoi words make up about 14 per cent of Zulu and 20 per cent of Xhosa vocabulary, and Nguni milking, riding and pack oxen came from them. {{gha4-south}} [PROBABLE]"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "The word 'Hottentot' is derogatory, and 'San' is a Khoikhoi word meaning robbers. {{gha4-south}} Use Khoikhoi (or Khoi) and San with that history in mind."
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Much southern African rock art may be only 2000 to 3000 years old, though the earliest dated paintings, from the Apollo 11 shelter in Namibia, are 28 000 years old. A painting is not evidence of a particular people unless it is dated. {{gha1-clark}} [PROBABLE]"
+    },
+    {
+     "t": "check",
+     "q": "A school text says Bantu-speaking armies swept south and drove out the Khoisan in one great migration. What is the better account?",
+     "o": [
+      "It is right",
+      "Small groups infiltrated over centuries, and farmers, herders and hunters coexisted and exchanged words and skills",
+      "The Khoisan arrived last",
+      "No one moved"
+     ],
+     "a": 1,
+     "w": "Khoikhoi words in Zulu and Xhosa show long contact. {{gha4-south}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "Zulu has about 14 per cent Khoikhoi vocabulary. What does that suggest?",
+     "o": [
+      "Nothing",
+      "Long, close contact between Nguni farmers and Khoikhoi herders",
+      "That Zulu is a Khoisan language",
+      "That the Khoikhoi arrived after 1800"
+     ],
+     "a": 1,
+     "w": "Borrowed words show contact, not descent. {{gha4-south}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Farmers arrived by infiltration, not one invasion. {{gha4-south}}",
+      "Herders, hunters and farmers coexisted and borrowed from each other. {{gha5-denoon}}",
+      "Date rock art before tying it to any people."
+     ]
+    }
+   ],
+   "id": "l1"
+  },
+  {
+   "title": "Mapungubwe and Great Zimbabwe",
+   "min": 28,
+   "blocks": [
     {
      "t": "h",
      "x": "Mapungubwe"
@@ -46,86 +141,161 @@
     },
     {
      "t": "p",
-     "x": "Great Zimbabwe lies in south-eastern Zimbabwe. Stone enclosures were built mostly between the 12th and 15th centuries [PROBABLE] by ancestors of the Shona. The Great Enclosure's outer wall stands up to about 11 m. Population estimates of roughly 10,000 to 20,000 at peak are [CONTESTED]. {{britannica-zimbabwe}} {{met-zimbabwe}} {{ourearth-zimbabwe}}"
+     "x": "Great Zimbabwe lies in south-eastern Zimbabwe. Stone enclosures were built mostly between the 12th and 15th centuries [PROBABLE] by ancestors of the Shona. Population estimates of roughly 10,000 to 20,000 at peak are [CONTESTED]. {{britannica-zimbabwe}} {{met-zimbabwe}} {{ourearth-zimbabwe}}"
     },
     {
      "t": "p",
-     "x": "Gold and ivory moved to Sofala and Kilwa, and imported Chinese and Persian ceramics and glass beads are found. Abandonment in the 15th century is attributed to resource pressure and a shift of power north. {{gha4-zimb}}"
+     "x": "Stone walls date from the thirteenth century and the Great Enclosure from the century after, with an average wall height of 7.3 m and a thickness of 5.5 m at the base. About 150 such ruins are known in the Zimbabwe-Limpopo granite country. {{gha4-zimb}}"
     },
     {
      "t": "table",
-     "title": "Mapungubwe and Great Zimbabwe side by side",
+     "title": "Dating the southern stone states: five readings",
      "head": [
-      "",
+      "Source",
       "Mapungubwe",
       "Great Zimbabwe"
      ],
      "rows": [
       [
-       "Dates",
-       "K2 c. 1000 to 1220; hill c. 1220 to 1290",
-       "Stone building mostly 12th to 15th centuries"
+       "Huffman's revised sequence",
+       "K2 about 1000 to 1220; hill about 1220 to 1290 {{whc-mapungubwe}}",
+       "Mostly 12th to 15th centuries {{britannica-zimbabwe}}"
       ],
       [
-       "Wealth",
-       "Gold, glass beads, cattle",
-       "Gold, ivory, imported ceramics and beads"
+       "Reader",
+       "Hill-top burials by the early 12th century; fading about 1250 {{rd-zim}}",
+       "Built between 1275 and 1550 {{rd-zim}}"
       ],
       [
-       "Decline",
-       "Climate, shifting trade, or both [CONTESTED]",
-       "Resource pressure; shift of power north"
+       "Bhila (1992)",
+       "Not covered",
+       "Great Zimbabwe culture 1200 to 1450 {{gha5-zambezia}}"
       ],
       [
-       "Contested figure",
-       "Dates revised by Huffman",
-       "Population 10,000 to 20,000"
+       "Chirikure and colleagues (2014)",
+       "K2 phase at Mapela Hill begins 1055 to 1219 CE {{chirikure}}",
+       "1300 to 1450 CE {{chirikure}}"
+      ],
+      [
+       "Fagan (1984)",
+       "Rulers on the hill in the fifteenth century: superseded {{gha4-zimb}}",
+       "Walls from the 13th century"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{whc-mapungubwe}} {{rd-zim}} {{chirikure}}"
+    },
+    {
+     "t": "p",
+     "x": "The 2014 Mapela Hill paper argues that the chain from K2 to Mapungubwe to Great Zimbabwe is too linear, and that the Zimbabwe culture grew in many linked places, not one cradle. It rests on nine dates from one trench, so treat it as a strong challenge, not a settled result. {{chirikure}} [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "Why did Great Zimbabwe rise?"
+    },
+    {
+     "t": "p",
+     "x": "All serious scholars now see Great Zimbabwe as an essentially African development; the origin of the organisation behind it remains uncertain. {{gha4-zimb}} [PROBABLE]"
+    },
+    {
+     "t": "table",
+     "title": "Explanations of Great Zimbabwe's rise",
+     "head": [
+      "Explanation",
+      "Evidence",
+      "Status"
+     ],
+     "rows": [
+      [
+       "Religion",
+       "Shona immigrants and the Mwari cult at the centre {{gha4-zimb}}",
+       "[CONTESTED]"
+      ],
+      [
+       "Trade",
+       "Imported Syrian glass, Persian faience and Chinese celadon; a coin of al-Hasan ibn Sulayman of Kilwa found at the site {{gha4-zimb}}",
+       "[CONTESTED]"
+      ],
+      [
+       "Cattle first, gold later",
+       "Wealth began with cattle on the tsetse-free plateau; control of the gold trade came a century or two later {{gha4-trade}} {{rd-zim}}",
+       "Most historians' view [PROBABLE]"
+      ]
+     ],
+     "src": "{{gha4-zimb}} {{gha4-trade}}"
+    },
+    {
+     "t": "p",
+     "x": "Fagan rejects any single cause. {{gha4-zimb}} Gold and ivory moved to Sofala and Kilwa, and imported ceramics and glass beads are found. {{gha4-zimb}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Southern gold output is put at about 9 to 10 tons a year on Summers's estimate, to be treated with caution. A claim in the same volume that several thousand tons a year went north has no source, so do not use it. {{gha4-trade}} {{gha4-inter}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "h",
+     "x": "Why was it abandoned?"
+    },
+    {
+     "t": "p",
+     "x": "Abandonment in the 15th century is attributed to exhausted farm land and grazing around a large non-farming centre, and a shift of power north and south under the Rozwi and the first Mwene Mutapa. That is a likely explanation, not a finding. {{gha4-zimb}} [CONTESTED] Falling gold output is another. {{gha5-zambezia}}"
+    },
+    {
+     "t": "p",
+     "x": "Social inequality shows elsewhere too: at Ingombe Ilede in Zambia, eleven rich burials of about 1400, with gold, copper wire tools and imported beads, lie beside 31 poor burials. {{gha4-zimb}} [THIN EVIDENCE]"
     },
     {
      "t": "check",
-     "q": "Why is Mapungubwe called southern Africa's first state-level society?",
+     "q": "A label says Great Zimbabwe was 'built in 1450 by a gold-trading king'. What is wrong?",
      "o": [
-      "Because it had Roman roads",
-      "Because of elite hilltop occupation, gold, glass beads and cattle wealth [PROBABLE]",
-      "Because of Portuguese records",
-      "Because Shaka built it"
+      "Nothing",
+      "The walls date from the 13th century and the site was in decline by the mid-15th century; cattle wealth probably came before gold",
+      "It was built by Portugal",
+      "It was built in 1950"
      ],
      "a": 1,
-     "w": "That is the usual description. {{lib}}"
+     "w": "Fit the claim to the date ranges and the causes. {{gha4-zimb}} {{gha5-zambezia}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What is the status of the Great Zimbabwe population estimate?",
+     "q": "Four sources date Great Zimbabwe between about 1200 and 1550. How should a lesson present this?",
      "o": [
-      "Firm",
-      "Contested: 10,000 to 20,000 at peak",
-      "Disproved",
-      "Traditional date"
+      "Pick one",
+      "Give the range with the sources, and tag it [PROBABLE]",
+      "Average them",
+      "Say it is undated"
      ],
      "a": 1,
-     "w": "It should not be dated or counted precisely. {{lib}}"
+     "w": "Show the range and who gives which dates. {{rd-zim}} {{chirikure}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Mapungubwe and Great Zimbabwe are African-built, trade-linked stone and gold societies. {{lib}}",
-      "Both declines are explained by more than one factor.",
-      "Population figures are contested."
+      "Mapungubwe and Great Zimbabwe are African-built, trade-linked societies. {{gha4-zimb}}",
+      "Dates differ by source; keep the range. {{chirikure}}",
+      "Rise and fall had several causes; single-cause stories fail."
      ]
     }
-   ]
+   ],
+   "id": "l2"
   },
   {
-   "id": "l2",
-   "title": "The colonial myth, Mutapa, Torwa and Rozvi",
-   "min": 24,
+   "title": "The colonial myth, and the Zambezi states",
+   "min": 28,
    "blocks": [
+    {
+     "t": "h",
+     "x": "A confiscated past"
+    },
     {
      "t": "p",
      "x": "Karl Mauch (1871) and Theodore Bent (1891) imagined Phoenician or Queen-of-Sheba builders for Great Zimbabwe. Cecil Rhodes's company looted the site. David Randall-MacIver (1905) and Gertrude Caton-Thompson (1929) showed the builders were Africans. {{sciam-zimbabwe}} {{ourearth-zimbabwe}} {{shillington-zimbabwe}}"
+    },
+    {
+     "t": "p",
+     "x": "Arab influence is almost impossible to detect; the conical tower is the one element with no known African parallel. {{gha4-zimb}}"
     },
     {
      "t": "p",
@@ -166,27 +336,75 @@
        "Country named Zimbabwe"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{sciam-zimbabwe}} {{ourearth-zimbabwe}}"
     },
     {
      "t": "h",
-     "x": "Mutapa, Torwa and Rozvi"
+     "x": "Torwa and Mutapa"
     },
     {
      "t": "p",
-     "x": "Mutapa emerged in the 15th century on the northern plateau under Nyatsimba Mutota and Matope [TRADITIONAL DATE]; the ruler's title was Mwene Mutapa. Portuguese traders and Jesuits arrived in the 16th century, and the Jesuit Gonçalo da Silveira was killed in 1561. Portugal gained influence through treaties (1629) but never conquered the plateau. {{worldhistory-mutapa}} {{academicjournals-mutapa}}"
+     "x": "Mutapa emerged in the 15th century on the northern plateau under Nyatsimba Mutota and Matope [TRADITIONAL DATE]; the ruler's title was Mwene Mutapa. {{worldhistory-mutapa}} {{academicjournals-mutapa}} Records for the region from 1500 to 1800 are scarce and mostly Portuguese. {{gha5-zambezia}}"
     },
     {
      "t": "p",
-     "x": "Khami, which is UNESCO-listed, was the Torwa capital. In the 1680s Changamire Dombo's Rozvi state overthrew Torwa power and ejected the Portuguese from the plateau. Rozvi power lasted until Nguni incursions in the 1830s. {{wiki-khami}} {{wiki-rozvi}} {{africanhistoryextra-rozvi}}"
+     "x": "The Torwa state, with capitals at Khami and Danangombe, copied Great Zimbabwe's style, with almost all its prestige stone building before 1650. {{gha5-zambezia}} Khami is UNESCO-listed. {{wiki-khami}}"
+    },
+    {
+     "t": "p",
+     "x": "Mutapa held the plateau and part of the Zambezi valley by the early sixteenth century, but Manyika, Uteve, Barwe and Danda split away. Rulers controlled chiefs by annual rekindling of royal fires, spirit mediums and tribute. {{gha5-zambezia}} [PROBABLE]"
+    },
+    {
+     "t": "h",
+     "x": "The Portuguese on the Zambezi"
+    },
+    {
+     "t": "p",
+     "x": "The Portuguese built a fortress at Sofala in 1506 and posts at Sena and Tete in 1531, replacing the earlier Swahili bazaars. They regularised trade with the Mutapa in 1540, gaining passage in return for a tribute called the curva. {{gha5-zambezia}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "The Jesuit Gonçalo da Silveira was killed in 1561. {{worldhistory-mutapa}} Gatsi Rusere ceded mines by a treaty of 1607, and in 1629 Mavura accepted a treaty of vassalage that ended the curva. {{gha5-zambezia}}"
+    },
+    {
+     "t": "p",
+     "x": "The prazo system of Portuguese estates worked by chikunda slave armies followed. Whether prazos became fully Africanised is [CONTESTED]. {{gha5-zambezia}}"
+    },
+    {
+     "t": "p",
+     "x": "Gold was mostly panned between August and October. War and Portuguese trading abuses, besides reaching the water table, helped end seventeenth-century gold output. {{gha5-zambezia}} [CONTESTED]"
+    },
+    {
+     "t": "h",
+     "x": "The Rozvi"
+    },
+    {
+     "t": "p",
+     "x": "Changamire Dombo I rose between 1684 and 1695, expelled the Portuguese from Maungwe in 1684, from the plateau in 1693 and from Manyika in 1695, and gave the Rozvi their name from kurozva, to destroy. {{gha5-zambezia}} [TRADITIONAL DATE]"
+    },
+    {
+     "t": "p",
+     "x": "Rozvi military 'invincibility' is exaggerated: the Portuguese were stretched by the Omani siege of Fort Jesus and by disunited prazeros. {{gha5-zambezia}} Rozvi power lasted until Nguni incursions in the 1830s. {{wiki-rozvi}}"
+    },
+    {
+     "t": "h",
+     "x": "North of the Zambezi: the Maravi"
+    },
+    {
+     "t": "p",
+     "x": "Before 1500 the Lake Malawi region was mostly stateless, linked by shared rain cults. The Maravi arrived from the Luba country, with radiocarbon dates of 1420 to 1480 on their sites, and by the early seventeenth century a confederation covered eastern Zambia, central and southern Malawi and northern Mozambique. How the Maravi state formed is not understood. {{gha5-malawi}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "The Portuguese hired thousands of Maravi warriors, for example 4,000 in 1608 for Gatsi Rusere's campaign. The eighteenth century was the ivory century and the nineteenth the slave century, as Kilwa's slave trade grew from the 1770s. {{gha5-malawi}} [PROBABLE]"
     },
     {
      "t": "example",
      "title": "Worked example: testing a sequence",
      "steps": [
       "Mapungubwe to Great Zimbabwe to Mutapa is often taught as a chain.",
-      "Mapungubwe's decline c. 1300 and Great Zimbabwe's rise overlap, which fits a shift of trade power. Great Zimbabwe's decline c. 1450 overlaps with Mutapa's rise, which fits a move of power north.",
-      "But direct descent of one state from another is [CONTESTED]. Archaeologists describe linked traditions, not a proven line of kings. {{springer-khami}}"
+      "Mapungubwe's decline c. 1300 and Great Zimbabwe's rise overlap, which fits a shift of trade power. Great Zimbabwe's decline after about 1450 overlaps with Mutapa's and Torwa's rise.",
+      "But direct descent of one state from another is [CONTESTED]: archaeologists describe linked traditions, and one study argues for many centres at once. {{springer-khami}} {{chirikure}}"
      ]
     },
     {
@@ -204,38 +422,120 @@
     },
     {
      "t": "check",
-     "q": "What overthrew Torwa power in the 1680s?",
+     "q": "A history credits the Rozvi's 1690s victories wholly to their invincible army. What context is missing?",
      "o": [
-      "The Zulu",
-      "Changamire Dombo's Rozvi state",
-      "Portugal",
-      "Britain"
+      "None",
+      "The Portuguese were stretched by the Omani siege of Fort Jesus and by disunited prazeros",
+      "The Rozvi had guns from Britain",
+      "The Mutapa helped them"
      ],
      "a": 1,
-     "w": "Rozvi also ejected the Portuguese from the plateau. {{wiki-rozvi}}"
+     "w": "Weigh the enemy's weakness as well as the victor's strength. {{gha5-zambezia}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "The Sheba and Phoenician claims were colonial myths. {{lib}}",
-      "Mapungubwe, Great Zimbabwe, Mutapa are linked traditions, not a proven line of kings.",
-      "Portugal never conquered the Mutapa plateau."
+      "The Sheba and Phoenician claims were colonial myths, answered by 1929. {{sciam-zimbabwe}}",
+      "Torwa, Mutapa and Rozvi are linked traditions, not one line of kings.",
+      "Portugal gained treaties and prazos but never conquered the plateau, and was expelled in 1693 to 1695."
      ]
     }
-   ]
+   ],
+   "id": "l3"
   },
   {
-   "id": "l3",
-   "title": "Shaka, Dingane and the Zulu kingdom",
-   "min": 24,
+   "title": "The Cape colony and the frontier, 1652 to 1800",
+   "min": 20,
    "blocks": [
     {
      "t": "p",
-     "x": "Shaka (born c. 1787, a [CONTESTED] date) took leadership of the Zulu chiefdom c. 1816 with the backing of Dingiswayo of the Mthethwa, and defeated Zwide of the Ndwandwe in 1818. {{sahistory-shaka}} {{britannica-shaka}}"
+     "x": "The Dutch East India Company's Cape began in 1652 as a provisioning post and expanded as commercial pastoralism that destroyed Khoi and San society and relied on slaves. {{gha5-denoon}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "About 50,000 Khoisan lived in the south-western Cape when the Dutch landed in 1652, moving on seasonal herding circuits. In a revolt in 1659 Khoisan leaders asked who was the natural owner of the land. {{rd-cape}}"
+    },
+    {
+     "t": "p",
+     "x": "Commandos killed 2,480 Khoisan between 1786 and 1795 in the official count. {{rd-cape}} These are colonial records, written by the side that took the land, so tag them [PROBABLE] and state the source."
+    },
+    {
+     "t": "p",
+     "x": "Portuguese Mozambique was a seaborne empire of middlemen with prazos like feudal manors; the Dutch Cape was a settler colony. {{gha5-denoon}} Compare them: one ruled through trade and estates, the other took the land itself (our inference)."
+    },
+    {
+     "t": "h",
+     "x": "The eastern frontier"
+    },
+    {
+     "t": "p",
+     "x": "The Xhosa and Khoi interpenetrated, with groups such as the Gonaqua absorbed into Xhosa society. {{gha5-denoon}} Maize was adopted in the eighteenth century, and there was no serious land pressure among Xhosa speakers by 1800. {{gha5-denoon}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Xhosa rivalries followed Phalo's death in 1775. The northern Nguni confederacies that led to the Zulu state arose independently of Cape events. {{gha5-denoon}}"
+    },
+    {
+     "t": "p",
+     "x": "Frontier Kora, Griqua and Nama societies formed on the Orange River, and a Khoi revolt began in 1799 after Britain took the Cape in 1795. {{gha5-denoon}} [PROBABLE]"
+    },
+    {
+     "t": "check",
+     "q": "A source counts 2,480 Khoisan killed by commandos in 1786 to 1795. How should you use the figure?",
+     "o": [
+      "As an exact total",
+      "As an official colonial count, kept by the side that did the killing, so probably a minimum",
+      "As exaggerated by the Khoisan",
+      "As fiction"
+     ],
+     "a": 1,
+     "w": "Name the source and its interest. {{rd-cape}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "An essay links the rise of the Zulu state to pressure from the Cape colony. What does the evidence on the northern Nguni say?",
+     "o": [
+      "It is proved",
+      "The northern Nguni confederacies arose independently of Cape events",
+      "The Cape founded the Zulu state",
+      "There was no Zulu state"
+     ],
+     "a": 1,
+     "w": "The northern Nguni developments had their own causes. {{gha5-denoon}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "The Cape grew from a provisioning post into a settler colony on Khoi land. {{gha5-denoon}}",
+      "Colonial counts come from the side that took the land. {{rd-cape}}",
+      "The Xhosa and Khoi interpenetrated on the frontier."
+     ]
+    }
+   ],
+   "id": "l4"
+  },
+  {
+   "title": "Shaka and the Zulu kingdom",
+   "min": 26,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Shaka (born c. 1787, a [CONTESTED] date) took leadership of the Zulu chiefdom c. 1816 with the backing of Dingiswayo of the Mthethwa. {{sahistory-shaka}} {{britannica-shaka}} Shaka defeated Zwide of the Ndwandwe in 1819 and 1820. {{gha6-mfecane}}"
     },
     {
      "t": "p",
      "x": "His reputed innovations are a short stabbing spear, the buffalo horns formation and age-regiments called amabutho. They are real in outline but their attribution to Shaka alone is [CONTESTED]. He was killed in 1828 by his half-brothers Dingane and Mhlangana. {{britannica-shaka}} {{sahistory-shaka}}"
+    },
+    {
+     "t": "p",
+     "x": "The regiments and the control of initiation were already general before Shaka: Dingiswayo, Zwide and Sobhuza all built on Sotho-Tswana practice. Shaka kept regiments in barracks and often wiped out the ruling elites of the groups he conquered. {{gha6-mfecane}}"
+    },
+    {
+     "t": "p",
+     "x": "Shaka is the plainest case of a leader who forged a nation in combat, and also of the check on tyranny in African politics: people could secede and move away, as happened at the end of his career. {{gha1-hama}} [CONTESTED]"
     },
     {
      "t": "h",
@@ -255,11 +555,15 @@
     },
     {
      "t": "p",
-     "x": "The James Stuart Archive holds oral testimonies recorded from Zulu elders in the early 20th century. Magema Fuze wrote an isiZulu history around 1900, with an English translation in 1979. Mazisi Kunene's epic poem Emperor Shaka the Great is a Zulu literary retelling. {{lib}}"
+     "x": "South Africa has no African-written sources before the nineteenth century, so early records are European. Isaacs and Fynn, the early observers, were untrained, rarely accurate and lacking objectivity about non-whites. Zulu oral traditions collected in the 1880s were published later by A. T. Bryant, whose book must be used with caution. {{gha1-hrbek}} [PROBABLE]"
     },
     {
      "t": "p",
-     "x": "Early English accounts by Fynn and Isaacs were by traders with interests and cannot be taken at face value. {{lib}}"
+     "x": "Letters from Dingaan, Cetshwayo and Mzilikazi to colonial authorities, and vernacular newspapers such as Isidigimi (1870 to 1880), give African voices. {{gha1-hrbek}}"
+    },
+    {
+     "t": "p",
+     "x": "Stories about wars are often attached to a stereotyped warrior king whose deeds were partly done by others, so the oral account of Shaka's personal role needs written anchors. {{gha1-vansina}} [PROBABLE]"
     },
     {
      "t": "table",
@@ -276,43 +580,54 @@
        "Valuable; recorded decades after the events"
       ],
       [
+       "Bryant",
+       "Traditions collected in the 1880s, published later",
+       "Use with caution {{gha1-hrbek}}"
+      ],
+      [
        "Magema Fuze",
        "African-authored isiZulu history, c. 1900",
        "Valuable; internal view"
       ],
       [
-       "Mazisi Kunene",
-       "Literary epic",
-       "Retelling, not evidence of events"
+       "Kings' letters to colonial authorities",
+       "Correspondence",
+       "African voices, written for a purpose {{gha1-hrbek}}"
       ],
       [
        "Fynn, Isaacs",
        "Trader accounts",
-       "Interested; do not take at face value"
+       "Interested and inaccurate; do not take at face value {{gha1-hrbek}}"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha1-hrbek}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Some textbooks date Isandlwana to 1876. The battle was on 22/01/1879, so check dates against a second source. {{britannica-isandlwana}}"
     },
     {
      "t": "example",
      "title": "Worked example: arithmetic on the Anglo-Zulu War (our arithmetic)",
      "steps": [
       "Isandlwana was on 22/01/1879 and Ulundi on 04/07/1879.",
-      "From 22 January to 4 July: January has 9 days left after the 22nd (31 minus 22), then 28 days in February, 31 in March, 30 in April, 31 in May, 30 in June, and 4 in July. 9 plus 28 plus 31 plus 30 plus 31 plus 30 plus 4 is 163 days.",
-      "So Ulundi followed Isandlwana by 163 days, about five and a half months. 1879 is not a leap year, so February has 28 days. {{lib}}"
+      "From 22 January to 4 July: 9 days left in January (31 minus 22), then 28 in February, 31 in March, 30 in April, 31 in May, 30 in June and 4 in July. 9 plus 28 plus 31 plus 30 plus 31 plus 30 plus 4 is 163 days.",
+      "So Ulundi followed Isandlwana by 163 days, about five and a half months. 1879 is not a leap year."
      ]
     },
     {
      "t": "check",
-     "q": "What is the status of the claim that Shaka alone invented the amabutho and the buffalo horns?",
+     "q": "A website says Shaka invented the regiment system. What is the better claim?",
      "o": [
-      "Firm",
-      "Real in outline but attribution to Shaka alone is contested",
-      "Disproved",
-      "A traditional date"
+      "Shaka invented everything",
+      "He extended and sharpened a regiment system already used by Dingiswayo, Zwide and the Sotho-Tswana",
+      "He invented guns",
+      "He invented nothing"
      ],
      "a": 1,
-     "w": "The innovations are real in outline. {{lib}}"
+     "w": "He built on a regional practice. {{gha6-mfecane}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -330,75 +645,123 @@
     {
      "t": "take",
      "i": [
-      "Shaka's birth date and many deeds are contested. {{lib}}",
+      "Shaka built on existing regiments; his birth date and many deeds are contested. {{gha6-mfecane}}",
       "Anglo-Zulu War battles: Isandlwana 22/01/1879, Ulundi 04/07/1879.",
-      "Trader accounts of Shaka are interested sources."
+      "Trader accounts of Shaka are interested and inaccurate. {{gha1-hrbek}}"
      ]
     }
-   ]
+   ],
+   "id": "l5"
   },
   {
-   "id": "l4",
    "title": "The mfecane debate and the new states",
    "min": 28,
    "blocks": [
     {
      "t": "p",
-     "x": "The term mfecane, or difaqane, names a period of wars and migrations c. 1815 to 40 across southern Africa. Julian Cobbing (1988) argued it was an alibi: that slave raiding from Delagoa Bay and the Cape frontier caused much of the violence and that the empty land story let settlers claim territory. {{umlalazi-kings}} {{wiki-rozvi}}"
-    },
-    {
-     "t": "p",
-     "x": "Others, including Eldredge and Hamilton, accept a mix of drought, ivory trade, population pressure and state-building [CONTESTED]. The modern consensus: Shaka was one cause among several, and deaths and depopulation were exaggerated in older accounts. {{lib}}"
+     "x": "The term mfecane, or difaqane, names a period of wars and migrations c. 1815 to 40 across southern Africa. {{umlalazi-kings}}"
     },
     {
      "t": "h",
-     "x": "New states from upheaval"
-    },
-    {
-     "t": "ul",
-     "i": [
-      "Moshoeshoe I gathered refugees at Thaba Bosiu to found the Basotho kingdom, from the 1820s.",
-      "Mzilikazi's Ndebele moved to what is now Zimbabwe in 1838 to 40.",
-      "Sobhuza consolidated the Swazi.",
-      "Zwangendaba led a Ngoni migration north."
-     ]
+     "x": "Causes: four accounts"
     },
     {
      "t": "table",
-     "title": "Arguments on the claim that Shaka caused the mfecane",
+     "title": "Accounts of the upheavals of 1816 to 1840",
      "head": [
-      "For",
-      "Against"
+      "Account",
+      "Cause",
+      "Evidence and weakness"
      ],
      "rows": [
       [
-       "Zulu expansion displaced neighbours such as the Ndwandwe and Ngwane, who in turn migrated",
-       "Drought and famine pre-dating Shaka"
+       "Zulu-centred story (Omer-Cooper)",
+       "Shaka's state, under drought and population pressure, drove refugees outward {{rd-fron}}",
+       "Traders' accounts written afterwards; Zululand surveys show no general ecological crisis {{rd-fron}}"
       ],
       [
-       "",
-       "Ivory and slave trade from Delagoa Bay"
+       "Several internal causes (Ngcongco)",
+       "Population growth after maize, a drought called Madlathule of uncertain date, competition for the Delagoa Bay trade, and rulers' control of production through age-regiments {{gha6-mfecane}}",
+       "Does not discuss the slaving revision"
       ],
       [
-       "",
-       "Cobbing's critique; exaggeration of depopulation"
+       "The 'alibi' (Cobbing, 1988)",
+       "Slave raiding from Delagoa Bay and the Cape frontier caused much of the violence; the empty-land story let settlers claim territory {{umlalazi-kings}}",
+       "Influential but contested"
+      ],
+      [
+       "Slaving thesis (Reader's later chapter)",
+       "Illegal slave trading from Delagoa Bay, taking at least 1,000 and perhaps 6,000 men a year from about 1818, plus frontier labour raids {{rd-zulu}}",
+       "Portuguese and Mauritius records; 'not yet proven' {{rd-zulu}}"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha6-mfecane}} {{rd-zulu}}"
+    },
+    {
+     "t": "p",
+     "x": "Others, including Eldredge and Hamilton, accept a mix of drought, ivory trade, population pressure and state-building [CONTESTED]. The modern consensus is that Shaka was one cause among several, and that deaths and depopulation were exaggerated in older accounts. {{lib}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "One survey book offers a drought-and-overpopulation cause in one chapter and rejects it for Zululand in two later chapters, which favour the slaving thesis. {{rd-clim}} {{rd-zulu}} A book that changes its case is a reminder that the debate is live: say which reading you follow and why."
+    },
+    {
+     "t": "h",
+     "x": "A test case: Dithakong, 1823"
+    },
+    {
+     "t": "p",
+     "x": "At Dithakong in 1823 the missionaries Moffat and Melvill reported repelling an invading horde of 30,000 or more, while the archives show a displaced group of about 2,000 and a massacre. {{rd-zulu}}"
     },
     {
      "t": "example",
      "title": "Worked example: what evidence would shift your view",
      "steps": [
-      "Dating of migrations: if the displacements began before 1816, the case against Shaka as sole cause strengthens.",
+      "Dating of migrations: if displacements began before 1816, the case against Shaka as sole cause strengthens.",
       "Oral testimony: who remembers what, and when it was recorded.",
-      "Portuguese and Cape records of raiding: whether raiding preceded Zulu expansion. {{lib}}"
+      "Portuguese and Cape records: whether raiding preceded Zulu expansion.",
+      "Dithakong: a reported horde of 30,000 turns out to be about 2,000 refugees, which shows how much the 'invasion' picture can inflate (our application). {{rd-zulu}}"
      ]
+    },
+    {
+     "t": "h",
+     "x": "New states from the upheaval"
+    },
+    {
+     "t": "table",
+     "title": "States born in the mfecane",
+     "head": [
+      "Kind of state",
+      "Examples",
+      "How they held together"
+     ],
+     "rows": [
+      [
+       "Aggressive and militarist",
+       "Zulu, Ndebele, Gaza, Zwangendaba's Ngoni",
+       "Barracks, tribute raids, age-regiments that absorbed conquered youths {{gha6-mfecane}}"
+      ],
+      [
+       "Defensive",
+       "Lesotho under Moshoeshoe, Swaziland under Sobhuza, the Kololo under Sebetwane",
+       "Mountain forts, marriage alliances, local autonomy, missionaries and guns {{gha6-mfecane}}"
+      ]
+     ],
+     "src": "{{gha6-mfecane}}"
+    },
+    {
+     "t": "p",
+     "x": "Moshoeshoe built Lesotho from refugees at Thaba Bosiu from 1824, beat the Ngwane in 1827, asked Britain to annex his country to keep it from the Orange Free State and died in 1870. {{gha6-mfecane}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Mzilikazi's Ndebele grew from a Khumalo chiefdom to a kingdom of about 20,000 soldiers; after 1837 he moved north, built Bulawayo, and died in 1868. {{gha6-mfecane}} [PROBABLE]"
     },
     {
      "t": "callout",
      "k": "warn",
-     "x": "Do not repeat Shaka stories of cruelty and tactics from trader accounts as fact, and do not accept the empty land story. {{lib}}"
+     "x": "Do not repeat Shaka stories of cruelty and tactics from trader accounts as fact, and do not accept the empty-land story. {{gha1-hrbek}}"
     },
     {
      "t": "check",
@@ -410,40 +773,40 @@
       "Shaka's own"
      ],
      "a": 1,
-     "w": "His 1988 critique. {{lib}}",
+     "w": "His 1988 critique is one of several accounts. {{umlalazi-kings}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "A documentary says Shaka alone caused the mfecane. What is the better sentence?",
+     "q": "Missionaries report a horde of 30,000 attackers; archives show about 2,000 displaced people. What lesson does Dithakong teach?",
      "o": [
-      "Keep it",
-      "Shaka was one cause among several, and depopulation was exaggerated",
-      "Shaka had no role",
-      "Shaka was a minor trader"
+      "Missionaries are always right",
+      "Eyewitnesses with an interest can inflate threats; check against other records",
+      "Archives are always wrong",
+      "Both numbers are true"
      ],
      "a": 1,
-     "w": "Depopulation was also exaggerated. {{lib}}",
+     "w": "Compare reports with the records. {{rd-zulu}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "The mfecane is contested: drought, ivory, slaving and state-building all matter. {{lib}}",
-      "Moshoeshoe, Mzilikazi, Sobhuza and Zwangendaba built new states.",
-      "Be wary of empty land stories."
+      "The mfecane had several causes; Shaka was one of them [CONTESTED]. {{gha6-mfecane}}",
+      "Militarist and defensive states both rose from the upheaval.",
+      "Beware 'empty land' and 'invading horde' stories."
      ]
     }
-   ]
+   ],
+   "id": "l6"
   },
   {
-   "id": "l5",
-   "title": "Practice: apartheid-era myths and a dating check",
+   "title": "Practice: myths, sources and a dating check",
    "min": 22,
    "blocks": [
     {
      "t": "p",
-     "x": "Module 7 uses source criticism to repair myths. These cases practise it. {{lib}}"
+     "x": "This module uses source criticism to repair myths. These cases practise it."
     },
     {
      "t": "table",
@@ -460,33 +823,35 @@
        "Randall-MacIver 1905 and Caton-Thompson 1929 showed African builders"
       ],
       [
-       "Southern Africa was an empty land",
-       "Settler claims",
-       "The mfecane debate shows the empty land story was an alibi, according to Cobbing"
+       "A 'great migration' from the north filled an empty land",
+       "Settler histories",
+       "Small groups infiltrated, and farmers, herders and hunters coexisted {{gha4-south}}"
+      ],
+      [
+       "The Rozvi army was invincible",
+       "Tradition",
+       "The Portuguese were stretched elsewhere {{gha5-zambezia}}"
       ],
       [
        "Shaka invented everything military",
        "Trader accounts",
-       "Real in outline, attribution to Shaka alone contested"
+       "He built on an existing regiment system {{gha6-mfecane}}"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha4-south}} {{gha6-mfecane}}"
     },
     {
      "t": "p",
-     "x": "A dating check on the 1838 and 1879 events: from Blood River on 16/12/1838 to Isandlwana on 22/01/1879 is about 40 years and 5 weeks. Count it: from 16/12/1838 to 16/12/1878 is 40 years, then 16/12/1878 to 22/01/1879 is 15 days left in December plus 22 in January, which is 37 days. This is our arithmetic. {{lib}}"
+     "x": "A dating check: from Blood River on 16/12/1838 to Isandlwana on 22/01/1879 is 40 years to 16/12/1878, then 15 days left in December plus 22 in January, which is 37 days. So the gap is 40 years and 37 days (our arithmetic)."
     },
     {
-     "t": "check",
-     "q": "Who corrected the myth that Phoenicians built Great Zimbabwe?",
-     "o": [
-      "Randall-MacIver and Caton-Thompson",
-      "Mauch and Bent",
-      "Cobbing",
-      "Rhodes"
-     ],
-     "a": 0,
-     "w": "Their excavations of 1905 and 1929. {{ourearth-zimbabwe}}"
+     "t": "example",
+     "title": "Worked example: a testimony card",
+     "steps": [
+      "A testimony about Shaka, who died in 1828, is recorded in 1905. The gap is 1905 minus 1828, which is 77 years.",
+      "A speaker aged 70 in 1905 was born in 1835, seven years after Shaka's death, so cannot have seen him.",
+      "So the speaker relies on what others told them. Tag the account as tradition and look for a written anchor (our arithmetic). {{gha1-vansina}}"
+     ]
     },
     {
      "t": "check",
@@ -498,469 +863,31 @@
       "60"
      ],
      "a": 1,
-     "w": "15 days to the end of December (31 minus 16) plus 22 is 37. {{lib}}"
-    },
-    {
-     "t": "take",
-     "i": [
-      "Colonial myths are corrected by archaeology and source criticism. {{lib}}",
-      "Check your date arithmetic."
-     ]
-    }
-   ]
-  },
-  {
-   "id": "l6",
-   "title": "What the books add to the southern states and the Zulu",
-   "min": 28,
-   "blocks": [
-    {
-     "t": "p",
-     "x": "Three books bear on this module: Reader on Mapungubwe, Great Zimbabwe and the Cape; Rodney on dates and the Zulu; and Reader's two chapters on the Mfecane, which disagree. The tables show where each differs from the lessons."
-    },
-    {
-     "t": "h",
-     "x": "Mapungubwe and Great Zimbabwe: three date ranges"
-    },
-    {
-     "t": "table",
-     "title": "Dating the southern stone states",
-     "head": [
-      "Source",
-      "Mapungubwe",
-      "Great Zimbabwe",
-      "Status"
-     ],
-     "rows": [
-      [
-       "The lesson",
-       "K2 about 1000 to 1220 CE, then the hill about 1220 to 1290, dates revised by Huffman.",
-       "Stone enclosures mostly between the 12th and 15th centuries, by ancestors of the Shona.",
-       "[PROBABLE]"
-      ],
-      [
-       "Reader (1990s)",
-       "Hill-top burials by the early 12th century and a gold rhinoceros about AD 1200, fading about 1250. {{rd-zim}}",
-       "Built between 1275 and 1550; the Great Enclosure in the 14th century, its outer wall 244 m long, 5 m thick and up to 10 m high. {{rd-zim}}",
-       "[PROBABLE]"
-      ],
-      [
-       "Rodney (1972)",
-       "Not covered.",
-       "11th to 14th centuries, builders 'believed' Sotho-speaking, and a Shona-speaking Rozwi dynasty setting up Mutapa in the 15th century with Zimbabwe as its first capital. {{rod-pre-007}}",
-       "Disputed on both builders and dates. [CONTESTED]"
-      ]
-     ],
-     "src": "{{rd-zim}}"
-    },
-    {
-     "t": "p",
-     "x": "A 2014 excavation paper adds a fourth view. At Mapela Hill in south-western Zimbabwe, Chirikure and colleagues found stone-walled terraces and fired earth floors from the 11th century, and a Bayesian chronology puts the start of the K2 phase there at 1055 to 1219 CE. They argue that the chain from K2 to Mapungubwe to Great Zimbabwe is too linear, and that the Zimbabwe culture grew in many linked places, not one cradle. {{chirikure}} The paper gives Great Zimbabwe as 1300 to 1450 CE. It rests on nine dates from one trench and an interpretive framework, so treat the polycentric model as a strong challenge, not a settled result. [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "Reader reads Great Zimbabwe ecologically: a tsetse-free plateau where a cattle surplus came first and gold control followed. He says the walls are loosely built drystone, that a contractor estimated 84 men could build the complex in two years, that the Zimbabwe birds are soapstone about 35 cm tall, and that environmental damage ended the centre in the late 15th century. {{rd-zim}} Treat the ecological reading as one view. [CONTESTED] Diop agrees that the builders were Africans and calls the Phoenician theory refuted, but his evidence is skeleton typology, which is weak.  Diop also shows how Dr Maes said Black Africans could not have raised the Tundi-Daro standing stones; this is the same prejudice that gave Great Zimbabwe a Phoenician myth. {{dio-egypt-011}}"
-    },
-    {
-     "t": "h",
-     "x": "Khoisan herders and the Cape"
-    },
-    {
-     "t": "p",
-     "x": "Reader reports Khoisan sheep in the western Cape from about the first century AD and cattle from about the seventh, about 50,000 Khoisan in the south-western Cape when the Dutch landed in 1652, seasonal herding circuits, and a revolt in 1659 in which Khoisan leaders asked who was the natural owner. Commandos killed 2,480 Khoisan between 1786 and 1795 in the official count. {{rd-cape}} These are colonial records, written by the side that took the land, so tag them [PROBABLE] and state the source."
-    },
-    {
-     "t": "h",
-     "x": "Weighing the mfecane again"
-    },
-    {
-     "t": "table",
-     "title": "Three accounts of the upheavals of 1816 to 1840",
-     "head": [
-      "Account",
-      "Cause",
-      "Evidence it leans on"
-     ],
-     "rows": [
-      [
-       "The older Zulu-centred story (Omer-Cooper, as described by Reader)",
-       "Shaka's state, under drought and population pressure, drove refugees outward. {{rd-fron}}",
-       "Traders' accounts written after the events. Zululand surveys show no general ecological crisis. {{rd-fron}}"
-      ],
-      [
-       "Slaving thesis (Reader's later chapter)",
-       "Illegal slave trading from Delagoa Bay, taking at least 1,000 and perhaps 6,000 men a year from about 1818, plus Cape frontier labour raids such as Dithakong in 1823. {{rd-zulu}}",
-       "Portuguese and Mauritius inquiry records. Reader calls it 'not yet proven'. {{rd-zulu}}"
-      ],
-      [
-       "Rodney",
-       "Explains Shaka's military change as outgrowths of Dingiswayo's age-regiments and a growing population; Zulu rule was free of slave trading. {{rod-trade-009}}",
-       "1970s textbook synthesis."
-      ]
-     ],
-     "src": "{{rd-zulu}}"
-    },
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "Reader's chapter on climate and slavery puts the cause in drought and maize-fed overpopulation, and his two later chapters reject that for Zululand and favour the slaving thesis. The book disagrees with itself. Use the later chapters, which cite more sources, and say plainly that Reader changed his case. {{rd-clim}} {{rd-zulu}}"
-    },
-    {
-     "t": "p",
-     "x": "Rodney dates Shaka's birth to about 1787, his headship to 1816 and his death to 1828, matching the lesson. He gives the Zulu defeat of the British at Isandhlwana as 1876; the lesson's 22/01/1879 is correct, so do not cite his year (our check). {{rod-trade-009}} The Dithakong case is a good exercise in source criticism: Moffat and Melvill reported repelling an invading horde of 30,000 or more, while the archives show a displaced group of about 2,000 and a massacre. {{rd-zulu}}"
-    },
-    {
-     "t": "check",
-     "q": "A student explains the mfecane by drought pressure in Zululand. What does Reader's archaeology let you reply?",
-     "o": [
-      "It proves the theory",
-      "Surveys there show no general ecological crisis",
-      "No one looked",
-      "It shows famine everywhere"
-     ],
-     "a": 1,
-     "w": "The archaeology refutes the Zululand pressure scenario. {{rd-fron}}",
+     "w": "15 days to the end of December (31 minus 16) plus 22 is 37 (our arithmetic). {{lib}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which date for the battle of Isandhlwana is correct for the course?",
+     "q": "A testimony recorded in 1910 comes from a man born in 1840. What can he tell you about Shaka's reign?",
      "o": [
-      "1876, as Rodney writes",
-      "22/01/1879",
-      "1816",
-      "1828"
+      "What he saw",
+      "What others told him: he was born twelve years after Shaka died",
+      "Nothing at all",
+      "Exact dates"
      ],
      "a": 1,
-     "w": "The lesson carries the right date; Rodney's year is a slip."
-    },
-    {
-     "t": "check",
-     "q": "Why does Reader's own text weaken a single-cause Mfecane story?",
-     "o": [
-      "He offers two accounts in different chapters",
-      "He never mentions Shaka",
-      "He gives no dates",
-      "He rejects all evidence"
-     ],
-     "a": 0,
-     "w": "A drought account and a slaving account both appear. {{rd-clim}} {{rd-zulu}}"
-    },
-    {
-     "t": "take",
-     "i": [
-      "Great Zimbabwe has three date ranges in these books; keep the range and the tag. [PROBABLE]",
-      "The Mfecane is contested; Reader's later chapters favour slaving and frontier raids. [CONTESTED]",
-      "Colonial records of the Khoisan come from the side that took the land. {{rd-cape}}"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "l7",
-   "title": "What the UNESCO General History adds to Great Zimbabwe and the Mfecane",
-   "min": 38,
-   "blocks": [
-    {
-     "t": "p",
-     "x": "Two UNESCO chapters bear on this module: Brian Fagan's 1984 chapter on the Zambezi and Limpopo basins, and L. D. Ngcongco's 1989 chapter on the Mfecane. Both predate later revisions, so the lesson says what each claims and where newer work has moved on."
-    },
-    {
-     "t": "h",
-     "x": "Great Zimbabwe in a 1984 chapter"
-    },
-    {
-     "t": "p",
-     "x": "Fagan says all serious scholars now see Great Zimbabwe as an essentially African development. The origin of the political and economic organisation behind it remains, in his words, cloaked in mystery. {{gha4-zimb}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He sets out two theories. Abraham's religious hypothesis has Shona immigrants and the Mwari cult at its centre. The trade hypothesis points to imported Syrian glass, Persian faience and Chinese celadon in the fourteenth century, and to a coin of al-Hasan ibn Sulayman of Kilwa (about 1320 to 33) found at the site. Fagan rejects any single cause. {{gha4-zimb}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "He dates stone walls to the thirteenth century and the Great Enclosure to the century after, with an average wall height of 7.3 m and a thickness of 5.5 m at the base. Earlier we gave up to about 11 m; his figure is an average. About 150 such ruins are known in the Zimbabwe-Limpopo granite country. {{gha4-zimb}}"
-    },
-    {
-     "t": "p",
-     "x": "On Arab influence he says it is almost impossible to detect, and that the conical tower is the one element with no known African parallel. On the end of Great Zimbabwe he argues that farm land and grazing around a large non-farming centre were exhausted, and that power moved north and south under the Rozwi and the first Mwene Mutapa. He states this as a likely explanation. {{gha4-zimb}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "D. T. Niane's introduction to the same volume says Zimbabwe and Mwene Mutapa reached their greatest height between the eleventh and fourteenth centuries and were contemporary with Ghana and Mali. That span is the editor's and is wider than Fagan's dating of walls from the thirteenth century and the Great Enclosure from the fourteenth, so use Fagan's chapter for the site. Niane notes that Mwene Mutapa is read either as 'lord of metals' or 'master pillager', and quotes Davidson's guess of 60,000 to 70,000 ancient mines, which is a loose estimate. He cites MacIver (1905) and Caton-Thompson (1931) for African origin. {{gha4-intro}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "His conclusion says Mapungubwe flourished 'at least between the eleventh and fifteenth centuries, if not even earlier', that Sotho and Shona built stone monuments, that iron may have been worked in southern Africa before the Christian era, and that a British company pillaged the Zimbabwe and Mapungubwe tombs. Treat the dates as his own loose claims, since the southern Africa chapter dates the earliest iron between the Zambezi and the Limpopo near the first century BC and the Middle Iron Age from about 1100. {{gha4-concl}} {{gha4-south}} [CONTESTED]"
-    },
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "Fagan places the rulers of Mapungubwe on the hill in the fifteenth century. Later excavation moved Mapungubwe's main period earlier, as the dates in the first lesson show. His volume does not give those dates, so do not use his dating for Mapungubwe. {{gha4-zimb}}"
-    },
-    {
-     "t": "p",
-     "x": "At Ingombe Ilede in Zambia, eleven rich burials of about 1400, with gold, copper wire tools and imported beads, lie beside 31 poor burials, which shows social inequality. Fagan calls the idea that the town was a salt-trading middleman purely hypothetical. {{gha4-zimb}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "h",
-     "x": "Southern Africa before 1600: Ngcongco and Vansina"
-    },
-    {
-     "t": "p",
-     "x": "L. D. Ngcongco, with Jan Vansina, wrote volume IV's chapter on southern Africa. It says apartheid-era scholarship rejected oral and archaeological sources and neglected the Portuguese archives, so the period 1100 to 1600 is thinly known. It says the Bantu arrived by infiltration of small groups, not a sweeping invasion, and that the Sotho-Tswana and Nguni languages split within South Africa, with the separation complete by about 1600. {{gha4-south}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "It reports Ehret's word counts, which link Shona most closely with Venda and place the southeast Bantu languages in a second centre, probably the northern Transvaal. At Phalaborwa copper was mined from at least the eighth century, the earliest dated site falls between 960 and 1130, and the Venda state may have taken over the Transvaal chiefdoms in the seventeenth century. Stone-walled Type N sites on the Orange Free State grasslands date from at least 1400 to 1450. {{gha4-south}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "p",
-     "x": "The chapter proposes, as a hypothesis, that Botswana's semi-pastoral communities (over 150 sites from about 800 to 1300, with manure deposits up to a metre thick) declined after 1300 through drier climate or a shift in the tsetse belt, and that some herders moved to the Vaal and helped create Sotho-Tswana chiefdoms with cattle bride-wealth and clientship. It says the origin of Botswana's pastoral economy is itself unexplained. {{gha4-south}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "South of the Drakensberg only three Later Iron Age sites are known, the Xhosa ruling families lived on the upper Mzimvubu by the sixteenth century, and the Nguni had nearly their 1800 territory by 1500. Khoikhoi words make up about 14 per cent of Zulu and 20 per cent of Xhosa vocabulary, and Nguni milking, riding and pack oxen came from them. {{gha4-south}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "The authors say the Khoikhoi are of southern African hunter stock and spread south from Botswana after about 1300 as pastoralists with cattle and fat-tailed sheep. They were at the Cape by 1488 and killed the Portuguese viceroy Almeida and sixty men at Table Bay in 1510. Their politics rested on cattle wealth, which could change within a generation, and the hunters whom they displaced were reduced to clients. The word 'Hottentot' is derogatory and 'San' is a Khoikhoi word meaning robbers. {{gha4-south}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Southern Africa 1500 to 1800: Denoon in volume V"
-    },
-    {
-     "t": "p",
-     "x": "Donald Denoon says the question of when the 'great migration' from the north happened was the wrong question, partly provoked by white settlers' need to justify taking land. He argues that hunters, herders and farmers coexisted and could pass between ways of life, so Khoi herding was not a doomed transitional stage, and that the Xhosa and Khoi interpenetrated, with groups such as the Gonaqua absorbed into Xhosa society. {{gha5-denoon}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "He says maize was adopted in the eighteenth century, that Peires's estimate of the Xhosa-speaking population by 1800 means there was no serious land pressure, and that chiefs' power was limited by commoners until the end of the 1700s. Xhosa rivalries followed Phalo's death in 1775, and the northern Nguni confederacies that led to the Zulu state arose independently of Cape events. {{gha5-denoon}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He contrasts Portuguese Mozambique, a seaborne empire of middlemen with prazos like feudal manors, with the Dutch East India Company's Cape from 1652, which began as a provisioning post and expanded as commercial pastoralism that destroyed Khoi and San society and relied on slaves. About 1800 the colony held large Christian, Khoi and San, and slave populations. Frontier Kora, Griqua and Nama societies formed on the Orange River, and a Khoi revolt began in 1799 after Britain took the Cape in 1795. {{gha5-denoon}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Copper and gold in the south: Niane's trade chapter"
-    },
-    {
-     "t": "p",
-     "x": "Niane reports that copper mining began in the first centuries of the Christian era in Shaba, on the Zimbabwe plateau and on the upper Limpopo, and that al-Masudi knew of Sofala gold in the tenth century. He follows Summers in dating gold mining from about the seventh century south of the Zambezi, spreading across the plateau between the ninth and eleventh centuries and reaching the Limpopo only in the fifteenth. {{gha4-trade}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "He says most historians now think Zimbabwe's wealth began with cattle on the tsetse-free plateau, with a thirteenth-century drought pushing herders up, and that control of the gold trade came a century or two later. He cites Randles for the idea that trade shifting to the Sabi, and changes in navigation there after the fifteenth century, explain the decline. {{gha4-trade}} [CONTESTED]"
-    },
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "The chapter says Summers's estimate for the eleventh century, about 9 to 10 tons of gold a year, should be treated with caution. It then says several thousand tons a year went north in the thirteenth and fourteenth centuries, with no source for that figure. Do not use it. Chapter 26 of the same volume puts exports from west and south Africa to the north at perhaps 4 to 8 tonnes a year, and repeats Summers's 10 tonnes a year for southern gold. {{gha4-inter}} {{gha4-trade}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "h",
-     "x": "Torwa, Mutapa and Rozvi, 1500 to 1800: Bhila in volume V"
-    },
-    {
-     "t": "p",
-     "x": "H. H. K. Bhila says records for Southern Zambezia 1500 to 1800 are scarce and mostly Portuguese. He dates Great Zimbabwe culture to 1200 to 1450 and its decline from the mid-fifteenth century, tied to falling gold output. The Torwa state with its capitals at Khami and Danangombe copied Great Zimbabwe's style, with almost all prestige stone building before 1650, and the Rozvi Changamire dynasty that annexed it in the 1690s built no prestige stone. {{gha5-zambezia}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "The Mutapa state held the plateau and part of the Zambezi valley by the early sixteenth century, but Manyika, Uteve, Barwe and Danda split away in the sixteenth century. Fragmentation ran from 1629, when the Portuguese beat Mavura, to 1917, and the Mutapas lost the plateau in the first half of the eighteenth century. Rulers controlled chiefs by annual rekindling of royal fires, spirit mediums and tribute. He calls Portuguese army counts 'extremely unreliable'. {{gha5-zambezia}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "The Portuguese regularised trade with the Mutapa in 1540, gaining passage in return for a tribute called the curva, and began to dominate after the wars of 1569 to 1575. Gatsi Rusere (died 1624) ceded mines by a treaty of 1607, and in 1629 Mavura accepted a treaty of vassalage that ended the curva. The prazo system of Portuguese estates worked by chikunda slave armies followed, and Isaacman's thesis that prazos were fully Africanised is contested by Bhila. {{gha5-zambezia}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "Bhila says the origins of the Rozvi are speculative. Changamire Dombo I, who he says was once a Mutapa herdsman, rose between 1684 and 1695, expelled the Portuguese from Maungwe in 1684, from the plateau in 1693 and from Manyika in 1695, and gave the Rozvi their name from kurozva, to destroy. He says Rozvi military 'invincibility' is exaggerated because the Portuguese were stretched by the Omani siege of Fort Jesus and by disunited prazeros. {{gha5-zambezia}} [TRADITIONAL DATE]"
-    },
-    {
-     "t": "p",
-     "x": "On the economy, he says millet, sorghum, cattle with seasonal movement between highveld and lowveld, iron, copper, salt and cloth mattered as well as gold, that maize arrived only in the eighteenth century, and that Nyanga terraces were used for three centuries or more until 1800. He rejects Beach's description of Shona agriculture as dangerously static, citing innovation and famine-coping methods. Gold was mostly panned between August and October, the ruling elite took by one estimate about half of Mutapa gold, and he says war and Portuguese trading abuses, besides reaching the water table, helped end seventeenth-century gold output. {{gha5-zambezia}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "He describes Portuguese fairs (feiras) such as Dambarare, Luanze and Masekesa, each with a captain-major, where beads and cloth were swapped for gold, food and cattle, and says the Portuguese fortresses at Sofala (1506) and the posts at Sena and Tete (1531) replaced the earlier Swahili bazaars. After the expulsion of 1693 to 1695 the Portuguese founded Zumbo in 1710 and revived Masekesa in 1719, and the Rozvi sent forces to protect Zumbo in 1743, 1772 and 1781. {{gha5-zambezia}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "North of the Zambezi: the Maravi and Lake Malawi, 1400 to 1800"
-    },
-    {
-     "t": "p",
-     "x": "K. M. Phiri, O. J. M. Kalinga and H. H. K. Bhila say that before 1500 the Lake Malawi region was mostly stateless, linked by shared rain cults. The Maravi arrived from the Luba country, with radiocarbon dates of 1420 to 1480 on their sites and Newitt placing them in the early sixteenth century, and by the early seventeenth century a confederation covered eastern Zambia, central and southern Malawi and northern Mozambique. They say historians still do not understand how the Maravi state formed and set out several rival explanations. {{gha5-malawi}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "The Lundu on the Lower Shire ruled by 1572 and pushed east into Lolo and Makua country. The authors say his warriors may have been the Zimba who beat the Portuguese at Sena in 1592 and sacked Kilwa and Mombasa until Malindi's allies stopped them, though Schoffeleers places the Zimba's origin south of the Zambezi. The seventeenth century was a Maravi golden age, in which the Portuguese hired thousands of Maravi warriors, for example 4,000 in 1608 for Gatsi Rusere's campaign, while calling them very bad neighbours. {{gha5-malawi}} [PROBABLE]"
-    },
-    {
-     "t": "p",
-     "x": "They say the Maravi state declined from the mid-eighteenth century as Makewana's rain shrine, the Makua and Lolo, and secessions weakened the Kalonga, Lundu and Undi. In the north the Ngulube founded Ngonde, Ulambya and other states from about 1600, with regnal lists that give only approximate dates. Portuguese prazeros north of the Zambezi mined about 100 kg of gold a year at Undi's capital from the 1740s until the 1780s. {{gha5-malawi}} [THIN EVIDENCE]"
-    },
-    {
-     "t": "p",
-     "x": "They call the eighteenth century the ivory century and the nineteenth the slave century. The Yao took over the ivory trade to Kilwa after 1698, Bisa traders linked Kazembe to the east coast, and Tumbuka trader-chiefs such as Gondwe at Nkamanga turned ivory wealth into political power. Slaves replaced ivory in caravans as Kilwa's slave trade grew from the 1770s. {{gha5-malawi}} [PROBABLE]"
-    },
-    {
-     "t": "check",
-     "q": "What does the southern Africa chapter say about how the Bantu reached the region?",
-     "o": [
-      "By a single sweeping invasion in the first century",
-      "By infiltration of small groups, not a sweeping invasion",
-      "By ship from East Africa",
-      "By Portuguese transport"
-     ],
-     "a": 1,
-     "w": "The chapter says the arrival was not the event early researchers reported. {{gha4-south}}"
-    },
-    {
-     "t": "h",
-     "x": "The Mfecane in Ngcongco's chapter"
-    },
-    {
-     "t": "p",
-     "x": "Ngcongco gives several causes: population growth and land shortage after maize arrived in the eighteenth century, a drought called Madlathule whose date is uncertain, competition for the Delagoa Bay trade, and rulers' control of production through age-regiments. He rejects the claim that Dingiswayo copied Europeans as blatantly racist. {{gha6-mfecane}} [CONTESTED]"
-    },
-    {
-     "t": "p",
-     "x": "He says the regiments and the control of initiation were already general before Shaka, with Dingiswayo, Zwide and Sobhuza all building on Sotho-Tswana practice. Shaka defeated Zwide in 1819 and 1820, kept regiments in barracks and often wiped out the ruling elites of the groups he conquered. {{gha6-mfecane}}"
-    },
-    {
-     "t": "table",
-     "title": "States born in the Mfecane, as Ngcongco sorts them",
-     "head": [
-      "Kind of state",
-      "Examples",
-      "How they held together"
-     ],
-     "rows": [
-      [
-       "Aggressive and militarist",
-       "Zulu, Ndebele, Gaza, the trans-Zambezi Nguni such as Zwangendaba's group",
-       "Barracks, tribute raids, age-regiments that absorbed conquered youths; Gaza kept the conquered Tsonga in separate regiments at the front. {{gha6-mfecane}}"
-      ],
-      [
-       "Defensive",
-       "Lesotho under Moshoeshoe, Swaziland under Sobhuza, the Kololo under Sebetwane",
-       "Mountain forts, marriage alliances, local autonomy, missionaries and guns. {{gha6-mfecane}}"
-      ]
-     ],
-     "src": "{{gha6-mfecane}}"
-    },
-    {
-     "t": "p",
-     "x": "Moshoeshoe built Lesotho from refugees at Thaba Bosiu from 1824, beat the Ngwane in 1827, asked Britain to annex his country to keep it from the Orange Free State and died in 1870. Mzilikazi's Ndebele grew from a Khumalo chiefdom to a kingdom of about 20,000 soldiers; after 1837 he built Bulawayo and he died in 1868. {{gha6-mfecane}} [PROBABLE]"
-    },
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "Ngcongco does not discuss the revision that argues slave raiding and the Cape frontier drove much of the violence. He only adds the Delagoa Bay trade as a possible cause. Read him as the older view with one addition, and read Cobbing beside him. {{gha6-mfecane}}"
-    },
-    {
-     "t": "check",
-     "q": "Which of Fagan's claims is a hypothesis and not a finding?",
-     "o": [
-      "Great Zimbabwe is African",
-      "The site was abandoned because local farm land was exhausted",
-      "The walls are made of granite",
-      "Ruins exist in Zimbabwe"
-     ],
-     "a": 1,
-     "w": "He states exhaustion of farm land as a likely cause. {{gha4-zimb}}"
-    },
-    {
-     "t": "check",
-     "q": "A website says Shaka invented the regiment system. Following Ngcongco, what is the better claim?",
-     "o": [
-      "Shaka invented everything",
-      "He extended and sharpened a regiment system already used by Dingiswayo, Zwide and the Sotho-Tswana",
-      "He invented guns",
-      "He invented nothing"
-     ],
-     "a": 1,
-     "w": "He built on a regional practice. {{gha6-mfecane}}",
+     "w": "Count the gap and the speaker's birth (our arithmetic). {{gha1-vansina}}",
      "kind": "application"
     },
     {
-     "t": "check",
-     "q": "Why should you not use Fagan's date for the rulers on Mapungubwe hill?",
-     "o": [
-      "Because Mapungubwe does not exist",
-      "Because later excavation placed the main period earlier than the fifteenth century",
-      "Because he wrote in French",
-      "Because gold was not found there"
-     ],
-     "a": 1,
-     "w": "His volume predates the revised dates. {{gha4-zimb}}"
-    },
-    {
-     "t": "h",
-     "x": "Shaka in the authors' reading of leadership"
-    },
-    {
-     "t": "p",
-     "x": "Hama and Ki-Zerbo use Shaka as the plainest case of a leader who forged a nation in combat, and note that what written and oral evidence say of him must have been repeated many times in African history. They add that Shaka himself met the check on tyranny they see in popular history: people could secede and move away, as happened at the end of his career. This is the authors' general argument, so set it beside the mfecane debate and mark it [CONTESTED]. {{gha1-hama}}"
-    },
-    {
-     "t": "h",
-     "x": "Reading the sources for the Zulu"
-    },
-    {
-     "t": "p",
-     "x": "Hrbek says South Africa has no African-written sources before the nineteenth century, so early records are European. Zulu oral traditions were collected in the 1880s but published later by A. T. Bryant, whose book must be used with caution; the early observers Isaacs and Fynn were untrained, rarely accurate and lacking objectivity about non-whites. Letters from Moshesh, Dingaan, Cetshwayo, Mzilikazi and Lobengula to colonial authorities, and vernacular newspapers such as Isidigimi (1870 to 1880), give African voices. {{gha1-hrbek}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "What Vansina's rules mean for dating Shaka"
-    },
-    {
-     "t": "p",
-     "x": "Vansina's rules bear directly on the Zulu lesson. Oral chronologies rarely reach before 1700, genealogies are tidied, and stories about wars are often attached to a stereotyped warrior king whose deeds were partly done by others. Applied to the Zulu case (our application), this means dates in Shaka's reign need written anchors, and the oral account of his personal role should be set beside the mfecane debate. {{gha1-vansina}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Highlands and rivers of the south"
-    },
-    {
-     "t": "p",
-     "x": "Southern Africa is a highland region above 1,500 metres bounded by the Great Escarpment, in places a wall 3,000 metres high. The Zambezi drops 110 metres at Victoria Falls before the Kariba gorge, and dry-forest soils there are lightly gullied. The Kalahari is more open to ocean influence than the Sahara because the continent is narrower, which makes it less hot. {{gha1-diarra}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Reading Great Zimbabwe with several sources"
-    },
-    {
-     "t": "p",
-     "x": "Ki-Zerbo says finds are often explained from outside archaeology, and at Zimbabwe the structures above and below ground make sense only through the gold mines and their defence together with religion. He holds up the Zimbabwe walls as a case where archaeology alone gives a dry description. {{gha1-kizerbo15}} [PROBABLE]"
-    },
-    {
-     "t": "h",
-     "x": "Before the Iron Age in the south: Clark's closing summary"
-    },
-    {
-     "t": "p",
-     "x": "Clark's chapter on southern Africa ends with the transition the course picks up. In the first few centuries of our era Late Stone Age hunter-gatherers were replaced over much of the subcontinent by farmers with metallurgy, most likely an advance guard of Bantu-speaking groups from a homeland thought to lie in the north-west, in Chad and Cameroon. There was no Neolithic stage, and no sign of cultivation before the Early Iron Age. Some south-western hunter-gatherer groups had sheep by the first century before our era and cattle later; these were nomadic pastoralists identified with the Khoi-Khoi, whose pastoral phase can hardly have begun before about 300 before our era and ended in the eighteenth century of our era. No pastoral occupation site had been excavated, so what is known of them comes from historic sources, and the origin of their stock is debated (Sudanic speakers or Early Iron Age migrants). {{gha1-clark}} [CONTESTED]"
-    },
-    {
-     "t": "callout",
-     "k": "warn",
-     "x": "Clark adds that much southern African rock art may be only 2000 to 3000 years old, although the earliest dated paintings, from the Apollo 11 shelter in Namibia, are 28 000 years old. A painting is not evidence of a particular people or period unless it is dated, so avoid pairing rock art with the Bantu arrival without a date. {{gha1-clark}} [PROBABLE]"
-    },
-    {
      "t": "take",
      "i": [
-      "Fagan gives two theories of Great Zimbabwe's rise and rejects a single cause. {{gha4-zimb}}",
-      "The Mfecane had several causes and Shaka did not invent the regiments. {{gha6-mfecane}}",
-      "Moshoeshoe, Sobhuza and Sebetwane built defensive states. {{gha6-mfecane}}"
+      "Colonial myths are corrected by archaeology and source criticism. {{sciam-zimbabwe}}",
+      "Count the gap between event and testimony, and check your date arithmetic."
      ]
     }
-   ]
+   ],
+   "id": "l7"
   },
   {
    "id": "l8",

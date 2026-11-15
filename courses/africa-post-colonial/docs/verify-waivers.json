@@ -118,5 +118,61 @@
   "match": "Belgium supplied some 400 of the nearly 1,300 peacekeepers",
   "reason": "the deployment passage in part 13 (ch-013.txt) was read on 15/11/2026: 'nearly 1300 peacekeepers ... some 400 of them Belgian soldiers'; the rest of that part is not read",
   "checked": "15/11/2026"
+ },
+ {
+  "key": "gha-vii-ch30",
+  "kind": "unread",
+  "item": null,
+  "match": "Continuity of African institutions and markets",
+  "reason": "ch-032.txt holds the last pages of chapter 30 (pp. 803-809), viewed in full and logged per the skip record; only its bibliography and index were not read. Same claims as the earlier waived sentences, reworded when Module 1 was consolidated on 15/11/2026",
+  "checked": "15/11/2026"
+ },
+ {
+  "key": "gha-vii-ch30",
+  "kind": "unread",
+  "item": null,
+  "match": "Change fast in the economy and politics, shallow in culture",
+  "reason": "ch-032.txt holds the last pages of chapter 30 (pp. 803-809), viewed in full and logged per the skip record; only its bibliography and index were not read. Same claims as the earlier waived sentences, reworded when Module 1 was consolidated on 15/11/2026",
+  "checked": "15/11/2026"
+ },
+ {
+  "key": "gha-vii-ch30",
+  "kind": "unread",
+  "item": null,
+  "match": "Boahen's verdict is that both 'unmitigated disaster'",
+  "reason": "ch-032.txt holds the last pages of chapter 30 (pp. 803-809), viewed in full and logged per the skip record; only its bibliography and index were not read. Same claims as the earlier waived sentences, reworded when Module 1 was consolidated on 15/11/2026",
+  "checked": "15/11/2026"
+ },
+ {
+  "key": "gha-viii-ch29",
+  "kind": "unread",
+  "item": null,
+  "match": "The UN force arrived on 15/07/1960",
+  "reason": "the skip record for ch-030.txt says chapters 29 and 30 were read in full in chunks 1 to 6; only the bibliography and index were not read. Same claims as the earlier waived Kouassi paragraph, split into sentences when Module 4 was consolidated on 15/11/2026",
+  "checked": "15/11/2026"
+ },
+ {
+  "key": "gha-viii-ch29",
+  "kind": "unread",
+  "item": null,
+  "match": "Lumumba asked the UN and then the Soviet Union for help",
+  "reason": "the skip record for ch-030.txt says chapters 29 and 30 were read in full in chunks 1 to 6; only the bibliography and index were not read. Same claims as the earlier waived Kouassi paragraph, split into sentences when Module 4 was consolidated on 15/11/2026",
+  "checked": "15/11/2026"
+ },
+ {
+  "key": "gha-viii-ch29",
+  "kind": "unread",
+  "item": null,
+  "match": "Katanga's secession ended in 01/1963",
+  "reason": "the skip record for ch-030.txt says chapters 29 and 30 were read in full in chunks 1 to 6; only the bibliography and index were not read. Same claims as the earlier waived Kouassi paragraph, split into sentences when Module 4 was consolidated on 15/11/2026",
+  "checked": "15/11/2026"
+ },
+ {
+  "key": "gha-viii-ch29",
+  "kind": "unread",
+  "item": null,
+  "match": "Read pronouns against the people around them",
+  "reason": "the skip record for ch-030.txt says chapters 29 and 30 were read in full in chunks 1 to 6; only the bibliography and index were not read. Same claims as the earlier waived Kouassi paragraph, split into sentences when Module 4 was consolidated on 15/11/2026",
+  "checked": "15/11/2026"
  }
 ]
