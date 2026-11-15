@@ -137,7 +137,7 @@
     },
     {
      "t": "check",
-     "q": "What limited the 5D Mark II's clips to about 12 minutes of 1080p?",
+     "q": "You are filming a 20-minute interview on a 5D Mark II and the camera stops at about 12 minutes. What caused it, and what should you plan?",
      "o": [
       "The battery died",
       "The 4 GB file size limit per clip",
@@ -145,7 +145,8 @@
       "Law"
      ],
      "a": 1,
-     "w": "The manual states the 4 GB limit and does not give a cause. {{canon-5d2-manual}}"
+     "w": "The manual states the 4 GB limit and does not give a cause. {{canon-5d2-manual}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -161,7 +162,7 @@
     },
     {
      "t": "check",
-     "q": "Which change does the handbook suggest for reducing moiré on a DSLR?",
+     "q": "A brick wall shimmers with coloured patterns on your DSLR monitor. Which setting does the handbook suggest changing?",
      "o": [
       "Turn the sharpness setting down",
       "Raise the ISO",
@@ -169,7 +170,8 @@
       "Open the aperture"
      ],
      "a": 0,
-     "w": "Lowering the picture's resolution at the sensor, including turning sharpness down, helps reduce the pattern. {{fh-ch5b}}"
+     "w": "Lowering the picture's resolution at the sensor, including turning sharpness down, helps reduce the pattern. {{fh-ch5b}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -323,7 +325,8 @@
       "70 mm"
      ],
      "a": 2,
-     "w": "Multiply: 35 × 1.5 = 52.5 mm. {{wiki-crop}}"
+     "w": "Multiply: 35 × 1.5 = 52.5 mm. {{wiki-crop}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -486,11 +489,12 @@
       "4096"
      ],
      "a": 2,
-     "w": "Ten bits give 2^10 = 1024 levels (our arithmetic)."
+     "w": "Ten bits give 2^10 = 1024 levels (our arithmetic).",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "The handbook says a zebra set to 100 per cent shows you:",
+     "q": "Zebras set to 100 per cent are flashing across the sky in your shot. What are they telling you?",
      "o": [
       "Where the signal is at or near maximum and may clip",
       "Where the picture is in focus",
@@ -498,7 +502,8 @@
       "The exact stop value"
      ],
      "a": 0,
-     "w": "Zebra stripes appear wherever the video signal passes the preset level; at 100 per cent they mark possible clipping. {{fh-ch5b}}"
+     "w": "Zebra stripes appear wherever the video signal passes the preset level; at 100 per cent they mark possible clipping. {{fh-ch5b}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -631,7 +636,7 @@
     },
     {
      "t": "check",
-     "q": "Why record sound separately from the camera?",
+     "q": "You are shooting an interview with a DSLR across a noisy room. Why put a separate recorder near the speaker?",
      "o": [
       "The camera cannot record sound",
       "A recorder near the speaker is cleaner than the camera's built-in microphone",
@@ -639,7 +644,8 @@
       "It is required by law"
      ],
      "a": 1,
-     "w": "Separate recording gives better sound; the camera mic is mono and distant. {{wiki-5d2}}"
+     "w": "Separate recording gives better sound; the camera mic is mono and distant. {{wiki-5d2}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -663,7 +669,8 @@
       "Use the camera microphone at full gain"
      ],
      "a": 0,
-     "w": "A scratch track in the camera helps with reference and syncing. {{fh-ch11}}"
+     "w": "A scratch track in the camera helps with reference and syncing. {{fh-ch11}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -778,7 +785,7 @@
     },
     {
      "t": "check",
-     "q": "Why does a flat log picture need a viewing LUT on set?",
+     "q": "The director complains your log footage looks washed out on the monitor. What should you do, and why?",
      "o": [
       "It stores colour in a separate file",
       "It looks milky and flat until a curve makes it look normal",
@@ -786,7 +793,8 @@
       "It doubles the frame rate"
      ],
      "a": 1,
-     "w": "The log curve remaps brightness, so the raw image looks flat; a LUT shows a normal-looking version without changing the file. {{fh-ch5}}"
+     "w": "The log curve remaps brightness, so the raw image looks flat; a LUT shows a normal-looking version without changing the file. {{fh-ch5}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -886,11 +894,12 @@
       "4 hours"
      ],
      "a": 2,
-     "w": "52 ÷ 26 = 2 hours, before standby and cold losses (our arithmetic). {{fh-ch3}}"
+     "w": "52 ÷ 26 = 2 hours, before standby and cold losses (our arithmetic). {{fh-ch3}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which is closest to a safe rule for card data?",
+     "q": "At the end of a shoot day you have one full card and need it again tomorrow. Which is the safe rule?",
      "o": [
       "Format the card when it is full",
       "Copy to two or three places, verify, and wipe only when needed",
@@ -898,7 +907,8 @@
       "Trust the camera's playback"
      ],
      "a": 1,
-     "w": "The handbook's backup rule is three copies, two technologies, two places. {{fh-ch2}}"
+     "w": "The handbook's backup rule is three copies, two technologies, two places. {{fh-ch2}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -987,7 +997,7 @@
       "18,018"
      ],
      "a": 0,
-     "w": "30 × 600 = 18,000 numbers, less 18 dropped. {{brown-video}}"
+     "w": "30 × 600 = 18,000 numbers, less 18 dropped (our arithmetic). {{brown-video}}"
     },
     {
      "t": "check",
@@ -1291,7 +1301,7 @@
     },
     {
      "t": "check",
-     "q": "The distance from the microphone doubles. What happens to sound pressure?",
+     "q": "Your boom drifts from 0.5 m to 1 m from the actor. What happens to sound pressure?",
      "o": [
       "It halves",
       "It doubles",
@@ -1299,7 +1309,8 @@
       "It quadruples"
      ],
      "a": 0,
-     "w": "Sound pressure halves when the distance doubles. {{fh-ch11}}"
+     "w": "Sound pressure halves when the distance doubles. {{fh-ch11}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -1452,11 +1463,12 @@
       "5.3"
      ],
      "a": 2,
-     "w": "2 × log base 2 of (11 ÷ 3.5) is about 3.3."
+     "w": "2 × log base 2 of (11 ÷ 3.5) is about 3.3.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why test each lens at each stop?",
+     "q": "You are hiring an old set of primes for a feature. Why test each lens at each stop before the shoot?",
      "o": [
       "Lenses are identical",
       "Some lenses lose quality at certain stops and recover at others",
@@ -1464,7 +1476,8 @@
       "It changes colour"
      ],
      "a": 1,
-     "w": "He notes lenses that were excellent until f/6.3, worse below, then better again at f/11 or f/16. {{toland-ac1941}}"
+     "w": "He notes lenses that were excellent until f/6.3, worse below, then better again at f/11 or f/16. {{toland-ac1941}}",
+     "kind": "application"
     },
     {
      "t": "take",

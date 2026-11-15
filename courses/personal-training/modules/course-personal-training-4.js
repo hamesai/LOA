@@ -128,7 +128,7 @@
     },
     {
      "t": "check",
-     "q": "What does specificity predict?",
+     "q": "A client wants a higher vertical jump but only does slow leg presses. What does the principle of specificity predict?",
      "o": [
       "Any exercise improves every skill equally",
       "Gains are greatest when training matches the outcome measured",
@@ -136,7 +136,8 @@
       "Rest causes strength"
      ],
      "a": 1,
-     "w": "The pooled analysis highlights specificity: training matched to the outcome gives the greatest improvement. {{swinton2024}}"
+     "w": "The pooled analysis highlights specificity: training matched to the outcome gives the greatest improvement. {{swinton2024}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -392,7 +393,7 @@
     },
     {
      "t": "check",
-     "q": "What did the 2024 analysis find about sessions per week?",
+     "q": "A client can only train twice a week and fears it is pointless. What did the 2024 analysis find about how much frequency predicts gains?",
      "o": [
       "It was the strongest predictor",
       "It added little predictive value",
@@ -400,7 +401,8 @@
       "Only 1 works"
      ],
      "a": 1,
-     "w": "Frequency lacked predictive power in that large heterogeneous dataset. {{swinton2024}}"
+     "w": "Frequency lacked predictive power in that large heterogeneous dataset. {{swinton2024}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -522,7 +524,7 @@
     },
     {
      "t": "check",
-     "q": "Why is it risky to treat the RIR relationship as settled?",
+     "q": "A colleague insists every set must stop exactly two reps short of failure because 'the research proves it'. Why is that too strong?",
      "o": [
       "RIR does not exist",
       "RIR was estimated from descriptions and the analysis was exploratory",
@@ -530,7 +532,8 @@
       "Only men took part"
      ],
      "a": 1,
-     "w": "The authors said the estimation procedures leave the exact relationship unclear and the analysis was exploratory. {{robinson2024}}"
+     "w": "The authors said the estimation procedures leave the exact relationship unclear and the analysis was exploratory. {{robinson2024}}",
+     "kind": "application"
     },
     {
      "t": "take",

@@ -81,7 +81,7 @@
     },
     {
      "t": "check",
-     "q": "What does 'adaptation' mean in An Actor Prepares?",
+     "q": "Your scene partner starts playing angry instead of hurt, and you change your approach to still get what you want. What is this called in An Actor Prepares?",
      "o": [
       "Rewriting a play for a new audience",
       "Adjusting to a partner in order to reach an aim",
@@ -89,7 +89,8 @@
       "Changing costumes"
      ],
      "a": 1,
-     "w": "It is the human means of adjusting to one another to carry out an objective. {{aap}}"
+     "w": "It is the human means of adjusting to one another to carry out an objective. {{aap}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -101,7 +102,8 @@
       "Is the pace fast enough?"
      ],
      "a": 1,
-     "w": "Communion means an exchange of giving and taking. {{aap}}"
+     "w": "Communion means an exchange of giving and taking. {{aap}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -230,7 +232,7 @@
     },
     {
      "t": "check",
-     "q": "Why does the wording of the super-objective matter?",
+     "q": "Two directors name the super-objective of the same play differently. Why does that wording matter?",
      "o": [
       "It is printed in the programme",
       "It changes which scenes move to the front",
@@ -238,11 +240,12 @@
       "It sets the running time"
      ],
      "a": 1,
-     "w": "The book shows three wordings giving three different emphases. {{aap}}"
+     "w": "The book shows three wordings giving three different emphases. {{aap}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What does a counteraction do?",
+     "q": "A scene feels flat because both characters want the same thing. What would adding a counteraction do?",
      "o": [
       "Cancels the scene",
       "Gives the main action something to push against",
@@ -250,7 +253,8 @@
       "Shortens the play"
      ],
      "a": 1,
-     "w": "The clash of purposes keeps the scene active. {{aap}}"
+     "w": "The clash of purposes keeps the scene active. {{aap}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -361,8 +365,12 @@
      "x": "Plan one rehearsal day for your scene: a warm-up, one run of each unit, two notes in praise-correct-praise form, and a closing run."
     },
     {
+     "t": "p",
+     "x": "Norrthon's study of rehearsals for scene transitions shows that cues are rarely fixed in advance. An actor who must give or act on a cue insists on defining it precisely, and the company negotiates candidate cues, confirms one and then specifies it. In that production the actors, not a stage manager, carried the cueing, and the director mostly asked questions and named the result wanted. It is one production with one company, so treat it as a case, not a rule. {{norrthon}}"
+    },
+    {
      "t": "check",
-     "q": "What is Garcia's note formula?",
+     "q": "After a rough run you need to tell an actor her entrance is late. Which note formula does Garcia suggest?",
      "o": [
       "Correct, correct, praise",
       "Praise, correct, praise",
@@ -370,11 +378,12 @@
       "Correct only"
      ],
      "a": 1,
-     "w": "He suggests praise, correct, praise. {{garcia}}"
+     "w": "He suggests praise, correct, praise. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What does 'one breath equals one thought' ask the actor to do?",
+     "q": "An actor gasps mid-sentence and the meaning gets lost. What does 'one breath equals one thought' ask her to do?",
      "o": [
       "Breathe only at commas",
       "Breathe when a full thought is finished",
@@ -382,7 +391,8 @@
       "Speak faster"
      ],
      "a": 1,
-     "w": "Breaths come with new thoughts, not at commas. {{garcia}}"
+     "w": "Breaths come with new thoughts, not at commas. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -512,7 +522,7 @@
     },
     {
      "t": "check",
-     "q": "Who shapes the finished performance on screen, besides the actor?",
+     "q": "A screen actor is upset that his best take was not used in the cut. Who else shapes the finished performance?",
      "o": [
       "Only the director",
       "The editor",
@@ -520,11 +530,12 @@
       "No one"
      ],
      "a": 1,
-     "w": "The textbook says the editor shapes the performance across the film. {{cwc}}"
+     "w": "The textbook says the editor shapes the performance across the film. {{cwc}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What does master shot and coverage mean for the actors?",
+     "q": "You are shooting a dialogue scene with a master shot and coverage. What should you tell your actors to expect?",
      "o": [
       "They play the scene once",
       "They repeat the scene many times from different angles",
@@ -532,7 +543,8 @@
       "They only shoot close-ups"
      ],
      "a": 1,
-     "w": "The scene is filmed again and again from different angles. {{cwc}}"
+     "w": "The scene is filmed again and again from different angles. {{cwc}}",
+     "kind": "application"
     },
     {
      "t": "take",

@@ -587,9 +587,10 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "A purchase costs £5,000 and saves £1,800 a year for 4 years. Find net benefit, ROI and break-even.",
+     "task": "A purchase costs £5,000 and saves £1,800 a year for 4 years. Find net benefit, ROI and break-even, then write two sentences you would say to the buyer using those figures.",
      "key": "Savings £7,200; net benefit £2,200; ROI 44%; break-even 5,000 ÷ 1,800 = about 2.8 years.",
-     "check": "Check ROI = 2,200 ÷ 5,000 × 100."
+     "check": "Check ROI = 2,200 ÷ 5,000 × 100.",
+     "kind": "application"
     },
     {
      "id": "C3",
@@ -820,7 +821,7 @@ ARCHIVE_ADD({
     "w": "A prospect is a qualified lead."
    },
    {
-    "q": "200 leads, 80 qualified. What is the qualification rate?",
+    "q": "Your campaign produced 200 leads and 80 qualified. What is the qualification rate?",
     "o": [
      "20%",
      "40%",
@@ -828,7 +829,8 @@ ARCHIVE_ADD({
      "80%"
     ],
     "a": 1,
-    "w": "80 ÷ 200 = 40%."
+    "w": "80 ÷ 200 = 40%.",
+    "kind": "application"
    },
    {
     "q": "Which is NOT one of the five qualifying questions?",
@@ -1024,7 +1026,8 @@ ARCHIVE_ADD({
      "£1,800"
     ],
     "a": 0,
-    "w": "15% of 2,400 is 360; 2,400 − 360 = 2,040."
+    "w": "15% of 2,400 is 360; 2,400 − 360 = 2,040.",
+    "kind": "application"
    },
    {
     "lec": 1,

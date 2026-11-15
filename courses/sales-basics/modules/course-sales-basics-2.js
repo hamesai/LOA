@@ -80,7 +80,7 @@
     },
     {
      "t": "check",
-     "q": "What is the difference between a lead and a prospect?",
+     "q": "You have 300 names from a trade fair. Before you call any of them, what must happen for a name to count as a prospect rather than a lead?",
      "o": [
       "There is none",
       "A prospect is a lead qualified as ready, willing and able to buy",
@@ -88,7 +88,8 @@
       "A prospect is anyone who visits a shop"
      ],
      "a": 1,
-     "w": "A lead is a potential buyer; a prospect has been qualified. {{ps-process}}"
+     "w": "A lead is a potential buyer; a prospect has been qualified. {{ps-process}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -254,7 +255,8 @@
       "Send a long email"
      ],
      "a": 1,
-     "w": "It suggests setting a specific time and asking permission. {{ps-prospect2}}"
+     "w": "It suggests setting a specific time and asking permission. {{ps-prospect2}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -361,11 +363,12 @@
       "Cold forever"
      ],
      "a": 1,
-     "w": "Without authority to buy, she is not yet a qualified prospect; find the decision maker. {{ps-prospect2}}"
+     "w": "Without authority to buy, she is not yet a qualified prospect; find the decision maker. {{ps-prospect2}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which question is about the buyer's ability, not willingness?",
+     "q": "You are qualifying a café owner who loves your coffee machine. Which question tests ability to buy rather than willingness?",
      "o": [
       "Do they want it?",
       "Do they have the resources?",
@@ -373,7 +376,8 @@
       "Do they have time to talk?"
      ],
      "a": 1,
-     "w": "Resources concern ability to pay. {{ps-prospect2}}"
+     "w": "Resources concern ability to pay. {{ps-prospect2}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -473,7 +477,8 @@
       "Industry"
      ],
      "a": 2,
-     "w": "Intelligence is insight competitors cannot easily find. {{ps-prospect2}}"
+     "w": "Intelligence is insight competitors cannot easily find. {{ps-prospect2}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -636,11 +641,12 @@
       "480"
      ],
      "a": 1,
-     "w": "12,000 ÷ 400 = 30."
+     "w": "12,000 ÷ 400 = 30.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "12 conversations against a target of 20 is what percentage?",
+     "q": "Your weekly target is 20 conversations and by Friday you have had 12. What percentage of target is that?",
      "o": [
       "40",
       "50",
@@ -648,7 +654,8 @@
       "70"
      ],
      "a": 2,
-     "w": "12 divided by 20 is 0.6, or 60 per cent."
+     "w": "12 divided by 20 is 0.6, or 60 per cent.",
+     "kind": "application"
     },
     {
      "t": "take",

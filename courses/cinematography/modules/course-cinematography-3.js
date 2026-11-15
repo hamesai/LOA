@@ -137,7 +137,8 @@
       "74°"
      ],
      "a": 2,
-     "w": "2 × arctan(18 ÷ 50) is about 39.6°."
+     "w": "2 × arctan(18 ÷ 50) is about 39.6°.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -263,7 +264,8 @@
       "Squares it"
      ],
      "a": 1,
-     "w": "Depth of field is proportional to the f-number, so doubling the f-number doubles the depth. {{wiki-dof}}"
+     "w": "Depth of field is proportional to the f-number, so doubling the f-number doubles the depth. {{wiki-dof}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -287,7 +289,7 @@
       "None"
      ],
      "a": 0,
-     "w": "A move from f/2 to T2.5 is a light ratio of about 1.56, about 0.64 of a stop. {{fh-ch4}}"
+     "w": "A move from f/2 to T2.5 is a light ratio of about 1.56, about 0.64 of a stop (our arithmetic). {{fh-ch4}}"
     },
     {
      "t": "take",
@@ -473,7 +475,8 @@
       "1080"
      ],
      "a": 1,
-     "w": "1920 ÷ 2.39 is about 803 pixels."
+     "w": "1920 ÷ 2.39 is about 803 pixels.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -683,7 +686,7 @@
      "title": "Worked example: a 25 mm lens at f/8",
      "steps": [
       "The standard formula is hyperfocal distance = focal length² ÷ (f-number × circle of confusion) + focal length.",
-      "The handbook's figures use a circle of confusion of 1/1000 inch, which is 0.0254 mm. {{fh-ch4}}",
+      "The handbook's figures use a circle of confusion of 1/1000 inch, which is 0.0254 mm (our arithmetic). {{fh-ch4}}",
       "Our arithmetic: 25² ÷ (8 × 0.0254) + 25 = 625 ÷ 0.2032 + 25, about 3,076 + 25 = 3,101 mm, or 3.1 m.",
       "The handbook gives about 10 ft for the same lens and aperture, which agrees. {{fh-ch4}} Focus at 3.1 m and the depth of field runs from about 1.55 m to infinity.",
       "Stop down or choose a larger circle of confusion and the distance shrinks. A different sensor or screen size changes the circle you should use."
@@ -720,7 +723,7 @@
       "10 ft"
      ],
      "a": 0,
-     "w": "Focus one third of the way from the nearer to the farther object: 10 + 30 ÷ 3 = 20 ft. {{fh-ch4}}"
+     "w": "Focus one third of the way from the nearer to the farther object: 10 + 30 ÷ 3 = 20 ft (our arithmetic). {{fh-ch4}}"
     },
     {
      "t": "check",
@@ -837,7 +840,8 @@
       "100 mm"
      ],
      "a": 1,
-     "w": "The Four Thirds crop factor is about 0.5, so 50 mm becomes roughly 24 mm. {{fh-appe}}"
+     "w": "The Four Thirds crop factor is about 0.5, so 50 mm becomes roughly 24 mm. {{fh-appe}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1192,7 +1196,8 @@
       "16"
      ],
      "a": 1,
-     "w": "Square the extension factor: 2 × 2 = 4, which is 2 stops. {{brown-optics}}"
+     "w": "Square the extension factor: 2 × 2 = 4, which is 2 stops. {{brown-optics}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1204,7 +1209,8 @@
       "It disappears"
      ],
      "a": 0,
-     "w": "Image magnification is unchanged, so depth of field is about the same. {{brown-optics}}"
+     "w": "Image magnification is unchanged, so depth of field is about the same. {{brown-optics}}",
+     "kind": "application"
     },
     {
      "t": "take",

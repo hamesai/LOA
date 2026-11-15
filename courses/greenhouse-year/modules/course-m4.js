@@ -105,7 +105,7 @@
     },
     {
      "t": "check",
-     "q": "Why test irrigation water before starting a monitoring programme?",
+     "q": "Your medium's pH keeps creeping up every month although you change nothing. What should you test, and why?",
      "o": [
       "To check its colour",
       "High alkalinity can raise medium pH over time",
@@ -113,7 +113,8 @@
       "To find out how hard it is to pump"
      ],
      "a": 1,
-     "w": "Purdue: high alkalinity can increase substrate pH over time."
+     "w": "Purdue: high alkalinity can increase substrate pH over time.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -373,7 +374,7 @@
     },
     {
      "t": "check",
-     "q": "Why choose one method and stick to it?",
+     "q": "Last month you tested EC by PourThru and this month by the 1:2 method, and the numbers jumped. Why can you not compare them?",
      "o": [
       "It is cheaper",
       "Each method gives different EC numbers, so you must compare with that method's range",
@@ -381,7 +382,8 @@
       "It saves distilled water"
      ],
      "a": 1,
-     "w": "The target EC range varies by sampling method."
+     "w": "The target EC range varies by sampling method.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -393,7 +395,8 @@
       "High"
      ],
      "a": 2,
-     "w": "2.7 to 4.6 is Normal for PourThru."
+     "w": "2.7 to 4.6 is Normal for PourThru.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -690,7 +693,7 @@
     },
     {
      "t": "check",
-     "q": "When should established plants be watered, according to NC State?",
+     "q": "You can water your tomatoes at 7 a.m. or 9 p.m. Which does NC State advise, and why?",
      "o": [
       "Late in the evening",
       "Early in the day so plants dry before dark",
@@ -698,7 +701,8 @@
       "At midnight"
      ],
      "a": 1,
-     "w": "NC State: water early in the day so that plants dry before dark."
+     "w": "NC State: water early in the day so that plants dry before dark.",
+     "kind": "application"
     },
     {
      "t": "check",

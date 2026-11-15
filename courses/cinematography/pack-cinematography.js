@@ -1096,9 +1096,10 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "VHS gives about 320 pixels across; S-VHS gives 560; HD is 1920. What share of HD width is each? A 2K 10-bit DPX scan frame (2048 × 1080 × 4 bytes) of 7200 frames (two Super 8 cartridges) is how many GB?",
+     "task": "VHS gives about 320 pixels across; S-VHS gives 560; HD is 1920. Work out what share of HD width each fills and decide how you would present each clip in an HD edit, with a reason.",
      "key": "320 ÷ 1920 = 16.7%. 560 ÷ 1920 = 29.2%. 8,847,360 B × 7200 = 63.7 GB (about 64 GB).",
-     "check": "Divide by 1920 for share and multiply by frame count for storage."
+     "check": "Divide by 1920 for share and multiply by frame count for storage.",
+     "kind": "application"
     },
     {
      "id": "C3",
@@ -1235,7 +1236,8 @@ ARCHIVE_ADD({
      "160 mm"
     ],
     "a": 2,
-    "w": "50 × 1.6 = 80 mm."
+    "w": "50 × 1.6 = 80 mm.",
+    "kind": "application"
    },
    {
     "q": "What does a log profile do?",
@@ -1384,7 +1386,8 @@ ARCHIVE_ADD({
      "40"
     ],
     "a": 1,
-    "w": "The Kodak table gives 10 footcandles at f/2."
+    "w": "The Kodak table gives 10 footcandles at f/2.",
+    "kind": "application"
    },
    {
     "lec": 1,
@@ -1431,7 +1434,8 @@ ARCHIVE_ADD({
      "150:1"
     ],
     "a": 1,
-    "w": "30 ÷ 5 = 6, so 6:1."
+    "w": "30 ÷ 5 = 6, so 6:1.",
+    "kind": "application"
    },
    {
     "q": "What causes wobble in handheld telephoto video on many DSLRs?",

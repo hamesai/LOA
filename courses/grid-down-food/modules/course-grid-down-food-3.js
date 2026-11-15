@@ -91,7 +91,7 @@
     },
     {
      "t": "check",
-     "q": "Which water can boiling make safe to drink?",
+     "q": "After a flood, you have rainwater, a can of water with petrol in it, and water drained from a radiator. Which can boiling make safe?",
      "o": [
       "Water with fuel in it",
       "Water with toxic chemicals",
@@ -99,7 +99,8 @@
       "Water from a heating radiator"
      ],
      "a": 2,
-     "w": "Boiling kills germs but cannot remove fuel, chemicals or radioactive materials, and radiator water must not be used. {{cdcwater}}"
+     "w": "Boiling kills germs but cannot remove fuel, chemicals or radioactive materials, and radiator water must not be used. {{cdcwater}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -322,7 +323,7 @@
     },
     {
      "t": "check",
-     "q": "Which treatment kills Cryptosporidium?",
+     "q": "Your area has a Cryptosporidium warning and you have iodine tablets, a filter jug and a stove. Which will make the water safe?",
      "o": [
       "Iodine tablets",
       "Chlorine tablets",
@@ -330,7 +331,8 @@
       "A basic filter jug"
      ],
      "a": 2,
-     "w": "Boiling kills it; chlorine dioxide tablets do too if used properly; iodine and chlorine tablets do not. {{cdcwater}}"
+     "w": "Boiling kills it; chlorine dioxide tablets do too if used properly; iodine and chlorine tablets do not. {{cdcwater}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -407,7 +409,7 @@
     },
     {
      "t": "check",
-     "q": "What does CDC say about washing dishes in a boil advisory?",
+     "q": "There is a boil-water notice and the sink is full of dishes. What does CDC advise?",
      "o": [
       "Use cold tap water",
       "Use disposables or sanitise with a bleach soak",
@@ -415,7 +417,8 @@
       "Use hot water only"
      ],
      "a": 1,
-     "w": "Use disposables if possible, or wash and then soak in a bleach solution for at least 1 minute. {{cdcadv}}"
+     "w": "Use disposables if possible, or wash and then soak in a bleach solution for at least 1 minute. {{cdcadv}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -427,7 +430,8 @@
       "Skip a feed"
      ],
      "a": 1,
-     "w": "If you cannot boil water, ready-to-use infant formula is an option. {{fsa}}"
+     "w": "If you cannot boil water, ready-to-use infant formula is an option. {{fsa}}",
+     "kind": "application"
     },
     {
      "t": "take",

@@ -99,7 +99,7 @@
     },
     {
      "t": "check",
-     "q": "What does the textbook say a close-up creates?",
+     "q": "You want the audience to feel close to a character at a moment of decision. Which shot does the textbook suggest?",
      "o": [
       "Disconnection",
       "Intimacy",
@@ -107,7 +107,8 @@
       "A flashback"
      ],
      "a": 1,
-     "w": "It creates a sense of intimacy with the subject. {{cwc}}"
+     "w": "It creates a sense of intimacy with the subject. {{cwc}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -220,7 +221,7 @@
     },
     {
      "t": "check",
-     "q": "What does the master shot do in the textbook's description?",
+     "q": "Your editor says she cannot tell where the characters are in the room. Which shot would have helped, and why?",
      "o": [
       "Replaces coverage",
       "Establishes the geography of the scene",
@@ -228,7 +229,8 @@
       "Hides the actors"
      ],
      "a": 1,
-     "w": "The editor uses the master to establish the geography and return to it as needed. {{cwc}}"
+     "w": "The editor uses the master to establish the geography and return to it as needed. {{cwc}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -324,8 +326,12 @@
      "x": "Run the Kuleshov test. Take one close-up of a still face and edit it with three different shots, then ask three viewers what the person feels in each."
     },
     {
+     "t": "p",
+     "x": "Katz explains why a cut works through the Kuleshov experiment of 1920, which showed that the meaning of shots in sequence can be created entirely by editing. Shot size can change from shot to shot as long as the viewer reads each framing as part of the wide shot. {{katz-cont}}"
+    },
+    {
      "t": "check",
-     "q": "What did the Kuleshov experiment show?",
+     "q": "You cut the same neutral face after a shot of a coffin and then after a shot of a child playing. What does the Kuleshov experiment predict?",
      "o": [
       "Actors cannot act",
       "Meaning comes partly from the juxtaposition of shots",
@@ -333,11 +339,12 @@
       "Cuts should be hidden"
      ],
      "a": 1,
-     "w": "The same shot read differently depending on the shot beside it. {{cwc}}"
+     "w": "The same shot read differently depending on the shot beside it. {{cwc}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What is a jump cut?",
+     "q": "You join two shots of the same person from almost the same angle, a second apart. What is this called?",
      "o": [
       "A cut between two very different locations",
       "A cut between two similar framings of the same subject",
@@ -345,7 +352,8 @@
       "A slow dissolve"
      ],
      "a": 1,
-     "w": "It joins two shots of the same subject with little variation in framing. {{cwc}}"
+     "w": "It joins two shots of the same subject with little variation in framing. {{cwc}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -446,7 +454,7 @@
     },
     {
      "t": "check",
-     "q": "Why does Garcia say to extend anticipation before a climax?",
+     "q": "A director wants the bomb to go off as soon as it is revealed. Why would Garcia advise extending the anticipation?",
      "o": [
       "To fill time",
       "Tension comes from waiting for the event",
@@ -454,7 +462,8 @@
       "To reduce the budget"
      ],
      "a": 1,
-     "w": "Once the event occurs it joins the resolution and the audience starts disengaging. {{garcia}}"
+     "w": "Once the event occurs it joins the resolution and the audience starts disengaging. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -581,7 +590,7 @@
     },
     {
      "t": "check",
-     "q": "What does Spoto say a shot ordinarily lasts in a movie?",
+     "q": "You are planning a sequence with one 90-second shot. Compared with what Spoto says an ordinary shot lasts, how will that feel?",
      "o": [
       "About five to fifteen seconds",
       "About two minutes",
@@ -589,7 +598,8 @@
       "About one second"
      ],
      "a": 0,
-     "w": "Spoto says shots ordinarily last about five to fifteen seconds. {{spoto-ch20}}"
+     "w": "Spoto says shots ordinarily last about five to fifteen seconds. {{spoto-ch20}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -701,11 +711,12 @@
       "To hide the script"
      ],
      "a": 0,
-     "w": "Hitchcock graphed each sequence's rise and fall. {{spoto-ch34}}"
+     "w": "Hitchcock graphed each sequence's rise and fall. {{spoto-ch34}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What drives the suspense in the Albert Hall scene, according to Spoto?",
+     "q": "You want a scene with almost no action to be tense. What does Spoto say drives the suspense in the Albert Hall scene?",
      "o": [
       "A chase",
       "A decision in one character's will",
@@ -713,7 +724,8 @@
       "A song"
      ],
      "a": 1,
-     "w": "The tension is in the will, not the outer action. {{spoto-ch29}}"
+     "w": "The tension is in the will, not the outer action. {{spoto-ch29}}",
+     "kind": "application"
     },
     {
      "t": "take",

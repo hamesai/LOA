@@ -94,7 +94,7 @@
     },
     {
      "t": "check",
-     "q": "Which group most often has heart events during exercise?",
+     "q": "Two new clients book a hard interval class: Jo has run three times a week for years; Ken has not exercised since school. On the evidence, who is at higher risk of a heart event during the session?",
      "o": [
       "Habitually active people doing light exercise",
       "Habitually inactive people doing vigorous exercise",
@@ -102,11 +102,12 @@
       "People who warm up"
      ],
      "a": 1,
-     "w": "These events most commonly occur among inactive people performing vigorous-intensity activity. {{whitfield2017}}"
+     "w": "These events most commonly occur among inactive people performing vigorous-intensity activity. {{whitfield2017}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why can over-screening be a problem?",
+     "q": "A gym sends every new member over 40 to a doctor before their first session. What is the main cost of that policy?",
      "o": [
       "It slows the gym down",
       "It can stop people starting exercise",
@@ -114,7 +115,8 @@
       "It makes clients stronger"
      ],
      "a": 1,
-     "w": "Referring too many adults for medical review creates a barrier to adopting exercise. {{whitfield2017}}"
+     "w": "Referring too many adults for medical review creates a barrier to adopting exercise. {{whitfield2017}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -476,7 +478,7 @@
     },
     {
      "t": "check",
-     "q": "Which is a sound reason to book more than one early contact?",
+     "q": "You can offer a new client either one long induction or three shorter check-ins in the first month. Which reason supports the check-ins?",
      "o": [
       "It earns more fees",
       "Repeated encounters improved the effect of motivational counselling",
@@ -484,7 +486,8 @@
       "Clients like invoices"
      ],
      "a": 1,
-     "w": "More than one encounter improved the effectiveness of motivational interviewing in the review. {{rubak2005}}"
+     "w": "More than one encounter improved the effectiveness of motivational interviewing in the review. {{rubak2005}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -627,7 +630,7 @@
     },
     {
      "t": "check",
-     "q": "Why say 'linked to' rather than 'will'?",
+     "q": "A client asks whether starting to walk will stop them having a heart attack. Why should your answer say the habit is 'linked to' lower risk rather than that it 'will' prevent one?",
      "o": [
       "It sounds modest",
       "A group finding cannot forecast one person",
@@ -635,7 +638,8 @@
       "The studies were on women"
      ],
      "a": 1,
-     "w": "Group studies show associations, and one person's picture can differ."
+     "w": "Group studies show associations, and one person's picture can differ.",
+     "kind": "application"
     },
     {
      "t": "check",

@@ -1,6 +1,6 @@
 # Library of Alexandria: Public speaking fundamentals
 
-Level: Beginner. Created 13/10/2026.
+Level: Beginner. Created 15/11/2026.
 
 Learn to plan, structure and deliver a clear talk: manage nerves, know your audience, research and support your points, shape openings and endings, use words, voice and visuals, and inform or persuade honestly.
 
@@ -86,7 +86,7 @@ Worked example: A broad topic, food, narrows to food waste, then to school kitch
 - Answer key: Receive, understand, remember, evaluate, respond, each with a problem.
 - Self-check: Compare with the figure in Lesson 1.
 
-**C2 (core).** Write a short audience analysis for a real group on all three layers, with at least one decision it changes.
+**C2 (core).** Write a short audience analysis for a real group on all three layers, and name at least one decision about your talk that the analysis changes.
 - Answer key: Demographic, psychological and situational notes plus a change you will make.
 - Self-check: Does each note change something in your speech?
 
@@ -145,7 +145,7 @@ Worked example: Two sources on a health claim are compared; the recent, expert, 
 - Answer key: A day-by-day plan with research at most one third.
 - Self-check: Do the days add up?
 
-**C2 (core).** Test one source on the six questions and four criteria in a table.
+**C2 (core).** Pick one source you plan to use and test it on the six questions and four criteria in a table, then decide whether to keep it.
 - Answer key: A filled table with a clear use-or-reject decision.
 - Self-check: Is every cell answered with evidence, not opinion?
 
@@ -197,7 +197,7 @@ Worked example: An eight-minute talk has an introduction of 48 to 72 seconds, th
 - Answer key: Five parts present and within 10 to 15 percent of the speech.
 - Self-check: Do you say the thesis in the last sentence?
 
-**C2 (core).** Brainstorm ten points, chunk them into three main points and test them against the five tests.
+**C2 (core).** Brainstorm ten points for a talk you will give, chunk them into three main points and test them against the five tests, saying which point you would cut and why.
 - Answer key: Three main points, each passing united, separate, balanced, parallel and logical.
 - Self-check: Does each point serve the specific purpose?
 

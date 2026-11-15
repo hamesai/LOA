@@ -518,9 +518,10 @@ ARCHIVE_ADD({
     {
      "id": "C3",
      "level": "Stretch",
-     "task": "Explain Adwa in 150 words under the headings military, diplomatic and Italian errors, then state one thing sources disagree on.",
+     "task": "A friend says Adwa was won only because Italy blundered. In 150 words, test that claim under the headings military, diplomatic and Italian errors, then state one thing the sources disagree on.",
      "key": "Must include modern weapons and mobilisation of a large army; French and Russian supply and the Wuchale dispute; Baratieri's poor maps, divided columns and domestic pressure to act. Disagreement: troop numbers and casualties.",
-     "check": "All three headings plus one named disagreement."
+     "check": "All three headings plus one named disagreement.",
+     "kind": "application"
     }
    ],
    "mistakes": [
@@ -623,7 +624,7 @@ ARCHIVE_ADD({
      "id": "C4",
      "level": "Source criticism",
      "task": "A friend shares a post quoting the 'Willie Lynch letter' as a real 1712 speech. In 150 words explain, using the four tests, why it should not be treated as authentic, and name one real source of evidence on divide-and-rule tactics.",
-     "key": "Must say it is a modern hoax; provenance: first in print about 1970, online from 1993, no eighteenth-century source; language: anachronisms such as program (1837), indoctrination (1832), self-refueling (1811) and the word lynching (not before 1768); corroboration: no historian has found it. Real evidence: Cobb's examples (mixing ethnic groups on slave ships; the 1845 tract Religious Instruction of Negroes) or the Slave Voyages database. Must not present any claim from the letter as fact.",
+     "key": "Must say it is a modern hoax; provenance: first in print about 1970, online from 1993, no eighteenth-century source; language: anachronisms such as program (1837), indoctrination (1832), self-refueling (1811) and the word lynching (not before 1768); corroboration: no historian has found it. Real evidence: Cobb's examples (mixing ethnic groups on slave ships; Jones's 1842 tract Religious Instruction of the Negroes) or the Slave Voyages database. Must not present any claim from the letter as fact.",
      "check": "Four tests named, at least two anachronisms, one real source, and a respectful tone."
     }
    ],
@@ -801,9 +802,10 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "In 130 words explain why the death toll in Biafra is uncertain and give two reasons for the range.",
+     "task": "A documentary gives one exact Biafran death toll. In 130 words explain why the toll is uncertain, give two reasons for the range, and rewrite the documentary's line.",
      "key": "Must include: no reliable census; civilians died of hunger in blockaded areas; wartime propaganda; difficulty separating war deaths from excess mortality.",
-     "check": "Two reasons and a range."
+     "check": "Two reasons and a range.",
+     "kind": "application"
     },
     {
      "id": "C3",
@@ -1331,7 +1333,7 @@ ARCHIVE_ADD({
     "w": "Resolution 1973."
    },
    {
-    "q": "Why does the text tag recent events [check current]?",
+    "q": "You found a figure on the AU's peacekeeping budget in a 2024 source. Why does the course tag it [check current]?",
     "o": [
      "They may have changed since the sources were read",
      "They are exact",
@@ -1339,7 +1341,8 @@ ARCHIVE_ADD({
      "They are in the Bible"
     ],
     "a": 0,
-    "w": "Recent events are snapshots."
+    "w": "Recent events are snapshots.",
+    "kind": "application"
    }
   ]
  },

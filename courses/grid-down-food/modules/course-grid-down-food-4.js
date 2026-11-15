@@ -90,7 +90,7 @@
     },
     {
      "t": "check",
-     "q": "Which cooker will certainly stop in a power cut?",
+     "q": "You are planning meals for a three-day outage. Which of your cookers can you not count on?",
      "o": [
       "Gas camping stove",
       "Barbecue",
@@ -98,11 +98,12 @@
       "Campfire"
      ],
      "a": 2,
-     "w": "Electric and induction cookers will not work in a power cut. {{fsa}}"
+     "w": "Electric and induction cookers will not work in a power cut. {{fsa}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why check that food is steaming hot when using a camping stove?",
+     "q": "You cook sausages on a camping stove for the usual 15 minutes. Why should you still check they are steaming hot?",
      "o": [
       "It is faster",
       "Cooking can take longer than usual",
@@ -110,7 +111,8 @@
       "It uses less fuel"
      ],
      "a": 1,
-     "w": "Camping stoves and barbecues can take longer, so you must check food is cooked through. {{fsa}}"
+     "w": "Camping stoves and barbecues can take longer, so you must check food is cooked through. {{fsa}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -207,7 +209,7 @@
     },
     {
      "t": "check",
-     "q": "Camping stove cooking in a power cut should be done...",
+     "q": "It is pouring with rain and you want to use the camping stove in the garage with the door shut. What should you do?",
      "o": [
       "In the kitchen",
       "In the garage with the door shut",
@@ -215,11 +217,12 @@
       "In a tent"
      ],
      "a": 2,
-     "w": "Never use camping stoves or barbecues indoors. {{cmo}} {{ukhsaco}}"
+     "w": "Never use camping stoves or barbecues indoors. {{cmo}} {{ukhsaco}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Early carbon monoxide poisoning can be mistaken for...",
+     "q": "After cooking on a gas stove indoors, two people feel sick and have a headache. What else might they think it is, and why does that matter?",
      "o": [
       "A cold only",
       "Food poisoning or flu",
@@ -227,7 +230,8 @@
       "Nothing"
      ],
      "a": 1,
-     "w": "UKHSA says symptoms can be similar to food poisoning and flu. {{ukhsaco}}"
+     "w": "UKHSA says symptoms can be similar to food poisoning and flu. {{ukhsaco}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -335,11 +339,12 @@
       "90 C"
      ],
      "a": 2,
-     "w": "The WHO says to bring stews and soups to boiling so they reach 70 C. {{who5keys}}"
+     "w": "The WHO says to bring stews and soups to boiling so they reach 70 C. {{who5keys}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What is the safe way to thaw chicken?",
+     "q": "The power is back and you want chicken for dinner tonight from the freezer. How should you thaw it?",
      "o": [
       "On the counter for the day",
       "In the fridge, cold water or microwave then cook at once",
@@ -347,7 +352,8 @@
       "In a warm oven"
      ],
      "a": 1,
-     "w": "Never thaw at room temperature or in an oven. {{nchfp}}"
+     "w": "Never thaw at room temperature or in an oven. {{nchfp}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -447,7 +453,8 @@
       "19:40"
      ],
      "a": 1,
-     "w": "19:10 + 2 hours = 21:10. {{who5keys}}"
+     "w": "19:10 + 2 hours = 21:10. {{who5keys}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -545,7 +552,7 @@
     },
     {
      "t": "check",
-     "q": "What does the FSA say about reheating food?",
+     "q": "You have leftover curry that was reheated yesterday. Can you reheat it again tonight, and how?",
      "o": [
       "Warm it a little",
       "Reheat until steaming hot throughout, and only once",
@@ -553,7 +560,8 @@
       "Reheat to 40 degrees"
      ],
      "a": 1,
-     "w": "Reheat until steaming hot all the way through, and only once. {{gov-cook}}"
+     "w": "Reheat until steaming hot all the way through, and only once. {{gov-cook}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -565,7 +573,8 @@
       "It is a legal formality only"
      ],
      "a": 1,
-     "w": "A thick frozen meal can be cold in the centre, so test before you print. This is our reasoning."
+     "w": "A thick frozen meal can be cold in the centre, so test before you print. This is our reasoning.",
+     "kind": "application"
     },
     {
      "t": "take",

@@ -103,7 +103,7 @@
     },
     {
      "t": "check",
-     "q": "On a 1:25,000 map, how many centimetres stand for 1 km?",
+     "q": "On your 1:25,000 map the next stile is 4 cm away. About how far is that on the ground?",
      "o": [
       "1",
       "2",
@@ -111,11 +111,12 @@
       "25"
      ],
      "a": 2,
-     "w": "OS describes the scale as 4 cm to 1 km. {{os-map}}"
+     "w": "OS describes the scale as 4 cm to 1 km. {{os-map}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which direction is at the top of an OS map?",
+     "q": "You spread out an OS map on a rock. Which way should you turn it so the top points the right way?",
      "o": [
       "South",
       "East",
@@ -123,7 +124,8 @@
       "It depends on the sheet"
      ],
      "a": 2,
-     "w": "OS maps are always printed with north at the top. {{os-map}}"
+     "w": "OS maps are always printed with north at the top. {{os-map}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -214,7 +216,7 @@
     },
     {
      "t": "check",
-     "q": "Which comes first in a grid reference?",
+     "q": "A friend reads a grid reference to you as 'up 71, along 48'. What have they got wrong?",
      "o": [
       "Northing",
       "Easting",
@@ -222,7 +224,8 @@
       "The letters"
      ],
      "a": 1,
-     "w": "Eastings (along the corridor) come first. {{os-map}}"
+     "w": "Eastings (along the corridor) come first. {{os-map}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -315,7 +318,7 @@
     },
     {
      "t": "check",
-     "q": "What is the most common beginner error?",
+     "q": "You set the compass to a bearing, then fiddle with it while climbing a stile, and end up off course. Which common beginner error is this?",
      "o": [
       "Using a map",
       "Moving the bezel after setting it",
@@ -323,7 +326,8 @@
       "Wearing gloves"
      ],
      "a": 1,
-     "w": "OS lists moving the bezel and holding the compass wrongly as the two biggest. {{os-comp}}"
+     "w": "OS lists moving the bezel and holding the compass wrongly as the two biggest. {{os-comp}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -447,7 +451,7 @@
     },
     {
      "t": "check",
-     "q": "At what wind speed does the Met Office say forward progress becomes almost impossible?",
+     "q": "The summit forecast gives gusts of 75 mph. What does the Met Office say about moving forward in such winds?",
      "o": [
       "30 mph",
       "50 mph",
@@ -455,7 +459,8 @@
       "20 mph"
      ],
      "a": 2,
-     "w": "Above 70 mph. {{met-mtn}}"
+     "w": "Above 70 mph. {{met-mtn}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -579,7 +584,7 @@
     },
     {
      "t": "check",
-     "q": "Whom did Shackleton consult about the ice before choosing his route in South?",
+     "q": "Before choosing your route, you can ask a local guide or rely on last year's blog. What does Shackleton's choice in South suggest you do?",
      "o": [
       "Whaling captains at South Georgia",
       "Nobody",
@@ -587,7 +592,8 @@
       "Tourists"
      ],
      "a": 0,
-     "w": "He took advice from the whaling captains. {{shack-south}}"
+     "w": "He took advice from the whaling captains. {{shack-south}}",
+     "kind": "application"
     },
     {
      "t": "check",

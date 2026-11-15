@@ -95,7 +95,7 @@
     },
     {
      "t": "check",
-     "q": "According to UConn, on what is pest management decision-making based?",
+     "q": "A colleague sprays every Monday whether or not pests are seen. What does UConn say decisions should rest on instead?",
      "o": [
       "A calendar spray schedule",
       "Information from a regular monitoring programme",
@@ -103,11 +103,12 @@
       "Neighbours' advice"
      ],
      "a": 1,
-     "w": "Decisions are based on information gathered from a regular monitoring programme."
+     "w": "Decisions are based on information gathered from a regular monitoring programme.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why does overreliance on pesticides cause problems?",
+     "q": "You have sprayed the same product for whitefly all season and it works less each time. What is the likely reason?",
      "o": [
       "They cost too much",
       "Resistance is more likely to develop in the pest population",
@@ -115,7 +116,8 @@
       "They damage the benches"
      ],
      "a": 1,
-     "w": "Missouri Extension: overreliance increases the likelihood that resistance will develop."
+     "w": "Missouri Extension: overreliance increases the likelihood that resistance will develop.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -223,7 +225,7 @@
     },
     {
      "t": "check",
-     "q": "Which practice helps prevent root and stem diseases, according to UConn?",
+     "q": "Your hose end lies on the wet floor between waterings. What does UConn advise?",
      "o": [
       "Leaving hose ends on the floor",
       "Keeping hose ends off the floor",
@@ -231,11 +233,12 @@
       "Crowding plants"
      ],
      "a": 1,
-     "w": "Keeping hose ends off the floor helps prevent many root and stem diseases."
+     "w": "Keeping hose ends off the floor helps prevent many root and stem diseases.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which climate condition tends to favour mites and thrips?",
+     "q": "Your greenhouse air is dry and warm through July and mites are spreading. Which condition is favouring them?",
      "o": [
       "Cool and wet",
       "Warm and humid",
@@ -243,7 +246,8 @@
       "Dark and still"
      ],
      "a": 2,
-     "w": "The 2026 review links dry, high-VPD conditions to mites and thrips."
+     "w": "The 2026 review links dry, high-VPD conditions to mites and thrips.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -387,7 +391,7 @@
     },
     {
      "t": "check",
-     "q": "What is UConn's minimum sticky card density?",
+     "q": "Your greenhouse is 2,000 square feet. At UConn's minimum, how many sticky cards should you hang?",
      "o": [
       "One per 100 square feet",
       "One per 1,000 square feet",
@@ -395,7 +399,8 @@
       "One per greenhouse regardless of size"
      ],
      "a": 1,
-     "w": "At the minimum, one card per 1,000 square feet, plus extra near entrances and vents."
+     "w": "At the minimum, one card per 1,000 square feet, plus extra near entrances and vents.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -582,7 +587,7 @@
     },
     {
      "t": "check",
-     "q": "Why remove yellow sticky cards before releasing parasitoids?",
+     "q": "You are about to release parasitic wasps for whitefly. What should you do with your yellow sticky cards first, and why?",
      "o": [
       "Cards attract pests",
       "Cards can capture the parasitoids",
@@ -590,11 +595,12 @@
       "Cards are toxic"
      ],
      "a": 1,
-     "w": "Missouri Extension: sticky cards can attract and capture parasitoids, so replace them a week later."
+     "w": "Missouri Extension: sticky cards can attract and capture parasitoids, so replace them a week later.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which setting favours biological control most?",
+     "q": "Which of your crops is the best candidate for biological control: a long tomato crop in a steady climate, or short bedding crops in a house that swings in temperature?",
      "o": [
       "Short crops in variable conditions",
       "Long crops with constant temperature and humidity",
@@ -602,7 +608,8 @@
       "Outdoor beds"
      ],
      "a": 1,
-     "w": "Biological control tends to be more effective in long crops and constant conditions."
+     "w": "Biological control tends to be more effective in long crops and constant conditions.",
+     "kind": "application"
     },
     {
      "t": "take",

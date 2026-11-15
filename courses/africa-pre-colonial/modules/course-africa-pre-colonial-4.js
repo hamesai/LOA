@@ -22,7 +22,7 @@
      "t": "fig",
      "id": "africa-pre-colonial-tl4",
      "title": "Sahel and Sudan belt timeline",
-     "cap": "Approximate spans from the working library. Open ends mean no firm end is given."
+     "cap": "Approximate spans. An open end means no firm end date is known."
     },
     {
      "t": "h",
@@ -30,11 +30,11 @@
     },
     {
      "t": "p",
-     "x": "Ghana was a Soninke-led state, first recorded by the Arabic writer al-Fazari in the late 8th century as the land of gold. Al-Bakri's account of 1068 was compiled from informants, since he never visited. It describes a king's court and twin towns, one of them Muslim. {{lib}}"
+     "x": "Ghana was a Soninke-led state, first recorded by the Arabic writer al-Fazari in the late 8th century as the land of gold. Al-Bakri's account of 1068 was compiled from informants, since he never visited. It describes a king's court and twin towns, one of them Muslim. {{provenance-ghana}} {{arabic-geog}}"
     },
     {
      "t": "p",
-     "x": "Archaeology at Kumbi Saleh and Tegdaoust shows urban trading centres. Modern Ghana, named in 1957, lies about 500 km to the south-east and is not the same place. {{lib}}"
+     "x": "Archaeology at Kumbi Saleh and Tegdaoust shows urban trading centres. Modern Ghana, named in 1957, lies about 500 km to the south-east and is not the same place. {{provenance-ghana}} {{ebsco-almoravids-kumbi}}"
     },
     {
      "t": "p",
@@ -94,15 +94,16 @@
     },
     {
      "t": "check",
-     "q": "What is the main weakness of al-Bakri's account of Ghana?",
+     "q": "Al-Bakri describes Ghana's court in rich detail in 1068. Before you quote him as if he saw it, what must you note?",
      "o": [
-      "He lived in Ghana",
-      "He never visited and relied on informants",
+      "Nothing: he lived there",
+      "He never visited and compiled from informants, so the detail is second-hand",
       "He wrote in Latin",
       "He wrote after 1591"
      ],
      "a": 1,
-     "w": "Al-Bakri compiled from informants. {{lib}}"
+     "w": "Al-Bakri compiled from informants. {{arabic-geog}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -133,11 +134,11 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Mansa Musa made the pilgrimage in 1324 to 25. The Egyptian writer al-Umari, writing a few years later from informants in Cairo, said his gold lowered its price in Cairo for years [PROBABLE]. Numbers for his retinue and his gold vary between sources and cannot be treated as exact [CONTESTED]. {{gha4-mali}} {{gha4-songhay}}"
+     "x": "Mansa Musa made the pilgrimage in 1324 to 25. {{wiki-musa}} The Egyptian writer al-Umari, secretary at the Mamluk court in the 1340s, drew on people in Cairo who had met the kings of the Sudan, {{gha4-intro}} and the account that Musa's gold lowered its value in Cairo comes from him [PROBABLE]. {{eaton-mhj}} Numbers for his retinue and his gold vary between sources and cannot be treated as exact [CONTESTED]. {{gha4-mali}} {{gha4-songhay}}"
     },
     {
      "t": "p",
-     "x": "Richest person ever claims are not measurable. He brought back the architect al-Sahili and patronised mosque-building in Timbuktu and Gao. The 1375 Catalan Atlas portrays him holding a gold nugget. {{lib}}"
+     "x": "Richest person ever claims are not measurable. He brought back the poet and architect al-Sahili. The Djinguereber Mosque in Timbuktu is traditionally credited to him, although the only work firmly attributed to him in the Arabic sources is a royal audience chamber. The 1375 Catalan Atlas portrays him holding a gold nugget. {{wiki-musa}} {{britannica-sahili}} {{gilder-catalan}}"
     },
     {
      "t": "h",
@@ -145,7 +146,7 @@
     },
     {
      "t": "p",
-     "x": "Ibn Battuta was born in Tangier on 24/02/1304 and began his travels with the pilgrimage of 1325. {{wiki-battuta}} He visited Mali in 1352 to 53, praising its justice and safety while criticising some customs. This is the best eyewitness account. {{lib}}"
+     "x": "Ibn Battuta was born in Tangier on 24/02/1304 and began his travels with the pilgrimage of 1325. {{wiki-battuta}} He visited Mali in 1352 to 53, praising its justice and safety while criticising some customs. This is the best eyewitness account. {{fordham-ibnb}}"
     },
     {
      "t": "p",
@@ -153,7 +154,7 @@
     },
     {
      "t": "p",
-     "x": "Reports that a Malian ruler sent ships across the Atlantic around 1311, from al-Umari, are unproven. Claims of Mande contact with the Americas are [CONTESTED] and rejected by most archaeologists. {{lib}}"
+     "x": "Reports that a Malian ruler sent ships across the Atlantic around 1311, from al-Umari, are unproven. Claims of Mande contact with the Americas are [CONTESTED] and rejected by most archaeologists. {{arabic-geog}} {{lib}}"
     },
     {
      "t": "table",
@@ -206,7 +207,7 @@
       "Ibn Battuta"
      ],
      "a": 1,
-     "w": "Al-Umari wrote within a few years from Cairo informants. {{lib}}"
+     "w": "Al-Umari wrote within a few years from Cairo informants. {{arabic-geog}}"
     },
     {
      "t": "check",
@@ -223,7 +224,7 @@
     {
      "t": "take",
      "i": [
-      "Musa's pilgrimage (1324 to 25) is probable; its numbers are not. {{lib}}",
+      "Musa's pilgrimage (1324 to 25) is probable; its numbers are not. {{britannica-musa}} {{eaton-mhj}}",
       "Ibn Battuta is the best eyewitness to Mali, in 1352 to 53.",
       "Atlantic voyages from Mali are unproven."
      ]
@@ -237,7 +238,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "From Gao, Sunni Ali (r. c. 1464 to 92) took Timbuktu in 1468 and Jenne in 1473. Askia Muhammad (r. 1492 or 1493 to 1528) reorganised provinces and the army, made the pilgrimage in 1496 to 97 and promoted Islamic scholarship. Leo Africanus's description of Timbuktu, based on a visit in the 1510s and published in 1550, gives an outsider's view. {{lib}} {{gha4-songhay}}"
+     "x": "From Gao, Sunni Ali (r. c. 1464 to 92) took Timbuktu in 1468 and Jenne in 1473. Askia Muhammad (r. 1492 or 1493 to 1528) reorganised provinces and the army, made the pilgrimage in 1496 to 97 and promoted Islamic scholarship. Leo Africanus's description of Timbuktu, based on a visit in the 1510s and published in 1550, gives an outsider's view. {{openstax-songhai}} {{britannica-sonni-ali}} {{ebsco-askia}} {{britannica-askia}} {{gha4-songhay}}"
     },
     {
      "t": "h",
@@ -245,7 +246,7 @@
     },
     {
      "t": "p",
-     "x": "The Tarikh al-Sudan (al-Sa'di, c. 1655) and the Tarikh al-Fattash (attributed to Mahmud Kati) are Timbuktu-written histories. The second has a complicated authorship and later additions [CONTESTED]. They are rare African-authored chronicles but they also favour their scholarly circles. {{lib}}"
+     "x": "The Tarikh al-Sudan (al-Sa'di, c. 1655) and the Tarikh al-Fattash (attributed to Mahmud Kati) are Timbuktu-written histories. The second has a complicated authorship and later additions [CONTESTED]. They are rare African-authored chronicles but they also favour their scholarly circles. {{timbuktu-chron}}"
     },
     {
      "t": "h",
@@ -261,11 +262,11 @@
     },
     {
      "t": "p",
-     "x": "Private family libraries hold a very large number of manuscripts on law, theology, astronomy, medicine and history, in Arabic and in African languages. Estimates run from about 300,000 to 700,000 items and are [CONTESTED]. {{lib}}"
+     "x": "Private family libraries hold a very large number of manuscripts on law, theology, astronomy, medicine and history, in Arabic and in African languages. Estimates run from about 300,000 to 700,000 items and are [CONTESTED]. {{stewart-timbuktu}} {{tombouctou-uct}}"
     },
     {
      "t": "p",
-     "x": "In 2012 to 13, armed groups took the city and destroyed shrines. The International Criminal Court later convicted Ahmad al-Faqi al-Mahdi for destroying protected buildings (2016). Many manuscripts were moved to Bamako for safety. {{lib}}"
+     "x": "Between 30 June and 11 July 2012, armed groups destroyed ten shrines and mausoleums in Timbuktu. The International Criminal Court later convicted Ahmad al-Faqi al-Mahdi for destroying protected buildings (2016). Many manuscripts were moved to Bamako for safety. {{icc-al-mahdi}} {{icc-case-sheet}}"
     },
     {
      "t": "example",
@@ -317,15 +318,16 @@
     },
     {
      "t": "check",
-     "q": "Why can the manuscript total not be treated as a count?",
+     "q": "One article says Timbuktu holds 300,000 manuscripts and another says 700,000. How should a lesson report the number?",
      "o": [
-      "Manuscripts are all lost",
-      "Estimates differ by more than two times",
-      "They are all in Latin",
-      "Only one library exists"
+      "Pick the higher figure",
+      "Average them to 500,000",
+      "Give the range and call it an estimate, since the estimates differ by more than two times",
+      "Leave manuscripts out"
      ],
-     "a": 1,
-     "w": "Estimates run from about 300,000 to 700,000. {{lib}}"
+     "a": 2,
+     "w": "Estimates run from about 300,000 to 700,000. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -344,7 +346,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Kanem-Borno was a long-lived state around Lake Chad, from about the 9th century, with a Muslim dynasty. Mai Idris Alooma (r. c. 1564 to 96) is its best-known ruler. It links the Sahel to the Hausa states and Libya. {{lib}}"
+     "x": "Kanem-Borno was a long-lived state around Lake Chad, from about the 9th century, with a Muslim dynasty. Mai Idris Alooma (r. c. 1564 to 96) is its best-known ruler. It links the Sahel to the Hausa states and Libya. {{britannica-kanem}} {{sirah-alooma}} {{encaf-kanem}}"
     },
     {
      "t": "p",
@@ -364,7 +366,7 @@
     },
     {
      "t": "p",
-     "x": "The scholar Usman dan Fodio criticised Hausa rulers for heavy taxation and for tolerating non-Islamic practices. After conflict with Gobir he migrated in 1804 and led a jihad that created a federation of emirates under Sokoto, from 1809 under his son Muhammad Bello. It lasted until the British conquest of 1903. His daughter Nana Asma'u was a leading poet and educator. {{lib}}"
+     "x": "The scholar Usman dan Fodio criticised Hausa rulers for heavy taxation and for tolerating non-Islamic practices. After conflict with Gobir he migrated in 1804 and led a jihad that created a federation of emirates under Sokoto, from 1809 under his son Muhammad Bello. It lasted until the British conquest of 1903. His daughter Nana Asma'u was a leading poet and educator. {{britannica-usman}} {{wiki-sokoto}} {{oxford-sokoto}}"
     },
     {
      "t": "h",
@@ -465,7 +467,7 @@
       "Askia Muhammad"
      ],
      "a": 1,
-     "w": "He migrated in 1804 and led the jihad. {{lib}}"
+     "w": "He migrated in 1804 and led the jihad. {{britannica-usman}}"
     },
     {
      "t": "check",
@@ -532,7 +534,7 @@
     },
     {
      "t": "p",
-     "x": "Now a number test. A website claims Mansa Musa carried 18 tonnes of gold. Ask who counted, when, and where the number first appears. Our library does not give an exact weight, so the only safe sentence is that sources describe large quantities with varying numbers. {{lib}}"
+     "x": "Now a number test. A website claims Mansa Musa carried 18 tonnes of gold. Ask who counted, when, and where the number first appears. No reliable source gives an exact weight, so the only safe sentence is that sources describe large quantities with varying numbers. {{lib}}"
     },
     {
      "t": "p",
@@ -548,7 +550,7 @@
       "He wrote the epic"
      ],
      "a": 1,
-     "w": "He visited and described the court. {{lib}}"
+     "w": "He visited and described the court. {{fordham-ibnb}}"
     },
     {
      "t": "check",
@@ -573,7 +575,7 @@
   },
   {
    "id": "l6",
-   "title": "What the supplied books add to Ghana, Mali and Songhai",
+   "title": "What the books add to Ghana, Mali and Songhai",
    "min": 28,
    "blocks": [
     {
@@ -600,12 +602,12 @@
      "rows": [
       [
        "About 60,000 followers, 80 camels carrying 300 lb of gold each",
-       "Young readers' retelling {{oli-court}}",
+       "Young readers' retelling ",
        "Our rule from lesson 2 stands: the numbers vary between sources and cannot be treated as exact. [CONTESTED]"
       ],
       [
        "Musa gave only about 20,000 gold pieces as alms in the two holy cities, against 100,000 from Askia Muhammad",
-       "Diop, quoting an eastern annal through Hamidullah {{dpc-state}}",
+       "Diop, quoting an eastern annal through Hamidullah {{dpc-state-007}}",
        "A direct conflict with the popular picture of Cairo's price collapsing. Show both; do not pick. [CONTESTED]"
       ],
       [
@@ -619,7 +621,7 @@
        "[PROBABLE]"
       ]
      ],
-     "src": "{{oli-court}}"
+     "src": ""
     },
     {
      "t": "h",
@@ -627,7 +629,7 @@
     },
     {
      "t": "p",
-     "x": "The young readers' book dates the voyage to 1312 and says some travellers may have reached the Americas, citing Van Sertima. {{oli-ship}} Diop retells al-Umari through Hamidullah: a first fleet, then 2,000 vessels sent by the ruler who handed power to Musa, and he thinks contact was constant. {{dpc-tech}} The first fleet is 200 ships in one account and 400 in the other, so quote neither as exact. The course keeps the voyage as reported by al-Umari and Atlantic crossing as unproven; Mande-American contact is [CONTESTED] and rejected by most archaeologists."
+     "x": "The young readers' book dates the voyage and says some travellers may have reached the Americas, citing Van Sertima.  Diop retells al-Umari through Hamidullah: a first fleet, then 2,000 vessels sent by the ruler who handed power to Musa, and he thinks contact was constant. {{dpc-tech-007}} The first fleet is 200 ships in one account and 400 in the other, so quote neither as exact. The course keeps the voyage as reported by al-Umari and Atlantic crossing as unproven; Mande-American contact is [CONTESTED] and rejected by most archaeologists."
     },
     {
      "t": "h",
@@ -635,7 +637,7 @@
     },
     {
      "t": "p",
-     "x": "The young readers' book says Musa and as-Sahili introduced sun-dried mud brick to the Sudan. {{oli-court}} Mud brick is far older: Kerma's monumental mud-brick buildings date to about 2500 BCE (lesson 1 of Module 2) and Jenne-jeno's wall is mud brick. Diop, reading Ibn Khaldun, adds that as-Sahili built a square, domed reception hall at the capital, not a mosque, and that this is not the oblong buttressed Sudanese style. {{dpc-tech}} So keep the course wording that Musa brought an architect and patronised building, and do not say the mosque at Gao is certain. [CONTESTED]"
+     "x": "The young readers' book says Musa and as-Sahili introduced sun-dried mud brick to the Sudan.  Mud brick is far older: Kerma's monumental mud-brick buildings date to the third millennium BCE (lesson 1 of Module 2) and Jenne-jeno's wall is mud brick. Diop, reading Ibn Khaldun, adds that as-Sahili built a square, domed reception hall at the capital, not a mosque, and that this is not the oblong buttressed Sudanese style. {{dpc-tech-011}} So keep the course wording that Musa brought an architect and patronised building, and do not say the mosque at Gao is certain. [CONTESTED]"
     },
     {
      "t": "p",
@@ -656,12 +658,12 @@
      "rows": [
       [
        "200,000 warriors including 40,000 archers",
-       "Al-Bakri's informants, repeated by Diop {{dpc-state}}",
+       "Al-Bakri's informants, repeated by Diop {{dpc-state-007}}",
        "Reader calls this probably a tenfold or even twentyfold exaggeration. {{rd-gold}}"
       ],
       [
        "Ghana's Black emperors ruled 1,250 years over a land as vast as Europe",
-       "Diop {{dpc-state}}",
+       "Diop {{dpc-state-006}}",
        "No firm source; a king-list tradition at best. [TRADITIONAL DATE]"
       ],
       [
@@ -682,7 +684,7 @@
     },
     {
      "t": "p",
-     "x": "Ibn Battuta's own dates settle his stay in Mali: he arrived on 28 June 1352 and left on 27 February 1353. He praises the justice and safety of the country and the care taken with dead merchants' goods, and criticises the nakedness of women, dust thrown on heads and the eating of carrion; Mansa Sulayman gave him bread, beef and curds at first and later 100 mithqals. {{ibn-battuta-gibb}} At Walata heirs came through the mother's brother. He says Mansa Musa gave the poet-architect as-Sahili 4,000 mithqals in a day and that as-Sahili's grave lay at Timbuktu. {{ibn-battuta-gibb}} Gibb's 1929 notes still state that the Almoravids destroyed Ghana in 1076; that is an older editor's summary and stays [CONTESTED]."
+     "x": "Ibn Battuta's own dates settle his stay in Mali: he arrived on 28 June 1352 and left on 27 February 1353. He praises the justice and safety of the country and the care taken with dead merchants' goods, and criticises the nakedness of women, dust thrown on heads and the eating of carrion. Mansa Sulayman's hospitality gift was three cakes of bread, a piece of fried beef and a calabash of sour curds, and Ibn Battuta laughed at it. {{ibn-battuta-gibb-029}} At Walata heirs came through the mother's brother. He says Mansa Musa gave the poet-architect as-Sahili 4,000 mithqals in a day and that as-Sahili's grave lay at Timbuktu. {{ibn-battuta-gibb-029}} Gibb's 1929 notes still state that the Almoravids destroyed Ghana in 1076; that is an older editor's summary and stays [CONTESTED]."
     },
     {
      "t": "p",
@@ -702,7 +704,7 @@
     },
     {
      "t": "p",
-     "x": "Diop shows Kati and Sa'di working as historians: they cite authorities, date events to the day, and question informants. {{dpc-tech}} A second book, from Diop's earlier work, notes that Kati admits some early chapters had little to rest on. {{dio-method}} He contrasts the chroniclers' hostile portrait of Sonni Ali with their warm portrait of Askia Muhammad and reads Sonni Ali's harshness to the Timbuktu clergy as defence of older religion. That reading is plausible but it is an interpretation. [CONTESTED] Diop also calls the Arab chroniclers objective; the course tags al-Bakri, al-Umari and Ibn Battuta as distance sources, and that stands."
+     "x": "Diop shows Kati and Sa'di working as historians: they cite authorities, date events to the day, and question informants.  A second book, from Diop's earlier work, notes that Kati admits some early chapters had little to rest on. {{dio-method-014}} He contrasts the chroniclers' hostile portrait of Sonni Ali with their warm portrait of Askia Muhammad and reads Sonni Ali's harshness to the Timbuktu clergy as defence of older religion. That reading is plausible but it is an interpretation. [CONTESTED] Diop also calls the Arab chroniclers objective; the course tags al-Bakri, al-Umari and Ibn Battuta as distance sources, and that stands."
     },
     {
      "t": "callout",
@@ -715,7 +717,7 @@
     },
     {
      "t": "p",
-     "x": "Diop tells of the deportation of Sankore scholars to Marrakesh in March 1594, Ahmad Baba among them. {{dpc-tech}} The course places the battle of Tondibi in 1591. Both can be right: Tondibi opened the war, and the deportations came later."
+     "x": "Diop tells of the deportation of Sankore scholars to Marrakesh in March 1594, Ahmad Baba among them. {{dpc-tech-010}} The course places the battle of Tondibi in 1591. Both can be right: Tondibi opened the war, and the deportations came later."
     },
     {
      "t": "h",
@@ -723,7 +725,7 @@
     },
     {
      "t": "p",
-     "x": "Rodney lists Sokoto, Ahmadu, al-Hajj Umar and Samori Toure as nineteenth-century builders of states, and says Africa went into the slave trade as into a gale that wrecked a few societies and slowed many, with African rulers still making decisions until about 1885. {{rod-trade}} It is his image, one position in the debate set out in Module 8."
+     "x": "Rodney lists Sokoto, Ahmadu, al-Hajj Umar and Samori Toure as nineteenth-century builders of states, and says Africa went into the slave trade as into a gale that wrecked a few societies and slowed many, with African rulers still making decisions until about 1885. {{rod-trade-009}} It is his image, one position in the debate set out in Module 8."
     },
     {
      "t": "check",
@@ -739,15 +741,16 @@
     },
     {
      "t": "check",
-     "q": "Reader says al-Bakri's figure of 200,000 men for Ghana is likely to be:",
+     "q": "An essay says Ghana's king could field 200,000 soldiers, citing al-Bakri. Following Reader, what is the safest sentence?",
      "o": [
-      "An accurate count",
-      "A tenfold or even twentyfold exaggeration",
-      "An undercount",
-      "A Mali figure"
+      "Ghana fielded 200,000 soldiers",
+      "Al-Bakri's informants reported 200,000 men, a figure Reader thinks inflated perhaps tenfold or more",
+      "Ghana had no army",
+      "Ghana fielded 2 million soldiers"
      ],
      "a": 1,
-     "w": "Reader judges the figure from informants to be inflated. {{rd-gold}}"
+     "w": "Reader judges the figure from informants to be inflated. {{rd-gold}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -759,12 +762,12 @@
       "Merge them"
      ],
      "a": 2,
-     "w": "Sonni Ali reigned about 140 years after 1325. {{dpc-state}}"
+     "w": "The hostages date from Mali's hold on Gao about 1325, and Sunni Ali came to power in 1464, about 140 years later (our arithmetic), so Diop's name cannot be right as it stands. {{gha4-songhay}}"
     },
     {
      "t": "take",
      "i": [
-      "Popular numbers for Musa's pilgrimage are not exact and one source gives a smaller alms figure. {{dpc-state}}",
+      "Popular numbers for Musa's pilgrimage are not exact and one source gives a smaller alms figure. {{dpc-state-007}}",
       "Ghana's army and age are inflated in tradition; Koumbi Saleh is the check. {{rd-gold}}",
       "A retelling is not evidence. {{oli-court}}"
      ]
@@ -803,7 +806,7 @@
     {
      "t": "callout",
      "k": "warn",
-     "x": "The same conclusion says the whole continent had at least 200 million people in Ibn Battuta's lifetime and that the king of Gao had a regular army of 100,000. It gives no basis for either number. Do not use them. {{gha4-concl}} [THIN EVIDENCE]"
+     "x": "The same conclusion says the whole continent had at least 200 million people in Ibn Battuta's lifetime and that the king of Gao had a regular army of a size the lesson does not repeat. It gives no basis for either figure. Do not use them. {{gha4-concl}} [THIN EVIDENCE]"
     },
     {
      "t": "p",
@@ -832,7 +835,7 @@
     },
     {
      "t": "p",
-     "x": "M. Ly-Tall says the decline was a long process: succession quarrels after about 1387, Tuareg capture of Timbuktu about 1433, Songhai pressure from the east, and a shift of trade to the Gambia once the Portuguese arrived. In 1599 Mansa Mahmud IV tried to retake Jenne from the Moroccans and failed; after that the Bambara kingdoms of Segu and Kaarta rose. {{gha4-decl}} [PROBABLE]"
+     "x": "M. Ly-Tall says the decline was a long process: succession quarrels after about 1387, Tuareg capture of Timbuktu about 1433, Songhai pressure from the east, and a shift of trade to the Gambia once the Portuguese arrived. In 1599 Mansa Mahmud IV tried to retake Jenne from the Moroccans and failed; {{gha4-decl}} After that the Bambara kingdoms of Segu and Kaarta rose. {{gha5-volta}} [PROBABLE]"
     },
     {
      "t": "p",
@@ -848,7 +851,7 @@
     },
     {
      "t": "p",
-     "x": "He says Sunni Ali (1464 to 1492) has been rehabilitated, because the picture of a cruel tyrant comes from Timbuktu scholars writing in the mid-seventeenth century and from a quarrel with them. Askiya Muhammad's pilgrimage of 1496 to 97 took 800 horsemen and nearly 300,000 dinars. {{gha4-songhay}} [CONTESTED]"
+     "x": "He says Sunni Ali (1464 to 1492) has been rehabilitated, because the picture of a cruel tyrant comes from Timbuktu scholars writing in the mid-seventeenth century and from a quarrel with them. Askiya Muhammad's pilgrimage of 1496 to 97 took 800 horsemen and a great deal of money. {{gha4-songhay}} [CONTESTED]"
     },
     {
      "t": "table",
@@ -925,11 +928,11 @@
     },
     {
      "t": "p",
-     "x": "He says Kanem's prosperity rested on farming, herding, salt-mining from Bilma and Fachi, and crafts more than on slaves, though slaves were a major export to the north. Islam did not take deep root even in Kanem before the thirteenth century, and Dunama Dibalami (about 1210 to 1248) was the great Muslim reformer. The Diwan's figure of 41,000 horses for Dunama is a chronicle number. {{gha4-chad}} [THIN EVIDENCE]"
+     "x": "He says Kanem's prosperity rested on farming, herding, salt-mining from Bilma and Fachi, and crafts more than on slaves, though slaves were a major export to the north. Islam did not take deep root even in Kanem before the thirteenth century, and Dunama Dibalami (about 1210 to 1248) was the great Muslim reformer. The Diwan gives a very large horse figure for Dunama, and it is a chronicle number. {{gha4-chad}} [THIN EVIDENCE]"
     },
     {
      "t": "p",
-     "x": "A century-long struggle between two lines of the dynasty and the Bulala wars drove the Sefuwa out of Kanem into Bornu at the end of the fourteenth century. They retook Djimi about 1497, and the Bulala were beaten only under Idris Alawoma (1564 to 1596). For about twenty years in the early fifteenth century the army chief, the kayghamma, made and unmade kings. Ali Ghadjideni (about 1465 to 1497) built Gazargamo, the capital for over three centuries. {{gha4-chad}}"
+     "x": "A century-long struggle between two lines of the dynasty and the Bulala wars drove the Sefuwa out of Kanem into Bornu at the end of the fourteenth century. They retook Djimi about 1497, and the Bulala were beaten only under Idris Alawoma (later sixteenth century). For about twenty years in the early fifteenth century the army chief, the kayghamma, made and unmade kings. Ali Ghadjideni (about 1465 to 1497) built Gazargamo, the capital for over three centuries. {{gha4-chad}}"
     },
     {
      "t": "callout",
@@ -986,7 +989,7 @@
     },
     {
      "t": "p",
-     "x": "He gives the Kano Chronicle's claim that Galadima Dawuda took 21,000 slaves in a campaign in 1438 to 1452 and settled them in 21 Indabo villages, which he reads as a true slaving expedition. This is the chronicle's number, and it is not independent evidence. He says slaves worked royal estates and held high office, and that their lot was no better than the talakawa's. {{gha5-hausa}} [THIN EVIDENCE]"
+     "x": "He treats the Kano Chronicle's slave-taking figures as chronicle evidence, not independent proof. In one episode a raider left 500 slaves at Indabo, a property set aside for him. He says slaves worked royal estates and held high office, and that their lot was no better than the talakawa's. {{gha5-hausa}} [THIN EVIDENCE]"
     },
     {
      "t": "p",
@@ -998,7 +1001,7 @@
     },
     {
      "t": "p",
-     "x": "Barkindo says the Sefuwa moved to Borno in 1382 to 1387 after Kanem's collapse, and that Ali Gaji (about 1465 to 1497) built the capital Birnin Gazargamu about 1472 and claimed caliphal investiture about 1484. Idris Alawoma (1564 to 1596) set up Turkish gunmen, pacified a core province of about 20,000 square kilometres, settled Kanem groups there, and partitioned Kanem with the Bulala by the 1580s. {{gha5-borno}} [PROBABLE]"
+     "x": "Barkindo says the Sefuwa moved to Borno after Kanem's collapse, and that Ali Gaji built the capital Birnin Gazargamu and was invested as caliph about ten years before the Askiya's pilgrimage of about 1496 to 1498. Idris Alawoma (later sixteenth century) set up Turkish gunmen, pacified a core province of about 20,000 square kilometres, settled Kanem groups there, and partitioned Kanem with the Bulala by the 1580s. {{gha5-borno}} [PROBABLE]"
     },
     {
      "t": "p",
@@ -1034,7 +1037,7 @@
     },
     {
      "t": "p",
-     "x": "Boubacar Barry says Senegambia, the basins of the Senegal and Gambia, was a dependency of the Sudan and Sahara until the fifteenth century, and that Portuguese trade from about 1445 (Arguin) turned its routes towards the coast. He ties this to the break-up of the Jolof confederacy in the sixteenth century into Waalo, Kayor, Bawol, Siin and Salum, to the rise of the Denyanke kings of Futa Toro, and, in the Southern Rivers, to Kaabu taking over from Mali. He gives leather as the second export after gold, at 150,000 hides in 1660. {{gha5-senegambia}} [PROBABLE]"
+     "x": "Boubacar Barry says Senegambia, the basins of the Senegal and Gambia, was a dependency of the Sudan and Sahara until the fifteenth century, and that Portuguese trade from about 1445 (Arguin) turned its routes towards the coast. He ties this to the break-up of the Jolof confederacy in the sixteenth century into Waalo, Kayor, Bawol, Siin and Salum, to the rise of the Denyanke kings of Futa Toro, and, in the Southern Rivers, to Kaabu taking over from Mali. He gives leather as the second export after gold. {{gha5-senegambia}} [PROBABLE]"
     },
     {
      "t": "p",
@@ -1156,7 +1159,7 @@
     {
      "t": "callout",
      "k": "warn",
-     "x": "Djait's own chronological table gives the Almoravid conquest of Ghana as 1076 and Mansa Musa as 1312 to 1335, whereas Hama and Ki-Zerbo in chapter 2 of the same volume give 1312 to 1332. The Almoravid conquest of Ghana is itself disputed between volumes III and IV. A table in a methods chapter is a convenience, not a ruling; keep the range and the dispute. {{gha1-djait}} {{gha1-hama}} [CONTESTED]"
+     "x": "Djait's own chronological table gives the Almoravid conquest of Ghana as 1076 and Mansa Musa as 1312 to 1335, {{gha1-djait}} whereas Hama and Ki-Zerbo in chapter 2 of the same volume give 1312 to 1332. {{gha1-hama}} The Almoravid conquest of Ghana is itself disputed between volumes III and IV. A table in a methods chapter is a convenience, not a ruling; keep the range and the dispute. {{gha1-djait}} {{gha1-hama}} [CONTESTED]"
     },
     {
      "t": "h",
@@ -1257,7 +1260,7 @@
     },
     {
      "t": "p",
-     "x": "For the Ghana lessons, Hugot's Dhar Tichitt is the earliest stone-built, fortified farming settlement he knows in the western Sahara. It began about 2000 before our era and has millet from 1500 before our era, far earlier than Ghana. It shows that millet farming and village building existed in this region well before any Soninke state, though he does not claim a link. {{gha1-hugot}} [PROBABLE]"
+     "x": "For the Ghana lessons, Hugot's Dhar Tichitt is the earliest stone-built, fortified farming settlement he knows in the western Sahara. It began about 2000 before our era and has millet from 1500 before our era, far earlier than Ghana. It shows that millet farming and village building existed in this region well before any Soninke state, though he does not claim a link (the comparison with Ghana is ours). {{gha1-hugot}} [PROBABLE]"
     },
     {
      "t": "h",
@@ -1318,7 +1321,7 @@
     },
     {
      "t": "table",
-     "title": "Ibn Battuta as a source on Mali (the library gives the strengths; the limits come from the encyclopaedic page)",
+     "title": "Ibn Battuta as a source on Mali: strengths and limits",
      "head": [
       "Strength",
       "Limit"
@@ -1375,15 +1378,16 @@
     },
     {
      "t": "check",
-     "q": "What did Ibn Battuta mistake the Niger for?",
+     "q": "Ibn Battuta writes that he travelled along 'the Nile' in Mali. How should you read that passage?",
      "o": [
-      "The Congo",
-      "The Nile",
-      "The Senegal",
-      "The Zambezi"
+      "As proof the Nile reaches Mali",
+      "As his mistake: the river was the Niger, which he took for the Nile",
+      "As a later forgery",
+      "As a reference to the Senegal"
      ],
      "a": 1,
-     "w": "Wikipedia reports that he believed it to be the Nile. {{wiki-battuta}}"
+     "w": "Wikipedia reports that he believed the Niger to be the Nile. {{wiki-battuta}}",
+     "kind": "application"
     },
     {
      "t": "check",

@@ -1,6 +1,6 @@
 # Library of Alexandria: Camping fundamentals (UK and Ireland)
 
-Level: Beginner. Created 12/10/2026.
+Level: Beginner. Created 15/11/2026.
 
 Plan, pitch, sleep, cook, navigate and stay safe on a first camping trip in the UK and Ireland, within the law and with minimal impact.
 
@@ -85,7 +85,7 @@ Worked example: Two adults and a dog need about 40 to 60 square feet (3.7 to 5.6
 - Answer key: Second pitch quicker than the first, fly taut with seams aligned.
 - Self-check: Check that fly seams line up with the tent body and poles.
 
-**C3 (stretch).** Choose between two imaginary pitches (low by a stream, or a rise with trees). Write three reasons.
+**C3 (stretch).** Choose between two imaginary pitches (low by a stream, or a rise with trees) for a damp, still night. Decide which you would take and give three reasons from the module.
 - Answer key: The rise: drier, windbreak, less condensation.
 - Self-check: Each reason must name a hazard from the lesson.
 

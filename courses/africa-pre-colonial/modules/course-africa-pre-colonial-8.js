@@ -22,7 +22,7 @@
      "t": "fig",
      "id": "africa-pre-colonial-tl8",
      "title": "Atlantic world timeline",
-     "cap": "Approximate spans from the working library and the Voyages database; open ends mean no firm end is given."
+     "cap": "Approximate spans, with Atlantic figures from the Slave Voyages database. An open end means no firm end date is known."
     },
     {
      "t": "h",
@@ -30,7 +30,7 @@
     },
     {
      "t": "p",
-     "x": "Portuguese ships took Ceuta in 1415 and reached the Gold Coast, building the fort of Elmina in 1482. Sugar plantations on São Tomé created early demand for enslaved labour. For two centuries European traders usually operated at the coast on African terms and from a few fortified posts. {{lib}}"
+     "x": "Portuguese ships took Ceuta in 1415 and reached the Gold Coast, building the fort of Elmina in 1482. Sugar plantations on São Tomé created early demand for enslaved labour. For two centuries European traders usually operated at the coast on African terms and from a few fortified posts. {{eve-ceuta}} {{britannica-elmina}} {{ebsco-elmina}} {{the-past-saotome}}"
     },
     {
      "t": "h",
@@ -38,7 +38,7 @@
     },
     {
      "t": "p",
-     "x": "The Trans-Atlantic Slave Trade Database, called Voyages, estimates about 12.5 million people embarked between 1501 and 1866. The estimates page lists 12,521,354 embarked. {{sv-est}} The library gives about 10.7 million disembarked, a figure I did not re-check on that page, which shows embarked only. {{lib}}"
+     "x": "The Trans-Atlantic Slave Trade Database, called Voyages, estimates about 12.5 million people embarked between 1501 and 1866. The estimates page lists 12,521,354 embarked. {{sv-est}} Its overview essay gives about 10.7 million who arrived in the Americas. {{sv-essay}}"
     },
     {
      "t": "table",
@@ -107,32 +107,34 @@
      "steps": [
       "Take the row 1751 to 1800. West Central Africa is the largest column at 1,477,046 of 3,933,989 embarked. Share: 1,477,046 divided by 3,933,989 is about 0.375, or 38 per cent.",
       "Compare the whole period: 5,694,581 divided by 12,521,354 is about 0.455, or 45 per cent. So the leading region's share varies by period.",
-      "Check the middle passage using the library's disembarked figure of 10.7 million: 12.5 minus 10.7 is 1.8 million, and 1.8 divided by 12.5 is about 14 per cent, roughly one in seven. This rests on the 10.7 figure, which I did not re-open. {{sv-est}} {{lib}}"
+      "Check the middle passage using the Slave Voyages estimate of 10.7 million disembarked: 12.5 minus 10.7 is 1.8 million, and 1.8 divided by 12.5 is about 14 per cent, roughly one in seven (our arithmetic). {{sv-est}} {{sv-essay}}"
      ]
     },
     {
      "t": "check",
-     "q": "In 1751 to 1800, which region embarked the most people?",
+     "q": "An essay says the Gold Coast was the biggest source of captives in the late eighteenth century. Using the Voyages table for 1751 to 1800, what is the correction?",
      "o": [
-      "Bight of Benin",
-      "West Central Africa",
-      "Gold Coast",
-      "Senegambia"
+      "It is right",
+      "West Central Africa embarked the most, 1,477,046 of 3,933,989",
+      "Senegambia embarked the most",
+      "The Bight of Benin embarked all of them"
      ],
      "a": 1,
-     "w": "West Central Africa, with 1,477,046 of 3,933,989. {{sv-est}}"
+     "w": "West Central Africa, with 1,477,046 of 3,933,989. {{sv-est}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why must the 12.5 million figure be quoted with the disembarked figure?",
+     "q": "A report says '12.5 million Africans arrived in the Americas'. What is wrong?",
      "o": [
-      "They are the same number",
-      "Embarked and disembarked differ because of deaths in the Middle Passage",
-      "Only disembarked counts",
-      "They measure different centuries"
+      "Nothing",
+      "12.5 million is the embarked figure; fewer arrived because many died in the Middle Passage",
+      "The figure is 125 million",
+      "It counts only the nineteenth century"
      ],
      "a": 1,
-     "w": "The gap is Middle Passage mortality. {{lib}}"
+     "w": "The gap between embarked and disembarked is Middle Passage mortality. {{sv-est}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -255,7 +257,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Britain outlawed the trade for its subjects in 1807 and slavery in the empire in 1833 to 34. The Royal Navy's West Africa Squadron intercepted ships and freed well over 100,000 people, a rough figure [PROBABLE]. Freetown and Liberia received freed people; Liberia's settlement at Cape Mesurado began in 1821 and took its name in 1824. {{gha6-daget}} {{lib}}"
+     "x": "Britain outlawed the trade for its subjects in 1807. The Royal Navy's West Africa Squadron intercepted ships and freed about 150,000 Africans, though how much it reduced the trade is debated [PROBABLE]. {{wiki-westafrica}} {{royalnavy-westafrica}} Other navies made a show of patrols: France set up its squadron in 1818, and slaves taken from American ships seized in 1860 helped to populate Liberia. {{gha6-daget}} {{uk-parliament-abolition}} {{statutes-1807}} {{wiki-westafrica}} {{royalnavy-westafrica}}"
     },
     {
      "t": "p",
@@ -283,7 +285,7 @@
     },
     {
      "t": "p",
-     "x": "Daget's period totals are a separate series from the Voyages figures used in this module: 1807 to 1867, about 1.9 million Africans put on board, most of them loaded south of the Equator. Do not mix the two without saying which is which. {{gha6-daget}}"
+     "x": "Daget's period totals are a separate series from the Voyages figures used in this module: 1807 to 1867, a separately counted total of Africans put on board, most of them loaded south of the Equator. Do not mix the two without saying which is which. {{gha6-daget}}"
     },
     {
      "t": "p",
@@ -295,7 +297,7 @@
     },
     {
      "t": "p",
-     "x": "Colonisation was already under way. France invaded Algeria in 1830, resisted until 1847 by Abd al-Qadir. The Cape and Natal were British. Egypt was occupied by Britain in 1882, and Leopold II's International African Association worked in the Congo basin from 1876. The Suez Canal opened in 1869. {{lib}}"
+     "x": "Colonisation was already under way. France invaded Algeria in 1830, resisted until 1847 by Abd al-Qadir. The Cape and Natal were British. Egypt was occupied by Britain in 1882, and Leopold II's International African Association worked in the Congo basin from 1876. The Suez Canal opened in 1869. {{loc-algeria}} {{ebsco-french-algeria}} {{napoleon-abdelkader}} {{britannica-egypt}} {{britannica-iai}}"
     },
     {
      "t": "table",
@@ -351,7 +353,7 @@
       "The label is exact"
      ],
      "a": 1,
-     "w": "Algeria, the Cape, Natal and Egypt were already colonised or occupied. {{lib}}"
+     "w": "Algeria, the Cape, Natal and Egypt were already colonised or occupied. {{loc-algeria}} {{britannica-egypt}}"
     },
     {
      "t": "check",
@@ -368,7 +370,7 @@
     {
      "t": "take",
      "i": [
-      "Abolition (1807; 1833 to 34) did not end slavery within Africa. {{lib}}",
+      "Abolition (1807; 1833 to 34) did not end slavery within Africa. {{heritage-parliament}} {{nationalarchives-slavery}}",
       "Colonisation began well before Berlin.",
       "Pre-colonial is a convenient label, not a description of stasis."
      ]
@@ -382,7 +384,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "The Berlin Conference met on 15/11/1884 and closed on 26/02/1885 with the signing of the General Act. Otto von Bismarck called representatives of thirteen European nations and the United States, fourteen countries in all. {{wiki-berlin}} No African ruler was present. {{lib}}"
+     "x": "The Berlin Conference met on 15/11/1884 and closed on 26/02/1885 with the signing of the General Act. Otto von Bismarck called representatives of fourteen states: twelve European countries, the United States and the Ottoman Empire. {{wiki-berlin}} {{diplo-berlin}} {{britannica-berlin}} No African ruler was present. {{lib}}"
     },
     {
      "t": "p",
@@ -403,7 +405,7 @@
     },
     {
      "t": "p",
-     "x": "It did not draw the borders of Africa. Boundaries were set in bilateral treaties over the next thirty years. Its ban on the slave trade was rhetorical rather than enforced. {{lib}}"
+     "x": "It did not draw the borders of Africa. Boundaries were set in bilateral treaties over the next thirty years. Its ban on the slave trade was rhetorical rather than enforced. {{diplo-berlin}} {{opil-berlin}} {{britannica-berlin}}"
     },
     {
      "t": "table",
@@ -438,7 +440,7 @@
     },
     {
      "t": "p",
-     "x": "Rulers, merchants and states kept negotiating and fighting. Treaties signed with chiefs, often misunderstood or forged, became European titles. Resistance from Ethiopia to Samori's state is the subject of Library 2. {{lib}}"
+     "x": "Rulers, merchants and states kept negotiating and fighting. Treaties signed with chiefs, often misunderstood or forged, became European titles. Resistance from Ethiopia to Samori's state is the subject of Library 2. {{ebsco-samory}} {{ehne-berlin}}"
     },
     {
      "t": "example",
@@ -446,20 +448,21 @@
      "steps": [
       "Check the claim against the record: fourteen states, no African delegates, rules on trade and occupation, recognition of Leopold's Congo.",
       "Borders were mostly set by later bilateral treaties, and colonisation began earlier.",
-      "Verdict: partly misleading. It created rules and a framework, but it did not itself draw the map. {{lib}} {{wiki-berlin}}"
+      "Verdict: partly misleading. It created rules and a framework, but it did not itself draw the map. {{diplo-berlin}} {{aljazeera-berlin}} {{wiki-berlin}}"
      ]
     },
     {
      "t": "check",
-     "q": "Which is an accurate statement about Berlin?",
+     "q": "A textbook says 'At Berlin in 1884 to 85 Europeans drew Africa's borders.' Which correction is best?",
      "o": [
-      "It drew Africa's borders",
-      "It set rules for claims and trade, with no African delegates",
-      "It abolished slavery in practice",
-      "It lasted a year"
+      "It is accurate",
+      "Berlin set rules for claims and trade, with no African delegates; most borders came later by treaty",
+      "Berlin abolished slavery",
+      "Berlin lasted a year"
      ],
      "a": 1,
-     "w": "Borders came later by treaty. {{lib}}"
+     "w": "Borders came later by treaty. {{ehne-berlin}} {{aljazeera-berlin}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -476,7 +479,7 @@
     {
      "t": "take",
      "i": [
-      "Berlin set rules, not borders. {{lib}}",
+      "Berlin set rules, not borders. {{diplo-berlin}} {{ehne-berlin}}",
       "No African ruler was present.",
       "Effective occupation was a rule about establishing authority."
      ]
@@ -550,7 +553,7 @@
       "Colonisation ended in 1884"
      ],
      "a": 1,
-     "w": "Colonisation was already under way. {{lib}}"
+     "w": "Colonisation was already under way. {{ebsco-french-algeria}} {{britannica-egypt}}"
     },
     {
      "t": "take",
@@ -563,7 +566,7 @@
   },
   {
    "id": "l6",
-   "title": "What the supplied books add to the Atlantic trade",
+   "title": "What the books add to the Atlantic trade",
    "min": 34,
    "blocks": [
     {
@@ -592,7 +595,7 @@
     },
     {
      "t": "p",
-     "x": "For the Gold Coast, Boahen says slaves were imported to work the mines in the fifteenth and sixteenth centuries, with 2,060 recorded arriving from Benin in April 1529, and that exports began from the mid-seventeenth century and passed gold by 1710. He gives Daaku's 5,000 to 6,000 a year by 1700, rising to 6,000 to 7,000, and Curtin's 474,000 for the whole eighteenth century, which he says Curtin underestimated by 7.3 to 18.4 per cent. {{gha5-lower}} [THIN EVIDENCE]"
+     "x": "For the Gold Coast, Boahen says slaves were imported to work the mines in the fifteenth and sixteenth centuries, with 2,060 recorded arriving from Benin in April 1529, and that exports began from the mid-seventeenth century and passed gold by 1710. He gives Daaku's 5,000 to 6,000 a year by 1700, rising to 6,000 to 7,000, and Curtin's 474,000 for the eighteenth century, which he says Curtin underestimated by 7.3 to 18.4 per cent. {{gha5-lower}} [THIN EVIDENCE]"
     },
     {
      "t": "h",
@@ -604,7 +607,7 @@
     },
     {
      "t": "p",
-     "x": "He gives early slave figures as estimates: 25,000 to 40,000 from Arguin between 1451 and 1505 (Godinho), and Curtin's 274,900 taken by Europeans between 1451 and 1600, of whom about 149,000 went to Europe and the Atlantic islands, 75,000 to Spanish America and 50,000 to Brazil. He says the trade only boomed when sugar plantations spread, that Africans were a small part of the labour at Potosi (about 5,000 of 150,000 in the late 1500s), and that the Spanish Crown sold import licences (the asiento), which made contraband easy. He adds that the Ham-curse and salvation arguments were used to justify the trade. {{gha5-malowist}} [THIN EVIDENCE]"
+     "x": "He gives early slave figures as estimates: Curtin's estimate of 274,900 brought to America between 1451 and about 1600, and about 400,000 to 450,000 slaves imported to Brazil between 1575 and 1675 (an estimate by Maura, accepted by Curtin). He says the trade only boomed when sugar plantations spread, that Africans were a small part of the labour at Potosi (about 5,000 of the workforce in the late 1500s), and that the Spanish Crown sold import licences (the asiento), which made contraband easy. He adds that the Ham-curse and salvation arguments were used to justify the trade. {{gha5-malowist}} [THIN EVIDENCE]"
     },
     {
      "t": "p",
@@ -612,7 +615,7 @@
     },
     {
      "t": "p",
-     "x": "For the eighteenth century he gives, from Curtin, about 6 million Africans landed in the Americas; Brazil nearly 2 million; English colonies 263,700 in the seventeenth century and 1,401,300 in the eighteenth; San Domingo almost 790,000; the Bight of Biafra and Benin over 1.3 million; and central and south-east Africa 810,100 (24 per cent) between 1711 and 1810. He treats the Royal African Company (1672) and the Liverpool 'triangular trade' as the English system, tied to Birmingham and Manchester goods. {{gha5-malowist}} [CONTESTED]"
+     "x": "For the eighteenth century he gives, from Curtin, about 6 million Africans landed in the Americas; Brazil nearly 2 million; and he breaks the total down by colony and by African region. He treats the Royal African Company (1672) and the Liverpool 'triangular trade' as the English system, tied to Birmingham and Manchester goods. {{gha5-malowist}} [CONTESTED]"
     },
     {
      "t": "p",
@@ -657,11 +660,11 @@
     },
     {
      "t": "p",
-     "x": "On religion he says Christianity declined in Ethiopia and on the east coast and persisted in Kongo, where Afonso I (1506 to 1543) made it the state religion, about 400 Capuchins came in the seventeenth century, and Beatriz Kimpa Vita's Antonianism arose in 1704; he quotes Vansina that a single syncretic religion formed there, the source of Haitian vodou. Islam spread (to Asante and Baule by the 1750s, with a Muslim quarter in Kumasi by 1800), and Malam Jibril dan Umaru was the teacher of Uthman and Abdullahi dan Fodio. {{gha5-ogot}} [PROBABLE]"
+     "x": "On religion he says Christianity declined in Ethiopia and on the east coast and persisted in Kongo, where Afonso I (1506 to 1543) made it the state religion, about 400 Capuchins came in the seventeenth century, and Beatriz Kimpa Vita's Antonianism arose in 1704; he quotes Vansina that a single syncretic religion formed there, the source of Haitian vodou. Islam spread (to Asante and Baule by the 1750s, with a Muslim quarter in Kumasi by 1800), and Malam Jibril dan Umaru was the teacher of Uthman and Abdullahi dan Fodio. {{gha5-ogot}} {{gha5-kongo}} [PROBABLE]"
     },
     {
      "t": "p",
-     "x": "For the Loango coast, M'Bokolo says slave exports ran at about 100 a year around 1639, 12,500 a year in 1762 to 1778 and 13,000 to 14,000 a year from 1780 to 1790, and that the trade there was almost over by 1780 as ports such as Cabinda and Malemba took over. He says the numbers for Cameroon and Gabon cannot be quantified, and that captains preferred slaves from Loango and farther south, which shaped where ships called. {{gha5-mbokolo}} [THIN EVIDENCE]"
+     "x": "For the Loango coast, M'Bokolo says the Loango trade shifted as ports such as Cabinda and Malemba took over. He says the numbers for Cameroon and Gabon cannot be quantified, and that captains preferred slaves from Loango and farther south, which shaped where ships called. {{gha5-mbokolo}} [THIN EVIDENCE]"
     },
     {
      "t": "h",
@@ -669,7 +672,7 @@
     },
     {
      "t": "p",
-     "x": "Joseph Harris says Africans reached Iberia before the slave trade, and that Portugal imported an estimated 700 to 900 African slaves a year between 1450 and 1500, with about 100,000 slaves estimated in Portugal and Madeira by the early seventeenth century. Papal bulls of 1454 and 1456 treated Portuguese expansion as a crusade, which he says gave church cover to enslavement. In Spain, free Black communities formed religious brotherhoods in Barcelona (about 1455), Valencia (1472) and Seville (1475), and Juan Latino took degrees at Granada in 1546 and 1556. {{gha5-diaspora}} [PROBABLE]"
+     "x": "Joseph Harris says Africans reached Iberia before the slave trade, and that Portugal imported an estimated 700 to 900 African slaves a year between 1450 and 1500, with a large slave population in Portugal and Madeira by the early seventeenth century. Papal bulls of 1454 and 1456 treated Portuguese expansion as a crusade, which he says gave church cover to enslavement. In Spain, free Black communities formed religious brotherhoods in Barcelona (about 1455), Valencia (1472) and Seville (1475), and Juan Latino took degrees at Granada in 1546 and 1556. {{gha5-diaspora}} [PROBABLE]"
     },
     {
      "t": "p",
@@ -681,11 +684,11 @@
     },
     {
      "t": "p",
-     "x": "For San Domingo before the revolution he gives about 500,000 slaves, 24,000 free people of colour and 32,000 French settlers, and for the Atlantic Africans he describes new institutions: the Sierra Leone settlement of over 400 people in 1787, Paul Cuffee's repatriation of 38 people in 1814, Richard Allen's Free African Society in 1787 and Prince Hall's lodge. Authors such as Phillis Wheatley, Equiano, Ignatius Sancho and Ottobah Cugoano wrote against slavery. Harris gives Benin as Equiano's birthplace, which the course should check against Equiano's own narrative before repeating. {{gha5-diaspora}} [PROBABLE]"
+     "x": "For the Atlantic Africans he describes new institutions: the Sierra Leone settlement of over 400 people in 1787, Paul Cuffee's repatriation of 38 people in 1814, Richard Allen's Free African Society in 1787 and Prince Hall's lodge. Authors such as Phillis Wheatley, Equiano, Ignatius Sancho and Ottobah Cugoano wrote against slavery. Harris gives Benin as Equiano's birthplace. {{gha5-diaspora}} Equiano's own narrative is more exact: he says he was born in 1745 in Essaka, in a remote province called Eboe of what he calls the kingdom of Benin, and that Benin's rule there was 'little more than nominal'. {{equiano-ch1}} [PROBABLE]"
     },
     {
      "t": "p",
-     "x": "Harris also says the slave trade to Asia was far older than the Atlantic trade, running from the Horn and East African coast to Arabia, Persia and India. Oman took Kilwa in 1784 and Zanzibar in 1785, and about 160,000 slaves were imported into the Mascarenes from 1670 to 1810, with Bourbon's slave population put at 53,726 in 1808. In India he describes Africans (Habshis and Siddis) as soldiers and rulers: a Bengal succession of African rulers from 1486 to 1493 with an army of 30,000, Siddis at Janjira who resisted the Mughals, and Malik Ambar, an Ethiopian who ruled around Ahmadnagar from 1602 to 1626. {{gha5-diaspora}} [PROBABLE]"
+     "x": "Harris also says the slave trade to Asia was far older than the Atlantic trade, running from the Horn and East African coast to Arabia, Persia and India. Oman took Kilwa in 1784 and Zanzibar in 1785, and one observer records about 160,000 slaves imported into the Mascarenes from 1670 to 1810. In India he describes Africans (Habshis and Siddis) as soldiers and rulers: in Bengal, where Rukn-ud-din Barbak (1459 to 1474) promoted Africans to high posts among about 8,000 African slave-soldiers, Siddis at Janjira who resisted the Mughals, and Malik Ambar, an Ethiopian who ruled around Ahmadnagar and recruited a guard of 1,000 Africans. {{gha5-diaspora}} [PROBABLE]"
     },
     {
      "t": "callout",
@@ -714,11 +717,11 @@
     },
     {
      "t": "p",
-     "x": "J. E. Inikori says studies since 1976 show Curtin's 1969 totals were much too low, especially before 1700, and infers a 40 per cent rise from about 11 million to about 15.4 million across the Atlantic. He adds about 6.9 million across the Sahara, the Red Sea and the Indian Ocean from 1500 to 1890. His chapter predates the Voyages database, whose figure of about 12.5 million embarked is the course's base, so his totals are an inference to compare, not a count. {{gha5-inikori}} [CONTESTED]"
+     "x": "J. E. Inikori says studies since 1976 show Curtin's 1969 totals were much too low, especially before 1700, and infers a 40 per cent rise from about 11 million to about 15.4 million across the Atlantic. He adds about 6.9 million across the Sahara, the Red Sea and the Indian Ocean from 1500 to 1890. His chapter predates the Voyages database, whose embarked total is the course's base, so his totals are an inference to compare, not a count. {{gha5-inikori}} [CONTESTED]"
     },
     {
      "t": "p",
-     "x": "He argues that African population fell absolutely from at least 1650 to 1850, that the trade fed wars and military aristocracies, and that it laid the foundation for dependency. Manning's model, through Reader, shows almost no growth in 1750 to 1850, and Eltis argues the opposite effect, so this is the strongest of the named positions and still a position. {{gha5-inikori}} {{rd-trans}}"
+     "x": "He argues that African population fell absolutely from at least 1650 to 1850, that the trade fed wars and military aristocracies, and that it laid the foundation for dependency. {{gha5-inikori}} Manning's model, through Reader, shows almost no growth in 1750 to 1850, and Eltis argues the opposite effect, so this is the strongest of the named positions and still a position. {{rd-trans}}"
     },
     {
      "t": "callout",
@@ -731,7 +734,7 @@
     },
     {
      "t": "table",
-     "title": "Estimates of the Atlantic trade in the supplied books",
+     "title": "Estimates of the Atlantic trade in the books",
      "head": [
       "Source",
       "Figure",
@@ -746,7 +749,7 @@
       [
        "Curtin, via Reader",
        "9,391,100 landed in the Americas, 1451 to 1870 {{rd-atl}}",
-       "A 1969 landed total; Rodney calls it a low figure. {{rod-trade}}"
+       "A 1969 landed total; Rodney calls it a low figure. {{rod-trade-009}}"
       ],
       [
        "Lovejoy, via Reader",
@@ -755,12 +758,12 @@
       ],
       [
        "Rodney",
-       "Estimates run from a few million to over a hundred million; Middle Passage deaths 15 to 20 per cent {{rod-trade}}",
+       "Estimates run from a few million to over a hundred million; Middle Passage deaths 15 to 20 per cent {{rod-trade-009}}",
        "The upper range has no basis."
       ],
       [
        "Diop (1960)",
-       "100 to 300 million taken or dead, and a population of 400 million without it {{dpc-tech}}",
+       "100 to 300 million taken or dead, and a population of 400 million without it {{dpc-tech-008}}",
        "Unsupported. [THIN EVIDENCE]"
       ]
      ],
@@ -776,7 +779,7 @@
     },
     {
      "t": "table",
-     "title": "The long-run effects: positions in the supplied books",
+     "title": "The long-run effects: what historians argue",
      "head": [
       "Scholar",
       "Position",
@@ -785,7 +788,7 @@
      "rows": [
       [
        "Rodney",
-       "The trade and later colonial rule caused underdevelopment; population stagnation had no cause other than the slave trade; Europe chose what Africa exported. {{rod-trade}}",
+       "The trade and later colonial rule caused underdevelopment; population stagnation had no cause other than the slave trade; Europe chose what Africa exported. {{rod-pre-009}}",
        "One strong position. The population claim is tested by Manning's models. [CONTESTED]"
       ],
       [
@@ -819,7 +822,7 @@
     {
      "t": "callout",
      "k": "warn",
-     "x": "Rodney writes that Africans had little clue about the system and that few slaves existed in Africa. Reader's chapters, Diop's account of the Askias' slave estates and the course's Songhai material show slavery was widespread in the Sahel and elsewhere. {{rd-slave}} {{dpc-tech}} Use Rodney as one position, not as a source of fact."
+     "x": "Rodney argues that Africa had no epoch of slavery arising from its own development, {{rod-pre-007}} and that the rulers who sought European alliances could not know that Europeans had come to stay and to conquer. {{rod-pre-009}} Against that, Reader reports French officials counting slaves as 30 to 50 per cent of people in the Sahel by the end of the 19th century, {{rd-after}} and Diop describes the Askias' slave estates. {{dpc-tech-007}} Use Rodney as one position, not as a source of fact."
     },
     {
      "t": "h",
@@ -854,7 +857,7 @@
       ],
       [
        "Maize and cassava became staples late in the 19th century",
-       "Rodney {{rod-trade}}",
+       "Rodney {{rod-trade-009}}",
        "Later than Reader's timing. [CONTESTED]"
       ],
       [
@@ -899,7 +902,7 @@
     },
     {
      "t": "p",
-     "x": "Rodney argues anti-slavery served as a pretext for colonisation, citing Britain's action against Jaja and Nana, who by then traded palm oil, and says conquest succeeded because of African agents and political fragmentation. {{rod-trade}} Set it beside the humanitarian reading. Reader reports that no African was invited to Berlin in 1884 to 1885 and that treaties were drawn in European languages with untranslatable land terms. {{rd-berlin}} He says the new borders divide at least 177 ethnic culture areas. {{rd-bound}} The course already says Berlin did not itself draw the map; later bilateral agreements did."
+     "x": "Rodney argues anti-slavery served as a pretext for colonisation, citing Britain's action against Jaja and Nana, who by then traded palm oil, and says conquest succeeded because of African agents and political fragmentation. {{rod-trade-009}} Set it beside the humanitarian reading. Reader reports that no African was invited to Berlin in 1884 to 1885 and that treaties were drawn in European languages with untranslatable land terms. {{rd-berlin}} He says the new borders divide at least 177 ethnic culture areas. {{rd-bound}} The course already says Berlin did not itself draw the map; later bilateral agreements did."
     },
     {
      "t": "callout",
@@ -916,19 +919,20 @@
     },
     {
      "t": "p",
-     "x": "A last note, our inference and not in the book: Woodson's trapped-hare tale resembles the Uncle Remus tar-baby story, which may show tales crossing the Atlantic with enslaved people; the book itself says nothing of this. {{wood-tales}}"
+     "x": "A last note, our inference and not in the book: Woodson's trapped-hare tale resembles the Uncle Remus tar-baby story, which may show tales crossing the Atlantic with enslaved people; the book itself says nothing of this. "
     },
     {
      "t": "check",
-     "q": "Which figure is the course's base for how many people were embarked?",
+     "q": "One book gives 9,391,100 and another 12.5 million for the Atlantic trade. Why can both appear, and which suits a count of people embarked?",
      "o": [
-      "9,391,100",
-      "About 12.5 million, from Voyages",
-      "100 million",
-      "400 million"
+      "One is a typo; use the smaller",
+      "Curtin's 9.4 million counts people landed; Voyages' 12.5 million counts people embarked",
+      "Both count the same thing",
+      "Neither is a count"
      ],
      "a": 1,
-     "w": "Curtin's figure is landed only. {{rd-atl}}"
+     "w": "Curtin's figure is landed only. {{rd-atl}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -944,15 +948,16 @@
     },
     {
      "t": "check",
-     "q": "What does the Miles barter record show?",
+     "q": "A student says only kings sold captives to Europeans. Which record tests that best?",
      "o": [
-      "Only kings sold slaves",
-      "Many sellers were small traders, with only eleven regular suppliers among 295",
-      "Africans did not sell",
-      "Guns were never used"
+      "The Kebra Nagast",
+      "Miles's barter record: 2,352 purchases from 295 dealers, only eleven of them regular suppliers",
+      "The Berlin Act",
+      "Afonso's letter"
      ],
      "a": 1,
-     "w": "2,352 purchases from 295 dealers. {{rd-trade}}"
+     "w": "Many sellers were small traders. {{rd-trade}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1124,15 +1129,16 @@
     },
     {
      "t": "check",
-     "q": "Is Equiano's experience typical of the enslaved?",
+     "q": "A teacher uses Equiano's life to stand for a typical enslaved person's experience. What should you point out?",
      "o": [
-      "Yes, entirely",
-      "No, he avoided field work and was taught to read and write",
+      "It is typical",
+      "His experience was unusual: he avoided field work and was taught to read and write",
       "He was never enslaved",
       "He never travelled"
      ],
      "a": 1,
-     "w": "Wikipedia says his experience was very different from most. {{wiki-equiano}}"
+     "w": "Wikipedia says his experience was very different from most. {{wiki-equiano}}",
+     "kind": "application"
     },
     {
      "t": "take",

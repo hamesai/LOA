@@ -117,7 +117,8 @@
       "Wait until they complain"
      ],
      "a": 1,
-     "w": "It advises immediate communication, an explanation, a new solution and an apology. {{ps-ethics1}}"
+     "w": "It advises immediate communication, an explanation, a new solution and an apology. {{ps-ethics1}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -243,7 +244,7 @@
     },
     {
      "t": "check",
-     "q": "Which is a banned practice in the Irish source?",
+     "q": "You are drafting an Irish web offer. Which line would be a banned practice?",
      "o": [
       "A clear price list",
       "A false 'today only' offer",
@@ -251,11 +252,12 @@
       "A written proposal"
      ],
      "a": 1,
-     "w": "False use of limited offers is on the banned list. {{ci-unfair}}"
+     "w": "False use of limited offers is on the banned list. {{ci-unfair}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Do these Irish consumer rules cover a sale between two businesses?",
+     "q": "You sell office chairs to an Irish company. Do the Irish consumer rules on banned practices cover this sale?",
      "o": [
       "Yes, always",
       "No, they apply to sales between businesses and consumers",
@@ -263,7 +265,8 @@
       "Only online"
      ],
      "a": 1,
-     "w": "The page says the law does not cover sales between businesses. {{ci-unfair}}"
+     "w": "The page says the law does not cover sales between businesses. {{ci-unfair}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -392,11 +395,12 @@
       "Yes after 6pm"
      ],
      "a": 1,
-     "w": "The rule applies even to existing customers unless the person specifically consented (apart from narrow pension rules). {{ico-tel}}"
+     "w": "The rule applies even to existing customers unless the person specifically consented (apart from narrow pension rules). {{ico-tel}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which marketing email recipient needs prior consent or the soft opt-in?",
+     "q": "You plan a cold marketing email campaign. Which of these recipients needs prior consent or the soft opt-in?",
      "o": [
       "A limited company's general inbox",
       "A sole trader",
@@ -404,7 +408,8 @@
       "A Scottish partnership"
      ],
      "a": 1,
-     "w": "Sole traders and some partnerships are treated as individuals. {{ico-email}}"
+     "w": "Sole traders and some partnerships are treated as individuals. {{ico-email}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -501,7 +506,8 @@
       "A discount email"
      ],
      "a": 0,
-     "w": "A service message is for information only and cannot contain anything promotional. {{ico-b2b-small}}"
+     "w": "A service message is for information only and cannot contain anything promotional. {{ico-b2b-small}}",
+     "kind": "application"
     },
     {
      "t": "check",

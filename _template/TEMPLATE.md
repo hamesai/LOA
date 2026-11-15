@@ -32,8 +32,8 @@ It reports leftover `TODO`s, citations with no source, figures that are not draw
 The greenhouse course is the standard: about 4 lessons per module, 2,000 to 3,500 words of lesson text per module, a diagram or table in most lessons, a worked example, two checks and a takeaways block per lesson, and every claim traceable.
 
 1. **Read each primary source in full before writing from it.** A search excerpt is not a reading. If you could only read part of a source, say so in the lesson or the hand-over.
-2. **Cite.** Put `{{source-key}}` after each sourced sentence. Add the source to `course-<id>-refs.js` with the title, author or publisher, year and URL. Numbers appear in order of first use, and each deck ends with a sources slide.
-3. **Label inference.** If you add something the sources do not say, write "our inference" or "our estimate" in that sentence.
+2. **Cite.** Put `{{source-key}}` after each sourced sentence. Add the source to `course-<id>-refs.js` with the title, author or publisher, year and URL. For an ingested book, one ref per chapter with `b:` and `p: "Chapter N (ch-NNN.txt)"`; never cite a whole volume. Numbers appear in order of first use, and each deck ends with a sources slide.
+3. **Label inference.** If you add something the sources do not say, write "our inference", "our estimate", "our arithmetic" or "our example" in that sentence.
 4. **Mark invented numbers.** A worked example with made-up data must say "illustrative".
 5. **Show disagreement.** When sources differ, put them side by side in a table and say how to choose.
 6. **Check the arithmetic.** Work every example yourself, including dates.
@@ -91,10 +91,12 @@ Belts come from the module count: White after module 1, Yellow after 2, then rou
 ## Fast workflow (use this)
 
 1. `python _template/new_course.py <id> "<title>" --modules N ...` scaffolds the files.
-2. Write content in Python, not JSON: `from author import *` (see `_template/author.py`). It has a helper per block type, `write_module`, `write_refs` and `write_pack`, and it prints word counts. Keep your build scripts outside the archive folder.
+2. Write content in Python, not JSON: `from author import *` (see `_template/author.py`). It has a helper per block type, `write_module`, `write_refs` and `write_pack`, and it prints word counts. Save the scripts in `courses/<id>/build/` with `build.py` as the entry point (`kit.py rebuild <id>` runs it), never in a session scratchpad, which a reboot can clear. They hold only lesson text and must never read or copy ingested source text.
 3. Save a `courses/<id>/docs/course-<id>-notes.md` listing which sources you read in full, in part, or not at all. `kit.py md` puts it in the markdown library.
-4. `python _template/kit.py figs <id>` writes a contact sheet of your figures. Serve the folder, open `/_figtest.html`, fix clipping, delete the file.
-5. `python _template/kit.py ship <id>` runs the checker, refreshes cache tags, writes the markdown library and opens the course. It stops on any PROBLEM.
+4. After each module, run `python _template/kit.py audit <id>` and fix every line before the next module: source flags (pointer, unread, number, names), author-talk, applied practice, open findings and reading coverage, each with the command that fixes it.
+5. `python _template/kit.py figs <id>` writes a contact sheet of your figures. Serve the folder, open `/_figtest.html`, fix clipping, delete the file.
+6. `python _template/kit.py ship <id>` re-injects lecturers, runs `meta`, the gate and the checker, writes the sources panel, READING-STATE.md and STALE-SOURCES.md, refreshes cache tags, writes the markdown library and opens the course. It stops on any PROBLEM. If the course has `build/build.py`, `kit.py rebuild <id>` runs it and then ships.
+7. Checked dates: a ref's `d: "DD/MM/YYYY"` is the day someone reopened the source and checked what the course takes from it (never the publisher's "last updated"). `python _template/kit.py stale [<id>]` lists cited web sources never checked or checked over six months ago, time-sensitive ones (law, tax, prices, official guidance) first, and writes `docs/STALE-SOURCES.md`. `stale_sources.py <id> --backfill` sets `d:` only where a ref's own text records when it was read or opened.
 
 Two traps: `window.CourseUI` is created after course files load, so read it inside a tool function, not at the top of the file. Quiz text is not citation-resolved, so `write_pack` strips `{{cites}}` from it.
 
@@ -102,16 +104,20 @@ Two traps: `window.CourseUI` is created after course files load, so read it insi
 
 ```
 index.html
-shared/                 engine, stylesheet, base data, FAQ entries (course-faqs.js)
+shared/                 engine, stylesheet, base data, the home FAQ list (course-faqs.js), common About wording,
+                        course-meta.js (written by kit.py meta: which meta files each course has, and the loader)
 courses/<id>/
   pack-<id>.js          library card, module list, details, quizzes, resources
   course-<id>-refs.js   sources     course-<id>-figs.js   diagrams     course-<id>-tools.js   calculators
   modules/              one lesson file per module (and the capstone)
-  docs/                 markdown library and the sources-read note
+  docs/                 markdown library, sources-read note, READING-STATE.md, STALE-SOURCES.md
+  meta/                 about.js, faqs.js, lecturers.js, lecturer-intro.js, lecturer-notes.js, deepnotes.js,
+                        dossiers.js, oversight.js: this course's entries only, each loaded as its own script
+  build/                the course's own build scripts (build.py is run by kit.py rebuild); never a scratchpad
 _template/              scaffold, checker, author helpers, kit.py
 ```
 
-Add FAQ dropdowns for a course in `shared/course-faqs.js` under the course id. Every course page also shows the whole home-page list (the `library` key) at the bottom, after the course's own questions, so a general question such as what Source Discovery is needs writing only once.
+Course data that used to sit in shared files lives in `courses/<id>/meta/`: FAQ dropdowns in `faqs.js`, About in `about.js`, lecturers (PEOPLE and ROWS) in `lecturers.js`, Meet your lecturers in `lecturer-intro.js`, the Notes tab's "Behind this module" in `deepnotes.js`, lecture-mode dossiers in `dossiers.js`. `lecturer-notes.js` is rebuilt by `build_notes.py` and `oversight.js` by `gen_oversight.js`. After adding or removing a meta file, run `python _template/kit.py meta` (ship runs it): it registers the file, checks it parses, and checks that a lecturer shared by two courses has identical entries. A broken file in one course no longer stops other courses loading. `shared/course-lecturer-refs.js` stays shared: it is written by `lec_inject.js` from `_template/lec_data/_refs.json`, one namespace of ref keys. Every course page also shows the whole home-page list (the `library` key) at the bottom, after the course's own questions, so a general question such as what Source Discovery is needs writing only once.
 
 ## Learning aids and syllabus (version 2.0)
 
@@ -122,13 +128,13 @@ Every course also has `courses/<id>/learning-<id>.js`, registered in `index.html
 A source is a book, paper, report or long article. Sources are the best way to add depth and accuracy. The user drops them in `source ingest/<course-id>/` (PDF, EPUB, DOCX, TXT, MD) or gives a path.
 
 1. **Ingest:** `python _template/ingest_source.py <course-id>` (or pass file paths, with `--key` to name the source). It writes `courses/<id>/sources/<key>/` with `manifest.json`, one `ch-NNN.txt` per chapter and `full.txt`. It warns about scanned PDFs (OCR them first with the `pdf` skill), tiny files, PDFs with no chapter outline, and text that looks OCR-corrupted. Record where the source came from with `--found-by user|source-discovery|unknown`, `--url`, `--query` and `--note`. The manifest keeps a `provenance` block (first date added, how it was found, link), and re-ingesting keeps the first date. With `--url`, ingest also adds a citation key to `course-<id>-refs.js` if the source has none. A book added before provenance was kept is dated from its file in `source ingest/<course-id>/` (the date the file arrived there).
-2. **Read in full:** `python _template/source_read.py <id> <key>` shows progress and the next section, and `--next` prints the next chunk of about 4,000 words, carrying on across turns. A chapter is recorded as read only when its last chunk has been served. Never pipe the output through `head` or `tail`; if a chapter was cut short, `--chapter <file> --restart` clears its read or skip record so it can be read again. Covers, copyright pages and indexes can be skipped on purpose (`--suggest-skips`, then `--skip <files> --reason "..."`).
+2. **Read in full:** `python _template/source_read.py <id> <key>` shows progress and the next section, and `--next` serves the next chunk of about 4,000 words, carrying on across turns: it finishes a chapter in progress before starting another, so `--chapter <file>` followed by `--next` stays in that chapter. Each chunk is written to `courses/<id>/sources/<key>/_served/<chapter>-c<n>.txt` and only its path is printed: open that file with the Read tool. Output cut short loses nothing, and a chunk can be reread from its file. `--print` also prints it (never pipe that through `head` or `tail`). A chapter is recorded as read only when its last chunk has been served; `--chapter <file> --restart` reads one again from the top. The tools run under `python -I` too. `courses/<id>/docs/READING-STATE.md` is rewritten after every chunk, skip and log: start a session by reading it, not a memory note. Covers, copyright pages and indexes can be skipped on purpose (`--suggest-skips`, then `--skip <files> --reason "..."`).
 3. **Log findings while reading:** `source_read.py <id> <key> --log "module|verdict|location|text"` with verdict confirmed, refined, contradicted, extended, absent or note. `--findings` lists them. Dump a module's text first with `node _template/course_dump.js <id> <module-key>`.
 4. **Search:** `python _template/source_search.py <id> "terms"` finds passages, `--list` shows every section's status, `--coverage` shows the shares read. A search hit is a pointer, not a reading.
 5. **Cite:** add the source to `course-<id>-refs.js` with `b: "<key>"` (ties it to the ingested text) and `p: "Chapter 3, pp. 45 to 52"` (shown after the publisher in the sources list), and no `u` if there is no public link. Cite with `{{key}}` as usual.
 6. **Report and check:** `source_read.py <id> <key> --report --write` builds `courses/<id>/docs/source-review-<key>.md`, whose Status line is complete only when every section is read or skipped with a reason. `check_course.py` notes unread sections and unfinished reviews, and fails a review that claims complete while sections are unread.
 
-7. **Track every finding:** `python _template/source_apply.py <id> status` gives a per-module table of findings that are applied, confirmed, avoided, skipped or open. `list --open` shows the open ones with ids. `auto --write` records findings a lesson already covers. `mark`, `avoid` and `skip` close the rest, each with a note or reason. A review is not finished while any finding is open: `source_read.py --report` says Status: partial and `check_course.py` fails on the open ones per module. To close many at once, write a JSON list of `{"book", "state": "mark" or "skip" or "avoid", "ids": [...], "note"}` and run `source_apply.py <id> batch decisions.json`.
+7. **Track every finding:** `python _template/source_apply.py <id> status` gives a per-module table of findings that are applied, confirmed, avoided, skipped or open. `list --open` shows the open ones with ids. `auto --write` marks a finding applied only when a lesson in its module has gained at least two of the finding's terms since it was logged (the terms the lessons already had are saved to `findings-baseline.json` at `--log` time), so a finding the course happened to cover already stays open for a hand decision (usually `mark` or `skip`). Findings logged before baselines existed get one on the first `auto --write`. `mark`, `avoid` and `skip` close the rest, each with a note or reason. A review is not finished while any finding is open: `source_read.py --report` says Status: partial and `check_course.py` fails on the open ones per module. To close many at once, write a JSON list of `{"book", "state": "mark" or "skip" or "avoid", "ids": [...], "note"}` and run `source_apply.py <id> batch decisions.json`.
 8. **Verify the numbers:** `python _template/source_verify.py <id>` checks every number in a sentence that cites an ingested book against the cited chapter. It reads number words (eighty-five), half and quarter glyphs and the typographic fraction slash. Fix a wrong chapter or figure, or label the sentence "our arithmetic". Re-read the source passage before you write a lesson from a finding, because a finding is a note and notes drift.
 9. **Show the reading honestly:** write `courses/<id>/docs/course-<id>-notes.md` in the standard format (see the header of `_template/source_map.py`), then `python _template/kit.py sources <id>`. The page panel "How far the sources were read" is built from the read records (books) and from the refs the lessons cite (everything else), with the modules that cite each source and the outcome of each finding. Run `python _template/kit.py sources <id>` after every ingest, or the panel stays out of date. Sources sit in dropdowns by how much was read, with a plain heading inside each for where the source came from: Added by you, then Source Discovery, then Foundational (found while the course was created, no route recorded). Within a heading the newest sources come first and undated ones last, and each card shows its added date. Every card and list row carries a filled tag in the same style: green You, yellow Source Discovery, red Foundational. The headings stay plain. The closed dropdown shows a short count such as `66 sources`, like the other dropdowns. The same grouping runs in the browse-one-by-one modal, where most source research is done. Never pipe `source_read.py` output through `head` or `tail`: the chapter is recorded as read even if you saw only part.
 
@@ -179,3 +185,18 @@ How to reach it without padding:
 - Put sourced claims and our own inference in separate sentences, and say which is which.
 - Build with a hook that merges extra lessons and second checks into the author script, then run `lec_inject.js` again, because rebuilding module files removes the injected lecturer lesson.
 - Run `python _template/kit.py ship <id>` and fix every PROBLEM. Do not weaken the checker to pass.
+
+## Accuracy and competence standard (set 15/11/2026, applies to every course)
+
+`check_course.py` (and so `kit.py ship` and `kit.py gate`) fails a course on any of these. `kit.py audit <id>` shows them all in one report.
+
+| Check | Rule | Fix |
+|---|---|---|
+| pointer | A ref's `p:` must match a chapter file. Name files explicitly when titles do not line up: `"p": "Chapter 23, which starts in the previous file (ch-023.txt, ch-024.txt)"`. | `source_repoint.py <id>`; `--split <key>` for whole-volume refs |
+| unread | Every cited chapter file is in `read.json`. | read it with `source_read.py`, or waive after re-reading the passage |
+| number | Every figure in a cited sentence is in the cited text (a run of citations after one sentence counts as one source). Short year ranges, MM/YYYY and DD/MM dates, words, ordinals, decimal millions and common OCR damage are matched. | correct it, cut precision the source lacks, label "our arithmetic", or waive OCR damage |
+| names | Most proper names in a cited sentence appear in the cited text. | re-cite to the right chapter, or split the sentence |
+| author-talk | No build narration in lessons ("the library says", "this lesson does not quote", "our wording", "the supplied books"). Injection markers (`Lecturer lens:`) are hidden by the engine. | rewrite as teaching; use "Source note:" for provenance |
+| practice | Each module: at least half of checks plus quiz items applied, and one applied challenge. Items tagged `kind: "application"` and generated (`gen`) items count. | `case_chk` / `case_question` / `applied_challenge` in `author.py`; `practice_convert.py <id> file.json` for existing items |
+
+Waivers live in `courses/<id>/docs/verify-waivers.json`: `{"key", "kind", "item", "match", "reason", "checked"}`, where `match` is a piece of the sentence (so a rewrite retires the waiver) and the reason says what you read (for example "OCR prints '1800024000' for 18,000 to 24,000"). Write one only after re-reading the passage. `pc_fixlib.py` has `waive()`, `replace()`, `recite()`, `add_ref()` and `set_ref_field()` for scripted hand fixes.

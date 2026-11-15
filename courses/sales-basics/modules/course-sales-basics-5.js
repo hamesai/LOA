@@ -293,7 +293,7 @@
     },
     {
      "t": "check",
-     "q": "Which is the better first reaction to a price objection?",
+     "q": "The buyer says 'That is too expensive.' What should you do first?",
      "o": [
       "Cut the price",
       "Probe and move to value",
@@ -301,7 +301,8 @@
       "Ignore it"
      ],
      "a": 1,
-     "w": "The text says to ask probing questions and discuss value. {{ps-obj2}}"
+     "w": "The text says to ask probing questions and discuss value. {{ps-obj2}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -433,11 +434,12 @@
       "Is the colour right?"
      ],
      "a": 1,
-     "w": "A closing question asks for a decision; a trial close asks for an opinion. {{ps-close1}}"
+     "w": "A closing question asks for a decision; a trial close asks for an opinion. {{ps-close1}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which close gives the buyer a choice between two options?",
+     "q": "You ask, 'Would you like delivery on Tuesday or Thursday?' Which close is that?",
      "o": [
       "Direct request",
       "Alternative choice",
@@ -445,7 +447,8 @@
       "Benefit summary"
      ],
      "a": 1,
-     "w": "The alternative-choice close offers two options rather than buy or not. {{ps-close1}}"
+     "w": "The alternative-choice close offers two options rather than buy or not. {{ps-close1}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -560,7 +563,8 @@
       "Walk away immediately"
      ],
      "a": 1,
-     "w": "The text says not to make a concession without getting a concession. {{ps-close2}}"
+     "w": "The text says not to make a concession without getting a concession. {{ps-close2}}",
+     "kind": "application"
     },
     {
      "t": "check",

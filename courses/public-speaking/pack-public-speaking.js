@@ -1080,9 +1080,10 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "Write a short audience analysis for a real group on all three layers, with at least one decision it changes.",
+     "task": "Write a short audience analysis for a real group on all three layers, and name at least one decision about your talk that the analysis changes.",
      "key": "Demographic, psychological and situational notes plus a change you will make.",
-     "check": "Does each note change something in your speech?"
+     "check": "Does each note change something in your speech?",
+     "kind": "application"
     },
     {
      "id": "C3",
@@ -1128,9 +1129,10 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "Test one source on the six questions and four criteria in a table.",
+     "task": "Pick one source you plan to use and test it on the six questions and four criteria in a table, then decide whether to keep it.",
      "key": "A filled table with a clear use-or-reject decision.",
-     "check": "Is every cell answered with evidence, not opinion?"
+     "check": "Is every cell answered with evidence, not opinion?",
+     "kind": "application"
     },
     {
      "id": "C3",
@@ -1176,9 +1178,10 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "Brainstorm ten points, chunk them into three main points and test them against the five tests.",
+     "task": "Brainstorm ten points for a talk you will give, chunk them into three main points and test them against the five tests, saying which point you would cut and why.",
      "key": "Three main points, each passing united, separate, balanced, parallel and logical.",
-     "check": "Does each point serve the specific purpose?"
+     "check": "Does each point serve the specific purpose?",
+     "kind": "application"
     },
     {
      "id": "C3",
@@ -1362,7 +1365,7 @@ ARCHIVE_ADD({
     "w": "Intent is at the base, then means, then ends."
    },
    {
-    "q": "Which is a good way to handle plagiarism risk?",
+    "q": "You want to use a striking statistic you found in a blog post. Which is the right way to handle plagiarism risk?",
     "o": [
      "Say the source aloud",
      "Change a few words",
@@ -1370,7 +1373,8 @@ ARCHIVE_ADD({
      "Use a bought speech"
     ],
     "a": 0,
-    "w": "Credit the source in the speech."
+    "w": "Credit the source in the speech.",
+    "kind": "application"
    },
    {
     "q": "When do nerves often peak, according to the text's account?",
@@ -1514,7 +1518,7 @@ ARCHIVE_ADD({
   ],
   "public-speaking-4": [
    {
-    "q": "An introduction should take about:",
+    "q": "Your speech is ten minutes long. About how long should the introduction take?",
     "o": [
      "10 to 15 percent of the speech",
      "50 percent",
@@ -1522,7 +1526,8 @@ ARCHIVE_ADD({
      "No set share"
     ],
     "a": 0,
-    "w": "The text gives 10 to 15 percent."
+    "w": "The text gives 10 to 15 percent.",
+    "kind": "application"
    },
    {
     "q": "Which is true of main points in a short speech?",
@@ -1605,7 +1610,7 @@ ARCHIVE_ADD({
     "w": "The text says extemporaneous."
    },
    {
-    "q": "What is a good use of a pause?",
+    "q": "You reach your most important point. What is a good use of a pause here?",
     "o": [
      "Fill with 'um'",
      "Add emphasis",
@@ -1613,7 +1618,8 @@ ARCHIVE_ADD({
      "Skip a point"
     ],
     "a": 1,
-    "w": "Pauses emphasise and clarify."
+    "w": "Pauses emphasise and clarify.",
+    "kind": "application"
    },
    {
     "lec": 1,

@@ -129,7 +129,7 @@
     },
     {
      "t": "check",
-     "q": "When does the sales process end?",
+     "q": "A rep closes a deal and moves straight on to new names, never calling the customer again. Why is that a mistake in the sales process?",
      "o": [
       "When the customer signs",
       "When the product ships",
@@ -137,7 +137,8 @@
       "After the first objection"
      ],
      "a": 2,
-     "w": "Follow-up supports retention, referrals and new needs, and so leads back to step one. {{ps-process}}"
+     "w": "Follow-up supports retention, referrals and new needs, and so leads back to step one. {{ps-process}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -403,11 +404,12 @@
       "Strategic alliance"
      ],
      "a": 1,
-     "w": "A routine repurchase is a straight rebuy. {{ps-buying}}"
+     "w": "A routine repurchase is a straight rebuy. {{ps-buying}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which describes a decision maker?",
+     "q": "On a call, the office manager says she will use the software daily, the IT lead is comparing vendors, and the finance director signs off all purchases. Who is the decision maker?",
      "o": [
       "Someone who will use the product",
       "Someone who starts the process",
@@ -415,7 +417,8 @@
       "Someone who compares vendors"
      ],
      "a": 2,
-     "w": "Decision makers hold responsibility for the final purchasing decision. {{ps-buying}}"
+     "w": "Decision makers hold responsibility for the final purchasing decision. {{ps-buying}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -558,7 +561,7 @@
     },
     {
      "t": "check",
-     "q": "In FAB, a benefit is…",
+     "q": "You are selling a laptop with a 14-hour battery. Which of these is the benefit in FAB terms?",
      "o": [
       "What the product has",
       "What the feature does",
@@ -566,7 +569,8 @@
       "The price"
      ],
      "a": 2,
-     "w": "Benefit is what the features mean to the customer. {{ps-buying2}}"
+     "w": "Benefit is what the features mean to the customer. {{ps-buying2}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -744,7 +748,8 @@
       "Leave a brochure"
      ],
      "a": 1,
-     "w": "It told salesmen not to ask for an order but to assume the buyer would buy. {{friedman-hbs}}"
+     "w": "It told salesmen not to ask for an order but to assume the buyer would buy. {{friedman-hbs}}",
+     "kind": "application"
     },
     {
      "t": "take",

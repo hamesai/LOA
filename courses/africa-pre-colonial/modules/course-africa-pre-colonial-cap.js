@@ -183,7 +183,7 @@
      "steps": [
       "Place: Aksum. Evidence: Ezana's inscriptions. Type: written, internal. Author: the king's court. Date: 4th century CE.",
       "Bias: royal self-presentation, with triumphal wording and numbers to discount.",
-      "Tag for the conversion: PROBABLE; for the exact date: CONTESTED. {{lib}}"
+      "Tag for the conversion: PROBABLE; for the exact date: CONTESTED. {{britacad-aksum}} {{natgeo-aksum}}"
      ]
     },
     {
@@ -196,7 +196,7 @@
       "Frobenius"
      ],
      "a": 1,
-     "w": "It was written in Timbuktu by al-Sa'di. {{lib}}"
+     "w": "It was written in Timbuktu by al-Sa'di. {{timbuktu-chron}}"
     },
     {
      "t": "check",
@@ -289,7 +289,7 @@
       "Source: the Tarikh al-Sudan, by al-Sa'di, c. 1655.",
       "Gap: it was written about 127 years after Askia Muhammad's reign ended in 1528 (1655 minus 1528; our arithmetic, from the dates in Module 4).",
       "Purpose: a scholarly history favouring its own circles.",
-      "Check: compared with Leo Africanus. {{lib}}"
+      "Check: compared with Leo Africanus. {{leo-pory-vol3}} {{fordham-leo}}"
      ]
     },
     {

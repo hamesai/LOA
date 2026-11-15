@@ -120,8 +120,12 @@
      "x": "Write the given circumstances for one character in a scene you may direct, using the four questions. Then write two 'if' questions the actor could answer with an action."
     },
     {
+     "t": "p",
+     "x": "Not every great director agreed with this tradition. Edward Gordon Craig argued in 1912 that the actor's body is useless as material for art, because human nature tends towards freedom, so what the actor does is accidental rather than designed [CONTESTED]. {{craig-actor}} Set his view beside Stanislavski's: one tries to free the actor's inner life, the other doubted that a human performer could be an artist's material at all."
+    },
+    {
      "t": "check",
-     "q": "In the book, what does the 'if' do?",
+     "q": "An actor says she cannot believe she is a duchess in 1600. How would the magic 'if' help her?",
      "o": [
       "It forces the actor to believe a lie",
       "It sets the imagination moving with a supposition",
@@ -129,7 +133,8 @@
       "It tells the actor what to feel"
      ],
      "a": 1,
-     "w": "The 'if' gives the push to a dormant imagination as a supposition, not a lie. {{aap}}"
+     "w": "The 'if' gives the push to a dormant imagination as a supposition, not a lie. {{aap}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -253,7 +258,7 @@
     },
     {
      "t": "check",
-     "q": "Why does the book warn against dividing a play into hundreds of tiny units?",
+     "q": "A director breaks a 90-minute play into 400 units and the actors start to lose the shape of their roles. What is the book's warning?",
      "o": [
       "It takes too long to print",
       "The actor loses the whole and the channel",
@@ -261,7 +266,8 @@
       "The audience can see the units"
      ],
      "a": 1,
-     "w": "Tiny steps tangle the actor and hide the larger line. {{aap}}"
+     "w": "Tiny steps tangle the actor and hide the larger line. {{aap}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -273,7 +279,8 @@
       "Show off my technique"
      ],
      "a": 1,
-     "w": "A simple physical objective aimed at a partner is the safer start. {{aap}}"
+     "w": "A simple physical objective aimed at a partner is the safer start. {{aap}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -397,8 +404,16 @@
      "x": "Notice the pattern: clear purpose for each shot, a calm room, and context fed to the actor at the moment of need. It is what the earlier lessons call giving an objective and letting the actor choose the tactic. These are still reports from a critic and from cast members, not a rehearsal record. {{spoto-ch39}}"
     },
     {
+     "t": "p",
+     "x": "Katz notes that two or three weeks of rehearsal before a film is thought generous, while stage directors are used to three or four times as much. He suggests marking a rehearsal floor with masking tape for doorways and furniture so actors learn the layout. {{katz-vis}} On set, he says, give the actors a consistent emotional goal for the scene, so the technical requirements distract them far less. {{katz-move}}"
+    },
+    {
+     "t": "p",
+     "x": "Katz separates two things that work together: the techniques that set how involved the viewer is with a character, and point of view, which decides whom the viewer identifies with. {{katz-work}}"
+    },
+    {
      "t": "check",
-     "q": "How does Spoto read Hitchcock's 'actors are cattle' remark?",
+     "q": "A student quotes Hitchcock's 'actors are cattle' line as proof he despised actors. How does Spoto read it?",
      "o": [
       "As puckish humour, since Hitchcock was in practice an actor's director",
       "As a literal policy",
@@ -406,7 +421,8 @@
       "As a rule he taught"
      ],
      "a": 0,
-     "w": "Spoto calls the remark part of a puckish and perverse humour and says Hitchcock created the atmosphere in which performances could emerge. {{spoto-ch17}}"
+     "w": "Spoto calls the remark part of a puckish and perverse humour and says Hitchcock created the atmosphere in which performances could emerge. {{spoto-ch17}}",
+     "kind": "application"
     },
     {
      "t": "activity",
@@ -414,7 +430,7 @@
     },
     {
      "t": "check",
-     "q": "According to the film textbook, who is the most important relationship for a screen actor?",
+     "q": "A stage actor on her first film keeps playing to the crew behind the camera. Which relationship does the film textbook say matters most?",
      "o": [
       "The prompt",
       "The camera",
@@ -422,11 +438,12 @@
       "The front row"
      ],
      "a": 1,
-     "w": "It says the key relationship is between the actor and the camera. {{cwc}}"
+     "w": "It says the key relationship is between the actor and the camera. {{cwc}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which part stays the same between stage and camera?",
+     "q": "An actor moves a role from a large theatre to a film close-up. Which part of the work should stay the same?",
      "o": [
       "The size of gesture",
       "The objective",
@@ -434,7 +451,8 @@
       "The shot list"
      ],
      "a": 1,
-     "w": "The objective and given circumstances stay. Only the size changes. {{aap}}"
+     "w": "The objective and given circumstances stay. Only the size changes. {{aap}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -570,7 +588,8 @@
       "It removes the author"
      ],
      "a": 1,
-     "w": "The teacher stresses it admits it is only a supposition and uses no fear or force. {{aap}}"
+     "w": "The teacher stresses it admits it is only a supposition and uses no fear or force. {{aap}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -586,7 +605,7 @@
     },
     {
      "t": "check",
-     "q": "What went wrong when the class repeated the madman exercise?",
+     "q": "Your cast repeats a strong improvisation the next night and it feels empty. What went wrong when the class repeated the madman exercise, and what is the lesson?",
      "o": [
       "They forgot the lines",
       "They copied the outer form and lost the inner cause",
@@ -594,7 +613,8 @@
       "The teacher changed the rules"
      ],
      "a": 1,
-     "w": "They repeated a successful rehearsal instead of re-creating the inner experience. {{aap}}"
+     "w": "They repeated a successful rehearsal instead of re-creating the inner experience. {{aap}}",
+     "kind": "application"
     },
     {
      "t": "take",

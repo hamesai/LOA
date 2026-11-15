@@ -248,7 +248,7 @@
     },
     {
      "t": "check",
-     "q": "Five of 40 orders were returned. What is the return rate?",
+     "q": "Your shop had 40 orders this quarter and 5 came back. Your target is under 10%. What is your return rate, and are you on target?",
      "o": [
       "5%",
       "12.5%",
@@ -256,7 +256,8 @@
       "20%"
      ],
      "a": 1,
-     "w": "5 ÷ 40 = 0.125, which is 12.5%."
+     "w": "5 ÷ 40 = 0.125, which is 12.5%.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -442,7 +443,7 @@
     },
     {
      "t": "check",
-     "q": "Your annual gross trading income is £1,200. What does the guidance say?",
+     "q": "Alex sold £1,200 of vintage clothes this year and thinks there is nothing to do because profit was small. What does the guidance say?",
      "o": [
       "Nothing to do; it is under £2,000",
       "You must register for Self Assessment",
@@ -450,7 +451,8 @@
       "You must register for VAT"
      ],
      "a": 1,
-     "w": "Gross trading income over £1,000 means registering for Self Assessment. {{gov-allowance}}"
+     "w": "Gross trading income over £1,000 means registering for Self Assessment. {{gov-allowance}}",
+     "kind": "application"
     },
     {
      "t": "check",

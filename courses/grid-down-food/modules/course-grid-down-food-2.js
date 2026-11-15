@@ -104,7 +104,7 @@
     },
     {
      "t": "check",
-     "q": "What keeps a freezer colder for longer?",
+     "q": "The power goes off and your freezer is half full. What two things will keep it cold longest?",
      "o": [
       "Opening it to check",
       "Keeping it full and the door closed",
@@ -112,7 +112,8 @@
       "Turning it off"
      ],
      "a": 1,
-     "w": "A full freezer holds its temperature longer; keep the door closed. {{fsis}} {{fsa}}"
+     "w": "A full freezer holds its temperature longer; keep the door closed. {{fsis}} {{fsa}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -232,7 +233,7 @@
     },
     {
      "t": "check",
-     "q": "According to the FSA order, what comes after foods that need refrigeration?",
+     "q": "Day one of an outage: you have chilled food, defrosted peas and tins. Following the FSA order, what do you eat after the chilled food?",
      "o": [
       "Canned food",
       "Defrosted frozen food that doesn't need cooking",
@@ -240,7 +241,8 @@
       "Fresh meat"
      ],
      "a": 1,
-     "w": "The FSA order is refrigerated, then defrosted without cooking, then room-temperature perishable, then canned, bottled and dried. {{fsa}}"
+     "w": "The FSA order is refrigerated, then defrosted without cooking, then room-temperature perishable, then canned, bottled and dried. {{fsa}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -348,11 +350,12 @@
       "Cook it and refreeze"
      ],
      "a": 1,
-     "w": "FSIS says food that has thawed and been above 40 F for over 2 hours should be discarded, so the peas go. {{fsis}}"
+     "w": "FSIS says food that has thawed and been above 40 F for over 2 hours should be discarded, so the peas go. {{fsis}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which food does FSIS say to discard if it has thawed?",
+     "q": "After a 12-hour cut your freezer has thawed. Which item does FSIS say must go?",
      "o": [
       "Bread",
       "Ice cream",
@@ -360,7 +363,8 @@
       "Hard cheese"
      ],
      "a": 1,
-     "w": "Ice cream and frozen yoghurt are discarded when thawed. {{fsis}}"
+     "w": "Ice cream and frozen yoghurt are discarded when thawed. {{fsis}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -456,7 +460,8 @@
       "Jam"
      ],
      "a": 2,
-     "w": "Cooked pasta, rice and potatoes are discarded; butter, mustard and jam are safe. {{fsis}}"
+     "w": "Cooked pasta, rice and potatoes are discarded; butter, mustard and jam are safe. {{fsis}}",
+     "kind": "application"
     },
     {
      "t": "check",

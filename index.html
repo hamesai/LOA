@@ -394,8 +394,18 @@ textarea.reflect { width: 100%; font: 400 0.95rem var(--f-body); color: var(--in
   .mtable thead { display: none; }
   .mtable tr { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem 0.9rem; padding: 0.7rem 0.75rem; margin-bottom: 0.5rem; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; }
   .mtable td { display: block; padding: 0; border: 0; min-width: 0; }
-  .mtable td:nth-child(1) { order: -2; }
-  .mtable td:nth-child(3) { order: -1; flex: 1 1 0; }
+  /* row 1: tick, number, title (with lecturer and progress); row 2: time, challenges, belt, status */
+  .mtable .m-done { order: 1; }
+  .mtable .m-num { order: 2; }
+  .mtable .m-title { order: 3; flex: 1 1 calc(100% - 5rem); font-weight: 600; line-height: 1.3; }
+  .mtable .m-title .mono, .mtable .m-title .mprog { font-weight: 400; }
+  .mtable .m-title .mprog { margin-top: 0.35rem; }
+  .mtable .m-lib { order: 4; flex-basis: 100%; font-size: 0.8rem; color: var(--muted); }
+  .mtable .m-time, .mtable .m-ch, .mtable .m-belt { order: 5; font-size: 0.82rem; }
+  .mtable .m-status { order: 6; margin-left: auto; }
+  .mtable .m-status:not(:has(.pill.ok)) { display: none; } /* the progress line already says "Not started" */
+  .mtable .m-title { font-size: 1.02rem; }
+  .mtable td[data-l]::before { content: attr(data-l) " "; font: 500 0.68rem var(--f-mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
   .viewer { grid-template-columns: minmax(0, 1fr); min-width: 0; }
   .v-bar .row { flex-wrap: wrap; justify-content: flex-end; gap: 0.4rem; min-width: 0; max-width: 100%; }
   .v-bar .slsel { max-width: 100%; }
@@ -485,7 +495,16 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
   display: grid; align-items: center; overflow: auto; }
 .sl-main .slide { width: min(100%, calc((100vh - 8rem) * 16 / 9)); margin-inline: auto; }
 .v-stage .slide { width: min(100%, calc((100vh - 9.5rem) * 16 / 9)); }
-@media (max-width: 760px) { .slide, .sl-main .slide, .v-stage .slide { aspect-ratio: auto; width: 100%; } }
+/* phones and small tablets: every slide gets the same frame (full width, fixed height), so slides no longer jump in size.
+   Long slides are shrunk a little by CE.fit, then scroll inside the frame; content starts at the top when it overflows. */
+@media (max-width: 760px) {
+  .slide, .sl-main .slide, .v-stage .slide { aspect-ratio: auto; width: 100%; align-items: start; overscroll-behavior: contain; }
+  .sl-main .slide { height: clamp(18rem, min(calc(100dvh - 15rem), 128vw), 40rem); }
+  .sl-main .slide { scroll-margin-top: 3.6rem; }
+  .v-stage { place-items: stretch; }
+  .v-stage .slide { height: 100%; }
+  .slide > .sin { min-height: 100%; align-content: center; padding: 1.1rem 1.15rem; }
+}
 .slsel { width: auto; max-width: min(100%, 17rem); font-size: 0.85rem; padding: 0.35rem 0.5rem; }
 .sin { font-size: calc(clamp(0.82rem, 2.5cqw, 2.9rem) * var(--sz, 1)); line-height: 1.38; padding: 4.2cqw 4.8cqw; display: grid; gap: 1.2em; width: 100%; min-width: 0; align-content: center; }
 .sin h1 { font-size: 2.6em; letter-spacing: -0.02em; line-height: 1.1; }
@@ -505,7 +524,7 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
 .v-prog i { display: block; height: 100%; background: var(--accent); width: 0; }
 @media (prefers-reduced-motion: no-preference) { .btn, .chip { transition: filter 0.15s, background 0.15s; } .v-prog i { transition: width 0.2s; } }
 </style>
-<link rel="stylesheet" href="shared/course.css?v=v20261114220321">
+<link rel="stylesheet" href="shared/course.css?v=v20261115161031">
 </head>
 <body>
 <div class="wrap" id="home">
@@ -749,188 +768,191 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
   </div>
 </div>
 
-<script src="shared/archive-data.js?v=v20261114220321"></script>
-<script src="courses/greenhouse-year/course-refs.js?v=v20261114220321"></script>
-<script src="shared/course-engine.js?v=v20261114220321"></script>
-<script src="courses/greenhouse-year/course-figs.js?v=v20261114220321"></script>
-<script src="shared/course-about.js?v=v20261114220321"></script>
-<script src="shared/course-lecturer-refs.js?v=v20261114220321"></script>
-<script src="shared/course-deepnotes.js?v=v20261114220321"></script>
-<script src="shared/course-lecturer-notes.js?v=v20261114220321"></script>
-<script src="shared/course-lecturer-intro.js?v=v20261114220321"></script>
-<script src="shared/course-lecturers.js?v=v20261114220321"></script>
+<script src="shared/archive-data.js?v=v20261115161031"></script>
+<script src="courses/greenhouse-year/course-refs.js?v=v20261115161031"></script>
+<script src="shared/course-engine.js?v=v20261115161031"></script>
+<script src="courses/greenhouse-year/course-figs.js?v=v20261115161031"></script>
+<script src="shared/course-meta.js?v=v20261115161031"></script>
+<script src="shared/course-about.js?v=v20261115161031"></script>
+<script>LOA_META("about")</script>
+<script src="shared/course-lecturer-refs.js?v=v20261115161031"></script>
+<script>LOA_META("deepnotes")</script>
+<script>LOA_META("lecturer-notes")</script>
+<script>LOA_META("lecturer-intro")</script>
+<script>LOA_META("lecturers")</script>
 <!-- COURSES:START -->
-<script src="shared/course-faqs.js?v=v20261114220321"></script>
-<script src="courses/greenhouse-year/pack-greenhouse-year.js?v=v20261114220321"></script>
-<script src="courses/greenhouse-year/modules/course-m1.js?v=v20261114220321"></script>
-<script src="courses/greenhouse-year/modules/course-m2.js?v=v20261114220321"></script>
-<script src="courses/greenhouse-year/modules/course-m3.js?v=v20261114220321"></script>
-<script src="courses/greenhouse-year/modules/course-m4.js?v=v20261114220321"></script>
-<script src="courses/greenhouse-year/modules/course-m5.js?v=v20261114220321"></script>
-<script src="courses/greenhouse-year/modules/course-m6.js?v=v20261114220321"></script>
-<script src="courses/greenhouse-year/modules/course-m7.js?v=v20261114220321"></script>
-<script src="courses/greenhouse-year/modules/course-cap.js?v=v20261114220321"></script>
-<script src="courses/camping-basics/pack-camping-basics.js?v=v20261114220321"></script>
-<script src="courses/camping-basics/course-camping-basics-sources.js?v=v20261114220321"></script>
-<script src="courses/camping-basics/course-camping-basics-refs.js?v=v20261114220321"></script>
-<script src="courses/camping-basics/course-camping-basics-figs.js?v=v20261114220321"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-1.js?v=v20261114220321"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-2.js?v=v20261114220321"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-3.js?v=v20261114220321"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-4.js?v=v20261114220321"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-5.js?v=v20261114220321"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-6.js?v=v20261114220321"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-cap.js?v=v20261114220321"></script>
-<script src="courses/camping-basics/course-camping-basics-tools.js?v=v20261114220321"></script>
-<script src="courses/sales-basics/pack-sales-basics.js?v=v20261114220321"></script>
-<script src="courses/sales-basics/course-sales-basics-sources.js?v=v20261114220321"></script>
-<script src="courses/sales-basics/course-sales-basics-refs.js?v=v20261114220321"></script>
-<script src="courses/sales-basics/course-sales-basics-figs.js?v=v20261114220321"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-1.js?v=v20261114220321"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-2.js?v=v20261114220321"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-3.js?v=v20261114220321"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-4.js?v=v20261114220321"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-5.js?v=v20261114220321"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-6.js?v=v20261114220321"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-cap.js?v=v20261114220321"></script>
-<script src="courses/sales-basics/course-sales-basics-tools.js?v=v20261114220321"></script>
-<script src="courses/public-speaking/pack-public-speaking.js?v=v20261114220321"></script>
-<script src="courses/public-speaking/course-public-speaking-sources.js?v=v20261114220321"></script>
-<script src="courses/public-speaking/course-public-speaking-refs.js?v=v20261114220321"></script>
-<script src="courses/public-speaking/course-public-speaking-figs.js?v=v20261114220321"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-1.js?v=v20261114220321"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-2.js?v=v20261114220321"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-3.js?v=v20261114220321"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-4.js?v=v20261114220321"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-5.js?v=v20261114220321"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-6.js?v=v20261114220321"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-cap.js?v=v20261114220321"></script>
-<script src="courses/personal-training/pack-personal-training.js?v=v20261114220321"></script>
-<script src="courses/personal-training/course-personal-training-sources.js?v=v20261114220321"></script>
-<script src="courses/personal-training/course-personal-training-refs.js?v=v20261114220321"></script>
-<script src="courses/personal-training/course-personal-training-figs.js?v=v20261114220321"></script>
-<script src="courses/personal-training/modules/course-personal-training-1.js?v=v20261114220321"></script>
-<script src="courses/personal-training/modules/course-personal-training-2.js?v=v20261114220321"></script>
-<script src="courses/personal-training/modules/course-personal-training-3.js?v=v20261114220321"></script>
-<script src="courses/personal-training/modules/course-personal-training-4.js?v=v20261114220321"></script>
-<script src="courses/personal-training/modules/course-personal-training-5.js?v=v20261114220321"></script>
-<script src="courses/personal-training/modules/course-personal-training-6.js?v=v20261114220321"></script>
-<script src="courses/personal-training/modules/course-personal-training-cap.js?v=v20261114220321"></script>
-<script src="courses/personal-training/course-personal-training-tools.js?v=v20261114220321"></script>
-<script src="courses/grid-down-food/pack-grid-down-food.js?v=v20261114220321"></script>
-<script src="courses/grid-down-food/course-grid-down-food-sources.js?v=v20261114220321"></script>
-<script src="courses/grid-down-food/course-grid-down-food-refs.js?v=v20261114220321"></script>
-<script src="courses/grid-down-food/course-grid-down-food-figs.js?v=v20261114220321"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-1.js?v=v20261114220321"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-2.js?v=v20261114220321"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-3.js?v=v20261114220321"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-4.js?v=v20261114220321"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-5.js?v=v20261114220321"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-6.js?v=v20261114220321"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-cap.js?v=v20261114220321"></script>
-<script src="courses/grid-down-food/course-grid-down-food-tools.js?v=v20261114220321"></script>
-<script src="courses/directing/pack-directing.js?v=v20261114220321"></script>
-<script src="courses/directing/course-directing-sources.js?v=v20261114220321"></script>
-<script src="courses/directing/course-directing-refs.js?v=v20261114220321"></script>
-<script src="courses/directing/course-directing-figs.js?v=v20261114220321"></script>
-<script src="courses/directing/modules/course-directing-1.js?v=v20261114220321"></script>
-<script src="courses/directing/modules/course-directing-2.js?v=v20261114220321"></script>
-<script src="courses/directing/modules/course-directing-3.js?v=v20261114220321"></script>
-<script src="courses/directing/modules/course-directing-4.js?v=v20261114220321"></script>
-<script src="courses/directing/modules/course-directing-5.js?v=v20261114220321"></script>
-<script src="courses/directing/modules/course-directing-6.js?v=v20261114220321"></script>
-<script src="courses/directing/modules/course-directing-cap.js?v=v20261114220321"></script>
-<script src="courses/vintage-reselling/pack-vintage-reselling.js?v=v20261114220321"></script>
-<script src="courses/vintage-reselling/course-vintage-reselling-sources.js?v=v20261114220321"></script>
-<script src="courses/vintage-reselling/course-vintage-reselling-refs.js?v=v20261114220321"></script>
-<script src="courses/vintage-reselling/course-vintage-reselling-figs.js?v=v20261114220321"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-1.js?v=v20261114220321"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-2.js?v=v20261114220321"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-3.js?v=v20261114220321"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-4.js?v=v20261114220321"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-5.js?v=v20261114220321"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-6.js?v=v20261114220321"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-cap.js?v=v20261114220321"></script>
-<script src="courses/vintage-reselling/course-vintage-reselling-tools.js?v=v20261114220321"></script>
-<script src="courses/vintage-reselling/learning-vintage-reselling.js?v=v20261114220321"></script>
-<script src="courses/camping-basics/learning-camping-basics.js?v=v20261114220321"></script>
-<script src="courses/directing/learning-directing.js?v=v20261114220321"></script>
-<script src="courses/greenhouse-year/learning-greenhouse-year.js?v=v20261114220321"></script>
-<script src="courses/grid-down-food/learning-grid-down-food.js?v=v20261114220321"></script>
-<script src="courses/personal-training/learning-personal-training.js?v=v20261114220321"></script>
-<script src="courses/public-speaking/learning-public-speaking.js?v=v20261114220321"></script>
-<script src="courses/sales-basics/learning-sales-basics.js?v=v20261114220321"></script>
-<script src="courses/cinematography/pack-cinematography.js?v=v20261114220321"></script>
-<script src="courses/cinematography/course-cinematography-sources.js?v=v20261114220321"></script>
-<script src="courses/cinematography/course-cinematography-refs.js?v=v20261114220321"></script>
-<script src="courses/cinematography/course-cinematography-figs.js?v=v20261114220321"></script>
-<script src="courses/cinematography/modules/course-cinematography-1.js?v=v20261114220321"></script>
-<script src="courses/cinematography/modules/course-cinematography-2.js?v=v20261114220321"></script>
-<script src="courses/cinematography/modules/course-cinematography-3.js?v=v20261114220321"></script>
-<script src="courses/cinematography/modules/course-cinematography-4.js?v=v20261114220321"></script>
-<script src="courses/cinematography/modules/course-cinematography-5.js?v=v20261114220321"></script>
-<script src="courses/cinematography/modules/course-cinematography-6.js?v=v20261114220321"></script>
-<script src="courses/cinematography/modules/course-cinematography-7.js?v=v20261114220321"></script>
-<script src="courses/cinematography/modules/course-cinematography-cap.js?v=v20261114220321"></script>
-<script src="courses/cinematography/course-cinematography-tools.js?v=v20261114220321"></script>
-<script src="courses/cinematography/learning-cinematography.js?v=v20261114220321"></script>
-<script src="shared/course-dossiers.js?v=v20261114220321"></script>
-<script src="shared/course-oversight.js?v=v20261114220321"></script>
-<script src="courses/investing/pack-investing.js?v=v20261114220321"></script>
-<script src="courses/investing/course-investing-sources.js?v=v20261114220321"></script>
-<script src="courses/investing/course-investing-refs.js?v=v20261114220321"></script>
-<script src="courses/investing/course-investing-figs.js?v=v20261114220321"></script>
-<script src="courses/investing/course-investing-gen.js?v=v20261114220321"></script>
-<script src="courses/investing/course-investing-outcomes.js?v=v20261114220321"></script>
-<script src="courses/investing/modules/course-investing-1.js?v=v20261114220321"></script>
-<script src="courses/investing/modules/course-investing-2.js?v=v20261114220321"></script>
-<script src="courses/investing/modules/course-investing-3.js?v=v20261114220321"></script>
-<script src="courses/investing/modules/course-investing-4.js?v=v20261114220321"></script>
-<script src="courses/investing/modules/course-investing-5.js?v=v20261114220321"></script>
-<script src="courses/investing/modules/course-investing-6.js?v=v20261114220321"></script>
-<script src="courses/investing/modules/course-investing-cap.js?v=v20261114220321"></script>
-<script src="courses/investing/learning-investing.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/learning-africa-pre-colonial.js?v=v20261114220321"></script>
-<script src="courses/africa-post-colonial/learning-africa-post-colonial.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/pack-africa-pre-colonial.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/course-africa-pre-colonial-sources.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/course-africa-pre-colonial-refs.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/course-africa-pre-colonial-figs.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-1.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-2.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-3.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-4.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-5.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-6.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-7.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-8.js?v=v20261114220321"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-cap.js?v=v20261114220321"></script>
-<script src="courses/africa-post-colonial/pack-africa-post-colonial.js?v=v20261114220321"></script>
-<script src="courses/africa-post-colonial/course-africa-post-colonial-sources.js?v=v20261114220321"></script>
-<script src="courses/africa-post-colonial/course-africa-post-colonial-refs.js?v=v20261114220321"></script>
-<script src="courses/africa-post-colonial/course-africa-post-colonial-figs.js?v=v20261114220321"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-1.js?v=v20261114220321"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-2.js?v=v20261114220321"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-3.js?v=v20261114220321"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-4.js?v=v20261114220321"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-5.js?v=v20261114220321"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-6.js?v=v20261114220321"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-7.js?v=v20261114220321"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-cap.js?v=v20261114220321"></script>
+<script src="shared/course-faqs.js?v=v20261115161031"></script>
+<script>LOA_META("faqs")</script>
+<script src="courses/greenhouse-year/pack-greenhouse-year.js?v=v20261115161031"></script>
+<script src="courses/greenhouse-year/modules/course-m1.js?v=v20261115161031"></script>
+<script src="courses/greenhouse-year/modules/course-m2.js?v=v20261115161031"></script>
+<script src="courses/greenhouse-year/modules/course-m3.js?v=v20261115161031"></script>
+<script src="courses/greenhouse-year/modules/course-m4.js?v=v20261115161031"></script>
+<script src="courses/greenhouse-year/modules/course-m5.js?v=v20261115161031"></script>
+<script src="courses/greenhouse-year/modules/course-m6.js?v=v20261115161031"></script>
+<script src="courses/greenhouse-year/modules/course-m7.js?v=v20261115161031"></script>
+<script src="courses/greenhouse-year/modules/course-cap.js?v=v20261115161031"></script>
+<script src="courses/camping-basics/pack-camping-basics.js?v=v20261115161031"></script>
+<script src="courses/camping-basics/course-camping-basics-sources.js?v=v20261115161031"></script>
+<script src="courses/camping-basics/course-camping-basics-refs.js?v=v20261115161031"></script>
+<script src="courses/camping-basics/course-camping-basics-figs.js?v=v20261115161031"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-1.js?v=v20261115161031"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-2.js?v=v20261115161031"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-3.js?v=v20261115161031"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-4.js?v=v20261115161031"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-5.js?v=v20261115161031"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-6.js?v=v20261115161031"></script>
+<script src="courses/camping-basics/modules/course-camping-basics-cap.js?v=v20261115161031"></script>
+<script src="courses/camping-basics/course-camping-basics-tools.js?v=v20261115161031"></script>
+<script src="courses/sales-basics/pack-sales-basics.js?v=v20261115161031"></script>
+<script src="courses/sales-basics/course-sales-basics-sources.js?v=v20261115161031"></script>
+<script src="courses/sales-basics/course-sales-basics-refs.js?v=v20261115161031"></script>
+<script src="courses/sales-basics/course-sales-basics-figs.js?v=v20261115161031"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-1.js?v=v20261115161031"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-2.js?v=v20261115161031"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-3.js?v=v20261115161031"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-4.js?v=v20261115161031"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-5.js?v=v20261115161031"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-6.js?v=v20261115161031"></script>
+<script src="courses/sales-basics/modules/course-sales-basics-cap.js?v=v20261115161031"></script>
+<script src="courses/sales-basics/course-sales-basics-tools.js?v=v20261115161031"></script>
+<script src="courses/public-speaking/pack-public-speaking.js?v=v20261115161031"></script>
+<script src="courses/public-speaking/course-public-speaking-sources.js?v=v20261115161031"></script>
+<script src="courses/public-speaking/course-public-speaking-refs.js?v=v20261115161031"></script>
+<script src="courses/public-speaking/course-public-speaking-figs.js?v=v20261115161031"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-1.js?v=v20261115161031"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-2.js?v=v20261115161031"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-3.js?v=v20261115161031"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-4.js?v=v20261115161031"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-5.js?v=v20261115161031"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-6.js?v=v20261115161031"></script>
+<script src="courses/public-speaking/modules/course-public-speaking-cap.js?v=v20261115161031"></script>
+<script src="courses/personal-training/pack-personal-training.js?v=v20261115161031"></script>
+<script src="courses/personal-training/course-personal-training-sources.js?v=v20261115161031"></script>
+<script src="courses/personal-training/course-personal-training-refs.js?v=v20261115161031"></script>
+<script src="courses/personal-training/course-personal-training-figs.js?v=v20261115161031"></script>
+<script src="courses/personal-training/modules/course-personal-training-1.js?v=v20261115161031"></script>
+<script src="courses/personal-training/modules/course-personal-training-2.js?v=v20261115161031"></script>
+<script src="courses/personal-training/modules/course-personal-training-3.js?v=v20261115161031"></script>
+<script src="courses/personal-training/modules/course-personal-training-4.js?v=v20261115161031"></script>
+<script src="courses/personal-training/modules/course-personal-training-5.js?v=v20261115161031"></script>
+<script src="courses/personal-training/modules/course-personal-training-6.js?v=v20261115161031"></script>
+<script src="courses/personal-training/modules/course-personal-training-cap.js?v=v20261115161031"></script>
+<script src="courses/personal-training/course-personal-training-tools.js?v=v20261115161031"></script>
+<script src="courses/grid-down-food/pack-grid-down-food.js?v=v20261115161031"></script>
+<script src="courses/grid-down-food/course-grid-down-food-sources.js?v=v20261115161031"></script>
+<script src="courses/grid-down-food/course-grid-down-food-refs.js?v=v20261115161031"></script>
+<script src="courses/grid-down-food/course-grid-down-food-figs.js?v=v20261115161031"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-1.js?v=v20261115161031"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-2.js?v=v20261115161031"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-3.js?v=v20261115161031"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-4.js?v=v20261115161031"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-5.js?v=v20261115161031"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-6.js?v=v20261115161031"></script>
+<script src="courses/grid-down-food/modules/course-grid-down-food-cap.js?v=v20261115161031"></script>
+<script src="courses/grid-down-food/course-grid-down-food-tools.js?v=v20261115161031"></script>
+<script src="courses/directing/pack-directing.js?v=v20261115161031"></script>
+<script src="courses/directing/course-directing-sources.js?v=v20261115161031"></script>
+<script src="courses/directing/course-directing-refs.js?v=v20261115161031"></script>
+<script src="courses/directing/course-directing-figs.js?v=v20261115161031"></script>
+<script src="courses/directing/modules/course-directing-1.js?v=v20261115161031"></script>
+<script src="courses/directing/modules/course-directing-2.js?v=v20261115161031"></script>
+<script src="courses/directing/modules/course-directing-3.js?v=v20261115161031"></script>
+<script src="courses/directing/modules/course-directing-4.js?v=v20261115161031"></script>
+<script src="courses/directing/modules/course-directing-5.js?v=v20261115161031"></script>
+<script src="courses/directing/modules/course-directing-6.js?v=v20261115161031"></script>
+<script src="courses/directing/modules/course-directing-cap.js?v=v20261115161031"></script>
+<script src="courses/vintage-reselling/pack-vintage-reselling.js?v=v20261115161031"></script>
+<script src="courses/vintage-reselling/course-vintage-reselling-sources.js?v=v20261115161031"></script>
+<script src="courses/vintage-reselling/course-vintage-reselling-refs.js?v=v20261115161031"></script>
+<script src="courses/vintage-reselling/course-vintage-reselling-figs.js?v=v20261115161031"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-1.js?v=v20261115161031"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-2.js?v=v20261115161031"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-3.js?v=v20261115161031"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-4.js?v=v20261115161031"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-5.js?v=v20261115161031"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-6.js?v=v20261115161031"></script>
+<script src="courses/vintage-reselling/modules/course-vintage-reselling-cap.js?v=v20261115161031"></script>
+<script src="courses/vintage-reselling/course-vintage-reselling-tools.js?v=v20261115161031"></script>
+<script src="courses/vintage-reselling/learning-vintage-reselling.js?v=v20261115161031"></script>
+<script src="courses/camping-basics/learning-camping-basics.js?v=v20261115161031"></script>
+<script src="courses/directing/learning-directing.js?v=v20261115161031"></script>
+<script src="courses/greenhouse-year/learning-greenhouse-year.js?v=v20261115161031"></script>
+<script src="courses/grid-down-food/learning-grid-down-food.js?v=v20261115161031"></script>
+<script src="courses/personal-training/learning-personal-training.js?v=v20261115161031"></script>
+<script src="courses/public-speaking/learning-public-speaking.js?v=v20261115161031"></script>
+<script src="courses/sales-basics/learning-sales-basics.js?v=v20261115161031"></script>
+<script src="courses/cinematography/pack-cinematography.js?v=v20261115161031"></script>
+<script src="courses/cinematography/course-cinematography-sources.js?v=v20261115161031"></script>
+<script src="courses/cinematography/course-cinematography-refs.js?v=v20261115161031"></script>
+<script src="courses/cinematography/course-cinematography-figs.js?v=v20261115161031"></script>
+<script src="courses/cinematography/modules/course-cinematography-1.js?v=v20261115161031"></script>
+<script src="courses/cinematography/modules/course-cinematography-2.js?v=v20261115161031"></script>
+<script src="courses/cinematography/modules/course-cinematography-3.js?v=v20261115161031"></script>
+<script src="courses/cinematography/modules/course-cinematography-4.js?v=v20261115161031"></script>
+<script src="courses/cinematography/modules/course-cinematography-5.js?v=v20261115161031"></script>
+<script src="courses/cinematography/modules/course-cinematography-6.js?v=v20261115161031"></script>
+<script src="courses/cinematography/modules/course-cinematography-7.js?v=v20261115161031"></script>
+<script src="courses/cinematography/modules/course-cinematography-cap.js?v=v20261115161031"></script>
+<script src="courses/cinematography/course-cinematography-tools.js?v=v20261115161031"></script>
+<script src="courses/cinematography/learning-cinematography.js?v=v20261115161031"></script>
+<script>LOA_META("dossiers")</script>
+<script>LOA_META("oversight")</script>
+<script src="courses/investing/pack-investing.js?v=v20261115161031"></script>
+<script src="courses/investing/course-investing-sources.js?v=v20261115161031"></script>
+<script src="courses/investing/course-investing-refs.js?v=v20261115161031"></script>
+<script src="courses/investing/course-investing-figs.js?v=v20261115161031"></script>
+<script src="courses/investing/course-investing-gen.js?v=v20261115161031"></script>
+<script src="courses/investing/course-investing-outcomes.js?v=v20261115161031"></script>
+<script src="courses/investing/modules/course-investing-1.js?v=v20261115161031"></script>
+<script src="courses/investing/modules/course-investing-2.js?v=v20261115161031"></script>
+<script src="courses/investing/modules/course-investing-3.js?v=v20261115161031"></script>
+<script src="courses/investing/modules/course-investing-4.js?v=v20261115161031"></script>
+<script src="courses/investing/modules/course-investing-5.js?v=v20261115161031"></script>
+<script src="courses/investing/modules/course-investing-6.js?v=v20261115161031"></script>
+<script src="courses/investing/modules/course-investing-cap.js?v=v20261115161031"></script>
+<script src="courses/investing/learning-investing.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/learning-africa-pre-colonial.js?v=v20261115161031"></script>
+<script src="courses/africa-post-colonial/learning-africa-post-colonial.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/pack-africa-pre-colonial.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/course-africa-pre-colonial-sources.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/course-africa-pre-colonial-refs.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/course-africa-pre-colonial-figs.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-1.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-2.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-3.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-4.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-5.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-6.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-7.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-8.js?v=v20261115161031"></script>
+<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-cap.js?v=v20261115161031"></script>
+<script src="courses/africa-post-colonial/pack-africa-post-colonial.js?v=v20261115161031"></script>
+<script src="courses/africa-post-colonial/course-africa-post-colonial-sources.js?v=v20261115161031"></script>
+<script src="courses/africa-post-colonial/course-africa-post-colonial-refs.js?v=v20261115161031"></script>
+<script src="courses/africa-post-colonial/course-africa-post-colonial-figs.js?v=v20261115161031"></script>
+<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-1.js?v=v20261115161031"></script>
+<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-2.js?v=v20261115161031"></script>
+<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-3.js?v=v20261115161031"></script>
+<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-4.js?v=v20261115161031"></script>
+<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-5.js?v=v20261115161031"></script>
+<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-6.js?v=v20261115161031"></script>
+<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-7.js?v=v20261115161031"></script>
+<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-cap.js?v=v20261115161031"></script>
 <!-- COURSES:END -->
-<!-- BARRIER AIDS: must load after every learning file and course-oversight.js -->
-<script src="shared/barriers/camping-basics.js?v=v20261114220321"></script>
-<script src="shared/barriers/cinematography.js?v=v20261114220321"></script>
-<script src="shared/barriers/directing.js?v=v20261114220321"></script>
-<script src="shared/barriers/greenhouse-year.js?v=v20261114220321"></script>
-<script src="shared/barriers/grid-down-food.js?v=v20261114220321"></script>
-<script src="shared/barriers/investing.js?v=v20261114220321"></script>
-<script src="shared/barriers/personal-training.js?v=v20261114220321"></script>
-<script src="shared/barriers/public-speaking.js?v=v20261114220321"></script>
-<script src="shared/barriers/sales-basics.js?v=v20261114220321"></script>
-<script src="shared/barriers/vintage-reselling.js?v=v20261114220321"></script>
-<script src="shared/barriers/africa-pre-colonial.js?v=v20261114220321"></script>
-<script src="shared/barriers/africa-post-colonial.js?v=v20261114220321"></script>
+<!-- BARRIER AIDS: must load after every learning file and LOA_META("oversight") -->
+<script src="shared/barriers/camping-basics.js?v=v20261115161031"></script>
+<script src="shared/barriers/cinematography.js?v=v20261115161031"></script>
+<script src="shared/barriers/directing.js?v=v20261115161031"></script>
+<script src="shared/barriers/greenhouse-year.js?v=v20261115161031"></script>
+<script src="shared/barriers/grid-down-food.js?v=v20261115161031"></script>
+<script src="shared/barriers/investing.js?v=v20261115161031"></script>
+<script src="shared/barriers/personal-training.js?v=v20261115161031"></script>
+<script src="shared/barriers/public-speaking.js?v=v20261115161031"></script>
+<script src="shared/barriers/sales-basics.js?v=v20261115161031"></script>
+<script src="shared/barriers/vintage-reselling.js?v=v20261115161031"></script>
+<script src="shared/barriers/africa-pre-colonial.js?v=v20261115161031"></script>
+<script src="shared/barriers/africa-post-colonial.js?v=v20261115161031"></script>
 <script>
 (function () {
   "use strict";
@@ -1614,10 +1636,10 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
       cb.addEventListener("change", function () { setCompletion(m, cb.checked); });
       var belt = m.belt ? h("span", {}, h("span", { class: "dot", style: "background:var(--belt-" + m.belt.toLowerCase() + ")" }), m.belt) : document.createTextNode("—");
       var tr = h("tr", { class: "mrow", tabindex: "0", role: "button", "aria-label": "Open " + m.title },
-        h("td", {}, cb), multi ? h("td", { text: libName(m.library) }) : null, h("td", { class: "mono", text: m.number }),
-        h("td", {}, h("span", { class: "chev", "aria-hidden": "true", text: "›" }), m.title, lecTag(m), progBar(m, done)),
-        h("td", { style: "white-space:nowrap", text: m.hours }), h("td", { class: "num", text: m.kind === "capstone" ? "—" : String(m.challenges) }),
-        h("td", {}, belt), h("td", {}, h("span", { class: "pill " + (done[m.key] ? "ok" : ""), text: done[m.key] ? "Complete" : m.status })));
+        h("td", { class: "m-done" }, cb), multi ? h("td", { class: "m-lib", text: libName(m.library) }) : null, h("td", { class: "mono m-num", text: m.number }),
+        h("td", { class: "m-title" }, h("span", { class: "chev", "aria-hidden": "true", text: "›" }), m.title, lecTag(m), progBar(m, done)),
+        h("td", { class: "m-time", "data-l": "Time", style: "white-space:nowrap", text: m.hours }), h("td", { class: "num m-ch", "data-l": "Challenges", text: m.kind === "capstone" ? "—" : String(m.challenges) }),
+        h("td", { class: "m-belt", "data-l": "Belt" }, belt), h("td", { class: "m-status" }, h("span", { class: "pill " + (done[m.key] ? "ok" : ""), text: done[m.key] ? "Complete" : m.status })));
       tr.addEventListener("click", function (ev) { if (ev.target.closest("input,button,a,summary")) return; openModule(m, tr); });
       tr.addEventListener("keydown", function (ev) { if ((ev.key === "Enter" || ev.key === " ") && ev.target === tr) { ev.preventDefault(); openModule(m, tr); } });
       tb.appendChild(tr);
@@ -1851,6 +1873,11 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
       if (el) { el.scrollIntoView({ behavior: "smooth", block: "start" }); el.style.outline = "2px solid currentColor"; setTimeout(function () { el.style.outline = ""; }, 1800); }
     }, 60);
   };
+  /* A citation on a slide links here: the current module's Bibliography, at that source, for a new tab. */
+  window.CE_bibHref = function (src) {
+    var key = (!$("viewer").hidden && view.deck && view.deck.module) || mv.key;
+    return key ? "index.html#bib=" + encodeURIComponent(key) + "&src=" + encodeURIComponent(src) : null;
+  };
   /* A source in the Bibliography calls this: it opens the Slides tab at the first slide that cites that source (or lists it). */
   window.CE_goSlide = function (key, title) {
     var needle = "{{" + key + "}}", i = -1, j;
@@ -1954,7 +1981,8 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
       body.appendChild(h("div", { class: "sl-wrap" }, secs.length ? nav : null, main));
       drawSlide(mv.slides[mv.i], stage, renderModuleView);
       if (CE && CE.fit) CE.fit(stage);
-      try { stage.scrollIntoView({ block: "nearest" }); } catch (e) {}
+      /* phones: line the slide up under the sticky bar so Previous and Next stay on screen */
+      try { stage.scrollIntoView({ block: window.innerWidth <= 760 ? "start" : "nearest" }); } catch (e) {}
     } else if (mv.tab === "resources") {
       var byType = {};
       rs.forEach(function (r) { (byType[r.type] = byType[r.type] || []).push(r); });
@@ -2860,6 +2888,14 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
   renderHome();
   var m0 = /^#course=(.+)$/.exec(location.hash || "");
   if (m0 && FULL.libraries.some(function (l) { return l.id === decodeURIComponent(m0[1]); })) openCourse(decodeURIComponent(m0[1]));
+  /* #bib=<module>&src=<source>: a citation on a slide opens this in a new tab, at that module's Bibliography entry. */
+  var b0 = /^#bib=([^&]+)(?:&src=([a-z0-9-]+))?$/.exec(location.hash || "");
+  var bm = b0 && modByKey(decodeURIComponent(b0[1]));
+  if (bm) {
+    if (FULL.libraries.some(function (l) { return l.id === bm.library; })) openCourse(bm.library);
+    openModule(bm);
+    if (b0[2]) window.CE_goTab("bib", "bib-" + b0[2]); else { mv.tab = "bib"; renderModuleView(); }
+  }
 })();
 </script>
 </body>

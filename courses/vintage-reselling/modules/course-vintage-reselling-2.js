@@ -303,7 +303,7 @@
     },
     {
      "t": "check",
-     "q": "Which price is better evidence of what an item is worth?",
+     "q": "You are pricing a 1970s lamp. Listings ask £45 to £120, and three identical lamps sold last month for £38, £42 and £40. Which figure should you price from?",
      "o": [
       "The highest asking price",
       "The average asking price",
@@ -311,7 +311,8 @@
       "The price you paid"
      ],
      "a": 2,
-     "w": "Sold prices show what buyers actually paid. Asking prices are only offers."
+     "w": "Sold prices show what buyers actually paid. Asking prices are only offers.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -436,7 +437,7 @@
     },
     {
      "t": "check",
-     "q": "Why can a slower-selling, higher-margin category return less cash in a period?",
+     "q": "Category A makes 60% margin but sells in 90 days; category B makes 40% margin and sells in 15 days. Why might B return more cash over a quarter?",
      "o": [
       "Margin is always misleading",
       "Cash comes back sooner from faster sales",
@@ -444,7 +445,8 @@
       "Fees are lower on slow items"
      ],
      "a": 1,
-     "w": "Cash that returns sooner can be reinvested. Unsold stock ties up capital."
+     "w": "Cash that returns sooner can be reinvested. Unsold stock ties up capital.",
+     "kind": "application"
     },
     {
      "t": "check",

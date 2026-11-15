@@ -641,7 +641,7 @@
     },
     {
      "t": "check",
-     "q": "In Hassall's first series of ground coffees, how many were adulterated?",
+     "q": "You want a historical example to show buyers why testing claims matters. In Hassall's first series of ground coffees, what did he find that makes the point?",
      "o": [
       "3 of 34",
       "31 of 34",
@@ -649,7 +649,8 @@
       "12 of 34"
      ],
      "a": 1,
-     "w": "Of 34 coffees, all but three were adulterated. {{archive-hassall}}"
+     "w": "Of 34 coffees, all but three were adulterated. {{archive-hassall}}",
+     "kind": "application"
     },
     {
      "t": "check",

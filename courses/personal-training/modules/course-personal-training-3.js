@@ -98,7 +98,7 @@
     },
     {
      "t": "check",
-     "q": "What does SDT predict will make behaviour change last longer?",
+     "q": "Client A trains because her doctor told her to; client B trains because she enjoys getting stronger. On self-determination theory, whose habit is more likely to last, and why?",
      "o": [
       "Strict rules from the trainer",
       "Autonomous motivation",
@@ -106,7 +106,8 @@
       "Fear of failure"
      ],
      "a": 1,
-     "w": "Behaviour change is more effective and lasting when people are autonomously motivated. {{ng2012}}"
+     "w": "Behaviour change is more effective and lasting when people are autonomously motivated. {{ng2012}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -231,7 +232,7 @@
     },
     {
      "t": "check",
-     "q": "Which approach was found to outperform traditional advice-giving?",
+     "q": "A client says 'I know I should walk more, but I never do.' Which approach does the review evidence favour for your reply?",
      "o": [
       "Motivational interviewing",
       "Shouting",
@@ -239,7 +240,8 @@
       "Fines"
      ],
      "a": 0,
-     "w": "The review concluded that motivational interviewing in a scientific setting outperforms traditional advice-giving. {{rubak2005}}"
+     "w": "The review concluded that motivational interviewing in a scientific setting outperforms traditional advice-giving. {{rubak2005}}",
+     "kind": "application"
     },
     {
      "t": "check",

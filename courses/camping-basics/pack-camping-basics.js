@@ -600,9 +600,10 @@ ARCHIVE_ADD({
     {
      "id": "C3",
      "level": "Stretch",
-     "task": "Choose between two imaginary pitches (low by a stream, or a rise with trees). Write three reasons.",
+     "task": "Choose between two imaginary pitches (low by a stream, or a rise with trees) for a damp, still night. Decide which you would take and give three reasons from the module.",
      "key": "The rise: drier, windbreak, less condensation.",
-     "check": "Each reason must name a hazard from the lesson."
+     "check": "Each reason must name a hazard from the lesson.",
+     "kind": "application"
     }
    ],
    "mistakes": [
@@ -987,7 +988,7 @@ ARCHIVE_ADD({
     "w": "R-values add."
    },
    {
-    "q": "What is the Met Office average cooling with height?",
+    "q": "Camp is at 50 m and you plan a high camp at 950 m. Using the Met Office average, about how much colder should you expect it to be?",
     "o": [
      "1 °C per 100 m",
      "About 2 °C per 300 m",
@@ -995,7 +996,8 @@ ARCHIVE_ADD({
      "None"
     ],
     "a": 1,
-    "w": "About 2 °C per 300 m on average."
+    "w": "About 2 °C per 300 m on average.",
+    "kind": "application"
    },
    {
     "q": "Which of these should you NOT give someone with hypothermia?",
@@ -1045,7 +1047,7 @@ ARCHIVE_ADD({
     "w": "NI Direct lists those properties."
    },
    {
-    "q": "How does the CDC say to kill all germs in water?",
+    "q": "You have a stove, a pot and no filter, and the only water is from a stream. How does the CDC say to make it safe?",
     "o": [
      "Pour through a cloth",
      "Boil at a rolling boil for 1 minute",
@@ -1053,7 +1055,8 @@ ARCHIVE_ADD({
      "Add salt"
     ],
     "a": 1,
-    "w": "Boiling is best."
+    "w": "Boiling is best.",
+    "kind": "application"
    },
    {
     "q": "What temperature should chilled food stay below?",
@@ -1114,7 +1117,7 @@ ARCHIVE_ADD({
     "w": "OS lists those two."
    },
    {
-    "q": "What is the Naismith time for 5 km with 600 m of ascent?",
+    "q": "Your route is 5 km with 600 m of ascent and the light goes in 2 hours. What does Naismith's rule give, and is it safe to start?",
     "o": [
      "1 hour",
      "2 hours",
@@ -1122,7 +1125,8 @@ ARCHIVE_ADD({
      "30 minutes"
     ],
     "a": 1,
-    "w": "5 ÷ 5 = 1 h plus 600 ÷ 600 = 1 h."
+    "w": "5 ÷ 5 = 1 h plus 600 ÷ 600 = 1 h.",
+    "kind": "application"
    },
    {
     "lec": 1,

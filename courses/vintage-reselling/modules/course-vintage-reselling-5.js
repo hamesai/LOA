@@ -139,7 +139,7 @@
     },
     {
      "t": "check",
-     "q": "On Vinted, who pays the Vinted fee?",
+     "q": "You price a jacket at £20 on Vinted and expect £20 in your payout. A buyer complains the total was higher. Who paid the Vinted fee?",
      "o": [
       "The seller from the payout",
       "The buyer at checkout",
@@ -147,7 +147,8 @@
       "The postal service"
      ],
      "a": 1,
-     "w": "The fee is added to the buyer's order total at checkout. {{vinted-fee}}"
+     "w": "The fee is added to the buyer's order total at checkout. {{vinted-fee}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -459,7 +460,7 @@
     },
     {
      "t": "check",
-     "q": "Why include your time?",
+     "q": "Your monthly profit is £300 but listing, packing and posting took 60 hours. Why should you include those hours when judging the business?",
      "o": [
       "It is a legal requirement",
       "It tells you if the business pays you a fair rate",
@@ -467,7 +468,8 @@
       "It reduces fees"
      ],
      "a": 1,
-     "w": "Profit per hour shows whether the work is worth doing."
+     "w": "Profit per hour shows whether the work is worth doing.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -622,7 +624,7 @@
     },
     {
      "t": "check",
-     "q": "What does making goods accessible mean for an online listing?",
+     "q": "A shop buyer can pick up and turn over an item; an online buyer cannot. What should your listing do to make up for that?",
      "o": [
       "Hiding flaws",
       "Photographs from every side so the buyer can look round the item",
@@ -630,7 +632,8 @@
       "Low prices only"
      ],
      "a": 1,
-     "w": "Online, photographs stand in for walking round an item."
+     "w": "Online, photographs stand in for walking round an item.",
+     "kind": "application"
     },
     {
      "t": "check",

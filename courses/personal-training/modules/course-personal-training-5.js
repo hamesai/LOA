@@ -118,7 +118,7 @@
     },
     {
      "t": "check",
-     "q": "What order should demanding technical lifts usually take?",
+     "q": "Your session plan has deadlifts, curls and planks. Where should the deadlift go, and why?",
      "o": [
       "Last",
       "First, while the client is fresh",
@@ -126,11 +126,12 @@
       "Random"
      ],
      "a": 1,
-     "w": "Doing the most technical lifts early protects quality; this is our design rule."
+     "w": "Doing the most technical lifts early protects quality; this is our design rule.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which choice fits the 2024 analysis?",
+     "q": "A client has 45 minutes. Plan A is ten exercises of one set; plan B is four key exercises of three sets. Which fits the 2024 analysis better?",
      "o": [
       "Many exercises, one set each",
       "A smaller number of key exercises with several sets",
@@ -138,7 +139,8 @@
       "Only bodyweight"
      ],
      "a": 1,
-     "w": "The authors suggest focussing on key exercises with multiple sets over many exercises done often. {{swinton2024}}"
+     "w": "The authors suggest focussing on key exercises with multiple sets over many exercises done often. {{swinton2024}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -290,7 +292,7 @@
     },
     {
      "t": "check",
-     "q": "Why does the template include 2 strength days a week from the start?",
+     "q": "A new client asks why the beginner template already has two strength days. What is the reason?",
      "o": [
       "Because 2 is magic",
       "It meets the WHO minimum of 2 or more days of muscle-strengthening",
@@ -298,7 +300,8 @@
       "It avoids soreness"
      ],
      "a": 1,
-     "w": "The WHO recommends muscle-strengthening on 2 or more days a week at moderate or greater intensity. {{who2020}}"
+     "w": "The WHO recommends muscle-strengthening on 2 or more days a week at moderate or greater intensity. {{who2020}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -405,7 +408,7 @@
     },
     {
      "t": "check",
-     "q": "In double progression, when do you add load?",
+     "q": "A client's goal range is 8 to 12 reps. This week she did 12, 12 and 10 at 20 kg. Under double progression, should you add load now?",
      "o": [
       "Every week",
       "When all sets hit the top of the rep range",
@@ -413,7 +416,8 @@
       "Never"
      ],
      "a": 1,
-     "w": "You add load after all sets reach the top of the range, then reset reps. This follows progressive overload. {{swinton2024}}"
+     "w": "You add load after all sets reach the top of the range, then reset reps. This follows progressive overload. {{swinton2024}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -549,7 +553,7 @@
     },
     {
      "t": "check",
-     "q": "Which RPE band describes moderate intensity in the screening algorithm?",
+     "q": "A client rates a brisk walk at 12 on the RPE scale. Which band does the screening algorithm put that in?",
      "o": [
       "9 to 11",
       "12 to 13",
@@ -557,7 +561,8 @@
       "Below 9"
      ],
      "a": 1,
-     "w": "Moderate intensity is RPE 12 to 13 on that scale. {{whitfield2017}}"
+     "w": "Moderate intensity is RPE 12 to 13 on that scale. {{whitfield2017}}",
+     "kind": "application"
     },
     {
      "t": "take",

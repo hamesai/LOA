@@ -430,9 +430,10 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "A portfolio falls 20%, then rises 20%. Where does it end, and why?",
+     "task": "A portfolio falls 20%, then rises 20%. Work out where £10,000 ends, explain why, and say what this means for how you read a fund's 'average' return.",
      "key": "It ends at 96% of the start, so it does not recover. 0.8 × 1.2 = 0.96.",
-     "check": "Multiply the two factors."
+     "check": "Multiply the two factors.",
+     "kind": "application"
     },
     {
      "id": "C3",
@@ -518,9 +519,10 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "The SPIVA figure for 10 years is 83.33%. What does it mean, and what does it not show?",
+     "task": "The SPIVA figure for 10 years is 83.33%. A fund manager tells you this proves active funds always fail. Say what the figure does mean, and what it does not show.",
      "key": "It means that 83.33% of active US large-cap funds underperformed the S&P 500 over 10 years. It does not show UK funds or any single fund's future.",
-     "check": "The answer must give both the meaning and a limit."
+     "check": "The answer must give both the meaning and a limit.",
+     "kind": "application"
     },
     {
      "id": "C3",
@@ -803,7 +805,7 @@ ARCHIVE_ADD({
     "w": "It is the set of portfolios with the highest expected return for each risk level."
    },
    {
-    "q": "Which can diversification NOT do?",
+    "q": "A client says that with 30 funds she cannot lose money in a crash. Which thing can diversification NOT do?",
     "o": [
      "Smooth returns over time",
      "Stop losses in a market-wide fall",
@@ -811,7 +813,8 @@ ARCHIVE_ADD({
      "Reduce reliance on one holding"
     ],
     "a": 1,
-    "w": "It cannot stop a broad market fall."
+    "w": "It cannot stop a broad market fall.",
+    "kind": "application"
    },
    {
     "lec": 1,

@@ -377,7 +377,8 @@
       "£12,000"
      ],
      "a": 2,
-     "w": "£1,500 × 6 = £9,000. The three-month minimum is £4,500. {{mh-beginners}}"
+     "w": "£1,500 × 6 = £9,000. The three-month minimum is £4,500. {{mh-beginners}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -401,7 +402,8 @@
       "Stop saving altogether"
      ],
      "a": 1,
-     "w": "Refill the fund before restarting investing. This follows the three-to-six-month guide in MoneyHelper. {{mh-beginners}}"
+     "w": "Refill the fund before restarting investing. This follows the three-to-six-month guide in MoneyHelper. {{mh-beginners}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -610,7 +612,8 @@
       "About £9,000"
      ],
      "a": 1,
-     "w": "£10,100 ÷ 1.03 is about £9,806. This is our arithmetic."
+     "w": "£10,100 ÷ 1.03 is about £9,806. This is our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -622,7 +625,8 @@
       "It has doubled"
      ],
      "a": 2,
-     "w": "The pound balance grows but prices grow faster, so buying power falls. In the worked example £10,000 became about £8,219 in today's money. Our arithmetic."
+     "w": "The pound balance grows but prices grow faster, so buying power falls. In the worked example £10,000 became about £8,219 in today's money. Our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -803,7 +807,8 @@
       "It does not matter"
      ],
      "a": 1,
-     "w": "A purchase 18 months away is well inside the five-year mark MoneyHelper uses, so the money belongs somewhere stable. {{mh-beginners}}"
+     "w": "A purchase 18 months away is well inside the five-year mark MoneyHelper uses, so the money belongs somewhere stable. {{mh-beginners}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -815,7 +820,8 @@
       "£2,200, and he does"
      ],
      "a": 0,
-     "w": "£2,200 × 3 = £6,600, which is more than £3,000, so he falls short. {{mh-beginners}}"
+     "w": "£2,200 × 3 = £6,600, which is more than £3,000, so he falls short. {{mh-beginners}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -920,7 +926,8 @@
       "4.2 months"
      ],
      "a": 1,
-     "w": "£4,200 ÷ £1,850 is about 2.27, so about 2.3 months. That is below the three-month minimum. Our arithmetic."
+     "w": "£4,200 ÷ £1,850 is about 2.27, so about 2.3 months. That is below the three-month minimum. Our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -936,7 +943,7 @@
     },
     {
      "t": "check",
-     "q": "Why is a credit limit not part of an emergency fund?",
+     "q": "A friend says their £5,000 credit card limit is their emergency fund. What is wrong with that plan?",
      "o": [
       "It is free money",
       "It is borrowing that must be repaid, often with interest",
@@ -944,7 +951,8 @@
       "It cannot be spent"
      ],
      "a": 1,
-     "w": "A credit limit is a loan you would have to repay. Our inference."
+     "w": "A credit limit is a loan you would have to repay. Our inference.",
+     "kind": "application"
     },
     {
      "t": "take",

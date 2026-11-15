@@ -22,7 +22,7 @@
      "t": "fig",
      "id": "africa-pre-colonial-tl6",
      "title": "East and Central Africa timeline",
-     "cap": "Approximate spans from the working library; open ends mean no firm end is given."
+     "cap": "Approximate spans. An open end means no firm end date is known."
     },
     {
      "t": "h",
@@ -30,7 +30,7 @@
     },
     {
      "t": "p",
-     "x": "Farming and fishing Bantu-speaking communities built towns along the coast from about the 8th century CE, at sites such as Shanga, Manda and Unguja Ukuu [PROBABLE]. The Swahili language is African, with many Arabic loan-words. {{lib}}"
+     "x": "Farming and fishing Bantu-speaking communities built towns along the coast from about the 8th century CE, at sites such as Shanga, Manda and Unguja Ukuu [PROBABLE]. The Swahili language is African, with many Arabic loan-words. {{horton-shanga}} {{africanhistoryextra-kilwa}} {{archaeology-swahili}}"
     },
     {
      "t": "p",
@@ -42,7 +42,7 @@
     },
     {
      "t": "p",
-     "x": "The Kilwa Chronicle, written down in Arabic and in Portuguese versions in the 1500s, says Kilwa was founded by Persian Shirazi settlers. Archaeologists such as Horton and Middleton emphasise African origins and see Shirazi claims as prestige stories. {{lib}} {{gha4-swahili}}"
+     "x": "The Kilwa Chronicle, written down in Arabic and in Portuguese versions in the 1500s, says Kilwa was founded by Persian Shirazi settlers. Archaeologists such as Horton and Middleton emphasise African origins and see Shirazi claims as prestige stories. {{cambridge-shirazi}} {{africanhistoryextra-shirazi}} {{nature-swahili}} {{gha4-swahili}}"
     },
     {
      "t": "p",
@@ -123,15 +123,16 @@
     },
     {
      "t": "check",
-     "q": "Why do archaeologists treat Shirazi stories as prestige stories?",
+     "q": "A coastal family's chronicle traces its line to a prince from Shiraz. How should you use it?",
      "o": [
-      "They are forgeries",
-      "The chronicle is late and the archaeology shows African builders",
-      "Shiraz did not exist",
-      "Swahili is not a language"
+      "As proof of Persian founders",
+      "As a late prestige story: the chronicle is late and the archaeology shows African builders",
+      "As a forgery to discard",
+      "As a Chinese source"
      ],
      "a": 1,
-     "w": "That is the reading of Horton and Middleton. {{lib}}"
+     "w": "That is the reading of Horton and Middleton. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -154,7 +155,7 @@
     },
     {
      "t": "p",
-     "x": "Ibn Battuta visited Kilwa; his own text puts it in about 1330 or 1331. {{wiki-battuta}} The library gives 1331. The Portuguese attacked Kilwa in 1505. {{lib}}"
+     "x": "Ibn Battuta visited Kilwa; his own text puts it in about 1330 or 1331. {{wiki-battuta}} The Portuguese attacked Kilwa in 1505. {{wiki-sack-kilwa}} {{africanhistoryextra-kilwa}}"
     },
     {
      "t": "p",
@@ -166,7 +167,7 @@
     },
     {
      "t": "p",
-     "x": "The Portuguese built Fort Jesus (1593 to 96). Omani forces took it in 1698 after a long siege. Omani rule moved to Zanzibar under Sayyid Said in the 1830s and 1840s, with clove plantations and a large trade in captives from the mainland. {{lib}}"
+     "x": "The Portuguese built Fort Jesus (1593 to 96). Omani forces took it in 1698 after a long siege. Omani rule moved to Zanzibar under Sayyid Said in the 1830s and 1840s, with clove plantations and a large trade in captives from the mainland. {{unesco-fort-jesus}} {{colonialvoyage-fort}} {{ebsco-oman-zanzibar}}"
     },
     {
      "t": "h",
@@ -222,15 +223,16 @@
     },
     {
      "t": "check",
-     "q": "Which event is the earliest?",
+     "q": "You are building a coast timeline from four events. Which belongs first?",
      "o": [
       "Fort Jesus completed",
-      "Kilwa sacked by Portugal",
+      "Kilwa sacked by Portugal (1505)",
       "Mbwila",
       "Zanzibar market closed"
      ],
      "a": 1,
-     "w": "Kilwa 1505 comes first. {{lib}}"
+     "w": "Kilwa 1505 comes first. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -261,7 +263,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Earthworks at Ntusi and Bigo in western Uganda, roughly 11th to 16th centuries, show earlier centralised polities [PROBABLE]. Oral tradition links them to the legendary Chwezi and Bunyoro-Kitara. How far that tradition describes a historic empire is [CONTESTED]. {{lib}}"
+     "x": "Earthworks at Ntusi and Bigo in western Uganda, roughly 11th to 16th centuries, show earlier centralised polities [PROBABLE]. Oral tradition links them to the legendary Chwezi and Bunyoro-Kitara. How far that tradition describes a historic empire is [CONTESTED]. {{cambridge-antecedents}} {{unesco-bigo}} {{icomos-ntusi}}"
     },
     {
      "t": "p",
@@ -281,16 +283,16 @@
     },
     {
      "t": "p",
-     "x": "Traditions credit a founder, Kato Kintu. The kingdom emerged by the 16th to 17th centuries and grew strongly in the 18th and 19th. The Kabaka, or king, appointed chiefs, limiting the clans' power, and ran a canoe navy on Lake Victoria. {{lib}}"
+     "x": "Traditions credit a founder, Kato Kintu. The kingdom emerged by the 16th to 17th centuries and grew strongly in the 18th and 19th. The Kabaka, or king, appointed chiefs, limiting the clans' power, and ran a canoe navy on Lake Victoria. {{buganda-history}} {{britannica-uganda}}"
     },
     {
      "t": "p",
-     "x": "Kabaka Mutesa I (r. c. 1856 to 84) received Speke (1862) and Stanley (1875). Kasubi Tombs are UNESCO-listed and were damaged by fire in 2010. {{lib}}"
+     "x": "Kabaka Mutesa I (r. c. 1856 to 84) received Speke (1862) and Stanley (1875). Kasubi Tombs are UNESCO-listed and were damaged by fire in 2010. {{britannica-uganda}} {{unesco-kasubi}}"
     },
     {
      "t": "callout",
      "k": "warn",
-     "x": "Speke's Hamitic theory held that such kingdoms were built by lighter-skinned outsiders. It was racial speculation that shaped colonial rule and is rejected today. {{lib}}"
+     "x": "Speke's Hamitic theory held that such kingdoms were built by lighter-skinned outsiders. It was racial speculation that shaped colonial rule and is rejected today. {{cambridge-antecedents}}"
     },
     {
      "t": "table",
@@ -325,20 +327,21 @@
      "steps": [
       "Who is speaking? A visitor, in 1862, with a racial theory of his own.",
       "What does he give? A description of Mutesa's court and kingdom.",
-      "What to discount? The Hamitic theory, which was speculation. Use the description with care. (Our application of the library's verdict.) {{lib}}"
+      "What to discount? The Hamitic theory, which was speculation. Use the description with care. {{lib}}"
      ]
     },
     {
      "t": "check",
-     "q": "What is the Hamitic theory, and what is its status?",
+     "q": "An old guide says the lakes kingdoms were founded by tall northern pastoralists who brought kingship. How should you label the claim?",
      "o": [
-      "A proven migration model",
-      "A racial speculation that outsiders built African kingdoms, now rejected",
+      "Proven migration",
+      "The Hamitic theory: racial speculation that outsiders built African kingdoms, now rejected",
       "A Buganda constitution",
       "A trade treaty"
      ],
      "a": 1,
-     "w": "It shaped colonial rule and is rejected today. {{lib}}"
+     "w": "It shaped colonial rule and is rejected today. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -381,7 +384,7 @@
     },
     {
      "t": "p",
-     "x": "Portuguese ships reached Kongo in 1483. King Nzinga a Nkuwu was baptised in 1491. {{lib}}"
+     "x": "Portuguese ships reached Kongo in 1483. King Nzinga a Nkuwu was baptised in 1491. {{britannica-kongo}} {{sahistory-kongo}}"
     },
     {
      "t": "h",
@@ -389,11 +392,11 @@
     },
     {
      "t": "p",
-     "x": "Afonso I (r. c. 1509 to 43) promoted Christianity, sent students to Portugal and wrote letters to the kings of Portugal. In a letter of 1526 he protested that the slave trade was depopulating his kingdom and corrupting his people, and asked the Portuguese to stop supplying goods to illegal traders. {{lib}}"
+     "x": "Afonso I (r. c. 1509 to 43) promoted Christianity, sent students to Portugal and wrote letters to the kings of Portugal. In a letter of 1526 he protested that the slave trade was depopulating his kingdom and corrupting his people, and asked the Portuguese to stop supplying goods to illegal traders. {{gilder-afonso}} {{heywood-kongo}} {{sahistory-kongo}}"
     },
     {
      "t": "p",
-     "x": "These are among the earliest surviving African political letters about the trade [FIRM]. The texts were written in Portuguese by secretaries but under his seal. John Thornton's work shows Kongo as an active partner, not a passive victim. {{lib}}"
+     "x": "These are among the earliest surviving African political letters about the trade [FIRM]. The texts were written in Portuguese by secretaries but under his seal. John Thornton's work shows Kongo as an active partner, not a passive victim. {{heywood-kongo}} {{wh-commons-afonso}}"
     },
     {
      "t": "h",
@@ -401,7 +404,7 @@
     },
     {
      "t": "p",
-     "x": "At Mbwila on 29/10/1665 a Portuguese-led force defeated Kongo and killed its king. Civil wars followed. The Antonian movement of Kimpa Vita (Dona Beatriz), who preached a Kongo Christianity and reunification, ended with her execution as a heretic in 1706. Queen Njinga of Ndongo and Matamba (c. 1583 to 1663) resisted the Portuguese and allied at times with the Dutch. {{lib}}"
+     "x": "At Mbwila on 29/10/1665 a Portuguese-led force defeated Kongo and killed its king. Civil wars followed. The Antonian movement of Kimpa Vita (Dona Beatriz), who preached a Kongo Christianity and reunification, ended with her execution as a heretic in 1706. Queen Njinga of Ndongo and Matamba (c. 1583 to 1663) resisted the Portuguese and allied at times with the Dutch. {{britannica-kongo}} {{dacb-kimpa}} {{sahistory-kongo}}"
     },
     {
      "t": "example",
@@ -446,15 +449,16 @@
     },
     {
      "t": "check",
-     "q": "What did Afonso I's 1526 letter protest?",
+     "q": "You want evidence that a Kongo king saw the slave trade as harmful to his kingdom. Which source fits best, and what does it say?",
      "o": [
-      "A tax",
-      "That the slave trade was depopulating his kingdom",
-      "A Dutch alliance",
-      "Portuguese baptism"
+      "A Portuguese tax roll",
+      "Afonso I's 1526 letter, protesting that the trade was depopulating his kingdom",
+      "A Dutch treaty",
+      "A baptism register"
      ],
      "a": 1,
-     "w": "He asked Portugal to stop supplying goods to illegal traders. {{lib}}"
+     "w": "He asked Portugal to stop supplying goods to illegal traders. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -520,19 +524,20 @@
     },
     {
      "t": "p",
-     "x": "A dating exercise: Ibn Battuta's text puts Kilwa in about 1330 or 1331, and the library uses 1331. Both are consistent with the Kilwa peak in the 13th and 14th centuries. Say about 1330 to 1331 when the exact year matters. {{wiki-battuta}} {{lib}}"
+     "x": "A dating exercise: Ibn Battuta's text puts Kilwa in about 1330 or 1331, and modern summaries differ between the two. Both are consistent with the Kilwa peak in the 13th and 14th centuries. Say about 1330 to 1331 when the exact year matters. {{wiki-battuta}} {{lib}}"
     },
     {
      "t": "check",
-     "q": "What do Ntusi and Bigo show?",
+     "q": "A writer says there were no large polities in western Uganda before the nineteenth century. Which evidence tests that?",
      "o": [
       "A Persian colony",
-      "Earlier centralised polities in western Uganda",
+      "The Ntusi and Bigo earthworks, earlier centralised polities of roughly the 11th to 16th centuries",
       "A Kongo capital",
       "An Omani fort"
      ],
      "a": 1,
-     "w": "The extent of the Chwezi empire is contested. {{lib}}"
+     "w": "The extent of the Chwezi empire is contested. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -557,7 +562,7 @@
   },
   {
    "id": "l6",
-   "title": "What the supplied books add to the coast, the lakes and Kongo",
+   "title": "What the books add to the coast, the lakes and Kongo",
    "min": 26,
    "blocks": [
     {
@@ -570,7 +575,7 @@
     },
     {
      "t": "p",
-     "x": "Gibb's translation also covers the coast. Ibn Battuta left Mecca after the pilgrimage that ended in 1330 and called at Zayla, Mogadishu (a sultan of Berberah origin who spoke the local language), Mombasa and Kilwa. He found Kilwa a very fine town of mostly Zanj inhabitants, ruled by the generous Abu'l-Muzaffar Hasan and then by his miserly brother Dawud, and was told that gold dust reached Sofala from the interior. {{ibn-battuta-gibb}} This fits the lesson's range of about 1330 to 1331 for his visit."
+     "x": "Gibb's translation also covers the coast. Ibn Battuta left Mecca after the pilgrimage that ended in 1330 and called at Zayla, Mogadishu (a sultan of Berberah origin who spoke the local language), Mombasa and Kilwa. He found Kilwa a very fine town of mostly Zanj inhabitants, ruled by the generous Abu'l-Muzaffar Hasan and then by his miserly brother Dawud, and was told that gold dust reached Sofala from the interior. {{ibn-battuta-gibb-018}} This fits the lesson's range of about 1330 to 1331 for his visit."
     },
     {
      "t": "p",
@@ -587,7 +592,7 @@
     },
     {
      "t": "p",
-     "x": "Reader dates Ntusi to the 11th to 14th or 15th century, with hundreds to thousands of people, cattle bones and smelting, and Bigo's ditches, more than ten kilometres long and cut up to five metres into bedrock around about 300 hectares, to the 13th to 16th centuries, as a cattle refuge. {{rd-lakes}} Rodney also describes Bigo's earthworks and treats the Bachwezi as a product of African synthesis. {{rod-pre}} Both reject the Hamitic myth, which held that lighter-skinned Ethiopian conquerors built these states. Reader quotes Speke's theory of conquest of inferior by superior races and says no Cushitic substratum is found, one Bantu language runs through the region, and Tutsi and Hutu speak the same Bantu language. {{rd-lakes}} Rodney adds that even Ethiopian origins would make the Bachwezi black or brown Africans. {{rod-trade}}"
+     "x": "Reader dates Ntusi to the 11th to 14th or 15th century, with hundreds to thousands of people, cattle bones and smelting, and Bigo's ditches, more than ten kilometres long and cut up to five metres into bedrock around about 300 hectares, to the 13th to 16th centuries, as a cattle refuge. {{rd-lakes}} Rodney also describes Bigo's earthworks and treats the Bachwezi as a product of African synthesis. {{rod-pre-007}} Both reject the Hamitic myth, which held that lighter-skinned Ethiopian conquerors built these states. Reader quotes Speke's theory of conquest of inferior by superior races and says no Cushitic substratum is found, one Bantu language runs through the region, and Tutsi and Hutu speak the same Bantu language. {{rd-lakes}} Rodney adds that even Ethiopian origins would make the Bachwezi black or brown Africans. {{rod-trade}}"
     },
     {
      "t": "p",
@@ -609,7 +614,7 @@
       [
        "The ruler",
        "Nzinga Mbemba was baptised Afonso in 1491 and ruled from 1506 to 1543; he welcomed missionaries and sent young nobles to Portugal. {{rd-kongo}}",
-       "Afonso asked for masons, priests, clerks and doctors and was swamped by slave ships. {{rod-trade}}"
+       "Afonso asked for masons, priests, clerks and doctors and was swamped by slave ships. {{rod-trade-008}}"
       ],
       [
        "Language and religion",
@@ -644,15 +649,16 @@
     },
     {
      "t": "check",
-     "q": "What does Reader say about Tutsi and Hutu languages?",
+     "q": "Speke said Tutsi and Hutu were separate conquering and conquered races. Which point from Reader cuts against that?",
      "o": [
       "They are Cushitic",
-      "Both speak the same Bantu language, against the conquest myth",
+      "Both speak the same Bantu language",
       "They speak Arabic",
-      "They have no language"
+      "They have no shared customs"
      ],
      "a": 1,
-     "w": "This undercuts Speke's theory of conquering races. {{rd-lakes}}"
+     "w": "This undercuts Speke's theory of conquering races. {{rd-lakes}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -711,7 +717,7 @@
     },
     {
      "t": "p",
-     "x": "Chinese ships did not sail beyond Sumatra and Java until Zheng He's voyages of 1417 to 19 and 1421 to 22 (Devisse and Labib in Chapter 26 give the African calls as 1417 to 1419 and 1431 to 1433, and the volume does not reconcile them {{gha4-inter}}), so the earlier Chinese porcelain at Kilwa came through Indian Ocean traders. Kilwa minted copper and silver coins, and Mogadishu a coin dated 1322. {{gha4-swahili}} [PROBABLE]"
+     "x": "Chinese ships did not sail beyond Sumatra and Java until Zheng He's voyages of 1417 to 19 and 1421 to 22 {{gha4-swahili}} (Devisse and Labib in Chapter 26 give the African calls as 1417 to 1419 and 1431 to 1433, and the volume does not reconcile them {{gha4-inter}}), so the earlier Chinese porcelain at Kilwa came through Indian Ocean traders. Kilwa minted copper and silver coins, and Mogadishu a coin dated 1322. {{gha4-swahili}} [PROBABLE]"
     },
     {
      "t": "table",
@@ -756,7 +762,7 @@
     },
     {
      "t": "p",
-     "x": "About 1483 the core kingdom had six provinces, under governors named by the king, except that Mbata's was elected and Soyo's was hereditary. Tribute came in nzimbu shells, raffia cloth, ivory and skins. The Portuguese-era figure of 400,000 warriors for Mbamba is, in his words, surely an exaggeration. {{gha4-kongo}}"
+     "x": "About 1483 the core kingdom had six provinces, under governors named by the king, except that Mbata's was elected and Soyo's was hereditary. Tribute came in nzimbu shells, raffia cloth, ivory and skins. The Portuguese-era figure for Mbamba's warriors is, in his words, surely an exaggeration. {{gha4-kongo}}"
     },
     {
      "t": "p",
@@ -896,7 +902,7 @@
     },
     {
      "t": "p",
-     "x": "He says the north-west Swahili trading posts exported rice and slaves, the Portuguese made an annual trip from Mozambique, and the Comoros were a transit point for Malagasy slaves, with a price rise from 9 or 10 piasters to 100 in 1614. English ships took slaves to Barbados and Jamaica, where half of 32,473 enslaved people around 1700 were from Madagascar. The Mascarenes held about 94,000 slaves among 120,000 people by 1800 and at first drew mostly on Madagascar. {{gha5-madag2}} [THIN EVIDENCE]"
+     "x": "He says the north-west Swahili trading posts exported rice and slaves, the Portuguese made an annual trip from Mozambique, and the Comoros were a transit point for Malagasy slaves, with a price rise from 9 or 10 piasters to 100 in 1614. English ships took slaves to Barbados and Jamaica, where, by one count around 1700, about half of the enslaved people were from Madagascar. The Mascarenes had large slave populations by 1800 and at first drew mostly on Madagascar. {{gha5-madag2}} [THIN EVIDENCE]"
     },
     {
      "t": "p",
@@ -957,15 +963,16 @@
     },
     {
      "t": "check",
-     "q": "What does Ogot say about the Hamitic story of Rwanda?",
+     "q": "A history of Rwanda starts with Tutsi kings arriving and founding the state. Using Ogot, what should the account start with instead?",
      "o": [
-      "It is the best account",
-      "It is court-centred and rests on the outmoded Hamitic theory; farming clan states came first",
-      "It is proved by archaeology",
-      "It concerns only Kenya"
+      "The same story",
+      "Farming clan states that came first; the court-centred story rests on the outmoded Hamitic theory",
+      "Archaeology alone",
+      "Kenya"
      ],
      "a": 1,
-     "w": "He cites Kagame and the White Fathers as the source. {{gha4-lakes}}"
+     "w": "He cites Kagame and the White Fathers as the source of the court story. {{gha4-lakes}}",
+     "kind": "application"
     },
     {
      "t": "h",
@@ -993,15 +1000,16 @@
     },
     {
      "t": "check",
-     "q": "Why does Vansina call early Kongo history hypothesis?",
+     "q": "A website gives exact dates for Kongo kings in the 1300s. Using Vansina, what should you say about them?",
      "o": [
-      "There are no Kongo people",
-      "The earliest manuscript is 1492 and oral traditions were recorded from 1624",
-      "The kings burned all records",
-      "Portuguese records are lost"
+      "They are documented",
+      "They are hypothesis: the earliest manuscript is 1492 and traditions were recorded only from 1624",
+      "They come from Kongo archives",
+      "They are Portuguese records"
      ],
      "a": 1,
-     "w": "He says the earlier periods rest on later sources. {{gha4-kongo}}"
+     "w": "He says the earlier periods rest on later sources. {{gha4-kongo}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1144,7 +1152,7 @@
     },
     {
      "t": "p",
-     "x": "We read encyclopaedic pages in excerpt form on 30/10/2026, not his own work. Wikipedia says he arrived at Kilwa, then a transit centre of the gold trade, described it as one of the finest and most beautifully built towns, and recorded a visit in 1330 while the library gives 1331. It notes that his stated chronology for the early 1330s has problems. {{wiki-battuta}}"
+     "x": "Source note: this rests on encyclopaedic summaries, not his own text. Wikipedia says he arrived at Kilwa, then a transit centre of the gold trade, described it as one of the finest and most beautifully built towns, and recorded a visit in 1330, while other accounts give 1331. It notes that his stated chronology for the early 1330s has problems. {{wiki-battuta}}"
     },
     {
      "t": "p",
@@ -1158,9 +1166,9 @@
      "t": "ol",
      "i": [
       "Note the claim. He found Kilwa among the most beautifully built towns. {{wiki-battuta}}",
-      "Note the date range. His visit is c. 1330 to 1331, and the library uses 1331. {{wiki-battuta}} {{lib}}",
-      "Note what archaeology adds. The library points to coral-rag stone buildings, the palace of Husuni Kubwa and a great mosque. {{lib}}",
-      "Note a mismatch. The quoted passage says the buildings were of wood with reed roofs, while the library points to coral-rag stone buildings, so compare them with excavation (our observation). {{wiki-battuta}} {{lib}}",
+      "Note the date range. His visit is c. 1330 to 1331, and accounts differ on the year. {{wiki-battuta}} {{lib}}",
+      "Note what archaeology adds: coral-rag stone buildings, the palace of Husuni Kubwa and a great mosque. {{lib}}",
+      "Note a mismatch. The quoted passage says the buildings were of wood with reed roofs, while the surviving ruins are coral-rag stone, so compare the text with excavation. {{wiki-battuta}} {{lib}}",
       "Write the date as about 1330 to 1331."
      ]
     },
@@ -1199,7 +1207,7 @@
      "t": "example",
      "title": "1330 or 1331?",
      "steps": [
-      "Wikipedia says his Kilwa stay was recorded in 1330 and the library says 1331.",
+      "Wikipedia says his Kilwa stay was recorded in 1330; other accounts say 1331.",
       "Both fall within one year, and he is uncertain about his own chronology. State the range.",
       "Do not build an argument that depends on the exact year. {{wiki-battuta}} {{lib}}"
      ]

@@ -100,8 +100,16 @@
      "x": "Stage a silent scene with a beginning, middle and end in which a character gains or loses status using only position and posture. Rehearse for an hour, then ask for five positive comments and one correction. {{garcia}}"
     },
     {
+     "t": "p",
+     "x": "Craig argued that a theatre run by several directors, with nine opinions instead of one, cannot produce a work of art; unity needs one master who can invent, design and rehearse the play [CONTESTED]. {{craig-unity}} Many companies make coherent work collectively, so present this as his position. He also admitted the limits of his own ideals: in a later note he says he produced Hamlet at Moscow knowing it was impossible. {{craig-hamlet}}"
+    },
+    {
+     "t": "p",
+     "x": "Norrthon found that the best-timed transition in the production he studied did not rest on a precise cue. An actor's handling of a prop, and her steering of the audience's attention, created buffer time that absorbed variation in timing. Focus is a staging tool for hiding timing variance as well as for telling the story. {{norrthon}}"
+    },
+    {
      "t": "check",
-     "q": "Which position does Garcia call the strongest for focus?",
+     "q": "You want the audience to watch one actor during a confession. Which body position should she take, on Garcia's guide?",
      "o": [
       "Full back",
       "Profile",
@@ -109,11 +117,12 @@
       "Three-quarter"
      ],
      "a": 2,
-     "w": "Full front demands the audience's full attention. {{garcia}}"
+     "w": "Full front demands the audience's full attention. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What can override the focus ranking of the stage areas?",
+     "q": "An actor stands upstage left, Garcia's weakest area, yet the audience watches only her. What could explain it?",
      "o": [
       "The ticket price",
       "The actor's stance and posture",
@@ -121,7 +130,8 @@
       "The weather"
      ],
      "a": 1,
-     "w": "Garcia notes that stance and posture can override. {{garcia}}"
+     "w": "Garcia notes that stance and posture can override. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -227,7 +237,7 @@
     },
     {
      "t": "check",
-     "q": "What does a visual triangle give a stage picture?",
+     "q": "Three actors stand in a straight line and the picture looks flat. What would arranging them in a triangle give you?",
      "o": [
       "A flat line",
       "A focal apex",
@@ -235,11 +245,12 @@
       "A quicker exit"
      ],
      "a": 1,
-     "w": "Triangles create a focal point at the apex. {{garcia}}"
+     "w": "Triangles create a focal point at the apex. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What does a straight-line cross suggest, in Garcia's guide?",
+     "q": "A character must rush to stop another leaving. Should the cross be a curve or a straight line, on Garcia's guide?",
      "o": [
       "Ease",
       "Urgency",
@@ -247,7 +258,8 @@
       "Secrecy"
      ],
      "a": 1,
-     "w": "Arcs suggest ease, straight lines urgency. {{garcia}}"
+     "w": "Arcs suggest ease, straight lines urgency. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -365,8 +377,16 @@
      "x": "Block one moment from the previous lesson for the camera. Draw the line, choose three shots and say which stage device each replaces."
     },
     {
+     "t": "p",
+     "x": "Katz gives a practical vocabulary for staging two people: the pattern of the line of action decides where the camera can go, and the positions decide how the actors face within the frame. He treats the 180-degree line as a convention you choose to keep or break, and points to Ozu, whose staging style required him to cross it and who did so consistently. {{katz-work}}"
+    },
+    {
+     "t": "p",
+     "x": "Katz contrasts two uses of deep space. Welles separates near and far figures to set them against each other, while Renoir moves actors from foreground to background so they can exchange positions or meet in the middle ground on equal terms. {{katz-work}}"
+    },
+    {
      "t": "check",
-     "q": "What does the 180 degree rule protect?",
+     "q": "In your edit two characters seem to swap sides of the frame between shots. Which rule was broken, and what does it protect?",
      "o": [
       "The budget",
       "The audience's sense of who is looking where",
@@ -374,11 +394,12 @@
       "The costume continuity"
      ],
      "a": 1,
-     "w": "Crossing the line makes subjects appear to swap positions. {{cwc}}"
+     "w": "Crossing the line makes subjects appear to swap positions. {{cwc}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What does the textbook say a small subject in a large empty frame suggests?",
+     "q": "You frame a grieving character small in a wide, empty field. What does the textbook say this suggests?",
      "o": [
       "Joy",
       "Isolation or powerlessness",
@@ -386,7 +407,8 @@
       "A flashback"
      ],
      "a": 1,
-     "w": "It describes negative space as communicating isolation or powerlessness. {{cwc}}"
+     "w": "It describes negative space as communicating isolation or powerlessness. {{cwc}}",
+     "kind": "application"
     },
     {
      "t": "take",

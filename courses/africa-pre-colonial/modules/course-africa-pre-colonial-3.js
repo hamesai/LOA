@@ -22,7 +22,7 @@
      "t": "fig",
      "id": "africa-pre-colonial-tl3",
      "title": "North Africa timeline",
-     "cap": "Approximate spans from the working library; open ends mean the library gives no firm end."
+     "cap": "Approximate spans. An open end means no firm end date is known."
     },
     {
      "t": "h",
@@ -30,7 +30,7 @@
     },
     {
      "t": "p",
-     "x": "Phoenician settlers from Tyre founded Carthage. The traditional date of 814 BCE comes from later Greek and Roman sources, while excavation points to the 8th century BCE [PROBABLE]. Its own writings are almost all lost, so most evidence is Greek and Roman, much of it written by enemies [THIN EVIDENCE, biased]. {{lib}}"
+     "x": "Phoenician settlers from Tyre founded Carthage. The traditional date of 814 BCE comes from later Greek and Roman sources, while excavated pottery long dated the start to about 750 BCE, and radiocarbon work since the 1990s places the oldest finds in the late 9th century BCE [PROBABLE]. Its own writings are almost all lost, so most evidence is Greek and Roman, much of it written by enemies [THIN EVIDENCE, biased]. {{livius-carthage}} {{rstfen-carthage}} {{unesco-carthage}}"
     },
     {
      "t": "h",
@@ -69,7 +69,7 @@
     },
     {
      "t": "p",
-     "x": "Greek and Roman authors accused Carthage of child sacrifice. Cemeteries called tophets contain infant and animal remains. Whether these were sacrifices or burials of children who died young is [CONTESTED]. {{lib}}"
+     "x": "Greek and Roman authors accused Carthage of child sacrifice. Cemeteries called tophets contain infant and animal remains. Whether these were sacrifices or burials of children who died young is [CONTESTED]. {{qart-tophet}} {{schwartz-plos}} {{smith-antiquity}}"
     },
     {
      "t": "h",
@@ -77,11 +77,11 @@
     },
     {
      "t": "p",
-     "x": "Africa Proconsularis, Numidia and the Mauretanias were rich in grain and olive oil. Cities such as Leptis Magna, home of the emperor Septimius Severus, and Carthage flourished. African Christianity produced Tertullian, Cyprian and Augustine (354 to 430), bishop of Hippo. The Donatist split divided the church. {{lib}}"
+     "x": "Africa Proconsularis, Numidia and the Mauretanias were rich in grain and olive oil. Cities such as Leptis Magna, home of the emperor Septimius Severus, and Carthage flourished. African Christianity produced Tertullian, Cyprian and Augustine (354 to 430), bishop of Hippo. The Donatist split divided the church. {{oxford-roman-africa}} {{openedition-severus}} {{britannica-augustine}} {{britannica-donatism}}"
     },
     {
      "t": "p",
-     "x": "The Vandals took Carthage in 439. The Byzantine general Belisarius reconquered it in 533 to 534. {{lib}}"
+     "x": "The Vandals took Carthage in 439. The Byzantine general Belisarius reconquered it in 533 to 534. {{britannica-vandals}} {{ebsco-genseric}} {{wiki-vandalic}}"
     },
     {
      "t": "example",
@@ -133,11 +133,11 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Egypt was taken in 639 to 642. Kairouan was founded about 670, and Carthage fell in 698. Berber resistance included the figure known as the Kahina, or Dihya. {{lib}}"
+     "x": "Egypt was taken in 639 to 642. Kairouan was founded about 670, and Carthage fell in 698. Berber resistance included the figure known as the Kahina, or Dihya. {{oxford-arab-conquest}} {{enc-kairouan}} {{brit-north-arab}}"
     },
     {
      "t": "p",
-     "x": "Accounts of the Kahina are late Arabic sources with legendary features. The claim that she was Jewish is [CONTESTED]. Berber, or Amazigh, troops took part in the invasion of Spain in 711. {{lib}}"
+     "x": "Accounts of the Kahina are late Arabic sources with legendary features. The claim that she was Jewish is [CONTESTED]. Berber, or Amazigh, troops took part in the invasion of Spain in 711. {{enc-kahena}} {{brit-north-arab}}"
     },
     {
      "t": "h",
@@ -157,7 +157,7 @@
     },
     {
      "t": "p",
-     "x": "The archaeology of Tegdaoust and Kumbi Saleh does not show a clear destruction layer. {{lib}}"
+     "x": "The archaeology of Tegdaoust and Kumbi Saleh does not show a clear destruction layer. {{provenance-ghana}} {{wiki-ghana}} {{conrad-fisher}}"
     },
     {
      "t": "h",
@@ -165,11 +165,11 @@
     },
     {
      "t": "p",
-     "x": "The Almohads were founded by Ibn Tumart (died c. 1130), who proclaimed himself the Mahdi, and led by Abd al-Mu'min. They took Marrakesh in 1147 and ruled Morocco and al-Andalus until the 13th century. They were defeated at Las Navas de Tolosa in 1212. {{lib}}"
+     "x": "The Almohads were founded by Ibn Tumart (died c. 1130), who proclaimed himself the Mahdi, and led by Abd al-Mu'min. They took Marrakesh in 1147 and ruled Morocco and al-Andalus until the 13th century. They were defeated at Las Navas de Tolosa in 1212. {{britannica-almohads}} {{las-navas-brit}}"
     },
     {
      "t": "p",
-     "x": "The philosopher Averroes (Ibn Rushd, 1126 to 98) and the physician-philosopher Maimonides lived in their world. The scale of Almohad persecution of Jews and Christians is [CONTESTED]. {{lib}}"
+     "x": "The philosopher Averroes (Ibn Rushd, 1126 to 98) and the physician-philosopher Maimonides lived in their world. The scale of Almohad persecution of Jews and Christians is [CONTESTED]. {{ataral-averroes}}"
     },
     {
      "t": "table",
@@ -209,20 +209,21 @@
      "steps": [
       "Original: In 1076 the Almoravids conquered and destroyed Ghana.",
       "Problems: the claim rests on late and thin sources, Conrad and Fisher (1982) challenged it, and archaeology shows no clear destruction layer.",
-      "Rewrite: Later tradition says the Almoravids broke Ghana around 1076, but historians dispute this [CONTESTED]. (Our rewrite of the library's verdict.) {{lib}}"
+      "Rewrite: Later tradition says the Almoravids broke Ghana around 1076, but historians dispute this [CONTESTED]. {{conrad-fisher}} {{ebsco-almoravids-kumbi}}"
      ]
     },
     {
      "t": "check",
-     "q": "Which dynasty founded Marrakesh c. 1070?",
+     "q": "A travel guide says 'the Almohads founded Marrakesh in 1070'. What is wrong?",
      "o": [
-      "Almohads",
-      "Almoravids",
-      "Vandals",
-      "Zagwe"
+      "Nothing",
+      "The founders were the Almoravids; the Almohads came later",
+      "Marrakesh was Roman",
+      "The date should be 1912"
      ],
      "a": 1,
-     "w": "The Almoravids founded Marrakesh. {{gha3-alm}}"
+     "w": "The Almoravids founded Marrakesh. {{gha3-alm}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -253,7 +254,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Camels came into regular use across the Sahara in the first centuries CE [PROBABLE], building on earlier Saharan polities such as the Garamantes of Fezzan. Gold moved north from the Sahel. Salt from Taghaza and Taoudeni, copper, cloth, books and people moved in several directions. Carbon-14 dating puts the end of the Garamantian civilisation between the 8th and 10th centuries, after an Arab expedition in 762-3 sacked Zawila; the course should not place it earlier. {{gha3-lewicki}} {{lib}}"
+     "x": "Camels came into regular use across the Sahara in the first centuries CE [PROBABLE], building on earlier Saharan polities such as the Garamantes of Fezzan. Gold moved north from the Sahel. Salt from Taghaza and Taoudeni, copper, cloth, books and people moved in several directions. Carbon-14 dating puts the end of the Garamantian civilisation between the 8th and 10th centuries, after an Arab expedition in 762-3 sacked Zawila; the course should not place it earlier. {{gha3-lewicki}} {{springer-traders}} {{openstax-trade}} {{cambridge-garamantes}} {{worldhistory-salt}}"
     },
     {
      "t": "p",
@@ -280,7 +281,7 @@
      "title": "Main trans-Saharan links",
      "head": [
       "Route links",
-      "What the library says"
+      "Role in the network"
      ],
      "rows": [
       [
@@ -312,7 +313,7 @@
     },
     {
      "t": "p",
-     "x": "Ahmad Baba (1556 to 1627) was a Timbuktu scholar taken to Morocco after the Moroccan invasion of 1591. In a famous legal opinion he argued that only the enslavement of non-Muslims on religious grounds could be justified, and that skin colour was not a legitimate criterion [PROBABLE]. This shows Islamic legal debate within the Sahel on slavery. {{lib}}"
+     "x": "Ahmad Baba (1556 to 1627) was a Timbuktu scholar taken to Morocco after the Moroccan invasion of 1591. In a famous legal opinion he argued that only the enslavement of non-Muslims on religious grounds could be justified, and that skin colour was not a legitimate criterion [PROBABLE]. This shows Islamic legal debate within the Sahel on slavery. {{ora-ahmad-baba}} {{utrecht-ahmadbaba}} {{duke-race}}"
     },
     {
      "t": "p",
@@ -334,15 +335,16 @@
     },
     {
      "t": "check",
-     "q": "Which goods moved north across the Sahara?",
+     "q": "A caravan leaves Walata for Sijilmasa. Which load fits the module's model of the trade?",
      "o": [
+      "Salt and cloth",
       "Gold and enslaved people",
-      "Only salt",
-      "Only copper",
-      "Only horses"
+      "Copper ingots for the Maghrib's smiths",
+      "Horses"
      ],
-     "a": 0,
-     "w": "Gold and enslaved people moved north; cloth and luxury goods moved south; salt moved in both directions. Copper was already worked in the south, so it did not need to come from the north. {{gha3-devisse}} {{lib}}"
+     "a": 1,
+     "w": "Gold and enslaved people moved north; cloth and luxury goods moved south; salt moved in both directions. {{gha3-devisse}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -354,7 +356,7 @@
       "It was a Berber custom"
      ],
      "a": 1,
-     "w": "He rejected colour as a criterion [PROBABLE]. {{lib}}"
+     "w": "He rejected colour as a criterion [PROBABLE]. {{duke-race}} {{tandf-ahmadbaba}}"
     },
     {
      "t": "take",
@@ -438,7 +440,7 @@
     },
     {
      "t": "check",
-     "q": "Which pair belongs to Roman Africa?",
+     "q": "A quiz show lists four pairs as 'Roman Africa'. Which is the only pair that belongs?",
      "o": [
       "Leptis Magna and Augustine of Hippo",
       "Great Zimbabwe and Shaka",
@@ -446,7 +448,8 @@
       "Kilwa and Afonso I"
      ],
      "a": 0,
-     "w": "Leptis Magna and Hippo were Roman African cities. {{lib}}"
+     "w": "Leptis Magna and Hippo were Roman African cities. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -473,7 +476,7 @@
      "head": [
       "Original sentence",
       "Problem",
-      "Rewrite (our wording)"
+      "Rewrite"
      ],
      "rows": [
       [
@@ -542,7 +545,7 @@
   },
   {
    "id": "l6",
-   "title": "What the supplied books add to the Sahara trade",
+   "title": "What the books add to the Sahara trade",
    "min": 24,
    "blocks": [
     {
@@ -572,7 +575,7 @@
      "rows": [
       [
        "Diop, Precolonial Black Africa",
-       "Tells a conquest of 1076 to 1087, with looting and killing, from al-Bakri and later writers. {{dpc-state}}",
+       "Tells of a conquest, with looting and killing, from al-Bakri and later writers. {{dpc-state-008}}",
        "The traditional account, stated as fact."
       ],
       [
@@ -599,7 +602,7 @@
     },
     {
      "t": "p",
-     "x": "Herodotus, al-Idrisi and Ibn Yaqut describe trade where goods are left and the buyers withdraw. Diop reports this for the gold-producers of the Faleme. {{dpc-tech}} Rodney calls Bovill's reading of it 'dumb' and says it describes first exchanges, not a permanent practice: the people of Bambuk and Boure were in regular trade by Ghana's time. {{rod-pre}} Oliver's young readers' book gives the same idea to Mali's gold traders without a source. {{oli-court}} Use it as a reported practice, not as the explanation of Ghana's gold. [CONTESTED]"
+     "x": "Herodotus, al-Idrisi and Ibn Yaqut describe trade where goods are left and the buyers withdraw. Diop reports this for the gold-producers of the Faleme. {{dpc-tech}} Rodney calls Bovill's reading of it 'dumb' and says it describes first exchanges, not a permanent practice: the people of Bambuk and Boure were in regular trade by Ghana's time. {{rod-pre-007}} Oliver's young readers' book gives the same idea to Mali's gold traders without a source. {{oli-court-020}} Use it as a reported practice, not as the explanation of Ghana's gold. [CONTESTED]"
     },
     {
      "t": "h",
@@ -607,7 +610,7 @@
     },
     {
      "t": "p",
-     "x": "Diop writes that caravans were an Arab initiative and that Africans traded only at home markets such as Djenne, Timbuktu and Gao. {{dpc-state}} The same book names Wangara merchants, and the lesson table has Soninke and Dyula networks beside Berber caravaners. Rodney adds that much capital came from Maghrib merchants who sent agents south, and that the Sudan exported few slaves because Kanem-Bornu raided its southern neighbours. {{rod-pre}} The safer line is a network with Sahelian, Berber and North African partners."
+     "x": "Diop writes that caravans were an Arab initiative and that Africans traded only at home markets such as Djenne, Timbuktu and Gao. {{dpc-state-008}} The same book names Wangara merchants. Rodney adds that Ghana, Mali and Songhai all exported small numbers of slaves, while Kanem-Bornu, which controlled no gold, gave slave exports a much higher priority and raided to the south for captives. {{rod-pre-009}} The safer line is a network with Sahelian, Berber and North African partners."
     },
     {
      "t": "h",
@@ -615,11 +618,11 @@
     },
     {
      "t": "p",
-     "x": "Gibb's translation of Ibn Battuta gives the route and prices as an eyewitness. He left Sijilmasa on 18 February 1352 with a caravan, reached Taghaza in 25 days, where houses and a mosque were built of salt blocks and slaves dug the slabs, and took two months to reach Walata. Salt was worth 8 to 10 mithqals at Walata and 20 to 40 at Mali, and it served as money there. {{ibn-battuta-gibb}} At Takedda copper bars were also money, and he left in a caravan carrying six hundred women slaves. {{ibn-battuta-gibb}} The prices are his, in mithqals, from one journey."
+     "x": "Gibb's translation of Ibn Battuta gives the route and prices as an eyewitness. He left Sijilmasa on 18 February 1352 with a caravan, reached Taghaza in 25 days, where houses and a mosque were built of salt blocks and slaves dug the slabs, and took two months to reach Walata. Salt was worth 8 to 10 mithqals at Walata and 20 to 40 at Mali, and it served as money there. {{ibn-battuta-gibb}} At Takedda copper bars were also money, and he left in a caravan carrying six hundred women slaves. {{ibn-battuta-gibb-029}} The prices are his, in mithqals, from one journey."
     },
     {
      "t": "p",
-     "x": "Diop lists the currencies on the Sahel: salt blocks, cowries (500 to 3,000 to the mithqal of gold), gold dust, copper rings, cloth strips and a 40,000-dinar debt note between Sijilmasa and Awdaghust in the 10th century. {{dpc-tech}} Treat the weights as the book's. On Timbuktu, he describes 'Sankore' as a set of mosque schools run by qadis and scholars without a founding act, repaired in 1569 by the qadi al-Aqib, with 150 to 180 Quranic schools. {{dpc-tech}} He does not say Mansa Musa founded a university, and neither should the lesson. The figure of over 700 works for Ahmad Baba is a traditional number. [CONTESTED]"
+     "x": "Diop lists the currencies on the Sahel: salt blocks, cowries (500 to 3,000 to the mithqal of gold), gold dust, copper rings, cloth strips and a 40,000-dinar debt note between Sijilmasa and Awdaghust in the 10th century. {{dpc-tech-008}} Treat the weights as the book's. On Timbuktu, he describes 'Sankore' as a set of mosque schools run by qadis and scholars without a founding act, repaired in 1569 by the qadi al-Aqib, with 150 to 180 Quranic schools.  He does not say Mansa Musa founded a university, and neither should the lesson. The figure of over 700 works for Ahmad Baba is a traditional number. [CONTESTED]"
     },
     {
      "t": "check",
@@ -643,27 +646,28 @@
       "Never reported"
      ],
      "a": 1,
-     "w": "Rodney and Diop both place regular trade alongside it. {{rod-pre}}"
+     "w": "Rodney and Diop both place regular trade alongside it. {{rod-pre-007}}"
     },
     {
      "t": "check",
-     "q": "Did Mansa Musa found a university at Sankore, on Diop's account?",
+     "q": "A poster says 'Mansa Musa founded the University of Sankore'. What does Diop's account let you say instead?",
      "o": [
-      "Yes",
-      "No: Diop describes mosque schools without a founding act",
-      "Only as a library",
-      "Yes, in 1300"
+      "The poster is right",
+      "Sankore was a set of mosque schools with no founding act; Diop records repairs in 1569",
+      "Sankore was built by the Portuguese",
+      "Sankore was a library only"
      ],
      "a": 1,
-     "w": "Diop gives a set of mosque schools repaired in 1569. {{dpc-tech}}"
+     "w": "Diop describes mosque schools without a founding act. {{dpc-tech-010}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
       "Camels, salt and gold made the Sahara a corridor; the start date for gold is argued. {{rd-gold}}",
       "The Almoravid conquest of Ghana remains [CONTESTED]; one book states it as fact.",
-      "Silent trade is reported, not the whole trade. {{rod-pre}}",
-      "Sankore means mosque schools, not a founded university. {{dpc-tech}}"
+      "Silent trade is reported, not the whole trade. {{rod-pre-007}}",
+      "Sankore means mosque schools, not a founded university. {{dpc-tech-010}}"
      ]
     }
    ]
@@ -760,7 +764,7 @@
     },
     {
      "t": "p",
-     "x": "D. T. Niane's chapter on exchanges between regions calls 1100 to 1500 the golden age of trans-Saharan trade and says the Sahara was never a barrier. It follows Ibn Battuta's 1352 route: Sijilmasa, then 25 days to Taghaza, about ten days of rest, two months in all to Walata, 51 days there, and 24 more to Niani. A messenger sent ahead from the caravan was paid 100 mithqal. {{gha4-trade}} [PROBABLE]"
+     "x": "D. T. Niane's chapter on exchanges between regions calls 1100 to 1500 the golden age of trans-Saharan trade and says the Sahara was never a barrier. {{gha4-trade}} Ibn Battuta's own account gives his 1352 route: Sijilmasa, then 25 days to Taghaza, about ten days of rest, two months in all to Walata, about fifty days there, and 24 more to Niani. A messenger sent ahead from the caravan was paid 100 mithqal. {{ibn-battuta-gibb-029}} [PROBABLE]"
     },
     {
      "t": "p",
@@ -788,7 +792,7 @@
     },
     {
      "t": "p",
-     "x": "Between 1760 and 1798 he describes Ali Bey (to 1772), Muhammad Bey Abu al-Dhahab (to 1775), and then Murad and Ibrahim Bey ruling in practice while the Porte took what money it could. The Ottoman expedition of Hasan Pasha (1786 to 1787) failed to break them, and the French landing of 1798 ended the period. He says Cairo grew to 300,000 people, above its earlier peak of 250,000. {{gha5-egypt}} [PROBABLE]"
+     "x": "Between 1760 and 1798 he describes Ali Bey (to 1772), Muhammad Bey Abu al-Dhahab (to 1775), and then Murad and Ibrahim Bey ruling in practice while the Porte took what money it could. The Ottoman expedition of Hasan Pasha (1786 to 1787) failed to break them, and the French landing of 1798 ended the period. He says Cairo grew in this period. {{gha5-egypt}} [PROBABLE]"
     },
     {
      "t": "p",
@@ -824,7 +828,7 @@
     },
     {
      "t": "p",
-     "x": "Mohammed El Fasi says the Sa'did dynasty began in 1511 with sharifs from the Dar'a who fought the Portuguese. Muhammad al-Shaykh took Agadir after the Portuguese held the export monopoly on Sus sugar, and the Portuguese then left Safi and Azemmur in 1542. He entered Fez on 13/09/1554 and was killed in 1557 by a guard in Ottoman pay, and Morocco stayed outside Ottoman rule. {{gha5-morocco}} [PROBABLE]"
+     "x": "Mohammed El Fasi says the Sa'did dynasty began in 1511 with sharifs from the Dar'a who fought the Portuguese. Muhammad al-Shaykh took Agadir after the Portuguese held the export monopoly on Sus sugar, and the Portuguese then left Safi and Azemmur in 1542. He entered Fez and was killed in 1557 by a guard in Ottoman pay, and Morocco stayed outside Ottoman rule. {{gha5-morocco}} [PROBABLE]"
     },
     {
      "t": "p",
@@ -849,7 +853,7 @@
     },
     {
      "t": "p",
-     "x": "They also say the Maghrib states earned about 10 per cent customs on European imports, that Tunis's customs house yielded 150,000 dinars a year in the fifteenth century, and that Christian mercenaries and ship hire made the northern kings tributary partners as much as rivals. {{gha4-inter}}"
+     "x": "They also say the Maghrib states earned about 10 per cent customs on European imports, that Tunis's customs house earned a large sum each year in the fifteenth century, and that Christian mercenaries and ship hire made the northern kings tributary partners as much as rivals. {{gha4-inter}}"
     },
     {
      "t": "check",
@@ -865,15 +869,16 @@
     },
     {
      "t": "check",
-     "q": "What does the chapter say about the name al-Murabitun?",
+     "q": "A student writes that the Almoravids were 'the men of the fortress' from a ribat on Tidra island. What should you check before accepting it?",
      "o": [
-      "It certainly means people of the fortress",
-      "The fortress reading rests on one late source and is abandoned; no ribat was found on Tidra",
-      "It is a Greek word",
-      "It comes from Marrakesh"
+      "Nothing; it is certain",
+      "The fortress reading rests on one late source, and the 1966 Tidra dig found no ribat",
+      "Whether Tidra is in Egypt",
+      "Whether the name is Greek"
      ],
      "a": 1,
-     "w": "The 1966 Tidra dig found no ribat. {{gha3-alm}}"
+     "w": "The fortress reading is abandoned in the chapter. {{gha3-alm}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -901,7 +906,7 @@
     },
     {
      "t": "p",
-     "x": "Obenga gives the arrival of the horse and the camel, which matter for the Sahara network. The horse reached Egypt towards the end of the Hyksos invasion, about 1600 before our era, and passed to the Libyans about the thirteenth century before our era and to the Nubians early in the first millennium before our era. The one-humped camel appears in a Chad Sahara rock painting dated to the third century before our era, was brought into Egypt by Cambyses' men in 525 before our era, and reached the Maghrib, he says, with Roman troops of Syrian origin; the Berbers then used it to settle beyond the limes, which drove sedentary black oasis peoples south or into slavery. {{gha1-obenga}} [PROBABLE] The last claim is his inference and should be set beside the camel arguments in the supplied books [CONTESTED]."
+     "x": "Obenga gives the arrival of the horse and the camel, which matter for the Sahara network. The horse reached Egypt towards the end of the Hyksos invasion, about 1600 before our era, and passed to the Libyans about the thirteenth century before our era and to the Nubians early in the first millennium before our era. The one-humped camel appears in a Chad Sahara rock painting dated to the third century before our era, was brought into Egypt by Cambyses' men in 525 before our era, and reached the Maghrib, he says, with Roman troops of Syrian origin; the Berbers then used it to settle beyond the limes, which drove sedentary black oasis peoples south or into slavery. {{gha1-obenga}} [PROBABLE] The last claim is his inference and should be set beside the other evidence on camels in this module [CONTESTED]."
     },
     {
      "t": "h",
@@ -913,7 +918,7 @@
     },
     {
      "t": "p",
-     "x": "The classical authors probably did not go past Cape Juby. Roman expeditions beyond the frontier (Balbus in 19 before our era, Flaccus in 70 and Maternus in 86 of our era) informed Ptolemy's map of 'Inner Libya', but the texts give an image of Africa more than data on the western Sudan. For the Arabic period, Khalifa b. Khayyat is the oldest annalist, Ibn 'Abd al-Hakam's Futuh Misr wa l-Maghrib is a legal collection that includes the Baqt treaty with Nubia, and Kindi's Wulat Misr (d. 961) is a sound source for the eighth-century Maghrib. 'Umar b. Shabba records a revolt of Sudan at Medina in 145 AH (762 of our era), an early sign of Africans in Arabia. {{gha1-djait}} [PROBABLE]"
+     "x": "The classical authors probably did not go past Cape Juby. Roman expeditions beyond the frontier (Balbus in 19 before our era, Flaccus in 70 and Maternus in 86 of our era) informed Ptolemy's map of 'Inner Libya', but the texts give an image of Africa more than data on the western Sudan. For the Arabic period, Khalifa b. Khayyat is the oldest annalist, Ibn 'Abd al-Hakam's Futuh Misr wa l-Maghrib is a legal collection that includes the Baqt treaty with Nubia, and Kindi's Wulat Misr (d. 961) is a sound source for the eighth-century Maghrib. 'Umar b. Shabba records a revolt of Sudan at Medina in 145 AH, an early sign of Africans in Arabia. {{gha1-djait}} [PROBABLE]"
     },
     {
      "t": "p",
@@ -1010,7 +1015,7 @@
      "t": "ol",
      "i": [
       "Name the group. The Almoravids were a Sanhaja Berber movement led by Abd Allah ibn Yasin and Yusuf ibn Tashfin. {{lib}}",
-      "Name what united it. The library describes a preacher and commanders; asabiya is our lens, not a claim of the library. {{wiki-khaldun}}",
+      "Name what united it. The sources describe a preacher and his commanders; asabiya is a lens you bring to them, not something they state. {{wiki-khaldun}}",
       "Name the successor. The Almohads were led by Ibn Tumart and Abd al-Mu'min, who took Marrakesh in 1147. {{lib}}",
       "Ask what happened next. For the Ghana story, remember that the traditional account of an Almoravid conquest rests on thin and late sources. {{lib}}",
       "Keep the historian's career in view. His own record as an official shows how political posts shaped writing. {{wiki-khaldun}}"
@@ -1018,7 +1023,7 @@
     },
     {
      "t": "table",
-     "title": "Lens and limit for Maghribi dynasties (our application)",
+     "title": "Lens and limit for Maghribi dynasties",
      "head": [
       "Dynasty",
       "What the lens helps ask",
@@ -1040,7 +1045,7 @@
     },
     {
      "t": "h",
-     "x": "Worked example: two limits (our application)"
+     "x": "Worked example: two limits"
     },
     {
      "t": "example",

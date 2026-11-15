@@ -22,7 +22,7 @@
      "t": "fig",
      "id": "africa-post-colonial-tl2",
      "title": "Resistance cases on one line",
-     "cap": "Spans from the working library."
+     "cap": "Approximate spans."
     },
     {
      "t": "h",
@@ -54,7 +54,7 @@
     },
     {
      "t": "p",
-     "x": "Africans also rose under the cover of churches. John Chilembwe led an armed rising in Nyasaland in 1915. Rodney dates it 1917, which is an error; use 1915 and cite Rodney only for his point that independent African churches were a vehicle of protest [check]. {{rod-colonial}}"
+     "x": "Africans also rose under the cover of churches. John Chilembwe led an armed rising in Nyasaland in 01/1915. {{gha-vii-ch12}} Rodney dates it 1917, which is an error (our check against Crowder's chapter); cite Rodney only for his point that independent African churches were a vehicle of protest. {{rod-colonial}}"
     },
     {
      "t": "table",
@@ -97,7 +97,7 @@
     },
     {
      "t": "p",
-     "x": "Volume VIII shows how those readings worked. Citing Ranger, it says TANU's activists saw themselves as heirs of Maji Maji, and Nyerere said the nation was built on its ashes. Zimbabwean nationalists likewise revived the Chimurenga of 1896 to 1897. The chapter itself dates Maji Maji to 1904 to 1906 in one place and 1905 to 1907 in another, and this course uses 1905 to 1907. {{gha-viii}}"
+     "x": "Volume VIII shows how those readings worked. Citing Ranger, it says TANU's activists saw themselves as heirs of Maji Maji, and Nyerere said the nation was built on its ashes. Zimbabwean nationalists likewise revived the Chimurenga of 1896 to 1897. The chapter itself dates Maji Maji to 1904 to 1906 in one place and 1905 to 1907 in another, and this course uses 1905 to 1907. {{gha-viii-ch16}}"
     },
     {
      "t": "p",
@@ -105,7 +105,7 @@
     },
     {
      "t": "p",
-     "x": "Volume VII itself is a good source on how historians argue about resistance. Ranger notes that stateless societies often resisted longer than states, whose rulers sometimes lacked legitimacy, and that some risings were aimed at African authoritarianism as well as at colonial rule. He admits that his own account of the 1896 Shona spirit mediums is disputed by Cobbing and Beach. The East Africa chapter rejects a split into heroes and traitors, and describes leaders who changed tactics over time. It gives no Maji Maji toll; it says Maji Maji began among the Matumbi in 1905 with a prophetic message and populist Islam. {{gha-vii}}"
+     "x": "Volume VII itself is a good source on how historians argue about resistance. Ranger notes that stateless societies often resisted longer than states, whose rulers sometimes lacked legitimacy, and that some risings were aimed at African authoritarianism as well as at colonial rule. He admits that his own account of the 1896 Shona spirit mediums is disputed by Cobbing and Beach. The East Africa chapter rejects a split into heroes and traitors, and describes leaders who changed tactics over time. It gives no Maji Maji toll; it says Maji Maji began among the Matumbi in 1905 with a prophetic message and populist Islam. {{gha-vii-ch03}}"
     },
     {
      "t": "p",
@@ -127,15 +127,15 @@
     },
     {
      "t": "p",
-     "x": "Volume VII places Maji Maji in a wider pattern. It names the communal cotton scheme (28 days of labour a year) as a cause, and lists the Mumbo cult of 1913, the Giriama revolt of 1914, the Acholi rising of 1911, the seizure of Maasai land in 1904 and 1911, and a Kamba prophecy of 1922 that arose when taxes had risen from three to eight rupees. Mumbo is dated to 1913 (revealed to Onyango Dunde, with about 150 Abagusii killed in 1914) in two chapters, but Opoku dates the Gusii Mumbo revolt to 1900. [CONTESTED] The 1913 date is better supported. {{gha-vii}}"
+     "x": "Volume VII places Maji Maji in a wider pattern. It names the communal cotton scheme (28 days of labour a year) as a cause, and lists the Mumbo cult of 1913, the Giriama revolt of 1914, the Acholi rising of 1911, the seizure of Maasai land in 1904 and 1911, and a Kamba prophecy of 1922 that arose when taxes had risen from three to eight rupees. Mumbo is dated to 1913 (revealed to Onyango Dunde, with about 150 Abagusii killed in 1914) in two chapters, but Opoku dates the Gusii Mumbo revolt to 1900. [CONTESTED] The 1913 date is better supported. {{gha-vii-ch26}}"
     },
     {
      "t": "p",
-     "x": "Caldwell warns that population estimates before 1935 rest on little evidence: one writer reused a seventeenth-century guess of 100 million, and Durand's range for 1850 (81 to 145 million) carries about 30 per cent error. He says scorched-earth tactics in Maji Maji (1905 to 1906) caused 'perhaps hundreds of thousands' of deaths, mostly from starvation, with up to half a million quoted. Treat that as an [ESTIMATE, CONTESTED] and give the range, not a point. {{gha-vii}}"
+     "x": "Caldwell warns that population estimates before 1935 rest on little evidence: one writer reused a seventeenth-century guess of 100 million, and Durand's range for 1850 (81 to 145 million) carries about 30 per cent error. He says scorched-earth tactics in Maji Maji (1905 to 1906) caused 'perhaps hundreds of thousands' of deaths, mostly from starvation, with up to half a million quoted. Treat that as an [ESTIMATE, CONTESTED] and give the range, not a point. {{gha-vii-ch16}}"
     },
     {
      "t": "check",
-     "q": "What were the main causes of Maji Maji?",
+     "q": "A summary says Maji Maji was a religious uprising sparked by magic water. Which fuller set of causes should it give?",
      "o": [
       "A religious festival alone",
       "Forced cotton, a head tax, forced labour and agents' abuses",
@@ -143,11 +143,12 @@
       "A coup in Berlin"
      ],
      "a": 1,
-     "w": "The library lists these causes. {{lib}}"
+     "w": "The library lists these causes. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why is the toll range so wide (75,000 to 300,000)?",
+     "q": "You must quote a single death toll for Maji Maji in a talk. Why is the range so wide (75,000 to 300,000), and how should you present it?",
      "o": [
       "Fighting was constant",
       "Most deaths were from hunger and disease, which nobody counted well",
@@ -155,7 +156,8 @@
       "It is a myth"
      ],
      "a": 1,
-     "w": "Deaths were mostly civilians through hunger [ESTIMATE]. {{lib}}"
+     "w": "Deaths were mostly civilians through hunger [ESTIMATE]. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -206,7 +208,7 @@
     },
     {
      "t": "p",
-     "x": "UNESCO's volume VII (1985) says the Herero rose in 01/1904 and killed 100 Germans, and that 75 to 80 per cent of an estimated 60,000 to 80,000 Herero were killed, with 14,000 put in camps and 2,000 fleeing to South Africa. That is a range without a method and gives no Nama toll, so the Nama half of the case still needs a different source. {{gha-vii}}"
+     "x": "UNESCO's volume VII (1985) says the Herero rose in 01/1904 and killed 100 Germans, and that 75 to 80 per cent of an estimated 60,000 to 80,000 Herero were killed, with 14,000 put in camps and 2,000 fleeing to South Africa. That is a range without a method and gives no Nama toll, so the Nama half of the case still needs a different source. {{gha-vii-ch10}}"
     },
     {
      "t": "callout",
@@ -228,7 +230,7 @@
      "rows": [
       [
        "About 80 per cent of the Herero (some 65,000 of about 80,000) and about half the Nama",
-       "The working library [ESTIMATE]",
+       "Several secondary estimates [ESTIMATE]",
        "Pre-war populations are uncertain"
       ],
       [
@@ -276,7 +278,7 @@
     },
     {
      "t": "check",
-     "q": "Why do many Ovaherero and Nama reject the 2021 Joint Declaration?",
+     "q": "A news piece says the 2021 Germany-Namibia declaration settled the Herero and Nama case. Why do many Ovaherero and Nama reject it?",
      "o": [
       "It was too long",
       "Their representatives were not full parties and it avoids the word reparations",
@@ -284,11 +286,12 @@
       "It was signed in secret"
      ],
      "a": 1,
-     "w": "The library gives both reasons. {{lib}}"
+     "w": "Both reasons apply. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Name one fact that supports calling the events genocide.",
+     "q": "You are asked to defend calling the events in German South West Africa a genocide. Which fact gives the strongest support?",
      "o": [
       "Trotha's extermination order of 02/10/1904",
       "The weather in 1904",
@@ -296,7 +299,8 @@
       "A railway timetable"
      ],
      "a": 0,
-     "w": "The order, the Omaheke, the camps and the 1985 UN report are all cited. {{lib}}"
+     "w": "The order, the Omaheke, the camps and the 1985 UN report are all cited. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -435,7 +439,7 @@
     },
     {
      "t": "p",
-     "x": "UNESCO's volume VIII (Twaddle) adds a historian's view of what Mau Mau was. It calls it several things at once: a squatters' revolt, resistance to enforced farming rules, a cultural revival, an internal war among Kikuyu and an anti-colonial rising. It says the Kenya African Union leaders were not the organisers, that Kenyatta had been repudiated by the oath-takers, and that fewer European civilians died in the rising than in Nairobi traffic accidents in those years, which agrees with the settler count above. It adds that most African deaths followed the British counter-insurgency campaign, and that the British probably overestimated the military threat. {{gha-viii}}"
+     "x": "UNESCO's volume VIII (Twaddle) adds a historian's view of what Mau Mau was. It calls it several things at once: a squatters' revolt, resistance to enforced farming rules, a cultural revival, an internal war among Kikuyu and an anti-colonial rising. It says the Kenya African Union leaders were not the organisers, that Kenyatta had been repudiated by the oath-takers, and that fewer European civilians died in the rising than in Nairobi traffic accidents in those years, which agrees with the settler count above. It adds that most African deaths followed the British counter-insurgency campaign, and that the British probably overestimated the military threat. {{gha-viii-ch05}}"
     },
     {
      "t": "p",
@@ -482,15 +486,15 @@
     },
     {
      "t": "p",
-     "x": "Atieno-Odhiambo traces the grievance back to the Kikuyu Central Association (from 1924). Kenyatta was its general secretary from 1928 and edited Mwigwithania. The association gave evidence to the Hilton Young Commission in 1928 and the Kenya Land Commission in 1932 to 1933, and in 1925 petitioned against the 1915 Crown Lands Ordinance and for Thuku's release. He says the unmet land grievance led to the Mau Mau war two decades later. Boahen's final chapter also calls land alienation the fundamental cause, but his land percentages are unreliable (see Module 1). {{gha-vii}}"
+     "x": "Atieno-Odhiambo traces the grievance back to the Kikuyu Central Association (from 1924). Kenyatta was its general secretary from 1928 and edited Mwigwithania. The association gave evidence to the Hilton Young Commission in 1928 and the Kenya Land Commission in 1932 to 1933, and in 1925 petitioned against the 1915 Crown Lands Ordinance and for Thuku's release. He says the unmet land grievance led to the Mau Mau war two decades later. Boahen's final chapter also calls land alienation the fundamental cause, but his land percentages are unreliable (see Module 1). {{gha-vii-ch27}}"
     },
     {
      "t": "p",
-     "x": "The Young Kavirondo Association (Lundha meeting, 23/12/1921) was turned into the Kavirondo Taxpayers Welfare Association by Archdeacon Owen in 1923. Kenya's female-initiation controversy (missions banned it in 1920 to 1921, with independent schools from 1923 and the muthirigu song in 1929) fused with the land grievance. {{gha-vii}}"
+     "x": "The Young Kavirondo Association (Lundha meeting, 23/12/1921) was turned into the Kavirondo Taxpayers Welfare Association by Archdeacon Owen in 1923. Kenya's female-initiation controversy (missions banned it in 1920 to 1921, with independent schools from 1923 and the muthirigu song in 1929) fused with the land grievance. {{gha-vii-ch26}}"
     },
     {
      "t": "check",
-     "q": "Which Mau Mau toll counts only insurgents killed in action?",
+     "q": "Two articles give Mau Mau tolls of 11,000 and 100,000, and each accuses the other of error. What should you check first?",
      "o": [
       "Anderson's 20,000",
       "The British figure of about 11,000",
@@ -498,7 +502,8 @@
       "The Hola figure of 11"
      ],
      "a": 1,
-     "w": "The British count covers a narrow category. {{lib}}"
+     "w": "The British count covers a narrow category. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -622,31 +627,31 @@
     },
     {
      "t": "p",
-     "x": "The three cases in this module are a small part of a larger record. Volume VII adds the following. {{gha-vii}}"
+     "x": "The three cases in this module are a small part of a larger record. Volume VII adds the following."
     },
     {
      "t": "p",
-     "x": "North and East. In Italian Libya, Cyrenaica resisted under Umar al-Mukhtar until his execution on 16/09/1931. The Italians fenced the border and emptied the countryside into camps; reported deaths run above a hundred thousand, and on Italian figures 30,000 of 80,000 people died in al-Brayqa in 1930 to 1932 [ESTIMATE, CONTESTED]. Badoglio declared the conquest complete on 24/01/1932. The Somali jihad of Sayyid Muhammad Abdule Hasan (1899 to 1920) occupied Burao in 1899, faced British expeditions in 1900 to 1904, made the Treaty of Illig in 1905, destroyed the camel constabulary in 08/1913 and ended with his death in 11/1920. The Rif republic was proclaimed in 01/1923 or 02/1923 (sources give both), and Abdel Karim surrendered on 26/05/1926. {{gha-vii}}"
+     "x": "North and East. In Italian Libya, Cyrenaica resisted under Umar al-Mukhtar until his execution on 16/09/1931. The Italians fenced the border and emptied the countryside into camps; reported deaths run above a hundred thousand, and on Italian figures 30,000 of 80,000 people died in al-Brayqa in 1930 to 1932 [ESTIMATE, CONTESTED]. Badoglio declared the conquest complete on 24/01/1932. The Somali jihad of Sayyid Muhammad Abdule Hasan (1899 to 1920) occupied Burao in 1899, faced British expeditions in 1900 to 1904, made the Treaty of Illig in 1905, destroyed the camel constabulary in 08/1913 and ended with his death in 11/1920. The Rif republic was proclaimed in 1923, and its resistance ended in 1926. {{gha-vii-ch05}}"
     },
     {
      "t": "p",
-     "x": "West and Central Africa. The Baule resisted the French (Kouame Die was shot in 02/1902; Clozel halted operations in 11/1902). Mamadou Lamine rose in 1885 to 1887 against forced labour on the Kayes to Niger railway, and the 1898 Hut Tax rebellion in Sierra Leone answered a tax of 5 or 10 shillings. Central African fighters made powder and copied rifles (the Barue), Humbe and Cuamato killed 300 of 500 invaders in 1904, and the Chokwe fought the Force Publique for twenty years. Tax flight was also resistance: 50,000 people left the Zambezi valley for Rhodesia and Nyasaland in 1895 to 1907, and Mapondera led a 'social bandit' campaign in 1892 to 1903. The Pende rising in the Kwilu (1931) left over 400 dead. Kimbangu was arrested on 14/09/1921, and Tomo Nyirenda's Kitawala followers were executed after 1926. More than 100,000 northern Mozambicans had fled to Nyasaland by 1919. {{gha-vii}}"
+     "x": "West and Central Africa. The Baule resisted the French (Kouame Die was shot in 02/1902; Clozel halted operations in 11/1902). Mamadou Lamine rose in 1885 to 1887 against forced labour on the Kayes to Niger railway, and the 1898 Hut Tax rebellion in Sierra Leone answered a tax of 5 or 10 shillings. Central African fighters made powder and copied rifles (the Barue), Humbe and Cuamato killed 300 of 500 invaders in 1904, and the Chokwe fought the Force Publique for twenty years. Tax flight was also resistance: 50,000 people left the Zambezi valley for Rhodesia and Nyasaland in 1895 to 1907, and Mapondera led a 'social bandit' campaign in 1892 to 1903. The Pende rising in the Kwilu (1931) left over 400 dead. Kimbangu was arrested on 14/09/1921, and Tomo Nyirenda's Kitawala followers were executed after 1926. More than 100,000 northern Mozambicans had fled to Nyasaland by 1919. {{gha-vii-resist}}"
     },
     {
      "t": "p",
-     "x": "Southern Africa. Chanaiwa sets out three models: confrontation (Zulu, Ndebele), wardship (Sotho, Swazi, Tswana, Lozi) and alliance by small tributaries. Isandhlwana fell on 22/01/1879, with 1,600 invaders killed, and Zululand was split into thirteen chiefdoms. The Rudd Concession carried unwritten verbal terms, Mashonaland was occupied on 12/09/1890, and in 1893 280,000 Ndebele cattle were seized. Khama, Sebele and Bathoen travelled to London in 1895 and kept protectorate status instead of absorption by Rhodes's Company, while Swaziland, with 364 concessions by 1890, passed to a British protectorate in 1903. {{gha-vii}}"
+     "x": "Southern Africa. Chanaiwa sets out three models: confrontation (Zulu, Ndebele), wardship (Sotho, Swazi, Tswana, Lozi) and alliance by small tributaries. Isandhlwana fell on 22/01/1879, with 1,600 invaders killed, and Zululand was split into thirteen chiefdoms. The Rudd Concession carried unwritten verbal terms, Mashonaland was occupied on 12/09/1890, and in 1893 280,000 Ndebele cattle were seized. Khama, Sebele and Bathoen travelled to London in 1895 and kept protectorate status instead of absorption by Rhodes's Company, while Swaziland, with 364 concessions by 1890, passed to a British protectorate in 1903. {{gha-vii-ch09}}"
     },
     {
      "t": "p",
-     "x": "Madagascar. France fought two wars (1883 to 1885, 1894 to 1895), and the treaty of 17/12/1885 was read differently by each side. Antananarivo fell on 30/09/1895, the Menalamba rising followed from 11/1895, and Galliani abolished the monarchy on 28/02/1897, extending fifty days of unpaid labour to all men aged 16 to 60. {{gha-vii}}"
+     "x": "Madagascar. France fought two wars (1883 to 1885, 1894 to 1895), and the treaty of 17/12/1885 was read differently by each side. Antananarivo fell on 30/09/1895, the Menalamba rising followed from 11/1895, and Galliani abolished the monarchy on 28/02/1897, extending fifty days of unpaid labour to all men aged 16 to 60. {{gha-vii-ch10}}"
     },
     {
      "t": "p",
-     "x": "Religion. Maji Maji and the Nyabingi cult (a revolt in Kigezi in 1928, suppressed in 1934) crossed ethnic lines. Separatist churches grew from 76 in 1918 to 320 in 1932 in South Africa alone. The Muslim share of Sierra Leone rose from 10 per cent (1891) to 26.2 per cent (1931), and the Sanusiyya led Libyan resistance in 1911 to 1932. Opoku concludes that colonial rule confirmed religious pluralism rather than destroying African religion; the Musama Disco Christo Church (founded 1919 to 1922) is his example of African Christianity on Akan lines. {{gha-vii}}"
+     "x": "Religion. Maji Maji and the Nyabingi cult (a revolt in Kigezi in 1928, suppressed in 1934) crossed ethnic lines. The Muslim share of Sierra Leone rose from 10 per cent (1891) to 26.2 per cent (1931), and the Sanusiyya led Libyan resistance in 1911 to 1932. Opoku concludes that colonial rule confirmed religious pluralism rather than destroying African religion; the Musama Disco Christo Church (founded 1919 to 1922) is his example of African Christianity on Akan lines. {{gha-vii-ch20}} In Mozambique alone, separatist churches grew from 76 in 1918 to more than 380 twenty years later. {{gha-vii-ch27}}"
     },
     {
      "t": "p",
-     "x": "The First World War. Crowder gives over a million African soldiers, over 2.5 million people in war work and over 150,000 soldier and carrier deaths, with at least 45,000 carrier deaths in East Africa. These are his estimates [ESTIMATE, CONTESTED], and other sources give different totals; the course's own figure for the French army (450,000 sent to Europe) is lower than his 483,000. Diagne's 1918 drive recruited 63,378 against a target of 40,000. The war set off risings (Borgu 1916), protest migration that cost French West Africa about 62,000 people, Sanusi attacks on Egypt (11/1915) and Niger (12/1916), and the Chilembwe rising (01/1915), triggered by Nyasa casualties. Caldwell adds that the influenza of 1918 to 1919 was the highest annual death rate of the century, and that the Rand mines' tropical-African death rate was 71 per thousand in 1907 (130 in 1905). His own population guesses are about 120 million for Africa in 1880 and 165 million in 1935 [ESTIMATE]. {{gha-vii}}"
+     "x": "The First World War. Crowder gives over a million African soldiers, over 2.5 million people in war work and over 150,000 soldier and carrier deaths, with at least 45,000 carrier deaths in East Africa. These are his estimates [ESTIMATE, CONTESTED], and other sources give different totals. Diagne's 1918 drive recruited 63,378 against a target of 40,000. The war set off risings (Borgu 1916), protest migration that cost French West Africa about 62,000 people, Sanusi attacks on Egypt (11/1915) and Niger (12/1916), and the Chilembwe rising (01/1915), triggered by Nyasa casualties. {{gha-vii-ch12}} Caldwell adds that the influenza of 1918 to 1919 was the highest annual death rate of the century, and that the Rand mines' tropical-African death rate was 71 per thousand in 1907 (130 in 1905). His own population guesses are about 120 million for Africa in 1880 and 165 million in 1935 [ESTIMATE]. {{gha-vii-ch18}}"
     },
     {
      "t": "check",
@@ -658,7 +663,7 @@
       "Records were perfect"
      ],
      "a": 1,
-     "w": "The library says this about all three. {{lib}}"
+     "w": "This holds for all three. {{lib}}"
     },
     {
      "t": "check",
@@ -693,7 +698,7 @@
     },
     {
      "t": "p",
-     "x": "We read an encyclopaedic page in excerpt form on 30/10/2026, not his own work. Wikipedia reports that in February 1988 he lectured publicly on Ghana's history from 1972 to 1987, an act credited with breaking a culture of silence. It also says he spoke against Marxist history early in his career. {{wiki-boahen}}"
+     "x": "Source note: this rests on an encyclopaedic summary, not his own work. Wikipedia reports that in February 1988 he lectured publicly on Ghana's history from 1972 to 1987, an act credited with breaking a culture of silence. It also says he spoke against Marxist history early in his career. {{wiki-boahen}}"
     },
     {
      "t": "p",
@@ -771,7 +776,7 @@
     },
     {
      "t": "check",
-     "q": "Why keep African and colonial records separate in your notes?",
+     "q": "You are taking notes on Maji Maji from a German officer's report and from oral testimony collected later. Why keep them separate?",
      "o": [
       "They answer different questions",
       "They always agree",
@@ -779,7 +784,8 @@
       "They are the same"
      ],
      "a": 0,
-     "w": "Each has its own limits. {{lib}}"
+     "w": "Each has its own limits. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",

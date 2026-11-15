@@ -206,7 +206,7 @@
     },
     {
      "t": "check",
-     "q": "When can a river crossing that was easy in the morning become impassable?",
+     "q": "You crossed a stream knee-deep at 9 a.m. after heavy overnight rain. You plan to return the same way at 5 p.m. What should you expect?",
      "o": [
       "Never",
       "When streams and rivers rise through the day",
@@ -214,7 +214,8 @@
       "Only on mountains"
      ],
      "a": 1,
-     "w": "The Met Office warns streams can rise through the day. {{met-mtn}}"
+     "w": "The Met Office warns streams can rise through the day. {{met-mtn}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -305,7 +306,8 @@
       "Midges"
      ],
      "a": 1,
-     "w": "Symptoms after using a stove in an enclosed space point to carbon monoxide. {{bmc}} {{nid-co}}"
+     "w": "Symptoms after using a stove in an enclosed space point to carbon monoxide. {{bmc}} {{nid-co}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -317,7 +319,8 @@
       "Give a drink of alcohol"
      ],
      "a": 1,
-     "w": "NHS: shelter, wrap, call 999; do not rub limbs or give alcohol. {{nhs-hypo}}"
+     "w": "NHS: shelter, wrap, call 999; do not rub limbs or give alcohol. {{nhs-hypo}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -399,7 +402,7 @@
     },
     {
      "t": "check",
-     "q": "In the hills, who do you ask for on 999?",
+     "q": "Your friend has a broken ankle on the hill and you dial 999. Which service do you ask for?",
      "o": [
       "Fire",
       "Ambulance only",
@@ -407,7 +410,8 @@
       "Coastguard"
      ],
      "a": 2,
-     "w": "Mountain Rescue England and Wales say to ask for Police then Mountain Rescue. {{mrew}}"
+     "w": "Mountain Rescue England and Wales say to ask for Police then Mountain Rescue. {{mrew}}",
+     "kind": "application"
     },
     {
      "t": "check",

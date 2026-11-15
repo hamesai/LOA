@@ -121,7 +121,7 @@
     },
     {
      "t": "check",
-     "q": "What does succession planting mean?",
+     "q": "You sow one big row of lettuce in April and get a glut in June, then nothing. Which practice would fix that?",
      "o": [
       "Sowing a crop once in spring",
       "Sowing vegetables more than once, at intervals",
@@ -129,7 +129,8 @@
       "Replacing a crop that has failed"
      ],
      "a": 1,
-     "w": "Coleman: sowings at one- to three-week intervals extend the fresh harvest of summer crops as long as possible."
+     "w": "Coleman: sowings at one- to three-week intervals extend the fresh harvest of summer crops as long as possible.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -249,11 +250,12 @@
       "3 April"
      ],
      "a": 1,
-     "w": "7 weeks is 49 days. 15 May minus 49 days is 27 March."
+     "w": "7 weeks is 49 days. 15 May minus 49 days is 27 March.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why do UAF, UMD and NRCS give different weeks for the same crop?",
+     "q": "Three extension sheets give three different tray times for tomatoes. Why, and what should you do about it?",
      "o": [
       "Some are wrong",
       "Varieties, light, temperature and the target plant size differ",
@@ -261,7 +263,8 @@
       "Only one is peer reviewed"
      ],
      "a": 1,
-     "w": "Treat the overlap as a working range and record your own result."
+     "w": "Treat the overlap as a working range and record your own result.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -366,11 +369,12 @@
       "29 March"
      ],
      "a": 1,
-     "w": "1 March plus 21 days is 22 March."
+     "w": "1 March plus 21 days is 22 March.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which pairing describes interval planting?",
+     "q": "You sow radishes on 1 April, 22 April and 13 May. Which practice is that?",
      "o": [
       "Sowing varieties with different maturity dates together",
       "Sowing the same crop again every few weeks",
@@ -378,7 +382,8 @@
       "Covering plants with fleece"
      ],
      "a": 1,
-     "w": "Interval planting is repeat sowing; variety planting uses different maturity speeds."
+     "w": "Interval planting is repeat sowing; variety planting uses different maturity speeds.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -558,7 +563,7 @@
     },
     {
      "t": "check",
-     "q": "Why does the UC table need adjusting for your own garden?",
+     "q": "You garden in Aberdeen and are using the University of California planting table. Why must you adjust its dates?",
      "o": [
       "The crops are different",
       "It was written for a mild-winter climate, and colder or darker places need earlier dates",
@@ -566,7 +571,8 @@
       "Frost dates never change"
      ],
      "a": 1,
-     "w": "The table reflects a mild foothill climate in California."
+     "w": "The table reflects a mild foothill climate in California.",
+     "kind": "application"
     },
     {
      "t": "take",

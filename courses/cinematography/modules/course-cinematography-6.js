@@ -140,7 +140,8 @@
       "None"
      ],
      "a": 0,
-     "w": "18 frames at 18 fps is one second. {{unesco-super8}}"
+     "w": "18 frames at 18 fps is one second. {{unesco-super8}}",
+     "kind": "application"
     },
     {
      "t": "callout",
@@ -222,7 +223,8 @@
       "11 min"
      ],
      "a": 2,
-     "w": "3600 frames ÷ 18 fps = 200 seconds. {{wiki-super8}}"
+     "w": "3600 frames ÷ 18 fps = 200 seconds. {{wiki-super8}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -415,7 +417,8 @@
       "64"
      ],
      "a": 1,
-     "w": "Kodak gives 320 for daylight with an 85 filter. {{kodak-500t}}"
+     "w": "Kodak gives 320 for daylight with an 85 filter. {{kodak-500t}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -427,7 +430,8 @@
       "About four"
      ],
      "a": 2,
-     "w": "250 down to 64 is a factor of 3.9, about two stops. {{kodak-250d}}"
+     "w": "250 down to 64 is a factor of 3.9, about two stops. {{kodak-250d}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -545,7 +549,7 @@
     },
     {
      "t": "check",
-     "q": "Why bracket exposures on a test?",
+     "q": "You are shooting film for the first time with a borrowed camera and a new lab. Why bracket a test roll first?",
      "o": [
       "Because film is cheap",
       "You cannot see the result on set, so you learn how your gear and lab behave",
@@ -553,7 +557,8 @@
       "It is required by the lab"
      ],
      "a": 1,
-     "w": "Film is developed later, so a test is the only way to check your whole chain in advance (our reasoning)."
+     "w": "Film is developed later, so a test is the only way to check your whole chain in advance (our reasoning).",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -783,7 +788,7 @@
      "steps": [
       "A Bolex H16 has a 135° shutter, which is 1/64 s at 24 fps (our arithmetic). {{fh-ch6}}",
       "Its manual suggests metering with an effective shutter speed of 1/80 s to allow for the light that the prism diverts to the finder. {{fh-ch6}}",
-      "The ratio is 80 ÷ 64 = 1.25, and log base 2 of 1.25 is about 0.32, so roughly a third of a stop. That sits inside the handbook's range of a third to a full stop for beam-splitter reflexes. {{fh-ch6}}"
+      "The ratio is 80 ÷ 64 = 1.25, and log base 2 of 1.25 is about 0.32, so roughly a third of a stop (our arithmetic). That sits inside the handbook's range of a third to a full stop for beam-splitter reflexes. {{fh-ch6}}"
      ]
     },
     {
@@ -832,7 +837,8 @@
       "1/25 s"
      ],
      "a": 0,
-     "w": "135° ÷ 360° is 0.375, and 0.375 ÷ 24 is 1/64 s. {{fh-ch6}}"
+     "w": "135° ÷ 360° is 0.375, and 0.375 ÷ 24 is 1/64 s (our arithmetic). {{fh-ch6}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -936,7 +942,7 @@
     },
     {
      "t": "check",
-     "q": "Which change raises contrast and grain but does little for shadow detail?",
+     "q": "You underexposed a roll by a stop and ask the lab to push it. What will that do, and what will it not do?",
      "o": [
       "Pull one stop",
       "Push one stop",
@@ -944,7 +950,8 @@
       "Using slower film"
      ],
      "a": 1,
-     "w": "Pushing makes brighter tones respond more than the toe. {{fh-ch7}}"
+     "w": "Pushing makes brighter tones respond more than the toe. {{fh-ch7}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -956,7 +963,8 @@
       "800"
      ],
      "a": 2,
-     "w": "Two stops multiplies the speed by four (our arithmetic). {{fh-ch7}}"
+     "w": "Two stops multiplies the speed by four (our arithmetic). {{fh-ch7}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -1055,7 +1063,8 @@
       "Overexposes by two stops"
      ],
      "a": 0,
-     "w": "A reflected meter pushes whatever it reads toward middle grey, so pale subjects come out too dark. {{fh-ch7}}"
+     "w": "A reflected meter pushes whatever it reads toward middle grey, so pale subjects come out too dark. {{fh-ch7}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1067,7 +1076,8 @@
       "f/4"
      ],
      "a": 1,
-     "w": "f/2 to f/16 is six stops; halfway is three stops from f/2, which is f/5.6 (our arithmetic). {{fh-ch7}}"
+     "w": "f/2 to f/16 is six stops; halfway is three stops from f/2, which is f/5.6 (our arithmetic). {{fh-ch7}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -1168,7 +1178,8 @@
       "1/120 s"
      ],
      "a": 0,
-     "w": "(360 ÷ 120) × 360 = 1,080. {{brown-special}}"
+     "w": "(360 ÷ 120) × 360 = 1,080. {{brown-special}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1180,7 +1191,8 @@
       "f/5.6"
      ],
      "a": 0,
-     "w": "Two equal sources double the light, which is one stop. {{brown-special}}"
+     "w": "Two equal sources double the light, which is one stop. {{brown-special}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -1448,7 +1460,8 @@
       "£1.70"
      ],
      "a": 1,
-     "w": "60 ÷ 3,600 is about £0.0167."
+     "w": "60 ÷ 3,600 is about £0.0167.",
+     "kind": "application"
     },
     {
      "t": "check",

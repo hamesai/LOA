@@ -9,6 +9,8 @@ Creates, next to index.html:
     course-<id>-refs.js     the sources this course cites
     course-<id>-figs.js     the diagrams this course draws
     course-<id>-<n>.js      one lesson file per module (and course-<id>-cap.js for the capstone)
+    courses/<id>/build/                  where this course's build scripts live (build.py is run by kit.py rebuild)
+    courses/<id>/meta/                   per-course about, FAQs, lecturers, notes and oversight (kit.py meta registers them)
 and registers them in index.html between the COURSES markers. Nothing else needs editing.
 Small Scale Greenhouse (pack-greenhouse-year.js, course-m1.js ...) is the finished example.
 """
@@ -88,6 +90,12 @@ def main():
 
     (D / "modules").mkdir(parents=True)
     (D / "docs").mkdir()
+    (D / "build").mkdir()
+    (D / "build" / "README.md").write_text(
+        "# Build scripts for %s\n\nKeep every script that writes this course here, never in a session scratchpad (a reboot can clear it).\n"
+        "`build.py` is the entry point: `python _template/kit.py rebuild %s` runs it, then ships. Module scripts (m1.py ...) and shared\n"
+        "helpers sit beside it. One-off fixes made with course_patch.js or pc_fixlib.py need not be kept once applied.\n" % (a.id, a.id),
+        encoding="utf-8")
     today = datetime.date.today().isoformat()
     cap = not a.no_capstone
     belts = belt_labels(n)

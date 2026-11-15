@@ -8,7 +8,8 @@ import json, re, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-STANDARD_FROM = "2026-10-15"  # courses created on or after this date must meet the lesson-length standard
+STANDARD_FROM = "2026-10-15"
+# The application standard (practice_audit.py) is hard for every course since 15/11/2026, when the last courses were converted.  # courses created on or after this date must meet the lesson-length standard
 COURSES = ROOT / "courses"
 Q = "[\"']?"   # JSON-style files quote their keys, hand-written ones may not
 
@@ -91,7 +92,7 @@ def main():
     dated, stale = {}, []
     for line in refs_text.splitlines():
         mm = re.match(r'\s*"([a-z0-9-]+)"\s*:\s*\{', line)
-        dm = re.search(r'\bd:\s*"(\d\d)/(\d\d)/(\d{4})"', line)
+        dm = re.search(r'"?\bd"?:\s*"(\d\d)/(\d\d)/(\d{4})"', line)
         if mm and dm and mm.group(1) in cited:
             when = datetime.date(int(dm.group(3)), int(dm.group(2)), int(dm.group(1)))
             dated[mm.group(1)] = when
@@ -99,7 +100,7 @@ def main():
                 stale.append(mm.group(1))
     own = [c for c in cited if c in defined_refs]
     if own and not dated:
-        soft.append("no cited source has a checked date (add d: \"DD/MM/YYYY\" to a ref when you last opened it; useful for law, tax and price claims)")
+        soft.append("no cited source has a checked date: python _template/stale_sources.py %s lists what to reopen, time-sensitive first (set d: \"DD/MM/YYYY\" when you have checked one)" % cid)
     for s in sorted(stale):
         soft.append("source '%s' was last checked over a year ago: reopen it and update its date" % s)
     # Books the user supplied (courses/<id>/sources/<book>/): each should be cited, and the read record should be honest.
@@ -108,7 +109,7 @@ def main():
         cited_books = set()
         for line in refs_text.splitlines():
             mm = re.match(r'\s*"([a-z0-9-]+)"\s*:\s*\{', line)
-            bm = re.search(r'\bb:\s*"([a-z0-9-]+)"', line)
+            bm = re.search(r'"?\bb"?:\s*"([a-z0-9-]+)"', line)   # refs files quote their keys ("b":) or not (b:)
             if mm and bm and mm.group(1) in cited:
                 cited_books.add(bm.group(1))
         for mf in sorted(src_dir.glob("*/manifest.json")):
@@ -164,10 +165,39 @@ def main():
             import source_verify as SV
             mods = sorted(re.search(r"-(\w+)\.js$", f2.name).group(1) for f2 in (D / "modules").glob("course-%s-*.js" % cid))
             checked, flagged = SV.check(cid, mods)
-            if flagged:
-                soft.append("%d of %d sourced sentences have a number that is not in the cited chapter (run: python _template/source_verify.py %s). First: module %s, %s, %s" % (len(flagged), checked, cid, flagged[0]["module"], flagged[0]["lesson"], ", ".join(flagged[0]["numbers"])))
+            # Since 15/11/2026 these are hard: a gate that passes while sourced figures are missing from their chapters
+            # tells learners the course is checked when it is not. Fix the sentence, or waive it after checking by hand
+            # (courses/<id>/docs/verify-waivers.json, with a reason).
+            words = {"pointer": "a chapter pointer that matches no chapter", "unread": "a citation of a section not read in full",
+                     "number": "a number not in the cited chapter", "names": "names the cited chapter does not contain"}
+            for kind in SV.KINDS:
+                fk = [x for x in flagged if x["kind"] == kind]
+                if fk:
+                    hard.append("%d sourced sentences have %s (run: python _template/source_verify.py %s --kind %s). First: module %s, %s: %s" % (
+                        len(fk), words[kind], cid, kind, fk[0]["module"], fk[0]["lesson"], ", ".join(fk[0]["items"])[:80]))
+            _, bad_w = SV.load_waivers(cid)
+            if bad_w:
+                hard.append("%d verify waivers lack a reason of 20+ characters, a kind, a key or a match: give each a reason after checking the chapter" % bad_w)
         except Exception as e:
-            soft.append("could not run the number verifier: %s" % e)
+            hard.append("could not run the source verifier: %s" % e)
+    # Author-talk in lesson text (added 15/11/2026): lessons teach; notes about how the course was built belong in the
+    # refs, the source reviews and the "How far the sources were read" panel. Injection markers are hidden by the engine.
+    META = re.compile(r"(?i)(this lesson (does not|doesn't|will not|won't) (quote|cover|repeat)|the (cited|ingested) (chapter|text|book|volume) (does not|doesn't)|ingested|working library|the library (gives|says|uses|describes|points)|\bour library|\bour wording|\bour rewrite|which I did not|\bI did not (re-?open|re-?read|re-?check|read|check)|the supplied books?|not quoted here|this course (does not|cannot) (quote|confirm))")
+    for k in keys:
+        if k in lesson_files:
+            t = read(lesson_files[k])
+            hits = sorted(set(mm.group(0) for mm in META.finditer(t)))
+            if hits:
+                hard.append("%s: author-talk in lesson text (%s). Rewrite it as teaching, or move it to the refs or a source note" % (k, "; ".join(hits[:4])))
+    # Competence (added 15/11/2026): do practice items ask learners to use the subject or only to remember it?
+    try:
+        import practice_audit as PA
+        low = [r for r in PA.audit(cid) if r["share"] < PA.STANDARD or r["ch_app"] < 1]
+        if low:
+            hard.append("%d modules have under half application items or no application challenge (run: python _template/practice_audit.py %s). First: %s, %d of %d" % (
+                len(low), cid, low[0]["module"], low[0]["app"], low[0]["n"]))
+    except Exception as e:
+        soft.append("could not run the practice audit: %s" % e)
     pt = pack_text.count("TODO")
     if pt:
         hard.append("pack-%s.js: %d TODO placeholders left" % (cid, pt))

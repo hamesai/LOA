@@ -1234,28 +1234,30 @@ ARCHIVE_ADD({
    },
    {
     "lec": 1,
-    "q": "Which idea is Ibn Khaldun known for introducing?",
+    "q": "An essay explains the Zagwe-to-Solomonic change as a new group with strong cohesion replacing a tired one. Whose idea is it borrowing, and what must it still show?",
     "o": [
-     "Asabiya, or group solidarity",
-     "Tophets",
-     "The baqt",
-     "Heterarchy"
+     "Ibn Khaldun's asabiya; evidence for that cohesion in 1270",
+     "Vansina's floating gap; nothing more",
+     "The baqt; a treaty",
+     "Heterarchy; a lack of kings"
     ],
     "a": 0,
-    "w": "It is his term for solidarity or group feeling. {{wiki-khaldun}}"
+    "w": "Asabiya is a lens: it frames the question, and evidence must answer it. {{wiki-khaldun}}",
+    "kind": "application"
    }
   ],
   "africa-pre-colonial-3": [
    {
-    "q": "When did Rome destroy Carthage?",
+    "q": "A film shows Carthage burning in 146 BCE and Roman soldiers salting its fields. Which part is firm and which is not?",
     "o": [
-     "264 BCE",
-     "146 BCE",
-     "439 CE",
-     "698 CE"
+     "Both are firm",
+     "The destruction in 146 BCE is firm; the salting has no ancient source",
+     "Both are myths",
+     "The salting is firm; the date is not"
     ],
     "a": 1,
-    "w": "The Third Punic War ended in 146 BCE [FIRM]."
+    "w": "The Third Punic War ended in 146 BCE [FIRM]; the salt story appears only in modern retellings. {{lib}}",
+    "kind": "application"
    },
    {
     "q": "Which claim about the Almoravids and Ghana is best?",
@@ -1316,15 +1318,16 @@ ARCHIVE_ADD({
     "w": "Al-Bakri compiled it from informants."
    },
    {
-    "q": "What happened at Tondibi in 1591?",
+    "q": "A student says Songhai collapsed because its army was weak. Which piece of evidence best tests that claim?",
     "o": [
-     "Sunni Ali took Timbuktu",
-     "A Moroccan force defeated Songhai",
-     "Usman dan Fodio migrated",
-     "Mansa Musa died"
+     "Sunni Ali's taking of Timbuktu",
+     "Tondibi in 1591, where a smaller Moroccan force with firearms defeated Songhai",
+     "Usman dan Fodio's migration",
+     "Mansa Musa's death"
     ],
     "a": 1,
-    "w": "Moroccan firearms defeated Songhai."
+    "w": "Moroccan firearms defeated Songhai at Tondibi; weapons, not only numbers, decided it.",
+    "kind": "application"
    },
    {
     "q": "Which is a [CONTESTED] item in this module?",
@@ -1363,15 +1366,16 @@ ARCHIVE_ADD({
   ],
   "africa-pre-colonial-5": [
    {
-    "q": "Which feature belongs to Dahomey?",
+    "q": "A novel shows women soldiers guarding the king of Asante. Which state should the author have used?",
     "o": [
-     "Golden Stool",
-     "Agojie",
-     "Oyo Mesi",
-     "Lost-wax bronzes of Igbo-Ukwu"
+     "Asante is right",
+     "Dahomey, whose Agojie were women soldiers",
+     "Oyo",
+     "Igbo-Ukwu"
     ],
     "a": 1,
-    "w": "The Agojie."
+    "w": "The Agojie belong to Dahomey.",
+    "kind": "application"
    },
    {
     "q": "What is the status of the 16,000 km Benin earthworks figure?",
@@ -1432,15 +1436,16 @@ ARCHIVE_ADD({
     "w": "Archaeologists emphasise African origins."
    },
    {
-    "q": "Which ruler is credited with the 1526 letter?",
+    "q": "A Kongo letter of 1526 complains to Portugal about the slave trade. Who wrote it, and what limit should you put on it as evidence?",
     "o": [
-     "Mutesa I",
-     "Afonso I",
-     "Njinga",
-     "Osei Tutu"
+     "Njinga; none",
+     "Afonso I; it does not show Kongo had no part in the trade",
+     "Mutesa I; it is a forgery",
+     "Osei Tutu; it is oral"
     ],
     "a": 1,
-    "w": "Afonso I of Kongo."
+    "w": "Afonso I of Kongo; he himself took part in earlier exchanges.",
+    "kind": "application"
    },
    {
     "q": "What happened at Mbwila?",
@@ -1479,15 +1484,16 @@ ARCHIVE_ADD({
   ],
   "africa-pre-colonial-7": [
    {
-    "q": "Who showed in 1905 that Great Zimbabwe's builders were African?",
+    "q": "A 1900 guidebook credits 'ancient foreigners' with Great Zimbabwe. Which earlier work could you cite against it within five years?",
     "o": [
      "Karl Mauch",
-     "David Randall-MacIver",
+     "David Randall-MacIver's 1905 excavation",
      "Cecil Rhodes",
      "Theodore Bent"
     ],
     "a": 1,
-    "w": "He and Caton-Thompson in 1929."
+    "w": "Randall-MacIver in 1905, followed by Caton-Thompson in 1929.",
+    "kind": "application"
    },
    {
     "q": "When was the Battle of Isandlwana?",
@@ -1570,15 +1576,16 @@ ARCHIVE_ADD({
     "w": "Borders came by later treaty."
    },
    {
-    "q": "Which historian argued the trade underdeveloped Africa?",
+    "q": "An essay says historians agree the Atlantic trade underdeveloped Africa. Which correction is best?",
     "o": [
-     "Walter Rodney",
-     "John Thornton only",
-     "Jan Vansina",
-     "Ivor Wilks"
+     "They all agree",
+     "That is Rodney's thesis; Thornton, for one, stresses African initiative, so it is a debate",
+     "Vansina proved it",
+     "No one has argued it"
     ],
-    "a": 0,
-    "w": "Rodney's thesis; Thornton stresses African initiative."
+    "a": 1,
+    "w": "Rodney's thesis; Thornton stresses African initiative.",
+    "kind": "application"
    },
    {
     "lec": 1,

@@ -16,7 +16,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "African history before 1880 is rebuilt from five kinds of evidence: archaeology, historical linguistics, oral tradition, written sources and material heritage. Genetics is a sixth and newer line. {{lib}}"
+     "x": "African history before 1880 is rebuilt from five kinds of evidence: archaeology, historical linguistics, oral tradition, written sources and material heritage. Genetics is a sixth and newer line. {{lib}} {{nature-bantu}}"
     },
     {
      "t": "p",
@@ -65,7 +65,7 @@
     },
     {
      "t": "p",
-     "x": "Looting makes the archaeological blind spot worse, because an object without a find-spot has lost most of its meaning. {{lib}}"
+     "x": "Looting makes the archaeological blind spot worse, because an object without a find-spot has lost most of its meaning. {{icom-redlist}} {{nok-franke}}"
     },
     {
      "t": "callout",
@@ -82,7 +82,7 @@
       "Its radiocarbon date can no longer be taken"
      ],
      "a": 1,
-     "w": "An object without a find-spot loses most of its meaning, which is the archaeological blind spot made worse by looting. {{lib}}"
+     "w": "An object without a find-spot loses most of its meaning, which is the archaeological blind spot made worse by looting. {{icom-redlist}}"
     },
     {
      "t": "check",
@@ -113,15 +113,15 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Oral tradition is not rumour. In the Mande world, specialist remembrancers called jeli, or griots, keep structured accounts. {{lib}} Wikipedia's survey of West African oral tradition says griots form a hereditary group that has acted as historian, musician, mediator and court spokesperson. {{wiki-oral}}"
+     "x": "Oral tradition is not rumour. In the Mande world, specialist remembrancers called jeli, or griots, keep structured accounts. {{griot-brit}} {{hale-griot}} Wikipedia's survey of West African oral tradition says griots form a hereditary group that has acted as historian, musician, mediator and court spokesperson. {{wiki-oral}}"
     },
     {
      "t": "p",
-     "x": "The historian Jan Vansina set out how to read such accounts. His 1985 book, Oral Tradition as History, is described by the historian David Beach as providing a worldwide framework that made nearly all earlier work obsolete. {{wiki-vansina}} The working library lists three habits to look for: genealogies are often compressed, there is a floating gap between the founding past and recent memory, and tellers shape accounts for present politics. {{lib}}"
+     "x": "The historian Jan Vansina set out how to read such accounts. His 1985 book, Oral Tradition as History, is described by the historian David Beach as providing a worldwide framework that made nearly all earlier work obsolete. {{wiki-vansina}} Look for three habits: genealogies are often compressed, there is a floating gap between the founding past and recent memory, and tellers shape accounts for present politics. {{lib}}"
     },
     {
      "t": "p",
-     "x": "Vansina's own working definition is narrow on purpose. A message counts as oral tradition only if it is spoken, sung or played on an instrument, and passed on by word of mouth over at least one generation. {{wiki-oral}}"
+     "x": "Vansina's own working definition is narrow on purpose. A message counts as oral tradition only if it is spoken, sung or played on an instrument, and passed on by word of mouth over at least one generation. {{wiki-oral}} {{vansina-jstor}}"
     },
     {
      "t": "h",
@@ -130,8 +130,8 @@
     {
      "t": "ul",
      "i": [
-      "Internal sources written in Africa: Ge'ez inscriptions and manuscripts, the Arabic chronicles written in Timbuktu, and ajami, which means African languages written in Arabic script. {{lib}}",
-      "External Arabic sources: al-Bakri, al-Umari and Ibn Battuta. {{lib}}",
+      "Internal sources written in Africa: Ge'ez inscriptions and manuscripts, the Arabic chronicles written in Timbuktu, and ajami, which means African languages written in Arabic script. {{lib}} {{ajami-souag}} {{timbuktu-chron}}",
+      "External Arabic sources: al-Bakri, al-Umari and Ibn Battuta. {{arabic-geog}} {{fordham-ibnb}}",
       "European sources: Portuguese, Dutch and British. Outside authors often relied on informants and had their own aims. {{lib}}"
      ]
     },
@@ -176,13 +176,13 @@
     },
     {
      "t": "example",
-     "title": "Worked example: sorting five statements by evidence (the answers follow the working library)",
+     "title": "Worked example: sorting five statements by evidence",
      "steps": [
       "Statement: over 500 related languages descend from one ancestor. Kind of evidence: historical linguistics.",
       "Statement: Sunni Ali took Timbuktu in 1468, according to the Tarikh al-Sudan. Kind: a written source, and an internal African-authored one.",
       "Statement: Jenne-jeno had a wall by the first millennium CE. Kind: archaeology.",
       "Statement: Sundiata defeated Sumanguru at Kirina. Kind: oral tradition, and the date c. 1235 is a [TRADITIONAL DATE].",
-      "Statement: a terracotta head was found at a tin-mining site. Kind: archaeology or material heritage. {{lib}}"
+      "Statement: a terracotta head was found at a tin-mining site. Kind: archaeology or material heritage. {{nok-britannica}}"
      ]
     },
     {
@@ -226,15 +226,15 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Nok culture is known from terracotta figures, often with elaborate heads, found around the Jos Plateau in central Nigeria. They date mainly to the first millennium BCE and the early centuries CE [PROBABLE]. The culture is named after the village of Nok, where tin miners found sculptures in the 1940s. {{lib}}"
+     "x": "Nok culture is known from terracotta figures, often with elaborate heads, found around the Jos Plateau in central Nigeria. They date mainly to the first millennium BCE and the early centuries CE [PROBABLE]. {{nok-franke}} The culture is named after the village of Nok, where a tin miner found the first head in 1928. Bernard Fagg identified the culture in the 1940s. {{nok-britannica}} {{nok-oro}}"
     },
     {
      "t": "p",
-     "x": "Almost nothing is known of Nok politics, language or religion [THIN EVIDENCE]. Most figures were looted, so many lack context. Excavations led by Frankfurt University have since recovered securely dated settlement and iron-working evidence. {{gha2-westafr}}"
+     "x": "Almost nothing is known of Nok politics, language or religion [THIN EVIDENCE]. Most figures were looted, so many lack context. {{gha2-westafr}} Excavations led by Goethe University Frankfurt have since recovered securely dated settlement and iron-working evidence. {{nok-franke}}"
     },
     {
      "t": "p",
-     "x": "Claims that the Nok were the ancestors of a named modern people, such as the Yoruba, are [CONTESTED] and unproven. {{lib}}"
+     "x": "Claims that the Nok were the ancestors of a named modern people, such as the Yoruba, are [CONTESTED] and unproven. {{nok-breunig-2026}}"
     },
     {
      "t": "h",
@@ -246,7 +246,7 @@
     },
     {
      "t": "p",
-     "x": "A technical issue clouds the dating. A flat stretch in the radiocarbon calibration curve, the so-called Hallstatt plateau of roughly 800 to 400 BCE, makes dates in that window imprecise. {{lib}}"
+     "x": "A technical issue clouds the dating. A flat stretch in the radiocarbon calibration curve, the so-called Hallstatt plateau of roughly 800 to 400 BCE, makes dates in that window imprecise. {{intcal20}}"
     },
     {
      "t": "h",
@@ -254,7 +254,7 @@
     },
     {
      "t": "p",
-     "x": "More than 500 Bantu languages share a common ancestor that linguists place in the Cameroon and Nigeria borderland. The spread began perhaps 4,000 to 5,000 years ago [PROBABLE]. {{lib}}"
+     "x": "About 500 Bantu languages share a common ancestor that linguists place in the Cameroon and Nigeria borderland. Counts range from about 440 to 680 depending on how dialects are distinguished. {{oxbib-bantu}} The spread began perhaps 4,000 to 5,000 years ago [PROBABLE]. {{pnas-bantu-2022}}"
     },
     {
      "t": "p",
@@ -299,15 +299,16 @@
     },
     {
      "t": "check",
-     "q": "Why can we not say the Nok were the first iron-users in sub-Saharan Africa?",
+     "q": "A documentary says: 'The Nok were the first people in sub-Saharan Africa to smelt iron.' Which correction is best supported?",
      "o": [
-      "Because Nok sites have no iron",
-      "Because other sites have early claims and the radiocarbon plateau blurs 800 to 400 BCE",
-      "Because iron came only from Carthage",
-      "Because Nok dates are unknown"
+      "None is needed: Nok has the oldest dates",
+      "Say Nok is among the early iron-using cultures; other sites have early claims and the radiocarbon plateau blurs 800 to 400 BCE",
+      "Say iron came only from Carthage",
+      "Say Nok had no iron at all"
      ],
      "a": 1,
-     "w": "Nok is among the early iron-using cultures [PROBABLE], but the first cannot be supported [CONTESTED]. {{gha2-westafr}} {{gha9-bocoum}}"
+     "w": "Nok is among the early iron-using cultures [PROBABLE], but 'first' cannot be supported [CONTESTED]. {{gha2-westafr}} {{gha9-bocoum}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -323,15 +324,16 @@
     },
     {
      "t": "check",
-     "q": "What is the main reason the Nok-Yoruba link is unproven?",
+     "q": "A website says the Yoruba descend directly from the Nok because both made fine terracotta heads. What is the main flaw?",
      "o": [
-      "Yoruba people did not exist",
-      "Nok language and identity are unknown",
+      "The Yoruba never made sculpture",
+      "Style alone cannot show descent, and Nok language and identity are unknown",
       "Terracotta cannot be dated",
       "Nok sites were never excavated"
      ],
      "a": 1,
-     "w": "Almost nothing is known of Nok language or politics [THIN EVIDENCE]. {{lib}}"
+     "w": "Almost nothing is known of Nok language or politics [THIN EVIDENCE], so a likeness of style is not a family tree. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -350,11 +352,11 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Jenne-jeno lies in the inland Niger delta in Mali. Excavations by Susan and Roderick McIntosh show a town occupied from about 250 BCE, growing into a dense urban cluster with a town wall in the first millennium CE. It grew without an obvious king or palace, and before regular trans-Saharan trade [PROBABLE]. {{lib}} {{gha4-mali}}"
+     "x": "Jenne-jeno lies in the inland Niger delta in Mali. Excavations by Susan and Roderick McIntosh show a town occupied from about 250 BCE, growing into a dense urban cluster with a town wall in the first millennium CE. It grew without an obvious king or palace, and before regular trans-Saharan trade [PROBABLE]. {{penn-jj}} {{ehraf-jj}} {{mcintosh-memoir}} {{gha4-mali}}"
     },
     {
      "t": "p",
-     "x": "The McIntoshes argue for heterarchy, meaning power spread across specialist groups, rather than a single state. Population figures and the exact chronology remain debated. {{lib}}"
+     "x": "The McIntoshes argue for heterarchy, meaning power spread across specialist groups, rather than a single state. {{mcintosh-rwe}} {{standen-jj}} Population figures and the exact chronology remain debated. {{lib}}"
     },
     {
      "t": "callout",
@@ -382,12 +384,12 @@
       "Archaeology: iron-working debris is found at Nok-culture sites, and other sites in Niger, Nigeria and Central Africa have early claims.",
       "Dating problem: the radiocarbon plateau blurs the window 800 to 400 BCE, so the order of early sites is hard to fix.",
       "Verdict: Nok is among the early iron-using cultures [PROBABLE]. The word first cannot be supported [CONTESTED].",
-      "Rewritten sentence: Nok sites are among the early iron-working sites in sub-Saharan Africa, but the order of the earliest sites is uncertain. (Our wording of the library's verdict.) {{lib}}"
+      "Rewritten sentence: Nok sites are among the early iron-working sites in sub-Saharan Africa, but the order of the earliest sites is uncertain. {{lib}}"
      ]
     },
     {
      "t": "table",
-     "title": "Applying the method to three claims (our practice cases built on the library's verdicts)",
+     "title": "Applying the method to three claims",
      "head": [
       "Claim",
       "Weak point",
@@ -430,15 +432,16 @@
     },
     {
      "t": "check",
-     "q": "What is heterarchy?",
+     "q": "An excavated town has specialist quarters for smiths, potters and traders but no palace or royal burial. Which description fits best?",
      "o": [
-      "Rule by one king",
-      "Power spread across specialist groups",
-      "Rule by foreign merchants",
-      "A type of pottery"
+      "A kingdom ruled by one king",
+      "Heterarchy: power spread across specialist groups, as the McIntoshes argue for Jenne-jeno",
+      "A colony of foreign merchants",
+      "A town that cannot be described at all"
      ],
      "a": 1,
-     "w": "The McIntoshes use it for Jenne-jeno. {{lib}}"
+     "w": "The McIntoshes use heterarchy for Jenne-jeno: power spread across groups rather than held by one ruler. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -457,7 +460,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "These practice cases are built from the module's own claims. Work each one before you read the verdict. The verdicts follow the working library; the sentence rewrites are our wording. {{lib}}"
+     "x": "These practice cases are built from the module's own claims. Work each one before you read the verdict. {{lib}}"
     },
     {
      "t": "table",
@@ -529,7 +532,7 @@
   },
   {
    "id": "l6",
-   "title": "What the supplied books add to the evidence",
+   "title": "What the books add to the evidence",
    "min": 26,
    "blocks": [
     {
@@ -546,7 +549,7 @@
     },
     {
      "t": "p",
-     "x": "Grollemund and colleagues (PNAS 2015) date the Bantu languages with a tree of 424 languages tied to three archaeological anchors. The Bantu branch dates to about 4,800 years ago, the homeland is the savannah of north-western Cameroon, and the main line went south-east along the edge of the rainforest, following savannah corridors, not the coast or the forest. Moves from savannah into rainforest took about 300 years longer than comparable savannah moves. {{grollemund}} This is a model, not a count, so keep it [PROBABLE] and set it beside Reader's older account."
+     "x": "Grollemund and colleagues (PNAS 2015) date the Bantu languages with a tree of 424 languages tied to three archaeological anchors. The Bantu branch dates to about 4,800 years ago, the homeland is the savannah of north-western Cameroon, and the main line went south-east along the edge of the rainforest, following savannah corridors, not the coast or the forest. Moves from savannah into rainforest took about 300 years longer than comparable savannah moves. {{grollemund-001}} This is a model, not a count, so keep it [PROBABLE] and set it beside Reader's older account."
     },
     {
      "t": "h",
@@ -568,7 +571,7 @@
       ],
       [
        "Rodney (1972)",
-       "Kush was a source of iron-working and of brass casting for the wider continent, and iron reached most of Africa after the birth of Christ. {{rod-pre}}",
+       "Kush was a source of iron-working and of brass casting for the wider continent, and iron reached most of Africa after the birth of Christ. {{rod-pre-007}}",
        "[CONTESTED]"
       ],
       [
@@ -610,12 +613,12 @@
      ],
      "rows": [
       [
-       "Egypt was about 10,000 years old when Herodotus visited. {{dio-egypt}}",
+       "Diop calls Egypt 'the cradle of civilization for 10,000 years'. {{dio-egypt-005}}",
        "State unification about 3100 BCE; the great pyramids about 2600 BCE.",
        "Radiocarbon and king-lists beat a figure with no stated basis. [THIN EVIDENCE]"
       ],
       [
-       "Tomb reliefs show two of four peoples as Black Africans, so Egyptians were Black. {{dio-egypt}}",
+       "Tomb reliefs show two of four peoples as Black Africans, so Egyptians were Black. {{dio-egypt-006}}",
        "Conventional colours for four peoples; skin colour in art does not settle identity.",
        "Colour in art is a weak test either way. [CONTESTED]"
       ],
@@ -635,7 +638,7 @@
        "Partly accepted; the sweeping version is [CONTESTED]."
       ],
       [
-       "Vai and Bamum scripts match Egyptian signs. {{dpc-tech}}",
+       "Vai and Bamum scripts match Egyptian signs. {{dpc-tech-012}}",
        "The Vai and Bamum scripts are nineteenth-century inventions (dates outside these books).",
        "His own text half-admits they may be recent. [THIN EVIDENCE]"
       ]
@@ -653,7 +656,7 @@
     },
     {
      "t": "p",
-     "x": "Woodson's 1928 book is a school reader. His preface says the tales come from different sources and are given in simple language for children. It names no teller, date or collector, and one tale mentions a king of Calabar who reigned fifty years; a name inside a story is not evidence that the king existed. This is the difference Vansina draws between tales and historical tradition. {{wood-tales}}"
+     "x": "Woodson's 1928 book is a school reader. His preface says the tales come from different sources and are given in simple language for children. It names no teller, date or collector, and one tale mentions a king of Calabar who reigned fifty years; a name inside a story is not evidence that the king existed. This is the difference Vansina draws between tales and historical tradition. "
     },
     {
      "t": "check",
@@ -665,38 +668,40 @@
       "Diop proved Africans first discovered iron"
      ],
      "a": 2,
-     "w": "Each book argues a position and Reader contradicts himself across two chapters. {{rd-iron}} {{rod-pre}}"
+     "w": "Each book argues a position and Reader contradicts himself across two chapters. {{rd-iron}} {{rod-pre-007}}"
     },
     {
      "t": "check",
-     "q": "Why can a Woodson tale not date a ruler?",
+     "q": "A student uses a tale from Woodson's African Myths to date a king's reign. What should you tell them?",
      "o": [
-      "Because Woodson was not African",
-      "Because the tales have no named teller or date and were adapted for children",
-      "Because tales never mention rulers",
-      "Because Woodson wrote in 1990"
+      "That is fine: the tales are from 1928",
+      "The tales have no named teller or date and were adapted for school children, so they cannot date anyone",
+      "Only Woodson's proverbs can date rulers",
+      "Use it if two tales agree"
      ],
      "a": 1,
-     "w": "The preface says the tales were adapted for school children and gives no sources. {{wood-tales}}"
+     "w": "The preface says the tales were adapted for school children and gives no sources. {{wood-tales}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What does a short look-alike word between Wolof and Egyptian prove on its own?",
+     "q": "You find that a short Wolof word sounds like an ancient Egyptian word with a similar meaning. What can you conclude from that alone?",
      "o": [
-      "A family link",
-      "A shared migration",
-      "Nothing: regular sound correspondences are needed",
-      "That Egypt was African"
+      "The languages are related",
+      "There was a migration from Egypt",
+      "Nothing yet: you would need regular sound correspondences across many words",
+      "Egypt was Wolof-speaking"
      ],
      "a": 2,
-     "w": "Chance resemblances are common among short words. {{dio-method}}"
+     "w": "Chance resemblances are common among short words. {{dio-method-006}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
       "Bantu counts run from about 300 to more than 600 depending on who counts. {{rd-bantu}}",
       "West African iron has three book-length answers and none is settled. [CONTESTED]",
-      "Diop's own Egyptian dates and language comparisons are not supported; his questions about historiography are worth studying. {{dio-egypt}}",
+      "Diop's own Egyptian dates and language comparisons are not supported; his questions about historiography are worth studying. {{dio-egypt-015}}",
       "A folk tale is a story, not a king-list. {{wood-tales}}"
      ]
     }
@@ -801,7 +806,7 @@
     },
     {
      "t": "p",
-     "x": "They place proto-Bantu between about 1000 BCE or earlier and 400 BCE, a farming community with yams and cereals and only the goat, without metal. That is later than the 4,000 to 5,000 years usually given from Grollemund's tree, so the date of the first split is [CONTESTED]. {{gha3-bantu}}"
+     "x": "They place proto-Bantu between about 1000 BCE or earlier and 400 BCE, a farming community with yams and cereals and only the goat, without metal. That is later than the start about 5,000 years ago given by Grollemund and colleagues' language tree, {{grollemund}} so the date of the first split is [CONTESTED]. {{gha3-bantu}}"
     },
     {
      "t": "p",
@@ -956,15 +961,16 @@
     },
     {
      "t": "check",
-     "q": "Why does he object to saying Koumbi Saleh fell in 1086?",
+     "q": "A timeline states 'Koumbi Saleh fell in 1086'. Following Ki-Zerbo, which wording should replace it?",
      "o": [
-      "The town never fell",
-      "Reign counts and oral dates cannot support that precision; the end of the eleventh century is honest",
-      "Arab writers gave 1086",
-      "Carbon dating disproved it"
+      "Koumbi Saleh fell on a date that is unknowable",
+      "Koumbi Saleh declined towards the end of the eleventh century",
+      "Koumbi Saleh fell in 1086 exactly",
+      "Koumbi Saleh never fell"
      ],
      "a": 1,
-     "w": "He calls the demand for exact years a psychosis of precision. {{gha1-intro}}"
+     "w": "Reign counts and oral dates cannot support a single year; he calls the demand for exact years a psychosis of precision. {{gha1-intro}}",
+     "kind": "application"
     },
     {
      "t": "h",
@@ -1045,15 +1051,16 @@
     },
     {
      "t": "check",
-     "q": "What is the Kano Chronicle, according to Fage?",
+     "q": "An essay quotes the Kano Chronicle as an eyewitness record of eleventh-century Kano. Using Fage, what is wrong?",
      "o": [
-      "An eyewitness diary of the 11th century",
-      "Little more than written-down tradition, not known in written form before about the 19th century",
-      "A Songhai tarikh",
-      "A Portuguese report"
+      "Nothing",
+      "It is little more than written-down tradition, not known in written form before about the nineteenth century",
+      "It is a Songhai tarikh about Gao",
+      "It is a Portuguese report"
      ],
      "a": 1,
-     "w": "Unlike the Timbuktu tarikhs it does not criticise its traditions. {{gha1-fage}}"
+     "w": "Unlike the Timbuktu tarikhs it does not criticise its traditions. {{gha1-fage}}",
+     "kind": "application"
     },
     {
      "t": "h",
@@ -1407,15 +1414,16 @@
     },
     {
      "t": "check",
-     "q": "Vansina says a tradition that contradicts the interest of the group telling it is more likely to be...",
+     "q": "Two clans tell their origins. Clan A says it arrived first and founded the town; clan B admits it arrived later as clients of A. On Vansina's rule, which claim deserves more weight?",
      "o": [
-      "False",
-      "True, because it resisted the pull of the group's interest",
-      "Impossible to judge",
-      "Copied from a book"
+      "Clan A's, because founders remember best",
+      "Clan B's, because it goes against the teller's own interest",
+      "Neither can ever be weighed",
+      "Whichever is longer"
      ],
      "a": 1,
-     "w": "A people admitting it is younger, or a chronicle admitting defeat, has resisted levelling. {{gha1-vansina}}"
+     "w": "A people admitting it is younger, or a chronicle admitting defeat, has resisted the pull of the group's interest. {{gha1-vansina}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1544,7 +1552,7 @@
      "steps": [
       "Reeds from the First Dynasty mastaba of Qaa' at Saqqara gave an uncorrected radiocarbon date of 2450 plus or minus 65 before our era.",
       "With the Stuiver-Suess correction the date became 2928 plus or minus 65 before our era, against a historical date of about 2900 before our era.",
-      "So the uncorrected date was about 450 years too young, and for samples older than about 1800 before our era a raw date should be corrected before use. {{gha1-iskander}}"
+      "So the uncorrected date was about 480 years too young (our arithmetic: 2928 minus 2450), and for samples older than about 1800 before our era a raw date should be corrected before use. {{gha1-iskander}}"
      ]
     },
     {
@@ -1615,7 +1623,7 @@
     {
      "t": "callout",
      "k": "warn",
-     "x": "Diagne argues for a continuous African writing tradition from the Palette of Narmer to the Dahomey royal axes, comparing the Recade of Dakodonu (1625 to 1650) and of Gezo with Egyptian picto-phonograms. The comparison shows similar methods of writing a name, not a proved line of contact. He also says the Tuareg Tafineq script may have grown under Punic influence, the Nubian script formed in the tenth century through Coptic, and the Amharic alphabet derives from the Sabean script of southern Arabia. Treat the Egypt-to-Dahomey chain as a hypothesis. {{gha1-diagne}} [THIN EVIDENCE]"
+     "x": "Diagne argues for a continuous African writing tradition from the Palette of Narmer to the Dahomey royal axes, comparing the Recade of Dakodonu and of Gezo with Egyptian picto-phonograms. The comparison shows similar methods of writing a name, not a proved line of contact. He also says the Tuareg Tafineq script may have grown under Punic influence, the Nubian script formed in the tenth century through Coptic, and the Amharic alphabet derives from the Sabean script of southern Arabia. Treat the Egypt-to-Dahomey chain as a hypothesis. {{gha1-diagne}} [THIN EVIDENCE]"
     },
     {
      "t": "h",
@@ -1627,15 +1635,16 @@
     },
     {
      "t": "check",
-     "q": "Why does Diagne say Swahili's Arabic vocabulary does not make it a Semitic language?",
+     "q": "A blog argues that Swahili is a Semitic language because so many of its words come from Arabic. What is the best reply?",
      "o": [
-      "Swahili has no Arabic words",
-      "Borrowed words do not show descent; its structure and core vocabulary are Bantu",
+      "It is right",
+      "Borrowed words do not show descent; Swahili's structure and core vocabulary are Bantu",
       "Arabic is not Semitic",
-      "Swahili was invented in 1900"
+      "Swahili has no Arabic words"
      ],
      "a": 1,
-     "w": "Valid comparison uses a language's own heritage, not borrowings. {{gha1-diagne}}"
+     "w": "Valid comparison uses a language's own heritage, not its borrowings. {{gha1-diagne}}",
+     "kind": "application"
     },
     {
      "t": "h",
@@ -1691,15 +1700,16 @@
     },
     {
      "t": "check",
-     "q": "What does the Bubi of Fernando Po show about Bantu languages and iron?",
+     "q": "A textbook says 'wherever Bantu languages spread, ironworking went with them'. Which case tests that claim best?",
      "o": [
-      "All Bantu speakers worked iron",
-      "Bantu speech and ironworking are separate, because Bubi speakers had no iron",
-      "Iron came only from Arabia",
-      "Bubi is not Bantu"
+      "Jenne-jeno",
+      "The Bubi of Fernando Po, who spoke a Bantu language but had no iron",
+      "The Nok",
+      "Ancient Egypt"
      ],
      "a": 1,
-     "w": "Olderogge: language and mode of production must not be confused. {{gha1-olderogge}}"
+     "w": "Olderogge: language and mode of production must not be confused. {{gha1-olderogge}}",
+     "kind": "application"
     },
     {
      "t": "h",
@@ -1889,7 +1899,7 @@
     },
     {
      "t": "p",
-     "x": "He also lays out ideas about population and states that need caution. Grassland is easy to cross, so large movements of people and the spread of tools and techniques were rapid, and he suggests states grew in the grassland and pushed weaker groups into mountains, deserts or forest. He gives Africa about 100 million people by 1650, over 20 per cent of the world, citing Carr-Saunders; the figure is an estimate, to be compared with the lower estimates in the supplied books. On domestication he says Africa's contribution has been modest by comparison with Asia, a view that chapter 27 of this volume revises. {{gha1-mabogunje}} [THIN EVIDENCE]"
+     "x": "He also lays out ideas about population and states that need caution. Grassland is easy to cross, so large movements of people and the spread of tools and techniques were rapid, and he suggests states grew in the grassland and pushed weaker groups into mountains, deserts or forest. He gives Africa about 100 million people by 1650, over 20 per cent of the world, citing Carr-Saunders; the figure is an estimate, so compare it with other estimates before relying on it. On domestication he says Africa's contribution has been modest by comparison with Asia, a view that chapter 27 of this volume revises. {{gha1-mabogunje}} [THIN EVIDENCE]"
     },
     {
      "t": "check",
@@ -1936,15 +1946,16 @@
     },
     {
      "t": "check",
-     "q": "What does Ki-Zerbo say about estimating the length of a reign far back in time?",
+     "q": "A king list has 20 rulers and you know the average reign in the twentieth century was 20 years. Should you date the dynasty's founding to 400 years ago?",
      "o": [
-      "Use today's average",
-      "Do not project a modern average backwards, because the succession system and stability differ (Yatenga versus Ouagadougou)",
-      "Average the kings' ages",
-      "Use only Arabic texts"
+      "Yes, that is the standard method",
+      "No: succession rules and stability change the average, as Yatenga's brother-to-brother and Ouagadougou's father-to-son successions show",
+      "Yes, if you add ten per cent",
+      "No: king lists are always invented"
      ],
      "a": 1,
-     "w": "The rules of succession change the average length of a reign. {{gha1-kizerbo15}}"
+     "w": "The rules of succession change the average length of a reign. {{gha1-kizerbo15}}",
+     "kind": "application"
     },
     {
      "t": "h",
@@ -2002,15 +2013,16 @@
     },
     {
      "t": "check",
-     "q": "Why does Hugot refuse to call most Saharan Neolithic sites agricultural?",
+     "q": "A Saharan site has grindstones and hoe-like tools but no plant remains. Following Hugot, how should you describe it?",
      "o": [
-      "No tools were found",
-      "Hoes and grindstones can serve other uses; only plant remains, pollen or fields prove farming, and mostly wild plants are found",
-      "They had no pottery",
-      "They were nomads who built cities"
+      "A farming village",
+      "Not yet shown to be farming: only plant remains, pollen or fields prove cultivation",
+      "A city",
+      "A nomad camp with no tools"
      ],
      "a": 1,
-     "w": "Millet at Tichitt is the clear exception. {{gha1-hugot}}"
+     "w": "Tools can serve other uses; millet at Tichitt is the clear exception. {{gha1-hugot}}",
+     "kind": "application"
     },
     {
      "t": "h",
@@ -2209,7 +2221,7 @@
     },
     {
      "t": "p",
-     "x": "Two of the prehistory chapters set the Bantu question against the older peoples. Clark treats the first farmers and metalworkers of southern Africa as the advance guard of Bantu-speaking groups from the north-west (Chad and Cameroon); Sutton ties the spread of food production south of the equator to the Iron Age about 2000 years ago; Van Noten warns against assuming a Neolithic in the forest. Placed beside Greenberg's Benue valley origin, Guthrie's Shaba core and Olderogge's warning that Bantu is a language label, they show that archaeology supports a spread of farming and iron more than it identifies a people. {{gha1-clark}} {{gha1-sutton}} [CONTESTED]"
+     "x": "Two of the prehistory chapters set the Bantu question against the older peoples. Clark treats the first farmers and metalworkers of southern Africa as the advance guard of Bantu-speaking groups from the north-west (Chad and Cameroon); Sutton ties the spread of food production south of the equator to the Iron Age about 2000 years ago; Van Noten warns against assuming a Neolithic in the forest. {{gha1-clark}} Placed beside Greenberg's Benue valley origin, Guthrie's Shaba core and Olderogge's warning that Bantu is a language label, they show that archaeology supports a spread of farming and iron more than it identifies a people (our inference). {{gha1-greenberg}} {{gha1-olderogge}} {{gha1-sutton}} [CONTESTED]"
     },
     {
      "t": "take",
@@ -2236,7 +2248,7 @@
     },
     {
      "t": "p",
-     "x": "Confidence in this dossier: partial. His own books were not read, so the method below is the encyclopaedic summary plus the working library's account of his advice. {{lib}}"
+     "x": "Source note: this account of his method rests on encyclopaedic summaries, not on his own books. {{lib}}"
     },
     {
      "t": "h",
@@ -2291,7 +2303,7 @@
     },
     {
      "t": "h",
-     "x": "Worked example: a date from a griot (our application)"
+     "x": "Worked example: a date from a griot"
     },
     {
      "t": "example",

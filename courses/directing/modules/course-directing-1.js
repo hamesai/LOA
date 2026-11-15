@@ -96,8 +96,12 @@
      "x": "Write your own production in four stages on one page. Under each stage, list the two steps you are least ready for."
     },
     {
+     "t": "p",
+     "x": "Irina Niculescu's short history of the role says the realists found the director a necessity, while the rebels of the early twentieth century, among them Appia, Craig, Meyerhold, Copeau, Piscator and Brecht, proclaimed the director the 'messiah' of a new theatrical synthesis. She credits Leone de Sommi (1525 to 1590) with the first treatise on stage direction. Read this as one author's account of the role, and treat her single year for the treatise as approximate. {{nic-director}}"
+    },
+    {
      "t": "check",
-     "q": "Which best describes the director's role in Garcia's account?",
+     "q": "A first-time director plans to decide every detail alone and only tell the designers at the end. Which picture of the role in Garcia's account does this miss?",
      "o": [
       "The only person who knows the answer",
       "A leader and the hub of communication between the artists",
@@ -105,11 +109,12 @@
       "An actor with extra duties"
      ],
      "a": 1,
-     "w": "Garcia calls the director a leader and the central hub of communication. {{garcia}}"
+     "w": "Garcia calls the director a leader and the central hub of communication. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Whose job is it to run the show after it opens, in Garcia's process?",
+     "q": "On opening night the director wants to keep calling cues from the booth. Whose job is running the show now, in Garcia's process?",
      "o": [
       "The director",
       "The designer",
@@ -117,7 +122,8 @@
       "The producer"
      ],
      "a": 2,
-     "w": "Garcia has the director hand control to the stage manager at opening. {{garcia}}"
+     "w": "Garcia has the director hand control to the stage manager at opening. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -241,7 +247,7 @@
     },
     {
      "t": "check",
-     "q": "What starts a new French scene?",
+     "q": "You are marking a script. Hamlet is alone, then Horatio enters, then Hamlet speaks a second line. Where does a new French scene begin?",
      "o": [
       "A change of lighting",
       "A character entering or leaving",
@@ -249,11 +255,12 @@
       "A change of speaker"
      ],
      "a": 1,
-     "w": "A French scene begins and ends when a character enters or leaves. {{garcia}}"
+     "w": "A French scene begins and ends when a character enters or leaves. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What does the midpoint of Garcia's story shape usually feel like?",
+     "q": "Halfway through your play the hero seems to have won, but it falls apart later. Which point of Garcia's story shape is this, and what does it usually feel like?",
      "o": [
       "The end of the conflict",
       "A false victory or false defeat",
@@ -261,7 +268,8 @@
       "The closing image"
      ],
      "a": 1,
-     "w": "The midpoint is a false victory or defeat, because the final confrontation is still to come. {{garcia}}"
+     "w": "The midpoint is a false victory or defeat, because the final confrontation is still to come. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -353,7 +361,7 @@
     },
     {
      "t": "check",
-     "q": "What does Garcia suggest the theme should feel like to the audience?",
+     "q": "An actor wants to step forward and tell the audience the play's message in the last scene. What does Garcia suggest the theme should feel like instead?",
      "o": [
       "A lecture they have been given",
       "Something they worked out for themselves",
@@ -361,11 +369,12 @@
       "A joke"
      ],
      "a": 1,
-     "w": "He wants the audience to feel they figured the message out. {{garcia}}"
+     "w": "He wants the audience to feel they figured the message out. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why does Garcia suggest a ten-year age window?",
+     "q": "You are told your audience is 'everyone aged 18 to 70'. Why would Garcia narrow that to about a ten-year window?",
      "o": [
       "Law requires it",
       "Tastes and values change across age groups",
@@ -373,7 +382,8 @@
       "It is cheaper to market"
      ],
      "a": 1,
-     "w": "He says people develop different interests and values as they age, so the play should reflect them. {{garcia}}"
+     "w": "He says people develop different interests and values as they age, so the play should reflect them. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -474,6 +484,10 @@
       "Frame: on the third shot, hold Dee in the frame with the three chairs behind her, so the audience feels the pattern without being told.",
       "Test: ask a friend what they noticed. If nobody senses the pattern, make it larger or cut it."
      ]
+    },
+    {
+     "t": "p",
+     "x": "Katz turns script analysis into visual choices. For each scene, ask what its point of view is and what emotional distance the viewer should have from the subject, then choose the shot that serves that answer. {{katz-move}}"
     },
     {
      "t": "check",
@@ -611,7 +625,7 @@
     },
     {
      "t": "check",
-     "q": "What does 'plant and pay off' mean?",
+     "q": "In act one a character hides a key in a vase; in act three the key opens the door that saves her. Which device is this?",
      "o": [
       "Introduce a detail early that returns later with new meaning",
       "Pay the actors early",
@@ -619,7 +633,8 @@
       "Repeat a line three times"
      ],
      "a": 0,
-     "w": "A setup early makes the ending feel earned. {{spoto-ch3}}"
+     "w": "A setup early makes the ending feel earned. {{spoto-ch3}}",
+     "kind": "application"
     },
     {
      "t": "check",

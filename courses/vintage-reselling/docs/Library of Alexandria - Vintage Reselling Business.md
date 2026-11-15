@@ -1,6 +1,6 @@
 # Library of Alexandria: Vintage reselling business (UK)
 
-Level: Beginner. Created 13/10/2026.
+Level: Beginner. Created 15/11/2026.
 
 Start an online business reselling vintage goods: decide your legal status, source at prices that leave a margin, date and grade items honestly, sell lawfully, list and price across platforms, and keep records and tax right.
 
@@ -83,7 +83,7 @@ Worked example: Expected sale £40 plus £6 postage; fees £5.58; postage £6.50
 - Answer key: Total £40; fees 4.36 + 0.40 + 0.14 = £4.90; net = 40 − 4.90 − 5.20 − 0.80 = £29.10; ceiling = £19.10.
 - Self-check: Did you subtract your target profit last?
 
-**C2 (core).** You listed 25 items and 17 sold in 60 days. Find the sell-through rate and say what it suggests.
+**C2 (core).** You listed 25 items and 17 sold in 60 days. Find the sell-through rate, then decide whether you would change your prices or your sourcing, and say what evidence would confirm the choice.
 - Answer key: 17 ÷ 25 = 68%. It suggests prices and sourcing are working, but check which items are slow.
 - Self-check: Did you divide by items listed?
 
@@ -199,7 +199,7 @@ Worked example: Silver spoon 45 g unmarked: above 7.78 g, so do not sell as silv
 
 ### Review
 
-R1. What is the maximum penalty for dealing in ivory without an exemption? Answer: A fine of up to £250,000 or up to five years' imprisonment.
+R1. What is the maximum penalty for dealing in ivory without an exemption? Answer: On conviction, up to five years' imprisonment, an unlimited fine, or both. Civil monetary penalties can reach £250,000.
 
 ### Resources
 

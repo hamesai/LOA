@@ -890,9 +890,10 @@ ARCHIVE_ADD({
     {
      "id": "C3",
      "level": "Stretch",
-     "task": "Run two identical trays, one on a heat mat and one without. Explain the difference in emergence time using the temperature readings.",
+     "task": "Run two identical trays, one on a heat mat and one without. Predict which emerges first, then explain the difference you find using your temperature readings.",
      "key": "The heated tray emerges earlier, with a written explanation tied to your recorded temperatures.",
-     "check": "Rubric: both trays logged, temperatures recorded, explanation references the data."
+     "check": "Rubric: both trays logged, temperatures recorded, explanation references the data.",
+     "kind": "application"
     }
    ],
    "mistakes": [
@@ -1043,9 +1044,10 @@ ARCHIVE_ADD({
     {
      "id": "C3",
      "level": "Stretch",
-     "task": "Write a decision rule for one pest: what you monitor, the threshold, the first non-chemical action, and when to escalate.",
+     "task": "Write a decision rule for one pest you have seen: what you monitor, the threshold, the first non-chemical action, and when you would escalate.",
      "key": "A complete rule with all four parts, non-chemical action first.",
-     "check": "Rubric: all four parts present and the non-chemical action comes first."
+     "check": "Rubric: all four parts present and the non-chemical action comes first.",
+     "kind": "application"
     }
    ],
    "mistakes": [
@@ -1260,7 +1262,7 @@ ARCHIVE_ADD({
     "w": "Staggered sowings spread the harvest."
    },
    {
-    "q": "Which seasonal block is for sowing winter greens?",
+    "q": "It is October and you want salad leaves through the dark months. Which seasonal block should your sowing fall in?",
     "o": [
      "Spring",
      "Summer",
@@ -1268,7 +1270,8 @@ ARCHIVE_ADD({
      "Winter"
     ],
     "a": 2,
-    "w": "Winter greens are sown in autumn so they are established for the dark months."
+    "w": "Winter greens are sown in autumn so they are established for the dark months.",
+    "kind": "application"
    },
    {
     "lec": 1,

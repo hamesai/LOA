@@ -25,11 +25,11 @@
     },
     {
      "t": "p",
-     "x": "The Berlin Conference opened on 15/11/1884 and its General Act is dated 26/02/1885 [check]. Fourteen states took part and no African was present. {{hs-berlin}} {{rd-berlin}}"
+     "x": "The Berlin Conference opened on 15/11/1884 and its General Act was signed in 02/1885. Fourteen states took part and no African was present. {{hs-berlin}} {{rd-berlin}}"
     },
     {
      "t": "p",
-     "x": "Hochschild calls the popular picture of Berlin as the meeting that divided Africa a myth. The conference set ground rules, among them free trade in the Congo basin, free navigation and the principle of effective occupation, and it recognised Leopold's claim at the mouth of the Congo. The actual frontiers came afterwards, from many bilateral treaties and conquests between 1885 and 1914. {{hs-berlin}} {{rd-borders}}"
+     "x": "Hochschild calls the popular picture of Berlin as the meeting that divided Africa a myth. The conference set ground rules, among them free trade in the Congo basin, free navigation and the principle of effective occupation, and it recognised Leopold's claim at the mouth of the Congo. The actual frontiers came afterwards, from many later bilateral treaties and conquests. {{hs-berlin}} {{rd-borders}}"
     },
     {
      "t": "table",
@@ -64,15 +64,15 @@
     },
     {
      "t": "p",
-     "x": "Boahen's opening chapter in UNESCO's volume VII says about 80 per cent of Africa was still under African rule in 1880. He argues that the conquest of 1890 to 1910 followed years of treaty-making in which Europeans first treated African rulers as equals. Most rulers chose to defend their sovereignty and differed only in strategy: diplomacy, war or alliance. He objects to the label 'collaborator' for rulers such as Tofa of Porto Novo, Lat Dior, Wobogo and Samori, calling it Eurocentric and inaccurate. This supports the lesson's point that 'resist or collaborate' is too simple. He divides the period into sovereignty defence (1880 to 1919), accommodation and protest (1919 to 1935), and the Ethiopian invasion of 1935 as the break. {{gha-vii}}"
+     "x": "Boahen's opening chapter in UNESCO's volume VII says about 80 per cent of Africa was still under African rule in 1880. He argues that the conquest of 1890 to 1910 followed years of treaty-making in which Europeans first treated African rulers as equals. Most rulers chose to defend their sovereignty and differed only in strategy: diplomacy, war or alliance. He objects to the label 'collaborator' for rulers such as Tofa of Porto Novo, Lat Dior, Wobogo and Samori, calling it Eurocentric and inaccurate. This supports the lesson's point that 'resist or collaborate' is too simple. He divides the period into sovereignty defence (1880 to 1919), accommodation and protest (1919 to 1935), and the Ethiopian invasion of 1935 as the break. {{gha-vii-ch01}}"
     },
     {
      "t": "p",
-     "x": "Uzoigwe's chapter dates the Scramble from 1876 to 1880 (Leopold, Portugal and French moves) rather than from the occupation of Egypt in 1882. He reads Articles 34 and 35 of the Berlin Act as rules on notification and effective occupation, and says political treaties were often fraudulent: Lugard himself called some of them utter fraud, and the Mwanga treaties were imposed, not negotiated. [CONTESTED] on the start date: the lesson's dates follow the other books, and volume VII is one view among them. {{gha-vii}}"
+     "x": "Uzoigwe's chapter dates the Scramble from 1876 to 1880 (Leopold, Portugal and French moves) rather than from the occupation of Egypt in 1882. He reads Articles 34 and 35 of the Berlin Act as rules on notification and effective occupation, and says political treaties were often fraudulent: Lugard himself called some of them utter fraud, and the Mwanga treaties were imposed, not negotiated. [CONTESTED] on the start date: the lesson's dates follow the other books, and volume VII is one view among them. {{gha-vii-ch02}}"
     },
     {
      "t": "check",
-     "q": "What is the most accurate sentence about the Berlin Conference?",
+     "q": "A textbook caption reads: 'At Berlin in 1884 to 1885 Europe drew the map of modern Africa.' Which sentence should replace it?",
      "o": [
       "It drew the map of modern Africa.",
       "It set ground rules and recognised Leopold's Congo claim; borders came from later bilateral deals.",
@@ -80,13 +80,14 @@
       "African kings signed its Act."
      ],
      "a": 1,
-     "w": "Hochschild treats the 'carved up' picture as a myth, and Reader's own narrative of effective occupation agrees. {{hs-berlin}}"
+     "w": "Hochschild treats the 'carved up' picture as a myth, and Reader's own narrative of effective occupation agrees. {{hs-berlin}}",
+     "kind": "application"
     },
     {
      "t": "fig",
      "id": "africa-post-colonial-tl1",
      "title": "Conquest, 1880 to 1912",
-     "cap": "Spans from the working library; bars show when each conquest or resistance lasted."
+     "cap": "Approximate spans; bars show when each conquest or resistance lasted."
     },
     {
      "t": "h",
@@ -175,7 +176,7 @@
       "Blame the Berlin Conference alone"
      ],
      "a": 1,
-     "w": "The library says a good answer names several causes and avoids a single one. {{lib}}"
+     "w": "A good answer names several causes and avoids a single one. {{lib}}"
     },
     {
      "t": "check",
@@ -343,23 +344,19 @@
     },
     {
      "t": "p",
-     "x": "Ibrahim's chapter dates the Urabi revolt to 02/1881, with army grievances over the Turco-Circassian hold on senior ranks. Alexandria was bombarded on 11/07/1882 and Tel el-Kebir fell on 13/09/1882, after which the occupation lasted 72 years. Ibrahim lists Urabi's mistakes as not deposing Tawfik and not blocking the Suez Canal. For Omdurman (02/09/1898) he gives nearly 11,000 Sudanese killed and about 16,000 wounded at Karari, while Uzoigwe says over 20,000 Sudanese died in the Sudan reconquest as a whole. The two are not counts of the same thing, so quote the Karari figure only for the battle. {{gha-vii}}"
+     "x": "Ibrahim's chapter dates the Urabi revolt to 02/1881, with army grievances over the Turco-Circassian hold on senior ranks. Alexandria was bombarded on 11/07/1882 and Tel el-Kebir fell on 13/09/1882, after which the occupation lasted 72 years. Ibrahim lists Urabi's mistakes as not deposing Tawfik and not blocking the Suez Canal. For Omdurman (02/09/1898) he gives nearly 11,000 Sudanese killed and about 16,000 wounded at Karari, while Uzoigwe says over 20,000 Sudanese died in the Sudan reconquest as a whole. The two are not counts of the same thing, so quote the Karari figure only for the battle. {{gha-vii-ch04}}"
     },
     {
      "t": "p",
-     "x": "Laroui describes a North African pattern: an incident, a claim of anarchy, a territorial pawn, delegated sovereignty by protectorate treaty (Tunisia, 12/05/1881), then 'pacification'. He says resistance failed largely on numbers: the Rif faced 300,000 French soldiers, and 10,000 people in the Middle Atlas faced 80,000 men. In West Africa, Gueye and Boahen record Lat Dior killed at Dekhle on 27/10/1886 after opposing the Dakar to Saint-Louis railway, and Ahmadu of the Tukulor allied with the French (Mango 1881, Gori 12/05/1887) before Archinard took Segu and Nioro in 1890 to 1891. Samori's army of 30,000 to 35,000 sofa copied Gras rifles in his own forges, had no artillery, and fought the French until his capture on 29/09/1898. Behanzin of Dahomey lost Abomey in 11/1892 and was arrested on 29/01/1894. Jaja was tricked aboard ship in 1887, Prempeh was exiled to the Seychelles, Benin was sacked in 1897 and the northern Nigerian emirates fell in 1900 to 1903 to Maxim guns. {{gha-vii}}"
+     "x": "Laroui describes a North African pattern: an incident, a claim of anarchy, a territorial pawn, delegated sovereignty by protectorate treaty (Tunisia, 12/05/1881), then 'pacification'. He says resistance failed largely on numbers: the Rif faced 300,000 French soldiers, and 10,000 people in the Middle Atlas faced 80,000 men. In West Africa, Gueye and Boahen record Lat Dior killed at Dekhle on 27/10/1886 after opposing the Dakar to Saint-Louis railway, and Ahmadu of the Tukulor allied with the French (Mango 1881, Gori 12/05/1887) before Archinard took Segu and Nioro in 1890 to 1891. Samori's army of 30,000 to 35,000 sofa copied Gras rifles in his own forges, had no artillery, and fought the French until his capture on 29/09/1898. Behanzin of Dahomey lost Abomey in 11/1892 and was arrested on 29/01/1894. Jaja was tricked aboard ship in 1887, Prempeh was exiled to the Seychelles, Benin was sacked in 1897 and the northern Nigerian emirates fell in 1900 to 1903 to Maxim guns. {{gha-vii-resist}}"
     },
     {
      "t": "p",
-     "x": "Isaacman and Vansina add that Chokwe, Ovimbundu and Chikunda fighters were often better armed than Free State and Portuguese troops, and that over 90 per cent of the Portuguese force that took the Zambezi valley in 1902 was made up of African levies. They count more than twenty insurrections in Central Africa up to 1918, led by royal families and spirit mediums (Chioco 1897; Barue 1917, which briefly freed the Zambezi valley until about 30,000 Nguni mercenaries intervened; Chilembwe 1915). {{gha-vii}}"
-    },
-    {
-     "t": "p",
-     "x": "Coverage note: the first conquest summary chapter (Uzoigwe) is only partly in the copy used; its text stops at p. 37 of 44, so its closing pages were not read. {{gha-vii}}"
+     "x": "Isaacman and Vansina add that Chokwe, Ovimbundu and Chikunda fighters were often better armed than Free State and Portuguese troops, and that over 90 per cent of the Portuguese force that took the Zambezi valley in 1902 was made up of African levies. They count more than twenty insurrections in Central Africa up to 1918, led by royal families and spirit mediums (Chioco 1897; Barue 1917, which briefly freed the Zambezi valley until about 30,000 Nguni mercenaries intervened; Chilembwe 1915). {{gha-vii-ch08}}"
     },
     {
      "t": "check",
-     "q": "Why is a colonial treaty weak evidence of consent?",
+     "q": "A museum displays a treaty with a chief's mark and labels it 'proof the chief agreed to British rule'. Why is that weak evidence of consent?",
      "o": [
       "It is always forged",
       "Translation, power imbalance and different meanings in each language",
@@ -367,7 +364,8 @@
       "Chiefs never signed anything"
      ],
      "a": 1,
-     "w": "The library lists missing translators and differing meanings. {{lib}}"
+     "w": "The library lists missing translators and differing meanings. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -480,15 +478,15 @@
     },
     {
      "t": "p",
-     "x": "Caldwell's chapter gives deaths of about 100 per thousand among contract labourers on São Tomé (1915) and on the Brazzaville to sea railway (1922), and 150 per thousand on the Cameroon railway before 1914. He quotes the Mossi saying that the white man's work eats people. He also cautions that population declines under the Free State were exaggerated by high pre-partition estimates, which tempers the strongest claims. [CONTESTED] on the size of the Congo loss, as the lesson already says. {{gha-vii}}"
+     "x": "Caldwell's chapter gives deaths of about 100 per thousand among contract labourers on São Tomé (1915) and on the Brazzaville to sea railway (1922), and 150 per thousand on the Cameroon railway before 1914. He quotes the Mossi saying that the white man's work eats people. He also cautions that population declines under the Free State were exaggerated by high pre-partition estimates, which tempers the strongest claims. [CONTESTED] on the size of the Congo loss, as the lesson already says. {{gha-vii-ch18}}"
     },
     {
      "t": "p",
-     "x": "Boahen's balance-sheet chapter, citing Caldwell, says the Congo's population halved in the first forty years of colonial rule, the Herero fell by four-fifths, the Nama by half and Libya lost 750,000. Caldwell himself was cautious about such claims, so treat these as Boahen's summary, not as counts. [ESTIMATE] {{gha-vii}}"
+     "x": "Boahen's balance-sheet chapter, citing Caldwell, says the Congo's population halved in the first forty years of colonial rule, the Herero fell by four-fifths, the Nama by half and Libya lost 750,000. Caldwell himself was cautious about such claims, so treat these as Boahen's summary, not as counts. [ESTIMATE] {{gha-vii-ch30}}"
     },
     {
      "t": "check",
-     "q": "Why is 'the 1908 handover ended forced labour' wrong?",
+     "q": "A student writes: 'Once Belgium took over the Congo in 1908, forced labour ended.' What is wrong with that sentence?",
      "o": [
       "Forced labour never existed.",
       "The system continued through taxes and the same personnel, so only the form changed.",
@@ -496,7 +494,8 @@
       "The Force Publique was disbanded."
      ],
      "a": 1,
-     "w": "Hochschild stresses continuity after 1908. {{hs-victory}}"
+     "w": "Hochschild stresses continuity after 1908. {{hs-victory}}",
+     "kind": "application"
     },
     {
      "t": "p",
@@ -528,7 +527,7 @@
     },
     {
      "t": "p",
-     "x": "Hochschild stresses that almost no African voice survives in writing for the worst years. The African American historian George Washington Williams wrote an Open Letter to Leopold on 18/07/1890, the first systematic indictment, though Hochschild notes he embellished his own record. The Commission of Inquiry of 1904 to 1905 took 370 depositions and kept them sealed until the 1980s. {{hs-intro}} {{hs-williams}} {{hs-inquiry}}"
+     "x": "Hochschild stresses that almost no African voice survives in writing for the worst years. The African American historian George Washington Williams wrote an Open Letter to Leopold in 07/1890, the first systematic indictment, though Hochschild notes he embellished his own record. {{hs-williams}} The Commission of Inquiry of 1904 to 1905 took 370 depositions. {{hs-spin}} The testimony was kept in a closed archive until the 1980s. {{hs-inquiry}} {{hs-williams}} {{hs-inquiry}}"
     },
     {
      "t": "h",
@@ -657,7 +656,7 @@
     },
     {
      "t": "check",
-     "q": "Why can the Congo Free State death toll not be known exactly?",
+     "q": "A website gives 'exactly 10 million' deaths in the Congo Free State. Why should you distrust a single exact figure?",
      "o": [
       "Leopold destroyed the Congo",
       "No census gave a baseline, and disease also killed many",
@@ -665,7 +664,8 @@
       "The figure is a state secret today"
      ],
      "a": 1,
-     "w": "The library gives the missing census and the disease problem. {{lib}}"
+     "w": "Two reasons: the missing census and the disease problem. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -751,7 +751,7 @@
     },
     {
      "t": "p",
-     "x": "Michael Crowder's chapter in volume VIII of the UNESCO history places colonies on a spectrum. At one end were settler colonies such as Southern Rhodesia, where settlers held 49 million acres, over half the land, by 1934, under the Land Apportionment Act of 1930. At the other end were colonies where Africans were the main producers, as in British West Africa. In between were company colonies like the Congo, where chefferies were cut from 6,095 in 1917 to 1,212 in 1938. Belgian rule was called indirect, but chiefs were closely supervised, as under French rule, and Crowder cites a study showing that even Nigerian indirect rule was supervised closely. {{gha-viii}}"
+     "x": "Michael Crowder's chapter in volume VIII of the UNESCO history places colonies on a spectrum. At one end were settler colonies such as Southern Rhodesia, where settlers held 49 million acres, over half the land, by 1934, under the Land Apportionment Act of 1930. At the other end were colonies where Africans were the main producers, as in British West Africa. In between were company colonies like the Congo, where chefferies were cut from 6,095 in 1917 to 1,212 in 1938. Belgian rule was called indirect, but chiefs were closely supervised, as under French rule, and Crowder cites a study showing that even Nigerian indirect rule was supervised closely. {{gha-viii-ch04}}"
     },
     {
      "t": "p",
@@ -786,7 +786,7 @@
     },
     {
      "t": "p",
-     "x": "Rodney's own chapter in the UNESCO General History, volume VII, argues that the colonial economy ran on coercion more than on capital. It lists taxes, forced labour such as the French prestation until 1944, pass laws and judicial floggings, and says foreign capital was small outside South Africa and Algeria. It also credits African farmers with driving cocoa and groundnut exports, and says they fought colonial rules to plant more profitable crops, as with Arabica coffee in Tanganyika. This is an argument written in the 1970s and not a settled count. {{gha-vii}}"
+     "x": "Rodney's own chapter in the UNESCO General History, volume VII, argues that the colonial economy ran on coercion more than on capital. It lists taxes, forced labour such as the French prestation until 1944, pass laws and judicial floggings, and says foreign capital was small outside South Africa and Algeria. It also credits African farmers with driving cocoa and groundnut exports, and says they fought colonial rules to plant more profitable crops, as with Arabica coffee in Tanganyika. This is an argument written in the 1970s and not a settled count. {{gha-vii-ch14}}"
     },
     {
      "t": "h",
@@ -849,7 +849,7 @@
     {
      "t": "callout",
      "k": "note",
-     "x": "UNESCO's volume VII gives the same Italian figures as Berkeley: 261 officers, 2,918 other ranks, about 2,000 askaris and 954 missing, with Menelik over 100,000 strong against about 17,000. It cites Berkeley (1902) for them, so it is the same chain as the encyclopaedia page and not an independent check. {{gha-vii}}"
+     "x": "UNESCO's volume VII gives the same Italian figures as Berkeley: 261 officers, 2,918 other ranks, about 2,000 askaris and 954 missing, with Menelik over 100,000 strong against about 17,000. It cites Berkeley (1902) for them, so it is the same chain as the encyclopaedia page and not an independent check. {{gha-vii-ch11}}"
     },
     {
      "t": "p",
@@ -865,40 +865,40 @@
     },
     {
      "t": "p",
-     "x": "Indirect rule. Lugard's 1906 instructions made the emir a partner with the Resident as adviser, but van Vollenhoven said in 1917 that the cercle commandant alone commands and the chief is an instrument. French 'association' worked only in Morocco under Lyautey. Betts argues that the chief became an administrative agent everywhere, so the contrast between French and British rule was one of procedure more than effect. {{gha-vii}}"
+     "x": "Indirect rule. Lugard's 1906 instructions made the emir a partner with the Resident as adviser, but van Vollenhoven said in 1917 that the cercle commandant alone commands and the chief is an instrument. French 'association' worked only in Morocco under Lyautey. Betts argues that the chief became an administrative agent everywhere, so the contrast between French and British rule was one of procedure more than effect. {{gha-vii-ch13}}"
     },
     {
      "t": "p",
-     "x": "After 1918. The Fourteen Points and the mandate idea of a 'sacred trust' raised hopes. Diagne was promised reforms that were never put into effect, Kenyan settlers won a majority on the Legislative Council, and the South African Native National Congress sent a memorandum to George V that never reached Versailles. Germany lost its colonies and the Ewe were split between powers. {{gha-vii}}"
+     "x": "After 1918. The Fourteen Points and the mandate idea of a 'sacred trust' raised hopes. Diagne was promised reforms that were never put into effect, Kenyan settlers won a majority on the Legislative Council, and the South African Native National Congress sent a memorandum to George V that never reached Versailles. Germany lost its colonies and the Ewe were split between powers. {{gha-vii-ch26}}"
     },
     {
      "t": "p",
-     "x": "Labour and the Depression. Coquery-Vidrovitch records unpaid service raised from seven to twelve days (French West Africa) or fifteen days (French Equatorial Africa). 127,250 men were recruited for the Congo-Ocean railway in 1921 to 1932, with probably some 20,000 deaths before 1928. Mozambican miners on the Rand averaged 50,000 a year in 1913 to 1930, 900,000 in total, with 35,000 deaths [ESTIMATE]. In the Depression the Belgian Congo's debt instalment took 88 per cent of 1933 revenue and exports fell by almost two-thirds from 1930 to 1933. The head tax hardly fell (French West Africa 156 to 153 million francs, 1929 to 1935) while producer prices collapsed, so peasants grew more cash crops to pay it. Requisition and famine in the two federations killed 250,000 to 300,000 people, and the Fang were reported to have halved from 140,000 to 65,000 by 1933. Niger had a famine in 1930 to 1931 with some mortality over 50 per cent [ESTIMATE, CONTESTED]. She and Rodney also argue that the 'dual economy' idea misleads, because the export sector took value from the village economy; Gold Coast cocoa hold-ups (1920 to 1921, 1930, 1938) showed the dependence. {{gha-vii}}"
+     "x": "Labour and the Depression. Coquery-Vidrovitch records unpaid service raised from seven to twelve days (French West Africa) or fifteen days (French Equatorial Africa). 127,250 men were recruited for the Congo-Ocean railway in 1921 to 1932, with probably some 20,000 deaths before 1928. Mozambican miners on the Rand averaged 50,000 a year in 1913 to 1930, 900,000 in total, with 35,000 deaths [ESTIMATE]. In the Depression the Belgian Congo's debt instalment took 88 per cent of 1933 revenue and exports fell by almost two-thirds from 1930 to 1933. The head tax hardly fell (French West Africa 156 to 153 million francs, 1929 to 1935) while producer prices collapsed, so peasants grew more cash crops to pay it. Requisition and famine in the two federations killed 250,000 to 300,000 people, and the Fang were reported to have halved from 140,000 to 65,000 by 1933. Niger had a famine in 1930 to 1931 with some mortality over 50 per cent [ESTIMATE, CONTESTED]. She and Rodney also argue that the 'dual economy' idea misleads, because the export sector took value from the village economy; Gold Coast cocoa hold-ups (1920 to 1921, 1930, 1938) showed the dependence. {{gha-vii-ch15}}"
     },
     {
      "t": "p",
-     "x": "Land, minerals and trade. In Kenya alienated land rose from about 2,000 hectares in 1903 to 260,000 in 1914 and 2.74 million in 1930. The Crown Lands Ordinance of 1915 lengthened leases from 99 to 999 years, and 64.8 per cent of European land was unproductive by 1930. A governor said in 1913 that taxation was the only way to make Africans seek work, the kipande pass came in 07/1920, and Africans were barred from coffee. The African share of Kenya's domestic exports fell from 24 to 9 per cent between 1913 and 1932, while the European share rose from 5 to 76 per cent. West Africa differed: the Aborigines' Rights Protection Society defeated the 1898 Lands Bill. Diamonds were closed to Africans (the Sierra Leone Selection Trust held a 99-year monopoly from 1933), a mining licence required reading the 1927 ordinance in English, and the United Africa Company handled nearly half of West Africa's overseas trade in the 1930s. {{gha-vii}}"
+     "x": "Land, minerals and trade. In Kenya alienated land rose from about 2,000 hectares in 1903 to 260,000 in 1914 and 2.74 million in 1930. The Crown Lands Ordinance of 1915 lengthened leases from 99 to 999 years, and 64.8 per cent of European land was unproductive by 1930. A governor said in 1913 that taxation was the only way to make Africans seek work, the kipande pass came in 07/1920, and Africans were barred from coffee. The African share of Kenya's domestic exports fell from 24 to 9 per cent between 1913 and 1932, while the European share rose from 5 to 76 per cent. West Africa differed: the Aborigines' Rights Protection Society defeated the 1898 Lands Bill. Diamonds were closed to Africans (the Sierra Leone Selection Trust held a 99-year monopoly from 1933), a mining licence required reading the 1927 ordinance in English, and the United Africa Company handled nearly half of West Africa's overseas trade in the 1930s. {{gha-vii-ch16}}"
     },
     {
      "t": "p",
-     "x": "North Africa. Algeria had 25,795 settler estates covering 2.334 million hectares in 1930, and 1.1 per cent of Muslim owners held 21 per cent of Muslim land. Tunisian settler estates covered 700,000 hectares in 1931. Moroccan phosphate exports rose from 8,232 tonnes in 1921 to 1.179 million in 1930. In Italian Libya, sheep fell from 800,000 (1926) to 98,000 (1933) and camels from 75,000 to 2,000, with some 85,000 settlers by 1936. {{gha-vii}}"
+     "x": "North Africa. Algeria had 25,795 settler estates covering 2.334 million hectares in 1930, and 1.1 per cent of Muslim owners held 21 per cent of Muslim land. Tunisian settler estates covered 700,000 hectares in 1931. Moroccan phosphate exports rose from 8,232 tonnes in 1921 to 1.179 million in 1930. In Italian Libya, sheep fell from 800,000 (1926) to 98,000 (1933) and camels from 75,000 to 2,000, with some 85,000 settlers by 1936. {{gha-vii-ch17}}"
     },
     {
      "t": "p",
-     "x": "Health and schools. In 1939 medical budgets were two shillings a head in the Gold Coast and five pence in Nigeria. Twelve hospitals served 4,000 Europeans in Nigeria while fifty-two served 40 million Africans, and the doctor ratio was worse in 1939 than in 1914. Boahen adds that no colonial government had an industry department before 1945, that exports were tied to one or two cash crops, and that cheap imports destroyed crafts. {{gha-vii}}"
+     "x": "Health and schools. In 1939 medical budgets were two shillings a head in the Gold Coast and five pence in Nigeria. {{gha-vii-ch18}} Rodney gives twelve modern hospitals for the 4,000 Europeans in Nigeria in the 1930s and fifty-two for 40 million Africans. {{rod-colonial}} Boahen adds and the doctor ratio was worse in 1939 than in 1914. Boahen adds that no colonial government had an industry department before 1945, that exports were tied to one or two cash crops, and that cheap imports destroyed crafts. {{gha-vii-ch29}}"
     },
     {
      "t": "p",
-     "x": "Weighing the balance. Boahen reports that Gann, Duignan, Perham and Lloyd see a credit balance and Rodney a one-armed bandit; he calls the positives mostly accidental by-products. His final verdict is that both 'unmitigated disaster' and 'blessing' overstate the case, and that colonialism meant growth without development. Against this, Ajayi calls colonialism an episode and Hopkins says the colonial economy mainly accelerated change already under way. [CONTESTED] between Rodney, Ajayi and Hopkins. Boahen's own view is that change was fastest in the economy and politics (borders, the army, an elite to whom power passed, the birth of nationalism) and shallow in culture, where he calls African change 'additive' and puts the elite at about 20 per cent of the population [ESTIMATE]. He adds that colonial writers such as Newton (1923) and Coupland (1928) denied that Africa had any history. {{gha-vii}}"
+     "x": "Weighing the balance. Boahen reports that Gann, Duignan, Perham and Lloyd see a credit balance and Rodney a one-armed bandit; he calls the positives mostly accidental by-products. His final verdict is that both 'unmitigated disaster' and 'blessing' overstate the case, and that colonialism meant growth without development. Against this, Ajayi calls colonialism an episode and Hopkins says the colonial economy mainly accelerated change already under way. [CONTESTED] between Rodney, Ajayi and Hopkins. Boahen's own view is that change was fastest in the economy and politics (borders, the army, an elite to whom power passed, the birth of nationalism) and shallow in culture, where he calls African change 'additive' and puts the elite at about 20 per cent of the population [ESTIMATE]. He adds that colonial writers such as Newton (1923) and Coupland (1928) denied that Africa had any history. {{gha-vii-ch30}}"
     },
     {
      "t": "callout",
      "k": "note",
-     "x": "Land shares in volume VII do not agree with each other. Kaniki says the 1913 Natives' Land Act reserved 88 per cent of South Africa for whites, yet gives figures a page later that work out at about 7 per cent for the reserves. Boahen's final chapter gives 89 per cent for whites, 37 per cent for Southern Rhodesia and 7 per cent for Kenya, which blend different dates and conflict with Kaniki's 50.8 per cent for Rhodesia after 1930. The course uses about 7 per cent of the land for African reserves in 1913 (13.7 per cent after 1936). [CONTESTED] {{gha-vii}}"
+     "x": "Land shares in volume VII do not agree with each other. Kaniki says the 1913 Natives' Land Act reserved 88 per cent of South Africa for whites, yet gives figures a page later that work out at about 7 per cent for the reserves. Boahen's final chapter gives 89 per cent for whites, 37 per cent for Southern Rhodesia and 7 per cent for Kenya, which blend different dates and conflict with Kaniki's 50.8 per cent for Rhodesia after 1930. Use about 7 per cent of the land for African reserves in 1913, enlarged later by the 1936 Act. [CONTESTED] {{gha-vii-ch16}}"
     },
     {
      "t": "p",
-     "x": "Adwa and survival. Liberia and Ethiopia survived through belief in their destiny, diplomacy and great-power rivalry (a secret tripartite convention of 1906 would have divided Ethiopia). Ethiopia alone had arms: the 1902 Adwa parade is put at about 600,000 troops [ESTIMATE, CONTESTED], while Liberia had a militia under 2,000 and debts that invited gunboat diplomacy. Menelik built Addis Ababa, the Djibouti railway concession dates from 1894 and the Bank of Abyssinia from 1905. {{gha-vii}}"
+     "x": "Adwa and survival. Liberia and Ethiopia survived through belief in their destiny, diplomacy and great-power rivalry (a secret tripartite convention of 1906 would have divided Ethiopia). Ethiopia alone had arms: the 1902 Adwa parade is put at about 600,000 troops [ESTIMATE, CONTESTED], while Liberia had a militia under 2,000 and debts that invited gunboat diplomacy. Menelik built Addis Ababa, the Djibouti railway concession dates from 1894 and the Bank of Abyssinia from 1905. {{gha-vii-ch12}}"
     },
     {
      "t": "check",
@@ -910,7 +910,7 @@
       "No rule at all"
      ],
      "a": 0,
-     "w": "The library gives Lugard's Nigeria as the example. {{lib}}"
+     "w": "Lugard's Nigeria is the standard example. {{lib}}"
     },
     {
      "t": "check",
@@ -953,7 +953,7 @@
     },
     {
      "t": "p",
-     "x": "Our library cites his view that the colonial period was short and that African institutions persisted. We did not read his books, so the method below is our application, not his words. {{lib}}"
+     "x": "His view is that the colonial period was short and that African institutions persisted. Source note: this rests on summaries, not his books, so the method below applies his view rather than quoting it. {{lib}}"
     },
     {
      "t": "h",

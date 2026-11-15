@@ -22,7 +22,7 @@
      "t": "fig",
      "id": "africa-pre-colonial-tl5",
      "title": "Guinea coast and forest timeline",
-     "cap": "Approximate spans from the working library; open ends mean no firm end is given."
+     "cap": "Approximate spans. An open end means no firm end date is known."
     },
     {
      "t": "h",
@@ -30,7 +30,7 @@
     },
     {
      "t": "p",
-     "x": "Igbo-Ukwu lies in south-eastern Nigeria. Excavations by Thurstan Shaw in 1959 to 60 found elaborate lost-wax bronzes, dated to about the 9th to 10th centuries [PROBABLE]. It shows a sophisticated metal tradition in a society without an obvious large state. {{lib}}"
+     "x": "Igbo-Ukwu lies in south-eastern Nigeria. Excavations by Thurstan Shaw in 1959 to 60 found elaborate lost-wax bronzes, dated to about the 9th to 10th centuries [PROBABLE]. It shows a sophisticated metal tradition in a society without an obvious large state. {{smarthistory-igbo}} {{springer-igbo}}"
     },
     {
      "t": "p",
@@ -46,7 +46,7 @@
     },
     {
      "t": "p",
-     "x": "Ife is the spiritual centre of the Yoruba, with the myth of Oduduwa. Naturalistic heads in terracotta and copper alloy date to roughly the 12th to 15th centuries [PROBABLE, dates approximate]. {{lib}}"
+     "x": "Ife is the spiritual centre of the Yoruba, with the myth of Oduduwa. Naturalistic heads in terracotta and copper alloy date to roughly the 12th to 15th centuries [PROBABLE, dates approximate]. {{met-ife}} {{afhx-ife}} {{ife-openedition}}"
     },
     {
      "t": "p",
@@ -58,11 +58,11 @@
     },
     {
      "t": "p",
-     "x": "In 1910 the German ethnologist Leo Frobenius claimed such art could not be African and suggested a Greek or Atlantean origin. That view has since been rejected as racist and unsupported. {{lib}}"
+     "x": "In 1910 the German ethnologist Leo Frobenius claimed such art could not be African and suggested a Greek or Atlantean origin. That view has since been rejected as racist and unsupported. {{natgeo-ife}} {{universalis-ife}}"
     },
     {
      "t": "table",
-     "title": "Anatomy of the Frobenius claim (our analysis of the library's verdict)",
+     "title": "Anatomy of the Frobenius claim",
      "head": [
       "Element",
       "Content",
@@ -98,32 +98,34 @@
     },
     {
      "t": "check",
-     "q": "Who made the claim that Ife art could not be African?",
+     "q": "A 1910 writer says the Ife heads are too fine to be African and must come from a lost Atlantis. How should you treat the claim?",
      "o": [
-      "Thurstan Shaw",
-      "Leo Frobenius",
-      "Samuel Johnson",
-      "Patrick Darling"
+      "As expert evidence",
+      "As Frobenius's racist speculation, refuted by excavation and dating of Ife works",
+      "As oral tradition",
+      "As a Portuguese report"
      ],
      "a": 1,
-     "w": "Frobenius in 1910. {{lib}}"
+     "w": "Frobenius made the claim in 1910. {{natgeo-ife}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What does Igbo-Ukwu show?",
+     "q": "A student argues that complex metalwork needs a large kingdom behind it. Which find tests that idea best?",
      "o": [
-      "A large empire",
-      "Sophisticated lost-wax metalwork in a society without an obvious large state",
-      "Roman trade",
-      "Portuguese bronzes"
+      "Great Zimbabwe",
+      "Igbo-Ukwu: sophisticated lost-wax metalwork in a society without an obvious large state",
+      "Leptis Magna",
+      "Fort Jesus"
      ],
      "a": 1,
-     "w": "That is Shaw's finding [PROBABLE]. {{lib}}"
+     "w": "That is Shaw's finding [PROBABLE]. {{springer-igbo}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Igbo-Ukwu bronzes date to about the 9th to 10th centuries [PROBABLE]. {{lib}}",
+      "Igbo-Ukwu bronzes date to about the 9th to 10th centuries [PROBABLE]. {{springer-igbo}} {{smarthistory-igbo}}",
       "Ife heads are Yoruba work; the Frobenius claim is rejected.",
       "Complex art does not need a large state."
      ]
@@ -137,7 +139,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Benin is the kingdom of the Edo people. Tradition places the first Oba, Eweka I, around 1180 and a revived monarchy under Oba Ewuare in the 15th century [TRADITIONAL DATE]. Portuguese traders arrived in the 1480s. {{lib}}"
+     "x": "Benin is the kingdom of the Edo people. Tradition places the first Oba, Eweka I, around 1180 (other sources put him about 1200 or about 1300, so the date is disputed) and a revived monarchy under Oba Ewuare in the 15th century [TRADITIONAL DATE]. Portuguese traders arrived in the 1480s. {{met-benin}} {{nms-benin}} {{blackpast-obas}}"
     },
     {
      "t": "p",
@@ -145,7 +147,7 @@
     },
     {
      "t": "p",
-     "x": "The court guild of brass casters made plaques and heads from the 16th and 17th centuries. The plaques record court life, officials and Portuguese visitors. {{lib}}"
+     "x": "The court guild of brass casters made plaques and heads from the 16th and 17th centuries. The plaques record court life, officials and Portuguese visitors. {{bm-benin}} {{met-plaque}}"
     },
     {
      "t": "h",
@@ -153,7 +155,7 @@
     },
     {
      "t": "p",
-     "x": "A network of banks and ditches surrounds the city and its hinterland. A survey by Patrick Darling reported a vast total length, and a figure of 16,000 km is widely quoted. That figure comes from one survey and is [CONTESTED] pending independent replication. {{lib}}"
+     "x": "A network of banks and ditches surrounds the city and its hinterland. A survey by Patrick Darling reported a vast total length, and a figure of 16,000 km is widely quoted. That figure comes from one survey and is [CONTESTED] pending independent replication. {{nasa-benin}} {{wiki-benin-moat}} {{guinness-benin}}"
     },
     {
      "t": "h",
@@ -161,11 +163,11 @@
     },
     {
      "t": "p",
-     "x": "After the killing of a British delegation in January 1897, a British force took Benin City in February 1897, exiled the Oba, Ovonramwen, and removed thousands of objects now in museums worldwide. {{lib}}"
+     "x": "After the killing of a British delegation in January 1897, a British force took Benin City in February 1897, exiled the Oba, Ovonramwen, and removed thousands of objects now in museums worldwide. {{bm-benin}} {{smarthistory-benin}}"
     },
     {
      "t": "p",
-     "x": "Since 2021 several institutions have returned objects or transferred ownership. The position changes, so check the current status before citing it [check current]. {{lib}}"
+     "x": "Since 2021 several institutions have returned objects or transferred ownership. The position changes, so check the current status before citing it [check current]. {{uzh-benin}} {{museumsassoc-benin}} {{smithsonian-benin}}"
     },
     {
      "t": "table",
@@ -217,7 +219,7 @@
     },
     {
      "t": "check",
-     "q": "Why does the library say check current for restitution?",
+     "q": "Why should you check the current position before writing about restitution?",
      "o": [
       "Nothing has been returned",
       "Positions change as institutions decide",
@@ -244,11 +246,11 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Oyo was a Yoruba kingdom with an Alaafin, the king, checked by a council of state called the Oyo Mesi and a powerful chief called the Bashorun. Cavalry raised from the north and tribute from neighbours underpinned its power in the 17th and 18th centuries. {{lib}}"
+     "x": "Oyo was a Yoruba kingdom with an Alaafin, the king, checked by a council of state called the Oyo Mesi and a powerful chief called the Bashorun. Cavalry raised from the north and tribute from neighbours underpinned its power in the 17th and 18th centuries. {{wiki-oyo}} {{africanhistoryextra-oyo}}"
     },
     {
      "t": "p",
-     "x": "Decline followed the revolt at Ilorin (c. 1817), the spread of the Sokoto jihad and civil wars. Old Oyo was abandoned in the 1830s. {{lib}}"
+     "x": "Decline followed the revolt at Ilorin (c. 1817), the spread of the Sokoto jihad and civil wars. Old Oyo was abandoned in the 1830s. {{wiki-oyo}} {{africanhistoryextra-oyo}} {{law-oyo}}"
     },
     {
      "t": "h",
@@ -256,7 +258,7 @@
     },
     {
      "t": "p",
-     "x": "Akan states were unified by Osei Tutu in the late 17th century, traditionally c. 1701 with victory over Denkyira at Feyiase [TRADITIONAL DATE]. The Golden Stool is said to have been brought down by the priest Okomfo Anokye and became the symbol of the union. The story is a founding myth with a political purpose. {{lib}}"
+     "x": "Akan states were unified by Osei Tutu in the late 17th century, traditionally c. 1701 with victory over Denkyira at Feyiase [TRADITIONAL DATE]. The Golden Stool is said to have been brought down by the priest Okomfo Anokye and became the symbol of the union. The story is a founding myth with a political purpose. {{ency-osei}} {{wiki-asante}} {{brit-asante}}"
     },
     {
      "t": "p",
@@ -272,7 +274,7 @@
     },
     {
      "t": "p",
-     "x": "Asante grew rich on gold, kola and the sale of captives. Kumasi had an elaborate administration studied by Ivor Wilks. Wars with Britain include 1824, when Asante defeated and killed Governor MacCarthy, and 1873 to 74, when the British took Kumasi. {{lib}}"
+     "x": "Asante grew rich on gold, kola and the sale of captives. Kumasi had an elaborate administration studied by Ivor Wilks. Wars with Britain include 1824, when Asante defeated and killed Governor MacCarthy, and 1873 to 74, when the British took Kumasi. {{brit-asante}} {{countrystudies-ghana}} {{blackpast-anglo}}"
     },
     {
      "t": "h",
@@ -280,7 +282,7 @@
     },
     {
      "t": "p",
-     "x": "The Fon kingdom of Abomey was powerful under Agaja (r. 1708 to 40), who conquered Allada (1724) and Whydah (1727) and reached the coast. Oyo then made Dahomey a tributary from about 1730. The state was highly centralised, held a royal monopoly on the trade in captives, and held the annual Customs ceremonies. {{lib}}"
+     "x": "The Fon kingdom of Abomey was powerful under Agaja (r. 1708 to 40), who conquered Allada (1724) and Whydah (1727) and reached the coast. Oyo then made Dahomey a tributary from about 1730. The state was highly centralised, held a royal monopoly on the trade in captives, and held the annual Customs ceremonies. {{brit-agaja}} {{wiki-agaja}} {{brit-dahomey}}"
     },
     {
      "t": "p",
@@ -335,15 +337,16 @@
     },
     {
      "t": "check",
-     "q": "What was the Oyo Mesi?",
+     "q": "A textbook calls the Alaafin of Oyo an absolute ruler. Which institution should you raise against that?",
      "o": [
-      "A cavalry unit",
-      "A council of state that checked the Alaafin",
-      "A trading company",
-      "A brass guild"
+      "The Agojie",
+      "The Oyo Mesi, a council of state that checked the Alaafin",
+      "The Golden Stool",
+      "The Aro oracle"
      ],
      "a": 1,
-     "w": "The Oyo Mesi was the council checking the king. {{lib}}"
+     "w": "The Oyo Mesi was the council checking the king. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -374,7 +377,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Not every society had a king. The Aro of south-eastern Nigeria built a trading network around the Ibini Ukpabi oracle at Arochukwu and were active in the slave trade in the 18th century. The point is that a state is one form of order, not the measure of complexity. {{lib}}"
+     "x": "Not every society had a king. The Aro of south-eastern Nigeria built a trading network around the Ibini Ukpabi oracle at Arochukwu and were active in the slave trade in the 18th century. The point is that a state is one form of order, not the measure of complexity. {{wiki-aro}}"
     },
     {
      "t": "h",
@@ -390,7 +393,7 @@
     },
     {
      "t": "p",
-     "x": "Other African sources include court oral traditions (Benin's court historians, Akan drum histories), royal regalia and palaces, and the UNESCO-listed Royal Palaces of Abomey. {{lib}}"
+     "x": "Other African sources include court oral traditions (Benin's court historians, Akan drum histories), royal regalia and palaces, and the UNESCO-listed Royal Palaces of Abomey. {{unesco-abomey}}"
     },
     {
      "t": "example",
@@ -447,15 +450,16 @@
     },
     {
      "t": "check",
-     "q": "What does the Aro network show?",
+     "q": "A map shows Igboland as 'empty' because it had no kingdom. Which example best challenges that map?",
      "o": [
-      "Every society needed a king",
-      "State is one form of order; trade networks can be complex without one",
-      "Oracles were banned",
-      "The Aro had no trade"
+      "The Oyo cavalry",
+      "The Aro trading network built around the Ibini Ukpabi oracle",
+      "Dahomey's Agojie",
+      "Benin's walls"
      ],
      "a": 1,
-     "w": "The Aro built a network around the Ibini Ukpabi oracle. {{lib}}"
+     "w": "State is one form of order; trade networks can be complex without one. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -509,11 +513,11 @@
     },
     {
      "t": "p",
-     "x": "For the comparison table, check each cell has an entry and that each state has one contested point. Osei Tutu's date for Asante, Hangbe and the Agojie for Dahomey, and Agaja's aims are contested. For Oyo the working library gives no specific contested point in this module, so write none rather than invent one. {{lib}}"
+     "x": "For the comparison table, check each cell has an entry and that each state has one contested point. Osei Tutu's date for Asante, Hangbe and the Agojie for Dahomey, and Agaja's aims are contested. This module gives no specific contested point for Oyo, so write none rather than invent one. {{lib}}"
     },
     {
      "t": "check",
-     "q": "What should you do when the library gives no contested point for a state?",
+     "q": "What should you do when your evidence gives no contested point for a state?",
      "o": [
       "Invent one",
       "Say none is given",
@@ -546,7 +550,7 @@
   },
   {
    "id": "l6",
-   "title": "What the supplied books add to states and stateless societies",
+   "title": "What the books add to states and stateless societies",
    "min": 28,
    "blocks": [
     {
@@ -564,7 +568,7 @@
      "rows": [
       [
        "Diop (1960)",
-       "All pre-colonial Africa was covered by monarchies and empires; no spot, even in forest, escaped monarchic authority; there was no feudalism because land belonged to no one. {{dpc-state}}",
+       "All pre-colonial Africa was covered by monarchies and empires; no spot, even in forest, escaped monarchic authority; there was no feudalism because land belonged to no one. {{dpc-state-007}}",
        "Igbo society and Jenne-jeno had no kings in the course. Land tenure in states was varied. [CONTESTED]"
       ],
       [
@@ -574,7 +578,7 @@
       ],
       [
        "Rodney (1972)",
-       "Societies before 1500 were transitional between communalism and feudalism; the slave trade then changed them. {{rod-trade}}",
+       "Societies before 1500 were transitional between communalism and feudalism; the slave trade then changed them. {{rod-trade-006}}",
        "A Marxist frame; use it as one reading."
       ]
      ],
@@ -590,7 +594,7 @@
     },
     {
      "t": "p",
-     "x": "Reader dates the Igbo-Ukwu burial and its lost-wax bronzes to the 10th century, anchored by dated mining debris of AD 895 to 1000, and says it held a crown, regalia and 165,000 glass and carnelian beads, in a region with no states. {{rd-gold}} Rodney gives a single span, the 14th and 15th centuries, for Ife and Benin bronzes. {{rod-pre}} The lesson ranges are tighter (Ife heads about the 12th to 15th centuries; Benin plaques the 16th and 17th); the book's span is a 1972 generalisation. [PROBABLE]"
+     "x": "Reader dates the Igbo-Ukwu burial and its lost-wax bronzes to the 10th century, anchored by dated mining debris of AD 895 to 1000, and says it held a crown, regalia and 165,000 glass and carnelian beads, in a region with no states. {{rd-gold}} Rodney gives a single span, the 14th and 15th centuries, for Ife and Benin bronzes. {{rod-pre-009}} The lesson ranges are tighter (Ife heads about the 12th to 15th centuries; Benin plaques the 16th and 17th); the book's span is a 1972 generalisation. [PROBABLE]"
     },
     {
      "t": "h",
@@ -613,7 +617,7 @@
       [
        "Asante",
        "Rose on gold and flintlock muskets; Osei Tutu; the Asantemanhyiamu council; a trading empire of about 250,000 km2 by 1820. {{rd-after}}",
-       "Absorbed captives locally, as Odonko-ba descendants. {{rod-trade}}"
+       "Absorbed captives locally, as Odonko-ba descendants. {{rod-trade-009}}"
       ],
       [
        "Dahomey",
@@ -631,11 +635,11 @@
     {
      "t": "callout",
      "k": "warn",
-     "x": "Reader's sacrifice figures for Asante and Dahomey come from visitors such as Bowdich and Burton, who wrote for audiences that wanted horror. Treat counts as [THIN EVIDENCE]. His report of forty-one young women in a well at Benin City, dated before AD 1200 and read as ritual sacrifice, is a single archaeological report, so say only 'reported'. {{rd-slave}}"
+     "x": "Reader's sacrifice figures for Asante and Dahomey come from European visitors such as Bowdich and Burton. Burton, British consul at the Dahomey court in 1863, himself concluded that its sacrificial customs had been greatly exaggerated. {{rd-after}} Treat counts as [THIN EVIDENCE]. His report of forty-one young women in a well at Benin City, dated before AD 1200 and read as ritual sacrifice, is a single archaeological report, so say only 'reported'. {{rd-slave}}"
     },
     {
      "t": "p",
-     "x": "Rodney reads Ibadan as selling its own captives and serfs for guns, which undermined its base. {{rod-trade}} Other historians stress war among Yoruba states after Oyo fell. Present Rodney's reading as one interpretation. [CONTESTED]"
+     "x": "Rodney reads Ibadan as selling its own captives and serfs for guns, which undermined its base. {{rod-trade-009}} Other historians stress war among Yoruba states after Oyo fell. Present Rodney's reading as one interpretation. [CONTESTED]"
     },
     {
      "t": "h",
@@ -655,7 +659,7 @@
     },
     {
      "t": "p",
-     "x": "Woodson's 1928 Yoruba creation tale has the younger son Odudua scatter earth with a hen and the elder Orisha drunk on palm wine. That differs from the common Ife telling in which Obatala moulds people and Oduduwa comes later, so it is a second variant for the founding-myth checklist. {{wood-tales}} His tale of why children belong to the mother, and the Fang legend of Ngurangurane, record beliefs about custody and tribute, not events. {{wood-tales}} Diop's matching of Yoruba, Serer and Peul names to Egyptian words by sound alone is chance resemblance. {{dio-egypt}} Frobenius, whose Atlantis claim for Ife the course rejects, is cited approvingly by Diop; the same source can serve opposite arguments. {{dio-method}}"
+     "x": "Woodson's 1928 Yoruba creation tale has the younger son Odudua scatter earth with a hen and the elder Orisha drunk on palm wine. That differs from the common Ife telling in which Obatala moulds people and Oduduwa comes later, so it is a second variant for the founding-myth checklist.  His tale of why children belong to the mother, and the Fang legend of Ngurangurane, record beliefs about custody and tribute, not events. {{wood-tales}} Diop's matching of Yoruba, Serer and Peul names to Egyptian words by sound alone is chance resemblance. {{dio-egypt-006}} Frobenius, whose Atlantis claim for Ife the course rejects, is cited approvingly by Diop; the same source can serve opposite arguments. {{dio-method-006}}"
     },
     {
      "t": "check",
@@ -671,15 +675,16 @@
     },
     {
      "t": "check",
-     "q": "When did Reader date the Igbo-Ukwu burial?",
+     "q": "A label dates the Igbo-Ukwu burial to the fifteenth century and links it to the Portuguese. What does Reader's evidence let you correct?",
      "o": [
-      "The 3rd century",
-      "The 10th century, from dated mining debris",
-      "The 15th century",
-      "The 19th century"
+      "Nothing",
+      "He cites mining debris radiocarbon-dated to the tenth century, centuries before the Portuguese",
+      "It is Roman",
+      "It is nineteenth century"
      ],
      "a": 1,
-     "w": "He cites mining debris dated by radiocarbon to the 10th century. {{rd-gold}}"
+     "w": "He cites mining debris dated by radiocarbon to the 10th century. {{rd-gold}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -867,15 +872,16 @@
     },
     {
      "t": "check",
-     "q": "What does Ryder say about lost-wax brass casting at Benin?",
+     "q": "A catalogue says Benin's cast brass is older than the tenth century. Using Ryder (1984), what is the more careful claim?",
      "o": [
-      "It is proved to be older than the tenth century",
-      "Brass from before the sixteenth century was forged, and casting became important with imported European brass",
-      "It was taught by the Portuguese in 1485",
-      "It never happened at Benin"
+      "The catalogue is right",
+      "Brass from before the sixteenth century was forged, and casting grew with imported European brass",
+      "The Portuguese taught casting in 1485",
+      "Benin never cast brass"
      ],
      "a": 1,
-     "w": "This is his reading of the archaeology as of 1984. {{gha4-ryder}}"
+     "w": "This is his reading of the archaeology as of 1984. {{gha4-ryder}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -947,15 +953,16 @@
     },
     {
      "t": "check",
-     "q": "Why did Oyo's expansion stop at the Ijesha?",
+     "q": "Oyo's cavalry conquered widely in the savanna but stopped at the Ijesha. What explanation fits the evidence?",
      "o": [
-      "Treaty with Portugal",
-      "Its cavalry could not operate in forest",
+      "A treaty with Portugal",
+      "Its cavalry could not operate in the forest",
       "Famine",
       "Ife forbade it"
      ],
      "a": 1,
-     "w": "Alagoa gives the forest as the barrier. {{gha5-alagoa}}"
+     "w": "Alagoa gives the forest as the barrier. {{gha5-alagoa}}",
+     "kind": "application"
     },
     {
      "t": "h",
@@ -1019,7 +1026,7 @@
     },
     {
      "t": "p",
-     "x": "Diagne treats the royal message axes of Dahomey as a writing system: the Recade of Dakodonu, dated 1625 to 1650 and described by Le Herisse, can be read as picto-phonograms giving the king's name, and the Recade of Gezo shows the king as a buffalo. The comparison with the Palette of Narmer rests on similarity of method, not on shown contact. {{gha1-diagne}} [CONTESTED]"
+     "x": "Diagne treats the royal message axes of Dahomey as a writing system: the Recade of Dakodonu, described by Le Herisse, can be read as picto-phonograms giving the king's name, and the Recade of Gezo shows the king as a buffalo. The comparison with the Palette of Narmer rests on similarity of method, not on shown contact. {{gha1-diagne}} [CONTESTED]"
     },
     {
      "t": "h",
@@ -1137,8 +1144,8 @@
      "t": "example",
      "title": "Which claim to trust",
      "steps": [
-      "We did not check what Johnson wrote about the Oyo Mesi, so take the institution from the library's description of Oyo and use Johnson as one voice among several (our caution).",
-      "Where a source of this kind gives exact dates for early kings, treat them as traditional until another source supports them (our caution). {{lib}}"
+      "Take the Oyo Mesi from the general account of Oyo, and treat Johnson as one voice among several.",
+      "Where a source of this kind gives exact dates for early kings, treat them as traditional until another source supports them. {{lib}}"
      ]
     },
     {
@@ -1160,15 +1167,16 @@
     },
     {
      "t": "check",
-     "q": "When did Johnson finish the manuscript, and when was the book published?",
+     "q": "You quote The History of the Yorubas (1921) as Samuel Johnson's words. What must you add?",
      "o": [
-      "1897 and 1921",
-      "1921 and 1897",
-      "1846 and 1901",
-      "1500 and 1600"
+      "Nothing",
+      "He finished in 1897 but the manuscript was lost; his brother Obadiah rebuilt the text from notes, so it is a joint product",
+      "It was written in 1500",
+      "It was banned"
      ],
-     "a": 0,
-     "w": "The brother reconstructed it after his death. {{bu-johnson}}"
+     "a": 1,
+     "w": "The brother reconstructed it after his death. {{bu-johnson}}",
+     "kind": "application"
     },
     {
      "t": "check",

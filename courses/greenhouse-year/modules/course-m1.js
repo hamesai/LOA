@@ -73,7 +73,7 @@
     },
     {
      "t": "check",
-     "q": "Why does a small greenhouse swing in temperature faster than a large one?",
+     "q": "Your 6 x 8 ft greenhouse heats up fast every time you leave the door open, while your neighbour's big house barely changes. Why?",
      "o": [
       "Its covering is thinner",
       "Its air volume is small, so a door opening changes the temperature quickly",
@@ -81,11 +81,12 @@
       "It is never vented"
      ],
      "a": 1,
-     "w": "NC State: temperatures in small greenhouses fluctuate more rapidly because the air volume is small."
+     "w": "NC State: temperatures in small greenhouses fluctuate more rapidly because the air volume is small.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "With only ventilation and no other cooling, how cool can the greenhouse get?",
+     "q": "On a 28°C day you open every vent and run the fan but add no shade or evaporative cooling. What is the best you can hope for inside?",
      "o": [
       "Below the outdoor temperature",
       "About the same as the outdoor temperature at best",
@@ -93,7 +94,8 @@
       "As cool as you set the vents"
      ],
      "a": 1,
-     "w": "Rutgers: with no other cooling capability the indoor temperature cannot be lowered below the outdoor temperature."
+     "w": "Rutgers: with no other cooling capability the indoor temperature cannot be lowered below the outdoor temperature.",
+     "kind": "application"
     },
     {
      "t": "take",

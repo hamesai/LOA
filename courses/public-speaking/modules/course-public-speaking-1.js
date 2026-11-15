@@ -124,7 +124,8 @@
       "Ceremonial"
      ],
      "a": 2,
-     "w": "Reporting progress shares information. {{sus-why}}"
+     "w": "Reporting progress shares information. {{sus-why}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -410,7 +411,7 @@
     },
     {
      "t": "check",
-     "q": "Which is true according to the text?",
+     "q": "Your friend says any nerves before a talk mean it will go badly. Which response does the text support?",
      "o": [
       "Imagining the audience naked reduces nerves",
       "A little nervousness can help a speech",
@@ -418,11 +419,12 @@
       "Audiences see exactly how nervous you are"
      ],
      "a": 1,
-     "w": "The text says a little nervousness helps. {{sus-ca}}"
+     "w": "The text says a little nervousness helps. {{sus-ca}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Anxiety only about formal, unfamiliar settings is which type?",
+     "q": "Chris is relaxed chatting at work but dreads speaking at a formal awards dinner in a new venue. Which type of anxiety is this?",
      "o": [
       "Trait",
       "Context",
@@ -430,7 +432,8 @@
       "Situational only"
      ],
      "a": 1,
-     "w": "Formality, uncertainty and novelty drive context anxiety. {{sus-ca2}}"
+     "w": "Formality, uncertainty and novelty drive context anxiety. {{sus-ca2}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -545,7 +548,7 @@
     },
     {
      "t": "check",
-     "q": "When does anxiety typically peak, according to the study cited?",
+     "q": "You feel worst in the five minutes before you stand up. On the study cited, is that unusual, and what should you plan for?",
      "o": [
       "Mid-speech",
       "Just before starting",
@@ -553,11 +556,12 @@
       "After the speech"
      ],
      "a": 1,
-     "w": "It peaked at the anticipatory stage. {{sus-ca3}}"
+     "w": "It peaked at the anticipatory stage. {{sus-ca3}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What does the NHS advise if anxiety about social situations has a big impact on your life?",
+     "q": "A classmate avoids every meeting and phone call because of anxiety, and it is affecting their job. What does the NHS advise?",
      "o": [
       "Ignore it",
       "See a GP or self-refer to NHS talking therapies",
@@ -565,7 +569,8 @@
       "Avoid all speaking"
      ],
      "a": 1,
-     "w": "It advises seeing a GP and mentions self-referral. {{nhs-social}}"
+     "w": "It advises seeing a GP and mentions self-referral. {{nhs-social}}",
+     "kind": "application"
     },
     {
      "t": "take",

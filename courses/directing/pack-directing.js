@@ -362,9 +362,10 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "Write a one-line theme and a one-sentence target audience for a play, and list one change you would make for that audience.",
+     "task": "Write a one-line theme and a one-sentence target audience for a play you know, and name one staging change you would make for that audience and why.",
      "key": "A short theme line, an audience sentence with an age window, and one concrete change.",
-     "check": "Could someone else repeat the theme from memory?"
+     "check": "Could someone else repeat the theme from memory?",
+     "kind": "application"
     },
     {
      "id": "C3",
@@ -403,9 +404,10 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "Divide a two-page scene into units. Name each objective with a verb, a partner and a physical action.",
+     "task": "Divide a two-page scene into units. Name each objective with a verb, a partner and a physical action, and mark the one unit you would rehearse first and why.",
      "key": "Three or four units, each with a verb, partner and action.",
-     "check": "Is each objective aimed at another person and active?"
+     "check": "Is each objective aimed at another person and active?",
+     "kind": "application"
     },
     {
      "id": "C3",
@@ -868,7 +870,7 @@ ARCHIVE_ADD({
     "w": "Triangles create a focal point."
    },
    {
-    "q": "What does Garcia's distance guide say about 5 to 7 feet?",
+    "q": "Two actors play a quarrel standing 6 feet apart. On Garcia's distance guide, what does that distance suggest?",
     "o": [
      "Intimacy",
      "The edge of a fight",
@@ -876,7 +878,8 @@ ARCHIVE_ADD({
      "A secret"
     ],
     "a": 1,
-    "w": "He says that distance looks like the edge of a physical conflict."
+    "w": "He says that distance looks like the edge of a physical conflict.",
+    "kind": "application"
    },
    {
     "q": "Which screen tool replaces stage height?",

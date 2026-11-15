@@ -48,7 +48,7 @@
     },
     {
      "t": "p",
-     "x": "UNESCO's volume VIII gives a figure for the violence of 11/1959: 200 to 270 killed, over 1,200 arrests and about 7,000 people made victims of destruction, which is a range beside HRW's 'several hundred'. It dates the Gitarama coup, which deposed the mwami and proclaimed a republic, to 28/01/1961, and says Belgium, breaking with its earlier policy, backed the Hutu. {{gha-viii}}"
+     "x": "UNESCO's volume VIII gives a figure for the violence of 11/1959: 200 to 270 killed, over 1,200 arrests and about 7,000 people made victims of destruction, which is a range beside HRW's 'several hundred'. It dates the Gitarama coup, which deposed the mwami and proclaimed a republic, to 28/01/1961, and says Belgium, breaking with its earlier policy, backed the Hutu. {{gha-viii-ch08}}"
     },
     {
      "t": "p",
@@ -62,7 +62,7 @@
      "t": "fig",
      "id": "africa-post-colonial-tl7",
      "title": "Events from 1994 to the present",
-     "cap": "Spans from the working library; open ends are not settled [check current]."
+     "cap": "Approximate spans; open ends are not settled [check current]."
     },
     {
      "t": "h",
@@ -82,7 +82,7 @@
     },
     {
      "t": "p",
-     "x": "HRW sets out the international failure in more detail than Carlsson. The UN force was one third the size first recommended, and Belgium sent about 400 of the 800 troops requested. The US and the UK in 02/1994 refused a stronger mandate that would add cost. Dallaire and other military experts said 5,000 experienced soldiers could have ended the genocide even in the later weeks. Officials avoided the word genocide and spoke of 'chaos' and 'tribal' killing. The second force landed only after the RPF had won. Operation Turquoise used about 2,500 French troops and saved 15,000 to 17,000 lives, but also let genocidal officials flee. About 500 UN peacekeepers protected about twice that number. {{hrw-rwanda}}"
+     "x": "HRW sets out the international failure in more detail than Carlsson. The UN force was one third the size first recommended, and Belgium supplied some 400 of the nearly 1,300 peacekeepers deployed by the end of 12/1993. {{hrw-rwanda-p13}} The US and the UK in 02/1994 refused a stronger mandate that would add cost. Dallaire and other military experts said 5,000 experienced soldiers could have ended the genocide even in the later weeks. Officials avoided the word genocide and spoke of 'chaos' and 'tribal' killing. The second force landed only after the RPF had won. Operation Turquoise used about 2,500 French troops and saved 15,000 to 17,000 lives, but also let genocidal officials flee. About 500 UN peacekeepers protected about twice that number. {{hrw-rwanda}}"
     },
     {
      "t": "p",
@@ -107,7 +107,7 @@
      "rows": [
       [
        "At least 500,000 and perhaps close to a million",
-       "The working library [ESTIMATE, CONTESTED]",
+       "Several secondary estimates [ESTIMATE, CONTESTED]",
        "Rwanda's own census is higher than some independent estimates"
       ],
       [
@@ -239,7 +239,7 @@
     },
     {
      "t": "check",
-     "q": "What is the main reason the official count of 1,074,017 is not credited by scholars?",
+     "q": "A report quotes Rwanda's official count of 1,074,017 Tutsi victims. Why do scholars not credit that figure?",
      "o": [
       "It overestimates the pre-genocide Tutsi population",
       "It is too low",
@@ -247,7 +247,8 @@
       "It counts only Hutu"
      ],
      "a": 0,
-     "w": "The 2020 symposium's finding, as reported. {{wiki-rwanda}}"
+     "w": "The 2020 symposium's finding, as reported. {{wiki-rwanda}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -352,7 +353,7 @@
     },
     {
      "t": "check",
-     "q": "How does Article 4(h) differ from the OAU's non-interference?",
+     "q": "In 2003 a member state begins killing a minority. Under the OAU's rules and under the AU's Article 4(h), what could each organisation do?",
      "o": [
       "It allows intervention in grave cases such as genocide",
       "It bans all intervention",
@@ -360,11 +361,12 @@
       "It ended the Cold War"
      ],
      "a": 0,
-     "w": "That is the break from non-interference. {{lib}}"
+     "w": "That is the break from non-interference. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why is the 5.4 million figure for the Congo wars debated?",
+     "q": "A speaker cites 5.4 million deaths in the Congo wars as settled fact. What should you add?",
      "o": [
       "It has been criticised for method",
       "It is exactly confirmed",
@@ -372,7 +374,8 @@
       "It was a census"
      ],
      "a": 0,
-     "w": "The library says so. {{lib}}"
+     "w": "That is the lesson's point. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -527,7 +530,7 @@
      "t": "example",
      "title": "Worked example: reading a current-events claim (our arithmetic)",
      "steps": [
-      "The library says South Sudan's elections are scheduled for 22/12/2026, and the library's cut-off is 30/10/2026.",
+      "As of 30/10/2026, South Sudan's elections were scheduled for 22/12/2026 [check current].",
       "From 30/10/2026 to 22/12/2026 is 53 days (1 day to the end of October plus 30 days of November plus 22 days of December).",
       "A scheduled date 53 days away may move; treat it as 'scheduled' and not as 'will happen'.",
       "Label each present-tense sentence with its date and [check current]. {{lib}}"
@@ -535,7 +538,7 @@
     },
     {
      "t": "check",
-     "q": "Why must you label recent events [check current]?",
+     "q": "You are writing a lesson on South Sudan's elections using sources read last month. Why must you mark it [check current]?",
      "o": [
       "Because they may have changed since the date the sources were read",
       "Because they are fictional",
@@ -543,7 +546,8 @@
       "Because they ended long ago"
      ],
      "a": 0,
-     "w": "The library's rule. {{lib}}"
+     "w": "The library's rule. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -626,7 +630,7 @@
     },
     {
      "t": "p",
-     "x": "The books named here were not read by us; the table gives their use as the library describes it. {{lib}}"
+     "x": "Source note: these books are pointers for further reading, and the table gives their usual use, not a reading of them. {{lib}}"
     },
     {
      "t": "example",
@@ -640,7 +644,7 @@
     },
     {
      "t": "check",
-     "q": "Which voice best answers 'how was the killing organised'?",
+     "q": "You want to explain how the Rwandan genocide was organised. Which kind of source answers that best?",
      "o": [
       "Human-rights research and analytical studies",
       "A single memoir",
@@ -648,11 +652,12 @@
       "An advertisement"
      ],
      "a": 0,
-     "w": "Des Forges and Straus are named for this. {{lib}}"
+     "w": "Des Forges and Straus are named for this. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why must perpetrator interviews be used carefully?",
+     "q": "You are quoting a perpetrator's interview about why he killed. Why must it be used carefully?",
      "o": [
       "Participants may excuse themselves",
       "They are always false",
@@ -660,7 +665,8 @@
       "They are anonymous treaties"
      ],
      "a": 0,
-     "w": "Each voice has its own limit. {{lib}}"
+     "w": "Each voice has its own limit. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -683,7 +689,7 @@
     },
     {
      "t": "p",
-     "x": "We read an encyclopaedic page in excerpt form on 30/10/2026, not his own work. Wikipedia reports that he published widely, wrote poetry and developed his ujamaa ideology. Our library records that in the 1960s he and others preferred gradual regional steps to Nkrumah's continental government. {{wiki-nyerere}} {{lib}}"
+     "x": "Source note: this rests on an encyclopaedic summary, not his own work. Wikipedia reports that he published widely, wrote poetry and developed his ujamaa ideology. In the 1960s he and others preferred gradual regional steps to Nkrumah's continental government. {{wiki-nyerere}} {{lib}}"
     },
     {
      "t": "p",
@@ -769,7 +775,7 @@
       "A federal Europe"
      ],
      "a": 0,
-     "w": "The library says so. {{lib}}"
+     "w": "That is the lesson's point. {{lib}}"
     },
     {
      "t": "check",

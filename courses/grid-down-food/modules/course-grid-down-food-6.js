@@ -92,7 +92,8 @@
       "A dry packet of salt in a sealed bag"
      ],
      "a": 1,
-     "w": "Food in cardboard containers that may have touched floodwater should be thrown away. {{cdcfood}}"
+     "w": "Food in cardboard containers that may have touched floodwater should be thrown away. {{cdcfood}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -351,7 +352,7 @@
     },
     {
      "t": "check",
-     "q": "What can you do with food you cannot eat before it spoils?",
+     "q": "You have more chilled food than you can eat before it warms up. What can you do?",
      "o": [
       "Throw it",
       "Share with neighbours if it was stored correctly",
@@ -359,7 +360,8 @@
       "Leave it in the sun"
      ],
      "a": 1,
-     "w": "The FSA says food needing refrigeration could be shared with neighbours if stored correctly. {{fsa}}"
+     "w": "The FSA says food needing refrigeration could be shared with neighbours if stored correctly. {{fsa}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -459,11 +461,12 @@
       "6"
      ],
      "a": 2,
-     "w": "12 / 3 = 4 boils."
+     "w": "12 / 3 = 4 boils.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What comes first in the eating order?",
+     "q": "It is the morning after the power went off. Which food should your household eat first?",
      "o": [
       "Cupboard food",
       "Refrigerated perishable food",
@@ -471,7 +474,8 @@
       "Canned food"
      ],
      "a": 1,
-     "w": "Shortest shelf life first: chilled foods. {{fsa}}"
+     "w": "Shortest shelf life first: chilled foods. {{fsa}}",
+     "kind": "application"
     },
     {
      "t": "take",

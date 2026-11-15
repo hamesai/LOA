@@ -131,7 +131,7 @@
     },
     {
      "t": "check",
-     "q": "Which is a way to lower night-time heat loss?",
+     "q": "Your heater runs all night in February and the bills are high. Which change lowers night-time heat loss?",
      "o": [
       "Leave all vents open",
       "Add a movable curtain or second glazing layer",
@@ -139,7 +139,8 @@
       "Paint the roof white"
      ],
      "a": 1,
-     "w": "Curtains and double glazing reduce loss; shading paint is for summer light."
+     "w": "Curtains and double glazing reduce loss; shading paint is for summer light.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -287,7 +288,8 @@
       "50°F"
      ],
      "a": 0,
-     "w": "Purdue: 80 to 60°F at 40% relative humidity, but only 80 to 70°F at 60%."
+     "w": "Purdue: 80 to 60°F at 40% relative humidity, but only 80 to 70°F at 60%.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -408,7 +410,7 @@
     },
     {
      "t": "check",
-     "q": "Which type of heater does NC State not recommend?",
+     "q": "A friend offers you an unvented paraffin heater for the greenhouse. What does NC State say?",
      "o": [
       "Vented gas heaters",
       "Unvented propane or kerosene heaters",
@@ -416,11 +418,12 @@
       "Hot water systems"
      ],
      "a": 1,
-     "w": "Unvented heaters using propane or kerosene are not recommended."
+     "w": "Unvented heaters using propane or kerosene are not recommended.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What do circulation fans do in winter?",
+     "q": "In winter the top of your house is warm and the benches are cold. What will circulation fans do?",
      "o": [
       "Cool the house",
       "Mix warm and cool air so temperature is uniform",
@@ -428,11 +431,12 @@
       "Dry the soil"
      ],
      "a": 1,
-     "w": "Without air-mixing fans, warm air rises and cool air settles around plants."
+     "w": "Without air-mixing fans, warm air rises and cool air settles around plants.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "UC Master Gardeners advise venting tunnels on sunny days warmer than about:",
+     "q": "It is a sunny 50°F day in March and your row-cover tunnel is closed. Should you vent it?",
      "o": [
       "20°F",
       "32°F",
@@ -440,7 +444,8 @@
       "70°F"
      ],
      "a": 2,
-     "w": "A sunny day above about 45°F can overheat a closed cover."
+     "w": "A sunny day above about 45°F can overheat a closed cover.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -563,7 +568,7 @@
     },
     {
      "t": "check",
-     "q": "Why space the stages a few degrees apart?",
+     "q": "Your vent opens at 24°C and the fan starts at 24.5°C, and both keep switching on and off. What should you change?",
      "o": [
       "Equipment is cheaper",
       "It prevents equipment cycling on and off",
@@ -571,7 +576,8 @@
       "It is required by law"
      ],
      "a": 1,
-     "w": "Gaps between triggers stop short cycling."
+     "w": "Gaps between triggers stop short cycling.",
+     "kind": "application"
     },
     {
      "t": "take",

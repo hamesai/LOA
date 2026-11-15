@@ -519,9 +519,10 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "You listed 25 items and 17 sold in 60 days. Find the sell-through rate and say what it suggests.",
+     "task": "You listed 25 items and 17 sold in 60 days. Find the sell-through rate, then decide whether you would change your prices or your sourcing, and say what evidence would confirm the choice.",
      "key": "17 ÷ 25 = 68%. It suggests prices and sourcing are working, but check which items are slow.",
-     "check": "Did you divide by items listed?"
+     "check": "Did you divide by items listed?",
+     "kind": "application"
     },
     {
      "id": "C3",
@@ -1033,7 +1034,7 @@ ARCHIVE_ADD({
     "w": "It supports your description."
    },
    {
-    "q": "Profit per hour is useful because it:",
+    "q": "You make £200 profit on a weekend of car-boot sourcing that took 25 hours. What does working out profit per hour tell you here?",
     "o": [
      "Shows if the work pays you fairly",
      "Lowers tax",
@@ -1041,7 +1042,8 @@ ARCHIVE_ADD({
      "Is required by platforms"
     ],
     "a": 0,
-    "w": "It tells you whether the time is worth it."
+    "w": "It tells you whether the time is worth it.",
+    "kind": "application"
    },
    {
     "lec": 1,
@@ -1091,7 +1093,7 @@ ARCHIVE_ADD({
     "w": "Evidence settles most cases."
    },
    {
-    "q": "Return rate is:",
+    "q": "You had 60 sales and 3 returns last month. Which calculation gives your return rate?",
     "o": [
      "Returns ÷ sales",
      "Sales ÷ returns",
@@ -1099,7 +1101,8 @@ ARCHIVE_ADD({
      "Profit ÷ returns"
     ],
     "a": 0,
-    "w": "5 returns from 40 sales is 12.5%."
+    "w": "5 returns from 40 sales is 12.5%.",
+    "kind": "application"
    },
    {
     "lec": 1,

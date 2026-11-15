@@ -151,7 +151,7 @@
     },
     {
      "t": "check",
-     "q": "You buy an item for £10 and sell it for £40. What is the margin?",
+     "q": "A friend says they made a 300% margin buying at £10 and selling at £40. What should you tell them the margin actually is?",
      "o": [
       "300%",
       "75%",
@@ -159,7 +159,8 @@
       "30%"
      ],
      "a": 1,
-     "w": "Profit is £30. Margin is 30 ÷ 40 = 75%. The 300% figure is the markup on the £10 you paid."
+     "w": "Profit is £30. Margin is 30 ÷ 40 = 75%. The 300% figure is the markup on the £10 you paid.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -314,7 +315,7 @@
     },
     {
      "t": "check",
-     "q": "You buy a house-clearance lot to resell the pieces at a profit. What does that point towards?",
+     "q": "Sam clears a house, keeps nothing, and lists every piece online to sell at a profit. Sam says it is just a clear-out. What does buying the lot to resell point towards?",
      "o": [
       "Selling personal possessions",
       "Trading or being in business",
@@ -322,7 +323,8 @@
       "Nothing, intent is irrelevant"
      ],
      "a": 1,
-     "w": "Buying goods to sell at a profit points to trading for tax {{gov-digital}} and to being in business for consumer law {{bc-business}}."
+     "w": "Buying goods to sell at a profit points to trading for tax {{gov-digital}} and to being in business for consumer law {{bc-business}}.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -469,7 +471,7 @@
     },
     {
      "t": "check",
-     "q": "What must you tell a distance-selling consumer before the order?",
+     "q": "You are writing the listing template for your online shop. Which statement must it give a consumer before they order?",
      "o": [
       "Nothing about returns",
       "That they can cancel within 14 days of delivery",
@@ -477,7 +479,8 @@
       "Your tax number"
      ],
      "a": 1,
-     "w": "The business must tell the customer they can cancel up to 14 days after delivery, with no reason needed. {{gov-distance}}"
+     "w": "The business must tell the customer they can cancel up to 14 days after delivery, with no reason needed. {{gov-distance}}",
+     "kind": "application"
     },
     {
      "t": "take",

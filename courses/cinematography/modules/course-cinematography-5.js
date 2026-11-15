@@ -219,7 +219,7 @@
     },
     {
      "t": "check",
-     "q": "What best reduces wobble in a handheld shot on a rolling-shutter camera?",
+     "q": "Your handheld shots on a rolling-shutter camera wobble on every step. What best reduces it?",
      "o": [
       "A wider lens and a steadier support",
       "A higher ISO",
@@ -227,7 +227,8 @@
       "A longer shutter"
      ],
      "a": 0,
-     "w": "Wobble appears when the camera vibrates, especially handheld at telephoto settings. {{wiki-rolling}}"
+     "w": "Wobble appears when the camera vibrates, especially handheld at telephoto settings. {{wiki-rolling}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -239,7 +240,8 @@
       "30 cm/s"
      ],
      "a": 2,
-     "w": "60 ÷ 5 = 12 cm per second."
+     "w": "60 ÷ 5 = 12 cm per second.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -255,7 +257,7 @@
     },
     {
      "t": "check",
-     "q": "What is the main visual difference between a dolly push in and a zoom?",
+     "q": "The director wants the room to seem to close in on the character as we approach. Should you dolly in or zoom, and why?",
      "o": [
       "The dolly changes perspective and the zoom magnifies the whole image equally",
       "The zoom changes perspective and the dolly does not",
@@ -263,7 +265,8 @@
       "The dolly is always faster"
      ],
      "a": 0,
-     "w": "A dolly moves through space and changes perspective. A zoom magnifies everything equally. {{fh-ch9}}"
+     "w": "A dolly moves through space and changes perspective. A zoom magnifies everything equally. {{fh-ch9}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -392,7 +395,7 @@
     },
     {
      "t": "check",
-     "q": "What does the 180-degree rule keep consistent?",
+     "q": "In the wide shot the woman is on the left of the man; in your reverse close-ups she suddenly appears on the right. Which rule have you broken, and what does it keep consistent?",
      "o": [
       "The colour",
       "The left-to-right positions of the characters",
@@ -400,7 +403,8 @@
       "The frame rate"
      ],
      "a": 1,
-     "w": "The first character stays frame right of the second. {{wiki-180}}"
+     "w": "The first character stays frame right of the second. {{wiki-180}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -412,7 +416,8 @@
       "It does not matter"
      ],
      "a": 1,
-     "w": "To keep direction, it should enter from the left. {{wiki-180}}"
+     "w": "To keep direction, it should enter from the left. {{wiki-180}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -424,7 +429,8 @@
       "A rack focus"
      ],
      "a": 0,
-     "w": "Cutting two similar shots of the same subject without a clear change of size and angle gives a jump cut. {{fh-ch9}}"
+     "w": "Cutting two similar shots of the same subject without a clear change of size and angle gives a jump cut. {{fh-ch9}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -579,7 +585,7 @@
     },
     {
      "t": "check",
-     "q": "Why shoot a master as well as close-ups?",
+     "q": "You are short of time and want to skip the master and shoot only close-ups. What risk does that create for the edit?",
      "o": [
       "It is a legal rule",
       "It gives the editor a full-scene safety net",
@@ -587,7 +593,8 @@
       "It avoids rehearsal"
      ],
      "a": 1,
-     "w": "The master lets the editor cover mistakes and build the scene."
+     "w": "The master lets the editor cover mistakes and build the scene.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -599,7 +606,8 @@
       "144:1"
      ],
      "a": 1,
-     "w": "36 ÷ 4 = 9."
+     "w": "36 ÷ 4 = 9.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -719,7 +727,7 @@
     },
     {
      "t": "check",
-     "q": "The handbook suggests scheduling which scenes relatively early in a production, in case the weather turns?",
+     "q": "You are scheduling a five-day shoot in an uncertain autumn. Which scenes does the handbook suggest putting early?",
      "o": [
       "Exteriors",
       "Night scenes only",
@@ -727,11 +735,12 @@
       "Insert shots"
      ],
      "a": 0,
-     "w": "Exterior scenes go early because bad weather later could stop them. Have an interior ready as a cover set. {{fh-ch9}}"
+     "w": "Exterior scenes go early because bad weather later could stop them. Have an interior ready as a cover set. {{fh-ch9}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why group setups by location and lighting?",
+     "q": "Your shot list jumps between the kitchen and the garden five times. Why regroup it by location and lighting?",
      "o": [
       "To impress the crew",
       "To cut time spent re-lighting and moving",
@@ -739,7 +748,8 @@
       "It is required"
      ],
      "a": 1,
-     "w": "Re-lighting and moving are the costly parts of a day."
+     "w": "Re-lighting and moving are the costly parts of a day.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -824,7 +834,7 @@
     },
     {
      "t": "check",
-     "q": "What does the Kuleshov effect show?",
+     "q": "You cut a neutral face after a shot of a coffin and the audience reads grief. What does this effect show?",
      "o": [
       "That actors should not move",
       "That the meaning of a shot depends on the shots around it",
@@ -832,11 +842,12 @@
       "That close-ups are always strongest"
      ],
      "a": 1,
-     "w": "The same neutral face read as different feelings depending on what it was cut with. {{fh-ch13}}"
+     "w": "The same neutral face read as different feelings depending on what it was cut with. {{fh-ch13}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "In Hitchcock's bomb example, what produces suspense?",
+     "q": "You want a dinner scene to be tense rather than surprising. Using Hitchcock's bomb example, what should you show the audience?",
      "o": [
       "Hiding the bomb until it explodes",
       "Showing the audience the bomb before the characters know",
@@ -844,7 +855,8 @@
       "Using a loud score"
      ],
      "a": 1,
-     "w": "Giving the audience knowledge the characters lack builds suspense. {{fh-ch9}}"
+     "w": "Giving the audience knowledge the characters lack builds suspense. {{fh-ch9}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -925,7 +937,7 @@
     },
     {
      "t": "check",
-     "q": "Why start and finish a camera move on a still frame?",
+     "q": "You plan a 10-second dolly move. Why hold still for a moment at the start and end?",
      "o": [
       "It saves battery",
       "It gives the editor clean material to trim",
@@ -933,7 +945,8 @@
       "It removes judder"
      ],
      "a": 1,
-     "w": "The editor may cut the static start and end, but needs them. {{fh-ch9}}"
+     "w": "The editor may cut the static start and end, but needs them. {{fh-ch9}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -1044,7 +1057,7 @@
     },
     {
      "t": "check",
-     "q": "A zoom differs from a track because:",
+     "q": "You want background objects to slide behind the subject as the camera moves. Will a zoom do this, and why?",
      "o": [
       "It changes the relative positions of objects",
       "It only magnifies the same view",
@@ -1052,7 +1065,8 @@
       "It needs a dolly"
      ],
      "a": 1,
-     "w": "A zoom keeps the vantage point. {{fa-ch5}}"
+     "w": "A zoom keeps the vantage point. {{fa-ch5}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -1136,7 +1150,7 @@
     },
     {
      "t": "check",
-     "q": "Which tool lets a viewer miss a cut?",
+     "q": "You need a cut between a wide and a close shot to go unnoticed. Which technique helps most?",
      "o": [
       "A match on action",
       "A canted frame",
@@ -1144,7 +1158,8 @@
       "A fade"
      ],
      "a": 0,
-     "w": "A cut in the middle of a movement hides itself. {{fa-ch6}}"
+     "w": "A cut in the middle of a movement hides itself. {{fa-ch6}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1252,7 +1267,8 @@
       "60"
      ],
      "a": 1,
-     "w": "60 ÷ 10 = 6. Our arithmetic. {{murch-dragnet}}"
+     "w": "60 ÷ 10 = 6. Our arithmetic. {{murch-dragnet}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1342,7 +1358,7 @@
     },
     {
      "t": "check",
-     "q": "What did Arnheim suggest for tumult?",
+     "q": "You are editing a riot sequence. On Arnheim's advice, should you use short or long cutting units?",
      "o": [
       "Long strips",
       "Short cutting units",
@@ -1350,7 +1366,8 @@
       "Titles"
      ],
      "a": 1,
-     "w": "Short cutting units for tumult, long strips for quiet. {{arnheim-making}}"
+     "w": "Short cutting units for tumult, long strips for quiet. {{arnheim-making}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1426,7 +1443,7 @@
     },
     {
      "t": "check",
-     "q": "McKee says an insert is justified when...",
+     "q": "You are tempted to add an insert of a ringing phone. On McKee's test, when is it justified?",
      "o": [
       "It looks pretty",
       "The audience must read it with the character",
@@ -1434,11 +1451,12 @@
       "There is dialogue"
      ],
      "a": 1,
-     "w": "The insert must carry what the character reads. {{mckee-text}}"
+     "w": "The insert must carry what the character reads. {{mckee-text}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which choice keeps more control for the editor?",
+     "q": "The producer wants the editor to be able to change the pace later. Should you shoot one continuous take or set-by-set coverage?",
      "o": [
       "One continuous take",
       "Coverage set shot by shot",
@@ -1446,7 +1464,8 @@
       "A drone shot"
      ],
      "a": 1,
-     "w": "Fragmented coverage leaves the rhythm to the edit. {{block-continuous}}"
+     "w": "Fragmented coverage leaves the rhythm to the edit. {{block-continuous}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -1594,7 +1613,7 @@
     },
     {
      "t": "check",
-     "q": "Which move shows foreground and background moving at different rates?",
+     "q": "You want the audience to feel the depth of a forest as the camera moves. Which move gives foreground and background different rates?",
      "o": [
       "Pan",
       "Tilt",
@@ -1602,7 +1621,8 @@
       "Dolly"
      ],
      "a": 3,
-     "w": "Three-dimensional moves create the relative movement of depth. {{block-continuum}}"
+     "w": "Three-dimensional moves create the relative movement of depth. {{block-continuum}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1927,7 +1947,7 @@
     },
     {
      "t": "check",
-     "q": "What is McKee's test for voice-over?",
+     "q": "Your rough cut leans on voice-over in every scene. What is McKee's test for whether it should stay?",
      "o": [
       "Strip it out and see if the story stands",
       "Add it to every scene",
@@ -1935,7 +1955,8 @@
       "Record it first"
      ],
      "a": 0,
-     "w": "If the story still stands, the narration was an extra. {{mckee-exposition}}"
+     "w": "If the story still stands, the narration was an extra. {{mckee-exposition}}",
+     "kind": "application"
     },
     {
      "t": "take",

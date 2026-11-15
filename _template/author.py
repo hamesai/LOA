@@ -38,11 +38,17 @@ def ex(title, *steps): return {"t": "example", "title": title, "steps": list(ste
 def terms(*pairs): return {"t": "terms", "i": [list(x) for x in pairs]}
 def act(x): return {"t": "activity", "x": x}
 def chk(q, o, a, w): return {"t": "check", "q": q, "o": o, "a": a, "w": w}
+# Applied practice (standard since 15/11/2026: at least half of each module's checks and quiz items are applied).
+# case_chk gives the learner a situation, claim, source or figure and asks them to decide, judge, correct or calculate.
+# Write the case first, then the question: "A museum label says X. Which correction is best supported?"
+def case_chk(case, q, o, a, w): return {"t": "check", "q": (case.rstrip() + " " + q.lstrip()).strip(), "o": o, "a": a, "w": w, "kind": "application"}
 def take(*i): return {"t": "take", "i": list(i)}
 def video(id, title, by, note): return {"t": "video", "id": id, "title": title, "by": by, "note": note}
 def lesson(id, title, mins, *blocks): return {"id": id, "title": title, "min": mins, "blocks": list(blocks)}
 def challenge(id, level, task, key, check): return {"id": id, "level": level, "task": task, "key": key, "check": check}
 def question(q, o, a, w): return {"q": q, "o": o, "a": a, "w": w}
+def case_question(case, q, o, a, w): return {"q": (case.rstrip() + " " + q.lstrip()).strip(), "o": o, "a": a, "w": w, "kind": "application"}
+def applied_challenge(id, level, task, key, check): return dict(challenge(id, level, task, key, check), kind="application")
 
 
 def _strings(o):

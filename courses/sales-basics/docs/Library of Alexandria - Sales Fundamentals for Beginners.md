@@ -1,6 +1,6 @@
 # Library of Alexandria: Sales fundamentals for beginners
 
-Level: Beginner. Created 13/10/2026.
+Level: Beginner. Created 15/11/2026.
 
 Learn the seven-step selling process: find and qualify prospects, prepare, open a conversation, present, handle objections, close and follow up, fairly and within UK and Irish law.
 
@@ -175,7 +175,7 @@ Worked example: Dishwasher: $3,000 cost, $1,000 a year saving, five years: benef
 - Answer key: Four questions in the order S, P, I, N, each of the right type.
 - Self-check: Is the implication question about consequences?
 
-**C2 (core).** A purchase costs £5,000 and saves £1,800 a year for 4 years. Find net benefit, ROI and break-even.
+**C2 (core).** A purchase costs £5,000 and saves £1,800 a year for 4 years. Find net benefit, ROI and break-even, then write two sentences you would say to the buyer using those figures.
 - Answer key: Savings £7,200; net benefit £2,200; ROI 44%; break-even 5,000 ÷ 1,800 = about 2.8 years.
 - Self-check: Check ROI = 2,200 ÷ 5,000 × 100.
 

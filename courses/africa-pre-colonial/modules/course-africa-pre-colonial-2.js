@@ -22,7 +22,7 @@
      "t": "fig",
      "id": "africa-pre-colonial-tl2",
      "title": "Nile Valley and Horn timeline",
-     "cap": "Bars show approximate spans in the working library. Open ends mean the library gives no firm end."
+     "cap": "Bars show approximate spans. An open end means no firm end date is known."
     },
     {
      "t": "h",
@@ -30,7 +30,7 @@
     },
     {
      "t": "p",
-     "x": "Kerma, on the upper Nile in Sudan, was a powerful Nubian kingdom from roughly 2500 to 1500 BCE, with monumental mud-brick buildings. Egypt's New Kingdom conquered Nubia around 1500 BCE [PROBABLE] and ruled it for about four centuries. {{lib}}"
+     "x": "Kerma, on the upper Nile in Sudan, was a powerful Nubian kingdom from roughly 2500 to 1500 BCE, with monumental mud-brick buildings. Egypt's New Kingdom conquered Nubia around 1500 BCE [PROBABLE] and ruled it for about four centuries. {{kerma-unesco}} {{isac-history}}"
     },
     {
      "t": "h",
@@ -38,11 +38,11 @@
     },
     {
      "t": "p",
-     "x": "From the 8th century BCE a Kushite kingdom centred on Napata rose. Its king Piye (c. 744 to 714 BCE) conquered Egypt and left a victory stele. {{lib}}"
+     "x": "From the 8th century BCE a Kushite kingdom centred on Napata rose. Its king Piye (c. 744 to 714 BCE) conquered Egypt and left a victory stele. {{ebsco-napata}} {{livius-25}} {{smarthistory-piye}}"
     },
     {
      "t": "p",
-     "x": "Kushite kings, the 25th Dynasty (c. 744 to 656 BCE), then ruled Egypt, with Taharqa as the best known [PROBABLE, dates approximate]. Assyrian invasions drove them back south by 656 BCE. {{lib}}"
+     "x": "Kushite kings, the 25th Dynasty (c. 744 to 656 BCE), then ruled Egypt, with Taharqa as the best known [PROBABLE, dates approximate]. Assyrian invasions drove them back south by 656 BCE. {{blackpast-taharqa}} {{warhistory-25}}"
     },
     {
      "t": "table",
@@ -92,15 +92,16 @@
     },
     {
      "t": "check",
-     "q": "Which king left a victory stele after conquering Egypt?",
+     "q": "A stele boasts of a Kushite king's conquest of Egypt in the eighth century BCE. Which king fits, and what kind of evidence is it?",
      "o": [
-      "Taharqa",
-      "Piye",
-      "Ezana",
-      "Lalibela"
+      "Taharqa; a neutral record",
+      "Piye; a royal victory text, strong on the fact of conquest but written to glorify",
+      "Ezana; a coin",
+      "Lalibela; a church inscription"
      ],
      "a": 1,
-     "w": "Piye (c. 744 to 714 BCE) conquered Egypt and left a victory stele. {{lib}}"
+     "w": "Piye (c. 744 to 714 BCE) conquered Egypt and left a victory stele. {{livius-25}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -112,12 +113,12 @@
       "A Nile flood"
      ],
      "a": 1,
-     "w": "Assyrian invasions drove the Kushite kings back south. {{lib}}"
+     "w": "Assyrian invasions drove the Kushite kings back south. {{blackpast-taharqa}}"
     },
     {
      "t": "take",
      "i": [
-      "Kush had its own kingdoms long before Aksum: Kerma, then Napata. {{lib}}",
+      "Kush had its own kingdoms long before Aksum: Kerma, then Napata. {{kerma-unesco}} {{ebsco-napata}}",
       "Piye and Taharqa belong to the 25th Dynasty, c. 744 to 656 BCE.",
       "Dates this old are approximate, so work with the word about."
      ]
@@ -224,7 +225,7 @@
     {
      "t": "take",
      "i": [
-      "Meroë royal burials begin c. 300 BCE [PROBABLE]. {{lib}}",
+      "Meroë royal burials begin c. 300 BCE [PROBABLE]. {{unesco-meroe}}",
       "The Meroitic script is readable but the language is not understood [THIN EVIDENCE].",
       "Aksum destroying Meroë is [CONTESTED]; present it as one theory among several."
      ]
@@ -238,7 +239,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "After Meroë the Nubian kingdoms of Nobadia, Makuria and Alwa were Christianised in the 6th century. After the Arab conquest of Egypt, Makuria agreed a long-lived treaty, the baqt (traditionally 652), and survived for centuries [PROBABLE]. {{lib}}"
+     "x": "After Meroë the Nubian kingdoms of Nobadia, Makuria and Alwa were Christianised in the 6th century. After the Arab conquest of Egypt, Makuria agreed a long-lived treaty, the baqt (traditionally 652), and survived for centuries [PROBABLE]. {{nubian-kingdoms}} {{ebsco-baqt}}"
     },
     {
      "t": "h",
@@ -246,7 +247,7 @@
     },
     {
      "t": "p",
-     "x": "Aksum lay in northern Ethiopia and Eritrea, roughly from the 1st to the 7th century CE, with a long decline afterwards. It was a trading state linked to the Red Sea and Indian Ocean. Its port Adulis appears in the Periplus of the Erythraean Sea in the 1st century CE. {{lib}}"
+     "x": "Aksum lay in northern Ethiopia and Eritrea, roughly from the 1st to the 7th century CE, with a long decline afterwards. It was a trading state linked to the Red Sea and Indian Ocean. Its port Adulis appears in the Periplus of the Erythraean Sea in the 1st century CE. {{britacad-aksum}} {{periplus-uw}}"
     },
     {
      "t": "p",
@@ -262,11 +263,11 @@
     },
     {
      "t": "p",
-     "x": "King Ezana left inscriptions in Ge'ez, Sabaean and Greek. He adopted Christianity in the 4th century, traditionally in the 330s or 340s CE, supported by Frumentius, who became the first bishop. The conversion is [PROBABLE] and its exact date [CONTESTED]. {{lib}}"
+     "x": "King Ezana left inscriptions in Ge'ez, Sabaean and Greek. He adopted Christianity in the 4th century, traditionally in the 330s or 340s CE, supported by Frumentius, who became the first bishop. The conversion is [PROBABLE] and its exact date [CONTESTED]. {{natgeo-aksum}} {{britacad-aksum}} {{britannica-frumentius}}"
     },
     {
      "t": "p",
-     "x": "Aksum's army also crossed to Himyar in southern Arabia in the early 6th century. {{lib}}"
+     "x": "Aksum's army also crossed to Himyar in southern Arabia in the early 6th century. {{brill-aksum-arabia}}"
     },
     {
      "t": "example",
@@ -314,20 +315,21 @@
     },
     {
      "t": "check",
-     "q": "What was the baqt?",
+     "q": "A source says Christian Makuria and Muslim Egypt kept a negotiated relationship for centuries. Which piece of evidence best supports that, and how firm is its start date?",
      "o": [
-      "A coin of Aksum",
-      "A long-lived treaty between Makuria and the Arab rulers of Egypt",
-      "A Ge'ez chronicle",
-      "An obelisk"
+      "The Kebra Nagast; firm",
+      "The baqt treaty, traditionally dated 652 [TRADITIONAL DATE]",
+      "Ezana's coins; firm",
+      "An Aksumite obelisk; unknown"
      ],
      "a": 1,
-     "w": "Traditionally dated 652, and the date is a [TRADITIONAL DATE]. {{lib}}"
+     "w": "The baqt was a long-lived treaty between Makuria and the Arab rulers of Egypt; 652 is a [TRADITIONAL DATE]. {{ebsco-baqt}}",
+     "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Aksum was a coin-minting Red Sea trading state of the 1st to 7th century CE [PROBABLE]. {{lib}}",
+      "Aksum was a coin-minting Red Sea trading state of the 1st to 7th century CE [PROBABLE]. {{britacad-aksum}} {{periplus-uw}}",
       "Ezana's conversion is probable; its exact date is contested.",
       "Treat royal inscriptions as self-presentation."
      ]
@@ -341,7 +343,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "After Aksum's decline the Zagwe dynasty ruled the central highlands, traditionally in the 12th and 13th centuries. The start and end dates are [CONTESTED]. King Lalibela, reigning c. 1181 to 1221 [TRADITIONAL DATE], is credited with eleven rock-hewn churches at Lalibela. {{lib}}"
+     "x": "After Aksum's decline the Zagwe dynasty ruled the central highlands, traditionally in the 12th and 13th centuries. The start and end dates are [CONTESTED]. King Lalibela, reigning c. 1181 to 1221 [TRADITIONAL DATE], is credited with eleven rock-hewn churches at Lalibela. {{met-lalibela}} {{unesco-lalibela}} {{britannica-zagwe}}"
     },
     {
      "t": "p",
@@ -357,7 +359,7 @@
     },
     {
      "t": "p",
-     "x": "Some scholars argue that parts of the complex are older than the Zagwe. Attributing everything to Lalibela is therefore [CONTESTED]. {{lib}}"
+     "x": "Some scholars argue that parts of the complex are older than the Zagwe. Attributing everything to Lalibela is therefore [CONTESTED]. {{met-lalibela}}"
     },
     {
      "t": "h",
@@ -365,7 +367,7 @@
     },
     {
      "t": "p",
-     "x": "Yekuno Amlak overthrew the Zagwe in 1270 and claimed descent from Solomon and Sheba, an idea set out in the Kebra Nagast, compiled in Ge'ez in the 14th century. This is a political legitimising story, not a genealogy that can be checked. It is tradition, not history. {{lib}}"
+     "x": "Yekuno Amlak overthrew the Zagwe in 1270 and claimed descent from Solomon and Sheba, an idea set out in the Kebra Nagast, compiled in Ge'ez in the 14th century. This is a political legitimising story, not a genealogy that can be checked. It is tradition, not history. {{britannica-zagwe}} {{provenance-solomonic}} {{worldhistory-kebra}}"
     },
     {
      "t": "h",
@@ -384,7 +386,7 @@
     },
     {
      "t": "table",
-     "title": "Zagwe-friendly and Solomonic accounts of 1270 (our comparison built on the library)",
+     "title": "Zagwe-friendly and Solomonic accounts of 1270",
      "head": [
       "",
       "Zagwe-friendly church tradition",
@@ -433,7 +435,7 @@
       "It names no kings"
      ],
      "a": 1,
-     "w": "The Kebra Nagast is a political legitimising text. {{lib}}"
+     "w": "The Kebra Nagast is a political legitimising text. {{worldhistory-kebra}}"
     },
     {
      "t": "check",
@@ -536,7 +538,7 @@
   },
   {
    "id": "l6",
-   "title": "What the supplied books add to Kush and Aksum",
+   "title": "What the books add to Kush and Aksum",
    "min": 24,
    "blocks": [
     {
@@ -549,7 +551,7 @@
     },
     {
      "t": "p",
-     "x": "Diop writes that Aksum is more a word than a reality, with one obelisk and two statue bases. {{dio-egypt}} That is wrong against the archaeology and the coins. Reader describes a highland city of about 75 hectares and about 20,000 people by AD 500, Sabaean-style inscriptions from the 7th century BCE that develop into Ge'ez, temples at Yeha and Haoulti, plough farming and teff, its own coinage in gold, silver and copper, and over 140 stelae. {{rd-axum}}"
+     "x": "Diop writes that Aksum is more a word than a reality, with one obelisk and two statue bases. {{dio-egypt-006}} That is wrong against the archaeology and the coins. Reader describes a highland city of about 75 hectares and about 20,000 people by AD 500, Sabaean-style inscriptions from the 7th century BCE that develop into Ge'ez, temples at Yeha and Haoulti, plough farming and teff, its own coinage in gold, silver and copper, and over 140 stelae. {{rd-axum}}"
     },
     {
      "t": "table",
@@ -593,7 +595,7 @@
     {
      "t": "callout",
      "k": "warn",
-     "x": "Diop's count of 84 Meroitic pyramids and the course's 'over 200' do not conflict: the first is for Meroe, the second for Sudan as a whole. His 'Birmingham of antiquity' line repeats an old claim about Meroe's iron that the course tags [CONTESTED]. {{dpc-state}}"
+     "x": "Diop's count of 84 Meroitic pyramids is for Meroe alone, so it is lower than counts for Sudan as a whole. His 'Birmingham of antiquity' line repeats an old claim about Meroe's iron [CONTESTED]. {{dpc-state-009}}"
     },
     {
      "t": "h",
@@ -601,7 +603,7 @@
     },
     {
      "t": "p",
-     "x": "Diop reads Kmt as 'land of the Blacks' and treats Osiris as a real Black ancestor. {{dio-egypt}} The standard reading of Kmt is 'the black land', after the Nile silt (our summary, outside these books). Diop is right on a narrower point: ancient Egyptian texts have no idea of Black Africans as a separate race, and nineteenth-century translators read race into them. {{dio-egypt}} Keep both."
+     "x": "Diop reads Kmt as 'land of the Blacks' and treats Osiris as a real Black ancestor. {{dio-egypt-009}} The standard reading of Kmt is 'the black land', after the Nile silt (our summary, outside these books). Diop is right on a narrower point: ancient Egyptian texts have no idea of Black Africans as a separate race, and nineteenth-century translators read race into them. {{dio-egypt-006}} Keep both."
     },
     {
      "t": "h",
@@ -647,7 +649,7 @@
      "t": "take",
      "i": [
       "Aksum was a real, documented state with its own coins and script. {{rd-axum}}",
-      "Rodney states 'Aksum destroyed Kush' as fact; the course keeps it [CONTESTED]. {{rod-pre}}",
+      "Rodney states 'Aksum destroyed Kush' as fact; the course keeps it [CONTESTED]. {{rod-pre-005}}",
       "Ethiopia sent envoys to Europe before Portuguese ships reached its coast. {{rd-eth}}"
      ]
     }
@@ -1009,7 +1011,7 @@
     },
     {
      "t": "p",
-     "x": "Diarra gives the Nile 6,700 kilometres, the longest in Africa, but with an average flow of under 3,000 cubic metres a second, far less than the Zaire's roughly 40,000; below Khartoum it passes six cataracts. He adds that since Antiquity it has been one of the world's most useful rivers, which is how Kush and Egypt could share a valley while each guarded a different stretch. {{gha1-diarra}} [PROBABLE]"
+     "x": "Diarra gives the Nile 6,700 kilometres, the longest in Africa, but with an average flow of under 3,000 cubic metres a second, far less than the Zaire's; below Khartoum it passes six cataracts. He adds that since Antiquity it has been one of the world's most useful rivers, which is how Kush and Egypt could share a valley while each guarded a different stretch. {{gha1-diarra}} [PROBABLE]"
     },
     {
      "t": "h",
@@ -1058,7 +1060,7 @@
     },
     {
      "t": "p",
-     "x": "His central argument is that two Egypts existed long before the legendary Menes: a southern group along the narrow Nile corridor, strong in art, and a northern group on the Delta fan, strong in economy and settlement size, with Merimde nearly 2.25 hectares, El Omari three-quarters of a kilometre long and Maadi 1.6 kilometres. Nubia's A, B and C groups kept their prehistoric character until the New Kingdom after Egyptian contact slowed from the First Dynasty. {{gha1-debono}} [PROBABLE]"
+     "x": "His central argument is that two Egypts existed long before the legendary Menes: a southern group along the narrow Nile corridor, strong in art, and a northern group on the Delta fan, strong in economy and settlement size, with Merimde, El Omari and Maadi among the sites he describes. Nubia's A, B and C groups kept their prehistoric character until the New Kingdom after Egyptian contact slowed from the First Dynasty. {{gha1-debono}} [PROBABLE]"
     },
     {
      "t": "callout",
@@ -1140,15 +1142,16 @@
     },
     {
      "t": "check",
-     "q": "What is the status of the 130 Kerma copper daggers, according to Vercoutter?",
+     "q": "A museum label says Kerma had a Bronze Age by 2000 BCE, citing its many copper daggers. Following Vercoutter, what should the label say?",
      "o": [
-      "They are certainly bronze",
-      "They are more numerous than all Egypt's, but unanalysed, so copper or bronze is unknown",
-      "They are iron",
-      "They are Roman"
+      "Leave it as it is",
+      "The daggers are unanalysed, so whether they are copper or bronze is not known",
+      "The daggers are iron",
+      "The daggers are Roman"
      ],
      "a": 1,
-     "w": "He says analysis would show whether bronze reached the upper valley by the second millennium. {{gha1-vercoutter}}"
+     "w": "He says analysis would show whether bronze reached the upper valley by the second millennium. {{gha1-vercoutter}}",
+     "kind": "application"
     },
     {
      "t": "h",
@@ -1194,16 +1197,16 @@
      "i": [
       "Ask what holds the group together. For Ibn Khaldun the key word is asabiya. {{wiki-khaldun}}",
       "Ask how people cooperate. He argues that no individual can supply all his needs and that people cooperate to do so. {{wiki-khaldun}}",
-      "Ask whether the story fits that picture. A dynasty that claims divine descent but shows no organised group behind it should raise questions (our application).",
+      "Ask whether the story fits that picture. A dynasty that claims divine descent but shows no organised group behind it should raise questions.",
       "Ask who wrote it. His own career as a judge and adviser to rulers suggests that writers of history can serve patrons (our inference). {{wiki-khaldun}}"
      ]
     },
     {
      "t": "table",
-     "title": "Applying his questions to the Solomonic claim of 1270 (our application)",
+     "title": "Applying his questions to the Solomonic claim of 1270",
      "head": [
       "Question",
-      "Answer from the working library"
+      "Answer"
      ],
      "rows": [
       [
@@ -1227,7 +1230,7 @@
     },
     {
      "t": "h",
-     "x": "Worked example: plausibility test (our application)"
+     "x": "Worked example: plausibility test"
     },
     {
      "t": "example",
@@ -1235,7 +1238,7 @@
      "steps": [
       "The dynasty began in 1270 and the text was compiled in the 14th century, so it was written after the change of power.",
       "A text written after the event, by those who benefited, is better evidence of the winners' image than of the past.",
-      "Verdict: use it as evidence of legitimation, as the library does. {{lib}}"
+      "Verdict: use it as evidence of how the dynasty wanted to be seen, not as a record of 1270. {{lib}}"
      ]
     },
     {
@@ -1257,15 +1260,16 @@
     },
     {
      "t": "check",
-     "q": "What does asabiya mean in the Muqaddimah?",
+     "q": "A desert-edge group conquers a city, rules for three generations and loses its cohesion. Which of Ibn Khaldun's ideas is being applied?",
      "o": [
-      "Trade",
-      "Group solidarity or feeling",
-      "A city",
-      "A treaty"
+      "The baqt",
+      "Asabiya, group solidarity or feeling",
+      "Heterarchy",
+      "The tophet"
      ],
      "a": 1,
-     "w": "Wikipedia gives it as solidarity, group feeling or group consciousness. {{wiki-khaldun}}"
+     "w": "Wikipedia gives asabiya as solidarity, group feeling or group consciousness. {{wiki-khaldun}}",
+     "kind": "application"
     },
     {
      "t": "check",

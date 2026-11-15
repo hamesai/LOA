@@ -371,9 +371,10 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "Run four invented clients through the flow chart: (a) inactive, no disease, no symptoms; (b) inactive, type 2 diabetes, no symptoms; (c) exercising, no disease, dizziness; (d) exercising, diabetes, no symptoms, wants to start sprinting.",
+     "task": "Run four invented clients through the flow chart and decide what each may do next: (a) inactive, no disease, no symptoms; (b) inactive, type 2 diabetes, no symptoms; (c) exercising, no disease, dizziness; (d) exercising, diabetes, no symptoms, wants to start sprinting.",
      "key": "(a) begin light to moderate, no clearance; (b) clearance before any exercise; (c) clearance before continuing; (d) clearance before vigorous.",
-     "check": "Compare with the decision rules in lesson 2."
+     "check": "Compare with the decision rules in lesson 2.",
+     "kind": "application"
     },
     {
      "id": "C3",
@@ -756,7 +757,7 @@ ARCHIVE_ADD({
   ],
   "personal-training-3": [
    {
-    "q": "Which three needs does SDT name?",
+    "q": "A client says the programme feels imposed, they cannot do the moves yet, and they train alone. Which three SDT needs are these complaints about?",
     "o": [
      "Money, status, speed",
      "Autonomy, competence, relatedness",
@@ -764,7 +765,8 @@ ARCHIVE_ADD({
      "Sleep, food, water"
     ],
     "a": 1,
-    "w": "SDT's three basic needs."
+    "w": "SDT's three basic needs.",
+    "kind": "application"
    },
    {
     "q": "What did the MI review conclude?",
@@ -836,7 +838,7 @@ ARCHIVE_ADD({
     "w": "0.37% in the muscle-size meta-regression."
    },
    {
-    "q": "In the 2024 meta-regression, strength gains across RIR were...",
+    "q": "A client hates training to failure but wants to get stronger. What does the 2024 meta-regression suggest about strength gains across reps in reserve?",
     "o": [
      "Much higher nearer failure",
      "Similar across a wide range",
@@ -844,7 +846,8 @@ ARCHIVE_ADD({
      "Unmeasured"
     ],
     "a": 1,
-    "w": "Strength gains were similar."
+    "w": "Strength gains were similar.",
+    "kind": "application"
    },
    {
     "q": "Which two principles tie programming together?",
@@ -905,7 +908,7 @@ ARCHIVE_ADD({
     "w": "150 - 110 = 40."
    },
    {
-    "q": "Pain that does not settle should...",
+    "q": "Two weeks in, a client's knee pain has not settled after squats. What should you do?",
     "o": [
      "Be ignored",
      "Lead to stopping and referral",
@@ -913,7 +916,8 @@ ARCHIVE_ADD({
      "Be trained harder"
     ],
     "a": 1,
-    "w": "Refer if it persists."
+    "w": "Refer if it persists.",
+    "kind": "application"
    },
    {
     "lec": 1,

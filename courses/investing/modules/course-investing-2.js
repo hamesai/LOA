@@ -169,7 +169,8 @@
       "£100 profit"
      ],
      "a": 1,
-     "w": "The total is £40 income minus £100 price fall, a loss of £60. Returns include income and price change together."
+     "w": "The total is £40 income minus £100 price fall, a loss of £60. Returns include income and price change together.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -193,7 +194,8 @@
       "8.0%"
      ],
      "a": 2,
-     "w": "Price change £8 plus income £5 is £13, and £13 ÷ £200 is 6.5%. Our arithmetic."
+     "w": "Price change £8 plus income £5 is £13, and £13 ÷ £200 is 6.5%. Our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -377,7 +379,8 @@
       "£2,000"
      ],
      "a": 1,
-     "w": "£1,000 × 1.05^10 is £1,628.89. This is our arithmetic."
+     "w": "£1,000 × 1.05^10 is £1,628.89. This is our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -389,7 +392,8 @@
       "Inflation helps early savers"
      ],
      "a": 1,
-     "w": "Both used the same rate, so the difference is time. The extra ten years of compounding add about £66,715. Our arithmetic."
+     "w": "Both used the same rate, so the difference is time. The extra ten years of compounding add about £66,715. Our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -785,7 +789,7 @@
     },
     {
      "t": "check",
-     "q": "An investment rises 50% in one year and falls 50% the next. What is the result on £100?",
+     "q": "A fund's advert says its average yearly return over two years was 0% (up 50%, then down 50%). What actually happened to £100?",
      "o": [
       "£100",
       "£75",
@@ -793,7 +797,8 @@
       "£150"
      ],
      "a": 1,
-     "w": "£100 × 1.5 × 0.5 = £75, so a plain average of the two figures would mislead."
+     "w": "£100 × 1.5 × 0.5 = £75, so a plain average of the two figures would mislead.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -894,7 +899,8 @@
       "It cannot be told"
      ],
      "a": 1,
-     "w": "Fund 2 nets 4.8% against 4.2% and ends ahead in the example. Our arithmetic."
+     "w": "Fund 2 nets 4.8% against 4.2% and ends ahead in the example. Our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1036,7 +1042,8 @@
       "£5,000"
      ],
      "a": 1,
-     "w": "£1,000 × 1.05^20 is £2,653.30. Our arithmetic."
+     "w": "£1,000 × 1.05^20 is £2,653.30. Our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "take",

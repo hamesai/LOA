@@ -535,7 +535,8 @@
       "Share your bank details"
      ],
      "a": 1,
-     "w": "Check the firm first. Unsolicited offers and pressure are warning signs. {{fca-scams}} {{mh-scams}}"
+     "w": "Check the firm first. Unsolicited offers and pressure are warning signs. {{fca-scams}} {{mh-scams}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -879,7 +880,8 @@
       "Ask the stranger for proof"
      ],
      "a": 1,
-     "w": "Unexpected, pressured and too good to be true are the FCA's warning signs. {{fca-scams}}"
+     "w": "Unexpected, pressured and too good to be true are the FCA's warning signs. {{fca-scams}}",
+     "kind": "application"
     },
     {
      "t": "take",

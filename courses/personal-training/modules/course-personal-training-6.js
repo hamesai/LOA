@@ -348,7 +348,7 @@
     },
     {
      "t": "check",
-     "q": "Which is within the typical trainer scope?",
+     "q": "A client asks you to write them a meal plan to treat their coeliac disease. Which response stays within typical trainer scope?",
      "o": [
       "Writing a clinical diet",
       "Sharing a published protein range and its limits",
@@ -356,7 +356,8 @@
       "Adjusting medication"
      ],
      "a": 1,
-     "w": "General, evidence-based information is typically in scope; check your own register's rules."
+     "w": "General, evidence-based information is typically in scope; check your own register's rules.",
+     "kind": "application"
     },
     {
      "t": "take",

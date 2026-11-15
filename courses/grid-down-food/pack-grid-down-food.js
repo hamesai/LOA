@@ -350,9 +350,10 @@ ARCHIVE_ADD({
     {
      "id": "C2",
      "level": "Core",
-     "task": "Convert 0 F, 40 F and 140 F to Celsius, then name which UK or Irish limit each is closest to.",
+     "task": "Convert 0 F, 40 F and 140 F to Celsius, then name which UK or Irish limit each is closest to and say what you would do with food at each temperature.",
      "key": "-17.8 C (freezer), 4.4 C (fridge), 60 C (hot holding).",
-     "check": "Recompute (F - 32) x 5 / 9."
+     "check": "Recompute (F - 32) x 5 / 9.",
+     "kind": "application"
     },
     {
      "id": "C3",
@@ -693,7 +694,7 @@ ARCHIVE_ADD({
     "w": "The FSA suggests alcohol-based sanitiser."
    },
    {
-    "q": "Which is a higher-risk group?",
+    "q": "You are feeding a family with a toddler, a teenager and two healthy adults during an outage. Who is in a higher-risk group?",
     "o": [
      "Healthy adults",
      "Young children",
@@ -701,7 +702,8 @@ ARCHIVE_ADD({
      "Athletes"
     ],
     "a": 1,
-    "w": "Young children are named by the FSA and CMOs."
+    "w": "Young children are named by the FSA and CMOs.",
+    "kind": "application"
    },
    {
     "biz": 1,
@@ -730,7 +732,7 @@ ARCHIVE_ADD({
   ],
   "grid-down-food-2": [
    {
-    "q": "How long does a closed fridge stay safe?",
+    "q": "The power has been off for 3 hours and you have not opened the fridge. Is the food still safe on the FSA guidance?",
     "o": [
      "1 hour",
      "About 4 hours",
@@ -738,7 +740,8 @@ ARCHIVE_ADD({
      "48 hours"
     ],
     "a": 1,
-    "w": "About 4 hours."
+    "w": "About 4 hours.",
+    "kind": "application"
    },
    {
     "q": "A full freezer holds for about...",

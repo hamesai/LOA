@@ -9,7 +9,15 @@
     python _template/kit.py gate           pre-ship gate for every course and the index.html links (runs gate.py)
     python _template/kit.py inject <id>    re-apply the lecturer lessons (needs node; skipped if _template/lec_data/<id>.json is missing)
     python _template/kit.py sources <id>   write course-<id>-sources.js from the sources-read note, so the page can show it
-    python _template/kit.py ship <id>      inject, gate, check, sources, bump, md, then open. Stops if the gate or check reports a PROBLEM.
+    python _template/kit.py meta           write shared/course-meta.js from courses/<id>/meta/*.js (about, deepnotes, lecturer-notes,
+                                           lecturer-intro, lecturers, faqs, dossiers, oversight) and check each file parses
+    python _template/kit.py stale [<id>]   cited web sources never checked or checked over 6 months ago, time-sensitive first
+                                           (writes docs/STALE-SOURCES.md; stale_sources.py --backfill takes dates from refs' own reading notes)
+    python _template/kit.py audit <id>    the accuracy and competence report: source flags by kind, author-talk, applied practice,
+                                           open findings, reading coverage. Run it after every module, not only at the end.
+    python _template/kit.py ship <id>      inject, meta, gate, check, sources, bump, md, then open. Stops if the gate or check reports a PROBLEM.
+    python _template/kit.py rebuild <id>   run courses/<id>/build/build.py (the course's own build scripts live in courses/<id>/build/,
+                                           never in a session scratchpad), then ship
 """
 import datetime, json, os, re, subprocess, sys
 from pathlib import Path
@@ -149,10 +157,104 @@ def open_course(cid):
     print("opened", url)
 
 
+META_KINDS = ["about", "deepnotes", "lecturer-notes", "lecturer-intro", "lecturers", "faqs", "dossiers", "oversight"]
+
+
+def meta():
+    """Writes shared/course-meta.js: which courses have which courses/<id>/meta/<kind>.js file, and LOA_META(kind), which
+    index.html calls at each kind's place in the load order. Each file is its own <script>, so a fault in one course's file
+    cannot stop another course loading. Checks every meta file parses, and that a lecturer shared by two courses has identical
+    entries in both. Returns True if all is well."""
+    ok, have = True, {k: [] for k in META_KINDS}
+    for d in sorted((ROOT / "courses").iterdir()):
+        for k in META_KINDS:
+            f = d / "meta" / (k + ".js")
+            if not f.exists():
+                continue
+            r = subprocess.run(["node", "--check", str(f)], capture_output=True, text=True, encoding="utf-8")
+            if r.returncode:
+                ok = False
+                print("PROBLEM  %s does not parse (left out of the page):\n%s" % (f.relative_to(ROOT), r.stderr.strip()[:400]))
+                continue
+            have[k].append(d.name)
+        for f in (d / "meta").glob("*.js") if (d / "meta").exists() else []:
+            if f.stem not in META_KINDS:
+                print("note     %s is not a known meta kind, so the page does not load it" % f.relative_to(ROOT))
+    js = ("/* Written by _template/kit.py meta. Do not edit: add or remove files in courses/<id>/meta/ and run kit.py meta.\n"
+          "   LOA_META(kind) writes one <script> per course that has courses/<id>/meta/<kind>.js, carrying this file's ?v= tag. */\n"
+          "window.LOA_META_FILES = %s;\n"
+          "(function () {\n"
+          "  var s = document.currentScript, v = ((s && s.src.match(/\\?v=[^&#]+/)) || [\"\"])[0];\n"
+          "  window.LOA_META = function (kind) {\n"
+          "    (window.LOA_META_FILES[kind] || []).forEach(function (id) {\n"
+          "      document.write('<script src=\"courses/' + id + '/meta/' + kind + '.js' + v + '\"><\\/script>');\n"
+          "    });\n"
+          "  };\n"
+          "})();\n") % json.dumps(have, indent=1)
+    (ROOT / "shared" / "course-meta.js").write_text(js, encoding="utf-8")
+    chk = ("const fs=require('fs'),vm=require('vm'),seen={};for(const f of process.argv.slice(1)){const w={};w.window=w;"
+           "try{vm.runInNewContext(fs.readFileSync(f,'utf8'),w)}catch(e){console.log('PROBLEM  '+f+': '+e.message);continue}"
+           "for(const [n,p] of Object.entries(w.COURSE_LECTURER_PEOPLE||{})){const j=JSON.stringify(p);"
+           "if(seen[n]&&seen[n][0]!==j)console.log('PROBLEM  lecturer '+n+' differs between '+seen[n][1]+' and '+f);seen[n]=[j,f]}}")
+    files = [str(ROOT / "courses" / c / "meta" / "lecturers.js") for c in have["lecturers"]]
+    r = subprocess.run(["node", "-e", chk] + files, capture_output=True, text=True, encoding="utf-8")
+    if r.stdout.strip():
+        ok = False
+        print(r.stdout.strip())
+    print("course-meta.js: %s" % ", ".join("%s %d" % (k, len(v)) for k, v in have.items()))
+    return ok
+
+
+def audit(cid):
+    """One report of everything the gate holds a course to, each line with the command that fixes it. Returns True if clean."""
+    sys.path.insert(0, str(ROOT / "_template"))
+    import source_verify as SV, practice_audit as PA, source_lib as SL
+    ok = True
+    print("== %s: accuracy and competence audit\n" % cid)
+    mdir = ROOT / "courses" / cid / "modules"
+    mods = sorted(re.search(r"-(\w+)\.js$", f.name).group(1) for f in mdir.glob("course-%s-*.js" % cid))
+    checked, flags = SV.check(cid, mods)
+    by = {k: [f for f in flags if f["kind"] == k] for k in SV.KINDS}
+    print("Sources: %d cited sentences checked against their chapters" % checked)
+    fixes = {"pointer": "fix the ref's p: (name the files: 'Chapter 4 (ch-006.txt)'), or run source_repoint.py",
+             "unread": "read the chapter with source_read.py, or check the passage and record a waiver",
+             "number": "correct the figure, cut precision the chapter lacks, label 'our arithmetic', or waive OCR damage",
+             "names": "the sentence says something the chapter does not: re-cite it to the right chapter or rewrite it"}
+    for k in SV.KINDS:
+        if by[k]:
+            ok = False
+            f = by[k][0]
+            print("  %-8s %3d   first: module %s, %s (%s)\n           fix: %s" % (k, len(by[k]), f["module"], f["lesson"][:50], ", ".join(f["items"])[:40], fixes[k]))
+        else:
+            print("  %-8s   0" % k)
+    print("  details: python _template/source_verify.py %s --kind <kind>\n" % cid)
+    r = subprocess.run([sys.executable, str(ROOT / "_template" / "check_course.py"), cid], capture_output=True, text=True, encoding="utf-8")
+    talk = [l for l in r.stdout.splitlines() if "author-talk" in l]
+    print("Author-talk: %d module(s)%s" % (len(talk), "" if not talk else "\n  " + "\n  ".join(t.strip()[:200] for t in talk)))
+    ok = ok and not talk
+    print("\nPractice (standard: half of checks and quiz items applied, one applied challenge per module):")
+    for a in PA.audit(cid):
+        good = a["share"] >= PA.STANDARD and a["ch_app"] >= 1
+        ok = ok and good
+        print("  %s %-28s %2d/%2d applied (%3d%%), %d applied challenge(s)" % ("ok " if good else "LOW", a["module"], a["app"], a["n"], round(100 * a["share"]), a["ch_app"]))
+    print("  fix: write case_chk / case_question items (author.py), or convert with practice_convert.py\n")
+    open_lines = [l.strip() for l in r.stdout.splitlines() if "findings still open" in l]
+    print("Findings: %s" % ("none open" if not open_lines else "\n  " + "\n  ".join(open_lines)))
+    ok = ok and not open_lines
+    print("\nReading coverage:")
+    for d, man in SL.sources(cid):
+        n = SL.numbers(d, man)
+        print("  %-24s %3d of %3d read in full, %3d skipped with a reason, %3d unread" % (man["key"], n["n_read"], n["n"], n["n_skipped"], len(n["unread"])))
+    print("\n%s" % ("CLEAN" if ok else "NOT CLEAN: fix the lines above, then run it again"))
+    return ok
+
+
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     cid = sys.argv[2] if len(sys.argv) > 2 else ""
-    if cmd == "check":
+    if cmd == "audit":
+        sys.exit(0 if audit(cid) else 1)
+    elif cmd == "check":
         sys.exit(0 if check(cid) else 1)
     elif cmd == "bump":
         bump()
@@ -168,14 +270,33 @@ if __name__ == "__main__":
         sys.exit(0 if inject(cid) else 1)
     elif cmd == "sources":
         sources(cid)
+    elif cmd == "meta":
+        sys.exit(0 if meta() else 1)
+    elif cmd == "stale":
+        sys.exit(subprocess.run([sys.executable, str(ROOT / "_template" / "stale_sources.py")] + ([cid] if cid else ["--all"])).returncode)
+    elif cmd == "rebuild":
+        b = ROOT / "courses" / cid / "build" / "build.py"
+        if not b.exists():
+            sys.exit("courses/%s/build/build.py does not exist. This course's module files are its source; edit them with "
+                     "course_patch.js or pc_fixlib.py, then run kit.py ship %s." % (cid, cid))
+        r = subprocess.run([sys.executable, str(b)], cwd=str(b.parent))
+        if r.returncode:
+            sys.exit("build.py failed; nothing shipped.")
+        os.execv(sys.executable, [sys.executable, __file__, "ship", cid])
     elif cmd == "ship":
         if not inject(cid):
             sys.exit("Lecturer injection failed.")
+        if not meta():
+            sys.exit("A course meta file has a problem. Fix it first.")
         if not gate():
             sys.exit("The gate found a problem. Fix it first.")
         if not check(cid):
             sys.exit("Fix every PROBLEM first.")
         sources(cid)
+        sys.path.insert(0, str(ROOT / "_template"))
+        import reading_state
+        reading_state.build(cid)
+        subprocess.run([sys.executable, str(ROOT / "_template" / "stale_sources.py"), cid])
         bump()
         md(cid)
         open_course(cid)

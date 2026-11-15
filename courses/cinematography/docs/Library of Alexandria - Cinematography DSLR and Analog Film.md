@@ -1,6 +1,6 @@
 # Library of Alexandria: Cinematography: DSLR and analog film
 
-Level: Some exposure. Created 19/10/2026.
+Level: Some exposure. Created 15/11/2026.
 
 Shoot controlled, intentional moving images on a DSLR or mirrorless camera and on analog film: exposure for motion, lenses and framing, lighting, camera movement and coverage, film stocks and metering, analog video, and a finished side-by-side test.
 
@@ -370,7 +370,7 @@ Worked example: Four film frames become five video frames in 2:3 pulldown. A 100
 - Answer key: AA BBB CC DDD (ten fields, five frames). 90 × 24 ÷ 25 = 86.4 minutes, i.e. 86 min 24 s.
 - Self-check: Count the fields: 2+3+2+3 = 10.
 
-**C2 (core).** VHS gives about 320 pixels across; S-VHS gives 560; HD is 1920. What share of HD width is each? A 2K 10-bit DPX scan frame (2048 × 1080 × 4 bytes) of 7200 frames (two Super 8 cartridges) is how many GB?
+**C2 (core).** VHS gives about 320 pixels across; S-VHS gives 560; HD is 1920. Work out what share of HD width each fills and decide how you would present each clip in an HD edit, with a reason.
 - Answer key: 320 ÷ 1920 = 16.7%. 560 ÷ 1920 = 29.2%. 8,847,360 B × 7200 = 63.7 GB (about 64 GB).
 - Self-check: Divide by 1920 for share and multiply by frame count for storage.
 

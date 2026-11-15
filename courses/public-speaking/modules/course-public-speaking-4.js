@@ -296,7 +296,8 @@
       "'Who uses it?' and 'How is it made?'"
      ],
      "a": 1,
-     "w": "A statement and a question differ in form. {{sus-main}}"
+     "w": "A statement and a question differ in form. {{sus-main}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -308,7 +309,8 @@
       "Chronological only"
      ],
      "a": 2,
-     "w": "Persuasive speeches suit problem-cause-solution. {{sus-pattern}}"
+     "w": "Persuasive speeches suit problem-cause-solution. {{sus-pattern}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -439,7 +441,7 @@
     },
     {
      "t": "check",
-     "q": "What does the serial position effect suggest about conclusions?",
+     "q": "You have one statistic you most want the audience to remember. Using the serial position effect, where should you repeat it?",
      "o": [
       "They matter little",
       "Recency helps people recall what you say last",
@@ -447,7 +449,8 @@
       "Never repeat points"
      ],
      "a": 1,
-     "w": "The final part of a list or speech tends to be recalled well. {{sus-conc1}}"
+     "w": "The final part of a list or speech tends to be recalled well. {{sus-conc1}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -572,7 +575,7 @@
     },
     {
      "t": "check",
-     "q": "How many notecards does the text recommend for a three-point speech?",
+     "q": "You are giving a three-point speech. How many notecards does the text suggest, and what goes on each?",
      "o": [
       "One",
       "Five",
@@ -580,11 +583,12 @@
       "None"
      ],
      "a": 1,
-     "w": "One each for the introduction, three main points and conclusion. {{sus-out2}}"
+     "w": "One each for the introduction, three main points and conclusion. {{sus-out2}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why not use the full-sentence outline as your notes?",
+     "q": "A student plans to take her full-sentence outline to the lectern as notes. What will probably happen?",
      "o": [
       "It is too short",
       "You will end up reading it to the audience",
@@ -592,7 +596,8 @@
       "It has no sources"
      ],
      "a": 1,
-     "w": "Reading reduces eye contact and connection. {{sus-out1}} {{sus-out2}}"
+     "w": "Reading reduces eye contact and connection. {{sus-out1}} {{sus-out2}}",
+     "kind": "application"
     },
     {
      "t": "take",

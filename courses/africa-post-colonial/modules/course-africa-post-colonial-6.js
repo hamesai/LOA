@@ -22,7 +22,7 @@
      "t": "fig",
      "id": "africa-post-colonial-tl6",
      "title": "Strain on three fronts",
-     "cap": "Spans from the working library; open ends fade."
+     "cap": "Approximate spans; open ends fade."
     },
     {
      "t": "h",
@@ -34,7 +34,7 @@
     },
     {
      "t": "p",
-     "x": "Reader adds detail. The majors' coup killed Prime Minister Balewa, Akintola and the Sardauna of Sokoto, six of seven conspirators were Igbo, and no Igbo politician was killed. General Ironsi's unitary decree of 05/1966 abolished the regions and brought northern riots, and after the counter-coup further pogroms drove more than a million refugees to the east by the end of 1966. {{rd-indep}}"
+     "x": "Reader adds detail. The majors' coup killed Prime Minister Balewa, Akintola and the Sardauna of Sokoto, six of seven conspirators were Igbo, and no Igbo politician was killed. General Ironsi led the military regime that followed, and after the counter-coup further pogroms drove more than a million refugees to the east by the end of 1966. {{rd-indep}}"
     },
     {
      "t": "callout",
@@ -71,7 +71,7 @@
     },
     {
      "t": "p",
-     "x": "The introduction to UNESCO's volume VIII (Mazrui) calls the war a world war in microcosm: French support for Biafra against British support for Nigeria, Egyptian pilots on the federal side, Chinese and white-minority support for Biafra against Soviet arms for Nigeria. It also says Czech Delfin jets, banned by Prague in 05/1968, were delivered after the Warsaw Pact invasion that August. It gives no sources for several of these alignments, so treat them as contested [CONTESTED]. The volume was completed in 1989. {{gha-viii}}"
+     "x": "The introduction to UNESCO's volume VIII (Mazrui) calls the war a world war in microcosm: French support for Biafra against British support for Nigeria, Egyptian pilots on the federal side, Chinese and white-minority support for Biafra against Soviet arms for Nigeria. It also says Czech Delfin jets, banned by Prague in 05/1968, were delivered after the Warsaw Pact invasion that August. It gives no sources for several of these alignments, so treat them as contested [CONTESTED]. The volume was completed in 1989. {{gha-viii-ch01}}"
     },
     {
      "t": "table",
@@ -124,7 +124,7 @@
     },
     {
      "t": "check",
-     "q": "Name two reasons the Biafran death toll is uncertain.",
+     "q": "You are asked for 'the' Biafran death toll. Give the two reasons any figure is uncertain.",
      "o": [
       "No reliable census and deaths from hunger in blockaded areas",
       "Perfect records and a short war",
@@ -132,11 +132,12 @@
       "Nothing is uncertain"
      ],
      "a": 0,
-     "w": "The library also names propaganda and the difficulty of separating war deaths from excess mortality. {{lib}}"
+     "w": "The library also names propaganda and the difficulty of separating war deaths from excess mortality. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What does 'courts have not adjudicated' mean for the genocide question?",
+     "q": "A student writes 'the Biafran war was legally a genocide'. What does the fact that no court has adjudicated mean for that sentence?",
      "o": [
       "It is settled",
       "No court has ruled, so the label stays contested",
@@ -144,7 +145,8 @@
       "A court ruled no"
      ],
      "a": 1,
-     "w": "The library tags it [CONTESTED]. {{lib}}"
+     "w": "The library tags it [CONTESTED]. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -183,11 +185,11 @@
     },
     {
      "t": "p",
-     "x": "Volume VIII's chapter on the socialist countries (Thiam and Mulira) puts figures on the alliance, citing Soviet-bloc sources without audit. It says Ethiopia was the leading African recipient of Soviet military aid apart from Egypt, with about 1 billion dollars of arms, 1,500 Soviet advisers and an estimated 20,000 Cuban troops during the Ogaden war, and about 1.5 billion dollars in all by 1981. It also says the Soviet Union had armed Somalia before that, with 181 million dollars of military aid in 1977. The authors add that Mengistu chose the socialist model partly as a way of unifying Ethiopia after the emperor's fall. {{gha-viii}}"
+     "x": "Volume VIII's chapter on the socialist countries (Thiam and Mulira) puts figures on the alliance, citing Soviet-bloc sources without audit. It says Ethiopia was the leading African recipient of Soviet military aid apart from Egypt, with about 1 billion dollars of arms, 1,500 Soviet advisers and an estimated 20,000 Cuban troops during the Ogaden war, and about 1.5 billion dollars in all by 1981. It also says the Soviet Union had armed Somalia before that, with 181 million dollars of military aid in 1977. The authors add that Mengistu chose the socialist model partly as a way of unifying Ethiopia after the emperor's fall. {{gha-viii-ch27}}"
     },
     {
      "t": "p",
-     "x": "Locksley Edmondson's chapter in the same volume gives Cuban figures from one cited study: 18,000 to 24,000 combat troops in Angola in 1975 to 1976, about 20,000 in Ethiopia in 1977 to 1978, and at the 1978 peak about 19,000 in Angola and 16,000 to 17,000 in Ethiopia. These are estimates. {{gha-viii}}"
+     "x": "Locksley Edmondson's chapter in the same volume gives Cuban figures from one cited study: 18,000 to 24,000 combat troops in Angola in 1975 to 1976, about 20,000 in Ethiopia in 1977 to 1978, and at the 1978 peak about 19,000 in Angola and 16,000 to 17,000 in Ethiopia. These are estimates. {{gha-viii-ch28}}"
     },
     {
      "t": "h",
@@ -253,7 +255,7 @@
     },
     {
      "t": "check",
-     "q": "Why is it wrong to call the 1984 to 1985 Ethiopian famine only a drought?",
+     "q": "A charity leaflet calls the 1984 to 1985 Ethiopian famine 'a natural disaster caused by drought'. What is missing?",
      "o": [
       "It rained heavily",
       "War, grain marketing and forced resettlement also played a role",
@@ -261,7 +263,8 @@
       "It was caused by Italy"
      ],
      "a": 1,
-     "w": "The library cites de Waal's argument. {{lib}}"
+     "w": "The library cites de Waal's argument. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -382,7 +385,7 @@
     },
     {
      "t": "p",
-     "x": "The UNESCO General History of Africa, volume VIII, has the Plan's own drafter explain its lineage. Adebayo Adedeji of the Economic Commission for Africa describes a line from the ECA strategy of 02/1971 and the OAU declaration of 05/1973, through the ECA's Revised Framework of 1976, to the Monrovia Strategy that OAU heads adopted in 07/1979. He calls the Plan Africa's economic Magna Carta and says it puts the domestic and regional market, not export earnings, at the centre. He also records that the oil price rise announced on 23/12/1973, from US$5.04 to US$11.65 a barrel, hurt oil-importing African states, and that the OPEC example was not repeated for other commodities. Ali Mazrui's section of the chapter argues that debtors under-used the threat of default, citing Nyerere on becoming OAU chairman in 11/1984. This is an insider's advocacy, not an evaluation of results. {{gha-viii}}"
+     "x": "The UNESCO General History of Africa, volume VIII, has the Plan's own drafter explain its lineage. Adebayo Adedeji of the Economic Commission for Africa describes a line from the ECA strategy of 02/1971 and the OAU declaration of 05/1973, through the ECA's Revised Framework of 1976, to the Monrovia Strategy that OAU heads adopted in 07/1979. He calls the Plan Africa's economic Magna Carta and says it puts the domestic and regional market, not export earnings, at the centre. He also records that the oil price rise announced on 23/12/1973, from US$5.04 to US$11.65 a barrel, hurt oil-importing African states, and that the OPEC example was not repeated for other commodities. Ali Mazrui's section of the chapter argues that debtors under-used the threat of default, citing Nyerere on becoming OAU chairman in 11/1984. This is an insider's advocacy, not an evaluation of results. {{gha-viii-ch14}}"
     },
     {
      "t": "p",
@@ -390,23 +393,23 @@
     },
     {
      "t": "p",
-     "x": "Maxwell Owusu's chapter in volume VIII reads farm policy differently from Berg, and the two should be set side by side. He says marketing boards and export taxes withheld at least 700 million pounds from producers between 1940 and 1962, one third to one half of the value of output, and that Tanzania's agencies paid farmers one fifth to one half of world cereal prices from 1971 to 1976. He adds that cheap food for towns and overvalued exchange rates cut farm incomes and encouraged smuggling. Berg draws a similar lesson on prices, but Owusu also stresses the fall in commodity terms of trade, from 126 in 1953 to 86 in 1971, a different measure from Berg's. The FAO figures he cites show agricultural output growth falling from 2.7 per cent a year in the 1960s to 1.3 per cent in the 1970s, and per capita output from plus 0.2 to minus 1.4. {{gha-viii}}"
+     "x": "Maxwell Owusu's chapter in volume VIII reads farm policy differently from Berg, and the two should be set side by side. He says marketing boards and export taxes withheld at least 700 million pounds from producers between 1940 and 1962, one third to one half of the value of output, and that Tanzania's agencies paid farmers one fifth to one half of world cereal prices from 1971 to 1976. He adds that cheap food for towns and overvalued exchange rates cut farm incomes and encouraged smuggling. Berg draws a similar lesson on prices, but Owusu also stresses the fall in commodity terms of trade, from 126 in 1953 to 86 in 1971, a different measure from Berg's. The FAO figures he cites show agricultural output growth falling from 2.7 per cent a year in the 1960s to 1.3 per cent in the 1970s, and per capita output from plus 0.2 to minus 1.4. {{gha-viii-ch12}}"
     },
     {
      "t": "p",
-     "x": "Pierre Kipre's chapter in the same volume adds the industrial side. Africa produced only 0.9 per cent of the world's manufactured goods in 1980, a figure Adedeji also gives, and imports of manufactures were over 60 per cent of imports in 1978. In Nkrumah's Ghana, 72 per cent of budget credits in 1959 to 1963 and 61 per cent in 1964 to 1970 went to industry, but the state sector did not outlast his fall in 1966. In French-speaking Africa, 67 per cent of approved investment for 1965 to 1970 went to mining. Kipre also shows urban population growing from 31.8 million in 1950 to 132.9 million in 1980, driven by crisis in the countryside more than by factory jobs. {{gha-viii}}"
+     "x": "Pierre Kipre's chapter in the same volume adds the industrial side. Africa produced only 0.9 per cent of the world's manufactured goods in 1980, a figure Adedeji also gives, and imports of manufactures were over 60 per cent of imports in 1978. In Nkrumah's Ghana, 72 per cent of budget credits in 1959 to 1963 and 61 per cent in 1964 to 1970 went to industry, but the state sector did not outlast his fall in 1966. In French-speaking Africa, 67 per cent of approved investment for 1965 to 1970 went to mining. Kipre also shows urban population growing from 31.8 million in 1950 to 132.9 million in 1980, driven by crisis in the countryside more than by factory jobs. {{gha-viii-ch13}}"
     },
     {
      "t": "p",
-     "x": "In volume VIII's chapter on philosophy and science, Ali Mazrui and Jacob Ajayi contrast the two reports directly. They say Adedeji and the ECA stressed global constraints on African development, while the World Bank and IMF stressed mismanagement and policy errors. They treat the Lagos Plan, which the ECA and OAU analysis underlay, as an alternative paradigm to the Berg Report. They date Berg to 1979, but the Bank's report appeared in 1981 [check current]. {{gha-viii}}"
+     "x": "In volume VIII's chapter on philosophy and science, Ali Mazrui and Jacob Ajayi contrast the two reports directly. They say Adedeji and the ECA stressed global constraints on African development, while the World Bank and IMF stressed mismanagement and policy errors. They treat the Lagos Plan, which the ECA and OAU analysis underlay, as an alternative paradigm to the Berg Report. They date Berg to 1979, but the Bank's report appeared in 1981 [check current]. {{gha-viii-ch21}}"
     },
     {
      "t": "p",
-     "x": "Chinweizu's chapter on Africa and the capitalist countries gives the diplomatic record. The UN adopted a Declaration for a New International Economic Order in 1974, and the Common Fund proposed at UNCTAD IV in Nairobi in 1976 shrank from 44 billion to 10 billion dollars, with only 1 billion paid up, by 1983. Commodity agreements covered five commodities by 1984. The Lome Conventions of 1975, 1979 and 1984 grew from 46 to 64 ACP states, and STABEX covered 34 and then 44 commodities. Chinweizu argues that Africa's failure also rested on elites with a 'dependency mentality', who treated development as imported consumption, and he calls blaming the West a form of irresponsibility. That is a polemical thesis against structural readings such as Rodney's [CONTESTED]. Coquery-Vidrovitch's chapter in the same volume gives 1980 and 1986 for Lome II and III, which does not match Chinweizu's 1979 and 1984. {{gha-viii}}"
+     "x": "Chinweizu's chapter on Africa and the capitalist countries gives the diplomatic record. The UN adopted a Declaration for a New International Economic Order in 1974, and the Common Fund proposed at UNCTAD IV in Nairobi in 1976 shrank from 44 billion to 10 billion dollars, with only 1 billion paid up, by 1983. Commodity agreements covered five commodities by 1984. The Lome Conventions of 1975, 1979 and 1984 grew from 46 to 64 ACP states, and STABEX covered 34 and then 44 commodities. Chinweizu argues that Africa's failure also rested on elites with a 'dependency mentality', who treated development as imported consumption, and he calls blaming the West a form of irresponsibility. That is a polemical thesis against structural readings such as Rodney's [CONTESTED]. Coquery-Vidrovitch's chapter in the same volume gives 1980 and 1986 for Lome II and III, which does not match Chinweizu's 1979 and 1984. {{gha-viii-ch26}}"
     },
     {
      "t": "p",
-     "x": "Two more chapters of volume VIII bear on the Lagos Plan. Kouassi says the Plan, adopted in 04/1980, disagreed with the Berg Report of 1981, as inward-looking food self-sufficiency against outward-looking cash-crop exports, and that rivalry between the ECA and the OAU, in the persons of Adedeji and Edem Kodjo, dogged it. This gives Berg's date as 1981, against 1979 in the philosophy chapter. In the last chapter Mazrui gives black Africa's population growth as 2.5 per cent a year in 1960 to 1970, 2.7 in 1970 to 1980 and 3.1 in 1980 to 1986. {{gha-viii}}"
+     "x": "Two more chapters of volume VIII bear on the Lagos Plan. Kouassi says the Plan, adopted in 04/1980, disagreed with the Berg Report of 1981, as inward-looking food self-sufficiency against outward-looking cash-crop exports, and that rivalry between the ECA and the OAU, in the persons of Adedeji and Edem Kodjo, dogged it. This gives Berg's date as 1981, against 1979 in the philosophy chapter. In the last chapter Mazrui gives black Africa's population growth as 2.5 per cent a year in 1960 to 1970, 2.7 in 1970 to 1980 and 3.1 in 1980 to 1986. {{gha-viii-ch29}}"
     },
     {
      "t": "callout",
@@ -431,7 +434,7 @@
     },
     {
      "t": "p",
-     "x": "Volume VIII of the UNESCO General History gives World Bank figures for low-income Africa in a chapter by Catherine Coquery-Vidrovitch. Debt rose from 17.5 per cent of GNP in 1970 to 54.5 per cent in 1984, and from 75.2 to 278.1 per cent of exports. The debt service ratio rose from 6.1 to 19.9 per cent. In the prose, the share of export earnings paid out in debt service went from 18 per cent in 1980 to 26 per cent in 1982, and to 38 per cent for the poorest countries. Public savings fell from 15 to 6 per cent of GDP. Africa took only 3 per cent of world direct foreign investment between 1965 and 1983. Edem Kodjo, then secretary-general of the OAU, said in Lagos in 04/1980: 'Africa is dying'. {{gha-viii}}"
+     "x": "Volume VIII of the UNESCO General History gives World Bank figures for low-income Africa in a chapter by Catherine Coquery-Vidrovitch. Debt rose from 17.5 per cent of GNP in 1970 to 54.5 per cent in 1984, and from 75.2 to 278.1 per cent of exports. The debt service ratio rose from 6.1 to 19.9 per cent. In the prose, the share of export earnings paid out in debt service went from 18 per cent in 1980 to 26 per cent in 1982, and to 38 per cent for the poorest countries. Public savings fell from 15 to 6 per cent of GDP. Africa took only 3 per cent of world direct foreign investment between 1965 and 1983. Edem Kodjo, then secretary-general of the OAU, said in Lagos in 04/1980: 'Africa is dying'. {{gha-viii-ch11}}"
     },
     {
      "t": "callout",
@@ -672,7 +675,7 @@
     },
     {
      "t": "check",
-     "q": "What does an uncertainty range of 500,000 to 2 million tell you?",
+     "q": "A source gives the Biafran toll as 500,000 to 2 million. What should that range tell you?",
      "o": [
       "That the toll is known exactly",
       "That little is known and the method matters",
@@ -680,7 +683,8 @@
       "That the war was small"
      ],
      "a": 1,
-     "w": "Wide ranges signal poor baselines. {{lib}}"
+     "w": "Wide ranges signal poor baselines. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -748,7 +752,7 @@
     },
     {
      "t": "check",
-     "q": "Why read the Berg Report as a position?",
+     "q": "A student quotes the Berg Report as the neutral explanation of Africa's 1980s crisis. Why should it be read as a position?",
      "o": [
       "It was written by one institution with a view",
       "It is fiction",
@@ -756,7 +760,8 @@
       "It is a census"
      ],
      "a": 0,
-     "w": "It blamed domestic policy and was criticised for undervaluing external shocks. {{lib}}"
+     "w": "It blamed domestic policy and was criticised for undervaluing external shocks. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -799,7 +804,7 @@
     },
     {
      "t": "p",
-     "x": "Volume VIII gives a contemporary reading of Achebe's role. Ali Mazrui quotes his view that the African writer must challenge injustice even when Africans commit it. He adds that few heroic works came out of the Nigerian civil war, and that the death of the poet Christopher Okigbo drew a larger literary response than the deaths of half a million Igbo. He names Anthills of the Savannah (1987) as Achebe's first novel since the war. {{gha-viii}}"
+     "x": "Volume VIII gives a contemporary reading of Achebe's role. Ali Mazrui quotes his view that the African writer must challenge injustice even when Africans commit it. He adds that few heroic works came out of the Nigerian civil war, and that the death of the poet Christopher Okigbo drew a larger literary response than the deaths of half a million Igbo. He names Anthills of the Savannah (1987) as Achebe's first novel since the war. {{gha-viii-ch19}}"
     },
     {
      "t": "h",

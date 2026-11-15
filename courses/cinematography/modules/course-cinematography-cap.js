@@ -150,7 +150,7 @@
      "steps": [
       "Frame rate 24 fps, ratio 16:9. Shutter 1/50 s on the digital camera (about 173°, the nearest it offers to 1/48 s) and 180° on the film camera.",
       "Lens: 35 mm on a 1.6 crop body (like 56 mm on full frame). Note the film camera's lens and its field of view in the plan.",
-      "Light: a lamp at 3200 K as key at 2 m reading 80 fc, a white card as fill at half the key (a key-to-fill ratio of 2:1, which is a lighting contrast of 3:1 in the handbook's terms {{fh-ch12}}), a small practical in the background.",
+      "Light: a lamp at 3200 K as key at 2 m reading 80 fc (our example), a white card as fill at half the key (a key-to-fill ratio of 2:1, which is a lighting contrast of 3:1 in the handbook's terms {{fh-ch12}}), a small practical in the background.",
       "Stock: 500T. Interior under tungsten: EI 500. At EI 500, 80 fc supports f/5.6. To shoot at f/4 you need 40 fc, so you have a stop spare.",
       "Roll plan: one Super 8 cartridge is 200 s at 18 fps (150 s at 24 fps, if the camera offers it). At 18 fps, budget 20 shots of 7 seconds (140 s) and a 20 second test bracket, leaving 40 s spare."
      ]

@@ -22,7 +22,7 @@
      "t": "fig",
      "id": "africa-post-colonial-tl5",
      "title": "Apartheid from the Union to 1994",
-     "cap": "Spans from the working library."
+     "cap": "Approximate spans."
     },
     {
      "t": "p",
@@ -30,7 +30,7 @@
     },
     {
      "t": "p",
-     "x": "The Truth and Reconciliation Commission's historical chapter agrees on the land figures: the 1913 Act confined Africans to reserves of about 7 per cent of the land, and at least 3.5 million black South Africans were later forcibly removed. It stresses that apartheid was not the first racially discriminatory system and the National Party government was not the first to shoot protesters. The Rand strike of 07/1913 left just over 100 dead, the troops at Bulhoek in 1921 killed 183 according to the TRC (volume VII gives 163 killed and 129 wounded, [CONTESTED]; do not state one figure without its source), and the Bondelswarts people were bombed from the air in 1922, with about 100 killed. The Commission still holds that the system built from 1948 was different in kind, because it set out to segregate every part of life. {{trc-vol1}}"
+     "x": "The Truth and Reconciliation Commission's historical chapter agrees on the land figures: the 1913 Act confined Africans to reserves of about 7 per cent of the land, and at least 3.5 million black South Africans were later forcibly removed. It stresses that apartheid was not the first racially discriminatory system and the National Party government was not the first to shoot protesters. The Rand strike of 07/1913 left just over 100 dead, the troops at Bulhoek in 1921 killed 183 according to the TRC {{trc-vol1}} (volume VII gives 163 killed and 129 wounded {{gha-vii-ch27}}) [CONTESTED], so do not state one figure without its source. The Bondelswarts people were bombed from the air in 1922, with about 100 killed. The Commission still holds that the system built from 1948 was different in kind, because it set out to segregate every part of life. {{trc-vol1}}"
     },
     {
      "t": "p",
@@ -63,7 +63,7 @@
     },
     {
      "t": "p",
-     "x": "Hertzog tried from 1926 to remove the Cape's African male voters from the common roll and succeeded in 1936, with only 11 MPs voting against. Africans had made up 7.5 per cent of the Cape electorate by 1929. The Coloured common-roll vote ended in 1956. {{w-black}} {{w-apartheid}}"
+     "x": "Hertzog tried from 1926 to remove the Cape's African male voters from the common roll and succeeded in 1936, with only 11 MPs voting against. Africans had made up 7.5 per cent of the Cape electorate by 1929. {{w-black}} The Coloured common-roll vote ended in 1956. {{w-apartheid}}"
     },
     {
      "t": "p",
@@ -202,7 +202,7 @@
     },
     {
      "t": "p",
-     "x": "Kaniki says the 1913 Natives' Land Act reserved 88 per cent of South Africa for whites and 12 per cent for reserves, but a page later gives 6 million Africans on reserves of 88,000 square kilometres against 1.14 million square kilometres for 1.8 million Europeans, which is about 7 per cent. [CONTESTED] The course and the TRC use about 7 per cent in 1913 and 13.7 per cent after 1936, so take 12 per cent as a slip or a later-figure blend. Boahen's final chapter gives 89 per cent for whites and also conflicts with the course; use neither figure without the TRC. Kaniki adds that a white miner earned eleven times an African miner in 1935, that mines employed 163,000 in 1906 including 51,000 indentured Chinese, and that the Civilised Labour Policy dates from 1924 and the Urban Areas Act from 1923. {{gha-vii}}"
+     "x": "Kaniki says the 1913 Natives' Land Act reserved 88 per cent of South Africa for whites and 12 per cent for reserves, but a page later gives 6 million Africans on reserves of 88,000 square kilometres against 1.14 million square kilometres for 1.8 million Europeans, which is about 7 per cent. [CONTESTED] {{gha-vii-ch17}} The TRC gives about 7 per cent in 1913, so take 12 per cent as a slip or a later-figure blend. {{trc-vol1}} Boahen's final chapter gives 89 per cent for whites, which conflicts with both; use neither figure without the TRC. Kaniki adds that a white miner earned eleven times an African miner in 1935, that mines employed 163,000 in 1906 including 51,000 indentured Chinese, and that the Civilised Labour Policy dates from 1924 and the Urban Areas Act from 1923. {{gha-vii-ch17}}"
     },
     {
      "t": "check",
@@ -218,7 +218,7 @@
     },
     {
      "t": "check",
-     "q": "What was the effect of the Natives Land Act of 1913?",
+     "q": "A student says apartheid's land policy began in 1948. Which earlier law undermines that, and what did it do?",
      "o": [
       "It confined most Africans to a small share of land",
       "It ended segregation",
@@ -226,7 +226,8 @@
       "It abolished pass laws"
      ],
      "a": 0,
-     "w": "The library says so. {{lib}}"
+     "w": "That is the lesson's point. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -257,7 +258,7 @@
     },
     {
      "t": "p",
-     "x": "Welsh gives the official 69 dead, a crowd of 3,000 to 25,000, about 200 police in the station and firing for some 20 seconds. A state of emergency followed on 30/03/1960, with 11,503 detained by August, and the ANC and PAC were banned from 01/04/1960. The 'at least 91' revision is from the web source, not Welsh. {{w-opp}}"
+     "x": "Welsh gives the official 69 dead, a crowd of 3,000 to 25,000, about 200 police in the station and firing for some 20 seconds. A state of emergency followed on 30/03/1960, with 11,503 detained by August, and the ANC and PAC were banned from 01/04/1960. Welsh does not give the later revision of the toll. {{w-opp}}"
     },
     {
      "t": "callout",
@@ -266,7 +267,7 @@
     },
     {
      "t": "p",
-     "x": "The same chapter gives other dated points for 1960 to 1990. The Pondoland rising at Ngquza Hill in 06/1960 left at least 11 dead; MK formally declared war on 16/12/1961, and the PAC's Poqo was set up in 09/1961. MK's Church Street car bomb of 05/1983 killed 19 and injured 217, the UDF was formed in 08/1983 from over 500 organisations, and the state of emergency ran from 06/1986 to mid-1990. It counts over 600 dead at Kassinga in 1978. It also says most victims of the southern African conflict lived outside South Africa. In the 1990s, it adds, more killings came from people not bound to any political authority, which makes responsibility hard to assign. {{trc-vol2}}"
+     "x": "The same chapter gives other dated points for 1960 to 1990. The Pondoland rising at Ngquza Hill in 06/1960 left at least 11 dead; MK formally declared war on 16/12/1961, and the PAC's Poqo was set up in 09/1961. MK's Church Street car bomb of 05/1983 killed 19 and injured 217, the UDF was formed in 1983 from over 500 organisations, and the state of emergency ran from 06/1986 to mid-1990. It counts over 600 dead at Kassinga in 1978. It also says most victims of the southern African conflict lived outside South Africa. In the 1990s, it adds, more killings came from people not bound to any political authority, which makes responsibility hard to assign. {{trc-vol2}}"
     },
     {
      "t": "h",
@@ -348,7 +349,7 @@
     },
     {
      "t": "p",
-     "x": "The UNESCO General History, volume VIII, written by Chanaiwa in 1993, gives Sharpeville as 72 killed and 186 wounded, including 40 women and eight children, among a crowd of 10,000 to 20,000, which is a third set of numbers beside 69 and at least 91. For Soweto it says that police killed 23 people and wounded 200, a figure that looks like an early count and is far below the 575 above. It also mislabels two points: it says the Group Areas Act classified all South Africans by race, which was the Population Registration Act, and it writes 'Pan African Congress' for the Pan Africanist Congress. Use the chapter for sequence and context, not for single figures. {{gha-viii}}"
+     "x": "The UNESCO General History, volume VIII, written by Chanaiwa in 1993, gives Sharpeville as 72 killed and 186 wounded, including 40 women and eight children, among a crowd of 10,000 to 20,000, which is a third set of numbers beside the official count and later revisions. For Soweto it says that police killed 23 people and wounded 200, a figure that looks like an early count and is far below later totals. It also mislabels two points: it says the Group Areas Act classified all South Africans by race, which was the Population Registration Act, and it writes 'Pan African Congress' for the Pan Africanist Congress. Use the chapter for sequence and context, not for single figures. {{gha-viii-ch10}}"
     },
     {
      "t": "p",
@@ -360,11 +361,11 @@
     },
     {
      "t": "p",
-     "x": "The anti-dipping campaign (1913 to 1917), the 1918 bucket strike (152 jailed) and the 1920 strike of 71,000 African miners come before the Defiance Campaign. The Industrial and Commercial Workers' Union began in 01/1919 in Cape Town and had 30,000 members in 1924 and 100,000 in 1927 (Kadalie claimed 250,000 [ESTIMATE]). The Communist Party began in 1921, and the ANC took its present name in 1925 with Nkosi Sikelel' iAfrika and a black, green and gold flag. Independent churches grew from 76 in 1918 to 320 in 1932 and over 800 by 1942. Bondelswarts (05/1922): about 100 killed and over 150 jailed, with aircraft used. {{gha-vii}}"
+     "x": "The anti-dipping campaign (1913 to 1917), the 1918 bucket strike (152 jailed) and the 1920 strike of 71,000 African miners come before the Defiance Campaign. The Industrial and Commercial Workers' Union began in 01/1919 in Cape Town and had 30,000 members in 1924 and 100,000 in 1927 (Kadalie claimed 250,000 [ESTIMATE]). The Communist Party began in 1921, and the ANC took its present name in 1925 with Nkosi Sikelel' iAfrika and a black, green and gold flag. In Mozambique, independent churches grew from 76 in 1918 to more than 380 twenty years later. Bondelswarts (05/1922): about 100 killed and over 150 jailed, with aircraft used. {{gha-vii-ch27}}"
     },
     {
      "t": "check",
-     "q": "Why is the Sharpeville death toll given as '69 official, at least 91 later'?",
+     "q": "A pamphlet gives Sharpeville as '69 dead'. Why should you add 'at least 91 later'?",
      "o": [
       "The figures come from different counts: the police record and later research",
       "Nobody died",
@@ -372,11 +373,12 @@
       "Mandela counted them"
      ],
      "a": 0,
-     "w": "The apartheid-era record undercounted. {{wiki-sharpeville}}"
+     "w": "The apartheid-era record undercounted. {{wiki-sharpeville}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Name the reason Soweto began.",
+     "q": "You are writing a caption for a photograph of the 16 June 1976 march. What were the students protesting?",
      "o": [
       "A protest against compulsory Afrikaans in teaching",
       "A trade fair",
@@ -384,7 +386,8 @@
       "The 1994 election"
      ],
      "a": 0,
-     "w": "Schoolchildren marched on 16/06/1976. {{lib}}"
+     "w": "Schoolchildren marched on 16/06/1976. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -512,7 +515,7 @@
     },
     {
      "t": "check",
-     "q": "What was the TRC's relationship to the courts?",
+     "q": "A student calls the Truth and Reconciliation Commission 'a court that punished apartheid's crimes'. What should you correct?",
      "o": [
       "It was a court",
       "It offered amnesty in exchange for truth and was not a court",
@@ -520,7 +523,8 @@
       "It had no powers"
      ],
      "a": 1,
-     "w": "The library gives this. {{lib}}"
+     "w": "That is the lesson's point. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -647,7 +651,7 @@
     },
     {
      "t": "check",
-     "q": "What is the best answer to 'why did apartheid end?'",
+     "q": "An exam answer says apartheid ended because De Klerk changed his mind. What is the best answer?",
      "o": [
       "De Klerk decided alone",
       "A combination of resistance, economic pressure, the Cold War's end and negotiation",
@@ -655,11 +659,12 @@
       "It never ended"
      ],
      "a": 1,
-     "w": "Most scholars see a combination [CONTESTED]. {{lib}}"
+     "w": "Most scholars see a combination [CONTESTED]. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What does the 'elite pact' argument say?",
+     "q": "A critic says South Africa got political change but not economic change in 1994. Which argument are they making?",
      "o": [
       "Negotiation left economic power with the old elite",
       "The ANC lost the election",
@@ -667,7 +672,8 @@
       "The TRC was a court"
      ],
      "a": 0,
-     "w": "It is one of the four explanations. {{lib}}"
+     "w": "It is one of the four explanations. {{lib}}",
+     "kind": "application"
     },
     {
      "t": "take",

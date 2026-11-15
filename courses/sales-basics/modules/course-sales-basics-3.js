@@ -242,7 +242,7 @@
     },
     {
      "t": "check",
-     "q": "Which objective is SMART?",
+     "q": "Your manager asks for your goal on tomorrow's call. Which one is SMART?",
      "o": [
       "Learn more about them",
       "By the end of the call, learn who decides and agree a follow-up date by Friday",
@@ -250,11 +250,12 @@
       "Close eventually"
      ],
      "a": 1,
-     "w": "It is specific, measurable, actionable, realistic and time-bound. {{ps-pre3}}"
+     "w": "It is specific, measurable, actionable, realistic and time-bound. {{ps-pre3}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "When is a specific benefit statement used?",
+     "q": "A prospect has just told you their deliveries keep arriving late. When, and why, would you now use a specific benefit statement?",
      "o": [
       "Never",
       "Before research",
@@ -262,7 +263,8 @@
       "Only on invoices"
      ],
      "a": 2,
-     "w": "The specific statement follows the general one and shows you understand their situation. {{ps-pre2}}"
+     "w": "The specific statement follows the general one and shows you understand their situation. {{ps-pre2}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -408,11 +410,12 @@
       "Can you talk now or never?"
      ],
      "a": 1,
-     "w": "A 'bad time?' question makes it easy to say yes and end the call. {{ps-approach2}}"
+     "w": "A 'bad time?' question makes it easy to say yes and end the call. {{ps-approach2}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why does the textbook's 'twelve emails' advice need care in the UK or Ireland?",
+     "q": "Your US sales book says to send a prospect twelve follow-up emails. You sell to consumers in Ireland. Why should you be careful?",
      "o": [
       "It is fine everywhere",
       "Persistent unwanted communications can breach consumer law, and consent rules apply",
@@ -420,7 +423,8 @@
       "Emails must be handwritten"
      ],
      "a": 1,
-     "w": "Irish law bans persistent unwanted communications; see Module 6. {{ci-unfair}}"
+     "w": "Irish law bans persistent unwanted communications; see Module 6. {{ci-unfair}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -716,7 +720,7 @@
     },
     {
      "t": "check",
-     "q": "What does the lesson warn about using the six ways?",
+     "q": "A colleague memorises Carnegie's six ways and uses prospects' names every sentence to seem friendly. What does the lesson warn about this?",
      "o": [
       "Never use them",
       "They can be used as tricks, so keep the interest genuine",
@@ -724,7 +728,8 @@
       "They only work online"
      ],
      "a": 1,
-     "w": "Britannica notes the emphasis on genuine interest. {{brit-carnegie-book}}"
+     "w": "Britannica notes the emphasis on genuine interest. {{brit-carnegie-book}}",
+     "kind": "application"
     },
     {
      "t": "take",

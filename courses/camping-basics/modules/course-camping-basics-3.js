@@ -100,7 +100,7 @@
     },
     {
      "t": "check",
-     "q": "Why can the comfort rating be more useful for a cold sleeper?",
+     "q": "You always feel the cold at night and are choosing between two bags with the same lower limit but different comfort ratings. Which rating should you plan from, and why?",
      "o": [
       "It is always higher than the lower limit, so it is a safer planning figure for cold sleepers",
       "It shows weight",
@@ -108,11 +108,12 @@
       "It is the same as lower limit"
      ],
      "a": 0,
-     "w": "The comfort rating describes a cold sleeper and sits above the lower limit. {{rei-bag}}"
+     "w": "The comfort rating describes a cold sleeper and sits above the lower limit. {{rei-bag}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "A bag is called '5'. What does that tell you?",
+     "q": "A shop sells a bag named 'Trek 5' and says it is good to 5 °C. What should you check before believing that?",
      "o": [
       "Its lower limit is 5 °C",
       "Its comfort is 5 °C",
@@ -120,7 +121,8 @@
       "It is a four-season bag"
      ],
      "a": 2,
-     "w": "The number in a name is rounded by the brand. {{rei-bag}}"
+     "w": "The number in a name is rounded by the brand. {{rei-bag}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -356,7 +358,7 @@
     },
     {
      "t": "check",
-     "q": "What does wind do to your skin's warm boundary layer?",
+     "q": "It is 8 °C but blowing hard on the ridge, and your friend says it is not that cold. What is the wind doing to your skin's warm boundary layer?",
      "o": [
       "Thickens it",
       "Strips it away so you feel colder",
@@ -364,7 +366,8 @@
       "Nothing"
      ],
      "a": 1,
-     "w": "Wind removes the boundary layer and skin temperature drops. {{met-wc}}"
+     "w": "Wind removes the boundary layer and skin temperature drops. {{met-wc}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -475,7 +478,7 @@
     },
     {
      "t": "check",
-     "q": "Why not wear bulky clothing inside the bag?",
+     "q": "A friend climbs into their bag wearing a thick down jacket and fleece trousers and still feels cold. What might be going wrong?",
      "o": [
       "It is heavy",
       "It can reduce the bag's ability to trap heat",
@@ -483,7 +486,8 @@
       "It causes condensation"
      ],
      "a": 1,
-     "w": "REI says bulky clothing can reduce efficient heat trapping. {{rei-sleep}}"
+     "w": "REI says bulky clothing can reduce efficient heat trapping. {{rei-sleep}}",
+     "kind": "application"
     },
     {
      "t": "take",

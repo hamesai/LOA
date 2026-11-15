@@ -150,7 +150,7 @@
     },
     {
      "t": "check",
-     "q": "Which temperature governs germination?",
+     "q": "Your greenhouse air reads 20°C but the seed trays sit on a cold concrete floor. Which temperature matters for germination?",
      "o": [
       "The air temperature in the greenhouse",
       "The temperature of the growing medium",
@@ -158,7 +158,8 @@
       "The water temperature in the sump"
      ],
      "a": 1,
-     "w": "UMD: this should be the temperature of the growing medium, not the air."
+     "w": "UMD: this should be the temperature of the growing medium, not the air.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -288,7 +289,7 @@
     },
     {
      "t": "check",
-     "q": "Roughly what does a properly moist mix feel like?",
+     "q": "You squeeze a handful of seed compost and water drips out. Is it ready to sow into, and what should it feel like?",
      "o": [
       "Dusty and dry",
       "Like a wrung-out sponge",
@@ -296,7 +297,8 @@
       "Hard and compacted"
      ],
      "a": 1,
-     "w": "USU: it is too wet if you can squeeze water from a handful."
+     "w": "USU: it is too wet if you can squeeze water from a handful.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -436,7 +438,7 @@
     },
     {
      "t": "check",
-     "q": "Which sowing depth is a sound starting point for small seeds?",
+     "q": "A seed packet gives no depth for seeds about 1 mm across. What is a sound starting depth?",
      "o": [
       "About 5 times the diameter",
       "About 2–3 times the seed's diameter",
@@ -444,7 +446,8 @@
       "As deep as the tray allows"
      ],
      "a": 1,
-     "w": "USU gives 2–3 times; UMD and UAF give about twice. Light-needing seeds are the exception."
+     "w": "USU gives 2–3 times; UMD and UAF give about twice. Light-needing seeds are the exception.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -460,7 +463,7 @@
     },
     {
      "t": "check",
-     "q": "Which combination most encourages damping-off?",
+     "q": "Seedlings in a crowded, still, cool corner with soggy compost start collapsing at the stem. Which conditions caused it?",
      "o": [
       "Warm, dry, spacious plants",
       "Poor air circulation, crowded plants, cool soggy soil and weak light",
@@ -468,7 +471,8 @@
       "Perlite on the surface"
      ],
      "a": 1,
-     "w": "UAF lists exactly these conditions."
+     "w": "UAF lists exactly these conditions.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -617,7 +621,7 @@
     },
     {
      "t": "check",
-     "q": "When do you move a seedling out of a plug cell?",
+     "q": "Your plug-grown seedlings now show their first true leaves. What should you do?",
      "o": [
       "Before it germinates",
       "As soon as the first true leaves develop",
@@ -625,7 +629,8 @@
       "When the mix turns dry"
      ],
      "a": 1,
-     "w": "NRCS and UAF both give the first true leaves as the trigger."
+     "w": "NRCS and UAF both give the first true leaves as the trigger.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -766,7 +771,8 @@
       "93 per cent"
      ],
      "a": 1,
-     "w": "27 divided by 30 is 0.9, or 90 per cent."
+     "w": "27 divided by 30 is 0.9, or 90 per cent.",
+     "kind": "application"
     },
     {
      "t": "check",

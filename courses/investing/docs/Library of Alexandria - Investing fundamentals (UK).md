@@ -1,6 +1,6 @@
 # Library of Alexandria: Investing fundamentals (UK)
 
-Level: Beginner. Created 17/10/2026.
+Level: Beginner. Created 15/11/2026.
 
 Build a simple, diversified, low-cost portfolio you understand, and spot the scams and tax traps that cost most beginners money.
 
@@ -122,7 +122,7 @@ Worked example: A 30% fall needs a 42.9% rise to recover: £10,000 falls to £7,
 - Answer key: £3,000.
 - Self-check: Multiply £30,000 by 10%.
 
-**C2 (core).** A portfolio falls 20%, then rises 20%. Where does it end, and why?
+**C2 (core).** A portfolio falls 20%, then rises 20%. Work out where £10,000 ends, explain why, and say what this means for how you read a fund's 'average' return.
 - Answer key: It ends at 96% of the start, so it does not recover. 0.8 × 1.2 = 0.96.
 - Self-check: Multiply the two factors.
 
@@ -214,7 +214,7 @@ Worked example: A £8,000 gain outside an ISA, with a £3,000 exempt amount, lea
 - Answer key: Any two of unit trust, OEIC, investment trust, ISA or workplace pension.
 - Self-check: Check against the module table.
 
-**C2 (core).** The SPIVA figure for 10 years is 83.33%. What does it mean, and what does it not show?
+**C2 (core).** The SPIVA figure for 10 years is 83.33%. A fund manager tells you this proves active funds always fail. Say what the figure does mean, and what it does not show.
 - Answer key: It means that 83.33% of active US large-cap funds underperformed the S&P 500 over 10 years. It does not show UK funds or any single fund's future.
 - Self-check: The answer must give both the meaning and a limit.
 

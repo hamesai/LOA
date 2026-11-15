@@ -201,7 +201,7 @@
     },
     {
      "t": "check",
-     "q": "Why is carbon monoxide hard to detect?",
+     "q": "A camper says they would notice if the stove was making the tent air dangerous. Why might they not?",
      "o": [
       "It smells strongly",
       "It is colourless, tasteless, odourless and non-irritating",
@@ -209,7 +209,8 @@
       "It is only outdoors"
      ],
      "a": 1,
-     "w": "NI Direct lists those four properties. {{nid-co}}"
+     "w": "NI Direct lists those four properties. {{nid-co}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -316,7 +317,8 @@
       "Only if it is moving"
      ],
      "a": 1,
-     "w": "The CDC says clear water can carry germs. {{cdc}}"
+     "w": "The CDC says clear water can carry germs. {{cdc}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -421,7 +423,7 @@
     },
     {
      "t": "check",
-     "q": "What temperature should chilled food stay below?",
+     "q": "Your cool box thermometer reads 9 °C on day two. What is the target, and is your food safe to treat as chilled?",
      "o": [
       "10 °C",
       "8 °C",
@@ -429,7 +431,8 @@
       "0 °C"
      ],
      "a": 2,
-     "w": "The FSA says food should be stored below 5 °C. {{fsa}}"
+     "w": "The FSA says food should be stored below 5 °C. {{fsa}}",
+     "kind": "application"
     },
     {
      "t": "check",

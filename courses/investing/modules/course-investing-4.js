@@ -147,7 +147,7 @@
     },
     {
      "t": "check",
-     "q": "Which of these is a higher level of diversification than holding one company?",
+     "q": "You hold one bank share and want to diversify. Which move gives the most diversification?",
      "o": [
       "A second share in the same sector",
       "A fund spreading money across many companies and markets",
@@ -155,7 +155,8 @@
       "Borrowing to buy more"
      ],
      "a": 1,
-     "w": "The FCA describes funds as a way to spread across many holdings and markets. {{fca-diversification}}"
+     "w": "The FCA describes funds as a way to spread across many holdings and markets. {{fca-diversification}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -366,7 +367,7 @@
     },
     {
      "t": "check",
-     "q": "What does a low correlation between two holdings suggest?",
+     "q": "Two funds you hold have a low correlation over ten years. What should you expect in a bad year for one of them?",
      "o": [
       "They often move together",
       "They tend to move differently",
@@ -374,7 +375,8 @@
       "They are the same fund"
      ],
      "a": 1,
-     "w": "Low correlation means they do not move closely together, which can lower portfolio risk. {{markowitz-1952}}"
+     "w": "Low correlation means they do not move closely together, which can lower portfolio risk. {{markowitz-1952}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -715,7 +717,8 @@
       "50%"
      ],
      "a": 1,
-     "w": "£3,600 ÷ £5,600 is about 64.3%. This is our arithmetic."
+     "w": "£3,600 ÷ £5,600 is about 64.3%. This is our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -727,7 +730,8 @@
       "The weather"
      ],
      "a": 1,
-     "w": "A change in your own circumstances changes the goal or capacity the plan was built on. This is our inference."
+     "w": "A change in your own circumstances changes the goal or capacity the plan was built on. This is our inference.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -842,7 +846,8 @@
       "60%"
      ],
      "a": 2,
-     "w": "£6,000 ÷ £20,000 is 30%. Our arithmetic."
+     "w": "£6,000 ÷ £20,000 is 30%. Our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -976,7 +981,7 @@
     },
     {
      "t": "check",
-     "q": "Two holdings that tend to fall together give you...",
+     "q": "You add a second fund that usually falls when your first fund falls. How much does it lower your portfolio risk?",
      "o": [
       "Large risk reduction",
       "Little risk reduction",
@@ -984,7 +989,8 @@
       "No fees"
      ],
      "a": 1,
-     "w": "Holdings with high covariances among themselves do little to lower portfolio risk. {{lec-markowitz-1952}}"
+     "w": "Holdings with high covariances among themselves do little to lower portfolio risk. {{lec-markowitz-1952}}",
+     "kind": "application"
     },
     {
      "t": "take",

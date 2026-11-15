@@ -74,7 +74,7 @@
     },
     {
      "t": "check",
-     "q": "What does the text say a presentation is mostly for?",
+     "q": "A new rep spends 40 minutes reading his slides to a client without stopping. What is he missing about what a presentation is for?",
      "o": [
       "Reading slides aloud",
       "Listening, adapting and solving problems",
@@ -82,11 +82,12 @@
       "Showing off"
      ],
      "a": 1,
-     "w": "It says presentations are for listening, adapting and solving problems. {{ps-pres1}}"
+     "w": "It says presentations are for listening, adapting and solving problems. {{ps-pres1}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why bring a printed copy of your slides?",
+     "q": "You are presenting at a client's office and their projector may not work with your laptop. What does the text recommend you bring, and why?",
      "o": [
       "Because it looks old-fashioned",
       "In case technology fails",
@@ -94,7 +95,8 @@
       "It is required"
      ],
      "a": 1,
-     "w": "The text recommends contingency plans such as handouts if equipment fails. {{ps-pres2}}"
+     "w": "The text recommends contingency plans such as handouts if equipment fails. {{ps-pres2}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -194,7 +196,7 @@
     },
     {
      "t": "check",
-     "q": "Which question explores the consequences of a problem?",
+     "q": "The client has said their old system crashes weekly. Which SPIN question type should you ask next to explore what those crashes cost them?",
      "o": [
       "Situation",
       "Problem",
@@ -202,7 +204,8 @@
       "Need-payoff"
      ],
      "a": 2,
-     "w": "Implication questions uncover effects and consequences. {{ps-pres3}}"
+     "w": "Implication questions uncover effects and consequences. {{ps-pres3}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -335,7 +338,8 @@
       "Can we meet Friday?"
      ],
      "a": 1,
-     "w": "Open questions start with who, what, when, where or why. {{ps-pres4}}"
+     "w": "Open questions start with who, what, when, where or why. {{ps-pres4}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -476,7 +480,8 @@
       "40%"
      ],
      "a": 0,
-     "w": "Savings £4,000 − cost £2,000 = £2,000 benefit; £2,000 ÷ £2,000 × 100 = 100%. {{ps-pres2}}"
+     "w": "Savings £4,000 − cost £2,000 = £2,000 benefit; £2,000 ÷ £2,000 × 100 = 100%. {{ps-pres2}}",
+     "kind": "application"
     },
     {
      "t": "check",

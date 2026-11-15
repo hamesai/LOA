@@ -157,11 +157,12 @@
       "Five"
      ],
      "a": 1,
-     "w": "f/2.8 to f/4, f/5.6 and f/8 is three full steps, so three stops. {{wiki-fnumber}}"
+     "w": "f/2.8 to f/4, f/5.6 and f/8 is three full steps, so three stops. {{wiki-fnumber}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which change adds exactly one stop of exposure?",
+     "q": "Your shot is one stop too dark and you can change only one setting. Which change adds exactly one stop?",
      "o": [
       "ISO 200 to ISO 300",
       "f/8 to f/5.6",
@@ -169,7 +170,8 @@
       "ISO 400 to ISO 200"
      ],
      "a": 1,
-     "w": "Opening from f/8 to f/5.6 doubles the aperture area. f/8 to f/4 would be two stops. {{wiki-fnumber}}"
+     "w": "Opening from f/8 to f/5.6 doubles the aperture area. f/8 to f/4 would be two stops. {{wiki-fnumber}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -320,7 +322,8 @@
       "1/120 s"
      ],
      "a": 1,
-     "w": "The interval is 1/30 s and half of it is 1/60 s. {{wiki-shutter}}"
+     "w": "The interval is 1/30 s and half of it is 1/60 s. {{wiki-shutter}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -375,7 +378,7 @@
     },
     {
      "t": "p",
-     "x": "Film-world ND filters are marked in steps of 0.1, and each 0.1 is a third of a stop. {{fh-ch8}} When you stack two ND filters you add their densities (0.3 plus 0.6 is 0.9, three stops), whereas the filter factors multiply (2 times 4 is 8). {{fh-ch8}} Some filters carry the factor instead of the density, so a filter marked 2X is one stop and one marked 4X is two. {{fh-ch8}}"
+     "x": "Film-world ND filters are marked in steps of 0.1, and each 0.1 is a third of a stop. {{fh-ch8}} When you stack two ND filters you add their densities (0.3 plus 0.6 is 0.9, three stops), whereas the filter factors multiply (2 times 4 is 8; our arithmetic). {{fh-ch8}} Some filters carry the factor instead of the density, so a filter marked 2X is one stop and one marked 4X is two. {{fh-ch8}}"
     },
     {
      "t": "p",
@@ -473,7 +476,7 @@
     },
     {
      "t": "check",
-     "q": "Why do cinematographers usually avoid changing aperture to fix exposure within a scene?",
+     "q": "Clouds keep passing during a dialogue scene and your assistant wants to ride the aperture between takes. Why do cinematographers usually avoid that?",
      "o": [
       "It is not possible on cinema lenses",
       "Depth of field changes with aperture",
@@ -481,7 +484,8 @@
       "It changes the frame rate"
      ],
      "a": 1,
-     "w": "Aperture changes depth of field, which would change the look between shots. {{wiki-dof}}"
+     "w": "Aperture changes depth of field, which would change the look between shots. {{wiki-dof}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -621,7 +625,7 @@
     },
     {
      "t": "check",
-     "q": "What is the main reason handheld telephoto shots wobble on many DSLRs?",
+     "q": "Your handheld 200 mm shot on a DSLR looks like jelly whenever you move. What is the main cause?",
      "o": [
       "Low ISO",
       "Rolling shutter",
@@ -629,7 +633,8 @@
       "Too much light"
      ],
      "a": 1,
-     "w": "Wobble appears when the camera vibrates, especially handheld at telephoto settings. {{wiki-rolling}}"
+     "w": "Wobble appears when the camera vibrates, especially handheld at telephoto settings. {{wiki-rolling}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -757,7 +762,8 @@
       "No change"
      ],
      "a": 0,
-     "w": "Each frame is exposed for twice as long, so you gain one stop. {{fh-ch9}}"
+     "w": "Each frame is exposed for twice as long, so you gain one stop. {{fh-ch9}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -888,7 +894,8 @@
       "Turn off the viewfinder"
      ],
      "a": 0,
-     "w": "Slower pans and a soft background reduce judder. {{fh-ch9}}"
+     "w": "Slower pans and a soft background reduce judder. {{fh-ch9}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -900,7 +907,8 @@
       "Four"
      ],
      "a": 1,
-     "w": "6 dB is one stop, so 12 dB is two stops (our arithmetic). {{fh-ch3}}"
+     "w": "6 dB is one stop, so 12 dB is two stops (our arithmetic). {{fh-ch3}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -1087,7 +1095,8 @@
       "Out of focus"
      ],
      "a": 0,
-     "w": "Fewer frames per second in the camera than the projector speeds the action up. {{fa-ch5}}"
+     "w": "Fewer frames per second in the camera than the projector speeds the action up. {{fa-ch5}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -1227,7 +1236,8 @@
       "1 mm"
      ],
      "a": 1,
-     "w": "5 ÷ 500 = 0.01 m, which is 1 cm."
+     "w": "5 ÷ 500 = 0.01 m, which is 1 cm.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1239,7 +1249,8 @@
       "6"
      ],
      "a": 2,
-     "w": "The ratio is 20, and log base 2 of 20 is about 4.3."
+     "w": "The ratio is 20, and log base 2 of 20 is about 4.3.",
+     "kind": "application"
     },
     {
      "t": "take",

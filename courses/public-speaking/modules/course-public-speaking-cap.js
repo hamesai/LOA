@@ -210,11 +210,11 @@
      "i": [
       [
        "Rubric",
-       "A scoring guide with criteria and levels. (Our wording.)"
+       "A scoring guide with criteria and levels."
       ],
       [
        "Review",
-       "A written reflection after the recording. (Our wording.)"
+       "A written reflection after the recording."
       ],
       [
        "Direct feedback question",

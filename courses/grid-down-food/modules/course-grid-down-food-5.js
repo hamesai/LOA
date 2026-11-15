@@ -103,7 +103,7 @@
     },
     {
      "t": "check",
-     "q": "What does FSIS say about an emergency food supply?",
+     "q": "You are building an emergency cupboard. Which plan matches the FSIS advice?",
      "o": [
       "Only fresh food",
       "Include shelf-stable food and a can opener, and replace items from time to time",
@@ -111,7 +111,8 @@
       "Do not keep supplies"
      ],
      "a": 1,
-     "w": "FSIS recommends shelf-stable food, canned goods, a can opener and replacing items over time. {{fsis}}"
+     "w": "FSIS recommends shelf-stable food, canned goods, a can opener and replacing items over time. {{fsis}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -123,7 +124,8 @@
       "Give it to a baby"
      ],
      "a": 1,
-     "w": "Room-temperature food usually stays safe after best-before, and the FSAI says to use discretion on quality; damaged packaging should not be used. {{cmo}} {{fsai}}"
+     "w": "Room-temperature food usually stays safe after best-before, and the FSAI says to use discretion on quality; damaged packaging should not be used. {{cmo}} {{fsai}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -216,7 +218,7 @@
     {
      "t": "callout",
      "k": "warn",
-     "x": "A freezer does not kill germs; it stops them multiplying. Thawed food can still make you ill (our wording of general food-safety principle)."
+     "x": "A freezer does not kill germs; it stops them multiplying. Thawed food can still make you ill (a general food-safety principle)."
     },
     {
      "t": "activity",
@@ -236,7 +238,7 @@
     },
     {
      "t": "check",
-     "q": "Can you freeze food that has passed its use-by date?",
+     "q": "Your chicken's use-by date was yesterday and it looks fine. Can you freeze it now to keep it?",
      "o": [
       "Yes, always",
       "No",
@@ -244,7 +246,8 @@
       "Only if smelling normal"
      ],
      "a": 1,
-     "w": "Food should only be frozen within its use-by date. {{fsai}}"
+     "w": "Food should only be frozen within its use-by date. {{fsai}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -340,7 +343,7 @@
     },
     {
      "t": "check",
-     "q": "What is the only recommended method for canning low-acid foods at home?",
+     "q": "You want to can your own green beans at home. Which method is the only one recommended?",
      "o": [
       "Boiling-water canner",
       "Oven",
@@ -348,7 +351,8 @@
       "Slow cooker"
      ],
      "a": 2,
-     "w": "Pressure canning is the only recommended method for low-acid foods. {{cdcbot}} {{nchfp}}"
+     "w": "Pressure canning is the only recommended method for low-acid foods. {{cdcbot}} {{nchfp}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -448,7 +452,7 @@
     },
     {
      "t": "check",
-     "q": "How long can homemade garlic oil be kept in the fridge according to CDC?",
+     "q": "You made garlic oil on Monday and kept it in the fridge. On the CDC guidance, when must you throw it away?",
      "o": [
       "1 day",
       "4 days",
@@ -456,7 +460,8 @@
       "6 months"
      ],
      "a": 1,
-     "w": "CDC says to throw away unused garlic or herb oils after 4 days. {{cdcbot}}"
+     "w": "CDC says to throw away unused garlic or herb oils after 4 days. {{cdcbot}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -468,7 +473,8 @@
       "It is cold"
      ],
      "a": 1,
-     "w": "Bulging, leaking or swollen containers might be contaminated. {{cdcbot}}"
+     "w": "Bulging, leaking or swollen containers might be contaminated. {{cdcbot}}",
+     "kind": "application"
     },
     {
      "t": "take",

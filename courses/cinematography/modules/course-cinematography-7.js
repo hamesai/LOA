@@ -123,11 +123,12 @@
       "24"
      ],
      "a": 0,
-     "w": "Two fields make a frame, so 50 ÷ 2 = 25. {{wiki-interlace}}"
+     "w": "Two fields make a frame, so 50 ÷ 2 = 25. {{wiki-interlace}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "A deinterlacer throws away one field and doubles the other. What is the main cost?",
+     "q": "You deinterlace old tape by discarding one field and doubling the other. What will you lose?",
      "o": [
       "Lower resolution and less smooth motion",
       "Colour shifts",
@@ -135,7 +136,8 @@
       "Louder sound"
      ],
      "a": 0,
-     "w": "Line doubling discards half the lines and can make motion less smooth. {{fh-ch5b}}"
+     "w": "Line doubling discards half the lines and can make motion less smooth. {{fh-ch5b}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -276,7 +278,7 @@
     },
     {
      "t": "check",
-     "q": "About how many pixels across does standard VHS give, in digital terms?",
+     "q": "You plan to put a VHS clip full-screen in a 1920-pixel HD edit. About how many pixels across does VHS give, and what will it look like?",
      "o": [
       "About 320",
       "About 560",
@@ -284,7 +286,8 @@
       "About 1920"
      ],
      "a": 0,
-     "w": "VHS is about 240 TV lines, roughly 320 pixels. {{wiki-vhs}}"
+     "w": "VHS is about 240 TV lines, roughly 320 pixels. {{wiki-vhs}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -501,7 +504,8 @@
       "Eight"
      ],
      "a": 1,
-     "w": "Four film frames fill five video frames. {{wiki-telecine}}"
+     "w": "Four film frames fill five video frames. {{wiki-telecine}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -513,11 +517,12 @@
       "100 min"
      ],
      "a": 1,
-     "w": "90 × 24 ÷ 25 = 86.4 minutes. This follows from the 4 percent speed-up. {{wiki-telecine}}"
+     "w": "90 × 24 ÷ 25 = 86.4 minutes. This follows from the 4 percent speed-up. {{wiki-telecine}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Which PAL transfer method keeps the film at its real speed and leaves the audio unchanged?",
+     "q": "Your film must keep its original music pitch when broadcast in a PAL country. Which transfer method keeps speed and audio unchanged?",
      "o": [
       "24+1 pulldown, which adds an extra field every 12 frames",
       "24@25 speed-up",
@@ -525,7 +530,8 @@
       "Doubling the frame rate"
      ],
      "a": 0,
-     "w": "The 24+1 or PAL+1 method adds one video frame a second without speeding up the picture. {{fh-ch16}}"
+     "w": "The 24+1 or PAL+1 method adds one video frame a second without speeding up the picture. {{fh-ch16}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -537,7 +543,8 @@
       "About an hour"
      ],
      "a": 0,
-     "w": "A frame is about 0.0417 s, and 0.0417 ÷ 0.001 is about 42 s. {{fh-ch16}}"
+     "w": "A frame is about 0.0417 s, and 0.0417 ÷ 0.001 is about 42 s (our arithmetic). {{fh-ch16}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -720,7 +727,8 @@
       "About 3 TB"
      ],
      "a": 1,
-     "w": "3600 frames at about 8.85 MB each is around 31.9 GB."
+     "w": "3600 frames at about 8.85 MB each is around 31.9 GB.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -820,7 +828,7 @@
     {
      "t": "callout",
      "k": "note",
-     "x": "The handbook rounds the PAL speed-up of 24 to 25 fps to 4.1 per cent. The arithmetic is 25 ÷ 24 = 1.0417, or 4.17 per cent. The earlier lesson uses the arithmetic. {{fh-ch16}}"
+     "x": "The handbook rounds the PAL speed-up of 24 to 25 fps to 4.1 per cent. The arithmetic is 25 ÷ 24 = 1.0417, or 4.17 per cent. The earlier lesson uses our own arithmetic. {{fh-ch16}}"
     },
     {
      "t": "h",
@@ -828,7 +836,7 @@
     },
     {
      "t": "p",
-     "x": "Five video frames equal four film frames, so a shot of three video frames is 3 × 4 ÷ 5 = 2.4 film frames. Matchback software adds or drops a frame to keep the length, by at most one frame. {{fh-ch16}}"
+     "x": "Five video frames equal four film frames, so a shot of three video frames is 3 × 4 ÷ 5 = 2.4 film frames (our arithmetic). Matchback software adds or drops a frame to keep the length, by at most one frame. {{fh-ch16}}"
     },
     {
      "t": "p",
@@ -873,7 +881,8 @@
       "3.75"
      ],
      "a": 1,
-     "w": "Four film frames fill five video frames, so 3 × 4 ÷ 5 = 2.4 (our arithmetic). {{fh-ch16}}"
+     "w": "Four film frames fill five video frames, so 3 × 4 ÷ 5 = 2.4 (our arithmetic). {{fh-ch16}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -928,7 +937,7 @@
     },
     {
      "t": "p",
-     "x": "A Digital Cinema Package uses JPEG 2000 at 12 bits, an MXF wrapper, true integer frame rates and 24-bit PCM sound at 48 or 96 kHz. {{fh-ch14}}"
+     "x": "A Digital Cinema Package uses JPEG 2000 at 12 bits, an MXF wrapper, true integer frame rates and 24-bit PCM sound at 48 kHz. {{fh-ch14}}"
     },
     {
      "t": "p",
@@ -1037,7 +1046,7 @@
     },
     {
      "t": "check",
-     "q": "Why avoid tail slates?",
+     "q": "Your assistant keeps putting the slate at the end of takes. Why does the handbook advise against tail slates?",
      "o": [
       "The editor or operator must roll to the end, sync, and roll back",
       "They are too bright",
@@ -1045,7 +1054,8 @@
       "They cannot be read"
      ],
      "a": 0,
-     "w": "It is slow and expensive, and the camera may stop before the slate. {{brown-production}}"
+     "w": "It is slow and expensive, and the camera may stop before the slate. {{brown-production}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1253,7 +1263,7 @@
       "About 500 GB"
      ],
      "a": 0,
-     "w": "The computer counts gigabytes of 2³⁰ bytes. {{fh-ch5}}"
+     "w": "The computer counts gigabytes of 2³⁰ bytes (our arithmetic). {{fh-ch5}}"
     },
     {
      "t": "take",
@@ -1387,7 +1397,8 @@
       "3"
      ],
      "a": 1,
-     "w": "Each gets a third of the light, which is log base 2 of 3, about 1.6 stops."
+     "w": "Each gets a third of the light, which is log base 2 of 3, about 1.6 stops.",
+     "kind": "application"
     },
     {
      "t": "check",

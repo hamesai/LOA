@@ -238,7 +238,8 @@
       "Neutral"
      ],
      "a": 1,
-     "w": "A low colour temperature light appears orange when the camera is balanced for a higher one. {{wiki-kelvin}}"
+     "w": "A low colour temperature light appears orange when the camera is balanced for a higher one. {{wiki-kelvin}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -483,7 +484,8 @@
       "8:1"
      ],
      "a": 0,
-     "w": "One stop is a ratio of 2 to 1, two stops is 4 to 1 and three stops is 8 to 1. {{fh-ch12}}"
+     "w": "One stop is a ratio of 2 to 1, two stops is 4 to 1 and three stops is 8 to 1. {{fh-ch12}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -614,7 +616,7 @@
     },
     {
      "t": "check",
-     "q": "A bigger source relative to the subject usually gives:",
+     "q": "The director says the shadows on the actor's face are too hard. Which change to your source will soften them?",
      "o": [
       "Harder shadows",
       "Softer shadows",
@@ -622,11 +624,12 @@
       "Brighter colours"
      ],
      "a": 1,
-     "w": "Larger sources wrap light and soften shadows (common practice, our summary)."
+     "w": "Larger sources wrap light and soften shadows (common practice, our summary).",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What is the point of motivated light?",
+     "q": "You light a night kitchen scene with a hard key from the window side where a street lamp stands. What is the point of placing it there?",
      "o": [
       "It saves electricity",
       "The light appears to come from a believable source in the scene",
@@ -634,7 +637,8 @@
       "It avoids the need for a camera"
      ],
      "a": 1,
-     "w": "Audiences accept the lighting because it seems to come from something in the world of the film (common practice)."
+     "w": "Audiences accept the lighting because it seems to come from something in the world of the film (common practice).",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -778,7 +782,8 @@
       "Nothing, skin tone is irrelevant to metering"
      ],
      "a": 0,
-     "w": "Average light skin is about a stop brighter than 18 per cent grey, so a meter aimed at grey can underexpose it. {{fh-ch5b}}"
+     "w": "Average light skin is about a stop brighter than 18 per cent grey, so a meter aimed at grey can underexpose it. {{fh-ch5b}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -858,11 +863,11 @@
       "100 A"
      ],
      "a": 0,
-     "w": "2,000 ÷ 200 = 10 A, with a safety margin built in. {{fh-ch12}}"
+     "w": "2,000 ÷ 200 = 10 A, with a safety margin built in (our arithmetic). {{fh-ch12}}"
     },
     {
      "t": "check",
-     "q": "What is the classic problem when shooting people in midday sun?",
+     "q": "You must film an interview outdoors at noon with no shade. What problem should you expect on the face?",
      "o": [
       "Deep eye shadows from too much lighting contrast",
       "Too little light",
@@ -870,7 +875,8 @@
       "Rolling shutter"
      ],
      "a": 0,
-     "w": "Direct sun is a hard key with only sky fill, so shadows are very deep. {{fh-ch12}}"
+     "w": "Direct sun is a hard key with only sky fill, so shadows are very deep. {{fh-ch12}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -965,7 +971,7 @@
     },
     {
      "t": "check",
-     "q": "Which set-up gives chiaroscuro?",
+     "q": "The director wants a noir look full of deep shadow for a confession scene. Which set-up gives it?",
      "o": [
       "High-key with lots of fill",
       "Low-key with hard sidelight and little fill",
@@ -973,11 +979,12 @@
       "Soft top light"
      ],
      "a": 1,
-     "w": "Low-key uses hard sidelight with little fill. {{fa-ch4}}"
+     "w": "Low-key uses hard sidelight with little fill. {{fa-ch4}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "A light directly beside the camera tends to:",
+     "q": "Your only lamp is mounted on top of the camera. What will it do to the actor's face?",
      "o": [
       "Sculpt the face",
       "Flatten it",
@@ -985,7 +992,8 @@
       "Distort it from below"
      ],
      "a": 1,
-     "w": "Frontal light removes shadow and flattens. {{fa-ch4}}"
+     "w": "Frontal light removes shadow and flattens. {{fa-ch4}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -1124,7 +1132,7 @@
     },
     {
      "t": "p",
-     "x": "Filter density adds. 0.3 is one stop, 0.6 is two stops and 0.9 is three stops, so stacking a 0.3 and a 0.6 gives three stops. {{fh-ch8}}"
+     "x": "Filter density adds. 0.3 is one stop, 0.6 is two stops and 0.9 is three stops, so stacking a 0.3 and a 0.6 gives three stops (our arithmetic). {{fh-ch8}}"
     },
     {
      "t": "p",
@@ -1185,7 +1193,8 @@
       "180 degrees"
      ],
      "a": 1,
-     "w": "144 ÷ 360 × 1/24 = 1/60. Our arithmetic. {{brown-production}}"
+     "w": "144 ÷ 360 × 1/24 = 1/60. Our arithmetic. {{brown-production}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1243,11 +1252,6 @@
      "x": "When an HMI is dimmed, its colour temperature shifts slightly cooler. A tungsten bulb does the opposite and gets warmer as the voltage drops. {{brown-equipment}}"
     },
     {
-     "t": "callout",
-     "k": "note",
-     "x": "The rare-earth names in our copy of the HMI section are garbled by scanning, so this lesson does not repeat them."
-    },
-    {
      "t": "h",
      "x": "Greenscreen"
     },
@@ -1270,7 +1274,7 @@
     },
     {
      "t": "check",
-     "q": "Why must you choose a screen colour that is absent from the foreground?",
+     "q": "Your actor is wearing a green jacket for a greenscreen shot. What will happen, and what should you change?",
      "o": [
       "The colour is replaced across the whole scene",
       "Green is brighter than blue",
@@ -1278,7 +1282,8 @@
       "It removes flicker"
      ],
      "a": 0,
-     "w": "Whatever colour is keyed becomes transparent everywhere in the frame. {{brown-special}}"
+     "w": "Whatever colour is keyed becomes transparent everywhere in the frame. {{brown-special}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -1522,7 +1527,8 @@
       "8:1"
      ],
      "a": 1,
-     "w": "The lit side is 240 fc and 240 ÷ 80 is 3."
+     "w": "The lit side is 240 fc and 240 ÷ 80 is 3.",
+     "kind": "application"
     },
     {
      "t": "check",

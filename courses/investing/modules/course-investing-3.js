@@ -213,7 +213,8 @@
       "£10,000"
      ],
      "a": 1,
-     "w": "10% of £20,000 is £2,000. The rule is a rule of thumb, not a legal limit. {{fca-risk}}"
+     "w": "10% of £20,000 is £2,000. The rule is a rule of thumb, not a legal limit. {{fca-risk}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -449,7 +450,7 @@
     },
     {
      "t": "check",
-     "q": "A portfolio falls 20%. What rise is needed to recover?",
+     "q": "Your portfolio falls 20% and a friend says a 20% rise will put you back where you started. What rise is actually needed?",
      "o": [
       "20%",
       "25%",
@@ -457,7 +458,8 @@
       "40%"
      ],
      "a": 1,
-     "w": "1 ÷ 0.8 − 1 is 25%. This is our arithmetic."
+     "w": "1 ÷ 0.8 − 1 is 25%. This is our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -858,7 +860,8 @@
       "−30%"
      ],
      "a": 1,
-     "w": "0.6 × 30% + 0.3 × 5% = 19.5%. This is our arithmetic with invented falls."
+     "w": "0.6 × 30% + 0.3 × 5% = 19.5%. This is our arithmetic with invented falls.",
+     "kind": "application"
     },
     {
      "t": "check",

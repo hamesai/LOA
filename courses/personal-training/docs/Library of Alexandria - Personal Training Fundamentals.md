@@ -1,6 +1,6 @@
 # Library of Alexandria: Personal Training Fundamentals
 
-Level: Beginner. Created 13/10/2026.
+Level: Beginner. Created 15/11/2026.
 
 Screen a client, set goals, design and progress a strength and activity programme, and know where your scope as a personal trainer ends.
 
@@ -80,7 +80,7 @@ Worked example: Client C runs four times a week and has felt chest pain twice th
 - Answer key: Planned, structured activity of at least 30 minutes at moderate intensity on at least 3 days a week for at least 3 months.
 - Self-check: Check against the definitions in lesson 2.
 
-**C2 (core).** Run four invented clients through the flow chart: (a) inactive, no disease, no symptoms; (b) inactive, type 2 diabetes, no symptoms; (c) exercising, no disease, dizziness; (d) exercising, diabetes, no symptoms, wants to start sprinting.
+**C2 (core).** Run four invented clients through the flow chart and decide what each may do next: (a) inactive, no disease, no symptoms; (b) inactive, type 2 diabetes, no symptoms; (c) exercising, no disease, dizziness; (d) exercising, diabetes, no symptoms, wants to start sprinting.
 - Answer key: (a) begin light to moderate, no clearance; (b) clearance before any exercise; (c) clearance before continuing; (d) clearance before vigorous.
 - Self-check: Compare with the decision rules in lesson 2.
 

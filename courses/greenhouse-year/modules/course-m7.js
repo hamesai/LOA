@@ -114,7 +114,8 @@
       "What day is it?"
      ],
      "a": 2,
-     "w": "Finding causes means comparing climate, media, pest and harvest logs."
+     "w": "Finding causes means comparing climate, media, pest and harvest logs.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -276,7 +277,8 @@
       "6 kg/m²"
      ],
      "a": 1,
-     "w": "0.6 ÷ 0.5 = 1.2 kg/m²."
+     "w": "0.6 ÷ 0.5 = 1.2 kg/m².",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -409,7 +411,7 @@
     },
     {
      "t": "check",
-     "q": "When does Purdue advise servicing unit heaters?",
+     "q": "It is September and your heater worked fine last winter. When does Purdue advise servicing it?",
      "o": [
       "After they break",
       "Before the heating season",
@@ -417,7 +419,8 @@
       "Only in summer"
      ],
      "a": 1,
-     "w": "The best time for maintenance is before the start of the heating season."
+     "w": "The best time for maintenance is before the start of the heating season.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -598,11 +601,12 @@
       "+14 days"
      ],
      "a": 1,
-     "w": "Actual minus planned: +7 days, which is late."
+     "w": "Actual minus planned: +7 days, which is late.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What must each proposed change be backed by?",
+     "q": "For next year you want to sow tomatoes two weeks earlier. What must that change be backed by?",
      "o": [
       "A hunch",
       "A number recorded in your logs",
@@ -610,7 +614,8 @@
       "A shop recommendation"
      ],
      "a": 1,
-     "w": "Each change should name the logged evidence that supports it."
+     "w": "Each change should name the logged evidence that supports it.",
+     "kind": "application"
     },
     {
      "t": "take",

@@ -1,6 +1,6 @@
 # Library of Alexandria: Wasteland Kitchen: Food Safety When the Grid Goes Down
 
-Level: Beginner (new food business). Created 13/10/2026.
+Level: Beginner (new food business). Created 15/11/2026.
 
 Run a safe frozen-meal catering business from a home kitchen, and keep it safe when the power or water fails: registration, hazard control, the freezer-failure clock, cooking and reheating, labelling and allergens, continuity, using UK, Irish, WHO and US guidance.
 
@@ -34,7 +34,7 @@ Worked example: 140 F converts to (140 - 32) x 5 / 9 = 60 C; the US fridge limit
 - Answer key: Keep clean, separate raw and cooked, cook thoroughly, safe temperatures, safe water and raw materials, each with a blackout example.
 - Self-check: Compare with the table in lesson 1.
 
-**C2 (core).** Convert 0 F, 40 F and 140 F to Celsius, then name which UK or Irish limit each is closest to.
+**C2 (core).** Convert 0 F, 40 F and 140 F to Celsius, then name which UK or Irish limit each is closest to and say what you would do with food at each temperature.
 - Answer key: -17.8 C (freezer), 4.4 C (fridge), 60 C (hot holding).
 - Self-check: Recompute (F - 32) x 5 / 9.
 

@@ -100,7 +100,7 @@
     },
     {
      "t": "check",
-     "q": "Which describes a time-oriented listener?",
+     "q": "Halfway through your talk a manager keeps checking her watch and says 'and the bottom line is?'. Which listener type is she, and what does she want?",
      "o": [
       "Wants evidence and accuracy",
       "Wants you to get to the point quickly",
@@ -108,7 +108,8 @@
       "Wants to know what to do"
      ],
      "a": 1,
-     "w": "Time-oriented listeners prefer messages that get to the point quickly. {{sus-style}}"
+     "w": "Time-oriented listeners prefer messages that get to the point quickly. {{sus-style}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -120,7 +121,8 @@
       "Formative"
      ],
      "a": 1,
-     "w": "Physical noise comes from the physical setting. {{sus-noise}}"
+     "w": "Physical noise comes from the physical setting. {{sus-noise}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -231,7 +233,7 @@
     },
     {
      "t": "check",
-     "q": "Which is a psychographic fact?",
+     "q": "You are preparing to pitch a new rota to staff. Which fact you have gathered is psychographic?",
      "o": [
       "Average age is 40",
       "Most attendees are sceptical about the plan",
@@ -239,11 +241,12 @@
       "The room has a microphone"
      ],
      "a": 1,
-     "w": "Psychographic information covers beliefs, attitudes and values. {{sus-aud2}}"
+     "w": "Psychographic information covers beliefs, attitudes and values. {{sus-aud2}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What is a captive audience?",
+     "q": "You must give a compliance briefing that all staff are required to attend. What kind of audience is this, and what should you expect?",
      "o": [
       "One that chose to attend",
       "One required or obliged to attend, who may give only grudging attention",
@@ -251,7 +254,8 @@
       "A small audience"
      ],
      "a": 1,
-     "w": "Captive audiences are required to be present or feel obliged. {{sus-aud2}}"
+     "w": "Captive audiences are required to be present or feel obliged. {{sus-aud2}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -532,7 +536,8 @@
       "To inform and persuade everyone about time"
      ],
      "a": 1,
-     "w": "It states the purpose, audience and topic in a clear single statement. {{sus-specific}}"
+     "w": "It states the purpose, audience and topic in a clear single statement. {{sus-specific}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -544,7 +549,8 @@
       "You have narrowed the topic"
      ],
      "a": 1,
-     "w": "Encouraging a specific use of knowledge is persuading. {{sus-purpose}}"
+     "w": "Encouraging a specific use of knowledge is persuading. {{sus-purpose}}",
+     "kind": "application"
     },
     {
      "t": "take",

@@ -1,6 +1,6 @@
 # Library of Alexandria: Small greenhouse, year-long cycle
 
-Level: Some exposure. Created 13/10/2026.
+Level: Some exposure. Created 15/11/2026.
 
 Run a small greenhouse through a full year: site and climate, crop planning, seed starting, feeding, climate control, pest management, records and a yearly review.
 
@@ -139,7 +139,7 @@ Worked example: Two standard trays (10.5 × 21 in) under one 4 ft fixture with t
 - Answer key: A table of 20 seeds with emergence dates and a percentage germinated.
 - Self-check: The log has a total and a percentage, and emergence days fall within the packet range or any gap is explained.
 
-**C3 (stretch).** Run two identical trays, one on a heat mat and one without. Explain the difference in emergence time using the temperature readings.
+**C3 (stretch).** Run two identical trays, one on a heat mat and one without. Predict which emerges first, then explain the difference you find using your temperature readings.
 - Answer key: The heated tray emerges earlier, with a written explanation tied to your recorded temperatures.
 - Self-check: Rubric: both trays logged, temperatures recorded, explanation references the data.
 
@@ -311,7 +311,7 @@ Worked example: A weekly sheet records date, plant ID, and whether a pest or dam
 - Answer key: Three pests, each with a sign (for example whitefly: honeydew and adults that fly up when the plant is brushed).
 - Self-check: Compare against the model table. Pass with 3 of 3 correct.
 
-**C3 (stretch).** Write a decision rule for one pest: what you monitor, the threshold, the first non-chemical action, and when to escalate.
+**C3 (stretch).** Write a decision rule for one pest you have seen: what you monitor, the threshold, the first non-chemical action, and when you would escalate.
 - Answer key: A complete rule with all four parts, non-chemical action first.
 - Self-check: Rubric: all four parts present and the non-chemical action comes first.
 

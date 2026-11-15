@@ -100,7 +100,7 @@
     },
     {
      "t": "check",
-     "q": "What does the textbook suggest as a rule of thumb for research time?",
+     "q": "You have six hours to prepare a talk. Using the textbook's rule of thumb, how much of it should go on research?",
      "o": [
       "Half of prep time",
       "No more than one-third of prep time",
@@ -108,7 +108,8 @@
       "One hour"
      ],
      "a": 1,
-     "w": "It recommends devoting no more than one-third of preparation time to research. {{sus-res2}}"
+     "w": "It recommends devoting no more than one-third of preparation time to research. {{sus-res2}}",
+     "kind": "application"
     },
     {
      "t": "check",

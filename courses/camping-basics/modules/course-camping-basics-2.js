@@ -135,7 +135,8 @@
       "Partial-fly tent"
      ],
      "a": 1,
-     "w": "Low-profile domes deflect gusts better than tall flat-sided tents. {{rei-tent}}"
+     "w": "Low-profile domes deflect gusts better than tall flat-sided tents. {{rei-tent}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -223,7 +224,7 @@
     },
     {
      "t": "check",
-     "q": "Where does cool, damp air settle?",
+     "q": "You can pitch in a sheltered hollow between two rises or on the gentle slope above it. Where will cool, damp air collect overnight?",
      "o": [
       "On the highest ground",
       "In low areas between higher ground",
@@ -231,7 +232,8 @@
       "On bare rock"
      ],
      "a": 1,
-     "w": "REI says cool, damp air settles in low areas and rain can channel and pool there. {{rei-setup}}"
+     "w": "REI says cool, damp air settles in low areas and rain can channel and pool there. {{rei-setup}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -350,7 +352,7 @@
     },
     {
      "t": "check",
-     "q": "A footprint should be…",
+     "q": "Your footprint sticks out 10 cm beyond the tent floor on one side. What will happen in rain, and what size should it be?",
      "o": [
       "Larger than the floor",
       "Slightly smaller than the floor",
@@ -358,7 +360,8 @@
       "Missing entirely"
      ],
      "a": 1,
-     "w": "A footprint sized smaller than the floor will not channel rainwater underneath. {{rei-setup}}"
+     "w": "A footprint sized smaller than the floor will not channel rainwater underneath. {{rei-setup}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -600,7 +603,7 @@
     },
     {
      "t": "check",
-     "q": "Which of these did Kephart advise against?",
+     "q": "Your group likes a flat spot beside a large dead tree. Following Kephart, what should you do?",
      "o": [
       "Pitching on raised ground",
       "Pitching near a dead tree",
@@ -608,7 +611,8 @@
       "Clearing brush from the site"
      ],
      "a": 1,
-     "w": "He said the tent should not be set near a dead tree. {{kephart10}}"
+     "w": "He said the tent should not be set near a dead tree. {{kephart10}}",
+     "kind": "application"
     },
     {
      "t": "check",

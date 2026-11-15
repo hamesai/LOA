@@ -405,7 +405,7 @@
     },
     {
      "t": "check",
-     "q": "Which explanation fits an idea that is hard to believe?",
+     "q": "Your audience finds it hard to believe that heavy and light objects fall at the same rate. Which explanation type fits?",
      "o": [
       "Elucidating",
       "Quasi-scientific",
@@ -413,11 +413,12 @@
       "None"
      ],
      "a": 2,
-     "w": "It starts with the audience's idea and shows its limits. {{sus-inf2}}"
+     "w": "It starts with the audience's idea and shows its limits. {{sus-inf2}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "In an informative speech on a disputed issue you should:",
+     "q": "You are giving an informative talk on a proposed bypass that locals disagree about. What should you do?",
      "o": [
       "Take a side",
       "Represent each side fairly",
@@ -425,7 +426,8 @@
       "Use loaded words"
      ],
      "a": 1,
-     "w": "The text asks for a fair statement of each side. {{sus-inf1}}"
+     "w": "The text asks for a fair statement of each side. {{sus-inf1}}",
+     "kind": "application"
     },
     {
      "t": "take",

@@ -137,7 +137,7 @@
     },
     {
      "t": "check",
-     "q": "Which is a difference between oral and written language?",
+     "q": "You have turned a written report into a speech word for word. What should you change, given how oral language differs?",
      "o": [
       "Oral language uses longer sentences",
       "Oral language uses more repetition and contractions",
@@ -145,7 +145,8 @@
       "Oral language avoids 'I'"
      ],
      "a": 1,
-     "w": "The text lists more repetition and more contractions for speech. {{sus-lang1}}"
+     "w": "The text lists more repetition and more contractions for speech. {{sus-lang1}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -157,7 +158,8 @@
       "Denotation"
      ],
      "a": 1,
-     "w": "It states the comparison without 'like' or 'as'. {{sus-lang2}}"
+     "w": "It states the comparison without 'like' or 'as'. {{sus-lang2}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -336,7 +338,8 @@
       "'Let me show you a map.'"
      ],
      "a": 1,
-     "w": "Disqualifiers downplay your competence. {{sus-lang3}}"
+     "w": "Disqualifiers downplay your competence. {{sus-lang3}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -460,7 +463,7 @@
     },
     {
      "t": "check",
-     "q": "Which method suits most speeches?",
+     "q": "You are giving a 10-minute update to your team next week. Which delivery method suits it best?",
      "o": [
       "Memorised",
       "Manuscript",
@@ -468,11 +471,12 @@
       "Impromptu"
      ],
      "a": 2,
-     "w": "The text says extemporaneous speaking is used in the great majority of situations. {{sus-deliv1}}"
+     "w": "The text says extemporaneous speaking is used in the great majority of situations. {{sus-deliv1}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What does a microphone do?",
+     "q": "A speaker who mumbles is told a microphone will fix it. What will the microphone actually do?",
      "o": [
       "It clarifies mumbling",
       "It amplifies, not clarifies",
@@ -480,7 +484,8 @@
       "It replaces notes"
      ],
      "a": 1,
-     "w": "The text says it only amplifies. {{sus-deliv2}}"
+     "w": "The text says it only amplifies. {{sus-deliv2}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -627,7 +632,7 @@
     },
     {
      "t": "check",
-     "q": "Why record yourself?",
+     "q": "You think your talk went well but a friend says you swayed throughout. What should you do in rehearsal, and why?",
      "o": [
       "To memorise the speech",
       "To see and hear your delivery as the audience does",
@@ -635,7 +640,8 @@
       "To make the speech shorter"
      ],
      "a": 1,
-     "w": "Recordings show how you come across and reveal habits like reading from cards. {{sus-practice}}"
+     "w": "Recordings show how you come across and reveal habits like reading from cards. {{sus-practice}}",
+     "kind": "application"
     },
     {
      "t": "check",

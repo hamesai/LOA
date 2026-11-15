@@ -98,8 +98,12 @@
      "x": "Draw the ground plan for your scene in all three layouts. Mark the audience, the entrances and one sightline problem in each."
     },
     {
+     "t": "p",
+     "x": "Niculescu adds that puppets, masks and animated objects need a theatrical identity and a dramaturgical function, just as actors do, and that every production still needs an important story to tell. {{nic-director}}"
+    },
+    {
      "t": "check",
-     "q": "In which layout does Garcia say the acting must be especially strong because there is less to distract?",
+     "q": "You are staging a play in the round with almost no set. What does Garcia say this asks of the acting?",
      "o": [
       "Proscenium",
       "Thrust",
@@ -107,7 +111,8 @@
       "A film set"
      ],
      "a": 2,
-     "w": "He says round theatre relies on story and acting, with few set elements. {{garcia}}"
+     "w": "He says round theatre relies on story and acting, with few set elements. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -232,8 +237,12 @@
      "x": "Fill in Garcia's budget headings for your own production. Mark each number as a quote, an estimate or a guess, and find the break-even attendance."
     },
     {
+     "t": "p",
+     "x": "Katz says that whether or not the director is the main visualiser, developing and carrying out the visual plan is the job of the production designer and their team, through concept art, plans and storyboards. {{katz-vis}} Craig's own method as a designer started from the whole play: think of movement and words together, then add and wash away colour until the scene's impression is clear. He called it personal, so use it as one designer's method. {{craig-design}}"
+    },
+    {
      "t": "check",
-     "q": "What does Garcia call non-negotiable in the budget?",
+     "q": "Your budget is cut by half. What does Garcia say you cannot cut?",
      "o": [
       "Costumes",
       "Production rights",
@@ -241,7 +250,8 @@
       "Programmes"
      ],
      "a": 1,
-     "w": "He says production rights are absolutely necessary. {{garcia}}"
+     "w": "He says production rights are absolutely necessary. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -253,7 +263,8 @@
       "$3,000"
      ],
      "a": 2,
-     "w": "$600 + $150 + $120 = $870 (illustrative)."
+     "w": "$600 + $150 + $120 = $870 (illustrative).",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -351,7 +362,7 @@
     },
     {
      "t": "check",
-     "q": "What does Garcia advise about actor notes during tech?",
+     "q": "Tech week starts tomorrow and you have a list of acting notes. What does Garcia advise?",
      "o": [
       "Give many notes",
       "Tell actors beforehand that there will be none",
@@ -359,7 +370,8 @@
       "Rehearse lines in tech"
      ],
      "a": 1,
-     "w": "He says to warn the actors you will focus on the theatrical elements instead. {{garcia}}"
+     "w": "He says to warn the actors you will focus on the theatrical elements instead. {{garcia}}",
+     "kind": "application"
     },
     {
      "t": "check",

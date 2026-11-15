@@ -6,8 +6,9 @@ and records a chapter as read only when its last chunk has been served. Reading 
 status says every chapter is read or skipped on purpose.
 
     python _template/source_read.py <course> <key>                       status: progress and the next chunk to read
-    python _template/source_read.py <course> <key> --next [--words 4000]  print the next unread chunk (continues where you stopped)
-    python _template/source_read.py <course> <key> --chapter ch-007.txt    start or continue one chapter
+    python _template/source_read.py <course> <key> --next [--words 4000]  serve the next chunk: the chapter in progress first, else the
+                                                                           first unread chapter
+    python _template/source_read.py <course> <key> --chapter ch-007.txt    start or continue one chapter (--next then stays in it)
     python _template/source_read.py <course> <key> --chapter ch-007.txt --restart    read a chapter again from the top (clears its earlier read or skip record)
     python _template/source_read.py <course> <key> --suggest-skips         list covers, copyright pages, contents and indexes
     python _template/source_read.py <course> <key> --skip ch-001.txt ch-031.txt --reason "cover and index"
@@ -24,11 +25,16 @@ Verdicts for --log: confirmed, refined, contradicted, extended, absent, note.
   note          anything else worth keeping (a quotable example, a caution, a date)
 Log findings as you read, while the passage is in front of you, with the chapter file as the location.
 
+Each chunk is written to a file, courses/<course>/sources/<key>/_served/<chapter>-c<n>.txt, and only the header and that path
+are printed. Open the file with the Read tool. Nothing is lost if output is cut short, and a chunk can be read again from its file
+without --restart. Pass --print to print the chunk to the terminal as well (never pipe that through head or tail).
+
 Only chapters served by this tool (or recorded with source_search.py --read) count as read. Skipping needs a reason that goes in the review.
 """
-import argparse, re, sys
-from datetime import date
+import argparse, os, re, sys
+from datetime import date, datetime
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))   # sibling imports work under python -I too
 import source_lib as S
 
 DEFAULT_WORDS = 4000
@@ -92,7 +98,7 @@ def status(cid, key):
     print("Run:  python _template/source_read.py %s %s --next" % (cid, key))
 
 
-def serve(cid, key, limit, chapter=None, restart=False):
+def serve(cid, key, limit, chapter=None, restart=False, echo=False):
     d, man = S.find(cid, key)
     st = S.status(d, man)
     if chapter:
@@ -104,7 +110,11 @@ def serve(cid, key, limit, chapter=None, restart=False):
         if st[chapter] == "skipped" and not restart:
             sys.exit("%s is skipped on purpose (%s). Use --restart to read it anyway." % (chapter, S.skipped(d)[chapter]))
     else:
-        ch = next((c for c in man["chapters"] if st[c["file"]] == "unread"), None)
+        # A chapter started and not finished comes first (the most recently served one), so --next never leaves a chapter half read.
+        sv0 = S.served(d)
+        going = [c for c in man["chapters"] if st[c["file"]] == "unread" and 0 < sv0.get(c["file"], {}).get("done", 0) < sv0.get(c["file"], {}).get("total", 0)]
+        going.sort(key=lambda c: sv0[c["file"]].get("at", ""), reverse=True)
+        ch = going[0] if going else next((c for c in man["chapters"] if st[c["file"]] == "unread"), None)
         if not ch:
             print("Nothing left to read in %s. %s" % (key, progress_line(d, man)))
             return
@@ -125,26 +135,32 @@ def serve(cid, key, limit, chapter=None, restart=False):
     rec["total"] = len(parts)
     i = rec["done"]
     pg = (", pp. %d-%d" % tuple(ch["pages"])) if ch.get("pages") else ""
-    print("=== %s | %s | %s%s | chunk %d of %d | chapter %d words ===" % (key, ch["file"], ch["title"], pg, i + 1, len(parts), ch["words"]))
-    print()
-    print(parts[i])
-    print()
+    head = "=== %s | %s | %s%s | chunk %d of %d | chapter %d words ===" % (key, ch["file"], ch["title"], pg, i + 1, len(parts), ch["words"])
+    out = d / "_served" / ("%s-c%d.txt" % (ch["file"].rsplit(".", 1)[0], i + 1))
+    out.parent.mkdir(exist_ok=True)
+    out.write_text(head + "\n\n" + parts[i] + "\n", encoding="utf-8")
+    print(head)
+    print("READ NOW: %s  (%d words)" % (out, words(parts[i])))
+    if echo:
+        print()
+        print(parts[i])
+        print()
     rec["done"] = i + 1
     rec["date"] = date.today().isoformat()
+    rec["at"] = datetime.now().isoformat(timespec="seconds")
     sv[ch["file"]] = rec
     S.save(d / "served.json", sv)
     if rec["done"] >= len(parts):
         rd = S.read_set(d) | {ch["file"]}
         S.save(d / "read.json", sorted(rd))
-        print("=== end of %s: recorded as read in full. %s ===" % (ch["file"], progress_line(d, man)))
+        print("=== end of %s: recorded as read in full once you have read the file above. %s ===" % (ch["file"], progress_line(d, man)))
         nm = S.numbers(d, man)
         if nm["unread"]:
             print("Next chapter: %s  %s  (%d words)" % (nm["unread"][0]["file"], nm["unread"][0]["title"], nm["unread"][0]["words"]))
         else:
             print("The whole source is now read or skipped on purpose.")
     else:
-        print("=== chunk %d of %d done. Run --next for the rest of %s ===" % (rec["done"], len(parts), ch["file"]))
-    print("If this text was cut short by a pipe (head, tail), the chapter is not read in full. Run: source_read.py <course> <key> --chapter %s --restart" % ch["file"])
+        print("=== chunk %d of %d. Read the file, then --next continues %s ===" % (rec["done"], len(parts), ch["file"]))
 
 
 def suggest(cid, key):
@@ -191,6 +207,13 @@ def log(cid, key, entry):
     line = "\t".join([date.today().isoformat(), module, verdict, loc, text.replace("\t", " ").replace("\n", " ")])
     with open(d / "findings.tsv", "a", encoding="utf-8") as f:
         f.write(line + "\n")
+    try:                                   # what the lessons already say, so source_apply.py auto can tell a real edit from a coincidence
+        import source_apply as SA
+        p = line.split("\t")
+        rec = dict(date=p[0], module=p[1], verdict=p[2], location=p[3], text="\t".join(p[4:]))
+        SA.record_baseline(cid, d, S.finding_id(rec), module, rec["text"])
+    except Exception as e:
+        print("note: no baseline recorded for this finding (%s); source_apply.py auto --write will record one" % e)
     print("logged %s finding for %s (%d so far)" % (verdict, module, len(S.findings(d))))
 
 
@@ -290,6 +313,7 @@ def main():
     ap.add_argument("--next", action="store_true")
     ap.add_argument("--chapter")
     ap.add_argument("--restart", action="store_true")
+    ap.add_argument("--print", dest="echo", action="store_true", help="also print the chunk (do not pipe it through head or tail)")
     ap.add_argument("--words", type=int, default=DEFAULT_WORDS)
     ap.add_argument("--suggest-skips", action="store_true")
     ap.add_argument("--skip", nargs="+")
@@ -313,9 +337,16 @@ def main():
     elif a.suggest_skips:
         suggest(a.course, a.key)
     elif a.next or a.chapter:
-        serve(a.course, a.key, a.words, a.chapter, a.restart)
+        serve(a.course, a.key, a.words, a.chapter, a.restart, a.echo)
     else:
         status(a.course, a.key)
+        return
+    if a.skip or a.log or a.next or a.chapter:
+        try:
+            import reading_state
+            reading_state.build(a.course, quiet=True)
+        except Exception as e:                      # the read record is already saved; the summary page can be rebuilt later
+            print("note: READING-STATE.md not updated (%s); run python _template/reading_state.py %s" % (e, a.course))
 
 
 if __name__ == "__main__":

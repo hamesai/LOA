@@ -70,7 +70,15 @@
         if (r) {
           var label = String(nums[m[1]] || "?");
           var jk = m[1];
-          frag.appendChild(h("sup", { class: "cite" }, h("a", { href: "#bib-" + jk, class: "cite-jump", title: refTitle(r) + ", " + r.s, text: label, onclick: function (ev) { if (window.CE_goTab) { ev.preventDefault(); window.CE_goTab("bib", "bib-" + jk); } } })));
+          /* On a slide the number opens this module's Bibliography entry in a new browser tab, so the slide stays put.
+             In the notes it jumps to the Bibliography tab in place. */
+          frag.appendChild(h("sup", { class: "cite" }, (function (r, jk) {
+            return h("a", { href: "#bib-" + jk, class: "cite-jump", title: refTitle(r) + ", " + r.s, text: label, onclick: function (ev) {
+              var a = ev.currentTarget, onSlide = a.closest && a.closest(".slide"), url = onSlide && window.CE_bibHref && window.CE_bibHref(jk);
+              if (url) { ev.preventDefault(); ev.stopPropagation(); window.open(url, "_blank"); return; }
+              if (window.CE_goTab) { ev.preventDefault(); window.CE_goTab("bib", "bib-" + jk); }
+            } });
+          })(r, jk)));
         }
       } else if (m[2]) frag.appendChild(h("strong", { text: m[2] }));
       else if (m[3]) frag.appendChild(h("code", { text: m[3] }));
@@ -222,12 +230,15 @@
       h("p", { class: "lec-note mono", text: "Simulated voice written for teaching. Not a real quotation." }));
   }
 
+  /* Injection markers ("Lecturer lens:", "Business lens:", "Lecturer's method:") stay in the data so the scripts can find and
+     replace their own sentences; the learner never sees them. */
+  CE.unlabel = function (t) { return String(t).replace(/(^|\s)(Lecturer lens|Business lens|Lecturer's method):\s*/g, "$1"); };
   /* ---------- reading view ---------- */
   CE.article = function (m) {
     var c = COURSE[m.key], nums = refNums(c), ctx = { nums: nums, prefix: m.key }, root = h("article", { class: "notes" });
     var Lc = CE.lecturer(m.key); if (Lc) root.appendChild(lecturerCard(Lc));
-    root.appendChild(rp("p", c.intro, nums, { class: "lead" }));
-    var o = h("div", { class: "msec" }, h("h4", { text: "Learning outcomes" }), drawList(c.outcomes, false, nums));
+    root.appendChild(rp("p", CE.unlabel(c.intro), nums, { class: "lead" }));
+    var o = h("div", { class: "msec" }, h("h4", { text: "Learning outcomes" }), drawList(c.outcomes.map(CE.unlabel), false, nums));
     root.appendChild(o);
     c.lessons.forEach(function (L, i) {
       var sec = h("section", { class: "lesson" }, h("h2", { text: "Lesson " + (i + 1) + ": " + L.title }), h("p", { class: "mono lmeta", text: "About " + L.min + " minutes" }));
@@ -259,7 +270,7 @@
     root.appendChild(h("header", { class: "dhead" },
       h("span", { class: "mono lec-k", text: "Sources" }),
       h("h2", { text: "Bibliography" }),
-      h("p", { class: "lead", text: "Every source this module cites, numbered as in the text. Click a number in the notes or slides to come here." })));
+      h("p", { class: "lead", text: "Every source this module cites, numbered as in the text. Click a number in the notes to come here; a number on a slide opens this list in a new tab." })));
     var lessons = (c.lessons || []).map(function (L) { return { t: L.title, s: JSON.stringify(L.blocks || []) }; });
     Object.keys(nums).sort(function (a, b) { return nums[a] - nums[b]; }).forEach(function (k) {
       var r = REFS[k], cited = lessons.filter(function (L) { return L.s.indexOf("{{" + k + "}}") >= 0; }).map(function (L) { return L.t; });
@@ -481,8 +492,8 @@
 
     var Lc = CE.lecturer(m.key);
     if (Lc) slides.push({ kind: "lecturer", lec: Lc, lesson: "Your lecturer" });
-    pushBullets("Why this module matters", sentences(c.intro), "Introduction", null);
-    slides.push({ kind: "bullets", h: "By the end of this module you will be able to", pts: c.outcomes, lesson: "Introduction", nums: nums });
+    pushBullets("Why this module matters", sentences(CE.unlabel(c.intro)), "Introduction", null);
+    slides.push({ kind: "bullets", h: "By the end of this module you will be able to", pts: c.outcomes.map(CE.unlabel), lesson: "Introduction", nums: nums });
     slides.push({ kind: "outline", h: "Roadmap", items: c.lessons.map(function (L, i) { return { n: i + 1, title: L.title, min: L.min }; }), lesson: "Introduction" });
 
     c.lessons.forEach(function (L, li) {
@@ -545,8 +556,10 @@
       for (var i = 0; i < ts.length; i++) if (ts[i].scrollWidth > ts[i].clientWidth + 1) return true;
       return false;
     }
+    /* narrow screens: shrink only so far, then let the slide scroll, so text stays readable on a phone */
+    var floor = el.clientWidth < 600 ? 0.78 : 0.42;
     var z = 1, n = 0;
-    while (n < 20 && z > 0.42 && over()) { z -= 0.04; el.style.setProperty("--sz", z.toFixed(2)); n++; }
+    while (n < 20 && z > floor && over()) { z -= 0.04; el.style.setProperty("--sz", z.toFixed(2)); n++; }
   };
   function fitNearest(node) { var sl = node && node.closest && node.closest(".slide"); if (sl) CE.fit(sl); }
 

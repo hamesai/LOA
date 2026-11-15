@@ -185,7 +185,7 @@
     },
     {
      "t": "check",
-     "q": "Which vehicle is a tax wrapper rather than a type of fund?",
+     "q": "A friend says they are choosing between a unit trust and an ISA. Why is that not a choice between two funds?",
      "o": [
       "Unit trust",
       "OEIC",
@@ -193,7 +193,8 @@
       "Investment trust"
      ],
      "a": 2,
-     "w": "An ISA is a tax wrapper. {{mh-types}}"
+     "w": "An ISA is a tax wrapper. {{mh-types}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -406,7 +407,8 @@
       "About 78%"
      ],
      "a": 1,
-     "w": "100% − 90.49% is 9.51%. {{spiva-us}}"
+     "w": "100% − 90.49% is 9.51%. {{spiva-us}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -571,7 +573,8 @@
       "£11,000"
      ],
      "a": 1,
-     "w": "£8,000 minus £3,000 is £5,000. Losses and reliefs can reduce this further. {{gov-cgt}}"
+     "w": "£8,000 minus £3,000 is £5,000. Losses and reliefs can reduce this further. {{gov-cgt}}",
+     "kind": "application"
     },
     {
      "t": "check",
@@ -785,11 +788,12 @@
       "£150"
      ],
      "a": 1,
-     "w": "£330 − £30 = £300 a year. This is our arithmetic."
+     "w": "£330 − £30 = £300 a year. This is our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "Why is a fund's record not enough to justify a higher charge?",
+     "q": "A fund charging 1.65% beat its index for the last five years. Why is that record not enough to justify the higher charge?",
      "o": [
       "Because charges do not matter",
       "Because past results do not predict future results and the extra cost is certain",
@@ -797,7 +801,8 @@
       "Because index funds always win"
      ],
      "a": 1,
-     "w": "The charge is paid every year, while outperformance is uncertain. This is our inference, supported by the pattern in {{spiva-us}}"
+     "w": "The charge is paid every year, while outperformance is uncertain. This is our inference, supported by the pattern in {{spiva-us}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -900,7 +905,8 @@
       "£24,000"
      ],
      "a": 2,
-     "w": "£400 × 12 × 15 is £72,000. Our arithmetic."
+     "w": "£400 × 12 × 15 is £72,000. Our arithmetic.",
+     "kind": "application"
     },
     {
      "t": "check",

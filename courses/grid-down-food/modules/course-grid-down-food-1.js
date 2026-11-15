@@ -104,7 +104,7 @@
     },
     {
      "t": "check",
-     "q": "Which key tells you not to leave cooked food at room temperature for more than 2 hours?",
+     "q": "You cooked a pot of rice at lunchtime and it has sat on the counter all afternoon. Which of the WHO five keys have you broken?",
      "o": [
       "Keep clean",
       "Separate raw and cooked",
@@ -112,11 +112,12 @@
       "Cook thoroughly"
      ],
      "a": 2,
-     "w": "The WHO safe-temperatures key sets a 2-hour limit at room temperature. {{who5keys}}"
+     "w": "The WHO safe-temperatures key sets a 2-hour limit at room temperature. {{who5keys}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "To what temperature should soups and stews be brought to be sure they are cooked thoroughly?",
+     "q": "You are reheating a big pan of stew on a camping stove. What temperature must it reach to be thoroughly cooked?",
      "o": [
       "50 C",
       "60 C",
@@ -124,7 +125,8 @@
       "100 F"
      ],
      "a": 2,
-     "w": "The WHO says to bring soups and stews to boiling so they reach 70 C. {{who5keys}}"
+     "w": "The WHO says to bring soups and stews to boiling so they reach 70 C. {{who5keys}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -240,11 +242,12 @@
       "Eat everything now"
      ],
      "a": 1,
-     "w": "The FSA says that in power cuts food can be stored in fridges at temperatures under 8 C. {{fsa}}"
+     "w": "The FSA says that in power cuts food can be stored in fridges at temperatures under 8 C. {{fsa}}",
+     "kind": "application"
     },
     {
      "t": "check",
-     "q": "What is 140 F in Celsius?",
+     "q": "A US guide says to keep hot food above 140 F. What is that in Celsius?",
      "o": [
       "50 C",
       "60 C",
@@ -252,7 +255,8 @@
       "100 C"
      ],
      "a": 1,
-     "w": "(140 - 32) x 5 / 9 = 60 C."
+     "w": "(140 - 32) x 5 / 9 = 60 C.",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -364,7 +368,7 @@
     },
     {
      "t": "check",
-     "q": "Where in the fridge should raw meat be stored?",
+     "q": "You are packing a crowded fridge before a storm: raw chicken, cooked ham and salad. Where should the chicken go?",
      "o": [
       "Top shelf",
       "Bottom shelf",
@@ -372,7 +376,8 @@
       "Beside salads"
      ],
      "a": 1,
-     "w": "Raw meat goes on the bottom shelf so drips cannot contaminate cooked food. {{fsai}}"
+     "w": "Raw meat goes on the bottom shelf so drips cannot contaminate cooked food. {{fsai}}",
+     "kind": "application"
     },
     {
      "t": "take",
@@ -473,7 +478,8 @@
       "Freeze it"
      ],
      "a": 1,
-     "w": "The CMOs advise at-risk groups not to eat ready-to-eat chilled food after 4 hours without power. {{cmo}}"
+     "w": "The CMOs advise at-risk groups not to eat ready-to-eat chilled food after 4 hours without power. {{cmo}}",
+     "kind": "application"
     },
     {
      "t": "check",

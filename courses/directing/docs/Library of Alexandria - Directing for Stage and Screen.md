@@ -1,6 +1,6 @@
 # Library of Alexandria: Directing for stage and screen
 
-Level: Intermediate. Created 21/10/2026.
+Level: Intermediate. Created 15/11/2026.
 
 Learn to direct a short scene for stage and for camera: read the script, work with actors using Stanislavski's tools, stage and shoot it, cut it for rhythm, and plan the space, designers and the last weeks before opening.
 
@@ -34,7 +34,7 @@ Worked example: A hospital waiting-room scene is cut into four French scenes, gi
 - Answer key: A list of French scenes, each starting at an entrance or exit.
 - Self-check: Does every change of who is on stage start a new French scene?
 
-**C2 (core).** Write a one-line theme and a one-sentence target audience for a play, and list one change you would make for that audience.
+**C2 (core).** Write a one-line theme and a one-sentence target audience for a play you know, and name one staging change you would make for that audience and why.
 - Answer key: A short theme line, an audience sentence with an age window, and one concrete change.
 - Self-check: Could someone else repeat the theme from memory?
 
@@ -81,7 +81,7 @@ Worked example: The waiting-room scene is divided into four units with the verbs
 - Answer key: Four answers and two 'if' questions an actor could answer with an action.
 - Self-check: Could the actor answer each 'if' by doing something?
 
-**C2 (core).** Divide a two-page scene into units. Name each objective with a verb, a partner and a physical action.
+**C2 (core).** Divide a two-page scene into units. Name each objective with a verb, a partner and a physical action, and mark the one unit you would rehearse first and why.
 - Answer key: Three or four units, each with a verb, partner and action.
 - Self-check: Is each objective aimed at another person and active?
 

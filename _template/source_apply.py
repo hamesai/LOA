@@ -6,7 +6,8 @@
     python _template/source_apply.py <course> mark <book> <id,id,...> --where "module 5, lesson Cuts and pace"
     python _template/source_apply.py <course> skip <book> <id,id,...> --reason "why no lesson change is needed"
     python _template/source_apply.py <course> avoid <book> <id,id,...> --reason "checked: the lessons do not repeat the claim"
-    python _template/source_apply.py <course> auto [--write]             suggest findings the lessons already cover (same book cited, shared terms)
+    python _template/source_apply.py <course> auto [--write]             findings a lesson now covers: same book cited, shared terms, and
+                                                                         the lesson gained some of those terms since the finding was logged
     python _template/source_apply.py <course> batch decisions.json       apply many decisions in one call: a JSON list of {"book", "state": "mark"|"skip"|"avoid", "ids": [...], "note"}
 
 States
@@ -15,6 +16,11 @@ States
     confirmed  verdict "confirmed": the source agrees with the course, no change needed (derived, not stored)
     avoided    verdict "contradicted": checked that the lessons do not repeat the book's mistake
     skipped    deliberately not used, with a reason
+
+Auto never marks a finding applied just because a lesson already happened to share its words. When a finding is logged
+(source_read.py --log), the terms each lesson in its module already shares with it are saved to findings-baseline.json.
+auto --write marks it applied only when the matching lesson has since gained at least two of the finding's terms. A finding
+logged before baselines existed gets its baseline on the first auto run, so only a later edit can close it.
 
 Records live in courses/<course>/sources/<key>/findings-status.json, keyed by a stable id for each finding.
 check_course.py reports open findings per module so a review is not finished while useful findings are unused.
@@ -88,9 +94,27 @@ def module_lessons(cid, mod):
     return out
 
 
-def auto_matches(cid):
-    """Open findings that a lesson in the same module already covers: it cites the same book and shares distinctive terms."""
-    found = []
+NEW_TERMS = 2   # terms a lesson must gain since the finding was logged before auto can call the finding applied
+
+
+def baseline_terms(lessons, ft):
+    return {title: sorted(ft & tokens(re.sub(r"\{\{[^}]*\}\}", " ", text))) for title, text, books in lessons}
+
+
+def record_baseline(cid, d, fid, module, text, lessons=None):
+    """Save, for one finding, the terms each lesson of its module already shares with it."""
+    b = S.load(d / "findings-baseline.json", {})
+    if fid in b:
+        return
+    lessons = module_lessons(cid, norm_module(module)) if lessons is None else lessons
+    b[fid] = {"date": date.today().isoformat(), "lessons": baseline_terms(lessons, tokens(text))}
+    S.save(d / "findings-baseline.json", b)
+
+
+def auto_matches(cid, seed=False):
+    """Open findings that a lesson in the same module now covers: it cites the same book, shares distinctive terms, and has
+    gained NEW_TERMS of them since the finding's baseline. Findings with no baseline are reported as such (seed=True records one)."""
+    found, unbased = [], []
     cache = {}
     for f in all_findings(cid):
         if f["state"] != "open" or f["verdict"] in ("contradicted", "absent"):
@@ -101,6 +125,15 @@ def auto_matches(cid):
         ft = tokens(f["text"])
         if len(ft) < 5:
             continue
+        base = S.load(f["dir"] / "findings-baseline.json", {}).get(f["id"])
+        if base is None:
+            unbased.append(f)
+            if seed:
+                record_baseline(cid, f["dir"], f["id"], mod, f["text"], cache[mod])
+            continue
+        # Terms count as gained only if no lesson of the module had them when the finding was logged. Keying by the whole module,
+        # not the lesson title, keeps it right when a lesson is renamed or added, and errs towards leaving a finding for a hand check.
+        had = set().union(*[set(v) for v in base["lessons"].values()]) if base["lessons"] else set()
         best = None
         for title, text, books in cache[mod]:
             same = f["book"] in books   # a lesson that cites another source for the same point also counts, at a stricter bar
@@ -108,11 +141,12 @@ def auto_matches(cid):
             ov = ft & lt
             score = len(ov) / len(ft)
             need = 0.35 if same else 0.5
-            if len(ov) >= 5 and score >= need and (best is None or score > best[0]):
-                best = (score, title + ("" if same else " [another source]"), sorted(ov)[:6])
+            gained = ov - had
+            if len(ov) >= 5 and score >= need and len(gained) >= NEW_TERMS and (best is None or score > best[0]):
+                best = (score, title + ("" if same else " [another source]"), sorted(gained)[:6])
         if best:
             found.append((f, best))
-    return found
+    return found, unbased
 
 
 def cmd_status(cid):
@@ -162,15 +196,18 @@ def set_state(cid, book, ids, state, note):
 
 
 def cmd_auto(cid, write):
-    found = auto_matches(cid)
+    found, unbased = auto_matches(cid, seed=write)
     for f, (score, title, ov) in found:
-        print("%s m%-3s %-12s -> %s (%.0f%%; %s)" % (f["id"], f["module"], f["book"][:12], title, 100 * score, ", ".join(ov)))
+        print("%s m%-3s %-12s -> %s (%.0f%%; new terms: %s)" % (f["id"], f["module"], f["book"][:12], title, 100 * score, ", ".join(ov)))
         if write:
             d = f["dir"]
             st = load_state(d)
             st[f["id"]] = dict(state="applied", note="auto: module %s, lesson %s" % (f["module"], title), date=date.today().isoformat())
             save_state(d, st)
-    print("%d finding(s) %s" % (len(found), "marked applied" if write else "look already covered (add --write to record them)"))
+    print("%d finding(s) %s" % (len(found), "marked applied" if write else "covered by a lesson edit since they were logged (add --write to record them)"))
+    if unbased:
+        print("%d open finding(s) had no baseline, so auto cannot tell whether a lesson changed for them. %s" % (
+            len(unbased), "Baselines recorded now: edit the lessons, then run auto again, or mark them by hand." if write else "Run auto --write to record baselines, or mark them by hand."))
 
 
 def main():
