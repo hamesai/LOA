@@ -61,7 +61,7 @@
     return ul;
   }
   function rich(text, nums) {
-    var frag = document.createDocumentFragment(), re = /\{\{([a-z0-9-]+)\}\}|\*\*(.+?)\*\*|`([^`]+)`/g, last = 0, m;
+    var frag = document.createDocumentFragment(), re = /\{\{([a-z0-9-]+)\}\}|\*\*(.+?)\*\*|`([^`]+)`|\[((?:FIRM|PROBABLE|CONTESTED|TRADITIONAL DATE|THIN EVIDENCE|ESTIMATE|check current)(?:, (?:FIRM|PROBABLE|CONTESTED|TRADITIONAL DATE|THIN EVIDENCE|ESTIMATE|check current))*)((?: [^\]]{1,40})?)\]/g, last = 0, m;
     text = String(text == null ? "" : text);
     while ((m = re.exec(text)) !== null) {
       if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
@@ -82,6 +82,7 @@
         }
       } else if (m[2]) frag.appendChild(h("strong", { text: m[2] }));
       else if (m[3]) frag.appendChild(h("code", { text: m[3] }));
+      else if (m[4]) m[4].split(", ").forEach(function (nm, i, all) { frag.appendChild(tagNode(nm, i === all.length - 1 ? m[5] : "")); });
       last = re.lastIndex;
     }
     if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
@@ -89,13 +90,40 @@
   }
   function rp(tag, text, nums, props) { var e = h(tag, props); e.appendChild(rich(text, nums)); return e; }
 
+  /* Split a paragraph into slide bullets. A full stop after an initial ("A. P. Newton") or a common
+     abbreviation ("c. 1200", "e.g.") does not end a sentence, and an evidence tag or citation that
+     follows a full stop stays with the sentence it marks instead of becoming a bullet of its own. */
+  var ABBR = /(?:^|[\s(‘'"])(?:[A-Z]|c|ca|cf|e\.g|i\.e|viz|St|Dr|Mr|Mrs|Ms|Mt|Jr|Sr|vol|vols|no|nos|pp?|ed|eds|trans|fl|r|b|d|vs|al)\.$/;
+  var LEADTAG = /^((?:\[(?:FIRM|PROBABLE|CONTESTED|TRADITIONAL DATE|THIN EVIDENCE|ESTIMATE|check current)[^\]]*\]|\{\{[a-z0-9-]+\}\})[\s.;,]*)+/;
   function sentences(t) {
     t = String(t).replace(/\s+(\{\{[a-z0-9-]+\}\})/g, "$1");
-    var out = [], re = /[\s\S]+?[.!?]["”)]*(?:\{\{[a-z0-9-]+\}\})*(?=\s|$)/g, m, last = 0;
-    while ((m = re.exec(t)) !== null) { out.push(m[0].trim()); last = re.lastIndex; }
+    var raw = [], re = /[\s\S]+?[.!?]["”)]*(?:\{\{[a-z0-9-]+\}\})*(?=\s|$)/g, m, last = 0;
+    while ((m = re.exec(t)) !== null) { raw.push(m[0].trim()); last = re.lastIndex; }
     var rest = t.slice(last).trim();
-    if (rest) out.push(rest);
+    if (rest) raw.push(rest);
+    var out = [];
+    raw.forEach(function (s) {
+      var lead = out.length && s.match(LEADTAG);
+      if (lead) { out[out.length - 1] += " " + lead[0].trim(); s = s.slice(lead[0].length).trim(); if (!s) return; }
+      if (out.length && ABBR.test(out[out.length - 1])) out[out.length - 1] += " " + s;
+      else out.push(s);
+    });
     return out;
+  }
+
+  /* Evidence tags ([FIRM], [PROBABLE] ...) show as small labelled badges; hovering gives the meaning. */
+  var TAGS = {
+    "FIRM": "Firm: well attested in several independent kinds of evidence.",
+    "PROBABLE": "Probable: most specialists accept it, with some uncertainty.",
+    "CONTESTED": "Contested: historians disagree, so both sides are given.",
+    "TRADITIONAL DATE": "Traditional date: from oral or chronicle tradition, so approximate.",
+    "THIN EVIDENCE": "Thin evidence: few sources survive, or they are late or one-sided.",
+    "ESTIMATE": "Estimate: a number with a wide range; ask who counted and how.",
+    "check current": "Check current: this may have changed since the course was written."
+  };
+  function tagNode(name, extra) {
+    var cls = "evtag evtag-" + name.toLowerCase().replace(/\s+/g, "-");
+    return h("span", { class: cls, title: TAGS[name] + " How sure the evidence is, not whether the point matters.", text: name + (extra || "") });
   }
   function wordCount(s) { return String(s).replace(/\{\{[^}]+\}\}/g, "").split(/\s+/).filter(Boolean).length; }
 
@@ -478,10 +506,15 @@
     slides.push({ kind: "title", h: m.title, sub: libLabel + " · " + (isCap ? "Capstone" : "Module " + m.number) + " · " + m.hours, belt: m.belt || "" });
 
     function pushBullets(head, pts, lab, note) {
+      /* Pack the points evenly: work out how many slides the section needs at up to MAXW words or MAXN
+         points each, then fill each slide towards an equal share, so no slide is left with one stray bullet. */
+      var MAXW = 115, MAXN = 6;
       var chunk = [], words = 0, parts = [];
+      var total = pts.reduce(function (a, p) { return a + wordCount(p); }, 0);
+      var nSlides = Math.max(1, Math.ceil(total / MAXW), Math.ceil(pts.length / MAXN)), target = total / nSlides;
       pts.forEach(function (p) {
         var w = wordCount(p);
-        if (chunk.length && (words + w > 70 || chunk.length >= 4)) { parts.push(chunk); chunk = []; words = 0; }
+        if (chunk.length && (words + w > MAXW || chunk.length >= MAXN || (words >= target && parts.length < nSlides - 1))) { parts.push(chunk); chunk = []; words = 0; }
         chunk.push(p); words += w;
       });
       if (chunk.length) parts.push(chunk);

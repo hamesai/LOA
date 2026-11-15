@@ -18,7 +18,7 @@
     },
     {
      "t": "p",
-     "x": "Source note: this account of his method rests on encyclopaedic summaries, not on his own books. {{lib}}"
+     "x": "Source note: the steps below rest on his own chapter in the UNESCO General History (vol. I, chapter 7), on the publisher's description of his 1985 book, and on encyclopaedic summaries. {{gha1-vansina}} {{vansina-jstor}}"
     },
     {
      "t": "h",
@@ -29,8 +29,8 @@
      "i": [
       "Check the definition. A message counts as oral tradition if it is spoken, sung or played on an instrument and passed on by word of mouth over at least a generation. {{wiki-oral}}",
       "Treat reverence for speech as a fact about the society. Vansina compares the attitude of an oral society to speech with a literate society's reverence for the written word. {{wiki-oral}}",
-      "Look for compressed genealogies and the floating gap between the founding past and recent memory. {{lib}}",
-      "Ask who tells it and why now, because tellers shape accounts for present politics. {{lib}}",
+      "Look for telescoped genealogies, where only the ancestors useful to the present are kept, and for the 'floating gap' between the founding past and recent memory. {{gha1-vansina}} {{vansina-jstor}}",
+      "Ask who tells it and why now, because tellers shape accounts for present politics. {{gha1-vansina}}",
       "Collect by fieldwork where you can. Historians who gathered traditions in person broke from the habit of working only in archives and libraries. {{wiki-oral}}"
      ]
     },
@@ -55,21 +55,21 @@
       ],
       [
        "What is the floating gap?",
-       "Library summary",
+       "Vansina, Oral Tradition as History (1985)",
        "Between the founding past and recent memory"
       ],
       [
        "Whose present politics shape it?",
-       "Library summary",
+       "Vansina, UNESCO vol. I, ch. 7: only 'useful' ancestors explain the present",
        "Mande rulers and the griot families"
       ],
       [
        "Can the date be trusted?",
-       "Library summary",
+       "Vansina, UNESCO vol. I, ch. 7: genealogies are telescoped",
        "c. 1235 is a traditional date"
       ]
      ],
-     "src": "{{wiki-oral}} {{lib}}"
+     "src": "{{wiki-oral}} {{gha1-vansina}} {{vansina-jstor}}"
     },
     {
      "t": "h",
@@ -81,7 +81,7 @@
      "steps": [
       "The epic names Sundiata's victory over Sumanguru at Kirina. It is oral tradition by Vansina's definition.",
       "A founding date sits in the part of the past furthest from living memory, so it is the least certain part (our inference).",
-      "Verdict: keep the story, tag the date as traditional, and look for a second kind of evidence before calling it firm. {{lib}}"
+      "Verdict: keep the story, tag the date as traditional, and look for a second kind of evidence before calling it firm."
      ]
     },
     {
@@ -124,7 +124,7 @@
       "Writing is always better"
      ],
      "a": 1,
-     "w": "The library lists the floating gap and present politics as the cautions. {{lib}}"
+     "w": "Vansina names the floating gap and the way tellers shape the past for present needs as the cautions. {{gha1-vansina}} {{vansina-jstor}}"
     },
     {
      "t": "take",
@@ -189,7 +189,7 @@
      "rows": [
       [
        "What group stood behind Yekuno Amlak?",
-       "The library does not say; flag a gap"
+       "The sources used here do not say; flag a gap"
       ],
       [
        "Who wrote the claim of descent?",
@@ -204,7 +204,7 @@
        "A political legitimising story, not a checkable genealogy"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{worldhistory-kebra}} {{provenance-solomonic}}"
     },
     {
      "t": "h",
@@ -216,7 +216,7 @@
      "steps": [
       "The dynasty began in 1270 and the text was compiled in the 14th century, so it was written after the change of power.",
       "A text written after the event, by those who benefited, is better evidence of the winners' image than of the past.",
-      "Verdict: use it as evidence of how the dynasty wanted to be seen, not as a record of 1270. {{lib}}"
+      "Verdict: use it as evidence of how the dynasty wanted to be seen, not as a record of 1270."
      ]
     },
     {
@@ -259,7 +259,7 @@
       "It names no kings"
      ],
      "a": 1,
-     "w": "It is a legitimising text. {{lib}}"
+     "w": "It is a legitimising text."
     },
     {
      "t": "take",
@@ -309,10 +309,10 @@
     {
      "t": "ol",
      "i": [
-      "Name the group. The Almoravids were a Sanhaja Berber movement led by Abd Allah ibn Yasin and Yusuf ibn Tashfin. {{lib}}",
+      "Name the group. The Almoravids were a Sanhaja Berber movement led by Abd Allah ibn Yasin and Yusuf ibn Tashfin. {{gha3-alm}}",
       "Name what united it. The sources describe a preacher and his commanders; asabiya is a lens you bring to them, not something they state. {{wiki-khaldun}}",
-      "Name the successor. The Almohads were led by Ibn Tumart and Abd al-Mu'min, who took Marrakesh in 1147. {{lib}}",
-      "Ask what happened next. For the Ghana story, remember that the traditional account of an Almoravid conquest rests on thin and late sources. {{lib}}",
+      "Name the successor. The Almohads were led by Ibn Tumart and Abd al-Mu'min, who took Marrakesh in 1147. {{britannica-almohads}}",
+      "Ask what happened next. For the Ghana story, remember that the traditional account of an Almoravid conquest rests on thin and late sources. {{conrad-fisher}} {{wiki-ghana}}",
       "Keep the historian's career in view. His own record as an official shows how political posts shaped writing. {{wiki-khaldun}}"
      ]
     },
@@ -336,7 +336,7 @@
        "Scale of persecution is contested"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{conrad-fisher}} {{gha4-almohad}}"
     },
     {
      "t": "h",
@@ -348,7 +348,7 @@
      "steps": [
       "The lens suggests asking about solidarity. It does not replace evidence for what happened.",
       "For the 1076 claim, evidence is thin and late, so the lens cannot rescue it.",
-      "Write: tradition says the Almoravids broke Ghana; archaeology shows no clear destruction layer. {{lib}}"
+      "Write: tradition says the Almoravids broke Ghana; archaeology shows no clear destruction layer."
      ]
     },
     {
@@ -389,13 +389,13 @@
       "Ibn Khaldun never mentioned it"
      ],
      "a": 1,
-     "w": "A lens frames questions; evidence answers them. {{lib}}"
+     "w": "A lens frames questions; evidence answers them."
     },
     {
      "t": "take",
      "i": [
       "Use the lens to ask questions, not to supply answers. {{wiki-khaldun}}",
-      "Keep contested claims contested. {{lib}}"
+      "Keep contested claims contested."
      ]
     }
    ],
@@ -428,7 +428,7 @@
     },
     {
      "t": "p",
-     "x": "Confidence: partial. We did not read the Rihla. The library calls the Mali account the best eyewitness account. {{lib}}"
+     "x": "Confidence: partial. We read the Mali chapter of Gibb's selected translation, not the whole Rihla. It is an eyewitness account of the Mali court in 1352 to 1353. {{ibn-battuta-gibb-029}} {{fordham-ibnb}}"
     },
     {
      "t": "h",
@@ -438,10 +438,10 @@
      "t": "ol",
      "i": [
       "Note when and for whom it was recorded. He dictated it to Ibn Juzayy after returning in 1354. {{wiki-battuta}}",
-      "Note what he saw. He praised Mali's justice and safety and criticised some customs. {{lib}}",
+      "Note what he saw. He praised Mali's justice and safety and criticised some customs. {{ibn-battuta-gibb-029}}",
       "Note his errors. He took the Niger for the Nile, so geography is not safe. {{wiki-battuta}}",
       "Note the chronology problem. Scholars find that some of his dated stages cannot all be right. {{wiki-battuta}}",
-      "Compare with other sources. Check al-Umari and the Sundiata epic on the same state. {{lib}}"
+      "Compare with other sources. Check al-Umari and the Sundiata epic on the same state."
      ]
     },
     {
@@ -469,7 +469,7 @@
        "Chronology of some stages is uncertain"
       ]
      ],
-     "src": "{{lib}} {{wiki-battuta}}"
+     "src": "{{ibn-battuta-gibb-029}} {{wiki-battuta}}"
     },
     {
      "t": "h",
@@ -481,7 +481,7 @@
      "steps": [
       "Use him for what a visitor saw: the court, safety on the roads, the ruler's name.",
       "Do not use him for Musa's 1324 to 25 pilgrimage, which he did not see.",
-      "Do not trust his dates where scholars find the chronology confused. {{lib}} {{wiki-battuta}}"
+      "Do not trust his dates where scholars find the chronology confused. {{wiki-battuta}}"
      ]
     },
     {
@@ -524,7 +524,7 @@
       "He was Musa's rival"
      ],
      "a": 0,
-     "w": "He describes the court, not Musa's trip. {{lib}}"
+     "w": "He describes the court, not Musa's trip."
     },
     {
      "t": "take",
@@ -563,7 +563,7 @@
     },
     {
      "t": "p",
-     "x": "Confidence: partial. We did not read the book beyond the front-matter excerpt. The library calls it an African-authored history that mixes tradition and documentary work. {{lib}}"
+     "x": "Confidence: partial. We read Part I chapters 1, 2 and 4 and the founders chapter in Part II, not the whole book. It is an African-authored history that sets down Oyo tradition. {{johnson}} {{bu-johnson}}"
     },
     {
      "t": "h",
@@ -576,7 +576,7 @@
       "Note his informants. The preface thanks the Timi of Ede, Lagunju, as a gifted and trusty historian. {{ia-johnson}}",
       "Note his position. He was an Anglican pastor at Oyo who saw Christianity as crowning, not overturning, Yoruba history. {{bu-johnson}}",
       "Note the editing. The manuscript was lost and reconstructed by his brother, so the 1921 text is partly Obadiah's work. {{cup-johnson}}",
-      "Cross-check with other evidence such as Robin Law's study of Oyo. {{lib}}"
+      "Cross-check with other evidence such as Robin Law's study of Oyo. {{law-oyo}}"
      ]
     },
     {
@@ -615,7 +615,7 @@
      "title": "Which claim to trust",
      "steps": [
       "Take the Oyo Mesi from the general account of Oyo, and treat Johnson as one voice among several.",
-      "Where a source of this kind gives exact dates for early kings, treat them as traditional until another source supports them. {{lib}}"
+      "Where a source of this kind gives exact dates for early kings, treat them as traditional until another source supports them."
      ]
     },
     {
@@ -707,9 +707,9 @@
      "t": "ol",
      "i": [
       "Note the claim. He found Kilwa among the most beautifully built towns. {{wiki-battuta}}",
-      "Note the date range. His visit is c. 1330 to 1331, and accounts differ on the year. {{wiki-battuta}} {{lib}}",
-      "Note what archaeology adds: coral-rag stone buildings, the palace of Husuni Kubwa and a great mosque. {{lib}}",
-      "Note a mismatch. The quoted passage says the buildings were of wood with reed roofs, while the surviving ruins are coral-rag stone, so compare the text with excavation. {{wiki-battuta}} {{lib}}",
+      "Note the date range. His visit is c. 1330 to 1331, and accounts differ on the year. {{wiki-battuta}}",
+      "Note what archaeology adds: coral-rag stone buildings, the palace of Husuni Kubwa and a great mosque. {{gha4-swahili}}",
+      "Note a mismatch. The quoted passage says the buildings were of wood with reed roofs, while the surviving ruins are coral-rag stone, so compare the text with excavation. {{wiki-battuta}} {{gha4-swahili}}",
       "Write the date as about 1330 to 1331."
      ]
     },
@@ -738,7 +738,7 @@
        "Shirazi claim is a prestige story"
       ]
      ],
-     "src": "{{wiki-battuta}} {{lib}}"
+     "src": "{{wiki-battuta}} {{gha4-swahili}} {{archaeology-swahili}} {{cambridge-shirazi}}"
     },
     {
      "t": "h",
@@ -750,7 +750,7 @@
      "steps": [
       "Wikipedia says his Kilwa stay was recorded in 1330; other accounts say 1331.",
       "Both fall within one year, and he is uncertain about his own chronology. State the range.",
-      "Do not build an argument that depends on the exact year. {{wiki-battuta}} {{lib}}"
+      "Do not build an argument that depends on the exact year. {{wiki-battuta}}"
      ]
     },
     {
@@ -831,7 +831,7 @@
     },
     {
      "t": "p",
-     "x": "Source note: this rests on descriptions of the Stuart archive, not the archive itself. {{lib}}"
+     "x": "Source note: this rests on descriptions of the Stuart archive, not the archive itself. {{stuart-archive}}"
     },
     {
      "t": "h",
@@ -840,11 +840,11 @@
     {
      "t": "ol",
      "i": [
-      "Identify the type. The James Stuart Archive records testimony from Zulu elders in the early 20th century. {{lib}}",
+      "Identify the type. The James Stuart Archive records testimony that Stuart, a Natal official, took down from nearly 200 informants, many of them elders who remembered Dingane and Mpande, in the 1890s and early 1900s. {{stuart-archive}}",
       "Count the gap. Shaka died in 1828, so testimony recorded around 1900 to 1920 is about 70 to 90 years later (our arithmetic).",
       "Compare versions. Differences between versions are signals, not noise. {{wiki-oral}}",
       "Ask who benefits now. Present politics shape what is remembered. {{wiki-oral}}",
-      "Place trader accounts beside testimony and note the interests of each. {{lib}}"
+      "Place trader accounts beside testimony and note the interests of each."
      ]
     },
     {
@@ -863,7 +863,7 @@
       ],
       [
        "Magema Fuze",
-       "c. 1900",
+       "Written c. 1905 to 1922; published 1922",
        "An isiZulu author's view"
       ],
       [
@@ -872,7 +872,7 @@
        "Trade interests"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{stuart-archive}} {{fuze-emandulo}} {{wylie-fynn}}"
     },
     {
      "t": "h",
@@ -884,7 +884,7 @@
      "steps": [
       "If a testimony is recorded in 1905 about Shaka, who died in 1828, the gap is 1905 minus 1828, which is 77 years.",
       "A speaker aged 70 in 1905 was born in 1835, seven years after Shaka's death, so cannot have seen him.",
-      "So the speaker relies on what others told them. Tag the account as tradition. {{lib}}"
+      "So the speaker relies on what others told them. Tag the account as tradition."
      ]
     },
     {
