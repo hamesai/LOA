@@ -1,0 +1,9 @@
+# Ingested book and report text must never be published (LOA rule). The reading records beside it stay tracked:
+# manifest.json, read.json, served.json, skipped.json, findings.tsv, findings-status.json, findings-baseline.json, review-notes.md
+courses/*/sources/*/ch-*.txt
+courses/*/sources/*/full.txt
+courses/*/sources/*/_served/
+source ingest/
+
+# Scratch files from kit.py figs
+_figtest.html
