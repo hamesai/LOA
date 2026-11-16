@@ -1,0 +1,34 @@
+{
+  "key": "arusha",
+  "title": "The Arusha Declaration (05/02/1967)",
+  "author": "Julius Nyerere on behalf of the Tanganyika African National Union",
+  "file": "arusha-declaration.pdf",
+  "format": "pdf",
+  "sha256": "53f81f44e56f7c39b7e711a8feef05a304587c7c32c3b2425a8778f80018d7c9",
+  "words": 7180,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "Pages 1 to 15",
+      "words": 7180,
+      "pages": [
+        1,
+        15
+      ]
+    }
+  ],
+  "warnings": [
+    "no chapter outline or headings found: split into 20-page blocks"
+  ],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "arusha-declaration.pdf",
+    "found_by": "source-discovery",
+    "url": "https://www.files.ethz.ch/isn/125524/8004_Arusha_Declaration.pdf",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.386,
+    "odd_character_share": 0.002
+  }
+}

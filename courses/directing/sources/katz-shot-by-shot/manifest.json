@@ -1,0 +1,157 @@
+{
+ "key": "katz-shot-by-shot",
+ "title": "Film Directing Shot by Shot",
+ "author": "Steven D. Katz",
+ "file": "Film Directing Shot by Shot - 25th Anniversary Edition.pdf",
+ "format": "pdf",
+ "sha256": "7e73e4fa5ce23165a8e271dc93ac3173c3114520a2d78e3d44ef4984dbb5efb0",
+ "words": 90535,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Cover",
+   "words": 1139,
+   "pages": [
+    2,
+    8
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Title Page",
+   "words": 14,
+   "pages": [
+    9,
+    9
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Copyright",
+   "words": 99,
+   "pages": [
+    10,
+    10
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Dedication",
+   "words": 7,
+   "pages": [
+    11,
+    11
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Acknowledgments",
+   "words": 616,
+   "pages": [
+    12,
+    13
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Table of Contents",
+   "words": 137,
+   "pages": [
+    14,
+    15
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Introduction",
+   "words": 760,
+   "pages": [
+    16,
+    18
+   ]
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "About the Photographs and Storyboards Used in This Book",
+   "words": 341,
+   "pages": [
+    19,
+    20
+   ]
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Part I — Visualization: The Process",
+   "words": 26254,
+   "pages": [
+    21,
+    175
+   ]
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Part II — Elements of the Continuity Style",
+   "words": 10250,
+   "pages": [
+    176,
+    229
+   ]
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Part III — The Workshop",
+   "words": 24082,
+   "pages": [
+    230,
+    389
+   ]
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Part IV — The Moving Camera",
+   "words": 20854,
+   "pages": [
+    390,
+    520
+   ]
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Glossary",
+   "words": 2536,
+   "pages": [
+    521,
+    529
+   ]
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Recommended Reading",
+   "words": 965,
+   "pages": [
+    530,
+    536
+   ]
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "About the Author",
+   "words": 2481,
+   "pages": [
+    537,
+    552
+   ]
+  }
+ ],
+ "warnings": [],
+ "text_quality": {
+  "common_word_share": 0.373,
+  "odd_character_share": 0.002
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-25",
+  "source_file": "Film Directing Shot by Shot - 25th Anniversary Edition.pdf",
+  "note": "Date is when the file arrived in the source ingest folder."
+ }
+}

@@ -1,0 +1,142 @@
+{
+  "key": "trc-vol5",
+  "title": "Truth and Reconciliation Commission of South Africa Report, vol. 5 (1998)",
+  "author": "South African TRC",
+  "file": "trc-vol5.pdf",
+  "format": "pdf",
+  "sha256": "c447a5a8816793190a4d0cfa236da2a8d72aff992edaec08bc66f6bdfd630f1c",
+  "words": 187815,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "Front matter",
+      "words": 89,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "file": "ch-002.txt",
+      "title": "Contents",
+      "words": 125,
+      "pages": [
+        3,
+        3
+      ]
+    },
+    {
+      "file": "ch-003.txt",
+      "title": "Chapter 1",
+      "words": 8565,
+      "pages": [
+        4,
+        28
+      ]
+    },
+    {
+      "file": "ch-004.txt",
+      "title": "Chapter 2",
+      "words": 43157,
+      "pages": [
+        29,
+        110
+      ]
+    },
+    {
+      "file": "ch-005.txt",
+      "title": "Chapter 3",
+      "words": 5619,
+      "pages": [
+        111,
+        127
+      ]
+    },
+    {
+      "file": "ch-006.txt",
+      "title": "Chapter 4",
+      "words": 17102,
+      "pages": [
+        128,
+        172
+      ]
+    },
+    {
+      "file": "ch-007.txt",
+      "title": "Chapter 5",
+      "words": 7550,
+      "pages": [
+        173,
+        198
+      ]
+    },
+    {
+      "file": "ch-008.txt",
+      "title": "Chapter 6",
+      "words": 25374,
+      "pages": [
+        199,
+        261
+      ]
+    },
+    {
+      "file": "ch-009.txt",
+      "title": "Chapter 7",
+      "words": 16992,
+      "pages": [
+        262,
+        306
+      ]
+    },
+    {
+      "file": "ch-010.txt",
+      "title": "Chapter 8",
+      "words": 14813,
+      "pages": [
+        307,
+        352
+      ]
+    },
+    {
+      "file": "ch-011.txt",
+      "title": "Chapter 9",
+      "words": 38538,
+      "pages": [
+        353,
+        438
+      ]
+    },
+    {
+      "file": "ch-012.txt",
+      "title": "Monitory Position",
+      "words": 8345,
+      "pages": [
+        439,
+        459
+      ]
+    },
+    {
+      "file": "ch-013.txt",
+      "title": "Response of the Commission",
+      "words": 1546,
+      "pages": [
+        460,
+        463
+      ]
+    }
+  ],
+  "warnings": [
+    "text quality looks poor (6% common English words, 0.1% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+  ],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "trc-vol5.pdf",
+    "found_by": "source-discovery",
+    "url": "https://www.justice.gov.za/trc/report/finalreport/Volume5.pdf",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.061,
+    "odd_character_share": 0.001
+  }
+}

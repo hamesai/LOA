@@ -1,0 +1,29 @@
+{
+ "key": "muybridge-animal-locomotion",
+ "title": "The Science of Animal Locomotion",
+ "author": "",
+ "file": "Muybridge - The Science of Animal Locomotion.txt",
+ "format": "txt",
+ "sha256": "da13f78be602ec1898c79a00e202e7224582337b2074036dee28340aa761f61d",
+ "words": 6623,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "The Project Gutenberg eBook of The Science of Animal Locomotion (Zoopraxography)",
+   "words": 6623
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (30% common English words, 2.9% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "text_quality": {
+  "common_word_share": 0.297,
+  "odd_character_share": 0.029
+ },
+ "provenance": {
+  "found_by": "source-discovery",
+  "added": "2026-10-26",
+  "url": "https://www.gutenberg.org/ebooks/39998",
+  "query": "Source Discovery, 26/10/2026"
+ }
+}

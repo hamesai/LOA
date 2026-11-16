@@ -1,0 +1,196 @@
+{
+ "key": "gha-ii",
+ "title": "General History of Africa, vol. II: Ancient Civilizations of Africa",
+ "author": "UNESCO; ed. G. Mokhtar",
+ "file": "ii-split.txt",
+ "format": "txt",
+ "sha256": "afb46db519f2caa41c3a849dfa0e8b88509dcf9c38b89eb5a9a36342fcfb1c49",
+ "words": 392829,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "GENERAL HISTORY OF AFRICA II",
+   "words": 16908
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Chapter 1: Origin of the ancient Egyptians",
+   "words": 27402
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Chapter 2: Pharaonic Egypt",
+   "words": 12249
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Chapter 3: Pharaonic Egypt: society, economy and culture",
+   "words": 11179
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Chapter 4: Egypt's relations with the rest of Africa",
+   "words": 9055
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Chapter 5: The legacy of Pharaonic Egypt",
+   "words": 11998
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Chapter 6: Egypt in the hellenistic era",
+   "words": 10464
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Chapter 7: Egypt under Roman domination",
+   "words": 8225
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Chapter 8: The importance of Nubia",
+   "words": 8787
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Chapter 9: Nubia before Napata",
+   "words": 12453
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Chapter 10: The empire of Kush: Napata and Meroe",
+   "words": 8386
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Chapter 11: The civilization of Napata and Meroe",
+   "words": 13772
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Chapter 12: The spreading of Christianity in Nubia",
+   "words": 5115
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Chapter 13: Pre-Aksumite culture",
+   "words": 9979
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "Chapter 14: The civilization of Aksum from the first to the seventh century",
+   "words": 9039
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "Chapter 15: Aksum: political system, economics and culture, first to fourth century",
+   "words": 10136
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "Chapter 16: Christian Aksum",
+   "words": 10980
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "Chapter 17: The proto-Berbers",
+   "words": 9364
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "Chapter 18: The Carthaginian period",
+   "words": 13075
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "Chapter 19: The Roman and post-Roman period in North Africa",
+   "words": 15
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "Part I: the Roman period A. MAHJOUBI",
+   "words": 18376
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "Part II: From Rome to Islam p. SALAMA",
+   "words": 5539
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "Chapter 20: The Sahara in classical antiquity",
+   "words": 9539
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "Chapter 21: Introduction to the later prehistory of sub-Saharan Africa",
+   "words": 8781
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "Chapter 22: The East African coast and its role in maritime trade",
+   "words": 9252
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "Chapter 23: East Africa before the seventh century",
+   "words": 12381
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "Chapter 24: West Africa before the seventh century",
+   "words": 10835
+  },
+  {
+   "file": "ch-028.txt",
+   "title": "Chapter 25: Central Africa",
+   "words": 9633
+  },
+  {
+   "file": "ch-029.txt",
+   "title": "Chapter 26: Southern Africa: hunters and food-gatherers",
+   "words": 13202
+  },
+  {
+   "file": "ch-030.txt",
+   "title": "Chapter 27: The beginnings of the iron age in southern Africa",
+   "words": 9591
+  },
+  {
+   "file": "ch-031.txt",
+   "title": "Chapter 28: Madagascar",
+   "words": 9696
+  },
+  {
+   "file": "ch-032.txt",
+   "title": "Chapter 29: The societies of Africa south of the Sahara in the early iron age",
+   "words": 7681
+  },
+  {
+   "file": "ch-033.txt",
+   "title": "Chapter 30: Conclusion",
+   "words": 3377
+  },
+  {
+   "file": "ch-034.txt",
+   "title": "Biographies of authors (back matter, not chapter text)",
+   "words": 46365
+  }
+ ],
+ "warnings": [
+  "Text layer of a born-digital UNESCO PDF extracted with pdftotext (no OCR). The 'poor quality' flag from ingestion is a false alarm: letters of small-capital words are spaced ('T h e'), accents sometimes show as a replacement character, and plate captions and figure labels appear as noise. Check figures against the printed page before quoting."
+ ],
+ "provenance": {
+  "added": "2026-11-04",
+  "source_file": "ii-split.txt",
+  "found_by": "source-discovery",
+  "url": "https://unesdoc.unesco.org/ark:/48223/pf0000184265",
+  "query": "Source Discovery, 01/11/2026",
+  "note": "PDF saved by the user from the UNESCO record because the site blocks scripted downloads; text extracted with pdftotext and split into chapters by the printed contents page numbers"
+ },
+ "text_quality": {
+  "common_word_share": 0.326,
+  "odd_character_share": 0.006
+ }
+}

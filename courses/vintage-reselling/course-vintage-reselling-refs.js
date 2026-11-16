@@ -1,0 +1,25 @@
+/* Sources for Vintage reselling business (UK). Cite with {{key}}. */
+Object.assign(window.COURSE_REFS = window.COURSE_REFS || {}, {
+  "gov-digital": { t: "Selling goods or services on a digital platform", s: "GOV.UK (HMRC guidance), page dated 31/07/2024", u: "https://www.gov.uk/guidance/selling-goods-or-services-on-a-digital-platform" },
+  "gov-allowance": { t: "Tax-free allowances on property and trading income", s: "GOV.UK (HMRC), last updated 08/05/2019", u: "https://www.gov.uk/guidance/tax-free-allowances-on-property-and-trading-income" },
+  "hmrc-bim86000": { t: "BIM86000 Trading and Miscellaneous Income Allowance", s: "HMRC Business Income Manual, updated 04/08/2026", u: "https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86000" },
+  "hmrc-bim20205": { t: "BIM20205 Meaning of trade: badges of trade: summary", s: "HMRC Business Income Manual (only the opening of the page was read)", u: "https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim20205" },
+  "iak": { t: "The 1,000 pound Trading Allowance Explained (2026/27). Secondary source", s: "IAK Accountants, 11/09/2026", u: "https://iakaccountants.co.uk/insights/trading-allowance" },
+  "gov-expenses": { t: "Expenses if you're self-employed", s: "GOV.UK", u: "https://www.gov.uk/expenses-if-youre-self-employed" },
+  "gov-distance": { t: "Distance selling", s: "GOV.UK", u: "https://www.gov.uk/online-and-distance-selling-for-businesses" },
+  "cra-s2": { t: "Consumer Rights Act 2015, section 2 (key definitions)", s: "legislation.gov.uk", u: "https://www.legislation.gov.uk/ukpga/2015/15/section/2" },
+  "cra-s9": { t: "Consumer Rights Act 2015, section 9 (satisfactory quality)", s: "legislation.gov.uk (only the opening of the section appeared in the excerpt read)", u: "https://www.legislation.gov.uk/ukpga/2015/15/section/9" },
+  "cra-notes": { t: "Consumer Rights Act 2015, Explanatory Notes", s: "legislation.gov.uk (excerpt read)", u: "https://www.legislation.gov.uk/ukpga/2015/15/notes/division/3/1/data.htm" },
+  "bc-business": { t: "Am I in business?", s: "Business Companion (Chartered Trading Standards Institute, government-backed), England, Scotland and Wales", u: "https://www.businesscompanion.info/en/quick-guides/miscellaneous/am-i-in-business" },
+  "bc-upholstered": { t: "Second-hand upholstered furniture: fire safety", s: "Business Companion", u: "https://www.businesscompanion.info/en/quick-guides/product-safety/second-hand-upholstered-furniture-fire-safety" },
+  "leg-ffr": { t: "The Furniture and Furnishings (Fire) (Safety) Regulations 1988 (version of 30/10/2025)", s: "legislation.gov.uk (excerpt read)", u: "https://www.legislation.gov.uk/uksi/1988/1324/2025-10-30" },
+  "bc-electrical": { t: "Second-hand electrical goods", s: "Business Companion", u: "https://www.businesscompanion.info/en/quick-guides/product-safety/second-hand-electrical-goods" },
+  "bc-hallmark": { t: "Hallmarking", s: "Business Companion", u: "https://www.businesscompanion.info/en/quick-guides/miscellaneous/hallmarking" },
+  "gov-ivory": { t: "Deal in items made of or containing ivory", s: "GOV.UK (Defra)", u: "https://www.gov.uk/guidance/dealing-in-items-containing-ivory-or-made-of-ivory" },
+  "gov-ivory-cert": { t: "Ivory: apply for an exemption certificate (pre-1918 outstandingly high value items)", s: "GOV.UK (Defra)", u: "https://www.gov.uk/guidance/ivory-apply-for-an-exemption-certificate-to-deal-in-pre-1918-outstandingly-high-artistic-cultural-or-historical-value-items" },
+  "ebay-private": { t: "Fees for private sellers (UK)", s: "eBay.co.uk help, last updated 30/09/2026", u: "https://www.ebay.co.uk/help/selling/fees-credits-invoices/fees-private-sellers-activated-managed-payments?id=4822" },
+  "ebay-business": { t: "Fees for business sellers (UK)", s: "eBay.co.uk help", u: "https://www.ebay.co.uk/help/selling/fees-credits-invoices/fees-business-sellers?id=4809" },
+  "vinted-fee": { t: "Vinted fee", s: "Vinted UK help centre", u: "https://www.vinted.co.uk/help/342-buyer-protection-fee-on-vinted" },
+  "etsy-fees": { t: "Fees and Payments Policy", s: "Etsy (read in part; the copy fetched was partly in Spanish and rates for UK sellers were not confirmed)", u: "https://www.etsy.com/legal/fees/" },
+  "etsy-guide": { t: "Etsy Reselling Guide: Vintage Rules, Fees and SEO (2026). Secondary source", s: "underpriced.app, 28/02/2026", u: "https://www.underpriced.app/blog/etsy-reselling-guide-2026" }
+});

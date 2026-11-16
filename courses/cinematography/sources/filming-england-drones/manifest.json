@@ -1,0 +1,33 @@
+{
+ "key": "filming-england-drones",
+ "title": "Filming with drones in the UK: guidance for productions",
+ "author": "Chloe Roden",
+ "file": "Filming in England - Drone guidance for productions (2024).pdf",
+ "format": "pdf",
+ "sha256": "201511de2520eaa118edd34412416debf8de261208ced3950941956759413f54",
+ "words": 2431,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 6",
+   "words": 2431,
+   "pages": [
+    1,
+    6
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks"
+ ],
+ "text_quality": {
+  "common_word_share": 0.32,
+  "odd_character_share": 0.008
+ },
+ "provenance": {
+  "found_by": "source-discovery",
+  "added": "2026-10-26",
+  "url": "https://www.filminginengland.co.uk/wp-content/uploads/2024/03/Production-Facing-Drone-Guidance.pdf",
+  "query": "Source Discovery, 26/10/2026"
+ }
+}

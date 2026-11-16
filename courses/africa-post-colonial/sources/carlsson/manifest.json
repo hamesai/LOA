@@ -1,0 +1,28 @@
+{
+  "key": "carlsson",
+  "title": "Report of the Independent Inquiry into the actions of the United Nations during the 1994 genocide in Rwanda (Carlsson report, S/1999/1257)",
+  "author": "United Nations",
+  "file": "carlsson.txt",
+  "format": "txt",
+  "sha256": "7c2e4e2a6620ca556e8d2bf71b165bfccc163bab50054a38ec843ecdf0ac0be4",
+  "words": 28101,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "Report of the Independent Inquiry into the Actions of the United Nations during the 1994 G",
+      "words": 28101
+    }
+  ],
+  "warnings": [],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "carlsson.txt",
+    "found_by": "source-discovery",
+    "url": "https://digitallibrary.un.org/record/405039 (text from an archived copy at phdn.org)",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.38,
+    "odd_character_share": 0.005
+  }
+}

@@ -1,0 +1,205 @@
+{
+ "key": "ibn-battuta-gibb",
+ "title": "Ibn Battuta, Travels in Asia and Africa 1325-1354, tr. H. A. R. Gibb (1929)",
+ "author": "",
+ "file": "ibn-battuta-travels-gibb-1929.txt",
+ "format": "txt",
+ "sha256": "33577174c1b5de2c45ab12d8532aef9d862669bb6b30e536dfae74f88ce91b78",
+ "words": 141287,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "AND AFR",
+   "words": 319
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Chapter 1: -",
+   "words": 7
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Chapter 2: -",
+   "words": 7
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Chapter 3: -",
+   "words": 7
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Chapter 4: -",
+   "words": 7
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Chapter 5: BOOK II",
+   "words": 7
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Chapter 6: ..",
+   "words": 7
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Chapter 7: -",
+   "words": 7
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Chapter 8: -",
+   "words": 7
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Chapter 9: _",
+   "words": 7
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Chapter 10: -",
+   "words": 7
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Chapter 11: -",
+   "words": 6
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Chapter 12: -",
+   "words": 7
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Chapter 13: -",
+   "words": 7
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "Chapter 14: »",
+   "words": 13425
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "CHAPTER I",
+   "words": 12109
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "CHAPTER II",
+   "words": 9659
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "CHAPTER III",
+   "words": 6057
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "CHAPTER IV",
+   "words": 15402
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "CHAPTER V",
+   "words": 4996
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "CHAPTER VI",
+   "words": 10786
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "CHAPTER VII",
+   "words": 9724
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "CHAPTER VIII",
+   "words": 7040
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "CHAPTER IX",
+   "words": 3813
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "CHAPTER X",
+   "words": 3195
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "CHAPTER XI",
+   "words": 6700
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "CHAPTER XII",
+   "words": 3143
+  },
+  {
+   "file": "ch-028.txt",
+   "title": "CHAPTER XIII",
+   "words": 2009
+  },
+  {
+   "file": "ch-029.txt",
+   "title": "CHAPTER XIV",
+   "words": 8047
+  },
+  {
+   "file": "ch-030.txt",
+   "title": "CHAPTER I",
+   "words": 3123
+  },
+  {
+   "file": "ch-031.txt",
+   "title": "CHAPTER II",
+   "words": 7452
+  },
+  {
+   "file": "ch-032.txt",
+   "title": "CHAPTER VII",
+   "words": 951
+  },
+  {
+   "file": "ch-033.txt",
+   "title": "CHAPTER VIII",
+   "words": 1023
+  },
+  {
+   "file": "ch-034.txt",
+   "title": "CHAPTER X‘",
+   "words": 773
+  },
+  {
+   "file": "ch-035.txt",
+   "title": "CHAPTER XI",
+   "words": 3779
+  },
+  {
+   "file": "ch-036.txt",
+   "title": "CHAPTER XIII",
+   "words": 7672
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (39% common English words, 1.8% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-02",
+  "source_file": "ibn-battuta-travels-gibb-1929.txt",
+  "found_by": "source-discovery",
+  "url": "https://archive.org/details/ibnbattutatravel00harg",
+  "query": "Source Discovery, 01/11/2026"
+ },
+ "text_quality": {
+  "common_word_share": 0.385,
+  "odd_character_share": 0.018
+ }
+}

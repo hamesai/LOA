@@ -1,0 +1,12 @@
+{
+ "ccfbc127": {
+  "state": "skipped",
+  "note": "module 6 already calls the two-stop claim an untested manufacturer claim",
+  "date": "2026-10-26"
+ },
+ "ab4602e8": {
+  "state": "skipped",
+  "note": "module 4 quotes no figures from the extracted curves",
+  "date": "2026-10-26"
+ }
+}

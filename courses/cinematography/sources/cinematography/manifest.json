@@ -1,0 +1,128 @@
+{
+ "key": "cinematography",
+ "title": "Cinematography: Theory and Practice",
+ "author": "Blain Brown",
+ "file": "Cinematography Theory and Practice.epub",
+ "format": "epub",
+ "sha256": "80946ac10a02aaff7439934019f3e58eb4a7af89632f9ac83ddaed66a0eeea01",
+ "words": 145260,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Introduction",
+   "words": 3219
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Chapter 1: Cinematic Technique",
+   "words": 16147
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Chapter 2: Composition and Visual Design",
+   "words": 3351
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Chapter 3: The Lens and the Frame",
+   "words": 3757
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Chapter 4: Image Control",
+   "words": 3032
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Chapter 5: Camera Movement and Mounts",
+   "words": 9785
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Chapter 6: Continuity and Shooting for Editing",
+   "words": 12371
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Chapter 7: Light, Exposure and the Zone System",
+   "words": 11241
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Chapter 8: Color",
+   "words": 6370
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Chapter 9: Lighting Equipment",
+   "words": 7382
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Chapter 10: Lighting as Storytelling",
+   "words": 3981
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Chapter 11: Color Balance and Color Control",
+   "words": 4238
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Chapter 12: Optics and Depth of Field",
+   "words": 7396
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Chapter 13: Video Basics",
+   "words": 7537
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "Chapter 14: Shooting High Def and Digital Video",
+   "words": 5219
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "Chapter 15: Transfer, Printing and Color Processes",
+   "words": 6551
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "Chapter 16: Filters and Controlling the Look",
+   "words": 4938
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "Chapter 17: Production Roles and Set Procedures",
+   "words": 10939
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "Chapter 18: Special Techniques",
+   "words": 10280
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "Chapter 19: Film Formats and Aperture",
+   "words": 2107
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "Back Matter",
+   "words": 5419
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (37% common English words, 1.3% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "text_quality": {
+  "common_word_share": 0.366,
+  "odd_character_share": 0.013
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-19",
+  "note": "Date is when the file arrived in the source ingest folder."
+ }
+}

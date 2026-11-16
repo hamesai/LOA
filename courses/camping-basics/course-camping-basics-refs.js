@@ -1,0 +1,27 @@
+/* Sources for Camping fundamentals (UK and Ireland). Cite them in lessons with {{key}}. */
+Object.assign(window.COURSE_REFS = window.COURSE_REFS || {}, {
+  "soac": { t: "Being a cool camper (camping)", s: "NatureScot, Scottish Outdoor Access Code practical guide, 2025", u: "https://www.outdooraccess-scotland.scot/practical-guide-all/camping" },
+  "dartmoor": { t: "Camping and the Backpack Camping Code", s: "Dartmoor National Park Authority", u: "https://www.dartmoor.gov.uk/enjoy-dartmoor/outdoor-activities/camping" },
+  "cc-ew": { t: "The Countryside Code: advice for countryside visitors (England and Wales)", s: "Natural England and Natural Resources Wales, updated 26/05/2023", u: "https://www.gov.uk/government/publications/the-countryside-code/the-countryside-code-advice-for-countryside-visitors" },
+  "cc-ni": { t: "The Countryside Code (Northern Ireland)", s: "nidirect, Northern Ireland Executive", u: "https://www.nidirect.gov.uk/articles/countryside-code" },
+  "lnt-ie": { t: "Camping in Ireland", s: "Leave No Trace Ireland, 2021", u: "https://www.leavenotraceireland.org/love-this-place-leave-no-trace/camping-ireland" },
+  "lnt": { t: "The 7 Principles", s: "Leave No Trace Center for Outdoor Ethics", u: "https://lnt.org/why/7-principles/" },
+  "rei-beg": { t: "Camping for Beginners", s: "REI Co-op Expert Advice", u: "https://www.rei.com/learn/expert-advice/camping-for-beginners.html" },
+  "rei-tent": { t: "How to Choose a Camping Tent", s: "Kelly Bastone, REI Co-op Expert Advice, updated 07/10/2025", u: "https://www.rei.com/learn/expert-advice/family-base-camping-tent.html" },
+  "rei-setup": { t: "How to Set Up a Tent", s: "REI Co-op Expert Advice", u: "https://www.rei.com/learn/expert-advice/tent-set-up.html" },
+  "rei-cond": { t: "How to Prevent Condensation in a Tent", s: "Ken Knapp, REI Co-op Expert Advice", u: "https://www.rei.com/learn/expert-advice/how-to-prevent-condensation-in-a-tent.html" },
+  "rei-bag": { t: "Understanding Sleeping Bag Temperature Ratings", s: "Ken Knapp, REI Co-op Expert Advice", u: "https://www.rei.com/learn/expert-advice/understanding-sleeping-bag-temperature-ratings.html" },
+  "rei-pad": { t: "Sleeping Pads: How to Choose", s: "REI Co-op Expert Advice (read in part)", u: "https://www.rei.com/learn/expert-advice/sleeping-pads.html" },
+  "rei-sleep": { t: "How to Sleep Well While Camping", s: "REI Co-op Expert Advice", u: "https://www.rei.com/learn/expert-advice/camp-sleeping-tips.html" },
+  "cdc": { t: "About Water Treatment Options When Hiking, Camping, or Traveling", s: "US Centers for Disease Control and Prevention, 30/01/2025", u: "https://www.cdc.gov/drinking-water/prevention/water-treatment-hiking-camping-traveling.html" },
+  "bmc": { t: "Camping stove safety: how to avoid carbon monoxide and fire risks", s: "Spenser Gray, British Mountaineering Council", u: "https://www.thebmc.co.uk/en/camping-stove-safety-how-to-avoid-carbon-monoxide-and-fire-risks" },
+  "nid-co": { t: "Carbon monoxide dangers if camping, caravanning or boating", s: "nidirect, published 02/04/2026", u: "https://www.nidirect.gov.uk/news/carbon-monoxide-dangers-if-camping-caravanning-or-boating" },
+  "fsa": { t: "Camping food safety", s: "Stuart Forward, Food Standards Agency blog, 20/07/2020", u: "https://food.blog.gov.uk/2020/07/20/camping-food-safety" },
+  "nhs-hypo": { t: "Hypothermia", s: "NHS, reviewed 09/06/2023", u: "https://www.nhs.uk/conditions/hypothermia/" },
+  "mrew": { t: "In case of emergency", s: "Mountain Rescue England and Wales", u: "https://www.mountain.rescue.org.uk/how-to-call-out-mr/" },
+  "met-mtn": { t: "Mountain safety", s: "Met Office", u: "https://weather.metoffice.gov.uk/guides/mountain/video" },
+  "met-wc": { t: "Wind chill factor", s: "Met Office", u: "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/wind-chill-factor" },
+  "os-map": { t: "Map reading made easy", s: "Ordnance Survey (booklet)", u: "https://www.ordnancesurvey.co.uk/documents/resources/map-reading-made-easy.pdf" },
+  "os-comp": { t: "Beginners guide to using a compass", s: "Jonathan Elder, OS GetOutside, 05/06/2022", u: "https://getoutside.ordnancesurvey.co.uk/guides/beginners-guide-to-using-a-compass/" },
+  "os-naismith": { t: "Why we're adjusting Naismith's Rule", s: "Ordnance Survey blog, 09/05/2019", u: "https://www.ordnancesurvey.co.uk/blog/why-were-adjusting-naismiths-rule" }
+});

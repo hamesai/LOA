@@ -1,0 +1,124 @@
+{
+  "key": "berg",
+  "title": "Accelerated Development in Sub-Saharan Africa: An Agenda for Action (Berg Report, 1981)",
+  "author": "World Bank Group",
+  "file": "berg-report.pdf",
+  "format": "pdf",
+  "sha256": "877cd75f50d0d28df5f7cbf6b8b9e9f02600ab20b0df925f59a93b4860cd0c1b",
+  "words": 119420,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "Pages 1 to 20",
+      "words": 8359,
+      "pages": [
+        1,
+        20
+      ]
+    },
+    {
+      "file": "ch-002.txt",
+      "title": "Pages 21 to 40",
+      "words": 11903,
+      "pages": [
+        21,
+        40
+      ]
+    },
+    {
+      "file": "ch-003.txt",
+      "title": "Pages 41 to 60",
+      "words": 11662,
+      "pages": [
+        41,
+        60
+      ]
+    },
+    {
+      "file": "ch-004.txt",
+      "title": "Pages 61 to 80",
+      "words": 14195,
+      "pages": [
+        61,
+        80
+      ]
+    },
+    {
+      "file": "ch-005.txt",
+      "title": "Pages 81 to 100",
+      "words": 12550,
+      "pages": [
+        81,
+        100
+      ]
+    },
+    {
+      "file": "ch-006.txt",
+      "title": "Pages 101 to 120",
+      "words": 12106,
+      "pages": [
+        101,
+        120
+      ]
+    },
+    {
+      "file": "ch-007.txt",
+      "title": "Pages 121 to 140",
+      "words": 11984,
+      "pages": [
+        121,
+        140
+      ]
+    },
+    {
+      "file": "ch-008.txt",
+      "title": "Pages 141 to 160",
+      "words": 8419,
+      "pages": [
+        141,
+        160
+      ]
+    },
+    {
+      "file": "ch-009.txt",
+      "title": "Pages 161 to 180",
+      "words": 8856,
+      "pages": [
+        161,
+        180
+      ]
+    },
+    {
+      "file": "ch-010.txt",
+      "title": "Pages 181 to 200",
+      "words": 11564,
+      "pages": [
+        181,
+        200
+      ]
+    },
+    {
+      "file": "ch-011.txt",
+      "title": "Pages 201 to 217",
+      "words": 7822,
+      "pages": [
+        201,
+        217
+      ]
+    }
+  ],
+  "warnings": [
+    "no chapter outline or headings found: split into 20-page blocks"
+  ],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "berg-report.pdf",
+    "found_by": "source-discovery",
+    "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/702471468768312009",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.305,
+    "odd_character_share": 0.003
+  }
+}

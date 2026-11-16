@@ -1,0 +1,28 @@
+{
+  "key": "sankara-un",
+  "title": "Speech before the UN General Assembly, 04/10/1984",
+  "author": "Thomas Sankara",
+  "file": "sankara-un.txt",
+  "format": "txt",
+  "sha256": "884c19d094b3438a08f1ea43a62c70a198f37e765bf7cb9302c592ce82351995",
+  "words": 6564,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "Sankara, speech at the UN General Assembly, 04/10/1984 (Marxists Internet Archive)",
+      "words": 6564
+    }
+  ],
+  "warnings": [],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "sankara-un.txt",
+    "found_by": "source-discovery",
+    "url": "https://www.marxists.org/archive/sankara/1984/october/04.htm",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.39,
+    "odd_character_share": 0.002
+  }
+}

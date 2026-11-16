@@ -1,0 +1,621 @@
+{
+ "key": "gha-ix",
+ "title": "General History of Africa, vol. IX: General History of Africa Revisited",
+ "author": "UNESCO; ed. A. F. C. Holl",
+ "file": "ix-split.txt",
+ "format": "txt",
+ "sha256": "7dbfc3c1ce8648a3f33613f00eac5a608045ee1deca1a69a5715d570ea8f224d",
+ "words": 400140,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "UNESCO International Scientific Committee for the New Volumes of the General History of Af",
+   "words": 1778
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Chapter 1 Figure 1 Figure 2 Figure 3",
+   "words": 49
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Chapter 2 Figure 1",
+   "words": 126
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Chapter 4 Figure 1 Figure 2 Figure 3 Figure 4",
+   "words": 27
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Chapter 6 Figure 1 Figure 2 Figure 3 Figure 4",
+   "words": 30
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Chapter 7 Figure 1",
+   "words": 44
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Chapter 8 Figure 1 Figure 2 Figure 3 Figure 4",
+   "words": 42
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Chapter 9 Figure 1 Figure 2",
+   "words": 60
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Chapter 10",
+   "words": 27
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Chapter 11",
+   "words": 57
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Chapter 12",
+   "words": 72
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Chapter 13",
+   "words": 45
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Chapter 14",
+   "words": 44
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Chapter 16",
+   "words": 119
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "Chapter 19",
+   "words": 187
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "Chapter 11 Table 1 Table 2",
+   "words": 19609
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "CHAPTER 1",
+   "words": 13523
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "CHAPTER 2",
+   "words": 6562
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "CHAPTER 3",
+   "words": 9530
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "CHAPTER 4",
+   "words": 3512
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "CHAPTER 5",
+   "words": 5937
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "CHAPTER 6",
+   "words": 7431
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "CHAPTER 7",
+   "words": 2051
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "CHAPTER 8",
+   "words": 8077
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "CHAPTER 9",
+   "words": 5812
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "CHAPTER 10",
+   "words": 2739
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "CHAPTER 11",
+   "words": 2720
+  },
+  {
+   "file": "ch-028.txt",
+   "title": "CHAPTER 12",
+   "words": 2568
+  },
+  {
+   "file": "ch-029.txt",
+   "title": "CHAPTER 13",
+   "words": 4543
+  },
+  {
+   "file": "ch-030.txt",
+   "title": "CHAPTER 14",
+   "words": 4724
+  },
+  {
+   "file": "ch-031.txt",
+   "title": "CHAPTER 15",
+   "words": 9189
+  },
+  {
+   "file": "ch-032.txt",
+   "title": "CHAPTER 16",
+   "words": 3419
+  },
+  {
+   "file": "ch-033.txt",
+   "title": "CHAPTER 17",
+   "words": 4700
+  },
+  {
+   "file": "ch-034.txt",
+   "title": "CHAPTER 18",
+   "words": 4413
+  },
+  {
+   "file": "ch-035.txt",
+   "title": "CHAPTER 19",
+   "words": 3341
+  },
+  {
+   "file": "ch-036.txt",
+   "title": "CHAPTER 20",
+   "words": 2366
+  },
+  {
+   "file": "ch-037.txt",
+   "title": "CHAPTER 21",
+   "words": 10948
+  },
+  {
+   "file": "ch-038.txt",
+   "title": "Chapter 1: Methodology and African Prehistory: Review of GHA vol. I",
+   "words": 22
+  },
+  {
+   "file": "ch-039.txt",
+   "title": "CHAPTER 1",
+   "words": 10245
+  },
+  {
+   "file": "ch-040.txt",
+   "title": "CHAPTER 2",
+   "words": 223
+  },
+  {
+   "file": "ch-041.txt",
+   "title": "Chapter 2: Ancient Civilizations of Africa: Review of GHA vol. II",
+   "words": 22
+  },
+  {
+   "file": "ch-042.txt",
+   "title": "CHAPTER 2",
+   "words": 8610
+  },
+  {
+   "file": "ch-043.txt",
+   "title": "CHAPTER 3",
+   "words": 171
+  },
+  {
+   "file": "ch-044.txt",
+   "title": "Chapter 3: Africa from the 7th to the 11th Century: Review of GHA vol. III",
+   "words": 30
+  },
+  {
+   "file": "ch-045.txt",
+   "title": "CHAPTER 3",
+   "words": 5319
+  },
+  {
+   "file": "ch-046.txt",
+   "title": "CHAPTER 4",
+   "words": 640
+  },
+  {
+   "file": "ch-047.txt",
+   "title": "Chapter 4: Africa from the 12th to the 16th Century: Review of GHA vol. IV",
+   "words": 30
+  },
+  {
+   "file": "ch-048.txt",
+   "title": "CHAPTER 4",
+   "words": 7752
+  },
+  {
+   "file": "ch-049.txt",
+   "title": "CHAPTER 5",
+   "words": 250
+  },
+  {
+   "file": "ch-050.txt",
+   "title": "Chapter 5: Africa from the 16th to the 18th Century: Review of GHA vol. V",
+   "words": 30
+  },
+  {
+   "file": "ch-051.txt",
+   "title": "CHAPTER 5",
+   "words": 3032
+  },
+  {
+   "file": "ch-052.txt",
+   "title": "CHAPTER 6",
+   "words": 198
+  },
+  {
+   "file": "ch-053.txt",
+   "title": "Chapter 1",
+   "words": 421
+  },
+  {
+   "file": "ch-054.txt",
+   "title": "Chapter 6: Africa in the 19th Century until the 1880s: Review of GHA vol. VI",
+   "words": 30
+  },
+  {
+   "file": "ch-055.txt",
+   "title": "CHAPTER 6",
+   "words": 198
+  },
+  {
+   "file": "ch-056.txt",
+   "title": "Chapter 1",
+   "words": 436
+  },
+  {
+   "file": "ch-057.txt",
+   "title": "Chapter 2",
+   "words": 1055
+  },
+  {
+   "file": "ch-058.txt",
+   "title": "Chapter 6 to 8: The Mfecane",
+   "words": 527
+  },
+  {
+   "file": "ch-059.txt",
+   "title": "Chapter 8 to 11",
+   "words": 2904
+  },
+  {
+   "file": "ch-060.txt",
+   "title": "CHAPTER 7",
+   "words": 622
+  },
+  {
+   "file": "ch-061.txt",
+   "title": "Chapter 7: Other chapters of vol. IX not split out, pdf pages 470 to 546",
+   "words": 6143
+  },
+  {
+   "file": "ch-062.txt",
+   "title": "CHAPTER 8",
+   "words": 12905
+  },
+  {
+   "file": "ch-063.txt",
+   "title": "CHAPTER 1",
+   "words": 9903
+  },
+  {
+   "file": "ch-064.txt",
+   "title": "Chapter 8: The Genealogical Connections of Africa's Regions: The Y Chromosome Evidence",
+   "words": 23
+  },
+  {
+   "file": "ch-065.txt",
+   "title": "Chapter 8: The Genealogical Connections of Africa's Regions: The Y Chromosome Evidence (text)",
+   "words": 7707
+  },
+  {
+   "file": "ch-066.txt",
+   "title": "CHAPTER 3",
+   "words": 218
+  },
+  {
+   "file": "ch-067.txt",
+   "title": "Chapter 9: Other chapters of vol. IX not split out, pdf pages 567 to 718",
+   "words": 5045
+  },
+  {
+   "file": "ch-068.txt",
+   "title": "CHAPTER 4",
+   "words": 4028
+  },
+  {
+   "file": "ch-069.txt",
+   "title": "CHAPTER 5",
+   "words": 4604
+  },
+  {
+   "file": "ch-070.txt",
+   "title": "CHAPTER 6",
+   "words": 5557
+  },
+  {
+   "file": "ch-071.txt",
+   "title": "CHAPTER 7",
+   "words": 8632
+  },
+  {
+   "file": "ch-072.txt",
+   "title": "CHAPTER 8",
+   "words": 6435
+  },
+  {
+   "file": "ch-073.txt",
+   "title": "CHAPTER 9",
+   "words": 6467
+  },
+  {
+   "file": "ch-074.txt",
+   "title": "CHAPTER 10",
+   "words": 5016
+  },
+  {
+   "file": "ch-075.txt",
+   "title": "CHAPTER 11",
+   "words": 5526
+  },
+  {
+   "file": "ch-076.txt",
+   "title": "Chapter 10: African Foundations of Ancient Egypt",
+   "words": 18
+  },
+  {
+   "file": "ch-077.txt",
+   "title": "CHAPTER 12",
+   "words": 5201
+  },
+  {
+   "file": "ch-078.txt",
+   "title": "CHAPTER 13",
+   "words": 407
+  },
+  {
+   "file": "ch-079.txt",
+   "title": "Chapter 11: Other chapters of vol. IX not split out, pdf pages 737 to 752",
+   "words": 6001
+  },
+  {
+   "file": "ch-080.txt",
+   "title": "Chapter 12: Populations of Pharaonic Egypt: Ancient DNA",
+   "words": 20
+  },
+  {
+   "file": "ch-081.txt",
+   "title": "Chapter 12: Populations of Pharaonic Egypt: Ancient DNA (text)",
+   "words": 5789
+  },
+  {
+   "file": "ch-082.txt",
+   "title": "CHAPTER 15",
+   "words": 684
+  },
+  {
+   "file": "ch-083.txt",
+   "title": "Chapter 13: Other chapters of vol. IX not split out, pdf pages 771 to 798",
+   "words": 6321
+  },
+  {
+   "file": "ch-084.txt",
+   "title": "CHAPTER 16",
+   "words": 3870
+  },
+  {
+   "file": "ch-085.txt",
+   "title": "Chapter 14: African Metallurgies",
+   "words": 7
+  },
+  {
+   "file": "ch-086.txt",
+   "title": "Chapter 14: African Metallurgies (text)",
+   "words": 6821
+  },
+  {
+   "file": "ch-087.txt",
+   "title": "CHAPTER 18",
+   "words": 248
+  },
+  {
+   "file": "ch-088.txt",
+   "title": "Chapter 15: The Emergence of Complex Societies and Urbanization in Africa",
+   "words": 21
+  },
+  {
+   "file": "ch-089.txt",
+   "title": "CHAPTER 18",
+   "words": 3708
+  },
+  {
+   "file": "ch-090.txt",
+   "title": "CHAPTER 19",
+   "words": 379
+  },
+  {
+   "file": "ch-091.txt",
+   "title": "Chapter 16: The Growth of Socio-political Complexity in the Northern Horn of Africa",
+   "words": 25
+  },
+  {
+   "file": "ch-092.txt",
+   "title": "CHAPTER 19",
+   "words": 11684
+  },
+  {
+   "file": "ch-093.txt",
+   "title": "CHAPTER 20",
+   "words": 595
+  },
+  {
+   "file": "ch-094.txt",
+   "title": "Chapter 17: East Africa and the Indian Ocean Networks (1st-15th Century)",
+   "words": 21
+  },
+  {
+   "file": "ch-095.txt",
+   "title": "CHAPTER 20",
+   "words": 4552
+  },
+  {
+   "file": "ch-096.txt",
+   "title": "CHAPTER 21",
+   "words": 223
+  },
+  {
+   "file": "ch-097.txt",
+   "title": "Chapter 18: The Emergence of Social Complexity in the Great Lakes Region",
+   "words": 23
+  },
+  {
+   "file": "ch-098.txt",
+   "title": "CHAPTER 21",
+   "words": 4381
+  },
+  {
+   "file": "ch-099.txt",
+   "title": "Chapter 19: Other chapters of vol. IX not split out, pdf pages 887 to 913",
+   "words": 10704
+  },
+  {
+   "file": "ch-100.txt",
+   "title": "Chapter 20: Population Growth in the Inner Niger Delta (Mali)",
+   "words": 27
+  },
+  {
+   "file": "ch-101.txt",
+   "title": "CHAPTER 1",
+   "words": 3544
+  },
+  {
+   "file": "ch-102.txt",
+   "title": "CHAPTER 2",
+   "words": 579
+  },
+  {
+   "file": "ch-103.txt",
+   "title": "Chapter 21: Political Constructions in Madagascar",
+   "words": 18
+  },
+  {
+   "file": "ch-104.txt",
+   "title": "CHAPTER 2",
+   "words": 4290
+  },
+  {
+   "file": "ch-105.txt",
+   "title": "CHAPTER 3",
+   "words": 244
+  },
+  {
+   "file": "ch-106.txt",
+   "title": "Chapter 22: Other chapters of vol. IX not split out, pdf pages 935 to 1020",
+   "words": 5161
+  },
+  {
+   "file": "ch-107.txt",
+   "title": "CHAPTER 4",
+   "words": 9701
+  },
+  {
+   "file": "ch-108.txt",
+   "title": "CHAPTER 5",
+   "words": 9674
+  },
+  {
+   "file": "ch-109.txt",
+   "title": "CHAPTER 6",
+   "words": 2789
+  },
+  {
+   "file": "ch-110.txt",
+   "title": "CHAPTER 7",
+   "words": 3194
+  },
+  {
+   "file": "ch-111.txt",
+   "title": "CHAPTER 8",
+   "words": 1825
+  },
+  {
+   "file": "ch-112.txt",
+   "title": "CHAPTER 9",
+   "words": 1196
+  },
+  {
+   "file": "ch-113.txt",
+   "title": "Chapter 23: Settlement and Identity Construction in West Africa: The Jula Trading Diaspora",
+   "words": 25
+  },
+  {
+   "file": "ch-114.txt",
+   "title": "CHAPTER 10",
+   "words": 3031
+  },
+  {
+   "file": "ch-115.txt",
+   "title": "CHAPTER 11",
+   "words": 217
+  },
+  {
+   "file": "ch-116.txt",
+   "title": "Chapter 24: Zanzibar's Commercial Empire",
+   "words": 9
+  },
+  {
+   "file": "ch-117.txt",
+   "title": "CHAPTER 11",
+   "words": 2433
+  },
+  {
+   "file": "ch-118.txt",
+   "title": "CHAPTER 12",
+   "words": 689
+  },
+  {
+   "file": "ch-119.txt",
+   "title": "Chapter 25: Remaining chapters, bibliography and index of vol. IX, pdf pages 1037 to end",
+   "words": 8394
+  }
+ ],
+ "warnings": [
+  "Text layer of a born-digital UNESCO PDF extracted with pdftotext (no OCR). The 'poor quality' flag from ingestion is a false alarm: letters of small-capital words are spaced ('T h e'), accents sometimes show as a replacement character, and plate captions and figure labels appear as noise. Check figures against the printed page before quoting."
+ ],
+ "provenance": {
+  "added": "2026-11-04",
+  "source_file": "ix-split.txt",
+  "found_by": "source-discovery",
+  "url": "https://unesdoc.unesco.org/ark:/48223/pf0000396045",
+  "query": "Source Discovery, 01/11/2026",
+  "note": "PDF saved by the user from the UNESCO record because the site blocks scripted downloads; text extracted with pdftotext; only selected chapters split out by title and author, the rest grouped as 'other chapters'"
+ },
+ "text_quality": {
+  "common_word_share": 0.328,
+  "odd_character_share": 0.016
+ }
+}

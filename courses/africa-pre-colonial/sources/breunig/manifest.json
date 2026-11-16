@@ -1,0 +1,44 @@
+{
+  "key": "breunig",
+  "title": "Winds of Change: Archaeological Contributions in Honour of Peter Breunig (2017), front chapter",
+  "author": "N. Rupp, C. Beck, G. Franke, K. P. Wendt (eds.)",
+  "file": "breunig-festschrift-ucl.pdf",
+  "format": "pdf",
+  "sha256": "e1c96f14d02f306d7b66d4da18107bbc20a9f1fef2129939ebcfe683d00b63ff",
+  "words": 10616,
+  "chapters": [
+    {
+      "file": "ch-001.txt",
+      "title": "Pages 1 to 20",
+      "words": 4104,
+      "pages": [
+        1,
+        20
+      ]
+    },
+    {
+      "file": "ch-002.txt",
+      "title": "Pages 21 to 34",
+      "words": 6512,
+      "pages": [
+        21,
+        34
+      ]
+    }
+  ],
+  "warnings": [
+    "no chapter outline or headings found: split into 20-page blocks",
+    "text quality looks poor (25% common English words, 1.6% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+  ],
+  "provenance": {
+    "added": "2026-11-02",
+    "source_file": "breunig-festschrift-ucl.pdf",
+    "found_by": "source-discovery",
+    "url": "https://discovery.ucl.ac.uk/id/eprint/10048844/",
+    "query": "Source Discovery, 01/11/2026"
+  },
+  "text_quality": {
+    "common_word_share": 0.247,
+    "odd_character_share": 0.016
+  }
+}

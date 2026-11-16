@@ -1,0 +1,119 @@
+{
+ "key": "gha-ix",
+ "title": "UNESCO, General History of Africa, vol. IX: General History of Africa Revisited (ed. Augustin F. C. Holl, 2024)",
+ "author": "",
+ "file": "gha-ix.md",
+ "format": "md",
+ "sha256": "ab6cedfa07dc360e7fc43d2a28f1cc07c63e964ff0f0923d71bc23d206d96475",
+ "words": 397947,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "UNESCO, General History of Africa, vol. IX: General History of Africa Revisited (ed. Augus",
+   "words": 46
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Part 1: Front matter, contents and lists (not read for this course)",
+   "words": 3747
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Chapter 1: General Introduction: Reconceptualizing the History of Africa (Holl)",
+   "words": 8741
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Chapter 2: General History of Africa Revisited: An Introduction (Holl)",
+   "words": 6667
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Chapter 3: Section I introduction: writing history today (Yai, Ze Belinga)",
+   "words": 3393
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Chapter 4: Decolonizing History (Ze Belinga)",
+   "words": 13589
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Chapter 5: The History of Africa in the Diaspora (Somet)",
+   "words": 6595
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Chapter 6: The Concept of Africa and History of Africa (Abdelmadjid)",
+   "words": 9578
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Part 2: Section I chapters on China, Japan, languages and Egyptian (not read)",
+   "words": 19025
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Chapter 7: The Word Africa and its Strategic Challenges (Binam Bikoi)",
+   "words": 8137
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Chapter 8: Orality and the Writing of African History (Mve Ondo)",
+   "words": 5792
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Chapter 9: Oral Traditions as Sources of Historiography (Gayibor)",
+   "words": 2756
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Part 3: Section I chapters on tantara, arts, religion, epigraphy, heritage (not read)",
+   "words": 42189
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Chapter 10: Historical Sciences and the Multidisciplinary Imperative (Holl)",
+   "words": 2287
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "Chapter 11: Section II introduction: Review of volumes I-VIII (Konate)",
+   "words": 8714
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "Part 4: Section II reviews of volumes I to VI (not read)",
+   "words": 40263
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "Chapter 12: Review of volume VII, Africa under Colonial Domination (Rajaonah)",
+   "words": 6824
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "Chapter 13: Review of volume VIII, Africa since 1935 (Barbosa)",
+   "words": 3666
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "Part 5: Sections III and IV, prehistory to diasporas (not read)",
+   "words": 205938
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-11-04",
+  "source_file": "gha-ix.md",
+  "found_by": "source-discovery",
+  "url": "https://unesdoc.unesco.org/ark:/48223/pf0000396045",
+  "query": "Source Discovery, 01/11/2026",
+  "note": "PDF saved by the user from the UNESCO record because the site blocks scripted downloads"
+ },
+ "text_quality": {
+  "common_word_share": 0.326,
+  "odd_character_share": 0.011
+ }
+}

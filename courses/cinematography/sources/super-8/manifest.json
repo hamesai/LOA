@@ -1,0 +1,53 @@
+{
+ "key": "super-8",
+ "title": "Super 8: the modest medium",
+ "author": "Jonathan F. Gunter",
+ "file": "Super 8.epub",
+ "format": "epub",
+ "sha256": "31fecb486b37ac1d7f3ae40eaa13f83c8838e28468161ab336ff815db16111f6",
+ "words": 16264,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Introduction",
+   "words": 1142
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Chapter I: 8-mm film and its context",
+   "words": 2788
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Chapter II: The range of 8-mm hardware",
+   "words": 6998
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Chapter III: 8 mm in relation to other media",
+   "words": 2603
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Conclusion",
+   "words": 660
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Appendix: Access to further information",
+   "words": 2073
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (26% common English words, 2.2% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "text_quality": {
+  "common_word_share": 0.264,
+  "odd_character_share": 0.022
+ },
+ "provenance": {
+  "found_by": "user",
+  "added": "2026-10-19",
+  "note": "Date is when the file arrived in the source ingest folder."
+ }
+}

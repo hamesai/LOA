@@ -1,0 +1,38 @@
+{
+ "ch-002.txt": {
+  "limit": 4000,
+  "done": 8,
+  "total": 8,
+  "date": "2026-11-04"
+ },
+ "ch-011.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-11-04"
+ },
+ "ch-012.txt": {
+  "limit": 4000,
+  "done": 4,
+  "total": 4,
+  "date": "2026-11-04"
+ },
+ "ch-015.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-11-04"
+ },
+ "ch-016.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-11-04"
+ },
+ "ch-027.txt": {
+  "limit": 4000,
+  "done": 3,
+  "total": 3,
+  "date": "2026-11-04"
+ }
+}

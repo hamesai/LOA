@@ -1,0 +1,27 @@
+{
+ "key": "adapt-telecine",
+ "title": "Telecine: preparing 16mm film for television broadcast",
+ "author": "",
+ "file": "ADAPT - Telecine (2016 web page).txt",
+ "format": "txt",
+ "sha256": "1bf8cad2aec659cf25edb2d25a95b94975b05d7879917a1693dab5e19bcdb039",
+ "words": 720,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Skip to content",
+   "words": 720
+  }
+ ],
+ "warnings": [],
+ "text_quality": {
+  "common_word_share": 0.31,
+  "odd_character_share": 0.001
+ },
+ "provenance": {
+  "found_by": "source-discovery",
+  "added": "2026-10-26",
+  "url": "https://www.adapttvhistory.org.uk/16mm/telecine",
+  "query": "Source Discovery, 26/10/2026"
+ }
+}

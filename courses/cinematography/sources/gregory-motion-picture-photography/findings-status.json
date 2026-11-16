@@ -1,0 +1,17 @@
+{
+ "31f0f199": {
+  "state": "applied",
+  "note": "module 1, shutter angles by camera",
+  "date": "2026-10-26"
+ },
+ "3d2d0de6": {
+  "state": "skipped",
+  "note": "historical exposure table and development note; no lesson uses them",
+  "date": "2026-10-26"
+ },
+ "852a7be4": {
+  "state": "skipped",
+  "note": "historical exposure table and development note; no lesson uses them",
+  "date": "2026-10-26"
+ }
+}
