@@ -64,6 +64,10 @@
     },
     {
      "t": "p",
+     "x": "Many trackers are exchange-traded funds: a basket of securities that trades on a stock exchange like a single share, so one purchase buys a broad portfolio. {{os-ch12}}"
+    },
+    {
+     "t": "p",
      "x": "In his own account, John Bogle founded Vanguard in 1974: it began operations on 19/09/1974 and was incorporated on 24/09/1974. {{bogle-2016}}"
     },
     {
@@ -175,24 +179,26 @@
      "t": "check",
      "q": "What is an index tracker designed to do?",
      "o": [
-      "Beat the index every year",
       "Copy the performance of a market index",
-      "Avoid all share prices",
-      "Guarantee a fixed return"
+      "Guarantee a fixed return",
+      "Beat the index every year",
+      "Beat the index after fees by picking the best shares",
+      "Avoid all share prices"
      ],
-     "a": 1,
+     "a": 0,
      "w": "A tracker aims to copy an index, as Bogle's description of the 500 Index Fund shows. It does not promise to beat it. {{bogle-2016}}"
     },
     {
      "t": "check",
-     "q": "A friend says they are choosing between a unit trust and an ISA. Why is that not a choice between two funds?",
+     "q": "A friend says they are choosing between a unit trust and an ISA. Which of these is a tax wrapper rather than a type of fund?",
      "o": [
+      "Global index tracker fund",
+      "Investment trust",
       "Unit trust",
-      "OEIC",
       "Stocks and shares ISA",
-      "Investment trust"
+      "OEIC"
      ],
-     "a": 2,
+     "a": 3,
      "w": "An ISA is a tax wrapper. {{mh-types}}",
      "kind": "application"
     },
@@ -200,12 +206,13 @@
      "t": "check",
      "q": "In the toy index, Alpha plc is worth £400 million of £1,000 million. How much of your £1,000 does a market-weighted tracker put into it?",
      "o": [
-      "£100",
+      "£500",
+      "£40",
       "£400",
-      "£200",
-      "£500"
+      "£100",
+      "£200"
      ],
-     "a": 1,
+     "a": 2,
      "w": "400 ÷ 1,000 is 40%, so £400. Our arithmetic."
     },
     {
@@ -226,6 +233,10 @@
     {
      "t": "p",
      "x": "An active fund manager picks investments with the aim of beating an index. {{spiva-us}}"
+    },
+    {
+     "t": "p",
+     "x": "An advertised average return means little without its risk. The Sharpe ratio divides the return above a risk-free rate by the standard deviation, so a manager with a higher return but much bigger swings can be the weaker one. {{os-ch15}}"
     },
     {
      "t": "p",
@@ -378,33 +389,36 @@
      "q": "Why does SPIVA count funds that closed during the period?",
      "o": [
       "To make the results worse",
-      "To avoid survivorship bias",
+      "To count fees",
+      "To count the fees closed funds charged",
       "Because the law requires it",
-      "To count fees"
+      "To avoid survivorship bias"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Counting funds that closed avoids a flattering error, survivorship bias. {{spiva-us}}"
     },
     {
      "t": "check",
      "q": "In the SPIVA table, what share of active US large-cap funds underperformed over 15 years?",
      "o": [
-      "About 9.5%",
-      "About 50%",
+      "About 78.5%",
       "About 90.5%",
+      "About 50%",
+      "About 9.5%",
       "100%"
      ],
-     "a": 2,
+     "a": 1,
      "w": "The figure is 90.49% as at 30 June 2026. {{spiva-us}}"
     },
     {
      "t": "check",
      "q": "On the SPIVA table, what share of US large-cap funds did NOT underperform over 15 years?",
      "o": [
-      "About 90%",
+      "About 78%",
       "About 10%",
-      "About 50%",
-      "About 78%"
+      "About 22%",
+      "About 90%",
+      "About 50%"
      ],
      "a": 1,
      "w": "100% − 90.49% is 9.51%. {{spiva-us}}",
@@ -567,12 +581,13 @@
      "t": "check",
      "q": "You make £8,000 of gains outside an ISA, and the exempt amount is £3,000. What is the gain before the rate applies?",
      "o": [
-      "£3,000",
       "£5,000",
+      "£11,000",
+      "£4,000",
       "£8,000",
-      "£11,000"
+      "£3,000"
      ],
-     "a": 1,
+     "a": 0,
      "w": "£8,000 minus £3,000 is £5,000. Losses and reliefs can reduce this further. {{gov-cgt}}",
      "kind": "application"
     },
@@ -581,23 +596,25 @@
      "q": "For the 2026 to 2027 tax year, what is the maximum you can save in ISAs?",
      "o": [
       "£3,000",
-      "£10,000",
+      "£40,000",
+      "£50,000",
       "£20,000",
-      "£50,000"
+      "£10,000"
      ],
-     "a": 2,
+     "a": 3,
      "w": "GOV.UK gives £20,000. {{gov-isa}}"
     },
     {
      "t": "check",
      "q": "You pay £500 a month into a stocks and shares ISA in 2026 to 2027. How much of the £20,000 allowance is left after twelve months?",
      "o": [
-      "£6,000",
-      "£14,000",
+      "£0",
       "£20,000",
-      "£0"
+      "£14,000",
+      "£19,500",
+      "£6,000"
      ],
-     "a": 1,
+     "a": 2,
      "w": "£500 × 12 is £6,000, and £20,000 − £6,000 is £14,000. {{gov-isa}}"
     },
     {
@@ -782,12 +799,13 @@
      "t": "check",
      "q": "Fund A charges 0.15% and Fund C charges 1.65%. On £20,000, what is the difference in annual cost?",
      "o": [
+      "£150",
       "£30",
-      "£300",
+      "£3,000",
       "£330",
-      "£150"
+      "£300"
      ],
-     "a": 1,
+     "a": 4,
      "w": "£330 − £30 = £300 a year. This is our arithmetic.",
      "kind": "application"
     },
@@ -795,12 +813,13 @@
      "t": "check",
      "q": "A fund charging 1.65% beat its index for the last five years. Why is that record not enough to justify the higher charge?",
      "o": [
-      "Because charges do not matter",
-      "Because past results do not predict future results and the extra cost is certain",
+      "Because index funds always win",
       "Because tax is lower for expensive funds",
-      "Because index funds always win"
+      "Because charges do not matter",
+      "Past results don't predict future ones, and the cost is certain",
+      "It is enough: five years of beating the index shows the manager's skill will continue"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The charge is paid every year, while outperformance is uncertain. This is our inference, supported by the pattern in {{spiva-us}}",
      "kind": "application"
     },
@@ -815,7 +834,7 @@
    ]
   },
   {
-   "id": "l6",
+   "id": "l5",
    "title": "Practice: a yearly money map",
    "min": 27,
    "blocks": [
@@ -899,12 +918,13 @@
      "t": "check",
      "q": "Jordan pays in £400 a month. What is paid in over 15 years?",
      "o": [
-      "£4,800",
-      "£60,000",
       "£72,000",
-      "£24,000"
+      "£24,000",
+      "£6,000",
+      "£4,800",
+      "£60,000"
      ],
-     "a": 2,
+     "a": 0,
      "w": "£400 × 12 × 15 is £72,000. Our arithmetic.",
      "kind": "application"
     },
@@ -912,24 +932,26 @@
      "t": "check",
      "q": "Why does the order of questions start with the emergency fund?",
      "o": [
-      "It is the most exciting",
-      "Money needed soon should not be invested, and the fund covers surprises",
+      "An emergency fund earns more than an ISA, so it is the best place to start",
+      "ISAs demand it",
+      "Money needed soon shouldn't be invested, and it covers surprises",
       "The law requires it",
-      "ISAs demand it"
+      "It is the most exciting"
      ],
-     "a": 1,
+     "a": 2,
      "w": "A safety net comes first, per the three-to-six-month guide. {{mh-beginners}}"
     },
     {
      "t": "check",
      "q": "What does the ISA wrapper change in Jordan's case?",
      "o": [
+      "It guarantees growth, since ISAs are protected against market falls",
       "It guarantees growth",
-      "It keeps the gain outside the Capital Gains Tax calculation, within the rules",
       "It removes all charges",
-      "It lets Jordan pay in unlimited amounts"
+      "It lets Jordan pay in unlimited amounts",
+      "It keeps gains outside Capital Gains Tax, within the rules"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The wrapper affects tax, not returns or charges. {{gov-isa}}"
     },
     {
@@ -943,7 +965,7 @@
    ]
   },
   {
-   "id": "l5",
+   "id": "l6",
    "title": "The lecturer's method: John Bogle",
    "min": 24,
    "blocks": [
@@ -1031,9 +1053,10 @@
      "t": "check",
      "q": "Why does the SPIVA table count closed funds?",
      "o": [
-      "To make results worse",
-      "To avoid survivorship bias",
       "Because the law says so",
+      "To avoid survivorship bias",
+      "To make results worse",
+      "To count the fees closed funds charged",
       "To count fees"
      ],
      "a": 1,
@@ -1043,12 +1066,13 @@
      "t": "check",
      "q": "An active fund charges 1% more a year than a tracker. What must it do to match the tracker's net result?",
      "o": [
-      "Nothing",
-      "Beat the index by about 1% a year before charges",
+      "Cut its fees to zero",
       "Hold more bonds",
-      "Cut its fees to zero"
+      "Match the index exactly before charges are taken off",
+      "Nothing",
+      "Beat the index by about 1% a year before charges"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The extra charge has to be earned back by outperformance. Our inference from the arithmetic. {{lec-bogle-1997}}"
     },
     {

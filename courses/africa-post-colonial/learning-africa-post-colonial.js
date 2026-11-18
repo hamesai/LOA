@@ -5,23 +5,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "When did Britain occupy Egypt, an event often linked to the Scramble?",
    "o": [
-    "1882",
     "1896",
-    "1908",
-    "1960"
+    "1960",
+    "1882",
+    "1869",
+    "1908"
    ],
-   "a": 0,
+   "a": 2,
    "w": "1882."
   },
   {
    "q": "Who won at Adwa?",
    "o": [
-    "Ethiopia",
     "Italy",
     "Britain",
-    "Belgium"
+    "Neither: it was a draw",
+    "Belgium",
+    "Ethiopia"
    ],
-   "a": 0,
+   "a": 4,
    "w": "Ethiopia, on 01/03/1896."
   }
  ],
@@ -67,23 +69,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "What drove Maji Maji?",
    "o": [
+    "A famine caused only by drought",
+    "A dispute over the Uganda railway",
     "Forced cotton and taxes",
     "A Belgian invasion",
-    "A famine caused only by drought",
     "A church schism"
    ],
-   "a": 0,
+   "a": 2,
    "w": "Forced cotton, a head tax, forced labour and agents' abuses."
   },
   {
    "q": "What was Trotha's order of 02/10/1904?",
    "o": [
-    "To destroy the Herero",
+    "To count the cattle",
+    "To move the Nama to reserves",
     "To start peace talks",
-    "To build a railway",
-    "To count the cattle"
+    "To destroy the Herero",
+    "To build a railway"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It was rescinded by the Kaiser on 08/12/1904."
   }
  ],
@@ -119,6 +123,7 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    "q": "Why is a colonial treaty weak evidence of consent?",
    "o": [
     "Translation and power imbalance",
+    "It was signed by a deputy, not the chief",
     "It was forged",
     "It was oral",
     "It was in Latin"
@@ -139,23 +144,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "Who convened the 1900 London conference?",
    "o": [
-    "Henry Sylvester Williams",
     "Marcus Garvey",
+    "Nyerere",
     "Nkrumah",
-    "Nyerere"
+    "George Padmore and C. L. R. James",
+    "Henry Sylvester Williams"
    ],
-   "a": 0,
+   "a": 4,
    "w": "A Trinidadian lawyer."
   },
   {
    "q": "When was the OAU founded?",
    "o": [
-    "25/05/1963",
+    "25/05/1960",
     "1945",
     "2002",
+    "25/05/1963",
     "1958"
    ],
-   "a": 0,
+   "a": 3,
    "w": "In Addis Ababa."
   }
  ],
@@ -192,23 +199,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "Why did Adwa matter to Pan-Africanists?",
    "o": [
-    "It showed an African victory over a European power",
-    "It created the OAU",
     "It ended slavery",
-    "It was a trade fair"
+    "It was a trade fair",
+    "It showed an African victory over a European power",
+    "It made Ethiopia a League of Nations mandate under Italy",
+    "It created the OAU"
    ],
-   "a": 0,
+   "a": 2,
    "w": "It proved conquest could be defeated."
   },
   {
    "q": "Name a cause of Maji Maji.",
    "o": [
-    "Forced cotton",
     "A flood",
+    "Forced cotton",
+    "A Belgian invasion",
     "A treaty with Italy",
     "A comet"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Forced cotton, taxes and forced labour."
   }
  ],
@@ -225,9 +234,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    "q": "Which country was first in sub-Saharan Africa to become independent?",
    "o": [
     "Ghana",
-    "Algeria",
+    "Namibia",
     "Kenya",
-    "Namibia"
+    "Guinea",
+    "Algeria"
    ],
    "a": 0,
    "w": "Ghana, 1957."
@@ -235,12 +245,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "What was ujamaa?",
    "o": [
-    "Tanzania's African socialism",
-    "A tax",
+    "A party",
     "A treaty",
-    "A party"
+    "Kenya's land resettlement scheme",
+    "A tax",
+    "Tanzania's African socialism"
    ],
-   "a": 0,
+   "a": 4,
    "w": "Proclaimed in 1967."
   }
  ],
@@ -275,23 +286,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "What was the OAU's position on borders?",
    "o": [
+    "Ignore them",
+    "Put each border to a local referendum",
     "Respect existing colonial borders",
-    "Redraw them",
     "Abolish them",
-    "Ignore them"
+    "Redraw them by ethnicity"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The Cairo Resolution of 1964."
   },
   {
    "q": "Which Congress of 1945 demanded independence?",
    "o": [
-    "Manchester",
-    "Paris",
+    "New York (Harlem)",
+    "Accra",
     "London",
-    "New York"
+    "Manchester",
+    "Paris"
    ],
-   "a": 0,
+   "a": 3,
    "w": "The Fifth Pan-African Congress."
   }
  ],
@@ -307,23 +320,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "When was Sharpeville?",
    "o": [
+    "21/03/1961",
+    "11/02/1990",
     "21/03/1960",
     "16/06/1976",
-    "11/02/1990",
     "27/04/1994"
    ],
-   "a": 0,
+   "a": 2,
    "w": "The official toll is 69; later research puts it at least 91."
   },
   {
    "q": "Which is a law?",
    "o": [
+    "Defiance Campaign",
     "Group Areas Act",
     "Soweto uprising",
     "Treason Trial",
-    "Defiance Campaign"
+    "Sharpeville"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It separated where people could live."
   }
  ],
@@ -361,9 +376,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    "q": "What did the OAU Liberation Committee do?",
    "o": [
     "Supported liberation movements",
-    "Banned them",
+    "Closed borders",
     "Taxed them",
-    "Closed borders"
+    "Mediated with the colonial powers",
+    "Banned them"
    ],
    "a": 0,
    "w": "It was based in Dar es Salaam."
@@ -372,9 +388,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    "q": "Who led Ghana to independence?",
    "o": [
     "Nkrumah",
+    "Danquah",
     "Nyerere",
-    "Kenyatta",
-    "Sankara"
+    "Sankara",
+    "Kenyatta"
    ],
    "a": 0,
    "w": "Kwame Nkrumah."
@@ -392,23 +409,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "When did Biafra declare independence?",
    "o": [
-    "30/05/1967",
     "15/01/1966",
-    "12/09/1974",
-    "05/1991"
+    "30/05/1967",
+    "01/01/1970",
+    "30/05/1966",
+    "12/09/1974"
    ],
-   "a": 0,
+   "a": 1,
    "w": "Ojukwu declared the republic."
   },
   {
    "q": "What was the Berg Report?",
    "o": [
+    "A peace deal",
     "A World Bank report of 1981",
-    "A UN treaty",
+    "An IMF loan agreement of 1985",
     "An OAU charter",
-    "A peace deal"
+    "A UN treaty"
    ],
-   "a": 0,
+   "a": 1,
    "w": "It blamed domestic policies."
   }
  ],
@@ -444,23 +463,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "What does non-interference mean?",
    "o": [
+    "No borders",
+    "No trade between members",
     "No intervention in members' internal affairs",
-    "No trade",
-    "No elections",
-    "No borders"
+    "No foreign military bases on any member's territory",
+    "No elections"
    ],
-   "a": 0,
+   "a": 2,
    "w": "An OAU principle."
   },
   {
    "q": "When did apartheid end formally?",
    "o": [
-    "1994",
     "1960",
+    "1990",
     "1976",
+    "1994",
     "1948"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Elections in April 1994."
   }
  ],
@@ -477,9 +498,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    "q": "When did the AU launch?",
    "o": [
     "09/07/2002",
-    "25/05/1963",
     "09/07/2011",
-    "01/01/2021"
+    "25/05/1963",
+    "01/01/2021",
+    "09/09/1999"
    ],
    "a": 0,
    "w": "In Durban."
@@ -487,12 +509,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "When did the genocide in Rwanda begin?",
    "o": [
+    "06/04/1993",
     "07/04/1994",
-    "04/08/1993",
     "04/07/1994",
+    "04/08/1993",
     "09/07/2002"
    ],
-   "a": 0,
+   "a": 1,
    "w": "After the plane was shot down on 06/04/1994."
   }
  ],
@@ -528,34 +551,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "What did the Cairo Resolution do?",
    "o": [
-    "Accepted colonial borders",
+    "Founded the OAU",
     "Created the AU",
     "Ended apartheid",
-    "Founded the OAU"
+    "Allowed intervention in genocide",
+    "Accepted colonial borders"
    ],
-   "a": 0,
+   "a": 4,
    "w": "It pledged respect for them."
   },
   {
    "q": "What is the TRC's relation to the courts?",
    "o": [
-    "It traded amnesty for testimony and was not a court",
-    "It was a court",
+    "It was an appeal court for refused amnesty claims",
     "It replaced courts",
-    "It had no powers"
+    "It had no powers",
+    "It traded amnesty for testimony; not a court",
+    "It was a court"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Chaired by Desmond Tutu."
   },
   {
    "q": "Name one test for an authentic document.",
    "o": [
-    "Provenance",
-    "Colour",
+    "Length",
     "Price",
-    "Length"
+    "Popularity",
+    "Provenance",
+    "Colour"
    ],
-   "a": 0,
+   "a": 3,
    "w": "Also language, logic, corroboration."
   }
  ],

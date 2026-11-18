@@ -153,12 +153,13 @@
      "t": "check",
      "q": "A friend says they made a 300% margin buying at £10 and selling at £40. What should you tell them the margin actually is?",
      "o": [
-      "300%",
+      "400%",
+      "30%",
       "75%",
-      "25%",
-      "30%"
+      "300%",
+      "25%"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Profit is £30. Margin is 30 ÷ 40 = 75%. The 300% figure is the markup on the £10 you paid.",
      "kind": "application"
     },
@@ -166,12 +167,13 @@
      "t": "check",
      "q": "A listing says 'vintage' but you cannot show the item is old. What does the lesson suggest?",
      "o": [
-      "Keep the word, it sells better",
       "Use 'vintage style' or 'second-hand'",
-      "Say antique instead",
-      "Delete the photos"
+      "Keep the word, as it sells better",
+      "Say 'antique' instead",
+      "Delete the photos",
+      "Keep 'vintage' but add 'circa' before the decade"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Claims about age need evidence. Describe what you can prove and let the evidence decide the word. Module 3 covers how to date items."
     },
     {
@@ -306,11 +308,12 @@
      "q": "Which fact alone settles that you are not in business?",
      "o": [
       "You have a full-time job",
-      "You are not VAT registered",
       "None of these settles it",
-      "You only sell at weekends"
+      "You are not VAT registered",
+      "You only sell at weekends",
+      "You only sell on a free private-seller tier"
      ],
-     "a": 2,
+     "a": 1,
      "w": "The guidance says employment and VAT status do not decide it, and no single factor is decisive. {{bc-business}}"
     },
     {
@@ -318,11 +321,12 @@
      "q": "Sam clears a house, keeps nothing, and lists every piece online to sell at a profit. Sam says it is just a clear-out. What does buying the lot to resell point towards?",
      "o": [
       "Selling personal possessions",
-      "Trading or being in business",
-      "A charity sale",
-      "Nothing, intent is irrelevant"
+      "A private clear-out, since Sam has no shop",
+      "Nothing: intent is irrelevant",
+      "Trading, or being in business",
+      "A charity sale"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Buying goods to sell at a profit points to trading for tax {{gov-digital}} and to being in business for consumer law {{bc-business}}.",
      "kind": "application"
     },
@@ -461,22 +465,24 @@
      "t": "check",
      "q": "A platform can skip reporting only if a seller has both fewer than 30 sales and under about £1,700 (€2,000) in a year. Dee made 35 sales worth £500. Is Dee reported?",
      "o": [
-      "No, the money is under £1,700",
-      "Yes, 35 sales is over the limit",
+      "Only if Dee asks",
+      "No, since both limits must be passed before a platform reports anyone",
+      "No: the money is under £1,700",
       "Only if Dee is VAT registered",
-      "Only if Dee asks"
+      "Yes: 35 sales is over the limit"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The exemption needs fewer than 30 sales and less than the money limit. Dee exceeded the sales count. {{gov-digital}}"
     },
     {
      "t": "check",
      "q": "You are writing the listing template for your online shop. Which statement must it give a consumer before they order?",
      "o": [
-      "Nothing about returns",
+      "Your tax number",
       "That they can cancel within 14 days of delivery",
       "That returns are never accepted",
-      "Your tax number"
+      "That they can cancel within 30 days of ordering",
+      "Nothing about returns"
      ],
      "a": 1,
      "w": "The business must tell the customer they can cancel up to 14 days after delivery, with no reason needed. {{gov-distance}}",
@@ -621,36 +627,39 @@
      "t": "check",
      "q": "In the worked example, what is the true profit on the jug?",
      "o": [
+      "About £18.50",
       "£22.00",
       "About £15.43",
-      "£8.00",
-      "£30.00"
+      "£30.00",
+      "£8.00"
      ],
-     "a": 1,
+     "a": 2,
      "w": "True cost is £14.575, so profit is 30 − 14.575 = £15.425."
     },
     {
      "t": "check",
      "q": "What did Wedgwood note about the cheaper water route, as Meteyard prints his letter?",
      "o": [
+      "It was faster",
       "It was always best",
-      "Stealage and breakage on the river were often more than the saving",
       "It was illegal",
-      "It was faster"
+      "River theft and breakage often outweighed the saving",
+      "It was always cheaper and safer than carrying goods by road"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He said the stealage and breakage on the river were often more than the difference in carriage. {{meteyard-1}}"
     },
     {
      "t": "check",
      "q": "Why did many neighbouring potters refuse special commissions?",
      "o": [
+      "The outlay left little or no profit",
+      "They were illegal",
       "They disliked the customers",
-      "The outlay left little or no margin of profit",
       "They had no kilns",
-      "They were illegal"
+      "Commissions were banned by the potters' guild"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Meteyard says the outlay on modelling and enamelling left little or no margin. {{meteyard-1}}"
     },
     {

@@ -120,12 +120,13 @@
      "t": "check",
      "q": "Your session plan has deadlifts, curls and planks. Where should the deadlift go, and why?",
      "o": [
-      "Last",
+      "In the middle",
+      "Last, once the smaller muscles are warmed up and ready",
+      "Last, after the client is warm",
       "First, while the client is fresh",
-      "Only on Fridays",
-      "Random"
+      "On a separate day"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Doing the most technical lifts early protects quality; this is our design rule.",
      "kind": "application"
     },
@@ -133,12 +134,13 @@
      "t": "check",
      "q": "A client has 45 minutes. Plan A is ten exercises of one set; plan B is four key exercises of three sets. Which fits the 2024 analysis better?",
      "o": [
-      "Many exercises, one set each",
-      "A smaller number of key exercises with several sets",
+      "Only bodyweight",
+      "Ten exercises of one set, for more variety",
+      "A few key exercises with several sets",
       "Only machines",
-      "Only bodyweight"
+      "Many exercises, one set each"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The authors suggest focussing on key exercises with multiple sets over many exercises done often. {{swinton2024}}",
      "kind": "application"
     },
@@ -282,22 +284,24 @@
      "t": "check",
      "q": "How many total sets per week do weeks 5 to 8 have in the template?",
      "o": [
-      "26",
       "39",
+      "52",
       "13",
-      "52"
+      "26",
+      "45"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Three days of 13 sets is 39 sets. Arithmetic from the table."
     },
     {
      "t": "check",
      "q": "A new client asks why the beginner template already has two strength days. What is the reason?",
      "o": [
+      "Two days is the most a beginner can recover from each week",
+      "It meets the WHO minimum of 2+ strength days",
+      "It avoids soreness",
       "Because 2 is magic",
-      "It meets the WHO minimum of 2 or more days of muscle-strengthening",
-      "Because gyms are quiet",
-      "It avoids soreness"
+      "Because gyms are quiet"
      ],
      "a": 1,
      "w": "The WHO recommends muscle-strengthening on 2 or more days a week at moderate or greater intensity. {{who2020}}",
@@ -408,14 +412,15 @@
     },
     {
      "t": "check",
-     "q": "A client's goal range is 8 to 12 reps. This week she did 12, 12 and 10 at 20 kg. Under double progression, should you add load now?",
+     "q": "A client's goal range is 8 to 12 reps. This week she did 12, 12 and 10 at 20 kg. Under double progression, when do you add load?",
      "o": [
+      "Never",
+      "As soon as any one set hits the top of the range",
       "Every week",
-      "When all sets hit the top of the rep range",
       "When the client asks",
-      "Never"
+      "When all sets hit the top of the rep range"
      ],
-     "a": 1,
+     "a": 4,
      "w": "You add load after all sets reach the top of the range, then reset reps. This follows progressive overload. {{swinton2024}}",
      "kind": "application"
     },
@@ -424,11 +429,12 @@
      "q": "A client's reps have been stuck for three weeks and they slept poorly. What is a sensible first response?",
      "o": [
       "Add 10 kg",
-      "Check sleep and recovery, and consider a lighter week",
       "Stop training",
-      "Skip warm-ups"
+      "Check sleep and recovery; consider a lighter week",
+      "Skip warm-ups",
+      "Add load, since a plateau means the weight is too easy"
      ],
-     "a": 1,
+     "a": 2,
      "w": "A deload and checking recovery are standard coaching responses; this is our judgement."
     },
     {
@@ -543,24 +549,26 @@
      "t": "check",
      "q": "A client's week has 110 moderate minutes and 3 strength sessions. What do they need to meet the WHO aerobic minimum?",
      "o": [
+      "Strength only",
       "Nothing",
-      "Another 40 moderate minutes",
       "Another 150 minutes",
-      "Strength only"
+      "Another 40 moderate minutes",
+      "Nothing, since strength sessions count as aerobic minutes"
      ],
-     "a": 1,
+     "a": 3,
      "w": "150 minus 110 equals 40 minutes more. {{who2020}}"
     },
     {
      "t": "check",
      "q": "A client rates a brisk walk at 12 on the RPE scale. Which band does the screening algorithm put that in?",
      "o": [
-      "9 to 11",
-      "12 to 13",
-      "14 or more",
-      "Below 9"
+      "9 to 11 (light)",
+      "14 or more (vigorous)",
+      "Below 9",
+      "17 or more (maximal)",
+      "12 to 13 (moderate)"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Moderate intensity is RPE 12 to 13 on that scale. {{whitfield2017}}",
      "kind": "application"
     },
@@ -688,12 +696,13 @@
      "t": "check",
      "q": "What did DeLorme originally use his method for?",
      "o": [
-      "Running",
       "Rehabilitation of injured servicemen",
+      "Sport performance",
+      "Running",
       "Weight loss",
-      "Sport performance"
+      "Training Olympic weightlifters for competition"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It began as a rehabilitation technique for injured servicemen. {{todd-delorme}}"
     },
     {
@@ -701,8 +710,9 @@
      "q": "What did DeLorme and Watkins say in 1948 about the 70 to 100 repetitions of the earlier method?",
      "o": [
       "It was ideal",
-      "It was too high, and 20 to 30 was more satisfactory in most cases",
+      "Too high; 20 to 30 was better in most cases",
       "It was too low",
+      "It was ideal, and it should not be changed in any way",
       "It should be doubled"
      ],
      "a": 1,
@@ -712,10 +722,11 @@
      "t": "check",
      "q": "In the worked example, what is the volume load of the three sets?",
      "o": [
-      "300",
       "600",
+      "1,200",
       "900",
-      "1,200"
+      "90",
+      "300"
      ],
      "a": 2,
      "w": "10 × 20 + 10 × 30 + 10 × 40 = 900."

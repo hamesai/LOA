@@ -175,36 +175,39 @@
      "t": "check",
      "q": "What did Granville-Barker say about Shakespeare's use of time?",
      "o": [
-      "It follows the calendar strictly",
       "Time has dramatic uses but no rights of its own",
+      "Time must be explained in a prologue",
+      "It follows the calendar strictly",
       "Time is irrelevant",
-      "Time must be explained in a prologue"
+      "Time must run as on a clock, so a scene lasts as long as its events"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He says time has its dramatic uses, but no rights of its own. {{gb-companion}}"
     },
     {
      "t": "check",
      "q": "What did Granville-Barker add in front of the proscenium arch for his Savoy productions?",
      "o": [
-      "A trapdoor",
-      "An apron",
       "A second balcony",
+      "A trapdoor",
+      "An orchestra pit",
+      "An apron",
       "A curtain wall"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Moore says he extended an apron out in front of the proscenium to approximate a platform stage. {{gb-prefaces}}"
     },
     {
      "t": "check",
      "q": "How did Barker decide whether to cut a line?",
      "o": [
+      "Cut by length alone",
       "Cut every difficult line",
-      "Cut for a reason, keeping obscurity that served the character",
       "Never cut",
-      "Cut by length alone"
+      "Cut every obscure line, since audiences cannot follow them",
+      "Cut for a reason, keeping obscurity that served character"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He cut six lines as unclear but kept an obscure speech as a deliberate effect. {{gb-prefaces}}"
     },
     {
@@ -219,12 +222,13 @@
    "quiz": {
     "q": "What did Granville-Barker say about scenery?",
     "o": [
-     "It should always be lavish",
-     "It is wrong if it draws attention from the text",
      "It should be banned",
-     "It should be historical"
+     "It should be historical",
+     "It is wrong if it draws attention from the text",
+     "It should be as realistic as the budget will allow",
+     "It should always be lavish"
     ],
-    "a": 1,
+    "a": 2,
     "w": "He insisted scenery was wrong if it called attention to itself at the expense of the text. {{gb-prefaces}} {{gb-companion}}"
    }
   },
@@ -348,12 +352,13 @@
      "t": "check",
      "q": "Why does the 'if' work, according to the book?",
      "o": [
-      "It makes people believe a lie",
       "It is an honest supposition that starts action",
+      "It removes the author",
+      "It makes the actor believe the fiction is literally real",
       "It copies earlier rehearsals",
-      "It removes the author"
+      "It makes people believe a lie"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The teacher stresses it admits it is only a supposition and uses no fear or force. {{aap}}",
      "kind": "application"
     },
@@ -361,10 +366,11 @@
      "t": "check",
      "q": "What did the teacher do in the farmer exercise?",
      "o": [
-      "Agreed with the student",
+      "Played the farmer himself to show how it was done",
       "Argued the defence until the student weakened",
-      "Cut the scene",
-      "Told the student to play it for laughs"
+      "Told the student to play it for laughs",
+      "Agreed with the student",
+      "Cut the scene"
      ],
      "a": 1,
      "w": "He used every argument to justify the defendant until the student weakened. {{aap}}"
@@ -373,12 +379,13 @@
      "t": "check",
      "q": "Your cast repeats a strong improvisation the next night and it feels empty. What went wrong when the class repeated the madman exercise, and what is the lesson?",
      "o": [
+      "They played it too freely and lost the shape they had found the night before",
       "They forgot the lines",
+      "The teacher changed the rules",
       "They copied the outer form and lost the inner cause",
-      "They were bored of the door",
-      "The teacher changed the rules"
+      "They were bored of the door"
      ],
-     "a": 1,
+     "a": 3,
      "w": "They repeated a successful rehearsal instead of re-creating the inner experience. {{aap}}",
      "kind": "application"
     },
@@ -395,11 +402,12 @@
     "q": "What did the teacher in An Actor Prepares say about the word 'if'?",
     "o": [
      "It tells actors what to feel",
-     "It admits a supposition and sets the actor in motion",
-     "It is banned",
-     "It replaces the text"
+     "It replaces the text",
+     "It makes the actor believe the fiction is literally real",
+     "It admits a supposition and sets the actor moving",
+     "It is banned"
     ],
-    "a": 1,
+    "a": 3,
     "w": "He says it admits it is only a supposition, and acts as a lever into imagination. {{aap}}"
    }
   },
@@ -535,12 +543,13 @@
      "t": "check",
      "q": "Which direction does the teacher advise when recalling a day?",
      "o": [
-      "Forward from waking up",
-      "Backward from the present",
       "Random order",
-      "Only the end"
+      "Only the end",
+      "Backward from the present",
+      "Forward from waking up",
+      "Forward from waking, hour by hour"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He advises going backwards from the present, which is easier. {{aap}}"
     },
     {
@@ -548,23 +557,25 @@
      "q": "According to the teacher, what happens to a detail unrelated to the super-objective?",
      "o": [
       "It improves the scene",
+      "It becomes the objective",
       "It stands out as superfluous or wrong",
-      "It is cut automatically",
-      "It becomes the objective"
+      "It adds richness, since detail makes a role real",
+      "It is cut automatically"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Any detail not related to the super-objective will stand out as superfluous or wrong. {{aap}}"
     },
     {
      "t": "check",
      "q": "In the Woe from Wit example, what changes when the super-objective is renamed?",
      "o": [
+      "The characters' lines, which must be rewritten",
+      "The length",
       "Nothing",
-      "Which themes come to the front of the production",
       "The title",
-      "The length"
+      "Which themes come to the front"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Different names bring forward the love story, the country or the freedom theme. {{aap}}"
     },
     {
@@ -579,12 +590,13 @@
    "quiz": {
     "q": "What is the day-backwards exercise for?",
     "o": [
+     "Learning the whole script by heart, backwards",
      "Practising memory tricks",
      "Building an unbroken line from short lines",
      "Learning lines",
      "Warming the voice"
     ],
-    "a": 1,
+    "a": 2,
     "w": "The short recalled lines join into a longer line. {{aap}}"
    }
   },
@@ -709,10 +721,11 @@
      "t": "check",
      "q": "What did Britannica say biomechanics emphasised?",
      "o": [
-      "Long speeches",
+      "Emotion memory and inner psychological truth",
       "Movement and pantomime over words",
+      "Emotion memory",
       "Realistic scenery",
-      "Emotion memory"
+      "Long speeches"
      ],
      "a": 1,
      "w": "The actors were coached as gymnasts and acrobats and emphasised pantomime over words. {{brit-bio}}"
@@ -721,24 +734,26 @@
      "t": "check",
      "q": "In what year did Meyerhold join the Moscow Art Theatre, per Britannica?",
      "o": [
-      "1898",
+      "1888",
       "1922",
+      "1898",
       "1906",
       "1938"
      ],
-     "a": 0,
+     "a": 2,
      "w": "He joined in 1898, two years after starting at the school in 1896. {{brit-mey}}"
     },
     {
      "t": "check",
      "q": "What did Meyerhold say about his rules for training an actor, in Gordon's extract?",
      "o": [
-      "He had none",
-      "He found twelve or thirteen and would leave perhaps eight",
       "He found a hundred",
-      "He copied Stanislavski's"
+      "He copied Stanislavski's",
+      "He had none",
+      "He found twelve or thirteen and would keep about eight",
+      "He found a hundred rules and kept every single one of them for training"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He said he determined twelve or thirteen rules and would leave perhaps no more than eight. {{tdr-gordon}}"
     },
     {
@@ -753,10 +768,11 @@
    "quiz": {
     "q": "What did Meyerhold's biomechanics draw on?",
     "o": [
-     "Only realism",
+     "Classroom lectures",
      "Commedia dell'arte, kabuki and Craig's writings",
+     "Only realism",
      "Cinema editing",
-     "Classroom lectures"
+     "Stanislavski's emotion memory exercises and realism"
     ],
     "a": 1,
     "w": "Britannica lists those influences. {{brit-bio}}"
@@ -893,36 +909,39 @@
      "t": "check",
      "q": "Which of these is one of Eisenstein's five methods of montage?",
      "o": [
+      "Verbal",
       "Metric",
+      "Continuity",
       "Linear",
-      "Static",
-      "Verbal"
+      "Static"
      ],
-     "a": 0,
+     "a": 1,
      "w": "The five are metric, rhythmic, tonal, overtonal and intellectual. {{wiki-montage}} {{media-eis}}"
     },
     {
      "t": "check",
      "q": "What was the Odessa Steps sequence built to do, per the textbook?",
      "o": [
+      "Show the exact layout of the steps",
       "Show clear geography",
       "Create an emotional effect",
       "Explain the plot",
       "Show the harbour"
      ],
-     "a": 1,
+     "a": 2,
      "w": "It was built to create an emotional effect and not to give clear geography. {{cwc}}"
     },
     {
      "t": "check",
      "q": "What did the Strike example of intellectual montage cut together?",
      "o": [
-      "Soldiers and flags",
-      "Workers being attacked and a bull being slaughtered",
       "A clock and a door",
-      "Rain and a window"
+      "Workers striking and a factory owner at dinner",
+      "Rain and a window",
+      "Workers attacked and a bull slaughtered",
+      "Soldiers and flags"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Wikipedia gives shots of workers being attacked cut with a bull being slaughtered. {{wiki-montage}}"
     },
     {
@@ -937,12 +956,13 @@
    "quiz": {
     "q": "Which of these is one of Eisenstein's five methods of montage?",
     "o": [
+     "Verbal",
      "Metric",
+     "Continuity",
      "Linear",
-     "Static",
-     "Verbal"
+     "Static"
     ],
-    "a": 0,
+    "a": 1,
     "w": "The five are metric, rhythmic, tonal, overtonal and intellectual. {{wiki-montage}} {{media-eis}}"
    }
   },
@@ -1066,12 +1086,13 @@
      "t": "check",
      "q": "What did Brook's 1970 Dream use in place of a forest set?",
      "o": [
-      "A white box with circus skills",
       "Real trees",
       "Video",
-      "A painted curtain"
+      "A painted curtain",
+      "A white box with circus skills",
+      "A forest of painted flats and real leaves"
      ],
-     "a": 0,
+     "a": 3,
      "w": "The RSC says Sally Jacobs built a brilliantly lit white box in place of the usual pretty forest. {{rsc-dream}}"
     },
     {
@@ -1079,21 +1100,23 @@
      "q": "Which actors were doubled in the RSC's account?",
      "o": [
       "Puck and Bottom",
-      "Oberon with Theseus, and Titania with Hippolyta",
       "Lysander and Demetrius",
+      "Oberon with Theseus, Titania with Hippolyta",
+      "Oberon with Bottom, and Titania with Hermia",
       "None"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Oberon and Theseus were played by one actor and Titania and Hippolyta by one. {{rsc-dream}}"
     },
     {
      "t": "check",
      "q": "How many elements survive if you keep 3 of 10?",
      "o": [
-      "10%",
-      "30%",
       "50%",
-      "70%"
+      "30%",
+      "70%",
+      "10%",
+      "3%"
      ],
      "a": 1,
      "w": "3 ÷ 10 = 30%."
@@ -1110,12 +1133,13 @@
    "quiz": {
     "q": "What did Brook's 1970 Dream use in place of a forest set?",
     "o": [
-     "A white box with circus skills",
      "Real trees",
      "Video",
-     "A painted curtain"
+     "A painted curtain",
+     "A white box with circus skills",
+     "A forest of painted flats and real leaves"
     ],
-    "a": 0,
+    "a": 3,
     "w": "The RSC says Sally Jacobs built a brilliantly lit white box in place of the usual pretty forest. {{rsc-dream}}"
    }
   },
@@ -1259,12 +1283,13 @@
      "t": "check",
      "q": "Where should an objective be aimed, according to the book?",
      "o": [
-      "At the audience",
-      "At the other actors",
       "At the camera operator",
-      "At the prompter"
+      "At the audience",
+      "At the prompter",
+      "At the back row of the audience",
+      "At the other actors"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The objectives must be directed toward the other actors, not the spectators. {{aap}}"
     },
     {
@@ -1272,23 +1297,25 @@
      "q": "What part of speech must an objective be, according to the teacher?",
      "o": [
       "A noun",
-      "A verb",
+      "A name",
       "An adjective",
-      "A name"
+      "A verb",
+      "An adverb"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The objective must always be a verb, so it carries the germ of action. {{aap}}"
     },
     {
      "t": "check",
      "q": "In the invented scoring, 7 of 9 tests met is about what percentage?",
      "o": [
-      "66%",
-      "70%",
+      "79%",
       "78%",
-      "88%"
+      "66%",
+      "88%",
+      "70%"
      ],
-     "a": 2,
+     "a": 1,
      "w": "7 ÷ 9 = 0.78."
     },
     {
@@ -1303,12 +1330,13 @@
    "quiz": {
     "q": "Which of these is one of Stanislavski's tests for an objective?",
     "o": [
+     "It is a result",
+     "It names a feeling to show",
      "It is aimed at the partner",
      "It is aimed at the audience",
-     "It is vague",
-     "It is a result"
+     "It is vague"
     ],
-    "a": 0,
+    "a": 2,
     "w": "The objective is directed toward the other actors, not the spectators. {{aap}}"
    }
   }

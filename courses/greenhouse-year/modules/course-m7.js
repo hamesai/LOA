@@ -97,23 +97,25 @@
      "q": "What does Purdue call the real value of pH and EC testing?",
      "o": [
       "A single perfect reading",
+      "Replacing fertiliser",
       "Tracking values over time on a graph",
-      "Passing an audit",
-      "Replacing fertiliser"
+      "One reading at the start of each crop",
+      "Passing an audit"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The data and graphs reveal trends."
     },
     {
      "t": "check",
      "q": "Which question needs several different logs to answer?",
      "o": [
+      "What day is it?",
       "What did I plan?",
       "What happened?",
       "Why did it differ?",
-      "What day is it?"
+      "What did I harvest on that day?"
      ],
-     "a": 2,
+     "a": 3,
      "w": "Finding causes means comparing climate, media, pest and harvest logs.",
      "kind": "application"
     },
@@ -259,24 +261,26 @@
      "t": "check",
      "q": "How many samples per crop type does Purdue recommend for pH and EC?",
      "o": [
-      "One",
       "Three",
       "Five to ten",
+      "One from the best plant",
+      "One",
       "A hundred"
      ],
-     "a": 2,
+     "a": 1,
      "w": "Take five to ten samples of each crop type and base decisions on the average."
     },
     {
      "t": "check",
      "q": "A bench of 0.5 m² yields 0.6 kg. What is the yield per m²?",
      "o": [
-      "0.3 kg/m²",
-      "1.2 kg/m²",
       "0.6 kg/m²",
-      "6 kg/m²"
+      "6 kg/m²",
+      "0.3 kg/m²",
+      "0.83 kg/m²",
+      "1.2 kg/m²"
      ],
-     "a": 1,
+     "a": 4,
      "w": "0.6 ÷ 0.5 = 1.2 kg/m².",
      "kind": "application"
     },
@@ -401,24 +405,26 @@
      "t": "check",
      "q": "Why record the first and last harvest date of each sowing?",
      "o": [
-      "For tax",
-      "They give real days to maturity and the length of the harvest window",
+      "They give real days to maturity and the harvest window",
+      "They show which seed company's packet dates were the most accurate",
       "To count the plants",
-      "To order seed"
+      "To order seed",
+      "For tax"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Two dates give both the time to first harvest and the span of the harvest."
     },
     {
      "t": "check",
      "q": "It is September and your heater worked fine last winter. When does Purdue advise servicing it?",
      "o": [
-      "After they break",
-      "Before the heating season",
+      "After it breaks",
       "Every ten years",
+      "Only after it has failed once",
+      "Before the heating season",
       "Only in summer"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The best time for maintenance is before the start of the heating season.",
      "kind": "application"
     },
@@ -595,12 +601,13 @@
      "t": "check",
      "q": "A crop was planned for 25 June and harvested on 2 July. What is the variance?",
      "o": [
-      "-7 days",
       "+7 days",
+      "+14 days",
       "0",
-      "+14 days"
+      "+8 days",
+      "-7 days"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Actual minus planned: +7 days, which is late.",
      "kind": "application"
     },
@@ -609,11 +616,12 @@
      "q": "For next year you want to sow tomatoes two weeks earlier. What must that change be backed by?",
      "o": [
       "A hunch",
+      "A shop recommendation",
       "A number recorded in your logs",
-      "A neighbour's advice",
-      "A shop recommendation"
+      "A seed catalogue's general advice",
+      "A neighbour's advice"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Each change should name the logged evidence that supports it.",
      "kind": "application"
     },
@@ -750,8 +758,9 @@
      "o": [
       "By plant family",
       "Month by month, January to December",
+      "Alphabetically",
       "By soil type",
-      "Alphabetically"
+      "By garden area, from house to woodland"
      ],
      "a": 1,
      "w": "Its chapters run from January to December. {{jekyll-wood}}"
@@ -760,12 +769,13 @@
      "t": "check",
      "q": "What did Jekyll say two disagreeing gardeners should have said?",
      "o": [
-      "Nothing",
-      "'In my experience in this place' it can only be done this way",
       "That the other is wrong",
-      "That it depends on the weather"
+      "Nothing",
+      "That the textbooks settle the matter",
+      "That it depends on the weather",
+      "'In my experience in this place'"
      ],
-     "a": 1,
+     "a": 4,
      "w": "She said they should have said 'In my experience in this place'. {{jekyll-wood}}"
     },
     {
@@ -773,11 +783,12 @@
      "q": "Why does she say not to judge new plantings after one year?",
      "o": [
       "They die",
-      "Some are not in strength until their second or third year",
+      "The first year's flowers are always the best they will ever be",
       "They flower in winter",
-      "They need no care"
+      "They need no care",
+      "Some reach strength only in year two or three"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Irises, for example, are not in strength till their second and third years. {{jekyll-colour}}"
     },
     {

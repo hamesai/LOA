@@ -85,12 +85,13 @@
      "t": "check",
      "q": "What time is the 4-hour fridge mark for the case?",
      "o": [
-      "19:30",
       "21:30",
+      "21:00",
       "23:30",
-      "17:30 next day"
+      "17:30 next day",
+      "19:30"
      ],
-     "a": 1,
+     "a": 0,
      "w": "17:30 + 4 hours = 21:30. {{fsa}}"
     },
     {
@@ -204,12 +205,13 @@
      "t": "check",
      "q": "In the model answer, when is the half-full freezer 24-hour mark?",
      "o": [
-      "21:30 Thursday",
-      "17:30 Friday",
       "17:30 Saturday",
-      "17:30 Thursday"
+      "17:30 Thursday",
+      "21:30 Thursday",
+      "21:30 Friday",
+      "17:30 Friday"
      ],
-     "a": 1,
+     "a": 4,
      "w": "17:30 + 24 hours = 17:30 Friday. {{fsa}}"
     },
     {
@@ -296,10 +298,11 @@
      "t": "check",
      "q": "A plan scores 2 on every row but suggests cooking on a camping stove in the kitchen. Does it pass?",
      "o": [
-      "Yes",
-      "No, it fails on carbon monoxide safety",
+      "Yes, since every row scored the pass mark",
+      "No: it fails on carbon monoxide",
+      "Yes if it has an alarm",
       "Only with a window open",
-      "Yes if it has an alarm"
+      "Yes"
      ],
      "a": 1,
      "w": "Using stoves or barbecues indoors is a safety failure. {{cmo}} {{ukhsaco}}"
@@ -326,7 +329,7 @@
     {
      "t": "ol",
      "i": [
-      "Registration and permissions: say what you must register and who you must ask. {{gov-start}} {{fsa-start-home}}",
+      "Registration and permissions: say what you must register and who you must ask, and keep supplier records of what you bought, from whom, how much and when, which the law requires. {{sfbb-manage}} {{gov-start}} {{fsa-start-home}}",
       "Hazard control: a table for three menu items covering receive, cook, cool, freeze, store, pack. {{gov-cook}} {{gov-chill}}",
       "Freezer failure: times, log, value at risk, what you will and will not sell. {{fsa}}",
       "Water and cooking: what you pause, and how reheating instructions were tested. {{gov-cook}}",
@@ -334,6 +337,18 @@
       "Dispatch and customers: dispatch-day rules and two messages. {{gov-store}}",
       "Honesty: label every inference and invented number as illustrative."
      ]
+    },
+    {
+     "t": "p",
+     "x": "Add a recall step. If a product or ingredient is withdrawn, stop using and selling it at once, check whether it went into meals already in your freezer, and tell customers who may not eat it straight away; if your own product is unsafe, tell your local authority and the Food Standards Agency. {{sfbb-manage}}"
+    },
+    {
+     "t": "p",
+     "x": "Add a complaints step. Take every report of illness, an allergic reaction or something in the food seriously: check your diary, temperature records and any staff illness, consider taking the same batch off sale, and tell the supplier if the fault may be theirs. {{sfbb-manage}}"
+    },
+    {
+     "t": "p",
+     "x": "Frozen meals keep the cold chain only if dispatch does: the FSA says delivered food is kept hot or cold until collected and all the way to the customer's home, covered, ideally in an insulated bag or box. {{sfbb-cook}}"
     },
     {
      "t": "table",
@@ -383,24 +398,26 @@
      "t": "check",
      "q": "What must a capstone plan do with numbers it invents?",
      "o": [
-      "Present them as fact",
-      "Mark them as illustrative",
       "Hide them",
-      "Round them up"
+      "Present them as fact",
+      "Round them up",
+      "Mark them as illustrative",
+      "Round them and present them as estimates from a source"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Invented numbers must be marked as illustrative."
     },
     {
      "t": "check",
      "q": "Who should read the plan before you trade?",
      "o": [
-      "No one",
-      "Your local authority or a food safety adviser",
       "Only customers",
+      "Your insurer, which approves all home food business plans",
+      "Your local authority or a food safety adviser",
+      "No one",
       "Only a friend"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Ask your local authority or a food safety adviser to read it. {{fsa-start-home}}"
     },
     {
@@ -521,12 +538,13 @@
      "t": "check",
      "q": "In Franklin's chart, what did a black spot mean?",
      "o": [
+      "A fault found that day",
+      "A virtue kept all day long",
       "A virtue achieved",
-      "A fault found on that day",
       "A rest day",
       "A meal"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Each spot marked a fault found upon examination that day. {{franklin-auto}}"
     },
     {
@@ -534,23 +552,25 @@
      "q": "Why did he give each virtue a short precept?",
      "o": [
       "To fill the page",
-      "To state clearly the extent he gave to its meaning",
+      "To make the list easy to memorise for others",
+      "To state the meaning he gave it",
       "To impress readers",
       "To shorten the book"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He annexed to each a short precept that fully expressed the extent he gave to its meaning. {{franklin-auto}}"
     },
     {
      "t": "check",
      "q": "How many virtues did he work on at once?",
      "o": [
+      "None",
       "All thirteen",
-      "One at a time",
+      "Three each week",
       "Two",
-      "None"
+      "One at a time"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He fixed his attention on one at a time. {{franklin-auto}}"
     },
     {

@@ -83,23 +83,25 @@
      "q": "What are the Met Office's three questions?",
      "o": [
       "Where, when, who",
-      "Gear, weather, knowledge and skills",
+      "Route, timing, group size and fitness",
+      "Tent, bag, stove",
       "Food, drink, phone",
-      "Tent, bag, stove"
+      "Gear, weather, knowledge and skills"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Gear, weather and knowledge and skills. {{met-mtn}}"
     },
     {
      "t": "check",
      "q": "Why tell someone when you have returned?",
      "o": [
+      "So they can log your route for the next group",
+      "For the weather forecast",
       "It is polite",
       "So they do not raise the alarm needlessly",
-      "For the weather forecast",
       "For insurance"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The Met Office advises letting the person know you are back. {{met-mtn}}"
     },
     {
@@ -196,9 +198,10 @@
      "t": "check",
      "q": "What should you do about a dead branch over your tent?",
      "o": [
-      "Ignore it",
-      "Move the tent away",
       "Hang a hammock",
+      "Move the tent away",
+      "Leave it, since dead branches only fall in winter storms",
+      "Ignore it",
       "Cut it down"
      ],
      "a": 1,
@@ -208,12 +211,13 @@
      "t": "check",
      "q": "You crossed a stream knee-deep at 9 a.m. after heavy overnight rain. You plan to return the same way at 5 p.m. What should you expect?",
      "o": [
-      "Never",
-      "When streams and rivers rise through the day",
-      "Only in winter",
-      "Only on mountains"
+      "It may be higher: streams can rise through the day",
+      "It will be lower, since rivers fall once rain stops",
+      "It will be lower, since heavy rain runs off in the first few hours and then levels drop all day",
+      "It will be lower, since the sun dries the ground",
+      "It will be the same, since the rain stopped overnight"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The Met Office warns streams can rise through the day. {{met-mtn}}",
      "kind": "application"
     },
@@ -300,12 +304,13 @@
      "t": "check",
      "q": "Three campers all have a headache and nausea after cooking in the tent. Likely cause?",
      "o": [
-      "Cold",
+      "Midges",
+      "Food poisoning from undercooked meat",
       "Carbon monoxide",
       "Dehydration only",
-      "Midges"
+      "Cold"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Symptoms after using a stove in an enclosed space point to carbon monoxide. {{bmc}} {{nid-co}}",
      "kind": "application"
     },
@@ -313,12 +318,13 @@
      "t": "check",
      "q": "A shivering friend is slurring words. First priority?",
      "o": [
-      "Hot bath",
-      "Shelter, wrap, call 999",
       "Rub their legs",
-      "Give a drink of alcohol"
+      "A drink of alcohol",
+      "Shelter, wrap, call 999",
+      "Walk them briskly down to warm them up",
+      "A hot bath"
      ],
-     "a": 1,
+     "a": 2,
      "w": "NHS: shelter, wrap, call 999; do not rub limbs or give alcohol. {{nhs-hypo}}",
      "kind": "application"
     },
@@ -404,12 +410,13 @@
      "t": "check",
      "q": "Your friend has a broken ankle on the hill and you dial 999. Which service do you ask for?",
      "o": [
-      "Fire",
-      "Ambulance only",
+      "Ambulance, then Mountain Rescue",
       "Police, then Mountain Rescue",
-      "Coastguard"
+      "Fire",
+      "Coastguard",
+      "Ambulance only"
      ],
-     "a": 2,
+     "a": 1,
      "w": "Mountain Rescue England and Wales say to ask for Police then Mountain Rescue. {{mrew}}",
      "kind": "application"
     },
@@ -418,11 +425,12 @@
      "q": "After you give your details, what should you do?",
      "o": [
       "Walk to find help",
-      "Stay where you are until contacted",
-      "Turn off the phone",
-      "Call again every five minutes"
+      "Walk to higher ground to get better signal",
+      "Call again every five minutes",
+      "Stay put until contacted",
+      "Turn off the phone"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The guidance is to stay where you are. {{mrew}}"
     },
     {
@@ -546,36 +554,39 @@
      "t": "check",
      "q": "What was Nightingale's first canon of nursing?",
      "o": [
-      "Give medicine early",
-      "Keep the patient's air as pure as outside air without chilling",
+      "Keep the air as pure as outside air without chilling",
+      "Keep the patient busy",
+      "Keep the patient warm by shutting out all outside air",
       "Keep windows shut",
-      "Keep the patient busy"
+      "Give medicine early"
      ],
-     "a": 1,
+     "a": 0,
      "w": "She says to keep the air the patient breathes as pure as the external air without chilling him. {{nightingale}}"
     },
     {
      "t": "check",
      "q": "According to Nightingale, what is observation for?",
      "o": [
-      "Piling up facts",
-      "Saving life and increasing health and comfort",
       "Passing exams",
-      "Entertainment"
+      "Entertainment",
+      "Piling up facts",
+      "Building a full record for the doctor's later research",
+      "Saving life and increasing health and comfort"
      ],
-     "a": 1,
+     "a": 4,
      "w": "She says observation is not for piling up facts but for saving life and increasing health and comfort. {{nightingale}}"
     },
     {
      "t": "check",
      "q": "Why write times and facts rather than impressions?",
      "o": [
-      "To look professional",
-      "A glance can mislead, and times show whether things are getting better or worse",
+      "A glance can mislead; times show if things improve or worsen",
+      "Impressions are banned in rescue reports by the Mountain Rescue rules",
       "It is a legal rule",
+      "To look professional",
       "It avoids using a phone"
      ],
-     "a": 1,
+     "a": 0,
      "w": "She warned against judging by a glance. {{nightingale}}"
     },
     {

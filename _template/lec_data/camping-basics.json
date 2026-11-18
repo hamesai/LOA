@@ -180,34 +180,37 @@
      "t": "check",
      "q": "What did Muir say about how he travelled in the mountains?",
      "o": [
+      "By train and stage",
       "With a large pack",
-      "On foot, carrying as little as possible",
       "By horse only",
-      "By train"
+      "On horseback, with a mule to carry his camp gear",
+      "On foot, carrying as little as possible"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He wrote that he travelled on foot carrying as little as possible. {{muir-np}}"
     },
     {
      "t": "check",
      "q": "In the UK and Ireland, why should you not copy Muir's use of camp-fires?",
      "o": [
-      "Fires are always allowed",
-      "Fires are often restricted, so follow local rules",
+      "Fires are always allowed, so copying him is fine",
       "Fires are unsafe in daylight",
-      "Muir never used fires"
+      "Fires are often restricted, so follow local rules",
+      "Muir never used fires",
+      "Fires are banned outright on all land in the UK and Ireland by national law"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Fire rules vary and are often restrictive. Check the fire lesson and the landowner's rules."
     },
     {
      "t": "check",
      "q": "You carry in 8.2 kg, eat 1.4 kg, burn 0.1 kg and drink 1.0 kg. About how much kit do you carry out?",
      "o": [
-      "8.2 kg",
+      "6.8 kg",
       "5.7 kg",
-      "1.4 kg",
-      "6.8 kg"
+      "8.2 kg",
+      "7.1 kg",
+      "1.4 kg"
      ],
      "a": 1,
      "w": "8.2 − 1.4 − 0.1 − 1.0 = 5.7 kg of kit, plus your rubbish."
@@ -224,12 +227,13 @@
    "quiz": {
     "q": "What organisation did John Muir found in 1892?",
     "o": [
+     "The Yosemite National Park Service",
+     "The National Trust",
      "The Met Office",
      "The Sierra Club",
-     "The National Trust",
      "Ordnance Survey"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Muir founded the Sierra Club in 1892. {{brit-muir}}"
    }
   },
@@ -364,12 +368,13 @@
      "t": "check",
      "q": "Your group likes a flat spot beside a large dead tree. Following Kephart, what should you do?",
      "o": [
-      "Pitching on raised ground",
-      "Pitching near a dead tree",
-      "Observing flood marks",
-      "Clearing brush from the site"
+      "Clear the brush and pitch beside it",
+      "Pitch there, since flat ground matters most",
+      "Move away: he warned against pitching near a dead tree",
+      "Pitch there if the tree is downwind",
+      "Pitch there, since a large tree gives shelter from wind and rain for the night"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He said the tent should not be set near a dead tree. {{kephart10}}",
      "kind": "application"
     },
@@ -378,9 +383,10 @@
      "q": "What pace did Kephart call good time in the woods?",
      "o": [
       "A mile and a half an hour of actual progress",
-      "Five miles an hour",
       "A mile a day",
-      "Ten miles an hour"
+      "Five miles an hour",
+      "Ten miles an hour",
+      "Three miles an hour, the usual pace on a good road"
      ],
      "a": 0,
      "w": "He said a mile and a half an hour of actual progress is making good time. {{kephart-wc}}"
@@ -389,12 +395,13 @@
      "t": "check",
      "q": "Why did he say to follow ridges instead of river banks?",
      "o": [
-      "Ridges are shorter",
-      "River banks mean many fords, thickets and bogs, and rivers can rise",
+      "Ridges are always shorter",
       "Ridges have no trees",
-      "Rivers are never crossable"
+      "Banks mean fords, thickets and bogs, and rivers can rise",
+      "Rivers can never be crossed",
+      "Ridges give better views for map reading, though banks are easier going underfoot"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He says bank routes bring fords and thickets, and a storm may send the river out of its banks. {{kephart-wc}}"
     },
     {
@@ -409,12 +416,13 @@
    "quiz": {
     "q": "According to Kephart, what should you avoid pitching near?",
     "o": [
-     "A dead tree",
-     "A raised spot",
+     "The morning sun",
+     "A ridge line above the river",
      "A breeze",
-     "Morning sun"
+     "A dead tree",
+     "A raised spot"
     ],
-    "a": 0,
+    "a": 3,
     "w": "He advised against pitching near a dead tree. {{kephart10}}"
    }
   },
@@ -531,35 +539,38 @@
      "q": "Why did Nansen reject the thick wolfskin dress for walking?",
      "o": [
       "It was too light",
-      "He sweated in it even at -41 °C",
+      "It froze stiff at -41 °C and could not be bent",
       "It had no hood",
+      "He sweated in it even at -41 °C",
       "It was too short"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He sweated in it at -37.6 and -41 degrees. {{nansen-fn}}"
     },
     {
      "t": "check",
      "q": "Why did he give up the floored silk tent?",
      "o": [
+      "Snow carried in melted, and the floor soaked it up",
       "It was too cold",
-      "Snow carried in melted and the floor absorbed the water",
+      "It was too small",
       "It had too many pegs",
-      "It was too small"
+      "It blew down in the first big storm out on the ice cap"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Melted snow soaked the floor and made the tent heavier. {{nansen-fn}}"
     },
     {
      "t": "check",
      "q": "What did he find about a double bag?",
      "o": [
-      "Warmer and lighter than two singles",
       "Colder than two singles",
-      "Heavier and no warmer",
-      "Impossible to use"
+      "Impossible to use",
+      "Warmer than two singles but much heavier",
+      "Warmer and lighter than two singles",
+      "Heavier and no warmer"
      ],
-     "a": 0,
+     "a": 3,
      "w": "A double bag kept occupants warmer and was lighter than two singles. {{nansen-fn}}"
     },
     {
@@ -574,12 +585,13 @@
    "quiz": {
     "q": "What clothing principle is Nansen credited with?",
     "o": [
-     "One heavy fur",
      "Layers of lightweight material",
+     "One heavy fur",
+     "A single windproof shell over heavy wool",
      "Cotton only",
      "No layers"
     ],
-    "a": 1,
+    "a": 0,
     "w": "He is credited with the layer principle. {{wiki-nansen}}"
    }
   },
@@ -701,35 +713,38 @@
      "q": "What did Nansen choose as fuel, and why?",
      "o": [
       "Alcohol, because it burns easily",
-      "Petroleum, because it gives more heat for its weight when fully burnt",
+      "Alcohol, because it gives more heat for its weight and burns cleanly",
       "Wood, because it is free",
+      "Petroleum: more heat for its weight when fully burnt",
       "Coal"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He chose petroleum for heat per weight. {{nansen-fn}}"
     },
     {
      "t": "check",
      "q": "What was the cooker's efficiency from Professor Torup's experiments?",
      "o": [
-      "50 to 60 per cent",
-      "70 to 75 per cent",
       "90 to 93 per cent",
-      "100 per cent"
+      "100 per cent",
+      "70 to 75 per cent",
+      "50 to 60 per cent",
+      "About 30 per cent, typical of open fires"
      ],
-     "a": 2,
+     "a": 0,
      "w": "The experiments gave 90 to 93 per cent of the theoretical heat. {{nansen-fn}}"
     },
     {
      "t": "check",
      "q": "Why is it wrong to cook inside a closed tent today?",
      "o": [
-      "It is too slow",
       "Burning fuel makes carbon monoxide, which can kill",
       "It wastes fuel",
+      "It is too slow",
+      "It soaks the tent with condensation, which ruins the down bags",
       "It melts the tent"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Carbon monoxide cannot be seen or smelled and is deadly. This is safety advice from this course, not from Nansen."
     },
     {
@@ -744,12 +759,13 @@
    "quiz": {
     "q": "What did the Nansen cooker let a party do at the same time?",
     "o": [
-     "Cook food and melt snow for water",
      "Navigate and sleep",
+     "Cook food and melt snow for water",
      "Pitch and strike a tent",
-     "Sail and ski"
+     "Sail and ski",
+     "Heat the tent and dry wet clothes overnight"
     ],
-    "a": 0,
+    "a": 1,
     "w": "It cooked food and melted snow together. {{nansen-fn}} {{lgfl-cooker}}"
    }
   },
@@ -858,21 +874,23 @@
      "q": "How close did Shackleton's party get to the South Pole before turning back in 1909?",
      "o": [
       "About 9 miles",
-      "97 geographical miles",
+      "They reached it",
+      "197 geographical miles",
       "500 miles",
-      "They reached it"
+      "97 geographical miles"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The march ended 97 geographical miles from the Pole. {{wiki-nimrod}} {{shack-south}}"
     },
     {
      "t": "check",
      "q": "Before choosing your route, you can ask a local guide or rely on last year's blog. What does Shackleton's choice in South suggest you do?",
      "o": [
-      "Whaling captains at South Georgia",
-      "Nobody",
-      "The King",
-      "Tourists"
+      "Ask those with local knowledge, as he asked the whaling captains",
+      "Ask nobody, and trust your own plan",
+      "Ask other visitors at the start",
+      "Rely on the blog, as he relied on earlier expedition reports rather than local whalers",
+      "Rely on the blog, since written sources are more reliable"
      ],
      "a": 0,
      "w": "He took advice from the whaling captains. {{shack-south}}",
@@ -882,12 +900,13 @@
      "t": "check",
      "q": "Why set the turn-back time before you leave?",
      "o": [
+      "It is legally required",
       "To look careful",
-      "A decision made on the plan is not changed by the pull of the goal",
-      "It saves time",
-      "It is legally required"
+      "A decision made on the plan resists the pull of the goal",
+      "So rescuers know when to start looking for you on the hill",
+      "It saves time"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The rule fixes the decision when your judgement is clearest (our reasoning)."
     },
     {
@@ -903,11 +922,12 @@
     "q": "How close did Shackleton's party get to the South Pole before turning back in 1909?",
     "o": [
      "About 9 miles",
-     "97 geographical miles",
+     "They reached it",
+     "197 geographical miles",
      "500 miles",
-     "They reached it"
+     "97 geographical miles"
     ],
-    "a": 1,
+    "a": 4,
     "w": "They reached 97 geographical miles from the Pole. {{wiki-nimrod}} {{shack-south}}"
    }
   },
@@ -1024,36 +1044,39 @@
      "t": "check",
      "q": "What was Nightingale's first canon of nursing?",
      "o": [
-      "Give medicine early",
-      "Keep the patient's air as pure as outside air without chilling",
+      "Keep the air as pure as outside air without chilling",
+      "Keep the patient busy",
+      "Keep the patient warm by shutting out all outside air",
       "Keep windows shut",
-      "Keep the patient busy"
+      "Give medicine early"
      ],
-     "a": 1,
+     "a": 0,
      "w": "She says to keep the air the patient breathes as pure as the external air without chilling him. {{nightingale}}"
     },
     {
      "t": "check",
      "q": "According to Nightingale, what is observation for?",
      "o": [
-      "Piling up facts",
-      "Saving life and increasing health and comfort",
       "Passing exams",
-      "Entertainment"
+      "Entertainment",
+      "Piling up facts",
+      "Building a full record for the doctor's later research",
+      "Saving life and increasing health and comfort"
      ],
-     "a": 1,
+     "a": 4,
      "w": "She says observation is not for piling up facts but for saving life and increasing health and comfort. {{nightingale}}"
     },
     {
      "t": "check",
      "q": "Why write times and facts rather than impressions?",
      "o": [
-      "To look professional",
-      "A glance can mislead, and times show whether things are getting better or worse",
+      "A glance can mislead; times show if things improve or worsen",
+      "Impressions are banned in rescue reports by the Mountain Rescue rules",
       "It is a legal rule",
+      "To look professional",
       "It avoids using a phone"
      ],
-     "a": 1,
+     "a": 0,
      "w": "She warned against judging by a glance. {{nightingale}}"
     },
     {
@@ -1068,12 +1091,13 @@
    "quiz": {
     "q": "What was Nightingale's first canon of nursing?",
     "o": [
-     "Give medicine early",
-     "Keep the patient's air as pure as outside air without chilling",
+     "Keep the air as pure as outside air without chilling",
+     "Keep the patient busy",
+     "Keep the patient warm by shutting out all outside air",
      "Keep windows shut",
-     "Keep the patient busy"
+     "Give medicine early"
     ],
-    "a": 1,
+    "a": 0,
     "w": "It was fresh air without chilling. {{nightingale}}"
    }
   },
@@ -1186,22 +1210,24 @@
      "t": "check",
      "q": "Which habit does the capstone borrow from Shackleton?",
      "o": [
-      "Skipping the review",
       "Planning with margins and clear roles",
+      "Leaving without a plan",
       "Camping alone only",
-      "Leaving without a plan"
+      "Pushing on to the goal whatever the conditions",
+      "Skipping the review"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He planned with depots, advice and clear leadership. {{wiki-nimrod}} {{shack-south}}"
     },
     {
      "t": "check",
      "q": "What did Shackleton do before choosing his Weddell Sea route?",
      "o": [
-      "Ignored advice",
-      "Consulted the whaling captains",
       "Asked tourists",
-      "Flipped a coin"
+      "Consulted the whaling captains",
+      "Flipped a coin",
+      "Followed the route of the earlier Scott expedition",
+      "Ignored all advice"
      ],
      "a": 1,
      "w": "He took advice from the whaling captains. {{shack-south}}"
@@ -1210,12 +1236,13 @@
      "t": "check",
      "q": "Why write a review within a day?",
      "o": [
+      "The details are fresh, and you can change the next plan",
       "To impress others",
-      "The details are fresh and you can change the next plan",
       "It is required",
-      "It saves money"
+      "It saves money",
+      "So the trip can be logged before any of the photos are shared"
      ],
-     "a": 1,
+     "a": 0,
      "w": "A review is how the next plan improves (our reasoning)."
     },
     {
@@ -1230,12 +1257,13 @@
    "quiz": {
     "q": "Which habit does the capstone borrow from Shackleton?",
     "o": [
-     "Skipping the review",
      "Planning with margins and clear roles",
+     "Leaving without a plan",
      "Camping alone only",
-     "Leaving without a plan"
+     "Pushing on to the goal whatever the conditions",
+     "Skipping the review"
     ],
-    "a": 1,
+    "a": 0,
     "w": "He planned with depots, advice and clear leadership. {{wiki-nimrod}} {{shack-south}}"
    }
   }

@@ -117,10 +117,11 @@
      "t": "check",
      "q": "A three-person tent is described as 'for two'. Why might that be sensible?",
      "o": [
-      "It is cheaper",
+      "It is cheaper to buy the larger size",
       "The person rating counts sleeping pads, not extra room",
+      "It makes pitching easier",
       "Four-season tents are always larger",
-      "It makes pitching easier"
+      "The person rating includes room for packs, so two people need the three-person size"
      ],
      "a": 1,
      "w": "REI says the rating equates to how many pads fit and that extra room for gear is not included. {{rei-tent}}"
@@ -129,12 +130,13 @@
      "t": "check",
      "q": "Which tent shape suits an exposed beach pitch?",
      "o": [
-      "Tall cabin tent",
-      "Low dome with rounded walls",
+      "Tall tunnel tent, pitched side-on to the wind",
       "Rooftop tent",
-      "Partial-fly tent"
+      "Partial-fly tent",
+      "Low dome with rounded walls",
+      "Tall cabin tent"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Low-profile domes deflect gusts better than tall flat-sided tents. {{rei-tent}}",
      "kind": "application"
     },
@@ -226,12 +228,13 @@
      "t": "check",
      "q": "You can pitch in a sheltered hollow between two rises or on the gentle slope above it. Where will cool, damp air collect overnight?",
      "o": [
+      "On the bare rock",
       "On the highest ground",
-      "In low areas between higher ground",
-      "Under trees",
-      "On bare rock"
+      "On the gentle slope, since cold air rises as it cools",
+      "Under the trees",
+      "In the low ground between the rises"
      ],
-     "a": 1,
+     "a": 4,
      "w": "REI says cool, damp air settles in low areas and rain can channel and pool there. {{rei-setup}}",
      "kind": "application"
     },
@@ -239,12 +242,13 @@
      "t": "check",
      "q": "What is the best reason to pitch under trees?",
      "o": [
-      "Trees block all wind",
-      "The air is warmer so there is less condensation",
+      "The air is warmer, so there is less condensation",
+      "They attract wildlife",
       "They keep the ground flat",
-      "They attract wildlife"
+      "The canopy keeps the tent completely dry in any rain, so no fly is needed",
+      "Trees block all wind"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Warmer air under trees means a warmer fly and less condensation. {{rei-cond}}"
     },
     {
@@ -343,23 +347,25 @@
      "q": "What should you do first in a strong wind?",
      "o": [
       "Clip the poles",
+      "Clip the poles first, so the tent has shape before you stake it",
       "Stake the corners quickly",
-      "Fit the fly",
-      "Open all vents"
+      "Open all the vents",
+      "Fit the fly"
      ],
-     "a": 1,
+     "a": 2,
      "w": "REI advises staking the corners at the start so the tent does not blow away. {{rei-setup}}"
     },
     {
      "t": "check",
-     "q": "Your footprint sticks out 10 cm beyond the tent floor on one side. What will happen in rain, and what size should it be?",
+     "q": "Your footprint sticks out 10 cm beyond the tent floor on one side. What happens in rain, and how big should it be?",
      "o": [
-      "Larger than the floor",
-      "Slightly smaller than the floor",
-      "Exactly the size of the fly",
-      "Missing entirely"
+      "Nothing happens in rain; a footprint is only needed in dry weather, so leave it at home",
+      "The floor dries faster; it should be the size of the fly",
+      "Nothing happens; a footprint should be larger than the floor",
+      "Rain collects under the floor; it should be slightly smaller",
+      "Rain is shed outward; it should match the fly exactly"
      ],
-     "a": 1,
+     "a": 3,
      "w": "A footprint sized smaller than the floor will not channel rainwater underneath. {{rei-setup}}",
      "kind": "application"
     },
@@ -446,24 +452,26 @@
      "t": "check",
      "q": "Which is NOT one of the three moisture sources REI lists?",
      "o": [
-      "Humidity of the air",
       "Breath at night",
-      "Wet items inside",
-      "Rain through the fly"
+      "Rain through the fly",
+      "Breath at night and the wet gear you bring inside",
+      "Humidity of the air",
+      "Wet items inside"
      ],
-     "a": 3,
+     "a": 1,
      "w": "REI names humidity, breath and wet items. {{rei-cond}}"
     },
     {
      "t": "check",
      "q": "What does opening opposing vents achieve?",
      "o": [
-      "Warmer air",
-      "Cross ventilation that replaces humid inside air",
+      "Less light",
       "More noise",
-      "Less light"
+      "Warmer air inside",
+      "It traps a warm layer of air that stops the fly getting cold",
+      "Cross ventilation that replaces humid inside air"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Opening opposing vents allows cross ventilation. {{rei-cond}}"
     },
     {
@@ -605,12 +613,13 @@
      "t": "check",
      "q": "Your group likes a flat spot beside a large dead tree. Following Kephart, what should you do?",
      "o": [
-      "Pitching on raised ground",
-      "Pitching near a dead tree",
-      "Observing flood marks",
-      "Clearing brush from the site"
+      "Clear the brush and pitch beside it",
+      "Pitch there, since flat ground matters most",
+      "Move away: he warned against pitching near a dead tree",
+      "Pitch there if the tree is downwind",
+      "Pitch there, since a large tree gives shelter from wind and rain for the night"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He said the tent should not be set near a dead tree. {{kephart10}}",
      "kind": "application"
     },
@@ -619,9 +628,10 @@
      "q": "What pace did Kephart call good time in the woods?",
      "o": [
       "A mile and a half an hour of actual progress",
-      "Five miles an hour",
       "A mile a day",
-      "Ten miles an hour"
+      "Five miles an hour",
+      "Ten miles an hour",
+      "Three miles an hour, the usual pace on a good road"
      ],
      "a": 0,
      "w": "He said a mile and a half an hour of actual progress is making good time. {{kephart-wc}}"
@@ -630,12 +640,13 @@
      "t": "check",
      "q": "Why did he say to follow ridges instead of river banks?",
      "o": [
-      "Ridges are shorter",
-      "River banks mean many fords, thickets and bogs, and rivers can rise",
+      "Ridges are always shorter",
       "Ridges have no trees",
-      "Rivers are never crossable"
+      "Banks mean fords, thickets and bogs, and rivers can rise",
+      "Rivers can never be crossed",
+      "Ridges give better views for map reading, though banks are easier going underfoot"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He says bank routes bring fords and thickets, and a storm may send the river out of its banks. {{kephart-wc}}"
     },
     {

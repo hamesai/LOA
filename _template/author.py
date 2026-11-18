@@ -51,6 +51,42 @@ def case_question(case, q, o, a, w): return {"q": (case.rstrip() + " " + q.lstri
 def applied_challenge(id, level, task, key, check): return dict(challenge(id, level, task, key, check), kind="application")
 
 
+# MCQ standard (17/11/2026, enforced by mcq_audit.js through check_course.py). Write every check, quiz, pre-check and
+# retrieval item with these helpers: give the right answer and exactly four wrong ones, and they place the right answer
+# for you. Wrong answers must be plausible near-misses of the same kind and similar length (a common misreading, a wrong
+# date or name from the same module, a half-right claim), never throwaways like "None" or "Nothing". The right answer
+# must not be the longest option; the helper refuses it so the length tell cannot creep back.
+# Slots come from a deck of 0-4 reshuffled every five items, seeded so a rebuild gives the same layout.
+import random as _random
+_deck, _dealt = [], [0]
+def _place(q, right, wrong):
+    wrong = list(wrong)
+    if len(wrong) != 4:
+        raise ValueError("MCQ standard: give exactly four wrong options: " + q[:60])
+    if right in wrong or len(set(wrong)) != 4:
+        raise ValueError("MCQ standard: duplicate option: " + q[:60])
+    if len(right) > max(len(x) for x in wrong):
+        raise ValueError("MCQ standard: the right answer is the longest option (%d vs %d chars); lengthen a wrong one or trim it: %s"
+                         % (len(right), max(len(x) for x in wrong), q[:60]))
+    if not _deck:
+        _deck.extend(_random.Random("mcq-deck-%d" % _dealt[0]).sample(range(5), 5))
+    slot = _deck.pop()
+    _dealt[0] += 1
+    _random.Random(q).shuffle(wrong)
+    wrong.insert(slot, right)
+    return wrong, slot
+def chk5(q, right, wrong, w):
+    o, a = _place(q, right, wrong); return chk(q, o, a, w)
+def case_chk5(case, q, right, wrong, w):
+    full = (case.rstrip() + " " + q.lstrip()).strip(); o, a = _place(full, right, wrong)
+    return {"t": "check", "q": full, "o": o, "a": a, "w": w, "kind": "application"}
+def question5(q, right, wrong, w):
+    o, a = _place(q, right, wrong); return question(q, o, a, w)
+def case_question5(case, q, right, wrong, w):
+    full = (case.rstrip() + " " + q.lstrip()).strip(); o, a = _place(full, right, wrong)
+    return {"q": full, "o": o, "a": a, "w": w, "kind": "application"}
+
+
 def _strings(o):
     if isinstance(o, str):
         yield o

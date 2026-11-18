@@ -60,22 +60,24 @@
      "t": "check",
      "q": "Which section tells you what would make you change the plan?",
      "o": [
-      "Goal",
-      "Review",
       "Costs",
-      "Tax"
+      "Goal",
+      "Split and holdings",
+      "Tax",
+      "Review"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The review section says when you will look again and what would change the plan."
     },
     {
      "t": "check",
      "q": "Why should the plan include a review section?",
      "o": [
+      "It replaces the emergency fund",
+      "Things change, so it needs a date and triggers",
       "It is optional decoration",
-      "Circumstances and facts change, so the plan needs a date and triggers for checking",
-      "Reviews guarantee returns",
-      "It replaces the emergency fund"
+      "A review guarantees that the plan's returns stay on target",
+      "Reviews guarantee returns"
      ],
      "a": 1,
      "w": "A plan should say when it will be reviewed and what would change it."
@@ -151,24 +153,26 @@
      "t": "check",
      "q": "A plan has the right split but no review date. Does it pass the review row?",
      "o": [
-      "Yes, the split is enough",
-      "No, the review row needs a date and triggers",
       "Yes, reviews are optional",
+      "Yes, since the split matters more than when it is checked",
+      "No: the review row needs a date and triggers",
+      "Yes, the split is enough",
       "No, the split must be 50/50"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The review row passes only with a date and two triggers for change."
     },
     {
      "t": "check",
      "q": "A plan states a total charge of 0.25% on £20,000. What is the yearly cost in pounds?",
      "o": [
-      "£5",
-      "£25",
       "£50",
-      "£500"
+      "£500",
+      "£25",
+      "£250",
+      "£5"
      ],
-     "a": 2,
+     "a": 0,
      "w": "£20,000 × 0.25% is £50. This is our arithmetic."
     },
     {
@@ -314,12 +318,13 @@
      "t": "check",
      "q": "Sam's net assets are £60,000. Using the FCA's rule of thumb, what is the limit for high-risk investments?",
      "o": [
-      "£600",
-      "£6,000",
+      "£12,000",
+      "£10,000",
       "£60,000",
-      "£10,000"
+      "£6,000",
+      "£600"
      ],
-     "a": 1,
+     "a": 3,
      "w": "10% of £60,000 is £6,000. {{fca-risk}}"
     },
     {
@@ -328,10 +333,11 @@
      "o": [
       "Showing the arithmetic",
       "Having a review date",
-      "The 60/30/10 split",
-      "Checking firms independently"
+      "Writing triggers for a review",
+      "Checking firms independently",
+      "The 60/30/10 split"
      ],
-     "a": 2,
+     "a": 4,
      "w": "The split is an illustration for an invented person, while the habits are transferable."
     },
     {
@@ -433,24 +439,26 @@
      "t": "check",
      "q": "What should you do with a forecast you cannot support?",
      "o": [
-      "Keep it as fact",
       "Replace it with a range or remove it",
+      "Keep it, but round it to a whole number",
       "Raise the risk",
+      "Keep it as fact",
       "Hide it"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Mark it, then replace or remove it."
     },
     {
      "t": "check",
      "q": "Why replace a forecast in your plan with a range?",
      "o": [
+      "Ranges are required by the FCA in any written investment plan",
+      "Ranges raise returns",
       "Ranges look more professional",
-      "A range lets you test whether the plan survives the bad end",
-      "Forecasts are illegal",
-      "Ranges raise returns"
+      "You can test whether the plan survives the bad end",
+      "Forecasts are illegal"
      ],
-     "a": 1,
+     "a": 3,
      "w": "A plan that survives the bad end of a range is not betting on a forecast. Our inference."
     },
     {

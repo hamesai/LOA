@@ -117,12 +117,13 @@
      "t": "check",
      "q": "A client says they felt dizzy and had chest tightness climbing stairs last week. What is the best response?",
      "o": [
+      "Give them a diet plan",
+      "Start with light exercise only, and stop if the symptoms come back during the session",
+      "Say you can't coach them yet; they should see a doctor first",
       "Start with light exercise to build tolerance",
-      "Explain you cannot coach them yet and ask them to see a doctor first",
-      "Tell them it is probably stress",
-      "Give them a diet plan"
+      "Tell them it is probably stress"
      ],
-     "a": 1,
+     "a": 2,
      "w": "New symptoms of possible heart or lung trouble need medical review before exercise, so you refer first. This follows the clearance logic of the 2015 ACSM algorithm. {{whitfield2017}}"
     },
     {
@@ -130,11 +131,12 @@
      "q": "Which statement about the WHO guidelines is correct?",
      "o": [
       "They are written for competitive athletes",
-      "They are for the general population and not for athletes training for competition",
+      "They are written for athletes and adapted for the general population by trainers",
       "They apply only to adults under 40",
+      "They are for the general population, not competing athletes",
       "They ban vigorous exercise"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The WHO states the guidelines are for the general population and do not address athletes training for competition. {{who2020}}"
     },
     {
@@ -245,6 +247,7 @@
      "o": [
       "100",
       "140",
+      "120",
       "160",
       "220"
      ],
@@ -255,12 +258,13 @@
      "t": "check",
      "q": "A client says 'I only have 8 minutes at a time, so it is pointless.' What does the WHO say?",
      "o": [
-      "Bouts under 10 minutes do not count",
       "Bouts of any length count",
+      "Bouts under 10 minutes do not count",
+      "Only bouts of 10 minutes or more count toward the weekly target",
       "Only bouts over 20 minutes count",
       "Only gym sessions count"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The 10-minute minimum bout was removed in 2020; any duration counts. {{who2020}}"
     },
     {
@@ -376,24 +380,26 @@
      "t": "check",
      "q": "A client with no known disease is inactive. According to the WHO, what is the best starting approach?",
      "o": [
-      "Get a full medical test first",
-      "Start with small amounts and gradually increase",
+      "Wait until they are fitter",
+      "Get a full medical test first, since inactivity itself needs clearance",
       "Begin with vigorous intervals",
-      "Wait until they are fitter"
+      "Get a full medical test first",
+      "Start small and build up gradually"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The WHO says to start small and build. The claim that clearance is generally unnecessary for people without contraindications is unverified; check the WHO 2020 guideline text. {{who2020}}"
     },
     {
      "t": "check",
      "q": "What did the WHO find about a precise sitting-time limit?",
      "o": [
-      "Less than 4 hours a day",
+      "No limit is needed",
       "Less than 8 hours a day",
-      "Evidence was insufficient to set a threshold",
-      "No limit is needed"
+      "A limit of 8 hours a day, rated as strong evidence",
+      "Less than 4 hours a day",
+      "Evidence was too weak to set a threshold"
      ],
-     "a": 2,
+     "a": 4,
      "w": "The guideline group considered a threshold but evidence was insufficient. {{who2020}}"
     },
     {
@@ -554,23 +560,25 @@
      "q": "A recommendation is 'conditional' while the evidence is 'moderate certainty'. What does this show?",
      "o": [
       "The two ratings are the same thing",
-      "Certainty of evidence and strength of recommendation are rated separately",
       "The evidence is wrong",
+      "The guideline is a draft that will be made strong once the evidence is final",
+      "Evidence certainty and recommendation strength are rated separately",
       "The guideline is a draft"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The WHO rated certainty and strength separately; the higher-than-300-minutes advice was conditional even with moderate-certainty evidence about the dose-response curve. {{who2020}}"
     },
     {
      "t": "check",
      "q": "Why should a trainer be careful about quoting a pooled average to an individual client?",
      "o": [
+      "Pooled averages are always too high for any one client",
       "Averages are always false",
       "Averages hide differences between people",
       "Meta-analyses never include humans",
       "Averages only apply to men"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Pooled results describe groups; individuals vary around them, and the 2024 analysis noted heterogeneity limits nuance. {{swinton2024}}"
     },
     {
@@ -721,22 +729,24 @@
      "t": "check",
      "q": "What did Morris's 1953 bus study compare?",
      "o": [
-      "Cyclists and walkers",
       "Bus drivers and conductors",
       "Doctors and nurses",
+      "Bus drivers and office clerks",
+      "Cyclists and walkers",
       "Men and women"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It compared sedentary bus drivers with more active conductors. {{lancet12}}"
     },
     {
      "t": "check",
      "q": "According to the 2024 review, why can an observational link overestimate the benefit of activity?",
      "o": [
+      "Because active people always report their activity too high in surveys",
+      "Being able to be active is itself a sign of good health",
       "Because trials are too large",
-      "Being able to be active is itself a marker of good health",
-      "Because step counters are inaccurate",
-      "Because it takes too long to read"
+      "Because it takes too long to read",
+      "Because step counters are inaccurate"
      ],
      "a": 1,
      "w": "Health and vitality can affect later activity, which biases the association. {{ding24}}"
@@ -745,12 +755,13 @@
      "t": "check",
      "q": "In the invented example, 30 of 1,000 against 20 of 1,000 is a relative risk of what?",
      "o": [
-      "1.0",
       "1.5",
+      "1.0",
+      "0.67",
       "2.0",
       "10"
      ],
-     "a": 1,
+     "a": 0,
      "w": "3.0% ÷ 2.0% = 1.5."
     },
     {

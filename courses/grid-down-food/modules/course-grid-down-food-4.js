@@ -82,7 +82,7 @@
     {
      "t": "callout",
      "k": "note",
-     "x": "Eating uncooked pasta or dried beans is advice from the UK CMO script for the national outage scenario. Read the pack and follow your local authority."
+     "x": "The beans in the CMO list are tinned beans, which are already cooked. Dried pulses such as kidney beans contain natural toxins that only proper soaking and cooking destroy, so cook them as the packet says or leave them in the store until you can. {{sfbb-cook}}"
     },
     {
      "t": "activity",
@@ -92,12 +92,13 @@
      "t": "check",
      "q": "You are planning meals for a three-day outage. Which of your cookers can you not count on?",
      "o": [
+      "Gas hob on mains gas",
       "Gas camping stove",
+      "Campfire",
       "Barbecue",
-      "Induction hob",
-      "Campfire"
+      "Induction hob"
      ],
-     "a": 2,
+     "a": 4,
      "w": "Electric and induction cookers will not work in a power cut. {{fsa}}",
      "kind": "application"
     },
@@ -105,10 +106,11 @@
      "t": "check",
      "q": "You cook sausages on a camping stove for the usual 15 minutes. Why should you still check they are steaming hot?",
      "o": [
-      "It is faster",
-      "Cooking can take longer than usual",
       "The stove adds flavour",
-      "It uses less fuel"
+      "Cooking can take longer than usual",
+      "It uses less fuel",
+      "It is faster",
+      "Camping stoves run hotter, so outsides burn first"
      ],
      "a": 1,
      "w": "Camping stoves and barbecues can take longer, so you must check food is cooked through. {{fsa}}",
@@ -211,25 +213,27 @@
      "t": "check",
      "q": "It is pouring with rain and you want to use the camping stove in the garage with the door shut. What should you do?",
      "o": [
-      "In the kitchen",
-      "In the garage with the door shut",
-      "Outdoors",
-      "In a tent"
+      "Use it in the kitchen",
+      "Use it in the garage, with the door open a little",
+      "Use it in the garage with the door shut",
+      "Use it outdoors",
+      "Use it in a tent"
      ],
-     "a": 2,
+     "a": 3,
      "w": "Never use camping stoves or barbecues indoors. {{cmo}} {{ukhsaco}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "After cooking on a gas stove indoors, two people feel sick and have a headache. What else might they think it is, and why does that matter?",
+     "q": "After cooking on a gas stove indoors, two people feel sick and have a headache. What might carbon monoxide poisoning be mistaken for?",
      "o": [
-      "A cold only",
-      "Food poisoning or flu",
       "Hay fever",
+      "Low blood sugar from a late meal",
+      "Food poisoning or flu",
+      "A cold only",
       "Nothing"
      ],
-     "a": 1,
+     "a": 2,
      "w": "UKHSA says symptoms can be similar to food poisoning and flu. {{ukhsaco}}",
      "kind": "application"
     },
@@ -263,6 +267,10 @@
     {
      "t": "p",
      "x": "The FSA says food should be steaming hot and cooked through. {{fsa}}"
+    },
+    {
+     "t": "p",
+     "x": "Where to check matters as much as the number. The FSA says to probe whole birds in the thickest part, between leg and breast; in stews and curries, the largest piece of meat; and in a large dish or batch, several places, because cold spots hide. {{sfbb-cook}}"
     },
     {
      "t": "h",
@@ -333,12 +341,13 @@
      "t": "check",
      "q": "A soup needs to reach what temperature according to the WHO?",
      "o": [
-      "50 C",
-      "60 C",
       "70 C",
+      "60 C",
+      "63 C",
+      "50 C",
       "90 C"
      ],
-     "a": 2,
+     "a": 0,
      "w": "The WHO says to bring stews and soups to boiling so they reach 70 C. {{who5keys}}",
      "kind": "application"
     },
@@ -346,12 +355,13 @@
      "t": "check",
      "q": "The power is back and you want chicken for dinner tonight from the freezer. How should you thaw it?",
      "o": [
-      "On the counter for the day",
-      "In the fridge, cold water or microwave then cook at once",
       "Near the stove",
-      "In a warm oven"
+      "On the counter overnight, then cook it well the next day",
+      "Fridge, cold water or microwave, then cook at once",
+      "In a warm oven",
+      "On the counter for the day"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Never thaw at room temperature or in an oven. {{nchfp}}",
      "kind": "application"
     },
@@ -381,6 +391,14 @@
     {
      "t": "p",
      "x": "Without a fridge, the safest plan is to cook only what you will eat (our advice)."
+    },
+    {
+     "t": "p",
+     "x": "Rice needs extra care: it can carry spores that survive cooking and reheating, and if cooked rice sits at room temperature they multiply and make toxins that reheating will not remove. Keep cooked rice hot until you eat it, or cool it fast by spreading it on a clean tray, and keep it no more than 1 day. {{sfbb-cook}}"
+    },
+    {
+     "t": "p",
+     "x": "Reheating means cooking again, not warming up: bring food back to a safe temperature in the centre, and reheat it only once. {{sfbb-cook}}"
     },
     {
      "t": "p",
@@ -449,8 +467,9 @@
      "o": [
       "20:10",
       "21:10",
-      "22:10",
-      "19:40"
+      "19:40",
+      "23:10",
+      "22:10"
      ],
      "a": 1,
      "w": "19:10 + 2 hours = 21:10. {{who5keys}}",
@@ -460,12 +479,13 @@
      "t": "check",
      "q": "You have diarrhoea. What should you do about preparing the family meal?",
      "o": [
-      "Cook as usual",
-      "Avoid preparing food for others",
       "Cook but wear gloves only",
-      "Cook outdoors"
+      "Cook outdoors",
+      "Cook as usual",
+      "Cook, but wash your hands twice as often",
+      "Avoid preparing food for others"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The CMOs advise avoiding preparing food for others when vomiting or with diarrhoea. {{cmo}}"
     },
     {
@@ -552,14 +572,15 @@
     },
     {
      "t": "check",
-     "q": "You have leftover curry that was reheated yesterday. Can you reheat it again tonight, and how?",
+     "q": "You have leftover curry that was already reheated yesterday. Can you reheat it again tonight?",
      "o": [
-      "Warm it a little",
-      "Reheat until steaming hot throughout, and only once",
-      "Reheat as often as needed",
-      "Reheat to 40 degrees"
+      "Yes, as long as it reaches 70 C again for two minutes",
+      "Yes: warm it a little",
+      "Yes: reheat as often as needed",
+      "No: reheat only once",
+      "Yes: reheat until steaming hot"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Reheat until steaming hot all the way through, and only once. {{gov-cook}}",
      "kind": "application"
     },
@@ -567,12 +588,13 @@
      "t": "check",
      "q": "Why test your printed reheating times?",
      "o": [
-      "To make them longer",
       "Frozen blocks can have cold spots, and appliances vary",
+      "It is a legal formality only",
+      "To make them longer",
       "Customers like testing",
-      "It is a legal formality only"
+      "Printed times are always too long, so testing saves customers' fuel"
      ],
-     "a": 1,
+     "a": 0,
      "w": "A thick frozen meal can be cold in the centre, so test before you print. This is our reasoning.",
      "kind": "application"
     },
@@ -705,22 +727,24 @@
      "t": "check",
      "q": "What was Rumford's soup made of?",
      "o": [
-      "Beef and wine",
-      "Pearl barley, peas, potatoes, bread cuttings, vinegar, salt and water",
       "Rice only",
+      "Beef, barley, onions and potatoes, thickened with flour",
+      "Beef and wine",
+      "Barley, peas, potatoes, bread, vinegar, salt and water",
       "Fish and cream"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He lists pearl barley, peas, potatoes, bread cuttings, vinegar, salt and water. {{rumford-essays}}"
     },
     {
      "t": "check",
      "q": "When did he add the bread?",
      "o": [
-      "First",
-      "At the moment of serving, or in the serving tubs",
       "After two hours",
-      "Never"
+      "At serving, or in the serving tubs",
+      "Never",
+      "At the very start, to thicken the soup",
+      "First"
      ],
      "a": 1,
      "w": "He adds the bread last, at the moment of serving. {{rumford-essays}}"
@@ -730,11 +754,12 @@
      "q": "What share of the daily cost was fuel, using his figures?",
      "o": [
       "About half",
-      "About 10 percent",
-      "About half of one percent",
-      "More than labour"
+      "About a quarter of the total",
+      "More than labour",
+      "About 10 per cent",
+      "About half of one per cent"
      ],
-     "a": 2,
+     "a": 4,
      "w": "2¼d out of 422¼d is about 0.5 percent. {{rumford-essays}}"
     },
     {

@@ -1,0 +1,239 @@
+{
+ "key": "openstax-finance",
+ "title": "Principles of Finance (OpenStax, 2022)",
+ "author": "",
+ "file": "OpenStax Principles of Finance.pdf",
+ "format": "pdf",
+ "sha256": "d9dc9bc96cb6e3128a38aabf00609cc72d5e7721565fa3b5a672a41352f4a22c",
+ "words": 261605,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Front matter",
+   "words": 713,
+   "pages": [
+    1,
+    6
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Contents",
+   "words": 1308,
+   "pages": [
+    7,
+    14
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Preface",
+   "words": 2467,
+   "pages": [
+    15,
+    20
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Chapter 1 Introduction to Finance",
+   "words": 15083,
+   "pages": [
+    21,
+    50
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Chapter 2 Corporate Structure and Governance",
+   "words": 13042,
+   "pages": [
+    51,
+    78
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Chapter 3 Economic Foundations: Money and Rates",
+   "words": 12895,
+   "pages": [
+    79,
+    112
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Chapter 4 Accrual Accounting Process",
+   "words": 12778,
+   "pages": [
+    113,
+    140
+   ]
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Chapter 5 Financial Statements",
+   "words": 12582,
+   "pages": [
+    141,
+    174
+   ]
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Chapter 6 Measures of Financial Health",
+   "words": 10428,
+   "pages": [
+    175,
+    200
+   ]
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Chapter 7 Time Value of Money I: Single Payment Value",
+   "words": 15872,
+   "pages": [
+    201,
+    236
+   ]
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Chapter 8 Time Value of Money II: Equal Multiple Payments",
+   "words": 14389,
+   "pages": [
+    237,
+    270
+   ]
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Chapter 9 Time Value of Money III: Unequal Multiple Payment Values",
+   "words": 7459,
+   "pages": [
+    271,
+    290
+   ]
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Chapter 10 Bonds and Bond Valuation",
+   "words": 15023,
+   "pages": [
+    291,
+    326
+   ]
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Chapter 11 Stocks and Stock Valuation",
+   "words": 14420,
+   "pages": [
+    327,
+    360
+   ]
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "Chapter 12 Historical Performance of US Markets",
+   "words": 11476,
+   "pages": [
+    361,
+    386
+   ]
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "Chapter 13 Statistical Analysis in Finance",
+   "words": 14222,
+   "pages": [
+    387,
+    422
+   ]
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "Chapter 14 Regression Analysis in Finance",
+   "words": 10874,
+   "pages": [
+    423,
+    454
+   ]
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "Chapter 15 How to Think about Investing",
+   "words": 11768,
+   "pages": [
+    455,
+    482
+   ]
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "Chapter 16 How Companies Think about Investing",
+   "words": 11561,
+   "pages": [
+    483,
+    508
+   ]
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "Chapter 17 How Firms Raise Capital",
+   "words": 13423,
+   "pages": [
+    509,
+    536
+   ]
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "Chapter 18 Financial Forecasting",
+   "words": 11377,
+   "pages": [
+    537,
+    566
+   ]
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "Chapter 19 The Importance of Trade Credit and Working Capital in Planning",
+   "words": 13625,
+   "pages": [
+    567,
+    598
+   ]
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "Chapter 20 Risk Management and the Financial Manager",
+   "words": 12167,
+   "pages": [
+    599,
+    622
+   ]
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "Index",
+   "words": 2653,
+   "pages": [
+    623,
+    629
+   ]
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (32% common English words, 1.3% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-17",
+  "source_file": "OpenStax Principles of Finance.pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.325,
+  "odd_character_share": 0.013
+ }
+}

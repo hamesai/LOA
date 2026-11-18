@@ -119,10 +119,11 @@
      "t": "check",
      "q": "What mostly drives the difference in perspective between a wide and a long shot of a face?",
      "o": [
-      "Lens brand",
+      "The focal length itself, at any distance",
       "Camera distance",
+      "Frame rate",
       "Sensor colour",
-      "Frame rate"
+      "Lens brand"
      ],
      "a": 1,
      "w": "The source says the perspective differences come from the camera distance more than the focal length itself. {{wiki-cine}}"
@@ -131,12 +132,13 @@
      "t": "check",
      "q": "A 50 mm lens on full frame has a horizontal angle of view of about:",
      "o": [
-      "15°",
-      "24°",
       "40°",
-      "74°"
+      "24°",
+      "50°",
+      "74°",
+      "15°"
      ],
-     "a": 2,
+     "a": 0,
      "w": "2 × arctan(18 ÷ 50) is about 39.6°.",
      "kind": "application"
     },
@@ -258,12 +260,13 @@
      "t": "check",
      "q": "With the lens and the subject fixed, going from f/2 to f/4 does what to depth of field?",
      "o": [
-      "Halves it",
-      "Doubles it",
+      "Quadruples it",
       "Leaves it",
-      "Squares it"
+      "Halves it",
+      "Squares it",
+      "Doubles it"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Depth of field is proportional to the f-number, so doubling the f-number doubles the depth. {{wiki-dof}}",
      "kind": "application"
     },
@@ -271,24 +274,26 @@
      "t": "check",
      "q": "Why do cine lenses carry T-stops?",
      "o": [
-      "They look nicer",
-      "They account for light lost in the glass so meter readings are reliable",
+      "They measure depth of field more precisely than f-stops",
       "They change depth of field",
+      "They look nicer",
+      "They allow for light lost in the glass",
       "They set frame rate"
      ],
-     "a": 1,
+     "a": 3,
      "w": "T-stops include transmission loss, so exposure set by meter is exact. {{wiki-cine}}"
     },
     {
      "t": "check",
      "q": "A zoom lens is marked f/2 but its T-stop is T2.5. About how much light does its glass absorb?",
      "o": [
-      "About two-thirds of a stop",
       "About a quarter of a stop",
-      "A full stop",
-      "None"
+      "About half a stop (2.5 − 2)",
+      "About two-thirds of a stop",
+      "None",
+      "A full stop"
      ],
-     "a": 0,
+     "a": 2,
      "w": "A move from f/2 to T2.5 is a light ratio of about 1.56, about 0.64 of a stop (our arithmetic). {{fh-ch4}}"
     },
     {
@@ -460,6 +465,7 @@
       "1.37:1",
       "1.78:1",
       "1.33:1",
+      "1.66:1",
       "1.69:1"
      ],
      "a": 1,
@@ -469,12 +475,13 @@
      "t": "check",
      "q": "You crop a 1920 × 1080 picture to 2.39:1 at the same width. About how many pixels of height remain?",
      "o": [
-      "540",
-      "803",
       "960",
-      "1080"
+      "540",
+      "1080",
+      "1,200",
+      "803"
      ],
-     "a": 1,
+     "a": 4,
      "w": "1920 ÷ 2.39 is about 803 pixels.",
      "kind": "application"
     },
@@ -482,12 +489,13 @@
      "t": "check",
      "q": "You shoot full frame and plan to mask to widescreen later. What is the main risk?",
      "o": [
-      "Equipment or crew may be visible in the area that will be masked",
       "The picture will be softer",
       "The frame rate will change",
-      "The sound will drift"
+      "The sound will drift",
+      "Kit or crew may be visible in the masked area",
+      "The masked frame will need a different lens to look right"
      ],
-     "a": 0,
+     "a": 3,
      "w": "The unmasked top and bottom can show a microphone or light that the final mask hides. {{fa-ch5}}"
     },
     {
@@ -613,21 +621,23 @@
      "q": "Why are primes often used in professional work?",
      "o": [
       "They zoom",
-      "Greater optical quality and larger aperture openings",
+      "They have no glass",
+      "Better optics and wider apertures",
       "They are cheaper",
-      "They have no glass"
+      "They give more depth of field at any stop"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The source gives optical quality and speed as the reasons. {{wiki-cine}}"
     },
     {
      "t": "check",
      "q": "What is the purpose of an anamorphic lens?",
      "o": [
-      "To make the picture wider by squeezing it horizontally and unsqueezing later",
+      "To widen the picture by squeezing it, then unsqueezing",
       "To remove noise",
-      "To add colour",
-      "To change frame rate"
+      "To add depth of field without having to stop down the lens",
+      "To change frame rate",
+      "To add colour"
      ],
      "a": 0,
      "w": "Anamorphic formats produce a wider picture, about 2.39:1 on 35 mm. {{wiki-35mm}}"
@@ -717,24 +727,26 @@
      "t": "check",
      "q": "Two objects are 10 ft and 40 ft from the camera. Following the handbook's rule of thumb, where should you focus?",
      "o": [
+      "25 ft, halfway between them",
       "20 ft",
+      "10 ft",
       "25 ft",
-      "30 ft",
-      "10 ft"
+      "30 ft"
      ],
-     "a": 0,
+     "a": 1,
      "w": "Focus one third of the way from the nearer to the farther object: 10 + 30 ÷ 3 = 20 ft (our arithmetic). {{fh-ch4}}"
     },
     {
      "t": "check",
      "q": "You have a cine zoom. What is the correct order to set focus?",
      "o": [
-      "Zoom all the way in, set focus, then zoom out",
-      "Zoom all the way out, set focus, then zoom in",
-      "Set focus at the middle of the range",
-      "Leave autofocus on"
+      "Focus at the middle of the range",
+      "Leave autofocus on",
+      "Zoom fully out, focus, then zoom in, since wide shows the most detail",
+      "Zoom fully out, focus, then zoom in",
+      "Zoom fully in, focus, then zoom out"
      ],
-     "a": 0,
+     "a": 4,
      "w": "Depth of field is smallest at the longest focal length, so focus there. {{fh-ch4}}"
     },
     {
@@ -834,12 +846,13 @@
      "t": "check",
      "q": "You switch from a full-frame DSLR with a 50 mm lens to a Four Thirds camera and want the same framing. Roughly which lens?",
      "o": [
-      "12 mm",
       "24 mm",
+      "35 mm",
       "50 mm",
-      "100 mm"
+      "100 mm",
+      "12 mm"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The Four Thirds crop factor is about 0.5, so 50 mm becomes roughly 24 mm. {{fh-appe}}",
      "kind": "application"
     },
@@ -848,11 +861,12 @@
      "q": "If you focus at the hyperfocal distance, what is acceptably sharp?",
      "o": [
       "Only the focus point",
+      "From the focus point to twice that distance",
       "From half that distance to infinity",
-      "Only beyond the focus point",
-      "Nothing nearer than twice the distance"
+      "Nothing nearer than twice the distance",
+      "Only beyond the focus point"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Hyperfocal focus puts the near limit at half the distance. {{fh-appc}}"
     },
     {
@@ -947,24 +961,26 @@
      "t": "check",
      "q": "A long lens is most likely to do what to a crowd walking towards the camera?",
      "o": [
-      "Make them seem to approach slowly and squash into one plane",
+      "Spread them out so the gaps between them look larger",
+      "Stretch the foreground",
       "Make them seem to rush",
-      "Remove depth of field",
-      "Stretch the foreground"
+      "Make them seem slow and squash into one plane",
+      "Remove depth of field"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Long lenses flatten space and slow apparent approach. {{fa-ch5}}"
     },
     {
      "t": "check",
      "q": "Which is optical rather than a matter of staging?",
      "o": [
-      "Deep space",
-      "Deep focus",
+      "Frontality",
       "Overlap",
-      "Frontality"
+      "Staging in depth",
+      "Deep space",
+      "Deep focus"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Deep focus describes what is sharp, which depends on lens, aperture and light. {{fa-ch5}}"
     },
     {
@@ -1062,24 +1078,26 @@
      "t": "check",
      "q": "What did Arnheim say the barred-gate shot did?",
      "o": [
-      "It put the prison into a shot about freedom",
+      "It showed the prisoner's own view of the locked gate",
       "It hid the prisoner",
-      "It changed the lens",
-      "It slowed the action"
+      "It slowed the action",
+      "It put the prison into a shot about freedom",
+      "It changed the lens"
      ],
-     "a": 0,
+     "a": 3,
      "w": "The camera moved behind the bars, so the prison framed the free road. {{arnheim-making}}"
     },
     {
      "t": "check",
      "q": "Hitchcock's rule as Brown gives it says an object's size in frame should equal...",
      "o": [
-      "Its importance in the story at that moment",
-      "Its real size",
       "Its distance from the lens",
+      "Its importance in the story at that moment",
+      "Its size relative to the actors standing around it",
+      "Its real size",
       "Its brightness"
      ],
-     "a": 0,
+     "a": 1,
      "w": "Size in frame follows importance. {{brown-technique}}"
     },
     {
@@ -1191,11 +1209,12 @@
      "q": "A 2X extender has what exposure factor?",
      "o": [
       "2",
+      "16",
       "4",
-      "8",
-      "16"
+      "1 (no loss)",
+      "8"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Square the extension factor: 2 × 2 = 4, which is 2 stops. {{brown-optics}}",
      "kind": "application"
     },
@@ -1204,9 +1223,10 @@
      "q": "You fit a wider lens and move closer to keep the same frame. What happens to depth of field?",
      "o": [
       "About the same",
+      "Much deeper, since wide lenses always give more",
+      "It disappears",
       "Much deeper",
-      "Much shallower",
-      "It disappears"
+      "Much shallower"
      ],
      "a": 0,
      "w": "Image magnification is unchanged, so depth of field is about the same. {{brown-optics}}",
@@ -1264,22 +1284,24 @@
      "t": "check",
      "q": "Which is one of Block's seven components?",
      "o": [
-      "Rhythm",
+      "Exposure",
       "Aperture",
+      "Rhythm",
       "Focal length",
       "Shutter"
      ],
-     "a": 0,
+     "a": 2,
      "w": "The seven are space, line, shape, tone, colour, movement and rhythm. {{block-intro}}"
     },
     {
      "t": "check",
      "q": "What is TV safe, in the book's description?",
      "o": [
-      "A marking about 10 per cent inside the full frame",
-      "A shutter setting",
+      "A marking about 10% inside the full frame",
+      "A frame rate",
       "A kind of filter",
-      "A frame rate"
+      "A legal limit on picture brightness for broadcast",
+      "A shutter setting"
      ],
      "a": 0,
      "w": "Important elements should stay inside it. {{brown-frame}}"
@@ -1410,35 +1432,38 @@
      "q": "Which two changes did Toland say raise contrast?",
      "o": [
       "Fast film and long lenses",
-      "Coated lenses and reduced apertures",
+      "Low angles and ceilings",
+      "Uncoated lenses and wider apertures",
       "Arc lamps and muslin",
-      "Low angles and ceilings"
+      "Coated lenses and reduced apertures"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He says fast film flattens contrast, while coated lenses and reduced apertures increase it. {{toland-ac1941}}"
     },
     {
      "t": "check",
      "q": "You close from f/2.8 to f/11. About how much more light do you need?",
      "o": [
-      "Twice",
-      "Four times",
+      "About four times (11 ÷ 2.8)",
       "Sixteen times",
-      "Sixty-four times"
+      "Four times",
+      "Sixty-four times",
+      "Twice"
      ],
-     "a": 2,
+     "a": 1,
      "w": "Four stops is 2 to the power 4, which is 16."
     },
     {
      "t": "check",
      "q": "Does a focusing rule from a published example work for any lens?",
      "o": [
+      "Only at f/11",
+      "Yes, for any lens of the same focal length",
       "Yes",
-      "No, it depends on the lens and stop, so test it",
-      "Only on film",
-      "Only at f/11"
+      "No: it depends on lens and stop, so test",
+      "Only on film"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Our check shows his example holds only for a wide lens at a very small stop with a generous blur tolerance."
     },
     {

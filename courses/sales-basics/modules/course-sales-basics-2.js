@@ -82,12 +82,13 @@
      "t": "check",
      "q": "You have 300 names from a trade fair. Before you call any of them, what must happen for a name to count as a prospect rather than a lead?",
      "o": [
-      "There is none",
-      "A prospect is a lead qualified as ready, willing and able to buy",
-      "A lead is a paying customer",
-      "A prospect is anyone who visits a shop"
+      "It must have visited your stand twice",
+      "Nothing, since anyone who gave their name at a fair is a prospect already",
+      "It must be qualified as ready, willing and able to buy",
+      "It must have bought from you before",
+      "Nothing: every name is already a prospect"
      ],
-     "a": 1,
+     "a": 2,
      "w": "A lead is a potential buyer; a prospect has been qualified. {{ps-process}}",
      "kind": "application"
     },
@@ -95,12 +96,13 @@
      "t": "check",
      "q": "In the funnel illustration, why is it sensible to start with many leads?",
      "o": [
+      "Customers prefer crowds",
+      "Leads cost nothing",
       "Funnels are always wide",
       "Many will not qualify or will drop out",
-      "Leads cost nothing",
-      "Customers prefer crowds"
+      "Most leads will buy, so more leads mean more sales"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Not all leads become prospects and not all prospects buy, so a large pool improves your odds. {{ps-prospect}}"
     },
     {
@@ -237,10 +239,11 @@
      "t": "check",
      "q": "According to the text, what is the main purpose of a cold call?",
      "o": [
+      "To close a first sale on the call itself",
+      "To connect and see whether needs match",
       "To close a sale",
-      "To make a connection and find out whether needs match",
-      "To collect payment",
-      "To advertise"
+      "To advertise",
+      "To collect payment"
      ],
      "a": 1,
      "w": "The text says cold calling is about establishing a connection, not making the sale. {{ps-prospect2}}"
@@ -249,12 +252,13 @@
      "t": "check",
      "q": "A prospect asks you to call back in three months. What is the textbook's advice?",
      "o": [
+      "Agree a specific date, and ask permission",
+      "Call back next week, since interest fades fast",
+      "Send a long email",
       "Never call again",
-      "Agree a specific date and ask permission",
-      "Call weekly",
-      "Send a long email"
+      "Call weekly"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It suggests setting a specific time and asking permission. {{ps-prospect2}}",
      "kind": "application"
     },
@@ -358,11 +362,12 @@
      "q": "A manager loves your product but cannot sign the purchase. What is she?",
      "o": [
       "A qualified prospect",
-      "A lead who is not yet qualified because she lacks authority",
+      "A qualified prospect, since she clearly wants the product",
+      "Cold forever",
       "A customer",
-      "Cold forever"
+      "A lead not yet qualified: she lacks authority"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Without authority to buy, she is not yet a qualified prospect; find the decision maker. {{ps-prospect2}}",
      "kind": "application"
     },
@@ -370,12 +375,13 @@
      "t": "check",
      "q": "You are qualifying a café owner who loves your coffee machine. Which question tests ability to buy rather than willingness?",
      "o": [
-      "Do they want it?",
+      "Would they recommend it to other café owners?",
+      "Do they have time to talk?",
       "Do they have the resources?",
-      "Do they like you?",
-      "Do they have time to talk?"
+      "Do they want it?",
+      "Do they like you?"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Resources concern ability to pay. {{ps-prospect2}}",
      "kind": "application"
     },
@@ -471,12 +477,13 @@
      "t": "check",
      "q": "Which is intelligence rather than information?",
      "o": [
-      "Company address",
+      "Industry",
+      "A remark you overheard about their website complaints",
+      "The company's turnover, taken from its published annual accounts",
       "Employee count",
-      "A remark you overheard about the prospect's website complaints",
-      "Industry"
+      "Company address"
      ],
-     "a": 2,
+     "a": 1,
      "w": "Intelligence is insight competitors cannot easily find. {{ps-prospect2}}",
      "kind": "application"
     },
@@ -484,12 +491,13 @@
      "t": "check",
      "q": "When is a CMS enough?",
      "o": [
-      "Never",
-      "When you alone deal with the prospect",
+      "For public companies",
       "For large teams",
-      "For public companies"
+      "For large teams who all share one account",
+      "Never",
+      "When you alone deal with the prospect"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The text says a CMS suits a single seller such as a broker or agent. {{ps-prospect2}}"
     },
     {
@@ -623,24 +631,26 @@
      "t": "check",
      "q": "How were NCR quotas first set?",
      "o": [
-      "By the salesman's wish",
-      "By the population of the territory",
+      "By the territory's population",
+      "By a lottery",
+      "By last year's sales plus ten per cent",
       "By the weather",
-      "By a lottery"
+      "By the salesman's wish"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Initially quotas were set according to the population of the territory. {{friedman-full}}"
     },
     {
      "t": "check",
      "q": "A territory of 12,000 people at one register per 400 gives what quota?",
      "o": [
+      "40",
       "12",
+      "480",
       "30",
-      "300",
-      "480"
+      "300"
      ],
-     "a": 1,
+     "a": 3,
      "w": "12,000 ÷ 400 = 30.",
      "kind": "application"
     },
@@ -648,10 +658,11 @@
      "t": "check",
      "q": "Your weekly target is 20 conversations and by Friday you have had 12. What percentage of target is that?",
      "o": [
-      "40",
-      "50",
+      "70",
+      "12",
       "60",
-      "70"
+      "50",
+      "40"
      ],
      "a": 2,
      "w": "12 divided by 20 is 0.6, or 60 per cent.",

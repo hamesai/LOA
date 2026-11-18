@@ -112,12 +112,13 @@
      "t": "check",
      "q": "A podcast says 'Rome sowed Carthage with salt in 146 BCE'. What is your verdict?",
      "o": [
-      "A well attested Roman act",
-      "The destruction of 146 BCE is firm; the salting has no ancient source and is a modern myth",
-      "Proved by excavation",
-      "Reported by Polybius"
+      "The salting is firm, since Roman law required it for any rebellious city",
+      "Both are firm: Polybius saw the salting and recorded it as an eyewitness",
+      "The salting is firm from excavated salt layers, but the date is uncertain",
+      "The destruction in 146 BCE is firm; the salting has no ancient source",
+      "Both are myths: Carthage surrendered in 146 BCE and was never destroyed"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Keep the destruction, drop the salt.",
      "kind": "application"
     },
@@ -125,12 +126,13 @@
      "t": "check",
      "q": "You want to know what the Donatists themselves believed. Why is Augustine a risky main source?",
      "o": [
-      "He was not African",
+      "He was not African, so he misread local Christianity",
+      "He wrote in Punic, which is now poorly understood",
       "He was their opponent, so his account is hostile",
-      "He wrote after 1500",
-      "He wrote in Punic"
+      "He was a Donatist himself, so his account is partisan",
+      "He wrote centuries later, from copies of their writings"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Donatism is known mainly through its opponent. {{gha1-djait}}",
      "kind": "application"
     },
@@ -297,12 +299,13 @@
      "t": "check",
      "q": "A travel guide says 'the Almohads founded Marrakesh in 1062'. What two things are wrong?",
      "o": [
-      "Nothing",
-      "The founders were the Almoravids, and the revised date is 1070",
-      "Marrakesh was Roman",
-      "The date should be 1212"
+      "The founders were the Almohads, but the revised date is 1147",
+      "The founders were the Almoravids, but the date should be 1212",
+      "The founders were the Marinids, and the revised date is 1070",
+      "Nothing: the Almohads founded it, and 1062 is the agreed founding date",
+      "The founders were the Almoravids, and the revised date is 1070"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The Almoravids founded it in 463 AH, 1070. {{gha3-alm}}",
      "kind": "application"
     },
@@ -310,10 +313,11 @@
      "t": "check",
      "q": "A student writes that the Almoravids were 'the men of the fortress' from a ribat on Tidra island. What should you check before accepting it?",
      "o": [
-      "Nothing; it is certain",
-      "The fortress reading rests on one late source, and the 1966 Tidra dig found no ribat",
-      "Whether Tidra is in Egypt",
-      "Whether the name is Greek"
+      "Only whether the ribat was on Tidra or on the Senegal river instead",
+      "That the reading rests on one late source, and the Tidra dig found no ribat",
+      "Whether the name comes from Greek rather than Arabic or Berber",
+      "Only the date, since the ribat reading itself is agreed by all sources",
+      "Nothing: the 1966 excavation on Tidra uncovered the ribat's stone foundations intact"
      ],
      "a": 1,
      "w": "The fortress reading has been abandoned. {{gha3-alm}}",
@@ -487,12 +491,13 @@
      "t": "check",
      "q": "A caravan leaves Walata for Sijilmasa. Which load fits the evidence for the trade?",
      "o": [
-      "Salt and cloth",
       "Gold and enslaved people",
       "Copper ingots for the Maghrib's smiths",
-      "Horses"
+      "Salt and North African cloth",
+      "Cowrie shells for the Mediterranean",
+      "Horses for the Maghrib's armies"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Gold and enslaved people moved north; cloth and luxuries south; salt both ways. {{gha3-devisse}}",
      "kind": "application"
     },
@@ -500,12 +505,13 @@
      "t": "check",
      "q": "A website says Mali exported 'several thousand tons of gold a year'. What is the best supported correction?",
      "o": [
-      "It is right",
-      "Estimates for all African gold going north are about 4 to 8 tonnes a year, or under 4 on Mauny's figure",
-      "No gold went north",
-      "Gold went south"
+      "No gold went north; Mali's gold all went to the Atlantic coast",
+      "It is right: Mansa Musa's pilgrimage alone carried several thousand tons",
+      "All African gold going north is put at about 4 to 8 tonnes a year",
+      "Estimates put Mali alone at about 400 to 800 tonnes a year",
+      "It is about right, give or take a few hundred tonnes either side"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The tonnage estimates are small and uncertain. {{gha4-inter}}",
      "kind": "application"
     },
@@ -604,12 +610,13 @@
      "t": "check",
      "q": "A poster says 'Mansa Musa founded the University of Sankore'. What can you say instead?",
      "o": [
-      "The poster is right",
-      "Sankore was a set of mosque schools with no founding act, repaired in 1569",
-      "Sankore was built by the Portuguese",
-      "Sankore was a library only"
+      "Sankore was founded in 1569, when the mosque was repaired",
+      "Sankore was founded by Sunni Ali, Songhai's first great king",
+      "Sankore was a royal library, not a place of teaching at all",
+      "The poster is right: Musa chartered Sankore after his pilgrimage",
+      "Sankore was a set of mosque schools with no founding act"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Sankore grew as mosque schools without a founding act. {{dpc-tech-010}}",
      "kind": "application"
     },
@@ -617,12 +624,13 @@
      "t": "check",
      "q": "A student writes that Ahmad Baba condemned slavery. How should the sentence be corrected?",
      "o": [
-      "It is correct",
-      "He argued colour was no lawful ground and only non-Muslims could be enslaved on religious grounds; he limited slavery rather than condemning it",
-      "He defended enslavement by colour",
-      "He never wrote on slavery"
+      "He defended enslavement by colour, so the sentence reverses his view",
+      "He condemned slavery outright, though only in the case of fellow Muslims enslaved by colour",
+      "He never wrote on slavery; the claim confuses him with another scholar",
+      "He limited slavery, ruling out colour as a lawful ground, but did not condemn it",
+      "It is correct: he called for an end to all enslavement in the Sudan"
      ],
-     "a": 1,
+     "a": 3,
      "w": "His opinion rejected colour as a criterion. {{duke-race}}",
      "kind": "application"
     },
@@ -718,12 +726,13 @@
      "t": "check",
      "q": "A summary says 'the Ottomans ruled all of North Africa from 1517'. What is the correction?",
      "o": [
-      "It is right",
-      "Egypt fell in 1517 and the regencies followed by 1574, but they became largely independent, and Morocco was never Ottoman",
-      "Morocco was Ottoman first",
-      "Egypt stayed Mamluk"
+      "Egypt fell in 1517, the regencies grew independent, and Morocco was never Ottoman",
+      "It is right: all of North Africa, Morocco included, was Ottoman from 1517",
+      "Egypt stayed Mamluk until 1798, so Ottoman rule began in the regencies",
+      "The regencies fell in 1517, but Egypt was taken only after the 1574 campaign",
+      "Morocco fell to the Ottomans first, in 1517, and Egypt followed it into Ottoman rule by 1574"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Morocco stayed outside Ottoman rule; the regencies paid no regular tribute. {{gha5-morocco}} {{gha5-maghrib}}",
      "kind": "application"
     },
@@ -731,10 +740,11 @@
      "t": "check",
      "q": "A modern history praises a ruler and is written by a descendant of his ally. How should you use it?",
      "o": [
-      "Trust its judgements fully",
-      "Use its dates and documents, and treat its judgements as an interested narrator's",
-      "Ignore it completely",
-      "Use it only for numbers"
+      "Use its judgements, but check its dates against a rival family's",
+      "Use its dates and documents; treat its judgements as interested",
+      "Trust its judgements, since family archives give inside knowledge",
+      "Ignore it completely, since any interest makes a source worthless",
+      "Use it only for numbers, which interested writers never distort"
      ],
      "a": 1,
      "w": "Separate the documents from the narrator's verdicts. {{gha5-morocco}}",
@@ -843,12 +853,13 @@
      "t": "check",
      "q": "Which feature do all four rewrites share?",
      "o": [
-      "They delete the claim",
+      "They add numbers to make each claim checkable",
+      "They add a firm date to each vague claim",
       "They name the source and the strength of evidence",
-      "They add dates",
-      "They add numbers"
+      "They replace each claim with a direct quotation from a scholar",
+      "They delete the claim when the evidence is weak"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Rewrite so the sentence matches its evidence.",
      "kind": "application"
     },
@@ -856,12 +867,13 @@
      "t": "check",
      "q": "A quiz show lists four pairs as 'Roman Africa'. Which is the only pair that belongs?",
      "o": [
+      "Kilwa and Afonso I",
       "Leptis Magna and Augustine of Hippo",
+      "Aksum and the stone inscription of Ezana",
       "Great Zimbabwe and Shaka",
-      "Timbuktu and Sunni Ali",
-      "Kilwa and Afonso I"
+      "Timbuktu and Sunni Ali"
      ],
-     "a": 0,
+     "a": 1,
      "w": "Leptis Magna and Hippo were Roman African cities. {{oxford-roman-africa}}",
      "kind": "application"
     },
@@ -962,24 +974,26 @@
      "t": "check",
      "q": "What did Ibn Khaldun become in Cairo in 1384?",
      "o": [
-      "A sultan",
       "Professor and chief Maliki judge",
-      "A merchant",
-      "A Mahdi"
+      "Head librarian of the al-Azhar mosque",
+      "Vizier to the Mamluk sultan",
+      "Chief Hanafi judge of Egypt",
+      "Envoy to the court of Timur"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Wikipedia reports both appointments. {{wiki-khaldun}}"
     },
     {
      "t": "check",
      "q": "Why can a general lens not settle the Ghana question?",
      "o": [
-      "It is too old",
-      "The evidence is thin and late and archaeology shows no clear destruction",
-      "Ghana is not in Africa",
-      "Ibn Khaldun never mentioned it"
+      "The archaeology already proves the conquest, so no lens is needed",
+      "Ibn Khaldun never mentioned Ghana, so his ideas cannot reach it",
+      "The lens is too old to apply to West African states at all",
+      "The evidence is thin and late, and no clear destruction is found",
+      "Lenses settle questions only when written sources are absent"
      ],
-     "a": 1,
+     "a": 3,
      "w": "A lens frames questions; evidence answers them."
     },
     {

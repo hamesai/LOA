@@ -103,14 +103,15 @@
     },
     {
      "t": "check",
-     "q": "You are staging a play in the round with almost no set. What does Garcia say this asks of the acting?",
+     "q": "You are staging a play with the audience on all sides and almost no set. Which layout is this?",
      "o": [
+      "Black box",
+      "Proscenium with a thrust apron",
       "Proscenium",
       "Thrust",
-      "Round",
-      "A film set"
+      "In the round"
      ],
-     "a": 2,
+     "a": 4,
      "w": "He says round theatre relies on story and acting, with few set elements. {{garcia}}",
      "kind": "application"
     },
@@ -118,12 +119,13 @@
      "t": "check",
      "q": "What is a ground plan?",
      "o": [
-      "A seating chart",
-      "A bird's-eye view of the stage and its main set pieces",
+      "A bird's-eye view of the stage and main set pieces",
+      "A side view of the set showing the heights of each piece",
+      "A cast list",
       "A budget",
-      "A cast list"
+      "A seating chart"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It is an aerial view that outlines the basic set pieces. {{garcia}}"
     },
     {
@@ -244,12 +246,13 @@
      "t": "check",
      "q": "Your budget is cut by half. What does Garcia say you cannot cut?",
      "o": [
-      "Costumes",
-      "Production rights",
       "Posters",
+      "Set and lighting hire",
+      "Production rights",
+      "Costumes",
       "Programmes"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He says production rights are absolutely necessary. {{garcia}}",
      "kind": "application"
     },
@@ -258,11 +261,12 @@
      "q": "With the invented numbers above, what is the total expense?",
      "o": [
       "$600",
-      "$750",
       "$870",
+      "$1,740",
+      "$750",
       "$3,000"
      ],
-     "a": 2,
+     "a": 1,
      "w": "$600 + $150 + $120 = $870 (illustrative).",
      "kind": "application"
     },
@@ -365,11 +369,12 @@
      "q": "Tech week starts tomorrow and you have a list of acting notes. What does Garcia advise?",
      "o": [
       "Give many notes",
+      "Give every acting note during tech so the actors are ready",
+      "Rehearse lines in tech",
       "Tell actors beforehand that there will be none",
-      "Replace the actors",
-      "Rehearse lines in tech"
+      "Replace the actors"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He says to warn the actors you will focus on the theatrical elements instead. {{garcia}}",
      "kind": "application"
     },
@@ -377,12 +382,13 @@
      "t": "check",
      "q": "Who takes leadership of the show after opening, in Garcia's account?",
      "o": [
-      "The director",
-      "The stage manager",
+      "The audience",
+      "The director, from the booth",
       "The lighting designer",
-      "The audience"
+      "The director",
+      "The stage manager"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Leadership belongs to the stage manager once the show opens. {{garcia}}"
     },
     {
@@ -513,12 +519,13 @@
      "t": "check",
      "q": "What did Brook's 1970 Dream use in place of a forest set?",
      "o": [
-      "A white box with circus skills",
       "Real trees",
       "Video",
-      "A painted curtain"
+      "A painted curtain",
+      "A white box with circus skills",
+      "A forest of painted flats and real leaves"
      ],
-     "a": 0,
+     "a": 3,
      "w": "The RSC says Sally Jacobs built a brilliantly lit white box in place of the usual pretty forest. {{rsc-dream}}"
     },
     {
@@ -526,21 +533,23 @@
      "q": "Which actors were doubled in the RSC's account?",
      "o": [
       "Puck and Bottom",
-      "Oberon with Theseus, and Titania with Hippolyta",
       "Lysander and Demetrius",
+      "Oberon with Theseus, Titania with Hippolyta",
+      "Oberon with Bottom, and Titania with Hermia",
       "None"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Oberon and Theseus were played by one actor and Titania and Hippolyta by one. {{rsc-dream}}"
     },
     {
      "t": "check",
      "q": "How many elements survive if you keep 3 of 10?",
      "o": [
-      "10%",
-      "30%",
       "50%",
-      "70%"
+      "30%",
+      "70%",
+      "10%",
+      "3%"
      ],
      "a": 1,
      "w": "3 ÷ 10 = 30%."

@@ -137,12 +137,13 @@
     },
     {
      "t": "check",
-     "q": "You have turned a written report into a speech word for word. What should you change, given how oral language differs?",
+     "q": "You have turned a written report into a speech word for word. Given how oral language differs, what should you change?",
      "o": [
-      "Oral language uses longer sentences",
-      "Oral language uses more repetition and contractions",
-      "Oral language has more precise numbers",
-      "Oral language avoids 'I'"
+      "Lengthen the sentences and add more exact figures",
+      "Add repetition and contractions",
+      "Lengthen the sentences",
+      "Remove every 'I'",
+      "Add more precise numbers"
      ],
      "a": 1,
      "w": "The text lists more repetition and more contractions for speech. {{sus-lang1}}",
@@ -152,12 +153,13 @@
      "t": "check",
      "q": "'Love is a battlefield' is a:",
      "o": [
-      "Simile",
-      "Metaphor",
+      "Denotation",
       "Alliteration",
-      "Denotation"
+      "Simile (a comparison)",
+      "Metaphor",
+      "Simile"
      ],
-     "a": 1,
+     "a": 3,
      "w": "It states the comparison without 'like' or 'as'. {{sus-lang2}}",
      "kind": "application"
     },
@@ -320,24 +322,26 @@
      "t": "check",
      "q": "What should you do the first time you use an acronym in a speech?",
      "o": [
-      "Assume everyone knows it",
       "Explain it",
+      "Avoid the topic",
+      "Assume everyone knows it",
       "Spell it backwards",
-      "Avoid the topic"
+      "Use it, and explain it at the end"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The text says to explain acronyms and initialisms on first use. {{sus-lang3}}"
     },
     {
      "t": "check",
      "q": "Which is a disqualifier?",
      "o": [
+      "'Let me show you a map.'",
       "'I have three points.'",
-      "'I'm not really an expert on this, but...'",
+      "'Let me begin with a short story about my first job.'",
       "'First, the cost.'",
-      "'Let me show you a map.'"
+      "'I'm not really an expert on this, but...'"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Disqualifiers downplay your competence. {{sus-lang3}}",
      "kind": "application"
     },
@@ -465,10 +469,11 @@
      "t": "check",
      "q": "You are giving a 10-minute update to your team next week. Which delivery method suits it best?",
      "o": [
-      "Memorised",
       "Manuscript",
+      "Impromptu",
       "Extemporaneous",
-      "Impromptu"
+      "Memorised",
+      "Manuscript, for accuracy"
      ],
      "a": 2,
      "w": "The text says extemporaneous speaking is used in the great majority of situations. {{sus-deliv1}}",
@@ -478,12 +483,13 @@
      "t": "check",
      "q": "A speaker who mumbles is told a microphone will fix it. What will the microphone actually do?",
      "o": [
+      "It replaces notes",
       "It clarifies mumbling",
-      "It amplifies, not clarifies",
       "It removes nerves",
-      "It replaces notes"
+      "It clarifies the words by boosting them",
+      "It amplifies, not clarifies"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The text says it only amplifies. {{sus-deliv2}}",
      "kind": "application"
     },
@@ -632,14 +638,15 @@
     },
     {
      "t": "check",
-     "q": "You think your talk went well but a friend says you swayed throughout. What should you do in rehearsal, and why?",
+     "q": "You think your talk went well but a friend says you swayed throughout. Why record your rehearsal?",
      "o": [
-      "To memorise the speech",
       "To see and hear your delivery as the audience does",
       "To avoid practising",
-      "To make the speech shorter"
+      "To prove to your friend that the swaying cannot be seen from the floor",
+      "To make the speech shorter",
+      "To memorise the speech"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Recordings show how you come across and reveal habits like reading from cards. {{sus-practice}}",
      "kind": "application"
     },
@@ -648,11 +655,12 @@
      "q": "What does the text say about the 55-38-7 figures?",
      "o": [
       "They are exact rules for all speeches",
-      "Scholars, including Mehrabian, say they are often misinterpreted",
-      "They apply only to radio",
-      "They prove words do not matter"
+      "They prove words do not matter",
+      "Scholars, Mehrabian included, say they are often misread",
+      "They are exact rules showing words matter only 7 percent in every speech",
+      "They apply only to radio"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The text notes the findings are often misinterpreted. {{sus-practice}}"
     },
     {
@@ -803,21 +811,23 @@
      "q": "How old was Churchill when he wrote The Scaffolding of Rhetoric?",
      "o": [
       "15",
-      "23",
+      "60",
       "40",
-      "60"
+      "23",
+      "33"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He wrote it in November 1897 when he was 23. {{churchill-pdf}}"
     },
     {
      "t": "check",
      "q": "What did Churchill say about analogy?",
      "o": [
+      "It is only for children",
+      "It leads to conviction, not proof, and often to error",
       "It proves the claim",
-      "It leads to conviction rather than proof and has often led to error",
-      "It should be avoided",
-      "It is only for children"
+      "It proves a claim more surely than any evidence or argument can",
+      "It should be avoided"
      ],
      "a": 1,
      "w": "He said argument by analogy leads to conviction rather than proof. {{churchill-pdf}}"
@@ -826,12 +836,13 @@
      "t": "check",
      "q": "Which word type did he say great English orators preferred?",
      "o": [
-      "Long Latin words",
       "Short, homely words of common usage",
       "Technical terms",
-      "Foreign words"
+      "Foreign words",
+      "Long Latin words",
+      "Long, grand words drawn from Latin and Greek"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He noted a uniform preference for short, homely words. {{churchill-pdf}}"
     },
     {

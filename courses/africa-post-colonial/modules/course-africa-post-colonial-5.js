@@ -109,12 +109,13 @@
      "t": "check",
      "q": "A student says apartheid's land policy began in 1948. Which earlier law undermines that, and what did it do?",
      "o": [
-      "The Natives Land Act of 1913, which confined Africans to reserves of about 7 per cent of the land",
-      "The Group Areas Act",
-      "The Freedom Charter",
-      "The Bantu Education Act"
+      "The Bantu Education Act, which tied schools to the reserves",
+      "The 1936 Land Act, which first created the reserves at 13% of the land",
+      "The 1913 Natives Land Act, which kept Africans to about 7% of land",
+      "The Freedom Charter, which set out land rights in 1955",
+      "The Group Areas Act, which divided the cities by race before 1948"
      ],
-     "a": 0,
+     "a": 2,
      "w": "Segregation of land long predates 1948. {{trc-vol1}}",
      "kind": "application"
     },
@@ -122,12 +123,13 @@
      "t": "check",
      "q": "A documentary says the National Party was the first South African government to shoot protesters. Which evidence answers that?",
      "o": [
-      "None",
-      "Troops killed protesters at Bulhoek in 1921 and the Rand strike of 1913 left over 100 dead",
-      "Sharpeville",
-      "Soweto"
+      "Troops killed protesters at Bulhoek in 1921, and the 1913 Rand strike left 100+ dead",
+      "The 1946 miners' strike, which was broken only by arrests, with no one shot by police or troops",
+      "Sharpeville, which happened under the National Party in 1960",
+      "None: the claim is correct, since earlier governments never fired on crowds",
+      "Soweto, which happened under the National Party in 1976"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Earlier governments used lethal force too. {{trc-vol1}}",
      "kind": "application"
     },
@@ -232,7 +234,7 @@
        "Removed the last non-white voters from the common roll {{w-apartheid}}"
       ]
      ],
-     "src": "{{lib}} {{w-apartheid}}"
+     "src": "{{w-apartheid}}"
     },
     {
      "t": "table",
@@ -306,10 +308,11 @@
      "t": "check",
      "q": "The National Party won in 1948 with under 40 per cent of the votes. How?",
      "o": [
-      "It did not",
-      "First-past-the-post and rural over-representation turned a minority of votes into a majority of seats",
-      "Africans voted for it",
-      "The election was cancelled"
+      "A coalition with the United Party gave it a majority of votes",
+      "First-past-the-post and rural over-representation",
+      "The election was cancelled and power was handed over",
+      "It did not: it won a clear majority of votes cast",
+      "African voters supported it in the Cape"
      ],
      "a": 1,
      "w": "The electoral system shaped the result. {{w-origins}}",
@@ -319,12 +322,13 @@
      "t": "check",
      "q": "A source says apartheid was a fixed plan from 1948. What evidence supports, and what complicates, that reading?",
      "o": [
-      "Nothing complicates it",
-      "The Sauer report's proposals were nearly all enacted, but a minister admitted in 1948 the method was still to be worked out",
-      "No laws were passed",
-      "It was a single law"
+      "Nothing complicates it: every law was drafted before the election",
+      "It was improvised entirely, with no report or programme of any kind written before 1948",
+      "It was a single law passed in 1948",
+      "No laws were passed until 1960, so there was no plan",
+      "The Sauer report was mostly enacted, but the method was still unsettled in 1948"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Both readings have evidence. {{w-apartheid}}",
      "kind": "application"
     },
@@ -379,7 +383,7 @@
       [
        "Apartheid-era police record",
        "69",
-       "180 {{lib}}"
+       "180 {{wiki-sharpeville}}"
       ],
       [
        "UNESCO volume VIII (1993)",
@@ -392,7 +396,7 @@
        "At least 238 {{wiki-sharpeville}}"
       ]
      ],
-     "src": "{{lib}} {{gha-viii-ch10}} {{wiki-sharpeville}}"
+     "src": "{{gha-viii-ch10}} {{wiki-sharpeville}}"
     },
     {
      "t": "example",
@@ -427,7 +431,7 @@
     },
     {
      "t": "p",
-     "x": "Mandela was arrested on 05/08/1962 after 17 months underground. After 86 days of trial at Rivonia, eight of ten accused were convicted and given life; the judge declined the death penalty because the charge was sabotage, not treason. {{w-opp}} They were sentenced on 12/06/1964. {{lib}}"
+     "x": "Mandela was arrested on 05/08/1962 after 17 months underground. After 86 days of trial at Rivonia, eight of ten accused were convicted and given life; the judge declined the death penalty because the charge was sabotage, not treason. {{w-opp}} They were sentenced on 12/06/1964. {{nmf-trials}}"
     },
     {
      "t": "h",
@@ -435,7 +439,7 @@
     },
     {
      "t": "p",
-     "x": "In his statement of 20/04/1964 Mandela says he planned sabotage after a calm assessment, that Umkhonto chose sabotage over guerrilla war, terrorism or open revolution, and that he was prepared to die for a democratic ideal. {{mandela-dock}} {{lib}}"
+     "x": "In his statement of 20/04/1964 Mandela says he planned sabotage after a calm assessment, that Umkhonto chose sabotage over guerrilla war, terrorism or open revolution, and that he was prepared to die for a democratic ideal. {{mandela-dock}}"
     },
     {
      "t": "p",
@@ -486,7 +490,7 @@
     },
     {
      "t": "p",
-     "x": "On 16/06/1976 Soweto schoolchildren protested the compulsion to use Afrikaans in teaching. Police shot into the march, and Hector Pieterson, aged 12 or 13 (sources differ), became its symbol. {{lib}}"
+     "x": "On 16/06/1976 Soweto schoolchildren protested the compulsion to use Afrikaans in teaching. Police shot into the march, and Hector Pieterson, aged 12 or 13 (sources differ), became its symbol. {{w-soweto}}"
     },
     {
      "t": "p",
@@ -504,12 +508,13 @@
      "t": "check",
      "q": "A pamphlet gives Sharpeville as '69 dead'. What should you add?",
      "o": [
-      "Nothing",
-      "That 69 is the police record, and later research puts it at least 91",
-      "That nobody died",
-      "That Mandela counted them"
+      "Nothing: 69 is the agreed figure from every source",
+      "That 69 is the commission's figure, and that the police themselves gave about 300",
+      "That nobody died; the deaths came later in hospital",
+      "That 69 is the police record, and later research says at least 91",
+      "That Mandela counted them himself at the time"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The apartheid-era record undercounted. {{wiki-sharpeville}}",
      "kind": "application"
     },
@@ -517,12 +522,13 @@
      "t": "check",
      "q": "You are writing a caption for a photograph of the 16 June 1976 march. Which caption fits the evidence?",
      "o": [
-      "Students protest a trade fair",
-      "Students protest compulsory Afrikaans in teaching, in schools far over capacity",
-      "Workers protest wages",
-      "Students celebrate independence"
+      "Workers protest wages on the Rand",
+      "Students protest the arrest of Steve Biko, who had died in custody",
+      "Students protest a trade fair in Johannesburg",
+      "Students celebrate independence",
+      "Students protest compulsory Afrikaans, in overcrowded schools"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The language rule was the fuse; overcrowding and underfunding were the charge. {{w-soweto}}",
      "kind": "application"
     },
@@ -555,7 +561,7 @@
     },
     {
      "t": "p",
-     "x": "The UDF was formed in 1983 from over 500 organisations. {{trc-vol2}} COSATU followed in 1985. {{lib}} A nationwide state of emergency ran from 12/06/1986 to 1990. {{w-80s}} {{lib}}"
+     "x": "The UDF was formed in 1983 from over 500 organisations. {{trc-vol2}} COSATU followed in 1985. {{w-resist}} A nationwide state of emergency ran from 12/06/1986 to 1990. {{w-80s}} {{w-resist}}"
     },
     {
      "t": "p",
@@ -567,7 +573,7 @@
     },
     {
      "t": "p",
-     "x": "The US Congress passed sanctions over Reagan's veto in 1986. Economic isolation, capital flight and war in Angola and Namibia increased pressure. {{lib}}"
+     "x": "The US Congress passed sanctions over Reagan's veto in 1986. Economic isolation, capital flight and war in Angola and Namibia increased pressure. {{caaa-house}} {{w-80s}}"
     },
     {
      "t": "h",
@@ -597,7 +603,7 @@
     },
     {
      "t": "p",
-     "x": "F. W. de Klerk became State President after Botha's forced resignation on 14/08/1989. On 02/02/1990 he unbanned the ANC, PAC and Communist Party and announced Mandela's release, which took place on 11/02/1990. {{w-80s}} {{w-pandora}} {{lib}}"
+     "x": "F. W. de Klerk became State President after Botha's forced resignation on 14/08/1989. On 02/02/1990 he unbanned the ANC, PAC and Communist Party and announced Mandela's release, which took place on 11/02/1990. {{w-80s}} {{w-pandora}} {{gha-ix}}"
     },
     {
      "t": "p",
@@ -605,7 +611,7 @@
     },
     {
      "t": "p",
-     "x": "Talks were interrupted by violence, such as the Boipatong massacre in 06/1992 and the assassination of Chris Hani on 10/04/1993. The interim constitution was adopted on 18/11/1993. {{w-interim}} {{lib}}"
+     "x": "Talks were interrupted by violence, such as the Boipatong massacre in 06/1992 and the assassination of Chris Hani on 10/04/1993. The interim constitution was adopted on 18/11/1993. {{w-interim}} {{w-pandora}} {{saho-negotiating}}"
     },
     {
      "t": "p",
@@ -617,7 +623,7 @@
     },
     {
      "t": "p",
-     "x": "The first all-race elections were held in April 1994, with the main voting day on 27/04/1994. The ANC won about 62.65 per cent. Mandela was inaugurated on 10/05/1994 [FIRM]. {{lib}}"
+     "x": "The first all-race elections were held in April 1994, with the main voting day on 27/04/1994. The ANC won about 62.65 per cent. Mandela was inaugurated on 10/05/1994 [FIRM]. {{w-election}} {{govza-milestones}}"
     },
     {
      "t": "example",
@@ -635,7 +641,7 @@
     },
     {
      "t": "p",
-     "x": "The TRC (1996 to 1998, chaired by Desmond Tutu, final volumes in 2003) took testimony in exchange for amnesty. It is not a court. {{lib}}"
+     "x": "The TRC (1996 to 1998, chaired by Desmond Tutu, final volumes in 2003) took testimony in exchange for amnesty. It is not a court. {{govza-milestones}} {{trc-vol5}}"
     },
     {
      "t": "p",
@@ -684,32 +690,34 @@
      "t": "check",
      "q": "A student calls the TRC 'a court that punished apartheid's crimes'. What should you correct?",
      "o": [
-      "It was a court",
-      "It offered amnesty in exchange for truth, judged on a balance of probabilities, and was not a court",
-      "It replaced the courts",
-      "It had no powers"
+      "It was a court, which sentenced the worst offenders to prison",
+      "It traded amnesty for truth, used a balance of probabilities, and was not a court",
+      "It was a court for police officers only, and a fact-finding commission for the politicians",
+      "It replaced the courts for all crimes committed under apartheid",
+      "It had no powers of any kind and could only hear testimony"
      ],
      "a": 1,
-     "w": "Findings, not verdicts. {{trc-vol5}} {{lib}}",
+     "w": "Findings, not verdicts. {{trc-vol5}}",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "Someone uses the TRC's count of victims as the total harm of apartheid. What is the flaw?",
      "o": [
-      "None",
-      "The mandate covered only gross violations; pass laws, removals and Bantu Education fell outside it",
-      "The TRC counted everyone",
-      "The TRC was secret"
+      "None: the TRC counted every person harmed by apartheid laws",
+      "The TRC was secret, so its count cannot be checked",
+      "The TRC counted everyone, but only for the years after 1976",
+      "It covered only gross violations, not pass laws, removals or schooling",
+      "It counted only deaths, and left out torture and detention without trial altogether"
      ],
-     "a": 1,
+     "a": 3,
      "w": "A source's mandate limits what it counts. {{trc-vol1}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "De Klerk unbanned the ANC on 02/02/1990; Mandela was freed on 11/02/1990. {{lib}}",
+      "De Klerk unbanned the ANC on 02/02/1990; Mandela was freed on 11/02/1990.",
       "The ANC won about 62.65 per cent on 27/04/1994 [FIRM].",
       "The TRC is a source with a narrow mandate, not a court."
      ]
@@ -723,7 +731,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Historians offer several explanations for the end of apartheid, and most see a combination [CONTESTED]. {{lib}}"
+     "x": "Historians offer several explanations for the end of apartheid, and most see a combination [CONTESTED]. {{w-concl}}"
     },
     {
      "t": "table",
@@ -736,12 +744,12 @@
      "rows": [
       [
        "Internal resistance and mass mobilisation",
-       "UDF and COSATU; unrest from 1976 {{lib}}",
+       "UDF and COSATU; unrest from 1976 {{w-resist}}",
        "Repression held the state together for years"
       ],
       [
        "Economic pressure and sanctions",
-       "US sanctions of 1986; the debt standstill of 07/1985; capital flight {{lib}}",
+       "US sanctions of 1986; the debt standstill of 07/1985; capital flight {{caaa-house}} {{w-80s}}",
        "Sanctions' effect is hard to isolate"
       ],
       [
@@ -761,11 +769,11 @@
       ],
       [
        "The end of the Cold War",
-       "The 'communist threat' justification weakened in 1989 {{lib}}",
+       "The 'communist threat' justification weakened in 1989 {{w-groping}}",
        "Talks began before the Cold War's end"
       ]
      ],
-     "src": "{{lib}} {{w-afrik}} {{w-concl}} {{rd-endsa}}"
+     "src": "{{w-afrik}} {{w-concl}} {{rd-endsa}}"
     },
     {
      "t": "p",
@@ -801,18 +809,19 @@
     {
      "t": "callout",
      "k": "warn",
-     "x": "Do not credit one person. De Klerk and Mandela were central to the negotiation, but crediting a single person is a common mistake. {{lib}}"
+     "x": "Do not credit one person. De Klerk and Mandela were central to the negotiation, but crediting a single person is a common mistake."
     },
     {
      "t": "check",
      "q": "An exam answer says apartheid ended because De Klerk changed his mind. What is the best answer?",
      "o": [
-      "De Klerk decided alone",
-      "A combination of resistance, economic and demographic pressure, recognised stalemate and the Cold War's end, turned into a settlement by negotiation",
-      "Sanctions only",
-      "It never ended"
+      "Resistance, economic pressure, stalemate and the Cold War's end, then negotiation",
+      "Sanctions alone forced the government to surrender",
+      "De Klerk decided alone, after a change of conscience in 1989",
+      "It never ended; it was renamed in 1994",
+      "A military defeat of the army by the ANC's armed wing in 1990, which forced the government to surrender"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Most scholars see a combination [CONTESTED]. {{w-concl}}",
      "kind": "application"
     },
@@ -820,13 +829,14 @@
      "t": "check",
      "q": "A critic says South Africa got political change but not economic change in 1994. Which argument are they making?",
      "o": [
+      "The new constitution nationalised all land and mines",
+      "The TRC was a court that seized property",
       "Negotiation left economic power with the old elite",
-      "The ANC lost the election",
-      "Sanctions were never imposed",
-      "The TRC was a court"
+      "The ANC lost the 1994 election",
+      "Sanctions were never imposed"
      ],
-     "a": 0,
-     "w": "It is one reading of the settlement. {{lib}}",
+     "a": 2,
+     "w": "It is one reading of the settlement.",
      "kind": "application"
     },
     {
@@ -864,8 +874,8 @@
     {
      "t": "ol",
      "i": [
-      "Define each term before using it: law, policy, event. {{lib}}",
-      "Ask what a measure did to movement, housing or schooling. {{lib}}",
+      "Define each term before using it: law, policy, event.",
+      "Ask what a measure did to movement, housing or schooling.",
       "Ask what it asked people to accept about themselves.",
       "Ask who gained from the category.",
       "Keep the evidence of what happened apart from the interpretation."
@@ -895,8 +905,7 @@
        "Controlled movement",
        "What did constant checking do to confidence?"
       ]
-     ],
-     "src": "{{lib}}"
+     ]
     },
     {
      "t": "h",
@@ -908,7 +917,7 @@
      "steps": [
       "The Act is a law of 1953. The uprising is a protest of 16/06/1976 against compulsory Afrikaans in teaching.",
       "The link: the 1976 protest was about the schooling system the Act created.",
-      "Keep the law and the event apart, then connect them. {{lib}}"
+      "Keep the law and the event apart, then connect them."
      ]
     },
     {
@@ -933,28 +942,30 @@
      "o": [
       "Group Areas Act is a law; Soweto is an event",
       "Both are laws",
-      "Both are events",
-      "Neither"
+      "Neither is a law",
+      "Soweto is a law; the Group Areas Act is an event",
+      "Both are events"
      ],
      "a": 0,
-     "w": "Keep laws and events apart. {{lib}}"
+     "w": "Keep laws and events apart."
     },
     {
      "t": "check",
      "q": "When did Biko die?",
      "o": [
+      "12/09/1976",
+      "11/02/1990",
       "12/09/1977",
-      "16/06/1976",
       "21/03/1960",
-      "11/02/1990"
+      "16/06/1976"
      ],
-     "a": 0,
+     "a": 2,
      "w": "He died in police custody. {{wiki-biko}}"
     },
     {
      "t": "take",
      "i": [
-      "Define terms precisely. {{lib}}",
+      "Define terms precisely.",
       "Ask what a system did and what it asked people to believe.",
       "Separate evidence from interpretation."
      ]

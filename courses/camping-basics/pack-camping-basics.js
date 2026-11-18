@@ -852,57 +852,62 @@ ARCHIVE_ADD({
    {
     "q": "In the Republic of Ireland, what is the position on access to land for recreation?",
     "o": [
+     "No provision for free access: it rests on the owner's goodwill",
      "A statutory right to roam applies",
-     "There is no provision for free access: it depends on the owner's goodwill",
      "Public land is open to all",
+     "A right to roam applies on hill land, but camping still needs the owner's consent",
      "Camping is allowed anywhere above the tree line"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Leave No Trace Ireland says there is no provision for free access and that permission must be acquired."
    },
    {
     "q": "Which activity does the Scottish guide say is allowed on most land if you act responsibly?",
     "o": [
+     "Camping of any group size, for up to a week in one place, so long as no fire is lit",
      "Large group camping for a week",
-     "Lightweight camping in small numbers for two or three nights in one place",
      "Sleeping in a car in any lay-by",
-     "Open fires in dry weather"
+     "Open fires in dry weather",
+     "Light camping in small numbers, two or three nights in one place"
     ],
-    "a": 1,
+    "a": 4,
     "w": "That is the Scottish guide's statement."
    },
    {
     "q": "Which fire advice do the Scottish guide and Leave No Trace agree on?",
     "o": [
      "Always build a large fire",
-     "Use a stove and keep any fire small and legal",
+     "Use fire bowls near forests",
+     "Use a stove, and keep any fire small and legal",
      "Burn rubbish",
-     "Use fire bowls near forests"
+     "Light fires only in fire bowls, which makes them acceptable even near woodland"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Both advise a stove first."
    },
    {
     "q": "How deep should you bury poo on Dartmoor?",
     "o": [
+     "At least 50 cm, below the root zone of the grass",
+     "No need to bury it",
      "At least 5 cm",
-     "At least 10 cm",
      "At least 15 cm under turf",
-     "No need to bury"
+     "At least 10 cm"
     ],
-    "a": 2,
+    "a": 3,
     "w": "Dartmoor asks for at least 15 cm under turf."
    },
    {
     "lec": 1,
     "q": "What organisation did John Muir found in 1892?",
     "o": [
+     "The Yosemite National Park Service",
+     "The National Trust",
      "The Met Office",
      "The Sierra Club",
-     "The National Trust",
      "Ordnance Survey"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Muir founded the Sierra Club in 1892. {{brit-muir}}"
    }
   ],
@@ -910,21 +915,23 @@ ARCHIVE_ADD({
    {
     "q": "What does a tent's person rating equate to, according to REI?",
     "o": [
-     "How many people can stand up",
      "How many sleeping pads fit on the floor",
+     "How many people fit with their packs and boots inside",
+     "How many people can stand up",
      "The weight limit",
      "The wind rating"
     ],
-    "a": 1,
+    "a": 0,
     "w": "REI says the rating typically equals how many pads fit."
    },
    {
     "q": "Which site feature raises condensation risk?",
     "o": [
-     "Higher drier ground",
-     "Low areas between higher ground",
      "Under trees",
-     "A windbreak"
+     "Low areas between higher ground",
+     "A windbreak",
+     "Higher ground exposed to a steady breeze off the hill",
+     "Higher drier ground"
     ],
     "a": 1,
     "w": "Cool, damp air settles in low areas."
@@ -932,35 +939,38 @@ ARCHIVE_ADD({
    {
     "q": "How large should a footprint be compared with the tent floor?",
     "o": [
+     "Any size",
      "Slightly larger",
+     "Larger by about 10 cm on every side",
      "Slightly smaller",
-     "The size of the fly",
-     "Any size"
+     "The size of the fly"
     ],
-    "a": 1,
+    "a": 3,
     "w": "A footprint sized smaller than the floor will not catch and pool rain underneath."
    },
    {
     "q": "What is the best way to reduce condensation?",
     "o": [
-     "Close all vents",
-     "Ventilate early and fully and keep wet items out",
      "Bring a stove inside",
-     "Use a smaller tent"
+     "Close the vents at night to keep warm, then air the tent in the morning",
+     "Use a smaller tent",
+     "Close all the vents",
+     "Ventilate early and fully, and keep wet items out"
     ],
-    "a": 1,
+    "a": 4,
     "w": "REI's three strategies include ventilation and keeping wet items out."
    },
    {
     "lec": 1,
     "q": "According to Kephart, what should you avoid pitching near?",
     "o": [
-     "A dead tree",
-     "A raised spot",
+     "The morning sun",
+     "A ridge line above the river",
      "A breeze",
-     "Morning sun"
+     "A dead tree",
+     "A raised spot"
     ],
-    "a": 0,
+    "a": 3,
     "w": "He advised against pitching near a dead tree. {{kephart10}}"
    }
   ],
@@ -971,7 +981,8 @@ ARCHIVE_ADD({
      "Lower limit",
      "Comfort",
      "Extreme",
-     "Name number"
+     "Name number",
+     "Lower limit plus 5 °C"
     ],
     "a": 1,
     "w": "Comfort describes a cold sleeper."
@@ -980,22 +991,24 @@ ARCHIVE_ADD({
     "q": "What R-value results from stacking pads of R 1.5 and R 2.5?",
     "o": [
      "1.0",
+     "3.75",
      "3.0",
-     "4.0",
-     "3.75"
+     "2.5 (the higher pad)",
+     "4.0"
     ],
-    "a": 2,
+    "a": 4,
     "w": "R-values add."
    },
    {
-    "q": "Camp is at 50 m and you plan a high camp at 950 m. Using the Met Office average, about how much colder should you expect it to be?",
+    "q": "Camp is at 50 m and you plan a high camp at 950 m. Using the Met Office average of about 2 °C per 300 m, how much colder should you expect it to be?",
     "o": [
-     "1 °C per 100 m",
-     "About 2 °C per 300 m",
-     "5 °C per 300 m",
-     "None"
+     "About 6 °C colder",
+     "About the same, since lapse rates apply only in winter",
+     "About 3 °C colder",
+     "About 9 °C colder",
+     "About 2 °C colder"
     ],
-    "a": 1,
+    "a": 0,
     "w": "About 2 °C per 300 m on average.",
     "kind": "application"
    },
@@ -1003,23 +1016,25 @@ ARCHIVE_ADD({
     "q": "Which of these should you NOT give someone with hypothermia?",
     "o": [
      "A warm non-alcoholic drink",
+     "A hot water bottle in a cloth",
      "Alcohol",
-     "Sugary food if awake",
-     "A blanket"
+     "A blanket",
+     "Sugary food if awake"
     ],
-    "a": 1,
+    "a": 2,
     "w": "The NHS says not to give alcohol."
    },
    {
     "lec": 1,
     "q": "What clothing principle is Nansen credited with?",
     "o": [
-     "One heavy fur",
      "Layers of lightweight material",
+     "One heavy fur",
+     "A single windproof shell over heavy wool",
      "Cotton only",
      "No layers"
     ],
-    "a": 1,
+    "a": 0,
     "w": "He is credited with the layer principle. {{wiki-nansen}}"
    }
   ],
@@ -1027,32 +1042,35 @@ ARCHIVE_ADD({
    {
     "q": "What colour should a healthy gas stove flame be?",
     "o": [
-     "Mostly orange",
+     "Yellow with a blue tip and some smoke",
+     "Yellow",
      "Blue with a slight orange tip",
      "Red",
-     "Yellow"
+     "Mostly orange"
     ],
-    "a": 1,
+    "a": 2,
     "w": "The BMC describes it this way."
    },
    {
     "q": "Which is true of carbon monoxide?",
     "o": [
      "It smells strongly",
-     "It is colourless, tasteless and odourless",
+     "It smells faintly sweet, so it can be noticed",
+     "It is harmless in tents",
      "It only comes from cars",
-     "It is harmless in tents"
+     "It has no colour, taste or smell"
     ],
-    "a": 1,
+    "a": 4,
     "w": "NI Direct lists those properties."
    },
    {
     "q": "You have a stove, a pot and no filter, and the only water is from a stream. How does the CDC say to make it safe?",
     "o": [
-     "Pour through a cloth",
+     "Bring it just to a simmer and then let it cool",
      "Boil at a rolling boil for 1 minute",
-     "Leave in the sun",
-     "Add salt"
+     "Pour it through a cloth",
+     "Add salt",
+     "Leave it in the sun"
     ],
     "a": 1,
     "w": "Boiling is best.",
@@ -1061,24 +1079,26 @@ ARCHIVE_ADD({
    {
     "q": "What temperature should chilled food stay below?",
     "o": [
+     "10 °C (cool to the touch)",
      "12 °C",
-     "8 °C",
+     "2 °C",
      "5 °C",
-     "2 °C"
+     "8 °C"
     ],
-    "a": 2,
+    "a": 3,
     "w": "The FSA says below 5 °C."
    },
    {
     "lec": 1,
     "q": "What did the Nansen cooker let a party do at the same time?",
     "o": [
-     "Cook food and melt snow for water",
      "Navigate and sleep",
+     "Cook food and melt snow for water",
      "Pitch and strike a tent",
-     "Sail and ski"
+     "Sail and ski",
+     "Heat the tent and dry wet clothes overnight"
     ],
-    "a": 0,
+    "a": 1,
     "w": "It cooked food and melted snow together. {{nansen-fn}} {{lgfl-cooker}}"
    }
   ],
@@ -1086,21 +1106,23 @@ ARCHIVE_ADD({
    {
     "q": "What does 1:25,000 mean?",
     "o": [
-     "1 cm is 25 m",
-     "1 cm is 250 m",
+     "1 cm is 1 km",
      "1 cm is 2.5 km",
-     "1 cm is 25 km"
+     "1 cm is 25 m",
+     "1 cm is 25 km",
+     "1 cm is 250 m"
     ],
-    "a": 1,
+    "a": 4,
     "w": "1 cm is 25,000 cm = 250 m."
    },
    {
     "q": "Which comes first in a grid reference?",
     "o": [
-     "Northing",
+     "Variation",
      "Easting",
      "Scale",
-     "Variation"
+     "The larger number",
+     "Northing"
     ],
     "a": 1,
     "w": "Along the corridor, then up the stairs."
@@ -1108,23 +1130,25 @@ ARCHIVE_ADD({
    {
     "q": "What are the two biggest compass errors OS lists?",
     "o": [
-     "Reading the map; using a phone",
      "Moving the bezel; holding the compass wrongly",
      "Using a mirror; using a rule",
+     "Reading the map; using a phone",
+     "Forgetting variation; reading the bearing from the wrong end of the needle",
      "Looking at trees; looking at water"
     ],
-    "a": 1,
+    "a": 0,
     "w": "OS lists those two."
    },
    {
     "q": "Your route is 5 km with 600 m of ascent and the light goes in 2 hours. What does Naismith's rule give, and is it safe to start?",
     "o": [
-     "1 hour",
-     "2 hours",
-     "3 hours",
-     "30 minutes"
+     "1 hour, so it is safe to start",
+     "2 hours, which exactly matches the light, so it is safe to start",
+     "30 minutes, so it is safe",
+     "2 hours, so there is no margin; do not start",
+     "3 hours, so it is not safe"
     ],
-    "a": 1,
+    "a": 3,
     "w": "5 ÷ 5 = 1 h plus 600 ÷ 600 = 1 h.",
     "kind": "application"
    },
@@ -1133,11 +1157,12 @@ ARCHIVE_ADD({
     "q": "How close did Shackleton's party get to the South Pole before turning back in 1909?",
     "o": [
      "About 9 miles",
-     "97 geographical miles",
+     "They reached it",
+     "197 geographical miles",
      "500 miles",
-     "They reached it"
+     "97 geographical miles"
     ],
-    "a": 1,
+    "a": 4,
     "w": "They reached 97 geographical miles from the Pole. {{wiki-nimrod}} {{shack-south}}"
    }
   ],
@@ -1145,10 +1170,11 @@ ARCHIVE_ADD({
    {
     "q": "Which three questions does the Met Office ask?",
     "o": [
-     "Where, when, who",
+     "Map, compass, torch",
      "Gear, weather, knowledge and skills",
      "Food, drink, shelter",
-     "Map, compass, torch"
+     "Route, timing, group size and fitness",
+     "Where, when, who"
     ],
     "a": 1,
     "w": "That is the AdventureSmart set."
@@ -1156,46 +1182,50 @@ ARCHIVE_ADD({
    {
     "q": "In the hills, what do you ask for on 999?",
     "o": [
+     "Coastguard",
+     "Ambulance, then Mountain Rescue",
      "Fire",
-     "Ambulance only",
      "Police, then Mountain Rescue",
-     "Coastguard"
+     "Ambulance only"
     ],
-    "a": 2,
+    "a": 3,
     "w": "Mountain Rescue England and Wales say so."
    },
    {
     "q": "Several people have headaches and nausea after cooking in a tent. Likely cause?",
     "o": [
+     "Cold",
+     "Food poisoning from the meal",
      "Midges",
-     "Carbon monoxide",
      "Too much sun",
-     "Cold"
+     "Carbon monoxide"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Symptoms after using a stove in an enclosed space."
    },
    {
     "q": "After calling, what should you do?",
     "o": [
-     "Walk for help",
-     "Stay where you are until contacted",
      "Switch off the phone",
-     "Rehearse"
+     "Rehearse",
+     "Stay put until contacted",
+     "Walk to higher ground for signal",
+     "Walk for help"
     ],
-    "a": 1,
+    "a": 2,
     "w": "The guidance says stay put."
    },
    {
     "lec": 1,
     "q": "What was Nightingale's first canon of nursing?",
     "o": [
-     "Give medicine early",
-     "Keep the patient's air as pure as outside air without chilling",
+     "Keep the air as pure as outside air without chilling",
+     "Keep the patient busy",
+     "Keep the patient warm by shutting out all outside air",
      "Keep windows shut",
-     "Keep the patient busy"
+     "Give medicine early"
     ],
-    "a": 1,
+    "a": 0,
     "w": "It was fresh air without chilling. {{nightingale}}"
    }
   ],
@@ -1204,12 +1234,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "Which habit does the capstone borrow from Shackleton?",
     "o": [
-     "Skipping the review",
      "Planning with margins and clear roles",
+     "Leaving without a plan",
      "Camping alone only",
-     "Leaving without a plan"
+     "Pushing on to the goal whatever the conditions",
+     "Skipping the review"
     ],
-    "a": 1,
+    "a": 0,
     "w": "He planned with depots, advice and clear leadership. {{wiki-nimrod}} {{shack-south}}"
    }
   ]

@@ -23,12 +23,20 @@
      "x": "Saving means keeping money where it is safe and easy to get at. {{mh-beginners}}"
     },
     {
+     "t": "p",
+     "x": "Irving Fisher, who lectures in this course, put the difference as one of degree: spending pays for enjoyments that come soon, investing pays for enjoyments deferred to a later time. {{fisher30-ch1}} He saw an eternal conflict between the impulse to spend, which comes from impatience, and the impulse to invest, which comes from the chance to get more by waiting. {{fisher30-ch1}}"
+    },
+    {
      "t": "h",
      "x": "The four main asset classes"
     },
     {
      "t": "p",
      "x": "Most people choose from four main types of investment. {{mh-beginners}}"
+    },
+    {
+     "t": "p",
+     "x": "The types differ in what you are promised. A bond is a loan: the issuer promises fixed interest and the return of the face value at maturity. {{os-ch10}} A share promises nothing: there is no maturity date or face value, dividends are paid only if the board declares them, and shareholders are paid last, which is why shares are riskier than bonds. {{os-ch11}}"
     },
     {
      "t": "ul",
@@ -191,9 +199,10 @@
      "q": "Which of these is the best description of investing?",
      "o": [
       "Keeping money in an instant-access account",
-      "Putting money into something with the aim of a return, at some risk",
+      "Putting money into something for a return, at some risk",
       "Paying off a loan early",
-      "Buying goods to use yourself"
+      "Buying goods to use yourself",
+      "Putting money into a fixed-rate savings account so it earns more interest than a current account"
      ],
      "a": 1,
      "w": "Investing carries risk and aims for a return. Saving aims to keep money safe and reachable. {{mh-beginners}}"
@@ -203,9 +212,10 @@
      "q": "Which asset class involves lending money to a company or government in return for interest?",
      "o": [
       "Shares",
-      "Cash",
       "Property",
-      "Bonds"
+      "Shares in a bank",
+      "Bonds",
+      "Cash"
      ],
      "a": 3,
      "w": "Bonds, also called fixed interest securities, are loans to a company or government. {{mh-beginners}}"
@@ -214,12 +224,13 @@
      "t": "check",
      "q": "You need £8,000 for a wedding in two years. Which home fits best on the five-year guide?",
      "o": [
+      "A property fund",
       "A share fund, for the extra growth",
-      "Cash, because the date is closer than five years",
+      "Cash: the date is closer than five years",
       "A single company's shares",
-      "A property fund"
+      "A global share fund, since two years is long enough for markets to recover"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Two years is shorter than the five-year guide, so the money stays where it cannot fall. This applies the guide in MoneyHelper's beginner guide. {{mh-beginners}}"
     },
     {
@@ -333,6 +344,14 @@
      "x": "Money used to repay a debt earns a certain return: the interest you stop paying. Investments only offer a possible return."
     },
     {
+     "t": "p",
+     "x": "The OpenStax finance textbook makes the same point with a card example: rather than investing, you should probably pay down 24% APR credit card debt first, and by the rule of 72 an unpaid balance at that rate doubles in about 3 years. {{os-ch7}}"
+    },
+    {
+     "t": "p",
+     "x": "Fisher explains why the safety net comes first. Present income is the gateway to the future: someone with one loaf of bread would not set it aside for next year even at a thousand per cent interest. {{fisher30-ch4}} He also defends idle cash: a person who keeps money ready rather than earning interest in a savings bank does so because being able to pay at a moment's notice is worth at least that interest to them. {{fisher30-ch9}}"
+    },
+    {
      "t": "example",
      "title": "Worked example: debt against investing (illustrative)",
      "steps": [
@@ -372,11 +391,12 @@
      "q": "You spend £1,500 a month on essentials. What is the six-month emergency fund target?",
      "o": [
       "£3,000",
+      "£4,500",
       "£6,000",
-      "£9,000",
-      "£12,000"
+      "£12,000",
+      "£9,000"
      ],
-     "a": 2,
+     "a": 4,
      "w": "£1,500 × 6 = £9,000. The three-month minimum is £4,500. {{mh-beginners}}",
      "kind": "application"
     },
@@ -384,12 +404,13 @@
      "t": "check",
      "q": "MoneyHelper uses a rough threshold of how many years before a goal when investing may help?",
      "o": [
+      "Five",
       "One",
       "Two",
-      "Five",
-      "Fifty"
+      "Fifty",
+      "Ten or more"
      ],
-     "a": 2,
+     "a": 0,
      "w": "MoneyHelper says a goal more than five years away is where investing might help. {{mh-beginners}}"
     },
     {
@@ -399,7 +420,8 @@
       "Keep investing as before",
       "Pause new investing and refill the fund first",
       "Sell all investments",
-      "Stop saving altogether"
+      "Stop saving altogether",
+      "Keep investing, and use a credit card for any further emergencies"
      ],
      "a": 1,
      "w": "Refill the fund before restarting investing. This follows the three-to-six-month guide in MoneyHelper. {{mh-beginners}}",
@@ -423,6 +445,10 @@
     {
      "t": "p",
      "x": "Inflation is the rise in the prices of goods and services over time. {{mh-beginners}}"
+    },
+    {
+     "t": "p",
+     "x": "Official inflation is measured with a price index: the cost of a fixed basket of goods and services, weighted by how much households spend on each category. Core inflation leaves out volatile food and energy prices, and the basket goes out of date as people change what they buy. {{os-ch3}}"
     },
     {
      "t": "p",
@@ -492,6 +518,10 @@
      "x": "Subtracting inflation from the interest rate gives a quick estimate. The exact method divides the growth factor of your money by the growth factor of prices."
     },
     {
+     "t": "p",
+     "x": "The exact link is called the Fisher effect, after this course's lecturer: one plus the nominal rate equals one plus the real rate times one plus inflation, so a 6% real return with 2% inflation needs a nominal 8.12%. {{os-ch7}}"
+    },
+    {
      "t": "example",
      "title": "Worked example: nominal 5%, inflation 3% (illustrative)",
      "steps": [
@@ -508,6 +538,28 @@
     {
      "t": "p",
      "x": "A small gap between interest and inflation looks harmless in one year. It matters when it runs for a decade, because both sides compound."
+    },
+    {
+     "t": "p",
+     "x": "Fisher named the trap: most people suffer from the money illusion, thinking of money as fixed in value, as if a pound were always a pound. {{fisher30-ch19}} His history shows what it costs. In London in 1852-1857 the market rate averaged 4.7 per cent, the highest of any period, yet lenders received less than nothing in real terms; in the 1914-1920 inflation, savers lost 9 to 10 per cent a year in real terms. {{fisher30-ch19}}"
+    },
+    {
+     "t": "p",
+     "x": "Your own inflation rate depends on what you buy. In the US from 1980 to 2020 the consumer price index rose 2.90% a year on average, while tuition rose 6.49% and rent 3.67%. {{os-ch12}} Our inference: if most of your spending is rent, the official rate may understate your own."
+    },
+    {
+     "t": "check",
+     "q": "A savings account pays 4.7% while prices rise 6% a year. Fisher would say you are suffering from what, if you feel you are getting richer?",
+     "o": [
+      "The money illusion: pounds rise, buying power falls",
+      "Compounding, since the balance grows on itself each year",
+      "Compounding",
+      "Diversification",
+      "A margin of safety"
+     ],
+     "a": 0,
+     "w": "Fisher's money illusion is treating money as fixed in value; at 4.7% interest and 6% inflation your real return is negative. {{fisher30-ch19}}",
+     "kind": "application"
     },
     {
      "t": "example",
@@ -594,24 +646,26 @@
      "t": "check",
      "q": "If interest is 1% and inflation is 3%, what happens to buying power?",
      "o": [
-      "It rises",
       "It stays the same",
+      "It rises by 1% a year",
+      "It rises",
       "It falls",
       "It cannot be known"
      ],
-     "a": 2,
+     "a": 3,
      "w": "Interest below inflation reduces buying power. This is our arithmetic, using the rate minus inflation approximation."
     },
     {
      "t": "check",
      "q": "£10,000 earns 1% and inflation is 3%. Roughly what is the balance worth in today's money after one year?",
      "o": [
-      "About £10,100",
+      "About £9,700",
+      "About £9,000",
       "About £9,806",
       "About £10,300",
-      "About £9,000"
+      "About £10,100"
      ],
-     "a": 1,
+     "a": 2,
      "w": "£10,100 ÷ 1.03 is about £9,806. This is our arithmetic.",
      "kind": "application"
     },
@@ -619,12 +673,13 @@
      "t": "check",
      "q": "Your account pays 1% a year and prices rise 3% a year. After ten years, what has happened to your buying power?",
      "o": [
+      "It has doubled",
       "It has grown",
+      "It has grown by about 10%, in line with the balance",
       "It has stayed the same",
-      "It has fallen, even though the balance in pounds rose",
-      "It has doubled"
+      "It has fallen, though the pound balance rose"
      ],
-     "a": 2,
+     "a": 4,
      "w": "The pound balance grows but prices grow faster, so buying power falls. In the worked example £10,000 became about £8,219 in today's money. Our arithmetic.",
      "kind": "application"
     },
@@ -646,6 +701,10 @@
     {
      "t": "p",
      "x": "Rules are easier to hold once you have watched them applied to someone who is not you."
+    },
+    {
+     "t": "p",
+     "x": "Fisher noticed that life stage changes the pull of the present: someone who expects their income to rise soon is impatient and may borrow against it, while someone nearing retirement on a smaller income tends to save. {{fisher30-ch4}}"
     },
     {
      "t": "p",
@@ -801,12 +860,13 @@
      "t": "check",
      "q": "Chloe has her fund in place and a £5,000 car purchase 18 months away. Where does the car money belong?",
      "o": [
-      "In shares, to grow it before the purchase",
-      "In cash, because the date is close",
+      "In a share fund, since 18 months is enough to ride out a fall",
+      "In shares, to grow it first",
+      "It does not matter",
       "In a single company",
-      "It does not matter"
+      "In cash, because the date is close"
      ],
-     "a": 1,
+     "a": 4,
      "w": "A purchase 18 months away is well inside the five-year mark MoneyHelper uses, so the money belongs somewhere stable. {{mh-beginners}}",
      "kind": "application"
     },
@@ -814,12 +874,13 @@
      "t": "check",
      "q": "Ben spends £2,200 a month on essentials and holds £3,000. What is his three-month minimum, and does he meet it?",
      "o": [
+      "£13,200, and he meets it",
       "£6,600, and he does not meet it",
-      "£3,000, and he does",
-      "£13,200, and he does",
-      "£2,200, and he does"
+      "£3,000, and he meets it",
+      "£6,600, and he meets it with room to spare",
+      "£2,200, and he meets it"
      ],
-     "a": 0,
+     "a": 1,
      "w": "£2,200 × 3 = £6,600, which is more than £3,000, so he falls short. {{mh-beginners}}",
      "kind": "application"
     },
@@ -834,7 +895,7 @@
    ]
   },
   {
-   "id": "l6",
+   "id": "l5",
    "title": "Practice: your starting position on one page",
    "min": 26,
    "blocks": [
@@ -921,11 +982,12 @@
      "q": "Priya spends £1,850 a month and holds £4,200. How many months of essentials does that cover, to one decimal place?",
      "o": [
       "1.5 months",
+      "4.2 months",
       "2.3 months",
       "3.0 months",
-      "4.2 months"
+      "2.5 months"
      ],
-     "a": 1,
+     "a": 2,
      "w": "£4,200 ÷ £1,850 is about 2.27, so about 2.3 months. That is below the three-month minimum. Our arithmetic.",
      "kind": "application"
     },
@@ -933,24 +995,26 @@
      "t": "check",
      "q": "Which goal in Priya's list should stay in cash?",
      "o": [
-      "Her pension in 28 years",
       "Her holiday in 12 months",
       "Neither",
-      "Both"
+      "Both",
+      "Her pension, since it matters most",
+      "Her pension in 28 years"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The holiday is under five years away, so it stays in cash. {{mh-beginners}}"
     },
     {
      "t": "check",
      "q": "A friend says their £5,000 credit card limit is their emergency fund. What is wrong with that plan?",
      "o": [
-      "It is free money",
-      "It is borrowing that must be repaid, often with interest",
+      "Nothing: a limit is as good as cash, as long as it is paid off later",
       "It earns interest",
-      "It cannot be spent"
+      "It cannot be spent",
+      "It is borrowing that must be repaid, often with interest",
+      "It is free money"
      ],
-     "a": 1,
+     "a": 3,
      "w": "A credit limit is a loan you would have to repay. Our inference.",
      "kind": "application"
     },
@@ -965,7 +1029,7 @@
    ]
   },
   {
-   "id": "l5",
+   "id": "l6",
    "title": "The lecturer's method: Irving Fisher",
    "min": 22,
    "blocks": [
@@ -983,7 +1047,42 @@
     },
     {
      "t": "p",
-     "x": "His 1930 book, The Theory of Interest, carries the subtitle 'as determined by impatience to spend income and opportunity to invest it'. {{lec-fisher-1930cat}} The scan is access-restricted, so we did not read the book itself."
+     "x": "His 1930 book, The Theory of Interest, carries the subtitle 'as determined by impatience to spend income and opportunity to invest it'. {{lec-fisher-1930cat}} We have since read its core chapters in the Online Library of Liberty edition. Fisher sums up the rate of interest as the mouthpiece of impatience to spend income without delay and of opportunity to increase income by delay. {{fisher30-ch21}}"
+    },
+    {
+     "t": "p",
+     "x": "In The Theory of Interest a person's impatience depends on four features of their expected income: its size, its time shape, its composition and its risk. {{fisher30-ch4}} He drew an illustrative grid (Table 1): someone with a small, rising, precarious income who is short-sighted and used to spending might have an impatience of 20%; someone with a large, falling, assured income who is far-sighted and used to saving might have 1%. {{fisher30-ch4}}"
+    },
+    {
+     "t": "table",
+     "title": "Fisher's illustrative impatience grid (1930, Table 1)",
+     "head": [
+      "Income",
+      "Short-sighted, weak-willed, used to spending",
+      "Medium",
+      "Far-sighted, self-controlled, used to saving"
+     ],
+     "rows": [
+      [
+       "Small, increasing, precarious",
+       "20%",
+       "10%",
+       "5%"
+      ],
+      [
+       "Medium",
+       "10%",
+       "5%",
+       "2%"
+      ],
+      [
+       "Large, decreasing, assured",
+       "5%",
+       "2%",
+       "1%"
+      ]
+     ],
+     "src": "Fisher's own illustrative figures {{fisher30-ch4}}"
     },
     {
      "t": "h",
@@ -1053,7 +1152,8 @@
      "q": "In Fisher's account, what sets the interest rate?",
      "o": [
       "Only the government",
-      "Impatience to spend and the opportunity to invest",
+      "Impatience to spend and the chance to invest",
+      "Only the central bank's decision, made each month",
       "The price of gold",
       "The number of banks"
      ],
@@ -1064,12 +1164,13 @@
      "t": "check",
      "q": "Fisher linked interest to two things. One is impatience to spend; what is the other?",
      "o": [
-      "The price of gold",
-      "The opportunity to invest",
+      "The central bank's monthly decision",
       "The number of banks",
-      "The tax year"
+      "The tax year",
+      "The price of gold",
+      "The opportunity to invest"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The 1930 title names impatience to spend income and opportunity to invest it. {{lec-fisher-1930cat}}"
     },
     {
@@ -1077,7 +1178,7 @@
      "i": [
       "Time-preference depends on income, so how much you need now should set how much you invest (our inference). {{lec-fisher-1907}}",
       "Build the emergency fund before investing. {{lec-mh-beginners}}",
-      "We read part of the 1907 book, not the 1930 one."
+      "We read part of The Rate of Interest and the core chapters of The Theory of Interest. {{fisher30-ch21}}"
      ]
     }
    ]

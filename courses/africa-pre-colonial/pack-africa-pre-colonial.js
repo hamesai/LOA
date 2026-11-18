@@ -1133,32 +1133,35 @@ ARCHIVE_ADD({
    {
     "q": "Which kind of evidence best shows that a farming vocabulary was shared across a wide area?",
     "o": [
+     "Archaeobotany",
      "Radiocarbon dating",
-     "Historical linguistics",
-     "Griot genealogies",
-     "Portuguese letters"
+     "Oral praise-song genealogies",
+     "Portuguese letters",
+     "Historical linguistics"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Historical linguistics reconstructs how languages split and spread, though not when or how many people moved."
    },
    {
     "q": "Which tag fits the date c. 1235 for Kirina?",
     "o": [
-     "[FIRM]",
      "[CONTESTED]",
+     "[THIN EVIDENCE, CONTESTED]",
+     "[FIRM]",
      "[TRADITIONAL DATE]",
-     "[THIN EVIDENCE]"
+     "[ESTIMATE]"
     ],
-    "a": 2,
+    "a": 3,
     "w": "It comes from the oral epic and is approximate."
    },
    {
     "q": "What is wrong with the phrase 'the Bantu tribe'?",
     "o": [
-     "Nothing",
+     "Nothing, if it means the Bantu of Cameroon",
      "Bantu is a language family, not a tribe",
-     "Bantu people never existed",
-     "It is too modern"
+     "Bantu names a region, not a group",
+     "Bantu is a race, so 'people' is better",
+     "Bantu was one tribe that later split"
     ],
     "a": 1,
     "w": "More than 500 languages share a common ancestor."
@@ -1166,24 +1169,26 @@ ARCHIVE_ADD({
    {
     "q": "What makes Jenne-jeno important?",
     "o": [
-     "It was a Roman colony",
-     "Urban growth without an obvious king and before regular trans-Saharan trade",
-     "It built the pyramids",
-     "It destroyed Ghana"
+     "Urban growth with no clear king, before regular trans-Saharan trade",
+     "The earliest iron smelting in West Africa, under a single ruling king",
+     "Urban growth driven by trans-Saharan trade under a Ghanaian governor",
+     "A Roman trading post on the Niger that later grew into a city",
+     "A walled royal capital that later became the first seat of Mali"
     ],
-    "a": 1,
+    "a": 0,
     "w": "That is the McIntoshes' reading [PROBABLE]."
    },
    {
     "lec": 1,
     "q": "Which historian is credited with making oral tradition a rigorous historical source?",
     "o": [
-     "Jan Vansina",
      "Walter Rodney",
+     "Julian Cobbing",
+     "Jan Vansina",
      "Ivor Wilks",
-     "Julian Cobbing"
+     "Cheikh Anta Diop"
     ],
-    "a": 0,
+    "a": 2,
     "w": "He and his students developed a rigorous approach in the 1960s. {{wiki-oral}}"
    }
   ],
@@ -1191,32 +1196,35 @@ ARCHIVE_ADD({
    {
     "q": "Who conquered Egypt and left a victory stele c. 744 to 714 BCE?",
     "o": [
-     "Taharqa",
      "Piye",
      "Amanirenas",
-     "Ezana"
+     "Ezana",
+     "Taharqa",
+     "Lalibela"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Piye of Kush."
    },
    {
     "q": "Which statement about the Meroitic script is right?",
     "o": [
-     "It is fully translated",
-     "Its signs can be read but the language is poorly understood",
-     "It is Greek",
-     "It has never been found"
+     "It is known only from a few coins, so too little survives to read",
+     "Its language is understood, but its signs have never been read",
+     "Its signs can be read, but the language is poorly understood",
+     "It is a form of Greek, adapted for the Nile valley kingdoms",
+     "It is fully translated, thanks to a bilingual like the Rosetta Stone"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Griffith found the key to its sound values in 1909 (Leclant, UNESCO vol. II)."
    },
    {
     "q": "What is the Kebra Nagast best described as?",
     "o": [
-     "A neutral genealogy",
+     "A neutral genealogy of the kings of Aksum",
      "A legitimising text for the Solomonic line",
-     "An Aksumite coin hoard",
-     "A Greek chronicle"
+     "A Greek chronicle of the Red Sea trade",
+     "A Zagwe king list later copied by the Solomonids",
+     "An Aksumite royal inscription in Ge'ez"
     ],
     "a": 1,
     "w": "It is tradition, not history."
@@ -1224,24 +1232,26 @@ ARCHIVE_ADD({
    {
     "q": "Which tag fits the dates of Lalibela's reign (c. 1181 to 1221)?",
     "o": [
-     "[FIRM]",
      "[TRADITIONAL DATE]",
+     "No tag, as dates of a king",
+     "[FIRM]",
      "[THIN EVIDENCE]",
-     "No tag"
+     "[CONTESTED, ESTIMATE]"
     ],
-    "a": 1,
+    "a": 0,
     "w": "They are traditional."
    },
    {
     "lec": 1,
     "q": "An essay explains the Zagwe-to-Solomonic change as a new group with strong cohesion replacing a tired one. Whose idea is it borrowing, and what must it still show?",
     "o": [
+     "The baqt; a treaty between the Zagwe and the Solomonids",
+     "Ibn Khaldun's asabiya; nothing more, as the idea is proven",
+     "Heterarchy; evidence that the Zagwe had no single king",
      "Ibn Khaldun's asabiya; evidence for that cohesion in 1270",
-     "Vansina's floating gap; nothing more",
-     "The baqt; a treaty",
-     "Heterarchy; a lack of kings"
+     "Vansina's floating gap; nothing more, as it explains itself"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Asabiya is a lens: it frames the question, and evidence must answer it. {{wiki-khaldun}}",
     "kind": "application"
    }
@@ -1250,46 +1260,50 @@ ARCHIVE_ADD({
    {
     "q": "A film shows Carthage burning in 146 BCE and Roman soldiers salting its fields. Which part is firm and which is not?",
     "o": [
-     "Both are firm",
-     "The destruction in 146 BCE is firm; the salting has no ancient source",
-     "Both are myths",
-     "The salting is firm; the date is not"
+     "Both are firm: Polybius saw the salting and recorded it as an eyewitness",
+     "The salting is firm from excavated salt layers, but the date is uncertain",
+     "The date is firm, but the burning was a later Vandal attack in 439 CE",
+     "Both are myths: Carthage surrendered in 146 BCE and was never destroyed",
+     "The destruction in 146 BCE is firm; the salting has no ancient source"
     ],
-    "a": 1,
+    "a": 4,
     "w": "The Third Punic War ended in 146 BCE [FIRM]; the salt story appears only in modern retellings. {{lib}}",
     "kind": "application"
    },
    {
     "q": "Which claim about the Almoravids and Ghana is best?",
     "o": [
-     "Settled: they destroyed Ghana in 1076",
-     "Contested: late, thin sources and no clear destruction layer",
-     "Disproved by Ibn Battuta",
-     "Proved at Tondibi"
+     "Settled: Ghana converted peacefully, with no Almoravid army",
+     "Proved: the battle of Tondibi ended Ghana's independence",
+     "Settled: they destroyed Ghana in 1076, as the excavations at Koumbi show",
+     "Disproved: Ibn Battuta found Ghana unconquered on his visit",
+     "Contested: late, thin sources and no clear destruction layer"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Conrad and Fisher challenged the traditional account."
    },
    {
     "q": "What did camels change for the Sahara?",
     "o": [
-     "They ended trade",
+     "They let Arab armies cross before any trade had started",
+     "They ended the horse-drawn chariot trade of the Garamantes",
+     "They first made any crossing possible, from about 1000 BCE onward",
      "They made regular crossings possible from the first centuries CE",
-     "They brought the Garamantes",
-     "Nothing"
+     "Little: regular crossings came only with the Almoravids"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Camels came into regular use in the first centuries CE [PROBABLE]."
    },
    {
     "q": "What did Ahmad Baba argue?",
     "o": [
-     "Enslavement was justified by colour",
-     "Only non-Muslims could be enslaved on religious grounds, not by colour",
-     "Slavery was banned",
-     "Moroccans should not invade"
+     "Any captive taken in a lawful war could be enslaved, whatever their faith",
+     "Moroccans had no right to invade Songhai in 1591",
+     "Only non-Muslims could be enslaved on religious grounds, never by colour",
+     "Slavery should be banned outright across the Muslim world",
+     "Enslavement was justified by colour, under the curse of Ham"
     ],
-    "a": 1,
+    "a": 2,
     "w": "He rejected colour as a criterion [PROBABLE]."
    },
    {
@@ -1297,9 +1311,10 @@ ARCHIVE_ADD({
     "q": "What did Ibn Khaldun do in Egypt in 1384?",
     "o": [
      "Became chief Maliki judge in Cairo",
-     "Founded Marrakesh",
-     "Conquered Ghana",
-     "Wrote the Sundiata epic"
+     "Wrote down the Sundiata epic",
+     "Served as envoy to Mansa Musa's court",
+     "Founded the city of Marrakesh",
+     "Led an army against Ghana"
     ],
     "a": 0,
     "w": "He was appointed professor and Maliki qadi. {{wiki-khaldun}}"
@@ -1309,21 +1324,23 @@ ARCHIVE_ADD({
    {
     "q": "Which source gave the Ghana account of 1068?",
     "o": [
-     "Ibn Battuta",
-     "Al-Bakri",
+     "Ibn Khaldun",
      "Leo Africanus",
-     "Al-Sa'di"
+     "Al-Sa'di",
+     "Al-Bakri",
+     "Ibn Battuta"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Al-Bakri compiled it from informants."
    },
    {
     "q": "A student says Songhai collapsed because its army was weak. Which piece of evidence best tests that claim?",
     "o": [
-     "Sunni Ali's taking of Timbuktu",
-     "Tondibi in 1591, where a smaller Moroccan force with firearms defeated Songhai",
-     "Usman dan Fodio's migration",
-     "Mansa Musa's death"
+     "Usman dan Fodio's migration, which drew soldiers away from Songhai",
+     "Tondibi in 1591, where a smaller Moroccan force with guns won",
+     "Jenne taken in 1473, after a siege said to have lasted seven years",
+     "Sunni Ali's taking of Timbuktu, which showed the army's real strength",
+     "Mansa Musa's death, after which the army was never paid again"
     ],
     "a": 1,
     "w": "Moroccan firearms defeated Songhai at Tondibi; weapons, not only numbers, decided it.",
@@ -1332,21 +1349,23 @@ ARCHIVE_ADD({
    {
     "q": "Which is a [CONTESTED] item in this module?",
     "o": [
-     "Sokoto lasted until the British conquest of 1903",
+     "Ibn Battuta in Mali in 1352 to 53",
+     "Al-Bakri's account dated 1068",
      "Queen Amina of Zazzau's dates and deeds",
-     "Tondibi in 1591",
-     "Jenne taken in 1473"
+     "Sokoto lasting until the British conquest of 1903",
+     "Tondibi in 1591"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Her dates and deeds are contested."
    },
    {
     "q": "What is the Kano Chronicle?",
     "o": [
-     "An Arabic chronicle from Timbuktu",
+     "An eleventh-century royal annal, kept year by year at Kano's court",
      "A 19th-century compilation of older material listing Kano rulers",
-     "A Mande epic",
-     "A Portuguese letter"
+     "An Arabic chronicle written in Timbuktu by Songhai scholars",
+     "A Portuguese letter from the coast describing the Hausa states",
+     "A Mande epic, sung by griots and first written down in Kano"
     ],
     "a": 1,
     "w": "It traces Islam's arrival in the 14th century [PROBABLE]."
@@ -1357,8 +1376,9 @@ ARCHIVE_ADD({
     "o": [
      "Ibn Juzayy",
      "Al-Umari",
+     "Al-Sa'di",
      "Leo Africanus",
-     "Al-Sa'di"
+     "Ibn Khaldun"
     ],
     "a": 0,
     "w": "At the suggestion of the Marinid ruler. {{wiki-battuta}}"
@@ -1368,10 +1388,11 @@ ARCHIVE_ADD({
    {
     "q": "A novel shows women soldiers guarding the king of Asante. Which state should the author have used?",
     "o": [
-     "Asante is right",
+     "Igbo-Ukwu, whose bronzes show women warriors",
      "Dahomey, whose Agojie were women soldiers",
-     "Oyo",
-     "Igbo-Ukwu"
+     "Oyo, whose Oyo Mesi included women officers",
+     "Benin, whose Oba kept a guard of palace women",
+     "Asante is right, as its queen mothers led armies"
     ],
     "a": 1,
     "w": "The Agojie belong to Dahomey.",
@@ -1380,46 +1401,50 @@ ARCHIVE_ADD({
    {
     "q": "What is the status of the 16,000 km Benin earthworks figure?",
     "o": [
-     "Firm",
      "Contested",
-     "Traditional date",
-     "Disproved"
+     "Firm",
+     "Disproved",
+     "Probable, from satellite surveys",
+     "Traditional date"
     ],
-    "a": 1,
+    "a": 0,
     "w": "One survey, awaiting replication."
    },
    {
     "q": "Who claimed in 1910 that Ife art could not be African?",
     "o": [
-     "Samuel Johnson",
-     "Leo Frobenius",
+     "Ivor Wilks",
      "Thurstan Shaw",
-     "Ivor Wilks"
+     "Samuel Johnson",
+     "Frank Willett",
+     "Leo Frobenius"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Rejected as racist and unsupported."
    },
    {
     "q": "Which is true of the Aro?",
     "o": [
-     "They were a kingdom with a single king",
+     "They were a centralised kingdom ruled by a single sacred king",
+     "They founded Oyo after migrating north from the Niger delta",
      "They built a trading network around the Ibini Ukpabi oracle",
-     "They founded Oyo",
-     "They lived in Dahomey"
+     "They were Portuguese agents who ran the coastal slave markets",
+     "They lived in Dahomey and supplied the Agojie with recruits"
     ],
-    "a": 1,
+    "a": 2,
     "w": "A non-state network."
    },
    {
     "lec": 1,
     "q": "Who reconstructed The History of the Yorubas after Samuel Johnson's death?",
     "o": [
-     "Obadiah Johnson",
      "Henry Townsend",
      "Leo Frobenius",
-     "Robin Law"
+     "Samuel Ajayi Crowther",
+     "Robin Law",
+     "Obadiah Johnson"
     ],
-    "a": 0,
+    "a": 4,
     "w": "His brother, a Lagos doctor. {{bu-johnson}}"
    }
   ],
@@ -1427,21 +1452,23 @@ ARCHIVE_ADD({
    {
     "q": "What is the Swahili origins debate about?",
     "o": [
-     "Whether the towns existed",
-     "How much of each African and outside input, not whether Africans built them",
-     "Whether Swahili is Bantu",
-     "Whether Kilwa had coins"
+     "Whether Kilwa minted its own coins or used imported ones",
+     "Whether Persian or Arab colonists built the towns that Africans later took over",
+     "Whether Swahili is a Bantu language or a form of Arabic",
+     "Whether the towns existed at all before the Portuguese arrived",
+     "How much African and outside input, not whether Africans built the towns"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Archaeologists emphasise African origins."
    },
    {
     "q": "A Kongo letter of 1526 complains to Portugal about the slave trade. Who wrote it, and what limit should you put on it as evidence?",
     "o": [
-     "Njinga; none",
+     "Afonso I; none, since it proves Kongo opposed the trade outright",
      "Afonso I; it does not show Kongo had no part in the trade",
-     "Mutesa I; it is a forgery",
-     "Osei Tutu; it is oral"
+     "Osei Tutu; it is an oral tradition written down late",
+     "Njinga; none, since a ruler's letter is direct evidence",
+     "Mutesa I; it is a forgery made by later missionaries"
     ],
     "a": 1,
     "w": "Afonso I of Kongo; he himself took part in earlier exchanges.",
@@ -1450,21 +1477,23 @@ ARCHIVE_ADD({
    {
     "q": "What happened at Mbwila?",
     "o": [
-     "Portugal sacked Kilwa",
+     "Nzinga a Nkuwu was baptised by Portuguese priests",
+     "Kongo defeated a Portuguese-led force on 29/10/1665",
+     "Fort Jesus fell to Omani forces after a long siege",
      "A Portuguese-led force defeated Kongo on 29/10/1665",
-     "Fort Jesus fell",
-     "Nzinga a Nkuwu was baptised"
+     "Portugal sacked Kilwa and installed a new sultan"
     ],
-    "a": 1,
+    "a": 3,
     "w": "It killed the king."
    },
    {
     "q": "What status has the Hamitic theory?",
     "o": [
-     "Accepted",
+     "Firm",
      "Rejected racial speculation",
-     "Traditional date",
-     "Firm"
+     "Accepted",
+     "Contested but still plausible",
+     "Traditional date"
     ],
     "a": 1,
     "w": "It shaped colonial rule."
@@ -1473,12 +1502,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What was Kilwa when Ibn Battuta visited?",
     "o": [
-     "An important transit centre of the gold trade",
      "A Portuguese fort",
-     "A Roman port",
-     "An Omani capital"
+     "The capital of the Omani sultanate",
+     "An important transit centre of the gold trade",
+     "A small fishing village with a single stone mosque",
+     "A Roman port"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Per Wikipedia. {{wiki-battuta}}"
    }
   ],
@@ -1486,46 +1516,50 @@ ARCHIVE_ADD({
    {
     "q": "A 1900 guidebook credits 'ancient foreigners' with Great Zimbabwe. Which earlier work could you cite against it within five years?",
     "o": [
-     "Karl Mauch",
+     "Karl Mauch's 1871 report",
+     "Cecil Rhodes's 1890s survey",
      "David Randall-MacIver's 1905 excavation",
-     "Cecil Rhodes",
-     "Theodore Bent"
+     "Gertrude Caton-Thompson's 1929 excavation",
+     "Theodore Bent's 1891 dig"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Randall-MacIver in 1905, followed by Caton-Thompson in 1929.",
     "kind": "application"
    },
    {
     "q": "When was the Battle of Isandlwana?",
     "o": [
-     "22/01/1879",
      "04/07/1879",
+     "22/01/1879",
+     "1828",
      "16/12/1838",
-     "1828"
+     "11/01/1879"
     ],
-    "a": 0,
+    "a": 1,
     "w": "A Zulu victory."
    },
    {
     "q": "What is the safest way to describe Mapungubwe to Great Zimbabwe to Mutapa?",
     "o": [
-     "A proven dynastic line",
-     "Linked traditions, not a proven line of kings",
-     "Unrelated",
-     "One state"
+     "One state that moved its capital twice",
+     "A line proved by the Portuguese records",
+     "Unrelated states with no links between them",
+     "A proven dynastic line, attested by king lists",
+     "Linked traditions, not a proven line of kings"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Direct descent is contested."
    },
    {
     "q": "What did Julian Cobbing argue?",
     "o": [
-     "Shaka caused everything",
-     "The mfecane was an alibi that hid slave raiding and settler land claims",
-     "Nothing happened",
-     "The Zulu were Phoenicians"
+     "The Zulu were descended from Phoenician settlers of Great Zimbabwe",
+     "Nothing happened in the 1820s; the turmoil was invented by missionaries",
+     "The mfecane was caused by drought, not by Shaka or by slave raiding",
+     "The mfecane was an alibi hiding slave raiding and settler land claims",
+     "Shaka's wars caused all the turmoil of the 1820s across the interior"
     ],
-    "a": 1,
+    "a": 3,
     "w": "His 1988 argument."
    },
    {
@@ -1534,8 +1568,9 @@ ARCHIVE_ADD({
     "o": [
      "The gap between event and recording",
      "Its length in words",
-     "The speaker's height",
-     "The price of the book"
+     "The number of later retellings",
+     "The price of the book it appears in",
+     "The speaker's home village"
     ],
     "a": 0,
     "w": "Gap and speaker's age show whether it is first-hand. {{wiki-oral}}"
@@ -1545,32 +1580,35 @@ ARCHIVE_ADD({
    {
     "q": "About how many people embarked from Africa in the Atlantic trade, 1501 to 1866 (Voyages)?",
     "o": [
-     "1.25 million",
      "12.5 million",
-     "125 million",
-     "2.5 million"
+     "9.4 million",
+     "10.7 million",
+     "1.25 million",
+     "125 million"
     ],
-    "a": 1,
+    "a": 0,
     "w": "12,521,354 on the estimates page."
    },
    {
     "q": "Which period had the most embarkations?",
     "o": [
+     "1851 to 1866",
      "1651 to 1700",
      "1751 to 1800",
-     "1851 to 1866",
-     "1501 to 1550"
+     "1701 to 1750",
+     "1801 to 1850"
     ],
-    "a": 1,
+    "a": 2,
     "w": "3,933,989."
    },
    {
     "q": "A timeline marks 1807 as the end of the Atlantic slave trade. What is the best correction?",
     "o": [
-     "It is right",
-     "Britain banned its subjects' trade in 1807; Brazil's trade stopped in 1851 and the trade went on into the 1860s",
-     "The trade ended in 1884",
-     "The trade ended in 1700"
+     "It is right: no slave ships crossed the Atlantic after the British ban",
+     "Britain banned its subjects' trade in 1807; the trade went on into the 1860s",
+     "The trade ended in 1884, when the Berlin Conference outlawed it everywhere",
+     "Britain banned it in 1807, and Brazil and Cuba both followed within the same decade",
+     "The trade ended in 1700, long before Britain passed its law against it"
     ],
     "a": 1,
     "w": "Abolition came in stages. {{gha6-daget}}",
@@ -1579,12 +1617,13 @@ ARCHIVE_ADD({
    {
     "q": "An essay says historians agree the Atlantic trade underdeveloped Africa. Which correction is best?",
     "o": [
-     "They all agree",
-     "That is Rodney's thesis; Thornton, for one, stresses African initiative, so it is a debate",
-     "Vansina proved it",
-     "No one has argued it"
+     "It is Thornton's thesis, and Rodney is the main historian who disputes it",
+     "Vansina proved it with oral evidence from the Kongo and Lunda states",
+     "It is Rodney's thesis; Thornton and others dispute it, so it is a debate",
+     "They all agree: the thesis is settled since Rodney's 1972 book appeared",
+     "No one has argued it; Rodney argued the trade had little effect at all"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Rodney's thesis; Thornton stresses African initiative.",
     "kind": "application"
    },
@@ -1592,12 +1631,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What did Carretta find in 1999 that questioned Equiano's account of his birth?",
     "o": [
+     "A Voyages table of ships arriving in Virginia",
+     "A Portuguese letter naming Equiano's ship",
+     "A Kano Chronicle entry on Igbo captives",
      "A baptism record and a muster roll listing Carolina",
-     "A Portuguese letter",
-     "A Voyages table",
-     "A Kano Chronicle entry"
+     "A letter from Equiano admitting he was born in London"
     ],
-    "a": 0,
+    "a": 3,
     "w": "He called the evidence compelling but not conclusive. {{wiki-equiano}}"
    }
   ]

@@ -6,21 +6,23 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What is a greenhouse's main heat source?",
     "o": [
+     "Plants",
+     "Heat stored in the soil and benches",
      "Heaters",
      "Sunlight",
-     "The soil",
-     "Plants"
+     "The soil"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Sunlight is the main heat source, and a greenhouse is built to admit it."
    },
    {
     "q": "Where should a temperature sensor go?",
     "o": [
-     "Next to a vent",
-     "At plant height, shaded and ventilated",
      "In direct sun",
-     "Outside"
+     "At plant height, shaded and ventilated",
+     "Outside",
+     "Next to a vent",
+     "At the ridge, in full sun, to catch the peak"
     ],
     "a": 1,
     "w": "Place sensors at plant height, shaded and ventilated."
@@ -29,11 +31,12 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "Can ventilation alone lower the inside below the outside temperature?",
     "o": [
      "Yes",
+     "Only with fans",
      "No, only towards it",
-     "Only at night",
-     "Only with fans"
+     "Yes, with enough fans running at once",
+     "Only at night"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Ventilation can only bring the inside down towards the outside."
    }
   ],
@@ -80,10 +83,11 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Sow date is found by...",
     "o": [
-     "Transplant date plus weeks in the tray",
-     "Transplant date minus weeks in the tray",
-     "The packet date",
-     "The first frost"
+     "Transplant date plus tray weeks",
+     "Transplant date minus tray weeks",
+     "The last frost date plus eight weeks",
+     "The first frost",
+     "The packet date"
     ],
     "a": 1,
     "w": "Work backwards from the transplant date."
@@ -91,23 +95,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Succession planting means...",
     "o": [
+     "Repeat sowings so harvest is continuous",
+     "Skipping autumn",
+     "Sowing one crop after another crop fails",
      "Sowing everything at once",
-     "Repeating sowings so harvest is continuous",
-     "Sowing only in spring",
-     "Skipping autumn"
+     "Sowing only in spring"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Succession turns one glut into a steady supply."
    },
    {
     "q": "Which block should include autumn sowings of winter greens?",
     "o": [
+     "Spring block",
+     "No block",
      "Summer block",
      "Autumn block",
-     "No block",
-     "Spring block"
+     "Winter block, when they are picked"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Add an autumn block to the calendar."
    }
   ],
@@ -146,21 +152,23 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Where should a sensor sit?",
     "o": [
-     "By the vent",
-     "At plant height, shaded and ventilated",
+     "At the ridge, in full sun, to catch the peak heat",
      "In the sun",
-     "On the floor"
+     "On the floor",
+     "By the vent",
+     "At plant height, shaded and ventilated"
     ],
-    "a": 1,
+    "a": 4,
     "w": "At plant height, shaded and ventilated."
    },
    {
     "q": "What is the main heat source in a greenhouse?",
     "o": [
      "Sun",
-     "Heater",
+     "Pots",
+     "Stored soil heat",
      "Soil",
-     "Pots"
+     "Heater"
     ],
     "a": 0,
     "w": "Sunlight."
@@ -178,12 +186,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A typical medium temperature for germination is...",
     "o": [
+     "Any",
      "30 to 40°F",
-     "65 to 75°F",
      "90 to 100°F",
-     "Any"
+     "75 to 85°F",
+     "65 to 75°F"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Aim for 65 to 75°F for most seeds."
    },
    {
@@ -192,6 +201,7 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
      "At the first true leaves",
      "Never",
      "After flowering",
+     "As soon as the seed leaves open",
      "When they wilt"
     ],
     "a": 0,
@@ -201,7 +211,8 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "How should you handle seedlings?",
     "o": [
      "Pull by the stem",
-     "By the upper leaves, never by the stem",
+     "By the leaves, never the stem",
+     "By the stem, which is the strongest part",
      "With tweezers only",
      "By the roots"
     ],
@@ -244,23 +255,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Sowing 1 April to 8 April for transplant on 20 May means a tray time of...",
     "o": [
-     "6 to 7 weeks",
      "2 weeks",
+     "1 week",
      "12 weeks",
-     "1 week"
+     "6 to 7 weeks",
+     "5 to 6 weeks"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Sow date is transplant date minus weeks in the tray."
    },
    {
     "q": "Succession planting is used to...",
     "o": [
-     "Make the harvest continuous",
+     "Replace failed crops quickly",
+     "Save seed",
      "Sow everything at once",
      "Skip autumn",
-     "Save seed"
+     "Make the harvest continuous"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Succession turns one glut into a steady supply."
    }
   ],
@@ -276,9 +289,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What does pH control?",
     "o": [
-     "Light level",
-     "Which nutrients the plant can take up",
      "Water temperature",
+     "Which nutrients the plant can take up",
+     "How much dissolved salt builds up in the medium",
+     "Light level",
      "Pot size"
     ],
     "a": 1,
@@ -287,23 +301,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What does EC measure?",
     "o": [
-     "Dissolved salts",
-     "Heat",
-     "Light",
-     "Wind"
+     "Air humidity",
+     "Dissolved salts in the medium",
+     "Light intensity",
+     "Water temperature",
+     "The medium's acidity, as a pH proxy"
     ],
-    "a": 0,
+    "a": 1,
     "w": "EC shows dissolved salts: available fertiliser or build-up."
    },
    {
     "q": "How many samples should you average?",
     "o": [
-     "One",
-     "Five to ten",
+     "Two or three",
      "Twenty",
-     "None"
+     "None",
+     "Five to ten",
+     "One"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Take five to ten samples and average them."
    }
   ],
@@ -342,21 +358,23 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What matters most in a germination medium?",
     "o": [
-     "Even moisture, never dry once germination starts",
+     "Plenty of strong fertiliser from the very start",
      "Dry mix",
+     "Even moisture, never dry once started",
      "Hard packing",
      "No light"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Keep the mix evenly moist."
    },
    {
     "q": "When do you pot on?",
     "o": [
      "At the first true leaves",
-     "At flowering",
      "Never",
-     "At harvest"
+     "At harvest",
+     "As soon as the seed leaves open",
+     "At flowering"
     ],
     "a": 0,
     "w": "Pot on at the first true leaves."
@@ -376,6 +394,7 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "o": [
      "Evaporative pads",
      "Natural ventilation",
+     "Pad-and-fan cooling",
      "Fog systems",
      "Air conditioning"
     ],
@@ -385,23 +404,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "In winter, circulation fans should...",
     "o": [
-     "Be off",
-     "Run to mix the air",
+     "Face outwards",
      "Run only at night",
-     "Face outwards"
+     "Be off, to keep warm air at the ridge",
+     "Be off",
+     "Run to mix the air"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Run circulation fans in winter."
    },
    {
     "q": "Shade lowers yield, so use...",
     "o": [
+     "No cloth",
+     "White paint always",
      "The darkest cloth",
      "The lightest cloth that works",
-     "No cloth",
-     "White paint always"
+     "The darkest cloth, for the fewest days"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Use the lightest cloth that works."
    }
   ],
@@ -440,23 +461,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What is EC?",
     "o": [
-     "A measure of dissolved salts",
-     "A pest",
+     "A cover",
      "A fan",
-     "A cover"
+     "A measure of dissolved salts",
+     "A measure of the medium's acidity",
+     "A pest"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Dissolved salts."
    },
    {
     "q": "How many samples should you average?",
     "o": [
-     "Five to ten",
      "One",
      "Two",
-     "None"
+     "None",
+     "Twenty to thirty",
+     "Five to ten"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Average five to ten."
    }
   ],
@@ -472,9 +495,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What comes first in IPM?",
     "o": [
-     "Spraying",
-     "Monitoring",
      "Releasing predators",
+     "Monitoring",
+     "A preventive spray",
+     "Spraying",
      "Pruning"
     ],
     "a": 1,
@@ -483,23 +507,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Yellow sticky cards catch...",
     "o": [
-     "Roots",
-     "Adult insects",
      "Fungi",
-     "Larvae only"
+     "Larvae only",
+     "Larvae and eggs",
+     "Adult insects",
+     "Roots"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Change and count them weekly."
    },
    {
     "q": "Overfeeding and overwatering...",
     "o": [
-     "Reduce pests",
-     "Invite pests and root rots",
      "Have no effect",
-     "Improve yield always"
+     "Reduce pests by making plants stronger",
+     "Improve yield always",
+     "Reduce pests",
+     "Invite pests and root rots"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Overfeeding and overwatering invite pests and root rots."
    }
   ],
@@ -538,23 +564,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What does a vent trigger rely on?",
     "o": [
-     "Your own log and crop target",
-     "A guess",
+     "A catalogue",
      "A friend",
-     "A catalogue"
+     "The manufacturer's default setting",
+     "Your own log and crop target",
+     "A guess"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Set from your own log."
    },
    {
     "q": "What does shade cost?",
     "o": [
+     "Higher humidity and more disease",
      "Lower yield if too heavy",
      "Nothing",
      "Heat",
      "Water"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Shade lowers yield, so use the lightest cloth that works."
    }
   ],
@@ -570,34 +598,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What is variance in the review?",
     "o": [
-     "Actual minus planned, in days",
      "Planned minus actual",
+     "Planned minus actual, in weeks",
      "The average",
+     "Actual minus planned, in days",
      "The total"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Variance is actual minus planned."
    },
    {
     "q": "How many changes should the review choose?",
     "o": [
+     "As many changes as you can think of, big or small",
      "Two, each tied to a recorded number",
+     "One per plant",
      "Twenty",
-     "None",
-     "One per plant"
+     "None"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Choose two changes tied to numbers."
    },
    {
     "q": "Why record dates, not only yield?",
     "o": [
-     "Timing is the main thing to learn",
+     "Yield alone shows everything worth knowing",
      "It is neater",
+     "Timing is the main thing to learn",
      "It is required by law",
      "To fill a page"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Timing is the main thing to learn."
    }
   ],
@@ -637,9 +668,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "What should a decision rule contain?",
     "o": [
      "Monitor, threshold, first non-chemical action, escalate",
+     "A spray, a date to repeat it, and a back-up chemical if it fails",
+     "Nothing",
      "Only a spray",
-     "Only a date",
-     "Nothing"
+     "Only a date"
     ],
     "a": 0,
     "w": "Four parts."
@@ -647,12 +679,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What does the pH control?",
     "o": [
-     "Nutrient availability",
-     "Temperature",
+     "Humidity",
      "Light",
-     "Humidity"
+     "Temperature",
+     "The salt level in the medium",
+     "Nutrient availability"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Nutrient availability."
    }
   ],
@@ -668,21 +701,23 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Where does a sensor go?",
     "o": [
-     "At plant height, shaded and ventilated",
-     "By a vent",
      "In the sun",
-     "Outside"
+     "At plant height, shaded and ventilated",
+     "Outside",
+     "At the ridge, in full sun, to catch the peak heat",
+     "By a vent"
     ],
-    "a": 0,
+    "a": 1,
     "w": "At plant height."
    },
    {
     "q": "How do you find a sow date?",
     "o": [
      "Transplant date minus tray weeks",
-     "Plus tray weeks",
+     "The last frost date plus eight weeks",
      "From the packet date",
-     "From the weather"
+     "From the weather",
+     "Plus tray weeks"
     ],
     "a": 0,
     "w": "Work backwards."
@@ -690,23 +725,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "How many samples for pH and EC?",
     "o": [
-     "Five to ten, averaged",
      "One",
      "Two",
-     "None"
+     "Five to ten, averaged",
+     "None",
+     "One from the best plant"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Five to ten."
    },
    {
     "q": "What comes first in IPM?",
     "o": [
-     "Monitoring",
+     "Cleaning",
+     "A preventive spray",
      "Spraying",
      "Releasing",
-     "Cleaning"
+     "Monitoring"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Monitoring."
    }
   ],

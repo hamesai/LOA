@@ -107,10 +107,11 @@
      "t": "check",
      "q": "What should a healthy gas flame look like?",
      "o": [
+      "Red",
+      "Blue base, slight orange tip",
+      "Mostly yellow with a blue tip, showing full burning",
       "Mostly orange",
-      "Blue base with a slight orange tip",
-      "Yellow all through",
-      "Red"
+      "Yellow all through"
      ],
      "a": 1,
      "w": "The BMC says blue base with slight orange tip. {{bmc}}"
@@ -119,12 +120,13 @@
      "t": "check",
      "q": "Where should you cook if the weather turns?",
      "o": [
-      "Inside the sleeping area",
-      "Outside, sheltered, with a stable stove; only cook in a tent as a last resort with ventilation and a clear exit",
+      "Outside and sheltered; in a tent only as a last resort, ventilated",
+      "Inside the tent with the door zipped, so the wind cannot blow the flame out or tip the pan",
+      "On your lap",
       "Next to your sleeping bag",
-      "On your lap"
+      "Inside the sleeping area"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The BMC says it is always safer to cook outside and gives strict conditions if you must cook in a tent. {{bmc}}"
     },
     {
@@ -203,12 +205,13 @@
      "t": "check",
      "q": "A camper says they would notice if the stove was making the tent air dangerous. Why might they not?",
      "o": [
-      "It smells strongly",
-      "It is colourless, tasteless, odourless and non-irritating",
-      "It is visible as smoke",
-      "It is only outdoors"
+      "It gives a sharp sting in the eyes long before it is dangerous, so they would notice",
+      "It shows as smoke",
+      "It smells strongly, so they would notice",
+      "Carbon monoxide has no colour, taste or smell",
+      "It only builds up outdoors"
      ],
-     "a": 1,
+     "a": 3,
      "w": "NI Direct lists those four properties. {{nid-co}}",
      "kind": "application"
     },
@@ -216,12 +219,13 @@
      "t": "check",
      "q": "You feel dizzy and sick after cooking in your tent. First action?",
      "o": [
-      "Lie down",
-      "Open the tent, go outside into fresh air, and seek help if it persists",
-      "Cook more",
-      "Zip the tent shut"
+      "Cook more food",
+      "Lie down and rest",
+      "Zip the tent shut",
+      "Lie down inside with the door shut, and wait for it to pass",
+      "Get out into fresh air, and seek help if it persists"
      ],
-     "a": 1,
+     "a": 4,
      "w": "NI Direct and the BMC both say ventilate and get fresh air. {{nid-co}} {{bmc}}"
     },
     {
@@ -311,12 +315,13 @@
      "t": "check",
      "q": "A stream looks clear. Is it safe to drink?",
      "o": [
+      "Only if it is moving",
       "Yes",
       "Not necessarily; treat it",
-      "Only if cold",
-      "Only if it is moving"
+      "Yes, if it is fast-flowing and comes from high ground",
+      "Only if cold"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The CDC says clear water can carry germs. {{cdc}}",
      "kind": "application"
     },
@@ -324,12 +329,13 @@
      "t": "check",
      "q": "Which filter removes bacteria and parasites but not viruses?",
      "o": [
+      "A coffee filter",
       "1 micron",
       "0.3 micron or smaller",
-      "Coffee filter",
-      "Chlorine tablet"
+      "5 micron, the size of most parasites",
+      "A chlorine tablet"
      ],
-     "a": 1,
+     "a": 2,
      "w": "A filter with a pore size of 0.3 micron or smaller does so. {{cdc}}"
     },
     {
@@ -425,12 +431,13 @@
      "t": "check",
      "q": "Your cool box thermometer reads 9 °C on day two. What is the target, and is your food safe to treat as chilled?",
      "o": [
-      "10 °C",
-      "8 °C",
-      "5 °C",
-      "0 °C"
+      "Below 0 °C, so it is far too warm",
+      "Below 12 °C, so at 9 °C it is comfortably safe for another day or two",
+      "Below 10 °C, so it is still safe",
+      "Below 8 °C, so it is borderline",
+      "Below 5 °C, so it is not safe to treat as chilled"
      ],
-     "a": 2,
+     "a": 4,
      "w": "The FSA says food should be stored below 5 °C. {{fsa}}",
      "kind": "application"
     },
@@ -438,10 +445,11 @@
      "t": "check",
      "q": "How long should you wash your hands?",
      "o": [
-      "5 seconds",
+      "10 seconds with cold water and plenty of soap",
       "20 seconds with soap and hot water",
+      "Just use gel",
       "A minute with cold water",
-      "Just use gel"
+      "5 seconds"
      ],
      "a": 1,
      "w": "The FSA says ideally 20 seconds with soap and hot water. {{fsa}}"
@@ -572,35 +580,38 @@
      "q": "What did Nansen choose as fuel, and why?",
      "o": [
       "Alcohol, because it burns easily",
-      "Petroleum, because it gives more heat for its weight when fully burnt",
+      "Alcohol, because it gives more heat for its weight and burns cleanly",
       "Wood, because it is free",
+      "Petroleum: more heat for its weight when fully burnt",
       "Coal"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He chose petroleum for heat per weight. {{nansen-fn}}"
     },
     {
      "t": "check",
      "q": "What was the cooker's efficiency from Professor Torup's experiments?",
      "o": [
-      "50 to 60 per cent",
-      "70 to 75 per cent",
       "90 to 93 per cent",
-      "100 per cent"
+      "100 per cent",
+      "70 to 75 per cent",
+      "50 to 60 per cent",
+      "About 30 per cent, typical of open fires"
      ],
-     "a": 2,
+     "a": 0,
      "w": "The experiments gave 90 to 93 per cent of the theoretical heat. {{nansen-fn}}"
     },
     {
      "t": "check",
      "q": "Why is it wrong to cook inside a closed tent today?",
      "o": [
-      "It is too slow",
       "Burning fuel makes carbon monoxide, which can kill",
       "It wastes fuel",
+      "It is too slow",
+      "It soaks the tent with condensation, which ruins the down bags",
       "It melts the tent"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Carbon monoxide cannot be seen or smelled and is deadly. This is safety advice from this course, not from Nansen."
     },
     {

@@ -75,12 +75,13 @@
      "t": "check",
      "q": "Your 6 x 8 ft greenhouse heats up fast every time you leave the door open, while your neighbour's big house barely changes. Why?",
      "o": [
-      "Its covering is thinner",
-      "Its air volume is small, so a door opening changes the temperature quickly",
-      "It holds fewer plants",
-      "It is never vented"
+      "It holds fewer plants to buffer heat",
+      "Small houses gain more sun per square foot of floor, so they always run hotter in any weather",
+      "Its air volume is small, so a door changes it fast",
+      "It is never vented properly",
+      "Its covering is thinner than a big house's"
      ],
-     "a": 1,
+     "a": 2,
      "w": "NC State: temperatures in small greenhouses fluctuate more rapidly because the air volume is small.",
      "kind": "application"
     },
@@ -88,12 +89,13 @@
      "t": "check",
      "q": "On a 28°C day you open every vent and run the fan but add no shade or evaporative cooling. What is the best you can hope for inside?",
      "o": [
+      "As cool as the vents are set",
+      "10°F below outdoors (unverified)",
       "Below the outdoor temperature",
-      "About the same as the outdoor temperature at best",
-      "10°F below outdoor (unverified)",
-      "As cool as you set the vents"
+      "A few degrees below outdoors, since moving air always cools below the outside air temperature",
+      "About the outdoor temperature, at best"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Rutgers: with no other cooling capability the indoor temperature cannot be lowered below the outdoor temperature.",
      "kind": "application"
     },
@@ -226,22 +228,24 @@
      "t": "check",
      "q": "In the northern hemisphere, where should the long side of the greenhouse face?",
      "o": [
-      "North",
       "East",
+      "North",
+      "North-east, for morning sun",
       "South",
       "West"
      ],
-     "a": 2,
+     "a": 3,
      "w": "Arizona Extension recommends the long side facing south to collect the most sun."
     },
     {
      "t": "check",
      "q": "Which statement about polyethylene film is supported by the sources?",
      "o": [
-      "It lasts ten years",
-      "Lifespan depends on grade, from about a year to two or three years",
       "UV inhibitors make no difference",
-      "It needs a heavy glass-grade frame"
+      "Its life depends on grade, from a year to two or three",
+      "It needs a heavy glass-grade frame",
+      "Every grade lasts about five years whatever UV treatment it has had",
+      "It lasts ten years"
      ],
      "a": 1,
      "w": "NC State gives about one year for utility grade, 12–18 months for greenhouse grade and two to three years for copolymers."
@@ -373,36 +377,39 @@
      "t": "check",
      "q": "A house has a volume of 2,000 ft³. What exhaust capacity does the NC State summer rule suggest?",
      "o": [
-      "200–300 ft³/min",
-      "1,000 ft³/min",
       "2,000–3,000 ft³/min",
-      "20,000 ft³/min"
+      "1,000 ft³/min",
+      "20,000 ft³/min",
+      "200–300 ft³/min",
+      "2,000–3,000 ft³ per hour"
      ],
-     "a": 2,
+     "a": 0,
      "w": "One to one and a half changes per minute times 2,000 ft³ is 2,000 to 3,000 ft³/min."
     },
     {
      "t": "check",
      "q": "What should circulation fans do in winter?",
      "o": [
+      "Run only on sunny days",
       "Stay off",
       "Run continuously",
-      "Run only at night",
-      "Run only on sunny days"
+      "Stay off, so warm air stays at the ridge",
+      "Run only at night"
      ],
-     "a": 1,
+     "a": 2,
      "w": "NC State: operate the fans continuously during the winter and turn them off in summer."
     },
     {
      "t": "check",
      "q": "Why might fitting insect screens cause overheating?",
      "o": [
-      "Screens absorb heat",
-      "Screens resist airflow and can cut natural ventilation by more than half",
+      "Screens resist airflow, cutting ventilation by over half",
+      "Screens trap the sun's heat in their mesh and radiate it inward",
       "Screens block light",
-      "Screens close the vents"
+      "Screens close the vents",
+      "Screens absorb heat"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Purdue reports reductions of more than 50% in some studies. Increase screen area to compensate."
     },
     {
@@ -508,21 +515,23 @@
      "t": "check",
      "q": "Where should the thermometer sit?",
      "o": [
+      "Next to the door",
+      "In full sun at the ridge, where the hottest air collects, so you see the worst case",
       "Beside a vent, so it reacts quickly",
-      "At plant height, shaded, away from vents and heaters, with air moving over it",
       "On the roof ridge",
-      "Next to the door"
+      "At plant height, shaded, away from vents and heaters, in moving air"
      ],
-     "a": 1,
+     "a": 4,
      "w": "NC State's sensor rule: shaded, about plant height away from the walkway, with constant airflow."
     },
     {
      "t": "check",
      "q": "Your log shows the house 4°C above outdoors even with vents open. What does this tell you?",
      "o": [
-      "The thermometer is broken",
-      "Ventilation alone cannot fix it; more cooling is needed",
       "The vents are too small by half",
+      "Vents alone can't fix it; more cooling is needed",
+      "Nothing: a house always sits a few degrees above outdoors and this needs no action",
+      "The thermometer is broken",
       "Nothing"
      ],
      "a": 1,
@@ -667,12 +676,13 @@
      "t": "check",
      "q": "What did the front pillars of the described house carry inside them?",
      "o": [
-      "Wires",
-      "A leaden pipe taking roof water to a drain",
+      "Heaters",
       "Seeds",
-      "Heaters"
+      "Hot-water pipes from the boiler to the benches",
+      "A lead pipe taking roof water to a drain",
+      "Wires"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The front pillars are hollow and carry a leaden pipe that takes water from the roof into a drain. {{loudon-paxton}}"
     },
     {
@@ -680,23 +690,25 @@
      "q": "Why were the Chatsworth path boards laid loose with gaps?",
      "o": [
       "To save wood",
-      "So heat and steam rise, dust falls through, and the boards stay dry",
+      "So rainwater could drain from the roof gutters underneath",
+      "To store tools",
       "To hide pipes",
-      "To store tools"
+      "So heat rises, dust falls through, and boards stay dry"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Heat rises through, dust falls through when swept, and watering leaves the boards dry. {{loudon-paths}}"
     },
     {
      "t": "check",
      "q": "What did Paxton aim to catch with his ridge-and-furrow roof, according to Grace's Guide?",
      "o": [
+      "The high midday sun, while shading the low morning light",
+      "Heat from the soil",
       "Only the midday sun",
-      "The low morning and evening sun, and to drain rain",
-      "Northern light",
-      "Heat from the soil"
+      "Low morning and evening sun, and to drain rain",
+      "Northern light"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The roof was set at right angles to the morning and evening sun to admit more light and drain rainwater. {{gg-paxton}}"
     },
     {

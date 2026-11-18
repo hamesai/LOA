@@ -8,7 +8,8 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "Radiocarbon dating",
     "Historical linguistics",
     "Portuguese letters",
-    "Coins"
+    "Archaeological pottery styles",
+    "Pollen cores"
    ],
    "a": 1,
    "w": "Linguistics reconstructs how related languages split and spread."
@@ -16,12 +17,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "Is Bantu a tribe?",
    "o": [
-    "Yes",
     "No, it is a language family",
-    "Only in Cameroon",
-    "Only in the 1940s"
+    "Yes, but only in Cameroon today",
+    "No, it is a region",
+    "No, it is a racial group",
+    "Yes, one tribe that spread"
    ],
-   "a": 1,
+   "a": 0,
    "w": "More than 500 languages share a common ancestor."
   }
  ],
@@ -65,23 +67,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "Who conquered Egypt and left a victory stele c. 744 to 714 BCE?",
    "o": [
-    "Taharqa",
     "Piye",
+    "Amanirenas",
     "Ezana",
+    "Taharqa",
     "Lalibela"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Piye of Kush."
   },
   {
    "q": "What is the Kebra Nagast?",
    "o": [
-    "A Greek chronicle",
-    "A legitimising text for the Solomonic line",
-    "A coin hoard",
-    "A treaty"
+    "A treaty between Aksum and Nubia",
+    "A Zagwe king list later copied by the Solomonids",
+    "A neutral genealogy of the kings of Aksum",
+    "A Greek chronicle of the Red Sea trade",
+    "A legitimising text for the Solomonic line"
    ],
-   "a": 1,
+   "a": 4,
    "w": "It is tradition, not history."
   }
  ],
@@ -116,12 +120,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "Which tag fits the date c. 1235 for Kirina?",
    "o": [
-    "[FIRM]",
-    "[TRADITIONAL DATE]",
     "[CONTESTED]",
-    "No tag"
+    "[FIRM]",
+    "No tag",
+    "[THIN EVIDENCE, CONTESTED]",
+    "[TRADITIONAL DATE]"
    ],
-   "a": 1,
+   "a": 4,
    "w": "It comes from the epic and is approximate."
   }
  ],
@@ -137,10 +142,11 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "When did Rome destroy Carthage?",
    "o": [
-    "264 BCE",
-    "146 BCE",
     "439 CE",
-    "698 CE"
+    "146 BCE",
+    "202 BCE",
+    "698 CE",
+    "264 BCE"
    ],
    "a": 1,
    "w": "The Third Punic War ended in 146 BCE."
@@ -151,7 +157,8 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "Almohads",
     "Almoravids",
     "Zagwe",
-    "Vandals"
+    "Fatimid caliphs",
+    "Marinids"
    ],
    "a": 1,
    "w": "The Almoravids."
@@ -188,12 +195,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "Why is the Kebra Nagast not a plain genealogy?",
    "o": [
-    "It is too long",
-    "It was written to legitimise a ruling line",
-    "It is in Latin",
-    "It names no kings"
+    "It names no kings, only prophets and saints",
+    "It is too long to be a simple list of kings",
+    "It was compiled by foreign Greek scholars",
+    "It is written in Latin, not in Ge'ez",
+    "It was written to legitimise a ruling line"
    ],
-   "a": 1,
+   "a": 4,
    "w": "It is a political text."
   }
  ],
@@ -209,23 +217,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "Which writer compiled the 1068 account of Ghana from informants?",
    "o": [
+    "Al-Umari",
+    "Al-Sa'di",
     "Ibn Battuta",
-    "Al-Bakri",
     "Leo Africanus",
-    "Al-Sa'di"
+    "Al-Bakri"
    ],
-   "a": 1,
+   "a": 4,
    "w": "Al-Bakri never visited."
   },
   {
    "q": "Who led the jihad that created the Sokoto Caliphate?",
    "o": [
+    "Askia Muhammad",
+    "Mansa Musa",
     "Sunni Ali",
     "Usman dan Fodio",
-    "Askia Muhammad",
-    "Mansa Musa"
+    "Al-Hajj Umar Tall"
    ],
-   "a": 1,
+   "a": 3,
    "w": "He migrated in 1804."
   }
  ],
@@ -260,12 +270,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "Which goods moved south across the Sahara?",
    "o": [
-    "Gold",
-    "Salt, cloth and copper",
-    "Only books",
-    "Only people"
+    "Only books and paper",
+    "Gold, ivory and kola nuts",
+    "Only enslaved people",
+    "Gold and enslaved people",
+    "Salt, cloth and copper"
    ],
-   "a": 1,
+   "a": 4,
    "w": "Gold and enslaved people moved north."
   }
  ],
@@ -281,21 +292,23 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "Who claimed in 1910 that Ife art could not be African?",
    "o": [
+    "Ivor Wilks",
     "Thurstan Shaw",
-    "Leo Frobenius",
     "Samuel Johnson",
-    "Ivor Wilks"
+    "Frank Willett",
+    "Leo Frobenius"
    ],
-   "a": 1,
+   "a": 4,
    "w": "The claim is racist and unsupported."
   },
   {
    "q": "Which Dahomey feature is contested?",
    "o": [
-    "The Customs",
+    "Its access to the coast",
     "The origin of the Agojie",
-    "The capital",
-    "The coast"
+    "That it had a king",
+    "The holding of the annual Customs",
+    "The location of the capital at Abomey"
    ],
    "a": 1,
    "w": "Hangbe's role is disputed."
@@ -332,12 +345,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "What is a heterarchy?",
    "o": [
-    "Rule by one king",
     "Power spread across groups",
-    "A trade route",
-    "A calendar"
+    "A ritual calendar",
+    "A trade route across the Sahara",
+    "Rule by one sacred king",
+    "Rule by a council of elders"
    ],
-   "a": 1,
+   "a": 0,
    "w": "Jenne-jeno example."
   }
  ],
@@ -354,6 +368,7 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    "q": "Which language is Swahili?",
    "o": [
     "A Bantu language with Arabic loan-words",
+    "An Arabic dialect with Bantu loan-words",
     "A Persian dialect",
     "A Semitic language",
     "A creole of Portuguese"
@@ -364,12 +379,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "What happened at Mbwila?",
    "o": [
-    "A Portuguese-led force defeated Kongo in 1665",
-    "Kilwa was sacked",
-    "Fort Jesus fell",
-    "Afonso wrote a letter"
+    "Nzinga a Nkuwu was baptised by Portuguese priests",
+    "Kongo defeated a Portuguese-led force on 29/10/1665",
+    "Fort Jesus fell to Omani forces after a long siege",
+    "A Portuguese-led force defeated Kongo on 29/10/1665",
+    "Portugal sacked Kilwa and installed a new sultan"
    ],
-   "a": 0,
+   "a": 3,
    "w": "It killed the king."
   }
  ],
@@ -405,11 +421,12 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    "q": "Who left the Ge'ez, Sabaean and Greek inscriptions?",
    "o": [
     "Piye",
-    "Ezana",
+    "Lalibela",
     "Taharqa",
-    "Lalibela"
+    "Yekuno Amlak",
+    "Ezana"
    ],
-   "a": 1,
+   "a": 4,
    "w": "Ezana."
   }
  ],
@@ -425,23 +442,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "Who showed in 1929 that Great Zimbabwe was built by Africans?",
    "o": [
-    "Caton-Thompson",
+    "Rhodes",
     "Mauch",
-    "Bent",
-    "Rhodes"
+    "Randall-MacIver",
+    "Caton-Thompson",
+    "Bent"
    ],
-   "a": 0,
+   "a": 3,
    "w": "With Randall-MacIver in 1905."
   },
   {
    "q": "When was Isandlwana?",
    "o": [
+    "11/01/1879",
+    "1828",
     "22/01/1879",
     "04/07/1879",
-    "16/12/1838",
-    "1828"
+    "16/12/1838"
    ],
-   "a": 0,
+   "a": 2,
    "w": "A Zulu victory."
   }
  ],
@@ -476,10 +495,11 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "How does the Swahili debate connect to Great Zimbabwe?",
    "o": [
-    "It does not",
+    "Both were Roman trading posts",
     "Both show African builders linked to the Indian Ocean",
-    "Both are Persian",
-    "Both are Roman"
+    "Both were built by Arab colonists who sailed from Oman",
+    "It does not: the two debates have no connection",
+    "Both were built by Persian settlers"
    ],
    "a": 1,
    "w": "Trade links and African builders."
@@ -497,21 +517,23 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "About how many people embarked in the Atlantic trade, 1501 to 1866 (Voyages)?",
    "o": [
-    "1.25 million",
     "12.5 million",
     "125 million",
-    "2.5 million"
+    "10.7 million",
+    "9.4 million",
+    "1.25 million"
    ],
-   "a": 1,
+   "a": 0,
    "w": "12,521,354 on the estimates page."
   },
   {
    "q": "Did the Berlin Conference draw Africa's borders?",
    "o": [
-    "Yes",
+    "Only in the east, where Britain and Germany met",
     "No, they were set mostly by later bilateral treaties",
-    "Only in the east",
-    "Only in the west"
+    "Yes, on a single map agreed at the conference table",
+    "No, they followed the borders of earlier African states",
+    "Only in the west, where France and Britain met"
    ],
    "a": 1,
    "w": "It set rules, not borders."
@@ -548,12 +570,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
   {
    "q": "Which Kongo king wrote against the trade in 1526?",
    "o": [
-    "Afonso I",
-    "Nzinga a Nkuwu",
     "Mutesa I",
-    "Njinga"
+    "Njinga",
+    "Garcia II",
+    "Nzinga a Nkuwu",
+    "Afonso I"
    ],
-   "a": 0,
+   "a": 4,
    "w": "Afonso I."
   }
  ],

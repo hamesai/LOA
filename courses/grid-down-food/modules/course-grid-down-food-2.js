@@ -32,6 +32,10 @@
      "x": "Both authorities call these estimates, and the real time depends on the make and model and on how warm the room is. {{fsa}}"
     },
     {
+     "t": "p",
+     "x": "Why the clock counts in hours: in warm, moist food, bacteria can divide every 10 to 30 minutes, so their numbers climb very quickly. {{usda-glossary}}"
+    },
+    {
      "t": "fig",
      "id": "grid-down-food-clock",
      "title": "The power-cut clock",
@@ -94,22 +98,24 @@
      "t": "check",
      "q": "A closed fridge loses power at 16:45. When should you decide about perishable food if you use the 4-hour guide?",
      "o": [
+      "18:45",
+      "22:45",
       "16:45 the next day",
       "20:45",
-      "18:45",
-      "22:45"
+      "20:15"
      ],
-     "a": 1,
+     "a": 3,
      "w": "16:45 + 4 hours = 20:45. {{fsa}}"
     },
     {
      "t": "check",
      "q": "The power goes off and your freezer is half full. What two things will keep it cold longest?",
      "o": [
-      "Opening it to check",
-      "Keeping it full and the door closed",
-      "Emptying it",
-      "Turning it off"
+      "Open it to check",
+      "Fill it and keep the door closed",
+      "Turn it off",
+      "Open it hourly to let cold air circulate",
+      "Empty it"
      ],
      "a": 1,
      "w": "A full freezer holds its temperature longer; keep the door closed. {{fsis}} {{fsa}}",
@@ -235,12 +241,13 @@
      "t": "check",
      "q": "Day one of an outage: you have chilled food, defrosted peas and tins. Following the FSA order, what do you eat after the chilled food?",
      "o": [
-      "Canned food",
-      "Defrosted frozen food that doesn't need cooking",
       "Dried food",
-      "Fresh meat"
+      "Canned food, since it is the safest of all your stock",
+      "Defrosted frozen food that needs no cooking",
+      "Fresh meat",
+      "Canned food"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The FSA order is refrigerated, then defrosted without cooking, then room-temperature perishable, then canned, bottled and dried. {{fsa}}",
      "kind": "application"
     },
@@ -248,12 +255,13 @@
      "t": "check",
      "q": "Why do FSIS and the CMOs differ on milk?",
      "o": [
-      "One is wrong",
-      "They are written for different situations and risk levels",
-      "Milk is different in each country",
-      "They disagree about pasteurisation"
+      "Different situations and risk levels",
+      "Milk differs in each country",
+      "FSIS covers only raw milk and the CMOs cover only pasteurised milk",
+      "They disagree about pasteurisation",
+      "One of them is wrong"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The CMO script is for a long national outage; FSIS gives a stricter general rule. Use the stricter one where you can. {{cmo}} {{fsis}}"
     },
     {
@@ -344,12 +352,13 @@
      "t": "check",
      "q": "A bag of peas has thawed and been above 40 F for over 2 hours. What does FSIS say?",
      "o": [
+      "Refreeze it if still cold",
       "Refreeze it",
-      "Discard it",
       "Eat it raw",
-      "Cook it and refreeze"
+      "Cook it and refreeze",
+      "Discard it"
      ],
-     "a": 1,
+     "a": 4,
      "w": "FSIS says food that has thawed and been above 40 F for over 2 hours should be discarded, so the peas go. {{fsis}}",
      "kind": "application"
     },
@@ -357,12 +366,13 @@
      "t": "check",
      "q": "After a 12-hour cut your freezer has thawed. Which item does FSIS say must go?",
      "o": [
-      "Bread",
       "Ice cream",
       "Flour",
+      "Bread",
+      "Bread rolls and pastry",
       "Hard cheese"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Ice cream and frozen yoghurt are discarded when thawed. {{fsis}}",
      "kind": "application"
     },
@@ -454,12 +464,13 @@
      "t": "check",
      "q": "After 6 hours without power or a cold source, which should be thrown out?",
      "o": [
-      "Mustard",
+      "Jam",
       "Butter",
+      "Mustard",
       "Cooked rice",
-      "Jam"
+      "Hard cheese"
      ],
-     "a": 2,
+     "a": 3,
      "w": "Cooked pasta, rice and potatoes are discarded; butter, mustard and jam are safe. {{fsis}}",
      "kind": "application"
     },
@@ -467,12 +478,13 @@
      "t": "check",
      "q": "What should you do with a can that spurts liquid when opened?",
      "o": [
-      "Eat quickly",
-      "Throw it out",
+      "Taste a little",
+      "Eat it quickly",
+      "Boil it for 10 minutes, then eat it",
       "Boil it for a minute",
-      "Taste a little"
+      "Throw it out"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Containers that spurt liquid or foam are signs of contamination. {{cdcbot}}"
     },
     {
@@ -497,6 +509,32 @@
     {
      "t": "p",
      "x": "That page is written for consumers. It tells businesses to contact the food safety team at their local authority for advice. {{fsa}} Treat the household figures as a starting point, and agree your own rules with your local authority before you trade."
+    },
+    {
+     "t": "p",
+     "x": "The FSA business pack gives the decisions a business makes when a freezer fails. Food still hard and icy goes to another freezer straight away. Food that has started to soften or leak liquid carries on defrosting by a safe method. Fully defrosted food that is soft and warm is cooked, if it suits cooking, until piping hot, then used or chilled or frozen at once; if not, it is thrown away. Food that must stay frozen, such as ice cream, cannot be refrozen once it starts to defrost. {{sfbb-cross}}"
+    },
+    {
+     "t": "p",
+     "x": "If you cannot move the food somewhere cold, or do not know how long the equipment was off, the pack tells you to contact the Environmental Health Team at your local council. {{sfbb-cross}}"
+    },
+    {
+     "t": "p",
+     "x": "Chilled stock follows a stricter business rule: food may be out of chilled storage for up to four hours, once only. Under four hours it can go back at 8 C or below; over four hours it must be thrown away, so label the time it came out. {{sfbb-cross}}"
+    },
+    {
+     "t": "check",
+     "q": "A freezer of frozen meals failed overnight. Some packs are still hard and icy, some are soft and warm. What does the FSA business pack say?",
+     "o": [
+      "Refreeze everything once the power is back",
+      "Move hard, icy packs to another freezer; soft, warm packs can't be refrozen",
+      "Throw everything away",
+      "Sell the soft packs first as chilled meals",
+      "Refreeze the soft packs first, since they are most at risk, then move the hard ones into the fridge"
+     ],
+     "a": 1,
+     "w": "Still-frozen food goes to another freezer; fully defrosted food must be cooked piping hot and then used, chilled or frozen, or thrown away. {{sfbb-cross}}",
+     "kind": "application"
     },
     {
      "t": "p",
@@ -563,8 +601,9 @@
      "q": "In the FSA household estimate, how long does a full freezer keep food frozen?",
      "o": [
       "4 hours",
-      "12 hours",
+      "24 hours",
       "48 hours",
+      "12 hours",
       "7 days"
      ],
      "a": 2,
@@ -574,12 +613,13 @@
      "t": "check",
      "q": "Who should a food business ask about power cut advice?",
      "o": [
-      "Its customers",
-      "Its local authority food safety team",
+      "Its insurer, which sets the food safety rules",
+      "No one",
       "A supplier only",
-      "No one"
+      "Its customers",
+      "Its local authority food safety team"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The FSA page says businesses should contact the food safety team at their local authority. {{fsa}}"
     },
     {
@@ -699,24 +739,26 @@
      "t": "check",
      "q": "What happened to Pasteur's sensitive infusion at 15 to 25 °C?",
      "o": [
-      "It stayed clear for a week",
+      "It vanished",
+      "It stayed clear until heated again",
       "It clouded by the next day",
       "It froze",
-      "It vanished"
+      "It stayed clear for a week"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He says it would be completely clouded the next day. {{pasteur-1864}}"
     },
     {
      "t": "check",
      "q": "Which is true of pasteurisation?",
      "o": [
-      "It kills every microbe and spore",
       "It does not destroy all microbes or spores",
+      "It is the same as freezing",
+      "It kills every microbe and spore",
       "It works only on milk",
-      "It is the same as freezing"
+      "It kills every microbe, but it leaves the spores alive"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Britannica says pasteurisation does not destroy all microbes or spores. {{brit-pasteurization}}"
     },
     {
@@ -724,11 +766,12 @@
      "q": "What did the vial counts show about exposure?",
      "o": [
       "Nothing",
-      "More exposure to dust meant more spoiled vials",
+      "Glass is poisonous",
       "Dust is harmless",
-      "Glass is poisonous"
+      "More dust exposure meant more spoiled vials",
+      "Exposure made no difference at all to spoilage"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The number of altered vials rose where there was more dust. {{pasteur-1864}}"
     },
     {

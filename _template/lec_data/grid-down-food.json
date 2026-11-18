@@ -208,36 +208,39 @@
      "t": "check",
      "q": "What did Pasteur find in the cotton wad after dust was drawn through it?",
      "o": [
-      "Only soot",
-      "Organised corpuscles like mould seeds among the soot and fibres",
+      "Nothing",
+      "Only soot and cotton fibres, with nothing living",
       "Water",
-      "Nothing"
+      "Only soot",
+      "Organised corpuscles like mould seeds"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Among the amorphous objects he found organised corpuscles that looked like mould seeds. {{pasteur-1864}}"
     },
     {
      "t": "check",
      "q": "Why did the long-necked open flask stay clear?",
      "o": [
-      "It was sealed",
-      "Dust fell on the curved neck before reaching the broth",
+      "It was frozen",
       "It had no air",
-      "It was frozen"
+      "Dust settled in the curved neck",
+      "Air could not reach the broth through the long neck",
+      "It was sealed"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The dust falls on the curved neck before reaching the liquid. {{pasteur-1864}}"
     },
     {
      "t": "check",
      "q": "What was the hidden source of error in Pouchet's experiment?",
      "o": [
-      "The hay",
-      "The vat of mercury, which carried dust into the flask",
+      "The mercury vat, carrying dust in",
+      "The hay infusion, which he had not boiled",
       "The water",
-      "The oxygen"
+      "The oxygen",
+      "The hay"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He showed that the mercury vat introduces dust. {{pasteur-1864}}"
     },
     {
@@ -252,10 +255,11 @@
    "quiz": {
     "q": "What did Pasteur's swan-neck flask show about boiled broth kept from fresh air?",
     "o": [
-     "It spoils at once",
+     "It boils again",
      "It stays sterile",
+     "It spoils after a week",
      "It turns to vinegar",
-     "It boils again"
+     "It spoils at once"
     ],
     "a": 1,
     "w": "The liquid stayed unaltered because dust could not reach it. {{pasteur-1864}} {{brit-pasteur}}"
@@ -370,24 +374,26 @@
      "t": "check",
      "q": "What happened to Pasteur's sensitive infusion at 15 to 25 °C?",
      "o": [
-      "It stayed clear for a week",
+      "It vanished",
+      "It stayed clear until heated again",
       "It clouded by the next day",
       "It froze",
-      "It vanished"
+      "It stayed clear for a week"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He says it would be completely clouded the next day. {{pasteur-1864}}"
     },
     {
      "t": "check",
      "q": "Which is true of pasteurisation?",
      "o": [
-      "It kills every microbe and spore",
       "It does not destroy all microbes or spores",
+      "It is the same as freezing",
+      "It kills every microbe and spore",
       "It works only on milk",
-      "It is the same as freezing"
+      "It kills every microbe, but it leaves the spores alive"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Britannica says pasteurisation does not destroy all microbes or spores. {{brit-pasteurization}}"
     },
     {
@@ -395,11 +401,12 @@
      "q": "What did the vial counts show about exposure?",
      "o": [
       "Nothing",
-      "More exposure to dust meant more spoiled vials",
+      "Glass is poisonous",
       "Dust is harmless",
-      "Glass is poisonous"
+      "More dust exposure meant more spoiled vials",
+      "Exposure made no difference at all to spoilage"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The number of altered vials rose where there was more dust. {{pasteur-1864}}"
     },
     {
@@ -414,12 +421,13 @@
    "quiz": {
     "q": "Which is true of pasteurization?",
     "o": [
+     "It is the same as freezing",
      "It kills every microbe and spore",
      "It does not destroy all microbes or spores",
-     "It works only on milk",
-     "It is the same as freezing"
+     "It kills every microbe, but it leaves the spores alive",
+     "It works only on milk"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Pasteurization does not destroy all microbes or microbial spores. {{brit-pasteurization}}"
    }
   },
@@ -539,10 +547,11 @@
      "t": "check",
      "q": "What made Snow's comparison a natural experiment?",
      "o": [
+      "He chose houses at random and asked each one to switch water company for a year",
+      "Two companies' pipes ran side by side, so neighbours differed only in supply",
       "He gave people different water",
-      "The two companies' pipes ran side by side, so neighbours differed only in supply",
-      "He ran a laboratory trial",
-      "He chose the sickest houses"
+      "He chose the sickest houses",
+      "He ran a laboratory trial"
      ],
      "a": 1,
      "w": "A single house often had a different supply from either neighbour. {{snow-water}}"
@@ -551,24 +560,26 @@
      "t": "check",
      "q": "How did he check each house's supply?",
      "o": [
-      "He believed the resident",
-      "He asked for the water-rate receipt and used a chemical test",
+      "He tasted the water",
+      "He believed what the residents told him",
       "He guessed",
-      "He tasted the water"
+      "Water-rate receipts and a chemical test",
+      "He believed the resident"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He did not rest content with the reply and asked for the receipt, helped by a chemical test. {{snow-water}}"
     },
     {
      "t": "check",
      "q": "Why quote the weeks with a ratio?",
      "o": [
-      "To look careful",
-      "The ratio changed as he gathered more data",
       "It is a rule of grammar",
-      "It shortens the report"
+      "It shortens the report",
+      "The ratio changed as more data came in",
+      "Ratios never change, so the weeks do not matter",
+      "To look careful"
      ],
-     "a": 1,
+     "a": 2,
      "w": "His ratio changed from 6 to 1 to 3½ to 1 with more data. {{snow-water}}"
     },
     {
@@ -583,12 +594,13 @@
    "quiz": {
     "q": "What was Snow's 1854 deaths-per-10,000-houses figure for Southwark and Vauxhall customers?",
     "o": [
-     "37",
-     "59",
      "315",
-     "1,263"
+     "1,263",
+     "59",
+     "71",
+     "37"
     ],
-    "a": 2,
+    "a": 0,
     "w": "The secondary table gives 315 per 10,000 houses, from a different measure than the first-four-weeks rate. {{snow-ije}}"
    }
   },
@@ -713,22 +725,24 @@
      "t": "check",
      "q": "What was Rumford's soup made of?",
      "o": [
-      "Beef and wine",
-      "Pearl barley, peas, potatoes, bread cuttings, vinegar, salt and water",
       "Rice only",
+      "Beef, barley, onions and potatoes, thickened with flour",
+      "Beef and wine",
+      "Barley, peas, potatoes, bread, vinegar, salt and water",
       "Fish and cream"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He lists pearl barley, peas, potatoes, bread cuttings, vinegar, salt and water. {{rumford-essays}}"
     },
     {
      "t": "check",
      "q": "When did he add the bread?",
      "o": [
-      "First",
-      "At the moment of serving, or in the serving tubs",
       "After two hours",
-      "Never"
+      "At serving, or in the serving tubs",
+      "Never",
+      "At the very start, to thicken the soup",
+      "First"
      ],
      "a": 1,
      "w": "He adds the bread last, at the moment of serving. {{rumford-essays}}"
@@ -738,11 +752,12 @@
      "q": "What share of the daily cost was fuel, using his figures?",
      "o": [
       "About half",
-      "About 10 percent",
-      "About half of one percent",
-      "More than labour"
+      "About a quarter of the total",
+      "More than labour",
+      "About 10 per cent",
+      "About half of one per cent"
      ],
-     "a": 2,
+     "a": 4,
      "w": "2¼d out of 422¼d is about 0.5 percent. {{rumford-essays}}"
     },
     {
@@ -758,11 +773,12 @@
     "q": "Which is a Rumford-style way to save fuel?",
     "o": [
      "Cook without a lid",
-     "Use a covered pot and control the heat",
+     "Boil hard, so the food cooks faster overall",
      "Boil harder",
+     "Use a covered pot and control the heat",
      "Open the oven often"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Covers confine the heat, and controlling the burn saves fuel. {{rumford-psm}}"
    }
   },
@@ -892,10 +908,11 @@
      "t": "check",
      "q": "According to Appert, on what did success chiefly depend?",
      "o": [
-      "The colour of the jar",
-      "The corking",
       "The time of year",
-      "The sugar"
+      "The corking",
+      "The colour of the jar",
+      "The sugar",
+      "The length of boiling"
      ],
      "a": 1,
      "w": "He says it is chiefly on the corking that success depends. {{appert-1812}}"
@@ -904,24 +921,26 @@
      "t": "check",
      "q": "Why did he leave two or three inches below the rim?",
      "o": [
+      "So bottles would not burst as contents swelled",
+      "To fit a label",
+      "To let some air in to keep the food fresh while stored",
       "For decoration",
-      "So the bottles would not burst from bubbling and swelling in the heat",
-      "To save food",
-      "To fit a label"
+      "To save food"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He left room lest they burst. {{appert-1812}}"
     },
     {
      "t": "check",
      "q": "Who later explained why the sealed, heated bottles kept the food?",
      "o": [
-      "Rumford",
-      "Louis Pasteur",
+      "Franklin",
+      "Justus von Liebig",
       "Snow",
-      "Franklin"
+      "Louis Pasteur",
+      "Rumford"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Britannica says Pasteur later explained that the heat killed microorganisms and the seal stopped new ones (unverified: not in the excerpt checked). {{brit-canning}}"
     },
     {
@@ -936,12 +955,13 @@
    "quiz": {
     "q": "Who later explained why Appert's sealed and heated jars kept food?",
     "o": [
-     "Rumford",
      "Louis Pasteur",
      "Snow",
+     "Rumford",
+     "Justus von Liebig",
      "Franklin"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Britannica says Pasteur later explained that the heat killed microorganisms and the seal stopped new ones entering (unverified: not in the excerpt checked). {{brit-canning}}"
    }
   },
@@ -1071,10 +1091,11 @@
      "t": "check",
      "q": "What did Franklin say the town lacked in fighting fires?",
      "o": [
-      "Hands or goodwill",
+      "Water only",
       "Order and method",
       "Money",
-      "Water only"
+      "Hands or goodwill",
+      "Enough willing hands"
      ],
      "a": 1,
      "w": "He says they did not want hands or goodwill but seemed to want order and method. {{franklin-fire}}"
@@ -1083,12 +1104,13 @@
      "t": "check",
      "q": "How often did the engine societies work their engines, in his proposal?",
      "o": [
-      "Daily",
       "Once a quarter",
       "Once a year",
-      "Never"
+      "Once a year, at the annual meeting",
+      "Daily",
+      "Once a month"
      ],
-     "a": 1,
+     "a": 0,
      "w": "They worked it once a quarter and kept it in order. {{franklin-fire}}"
     },
     {
@@ -1096,11 +1118,12 @@
      "q": "Why did the officers hold quarterly meetings?",
      "o": [
       "To collect fines",
-      "To discuss faults and good management and learn from experience",
+      "To collect each member's fees and any fines that were owed",
       "To elect officers",
+      "To discuss faults and good management, and learn",
       "To sell equipment"
      ],
-     "a": 1,
+     "a": 3,
      "w": "They discourse of fires, of the faults and the good management, and grow wise. {{franklin-fire}}"
     },
     {
@@ -1115,12 +1138,13 @@
    "quiz": {
     "q": "Which habit from Franklin's fire company suits a household food plan?",
     "o": [
-     "Skipping practice",
-     "Agreed roles and regular practice",
+     "Waiting for trouble",
      "Working alone",
-     "Waiting for trouble"
+     "Agreed roles and regular practice",
+     "Waiting until a crisis to assign roles",
+     "Skipping practice"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Agreed roles, regular meetings and practice. {{franklin-fire}} {{ush-fire}}"
    }
   },
@@ -1234,12 +1258,13 @@
      "t": "check",
      "q": "In Franklin's chart, what did a black spot mean?",
      "o": [
+      "A fault found that day",
+      "A virtue kept all day long",
       "A virtue achieved",
-      "A fault found on that day",
       "A rest day",
       "A meal"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Each spot marked a fault found upon examination that day. {{franklin-auto}}"
     },
     {
@@ -1247,23 +1272,25 @@
      "q": "Why did he give each virtue a short precept?",
      "o": [
       "To fill the page",
-      "To state clearly the extent he gave to its meaning",
+      "To make the list easy to memorise for others",
+      "To state the meaning he gave it",
       "To impress readers",
       "To shorten the book"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He annexed to each a short precept that fully expressed the extent he gave to its meaning. {{franklin-auto}}"
     },
     {
      "t": "check",
      "q": "How many virtues did he work on at once?",
      "o": [
+      "None",
       "All thirteen",
-      "One at a time",
+      "Three each week",
       "Two",
-      "None"
+      "One at a time"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He fixed his attention on one at a time. {{franklin-auto}}"
     },
     {
@@ -1278,12 +1305,13 @@
    "quiz": {
     "q": "In Franklin's chart, what did a black spot mean?",
     "o": [
+     "A fault found that day",
+     "A virtue kept all day long",
      "A virtue achieved",
-     "A fault found on that day",
      "A rest day",
      "A meal"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Each spot marked a fault found upon examination that day. {{franklin-auto}}"
    }
   }

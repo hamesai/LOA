@@ -38,7 +38,7 @@
     },
     {
      "t": "p",
-     "x": "Kumbi Saleh has occupation layers from the 8th to the 15th centuries, more than seven metres deep, and a major mosque, but the royal capital al-Bakri describes has not yet been found. {{gha3-devisse}}"
+     "x": "Kumbi Saleh has occupation layers from the 8th to the 15th centuries, more than seven metres deep, and a major mosque, but the royal capital al-Bakri describes has not yet been found. {{gha3-devisse}} Palmer's 1908 plates show a tomb of an early Katsina king that he calls similar to the tombs El Bekri described at Ghana; he offers this as a clue to a Libyo-Berber layer, not as proof. {{kano-plates}}"
     },
     {
      "t": "p",
@@ -107,10 +107,11 @@
      "t": "check",
      "q": "Al-Bakri describes Ghana's court in rich detail in 1068. Before you quote him as if he saw it, what must you note?",
      "o": [
-      "Nothing: he lived there",
-      "He never travelled to the Sudan and compiled from earlier notes and merchants' reports",
-      "He wrote in Latin",
-      "He wrote after 1591"
+      "He wrote after the Moroccan conquest of 1591, so he describes a ruin",
+      "He never went to the Sudan; he compiled from notes and merchants' reports",
+      "He visited once, so only the court scenes he describes are eyewitness",
+      "He relied on Ibn Battuta's notes, which were made a century earlier",
+      "Nothing: he lived at the Ghanaian court for several years as a royal scribe"
      ],
      "a": 1,
      "w": "Al-Bakri used al-Warraq's lost notes and merchants. {{gha1-djait}}",
@@ -120,12 +121,13 @@
      "t": "check",
      "q": "An essay says Ghana's king could field 200,000 soldiers, citing al-Bakri. What is the safest sentence?",
      "o": [
-      "Ghana fielded 200,000 soldiers",
-      "Al-Bakri's informants reported 200,000 men, a figure that is probably inflated many times over",
-      "Ghana had no army",
-      "Ghana fielded 2 million soldiers"
+      "Ghana had no army; al-Bakri confused it with Almoravid forces in the north",
+      "Al-Bakri wrote 20,000, and a later copyist added the extra zero",
+      "Ghana fielded 200,000 soldiers [FIRM], since two Arabic writers agree",
+      "Al-Bakri's informants reported 200,000, a figure probably much inflated",
+      "Ghana fielded 200,000 soldiers, as al-Bakri saw at the king's review"
      ],
-     "a": 1,
+     "a": 3,
      "w": "A figure relayed by informants is a report, not a count. {{rd-gold}}",
      "kind": "application"
     },
@@ -274,12 +276,13 @@
      "t": "check",
      "q": "A documentary says '60,000 people travelled with Mansa Musa, according to Cairo eyewitnesses'. What is wrong?",
      "o": [
-      "Nothing",
-      "The 60,000 comes from the Tarikh al-Sudan, written in Timbuktu about 330 years later, not from Cairo eyewitnesses",
-      "The figure is 6 million",
-      "No source gives a figure"
+      "The figure comes from the Tarikh al-Sudan, written in Timbuktu centuries later",
+      "The Cairo eyewitnesses gave 6,000, and the documentary added a zero",
+      "The figure is from Ibn Battuta, who met survivors of the pilgrimage",
+      "Nothing: Cairo officials counted the caravan as it arrived and recorded 60,000 people",
+      "No source gives any figure, so the number was invented for television"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Trace a number to its first source. {{tarikh-houdas}}",
      "kind": "application"
     },
@@ -287,12 +290,13 @@
      "t": "check",
      "q": "Why is the date c. 1235 for Kirina tagged?",
      "o": [
-      "It is proven by coins",
-      "It comes from the oral epic and Arabic reports, so it is a traditional date",
-      "It is a Portuguese date",
-      "It is the date of Mansa Musa"
+      "It comes from radiocarbon dates on the battlefield, which carry an error range",
+      "It is proven by dated coins, but the tag marks a minor dispute",
+      "It is really the date of Mansa Musa, moved back by later chroniclers",
+      "It is a Portuguese date, so it rests on outsiders' reports",
+      "It comes from the oral epic and Arabic reports, so it is traditional"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Written sources for 1076 to 1235 are few. {{gha4-mali}}",
      "kind": "application"
     },
@@ -437,12 +441,13 @@
      "t": "check",
      "q": "The Tarikh al-Sudan portrays Sunni Ali as a cruel tyrant. How should you use that portrait?",
      "o": [
-      "Repeat it as fact",
-      "Note it comes from later Timbuktu scholars hostile to him, and that he has been rehabilitated",
-      "Delete him",
-      "Call him a saint"
+      "Drop him from the account, since no neutral source on him survives",
+      "Reverse it and call him a saint, since his critics were biased",
+      "Note that it comes from later scholars hostile to him, and he has been reassessed",
+      "Repeat it, but tag it [CONTESTED] because Leo Africanus, who visited, disagrees with it",
+      "Repeat it as fact, since the Tarikh is the fullest Songhai source"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The chronicles were written by heirs of the jurists he quarrelled with. {{gha4-songhay}}",
      "kind": "application"
     },
@@ -450,12 +455,13 @@
      "t": "check",
      "q": "A textbook says 'after the Moroccan conquest Timbuktu's learning died'. What is the best correction?",
      "o": [
-      "It is right",
-      "Its chronicles were written after 1591 and Arabic literacy stayed general; what fell was the gold trade and political power",
-      "Timbuktu was abandoned",
-      "Learning moved to Kilwa"
+      "Learning moved south to Kilwa, carried by the exiled scholars",
+      "It is right: the scholars were exiled to Marrakesh, and none of them ever returned",
+      "Timbuktu was abandoned after 1591, so its learning moved to Jenne",
+      "Its chronicles were written after 1591; trade and power fell, not learning",
+      "It is right for Arabic, but learning survived in the Songhai language"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Scholarship continued; the state broke up. {{gha5-songend}}",
      "kind": "application"
     },
@@ -539,10 +545,11 @@
      "t": "check",
      "q": "A map shows 'Mossi empire, 1300' with Wagadugu as its capital raiding Timbuktu. What is wrong?",
      "o": [
-      "Nothing",
-      "The Niger Bend 'Mossi' are not shown to be the Volta Mossi, and Wagadugu dates to about 1495",
-      "Timbuktu did not exist",
-      "The Mossi were Arabs"
+      "The Mossi were an Arab people, so the label should read 'Arab kingdom'",
+      "The Niger Bend 'Mossi' are not shown to be the Volta Mossi, and Wagadugu dates to c. 1495",
+      "Nothing: the Mossi raided Timbuktu from Wagadugu throughout the fourteenth century and well beyond",
+      "The raids were real, but Wagadugu was founded in 1100, so 1300 is too late",
+      "Timbuktu did not exist in 1300, so it could not have been raided"
      ],
      "a": 1,
      "w": "Similar names are not proof of identity. {{gha4-niger}}",
@@ -552,12 +559,13 @@
      "t": "check",
      "q": "A colonial-era book says the Bambara could not found kingdoms. Which evidence answers it?",
      "o": [
-      "None",
-      "Segu's growth under Biton Kulibali and Ngolo Diarra in the eighteenth century",
-      "Mali's founding",
-      "The Moroccan conquest"
+      "Bambara rule over Kano after the fall of Songhai in 1591",
+      "None: the Bambara did live in villages without kings",
+      "Segu's growth under Biton Kulibali and Ngolo Diarra in the 1700s",
+      "Mali's founding by Sunjata, whose victorious army was mostly Bambara",
+      "The Moroccan conquest, which Bambara armies helped to defeat"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Segu was a Bambara kingdom with an army and aristocracy. {{gha5-volta}}",
      "kind": "application"
     },
@@ -623,11 +631,11 @@
     },
     {
      "t": "p",
-     "x": "The Kano Chronicle was composed about 1890 from older records, and Palmer's date of 999 for its first king, Bagauda, is arbitrary. {{gha4-hausa}} The chronicle also has translation errors, so its dates are approximate. {{gha5-hausa}}"
+     "x": "The Kano Chronicle survives in several copies. H. R. Palmer translated one found at Sabongari near Katsina in 1908. Its internal evidence points to writing between 1883 and 1893, from older records now lost. Its only dating is the length of each reign. Palmer added years by counting back from an assumed Fulani takeover of Kano in 1807, so the year 999 for its first king, Bagoda, is a reckoning, not a record. {{kano-intro}} Palmer judged the chronicle roughly accurate except for its earliest kings, and the Arabic is slipshod in places, so minor points stay doubtful. {{kano-intro}} {{gha4-hausa}}"
     },
     {
      "t": "p",
-     "x": "Islam reached Hausaland probably through Kanem-Borno and stayed an elite and urban religion into the fifteenth century. Queen Amina of Zazzau was a princess and general who is on no king list; her deeds are tradition. {{gha4-hausa}} [CONTESTED]"
+     "x": "Islam reached Hausaland probably through Kanem-Borno and stayed an elite and urban religion into the fifteenth century. The Kano Chronicle gives another route: Wangarawa Mandingo came from Melle under Yaji (1349 to 1385), about forty men who had the king order prayer at set hours. {{kano-early}} Palmer finds no reason to doubt that date, since Mali's power was rising in the same decades (Mansa Musa's pilgrimage of 1326, a Melle campaign of 1373). {{kano-early}} Queen Amina of Zazzau was a princess and general who is on no king list; her deeds are tradition. {{gha4-hausa}} The chronicle has her conquests reach Kworarafa and Nupe over thirty-four years, and Nupe sending her forty eunuchs and ten thousand kola; it is a Kano account of a rival state, not a king list. {{kano-early}} [CONTESTED]"
     },
     {
      "t": "p",
@@ -635,11 +643,15 @@
     },
     {
      "t": "p",
-     "x": "The Hausa states stayed small and separate, ruled by a Sarki chosen by an electoral college, with titled officials, royal slaves and powerful royal women. Firearms came late: they were imported from Nupe between 1731 and 1743, and Babba Zaki (1768 to 1776) set up the first fusilier guard. {{gha5-hausa}} [PROBABLE]"
+     "x": "The Hausa states stayed small and separate, ruled by a Sarki chosen by an electoral college, with titled officials, royal slaves and powerful royal women. The chronicle has shields brought from Nupe in Kumbari's reign (1731 to 1743), and Babba Zaki (1768 to 1776) set up the first musketeer guard in Kano. {{kano-later}} The date of firearms is disputed: the chronicle also has Dagachi, a Bornu prince, bring guns in Dauda's reign (1421 to 1438), and those reign dates are counted back. {{kano-early}} {{gha5-hausa}} [CONTESTED]"
     },
     {
      "t": "p",
      "x": "Kebbi became independent about 1516 after Askiya Muhammad's Azbin campaign. No Hausa state disappeared between 1500 and 1800. {{gha5-hausa}}"
+    },
+    {
+     "t": "p",
+     "x": "The chronicle shows the slave economy most plainly. Under Abdulahi Burja (1438 to 1452) the Galadima Daudu raided the south and sent the Sarki a thousand slaves every month, and founded twenty-one towns, each left with a thousand slaves, all claimed for the Sarki. {{kano-early}} These are a court's own figures, so they show what the court claimed, not what was taken."
     },
     {
      "t": "table",
@@ -662,7 +674,7 @@
       ],
       [
        "How to choose",
-       "Leo did not visit the central Sudan, and the Kano Chronicle is late",
+       "Leo did not visit the central Sudan. The Kano Chronicle, as translated, names no Askia conquest; Palmer says only that the Hausa states were tributary to Songhay and Bornu at different periods {{kano-intro}}",
        "Teach it as [CONTESTED]"
       ]
      ],
@@ -672,25 +684,27 @@
      "t": "check",
      "q": "An essay quotes the Kano Chronicle for the year 999 as Kano's founding. What is the problem?",
      "o": [
-      "None",
-      "The chronicle was composed about 1890, and the 999 date is an editor's arbitrary reckoning",
-      "999 is a Borno date",
-      "The chronicle is Portuguese"
+      "It was written c. 1890, and 999 is a translator's back-count, not a record",
+      "999 is a Borno date that the chronicle borrowed from a neighbouring list",
+      "The chronicle is a Portuguese report, so its dates come from outsiders",
+      "None: 999 is recorded in the chronicle's original eleventh-century entries",
+      "The date is right, but it marks Kano's conversion rather than its founding"
      ],
-     "a": 1,
-     "w": "A late text and an arbitrary date make it a [TRADITIONAL DATE] at best. {{gha4-hausa}}",
+     "a": 0,
+     "w": "A late text and a date counted back from 1807 make it a [TRADITIONAL DATE] at best. {{kano-intro}}",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "You must say whether Askia Muhammad conquered Kano. Which answer handles the evidence best?",
      "o": [
-      "Yes, certainly",
-      "No, certainly",
-      "Historians disagree: one reading follows the chronicles, another says it rests only on Leo Africanus, who never visited",
-      "Kano did not exist"
+      "No, certainly: Leo Africanus never visited, so the conquest is invented",
+      "Yes, certainly: the Tarikh al-Sudan and the Kano Chronicle both record it",
+      "Yes, but it should be tagged [TRADITIONAL DATE], since only griots and praise singers record it",
+      "Kano did not exist yet, so the question does not arise at that date",
+      "Historians disagree: one follows the chronicles, one says it rests on Leo Africanus"
      ],
-     "a": 2,
+     "a": 4,
      "w": "Show both readings and why. {{gha4-hausa}} {{gha4-songhay}}",
      "kind": "application"
     },
@@ -785,12 +799,13 @@
      "t": "check",
      "q": "A summary calls the Futa Jallon revolution 'a Fulbe ethnic war'. What is the correction?",
      "o": [
-      "It is right",
-      "It was multi-ethnic, led by Fulbe and Mande marabouts and opposed by some Fulbe",
-      "It was a Portuguese war",
-      "It was a Mande migration"
+      "It is right: all Fulbe fought on one side and all Jallonke on the other",
+      "It was a Portuguese-backed war to secure slaves for the coast",
+      "It was multi-ethnic: Fulbe and Mande marabouts, opposed by some Fulbe",
+      "It was a Fulbe ethnic war that later took on a religious form",
+      "It was a Mande migration into the highlands, not a revolution"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Religion and politics, not ethnicity alone, drove it. {{gha5-senegambia}}",
      "kind": "application"
     },
@@ -798,12 +813,13 @@
      "t": "check",
      "q": "Two historians give Senegambia under 10 per cent and 'much more' of the Atlantic slave trade. Both admit no reliable statistics exist. How should you write it?",
      "o": [
-      "Pick the higher",
-      "Pick the lower",
       "Give the dispute and say the statistics are unreliable",
-      "Average them"
+      "Leave Senegambia out, since no figure can be given at all",
+      "Pick the lower figure, since it is the more cautious claim",
+      "Pick the higher figure, since losses are usually undercounted",
+      "Average the two to give a single defensible figure"
      ],
-     "a": 2,
+     "a": 0,
      "w": "No reliable statistics exist, so the share is [CONTESTED]. {{gha5-senegambia}}",
      "kind": "application"
     },
@@ -931,12 +947,13 @@
      "t": "check",
      "q": "An essay calls the Sokoto jihad 'a Fulani conquest of the Hausa'. What evidence complicates that reading?",
      "o": [
-      "None",
-      "Many Fulbe fought against the jihad, it also targeted Fulbe rulers elsewhere, and its leaders framed it as reform",
-      "The Hausa won",
-      "There were no Fulbe"
+      "Its leaders were Hausa clerics, and the Fulani joined only after 1809",
+      "The Hausa won the main battles, so it cannot be called a conquest",
+      "None: the jihad's armies were Fulani and its targets were all Hausa kings without exception",
+      "Many Fulbe opposed it, it hit Fulbe rulers too, and its leaders framed it as reform",
+      "There were no Fulbe in Hausaland before the jihad, so it was an invasion"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Several readings coexist and the evidence is mixed. {{gha6-batran}}",
      "kind": "application"
     },
@@ -944,12 +961,13 @@
      "t": "check",
      "q": "Why did the caliphate keep growing after 1809 if it had no standing army?",
      "o": [
-      "It conscripted every man",
-      "Emirates expanded on their own initiative, pushed by budget deficits and raiding for captives",
-      "Britain paid for it",
-      "It did not grow"
+      "Sokoto hired Moroccan musketeers, as Songhai's conquerors had done",
+      "It did not grow: its borders were fixed by 1809 and held until 1903",
+      "Britain paid for its wars to keep French influence out of the region",
+      "It conscripted every free man into the caliph's central standing army every single year",
+      "Emirates expanded on their own, driven by deficits and raiding for captives"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Expansion was piecemeal and emirate-led. {{gha6-last}}",
      "kind": "application"
     },
@@ -1027,10 +1045,11 @@
      "t": "check",
      "q": "Which of these Songhai figures carries the most weight?",
      "o": [
-      "30,000 infantry at Tondibi",
+      "Ghana's 200,000 soldiers",
       "A census of 7,626 houses at Gao",
-      "Timbuktu's 80,000 people",
-      "Ghana's 200,000 soldiers"
+      "Askia Muhammad's 1,000 pilgrims",
+      "30,000 infantry at Tondibi",
+      "Timbuktu's 80,000 people"
      ],
      "a": 1,
      "w": "A count of houses is closer to a physical count than an army total. {{gha4-songhay}}",
@@ -1040,12 +1059,13 @@
      "t": "check",
      "q": "What should you do with an exact claim about Musa's gold weight?",
      "o": [
-      "Quote it",
+      "Convert it to dollars so readers can grasp it",
+      "Quote it, since exact figures show careful sources",
       "Ask who counted it, and prefer a hedged sentence",
-      "Convert to dollars",
-      "Round it up"
+      "Tag it [FIRM] if two later chroniclers repeat it",
+      "Round it up, since such counts were usually low"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The figures are reports of reports, some written centuries later. {{tarikh-houdas}}",
      "kind": "application"
     },
@@ -1151,12 +1171,13 @@
      "t": "check",
      "q": "Ibn Battuta writes that he travelled along 'the Nile' in Mali. How should you read that passage?",
      "o": [
-      "As proof the Nile reaches Mali",
-      "As his mistake: the river was the Niger, which he took for the Nile",
-      "As a later forgery",
-      "As a reference to the Senegal"
+      "As proof that a branch of the Nile once reached as far as Mali",
+      "As a figure of speech: 'Nile' was his word for any great river",
+      "As a reference to the Senegal, a river he never actually saw",
+      "As a later forgery, added to his account by his editor Ibn Juzayy in Fez",
+      "As his mistake: the river was the Niger, which he took for the Nile"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Wikipedia reports that he believed the Niger to be the Nile. {{wiki-battuta}}",
      "kind": "application"
     },
@@ -1165,9 +1186,10 @@
      "q": "Why is he not the right source for Musa's pilgrimage?",
      "o": [
       "He was in Mali in 1352 to 53, decades later",
-      "He never left Morocco",
-      "He wrote in Greek",
-      "He was Musa's rival"
+      "He never left Morocco, so he wrote at second hand",
+      "He was Musa's rival, so his account is hostile",
+      "He wrote in Greek, and the translation is weak",
+      "He was in Cairo in 1324, but only as a child"
      ],
      "a": 0,
      "w": "He describes the court, not Musa's trip."

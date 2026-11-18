@@ -57,7 +57,7 @@ Each lesson is `{ id, title, min, blocks: [...] }`. The slide deck and the Notes
 | `terms` | `i: [[term, meaning], ..]` | A key-terms slide, and the glossary in Notes. |
 | `video` | `id` (YouTube) or `list`, `title`, `by`, `note`, `start` | A video slide with Play and Open buttons. Say who published it, or say it is unconfirmed. |
 | `activity` | `x` | A task tied to a challenge. |
-| `check` | `q`, `o`, `a`, `w` | An interactive question with feedback. |
+| `check` | `q`, `o`, `a`, `w` | An interactive question with feedback. Five options; see the MCQ standard below. |
 | `take` | `i` | A key-takeaways slide. |
 
 Slides are about 70 words at most. The page shrinks type on a dense slide so nothing scrolls, so aim for clear slides, not tiny type.
@@ -66,7 +66,7 @@ Slides are about 70 words at most. The page shrinks type on a dense slide so not
 
 - `modules`: one row per module, plus an optional capstone (`kind: "capstone"`). `belt` labels are cosmetic; the real belts adapt to the number of modules.
 - `details[key]`: `prereq`, `core`, `steps`, `worked`, three `challenges` (warm-up, core, stretch, each with `task`, `key` and a runnable `check`), `mistakes`, `review` questions drawn only from earlier modules, `pass`.
-- `quiz[key]`: four questions with `o` options, `a` index of the right one, `w` why.
+- `quiz[key]`: four or more questions with five `o` options, `a` index of the right one, `w` why. See the MCQ standard below.
 - `resources`: `{ id, library, type, title, source, modules: [n], difficulty, status, url, note }`. Types: Reference, Video, Scholarly, Book, Magazine, Images. Use a link only if you opened it. `status` is `Verified` for pages you located, `Search link` for a search.
 - `libraries[0].metrics`: the measurements this course tracks, `{ "Name": "unit" }`. They fill the ledger form.
 
@@ -183,9 +183,25 @@ Rules:
 
 Marking a module complete is a soft gate (set 19/10/2026). If challenges or capstone criteria are unticked, or the best first-try quiz score is under 70% (or the quiz was never taken), the page lists the gaps and asks before logging. The learner can still go ahead. The pass mark is `QUIZ_PASS` in `index.html`.
 
+## MCQ standard (17/11/2026)
+
+Every multiple-choice item (lesson checks, the module quiz, pre-checks and retrieval items) follows these rules:
+
+- **Five options**: one right answer and four wrong ones.
+- **Wrong answers are near-misses.** Use a common misreading, a half-right claim, a wrong date or name from the same module, or the right fact applied to the wrong case. Make them the same kind and similar length as the right answer. Never use throwaways such as "None", "Nothing" or "It is right".
+- **The right answer is never the longest option.** Keep it plain and trim it; the explanation in `w` carries the detail.
+- **The right slot is spread.** No slot holds more than 40% of a module's items. Never place it by hand.
+- **Harder, not trickier.** The right answer must still be clearly right to someone who learned the lesson, and each wrong one must be clearly wrong. If a wrong option is defensible, replace it.
+
+How to apply it:
+- New courses: write items with `author.py` `chk5`, `case_chk5`, `question5` and `case_question5`, giving `right` and a list of four `wrong`. They place the right answer from a seeded deck and refuse one that is the longest.
+- Existing courses: write `courses/<id>/build/mcq/<module>.js` (entries `{match, c, d: [four], q?, w?}`) and run `node _template/mcq_rewrite.js <id> <file>`. It rewrites the checks, quiz and learning items in place, spreads the slots, and refuses a right answer that is the longest. `courses/africa-pre-colonial/build/mcq/` has worked examples.
+- `node _template/mcq_audit.js <id>` lists every breach. `check_course.py` makes them PROBLEMs for every course (all twelve were rewritten by 18/11/2026). A course restored from an older backup can go in its `MCQ_SOFT` set for a single note while it is rewritten.
+- Generated items (`gen`) must return five distinct options with the right one at a random index.
+
 ## Generated questions (19/10/2026)
 
-A quiz, pre-check or retrieval item can be written as `{"gen": "<id>"}` instead of `{q, o, a, w}`. The page builds it at render time from `window.QGEN["<id>"](rand)`, which returns `{q, o, a, w}` with new numbers each time. Review and pre-checks use the day as the seed (stable all day), quizzes use the attempt. See `courses/investing/course-investing-gen.js` for the pattern, including a helper that guarantees four distinct options. Use it for any calculation question so learners practise the method, not the answer. Put generator files in the course folder and register them in `index.html` after the figs file. If you rebuild a pack from a Python script, add the `gen` items there too, or the rebuild drops them.
+A quiz, pre-check or retrieval item can be written as `{"gen": "<id>"}` instead of `{q, o, a, w}`. The page builds it at render time from `window.QGEN["<id>"](rand)`, which returns `{q, o, a, w}` with new numbers each time. Review and pre-checks use the day as the seed (stable all day), quizzes use the attempt. See `courses/investing/course-investing-gen.js` for the pattern, including a helper that guarantees distinct options (new generators must return five; see the MCQ standard). Use it for any calculation question so learners practise the method, not the answer. Put generator files in the course folder and register them in `index.html` after the figs file. If you rebuild a pack from a Python script, add the `gen` items there too, or the rebuild drops them.
 
 ## Backups
 

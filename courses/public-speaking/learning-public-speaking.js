@@ -6,34 +6,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Most advice such as 'imagine the audience naked'...",
     "o": [
-     "Works well",
-     "Misleads",
      "Is required",
-     "Is a rule"
+     "Works well",
+     "Is a rule",
+     "Misleads",
+     "Works for most speakers"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Most advice such as imagining the audience naked misleads."
    },
    {
     "q": "Using someone's words without crediting them aloud is...",
     "o": [
+     "Expected",
+     "Fine, if listed in your notes",
      "Fine in a speech",
-     "A plagiarism trap",
      "Quicker",
-     "Expected"
+     "A plagiarism trap"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Say the source in the speech."
    },
    {
     "q": "When do nerves usually peak?",
     "o": [
-     "At the start",
-     "In the middle",
      "At the end",
-     "Never"
+     "At the start",
+     "In the middle of the talk",
+     "Never",
+     "In the middle"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Plan for the start, where nerves peak."
    }
   ],
@@ -80,19 +83,21 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "How many stages does listening have?",
     "o": [
-     "Two",
-     "Five",
      "Ten",
-     "One"
+     "One",
+     "Five",
+     "Four",
+     "Two"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Listening has five stages."
    },
    {
     "q": "A specific purpose statement should be...",
     "o": [
      "A topic",
-     "A statement of what the audience will understand, believe or do",
+     "What the audience will understand, believe or do",
+     "A list of everything the speech will cover in order",
      "A list",
      "A title"
     ],
@@ -102,12 +107,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Audience analysis covers...",
     "o": [
-     "Only age",
-     "Who they are, what they believe and the situation",
+     "Who they are, what they believe, and the situation",
+     "Only room",
+     "Only their age, gender and how many of them there are",
      "Only size",
-     "Only room"
+     "Only age"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Three layers."
    }
   ],
@@ -146,23 +152,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "When do nerves usually peak?",
     "o": [
-     "At the start",
-     "In the middle",
+     "Never",
      "At the end",
-     "Never"
+     "In the middle",
+     "At the start",
+     "In the middle of the talk"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Plan for the start, where nerves peak."
    },
    {
     "q": "What should you say aloud about sources?",
     "o": [
+     "Add them at the end only",
+     "List them only in your notes",
      "Credit them",
      "Nothing",
-     "Hide them",
-     "Add them at the end only"
+     "Hide them"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Say the source in the speech."
    }
   ],
@@ -178,34 +186,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Research should take no more than about...",
     "o": [
-     "One half of prep time",
      "One third of prep time",
+     "One tenth",
      "All of it",
-     "One tenth"
+     "Two thirds of prep time",
+     "One half of prep time"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Plan research time, then leave time to write and practise aloud."
    },
    {
     "q": "Which is NOT one of the four source criteria?",
     "o": [
-     "Accuracy",
      "Authority",
+     "Objectivity",
+     "Currency",
      "Popularity",
-     "Currency"
+     "Accuracy"
     ],
-    "a": 2,
+    "a": 3,
     "w": "Accuracy, authority, currency and objectivity."
    },
    {
     "q": "Each piece of support is presented as...",
     "o": [
-     "Setup, execution, analysis",
      "A list",
+     "Setup, execution, analysis",
+     "Claim, quote, then citation",
      "A quote only",
      "A story only"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Set up, deliver, explain."
    }
   ],
@@ -244,23 +255,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What is a specific purpose statement?",
     "o": [
-     "Audience plus verb plus aim",
-     "A topic",
      "A title",
-     "A theme"
+     "A topic",
+     "Audience plus verb plus aim",
+     "A theme",
+     "A list of the main points in order"
     ],
-    "a": 0,
+    "a": 2,
     "w": "It says what the audience will understand, believe or do."
    },
    {
     "q": "How many stages does listening have?",
     "o": [
-     "Five",
-     "Two",
      "Ten",
-     "One"
+     "Four",
+     "Two",
+     "One",
+     "Five"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Five."
    }
   ],
@@ -276,34 +289,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "The introduction should take about...",
     "o": [
-     "One third of the speech",
-     "10 to 15 percent",
+     "None",
+     "25 to 30 percent",
      "Half",
-     "None"
+     "One third",
+     "10 to 15 percent"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Spend 10 to 15 percent of your time on the introduction."
    },
    {
     "q": "How many main points are usual?",
     "o": [
-     "Two or three",
-     "Eight",
      "One only",
-     "Ten"
+     "Two or three",
+     "Ten",
+     "Five to seven",
+     "Eight"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Two or three main points."
    },
    {
     "q": "A speech should end with...",
     "o": [
-     "I'm done",
-     "Restate, review and a closing device",
      "A question only",
-     "Silence"
+     "Silence",
+     "Restate, review and a closing device",
+     "'I'm done'",
+     "A brand new point, to leave them thinking"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Do not end with 'I'm done'."
    }
   ],
@@ -343,9 +359,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "About how long should research take?",
     "o": [
      "No more than one third of prep time",
+     "At least half of all the time you have",
+     "A tenth",
      "Half",
-     "All",
-     "A tenth"
+     "All"
     ],
     "a": 0,
     "w": "No more than one third."
@@ -354,9 +371,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "Which element comes after setup in support?",
     "o": [
      "Execution then analysis",
-     "Nothing",
      "A joke",
-     "A summary"
+     "Analysis, then the citation",
+     "A summary",
+     "Nothing"
     ],
     "a": 0,
     "w": "Set up, deliver, explain."
@@ -374,34 +392,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Spoken language is usually...",
     "o": [
-     "More complex than writing",
      "Simpler and more repetitive",
+     "Silent",
      "Identical",
-     "Silent"
+     "More formal and complex than writing",
+     "More complex than writing"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Write for the ear: short, concrete, repeated."
    },
    {
     "q": "Which delivery method is the default?",
     "o": [
-     "Reading",
+     "Reading a full script",
      "Memorising",
+     "Impromptu",
      "Extemporaneous",
-     "Impromptu"
+     "Reading"
     ],
-    "a": 2,
+    "a": 3,
     "w": "Choose extemporaneous by default."
    },
    {
     "q": "How should you practise?",
     "o": [
      "Silently",
-     "Aloud, with feedback and a recording",
      "In your head",
+     "Aloud, with feedback and a recording",
+     "Silently, reading the script over and over",
      "Not at all"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Practise aloud, get feedback, record, then fix two things at a time."
    }
   ],
@@ -440,23 +461,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "How many main points are usual in a short speech?",
     "o": [
+     "Five to seven",
      "Two or three",
      "Eight",
      "One",
      "Ten"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Two or three."
    },
    {
     "q": "How long should an introduction take?",
     "o": [
-     "10 to 15 percent",
-     "A third",
      "Half",
-     "None"
+     "None",
+     "A third",
+     "25 to 30 percent",
+     "10 to 15 percent"
     ],
-    "a": 0,
+    "a": 4,
     "w": "10 to 15 percent."
    }
   ],
@@ -472,34 +495,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "An aid should be used to...",
     "o": [
+     "Decorate the slides and fill gaps",
+     "Hide notes",
      "Decorate",
-     "Clarify or emphasise",
      "Fill time",
-     "Hide notes"
+     "Clarify or emphasise"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Use an aid to clarify or emphasise, not decorate."
    },
    {
     "q": "A persuasive call to action should be...",
     "o": [
-     "Vague and distant",
      "A small, immediate action",
+     "Missing",
+     "Vague and distant",
      "A large commitment",
-     "Missing"
+     "A large, long-term commitment"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Ask for one small action now."
    },
    {
     "q": "An informative speech aims to be...",
     "o": [
-     "Accurate, clear and interesting",
-     "Funny only",
      "Long",
-     "Technical"
+     "Technical",
+     "Accurate, clear and interesting",
+     "Persuasive, one-sided and memorable",
+     "Funny only"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Accurate, clear and interesting."
    }
   ],
@@ -538,23 +564,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What is the best way to practise?",
     "o": [
+     "In your head",
      "Aloud, recorded",
      "Silently",
-     "In your head",
+     "Silently, reading over",
      "Not at all"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Aloud, recorded."
    },
    {
     "q": "What should you say about sources aloud?",
     "o": [
-     "Credit them",
+     "List them in your notes only",
      "Nothing",
-     "Hide them",
-     "Only in notes"
+     "Only in notes",
+     "Credit them",
+     "Hide them"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Credit them."
    }
   ],
@@ -570,18 +598,20 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "How much time for research?",
     "o": [
-     "No more than a third",
+     "At least half of it, ideally more",
+     "A tenth",
      "Half",
-     "All",
-     "A tenth"
+     "No more than a third",
+     "All"
     ],
-    "a": 0,
+    "a": 3,
     "w": "No more than a third."
    },
    {
     "q": "What should an introduction include?",
     "o": [
-     "Five jobs including preview",
+     "Five jobs, including a preview",
+     "A joke and a thank-you to the host",
      "A joke only",
      "A thank-you only",
      "Nothing"
@@ -593,9 +623,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "What counts toward practice?",
     "o": [
      "Aloud, recorded",
-     "In your head",
      "Silent reading",
-     "Nothing"
+     "Nothing",
+     "Reading it over silently",
+     "In your head"
     ],
     "a": 0,
     "w": "Aloud, recorded."
@@ -603,12 +634,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What is a good call to action?",
     "o": [
-     "Small and immediate",
-     "Vague",
      "Distant",
-     "Huge"
+     "Vague",
+     "A large, long-term pledge",
+     "Huge",
+     "Small and immediate"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Small and immediate."
    }
   ],

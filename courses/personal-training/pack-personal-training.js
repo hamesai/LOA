@@ -644,9 +644,10 @@ ARCHIVE_ADD({
     "q": "Which activity guideline target applies to adults?",
     "o": [
      "60 minutes vigorous daily",
-     "150 to 300 moderate or 75 to 150 vigorous minutes weekly",
-     "30 minutes of strength daily",
-     "10,000 steps"
+     "150–300 moderate or 75–150 vigorous minutes a week",
+     "60 minutes of moderate-to-vigorous activity every day of the week",
+     "10,000 steps",
+     "30 minutes of strength daily"
     ],
     "a": 1,
     "w": "That is the WHO adult range."
@@ -655,45 +656,49 @@ ARCHIVE_ADD({
     "q": "A client has chest pain on stairs. What do you do?",
     "o": [
      "Start light exercise",
-     "Refer them to a doctor before coaching",
      "Increase intensity",
-     "Reassure them"
+     "Reassure them",
+     "Start light exercise and monitor them closely",
+     "Refer them to a doctor before coaching"
     ],
-    "a": 1,
+    "a": 4,
     "w": "New symptoms need medical review first."
    },
    {
     "q": "What does 'conditional' mean in a WHO rating?",
     "o": [
-     "The evidence is high",
-     "Strength of recommendation is lower than strong",
      "It is optional for doctors",
-     "It is wrong"
+     "It is wrong",
+     "The recommendation is weaker than strong",
+     "The evidence is high",
+     "The evidence behind it is of low certainty"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Certainty and strength are rated separately."
    },
    {
     "q": "The 2-to-1 trade of vigorous for moderate minutes is...",
     "o": [
      "A WHO rule",
-     "Our inference from 75 versus 150",
+     "A rule stated word for word by the WHO",
      "A legal limit",
+     "Our inference from 75 versus 150",
      "A law of physics"
     ],
-    "a": 1,
+    "a": 3,
     "w": "It is a working rule we derived."
    },
    {
     "lec": 1,
     "q": "What did Morris's 1953 bus study compare?",
     "o": [
-     "Cyclists and walkers",
      "Bus drivers and conductors",
      "Doctors and nurses",
+     "Bus drivers and office clerks",
+     "Cyclists and walkers",
      "Men and women"
     ],
-    "a": 1,
+    "a": 0,
     "w": "It compared sedentary bus drivers with more active conductors. {{lancet12}} {{ding24}}"
    }
   ],
@@ -701,34 +706,37 @@ ARCHIVE_ADD({
    {
     "q": "Who most often has heart events during exercise?",
     "o": [
-     "Active people doing light work",
      "Inactive people doing vigorous work",
-     "Children",
-     "Walkers"
+     "Active people doing vigorous interval work",
+     "Active people doing light work",
+     "Walkers",
+     "Children"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Habitually inactive people doing vigorous exercise."
    },
    {
     "q": "An exerciser with diabetes and no symptoms wants vigorous work. The algorithm says...",
     "o": [
-     "Continue freely",
-     "Clearance before vigorous",
+     "Continue freely, since there are no symptoms",
      "Stop entirely",
-     "Only walk forever"
+     "Clearance before vigorous",
+     "Only walk forever",
+     "Continue freely"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Light to moderate may continue; clearance before vigorous."
    },
    {
     "q": "Which tool referred the fewest US adults aged 40+?",
     "o": [
      "AAPQ",
-     "PAR-Q",
+     "All equal",
+     "The original PAR-Q (1992)",
      "2015 ACSM algorithm",
-     "All equal"
+     "PAR-Q"
     ],
-    "a": 2,
+    "a": 3,
     "w": "The algorithm referred fewer than AAPQ and PAR-Q."
    },
    {
@@ -736,8 +744,9 @@ ARCHIVE_ADD({
     "o": [
      "Light",
      "Moderate",
-     "Vigorous",
-     "Maximal"
+     "Very light",
+     "Maximal",
+     "Vigorous"
     ],
     "a": 1,
     "w": "Moderate intensity."
@@ -746,12 +755,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What is the purpose of the benefit-first screening script?",
     "o": [
-     "To avoid screening",
-     "To explain that screening is about starting safely",
+     "To skip referrals",
      "To sell sessions",
-     "To skip referrals"
+     "To persuade clients that they do not need to see a doctor first",
+     "To avoid screening",
+     "To explain that screening is about starting safely"
     ],
-    "a": 1,
+    "a": 4,
     "w": "It explains the questions and finds who needs a doctor first."
    }
   ],
@@ -759,58 +769,63 @@ ARCHIVE_ADD({
    {
     "q": "A client says the programme feels imposed, they cannot do the moves yet, and they train alone. Which three SDT needs are these complaints about?",
     "o": [
-     "Money, status, speed",
      "Autonomy, competence, relatedness",
+     "Sleep, food, water",
      "Fear, pride, guilt",
-     "Sleep, food, water"
+     "Money, status, speed",
+     "Competence, confidence and commitment"
     ],
-    "a": 1,
+    "a": 0,
     "w": "SDT's three basic needs.",
     "kind": "application"
    },
    {
     "q": "What did the MI review conclude?",
     "o": [
-     "MI equals advice",
-     "MI outperforms advice-giving",
      "MI fails",
-     "MI is illegal"
+     "Advice-giving outperforms MI",
+     "MI is illegal",
+     "MI outperforms advice-giving",
+     "MI equals advice"
     ],
-    "a": 1,
+    "a": 3,
     "w": "MI outperformed traditional advice."
    },
    {
     "q": "Which is a process goal?",
     "o": [
+     "Win a trophy",
      "Lose 6 kg",
-     "Do two strength sessions weekly",
      "Look leaner",
-     "Win a trophy"
+     "Squat 40 kg for 8 reps by the end of March",
+     "Do two strength sessions weekly"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Actions in the client's control."
    },
    {
     "q": "Attendance 6 of 8 sessions is...",
     "o": [
-     "60%",
-     "75%",
      "80%",
-     "90%"
+     "68%",
+     "75%",
+     "90%",
+     "60%"
     ],
-    "a": 1,
+    "a": 2,
     "w": "6 / 8 = 0.75."
    },
    {
     "lec": 1,
     "q": "What is a reflective reply?",
     "o": [
-     "Giving a fix",
-     "Saying back what you heard, then checking",
+     "Giving the client a clear fix for the problem",
+     "Praising the client",
      "Changing the subject",
-     "Praising the client"
+     "Saying back what you heard, then checking",
+     "Giving a fix"
     ],
-    "a": 1,
+    "a": 3,
     "w": "You say back what you heard and check it with the client. {{rogers57pdf}}"
    }
   ],
@@ -821,6 +836,7 @@ ARCHIVE_ADD({
      "Heavy",
      "Around 30% 1RM",
      "Maximum",
+     "Around 80–90% 1RM",
      "Bodyweight only"
     ],
     "a": 1,
@@ -830,9 +846,10 @@ ARCHIVE_ADD({
     "q": "Each extra weekly set was linked with about how much extra growth?",
     "o": [
      "0.37%",
+     "1.5% per set",
+     "None",
      "3.7%",
-     "37%",
-     "None"
+     "37%"
     ],
     "a": 0,
     "w": "0.37% in the muscle-size meta-regression."
@@ -840,24 +857,26 @@ ARCHIVE_ADD({
    {
     "q": "A client hates training to failure but wants to get stronger. What does the 2024 meta-regression suggest about strength gains across reps in reserve?",
     "o": [
-     "Much higher nearer failure",
-     "Similar across a wide range",
+     "Much higher only at true failure",
      "Lower nearer failure",
-     "Unmeasured"
+     "Similar across a wide range",
+     "Unmeasured",
+     "Much higher nearer failure"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Strength gains were similar.",
     "kind": "application"
    },
    {
     "q": "Which two principles tie programming together?",
     "o": [
-     "Speed and luck",
-     "Specificity and progressive overload",
      "Fear and reward",
-     "Rest and diet only"
+     "Rest and diet only",
+     "Speed and luck",
+     "Variety and so-called muscle confusion",
+     "Specificity and progressive overload"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Specificity and progressive overload."
    },
    {
@@ -865,11 +884,12 @@ ARCHIVE_ADD({
     "q": "What are the three stages of Selye's general adaptation syndrome?",
     "o": [
      "Start, middle, end",
+     "Sleep, eat, train",
+     "Alarm, recovery, supercompensation",
      "Alarm, resistance, exhaustion",
-     "Warm-up, work, cool-down",
-     "Sleep, eat, train"
+     "Warm-up, work, cool-down"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Alarm reaction, stage of resistance and stage of exhaustion. {{brit-gas}} {{pmc-selye}}"
    }
   ],
@@ -877,32 +897,35 @@ ARCHIVE_ADD({
    {
     "q": "Day A and Day B and Day A is how many sets in the template?",
     "o": [
+     "52",
      "26",
-     "39",
      "13",
-     "52"
+     "45",
+     "39"
     ],
-    "a": 1,
+    "a": 4,
     "w": "13 x 3 = 39."
    },
    {
     "q": "When do you add load under double progression?",
     "o": [
-     "Every week",
      "When all sets hit the top of the range",
-     "At random",
-     "Never"
+     "Every week",
+     "As soon as any one set reaches the top of the range",
+     "Never",
+     "At random"
     ],
-    "a": 1,
+    "a": 0,
     "w": "After reaching the top of the range."
    },
    {
     "q": "A week has 110 moderate minutes. How many more reach 150?",
     "o": [
-     "20",
+     "50",
      "40",
      "60",
-     "150"
+     "150",
+     "20"
     ],
     "a": 1,
     "w": "150 - 110 = 40."
@@ -910,12 +933,13 @@ ARCHIVE_ADD({
    {
     "q": "Two weeks in, a client's knee pain has not settled after squats. What should you do?",
     "o": [
-     "Be ignored",
-     "Lead to stopping and referral",
-     "Be pushed through",
-     "Be trained harder"
+     "Ignore it",
+     "Push through it",
+     "Reduce the load and carry on squatting through it",
+     "Stop the squats and refer them",
+     "Train it harder"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Refer if it persists.",
     "kind": "application"
    },
@@ -923,12 +947,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What did DeLorme originally use his method for?",
     "o": [
-     "Running",
      "Rehabilitation of injured servicemen",
+     "Sport performance",
+     "Running",
      "Weight loss",
-     "Sport performance"
+     "Training Olympic weightlifters for competition"
     ],
-    "a": 1,
+    "a": 0,
     "w": "It began as a rehabilitation technique for injured servicemen. {{todd-delorme}}"
    }
   ],
@@ -936,10 +961,11 @@ ARCHIVE_ADD({
    {
     "q": "The break point for daily protein in the meta-analysis was near...",
     "o": [
-     "0.8 g/kg",
+     "2.2 g/kg",
      "1.6 g/kg",
-     "3 g/kg",
-     "5 g/kg"
+     "5 g/kg",
+     "0.8 g/kg",
+     "3 g/kg"
     ],
     "a": 1,
     "w": "About 1.62 g/kg/day."
@@ -948,45 +974,49 @@ ARCHIVE_ADD({
     "q": "A trainer should refer a client's kidney-disease diet question to...",
     "o": [
      "Social media",
-     "Their doctor or dietitian",
      "A supplement shop",
-     "Nobody"
+     "Nobody",
+     "Their doctor or dietitian",
+     "Another, more experienced personal trainer"
     ],
-    "a": 1,
+    "a": 3,
     "w": "It is outside scope."
    },
    {
     "q": "What does the WHO recommend for older adults weekly?",
     "o": [
-     "No exercise",
-     "Multicomponent activity on 3+ days",
      "Marathons",
-     "One walk"
+     "One walk",
+     "No exercise",
+     "Walking only, with no strength or balance work",
+     "Multicomponent activity on 3+ days"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Multicomponent, 3+ days."
    },
    {
     "q": "For a 70 kg client, 1.6 g/kg is...",
     "o": [
-     "56 g",
      "112 g",
+     "56 g",
      "154 g",
+     "70 g",
      "200 g"
     ],
-    "a": 1,
+    "a": 0,
     "w": "1.6 x 70 = 112."
    },
    {
     "lec": 1,
     "q": "Why does a session count as one demand among many?",
     "o": [
-     "Selye counted any demand on the body as stress",
      "Sessions are always light",
      "It does not",
+     "Only training counts as a real demand on the body",
+     "Selye counted any demand on the body as stress",
      "Only illness counts"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Selye defined stress as the response to any demand. {{pmc-selye}}"
    }
   ],
@@ -995,12 +1025,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "Which is a source of self-efficacy in Bandura's model?",
     "o": [
-     "Performance accomplishments",
-     "Equipment cost",
      "Weather",
-     "Session length"
+     "Session length",
+     "The trainer's qualifications",
+     "Equipment cost",
+     "Performance accomplishments"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Performance accomplishments, vicarious experience, verbal persuasion and physiological states. {{bandura77}}"
    }
   ]

@@ -119,24 +119,26 @@
      "t": "check",
      "q": "Which step comes immediately before the presentation?",
      "o": [
+      "Handling objections",
+      "Prospecting and qualifying",
       "Closing",
       "Approach",
-      "Follow-up",
-      "Handling objections"
+      "Follow-up"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The order is prospect and qualify, preapproach, approach, presentation. {{ps-process}}"
     },
     {
      "t": "check",
      "q": "A rep closes a deal and moves straight on to new names, never calling the customer again. Why is that a mistake in the sales process?",
      "o": [
-      "When the customer signs",
-      "When the product ships",
-      "It does not really end: follow-up leads back to new needs and referrals",
-      "After the first objection"
+      "Nothing: once the contract is signed the sales process is complete, and service takes over",
+      "The sale ends when the product ships",
+      "The sale ends when the customer signs",
+      "The sale ends at the first objection",
+      "The process doesn't end: follow-up leads to new needs and referrals"
      ],
-     "a": 2,
+     "a": 4,
      "w": "Follow-up supports retention, referrals and new needs, and so leads back to step one. {{ps-process}}",
      "kind": "application"
     },
@@ -234,24 +236,26 @@
      "t": "check",
      "q": "A customer is buying a car mainly for its look and status. Which type of need is this?",
      "o": [
-      "Utilitarian",
       "Hedonic",
+      "Neither",
+      "Utilitarian (practical)",
       "Physiological",
-      "Neither"
+      "Utilitarian"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Hedonic needs are the subjective aspects such as style and status. {{ps-buying}}"
     },
     {
      "t": "check",
      "q": "According to Maslow, when a lower-level need is satisfied…",
      "o": [
+      "It grows stronger and drives all later buying",
       "It becomes more important",
-      "It stops being a motivator and people move up",
+      "It stops motivating, and people move up",
       "People stop buying",
       "Higher needs vanish"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Satisfied lower needs are no longer motivators. {{ps-buying}}"
     },
     {
@@ -398,10 +402,11 @@
      "t": "check",
      "q": "A company reorders printer paper from the same supplier. This is a…",
      "o": [
-      "New-task buy",
+      "Modified rebuy with a new supplier",
       "Straight rebuy",
-      "Modified rebuy",
-      "Strategic alliance"
+      "Strategic alliance",
+      "New-task buy",
+      "Modified rebuy"
      ],
      "a": 1,
      "w": "A routine repurchase is a straight rebuy. {{ps-buying}}",
@@ -411,12 +416,13 @@
      "t": "check",
      "q": "On a call, the office manager says she will use the software daily, the IT lead is comparing vendors, and the finance director signs off all purchases. Who is the decision maker?",
      "o": [
-      "Someone who will use the product",
-      "Someone who starts the process",
-      "Someone with responsibility for the final purchase",
-      "Someone who compares vendors"
+      "The IT lead, since he compares the vendors",
+      "All three jointly",
+      "The office manager",
+      "The IT lead",
+      "The finance director"
      ],
-     "a": 2,
+     "a": 4,
      "w": "Decision makers hold responsibility for the final purchasing decision. {{ps-buying}}",
      "kind": "application"
     },
@@ -563,12 +569,13 @@
      "t": "check",
      "q": "You are selling a laptop with a 14-hour battery. Which of these is the benefit in FAB terms?",
      "o": [
-      "What the product has",
-      "What the feature does",
-      "What it means for the customer",
-      "The price"
+      "It costs £899",
+      "You can work a full day away from a plug",
+      "It runs longer than most laptops",
+      "It has a large lithium-ion battery fitted as standard",
+      "It has a 14-hour battery"
      ],
-     "a": 2,
+     "a": 1,
      "w": "Benefit is what the features mean to the customer. {{ps-buying2}}",
      "kind": "application"
     },
@@ -576,12 +583,13 @@
      "t": "check",
      "q": "Why is trust especially important in business buying?",
      "o": [
-      "It lowers cost",
-      "Buyers fear personal and organisational risk and being sold to",
+      "Sellers are rare",
+      "Business buyers are legally required to trust their chosen sellers",
+      "Buyers fear personal and company risk, and being sold to",
       "Contracts are short",
-      "Sellers are rare"
+      "It lowers cost"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The text says fear is strong and trust is how you overcome it. {{ps-buying2}}"
     },
     {
@@ -718,24 +726,26 @@
      "t": "check",
      "q": "What was the Primer?",
      "o": [
-      "A tax form",
-      "NCR's sales script, How I Sell National Cash Registers",
       "A magazine",
+      "A tax form",
+      "NCR's annual report and catalogue of cash register models",
+      "NCR's sales script, How I Sell National Cash Registers",
       "A price list"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The first company sales script became known as the Primer. {{friedman-hbs}}"
     },
     {
      "t": "check",
      "q": "What did the Primer say about forcing a sale?",
      "o": [
+      "Don't give the impression you are forcing the buyer",
       "Always force it",
-      "Avoid giving the impression you are forcing the buyer",
       "Never ask",
-      "Ignore objections"
+      "Ignore objections",
+      "Push hard, since buyers respect a forceful salesman"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It warned that no man likes to feel he is being sold. {{friedman-hbs}}"
     },
     {
@@ -745,7 +755,8 @@
       "Ask if they want to think it over",
       "Ask 'what colour shall I make it?' and hand over the pen",
       "Offer a refund",
-      "Leave a brochure"
+      "Leave a brochure",
+      "Ask whether they would like to think it over and call back next week"
      ],
      "a": 1,
      "w": "It told salesmen not to ask for an order but to assume the buyer would buy. {{friedman-hbs}}",

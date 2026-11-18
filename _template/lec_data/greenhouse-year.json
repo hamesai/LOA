@@ -217,12 +217,13 @@
      "t": "check",
      "q": "What did the front pillars of the described house carry inside them?",
      "o": [
-      "Wires",
-      "A leaden pipe taking roof water to a drain",
+      "Heaters",
       "Seeds",
-      "Heaters"
+      "Hot-water pipes from the boiler to the benches",
+      "A lead pipe taking roof water to a drain",
+      "Wires"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The front pillars are hollow and carry a leaden pipe that takes water from the roof into a drain. {{loudon-paxton}}"
     },
     {
@@ -230,23 +231,25 @@
      "q": "Why were the Chatsworth path boards laid loose with gaps?",
      "o": [
       "To save wood",
-      "So heat and steam rise, dust falls through, and the boards stay dry",
+      "So rainwater could drain from the roof gutters underneath",
+      "To store tools",
       "To hide pipes",
-      "To store tools"
+      "So heat rises, dust falls through, and boards stay dry"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Heat rises through, dust falls through when swept, and watering leaves the boards dry. {{loudon-paths}}"
     },
     {
      "t": "check",
      "q": "What did Paxton aim to catch with his ridge-and-furrow roof, according to Grace's Guide?",
      "o": [
+      "The high midday sun, while shading the low morning light",
+      "Heat from the soil",
       "Only the midday sun",
-      "The low morning and evening sun, and to drain rain",
-      "Northern light",
-      "Heat from the soil"
+      "Low morning and evening sun, and to drain rain",
+      "Northern light"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The roof was set at right angles to the morning and evening sun to admit more light and drain rainwater. {{gg-paxton}}"
     },
     {
@@ -261,12 +264,13 @@
    "quiz": {
     "q": "Paxton's ridge-and-furrow roof was set at right angles to which light?",
     "o": [
-     "Midday sun",
      "Morning and evening sun",
      "Northern light",
+     "Midday sun",
+     "The high summer sun at noon",
      "Artificial light"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Paxton set the roof at right angles to the morning and evening sun to admit more light and drain rain. {{gg-paxton}}"
    }
   },
@@ -374,12 +378,13 @@
      "t": "check",
      "q": "Why did Jekyll prefer long drifts to block-shaped patches?",
      "o": [
-      "They were cheaper",
-      "A long thin planting leaves no unsightly gap when flowers are done",
+      "A long thin planting leaves no ugly gap when done",
+      "They flowered longer",
+      "Drifts flowered for longer than blocks of the same plant in the same soil",
       "They needed less water",
-      "They flowered longer"
+      "They were cheaper"
      ],
-     "a": 1,
+     "a": 0,
      "w": "She wrote that a long thin planting does not leave an unsightly empty space when the flowers are done. {{jekyll-colour}}"
     },
     {
@@ -387,23 +392,25 @@
      "q": "In Jekyll's example, why were poppies planted beside Gypsophila?",
      "o": [
       "They need the same soil",
-      "The poppies finish as the Gypsophila fills the space",
       "They cross-pollinate",
+      "The poppies finish as the Gypsophila fills in",
+      "The Gypsophila shades the poppies' roots in hot summers",
       "To keep pests away"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The poppies grow early and die down as the Gypsophila reaches full size and covers them. {{jekyll-colour}}"
     },
     {
      "t": "check",
      "q": "What did she leave in place among the Gypsophila after cutting it back?",
      "o": [
-      "Nothing",
-      "The stiff branching spray that supported it",
+      "A cane and twine frame put in at planting time",
       "A net",
-      "Mulch"
+      "Nothing",
+      "Mulch",
+      "The stiff branching spray that supported it"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The spray remains as a firm sub-structure when the top is cut back. {{jekyll-colour}}"
     },
     {
@@ -418,12 +425,13 @@
    "quiz": {
     "q": "What did Jekyll say a long drift of plants avoids?",
     "o": [
-     "Slugs",
-     "An unsightly empty space when the flowers are done",
      "Watering",
+     "Wind damage to the tall plants in late summer",
+     "An ugly empty space when flowers finish",
+     "Slugs",
      "Frost"
     ],
-    "a": 1,
+    "a": 2,
     "w": "A long thin planting does not leave an empty space when flowers are done. {{jekyll-colour}}"
    }
   },
@@ -535,12 +543,13 @@
      "t": "check",
      "q": "Tray 1: 30 seeds sown, 27 germinated. What is germination?",
      "o": [
-      "80 per cent",
-      "90 per cent",
+      "10 per cent",
       "27 per cent",
-      "93 per cent"
+      "90 per cent",
+      "93 per cent",
+      "80 per cent"
      ],
-     "a": 1,
+     "a": 2,
      "w": "27 divided by 30 is 0.9, or 90 per cent.",
      "kind": "application"
     },
@@ -548,24 +557,26 @@
      "t": "check",
      "q": "What did Mendel say happens with a smaller number of experimental plants?",
      "o": [
+      "Ratios come out closer to the ideal",
       "Results are always exact",
-      "Very considerable fluctuations may occur",
+      "Large fluctuations may occur",
       "Counting is unnecessary",
       "Seeds germinate faster"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He noted that with a smaller number of experimental plants, very considerable fluctuations may occur. {{mendel65}}"
     },
     {
      "t": "check",
      "q": "What did he do about the odd plants in one of the 34 varieties?",
      "o": [
+      "Discarded the whole variety at once, without running any trial on it",
+      "Crossed them first",
       "Ignored them",
-      "Concluded the seed had been accidentally mixed, after the two-year trial",
-      "Sold them",
-      "Crossed them first"
+      "Judged the seed mixed by accident, after a two-year trial",
+      "Sold them"
      ],
-     "a": 1,
+     "a": 3,
      "w": "They did not vary in the following year and agreed with another variety, so the seeds had been accidentally mixed. {{mendel65}}"
     },
     {
@@ -580,10 +591,11 @@
    "quiz": {
     "q": "A tray of 20 seeds has 17 germinate. What is the germination percentage?",
     "o": [
-     "75",
      "80",
+     "17",
      "85",
-     "90"
+     "90",
+     "75"
     ],
     "a": 2,
     "w": "17 divided by 20 is 0.85, or 85 per cent."
@@ -709,12 +721,13 @@
      "t": "check",
      "q": "According to the law of the minimum as usually summarised, what limits growth?",
      "o": [
+      "The nutrient applied in the largest amount",
       "The total of all resources",
-      "The scarcest resource",
+      "Temperature only",
       "The most abundant nutrient",
-      "Temperature only"
+      "The scarcest resource"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Growth is dictated by the scarcest resource, not by the total. {{wiki-liebig}}"
     },
     {
@@ -722,11 +735,12 @@
      "q": "In Liebig's meadow, why did hay crops fall after years of gypsum?",
      "o": [
       "Too much water",
-      "More potash was removed than was restored",
+      "Too many weeds",
+      "More potash was removed than restored",
       "Frost",
-      "Too many weeds"
+      "The gypsum made the soil too acid for grass"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The larger crops took away more potash than could be restored, so the crops diminished for deficiency of potash. {{liebig-1843}}"
     },
     {
@@ -734,11 +748,12 @@
      "q": "Why did he say dryness was not the cause of the barren soil?",
      "o": [
       "It rained a lot",
-      "The stiff subsoil prevented a deficiency of moisture",
       "He did not test it",
+      "He measured the water and found plenty",
+      "The stiff subsoil kept moisture in",
       "The soil was sandy"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He said the stiff subsoil prevented a deficiency of moisture. {{liebig-1843}}"
     },
     {
@@ -753,12 +768,13 @@
    "quiz": {
     "q": "In the barrel image of Liebig's law, what sets how much the barrel holds?",
     "o": [
+     "The number of staves",
+     "The width of the barrel",
      "The longest stave",
-     "The shortest stave",
      "The average stave",
-     "The number of staves"
+     "The shortest stave"
     ],
-    "a": 1,
+    "a": 4,
     "w": "The shortest stave sets the capacity. {{wiki-liebig}}"
    }
   },
@@ -885,36 +901,39 @@
      "t": "check",
      "q": "Where were the Crystal Palace's calico shading screens hung?",
      "o": [
-      "Inside the glass",
       "Outside the glass",
-      "On the floor",
-      "Over the vents only"
+      "Inside, under the roof ridge",
+      "Inside the glass",
+      "Over the vents only",
+      "On the floor"
      ],
-     "a": 1,
+     "a": 0,
      "w": "They were hung outside, between the ridge beams, which shields the glass better. {{sch}}"
     },
     {
      "t": "check",
      "q": "How often was temperature recorded in the Palace's register?",
      "o": [
-      "Once a week",
       "Daily",
       "Every two hours",
-      "Never"
+      "Never",
+      "Every twelve hours",
+      "Once a week"
      ],
-     "a": 2,
+     "a": 1,
      "w": "A two-hourly register was kept. {{sch}}"
     },
     {
      "t": "check",
      "q": "In the worked example, how many readings a day did 14 thermometers read every two hours give?",
      "o": [
-      "14",
+      "24",
       "84",
-      "168",
-      "336"
+      "14",
+      "336",
+      "168"
      ],
-     "a": 2,
+     "a": 4,
      "w": "12 readings × 14 thermometers = 168."
     },
     {
@@ -929,12 +948,13 @@
    "quiz": {
     "q": "Why were the Crystal Palace's louvre blades S-shaped?",
     "o": [
+     "So rain could not get in while open",
      "For looks",
-     "So rain could not enter while open",
+     "To hold the calico screens in place",
      "To trap heat",
      "To hold shading"
     ],
-    "a": 1,
+    "a": 0,
     "w": "The S-shaped blades kept rain out when the ventilators were open. {{sch}}"
    }
   },
@@ -1076,24 +1096,26 @@
      "t": "check",
      "q": "What did Carson say should come before reaching for the spray gun?",
      "o": [
-      "Nothing",
-      "Finding out first whether any other method can be used",
       "A bigger sprayer",
-      "A ban on farming"
+      "Nothing",
+      "Checking that the spray is on the approved list",
+      "A ban on farming",
+      "Finding out first if any other method works"
      ],
-     "a": 1,
+     "a": 4,
      "w": "She said to consider the whole problem and find out first whether any other method can be used. {{carson-1963}}"
     },
     {
      "t": "check",
      "q": "Did she advocate abandoning chemical control altogether?",
      "o": [
+      "Only for gardens",
       "Yes",
-      "No; she said chemicals have a place, used sparingly and selectively",
       "Only for farms",
-      "Only for gardens"
+      "No: chemicals have a place, used sparingly",
+      "Yes: she called for a total ban on all pesticides"
      ],
-     "a": 1,
+     "a": 3,
      "w": "She said she had not advocated complete abandonment. {{carson-1963}}"
     },
     {
@@ -1101,11 +1123,12 @@
      "q": "Why might broad spraying lead to a pest returning?",
      "o": [
       "It adds nutrients",
+      "It improves pollination",
       "It can weaken natural checks on the pest",
       "It warms the house",
-      "It improves pollination"
+      "It washes off the pest's eggs so they hatch elsewhere"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The summary says weakening the environment's checks lets a species reproduce explosively. {{ss-carson}}"
     },
     {
@@ -1120,12 +1143,13 @@
    "quiz": {
     "q": "Which approach best matches Carson's argument for pest control?",
     "o": [
-     "Spray on a fixed schedule",
-     "Look first, decide, then use the gentlest effective response",
+     "Use the strongest chemical available",
      "Never act",
-     "Use the strongest chemical available"
+     "Look first, decide, then the gentlest effective response",
+     "Never use any chemical in any circumstances, whatever the pest",
+     "Spray on a fixed schedule"
     ],
-    "a": 1,
+    "a": 2,
     "w": "She argued for finding out first whether another method can be used, and then using chemicals sparingly and selectively. {{carson-1963}}"
    }
   },
@@ -1253,8 +1277,9 @@
      "o": [
       "By plant family",
       "Month by month, January to December",
+      "Alphabetically",
       "By soil type",
-      "Alphabetically"
+      "By garden area, from house to woodland"
      ],
      "a": 1,
      "w": "Its chapters run from January to December. {{jekyll-wood}}"
@@ -1263,12 +1288,13 @@
      "t": "check",
      "q": "What did Jekyll say two disagreeing gardeners should have said?",
      "o": [
-      "Nothing",
-      "'In my experience in this place' it can only be done this way",
       "That the other is wrong",
-      "That it depends on the weather"
+      "Nothing",
+      "That the textbooks settle the matter",
+      "That it depends on the weather",
+      "'In my experience in this place'"
      ],
-     "a": 1,
+     "a": 4,
      "w": "She said they should have said 'In my experience in this place'. {{jekyll-wood}}"
     },
     {
@@ -1276,11 +1302,12 @@
      "q": "Why does she say not to judge new plantings after one year?",
      "o": [
       "They die",
-      "Some are not in strength until their second or third year",
+      "The first year's flowers are always the best they will ever be",
       "They flower in winter",
-      "They need no care"
+      "They need no care",
+      "Some reach strength only in year two or three"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Irises, for example, are not in strength till their second and third years. {{jekyll-colour}}"
     },
     {
@@ -1295,12 +1322,13 @@
    "quiz": {
     "q": "What three parts does a Jekyll-style month note have in this course?",
     "o": [
+     "What I bought, what I spent, what I sold",
      "Cost, profit, tax",
-     "What I did, what I saw, next year",
      "Sow, grow, sell",
-     "Rain, wind, sun"
+     "Rain, wind, sun",
+     "What I did, what I saw, next year"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Did, saw, and a line for next year."
    }
   },
@@ -1412,24 +1440,26 @@
      "t": "check",
      "q": "What did Paxton do first on 11 June 1850?",
      "o": [
+      "Submitted full engineering drawings to the committee",
       "Built the Palace",
-      "Sketched the essence of the building on blotting paper",
-      "Ordered glass",
-      "Resigned"
+      "Sketched the building on blotting paper",
+      "Resigned",
+      "Ordered glass"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He sketched the essence of the building on blotting paper. {{jstor-glaz}}"
     },
     {
      "t": "check",
      "q": "Why did Paxton's prefabricated parts suit the job?",
      "o": [
-      "They were hand-made to fit",
-      "They could be produced in large numbers and assembled",
+      "Each part was made to order for its exact place in the building",
+      "They were cheaper to design",
       "They were all different",
-      "They were cheaper to design"
+      "They were hand-made to fit",
+      "They could be mass-produced and assembled"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Elements could be produced in vast numbers and assembled into varied designs. {{gg-paxton}}"
     },
     {
@@ -1437,11 +1467,12 @@
      "q": "In the worked example, how many six-week blocks fit a 42-week window?",
      "o": [
       "4",
+      "8",
       "6",
       "7",
-      "8"
+      "42"
      ],
-     "a": 2,
+     "a": 3,
      "w": "42 ÷ 6 = 7."
     },
     {
@@ -1456,12 +1487,13 @@
    "quiz": {
     "q": "In the Paxton method for scoping a year, what do you choose after the fixed limits?",
     "o": [
-     "A standard repeating unit",
-     "The most complex bed",
      "A new crop each week",
-     "The most expensive seed"
+     "The most expensive seed",
+     "The most complex bed",
+     "A different layout for every bench",
+     "A standard repeating unit"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Choose a standard unit, then repeat it across the year. {{gg-paxton}}"
    }
   }

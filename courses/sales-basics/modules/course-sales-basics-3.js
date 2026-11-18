@@ -104,12 +104,13 @@
      "t": "check",
      "q": "Which source helps with 'what customers say about the prospect'?",
      "o": [
-      "The prospect's own advertising only",
       "Reviews and complaint sites",
       "Your pricing sheet",
-      "A tax return"
+      "The prospect's own website and press releases",
+      "A tax return",
+      "The prospect's own adverts"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The text recommends reading customer reviews and checking complaints. {{ps-pre1}}"
     },
     {
@@ -117,11 +118,12 @@
      "q": "Why write call goals on a worksheet before the call?",
      "o": [
       "To please a manager",
-      "So you can measure whether the call succeeded",
-      "To avoid listening",
-      "To lengthen the call"
+      "So you can read them out word for word on the call",
+      "To lengthen the call",
+      "So you can measure whether it succeeded",
+      "To avoid listening"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Written goals let you measure results and adapt next time. {{ps-pre1}}"
     },
     {
@@ -244,12 +246,13 @@
      "t": "check",
      "q": "Your manager asks for your goal on tomorrow's call. Which one is SMART?",
      "o": [
+      "Close eventually",
+      "Build rapport, and learn as much about them as you possibly can",
       "Learn more about them",
-      "By the end of the call, learn who decides and agree a follow-up date by Friday",
       "Be friendly",
-      "Close eventually"
+      "Learn who decides and agree a follow-up date by Friday"
      ],
-     "a": 1,
+     "a": 4,
      "w": "It is specific, measurable, actionable, realistic and time-bound. {{ps-pre3}}",
      "kind": "application"
     },
@@ -257,9 +260,10 @@
      "t": "check",
      "q": "A prospect has just told you their deliveries keep arriving late. When, and why, would you now use a specific benefit statement?",
      "o": [
-      "Never",
-      "Before research",
-      "Once you have their attention, to tie the benefit to their situation",
+      "Before any research",
+      "Never: benefits belong in the proposal",
+      "Now: tie the benefit to the problem they named",
+      "Not yet: give a general benefit statement first and save the specific one for the close",
       "Only on invoices"
      ],
      "a": 2,
@@ -406,8 +410,9 @@
      "o": [
       "Did I catch you at a bad time?",
       "Is this a good time?",
+      "Can you talk now or never?",
       "How are you today?",
-      "Can you talk now or never?"
+      "Do you have a minute to hear about our offer?"
      ],
      "a": 1,
      "w": "A 'bad time?' question makes it easy to say yes and end the call. {{ps-approach2}}",
@@ -417,12 +422,13 @@
      "t": "check",
      "q": "Your US sales book says to send a prospect twelve follow-up emails. You sell to consumers in Ireland. Why should you be careful?",
      "o": [
-      "It is fine everywhere",
-      "Persistent unwanted communications can breach consumer law, and consent rules apply",
+      "It is fine, since US advice applies in Ireland without any change",
       "Email is banned",
+      "It is fine everywhere",
+      "Persistent unwanted contact can breach consumer law",
       "Emails must be handwritten"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Irish law bans persistent unwanted communications; see Module 6. {{ci-unfair}}",
      "kind": "application"
     },
@@ -543,12 +549,13 @@
      "t": "check",
      "q": "What should you do before using a referral's name in your opening?",
      "o": [
-      "Nothing",
       "Ask your referral source",
+      "Nothing, since referrals expect to be named",
       "Give them a gift",
+      "Nothing",
       "Email the prospect first"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The text says to ask your referral source before mentioning her name. {{ps-approach3}}"
     },
     {
@@ -556,11 +563,12 @@
      "q": "How should a salesperson treat a gatekeeper?",
      "o": [
       "Ignore them",
-      "As a valuable ally, giving the information they ask for",
+      "As a competitor",
+      "As an obstacle to get past as quickly as possible",
       "As an obstacle",
-      "As a competitor"
+      "As an ally, giving the information they ask for"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The text says to treat them with courtesy and as part of the selling relationship. {{ps-approach4}}"
     },
     {
@@ -698,10 +706,11 @@
      "t": "check",
      "q": "Which is one of Carnegie's six ways to make people like you?",
      "o": [
-      "Interrupt often",
+      "Never use names",
       "Be a good listener",
+      "Interrupt often",
       "Talk about yourself",
-      "Never use names"
+      "Win every argument politely"
      ],
      "a": 1,
      "w": "Be a good listener, and encourage others to talk about themselves. {{carnegie-wiki}}"
@@ -710,22 +719,24 @@
      "t": "check",
      "q": "What did Sinclair Lewis say about the book?",
      "o": [
-      "It was the best ever",
-      "It taught people to smile and bob and pretend interest",
+      "It was the most honest guide to business ever written",
+      "It was banned",
+      "It taught people to smile, bob and pretend interest",
       "It was too long",
-      "It was banned"
+      "It was the best ever"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He criticised it as teaching people to smile and bob and pretend to be interested. {{carnegie-wiki}}"
     },
     {
      "t": "check",
      "q": "A colleague memorises Carnegie's six ways and uses prospects' names every sentence to seem friendly. What does the lesson warn about this?",
      "o": [
-      "Never use them",
-      "They can be used as tricks, so keep the interest genuine",
       "They are illegal",
-      "They only work online"
+      "They can become tricks; keep the interest genuine",
+      "They only work online",
+      "Never use them",
+      "Using a person's name often always builds trust, so it is good practice"
      ],
      "a": 1,
      "w": "Britannica notes the emphasis on genuine interest. {{brit-carnegie-book}}",

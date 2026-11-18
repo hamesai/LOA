@@ -94,12 +94,13 @@
      "t": "check",
      "q": "Why keep the first-year crop list short?",
      "o": [
-      "Seed is expensive",
-      "Each extra crop multiplies the logging, and the review needs complete data",
+      "Each extra crop adds logging, and the review needs full data",
+      "More crops cause pests",
       "Short lists are required",
-      "More crops cause pests"
+      "Longer lists give the review more data, but take more space on the benches",
+      "Seed is expensive"
      ],
-     "a": 1,
+     "a": 0,
      "w": "A complete record of a few crops is worth more than a patchy record of many."
     },
     {
@@ -214,10 +215,11 @@
      "t": "check",
      "q": "How should you treat a missed week of data?",
      "o": [
-      "Fill it in from memory",
-      "Leave it blank, note why, and list it as a data gap",
+      "Estimate it from the weeks either side so the series is complete",
+      "Leave it blank, note why, and list it as a gap",
       "Delete the whole log",
-      "Copy the previous week"
+      "Copy the previous week",
+      "Fill it in from memory"
      ],
      "a": 1,
      "w": "Backfilling invents data. Gaps are honest and the review can name them."
@@ -313,12 +315,13 @@
      "t": "check",
      "q": "When is the capstone ready to mark complete?",
      "o": [
-      "When a year has passed",
-      "When all five rubric rows meet the passing result",
+      "When at least three of the five rows meet the pass",
       "When the dashboard is full",
+      "When a year has passed",
+      "When all five rubric rows meet the pass",
       "When you have three logs"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Black belt requires all five criteria to be met."
     },
     {
@@ -438,24 +441,26 @@
      "t": "check",
      "q": "What did Paxton do first on 11 June 1850?",
      "o": [
+      "Submitted full engineering drawings to the committee",
       "Built the Palace",
-      "Sketched the essence of the building on blotting paper",
-      "Ordered glass",
-      "Resigned"
+      "Sketched the building on blotting paper",
+      "Resigned",
+      "Ordered glass"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He sketched the essence of the building on blotting paper. {{jstor-glaz}}"
     },
     {
      "t": "check",
      "q": "Why did Paxton's prefabricated parts suit the job?",
      "o": [
-      "They were hand-made to fit",
-      "They could be produced in large numbers and assembled",
+      "Each part was made to order for its exact place in the building",
+      "They were cheaper to design",
       "They were all different",
-      "They were cheaper to design"
+      "They were hand-made to fit",
+      "They could be mass-produced and assembled"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Elements could be produced in vast numbers and assembled into varied designs. {{gg-paxton}}"
     },
     {
@@ -463,11 +468,12 @@
      "q": "In the worked example, how many six-week blocks fit a 42-week window?",
      "o": [
       "4",
+      "8",
       "6",
       "7",
-      "8"
+      "42"
      ],
-     "a": 2,
+     "a": 3,
      "w": "42 ÷ 6 = 7."
     },
     {

@@ -51,7 +51,7 @@ def lesson_skeleton(key, title, number, is_cap):
         {"t": "example", "title": "Worked example: TODO", "steps": ["TODO: step one with the numbers shown.", "TODO: step two.", "TODO: the result, and what it means. Say 'illustrative' if the numbers are invented."]},
         {"t": "terms", "i": [["TODO term", "TODO plain definition."], ["TODO term", "TODO plain definition."]]},
         {"t": "activity", "x": "TODO: something the learner does, tied to a challenge."},
-        {"t": "check", "q": "TODO: a question that tests understanding, not recall of a phrase.", "o": ["TODO option", "TODO option", "TODO option", "TODO option"], "a": 0, "w": "TODO: why it is right, citing the source."},
+        {"t": "check", "q": "TODO: a question that tests understanding, not recall of a phrase.", "o": ["TODO option", "TODO option", "TODO option", "TODO option", "TODO option"], "a": 0, "w": "TODO: why it is right, citing the source. Five options, the right one not the longest, its slot varied (author.py chk5 does this)."},
         {"t": "take", "i": ["TODO takeaway", "TODO takeaway", "TODO takeaway"]},
     ]
     lessons = [{"id": "l1", "title": "TODO lesson title", "min": 12, "blocks": blocks}]
@@ -114,7 +114,7 @@ def main():
             "mistakes": ["TODO: a common mistake and its fix"],
             "review": [] if i == 1 else [{"q": "TODO: a question from an earlier module", "a": "TODO"}],
             "pass": "TODO: the observable result that marks this module complete."}
-        quiz[key] = [{"q": "TODO question %d" % q, "o": ["TODO", "TODO", "TODO", "TODO"], "a": 0, "w": "TODO: why"} for q in range(1, 5)]
+        quiz[key] = [{"q": "TODO question %d" % q, "o": ["TODO", "TODO", "TODO", "TODO", "TODO"], "a": 0, "w": "TODO: why (write with author.py question5)"} for q in range(1, 5)]
     if cap:
         key = "%s-cap" % a.id
         modules.append({"key": key, "library": a.id, "number": "Capstone", "kind": "capstone", "title": "TODO: capstone title", "hours": "TODO",

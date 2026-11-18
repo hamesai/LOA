@@ -134,12 +134,13 @@
      "t": "check",
      "q": "In single-system Super 8 sound with an 18-frame advance, about how long is the wrong-sound gap after a splice at 18 fps?",
      "o": [
-      "About 1 second",
       "About a tenth of a second",
+      "None",
+      "About 1 second",
       "About 10 seconds",
-      "None"
+      "About 18 seconds"
      ],
-     "a": 0,
+     "a": 2,
      "w": "18 frames at 18 fps is one second. {{unesco-super8}}",
      "kind": "application"
     },
@@ -217,12 +218,13 @@
      "t": "check",
      "q": "How long does a 50 ft Super 8 cartridge run at 18 fps?",
      "o": [
-      "1 min 40 s",
-      "2 min 30 s",
+      "2 min 50 s",
       "3 min 20 s",
-      "11 min"
+      "11 min",
+      "1 min 40 s",
+      "2 min 30 s"
      ],
-     "a": 2,
+     "a": 1,
      "w": "3600 frames ÷ 18 fps = 200 seconds. {{wiki-super8}}",
      "kind": "application"
     },
@@ -231,11 +233,12 @@
      "q": "Which gauge was introduced in 1923 as a cheaper alternative to 35 mm for amateurs?",
      "o": [
       "Super 8",
-      "16 mm",
       "Single-8",
-      "70 mm"
+      "9.5 mm",
+      "70 mm",
+      "16 mm"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Kodak introduced 16 mm in 1923. {{wiki-16mm}}"
     },
     {
@@ -411,12 +414,13 @@
      "t": "check",
      "q": "You shoot 500T in daylight with the 85 filter. What exposure index do you set?",
      "o": [
+      "250",
+      "125",
       "500",
       "320",
-      "250",
       "64"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Kodak gives 320 for daylight with an 85 filter. {{kodak-500t}}",
      "kind": "application"
     },
@@ -424,12 +428,13 @@
      "t": "check",
      "q": "Roughly how many stops do you lose using 250D under 3200 K lamps with an 80A?",
      "o": [
-      "None",
-      "About one",
       "About two",
-      "About four"
+      "About one",
+      "About two-thirds",
+      "About four",
+      "None"
      ],
-     "a": 2,
+     "a": 0,
      "w": "250 down to 64 is a factor of 3.9, about two stops. {{kodak-250d}}",
      "kind": "application"
     },
@@ -551,12 +556,13 @@
      "t": "check",
      "q": "You are shooting film for the first time with a borrowed camera and a new lab. Why bracket a test roll first?",
      "o": [
+      "The lab needs a test roll from you so it can set its chemistry for your film",
       "Because film is cheap",
-      "You cannot see the result on set, so you learn how your gear and lab behave",
-      "To waste film",
-      "It is required by the lab"
+      "It is required by the lab",
+      "You can't see results on set, so you learn your gear and lab",
+      "To use up film"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Film is developed later, so a test is the only way to check your whole chain in advance (our reasoning).",
      "kind": "application"
     },
@@ -565,11 +571,12 @@
      "q": "Which should you avoid when handling unexposed film?",
      "o": [
       "Total darkness",
+      "A dark bag",
       "A safelight",
-      "Cool storage",
-      "A changing bag"
+      "A changing bag",
+      "Cool storage"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Kodak says not to use a safelight. {{kodak-500t}}"
     },
     {
@@ -695,12 +702,13 @@
      "t": "check",
      "q": "Which is a real cost difference between film and digital?",
      "o": [
-      "Film takes cost stock, processing and scanning each time",
-      "Digital cameras need darkness",
+      "Digital takes cost more because of storage and backups",
+      "Digital stores less",
       "Film has no shutter",
-      "Digital stores less"
+      "Digital cameras need darkness",
+      "Every film take costs stock, processing and scanning"
      ],
-     "a": 0,
+     "a": 4,
      "w": "Each film take uses stock and needs processing and scanning. {{wiki-16mm}}"
     },
     {
@@ -708,9 +716,10 @@
      "q": "What is a digital intermediate?",
      "o": [
       "Developing at home",
-      "A workflow in which film is scanned, graded digitally and output",
-      "A type of lens",
-      "A battery"
+      "Film scanned, graded digitally and output",
+      "A digital camera used alongside film for safety",
+      "A battery",
+      "A type of lens"
      ],
      "a": 1,
      "w": "The source describes shooting on film, scanning, grading and printing out. {{wiki-16mm}}"
@@ -832,9 +841,10 @@
      "q": "A film camera has a 135° shutter and runs at 24 fps. What is its shutter speed?",
      "o": [
       "About 1/64 s",
-      "1/48 s",
       "1/96 s",
-      "1/25 s"
+      "1/32 s (135 ÷ 24 ≈ 5.6)",
+      "1/25 s",
+      "1/48 s"
      ],
      "a": 0,
      "w": "135° ÷ 360° is 0.375, and 0.375 ÷ 24 is 1/64 s (our arithmetic). {{fh-ch6}}",
@@ -844,12 +854,13 @@
      "t": "check",
      "q": "Why should you close the viewfinder light trap when you are not looking through a film camera's eyepiece?",
      "o": [
-      "Stray light can pass back through the reflex system and fog the film",
       "It saves battery",
+      "It keeps the lens clean",
+      "It keeps dust off the ground glass and out of the gate",
       "It stops the shutter turning",
-      "It keeps the lens clean"
+      "Stray light can travel back and fog the film"
      ],
-     "a": 0,
+     "a": 4,
      "w": "Light entering the eyepiece can travel backwards and expose the film. {{fh-ch6}}"
     },
     {
@@ -942,14 +953,15 @@
     },
     {
      "t": "check",
-     "q": "You underexposed a roll by a stop and ask the lab to push it. What will that do, and what will it not do?",
+     "q": "You underexposed a roll by one stop. Which lab instruction compensates?",
      "o": [
+      "Pull two stops",
+      "Flash the negative",
       "Pull one stop",
       "Push one stop",
-      "Flashing",
-      "Using slower film"
+      "Use slower film"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Pushing makes brighter tones respond more than the toe. {{fh-ch7}}",
      "kind": "application"
     },
@@ -958,11 +970,12 @@
      "q": "A stock is rated ISO 100 and you push two stops. What EI do you meter at?",
      "o": [
       "200",
-      "300",
       "400",
+      "25",
+      "300",
       "800"
      ],
-     "a": 2,
+     "a": 1,
      "w": "Two stops multiplies the speed by four (our arithmetic). {{fh-ch7}}",
      "kind": "application"
     },
@@ -1057,12 +1070,13 @@
      "t": "check",
      "q": "You take a reflected reading of a very pale subject. What does an uncorrected exposure do?",
      "o": [
-      "Renders it as middle grey, so too dark",
       "Renders it as pure white",
       "Matches it exactly",
+      "Renders it middle grey, so too dark",
+      "Renders it brighter than it really is",
       "Overexposes by two stops"
      ],
-     "a": 0,
+     "a": 2,
      "w": "A reflected meter pushes whatever it reads toward middle grey, so pale subjects come out too dark. {{fh-ch7}}",
      "kind": "application"
     },
@@ -1070,12 +1084,13 @@
      "t": "check",
      "q": "Readings of f/2 and f/16 are averaged in stops. Where do you land?",
      "o": [
-      "f/9",
       "f/5.6",
       "f/8",
-      "f/4"
+      "f/4",
+      "f/9",
+      "f/9 (the midpoint of 2 and 16)"
      ],
-     "a": 1,
+     "a": 0,
      "w": "f/2 to f/16 is six stops; halfway is three stops from f/2, which is f/5.6 (our arithmetic). {{fh-ch7}}",
      "kind": "application"
     },
@@ -1173,8 +1188,9 @@
      "q": "What is the exposure time for 120 degrees at 360 fps?",
      "o": [
       "1/1080 s",
-      "1/720 s",
       "1/360 s",
+      "1/3000 s",
+      "1/720 s",
       "1/120 s"
      ],
      "a": 0,
@@ -1185,12 +1201,13 @@
      "t": "check",
      "q": "Two equal f/5.6 light sources together read as...",
      "o": [
-      "f/8",
-      "f/11.2",
       "f/4",
-      "f/5.6"
+      "f/5.6",
+      "f/11",
+      "f/8",
+      "f/11.2"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Two equal sources double the light, which is one stop. {{brown-special}}",
      "kind": "application"
     },
@@ -1287,24 +1304,26 @@
      "t": "check",
      "q": "How much stock does three-perf save over four-perf?",
      "o": [
-      "25 per cent",
-      "50 per cent",
       "10 per cent",
+      "25 per cent",
+      "33 per cent",
+      "50 per cent",
       "None"
      ],
-     "a": 0,
+     "a": 1,
      "w": "Our arithmetic: 3 ÷ 4 = 0.75, so it uses a quarter less. {{fh-ch1}}"
     },
     {
      "t": "check",
      "q": "Why does a shutter cover the gate during the film's move?",
      "o": [
+      "To change the colour",
+      "To add grain",
       "The film moves only between exposures",
       "To cool the film",
-      "To add grain",
-      "To change the colour"
+      "To keep dust and hair out of the gate during the run"
      ],
-     "a": 0,
+     "a": 2,
      "w": "The frame must be still when light reaches it. {{arnheim-motion}}"
     },
     {
@@ -1442,24 +1461,26 @@
      "t": "check",
      "q": "Where did Eastman expect most revenue to come from?",
      "o": [
-      "Cameras",
-      "Film rolls",
+      "Processing fees",
       "Tripods",
-      "Lenses"
+      "Lenses",
+      "Cameras",
+      "Film rolls"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He recognised that most revenue would come from film rolls. {{wiki-eastman}}"
     },
     {
      "t": "check",
      "q": "A £60 cartridge holds 3,600 frames. About what does each frame cost?",
      "o": [
-      "0.17p",
-      "1.7p",
+      "£1.70",
+      "6p",
       "17p",
-      "£1.70"
+      "1.7p",
+      "0.17p"
      ],
-     "a": 1,
+     "a": 3,
      "w": "60 ÷ 3,600 is about £0.0167.",
      "kind": "application"
     },
@@ -1467,12 +1488,13 @@
      "t": "check",
      "q": "What does Kodak say about handling unprocessed film?",
      "o": [
-      "Use a green safelight",
-      "Handle it in total darkness",
+      "Use a dim red safelight, as for paper",
       "Handle it in bright light",
-      "Keep it hot"
+      "Handle it in total darkness",
+      "Keep it hot",
+      "Use a green safelight"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Do not use a safelight; handle unprocessed film in total darkness. {{kodak-500t}}"
     },
     {

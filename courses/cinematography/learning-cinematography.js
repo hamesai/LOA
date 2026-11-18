@@ -6,21 +6,23 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "At 24 fps, which shutter speed gives a 180° angle?",
     "o": [
-     "1/24 s",
-     "1/48 s",
+     "1/250 s",
+     "1/96 s",
      "1/100 s",
-     "1/250 s"
+     "1/48 s",
+     "1/24 s"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Half of the 1/24 s frame interval is 1/48 s."
    },
    {
     "q": "How many stops darker is f/8 than f/4?",
     "o": [
-     "One",
+     "One and a half",
      "Two",
      "Three",
-     "Four"
+     "Four",
+     "One"
     ],
     "a": 1,
     "w": "f/4, f/5.6, f/8 is two steps."
@@ -28,12 +30,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "ISO 200 to ISO 800 does what?",
     "o": [
-     "Two stops more sensitive",
      "One stop more sensitive",
+     "No change",
+     "Four stops less sensitive (800 ÷ 200)",
      "Four stops more sensitive",
-     "No change"
+     "Two stops more sensitive"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Each doubling is one stop, and 200 to 400 to 800 is two doublings."
    }
   ],
@@ -122,10 +125,11 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A 50 mm lens on a camera with a crop factor of 1.6 frames like what on full frame?",
     "o": [
-     "31 mm",
-     "50 mm",
+     "160 mm",
+     "51.6 mm",
      "80 mm",
-     "160 mm"
+     "31 mm",
+     "50 mm"
     ],
     "a": 2,
     "w": "50 × 1.6 = 80 mm."
@@ -133,23 +137,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A log profile looks flat. Why use it?",
     "o": [
+     "It saves battery",
      "It adds sharpness",
-     "It keeps highlight and shadow detail for grading",
+     "It gives a finished look that needs no grade at all",
      "It halves the noise",
-     "It saves battery"
+     "It keeps highlight and shadow detail for grading"
     ],
-    "a": 1,
+    "a": 4,
     "w": "It gives a wide tonal range that needs grading."
    },
    {
     "q": "Why did early DSLR clips stop after about 12 minutes?",
     "o": [
-     "Heat",
-     "The 4 GB file limit",
      "The lens",
-     "The law"
+     "Heat",
+     "The law",
+     "The 4 GB file limit",
+     "The battery's twelve-minute rating"
     ],
-    "a": 1,
+    "a": 3,
     "w": "The 4 GB FAT32 limit."
    }
   ],
@@ -188,10 +194,11 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "At 25 fps, which shutter speed gives 180°?",
     "o": [
-     "1/25 s",
+     "1/250 s",
      "1/50 s",
-     "1/100 s",
-     "1/250 s"
+     "1/48 s",
+     "1/25 s",
+     "1/100 s"
     ],
     "a": 1,
     "w": "Half of the 1/25 s frame interval."
@@ -199,23 +206,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "How many stops lie between f/2.8 and f/8?",
     "o": [
-     "Two",
      "Three",
+     "Five",
+     "Two",
      "Four",
-     "Five"
+     "Two and a half"
     ],
-    "a": 1,
+    "a": 0,
     "w": "f/2.8, f/4, f/5.6, f/8 is three steps."
    },
    {
     "q": "Shooting at 48 fps with a 180° shutter loses how much light compared with 24 fps?",
     "o": [
-     "None",
+     "Two stops (48 is 2 × 24)",
+     "Half a stop",
      "One stop",
-     "Two stops",
-     "Half a stop"
+     "None",
+     "Two stops"
     ],
-    "a": 1,
+    "a": 2,
     "w": "The exposure time halves, which is one stop."
    }
   ],
@@ -274,31 +283,34 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "Going from f/2 to f/4 does what to depth of field?",
     "o": [
      "Halves it",
-     "Doubles it",
      "Nothing",
-     "Squares it"
+     "Squares it",
+     "Doubles it",
+     "Quadruples it"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Depth of field is proportional to the f-number."
    },
    {
     "q": "Cropping a 16:9 frame to 2.39:1 at the same width keeps about what share of the height?",
     "o": [
-     "50%",
-     "74%",
+     "56%",
+     "100%",
      "90%",
-     "100%"
+     "50%",
+     "74%"
     ],
-    "a": 1,
+    "a": 4,
     "w": "1920 ÷ 2.39 ≈ 803 of 1080."
    },
    {
     "q": "What mostly drives the perspective of a face?",
     "o": [
      "Camera distance",
-     "ISO",
      "Frame rate",
-     "Shutter angle"
+     "Shutter angle",
+     "Focal length alone",
+     "ISO"
     ],
     "a": 0,
     "w": "Distance, not focal length alone."
@@ -339,10 +351,11 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A camera has a crop factor of 1.6. A 31 mm lens frames like what on full frame?",
     "o": [
-     "About 20 mm",
-     "About 50 mm",
      "About 80 mm",
-     "About 100 mm"
+     "About 50 mm",
+     "About 20 mm",
+     "About 100 mm",
+     "About 31 mm (unchanged)"
     ],
     "a": 1,
     "w": "31 × 1.6 ≈ 50 mm."
@@ -350,10 +363,11 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A sunny scene needs f/11. You want f/2.8. How many stops of ND?",
     "o": [
-     "Two",
-     "Three",
+     "Six",
+     "Eight",
      "Four",
-     "Six"
+     "Three",
+     "Two"
     ],
     "a": 2,
     "w": "f/11 to f/2.8 is four steps."
@@ -361,12 +375,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Why use a log profile?",
     "o": [
+     "It cuts noise to zero",
      "It sharpens",
      "It keeps a wide tonal range for grading",
-     "It cuts noise to zero",
+     "It gives a finished look straight from camera",
      "It speeds the card"
     ],
-    "a": 1,
+    "a": 2,
     "w": "It retains highlight and shadow detail."
    }
   ],
@@ -425,31 +440,34 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "Which light is warmest?",
     "o": [
      "Overcast sky",
-     "Midday sun",
      "Candle flame",
-     "Electronic flash"
+     "Electronic flash",
+     "Tungsten studio lamp",
+     "Midday sun"
     ],
-    "a": 2,
+    "a": 1,
     "w": "A candle flame is about 1,850 K."
    },
    {
     "q": "How bright is the fill compared with the key?",
     "o": [
      "Brighter",
-     "Equal",
+     "Equal, to remove all shadow",
+     "Ten times dimmer",
      "Up to half as bright",
-     "Ten times dimmer"
+     "Equal"
     ],
-    "a": 2,
+    "a": 3,
     "w": "Up to half the key."
    },
    {
     "q": "At EI 500, 24 fps and 180°, how many footcandles does f/2 need?",
     "o": [
-     "5",
+     "2.5",
      "10",
+     "40",
      "20",
-     "40"
+     "5"
     ],
     "a": 1,
     "w": "Kodak's table gives 10."
@@ -490,34 +508,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A 50 mm lens on full frame has a horizontal angle of about what?",
     "o": [
-     "15°",
-     "24°",
      "40°",
-     "74°"
+     "24°",
+     "15°",
+     "74°",
+     "50°"
     ],
-    "a": 2,
+    "a": 0,
     "w": "About 39.6°."
    },
    {
     "q": "How many stops do you lose at 60 fps with a 180° shutter?",
     "o": [
-     "None",
-     "About 1.3",
+     "About 4",
      "About 2.3",
-     "About 4"
+     "About 1.3",
+     "None",
+     "About 2.5"
     ],
-    "a": 1,
+    "a": 2,
     "w": "The shutter goes from 1/48 to 1/120 s."
    },
    {
     "q": "A 4 GB file cap on a 45 Mb/s camera is reached after about how long?",
     "o": [
+     "1.5 min",
      "2 min",
      "12 min",
      "45 min",
      "60 min"
     ],
-    "a": 1,
+    "a": 2,
     "w": "4096 ÷ 5.625 ≈ 728 s."
    }
   ],
@@ -575,12 +596,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What does the 180-degree rule keep consistent?",
     "o": [
-     "Colour",
      "Screen positions of the characters",
+     "Shot sizes and lens choice across the scene",
+     "Colour",
      "Focal length",
      "Frame rate"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Left and right positions."
    },
    {
@@ -588,8 +610,9 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "o": [
      "5:1",
      "6:1",
-     "30:1",
-     "150:1"
+     "150:1",
+     "1:6",
+     "30:1"
     ],
     "a": 1,
     "w": "30 ÷ 5 = 6."
@@ -597,12 +620,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A slider moves 60 cm in 5 s. What is the speed?",
     "o": [
+     "30 cm/s",
      "6 cm/s",
-     "10 cm/s",
+     "300 cm/s",
      "12 cm/s",
-     "30 cm/s"
+     "10 cm/s"
     ],
-    "a": 2,
+    "a": 3,
     "w": "60 ÷ 5 = 12."
    }
   ],
@@ -641,34 +665,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Daylight film is balanced for what colour temperature?",
     "o": [
-     "3200 K",
-     "5500 K",
+     "4300 K",
      "6500 K",
-     "1850 K"
+     "3200 K",
+     "1850 K",
+     "5500 K"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Daylight film is balanced for 5500 K."
    },
    {
     "q": "Which light is the softest and weakest in a three-point setup?",
     "o": [
+     "Background",
      "Key",
+     "Kicker",
      "Fill",
-     "Backlight",
-     "Background"
+     "Backlight"
     ],
-    "a": 1,
+    "a": 3,
     "w": "The fill."
    },
    {
     "q": "A 50 mm lens at f/2 versus f/4 at the same distance: what changes in depth of field?",
     "o": [
-     "It halves",
-     "It doubles",
+     "It quadruples",
      "Same",
-     "It quadruples"
+     "It doubles at f/4",
+     "It halves",
+     "It doubles at f/2"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Depth is proportional to f-number."
    }
   ],
@@ -728,8 +755,9 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "o": [
      "1,000",
      "3,600",
-     "16,000",
-     "72"
+     "2,400",
+     "72",
+     "16,000"
     ],
     "a": 1,
     "w": "50 ft × 72 frames per foot."
@@ -737,23 +765,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "500T in daylight with an 85 filter has what exposure index?",
     "o": [
-     "500",
-     "320",
      "250",
-     "64"
+     "125",
+     "500",
+     "64",
+     "320"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Kodak gives 320."
    },
    {
     "q": "About how long does 1,000 ft of 35 mm run at 24 fps?",
     "o": [
+     "90 min",
      "3 min",
      "11 min",
      "30 min",
-     "90 min"
+     "16 min"
     ],
-    "a": 1,
+    "a": 2,
     "w": "About 11 minutes."
    }
   ],
@@ -793,33 +823,36 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "What shooting ratio is 36 minutes shot for 4 used?",
     "o": [
      "4:1",
-     "9:1",
+     "1:9",
      "36:1",
-     "144:1"
+     "144:1",
+     "9:1"
     ],
-    "a": 1,
+    "a": 4,
     "w": "36 ÷ 4 = 9."
    },
    {
     "q": "At EI 500, how much light does f/4 need?",
     "o": [
-     "10 fc",
      "20 fc",
      "40 fc",
-     "80 fc"
+     "10 fc",
+     "80 fc",
+     "160 fc"
     ],
-    "a": 2,
+    "a": 1,
     "w": "40 fc."
    },
    {
     "q": "Which side of the line does the 180-degree rule keep the camera on?",
     "o": [
-     "Either, per shot",
      "One side",
+     "Either side, so long as the eyelines match",
      "Behind",
-     "Above"
+     "Above",
+     "Either, per shot"
     ],
-    "a": 1,
+    "a": 0,
     "w": "One side of the line."
    }
   ],
@@ -880,6 +913,7 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
      "25",
      "30",
      "50",
+     "100",
      "60"
     ],
     "a": 2,
@@ -889,22 +923,24 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "In 2:3 pulldown, four film frames become how many video frames?",
     "o": [
      "Four",
-     "Five",
+     "Eight",
+     "Ten",
      "Six",
-     "Eight"
+     "Five"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Five."
    },
    {
     "q": "About how many pixels across does VHS give in digital terms?",
     "o": [
+     "About 1920",
      "About 320",
+     "About 720",
      "About 560",
-     "About 1280",
-     "About 1920"
+     "About 1280"
     ],
-    "a": 0,
+    "a": 1,
     "w": "About 320."
    }
   ],
@@ -943,34 +979,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "How long does a Super 8 cartridge run at 18 fps?",
     "o": [
-     "1 min 40 s",
-     "2 min 30 s",
      "3 min 20 s",
+     "1 min 40 s",
+     "2 min 50 s",
+     "2 min 30 s",
      "11 min"
     ],
-    "a": 2,
+    "a": 0,
     "w": "200 seconds."
    },
    {
     "q": "500T in daylight with an 85 filter loses about how many stops of speed?",
     "o": [
+     "About four",
+     "About one and a half",
      "None",
      "About two-thirds",
-     "About two",
-     "About four"
+     "About two"
     ],
-    "a": 1,
+    "a": 3,
     "w": "500 to 320."
    },
    {
     "q": "At 60 fps with a 180° shutter, how much light is lost compared with 24 fps?",
     "o": [
+     "About 3 stops",
+     "About 2.5 stops",
      "None",
      "About 1.3 stops",
-     "About 3 stops",
      "About 5 stops"
     ],
-    "a": 1,
+    "a": 3,
     "w": "1/48 to 1/120 s."
    }
   ],
@@ -1031,21 +1070,23 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "At 24 fps, which shutter speed gives 180°?",
     "o": [
+     "1/100 s",
      "1/24 s",
      "1/48 s",
-     "1/100 s",
-     "1/250 s"
+     "1/250 s",
+     "1/96 s"
     ],
-    "a": 1,
+    "a": 2,
     "w": "1/48 s."
    },
    {
     "q": "What does the fill do, and how bright is it?",
     "o": [
+     "Sets white balance",
+     "Softens shadows, at up to half the key",
      "Lights the background at full power",
-     "Softens shadows at up to half the key",
      "Rims the subject",
-     "Sets white balance"
+     "Softens shadows, at about twice the key's level"
     ],
     "a": 1,
     "w": "It softens the shadows."
@@ -1054,55 +1095,60 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "A 50 ft Super 8 cartridge at 18 fps gives how long?",
     "o": [
      "2 min",
-     "3 min 20 s",
+     "11 min",
      "5 min",
-     "11 min"
+     "2 min 50 s",
+     "3 min 20 s"
     ],
-    "a": 1,
+    "a": 4,
     "w": "200 seconds."
    },
    {
     "q": "You shoot 24 fps at 1/48 s and move to 60 fps with a 180° shutter. About how much light do you lose?",
     "o": [
-     "None",
      "About 1.3 stops",
+     "About 2.5 stops",
      "About 3 stops",
-     "About 5 stops"
+     "About 5 stops",
+     "None"
     ],
-    "a": 1,
+    "a": 0,
     "w": "1/48 s to 1/120 s is a ratio of 2.5, about 1.3 stops."
    },
    {
     "q": "A 500T roll is shot in daylight with an 85 filter. Which exposure index applies, and about how many stops does it cost?",
     "o": [
-     "EI 500, none",
-     "EI 320, about two-thirds of a stop",
      "EI 250, one stop",
-     "EI 64, two stops"
+     "EI 125, about two full stops (500 ÷ 4)",
+     "EI 500, none",
+     "EI 64, two stops",
+     "EI 320, about two-thirds of a stop"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Kodak gives 320 for daylight with an 85, and 500 to 320 is about 0.64 stops."
    },
    {
     "q": "Which has the shallower depth of field at the same framing and f-number: a full-frame or a 1.6 crop sensor?",
     "o": [
+     "It depends only on the lens brand",
      "Full frame",
-     "The 1.6 crop sensor",
      "Neither",
-     "It depends only on the lens brand"
+     "The crop sensor, since it uses a shorter lens",
+     "The 1.6 crop sensor"
     ],
-    "a": 0,
+    "a": 1,
     "w": "A larger sensor needs a longer lens for the same framing and gives shallower depth of field."
    },
    {
     "q": "A 90-minute film shot at 24 fps is shown at 25 fps. About how long does it run?",
     "o": [
-     "90 min",
      "86.4 min",
      "93.75 min",
-     "100 min"
+     "88.5 min",
+     "100 min",
+     "90 min"
     ],
-    "a": 1,
+    "a": 0,
     "w": "90 × 24 ÷ 25 = 86.4 minutes."
    }
   ],

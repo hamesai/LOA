@@ -17,11 +17,11 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Write a brief for a general reader that compares three cases from this course. One is a case of conquest or resistance (Module 1 or 2), one of independence or liberation (Module 4 or 5), and one of post-independence conflict or transition (Module 6 or 7). {{lib}}"
+     "x": "Write a brief for a general reader that compares three cases from this course. One is a case of conquest or resistance (Module 1 or 2), one of independence or liberation (Module 4 or 5), and one of post-independence conflict or transition (Module 6 or 7)."
     },
     {
      "t": "p",
-     "x": "Your question is what mattered more in shaping the outcome: structures inherited from colonial rule, or choices made by African actors. {{lib}}"
+     "x": "Your question is what mattered more in shaping the outcome: structures inherited from colonial rule, or choices made by African actors."
     },
     {
      "t": "h",
@@ -39,7 +39,7 @@
     },
     {
      "t": "p",
-     "x": "The whole document runs to 2,000 to 2,500 words. {{lib}}"
+     "x": "The whole document runs to 2,000 to 2,500 words."
     },
     {
      "t": "table",
@@ -69,8 +69,7 @@
        "Presentation and sources",
        "Clear structure; real resources; British spelling and DD/MM/YYYY dates; recent events flagged [check current]."
       ]
-     ],
-     "src": "{{lib}}"
+     ]
     },
     {
      "t": "example",
@@ -79,37 +78,39 @@
       "Total: 2,000 to 2,500 words. Fixed parts: 400 for the argument and 200 for the voice note, which is 600.",
       "Three summaries of 150 words each is 450. The resource list and table notes might take 250.",
       "600 plus 450 plus 250 is 1,300, so the remaining 700 to 1,200 words go to comparison, framing and the conclusion.",
-      "Plan the budget before you write. {{lib}}"
+      "Plan the budget before you write."
      ]
     },
     {
      "t": "check",
      "q": "How many cases does the brief compare?",
      "o": [
-      "One",
+      "Three, all chosen from just one group",
+      "Seven, one per module",
       "Three, one from each group",
-      "Seven",
-      "Two"
+      "Two, one from each half",
+      "One, studied in depth"
      ],
-     "a": 1,
-     "w": "One of conquest or resistance, one of independence or liberation and one of post-independence conflict or transition. {{lib}}"
+     "a": 2,
+     "w": "One of conquest or resistance, one of independence or liberation and one of post-independence conflict or transition."
     },
     {
      "t": "check",
      "q": "What must the 400-word argument do?",
      "o": [
-      "Name at least two historians or sources that disagree",
-      "Avoid disagreement",
       "Use no evidence",
-      "Be shorter than 100 words"
+      "Be shorter than 100 words",
+      "Name a single authority and follow it closely",
+      "Avoid disagreement",
+      "Name two or more sources that disagree"
      ],
-     "a": 0,
-     "w": "The rubric asks for two positions presented fairly. {{lib}}"
+     "a": 4,
+     "w": "The rubric asks for two positions presented fairly."
     },
     {
      "t": "take",
      "i": [
-      "Compare three cases and answer the question with evidence. {{lib}}",
+      "Compare three cases and answer the question with evidence.",
       "Tag every contested number.",
       "Plan the word budget first."
      ]
@@ -123,7 +124,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Every strong brief tests its sources. The tests you used on a famous fake apply to any document you plan to quote. {{lib}} {{cobb}}"
+     "x": "Every strong brief tests its sources. The tests you used on a famous fake apply to any document you plan to quote. {{cobb}}"
     },
     {
      "t": "table",
@@ -154,11 +155,11 @@
     },
     {
      "t": "p",
-     "x": "Use at least three kinds of source: a speech or memoir, an archive or court record, and a modern historian. Name the bias of each. {{lib}}"
+     "x": "Use at least three kinds of source: a speech or memoir, an archive or court record, and a modern historian. Name the bias of each."
     },
     {
      "t": "p",
-     "x": "Where historians disagree, show the two positions side by side and say how you chose. {{lib}}"
+     "x": "Where historians disagree, show the two positions side by side and say how you chose."
     },
     {
      "t": "example",
@@ -167,7 +168,7 @@
       "Score each of the five rubric rows from 0 to 1 and add them.",
       "A draft with correct dates (1), tagged numbers (1), two kinds of source (0), a connected table (1) and sources in order (1) scores 4 out of 5.",
       "The missing row is evidence and perspective, so add a third kind of source before you submit.",
-      "Pass mark: meet all five rows. Black belt on a pass. {{lib}}"
+      "Pass mark: meet all five rows. Black belt on a pass."
      ]
     },
     {
@@ -178,30 +179,32 @@
      "t": "check",
      "q": "What does a pass require?",
      "o": [
+      "Quoting a hoax",
       "Meeting all five rubric rows",
-      "Meeting one row",
       "Writing 100 words",
-      "Quoting a hoax"
+      "Meeting three of the five rows",
+      "Meeting one row"
      ],
-     "a": 0,
-     "w": "The pass mark is all five. {{lib}}"
+     "a": 1,
+     "w": "The pass mark is all five."
     },
     {
      "t": "check",
      "q": "What should you do before quoting a striking document?",
      "o": [
-      "Run the four authenticity tests",
-      "Skip checks",
+      "Skip the checks",
       "Copy it into the abstract",
-      "Ask a friend"
+      "Ask a friend",
+      "Run the four authenticity tests",
+      "Check it has been shared widely online"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Provenance, language, logic and corroboration. {{cobb}}"
     },
     {
      "t": "take",
      "i": [
-      "Meet all five rubric rows. {{lib}}",
+      "Meet all five rubric rows.",
       "Test any document you quote.",
       "Show historians' disagreement fairly."
      ]
@@ -223,7 +226,7 @@
     },
     {
      "t": "p",
-     "x": "Confidence: partial; his books were not read. {{lib}}"
+     "x": "Confidence: partial; his books were not read."
     },
     {
      "t": "h",
@@ -267,8 +270,7 @@
        "Pairing",
        "Which number or record did you set beside it?"
       ]
-     ],
-     "src": "{{lib}}"
+     ]
     },
     {
      "t": "h",
@@ -279,7 +281,7 @@
      "title": "Voice: Mandela's statement from the dock, 20/04/1964.",
      "steps": [
       "Shows: a prepared political claim made in court. Limits: one speaker, a court setting, no independent count.",
-      "Pairing: the Rivonia sentences of 12/06/1964. {{lib}}",
+      "Pairing: the Rivonia sentences of 12/06/1964. {{nmf-trials}}",
       "Write the note in 200 words."
      ]
     },
@@ -303,30 +305,32 @@
      "t": "check",
      "q": "What must the voice note say about the source?",
      "o": [
-      "What it shows and what it cannot show",
-      "Only its length",
+      "What it shows and cannot show",
       "Only its price",
-      "Nothing"
+      "Only its length",
+      "Nothing",
+      "Only who published it first and when"
      ],
      "a": 0,
-     "w": "The rubric asks for use and limits. {{lib}}"
+     "w": "The rubric asks for use and limits."
     },
     {
      "t": "check",
      "q": "What should you pair with a witness?",
      "o": [
       "A number or a record",
-      "A rumour",
       "A slogan",
-      "A flag"
+      "A flag",
+      "A second witness's opinion",
+      "A rumour"
      ],
      "a": 0,
-     "w": "Pairing keeps each in its place. {{lib}}"
+     "w": "Pairing keeps each in its place."
     },
     {
      "t": "take",
      "i": [
-      "Name the voice, its producer, what it shows and its limits. {{lib}}",
+      "Name the voice, its producer, what it shows and its limits.",
       "Pair a witness with a record.",
       "State one limit plainly."
      ]

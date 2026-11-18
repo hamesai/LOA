@@ -16,7 +16,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Independence came by several paths: negotiated transfer, long war, crisis, coup and settler-colony struggle. {{lib}}"
+     "x": "Independence came by several paths: negotiated transfer, long war, crisis, coup and settler-colony struggle. {{gha-viii-ch05}}"
     },
     {
      "t": "fig",
@@ -123,7 +123,7 @@
        "Referendum in January 2011"
       ]
      ],
-     "src": "{{lib}} {{brit-indep}}"
+     "src": "{{brit-indep}}"
     },
     {
      "t": "callout",
@@ -136,7 +136,7 @@
     },
     {
      "t": "p",
-     "x": "Frederick Cooper stresses the strategic choices of African unions and parties and the weakness of European states after 1945. Others stress Cold War rivalry or metropolitan economics. Many argue that independence was both won and conceded [CONTESTED]. {{lib}}"
+     "x": "Frederick Cooper stresses the strategic choices of African unions and parties and the weakness of European states after 1945. Others stress Cold War rivalry or metropolitan economics. Many argue that independence was both won and conceded [CONTESTED]. {{cooper-1996}}"
     },
     {
      "t": "p",
@@ -199,32 +199,34 @@
      "t": "check",
      "q": "A quiz answer says Algeria was the first sub-Saharan colony to become independent. What is the correct answer?",
      "o": [
-      "Ghana, in 1957",
-      "Algeria, in 1962",
+      "Namibia, in 1990",
       "Kenya, in 1963",
-      "Namibia, in 1990"
+      "Guinea, in 1958",
+      "Ghana, in 1957",
+      "Algeria, in 1962"
      ],
-     "a": 0,
-     "w": "Ghana became independent on 06/03/1957; Algeria is in North Africa. {{lib}}",
+     "a": 3,
+     "w": "Ghana became independent on 06/03/1957; Algeria is in North Africa.",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "An essay says African independence was simply handed over by Britain and France. Which summary is better?",
      "o": [
-      "It was handed over peacefully everywhere",
-      "It was both won by African parties, unions and wars and conceded by weakened powers, by different paths",
-      "It was won only by war",
-      "It was decided only by the Cold War"
+      "It was granted by the UN, which set dates for each colony",
+      "Won by parties, unions and wars, and conceded by weakened powers",
+      "It was won only by armed struggle, in every colony without exception",
+      "It was handed over peacefully everywhere, by agreement with London and Paris",
+      "It was decided only by the Cold War superpowers"
      ],
      "a": 1,
-     "w": "Many historians argue it was both won and conceded. {{lib}}",
+     "w": "Many historians argue it was both won and conceded.",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Independence paths ranged from negotiation to long war. {{lib}}",
+      "Independence paths ranged from negotiation to long war.",
       "Counts and dates differ by source; check them. {{brit-indep}}",
       "New states inherited thin elites and a colonial state they mostly kept. {{gha-viii-ch15}}"
      ]
@@ -242,7 +244,7 @@
     },
     {
      "t": "p",
-     "x": "After the 1948 Accra riots, Kwame Nkrumah founded the Convention People's Party in 1949 and led Positive Action in 1950. He became head of government while jailed, in 1951 to 1952. {{lib}}"
+     "x": "After the 1948 Accra riots, Kwame Nkrumah founded the Convention People's Party in 1949 and led Positive Action in 1950, for which he was jailed. He won a seat from prison in February 1951, was released to lead the government, and became prime minister in 1952. {{brit-nkrumah}} {{gha-viii-ch07}}"
     },
     {
      "t": "p",
@@ -250,7 +252,7 @@
     },
     {
      "t": "p",
-     "x": "His rule turned authoritarian with preventive detention and a one-party state, and the economy weakened. He was overthrown by a coup on 24/02/1966. {{lib}}"
+     "x": "His rule turned authoritarian with preventive detention and a one-party state, and the economy weakened. He was overthrown by a coup on 24/02/1966. {{loc-ghana}} {{gha-viii-ch27}}"
     },
     {
      "t": "example",
@@ -326,12 +328,13 @@
      "t": "check",
      "q": "A student says French West Africa followed Ghana's path. What was distinctive about the French route?",
      "o": [
-      "Nothing",
-      "Citizenship and the end of forced labour in 1946, a federation-wide party (RDA), and a 1958 referendum that only Guinea rejected",
-      "Independence came first in 1951",
-      "There were no elections"
+      "There were no elections before independence in 1960",
+      "Independence came first, in 1951, before Ghana",
+      "Nothing: it followed Ghana's route exactly, one colony at a time, with no federation",
+      "A war of independence, as in Algeria, across the whole federation",
+      "Citizenship in 1946, the RDA, and a 1958 vote only Guinea rejected"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Different laws, parties and turning points. {{gha-viii-ch07}}",
      "kind": "application"
     },
@@ -339,19 +342,20 @@
      "t": "check",
      "q": "Why was Guinea's 1958 vote costly?",
      "o": [
-      "It was not",
+      "Guinea lost territory to Senegal",
+      "It was not: France kept its aid flowing",
       "France cut Guinea off until 1963",
-      "Guinea joined Britain",
-      "Guinea lost territory"
+      "Guinea had to repay its colonial debt",
+      "Guinea had to join Britain's empire"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Saying No had consequences. {{gha-viii-ch26}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Ghana led in 1957, then turned authoritarian: coup on 24/02/1966. {{lib}}",
+      "Ghana led in 1957, then turned authoritarian: coup on 24/02/1966.",
       "French West Africa moved through 1946 reforms, the RDA and the 1958 referendum. {{gha-viii-ch07}}",
       "Whether Britain planned or reacted is [CONTESTED]."
      ]
@@ -365,7 +369,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "France treated Algeria as part of France, with about a million European settlers. {{lib}}"
+     "x": "France treated Algeria as part of France, with about a million European settlers. {{milrev-algeria}}"
     },
     {
      "t": "h",
@@ -389,7 +393,7 @@
     },
     {
      "t": "p",
-     "x": "The Setif massacres of May 1945 have a contested toll, with estimates from about 1,000 to 45,000 [CONTESTED]. {{lib}} One UNESCO chapter gives some 10,000 deaths without a method, and another gives no figure. {{gha-viii-ch05}} {{gha-viii-ch02}}"
+     "x": "The Setif massacres of May 1945 have a contested toll, with estimates from about 1,000 (the French official count) to 45,000 (the nationalist figure) [CONTESTED]. {{peyroulou-setif}} One UNESCO chapter gives some 10,000 deaths without a method, and another gives no figure. {{gha-viii-ch05}} {{gha-viii-ch02}}"
     },
     {
      "t": "h",
@@ -405,15 +409,15 @@
     },
     {
      "t": "p",
-     "x": "In the Battle of Algiers (1956 to 1957), both the FLN's bombings and French torture occurred. {{lib}}"
+     "x": "In the Battle of Algiers (1956 to 1957), both the FLN's bombings and French torture occurred. {{brit-algiers}} {{gha-viii-ch06}}"
     },
     {
      "t": "p",
-     "x": "The Evian Accords of 18/03/1962 led to a referendum. {{lib}} The referendum of 01/07/1962 gave 99.7 per cent for independence, and about half a million Europeans left by the end of 07/1962. {{gha-viii-ch06}}"
+     "x": "The Evian Accords of 18/03/1962 led to a referendum. {{perville-evian}} The referendum of 01/07/1962 gave 99.7 per cent for independence, and about half a million Europeans left by the end of 07/1962. {{gha-viii-ch06}}"
     },
     {
      "t": "p",
-     "x": "France recognised the result on 03/07/1962 and independence was proclaimed and celebrated on 05/07/1962. Both dates are in use, so say which you mean. {{gha-viii-ch27}} {{lib}}"
+     "x": "France recognised the result on 03/07/1962 and independence was proclaimed and celebrated on 05/07/1962. Both dates are in use, so say which you mean. {{gha-viii-ch27}}"
     },
     {
      "t": "table",
@@ -431,21 +435,21 @@
       ],
       [
        "Several hundred thousand deaths",
-       "Most historians {{lib}}",
+       "Most historians {{unhcr-2000}} {{wiki-algerianwar}}",
        "[ESTIMATE, CONTESTED]"
       ],
       [
-       "About a million settlers who left in 1962",
-       "{{lib}}",
+       "About a million settlers, most of whom left in 1962",
+       "{{milrev-algeria}} {{jstor-algeria}}",
        "[FIRM] in scale"
       ],
       [
        "Killings of harkis after independence: tens of thousands",
-       "{{lib}}",
+       "{{harkis-ihr-2016}}",
        "[ESTIMATE] with a wide range"
       ]
      ],
-     "src": "{{lib}} {{gha-viii-ch06}}"
+     "src": "{{gha-viii-ch06}}"
     },
     {
      "t": "example",
@@ -459,32 +463,34 @@
     },
     {
      "t": "p",
-     "x": "Frantz Fanon's The Wretched of the Earth (1961) argued that violence was part of decolonisation. It is a polemic, an argument and not a record [CONTESTED]. {{lib}}"
+     "x": "Frantz Fanon's The Wretched of the Earth (1961) argued that violence was part of decolonisation. It is a polemic, an argument and not a record [CONTESTED]. {{brit-wretched}}"
     },
     {
      "t": "check",
      "q": "A textbook says 'over a million Algerians died in the war'. How should you treat that figure?",
      "o": [
-      "As settled",
-      "As the official Algerian claim, which most historians reject in favour of several hundred thousand",
-      "As a French figure",
-      "As a census count"
+      "As Algeria's official claim; most historians give several hundred thousand",
+      "As settled, since both governments now accept it",
+      "As a census count taken in 1963",
+      "As too low, since it leaves out the deaths in the regroupment camps entirely",
+      "As a French army figure, which is likely too high"
      ],
-     "a": 1,
-     "w": "Name the source of a contested number. {{lib}} {{gha-viii-ch06}}",
+     "a": 0,
+     "w": "Name the source of a contested number. {{gha-viii-ch06}}",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "A student cites Fanon's The Wretched of the Earth as proof of what happened in Algeria. Why is that a problem?",
      "o": [
-      "It argues a position: it is a polemic, not a record of events",
-      "It is too short",
-      "It has no author",
-      "It is a treaty"
+      "It is a treaty, not a narrative",
+      "It argues a position: a polemic, not a record of events",
+      "It was written after the war, so it is too late to be useful",
+      "It has no named author, so it cannot be checked",
+      "It is too short to cover the war"
      ],
-     "a": 0,
-     "w": "Use it for Fanon's argument, not for events. {{lib}}",
+     "a": 1,
+     "w": "Use it for Fanon's argument, not for events.",
      "kind": "application"
     },
     {
@@ -524,7 +530,7 @@
     },
     {
      "t": "p",
-     "x": "Independence on 30/06/1960 made Patrice Lumumba prime minister and Joseph Kasa-Vubu president. King Baudouin's speech praised Leopold. {{lib}}"
+     "x": "Independence on 30/06/1960 made Patrice Lumumba prime minister and Joseph Kasa-Vubu president. King Baudouin's speech praised Leopold. {{lumumba}} {{hs-forget}} {{gha-viii-ch08}}"
     },
     {
      "t": "p",
@@ -546,7 +552,7 @@
     },
     {
      "t": "p",
-     "x": "Within days the army mutinied, Belgium sent troops, and Katanga under Moise Tshombe seceded with Belgian backing. {{lib}}"
+     "x": "Within days the army mutinied, Belgium sent troops, and Katanga under Moise Tshombe seceded with Belgian backing. {{gha-viii-ch29}} {{gha-viii-ch15}}"
     },
     {
      "t": "p",
@@ -554,7 +560,7 @@
     },
     {
      "t": "p",
-     "x": "Lumumba asked the UN and then the Soviet Union for help, fell out with Kasa-Vubu and was removed on 05/09/1960; the UN official Andrew Cordier closed the radio station to him. Joseph-Desire Mobutu took power on 14/09/1960. {{gha-viii-ch29}} {{lib}}"
+     "x": "Lumumba asked the UN and then the Soviet Union for help, fell out with Kasa-Vubu and was removed on 05/09/1960; the UN official Andrew Cordier closed the radio station to him. Joseph-Desire Mobutu took power on 14/09/1960. {{gha-viii-ch29}} {{ush-congo}}"
     },
     {
      "t": "p",
@@ -562,7 +568,7 @@
     },
     {
      "t": "p",
-     "x": "Lumumba was handed to Katangan forces and killed on 17/01/1961. {{lib}}"
+     "x": "Lumumba was handed to Katangan forces and killed on 17/01/1961. {{gha-viii-ch29}}"
     },
     {
      "t": "p",
@@ -623,7 +629,7 @@
     },
     {
      "t": "p",
-     "x": "Jomo Kenyatta, author of Facing Mount Kenya (1938), was jailed during the Emergency and released in 1961. He became prime minister at independence in 1963 and president from 1964 to 1978. {{lib}}"
+     "x": "Jomo Kenyatta, author of Facing Mount Kenya (1938), was jailed during the Emergency and released in 1961. He became prime minister at independence in 1963 and president from 1964 to 1978. {{gha-viii-ch21}} {{gha-viii-ch09}} {{tjrc-kenya}}"
     },
     {
      "t": "p",
@@ -631,18 +637,19 @@
     },
     {
      "t": "p",
-     "x": "He kept the settler land system largely intact through purchase schemes, and many Mau Mau fighters got no land [CONTESTED]. {{lib}}"
+     "x": "He kept the settler land system largely intact through purchase schemes, and many Mau Mau fighters got no land [CONTESTED]. {{tjrc-kenya}}"
     },
     {
      "t": "check",
      "q": "Using the four-actor table, which actor's role is the most disputed, and why?",
      "o": [
-      "Belgium's, because no commission met",
-      "The United States', because accounts differ on whether an assassination was authorised and whether its plans shaped the killing",
-      "The UN's, because it sent no troops",
-      "None is disputed"
+      "The United States', as accounts differ on authorisation and effect",
+      "The UN's, because it sent no troops to the Congo",
+      "Katanga's, because its leaders denied being present at the killing",
+      "Belgium's, because no commission has ever examined it",
+      "None is disputed: all four roles are settled"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Specialists differ on the US role. {{hs-forget}} {{rd-lumumba}}",
      "kind": "application"
     },
@@ -650,13 +657,14 @@
      "t": "check",
      "q": "A student assumes Kenyatta seized settler farms in 1963. What did he actually do?",
      "o": [
-      "Abolished settler land at once",
-      "Kept the system largely intact through purchase schemes, and centralised power by 1964",
-      "Gave all land to Britain",
-      "Moved the capital"
+      "Moved the capital away from the settler highlands",
+      "Gave all the land back to Britain",
+      "Abolished settler land at once and handed it over to Mau Mau veterans and the landless",
+      "Nationalised every farm over 100 acres within a year",
+      "Kept the system mostly intact through purchase, and centralised power"
      ],
-     "a": 1,
-     "w": "Continuity of land and a stronger centre. {{lib}} {{gha-viii-ch15}}",
+     "a": 4,
+     "w": "Continuity of land and a stronger centre. {{gha-viii-ch15}}",
      "kind": "application"
     },
     {
@@ -680,7 +688,7 @@
     },
     {
      "t": "p",
-     "x": "Julius Nyerere led Tanganyika to independence in 1961 and united it with Zanzibar after the revolution of January 1964. {{lib}}"
+     "x": "Julius Nyerere led Tanganyika to independence in 1961 and united it with Zanzibar after the revolution of January 1964. {{brit-tanzania}}"
     },
     {
      "t": "p",
@@ -688,7 +696,7 @@
     },
     {
      "t": "p",
-     "x": "Its text does not use the word ujamaa and does not mention villagisation; those come from related documents and later policy. {{arusha}} In 1973 to 1976 the state moved much of the rural population into villages, often by compulsion. {{lib}}"
+     "x": "Its text does not use the word ujamaa and does not mention villagisation; those come from related documents and later policy. {{arusha}} In 1973 to 1976 the state moved much of the rural population into villages, often by compulsion. {{gha-viii-ch12}}"
     },
     {
      "t": "p",
@@ -719,7 +727,7 @@
        "A voluntary handover in 1985"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha-viii-ch12}} {{gha-viii-ch15}} {{brit-tanzania}}"
     },
     {
      "t": "example",
@@ -737,7 +745,7 @@
     },
     {
      "t": "p",
-     "x": "Thomas Sankara took power in 1983 in Upper Volta and renamed it Burkina Faso, the land of upright people, in 1984. {{lib}}"
+     "x": "Thomas Sankara took power in 1983 in Upper Volta and renamed it Burkina Faso, the land of upright people, in 1984. {{brit-sankara-reforms}}"
     },
     {
      "t": "p",
@@ -745,7 +753,7 @@
     },
     {
      "t": "p",
-     "x": "His government ran mass vaccination, planted trees, restricted female genital cutting and polygamy, and ran anti-corruption campaigns. It also repressed trade unions and used revolutionary tribunals. {{lib}}"
+     "x": "His government ran mass vaccination, planted millions of trees, banned female genital cutting, restricted polygamy and ran anti-corruption campaigns. It also tried officials before Popular Revolutionary Tribunals and detained political opponents. {{wiki-sankara}} {{brit-sankara-reforms}}"
     },
     {
      "t": "p",
@@ -753,7 +761,7 @@
     },
     {
      "t": "p",
-     "x": "Blaise Compaore came to power in that coup, fled in 2014, and in April 2022 was convicted in absentia by a military court of complicity and sentenced to life. {{lib}}"
+     "x": "Blaise Compaore came to power in that coup, fled in 2014, and in April 2022 was convicted in absentia by a military court of complicity and sentenced to life. {{brit-sankara}} {{ap-compaore-2022}}"
     },
     {
      "t": "h",
@@ -761,11 +769,11 @@
     },
     {
      "t": "p",
-     "x": "In Rhodesia, Ian Smith's government declared independence in 1965. A guerrilla war led by ZANU and ZAPU ended with the Lancaster House agreement in 1979 and independence as Zimbabwe in 1980. {{lib}}"
+     "x": "In Rhodesia, Ian Smith's government declared independence in 1965. A guerrilla war led by ZANU and ZAPU ended with the Lancaster House agreement in 1979 and independence as Zimbabwe in 1980. {{brit-zimbabwe}}"
     },
     {
      "t": "p",
-     "x": "Portugal's Carnation Revolution of April 1974 ended its wars in Angola, Mozambique and Guinea-Bissau. Namibia became independent in 1990. {{lib}}"
+     "x": "Portugal's Carnation Revolution of April 1974 ended its wars in Angola, Mozambique and Guinea-Bissau. Namibia became independent in 1990. {{brit-portugal}} {{brit-indep-list}}"
     },
     {
      "t": "p",
@@ -815,32 +823,34 @@
      "t": "check",
      "q": "A blog presents Sankara's rule as a story of pure success. Which balanced summary should you give instead?",
      "o": [
-      "Only successes",
-      "Mass vaccination and anti-corruption campaigns alongside repression of unions and revolutionary tribunals",
-      "Only repression",
-      "No record survives"
+      "Only repression, since the reforms were propaganda",
+      "Only successes, since his record is well documented",
+      "Vaccination and anti-corruption drives, alongside repression of unions",
+      "No record survives, so no verdict is possible",
+      "Success in the economy but failure in health, where vaccination stalled"
      ],
-     "a": 1,
-     "w": "Set aims and achievements beside repression. {{lib}}",
+     "a": 2,
+     "w": "Set aims and achievements beside repression.",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "A student quotes the Arusha Declaration as proof that ujamaa villages improved farming. What is wrong?",
      "o": [
-      "Nothing",
-      "The Declaration states aims, does not mention villagisation, and cannot show results; output fell under compulsory villagisation",
-      "It was written in 1990",
-      "It is a forgery"
+      "It is a forgery attributed to Nyerere",
+      "Nothing: the Declaration reports the harvests of the first ujamaa villages",
+      "It was written in 1990, after the villages had failed",
+      "It states aims, omits villagisation, and cannot show results",
+      "It shows results, but only for the villages of the Arusha region"
      ],
-     "a": 1,
+     "a": 3,
      "w": "A founding text shows aims, not outcomes. {{arusha}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Ujamaa's results are [CONTESTED]: crisis and cohesion both; state the criterion first. {{lib}}",
+      "Ujamaa's results are [CONTESTED]: crisis and cohesion both; state the criterion first.",
       "Sankara's government had reforms and repression.",
       "Settler-colony and Portuguese liberation came late, from 1973 to 1990."
      ]
@@ -863,7 +873,7 @@
     },
     {
      "t": "p",
-     "x": "He also translated Shakespeare's Julius Caesar and The Merchant of Venice into Swahili. He stepped down voluntarily in 1985. {{wiki-nyerere}} {{lib}}"
+     "x": "He also translated Shakespeare's Julius Caesar and The Merchant of Venice into Swahili. He stepped down voluntarily in 1985. {{wiki-nyerere}}"
     },
     {
      "t": "p",
@@ -876,16 +886,16 @@
     {
      "t": "ol",
      "i": [
-      "State the aim: self-reliance, villages, equality. {{lib}}",
-      "List results: literacy, unity and no ethnic civil war. {{lib}}",
-      "List costs: compulsory villagisation and falling output. {{lib}}",
+      "State the aim: self-reliance, villages, equality.",
+      "List results: literacy, unity and no ethnic civil war.",
+      "List costs: compulsory villagisation and falling output.",
       "Choose a criterion and say why.",
       "State the limit of your evidence."
      ]
     },
     {
      "t": "table",
-     "title": "Aims against results for ujamaa (from the library)",
+     "title": "Aims against results for ujamaa",
      "head": [
       "Aim",
       "Result",
@@ -908,7 +918,7 @@
        "[FIRM]"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha-viii-ch12}} {{gha-viii-ch15}} {{brit-tanzania}}"
     },
     {
      "t": "h",
@@ -920,7 +930,7 @@
      "steps": [
       "Criterion A, output: fell, so fail. Criterion B, cohesion: held, so succeed.",
       "Say which criterion you chose and why.",
-      "A one-sentence verdict: 'on output it failed; on cohesion it succeeded'. {{lib}}"
+      "A one-sentence verdict: 'on output it failed; on cohesion it succeeded'."
      ]
     },
     {
@@ -944,30 +954,32 @@
      "t": "check",
      "q": "Why state the criterion first?",
      "o": [
+      "To avoid needing evidence",
       "Different criteria give different verdicts",
-      "Verdicts are meaningless",
-      "To avoid evidence",
-      "To pick the winner"
+      "Criteria make every verdict certain and final",
+      "Verdicts are meaningless anyway",
+      "To pick the winner in advance"
      ],
-     "a": 0,
-     "w": "Output and cohesion give different answers. {{lib}}"
+     "a": 1,
+     "w": "Output and cohesion give different answers."
     },
     {
      "t": "check",
      "q": "What did Nyerere do in 1985?",
      "o": [
-      "Stepped down voluntarily",
-      "Was overthrown",
+      "Was voted out in an election",
       "Declared a one-party state",
-      "Joined the OAU"
+      "Joined the OAU",
+      "Stepped down voluntarily",
+      "Was overthrown in a coup"
      ],
-     "a": 0,
-     "w": "That is the lesson's point. {{lib}}"
+     "a": 3,
+     "w": "That is the lesson's point."
     },
     {
      "t": "take",
      "i": [
-      "State the aim, then test the results. {{lib}}",
+      "State the aim, then test the results.",
       "Name the criterion before the verdict.",
       "He is not quoted; this is our application."
      ]

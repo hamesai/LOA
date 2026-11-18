@@ -1,0 +1,60 @@
+{
+ "key": "fsa-sfbb-caterers",
+ "title": "Safer Food, Better Business for Caterers (FSA)",
+ "author": "",
+ "file": "FSA Safer Food Better Business for Caterers.pdf",
+ "format": "pdf",
+ "sha256": "35b2eea9a33741cca907e0902847ca003fabc792bb4149216987102441952838",
+ "words": 27913,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "sfbb-caterers-pack-fixed (01-10)",
+   "words": 2003,
+   "pages": [
+    1,
+    10
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "sfbb-caterers-pack-fixed (11-47)",
+   "words": 11804,
+   "pages": [
+    11,
+    47
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "sfbb-caterers-pack-fixed (48-63)",
+   "words": 5357,
+   "pages": [
+    48,
+    63
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "sfbb-caterers-pack-fixed (64-100)",
+   "words": 8749,
+   "pages": [
+    64,
+    100
+   ]
+  }
+ ],
+ "warnings": [
+  "pypdf failed: More than one /FontFile found in {'/Ascent': 1051, '/CapHeight': 729, '/Descent': -236, '/Flags': 32, '/FontBBox': [-183, -236, 960, 1051], '/FontFile': IndirectObject(20016, 0, 2820408109968), '/FontFile3': IndirectObject(20017, 0, 2820408109968), '/FontName': '/FANTGE+Times-Roman', '/ItalicAngle': 0, '/Leading': 1287, '/MaxWidth': 1000, '/MissingWidth': 500, '/StemH': 52, '/StemV': 77, '/Type': '/FontDescriptor', '/XHeight': 519}",
+  "text quality looks poor (27% common English words, 2.3% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-17",
+  "source_file": "FSA Safer Food Better Business for Caterers.pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.272,
+  "odd_character_share": 0.023
+ }
+}

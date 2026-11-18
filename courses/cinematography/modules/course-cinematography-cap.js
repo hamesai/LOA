@@ -92,24 +92,26 @@
      "t": "check",
      "q": "What is the minimum number of setups in the plan?",
      "o": [
-      "One",
-      "Three",
+      "Twelve",
       "Five",
-      "Twelve"
+      "Three",
+      "One",
+      "Seven"
      ],
-     "a": 2,
+     "a": 1,
      "w": "The rubric asks for at least five setups."
     },
     {
      "t": "check",
      "q": "Which evidence best shows your analog handling?",
      "o": [
-      "A purchase receipt",
-      "A tested chain with a bracket and notes on stock and filter",
       "A photograph of the camera",
-      "A caption"
+      "A caption",
+      "A list of the film stocks you would most like to try next time",
+      "A tested chain: a bracket, with stock and filter notes",
+      "A purchase receipt"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The rubric asks for a tested chain, matching stock and filter, and labelling."
     },
     {
@@ -173,24 +175,26 @@
      "t": "check",
      "q": "Why shoot digital first?",
      "o": [
-      "It is a legal step",
-      "It is a rehearsal that tests framing, timing and light before you commit film",
       "It uses less power",
+      "So the digital version can be used if the film fails",
+      "A rehearsal testing framing, timing and light",
+      "It is a legal step",
       "It makes film shorter"
      ],
-     "a": 1,
+     "a": 2,
      "w": "A free digital pass shows problems before you spend film (our advice)."
     },
     {
      "t": "check",
      "q": "You plan 20 shots of 7 seconds and a 20 second test on a 200 second cartridge. How much is spare?",
      "o": [
-      "20 s",
-      "40 s",
+      "200 s",
       "60 s",
-      "200 s"
+      "20 s",
+      "80 s",
+      "40 s"
      ],
-     "a": 1,
+     "a": 4,
      "w": "20 × 7 = 140 s, plus 20 s for the test, is 160 s. 200 − 160 = 40 s."
     },
     {
@@ -313,24 +317,26 @@
      "t": "check",
      "q": "Which line best belongs in the results section?",
      "o": [
-      "I prefer film",
-      "At 100% the film grain is visible in the wall; the digital frame is smooth",
+      "At 100% film grain shows in the wall; digital is smooth",
+      "The camera is good",
+      "Film looked more cinematic, as everyone who watched agreed",
       "Everyone loved it",
-      "The camera is good"
+      "I prefer film"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Results should be observations with evidence, not preferences."
     },
     {
      "t": "check",
      "q": "Which is the strongest decision statement?",
      "o": [
+      "For a fast 3-minute piece: digital, with a short film insert",
       "Film is better",
-      "For a 3 minute piece with a fast turnaround I would shoot digital and add a short film insert",
-      "I will never use digital",
-      "It depends"
+      "It depends",
+      "Film is better for everything, so I would always shoot film from now on",
+      "I will never use digital"
      ],
-     "a": 1,
+     "a": 0,
      "w": "A decision names the project and the reason."
     },
     {
@@ -370,24 +376,26 @@
      "t": "check",
      "q": "Which comes first in this checklist?",
      "o": [
-      "The conventional version",
-      "The grade",
       "The final cut",
-      "The soundtrack"
+      "The experimental version",
+      "The conventional version",
+      "The soundtrack",
+      "The grade"
      ],
-     "a": 0,
+     "a": 2,
      "w": "Cover the scene conventionally, then break a rule on purpose. {{mckee-spectrum}}"
     },
     {
      "t": "check",
      "q": "What does Block's second graph show?",
      "o": [
-      "One visual component over the story",
       "The sound mix",
+      "The schedule",
       "The budget",
-      "The schedule"
+      "One visual component over the story",
+      "The story's conflict intensity, scene by scene"
      ],
-     "a": 0,
+     "a": 3,
      "w": "It plots a visual component below the story's conflict graph. {{block-components}}"
     },
     {
@@ -506,20 +514,22 @@
      "q": "What convinced Muybridge's sceptics in June 1878?",
      "o": [
       "A long speech",
-      "A public session in which an accident was captured on the negatives",
       "A painting",
-      "A price list"
+      "A private screening of retouched prints for the newspaper editors",
+      "A price list",
+      "A public session where an accident was caught on the negatives"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The captured accident convinced even sceptical witnesses. {{wiki-muybridge}}"
     },
     {
      "t": "check",
      "q": "When should you write the pass rule for a comparison?",
      "o": [
-      "After the result",
-      "Before the test",
       "Never",
+      "Before the test",
+      "After the result",
+      "After the first take",
       "Only if it fails"
      ],
      "a": 1,
@@ -529,12 +539,13 @@
      "t": "check",
      "q": "Digital 1/50 s at 24 fps is what shutter angle?",
      "o": [
-      "144°",
-      "172.8°",
       "180°",
-      "360°"
+      "360°",
+      "175.0°",
+      "172.8°",
+      "144°"
      ],
-     "a": 1,
+     "a": 3,
      "w": "360 × 24 ÷ 50 = 172.8°."
     },
     {

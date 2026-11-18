@@ -105,10 +105,11 @@
      "t": "check",
      "q": "You are building an emergency cupboard. Which plan matches the FSIS advice?",
      "o": [
+      "Shelf-stable food only, never touched until an emergency",
+      "Shelf-stable food, a can opener, and rotate stock",
       "Only fresh food",
-      "Include shelf-stable food and a can opener, and replace items from time to time",
-      "Only frozen food",
-      "Do not keep supplies"
+      "Do not keep supplies",
+      "Only frozen food"
      ],
      "a": 1,
      "w": "FSIS recommends shelf-stable food, canned goods, a can opener and replacing items over time. {{fsis}}",
@@ -118,12 +119,13 @@
      "t": "check",
      "q": "A tin of beans is a week past its best-before date but looks sound. What do the sources suggest?",
      "o": [
+      "Likely safe if undamaged; use your judgement",
+      "Give it to a baby",
+      "Unsafe: best-before is a safety date, so bin it",
       "Throw it out",
-      "It is likely safe if undamaged, using your own discretion",
-      "Boil the tin",
-      "Give it to a baby"
+      "Boil the tin"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Room-temperature food usually stays safe after best-before, and the FSAI says to use discretion on quality; damaged packaging should not be used. {{cmo}} {{fsai}}",
      "kind": "application"
     },
@@ -228,24 +230,26 @@
      "t": "check",
      "q": "What temperature should a freezer be kept at?",
      "o": [
-      "-6 C",
+      "-4 C (just frozen)",
+      "0 C",
       "-12 C",
-      "-18 C or less",
-      "0 C"
+      "-6 C",
+      "-18 C or less"
      ],
-     "a": 2,
+     "a": 4,
      "w": "FSAI says freezers should be kept at -18 C or less. {{fsai}}"
     },
     {
      "t": "check",
      "q": "Your chicken's use-by date was yesterday and it looks fine. Can you freeze it now to keep it?",
      "o": [
+      "Yes, if frozen within a week",
+      "Only if it is meat",
       "Yes, always",
       "No",
-      "Only meat",
-      "Only if smelling normal"
+      "Only if it smells normal"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Food should only be frozen within its use-by date. {{fsai}}",
      "kind": "application"
     },
@@ -299,6 +303,14 @@
      "x": "Home-canned vegetables are the most common cause of botulism outbreaks in the United States. {{cdcbot}}"
     },
     {
+     "t": "p",
+     "x": "The USDA guide adds milk to the low-acid list, and warns that mixtures of low-acid and acid foods are usually low-acid unless a tested recipe adds enough lemon juice, citric acid or vinegar. {{usda-front}}"
+    },
+    {
+     "t": "p",
+     "x": "Why boiling is not enough: botulinum spores survive boiling water. Low-acid foods need 240 to 250 F inside the jar, which a pressure canner reaches at 10 to 15 PSI in 20 to 100 minutes; the same result in a boiling-water canner would take 7 to 11 hours. {{usda-front}} That is about 116 to 121 C (our arithmetic)."
+    },
+    {
      "t": "h",
      "x": "The rules"
     },
@@ -312,6 +324,26 @@
      ]
     },
     {
+     "t": "p",
+     "x": "There is a quality reason for the one-year rule too: canning heat destroys a third to a half of vitamins A and C, thiamin and riboflavin, and storage takes another 5 to 20 percent of them each year. {{usda-front}}"
+    },
+    {
+     "t": "p",
+     "x": "Pickles and ferments rely on acid and salt for safety, so never change the vinegar, food or water in a tested recipe, use vinegar of 5 percent acidity, and never cut the salt in sauerkraut or brined pickles. {{usda-principles}}"
+    },
+    {
+     "t": "p",
+     "x": "A grid-down warning follows from the USDA steps: if the boil or the pressure drops at any point, the timing starts again from the beginning. {{usda-principles}} So canning on a stove you cannot hold steady, or without enough fuel for the whole run, is unsafe rather than just slow (our inference)."
+    },
+    {
+     "t": "p",
+     "x": "One line ties the preserving methods together: heat processing destroys the botulism bacterium in canned food, freezer temperatures stop its growth, low moisture controls it in dried food, and air controls it in fresh food. {{usda-glossary}}"
+    },
+    {
+     "t": "p",
+     "x": "The USDA guide also rules out open-kettle canning, processing jars in an oven, microwave or dishwasher, canning powders, which it calls useless as preservatives, and small pressure saucepans. A pressure canner must be vented for 10 minutes before pressurising, and a dial gauge checked every year. {{usda-principles}}"
+    },
+    {
      "t": "h",
      "x": "If in doubt, boil it, then discard"
     },
@@ -322,6 +354,10 @@
     {
      "t": "p",
      "x": "The NCHFP notes that CDC's advice is to discard any home-canned food that might contain botulism toxin. {{nchfp}}"
+    },
+    {
+     "t": "p",
+     "x": "USDA says low-acid food you canned yourself can be eaten without that boil only when you are sure of every point: a pressure canner with an accurate gauge, current tested times and pressures for your jar, food and altitude, a firmly sealed concave lid, no leaks, no spurting on opening and no off smell. {{usda-front}}"
     },
     {
      "t": "example",
@@ -345,10 +381,11 @@
      "t": "check",
      "q": "You want to can your own green beans at home. Which method is the only one recommended?",
      "o": [
-      "Boiling-water canner",
+      "Slow cooker",
       "Oven",
       "Pressure canner",
-      "Slow cooker"
+      "Boiling-water canner",
+      "Boiling-water canner with lemon juice"
      ],
      "a": 2,
      "w": "Pressure canning is the only recommended method for low-acid foods. {{cdcbot}} {{nchfp}}",
@@ -358,12 +395,13 @@
      "t": "check",
      "q": "A home-canned jar of green beans is of unknown origin. What is the safest decision?",
      "o": [
+      "Add salt",
       "Taste a small bit",
-      "Throw it out",
+      "Boil it for a minute, then eat it",
       "Heat it briefly",
-      "Add salt"
+      "Throw it out"
      ],
-     "a": 1,
+     "a": 4,
      "w": "If you do not know that safe canning rules were followed, throw it out. {{cdcbot}}"
     },
     {
@@ -394,13 +432,25 @@
      "x": "Never taste food to see if it is safe. {{cdcbot}} {{cdcfood}}"
     },
     {
+     "t": "p",
+     "x": "Throwing a suspect jar away needs care, because botulinum toxin can be fatal through the skin as well as by mouth. USDA says a still-sealed suspect jar goes in a heavy bin bag in the rubbish; an unsealed, open or leaking one is first boiled, fully covered, for 30 minutes, wearing gloves. Spills are treated with 1 part unscented household bleach to 5 parts water, left 30 minutes, wiped up, and treated again. {{usda-principles}}"
+    },
+    {
+     "t": "p",
+     "x": "Check every stored jar as you take it down: the lid should be concave and tight, with no streaks of dried food down the outside, no rising bubbles and no odd colour; when you open it, watch for spurting, an off smell or cotton-like mould. Storing jars without their screw bands makes a lifted lid easier to see. {{usda-principles}}"
+    },
+    {
+     "t": "p",
+     "x": "Mould on jam is not safe to scrape off: USDA reports mycotoxins in jars of jelly with surface mould, and no longer recommends wax seals on any sweet spread. {{usda-glossary}}"
+    },
+    {
      "t": "h",
      "x": "Other botulism risks at home"
     },
     {
      "t": "ul",
      "i": [
-      "Refrigerate canned or pickled foods after you open them. {{cdcbot}}",
+      "Refrigerate canned or pickled foods after you open them, moved into a covered food container: the FSA says not to store food in opened tins or re-use foil, cling film or freezer bags. {{sfbb-cross}} {{cdcbot}}",
       "Refrigerate homemade oils made with garlic or herbs, and throw away unused oil after 4 days. {{cdcbot}}",
       "Foil-wrapped baked potatoes should be kept at 140 F (60 C) or hotter until served, or refrigerated with the foil loosened. {{cdcbot}}"
      ]
@@ -427,7 +477,7 @@
       ],
       [
        "Commercial can, dented but sealed",
-       "Examine; do not use damaged or broken packaging {{fsai}}"
+       "Examine; do not use damaged or broken packaging. A food business throws away badly dented cans and swollen or punctured packs {{sfbb-manage}} {{fsai}}"
       ]
      ],
      "src": "Sources as cited"
@@ -454,12 +504,13 @@
      "t": "check",
      "q": "You made garlic oil on Monday and kept it in the fridge. On the CDC guidance, when must you throw it away?",
      "o": [
+      "2 weeks",
+      "6 months",
       "1 day",
       "4 days",
-      "1 month",
-      "6 months"
+      "1 month"
      ],
-     "a": 1,
+     "a": 3,
      "w": "CDC says to throw away unused garlic or herb oils after 4 days. {{cdcbot}}",
      "kind": "application"
     },
@@ -468,11 +519,12 @@
      "q": "Which sign means a tin should be discarded?",
      "o": [
       "It is slightly dusty",
-      "It is bulging",
       "The label has faded",
-      "It is cold"
+      "It is bulging",
+      "It is cold",
+      "It is past its best-before date"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Bulging, leaking or swollen containers might be contaminated. {{cdcbot}}",
      "kind": "application"
     },
@@ -483,6 +535,20 @@
       "Garlic and herb oils: 4 days in the fridge.",
       "Unknown preservation: bin it."
      ]
+    },
+    {
+     "t": "check",
+     "q": "A home-canned jar of beans has a bulging lid and liquid has leaked down the side. How do you get rid of it?",
+     "o": [
+      "Open it and pour it down the sink",
+      "Boil it covered 30 minutes in gloves, bin it, bleach any spills",
+      "Put it in the compost",
+      "Taste a little to check",
+      "Open it outdoors, rinse the jar in hot water, and put the contents in the food waste"
+     ],
+     "a": 1,
+     "w": "An unsealed or leaking suspect jar is detoxified by boiling for 30 minutes before disposal; toxin can harm through the skin, so wear gloves. {{usda-principles}}",
+     "kind": "application"
     }
    ]
   },
@@ -501,11 +567,36 @@
     },
     {
      "t": "p",
+     "x": "Freezing pauses the clock rather than resetting it: once defrosted, a food's shelf life depends on the days it had left when it was frozen. High-risk ready-to-eat food is kept at most 3 days in total, the day of cooking plus 2, unless you have evidence for longer. {{sfbb-cross}}"
+    },
+    {
+     "t": "p",
+     "x": "Cool cooked food fast before it goes in the freezer: avoid cooking big batches ahead, divide food into small portions, stand covered pans in cold water or use ice, stir, and spread rice on a tray. If food has not chilled down safely, re-cook it or throw it away. {{sfbb-cross}} {{sfbb-cook}}"
+    },
+    {
+     "t": "p",
      "x": "The owner's documents give different figures for the same system. The meal page says up to 6 months at minus 18 degrees. The business plan says 3 to 6 months. {{fallout}} The pizza recipe says up to 3 months optimal in a standard freezer. {{fallout}} Choose one tested date for each product and write down how you tested it. Our suggestion is to taste and check texture at the date you will print."
     },
     {
      "t": "p",
      "x": "Allergens come next. There are 14 allergens that must be declared, including tree nuts such as almonds and macadamia nuts. {{gov-ppds-label}} Frozen meals posted or delivered are sold at a distance, and distance sellers must give allergen information before the purchase is completed and again when the food is delivered. {{gov-allergen}} Prepacked food made by one business still needs a label with a name, ingredients list, allergens and other mandatory details. {{gov-ppds}} Allergenic ingredients must be emphasised in the ingredients list. {{gov-ppds-label}}"
+    },
+    {
+     "t": "p",
+     "x": "Cooking does not remove allergens, so a mistake cannot be cooked out: start the dish again with fresh ingredients rather than picking out the allergen. Use a may-contain label only if a full risk assessment shows a high risk of cross-contamination, and food sold as free-from needs an allergen-free environment as well as recipe. {{sfbb-manage}} {{sfbb-cross}}"
+    },
+    {
+     "t": "p",
+     "x": "Read the allergen list closely. Tree nuts means almonds, hazelnuts, walnuts, pecans, Brazil nuts, pistachios, cashews and macadamias; cereals containing gluten include oats; sulphur dioxide counts when added above 10 mg per kg. If a bought ingredient says it may contain an allergen, tell the customer and let them decide, and pack an allergy customer's order separately, labelled and covered. {{sfbb-cross}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "If someone may be having a severe allergic reaction, do not move them, ring 999 for an ambulance, say they may have anaphylaxis, send someone to meet it, and help them use their adrenaline pen. {{sfbb-cross}}"
+    },
+    {
+     "t": "p",
+     "x": "Processes such as vacuum packing, sous vide and low-temperature cooking are outside the standard pack, and a business that uses them must be able to show they are safe, with advice from its local council. {{sfbb-cook}}"
     },
     {
      "t": "table",
@@ -570,24 +661,26 @@
      "t": "check",
      "q": "When must a distance seller give allergen information?",
      "o": [
+      "Before purchase and at delivery",
       "Only on the label",
-      "Before the purchase is completed and when the food is delivered",
+      "Only at delivery, on the packaging",
       "Only if asked",
       "Only for nuts"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Distance sellers must provide it at two stages: before purchase and at delivery. {{gov-allergen}}"
     },
     {
      "t": "check",
      "q": "Which statement about freezing is correct?",
      "o": [
+      "It needs no label",
+      "It kills bacteria if frozen for over a month",
       "It kills all bacteria",
-      "It slows bacteria but does not kill them",
       "It makes allergens safe",
-      "It needs no label"
+      "It slows bacteria but does not kill them"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The FSA says bacteria may be revived as food defrosts. {{fsa-chill-biz}}"
     },
     {
@@ -724,10 +817,11 @@
      "t": "check",
      "q": "According to Appert, on what did success chiefly depend?",
      "o": [
-      "The colour of the jar",
-      "The corking",
       "The time of year",
-      "The sugar"
+      "The corking",
+      "The colour of the jar",
+      "The sugar",
+      "The length of boiling"
      ],
      "a": 1,
      "w": "He says it is chiefly on the corking that success depends. {{appert-1812}}"
@@ -736,24 +830,26 @@
      "t": "check",
      "q": "Why did he leave two or three inches below the rim?",
      "o": [
+      "So bottles would not burst as contents swelled",
+      "To fit a label",
+      "To let some air in to keep the food fresh while stored",
       "For decoration",
-      "So the bottles would not burst from bubbling and swelling in the heat",
-      "To save food",
-      "To fit a label"
+      "To save food"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He left room lest they burst. {{appert-1812}}"
     },
     {
      "t": "check",
      "q": "Who later explained why the sealed, heated bottles kept the food?",
      "o": [
-      "Rumford",
-      "Louis Pasteur",
+      "Franklin",
+      "Justus von Liebig",
       "Snow",
-      "Franklin"
+      "Louis Pasteur",
+      "Rumford"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Britannica says Pasteur later explained that the heat killed microorganisms and the seal stopped new ones (unverified: not in the excerpt checked). {{brit-canning}}"
     },
     {

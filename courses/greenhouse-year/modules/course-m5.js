@@ -121,12 +121,13 @@
      "t": "check",
      "q": "A greenhouse full of actively growing plants compared with a half-empty one is:",
      "o": [
-      "Harder to cool",
-      "Easier to cool, because transpiration uses solar energy",
+      "Harder to cool, since the plants give off heat all day",
       "The same",
-      "Impossible to cool"
+      "Impossible to cool",
+      "Easier to cool, as transpiration uses solar energy",
+      "Harder to cool"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Purdue: a greenhouse covered with actively growing plants is relatively easier to cool."
     },
     {
@@ -134,9 +135,10 @@
      "q": "Your heater runs all night in February and the bills are high. Which change lowers night-time heat loss?",
      "o": [
       "Leave all vents open",
-      "Add a movable curtain or second glazing layer",
+      "A movable curtain or a second glazing layer",
       "Remove the benches",
-      "Paint the roof white"
+      "Paint the roof white",
+      "Switch the circulation fans off at night to keep the heat in"
      ],
      "a": 1,
      "w": "Curtains and double glazing reduce loss; shading paint is for summer light.",
@@ -271,23 +273,25 @@
      "q": "Why does Purdue place shade after other methods?",
      "o": [
       "Shade cloth is expensive",
-      "Shade reduces light that plants need for normal growth",
+      "Shade only works at night",
+      "Shade cuts light that plants need",
       "Shade creates humidity",
-      "Shade only works at night"
+      "Shade traps heat under the cloth and raises the temperature"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Purdue: shade should be used only when other cooling is not effective, because it reduces the light intensity plants need."
     },
     {
      "t": "check",
      "q": "Air at 80°F and 40% RH is cooled evaporatively. What is the theoretical limit?",
      "o": [
-      "60°F",
-      "70°F",
       "80°F",
-      "50°F"
+      "40°F",
+      "70°F",
+      "50°F",
+      "60°F"
      ],
-     "a": 0,
+     "a": 4,
      "w": "Purdue: 80 to 60°F at 40% relative humidity, but only 80 to 70°F at 60%.",
      "kind": "application"
     },
@@ -295,12 +299,13 @@
      "t": "check",
      "q": "In Moreno-Teruel's tomato trial, which cooling gave a significantly lower yield?",
      "o": [
-      "Pad-and-fan",
-      "Natural ventilation only",
       "Fog system",
-      "None"
+      "None",
+      "Natural ventilation only",
+      "Shade cloth only",
+      "Pad-and-fan"
      ],
-     "a": 2,
+     "a": 0,
      "w": "Fog gave 4.5 kg/m², significantly lower than the others."
     },
     {
@@ -410,14 +415,15 @@
     },
     {
      "t": "check",
-     "q": "A friend offers you an unvented paraffin heater for the greenhouse. What does NC State say?",
+     "q": "A friend offers you an unvented paraffin heater for the greenhouse. Which heaters does NC State say are not recommended?",
      "o": [
       "Vented gas heaters",
-      "Unvented propane or kerosene heaters",
       "Electric heaters",
-      "Hot water systems"
+      "Electric fan heaters with a thermostat",
+      "Hot water systems",
+      "Unvented propane or kerosene heaters"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Unvented heaters using propane or kerosene are not recommended.",
      "kind": "application"
     },
@@ -425,10 +431,11 @@
      "t": "check",
      "q": "In winter the top of your house is warm and the benches are cold. What will circulation fans do?",
      "o": [
+      "Push the warm air out through the vents",
+      "Mix the air so temperature is even",
       "Cool the house",
-      "Mix warm and cool air so temperature is uniform",
-      "Replace the vents",
-      "Dry the soil"
+      "Dry the soil",
+      "Replace the vents"
      ],
      "a": 1,
      "w": "Without air-mixing fans, warm air rises and cool air settles around plants.",
@@ -438,10 +445,11 @@
      "t": "check",
      "q": "It is a sunny 50°F day in March and your row-cover tunnel is closed. Should you vent it?",
      "o": [
-      "20°F",
-      "32°F",
-      "45°F",
-      "70°F"
+      "No: a closed cover never overheats in March, whatever the sun",
+      "No: it is too cold at 50°F",
+      "Yes: above about 45°F a closed cover can overheat",
+      "Only once frost has passed",
+      "No: covers only overheat above 70°F"
      ],
      "a": 2,
      "w": "A sunny day above about 45°F can overheat a closed cover.",
@@ -558,24 +566,26 @@
      "t": "check",
      "q": "Where should a thermostat sensor sit?",
      "o": [
-      "In full sun",
-      "Shaded, about plant height away from the walkway, with constant airflow",
+      "Shaded, at plant height, off the walkway, in moving air",
       "On the roof",
-      "Next to the heater"
+      "In full sun at the ridge, where it catches the peak heat of the day",
+      "Next to the heater",
+      "In full sun"
      ],
-     "a": 1,
+     "a": 0,
      "w": "NC State: shaded, plant height, away from the walkway, with constant airflow."
     },
     {
      "t": "check",
      "q": "Your vent opens at 24°C and the fan starts at 24.5°C, and both keep switching on and off. What should you change?",
      "o": [
-      "Equipment is cheaper",
-      "It prevents equipment cycling on and off",
-      "Plants prefer it",
-      "It is required by law"
+      "Set both to the same trigger so they work together",
+      "Set both to 24°C",
+      "Turn the fan off",
+      "Widen the gap between the triggers",
+      "Narrow the gap"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Gaps between triggers stop short cycling.",
      "kind": "application"
     },
@@ -711,36 +721,39 @@
      "t": "check",
      "q": "Where were the Crystal Palace's calico shading screens hung?",
      "o": [
-      "Inside the glass",
       "Outside the glass",
-      "On the floor",
-      "Over the vents only"
+      "Inside, under the roof ridge",
+      "Inside the glass",
+      "Over the vents only",
+      "On the floor"
      ],
-     "a": 1,
+     "a": 0,
      "w": "They were hung outside, between the ridge beams, which shields the glass better. {{sch}}"
     },
     {
      "t": "check",
      "q": "How often was temperature recorded in the Palace's register?",
      "o": [
-      "Once a week",
       "Daily",
       "Every two hours",
-      "Never"
+      "Never",
+      "Every twelve hours",
+      "Once a week"
      ],
-     "a": 2,
+     "a": 1,
      "w": "A two-hourly register was kept. {{sch}}"
     },
     {
      "t": "check",
      "q": "In the worked example, how many readings a day did 14 thermometers read every two hours give?",
      "o": [
-      "14",
+      "24",
       "84",
-      "168",
-      "336"
+      "14",
+      "336",
+      "168"
      ],
-     "a": 2,
+     "a": 4,
      "w": "12 readings × 14 thermometers = 168."
     },
     {

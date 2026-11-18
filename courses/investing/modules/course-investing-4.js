@@ -39,6 +39,14 @@
      "x": "Each step smooths out the ride, though none removes risk. {{fca-diversification}}"
     },
     {
+     "t": "p",
+     "x": "Diversification removes the risk that belongs to one company, but not the risk that hits the whole market, such as interest rates or a pandemic. Risk falls fast from one holding to two or three and then by less with each addition; 15 closely related shares can diversify less than 10 unrelated ones. {{os-ch15}}"
+    },
+    {
+     "t": "p",
+     "x": "Fisher described the same idea in The Theory of Interest as insurance: pooling risks reduces them, which is how the new investment trusts lowered risk for investors in shares. {{fisher30-ch9}}"
+    },
+    {
      "t": "callout",
      "k": "warn",
      "x": "Diversification does not stop losses in a market-wide fall. In a broad fall, many assets can drop together."
@@ -138,23 +146,25 @@
      "q": "Which of these best describes diversification?",
      "o": [
       "Putting all your savings in your best idea",
-      "Spreading money across investments that do not rely on the same things",
       "Choosing only shares from one country",
-      "Avoiding all risk"
+      "Avoiding all risk",
+      "Buying many shares in the same sector, so no single company can hurt you",
+      "Spreading money across investments that rely on different things"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The FCA describes it as spreading across different investments that do not all rely on the same things. {{fca-diversification}}"
     },
     {
      "t": "check",
      "q": "You hold one bank share and want to diversify. Which move gives the most diversification?",
      "o": [
+      "A second bank share, since two companies halve the risk",
       "A second share in the same sector",
-      "A fund spreading money across many companies and markets",
-      "More money in the same share",
-      "Borrowing to buy more"
+      "A fund spread across many companies and markets",
+      "Borrowing to buy more",
+      "More money in the same share"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The FCA describes funds as a way to spread across many holdings and markets. {{fca-diversification}}",
      "kind": "application"
     },
@@ -162,10 +172,11 @@
      "t": "check",
      "q": "You own shares in your employer, and your job is also at risk if the firm struggles. What is the problem?",
      "o": [
-      "None",
-      "Your income and savings are exposed to the same risk",
+      "None, since you know the firm better than outside investors",
+      "Your income and savings share the same risk",
+      "Bonds are safer than jobs",
       "The shares pay no dividend",
-      "Bonds are safer than jobs"
+      "None"
      ],
      "a": 1,
      "w": "Both depend on the same company, so they tend to fall together. Our inference, based on the idea of spreading risk. {{fca-diversification}}"
@@ -236,6 +247,24 @@
     {
      "t": "p",
      "x": "Holding many securities is not enough. Markowitz says it is necessary to avoid securities with high covariances among themselves. {{markowitz-1952}}"
+    },
+    {
+     "t": "p",
+     "x": "A worked example shows why. Delta Air Lines alone had a standard deviation of 51.90%. Paired half-and-half with another airline (correlation 0.87) the pair's figure only fell to 49.11%; paired with ExxonMobil (correlation 0.35) it fell to 30.43%. {{os-ch15}}"
+    },
+    {
+     "t": "check",
+     "q": "You hold one airline share and want to reduce risk by adding a second holding. Which choice should cut the swings more?",
+     "o": [
+      "A company whose results move differently, like an oil producer",
+      "More of the same airline",
+      "A second airline, since two airlines spread the risk across two firms",
+      "It makes no difference",
+      "A second airline"
+     ],
+     "a": 0,
+     "w": "Adding a holding with a low correlation cuts risk most: in the textbook example an airline plus an oil company fell to 30.43% against 49.11% for two airlines. {{os-ch15}}",
+     "kind": "application"
     },
     {
      "t": "p",
@@ -358,11 +387,12 @@
      "q": "Markowitz's central point is that portfolio risk depends on:",
      "o": [
       "Only the riskiest holding",
+      "The number of holdings alone",
+      "The average risk of each holding taken separately",
       "How the holdings move together",
-      "The number of pages in the report",
-      "The fee of the broker alone"
+      "The broker's fee alone"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The principle is that how holdings move together drives portfolio risk. Our summary of the paper's diversification argument. {{markowitz-1952}}"
     },
     {
@@ -370,11 +400,12 @@
      "q": "Two funds you hold have a low correlation over ten years. What should you expect in a bad year for one of them?",
      "o": [
       "They often move together",
-      "They tend to move differently",
       "They have the same fee",
-      "They are the same fund"
+      "They tend to move differently",
+      "They are the same fund",
+      "Both will fall by the same amount"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Low correlation means they do not move closely together, which can lower portfolio risk. {{markowitz-1952}}",
      "kind": "application"
     },
@@ -382,12 +413,13 @@
      "t": "check",
      "q": "In the worked example, which correlation gives the biggest reduction in the mix's spread?",
      "o": [
-      "+1",
+      "−0.5",
       "+0.5",
+      "+1",
       "0",
-      "−0.5"
+      "+0.25"
      ],
-     "a": 3,
+     "a": 0,
      "w": "The lower the correlation, the smaller the spread of the mix. At −0.5 it is about 8.7 points against 15 at +1. Our arithmetic."
     },
     {
@@ -408,6 +440,14 @@
     {
      "t": "p",
      "x": "A portfolio is the collection of all the assets you own. {{mh-beginners}}"
+    },
+    {
+     "t": "p",
+     "x": "The long US record shows the trade-off between asset classes. From 1981 to 2020, large company shares averaged 12.64% a year (standard deviation 16.06%), mid-grade corporate bonds 10.34% (7.67%), ten-year government bonds 8.21% (9.92%) and Treasury bills 3.94% (3.39%), against inflation of 2.93%. {{os-ch12}} US history, nominal figures and one fortunate market, so use it for the pattern, not as a forecast."
+    },
+    {
+     "t": "p",
+     "x": "Bond prices move opposite to interest rates, and the longer and lower the coupon, the bigger the swing; one way to spread that risk is a ladder of bonds maturing at regular intervals. {{os-ch10}} An overseas fund adds a second risk for a UK investor, the exchange rate, because foreign gains are worth more or less in pounds as the currency moves (our application of {{os-ch3}})."
     },
     {
      "t": "p",
@@ -521,10 +561,11 @@
      "t": "check",
      "q": "Why is a split across asset classes a useful start?",
      "o": [
-      "It removes all risk",
+      "It removes the risk of loss as long as the split is kept",
       "It spreads risk across holdings that behave differently",
       "It guarantees a return",
-      "It avoids the need for a goal"
+      "It avoids the need for a goal",
+      "It removes all risk"
      ],
      "a": 1,
      "w": "A split spreads risk across different holdings. It does not guarantee a return. {{fca-diversification}}"
@@ -534,23 +575,25 @@
      "q": "Apply a 60/30/10 split to £5,000. What is the bond slice if bonds are 30%?",
      "o": [
       "£500",
-      "£1,500",
+      "£1,000",
       "£3,000",
-      "£750"
+      "£750",
+      "£1,500"
      ],
-     "a": 1,
+     "a": 4,
      "w": "30% of £5,000 is £1,500."
     },
     {
      "t": "check",
      "q": "The Balanced split above falls about 27% when shares drop 40% and bonds drop 10%. What is the main lesson?",
      "o": [
-      "Bonds cannot fall",
-      "A split with less in shares falls less in a bad year",
+      "Balanced splits never lose money",
       "Cash is risky",
-      "Balanced splits never lose money"
+      "Bonds always rise whenever shares fall",
+      "A split with less in shares falls less",
+      "Bonds cannot fall"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Each slice falls by a different amount, so the total depends on the split. Our arithmetic."
     },
     {
@@ -711,12 +754,13 @@
      "t": "check",
      "q": "Shares rise 20% in a portfolio that started 60% shares, 30% bonds and 10% cash at £5,000. About what share are they now?",
      "o": [
-      "60%",
       "About 64.3%",
+      "60%",
+      "72% (60 + 12)",
       "About 70%",
       "50%"
      ],
-     "a": 1,
+     "a": 0,
      "w": "£3,600 ÷ £5,600 is about 64.3%. This is our arithmetic.",
      "kind": "application"
     },
@@ -724,12 +768,13 @@
      "t": "check",
      "q": "Which of these is a good reason for an unscheduled review?",
      "o": [
-      "A friend says a fund is hot",
-      "A change in your income or goal",
       "A headline about the market",
-      "The weather"
+      "The weather",
+      "A friend says a fund is hot",
+      "A news story about a fall in the market",
+      "A change in your income or goal"
      ],
-     "a": 1,
+     "a": 4,
      "w": "A change in your own circumstances changes the goal or capacity the plan was built on. This is our inference.",
      "kind": "application"
     },
@@ -744,7 +789,7 @@
    ]
   },
   {
-   "id": "l6",
+   "id": "l5",
    "title": "Practice: audit a portfolio",
    "min": 26,
    "blocks": [
@@ -840,10 +885,11 @@
      "t": "check",
      "q": "Maya has £6,000 in her employer's shares out of £20,000. What share of her portfolio is that?",
      "o": [
+      "60%",
       "6%",
-      "20%",
       "30%",
-      "60%"
+      "33%",
+      "20%"
      ],
      "a": 2,
      "w": "£6,000 ÷ £20,000 is 30%. Our arithmetic.",
@@ -853,10 +899,11 @@
      "t": "check",
      "q": "Why might two share funds be one bet rather than two?",
      "o": [
-      "They always have the same name",
+      "Fees make them identical",
       "They can hold many of the same companies",
+      "They always have the same name",
       "Funds cannot overlap",
-      "Fees make them identical"
+      "Two funds always hold different companies"
      ],
      "a": 1,
      "w": "If the funds hold the same companies, they move together and the spread is less than it looks. Our inference. {{fca-diversification}}"
@@ -865,12 +912,13 @@
      "t": "check",
      "q": "What is the first step of an audit?",
      "o": [
+      "Sell the worst performer of the last year",
       "Sell everything",
-      "List every holding with its value",
       "Pick new funds",
+      "List every holding with its value",
       "Check the news"
      ],
-     "a": 1,
+     "a": 3,
      "w": "You cannot assess what you have not listed. Our method."
     },
     {
@@ -884,7 +932,7 @@
    ]
   },
   {
-   "id": "l5",
+   "id": "l6",
    "title": "The lecturer's method: Harry Markowitz",
    "min": 24,
    "blocks": [
@@ -971,24 +1019,26 @@
      "t": "check",
      "q": "In the paper, what is an efficient portfolio?",
      "o": [
-      "The one with the highest possible return",
-      "One with the lowest variance for its expected return, or the highest return for its variance",
+      "Lowest variance for its return, or highest return for its variance",
+      "A type of bond",
       "A tax allowance",
-      "A type of bond"
+      "The portfolio with the highest possible return, whatever its level of variance",
+      "The one with the highest possible return"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Efficient portfolios have the lowest variance for a given expected return, or the highest expected return for a given variance. {{lec-markowitz-1952}}"
     },
     {
      "t": "check",
      "q": "You add a second fund that usually falls when your first fund falls. How much does it lower your portfolio risk?",
      "o": [
-      "Large risk reduction",
-      "Little risk reduction",
       "A guaranteed return",
-      "No fees"
+      "It halves the risk",
+      "No fees",
+      "A lot",
+      "Little"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Holdings with high covariances among themselves do little to lower portfolio risk. {{lec-markowitz-1952}}",
      "kind": "application"
     },

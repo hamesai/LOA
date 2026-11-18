@@ -221,12 +221,13 @@
      "t": "check",
      "q": "Your handheld shots on a rolling-shutter camera wobble on every step. What best reduces it?",
      "o": [
-      "A wider lens and a steadier support",
-      "A higher ISO",
       "A warmer white balance",
-      "A longer shutter"
+      "A higher ISO",
+      "A longer lens, so each step is a smaller part of the frame",
+      "A longer shutter",
+      "A wider lens and a steadier support"
      ],
-     "a": 0,
+     "a": 4,
      "w": "Wobble appears when the camera vibrates, especially handheld at telephoto settings. {{wiki-rolling}}",
      "kind": "application"
     },
@@ -234,12 +235,13 @@
      "t": "check",
      "q": "A slider moves 60 cm in 5 seconds. What is the speed?",
      "o": [
-      "6 cm/s",
-      "10 cm/s",
       "12 cm/s",
-      "30 cm/s"
+      "6 cm/s",
+      "30 cm/s",
+      "10 cm/s",
+      "300 cm/s"
      ],
-     "a": 2,
+     "a": 0,
      "w": "60 ÷ 5 = 12 cm per second.",
      "kind": "application"
     },
@@ -247,24 +249,26 @@
      "t": "check",
      "q": "The handbook's rule of thumb for avoiding judder says an object should take at least how long to cross the screen?",
      "o": [
-      "Five to seven seconds",
-      "One second",
       "Two seconds",
+      "One second",
+      "At least one second per metre of movement",
+      "Five to seven seconds",
       "Thirty seconds"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Allow at least five to seven seconds, for a camera pan or a subject moving through a still frame. {{fh-ch9}}"
     },
     {
      "t": "check",
      "q": "The director wants the room to seem to close in on the character as we approach. Should you dolly in or zoom, and why?",
      "o": [
-      "The dolly changes perspective and the zoom magnifies the whole image equally",
-      "The zoom changes perspective and the dolly does not",
-      "There is no difference",
-      "The dolly is always faster"
+      "Either: there is no visible difference",
+      "Dolly: it changes perspective; a zoom only magnifies",
+      "Zoom: it changes perspective, and a dolly does not",
+      "Dolly, simply because it is always faster",
+      "Zoom, since magnifying the whole image is what makes walls seem to close in"
      ],
-     "a": 0,
+     "a": 1,
      "w": "A dolly moves through space and changes perspective. A zoom magnifies everything equally. {{fh-ch9}}",
      "kind": "application"
     },
@@ -397,12 +401,13 @@
      "t": "check",
      "q": "In the wide shot the woman is on the left of the man; in your reverse close-ups she suddenly appears on the right. Which rule have you broken, and what does it keep consistent?",
      "o": [
-      "The colour",
-      "The left-to-right positions of the characters",
-      "The focal length",
-      "The frame rate"
+      "Match on action, keeping gestures continuous",
+      "The 30-degree rule, keeping shot sizes distinct",
+      "The 180-degree rule, keeping left-right positions",
+      "The rule of thirds, keeping eyelines on a third",
+      "The eyeline rule, which keeps the colour and focal length of reverses the same"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The first character stays frame right of the second. {{wiki-180}}",
      "kind": "application"
     },
@@ -410,12 +415,13 @@
      "t": "check",
      "q": "A car leaves the right side of the frame. Where should it enter in the next shot?",
      "o": [
-      "The right",
       "The left",
-      "Top",
-      "It does not matter"
+      "The right",
+      "The right, so it seems to turn back",
+      "It does not matter",
+      "The top"
      ],
-     "a": 1,
+     "a": 0,
      "w": "To keep direction, it should enter from the left. {{wiki-180}}",
      "kind": "application"
     },
@@ -423,12 +429,13 @@
      "t": "check",
      "q": "Two takes of the same close-up from the same position are cut together and the picture seems to leap. What is this called?",
      "o": [
-      "A jump cut",
-      "A cutaway",
       "A reverse shot",
-      "A rack focus"
+      "A cutaway",
+      "A rack focus",
+      "A match on action",
+      "A jump cut"
      ],
-     "a": 0,
+     "a": 4,
      "w": "Cutting two similar shots of the same subject without a clear change of size and angle gives a jump cut. {{fh-ch9}}",
      "kind": "application"
     },
@@ -587,10 +594,11 @@
      "t": "check",
      "q": "You are short of time and want to skip the master and shoot only close-ups. What risk does that create for the edit?",
      "o": [
-      "It is a legal rule",
-      "It gives the editor a full-scene safety net",
-      "It is cheaper",
-      "It avoids rehearsal"
+      "It breaks a legal rule on coverage",
+      "The editor loses the full-scene safety net",
+      "The close-ups will not match in colour without a master to grade from",
+      "It costs more in the edit suite",
+      "It means no rehearsal"
      ],
      "a": 1,
      "w": "The master lets the editor cover mistakes and build the scene.",
@@ -600,12 +608,13 @@
      "t": "check",
      "q": "You shoot 36 minutes and use 4 minutes. What is the shooting ratio?",
      "o": [
-      "4:1",
-      "9:1",
       "36:1",
-      "144:1"
+      "4:1",
+      "144:1",
+      "9:1",
+      "1:9"
      ],
-     "a": 1,
+     "a": 3,
      "w": "36 ÷ 4 = 9.",
      "kind": "application"
     },
@@ -729,12 +738,13 @@
      "t": "check",
      "q": "You are scheduling a five-day shoot in an uncertain autumn. Which scenes does the handbook suggest putting early?",
      "o": [
-      "Exteriors",
       "Night scenes only",
-      "Dialogue in small rooms",
-      "Insert shots"
+      "Insert shots",
+      "Exteriors",
+      "Interiors, so the weather cannot delay the start",
+      "Dialogue in small rooms"
      ],
-     "a": 0,
+     "a": 2,
      "w": "Exterior scenes go early because bad weather later could stop them. Have an interior ready as a cover set. {{fh-ch9}}",
      "kind": "application"
     },
@@ -742,12 +752,13 @@
      "t": "check",
      "q": "Your shot list jumps between the kitchen and the garden five times. Why regroup it by location and lighting?",
      "o": [
+      "It is required",
       "To impress the crew",
-      "To cut time spent re-lighting and moving",
       "To save memory",
-      "It is required"
+      "To cut time spent relighting and moving",
+      "So the actors can play the story in order"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Re-lighting and moving are the costly parts of a day.",
      "kind": "application"
     },
@@ -836,12 +847,13 @@
      "t": "check",
      "q": "You cut a neutral face after a shot of a coffin and the audience reads grief. What does this effect show?",
      "o": [
+      "A shot's meaning depends on the shots around it",
       "That actors should not move",
-      "That the meaning of a shot depends on the shots around it",
-      "That cuts must be invisible",
-      "That close-ups are always strongest"
+      "That close-ups are always strongest",
+      "That a good actor conveys grief even with a neutral face",
+      "That cuts must be invisible"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The same neutral face read as different feelings depending on what it was cut with. {{fh-ch13}}",
      "kind": "application"
     },
@@ -849,10 +861,11 @@
      "t": "check",
      "q": "You want a dinner scene to be tense rather than surprising. Using Hitchcock's bomb example, what should you show the audience?",
      "o": [
-      "Hiding the bomb until it explodes",
-      "Showing the audience the bomb before the characters know",
-      "Cutting very fast",
-      "Using a loud score"
+      "Hide it, then show it in a close-up the instant it goes off",
+      "Show the bomb before the characters know",
+      "Hide the bomb until it explodes",
+      "Use a loud score",
+      "Cut very fast"
      ],
      "a": 1,
      "w": "Giving the audience knowledge the characters lack builds suspense. {{fh-ch9}}",
@@ -927,24 +940,26 @@
      "t": "check",
      "q": "What is a shooting ratio?",
      "o": [
-      "Cost per minute of film",
-      "Footage shot compared with the finished running time",
+      "The aspect ratio of the frame",
+      "The average number of takes shot for every set-up",
+      "Footage shot against finished running time",
       "The ratio of wide to close shots",
-      "The aspect ratio of the frame"
+      "Cost per minute of film"
      ],
-     "a": 1,
+     "a": 2,
      "w": "It is total footage shot divided by final running time. {{fh-ch9}}"
     },
     {
      "t": "check",
      "q": "You plan a 10-second dolly move. Why hold still for a moment at the start and end?",
      "o": [
-      "It saves battery",
-      "It gives the editor clean material to trim",
       "It makes the move faster",
-      "It removes judder"
+      "It lets the dolly grip check the track for bumps",
+      "It saves battery",
+      "It removes judder",
+      "It gives the editor clean material to trim"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The editor may cut the static start and end, but needs them. {{fh-ch9}}",
      "kind": "application"
     },
@@ -1047,22 +1062,24 @@
      "t": "check",
      "q": "What measures whether a shot is a close-up?",
      "o": [
-      "The camera's real distance",
-      "How much of the screen the subject fills",
+      "The focal length of the lens in use on the camera",
       "The lens brand",
-      "The aspect ratio"
+      "The camera's real distance",
+      "The aspect ratio",
+      "How much of the screen the subject fills"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Scale of the subject in the frame decides it. {{fa-ch5}}"
     },
     {
      "t": "check",
      "q": "You want background objects to slide behind the subject as the camera moves. Will a zoom do this, and why?",
      "o": [
-      "It changes the relative positions of objects",
-      "It only magnifies the same view",
-      "It cannot be slow",
-      "It needs a dolly"
+      "Yes: it changes the relative positions of objects",
+      "No: a zoom only magnifies the same view",
+      "Yes, but only on a dolly",
+      "No: a zoom cannot move slowly",
+      "Yes, as long as the zoom is slow enough for the eye to follow it"
      ],
      "a": 1,
      "w": "A zoom keeps the vantage point. {{fa-ch5}}",
@@ -1152,12 +1169,13 @@
      "t": "check",
      "q": "You need a cut between a wide and a close shot to go unnoticed. Which technique helps most?",
      "o": [
-      "A match on action",
+      "A fade",
+      "A jump cut from the same angle",
       "A canted frame",
-      "A long take",
-      "A fade"
+      "A match on action",
+      "A long take"
      ],
-     "a": 0,
+     "a": 3,
      "w": "A cut in the middle of a movement hides itself. {{fa-ch6}}",
      "kind": "application"
     },
@@ -1165,12 +1183,13 @@
      "t": "check",
      "q": "What is a long take?",
      "o": [
-      "A distant framing",
       "A shot of unusually long duration",
       "A zoom",
-      "A slow-motion shot"
+      "A slow-motion shot",
+      "A shot from far away on a long lens",
+      "A distant framing"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Duration, not distance. {{fa-ch5}}"
     },
     {
@@ -1261,12 +1280,13 @@
      "t": "check",
      "q": "A cut every 10 seconds equals how many cuts a minute?",
      "o": [
-      "3",
-      "6",
+      "0.6",
       "10",
-      "60"
+      "6",
+      "60",
+      "3"
      ],
-     "a": 1,
+     "a": 2,
      "w": "60 ÷ 10 = 6. Our arithmetic. {{murch-dragnet}}",
      "kind": "application"
     },
@@ -1274,10 +1294,11 @@
      "t": "check",
      "q": "Block says an affinity cut is...",
      "o": [
-      "Jarring",
+      "Jarring, by design",
       "Invisible",
-      "Always wrong",
-      "Silent"
+      "Silent",
+      "Jarring",
+      "Always wrong"
      ],
      "a": 1,
      "w": "Affinity keeps the eye in one area, so the cut stays invisible. {{block-continuum}}"
@@ -1361,11 +1382,12 @@
      "q": "You are editing a riot sequence. On Arnheim's advice, should you use short or long cutting units?",
      "o": [
       "Long strips",
-      "Short cutting units",
       "No cuts",
-      "Titles"
+      "Long takes that let the chaos unfold",
+      "Titles",
+      "Short cutting units"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Short cutting units for tumult, long strips for quiet. {{arnheim-making}}",
      "kind": "application"
     },
@@ -1374,11 +1396,12 @@
      "q": "What creates the meaning in Kuleshov's experiment?",
      "o": [
       "The actor's skill",
-      "Juxtaposition",
+      "The actor's expression",
       "Colour",
+      "Juxtaposition",
       "Sound alone"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The meaning comes from the juxtaposition. {{fabe-montage}}"
     },
     {
@@ -1445,12 +1468,13 @@
      "t": "check",
      "q": "You are tempted to add an insert of a ringing phone. On McKee's test, when is it justified?",
      "o": [
-      "It looks pretty",
-      "The audience must read it with the character",
-      "The master is too wide",
-      "There is dialogue"
+      "Only if the audience must read it with the character",
+      "Whenever there is dialogue",
+      "Whenever it looks pretty",
+      "Whenever the master is too wide",
+      "Whenever the scene feels slow, since inserts always lift the pace"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The insert must carry what the character reads. {{mckee-text}}",
      "kind": "application"
     },
@@ -1458,12 +1482,13 @@
      "t": "check",
      "q": "The producer wants the editor to be able to change the pace later. Should you shoot one continuous take or set-by-set coverage?",
      "o": [
-      "One continuous take",
-      "Coverage set shot by shot",
       "Neither",
+      "One continuous take, since it can be cut anywhere",
+      "Coverage, set-up by set-up",
+      "One continuous take",
       "A drone shot"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Fragmented coverage leaves the rhythm to the edit. {{block-continuous}}",
      "kind": "application"
     },
@@ -1532,9 +1557,10 @@
      "q": "In Block's method, which graph comes first?",
      "o": [
       "The story's conflict intensity",
-      "The colour palette",
+      "The soundtrack",
       "The shot list",
-      "The soundtrack"
+      "The visual component you most want to control",
+      "The colour palette"
      ],
      "a": 0,
      "w": "The first graph is always the story. {{block-components}}"
@@ -1543,12 +1569,13 @@
      "t": "check",
      "q": "Which choice keeps a component unchanged throughout?",
      "o": [
+      "Contrast within the shot",
+      "Affinity",
       "Constant",
       "Progression",
-      "Contrast",
-      "Affinity"
+      "Contrast"
      ],
-     "a": 0,
+     "a": 2,
      "w": "A constant keeps the component the same for the whole production. {{block-components}}"
     },
     {
@@ -1615,12 +1642,13 @@
      "t": "check",
      "q": "You want the audience to feel the depth of a forest as the camera moves. Which move gives foreground and background different rates?",
      "o": [
-      "Pan",
-      "Tilt",
       "Zoom",
-      "Dolly"
+      "Dolly",
+      "Pan",
+      "Zoom in slowly",
+      "Tilt"
      ],
-     "a": 3,
+     "a": 1,
      "w": "Three-dimensional moves create the relative movement of depth. {{block-continuum}}",
      "kind": "application"
     },
@@ -1628,12 +1656,13 @@
      "t": "check",
      "q": "What does Block say about a snap zoom?",
      "o": [
-      "It adds intensity",
+      "It hides cuts",
+      "It is a true three-dimensional move",
       "It removes intensity",
       "It is a three-dimensional move",
-      "It hides cuts"
+      "It adds intensity"
      ],
-     "a": 0,
+     "a": 4,
      "w": "A snap zoom creates sudden contrasts that conventional moves rarely match. {{block-continuum}}"
     },
     {
@@ -1695,24 +1724,26 @@
      "t": "check",
      "q": "What is a movement match?",
      "o": [
-      "A gesture continued smoothly across a cut",
-      "A fast zoom",
+      "A change of lens",
       "A fade to black",
-      "A change of lens"
+      "Two shots with the same camera movement",
+      "A gesture carried smoothly across a cut",
+      "A fast zoom"
      ],
-     "a": 0,
+     "a": 3,
      "w": "The action carries over so the viewer does not notice the cut. {{fabe-griffith}}"
     },
     {
      "t": "check",
      "q": "What does a cross-cut give the viewer?",
      "o": [
-      "The impression of simultaneous events",
       "A slower pace",
       "A different focal length",
-      "A flashback"
+      "The sense of simultaneous events",
+      "A flashback",
+      "A flashback to an earlier scene in the film"
      ],
-     "a": 0,
+     "a": 2,
      "w": "It alternates between separate lines of action. {{fabe-griffith}}"
     },
     {
@@ -1806,36 +1837,39 @@
      "t": "check",
      "q": "What does a master shot give the editor?",
      "o": [
-      "The layout and the relationships in the scene",
+      "A sound track",
+      "The layout and relationships in the scene",
       "A faster shutter",
       "A wider lens",
-      "A sound track"
+      "Close detail of each actor's performance in the scene"
      ],
-     "a": 0,
+     "a": 1,
      "w": "It lets the editor cut in to mediums and close-ups without confusing the audience. {{brown-technique}}"
     },
     {
      "t": "check",
      "q": "Which cut starts an action in one shot and finishes it in the next?",
      "o": [
-      "Action cut",
+      "Jump cut",
       "Content cut",
       "Zero cut",
+      "Action cut",
       "Conceptual cut"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Brown also calls it a continuity or movement cut. {{brown-continuity}}"
     },
     {
      "t": "check",
      "q": "What does a neutral shot allow?",
      "o": [
-      "Crossing the line without a clash",
-      "A longer take",
+      "A cheat",
       "A faster pan",
-      "A cheat"
+      "A longer take",
+      "A jump in time without a dissolve",
+      "Crossing the line without a clash"
      ],
-     "a": 0,
+     "a": 4,
      "w": "A neutral shot can be cut to any angle. {{brown-continuity}}"
     },
     {
@@ -1938,9 +1972,10 @@
      "q": "What does McKee say changes a beat?",
      "o": [
       "A change in behaviour",
-      "A change of location",
+      "A new line of dialogue",
       "A change of lens",
-      "A new line of dialogue"
+      "A change of location",
+      "A new line of dialogue from either character"
      ],
      "a": 0,
      "w": "A beat changes when behaviour changes. {{mckee-analysis}}"
@@ -1950,9 +1985,10 @@
      "q": "Your rough cut leans on voice-over in every scene. What is McKee's test for whether it should stay?",
      "o": [
       "Strip it out and see if the story stands",
+      "Record it first",
+      "Keep it wherever it explains what the picture shows",
       "Add it to every scene",
-      "Make it shorter",
-      "Record it first"
+      "Make it shorter"
      ],
      "a": 0,
      "w": "If the story still stands, the narration was an extra. {{mckee-exposition}}",
@@ -2033,24 +2069,26 @@
      "t": "check",
      "q": "How many shots does Hitchcock use for the key theft in Notorious, per Fabe?",
      "o": [
+      "Twenty",
       "Twelve",
-      "One",
+      "Thirty",
       "Four",
-      "Thirty"
+      "One"
      ],
-     "a": 0,
+     "a": 1,
      "w": "Four are establishing shots and most of the rest are close-ups. {{fabe-notorious}}"
     },
     {
      "t": "check",
      "q": "What joins the shots in a lightning mix?",
      "o": [
-      "Continuity on the sound track",
-      "A dissolve",
       "A fade to black",
+      "A quick dissolve between matching shapes",
+      "A dissolve",
+      "Continuity on the sound track",
       "A caption"
      ],
-     "a": 0,
+     "a": 3,
      "w": "The dialogue carries across a gap of years. {{fabe-kane}}"
     },
     {
@@ -2191,33 +2229,36 @@
      "q": "Where did Freund put the close-up cameras?",
      "o": [
       "Behind the centre camera",
-      "75 to 90 degrees from the centre camera",
       "On the ceiling",
-      "Beside the actors"
+      "Beside the actors",
+      "Directly beside the centre camera, on the same axis",
+      "75 to 90 degrees from the centre camera"
      ],
-     "a": 1,
+     "a": 4,
      "w": "They were 75 to 90 degrees apart from the centre camera. {{freund-1953}}"
     },
     {
      "t": "check",
      "q": "A 3 inch lens is about how many millimetres?",
      "o": [
+      "254",
       "30",
       "76",
       "300",
       "760"
      ],
-     "a": 1,
+     "a": 2,
      "w": "3 × 25.4 mm is about 76 mm."
     },
     {
      "t": "check",
      "q": "What took most of Freund's week for each show?",
      "o": [
-      "Shooting",
+      "Travel",
       "Rehearsal and planning",
-      "Editing",
-      "Travel"
+      "Shooting",
+      "Shooting the episode itself",
+      "Editing"
      ],
      "a": 1,
      "w": "Four days lined up each show, two of them rehearsals, against an hour and a half of shooting. {{freund-1953}}"

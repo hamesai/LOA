@@ -677,20 +677,22 @@ ARCHIVE_ADD({
     "q": "What is a French scene?",
     "o": [
      "A scene set in France",
-     "A section that starts and ends when a character enters or leaves",
+     "A section marked off by the playwright's own printed scene headings",
+     "A section bounded by a character entering or leaving",
      "A scene with music",
      "The last scene of an act"
     ],
-    "a": 1,
+    "a": 2,
     "w": "A French scene changes whenever a character enters or leaves."
    },
    {
     "q": "Why does Garcia say not to treat your 'vision' as fixed?",
     "o": [
-     "It cannot be written down",
+     "The audience dislikes ideas",
      "The team's ideas make the show richer",
+     "A fixed vision always goes over the budget",
      "Directors have no ideas",
-     "The audience dislikes ideas"
+     "It cannot be written down"
     ],
     "a": 1,
     "w": "A rigid vision shuts out the creativity of others, and the show is a fusion of many perspectives."
@@ -698,35 +700,38 @@ ARCHIVE_ADD({
    {
     "q": "What does the film textbook say mise-en-scène is?",
     "o": [
-     "Only the set",
-     "The overall look and feel built from design elements",
+     "The sound mix",
      "The edit",
-     "The sound mix"
+     "The order in which the editor arranges the shots",
+     "Only the set",
+     "The overall look built from design elements"
     ],
-    "a": 1,
+    "a": 4,
     "w": "It is the overall look and feel built from setting, character, lighting and composition."
    },
    {
     "q": "Which audience step does the course ask for in place of stereotypes?",
     "o": [
-     "Guessing from age alone",
      "Asking the venue and likely audience members",
-     "Ignoring the audience",
-     "Copying a past show"
+     "Guessing from age alone",
+     "Picking a ten-year age band and assuming its tastes",
+     "Copying a past show",
+     "Ignoring the audience"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Our inference: get facts about the real room instead of relying on guesses."
    },
    {
     "lec": 1,
     "q": "What did Granville-Barker say about scenery?",
     "o": [
-     "It should always be lavish",
-     "It is wrong if it draws attention from the text",
      "It should be banned",
-     "It should be historical"
+     "It should be historical",
+     "It is wrong if it draws attention from the text",
+     "It should be as realistic as the budget will allow",
+     "It should always be lavish"
     ],
-    "a": 1,
+    "a": 2,
     "w": "He insisted scenery was wrong if it called attention to itself at the expense of the text. {{gb-prefaces}} {{gb-companion}}"
    }
   ],
@@ -736,8 +741,9 @@ ARCHIVE_ADD({
     "o": [
      "It forces belief in a fake situation",
      "It starts the imagination with an honest supposition",
+     "It names the objective",
      "It replaces the author",
-     "It names the objective"
+     "It makes the actor believe the situation is literally true"
     ],
     "a": 1,
     "w": "The teacher stresses that the 'if' is a supposition offered frankly."
@@ -745,34 +751,37 @@ ARCHIVE_ADD({
    {
     "q": "Which is Garcia's set of given-circumstance questions?",
     "o": [
+     "Cast, crew, cost, calendar",
+     "Plot, theme, style, setting",
      "Who, what, when, where",
      "Why, how, how much, who",
-     "Plot, theme, style, setting",
-     "Cast, crew, cost, calendar"
+     "Who, why, how and when not"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Garcia lists who, what, when and where."
    },
    {
     "q": "Why name an objective with a verb?",
     "o": [
+     "A verb names the feeling the actor should show",
      "It reads better in the programme",
-     "A verb gives more push to action",
+     "Nouns are banned",
      "The audience hears the verb",
-     "Nouns are banned"
+     "A verb gives more push to action"
     ],
-    "a": 1,
+    "a": 4,
     "w": "The book says the verb form gives more impetus to action."
    },
    {
     "q": "What changes between a large stage and a close-up?",
     "o": [
-     "The objective",
      "The size of the performance",
+     "The author",
      "The given circumstances",
-     "The author"
+     "The objective and the given circumstances",
+     "The objective"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Size changes with the space and the camera, but the objective stays."
    },
    {
@@ -780,11 +789,12 @@ ARCHIVE_ADD({
     "q": "What did the teacher in An Actor Prepares say about the word 'if'?",
     "o": [
      "It tells actors what to feel",
-     "It admits a supposition and sets the actor in motion",
-     "It is banned",
-     "It replaces the text"
+     "It replaces the text",
+     "It makes the actor believe the fiction is literally real",
+     "It admits a supposition and sets the actor moving",
+     "It is banned"
     ],
-    "a": 1,
+    "a": 3,
     "w": "He says it admits it is only a supposition, and acts as a lever into imagination. {{aap}}"
    }
   ],
@@ -792,9 +802,10 @@ ARCHIVE_ADD({
    {
     "q": "What does communion mean in An Actor Prepares?",
     "o": [
-     "Praying together",
-     "A constant exchange of giving and taking with a partner or object",
      "Silence on stage",
+     "Constant giving and taking with a partner or object",
+     "Playing to the audience rather than the other actors",
+     "Praying together",
      "Looking at the audience"
     ],
     "a": 1,
@@ -803,46 +814,50 @@ ARCHIVE_ADD({
    {
     "q": "Why does the wording of a super-objective matter?",
     "o": [
-     "It sets ticket prices",
      "It changes which scenes move to the front",
+     "It sets ticket prices",
      "It is fixed by the script",
+     "It changes nothing, since the text is fixed",
      "It never changes"
     ],
-    "a": 1,
+    "a": 0,
     "w": "The book gives three wordings with three emphases."
    },
    {
     "q": "Which note formula does Garcia recommend?",
     "o": [
+     "Correct first, then praise twice",
      "Correct, praise, correct",
-     "Praise, correct, praise",
      "Praise only",
+     "Praise, correct, praise",
      "Silence"
     ],
-    "a": 1,
+    "a": 3,
     "w": "He recommends praise, correct, praise."
    },
    {
     "q": "What should you not ask an actor to do, according to the book?",
     "o": [
-     "Aim at an objective",
-     "Copy last night's result",
      "Rest",
-     "Listen"
+     "Listen",
+     "Aim at an objective",
+     "Play an action toward a partner",
+     "Copy last night's result"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Copying a past success turned a true scene into a false one."
    },
    {
     "lec": 1,
     "q": "What is the day-backwards exercise for?",
     "o": [
+     "Learning the whole script by heart, backwards",
      "Practising memory tricks",
      "Building an unbroken line from short lines",
      "Learning lines",
      "Warming the voice"
     ],
-    "a": 1,
+    "a": 2,
     "w": "The short recalled lines join into a longer line. {{aap}}"
    }
   ],
@@ -850,56 +865,61 @@ ARCHIVE_ADD({
    {
     "q": "Which stage area does Garcia call the weakest?",
     "o": [
-     "Downstage centre",
      "Upstage left",
-     "Centre stage",
-     "Stage right"
+     "Stage right",
+     "Downstage centre",
+     "Downstage right",
+     "Centre stage"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Garcia names upstage left as the weakest position."
    },
    {
     "q": "What does a visual triangle give a picture?",
     "o": [
-     "A flat line",
      "A focal apex",
+     "More lines",
      "A louder voice",
-     "More lines"
+     "A flat line",
+     "Equal weight to every actor"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Triangles create a focal point."
    },
    {
     "q": "Two actors play a quarrel standing 6 feet apart. On Garcia's distance guide, what does that distance suggest?",
     "o": [
      "Intimacy",
-     "The edge of a fight",
+     "A secret",
+     "Formal, polite distance",
      "Strangers",
-     "A secret"
+     "The edge of a fight"
     ],
-    "a": 1,
+    "a": 4,
     "w": "He says that distance looks like the edge of a physical conflict.",
     "kind": "application"
    },
    {
     "q": "Which screen tool replaces stage height?",
     "o": [
-     "Camera angle",
      "Rehearsal length",
+     "The length of the lens",
      "The call sheet",
+     "Camera angle",
      "The score"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Shooting from below makes a character dominant."
    },
    {
     "lec": 1,
     "q": "What did Meyerhold's biomechanics draw on?",
     "o": [
-     "Only realism",
+     "Classroom lectures",
      "Commedia dell'arte, kabuki and Craig's writings",
+     "Only realism",
      "Cinema editing",
-     "Classroom lectures"
+     "Stanislavski's emotion memory exercises and realism"
     ],
     "a": 1,
     "w": "Britannica lists those influences. {{brit-bio}}"
@@ -909,57 +929,62 @@ ARCHIVE_ADD({
    {
     "q": "What does the film textbook say a close-up creates?",
     "o": [
+     "Silence",
      "Distance",
-     "Intimacy",
      "A flashback",
-     "Silence"
+     "Isolation",
+     "Intimacy"
     ],
-    "a": 1,
+    "a": 4,
     "w": "A close-up creates a feeling of intimacy."
    },
    {
     "q": "What is the purpose of the 180 degree rule?",
     "o": [
-     "To fill the frame",
      "To keep screen direction consistent",
      "To end the scene",
-     "To move the camera faster"
+     "To keep shot sizes different between cuts",
+     "To move the camera faster",
+     "To fill the frame"
     ],
-    "a": 1,
+    "a": 0,
     "w": "It prevents subjects reversing positions."
    },
    {
     "q": "What did the Kuleshov experiment show?",
     "o": [
      "Actors cannot act",
+     "Editing is unneeded",
+     "An actor's expression alone sets the meaning",
      "The order of shots shapes meaning",
-     "Soup is expensive",
-     "Editing is unneeded"
+     "Soup is expensive"
     ],
-    "a": 1,
+    "a": 3,
     "w": "The same face read differently beside different shots."
    },
    {
     "q": "Which stage tool is closest to a screen cut?",
     "o": [
+     "A curtain call",
      "A transition",
-     "A bow",
-     "An interval ice cream",
-     "A programme"
+     "A programme",
+     "An interval",
+     "A bow"
     ],
-    "a": 0,
+    "a": 1,
     "w": "A transition moves the audience between scenes, as a cut does."
    },
    {
     "lec": 1,
     "q": "Which of these is one of Eisenstein's five methods of montage?",
     "o": [
+     "Verbal",
      "Metric",
+     "Continuity",
      "Linear",
-     "Static",
-     "Verbal"
+     "Static"
     ],
-    "a": 0,
+    "a": 1,
     "w": "The five are metric, rhythmic, tonal, overtonal and intellectual. {{wiki-montage}} {{media-eis}}"
    }
   ],
@@ -967,57 +992,62 @@ ARCHIVE_ADD({
    {
     "q": "In which layout does the audience surround the stage on three sides?",
     "o": [
-     "Proscenium",
      "Thrust",
+     "Proscenium",
+     "End-on",
      "Round",
      "Black box"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Garcia describes thrust as the audience on three sides."
    },
    {
     "q": "What is a ground plan?",
     "o": [
+     "A bird's-eye view of the stage and main set pieces",
+     "A side view of the set showing the heights of each piece",
+     "A cast list",
      "A budget",
-     "A bird's-eye view of the set pieces",
-     "A rehearsal schedule",
-     "A poster"
+     "A seating chart"
     ],
-    "a": 1,
+    "a": 0,
     "w": "It is an aerial view that outlines the basic set pieces."
    },
    {
     "q": "What does Garcia suggest doing about actor notes in tech?",
     "o": [
-     "Give long notes each night",
-     "Warn actors you will not give notes",
      "Cancel tech",
-     "Bring in a new cast"
+     "Give long notes each night",
+     "Give notes after every cue so actors stay sharp",
+     "Bring in a new cast",
+     "Warn actors you will not give notes"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Tell actors that tech is for the theatrical elements."
    },
    {
     "q": "What is a soundstage?",
     "o": [
+     "A soundproof building for controlled filming",
      "A theatre with a piano",
-     "A sound-proof building for controlled filming",
      "A music venue",
-     "A radio studio"
+     "A radio studio",
+     "An outdoor set built for recording live sound"
     ],
-    "a": 1,
+    "a": 0,
     "w": "It is a windowless sound-proof building that gives control over light and sound."
    },
    {
     "lec": 1,
     "q": "What did Brook's 1970 Dream use in place of a forest set?",
     "o": [
-     "A white box with circus skills",
      "Real trees",
      "Video",
-     "A painted curtain"
+     "A painted curtain",
+     "A white box with circus skills",
+     "A forest of painted flats and real leaves"
     ],
-    "a": 0,
+    "a": 3,
     "w": "The RSC says Sally Jacobs built a brilliantly lit white box in place of the usual pretty forest. {{rsc-dream}}"
    }
   ],
@@ -1025,9 +1055,10 @@ ARCHIVE_ADD({
    {
     "q": "What does the pass rule require?",
     "o": [
-     "All rows at 3, or one row at 2 with a plan",
-     "Only the review",
+     "All rows at 3, or one at 2 with a plan",
      "A perfect score of 18 on every row",
+     "Only the review",
+     "Every row at 2 or above, with no plan needed",
      "No rule"
     ],
     "a": 0,
@@ -1036,24 +1067,26 @@ ARCHIVE_ADD({
    {
     "q": "Which scene choice avoids rights fees?",
     "o": [
-     "A published musical",
      "A public-domain or self-written scene",
      "A film",
-     "Any scene"
+     "Any scene",
+     "Any published scene performed only once",
+     "A published musical"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Garcia says public-domain and new plays have no rights fee."
    },
    {
     "lec": 1,
     "q": "Which of these is one of Stanislavski's tests for an objective?",
     "o": [
+     "It is a result",
+     "It names a feeling to show",
      "It is aimed at the partner",
      "It is aimed at the audience",
-     "It is vague",
-     "It is a result"
+     "It is vague"
     ],
-    "a": 0,
+    "a": 2,
     "w": "The objective is directed toward the other actors, not the spectators. {{aap}}"
    }
   ]

@@ -111,12 +111,13 @@
      "t": "check",
      "q": "You want the audience to watch one actor during a confession. Which body position should she take, on Garcia's guide?",
      "o": [
-      "Full back",
-      "Profile",
+      "Three-quarter",
       "Full front",
-      "Three-quarter"
+      "One-quarter (turned slightly in)",
+      "Full back",
+      "Profile"
      ],
-     "a": 2,
+     "a": 1,
      "w": "Full front demands the audience's full attention. {{garcia}}",
      "kind": "application"
     },
@@ -125,11 +126,12 @@
      "q": "An actor stands upstage left, Garcia's weakest area, yet the audience watches only her. What could explain it?",
      "o": [
       "The ticket price",
-      "The actor's stance and posture",
+      "Nothing: an upstage position always draws focus",
       "The script's length",
+      "Her stance and posture",
       "The weather"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Garcia notes that stance and posture can override. {{garcia}}",
      "kind": "application"
     },
@@ -239,25 +241,27 @@
      "t": "check",
      "q": "Three actors stand in a straight line and the picture looks flat. What would arranging them in a triangle give you?",
      "o": [
-      "A flat line",
       "A focal apex",
       "A louder sound",
+      "Equal weight for all three actors",
+      "A flat line",
       "A quicker exit"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Triangles create a focal point at the apex. {{garcia}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "A character must rush to stop another leaving. Should the cross be a curve or a straight line, on Garcia's guide?",
+     "q": "A character rushes in a straight line to stop another leaving. On Garcia's guide, what does a straight cross suggest?",
      "o": [
-      "Ease",
-      "Urgency",
+      "Hesitation and doubt",
       "Boredom",
-      "Secrecy"
+      "Secrecy",
+      "Ease",
+      "Urgency"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Arcs suggest ease, straight lines urgency. {{garcia}}",
      "kind": "application"
     },
@@ -388,12 +392,13 @@
      "t": "check",
      "q": "In your edit two characters seem to swap sides of the frame between shots. Which rule was broken, and what does it protect?",
      "o": [
-      "The budget",
-      "The audience's sense of who is looking where",
-      "The sound mix",
-      "The costume continuity"
+      "Continuity of costume",
+      "The 30-degree rule: shot size",
+      "The 180-degree rule: who is looking where",
+      "The rule of thirds, which keeps the actors' eyes on the same line",
+      "Match on action: movement"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Crossing the line makes subjects appear to swap positions. {{cwc}}",
      "kind": "application"
     },
@@ -401,12 +406,13 @@
      "t": "check",
      "q": "You frame a grieving character small in a wide, empty field. What does the textbook say this suggests?",
      "o": [
-      "Joy",
-      "Isolation or powerlessness",
+      "Strength and control over the landscape",
       "A comedy",
-      "A flashback"
+      "Joy",
+      "A flashback",
+      "Isolation or powerlessness"
      ],
-     "a": 1,
+     "a": 4,
      "w": "It describes negative space as communicating isolation or powerlessness. {{cwc}}",
      "kind": "application"
     },
@@ -539,10 +545,11 @@
      "t": "check",
      "q": "What did Britannica say biomechanics emphasised?",
      "o": [
-      "Long speeches",
+      "Emotion memory and inner psychological truth",
       "Movement and pantomime over words",
+      "Emotion memory",
       "Realistic scenery",
-      "Emotion memory"
+      "Long speeches"
      ],
      "a": 1,
      "w": "The actors were coached as gymnasts and acrobats and emphasised pantomime over words. {{brit-bio}}"
@@ -551,24 +558,26 @@
      "t": "check",
      "q": "In what year did Meyerhold join the Moscow Art Theatre, per Britannica?",
      "o": [
-      "1898",
+      "1888",
       "1922",
+      "1898",
       "1906",
       "1938"
      ],
-     "a": 0,
+     "a": 2,
      "w": "He joined in 1898, two years after starting at the school in 1896. {{brit-mey}}"
     },
     {
      "t": "check",
      "q": "What did Meyerhold say about his rules for training an actor, in Gordon's extract?",
      "o": [
-      "He had none",
-      "He found twelve or thirteen and would leave perhaps eight",
       "He found a hundred",
-      "He copied Stanislavski's"
+      "He copied Stanislavski's",
+      "He had none",
+      "He found twelve or thirteen and would keep about eight",
+      "He found a hundred rules and kept every single one of them for training"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He said he determined twelve or thirteen rules and would leave perhaps no more than eight. {{tdr-gordon}}"
     },
     {

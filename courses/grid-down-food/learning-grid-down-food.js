@@ -7,33 +7,36 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "The WHO five keys are clean, separate, cook, temperature and...",
     "o": [
      "Cool",
-     "Safe water",
+     "Serve promptly",
+     "Season",
      "Store",
-     "Season"
+     "Safe water"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Five keys: clean, separate, cook, temperature, safe water."
    },
    {
     "q": "A regular home food supplier must register...",
     "o": [
+     "Never",
+     "Only if hiring",
      "After trading for 28 days",
      "28 days before trading",
-     "Never",
-     "Only if hiring"
+     "Within a year of trading"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Register 28 days before trading."
    },
    {
     "q": "Freezing food...",
     "o": [
-     "Kills bacteria",
      "Slows bacteria but does not kill them",
      "Makes it sterile",
+     "Kills bacteria if frozen for over a month",
+     "Kills bacteria",
      "Adds shelf life for ever"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Freezing slows bacteria but does not kill them."
    }
   ],
@@ -81,33 +84,36 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "A full freezer keeps food frozen for about...",
     "o": [
      "4 hours",
-     "24 hours",
      "48 hours",
-     "7 days"
+     "7 days",
+     "24 hours",
+     "12 hours"
     ],
-    "a": 2,
+    "a": 1,
     "w": "Full freezer about 48 hours; half-full about 24; fridge about 4."
    },
    {
     "q": "Which food do you eat first in a power cut?",
     "o": [
+     "Canned food, since it is safest",
      "The longest shelf life",
      "The shortest shelf life",
      "Canned food",
      "Frozen bread"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Shortest shelf life first."
    },
    {
     "q": "Perishable food above 5°C or 40°F for over 2 hours should be...",
     "o": [
-     "Refrozen",
-     "Discarded",
+     "Cooked hot and eaten at once",
+     "Tasted",
      "Cooked slowly",
-     "Tasted"
+     "Discarded",
+     "Refrozen"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Discard perishables after more than 2 hours above 5°C."
    }
   ],
@@ -147,6 +153,7 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "What are the five keys?",
     "o": [
      "Clean, separate, cook, temperature, safe water",
+     "Clean, separate, cook, chill fast and serve piping hot",
      "Wash, rinse, dry, store, serve",
      "Buy, store, cook, eat, bin",
      "Hot, cold, wet, dry, clean"
@@ -157,12 +164,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Freezing food...",
     "o": [
-     "Kills bacteria",
-     "Slows bacteria",
+     "Stops all growth for ever",
      "Sterilises",
-     "Stops all growth for ever"
+     "Kills bacteria after a month",
+     "Kills bacteria",
+     "Slows bacteria"
     ],
-    "a": 1,
+    "a": 4,
     "w": "It slows bacteria but does not kill them."
    }
   ],
@@ -178,34 +186,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "How long should you boil water to make it safe from germs?",
     "o": [
-     "1 minute, 3 above 2,000 m",
      "10 seconds",
+     "1 minute, 3 above 2,000 m",
      "10 minutes",
-     "Not at all"
+     "Not at all",
+     "3 minutes, 10 above 2,000 m"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Boil for 1 minute, 3 above 2,000 m."
    },
    {
     "q": "Boiling does not remove...",
     "o": [
+     "Cloudiness",
+     "Heat",
      "Germs",
      "Chemicals",
-     "Cloudiness",
-     "Heat"
+     "Bacteria"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Boiling treats germs, not chemicals."
    },
    {
     "q": "When using bleach to treat water, you should...",
     "o": [
-     "Use it at once",
      "Wait 30 minutes",
+     "Use it at once",
+     "Boil afterwards",
      "Add sugar",
-     "Boil afterwards"
+     "Wait 5 minutes"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Bleach needs a 30-minute wait and double if cloudy."
    }
   ],
@@ -244,21 +255,23 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "How long does a half-full freezer stay frozen?",
     "o": [
+     "About 12 hours",
      "About 4 hours",
-     "About 24 hours",
      "About 48 hours",
-     "A week"
+     "A week",
+     "About 24 hours"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Half-full about 24 hours."
    },
    {
     "q": "What do you do with perishables above 5°C for over 2 hours?",
     "o": [
-     "Refreeze",
+     "Taste",
      "Discard",
-     "Cook",
-     "Taste"
+     "Cook hot and eat",
+     "Refreeze",
+     "Cook"
     ],
     "a": 1,
     "w": "Discard."
@@ -276,32 +289,35 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Where may camping stoves and barbecues be used?",
     "o": [
-     "Indoors with a window open",
+     "In a porch",
+     "In a garage with the door open",
      "Outdoors only",
-     "In a garage",
-     "In a porch"
+     "Indoors with a window open",
+     "In a garage"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Stoves and barbecues are for outdoors only."
    },
    {
     "q": "Cook food until it is...",
     "o": [
+     "Hot on the outside and browned",
+     "Dry",
      "Warm",
      "Steaming hot all through",
-     "Brown",
-     "Dry"
+     "Brown"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Heat to 70°C or steaming hot all through."
    },
    {
     "q": "Carbon monoxide has...",
     "o": [
-     "A strong smell",
+     "A colour",
      "No smell",
      "A taste",
-     "A colour"
+     "A faint sweet smell",
+     "A strong smell"
     ],
     "a": 1,
     "w": "It has no smell."
@@ -342,12 +358,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "How long do you boil water for?",
     "o": [
-     "1 minute",
-     "10 seconds",
+     "Never",
      "10 minutes",
-     "Never"
+     "1 minute",
+     "3 minutes at sea level",
+     "10 seconds"
     ],
-    "a": 0,
+    "a": 2,
     "w": "1 minute, 3 above 2,000 m."
    },
    {
@@ -355,8 +372,9 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "o": [
      "Chemicals",
      "Germs",
-     "Cloudiness",
-     "Smell"
+     "Bacteria",
+     "Smell",
+     "Cloudiness"
     ],
     "a": 0,
     "w": "Chemicals."
@@ -375,20 +393,22 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "A use-by date is...",
     "o": [
      "A quality date",
-     "A safety date",
      "A price date",
+     "A best-quality guide",
+     "A safety date",
      "A sale date"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Use-by is a safety date; best-before is a quality date."
    },
    {
     "q": "Low-acid foods need...",
     "o": [
-     "A boiling-water canner",
-     "A pressure canner",
      "No treatment",
-     "A fridge only"
+     "A pressure canner",
+     "A fridge only",
+     "An open boiling pan",
+     "A boiling-water canner"
     ],
     "a": 1,
     "w": "Low-acid foods need pressure canning."
@@ -396,12 +416,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "An unknown jar should be...",
     "o": [
-     "Tasted",
+     "Shared",
      "Heated",
-     "Thrown out",
-     "Shared"
+     "Tasted",
+     "Boiled briefly",
+     "Thrown out"
     ],
-    "a": 2,
+    "a": 4,
     "w": "Unknown jar means throw it out."
    }
   ],
@@ -441,9 +462,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "Where must stoves and barbecues be used?",
     "o": [
      "Outdoors",
-     "Indoors",
      "In a shed",
-     "In a porch"
+     "In a garage",
+     "In a porch",
+     "Indoors"
     ],
     "a": 0,
     "w": "Outdoors only."
@@ -451,12 +473,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What core temperature is the rule for cooking?",
     "o": [
-     "70°C",
      "30°C",
-     "50°C",
-     "20°C"
+     "20°C",
+     "70°C",
+     "63°C",
+     "50°C"
     ],
-    "a": 0,
+    "a": 2,
     "w": "70°C or steaming hot."
    }
   ],
@@ -472,34 +495,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Food that touched floodwater should be...",
     "o": [
+     "Discarded, unless a sealed tin or pouch you can sanitise",
      "Washed and eaten",
-     "Discarded unless sealed metal or pouch you can sanitise",
-     "Cooked",
-     "Refrozen"
+     "Refrozen",
+     "Washed well in tap water and then cooked thoroughly before anyone eats it",
+     "Cooked"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Floodwater food: bin it unless it is sealed metal or pouch you can sanitise."
    },
    {
     "q": "Which channel is the most resilient for updates?",
     "o": [
      "A website",
+     "Social media",
      "Radio",
      "A text",
-     "Social media"
+     "A phone app"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Radio is the resilient channel."
    },
    {
     "q": "When should you write your 72-hour plan?",
     "o": [
-     "During the outage",
-     "Before you need it",
+     "In the first hour of an outage",
+     "Never",
      "Afterwards",
-     "Never"
+     "During the outage",
+     "Before you need it"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Write the plan down before you need it."
    }
   ],
@@ -539,9 +565,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "How should you order tins?",
     "o": [
      "By date, earliest first",
+     "By date, latest first at the front",
      "By size",
-     "By colour",
-     "By price"
+     "By price",
+     "By colour"
     ],
     "a": 0,
     "w": "Rotate by date."
@@ -549,12 +576,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Where do low-acid foods need canning?",
     "o": [
-     "Pressure canner",
      "Boiling-water canner",
      "Fridge",
+     "An open boiling pan",
+     "Pressure canner",
      "Oven"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Low-acid foods need pressure canning."
    }
   ],
@@ -570,32 +598,35 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "How long does a full freezer keep food frozen?",
     "o": [
+     "A month",
      "About 48 hours",
-     "About 4 hours",
      "A week",
-     "A month"
+     "About 4 hours",
+     "About 24 hours"
     ],
-    "a": 0,
+    "a": 1,
     "w": "About 48 hours with the doors shut."
    },
    {
     "q": "What is the outdoors rule?",
     "o": [
-     "Stoves and barbecues are for outdoors only",
-     "Indoors is fine",
      "Garages are fine",
-     "Porches are fine"
+     "Porches are fine",
+     "Indoors is fine with a window open wide",
+     "Indoors is fine",
+     "Stoves and barbecues are outdoors only"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Carbon monoxide has no smell."
    },
    {
     "q": "What is the boil time for germs?",
     "o": [
      "1 minute, 3 above 2,000 m",
-     "10 seconds",
      "10 minutes",
-     "5 minutes"
+     "5 minutes",
+     "10 seconds",
+     "3 minutes, 10 above 2,000 m"
     ],
     "a": 0,
     "w": "One minute, three above 2,000 m."
@@ -603,12 +634,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What is the botulism rule for unknown jars?",
     "o": [
-     "Throw them out",
      "Taste a little",
-     "Heat them",
-     "Share them"
+     "Throw them out",
+     "Boil them briefly",
+     "Share them",
+     "Heat them"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Unknown jar means throw it out."
    }
   ],

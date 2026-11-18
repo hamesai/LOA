@@ -1,6 +1,6 @@
 # Library of Alexandria: Directing for stage and screen
 
-Level: Intermediate. Created 15/11/2026.
+Level: Intermediate. Created 18/11/2026.
 
 Learn to direct a short scene for stage and for camera: read the script, work with actors using Stanislavski's tools, stage and shoot it, cut it for rhythm, and plan the space, designers and the last weeks before opening.
 

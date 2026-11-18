@@ -105,24 +105,26 @@
      "t": "check",
      "q": "How many fields make one interlaced frame?",
      "o": [
-      "One",
-      "Two",
+      "Two per line",
       "Three",
-      "Four"
+      "Four",
+      "Two",
+      "One"
      ],
-     "a": 1,
+     "a": 3,
      "w": "An interlaced frame is made from two fields. {{wiki-interlace}}"
     },
     {
      "t": "check",
      "q": "A PAL system shows 50 fields a second. What is its frame rate?",
      "o": [
-      "25",
-      "50",
       "100",
-      "24"
+      "30",
+      "50",
+      "24",
+      "25"
      ],
-     "a": 0,
+     "a": 4,
      "w": "Two fields make a frame, so 50 ÷ 2 = 25. {{wiki-interlace}}",
      "kind": "application"
     },
@@ -130,12 +132,13 @@
      "t": "check",
      "q": "You deinterlace old tape by discarding one field and doubling the other. What will you lose?",
      "o": [
+      "Louder sound",
       "Lower resolution and less smooth motion",
-      "Colour shifts",
+      "Nothing, since both fields hold the same picture",
       "A longer running time",
-      "Louder sound"
+      "Colour shifts"
      ],
-     "a": 0,
+     "a": 1,
      "w": "Line doubling discards half the lines and can make motion less smooth. {{fh-ch5b}}",
      "kind": "application"
     },
@@ -268,24 +271,26 @@
      "t": "check",
      "q": "Which was a professional format?",
      "o": [
+      "Betacam",
+      "Video8",
       "VHS",
       "Hi8",
-      "Betacam",
-      "Video8"
+      "Betamax"
      ],
-     "a": 2,
+     "a": 0,
      "w": "Betacam was a professional family. {{wiki-betacam}}"
     },
     {
      "t": "check",
-     "q": "You plan to put a VHS clip full-screen in a 1920-pixel HD edit. About how many pixels across does VHS give, and what will it look like?",
+     "q": "You plan to put a VHS clip full-screen in a 1920-pixel HD edit. About how many pixels across does VHS give?",
      "o": [
-      "About 320",
-      "About 560",
+      "About 1920",
       "About 1280",
-      "About 1920"
+      "About 320",
+      "About 720",
+      "About 560"
      ],
-     "a": 0,
+     "a": 2,
      "w": "VHS is about 240 TV lines, roughly 320 pixels. {{wiki-vhs}}",
      "kind": "application"
     },
@@ -293,12 +298,13 @@
      "t": "check",
      "q": "What is the first thing you need to digitise analog tape?",
      "o": [
-      "A video deck or camera that can play it",
-      "A faster memory card",
       "A new lens",
-      "A light meter"
+      "A light meter",
+      "A deck or camera that can play it",
+      "A capture card that records at 4K",
+      "A faster memory card"
      ],
-     "a": 0,
+     "a": 2,
      "w": "You normally need a video deck to play the tapes. You can rent one or have a facility make files. {{fh-ch14}}"
     },
     {
@@ -499,11 +505,12 @@
      "q": "In 2:3 pulldown, four film frames become how many video frames?",
      "o": [
       "Four",
-      "Five",
+      "Eight",
+      "Ten",
       "Six",
-      "Eight"
+      "Five"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Four film frames fill five video frames. {{wiki-telecine}}",
      "kind": "application"
     },
@@ -512,11 +519,12 @@
      "q": "A 90-minute film shot at 24 fps is shown at 25 fps. How long does it take?",
      "o": [
       "90 min",
-      "86.4 min",
       "93.75 min",
+      "88.5 min",
+      "86.4 min",
       "100 min"
      ],
-     "a": 1,
+     "a": 3,
      "w": "90 × 24 ÷ 25 = 86.4 minutes. This follows from the 4 percent speed-up. {{wiki-telecine}}",
      "kind": "application"
     },
@@ -524,8 +532,9 @@
      "t": "check",
      "q": "Your film must keep its original music pitch when broadcast in a PAL country. Which transfer method keeps speed and audio unchanged?",
      "o": [
-      "24+1 pulldown, which adds an extra field every 12 frames",
+      "24+1 pulldown, adding a field every 12 frames",
       "24@25 speed-up",
+      "24@25 speed-up with the audio pitch left as it is, at the faster speed",
       "Slowing the audio by 4 per cent",
       "Doubling the frame rate"
      ],
@@ -537,12 +546,13 @@
      "t": "check",
      "q": "Picture runs 0.1 per cent slow against sound at 24 fps. About how long until they are one frame apart?",
      "o": [
+      "About 4 seconds",
       "About 42 seconds",
-      "About 10 seconds",
+      "About an hour",
       "About 10 minutes",
-      "About an hour"
+      "About 10 seconds"
      ],
-     "a": 0,
+     "a": 1,
      "w": "A frame is about 0.0417 s, and 0.0417 ÷ 0.001 is about 42 s (our arithmetic). {{fh-ch16}}",
      "kind": "application"
     },
@@ -710,23 +720,25 @@
      "q": "What do you do first with tape footage before the edit?",
      "o": [
       "Colour grade",
-      "Deinterlace and convert it into a digital file",
-      "Add grain",
-      "Delete it"
+      "Grade it on the tape deck before you capture it",
+      "Delete it",
+      "Deinterlace and convert to a digital file",
+      "Add grain"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Tape footage is interlaced and must be captured and deinterlaced before a progressive edit. {{wiki-interlace}}"
     },
     {
      "t": "check",
      "q": "About how big is one 2K DPX scan of a 3600-frame cartridge?",
      "o": [
-      "About 3 GB",
+      "About 12 GB",
+      "About 3 TB",
       "About 30 GB",
       "About 300 GB",
-      "About 3 TB"
+      "About 3 GB"
      ],
-     "a": 1,
+     "a": 2,
      "w": "3600 frames at about 8.85 MB each is around 31.9 GB.",
      "kind": "application"
     },
@@ -735,9 +747,10 @@
      "q": "Using the handbook's figures, about how much more data does a 4K frame need than a 2K frame?",
      "o": [
       "About four times",
+      "About eight times",
       "About twice",
-      "The same",
-      "Half as much"
+      "Half as much",
+      "The same"
      ],
      "a": 0,
      "w": "A 2K frame is about 12 MB and a 4K frame about 50 MB, roughly four times as much. {{fh-ch16}}"
@@ -863,22 +876,24 @@
      "t": "check",
      "q": "In normal 2:3 pulldown, which film frame sits on exactly one video frame?",
      "o": [
-      "A",
-      "B",
+      "B and D",
+      "D",
       "C",
-      "D"
+      "B",
+      "A"
      ],
-     "a": 0,
+     "a": 4,
      "w": "Frame A is the only one transferred to both fields of a single video frame. {{fh-ch16}}"
     },
     {
      "t": "check",
      "q": "A three-frame shot at 30 fps corresponds to how many film frames?",
      "o": [
-      "2",
+      "3.75",
       "2.4",
       "3",
-      "3.75"
+      "2.5",
+      "2"
      ],
      "a": 1,
      "w": "Four film frames fill five video frames, so 3 × 4 ÷ 5 = 2.4 (our arithmetic). {{fh-ch16}}",
@@ -961,12 +976,13 @@
      "t": "check",
      "q": "Which luma range is legal for 8-bit broadcast HD?",
      "o": [
-      "0 to 255",
-      "16 to 235",
+      "64 to 940",
       "10 to 245",
-      "32 to 224"
+      "32 to 224",
+      "16 to 235",
+      "0 to 255"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Code 16 is black (0 per cent) and 235 is white (100 per cent). {{fh-ch14}}"
     },
     {
@@ -974,11 +990,12 @@
      "q": "Where does the programme begin on a standard broadcast master?",
      "o": [
       "00:00:00:00",
+      "01:30:00:00",
       "00:58:30:00",
-      "01:00:00:00",
-      "01:30:00:00"
+      "10:00:00:00",
+      "01:00:00:00"
      ],
-     "a": 2,
+     "a": 4,
      "w": "After the bars, slate and countdown, the programme begins at one hour. {{fh-ch14}}"
     },
     {
@@ -1048,12 +1065,13 @@
      "t": "check",
      "q": "Your assistant keeps putting the slate at the end of takes. Why does the handbook advise against tail slates?",
      "o": [
-      "The editor or operator must roll to the end, sync, and roll back",
       "They are too bright",
-      "They cost more film",
-      "They cannot be read"
+      "They cannot be read",
+      "The editor must roll to the end, sync, and roll back",
+      "Tail slates confuse the timecode, so sync is lost for good",
+      "They cost more film"
      ],
-     "a": 0,
+     "a": 2,
      "w": "It is slow and expensive, and the camera may stop before the slate. {{brown-production}}",
      "kind": "application"
     },
@@ -1061,12 +1079,13 @@
      "t": "check",
      "q": "What does leaving silver in the negative do?",
      "o": [
-      "Raises its density",
       "Lowers its density",
+      "Raises its density",
       "Removes colour only",
-      "Has no effect"
+      "Has no effect",
+      "Lowers its density and contrast"
      ],
-     "a": 0,
+     "a": 1,
      "w": "More silver means more density. {{brown-transfer}}"
     },
     {
@@ -1134,9 +1153,10 @@
      "q": "What does an edit decision list carry?",
      "o": [
       "The timecode of every shot",
-      "The grade only",
+      "The script notes for every shot",
       "The sound mix",
-      "The lens data"
+      "The lens data",
+      "The grade only"
      ],
      "a": 0,
      "w": "It carries the cut between systems. {{fh-ch14}}"
@@ -1145,12 +1165,13 @@
      "t": "check",
      "q": "Why finish in 4:2:2 10-bit rather than compressed 8-bit 4:2:0?",
      "o": [
-      "Titles, keys and recompression suffer in 4:2:0",
-      "It is smaller",
       "It is faster to shoot",
-      "It is analogue"
+      "It is analogue",
+      "4:2:0 cannot be played on any broadcast equipment at all",
+      "It is smaller",
+      "Titles, keys and recompression suffer in 4:2:0"
      ],
-     "a": 0,
+     "a": 4,
      "w": "The Handbook warns about 8-bit 4:2:0. {{fh-ch14}}"
     },
     {
@@ -1245,12 +1266,13 @@
      "t": "check",
      "q": "What are legal black and white codes in 8-bit component video?",
      "o": [
-      "16 and 235",
-      "0 and 255",
       "1 and 254",
-      "64 and 940"
+      "16 and 235",
+      "32 and 224",
+      "64 and 940",
+      "0 and 255"
      ],
-     "a": 0,
+     "a": 1,
      "w": "RGB runs 0 to 255, component legal range is 16 to 235. {{fh-ch5}}"
     },
     {
@@ -1258,9 +1280,10 @@
      "q": "A 1 TB drive shows roughly how much space?",
      "o": [
       "About 930 GB",
-      "About 1,100 GB",
       "Exactly 1,000 GB",
-      "About 500 GB"
+      "About 1,024 GB",
+      "About 500 GB",
+      "About 1,100 GB"
      ],
      "a": 0,
      "w": "The computer counts gigabytes of 2³⁰ bytes (our arithmetic). {{fh-ch5}}"
@@ -1379,24 +1402,26 @@
      "t": "check",
      "q": "What was special about Cinematograph Camera No. 1?",
      "o": [
+      "It was the first camera with an electric motor drive fitted",
       "First colour camera",
-      "First with reverse-cranking, so film could be exposed several times",
       "It used no film",
+      "First with reverse-cranking for multiple exposures",
       "It recorded sound"
      ],
-     "a": 1,
+     "a": 3,
      "w": "It was the first camera to feature reverse-cranking. {{wiki-paul}}"
     },
     {
      "t": "check",
      "q": "Three layers must add to one correct exposure. About how many stops under is each?",
      "o": [
+      "3",
       "1",
       "1.6",
-      "2",
-      "3"
+      "0.33",
+      "2"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Each gets a third of the light, which is log base 2 of 3, about 1.6 stops.",
      "kind": "application"
     },
@@ -1404,12 +1429,13 @@
      "t": "check",
      "q": "Why did Paul build his own camera?",
      "o": [
-      "He disliked Edison",
-      "Only bootleg copies of Edison films were available",
+      "Edison refused to sell any of his projectors to buyers in Britain",
       "He wanted colour",
-      "The law required it"
+      "The law required it",
+      "He disliked Edison",
+      "Only bootleg copies of Edison films were available"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The only films available were copies made for Edison machines. {{wiki-paul}}"
     },
     {

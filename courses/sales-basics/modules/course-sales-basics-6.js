@@ -99,12 +99,13 @@
      "t": "check",
      "q": "What does the text say a seller should do about a possible defect that a buyer may care about?",
      "o": [
+      "Discount without saying why",
+      "Stay quiet unless the buyer asks directly, since volunteering it loses sales",
       "Stay quiet unless asked",
-      "Disclose it, since withholding is lying",
-      "Give a discount without saying why",
+      "Disclose it: withholding it is lying",
       "Let the buyer discover it"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The text says to disclose anything affecting value or desirability. {{ps-ethics1}}"
     },
     {
@@ -112,9 +113,10 @@
      "q": "You cannot keep a promise you made. What does the text advise?",
      "o": [
       "Hope the customer forgets",
-      "Tell the customer immediately, explain and offer a new solution",
-      "Blame a colleague",
-      "Wait until they complain"
+      "Tell them at once, explain, and offer a new solution",
+      "Wait until they complain",
+      "Wait until the customer notices, then explain what went wrong",
+      "Blame a colleague"
      ],
      "a": 1,
      "w": "It advises immediate communication, an explanation, a new solution and an apology. {{ps-ethics1}}",
@@ -246,12 +248,13 @@
      "t": "check",
      "q": "You are drafting an Irish web offer. Which line would be a banned practice?",
      "o": [
+      "A written proposal",
       "A clear price list",
       "A false 'today only' offer",
       "A friendly greeting",
-      "A written proposal"
+      "A genuine sale price with an end date"
      ],
-     "a": 1,
+     "a": 2,
      "w": "False use of limited offers is on the banned list. {{ci-unfair}}",
      "kind": "application"
     },
@@ -259,12 +262,13 @@
      "t": "check",
      "q": "You sell office chairs to an Irish company. Do the Irish consumer rules on banned practices cover this sale?",
      "o": [
-      "Yes, always",
-      "No, they apply to sales between businesses and consumers",
+      "No: they cover business-to-consumer sales",
+      "Only online",
       "Only for large firms",
-      "Only online"
+      "Yes, always",
+      "Yes, since they cover every sale made in Ireland"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The page says the law does not cover sales between businesses. {{ci-unfair}}",
      "kind": "application"
     },
@@ -390,11 +394,12 @@
      "q": "Can you make an unsolicited live marketing call to a TPS-registered individual who is an existing customer?",
      "o": [
       "Yes, existing customers are exempt",
-      "Not unless they have specifically consented to your calls",
-      "Yes if you say who you are",
-      "Yes after 6pm"
+      "Yes, if you say who you are",
+      "Yes, after 6pm",
+      "Yes, since existing customers are always exempt from the TPS",
+      "Not unless they specifically consented to your calls"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The rule applies even to existing customers unless the person specifically consented (apart from narrow pension rules). {{ico-tel}}",
      "kind": "application"
     },
@@ -402,10 +407,11 @@
      "t": "check",
      "q": "You plan a cold marketing email campaign. Which of these recipients needs prior consent or the soft opt-in?",
      "o": [
-      "A limited company's general inbox",
+      "A Scottish partnership",
       "A sole trader",
-      "A government body",
-      "A Scottish partnership"
+      "A charity registered as a company",
+      "A limited company's general inbox",
+      "A government body"
      ],
      "a": 1,
      "w": "Sole traders and some partnerships are treated as individuals. {{ico-email}}",
@@ -500,12 +506,13 @@
      "t": "check",
      "q": "Which message is a service message, not marketing?",
      "o": [
-      "An appointment reminder with no promotion",
-      "A reminder with a discount offer",
       "A newsletter",
-      "A discount email"
+      "An appointment reminder with a small discount code",
+      "A discount email",
+      "A reminder with a discount offer",
+      "An appointment reminder with no promotion"
      ],
-     "a": 0,
+     "a": 4,
      "w": "A service message is for information only and cannot contain anything promotional. {{ico-b2b-small}}",
      "kind": "application"
     },
@@ -513,12 +520,13 @@
      "t": "check",
      "q": "What should you do when a business asks you to stop marketing to it?",
      "o": [
-      "Carry on, it is only email",
       "Stop, and record the objection",
+      "Carry on, since business inboxes have no rights",
+      "Carry on, it is only email",
       "Wait a month",
       "Ask three more times"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The ICO says businesses can object and you cannot keep marketing the personal data of someone who objected. {{ico-b2b}}"
     },
     {
@@ -660,36 +668,39 @@
      "t": "check",
      "q": "When did Cadbury announce it would buy no more cocoa from the islands?",
      "o": [
-      "1861",
-      "March 1909",
+      "March 1903",
       "1936",
-      "1951"
+      "1951",
+      "March 1909",
+      "1861"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The family account says it announced this in March 1909. {{wa-cadbury}}"
     },
     {
      "t": "check",
      "q": "Why does the lesson flag its main source?",
      "o": [
-      "It is secret",
-      "It is the firm's own, sympathetic account, and the pace was criticised",
       "It is wrong",
-      "It is long"
+      "It is an independent government report, so it is too critical of the firm",
+      "It is the firm's own sympathetic account, and the pace was criticised",
+      "It is long",
+      "It is secret"
      ],
-     "a": 1,
+     "a": 2,
      "w": "It is the family's account, and critics said the firm was slow. {{wa-cadbury}} {{jstor-higgs}}"
     },
     {
      "t": "check",
      "q": "According to the account, why did William not simply stop buying in 1903?",
      "o": [
-      "He did not care",
-      "He wanted any injustice put right, and withdrawal alone probably would not have helped",
+      "He did not believe the reports and thought the planters were treating workers fairly",
       "He needed the cocoa",
+      "He wanted it put right; withdrawal alone might not help",
+      "He did not care",
       "He did not believe the reports"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He wanted to see injustices put right, and only about 5 per cent of the cocoa went to England. {{wa-cadbury}}"
     },
     {

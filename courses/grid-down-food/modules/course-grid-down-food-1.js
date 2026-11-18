@@ -106,12 +106,13 @@
      "t": "check",
      "q": "You cooked a pot of rice at lunchtime and it has sat on the counter all afternoon. Which of the WHO five keys have you broken?",
      "o": [
-      "Keep clean",
-      "Separate raw and cooked",
       "Keep food at safe temperatures",
-      "Cook thoroughly"
+      "Separate raw and cooked",
+      "Use safe water and safe raw materials for cooking",
+      "Cook thoroughly",
+      "Keep clean"
      ],
-     "a": 2,
+     "a": 0,
      "w": "The WHO safe-temperatures key sets a 2-hour limit at room temperature. {{who5keys}}",
      "kind": "application"
     },
@@ -119,12 +120,13 @@
      "t": "check",
      "q": "You are reheating a big pan of stew on a camping stove. What temperature must it reach to be thoroughly cooked?",
      "o": [
+      "63 C (the hot-holding figure)",
       "50 C",
-      "60 C",
+      "100 F",
       "70 C",
-      "100 F"
+      "60 C"
      ],
-     "a": 2,
+     "a": 3,
      "w": "The WHO says to bring soups and stews to boiling so they reach 70 C. {{who5keys}}",
      "kind": "application"
     },
@@ -185,21 +187,21 @@
       [
        "Freezer",
        "Not stated",
-       "Not stated",
+       "-18 C or below (business pack) {{sfbb-manage}}",
        "-18 C or less {{fsai}}",
        "0 F or lower (-17.8 C) {{fsis}}"
       ],
       [
        "Hot holding",
        "Above 60 C {{who5keys}}",
-       "Not stated",
+       "63 C or above, a legal requirement (business pack) {{sfbb-manage}}",
        "Not stated",
        "Not stated on this page"
       ],
       [
        "Cook-through",
        "70 C {{who5keys}}",
-       "Steaming hot and cooked through {{fsa}}",
+       "Steaming hot and cooked through {{fsa}}; 70 C for 2 minutes or an equal time and temperature (business pack) {{sfbb-cook}}",
        "Over 75 C before refreezing {{fsai}}",
        "Not stated on this page"
       ]
@@ -213,6 +215,28 @@
     {
      "t": "p",
      "x": "The gap is about the starting limit and the time allowed: the UK 4-hour guide runs from a fridge that was already cold. {{fsa}}"
+    },
+    {
+     "t": "p",
+     "x": "The FSA's household power-cut page and its business pack answer different questions, so the business pack gives numbers the household page leaves out. Hot food must be kept at 63 C or above, and frozen food at -18 C or below. {{sfbb-manage}}"
+    },
+    {
+     "t": "p",
+     "x": "Cooking is a trade between time and temperature: the FSA lists 60 C for 45 minutes, 65 C for 10 minutes, 70 C for 2 minutes, 75 C for 30 seconds and 80 C for 6 seconds as safe combinations. {{sfbb-cook}}"
+    },
+    {
+     "t": "check",
+     "q": "Your probe shows the centre of a stew has held 75 C for a full minute. Using the FSA combinations, is it cooked safely?",
+     "o": [
+      "No: only 80 C counts",
+      "Yes: 75 C needs only 30 seconds",
+      "Yes: anything over 60 C is enough at once",
+      "No: 75 C must be held for 10 minutes before the stew is safe to serve",
+      "No: it must be 70 C for exactly 2 minutes"
+     ],
+     "a": 1,
+     "w": "The FSA lists 75 C for at least 30 seconds as a safe combination, so a minute at 75 C is more than enough. 60 C would need 45 minutes. {{sfbb-cook}}",
+     "kind": "application"
     },
     {
      "t": "example",
@@ -237,11 +261,12 @@
      "q": "A fridge thermometer reads 7 C during a UK power cut. What does the FSA say?",
      "o": [
       "Throw everything out",
-      "Food can be stored under 8 C in a power cut",
+      "Eat everything now",
       "Switch the fridge off",
-      "Eat everything now"
+      "Food must be below 5 C at all times, so throw it out",
+      "Food can be kept under 8 C in a power cut"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The FSA says that in power cuts food can be stored in fridges at temperatures under 8 C. {{fsa}}",
      "kind": "application"
     },
@@ -249,12 +274,13 @@
      "t": "check",
      "q": "A US guide says to keep hot food above 140 F. What is that in Celsius?",
      "o": [
+      "40 C",
       "50 C",
       "60 C",
-      "70 C",
-      "100 C"
+      "100 C",
+      "70 C"
      ],
-     "a": 1,
+     "a": 2,
      "w": "(140 - 32) x 5 / 9 = 60 C.",
      "kind": "application"
     },
@@ -299,6 +325,10 @@
     },
     {
      "t": "p",
+     "x": "The FSA business pack sets the shelf order: raw meat, poultry, fish and eggs below ready-to-eat food, and unwashed fruit and vegetables kept apart from ready-to-eat food and above raw meat. Prepare ready-to-eat food before raw food where you can, and do not wash raw meat or poultry, because washing kills nothing and splashes bacteria around the sink. {{sfbb-cross}}"
+    },
+    {
+     "t": "p",
      "x": "In a fridge, store raw meat on the bottom shelf so drips cannot fall on ready-to-eat food. {{fsai}}"
     },
     {
@@ -337,6 +367,14 @@
      "x": "After flooding, CDC gives 1 cup (240 mL) of unscented household bleach in 5 gallons of clean water for cans and non-food surfaces, and 1 tablespoon in 1 gallon for food-contact surfaces such as countertops and plates. Let items air dry. {{cdcfood}}"
     },
     {
+     "t": "p",
+     "x": "Cloths need their own rule. The FSA business pack prefers disposable cloths, one per task; re-usable cloths go on a hot 90 C wash, or are washed and then disinfected with boiling water or a suitable disinfectant, and it says bleach is not a suitable disinfectant for cloths. {{sfbb-cross}}"
+    },
+    {
+     "t": "p",
+     "x": "So the CDC bleach ratios are for surfaces after a flood, not for your cloths. Without a hot wash, boil cloths or use disposable ones (our application of the FSA rule)."
+    },
+    {
      "t": "example",
      "title": "Worked example: scaling the CDC sanitiser",
      "steps": [
@@ -348,7 +386,7 @@
     {
      "t": "callout",
      "k": "warn",
-     "x": "Sanitiser and wipes do not remove grease and soil. Wipe off visible dirt first, then sanitise."
+     "x": "Sanitiser and wipes do not remove grease and soil. The FSA calls this the two-stage clean: disinfectants only work on a surface already cleaned of grease and dirt, and need the contact time on the label. {{sfbb-cross}}"
     },
     {
      "t": "activity",
@@ -358,24 +396,26 @@
      "t": "check",
      "q": "The tap is off and you have no stored water. What does the FSA suggest for your hands?",
      "o": [
-      "Do nothing",
-      "Use alcohol-based hand sanitiser",
+      "Use bleach on skin",
+      "Wipe hands on a clean dry tea towel and carry on",
       "Rinse with floodwater",
-      "Use bleach on skin"
+      "Use alcohol-based hand sanitiser",
+      "Do nothing"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The FSA says alcohol-based hand sanitiser can be used if the water supply is affected. {{fsa}}"
     },
     {
      "t": "check",
      "q": "You are packing a crowded fridge before a storm: raw chicken, cooked ham and salad. Where should the chicken go?",
      "o": [
-      "Top shelf",
       "Bottom shelf",
+      "Beside the salads",
       "Door",
-      "Beside salads"
+      "Top shelf",
+      "Middle shelf, above the cooked ham"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Raw meat goes on the bottom shelf so drips cannot contaminate cooked food. {{fsai}}",
      "kind": "application"
     },
@@ -472,10 +512,11 @@
      "t": "check",
      "q": "A power cut has lasted 6 hours. A packed sandwich in the fridge is for a pregnant woman. What do the CMOs advise?",
      "o": [
-      "Eat it; the fridge was shut",
-      "Do not eat chilled ready-to-eat food after 4 hours without power",
+      "Freeze it",
+      "Don't eat chilled ready-to-eat food after 4 hours without power",
       "Warm it in the sun",
-      "Freeze it"
+      "Eat it; the fridge was shut",
+      "Eat it, since only raw meat goes off within 6 hours in a closed fridge"
      ],
      "a": 1,
      "w": "The CMOs advise at-risk groups not to eat ready-to-eat chilled food after 4 hours without power. {{cmo}}",
@@ -486,11 +527,12 @@
      "q": "Which groups are named as more likely to become seriously unwell?",
      "o": [
       "Only elderly people",
-      "Babies, young children, pregnant and breastfeeding women, older people, weakened immunity",
-      "Healthy adults",
-      "Athletes"
+      "Only babies and pregnant women, since older people and children have stronger stomachs",
+      "Babies, young children, pregnant women, older people, weak immunity",
+      "Athletes",
+      "Healthy adults"
      ],
-     "a": 1,
+     "a": 2,
      "w": "That is the CMO list. {{cmo}}"
     },
     {
@@ -519,6 +561,32 @@
     {
      "t": "p",
      "x": "Three numbers anchor the procedures. The standard cooking advice is a core temperature of 70 degrees Celsius for 2 minutes. {{gov-cook}} Chilled food must be kept at 8 degrees or below, which is a legal requirement in England, Wales and Northern Ireland, and a fridge set at 5 degrees or below is recommended. {{gov-chill}} A commercial freezer at minus 18 to minus 21 degrees delays deterioration and stops normal bacterial growth, but it does not kill bacteria. {{fsa-chill-biz}}"
+    },
+    {
+     "t": "p",
+     "x": "Writing the procedures down is the law, not a nicety: the FSA says it is an offence not to have food safety procedures based on HACCP, and its pack must be completed before you start, with a diary filled in every day. {{sfbb-start}}"
+    },
+    {
+     "t": "p",
+     "x": "People are a hazard too. Anyone with diarrhoea or vomiting reports it and stays away from food until they have had no symptoms for 48 hours, because they can still carry harmful bacteria for 48 hours afterwards. {{sfbb-cross}}"
+    },
+    {
+     "t": "p",
+     "x": "A limit is only as good as the thermometer. Check your probe about once a month: in iced water it should read between -1 C and 1 C, and in boiling water between 99 C and 101 C; outside that range, replace or recalibrate it. {{sfbb-manage}}"
+    },
+    {
+     "t": "check",
+     "q": "Your helper was sick on Monday night and felt fine by Tuesday lunchtime. When can they cook for sale again?",
+     "o": [
+      "Once they have taken a remedy and washed their hands",
+      "Straight away if they wear gloves",
+      "Tuesday afternoon, once they feel well",
+      "After one full day off",
+      "Not until 48 hours without symptoms"
+     ],
+     "a": 4,
+     "w": "The FSA says food handlers stay away until they have had no symptoms for 48 hours, because they can still carry harmful bacteria. Gloves do not replace this. {{sfbb-cross}}",
+     "kind": "application"
     },
     {
      "t": "table",
@@ -591,22 +659,24 @@
      "t": "check",
      "q": "How long before trading must a new food business register with its local authority?",
      "o": [
-      "7 days",
       "14 days",
+      "7 days",
+      "3 months",
       "28 days",
-      "3 months"
+      "Within 28 days after starting"
      ],
-     "a": 2,
+     "a": 3,
      "w": "You must register at least 28 days before you begin trading. {{gov-start}}"
     },
     {
      "t": "check",
      "q": "What does the FSA give as the standard cooking advice?",
      "o": [
-      "60 degrees for 10 seconds",
-      "A core temperature of 70 degrees for 2 minutes",
+      "Until the colour changes",
+      "A core of 70 degrees for 2 minutes",
+      "A core of 63 degrees for 2 minutes",
       "100 degrees for 1 minute",
-      "Until the colour changes"
+      "60 degrees for 10 seconds"
      ],
      "a": 1,
      "w": "Standard advice is 70 degrees at the core for 2 minutes. {{gov-cook}}"
@@ -740,36 +810,39 @@
      "t": "check",
      "q": "What did Pasteur find in the cotton wad after dust was drawn through it?",
      "o": [
-      "Only soot",
-      "Organised corpuscles like mould seeds among the soot and fibres",
+      "Nothing",
+      "Only soot and cotton fibres, with nothing living",
       "Water",
-      "Nothing"
+      "Only soot",
+      "Organised corpuscles like mould seeds"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Among the amorphous objects he found organised corpuscles that looked like mould seeds. {{pasteur-1864}}"
     },
     {
      "t": "check",
      "q": "Why did the long-necked open flask stay clear?",
      "o": [
-      "It was sealed",
-      "Dust fell on the curved neck before reaching the broth",
+      "It was frozen",
       "It had no air",
-      "It was frozen"
+      "Dust settled in the curved neck",
+      "Air could not reach the broth through the long neck",
+      "It was sealed"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The dust falls on the curved neck before reaching the liquid. {{pasteur-1864}}"
     },
     {
      "t": "check",
      "q": "What was the hidden source of error in Pouchet's experiment?",
      "o": [
-      "The hay",
-      "The vat of mercury, which carried dust into the flask",
+      "The mercury vat, carrying dust in",
+      "The hay infusion, which he had not boiled",
       "The water",
-      "The oxygen"
+      "The oxygen",
+      "The hay"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He showed that the mercury vat introduces dust. {{pasteur-1864}}"
     },
     {

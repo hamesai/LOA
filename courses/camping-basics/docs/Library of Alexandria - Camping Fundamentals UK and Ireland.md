@@ -1,6 +1,6 @@
 # Library of Alexandria: Camping fundamentals (UK and Ireland)
 
-Level: Beginner. Created 15/11/2026.
+Level: Beginner. Created 18/11/2026.
 
 Plan, pitch, sleep, cook, navigate and stay safe on a first camping trip in the UK and Ireland, within the law and with minimal impact.
 

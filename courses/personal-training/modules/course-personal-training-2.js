@@ -96,12 +96,13 @@
      "t": "check",
      "q": "Two new clients book a hard interval class: Jo has run three times a week for years; Ken has not exercised since school. On the evidence, who is at higher risk of a heart event during the session?",
      "o": [
-      "Habitually active people doing light exercise",
-      "Habitually inactive people doing vigorous exercise",
-      "Teenagers",
-      "People who warm up"
+      "Ken: inactive people doing vigorous work carry the higher risk",
+      "Jo, since years of running strain the heart more than starting fresh",
+      "Both carry the same risk",
+      "Jo: active people are more likely to push too hard",
+      "Neither: interval classes carry no risk"
      ],
-     "a": 1,
+     "a": 0,
      "w": "These events most commonly occur among inactive people performing vigorous-intensity activity. {{whitfield2017}}",
      "kind": "application"
     },
@@ -109,12 +110,13 @@
      "t": "check",
      "q": "A gym sends every new member over 40 to a doctor before their first session. What is the main cost of that policy?",
      "o": [
+      "It makes clients stronger",
       "It slows the gym down",
-      "It can stop people starting exercise",
+      "It catches every person at risk, so it has no cost",
       "It is illegal",
-      "It makes clients stronger"
+      "It can stop people starting exercise"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Referring too many adults for medical review creates a barrier to adopting exercise. {{whitfield2017}}",
      "kind": "application"
     },
@@ -239,22 +241,24 @@
      "t": "check",
      "q": "A client has been jogging 30 minutes three times a week for four months, has no disease and no symptoms, and wants to start sprinting. What does the algorithm say?",
      "o": [
+      "Medical clearance first, since sprinting is vigorous",
+      "Only walk",
       "Medical clearance first",
-      "Continue and progress gradually without clearance",
-      "Stop all exercise",
-      "Only walk"
+      "Continue and progress gradually, without clearance",
+      "Stop all exercise"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Currently exercising, no disease, no symptoms: continue moderate or vigorous exercise and progress gradually. {{whitfield2017}}"
     },
     {
      "t": "check",
      "q": "A sedentary client with type 1 diabetes and no symptoms wants to begin walking. What does the algorithm say?",
      "o": [
+      "Wait for a symptom",
+      "Medical clearance first",
       "No clearance needed",
-      "Seek medical clearance before any intensity",
       "Vigorous only",
-      "Wait for a symptom"
+      "No clearance, since there are no symptoms"
      ],
      "a": 1,
      "w": "Not exercising with known metabolic disease means clearance before exercise of any intensity. {{whitfield2017}}"
@@ -354,22 +358,24 @@
      "t": "check",
      "q": "Which statement fits the data on screening tools?",
      "o": [
+      "The ACSM algorithm referred more adults, since it is stricter than older tools",
       "The ACSM algorithm referred the most adults",
-      "The ACSM algorithm referred fewer adults than the older tools",
+      "The ACSM algorithm referred fewer adults than older tools",
       "All tools referred the same share",
       "PAR-Q referred 95%"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The algorithm referred fewer respondents than the AAPQ and PAR-Q. {{whitfield2017}}"
     },
     {
      "t": "check",
      "q": "Why should you not conclude the algorithm is 'safer' from the referral rates alone?",
      "o": [
-      "Referral rates measure accuracy of risk detection",
-      "Fewer referrals only matters if real risk is still detected, which needs validation",
-      "Rates are secret",
-      "It is older"
+      "It is older",
+      "Fewer referrals matter only if real risk is still caught",
+      "Fewer referrals prove that the algorithm detects risk more accurately",
+      "The rates are secret",
+      "Referral rates measure accuracy"
      ],
      "a": 1,
      "w": "The authors say more validation is needed to know whether it correctly identifies those at risk. {{whitfield2017}}"
@@ -468,24 +474,26 @@
      "t": "check",
      "q": "During a session a client says their arm feels heavy and they feel dizzy. What do you do?",
      "o": [
+      "Reduce the weight",
       "Finish the set",
-      "Stop, sit them down, call for help if it persists, and refer to a doctor",
       "Add a rest",
-      "Reduce the weight"
+      "Reduce the weight and finish the session at an easy, steady pace",
+      "Stop, sit them down, call for help if it persists, and refer"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Arm discomfort and dizziness are algorithm symptoms that require clearance before continuing. {{whitfield2017}}"
     },
     {
      "t": "check",
      "q": "You can offer a new client either one long induction or three shorter check-ins in the first month. Which reason supports the check-ins?",
      "o": [
-      "It earns more fees",
-      "Repeated encounters improved the effect of motivational counselling",
+      "Repeated contacts improved motivational counselling",
+      "Clients like invoices",
       "It is the law",
-      "Clients like invoices"
+      "One long session always works better than several short ones",
+      "It earns more fees"
      ],
-     "a": 1,
+     "a": 0,
      "w": "More than one encounter improved the effectiveness of motivational interviewing in the review. {{rubak2005}}",
      "kind": "application"
     },
@@ -620,24 +628,26 @@
      "t": "check",
      "q": "What did the 1980 abstract say vigorous exercise appeared to protect against?",
      "o": [
-      "Nothing",
-      "Rapidly fatal heart attacks and other first clinical attacks of coronary disease",
+      "All causes of death, including cancer and accidents",
       "Colds",
-      "Weight gain"
+      "Weight gain",
+      "Rapidly fatal and other first heart attacks",
+      "Nothing"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The abstract says it apparently protected against rapidly fatal heart attacks and other first clinical attacks. {{morris80b}}"
     },
     {
      "t": "check",
      "q": "A client asks whether starting to walk will stop them having a heart attack. Why should your answer say the habit is 'linked to' lower risk rather than that it 'will' prevent one?",
      "o": [
-      "It sounds modest",
-      "A group finding cannot forecast one person",
       "Law requires it",
-      "The studies were on women"
+      "The studies were on women",
+      "A group finding cannot forecast one person",
+      "Walking has no link with heart attacks at all",
+      "It sounds modest"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Group studies show associations, and one person's picture can differ.",
      "kind": "application"
     },
@@ -645,12 +655,13 @@
      "t": "check",
      "q": "What is the purpose of the benefit-first screening script?",
      "o": [
-      "To avoid screening",
-      "To explain that screening is about starting safely",
+      "To skip referrals",
       "To sell sessions",
-      "To skip referrals"
+      "To persuade clients that they do not need to see a doctor first",
+      "To avoid screening",
+      "To explain that screening is about starting safely"
      ],
-     "a": 1,
+     "a": 4,
      "w": "It explains the questions and finds who needs a doctor first."
     },
     {

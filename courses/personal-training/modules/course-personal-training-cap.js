@@ -84,12 +84,13 @@
      "t": "check",
      "q": "Which piece of Sam's history needs the most care before you start?",
      "o": [
-      "The old knee ache",
       "Being inactive for three years",
+      "Being inactive for three years, which needs medical clearance",
       "The goal of feeling stronger",
+      "The old knee ache",
       "The lunchtime schedule"
      ],
-     "a": 0,
+     "a": 3,
      "w": "A past knee ache may affect exercise choice; ask about current pain and adapt. If pain is new or worsening, refer. This is our coaching judgement."
     },
     {
@@ -203,12 +204,13 @@
      "t": "check",
      "q": "In the model answer, why is medical clearance not required for Sam?",
      "o": [
-      "Sam is rich",
-      "No known disease and no symptoms, so the algorithm advises light to moderate and gradual progress",
+      "No known disease or symptoms, so light to moderate with gradual progress",
+      "Sam has been inactive for three years, and inactivity alone never needs any clearance whatever the symptoms",
       "Sam is young",
+      "Sam is rich",
       "The gym allows it"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Under the algorithm, non-exercisers with no disease or symptoms may begin light to moderate exercise without clearance. {{whitfield2017}}"
     },
     {
@@ -295,10 +297,11 @@
      "t": "check",
      "q": "A file scores 2 on every row except Screening, where it scores 0. Does it pass?",
      "o": [
+      "Yes, since 8 of 10 is above the pass mark and screening is optional",
+      "No: no row can be zero, and the safety item is missing",
+      "Only if the client is young",
       "Yes, 8 of 10",
-      "No, because no row can be zero and the safety item is missing",
-      "Yes, because programme matters more",
-      "Only if the client is young"
+      "Yes, programme matters more"
      ],
      "a": 1,
      "w": "The rule is 8 or more with no zeros, and safety items are non-negotiable."
@@ -429,24 +432,26 @@
      "t": "check",
      "q": "Which is a source of self-efficacy in Bandura's model?",
      "o": [
-      "Performance accomplishments",
-      "Equipment cost",
       "Weather",
-      "Session length"
+      "Session length",
+      "The trainer's qualifications",
+      "Equipment cost",
+      "Performance accomplishments"
      ],
-     "a": 0,
+     "a": 4,
      "w": "He names performance accomplishments, vicarious experience, verbal persuasion and physiological states. {{bandura77}}"
     },
     {
      "t": "check",
      "q": "According to Bandura, why is verbal persuasion weaker than performance accomplishments?",
      "o": [
+      "It is slow",
       "It is expensive",
-      "It lacks an authentic experiential base and can be extinguished by a disconfirming experience",
+      "No first-hand base, so one bad experience can undo it",
       "It is illegal",
-      "It is slow"
+      "It is stronger, since words reach more people than experience does"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He says persuasion-induced expectations are weaker because they lack an experiential base. {{bandura77}}"
     },
     {
@@ -454,9 +459,10 @@
      "q": "In the success log, 11 of 12 sessions completed is about what percentage?",
      "o": [
       "75%",
-      "85%",
+      "100%",
       "92%",
-      "100%"
+      "85%",
+      "89%"
      ],
      "a": 2,
      "w": "11 ÷ 12 = 0.917."

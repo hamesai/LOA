@@ -106,24 +106,26 @@
      "t": "check",
      "q": "What does the working definition of oral tradition require?",
      "o": [
-      "A written copy",
-      "Word-of-mouth transmission over at least one generation",
-      "A king as author",
-      "A date"
+      "Transmission by word of mouth over at least one generation",
+      "A fixed text memorised word for word by trained specialists",
+      "Testimony written down by an outsider within a generation",
+      "Any story about the past told by members of a royal court",
+      "An account of events that the teller witnessed in person"
      ],
-     "a": 1,
+     "a": 0,
      "w": "That is the definition reported from his 1985 book. {{wiki-oral}}"
     },
     {
      "t": "check",
      "q": "Why should a date from a founding tradition be tagged traditional?",
      "o": [
-      "Griots are unreliable",
-      "Details thin in the floating gap and tellers shape the past",
-      "Oral tradition has no dates",
-      "Writing is always better"
+      "Oral tradition counts in generations, so it holds no dates at all",
+      "Founding stories are remembered best, so only later dates need tags",
+      "Details thin out in the floating gap, and tellers shape the past",
+      "The dates were added by colonial collectors who wrote stories down",
+      "Griots were paid by rulers, so every date they give is invented"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Vansina names the floating gap and the way tellers shape the past for present needs as the cautions. {{gha1-vansina}} {{vansina-jstor}}"
     },
     {
@@ -138,12 +140,13 @@
    "quiz": {
     "q": "Which historian is credited with making oral tradition a rigorous historical source?",
     "o": [
-     "Jan Vansina",
      "Walter Rodney",
+     "Julian Cobbing",
+     "Jan Vansina",
      "Ivor Wilks",
-     "Julian Cobbing"
+     "Cheikh Anta Diop"
     ],
-    "a": 0,
+    "a": 2,
     "w": "He and his students developed a rigorous approach in the 1960s. {{wiki-oral}}"
    }
   },
@@ -240,10 +243,11 @@
      "t": "check",
      "q": "A desert-edge group conquers a city, rules for three generations and loses its cohesion. Which of Ibn Khaldun's ideas is being applied?",
      "o": [
-      "The baqt",
+      "Heterarchy, power spread among groups",
       "Asabiya, group solidarity or feeling",
-      "Heterarchy",
-      "The tophet"
+      "The floating gap in oral tradition",
+      "The baqt, a treaty of mutual exchange",
+      "Hijra, migration for the sake of faith"
      ],
      "a": 1,
      "w": "Wikipedia gives asabiya as solidarity, group feeling or group consciousness. {{wiki-khaldun}}",
@@ -253,12 +257,13 @@
      "t": "check",
      "q": "Why is the Kebra Nagast better evidence of the winners' image than of the past?",
      "o": [
-      "It is very old",
-      "It was compiled after the change of power to legitimise it",
-      "It was written by Greeks",
-      "It names no kings"
+      "It names no kings, so it cannot be tied to any real events",
+      "It is so old that its account of events has become garbled",
+      "It was written by Greek visitors who misunderstood the court",
+      "It was compiled after the change of power, to legitimise it",
+      "It was translated from Arabic, so its original meaning is lost"
      ],
-     "a": 1,
+     "a": 3,
      "w": "It is a legitimising text."
     },
     {
@@ -273,12 +278,13 @@
    "quiz": {
     "q": "An essay explains the Zagwe-to-Solomonic change as a new group with strong cohesion replacing a tired one. Whose idea is it borrowing, and what must it still show?",
     "o": [
+     "The baqt; a treaty between the Zagwe and the Solomonids",
+     "Ibn Khaldun's asabiya; nothing more, as the idea is proven",
+     "Heterarchy; evidence that the Zagwe had no single king",
      "Ibn Khaldun's asabiya; evidence for that cohesion in 1270",
-     "Vansina's floating gap; nothing more",
-     "The baqt; a treaty",
-     "Heterarchy; a lack of kings"
+     "Vansina's floating gap; nothing more, as it explains itself"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Asabiya is a lens: it frames the question, and evidence must answer it. {{wiki-khaldun}}",
     "kind": "application"
    }
@@ -371,24 +377,26 @@
      "t": "check",
      "q": "What did Ibn Khaldun become in Cairo in 1384?",
      "o": [
-      "A sultan",
       "Professor and chief Maliki judge",
-      "A merchant",
-      "A Mahdi"
+      "Head librarian of the al-Azhar mosque",
+      "Vizier to the Mamluk sultan",
+      "Chief Hanafi judge of Egypt",
+      "Envoy to the court of Timur"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Wikipedia reports both appointments. {{wiki-khaldun}}"
     },
     {
      "t": "check",
      "q": "Why can a general lens not settle the Ghana question?",
      "o": [
-      "It is too old",
-      "The evidence is thin and late and archaeology shows no clear destruction",
-      "Ghana is not in Africa",
-      "Ibn Khaldun never mentioned it"
+      "The archaeology already proves the conquest, so no lens is needed",
+      "Ibn Khaldun never mentioned Ghana, so his ideas cannot reach it",
+      "The lens is too old to apply to West African states at all",
+      "The evidence is thin and late, and no clear destruction is found",
+      "Lenses settle questions only when written sources are absent"
      ],
-     "a": 1,
+     "a": 3,
      "w": "A lens frames questions; evidence answers them."
     },
     {
@@ -403,9 +411,10 @@
     "q": "What did Ibn Khaldun do in Egypt in 1384?",
     "o": [
      "Became chief Maliki judge in Cairo",
-     "Founded Marrakesh",
-     "Conquered Ghana",
-     "Wrote the Sundiata epic"
+     "Wrote down the Sundiata epic",
+     "Served as envoy to Mansa Musa's court",
+     "Founded the city of Marrakesh",
+     "Led an army against Ghana"
     ],
     "a": 0,
     "w": "He was appointed professor and Maliki qadi. {{wiki-khaldun}}"
@@ -505,12 +514,13 @@
      "t": "check",
      "q": "Ibn Battuta writes that he travelled along 'the Nile' in Mali. How should you read that passage?",
      "o": [
-      "As proof the Nile reaches Mali",
-      "As his mistake: the river was the Niger, which he took for the Nile",
-      "As a later forgery",
-      "As a reference to the Senegal"
+      "As proof that a branch of the Nile once reached as far as Mali",
+      "As a figure of speech: 'Nile' was his word for any great river",
+      "As a reference to the Senegal, a river he never actually saw",
+      "As a later forgery, added to his account by his editor Ibn Juzayy in Fez",
+      "As his mistake: the river was the Niger, which he took for the Nile"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Wikipedia reports that he believed the Niger to be the Nile. {{wiki-battuta}}",
      "kind": "application"
     },
@@ -519,9 +529,10 @@
      "q": "Why is he not the right source for Musa's pilgrimage?",
      "o": [
       "He was in Mali in 1352 to 53, decades later",
-      "He never left Morocco",
-      "He wrote in Greek",
-      "He was Musa's rival"
+      "He never left Morocco, so he wrote at second hand",
+      "He was Musa's rival, so his account is hostile",
+      "He wrote in Greek, and the translation is weak",
+      "He was in Cairo in 1324, but only as a child"
      ],
      "a": 0,
      "w": "He describes the court, not Musa's trip."
@@ -539,8 +550,9 @@
     "o": [
      "Ibn Juzayy",
      "Al-Umari",
+     "Al-Sa'di",
      "Leo Africanus",
-     "Al-Sa'di"
+     "Ibn Khaldun"
     ],
     "a": 0,
     "w": "At the suggestion of the Marinid ruler. {{wiki-battuta}}"
@@ -639,12 +651,13 @@
      "t": "check",
      "q": "You quote The History of the Yorubas (1921) as Samuel Johnson's words. What must you add?",
      "o": [
-      "Nothing",
-      "He finished in 1897 but the manuscript was lost; his brother Obadiah rebuilt the text from notes, so it is a joint product",
-      "It was written in 1500",
-      "It was banned"
+      "It was written in 1500 and only translated by Johnson in the 1890s",
+      "It is a translation from Yoruba by Obadiah, so Samuel's own English wording is lost",
+      "The manuscript was lost and his brother rebuilt it from notes, so it is joint",
+      "Nothing: Samuel Johnson finished and published it himself in 1921",
+      "It was banned by the colonial government, so the text was censored"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The brother reconstructed it after his death. {{bu-johnson}}",
      "kind": "application"
     },
@@ -652,12 +665,13 @@
      "t": "check",
      "q": "Why is the 1921 text called a joint product?",
      "o": [
-      "Two authors wrote it from scratch",
-      "Obadiah rewrote the book from Samuel's notes after the manuscript was lost",
-      "It is a translation",
-      "It was banned"
+      "Samuel wrote it, and Obadiah added footnotes from Church records",
+      "It was banned and rewritten by colonial editors before printing",
+      "Two authors wrote it from scratch, each taking half the chapters",
+      "Obadiah rebuilt the book from Samuel's notes after it was lost",
+      "It is a translation of Yoruba praise poems by several hands"
      ],
-     "a": 1,
+     "a": 3,
      "w": "That is the account in both sources. {{cup-johnson}}"
     },
     {
@@ -671,12 +685,13 @@
    "quiz": {
     "q": "Who reconstructed The History of the Yorubas after Samuel Johnson's death?",
     "o": [
-     "Obadiah Johnson",
      "Henry Townsend",
      "Leo Frobenius",
-     "Robin Law"
+     "Samuel Ajayi Crowther",
+     "Robin Law",
+     "Obadiah Johnson"
     ],
-    "a": 0,
+    "a": 4,
     "w": "His brother, a Lagos doctor. {{bu-johnson}}"
    }
   },
@@ -774,24 +789,26 @@
      "t": "check",
      "q": "What did Ibn Battuta say of Kilwa?",
      "o": [
-      "It was a ruin",
       "One of the finest and most beautifully built towns",
-      "It was Portuguese",
-      "It had no mosque"
+      "A poor fishing town with no mosque worth the name",
+      "A town of reed huts, rich but poorly built",
+      "A ruin, abandoned after the gold trade moved north",
+      "A Portuguese trading post with a stone fort"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Wikipedia quotes his judgement. {{wiki-battuta}}"
     },
     {
      "t": "check",
      "q": "How should you give the date of his visit?",
      "o": [
-      "Exactly 1330",
-      "About 1330 to 1331",
       "1505",
-      "1698"
+      "Exactly 1330",
+      "1698",
+      "About 1330 to 1331",
+      "About 1352 to 1353"
      ],
-     "a": 1,
+     "a": 3,
      "w": "His chronology is uncertain. {{wiki-battuta}}"
     },
     {
@@ -805,12 +822,13 @@
    "quiz": {
     "q": "What was Kilwa when Ibn Battuta visited?",
     "o": [
-     "An important transit centre of the gold trade",
      "A Portuguese fort",
-     "A Roman port",
-     "An Omani capital"
+     "The capital of the Omani sultanate",
+     "An important transit centre of the gold trade",
+     "A small fishing village with a single stone mosque",
+     "A Roman port"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Per Wikipedia. {{wiki-battuta}}"
    }
   },
@@ -908,24 +926,26 @@
      "t": "check",
      "q": "What does Vansina's method suggest about differences between versions of a tradition?",
      "o": [
-      "Discard them",
-      "They can signal shifts and struggles worth analysing",
-      "They prove forgery",
-      "They never occur"
+      "They never occur in well-kept court traditions",
+      "They prove that at least one version is a forgery",
+      "Average them to recover the original version",
+      "Discard them and keep only what all the versions share",
+      "They can signal shifts and struggles worth analysing"
      ],
-     "a": 1,
+     "a": 4,
      "w": "That is the later emphasis reported on the Oral tradition page. {{wiki-oral}}"
     },
     {
      "t": "check",
      "q": "A 70-year-old speaks in 1905. Could they have met Shaka (d. 1828)?",
      "o": [
-      "Yes",
       "No, they were born about 1835",
-      "Only if from Natal",
-      "Unknown"
+      "Yes, as a small child",
+      "Only if they came from Natal",
+      "Unknown, as ages are uncertain",
+      "Yes, they were born about 1825"
      ],
-     "a": 1,
+     "a": 0,
      "w": "1905 minus 70 is 1835. This is our arithmetic."
     },
     {
@@ -942,8 +962,9 @@
     "o": [
      "The gap between event and recording",
      "Its length in words",
-     "The speaker's height",
-     "The price of the book"
+     "The number of later retellings",
+     "The price of the book it appears in",
+     "The speaker's home village"
     ],
     "a": 0,
     "w": "Gap and speaker's age show whether it is first-hand. {{wiki-oral}}"
@@ -1048,24 +1069,26 @@
      "t": "check",
      "q": "What did Carretta's records question?",
      "o": [
-      "Equiano's literacy",
       "Equiano's account of being born in Africa",
-      "The abolition of the trade",
-      "Voyages totals"
+      "The date of the British abolition of the trade",
+      "Equiano's ability to read and write in English",
+      "The Voyages totals for the eighteenth century",
+      "Equiano's account of buying his own freedom"
      ],
-     "a": 1,
+     "a": 0,
      "w": "A baptism record and a muster roll point to Carolina. {{wiki-equiano}}"
     },
     {
      "t": "check",
      "q": "A teacher uses Equiano's life to stand for a typical enslaved person's experience. What should you point out?",
      "o": [
-      "It is typical",
-      "His experience was unusual: he avoided field work and was taught to read and write",
-      "He was never enslaved",
-      "He never travelled"
+      "It is typical, since most enslaved people were taken to sea as he was",
+      "It is typical of the British colonies, though not of the Spanish or Portuguese ones",
+      "He was never enslaved, as Carretta's records proved in 1999",
+      "He never travelled beyond Virginia, so his range is too narrow",
+      "His life was unusual: he avoided field work and learned to read and write"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Wikipedia says his experience was very different from most. {{wiki-equiano}}",
      "kind": "application"
     },
@@ -1081,12 +1104,13 @@
    "quiz": {
     "q": "What did Carretta find in 1999 that questioned Equiano's account of his birth?",
     "o": [
+     "A Voyages table of ships arriving in Virginia",
+     "A Portuguese letter naming Equiano's ship",
+     "A Kano Chronicle entry on Igbo captives",
      "A baptism record and a muster roll listing Carolina",
-     "A Portuguese letter",
-     "A Voyages table",
-     "A Kano Chronicle entry"
+     "A letter from Equiano admitting he was born in London"
     ],
-    "a": 0,
+    "a": 3,
     "w": "He called the evidence compelling but not conclusive. {{wiki-equiano}}"
    }
   },
@@ -1185,9 +1209,10 @@
      "q": "What four things does the template ask for?",
      "o": [
       "Date, carrier, purpose, second check",
-      "Price, size, colour, place",
       "Author, title, publisher, ISBN",
-      "Weather, mood, time, place"
+      "Price, size, colour, place",
+      "Date, author, length, language",
+      "Date, place, teller and size of audience"
      ],
      "a": 0,
      "w": "Gap, carrier and purpose, and a second kind of evidence. {{wiki-oral}}"
@@ -1198,8 +1223,9 @@
      "o": [
       "127 years",
       "100 years",
+      "137 years",
       "160 years",
-      "200 years"
+      "117 years"
      ],
      "a": 0,
      "w": "1655 minus 1528 is 127. This is our arithmetic."

@@ -79,6 +79,14 @@
      "x": "Speculation does not always look reckless. It often arrives as a tip, a trend or a feeling that everyone else is making money."
     },
     {
+     "t": "p",
+     "x": "Mackay's account of the Dutch tulip mania marks the turning point Graham describes: the rich stopped buying bulbs to keep in their gardens and bought them to sell again at a profit. Everyone imagined the passion would last for ever, people of every rank turned property into cash to buy, and when the prudent saw that somebody must lose, prices fell and never rose again. {{mackay-tulip}} Mackay wrote in 1841, two centuries later, so take his pattern rather than his prices as fact (our caution)."
+    },
+    {
+     "t": "p",
+     "x": "A modern version is buying new share issues the moment they list. Burton Malkiel, cited in the OpenStax textbook, reports that new issues have underperformed the market by about 4% a year, and launching one costs the company 5% to 8% of the money raised. {{os-ch12}}"
+    },
+    {
      "t": "table",
      "title": "Graham's test applied to six everyday choices (our application)",
      "head": [
@@ -160,12 +168,13 @@
      "t": "check",
      "q": "Under Graham's distinction, what makes an operation an investment?",
      "o": [
-      "It is popular",
-      "Analysis that promises safety of principal and an adequate return",
+      "Analysis promising safety of principal and adequate return",
+      "It has a catchy name",
       "It was recommended online",
-      "It has a catchy name"
+      "A high expected return, whatever the safety of the money put in",
+      "It is popular"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Graham links investment to thorough analysis, safety of principal and an adequate return. {{graham-ii}}"
     },
     {
@@ -173,23 +182,25 @@
      "q": "Which of these is closest to Graham's idea of speculation?",
      "o": [
       "A decision based on analysis and safety of principal",
-      "A purchase made in hope of a price rise without sound analysis",
+      "Buying after careful analysis that promises an adequate return",
+      "A diversified fund",
       "A savings account",
-      "A diversified fund"
+      "Buying in hope of a rise, without sound analysis"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Operations that do not meet the analysis and safety test are speculative. {{graham-ii}}"
     },
     {
      "t": "check",
      "q": "You buy a share only because a post says it will double. Under Graham's three demands, which does it fail?",
      "o": [
-      "None",
-      "Analysis, protection and an adequate return aim",
+      "Only analysis",
       "Only protection",
-      "Only analysis"
+      "Analysis, protection and an adequate return aim",
+      "None, since the post gave a clear, specific forecast",
+      "None"
      ],
-     "a": 1,
+     "a": 2,
      "w": "There is no analysis, no protection and an extraordinary return is hoped for. {{graham-ii}}"
     },
     {
@@ -267,6 +278,14 @@
     },
     {
      "t": "p",
+     "x": "Fisher's own book, published the following year, shows his reasoning. He reported studies showing that shares yield more than bonds in the long run, called the safety of bonds largely illusory because of inflation, and said diversification through investment trusts reduced the risk of shares. {{fisher30-ch9}} The long-run argument was sound; the mistake was ignoring the price paid. He also warned that during a boom, when business people are over-hopeful, prices can run out of line with what later events justify. {{fisher30-ch9}}"
+    },
+    {
+     "t": "p",
+     "x": "John Law, author of the Mississippi scheme of 1719-1720, is the earlier case: he never doubted his plan, put all his gains into French land, and left France almost a beggar. {{mackay-mississippi}} Our inference: sincere conviction by a clever person is not a margin of safety."
+    },
+    {
+     "t": "p",
      "x": "Our inference: a confident forecast is not evidence, and a margin of safety is a defence against being wrong."
     },
     {
@@ -286,6 +305,14 @@
     {
      "t": "p",
      "x": "No one can know what an asset is worth to the penny. A more honest approach is to estimate a range, and to base the margin on the low end."
+    },
+    {
+     "t": "p",
+     "x": "Estimates are fragile. In a dividend valuation model, a single percentage point change in the assumed growth rate or required return can move the fair price by as much as 10 to 20%. {{os-ch11}} That is the practical case for buying well below your estimate."
+    },
+    {
+     "t": "p",
+     "x": "Fisher explains where value comes from: an orchard is worth 100,000 because its net crop is worth 5,000 a year at 5 per cent interest, not the other way round. {{fisher30-ch3}} Our inference: value an investment by the income it can produce, and treat a price that the income cannot support as speculation."
     },
     {
      "t": "example",
@@ -356,10 +383,11 @@
      "t": "check",
      "q": "What is the purpose of a margin of safety?",
      "o": [
-      "To guarantee a profit",
+      "To increase your risk",
       "To protect against error in your estimate",
+      "To guarantee a profit",
       "To avoid paying fees",
-      "To increase your risk"
+      "To guarantee that the price will rise to your estimate"
      ],
      "a": 1,
      "w": "The margin is a cushion against error, not a promise of gain. Our reading of Chapter 20. {{graham-ii}}"
@@ -368,24 +396,26 @@
      "t": "check",
      "q": "You estimate a share is worth £120 and want a 25% margin of safety. What is your maximum price?",
      "o": [
-      "£90",
+      "£95",
       "£100",
-      "£110",
-      "£120"
+      "£120",
+      "£90",
+      "£110"
      ],
-     "a": 0,
+     "a": 3,
      "w": "£120 × 0.75 is £90. This is our arithmetic."
     },
     {
      "t": "check",
      "q": "You estimate value between £60 and £80 and want a 25% margin on the low end. What is your maximum price?",
      "o": [
-      "£60",
       "£45",
-      "£50",
-      "£75"
+      "£60",
+      "£52.50",
+      "£75",
+      "£50"
      ],
-     "a": 1,
+     "a": 0,
      "w": "£60 × 0.75 is £45. Our arithmetic on Graham's idea. {{graham-ii}}"
     },
     {
@@ -418,6 +448,14 @@
     {
      "t": "p",
      "x": "The FCA's three first questions are: is it unexpected, do you feel pressured to act quickly, and does the offer sound too good to be true? {{fca-scams}}"
+    },
+    {
+     "t": "p",
+     "x": "These warning signs are three centuries old. In 1720 one promoter advertised a company for carrying on an undertaking of great advantage, but nobody to know what it is, asking a 2 pound deposit per share and promising 100 pounds a year per share; he took 2,000 pounds in five hours and left for the Continent. {{mackay-southsea}}"
+    },
+    {
+     "t": "p",
+     "x": "Respectable backing is not protection either. The South Sea scheme had an Act of Parliament and the Chancellor of the Exchequer behind it, its books were later found falsified, and he was sent to the Tower. {{mackay-southsea}} In modern times Enron's bonds were rated investment grade about two months before its bankruptcy in 2001. {{os-ch10}}"
     },
     {
      "t": "h",
@@ -529,12 +567,13 @@
      "t": "check",
      "q": "Someone unexpectedly offers you a guaranteed high return, and asks you to act today. What is the first step?",
      "o": [
+      "Share your bank details",
       "Invest today to avoid missing out",
       "Check the FCA Firm Checker and Warning List",
       "Send a deposit to hold your place",
-      "Share your bank details"
+      "Ask the caller for their FCA number and check it on the website they give you"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Check the firm first. Unsolicited offers and pressure are warning signs. {{fca-scams}} {{mh-scams}}",
      "kind": "application"
     },
@@ -542,24 +581,26 @@
      "t": "check",
      "q": "Which body's Warning List should you check for unauthorised firms?",
      "o": [
-      "The Bank of England",
-      "The FCA",
+      "The Financial Ombudsman",
+      "The Post Office",
       "HMRC",
-      "The Post Office"
+      "The Bank of England",
+      "The FCA"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The FCA publishes a Warning List of unauthorised firms. {{fca-scams}}"
     },
     {
      "t": "check",
      "q": "An offer promises 2% a week. Roughly how much is that over a year, compounded?",
      "o": [
-      "About 2%",
-      "About 104%",
+      "About 5%",
       "About 180%",
-      "About 5%"
+      "About 2%",
+      "About 52%",
+      "About 104%"
      ],
-     "a": 2,
+     "a": 1,
      "w": "1.02^52 is about 2.80, so £1,000 would become about £2,800, a gain of about 180%. Our arithmetic."
     },
     {
@@ -679,7 +720,7 @@
     },
     {
      "t": "p",
-     "x": "The sources we read describe the tactics, not the psychology, so the labels below are our own, offered as a way to notice yourself."
+     "x": "The FCA and MoneyHelper describe the tactics. Older writers describe the psychology: Mackay wrote that men think in herds and go mad in herds, recovering their senses slowly, one by one. {{mackay-preface}} The labels below are our own, offered as a way to notice yourself."
     },
     {
      "t": "ul",
@@ -692,7 +733,37 @@
     },
     {
      "t": "p",
+     "x": "Fisher's list of what makes people spend now at the expense of later is still a good mirror: short-sightedness, a weak will, the habit of spending freely, following fashion, and giving in to high-powered salesmen of things that commit the buyer beyond their income. {{fisher30-ch4}}"
+    },
+    {
+     "t": "p",
      "x": "Overconfidence also deserves a place on this list, and it does not need a scammer. On 15 October 1929 the economist Irving Fisher said stock prices looked like a permanently high plateau, and on 28/10/1929 the Dow fell nearly 13%. {{fed-1929}} If a leading economist can be confidently wrong, a confident stranger certainly can."
+    },
+    {
+     "t": "p",
+     "x": "Knowing about bubbles does not make you immune. In 1719 two Paris scholars, La Motte and the Abbé Terrasson, congratulated each other on being free of the Mississippi mania, then met days later at the share office, each going to buy. {{mackay-mississippi}} The same account describes holders who kept the falling paper in the hope of a favourable turn rather than take a safe annuity, until it became worthless. {{mackay-mississippi}}"
+    },
+    {
+     "t": "p",
+     "x": "In 1720 the poet John Gay was urged by friends to sell enough South Sea stock to secure a hundred a year for life; he refused, dreaming of splendour, and lost profit and principal. {{mackay-southsea}}"
+    },
+    {
+     "t": "p",
+     "x": "Jumping out after a fright has a cost too: 10,000 in an S&P 500 index fund from 1980 to mid-2020 grew to 697,421, but missing just the 5 best days cut it to 432,411 and missing the 10 best to 313,377. {{os-ch12}}"
+    },
+    {
+     "t": "check",
+     "q": "Shares you bought have doubled, and a friend says to sell some and lock in a secure income. Which historical case warns against refusing?",
+     "o": [
+      "Isaac Newton, who sold too early and never bought back in",
+      "Fisher's rule of 72",
+      "The SPIVA scorecard",
+      "John Gay in 1720, who refused and lost it all",
+      "Markowitz's railway example"
+     ],
+     "a": 3,
+     "w": "Gay was urged to take a secure gain and refused, then lost both profit and principal. {{mackay-southsea}}",
+     "kind": "application"
     },
     {
      "t": "h",
@@ -739,12 +810,13 @@
      "t": "check",
      "q": "A website matches the name of an authorised firm. What is the safest check?",
      "o": [
-      "Trust it, because it looks professional",
-      "Look the firm up yourself on the FCA Register using independent details",
-      "Ask the website whether it is genuine",
-      "Pay a small deposit to test it"
+      "Ask the website if it is genuine",
+      "Pay a small deposit to test it",
+      "Trust it, as it looks professional",
+      "Use the phone number on the website to ask whether the firm is genuine",
+      "Look it up yourself on the FCA Register"
      ],
-     "a": 1,
+     "a": 4,
      "w": "MoneyHelper warns about cloned websites and points you to the FCA Firm Checker. {{mh-scams}}"
     },
     {
@@ -752,9 +824,10 @@
      "q": "What is a recovery room scam?",
      "o": [
       "A refund from your bank",
-      "An offer to recover lost money for a fee, often aimed at someone already scammed",
+      "An offer to recover lost money for a fee, aimed at past victims",
+      "A regulated service",
       "A type of savings account",
-      "A regulated service"
+      "A regulated service that helps victims claim from the compensation scheme"
      ],
      "a": 1,
      "w": "The FCA describes offers to get your money back after you pay a fee. {{fca-scams}}"
@@ -770,7 +843,7 @@
    ]
   },
   {
-   "id": "l6",
+   "id": "l5",
    "title": "Practice: write your own investing rules",
    "min": 27,
    "blocks": [
@@ -850,36 +923,39 @@
      "t": "check",
      "q": "Elena's net assets are £60,000. Using the 10% rule of thumb on net assets, what is her cap on high-risk holdings?",
      "o": [
+      "£6,000",
       "£600",
       "£3,000",
-      "£6,000",
+      "£12,000",
       "£10,000"
      ],
-     "a": 2,
+     "a": 0,
      "w": "10% of £60,000 is £6,000. {{fca-risk}}"
     },
     {
      "t": "check",
      "q": "Why write the rule for a 30% fall before it happens?",
      "o": [
-      "Because falls are certain to be 30%",
-      "Because decisions made while calm are less likely to be panic decisions",
       "Because it prevents losses",
+      "Because falls are certain to be 30%",
+      "Because writing the rule down prevents the fall from causing losses",
+      "Calm decisions are less likely to be panic ones",
       "Because the law requires it"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The aim is to separate the decision from the fear. Our inference."
     },
     {
      "t": "check",
      "q": "A stranger offers Elena a guaranteed high return and presses her to act today. What does her rulebook tell her to do?",
      "o": [
-      "Act quickly before it closes",
-      "Not act, and check the firm on the FCA Register",
+      "Ask the stranger for proof",
       "Invest half",
-      "Ask the stranger for proof"
+      "Not act, and check the firm on the FCA Register",
+      "Act quickly before it closes",
+      "Ask the stranger for written proof of the guarantee, then decide"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Unexpected, pressured and too good to be true are the FCA's warning signs. {{fca-scams}}",
      "kind": "application"
     },
@@ -894,7 +970,7 @@
    ]
   },
   {
-   "id": "l5",
+   "id": "l6",
    "title": "The lecturer's method: Benjamin Graham",
    "min": 24,
    "blocks": [
@@ -986,12 +1062,13 @@
      "t": "check",
      "q": "What makes an operation an investment, in Graham's test?",
      "o": [
-      "Popularity",
-      "Analysis that promises safety of principal and an adequate return",
+      "A high expected return, whatever the safety of the money put in",
+      "A recent tip",
       "A catchy name",
-      "A recent tip"
+      "Popularity",
+      "Analysis promising safety of principal and adequate return"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Analysis, safety of principal and an adequate return. {{lec-graham-ii}}"
     },
     {
@@ -1000,8 +1077,9 @@
      "o": [
       "£60",
       "£70",
-      "£75",
-      "£80"
+      "£80",
+      "£55",
+      "£75"
      ],
      "a": 0,
      "w": "£80 × 0.75 is £60. Our arithmetic. {{lec-graham-ii}}"

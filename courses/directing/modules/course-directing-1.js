@@ -103,12 +103,13 @@
      "t": "check",
      "q": "A first-time director plans to decide every detail alone and only tell the designers at the end. Which picture of the role in Garcia's account does this miss?",
      "o": [
+      "The sole author of the show, whose plan the designers simply carry out to the letter",
       "The only person who knows the answer",
-      "A leader and the hub of communication between the artists",
       "A manager who stays out of creative choices",
+      "A leader and the hub of communication between the artists",
       "An actor with extra duties"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Garcia calls the director a leader and the central hub of communication. {{garcia}}",
      "kind": "application"
     },
@@ -117,11 +118,12 @@
      "q": "On opening night the director wants to keep calling cues from the booth. Whose job is running the show now, in Garcia's process?",
      "o": [
       "The director",
-      "The designer",
       "The stage manager",
-      "The producer"
+      "The producer",
+      "The director, until the run ends",
+      "The lighting designer"
      ],
-     "a": 2,
+     "a": 1,
      "w": "Garcia has the director hand control to the stage manager at opening. {{garcia}}",
      "kind": "application"
     },
@@ -249,25 +251,27 @@
      "t": "check",
      "q": "You are marking a script. Hamlet is alone, then Horatio enters, then Hamlet speaks a second line. Where does a new French scene begin?",
      "o": [
-      "A change of lighting",
-      "A character entering or leaving",
-      "The playwright's scene heading",
-      "A change of speaker"
+      "At the next lighting change",
+      "Nowhere: a French scene changes only at the playwright's printed scene headings",
+      "At the playwright's next scene heading",
+      "When Hamlet speaks his second line",
+      "When Horatio enters"
      ],
-     "a": 1,
+     "a": 4,
      "w": "A French scene begins and ends when a character enters or leaves. {{garcia}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "Halfway through your play the hero seems to have won, but it falls apart later. Which point of Garcia's story shape is this, and what does it usually feel like?",
+     "q": "Halfway through your play the hero seems to have won, but it falls apart later. Which point of Garcia's story shape is this?",
      "o": [
-      "The end of the conflict",
-      "A false victory or false defeat",
-      "A new character's introduction",
-      "The closing image"
+      "The closing image, which mirrors the opening picture of the play",
+      "The resolution, which closes the story's questions",
+      "A false victory (or false defeat) at the midpoint",
+      "The climax, which usually feels like the end of the conflict",
+      "The inciting incident, which starts the story"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The midpoint is a false victory or defeat, because the final confrontation is still to come. {{garcia}}",
      "kind": "application"
     },
@@ -363,12 +367,13 @@
      "t": "check",
      "q": "An actor wants to step forward and tell the audience the play's message in the last scene. What does Garcia suggest the theme should feel like instead?",
      "o": [
-      "A lecture they have been given",
       "Something they worked out for themselves",
       "A mystery with no answer",
-      "A joke"
+      "A joke",
+      "A clear statement, spoken directly to them in the last scene",
+      "A lecture they have been given"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He wants the audience to feel they figured the message out. {{garcia}}",
      "kind": "application"
     },
@@ -376,12 +381,13 @@
      "t": "check",
      "q": "You are told your audience is 'everyone aged 18 to 70'. Why would Garcia narrow that to about a ten-year window?",
      "o": [
-      "Law requires it",
-      "Tastes and values change across age groups",
       "Ticket prices are set by age",
-      "It is cheaper to market"
+      "It is cheaper to market",
+      "The law requires it",
+      "Venues sell tickets in ten-year bands, so the numbers must match",
+      "Tastes and values change across age groups"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He says people develop different interests and values as they age, so the play should reflect them. {{garcia}}",
      "kind": "application"
     },
@@ -493,12 +499,13 @@
      "t": "check",
      "q": "In Spoto's account of Strangers on a Train, what did Hitchcock add to the novel to build the film's design?",
      "o": [
-      "A system of doubles and crossings",
+      "A new murderer and a happier ending for Guy",
+      "More dialogue",
       "A new ending",
-      "A different setting only",
-      "More dialogue"
+      "A system of doubles and crossings",
+      "A different setting only"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Spoto lists the doubles, crossings, tennis, lighter and dark backgrounds as changes or additions. {{spoto-ch23}}"
     },
     {
@@ -509,24 +516,26 @@
      "t": "check",
      "q": "What is mise-en-scène in the film textbook's account?",
      "o": [
-      "The editing rhythm",
-      "The overall look built from setting, character, lighting and composition",
+      "The overall look from setting, character, lighting and composition",
+      "Everything the editor does afterwards to arrange the shots into their final order",
       "The score",
-      "The script"
+      "The script",
+      "The editing rhythm"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It is the overall look, built from design elements. {{cwc}}"
     },
     {
      "t": "check",
      "q": "Which choice is NOT in the film textbook's list of design elements?",
      "o": [
-      "Setting",
+      "Composition",
       "Character design",
-      "Lighting",
-      "Casting"
+      "Casting",
+      "Setting",
+      "Lighting"
      ],
-     "a": 3,
+     "a": 2,
      "w": "The four elements are setting, character, lighting and composition. {{cwc}}"
     },
     {
@@ -627,12 +636,13 @@
      "t": "check",
      "q": "In act one a character hides a key in a vase; in act three the key opens the door that saves her. Which device is this?",
      "o": [
-      "Introduce a detail early that returns later with new meaning",
-      "Pay the actors early",
-      "Plan the budget first",
-      "Repeat a line three times"
+      "A French scene",
+      "A plant and payoff",
+      "A dramatic loop",
+      "A counteraction that blocks the main action",
+      "A false victory"
      ],
-     "a": 0,
+     "a": 1,
      "w": "A setup early makes the ending feel earned. {{spoto-ch3}}",
      "kind": "application"
     },
@@ -640,10 +650,11 @@
      "t": "check",
      "q": "In Vertigo, why did Hitchcock reveal the secret midway?",
      "o": [
-      "To save money",
+      "To surprise the audience with a twist they could not have guessed",
       "To trade surprise for suspense and make us watch the hero",
-      "Because the studio demanded it",
-      "To shorten the film"
+      "To save money",
+      "To shorten the film",
+      "Because the studio demanded it"
      ],
      "a": 1,
      "w": "Spoto says he sacrificed surprise to gain suspense. {{spoto-ch31}}"
@@ -794,36 +805,39 @@
      "t": "check",
      "q": "What did Granville-Barker say about Shakespeare's use of time?",
      "o": [
-      "It follows the calendar strictly",
       "Time has dramatic uses but no rights of its own",
+      "Time must be explained in a prologue",
+      "It follows the calendar strictly",
       "Time is irrelevant",
-      "Time must be explained in a prologue"
+      "Time must run as on a clock, so a scene lasts as long as its events"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He says time has its dramatic uses, but no rights of its own. {{gb-companion}}"
     },
     {
      "t": "check",
      "q": "What did Granville-Barker add in front of the proscenium arch for his Savoy productions?",
      "o": [
-      "A trapdoor",
-      "An apron",
       "A second balcony",
+      "A trapdoor",
+      "An orchestra pit",
+      "An apron",
       "A curtain wall"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Moore says he extended an apron out in front of the proscenium to approximate a platform stage. {{gb-prefaces}}"
     },
     {
      "t": "check",
      "q": "How did Barker decide whether to cut a line?",
      "o": [
+      "Cut by length alone",
       "Cut every difficult line",
-      "Cut for a reason, keeping obscurity that served the character",
       "Never cut",
-      "Cut by length alone"
+      "Cut every obscure line, since audiences cannot follow them",
+      "Cut for a reason, keeping obscurity that served character"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He cut six lines as unclear but kept an obscure speech as a deliberate effect. {{gb-prefaces}}"
     },
     {

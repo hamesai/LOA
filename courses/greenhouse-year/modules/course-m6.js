@@ -97,12 +97,13 @@
      "t": "check",
      "q": "A colleague sprays every Monday whether or not pests are seen. What does UConn say decisions should rest on instead?",
      "o": [
-      "A calendar spray schedule",
-      "Information from a regular monitoring programme",
+      "Neighbours' advice",
       "The cheapest product",
-      "Neighbours' advice"
+      "A regular monitoring programme",
+      "A calendar spray schedule",
+      "The product label's recommended weekly interval"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Decisions are based on information gathered from a regular monitoring programme.",
      "kind": "application"
     },
@@ -110,12 +111,13 @@
      "t": "check",
      "q": "You have sprayed the same product for whitefly all season and it works less each time. What is the likely reason?",
      "o": [
-      "They cost too much",
-      "Resistance is more likely to develop in the pest population",
-      "They make plants grow too fast",
-      "They damage the benches"
+      "The product breaks down in the bottle after a few weeks",
+      "The product costs too much",
+      "It damages the benches",
+      "It makes plants grow too fast",
+      "The pest population is developing resistance"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Missouri Extension: overreliance increases the likelihood that resistance will develop.",
      "kind": "application"
     },
@@ -227,12 +229,13 @@
      "t": "check",
      "q": "Your hose end lies on the wet floor between waterings. What does UConn advise?",
      "o": [
-      "Leaving hose ends on the floor",
-      "Keeping hose ends off the floor",
-      "Heavy watering every day",
-      "Crowding plants"
+      "Keep hose ends off the floor",
+      "Crowd plants to shade the floor",
+      "Water heavily every day",
+      "Leave it, as the floor is clean",
+      "Leave it on the floor, since running water flushes any germs"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Keeping hose ends off the floor helps prevent many root and stem diseases.",
      "kind": "application"
     },
@@ -240,12 +243,13 @@
      "t": "check",
      "q": "Your greenhouse air is dry and warm through July and mites are spreading. Which condition is favouring them?",
      "o": [
-      "Cool and wet",
-      "Warm and humid",
+      "Dark and still air",
       "Dry air with a high vapour pressure deficit",
-      "Dark and still"
+      "Warm and humid air",
+      "Cool, damp air with little vapour pressure deficit",
+      "Cool and wet air"
      ],
-     "a": 2,
+     "a": 1,
      "w": "The 2026 review links dry, high-VPD conditions to mites and thrips.",
      "kind": "application"
     },
@@ -391,14 +395,15 @@
     },
     {
      "t": "check",
-     "q": "Your greenhouse is 2,000 square feet. At UConn's minimum, how many sticky cards should you hang?",
+     "q": "Your greenhouse is 2,000 square feet. At UConn's minimum of one card per 1,000 square feet, how many sticky cards should you hang?",
      "o": [
-      "One per 100 square feet",
-      "One per 1,000 square feet",
-      "One per 10,000 square feet",
-      "One per greenhouse regardless of size"
+      "Twenty (one per 100 square feet)",
+      "Two hundred (one per 10 square feet)",
+      "One per greenhouse",
+      "Two (one per 1,000 square feet)",
+      "Half a card"
      ],
-     "a": 1,
+     "a": 3,
      "w": "At the minimum, one card per 1,000 square feet, plus extra near entrances and vents.",
      "kind": "application"
     },
@@ -406,12 +411,13 @@
      "t": "check",
      "q": "Which scouting pattern does UConn recommend?",
      "o": [
-      "Straight line only",
       "An M or zigzag pattern",
+      "Straight line only",
       "Random jumping",
-      "Only check the door"
+      "Only check the door",
+      "A single line down the central walkway"
      ],
-     "a": 1,
+     "a": 0,
      "w": "An M or zigzag pattern gives good coverage."
     },
     {
@@ -577,24 +583,26 @@
      "t": "check",
      "q": "What is inoculation?",
      "o": [
-      "Releasing many natural enemies for short-term control",
-      "Releasing a few natural enemies early so they establish and give long-term control",
+      "Releasing large numbers of enemies at once for short-term control",
       "Spraying with soap",
+      "Releasing a few enemies early so they establish",
+      "Releasing many enemies for quick control",
       "Removing screens"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Inoculation establishes a population; inundation is the short-term mass release."
     },
     {
      "t": "check",
-     "q": "You are about to release parasitic wasps for whitefly. What should you do with your yellow sticky cards first, and why?",
+     "q": "You are about to release parasitic wasps for whitefly. What should you do with your yellow sticky cards first?",
      "o": [
-      "Cards attract pests",
-      "Cards can capture the parasitoids",
-      "Cards block airflow",
-      "Cards are toxic"
+      "Move them nearer the plants",
+      "Add more cards",
+      "Leave them up: cards attract only pests",
+      "Take them down: cards can trap the parasitoids",
+      "Leave them up: the parasitoids are too small to be caught on sticky cards"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Missouri Extension: sticky cards can attract and capture parasitoids, so replace them a week later.",
      "kind": "application"
     },
@@ -602,10 +610,11 @@
      "t": "check",
      "q": "Which of your crops is the best candidate for biological control: a long tomato crop in a steady climate, or short bedding crops in a house that swings in temperature?",
      "o": [
-      "Short crops in variable conditions",
-      "Long crops with constant temperature and humidity",
-      "Empty houses",
-      "Outdoor beds"
+      "Neither",
+      "The long tomato crop in a steady climate",
+      "Both equally",
+      "The short bedding crops",
+      "The short bedding crops, since their pests are fewer"
      ],
      "a": 1,
      "w": "Biological control tends to be more effective in long crops and constant conditions.",
@@ -758,24 +767,26 @@
      "t": "check",
      "q": "What did Carson say should come before reaching for the spray gun?",
      "o": [
-      "Nothing",
-      "Finding out first whether any other method can be used",
       "A bigger sprayer",
-      "A ban on farming"
+      "Nothing",
+      "Checking that the spray is on the approved list",
+      "A ban on farming",
+      "Finding out first if any other method works"
      ],
-     "a": 1,
+     "a": 4,
      "w": "She said to consider the whole problem and find out first whether any other method can be used. {{carson-1963}}"
     },
     {
      "t": "check",
      "q": "Did she advocate abandoning chemical control altogether?",
      "o": [
+      "Only for gardens",
       "Yes",
-      "No; she said chemicals have a place, used sparingly and selectively",
       "Only for farms",
-      "Only for gardens"
+      "No: chemicals have a place, used sparingly",
+      "Yes: she called for a total ban on all pesticides"
      ],
-     "a": 1,
+     "a": 3,
      "w": "She said she had not advocated complete abandonment. {{carson-1963}}"
     },
     {
@@ -783,11 +794,12 @@
      "q": "Why might broad spraying lead to a pest returning?",
      "o": [
       "It adds nutrients",
+      "It improves pollination",
       "It can weaken natural checks on the pest",
       "It warms the house",
-      "It improves pollination"
+      "It washes off the pest's eggs so they hatch elsewhere"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The summary says weakening the environment's checks lets a species reproduce explosively. {{ss-carson}}"
     },
     {

@@ -663,10 +663,11 @@ ARCHIVE_ADD({
    {
     "q": "What is the WHO time limit for cooked food at room temperature?",
     "o": [
-     "30 minutes",
+     "12 hours",
      "2 hours",
      "6 hours",
-     "12 hours"
+     "4 hours",
+     "30 minutes"
     ],
     "a": 1,
     "w": "No more than 2 hours."
@@ -674,34 +675,37 @@ ARCHIVE_ADD({
    {
     "q": "What does the WHO say stews should reach?",
     "o": [
-     "50 C",
      "60 C",
-     "70 C",
-     "80 C"
+     "63 C",
+     "50 C",
+     "80 C",
+     "70 C"
     ],
-    "a": 2,
+    "a": 4,
     "w": "Bring to boiling to reach 70 C."
    },
    {
     "q": "What can you use on hands if the tap is off?",
     "o": [
-     "Nothing",
      "Alcohol-based sanitiser",
+     "Nothing",
+     "Bleach",
      "River water",
-     "Bleach"
+     "A clean, dry tea towel only"
     ],
-    "a": 1,
+    "a": 0,
     "w": "The FSA suggests alcohol-based sanitiser."
    },
    {
     "q": "You are feeding a family with a toddler, a teenager and two healthy adults during an outage. Who is in a higher-risk group?",
     "o": [
-     "Healthy adults",
+     "Teenagers, since they eat the most",
+     "Athletes",
      "Young children",
      "Teenagers",
-     "Athletes"
+     "Healthy adults"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Young children are named by the FSA and CMOs.",
     "kind": "application"
    },
@@ -709,22 +713,24 @@ ARCHIVE_ADD({
     "biz": 1,
     "q": "Which is true of a home kitchen that supplies food regularly to the public?",
     "o": [
-     "It does not need to register",
-     "It is a food business and must register with the local authority",
+     "It needs a shop front",
      "It only needs insurance",
-     "It needs a shop front"
+     "It does not need to register",
+     "It is a food business and must register",
+     "It needs to register only once it has a paid employee"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Regular supply makes it a food business, and registration is required 28 days before trading."
    },
    {
     "lec": 1,
     "q": "What did Pasteur's swan-neck flask show about boiled broth kept from fresh air?",
     "o": [
-     "It spoils at once",
+     "It boils again",
      "It stays sterile",
+     "It spoils after a week",
      "It turns to vinegar",
-     "It boils again"
+     "It spoils at once"
     ],
     "a": 1,
     "w": "The liquid stayed unaltered because dust could not reach it. {{pasteur-1864}} {{brit-pasteur}}"
@@ -734,10 +740,11 @@ ARCHIVE_ADD({
    {
     "q": "The power has been off for 3 hours and you have not opened the fridge. Is the food still safe on the FSA guidance?",
     "o": [
-     "1 hour",
-     "About 4 hours",
-     "12 hours",
-     "48 hours"
+     "No: chilled food must be thrown out after 2 hours with no power, even unopened",
+     "Yes: a closed fridge keeps food cold for about 4 hours",
+     "Yes: it keeps for 48 hours",
+     "Yes: it keeps for 12 hours",
+     "No: food is unsafe after 1 hour"
     ],
     "a": 1,
     "w": "About 4 hours.",
@@ -746,31 +753,34 @@ ARCHIVE_ADD({
    {
     "q": "A full freezer holds for about...",
     "o": [
-     "8 hours",
-     "24 hours",
      "48 hours",
-     "7 days"
+     "8 hours",
+     "7 days",
+     "24 hours",
+     "4 hours"
     ],
-    "a": 2,
+    "a": 0,
     "w": "About 48 hours, 24 if half full."
    },
    {
     "q": "Ice cream that has thawed should be...",
     "o": [
+     "Refrozen if still cold",
+     "Eaten",
      "Refrozen",
      "Discarded",
-     "Eaten",
      "Cooked"
     ],
-    "a": 1,
+    "a": 3,
     "w": "FSIS says discard."
    },
    {
     "q": "In the FSA order, what comes last?",
     "o": [
-     "Chilled food",
-     "Canned, bottled and dried food",
      "Defrosted food",
+     "Canned, bottled and dried food",
+     "Chilled food",
+     "Defrosted frozen food that needs cooking",
      "Meat"
     ],
     "a": 1,
@@ -780,24 +790,26 @@ ARCHIVE_ADD({
     "biz": 1,
     "q": "Which is a sensible first action when the power goes off and you hold frozen stock?",
     "o": [
-     "Open the freezer to check",
-     "Keep the lid closed and note the time",
      "Move everything to the fridge",
-     "Sell it quickly"
+     "Open it to check the temperature, then move stock to the fridge",
+     "Sell it quickly",
+     "Open the freezer to check",
+     "Keep the lid shut and note the time"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Keep the lid closed and note the time, as the FSA advises keeping doors closed."
    },
    {
     "lec": 1,
     "q": "Which is true of pasteurization?",
     "o": [
+     "It is the same as freezing",
      "It kills every microbe and spore",
      "It does not destroy all microbes or spores",
-     "It works only on milk",
-     "It is the same as freezing"
+     "It kills every microbe, but it leaves the spores alive",
+     "It works only on milk"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Pasteurization does not destroy all microbes or microbial spores. {{brit-pasteurization}}"
    }
   ],
@@ -805,69 +817,75 @@ ARCHIVE_ADD({
    {
     "q": "How long to boil clear water at sea level?",
     "o": [
-     "10 seconds",
-     "1 minute",
      "10 minutes",
-     "1 hour"
+     "1 hour",
+     "10 seconds",
+     "3 minutes",
+     "1 minute"
     ],
-    "a": 1,
+    "a": 4,
     "w": "1 minute."
    },
    {
     "q": "Can boiling remove fuel from water?",
     "o": [
-     "Yes",
      "No",
+     "Yes",
      "Only with salt",
-     "Only above 100 C"
+     "Only above 100 C",
+     "Yes, if boiled for 10 minutes"
     ],
-    "a": 1,
+    "a": 0,
     "w": "No."
    },
    {
     "q": "How many drops of 5-9% bleach per litre of clear water?",
     "o": [
+     "20",
      "1",
      "2",
      "10",
-     "20"
+     "8"
     ],
-    "a": 1,
+    "a": 2,
     "w": "2 drops per litre."
    },
    {
     "q": "How long must bleach-treated water stand?",
     "o": [
      "5 minutes",
+     "2 hours",
+     "None, if you stir it well",
      "10 minutes",
-     "At least 30 minutes",
-     "2 hours"
+     "At least 30 minutes"
     ],
-    "a": 2,
+    "a": 4,
     "w": "At least 30 minutes."
    },
    {
     "biz": 1,
     "q": "What should a home food business do when it cannot wash hands and equipment properly?",
     "o": [
-     "Carry on as usual",
-     "Pause cooking for sale and check with the local authority",
+     "Tell no one",
      "Use more sanitiser only",
-     "Tell no one"
+     "Carry on trading, using hand sanitiser instead of washing",
+     "Pause cooking for sale and check with the local authority",
+     "Carry on as usual"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Pause and confirm with the local authority. This is our reasoning, not a quoted FSA rule."
    },
    {
     "lec": 1,
     "q": "What was Snow's 1854 deaths-per-10,000-houses figure for Southwark and Vauxhall customers?",
     "o": [
-     "37",
-     "59",
      "315",
-     "1,263"
+     "1,263",
+     "59",
+     "71",
+     "37"
     ],
-    "a": 2,
+    "a": 0,
     "w": "The secondary table gives 315 per 10,000 houses, from a different measure than the first-four-weeks rate. {{snow-ije}}"
    }
   ],
@@ -875,57 +893,62 @@ ARCHIVE_ADD({
    {
     "q": "Where must camping stoves be used?",
     "o": [
-     "Kitchen",
-     "Garage",
      "Outdoors",
-     "Bedroom"
+     "Bedroom",
+     "Kitchen",
+     "An open porch",
+     "Garage"
     ],
-    "a": 2,
+    "a": 0,
     "w": "Outdoors only."
    },
    {
     "q": "Carbon monoxide is...",
     "o": [
-     "Smelly",
-     "Odourless and colourless",
+     "Harmless",
      "Green",
-     "Harmless"
+     "Odourless and colourless",
+     "Faintly sweet-smelling, like gas",
+     "Smelly"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Colourless, tasteless and odourless."
    },
    {
     "q": "If vomiting, you should...",
     "o": [
-     "Cook for others",
      "Avoid preparing food for others",
-     "Cook faster",
-     "Skip handwashing"
+     "Cook, but wear disposable gloves",
+     "Skip handwashing",
+     "Cook for others",
+     "Cook faster"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Avoid preparing food for others."
    },
    {
     "q": "How to thaw meat safely?",
     "o": [
      "On the counter",
-     "In the fridge, cold water or microwave then cook",
+     "On the stove",
      "In a warm oven",
-     "On the stove"
+     "On the counter overnight, then cook it well",
+     "Fridge, cold water or microwave, then cook"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Never at room temperature."
    },
    {
     "biz": 1,
     "q": "Which core temperature and time is the standard FSA cooking advice?",
     "o": [
-     "50 degrees for 1 minute",
-     "63 degrees for 10 seconds",
+     "100 degrees for 1 second",
      "70 degrees for 2 minutes",
-     "100 degrees for 1 second"
+     "60 degrees for 10 minutes",
+     "50 degrees for 1 minute",
+     "63 degrees for 10 seconds"
     ],
-    "a": 2,
+    "a": 1,
     "w": "Standard advice is 70 degrees at the core for 2 minutes."
    },
    {
@@ -933,11 +956,12 @@ ARCHIVE_ADD({
     "q": "Which is a Rumford-style way to save fuel?",
     "o": [
      "Cook without a lid",
-     "Use a covered pot and control the heat",
+     "Boil hard, so the food cooks faster overall",
      "Boil harder",
+     "Use a covered pot and control the heat",
      "Open the oven often"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Covers confine the heat, and controlling the burn saves fuel. {{rumford-psm}}"
    }
   ],
@@ -945,55 +969,60 @@ ARCHIVE_ADD({
    {
     "q": "Low-acid foods are home-canned using...",
     "o": [
-     "Boiling-water canner",
+     "An open boiling pan",
+     "Oven",
      "Pressure canner",
-     "Slow cooker",
-     "Oven"
+     "Boiling-water canner",
+     "Slow cooker"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Pressure canning."
    },
    {
     "q": "Garlic oil in the fridge lasts at most...",
     "o": [
+     "30 days",
+     "2 weeks",
      "1 day",
      "4 days",
-     "30 days",
      "6 months"
     ],
-    "a": 1,
+    "a": 3,
     "w": "4 days."
    },
    {
     "q": "A freezer should be at...",
     "o": [
+     "0 C",
      "-6 C",
      "-12 C",
-     "-18 C or less",
-     "0 C"
+     "-4 C (just frozen)",
+     "-18 C or less"
     ],
-    "a": 2,
+    "a": 4,
     "w": "-18 C or less."
    },
    {
     "q": "An unknown home-canned jar should be...",
     "o": [
      "Tasted",
+     "Frozen",
      "Thrown out",
-     "Boiled briefly then eaten",
-     "Frozen"
+     "Shared",
+     "Boiled briefly then eaten"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Throw it out."
    },
    {
     "biz": 1,
     "q": "Which statement about alcohol in a food range is correct?",
     "o": [
-     "Any home kitchen may sell it",
-     "Selling alcohol is regulated by licensing, so take advice",
+     "Only shops need licences",
+     "Alcohol sales need a licence, so take advice",
+     "Homemade alcohol can be sold freely if it is labelled clearly",
      "It needs no checks if homemade",
-     "Only shops need licences"
+     "Any home kitchen may sell it"
     ],
     "a": 1,
     "w": "Selling alcohol is covered by licensing law, so ask the local authority."
@@ -1002,12 +1031,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "Who later explained why Appert's sealed and heated jars kept food?",
     "o": [
-     "Rumford",
      "Louis Pasteur",
      "Snow",
+     "Rumford",
+     "Justus von Liebig",
      "Franklin"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Britannica says Pasteur later explained that the heat killed microorganisms and the seal stopped new ones entering (unverified: not in the excerpt checked). {{brit-canning}}"
    }
   ],
@@ -1016,42 +1046,46 @@ ARCHIVE_ADD({
     "q": "Cardboard cartons that touched floodwater should be...",
     "o": [
      "Washed",
-     "Thrown away",
      "Dried",
-     "Boiled"
+     "Boiled",
+     "Wiped with bleach",
+     "Thrown away"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Thrown away."
    },
    {
     "q": "How long to soak cans in the bleach solution?",
     "o": [
+     "No soak",
      "1 minute",
      "15 minutes",
      "1 hour",
-     "No soak"
+     "5 minutes, then rinse"
     ],
-    "a": 1,
+    "a": 2,
     "w": "15 minutes (or boil 2 minutes)."
    },
    {
     "q": "Radio in a national outage is chosen because...",
     "o": [
-     "It is cheap",
-     "It is the most power-resilient communication",
      "It is loud",
-     "It is private"
+     "It is cheap",
+     "It reaches people faster than any phone network",
+     "It is private",
+     "It is the most power-resilient channel"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Most power-resilient."
    },
    {
     "q": "The rule when you doubt a food is...",
     "o": [
-     "Taste it",
+     "Freeze it",
      "Throw it out",
-     "Cook it longer",
-     "Freeze it"
+     "Cook it hot",
+     "Taste it",
+     "Cook it longer"
     ],
     "a": 1,
     "w": "When in doubt, throw it out."
@@ -1060,24 +1094,26 @@ ARCHIVE_ADD({
     "biz": 1,
     "q": "You find a pack soft at dispatch. What do you do?",
     "o": [
+     "Ignore it",
+     "Refreeze and send",
      "Send it",
      "Replace it with hard-frozen stock and log it",
-     "Refreeze and send",
-     "Ignore it"
+     "Refreeze it overnight and send it in tomorrow's box"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Do not dispatch it, replace it, and log the incident."
    },
    {
     "lec": 1,
     "q": "Which habit from Franklin's fire company suits a household food plan?",
     "o": [
-     "Skipping practice",
-     "Agreed roles and regular practice",
+     "Waiting for trouble",
      "Working alone",
-     "Waiting for trouble"
+     "Agreed roles and regular practice",
+     "Waiting until a crisis to assign roles",
+     "Skipping practice"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Agreed roles, regular meetings and practice. {{franklin-fire}} {{ush-fire}}"
    }
   ],
@@ -1086,24 +1122,26 @@ ARCHIVE_ADD({
     "biz": 1,
     "q": "Which element must the capstone plan include for a frozen-product business?",
     "o": [
+     "A price list",
      "Only a menu",
-     "A freezer-failure plan with times and a log",
      "Only a logo",
-     "A price list"
+     "A freezer-failure plan with times and a log",
+     "A full menu and a price list for every product"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Freezer failure is the central risk for a frozen-product business."
    },
    {
     "lec": 1,
     "q": "In Franklin's chart, what did a black spot mean?",
     "o": [
+     "A fault found that day",
+     "A virtue kept all day long",
      "A virtue achieved",
-     "A fault found on that day",
      "A rest day",
      "A meal"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Each spot marked a fault found upon examination that day. {{franklin-auto}}"
    }
   ]

@@ -754,21 +754,23 @@ ARCHIVE_ADD({
    {
     "q": "Which step comes right after the approach?",
     "o": [
-     "Closing",
      "Presentation",
      "Follow-up",
+     "Closing",
+     "Handling objections",
      "Prospecting"
     ],
-    "a": 1,
+    "a": 0,
     "w": "The order is prospect and qualify, preapproach, approach, presentation."
    },
    {
     "q": "In B2B buying, who makes the final decision?",
     "o": [
      "The user",
-     "The influencer",
+     "The gatekeeper",
      "The decision maker",
-     "The gatekeeper"
+     "The influencer",
+     "The initiator who starts it"
     ],
     "a": 2,
     "w": "Decision makers hold responsibility for the final purchase."
@@ -776,35 +778,38 @@ ARCHIVE_ADD({
    {
     "q": "What is a benefit in FAB?",
     "o": [
+     "What the product does better than rivals",
      "What the product has",
+     "The price",
      "What the feature does",
-     "What it means for the customer",
-     "The price"
+     "What it means for the customer"
     ],
-    "a": 2,
+    "a": 4,
     "w": "Benefit is what the features mean to the customer."
    },
    {
     "q": "A routine repeat order of supplies is a…",
     "o": [
-     "New-task buy",
-     "Straight rebuy",
+     "Alliance",
+     "New-task buy with a new supplier",
      "Modified rebuy",
-     "Alliance"
+     "Straight rebuy",
+     "New-task buy"
     ],
-    "a": 1,
+    "a": 3,
     "w": "A routine repurchase is a straight rebuy."
    },
    {
     "lec": 1,
     "q": "Who gave National Cash Register salesmen scripts, territories and training?",
     "o": [
+     "Zig Ziglar",
+     "Harry Selfridge",
      "Dale Carnegie",
      "John H. Patterson",
-     "Zig Ziglar",
-     "Harry Selfridge"
+     "Thomas J. Watson Sr."
     ],
-    "a": 1,
+    "a": 3,
     "w": "Patterson did, as described by Friedman. {{friedman-hbs}}"
    }
   ],
@@ -812,12 +817,13 @@ ARCHIVE_ADD({
    {
     "q": "What is a prospect?",
     "o": [
+     "A paying customer",
+     "A competitor",
      "Any visitor",
      "A lead qualified as ready, willing and able to buy",
-     "A paying customer",
-     "A competitor"
+     "Anyone who has given you their contact details at an event"
     ],
-    "a": 1,
+    "a": 3,
     "w": "A prospect is a qualified lead."
    },
    {
@@ -826,7 +832,8 @@ ARCHIVE_ADD({
      "20%",
      "40%",
      "60%",
-     "80%"
+     "80%",
+     "250%"
     ],
     "a": 1,
     "w": "80 ÷ 200 = 40%.",
@@ -835,35 +842,38 @@ ARCHIVE_ADD({
    {
     "q": "Which is NOT one of the five qualifying questions?",
     "o": [
-     "Need",
      "Authority",
+     "Need",
      "Resources",
+     "Willingness to buy",
      "Favourite colour"
     ],
-    "a": 3,
+    "a": 4,
     "w": "The five are need, authority, resources, willingness and access."
    },
    {
     "q": "What is intelligence in the text's sense?",
     "o": [
-     "Facts any competitor can find",
      "Insight gathered by being there",
+     "Published facts any rival could look up",
+     "A budget",
      "A database",
-     "A budget"
+     "Facts any competitor can find"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Intelligence is insight competitors cannot easily find."
    },
    {
     "lec": 1,
     "q": "What did NCR salesmen record in daily reports?",
     "o": [
+     "Their mileage only",
+     "Only the sales they had closed that day, with prices",
      "Their meals",
      "Customers called on, sales and prospects",
-     "The weather",
-     "Their mileage only"
+     "The weather"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Daily reports listed customers called on, sales made and prospects. {{friedman-full}}"
    }
   ],
@@ -871,55 +881,60 @@ ARCHIVE_ADD({
    {
     "q": "Which opening question is better by phone?",
     "o": [
+     "How are you today?",
+     "Do you have a minute for our offer?",
      "Did I catch you at a bad time?",
      "Is this a good time?",
-     "How are you today?",
      "Can't you talk?"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Asking if it is a good time keeps a yes useful."
    },
    {
     "q": "What does the S in SMART stand for?",
     "o": [
-     "Simple",
-     "Specific",
+     "Sales",
      "Strong",
-     "Sales"
+     "Strategic",
+     "Simple",
+     "Specific"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Specific."
    },
    {
     "q": "A general benefit statement…",
     "o": [
+     "Closes the sale",
+     "Ties a benefit to a need the prospect named",
      "Gives the big picture of how you can help",
      "Quotes a price",
-     "Closes the sale",
      "Lists features"
     ],
-    "a": 0,
+    "a": 2,
     "w": "It gives the big picture of how the solution meets the need."
    },
    {
     "q": "Why can persistent follow-up be a problem in Ireland?",
     "o": [
-     "It cannot",
      "Persistent unwanted offers are a banned practice",
      "Email is banned",
+     "It cannot be a problem when the buyer is a business or consumer",
+     "It cannot",
      "Calls are free"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Persistent unwanted communications are on the banned list."
    },
    {
     "lec": 1,
     "q": "In what year did How to Win Friends and Influence People appear?",
     "o": [
-     "1906",
+     "1996",
      "1936",
+     "1946",
      "1966",
-     "1996"
+     "1906"
     ],
     "a": 1,
     "w": "It appeared in 1936. {{carnegie-wiki}} {{brit-carnegie-book}}"
@@ -929,32 +944,35 @@ ARCHIVE_ADD({
    {
     "q": "Which SPIN question explores consequences?",
     "o": [
-     "Situation",
-     "Problem",
      "Implication",
+     "Situation",
+     "Need-payoff (value)",
+     "Problem",
      "Need-payoff"
     ],
-    "a": 2,
+    "a": 0,
     "w": "Implication questions explore effects and consequences."
    },
    {
     "q": "ROI is calculated as…",
     "o": [
-     "Cost ÷ benefit",
-     "Net benefit ÷ cost × 100",
+     "Total benefit ÷ cost, without subtracting",
      "Cost × benefit",
-     "Benefit − price"
+     "Benefit − price",
+     "Cost ÷ benefit",
+     "Net benefit ÷ cost × 100"
     ],
-    "a": 1,
+    "a": 4,
     "w": "ROI is benefit divided by cost, times 100."
    },
    {
     "q": "What is the 10/20/30 rule?",
     "o": [
-     "10 sales, 20 calls, 30 emails",
+     "10 questions in 30 minutes",
      "10 slides, 20 minutes, 30-point font",
-     "10% discount for 20 months",
-     "10 questions in 30 minutes"
+     "10 minutes, 20 slides, 30 seconds a slide",
+     "10 sales, 20 calls, 30 emails",
+     "10% discount for 20 months"
     ],
     "a": 1,
     "w": "Ten slides, twenty minutes, thirty-point font."
@@ -962,24 +980,26 @@ ARCHIVE_ADD({
    {
     "q": "Before recording a video call you should…",
     "o": [
-     "Not tell anyone",
-     "Ask permission",
      "Post it",
-     "Delete it"
+     "Tell them afterwards",
+     "Ask permission",
+     "Delete it",
+     "Not tell anyone"
     ],
-    "a": 1,
+    "a": 2,
     "w": "The text says to ask permission."
    },
    {
     "lec": 1,
     "q": "Which feature did Selfridges include for customers?",
     "o": [
-     "A silence room",
-     "A cinema only",
      "A factory floor",
-     "A bank vault"
+     "A bank vault",
+     "A free crèche",
+     "A silence room",
+     "A cinema only"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Wikipedia lists a silence room among the store's features. {{selfridge}}"
    }
   ],
@@ -987,21 +1007,23 @@ ARCHIVE_ADD({
    {
     "q": "A prospect says 'I need to think about it.' The text calls this…",
     "o": [
-     "A firm no",
-     "A stall that often masks risk",
+     "A firm no, said politely to end it",
      "A price objection",
+     "A stall that often masks risk",
+     "A firm no",
      "A close"
     ],
-    "a": 1,
+    "a": 2,
     "w": "It is a classic stall."
    },
    {
     "q": "What should you do before conceding a discount?",
     "o": [
-     "Nothing",
+     "Raise the price",
      "Get something in return",
+     "Nothing",
      "Walk away",
-     "Raise the price"
+     "Raise the list price first"
     ],
     "a": 1,
     "w": "Do not make a concession without getting a concession."
@@ -1010,22 +1032,24 @@ ARCHIVE_ADD({
     "q": "A trial close asks for…",
     "o": [
      "A decision",
+     "A decision on the spot",
+     "A refund",
      "An opinion",
-     "A signature",
-     "A refund"
+     "A signature"
     ],
-    "a": 1,
+    "a": 3,
     "w": "A trial close asks for an opinion."
    },
    {
     "q": "List £2,400, buyer asks 15% off. New price?",
     "o": [
-     "£2,040",
      "£2,100",
      "£2,200",
-     "£1,800"
+     "£1,800",
+     "£2,385",
+     "£2,040"
     ],
-    "a": 0,
+    "a": 4,
     "w": "15% of 2,400 is 360; 2,400 − 360 = 2,040.",
     "kind": "application"
    },
@@ -1034,9 +1058,10 @@ ARCHIVE_ADD({
     "q": "Which is one of Ziglar's five reasons people do not buy, as summarised?",
     "o": [
      "They do not trust you",
-     "They hate shopping",
+     "They want a discount",
      "They like you",
-     "They want a discount"
+     "They have too much choice",
+     "They hate shopping"
     ],
     "a": 0,
     "w": "They do not trust you is one of the five reasons. {{ziglar-sum}}"
@@ -1047,56 +1072,61 @@ ARCHIVE_ADD({
     "q": "A marketing email to a sole trader with no relationship needs…",
     "o": [
      "Nothing",
-     "Consent",
+     "A postcode",
+     "Only an unsubscribe link",
      "A discount",
-     "A postcode"
+     "Consent"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Sole traders are treated as individuals under PECR."
    },
    {
     "q": "Live marketing calls must be checked against…",
     "o": [
-     "TPS and CTPS and your own list",
+     "Nothing",
+     "TPS, CTPS and your own list",
      "Only the phone book",
-     "Social media",
-     "Nothing"
+     "Only your own do-not-call list",
+     "Social media"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Screen against TPS and CTPS and your own do-not-call list."
    },
    {
     "q": "In Ireland, which is a banned practice?",
     "o": [
      "A clear price list",
+     "A genuine offer with an end date",
+     "A polite follow-up",
      "A false limited offer",
-     "A written proposal",
-     "A polite follow-up"
+     "A written proposal"
     ],
-    "a": 1,
+    "a": 3,
     "w": "False use of limited offers is banned."
    },
    {
     "q": "Do the Irish consumer rules cover business-to-business sales?",
     "o": [
-     "Yes",
-     "No, they cover business-to-consumer",
+     "No: business-to-consumer",
+     "Yes, every sale in Ireland",
+     "Only for large firms",
      "Only online",
-     "Only for large firms"
+     "Yes"
     ],
-    "a": 1,
+    "a": 0,
     "w": "The page says the law does not cover sales between businesses."
    },
    {
     "lec": 1,
     "q": "What did Cadbury do in March 1909, according to the family account?",
     "o": [
+     "Sold the firm",
+     "Bought the plantations to reform them directly",
      "Opened Bournville",
-     "Announced no further purchases of cocoa from the islands",
-     "Wrote a book",
-     "Sold the firm"
+     "Announced no more cocoa from the islands",
+     "Wrote a book"
     ],
-    "a": 1,
+    "a": 3,
     "w": "The family account says it announced that it would buy no more cocoa from the islands. {{wa-cadbury}}"
    }
   ],
@@ -1105,12 +1135,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "Which is a Carnegie principle for winning people to your way of thinking?",
     "o": [
-     "The only way to get the best of an argument is to avoid it",
-     "Interrupt often",
+     "Win every argument, but do it politely and always with a smile",
      "Never smile",
-     "Talk about yourself"
+     "The only way to get the best of an argument is to avoid it",
+     "Talk about yourself",
+     "Interrupt often"
     ],
-    "a": 0,
+    "a": 2,
     "w": "It is the first of the twelve ways to win people to your way of thinking. {{carnegie-wiki}}"
    }
   ]

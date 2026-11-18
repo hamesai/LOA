@@ -6,7 +6,7 @@
    "https://archive.org/details/rateofinterestit00fishuoft"
   ],
   "lec-fisher-1930cat": [
-   "The Theory of Interest as determined by impatience to spend income and opportunity to invest it (1930): the title only, from the Internet Archive catalogue record. The scan is access-restricted and was not read.",
+   "The Theory of Interest as determined by impatience to spend income and opportunity to invest it (1930): the title, from the Internet Archive catalogue record. The book itself was later read in the Online Library of Liberty edition (core chapters; see the fisher30 sources).",
    "Irving Fisher, Internet Archive",
    "https://archive.org/details/theoryofinterest0000fish"
   ],
@@ -88,7 +88,42 @@
     },
     {
      "t": "p",
-     "x": "His 1930 book, The Theory of Interest, carries the subtitle 'as determined by impatience to spend income and opportunity to invest it'. {{lec-fisher-1930cat}} The scan is access-restricted, so we did not read the book itself."
+     "x": "His 1930 book, The Theory of Interest, carries the subtitle 'as determined by impatience to spend income and opportunity to invest it'. {{lec-fisher-1930cat}} We have since read its core chapters in the Online Library of Liberty edition. Fisher sums up the rate of interest as the mouthpiece of impatience to spend income without delay and of opportunity to increase income by delay. {{fisher30-ch21}}"
+    },
+    {
+     "t": "p",
+     "x": "In The Theory of Interest a person's impatience depends on four features of their expected income: its size, its time shape, its composition and its risk. {{fisher30-ch4}} He drew an illustrative grid (Table 1): someone with a small, rising, precarious income who is short-sighted and used to spending might have an impatience of 20%; someone with a large, falling, assured income who is far-sighted and used to saving might have 1%. {{fisher30-ch4}}"
+    },
+    {
+     "t": "table",
+     "title": "Fisher's illustrative impatience grid (1930, Table 1)",
+     "head": [
+      "Income",
+      "Short-sighted, weak-willed, used to spending",
+      "Medium",
+      "Far-sighted, self-controlled, used to saving"
+     ],
+     "rows": [
+      [
+       "Small, increasing, precarious",
+       "20%",
+       "10%",
+       "5%"
+      ],
+      [
+       "Medium",
+       "10%",
+       "5%",
+       "2%"
+      ],
+      [
+       "Large, decreasing, assured",
+       "5%",
+       "2%",
+       "1%"
+      ]
+     ],
+     "src": "Fisher's own illustrative figures {{fisher30-ch4}}"
     },
     {
      "t": "h",
@@ -158,7 +193,8 @@
      "q": "In Fisher's account, what sets the interest rate?",
      "o": [
       "Only the government",
-      "Impatience to spend and the opportunity to invest",
+      "Impatience to spend and the chance to invest",
+      "Only the central bank's decision, made each month",
       "The price of gold",
       "The number of banks"
      ],
@@ -169,12 +205,13 @@
      "t": "check",
      "q": "Fisher linked interest to two things. One is impatience to spend; what is the other?",
      "o": [
-      "The price of gold",
-      "The opportunity to invest",
+      "The central bank's monthly decision",
       "The number of banks",
-      "The tax year"
+      "The tax year",
+      "The price of gold",
+      "The opportunity to invest"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The 1930 title names impatience to spend income and opportunity to invest it. {{lec-fisher-1930cat}}"
     },
     {
@@ -182,19 +219,20 @@
      "i": [
       "Time-preference depends on income, so how much you need now should set how much you invest (our inference). {{lec-fisher-1907}}",
       "Build the emergency fund before investing. {{lec-mh-beginners}}",
-      "We read part of the 1907 book, not the 1930 one."
+      "We read part of The Rate of Interest and the core chapters of The Theory of Interest. {{fisher30-ch21}}"
      ]
     }
    ],
    "quiz": {
     "q": "Which comes first, according to this module?",
     "o": [
-     "Investing everything",
      "A safety net of cash",
-     "Buying property",
-     "Borrowing to invest"
+     "Investing first, then building cash",
+     "Investing everything",
+     "Borrowing to invest",
+     "Buying property"
     ],
-    "a": 1,
+    "a": 0,
     "w": "The safety net comes first. {{lec-mh-beginners}}"
    }
   },
@@ -220,6 +258,14 @@
     {
      "t": "p",
      "x": "We use the compound-growth arithmetic from module 2, which is our own calculation, not a quotation."
+    },
+    {
+     "t": "p",
+     "x": "In The Theory of Interest he gives the case that matters most for savers: a money rate of 15 per cent might only mean prices are expected to rise 10 per cent, leaving a real rate of about 5 per cent. {{fisher30-ch2}}"
+    },
+    {
+     "t": "p",
+     "x": "He warns that when prices rise, the rate of interest rises a little in name but falls greatly in reality, so the direction a rate seems to move is often the opposite of how it really moves. {{fisher30-ch21}}"
     },
     {
      "t": "h",
@@ -288,12 +334,13 @@
      "t": "check",
      "q": "What does a 'real' return allow for?",
      "o": [
+      "Fees only",
+      "Fees and taxes, but not inflation",
       "Taxes only",
       "Inflation",
-      "Fees only",
       "Nothing"
      ],
-     "a": 1,
+     "a": 3,
      "w": "A real return is after inflation. {{lec-mh-beginners}}"
     },
     {
@@ -303,6 +350,7 @@
       "£2,000",
       "£2,653",
       "£1,500",
+      "£2,100",
       "£5,000"
      ],
      "a": 1,
@@ -321,12 +369,13 @@
    "quiz": {
     "q": "What should a learner call an assumed rate?",
     "o": [
-     "A guarantee",
-     "An assumption",
      "A tax rate",
-     "A fee"
+     "A firm forecast",
+     "A fee",
+     "An assumption",
+     "A guarantee"
     ],
-    "a": 1,
+    "a": 3,
     "w": "An assumed rate must be labelled. Our practice rule."
    }
   },
@@ -421,12 +470,13 @@
      "t": "check",
      "q": "What does the random walk suggest about a plan that depends on forecasting next month?",
      "o": [
-      "It is reliable",
       "It is fragile",
-      "It is guaranteed",
-      "It is required"
+      "It is required",
+      "It is reliable with an expert",
+      "It is reliable",
+      "It is guaranteed"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Bachelier begins from the impossibility of forecasting price movements, so a plan built on forecasts is fragile (our inference). {{lec-bachelier-1900}}"
     },
     {
@@ -434,11 +484,12 @@
      "q": "Which statement misreads the random walk model?",
      "o": [
       "Short-term moves are hard to predict",
-      "Prices are pure chance, so nobody can ever do well",
       "Plans should cover a range of outcomes",
-      "Forecast-based plans are fragile"
+      "Forecast-based plans are fragile",
+      "Prices are pure chance, so nobody can ever do well",
+      "Short-term moves are hard to predict, so plans should allow for a range"
      ],
-     "a": 1,
+     "a": 3,
      "w": "His starting point is that forecasting is impossible, not that outcomes are pure chance or that nobody can do well. Our reading of {{lec-bachelier-1900}}"
     },
     {
@@ -453,10 +504,11 @@
    "quiz": {
     "q": "What does a random walk describe?",
     "o": [
+     "A tax rule",
+     "A path where each step can't be predicted from the last",
+     "A path that always returns to its average within a year",
      "A steady rise",
-     "A path where each step is unpredictable from the last",
-     "A fixed pattern",
-     "A tax rule"
+     "A fixed pattern"
     ],
     "a": 1,
     "w": "That is our definition of a random walk; Bachelier's thesis begins from the impossibility of forecasting. {{lec-bachelier-1900}}"
@@ -552,24 +604,26 @@
      "t": "check",
      "q": "In the paper, what is an efficient portfolio?",
      "o": [
-      "The one with the highest possible return",
-      "One with the lowest variance for its expected return, or the highest return for its variance",
+      "Lowest variance for its return, or highest return for its variance",
+      "A type of bond",
       "A tax allowance",
-      "A type of bond"
+      "The portfolio with the highest possible return, whatever its level of variance",
+      "The one with the highest possible return"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Efficient portfolios have the lowest variance for a given expected return, or the highest expected return for a given variance. {{lec-markowitz-1952}}"
     },
     {
      "t": "check",
      "q": "You add a second fund that usually falls when your first fund falls. How much does it lower your portfolio risk?",
      "o": [
-      "Large risk reduction",
-      "Little risk reduction",
       "A guaranteed return",
-      "No fees"
+      "It halves the risk",
+      "No fees",
+      "A lot",
+      "Little"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Holdings with high covariances among themselves do little to lower portfolio risk. {{lec-markowitz-1952}}",
      "kind": "application"
     },
@@ -586,8 +640,9 @@
     "q": "What did Markowitz's 1952 paper focus on?",
     "o": [
      "Tax rates",
-     "The risk of a portfolio depending on how holdings move together",
+     "Portfolio risk depending on how holdings move together",
      "Bank interest",
+     "The expected return of each single holding, taken on its own",
      "Property prices"
     ],
     "a": 1,
@@ -685,9 +740,10 @@
      "t": "check",
      "q": "Why does the SPIVA table count closed funds?",
      "o": [
-      "To make results worse",
-      "To avoid survivorship bias",
       "Because the law says so",
+      "To avoid survivorship bias",
+      "To make results worse",
+      "To count the fees closed funds charged",
       "To count fees"
      ],
      "a": 1,
@@ -697,12 +753,13 @@
      "t": "check",
      "q": "An active fund charges 1% more a year than a tracker. What must it do to match the tracker's net result?",
      "o": [
-      "Nothing",
-      "Beat the index by about 1% a year before charges",
+      "Cut its fees to zero",
       "Hold more bonds",
-      "Cut its fees to zero"
+      "Match the index exactly before charges are taken off",
+      "Nothing",
+      "Beat the index by about 1% a year before charges"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The extra charge has to be earned back by outperformance. Our inference from the arithmetic. {{lec-bogle-1997}}"
     },
     {
@@ -717,12 +774,13 @@
    "quiz": {
     "q": "What is an index tracker designed to do?",
     "o": [
-     "Beat the index",
-     "Copy the index",
-     "Avoid shares",
-     "Guarantee returns"
+     "Copy the performance of a market index",
+     "Guarantee a fixed return",
+     "Beat the index every year",
+     "Beat the index after fees by picking the best shares",
+     "Avoid all share prices"
     ],
-    "a": 1,
+    "a": 0,
     "w": "In Bogle's words, the first index fund matched the returns of the S&P 500 Index net of minimal costs. {{lec-bogle-2016}}"
    }
   },
@@ -821,12 +879,13 @@
      "t": "check",
      "q": "What makes an operation an investment, in Graham's test?",
      "o": [
-      "Popularity",
-      "Analysis that promises safety of principal and an adequate return",
+      "A high expected return, whatever the safety of the money put in",
+      "A recent tip",
       "A catchy name",
-      "A recent tip"
+      "Popularity",
+      "Analysis promising safety of principal and adequate return"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Analysis, safety of principal and an adequate return. {{lec-graham-ii}}"
     },
     {
@@ -835,8 +894,9 @@
      "o": [
       "£60",
       "£70",
-      "£75",
-      "£80"
+      "£80",
+      "£55",
+      "£75"
      ],
      "a": 0,
      "w": "£80 × 0.75 is £60. Our arithmetic. {{lec-graham-ii}}"
@@ -853,12 +913,13 @@
    "quiz": {
     "q": "What is a margin of safety?",
     "o": [
+     "A fund type",
      "A guaranteed profit",
-     "A gap between price and estimated value",
      "A tax allowance",
-     "A fund type"
+     "A gap between price and estimated value",
+     "A guaranteed minimum price set by the market"
     ],
-    "a": 1,
+    "a": 3,
     "w": "It is the gap between price and estimated value. {{lec-graham-ii}}"
    }
   },
@@ -953,24 +1014,26 @@
      "t": "check",
      "q": "What should you do with a forecast you cannot support?",
      "o": [
-      "Keep it as fact",
       "Replace it with a range or remove it",
+      "Keep it, but round it to a whole number",
       "Raise the risk",
+      "Keep it as fact",
       "Hide it"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Mark it, then replace or remove it."
     },
     {
      "t": "check",
      "q": "Why replace a forecast in your plan with a range?",
      "o": [
+      "Ranges are required by the FCA in any written investment plan",
+      "Ranges raise returns",
       "Ranges look more professional",
-      "A range lets you test whether the plan survives the bad end",
-      "Forecasts are illegal",
-      "Ranges raise returns"
+      "You can test whether the plan survives the bad end",
+      "Forecasts are illegal"
      ],
-     "a": 1,
+     "a": 3,
      "w": "A plan that survives the bad end of a range is not betting on a forecast. Our inference."
     },
     {
@@ -985,12 +1048,13 @@
    "quiz": {
     "q": "What is the first step in reviewing a plan?",
     "o": [
+     "Ask a friend to decide",
+     "Raise the risk",
      "Invest the money",
      "Mark each forecast",
-     "Raise the risk",
-     "Ask a friend to decide"
+     "Invest the money, then check it"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Mark each forecast so you can test it."
    }
   }

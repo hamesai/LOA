@@ -632,153 +632,165 @@ ARCHIVE_ADD({
    {
     "q": "What is the main purpose of an emergency fund?",
     "o": [
-     "To earn the highest return",
-     "To cover unexpected costs without selling investments",
+     "To cover surprises without selling investments",
+     "To earn more than a share fund in a bad year for markets",
      "To avoid paying tax",
+     "To earn the highest return",
      "To replace a pension"
     ],
-    "a": 1,
+    "a": 0,
     "w": "It is cash for shocks, so you do not sell investments at a bad time."
    },
    {
     "q": "Interest is 1% and inflation is 3%. What happens to buying power?",
     "o": [
      "It rises",
-     "It falls",
+     "It cannot be estimated",
      "It stays the same",
-     "It cannot be estimated"
+     "It falls",
+     "It rises by 1% a year"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Interest below inflation reduces what money can buy. Our arithmetic."
    },
    {
     "q": "MoneyHelper suggests holding how much in cash before investing?",
     "o": [
      "No cash",
-     "One week",
+     "One month of spending, topped up later",
      "Three to six months of spending",
+     "One week",
      "Five years of spending"
     ],
     "a": 2,
     "w": "MoneyHelper suggests three to six months of spending."
    },
    {
+    "gen": "inv-emergency-fund"
+   },
+   {
     "lec": 1,
     "q": "Which comes first, according to this module?",
     "o": [
-     "Investing everything",
      "A safety net of cash",
-     "Buying property",
-     "Borrowing to invest"
+     "Investing first, then building cash",
+     "Investing everything",
+     "Borrowing to invest",
+     "Buying property"
     ],
-    "a": 1,
+    "a": 0,
     "w": "The safety net comes first. {{lec-mh-beginners}}"
-   },
-   {
-    "gen": "inv-emergency-fund"
    }
   ],
   "investing-2": [
    {
     "q": "Which is NOT a source of return?",
     "o": [
-     "Dividends",
+     "Your employer's salary",
      "Rent",
      "Interest",
-     "Your employer's salary"
+     "Dividends",
+     "A rise in a fund's price"
     ],
-    "a": 3,
+    "a": 0,
     "w": "The four sources are dividends, rent, interest and capital gains or losses."
    },
    {
     "q": "At 5% a year, roughly how long does money take to double?",
     "o": [
-     "5 years",
-     "About 14 years",
+     "About 20 years",
      "About 50 years",
+     "About 14 years",
+     "5 years",
      "It never doubles"
     ],
-    "a": 1,
+    "a": 2,
     "w": "The rule of 72 gives about 14 years at 5%. Our arithmetic."
    },
    {
     "q": "Why does a 1.5% annual fee hurt more over time?",
     "o": [
+     "It rises by a further 1.5% on top each year",
      "It is paid once",
-     "It is taken every year and compounds",
+     "It applies only to gains",
      "It is refunded",
-     "It applies only to gains"
+     "It is taken every year and compounds"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Fees are taken every year, so the lost growth compounds. Our inference."
+   },
+   {
+    "gen": "inv-rule-72"
    },
    {
     "lec": 1,
     "q": "What should a learner call an assumed rate?",
     "o": [
-     "A guarantee",
-     "An assumption",
      "A tax rate",
-     "A fee"
+     "A firm forecast",
+     "A fee",
+     "An assumption",
+     "A guarantee"
     ],
-    "a": 1,
+    "a": 3,
     "w": "An assumed rate must be labelled. Our practice rule."
-   },
-   {
-    "gen": "inv-rule-72"
    }
   ],
   "investing-3": [
    {
     "q": "What is risk tolerance?",
     "o": [
-     "What you can afford to lose",
-     "How much loss you can accept emotionally",
+     "Your tax rate",
      "The fee you pay",
-     "Your tax rate"
+     "How much loss you can accept emotionally",
+     "What you can afford to lose without delaying a goal",
+     "What you can afford to lose"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Tolerance is the emotional side; capacity is the financial side."
    },
    {
     "q": "A portfolio falls 50%. What rise is needed to recover?",
     "o": [
-     "50%",
      "75%",
-     "100%",
-     "25%"
+     "150%",
+     "25%",
+     "50%",
+     "100%"
     ],
-    "a": 2,
+    "a": 4,
     "w": "The balance halves and must double, so the rise needed is 100%. Our arithmetic."
    },
    {
     "q": "What does the random walk idea suggest about predicting next month's price?",
     "o": [
-     "It is easy",
      "It is fragile",
+     "It is reliable with an expert",
      "It is guaranteed",
-     "It is required"
+     "It is required",
+     "It is easy"
     ],
-    "a": 1,
+    "a": 0,
     "w": "If moves are unpredictable from past moves, forecasts are fragile."
-   },
-   {
-    "lec": 1,
-    "q": "What does a random walk describe?",
-    "o": [
-     "A steady rise",
-     "A path where each step is unpredictable from the last",
-     "A fixed pattern",
-     "A tax rule"
-    ],
-    "a": 1,
-    "w": "That is our definition of a random walk; Bachelier's thesis begins from the impossibility of forecasting. {{lec-bachelier-1900}}"
    },
    {
     "gen": "inv-recovery-gain"
    },
    {
     "gen": "inv-ten-percent"
+   },
+   {
+    "lec": 1,
+    "q": "What does a random walk describe?",
+    "o": [
+     "A tax rule",
+     "A path where each step can't be predicted from the last",
+     "A path that always returns to its average within a year",
+     "A steady rise",
+     "A fixed pattern"
+    ],
+    "a": 1,
+    "w": "That is our definition of a random walk; Bachelier's thesis begins from the impossibility of forecasting. {{lec-bachelier-1900}}"
    }
   ],
   "investing-4": [
@@ -786,8 +798,9 @@ ARCHIVE_ADD({
     "q": "What is diversification?",
     "o": [
      "Holding one great investment",
-     "Spreading across holdings that do not rely on the same things",
+     "Spreading across holdings that rely on different things",
      "Avoiding all risk",
+     "Holding many shares in one sector, so no single company can hurt you",
      "Buying only cash"
     ],
     "a": 1,
@@ -796,23 +809,25 @@ ARCHIVE_ADD({
    {
     "q": "What is the efficient frontier?",
     "o": [
-     "The highest possible return",
-     "The best risk and return trade-off available",
+     "A type of bond",
      "A tax allowance",
-     "A type of bond"
+     "The best risk and return trade-off available",
+     "The highest return available at any level of risk",
+     "The highest possible return"
     ],
-    "a": 1,
+    "a": 2,
     "w": "It is the set of portfolios with the highest expected return for each risk level."
    },
    {
     "q": "A client says that with 30 funds she cannot lose money in a crash. Which thing can diversification NOT do?",
     "o": [
+     "Reduce how much depends on any one company's results",
+     "Spread a single company's risk",
      "Smooth returns over time",
      "Stop losses in a market-wide fall",
-     "Spread a single company's risk",
      "Reduce reliance on one holding"
     ],
-    "a": 1,
+    "a": 3,
     "w": "It cannot stop a broad market fall.",
     "kind": "application"
    },
@@ -821,8 +836,9 @@ ARCHIVE_ADD({
     "q": "What did Markowitz's 1952 paper focus on?",
     "o": [
      "Tax rates",
-     "The risk of a portfolio depending on how holdings move together",
+     "Portfolio risk depending on how holdings move together",
      "Bank interest",
+     "The expected return of each single holding, taken on its own",
      "Property prices"
     ],
     "a": 1,
@@ -838,8 +854,9 @@ ARCHIVE_ADD({
     "o": [
      "Counts closed funds in the start group",
      "Removes fees",
-     "Adds tax",
-     "Ignores losing funds"
+     "Ignores losing funds",
+     "Removes closed funds from the results entirely",
+     "Adds tax"
     ],
     "a": 0,
     "w": "Closed funds stay in the count."
@@ -849,8 +866,9 @@ ARCHIVE_ADD({
     "o": [
      "£10,000",
      "£20,000",
+     "£50,000",
      "£3,000",
-     "£50,000"
+     "£40,000"
     ],
     "a": 1,
     "w": "The GOV.UK overview gives £20,000."
@@ -859,12 +877,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What is an index tracker designed to do?",
     "o": [
-     "Beat the index",
-     "Copy the index",
-     "Avoid shares",
-     "Guarantee returns"
+     "Copy the performance of a market index",
+     "Guarantee a fixed return",
+     "Beat the index every year",
+     "Beat the index after fees by picking the best shares",
+     "Avoid all share prices"
     ],
-    "a": 1,
+    "a": 0,
     "w": "In Bogle's words, the first index fund matched the returns of the S&P 500 Index net of minimal costs. {{lec-bogle-2016}}"
    }
   ],
@@ -872,12 +891,13 @@ ARCHIVE_ADD({
    {
     "q": "Under Graham's distinction, what makes an operation an investment?",
     "o": [
-     "Popularity",
-     "Analysis, safety of principal and an adequate return",
-     "A catchy name",
-     "A recent tip"
+     "Analysis promising safety of principal and adequate return",
+     "It has a catchy name",
+     "It was recommended online",
+     "A high expected return, whatever the safety of the money put in",
+     "It is popular"
     ],
-    "a": 1,
+    "a": 0,
     "w": ""
    },
    {
@@ -886,10 +906,11 @@ ARCHIVE_ADD({
    {
     "q": "What should you check first with an unsolicited offer?",
     "o": [
-     "Pay now",
+     "Ask a friend",
      "The FCA Firm Checker and Warning List",
+     "The caller's own website and online reviews",
      "Share your details",
-     "Ask a friend"
+     "Pay now"
     ],
     "a": 1,
     "w": "Check the firm first."
@@ -898,12 +919,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What is a margin of safety?",
     "o": [
+     "A fund type",
      "A guaranteed profit",
-     "A gap between price and estimated value",
      "A tax allowance",
-     "A fund type"
+     "A gap between price and estimated value",
+     "A guaranteed minimum price set by the market"
     ],
-    "a": 1,
+    "a": 3,
     "w": "It is the gap between price and estimated value. {{lec-graham-ii}}"
    }
   ],
@@ -914,7 +936,8 @@ ARCHIVE_ADD({
      "Goal",
      "Review",
      "Costs",
-     "Tax"
+     "Tax",
+     "Split and holdings"
     ],
     "a": 1,
     "w": "The review section sets triggers and a date."
@@ -923,20 +946,22 @@ ARCHIVE_ADD({
     "q": "Why label a worked example as illustrative?",
     "o": [
      "It looks better",
-     "The numbers are invented, so it is not a forecast",
-     "It is required by tax",
+     "It is required by tax rules",
+     "The numbers are invented, not a forecast",
+     "The numbers are a forecast from a regulated source",
      "It makes it longer"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Illustrative numbers are not forecasts."
    },
    {
     "q": "Where should a plan go before a big decision?",
     "o": [
-     "Straight to a trade",
+     "Nowhere",
      "Regulated advice",
+     "An online investing forum",
      "A social media group",
-     "Nowhere"
+     "Straight to a trade"
     ],
     "a": 1,
     "w": "The FCA advises regulated advice first."
@@ -945,12 +970,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What is the first step in reviewing a plan?",
     "o": [
+     "Ask a friend to decide",
+     "Raise the risk",
      "Invest the money",
      "Mark each forecast",
-     "Raise the risk",
-     "Ask a friend to decide"
+     "Invest the money, then check it"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Mark each forecast so you can test it."
    }
   ]

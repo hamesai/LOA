@@ -130,9 +130,10 @@
      "q": "Why might a reseller not be able to use a platform's private-seller free tier?",
      "o": [
       "Free tiers never exist",
-      "Buying to resell makes you a business, and platforms set rules for professional sellers",
-      "Private sellers cannot sell vintage",
-      "The tier only applies to cars"
+      "Buying to resell makes you a business, with seller rules",
+      "The tier only applies to cars",
+      "Private tiers are only for items under £50, whoever the seller is",
+      "Private sellers cannot sell vintage"
      ],
      "a": 1,
      "w": "Regularly buying goods to resell points to being in business. {{bc-business}} Platforms set their own rules for professional sellers."
@@ -141,12 +142,13 @@
      "t": "check",
      "q": "You price a jacket at £20 on Vinted and expect £20 in your payout. A buyer complains the total was higher. Who paid the Vinted fee?",
      "o": [
-      "The seller from the payout",
-      "The buyer at checkout",
+      "The buyer, at checkout",
       "Nobody",
-      "The postal service"
+      "The postal service",
+      "The seller, split with the buyer",
+      "The seller, from the payout"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The fee is added to the buyer's order total at checkout. {{vinted-fee}}",
      "kind": "application"
     },
@@ -285,12 +287,13 @@
      "t": "check",
      "q": "Which photograph protects you most in a dispute?",
      "o": [
+      "Only the front",
       "A heavily edited glamour shot",
       "A close-up of each flaw",
-      "Only the front",
+      "A single wide shot of the whole item",
       "A stock image"
      ],
-     "a": 1,
+     "a": 2,
      "w": "A flaw shown in a photograph supports your description."
     },
     {
@@ -298,11 +301,12 @@
      "q": "You are unsure of an item's date. What should the title do?",
      "o": [
       "State a firm decade",
-      "Use words you can support, such as 'vintage style' or 'moulded'",
       "Say antique",
-      "Omit the title"
+      "Omit the title",
+      "Use words you can support, like 'vintage style'",
+      "State the most likely decade, to help buyers find it in search"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Claim only what you can support (Module 3)."
     },
     {
@@ -450,24 +454,26 @@
      "t": "check",
      "q": "Which item is better, assuming equal effort?",
      "o": [
-      "£30 profit that sells in 10 days",
-      "£32 profit that sells in 90 days",
+      "£32 profit, since profit per item matters most",
       "They are identical",
-      "Neither; only revenue matters"
+      "Neither; only revenue matters",
+      "£32 profit that sells in 90 days",
+      "£30 profit that sells in 10 days"
      ],
-     "a": 0,
+     "a": 4,
      "w": "The faster item returns cash sooner for reuse, and the profit is almost the same."
     },
     {
      "t": "check",
      "q": "Your monthly profit is £300 but listing, packing and posting took 60 hours. Why should you include those hours when judging the business?",
      "o": [
-      "It is a legal requirement",
-      "It tells you if the business pays you a fair rate",
       "Platforms require it",
-      "It reduces fees"
+      "It is a legal requirement",
+      "HMRC needs the hours to work out your tax",
+      "It reduces fees",
+      "It shows whether it pays you a fair rate"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Profit per hour shows whether the work is worth doing.",
      "kind": "application"
     },
@@ -614,10 +620,11 @@
      "t": "check",
      "q": "According to Selfridge, what is the problem with false statements in advertising?",
      "o": [
-      "Nothing",
-      "They reduce the value of every future statement",
       "They are cheap",
-      "They are legal"
+      "They reduce the value of every later statement",
+      "They are legal",
+      "Nothing, as long as the goods themselves are good",
+      "Nothing"
      ],
      "a": 1,
      "w": "He says they reduce the value of every future statement. {{selfridge-roc}}"
@@ -626,12 +633,13 @@
      "t": "check",
      "q": "A shop buyer can pick up and turn over an item; an online buyer cannot. What should your listing do to make up for that?",
      "o": [
-      "Hiding flaws",
-      "Photographs from every side so the buyer can look round the item",
-      "A long story",
-      "Low prices only"
+      "Photograph every side, so buyers can look round it",
+      "Price low only",
+      "Hide the flaws",
+      "Tell a long story",
+      "Write a long, detailed story about the item's history"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Online, photographs stand in for walking round an item.",
      "kind": "application"
     },
@@ -639,12 +647,13 @@
      "t": "check",
      "q": "When did Selfridges open?",
      "o": [
+      "1 May 1951",
+      "4 July 1776",
       "15 March 1909",
       "1 January 1800",
-      "4 July 1776",
-      "1 May 1951"
+      "15 March 1919"
      ],
-     "a": 0,
+     "a": 2,
      "w": "It opened on 15 March 1909. {{selfridge}}"
     },
     {

@@ -105,25 +105,27 @@
      "t": "check",
      "q": "On your 1:25,000 map the next stile is 4 cm away. About how far is that on the ground?",
      "o": [
-      "1",
-      "2",
-      "4",
-      "25"
+      "400 m",
+      "1 km",
+      "2.5 km",
+      "4 km",
+      "100 m"
      ],
-     "a": 2,
+     "a": 1,
      "w": "OS describes the scale as 4 cm to 1 km. {{os-map}}",
      "kind": "application"
     },
     {
      "t": "check",
-     "q": "You spread out an OS map on a rock. Which way should you turn it so the top points the right way?",
+     "q": "You spread out an OS map on a rock. Which direction is always at the top of an OS map?",
      "o": [
       "South",
-      "East",
+      "It depends on the sheet",
+      "Magnetic north, marked by the compass arrow",
       "North",
-      "It depends on the sheet"
+      "East"
      ],
-     "a": 2,
+     "a": 3,
      "w": "OS maps are always printed with north at the top. {{os-map}}",
      "kind": "application"
     },
@@ -218,12 +220,13 @@
      "t": "check",
      "q": "A friend reads a grid reference to you as 'up 71, along 48'. What have they got wrong?",
      "o": [
-      "Northing",
-      "Easting",
-      "Whichever is bigger",
-      "The letters"
+      "Whichever number is bigger goes first",
+      "Nothing, since the order does not matter once both numbers are given",
+      "Nothing: northings come first",
+      "They left out the sheet letters",
+      "The order: eastings, along, come first"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Eastings (along the corridor) come first. {{os-map}}",
      "kind": "application"
     },
@@ -231,12 +234,13 @@
      "t": "check",
      "q": "A point is in square 48 71, 2 tenths across and 9 up. What is the six-figure reference?",
      "o": [
-      "482 719",
+      "489 712",
       "487 412",
-      "428 791",
-      "482 791"
+      "482 719",
+      "482 791",
+      "428 791"
      ],
-     "a": 0,
+     "a": 2,
      "w": "Eastings 48 and 2 give 482; northings 71 and 9 give 719. {{os-map}}"
     },
     {
@@ -320,12 +324,13 @@
      "t": "check",
      "q": "You set the compass to a bearing, then fiddle with it while climbing a stile, and end up off course. Which common beginner error is this?",
      "o": [
-      "Using a map",
       "Moving the bezel after setting it",
+      "Holding the compass too far from the body while walking",
       "Choosing a target",
+      "Using a map at all",
       "Wearing gloves"
      ],
-     "a": 1,
+     "a": 0,
      "w": "OS lists moving the bezel and holding the compass wrongly as the two biggest. {{os-comp}}",
      "kind": "application"
     },
@@ -333,10 +338,11 @@
      "t": "check",
      "q": "A bearing from the map is 90° and the variation is +2°. What do you set?",
      "o": [
-      "88°",
-      "90°",
+      "182°",
+      "270°",
       "92°",
-      "182°"
+      "90°",
+      "88°"
      ],
      "a": 2,
      "w": "Add a positive variation: 90° + 2° = 92°. {{os-comp}}"
@@ -441,24 +447,26 @@
      "t": "check",
      "q": "A route is 15 km with 600 m of ascent. What is the Naismith time?",
      "o": [
+      "2 hours",
+      "3 hours 6 minutes",
       "3 hours",
       "4 hours",
-      "5 hours",
-      "2 hours"
+      "5 hours"
      ],
-     "a": 1,
+     "a": 3,
      "w": "15 ÷ 5 = 3 hours, plus 600 ÷ 600 = 1 hour, so 4 hours. {{os-naismith}}"
     },
     {
      "t": "check",
-     "q": "The summit forecast gives gusts of 75 mph. What does the Met Office say about moving forward in such winds?",
+     "q": "The summit forecast gives gusts of 75 mph. Above what gust speed does the Met Office warn about being able to move forward?",
      "o": [
+      "100 mph",
+      "70 mph",
       "30 mph",
       "50 mph",
-      "70 mph",
       "20 mph"
      ],
-     "a": 2,
+     "a": 1,
      "w": "Above 70 mph. {{met-mtn}}",
      "kind": "application"
     },
@@ -575,21 +583,23 @@
      "q": "How close did Shackleton's party get to the South Pole before turning back in 1909?",
      "o": [
       "About 9 miles",
-      "97 geographical miles",
+      "They reached it",
+      "197 geographical miles",
       "500 miles",
-      "They reached it"
+      "97 geographical miles"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The march ended 97 geographical miles from the Pole. {{wiki-nimrod}} {{shack-south}}"
     },
     {
      "t": "check",
      "q": "Before choosing your route, you can ask a local guide or rely on last year's blog. What does Shackleton's choice in South suggest you do?",
      "o": [
-      "Whaling captains at South Georgia",
-      "Nobody",
-      "The King",
-      "Tourists"
+      "Ask those with local knowledge, as he asked the whaling captains",
+      "Ask nobody, and trust your own plan",
+      "Ask other visitors at the start",
+      "Rely on the blog, as he relied on earlier expedition reports rather than local whalers",
+      "Rely on the blog, since written sources are more reliable"
      ],
      "a": 0,
      "w": "He took advice from the whaling captains. {{shack-south}}",
@@ -599,12 +609,13 @@
      "t": "check",
      "q": "Why set the turn-back time before you leave?",
      "o": [
+      "It is legally required",
       "To look careful",
-      "A decision made on the plan is not changed by the pull of the goal",
-      "It saves time",
-      "It is legally required"
+      "A decision made on the plan resists the pull of the goal",
+      "So rescuers know when to start looking for you on the hill",
+      "It saves time"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The rule fixes the decision when your judgement is clearest (our reasoning)."
     },
     {

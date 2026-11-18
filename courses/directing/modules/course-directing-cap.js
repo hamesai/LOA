@@ -54,24 +54,26 @@
      "t": "check",
      "q": "Which scene choice avoids rights fees, according to Garcia?",
      "o": [
-      "A published play",
+      "A published play, if performed only once",
+      "A film script",
       "A public-domain or new play",
-      "A musical",
-      "A film script"
+      "A published play",
+      "A musical"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Garcia says new or public-domain plays are free to produce with no rights fee. {{garcia}}"
     },
     {
      "t": "check",
      "q": "What should you do about fights or intimacy in the scene?",
      "o": [
-      "Include them without help",
-      "Avoid them unless a qualified person oversees",
+      "Ask the audience",
       "Only do them on screen",
-      "Ask the audience"
+      "Include them without help",
+      "Include them if the actors agree between themselves",
+      "Avoid them unless a qualified person oversees"
      ],
-     "a": 1,
+     "a": 4,
      "w": "This is our safety advice; we did not research local rules."
     },
     {
@@ -148,10 +150,11 @@
      "t": "check",
      "q": "What does Garcia suggest doing before rehearsal begins?",
      "o": [
-      "Skip the warm-up",
+      "Order costumes",
       "Warm up with stretching and focus",
       "Memorise the script",
-      "Order costumes"
+      "Run the whole play once at full speed",
+      "Skip the warm-up"
      ],
      "a": 1,
      "w": "Garcia lists warm-up exercises for blood flow, focus and collaboration. {{garcia}}"
@@ -160,12 +163,13 @@
      "t": "check",
      "q": "In what order does the plan run the work?",
      "o": [
-      "Shoot, then read",
       "Read-through, objectives, blocking, runs, then screen",
+      "Shoot, then read",
+      "Blocking, runs, objectives, then the read-through and screen",
       "Blocking, then objectives",
       "Edit, then rehearse"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It follows Garcia's order in miniature, then adds the screen version. {{garcia}}"
     },
     {
@@ -246,23 +250,25 @@
      "q": "What is the minimum for each capstone row to pass?",
      "o": [
       "1",
-      "3, or one row at 2 with a plan to fix it",
       "5",
-      "No minimum"
+      "No minimum",
+      "3, or one row at 2 with a plan to fix it",
+      "2 on every row, with no plan to fix anything"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The pass rule is all rows at 3, or one row at 2 with a plan."
     },
     {
      "t": "check",
      "q": "What should the review name?",
      "o": [
-      "Only the problems",
-      "Two fixes and one thing to keep",
       "Nothing",
-      "The audience's names"
+      "The audience's names",
+      "Two fixes and one thing to keep",
+      "Only the problems",
+      "Every problem found, ranked by size"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The rubric asks for two fixes and one thing to keep."
     },
     {
@@ -413,12 +419,13 @@
      "t": "check",
      "q": "Where should an objective be aimed, according to the book?",
      "o": [
-      "At the audience",
-      "At the other actors",
       "At the camera operator",
-      "At the prompter"
+      "At the audience",
+      "At the prompter",
+      "At the back row of the audience",
+      "At the other actors"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The objectives must be directed toward the other actors, not the spectators. {{aap}}"
     },
     {
@@ -426,23 +433,25 @@
      "q": "What part of speech must an objective be, according to the teacher?",
      "o": [
       "A noun",
-      "A verb",
+      "A name",
       "An adjective",
-      "A name"
+      "A verb",
+      "An adverb"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The objective must always be a verb, so it carries the germ of action. {{aap}}"
     },
     {
      "t": "check",
      "q": "In the invented scoring, 7 of 9 tests met is about what percentage?",
      "o": [
-      "66%",
-      "70%",
+      "79%",
       "78%",
-      "88%"
+      "66%",
+      "88%",
+      "70%"
      ],
-     "a": 2,
+     "a": 1,
      "w": "7 ÷ 9 = 0.78."
     },
     {

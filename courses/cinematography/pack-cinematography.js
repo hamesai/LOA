@@ -1172,42 +1172,46 @@ ARCHIVE_ADD({
    {
     "q": "Which shutter speed gives a 180° angle at 24 fps?",
     "o": [
-     "1/24 s",
      "1/48 s",
+     "1/24 s",
+     "1/96 s",
      "1/100 s",
      "1/250 s"
     ],
-    "a": 1,
+    "a": 0,
     "w": "The frame interval is 1/24 s and half of it is 1/48 s."
    },
    {
     "q": "How many stops are there between f/2 and f/8?",
     "o": [
-     "Two",
      "Three",
-     "Four",
-     "Six"
+     "Six",
+     "Four and a half",
+     "Two",
+     "Four"
     ],
-    "a": 2,
+    "a": 4,
     "w": "f/2, f/2.8, f/4, f/5.6, f/8 is four steps."
    },
    {
     "q": "Doubling the ISO number does what to sensitivity?",
     "o": [
-     "Halves it",
      "Doubles it",
+     "Nothing",
+     "Raises it by a quarter stop",
      "Quadruples it",
-     "Nothing"
+     "Halves it"
     ],
-    "a": 1,
+    "a": 0,
     "w": "In the arithmetic ISO scale, doubling the number doubles the sensitivity."
    },
    {
     "q": "What does a tighter shutter angle do to motion blur?",
     "o": [
-     "Increases it",
+     "Increases it and brightens the frame",
      "Reduces it",
      "Removes colour",
+     "Increases it",
      "Changes frame rate"
     ],
     "a": 1,
@@ -1217,12 +1221,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "How many cameras did Muybridge use at Palo Alto in June 1878, according to the source?",
     "o": [
+     "6",
      "1",
      "12",
-     "24",
-     "100"
+     "100",
+     "24"
     ],
-    "a": 1,
+    "a": 2,
     "w": "He used a battery of 12 cameras. {{wiki-muybridge}}"
    }
   ],
@@ -1230,10 +1235,11 @@ ARCHIVE_ADD({
    {
     "q": "A 50 mm lens on a camera with a crop factor of 1.6 frames like what on full frame?",
     "o": [
-     "31 mm",
-     "50 mm",
+     "160 mm",
+     "51.6 mm",
      "80 mm",
-     "160 mm"
+     "31 mm",
+     "50 mm"
     ],
     "a": 2,
     "w": "50 × 1.6 = 80 mm.",
@@ -1242,10 +1248,11 @@ ARCHIVE_ADD({
    {
     "q": "What does a log profile do?",
     "o": [
-     "Adds sharpness",
-     "Records a wider tonal range with a flat look",
      "Doubles the frame rate",
-     "Removes noise"
+     "Records a wide tonal range with a flat look",
+     "Records a contrasty, finished look straight from camera",
+     "Removes noise",
+     "Adds sharpness"
     ],
     "a": 1,
     "w": "It gives a wide dynamic and tonal range and needs grading."
@@ -1253,35 +1260,38 @@ ARCHIVE_ADD({
    {
     "q": "Which first-generation DSLR limit caused clips of about 12 minutes?",
     "o": [
-     "4 GB file size on FAT32",
-     "Shutter angle",
+     "Lens mount",
+     "Sensor heat after 12 minutes",
      "Crop factor",
-     "Lens mount"
+     "Shutter angle",
+     "4 GB file size on FAT32"
     ],
-    "a": 0,
+    "a": 4,
     "w": "The 4 GB cap came from the FAT32 file system on the cards."
    },
    {
     "q": "What is double-system sound?",
     "o": [
-     "Two cameras",
-     "Recording sound on a separate device and syncing later",
+     "A film format",
+     "Two microphones plugged into the camera's input",
      "A stereo mic",
-     "A film format"
+     "Sound on a separate device, synced later",
+     "Two cameras"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Picture and sound are recorded separately and synced afterwards."
    },
    {
     "lec": 1,
     "q": "Which film stock did Toland use on Citizen Kane, according to the sources?",
     "o": [
-     "Kodak Super XX",
+     "Vision3 500T",
      "Kodachrome",
+     "Kodak Super XX",
      "Ektachrome",
-     "Vision3 500T"
+     "Kodak Plus-X Pan"
     ],
-    "a": 0,
+    "a": 2,
     "w": "He used Kodak Super XX. {{wiki-toland}} {{toland-ac1941}}"
    }
   ],
@@ -1289,55 +1299,60 @@ ARCHIVE_ADD({
    {
     "q": "What happens to depth of field if you double the f-number and nothing else changes?",
     "o": [
-     "It halves",
-     "It doubles",
+     "It quadruples",
      "It stays",
-     "It quadruples"
+     "It increases by one stop",
+     "It halves",
+     "It doubles"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Depth of field is proportional to the f-number."
    },
    {
     "q": "What drives the perspective difference between wide and long shots of a face?",
     "o": [
-     "Camera distance",
+     "ISO",
+     "The focal length at any distance",
      "Lens colour",
-     "The shutter",
-     "ISO"
+     "Camera distance",
+     "The shutter"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Camera distance rather than the focal length itself."
    },
    {
     "q": "Which has more depth of field for the same field of view?",
     "o": [
-     "70 mm film",
      "35 mm film",
      "16 mm film",
+     "70 mm film",
+     "65 mm large format",
      "All the same"
     ],
-    "a": 2,
+    "a": 1,
     "w": "Smaller formats give more depth of field for the same field of view."
    },
    {
     "q": "Cine lenses are engraved in T-stops because:",
     "o": [
+     "They allow for light lost in the glass",
      "It looks better",
-     "They account for light lost in the glass",
-     "They give less noise",
-     "They are smaller"
+     "They show the depth of field more exactly",
+     "They are smaller",
+     "They give less noise"
     ],
-    "a": 1,
+    "a": 0,
     "w": "T-stops make meter-set exposure accurate."
    },
    {
     "lec": 1,
     "q": "Which apertures did Toland use for his deep focus scenes, according to his own essay?",
     "o": [
-     "f/1.4 to f/2",
+     "f/4 to f/5.6, with very fast film stock",
      "f/2.3 to f/3.5",
-     "f/8 or smaller, often f/11, one at f/16",
-     "f/32 to f/64"
+     "f/8 or smaller, often f/11, once f/16",
+     "f/32 to f/64",
+     "f/1.4 to f/2"
     ],
     "a": 2,
     "w": "He says nearly all interiors were at f/8 or smaller, often f/11, and one at f/16. {{toland-ac1941}}"
@@ -1347,21 +1362,23 @@ ARCHIVE_ADD({
    {
     "q": "What colour temperature is the standard for daylight-balanced film?",
     "o": [
-     "3200 K",
      "5500 K",
-     "9300 K",
-     "1850 K"
+     "1850 K",
+     "6500 K",
+     "3200 K",
+     "9300 K"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Daylight film is balanced for 5500 K."
    },
    {
     "q": "How bright is the fill usually, compared with the key?",
     "o": [
-     "Brighter",
+     "Equal, to remove all shadow",
      "Equal",
      "Up to half as bright",
-     "Ten times dimmer"
+     "Ten times dimmer",
+     "Brighter"
     ],
     "a": 2,
     "w": "The fill is usually softer and less bright, up to half the key."
@@ -1369,21 +1386,23 @@ ARCHIVE_ADD({
    {
     "q": "What does the backlight do?",
     "o": [
+     "Lights the set behind the subject",
+     "Sets the key",
      "Lights the background wall",
      "Rims the subject to separate it",
-     "Sets the key",
      "Replaces fill"
     ],
-    "a": 1,
+    "a": 3,
     "w": "It gives a rim of light that separates the subject from the background."
    },
    {
     "q": "At EI 500, 24 fps and 180°, how many footcandles does f/2 need?",
     "o": [
-     "5",
+     "2.5",
      "10",
+     "40",
      "20",
-     "40"
+     "5"
     ],
     "a": 1,
     "w": "The Kodak table gives 10 footcandles at f/2.",
@@ -1393,12 +1412,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What did Freund's Norwood Director measure?",
     "o": [
-     "Incident light",
-     "Sound",
+     "Reflected light",
      "Film length",
-     "Lens sharpness"
+     "Sound",
+     "Lens sharpness",
+     "Incident light"
     ],
-    "a": 0,
+    "a": 4,
     "w": "It was a direct-reading incident light meter. {{wiki-freund}}"
    }
   ],
@@ -1406,58 +1426,63 @@ ARCHIVE_ADD({
    {
     "q": "What does the 180-degree rule protect?",
     "o": [
+     "Shot sizes and lens choice across a scene's coverage",
      "Colour",
+     "Sound",
      "Screen direction and left-right positions",
-     "Focus",
-     "Sound"
+     "Focus"
     ],
-    "a": 1,
+    "a": 3,
     "w": "It keeps the spatial relationship between characters consistent."
    },
    {
     "q": "Which move helps reveal height?",
     "o": [
-     "Pan",
      "Tilt",
+     "Zoom out only",
+     "Pan across",
      "Dolly in",
-     "Zoom out only"
+     "Pan"
     ],
-    "a": 1,
+    "a": 0,
     "w": "A tilt turns the camera up or down (common vocabulary)."
    },
    {
     "q": "You shoot 30 minutes and use 5. What is the ratio?",
     "o": [
      "5:1",
-     "6:1",
      "30:1",
-     "150:1"
+     "1:6",
+     "150:1",
+     "6:1"
     ],
-    "a": 1,
+    "a": 4,
     "w": "30 ÷ 5 = 6, so 6:1.",
     "kind": "application"
    },
    {
     "q": "What causes wobble in handheld telephoto video on many DSLRs?",
     "o": [
-     "Rolling shutter",
+     "Slow frame rate",
      "Low ISO",
+     "Rolling shutter",
      "White balance",
-     "Slow frame rate"
+     "A slow shutter speed"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Rolling shutter makes the image wobble when the camera vibrates."
    },
    {
     "lec": 1,
     "q": "What was Freund known for pioneering?",
     "o": [
-     "The unchained camera",
-     "VHS",
+     "The motorised zoom lens",
      "Super 8",
-     "The tripod"
+     "The unchained camera",
+     "The tripod",
+     "VHS"
     ],
-    "a": 0,
+    "a": 2,
     "w": "He was a pioneer of the unchained camera. {{wiki-freund}}"
    }
   ],
@@ -1465,32 +1490,35 @@ ARCHIVE_ADD({
    {
     "q": "How many frames are in a Super 8 cartridge?",
     "o": [
-     "1,000",
      "3,600",
      "16,000",
-     "72"
+     "1,000",
+     "72",
+     "2,400"
     ],
-    "a": 1,
+    "a": 0,
     "w": "A cartridge carries 50 feet at 72 frames per foot, about 3,600 frames."
    },
    {
     "q": "What exposure index does Kodak give 500T in daylight with an 85 filter?",
     "o": [
+     "64",
      "500",
-     "320",
      "250",
-     "64"
+     "125",
+     "320"
     ],
-    "a": 1,
+    "a": 4,
     "w": "The data sheet gives 320."
    },
    {
     "q": "How long does 1,000 ft of 35 mm run at 24 fps?",
     "o": [
-     "About 3 min",
+     "About 90 min",
      "About 11 min",
-     "About 30 min",
-     "About 90 min"
+     "About 3 min",
+     "About 16 min",
+     "About 30 min"
     ],
     "a": 1,
     "w": "It is about 11 minutes."
@@ -1498,24 +1526,26 @@ ARCHIVE_ADD({
    {
     "q": "Why test a grey-card bracket before a film shoot?",
     "o": [
-     "The lab asks for it",
-     "You cannot see the result on set, so the test checks your whole chain",
+     "You can't see results on set, so it checks the whole chain",
+     "It sets frame rate",
+     "It sets the camera's white balance and frame rate for the film stock in use",
      "To save film",
-     "It sets frame rate"
+     "The lab asks for it"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Film is developed later, so a test shows how your meter, camera and lab behave."
    },
    {
     "lec": 1,
     "q": "How many exposures did the first Kodak camera hold when it was sold loaded in 1888?",
     "o": [
+     "400",
+     "24",
      "12",
-     "36",
      "100",
-     "400"
+     "36"
     ],
-    "a": 2,
+    "a": 3,
     "w": "It was sold loaded with enough film for 100 exposures. {{wiki-eastman}}"
    }
   ],
@@ -1523,32 +1553,35 @@ ARCHIVE_ADD({
    {
     "q": "What does 2:3 pulldown convert?",
     "o": [
-     "25 fps to 24 fps",
      "24 fps film to about 29.97 fps video",
+     "29.97 fps video back into 24 fps film frames",
      "PAL to NTSC",
+     "25 fps to 24 fps",
      "Colour to black and white"
     ],
-    "a": 1,
+    "a": 0,
     "w": "It converts 24 to about 29.97 frames per second."
    },
    {
     "q": "Which tape family was designed for professional use?",
     "o": [
+     "Hi8",
+     "Betamax",
      "VHS",
      "Betacam",
-     "Hi8",
      "Video8"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Betacam was a professional half-inch family from Sony."
    },
    {
     "q": "How many fields are in a PAL second?",
     "o": [
-     "25",
-     "30",
+     "60",
+     "100",
      "50",
-     "60"
+     "25",
+     "30"
     ],
     "a": 2,
     "w": "PAL scans 50 fields per second."
@@ -1557,9 +1590,10 @@ ARCHIVE_ADD({
     "q": "Why deinterlace tape footage?",
     "o": [
      "To add grain",
-     "To avoid comb-like edges on progressive screens",
-     "To change the colour",
-     "To shorten it"
+     "To avoid comb edges on progressive screens",
+     "To double its resolution to full HD on progressive screens",
+     "To shorten it",
+     "To change the colour"
     ],
     "a": 1,
     "w": "Interlaced footage on a progressive screen needs deinterlacing."
@@ -1568,12 +1602,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What did reverse-cranking allow, according to the source?",
     "o": [
-     "Sound",
-     "The same film footage to be exposed several times",
      "Colour film",
-     "Faster shutters"
+     "Sound",
+     "Film to be projected backwards for comic effect",
+     "Faster shutters",
+     "The same footage to be exposed several times"
     ],
-    "a": 1,
+    "a": 4,
     "w": "It allowed the same footage to be exposed several times. {{wiki-paul}}"
    }
   ]

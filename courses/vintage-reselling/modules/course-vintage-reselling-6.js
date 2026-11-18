@@ -130,23 +130,25 @@
      "q": "When should you weigh and measure the packed parcel?",
      "o": [
       "After the sale",
-      "Before you list, so the postage price is accurate",
+      "After the sale, once you know the buyer's address",
+      "Before you list, so postage is priced right",
       "Only for heavy items",
       "Never"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Postage costs depend on the packed weight and size."
     },
     {
      "t": "check",
      "q": "In the worked example, how much does the seller lose on postage?",
      "o": [
-      "£0",
       "£5.80",
+      "£0",
+      "£15.00",
       "£9.00",
-      "£15.00"
+      "£3.20"
      ],
-     "a": 2,
+     "a": 3,
      "w": "The seller pays £15.00 for postage and packing but the buyer paid £6 for postage, so the shipping gap is £9.00."
     },
     {
@@ -250,12 +252,13 @@
      "t": "check",
      "q": "Your shop had 40 orders this quarter and 5 came back. Your target is under 10%. What is your return rate, and are you on target?",
      "o": [
-      "5%",
-      "12.5%",
-      "8%",
-      "20%"
+      "12.5%, so not on target",
+      "5%, so on target",
+      "8%, since 5 ÷ 40 rounds down to under 10%",
+      "20%, so not on target",
+      "8%, so on target"
      ],
-     "a": 1,
+     "a": 0,
      "w": "5 ÷ 40 = 0.125, which is 12.5%.",
      "kind": "application"
     },
@@ -263,12 +266,13 @@
      "t": "check",
      "q": "What should you do first when a buyer says an item arrived broken?",
      "o": [
+      "Delete the listing",
+      "Refund at once, without asking the buyer for any evidence",
       "Refuse the claim",
-      "Ask for photographs and compare with your packing photo",
       "Block the buyer",
-      "Delete the listing"
+      "Ask for photos and compare with your packing photo"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Evidence settles most cases and shows whether the cause is packing or the item."
     },
     {
@@ -445,10 +449,11 @@
      "t": "check",
      "q": "Alex sold £1,200 of vintage clothes this year and thinks there is nothing to do because profit was small. What does the guidance say?",
      "o": [
-      "Nothing to do; it is under £2,000",
-      "You must register for Self Assessment",
-      "You must pay 20% on all of it",
-      "You must register for VAT"
+      "Pay 20% on all of it",
+      "Register for Self Assessment",
+      "Nothing: it is under £2,000",
+      "Register for VAT",
+      "Nothing, since only profit counts and the profit was small"
      ],
      "a": 1,
      "w": "Gross trading income over £1,000 means registering for Self Assessment. {{gov-allowance}}",
@@ -458,12 +463,13 @@
      "t": "check",
      "q": "Which is usually better for a reseller with large stock costs?",
      "o": [
-      "The allowance, always",
-      "Real expenses, if they exceed £1,000",
       "Neither; no tax applies",
-      "Whichever the platform recommends"
+      "The £1,000 allowance, always, since it is simpler to claim",
+      "The allowance, always",
+      "Whichever the platform recommends",
+      "Real expenses, if they exceed £1,000"
      ],
-     "a": 1,
+     "a": 4,
      "w": "If your real costs exceed £1,000, claiming them gives a lower taxable profit than the allowance. {{iak}}"
     },
     {
@@ -610,22 +616,24 @@
      "t": "check",
      "q": "In the first worked example, what is the expected closing cost?",
      "o": [
-      "£620",
+      "£130",
+      "£490",
       "£574",
       "£84",
-      "£130"
+      "£620"
      ],
-     "a": 1,
+     "a": 2,
      "w": "620 + 84 − 130 = £574."
     },
     {
      "t": "check",
      "q": "What did Pacioli say about the inventory, in the translation?",
      "o": [
-      "Take it over a year",
-      "It must be completed in one day",
       "Skip small items",
-      "Keep it secret from staff"
+      "It must be completed in one day",
+      "Take it over a full week to avoid mistakes",
+      "Keep it secret from staff",
+      "Take it over a year"
      ],
      "a": 1,
      "w": "The whole inventory must be completed in one day. {{geijsbeek}}"
@@ -634,12 +642,13 @@
      "t": "check",
      "q": "When the debit and credit totals differ, what did he say it shows?",
      "o": [
-      "Nothing",
-      "That some mistake has been made in the ledger",
+      "A mistake in the ledger",
+      "A profit for the period",
       "A profit",
+      "Nothing",
       "A tax due"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He says the totals should be the same, otherwise a mistake has been made. {{geijsbeek}}"
     },
     {

@@ -221,23 +221,25 @@
      "q": "Which source is warmest?",
      "o": [
       "Overcast sky",
-      "Midday sun",
+      "Tungsten studio lamp",
+      "Electronic flash",
       "Candle flame",
-      "Electronic flash"
+      "Midday sun"
      ],
-     "a": 2,
+     "a": 3,
      "w": "A candle flame is about 1,850 K, the lowest on the list. {{wiki-kelvin}}"
     },
     {
      "t": "check",
      "q": "Your camera is set to 5500 K and you film a person under a 3200 K lamp. The skin looks:",
      "o": [
+      "Green",
       "Blue",
       "Orange",
-      "Green",
-      "Neutral"
+      "Neutral",
+      "Blue-magenta"
      ],
-     "a": 1,
+     "a": 2,
      "w": "A low colour temperature light appears orange when the camera is balanced for a higher one. {{wiki-kelvin}}",
      "kind": "application"
     },
@@ -245,12 +247,13 @@
      "t": "check",
      "q": "A straight 85 filter costs about how much light?",
      "o": [
-      "Two-thirds of a stop",
       "Two stops",
-      "Half a stop",
-      "None at all"
+      "Two-thirds of a stop",
+      "One and a third stops",
+      "None at all",
+      "Half a stop"
      ],
-     "a": 0,
+     "a": 1,
      "w": "An 85 has a filter factor of 1.6, about two-thirds of a stop. {{fh-ch8}}"
     },
     {
@@ -454,12 +457,13 @@
      "t": "check",
      "q": "In the three-point system, which light is usually the softest and weakest?",
      "o": [
-      "Key",
       "Fill",
+      "Key",
       "Backlight",
+      "Kicker",
       "Background"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The fill is usually softer and less bright, up to half the key. {{wiki-3pt}}"
     },
     {
@@ -467,23 +471,25 @@
      "q": "You move a lamp from 2 m to 4 m. How much light do you lose?",
      "o": [
       "One stop",
-      "Two stops",
+      "Four stops",
       "Half",
-      "None"
+      "None",
+      "Two stops"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Illumination falls with the square of distance. Double the distance gives a quarter of the light, two stops. This is standard physics."
     },
     {
      "t": "check",
      "q": "The bright side of a face reads one stop above the shadow side. What is the handbook's lighting contrast ratio?",
      "o": [
-      "2:1",
-      "4:1",
+      "3:1",
       "1:1",
+      "4:1",
+      "2:1",
       "8:1"
      ],
-     "a": 0,
+     "a": 3,
      "w": "One stop is a ratio of 2 to 1, two stops is 4 to 1 and three stops is 8 to 1. {{fh-ch12}}",
      "kind": "application"
     },
@@ -616,14 +622,15 @@
     },
     {
      "t": "check",
-     "q": "The director says the shadows on the actor's face are too hard. Which change to your source will soften them?",
+     "q": "The director says the shadows on the actor's face are too hard. What does a larger, diffused source give?",
      "o": [
-      "Harder shadows",
-      "Softer shadows",
       "Redder light",
-      "Brighter colours"
+      "Brighter colours",
+      "Harder shadows",
+      "Sharper shadow edges",
+      "Softer shadows"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Larger sources wrap light and soften shadows (common practice, our summary).",
      "kind": "application"
     },
@@ -631,12 +638,13 @@
      "t": "check",
      "q": "You light a night kitchen scene with a hard key from the window side where a street lamp stands. What is the point of placing it there?",
      "o": [
+      "It keeps the key off the camera's side, which avoids lens flare",
       "It saves electricity",
-      "The light appears to come from a believable source in the scene",
+      "The light seems to come from a believable source",
       "It makes the image sharper",
       "It avoids the need for a camera"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Audiences accept the lighting because it seems to come from something in the world of the film (common practice).",
      "kind": "application"
     },
@@ -752,22 +760,24 @@
      "t": "check",
      "q": "At EI 500, 24 fps and 180° shutter, how much light does f/4 need?",
      "o": [
-      "10 fc",
-      "20 fc",
       "40 fc",
-      "80 fc"
+      "160 fc",
+      "10 fc",
+      "80 fc",
+      "20 fc"
      ],
-     "a": 2,
+     "a": 0,
      "w": "The table lists 40 footcandles for f/4. {{kodak-500t}}"
     },
     {
      "t": "check",
      "q": "Why use a grey card?",
      "o": [
+      "To avoid lighting",
+      "A standard 18% reference to meter from",
       "To change the colour",
-      "It gives a standard 18 percent reference to meter from",
-      "To make the picture sharper",
-      "To avoid lighting"
+      "To set the white point of the highlights",
+      "To make the picture sharper"
      ],
      "a": 1,
      "w": "Kodak describes readings from an 18 percent reflectance grey card. {{kodak-500t}}"
@@ -776,12 +786,13 @@
      "t": "check",
      "q": "You meter a close-up on a light-skinned face with auto-iris. What will the handbook say tends to happen?",
      "o": [
-      "The face may come out too dark, because skin is about a stop brighter than the grey the meter assumes",
-      "The face will always be correct",
-      "The face will come out too bright",
-      "Nothing, skin tone is irrelevant to metering"
+      "No effect, since skin tone is irrelevant",
+      "Too bright, because the meter assumes skin and opens up",
+      "Too dark: skin is about a stop above meter grey",
+      "Too bright",
+      "Always correct"
      ],
-     "a": 0,
+     "a": 2,
      "w": "Average light skin is about a stop brighter than 18 per cent grey, so a meter aimed at grey can underexpose it. {{fh-ch5b}}",
      "kind": "application"
     },
@@ -857,24 +868,26 @@
      "t": "check",
      "q": "Mains is 230 V and you plan 2,000 W of lights. By the handbook's rounded rule, about how many amps is that?",
      "o": [
-      "10 A",
-      "2 A",
       "46 A",
+      "2 A",
+      "4.6 A",
+      "10 A",
       "100 A"
      ],
-     "a": 0,
+     "a": 3,
      "w": "2,000 ÷ 200 = 10 A, with a safety margin built in (our arithmetic). {{fh-ch12}}"
     },
     {
      "t": "check",
      "q": "You must film an interview outdoors at noon with no shade. What problem should you expect on the face?",
      "o": [
-      "Deep eye shadows from too much lighting contrast",
       "Too little light",
+      "Deep eye shadows from too much contrast",
       "A blue colour cast",
+      "A flat, shadowless face from the overhead sun",
       "Rolling shutter"
      ],
-     "a": 0,
+     "a": 1,
      "w": "Direct sun is a hard key with only sky fill, so shadows are very deep. {{fh-ch12}}",
      "kind": "application"
     },
@@ -973,12 +986,13 @@
      "t": "check",
      "q": "The director wants a noir look full of deep shadow for a confession scene. Which set-up gives it?",
      "o": [
-      "High-key with lots of fill",
-      "Low-key with hard sidelight and little fill",
+      "Low-key, hard sidelight, little fill",
+      "Soft top light",
       "Flat frontal light",
-      "Soft top light"
+      "High-key with a hard backlight and full fill",
+      "High-key with lots of fill"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Low-key uses hard sidelight with little fill. {{fa-ch4}}",
      "kind": "application"
     },
@@ -987,11 +1001,12 @@
      "q": "Your only lamp is mounted on top of the camera. What will it do to the actor's face?",
      "o": [
       "Sculpt the face",
-      "Flatten it",
       "Make a silhouette",
-      "Distort it from below"
+      "Sculpt it with strong side shadows",
+      "Distort it from below",
+      "Flatten it"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Frontal light removes shadow and flattens. {{fa-ch4}}",
      "kind": "application"
     },
@@ -1091,24 +1106,26 @@
      "t": "check",
      "q": "According to Block, what makes a line visible?",
      "o": [
+      "The lens's focal length",
+      "Sharp focus",
       "Tonal contrast",
       "Colour alone",
-      "Sharp focus",
       "Camera movement"
      ],
-     "a": 0,
+     "a": 2,
      "w": "A line is seen only where there is tonal contrast. {{block-lines}}"
     },
     {
      "t": "check",
      "q": "In McKee's mood test, what is kept fixed?",
      "o": [
-      "The light and lens",
       "The events",
+      "The colour grade",
+      "The camera position and lighting",
       "The cast",
-      "The colour grade"
+      "The light and lens"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The events are fixed, and the light, colour, lens and casting change the mood. {{mckee-scene}}"
     },
     {
@@ -1187,12 +1204,13 @@
      "t": "check",
      "q": "At 24 fps on 60 Hz mains, which shutter angle gives 1/60 second?",
      "o": [
-      "90 degrees",
-      "144 degrees",
+      "180 degrees",
       "172.8 degrees",
-      "180 degrees"
+      "90 degrees",
+      "216 degrees",
+      "144 degrees"
      ],
-     "a": 1,
+     "a": 4,
      "w": "144 ÷ 360 × 1/24 = 1/60. Our arithmetic. {{brown-production}}",
      "kind": "application"
     },
@@ -1200,12 +1218,13 @@
      "t": "check",
      "q": "Why judge paint or wardrobe under the light it will meet?",
      "o": [
-      "Metamerism",
       "Flicker",
+      "ND density",
       "Roll bars",
-      "ND density"
+      "Metamerism",
+      "Rolling shutter"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Colours that match in one light can differ in another. {{brown-color}}"
     },
     {
@@ -1274,14 +1293,15 @@
     },
     {
      "t": "check",
-     "q": "Your actor is wearing a green jacket for a greenscreen shot. What will happen, and what should you change?",
+     "q": "Your actor is wearing a green jacket for a greenscreen shot. What will happen?",
      "o": [
-      "The colour is replaced across the whole scene",
+      "It removes flicker",
+      "The jacket is keyed out along with the screen",
       "Green is brighter than blue",
       "It saves a stop of light",
-      "It removes flicker"
+      "Nothing: the key reads only the screen behind the actor"
      ],
-     "a": 0,
+     "a": 1,
      "w": "Whatever colour is keyed becomes transparent everywhere in the frame. {{brown-special}}",
      "kind": "application"
     },
@@ -1289,12 +1309,13 @@
      "t": "check",
      "q": "What is the safe way to aim a 5K?",
      "o": [
-      "Straight up",
       "Never straight up",
+      "Only with gels on the lens",
+      "Straight up",
       "Always at the ceiling",
-      "Only with gels on the lens"
+      "Straight up, to bounce off the ceiling"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Pointing it straight up blocks ventilation and lets the filament sag. {{brown-equipment}}"
     },
     {
@@ -1369,24 +1390,26 @@
      "t": "check",
      "q": "Which pair raises each other's apparent saturation?",
      "o": [
+      "Red and magenta",
       "Red and cyan",
       "Red and orange",
       "Blue and green",
       "Yellow and orange"
      ],
-     "a": 0,
+     "a": 1,
      "w": "Complementary pairs sit opposite on the colour wheel. {{block-colour}}"
     },
     {
      "t": "check",
      "q": "In Brown's order, what comes first in colour control?",
      "o": [
-      "Locations, art direction and costume",
-      "The grade",
+      "Camera white balance and the lens filters",
       "Filters",
-      "A lens change"
+      "Locations, art direction and costume",
+      "A lens change",
+      "The grade"
      ],
-     "a": 0,
+     "a": 2,
      "w": "Use the simplest means first. {{brown-palette}}"
     },
     {
@@ -1509,24 +1532,26 @@
      "t": "check",
      "q": "What did Freund do about lighting contrast, in his own account?",
      "o": [
-      "Raised it",
-      "Used a subject lighting contrast considerably lower than normal and processed normally",
+      "Removed all lights",
       "Ignored it",
-      "Removed all lights"
+      "Lit higher contrast than normal and pulled the processing",
+      "Lit lower contrast than normal, processed normally",
+      "Raised it"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He lowered the subject lighting contrast and used normal processing. {{freund-1953}}"
     },
     {
      "t": "check",
      "q": "Key adds 160 fc to a shadow side of 80 fc. What is the lit-to-shadow ratio?",
      "o": [
-      "2:1",
-      "3:1",
+      "4:1",
+      "8:1",
       "5:1",
-      "8:1"
+      "2:1",
+      "3:1"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The lit side is 240 fc and 240 ÷ 80 is 3.",
      "kind": "application"
     },
@@ -1535,11 +1560,12 @@
      "q": "Where were Freund's floor lights?",
      "o": [
       "On stands in the audience",
-      "On each camera dolly above the lens",
+      "None overhead",
+      "On stands beside each of the actors' marks",
       "Under the actors",
-      "There were none overhead"
+      "On each camera dolly above the lens"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The only floor lights were mounted on each camera dolly above the lens. {{freund-1953}}"
     },
     {

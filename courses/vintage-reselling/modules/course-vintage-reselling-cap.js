@@ -83,24 +83,26 @@
      "t": "check",
      "q": "Which item can go into the pack?",
      "o": [
+      "Any item at all, as long as it sold for a profit",
+      "An item you cannot date",
+      "One with a worked ceiling and a source record",
       "Any item you like",
-      "An item with a worked ceiling and a source record",
-      "An item with no records",
-      "An item you cannot date"
+      "An item with no records"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Each item needs a ceiling, a source and evidence."
     },
     {
      "t": "check",
      "q": "Why must you date every fee or rule you quote?",
      "o": [
-      "Platforms require it",
       "Fees and rules change",
+      "Platforms require it",
       "It is a tax rule",
-      "It makes the pack longer"
+      "It makes the pack longer",
+      "It is required by HMRC for records"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Fees and rules change, so the date shows when they were checked."
     },
     {
@@ -180,24 +182,26 @@
      "t": "check",
      "q": "What is the right order for the three review views?",
      "o": [
+      "Inspector, officer, then buyer",
       "Buyer, officer, inspector",
-      "Inspector only",
       "Buyer only",
+      "Inspector only",
       "Any single view"
      ],
-     "a": 0,
+     "a": 1,
      "w": "Each view catches a different kind of error."
     },
     {
      "t": "check",
      "q": "What should you do before scaling up?",
      "o": [
-      "Buy ten times the stock",
-      "Speak to an accountant and check Trading Standards guidance",
       "Stop recording",
-      "Cancel returns"
+      "Buy ten times the stock",
+      "Buy ten times the stock while prices are low, then check the rules",
+      "Cancel returns",
+      "See an accountant and check Trading Standards guidance"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Scaling magnifies mistakes and increases tax and legal exposure."
     },
     {
@@ -311,34 +315,37 @@
      "t": "check",
      "q": "What is a trial balance for?",
      "o": [
-      "To set a price",
-      "To confirm the totals agree",
+      "To file the tax return directly",
       "To file tax",
-      "To list items"
+      "To list items",
+      "To confirm the totals agree",
+      "To set a price"
      ],
-     "a": 1,
+     "a": 3,
      "w": "It lists balances in two columns to confirm debits equal credits. {{wiki-dentry}}"
     },
     {
      "t": "check",
      "q": "In the worked example, what is the total profit?",
      "o": [
+      "£22.36",
       "£54",
-      "About £95.64",
       "£181",
-      "£22.36"
+      "About £120.00",
+      "About £95.64"
      ],
-     "a": 1,
+     "a": 4,
      "w": "181 − 54 − 22.3625 − 6 − 3 = £95.6375."
     },
     {
      "t": "check",
      "q": "What do you do when the two totals differ?",
      "o": [
-      "Ignore it",
+      "Record the difference as profit and move straight on",
       "Go back through the entries to find the mistake",
-      "Raise prices",
-      "Delete the pack"
+      "Ignore it",
+      "Delete the pack",
+      "Raise prices"
      ],
      "a": 1,
      "w": "A mismatch means a mistake to find. {{geijsbeek}}"

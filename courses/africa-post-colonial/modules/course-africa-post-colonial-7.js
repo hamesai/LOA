@@ -78,7 +78,7 @@
     },
     {
      "t": "p",
-     "x": "The Rwandan Patriotic Front, formed by exiles in Uganda, invaded in 1990. {{lib}} The attack on Kigali on the night of 04/10/1990 was staged, and about 13,000 people were arrested. {{hrw-rwanda}}"
+     "x": "The Rwandan Patriotic Front, formed by exiles in Uganda, invaded in 1990. {{hrw-rwanda}} The attack on Kigali on the night of 04/10/1990 was staged, and about 13,000 people were arrested. {{hrw-rwanda}}"
     },
     {
      "t": "p",
@@ -108,10 +108,11 @@
      "t": "check",
      "q": "A documentary says the genocide came from 'ancient tribal hatred'. Which evidence answers that best?",
      "o": [
-      "None",
-      "The categories were social labels hardened into legal race by colonial rule, and the killing was prepared through propaganda and organisation from 1990",
-      "Rwanda had no history",
-      "The genocide was spontaneous"
+      "The genocide was spontaneous, with no planning",
+      "Colonial rule hardened social labels into race, and the killing was organised from 1990",
+      "None: the groups had fought each other continuously for centuries before 1994",
+      "Rwanda had no history before colonial rule",
+      "Belgium planned and ordered the killing in 1994 to keep control of its former colony through a client government"
      ],
      "a": 1,
      "w": "Hardened categories and prepared propaganda, not age-old hatred. {{hrw-rwanda}}",
@@ -121,12 +122,13 @@
      "t": "check",
      "q": "A source says the 'ten cows' rule decided who was registered as Tutsi. What should you say?",
      "o": [
-      "It is right",
-      "It is not correct for registration, though 1930s tax rules did distinguish owners of ten or more cattle",
-      "Cards were never issued",
-      "It was a German rule"
+      "Wrong for registration, though 1930s tax rules marked owners of ten cattle",
+      "Cards were never issued, so no rule decided anything",
+      "It is right, but the legal test on the identity cards was twenty cows, not ten",
+      "It was a German rule from before 1916",
+      "It is right: ten cows was the legal test written on every identity card"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Check a popular story against specialist research. {{hrw-rwanda}}",
      "kind": "application"
     },
@@ -157,7 +159,7 @@
     },
     {
      "t": "p",
-     "x": "The plane carrying President Habyarimana was shot down on 06/04/1994, and killing began the next day. {{lib}} Who shot down the plane is [CONTESTED], since French and Rwandan inquiries reached different conclusions. {{lib}}"
+     "x": "The plane carrying President Habyarimana was shot down on 06/04/1994, and killing began the next day. {{hrw-rwanda}} Who shot down the plane is [CONTESTED], since French and Rwandan inquiries reached different conclusions. {{reyntjens-2010}}"
     },
     {
      "t": "p",
@@ -197,7 +199,7 @@
     },
     {
      "t": "p",
-     "x": "The UN inquiry found the overriding failure was a lack of resources and political will, and called for an apology. {{carlsson}} In 2021 a French commission found heavy and overwhelming responsibilities in France's policy, without finding complicity in the genocide itself. {{lib}}"
+     "x": "The UN inquiry found the overriding failure was a lack of resources and political will, and called for an apology. {{carlsson}} In 2021 a French commission found heavy and overwhelming responsibilities in France's policy, without finding complicity in the genocide itself. {{hrw-2024-rwanda}} {{fgt-duclert}}"
     },
     {
      "t": "h",
@@ -298,18 +300,19 @@
        "One interpretation among several"
       ]
      ],
-     "src": "{{lib}} {{hrw-rwanda}}"
+     "src": "{{hrw-rwanda}}"
     },
     {
      "t": "check",
      "q": "A report quotes Rwanda's official count of 1,074,017 Tutsi victims. Why do scholars not credit that figure?",
      "o": [
-      "It overestimates the pre-genocide Tutsi population",
-      "It is too low",
-      "It was never published",
-      "It counts only Hutu"
+      "It counts only Hutu victims",
+      "It is too low, since it leaves out the refugee camps",
+      "It was never published by the government",
+      "It counts deaths across the whole Congo wars",
+      "It overestimates the pre-genocide Tutsi population"
      ],
-     "a": 0,
+     "a": 4,
      "w": "The baseline is too high. {{wiki-rwanda}}",
      "kind": "application"
     },
@@ -317,12 +320,13 @@
      "t": "check",
      "q": "You want to explain why ordinary people took part in the killing. Which sources answer that best, and with what caution?",
      "o": [
-      "A single memoir",
-      "Perpetrator interviews and human-rights research on coercion and recruitment, remembering that participants may excuse themselves",
-      "A radio schedule",
-      "Census tables"
+      "Census tables of the 1991 population",
+      "A radio schedule from RTLM",
+      "Perpetrator interviews and rights research, minding self-excuse",
+      "A single memoir by a survivor, read as representative",
+      "Court verdicts alone, since a court's findings settle the facts beyond doubt"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Match the voice to the question, and know its limit. {{hrw-rwanda}}",
      "kind": "application"
     },
@@ -347,11 +351,11 @@
     },
     {
      "t": "p",
-     "x": "The International Criminal Tribunal for Rwanda, from 1994 in Arusha, tried senior leaders. Rwanda's gacaca community courts (2002 to 2012) handled well over a million cases. {{lib}}"
+     "x": "The International Criminal Tribunal for Rwanda, from 1994 in Arusha, tried senior leaders. Rwanda's gacaca community courts (2002 to 2012) handled well over a million cases. {{un-ictr-2014}} {{brit-gacaca}}"
     },
     {
      "t": "p",
-     "x": "UN and human rights bodies have documented RPF killings after 1994, such as at Kibeho in 1995. The present government's limits on political space are widely criticised, and the government rejects the criticism [CONTESTED]. {{lib}}"
+     "x": "UN and human rights bodies have documented RPF killings after 1994, such as at Kibeho in 1995. The present government's limits on political space are widely criticised, and the government rejects the criticism [CONTESTED]. {{msf-kibeho}} {{hrw-2024-rwanda}}"
     },
     {
      "t": "h",
@@ -359,15 +363,15 @@
     },
     {
      "t": "p",
-     "x": "After the genocide, Hutu perpetrators and civilians fled into eastern Zaire. In 1996 to 1997 Rwanda, Uganda and others backed Laurent Kabila's rebellion, which ended Mobutu's rule. {{lib}}"
+     "x": "After the genocide, Hutu perpetrators and civilians fled into eastern Zaire. In 1996 to 1997 Rwanda, Uganda and others backed Laurent Kabila's rebellion, which ended Mobutu's rule. {{mapping-drc}}"
     },
     {
      "t": "p",
-     "x": "The Second Congo War (1998 to 2003) drew in about nine states and many armed groups. Deaths from violence, hunger and disease are given at several million [ESTIMATE, CONTESTED]. {{lib}}"
+     "x": "The Second Congo War (1998 to 2003) drew in about nine states and many armed groups. Deaths from violence, hunger and disease are given at several million [ESTIMATE, CONTESTED]. {{sage-congo}} {{cfr-drc}}"
     },
     {
      "t": "p",
-     "x": "The widely cited International Rescue Committee figure of about 5.4 million excess deaths has been criticised for method. Fighting in the east continues [check current]. {{lib}}"
+     "x": "The widely cited International Rescue Committee figure of about 5.4 million excess deaths has been criticised for method. Fighting in the east continues [check current]. {{bbc-drc-2010}} {{cfr-drc}}"
     },
     {
      "t": "callout",
@@ -380,7 +384,7 @@
     },
     {
      "t": "p",
-     "x": "The Constitutive Act (2000) came into force in 2001, and the AU was launched in Durban on 09/07/2002. Muammar Gaddafi pressed for rapid union and Thabo Mbeki shaped the institutions. {{lib}}"
+     "x": "The Constitutive Act was adopted at Lome on 11/07/2000, and the AU was launched in Durban in July 2002. {{au-act}} {{au-handbook-2021}}"
     },
     {
      "t": "table",
@@ -407,11 +411,11 @@
        "Agenda 2063 (adopted 2015); African Continental Free Trade Area trading from 01/01/2021"
       ]
      ],
-     "src": "{{lib}} {{oau-charter}}"
+     "src": "{{au-act}} {{au-handbook-2021}} {{oau-charter}}"
     },
     {
      "t": "p",
-     "x": "In practice, AU enforcement is limited by money and by member states' reluctance [CONTESTED]. {{lib}}"
+     "x": "In practice, AU enforcement is limited by money and by member states' reluctance [CONTESTED]. {{amani-2025}} {{icg-2020}}"
     },
     {
      "t": "example",
@@ -427,32 +431,34 @@
      "t": "check",
      "q": "In 2003 a member state begins killing a minority. Under the OAU's rules and under the AU's Article 4(h), what could each organisation do?",
      "o": [
-      "The OAU barred interference; the AU may intervene in grave cases such as genocide, though money and reluctance limit it",
-      "Both could intervene freely",
-      "Neither could act at all",
-      "Only the OAU could act"
+      "Neither could act at all under its founding rules",
+      "Both could intervene freely, since the OAU Charter also allowed it in genocide",
+      "The AU must intervene automatically, with no vote by members",
+      "The OAU barred interference; the AU may intervene, limited by money and will",
+      "Only the OAU could act, since the AU has no military role"
      ],
-     "a": 0,
-     "w": "That is the break from non-interference. {{lib}}",
+     "a": 3,
+     "w": "That is the break from non-interference.",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "A speaker cites 5.4 million deaths in the Congo wars as settled fact. What should you add?",
      "o": [
-      "That it is an excess-death estimate criticised for method, so give it as one estimate",
-      "That it is exactly confirmed",
-      "That it excludes Congo",
-      "That it was a census"
+      "That it is exactly confirmed by a census",
+      "That it was a census of violent deaths only",
+      "That it is too low, since every later study has raised the figure",
+      "It is a criticised excess-death estimate, one among several",
+      "That it excludes the Congo itself"
      ],
-     "a": 0,
-     "w": "Name the method behind a toll. {{lib}}",
+     "a": 3,
+     "w": "Name the method behind a toll.",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "The AU (2002) can intervene in cases of genocide; the OAU could not. {{lib}}",
+      "The AU (2002) can intervene in cases of genocide; the OAU could not.",
       "Congo war tolls are [ESTIMATE, CONTESTED].",
       "AU enforcement is limited by money and reluctance."
      ]
@@ -466,7 +472,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "The Arab Spring is not one event with one outcome. It covered several African countries with different paths. {{lib}}"
+     "x": "The Arab Spring is not one event with one outcome. It covered several African countries with different paths. {{brit-arabspring}}"
     },
     {
      "t": "table",
@@ -498,11 +504,11 @@
        "Bouteflika and al-Bashir removed in 2019 [check current]"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{brit-arabspring}} {{reuters-arabspring-2022}} {{un-1973}}"
     },
     {
      "t": "p",
-     "x": "The label Arab Spring itself is contested, and whether the results were failure or a longer process is [CONTESTED]. {{lib}}"
+     "x": "The label Arab Spring itself is contested, and whether the results were failure or a longer process is [CONTESTED]. {{reuters-arabspring-2022}}"
     },
     {
      "t": "example",
@@ -522,32 +528,34 @@
      "t": "check",
      "q": "A pundit says 'the Arab Spring failed everywhere'. Using criteria, what is the better verdict?",
      "o": [
-      "Agree",
-      "Mixed: rulers were removed, but stable democracy failed in most cases, and the 2019 movements in Algeria and Sudan continued the process",
-      "It succeeded everywhere",
-      "It never happened in Africa"
+      "It succeeded everywhere it began",
+      "It succeeded in Libya and Egypt, and failed only in Tunisia, where the ruler stayed",
+      "Mixed: rulers fell, democracy mostly failed, and 2019 continued it",
+      "Agree: no ruler was removed anywhere in North Africa",
+      "It never happened in Africa, only in the Middle East"
      ],
-     "a": 1,
-     "w": "Name criteria before giving a verdict. {{lib}}",
+     "a": 2,
+     "w": "Name criteria before giving a verdict.",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "Which country's uprising led to UN Security Council Resolution 1973 and NATO air strikes?",
      "o": [
-      "Libya",
-      "Tunisia",
       "Egypt",
-      "Algeria"
+      "Tunisia",
+      "Algeria",
+      "Sudan",
+      "Libya"
      ],
-     "a": 0,
-     "w": "Resolution 1973 (March 2011) authorised protection of civilians. {{lib}}",
+     "a": 4,
+     "w": "Resolution 1973 (March 2011) authorised protection of civilians. {{un-1973}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "The Arab Spring had different outcomes in Tunisia, Egypt and Libya. {{lib}}",
+      "The Arab Spring had different outcomes in Tunisia, Egypt and Libya.",
       "Name criteria before giving a verdict.",
       "Later movements in Algeria and Sudan matter [check current]."
      ]
@@ -570,7 +578,7 @@
     },
     {
      "t": "p",
-     "x": "Sudan's wars between north and south (1955 to 1972 and 1983 to 2005) ended with the Comprehensive Peace Agreement of 09/01/2005. A January 2011 referendum gave about 98.8 per cent for independence, and South Sudan became independent on 09/07/2011. {{lib}}"
+     "x": "Sudan's wars between north and south (1955 to 1972 and 1983 to 2005) ended with the Comprehensive Peace Agreement of 09/01/2005. A January 2011 referendum gave about 98.8 per cent for independence, and South Sudan became independent on 09/07/2011. {{unmiss-background}}"
     },
     {
      "t": "p",
@@ -578,11 +586,11 @@
     },
     {
      "t": "p",
-     "x": "Civil war began in December 2013 between President Salva Kiir and Riek Machar. Deaths are estimated in the hundreds of thousands, with one study putting it at about 400,000 by 2018 [ESTIMATE]. {{lib}}"
+     "x": "Civil war began in December 2013 between President Salva Kiir and Riek Machar. Deaths are estimated in the hundreds of thousands, with one study putting it at about 400,000 by 2018 [ESTIMATE]. {{lshtm-2018}} {{crs-southsudan-2026}}"
     },
     {
      "t": "p",
-     "x": "In September 2026 Kiir dissolved the transitional government; Machar is detained and on trial, and elections are scheduled for 22/12/2026 [check current]. {{lib}}"
+     "x": "In September 2026 Kiir dissolved the transitional government; Machar is detained and on trial, and elections are scheduled for 22/12/2026 [check current]. {{ap-southsudan-2026}} {{crs-southsudan-2026}}"
     },
     {
      "t": "h",
@@ -590,7 +598,7 @@
     },
     {
      "t": "p",
-     "x": "Since April 2023 the Sudanese army and the Rapid Support Forces have fought a war that aid workers say has killed over 200,000 people and displaced millions. Drone strikes are now a main cause of civilian deaths, and El Fasher fell to the RSF in October 2025 [check current]. {{lib}}"
+     "x": "Since April 2023 the Sudanese army and the Rapid Support Forces have fought a war with death estimates from 150,000 to 400,000, and millions have been displaced. {{csis-sudan-2026}} Drone strikes are now the main cause of civilian deaths, and El Fasher fell to the RSF in October 2025 [check current]. {{ohchr-drones-2026}} {{ohchr-fasher-2026}}"
     },
     {
      "t": "p",
@@ -602,7 +610,7 @@
     },
     {
      "t": "p",
-     "x": "Military takeovers since 2020 in Mali, Burkina Faso and Niger, and in Guinea and Gabon, have challenged AU norms and regional bodies [check current]. {{lib}}"
+     "x": "Military takeovers since 2020 in Mali, Burkina Faso and Niger, and in Guinea and Gabon, have challenged AU norms and regional bodies [check current]. {{iss-coups-2023}}"
     },
     {
      "t": "example",
@@ -618,32 +626,34 @@
      "t": "check",
      "q": "You are writing a lesson on South Sudan's elections using sources read last month. Why must you mark it [check current]?",
      "o": [
-      "Because events may have changed since the date the sources were read",
-      "Because they are fictional",
-      "Because they are exact",
-      "Because they ended long ago"
+      "They ended long ago",
+      "Events may have changed since the sources were read",
+      "They are fictional",
+      "They are exact",
+      "The sources were anonymous, so their claims cannot be checked"
      ],
-     "a": 0,
-     "w": "Date every present-tense claim. {{lib}}",
+     "a": 1,
+     "w": "Date every present-tense claim.",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "A UN item gives 34 million in need but no death toll for Sudan's war. Another source says over 200,000 have died. How should you write it?",
      "o": [
-      "Use the UN figure for deaths",
-      "Give the need figure from the UN and the death estimate from aid workers, each with its date and source, both [check current]",
-      "Average them",
-      "Leave Sudan out"
+      "Give each figure from its source, with dates, both [check current]",
+      "Use 200,000 for both the number in need and the number of deaths",
+      "Use the UN figure for deaths, since the UN is the stronger source",
+      "Average the two figures",
+      "Leave Sudan out of the lesson until a single agreed figure appears"
      ],
-     "a": 1,
-     "w": "Keep figures with their source and date. {{dppa-sudan}} {{lib}}",
+     "a": 0,
+     "w": "Keep figures with their source and date. {{dppa-sudan}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "South Sudan became independent on 09/07/2011 and fell into civil war in December 2013. {{lib}}",
+      "South Sudan became independent on 09/07/2011 and fell into civil war in December 2013.",
       "Recent events are snapshots [check current].",
       "Do not state the situation in Sudan or South Sudan as settled."
      ]
@@ -662,11 +672,11 @@
     },
     {
      "t": "p",
-     "x": "Source note: this rests on an encyclopaedic summary, not his own work. Wikipedia reports that he published widely, wrote poetry and developed his ujamaa ideology. In the 1960s he and others preferred gradual regional steps to Nkrumah's continental government. {{wiki-nyerere}} {{lib}}"
+     "x": "Source note: this rests on an encyclopaedic summary, not his own work. Wikipedia reports that he published widely, wrote poetry and developed his ujamaa ideology. In the 1960s he and others preferred gradual regional steps to Nkrumah's continental government. {{wiki-nyerere}}"
     },
     {
      "t": "p",
-     "x": "Confidence: partial. The application to the AU is our inference, not a quotation from him. {{lib}}"
+     "x": "Confidence: partial. The application to the AU is our inference, not a quotation from him."
     },
     {
      "t": "h",
@@ -675,9 +685,9 @@
     {
      "t": "ol",
      "i": [
-      "State the founding aim of the institution. {{lib}}",
+      "State the founding aim of the institution.",
       "List what members agreed to give up.",
-      "Compare words with practice: Article 4(h) against money and reluctance. {{lib}}",
+      "Compare words with practice: Article 4(h) against money and reluctance.",
       "Ask whether gradual steps or a single leap fits better.",
       "State the limit of the evidence."
      ]
@@ -706,8 +716,7 @@
        "Some sovereignty over coups",
        "Suspension of states is the usual tool"
       ]
-     ],
-     "src": "{{lib}}"
+     ]
     },
     {
      "t": "h",
@@ -719,7 +728,7 @@
      "steps": [
       "The OAU of 1963 chose cooperation; the AU of 2002 added Article 4(h) and later bodies.",
       "That is a step, not a leap.",
-      "A fair summary: African states moved in steps, and enforcement still lags the text. {{lib}}"
+      "A fair summary: African states moved in steps, and enforcement still lags the text."
      ]
     },
     {
@@ -742,30 +751,32 @@
      "t": "check",
      "q": "Which approach did Nyerere and others prefer in the 1960s?",
      "o": [
-      "Gradual regional steps",
       "An immediate continental government",
-      "No cooperation",
-      "A federal Europe"
+      "Gradual regional steps",
+      "A single currency at once",
+      "A federal Europe",
+      "No cooperation"
      ],
-     "a": 0,
-     "w": "That is the lesson's point. {{lib}}"
+     "a": 1,
+     "w": "That is the lesson's point."
     },
     {
      "t": "check",
-     "q": "Which limit of the AU does the library name?",
+     "q": "Which limit of the AU do the sources name?",
      "o": [
-      "Money and member-state reluctance",
+      "No charter",
+      "A treaty ban on peacekeeping missions",
       "Too many powers",
       "No members",
-      "No charter"
+      "Money and member-state reluctance"
      ],
-     "a": 0,
-     "w": "Enforcement is limited. {{lib}}"
+     "a": 4,
+     "w": "Enforcement is limited."
     },
     {
      "t": "take",
      "i": [
-      "Compare an institution's words with practice. {{lib}}",
+      "Compare an institution's words with practice.",
       "Ask what members gave up.",
       "This is our application, not his words."
      ]

@@ -16,7 +16,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Maji Maji was a rising in southern German East Africa, now Tanzania. It joined many peoples against a set of colonial policies. {{lib}}"
+     "x": "Maji Maji was a rising in southern German East Africa, now Tanzania. It joined many peoples against a set of colonial policies. {{gha-vii-ch08}}"
     },
     {
      "t": "fig",
@@ -30,7 +30,7 @@
     },
     {
      "t": "p",
-     "x": "The causes were compulsory cotton growing on communal plots, a head tax, forced labour and abuses by local agents. {{lib}} The war was triggered by policies designed to force people to grow cotton for export. {{wiki-maji}}"
+     "x": "The causes were compulsory cotton growing on communal plots, a head tax, forced labour and abuses by local agents. {{gha-vii-ch08}} The war was triggered by policies designed to force people to grow cotton for export. {{wiki-maji}}"
     },
     {
      "t": "p",
@@ -42,7 +42,7 @@
     },
     {
      "t": "p",
-     "x": "A spirit medium, Kinjikitile Ngwale, distributed maji, water said to protect against bullets. The rising began in July 1905 and spread across many peoples. Kinjikitile was hanged soon after. {{lib}}"
+     "x": "A spirit medium, Kinjikitile Ngwale, distributed maji, water said to protect against bullets. The rising began in July 1905 and spread across more than twenty peoples. Kinjikitile was hanged on 04/08/1905. {{gha-vii-ch08}}"
     },
     {
      "t": "p",
@@ -54,7 +54,7 @@
     },
     {
      "t": "p",
-     "x": "German reinforcements destroyed food stores and villages, which caused famine. The rising ended in 1907. {{lib}}"
+     "x": "German reinforcements destroyed food stores and villages, which caused famine. The rising ended in 1907. {{gha-vii-ch08}} {{wiki-maji}}"
     },
     {
      "t": "table",
@@ -99,7 +99,7 @@
     },
     {
      "t": "p",
-     "x": "The Maji Maji Research Project (Dar es Salaam, 1968) collected oral testimony, and Gilbert Gwassa and John Iliffe published records. {{lib}}"
+     "x": "Gilbert Gwassa and John Iliffe published oral testimony from the rising in Records of the Maji Maji Rising (Dar es Salaam, 1968). {{gha-vii-ch03}}"
     },
     {
      "t": "p",
@@ -107,7 +107,7 @@
     },
     {
      "t": "p",
-     "x": "Early nationalist readings made Maji Maji a proto-national movement: TANU's activists saw themselves as its heirs, and Nyerere said the nation was built on its ashes. {{gha-viii-ch16}} Later work stresses local origins and the many groups involved [CONTESTED]. {{lib}}"
+     "x": "Early nationalist readings made Maji Maji a proto-national movement: TANU's activists saw themselves as its heirs, and Nyerere said the nation was built on its ashes. {{gha-viii-ch16}} Later work stresses local origins and the many groups involved [CONTESTED]. {{gha-vii-ch08}}"
     },
     {
      "t": "example",
@@ -123,12 +123,13 @@
      "t": "check",
      "q": "A summary says Maji Maji was a religious uprising sparked by magic water. Which fuller set of causes should it give?",
      "o": [
-      "A religious festival alone",
-      "Forced cotton, a head tax, forced labour and agents' abuses, with a prophetic movement that united many peoples",
-      "A Belgian invasion",
-      "A coup in Berlin"
+      "A Belgian invasion from the west, which drew local peoples into war",
+      "A coup in Berlin, which removed the colony's governor",
+      "A religious festival alone, which German officials misread as rebellion",
+      "Forced cotton, a head tax, forced labour and abuses, with a prophetic movement",
+      "Magic water alone, which persuaded people that German bullets would turn to water"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Policy grievances and a prophetic message together. {{wiki-maji}} {{gha-vii-ch03}}",
      "kind": "application"
     },
@@ -136,10 +137,11 @@
      "t": "check",
      "q": "You must quote a single death toll for Maji Maji in a talk. How should you present it?",
      "o": [
-      "As exactly 300,000",
-      "As a range, 75,000 to 300,000 or more, mostly from hunger, which nobody counted well",
-      "As 391, the German count",
-      "As unknown and unknowable"
+      "As unknown and unknowable, and so leave it out of the talk",
+      "As a range, 75,000 to 300,000 or more, mostly from hunger",
+      "As 75,000, since the lowest figure is the most cautious",
+      "As exactly 300,000, the figure most often quoted in textbooks",
+      "As 391, the German count, since it is the only official figure"
      ],
      "a": 1,
      "w": "Deaths were mostly civilians through hunger [ESTIMATE]. {{wiki-maji}}",
@@ -162,7 +164,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "German South West Africa, now Namibia, was Germany's settler colony. Land and cattle were taken through debt and sale, and railways and settler violence raised tension. {{lib}}"
+     "x": "German South West Africa, now Namibia, was Germany's settler colony. Land and cattle were taken through debt and sale, and railways and settler violence raised tension. {{hs-victory}} {{wiki-herero}}"
     },
     {
      "t": "h",
@@ -170,23 +172,23 @@
     },
     {
      "t": "p",
-     "x": "On 12/01/1904 Herero forces under Samuel Maharero attacked German farms and posts, killing about 100 to 150 settlers [ESTIMATE]. {{lib}} {{gha-vii-ch10}}"
+     "x": "On 12/01/1904 Herero forces under Samuel Maharero attacked German farms and posts, killing about 100 to 150 settlers [ESTIMATE]. {{gha-vii-ch10}}"
     },
     {
      "t": "p",
-     "x": "General Lothar von Trotha arrived in June. After the Battle of Waterberg in August, most Herero fled into the Omaheke desert, where German forces cut off water. {{lib}}"
+     "x": "General Lothar von Trotha arrived in June. After the Battle of Waterberg in August, most Herero fled into the Omaheke desert, where German forces cut off water. {{hs-victory}} {{wiki-herero}}"
     },
     {
      "t": "p",
-     "x": "On 02/10/1904 Trotha issued an order to destroy the Herero. The Kaiser rescinded it on 08/12/1904. {{lib}}"
+     "x": "On 02/10/1904 Trotha issued an order to destroy the Herero. The German government rescinded it on 08/12/1904. {{jd-2021}} {{hs-victory}}"
     },
     {
      "t": "p",
-     "x": "Nama leaders such as Hendrik Witbooi rose in October 1904, and Witbooi was killed in 1905. Trotha issued a second extermination order against the Nama on 22/04/1905. {{lib}} {{wiki-herero}}"
+     "x": "Nama leaders such as Hendrik Witbooi rose in October 1904, and Witbooi was killed in 1905. Trotha issued a second extermination order against the Nama on 22/04/1905. {{wiki-herero}}"
     },
     {
      "t": "p",
-     "x": "Survivors were put in camps, including on Shark Island, with very high mortality. The camps were ordered closed in 1908. {{lib}}"
+     "x": "Survivors were put in camps, including on Shark Island, with very high mortality. The camps were ordered closed in 1908. {{wiki-herero}} {{bundesreg-2025}}"
     },
     {
      "t": "h",
@@ -218,7 +220,7 @@
       ],
       [
        "An estimated 100,000 people died",
-       "The German government's statement {{lib}}",
+       "The German government's statement {{bundesreg-2025}}",
        "Combines both peoples"
       ]
      ],
@@ -249,50 +251,52 @@
     },
     {
      "t": "p",
-     "x": "A 1985 UN report (Whitaker) described the events as genocide. In 2021 Germany said that the atrocities, from today's perspective, would be called genocide, and offered 1.1 billion euros over thirty years. The Joint Declaration was initialled on 21/05/2021 but not signed. {{lib}}"
+     "x": "A 1985 UN report (Whitaker) described the events as genocide. {{whitaker-1985}} In 2021 Germany said that the atrocities, from today's perspective, would be called genocide, and offered 1.1 billion euros over thirty years. {{jd-2021}} The Joint Declaration was initialled on 15/05/2021 but not signed. {{de-noteverbale-2023}}"
     },
     {
      "t": "p",
-     "x": "Many Ovaherero and Nama leaders reject it because their representatives were not full parties and because it avoids reparations. A court case in Namibia challenges it. {{lib}}"
+     "x": "Many Ovaherero and Nama leaders reject it because their representatives were not full parties and because it avoids reparations. A court case in Namibia challenges it. {{ohchr-2026}} {{bt-wd-2024}}"
     },
     {
      "t": "p",
-     "x": "Namibia held its first national remembrance day on 28/05/2025, and the Bundestag debated the issue on 14/10/2026 [check current]. {{lib}}"
+     "x": "Namibia held its first national remembrance day on 28/05/2025, and the Bundestag debated the issue on 14/10/2026 [check current]. {{bundesreg-2025}} {{bundestag-2026}}"
     },
     {
      "t": "p",
-     "x": "Some historians (Jurgen Zimmerer, Isabel Hull) link German colonial warfare to later German policy. Others, for instance Birthe Kundrus, caution against a direct line to the Holocaust [CONTESTED]. {{lib}}"
+     "x": "Some historians (Jurgen Zimmerer, Isabel Hull) link German colonial warfare to later German policy. Others, for instance Birthe Kundrus, caution against a direct line to the Holocaust [CONTESTED]. {{kundrus-2005}} {{freiburg-2008}}"
     },
     {
      "t": "check",
      "q": "A news piece says the 2021 Germany-Namibia declaration settled the Herero and Nama case. Why do many Ovaherero and Nama reject it?",
      "o": [
-      "It was too long",
-      "Their representatives were not full parties and it avoids the word reparations",
-      "Germany refused to speak",
-      "It was signed in secret"
+      "It recognised genocide, but it paid much less than the communities had asked for",
+      "Germany refused to speak to Namibia's government at all",
+      "Their representatives were not full parties, and it avoids the word reparations",
+      "It was too long and too technical for the communities to read",
+      "It was signed in secret, and its text has never been published"
      ],
-     "a": 1,
-     "w": "Both reasons apply, and it was initialled, not signed. {{lib}}",
+     "a": 2,
+     "w": "Both reasons apply, and it was initialled, not signed.",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "You are asked to defend calling the events in German South West Africa a genocide. Which evidence gives the strongest support?",
      "o": [
-      "Trotha's extermination orders of 02/10/1904 and 22/04/1905, the Omaheke and the camps",
-      "The weather in 1904",
-      "A railway timetable",
-      "Settler numbers"
+      "The weather in 1904, which caused the deaths in the desert",
+      "Settler numbers, which rose sharply after the war ended",
+      "The 2021 declaration, which a German court upheld as binding",
+      "A railway timetable showing troop movements into the colony",
+      "Trotha's orders of 1904 and 1905, the Omaheke and the camps"
      ],
-     "a": 0,
-     "w": "Intent in the orders, the desert and the camps, and the 1985 UN report. {{lib}} {{wiki-herero}}",
+     "a": 4,
+     "w": "Intent in the orders, the desert and the camps, and the 1985 UN report. {{wiki-herero}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Trotha's orders, the Omaheke and the camps are central evidence. {{lib}}",
+      "Trotha's orders, the Omaheke and the camps are central evidence.",
       "Tolls rest on uncertain pre-war populations [ESTIMATE].",
       "The 2021 declaration was initialled, not signed, and is rejected by many descendants [check current]."
      ]
@@ -310,7 +314,7 @@
     },
     {
      "t": "p",
-     "x": "In Kenya, European settlers held the White Highlands while many Kikuyu were evicted or became squatters. {{lib}} About 5 million acres had been taken by 1914, and about 294,000 Kikuyu, nearly 29 per cent, lived outside the reserves in 1948. {{tjrc-kenya}}"
+     "x": "In Kenya, European settlers held the White Highlands while many Kikuyu were evicted or became squatters. About 5 million acres had been taken by 1914, and about 294,000 Kikuyu, nearly 29 per cent, lived outside the reserves in 1948. {{tjrc-kenya}}"
     },
     {
      "t": "p",
@@ -322,7 +326,7 @@
     },
     {
      "t": "p",
-     "x": "The Kenya African Union (1944) pressed for land and rights. Oathing and militant groups emerged and called themselves the Land and Freedom Army. {{lib}} The KAU leaders were not the organisers, and Kenyatta had been repudiated by the oath-takers. {{gha-viii-ch05}}"
+     "x": "The Kenya African Union (1944) pressed for land and rights. Oathing and militant groups emerged and called themselves the Land and Freedom Army. {{gha-viii-ch09}} {{bbc-maumau-2003}} The KAU leaders were not the organisers, and Kenyatta had been repudiated by the oath-takers. {{gha-viii-ch05}}"
     },
     {
      "t": "h",
@@ -330,11 +334,11 @@
     },
     {
      "t": "p",
-     "x": "A State of Emergency was declared on 20/10/1952. Kenyatta and others were tried at Kapenguria (1952 to 1953) and imprisoned. {{lib}}"
+     "x": "A State of Emergency was declared on 20/10/1952. Kenyatta and others were tried at Kapenguria (1952 to 1953) and imprisoned. {{gha-viii-ch09}} {{kapenguria-ijtj}}"
     },
     {
      "t": "p",
-     "x": "The British deployed eleven infantry battalions, a heavy-bomber squadron, 21,000 police and a Home Guard of 25,000. {{rd-mau}} They ran mass screening, forced villagisation and detention camps, and Operation Anvil (April 1954) swept Nairobi. {{lib}}"
+     "x": "The British deployed eleven infantry battalions, a heavy-bomber squadron, 21,000 police and a Home Guard of 25,000. {{rd-mau}} They ran mass screening, forced villagisation and detention camps, and Operation Anvil (April 1954) swept Nairobi. {{tjrc-kenya}} {{gha-viii-ch09}}"
     },
     {
      "t": "p",
@@ -346,11 +350,11 @@
     },
     {
      "t": "p",
-     "x": "At Hola camp, 11 detainees were beaten to death on 03/03/1959; the commandant gave a false account of deaths from a water cart, and an inquiry found they came from violence. {{tjrc-kenya}} {{lib}}"
+     "x": "At Hola camp, 11 detainees were beaten to death on 03/03/1959; the commandant gave a false account of deaths from a water cart, and an inquiry found they came from violence. {{tjrc-kenya}}"
     },
     {
      "t": "p",
-     "x": "Dedan Kimathi was captured in October 1956 and hanged in 1957. {{lib}} The main conflict is dated from 07/10/1952 to 21/10/1956, with 1956 to 1960 the period of remnants, so date conventions differ between sources. {{wiki-mau}}"
+     "x": "Dedan Kimathi was captured in October 1956 and hanged in 1957. {{gha-viii-ch05}} {{wiki-mau}} The main conflict is dated from 07/10/1952 to 21/10/1956, with 1956 to 1960 the period of remnants, so date conventions differ between sources. {{wiki-mau}}"
     },
     {
      "t": "h",
@@ -382,13 +386,13 @@
       ],
       [
        "About 20,000 or more African deaths",
-       "David Anderson {{lib}}",
+       "David Anderson {{bbc-maumau-2003}} {{kapenguria-ijtj}}",
        "Court and administration records",
        "[ESTIMATE, CONTESTED]"
       ],
       [
-       "Tens of thousands to possibly 100,000 or more in the detention system",
-       "Caroline Elkins {{lib}}",
+       "Tens of thousands, perhaps hundreds of thousands, dead",
+       "Caroline Elkins {{elkins-2005}}",
        "Oral testimony and 'missing' in census data; demographers dispute it",
        "[CONTESTED]"
       ],
@@ -428,11 +432,11 @@
     },
     {
      "t": "p",
-     "x": "The British removed and hid most records of the war on the eve of independence. {{tjrc-kenya}} In 2011 the British government acknowledged that it held thousands of colonial files migrated out of Kenya in 1963, and released them to The National Archives (series FCO 141). {{lib}}"
+     "x": "The British removed and hid most records of the war on the eve of independence. {{tjrc-kenya}} In 2011 the British government acknowledged that it held thousands of colonial files migrated out of Kenya in 1963, and released them to The National Archives (series FCO 141). {{guardian-elkins-2016}}"
     },
     {
      "t": "p",
-     "x": "In 2013 Britain agreed to pay 19.9 million pounds to 5,228 Kenyan claimants and expressed regret. Kenya had banned Mau Mau until 2003. {{lib}}"
+     "x": "In 2013 Britain agreed to pay 19.9 million pounds to 5,228 Kenyan claimants and expressed regret. {{gov-maumau-2013}} Kenya had banned Mau Mau until 2003. {{bbc-maumau-2003}}"
     },
     {
      "t": "p",
@@ -442,12 +446,13 @@
      "t": "check",
      "q": "Two articles give Mau Mau tolls of 11,000 and 100,000, and each accuses the other of error. What should you check first?",
      "o": [
-      "Which is larger",
-      "What category each counts: 11,503 is insurgents killed, while the higher estimates count deaths across the detention system",
-      "Who wrote first",
-      "Neither"
+      "What each counts: insurgents killed versus deaths across detention",
+      "Neither, since both are guesses with no basis",
+      "Who wrote first, since the later writer may have copied",
+      "Which author had access to Kenyan government records",
+      "Which is larger, since larger figures usually include more evidence"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The figures answer different questions. {{tjrc-kenya}}",
      "kind": "application"
     },
@@ -455,13 +460,14 @@
      "t": "check",
      "q": "A historian in 2005 had no access to Britain's Kenya files. What changed in 2011, and why does it matter?",
      "o": [
-      "Nothing",
-      "Britain acknowledged and released the migrated files (FCO 141), so earlier counts rested on what had survived",
-      "The files were destroyed",
-      "Kenya opened its army records"
+      "Nothing changed: the files had been public since 1963 but unread",
+      "Britain released the files but kept all those on detention closed",
+      "Kenya opened its army records to foreign researchers",
+      "Britain admitted and released the migrated files, FCO 141",
+      "The files were found to have been destroyed in 1963"
      ],
-     "a": 1,
-     "w": "Late-released archives change what can be known. {{lib}}",
+     "a": 3,
+     "w": "Late-released archives change what can be known.",
      "kind": "application"
     },
     {
@@ -591,12 +597,13 @@
      "t": "check",
      "q": "A textbook sorts African rulers into 'resisters' and 'collaborators'. Which example best shows why that fails?",
      "o": [
-      "Omdurman",
-      "Khama, Sebele and Bathoen, who went to London in 1895 to keep protectorate status against Rhodes's Company",
-      "The Rif war",
-      "Maji Maji"
+      "Khama, Sebele and Bathoen's 1895 trip to London to resist Rhodes",
+      "The Rif war, fought by Abd el-Krim against Spain and France",
+      "Omdurman, where the Mahdist state resisted Britain to the end",
+      "Maji Maji, where whole peoples rose against German rule",
+      "Shaka's Zulu kingdom, which kept resisting British rule after the war of 1879"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Wardship and diplomacy were strategies of their own. {{gha-vii-ch09}}",
      "kind": "application"
     },
@@ -604,10 +611,11 @@
      "t": "check",
      "q": "50,000 people left the Zambezi valley in 1895 to 1907 to avoid tax. How should a historian classify that?",
      "o": [
-      "As apathy",
+      "As apathy toward colonial rule",
       "As resistance by flight",
-      "As migration with no political meaning",
-      "As collaboration"
+      "As labour migration for wages",
+      "As collaboration with Portugal",
+      "As migration with no political meaning"
      ],
      "a": 1,
      "w": "Tax flight was a common form of resistance. {{gha-vii-resist}}",
@@ -691,12 +699,12 @@
       ],
       [
        "Mau Mau",
-       "Memoirs by Itote and J. M. Kariuki; Kimathi's papers; Ngugi wa Thiong'o",
+       "Memoirs such as J. M. Kariuki's 'Mau Mau' Detainee (1963)",
        "FCO 141 migrated files",
        "Files were destroyed or moved before 1963"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha-vii-ch03}} {{wiki-herero}} {{kariuki-1963}} {{tjrc-kenya}}"
     },
     {
      "t": "example",
@@ -716,12 +724,13 @@
      "t": "check",
      "q": "Two tolls for the same war use different categories. What should you do?",
      "o": [
-      "Average them",
+      "Add them together to reach a single combined total",
+      "Pick the larger, since deaths are undercounted",
       "Say which category each counts and keep them apart",
-      "Pick the larger",
-      "Delete both"
+      "Delete both and say the toll is unknown",
+      "Average them to give one defensible figure"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The categories answer different questions. {{tjrc-kenya}}",
      "kind": "application"
     },
@@ -729,19 +738,20 @@
      "t": "check",
      "q": "Which source would best answer 'why did Maji Maji begin?'",
      "o": [
-      "Gotzen's 1909 official history",
-      "Oral testimony collected by the 1968 research project, checked against German records",
-      "A Mau Mau memoir",
-      "The FCO 141 files"
+      "German army casualty returns from 1905, read against the governor's dispatches",
+      "A Mau Mau memoir from Kenya",
+      "Gotzen's 1909 official history, written by the governor",
+      "The FCO 141 files on colonial Kenya",
+      "The 1968 project's oral testimony, checked against German records"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The official history omits the cotton scheme. {{wiki-maji}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Compare cases by cause, method and source, not by the biggest number. {{lib}}",
+      "Compare cases by cause, method and source, not by the biggest number.",
       "African voices and colonial records each have limits.",
       "Always give the range and the method."
      ]
@@ -764,7 +774,7 @@
     },
     {
      "t": "p",
-     "x": "Confidence: partial. We did not read his writings. The sorting table below is our own design. {{lib}}"
+     "x": "Confidence: partial. We did not read his writings. The sorting table below is our own design."
     },
     {
      "t": "h",
@@ -775,8 +785,8 @@
      "i": [
       "List the questions you are asking: who died, why it began, how it is remembered.",
       "Match each question to the record that can answer it.",
-      "Mark what each record leaves out. {{lib}}",
-      "Use a late-released archive to correct an early one, as with FCO 141. {{lib}}",
+      "Mark what each record leaves out.",
+      "Use a late-released archive to correct an early one, as with FCO 141.",
       "Write the answer as a range with the method."
      ]
     },
@@ -804,8 +814,7 @@
        "Migrated archives (FCO 141) and survivors' accounts",
        "Files were moved or destroyed before 1963"
       ]
-     ],
-     "src": "{{lib}}"
+     ]
     },
     {
      "t": "h",
@@ -817,7 +826,7 @@
      "steps": [
       "Use Kenya's ban on the movement until 2003 and veterans' complaints of being sidelined.",
       "These are African official and oral records, and they answer a different question from the British death counts.",
-      "Keep them separate in your notes. {{lib}}"
+      "Keep them separate in your notes."
      ]
     },
     {
@@ -840,31 +849,33 @@
      "t": "check",
      "q": "You are taking notes on Maji Maji from a German officer's report and from oral testimony collected later. Why keep them separate?",
      "o": [
-      "They answer different questions",
+      "The later one copied the earlier",
       "They always agree",
-      "One of them is false",
-      "They are the same"
+      "They are the same source",
+      "One of them must be false",
+      "They answer different questions"
      ],
-     "a": 0,
-     "w": "Each has its own limits. {{lib}}",
+     "a": 4,
+     "w": "Each has its own limits.",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "What did the FCO 141 release do?",
      "o": [
-      "Showed that files migrated from Kenya had been kept and made them public",
-      "Ended the Emergency",
-      "Banned Mau Mau",
-      "Created the OAU"
+      "Showed files migrated from Kenya had been kept, and opened them",
+      "Created the OAU in Addis Ababa",
+      "Proved the migrated files had been destroyed before Kenya's independence",
+      "Ended the Emergency in Kenya",
+      "Banned Mau Mau as an organisation"
      ],
      "a": 0,
-     "w": "Britain acknowledged them in 2011. {{lib}}"
+     "w": "Britain acknowledged them in 2011. {{guardian-elkins-2016}}"
     },
     {
      "t": "take",
      "i": [
-      "Match each question to the record that can answer it. {{lib}}",
+      "Match each question to the record that can answer it.",
       "Late archives can correct early ones.",
       "Write ranges with methods."
      ]

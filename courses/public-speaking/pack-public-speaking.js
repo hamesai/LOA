@@ -1345,21 +1345,23 @@ ARCHIVE_ADD({
    {
     "q": "Which three things does the text say a speech needs?",
     "o": [
-     "Message, skill and passion",
-     "Slides, notes and a microphone",
      "Humour, speed and volume",
-     "Length, volume and a script"
+     "Length, volume and a script",
+     "Confidence, charm and a good joke",
+     "Message, skill and passion",
+     "Slides, notes and a microphone"
     ],
-    "a": 0,
+    "a": 3,
     "w": "The text describes message, skill and passion."
    },
    {
     "q": "In the ethics pyramid, where does intent sit?",
     "o": [
-     "Top",
+     "It is not included",
      "Middle",
      "Base",
-     "It is not included"
+     "Top",
+     "At the top, above the ends"
     ],
     "a": 2,
     "w": "Intent is at the base, then means, then ends."
@@ -1368,8 +1370,9 @@ ARCHIVE_ADD({
     "q": "You want to use a striking statistic you found in a blog post. Which is the right way to handle plagiarism risk?",
     "o": [
      "Say the source aloud",
-     "Change a few words",
      "Hope no one notices",
+     "Change a few words",
+     "Change the wording so it is your own",
      "Use a bought speech"
     ],
     "a": 0,
@@ -1379,9 +1382,10 @@ ARCHIVE_ADD({
    {
     "q": "When do nerves often peak, according to the text's account?",
     "o": [
-     "During the speech",
-     "In anticipation, before starting",
      "A year later",
+     "Just before starting",
+     "In the middle of the speech",
+     "During the speech",
      "Never"
     ],
     "a": 1,
@@ -1391,12 +1395,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What does the Greek word logos name in Aristotle's scheme?",
     "o": [
-     "Character",
-     "Emotion",
      "Argument",
-     "Delivery"
+     "Character and credibility",
+     "Emotion",
+     "Delivery",
+     "Character"
     ],
-    "a": 2,
+    "a": 0,
     "w": "Logos is the proof provided by the words of the speech. {{arist-b1}}"
    }
   ],
@@ -1404,43 +1409,47 @@ ARCHIVE_ADD({
    {
     "q": "How many stages of listening does the course use?",
     "o": [
-     "Three",
      "Five",
-     "Eight",
-     "Ten"
+     "Four",
+     "Ten",
+     "Three",
+     "Eight"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Receive, understand, remember, evaluate and respond."
    },
    {
     "q": "Which is a psychological audience factor?",
     "o": [
-     "Age",
      "Room size",
+     "Age, gender and job title",
+     "Time of day",
      "Beliefs and attitudes",
-     "Time of day"
+     "Age"
     ],
-    "a": 2,
+    "a": 3,
     "w": "Psychological analysis covers beliefs, attitudes and values."
    },
    {
     "q": "What should a specific purpose statement include?",
     "o": [
-     "Only a topic",
-     "Audience, verb and a single idea",
+     "A list of slides",
      "A joke",
-     "A list of slides"
+     "Audience, verb and a single idea",
+     "Only a topic",
+     "Several aims, so it covers everything"
     ],
-    "a": 1,
+    "a": 2,
     "w": "It states what a particular audience should understand, believe or do."
    },
    {
     "q": "Narrowing a topic helps you:",
     "o": [
-     "Speak for longer",
+     "Cover more ground in the time",
      "Fit the time and focus",
      "Avoid research",
-     "Skip the audience"
+     "Skip the audience",
+     "Speak for longer"
     ],
     "a": 1,
     "w": "Narrowing fits the time and focuses the speech."
@@ -1449,12 +1458,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What two features did Aristotle use to sort types of audience character?",
     "o": [
-     "Age and fortune",
-     "Height and weight",
+     "Class and profession",
+     "Speed and volume",
      "City and country",
-     "Speed and volume"
+     "Height and weight",
+     "Age and fortune"
     ],
-    "a": 0,
+    "a": 4,
     "w": "He sorted by ages and by fortune. {{mit-arist}}"
    }
   ],
@@ -1462,32 +1472,35 @@ ARCHIVE_ADD({
    {
     "q": "How much of preparation time should research take at most?",
     "o": [
+     "About two thirds",
      "All of it",
      "About half",
-     "About one third",
-     "None"
+     "None",
+     "About one third"
     ],
-    "a": 2,
+    "a": 4,
     "w": "No more than one third."
    },
    {
     "q": "Which is NOT one of the four tests for support?",
     "o": [
-     "Accuracy",
-     "Authority",
      "Currency",
-     "Popularity"
+     "Objectivity",
+     "Popularity",
+     "Authority",
+     "Accuracy"
     ],
-    "a": 3,
+    "a": 2,
     "w": "The four are accuracy, authority, currency and objectivity."
    },
    {
     "q": "Which is a kind of support?",
     "o": [
      "Testimony",
+     "Posture",
      "Silence",
      "Volume",
-     "Posture"
+     "Eye contact"
     ],
     "a": 0,
     "w": "The six kinds are facts and statistics, definitions, examples, narratives, testimony and analogies."
@@ -1495,24 +1508,26 @@ ARCHIVE_ADD({
    {
     "q": "What does 'analysis' do in setup, execution, analysis?",
     "o": [
-     "Introduces the source",
-     "Explains how the evidence supports your point",
      "Reads the URL",
-     "Ends the speech"
+     "Introduces the source and gives the author's credentials",
+     "Ends the speech",
+     "Explains how the evidence supports your point",
+     "Introduces the source"
     ],
-    "a": 1,
+    "a": 3,
     "w": "It links the evidence to your argument."
    },
    {
     "lec": 1,
     "q": "Which are the five canons of rhetoric?",
     "o": [
-     "Invention, arrangement, style, memory, delivery",
-     "Opening, middle, end, thanks, questions",
+     "Exordium, narration, proof, refutation and peroration",
      "Voice, face, hands, feet, eyes",
-     "Plan, write, edit, print, post"
+     "Opening, middle, end, thanks, questions",
+     "Plan, write, edit, print, post",
+     "Invention, arrangement, style, memory, delivery"
     ],
-    "a": 0,
+    "a": 4,
     "w": "They are invention, arrangement, style, memory and delivery. {{cicero-w}} {{open-rhet}}"
    }
   ],
@@ -1520,33 +1535,36 @@ ARCHIVE_ADD({
    {
     "q": "Your speech is ten minutes long. About how long should the introduction take?",
     "o": [
-     "10 to 15 percent of the speech",
-     "50 percent",
      "5 percent",
+     "25 to 30 percent",
+     "10 to 15 percent",
+     "50 percent",
      "No set share"
     ],
-    "a": 0,
+    "a": 2,
     "w": "The text gives 10 to 15 percent.",
     "kind": "application"
    },
    {
     "q": "Which is true of main points in a short speech?",
     "o": [
-     "Use as many as possible",
      "Two or three, parallel in form",
+     "As many as possible",
      "At least seven",
-     "Never use patterns"
+     "Never use patterns",
+     "Five to seven, each different in form"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Two or three, united, separate, balanced, parallel and logical."
    },
    {
     "q": "What is a signpost?",
     "o": [
      "A road sign",
-     "A label such as 'first' or 'finally' that guides the audience",
-     "A type of notecard",
-     "A concluding device"
+     "A label such as 'first' or 'finally' that guides listeners",
+     "A device for ending the speech on a high note that the audience will remember",
+     "A concluding device",
+     "A type of notecard"
     ],
     "a": 1,
     "w": "Signposts help the audience keep up."
@@ -1555,11 +1573,12 @@ ARCHIVE_ADD({
     "q": "How many cards does the text recommend for a speech with three main points?",
     "o": [
      "One",
+     "Ten",
      "Three",
      "Five",
-     "Ten"
+     "Fifteen"
     ],
-    "a": 2,
+    "a": 3,
     "w": "Introduction, three points and conclusion."
    },
    {
@@ -1567,11 +1586,12 @@ ARCHIVE_ADD({
     "q": "Which part of a speech outlines what will follow?",
     "o": [
      "Exordium",
-     "Partitio",
      "Peroratio",
+     "Confirmatio",
+     "Partitio",
      "Narratio"
     ],
-    "a": 1,
+    "a": 3,
     "w": "The partitio, or division, outlines what follows. {{sr-partitio}}"
    }
   ],
@@ -1580,44 +1600,48 @@ ARCHIVE_ADD({
     "q": "Which is typical of oral language?",
     "o": [
      "Longer sentences",
-     "More repetition",
      "More jargon",
-     "No contractions"
+     "No contractions",
+     "Longer, more complex sentences",
+     "More repetition"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Speech uses more repetition and contractions."
    },
    {
     "q": "What is a hedge?",
     "o": [
+     "A pause that is used for emphasis on a key point",
      "A pause",
      "A modifier showing you are not sure",
      "A gesture",
      "A kind of metaphor"
     ],
-    "a": 1,
+    "a": 2,
     "w": "It is a modifier like 'sort of'."
    },
    {
     "q": "Which delivery method suits most speeches?",
     "o": [
-     "Impromptu",
-     "Memorised",
      "Manuscript",
-     "Extemporaneous"
+     "Extemporaneous",
+     "Memorised",
+     "Impromptu",
+     "Manuscript, read aloud"
     ],
-    "a": 3,
+    "a": 1,
     "w": "The text says extemporaneous."
    },
    {
     "q": "You reach your most important point. What is a good use of a pause here?",
     "o": [
+     "Signal you have lost your place",
+     "Skip a point",
      "Fill with 'um'",
      "Add emphasis",
-     "End the speech",
-     "Skip a point"
+     "End the speech"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Pauses emphasise and clarify.",
     "kind": "application"
    },
@@ -1626,11 +1650,12 @@ ARCHIVE_ADD({
     "q": "How old was Churchill when he wrote The Scaffolding of Rhetoric?",
     "o": [
      "15",
-     "23",
+     "60",
      "40",
-     "60"
+     "23",
+     "33"
     ],
-    "a": 1,
+    "a": 3,
     "w": "He wrote it in 1897 when he was 23. {{churchill-pdf}}"
    }
   ],
@@ -1638,57 +1663,62 @@ ARCHIVE_ADD({
    {
     "q": "An aid should be:",
     "o": [
-     "Packed with text",
-     "Readable from the back and explained",
      "Left to speak for itself",
-     "Passed round as a single copy"
+     "Passed round as a single copy",
+     "Packed with detail, so it stands alone",
+     "Packed with text",
+     "Readable from the back and explained"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Aids must be seen and explained."
    },
    {
     "q": "Which explanation fits an idea that is hard to believe?",
     "o": [
-     "Elucidating",
-     "Quasi-scientific",
+     "Descriptive",
      "Transformative",
-     "Descriptive"
+     "Quasi-scientific",
+     "Elucidating",
+     "Elucidating (defining)"
     ],
-    "a": 2,
+    "a": 1,
     "w": "Show why their idea is plausible, its limits, then the accepted view."
    },
    {
     "q": "Which is a policy claim?",
     "o": [
      "'The bridge opened in 1932.'",
-     "'The bridge should be closed.'",
+     "'The bridge carries 40,000 cars a day.'",
      "'The bridge is a bridge.'",
+     "'The bridge should be closed.'",
      "'The bridge is beautiful.'"
     ],
-    "a": 1,
+    "a": 3,
     "w": "A policy claim says what should be done."
    },
    {
     "q": "What is the last step of Monroe's motivated sequence?",
     "o": [
-     "Attention",
-     "Need",
+     "Action",
      "Visualisation",
-     "Action"
+     "Satisfaction",
+     "Attention",
+     "Need"
     ],
-    "a": 3,
+    "a": 0,
     "w": "Attention, need, satisfaction, visualisation, action."
    },
    {
     "lec": 1,
     "q": "Which question is at the centre of Douglass's 1852 speech?",
     "o": [
-     "What is liberty?",
-     "What, to the American slave, is your 4th of July?",
+     "Why speak?",
+     "What did the founders of the republic intend by freedom?",
      "Who wrote the Constitution?",
-     "Why speak?"
+     "What, to the American slave, is your 4th of July?",
+     "What is liberty?"
     ],
-    "a": 1,
+    "a": 3,
     "w": "That question is at its centre. {{douglass-text}}"
    }
   ],
@@ -1697,12 +1727,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What is the best way to practise the capstone speech?",
     "o": [
-     "Read it silently",
-     "Rehearse aloud from short-line notes with a timer",
      "Skip practice",
-     "Memorise every word"
+     "Read it silently",
+     "Memorise every word",
+     "Read the full script silently several times",
+     "Aloud from short-line notes, with a timer"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Rehearse aloud from short-line notes with a timer."
    }
   ]

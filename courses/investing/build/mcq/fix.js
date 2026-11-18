@@ -1,0 +1,20 @@
+/* Length fixes for all.js: [module suffix, match start, distractor index, new text]. */
+module.exports = [
+ ["1", "In Fisher's account, what sets the interest rate?", 3, "Only the central bank's decision, made each month"],
+ ["1", "What is the main purpose of an emergency fund?", 3, "To earn more than a share fund in a bad year for markets"],
+ ["2", "Why does a 1.5% annual fee hurt more over time?", 3, "It rises by a further 1.5% on top each year"],
+ ["2", "What should a learner call an assumed rate?", 3, "A firm forecast"],
+ ["4", "The Balanced split above falls about 27%", 3, "Bonds always rise whenever shares fall"],
+ ["4", "Shares rise 20% in a portfolio", 3, "72% (60 + 12)"],
+ ["4", "What is diversification?", 3, "Holding many shares in one sector, so no single company can hurt you"],
+ ["4", "What is the efficient frontier?", 3, "The highest return available at any level of risk"],
+ ["4", "What did Markowitz's 1952 paper focus on?", 3, "The expected return of each single holding, taken on its own"],
+ ["4", "What is the 10% rule of thumb?", 3, "Save 10% of your income every month before investing anything at all"],
+ ["5", "A friend says they are choosing between a unit trust", 3, "Global index tracker fund"],
+ ["5", "In the SPIVA table, what share of active US large-cap", 3, "About 78.5%"],
+ ["5", "An active fund charges 1% more a year than a tracker", 3, "Match the index exactly before charges are taken off"],
+ ["6", "You buy a share only because a post says it will double", 3, "None, since the post gave a clear, specific forecast"],
+ ["6", "What makes an operation an investment, in Graham's test?", 3, "A high expected return, whatever the safety of the money put in"],
+ ["6", "What should you check first with an unsolicited offer?", 3, "The caller's own website and online reviews"],
+ ["6", "With an unsolicited offer, what do you check first?", 3, "The caller's own website and online reviews"],
+];

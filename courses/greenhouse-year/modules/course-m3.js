@@ -152,12 +152,13 @@
      "t": "check",
      "q": "Your greenhouse air reads 20°C but the seed trays sit on a cold concrete floor. Which temperature matters for germination?",
      "o": [
-      "The air temperature in the greenhouse",
-      "The temperature of the growing medium",
       "The outdoor temperature",
+      "The air temperature at bench height, since seeds respond to the air",
+      "The temperature of the growing medium",
+      "The air temperature",
       "The water temperature in the sump"
      ],
-     "a": 1,
+     "a": 2,
      "w": "UMD: this should be the temperature of the growing medium, not the air.",
      "kind": "application"
     },
@@ -165,12 +166,13 @@
      "t": "check",
      "q": "What happens if the medium dries out after germination has begun?",
      "o": [
-      "Nothing; seeds recover",
-      "The embryo can die",
       "Seeds germinate faster",
-      "The mix turns acidic"
+      "The mix turns acidic",
+      "Nothing; seeds recover",
+      "Germination pauses and restarts when watered",
+      "The embryo can die"
      ],
-     "a": 1,
+     "a": 4,
      "w": "UMD: once the process has begun, a dry period will cause the death of the embryo."
     },
     {
@@ -280,21 +282,23 @@
      "q": "A tray holds 12–18 large transplants. How many trays do you need for 36 large transplants at 12 per tray?",
      "o": [
       "2",
+      "2.5",
+      "6",
       "3",
-      "4",
-      "6"
+      "4"
      ],
-     "a": 1,
+     "a": 3,
      "w": "36 ÷ 12 = 3 trays. At 18 per tray you would need 2, so the range is 2 to 3."
     },
     {
      "t": "check",
-     "q": "You squeeze a handful of seed compost and water drips out. Is it ready to sow into, and what should it feel like?",
+     "q": "You squeeze a handful of seed compost and water drips out. Is it ready to sow into?",
      "o": [
-      "Dusty and dry",
-      "Like a wrung-out sponge",
-      "Dripping wet when squeezed",
-      "Hard and compacted"
+      "No: it should be dusty and dry",
+      "No: it should feel like a wrung-out sponge",
+      "Yes: dripping wet is ideal for sowing",
+      "Yes: seeds need the mix soaked until water runs out, then left to drain overnight",
+      "Yes, as long as it is warm"
      ],
      "a": 1,
      "w": "USU: it is too wet if you can squeeze water from a handful.",
@@ -440,12 +444,13 @@
      "t": "check",
      "q": "A seed packet gives no depth for seeds about 1 mm across. What is a sound starting depth?",
      "o": [
-      "About 5 times the diameter",
       "About 2–3 times the seed's diameter",
       "On the surface for every seed",
-      "As deep as the tray allows"
+      "As deep as the tray allows",
+      "About 5 times the diameter",
+      "About 10 mm, the standard depth for all small seeds"
      ],
-     "a": 1,
+     "a": 0,
      "w": "USU gives 2–3 times; UMD and UAF give about twice. Light-needing seeds are the exception.",
      "kind": "application"
     },
@@ -454,23 +459,25 @@
      "q": "When should the dome come off?",
      "o": [
       "After a week regardless",
-      "As soon as sprouts appear",
+      "When the mix turns green",
       "Never",
-      "Only when the mix turns green"
+      "Once the first true leaves have fully opened",
+      "As soon as sprouts appear"
      ],
-     "a": 1,
+     "a": 4,
      "w": "UMD and UAF: remove covers as soon as seedlings appear."
     },
     {
      "t": "check",
      "q": "Seedlings in a crowded, still, cool corner with soggy compost start collapsing at the stem. Which conditions caused it?",
      "o": [
-      "Warm, dry, spacious plants",
-      "Poor air circulation, crowded plants, cool soggy soil and weak light",
+      "Poor air flow, crowding, cool soggy mix and weak light",
+      "Perlite on the surface",
+      "Warm, dry, spacious conditions",
       "Strong light and moving air",
-      "Perlite on the surface"
+      "Too much direct sun on the tray, which scorched the young stems"
      ],
-     "a": 1,
+     "a": 0,
      "w": "UAF lists exactly these conditions.",
      "kind": "application"
     },
@@ -623,12 +630,13 @@
      "t": "check",
      "q": "Your plug-grown seedlings now show their first true leaves. What should you do?",
      "o": [
-      "Before it germinates",
-      "As soon as the first true leaves develop",
-      "After it flowers",
-      "When the mix turns dry"
+      "Wait until they flower",
+      "Wait two more weeks",
+      "Leave them until the mix dries",
+      "Pot them on now",
+      "Wait until they are root-bound in the cell"
      ],
-     "a": 1,
+     "a": 3,
      "w": "NRCS and UAF both give the first true leaves as the trigger.",
      "kind": "application"
     },
@@ -636,10 +644,11 @@
      "t": "check",
      "q": "What does NRCS do on days 5 to 7 of hardening off?",
      "o": [
-      "Withholds all water",
-      "Removes the row cover and lets breezes work the plants",
       "Moves plants to deep shade",
-      "Plants straight into the bed"
+      "Removes the row cover and lets breezes work the plants",
+      "Covers them fully day and night to protect them from the wind",
+      "Plants straight into the bed",
+      "Withholds all water"
      ],
      "a": 1,
      "w": "After about five days the cover comes off, and after about a week the plants are ready."
@@ -765,12 +774,13 @@
      "t": "check",
      "q": "Tray 1: 30 seeds sown, 27 germinated. What is germination?",
      "o": [
-      "80 per cent",
-      "90 per cent",
+      "10 per cent",
       "27 per cent",
-      "93 per cent"
+      "90 per cent",
+      "93 per cent",
+      "80 per cent"
      ],
-     "a": 1,
+     "a": 2,
      "w": "27 divided by 30 is 0.9, or 90 per cent.",
      "kind": "application"
     },
@@ -778,24 +788,26 @@
      "t": "check",
      "q": "What did Mendel say happens with a smaller number of experimental plants?",
      "o": [
+      "Ratios come out closer to the ideal",
       "Results are always exact",
-      "Very considerable fluctuations may occur",
+      "Large fluctuations may occur",
       "Counting is unnecessary",
       "Seeds germinate faster"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He noted that with a smaller number of experimental plants, very considerable fluctuations may occur. {{mendel65}}"
     },
     {
      "t": "check",
      "q": "What did he do about the odd plants in one of the 34 varieties?",
      "o": [
+      "Discarded the whole variety at once, without running any trial on it",
+      "Crossed them first",
       "Ignored them",
-      "Concluded the seed had been accidentally mixed, after the two-year trial",
-      "Sold them",
-      "Crossed them first"
+      "Judged the seed mixed by accident, after a two-year trial",
+      "Sold them"
      ],
-     "a": 1,
+     "a": 3,
      "w": "They did not vary in the following year and agreed with another variety, so the seeds had been accidentally mixed. {{mendel65}}"
     },
     {

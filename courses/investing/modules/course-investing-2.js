@@ -59,6 +59,10 @@
      "x": "A capital loss is the same mechanism as a gain, running the other way."
     },
     {
+     "t": "p",
+     "x": "Fisher kept the two apart: a capital gain is not income but the market's new valuation of future income. British consols changed in price every day with the money market while the income they paid flowed on at the same rate. {{fisher30-ch1}}"
+    },
+    {
      "t": "callout",
      "k": "key",
      "x": "When you add up a return, include all four sources, and take off the fees. A share that pays no dividend can still grow in value, and a fund that pays dividends can still fall."
@@ -163,12 +167,13 @@
      "t": "check",
      "q": "A fund pays you £40 in dividends, and its price falls by £100 over the year. What is the total return before fees?",
      "o": [
-      "£40 profit",
-      "£60 loss",
       "£140 loss",
-      "£100 profit"
+      "£100 profit",
+      "£60 loss",
+      "£100 loss",
+      "£40 profit"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The total is £40 income minus £100 price fall, a loss of £60. Returns include income and price change together.",
      "kind": "application"
     },
@@ -176,24 +181,26 @@
      "t": "check",
      "q": "Which of these is rent a source of return for?",
      "o": [
-      "Shares",
-      "Property",
       "Cash",
-      "Bonds"
+      "Infrastructure bonds",
+      "Bonds",
+      "Shares",
+      "Property"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Rent comes from property. {{mh-beginners}}"
     },
     {
      "t": "check",
      "q": "You pay £200, receive £5 in income and the price rises to £208. What is the total return?",
      "o": [
-      "2.5%",
-      "4.0%",
+      "6.0%",
       "6.5%",
-      "8.0%"
+      "8.0%",
+      "2.5%",
+      "4.0%"
      ],
-     "a": 2,
+     "a": 1,
      "w": "Price change £8 plus income £5 is £13, and £13 ÷ £200 is 6.5%. Our arithmetic.",
      "kind": "application"
     },
@@ -215,6 +222,10 @@
     {
      "t": "p",
      "x": "Compounding means earning a return on the return you have already earned."
+    },
+    {
+     "t": "p",
+     "x": "Fisher's picture of compounding is a tree planted with 5 of labour that is worth 15 after 25 years: the planter can have the 15, but only by waiting the 25 years. {{fisher30-ch3}}"
     },
     {
      "t": "p",
@@ -264,7 +275,7 @@
     },
     {
      "t": "p",
-     "x": "At 5%, it gives about 14 years; the exact figure is about 14.2 years. This is our arithmetic and a rule of thumb, not a sourced standard."
+     "x": "At 5%, it gives about 14 years; the exact figure is about 14.2 years (our arithmetic). The OpenStax finance textbook gives the same rule, with 9% doubling money in 8 years and 6% in 12. {{os-ch7}}"
     },
     {
      "t": "h",
@@ -361,12 +372,13 @@
      "t": "check",
      "q": "At a steady 5% a year, roughly how long does money take to double?",
      "o": [
-      "5 years",
       "About 14 years",
       "About 50 years",
+      "5 years",
+      "About 20 years",
       "It never doubles"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The rule of 72 gives about 14 years at 5%, and the exact figure is about 14.2 years."
     },
     {
@@ -374,11 +386,12 @@
      "q": "What is £1,000 worth after 10 years at a steady 5% a year, to the nearest pound?",
      "o": [
       "£1,500",
+      "£1,551",
+      "£2,000",
       "£1,629",
-      "£1,050",
-      "£2,000"
+      "£1,050"
      ],
-     "a": 1,
+     "a": 3,
      "w": "£1,000 × 1.05^10 is £1,628.89. This is our arithmetic.",
      "kind": "application"
     },
@@ -386,12 +399,13 @@
      "t": "check",
      "q": "Why does Saver A, who starts at 25, end far ahead of Saver B, who starts at 35, although A paid in only £12,000 more?",
      "o": [
-      "A chose better investments",
+      "Inflation helps early savers",
+      "A paid in more, and the extra £12,000 explains almost all of the gap",
       "The extra ten years let growth compound on a bigger base",
       "B paid fees and A did not",
-      "Inflation helps early savers"
+      "A chose better investments"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Both used the same rate, so the difference is time. The extra ten years of compounding add about £66,715. Our arithmetic.",
      "kind": "application"
     },
@@ -570,10 +584,11 @@
      "t": "check",
      "q": "Why does a 1.5% annual charge hurt more than the same charge in year one would suggest?",
      "o": [
-      "Because it is paid only once",
-      "Because it is taken every year and compounds",
-      "Because it is refunded later",
-      "Because it applies only to gains"
+      "It is paid only once",
+      "It is taken every year and compounds",
+      "It applies only to gains",
+      "It is refunded later",
+      "It rises by 1.5% each year on top of the first"
      ],
      "a": 1,
      "w": "Fees are taken every year, so the lost growth compounds too. This is our inference from the arithmetic."
@@ -582,24 +597,26 @@
      "t": "check",
      "q": "Which charge covers the additional running costs of a fund beyond the annual management charge?",
      "o": [
-      "Ongoing Charges Figure",
-      "Dividend",
+      "Annual exempt amount",
       "Capital gain",
-      "Annual exempt amount"
+      "Dividend",
+      "Platform dealing charge per trade",
+      "Ongoing Charges Figure"
      ],
-     "a": 0,
+     "a": 4,
      "w": "The Ongoing Charges Figure covers additional costs. {{mh-beginners}}"
     },
     {
      "t": "check",
      "q": "A 1.5% charge is applied to a £100,000 pot. How much is taken in the year?",
      "o": [
-      "£150",
-      "£1,500",
       "£15,000",
-      "£15"
+      "£1,050",
+      "£15",
+      "£1,500",
+      "£150"
      ],
-     "a": 1,
+     "a": 3,
      "w": "£100,000 × 1.5% is £1,500, taken whatever the market did. Our arithmetic."
     },
     {
@@ -686,6 +703,14 @@
     {
      "t": "p",
      "x": "An average hides the path. A gain of 50% followed by a loss of 50% does not return you to where you began."
+    },
+    {
+     "t": "p",
+     "x": "The two figures have names. The geometric average is the compounded yearly return you actually earned; the arithmetic average is the plain mean of the yearly figures, and it is always higher unless every year is the same. Both are correct but answer different questions: growth over the whole period, or a typical single year. {{os-ch15}}"
+    },
+    {
+     "t": "p",
+     "x": "A real example: Delta Air Lines shares went from 11.19 to 40.21 over ten years, a compounded 13.65% a year, yet the yearly returns ran from a loss of 35.79% to a gain of 132.61%, with four losing years. {{os-ch15}}"
     },
     {
      "t": "example",
@@ -779,22 +804,24 @@
      "t": "check",
      "q": "A fund is up 30% over five years. Which statement is closest to the yearly rate?",
      "o": [
-      "6.0%, because 30 ÷ 5 = 6",
       "About 5.4%, allowing for compounding",
-      "30%",
-      "About 3%"
+      "6.0% a year, since compounding does not change an average",
+      "6.0%, since 30 ÷ 5 = 6",
+      "About 3%",
+      "30%"
      ],
-     "a": 1,
+     "a": 0,
      "w": "1.30 to the power of one fifth is about 1.0539, so about 5.4% a year. This is our arithmetic."
     },
     {
      "t": "check",
      "q": "A fund's advert says its average yearly return over two years was 0% (up 50%, then down 50%). What actually happened to £100?",
      "o": [
-      "£100",
-      "£75",
       "£125",
-      "£150"
+      "£75",
+      "£150",
+      "£100, since the average was 0%",
+      "£100"
      ],
      "a": 1,
      "w": "£100 × 1.5 × 0.5 = £75, so a plain average of the two figures would mislead.",
@@ -811,7 +838,7 @@
    ]
   },
   {
-   "id": "l6",
+   "id": "l5",
    "title": "Practice: judging two offers and a headline",
    "min": 26,
    "blocks": [
@@ -893,12 +920,13 @@
      "t": "check",
      "q": "In Case 1, which fund ends ahead after 25 years in the worked example?",
      "o": [
-      "Fund 1, because its gross return is higher",
-      "Fund 2, because its lower charge outweighs the lower gross return",
+      "Fund 2: its lower charge outweighs the lower gross return",
+      "Fund 1, since a higher gross return always beats a lower charge over 25 years",
+      "Fund 1: its gross return is higher",
       "They end equal",
       "It cannot be told"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Fund 2 nets 4.8% against 4.2% and ends ahead in the example. Our arithmetic.",
      "kind": "application"
     },
@@ -906,24 +934,26 @@
      "t": "check",
      "q": "In Case 2, the simple average of +50%, −30% and +20% is 13.3%. What is the steady yearly rate that gives the same final result?",
      "o": [
-      "13.3%",
-      "About 8.0%",
+      "About 10.5%",
       "About 20%",
-      "0%"
+      "13.3%",
+      "0%",
+      "About 8.0%"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The factor 1.26 to the power of one third is about 1.080. Our arithmetic."
     },
     {
      "t": "check",
      "q": "Why is comparing a gross figure for one fund with a net figure for another a mistake?",
      "o": [
-      "It is not a mistake",
-      "The two are not on the same basis",
+      "It is fine if both funds track the same index",
       "Net figures are always higher",
-      "Gross figures are illegal"
+      "They are not on the same basis",
+      "Gross figures are illegal",
+      "It is not a mistake"
      ],
-     "a": 1,
+     "a": 2,
      "w": "A fair comparison puts both on the same basis. {{mh-beginners}}"
     },
     {
@@ -937,7 +967,7 @@
    ]
   },
   {
-   "id": "l5",
+   "id": "l6",
    "title": "The lecturer's method: Irving Fisher",
    "min": 22,
    "blocks": [
@@ -956,6 +986,14 @@
     {
      "t": "p",
      "x": "We use the compound-growth arithmetic from module 2, which is our own calculation, not a quotation."
+    },
+    {
+     "t": "p",
+     "x": "In The Theory of Interest he gives the case that matters most for savers: a money rate of 15 per cent might only mean prices are expected to rise 10 per cent, leaving a real rate of about 5 per cent. {{fisher30-ch2}}"
+    },
+    {
+     "t": "p",
+     "x": "He warns that when prices rise, the rate of interest rises a little in name but falls greatly in reality, so the direction a rate seems to move is often the opposite of how it really moves. {{fisher30-ch21}}"
     },
     {
      "t": "h",
@@ -1024,12 +1062,13 @@
      "t": "check",
      "q": "What does a 'real' return allow for?",
      "o": [
+      "Fees only",
+      "Fees and taxes, but not inflation",
       "Taxes only",
       "Inflation",
-      "Fees only",
       "Nothing"
      ],
-     "a": 1,
+     "a": 3,
      "w": "A real return is after inflation. {{lec-mh-beginners}}"
     },
     {
@@ -1039,6 +1078,7 @@
       "£2,000",
       "£2,653",
       "£1,500",
+      "£2,100",
       "£5,000"
      ],
      "a": 1,

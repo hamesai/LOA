@@ -114,23 +114,25 @@
      "q": "What is the rule of thumb for research time?",
      "o": [
       "All the time",
+      "At least half of all the preparation time you have",
+      "Half",
       "No more than one third of preparation",
-      "None",
-      "Half"
+      "None"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The text recommends no more than one third. {{sus-res2}}"
     },
     {
      "t": "check",
      "q": "Which delivery method does the capstone use?",
      "o": [
+      "Impromptu",
       "Memorised",
+      "Manuscript, read aloud",
       "Manuscript",
-      "Extemporaneous",
-      "Impromptu"
+      "Extemporaneous"
      ],
-     "a": 2,
+     "a": 4,
      "w": "Planned and rehearsed, from brief notes. {{sus-deliv1}}"
     },
     {
@@ -230,12 +232,13 @@
      "t": "check",
      "q": "Which score pattern passes?",
      "o": [
-      "Two criteria below 2",
       "Every criterion at 3 or higher",
+      "Two criteria below 2",
+      "No scores",
       "One criterion at 0",
-      "No scores"
+      "An average of 3, even with one criterion at 0"
      ],
-     "a": 1,
+     "a": 0,
      "w": "A pass is 3 or higher on all, or 2 on one with a plan. (Course rule.)"
     },
     {
@@ -245,6 +248,7 @@
       "Ignore it",
       "Choose two fixes and re-practise",
       "Argue",
+      "Fix every point raised before the next run",
       "Memorise the speech"
      ],
      "a": 1,
@@ -362,22 +366,24 @@
      "t": "check",
      "q": "What did Churchill say about rhetorical power?",
      "o": [
-      "It is wholly bestowed",
-      "It is neither wholly bestowed nor wholly acquired, but cultivated",
       "It is wholly acquired",
-      "It does not exist"
+      "It does not exist",
+      "Neither wholly bestowed nor wholly acquired, but cultivated",
+      "It is wholly bestowed",
+      "It is wholly bestowed at birth, and no amount of practice can add to it"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He wrote it is neither wholly bestowed nor wholly acquired, but cultivated. {{churchill-pdf}}"
     },
     {
      "t": "check",
      "q": "A first run takes 430 seconds and the target is 300. How many seconds must you cut?",
      "o": [
-      "30",
-      "90",
+      "230",
+      "300",
       "130",
-      "300"
+      "90",
+      "30"
      ],
      "a": 2,
      "w": "430 − 300 = 130 seconds."
@@ -386,10 +392,11 @@
      "t": "check",
      "q": "What is the best way to practise the speech?",
      "o": [
+      "Memorise every word",
+      "Aloud from short-line notes, with a timer",
       "Read it silently",
-      "Rehearse aloud from short-line notes with a timer",
-      "Skip practice",
-      "Memorise every word"
+      "Read the full script silently several times",
+      "Skip practice"
      ],
      "a": 1,
      "w": "Rehearsing aloud from short lines with a timer is the capstone's method. {{churchill-arch}}"

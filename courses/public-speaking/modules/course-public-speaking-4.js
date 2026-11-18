@@ -115,12 +115,13 @@
      "t": "check",
      "q": "Roughly how long should the introduction to a ten-minute speech be?",
      "o": [
-      "10 seconds",
       "Up to about a minute and a half",
+      "10 seconds",
+      "About three or four minutes, a third",
       "Three minutes",
       "Half the speech"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The text gives 10 to 15 percent, and a ten-minute speech's introduction should be no more than a minute and a half. {{sus-intro1}}"
     },
     {
@@ -128,11 +129,12 @@
      "q": "Which credibility factor does the text say is probably most important?",
      "o": [
       "Competence",
-      "Trustworthiness",
-      "Caring / goodwill",
-      "Accent"
+      "Competence and expertise",
+      "Accent",
+      "Caring (goodwill)",
+      "Trustworthiness"
      ],
-     "a": 2,
+     "a": 3,
      "w": "The text states that research suggests caring/goodwill is the most important factor. {{sus-intro1}}"
     },
     {
@@ -291,11 +293,12 @@
      "q": "Which pair of main points is not parallel?",
      "o": [
       "'What is it?' and 'Why does it matter?'",
+      "'Who uses it?' and 'How is it made?'",
       "'Define the term' and 'What does it do?'",
-      "'Define it' and 'Explain it'",
-      "'Who uses it?' and 'How is it made?'"
+      "'Why does it matter?' and 'Who decides?'",
+      "'Define it' and 'Explain it'"
      ],
-     "a": 1,
+     "a": 2,
      "w": "A statement and a question differ in form. {{sus-main}}",
      "kind": "application"
     },
@@ -303,12 +306,13 @@
      "t": "check",
      "q": "Which pattern fits 'to persuade a council to ban bonfires in gardens'?",
      "o": [
-      "Spatial",
       "Biographical",
       "Problem-cause-solution",
-      "Chronological only"
+      "Chronological only",
+      "Topical, by type of bonfire",
+      "Spatial"
      ],
-     "a": 2,
+     "a": 1,
      "w": "Persuasive speeches suit problem-cause-solution. {{sus-pattern}}",
      "kind": "application"
     },
@@ -443,12 +447,13 @@
      "t": "check",
      "q": "You have one statistic you most want the audience to remember. Using the serial position effect, where should you repeat it?",
      "o": [
-      "They matter little",
-      "Recency helps people recall what you say last",
-      "Only the middle is remembered",
-      "Never repeat points"
+      "Nowhere: repetition bores",
+      "In the middle, where attention is highest",
+      "Only at the start",
+      "In the middle, since the serial position effect favours the centre of a list",
+      "At the end: recency helps recall of what comes last"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The final part of a list or speech tends to be recalled well. {{sus-conc1}}",
      "kind": "application"
     },
@@ -456,10 +461,11 @@
      "t": "check",
      "q": "How should a thesis change when restated in the conclusion?",
      "o": [
-      "It stays in the future tense",
+      "It becomes a question",
       "It moves to the past tense",
       "It is dropped",
-      "It becomes a question"
+      "It is replaced by a new thesis",
+      "It stays in the future tense"
      ],
      "a": 1,
      "w": "From 'I will analyse' to 'I have analysed'. {{sus-conc2}}"
@@ -575,14 +581,15 @@
     },
     {
      "t": "check",
-     "q": "You are giving a three-point speech. How many notecards does the text suggest, and what goes on each?",
+     "q": "You are giving a three-point speech. How many notecards does the text suggest?",
      "o": [
-      "One",
-      "Five",
       "Fifteen",
-      "None"
+      "Three",
+      "Five",
+      "None",
+      "One"
      ],
-     "a": 1,
+     "a": 2,
      "w": "One each for the introduction, three main points and conclusion. {{sus-out2}}",
      "kind": "application"
     },
@@ -591,11 +598,12 @@
      "q": "A student plans to take her full-sentence outline to the lectern as notes. What will probably happen?",
      "o": [
       "It is too short",
-      "You will end up reading it to the audience",
+      "It has no sources",
       "It cannot be printed",
-      "It has no sources"
+      "Nothing: a full outline helps her deliver smoothly",
+      "She will end up reading it to the audience"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Reading reduces eye contact and connection. {{sus-out1}} {{sus-out2}}",
      "kind": "application"
     },
@@ -725,12 +733,13 @@
      "t": "check",
      "q": "What was the sole purpose of the exordium, according to Quintilian?",
      "o": [
+      "To prepare the audience to lend a ready ear",
       "To entertain",
-      "To prepare the audience to lend a ready ear to the rest",
       "To list the evidence",
+      "To set out all the facts of the case in their order",
       "To give thanks"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He says the sole purpose is to prepare the audience so they lend a ready ear. {{archive-q}}"
     },
     {
@@ -738,23 +747,25 @@
      "q": "What three conditions do most authors say the exordium should create?",
      "o": [
       "Hungry, tired, bored",
-      "Well-disposed, attentive and ready to receive instruction",
       "Angry, afraid, amused",
-      "Loud, quick, short"
+      "Loud, quick, short",
+      "Well-disposed, attentive and ready to learn",
+      "Amused, impressed and fully persuaded at once"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Making the audience well-disposed, attentive and ready to receive instruction. {{archive-q}}"
     },
     {
      "t": "check",
      "q": "Which three qualities do most writers give the statement of facts?",
      "o": [
-      "Long, loud, loose",
-      "Lucid, brief, plausible",
+      "Open, closed, quiet",
+      "Full, vivid and deeply moving",
       "Old, new, bold",
-      "Open, closed, quiet"
+      "Long, loud, loose",
+      "Lucid, brief, plausible"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Most hold it should be lucid, brief and plausible. {{archive-q}}"
     },
     {

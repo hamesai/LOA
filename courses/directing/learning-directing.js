@@ -6,19 +6,21 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A French scene begins and ends when...",
     "o": [
+     "The lights change",
+     "The act ends",
      "The curtain falls",
      "A character enters or leaves",
-     "The lights change",
-     "The act ends"
+     "The playwright marks a new scene"
     ],
-    "a": 1,
+    "a": 3,
     "w": "French scenes show how the cast changes the scene."
    },
    {
     "q": "A good theme is...",
     "o": [
-     "Long and detailed",
+     "A full paragraph covering every idea in the play",
      "Short, simple, strong and yours",
+     "Long and detailed",
      "The writer's biography",
      "A lecture"
     ],
@@ -28,12 +30,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "On screen, which stage of work changes most?",
     "o": [
-     "Reading",
-     "The third stage: turning the idea into a look",
+     "The third: turning the idea into a look",
+     "The first: reading the script for its story",
      "Casting",
-     "Marketing"
+     "Marketing",
+     "Reading"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Screen keeps the stages but changes the third."
    }
   ],
@@ -80,34 +83,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "The 'magic if' asks the actor to...",
     "o": [
+     "Believe the situation is really happening to them tonight",
      "Feel sad on cue",
-     "Imagine honestly: what would I do if this were true",
      "Copy last night",
+     "Imagine honestly: what would I do if this were true",
      "Learn the lines first"
     ],
-    "a": 1,
+    "a": 3,
     "w": "An honest 'if' sets the actor moving in the world."
    },
    {
     "q": "An objective is best written as...",
     "o": [
      "A feeling",
+     "A line of text",
      "An active verb toward a partner",
-     "A result",
-     "A line of text"
+     "A feeling the actor wants the audience to have",
+     "A result"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Name each objective with an active verb and a partner."
    },
    {
     "q": "On screen, what changes about acting?",
     "o": [
-     "The objective",
      "The size",
      "The partner",
+     "The given circumstances",
+     "The objective",
      "The text"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Size follows space and lens; the objective stays."
    }
   ],
@@ -146,12 +152,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What is a French scene?",
     "o": [
+     "A set change",
      "A scene in French",
-     "A scene that changes when someone enters or leaves",
+     "A scene marked by the playwright's printed headings",
      "An act",
-     "A set change"
+     "A scene that changes when someone enters or leaves"
     ],
-    "a": 1,
+    "a": 4,
     "w": "French scenes show how the cast changes the scene."
    },
    {
@@ -159,8 +166,9 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "o": [
      "Long",
      "Short, simple, strong",
-     "A lecture",
-     "A review"
+     "A review",
+     "Long enough to cover every idea",
+     "A lecture"
     ],
     "a": 1,
     "w": "Short, simple, strong and yours."
@@ -178,30 +186,33 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Communion in rehearsal means...",
     "o": [
-     "Silence",
      "An exchange between actors",
+     "Playing out to the audience",
+     "Silence",
      "A break",
      "A group prayer"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Communion is an exchange; the scene dies when nobody receives."
    },
    {
     "q": "A super-objective is...",
     "o": [
+     "The objective of the opening scene only",
+     "The set",
      "The scene's last line",
-     "The main line that every unit serves",
-     "A stage direction",
-     "The set"
+     "The main line every unit serves",
+     "A stage direction"
     ],
-    "a": 1,
+    "a": 3,
     "w": "A play needs a main line; every unit serves it."
    },
    {
     "q": "Which is a good note?",
     "o": [
-     "Five points at once",
+     "Every problem at once, so nothing is missed",
      "One note, praise first and last",
+     "Five points at once",
      "Be better",
      "Do last night's again"
     ],
@@ -244,23 +255,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A unit objective should be...",
     "o": [
-     "A mood",
-     "A verb with a partner",
      "A result",
-     "A stage direction"
+     "A feeling to show the audience",
+     "A stage direction",
+     "A verb with a partner",
+     "A mood"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Active verb and a partner."
    },
    {
     "q": "What does the 'magic if' do?",
     "o": [
-     "Writes the scene",
-     "Sets the actor moving in a believable world",
+     "Replaces circumstances",
      "Shortens rehearsal",
-     "Replaces circumstances"
+     "Writes the scene",
+     "Makes the actor believe that the play is really happening",
+     "Sets the actor moving in a believable world"
     ],
-    "a": 1,
+    "a": 4,
     "w": "It sets the actor moving in the world."
    }
   ],
@@ -276,34 +289,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "An open body position usually shows...",
     "o": [
+     "Nothing",
      "Closed feeling",
      "Response and openness",
-     "Fear only",
-     "Nothing"
+     "Withdrawal from the scene",
+     "Fear only"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Open positions show response; closed positions show action."
    },
    {
     "q": "A good stage picture is built from...",
     "o": [
+     "Straight lines at an even height",
+     "A back wall",
      "Straight lines",
-     "Triangles and height",
      "Equal gaps",
-     "A back wall"
+     "Triangles and height"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Make triangles and use height."
    },
    {
     "q": "On screen, where does staging go?",
     "o": [
-     "It disappears",
-     "Into the frame: angle, size, depth and direction",
+     "Into sound",
+     "It disappears, since the camera does all the work",
+     "Into the frame: angle, size, depth, direction",
      "Into the script",
-     "Into sound"
+     "It disappears"
     ],
-    "a": 1,
+    "a": 2,
     "w": "The frame is the director's stage."
    }
   ],
@@ -343,22 +359,24 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "Why name a verb for a unit objective?",
     "o": [
      "It sounds neat",
-     "It gives the actor something to do toward a partner",
      "It saves time",
+     "It names the feeling the actor should show the audience",
+     "It gives the actor something to do to a partner",
      "It sets the lights"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Active verbs turn into actions."
    },
    {
     "q": "What does communion mean?",
     "o": [
+     "A cut",
      "Exchange between actors",
-     "Silence",
      "Rest",
-     "A cut"
+     "Playing to the audience",
+     "Silence"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Communion is an exchange."
    }
   ],
@@ -374,34 +392,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "The master shot is usually...",
     "o": [
-     "Last",
+     "A close-up",
+     "Last, after the close-ups",
      "First, then coverage",
-     "Optional",
-     "A close-up"
+     "Last",
+     "Optional"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Master first, then coverage, and stay on one side of the line."
    },
    {
     "q": "Crossing the line by accident...",
     "o": [
-     "Is fine",
      "Breaks screen direction; draw the line first",
+     "Is fine",
+     "Is required",
      "Improves rhythm",
-     "Is required"
+     "Is fine, since audiences never notice the switch"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Draw the line before you place the camera."
    },
    {
     "q": "The Kuleshov effect shows that...",
     "o": [
+     "The actor's face sets the meaning alone",
      "Meaning is made by neighbouring shots",
-     "Lenses matter most",
      "Music is optional",
+     "Lenses matter most",
      "Cuts are free"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Meaning is made by neighbouring shots."
    }
   ],
@@ -440,23 +461,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which kind of note should you give first in a rehearsal?",
     "o": [
-     "One note, with praise",
-     "Five notes",
+     "A complaint",
      "None",
-     "A complaint"
+     "Five notes",
+     "Every note at once, so nothing is missed",
+     "One note, with praise"
     ],
-    "a": 0,
+    "a": 4,
     "w": "One note, praise first and last."
    },
    {
     "q": "What does a super-objective do?",
     "o": [
      "Sets the lights",
-     "Ties units into one line",
+     "Sets the objective of the first scene only",
      "Replaces the script",
+     "Ties units into one line",
      "Chooses the cast"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Every unit serves it."
    }
   ],
@@ -473,20 +496,22 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "Budget numbers should be labelled as...",
     "o": [
      "Facts",
-     "Quote, estimate or guess",
+     "Fixed or flexible costs only",
      "Wishes",
+     "Quote, estimate or guess",
      "Not needed"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Label each budget number as quote, estimate or guess."
    },
    {
     "q": "In tech rehearsal, whom are notes for?",
     "o": [
-     "Actors",
+     "The actors and the writer",
      "Designers",
-     "The audience",
-     "The writer"
+     "Actors",
+     "The writer",
+     "The audience"
     ],
     "a": 1,
     "w": "Tech is for the designers; keep actor notes for later."
@@ -494,12 +519,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which layout is a proscenium?",
     "o": [
-     "Audience on one side facing a frame",
-     "Audience all round",
      "Audience on three sides",
+     "Audience all round",
+     "Audience on one side facing a frame",
+     "Audience on two facing sides of a long stage",
      "No audience"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Proscenium, thrust and round are the main layouts."
    }
   ],
@@ -538,23 +564,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What is the line in screen directing?",
     "o": [
+     "A stage mark",
      "A line of dialogue",
-     "The imaginary line between two actors",
      "A cut",
-     "A stage mark"
+     "The edge of the frame that actors must not cross",
+     "The imaginary line between two actors"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Stay on one side of the line."
    },
    {
     "q": "What does a unit objective use?",
     "o": [
-     "A verb and a partner",
-     "A mood",
      "A result",
-     "A prop"
+     "A feeling and an audience",
+     "A verb and a partner",
+     "A prop",
+     "A mood"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Active verb and a partner."
    }
   ],
@@ -570,45 +598,49 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which comes first in rehearsal notes?",
     "o": [
+     "A cut",
+     "The biggest problem",
      "A correction",
-     "Praise",
      "A complaint",
-     "A cut"
+     "Praise"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Praise, one correction, praise."
    },
    {
     "q": "What is the super-objective?",
     "o": [
-     "The main line every unit serves",
-     "A cut",
+     "A shot",
      "A set",
-     "A shot"
+     "A cut",
+     "The main line every unit serves",
+     "The objective of the opening scene"
     ],
-    "a": 0,
+    "a": 3,
     "w": "It ties units into one line."
    },
    {
     "q": "Where do you draw the line?",
     "o": [
+     "In the edit",
      "Before placing the camera",
      "After the shoot",
-     "In the edit",
+     "After shooting the master shot",
      "Never"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Draw the line before you place the camera."
    },
    {
     "q": "Which numbers do you label in a budget?",
     "o": [
-     "Quote, estimate or guess",
-     "Only totals",
+     "Fixed or flexible costs only",
      "None",
-     "Only quotes"
+     "Quote, estimate or guess",
+     "Only quotes",
+     "Only totals"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Label each number."
    }
   ],

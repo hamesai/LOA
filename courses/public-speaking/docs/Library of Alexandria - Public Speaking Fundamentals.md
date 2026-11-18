@@ -1,6 +1,6 @@
 # Library of Alexandria: Public speaking fundamentals
 
-Level: Beginner. Created 15/11/2026.
+Level: Beginner. Created 18/11/2026.
 
 Learn to plan, structure and deliver a clear talk: manage nerves, know your audience, research and support your points, shape openings and endings, use words, voice and visuals, and inform or persuade honestly.
 

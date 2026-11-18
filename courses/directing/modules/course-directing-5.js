@@ -101,10 +101,11 @@
      "t": "check",
      "q": "You want the audience to feel close to a character at a moment of decision. Which shot does the textbook suggest?",
      "o": [
-      "Disconnection",
-      "Intimacy",
-      "Comedy",
-      "A flashback"
+      "A wide shot, which shows the room",
+      "A close-up, which creates intimacy",
+      "A long shot, which creates intimacy",
+      "A high angle, which adds comedy",
+      "An establishing shot, which shows the whole location for context"
      ],
      "a": 1,
      "w": "It creates a sense of intimacy with the subject. {{cwc}}",
@@ -114,12 +115,13 @@
      "t": "check",
      "q": "What should you ask before you move the camera?",
      "o": [
+      "Will it look impressive on the reel?",
       "Is it expensive?",
-      "Is the movement motivated?",
       "Is it fast?",
-      "Is it new?"
+      "Is it new?",
+      "Is the movement motivated?"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The textbook says to ask why move the camera at all. {{cwc}}"
     },
     {
@@ -223,12 +225,13 @@
      "t": "check",
      "q": "Your editor says she cannot tell where the characters are in the room. Which shot would have helped, and why?",
      "o": [
-      "Replaces coverage",
-      "Establishes the geography of the scene",
-      "Adds music",
-      "Hides the actors"
+      "An insert, which shows a detail",
+      "A cutaway, which hides the cut",
+      "A master shot, which sets the geography",
+      "A close-up, which shows each face",
+      "A reverse shot, which shows each character's eyeline in turn"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The editor uses the master to establish the geography and return to it as needed. {{cwc}}",
      "kind": "application"
     },
@@ -236,12 +239,13 @@
      "t": "check",
      "q": "What happens if the camera crosses the line without a reason?",
      "o": [
-      "Characters appear to swap sides or look the wrong way",
-      "The scene gets shorter",
+      "Nothing",
       "The lights turn off",
-      "Nothing"
+      "Nothing, since audiences never notice the change of side",
+      "Characters seem to swap sides or look the wrong way",
+      "The scene gets shorter"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Subjects reverse positions and no longer appear to look at each other. {{cwc}}"
     },
     {
@@ -333,12 +337,13 @@
      "t": "check",
      "q": "You cut the same neutral face after a shot of a coffin and then after a shot of a child playing. What does the Kuleshov experiment predict?",
      "o": [
-      "Actors cannot act",
       "Meaning comes partly from the juxtaposition of shots",
+      "Cuts should be hidden",
       "Soup is cinematic",
-      "Cuts should be hidden"
+      "Actors cannot act",
+      "The actor's expression changes the meaning on its own"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The same shot read differently depending on the shot beside it. {{cwc}}",
      "kind": "application"
     },
@@ -346,12 +351,13 @@
      "t": "check",
      "q": "You join two shots of the same person from almost the same angle, a second apart. What is this called?",
      "o": [
-      "A cut between two very different locations",
-      "A cut between two similar framings of the same subject",
-      "A fade to black",
-      "A slow dissolve"
+      "A dissolve",
+      "A cutaway",
+      "A match cut",
+      "A jump cut",
+      "A match on action"
      ],
-     "a": 1,
+     "a": 3,
      "w": "It joins two shots of the same subject with little variation in framing. {{cwc}}",
      "kind": "application"
     },
@@ -444,22 +450,24 @@
      "t": "check",
      "q": "How does Garcia describe a dramatic loop?",
      "o": [
-      "A repeated line",
-      "A break into the past, future or fantasy that begins and ends on the same picture",
       "A long blackout",
-      "A change of cast"
+      "A change of cast",
+      "A repeated line",
+      "A scene played twice in a row, from two different characters' views",
+      "A break into past, future or fantasy, ending on the same picture"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The loop starts and ends in the same frozen stage picture. {{garcia}}"
     },
     {
      "t": "check",
      "q": "A director wants the bomb to go off as soon as it is revealed. Why would Garcia advise extending the anticipation?",
      "o": [
-      "To fill time",
-      "Tension comes from waiting for the event",
       "To please the designers",
-      "To reduce the budget"
+      "Tension comes from waiting for the event",
+      "To fill time",
+      "To reduce the budget",
+      "Surprise is stronger, so the bomb should stay hidden"
      ],
      "a": 1,
      "w": "Once the event occurs it joins the resolution and the audience starts disengaging. {{garcia}}",
@@ -580,22 +588,24 @@
      "t": "check",
      "q": "According to Spoto, how does Rear Window's opening differ from many Hitchcock openings?",
      "o": [
-      "It moves from inside to outside, limiting us to Jeff's view",
-      "It moves from outside to inside",
+      "It has no opening shot",
+      "It starts on a close-up of the murderer across the courtyard",
+      "It moves inside to outside, keeping us to Jeff's view",
       "It starts with a long take",
-      "It has no opening shot"
+      "It moves from outside to inside"
      ],
-     "a": 0,
+     "a": 2,
      "w": "Many Hitchcock films begin by going from outside to inside, but Rear Window goes from inside to outside, so Jeff's viewpoint limits ours. {{spoto-ch26}}"
     },
     {
      "t": "check",
-     "q": "You are planning a sequence with one 90-second shot. Compared with what Spoto says an ordinary shot lasts, how will that feel?",
+     "q": "You are planning a sequence with one 90-second shot. How long does Spoto say an ordinary shot lasts?",
      "o": [
       "About five to fifteen seconds",
-      "About two minutes",
+      "About one second",
       "About ten minutes",
-      "About one second"
+      "About thirty to sixty seconds",
+      "About two minutes"
      ],
      "a": 0,
      "w": "Spoto says shots ordinarily last about five to fifteen seconds. {{spoto-ch20}}",
@@ -705,12 +715,13 @@
      "t": "check",
      "q": "Why chart a film on a wall sheet?",
      "o": [
-      "To see the rise and fall and the alternation of talk and action",
       "To save paper",
+      "To schedule which actors are needed on each day of the shoot",
       "To choose the lenses",
-      "To hide the script"
+      "To hide the script",
+      "To see the rise and fall, and talk against action"
      ],
-     "a": 0,
+     "a": 4,
      "w": "Hitchcock graphed each sequence's rise and fall. {{spoto-ch34}}",
      "kind": "application"
     },
@@ -718,12 +729,13 @@
      "t": "check",
      "q": "You want a scene with almost no action to be tense. What does Spoto say drives the suspense in the Albert Hall scene?",
      "o": [
-      "A chase",
       "A decision in one character's will",
+      "A song",
+      "A chase cut in with the music and crowd",
       "A long speech",
-      "A song"
+      "A chase"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The tension is in the will, not the outer action. {{spoto-ch29}}",
      "kind": "application"
     },
@@ -866,36 +878,39 @@
      "t": "check",
      "q": "Which of these is one of Eisenstein's five methods of montage?",
      "o": [
+      "Verbal",
       "Metric",
+      "Continuity",
       "Linear",
-      "Static",
-      "Verbal"
+      "Static"
      ],
-     "a": 0,
+     "a": 1,
      "w": "The five are metric, rhythmic, tonal, overtonal and intellectual. {{wiki-montage}} {{media-eis}}"
     },
     {
      "t": "check",
      "q": "What was the Odessa Steps sequence built to do, per the textbook?",
      "o": [
+      "Show the exact layout of the steps",
       "Show clear geography",
       "Create an emotional effect",
       "Explain the plot",
       "Show the harbour"
      ],
-     "a": 1,
+     "a": 2,
      "w": "It was built to create an emotional effect and not to give clear geography. {{cwc}}"
     },
     {
      "t": "check",
      "q": "What did the Strike example of intellectual montage cut together?",
      "o": [
-      "Soldiers and flags",
-      "Workers being attacked and a bull being slaughtered",
       "A clock and a door",
-      "Rain and a window"
+      "Workers striking and a factory owner at dinner",
+      "Rain and a window",
+      "Workers attacked and a bull slaughtered",
+      "Soldiers and flags"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Wikipedia gives shots of workers being attacked cut with a bull being slaughtered. {{wiki-montage}}"
     },
     {

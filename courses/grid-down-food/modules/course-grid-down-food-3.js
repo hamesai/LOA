@@ -93,12 +93,13 @@
      "t": "check",
      "q": "After a flood, you have rainwater, a can of water with petrol in it, and water drained from a radiator. Which can boiling make safe?",
      "o": [
-      "Water with fuel in it",
-      "Water with toxic chemicals",
-      "Clear water that may carry germs",
-      "Water from a heating radiator"
+      "The radiator water",
+      "The water with petrol in it",
+      "All three, if boiled long enough",
+      "The clear rainwater",
+      "The radiator water, since it was sealed inside the system"
      ],
-     "a": 2,
+     "a": 3,
      "w": "Boiling kills germs but cannot remove fuel, chemicals or radioactive materials, and radiator water must not be used. {{cdcwater}}",
      "kind": "application"
     },
@@ -107,11 +108,12 @@
      "q": "During a 'do not drink' advisory, what should you use for cooking?",
      "o": [
       "Boiled tap water",
-      "Commercially bottled water",
       "Filtered tap water",
-      "Rain water"
+      "Rain water",
+      "Tap water boiled for ten minutes",
+      "Commercially bottled water"
      ],
-     "a": 1,
+     "a": 4,
      "w": "For chemical or toxin advisories, bottled water is used because boiling does not help. {{cdcadv}}"
     },
     {
@@ -195,12 +197,13 @@
      "t": "check",
      "q": "You are at 3,000 m. How long should you boil clear water?",
      "o": [
-      "1 minute",
       "3 minutes",
-      "30 seconds",
-      "10 minutes"
+      "1 minute",
+      "5 minutes",
+      "10 minutes",
+      "30 seconds"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Above about 2,000 m (6,500 ft) CDC says boil for 3 minutes. {{cdcwater}}"
     },
     {
@@ -208,7 +211,8 @@
      "q": "Cloudy water is ready to boil. What should you do first?",
      "o": [
       "Add bleach",
-      "Strain or let it settle",
+      "Strain it or let it settle",
+      "Boil it twice as long instead",
       "Freeze it",
       "Add salt"
      ],
@@ -313,24 +317,26 @@
      "t": "check",
      "q": "You have clear water and 5% bleach. How many drops for 4 litres?",
      "o": [
-      "4",
+      "2",
+      "40",
       "8",
-      "16",
-      "40"
+      "4",
+      "16"
      ],
-     "a": 1,
+     "a": 2,
      "w": "2 drops per litre x 4 = 8 drops. {{cdcwater}}"
     },
     {
      "t": "check",
      "q": "Your area has a Cryptosporidium warning and you have iodine tablets, a filter jug and a stove. Which will make the water safe?",
      "o": [
-      "Iodine tablets",
-      "Chlorine tablets",
       "Boiling",
-      "A basic filter jug"
+      "Iodine tablets",
+      "Iodine tablets left to stand for 30 minutes",
+      "A basic filter jug",
+      "Chlorine tablets"
      ],
-     "a": 2,
+     "a": 0,
      "w": "Boiling kills it; chlorine dioxide tablets do too if used properly; iodine and chlorine tablets do not. {{cdcwater}}",
      "kind": "application"
     },
@@ -411,12 +417,13 @@
      "t": "check",
      "q": "There is a boil-water notice and the sink is full of dishes. What does CDC advise?",
      "o": [
-      "Use cold tap water",
-      "Use disposables or sanitise with a bleach soak",
+      "Wash in tap water, since washing-up liquid kills germs",
+      "Use hot water only",
       "Skip washing",
-      "Use hot water only"
+      "Use disposables, or sanitise with a bleach soak",
+      "Use cold tap water"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Use disposables if possible, or wash and then soak in a bleach solution for at least 1 minute. {{cdcadv}}",
      "kind": "application"
     },
@@ -424,12 +431,13 @@
      "t": "check",
      "q": "You cannot boil water for formula. What does the FSA suggest?",
      "o": [
+      "Use bottled water straight from the bottle with powder",
       "Use cold tap water",
-      "Use ready-to-use formula",
       "Give diluted juice",
-      "Skip a feed"
+      "Skip a feed",
+      "Use ready-to-use formula"
      ],
-     "a": 1,
+     "a": 4,
      "w": "If you cannot boil water, ready-to-use infant formula is an option. {{fsa}}",
      "kind": "application"
     },
@@ -459,7 +467,7 @@
     {
      "t": "callout",
      "k": "note",
-     "x": "The FSA documents we read do not set out a rule for trading during a water outage. Treat what follows as our reasoning, and ask your local authority."
+     "x": "The FSA documents we read name no rule for trading during a water outage as such, but the business pack comes close: hands must be washed with warm running water and liquid soap, hand gels never replace handwashing, and hot running water at every sink and hand basin is a daily opening check. {{sfbb-cross}} {{sfbb-manage}} So a kitchen without safe running water fails its own opening check (our inference); ask your local authority what applies to you."
     },
     {
      "t": "example",
@@ -480,21 +488,23 @@
      "t": "check",
      "q": "What does the FSA guide say about sinks in a food preparation area?",
      "o": [
-      "One sink is enough",
-      "Separate sinks must be provided for washing food and cleaning equipment",
+      "One sink is enough if it is cleaned between food and equipment",
       "No sink is needed",
+      "Separate sinks for washing food and cleaning equipment",
+      "One sink is enough",
       "Only a bowl is needed"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Separate sinks must be provided for washing food and for cleaning equipment. {{fsa-start-print}}"
     },
     {
      "t": "check",
      "q": "Why should you not make ice or drinks with untreated water in an outage?",
      "o": [
-      "It tastes bad",
-      "Water may be contaminated and ice does not remove it",
       "It is more expensive",
+      "It may be contaminated, and freezing does not fix it",
+      "Freezing kills the germs, but it makes the ice cloudy",
+      "It tastes bad",
       "It freezes slower"
      ],
      "a": 1,
@@ -624,10 +634,11 @@
      "t": "check",
      "q": "What made Snow's comparison a natural experiment?",
      "o": [
+      "He chose houses at random and asked each one to switch water company for a year",
+      "Two companies' pipes ran side by side, so neighbours differed only in supply",
       "He gave people different water",
-      "The two companies' pipes ran side by side, so neighbours differed only in supply",
-      "He ran a laboratory trial",
-      "He chose the sickest houses"
+      "He chose the sickest houses",
+      "He ran a laboratory trial"
      ],
      "a": 1,
      "w": "A single house often had a different supply from either neighbour. {{snow-water}}"
@@ -636,24 +647,26 @@
      "t": "check",
      "q": "How did he check each house's supply?",
      "o": [
-      "He believed the resident",
-      "He asked for the water-rate receipt and used a chemical test",
+      "He tasted the water",
+      "He believed what the residents told him",
       "He guessed",
-      "He tasted the water"
+      "Water-rate receipts and a chemical test",
+      "He believed the resident"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He did not rest content with the reply and asked for the receipt, helped by a chemical test. {{snow-water}}"
     },
     {
      "t": "check",
      "q": "Why quote the weeks with a ratio?",
      "o": [
-      "To look careful",
-      "The ratio changed as he gathered more data",
       "It is a rule of grammar",
-      "It shortens the report"
+      "It shortens the report",
+      "The ratio changed as more data came in",
+      "Ratios never change, so the weeks do not matter",
+      "To look careful"
      ],
-     "a": 1,
+     "a": 2,
      "w": "His ratio changed from 6 to 1 to 3½ to 1 with more data. {{snow-water}}"
     },
     {

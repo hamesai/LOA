@@ -112,23 +112,25 @@
      "q": "According to Coleman, which is easier to extend without heavy technology?",
      "o": [
       "The growing season",
-      "The harvest season",
       "Neither",
-      "Both equally"
+      "The harvest season",
+      "Both equally",
+      "The growing season, with fleece and cloches"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Harvest-season extension uses cool-weather crops and simple protection, which Coleman calls basically biological."
     },
     {
      "t": "check",
      "q": "You sow one big row of lettuce in April and get a glut in June, then nothing. Which practice would fix that?",
      "o": [
-      "Sowing a crop once in spring",
-      "Sowing vegetables more than once, at intervals",
-      "Rotating crops between beds every year",
-      "Replacing a crop that has failed"
+      "Sowing more seed in the one row, so plants mature at different speeds",
+      "Sowing once, earlier in spring",
+      "Replacing failed crops",
+      "Rotating beds every year",
+      "Sowing again at intervals"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Coleman: sowings at one- to three-week intervals extend the fresh harvest of summer crops as long as possible.",
      "kind": "application"
     },
@@ -246,6 +248,7 @@
      "o": [
       "20 March",
       "27 March",
+      "8 May",
       "15 June",
       "3 April"
      ],
@@ -255,14 +258,15 @@
     },
     {
      "t": "check",
-     "q": "Three extension sheets give three different tray times for tomatoes. Why, and what should you do about it?",
+     "q": "Three extension sheets give three different tray times for tomatoes. Why do they differ?",
      "o": [
-      "Some are wrong",
-      "Varieties, light, temperature and the target plant size differ",
-      "Weeks are measured differently in each state",
-      "Only one is peer reviewed"
+      "Variety, light, temperature and target size differ",
+      "Only one is peer reviewed",
+      "Some of the sheets are wrong",
+      "Two sheets are out of date, so use the newest and ignore the others",
+      "Weeks are counted differently by state"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Treat the overlap as a working range and record your own result.",
      "kind": "application"
     },
@@ -363,12 +367,13 @@
      "t": "check",
      "q": "Seeds of a variety that matures in 21 days are sown on 1 March. When are they ready?",
      "o": [
+      "21 March",
+      "29 March",
       "15 March",
       "22 March",
-      "1 April",
-      "29 March"
+      "1 April"
      ],
-     "a": 1,
+     "a": 3,
      "w": "1 March plus 21 days is 22 March.",
      "kind": "application"
     },
@@ -377,9 +382,10 @@
      "q": "You sow radishes on 1 April, 22 April and 13 May. Which practice is that?",
      "o": [
       "Sowing varieties with different maturity dates together",
-      "Sowing the same crop again every few weeks",
-      "Moving plants from tray to bed",
-      "Covering plants with fleece"
+      "Succession sowing every few weeks",
+      "Covering plants with fleece",
+      "Interplanting, since several crops share the bed",
+      "Transplanting from tray to bed"
      ],
      "a": 1,
      "w": "Interval planting is repeat sowing; variety planting uses different maturity speeds.",
@@ -554,23 +560,25 @@
      "q": "When are most autumn, winter and spring crops planted in Coleman's system?",
      "o": [
       "In early spring",
-      "From mid-summer to late summer, in spaces vacated by summer crops",
       "Only after the first frost",
-      "In midwinter"
+      "In midwinter",
+      "In early autumn, once the first frosts have killed the summer crops",
+      "Mid to late summer, in space left by summer crops"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Coleman: most of the fall, winter and spring crops are planted in mid- to late summer."
     },
     {
      "t": "check",
      "q": "You garden in Aberdeen and are using the University of California planting table. Why must you adjust its dates?",
      "o": [
-      "The crops are different",
-      "It was written for a mild-winter climate, and colder or darker places need earlier dates",
+      "Nothing needs changing, since day length is the same across the northern hemisphere",
       "It uses metric units",
+      "The crops listed are different",
+      "It suits a mild-winter climate; colder, darker places differ",
       "Frost dates never change"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The table reflects a mild foothill climate in California.",
      "kind": "application"
     },
@@ -688,12 +696,13 @@
      "t": "check",
      "q": "Why did Jekyll prefer long drifts to block-shaped patches?",
      "o": [
-      "They were cheaper",
-      "A long thin planting leaves no unsightly gap when flowers are done",
+      "A long thin planting leaves no ugly gap when done",
+      "They flowered longer",
+      "Drifts flowered for longer than blocks of the same plant in the same soil",
       "They needed less water",
-      "They flowered longer"
+      "They were cheaper"
      ],
-     "a": 1,
+     "a": 0,
      "w": "She wrote that a long thin planting does not leave an unsightly empty space when the flowers are done. {{jekyll-colour}}"
     },
     {
@@ -701,23 +710,25 @@
      "q": "In Jekyll's example, why were poppies planted beside Gypsophila?",
      "o": [
       "They need the same soil",
-      "The poppies finish as the Gypsophila fills the space",
       "They cross-pollinate",
+      "The poppies finish as the Gypsophila fills in",
+      "The Gypsophila shades the poppies' roots in hot summers",
       "To keep pests away"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The poppies grow early and die down as the Gypsophila reaches full size and covers them. {{jekyll-colour}}"
     },
     {
      "t": "check",
      "q": "What did she leave in place among the Gypsophila after cutting it back?",
      "o": [
-      "Nothing",
-      "The stiff branching spray that supported it",
+      "A cane and twine frame put in at planting time",
       "A net",
-      "Mulch"
+      "Nothing",
+      "Mulch",
+      "The stiff branching spray that supported it"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The spray remains as a firm sub-structure when the top is cut back. {{jekyll-colour}}"
     },
     {

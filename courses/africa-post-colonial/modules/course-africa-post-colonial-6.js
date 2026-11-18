@@ -16,7 +16,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Nigeria's colonial borders joined the Hausa-Fulani north, the Yoruba west and the Igbo east. After independence in 1960, regional rivalry and disputed elections deepened tension. {{lib}}"
+     "x": "Nigeria's colonial borders joined the Hausa-Fulani north, the Yoruba west and the Igbo east. After independence in 1960, regional rivalry and disputed elections deepened tension. {{oup-biafra}}"
     },
     {
      "t": "fig",
@@ -30,7 +30,7 @@
     },
     {
      "t": "p",
-     "x": "A coup on 15/01/1966, led largely by Igbo officers, was followed by a counter-coup on 29/07/1966 that brought Yakubu Gowon to power. {{lib}}"
+     "x": "A coup on 15/01/1966, led largely by Igbo officers, was followed by a counter-coup on 29/07/1966 that brought Yakubu Gowon to power. {{oup-biafra}}"
     },
     {
      "t": "p",
@@ -38,7 +38,7 @@
     },
     {
      "t": "p",
-     "x": "The anti-Igbo killings in the north killed thousands, with figures that vary widely [ESTIMATE]. {{lib}}"
+     "x": "The anti-Igbo killings in the north in 1966 killed thousands, with estimates from about 5,000 to 50,000 [ESTIMATE]. {{oup-biafra}}"
     },
     {
      "t": "callout",
@@ -47,7 +47,7 @@
     },
     {
      "t": "p",
-     "x": "Lt Col Odumegwu Ojukwu declared the Republic of Biafra on 30/05/1967. The federal government blockaded Biafra, and the war ended with surrender in January 1970. {{lib}}"
+     "x": "Lt Col Odumegwu Ojukwu declared the Republic of Biafra on 30/05/1967. The federal government blockaded Biafra, and the war ended with surrender in January 1970. {{brit-biafra}} {{oup-biafra}}"
     },
     {
      "t": "p",
@@ -67,7 +67,7 @@
     },
     {
      "t": "p",
-     "x": "Starvation killed many civilians. About 100,000 military casualties and between 500,000 and 2 million Biafran civilians dead of starvation are the usual figures [ESTIMATE, CONTESTED]. {{wiki-biafra}} {{lib}}"
+     "x": "Starvation killed many civilians. About 100,000 military casualties and between 500,000 and 2 million Biafran civilians dead of starvation are the usual figures [ESTIMATE, CONTESTED]. {{wiki-biafra}}"
     },
     {
      "t": "table",
@@ -94,7 +94,7 @@
        "Hard to separate"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{wiki-biafra}} {{jgr-biafra}}"
     },
     {
      "t": "example",
@@ -108,7 +108,7 @@
     },
     {
      "t": "p",
-     "x": "Relief flights and a publicity campaign drew global attention and fed the humanitarian movement, including the founding of Medecins Sans Frontieres by doctors who had worked in Biafra. {{lib}}"
+     "x": "Relief flights and a publicity campaign drew global attention and fed the humanitarian movement, including the founding of Medecins Sans Frontieres by doctors who had worked in Biafra. {{msf-founding}} {{oup-biafra}}"
     },
     {
      "t": "h",
@@ -116,7 +116,7 @@
     },
     {
      "t": "p",
-     "x": "Biafran leaders and some historians use the term. Others point to blockade as wartime policy without arguing intent to exterminate. Courts have not adjudicated [CONTESTED]. {{lib}}"
+     "x": "Biafran leaders and some historians use the term. Others point to blockade as wartime policy without arguing intent to exterminate. Courts have not adjudicated [CONTESTED]. {{jgr-biafra}}"
     },
     {
      "t": "p",
@@ -126,32 +126,34 @@
      "t": "check",
      "q": "You are asked for 'the' Biafran death toll. Which two reasons make any figure uncertain?",
      "o": [
-      "No reliable census, and deaths from hunger in blockaded areas that few recorded",
-      "Perfect records and a short war",
-      "A truce in 1966 and a census in 1970",
-      "Nothing is uncertain"
+      "A truce in 1966 and a census in 1970 that disagree",
+      "Most deaths were on the federal side, where records were destroyed",
+      "Nothing is uncertain: the Red Cross counted every death",
+      "No reliable census, and hunger deaths in blockaded areas went unrecorded",
+      "Perfect records but a short war, which makes the deaths hard to separate"
      ],
-     "a": 0,
-     "w": "Propaganda and overlapping causes add to the uncertainty. {{lib}}",
+     "a": 3,
+     "w": "Propaganda and overlapping causes add to the uncertainty.",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "A student writes 'the Biafran war was legally a genocide'. What does the fact that no court has adjudicated mean for that sentence?",
      "o": [
-      "It is settled",
-      "No court has ruled, so the label stays contested; say who uses it and who does not",
-      "A court ruled yes",
-      "A court ruled no"
+      "It is settled, because Nigeria accepted the label in the 1970 peace",
+      "A court ruled yes, at The Hague, in 1999",
+      "A court ruled no, so the word must not be used at all",
+      "It is settled, since the UN declared it a genocide in 1970",
+      "No court has ruled, so the label is contested; say who uses it"
      ],
-     "a": 1,
-     "w": "The question is [CONTESTED]. {{lib}}",
+     "a": 4,
+     "w": "The question is [CONTESTED].",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "The Biafran war began on 30/05/1967 and ended in January 1970. {{lib}}",
+      "The Biafran war began on 30/05/1967 and ended in January 1970.",
       "The civilian toll is 500,000 to 2 million [ESTIMATE, CONTESTED]. {{wiki-biafra}}",
       "Do not reduce it to 'tribal hatred'."
      ]
@@ -165,7 +167,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "A famine in Wollo (1972 to 1974) that the government concealed, together with student protest, army mutinies and inflation, led to the deposition of Haile Selassie on 12/09/1974. A committee of officers, the Derg, took power. {{lib}}"
+     "x": "A famine in Wollo (1972 to 1973) that the government concealed, together with student protest, army mutinies and inflation, led to the deposition of Haile Selassie on 12/09/1974. A committee of officers, the Derg, took power. {{hrw-evildays}} {{brit-ethiopia}}"
     },
     {
      "t": "h",
@@ -173,7 +175,7 @@
     },
     {
      "t": "p",
-     "x": "Land nationalisation in 1975 ended landlordism. From February 1977 Mengistu Haile Mariam dominated. {{lib}}"
+     "x": "Land nationalisation in 1975 ended landlordism. From February 1977 Mengistu Haile Mariam dominated. {{brit-ethiopia}}"
     },
     {
      "t": "p",
@@ -181,7 +183,7 @@
     },
     {
      "t": "p",
-     "x": "A Red Terror in 1977 and 1978 killed civilians in the cities, with estimates from tens of thousands to several hundred thousand [ESTIMATE, CONTESTED]. {{lib}}"
+     "x": "A Red Terror from 1977 into 1978 killed civilians in the cities, with estimates from about 10,000 to 150,000 [ESTIMATE, CONTESTED]. {{brit-ethiopia}} {{twq-2023}} {{hrw-evildays}}"
     },
     {
      "t": "h",
@@ -189,7 +191,7 @@
     },
     {
      "t": "p",
-     "x": "The regime allied with the Soviet Union and Cuba, which supported Ethiopia against Somalia in the Ogaden War of 1977 to 1978. {{lib}} The Soviet Union had armed Somalia before that, with 181 million dollars of military aid in 1977. {{gha-viii-ch27}}"
+     "x": "The regime allied with the Soviet Union and Cuba, which supported Ethiopia against Somalia in the Ogaden War of 1977 to 1978. {{gha-viii-ch27}} The Soviet Union had armed Somalia before that, with 181 million dollars of military aid in 1977. {{gha-viii-ch27}}"
     },
     {
      "t": "p",
@@ -205,11 +207,11 @@
     },
     {
      "t": "p",
-     "x": "Drought combined with war and government policy: grain marketing, forced resettlement of about 600,000 people, and villagisation. Deaths are commonly given as around 400,000 to a million [ESTIMATE, CONTESTED]. {{lib}}"
+     "x": "Drought combined with war and government policy: grain marketing, forced resettlement of about 600,000 people, and villagisation. {{hrw-evildays}} Deaths are commonly given as around 500,000 to a million [ESTIMATE, CONTESTED]. {{twq-2023}}"
     },
     {
      "t": "p",
-     "x": "Alex de Waal argues that famine in such contexts is shaped by political choices, not only drought. Live Aid raised funds in 1985, and debates continue on aid and its misuse. {{lib}}"
+     "x": "Alex de Waal argues that famine in such contexts is shaped by political choices, not only drought. Live Aid raised funds in 1985, and debates continue on aid and its misuse. {{hrw-evildays}} {{oup-ethiopia}}"
     },
     {
      "t": "example",
@@ -227,7 +229,7 @@
     },
     {
      "t": "p",
-     "x": "The EPRDF took Addis Ababa in May 1991 and Mengistu fled to Zimbabwe. Eritrea became independent in 1993 after a referendum. An Ethiopian court convicted Mengistu of genocide in absentia in 2006. {{lib}}"
+     "x": "The EPRDF took Addis Ababa in May 1991 and Mengistu fled to Zimbabwe. Eritrea became independent in 1993 after a referendum. An Ethiopian court convicted Mengistu of genocide in absentia in 2006. {{brit-ethiopia}} {{brit-indep-list}}"
     },
     {
      "t": "table",
@@ -264,29 +266,31 @@
        "[FIRM]"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{brit-ethiopia}} {{hrw-evildays}} {{oup-ethiopia}}"
     },
     {
      "t": "check",
      "q": "A charity leaflet calls the 1984 to 1985 Ethiopian famine 'a natural disaster caused by drought'. What is missing?",
      "o": [
-      "It rained heavily",
-      "War, grain marketing and forced resettlement also played a role",
-      "There was no famine",
-      "It was caused by Italy"
+      "Nothing: there was no famine on that scale",
+      "Heavy rain and floods, not drought",
+      "War, grain marketing and forced resettlement",
+      "Locusts alone, which destroyed two harvests in a row",
+      "An Italian blockade of the coast"
      ],
-     "a": 1,
-     "w": "Famine reflects political choices as well as weather. {{lib}}",
+     "a": 2,
+     "w": "Famine reflects political choices as well as weather.",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "Why must Soviet aid figures for Ethiopia be handled with care?",
      "o": [
-      "They are audited",
-      "They come from Soviet-bloc sources without audit, so they are estimates",
-      "They are zero",
-      "They are from the World Bank"
+      "They are zero, since no aid was sent",
+      "Soviet-bloc sources without audit, so they are estimates",
+      "They are audited by the World Bank",
+      "They come from the World Bank's own tables",
+      "They count only food aid and leave out arms deliveries entirely"
      ],
      "a": 1,
      "w": "Name the source of a figure and its limits. {{gha-viii-ch27}}",
@@ -295,7 +299,7 @@
     {
      "t": "take",
      "i": [
-      "The Derg took power after Haile Selassie fell on 12/09/1974. {{lib}}",
+      "The Derg took power after Haile Selassie fell on 12/09/1974.",
       "Red Terror and famine tolls are [ESTIMATE, CONTESTED].",
       "Famine reflects political choices as well as weather."
      ]
@@ -313,7 +317,7 @@
     },
     {
      "t": "p",
-     "x": "Oil shocks in 1973 and 1979, falling commodity prices and borrowing left many states with heavy debt. {{lib}} The oil price announced on 23/12/1973 rose from US$5.04 to US$11.65 a barrel, which hurt oil-importing African states. {{gha-viii-ch14}}"
+     "x": "Oil shocks in 1973 and 1979, falling commodity prices and borrowing left many states with heavy debt. {{un-wess-2017}} The oil price announced on 23/12/1973 rose from US$5.04 to US$11.65 a barrel, which hurt oil-importing African states. {{gha-viii-ch14}}"
     },
     {
      "t": "p",
@@ -427,12 +431,13 @@
      "t": "check",
      "q": "The Lagos Plan and the Berg Report disagree about the crisis. What is the core difference?",
      "o": [
-      "None",
-      "The Plan stresses external and structural constraints and inward self-reliance; the Report ranks domestic policy first and urges market reform",
-      "Both blame the weather",
-      "Both reject aid"
+      "The Plan stresses outside constraints; the Report puts domestic policy first",
+      "None: both blame domestic policy and urge market reform",
+      "Both reject aid and call for self-reliance",
+      "The Plan puts domestic policy first; the Report stresses outside constraints",
+      "Both blame the weather and call for more aid"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Global constraints against policy errors. {{gha-viii-ch21}}",
      "kind": "application"
     },
@@ -440,12 +445,13 @@
      "t": "check",
      "q": "Both the Berg Report and its critics say farmers were paid too little. Where do they differ?",
      "o": [
-      "Nowhere",
-      "Critics also stress the fall in commodity terms of trade, an external cause the Report played down",
-      "Critics say farmers were overpaid",
-      "The Report blamed the weather"
+      "Critics say low prices did not matter at all, and blame only the weather and the locusts",
+      "Critics say farmers were overpaid by marketing boards",
+      "Nowhere: they agree on every cause of the crisis",
+      "Critics also stress falling terms of trade, which the Report played down",
+      "The Report blamed the weather, and critics blamed policy"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The readings meet on prices and part on causes. {{gha-viii-ch12}} {{berg}}",
      "kind": "application"
     },
@@ -470,7 +476,7 @@
     },
     {
      "t": "p",
-     "x": "IMF and World Bank loans came with conditions: devaluation, removal of subsidies, privatisation, trade liberalisation and cuts in public spending. {{lib}}"
+     "x": "IMF and World Bank loans came with conditions: devaluation, removal of subsidies, privatisation, trade liberalisation and cuts in public spending. {{cepr-1999}} {{un-wess-2017}}"
     },
     {
      "t": "p",
@@ -501,15 +507,15 @@
        "Domestic policy errors were real"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{cepr-1999}} {{brookings-2021}} {{berg}}"
     },
     {
      "t": "p",
-     "x": "Many African economies stagnated in the 1980s and early 1990s, a 'lost decade', and recovered in the 2000s with commodity prices and debt relief [CONTESTED]. {{lib}}"
+     "x": "Many African economies stagnated in the 1980s and early 1990s, a 'lost decade', and recovered in the 2000s with commodity prices and debt relief [CONTESTED]. {{un-wess-2017}} {{brookings-2021}}"
     },
     {
      "t": "p",
-     "x": "The Heavily Indebted Poor Countries initiative (1996) and the Multilateral Debt Relief Initiative (2005) wrote off large debts. {{lib}}"
+     "x": "The Heavily Indebted Poor Countries initiative (1996) and the Multilateral Debt Relief Initiative (2005) wrote off large debts. {{imf-hipc}}"
     },
     {
      "t": "example",
@@ -629,38 +635,40 @@
     },
     {
      "t": "p",
-     "x": "The end of the Cold War reduced support for authoritarian allies. From 1989 to 1991 many states held multiparty elections, for example after Benin's 1990 conference, and Mobutu's Zaire collapsed in 1997. {{lib}}"
+     "x": "The end of the Cold War reduced support for authoritarian allies. From 1989 to 1991 many states held multiparty elections, for example after Benin's 1990 conference, and Mobutu's Zaire collapsed in 1997. {{robinson-1994}}"
     },
     {
      "t": "check",
      "q": "A blog says adjustment in the 1980s caused Africa's economic decline. What is the strongest objection?",
      "o": [
-      "None",
-      "The decline began in the 1970s, before adjustment, with oil shocks and falling prices; adjustment shaped outcomes but was not the sole cause",
-      "Adjustment never happened",
-      "Africa grew fast in the 1980s"
+      "Adjustment began in 1970, so it did cause the whole decline",
+      "None: adjustment was the only cause of decline across the continent",
+      "Adjustment never happened in Africa",
+      "Africa grew fast in the 1980s",
+      "The decline began in the 1970s, before adjustment, with oil shocks"
      ],
-     "a": 1,
-     "w": "Check the timing of a cause. {{lib}}",
+     "a": 4,
+     "w": "Check the timing of a cause.",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "A book gives 'over 1 trillion dollars in aid to Africa' with no time window. What should you do?",
      "o": [
-      "Quote it",
-      "Ask for the window and measure; the same book gives several different totals",
-      "Double it",
-      "Ignore aid entirely"
+      "Quote it, since it is a round and memorable figure",
+      "Convert it to today's dollars and quote that as the true total",
+      "Ask for the window and measure; the book gives several totals",
+      "Ignore aid entirely, since no figure can be trusted",
+      "Double it, since aid figures leave out loans"
      ],
-     "a": 1,
+     "a": 2,
      "w": "A total without a window is unusable. {{my-intro}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Adjustment shaped the crisis but did not begin it [CONTESTED]. {{lib}}",
+      "Adjustment shaped the crisis but did not begin it [CONTESTED].",
       "HIPC (1996) and MDRI (2005) wrote off large debts.",
       "Check an author's numbers, windows and dates before using them."
      ]
@@ -695,7 +703,7 @@
       [
        "The Derg (1974 to 1991)",
        "Revolutionary military regime",
-       "Red Terror: tens of thousands to several hundred thousand; famine 400,000 to 1,000,000",
+       "Red Terror: about 10,000 to 150,000; famine 500,000 to 1,000,000",
        "Drought or policy?"
       ],
       [
@@ -705,7 +713,7 @@
        "Sole cause or one of several?"
       ]
      ],
-     "src": "{{wiki-biafra}} {{lib}}"
+     "src": "{{wiki-biafra}} {{brit-ethiopia}} {{twq-2023}} {{un-wess-2017}}"
     },
     {
      "t": "table",
@@ -736,7 +744,7 @@
        "The Berg Report (1981) and the Lagos Plan of Action (1980)"
       ]
      ],
-     "src": "{{lib}} {{berg}} {{lagos-plan}}"
+     "src": "{{berg}} {{lagos-plan}}"
     },
     {
      "t": "example",
@@ -756,32 +764,34 @@
      "t": "check",
      "q": "A student wants the Biafran death toll from Half of a Yellow Sun. What should you tell them?",
      "o": [
-      "Use it",
-      "A novel is a dramatisation: use it for experience, and take numbers from demographic estimates with their methods",
-      "Novels give exact tolls",
-      "Ignore Biafra"
+      "Ignore Biafra, since no reliable sources exist",
+      "A novel dramatises: use it for experience, and take numbers elsewhere",
+      "Use the toll from the novel's afterword, which cites the Red Cross figure",
+      "Novels give exact tolls when based on family memory",
+      "Use it, since Adichie researched the figures carefully"
      ],
      "a": 1,
-     "w": "Do not take numbers from fiction. {{lib}}",
+     "w": "Do not take numbers from fiction.",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "A source gives the Biafran toll as 500,000 to 2 million. What should that range tell you?",
      "o": [
-      "That the toll is known exactly",
       "That little is known and the method matters",
-      "That 1.25 million is right",
-      "That the war was small"
+      "That the war was small",
+      "That the higher figure is the federal government's",
+      "That 1.25 million is right, the midpoint",
+      "That the toll is known exactly"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Wide ranges signal poor baselines. {{wiki-biafra}}",
      "kind": "application"
     },
     {
      "t": "take",
      "i": [
-      "Compare cases by mechanism, not by the largest number. {{lib}}",
+      "Compare cases by mechanism, not by the largest number.",
       "Pair witnesses with analysts and official documents.",
       "Read each official document as a position."
      ]
@@ -804,7 +814,7 @@
     },
     {
      "t": "p",
-     "x": "The page also notes that critics have called him sexist in his depiction of Igbo society, which is a reminder that every witness has limits. We did not read his books. {{wiki-achebe}} {{lib}}"
+     "x": "The page also notes that critics have called him sexist in his depiction of Igbo society, which is a reminder that every witness has limits. We did not read his books. {{wiki-achebe}}"
     },
     {
      "t": "p",
@@ -818,7 +828,7 @@
      "t": "ol",
      "i": [
       "Read the witness for what it was like to live through the event.",
-      "Read the historian for scale and cause. {{lib}}",
+      "Read the historian for scale and cause.",
       "Mark where they agree and where they conflict.",
       "Mark what each lacks.",
       "Do not use the witness for a number, or the number for the experience."
@@ -848,8 +858,7 @@
        "A moral claim",
        "The dispute and the evidence on each side"
       ]
-     ],
-     "src": "{{lib}}"
+     ]
     },
     {
      "t": "h",
@@ -860,7 +869,7 @@
      "title": "Use Achebe's memoir for the experience of Biafra and for the Igbo sense of marginalisation after the war.",
      "steps": [
       "Use the demographic ranges for scale: the civilian toll runs from 500,000 to 2 million.",
-      "Do not convert the memoir into a number. Say that the numbers are contested and the memoir is partial. {{lib}} {{wiki-biafra}}",
+      "Do not convert the memoir into a number. Say that the numbers are contested and the memoir is partial. {{wiki-biafra}}",
       "Write one sentence of each kind and keep them apart."
      ]
     },
@@ -884,30 +893,32 @@
      "t": "check",
      "q": "What should you not take from a witness?",
      "o": [
-      "A reliable death toll",
       "The experience of the event",
+      "A sense of daily life",
+      "A reliable death toll",
       "A voice",
       "A perspective"
      ],
-     "a": 0,
-     "w": "Use the witness for experience, not counts. {{lib}}"
+     "a": 2,
+     "w": "Use the witness for experience, not counts."
     },
     {
      "t": "check",
      "q": "Which book of Achebe's reopened discussion of the civil war?",
      "o": [
-      "There Was a Country (2012)",
-      "Things Fall Apart (1958)",
       "Home and Exile (2000)",
-      "No Longer at Ease"
+      "Things Fall Apart (1958)",
+      "No Longer at Ease (1960)",
+      "There Was a Country (2012)",
+      "Anthills of the Savannah (1987)"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Per the encyclopaedia page. {{wiki-achebe}}"
     },
     {
      "t": "take",
      "i": [
-      "Use the witness for experience and the historian for scale. {{lib}}",
+      "Use the witness for experience and the historian for scale.",
       "Mark what each lacks.",
       "Every witness has limits. {{wiki-achebe}}"
      ]

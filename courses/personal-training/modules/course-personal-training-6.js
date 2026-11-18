@@ -110,24 +110,26 @@
      "t": "check",
      "q": "What was the estimated break point for total daily protein in the analysis?",
      "o": [
+      "About 2.2 g/kg",
+      "About 3 g/kg",
       "0.8 g/kg",
       "About 1.6 g/kg",
-      "About 3 g/kg",
       "No limit"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Gains in fat-free mass plateaued near 1.62 g/kg/day. {{morton2018}}"
     },
     {
      "t": "check",
      "q": "A client weighs 80 kg. Using 1.6 g/kg, what daily protein target is that?",
      "o": [
-      "64 g",
-      "104 g",
+      "160 g",
       "128 g",
+      "104 g",
+      "64 g",
       "176 g"
      ],
-     "a": 2,
+     "a": 1,
      "w": "1.6 x 80 = 128 g a day. {{morton2018}}"
     },
     {
@@ -226,24 +228,26 @@
      "t": "check",
      "q": "What did the analysis say about protein timing and source?",
      "o": [
-      "They were the biggest factors",
-      "They played a minor role over weeks of training",
+      "They played a minor role over weeks",
+      "Only evening matters",
       "Only whey works",
-      "Only evening matters"
+      "Timing mattered most, within an hour of training",
+      "They were the biggest factors"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The authors concluded that timing, post-exercise dose and source play a minor role in gains over weeks. {{morton2018}}"
     },
     {
      "t": "check",
      "q": "Why might older adults appear not to benefit in the trials?",
      "o": [
-      "They cannot digest",
-      "Supplement doses were low and older adults need higher per-meal doses",
+      "No reason",
+      "Older adults cannot build any new muscle at all, whatever they eat",
+      "They cannot digest protein",
       "They train less",
-      "No reason"
+      "Doses were low, and older adults need more per meal"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Older adults are anabolically resistant, need higher doses, and the average supplement dose in older groups was low. {{morton2018}}"
     },
     {
@@ -338,22 +342,24 @@
      "t": "check",
      "q": "A client with a kidney condition asks how much protein to eat. What is the right response?",
      "o": [
-      "Give them 2 g/kg",
+      "Cut calories",
+      "Give them the 1.6 g/kg target used for everyone",
       "Refer them to their doctor or dietitian",
       "Tell them to ignore it",
-      "Cut calories"
+      "Give them 2 g/kg"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Medical diet prescription is outside a trainer's scope; the protein research excluded unwell participants. {{morton2018}}"
     },
     {
      "t": "check",
      "q": "A client asks you to write them a meal plan to treat their coeliac disease. Which response stays within typical trainer scope?",
      "o": [
-      "Writing a clinical diet",
-      "Sharing a published protein range and its limits",
-      "Diagnosing an eating disorder",
-      "Adjusting medication"
+      "Write the gluten-free meal plan, since it is a simple diet change",
+      "Share a published protein range and its limits",
+      "Adjust medication",
+      "Write a clinical diet",
+      "Diagnose an eating disorder"
      ],
      "a": 1,
      "w": "General, evidence-based information is typically in scope; check your own register's rules.",
@@ -476,12 +482,13 @@
      "t": "check",
      "q": "What does the WHO recommend for older adults?",
      "o": [
-      "No strength work",
-      "Varied multicomponent activity on 3 or more days a week",
       "Vigorous running daily",
-      "Rest"
+      "Rest",
+      "No strength work",
+      "Walking only, on most days, with no strength work",
+      "Varied multicomponent activity on 3+ days a week"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Multicomponent activity at moderate or greater intensity on 3 or more days a week. {{who2020}}"
     },
     {
@@ -489,11 +496,12 @@
      "q": "A client with a long-term condition and no symptoms wants to start. What is the best step?",
      "o": [
       "Start vigorous exercise",
-      "Check the screening algorithm and obtain clearance as indicated",
-      "Skip screening",
-      "Refuse"
+      "Start at any intensity, since there are no symptoms",
+      "Check the algorithm and get clearance as indicated",
+      "Refuse",
+      "Skip screening"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Known disease in an inactive client requires clearance before exercise of any intensity under the algorithm. {{whitfield2017}}"
     },
     {
@@ -627,36 +635,39 @@
      "t": "check",
      "q": "Why does a session count as one demand among many?",
      "o": [
-      "Selye counted any demand on the body as stress",
       "Sessions are always light",
       "It does not",
+      "Only training counts as a real demand on the body",
+      "Selye counted any demand on the body as stress",
       "Only illness counts"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Selye defined stress as the response to any demand. {{pmc-selye}}"
     },
     {
      "t": "check",
      "q": "What does the 2024 review say about people fighting fatigue from a condition?",
      "o": [
+      "More activity may be beyond their reach",
       "They should do more",
-      "More activity may be unobtainable for them",
-      "They should stop all activity",
-      "Nothing"
+      "Nothing",
+      "They should always do more, whatever their fatigue",
+      "They should stop all activity"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It says more activity may be unobtainable when battling fatigue from a debilitating condition. {{ding24}}"
     },
     {
      "t": "check",
      "q": "A client has two heavy demands this week and poor sleep. What is a sensible step?",
      "o": [
-      "Raise the load",
+      "Keep the planned load, since consistency matters most",
+      "Ignore it",
       "Lighten the session and say why",
-      "Cancel without a word",
-      "Ignore it"
+      "Raise the load",
+      "Cancel without a word"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Total demand is high, so a lighter session fits the idea."
     },
     {

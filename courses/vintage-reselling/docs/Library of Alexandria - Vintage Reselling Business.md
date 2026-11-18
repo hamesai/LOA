@@ -1,6 +1,6 @@
 # Library of Alexandria: Vintage reselling business (UK)
 
-Level: Beginner. Created 15/11/2026.
+Level: Beginner. Created 18/11/2026.
 
 Start an online business reselling vintage goods: decide your legal status, source at prices that leave a margin, date and grade items honestly, sell lawfully, list and price across platforms, and keep records and tax right.
 

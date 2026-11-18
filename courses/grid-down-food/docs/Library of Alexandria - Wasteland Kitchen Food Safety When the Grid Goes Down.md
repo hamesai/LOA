@@ -1,6 +1,6 @@
 # Library of Alexandria: Wasteland Kitchen: Food Safety When the Grid Goes Down
 
-Level: Beginner (new food business). Created 15/11/2026.
+Level: Beginner (new food business). Created 18/11/2026.
 
 Run a safe frozen-meal catering business from a home kitchen, and keep it safe when the power or water fails: registration, hazard control, the freezer-failure clock, cooking and reheating, labelling and allergens, continuity, using UK, Irish, WHO and US guidance.
 

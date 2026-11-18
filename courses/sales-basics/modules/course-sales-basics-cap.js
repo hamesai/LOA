@@ -106,10 +106,11 @@
      "t": "check",
      "q": "Which section checks that you are allowed to make the call?",
      "o": [
-      "Research",
+      "Value",
       "Fair and lawful",
-      "Follow-up",
-      "Value"
+      "Qualify and research",
+      "Research",
+      "Follow-up"
      ],
      "a": 1,
      "w": "The fair-and-lawful section covers TPS and CTPS checks and claims. {{ico-tel}}"
@@ -118,12 +119,13 @@
      "t": "check",
      "q": "Which should be written before the call, not after?",
      "o": [
-      "The review",
       "A SMART objective",
+      "The invoice",
       "The follow-up reply from the prospect",
-      "The invoice"
+      "The review",
+      "The review of what went well"
      ],
-     "a": 1,
+     "a": 0,
      "w": "A SMART objective is set during preparation. {{ps-pre3}}"
     },
     {
@@ -193,24 +195,26 @@
      "t": "check",
      "q": "What should you do before recording a role-play or video call?",
      "o": [
-      "Nothing",
-      "Ask permission and say why",
+      "Post it online",
       "Record secretly",
-      "Post it online"
+      "Tell them after the call ends",
+      "Nothing",
+      "Ask permission and say why"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The text says to ask permission before recording a video call. {{ps-pres2}}"
     },
     {
      "t": "check",
      "q": "Which rubric row covers whether you were allowed to contact the prospect?",
      "o": [
+      "Follow up and review",
       "Qualify and research",
       "Prepare and open",
       "Fair and lawful",
       "Present and question"
      ],
-     "a": 2,
+     "a": 3,
      "w": "The fair-and-lawful row checks consent, TPS or CTPS and claims. {{ico-tel}} {{ci-unfair}}"
     },
     {
@@ -347,36 +351,39 @@
      "t": "check",
      "q": "Which is a Carnegie principle for winning people to your way of thinking?",
      "o": [
-      "The only way to get the best of an argument is to avoid it",
-      "Interrupt often",
+      "Win every argument, but do it politely and always with a smile",
       "Never smile",
-      "Talk about yourself"
+      "The only way to get the best of an argument is to avoid it",
+      "Talk about yourself",
+      "Interrupt often"
      ],
-     "a": 0,
+     "a": 2,
      "w": "It is the first of the twelve ways to win people to your way of thinking. {{carnegie-wiki}}"
     },
     {
      "t": "check",
      "q": "What did the critics say the method risked?",
      "o": [
-      "Being too long",
-      "Insincerity and manipulation",
+      "Being far too honest with buyers",
+      "Being too slow",
       "Being too honest",
-      "Being too slow"
+      "Insincerity and manipulation",
+      "Being too long"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Lewis and later scholars called it insincere and manipulative. {{carnegie-wiki}}"
     },
     {
      "t": "check",
      "q": "In the example, the buyer spoke 5 of 12 minutes. What share is that?",
      "o": [
-      "25%",
       "42%",
-      "50%",
-      "58%"
+      "58%",
+      "25%",
+      "40%",
+      "50%"
      ],
-     "a": 1,
+     "a": 0,
      "w": "5 ÷ 12 = 0.417."
     },
     {

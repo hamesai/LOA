@@ -102,12 +102,13 @@
      "t": "check",
      "q": "Halfway through your talk a manager keeps checking her watch and says 'and the bottom line is?'. Which listener type is she, and what does she want?",
      "o": [
-      "Wants evidence and accuracy",
-      "Wants you to get to the point quickly",
-      "Is curious about you as a person",
-      "Wants to know what to do"
+      "People-oriented: she wants to know you",
+      "Action-oriented: she wants steps",
+      "Time-oriented: she wants you to get to the point",
+      "Content-oriented: she wants more detail and accuracy before you go on",
+      "Content-oriented: she wants evidence"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Time-oriented listeners prefer messages that get to the point quickly. {{sus-style}}",
      "kind": "application"
     },
@@ -117,8 +118,9 @@
      "o": [
       "Semantic",
       "Physical",
-      "Psychological",
-      "Formative"
+      "Psychological, since it is in the mind",
+      "Formative",
+      "Psychological"
      ],
      "a": 1,
      "w": "Physical noise comes from the physical setting. {{sus-noise}}",
@@ -235,12 +237,13 @@
      "t": "check",
      "q": "You are preparing to pitch a new rota to staff. Which fact you have gathered is psychographic?",
      "o": [
-      "Average age is 40",
       "Most attendees are sceptical about the plan",
       "Thirty people are expected",
-      "The room has a microphone"
+      "The room has a microphone",
+      "Average age is 40",
+      "Most attendees have worked at the firm for over five years"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Psychographic information covers beliefs, attitudes and values. {{sus-aud2}}",
      "kind": "application"
     },
@@ -248,12 +251,13 @@
      "t": "check",
      "q": "You must give a compliance briefing that all staff are required to attend. What kind of audience is this, and what should you expect?",
      "o": [
-      "One that chose to attend",
-      "One required or obliged to attend, who may give only grudging attention",
-      "One with high status",
-      "A small audience"
+      "A small audience",
+      "A voluntary audience, keen to hear you",
+      "A voluntary audience, since staff chose the job that requires the briefing",
+      "A captive audience, who may give only grudging attention",
+      "A high-status audience"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Captive audiences are required to be present or feel obliged. {{sus-aud2}}",
      "kind": "application"
     },
@@ -376,24 +380,26 @@
      "t": "check",
      "q": "Why not ask an audience for highly personal details unrelated to your topic?",
      "o": [
+      "People never answer",
+      "It is illegal to ask an audience any personal question at all",
       "It is illegal everywhere",
-      "Questions should relate to the topic and respect privacy",
       "It takes too long",
-      "People never answer"
+      "Questions should relate to the topic and respect privacy"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The text says to keep questions directly related and not delve into private areas. {{sus-aud3}}"
     },
     {
      "t": "check",
      "q": "What does socially desirable responding mean?",
      "o": [
-      "Responding quickly",
       "Giving answers that seem socially acceptable",
+      "Responding quickly",
+      "Answering honestly, whatever others may think",
       "Refusing to answer",
       "Responding in groups"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It is the tendency to give socially acceptable responses. {{sus-aud3}}"
     },
     {
@@ -531,11 +537,12 @@
      "q": "Which is a well-formed specific purpose?",
      "o": [
       "Recycling is important",
-      "To inform my colleagues about three ways to reduce meeting time",
-      "How can we save time?",
-      "To inform and persuade everyone about time"
+      "To inform and persuade everyone about time",
+      "To inform and persuade everyone in the company about time, money and meetings",
+      "To inform my colleagues about three ways to cut meeting time",
+      "How can we save time?"
      ],
-     "a": 1,
+     "a": 3,
      "w": "It states the purpose, audience and topic in a clear single statement. {{sus-specific}}",
      "kind": "application"
     },
@@ -543,12 +550,13 @@
      "t": "check",
      "q": "You start encouraging the audience to join a vaccination programme in an informative speech. What has happened?",
      "o": [
-      "Nothing",
-      "You have moved from informing to persuading",
+      "You have narrowed the topic",
       "You have entertained",
-      "You have narrowed the topic"
+      "You have moved from informing to persuading",
+      "Nothing, since encouraging is still informing",
+      "Nothing"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Encouraging a specific use of knowledge is persuading. {{sus-purpose}}",
      "kind": "application"
     },
@@ -668,22 +676,24 @@
      "t": "check",
      "q": "Into which two groups did Aristotle sort types of character in Book II?",
      "o": [
+      "Classes and professions",
+      "Speed and volume",
       "Height and weight",
-      "Ages and fortunes",
       "Cities and villages",
-      "Speed and volume"
+      "Ages and fortunes"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He sorts by ages and by fortune. {{mit-arist}}"
     },
     {
      "t": "check",
      "q": "What does he say people think of speeches that reflect their own character?",
      "o": [
-      "They dislike them",
+      "They distrust them as flattery",
       "They always think well of them",
+      "They fear them",
       "They ignore them",
-      "They fear them"
+      "They dislike them"
      ],
      "a": 1,
      "w": "People always think well of speeches adapted to, and reflecting, their own character. {{mit-arist}}"
@@ -692,12 +702,13 @@
      "t": "check",
      "q": "How should you use Aristotle's lists today?",
      "o": [
+      "Copy them into your speech",
       "As proven facts about groups",
-      "As prompts for questions you check with real data",
       "Never read them",
-      "Copy them into your speech"
+      "As proven facts about age groups that still hold today",
+      "As prompts for questions you check with real data"
      ],
-     "a": 1,
+     "a": 4,
      "w": "They are generalisations of his time, so use them as prompts and gather real facts."
     },
     {

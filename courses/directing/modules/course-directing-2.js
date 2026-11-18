@@ -127,10 +127,11 @@
      "t": "check",
      "q": "An actor says she cannot believe she is a duchess in 1600. How would the magic 'if' help her?",
      "o": [
-      "It forces the actor to believe a lie",
-      "It sets the imagination moving with a supposition",
       "It replaces the text",
-      "It tells the actor what to feel"
+      "It sets the imagination moving with a supposition",
+      "It asks her to convince herself that she really is the duchess",
+      "It tells the actor what to feel",
+      "It forces the actor to believe a lie"
      ],
      "a": 1,
      "w": "The 'if' gives the push to a dormant imagination as a supposition, not a lie. {{aap}}",
@@ -140,12 +141,13 @@
      "t": "check",
      "q": "Which is NOT one of Garcia's four given-circumstance questions?",
      "o": [
-      "Who",
+      "Where",
       "What",
-      "When",
+      "When (the period)",
+      "Who",
       "Why not"
      ],
-     "a": 3,
+     "a": 4,
      "w": "Garcia lists who, what, when and where. {{garcia}}"
     },
     {
@@ -260,12 +262,13 @@
      "t": "check",
      "q": "A director breaks a 90-minute play into 400 units and the actors start to lose the shape of their roles. What is the book's warning?",
      "o": [
-      "It takes too long to print",
-      "The actor loses the whole and the channel",
       "Directors cannot count",
-      "The audience can see the units"
+      "It takes too long to print",
+      "The audience can see the units",
+      "The actor loses the whole and the through line",
+      "Small units are always better, so the problem lies elsewhere"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Tiny steps tangle the actor and hide the larger line. {{aap}}",
      "kind": "application"
     },
@@ -273,12 +276,13 @@
      "t": "check",
      "q": "Which objective is better for a new scene?",
      "o": [
-      "Save humanity",
       "Make the other person sit down",
       "Be moving",
-      "Show off my technique"
+      "Show off my technique",
+      "Save humanity",
+      "Feel sad about my father's death"
      ],
-     "a": 1,
+     "a": 0,
      "w": "A simple physical objective aimed at a partner is the safer start. {{aap}}",
      "kind": "application"
     },
@@ -415,12 +419,13 @@
      "t": "check",
      "q": "A student quotes Hitchcock's 'actors are cattle' line as proof he despised actors. How does Spoto read it?",
      "o": [
-      "As puckish humour, since Hitchcock was in practice an actor's director",
       "As a literal policy",
-      "As praise",
-      "As a rule he taught"
+      "As a rule he taught",
+      "As puckish humour; he was an actor's director in practice",
+      "As a sincere policy that he applied on every one of his sets",
+      "As praise"
      ],
-     "a": 0,
+     "a": 2,
      "w": "Spoto calls the remark part of a puckish and perverse humour and says Hitchcock created the atmosphere in which performances could emerge. {{spoto-ch17}}",
      "kind": "application"
     },
@@ -433,11 +438,12 @@
      "q": "A stage actor on her first film keeps playing to the crew behind the camera. Which relationship does the film textbook say matters most?",
      "o": [
       "The prompt",
-      "The camera",
       "The producer",
-      "The front row"
+      "The camera",
+      "The front row",
+      "The crew behind the camera"
      ],
-     "a": 1,
+     "a": 2,
      "w": "It says the key relationship is between the actor and the camera. {{cwc}}",
      "kind": "application"
     },
@@ -446,11 +452,12 @@
      "q": "An actor moves a role from a large theatre to a film close-up. Which part of the work should stay the same?",
      "o": [
       "The size of gesture",
-      "The objective",
       "The seat prices",
-      "The shot list"
+      "The volume of the voice",
+      "The shot list",
+      "The objective"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The objective and given circumstances stay. Only the size changes. {{aap}}",
      "kind": "application"
     },
@@ -582,12 +589,13 @@
      "t": "check",
      "q": "Why does the 'if' work, according to the book?",
      "o": [
-      "It makes people believe a lie",
       "It is an honest supposition that starts action",
+      "It removes the author",
+      "It makes the actor believe the fiction is literally real",
       "It copies earlier rehearsals",
-      "It removes the author"
+      "It makes people believe a lie"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The teacher stresses it admits it is only a supposition and uses no fear or force. {{aap}}",
      "kind": "application"
     },
@@ -595,10 +603,11 @@
      "t": "check",
      "q": "What did the teacher do in the farmer exercise?",
      "o": [
-      "Agreed with the student",
+      "Played the farmer himself to show how it was done",
       "Argued the defence until the student weakened",
-      "Cut the scene",
-      "Told the student to play it for laughs"
+      "Told the student to play it for laughs",
+      "Agreed with the student",
+      "Cut the scene"
      ],
      "a": 1,
      "w": "He used every argument to justify the defendant until the student weakened. {{aap}}"
@@ -607,12 +616,13 @@
      "t": "check",
      "q": "Your cast repeats a strong improvisation the next night and it feels empty. What went wrong when the class repeated the madman exercise, and what is the lesson?",
      "o": [
+      "They played it too freely and lost the shape they had found the night before",
       "They forgot the lines",
+      "The teacher changed the rules",
       "They copied the outer form and lost the inner cause",
-      "They were bored of the door",
-      "The teacher changed the rules"
+      "They were bored of the door"
      ],
-     "a": 1,
+     "a": 3,
      "w": "They repeated a successful rehearsal instead of re-creating the inner experience. {{aap}}",
      "kind": "application"
     },

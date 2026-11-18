@@ -1,0 +1,1898 @@
+{
+ "800d7bac": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Where returns come from": [
+    "capital",
+    "divided",
+    "dividend",
+    "dividends",
+    "price",
+    "return",
+    "still",
+    "total"
+   ],
+   "Compounding: growth on growth": [
+    "return",
+    "starting",
+    "still",
+    "total"
+   ],
+   "Fees and the drag they cause": [
+    "capital",
+    "dividend",
+    "return"
+   ],
+   "Reading a return figure honestly": [
+    "return",
+    "still",
+    "total"
+   ],
+   "Practice: judging two offers and a headline": [
+    "return",
+    "total"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "capital",
+    "return"
+   ]
+  }
+ },
+ "3a5ed2ff": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Where returns come from": [
+    "100",
+    "arithmetic",
+    "different",
+    "gives",
+    "return",
+    "returns"
+   ],
+   "Compounding: growth on growth": [
+    "100",
+    "arithmetic",
+    "different",
+    "earned",
+    "gives",
+    "growth",
+    "return",
+    "returns",
+    "single"
+   ],
+   "Fees and the drag they cause": [
+    "actually",
+    "annual",
+    "arithmetic",
+    "compounded",
+    "growth",
+    "lower",
+    "return"
+   ],
+   "Reading a return figure honestly": [
+    "100",
+    "actually",
+    "answer",
+    "arithmetic",
+    "average",
+    "averages",
+    "correct",
+    "different",
+    "gives",
+    "growth",
+    "lower",
+    "order",
+    "period",
+    "question",
+    "questions",
+    "return",
+    "returns",
+    "simple"
+   ],
+   "Practice: judging two offers and a headline": [
+    "always",
+    "answer",
+    "answers",
+    "arithmetic",
+    "average",
+    "gives",
+    "growth",
+    "lower",
+    "misleading",
+    "period",
+    "question",
+    "questions",
+    "return",
+    "returns",
+    "simple"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "arithmetic",
+    "different",
+    "return",
+    "returns"
+   ]
+  }
+ },
+ "b8306d0a": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Where returns come from": [
+    "example",
+    "negative",
+    "return",
+    "returns",
+    "total"
+   ],
+   "Compounding: growth on growth": [
+    "equals",
+    "example",
+    "negative",
+    "return",
+    "returns",
+    "total",
+    "yearly",
+    "years"
+   ],
+   "Fees and the drag they cause": [
+    "annual",
+    "example",
+    "result",
+    "return",
+    "yearly",
+    "years"
+   ],
+   "Reading a return figure honestly": [
+    "example",
+    "negative",
+    "return",
+    "returns",
+    "total",
+    "yearly",
+    "years"
+   ],
+   "Practice: judging two offers and a headline": [
+    "example",
+    "result",
+    "return",
+    "returns",
+    "total",
+    "yearly",
+    "years"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "equals",
+    "example",
+    "result",
+    "return",
+    "returns",
+    "years"
+   ]
+  }
+ },
+ "7ee77846": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What risk means for an investor": [
+    "gives",
+    "returns",
+    "years"
+   ],
+   "Volatility and the recovery arithmetic": [
+    "average",
+    "deviation",
+    "gives",
+    "happens",
+    "measure",
+    "measured",
+    "returns",
+    "standard",
+    "swings",
+    "volatility",
+    "within",
+    "yearly",
+    "years"
+   ],
+   "Bachelier and the random walk": [
+    "below",
+    "gives",
+    "years"
+   ],
+   "Stress-testing a plan: three scenarios": [
+    "below",
+    "happens",
+    "within",
+    "worse",
+    "years"
+   ],
+   "Practice: stress-test your own money": [
+    "happens",
+    "years"
+   ],
+   "The lecturer's method: Louis Bachelier": []
+  }
+ },
+ "29fe3e69": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Diversification in plain terms": [
+    "company",
+    "diversification",
+    "failure",
+    "holdings",
+    "means",
+    "money",
+    "shares",
+    "single"
+   ],
+   "Markowitz: risk, return and correlation": [
+    "diversification",
+    "firms",
+    "holdings",
+    "means"
+   ],
+   "Building a simple portfolio you can explain": [
+    "holdings",
+    "money",
+    "shares",
+    "single"
+   ],
+   "Rebalancing and reviewing: keeping a plan on course": [
+    "holdings",
+    "means",
+    "money",
+    "shares"
+   ],
+   "Practice: audit a portfolio": [
+    "company",
+    "holdings",
+    "shares",
+    "single"
+   ],
+   "The lecturer's method: Harry Markowitz": [
+    "diversification",
+    "holdings",
+    "shares",
+    "single"
+   ]
+  }
+ },
+ "3cf66f4f": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Diversification in plain terms": [
+    "company",
+    "diversification",
+    "numbers",
+    "together",
+    "worked"
+   ],
+   "Markowitz: risk, return and correlation": [
+    "correlation",
+    "diversification",
+    "industry",
+    "markowitz",
+    "numbers",
+    "together",
+    "worked"
+   ],
+   "Building a simple portfolio you can explain": [
+    "worked"
+   ],
+   "Rebalancing and reviewing: keeping a plan on course": [
+    "together",
+    "worked"
+   ],
+   "Practice: audit a portfolio": [
+    "company",
+    "industry",
+    "together",
+    "worked"
+   ],
+   "The lecturer's method: Harry Markowitz": [
+    "diversification",
+    "together",
+    "worked"
+   ]
+  }
+ },
+ "59f4a948": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Diversification in plain terms": [
+    "average",
+    "cannot",
+    "diversification",
+    "diversify",
+    "gives",
+    "market"
+   ],
+   "Markowitz: risk, return and correlation": [
+    "average",
+    "cannot",
+    "diversification",
+    "diversified",
+    "falls",
+    "gives",
+    "investor"
+   ],
+   "Building a simple portfolio you can explain": [
+    "cannot",
+    "falls"
+   ],
+   "Rebalancing and reviewing: keeping a plan on course": [
+    "diversify",
+    "market",
+    "rates"
+   ],
+   "Practice: audit a portfolio": [
+    "cannot"
+   ],
+   "The lecturer's method: Harry Markowitz": [
+    "cannot",
+    "diversification",
+    "falls"
+   ]
+  }
+ },
+ "3dc36103": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What risk means for an investor": [
+    "belongs",
+    "money",
+    "years"
+   ],
+   "Volatility and the recovery arithmetic": [
+    "arithmetic",
+    "average",
+    "money",
+    "needed",
+    "never",
+    "return",
+    "years"
+   ],
+   "Bachelier and the random walk": [
+    "arithmetic",
+    "money",
+    "month",
+    "never",
+    "years"
+   ],
+   "Stress-testing a plan: three scenarios": [
+    "against",
+    "arithmetic",
+    "extra",
+    "money",
+    "years"
+   ],
+   "Practice: stress-test your own money": [
+    "against",
+    "arithmetic",
+    "money",
+    "month",
+    "needed",
+    "years"
+   ],
+   "The lecturer's method: Louis Bachelier": [
+    "money",
+    "month",
+    "needed",
+    "never"
+   ]
+  }
+ },
+ "cfbc1fde": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Funds and index trackers": [
+    "alpha",
+    "market",
+    "return",
+    "stock"
+   ],
+   "Do active funds beat the index?": [
+    "counted",
+    "manager",
+    "return",
+    "worse"
+   ],
+   "Tax wrappers: ISAs and capital gains": [
+    "without"
+   ],
+   "Comparing three funds: a worked walkthrough": [
+    "earned",
+    "market",
+    "return"
+   ],
+   "Practice: a yearly money map": [
+    "return"
+   ],
+   "The lecturer's method: John Bogle": [
+    "average",
+    "compares",
+    "earned",
+    "market",
+    "worse"
+   ]
+  }
+ },
+ "92e92b5e": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Diversification in plain terms": [
+    "average",
+    "every",
+    "example",
+    "returns",
+    "single"
+   ],
+   "Markowitz: risk, return and correlation": [
+    "average",
+    "because",
+    "below",
+    "every",
+    "example",
+    "lower",
+    "markowitz",
+    "perfectly",
+    "return",
+    "returns",
+    "standard"
+   ],
+   "Building a simple portfolio you can explain": [
+    "example",
+    "return",
+    "single"
+   ],
+   "Rebalancing and reviewing: keeping a plan on course": [
+    "every",
+    "example",
+    "portfolio's",
+    "returns"
+   ],
+   "Practice: audit a portfolio": [
+    "because",
+    "every",
+    "example",
+    "matches",
+    "single"
+   ],
+   "The lecturer's method: Harry Markowitz": [
+    "because",
+    "every",
+    "example",
+    "lower",
+    "return",
+    "returns",
+    "single"
+   ]
+  }
+ },
+ "c7ca2ff2": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What investing is, and what it is not": [
+    "above",
+    "asset",
+    "bonds",
+    "claim",
+    "classes",
+    "dividends",
+    "government",
+    "interest",
+    "investment",
+    "price",
+    "shares",
+    "through",
+    "value"
+   ],
+   "Time horizon and the emergency fund": [
+    "below",
+    "interest",
+    "investment",
+    "uncertain"
+   ],
+   "Inflation: why cash is not automatically safe": [
+    "below",
+    "interest",
+    "price"
+   ],
+   "Three people, three starting points: a decision walkthrough": [
+    "order",
+    "shares",
+    "through",
+    "value"
+   ],
+   "Practice: your starting position on one page": [
+    "above",
+    "below",
+    "common",
+    "interest",
+    "investment"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "above",
+    "adjust",
+    "government",
+    "index",
+    "interest",
+    "price",
+    "value"
+   ]
+  }
+ },
+ "b4053f65": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Investment or speculation": [
+    "against",
+    "buying",
+    "market",
+    "money",
+    "reports",
+    "speculation"
+   ],
+   "The margin of safety and the lesson of 1929": [
+    "after",
+    "against",
+    "market"
+   ],
+   "Scams and the checks that stop them": [
+    "money",
+    "reports",
+    "straight"
+   ],
+   "Case files: scams and the biases behind them": [
+    "after",
+    "costs",
+    "money"
+   ],
+   "Practice: write your own investing rules": [
+    "after",
+    "against",
+    "market",
+    "money"
+   ],
+   "The lecturer's method: Benjamin Graham": [
+    "speculation"
+   ]
+  }
+ },
+ "e0c83545": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Funds and index trackers": [
+    "broad",
+    "example",
+    "exchange",
+    "share"
+   ],
+   "Do active funds beat the index?": [
+    "example",
+    "share"
+   ],
+   "Tax wrappers: ISAs and capital gains": [
+    "example"
+   ],
+   "Comparing three funds: a worked walkthrough": [
+    "broad",
+    "example",
+    "share",
+    "single"
+   ],
+   "Practice: a yearly money map": [
+    "example"
+   ],
+   "The lecturer's method: John Bogle": [
+    "bonds",
+    "example"
+   ]
+  }
+ },
+ "9df756a9": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What investing is, and what it is not": [
+    "inflation",
+    "interest",
+    "prices"
+   ],
+   "Time horizon and the emergency fund": [
+    "interest"
+   ],
+   "Inflation: why cash is not automatically safe": [
+    "actual",
+    "depends",
+    "inflation",
+    "interest",
+    "prices",
+    "rates"
+   ],
+   "Three people, three starting points: a decision walkthrough": [
+    "depends"
+   ],
+   "Practice: your starting position on one page": [
+    "built",
+    "interest"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "depends",
+    "interest"
+   ]
+  }
+ },
+ "a420f8da": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What risk means for an investor": [
+    "price",
+    "returns"
+   ],
+   "Volatility and the recovery arithmetic": [
+    "price",
+    "returns",
+    "still"
+   ],
+   "Bachelier and the random walk": [
+    "price",
+    "still"
+   ],
+   "Stress-testing a plan: three scenarios": [
+    "bonds",
+    "price"
+   ],
+   "Practice: stress-test your own money": [],
+   "The lecturer's method: Louis Bachelier": [
+    "price",
+    "still"
+   ]
+  }
+ },
+ "bce50a84": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Diversification in plain terms": [
+    "arithmetic",
+    "asset",
+    "bonds",
+    "company",
+    "first",
+    "large",
+    "second",
+    "shares"
+   ],
+   "Markowitz: risk, return and correlation": [
+    "arithmetic",
+    "first",
+    "large",
+    "second"
+   ],
+   "Building a simple portfolio you can explain": [
+    "arithmetic",
+    "asset",
+    "bonds",
+    "classes",
+    "first",
+    "shares"
+   ],
+   "Rebalancing and reviewing: keeping a plan on course": [
+    "arithmetic",
+    "bonds",
+    "large",
+    "shares"
+   ],
+   "Practice: audit a portfolio": [
+    "arithmetic",
+    "asset",
+    "bonds",
+    "company",
+    "first",
+    "shares",
+    "small"
+   ],
+   "The lecturer's method: Harry Markowitz": [
+    "bonds",
+    "first",
+    "government",
+    "large",
+    "second",
+    "shares"
+   ]
+  }
+ },
+ "0db6a84a": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Investment or speculation": [
+    "against",
+    "market"
+   ],
+   "The margin of safety and the lesson of 1929": [
+    "10,000",
+    "against",
+    "market"
+   ],
+   "Scams and the checks that stop them": [
+    "missing"
+   ],
+   "Case files: scams and the biases behind them": [],
+   "Practice: write your own investing rules": [
+    "10,000",
+    "against",
+    "market"
+   ],
+   "The lecturer's method: Benjamin Graham": []
+  }
+ },
+ "6e841e2c": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Investment or speculation": [
+    "against",
+    "before",
+    "companies",
+    "money",
+    "return"
+   ],
+   "The margin of safety and the lesson of 1929": [
+    "against",
+    "target"
+   ],
+   "Scams and the checks that stop them": [
+    "before",
+    "companies",
+    "money",
+    "return"
+   ],
+   "Case files: scams and the biases behind them": [
+    "before",
+    "money",
+    "return"
+   ],
+   "Practice: write your own investing rules": [
+    "against",
+    "before",
+    "money",
+    "return"
+   ],
+   "The lecturer's method: Benjamin Graham": [
+    "before",
+    "return"
+   ]
+  }
+ },
+ "8071827a": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Funds and index trackers": [
+    "performance"
+   ],
+   "Do active funds beat the index?": [
+    "active",
+    "gross",
+    "manager"
+   ],
+   "Tax wrappers: ISAs and capital gains": [],
+   "Comparing three funds: a worked walkthrough": [
+    "active",
+    "gross"
+   ],
+   "Practice: a yearly money map": [
+    "gross"
+   ],
+   "The lecturer's method: John Bogle": [
+    "active",
+    "gross"
+   ]
+  }
+ },
+ "ea629508": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What risk means for an investor": [
+    "assets",
+    "returns"
+   ],
+   "Volatility and the recovery arithmetic": [
+    "average",
+    "deviation",
+    "earned",
+    "higher",
+    "measure",
+    "returns",
+    "standard"
+   ],
+   "Bachelier and the random walk": [],
+   "Stress-testing a plan: three scenarios": [
+    "assets",
+    "bonds",
+    "follow",
+    "markets",
+    "often"
+   ],
+   "Practice: stress-test your own money": [
+    "follow",
+    "markets"
+   ],
+   "The lecturer's method: Louis Bachelier": []
+  }
+ },
+ "24abdc01": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Diversification in plain terms": [
+    "diversification",
+    "market",
+    "markets",
+    "shares",
+    "years"
+   ],
+   "Markowitz: risk, return and correlation": [
+    "among",
+    "diversification",
+    "investor",
+    "return",
+    "years"
+   ],
+   "Building a simple portfolio you can explain": [
+    "guarantee",
+    "return",
+    "shares",
+    "years"
+   ],
+   "Rebalancing and reviewing: keeping a plan on course": [
+    "among",
+    "market",
+    "shares",
+    "since"
+   ],
+   "Practice: audit a portfolio": [
+    "shares"
+   ],
+   "The lecturer's method: Harry Markowitz": [
+    "among",
+    "diversification",
+    "offer",
+    "return",
+    "shares"
+   ]
+  }
+ },
+ "4acabd7f": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Investment or speculation": [
+    "graham",
+    "graham's",
+    "holding",
+    "speculative"
+   ],
+   "The margin of safety and the lesson of 1929": [
+    "graham",
+    "graham's",
+    "method"
+   ],
+   "Scams and the checks that stop them": [],
+   "Case files: scams and the biases behind them": [
+    "until"
+   ],
+   "Practice: write your own investing rules": [],
+   "The lecturer's method: Benjamin Graham": [
+    "graham",
+    "graham's",
+    "method",
+    "speculative"
+   ]
+  }
+ },
+ "26191963": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Investment or speculation": [
+    "company's",
+    "expected",
+    "margin",
+    "market",
+    "price",
+    "return",
+    "safety",
+    "value"
+   ],
+   "The margin of safety and the lesson of 1929": [
+    "earnings",
+    "estimated",
+    "future",
+    "history",
+    "margin",
+    "market",
+    "present",
+    "price",
+    "rests",
+    "safety",
+    "shows",
+    "value"
+   ],
+   "Scams and the checks that stop them": [
+    "every",
+    "return",
+    "shows"
+   ],
+   "Case files: scams and the biases behind them": [
+    "every",
+    "little",
+    "return",
+    "shows"
+   ],
+   "Practice: write your own investing rules": [
+    "every",
+    "market",
+    "return",
+    "value"
+   ],
+   "The lecturer's method: Benjamin Graham": [
+    "behind",
+    "margin",
+    "present",
+    "price",
+    "rests",
+    "return",
+    "safety",
+    "single",
+    "value"
+   ]
+  }
+ },
+ "3be00697": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What investing is, and what it is not": [
+    "bonds",
+    "description",
+    "dividends",
+    "shares",
+    "value"
+   ],
+   "Time horizon and the emergency fund": [
+    "promise",
+    "returns",
+    "uncertain"
+   ],
+   "Inflation: why cash is not automatically safe": [
+    "change"
+   ],
+   "Three people, three starting points: a decision walkthrough": [
+    "shares",
+    "value"
+   ],
+   "Practice: your starting position on one page": [],
+   "The lecturer's method: Irving Fisher": [
+    "matches",
+    "value"
+   ]
+  }
+ },
+ "4e0102ec": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Investment or speculation": [
+    "because",
+    "change",
+    "fails",
+    "graham's",
+    "margin",
+    "price",
+    "return",
+    "safety"
+   ],
+   "The margin of safety and the lesson of 1929": [
+    "below",
+    "estimate",
+    "graham's",
+    "margin",
+    "point",
+    "price",
+    "safety"
+   ],
+   "Scams and the checks that stop them": [
+    "firms",
+    "return"
+   ],
+   "Case files: scams and the biases behind them": [
+    "because",
+    "below",
+    "firms",
+    "return"
+   ],
+   "Practice: write your own investing rules": [
+    "because",
+    "change",
+    "percentage",
+    "practical",
+    "return"
+   ],
+   "The lecturer's method: Benjamin Graham": [
+    "estimate",
+    "graham's",
+    "margin",
+    "price",
+    "return",
+    "safety",
+    "single"
+   ]
+  }
+ },
+ "65292f57": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What risk means for an investor": [
+    "cannot",
+    "market"
+   ],
+   "Volatility and the recovery arithmetic": [
+    "cannot",
+    "prices"
+   ],
+   "Bachelier and the random walk": [
+    "bachelier's",
+    "cannot",
+    "market",
+    "predict",
+    "prices"
+   ],
+   "Stress-testing a plan: three scenarios": [
+    "already",
+    "cannot",
+    "shares"
+   ],
+   "Practice: stress-test your own money": [
+    "already",
+    "cannot",
+    "market"
+   ],
+   "The lecturer's method: Louis Bachelier": [
+    "bachelier's",
+    "cannot",
+    "market",
+    "predict",
+    "prices"
+   ]
+  }
+ },
+ "60ee4254": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What investing is, and what it is not": [
+    "behave",
+    "bonds",
+    "dividends",
+    "fixed",
+    "price",
+    "shares",
+    "usually",
+    "value"
+   ],
+   "Time horizon and the emergency fund": [
+    "fixed",
+    "usually",
+    "without"
+   ],
+   "Inflation: why cash is not automatically safe": [
+    "price"
+   ],
+   "Three people, three starting points: a decision walkthrough": [
+    "shares",
+    "value"
+   ],
+   "Practice: your starting position on one page": [
+    "often"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "present",
+    "price",
+    "value"
+   ]
+  }
+ },
+ "72b358f4": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What investing is, and what it is not": [
+    "before",
+    "check",
+    "example",
+    "fixed",
+    "goods",
+    "inflation",
+    "people",
+    "power",
+    "price",
+    "prices"
+   ],
+   "Time horizon and the emergency fund": [
+    "before",
+    "check",
+    "example",
+    "fixed",
+    "housing",
+    "transport"
+   ],
+   "Inflation: why cash is not automatically safe": [
+    "approximation",
+    "before",
+    "change",
+    "check",
+    "example",
+    "figures",
+    "goods",
+    "inflation",
+    "power",
+    "price",
+    "prices",
+    "services"
+   ],
+   "Three people, three starting points: a decision walkthrough": [
+    "before",
+    "check",
+    "example",
+    "figures",
+    "people"
+   ],
+   "Practice: your starting position on one page": [
+    "before",
+    "check",
+    "example"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "before",
+    "check",
+    "example",
+    "index",
+    "people",
+    "price"
+   ]
+  }
+ },
+ "08f55059": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What investing is, and what it is not": [
+    "inflation",
+    "interest",
+    "reward"
+   ],
+   "Time horizon and the emergency fund": [
+    "interest",
+    "spending"
+   ],
+   "Inflation: why cash is not automatically safe": [
+    "inflation",
+    "interest",
+    "minus",
+    "nominal"
+   ],
+   "Three people, three starting points: a decision walkthrough": [
+    "leaves",
+    "spending",
+    "teaching"
+   ],
+   "Practice: your starting position on one page": [
+    "borrowing",
+    "interest",
+    "spending"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "borrowing",
+    "interest",
+    "matches",
+    "spending"
+   ]
+  }
+ },
+ "f6950aae": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What investing is, and what it is not": [
+    "above",
+    "before",
+    "government",
+    "inference",
+    "interest",
+    "investing",
+    "investment",
+    "money",
+    "price"
+   ],
+   "Time horizon and the emergency fund": [
+    "before",
+    "inference",
+    "interest",
+    "investing",
+    "investment",
+    "money"
+   ],
+   "Inflation: why cash is not automatically safe": [
+    "before",
+    "inference",
+    "interest",
+    "money",
+    "price",
+    "rates"
+   ],
+   "Three people, three starting points: a decision walkthrough": [
+    "before",
+    "inference",
+    "investing",
+    "money"
+   ],
+   "Practice: your starting position on one page": [
+    "above",
+    "before",
+    "credit",
+    "inference",
+    "interest",
+    "investing",
+    "investment",
+    "money"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "above",
+    "before",
+    "government",
+    "inference",
+    "interest",
+    "investing",
+    "money",
+    "price"
+   ]
+  }
+ },
+ "63ea0901": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What risk means for an investor": [
+    "assume",
+    "years"
+   ],
+   "Volatility and the recovery arithmetic": [
+    "widely",
+    "years"
+   ],
+   "Bachelier and the random walk": [
+    "month",
+    "months",
+    "years"
+   ],
+   "Stress-testing a plan: three scenarios": [
+    "stress",
+    "years"
+   ],
+   "Practice: stress-test your own money": [
+    "month",
+    "stress",
+    "years"
+   ],
+   "The lecturer's method: Louis Bachelier": [
+    "month"
+   ]
+  }
+ },
+ "92ec6755": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Diversification in plain terms": [
+    "application",
+    "country",
+    "levels",
+    "shares"
+   ],
+   "Markowitz: risk, return and correlation": [
+    "application",
+    "investor"
+   ],
+   "Building a simple portfolio you can explain": [
+    "shares"
+   ],
+   "Rebalancing and reviewing: keeping a plan on course": [
+    "application",
+    "gains",
+    "shares"
+   ],
+   "Practice: audit a portfolio": [
+    "application",
+    "country",
+    "shares"
+   ],
+   "The lecturer's method: Harry Markowitz": [
+    "application",
+    "shares"
+   ]
+  }
+ },
+ "d6eff55b": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Where returns come from": [
+    "compounding",
+    "gives",
+    "interest",
+    "value"
+   ],
+   "Compounding: growth on growth": [
+    "1,000",
+    "compound",
+    "compounding",
+    "extra",
+    "formula",
+    "gives",
+    "growth",
+    "value"
+   ],
+   "Fees and the drag they cause": [
+    "growth",
+    "value"
+   ],
+   "Reading a return figure honestly": [
+    "compounding",
+    "gives",
+    "growth",
+    "value"
+   ],
+   "Practice: judging two offers and a headline": [
+    "1,000",
+    "gives",
+    "growth"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "1,000",
+    "future",
+    "interest",
+    "present",
+    "value"
+   ]
+  }
+ },
+ "75511a49": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Where returns come from": [
+    "later",
+    "money",
+    "payment",
+    "return",
+    "usually",
+    "worth"
+   ],
+   "Compounding: growth on growth": [
+    "higher",
+    "later",
+    "money",
+    "payment",
+    "return",
+    "saving",
+    "worth"
+   ],
+   "Fees and the drag they cause": [
+    "higher",
+    "later",
+    "money",
+    "people",
+    "return",
+    "saving",
+    "usually"
+   ],
+   "Reading a return figure honestly": [
+    "money",
+    "payment",
+    "people",
+    "return",
+    "saving",
+    "worth"
+   ],
+   "Practice: judging two offers and a headline": [
+    "higher",
+    "return"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "future",
+    "money",
+    "people",
+    "return",
+    "worth"
+   ]
+  }
+ },
+ "4931675a": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Where returns come from": [
+    "check",
+    "example",
+    "value"
+   ],
+   "Compounding: growth on growth": [
+    "backwards",
+    "check",
+    "example",
+    "formula",
+    "needed",
+    "value",
+    "years"
+   ],
+   "Fees and the drag they cause": [
+    "15,000",
+    "check",
+    "example",
+    "takes",
+    "value",
+    "years"
+   ],
+   "Reading a return figure honestly": [
+    "check",
+    "example",
+    "takes",
+    "value",
+    "years"
+   ],
+   "Practice: judging two offers and a headline": [
+    "15,000",
+    "always",
+    "answers",
+    "check",
+    "example",
+    "years"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "check",
+    "example",
+    "future",
+    "present",
+    "value",
+    "years"
+   ]
+  }
+ },
+ "f2dcae61": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Where returns come from": [
+    "arithmetic",
+    "gives"
+   ],
+   "Compounding: growth on growth": [
+    "arithmetic",
+    "double",
+    "doubles",
+    "gives",
+    "sourced",
+    "standard",
+    "thumb",
+    "years"
+   ],
+   "Fees and the drag they cause": [
+    "arithmetic",
+    "years"
+   ],
+   "Reading a return figure honestly": [
+    "arithmetic",
+    "gives",
+    "years"
+   ],
+   "Practice: judging two offers and a headline": [
+    "arithmetic",
+    "gives",
+    "years"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "arithmetic",
+    "years"
+   ]
+  }
+ },
+ "9c4e39e7": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What investing is, and what it is not": [
+    "inflation",
+    "return"
+   ],
+   "Time horizon and the emergency fund": [
+    "return"
+   ],
+   "Inflation: why cash is not automatically safe": [
+    "1.03",
+    "1.05",
+    "1.94",
+    "approximation",
+    "arithmetic",
+    "exact",
+    "inflation",
+    "nominal",
+    "return",
+    "subtracting"
+   ],
+   "Three people, three starting points: a decision walkthrough": [
+    "arithmetic",
+    "named"
+   ],
+   "Practice: your starting position on one page": [
+    "arithmetic",
+    "return"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "fisher",
+    "return"
+   ]
+  }
+ },
+ "d1b400e6": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What investing is, and what it is not": [
+    "1,000",
+    "government",
+    "inflation",
+    "power",
+    "savings"
+   ],
+   "Time horizon and the emergency fund": [
+    "falls",
+    "holding",
+    "savings",
+    "short"
+   ],
+   "Inflation: why cash is not automatically safe": [
+    "falls",
+    "faster",
+    "inflation",
+    "power",
+    "rates",
+    "rises",
+    "savings"
+   ],
+   "Three people, three starting points: a decision walkthrough": [
+    "falls",
+    "short"
+   ],
+   "Practice: your starting position on one page": [
+    "savings",
+    "short"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "government"
+   ]
+  }
+ },
+ "8abfaef6": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Where returns come from": [
+    "compounding",
+    "interest",
+    "large",
+    "value",
+    "worth"
+   ],
+   "Compounding: growth on growth": [
+    "1,000",
+    "backwards",
+    "compounding",
+    "larger",
+    "monthly",
+    "value",
+    "worth",
+    "years"
+   ],
+   "Fees and the drag they cause": [
+    "large",
+    "small",
+    "value",
+    "years"
+   ],
+   "Reading a return figure honestly": [
+    "compounding",
+    "often",
+    "value",
+    "worth",
+    "years"
+   ],
+   "Practice: judging two offers and a headline": [
+    "1,000",
+    "years"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "1,000",
+    "future",
+    "interest",
+    "value",
+    "worth",
+    "years"
+   ]
+  }
+ },
+ "2fd6be79": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What investing is, and what it is not": [
+    "account",
+    "before",
+    "investing",
+    "investment",
+    "likely",
+    "prices",
+    "years"
+   ],
+   "Time horizon and the emergency fund": [
+    "account",
+    "before",
+    "costs",
+    "first",
+    "investing",
+    "investment",
+    "years"
+   ],
+   "Inflation: why cash is not automatically safe": [
+    "account",
+    "balance",
+    "before",
+    "prices",
+    "rising",
+    "years"
+   ],
+   "Three people, three starting points: a decision walkthrough": [
+    "account",
+    "before",
+    "first",
+    "investing",
+    "order",
+    "years"
+   ],
+   "Practice: your starting position on one page": [
+    "before",
+    "credit",
+    "first",
+    "investing",
+    "investment",
+    "years"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "account",
+    "before",
+    "first",
+    "investing",
+    "years"
+   ]
+  }
+ },
+ "b2807214": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What risk means for an investor": [
+    "1,000",
+    "chance",
+    "company",
+    "gives",
+    "inflation",
+    "losing",
+    "nothing"
+   ],
+   "Volatility and the recovery arithmetic": [
+    "1,000",
+    "gives",
+    "means",
+    "return"
+   ],
+   "Bachelier and the random walk": [
+    "1,000",
+    "chance",
+    "every",
+    "exchange",
+    "gives",
+    "guaranteed",
+    "nothing"
+   ],
+   "Stress-testing a plan: three scenarios": [
+    "losing",
+    "nothing",
+    "together"
+   ],
+   "Practice: stress-test your own money": [
+    "1,000",
+    "accepting",
+    "guaranteed",
+    "putting"
+   ],
+   "The lecturer's method: Louis Bachelier": [
+    "chance",
+    "guaranteed",
+    "including"
+   ]
+  }
+ },
+ "e374d0cc": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What investing is, and what it is not": [
+    "bigger",
+    "bonds",
+    "fixed",
+    "government",
+    "interest",
+    "price",
+    "prices",
+    "shares",
+    "value"
+   ],
+   "Time horizon and the emergency fund": [
+    "bills",
+    "fixed",
+    "income",
+    "interest",
+    "least"
+   ],
+   "Inflation: why cash is not automatically safe": [
+    "interest",
+    "price",
+    "prices",
+    "rates"
+   ],
+   "Three people, three starting points: a decision walkthrough": [
+    "income",
+    "shares",
+    "swing",
+    "value"
+   ],
+   "Practice: your starting position on one page": [
+    "credit",
+    "interest"
+   ],
+   "The lecturer's method: Irving Fisher": [
+    "government",
+    "income",
+    "interest",
+    "least",
+    "price",
+    "value"
+   ]
+  }
+ },
+ "2fe1486e": {
+  "date": "2026-11-17",
+  "lessons": {
+   "What risk means for an investor": [
+    "holding",
+    "inflation",
+    "liquidity",
+    "price",
+    "risks"
+   ],
+   "Volatility and the recovery arithmetic": [
+    "before",
+    "higher",
+    "holding",
+    "means",
+    "moves",
+    "price",
+    "return"
+   ],
+   "Bachelier and the random walk": [
+    "before",
+    "below",
+    "change",
+    "holding",
+    "market's",
+    "moves",
+    "price"
+   ],
+   "Stress-testing a plan: three scenarios": [
+    "before",
+    "below",
+    "change",
+    "price"
+   ],
+   "Practice: stress-test your own money": [
+    "above",
+    "change",
+    "short"
+   ],
+   "The lecturer's method: Louis Bachelier": [
+    "holding",
+    "including",
+    "moves",
+    "price"
+   ]
+  }
+ },
+ "e1371774": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Investment or speculation": [
+    "accounts",
+    "before",
+    "guarantees",
+    "investment",
+    "protection",
+    "speculative"
+   ],
+   "The margin of safety and the lesson of 1929": [
+    "above",
+    "after",
+    "below",
+    "bonds",
+    "investment",
+    "point"
+   ],
+   "Scams and the checks that stop them": [
+    "authorisation",
+    "before",
+    "investment"
+   ],
+   "Case files: scams and the biases behind them": [
+    "after",
+    "before",
+    "below",
+    "protection"
+   ],
+   "Practice: write your own investing rules": [
+    "above",
+    "after",
+    "before",
+    "investment"
+   ],
+   "The lecturer's method: Benjamin Graham": [
+    "before",
+    "guarantees",
+    "investment",
+    "protection",
+    "speculative"
+   ]
+  }
+ },
+ "9168891d": {
+  "date": "2026-11-17",
+  "lessons": {
+   "Diversification in plain terms": [
+    "alone",
+    "bonds",
+    "example",
+    "money",
+    "years"
+   ],
+   "Markowitz: risk, return and correlation": [
+    "alone",
+    "example",
+    "years"
+   ],
+   "Building a simple portfolio you can explain": [
+    "before",
+    "bonds",
+    "carries",
+    "example",
+    "money",
+    "split",
+    "years"
+   ],
+   "Rebalancing and reviewing: keeping a plan on course": [
+    "before",
+    "bonds",
+    "example",
+    "money",
+    "selling",
+    "split"
+   ],
+   "Practice: audit a portfolio": [
+    "before",
+    "bonds",
+    "example",
+    "selling",
+    "split"
+   ],
+   "The lecturer's method: Harry Markowitz": [
+    "bonds",
+    "example",
+    "offer",
+    "split"
+   ]
+  }
+ }
+}

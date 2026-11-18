@@ -6,31 +6,34 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "You buy an item for £10 and sell it for £40. What is the margin?",
     "o": [
-     "300%",
      "25%",
+     "400%",
+     "30%",
      "75%",
-     "30%"
+     "300%"
     ],
-    "a": 2,
+    "a": 3,
     "w": "Profit is £30. Margin is 30 ÷ 40 = 75%. The 300% figure is the markup."
    },
    {
     "q": "Which single fact settles that you are in business?",
     "o": [
+     "Being VAT registered",
      "Having a job",
+     "Selling only at weekends",
      "No single fact does",
-     "Not being VAT registered",
-     "Selling only at weekends"
+     "Not being VAT registered"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Trading Standards guidance says there is no single test and no financial threshold."
    },
    {
     "q": "You regularly buy goods to resell. For consumer law you are most likely...",
     "o": [
-     "A private seller",
+     "A private seller, if you have a job",
      "A trader",
      "A consumer",
+     "A private seller",
      "Exempt"
     ],
     "a": 1,
@@ -80,34 +83,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which is the better evidence of what an item is worth?",
     "o": [
-     "The asking price",
-     "The price you paid",
+     "Current asking prices for similar items",
      "Recent sold prices for similar items",
-     "The seller's story"
+     "The seller's story",
+     "The asking price",
+     "The price you paid"
     ],
-    "a": 2,
+    "a": 1,
     "w": "Sold prices show what buyers actually paid."
    },
    {
     "q": "A price ceiling is found by...",
     "o": [
      "Adding profit to cost",
-     "Working back from expected net proceeds and subtracting target profit",
      "Halving the asking price",
-     "Using the highest sold price"
+     "Using the highest sold price",
+     "Adding your target profit to what you paid plus all of the fees",
+     "Working back from expected net proceeds, less target profit"
     ],
-    "a": 1,
+    "a": 4,
     "w": "You work backwards from the sold price."
    },
    {
     "q": "At a public auction you can attend, second-hand goods and the Consumer Rights Act...",
     "o": [
-     "Give you full consumer rights",
-     "Mostly do not treat you as a consumer",
+     "Require a returns policy",
      "Do not apply to goods",
-     "Require a returns policy"
+     "Mostly do not treat you as a consumer",
+     "Give you full consumer rights",
+     "Give full protection for any second-hand goods"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Section 2(5): you are not a consumer for most of the quality rules."
    }
   ],
@@ -146,10 +152,11 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "You buy for £12 and sell for £30. What is the markup?",
     "o": [
-     "60%",
-     "150%",
      "40%",
-     "18%"
+     "150%",
+     "60%",
+     "18%",
+     "250%"
     ],
     "a": 1,
     "w": "Profit £18 ÷ cost £12 = 150%. The margin is 60%."
@@ -157,12 +164,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which is an indicator of being in business?",
     "o": [
+     "Using social media",
+     "Having a hobby",
      "Owning a car",
      "Regularly buying goods to resell",
-     "Having a hobby",
-     "Using social media"
+     "Selling a few unwanted gifts once a year"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Regularly buying to resell is one of the listed indicators."
    }
   ],
@@ -178,23 +186,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which is the strongest dating evidence?",
     "o": [
-     "Style",
-     "A dated receipt naming the item",
-     "Smell of age",
+     "A strong smell of age",
+     "A seller's detailed family history of the item",
+     "It looks old",
+     "A dated receipt that names the item",
      "A seller's story"
     ],
-    "a": 1,
+    "a": 3,
     "w": "A document that names the item can be checked."
    },
    {
     "q": "Why use one condition scale?",
     "o": [
-     "It is required by law",
      "It makes grading consistent for buyers",
-     "It lowers fees",
-     "It avoids photographs"
+     "It is required by law",
+     "It replaces the need for photographs of flaws",
+     "It avoids photographs",
+     "It lowers fees"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Consistency builds trust and reduces disputes."
    },
    {
@@ -203,6 +213,7 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
      "Original signed print",
      "Authentic",
      "Print with a signature; origin unconfirmed",
+     "Original signed print, believed to be genuine",
      "Rare original"
     ],
     "a": 2,
@@ -244,12 +255,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "An item costs £15 to buy and you expect to net £30 after fees, postage and packing. With a £10 profit target, what is the ceiling?",
     "o": [
-     "£20",
+     "£5",
      "£15",
+     "£40",
      "£25",
-     "£5"
+     "£20"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Ceiling = net proceeds − target profit = 30 − 10 = £20."
    },
    {
@@ -257,8 +269,9 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "o": [
      "Only the price",
      "Date, seller, price and place",
+     "Only a photograph",
      "Nothing until you sell",
-     "Only a photograph"
+     "Only the price and the item's name"
     ],
     "a": 1,
     "w": "You must show the source and keep the cost."
@@ -277,33 +290,36 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "Dealing in ivory includes...",
     "o": [
      "Only completed sales",
-     "Advertising and inviting offers, not just sales",
+     "Only completed sales above £100 in value, not adverts",
+     "Nothing for items under 100 years old",
      "Only exports",
-     "Nothing for items under 100 years old"
+     "Advertising and inviting offers, not just sales"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Advertising and inviting offers count as dealing."
    },
    {
     "q": "The hallmarking weight exemption for silver is...",
     "o": [
+     "Under 3.0 g",
      "Under 1 g",
-     "Under 7.78 g",
+     "There is none",
      "Under 10 g",
-     "There is none"
+     "Under 7.78 g"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Silver under 7.78 g is exempt from the hallmark requirement; a true description is still needed."
    },
    {
     "q": "Upholstered furniture made before 1 January 1950 is...",
     "o": [
+     "Covered by the rules, with a new label needed",
      "Banned",
-     "Taxed",
+     "Always unsafe",
      "Excluded from the furniture fire rules",
-     "Always unsafe"
+     "Taxed"
     ],
-    "a": 2,
+    "a": 3,
     "w": "It is excluded from the controls."
    }
   ],
@@ -342,21 +358,23 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which is the better evidence of date?",
     "o": [
-     "Seller's story",
-     "A hallmark you can read against a guide",
+     "A hallmark read against a guide",
+     "The seller's detailed family story",
      "Smell",
-     "Style alone"
+     "Style alone",
+     "Seller's story"
     ],
-    "a": 1,
+    "a": 0,
     "w": "A hallmark is checkable evidence."
    },
    {
     "q": "What does being a trader change for a seller?",
     "o": [
+     "Only the platform",
+     "Buyer rights, tax filing and a business account",
      "Nothing",
-     "Buyer rights, tax filing and a business platform account",
-     "Only tax",
-     "Only the platform"
+     "Only the fees charged by the platform that you use",
+     "Only tax"
     ],
     "a": 1,
     "w": "Trader status brings buyer rights, safety duties, tax filing and a business account."
@@ -374,10 +392,11 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Who pays Vinted's fee?",
     "o": [
-     "The seller from the payout",
-     "The carrier",
      "Nobody",
-     "The buyer at checkout"
+     "The carrier",
+     "Seller and buyer equally",
+     "The buyer, at checkout",
+     "The seller, from the payout"
     ],
     "a": 3,
     "w": "Vinted adds its fee to the buyer's order total at checkout."
@@ -385,23 +404,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A reseller should read...",
     "o": [
-     "Only the private-seller fee page",
      "The platform's rules for professional sellers",
+     "Only the fee page for private sellers on the site",
      "Nothing",
-     "Only the logo"
+     "Only the logo",
+     "Only the private-seller fee page"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Regularly buying to resell makes you a business."
    },
    {
     "q": "Which photograph protects you most in a dispute?",
     "o": [
-     "A glamour shot",
+     "Only the front",
+     "A heavily edited glamour shot",
      "A close-up of each flaw",
-     "A stock image",
-     "Only the front"
+     "A single wide shot of the whole item",
+     "A stock image"
     ],
-    "a": 1,
+    "a": 2,
     "w": "A flaw shown in a photograph supports your description."
    }
   ],
@@ -440,23 +461,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "In the price-ceiling method, which step comes last?",
     "o": [
+     "Estimating the sold price from listings",
      "Taking off fees",
      "Taking off postage you pay",
-     "Taking off your target profit",
-     "Estimating the sold price"
+     "Estimating the sold price",
+     "Taking off your target profit"
     ],
-    "a": 2,
+    "a": 4,
     "w": "You start from the expected sale, take off fees, postage and packing, then subtract your target profit to leave the ceiling."
    },
    {
     "q": "Which action is an offence under the ivory rules?",
     "o": [
-     "Advertising an item without an exemption",
      "Describing wood accurately",
      "Photographing a flaw",
-     "Keeping a buying log"
+     "Keeping a buying log",
+     "Advertising an item without an exemption",
+     "Keeping a carved item at home without selling it"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Advertising counts as dealing."
    }
   ],
@@ -472,23 +495,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Gross trading income over what amount means registering for Self Assessment?",
     "o": [
+     "£12,570",
      "£500",
-     "£5,000",
+     "£10,000",
      "£1,000",
-     "£10,000"
+     "£5,000"
     ],
-    "a": 2,
+    "a": 3,
     "w": "Over £1,000 requires registration."
    },
    {
     "q": "A reseller with large stock costs should usually...",
     "o": [
+     "Always use the £1,000 allowance, since it is simpler",
+     "Use both methods together",
      "Always use the allowance",
-     "Compare the two methods and use the lower taxable profit",
      "Ignore tax",
-     "Use both methods together"
+     "Compare the methods and use the lower taxable profit"
     ],
-    "a": 1,
+    "a": 4,
     "w": "You cannot claim both; compare them."
    },
    {
@@ -496,8 +521,9 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "o": [
      "Returns ÷ sales",
      "Sales ÷ returns",
+     "Profit ÷ returns",
      "Fees ÷ sales",
-     "Profit ÷ returns"
+     "Returns ÷ (sales − returns)"
     ],
     "a": 0,
     "w": "5 returns from 40 sales is 12.5%."
@@ -538,23 +564,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which platform tier is meant for private sellers clearing their own things?",
     "o": [
+     "Advertising",
      "Business seller accounts",
      "Free private-seller tiers",
      "Shops",
-     "Advertising"
+     "Business accounts with a shop front"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Free tiers are for private sellers; resellers must check professional seller rules."
    },
    {
     "q": "Which gate would stop you listing an unlabelled 1980 sofa?",
     "o": [
+     "Returns text",
+     "Honest description",
      "Right to sell",
      "Safety",
-     "Returns text",
-     "Honest description"
+     "Honest description of its condition"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Furniture made after 1949 needs the permanent label or expert verification."
    }
   ],
@@ -570,32 +598,35 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which comes first in working out a price ceiling?",
     "o": [
-     "Your target profit",
-     "Expected total received from the buyer",
+     "Expected total from the buyer",
      "Your cost",
+     "Your target profit",
+     "Your target profit and your costs",
      "The listing title"
     ],
-    "a": 1,
+    "a": 0,
     "w": "You start from the expected sale and take things off."
    },
    {
     "q": "Which wording fits a chair in a famous style with no records?",
     "o": [
-     "Genuine original",
-     "In the style of",
      "Made by the workshop",
-     "Attributed"
+     "Attributed to the maker",
+     "Attributed",
+     "In the style of",
+     "Genuine original"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Claim only what the evidence supports."
    },
    {
     "q": "What must you tell a distance-selling consumer?",
     "o": [
-     "Nothing",
-     "That they can cancel within 14 days of delivery",
-     "That returns are never accepted",
-     "Your tax number"
+     "Returns are never accepted",
+     "They can cancel within 14 days of delivery",
+     "They can cancel within 30 days of ordering",
+     "Your tax number",
+     "Nothing"
     ],
     "a": 1,
     "w": "The 14-day cancellation right."
@@ -603,12 +634,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which suggests a trader rather than a hobbyist?",
     "o": [
-     "One clear-out",
      "Regularly buying to resell",
+     "One clear-out",
+     "Selling once",
      "Selling a gift",
-     "Selling once"
+     "One big house clear-out a year"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Regularly buying to resell is an indicator."
    }
   ],

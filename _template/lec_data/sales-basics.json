@@ -208,24 +208,26 @@
      "t": "check",
      "q": "What was the Primer?",
      "o": [
-      "A tax form",
-      "NCR's sales script, How I Sell National Cash Registers",
       "A magazine",
+      "A tax form",
+      "NCR's annual report and catalogue of cash register models",
+      "NCR's sales script, How I Sell National Cash Registers",
       "A price list"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The first company sales script became known as the Primer. {{friedman-hbs}}"
     },
     {
      "t": "check",
      "q": "What did the Primer say about forcing a sale?",
      "o": [
+      "Don't give the impression you are forcing the buyer",
       "Always force it",
-      "Avoid giving the impression you are forcing the buyer",
       "Never ask",
-      "Ignore objections"
+      "Ignore objections",
+      "Push hard, since buyers respect a forceful salesman"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It warned that no man likes to feel he is being sold. {{friedman-hbs}}"
     },
     {
@@ -235,7 +237,8 @@
       "Ask if they want to think it over",
       "Ask 'what colour shall I make it?' and hand over the pen",
       "Offer a refund",
-      "Leave a brochure"
+      "Leave a brochure",
+      "Ask whether they would like to think it over and call back next week"
      ],
      "a": 1,
      "w": "It told salesmen not to ask for an order but to assume the buyer would buy. {{friedman-hbs}}",
@@ -253,12 +256,13 @@
    "quiz": {
     "q": "Who gave National Cash Register salesmen scripts, territories and training?",
     "o": [
+     "Zig Ziglar",
+     "Harry Selfridge",
      "Dale Carnegie",
      "John H. Patterson",
-     "Zig Ziglar",
-     "Harry Selfridge"
+     "Thomas J. Watson Sr."
     ],
-    "a": 1,
+    "a": 3,
     "w": "Patterson did, as described by Friedman. {{friedman-hbs}}"
    }
   },
@@ -385,24 +389,26 @@
      "t": "check",
      "q": "How were NCR quotas first set?",
      "o": [
-      "By the salesman's wish",
-      "By the population of the territory",
+      "By the territory's population",
+      "By a lottery",
+      "By last year's sales plus ten per cent",
       "By the weather",
-      "By a lottery"
+      "By the salesman's wish"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Initially quotas were set according to the population of the territory. {{friedman-full}}"
     },
     {
      "t": "check",
      "q": "A territory of 12,000 people at one register per 400 gives what quota?",
      "o": [
+      "40",
       "12",
+      "480",
       "30",
-      "300",
-      "480"
+      "300"
      ],
-     "a": 1,
+     "a": 3,
      "w": "12,000 ÷ 400 = 30.",
      "kind": "application"
     },
@@ -410,10 +416,11 @@
      "t": "check",
      "q": "Your weekly target is 20 conversations and by Friday you have had 12. What percentage of target is that?",
      "o": [
-      "40",
-      "50",
+      "70",
+      "12",
       "60",
-      "70"
+      "50",
+      "40"
      ],
      "a": 2,
      "w": "12 divided by 20 is 0.6, or 60 per cent.",
@@ -431,12 +438,13 @@
    "quiz": {
     "q": "What did NCR salesmen record in daily reports?",
     "o": [
+     "Their mileage only",
+     "Only the sales they had closed that day, with prices",
      "Their meals",
      "Customers called on, sales and prospects",
-     "The weather",
-     "Their mileage only"
+     "The weather"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Daily reports listed customers called on, sales made and prospects. {{friedman-full}}"
    }
   },
@@ -567,10 +575,11 @@
      "t": "check",
      "q": "Which is one of Carnegie's six ways to make people like you?",
      "o": [
-      "Interrupt often",
+      "Never use names",
       "Be a good listener",
+      "Interrupt often",
       "Talk about yourself",
-      "Never use names"
+      "Win every argument politely"
      ],
      "a": 1,
      "w": "Be a good listener, and encourage others to talk about themselves. {{carnegie-wiki}}"
@@ -579,22 +588,24 @@
      "t": "check",
      "q": "What did Sinclair Lewis say about the book?",
      "o": [
-      "It was the best ever",
-      "It taught people to smile and bob and pretend interest",
+      "It was the most honest guide to business ever written",
+      "It was banned",
+      "It taught people to smile, bob and pretend interest",
       "It was too long",
-      "It was banned"
+      "It was the best ever"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He criticised it as teaching people to smile and bob and pretend to be interested. {{carnegie-wiki}}"
     },
     {
      "t": "check",
      "q": "A colleague memorises Carnegie's six ways and uses prospects' names every sentence to seem friendly. What does the lesson warn about this?",
      "o": [
-      "Never use them",
-      "They can be used as tricks, so keep the interest genuine",
       "They are illegal",
-      "They only work online"
+      "They can become tricks; keep the interest genuine",
+      "They only work online",
+      "Never use them",
+      "Using a person's name often always builds trust, so it is good practice"
      ],
      "a": 1,
      "w": "Britannica notes the emphasis on genuine interest. {{brit-carnegie-book}}",
@@ -612,10 +623,11 @@
    "quiz": {
     "q": "In what year did How to Win Friends and Influence People appear?",
     "o": [
-     "1906",
+     "1996",
      "1936",
+     "1946",
      "1966",
-     "1996"
+     "1906"
     ],
     "a": 1,
     "w": "It appeared in 1936. {{carnegie-wiki}} {{brit-carnegie-book}}"
@@ -748,36 +760,39 @@
      "t": "check",
      "q": "According to Selfridge, what does the sales manager need to do first?",
      "o": [
-      "Cut prices",
-      "Put himself in the place of the public and think from the customer's standpoint",
+      "Set targets for each counter and each salesman",
       "Hire more staff",
-      "Close the windows"
+      "Cut prices",
+      "Close the windows",
+      "Think from the customer's standpoint"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He says the manager must think from the standpoint of the customer. {{selfridge-roc}}"
     },
     {
      "t": "check",
      "q": "What was the staff precept in The Romance of Commerce?",
      "o": [
-      "Never speak",
       "Don't make the same mistake twice",
-      "Always argue",
-      "Close early"
+      "Never speak",
+      "The customer is always right, whatever",
+      "Close early",
+      "Always argue"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He gives the precept 'Don't make the same mistake twice'. {{selfridge-roc}}"
     },
     {
      "t": "check",
      "q": "Which feature did Selfridges include for customers?",
      "o": [
-      "A silence room",
-      "A cinema only",
       "A factory floor",
-      "A bank vault"
+      "A bank vault",
+      "A free crèche",
+      "A silence room",
+      "A cinema only"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Wikipedia lists a silence room among the store's features. {{selfridge}}"
     },
     {
@@ -792,12 +807,13 @@
    "quiz": {
     "q": "Which feature did Selfridges include for customers?",
     "o": [
-     "A silence room",
-     "A cinema only",
      "A factory floor",
-     "A bank vault"
+     "A bank vault",
+     "A free crèche",
+     "A silence room",
+     "A cinema only"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Wikipedia lists a silence room among the store's features. {{selfridge}}"
    }
   },
@@ -924,36 +940,39 @@
      "t": "check",
      "q": "Which is one of the five reasons in the summary?",
      "o": [
-      "They like the colour",
-      "They do not trust you",
+      "They are too busy to eat",
       "They live far away",
-      "They are too busy to eat"
+      "They have too much money",
+      "They do not trust you",
+      "They like the colour"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Not trusting the seller is one of the five. {{ziglar-sum}}"
     },
     {
      "t": "check",
      "q": "What does the summary say a no might really mean?",
      "o": [
-      "Never ask again",
-      "Tell me more",
+      "I am sold",
       "Call the police",
-      "I am sold"
+      "Never ask again",
+      "Never contact me again",
+      "Tell me more"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The summary says a no may really be tell me more. {{ziglar-sum}}"
     },
     {
      "t": "check",
      "q": "What should you do with a price objection first, per the summary?",
      "o": [
-      "Cut the price",
-      "Repeat it as a question and verify price is the real objection",
+      "Repeat it as a question and check price is the real issue",
       "Ignore it",
-      "End the call"
+      "End the call",
+      "Cut the price",
+      "Cut the price by 10 per cent straight away to keep the deal alive"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Verify that price is the real objection before responding. {{ziglar-sum}}"
     },
     {
@@ -969,9 +988,10 @@
     "q": "Which is one of Ziglar's five reasons people do not buy, as summarised?",
     "o": [
      "They do not trust you",
-     "They hate shopping",
+     "They want a discount",
      "They like you",
-     "They want a discount"
+     "They have too much choice",
+     "They hate shopping"
     ],
     "a": 0,
     "w": "They do not trust you is one of the five reasons. {{ziglar-sum}}"
@@ -1108,36 +1128,39 @@
      "t": "check",
      "q": "When did Cadbury announce it would buy no more cocoa from the islands?",
      "o": [
-      "1861",
-      "March 1909",
+      "March 1903",
       "1936",
-      "1951"
+      "1951",
+      "March 1909",
+      "1861"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The family account says it announced this in March 1909. {{wa-cadbury}}"
     },
     {
      "t": "check",
      "q": "Why does the lesson flag its main source?",
      "o": [
-      "It is secret",
-      "It is the firm's own, sympathetic account, and the pace was criticised",
       "It is wrong",
-      "It is long"
+      "It is an independent government report, so it is too critical of the firm",
+      "It is the firm's own sympathetic account, and the pace was criticised",
+      "It is long",
+      "It is secret"
      ],
-     "a": 1,
+     "a": 2,
      "w": "It is the family's account, and critics said the firm was slow. {{wa-cadbury}} {{jstor-higgs}}"
     },
     {
      "t": "check",
      "q": "According to the account, why did William not simply stop buying in 1903?",
      "o": [
-      "He did not care",
-      "He wanted any injustice put right, and withdrawal alone probably would not have helped",
+      "He did not believe the reports and thought the planters were treating workers fairly",
       "He needed the cocoa",
+      "He wanted it put right; withdrawal alone might not help",
+      "He did not care",
       "He did not believe the reports"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He wanted to see injustices put right, and only about 5 per cent of the cocoa went to England. {{wa-cadbury}}"
     },
     {
@@ -1152,12 +1175,13 @@
    "quiz": {
     "q": "What did Cadbury do in March 1909, according to the family account?",
     "o": [
+     "Sold the firm",
+     "Bought the plantations to reform them directly",
      "Opened Bournville",
-     "Announced no further purchases of cocoa from the islands",
-     "Wrote a book",
-     "Sold the firm"
+     "Announced no more cocoa from the islands",
+     "Wrote a book"
     ],
-    "a": 1,
+    "a": 3,
     "w": "The family account says it announced that it would buy no more cocoa from the islands. {{wa-cadbury}}"
    }
   },
@@ -1287,36 +1311,39 @@
      "t": "check",
      "q": "Which is a Carnegie principle for winning people to your way of thinking?",
      "o": [
-      "The only way to get the best of an argument is to avoid it",
-      "Interrupt often",
+      "Win every argument, but do it politely and always with a smile",
       "Never smile",
-      "Talk about yourself"
+      "The only way to get the best of an argument is to avoid it",
+      "Talk about yourself",
+      "Interrupt often"
      ],
-     "a": 0,
+     "a": 2,
      "w": "It is the first of the twelve ways to win people to your way of thinking. {{carnegie-wiki}}"
     },
     {
      "t": "check",
      "q": "What did the critics say the method risked?",
      "o": [
-      "Being too long",
-      "Insincerity and manipulation",
+      "Being far too honest with buyers",
+      "Being too slow",
       "Being too honest",
-      "Being too slow"
+      "Insincerity and manipulation",
+      "Being too long"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Lewis and later scholars called it insincere and manipulative. {{carnegie-wiki}}"
     },
     {
      "t": "check",
      "q": "In the example, the buyer spoke 5 of 12 minutes. What share is that?",
      "o": [
-      "25%",
       "42%",
-      "50%",
-      "58%"
+      "58%",
+      "25%",
+      "40%",
+      "50%"
      ],
-     "a": 1,
+     "a": 0,
      "w": "5 ÷ 12 = 0.417."
     },
     {
@@ -1331,12 +1358,13 @@
    "quiz": {
     "q": "Which is a Carnegie principle for winning people to your way of thinking?",
     "o": [
-     "The only way to get the best of an argument is to avoid it",
-     "Interrupt often",
+     "Win every argument, but do it politely and always with a smile",
      "Never smile",
-     "Talk about yourself"
+     "The only way to get the best of an argument is to avoid it",
+     "Talk about yourself",
+     "Interrupt often"
     ],
-    "a": 0,
+    "a": 2,
     "w": "It is the first of the twelve ways to win people to your way of thinking. {{carnegie-wiki}}"
    }
   }

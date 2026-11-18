@@ -100,10 +100,11 @@
      "t": "check",
      "q": "Client A trains because her doctor told her to; client B trains because she enjoys getting stronger. On self-determination theory, whose habit is more likely to last, and why?",
      "o": [
-      "Strict rules from the trainer",
-      "Autonomous motivation",
-      "Public weigh-ins",
-      "Fear of failure"
+      "A's: a doctor's order is a stronger reason",
+      "B's: autonomous motivation tends to last",
+      "A's, since outside pressure keeps people turning up when they do not feel like it",
+      "Both equally",
+      "Neither, since motivation always fades"
      ],
      "a": 1,
      "w": "Behaviour change is more effective and lasting when people are autonomously motivated. {{ng2012}}",
@@ -113,12 +114,13 @@
      "t": "check",
      "q": "Why should you not say the meta-analysis proves autonomy support causes better health?",
      "o": [
-      "It used no humans",
       "It pooled correlations, which show association",
+      "It was unpublished",
       "It was too short",
-      "It was unpublished"
+      "It found no link between autonomy support and health",
+      "It used no humans"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The synthesis was of meta-analysed correlations, so it shows relationships rather than causation. {{ng2012}}"
     },
     {
@@ -234,12 +236,13 @@
      "t": "check",
      "q": "A client says 'I know I should walk more, but I never do.' Which approach does the review evidence favour for your reply?",
      "o": [
+      "Firm advice on what to do",
+      "Fines",
       "Motivational interviewing",
-      "Shouting",
-      "Leaflets",
-      "Fines"
+      "Giving clear advice and a fixed plan to follow",
+      "Leaflets"
      ],
-     "a": 0,
+     "a": 2,
      "w": "The review concluded that motivational interviewing in a scientific setting outperforms traditional advice-giving. {{rubak2005}}",
      "kind": "application"
     },
@@ -248,11 +251,12 @@
      "q": "What did the review say about a single short encounter?",
      "o": [
       "It never works",
-      "About two thirds of studies showed an effect at 15 minutes, but more than one encounter improved effectiveness",
-      "It always works",
-      "Only doctors can do it"
+      "It always works, so further encounters add nothing to the effect",
+      "Only doctors can do it",
+      "Two thirds showed an effect at 15 minutes; more contacts helped",
+      "It always works"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Brief 15-minute encounters showed an effect in 64% of studies; repeated encounters ensured effectiveness. {{rubak2005}}"
     },
     {
@@ -360,12 +364,13 @@
      "t": "check",
      "q": "Which goal is a process goal?",
      "o": [
-      "Lose 6 kg",
       "Squat 40 kg for 8 reps",
-      "Do two 20-minute strength sessions each week",
-      "Look leaner"
+      "Look leaner",
+      "Squat 40 kg for 8 reps by the end of March",
+      "Lose 6 kg",
+      "Two 20-minute strength sessions a week"
      ],
-     "a": 2,
+     "a": 4,
      "w": "A process goal describes actions the client controls each week; the others depend on results."
     },
     {
@@ -373,11 +378,12 @@
      "q": "A client rates confidence 4 out of 10 for a plan of 5 sessions a week. What is the best move?",
      "o": [
       "Keep the plan",
-      "Reduce the plan until confidence is around 7 or more",
+      "Drop the client",
       "Add sessions",
-      "Drop the client"
+      "Keep the plan and give a pep talk to raise confidence",
+      "Cut the plan until confidence is about 7+"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Lowering the goal to a level the client feels able to hit builds competence, one of the three SDT needs. {{ng2012}}"
     },
     {
@@ -487,24 +493,26 @@
      "t": "check",
      "q": "A client missed two weeks because of illness. What is the best coaching response?",
      "o": [
-      "Tell them they have lost everything",
+      "Stop coaching",
+      "Pick up exactly where they left off, to make up for the lost time",
       "Welcome them back and restart at a manageable level",
-      "Double the load",
-      "Stop coaching"
+      "Tell them they have lost everything",
+      "Double the load"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Rebuilding gradually follows the WHO principle of starting small and building. {{who2020}}"
     },
     {
      "t": "check",
      "q": "A client attended 6 of 8 planned sessions. What is the adherence?",
      "o": [
-      "60%",
-      "75%",
+      "68%",
+      "90%",
       "80%",
-      "90%"
+      "75%",
+      "60%"
      ],
-     "a": 1,
+     "a": 3,
      "w": "6 divided by 8 is 0.75, or 75%."
     },
     {
@@ -652,9 +660,10 @@
      "t": "check",
      "q": "How did Rogers present his six conditions?",
      "o": [
-      "As proven law",
-      "As a hypothesis, not offered with assurance as to its correctness",
       "As a legal rule",
+      "As a hypothesis, not offered with assurance",
+      "As a proven law of therapy, tested in many trials",
+      "As proven law",
       "As a sales method"
      ],
      "a": 1,
@@ -664,22 +673,24 @@
      "t": "check",
      "q": "What does he say about unconditional positive regard in a footnote?",
      "o": [
+      "It exists in degrees, not all or nothing",
+      "It means agreeing with everything the client says",
+      "It means agreeing with everything",
       "It is absolute",
-      "It exists in degrees, not as an all-or-nothing state",
-      "It is unnecessary",
-      "It means agreeing with everything"
+      "It is unnecessary"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The phrase sounds absolute, but it exists as a matter of degree. {{rogers57pdf}}"
     },
     {
      "t": "check",
      "q": "Which part of his view should a trainer NOT carry over?",
      "o": [
-      "Listening",
+      "Checking understanding",
       "That no diagnosis or screening is needed",
       "Being genuine",
-      "Checking understanding"
+      "Saying back what you heard, to check it with the client",
+      "Listening"
      ],
      "a": 1,
      "w": "He says an accurate diagnosis is not necessary for therapy, which does not apply to fitness screening. {{rogers57pdf}}"

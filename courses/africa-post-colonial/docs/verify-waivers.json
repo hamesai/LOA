@@ -174,5 +174,29 @@
   "match": "Read pronouns against the people around them",
   "reason": "the skip record for ch-030.txt says chapters 29 and 30 were read in full in chunks 1 to 6; only the bibliography and index were not read. Same claims as the earlier waived Kouassi paragraph, split into sentences when Module 4 was consolidated on 15/11/2026",
   "checked": "15/11/2026"
+ },
+ {
+  "key": "gha-vii-ch30",
+  "kind": "unread",
+  "item": null,
+  "match": "In his closing chapter of UNESCO volume VII, Boahen asks",
+  "reason": "ch-032.txt holds the last pages of chapter 30 (pp. 803-809), viewed in full and logged per the skip record; the episode and skin-deep passages cited are on those pages; only the bibliography and index were not read",
+  "checked": "16/11/2026"
+ },
+ {
+  "key": "gha-viii-ch29",
+  "kind": "unread",
+  "item": null,
+  "match": "Within days the army mutinied, Belgium sent troops, and Katanga under Moise Tshombe",
+  "reason": "the skip record for ch-030.txt says chapters 29 and 30 were read in full in chunks 1 to 6; the Katanga secession and Lumumba's death are in chapter 29 (the UN chapter); only the bibliography and index were not read",
+  "checked": "16/11/2026"
+ },
+ {
+  "key": "gha-viii-ch29",
+  "kind": "unread",
+  "item": null,
+  "match": "Lumumba was handed to Katangan forces and killed on 17/01/1961",
+  "reason": "the skip record for ch-030.txt says chapters 29 and 30 were read in full in chunks 1 to 6; the Katanga secession and Lumumba's death are in chapter 29 (the UN chapter); only the bibliography and index were not read",
+  "checked": "16/11/2026"
  }
 ]

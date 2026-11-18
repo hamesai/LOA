@@ -91,24 +91,26 @@
      "t": "check",
      "q": "What should stay out of the tent?",
      "o": [
-      "A pad",
-      "A lit stove or barbecue",
+      "Wet boots and the day's damp clothes",
+      "A sleeping pad",
       "A torch",
-      "Spare socks"
+      "Spare socks",
+      "A lit stove or barbecue"
      ],
-     "a": 1,
+     "a": 4,
      "w": "A lit stove or barbecue creates carbon monoxide and fire risk. {{nid-co}} {{bmc}}"
     },
     {
      "t": "check",
      "q": "Which two items does the pad rating and the bag rating together define?",
      "o": [
-      "The tent and the fly",
-      "The warmth of the sleep system",
+      "The weight limit of the pack and the frame",
       "The cooking time",
-      "The walking route"
+      "The warmth of the sleep system",
+      "The walking route",
+      "The tent and the fly"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Bag ratings assume a pad with R 4, so the two are a system. {{rei-pad}}"
     },
     {
@@ -179,23 +181,25 @@
      "q": "What is the main goal of the review?",
      "o": [
       "To brag",
-      "To record what to keep and what to change",
+      "To list everything that went well on the trip",
       "To replace the plan",
+      "To record what to keep and what to change",
       "To skip the ledger"
      ],
-     "a": 1,
+     "a": 3,
      "w": "A review turns one trip into a better next trip."
     },
     {
      "t": "check",
      "q": "Which rubric row checks that you can give your position to a rescue team?",
      "o": [
-      "Access and impact",
-      "Shelter and warmth",
+      "Safety and plan (the trip card and contacts)",
       "Navigation and time (six-figure reference)",
-      "Kitchen and water"
+      "Kitchen and water",
+      "Access and impact",
+      "Shelter and warmth"
      ],
-     "a": 2,
+     "a": 1,
      "w": "The navigation row asks for a six-figure reference, and the call card uses it. {{os-map}} {{mrew}}"
     },
     {
@@ -315,22 +319,24 @@
      "t": "check",
      "q": "Which habit does the capstone borrow from Shackleton?",
      "o": [
-      "Skipping the review",
       "Planning with margins and clear roles",
+      "Leaving without a plan",
       "Camping alone only",
-      "Leaving without a plan"
+      "Pushing on to the goal whatever the conditions",
+      "Skipping the review"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He planned with depots, advice and clear leadership. {{wiki-nimrod}} {{shack-south}}"
     },
     {
      "t": "check",
      "q": "What did Shackleton do before choosing his Weddell Sea route?",
      "o": [
-      "Ignored advice",
-      "Consulted the whaling captains",
       "Asked tourists",
-      "Flipped a coin"
+      "Consulted the whaling captains",
+      "Flipped a coin",
+      "Followed the route of the earlier Scott expedition",
+      "Ignored all advice"
      ],
      "a": 1,
      "w": "He took advice from the whaling captains. {{shack-south}}"
@@ -339,12 +345,13 @@
      "t": "check",
      "q": "Why write a review within a day?",
      "o": [
+      "The details are fresh, and you can change the next plan",
       "To impress others",
-      "The details are fresh and you can change the next plan",
       "It is required",
-      "It saves money"
+      "It saves money",
+      "So the trip can be logged before any of the photos are shared"
      ],
-     "a": 1,
+     "a": 0,
      "w": "A review is how the next plan improves (our reasoning)."
     },
     {

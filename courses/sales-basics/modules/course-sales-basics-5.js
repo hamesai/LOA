@@ -111,24 +111,26 @@
      "t": "check",
      "q": "What does the text say most objections really are?",
      "o": [
-      "Rejection",
       "A request for more information",
+      "A polite way of saying a final no",
       "A final no",
+      "Rejection",
       "A trick"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It says objections usually mask a request for more information. {{ps-obj1}}"
     },
     {
      "t": "check",
      "q": "Which is NOT one of the four reasons prospects object in the text?",
      "o": [
-      "No money",
+      "No trust in you",
       "No perceived need",
       "No sense of urgency",
+      "No money",
       "No competition"
      ],
-     "a": 3,
+     "a": 4,
      "w": "The four are money, need, urgency and trust. {{ps-obj1}}"
     },
     {
@@ -283,24 +285,26 @@
      "t": "check",
      "q": "A prospect says 'I need to think about it'. What does the text say it usually is?",
      "o": [
-      "A firm no",
-      "A stall that often masks risk or fear",
       "A request for a discount",
+      "A firm no",
+      "A firm no, said politely to end the call",
+      "A stall that often masks risk or fear",
       "A contract term"
      ],
-     "a": 1,
+     "a": 3,
      "w": "It calls it a classic stall that masks fear or risk. {{ps-obj2}}"
     },
     {
      "t": "check",
      "q": "The buyer says 'That is too expensive.' What should you do first?",
      "o": [
-      "Cut the price",
-      "Probe and move to value",
+      "Offer a discount straight away",
       "Argue",
+      "Probe, then move to value",
+      "Cut the price",
       "Ignore it"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The text says to ask probing questions and discuss value. {{ps-obj2}}",
      "kind": "application"
     },
@@ -428,10 +432,11 @@
      "t": "check",
      "q": "Which asks for a decision rather than an opinion?",
      "o": [
-      "What matters most to you?",
+      "How does this compare with what you have?",
       "Shall we complete the paperwork?",
+      "Is the colour right?",
       "How do you feel about price?",
-      "Is the colour right?"
+      "What matters most to you?"
      ],
      "a": 1,
      "w": "A closing question asks for a decision; a trial close asks for an opinion. {{ps-close1}}",
@@ -444,6 +449,7 @@
       "Direct request",
       "Alternative choice",
       "Compliment",
+      "Assumptive trial close",
       "Benefit summary"
      ],
      "a": 1,
@@ -557,12 +563,13 @@
      "t": "check",
      "q": "The buyer asks for a discount. What does the text advise?",
      "o": [
+      "Get something back for any concession",
       "Give it at once",
-      "Get something in return for any concession",
+      "Give it at once, to keep the goodwill",
       "Refuse everything",
       "Walk away immediately"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The text says not to make a concession without getting a concession. {{ps-close2}}",
      "kind": "application"
     },
@@ -571,11 +578,12 @@
      "q": "Why follow up after the sale?",
      "o": [
       "It is optional",
+      "To raise the price",
       "It supports satisfaction, repeat business and referrals",
       "To avoid paperwork",
-      "To raise the price"
+      "It is required by consumer law for every sale that is made"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Follow-up leads to satisfaction, retention and referrals. {{ps-process}} {{openstax-selling}}"
     },
     {
@@ -709,36 +717,39 @@
      "t": "check",
      "q": "Which is one of the five reasons in the summary?",
      "o": [
-      "They like the colour",
-      "They do not trust you",
+      "They are too busy to eat",
       "They live far away",
-      "They are too busy to eat"
+      "They have too much money",
+      "They do not trust you",
+      "They like the colour"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Not trusting the seller is one of the five. {{ziglar-sum}}"
     },
     {
      "t": "check",
      "q": "What does the summary say a no might really mean?",
      "o": [
-      "Never ask again",
-      "Tell me more",
+      "I am sold",
       "Call the police",
-      "I am sold"
+      "Never ask again",
+      "Never contact me again",
+      "Tell me more"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The summary says a no may really be tell me more. {{ziglar-sum}}"
     },
     {
      "t": "check",
      "q": "What should you do with a price objection first, per the summary?",
      "o": [
-      "Cut the price",
-      "Repeat it as a question and verify price is the real objection",
+      "Repeat it as a question and check price is the real issue",
       "Ignore it",
-      "End the call"
+      "End the call",
+      "Cut the price",
+      "Cut the price by 10 per cent straight away to keep the deal alive"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Verify that price is the real objection before responding. {{ziglar-sum}}"
     },
     {

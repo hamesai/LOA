@@ -20,6 +20,18 @@
     },
     {
      "t": "p",
+     "x": "Finance usually measures the swings with the standard deviation of yearly returns. If returns followed a bell curve, about two years in three would fall within one standard deviation of the average: CVS shares averaged 11.11% with a standard deviation of 21.56%, so roughly a loss of 10.45% to a gain of 32.67% in two years of three. {{os-ch15}}"
+    },
+    {
+     "t": "p",
+     "x": "Risk is also why shares are expected to pay more. From 1928 to 2020 the S&P 500 averaged 11.64% a year, with 25 losing years, against 3.36% for three-month Treasury bills, which never had a negative year; the gap is the reward for bearing risk. {{os-ch15}} These are US figures, and averages, not promises."
+    },
+    {
+     "t": "p",
+     "x": "Fisher said the same in The Theory of Interest: the bondholder accepts a lower average return than the stockholder because he prefers a fixed, certain income to a variable one that is larger on average. {{fisher30-ch4}}"
+    },
+    {
+     "t": "p",
      "x": "Investors differ in how much risk they can stand, and FCA guidance asks you to think about your own situation. {{fca-risk}}"
     },
     {
@@ -207,12 +219,13 @@
      "t": "check",
      "q": "Your net assets are £20,000. Using the FCA's 10% rule of thumb, what is the limit for high-risk investments?",
      "o": [
-      "£200",
+      "£10,000",
+      "£5,000",
       "£2,000",
-      "£20,000",
-      "£10,000"
+      "£200",
+      "£20,000"
      ],
-     "a": 1,
+     "a": 2,
      "w": "10% of £20,000 is £2,000. The rule is a rule of thumb, not a legal limit. {{fca-risk}}",
      "kind": "application"
     },
@@ -220,9 +233,10 @@
      "t": "check",
      "q": "Which of these counts as part of your net assets when applying the FCA's 10% rule of thumb?",
      "o": [
-      "Only your savings",
-      "Savings, investments, property that is not your main home, and cars",
       "Only your salary",
+      "Savings, investments, non-home property and cars",
+      "Your main home, your pension and next year's salary",
+      "Only your savings",
       "Only your pension"
      ],
      "a": 1,
@@ -232,12 +246,13 @@
      "t": "check",
      "q": "Sam feels calm about a 30% fall but needs the money in four years for a flat. Which should set the limit?",
      "o": [
-      "Tolerance, because Sam is calm",
-      "Capacity, because a fall would delay the purchase",
       "Neither",
+      "Tolerance, since how Sam feels is the only test of risk that counts",
+      "Tolerance, because Sam is calm",
+      "Capacity: a fall would delay the purchase",
       "Whatever the fund manager says"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Capacity is what you can afford to lose, and the lower of tolerance and capacity should set the limit. This is our application of the FCA's framing. {{fca-risk}}"
     },
     {
@@ -258,6 +273,10 @@
     {
      "t": "p",
      "x": "Volatility is how much an investment's price moves up and down. {{mh-beginners}}"
+    },
+    {
+     "t": "p",
+     "x": "Safe from default is not safe from loss. US Treasury bonds returned 32.81% in 1982 and lost 8.25% in 1999 as interest rates moved, and shares have had negative years about 25% of the time. {{os-ch12}}"
     },
     {
      "t": "p",
@@ -440,24 +459,26 @@
      "t": "check",
      "q": "A £10,000 portfolio falls 50%, then rises 50%. Where is it now?",
      "o": [
-      "£10,000",
-      "£7,500",
+      "£9,500",
       "£12,500",
-      "£5,000"
+      "£5,000",
+      "£10,000",
+      "£7,500"
      ],
-     "a": 1,
+     "a": 4,
      "w": "After a 50% fall it is £5,000. A 50% rise on £5,000 gives £7,500, not £10,000."
     },
     {
      "t": "check",
      "q": "Your portfolio falls 20% and a friend says a 20% rise will put you back where you started. What rise is actually needed?",
      "o": [
-      "20%",
       "25%",
-      "30%",
-      "40%"
+      "20%",
+      "40%",
+      "22%",
+      "30%"
      ],
-     "a": 1,
+     "a": 0,
      "w": "1 ÷ 0.8 − 1 is 25%. This is our arithmetic.",
      "kind": "application"
     },
@@ -465,10 +486,11 @@
      "t": "check",
      "q": "Two funds average about 5.5% a year. One has a spread of 1.5 points and the other 18 points. What does the second fund mean for you?",
      "o": [
-      "It is certain to do better",
+      "It will beat the first fund over any ten-year period because of its spread",
       "You must be able to live through much bigger swings",
-      "It has lower fees",
-      "It cannot lose money"
+      "It is certain to do better",
+      "It cannot lose money",
+      "It has lower fees"
      ],
      "a": 1,
      "w": "A wider spread means bigger swings in both directions, even with the same average. In the example the choppy fund fell by over a fifth along the way. Our arithmetic."
@@ -515,6 +537,10 @@
     {
      "t": "p",
      "x": "Later writers describe his model as a random walk, in which each move cannot be predicted from the last. {{wikip-bachelier}}"
+    },
+    {
+     "t": "p",
+     "x": "The modern descendant is the efficient market hypothesis. In its weak form, prices already reflect their own history, so charting past prices cannot reliably beat the market. {{os-ch11}}"
     },
     {
      "t": "p",
@@ -646,12 +672,13 @@
      "t": "check",
      "q": "What does the random walk idea suggest about a plan that relies on predicting next month's price?",
      "o": [
-      "It is reliable",
-      "It is fragile",
+      "It is reliable if the forecaster is experienced",
       "It is guaranteed",
-      "It is required by law"
+      "It is fragile",
+      "It is required by law",
+      "It is reliable"
      ],
-     "a": 1,
+     "a": 2,
      "w": "If moves are unpredictable from past moves, a plan built on forecasting them is fragile. Bachelier's introduction says price movements cannot be forecast mathematically; the inference is ours. {{bachelier-1900}}"
     },
     {
@@ -660,8 +687,9 @@
      "o": [
       "Louis Bachelier",
       "Irving Fisher",
-      "John Bogle",
-      "Harry Markowitz"
+      "Harry Markowitz",
+      "Benjamin Graham",
+      "John Bogle"
      ],
      "a": 0,
      "w": "Bachelier's Théorie de la spéculation did so. {{bachelier-1900}}"
@@ -670,12 +698,13 @@
      "t": "check",
      "q": "In the twelve-month walk, six rises and six falls end below the start. Why?",
      "o": [
-      "A mistake in the arithmetic",
-      "A 3% rise followed by a 3% fall leaves you slightly below the start",
+      "The falls in the model are set slightly larger than the rises",
+      "Falls are larger than rises",
       "The model is biased down",
-      "Falls are larger than rises"
+      "A 3% rise then a 3% fall leaves you slightly down",
+      "A mistake in the arithmetic"
      ],
-     "a": 1,
+     "a": 3,
      "w": "1.03 × 0.97 = 0.9991, so each pair leaves you slightly behind. Our arithmetic."
     },
     {
@@ -700,6 +729,10 @@
     {
      "t": "p",
      "x": "All of the falls below are invented for teaching. They are not forecasts, and the real size of a fall in any given year cannot be known in advance."
+    },
+    {
+     "t": "p",
+     "x": "Bad years are not rare events. US recessions have lasted about 17 months on average and expansions about 41 months, a typical cycle about 4.5 years, though the lengths vary widely. {{os-ch3}} Our inference: a plan of ten years or more should expect to meet at least one."
     },
     {
      "t": "h",
@@ -854,12 +887,13 @@
      "t": "check",
      "q": "In the illustrative bad year, shares fall 30% and bonds fall 5%. The portfolio is 60% shares and 30% bonds. What is the portfolio change?",
      "o": [
+      "−17.5%",
+      "−30%",
       "−35%",
-      "−19.5%",
       "−10%",
-      "−30%"
+      "−19.5%"
      ],
-     "a": 1,
+     "a": 4,
      "w": "0.6 × 30% + 0.3 × 5% = 19.5%. This is our arithmetic with invented falls.",
      "kind": "application"
     },
@@ -868,11 +902,12 @@
      "q": "Why should you decide what to do in a bad year before it happens?",
      "o": [
       "Because falls are predictable",
-      "Because decisions made during a fall are often worse than decisions made calmly",
-      "Because markets always recover within a year",
-      "Because taxes are lower"
+      "Because taxes are lower",
+      "Decisions made during a fall are often worse",
+      "Because markets recover within a year",
+      "Because markets always recover within twelve months"
      ],
-     "a": 1,
+     "a": 2,
      "w": "This is our inference: tolerance is easy to overstate in a calm moment, so settle the plan in advance. {{fca-risk}}"
     },
     {
@@ -886,7 +921,7 @@
    ]
   },
   {
-   "id": "l6",
+   "id": "l5",
    "title": "Practice: stress-test your own money",
    "min": 26,
    "blocks": [
@@ -983,6 +1018,7 @@
      "o": [
       "£0",
       "£1,000",
+      "£5,000",
       "£4,000",
       "£6,000"
      ],
@@ -993,12 +1029,13 @@
      "t": "check",
      "q": "Which change does NOT help Dev's plan survive a market fall?",
      "o": [
-      "Moving part of the money to cash as the date nears",
       "Saving more each month",
-      "Putting more money into the fund because it has fallen",
+      "Moving part of the money to cash as the purchase date gets close",
+      "Moving some to cash as the date nears",
+      "Putting more in because it has fallen",
       "Delaying the purchase date"
      ],
-     "a": 2,
+     "a": 3,
      "w": "Adding more risk to a goal that is already at risk does not help; the other options reduce the exposure or give more time. Our inference."
     },
     {
@@ -1006,11 +1043,12 @@
      "q": "Why decide your response to a fall in advance?",
      "o": [
       "Because markets are predictable",
-      "So you act on a plan, not on fear in the moment",
+      "It is a legal requirement",
       "To avoid ever selling",
-      "It is a legal requirement"
+      "Because a fall is always followed by a rise",
+      "So you act on a plan, not fear"
      ],
-     "a": 1,
+     "a": 4,
      "w": "A rule written in advance is harder to override in a panic. Our inference, in line with the FCA's view that you should know your own risk profile. {{fca-risk}}"
     },
     {
@@ -1024,7 +1062,7 @@
    ]
   },
   {
-   "id": "l5",
+   "id": "l6",
    "title": "The lecturer's method: Louis Bachelier",
    "min": 22,
    "blocks": [
@@ -1112,12 +1150,13 @@
      "t": "check",
      "q": "What does the random walk suggest about a plan that depends on forecasting next month?",
      "o": [
-      "It is reliable",
       "It is fragile",
-      "It is guaranteed",
-      "It is required"
+      "It is required",
+      "It is reliable with an expert",
+      "It is reliable",
+      "It is guaranteed"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Bachelier begins from the impossibility of forecasting price movements, so a plan built on forecasts is fragile (our inference). {{lec-bachelier-1900}}"
     },
     {
@@ -1125,11 +1164,12 @@
      "q": "Which statement misreads the random walk model?",
      "o": [
       "Short-term moves are hard to predict",
-      "Prices are pure chance, so nobody can ever do well",
       "Plans should cover a range of outcomes",
-      "Forecast-based plans are fragile"
+      "Forecast-based plans are fragile",
+      "Prices are pure chance, so nobody can ever do well",
+      "Short-term moves are hard to predict, so plans should allow for a range"
      ],
-     "a": 1,
+     "a": 3,
      "w": "His starting point is that forecasting is impossible, not that outcomes are pure chance or that nobody can do well. Our reading of {{lec-bachelier-1900}}"
     },
     {

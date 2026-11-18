@@ -99,12 +99,13 @@
      "t": "check",
      "q": "A summary says Europeans came to West Africa for slaves from the start. What is the better account?",
      "o": [
-      "It is right",
-      "They first came for gold and ivory; the slave trade boomed later, with the spread of sugar plantations",
-      "They came for spices",
-      "They never traded"
+      "They came first for gold and ivory; the slave trade boomed later with sugar",
+      "It is right: the Portuguese came for captives from their very first voyages",
+      "They never traded directly; African states sold only through Arab merchants",
+      "They came first for slaves, and gold became important only after about 1700",
+      "They came first for spices, which the Guinea coast sold in large quantities"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Gold came first; sugar drove the slave trade. {{gha5-malowist}}",
      "kind": "application"
     },
@@ -112,12 +113,13 @@
      "t": "check",
      "q": "Three sources give the horse-for-slaves rate as rising, falling and unspecified. What should an essay say?",
      "o": [
-      "Pick the rising rate",
-      "There was no fixed rate and the sources disagree on its direction; the trade still reshaped society",
-      "Average them",
-      "Ignore horses"
+      "The rate rose over time, since horses grew scarcer in the Sahel",
+      "Average the three to reach a defensible standard rate",
+      "No fixed rate, and the sources disagree on its direction",
+      "Ignore horses, since they were too few to matter in the trade",
+      "The rate fell, since horses died quickly south of the Sahara"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Show the disagreement and what is agreed. {{gha4-decl}} {{gha4-inter}}",
      "kind": "application"
     },
@@ -268,10 +270,11 @@
      "t": "check",
      "q": "A report says '12.5 million Africans arrived in the Americas'. What is wrong?",
      "o": [
-      "Nothing",
-      "12.5 million is the embarked figure; about 10.7 million arrived, because many died in the Middle Passage",
-      "The figure is 125 million",
-      "It counts only the nineteenth century"
+      "12.5 million arrived, and about 15 million had been embarked in Africa",
+      "12.5 million embarked; about 10.7 million arrived, as many died at sea",
+      "The figure is far too low; the true number of arrivals is about 125 million",
+      "It counts only the nineteenth century, when the trade was at its height",
+      "Nothing: 12.5 million is the Voyages figure for arrivals in the Americas"
      ],
      "a": 1,
      "w": "The gap between embarked and disembarked is Middle Passage mortality. {{sv-est}} {{sv-essay}}",
@@ -281,12 +284,13 @@
      "t": "check",
      "q": "One book gives 9,391,100 and another 12.5 million for the Atlantic trade. Why can both appear?",
      "o": [
-      "One is a typo",
-      "Curtin's 9.4 million counts people landed, from 1969; Voyages' 12.5 million counts people embarked",
-      "Both count the same thing",
-      "Neither is a count"
+      "Curtin counts only the British trade, while Voyages counts every nation's ships",
+      "Neither is a count; both are guesses with no records behind them",
+      "One is a typo: both books meant 12.5 million but copied it wrongly",
+      "Both count people embarked, but Voyages has since found more ships",
+      "Curtin's 1969 figure counts people landed; Voyages counts people embarked"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Check what a number counts before comparing it. {{rd-atl}}",
      "kind": "application"
     },
@@ -373,12 +377,13 @@
      "t": "check",
      "q": "A student says only kings sold captives to Europeans. Which record tests that best?",
      "o": [
-      "The Kebra Nagast",
-      "Miles's barter record: 2,352 purchases from 295 dealers, only eleven of them regular suppliers",
-      "A treaty of 1884",
-      "Afonso's letter"
+      "The Kebra Nagast's account of royal trade monopolies",
+      "A treaty of 1884 listing the kings who sold captives",
+      "Afonso I's letter complaining about the trade in Kongo",
+      "Miles's barter record: 2,352 purchases from 295 dealers",
+      "The Royal African Company's charter, which named the royal suppliers"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Many sellers were small traders. {{rd-trade}}",
      "kind": "application"
     },
@@ -386,10 +391,11 @@
      "t": "check",
      "q": "A textbook says 20 million British guns armed African kingdoms. What two cautions apply?",
      "o": [
-      "None",
-      "The figures are export estimates, and checks found many guns unserviceable",
-      "Guns were never sold",
-      "The guns were all Portuguese"
+      "Guns were never sold to Africans, as British law banned the trade",
+      "The figures are export estimates, and many guns were unserviceable",
+      "The guns were all Portuguese, relabelled as British in the records",
+      "The figure is exact, but most guns went to Arab traders, not kingdoms",
+      "None: the customs ledgers record every gun that was landed in Africa"
      ],
      "a": 1,
      "w": "At Luanda in 1759 only 200 of 4,000 were serviceable. {{rd-trans}}",
@@ -543,12 +549,13 @@
      "t": "check",
      "q": "An essay says historians agree the Atlantic trade underdeveloped Africa. Which correction is best?",
      "o": [
-      "They all agree",
-      "That is Rodney's thesis; Eltis and Thornton argue against it, so it is a debate",
-      "Vansina proved it",
-      "No one has argued it"
+      "It is Thornton's thesis, and Rodney is the main historian who disputes it",
+      "Vansina proved it with oral evidence from the Kongo and Lunda states",
+      "It is Rodney's thesis; Thornton and others dispute it, so it is a debate",
+      "They all agree: the thesis is settled since Rodney's 1972 book appeared",
+      "No one has argued it; Rodney argued the trade had little effect at all"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Name the positions on both sides. {{rd-trans}}",
      "kind": "application"
     },
@@ -556,12 +563,13 @@
      "t": "check",
      "q": "Two population estimates for Africa are 47 million in 1500 and 100 million in 1650. How should you use them?",
      "o": [
-      "Subtract them to get growth",
-      "As back-projections from different methods, not counts; neither can measure the trade's effect alone",
-      "Average them",
-      "Use the larger"
+      "As censuses, the first made by Portuguese and the second by Dutch officials",
+      "Average them to estimate the population in about 1575",
+      "Use the larger, since early counts usually miss people",
+      "Subtract them to get the population growth the trade allowed",
+      "As back-projections by different methods, not counts of people"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Both are estimates with different bases. {{rd-farm}} {{gha1-mabogunje}}",
      "kind": "application"
     },
@@ -633,12 +641,13 @@
      "t": "check",
      "q": "A student writes that the Somerset case of 1772 abolished slavery in England. What is the correction?",
      "o": [
-      "It is right",
+      "It is right: Mansfield's ruling freed every enslaved person living in England",
+      "It abolished slavery in England, but not in the colonies, which came in 1833",
+      "It abolished the British slave trade, but not slavery itself in England",
       "Mansfield ruled only that a master could not force a slave to leave England",
-      "It abolished the trade",
-      "It concerned Jamaica"
+      "It concerned Jamaica, where Somerset had been held before he came to England"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The ruling was narrower than its fame. {{gha5-diaspora}}",
      "kind": "application"
     },
@@ -646,12 +655,13 @@
      "t": "check",
      "q": "Which example best shows that enslaved Africans organised resistance with political aims?",
      "o": [
-      "The asiento",
       "Palmares, a community of about 20,000 that lasted from 1605 to 1695",
-      "The Royal African Company",
-      "The papal bulls"
+      "The Somerset case, which was brought by a group of enslaved Londoners",
+      "The papal bulls, which forbade the enslavement of converted Africans",
+      "The Royal African Company, which employed freed Africans as agents",
+      "The asiento, which let enslaved people bargain for their own freedom"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Maroon communities and treaties show organisation. {{gha5-diaspora}}",
      "kind": "application"
     },
@@ -787,10 +797,11 @@
      "t": "check",
      "q": "A timeline marks 1807 as 'the end of the slave trade'. What is the better entry?",
      "o": [
-      "Keep it",
-      "Britain banned its subjects' trade in 1807; Brazil's trade stopped in 1851, Loango's went on to the century's end, and slavery inside Africa grew",
-      "Change it to 1884",
-      "Change it to 1700"
+      "Keep it: the British ban of 1807 ended the Atlantic trade within a few years",
+      "Britain banned its subjects' trade in 1807; others went on, and slavery in Africa grew",
+      "Change it to 1700, when the Atlantic trade had already begun its long decline",
+      "Change it to 1833, when the abolition act ended both the trade and slavery across Africa",
+      "Change it to 1884, when the Berlin Conference outlawed the trade everywhere"
      ],
      "a": 1,
      "w": "Abolition came in stages. {{gha6-daget}}",
@@ -800,12 +811,13 @@
      "t": "check",
      "q": "What does the 1830 invasion of Algeria show about the label 'pre-colonial'?",
      "o": [
-      "Nothing",
+      "Colonisation began in 1830 and nowhere earlier",
+      "Nothing, since North Africa is outside the course",
       "Colonisation had begun long before 1884",
-      "Algeria was never invaded",
-      "The label is exact"
+      "The label is exact, since Algeria was Ottoman",
+      "Algeria was never invaded, only blockaded"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Algeria, the Cape, Natal and Egypt were already colonised or occupied. {{loc-algeria}} {{britannica-egypt}}",
      "kind": "application"
     },
@@ -878,12 +890,13 @@
      "t": "check",
      "q": "Which 50-year period had the second-highest embarkations?",
      "o": [
-      "1651 to 1700",
-      "1801 to 1850",
+      "1851 to 1866",
+      "1751 to 1800",
       "1701 to 1750",
-      "1851 to 1866"
+      "1651 to 1700",
+      "1801 to 1850"
      ],
-     "a": 1,
+     "a": 4,
      "w": "3,647,979 against 2,560,629 in 1701 to 1750. {{sv-est}}",
      "kind": "application"
     },
@@ -891,12 +904,13 @@
      "t": "check",
      "q": "What is wrong with saying Africa was pre-colonial until 1884?",
      "o": [
-      "Nothing",
+      "The Berlin Conference took place in 1830, not in 1884",
+      "Only Portuguese Angola and Mozambique were colonies before that date in 1884",
+      "Colonisation ended in 1884, when the partition was agreed",
       "Algeria, the Cape, Natal and Egypt were already colonised or occupied",
-      "Berlin was in 1830",
-      "Colonisation ended in 1884"
+      "Nothing: no African territory was under European rule before Berlin"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Colonisation was already under way. {{ebsco-french-algeria}} {{britannica-egypt}}",
      "kind": "application"
     },
@@ -1007,24 +1021,26 @@
      "t": "check",
      "q": "What did Carretta's records question?",
      "o": [
-      "Equiano's literacy",
       "Equiano's account of being born in Africa",
-      "The abolition of the trade",
-      "Voyages totals"
+      "The date of the British abolition of the trade",
+      "Equiano's ability to read and write in English",
+      "The Voyages totals for the eighteenth century",
+      "Equiano's account of buying his own freedom"
      ],
-     "a": 1,
+     "a": 0,
      "w": "A baptism record and a muster roll point to Carolina. {{wiki-equiano}}"
     },
     {
      "t": "check",
      "q": "A teacher uses Equiano's life to stand for a typical enslaved person's experience. What should you point out?",
      "o": [
-      "It is typical",
-      "His experience was unusual: he avoided field work and was taught to read and write",
-      "He was never enslaved",
-      "He never travelled"
+      "It is typical, since most enslaved people were taken to sea as he was",
+      "It is typical of the British colonies, though not of the Spanish or Portuguese ones",
+      "He was never enslaved, as Carretta's records proved in 1999",
+      "He never travelled beyond Virginia, so his range is too narrow",
+      "His life was unusual: he avoided field work and learned to read and write"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Wikipedia says his experience was very different from most. {{wiki-equiano}}",
      "kind": "application"
     },

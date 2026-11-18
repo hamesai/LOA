@@ -1173,10 +1173,11 @@ ARCHIVE_ADD({
    {
     "q": "Where should the long side of the greenhouse face, where possible?",
     "o": [
-     "North",
      "East",
+     "North",
      "South",
-     "West"
+     "West",
+     "North-east, for morning sun"
     ],
     "a": 2,
     "w": "Sunlight is the most critical site factor, so the long side faces south."
@@ -1184,46 +1185,50 @@ ARCHIVE_ADD({
    {
     "q": "Where should the thermometer sit?",
     "o": [
+     "Next to the door",
+     "In full sun at the ridge, where the hottest air collects, so you see the worst case",
      "Beside a vent, so it reacts quickly",
-     "At plant height, out of direct sun and away from vents and heaters",
      "On the roof ridge",
-     "Next to the door"
+     "At plant height, shaded, away from vents and heaters, in moving air"
     ],
-    "a": 1,
+    "a": 4,
     "w": "A reading beside a vent or in the sun does not describe the air the plants are in."
    },
    {
     "q": "When does natural ventilation perform poorly?",
     "o": [
      "On cloudy days",
-     "At night",
+     "On hot days with wind under about 200 ft/min",
      "When the vents are screened",
-     "On hot days when outside wind is below about 200 ft/min"
+     "On cool, windy days when outside air is moving fast",
+     "At night"
     ],
-    "a": 3,
+    "a": 1,
     "w": "Natural ventilation relies on wind and warm air rising. With little wind on a hot day it cannot move enough air."
    },
    {
     "q": "Why does a small greenhouse swing in temperature faster than a large one?",
     "o": [
+     "Its small air volume changes fast when a door opens",
      "Its covering is thinner",
-     "Its air volume is small, so an open door changes the temperature quickly",
      "It holds fewer plants",
-     "It is never vented"
+     "It is never vented",
+     "Small houses gain more sun per square foot, so they always run hotter"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Less air volume means less thermal buffer."
    },
    {
     "lec": 1,
     "q": "Paxton's ridge-and-furrow roof was set at right angles to which light?",
     "o": [
-     "Midday sun",
      "Morning and evening sun",
      "Northern light",
+     "Midday sun",
+     "The high summer sun at noon",
      "Artificial light"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Paxton set the roof at right angles to the morning and evening sun to admit more light and drain rain. {{gg-paxton}}"
    }
   ],
@@ -1231,20 +1236,22 @@ ARCHIVE_ADD({
    {
     "q": "How do you work out a sow date?",
     "o": [
-     "Harvest date plus days to maturity",
      "Transplant date minus weeks in the tray",
+     "Transplant date plus the weeks the plant spends in the tray",
+     "Harvest date plus days to maturity",
      "Last frost plus eight weeks",
      "First frost minus 21 days"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Plan backwards: transplant date minus the weeks the plant spends in the tray."
    },
    {
     "q": "Using the UAF table, peppers spend 6–7 weeks in the tray and are transplanted on 1 June. When do you sow?",
     "o": [
-     "18–25 March",
+     "6–13 April",
      "1–8 May",
      "13–20 April",
+     "18–25 March",
      "27 April–4 May"
     ],
     "a": 2,
@@ -1253,23 +1260,25 @@ ARCHIVE_ADD({
    {
     "q": "Why sow a fast crop every 21 days?",
     "o": [
-     "It gives a continuous harvest instead of one glut",
-     "It uses less seed",
+     "It speeds up germination",
      "It avoids needing a frost date",
-     "It speeds up germination"
+     "It uses less seed",
+     "A steady harvest instead of one glut",
+     "Each sowing germinates faster than the one before it"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Staggered sowings spread the harvest."
    },
    {
     "q": "It is October and you want salad leaves through the dark months. Which seasonal block should your sowing fall in?",
     "o": [
-     "Spring",
-     "Summer",
+     "Winter, since that is when you pick",
      "Autumn",
-     "Winter"
+     "Summer",
+     "Winter",
+     "Spring"
     ],
-    "a": 2,
+    "a": 1,
     "w": "Winter greens are sown in autumn so they are established for the dark months.",
     "kind": "application"
    },
@@ -1277,12 +1286,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What did Jekyll say a long drift of plants avoids?",
     "o": [
-     "Slugs",
-     "An unsightly empty space when the flowers are done",
      "Watering",
+     "Wind damage to the tall plants in late summer",
+     "An ugly empty space when flowers finish",
+     "Slugs",
      "Frost"
     ],
-    "a": 1,
+    "a": 2,
     "w": "A long thin planting does not leave an empty space when flowers are done. {{jekyll-colour}}"
    }
   ],
@@ -1290,43 +1300,47 @@ ARCHIVE_ADD({
    {
     "q": "What temperature range suits most germinating seeds?",
     "o": [
-     "40–50°F",
-     "65–75°F",
      "85–95°F",
-     "50–60°F"
+     "40–50°F",
+     "75–85°F",
+     "50–60°F",
+     "65–75°F"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Most seeds germinate best at 65–75°F."
    },
    {
     "q": "When do you transplant a seedling out of a plug cell?",
     "o": [
-     "Before it emerges",
      "At the first true leaves",
      "After it flowers",
-     "When the tray is dry"
+     "At the seed leaves, as soon as they open",
+     "When the tray is dry",
+     "Before it emerges"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Leaving plugs too long slows development and can cause stem rot."
    },
    {
     "q": "What do you do with lights once seedlings emerge?",
     "o": [
      "Turn them off",
+     "Bring them close, then raise them as seedlings grow",
+     "Raise them high, so the seedlings stretch toward them",
      "Hang them a metre above",
-     "Bring them close, then raise them as the seedlings grow",
      "Move them to the side"
     ],
-    "a": 2,
+    "a": 1,
     "w": "Lights too high make seedlings leggy."
    },
    {
     "q": "Why keep a covered tray out of direct sun?",
     "o": [
+     "Seeds dry out faster",
      "Seeds need darkness",
      "The dome will crack",
-     "Seeds dry out faster",
-     "It overheats like a small greenhouse"
+     "It overheats like a small greenhouse",
+     "Direct sun stops all seeds from germinating"
     ],
     "a": 3,
     "w": "A dome in direct sun can reach damaging temperatures."
@@ -1335,10 +1349,11 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "A tray of 20 seeds has 17 germinate. What is the germination percentage?",
     "o": [
-     "75",
      "80",
+     "17",
      "85",
-     "90"
+     "90",
+     "75"
     ],
     "a": 2,
     "w": "17 divided by 20 is 0.85, or 85 per cent."
@@ -1349,31 +1364,34 @@ ARCHIVE_ADD({
     "q": "Which pH range keeps most nutrients readily available?",
     "o": [
      "4.0–4.8",
-     "5.4–6.2",
+     "6.2–7.0",
      "6.8–7.5",
-     "7.5–8.5"
+     "7.5–8.5",
+     "5.4–6.2"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Each species also has its own optimum, so look it up for each crop."
    },
    {
     "q": "How many samples per crop type should you take?",
     "o": [
-     "One",
-     "Two",
      "Five to ten, then average",
-     "Twenty to thirty"
+     "Two",
+     "One",
+     "Twenty to thirty",
+     "One, from the best-looking plant"
     ],
-    "a": 2,
+    "a": 0,
     "w": "One pot can mislead. The average of five to ten is a better basis for a decision."
    },
    {
     "q": "What does EC measure?",
     "o": [
-     "Light intensity",
-     "Dissolved salts in the medium",
      "Air humidity",
-     "Water temperature"
+     "Dissolved salts in the medium",
+     "Light intensity",
+     "Water temperature",
+     "The medium's acidity, as a pH proxy"
     ],
     "a": 1,
     "w": "EC shows how much fertiliser is available, or whether salts are building up."
@@ -1382,9 +1400,10 @@ ARCHIVE_ADD({
     "q": "Your medium pH keeps drifting up. What do you test first?",
     "o": [
      "Irrigation water alkalinity",
+     "Air temperature",
      "Seed age",
      "Fan speed",
-     "Air temperature"
+     "The fertiliser's nitrogen content"
     ],
     "a": 0,
     "w": "High alkalinity in the water raises medium pH over time."
@@ -1393,12 +1412,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "In the barrel image of Liebig's law, what sets how much the barrel holds?",
     "o": [
+     "The number of staves",
+     "The width of the barrel",
      "The longest stave",
-     "The shortest stave",
      "The average stave",
-     "The number of staves"
+     "The shortest stave"
     ],
-    "a": 1,
+    "a": 4,
     "w": "The shortest stave sets the capacity. {{wiki-liebig}}"
    }
   ],
@@ -1406,43 +1426,47 @@ ARCHIVE_ADD({
    {
     "q": "What is the summer ventilation target?",
     "o": [
-     "0.1 exchange per minute",
-     "1 to 1.5 air-volume exchanges per minute",
      "10 exchanges per minute",
-     "One exchange per hour"
+     "1 to 1.5 air-volume exchanges per hour",
+     "One exchange per hour",
+     "1 to 1.5 air exchanges per minute",
+     "0.1 exchange per minute"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Small houses need the larger figure."
    },
    {
     "q": "What is the winter ventilation target?",
     "o": [
-     "20–30% of one exchange per minute",
+     "Five exchanges per minute",
      "One full exchange per minute",
+     "20–30% of one exchange per minute",
      "None",
-     "Five exchanges per minute"
+     "1 to 1.5 full exchanges per minute"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Enough to bring in cool air for mixing without chilling the plants."
    },
    {
     "q": "What temperature gradient is common with pad-and-fan cooling?",
     "o": [
-     "None",
-     "7–10°F from inlet to outlet",
      "30–40°F",
-     "1°F"
+     "1°F",
+     "15–20°F from the floor to the ridge",
+     "7–10°F from inlet to outlet",
+     "None"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Fog systems cool more evenly."
    },
    {
     "q": "What should circulation fans do in winter?",
     "o": [
      "Stay off",
-     "Run only at night",
+     "Stay off, so warm air stays at the ridge",
      "Run continuously",
-     "Run only in summer"
+     "Run only in summer",
+     "Run only at night"
     ],
     "a": 2,
     "w": "Without them warm air collects at the top and cool air settles around the plants."
@@ -1451,12 +1475,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "Why were the Crystal Palace's louvre blades S-shaped?",
     "o": [
+     "So rain could not get in while open",
      "For looks",
-     "So rain could not enter while open",
+     "To hold the calico screens in place",
      "To trap heat",
      "To hold shading"
     ],
-    "a": 1,
+    "a": 0,
     "w": "The S-shaped blades kept rain out when the ventilators were open. {{sch}}"
    }
   ],
@@ -1464,40 +1489,44 @@ ARCHIVE_ADD({
    {
     "q": "Which are the four IPM tactic families?",
     "o": [
-     "Cultural, biological, physical or mechanical, chemical",
      "Chemical, chemical, chemical, chemical",
-     "Visual, audible, thermal, chemical",
-     "Spray, dust, fog, drench"
+     "Cultural, biological, physical, chemical",
+     "Monitoring, spraying, fogging and drenching",
+     "Spray, dust, fog, drench",
+     "Visual, audible, thermal, chemical"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Decisions rest on monitoring, with chemical control as one option among four."
    },
    {
     "q": "How often should you inspect plants?",
     "o": [
-     "Yearly",
-     "Monthly",
      "Weekly",
-     "Only when damage appears"
+     "Monthly",
+     "Only when damage appears",
+     "Every few months",
+     "Yearly"
     ],
-    "a": 2,
+    "a": 0,
     "w": "Weekly inspection catches problems before they spread."
    },
    {
     "q": "What does inundation mean in biological control?",
     "o": [
-     "Releasing a few enemies early for long-term control",
+     "Releasing a few enemies early so they breed and establish",
      "Spraying with water",
      "Removing the screens",
-     "Releasing many natural enemies for short-term control"
+     "Releasing a few early for long-term control",
+     "Releasing many enemies for short-term control"
     ],
-    "a": 3,
+    "a": 4,
     "w": "Releasing a few early is inoculation."
    },
    {
     "q": "In a decision rule, which action comes first?",
     "o": [
      "The non-chemical action",
+     "A spot spray of the mildest chemical",
      "The strongest spray",
      "Removing all plants",
      "Doing nothing"
@@ -1509,12 +1538,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "Which approach best matches Carson's argument for pest control?",
     "o": [
-     "Spray on a fixed schedule",
-     "Look first, decide, then use the gentlest effective response",
+     "Use the strongest chemical available",
      "Never act",
-     "Use the strongest chemical available"
+     "Look first, decide, then the gentlest effective response",
+     "Never use any chemical in any circumstances, whatever the pest",
+     "Spray on a fixed schedule"
     ],
-    "a": 1,
+    "a": 2,
     "w": "She argued for finding out first whether another method can be used, and then using chemicals sparingly and selectively. {{carson-1963}}"
    }
   ],
@@ -1525,7 +1555,8 @@ ARCHIVE_ADD({
      "It looks tidier",
      "Timing is the main thing you learn from",
      "Dates are required by law",
-     "It costs less"
+     "It costs less",
+     "Yield alone shows everything worth knowing"
     ],
     "a": 1,
     "w": "Without dates you cannot tell whether a crop was late or early."
@@ -1533,46 +1564,50 @@ ARCHIVE_ADD({
    {
     "q": "What should happen between crops?",
     "o": [
+     "Clear debris and disinfect trays and benches",
      "Nothing",
-     "Remove debris and disinfect trays and benches",
      "Open the doors for a week",
-     "Re-use trays unwashed"
+     "Re-use trays unwashed",
+     "Re-use the trays straight away, unwashed, to save time"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Sanitation is the cheapest pest control."
    },
    {
     "q": "What does the annual review contain?",
     "o": [
      "A shopping list",
-     "Planned versus actual dates and yields, and two evidence-backed changes",
-     "Only the best harvest",
-     "A weather forecast"
+     "A list of every crop grown, ranked by how much you enjoyed growing it this year",
+     "Planned v. actual dates and yields, and two evidence-backed changes",
+     "A weather forecast",
+     "Only the best harvest"
     ],
-    "a": 1,
+    "a": 2,
     "w": "The changes should each name a number from your logs."
    },
    {
     "q": "How many fields should a harvest log have at least?",
     "o": [
+     "Four",
      "Three",
      "Five",
      "Eight",
      "Twelve"
     ],
-    "a": 2,
+    "a": 3,
     "w": "Date, crop, bench, count or weight, quality, notes, and at least two more."
    },
    {
     "lec": 1,
     "q": "What three parts does a Jekyll-style month note have in this course?",
     "o": [
+     "What I bought, what I spent, what I sold",
      "Cost, profit, tax",
-     "What I did, what I saw, next year",
      "Sow, grow, sell",
-     "Rain, wind, sun"
+     "Rain, wind, sun",
+     "What I did, what I saw, next year"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Did, saw, and a line for next year."
    }
   ],
@@ -1581,12 +1616,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "In the Paxton method for scoping a year, what do you choose after the fixed limits?",
     "o": [
-     "A standard repeating unit",
-     "The most complex bed",
      "A new crop each week",
-     "The most expensive seed"
+     "The most expensive seed",
+     "The most complex bed",
+     "A different layout for every bench",
+     "A standard repeating unit"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Choose a standard unit, then repeat it across the year. {{gg-paxton}}"
    }
   ]

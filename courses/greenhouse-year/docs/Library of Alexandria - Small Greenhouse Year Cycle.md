@@ -1,6 +1,6 @@
 # Library of Alexandria: Small greenhouse, year-long cycle
 
-Level: Some exposure. Created 15/11/2026.
+Level: Some exposure. Created 18/11/2026.
 
 Run a small greenhouse through a full year: site and climate, crop planning, seed starting, feeding, climate control, pest management, records and a yearly review.
 

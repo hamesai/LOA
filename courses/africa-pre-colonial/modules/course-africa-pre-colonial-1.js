@@ -158,12 +158,13 @@
      "t": "check",
      "q": "A 1960s lecture says Africa has no history because Africans did not write. Which reply uses the evidence best?",
      "o": [
-      "Agree, then study Europeans in Africa",
-      "Scribal literacy existed across much of Africa, and oral tradition, archaeology and linguistics recover the past where writing is absent",
-      "Say every African society wrote",
-      "Change the subject to Egypt only"
+      "Accept that unwritten pasts are prehistory, but argue that African prehistory deserves study",
+      "Concede it for most regions, but argue that Egypt and Aksum prove Africa had some history",
+      "Literacy existed in many regions, and oral tradition, archaeology and linguistics recover the rest",
+      "Say oral tradition alone is as reliable as any archive, so the lack of writing is irrelevant",
+      "Say every African society kept written records, and colonial rule destroyed nearly all of those records"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The premise is wrong on literacy, and the method answers the rest. {{gha1-curtin}}",
      "kind": "application"
     },
@@ -171,12 +172,13 @@
      "t": "check",
      "q": "A source claims a West African city was founded by 'Hamites' because its rulers spoke an Afro-Asiatic language. What is the flaw?",
      "o": [
-      "None",
-      "Hamitic is at most a language label; language does not map on to race or origin, as Hausa speakers ruled by Fulani show",
-      "Afro-Asiatic is not a family",
-      "Cities need kings"
+      "Hamitic should be replaced by Semitic, the proper name of the language family",
+      "Nothing in principle; a study of the rulers' skeletons would settle the matter of origin",
+      "Afro-Asiatic languages reached West Africa only after the city was founded",
+      "The Hamitic idea holds only for East African kingdoms, not for West Africa",
+      "Language is not race or origin: Hausa speakers ruled by Fulani break the equation"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Greenberg's Hausa-Fulani case breaks the equation. {{gha1-fage}}",
      "kind": "application"
     },
@@ -283,12 +285,13 @@
      "t": "check",
      "q": "Which pairing of evidence would make the strongest claim?",
      "o": [
-      "Two archaeological digs by the same team",
-      "Archaeology plus an independent line such as linguistics or a written source",
-      "One oral tradition told twice",
-      "A single famous chronicle"
+      "An excavation plus an independent line, such as linguistics or a written source",
+      "Two excavations at neighbouring sites, run by one team with the same methods",
+      "An oral tradition recorded in two villages that share one ruling lineage",
+      "A famous chronicle, cross-checked against a later chronicle that copied it",
+      "Ten radiocarbon dates taken from a single sealed layer at one well-excavated site"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Strong claims need more than one kind of evidence, gathered independently.",
      "kind": "application"
     },
@@ -296,12 +299,13 @@
      "t": "check",
      "q": "A timeline states 'Koumbi Saleh fell in 1086'. Which wording should replace it?",
      "o": [
-      "Koumbi Saleh fell on a date that is unknowable",
+      "Koumbi Saleh's decline cannot be placed in any century at all",
+      "Koumbi Saleh fell to the Almoravids in 1076, the corrected year",
+      "Koumbi Saleh fell in 1086, give or take a year either side",
       "Koumbi Saleh declined towards the end of the eleventh century",
-      "Koumbi Saleh fell in 1086 exactly",
-      "Koumbi Saleh never fell"
+      "Koumbi Saleh fell in 1086 [FIRM], as the Arabic chronicle says"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Reign counts and oral dates cannot support a single year. {{gha1-intro}}",
      "kind": "application"
     },
@@ -470,10 +474,11 @@
      "t": "check",
      "q": "Two clans tell their origins. Clan A says it arrived first and founded the town; clan B admits it arrived later as clients of A. Which claim deserves more weight?",
      "o": [
-      "Clan A's, because founders remember best",
-      "Clan B's, because it goes against the teller's own interest",
-      "Neither can ever be weighed",
-      "Whichever is longer"
+      "Equal weight, since both are oral and neither can be checked",
+      "Clan B's, because it runs against the teller's own interest",
+      "Clan A's, because founders keep the fullest record of a town",
+      "Clan A's, because it is the version most townspeople repeat",
+      "Clan B's, because later arrivals remember migrations more freshly"
      ],
      "a": 1,
      "w": "A tradition that runs against its teller's interest has resisted the pull of flattery. {{gha1-vansina}}",
@@ -483,12 +488,13 @@
      "t": "check",
      "q": "A king list has 20 rulers and the average reign in the twentieth century was 20 years. Should you date the founding to 400 years ago?",
      "o": [
-      "Yes, that is the standard method",
-      "No: succession rules change the average, so mark any such date as calculated and approximate",
-      "Yes, if you add ten per cent",
-      "No: king lists are always invented"
+      "No: succession rules shift the average, so tag any such date as approximate",
+      "No: king lists are invented, so a founding date cannot be estimated at all",
+      "Yes, but only if two griots recite the list identically; then tag it [FIRM]",
+      "Yes: twenty-year reigns are the standard rate, so 400 years is sound",
+      "No: use 30-year generations instead, since early kings reigned for longer"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Yatenga's and Ouagadougou's successions give different averages. {{gha1-kizerbo15}} {{gha1-vansina}}",
      "kind": "application"
     },
@@ -624,12 +630,13 @@
      "t": "check",
      "q": "An essay quotes the Kano Chronicle as an eyewitness record of eleventh-century Kano. What is wrong?",
      "o": [
-      "Nothing",
-      "It is little more than written-down tradition, not known in written form before about the nineteenth century",
-      "It is a Songhai tarikh about Gao",
-      "It is a Portuguese report"
+      "It is a Portuguese traveller's report, so it describes Kano from outside",
+      "It was composed by Songhai scholars at Gao and only later copied in Kano",
+      "It is eyewitness for the eleventh century but tradition for later reigns",
+      "It is a reliable eyewitness record, but only for reigns it dates exactly",
+      "It is tradition written down late, not known as a text before the 1800s"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Unlike the Timbuktu tarikhs it does not criticise its traditions. {{gha1-fage}}",
      "kind": "application"
     },
@@ -637,10 +644,11 @@
      "t": "check",
      "q": "A student says the Sudanic belt was the only part of Africa with organised states before 1450, because that is where the Arabic sources describe states. What is the flaw?",
      "o": [
-      "None",
-      "Documents show where writers looked, not where states existed; central and southern Africa lack such texts",
-      "Arabic sources are always false",
-      "The Sudan had no states"
+      "It holds for central Africa but fails for the Swahili coast alone",
+      "Documents show where writers looked, not where states existed",
+      "Arabic writers had no motive to omit states, so the silence is evidence",
+      "States needed writing to keep accounts, so unwritten regions had none",
+      "The flaw is only the date: states arose elsewhere after 1450, not before"
      ],
      "a": 1,
      "w": "Absence of writing is not absence of states. {{gha1-djait}}",
@@ -771,12 +779,13 @@
      "t": "check",
      "q": "A blog argues that Swahili is a Semitic language because so many of its words come from Arabic. What is the best reply?",
      "o": [
-      "It is right",
-      "Borrowed words do not show descent; Swahili's structure and core vocabulary are Bantu",
-      "Arabic is not Semitic",
-      "Swahili has no Arabic words"
+      "It is wrong because Swahili's Arabic words came through Persian, not Arabic",
+      "It is right: a language belongs to whichever family supplies the most of its vocabulary",
+      "It is wrong because Swahili has only a handful of Arabic loanwords in all",
+      "Loanwords do not show descent; Swahili's structure and core vocabulary are Bantu",
+      "It is half right: Swahili is a mixed language, part Bantu and part Semitic"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Valid comparison uses a language's own heritage, not its borrowings. {{gha1-diagne}}",
      "kind": "application"
     },
@@ -784,12 +793,13 @@
      "t": "check",
      "q": "A charcoal sample from a furnace gives a radiocarbon date of 650 BCE. What two cautions apply?",
      "o": [
-      "None",
-      "It dates the tree, not the smelt, and it falls on the 800 to 400 BCE plateau, so the calendar date is imprecise",
-      "It is too young to date",
-      "Charcoal cannot be dated"
+      "It dates the tree, so the smelt itself must be older than 650 BCE",
+      "Furnace charcoal is contaminated by heat, so it cannot be dated at all",
+      "The wood may be older than the smelt, and the date sits on the 800 to 400 BCE plateau",
+      "It lies outside the plateau, so it can stand as a precise calendar date",
+      "It dates the smelt exactly, but the lab's error of about 50 years must always be quoted with it"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Old wood and the Hallstatt plateau both blur early iron dates. {{gha1-iskander}} {{intcal20}}",
      "kind": "application"
     },
@@ -967,12 +977,13 @@
      "t": "check",
      "q": "A Saharan site has grindstones and hoe-like tools but no plant remains. How should you describe it?",
      "o": [
-      "A farming village",
-      "Not yet shown to be farming: only plant remains, pollen or fields prove cultivation",
-      "A city",
-      "A nomad camp with no tools"
+      "Not yet shown to be farming: only plant remains, pollen or fields prove it",
+      "A farming village, since grindstones are used only to process grown cereals",
+      "An early farming site [PROBABLE], since tools and settlement together suggest it",
+      "A town of specialists, since purpose-made tools imply a division of labour",
+      "A herding camp, since tools without plant remains point to pastoral use"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Tools can serve other uses; millet at Tichitt is the clear exception. {{gha1-hugot}}",
      "kind": "application"
     },
@@ -980,12 +991,13 @@
      "t": "check",
      "q": "A textbook says 'Africa's geography cut it off from the world'. Which correction is best supported?",
      "o": [
-      "None",
-      "Relative, not absolute: Mediterranean and Indian Ocean trade ran for centuries, and the Atlantic was unused mainly because of the winds",
-      "Africa has many natural harbours",
-      "Africa was never isolated in any way"
+      "Isolation was real everywhere except Egypt, which faced the Mediterranean",
+      "Only the Sahara isolated Africa; its seas carried trade on every coast",
+      "Africa was never isolated, since its coasts have many deep natural harbours",
+      "Africa was fully isolated until Portuguese ships reached its coasts in the 1400s",
+      "Isolation was relative: Mediterranean and Indian Ocean trade ran for centuries"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Geography limited contact but did not prevent it. {{gha1-diarra}}",
      "kind": "application"
     },
@@ -1150,12 +1162,13 @@
      "t": "check",
      "q": "A documentary says: 'The Nok were the first people in sub-Saharan Africa to smelt iron.' Which correction is best supported?",
      "o": [
-      "None is needed: Nok has the oldest dates",
-      "Say Nok is among the early iron-using cultures; other sites have early claims and the radiocarbon plateau blurs 800 to 400 BCE",
-      "Say iron came only from Carthage",
-      "Say Nok had no iron at all"
+      "Meroë smelted iron first, so Nok should be called the second centre",
+      "Nok was first in West Africa, though not in sub-Saharan Africa as a whole",
+      "Nok was first, since it has the oldest radiocarbon dates of any iron site",
+      "Nok is among the early iron-using cultures; 'first' cannot be supported",
+      "Iron reached Nok from Carthage, so Nok cannot be first in any sense"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Nok is among the early iron-using cultures [PROBABLE], but 'first' cannot be supported [CONTESTED]. {{gha2-westafr}} {{gha9-bocoum}}",
      "kind": "application"
     },
@@ -1163,12 +1176,13 @@
      "t": "check",
      "q": "A textbook says 'wherever Bantu languages spread, ironworking went with them'. Which case tests that claim best?",
      "o": [
-      "Jenne-jeno",
-      "The Bubi of Fernando Po, who spoke a Bantu language but had no iron",
-      "The Nok",
-      "Ancient Egypt"
+      "Jenne-jeno, an iron-using town where no Bantu was spoken",
+      "Great Zimbabwe, a Bantu-speaking state that worked iron",
+      "The Bubi of Fernando Po, Bantu speakers who had no iron",
+      "Meroë, a Nile iron centre with no Bantu speakers at all",
+      "The Nok, early iron users whose language is unknown"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Language and technology must not be confused. {{gha1-olderogge}}",
      "kind": "application"
     },
@@ -1176,10 +1190,11 @@
      "t": "check",
      "q": "A website says the Yoruba descend directly from the Nok because both made fine terracotta heads. What is the main flaw?",
      "o": [
-      "The Yoruba never made sculpture",
-      "Style alone cannot show descent, and Nok language and identity are unknown",
-      "Terracotta cannot be dated",
-      "Nok sites were never excavated"
+      "The Yoruba never made terracotta heads, so the comparison itself fails",
+      "Style alone cannot show descent, and Nok's language and identity are unknown",
+      "Nok terracottas cannot be dated reliably, so no sequence of styles can ever be built",
+      "Nothing is wrong, provided the Ife heads copy Nok features exactly",
+      "Descent needs the two styles to be no more than 500 years apart"
      ],
      "a": 1,
      "w": "A likeness of style across 1,000 years is not a family tree. {{gha1-shaw}}",
@@ -1253,10 +1268,11 @@
      "t": "check",
      "q": "An excavated town has specialist quarters for smiths, potters and traders but no palace or royal burial. Which description fits best?",
      "o": [
-      "A kingdom ruled by one king",
-      "Heterarchy: power spread across specialist groups, as argued for Jenne-jeno",
-      "A colony of foreign merchants",
-      "A town that cannot be described at all"
+      "A colony run by foreign merchants who left no burials",
+      "Heterarchy: power spread across several specialist groups",
+      "Hierarchy: specialists ranked beneath one council of elders",
+      "An oligarchy: a merchant class ruling the craft quarters",
+      "A chiefdom whose ruler's palace has not yet been found"
      ],
      "a": 1,
      "w": "Heterarchy names power spread across groups rather than held by one ruler. {{mcintosh-rwe}}",
@@ -1266,12 +1282,13 @@
      "t": "check",
      "q": "A town had a wall in the first millennium CE. A student writes that the wall shows it had a king. What is this?",
      "o": [
-      "A finding",
-      "An inference, which should be labelled as such, since a wall does not by itself show kingship",
-      "A traditional date",
-      "Thin evidence"
+      "A contested finding, since scholars disagree about the wall's date",
+      "A finding, since a wall of that size needs a central authority to plan and build it",
+      "Thin evidence, which is simply another name for an inference",
+      "A traditional date, since it rests on what townspeople say of the wall",
+      "An inference, to be labelled as such: a wall alone does not show kingship"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Jenne-jeno had a wall and no sign of a ruling elite. {{rd-jj}}",
      "kind": "application"
     },
@@ -1354,11 +1371,12 @@
      "q": "A griot gives a date for a battle. What is the safest tag?",
      "o": [
       "[FIRM]",
+      "[CONTESTED]",
       "[TRADITIONAL DATE]",
-      "[CONTESTED] always",
-      "No tag"
+      "No tag, since the griot is the source",
+      "[ESTIMATE]"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Oral tradition gives approximate dates unless another kind of evidence supports them. {{gha1-vansina}}",
      "kind": "application"
     },
@@ -1366,12 +1384,13 @@
      "t": "check",
      "q": "You find that a short Wolof word sounds like an ancient Egyptian word with a similar meaning. What can you conclude from that alone?",
      "o": [
-      "The languages are related",
-      "There was a migration from Egypt",
-      "Nothing yet: you would need regular sound correspondences across many words",
-      "Egypt was Wolof-speaking"
+      "Wolof borrowed the word from Egyptian through Saharan trade",
+      "The two languages are related, though only distantly",
+      "One match is enough, provided the two meanings are exactly identical",
+      "Nothing yet: it needs regular sound matches across many words",
+      "There was a migration from the Nile valley to Senegal"
      ],
-     "a": 2,
+     "a": 3,
      "w": "Chance resemblances are common among short words. {{dio-method-006}}",
      "kind": "application"
     },
@@ -1488,24 +1507,26 @@
      "t": "check",
      "q": "What does the working definition of oral tradition require?",
      "o": [
-      "A written copy",
-      "Word-of-mouth transmission over at least one generation",
-      "A king as author",
-      "A date"
+      "Transmission by word of mouth over at least one generation",
+      "A fixed text memorised word for word by trained specialists",
+      "Testimony written down by an outsider within a generation",
+      "Any story about the past told by members of a royal court",
+      "An account of events that the teller witnessed in person"
      ],
-     "a": 1,
+     "a": 0,
      "w": "That is the definition reported from his 1985 book. {{wiki-oral}}"
     },
     {
      "t": "check",
      "q": "Why should a date from a founding tradition be tagged traditional?",
      "o": [
-      "Griots are unreliable",
-      "Details thin in the floating gap and tellers shape the past",
-      "Oral tradition has no dates",
-      "Writing is always better"
+      "Oral tradition counts in generations, so it holds no dates at all",
+      "Founding stories are remembered best, so only later dates need tags",
+      "Details thin out in the floating gap, and tellers shape the past",
+      "The dates were added by colonial collectors who wrote stories down",
+      "Griots were paid by rulers, so every date they give is invented"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Vansina names the floating gap and the way tellers shape the past for present needs as the cautions. {{gha1-vansina}} {{vansina-jstor}}"
     },
     {

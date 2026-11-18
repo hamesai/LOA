@@ -171,12 +171,13 @@
      "t": "check",
      "q": "A museum label says Kerma had a Bronze Age by 2000 BCE, citing its many copper daggers. What should the label say instead?",
      "o": [
-      "Leave it as it is",
-      "The daggers were never analysed, so whether they are copper or bronze is not known",
-      "The daggers are iron",
-      "The daggers are Roman"
+      "Copper daggers prove a Copper Age, so the label should say that instead",
+      "Kerma had a Bronze Age by 2000 BCE, but it should be tagged [PROBABLE]",
+      "A Bronze Age needs tin mines nearby, and Kerma had none, so it is false",
+      "Kerma's daggers were imported from Egypt, so they show nothing local",
+      "The daggers were never analysed, so copper or bronze is not known"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Without analysis the alloy is unknown, so a Bronze Age claim outruns the evidence. {{gha1-vercoutter}}",
      "kind": "application"
     },
@@ -184,12 +185,13 @@
      "t": "check",
      "q": "A student writes: 'The Egyptians shared customs with peoples to the south, so they were the same people.' Which mistake does the Cairo report warn against?",
      "o": [
-      "Using Greek writers",
+      "Treating shared language as proof of shared customs",
+      "Treating Greek writers' descriptions of Egypt as neutral evidence",
+      "Treating pottery styles as a reliable guide to dates",
       "Treating a shared culture as proof of a shared ethnic base",
-      "Dating by pottery",
-      "Using DNA"
+      "Treating the Nile cataracts as a barrier to contact"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Culture, language and ancestry are separate questions. {{gha2-egypt}}",
      "kind": "application"
     },
@@ -383,10 +385,11 @@
      "t": "check",
      "q": "A documentary says 'we can read Meroitic, so Kush speaks for itself'. What is the correction?",
      "o": [
-      "It is right",
-      "The signs can be read but the language is not understood, so most texts cannot be translated",
-      "No Meroitic texts survive",
-      "Meroitic is Greek"
+      "Only a handful of Meroitic inscriptions have ever been found",
+      "The signs can be read, but the language is barely understood",
+      "Meroitic is written Egyptian, so it was never a separate tongue",
+      "The language is understood, but the script is still unread",
+      "It is right: Griffith deciphered the language fully in 1909"
      ],
      "a": 1,
      "w": "Griffith's 1909 key gave the sound values; about 800 texts remain untranslated. {{gha2-kush1}}",
@@ -396,12 +399,13 @@
      "t": "check",
      "q": "A textbook says Meroë was 'the Birmingham of Africa'. How should you tag that?",
      "o": [
-      "[FIRM]",
       "[CONTESTED]: smelting is attested, but its scale and role are disputed",
-      "False: there was no iron",
-      "[TRADITIONAL DATE]"
+      "[FIRM]: the furnaces reported in 1977 confirmed industrial-scale production",
+      "False: no iron-smelting furnaces have been found at Meroë at all",
+      "[TRADITIONAL DATE]: the claim rests on Meroë's own king lists",
+      "[THIN EVIDENCE]: no slag has been found anywhere in Kush"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The furnaces reported in 1977 reopened the question; it is far from concluded. {{gha2-kush2}}",
      "kind": "application"
     },
@@ -529,12 +533,13 @@
      "t": "check",
      "q": "Someone claims Aksum is 'more a word than a reality', known from one obelisk and two statue bases. What is the best reply?",
      "o": [
-      "Agree",
-      "Aksum has its own coins from the third century, inscriptions, temples, about forty major sites and over 140 stelae",
-      "Aksum was Egyptian",
-      "Aksum is known only from the Kebra Nagast"
+      "Aksum is real, but its only firm evidence is the inscription of Ezana",
+      "Agree: Aksum is known mostly from the Kebra Nagast and Greek reports",
+      "Aksum minted coins, left inscriptions, and has dozens of sites and 140+ stelae",
+      "Aksum's remains are real, but they all date from after the Solomonic line began",
+      "Aksum was real, but it was an Egyptian outpost rather than a kingdom"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The claim, made by Diop, is wrong against the coins and the archaeology. {{dio-egypt-006}} {{rd-axum}} {{gha2-aksum1}}",
      "kind": "application"
     },
@@ -542,12 +547,13 @@
      "t": "check",
      "q": "An essay dates Adulis to 'the Periplus of AD 100'. What should you change?",
      "o": [
-      "Nothing",
-      "Give the Periplus a date range, since scholars date it from about 100 to about 230",
-      "Date it to 647",
-      "Remove Adulis"
+      "Nothing: AD 100 is the agreed date, so it can stand as written",
+      "Drop the date, since the Periplus does not mention Adulis at all",
+      "Tag AD 100 [TRADITIONAL DATE], since it comes from oral sources",
+      "Date the Periplus to 647 instead, the year given for Cosmas's account of Adulis",
+      "Give the Periplus a range, since scholars date it from about 100 to 230"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Two chapters of one UNESCO volume give about 100 and about 230. {{gha1-fage}} {{gha1-djait}}",
      "kind": "application"
     },
@@ -648,12 +654,13 @@
      "t": "check",
      "q": "A map labels the Sudan of 1700 with a sharp line: 'Arab north, African south'. What is wrong with it?",
      "o": [
-      "Nothing",
-      "The boundary was a wide, shifting zone where identities changed with politics and economics; the sharp line is a colonial-era picture",
-      "The north was Christian in 1700",
-      "The south was ruled from Cairo"
+      "The boundary was a wide, shifting zone where identities changed",
+      "Nothing: Arab and African identities were fixed at birth by 1700",
+      "The north was still Christian Nubia in 1700, so the label is wrong",
+      "The line is right but sits too far north; it belongs at Sennar",
+      "The line is right for 1700 but wrong for the medieval period"
      ],
-     "a": 1,
+     "a": 0,
      "w": "People became Arab, Funj, Shilluk, Nuer or Dinka as conditions changed. {{gha5-sudan}}",
      "kind": "application"
     },
@@ -661,12 +668,13 @@
      "t": "check",
      "q": "A student writes that Muslim armies conquered Nubia and forced it to convert in the seventh century. Which evidence best corrects this?",
      "o": [
-      "The Kebra Nagast",
-      "The baqt kept peace for about six centuries; Dongola's cathedral became a mosque only in 1317, and a bishop still served in 1372",
-      "Aksumite coins",
-      "Ezana's inscription"
+      "Nubia was converted by force, but only in the tenth century",
+      "Ezana's inscription records Nubia's forced conversion by Aksum",
+      "Aksumite coins show that Nubia's kings were Muslim by the eighth century",
+      "The baqt kept peace for centuries, and a bishop still served in 1372",
+      "The Kebra Nagast describes Nubia's conquest as peaceful"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The change was slow: treaty, pressure, intermarriage and royal conversion. {{gha4-nubia}}",
      "kind": "application"
     },
@@ -830,12 +838,13 @@
      "t": "check",
      "q": "You must write one paragraph on the Gran war. Which set of sources gives you more than one side?",
      "o": [
-      "The Kebra Nagast alone",
-      "The Royal Chronicle of Lebna Dengel, the Futuh al-Habasha and a Portuguese eyewitness such as Castanhoso",
-      "Aksumite coins",
-      "The Funj Chronicle"
+      "Castanhoso, read against later Portuguese Jesuit histories",
+      "The Futuh al-Habasha, read against a second Muslim chronicle",
+      "Lebna Dengel's chronicle, the Futuh al-Habasha and Castanhoso",
+      "The Funj Chronicle, read against Lebna Dengel's royal chronicle",
+      "The Kebra Nagast, read against the Royal Chronicle of Lebna Dengel"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Ethiopian, Muslim and Portuguese accounts can be set against each other. {{gha1-hrbek}}",
      "kind": "application"
     },
@@ -843,10 +852,11 @@
      "t": "check",
      "q": "A summary says Yekuno Amlak became king in 1270 because he was the heir of Solomon. How should you rewrite it?",
      "o": [
-      "Keep it",
-      "He took power through alliances, trade and force; the Solomonic descent is a later legitimising claim",
-      "He was appointed by Egypt",
-      "Aksum still ruled in 1270"
+      "He inherited the throne from the last Zagwe king, his uncle",
+      "He won power by alliance, trade and force; Solomonic descent came later",
+      "Keep it: his Solomonic descent is attested in early Aksumite royal inscriptions",
+      "He was appointed by the Mamluk sultan of Egypt as a client ruler",
+      "He was heir of Solomon, but the date should be tagged [CONTESTED]"
      ],
      "a": 1,
      "w": "The Kebra Nagast was compiled in the 14th century to justify the line. {{gha4-horn}} {{worldhistory-kebra}}",
@@ -924,25 +934,27 @@
      "t": "check",
      "q": "Which gap is the longest?",
      "o": [
-      "Piye to Meroë burials",
-      "Meroë burials to Ezana",
       "Yekuno Amlak to Wayna Daga",
-      "Baybars to the last Nubian king"
+      "Ezana to the baqt treaty",
+      "Piye to Meroë burials",
+      "Baybars to the last Nubian king",
+      "Meroë burials to Ezana"
      ],
-     "a": 1,
-     "w": "About 635 years, against 444, 273 and 121 (our arithmetic).",
+     "a": 4,
+     "w": "About 635 years, against 444, 273, 121, and about 300 from Ezana to the baqt of 652 (our arithmetic).",
      "kind": "application"
     },
     {
      "t": "check",
      "q": "Two reference chapters give Cosmas Indicopleustes as 647 and about 535. What should you write?",
      "o": [
-      "647, the more precise",
+      "About 535, since the earlier date is usually the better",
+      "647, since the more precise date should be preferred",
       "The sixth century, flagging that one date looks wrong",
-      "Both, without comment",
-      "Neither: he is undated"
+      "Neither: write that Cosmas cannot be dated to a century",
+      "Both, without comment, so the reader can choose freely"
      ],
-     "a": 1,
+     "a": 2,
      "w": "When dates differ, give the defensible range and flag the disagreement. {{gha1-djait}}",
      "kind": "application"
     },
@@ -1048,10 +1060,11 @@
      "t": "check",
      "q": "A desert-edge group conquers a city, rules for three generations and loses its cohesion. Which of Ibn Khaldun's ideas is being applied?",
      "o": [
-      "The baqt",
+      "Heterarchy, power spread among groups",
       "Asabiya, group solidarity or feeling",
-      "Heterarchy",
-      "The tophet"
+      "The floating gap in oral tradition",
+      "The baqt, a treaty of mutual exchange",
+      "Hijra, migration for the sake of faith"
      ],
      "a": 1,
      "w": "Wikipedia gives asabiya as solidarity, group feeling or group consciousness. {{wiki-khaldun}}",
@@ -1061,12 +1074,13 @@
      "t": "check",
      "q": "Why is the Kebra Nagast better evidence of the winners' image than of the past?",
      "o": [
-      "It is very old",
-      "It was compiled after the change of power to legitimise it",
-      "It was written by Greeks",
-      "It names no kings"
+      "It names no kings, so it cannot be tied to any real events",
+      "It is so old that its account of events has become garbled",
+      "It was written by Greek visitors who misunderstood the court",
+      "It was compiled after the change of power, to legitimise it",
+      "It was translated from Arabic, so its original meaning is lost"
      ],
-     "a": 1,
+     "a": 3,
      "w": "It is a legitimising text."
     },
     {

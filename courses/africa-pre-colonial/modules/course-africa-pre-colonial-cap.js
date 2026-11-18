@@ -79,24 +79,26 @@
      "t": "check",
      "q": "What must every date or figure in the atlas carry?",
      "o": [
-      "A footnote",
+      "A converted modern value",
+      "A footnote to a textbook",
+      "A page number only",
       "An honest evidence tag",
-      "A colour",
-      "A currency"
+      "A map colour"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The rubric requires honest tagging; no uncertain claim stated as fact."
     },
     {
      "t": "check",
      "q": "How many fixed-length items (summaries, essay, reflection) take up words before the free sections?",
      "o": [
-      "450",
-      "900",
+      "2,500",
       "1,800",
-      "2,500"
+      "900",
+      "450",
+      "1,200"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Three summaries (450) plus essay (300) plus reflection (150) is 900 (our arithmetic)."
     },
     {
@@ -188,22 +190,24 @@
      "t": "check",
      "q": "Which of these is an African-authored source?",
      "o": [
-      "Leo Africanus",
-      "Tarikh al-Sudan",
+      "Cosmas's Topography",
+      "Castanhoso's account",
+      "Frobenius's reports",
       "The Periplus",
-      "Frobenius"
+      "Tarikh al-Sudan"
      ],
-     "a": 1,
+     "a": 4,
      "w": "It was written in Timbuktu by al-Sa'di. {{timbuktu-chron}}"
     },
     {
      "t": "check",
      "q": "What should the bias column of your evidence table contain?",
      "o": [
-      "The price of the source",
+      "The price of the source and where to buy it",
       "Who wrote it, for whom, and what it leaves out",
-      "The language only",
-      "The library shelf"
+      "The library shelf mark and the edition you used",
+      "Whether you agree with the author's conclusions",
+      "The language it was written in, and nothing else"
      ],
      "a": 1,
      "w": "That is the core source-critical skill."
@@ -311,9 +315,10 @@
      "q": "What four things does the template ask for?",
      "o": [
       "Date, carrier, purpose, second check",
-      "Price, size, colour, place",
       "Author, title, publisher, ISBN",
-      "Weather, mood, time, place"
+      "Price, size, colour, place",
+      "Date, author, length, language",
+      "Date, place, teller and size of audience"
      ],
      "a": 0,
      "w": "Gap, carrier and purpose, and a second kind of evidence. {{wiki-oral}}"
@@ -324,8 +329,9 @@
      "o": [
       "127 years",
       "100 years",
+      "137 years",
       "160 years",
-      "200 years"
+      "117 years"
      ],
      "a": 0,
      "w": "1655 minus 1528 is 127. This is our arithmetic."

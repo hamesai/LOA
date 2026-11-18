@@ -143,24 +143,26 @@
      "t": "check",
      "q": "At a live public auction you can attend, how does the Consumer Rights Act treat you as a buyer of second-hand goods?",
      "o": [
-      "As a full consumer for every rule",
-      "Not as a consumer for most of the quality rules",
+      "Not as a consumer for most quality rules",
       "As a trader with extra rights",
-      "The Act does not mention auctions"
+      "The Act does not mention auctions",
+      "As a full consumer, since second-hand goods are always covered by the Act",
+      "As a full consumer for every rule"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Section 2(5) says a person is not a consumer for Chapter 2 where the goods are second-hand goods sold at a public auction people can attend in person. {{cra-s2}}"
     },
     {
      "t": "check",
      "q": "What should you record for every purchase?",
      "o": [
-      "Only the price",
-      "Date, seller, price and place",
       "Nothing, until you sell",
-      "Only the photographs"
+      "Only the price and the item's name",
+      "Only the price",
+      "Only the photographs",
+      "Date, seller, price and place"
      ],
-     "a": 1,
+     "a": 4,
      "w": "You must be able to show the source of each item and, later, the cost for your accounts. {{bc-business}}"
     },
     {
@@ -293,10 +295,11 @@
      "t": "check",
      "q": "In the worked example, what happens if the seller will not go below £20?",
      "o": [
-      "Buy; £20 is close enough",
-      "Pay £20 and cut the postage",
-      "Walk away; £20 exceeds the £17.70 ceiling",
-      "Buy it and hope the price rises"
+      "Buy it and hope the price rises",
+      "Buy it, then raise the listing price to cover the difference",
+      "Walk away: £20 is over the £17.70 ceiling",
+      "Buy: £20 is close enough",
+      "Pay £20 and cut the postage"
      ],
      "a": 2,
      "w": "The ceiling already includes your target profit. Paying £20 leaves £12.73 profit, which misses the target of £15."
@@ -305,12 +308,13 @@
      "t": "check",
      "q": "You are pricing a 1970s lamp. Listings ask £45 to £120, and three identical lamps sold last month for £38, £42 and £40. Which figure should you price from?",
      "o": [
-      "The highest asking price",
       "The average asking price",
+      "The highest asking price",
+      "The average of all asking prices you can find",
       "Recent sold prices for the same item",
       "The price you paid"
      ],
-     "a": 2,
+     "a": 3,
      "w": "Sold prices show what buyers actually paid. Asking prices are only offers.",
      "kind": "application"
     },
@@ -441,8 +445,9 @@
      "o": [
       "Margin is always misleading",
       "Cash comes back sooner from faster sales",
-      "Higher margins are illegal",
-      "Fees are lower on slow items"
+      "Slow items always attract higher fees on every platform",
+      "Fees are lower on slow items",
+      "Higher margins are illegal"
      ],
      "a": 1,
      "w": "Cash that returns sooner can be reinvested. Unsold stock ties up capital.",
@@ -453,11 +458,12 @@
      "q": "You find an upholstered armchair with no safety label. What should you do?",
      "o": [
       "Buy it and add your own label",
-      "Check it is exempt (pre-1950) or verified safe before buying",
-      "Ignore it; the rules only cover new items",
-      "Sell it cheaply to avoid the rules"
+      "Buy it, since second-hand furniture is outside the fire safety rules altogether",
+      "Ignore it; the rules cover only new items",
+      "Sell it cheaply to avoid the rules",
+      "Check it is exempt (pre-1950) or verified safe first"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Furniture made before 1 January 1950 is excluded, but items without the label that cannot be verified may not comply and should not be sold. {{bc-upholstered}} {{leg-ffr}}"
     },
     {
@@ -586,32 +592,35 @@
      "q": "In the worked example, what is channel B's sell-through?",
      "o": [
       "20%",
+      "80%",
       "40%",
-      "60%",
-      "80%"
+      "25%",
+      "60%"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Two of five items sold, which is 40%."
     },
     {
      "t": "check",
      "q": "In his 1767 letter, what did Wedgwood say he would do after the earths and clays?",
      "o": [
-      "Stop",
-      "Go upon glazes",
+      "Retire",
       "Sell the works",
-      "Retire"
+      "Move on to new shapes",
+      "Go upon glazes",
+      "Stop"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He said he would next go upon glazes. {{meteyard-1}}"
     },
     {
      "t": "check",
      "q": "Why change only one thing between tests?",
      "o": [
-      "It is cheaper",
-      "You can tell what caused the change in results",
+      "Changing several things gives faster results",
+      "You can tell what caused the change",
       "Platforms require it",
+      "It is cheaper",
       "It lowers tax"
      ],
      "a": 1,

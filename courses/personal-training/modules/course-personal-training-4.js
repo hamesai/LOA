@@ -130,12 +130,13 @@
      "t": "check",
      "q": "A client wants a higher vertical jump but only does slow leg presses. What does the principle of specificity predict?",
      "o": [
-      "Any exercise improves every skill equally",
-      "Gains are greatest when training matches the outcome measured",
       "Only cardio matters",
-      "Rest causes strength"
+      "Rest causes strength",
+      "Any heavy leg exercise improves the jump just as much as jump training",
+      "Gains are greatest when training matches the outcome",
+      "Any exercise improves every skill equally"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The pooled analysis highlights specificity: training matched to the outcome gives the greatest improvement. {{swinton2024}}",
      "kind": "application"
     },
@@ -143,12 +144,13 @@
      "t": "check",
      "q": "About how much extra average effect did each additional week of training add?",
      "o": [
+      "0.13",
       "0.003",
-      "0.03",
+      "3",
       "0.3",
-      "3"
+      "0.03"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The model estimated about +0.03 standard deviations per extra week. {{swinton2024}}"
     },
     {
@@ -258,10 +260,11 @@
      "t": "check",
      "q": "A client wants to improve vertical jump with a loaded squat jump. Which load did the analysis favour?",
      "o": [
-      "Very heavy, near 1RM",
-      "Light, around 30% of 1RM",
       "Bodyweight only",
-      "Exactly 70%"
+      "Light, around 30% of 1RM",
+      "Heavy, around 80–90% of 1RM",
+      "Exactly 70%",
+      "Very heavy, near 1RM"
      ],
      "a": 1,
      "w": "Jump performance showed a monotonic decrease with load, with the largest effects at about 30% 1RM. {{swinton2024}}"
@@ -270,12 +273,13 @@
      "t": "check",
      "q": "What happened to gains in maximum strength as load rose beyond about 70% of 1RM?",
      "o": [
+      "They kept rising, but more slowly",
+      "They stopped rising entirely past 70%",
       "Gains reversed",
-      "Gains kept increasing but more slowly",
       "Nothing changed at all",
       "Gains doubled"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The best-estimate profile for strength inflected near 70% 1RM, after which gains continued to slow with more load. {{swinton2024}}"
     },
     {
@@ -383,24 +387,26 @@
      "t": "check",
      "q": "According to the muscle-size meta-regression, adding four weekly sets is associated with how much extra growth on average?",
      "o": [
-      "0.37%",
-      "About 1.5 percentage points",
+      "About 4 percentage points (1 per set)",
       "15%",
-      "Nothing"
+      "About 1.5 percentage points",
+      "Nothing",
+      "0.37%"
      ],
-     "a": 1,
+     "a": 2,
      "w": "4 x 0.37% = 1.48 percentage points of extra gain, as an average model estimate. {{schoenfeld2017}}"
     },
     {
      "t": "check",
      "q": "A client can only train twice a week and fears it is pointless. What did the 2024 analysis find about how much frequency predicts gains?",
      "o": [
+      "Only once a week works",
       "It was the strongest predictor",
-      "It added little predictive value",
-      "More than 5 hurts",
-      "Only 1 works"
+      "It was the strongest predictor of gains, above total weekly sets",
+      "More than 5 a week hurts",
+      "It added little predictive value"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Frequency lacked predictive power in that large heterogeneous dataset. {{swinton2024}}",
      "kind": "application"
     },
@@ -514,24 +520,26 @@
      "t": "check",
      "q": "According to the meta-regression, what happened to strength gains across different proximity to failure?",
      "o": [
-      "Strength rose steeply nearer failure",
-      "Strength gains were similar across a wide range of RIR",
-      "Strength fell nearer failure",
-      "Strength could not be measured"
+      "Fell nearer failure",
+      "Rose steeply nearer failure",
+      "Similar across a wide range of RIR",
+      "Rose steeply only in the last rep before failure",
+      "Could not be measured"
      ],
-     "a": 1,
+     "a": 2,
      "w": "For strength outcomes the confidence intervals contained zero, indicating a negligible relationship with RIR. {{robinson2024}}"
     },
     {
      "t": "check",
      "q": "A colleague insists every set must stop exactly two reps short of failure because 'the research proves it'. Why is that too strong?",
      "o": [
-      "RIR does not exist",
-      "RIR was estimated from descriptions and the analysis was exploratory",
+      "Only men took part",
       "The study was too long",
-      "Only men took part"
+      "The research proves it beyond doubt, so the claim is not too strong at all",
+      "RIR was estimated from descriptions; the analysis was exploratory",
+      "RIR does not exist"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The authors said the estimation procedures leave the exact relationship unclear and the analysis was exploratory. {{robinson2024}}",
      "kind": "application"
     },
@@ -656,12 +664,13 @@
      "t": "check",
      "q": "What are the three stages of the general adaptation syndrome?",
      "o": [
-      "Start, middle, end",
       "Alarm, resistance, exhaustion",
       "Warm-up, work, cool-down",
+      "Start, middle, end",
+      "Alarm, recovery, supercompensation",
       "Sleep, eat, train"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Alarm reaction, stage of resistance and stage of exhaustion. {{pmc-selye}}"
     },
     {
@@ -669,9 +678,10 @@
      "q": "What did Selye find in the rats whatever the noxious agent?",
      "o": [
       "A different result each time",
-      "The same triad: enlarged adrenals, shrunken thymus, ulcers",
+      "The same triad: big adrenals, small thymus, ulcers",
+      "Weight gain",
       "No change",
-      "Weight gain"
+      "A different set of changes for each of the agents he used"
      ],
      "a": 1,
      "w": "Every injected noxious agent produced the same findings. {{pmc-selye}}"
@@ -680,12 +690,13 @@
      "t": "check",
      "q": "Why call the model a rule of thumb?",
      "o": [
-      "It is old",
-      "Recent reviews have tried to refute it as a framework for training",
+      "It has been proven in many human training trials, so the label is only modesty",
       "It has no stages",
-      "It is only for rats"
+      "It is only for rats",
+      "Recent reviews have tried to refute it as a training framework",
+      "It is old"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The 2018 review says recent reviews have tried to refute the syndrome as a training framework. {{cunanan}}"
     },
     {

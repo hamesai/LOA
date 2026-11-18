@@ -213,35 +213,38 @@
      "q": "How does Aristotle define rhetoric?",
      "o": [
       "The art of ornament",
-      "The faculty of observing the available means of persuasion in any given case",
-      "The study of grammar",
-      "The art of winning at any cost"
+      "The art of winning at any cost",
+      "The art of moving any audience to agree, whatever the case or the truth",
+      "The faculty of observing the available means of persuasion",
+      "The study of grammar"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He defines it as the faculty of observing in any given case the available means of persuasion. {{arist-b1}}"
     },
     {
      "t": "check",
      "q": "A member of an assembly deciding about a plan is a hearer of which kind of speech?",
      "o": [
+      "None",
+      "Political",
       "Forensic",
       "Ceremonial",
-      "Political",
-      "None"
+      "Forensic (legal)"
      ],
-     "a": 2,
+     "a": 1,
      "w": "A member of the assembly decides about future events, which is political oratory. {{arist-b1}}"
     },
     {
      "t": "check",
      "q": "According to Aristotle, where must persuasion by character be achieved?",
      "o": [
+      "By the audience's gossip",
+      "By the speaker's reputation before the speech",
       "Before the speech begins",
-      "By what the speaker says",
       "On the title page",
-      "By the audience's gossip"
+      "By what the speaker says"
      ],
-     "a": 1,
+     "a": 4,
      "w": "It must be achieved by what the speaker says, not by prior reputation. {{arist-b1}}"
     },
     {
@@ -256,12 +259,13 @@
    "quiz": {
     "q": "What does the Greek word logos name in Aristotle's scheme?",
     "o": [
-     "Character",
-     "Emotion",
      "Argument",
-     "Delivery"
+     "Character and credibility",
+     "Emotion",
+     "Delivery",
+     "Character"
     ],
-    "a": 2,
+    "a": 0,
     "w": "Logos is the proof provided by the words of the speech. {{arist-b1}}"
    }
   },
@@ -373,22 +377,24 @@
      "t": "check",
      "q": "Into which two groups did Aristotle sort types of character in Book II?",
      "o": [
+      "Classes and professions",
+      "Speed and volume",
       "Height and weight",
-      "Ages and fortunes",
       "Cities and villages",
-      "Speed and volume"
+      "Ages and fortunes"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He sorts by ages and by fortune. {{mit-arist}}"
     },
     {
      "t": "check",
      "q": "What does he say people think of speeches that reflect their own character?",
      "o": [
-      "They dislike them",
+      "They distrust them as flattery",
       "They always think well of them",
+      "They fear them",
       "They ignore them",
-      "They fear them"
+      "They dislike them"
      ],
      "a": 1,
      "w": "People always think well of speeches adapted to, and reflecting, their own character. {{mit-arist}}"
@@ -397,12 +403,13 @@
      "t": "check",
      "q": "How should you use Aristotle's lists today?",
      "o": [
+      "Copy them into your speech",
       "As proven facts about groups",
-      "As prompts for questions you check with real data",
       "Never read them",
-      "Copy them into your speech"
+      "As proven facts about age groups that still hold today",
+      "As prompts for questions you check with real data"
      ],
-     "a": 1,
+     "a": 4,
      "w": "They are generalisations of his time, so use them as prompts and gather real facts."
     },
     {
@@ -417,12 +424,13 @@
    "quiz": {
     "q": "What two features did Aristotle use to sort types of audience character?",
     "o": [
-     "Age and fortune",
-     "Height and weight",
+     "Class and profession",
+     "Speed and volume",
      "City and country",
-     "Speed and volume"
+     "Height and weight",
+     "Age and fortune"
     ],
-    "a": 0,
+    "a": 4,
     "w": "He sorted by ages and by fortune. {{mit-arist}}"
    }
   },
@@ -552,12 +560,13 @@
      "t": "check",
      "q": "Which five parts does the dialogue give to the orator's business?",
      "o": [
-      "Open, middle, end, thanks, questions",
       "Find, arrange, clothe in language, remember, deliver",
+      "Plan, hire, build, sell, close",
+      "Open, set out the facts, prove, refute and close with feeling",
       "Read, write, edit, print, post",
-      "Plan, hire, build, sell, close"
+      "Open, middle, end, thanks, questions"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Find out what to say, arrange it, clothe it in language, secure it in memory, deliver it. {{cicero-w}}"
     },
     {
@@ -565,11 +574,12 @@
      "q": "How does the memory method keep the order of the points?",
      "o": [
       "By the pitch of the voice",
+      "By rhymes and repeated key phrases",
+      "By writing them down",
       "By the order of imagined places",
-      "By counting",
-      "By writing them down"
+      "By counting"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Thoughts are recalled by images and their order by place. {{cicero-w}}"
     },
     {
@@ -577,9 +587,10 @@
      "q": "What does the dialogue say practice can and cannot do for memory?",
      "o": [
       "It can create any memory",
-      "It cannot create memory where nature gives none, but can bring out a latent one",
-      "It always fails",
-      "It only works on children"
+      "It can't create memory where none exists, but can bring one out",
+      "It only works on children",
+      "It can create a strong memory in anyone, whatever nature has given them",
+      "It always fails"
      ],
      "a": 1,
      "w": "Practice cannot form a memory if none is given by nature, but may call out a latent faculty. {{cicero-w}}"
@@ -596,12 +607,13 @@
    "quiz": {
     "q": "Which are the five canons of rhetoric?",
     "o": [
-     "Invention, arrangement, style, memory, delivery",
-     "Opening, middle, end, thanks, questions",
+     "Exordium, narration, proof, refutation and peroration",
      "Voice, face, hands, feet, eyes",
-     "Plan, write, edit, print, post"
+     "Opening, middle, end, thanks, questions",
+     "Plan, write, edit, print, post",
+     "Invention, arrangement, style, memory, delivery"
     ],
-    "a": 0,
+    "a": 4,
     "w": "They are invention, arrangement, style, memory and delivery. {{cicero-w}} {{open-rhet}}"
    }
   },
@@ -723,12 +735,13 @@
      "t": "check",
      "q": "What was the sole purpose of the exordium, according to Quintilian?",
      "o": [
+      "To prepare the audience to lend a ready ear",
       "To entertain",
-      "To prepare the audience to lend a ready ear to the rest",
       "To list the evidence",
+      "To set out all the facts of the case in their order",
       "To give thanks"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He says the sole purpose is to prepare the audience so they lend a ready ear. {{archive-q}}"
     },
     {
@@ -736,23 +749,25 @@
      "q": "What three conditions do most authors say the exordium should create?",
      "o": [
       "Hungry, tired, bored",
-      "Well-disposed, attentive and ready to receive instruction",
       "Angry, afraid, amused",
-      "Loud, quick, short"
+      "Loud, quick, short",
+      "Well-disposed, attentive and ready to learn",
+      "Amused, impressed and fully persuaded at once"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Making the audience well-disposed, attentive and ready to receive instruction. {{archive-q}}"
     },
     {
      "t": "check",
      "q": "Which three qualities do most writers give the statement of facts?",
      "o": [
-      "Long, loud, loose",
-      "Lucid, brief, plausible",
+      "Open, closed, quiet",
+      "Full, vivid and deeply moving",
       "Old, new, bold",
-      "Open, closed, quiet"
+      "Long, loud, loose",
+      "Lucid, brief, plausible"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Most hold it should be lucid, brief and plausible. {{archive-q}}"
     },
     {
@@ -768,11 +783,12 @@
     "q": "Which part of a speech outlines what will follow?",
     "o": [
      "Exordium",
-     "Partitio",
      "Peroratio",
+     "Confirmatio",
+     "Partitio",
      "Narratio"
     ],
-    "a": 1,
+    "a": 3,
     "w": "The partitio, or division, outlines what follows. {{sr-partitio}}"
    }
   },
@@ -916,21 +932,23 @@
      "q": "How old was Churchill when he wrote The Scaffolding of Rhetoric?",
      "o": [
       "15",
-      "23",
+      "60",
       "40",
-      "60"
+      "23",
+      "33"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He wrote it in November 1897 when he was 23. {{churchill-pdf}}"
     },
     {
      "t": "check",
      "q": "What did Churchill say about analogy?",
      "o": [
+      "It is only for children",
+      "It leads to conviction, not proof, and often to error",
       "It proves the claim",
-      "It leads to conviction rather than proof and has often led to error",
-      "It should be avoided",
-      "It is only for children"
+      "It proves a claim more surely than any evidence or argument can",
+      "It should be avoided"
      ],
      "a": 1,
      "w": "He said argument by analogy leads to conviction rather than proof. {{churchill-pdf}}"
@@ -939,12 +957,13 @@
      "t": "check",
      "q": "Which word type did he say great English orators preferred?",
      "o": [
-      "Long Latin words",
       "Short, homely words of common usage",
       "Technical terms",
-      "Foreign words"
+      "Foreign words",
+      "Long Latin words",
+      "Long, grand words drawn from Latin and Greek"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He noted a uniform preference for short, homely words. {{churchill-pdf}}"
     },
     {
@@ -960,11 +979,12 @@
     "q": "How old was Churchill when he wrote The Scaffolding of Rhetoric?",
     "o": [
      "15",
-     "23",
+     "60",
      "40",
-     "60"
+     "23",
+     "33"
     ],
-    "a": 1,
+    "a": 3,
     "w": "He wrote it in 1897 when he was 23. {{churchill-pdf}}"
    }
   },
@@ -1099,22 +1119,24 @@
      "t": "check",
      "q": "To whom did Douglass deliver the 1852 speech?",
      "o": [
-      "The US Congress",
-      "The Rochester Ladies' Anti-Slavery Society",
       "A school",
-      "A court"
+      "A court",
+      "The Rochester Ladies' Anti-Slavery Society",
+      "The American Anti-Slavery Society's national convention",
+      "The US Congress"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He delivered it to the Rochester Ladies' Anti-Slavery Society. {{douglass-ncc}}"
     },
     {
      "t": "check",
      "q": "What does Douglass say the moment needs?",
      "o": [
-      "Convincing argument",
+      "Calm argument and patient, careful evidence",
       "Scorching irony, not convincing argument",
-      "Silence",
-      "Applause"
+      "Convincing argument",
+      "Applause",
+      "Silence"
      ],
      "a": 1,
      "w": "He says at such a time scorching irony, not convincing argument, is needed. {{douglass-text}}"
@@ -1124,11 +1146,12 @@
      "q": "Why does 'You have already declared it' work as a move?",
      "o": [
       "It flatters the audience",
-      "It holds them to principles they have already stated",
+      "It is a joke",
+      "It holds them to principles they have stated",
       "It avoids the subject",
-      "It is a joke"
+      "It flatters them by praising their founding documents"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He asks them to apply principles they already declared. {{douglass-text}}"
     },
     {
@@ -1143,12 +1166,13 @@
    "quiz": {
     "q": "Which question is at the centre of Douglass's 1852 speech?",
     "o": [
-     "What is liberty?",
-     "What, to the American slave, is your 4th of July?",
+     "Why speak?",
+     "What did the founders of the republic intend by freedom?",
      "Who wrote the Constitution?",
-     "Why speak?"
+     "What, to the American slave, is your 4th of July?",
+     "What is liberty?"
     ],
-    "a": 1,
+    "a": 3,
     "w": "That question is at its centre. {{douglass-text}}"
    }
   },
@@ -1256,22 +1280,24 @@
      "t": "check",
      "q": "What did Churchill say about rhetorical power?",
      "o": [
-      "It is wholly bestowed",
-      "It is neither wholly bestowed nor wholly acquired, but cultivated",
       "It is wholly acquired",
-      "It does not exist"
+      "It does not exist",
+      "Neither wholly bestowed nor wholly acquired, but cultivated",
+      "It is wholly bestowed",
+      "It is wholly bestowed at birth, and no amount of practice can add to it"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He wrote it is neither wholly bestowed nor wholly acquired, but cultivated. {{churchill-pdf}}"
     },
     {
      "t": "check",
      "q": "A first run takes 430 seconds and the target is 300. How many seconds must you cut?",
      "o": [
-      "30",
-      "90",
+      "230",
+      "300",
       "130",
-      "300"
+      "90",
+      "30"
      ],
      "a": 2,
      "w": "430 − 300 = 130 seconds."
@@ -1280,10 +1306,11 @@
      "t": "check",
      "q": "What is the best way to practise the speech?",
      "o": [
+      "Memorise every word",
+      "Aloud from short-line notes, with a timer",
       "Read it silently",
-      "Rehearse aloud from short-line notes with a timer",
-      "Skip practice",
-      "Memorise every word"
+      "Read the full script silently several times",
+      "Skip practice"
      ],
      "a": 1,
      "w": "Rehearsing aloud from short lines with a timer is the capstone's method. {{churchill-arch}}"
@@ -1300,12 +1327,13 @@
    "quiz": {
     "q": "What is the best way to practise the capstone speech?",
     "o": [
-     "Read it silently",
-     "Rehearse aloud from short-line notes with a timer",
      "Skip practice",
-     "Memorise every word"
+     "Read it silently",
+     "Memorise every word",
+     "Read the full script silently several times",
+     "Aloud from short-line notes, with a timer"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Rehearse aloud from short-line notes with a timer."
    }
   }

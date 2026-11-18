@@ -1,0 +1,114 @@
+{
+ "key": "usda-canning",
+ "title": "USDA Complete Guide to Home Canning (2015 revision)",
+ "author": "",
+ "file": "USDA Complete Guide to Home Canning 2015.pdf",
+ "format": "pdf",
+ "sha256": "766f50c7e80834c49956c6e485ad70a6a4600e7ec73f57f14e2ebf09004c0370",
+ "words": 57968,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 20",
+   "words": 3826,
+   "pages": [
+    1,
+    20
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Pages 21 to 40",
+   "words": 6659,
+   "pages": [
+    21,
+    40
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Pages 41 to 60",
+   "words": 6246,
+   "pages": [
+    41,
+    60
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Pages 61 to 80",
+   "words": 9753,
+   "pages": [
+    61,
+    80
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Pages 81 to 100",
+   "words": 5597,
+   "pages": [
+    81,
+    100
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Pages 101 to 120",
+   "words": 5614,
+   "pages": [
+    101,
+    120
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Pages 121 to 140",
+   "words": 4093,
+   "pages": [
+    121,
+    140
+   ]
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Pages 141 to 160",
+   "words": 5446,
+   "pages": [
+    141,
+    160
+   ]
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Pages 161 to 180",
+   "words": 6635,
+   "pages": [
+    161,
+    180
+   ]
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Pages 181 to 197",
+   "words": 4099,
+   "pages": [
+    181,
+    197
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks",
+  "text quality looks poor (20% common English words, 4.8% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-17",
+  "source_file": "USDA Complete Guide to Home Canning 2015.pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.204,
+  "odd_character_share": 0.048
+ }
+}

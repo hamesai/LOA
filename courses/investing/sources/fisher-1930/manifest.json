@@ -1,0 +1,203 @@
+{
+ "key": "fisher-1930",
+ "title": "The Theory of Interest (Irving Fisher, 1930)",
+ "author": "",
+ "file": "fisher-1930.md",
+ "format": "md",
+ "sha256": "09176744185e2bcf79e8248bda324be7b956d522c502ba42aa3b44a12d489eec",
+ "words": 152239,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Fisher front: preface and part one title",
+   "words": 3288
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Fisher appendix to chapter i",
+   "words": 18
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Fisher appendix to chapter x",
+   "words": 20
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Fisher appendix to chapter xii",
+   "words": 45
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Fisher appendix to chapter xiii",
+   "words": 132
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Fisher appendix to chapter xix",
+   "words": 28
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Fisher appendix to chapter xx",
+   "words": 17
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Fisher bibliography",
+   "words": 1644
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Fisher ch. I (part I): INCOME AND CAPITAL2",
+   "words": 8751
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Fisher ch. II (part I): MONEY INTEREST AND REAL INTEREST",
+   "words": 2308
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Fisher ch. III (part I): SOME COMMON PITFALLS",
+   "words": 4030
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Fisher ch. IV (part II): TIME PREFERENCE (HUMAN IMPATIENCE)",
+   "words": 10404
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Fisher ch. V (part II): FIRST APPROXIMATION TO THE THEORY OF INTEREST",
+   "words": 6607
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Fisher ch. VI (part II): SECOND APPROXIMATION TO THE THEORY OF INTEREST",
+   "words": 6660
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "Fisher ch. VII (part II): THE INVESTMENT OPPORTUNITY PRINCIPLES",
+   "words": 7606
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "Fisher ch. VIII (part II): DISCUSSION OF THE SECOND APPROXIMATION",
+   "words": 7894
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "Fisher ch. IX (part II): THIRD APPROXIMATION TO THE THEORY OF INTEREST",
+   "words": 6389
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "Fisher ch. X (part III): FIRST APPROXIMATION IN GEOMETRIC TERMS",
+   "words": 7223
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "Fisher ch. XI (part III): SECOND APPROXIMATION IN GEOMETRIC TERMS",
+   "words": 6465
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "Fisher ch. XII (part III): FIRST APPROXIMATION IN TERMS OF FORMULAS",
+   "words": 3191
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "Fisher ch. XIII (part III): SECOND APPROXIMATION IN TERMS OF FORMULAS",
+   "words": 2751
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "Fisher ch. XIV (part III): THE THIRD APPROXIMATION UNADAPTED TO MATHEMATICAL FORMULATION",
+   "words": 1764
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "Fisher ch. XV (part IV): THE PLACE OF INTEREST IN ECONOMICS",
+   "words": 4491
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "Fisher ch. XVI (part IV): RELATION OF DISCOVERY AND INVENTION TO INTEREST RATES",
+   "words": 4130
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "Fisher ch. XVII (part IV): PERSONAL AND BUSINESS LOANS",
+   "words": 4436
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "Fisher ch. XVIII (part IV): SOME ILLUSTRATIVE FACTS",
+   "words": 6837
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "Fisher ch. XIX (part IV): THE RELATION OF INTEREST TO MONEY AND PRICES",
+   "words": 11261
+  },
+  {
+   "file": "ch-028.txt",
+   "title": "Fisher ch. XX (part IV): OBJECTIONS CONSIDERED73",
+   "words": 11083
+  },
+  {
+   "file": "ch-029.txt",
+   "title": "Fisher ch. XXI (part IV): SUMMARY",
+   "words": 3866
+  },
+  {
+   "file": "ch-030.txt",
+   "title": "Fisher appendix to chapter i",
+   "words": 601
+  },
+  {
+   "file": "ch-031.txt",
+   "title": "Fisher appendix to chapter x",
+   "words": 519
+  },
+  {
+   "file": "ch-032.txt",
+   "title": "Fisher appendix to chapter xii",
+   "words": 810
+  },
+  {
+   "file": "ch-033.txt",
+   "title": "Fisher appendix to chapter xiii",
+   "words": 1790
+  },
+  {
+   "file": "ch-034.txt",
+   "title": "Fisher appendix to chapter xix",
+   "words": 755
+  },
+  {
+   "file": "ch-035.txt",
+   "title": "Fisher appendix to chapter xx",
+   "words": 2322
+  },
+  {
+   "file": "ch-036.txt",
+   "title": "Fisher bibliography",
+   "words": 12103
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (37% common English words, 1.8% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-17",
+  "source_file": "fisher-1930.md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.369,
+  "odd_character_share": 0.018
+ }
+}

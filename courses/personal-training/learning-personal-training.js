@@ -6,10 +6,11 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "The WHO weekly target for moderate activity is...",
     "o": [
-     "30 to 60 minutes",
+     "75 to 150 minutes of brisk walking",
      "150 to 300 minutes",
-     "500 minutes",
-     "None"
+     "30 to 60 minutes",
+     "None",
+     "500 minutes"
     ],
     "a": 1,
     "w": "150 to 300 moderate or 75 to 150 vigorous minutes."
@@ -17,23 +18,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "How often should adults do strength work, at moderate effort or more?",
     "o": [
-     "Never",
      "2 or more days a week",
      "Daily",
-     "Once a month"
+     "Never",
+     "Once a month",
+     "Once a week, on a rest day only"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Strength on 2 or more days a week."
    },
    {
     "q": "A pooled average describes...",
     "o": [
+     "Only elite athletes",
      "Every individual",
-     "A group, not an individual",
      "Only men",
-     "Only elite athletes"
+     "A group, not an individual",
+     "Each individual person in the study"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Pooled averages describe groups, not individuals."
    }
   ],
@@ -80,8 +83,9 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "The ACSM algorithm's three inputs are exercise status, disease or symptoms and...",
     "o": [
-     "Age",
+     "Age and body weight",
      "Intended intensity",
+     "Age",
      "Weight",
      "Height"
     ],
@@ -91,23 +95,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Any symptoms mean...",
     "o": [
-     "Start slowly",
      "Medical clearance first",
+     "Ignore",
+     "Start slowly and watch them",
      "Reduce intensity",
-     "Ignore"
+     "Start slowly"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Any symptoms mean clearance."
    },
    {
     "q": "Why screen everyone?",
     "o": [
-     "A client who looks fit may still be at risk",
+     "It is the only way to set a training load",
+     "It sells more sessions",
+     "A fit-looking client may still be at risk",
      "It is quicker",
-     "It lowers cost",
-     "It sells more sessions"
+     "It lowers cost"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Skipping screening because the client looks fit is a mistake."
    }
   ],
@@ -146,23 +152,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What is the WHO range for moderate minutes a week?",
     "o": [
-     "150 to 300",
-     "30 to 60",
      "20 to 40",
-     "400 to 600"
+     "30 to 60",
+     "400 to 600",
+     "150 to 300",
+     "75 to 150"
     ],
-    "a": 0,
+    "a": 3,
     "w": "150 to 300 moderate."
    },
    {
     "q": "What does a pooled average describe?",
     "o": [
-     "A group",
      "An individual",
      "A champion",
-     "A client"
+     "A client",
+     "Each person in it",
+     "A group"
     ],
-    "a": 0,
+    "a": 4,
     "w": "A group, not an individual."
    }
   ],
@@ -178,21 +186,23 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which three needs support lasting motivation?",
     "o": [
+     "Rules, rewards, fear",
+     "Rest, food, sleep",
      "Autonomy, competence, relatedness",
      "Money, fame, time",
-     "Rest, food, sleep",
-     "Rules, rewards, fear"
+     "Competence, confidence and commitment"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Autonomy, competence and relatedness."
    },
    {
     "q": "Motivational interviewing compared with advice in a review of 72 trials...",
     "o": [
-     "Did worse",
+     "Made no difference at all",
      "Did better",
-     "Made no difference",
-     "Was not tested"
+     "Did worse",
+     "Was not tested",
+     "Made no difference"
     ],
     "a": 1,
     "w": "MI beat advice-giving."
@@ -200,12 +210,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A good goal set includes...",
     "o": [
-     "Only an outcome",
-     "Outcome, performance and process goals",
      "Only a date",
-     "No plan"
+     "Only an outcome",
+     "A single outcome goal and a firm deadline",
+     "No plan",
+     "Outcome, performance and process goals"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Pair outcome goals with performance and process goals."
    }
   ],
@@ -244,23 +255,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What does the algorithm do with a client who has symptoms?",
     "o": [
-     "Starts slowly",
      "Requires clearance",
+     "Starts slowly",
+     "Starts them slowly and monitors",
      "Ignores them",
      "Refuses all training"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Any symptoms mean clearance."
    },
    {
     "q": "How much strength work for adults?",
     "o": [
-     "2 or more days a week",
-     "Daily",
      "Never",
-     "Once a month"
+     "Once a month",
+     "Once a week, on a rest day only",
+     "2 or more days a week",
+     "Daily"
     ],
-    "a": 0,
+    "a": 3,
     "w": "2 or more days a week."
    }
   ],
@@ -276,31 +289,34 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "RIR stands for...",
     "o": [
-     "Reps in reserve",
+     "Reps in rhythm",
      "Rest in range",
+     "Range in repetition",
      "Rate of recovery",
-     "Reps in rhythm"
+     "Reps in reserve"
     ],
-    "a": 0,
+    "a": 4,
     "w": "RIR counts reps left at the end of a set."
    },
    {
     "q": "More hard sets per week usually give...",
     "o": [
-     "Less growth",
      "More growth, up to an unknown ceiling",
      "The same",
+     "Less growth",
+     "The same growth, since volume does not matter",
      "Injury only"
     ],
-    "a": 1,
+    "a": 0,
     "w": "More sets usually give more gain."
    },
    {
     "q": "Beginners should start...",
     "o": [
-     "To failure",
-     "Well short of failure",
      "With maximum load",
+     "Well short of failure",
+     "To failure",
+     "At failure on every set",
      "With no load"
     ],
     "a": 1,
@@ -342,23 +358,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What does a good coaching conversation count?",
     "o": [
-     "Open questions and reflections",
      "Only advice",
-     "Only silence",
-     "Only jokes"
+     "Only jokes",
+     "Open questions and reflections",
+     "Advice given and fixes accepted",
+     "Only silence"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Open questions, reflections and advice."
    },
    {
     "q": "Which three needs support lasting motivation?",
     "o": [
-     "Autonomy, competence, relatedness",
+     "None",
      "Money, fame, time",
+     "Competence, confidence and commitment",
      "Rest, food, sleep",
-     "None"
+     "Autonomy, competence, relatedness"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Autonomy, competence and relatedness."
    }
   ],
@@ -374,23 +392,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which movement patterns should a basic programme cover?",
     "o": [
-     "Squat, hinge, push, pull, trunk",
+     "Push and pull only, on machines",
      "Only squat",
      "Only push",
+     "Squat, hinge, push, pull, trunk",
      "Only running"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Pick by movement pattern."
    },
    {
     "q": "Double progression means...",
     "o": [
      "Doubling the load each week",
-     "Adding reps to the top of a range, then load",
      "Doubling sets",
-     "Doubling rest"
+     "Doubling rest",
+     "Adding load first each week, then adding reps once it settles",
+     "Adding reps to the top of a range, then load"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Add reps, then raise the load when the range is exceeded."
    },
    {
@@ -398,8 +418,9 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "o": [
      "Push through",
      "Stop and refer",
-     "Add load",
-     "Ignore"
+     "Reduce load and carry on",
+     "Ignore",
+     "Add load"
     ],
     "a": 1,
     "w": "Pain is a referral matter."
@@ -440,21 +461,23 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What does RIR measure?",
     "o": [
-     "Reps left at the end of a set",
+     "Rate of repetition",
      "Rest time",
-     "Range of motion",
-     "Rate of repetition"
+     "Reps left at the end of a set",
+     "Rest time taken between hard sets",
+     "Range of motion"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Reps in reserve."
    },
    {
     "q": "How should beginners train?",
     "o": [
      "Well short of failure",
-     "To failure",
+     "Without effort",
      "With max loads",
-     "Without effort"
+     "To failure on every set",
+     "To failure"
     ],
     "a": 0,
     "w": "Well short of failure."
@@ -473,33 +496,36 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "A common protein intake for training is near...",
     "o": [
      "0.2 g/kg",
+     "None",
      "1.6 g/kg a day",
      "5 g/kg",
-     "None"
+     "3.5 g/kg a day"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Aim near 1.6 g/kg a day; up to 2.2 is plausible."
    },
    {
     "q": "Should a trainer prescribe medical diets?",
     "o": [
+     "Only online",
      "Yes",
+     "Yes, if qualified in nutrition basics",
      "No, refer",
-     "Only for athletes",
-     "Only online"
+     "Only for athletes"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Share information; do not prescribe medical diets."
    },
    {
     "q": "Older adults should do multicomponent work on...",
     "o": [
-     "1 day",
      "3 or more days",
+     "1 or 2 days a week",
+     "Daily",
      "Never",
-     "Daily"
+     "1 day"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Multicomponent work on 3 or more days."
    }
   ],
@@ -538,23 +564,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What is double progression?",
     "o": [
-     "Reps first, then load",
-     "Load first, then reps",
      "Double sets",
-     "Double rest"
+     "Double rest",
+     "Load and reps at the same time",
+     "Load first, then reps",
+     "Reps first, then load"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Add reps to the top of the range, then load."
    },
    {
     "q": "What counts toward weekly targets?",
     "o": [
+     "Only sessions with a trainer",
      "Strength and aerobic work",
-     "Only lifting",
+     "Only walking",
      "Only running",
-     "Only walking"
+     "Only lifting"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Both count."
    }
   ],
@@ -570,31 +598,34 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What does the algorithm require for a symptomatic client?",
     "o": [
-     "Medical clearance",
-     "Light exercise",
+     "Light exercise under watch",
+     "Nothing",
      "A new form",
-     "Nothing"
+     "Medical clearance",
+     "Light exercise"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Any symptoms mean clearance."
    },
    {
     "q": "What is the weekly moderate range?",
     "o": [
-     "150 to 300 minutes",
-     "30 to 60 minutes",
+     "75 to 150 minutes of brisk walking",
+     "500 minutes",
      "10 to 20 minutes",
-     "500 minutes"
+     "30 to 60 minutes",
+     "150 to 300 minutes"
     ],
-    "a": 0,
+    "a": 4,
     "w": "150 to 300 moderate."
    },
    {
     "q": "What is RIR?",
     "o": [
      "Reps in reserve",
-     "Rest in range",
      "Rate of recovery",
+     "Rest in range",
+     "Range in repetition",
      "Rep rhythm"
     ],
     "a": 0,
@@ -603,12 +634,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What should a trainer do for medical diet requests?",
     "o": [
+     "Write a simple plan",
      "Refer",
-     "Prescribe",
+     "Copy a plan",
      "Ignore",
-     "Copy a plan"
+     "Prescribe"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Refer."
    }
   ],

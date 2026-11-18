@@ -86,12 +86,13 @@
      "t": "check",
      "q": "Which food should be thrown out after flooding?",
      "o": [
+      "A dry packet of salt in a sealed bag",
+      "A sealed, undamaged retort pouch that can be cleaned and sanitised",
       "A sealed metal tin with a dent only",
-      "A cardboard juice box that touched floodwater",
       "A bottle of oil",
-      "A dry packet of salt in a sealed bag"
+      "A cardboard juice box that touched floodwater"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Food in cardboard containers that may have touched floodwater should be thrown away. {{cdcfood}}",
      "kind": "application"
     },
@@ -99,10 +100,11 @@
      "t": "check",
      "q": "How long should you soak flood-exposed cans in the bleach solution?",
      "o": [
-      "15 seconds",
-      "1 minute",
+      "5 minutes",
+      "2 hours",
       "15 minutes",
-      "2 hours"
+      "15 seconds",
+      "1 minute"
      ],
      "a": 2,
      "w": "CDC says 15 minutes, or boil for 2 minutes. {{cdcfood}}"
@@ -227,24 +229,26 @@
      "t": "check",
      "q": "A household has a toddler. Power has been off for 5 hours. A packed sandwich is in the fridge. What should you do?",
      "o": [
-      "Give it to the toddler",
-      "Discard it for the toddler (and consider for all)",
+      "Give it to the toddler, since 5 hours is within the limit",
       "Warm it",
+      "Give it to the toddler",
+      "Discard it for the toddler, and consider it for all",
       "Freeze it"
      ],
-     "a": 1,
+     "a": 3,
      "w": "At-risk groups should not eat chilled ready-to-eat food after 4 hours without power. {{cmo}}"
     },
     {
      "t": "check",
      "q": "Which number is the right limit for cooked food on the table?",
      "o": [
-      "2 hours",
       "4 hours",
+      "2 hours",
       "8 hours",
+      "6 hours",
       "24 hours"
      ],
-     "a": 0,
+     "a": 1,
      "w": "WHO says no more than 2 hours at room temperature. {{who5keys}}"
     },
     {
@@ -342,22 +346,24 @@
      "t": "check",
      "q": "Why would a national outage message be on radio?",
      "o": [
+      "It is the most power-resilient channel",
       "It is the cheapest",
-      "It is the most power-resilient communication",
+      "Television has no news",
       "Phones are free",
-      "Television has no news"
+      "Radio reaches people faster than any phone network"
      ],
-     "a": 1,
+     "a": 0,
      "w": "UK CMOs note radio is the most power-resilient form of communication. {{cmo}}"
     },
     {
      "t": "check",
      "q": "You have more chilled food than you can eat before it warms up. What can you do?",
      "o": [
-      "Throw it",
-      "Share with neighbours if it was stored correctly",
-      "Refreeze it",
-      "Leave it in the sun"
+      "Leave it in the sun",
+      "Share it with neighbours if it was stored correctly",
+      "Throw it out",
+      "Refreeze it, since it is still cold enough to keep for weeks",
+      "Refreeze it"
      ],
      "a": 1,
      "w": "The FSA says food needing refrigeration could be shared with neighbours if stored correctly. {{fsa}}",
@@ -455,12 +461,13 @@
      "t": "check",
      "q": "Household of 4 needs 12 litres of boiled water and the pot holds 3 litres. How many boils?",
      "o": [
+      "6",
       "2",
+      "12",
       "3",
-      "4",
-      "6"
+      "4"
      ],
-     "a": 2,
+     "a": 4,
      "w": "12 / 3 = 4 boils.",
      "kind": "application"
     },
@@ -468,12 +475,13 @@
      "t": "check",
      "q": "It is the morning after the power went off. Which food should your household eat first?",
      "o": [
-      "Cupboard food",
-      "Refrigerated perishable food",
       "Dried food",
+      "Canned food, since it is safest",
+      "Refrigerated perishable food",
+      "Cupboard food",
       "Canned food"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Shortest shelf life first: chilled foods. {{fsa}}",
      "kind": "application"
     },
@@ -551,12 +559,13 @@
      "t": "check",
      "q": "What should happen to a pack that is soft when you box it?",
      "o": [
+      "Don't dispatch; replace it from hard-frozen stock",
+      "Mark it half price",
       "Send it anyway",
-      "Do not dispatch it; replace it from hard-frozen stock",
       "Refreeze it and send",
-      "Mark it half price"
+      "Refreeze it overnight and send it in the next box"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Frozen food must be kept at the right temperature in storage and transport. {{gov-store}}"
     },
     {
@@ -564,11 +573,12 @@
      "q": "Why message customers before the delivery slot when you cannot dispatch?",
      "o": [
       "It is a legal text",
-      "They can plan, and trust is kept",
+      "It avoids logging",
       "It lowers costs",
-      "It avoids logging"
+      "They can plan, and trust is kept",
+      "It avoids refunds under consumer law"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Early notice lets them plan and shows you are controlling the problem. This is our reasoning."
     },
     {
@@ -705,10 +715,11 @@
      "t": "check",
      "q": "What did Franklin say the town lacked in fighting fires?",
      "o": [
-      "Hands or goodwill",
+      "Water only",
       "Order and method",
       "Money",
-      "Water only"
+      "Hands or goodwill",
+      "Enough willing hands"
      ],
      "a": 1,
      "w": "He says they did not want hands or goodwill but seemed to want order and method. {{franklin-fire}}"
@@ -717,12 +728,13 @@
      "t": "check",
      "q": "How often did the engine societies work their engines, in his proposal?",
      "o": [
-      "Daily",
       "Once a quarter",
       "Once a year",
-      "Never"
+      "Once a year, at the annual meeting",
+      "Daily",
+      "Once a month"
      ],
-     "a": 1,
+     "a": 0,
      "w": "They worked it once a quarter and kept it in order. {{franklin-fire}}"
     },
     {
@@ -730,11 +742,12 @@
      "q": "Why did the officers hold quarterly meetings?",
      "o": [
       "To collect fines",
-      "To discuss faults and good management and learn from experience",
+      "To collect each member's fees and any fines that were owed",
       "To elect officers",
+      "To discuss faults and good management, and learn",
       "To sell equipment"
      ],
-     "a": 1,
+     "a": 3,
      "w": "They discourse of fires, of the faults and the good management, and grow wise. {{franklin-fire}}"
     },
     {

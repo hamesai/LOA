@@ -152,24 +152,26 @@
      "t": "check",
      "q": "You are about to list a carved item that might be ivory. What is the correct first step?",
      "o": [
-      "List it cheaply to see if anyone knows",
-      "Stop and confirm the material and any exemption before listing",
+      "Stop, and confirm the material and any exemption first",
       "Describe it as bone",
-      "Sell it privately instead"
+      "List it cheaply to see if anyone knows",
+      "Sell it privately instead",
+      "List it as 'bone or ivory', so buyers can decide for themselves"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Advertising counts as dealing, and dealing without an exemption is an offence. {{gov-ivory}}"
     },
     {
      "t": "check",
      "q": "A 4 g silver ring has no hallmark. What is the position?",
      "o": [
-      "It is always illegal to sell",
-      "It may be under the weight exemption, but the description must be true",
       "It must be described as gold",
-      "It needs a dealers' notice for each ring"
+      "It needs a dealers' notice for each ring",
+      "It is always illegal to sell",
+      "It may fall under the weight exemption, but must be truly described",
+      "It is always illegal to sell unhallmarked silver of any weight in the UK"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Silver items under 7.78 g are exempt from the hallmarking requirement (7.78 g is unverified; check the Business Companion hallmarking page); a true description is still required. {{bc-hallmark}}"
     },
     {
@@ -330,24 +332,26 @@
      "t": "check",
      "q": "A 1938 upholstered chair has no label. Does the furniture fire rule stop you selling it?",
      "o": [
+      "Only if it is in a shop",
       "Yes, always",
-      "No, furniture made before 1 January 1950 is excluded",
+      "No: furniture made before 1 January 1950 is excluded",
       "Only if it is blue",
-      "Only if it is in a shop"
+      "Yes, since every upholstered item needs a label, whatever its age"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The guidance excludes furniture made before 1 January 1950. {{bc-upholstered}} You still need to describe it honestly."
     },
     {
      "t": "check",
      "q": "You replace the plug on a vintage radio. What changes?",
      "o": [
+      "You must hallmark it",
+      "Nothing changes, since a plug is a minor part and the radio is second-hand",
       "Nothing",
-      "You may be treated as a producer, so you must be sure it is safe",
       "You can ignore safety rules",
-      "You must hallmark it"
+      "You may count as a producer, so you must be sure it is safe"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Doing something that affects the safety of a product, such as repairing it, can make you a producer. {{bc-electrical}}"
     },
     {
@@ -496,22 +500,24 @@
      "t": "check",
      "q": "A buyer in your online shop received an item on 02/11/2026 and has not been told about cancellation. By when can they cancel?",
      "o": [
-      "02/11/2026 only",
-      "Within 14 days of delivery",
+      "On 02/11/2026 only",
       "At any time in the next 12 months",
-      "Never"
+      "Within 14 days of delivery",
+      "Never",
+      "Within 30 days of delivery, as with any purchase"
      ],
-     "a": 2,
+     "a": 1,
      "w": "If the trader did not tell them about the right, the period extends to 12 months. {{gov-distance}}"
     },
     {
      "t": "check",
      "q": "What does 'as described' mean for a flaw you did not mention?",
      "o": [
-      "The buyer must accept it",
-      "The goods may not correspond to the description",
+      "It is a platform matter only",
+      "The goods may not match the description",
       "It is covered by 'no returns'",
-      "It is a platform matter only"
+      "The buyer must accept it",
+      "Nothing, as long as your listing said 'sold as seen'"
      ],
      "a": 1,
      "w": "Goods must correspond to their description when sold by a trader to a consumer. {{cra-notes}}"
@@ -641,14 +647,15 @@
     },
     {
      "t": "check",
-     "q": "You want a historical example to show buyers why testing claims matters. In Hassall's first series of ground coffees, what did he find that makes the point?",
+     "q": "You want a historical example to show why testing claims matters. In Hassall's first series of ground coffees, how many samples were adulterated?",
      "o": [
-      "3 of 34",
       "31 of 34",
+      "12 of 34",
+      "None of the 34",
       "34 of 34",
-      "12 of 34"
+      "3 of 34"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Of 34 coffees, all but three were adulterated. {{archive-hassall}}",
      "kind": "application"
     },
@@ -656,24 +663,26 @@
      "t": "check",
      "q": "What did he say about simple tests compared with the microscope?",
      "o": [
+      "The microscope is unreliable",
       "They are equally certain",
-      "The microscope is the only ready and certain means for most",
-      "Tests are useless",
-      "The microscope is unreliable"
+      "Simple chemical tests are just as certain as the microscope for every sample",
+      "The microscope is the only ready, certain means for most",
+      "Tests are useless"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He said the microscope affords the only ready and certain means. {{archive-hassall}}"
     },
     {
      "t": "check",
      "q": "You did not test a lamp. What can you say about it?",
      "o": [
-      "It works",
-      "Untested; for display or parts",
       "It is safe",
-      "It is guaranteed"
+      "Working when last used, as far as we know",
+      "It is guaranteed",
+      "It works",
+      "Untested; for display or parts"
      ],
-     "a": 1,
+     "a": 4,
      "w": "State only what you tested."
     },
     {

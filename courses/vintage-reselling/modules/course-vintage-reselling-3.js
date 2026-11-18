@@ -158,24 +158,26 @@
      "t": "check",
      "q": "Which is the strongest dating evidence?",
      "o": [
+      "A strong smell of age",
+      "A seller's detailed family history of the item",
       "It looks old",
-      "A seller's story",
       "A dated receipt that names the item",
-      "A strong smell of age"
+      "A seller's story"
      ],
-     "a": 2,
+     "a": 3,
      "w": "A document that names the item is checkable. Smell, style and stories are weak evidence."
     },
     {
      "t": "check",
      "q": "A garment has a vintage-style label. What should you do?",
      "o": [
-      "Treat the label as proof of age",
-      "Check the label design against dated examples and look at the zip and stitching too",
+      "Call it antique",
       "Ignore the label",
-      "Call it antique"
+      "Check the label against dated examples, and the zip and stitching",
+      "Treat the label as proof of age",
+      "Treat the label as proof of the decade, since makers never reissued old labels"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Labels are medium evidence and can be copied or sewn into new garments, so combine clues."
     },
     {
@@ -335,12 +337,13 @@
      "t": "check",
      "q": "What is the main reason to list every flaw?",
      "o": [
-      "It makes the item look worse so you can charge less",
-      "Goods sold by a trader must match the description, and honest listing reduces disputes",
+      "Traders' goods must match the description; honesty cuts disputes",
+      "It lets you charge less",
+      "It is a tax rule",
       "Marketplaces require flaws in capital letters",
-      "It is a tax rule"
+      "It makes the item look worse, so buyers cannot later bargain the price down"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The Act requires goods to correspond to description. {{cra-notes}}"
     },
     {
@@ -348,7 +351,8 @@
      "q": "Which description is better?",
      "o": [
       "Nice jug, some wear",
-      "Jug, 17 cm, hairline crack 2 cm inside handle join, does not leak when filled with water",
+      "Jug, 17 cm, 2 cm hairline crack inside handle join, does not leak",
+      "Beautiful antique jug, a real treasure, minor wear consistent with age, a must-have",
       "Antique jug in perfect condition",
       "Jug, rare, bid now"
      ],
@@ -476,24 +480,26 @@
      "t": "check",
      "q": "You are not sure a signed print is original. What do you write?",
      "o": [
+      "Original signed print, believed to be genuine",
+      "Authentic, no returns",
       "Original signed print",
-      "Print with a signature; origin unconfirmed",
       "Rare original",
-      "Authentic, no returns"
+      "Print with a signature; origin unconfirmed"
      ],
-     "a": 1,
+     "a": 4,
      "w": "State what you can see and what you cannot confirm."
     },
     {
      "t": "check",
      "q": "When should you pass on an item?",
      "o": [
+      "When it has a flaw",
+      "Whenever it has any flaw at all, however small it is",
       "When it might be restricted, unsafe or counterfeit",
-      "When it is dirty",
       "When it is old",
-      "When it has a flaw"
+      "When it is dirty"
      ],
-     "a": 0,
+     "a": 2,
      "w": "The legal risk and the reputation risk outweigh a single sale."
     },
     {
@@ -615,9 +621,10 @@
      "t": "check",
      "q": "What does a piece resembling a Director design show about its maker?",
      "o": [
-      "Chippendale made it",
-      "Nothing certain without further evidence",
+      "It was made in Chippendale's workshop",
+      "Nothing certain without more evidence",
       "It is a copy",
+      "Chippendale made it",
       "It is from 1754"
      ],
      "a": 1,
@@ -627,24 +634,26 @@
      "t": "check",
      "q": "What does the title page promise about the designs?",
      "o": [
+      "No dimensions",
+      "A guarantee that each design is Chippendale's own",
       "Only prices",
-      "Mouldings shown at large and the dimensions specified",
       "A guarantee of maker",
-      "No dimensions"
+      "Mouldings at large, with dimensions given"
      ],
-     "a": 1,
+     "a": 4,
      "w": "It promises the mouldings at large and the dimensions of each design specified. {{chippendale-dir}}"
     },
     {
      "t": "check",
      "q": "Which wording fits a chair in the style with no records?",
      "o": [
-      "Genuine Chippendale",
-      "In the Chippendale style",
+      "Genuine Chippendale, circa 1760",
       "From Chippendale's own workshop",
-      "Attributed to Chippendale"
+      "Attributed to Chippendale",
+      "In the Chippendale style",
+      "Genuine Chippendale"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Only 'in the style' is supported."
     },
     {

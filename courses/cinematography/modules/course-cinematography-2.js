@@ -137,14 +137,15 @@
     },
     {
      "t": "check",
-     "q": "You are filming a 20-minute interview on a 5D Mark II and the camera stops at about 12 minutes. What caused it, and what should you plan?",
+     "q": "You are filming a 20-minute interview on a 5D Mark II and the camera stops at about 12 minutes. What caused it?",
      "o": [
-      "The battery died",
+      "The sensor overheated",
+      "A 12-minute limit set by the memory card's speed rating",
+      "A legal limit on clip length",
       "The 4 GB file size limit per clip",
-      "Heat only",
-      "Law"
+      "The battery ran down"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The manual states the 4 GB limit and does not give a cause. {{canon-5d2-manual}}",
      "kind": "application"
     },
@@ -152,10 +153,11 @@
      "t": "check",
      "q": "What made the 5D Mark II's video notable when it launched?",
      "o": [
-      "It was the first camera to shoot HD",
-      "It was the first full-frame DSLR with 1080p",
+      "The first camera to shoot HD",
+      "The first full-frame DSLR with 1080p",
       "It had no sensor",
-      "It recorded film"
+      "It recorded film",
+      "The first DSLR to record any video at all"
      ],
      "a": 1,
      "w": "Other cameras shot HD first, but this was the first full-frame DSLR with 1080p. {{wiki-5d2}}"
@@ -165,9 +167,10 @@
      "q": "A brick wall shimmers with coloured patterns on your DSLR monitor. Which setting does the handbook suggest changing?",
      "o": [
       "Turn the sharpness setting down",
+      "Open the aperture",
+      "Turn sharpness up so the bricks resolve cleanly",
       "Raise the ISO",
-      "Shoot at a higher frame rate",
-      "Open the aperture"
+      "Shoot at a higher frame rate"
      ],
      "a": 0,
      "w": "Lowering the picture's resolution at the sensor, including turning sharpness down, helps reduce the pattern. {{fh-ch5b}}",
@@ -319,9 +322,10 @@
      "t": "check",
      "q": "A 35 mm lens is on a camera with a crop factor of 1.5. What full-frame focal length does it frame like?",
      "o": [
-      "23.3 mm",
       "35 mm",
+      "23.3 mm",
       "52.5 mm",
+      "36.5 mm",
       "70 mm"
      ],
      "a": 2,
@@ -332,12 +336,13 @@
      "t": "check",
      "q": "What stays the same when you move a lens from a full-frame camera to a smaller sensor?",
      "o": [
-      "The field of view",
-      "The image the lens projects",
       "The depth of field",
-      "The crop"
+      "The field of view",
+      "The field of view, since the lens is unchanged",
+      "The crop",
+      "The image the lens projects"
      ],
-     "a": 1,
+     "a": 4,
      "w": "A given lens casts the same image whatever camera it is on. {{wiki-crop}}"
     },
     {
@@ -471,22 +476,24 @@
      "t": "check",
      "q": "What does a log profile give you, according to the source?",
      "o": [
-      "Sharper edges",
-      "A wide tonal range with more room to grade",
+      "A wide tonal range with room to grade",
+      "A finished, contrasty look that needs no grading",
+      "A faster frame rate",
       "Less noise always",
-      "A faster frame rate"
+      "Sharper edges"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It gives a wide dynamic and tonal range and allows more latitude for colour and style choices. {{wiki-log}}"
     },
     {
      "t": "check",
      "q": "How many levels does a 10-bit channel have?",
      "o": [
-      "256",
-      "512",
+      "4096",
+      "1000",
       "1024",
-      "4096"
+      "512",
+      "256"
      ],
      "a": 2,
      "w": "Ten bits give 2^10 = 1024 levels (our arithmetic).",
@@ -496,12 +503,13 @@
      "t": "check",
      "q": "Zebras set to 100 per cent are flashing across the sky in your shot. What are they telling you?",
      "o": [
-      "Where the signal is at or near maximum and may clip",
+      "Where the image is one stop over middle grey, the ideal level for skin",
       "Where the picture is in focus",
-      "Where the colour is neutral",
-      "The exact stop value"
+      "The exact stop value",
+      "Where the signal is at or near maximum and may clip",
+      "Where the colour is neutral"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Zebra stripes appear wherever the video signal passes the preset level; at 100 per cent they mark possible clipping. {{fh-ch5b}}",
      "kind": "application"
     },
@@ -638,12 +646,13 @@
      "t": "check",
      "q": "You are shooting an interview with a DSLR across a noisy room. Why put a separate recorder near the speaker?",
      "o": [
-      "The camera cannot record sound",
-      "A recorder near the speaker is cleaner than the camera's built-in microphone",
+      "It is required by law",
       "It is cheaper",
-      "It is required by law"
+      "The camera cannot record sound",
+      "The camera's mic records only in mono, so a recorder is needed for stereo",
+      "A recorder near the speaker beats the built-in mic"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Separate recording gives better sound; the camera mic is mono and distant. {{wiki-5d2}}",
      "kind": "application"
     },
@@ -652,9 +661,10 @@
      "q": "What is the main point of the pre-shoot checklist?",
      "o": [
       "To look professional",
-      "To remove surprises that appear on set",
+      "To remove surprises on set",
       "To get a lower ISO",
-      "To avoid tripods"
+      "To avoid tripods",
+      "To satisfy the insurer's paperwork"
      ],
      "a": 1,
      "w": "A checklist catches avoidable problems before the cast and light are waiting."
@@ -663,10 +673,11 @@
      "t": "check",
      "q": "You record sound on a separate recorder. What does the handbook still recommend doing in the camera?",
      "o": [
-      "Record audio as a scratch track for reference",
-      "Turn the microphone off",
+      "Record camera audio as a scratch track",
+      "Turn camera audio off, so it cannot drift out of sync",
+      "Turn the camera microphone off",
       "Record only video",
-      "Use the camera microphone at full gain"
+      "Use the camera mic at full gain"
      ],
      "a": 0,
      "w": "A scratch track in the camera helps with reference and syncing. {{fh-ch11}}",
@@ -785,14 +796,15 @@
     },
     {
      "t": "check",
-     "q": "The director complains your log footage looks washed out on the monitor. What should you do, and why?",
+     "q": "The director complains your log footage looks washed out on the monitor. Why does it look that way?",
      "o": [
-      "It stores colour in a separate file",
-      "It looks milky and flat until a curve makes it look normal",
       "It removes noise",
-      "It doubles the frame rate"
+      "It is overexposed, so close down two stops and shoot it again",
+      "It looks flat until a curve or LUT makes it look normal",
+      "It doubles the frame rate",
+      "It stores colour in a separate file"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The log curve remaps brightness, so the raw image looks flat; a LUT shows a normal-looking version without changing the file. {{fh-ch5}}",
      "kind": "application"
     },
@@ -800,12 +812,13 @@
      "t": "check",
      "q": "Which statement about ISO on a digital video camera is closest to the handbook?",
      "o": [
-      "A higher ISO makes the sensor physically more sensitive",
-      "ISO amplifies the signal after the sensor and shifts latitude between highlights and shadows",
+      "ISO has no effect on noise",
+      "ISO changes the sensor's physical sensitivity, like changing film stock",
       "Lowering ISO always increases dynamic range",
-      "ISO has no effect on noise"
+      "A higher ISO makes the sensor physically more sensitive",
+      "ISO amplifies after the sensor and shifts latitude"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Gain and ISO boost the signal after the sensor, so noise rises with it. {{fh-ch3}} {{fh-ch5}}"
     },
     {
@@ -888,12 +901,13 @@
      "t": "check",
      "q": "A 52 Wh battery powers a 26 W camera. Roughly how long will it run?",
      "o": [
-      "30 minutes",
-      "1 hour",
+      "26 minutes",
       "2 hours",
-      "4 hours"
+      "1 hour",
+      "4 hours",
+      "30 minutes"
      ],
-     "a": 2,
+     "a": 1,
      "w": "52 ÷ 26 = 2 hours, before standby and cold losses (our arithmetic). {{fh-ch3}}",
      "kind": "application"
     },
@@ -901,12 +915,13 @@
      "t": "check",
      "q": "At the end of a shoot day you have one full card and need it again tomorrow. Which is the safe rule?",
      "o": [
-      "Format the card when it is full",
-      "Copy to two or three places, verify, and wipe only when needed",
+      "Trust the camera's playback",
       "Keep one copy on the camera",
-      "Trust the camera's playback"
+      "Format the card when it is full",
+      "Copy to two or three places, verify, wipe only when needed",
+      "Copy it once to a laptop and format the card straight away"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The handbook's backup rule is three copies, two technologies, two places. {{fh-ch2}}",
      "kind": "application"
     },
@@ -992,9 +1007,10 @@
      "q": "How many frames are in ten minutes of NTSC video, per Brown?",
      "o": [
       "17,982",
+      "14,400",
       "18,000",
-      "17,000",
-      "18,018"
+      "18,018",
+      "17,000"
      ],
      "a": 0,
      "w": "30 × 600 = 18,000 numbers, less 18 dropped (our arithmetic). {{brown-video}}"
@@ -1003,12 +1019,13 @@
      "t": "check",
      "q": "What does Brown suggest for frame rates in HD?",
      "o": [
+      "Shoot exactly 24 or 30, never the fractional rates",
+      "Use 25 everywhere",
       "Shoot 23.98 or 29.97, not 24 or 30",
       "Always shoot 30",
-      "Avoid 23.98",
-      "Use 25 everywhere"
+      "Avoid 23.98"
      ],
-     "a": 0,
+     "a": 2,
      "w": "It reduces artefacts later in the process. {{brown-hd}}"
     },
     {
@@ -1091,24 +1108,26 @@
      "t": "check",
      "q": "What does 4:2:0 do?",
      "o": [
-      "Keeps a quarter of the colour detail",
-      "Keeps all colour detail",
       "Removes brightness",
-      "Doubles the frame rate"
+      "Keeps all colour detail",
+      "Doubles the frame rate",
+      "Keeps a quarter of the colour detail",
+      "Keeps half the brightness detail and all the colour"
      ],
-     "a": 0,
+     "a": 3,
      "w": "4:2:0 and 4:1:1 keep a quarter of the colour detail. {{fh-ch1}}"
     },
     {
      "t": "check",
      "q": "How many times more information does 4K carry than 2K?",
      "o": [
-      "Four",
       "Two",
+      "Four",
       "Eight",
-      "Sixteen"
+      "Sixteen",
+      "Two and a half"
      ],
-     "a": 0,
+     "a": 1,
      "w": "Each step multiplies the information. {{fa-ch1}}"
     },
     {
@@ -1187,24 +1206,26 @@
      "t": "check",
      "q": "What fraction of a Bayer sensor is green?",
      "o": [
-      "50 per cent",
-      "25 per cent",
       "33 per cent",
-      "100 per cent"
+      "100 per cent",
+      "25 per cent",
+      "66 per cent",
+      "50 per cent"
      ],
-     "a": 0,
+     "a": 4,
      "w": "Green is 50 per cent, red and blue 25 per cent each. {{fh-ch3}}"
     },
     {
      "t": "check",
      "q": "What should you do with autoexposure on a backlit subject?",
      "o": [
-      "Set the exposure, then lock the iris",
-      "Leave it on",
+      "Turn the camera off",
+      "Leave it on, since it reads the subject's face first",
       "Open to the widest stop",
-      "Turn the camera off"
+      "Set the exposure, then lock the iris",
+      "Leave it on"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Autoexposure silhouettes backlit subjects and fluctuates. {{fh-ch3}}"
     },
     {
@@ -1291,24 +1312,26 @@
      "t": "check",
      "q": "Why must you record at least 48 kHz for video, per the Nyquist rule?",
      "o": [
-      "Sample at least twice the highest frequency",
-      "It is cheaper",
+      "It matches the 48 frames of a 24 fps double shutter",
       "It removes hum",
-      "It sets the f-stop"
+      "It sets the f-stop",
+      "It is cheaper",
+      "Sample at least twice the highest frequency"
      ],
-     "a": 0,
+     "a": 4,
      "w": "Sampling must be at least twice the highest frequency. {{fh-ch10}}"
     },
     {
      "t": "check",
      "q": "Your boom drifts from 0.5 m to 1 m from the actor. What happens to sound pressure?",
      "o": [
+      "It falls to a quarter",
+      "It quadruples",
       "It halves",
-      "It doubles",
       "It stays the same",
-      "It quadruples"
+      "It doubles"
      ],
-     "a": 0,
+     "a": 2,
      "w": "Sound pressure halves when the distance doubles. {{fh-ch11}}",
      "kind": "application"
     },
@@ -1445,10 +1468,11 @@
      "t": "check",
      "q": "Where did Toland start?",
      "o": [
-      "With the newest film",
+      "With a new camera body",
       "With what the picture needed to do",
       "With the cheapest lamps",
-      "With a new camera body"
+      "With the fastest lenses then available",
+      "With the newest film"
      ],
      "a": 1,
      "w": "He and Welles started from the feeling of reality they wanted. {{toland-ac1941}}"
@@ -1457,12 +1481,13 @@
      "t": "check",
      "q": "About how many stops separate f/3.5 from f/11?",
      "o": [
-      "1.3",
-      "2.3",
       "3.3",
-      "5.3"
+      "5.3",
+      "1.3",
+      "7.5",
+      "2.3"
      ],
-     "a": 2,
+     "a": 0,
      "w": "2 × log base 2 of (11 ÷ 3.5) is about 3.3.",
      "kind": "application"
     },
@@ -1470,12 +1495,13 @@
      "t": "check",
      "q": "You are hiring an old set of primes for a feature. Why test each lens at each stop before the shoot?",
      "o": [
+      "Some lenses lose quality at some stops and recover at others",
       "Lenses are identical",
-      "Some lenses lose quality at certain stops and recover at others",
+      "Old primes are all the same, so testing one lens covers the set",
       "It saves film",
       "It changes colour"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He notes lenses that were excellent until f/6.3, worse below, then better again at f/11 or f/16. {{toland-ac1941}}",
      "kind": "application"
     },

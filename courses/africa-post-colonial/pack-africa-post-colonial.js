@@ -979,9 +979,10 @@ ARCHIVE_ADD({
     "q": "Which event came first?",
     "o": [
      "British occupation of Egypt, 1882",
-     "Adwa, 1896",
      "Omdurman, 1898",
-     "Belgium annexes Congo, 1908"
+     "Belgium annexes Congo, 1908",
+     "The Berlin Conference opens, 1884",
+     "Adwa, 1896"
     ],
     "a": 0,
     "w": "Egypt (1882) came before Berlin (1884 to 1885) and Adwa."
@@ -989,34 +990,37 @@ ARCHIVE_ADD({
    {
     "q": "What does a colonial 'treaty with a chief' prove best?",
     "o": [
-     "The chief fully consented",
-     "That an agent collected a signature",
-     "That the land was sold",
-     "That Africa had no states"
+     "That the chief fully consented",
+     "That Africa had no states",
+     "That the land was sold outright",
+     "That an agent collected a mark",
+     "That the chief understood the terms"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Translation and power make it weak evidence of consent."
    },
    {
     "q": "Which is the safest sentence about the Congo Free State toll?",
     "o": [
-     "Exactly 10 million died",
-     "Estimates run into the millions; a precise figure is unsupportable",
-     "Fewer than 1,000 died",
-     "Nobody died"
+     "Exactly 10 million died between 1885 and 1908",
+     "Nobody died from the rubber regime",
+     "Estimates run into the millions; no precise figure holds",
+     "Fewer than 1,000 died from the regime",
+     "Half the population died, as the first census of 1924 proved"
     ],
-    "a": 1,
+    "a": 2,
     "w": "There was no census."
    },
    {
     "q": "What did Adwa show?",
     "o": [
-     "Conquest was inevitable",
-     "An African state could defeat a European army",
      "Italy ruled Ethiopia from 1896",
-     "Treaties were fair"
+     "Europe could not use modern rifles effectively in Africa",
+     "Conquest of Africa was inevitable",
+     "An African state could defeat a European army",
+     "Colonial treaties were fair"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Ethiopia kept its independence."
    },
    {
@@ -1024,9 +1028,10 @@ ARCHIVE_ADD({
     "q": "Which perspective did Boahen add to the study of the colonial period?",
     "o": [
      "An African one, stressing that African institutions persisted",
-     "A purely economic one",
-     "A military one",
-     "A European one"
+     "A Marxist one, centred on class conflict inside Europe itself",
+     "A European one, centred on colonial officials",
+     "A purely economic one, centred on trade figures",
+     "A military one, centred on campaigns"
     ],
     "a": 0,
     "w": "As summarised in the library. {{lib}}"
@@ -1036,43 +1041,47 @@ ARCHIVE_ADD({
    {
     "q": "What mainly drove Maji Maji?",
     "o": [
-     "Forced cotton, taxes and forced labour",
-     "A trade dispute with Belgium",
      "A famine caused only by drought",
-     "A church schism"
+     "A German ban on African coffee growing",
+     "A trade dispute with Belgium",
+     "Forced cotton, taxes and forced labour",
+     "A church schism among missions"
     ],
-    "a": 0,
+    "a": 3,
     "w": "The library lists these causes."
    },
    {
     "q": "What did Trotha's order of 02/10/1904 call for?",
     "o": [
-     "Peace talks",
+     "The removal of the Nama to Togo",
+     "A new railway inland",
      "The destruction of the Herero",
-     "A new railway",
-     "A census"
+     "A census of the colony",
+     "Peace talks with the Herero"
     ],
-    "a": 1,
+    "a": 2,
     "w": "The Kaiser rescinded it on 08/12/1904."
    },
    {
     "q": "Which Mau Mau figure counts a narrow category?",
     "o": [
+     "Elkins's 100,000",
      "The British 11,000 insurgents killed",
      "Anderson's 20,000",
-     "Elkins's 100,000",
+     "The estimate of deaths across the detention camps",
      "The 5,228 claimants"
     ],
-    "a": 0,
+    "a": 1,
     "w": "It counts insurgents killed."
    },
    {
     "q": "What was FCO 141?",
     "o": [
-     "A Kenyan law",
+     "A colonial tax",
      "Migrated colonial files released to The National Archives",
-     "A Mau Mau oath",
-     "A tax"
+     "A Kenyan law",
+     "A Foreign Office report on Mau Mau casualties, published in 1963",
+     "A Mau Mau oath"
     ],
     "a": 1,
     "w": "Britain acknowledged them in 2011."
@@ -1082,21 +1091,23 @@ ARCHIVE_ADD({
    {
     "q": "Who convened the 1900 Pan-African Conference in London?",
     "o": [
-     "Henry Sylvester Williams",
+     "W. E. B. Du Bois and Booker T. Washington",
      "Marcus Garvey",
+     "Julius Nyerere",
      "Kwame Nkrumah",
-     "Julius Nyerere"
+     "Henry Sylvester Williams"
     ],
-    "a": 0,
+    "a": 4,
     "w": "He was a Trinidadian lawyer."
    },
    {
     "q": "What made Manchester 1945 a turning point?",
     "o": [
-     "Majority African delegates and a demand for independence",
+     "Mostly African delegates and a demand for independence",
      "It created the OAU",
-     "It ended apartheid",
-     "It was held in Accra"
+     "It was held in Accra",
+     "It brought in delegates from every French and Belgian colony",
+     "It ended apartheid"
     ],
     "a": 0,
     "w": "The library gives these reasons."
@@ -1105,22 +1116,24 @@ ARCHIVE_ADD({
     "q": "Which is the best verdict on the Willie Lynch letter?",
     "o": [
      "An authentic 1712 speech",
-     "A modern hoax, shown by missing provenance and anachronistic language",
-     "A court record",
-     "A Pan-African Congress resolution"
+     "A real letter of the period, but misdated by about a century",
+     "A Pan-African Congress resolution",
+     "A modern hoax: no provenance and anachronistic language",
+     "A court record from Virginia"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Cobb calls it absolutely fake, and the Sun and Longreads agree it is not authentic."
    },
    {
     "q": "Where should you look for real evidence of slaveholder tactics?",
     "o": [
-     "Documented sources such as the Slave Voyages database and historians of slavery",
-     "The letter itself",
-     "Rumour",
-     "Song lyrics"
+     "Online quotation collections that attribute speeches to named planters",
+     "Documented sources such as Slave Voyages and historians of slavery",
+     "Song lyrics about slavery",
+     "Rumour passed on in communities",
+     "The Willie Lynch letter itself"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Real evidence exists and can be cited."
    },
    {
@@ -1129,8 +1142,9 @@ ARCHIVE_ADD({
     "o": [
      "Fieldwork in 1896 and 1897",
      "A single letter",
-     "Oral legend only",
-     "A newspaper column"
+     "A newspaper column",
+     "The 1890 federal census alone",
+     "Oral legend only"
     ],
     "a": 0,
     "w": "As reported by Wikipedia. {{wiki-dubois}}"
@@ -1140,21 +1154,23 @@ ARCHIVE_ADD({
    {
     "q": "Which came first?",
     "o": [
-     "Ghana independent",
      "Algeria independent",
+     "Tanzania (Tanganyika) independent",
      "Kenya independent",
-     "Zimbabwe independent"
+     "Zimbabwe independent",
+     "Ghana independent"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Ghana, 06/03/1957."
    },
    {
     "q": "What was the Arusha Declaration?",
     "o": [
      "Tanzania's proclamation of ujamaa",
-     "Kenya's land law",
+     "The Evian Accords",
      "The OAU Charter",
-     "The Evian Accords"
+     "Kenya's land law",
+     "Uganda's nationalisation decree of 1967"
     ],
     "a": 0,
     "w": "It was issued on 05/02/1967."
@@ -1162,21 +1178,23 @@ ARCHIVE_ADD({
    {
     "q": "When was Lumumba killed?",
     "o": [
-     "17/01/1961",
+     "17/01/1962",
      "30/06/1960",
+     "17/01/1961",
      "05/09/1960",
      "14/09/1960"
     ],
-    "a": 0,
+    "a": 2,
     "w": "He was handed to Katangan forces."
    },
    {
     "q": "Which statement about Algerian war deaths is safest?",
     "o": [
-     "Over a million is proven",
-     "Most historians give several hundred thousand, with a contested range",
-     "Nobody died",
-     "Exactly 500,000 died"
+     "Over a million is proven by the 1963 census",
+     "Most historians give several hundred thousand, in a contested range",
+     "Exactly 500,000 died, according to the joint Franco-Algerian count of 1962",
+     "About 30,000 died, as the French army's own records reported",
+     "Nobody died outside the fighting"
     ],
     "a": 1,
     "w": "Official claims of over a million are not supported by most historians."
@@ -1186,57 +1204,62 @@ ARCHIVE_ADD({
    {
     "q": "When did the first all-race elections take place?",
     "o": [
-     "27/04/1994",
      "11/02/1990",
+     "27/04/1990",
+     "16/06/1976",
      "21/03/1960",
-     "16/06/1976"
+     "27/04/1994"
     ],
-    "a": 0,
+    "a": 4,
     "w": "The main voting day."
    },
    {
     "q": "What did the Group Areas Act do?",
     "o": [
+     "Banned the ANC",
      "Separated where people could live",
+     "Set up the Bantu education system",
      "Ended pass laws",
-     "Created the OAU",
-     "Banned the ANC"
+     "Created the OAU"
     ],
-    "a": 0,
+    "a": 1,
     "w": "It was passed in 1950."
    },
    {
     "q": "Which Sharpeville statement is best?",
     "o": [
-     "The official toll is 69; later research puts it at least 91",
+     "300 died, as the ANC reported to the United Nations at the time",
      "Exactly 69 died and no more",
-     "Nobody died",
-     "300 died"
+     "About 91 died, and the 69 was simply a typing error",
+     "The official toll is 69; later research says at least 91",
+     "Nobody died at Sharpeville"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Official and later counts differ."
    },
    {
     "q": "What was the TRC?",
     "o": [
-     "A body that traded amnesty for testimony and was not a court",
-     "A criminal court",
      "A political party",
-     "An army"
+     "A criminal court",
+     "An army unit that investigated the crimes committed by both sides",
+     "A body that traded amnesty for testimony; not a court",
+     "A special court that tried the apartheid leaders"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Chaired by Desmond Tutu."
    },
    {
     "lec": 1,
     "q": "When did Steve Biko die?",
     "o": [
-     "12/09/1977",
      "16/06/1976",
+     "12/09/1978",
+     "27/04/1994",
      "11/02/1990",
-     "27/04/1994"
+     "12/09/1977"
     ],
-    "a": 0,
+    "a": 4,
     "w": "He died on 12/09/1977 after beatings in custody. {{wiki-biko}}"
    }
   ],
@@ -1244,20 +1267,22 @@ ARCHIVE_ADD({
    {
     "q": "When did Biafra declare independence?",
     "o": [
-     "30/05/1967",
      "15/01/1966",
-     "12/09/1974",
-     "01/01/1970"
+     "30/05/1967",
+     "01/01/1970",
+     "30/05/1966",
+     "12/09/1974"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Ojukwu declared the republic."
    },
    {
     "q": "What was the Derg?",
     "o": [
      "A committee of officers that took power in Ethiopia",
-     "A Nigerian party",
+     "An Eritrean liberation front that fought the Ethiopian army",
      "A UN force",
+     "A Nigerian party",
      "A trade bloc"
     ],
     "a": 0,
@@ -1266,21 +1291,23 @@ ARCHIVE_ADD({
    {
     "q": "What was the Berg Report (1981)?",
     "o": [
-     "A World Bank report blaming domestic policies and urging reform",
-     "A UN genocide report",
+     "A trade treaty",
      "An OAU charter",
-     "A trade treaty"
+     "An OAU plan that stressed external constraints and self-reliance",
+     "A UN genocide report",
+     "A World Bank report blaming domestic policy and urging reform"
     ],
-    "a": 0,
+    "a": 4,
     "w": "It was criticised for undervaluing external shocks."
    },
    {
     "q": "Which is the best verdict on 'adjustment caused poverty'?",
     "o": [
      "It shaped outcomes but was not the sole cause",
-     "It was the only cause",
      "It had no effect",
-     "It began in 1990"
+     "It caused the whole decline that began in the 1970s",
+     "It began in 1990",
+     "It was the only cause"
     ],
     "a": 0,
     "w": "[CONTESTED]."
@@ -1289,12 +1316,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "Which of Achebe's works, published in 2012, reopened discussion of the Nigerian civil war?",
     "o": [
-     "There Was a Country",
-     "Things Fall Apart",
      "Home and Exile",
-     "No Longer at Ease"
+     "Anthills of the Savannah",
+     "Things Fall Apart",
+     "No Longer at Ease",
+     "There Was a Country"
     ],
-    "a": 0,
+    "a": 4,
     "w": "As reported on the encyclopaedia page. {{wiki-achebe}}"
    }
   ],
@@ -1302,32 +1330,35 @@ ARCHIVE_ADD({
    {
     "q": "When did the plane carrying President Habyarimana get shot down?",
     "o": [
-     "06/04/1994",
      "04/08/1993",
      "04/07/1994",
-     "09/07/2002"
+     "06/04/1994",
+     "09/07/2002",
+     "07/04/1994"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Killing began the next day."
    },
    {
     "q": "What does Article 4(h) of the AU's Act allow?",
     "o": [
-     "Intervention in cases of genocide, war crimes and crimes against humanity",
-     "A ban on elections",
      "A single currency",
-     "Border changes"
+     "A ban on elections",
+     "Border changes",
+     "Intervention in genocide, war crimes and crimes against humanity",
+     "Expulsion of any member state that fails to hold elections on time"
     ],
-    "a": 0,
+    "a": 3,
     "w": "It marks a break from non-interference."
    },
    {
     "q": "Which Arab Spring country saw a UN Security Council resolution authorising protection of civilians in 2011?",
     "o": [
      "Libya",
-     "Tunisia",
      "Egypt",
-     "Sudan"
+     "Algeria",
+     "Sudan",
+     "Tunisia"
     ],
     "a": 0,
     "w": "Resolution 1973."
@@ -1335,12 +1366,13 @@ ARCHIVE_ADD({
    {
     "q": "You found a figure on the AU's peacekeeping budget in a 2024 source. Why does the course tag it [check current]?",
     "o": [
-     "They may have changed since the sources were read",
-     "They are exact",
      "They are fictional",
-     "They are in the Bible"
+     "Budgets are fixed by treaty and never change",
+     "It may have changed since the sources were read",
+     "It is in the founding treaty, so it is fixed for good",
+     "They are exact"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Recent events are snapshots.",
     "kind": "application"
    }

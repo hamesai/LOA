@@ -10,6 +10,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 STANDARD_FROM = "2026-10-15"
 # The application standard (practice_audit.py) is hard for every course since 15/11/2026, when the last courses were converted.  # courses created on or after this date must meet the lesson-length standard
+# MCQ standard (set 17/11/2026, mcq_audit.js): five options, correct never the longest, correct slot spread.
+# Every course was rewritten to it by 18/11/2026, so it is hard for all of them. MCQ_FROM and MCQ_DONE are kept for any
+# course restored from an older backup: put its id in MCQ_SOFT to get a note instead while it is rewritten.
+MCQ_FROM = "2026-11-17"
+MCQ_DONE = None
+MCQ_SOFT = set()
 COURSES = ROOT / "courses"
 Q = "[\"']?"   # JSON-style files quote their keys, hand-written ones may not
 
@@ -84,6 +90,20 @@ def main():
             hard.append("%s: missing from details" % k)
         if not k.endswith("-cap") and k not in pack.get("quiz", {}):
             hard.append("%s: missing from quiz" % k)
+    # MCQ standard: see MCQ_FROM above. One summary note for older courses so the gate keeps passing.
+    import subprocess
+    created = (pack.get("libraries") or [{}])[0].get("created", "")
+    r = subprocess.run(["node", str(ROOT / "_template" / "mcq_audit.js"), cid, "--json"], capture_output=True, text=True, encoding="utf-8")
+    try:
+        mq = json.loads(r.stdout)
+    except ValueError:
+        mq = None
+        soft.append("mcq_audit.js did not run: " + (r.stderr or "").strip()[:200])
+    if mq and mq["problems"]:
+        if cid not in MCQ_SOFT:
+            hard.extend(x + " (fix with node _template/mcq_rewrite.js)" for x in mq["problems"])
+        else:
+            soft.append("%d multiple-choice problem(s) against the five-option standard in %d items: node _template/mcq_audit.js %s lists them, mcq_rewrite.js fixes them" % (len(mq["problems"]), mq["items"], cid))
     # Checked dates: a ref may carry d: "DD/MM/YYYY" (when someone last opened the source). Old dates are flagged, and so is a course with none.
     import datetime
     cited = set()

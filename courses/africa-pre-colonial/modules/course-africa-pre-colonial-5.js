@@ -97,10 +97,11 @@
      "t": "check",
      "q": "A guidebook says the Senegambian stone circles are fourteenth-century monuments of unknown purpose. What can you correct?",
      "o": [
-      "Nothing",
-      "Excavation dates them to about 1000 CE, and they are dynastic burial grounds with rich grave goods",
-      "They are Roman",
-      "They are natural rocks"
+      "They are fourteenth-century, but they were astronomical calendars",
+      "They date to about 1000 CE and are dynastic burial grounds",
+      "They are natural rock formations shaped by erosion, not monuments",
+      "Nothing: they are fourteenth-century and their purpose is still wholly unknown",
+      "They are Roman-era markers left by traders crossing the Sahara"
      ],
      "a": 1,
      "w": "Over 4000 mounds hold gold, carnelian and iron goods. {{gha3-andah}}",
@@ -110,12 +111,13 @@
      "t": "check",
      "q": "A textbook says states and iron came to the Guinea coast from the Sudan. Which evidence best tests that?",
      "o": [
-      "Ibn Battuta",
-      "Iron levels at Kamabai and Yagala from the 7th or 8th century, and markets, guilds and monarchies before Sudanic intrusions",
-      "The Kano Chronicle",
-      "Portuguese maps"
+      "Portuguese maps of 1500, which show no states south of the forest",
+      "The Nok terracottas, which prove iron came south from the Sahel first",
+      "Ibn Battuta's account of the Guinea coast, which describes Sudanic governors there",
+      "The Kano Chronicle, which lists Hausa founders of the coastal kingdoms",
+      "Early iron at Kamabai and Yagala, and states and guilds before Sudanic intrusions"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The coast had its own iron, rice and political forms. {{gha3-andah}}",
      "kind": "application"
     },
@@ -257,12 +259,13 @@
      "t": "check",
      "q": "A 1910 writer says the Ife heads are too fine to be African and must come from a lost Atlantis. How should you treat the claim?",
      "o": [
-      "As expert evidence",
-      "As Frobenius's racist speculation, refuted by excavation and dating of Ife works",
-      "As oral tradition",
-      "As a Portuguese report"
+      "As expert evidence, since Frobenius excavated at Ife himself in 1910",
+      "As oral tradition, recorded from Ife's priests and handed on in print",
+      "As Frobenius's racist speculation, refuted by excavation and dating",
+      "As a plausible theory, pending a scientific analysis of the bronze alloys",
+      "As a Portuguese report from the coast, garbled by later translation"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Frobenius made the claim in 1910. {{natgeo-ife}}",
      "kind": "application"
     },
@@ -270,12 +273,13 @@
      "t": "check",
      "q": "A student argues that complex metalwork needs a large kingdom behind it. Which find tests that idea best?",
      "o": [
-      "Great Zimbabwe",
-      "Igbo-Ukwu: sophisticated lost-wax metalwork in a society without an obvious large state",
-      "Leptis Magna",
-      "Fort Jesus"
+      "Great Zimbabwe: fine goldwork under a powerful centralised monarchy",
+      "Leptis Magna: Roman bronzes made inside a great empire",
+      "Fort Jesus: Portuguese cannon cast on the Swahili coast",
+      "Igbo-Ukwu: fine lost-wax metalwork without an obvious large state",
+      "Benin: brass plaques cast by a royal guild under the Oba's control"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Igbo-Ukwu's bronzes come from a region with no large state. {{springer-igbo}}",
      "kind": "application"
     },
@@ -395,12 +399,13 @@
      "t": "check",
      "q": "A news article says Benin's earthworks are '16,000 km long, the largest structure on Earth'. How should you report it?",
      "o": [
-      "As a firm fact",
-      "As a widely quoted figure from one survey, contested until independently replicated",
-      "As disproved",
-      "As a Portuguese estimate"
+      "As a widely quoted figure from one survey, not yet replicated",
+      "As a firm fact, confirmed by the Guinness Book of Records listing",
+      "As a Portuguese estimate from the 1500s, repeated without checking",
+      "As a traditional figure handed down by Benin's royal court historians",
+      "As disproved, since satellite imagery shows only a few hundred kilometres"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The figure rests on one survey. {{wiki-benin-moat}}",
      "kind": "application"
     },
@@ -408,10 +413,11 @@
      "t": "check",
      "q": "You are writing in 2026 about whether a museum still holds a Benin plaque. What must you do?",
      "o": [
-      "Assume nothing has been returned",
-      "Check the institution's current position, because returns and transfers have changed since 2021",
-      "Assume all were returned in 2021",
-      "Cite the 1897 inventory"
+      "Cite the 1897 inventory, which remains the legal record of ownership",
+      "Check the museum's current position, since returns have changed since 2021",
+      "Assume nothing has been returned, as no museum has transferred title",
+      "Assume all were returned in 2021, when the main restitution agreements were signed",
+      "Use the museum's catalogue from 2015, the last full published listing"
      ],
      "a": 1,
      "w": "Restitution positions change as institutions decide. {{museumsassoc-benin}}",
@@ -544,12 +550,13 @@
      "t": "check",
      "q": "A family tradition places its founding ancestor 'far back in the mists of time'. A Dutch document names him in 1690. What does the Ano Asena case teach?",
      "o": [
-      "Trust the tradition",
-      "Traditions can push an ancestor into a distant past; a dated document anchors him",
-      "Documents are always wrong",
-      "Both are useless"
+      "Trust the tradition, since the family knows its own past better than traders",
+      "Documents are always wrong about African names, so trust neither of them",
+      "Traditions can push an ancestor into a distant past; a document anchors him",
+      "The Dutch document copies the tradition, so it adds no independent check",
+      "Both are useless, since they disagree and cannot be reconciled"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Ano Asena looks ancient but belongs about 1690. {{gha4-kipre}}",
      "kind": "application"
     },
@@ -557,12 +564,13 @@
      "t": "check",
      "q": "Gold Coast states expanded from the 1670s; slave exports outweighed gold only from about 1700. What does that order of events support?",
      "o": [
-      "The trade caused the states",
-      "State-building came first and the slave trade followed it, at least on the Gold Coast",
-      "Neither existed",
-      "Gold was never exported"
+      "State-building came first and the slave trade followed it there",
+      "Neither: the states and the trade arose independently of each other",
+      "The order proves the trade had no effect on the states at any point",
+      "Gold was never exported, so the slave trade was the only driver of growth",
+      "The slave trade caused the states, since demand was felt earlier"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The timing is the evidence; the reading is [CONTESTED]. {{gha5-lower}}",
      "kind": "application"
     },
@@ -723,12 +731,13 @@
      "t": "check",
      "q": "A textbook calls the Alafin of Oyo an absolute ruler. Which institution should you raise against that?",
      "o": [
-      "The Agojie",
-      "The Oyo Mesi, who elected the Alafin and could move his rejection",
-      "The Golden Stool",
-      "The Aro oracle"
+      "The Golden Stool, whose keepers had to approve each new Alafin",
+      "The Agojie, the women soldiers who guarded and could depose the Alafin",
+      "The Ife priests, who crowned every Alafin and could refuse him",
+      "The Aro oracle, which could overrule any judgement of the Alafin",
+      "The Oyo Mesi, who elected the Alafin and could move his rejection"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The seven Oyo Mesi checked the king. {{johnson}}",
      "kind": "application"
     },
@@ -736,12 +745,13 @@
      "t": "check",
      "q": "Oyo's cavalry conquered widely in the savanna but stopped at the forest edge. What explanation fits the evidence?",
      "o": [
-      "A treaty with Portugal",
+      "A long famine stopped the army at the forest edge",
+      "A treaty with Portugal fixed the forest edge as a border",
+      "Ife forbade any conquest of the forest kingdoms",
       "Its horses could not operate in the forest",
-      "Famine",
-      "Ife forbade it"
+      "The forest states had firearms and Oyo had none at all"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The forest was the barrier. {{gha5-alagoa}}",
      "kind": "application"
     },
@@ -858,12 +868,13 @@
      "t": "check",
      "q": "A map shows Igboland as 'empty' because it had no kingdom. Which example best challenges that map?",
      "o": [
-      "The Oyo cavalry",
+      "The Oyo cavalry, which crossed Igboland on its campaigns to the coast",
+      "Benin's walls, which ran into Igboland",
+      "The Kano Chronicle's list of Igbo trading towns",
       "The Aro trading network built around the Ibini Ukpabi oracle",
-      "Dahomey's Agojie",
-      "Benin's walls"
+      "Dahomey's Agojie, recruited from Igbo towns"
      ],
-     "a": 1,
+     "a": 3,
      "w": "State is one form of order; trade networks can be complex without one. {{wiki-aro}}",
      "kind": "application"
     },
@@ -871,12 +882,13 @@
      "t": "check",
      "q": "A town grew rich selling captives brought from inland, while its neighbours were raided. Which of the three kinds fits the town, and which the neighbours?",
      "o": [
-      "Both victims",
-      "The town a middleman, the neighbours victims",
-      "Both procurers",
-      "The town a victim"
+      "Both procurers, since both took part in raids",
+      "The town a procurer, the neighbours middlemen",
+      "The town a victim, the neighbours middlemen",
+      "Both victims, since all were drawn into the trade",
+      "The town a middleman, the neighbours victims"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Middlemen, procurers and victims met the trade differently. {{gha5-alagoa}}",
      "kind": "application"
     },
@@ -948,10 +960,11 @@
      "t": "check",
      "q": "Two versions of a founding myth disagree on who did what but both place the origin at Ife. What can a historian safely conclude?",
      "o": [
-      "Nothing",
-      "That the stories serve Ife's claim to precedence, whatever happened",
-      "That both are literally true",
-      "That Ife was founded by Europeans"
+      "That both are literally true, as they share the same place",
+      "That the stories serve Ife's claim to precedence",
+      "That the origin is invented, since the details differ",
+      "That Ife was the first Yoruba town, as both versions agree on it",
+      "Nothing, since the two versions contradict each other"
      ],
      "a": 1,
      "w": "Agreement on purpose is the usable evidence. {{johnson}}",
@@ -961,12 +974,13 @@
      "t": "check",
      "q": "You cannot find a source for a contested point about one state. What should your table say?",
      "o": [
-      "Invent one",
       "None found",
+      "Leave the whole table blank",
+      "Invent a plausible one",
       "Copy another state's",
-      "Leave the whole table blank"
+      "The point is firm"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Do not invent contested points.",
      "kind": "application"
     },
@@ -1071,12 +1085,13 @@
      "t": "check",
      "q": "You quote The History of the Yorubas (1921) as Samuel Johnson's words. What must you add?",
      "o": [
-      "Nothing",
-      "He finished in 1897 but the manuscript was lost; his brother Obadiah rebuilt the text from notes, so it is a joint product",
-      "It was written in 1500",
-      "It was banned"
+      "It was written in 1500 and only translated by Johnson in the 1890s",
+      "It is a translation from Yoruba by Obadiah, so Samuel's own English wording is lost",
+      "The manuscript was lost and his brother rebuilt it from notes, so it is joint",
+      "Nothing: Samuel Johnson finished and published it himself in 1921",
+      "It was banned by the colonial government, so the text was censored"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The brother reconstructed it after his death. {{bu-johnson}}",
      "kind": "application"
     },
@@ -1084,12 +1099,13 @@
      "t": "check",
      "q": "Why is the 1921 text called a joint product?",
      "o": [
-      "Two authors wrote it from scratch",
-      "Obadiah rewrote the book from Samuel's notes after the manuscript was lost",
-      "It is a translation",
-      "It was banned"
+      "Samuel wrote it, and Obadiah added footnotes from Church records",
+      "It was banned and rewritten by colonial editors before printing",
+      "Two authors wrote it from scratch, each taking half the chapters",
+      "Obadiah rebuilt the book from Samuel's notes after it was lost",
+      "It is a translation of Yoruba praise poems by several hands"
      ],
-     "a": 1,
+     "a": 3,
      "w": "That is the account in both sources. {{cup-johnson}}"
     },
     {

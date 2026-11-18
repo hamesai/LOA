@@ -1,0 +1,81 @@
+{
+ "key": "mackay-1841",
+ "title": "Memoirs of Extraordinary Popular Delusions, vol. 1 (Charles Mackay, 1841)",
+ "author": "",
+ "file": "mackay-1841.md",
+ "format": "md",
+ "sha256": "ddf0a23bbbe3e80fde40abafb78fb4e5d25afc001f9e2065ed645d43fa6c79e4",
+ "words": 96886,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Preface",
+   "words": 605
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "THE MISSISSIPPI SCHEME",
+   "words": 17265
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "THE SOUTH SEA BUBBLE",
+   "words": 15253
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "THE TULIPOMANIA",
+   "words": 3416
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "RELICS",
+   "words": 3196
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "MODERN PROPHECIES",
+   "words": 8541
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "POPULAR ADMIRATION FOR GREAT THIEVES",
+   "words": 5162
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "INFLUENCE OF POLITICS AND RELIGION ON THE HAIR AND BEARD",
+   "words": 2976
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "DUELS AND ORDEALS",
+   "words": 18954
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "THE LOVE OF THE MARVELLOUS AND THE DISBELIEF OF THE TRUE",
+   "words": 2548
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "POPULAR FOLLIES IN GREAT CITIES",
+   "words": 4602
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "THE O.P. MANIA",
+   "words": 14368
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-11-17",
+  "source_file": "mackay-1841.md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.394,
+  "odd_character_share": 0.002
+ }
+}

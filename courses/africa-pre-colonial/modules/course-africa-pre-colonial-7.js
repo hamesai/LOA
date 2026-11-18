@@ -82,12 +82,13 @@
      "t": "check",
      "q": "A school text says Bantu-speaking armies swept south and drove out the Khoisan in one great migration. What is the better account?",
      "o": [
-      "It is right",
-      "Small groups infiltrated over centuries, and farmers, herders and hunters coexisted and exchanged words and skills",
-      "The Khoisan arrived last",
-      "No one moved"
+      "The Khoisan arrived last, pushing into land the Bantu speakers had cleared",
+      "No one moved; the languages spread by trade among settled peoples alone",
+      "It is right: one great migration of armed farmers drove the Khoisan to the Cape",
+      "Small groups moved in over centuries, and farmers, herders and hunters mixed",
+      "Armies did sweep south, but over two great waves rather than just one"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Khoikhoi words in Zulu and Xhosa show long contact. {{gha4-south}}",
      "kind": "application"
     },
@@ -95,10 +96,11 @@
      "t": "check",
      "q": "Zulu has about 14 per cent Khoikhoi vocabulary. What does that suggest?",
      "o": [
-      "Nothing",
+      "Nothing, since loanwords can come from a single brief meeting",
       "Long, close contact between Nguni farmers and Khoikhoi herders",
-      "That Zulu is a Khoisan language",
-      "That the Khoikhoi arrived after 1800"
+      "That the Khoikhoi arrived in Zululand only after about 1800",
+      "That Zulu began as a Khoisan language and later became Bantu",
+      "That the Nguni conquered the Khoikhoi and took their language whole"
      ],
      "a": 1,
      "w": "Borrowed words show contact, not descent. {{gha4-south}}",
@@ -248,12 +250,13 @@
      "t": "check",
      "q": "A label says Great Zimbabwe was 'built in 1450 by a gold-trading king'. What is wrong?",
      "o": [
-      "Nothing",
-      "The walls date from the 13th century and the site was in decline by the mid-15th century; cattle wealth probably came before gold",
-      "It was built by Portugal",
-      "It was built in 1950"
+      "It was built by Portuguese traders who reached the plateau in the 1400s",
+      "The walls are 13th-century, but its gold wealth came first and its cattle only later on",
+      "Nothing: the walls were built in 1450 by a king grown rich on Swahili gold",
+      "The date is right, but the king's wealth came from ivory rather than from gold",
+      "The walls are 13th-century, it was declining by 1450, and cattle came before gold"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Fit the claim to the date ranges and the causes. {{gha4-zimb}} {{gha5-zambezia}}",
      "kind": "application"
     },
@@ -261,12 +264,13 @@
      "t": "check",
      "q": "Four sources date Great Zimbabwe between about 1200 and 1550. How should a lesson present this?",
      "o": [
-      "Pick one",
+      "Say the site is undated, since the sources disagree",
+      "Pick the best-known source and give its date as [FIRM]",
       "Give the range with the sources, and tag it [PROBABLE]",
-      "Average them",
-      "Say it is undated"
+      "Average the four to give a single date of about 1375",
+      "Give the earliest date only, since walls are built before they are used"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Show the range and who gives which dates. {{rd-zim}} {{chirikure}}",
      "kind": "application"
     },
@@ -411,12 +415,13 @@
      "t": "check",
      "q": "A 1930s pamphlet still says Phoenicians built Great Zimbabwe. Which work had already answered it?",
      "o": [
-      "Karl Mauch's visit",
-      "Caton-Thompson's 1929 excavation, following Randall-MacIver in 1905",
-      "Cecil Rhodes's survey",
-      "Theodore Bent's dig"
+      "Caton-Thompson's 1929 dig, following Randall-MacIver in 1905",
+      "Richard Hall's clearance of the site in the early 1900s",
+      "Cecil Rhodes's survey, which mapped the walls in the 1890s",
+      "Theodore Bent's dig of 1891, which found the soapstone birds",
+      "Karl Mauch's visit of 1871, which first described the ruins"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Randall-MacIver in 1905 and Caton-Thompson in 1929. {{sciam-zimbabwe}}",
      "kind": "application"
     },
@@ -424,12 +429,13 @@
      "t": "check",
      "q": "A history credits the Rozvi's 1690s victories wholly to their invincible army. What context is missing?",
      "o": [
-      "None",
-      "The Portuguese were stretched by the Omani siege of Fort Jesus and by disunited prazeros",
-      "The Rozvi had guns from Britain",
-      "The Mutapa helped them"
+      "Portugal was stretched by the Omani siege of Fort Jesus and divided prazeros",
+      "The Rozvi had firearms from British traders operating out of the Cape",
+      "The Portuguese had already withdrawn from the plateau after Mbwila in 1665",
+      "None: the Rozvi army was simply stronger than any force in the region at that time",
+      "The Mutapa state fought alongside the Rozvi against the Portuguese"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Weigh the enemy's weakness as well as the victor's strength. {{gha5-zambezia}}",
      "kind": "application"
     },
@@ -484,12 +490,13 @@
      "t": "check",
      "q": "A source counts 2,480 Khoisan killed by commandos in 1786 to 1795. How should you use the figure?",
      "o": [
-      "As an exact total",
-      "As an official colonial count, kept by the side that did the killing, so probably a minimum",
-      "As exaggerated by the Khoisan",
-      "As fiction"
+      "As fiction, since no colonial records survive from the 1780s at all",
+      "As an exact total, since official colonial records were kept with care",
+      "As exaggerated by the Khoisan, who supplied the figure to missionaries",
+      "As an official count kept by the killers' side, so probably a minimum",
+      "As an estimate made by later historians from population decline alone"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Name the source and its interest. {{rd-cape}}",
      "kind": "application"
     },
@@ -497,12 +504,13 @@
      "t": "check",
      "q": "An essay links the rise of the Zulu state to pressure from the Cape colony. What does the evidence on the northern Nguni say?",
      "o": [
-      "It is proved",
+      "It is proved: Cape traders armed Dingiswayo and so caused the rise",
+      "The Cape caused it indirectly, by pushing Xhosa refugees north into Natal",
       "The northern Nguni confederacies arose independently of Cape events",
-      "The Cape founded the Zulu state",
-      "There was no Zulu state"
+      "The Cape government founded the Zulu state as a buffer on its frontier",
+      "There was no Zulu state, only a loose alliance of chiefdoms"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The northern Nguni developments had their own causes. {{gha5-denoon}}",
      "kind": "application"
     },
@@ -620,12 +628,13 @@
      "t": "check",
      "q": "A website says Shaka invented the regiment system. What is the better claim?",
      "o": [
-      "Shaka invented everything",
-      "He extended and sharpened a regiment system already used by Dingiswayo, Zwide and the Sotho-Tswana",
-      "He invented guns",
-      "He invented nothing"
+      "He invented nothing; the regiments were Dingiswayo's alone",
+      "Shaka invented the regiments, the short spear and the horn formation together",
+      "He copied the regiment system from the British army at the Cape",
+      "He invented firearms drill, which he learned from Cape traders",
+      "He extended a regiment system already used by Dingiswayo, Zwide and others"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He built on a regional practice. {{gha6-mfecane}}",
      "kind": "application"
     },
@@ -633,10 +642,11 @@
      "t": "check",
      "q": "An essay calls the Anglo-Zulu War a one-sided British walkover. Which battle undercuts that?",
      "o": [
-      "Ulundi",
+      "Rorke's Drift, 22/01/1879, a British defence",
       "Isandlwana, 22/01/1879, a Zulu victory",
-      "Blood River",
-      "Mbwila"
+      "Mbwila, 1665, a Portuguese-led victory",
+      "Ulundi, 04/07/1879, the war's last battle",
+      "Blood River, 16/12/1838, a Boer victory"
      ],
      "a": 1,
      "w": "Isandlwana on 22/01/1879. {{britannica-isandlwana}}",
@@ -767,12 +777,13 @@
      "t": "check",
      "q": "A historian says the turmoil of the 1820s was caused by settler and slave raiding, and the Shaka story hid it. Whose argument is this, and how should you treat it?",
      "o": [
-      "Vansina's; settled",
+      "Shaka's own account, recorded by traders at Port Natal",
+      "Vansina's floating-gap argument, now settled among historians",
       "Cobbing's 1988 'alibi' argument, influential but contested",
-      "Rhodes's; proven",
-      "Shaka's own"
+      "Cobbing's 1988 'alibi' argument, now accepted by nearly all historians",
+      "Rhodes's argument, proven by the Cape colonial archives"
      ],
-     "a": 1,
+     "a": 2,
      "w": "His 1988 critique is one of several accounts. {{umlalazi-kings}}",
      "kind": "application"
     },
@@ -780,10 +791,11 @@
      "t": "check",
      "q": "Missionaries report a horde of 30,000 attackers; archives show about 2,000 displaced people. What lesson does Dithakong teach?",
      "o": [
-      "Missionaries are always right",
-      "Eyewitnesses with an interest can inflate threats; check against other records",
-      "Archives are always wrong",
-      "Both numbers are true"
+      "Missionaries are reliable eyewitnesses, so the archives must be incomplete",
+      "Interested eyewitnesses can inflate threats; check other records",
+      "Archives are always wrong about numbers, so prefer the eyewitness",
+      "Average the two figures to reach a defensible middle estimate",
+      "Both numbers are true: attackers and displaced people are different groups"
      ],
      "a": 1,
      "w": "Compare reports with the records. {{rd-zulu}}",
@@ -857,12 +869,13 @@
      "t": "check",
      "q": "How many days are there from 16/12/1878 to 22/01/1879?",
      "o": [
-      "22",
       "37",
-      "47",
-      "60"
+      "22",
+      "60",
+      "36",
+      "47"
      ],
-     "a": 1,
+     "a": 0,
      "w": "15 days to the end of December (31 minus 16) plus 22 is 37 (our arithmetic).",
      "kind": "application"
     },
@@ -870,12 +883,13 @@
      "t": "check",
      "q": "A testimony recorded in 1910 comes from a man born in 1840. What can he tell you about Shaka's reign?",
      "o": [
-      "What he saw",
+      "Nothing at all, since second-hand testimony has no value",
+      "What he saw as a boy at Shaka's court, before the king's death",
+      "Exact dates, since elders were trained to keep a count of years",
       "What others told him: he was born twelve years after Shaka died",
-      "Nothing at all",
-      "Exact dates"
+      "What he saw, since Shaka died in 1848, when he was eight years old"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Count the gap and the speaker's birth (our arithmetic). {{gha1-vansina}}",
      "kind": "application"
     },
@@ -981,24 +995,26 @@
      "t": "check",
      "q": "What does Vansina's method suggest about differences between versions of a tradition?",
      "o": [
-      "Discard them",
-      "They can signal shifts and struggles worth analysing",
-      "They prove forgery",
-      "They never occur"
+      "They never occur in well-kept court traditions",
+      "They prove that at least one version is a forgery",
+      "Average them to recover the original version",
+      "Discard them and keep only what all the versions share",
+      "They can signal shifts and struggles worth analysing"
      ],
-     "a": 1,
+     "a": 4,
      "w": "That is the later emphasis reported on the Oral tradition page. {{wiki-oral}}"
     },
     {
      "t": "check",
      "q": "A 70-year-old speaks in 1905. Could they have met Shaka (d. 1828)?",
      "o": [
-      "Yes",
       "No, they were born about 1835",
-      "Only if from Natal",
-      "Unknown"
+      "Yes, as a small child",
+      "Only if they came from Natal",
+      "Unknown, as ages are uncertain",
+      "Yes, they were born about 1825"
      ],
-     "a": 1,
+     "a": 0,
      "w": "1905 minus 70 is 1835. This is our arithmetic."
     },
     {

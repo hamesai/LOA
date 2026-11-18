@@ -102,12 +102,13 @@
      "t": "check",
      "q": "You have six hours to prepare a talk. Using the textbook's rule of thumb, how much of it should go on research?",
      "o": [
-      "Half of prep time",
-      "No more than one-third of prep time",
       "All of prep time",
-      "One hour"
+      "One hour",
+      "Half of prep time",
+      "At least half, since research is the foundation",
+      "No more than one third of prep time"
      ],
-     "a": 1,
+     "a": 4,
      "w": "It recommends devoting no more than one-third of preparation time to research. {{sus-res2}}",
      "kind": "application"
     },
@@ -115,10 +116,11 @@
      "t": "check",
      "q": "A study you want to cite appears in another author's book. What should you do?",
      "o": [
-      "Cite the book author as if they ran the study",
-      "Find and read the original study, or make clear you did not",
+      "Paraphrase without credit",
+      "Read the original study, or make clear you did not",
+      "Cite the study as if you had read it, since the book quotes it accurately",
       "Ignore the book",
-      "Paraphrase without credit"
+      "Cite the book author as if they ran the study"
      ],
      "a": 1,
      "w": "Secondary research should still be your research; do not give the impression of having seen the original if you have not. {{sus-res1}}"
@@ -231,24 +233,26 @@
      "t": "check",
      "q": "Which source is likely most current for a medical topic by the text's guideline?",
      "o": [
+      "An undated website updated often",
       "A 1998 book",
-      "A 2012 magazine article",
+      "An undated website",
       "A paper from the last five years",
-      "An undated website"
+      "A 2012 magazine article"
      ],
-     "a": 2,
+     "a": 3,
      "w": "For medical topics the text says to use sources from the past five years or less. {{sus-sup1}}"
     },
     {
      "t": "check",
      "q": "A blog author hides their identity and sells the product they discuss. Which criteria does it fail?",
      "o": [
-      "Only currency",
       "Authority and objectivity",
+      "Only currency",
       "None",
-      "Only accuracy"
+      "Only accuracy",
+      "Only accuracy, if the facts check out"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Anonymous authorship and a financial interest weaken authority and objectivity. {{sus-sup1}}"
     },
     {
@@ -369,22 +373,24 @@
      "t": "check",
      "q": "Which is a non-example?",
      "o": [
-      "A model of good crisis handling",
-      "A press release used to show what is NOT crisis management",
+      "An expert quote",
       "A story with an arc",
-      "An expert quote"
+      "A press release used to show what is NOT crisis management",
+      "A model of good crisis handling, used to show exactly what to do",
+      "A model of good crisis handling"
      ],
-     "a": 1,
+     "a": 2,
      "w": "A non-example shows what something is not. {{sus-sup2}}"
     },
     {
      "t": "check",
      "q": "A statistic says a figure 'rose 50 percent' from 20 to 40. What is wrong?",
      "o": [
-      "Nothing",
+      "The rise is actually 200 percent",
       "The rise is actually 100 percent",
-      "It fell",
-      "It is a lexical definition"
+      "Nothing",
+      "It is a lexical definition",
+      "It fell"
      ],
      "a": 1,
      "w": "40 − 20 = 20, and 20 ÷ 20 = 100%. {{sus-sup2}}"
@@ -505,12 +511,13 @@
      "t": "check",
      "q": "What should you do after delivering a quotation?",
      "o": [
-      "Move on at once",
-      "Explain how it relates to your argument and draw a conclusion",
+      "Move straight on, since the quote speaks for itself",
       "Read the URL",
-      "Apologise"
+      "Apologise",
+      "Move on at once",
+      "Explain how it relates to your argument"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Analysis shows the connection between support and argument. {{sus-sup3}}"
     },
     {
@@ -518,9 +525,10 @@
      "q": "Roughly how much of a speech should be direct quotation, per experts cited in the text?",
      "o": [
       "Most of it",
-      "Half",
+      "About a third, to show research",
       "No more than about 10 percent",
-      "None at all"
+      "None at all",
+      "Half"
      ],
      "a": 2,
      "w": "Experts recommend no more than 10 percent. {{sus-cite}}"
@@ -659,12 +667,13 @@
      "t": "check",
      "q": "Which five parts does the dialogue give to the orator's business?",
      "o": [
-      "Open, middle, end, thanks, questions",
       "Find, arrange, clothe in language, remember, deliver",
+      "Plan, hire, build, sell, close",
+      "Open, set out the facts, prove, refute and close with feeling",
       "Read, write, edit, print, post",
-      "Plan, hire, build, sell, close"
+      "Open, middle, end, thanks, questions"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Find out what to say, arrange it, clothe it in language, secure it in memory, deliver it. {{cicero-w}}"
     },
     {
@@ -672,11 +681,12 @@
      "q": "How does the memory method keep the order of the points?",
      "o": [
       "By the pitch of the voice",
+      "By rhymes and repeated key phrases",
+      "By writing them down",
       "By the order of imagined places",
-      "By counting",
-      "By writing them down"
+      "By counting"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Thoughts are recalled by images and their order by place. {{cicero-w}}"
     },
     {
@@ -684,9 +694,10 @@
      "q": "What does the dialogue say practice can and cannot do for memory?",
      "o": [
       "It can create any memory",
-      "It cannot create memory where nature gives none, but can bring out a latent one",
-      "It always fails",
-      "It only works on children"
+      "It can't create memory where none exists, but can bring one out",
+      "It only works on children",
+      "It can create a strong memory in anyone, whatever nature has given them",
+      "It always fails"
      ],
      "a": 1,
      "w": "Practice cannot form a memory if none is given by nature, but may call out a latent faculty. {{cicero-w}}"

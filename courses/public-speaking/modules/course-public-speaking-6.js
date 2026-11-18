@@ -134,24 +134,26 @@
      "t": "check",
      "q": "What should you do when you show a chart?",
      "o": [
+      "Hide it quickly",
       "Let it speak for itself",
-      "Explain what it shows and point out the key parts",
+      "Explain what it shows and point out key parts",
       "Read every number",
-      "Hide it quickly"
+      "Read every number aloud, so nothing at all is missed"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Aids do not 'speak for themselves'. {{sus-aid2}}"
     },
     {
      "t": "check",
      "q": "A five-minute speech should use a video clip no longer than about:",
      "o": [
+      "2 minutes or so",
       "30 seconds",
       "3 minutes",
-      "5 minutes",
-      "No limit"
+      "No limit",
+      "5 minutes"
      ],
-     "a": 0,
+     "a": 1,
      "w": "The text suggests under thirty seconds for a five-minute speech. {{sus-aid2}}"
     },
     {
@@ -275,24 +277,26 @@
      "t": "check",
      "q": "When should you normally hand out a takeaway handout?",
      "o": [
+      "During the speech, as you reach each point it covers",
       "During the speech",
-      "Before or after the speech, not in the middle",
+      "Never",
       "Pass one copy around",
-      "Never"
+      "Before or after the speech, not in the middle"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Handing out mid-speech distracts. {{sus-aid3}}"
     },
     {
      "t": "check",
      "q": "About how much of a slide or poster should a graphic take?",
      "o": [
+      "About 5 percent",
+      "None",
       "All of it",
       "About a third",
-      "About 5 percent",
-      "None"
+      "About three quarters"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The text says about a third, leaving room for a little text. {{sus-aid4}}"
     },
     {
@@ -407,12 +411,13 @@
      "t": "check",
      "q": "Your audience finds it hard to believe that heavy and light objects fall at the same rate. Which explanation type fits?",
      "o": [
-      "Elucidating",
-      "Quasi-scientific",
       "Transformative",
-      "None"
+      "Quasi-scientific (models and analogies)",
+      "None",
+      "Elucidating",
+      "Quasi-scientific"
      ],
-     "a": 2,
+     "a": 0,
      "w": "It starts with the audience's idea and shows its limits. {{sus-inf2}}",
      "kind": "application"
     },
@@ -420,12 +425,13 @@
      "t": "check",
      "q": "You are giving an informative talk on a proposed bypass that locals disagree about. What should you do?",
      "o": [
-      "Take a side",
-      "Represent each side fairly",
+      "Use loaded words",
       "Avoid it",
-      "Use loaded words"
+      "Take the side most of the audience holds",
+      "Represent each side fairly",
+      "Take a side"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The text asks for a fair statement of each side. {{sus-inf1}}",
      "kind": "application"
     },
@@ -562,22 +568,24 @@
      "o": [
       "'The bridge opened in 1932.'",
       "'The bridge should be closed.'",
-      "'The bridge design is ugly.'",
-      "'The bridge is a bridge, not a tunnel.'"
+      "'The bridge is a bridge, not a tunnel.'",
+      "'The bridge carries 40,000 cars a day.'",
+      "'The bridge design is ugly.'"
      ],
-     "a": 2,
+     "a": 4,
      "w": "It makes a judgment (ugly). {{sus-pers2}}"
     },
     {
      "t": "check",
      "q": "Why does the text caution about Monroe's sequence?",
      "o": [
+      "Little evidence shows it persuades more, though it seems organised",
+      "It only suits informative speeches",
       "It is illegal",
-      "Little evidence shows it is more persuasive, though listeners find it organised",
-      "It is too long",
-      "It only suits informative speeches"
+      "It is proven to be the most persuasive pattern, so it is overused by speakers",
+      "It is too long"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The only experiment did not find it more persuasive. {{sus-pers3}}"
     },
     {
@@ -719,22 +727,24 @@
      "t": "check",
      "q": "To whom did Douglass deliver the 1852 speech?",
      "o": [
-      "The US Congress",
-      "The Rochester Ladies' Anti-Slavery Society",
       "A school",
-      "A court"
+      "A court",
+      "The Rochester Ladies' Anti-Slavery Society",
+      "The American Anti-Slavery Society's national convention",
+      "The US Congress"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He delivered it to the Rochester Ladies' Anti-Slavery Society. {{douglass-ncc}}"
     },
     {
      "t": "check",
      "q": "What does Douglass say the moment needs?",
      "o": [
-      "Convincing argument",
+      "Calm argument and patient, careful evidence",
       "Scorching irony, not convincing argument",
-      "Silence",
-      "Applause"
+      "Convincing argument",
+      "Applause",
+      "Silence"
      ],
      "a": 1,
      "w": "He says at such a time scorching irony, not convincing argument, is needed. {{douglass-text}}"
@@ -744,11 +754,12 @@
      "q": "Why does 'You have already declared it' work as a move?",
      "o": [
       "It flatters the audience",
-      "It holds them to principles they have already stated",
+      "It is a joke",
+      "It holds them to principles they have stated",
       "It avoids the subject",
-      "It is a joke"
+      "It flatters them by praising their founding documents"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He asks them to apply principles they already declared. {{douglass-text}}"
     },
     {

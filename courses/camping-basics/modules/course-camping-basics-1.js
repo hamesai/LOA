@@ -108,22 +108,24 @@
      "t": "check",
      "q": "In the Republic of Ireland, you find an unfenced hillside with no house in sight. What do the sources say you must do?",
      "o": [
-      "Camp: public land is open to everyone",
-      "Camp: no sign means permission",
-      "Get permission first, because all land is owned and there is no right of free access",
-      "Camp only if you stay one night"
+      "Get permission first: all land is owned and there is no free access",
+      "Camp: unfenced public land is open to everyone",
+      "Camp: Ireland has a statutory right to roam on uncultivated hill land like Scotland's",
+      "Camp only if you stay a single night and leave no trace",
+      "Camp: no sign means permission is given"
      ],
-     "a": 2,
+     "a": 0,
      "w": "Leave No Trace Ireland says all land is owned and permission must be acquired, even on public land. {{lnt-ie}}"
     },
     {
      "t": "check",
      "q": "Which statement about Scotland is correct?",
      "o": [
-      "Camping is banned everywhere without a permit",
-      "Lightweight camping in small numbers for two or three nights is allowed on most land if you act responsibly",
-      "You may sleep in your car anywhere",
-      "Fires are always allowed"
+      "Camping of any size is allowed on all land for up to a week, so long as you leave no trace behind",
+      "Light camping in small numbers for two or three nights is allowed on most land",
+      "Camping is banned everywhere without a permit from the landowner",
+      "You may sleep in your car in any lay-by or car park",
+      "Fires are always allowed if you camp responsibly"
      ],
      "a": 1,
      "w": "The Scottish guide says exactly that, and adds that access rights do not include motor vehicles. {{soac}}"
@@ -233,24 +235,26 @@
      "t": "check",
      "q": "Which action best fits the principle about campfires?",
      "o": [
-      "Build a large fire for warmth",
-      "Use a stove for cooking and keep any fire small, contained and legal",
-      "Burn rubbish to avoid carrying it",
-      "Light a fire wherever wood is plentiful"
+      "Light a fire wherever dead wood is plentiful",
+      "Light a fire only in a ring of stones, which makes it legal on any land you camp on",
+      "Burn rubbish to avoid carrying it out",
+      "Cook on a stove, and keep any fire small, contained and legal",
+      "Build a large fire for warmth, then let it burn out"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Principle 5 says to use a stove when you can and keep fires small, contained and legal. {{lnt}}"
     },
     {
      "t": "check",
      "q": "A friend wants to take a pretty stone home. Which principle applies?",
      "o": [
-      "Plan ahead",
-      "Leave what you find",
+      "Minimise campfire impacts",
       "Respect wildlife",
+      "Leave what you find",
+      "Plan ahead and prepare",
       "Dispose of waste properly"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Principle 4: take photos, not souvenirs. {{lnt}}"
     },
     {
@@ -355,24 +359,26 @@
      "t": "check",
      "q": "Dry weeks are forecast and you are near a forest. What should you do for cooking?",
      "o": [
-      "Light a small fire",
-      "Use a stove on a level, non-flammable spot",
-      "Use a barbecue on the grass",
-      "Use a fire bowl"
+      "Light a small fire in a fire pit",
+      "Light a small fire, since a fire bowl or ring keeps it safe even in dry weather",
+      "Use a raised fire bowl",
+      "Use a disposable barbecue on the grass",
+      "Use a stove on a level, non-flammable spot"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The Scottish guide says to avoid open fires, including fire bowls and barbecues, in dry weather or near forests, and to use a stove instead. {{soac}}"
     },
     {
      "t": "check",
      "q": "How far from lochs, rivers and burns should you urinate, per the Scottish guide?",
      "o": [
-      "5 m",
+      "200 m (2 football pitches)",
       "15 m",
+      "100 m",
       "30 m",
-      "100 m"
+      "5 m"
      ],
-     "a": 2,
+     "a": 3,
      "w": "The guide gives at least 30 metres. {{soac}}"
     },
     {
@@ -453,22 +459,24 @@
      "t": "check",
      "q": "What do the sources suggest for a first trip?",
      "o": [
-      "A remote wild pitch",
-      "A developed or serviced campsite with toilets and water",
+      "A serviced campsite with toilets and water",
+      "A friend's field with no permission",
+      "A wild pitch close to a road, so you can drive out if it goes wrong",
       "Your car in a lay-by",
-      "A friend's field with no permission"
+      "A remote wild pitch"
      ],
-     "a": 1,
+     "a": 0,
      "w": "REI's guide recommends a developed campground for first-time campers. {{rei-beg}}"
     },
     {
      "t": "check",
      "q": "A campsite tap has no sign. What should you check before drinking?",
      "o": [
-      "Nothing: taps are always treated",
-      "Whether the water is treated, and treat it if not",
-      "Only the colour",
-      "Whether it is cold"
+      "Whether other campers have drunk from it without falling ill",
+      "Whether it is treated, and treat it if not",
+      "Only its colour",
+      "Whether it runs cold",
+      "Nothing: campsite taps are always treated"
      ],
      "a": 1,
      "w": "REI says to verify whether spigot water is treated; if not, treat it before drinking. {{rei-beg}}"
@@ -589,34 +597,37 @@
      "t": "check",
      "q": "What did Muir say about how he travelled in the mountains?",
      "o": [
+      "By train and stage",
       "With a large pack",
-      "On foot, carrying as little as possible",
       "By horse only",
-      "By train"
+      "On horseback, with a mule to carry his camp gear",
+      "On foot, carrying as little as possible"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He wrote that he travelled on foot carrying as little as possible. {{muir-np}}"
     },
     {
      "t": "check",
      "q": "In the UK and Ireland, why should you not copy Muir's use of camp-fires?",
      "o": [
-      "Fires are always allowed",
-      "Fires are often restricted, so follow local rules",
+      "Fires are always allowed, so copying him is fine",
       "Fires are unsafe in daylight",
-      "Muir never used fires"
+      "Fires are often restricted, so follow local rules",
+      "Muir never used fires",
+      "Fires are banned outright on all land in the UK and Ireland by national law"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Fire rules vary and are often restrictive. Check the fire lesson and the landowner's rules."
     },
     {
      "t": "check",
      "q": "You carry in 8.2 kg, eat 1.4 kg, burn 0.1 kg and drink 1.0 kg. About how much kit do you carry out?",
      "o": [
-      "8.2 kg",
+      "6.8 kg",
       "5.7 kg",
-      "1.4 kg",
-      "6.8 kg"
+      "8.2 kg",
+      "7.1 kg",
+      "1.4 kg"
      ],
      "a": 1,
      "w": "8.2 − 1.4 − 0.1 − 1.0 = 5.7 kg of kit, plus your rubbish."

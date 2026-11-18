@@ -217,22 +217,24 @@
      "t": "check",
      "q": "What did Morris's 1953 bus study compare?",
      "o": [
-      "Cyclists and walkers",
       "Bus drivers and conductors",
       "Doctors and nurses",
+      "Bus drivers and office clerks",
+      "Cyclists and walkers",
       "Men and women"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It compared sedentary bus drivers with more active conductors. {{lancet12}}"
     },
     {
      "t": "check",
      "q": "According to the 2024 review, why can an observational link overestimate the benefit of activity?",
      "o": [
+      "Because active people always report their activity too high in surveys",
+      "Being able to be active is itself a sign of good health",
       "Because trials are too large",
-      "Being able to be active is itself a marker of good health",
-      "Because step counters are inaccurate",
-      "Because it takes too long to read"
+      "Because it takes too long to read",
+      "Because step counters are inaccurate"
      ],
      "a": 1,
      "w": "Health and vitality can affect later activity, which biases the association. {{ding24}}"
@@ -241,12 +243,13 @@
      "t": "check",
      "q": "In the invented example, 30 of 1,000 against 20 of 1,000 is a relative risk of what?",
      "o": [
-      "1.0",
       "1.5",
+      "1.0",
+      "0.67",
       "2.0",
       "10"
      ],
-     "a": 1,
+     "a": 0,
      "w": "3.0% ÷ 2.0% = 1.5."
     },
     {
@@ -261,12 +264,13 @@
    "quiz": {
     "q": "What did Morris's 1953 bus study compare?",
     "o": [
-     "Cyclists and walkers",
      "Bus drivers and conductors",
      "Doctors and nurses",
+     "Bus drivers and office clerks",
+     "Cyclists and walkers",
      "Men and women"
     ],
-    "a": 1,
+    "a": 0,
     "w": "It compared sedentary bus drivers with more active conductors. {{lancet12}} {{ding24}}"
    }
   },
@@ -393,24 +397,26 @@
      "t": "check",
      "q": "What did the 1980 abstract say vigorous exercise appeared to protect against?",
      "o": [
-      "Nothing",
-      "Rapidly fatal heart attacks and other first clinical attacks of coronary disease",
+      "All causes of death, including cancer and accidents",
       "Colds",
-      "Weight gain"
+      "Weight gain",
+      "Rapidly fatal and other first heart attacks",
+      "Nothing"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The abstract says it apparently protected against rapidly fatal heart attacks and other first clinical attacks. {{morris80b}}"
     },
     {
      "t": "check",
      "q": "A client asks whether starting to walk will stop them having a heart attack. Why should your answer say the habit is 'linked to' lower risk rather than that it 'will' prevent one?",
      "o": [
-      "It sounds modest",
-      "A group finding cannot forecast one person",
       "Law requires it",
-      "The studies were on women"
+      "The studies were on women",
+      "A group finding cannot forecast one person",
+      "Walking has no link with heart attacks at all",
+      "It sounds modest"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Group studies show associations, and one person's picture can differ.",
      "kind": "application"
     },
@@ -418,12 +424,13 @@
      "t": "check",
      "q": "What is the purpose of the benefit-first screening script?",
      "o": [
-      "To avoid screening",
-      "To explain that screening is about starting safely",
+      "To skip referrals",
       "To sell sessions",
-      "To skip referrals"
+      "To persuade clients that they do not need to see a doctor first",
+      "To avoid screening",
+      "To explain that screening is about starting safely"
      ],
-     "a": 1,
+     "a": 4,
      "w": "It explains the questions and finds who needs a doctor first."
     },
     {
@@ -438,12 +445,13 @@
    "quiz": {
     "q": "What is the purpose of the benefit-first screening script?",
     "o": [
-     "To avoid screening",
-     "To explain that screening is about starting safely",
+     "To skip referrals",
      "To sell sessions",
-     "To skip referrals"
+     "To persuade clients that they do not need to see a doctor first",
+     "To avoid screening",
+     "To explain that screening is about starting safely"
     ],
-    "a": 1,
+    "a": 4,
     "w": "It explains the questions and finds who needs a doctor first."
    }
   },
@@ -584,9 +592,10 @@
      "t": "check",
      "q": "How did Rogers present his six conditions?",
      "o": [
-      "As proven law",
-      "As a hypothesis, not offered with assurance as to its correctness",
       "As a legal rule",
+      "As a hypothesis, not offered with assurance",
+      "As a proven law of therapy, tested in many trials",
+      "As proven law",
       "As a sales method"
      ],
      "a": 1,
@@ -596,22 +605,24 @@
      "t": "check",
      "q": "What does he say about unconditional positive regard in a footnote?",
      "o": [
+      "It exists in degrees, not all or nothing",
+      "It means agreeing with everything the client says",
+      "It means agreeing with everything",
       "It is absolute",
-      "It exists in degrees, not as an all-or-nothing state",
-      "It is unnecessary",
-      "It means agreeing with everything"
+      "It is unnecessary"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The phrase sounds absolute, but it exists as a matter of degree. {{rogers57pdf}}"
     },
     {
      "t": "check",
      "q": "Which part of his view should a trainer NOT carry over?",
      "o": [
-      "Listening",
+      "Checking understanding",
       "That no diagnosis or screening is needed",
       "Being genuine",
-      "Checking understanding"
+      "Saying back what you heard, to check it with the client",
+      "Listening"
      ],
      "a": 1,
      "w": "He says an accurate diagnosis is not necessary for therapy, which does not apply to fitness screening. {{rogers57pdf}}"
@@ -628,12 +639,13 @@
    "quiz": {
     "q": "What is a reflective reply?",
     "o": [
-     "Giving a fix",
-     "Saying back what you heard, then checking",
+     "Giving the client a clear fix for the problem",
+     "Praising the client",
      "Changing the subject",
-     "Praising the client"
+     "Saying back what you heard, then checking",
+     "Giving a fix"
     ],
-    "a": 1,
+    "a": 3,
     "w": "You say back what you heard and check it with the client. {{rogers57pdf}}"
    }
   },
@@ -750,12 +762,13 @@
      "t": "check",
      "q": "What are the three stages of the general adaptation syndrome?",
      "o": [
-      "Start, middle, end",
       "Alarm, resistance, exhaustion",
       "Warm-up, work, cool-down",
+      "Start, middle, end",
+      "Alarm, recovery, supercompensation",
       "Sleep, eat, train"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Alarm reaction, stage of resistance and stage of exhaustion. {{pmc-selye}}"
     },
     {
@@ -763,9 +776,10 @@
      "q": "What did Selye find in the rats whatever the noxious agent?",
      "o": [
       "A different result each time",
-      "The same triad: enlarged adrenals, shrunken thymus, ulcers",
+      "The same triad: big adrenals, small thymus, ulcers",
+      "Weight gain",
       "No change",
-      "Weight gain"
+      "A different set of changes for each of the agents he used"
      ],
      "a": 1,
      "w": "Every injected noxious agent produced the same findings. {{pmc-selye}}"
@@ -774,12 +788,13 @@
      "t": "check",
      "q": "Why call the model a rule of thumb?",
      "o": [
-      "It is old",
-      "Recent reviews have tried to refute it as a framework for training",
+      "It has been proven in many human training trials, so the label is only modesty",
       "It has no stages",
-      "It is only for rats"
+      "It is only for rats",
+      "Recent reviews have tried to refute it as a training framework",
+      "It is old"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The 2018 review says recent reviews have tried to refute the syndrome as a training framework. {{cunanan}}"
     },
     {
@@ -795,11 +810,12 @@
     "q": "What are the three stages of Selye's general adaptation syndrome?",
     "o": [
      "Start, middle, end",
+     "Sleep, eat, train",
+     "Alarm, recovery, supercompensation",
      "Alarm, resistance, exhaustion",
-     "Warm-up, work, cool-down",
-     "Sleep, eat, train"
+     "Warm-up, work, cool-down"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Alarm reaction, stage of resistance and stage of exhaustion. {{brit-gas}} {{pmc-selye}}"
    }
   },
@@ -919,12 +935,13 @@
      "t": "check",
      "q": "What did DeLorme originally use his method for?",
      "o": [
-      "Running",
       "Rehabilitation of injured servicemen",
+      "Sport performance",
+      "Running",
       "Weight loss",
-      "Sport performance"
+      "Training Olympic weightlifters for competition"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It began as a rehabilitation technique for injured servicemen. {{todd-delorme}}"
     },
     {
@@ -932,8 +949,9 @@
      "q": "What did DeLorme and Watkins say in 1948 about the 70 to 100 repetitions of the earlier method?",
      "o": [
       "It was ideal",
-      "It was too high, and 20 to 30 was more satisfactory in most cases",
+      "Too high; 20 to 30 was better in most cases",
       "It was too low",
+      "It was ideal, and it should not be changed in any way",
       "It should be doubled"
      ],
      "a": 1,
@@ -943,10 +961,11 @@
      "t": "check",
      "q": "In the worked example, what is the volume load of the three sets?",
      "o": [
-      "300",
       "600",
+      "1,200",
       "900",
-      "1,200"
+      "90",
+      "300"
      ],
      "a": 2,
      "w": "10 × 20 + 10 × 30 + 10 × 40 = 900."
@@ -963,12 +982,13 @@
    "quiz": {
     "q": "What did DeLorme originally use his method for?",
     "o": [
-     "Running",
      "Rehabilitation of injured servicemen",
+     "Sport performance",
+     "Running",
      "Weight loss",
-     "Sport performance"
+     "Training Olympic weightlifters for competition"
     ],
-    "a": 1,
+    "a": 0,
     "w": "It began as a rehabilitation technique for injured servicemen. {{todd-delorme}}"
    }
   },
@@ -1095,36 +1115,39 @@
      "t": "check",
      "q": "Why does a session count as one demand among many?",
      "o": [
-      "Selye counted any demand on the body as stress",
       "Sessions are always light",
       "It does not",
+      "Only training counts as a real demand on the body",
+      "Selye counted any demand on the body as stress",
       "Only illness counts"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Selye defined stress as the response to any demand. {{pmc-selye}}"
     },
     {
      "t": "check",
      "q": "What does the 2024 review say about people fighting fatigue from a condition?",
      "o": [
+      "More activity may be beyond their reach",
       "They should do more",
-      "More activity may be unobtainable for them",
-      "They should stop all activity",
-      "Nothing"
+      "Nothing",
+      "They should always do more, whatever their fatigue",
+      "They should stop all activity"
      ],
-     "a": 1,
+     "a": 0,
      "w": "It says more activity may be unobtainable when battling fatigue from a debilitating condition. {{ding24}}"
     },
     {
      "t": "check",
      "q": "A client has two heavy demands this week and poor sleep. What is a sensible step?",
      "o": [
-      "Raise the load",
+      "Keep the planned load, since consistency matters most",
+      "Ignore it",
       "Lighten the session and say why",
-      "Cancel without a word",
-      "Ignore it"
+      "Raise the load",
+      "Cancel without a word"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Total demand is high, so a lighter session fits the idea."
     },
     {
@@ -1139,12 +1162,13 @@
    "quiz": {
     "q": "Why does a session count as one demand among many?",
     "o": [
-     "Selye counted any demand on the body as stress",
      "Sessions are always light",
      "It does not",
+     "Only training counts as a real demand on the body",
+     "Selye counted any demand on the body as stress",
      "Only illness counts"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Selye defined stress as the response to any demand. {{pmc-selye}}"
    }
   },
@@ -1266,24 +1290,26 @@
      "t": "check",
      "q": "Which is a source of self-efficacy in Bandura's model?",
      "o": [
-      "Performance accomplishments",
-      "Equipment cost",
       "Weather",
-      "Session length"
+      "Session length",
+      "The trainer's qualifications",
+      "Equipment cost",
+      "Performance accomplishments"
      ],
-     "a": 0,
+     "a": 4,
      "w": "He names performance accomplishments, vicarious experience, verbal persuasion and physiological states. {{bandura77}}"
     },
     {
      "t": "check",
      "q": "According to Bandura, why is verbal persuasion weaker than performance accomplishments?",
      "o": [
+      "It is slow",
       "It is expensive",
-      "It lacks an authentic experiential base and can be extinguished by a disconfirming experience",
+      "No first-hand base, so one bad experience can undo it",
       "It is illegal",
-      "It is slow"
+      "It is stronger, since words reach more people than experience does"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He says persuasion-induced expectations are weaker because they lack an experiential base. {{bandura77}}"
     },
     {
@@ -1291,9 +1317,10 @@
      "q": "In the success log, 11 of 12 sessions completed is about what percentage?",
      "o": [
       "75%",
-      "85%",
+      "100%",
       "92%",
-      "100%"
+      "85%",
+      "89%"
      ],
      "a": 2,
      "w": "11 ÷ 12 = 0.917."
@@ -1310,12 +1337,13 @@
    "quiz": {
     "q": "Which is a source of self-efficacy in Bandura's model?",
     "o": [
-     "Performance accomplishments",
-     "Equipment cost",
      "Weather",
-     "Session length"
+     "Session length",
+     "The trainer's qualifications",
+     "Equipment cost",
+     "Performance accomplishments"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Performance accomplishments, vicarious experience, verbal persuasion and physiological states. {{bandura77}}"
    }
   }

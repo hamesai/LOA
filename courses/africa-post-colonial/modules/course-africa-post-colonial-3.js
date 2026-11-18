@@ -16,7 +16,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Pan-Africanism began outside the continent and was carried back by students and activists. It was never one programme: it ranged from cultural pride to continental government. {{lib}}"
+     "x": "Pan-Africanism began outside the continent and was carried back by students and activists. It was never one programme: it ranged from cultural pride to continental government. {{gha-viii-ch16}} {{brit-panaf}}"
     },
     {
      "t": "fig",
@@ -30,11 +30,11 @@
     },
     {
      "t": "p",
-     "x": "Nineteenth-century thinkers such as Edward Wilmot Blyden and Alexander Crummell, Ethiopianism in African churches, and the 1896 victory at Adwa all fed the idea. {{lib}}"
+     "x": "Nineteenth-century thinkers such as Edward Wilmot Blyden and Alexander Crummell, Ethiopianism in African churches, and the 1896 victory at Adwa all fed the idea. {{brit-panaf}} {{duncan-ethiopianism}} {{gha-ix}}"
     },
     {
      "t": "p",
-     "x": "In 1900 Henry Sylvester Williams, a Trinidadian lawyer, convened the Pan-African Conference in London. {{lib}} The date is conventional: one historian dates pan-Africanism to 1893, with a week-long meeting in Chicago, followed by Atlanta in 1895 and Williams's African Association in 1897. {{gha-ix}}"
+     "x": "In 1900 Henry Sylvester Williams, a Trinidadian lawyer, convened the Pan-African Conference in London. {{gha-vii-ch29}} The date is conventional: one historian dates pan-Africanism to 1893, with a week-long meeting in Chicago, followed by Atlanta in 1895 and Williams's African Association in 1897. {{gha-ix}}"
     },
     {
      "t": "p",
@@ -46,7 +46,7 @@
     },
     {
      "t": "p",
-     "x": "Marcus Garvey's Universal Negro Improvement Association, from 1914, used the slogan Africa for the Africans and ran the Black Star Line. {{lib}}"
+     "x": "Marcus Garvey's Universal Negro Improvement Association, from 1914, used the slogan Africa for the Africans and ran the Black Star Line. {{brit-garvey}} {{gv-afr}} {{gv-auto}}"
     },
     {
      "t": "p",
@@ -129,7 +129,7 @@
        "Mostly short of demanding independence"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha-viii-ch25}} {{brit-panaf}}"
     },
     {
      "t": "p",
@@ -149,12 +149,13 @@
      "t": "check",
      "q": "A poster says 'Pan-Africanism was born at the founding of the OAU in 1963.' Where did it actually begin?",
      "o": [
-      "In the Atlantic world, in the 1890s and 1900, among diaspora intellectuals",
-      "At the OAU in 1963",
-      "In Berlin in 1884",
-      "In Manchester in 1945"
+      "At the founding of the OAU in Addis Ababa in 1963",
+      "At the Manchester Congress of 1945, its first meeting",
+      "At the Berlin Conference, in reaction to partition, in 1884",
+      "In Accra in 1958, at the All-African People's Conference held by Nkrumah there",
+      "Among diaspora intellectuals in the Atlantic world, in the 1890s and 1900"
      ],
-     "a": 0,
+     "a": 4,
      "w": "It was coined and nurtured mostly in the diaspora. {{gha-ix}}",
      "kind": "application"
     },
@@ -162,12 +163,13 @@
      "t": "check",
      "q": "A biography says Garvey led 6 million members. How should you report the figure?",
      "o": [
-      "As a count",
-      "As Garvey's own claim for 1923, unverifiable and likely exaggerated",
-      "As a census figure",
-      "As the UNIA's audited total"
+      "As the UNIA's audited total for its peak year",
+      "As a census figure from the United States government",
+      "As an underestimate, since many members were never registered at all",
+      "As Garvey's own 1923 claim, unverifiable and likely high",
+      "As a count, since the UNIA kept membership registers"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Self-reported membership needs a caution. {{gv-intro}}",
      "kind": "application"
     },
@@ -295,12 +297,13 @@
      "t": "check",
      "q": "A summary says African nationalism began with Manchester in 1945. Which evidence shows it is older?",
      "o": [
-      "None",
-      "The NCBWA (1920), Egypt's 1919 revolution and the Kikuyu Central Association (1924)",
-      "The OAU",
-      "The Berlin Conference"
+      "The NCBWA (1920), Egypt's 1919 revolution and the KCA (1924)",
+      "The Berlin Conference, which provoked the first protests",
+      "The OAU, which grew out of earlier nationalist parties",
+      "None: there was no organised nationalism before the Second World War ended",
+      "The Atlantic Charter of 1941, which first named self-rule"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Interwar movements came first. {{gha-vii-ch25}} {{gha-vii-ne}}",
      "kind": "application"
     },
@@ -308,10 +311,11 @@
      "t": "check",
      "q": "Egypt became 'independent' in 1922. Why should you qualify that?",
      "o": [
-      "It did not",
-      "Britain kept four reserved points, including defence and Sudan, and the 1936 treaty legalised the occupation",
-      "Egypt joined France",
-      "Egypt was never occupied"
+      "Britain kept only the Suez Canal, and gave up every other power that year",
+      "Britain kept four reserved points, and the 1936 treaty kept its troops",
+      "It did not: Egypt remained a British colony in law until 1956",
+      "Egypt was never occupied, so independence changed nothing",
+      "Egypt joined France's empire instead, under a new treaty"
      ],
      "a": 1,
      "w": "Formal independence with reserved powers. {{gha-vii-ne}}",
@@ -338,11 +342,11 @@
     },
     {
      "t": "p",
-     "x": "In 1930s Paris, Aime Cesaire of Martinique, Leopold Senghor of Senegal and Leon Damas of French Guiana developed Negritude. It affirmed African values against colonial assimilation. {{lib}}"
+     "x": "In 1930s Paris, Aime Cesaire of Martinique, Leopold Senghor of Senegal and Leon Damas of French Guiana developed Negritude. It affirmed African values against colonial assimilation. {{gha-vii-ch29}} {{gha-viii-ch05}}"
     },
     {
      "t": "p",
-     "x": "Frantz Fanon, from Martinique and active in Algeria, later criticised its limits [CONTESTED]. {{lib}} Negritude lost its hold as the circumstances that produced it disappeared. {{gha-vii-ch21}}"
+     "x": "Frantz Fanon, from Martinique and active in Algeria, later criticised its limits [CONTESTED]. {{sep-fanon}} Negritude lost its hold as the circumstances that produced it disappeared. {{gha-vii-ch21}}"
     },
     {
      "t": "h",
@@ -362,7 +366,7 @@
     },
     {
      "t": "p",
-     "x": "The Fifth Pan-African Congress was organised by George Padmore and Kwame Nkrumah with Du Bois as honorary chair. Jomo Kenyatta, Peter Abrahams and Hastings Banda also took part. {{lib}}"
+     "x": "The Fifth Pan-African Congress was organised by George Padmore and Kwame Nkrumah with Du Bois as honorary chair. Jomo Kenyatta, Peter Abrahams and Hastings Banda also took part. {{gha-viii-ch25}} {{gha-viii-ch07}}"
     },
     {
      "t": "p",
@@ -379,7 +383,7 @@
     },
     {
      "t": "p",
-     "x": "After Ghana's independence, the Conference of Independent African States met in April 1958 and the All-African Peoples' Conference in December 1958. Nkrumah argued for political union. {{lib}}"
+     "x": "After Ghana's independence, the Conference of Independent African States met in April 1958 and the All-African Peoples' Conference followed in Accra. Nkrumah argued for political union. {{gha-viii-ch27}} {{gha-viii-ch09}}"
     },
     {
      "t": "table",
@@ -410,7 +414,7 @@
        "First hosted by an independent sub-Saharan state"
       ]
      ],
-     "src": "{{gha-viii-ch05}} {{lib}}"
+     "src": "{{gha-viii-ch05}}"
     },
     {
      "t": "example",
@@ -426,12 +430,13 @@
      "t": "check",
      "q": "You are explaining why historians treat Manchester 1945 as a turning point. What made it different, and what is its limit?",
      "o": [
-      "A majority of African delegates demanding independence; but no delegates from French, Portuguese or Belgian territories",
-      "It was held in Berlin",
-      "Garvey chaired it",
-      "It created the OAU"
+      "It was held in Berlin, so it reached European governments directly",
+      "Its delegates came from every colony, French and Belgian included, so it spoke for the whole continent",
+      "Mostly African delegates demanding independence; none from French, Portuguese or Belgian lands",
+      "It created the OAU, so it had lasting institutions",
+      "Garvey chaired it, so it brought in the mass UNIA membership"
      ],
-     "a": 0,
+     "a": 2,
      "w": "Name both the change and the gap. {{gha-viii-ch05}}",
      "kind": "application"
     },
@@ -439,13 +444,14 @@
      "t": "check",
      "q": "A student calls Negritude a political party. What is the correction?",
      "o": [
-      "It is right",
-      "It was a cultural and literary movement affirming African values against assimilation",
-      "It was a trade union",
-      "It was a colonial office"
+      "It was a trade union for African writers in Paris",
+      "It is right: it was Senghor's party in Senegal",
+      "It was a colonial office for cultural policy",
+      "A cultural and literary movement affirming African values",
+      "It was a French campaign for full assimilation of Africans"
      ],
-     "a": 1,
-     "w": "Cesaire, Senghor and Damas developed it as a cultural movement. {{lib}}",
+     "a": 3,
+     "w": "Cesaire, Senghor and Damas developed it as a cultural movement.",
      "kind": "application"
     },
     {
@@ -469,11 +475,11 @@
     },
     {
      "t": "p",
-     "x": "By 1961 the Casablanca group, including Ghana, Guinea, Mali, Egypt and Morocco, favoured quick union. The Monrovia group, including Nigeria, Liberia, Senegal and Ethiopia, favoured cooperation among sovereign states. {{lib}}"
+     "x": "By 1961 the Casablanca group, including Ghana, Guinea, Mali, Egypt and Morocco, favoured quick union. The Monrovia group, including Nigeria, Liberia, Senegal and Ethiopia, favoured cooperation among sovereign states. {{gha-viii-ch24}} {{gha-viii-ch14}}"
     },
     {
      "t": "p",
-     "x": "Nkrumah's Africa Must Unite (1963) argued for a continental government. Julius Nyerere and others preferred gradual regional steps. {{lib}} The radical Casablanca school distrusted regional steps, while the moderate Monrovia school accepted them. {{gha-viii-ch14}}"
+     "x": "Nkrumah's Africa Must Unite (1963) argued for a continental government. Julius Nyerere and others preferred gradual regional steps. {{gha-viii-ch24}} The radical Casablanca school distrusted regional steps, while the moderate Monrovia school accepted them. {{gha-viii-ch14}}"
     },
     {
      "t": "table",
@@ -500,7 +506,7 @@
        "Nigeria, Liberia, Senegal, Ethiopia"
       ]
      ],
-     "src": "{{lib}} {{gha-viii-ch14}}"
+     "src": "{{gha-viii-ch14}}"
     },
     {
      "t": "h",
@@ -534,7 +540,7 @@
     {
      "t": "callout",
      "k": "key",
-     "x": "The Charter itself does not say 'existing borders'; it speaks of each state's territorial integrity. {{oau-charter}} The pledge to respect colonial-era borders, the uti possidetis principle, came from the Cairo resolution of 1964 [FIRM]. {{lib}}"
+     "x": "The Charter itself does not say 'existing borders'; it speaks of each state's territorial integrity. {{oau-charter}} The pledge to respect colonial-era borders, the uti possidetis principle, came from the Cairo resolution of 1964 [FIRM]. {{au-cairo-1964}}"
     },
     {
      "t": "h",
@@ -558,7 +564,7 @@
     },
     {
      "t": "p",
-     "x": "Critics call the OAU a club of presidents that failed to confront abusive governments. Supporters credit it with helping end white-minority rule and keeping most border wars limited [CONTESTED]. {{lib}}"
+     "x": "Critics call the OAU a club of presidents that failed to confront abusive governments. Supporters credit it with helping end white-minority rule and keeping most border wars limited [CONTESTED]. {{gha-viii-ch24}}"
     },
     {
      "t": "example",
@@ -574,10 +580,11 @@
      "t": "check",
      "q": "In 1963 Casablanca wanted a strong union and Monrovia a looser one. Looking at the OAU's rules, which group did it resemble more?",
      "o": [
-      "Casablanca",
-      "Monrovia, with sovereign equality, non-interference and no supranational authority",
-      "Neither: it had a world army",
-      "It abolished borders"
+      "Neither: it had a world army under UN command",
+      "Monrovia: sovereign equality, non-interference, no supranational power",
+      "Casablanca: a joint high command, a common market and a continental government",
+      "Both equally, since the Charter split every issue down the middle",
+      "Neither: it abolished the colonial borders"
      ],
      "a": 1,
      "w": "The compromise was closer to Monrovia. {{oau-charter}}",
@@ -587,12 +594,13 @@
      "t": "check",
      "q": "An essay says 'the OAU Charter of 1963 froze the colonial borders'. What is the precise correction?",
      "o": [
-      "It is right",
-      "The Charter speaks of territorial integrity; the explicit pledge to keep colonial-era borders came in the Cairo resolution of 1964",
-      "The OAU redrew the borders",
-      "There were no borders"
+      "The pledge came at Manchester in 1945 and the Charter repeated it",
+      "There were no borders to freeze, since most states had none",
+      "The Charter says territorial integrity; the border pledge came at Cairo in 1964",
+      "The OAU redrew the borders in 1963 to match ethnic groups",
+      "It is right: the Charter of 1963 contains the explicit pledge on colonial borders"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Check the text before quoting it. {{oau-charter}}",
      "kind": "application"
     },
@@ -756,12 +764,13 @@
      "t": "check",
      "q": "A friend shares a quotation from a '1712 speech' that uses the word 'program'. Which test does it fail, and why?",
      "o": [
-      "Provenance, because it is short",
-      "Language and anachronism: 'program' did not carry its modern meaning until 1837",
-      "Corroboration, because it is long",
-      "None"
+      "Corroboration, because it is long and detailed",
+      "Provenance, because the speech is too short to be real",
+      "None: a single word cannot show a fake",
+      "Language: 'program' was spelled 'programme' in 1712, so it is mistyped",
+      "Language: 'program' had no modern sense until 1837"
      ],
-     "a": 1,
+     "a": 4,
      "w": "A word can date a text. {{cobb}}",
      "kind": "application"
     },
@@ -769,12 +778,13 @@
      "t": "check",
      "q": "Someone says 'the letter is not real, but it is true in spirit'. Why is that risky?",
      "o": [
-      "It is always correct",
-      "It treats a fake as evidence and hides the real, documented sources",
-      "It was proved by archaeology",
-      "It means the letter is authentic"
+      "It treats a fake as evidence and hides the real sources",
+      "It is harmless, since readers know it is a summary",
+      "It means the letter is authentic after all",
+      "It was proved by archaeology on the plantations",
+      "It is always correct, since the tactics described did exist"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Real evidence is plentiful, and fiction cannot substitute for fact. {{sun}}",
      "kind": "application"
     },
@@ -804,7 +814,7 @@
     },
     {
      "t": "p",
-     "x": "He moved to Ghana in October 1961 and died in Accra on 27/08/1963, aged 95, and was given a state funeral. He organised the Pan-African Congresses. {{wiki-dubois}} {{lib}}"
+     "x": "He moved to Ghana in October 1961 and died in Accra on 27/08/1963, aged 95, and was given a state funeral. He organised the Pan-African Congresses. {{wiki-dubois}}"
     },
     {
      "t": "h",
@@ -815,7 +825,7 @@
      "i": [
       "Ask what data supports the claim, as in his fieldwork. {{wiki-dubois}}",
       "Ask for references, as in Black Reconstruction. {{wiki-dubois}}",
-      "Ask who organised the evidence and why. {{lib}}",
+      "Ask who organised the evidence and why.",
       "Run the four tests of authenticity on any quoted document.",
       "Say plainly what the evidence supports and what it does not."
      ]
@@ -881,12 +891,13 @@
      "t": "check",
      "q": "A classmate wants to write about a community without visiting or interviewing anyone. Which of Du Bois's habits would challenge that?",
      "o": [
-      "Fieldwork",
       "Slogans",
-      "Flattery",
-      "Silence"
+      "Silence",
+      "Fieldwork",
+      "Archive work alone",
+      "Flattery"
      ],
-     "a": 0,
+     "a": 2,
      "w": "The Philadelphia Negro rested on fieldwork. {{wiki-dubois}}",
      "kind": "application"
     },
@@ -894,12 +905,13 @@
      "t": "check",
      "q": "Where did Du Bois die?",
      "o": [
+      "Manchester, in 1945",
       "Accra, on 27/08/1963",
-      "Manchester, 1945",
-      "Paris, 1919",
-      "Lagos, 1960"
+      "Paris, in 1919",
+      "Lagos, in 1960",
+      "Atlanta, on 27/08/1963"
      ],
-     "a": 0,
+     "a": 1,
      "w": "He had moved to Ghana in 1961. {{wiki-dubois}}"
     },
     {

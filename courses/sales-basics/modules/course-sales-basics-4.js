@@ -79,7 +79,8 @@
       "Reading slides aloud",
       "Listening, adapting and solving problems",
       "Closing in the first minute",
-      "Showing off"
+      "Showing off",
+      "Covering every single feature that is on the slides"
      ],
      "a": 1,
      "w": "It says presentations are for listening, adapting and solving problems. {{ps-pres1}}",
@@ -89,12 +90,13 @@
      "t": "check",
      "q": "You are presenting at a client's office and their projector may not work with your laptop. What does the text recommend you bring, and why?",
      "o": [
-      "Because it looks old-fashioned",
-      "In case technology fails",
-      "To keep the prospect from reading",
-      "It is required"
+      "Nothing, since printed copies look old-fashioned and let the client read ahead",
+      "A spare cable only",
+      "Nothing: rely on the client's system",
+      "Printed copies, in case the technology fails",
+      "A second laptop only"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The text recommends contingency plans such as handouts if equipment fails. {{ps-pres2}}",
      "kind": "application"
     },
@@ -198,10 +200,11 @@
      "t": "check",
      "q": "The client has said their old system crashes weekly. Which SPIN question type should you ask next to explore what those crashes cost them?",
      "o": [
-      "Situation",
+      "Need-payoff",
       "Problem",
       "Implication",
-      "Need-payoff"
+      "Situation",
+      "Need-payoff (value)"
      ],
      "a": 2,
      "w": "Implication questions uncover effects and consequences. {{ps-pres3}}",
@@ -211,12 +214,13 @@
      "t": "check",
      "q": "Why ask situation questions sparingly?",
      "o": [
+      "Too many bore the prospect and cost credibility",
       "They are illegal",
-      "Too many can bore the prospect and cost credibility; research first",
+      "They are the most powerful questions, so save them",
       "They are expensive",
       "They are closed questions"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The text warns that too many situation questions bore the prospect. {{ps-pres3}}"
     },
     {
@@ -333,11 +337,12 @@
      "q": "Which is an open question?",
      "o": [
       "Do you use email?",
-      "What are your biggest frustrations with your current system?",
+      "Would you agree that your current system is too slow for your team?",
       "Is that right?",
-      "Can we meet Friday?"
+      "Can we meet Friday?",
+      "What are your biggest frustrations with your current system?"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Open questions start with who, what, when, where or why. {{ps-pres4}}",
      "kind": "application"
     },
@@ -345,12 +350,13 @@
      "t": "check",
      "q": "What does a negative reaction to a trial close mean?",
      "o": [
+      "Time to leave",
       "The prospect will never buy",
       "A signal to change your strategy",
-      "Time to leave",
+      "The prospect will never buy, so leave",
       "Close harder"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The text says it is a signal to change your strategy, not necessarily a no. {{ps-pres4}}"
     },
     {
@@ -474,12 +480,13 @@
      "t": "check",
      "q": "A purchase costs £2,000 and saves £800 a year for 5 years. What is the ROI?",
      "o": [
-      "100%",
-      "150%",
+      "50%",
       "200%",
+      "150%",
+      "100%",
       "40%"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Savings £4,000 − cost £2,000 = £2,000 benefit; £2,000 ÷ £2,000 × 100 = 100%. {{ps-pres2}}",
      "kind": "application"
     },
@@ -488,8 +495,9 @@
      "q": "When should a salesperson raise price, according to the text?",
      "o": [
       "First, to filter buyers",
-      "Not early; after the prospect has connected with the solution, but never hide it",
+      "After they connect with the solution; never hide it",
       "Never",
+      "First, so the buyer can decide early whether to go on",
       "Only in writing"
      ],
      "a": 1,
@@ -630,36 +638,39 @@
      "t": "check",
      "q": "According to Selfridge, what does the sales manager need to do first?",
      "o": [
-      "Cut prices",
-      "Put himself in the place of the public and think from the customer's standpoint",
+      "Set targets for each counter and each salesman",
       "Hire more staff",
-      "Close the windows"
+      "Cut prices",
+      "Close the windows",
+      "Think from the customer's standpoint"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He says the manager must think from the standpoint of the customer. {{selfridge-roc}}"
     },
     {
      "t": "check",
      "q": "What was the staff precept in The Romance of Commerce?",
      "o": [
-      "Never speak",
       "Don't make the same mistake twice",
-      "Always argue",
-      "Close early"
+      "Never speak",
+      "The customer is always right, whatever",
+      "Close early",
+      "Always argue"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He gives the precept 'Don't make the same mistake twice'. {{selfridge-roc}}"
     },
     {
      "t": "check",
      "q": "Which feature did Selfridges include for customers?",
      "o": [
-      "A silence room",
-      "A cinema only",
       "A factory floor",
-      "A bank vault"
+      "A bank vault",
+      "A free crèche",
+      "A silence room",
+      "A cinema only"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Wikipedia lists a silence room among the store's features. {{selfridge}}"
     },
     {

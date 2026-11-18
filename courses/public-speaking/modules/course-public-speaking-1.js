@@ -106,10 +106,11 @@
      "t": "check",
      "q": "Which is NOT one of the three components of getting your message across?",
      "o": [
+      "Skill in delivery",
       "Message",
       "Skill",
-      "Passion",
-      "Loud volume"
+      "Loud volume",
+      "Passion"
      ],
      "a": 3,
      "w": "The text names message, skill and passion. {{sus-process}}"
@@ -118,12 +119,13 @@
      "t": "check",
      "q": "A speaker is asked to report project progress to managers. Which purpose is this mainly?",
      "o": [
-      "Entertaining",
-      "Persuasive",
       "Informative",
-      "Ceremonial"
+      "Ceremonial",
+      "Persuasive, since managers decide",
+      "Persuasive",
+      "Entertaining"
      ],
-     "a": 2,
+     "a": 0,
      "w": "Reporting progress shares information. {{sus-why}}",
      "kind": "application"
     },
@@ -242,22 +244,24 @@
      "t": "check",
      "q": "What are the three levels of the ethics pyramid?",
      "o": [
-      "Speaker, listener, message",
-      "Intent, means, ends",
       "Fact, opinion, belief",
-      "Plan, write, deliver"
+      "Speaker, listener, message",
+      "Plan, write, deliver",
+      "Honesty, fairness and respect",
+      "Intent, means, ends"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Intent, means and ends. {{sus-pyramid}}"
     },
     {
      "t": "check",
      "q": "You find a statistic in an article that cites a study. How should you cite it?",
      "o": [
-      "Credit the article's author as the researcher",
-      "Trace and cite the original study you read",
       "No citation is needed",
-      "Use air quotes"
+      "Trace and cite the original study you read",
+      "Credit the article's author as the researcher",
+      "Use air quotes",
+      "Cite the article's author as if they had run the study themselves"
      ],
      "a": 1,
      "w": "The third trap is re-citing someone else's sources as your own; go to the original. {{sus-ethics}}"
@@ -413,12 +417,13 @@
      "t": "check",
      "q": "Your friend says any nerves before a talk mean it will go badly. Which response does the text support?",
      "o": [
-      "Imagining the audience naked reduces nerves",
+      "Any nervousness at all shows in your voice, so the talk will suffer",
+      "Audiences see exactly how nervous you are",
       "A little nervousness can help a speech",
-      "You must memorise the speech",
-      "Audiences see exactly how nervous you are"
+      "Imagining the audience naked reduces nerves",
+      "You must memorise the speech"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The text says a little nervousness helps. {{sus-ca}}",
      "kind": "application"
     },
@@ -426,12 +431,13 @@
      "t": "check",
      "q": "Chris is relaxed chatting at work but dreads speaking at a formal awards dinner in a new venue. Which type of anxiety is this?",
      "o": [
-      "Trait",
       "Context",
       "Audience",
-      "Situational only"
+      "Trait, since it is part of who Chris is",
+      "Situational only",
+      "Trait"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Formality, uncertainty and novelty drive context anxiety. {{sus-ca2}}",
      "kind": "application"
     },
@@ -548,14 +554,15 @@
     },
     {
      "t": "check",
-     "q": "You feel worst in the five minutes before you stand up. On the study cited, is that unusual, and what should you plan for?",
+     "q": "You feel worst in the five minutes before you stand up. On the study cited, is that unusual?",
      "o": [
-      "Mid-speech",
-      "Just before starting",
-      "The last minute",
-      "After the speech"
+      "Yes, it is unusual, since most speakers feel worst during the speech itself",
+      "Yes: it usually peaks mid-speech",
+      "Yes: it usually peaks at the end",
+      "Yes: it usually peaks afterwards",
+      "No: anxiety often peaks just before starting"
      ],
-     "a": 1,
+     "a": 4,
      "w": "It peaked at the anticipatory stage. {{sus-ca3}}",
      "kind": "application"
     },
@@ -563,12 +570,13 @@
      "t": "check",
      "q": "A classmate avoids every meeting and phone call because of anxiety, and it is affecting their job. What does the NHS advise?",
      "o": [
-      "Ignore it",
-      "See a GP or self-refer to NHS talking therapies",
       "Memorise your speech",
-      "Avoid all speaking"
+      "Avoid all speaking",
+      "See a GP or self-refer to NHS talking therapies",
+      "Practise more speeches until the anxiety fades on its own",
+      "Ignore it"
      ],
-     "a": 1,
+     "a": 2,
      "w": "It advises seeing a GP and mentions self-referral. {{nhs-social}}",
      "kind": "application"
     },
@@ -696,35 +704,38 @@
      "q": "How does Aristotle define rhetoric?",
      "o": [
       "The art of ornament",
-      "The faculty of observing the available means of persuasion in any given case",
-      "The study of grammar",
-      "The art of winning at any cost"
+      "The art of winning at any cost",
+      "The art of moving any audience to agree, whatever the case or the truth",
+      "The faculty of observing the available means of persuasion",
+      "The study of grammar"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He defines it as the faculty of observing in any given case the available means of persuasion. {{arist-b1}}"
     },
     {
      "t": "check",
      "q": "A member of an assembly deciding about a plan is a hearer of which kind of speech?",
      "o": [
+      "None",
+      "Political",
       "Forensic",
       "Ceremonial",
-      "Political",
-      "None"
+      "Forensic (legal)"
      ],
-     "a": 2,
+     "a": 1,
      "w": "A member of the assembly decides about future events, which is political oratory. {{arist-b1}}"
     },
     {
      "t": "check",
      "q": "According to Aristotle, where must persuasion by character be achieved?",
      "o": [
+      "By the audience's gossip",
+      "By the speaker's reputation before the speech",
       "Before the speech begins",
-      "By what the speaker says",
       "On the title page",
-      "By the audience's gossip"
+      "By what the speaker says"
      ],
-     "a": 1,
+     "a": 4,
      "w": "It must be achieved by what the speaker says, not by prior reputation. {{arist-b1}}"
     },
     {

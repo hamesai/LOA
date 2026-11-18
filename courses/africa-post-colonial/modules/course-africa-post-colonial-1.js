@@ -72,7 +72,7 @@
     },
     {
      "t": "p",
-     "x": "A commonly cited estimate puts European control at about 10 per cent of the continent in 1870, mostly on the coast, and about 90 per cent by 1914, with only Ethiopia and Liberia formally independent. Both percentages are approximations [ESTIMATE], so treat them as a shape and not as a measurement. {{lib}}"
+     "x": "A commonly cited estimate puts European control at about 10 per cent of the continent in 1870, mostly on the coast, and about 90 per cent by 1914, with only Ethiopia and Liberia formally independent. Both percentages are approximations [ESTIMATE], so treat them as a shape and not as a measurement. {{brit-scramble}}"
     },
     {
      "t": "example",
@@ -188,11 +188,11 @@
        "Can undersell European choice"
       ]
      ],
-     "src": "{{lib}}"
+     "src": "{{gha-vii-ch02}}"
     },
     {
      "t": "p",
-     "x": "The honest answer names several causes and avoids a single one [CONTESTED]. {{lib}}"
+     "x": "The honest answer names several causes and avoids a single one [CONTESTED]."
     },
     {
      "t": "h",
@@ -210,12 +210,13 @@
      "t": "check",
      "q": "A textbook caption reads: 'At Berlin in 1884 to 1885 Europe drew the map of modern Africa.' Which sentence should replace it?",
      "o": [
-      "It drew the map of modern Africa.",
-      "It set ground rules and recognised Leopold's Congo claim, with no African present; borders came from later bilateral deals.",
-      "It was held in 1895.",
-      "African kings signed its Act."
+      "It set rules and recognised Leopold's Congo with no African present; borders came later",
+      "It drew the borders of modern Africa on one map, signed by every European power present there",
+      "It was held in 1895, after most of the borders had already been fixed by war",
+      "It drew the main borders, but African rulers were consulted through their European envoys",
+      "It set rules for trade on the Niger only, and partition was decided at Brussels in 1890"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The 'carved up' picture is a myth. {{hs-berlin}} {{ehne-berlin}}",
      "kind": "application"
     },
@@ -223,13 +224,14 @@
      "t": "check",
      "q": "An essay explains the Scramble only by the search for raw materials. What should you add?",
      "o": [
-      "Nothing",
-      "Other causes (strategy, prestige, African crises) and the weakness that many territories were unprofitable",
-      "That the Scramble never happened",
-      "That Berlin caused it alone"
+      "Only the search for markets for European factory goods, the other economic motive",
+      "Strategy, prestige and African crises too, and many colonies were unprofitable",
+      "Only the Berlin Conference, which caused the Scramble by setting the rules",
+      "Nothing: raw materials explain the Scramble fully, as colonial trade figures show",
+      "Only missionary pressure, which pushed governments into taking African territory"
      ],
      "a": 1,
-     "w": "Name several causes and what each misses. {{lib}}",
+     "w": "Name several causes and what each misses.",
      "kind": "application"
     },
     {
@@ -249,7 +251,7 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Conquest was not simply the arrival of rifles. It combined treaties, African soldiers, allies, medicine and machines. {{lib}}"
+     "x": "Conquest was not simply the arrival of rifles. It combined treaties, African soldiers, allies, medicine and machines. {{gha-vii-ch02}} {{hs-tools}}"
     },
     {
      "t": "h",
@@ -261,7 +263,7 @@
     },
     {
      "t": "p",
-     "x": "Rapid-firing rifles and the Maxim gun gave decisive advantage in some battles, which is Daniel Headrick's argument. {{lib}} At Omdurman the British killed at least 10,800 Sudanese for 49 of their own dead. {{rd-conquest}}"
+     "x": "Rapid-firing rifles and the Maxim gun gave decisive advantage in some battles, which is Daniel Headrick's argument. {{headrick-1979}} At Omdurman the British killed at least 10,800 Sudanese for 49 of their own dead. {{rd-conquest}}"
     },
     {
      "t": "p",
@@ -278,7 +280,7 @@
     },
     {
      "t": "p",
-     "x": "Much of the conquering was done by African troops under European officers, such as the askari and the tirailleurs senegalais, and European powers used the allies and rivals of African states to defeat others. {{lib}}"
+     "x": "Much of the conquering was done by African troops under European officers, such as the askari and the tirailleurs senegalais, and European powers used the allies and rivals of African states to defeat others. {{gha-vii-ch02}} {{hs-state}}"
     },
     {
      "t": "p",
@@ -290,7 +292,7 @@
     },
     {
      "t": "p",
-     "x": "Agents collected treaties from chiefs to present as titles. They were often signed without translators or with different meanings in each language. {{lib}} Lugard himself called some of them utter fraud. {{gha-vii-ch02}}"
+     "x": "Agents collected treaties from chiefs to present as titles. They were often signed without translators or with different meanings in each language. Lugard himself called some of them utter fraud. {{gha-vii-ch02}}"
     },
     {
      "t": "p",
@@ -371,7 +373,7 @@
       [
        "South African War",
        "1899 to 1902",
-       "Britain against the Boer republics; Africans were soldiers, labourers and civilians, with deaths in camps {{lib}}"
+       "Britain against the Boer republics; Africans were soldiers, labourers and civilians, with deaths in camps {{w-origins}}"
       ]
      ],
      "src": "{{gha-vii-resist}} {{gha-vii-ch04}}"
@@ -389,12 +391,13 @@
      "t": "check",
      "q": "A museum displays a treaty with a chief's mark and labels it 'proof the chief agreed to British rule'. Why is that weak evidence of consent?",
      "o": [
-      "It is always forged",
-      "Translation, power imbalance and different meanings in each language",
-      "It was written after independence",
-      "Chiefs never signed anything"
+      "A mark is not a signature, so the treaty has no legal force at all in law",
+      "Such treaties were always forged by agents, so the mark proves nothing",
+      "Chiefs never signed anything; the marks were added by clerks in Europe",
+      "Translation, unequal power and different meanings in each language",
+      "It was written after independence to justify colonial land claims"
      ],
-     "a": 1,
+     "a": 3,
      "w": "A treaty proves a signature, not consent. {{hs-treaties}}",
      "kind": "application"
     },
@@ -402,12 +405,13 @@
      "t": "check",
      "q": "A history says 'European armies conquered Africa'. Which fact should qualify it?",
      "o": [
-      "None",
-      "Much of the fighting was done by African troops and levies, over 90 per cent in the Portuguese Zambezi force of 1902",
-      "Europeans used no soldiers",
-      "Africans never fought"
+      "Europeans used no soldiers at all, only treaties and trading companies",
+      "None: European regiments did nearly all the fighting in every campaign of conquest",
+      "Africans never fought, so the conquest was achieved without battles",
+      "Most fighting was by Indian troops brought in by Britain and France",
+      "Most fighting was by African troops, over 90% in Portugal's 1902 Zambezi force"
      ],
-     "a": 1,
+     "a": 4,
      "w": "African troops did much of the conquering. {{gha-vii-ch08}}",
      "kind": "application"
     },
@@ -432,7 +436,7 @@
     },
     {
      "t": "p",
-     "x": "Italy claimed that the Treaty of Wuchale (1889) gave it a protectorate. The Amharic and Italian texts of Article 17 differed [PROBABLE]. {{lib}}"
+     "x": "Italy claimed that the Treaty of Wuchale (1889) gave it a protectorate. The Amharic and Italian texts of Article 17 differed [PROBABLE]. {{gha-vii-ch11}}"
     },
     {
      "t": "p",
@@ -487,11 +491,11 @@
     },
     {
      "t": "p",
-     "x": "The Treaty of Addis Ababa (26/10/1896) recognised Ethiopian independence. Italy returned in 1935 and occupied Ethiopia until 1941, using poison gas. {{lib}}"
+     "x": "The Treaty of Addis Ababa (26/10/1896) recognised Ethiopian independence. Italy returned in 1935 and occupied Ethiopia until 1941, using poison gas. {{gha-vii-ch11}} {{gha-vii-ch28}} {{brit-iea}}"
     },
     {
      "t": "p",
-     "x": "Adwa was celebrated by Africans and people of African descent as proof that conquest could be defeated. Historians warn against overstating its immediate effect on other colonies [CONTESTED]. {{lib}} Module 3 follows its place in Pan-African memory."
+     "x": "Adwa was celebrated by Africans and people of African descent as proof that conquest could be defeated. Historians warn against overstating its immediate effect on other colonies [CONTESTED]. {{gamedze-adwa}} Module 3 follows its place in Pan-African memory."
     },
     {
      "t": "h",
@@ -513,12 +517,13 @@
      "t": "check",
      "q": "Two historians give Italian dead at Adwa as 6,133 and about 5,900. How should you write it?",
      "o": [
-      "Pick 6,133 as more precise",
-      "About 6,000, naming the range and that 'missing' is counted in one total",
-      "Average to 6,016",
-      "Say nobody knows"
+      "Average them to 6,016 and give that as the agreed figure",
+      "About 5,900, since the lower figure is the more cautious choice",
+      "About 6,000, naming the range and that one total includes the missing",
+      "6,133, since the more precise figure should always be preferred to a round one",
+      "Say nobody knows, since the two figures disagree"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Different counts of dead and missing explain the gap. {{wiki-adwa}}",
      "kind": "application"
     },
@@ -526,12 +531,13 @@
      "t": "check",
      "q": "A student says Ethiopia survived because Europe ignored it. What is the better explanation?",
      "o": [
-      "It is right",
-      "Victory at Adwa with modern rifles, diplomacy and rivalry between the powers, which still nearly divided it in 1906",
-      "Ethiopia was too poor to want",
-      "Ethiopia was a British protectorate"
+      "Adwa, modern rifles, diplomacy and rivalry between the powers",
+      "It is right: Ethiopia was too remote for any power to want it",
+      "Ethiopia was too poor for Europe to think it worth taking at all",
+      "Ethiopia was a British protectorate, so other powers left it alone",
+      "Ethiopia survived because Italy chose not to invade after the 1889 treaty"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Arms, diplomacy and rivalry together. {{gha-vii-ch12}}",
      "kind": "application"
     },
@@ -730,12 +736,13 @@
      "t": "check",
      "q": "A website gives 'exactly 10 million' deaths in the Congo Free State. Why should you distrust a single exact figure?",
      "o": [
-      "Leopold destroyed the Congo",
-      "No census gave a baseline before 1924, the archives were burned, and disease also killed many",
-      "Nobody died",
-      "The figure is a state secret"
+      "The figure is exact but covers only the rubber districts, not the whole state",
+      "Leopold destroyed the Congo, so any figure is likely to be too low",
+      "Nobody died from the regime itself; the deaths were all from sleeping sickness",
+      "No census before 1924, burned archives, and disease killed many too",
+      "The figure is a Belgian state secret and has never been released"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The share is better supported than the total. {{hs-toll}} {{hs-forget}}",
      "kind": "application"
     },
@@ -743,12 +750,13 @@
      "t": "check",
      "q": "A student writes: 'Once Belgium took over the Congo in 1908, forced labour ended.' What is wrong?",
      "o": [
-      "Forced labour never existed.",
-      "The system continued through taxes in kind and the same personnel, so only the form changed.",
-      "Leopold stayed in power.",
-      "The Force Publique was disbanded."
+      "Leopold stayed in power behind the scenes, so nothing changed at all",
+      "It is right: Belgium ended forced labour in 1908 and paid all workers wages",
+      "Forced labour never existed in the Congo; the reports were British propaganda",
+      "The Force Publique was disbanded in 1908, so forced labour could not be enforced",
+      "It continued through taxes in kind and the same staff; only the form changed"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Continuity after 1908. {{hs-victory}}",
      "kind": "application"
     },
@@ -806,7 +814,7 @@
        "Led to later wars of liberation"
       ]
      ],
-     "src": "{{lib}} {{gha-viii-ch04}}"
+     "src": "{{gha-viii-ch04}}"
     },
     {
      "t": "p",
@@ -822,7 +830,7 @@
     },
     {
      "t": "p",
-     "x": "Mahmood Mamdani argues in Citizen and Subject (1996) that indirect rule created a decentralised despotism [CONTESTED]. {{lib}}"
+     "x": "Mahmood Mamdani argues in Citizen and Subject (1996) that indirect rule created a decentralised despotism [CONTESTED]. {{mamdani-1996}}"
     },
     {
      "t": "h",
@@ -953,10 +961,11 @@
      "t": "check",
      "q": "A textbook says French direct rule and British indirect rule worked in opposite ways. What is the better account?",
      "o": [
-      "It is right",
-      "Both made the chief an administrative agent under close supervision; the difference was more of procedure than effect",
-      "Britain used no chiefs",
-      "France used only chiefs"
+      "Britain used no chiefs at all and governed through its own district officers",
+      "Both made chiefs supervised agents; they differed more in procedure than effect",
+      "They differed in effect but not in procedure, since both used the same laws",
+      "It is right: France abolished chiefs entirely and Britain left them their full powers",
+      "France used only chiefs, while Britain used only its own officials"
      ],
      "a": 1,
      "w": "Close supervision ran through both systems. {{gha-vii-ch13}}",
@@ -966,12 +975,13 @@
      "t": "check",
      "q": "Kenya's African share of domestic exports fell from 24 to 9 per cent between 1913 and 1932. Which colonial measures help explain it?",
      "o": [
-      "None",
-      "Land alienation, the kipande pass, tax pressure and the ban on Africans growing coffee",
-      "Free trade",
-      "African refusal to farm"
+      "Drought in the highlands, which hit African farms but spared settlers",
+      "None: the fall came from a world price collapse that hit every Kenyan farmer equally",
+      "Land alienation, the kipande pass, taxes and the ban on African coffee",
+      "African refusal to farm for the market under colonial rule",
+      "Free trade, which let imported crops undercut African farmers"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Settler law shaped the export economy. {{gha-vii-ch16}}",
      "kind": "application"
     },
@@ -1005,7 +1015,7 @@
     },
     {
      "t": "p",
-     "x": "His view is that the colonial period was short and that African institutions persisted. Source note: this rests on summaries, not his books, so the method below applies his view rather than quoting it. {{lib}}"
+     "x": "In his closing chapter of UNESCO volume VII, Boahen asks whether colonialism was a break with Africa's past or a mere episode. His answer is mixed: in culture it was an episode with a skin-deep impact, while the army, the new states and their courts and parliaments lasted. Source note: this rests on that chapter and on summaries, not his other books, so the method below applies his view rather than quoting it. {{gha-vii-ch30}}"
     },
     {
      "t": "h",
@@ -1014,10 +1024,10 @@
     {
      "t": "ol",
      "i": [
-      "Start from the African actors. Name who acted, for example Menelik at Adwa. {{lib}}",
-      "Ask what continued under colonial rule: chiefs, markets, languages, institutions. {{lib}}",
+      "Start from the African actors. Name who acted, for example Menelik at Adwa.",
+      "Ask what continued under colonial rule: chiefs, markets, languages, institutions.",
       "Ask what the colonial sources leave out, as Iliffe noted of the German history of Maji Maji. {{wiki-maji}}",
-      "Compare the colonial record with an African voice, such as oral testimony or a memoir. {{lib}}",
+      "Compare the colonial record with an African voice, such as oral testimony or a memoir.",
       "Tag the result and say which perspective you used."
      ]
     },
@@ -1046,7 +1056,7 @@
        "A land struggle and a civil conflict among Kikuyu"
       ]
      ],
-     "src": "{{lib}} {{wiki-maji}}"
+     "src": "{{wiki-maji}}"
     },
     {
      "t": "h",
@@ -1057,7 +1067,7 @@
      "title": "Start from 'The Germans suppressed a native rebellion in 1905 to 1907.'",
      "steps": [
       "Name the actors: many peoples, led by spirit mediums such as Kinjikitile, resisted forced cotton growing and taxes.",
-      "Name the cost: tens or hundreds of thousands died, mostly of hunger. {{lib}} {{wiki-maji}}",
+      "Name the cost: tens or hundreds of thousands died, mostly of hunger. {{wiki-maji}}",
       "Rewrite: 'Many peoples of southern German East Africa rose against forced cotton and taxes, and the repression caused famine.'"
      ]
     },
@@ -1082,30 +1092,32 @@
      "t": "check",
      "q": "What is the first move in the African-perspective method?",
      "o": [
+      "Trust the governor's report first",
       "Name the African actors",
-      "Trust the governor's report",
-      "Skip the dates",
-      "Look for a single cause"
+      "Start from the European archives",
+      "Look for a single cause",
+      "Skip the dates and read for themes"
      ],
-     "a": 0,
-     "w": "The method starts from who acted. {{lib}}"
+     "a": 1,
+     "w": "The method starts from who acted."
     },
     {
      "t": "check",
      "q": "Why did Iliffe's remark about Gotzen's history matter?",
      "o": [
-      "It showed an official history omitted the cotton scheme",
-      "It proved Maji Maji was a myth",
-      "It dated the rising",
-      "It named the casualties"
+      "It named the casualties for the first time",
+      "It showed that Gotzen had exaggerated the role of the prophet Kinjikitile",
+      "It gave the rising its first firm date",
+      "It proved Maji Maji was a myth invented by later nationalists",
+      "It showed an official history left out the cotton scheme"
      ],
-     "a": 0,
+     "a": 4,
      "w": "The omission shows how an official source shapes the story. {{wiki-maji}}"
     },
     {
      "t": "take",
      "i": [
-      "Start from African actors and what lasted. {{lib}}",
+      "Start from African actors and what lasted.",
       "Check what the colonial source leaves out. {{wiki-maji}}",
       "Our application of his habit is not his own words."
      ]

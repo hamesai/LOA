@@ -6,10 +6,11 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which step comes first?",
     "o": [
-     "Close",
-     "Prospect and qualify",
      "Present",
-     "Follow-up"
+     "Prospect and qualify",
+     "Follow-up",
+     "Close",
+     "Approach the customer"
     ],
     "a": 1,
     "w": "Prospect and qualify, then preapproach, approach, presentation, objections, close and follow-up."
@@ -17,23 +18,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "FAB links a feature to...",
     "o": [
+     "An advantage over every rival",
      "A price",
-     "A benefit for this customer",
+     "A slogan",
      "A competitor",
-     "A slogan"
+     "A benefit for this customer"
     ],
-    "a": 1,
+    "a": 4,
     "w": "FAB links a feature to an advantage and a benefit for this customer."
    },
    {
     "q": "In a business buying group, who holds the power level?",
     "o": [
+     "The gatekeeper",
      "The user",
      "The decision maker",
-     "The initiator",
-     "The gatekeeper"
+     "The influencer who compares",
+     "The initiator"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Find the power level."
    }
   ],
@@ -81,31 +84,34 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "A prospect is...",
     "o": [
      "Any contact",
-     "A qualified lead",
      "A customer",
-     "A competitor"
+     "A competitor",
+     "Anyone on your list",
+     "A qualified lead"
     ],
-    "a": 1,
+    "a": 4,
     "w": "A prospect is a qualified lead."
    },
    {
     "q": "The five qualifying questions cover need, authority, resources, willingness and...",
     "o": [
      "Price",
+     "Timing",
      "Access",
-     "Colour",
-     "Speed"
+     "Speed",
+     "Colour"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Need, authority, resources, willingness and access."
    },
    {
     "q": "Good records should be...",
     "o": [
-     "Stale and long",
-     "Current and lawful",
      "Secret",
-     "Unnecessary"
+     "Current and lawful",
+     "As full as possible",
+     "Unnecessary",
+     "Stale and long"
     ],
     "a": 1,
     "w": "Keep data current and lawful."
@@ -147,9 +153,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "What does FAB link?",
     "o": [
      "A feature to a benefit for this customer",
+     "A lead to a list",
      "A price to a cost",
      "A call to a close",
-     "A lead to a list"
+     "A feature to its advantage over every rival"
     ],
     "a": 0,
     "w": "A feature to a benefit."
@@ -159,6 +166,7 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "o": [
      "Prospect and qualify",
      "Close",
+     "Approach the customer",
      "Present",
      "Follow-up"
     ],
@@ -178,34 +186,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A SMART objective is...",
     "o": [
-     "Specific, measurable, achievable, relevant, time-bound",
      "Short and memorable",
      "Secret and mysterious",
-     "Sales and marketing"
+     "Specific, measurable, achievable, relevant, time-bound",
+     "Sales and marketing",
+     "Simple, motivating, ambitious, realistic and tough to reach"
     ],
-    "a": 0,
+    "a": 2,
     "w": "SMART objectives can be checked."
    },
    {
     "q": "In the opening you should...",
     "o": [
+     "Offer a discount",
      "Pitch at once",
-     "Ask permission and give a reason",
      "Read a script",
-     "Offer a discount"
+     "Pitch at once, before they can hang up",
+     "Ask permission and give a reason"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Ask permission and give a reason."
    },
    {
     "q": "Gatekeepers are...",
     "o": [
-     "Enemies",
      "Allies to treat politely",
      "Irrelevant",
-     "Always the decision maker"
+     "Obstacles to get past",
+     "Always the decision maker",
+     "Enemies"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Gatekeepers are allies."
    }
   ],
@@ -244,23 +255,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What is a prospect?",
     "o": [
-     "A qualified lead",
      "Any contact",
      "A competitor",
-     "A customer"
+     "A customer",
+     "A qualified lead",
+     "Anyone on your list"
     ],
-    "a": 0,
+    "a": 3,
     "w": "A qualified lead."
    },
    {
     "q": "Which question is part of the five qualifying questions?",
     "o": [
+     "Favourite brand",
+     "Weather",
      "Authority",
      "Colour",
-     "Shape",
-     "Weather"
+     "Shape"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Authority is one of the five."
    }
   ],
@@ -278,6 +291,7 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "o": [
      "Need-payoff",
      "Price",
+     "Negotiation",
      "Promotion",
      "Product"
     ],
@@ -287,23 +301,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A proposal should be...",
     "o": [
-     "Generic",
-     "Customer-specific and clear",
      "Long",
-     "Secret"
+     "Long, complete and covering every option",
+     "Secret",
+     "Customer-specific and clear",
+     "Generic"
     ],
-    "a": 1,
+    "a": 3,
     "w": "A proposal is customer-specific and clear."
    },
    {
     "q": "ROI is...",
     "o": [
-     "Net benefit relative to cost",
+     "Total revenue earned over time",
+     "A discount",
      "Total cost",
      "Revenue only",
-     "A discount"
+     "Net benefit relative to cost"
     ],
-    "a": 0,
+    "a": 4,
     "w": "ROI relates net benefit to cost."
    }
   ],
@@ -342,23 +358,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What do you do before pitching?",
     "o": [
+     "Follow up",
      "Qualify",
+     "Offer a discount",
      "Close",
-     "Discount",
-     "Follow up"
+     "Discount"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Qualify."
    },
    {
     "q": "What should you do in the opening?",
     "o": [
+     "Read a script",
+     "Pitch at once, before they can hang up",
      "Ask permission and give a reason",
      "Pitch",
-     "Read a script",
      "Close"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Ask permission and give a reason."
    }
   ],
@@ -374,10 +392,11 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "An objection is best treated as...",
     "o": [
+     "A final refusal that must be respected",
+     "A question or a sign of interest",
+     "A trick",
      "An attack",
-     "A question or signal of interest",
-     "A refusal",
-     "A trick"
+     "A refusal"
     ],
     "a": 1,
     "w": "Objections are questions."
@@ -385,23 +404,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Closing means...",
     "o": [
-     "Asking for the order",
-     "Pressuring",
      "Ending the call",
-     "Discounting"
+     "Ending the call politely",
+     "Discounting",
+     "Pressuring",
+     "Asking for the order"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Closing is asking for the order."
    },
    {
     "q": "A floor price is...",
     "o": [
-     "The lowest price you will accept",
-     "A discount",
      "A list price",
+     "A discount",
+     "The price on your printed price list",
+     "The lowest price you will accept",
      "A competitor's price"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Set a floor and trade concessions."
    }
   ],
@@ -440,12 +461,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What does SPIN stand for?",
     "o": [
+     "Start, Plan, Invite, Negotiate",
+     "None of these",
      "Situation, Problem, Implication, Need-payoff",
      "Sales, Price, Interest, Need",
-     "Start, Plan, Invite, Negotiate",
-     "None"
+     "Situation, Price, Interest and Negotiation, in order"
     ],
-    "a": 0,
+    "a": 2,
     "w": "SPIN."
    },
    {
@@ -453,6 +475,7 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "o": [
      "Net benefit to cost",
      "Price to cost",
+     "Total revenue to time spent",
      "Revenue to time",
      "Leads to calls"
     ],
@@ -475,6 +498,7 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
      "TPS and CTPS",
      "A phone book",
      "Social media",
+     "Only your own list",
      "Nothing"
     ],
     "a": 0,
@@ -483,23 +507,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A named work email is...",
     "o": [
-     "Personal data",
-     "Not personal data",
      "Free to use",
+     "Not personal data",
+     "Personal data",
+     "Company data, not personal",
      "Public domain"
     ],
-    "a": 0,
+    "a": 2,
     "w": "A named work email is personal data."
    },
    {
     "q": "A 'paper test' asks...",
     "o": [
-     "Would I be comfortable if the buyer read this?",
-     "Is it on paper?",
      "Is it printed?",
+     "Would I be happy if the buyer read this?",
+     "Is it on paper?",
+     "Would my manager sign this off without changes?",
      "Is it cheap?"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Use the paper test."
    }
   ],
@@ -538,23 +564,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What does a floor price allow?",
     "o": [
-     "A limit on discounts",
      "Unlimited discounts",
      "A bigger price",
-     "A free gift"
+     "A free gift",
+     "A higher list price for all",
+     "A limit on discounts"
     ],
-    "a": 0,
+    "a": 4,
     "w": "A limit on discounts."
    },
    {
     "q": "How should you treat an objection?",
     "o": [
-     "As a question",
      "As an attack",
+     "As a joke",
+     "As a question",
      "As a no",
-     "As a joke"
+     "As a final refusal"
     ],
-    "a": 0,
+    "a": 2,
     "w": "As a question."
    }
   ],
@@ -570,43 +598,47 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What are the five qualifying questions?",
     "o": [
-     "Need, authority, resources, willingness, access",
+     "None of these",
      "Who, what, when, where, why",
      "Price, size, shape, colour, weight",
-     "None"
+     "Need, budget, timing, competition and final approval",
+     "Need, authority, resources, willingness, access"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Need, authority, resources, willingness, access."
    },
    {
     "q": "What does FAB stand for?",
     "o": [
+     "Fair, able, bold",
+     "Function, application, budget",
      "Feature, advantage, benefit",
      "Fast, accurate, brief",
-     "Fair, able, bold",
-     "None"
+     "None of these"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Feature, advantage, benefit."
    },
    {
     "q": "How do you handle an objection?",
     "o": [
+     "Discount at once, then confirm the order",
      "Pause, restate, ask, evidence",
+     "Discount",
      "Argue",
-     "Ignore",
-     "Discount"
+     "Ignore"
     ],
-    "a": 0,
+    "a": 1,
     "w": "Four steps."
    },
    {
     "q": "What do you do with an opt-out?",
     "o": [
      "Stop and record it",
-     "Ignore",
-     "Call again",
-     "Email again"
+     "Wait a month, then resume",
+     "Email again",
+     "Ignore it",
+     "Call again"
     ],
     "a": 0,
     "w": "Stop and record it."

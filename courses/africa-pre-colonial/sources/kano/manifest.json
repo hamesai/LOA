@@ -1,0 +1,50 @@
+{
+ "key": "kano",
+ "title": "Kano Chronicle",
+ "author": "",
+ "file": "Kano Chronicle.pdf",
+ "format": "pdf",
+ "sha256": "dab614712d5bb0baffe08d2d79fbf7a4bf52e4b1885b5a21f046197291523f6f",
+ "words": 22679,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 20",
+   "words": 10820,
+   "pages": [
+    1,
+    20
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Pages 21 to 40",
+   "words": 10731,
+   "pages": [
+    21,
+    40
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Pages 41 to 44",
+   "words": 1128,
+   "pages": [
+    41,
+    44
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks"
+ ],
+ "provenance": {
+  "added": "2026-11-16",
+  "source_file": "Kano Chronicle.pdf",
+  "found_by": "user"
+ },
+ "text_quality": {
+  "common_word_share": 0.304,
+  "odd_character_share": 0.001
+ }
+}

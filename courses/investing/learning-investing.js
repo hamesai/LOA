@@ -3,8 +3,20 @@
 Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
  "investing-1": {
   "pretest": [
-   { "q": "Which of these is investing rather than saving?", "o": ["Keeping money in an instant-access account", "Putting money into something with the aim of a return, at some risk", "Holding cash for emergencies", "Paying a bill on time"], "a": 1, "w": "Investing aims for a return and carries risk." },
-   { "q": "Your essential spending is £1,500 a month. What is a six-month emergency fund?", "o": ["£3,000", "£6,000", "£9,000", "£12,000"], "a": 2, "w": "£1,500 × 6 = £9,000." }
+   { "q": "Which of these is investing rather than saving?", "o": [
+ "Holding cash for emergencies",
+ "Putting money into something for a return, at some risk",
+ "Moving savings into a fixed-rate account that pays more interest",
+ "Paying a bill on time",
+ "Keeping money in an instant-access account"
+], "a": 1, "w": "Investing aims for a return and carries risk." },
+   { "q": "Your essential spending is £1,500 a month. What is a six-month emergency fund?", "o": [
+ "£6,000",
+ "£4,500",
+ "£9,000",
+ "£3,000",
+ "£12,000"
+], "a": 2, "w": "£1,500 × 6 = £9,000." }
   ],
   "myths": [
    ["Cash is completely safe.", "Cash is safe from price swings but not from inflation."],
@@ -21,8 +33,20 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
  },
  "investing-2": {
   "pretest": [
-   { "q": "A fund pays £40 in dividends and its price falls £100. What is the total return before fees?", "o": ["£40 profit", "£60 loss", "£140 loss", "£100 profit"], "a": 1, "w": "Income of £40 less a price fall of £100 is a loss of £60." },
-   { "q": "At a steady 5% a year, roughly how long does money take to double?", "o": ["5 years", "About 14 years", "About 50 years", "It never doubles"], "a": 1, "w": "The rule of 72 gives about 14 years at 5%." }
+   { "q": "A fund pays £40 in dividends and its price falls £100. What is the total return before fees?", "o": [
+ "£100 profit",
+ "£40 profit",
+ "£100 loss",
+ "£60 loss",
+ "£140 loss"
+], "a": 3, "w": "Income of £40 less a price fall of £100 is a loss of £60." },
+   { "q": "At a steady 5% a year, roughly how long does money take to double?", "o": [
+ "About 14 years",
+ "About 50 years",
+ "5 years",
+ "About 20 years",
+ "It never doubles"
+], "a": 0, "w": "The rule of 72 gives about 14 years at 5%." }
   ],
   "myths": [
    ["A fund that falls in price is not a loss if it pays dividends.", "A fall in price is part of the return, and dividends only offset it."],
@@ -34,7 +58,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    { "step": "Apply", "task": "Compare a 0.2% charge with a 1.2% charge on £20,000 for 25 years at a gross 6%.", "key": "About £81,879 against £64,575." }
   ],
   "retrieve": [
-    { "q": "Which is NOT a source of return?", "o": ["Dividends", "Rent", "Interest", "Your salary"], "a": 3, "w": "The four sources are dividends, rent, interest and capital gains or losses." }
+    { "q": "Which is NOT a source of return?", "o": [
+ "Your employer's salary",
+ "Rent",
+ "Interest",
+ "Dividends",
+ "A rise in a fund's price"
+], "a": 0, "w": "The four sources are dividends, rent, interest and capital gains or losses." }
   ],
   "reflect": ["Which return figure do you usually quote, and does it include fees?", "What would you need to see before you trusted a steady-return example?"],
   "transfer": "Find the total charge on one fund you hold or are considering, and calculate its cost in pounds over ten years, labelled illustrative.",
@@ -42,8 +72,20 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
  },
  "investing-3": {
   "pretest": [
-   { "q": "Your net assets are £20,000. What is the 10% rule of thumb limit for high-risk investments?", "o": ["£200", "£2,000", "£20,000", "£10,000"], "a": 1, "w": "10% of £20,000 is £2,000." },
-   { "q": "A portfolio falls 50%. What rise is needed to recover?", "o": ["50%", "75%", "100%", "25%"], "a": 2, "w": "The balance halves and must double." }
+   { "q": "Your net assets are £20,000. What is the 10% rule of thumb limit for high-risk investments?", "o": [
+ "£5,000",
+ "£2,000",
+ "£10,000",
+ "£20,000",
+ "£200"
+], "a": 1, "w": "10% of £20,000 is £2,000." },
+   { "q": "A portfolio falls 50%. What rise is needed to recover?", "o": [
+ "75%",
+ "150%",
+ "25%",
+ "50%",
+ "100%"
+], "a": 4, "w": "The balance halves and must double." }
   ],
   "myths": [
    ["A fall and a rise of the same size cancel out.", "A 50% fall needs a 100% rise to recover. Our arithmetic."],
@@ -55,7 +97,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    { "step": "Apply", "task": "Write the fall you could survive without selling, and the rise it would need.", "key": "A stated fall, with its recovery." }
   ],
   "retrieve": [
-    { "q": "Which comes first in the plan, according to module 1?", "o": ["Investing everything", "A safety net of cash", "Buying property", "Borrowing"], "a": 1, "w": "The emergency fund comes first." }
+    { "q": "Which comes first in the plan, according to module 1?", "o": [
+ "Investing everything",
+ "Buying property",
+ "Borrowing",
+ "Investing first, then building cash",
+ "A safety net of cash"
+], "a": 4, "w": "The emergency fund comes first." }
   ],
   "reflect": ["Which is higher for you: risk tolerance or risk capacity?", "What loss would make you sell, and would you be able to afford it?"],
   "transfer": "Write your risk tolerance and risk capacity in one paragraph each, and say which one governs your choice.",
@@ -63,8 +111,20 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
  },
  "investing-4": {
   "pretest": [
-   { "q": "What is diversification?", "o": ["Holding one great investment", "Spreading across holdings that do not rely on the same things", "Avoiding all risk", "Buying only cash"], "a": 1, "w": "The FCA describes it this way." },
-   { "q": "What is the efficient frontier?", "o": ["The highest possible return", "The best risk and return trade-off available", "A tax allowance", "A type of bond"], "a": 1, "w": "It is the best trade-off of risk and return." }
+   { "q": "What is diversification?", "o": [
+ "Holding one great investment",
+ "Spreading across holdings that rely on different things",
+ "Avoiding all risk",
+ "Holding many shares in one sector, so no single company can hurt you",
+ "Buying only cash"
+], "a": 1, "w": "The FCA describes it this way." },
+   { "q": "What is the efficient frontier?", "o": [
+ "A type of bond",
+ "A tax allowance",
+ "The best risk and return trade-off available",
+ "The highest return available at any level of risk",
+ "The highest possible return"
+], "a": 2, "w": "It is the best trade-off of risk and return." }
   ],
   "myths": [
    ["Diversification guarantees that I cannot lose.", "It cannot stop a market-wide fall."],
@@ -76,8 +136,20 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    { "step": "Apply", "task": "Write a one-paragraph portfolio description with a review date and two triggers.", "key": "A complete paragraph with all four elements." }
   ],
   "retrieve": [
-    { "q": "Which is NOT a source of return?", "o": ["Dividends", "Rent", "Interest", "Your salary"], "a": 3, "w": "The four sources are dividends, rent, interest and capital gains or losses." },
-    { "q": "What is the 10% rule of thumb?", "o": ["A tax rate", "Limit high-risk investments to about 10% of net assets", "A fund fee", "A savings rate"], "a": 1, "w": "" }
+    { "q": "Which is NOT a source of return?", "o": [
+ "Dividends",
+ "Interest",
+ "Your salary",
+ "Rent",
+ "A rise in price"
+], "a": 2, "w": "The four sources are dividends, rent, interest and capital gains or losses." },
+    { "q": "What is the 10% rule of thumb?", "o": [
+ "Limit high-risk investments to about 10% of net assets",
+ "A savings rate",
+ "A tax rate",
+ "A fund fee",
+ "Save 10% of your income every month before investing anything at all"
+], "a": 0, "w": "" }
   ],
   "reflect": ["Which two of your holdings would most likely fall together?", "What would make you change your split?"],
   "transfer": "Look up what one fund holds, and write whether it overlaps with another fund you own.",
@@ -85,8 +157,20 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
  },
  "investing-5": {
   "pretest": [
-   { "q": "What does an index tracker aim to do?", "o": ["Beat its index", "Copy the index", "Avoid share prices", "Guarantee a return"], "a": 1, "w": "A tracker copies an index." },
-   { "q": "What is the ISA limit for 2026 to 2027?", "o": ["£10,000", "£20,000", "£3,000", "£50,000"], "a": 1, "w": "" }
+   { "q": "What does an index tracker aim to do?", "o": [
+ "Guarantee a return",
+ "Beat its index",
+ "Avoid share prices",
+ "Copy the index",
+ "Beat the index after fees"
+], "a": 3, "w": "A tracker copies an index." },
+   { "q": "What is the ISA limit for 2026 to 2027?", "o": [
+ "£10,000",
+ "£20,000",
+ "£50,000",
+ "£3,000",
+ "£40,000"
+], "a": 1, "w": "" }
   ],
   "myths": [
    ["Active funds always beat the index over time.", "The SPIVA US table shows most active large-cap funds underperformed the S&P 500 over 5, 10 and 15 years."],
@@ -98,7 +182,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    { "step": "Apply", "task": "Compare the total charge on one holding with a tracker covering the same market.", "key": "Both charges in percent and pounds." }
   ],
   "retrieve": [
-    { "q": "Which can diversification NOT do?", "o": ["Smooth returns over time", "Stop losses in a market-wide fall", "Spread a single company's risk", "Reduce reliance on one holding"], "a": 1, "w": "It cannot stop a broad market fall." }
+    { "q": "Which can diversification NOT do?", "o": [
+ "Smooth returns over time",
+ "Spread a single company's risk",
+ "Stop losses in a market-wide fall",
+ "Reduce reliance on one holding",
+ "Reduce how much depends on any one company's results"
+], "a": 2, "w": "It cannot stop a broad market fall." }
   ],
   "reflect": ["What do you pay each year in total charges?", "Would you keep a fund that cost more and did not beat its index?"],
   "transfer": "Write the total annual charge and the ten-year cost in pounds for one holding, labelled illustrative.",
@@ -106,8 +196,20 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
  },
  "investing-6": {
   "pretest": [
-   { "q": "Under Graham's distinction, what makes an operation an investment?", "o": ["Popularity", "Analysis that promises safety of principal and an adequate return", "A catchy name", "A recent tip"], "a": 1, "w": "" },
-   { "q": "With an unsolicited offer, what do you check first?", "o": ["Pay now", "The FCA Firm Checker and Warning List", "Share your details", "Ask a friend"], "a": 1, "w": "" }
+   { "q": "Under Graham's distinction, what makes an operation an investment?", "o": [
+ "Analysis promising safety of principal and adequate return",
+ "It has a catchy name",
+ "It was recommended online",
+ "A high expected return, whatever the safety of the money put in",
+ "It is popular"
+], "a": 0, "w": "" },
+   { "q": "With an unsolicited offer, what do you check first?", "o": [
+ "Pay now",
+ "The caller's own website and online reviews",
+ "The FCA Firm Checker and Warning List",
+ "Share your details",
+ "Ask a friend"
+], "a": 2, "w": "" }
   ],
   "myths": [
    ["A high promised return means a good investment.", "The FCA says that if it sounds too good to be true, it probably is."],
@@ -119,7 +221,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    { "step": "Apply", "task": "Run the FCA checks on a firm you have been offered, in order.", "key": "Firm Checker, Warning List, then impartial advice." }
   ],
   "retrieve": [
-    { "q": "What does an index tracker aim to do?", "o": ["Beat its index", "Copy the index", "Avoid share prices", "Guarantee a return"], "a": 1, "w": "A tracker copies an index." }
+    { "q": "What does an index tracker aim to do?", "o": [
+ "Beat the index after fees",
+ "Guarantee a return",
+ "Beat its index",
+ "Copy the index",
+ "Avoid share prices"
+], "a": 3, "w": "A tracker copies an index." }
   ],
   "reflect": ["Which investment offer have you received that you should have checked first?", "Who would you ask for impartial advice?"],
   "transfer": "Check one firm on the FCA Firm Checker and write what it shows.",
@@ -136,8 +244,20 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    { "step": "Apply", "task": "Score the plan against the rubric and name what would change it.", "key": "Every row passes, with a reason." }
   ],
   "retrieve": [
-    { "q": "What did Bogle's cost argument imply about active funds?", "o": ["They always win", "Fees must be justified over the long run", "Fees do not matter", "Only bonds are worth holding"], "a": 1, "w": "" },
-    { "q": "A portfolio falls 50%. What rise is needed to recover?", "o": ["50%", "75%", "100%", "25%"], "a": 2, "w": "The balance halves and must double. Our arithmetic from module 3." }
+    { "q": "What did Bogle's cost argument imply about active funds?", "o": [
+ "Fees must be justified over the long run",
+ "Only bonds are worth holding",
+ "They always win",
+ "Fees do not matter",
+ "Active funds always beat trackers after fees"
+], "a": 0, "w": "" },
+    { "q": "A portfolio falls 50%. What rise is needed to recover?", "o": [
+ "75%",
+ "25%",
+ "100%",
+ "50%",
+ "150%"
+], "a": 2, "w": "The balance halves and must double. Our arithmetic from module 3." }
   ],
   "reflect": ["Which section of your plan are you least sure of?", "What would make you change the plan next year?"],
   "transfer": "Take the plan to a regulated adviser, and write one question you would ask them.",

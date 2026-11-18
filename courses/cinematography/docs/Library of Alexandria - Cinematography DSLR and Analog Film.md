@@ -1,6 +1,6 @@
 # Library of Alexandria: Cinematography: DSLR and analog film
 
-Level: Some exposure. Created 15/11/2026.
+Level: Some exposure. Created 18/11/2026.
 
 Shoot controlled, intentional moving images on a DSLR or mirrorless camera and on analog film: exposure for motion, lenses and framing, lighting, camera movement and coverage, film stocks and metering, analog video, and a finished side-by-side test.
 

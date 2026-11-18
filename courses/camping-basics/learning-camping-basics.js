@@ -6,34 +6,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "In Ireland, who decides whether you may camp on a piece of land?",
     "o": [
+     "The county council",
      "Anyone may camp anywhere",
-     "The owner, as a matter of goodwill",
-     "The council",
-     "The nearest road authority"
+     "The nearest road authority",
+     "The National Parks and Wildlife Service, by permit",
+     "The owner, as a matter of goodwill"
     ],
-    "a": 1,
+    "a": 4,
     "w": "In Ireland all land is owned and access depends on the owner's goodwill."
    },
    {
     "q": "Which is the safe default when the rule is unclear?",
     "o": [
-     "Camp and see",
      "A campsite",
      "A woodland",
-     "A lay-by"
+     "A lay-by",
+     "A quiet field out of sight of the road",
+     "Camp and see"
     ],
-    "a": 1,
+    "a": 0,
     "w": "When the rule is unclear, a campsite is the safe default."
    },
    {
     "q": "What should you do with rubbish, glass and cigarette ends?",
     "o": [
      "Bury them",
-     "Burn them",
      "Take them home",
-     "Leave them in a bin liner"
+     "Bury food scraps and take only the glass home",
+     "Leave them in a bin liner",
+     "Burn them"
     ],
-    "a": 2,
+    "a": 1,
     "w": "All of it goes home with you."
    }
   ],
@@ -80,34 +83,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A tent is best sized by...",
     "o": [
-     "The number of sleeping pads, plus gear",
-     "The brochure",
+     "The fly colour",
      "Your height",
-     "The fly colour"
+     "The brochure's person count",
+     "The number of people who can stand inside it at once",
+     "The number of sleeping pads, plus gear"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Size the tent by sleeping pads, and go up one size for gear."
    },
    {
     "q": "Where should you pitch?",
     "o": [
-     "In the lowest hollow",
      "On higher, drier, sheltered ground",
-     "Under the biggest tree",
-     "Next to a stream"
+     "In the hollow, which is sheltered and holds warmer air",
+     "Next to a stream",
+     "In the lowest hollow",
+     "Under the biggest tree"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Hollows collect water and cold air."
    },
    {
     "q": "What is condensation in a tent?",
     "o": [
+     "Wet ground",
      "Rain coming through",
      "Warm humid air meeting the cold fly",
-     "Wet ground",
-     "Poor pegs"
+     "Poor pegs",
+     "Rain soaking through a worn fly's coating"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Warm humid air meets a cold fly."
    }
   ],
@@ -146,9 +152,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Where does the owner stand on camping in Ireland?",
     "o": [
-     "Anyone may camp",
-     "Access depends on the owner's goodwill",
      "Camping is banned",
+     "Access depends on the owner's goodwill",
+     "A right to roam lets anyone camp on hill land",
+     "Anyone may camp",
      "Councils decide"
     ],
     "a": 1,
@@ -157,12 +164,13 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which is the safe default when the camping rule is unclear?",
     "o": [
+     "A quiet field out of sight of the road",
      "Camp and see",
+     "A car park",
      "A campsite",
-     "Ask a stranger",
-     "A car park"
+     "Ask a stranger"
     ],
-    "a": 1,
+    "a": 3,
     "w": "A campsite is the safe default."
    }
   ],
@@ -178,10 +186,11 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Bag ratings assume a pad with R-value of...",
     "o": [
-     "R 1",
+     "R 2 (a basic foam mat)",
      "R 4",
-     "R 8",
-     "No pad"
+     "No pad",
+     "R 1",
+     "R 8"
     ],
     "a": 1,
     "w": "Bag ratings assume a pad of R 4."
@@ -189,23 +198,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Hypothermia is when core temperature falls below...",
     "o": [
-     "37 °C",
-     "35 °C",
+     "25 °C",
      "30 °C",
-     "25 °C"
+     "36.5 °C",
+     "35 °C",
+     "37 °C"
     ],
-    "a": 1,
+    "a": 3,
     "w": "It is below 35 °C and needs emergency help."
    },
    {
     "q": "Two pads of R 2 and R 3 stacked give...",
     "o": [
-     "R 3",
-     "R 5",
      "R 6",
-     "R 1"
+     "R 1",
+     "R 5",
+     "R 2.5 (the average)",
+     "R 3"
     ],
-    "a": 1,
+    "a": 2,
     "w": "R-values add when pads are stacked."
    }
   ],
@@ -244,23 +255,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What is the tent-size rule from Module 2?",
     "o": [
-     "Size by pads, plus one size up for gear",
+     "Choose the cheapest",
      "Size by weight",
+     "Size by the brochure's person count, which already allows for gear",
      "Choose the biggest",
-     "Choose the cheapest"
+     "Size by pads, plus one size up for gear"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Buy for the group plus gear: one size up is a common rule."
    },
    {
     "q": "Condensation in a tent comes from...",
     "o": [
+     "Cold pads",
      "A hole",
+     "Rain soaking through a worn fly's coating",
      "Warm humid air meeting a cold fly",
-     "Wet pegs",
-     "Cold pads"
+     "Wet pegs"
     ],
-    "a": 1,
+    "a": 3,
     "w": "It is moisture meeting a cold fly."
    }
   ],
@@ -276,34 +289,37 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "A blue stove flame suggests...",
     "o": [
-     "Poor burning",
-     "Good burning",
      "A leak",
-     "Cold fuel"
+     "Too much air and wasted gas",
+     "Good burning",
+     "Cold fuel",
+     "Poor burning"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Blue flame good, orange flame bad."
    },
    {
     "q": "Carbon monoxide has...",
     "o": [
-     "A strong smell",
      "No warning smell",
-     "A sweet smell",
-     "A colour"
+     "A strong smell",
+     "A sharp smell like gas",
+     "A colour",
+     "A sweet smell"
     ],
-    "a": 1,
+    "a": 0,
     "w": "It gives no warning smell."
    },
    {
     "q": "To make water safe from germs, boil for at least...",
     "o": [
-     "One minute",
-     "Ten seconds",
+     "Not at all",
      "Ten minutes",
-     "Not at all"
+     "Ten seconds",
+     "Just until the first bubbles appear",
+     "One minute"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Boil for a minute; otherwise filter, then disinfect."
    }
   ],
@@ -343,22 +359,24 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "A tested sleeping bag rating is found...",
     "o": [
      "In the bag's name",
-     "On the label as comfort and lower limit",
-     "On the cover",
-     "In the price"
+     "In the price",
+     "In the number printed in the bag's model name",
+     "On the label, as comfort and lower limit",
+     "On the cover"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Use the tested comfort and lower-limit numbers."
    },
    {
     "q": "Stacking pads of R 2 and R 3 gives...",
     "o": [
-     "R 3",
-     "R 5",
+     "R 2",
+     "R 2.5 (the average)",
      "R 6",
-     "R 2"
+     "R 3",
+     "R 5"
     ],
-    "a": 1,
+    "a": 4,
     "w": "R-values add."
    }
   ],
@@ -374,29 +392,32 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "At 1:25,000, 4 cm on the map is...",
     "o": [
+     "400 m",
      "1 km",
      "4 km",
-     "400 m",
+     "2.5 km",
      "10 km"
     ],
-    "a": 0,
+    "a": 1,
     "w": "At 1:25,000, 4 cm is 1 km."
    },
    {
     "q": "A grid reference gives...",
     "o": [
      "Northings first",
-     "Eastings first, then northings",
      "Only northings",
-     "Height first"
+     "Northings first, then eastings",
+     "Height first",
+     "Eastings first, then northings"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Eastings first, northings second."
    },
    {
     "q": "Naismith's rule allows...",
     "o": [
      "1 h per 5 km plus 1 h per 600 m of climb",
+     "1 h per 5 km plus 1 h per 300 m of climb",
      "1 h per 10 km",
      "30 min per 5 km",
      "No time for climbing"
@@ -440,23 +461,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "Which temperature is hypothermia?",
     "o": [
-     "Below 35 °C",
-     "Below 40 °C",
      "Below 30 °C",
-     "Above 37 °C"
+     "Below 36.5 °C",
+     "Below 35 °C",
+     "Above 37 °C",
+     "Below 40 °C"
     ],
-    "a": 0,
+    "a": 2,
     "w": "Hypothermia is below 35 °C."
    },
    {
     "q": "A good stove flame is...",
     "o": [
      "Orange",
+     "Red",
+     "Yellow with a blue tip",
      "Blue",
-     "Yellow",
-     "Red"
+     "Yellow"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Blue flame good, orange flame bad."
    }
   ],
@@ -472,21 +495,23 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What do you dial first in an emergency?",
     "o": [
-     "999 or 112",
-     "A friend",
+     "Nobody",
      "The campsite",
-     "Nobody"
+     "The local Mountain Rescue team's own number",
+     "999 or 112",
+     "A friend"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Call 999 or 112, ask for Police, then Mountain Rescue in the hills."
    },
    {
     "q": "If several people become ill at once, suspect...",
     "o": [
-     "Coincidence",
+     "Nothing",
      "A shared cause",
      "Tiredness",
-     "Nothing"
+     "Coincidence",
+     "Separate causes, one for each person"
     ],
     "a": 1,
     "w": "A shared cause such as water, food or carbon monoxide."
@@ -495,9 +520,10 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "A trip card should include...",
     "o": [
      "Your route and an action time",
-     "Only your name",
+     "Your kit list and the weather forecast",
+     "Nothing",
      "Your menu",
-     "Nothing"
+     "Only your name"
     ],
     "a": 0,
     "w": "A card someone else can act on."
@@ -538,23 +564,25 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
    {
     "q": "What does Naismith's rule use?",
     "o": [
-     "Time per distance plus time per climb",
-     "Wind speed",
      "Temperature",
-     "Weight"
+     "Distance alone, at a steady walking pace",
+     "Time per distance plus time per climb",
+     "Weight carried",
+     "Wind speed"
     ],
-    "a": 0,
+    "a": 2,
     "w": "1 h per 5 km plus 1 h per 600 m."
    },
    {
     "q": "What is a safe default when the camping rule is unclear?",
     "o": [
-     "Camp and see",
-     "A campsite",
      "A car park",
-     "A field"
+     "A quiet field out of sight of the road",
+     "Camp and see",
+     "A field",
+     "A campsite"
     ],
-    "a": 1,
+    "a": 4,
     "w": "A campsite."
    }
   ],
@@ -571,44 +599,48 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "q": "Where should you pitch?",
     "o": [
      "In a hollow",
+     "Beside a stream",
      "On higher, drier, sheltered ground",
-     "Under dead branches",
-     "Beside a stream"
+     "In a hollow, which holds warmer air overnight",
+     "Under dead branches"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Higher, drier, sheltered ground."
    },
    {
     "q": "Who owns the decision in Ireland?",
     "o": [
      "Anyone",
+     "The police",
+     "The National Parks service",
      "The owner",
-     "The council",
-     "The police"
+     "The council"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Access depends on the owner's goodwill."
    },
    {
     "q": "How do you make water safe from germs?",
     "o": [
-     "Boil for a minute or filter then disinfect",
-     "Look at it",
+     "Filter it through a cloth and let it stand an hour",
      "Let it settle",
-     "Cool it"
+     "Look at it",
+     "Cool it",
+     "Boil for a minute, or filter then disinfect"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Boiling or filter then disinfect."
    },
    {
     "q": "What does a turn-back rule do?",
     "o": [
-     "Wastes time",
-     "Sets a decision before you leave",
+     "Guarantees safety",
      "Replaces a map",
-     "Guarantees safety"
+     "Tells rescuers when to start searching for you",
+     "Sets a decision before you leave",
+     "Wastes time"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Decide the limits before you leave."
    }
   ],

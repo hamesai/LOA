@@ -84,11 +84,12 @@
      "q": "Your scene partner starts playing angry instead of hurt, and you change your approach to still get what you want. What is this called in An Actor Prepares?",
      "o": [
       "Rewriting a play for a new audience",
-      "Adjusting to a partner in order to reach an aim",
       "Learning lines faster",
+      "Dropping your objective to follow your partner's new choice",
+      "Adjusting to a partner to reach an aim",
       "Changing costumes"
      ],
-     "a": 1,
+     "a": 3,
      "w": "It is the human means of adjusting to one another to carry out an objective. {{aap}}",
      "kind": "application"
     },
@@ -97,11 +98,12 @@
      "q": "When a scene goes dead, which question best fits the book's idea of communion?",
      "o": [
       "Who has the most lines?",
-      "Who is receiving what the other gives?",
       "Is the lighting too dim?",
-      "Is the pace fast enough?"
+      "Who is receiving what the other gives?",
+      "Is the pace fast enough?",
+      "Are both actors projecting to the back row?"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Communion means an exchange of giving and taking. {{aap}}",
      "kind": "application"
     },
@@ -234,12 +236,13 @@
      "t": "check",
      "q": "Two directors name the super-objective of the same play differently. Why does that wording matter?",
      "o": [
-      "It is printed in the programme",
-      "It changes which scenes move to the front",
       "It is required by law",
-      "It sets the running time"
+      "It changes nothing, since the text stays the same",
+      "It sets the running time",
+      "It is printed in the programme",
+      "It changes which scenes move to the front"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The book shows three wordings giving three different emphases. {{aap}}",
      "kind": "application"
     },
@@ -247,10 +250,11 @@
      "t": "check",
      "q": "A scene feels flat because both characters want the same thing. What would adding a counteraction do?",
      "o": [
-      "Cancels the scene",
+      "Shortens the play",
       "Gives the main action something to push against",
-      "Replaces the theme",
-      "Shortens the play"
+      "Lets both characters agree, so the scene ends sooner",
+      "Cancels the scene",
+      "Replaces the theme"
      ],
      "a": 1,
      "w": "The clash of purposes keeps the scene active. {{aap}}",
@@ -372,12 +376,13 @@
      "t": "check",
      "q": "After a rough run you need to tell an actor her entrance is late. Which note formula does Garcia suggest?",
      "o": [
-      "Correct, correct, praise",
       "Praise, correct, praise",
+      "Correct, correct, praise",
+      "Correct first, then praise twice",
       "Praise, praise, correct",
       "Correct only"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He suggests praise, correct, praise. {{garcia}}",
      "kind": "application"
     },
@@ -386,11 +391,12 @@
      "q": "An actor gasps mid-sentence and the meaning gets lost. What does 'one breath equals one thought' ask her to do?",
      "o": [
       "Breathe only at commas",
-      "Breathe when a full thought is finished",
+      "Speak faster",
       "Hold breath through the scene",
-      "Speak faster"
+      "Breathe when a full thought is finished",
+      "Breathe at every punctuation mark in the text"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Breaths come with new thoughts, not at commas. {{garcia}}",
      "kind": "application"
     },
@@ -494,12 +500,13 @@
      "t": "check",
      "q": "What limited the length of the takes in Rope?",
      "o": [
-      "The length of film a camera magazine could hold",
-      "The actors' memory",
+      "The length of the play it was adapted from",
       "The size of the set",
-      "The microphone"
+      "The microphone",
+      "The actors' memory",
+      "How much film a camera magazine held"
      ],
-     "a": 0,
+     "a": 4,
      "w": "Spoto says almost every shot lasts ten minutes, the time a magazine of film can be exposed. {{spoto-ch20}}"
     },
     {
@@ -524,10 +531,11 @@
      "t": "check",
      "q": "A screen actor is upset that his best take was not used in the cut. Who else shapes the finished performance?",
      "o": [
-      "Only the director",
+      "Only the actor, who chooses takes",
       "The editor",
-      "The sound mixer only",
-      "No one"
+      "Only the director",
+      "No one",
+      "The sound mixer only"
      ],
      "a": 1,
      "w": "The textbook says the editor shapes the performance across the film. {{cwc}}",
@@ -537,12 +545,13 @@
      "t": "check",
      "q": "You are shooting a dialogue scene with a master shot and coverage. What should you tell your actors to expect?",
      "o": [
-      "They play the scene once",
       "They repeat the scene many times from different angles",
       "They never see the director",
-      "They only shoot close-ups"
+      "They play it once in a wide shot, and the close-ups are cut from that single take",
+      "They only shoot close-ups",
+      "They play the scene once"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The scene is filmed again and again from different angles. {{cwc}}",
      "kind": "application"
     },
@@ -686,12 +695,13 @@
      "t": "check",
      "q": "Which direction does the teacher advise when recalling a day?",
      "o": [
-      "Forward from waking up",
-      "Backward from the present",
       "Random order",
-      "Only the end"
+      "Only the end",
+      "Backward from the present",
+      "Forward from waking up",
+      "Forward from waking, hour by hour"
      ],
-     "a": 1,
+     "a": 2,
      "w": "He advises going backwards from the present, which is easier. {{aap}}"
     },
     {
@@ -699,23 +709,25 @@
      "q": "According to the teacher, what happens to a detail unrelated to the super-objective?",
      "o": [
       "It improves the scene",
+      "It becomes the objective",
       "It stands out as superfluous or wrong",
-      "It is cut automatically",
-      "It becomes the objective"
+      "It adds richness, since detail makes a role real",
+      "It is cut automatically"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Any detail not related to the super-objective will stand out as superfluous or wrong. {{aap}}"
     },
     {
      "t": "check",
      "q": "In the Woe from Wit example, what changes when the super-objective is renamed?",
      "o": [
+      "The characters' lines, which must be rewritten",
+      "The length",
       "Nothing",
-      "Which themes come to the front of the production",
       "The title",
-      "The length"
+      "Which themes come to the front"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Different names bring forward the love story, the country or the freedom theme. {{aap}}"
     },
     {

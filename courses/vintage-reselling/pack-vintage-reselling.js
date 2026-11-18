@@ -771,32 +771,35 @@ ARCHIVE_ADD({
    {
     "q": "You buy for £10 and sell for £40. What is the margin?",
     "o": [
-     "75%",
-     "300%",
      "25%",
-     "30%"
+     "400%",
+     "30%",
+     "300%",
+     "75%"
     ],
-    "a": 0,
+    "a": 4,
     "w": "Profit £30 ÷ selling price £40 = 75%."
    },
    {
     "q": "Which fact decides whether you are in business?",
     "o": [
-     "Having a full-time job",
+     "Whether you are VAT registered with HMRC, which settles it on its own",
      "Not being VAT registered",
-     "No single fact; look at all the indicators",
-     "Selling only at weekends"
+     "Having a full-time job",
+     "Selling only at weekends",
+     "No single fact; look at all the indicators"
     ],
-    "a": 2,
+    "a": 4,
     "w": "Trading Standards guidance says there is no single test."
    },
    {
     "q": "Is it an offence for a business to give the impression it is a private seller?",
     "o": [
      "Yes",
-     "No",
+     "No, if the platform allows it",
      "Only for car dealers",
-     "Only on social media"
+     "Only on social media",
+     "No"
     ],
     "a": 0,
     "w": "The guidance says it is an offence."
@@ -804,10 +807,11 @@ ARCHIVE_ADD({
    {
     "q": "Platform reporting applies unless you make fewer than how many sales and receive less than about what?",
     "o": [
-     "10 sales and £500",
-     "30 sales and 2,000 euros (about £1,700)",
      "100 sales and £5,000",
-     "Platforms never report"
+     "30 sales and €2,000 (about £1,700)",
+     "Platforms never report",
+     "50 sales and £1,000, whichever is reached first",
+     "10 sales and £500"
     ],
     "a": 1,
     "w": "Fewer than 30 sales and under 2,000 euros avoids reporting."
@@ -817,11 +821,12 @@ ARCHIVE_ADD({
     "q": "In what year was the Wedgwood company founded, according to the sources?",
     "o": [
      "1599",
+     "1959",
      "1759",
-     "1859",
-     "1959"
+     "1769",
+     "1859"
     ],
-    "a": 1,
+    "a": 2,
     "w": "He founded the company in 1759. {{brit-wedgwood}} {{wiki-wedgwood}}"
    }
   ],
@@ -829,57 +834,62 @@ ARCHIVE_ADD({
    {
     "q": "What is the best evidence of an item's value?",
     "o": [
-     "Asking prices",
      "Recent sold prices for similar items",
      "The price you paid",
-     "The seller's story"
+     "The seller's story",
+     "Current asking prices for similar items",
+     "Asking prices"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Sold prices show what buyers actually paid."
    },
    {
     "q": "A ceiling is found by:",
     "o": [
-     "Adding profit to the cost",
-     "Working back from expected net proceeds and subtracting target profit",
      "Halving the asking price",
-     "Using the highest sold price"
+     "Using the highest sold price",
+     "Working back from expected net proceeds, less target profit",
+     "Adding your target profit to what you paid plus all of the fees",
+     "Adding profit to the cost"
     ],
-    "a": 1,
+    "a": 2,
     "w": "You work backwards from the sold price."
    },
    {
     "q": "At a public auction you can attend, second-hand goods and the Consumer Rights Act:",
     "o": [
      "Give full consumer protection",
-     "Mostly do not treat you as a consumer",
+     "Give full protection for any second-hand goods",
      "Do not apply to goods at all",
-     "Require a returns policy"
+     "Require a returns policy",
+     "Mostly do not treat you as a consumer"
     ],
-    "a": 1,
+    "a": 4,
     "w": "Section 2(5) says the buyer is not a consumer for most quality rules."
    },
    {
     "q": "Why does sell-through matter?",
     "o": [
-     "It shows how much cash is tied up and whether prices and sourcing work",
-     "It is a tax figure",
      "It is a platform fee",
+     "It is the figure HMRC uses to work out how much tax you owe",
+     "It is a tax figure",
+     "It shows cash tied up, and whether prices and sourcing work",
      "It sets VAT"
     ],
-    "a": 0,
+    "a": 3,
     "w": "Unsold stock ties up capital."
    },
    {
     "lec": 1,
     "q": "How did Wedgwood develop improved pottery bodies, according to the source?",
     "o": [
-     "By luck",
-     "By systematic experimentation",
+     "By systematic experiment",
      "By copying only",
-     "By importing them"
+     "By importing them",
+     "By luck",
+     "By copying Chinese porcelain"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Wikipedia says he developed improved bodies by systematic experimentation. {{wiki-wedgwood}} {{meteyard-1}}"
    }
   ],
@@ -887,12 +897,13 @@ ARCHIVE_ADD({
    {
     "q": "Which is the strongest dating evidence?",
     "o": [
-     "Smell",
-     "A dated receipt naming the item",
-     "A seller's story",
-     "Style"
+     "A strong smell of age",
+     "A seller's detailed family history of the item",
+     "It looks old",
+     "A dated receipt that names the item",
+     "A seller's story"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Documents are checkable."
    },
    {
@@ -900,8 +911,9 @@ ARCHIVE_ADD({
     "o": [
      "It makes grading consistent for buyers",
      "It is required by law",
-     "It lowers fees",
-     "It avoids photographs"
+     "It replaces the need for photographs of flaws",
+     "It avoids photographs",
+     "It lowers fees"
     ],
     "a": 0,
     "w": "Consistency builds trust and reduces disputes."
@@ -909,35 +921,38 @@ ARCHIVE_ADD({
    {
     "q": "You cannot confirm a signature is original. You write:",
     "o": [
-     "Original signed print",
-     "Print with a signature; origin unconfirmed",
      "Rare original",
+     "Original signed print",
+     "Original signed print, believed to be genuine",
+     "Print with a signature; origin unconfirmed",
      "Authentic"
     ],
-    "a": 1,
+    "a": 3,
     "w": "State what you can see and what you cannot confirm."
    },
    {
     "q": "When should you pass on an item?",
     "o": [
-     "When it might be restricted, unsafe or counterfeit",
      "When it has a flaw",
+     "Whenever it has any flaw at all, however small it is",
+     "When it might be restricted, unsafe or counterfeit",
      "When it is old",
      "When it is dirty"
     ],
-    "a": 0,
+    "a": 2,
     "w": "The legal and reputation risk outweighs one sale."
    },
    {
     "lec": 1,
     "q": "In what year did Chippendale publish The Gentleman and Cabinet-Maker's Director?",
     "o": [
-     "1654",
      "1754",
+     "1654",
+     "1954",
      "1854",
-     "1954"
+     "1774"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Britannica gives 1754 for the first edition. {{brit-chippendale}}"
    }
   ],
@@ -946,20 +961,22 @@ ARCHIVE_ADD({
     "q": "Dealing in ivory includes:",
     "o": [
      "Only completed sales",
+     "Only completed sales above £100 in value",
      "Advertising and offering, not just sales",
-     "Only exports",
-     "Nothing for items under 100 years old"
+     "Nothing for items under 100 years old",
+     "Only exports"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Advertising and inviting offers count as dealing."
    },
    {
     "q": "A 4 g silver ring has no hallmark. The weight exemption for silver is:",
     "o": [
-     "Under 1 g",
-     "Under 7.78 g",
      "Under 10 g",
-     "None"
+     "Under 7.78 g",
+     "Under 1 g",
+     "None",
+     "Under 3.0 grams"
     ],
     "a": 1,
     "w": "Silver under 7.78 g is exempt from the hallmark requirement."
@@ -967,20 +984,22 @@ ARCHIVE_ADD({
    {
     "q": "Furniture made before 1 January 1950 is:",
     "o": [
-     "Excluded from the furniture fire rules",
-     "Always banned",
+     "Needs a new label",
+     "Covered by the rules, with a new label needed",
      "Taxed",
-     "Needs a new label"
+     "Excluded from the furniture fire rules",
+     "Always banned"
     ],
-    "a": 0,
+    "a": 3,
     "w": "It is excluded from the controls."
    },
    {
     "q": "A consumer was never told about cancellation. They can cancel for up to:",
     "o": [
-     "14 days",
      "30 days",
+     "28 days only",
      "12 months",
+     "14 days",
      "Never"
     ],
     "a": 2,
@@ -990,12 +1009,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "In which publication did Hassall's food adulteration reports appear?",
     "o": [
-     "The Times",
      "The Lancet",
+     "The Economist",
      "Punch",
-     "The Economist"
+     "The British Medical Journal",
+     "The Times"
     ],
-    "a": 1,
+    "a": 0,
     "w": "His reports were published in The Lancet. {{wiki-hassall}} {{archive-hassall}}"
    }
   ],
@@ -1003,45 +1023,49 @@ ARCHIVE_ADD({
    {
     "q": "Who pays Vinted's fee?",
     "o": [
-     "The seller from the payout",
-     "The buyer at checkout",
+     "Nobody",
      "The carrier",
-     "Nobody"
+     "Seller and buyer equally",
+     "The buyer, at checkout",
+     "The seller, from the payout"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Vinted adds its fee to the buyer's checkout total."
    },
    {
     "q": "A reseller should check:",
     "o": [
-     "Only private-seller fees",
-     "The platform's rules for professional sellers",
      "Nothing",
+     "Only private-seller fees",
+     "Only the fee page for private sellers on the site",
+     "The platform's rules for professional sellers",
      "Only the logo"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Resellers are in business."
    },
    {
     "q": "Which photograph helps most in a dispute?",
     "o": [
-     "A close-up of each flaw",
+     "An edited image",
      "A stock image",
      "Only the front",
-     "An edited image"
+     "A single wide shot of the item",
+     "A close-up of each flaw"
     ],
-    "a": 0,
+    "a": 4,
     "w": "It supports your description."
    },
    {
     "q": "You make £200 profit on a weekend of car-boot sourcing that took 25 hours. What does working out profit per hour tell you here?",
     "o": [
-     "Shows if the work pays you fairly",
-     "Lowers tax",
-     "Sets the price",
-     "Is required by platforms"
+     "Platforms require it",
+     "It lowers tax",
+     "Whether the work pays you fairly",
+     "It sets the price",
+     "It sets the price for the next items"
     ],
-    "a": 0,
+    "a": 2,
     "w": "It tells you whether the time is worth it.",
     "kind": "application"
    },
@@ -1049,9 +1073,10 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What idea did Selfridge promote about shopping?",
     "o": [
-     "It should be a chore",
-     "Shopping for pleasure rather than necessity",
      "It should be silent",
+     "Shopping for pleasure, not only need",
+     "It should be a chore",
+     "Shopping strictly for the necessities",
      "It should be free"
     ],
     "a": 1,
@@ -1062,45 +1087,49 @@ ARCHIVE_ADD({
    {
     "q": "Gross trading income over what amount means registering for Self Assessment?",
     "o": [
+     "£12,570",
      "£500",
+     "£10,000",
      "£1,000",
-     "£5,000",
-     "£10,000"
+     "£5,000"
     ],
-    "a": 1,
+    "a": 3,
     "w": "Over £1,000 requires registration."
    },
    {
     "q": "A reseller with large stock costs should usually:",
     "o": [
+     "Compare, and use whichever gives lower taxable profit",
      "Always use the allowance",
-     "Compare and use whichever gives lower taxable profit",
-     "Ignore tax",
-     "Use both methods"
+     "Use both the allowance and the real expenses together",
+     "Use both methods",
+     "Ignore tax"
     ],
-    "a": 1,
+    "a": 0,
     "w": "You cannot claim both; compare them."
    },
    {
     "q": "The best first step on a damaged-in-post claim is to:",
     "o": [
-     "Refuse",
-     "Ask for photographs and compare with your packing photo",
      "Block the buyer",
-     "Delete the listing"
+     "Refund straight away, without asking for any evidence",
+     "Ask for photos and compare with your packing photo",
+     "Delete the listing",
+     "Refuse"
     ],
-    "a": 1,
+    "a": 2,
     "w": "Evidence settles most cases."
    },
    {
     "q": "You had 60 sales and 3 returns last month. Which calculation gives your return rate?",
     "o": [
-     "Returns ÷ sales",
+     "Profit ÷ returns",
      "Sales ÷ returns",
      "Fees ÷ sales",
-     "Profit ÷ returns"
+     "Returns ÷ sales",
+     "Returns ÷ (sales − returns)"
     ],
-    "a": 0,
+    "a": 3,
     "w": "5 returns from 40 sales is 12.5%.",
     "kind": "application"
    },
@@ -1108,10 +1137,11 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "In what year was Pacioli's Summa de arithmetica published in Venice?",
     "o": [
-     "1294",
-     "1494",
      "1694",
-     "1894"
+     "1494",
+     "1894",
+     "1514",
+     "1294"
     ],
     "a": 1,
     "w": "It was published in 1494. {{wiki-pacioli}}"
@@ -1122,12 +1152,13 @@ ARCHIVE_ADD({
     "lec": 1,
     "q": "What did Pacioli propose to prove that a ledger balanced?",
     "o": [
-     "A trial balance",
      "A price list",
+     "An independent audit",
+     "A trial balance",
      "A contract",
      "A tax return"
     ],
-    "a": 0,
+    "a": 2,
     "w": "He proposed a trial balance. {{wiki-pacioli}} {{geijsbeek}}"
    }
   ]

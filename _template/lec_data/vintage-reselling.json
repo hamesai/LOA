@@ -203,36 +203,39 @@
      "t": "check",
      "q": "In the worked example, what is the true profit on the jug?",
      "o": [
+      "About £18.50",
       "£22.00",
       "About £15.43",
-      "£8.00",
-      "£30.00"
+      "£30.00",
+      "£8.00"
      ],
-     "a": 1,
+     "a": 2,
      "w": "True cost is £14.575, so profit is 30 − 14.575 = £15.425."
     },
     {
      "t": "check",
      "q": "What did Wedgwood note about the cheaper water route, as Meteyard prints his letter?",
      "o": [
+      "It was faster",
       "It was always best",
-      "Stealage and breakage on the river were often more than the saving",
       "It was illegal",
-      "It was faster"
+      "River theft and breakage often outweighed the saving",
+      "It was always cheaper and safer than carrying goods by road"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He said the stealage and breakage on the river were often more than the difference in carriage. {{meteyard-1}}"
     },
     {
      "t": "check",
      "q": "Why did many neighbouring potters refuse special commissions?",
      "o": [
+      "The outlay left little or no profit",
+      "They were illegal",
       "They disliked the customers",
-      "The outlay left little or no margin of profit",
       "They had no kilns",
-      "They were illegal"
+      "Commissions were banned by the potters' guild"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Meteyard says the outlay on modelling and enamelling left little or no margin. {{meteyard-1}}"
     },
     {
@@ -248,11 +251,12 @@
     "q": "In what year was the Wedgwood company founded, according to the sources?",
     "o": [
      "1599",
+     "1959",
      "1759",
-     "1859",
-     "1959"
+     "1769",
+     "1859"
     ],
-    "a": 1,
+    "a": 2,
     "w": "He founded the company in 1759. {{brit-wedgwood}} {{wiki-wedgwood}}"
    }
   },
@@ -374,32 +378,35 @@
      "q": "In the worked example, what is channel B's sell-through?",
      "o": [
       "20%",
+      "80%",
       "40%",
-      "60%",
-      "80%"
+      "25%",
+      "60%"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Two of five items sold, which is 40%."
     },
     {
      "t": "check",
      "q": "In his 1767 letter, what did Wedgwood say he would do after the earths and clays?",
      "o": [
-      "Stop",
-      "Go upon glazes",
+      "Retire",
       "Sell the works",
-      "Retire"
+      "Move on to new shapes",
+      "Go upon glazes",
+      "Stop"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He said he would next go upon glazes. {{meteyard-1}}"
     },
     {
      "t": "check",
      "q": "Why change only one thing between tests?",
      "o": [
-      "It is cheaper",
-      "You can tell what caused the change in results",
+      "Changing several things gives faster results",
+      "You can tell what caused the change",
       "Platforms require it",
+      "It is cheaper",
       "It lowers tax"
      ],
      "a": 1,
@@ -417,12 +424,13 @@
    "quiz": {
     "q": "How did Wedgwood develop improved pottery bodies, according to the source?",
     "o": [
-     "By luck",
-     "By systematic experimentation",
+     "By systematic experiment",
      "By copying only",
-     "By importing them"
+     "By importing them",
+     "By luck",
+     "By copying Chinese porcelain"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Wikipedia says he developed improved bodies by systematic experimentation. {{wiki-wedgwood}} {{meteyard-1}}"
    }
   },
@@ -537,9 +545,10 @@
      "t": "check",
      "q": "What does a piece resembling a Director design show about its maker?",
      "o": [
-      "Chippendale made it",
-      "Nothing certain without further evidence",
+      "It was made in Chippendale's workshop",
+      "Nothing certain without more evidence",
       "It is a copy",
+      "Chippendale made it",
       "It is from 1754"
      ],
      "a": 1,
@@ -549,24 +558,26 @@
      "t": "check",
      "q": "What does the title page promise about the designs?",
      "o": [
+      "No dimensions",
+      "A guarantee that each design is Chippendale's own",
       "Only prices",
-      "Mouldings shown at large and the dimensions specified",
       "A guarantee of maker",
-      "No dimensions"
+      "Mouldings at large, with dimensions given"
      ],
-     "a": 1,
+     "a": 4,
      "w": "It promises the mouldings at large and the dimensions of each design specified. {{chippendale-dir}}"
     },
     {
      "t": "check",
      "q": "Which wording fits a chair in the style with no records?",
      "o": [
-      "Genuine Chippendale",
-      "In the Chippendale style",
+      "Genuine Chippendale, circa 1760",
       "From Chippendale's own workshop",
-      "Attributed to Chippendale"
+      "Attributed to Chippendale",
+      "In the Chippendale style",
+      "Genuine Chippendale"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Only 'in the style' is supported."
     },
     {
@@ -581,12 +592,13 @@
    "quiz": {
     "q": "In what year did Chippendale publish The Gentleman and Cabinet-Maker's Director?",
     "o": [
-     "1654",
      "1754",
+     "1654",
+     "1954",
      "1854",
-     "1954"
+     "1774"
     ],
-    "a": 1,
+    "a": 0,
     "w": "Britannica gives 1754 for the first edition. {{brit-chippendale}}"
    }
   },
@@ -707,14 +719,15 @@
     },
     {
      "t": "check",
-     "q": "You want a historical example to show buyers why testing claims matters. In Hassall's first series of ground coffees, what did he find that makes the point?",
+     "q": "You want a historical example to show why testing claims matters. In Hassall's first series of ground coffees, how many samples were adulterated?",
      "o": [
-      "3 of 34",
       "31 of 34",
+      "12 of 34",
+      "None of the 34",
       "34 of 34",
-      "12 of 34"
+      "3 of 34"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Of 34 coffees, all but three were adulterated. {{archive-hassall}}",
      "kind": "application"
     },
@@ -722,24 +735,26 @@
      "t": "check",
      "q": "What did he say about simple tests compared with the microscope?",
      "o": [
+      "The microscope is unreliable",
       "They are equally certain",
-      "The microscope is the only ready and certain means for most",
-      "Tests are useless",
-      "The microscope is unreliable"
+      "Simple chemical tests are just as certain as the microscope for every sample",
+      "The microscope is the only ready, certain means for most",
+      "Tests are useless"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He said the microscope affords the only ready and certain means. {{archive-hassall}}"
     },
     {
      "t": "check",
      "q": "You did not test a lamp. What can you say about it?",
      "o": [
-      "It works",
-      "Untested; for display or parts",
       "It is safe",
-      "It is guaranteed"
+      "Working when last used, as far as we know",
+      "It is guaranteed",
+      "It works",
+      "Untested; for display or parts"
      ],
-     "a": 1,
+     "a": 4,
      "w": "State only what you tested."
     },
     {
@@ -754,12 +769,13 @@
    "quiz": {
     "q": "In which publication did Hassall's food adulteration reports appear?",
     "o": [
-     "The Times",
      "The Lancet",
+     "The Economist",
      "Punch",
-     "The Economist"
+     "The British Medical Journal",
+     "The Times"
     ],
-    "a": 1,
+    "a": 0,
     "w": "His reports were published in The Lancet. {{wiki-hassall}} {{archive-hassall}}"
    }
   },
@@ -898,10 +914,11 @@
      "t": "check",
      "q": "According to Selfridge, what is the problem with false statements in advertising?",
      "o": [
-      "Nothing",
-      "They reduce the value of every future statement",
       "They are cheap",
-      "They are legal"
+      "They reduce the value of every later statement",
+      "They are legal",
+      "Nothing, as long as the goods themselves are good",
+      "Nothing"
      ],
      "a": 1,
      "w": "He says they reduce the value of every future statement. {{selfridge-roc}}"
@@ -910,12 +927,13 @@
      "t": "check",
      "q": "A shop buyer can pick up and turn over an item; an online buyer cannot. What should your listing do to make up for that?",
      "o": [
-      "Hiding flaws",
-      "Photographs from every side so the buyer can look round the item",
-      "A long story",
-      "Low prices only"
+      "Photograph every side, so buyers can look round it",
+      "Price low only",
+      "Hide the flaws",
+      "Tell a long story",
+      "Write a long, detailed story about the item's history"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Online, photographs stand in for walking round an item.",
      "kind": "application"
     },
@@ -923,12 +941,13 @@
      "t": "check",
      "q": "When did Selfridges open?",
      "o": [
+      "1 May 1951",
+      "4 July 1776",
       "15 March 1909",
       "1 January 1800",
-      "4 July 1776",
-      "1 May 1951"
+      "15 March 1919"
      ],
-     "a": 0,
+     "a": 2,
      "w": "It opened on 15 March 1909. {{selfridge}}"
     },
     {
@@ -943,9 +962,10 @@
    "quiz": {
     "q": "What idea did Selfridge promote about shopping?",
     "o": [
-     "It should be a chore",
-     "Shopping for pleasure rather than necessity",
      "It should be silent",
+     "Shopping for pleasure, not only need",
+     "It should be a chore",
+     "Shopping strictly for the necessities",
      "It should be free"
     ],
     "a": 1,
@@ -1088,22 +1108,24 @@
      "t": "check",
      "q": "In the first worked example, what is the expected closing cost?",
      "o": [
-      "£620",
+      "£130",
+      "£490",
       "£574",
       "£84",
-      "£130"
+      "£620"
      ],
-     "a": 1,
+     "a": 2,
      "w": "620 + 84 − 130 = £574."
     },
     {
      "t": "check",
      "q": "What did Pacioli say about the inventory, in the translation?",
      "o": [
-      "Take it over a year",
-      "It must be completed in one day",
       "Skip small items",
-      "Keep it secret from staff"
+      "It must be completed in one day",
+      "Take it over a full week to avoid mistakes",
+      "Keep it secret from staff",
+      "Take it over a year"
      ],
      "a": 1,
      "w": "The whole inventory must be completed in one day. {{geijsbeek}}"
@@ -1112,12 +1134,13 @@
      "t": "check",
      "q": "When the debit and credit totals differ, what did he say it shows?",
      "o": [
-      "Nothing",
-      "That some mistake has been made in the ledger",
+      "A mistake in the ledger",
+      "A profit for the period",
       "A profit",
+      "Nothing",
       "A tax due"
      ],
-     "a": 1,
+     "a": 0,
      "w": "He says the totals should be the same, otherwise a mistake has been made. {{geijsbeek}}"
     },
     {
@@ -1132,10 +1155,11 @@
    "quiz": {
     "q": "In what year was Pacioli's Summa de arithmetica published in Venice?",
     "o": [
-     "1294",
-     "1494",
      "1694",
-     "1894"
+     "1494",
+     "1894",
+     "1514",
+     "1294"
     ],
     "a": 1,
     "w": "It was published in 1494. {{wiki-pacioli}}"
@@ -1244,34 +1268,37 @@
      "t": "check",
      "q": "What is a trial balance for?",
      "o": [
-      "To set a price",
-      "To confirm the totals agree",
+      "To file the tax return directly",
       "To file tax",
-      "To list items"
+      "To list items",
+      "To confirm the totals agree",
+      "To set a price"
      ],
-     "a": 1,
+     "a": 3,
      "w": "It lists balances in two columns to confirm debits equal credits. {{wiki-dentry}}"
     },
     {
      "t": "check",
      "q": "In the worked example, what is the total profit?",
      "o": [
+      "£22.36",
       "£54",
-      "About £95.64",
       "£181",
-      "£22.36"
+      "About £120.00",
+      "About £95.64"
      ],
-     "a": 1,
+     "a": 4,
      "w": "181 − 54 − 22.3625 − 6 − 3 = £95.6375."
     },
     {
      "t": "check",
      "q": "What do you do when the two totals differ?",
      "o": [
-      "Ignore it",
+      "Record the difference as profit and move straight on",
       "Go back through the entries to find the mistake",
-      "Raise prices",
-      "Delete the pack"
+      "Ignore it",
+      "Delete the pack",
+      "Raise prices"
      ],
      "a": 1,
      "w": "A mismatch means a mistake to find. {{geijsbeek}}"
@@ -1288,12 +1315,13 @@
    "quiz": {
     "q": "What did Pacioli propose to prove that a ledger balanced?",
     "o": [
-     "A trial balance",
      "A price list",
+     "An independent audit",
+     "A trial balance",
      "A contract",
      "A tax return"
     ],
-    "a": 0,
+    "a": 2,
     "w": "He proposed a trial balance. {{wiki-pacioli}} {{geijsbeek}}"
    }
   }

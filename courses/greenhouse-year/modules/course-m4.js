@@ -96,23 +96,25 @@
      "q": "What pH band makes all nutrients readily available in soilless media?",
      "o": [
       "4.0 to 4.8",
+      "7.5 to 8.5",
       "5.4 to 6.2",
-      "6.8 to 7.5",
-      "7.5 to 8.5"
+      "6.2 to 7.0",
+      "6.8 to 7.5"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Purdue: all nutrients are readily available at a pH of 5.4 to 6.2."
     },
     {
      "t": "check",
-     "q": "Your medium's pH keeps creeping up every month although you change nothing. What should you test, and why?",
+     "q": "Your medium's pH keeps creeping up every month although you change nothing. What should you test first?",
      "o": [
-      "To check its colour",
-      "High alkalinity can raise medium pH over time",
-      "To measure its temperature",
-      "To find out how hard it is to pump"
+      "The medium's colour, which shows its pH",
+      "The fertiliser's nitrogen, which always lowers pH, so the meter must be faulty",
+      "How hard the water is to pump",
+      "The medium's temperature",
+      "Irrigation water alkalinity, which raises pH over time"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Purdue: high alkalinity can increase substrate pH over time.",
      "kind": "application"
     },
@@ -364,10 +366,11 @@
      "t": "check",
      "q": "In a PourThru test, how much leachate do you aim for?",
      "o": [
-      "About 5 mL",
+      "About 250 mL",
       "About 50 mL",
+      "As much as drains",
       "About 500 mL",
-      "As much as drains"
+      "About 5 mL"
      ],
      "a": 1,
      "w": "Purdue: collect close to 50 mL. More than 70 mL dilutes the salts."
@@ -376,12 +379,13 @@
      "t": "check",
      "q": "Last month you tested EC by PourThru and this month by the 1:2 method, and the numbers jumped. Why can you not compare them?",
      "o": [
-      "It is cheaper",
-      "Each method gives different EC numbers, so you must compare with that method's range",
+      "Each method has its own EC range",
       "Meters only work with one method",
-      "It saves distilled water"
+      "It saves distilled water",
+      "One method is cheaper",
+      "The 1:2 method always reads double PourThru, so just halve it"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The target EC range varies by sampling method.",
      "kind": "application"
     },
@@ -389,12 +393,13 @@
      "t": "check",
      "q": "A PourThru reading of 3.5 mS/cm falls in which band?",
      "o": [
-      "Very low",
       "Low",
+      "High",
+      "Very high",
       "Normal",
-      "High"
+      "Very low"
      ],
-     "a": 2,
+     "a": 3,
      "w": "2.7 to 4.6 is Normal for PourThru.",
      "kind": "application"
     },
@@ -561,9 +566,10 @@
      "q": "How many samples per crop type does Purdue recommend?",
      "o": [
       "One",
-      "Two",
+      "Twenty or more",
       "Five to ten, averaged",
-      "Twenty or more"
+      "One from the best plant",
+      "Two"
      ],
      "a": 2,
      "w": "Take five to ten samples, measure them separately, and use the average."
@@ -572,10 +578,11 @@
      "t": "check",
      "q": "What is the main value of testing, according to Purdue?",
      "o": [
+      "Replacing fertiliser",
+      "Tracking values over time for trends",
+      "A single reading at the start of each crop",
       "One perfect reading",
-      "Tracking values over time to reveal trends",
-      "Meeting a regulation",
-      "Replacing fertiliser"
+      "Meeting a regulation"
      ],
      "a": 1,
      "w": "The data and graphs reveal trends and are critical to share when seeking advice."
@@ -695,12 +702,13 @@
      "t": "check",
      "q": "You can water your tomatoes at 7 a.m. or 9 p.m. Which does NC State advise, and why?",
      "o": [
-      "Late in the evening",
-      "Early in the day so plants dry before dark",
+      "Early, so plants dry before dark",
       "Only after wilting",
-      "At midnight"
+      "At midnight",
+      "Late, so less water evaporates",
+      "Late in the evening, so roots drink overnight"
      ],
-     "a": 1,
+     "a": 0,
      "w": "NC State: water early in the day so that plants dry before dark.",
      "kind": "application"
     },
@@ -708,12 +716,13 @@
      "t": "check",
      "q": "A full canopy of growing lettuce in a 100 ft² house transpires 0.5 lb per ft² per day. How much water is that in gallons?",
      "o": [
-      "About 3",
-      "About 6",
       "About 12",
-      "About 50"
+      "About 3",
+      "About 50",
+      "About 6",
+      "About 0.5"
      ],
-     "a": 1,
+     "a": 3,
      "w": "100 × 0.5 = 50 lb. 50 ÷ 8.34 is about 6 gallons."
     },
     {
@@ -845,12 +854,13 @@
      "t": "check",
      "q": "According to the law of the minimum as usually summarised, what limits growth?",
      "o": [
+      "The nutrient applied in the largest amount",
       "The total of all resources",
-      "The scarcest resource",
+      "Temperature only",
       "The most abundant nutrient",
-      "Temperature only"
+      "The scarcest resource"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Growth is dictated by the scarcest resource, not by the total. {{wiki-liebig}}"
     },
     {
@@ -858,11 +868,12 @@
      "q": "In Liebig's meadow, why did hay crops fall after years of gypsum?",
      "o": [
       "Too much water",
-      "More potash was removed than was restored",
+      "Too many weeds",
+      "More potash was removed than restored",
       "Frost",
-      "Too many weeds"
+      "The gypsum made the soil too acid for grass"
      ],
-     "a": 1,
+     "a": 2,
      "w": "The larger crops took away more potash than could be restored, so the crops diminished for deficiency of potash. {{liebig-1843}}"
     },
     {
@@ -870,11 +881,12 @@
      "q": "Why did he say dryness was not the cause of the barren soil?",
      "o": [
       "It rained a lot",
-      "The stiff subsoil prevented a deficiency of moisture",
       "He did not test it",
+      "He measured the water and found plenty",
+      "The stiff subsoil kept moisture in",
       "The soil was sandy"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He said the stiff subsoil prevented a deficiency of moisture. {{liebig-1843}}"
     },
     {

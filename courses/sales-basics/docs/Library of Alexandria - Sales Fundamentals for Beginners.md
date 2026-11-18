@@ -1,6 +1,6 @@
 # Library of Alexandria: Sales fundamentals for beginners
 
-Level: Beginner. Created 15/11/2026.
+Level: Beginner. Created 18/11/2026.
 
 Learn the seven-step selling process: find and qualify prospects, prepare, open a conversation, present, handle objections, close and follow up, fairly and within UK and Irish law.
 

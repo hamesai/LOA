@@ -123,12 +123,13 @@
      "t": "check",
      "q": "A coastal family's chronicle traces its line to a prince from Shiraz. How should you use it?",
      "o": [
-      "As proof of Persian founders",
-      "As a late prestige story: the chronicle is late and the archaeology shows African builders",
-      "As a forgery to discard",
-      "As a Chinese source"
+      "As a Chinese source, since Shiraz traders reached the coast via China",
+      "As proof of Persian founders, since the family preserved it for centuries",
+      "As a forgery to discard, since it serves the family's present interests",
+      "As proof of Persian rulers over African builders, which both sources allow",
+      "As a late prestige story, since archaeology shows African builders"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The Shirazi claims served elite prestige. {{gha4-swahili}}",
      "kind": "application"
     },
@@ -136,12 +137,13 @@
      "t": "check",
      "q": "A site report dates a town's founding by its imported Chinese pottery. What is the flaw?",
      "o": [
-      "None",
-      "Imported pottery shows when trade reached the site, not when it was founded, and the samples are often tiny",
-      "Chinese pottery cannot be dated",
-      "The pottery is local"
+      "None: Chinese pottery is closely dated, so it gives the founding year",
+      "Imported pottery dates the founding, but only to within a single century",
+      "Imports show when trade reached the site, not when it was founded",
+      "The pottery is local imitation ware, so it tells us nothing about trade",
+      "Chinese pottery cannot be dated at all, so the report proves nothing"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Takwa: five million local sherds against 500 imported. {{gha3-masao}}",
      "kind": "application"
     },
@@ -290,12 +292,13 @@
      "t": "check",
      "q": "A textbook says 'Portugal destroyed the Swahili towns, causing their decline'. What is the better supported view?",
      "o": [
-      "It is right",
-      "Portuguese attacks mattered, but Oromo and Zimba pressure and environmental change better explain much decline, and Pate prospered after 1600",
-      "Portugal never came",
-      "Oman destroyed them in 1505"
+      "Portuguese attacks mattered, but Oromo, Zimba and environmental change explain more",
+      "It is right: every major town was sacked and none recovered after 1505",
+      "It is right for the north, but the southern towns were spared by the Portuguese entirely",
+      "Oman destroyed the towns in 1505, and the Portuguese arrived only later",
+      "Portugal never attacked the towns; their decline was entirely environmental"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Blaming Portugal alone is wrong on the evidence. {{gha5-coast}}",
      "kind": "application"
     },
@@ -303,9 +306,10 @@
      "t": "check",
      "q": "You are building a coast timeline. Which pair is in the right order?",
      "o": [
-      "Fort Jesus falls to Oman, then da Gama arrives",
+      "Fort Jesus falls to Oman, then da Gama arrives on the coast",
       "Kilwa attacked by Portugal (1505), then the Zimba reach Mombasa (1589)",
-      "Zanzibar closes its market, then Ibn Battuta visits",
+      "Zanzibar closes its market, then Ibn Battuta visits Kilwa",
+      "Mbwila (1665), then Afonso I writes his letter to the king of Portugal",
       "The final expulsion (1729), then Fort Jesus is built"
      ],
      "a": 1,
@@ -401,12 +405,13 @@
      "t": "check",
      "q": "An atlas shows Arab trade routes deep into Kenya and Tanzania in 1500. What does the evidence say?",
      "o": [
-      "It is right",
-      "No imported objects are found inland north of the Zambezi before 1600, and the interior joined long-distance trade about 1800",
-      "The routes ran to Egypt",
-      "There was no trade at all"
+      "The routes ran north to Egypt, not inland from the Swahili coast",
+      "There was no trade of any kind in the interior until the colonial period",
+      "It is right: Arab caravans reached the Great Lakes kingdoms well before the year 1500",
+      "No imports are found inland before 1600; the interior joined trade c. 1800",
+      "The routes were real, but they were run by Portuguese traders from Kilwa"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Local trade in iron, salt and food existed; coast links came later. {{gha5-ochieng}}",
      "kind": "application"
     },
@@ -414,12 +419,13 @@
      "t": "check",
      "q": "A people has no chief but councils of elders and age-sets. Which description fits?",
      "o": [
-      "A failed state",
+      "A failed state, whose central institutions had broken down",
+      "A pre-political society, one that has not yet developed government",
       "A decentralised political order, like the Kikuyu or Maasai",
-      "A Swahili town",
-      "An empire"
+      "A Swahili town, governed by merchant councils on the coast",
+      "An empire in decline, ruled by elders after its king died"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Decentralised peoples ran on councils. {{gha5-ochieng}}",
      "kind": "application"
     },
@@ -548,12 +554,13 @@
      "t": "check",
      "q": "An old guide says the Lakes kingdoms were founded by tall northern pastoralists who brought kingship. How should you answer it?",
      "o": [
-      "Accept it",
-      "It is the Hamitic theory; language and clan evidence show one Bantu-speaking population, and the hierarchy grew late",
-      "It is Buganda's constitution",
-      "It is a trade treaty"
+      "It is the Hamitic theory; the evidence shows one Bantu-speaking people",
+      "Accept it: the clan traditions of the kingdoms record a northern conquest",
+      "It is a trade treaty between herders and farmers, misread as conquest",
+      "It is half right: pastoralists brought kingship, but they spoke Bantu",
+      "It is Buganda's constitution, which records the founders' origins"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Tutsi and Hutu speak one Bantu language and shared clans. {{rd-lakes}} {{gha5-lakes}}",
      "kind": "application"
     },
@@ -561,10 +568,11 @@
      "t": "check",
      "q": "A history of Rwanda begins with Tutsi kings arriving and founding the state. What should it start with instead?",
      "o": [
-      "The same story",
-      "The farming clan states that came first; the court story rests on the outmoded Hamitic theory",
-      "Archaeology alone",
-      "Kenya"
+      "Archaeology alone, since all oral traditions are equally unreliable",
+      "The farming clan states that came first, not the Hamitic court story",
+      "The Belgian census of 1933, the first firm record of Rwandan groups",
+      "Kenya's coastal towns, which first brought kingship inland",
+      "The same story, since the court traditions are the oldest Rwandan sources"
      ],
      "a": 1,
      "w": "Seven clan states existed before the Nyiginya. {{gha4-lakes}}",
@@ -687,12 +695,13 @@
      "t": "check",
      "q": "You want evidence that a Kongo king saw the slave trade as harmful. Which source fits, and what is its limit?",
      "o": [
-      "A Portuguese tax roll; none",
-      "Afonso I's 1526 letter; it does not show Kongo stayed out of the trade, which grew under him",
-      "A Dutch treaty; it is forged",
-      "A baptism register; it is late"
+      "Afonso I's 1526 letter, which proves Kongo ended the trade entirely during his reign",
+      "A baptism register, which is late and records only Christian converts",
+      "A Portuguese tax roll, which needs no caution since it records numbers",
+      "A Dutch treaty with Kongo, which historians have shown to be forged",
+      "Afonso I's 1526 letter, which does not show Kongo stayed out of the trade"
      ],
-     "a": 1,
+     "a": 4,
      "w": "He tried to control and then abolish the trade, and failed. {{gha5-kongo}}",
      "kind": "application"
     },
@@ -700,12 +709,13 @@
      "t": "check",
      "q": "A website gives exact dates for Kongo kings in the 1300s. What should you say about them?",
      "o": [
-      "They are documented",
-      "They are hypothesis: the earliest manuscript is 1492 and traditions were recorded only from 1624",
-      "They come from Kongo archives",
-      "They are Portuguese records"
+      "They are firm, because the king lists agree with each other",
+      "They are [TRADITIONAL DATE], recorded by court historians before 1400 and kept ever since",
+      "They are documented in the royal archives kept at Mbanza Kongo",
+      "They are hypothesis: the earliest papers date from 1492, traditions from 1624",
+      "They come from Portuguese records made before da Gama's voyage"
      ],
-     "a": 1,
+     "a": 3,
      "w": "Earlier periods rest on later sources. {{gha4-kongo}}",
      "kind": "application"
     },
@@ -807,12 +817,13 @@
      "t": "check",
      "q": "A textbook says the Atlantic trade created commerce in the Congo basin. What is the correction?",
      "o": [
-      "It is right",
-      "River trade in camwood and copper already existed; the Atlantic trade intensified and redirected it",
-      "There was no trade before 1850",
-      "Trade came from the Swahili"
+      "It is right for copper, which was first mined for the Atlantic market in the 1500s",
+      "There was no trade before 1850, when steamers first went up the Congo",
+      "River trade in camwood and copper existed; the Atlantic trade redirected it",
+      "It is right: there was no regional trade before the Portuguese arrived",
+      "Trade came from the Swahili coast and reached the Atlantic only later"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Kingabwa pottery and Mafamba pipes show older trade. {{gha5-mbokolo}}",
      "kind": "application"
     },
@@ -820,12 +831,13 @@
      "t": "check",
      "q": "A tradition says a foreign hunter came and founded the Lunda kingdom. How should you treat it?",
      "o": [
-      "As a dated event",
+      "As a Portuguese report that Lunda's court later adopted",
+      "As a dated event, since the tradition names the hunter",
+      "As proof of a migration from the Luba lands to the east",
       "As a common founding cliche, a tradition rather than a record",
-      "As a Portuguese report",
-      "As proof of migration"
+      "As a forgery, since all founding stories are later inventions by courts"
      ],
-     "a": 1,
+     "a": 3,
      "w": "The hunter-king story is found elsewhere too. {{gha5-luba}}",
      "kind": "application"
     },
@@ -872,10 +884,11 @@
      "t": "check",
      "q": "What is the safest sentence about Madagascar's origins?",
      "o": [
-      "It was settled only by Arabs",
-      "It was settled by Indonesian, African and Arab-Swahili contributions in proportions still argued",
-      "It was empty until 1500",
-      "It was settled only from India"
+      "It was settled only by Arabs, who brought the language with them",
+      "Indonesian, African and Arab-Swahili settlers, in proportions still argued",
+      "It was settled only from India, by traders crossing the ocean",
+      "It was empty until 1500, when Portuguese ships first landed",
+      "It was settled from Borneo alone, and Africans arrived there only later as captives"
      ],
      "a": 1,
      "w": "The comparative contributions are still discussed. {{gha4-madag}}",
@@ -885,12 +898,13 @@
      "t": "check",
      "q": "A student says Malagasy is a Bantu language because Madagascar lies off Africa. What is the correction?",
      "o": [
-      "It is right",
-      "Malagasy is Austronesian, closest to Maanyan of Borneo",
-      "It is Arabic",
-      "It is unknown"
+      "It is right: Malagasy is Bantu with many Indonesian loans",
+      "Malagasy is Austronesian, closest to the Malay of Sumatra",
+      "It is Arabic, brought by traders from the Persian Gulf",
+      "It is unknown: no one has classified the language yet",
+      "Malagasy is Austronesian, closest to Maanyan of Borneo"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Language follows descent, not geography. {{gha1-greenberg}}",
      "kind": "application"
     },
@@ -961,12 +975,13 @@
      "t": "check",
      "q": "A writer says there were no large polities in western Uganda before the nineteenth century. Which evidence tests that?",
      "o": [
-      "A Persian colony",
-      "The Ntusi and Bigo earthworks, polities of roughly the 11th to 16th centuries",
-      "A Kongo capital",
-      "An Omani fort"
+      "The Ntusi and Bigo earthworks, of about the 11th to 16th centuries",
+      "The Buganda court traditions, which name kings back to the year 1000",
+      "An Omani fort built in the interior, as Arab sources record",
+      "A Kongo capital in the west, linked by river to the Great Lakes",
+      "A Persian colony on Lake Victoria, known from its imported glass"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The earthworks are real even if the Chwezi are contested. {{rd-lakes}}",
      "kind": "application"
     },
@@ -974,12 +989,13 @@
      "t": "check",
      "q": "How should you date Ibn Battuta's Kilwa visit in an essay?",
      "o": [
-      "Exactly 1331",
-      "About 1330 to 1331",
+      "About 1324 to 1325",
       "1505",
-      "1698"
+      "About 1330 to 1331",
+      "1698",
+      "Exactly 1331"
      ],
-     "a": 1,
+     "a": 2,
      "w": "His own chronology is uncertain. {{wiki-battuta}}",
      "kind": "application"
     },
@@ -1085,24 +1101,26 @@
      "t": "check",
      "q": "What did Ibn Battuta say of Kilwa?",
      "o": [
-      "It was a ruin",
       "One of the finest and most beautifully built towns",
-      "It was Portuguese",
-      "It had no mosque"
+      "A poor fishing town with no mosque worth the name",
+      "A town of reed huts, rich but poorly built",
+      "A ruin, abandoned after the gold trade moved north",
+      "A Portuguese trading post with a stone fort"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Wikipedia quotes his judgement. {{wiki-battuta}}"
     },
     {
      "t": "check",
      "q": "How should you give the date of his visit?",
      "o": [
-      "Exactly 1330",
-      "About 1330 to 1331",
       "1505",
-      "1698"
+      "Exactly 1330",
+      "1698",
+      "About 1330 to 1331",
+      "About 1352 to 1353"
      ],
-     "a": 1,
+     "a": 3,
      "w": "His chronology is uncertain. {{wiki-battuta}}"
     },
     {

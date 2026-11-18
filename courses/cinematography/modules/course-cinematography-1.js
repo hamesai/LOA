@@ -151,12 +151,13 @@
      "t": "check",
      "q": "A lens is set to f/2.8. You close it to f/8. By how many stops does the image darken?",
      "o": [
-      "Two",
-      "Three",
       "Four",
-      "Five"
+      "Two",
+      "Five",
+      "Three",
+      "Two and a half (8 ÷ 2.8 ≈ 2.9)"
      ],
-     "a": 1,
+     "a": 3,
      "w": "f/2.8 to f/4, f/5.6 and f/8 is three full steps, so three stops. {{wiki-fnumber}}",
      "kind": "application"
     },
@@ -164,12 +165,13 @@
      "t": "check",
      "q": "Your shot is one stop too dark and you can change only one setting. Which change adds exactly one stop?",
      "o": [
+      "f/8 to f/11, since a larger number lets in more light",
       "ISO 200 to ISO 300",
-      "f/8 to f/5.6",
+      "ISO 400 to ISO 200",
       "f/8 to f/4",
-      "ISO 400 to ISO 200"
+      "f/8 to f/5.6"
      ],
-     "a": 1,
+     "a": 4,
      "w": "Opening from f/8 to f/5.6 doubles the aperture area. f/8 to f/4 would be two stops. {{wiki-fnumber}}",
      "kind": "application"
     },
@@ -316,12 +318,13 @@
      "t": "check",
      "q": "At 30 fps, what shutter speed gives a 180° angle?",
      "o": [
-      "1/30 s",
       "1/60 s",
+      "1/48 s (the film standard)",
+      "1/120 s",
       "1/100 s",
-      "1/120 s"
+      "1/30 s"
      ],
-     "a": 1,
+     "a": 0,
      "w": "The interval is 1/30 s and half of it is 1/60 s. {{wiki-shutter}}",
      "kind": "application"
     },
@@ -329,10 +332,11 @@
      "t": "check",
      "q": "Compared with 180°, a 45° shutter makes motion look:",
      "o": [
-      "Smoother with more blur",
+      "The same",
       "Sharper and more stuttering",
       "Brighter",
-      "The same"
+      "Smoother, with more blur",
+      "Smoother, because each frame is exposed for longer"
      ],
      "a": 1,
      "w": "A tight angle constricts blur and gives a stuttering look. {{wiki-shutter}}"
@@ -466,10 +470,11 @@
      "t": "check",
      "q": "You need to lose five stops of light and filters are marked by density. Which density is closest?",
      "o": [
-      "0.9",
-      "1.2",
+      "2.4",
+      "0.5 (one tenth per stop)",
       "1.5",
-      "2.4"
+      "0.9",
+      "1.2"
      ],
      "a": 2,
      "w": "Five stops is a factor of 32. Density 1.5 gives 10^1.5, about 31.6. That is the match."
@@ -478,12 +483,13 @@
      "t": "check",
      "q": "Clouds keep passing during a dialogue scene and your assistant wants to ride the aperture between takes. Why do cinematographers usually avoid that?",
      "o": [
-      "It is not possible on cinema lenses",
+      "Changing aperture alters the shutter angle and so the motion blur",
+      "It changes the frame rate",
       "Depth of field changes with aperture",
-      "It changes the colour",
-      "It changes the frame rate"
+      "It is not possible on cinema lenses",
+      "It changes the colour"
      ],
-     "a": 1,
+     "a": 2,
      "w": "Aperture changes depth of field, which would change the look between shots. {{wiki-dof}}",
      "kind": "application"
     },
@@ -615,20 +621,22 @@
      "t": "check",
      "q": "You shoot at 60 fps with a 180° shutter. How does the exposure compare with 24 fps at 180°?",
      "o": [
-      "Same",
-      "About 1.3 stops darker",
       "One stop brighter",
-      "Two stops darker"
+      "Two stops darker",
+      "About 2.5 stops darker, since 60 is 2.5 times 24",
+      "The same",
+      "About 1.3 stops darker"
      ],
-     "a": 1,
+     "a": 4,
      "w": "The exposure time drops from 1/48 s to 1/120 s, a ratio of 2.5, about 1.3 stops. This is our arithmetic from {{wiki-shutter}}."
     },
     {
      "t": "check",
      "q": "Your handheld 200 mm shot on a DSLR looks like jelly whenever you move. What is the main cause?",
      "o": [
-      "Low ISO",
+      "A slow shutter speed blurring each frame",
       "Rolling shutter",
+      "Low ISO",
       "Wrong white balance",
       "Too much light"
      ],
@@ -745,9 +753,10 @@
      "q": "You shoot 24p under ordinary fluorescent tubes on 50 Hz mains. Which shutter speed is safest?",
      "o": [
       "1/50 s",
+      "1/60 s, to match the frame rate's 180° angle",
       "1/125 s",
-      "1/250 s",
-      "1/1000 s"
+      "1/1000 s",
+      "1/250 s"
      ],
      "a": 0,
      "w": "The rule of thumb is not to use a shutter faster than 1/50 s on 50 Hz mains. {{fh-ch12}}"
@@ -756,12 +765,13 @@
      "t": "check",
      "q": "You undercrank a shot to 12 fps with a 180° shutter instead of 24 fps. How does the exposure change?",
      "o": [
-      "One stop brighter",
+      "Half a stop brighter, as only the shutter speed changes",
+      "No change",
       "One stop darker",
-      "Two stops brighter",
-      "No change"
+      "One stop brighter",
+      "Two stops brighter"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Each frame is exposed for twice as long, so you gain one stop. {{fh-ch9}}",
      "kind": "application"
     },
@@ -888,12 +898,13 @@
      "t": "check",
      "q": "A clean pan across a detailed street shows stutter at 24 fps. Which change helps most without raising the frame rate?",
      "o": [
-      "Pan more slowly or throw the background out of focus",
-      "Raise the gain",
       "Shoot interlaced",
-      "Turn off the viewfinder"
+      "Raise the gain",
+      "Turn off the viewfinder",
+      "Pan more slowly or throw the background out of focus",
+      "Pan faster, so the eye cannot follow the stutter across the frame"
      ],
-     "a": 0,
+     "a": 3,
      "w": "Slower pans and a soft background reduce judder. {{fh-ch9}}",
      "kind": "application"
     },
@@ -901,10 +912,11 @@
      "t": "check",
      "q": "How many stops of extra sensitivity is a gain of 12 dB?",
      "o": [
-      "One",
+      "Twelve (one per dB)",
       "Two",
-      "Three",
-      "Four"
+      "Four",
+      "One",
+      "Three"
      ],
      "a": 1,
      "w": "6 dB is one stop, so 12 dB is two stops (our arithmetic). {{fh-ch3}}",
@@ -986,24 +998,26 @@
      "t": "check",
      "q": "A lamp moves from 11 ft to 8 ft. How much more light does the subject receive?",
      "o": [
-      "About one stop",
       "About half a stop",
-      "About two stops",
-      "None"
+      "None",
+      "About one stop",
+      "About a third of a stop, since it moved 3 ft",
+      "About two stops"
      ],
-     "a": 0,
+     "a": 2,
      "w": "Our arithmetic: (11 ÷ 8)² = 1.89, about one stop. This matches Brown's example. {{brown-exposure}}"
     },
     {
      "t": "check",
      "q": "What does FAST stand for in Brown's pre-shot check?",
      "o": [
-      "Focus, aperture, speed, tachometer",
-      "Film, aperture, shutter, timecode",
       "Focus, angle, shutter, tilt",
-      "Frame, audio, slate, take"
+      "Filter, angle, slate, timecode check",
+      "Frame, audio, slate, take",
+      "Film, aperture, shutter, timecode",
+      "Focus, aperture, speed, tachometer"
      ],
-     "a": 0,
+     "a": 4,
      "w": "It is the old checklist for the camera before a take. {{brown-production}}"
     },
     {
@@ -1078,9 +1092,10 @@
      "q": "About how many flashes a second give a steady beam, per Film Art?",
      "o": [
       "50",
-      "12",
       "24 exactly",
-      "500"
+      "12",
+      "500",
+      "18, the silent speed"
      ],
      "a": 0,
      "w": "Around 50 flashes a second, so a double-flashed 24 fps film sits at 48. {{fa-ch1}}"
@@ -1089,12 +1104,13 @@
      "t": "check",
      "q": "A film shot at 16 fps is projected at 24 fps. How does it look?",
      "o": [
+      "Unchanged",
+      "Out of focus",
       "Sped up",
       "Slowed down",
-      "Unchanged",
-      "Out of focus"
+      "Slowed down by a third"
      ],
-     "a": 0,
+     "a": 2,
      "w": "Fewer frames per second in the camera than the projector speeds the action up. {{fa-ch5}}",
      "kind": "application"
     },
@@ -1218,10 +1234,11 @@
      "t": "check",
      "q": "What did Muybridge change after the fuzzy 1873 picture?",
      "o": [
-      "Only the lens colour",
-      "Faster shutters, electric triggering and more sensitive emulsions",
+      "A larger tripod",
+      "Faster shutters, electric triggering and faster emulsions",
       "A slower horse",
-      "A larger tripod only"
+      "Only the colour of the lens",
+      "A single camera with a much longer exposure and a brighter sun"
      ],
      "a": 1,
      "w": "He worked on faster shutters, electrically triggered mechanisms and more sensitive emulsions. {{wiki-muybridge}}"
@@ -1230,12 +1247,13 @@
      "t": "check",
      "q": "A runner moves 5 m/s. About how far do they move during a 1/500 s exposure?",
      "o": [
+      "5 mm",
+      "50 cm",
       "5 cm",
       "1 cm",
-      "5 mm",
       "1 mm"
      ],
-     "a": 1,
+     "a": 3,
      "w": "5 ÷ 500 = 0.01 m, which is 1 cm.",
      "kind": "application"
     },
@@ -1243,12 +1261,13 @@
      "t": "check",
      "q": "Going from 1/50 s to 1/1000 s costs about how many stops of light?",
      "o": [
-      "2",
+      "6",
       "3",
-      "4.3",
-      "6"
+      "2",
+      "20 (1000 ÷ 50)",
+      "4.3"
      ],
-     "a": 2,
+     "a": 4,
      "w": "The ratio is 20, and log base 2 of 20 is about 4.3.",
      "kind": "application"
     },

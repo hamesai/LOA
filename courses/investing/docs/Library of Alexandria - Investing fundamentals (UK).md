@@ -1,6 +1,6 @@
 # Library of Alexandria: Investing fundamentals (UK)
 
-Level: Beginner. Created 15/11/2026.
+Level: Beginner. Created 18/11/2026.
 
 Build a simple, diversified, low-cost portfolio you understand, and spot the scams and tax traps that cost most beginners money.
 

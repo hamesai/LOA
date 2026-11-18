@@ -1,0 +1,197 @@
+{
+ "3a5ed2ff": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Reading a return figure honestly",
+  "date": "2026-11-17"
+ },
+ "b8306d0a": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Reading a return figure honestly",
+  "date": "2026-11-17"
+ },
+ "7ee77846": {
+  "state": "applied",
+  "note": "auto: module 3, lesson What risk means for an investor",
+  "date": "2026-11-17"
+ },
+ "3cf66f4f": {
+  "state": "applied",
+  "note": "auto: module 4, lesson Markowitz: risk, return and correlation",
+  "date": "2026-11-17"
+ },
+ "3dc36103": {
+  "state": "applied",
+  "note": "auto: module 3, lesson What risk means for an investor",
+  "date": "2026-11-17"
+ },
+ "cfbc1fde": {
+  "state": "applied",
+  "note": "auto: module 5, lesson Do active funds beat the index?",
+  "date": "2026-11-17"
+ },
+ "9df756a9": {
+  "state": "applied",
+  "note": "auto: module 1, lesson Inflation: why cash is not automatically safe",
+  "date": "2026-11-17"
+ },
+ "a420f8da": {
+  "state": "applied",
+  "note": "auto: module 3, lesson Volatility and the recovery arithmetic",
+  "date": "2026-11-17"
+ },
+ "bce50a84": {
+  "state": "applied",
+  "note": "auto: module 4, lesson Building a simple portfolio you can explain",
+  "date": "2026-11-17"
+ },
+ "0db6a84a": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Case files: scams and the biases behind them",
+  "date": "2026-11-17"
+ },
+ "ea629508": {
+  "state": "applied",
+  "note": "auto: module 3, lesson What risk means for an investor",
+  "date": "2026-11-17"
+ },
+ "26191963": {
+  "state": "applied",
+  "note": "auto: module 6, lesson The margin of safety and the lesson of 1929",
+  "date": "2026-11-17"
+ },
+ "4e0102ec": {
+  "state": "applied",
+  "note": "auto: module 6, lesson The margin of safety and the lesson of 1929",
+  "date": "2026-11-17"
+ },
+ "65292f57": {
+  "state": "applied",
+  "note": "auto: module 3, lesson Bachelier and the random walk",
+  "date": "2026-11-17"
+ },
+ "63ea0901": {
+  "state": "applied",
+  "note": "auto: module 3, lesson Stress-testing a plan: three scenarios",
+  "date": "2026-11-17"
+ },
+ "92ec6755": {
+  "state": "applied",
+  "note": "auto: module 4, lesson Building a simple portfolio you can explain",
+  "date": "2026-11-17"
+ },
+ "f2dcae61": {
+  "state": "applied",
+  "note": "auto: module 2, lesson Compounding: growth on growth",
+  "date": "2026-11-17"
+ },
+ "9c4e39e7": {
+  "state": "applied",
+  "note": "auto: module 1, lesson Inflation: why cash is not automatically safe",
+  "date": "2026-11-17"
+ },
+ "d1b400e6": {
+  "state": "applied",
+  "note": "auto: module 1, lesson Inflation: why cash is not automatically safe",
+  "date": "2026-11-17"
+ },
+ "2fd6be79": {
+  "state": "applied",
+  "note": "auto: module 1, lesson Time horizon and the emergency fund",
+  "date": "2026-11-17"
+ },
+ "e1371774": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Scams and the checks that stop them",
+  "date": "2026-11-17"
+ },
+ "9168891d": {
+  "state": "applied",
+  "note": "auto: module 4, lesson Building a simple portfolio you can explain",
+  "date": "2026-11-17"
+ },
+ "c7ca2ff2": {
+  "state": "applied",
+  "note": "auto: module 1, lesson What investing is, and what it is not",
+  "date": "2026-11-17"
+ },
+ "b4053f65": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Investment or speculation",
+  "date": "2026-11-17"
+ },
+ "e0c83545": {
+  "state": "applied",
+  "note": "auto: module 5, lesson Funds and index trackers",
+  "date": "2026-11-17"
+ },
+ "72b358f4": {
+  "state": "applied",
+  "note": "auto: module 1, lesson Inflation: why cash is not automatically safe",
+  "date": "2026-11-17"
+ },
+ "29fe3e69": {
+  "state": "applied",
+  "note": "module 4, lessons Diversification (systematic risk, number of holdings), Markowitz (Delta volatility) and Building a portfolio (US history as one fortunate market)",
+  "date": "2026-11-17"
+ },
+ "59f4a948": {
+  "state": "applied",
+  "note": "module 4, lessons Diversification (systematic risk, number of holdings), Markowitz (Delta volatility) and Building a portfolio (US history as one fortunate market)",
+  "date": "2026-11-17"
+ },
+ "24abdc01": {
+  "state": "applied",
+  "note": "module 4, lessons Diversification (systematic risk, number of holdings), Markowitz (Delta volatility) and Building a portfolio (US history as one fortunate market)",
+  "date": "2026-11-17"
+ },
+ "60ee4254": {
+  "state": "applied",
+  "note": "module 1, lesson What investing is (bonds promise, shares do not, shareholders paid last)",
+  "date": "2026-11-17"
+ },
+ "e374d0cc": {
+  "state": "applied",
+  "note": "module 1, lesson What investing is (bonds promise, shares do not, shareholders paid last)",
+  "date": "2026-11-17"
+ },
+ "6e841e2c": {
+  "state": "skipped",
+  "note": "US anecdotes (SPAC returns, Bill Gross, Buffett profile): illustrative but US-specific; the course's active-versus-passive and speculation lessons already carry the point with sourced evidence",
+  "date": "2026-11-17"
+ },
+ "8071827a": {
+  "state": "skipped",
+  "note": "US anecdotes (SPAC returns, Bill Gross, Buffett profile): illustrative but US-specific; the course's active-versus-passive and speculation lessons already carry the point with sourced evidence",
+  "date": "2026-11-17"
+ },
+ "4acabd7f": {
+  "state": "skipped",
+  "note": "US anecdotes (SPAC returns, Bill Gross, Buffett profile): illustrative but US-specific; the course's active-versus-passive and speculation lessons already carry the point with sourced evidence",
+  "date": "2026-11-17"
+ },
+ "f6950aae": {
+  "state": "skipped",
+  "note": "General points (interest as the rental price of money, why money now is worth more, no return is guaranteed) already made in the course in the same words or via Fisher",
+  "date": "2026-11-17"
+ },
+ "75511a49": {
+  "state": "skipped",
+  "note": "General points (interest as the rental price of money, why money now is worth more, no return is guaranteed) already made in the course in the same words or via Fisher",
+  "date": "2026-11-17"
+ },
+ "b2807214": {
+  "state": "skipped",
+  "note": "General points (interest as the rental price of money, why money now is worth more, no return is guaranteed) already made in the course in the same words or via Fisher",
+  "date": "2026-11-17"
+ },
+ "8abfaef6": {
+  "state": "skipped",
+  "note": "Compounding frequency: differences are small at savers' rates, and the course works in annual figures throughout",
+  "date": "2026-11-17"
+ },
+ "2fe1486e": {
+  "state": "skipped",
+  "note": "Bond risk taxonomy (duration, call, liquidity, yield curve): beyond a beginner's course, which teaches the main bond risk, rates moving prices, in module 4",
+  "date": "2026-11-17"
+ }
+}

@@ -102,12 +102,13 @@
      "t": "check",
      "q": "You always feel the cold at night and are choosing between two bags with the same lower limit but different comfort ratings. Which rating should you plan from, and why?",
      "o": [
-      "It is always higher than the lower limit, so it is a safer planning figure for cold sleepers",
-      "It shows weight",
-      "It is not tested",
-      "It is the same as lower limit"
+      "Lower limit, since it is the warmer figure and so gives cold sleepers the safer margin",
+      "Comfort: it sits above the lower limit and suits cold sleepers",
+      "The number in the bag's name, since it is the maker's own figure",
+      "Extreme, since it shows the bag's real limit",
+      "Lower limit, since it is the tested figure for the whole night"
      ],
-     "a": 0,
+     "a": 1,
      "w": "The comfort rating describes a cold sleeper and sits above the lower limit. {{rei-bag}}",
      "kind": "application"
     },
@@ -115,10 +116,11 @@
      "t": "check",
      "q": "A shop sells a bag named 'Trek 5' and says it is good to 5 °C. What should you check before believing that?",
      "o": [
-      "Its lower limit is 5 °C",
-      "Its comfort is 5 °C",
-      "Nothing exact: read the tested rating",
-      "It is a four-season bag"
+      "Nothing: a number in the name is the comfort rating",
+      "Only the fill weight, since the name number already gives its tested comfort figure",
+      "The tested ratings: the name's number is rounded by the brand",
+      "Only whether it is a four-season bag",
+      "Nothing: a number in the name is the tested lower limit"
      ],
      "a": 2,
      "w": "The number in a name is rounded by the brand. {{rei-bag}}",
@@ -232,24 +234,26 @@
      "t": "check",
      "q": "What R-value results from an R 1.8 pad plus an R 2.2 pad?",
      "o": [
+      "2.2 (the higher pad)",
       "2.0",
-      "3.0",
+      "0.4",
       "4.0",
-      "0.4"
+      "3.0"
      ],
-     "a": 2,
+     "a": 3,
      "w": "R-values add: 1.8 + 2.2 = 4.0. {{rei-pad}}"
     },
     {
      "t": "check",
      "q": "Why might a plush air mattress leave you cold?",
      "o": [
-      "It is too soft",
-      "It often lacks insulation, so the ground draws away your heat",
+      "It is too soft to sleep on",
+      "Air mattresses are always rated R 8 or more, so the cold must come from the bag",
       "It is too light",
-      "It leaks sound"
+      "It leaks sound",
+      "It often lacks insulation, so the ground draws your heat"
      ],
-     "a": 1,
+     "a": 4,
      "w": "REI notes that big air mattresses lack insulation. {{rei-beg}}"
     },
     {
@@ -360,12 +364,13 @@
      "t": "check",
      "q": "It is 8 °C but blowing hard on the ridge, and your friend says it is not that cold. What is the wind doing to your skin's warm boundary layer?",
      "o": [
-      "Thickens it",
-      "Strips it away so you feel colder",
+      "Strips it away, so you feel colder",
       "Warms it",
-      "Nothing"
+      "Thickens it",
+      "Nothing at above freezing",
+      "Nothing, since wind only matters below freezing point"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Wind removes the boundary layer and skin temperature drops. {{met-wc}}",
      "kind": "application"
     },
@@ -374,11 +379,12 @@
      "q": "A hill pitch is 600 m above the valley. Using the average lapse rate, how much cooler is it?",
      "o": [
       "1 °C",
+      "6 °C",
+      "0.4 °C (lapse rate is per km)",
       "2 °C",
-      "4 °C",
-      "6 °C"
+      "4 °C"
      ],
-     "a": 2,
+     "a": 4,
      "w": "600 ÷ 300 × 2 °C = 4 °C on average. {{met-mtn}}"
     },
     {
@@ -468,24 +474,26 @@
      "t": "check",
      "q": "Which action should you NOT take for someone with hypothermia?",
      "o": [
-      "Wrap them in a sleeping bag",
-      "Give them a warm non-alcoholic drink",
+      "Shelter them from wind and insulate them from the ground",
       "Rub their limbs briskly",
-      "Keep talking to them"
+      "Keep talking to them",
+      "Give a warm non-alcoholic drink",
+      "Wrap them in a sleeping bag"
      ],
-     "a": 2,
+     "a": 1,
      "w": "The NHS says not to rub arms, legs, feet or hands. {{nhs-hypo}}"
     },
     {
      "t": "check",
      "q": "A friend climbs into their bag wearing a thick down jacket and fleece trousers and still feels cold. What might be going wrong?",
      "o": [
-      "It is heavy",
-      "It can reduce the bag's ability to trap heat",
-      "It makes noise",
-      "It causes condensation"
+      "Nothing: more layers always mean more warmth, so the bag must be faulty",
+      "The layers make noise",
+      "Bulky clothing can stop the bag trapping heat well",
+      "The extra weight compresses the pad",
+      "The clothes cause condensation"
      ],
-     "a": 1,
+     "a": 2,
      "w": "REI says bulky clothing can reduce efficient heat trapping. {{rei-sleep}}",
      "kind": "application"
     },
@@ -610,35 +618,38 @@
      "q": "Why did Nansen reject the thick wolfskin dress for walking?",
      "o": [
       "It was too light",
-      "He sweated in it even at -41 °C",
+      "It froze stiff at -41 °C and could not be bent",
       "It had no hood",
+      "He sweated in it even at -41 °C",
       "It was too short"
      ],
-     "a": 1,
+     "a": 3,
      "w": "He sweated in it at -37.6 and -41 degrees. {{nansen-fn}}"
     },
     {
      "t": "check",
      "q": "Why did he give up the floored silk tent?",
      "o": [
+      "Snow carried in melted, and the floor soaked it up",
       "It was too cold",
-      "Snow carried in melted and the floor absorbed the water",
+      "It was too small",
       "It had too many pegs",
-      "It was too small"
+      "It blew down in the first big storm out on the ice cap"
      ],
-     "a": 1,
+     "a": 0,
      "w": "Melted snow soaked the floor and made the tent heavier. {{nansen-fn}}"
     },
     {
      "t": "check",
      "q": "What did he find about a double bag?",
      "o": [
-      "Warmer and lighter than two singles",
       "Colder than two singles",
-      "Heavier and no warmer",
-      "Impossible to use"
+      "Impossible to use",
+      "Warmer than two singles but much heavier",
+      "Warmer and lighter than two singles",
+      "Heavier and no warmer"
      ],
-     "a": 0,
+     "a": 3,
      "w": "A double bag kept occupants warmer and was lighter than two singles. {{nansen-fn}}"
     },
     {
