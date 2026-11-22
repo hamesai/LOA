@@ -369,6 +369,10 @@
      ]
     },
     {
+     "t": "activity",
+     "x": "Run the compounding formula for £1,000 at three yearly rates you choose, over 10, 20 and 30 years. Put the nine results in a table, then write which changes the outcome more here, the rate or the time, and by how much."
+    },
+    {
      "t": "check",
      "q": "At a steady 5% a year, roughly how long does money take to double?",
      "o": [
@@ -579,6 +583,10 @@
        "A charge for holding your investments in an account, either flat or a percentage."
       ]
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Find the ongoing charge on one real fund's key facts document. Work out its cost in pounds on £10,000 over one year, then the drag over 20 years if the fund grows at a steady 5% before charges. Write down the page address and today's date."
     },
     {
      "t": "check",

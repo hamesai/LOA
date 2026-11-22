@@ -296,6 +296,10 @@
      "src": "{{gha3-alm}} {{gha4-almohad}}"
     },
     {
+     "t": "activity",
+     "x": "Take one hostile or sweeping sentence about the Almoravids and Ghana, as in the worked example. Rewrite it as a claim with a named source and a stated confidence."
+    },
+    {
      "t": "check",
      "q": "A travel guide says 'the Almohads founded Marrakesh in 1062'. What two things are wrong?",
      "o": [
@@ -488,6 +492,10 @@
      "x": "Caravans were not an Arab monopoly. Mande merchants called Wangara or Dyula, Berber and Ibadite traders, and North African families such as the al-Makkari brothers of Tlemcen, with partners at Sijilmasa and in the Sudan, all ran parts of the network. {{gha4-trade}} {{gha3-lewicki}}"
     },
     {
+     "t": "activity",
+     "x": "Using the salt-load arithmetic as a model, work out what a load would be worth at two other prices you invent. Label the figures illustrative and write what the working shows about trade profit."
+    },
+    {
      "t": "check",
      "q": "A caravan leaves Walata for Sijilmasa. Which load fits the evidence for the trade?",
      "o": [
@@ -605,6 +613,10 @@
       ]
      ],
      "src": "{{gha1-djait}}"
+    },
+    {
+     "t": "activity",
+     "x": "List three sources for the scholars of Timbuktu. For each one, write who wrote it, for whom and what it is best used for."
     },
     {
      "t": "check",

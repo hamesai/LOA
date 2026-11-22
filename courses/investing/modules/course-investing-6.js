@@ -165,6 +165,10 @@
      ]
     },
     {
+     "t": "activity",
+     "x": "Apply the investment-or-speculation test to five products you have seen advertised. Mark each one, then write the largest share of an invented £10,000 you would put into the speculative ones, and why."
+    },
+    {
      "t": "check",
      "q": "Under Graham's distinction, what makes an operation an investment?",
      "o": [
@@ -562,6 +566,10 @@
        "The FCA's list of firms and individuals running scams or operating without authorisation."
       ]
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Take a message or advert you have seen that promises a return. Run the promised-return arithmetic on it, then check it against the warning signs and the checks listed above. Write whether you would respond, and what you would do first."
     },
     {
      "t": "check",

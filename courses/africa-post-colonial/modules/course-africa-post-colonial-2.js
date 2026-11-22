@@ -120,6 +120,10 @@
      ]
     },
     {
+     "t": "activity",
+     "x": "Reread the worked example on the official history. Write three things an official history of Maji Maji would leave out, and name two other kinds of source a historian would want to set beside it."
+    },
+    {
      "t": "check",
      "q": "A summary says Maji Maji was a religious uprising sparked by magic water. Which fuller set of causes should it give?",
      "o": [
@@ -264,6 +268,10 @@
     {
      "t": "p",
      "x": "Some historians (Jurgen Zimmerer, Isabel Hull) link German colonial warfare to later German policy. Others, for instance Birthe Kundrus, caution against a direct line to the Holocaust [CONTESTED]. {{kundrus-2005}} {{freiburg-2008}}"
+    },
+    {
+     "t": "activity",
+     "x": "Make a two-column table of the figures given for the Herero and Nama war. For each figure write who counted, when, and what the count includes or leaves out."
     },
     {
      "t": "check",
@@ -441,6 +449,10 @@
     {
      "t": "p",
      "x": "After independence over 2,000 fighters came out of the forest under an amnesty that ran to 01/1964, and Kenyatta's government did not honour them. {{tjrc-kenya}}"
+    },
+    {
+     "t": "activity",
+     "x": "Choose one group in the Mau Mau conflict: fighters, loyalists or civilians. Write what a colonial government archive would tell you about them, what it would not, and where else you would look."
     },
     {
      "t": "check",

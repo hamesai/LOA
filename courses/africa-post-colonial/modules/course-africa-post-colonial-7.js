@@ -303,6 +303,10 @@
      "src": "{{hrw-rwanda}}"
     },
     {
+     "t": "activity",
+     "x": "Work out the toll of the 1994 genocide under two different baselines, as in the worked example. Write which baseline the sources support and what each choice changes."
+    },
+    {
      "t": "check",
      "q": "A report quotes Rwanda's official count of 1,074,017 Tutsi victims. Why do scholars not credit that figure?",
      "o": [
@@ -426,6 +430,10 @@
       "The usual tool in practice is suspension of states after coups, and money and member-state reluctance restrict action.",
       "Say: the principle changed more than the practice did [CONTESTED]."
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Pick one court or institution named in the lesson. Write what it was set up to do and one criticism a critic would make of how it worked, then say what evidence would test that criticism."
     },
     {
      "t": "check",
@@ -622,6 +630,10 @@
       "It did move: on 14/11/2026 the commission set polling for 11/02/2027 instead. {{ap-southsudan-nov2026}}",
       "Label each present-tense sentence with its date and [check current]."
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Find a recent news claim about Sudan, South Sudan or the Sahel. Run the checks from the worked example on it and record the source, its date and the date you checked."
     },
     {
      "t": "check",

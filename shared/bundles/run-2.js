@@ -1373,6 +1373,10 @@ try {
      ]
     },
     {
+     "t": "activity",
+     "x": "List ten products you have heard of, such as a savings account, a share fund or a rental property. Sort each into one of the four asset classes and mark it as a direct holding or a pooled fund. Circle any you cannot place, and write what information would settle it."
+    },
+    {
      "t": "check",
      "q": "Which of these is the best description of investing?",
      "o": [
@@ -1724,6 +1728,10 @@ try {
     {
      "t": "p",
      "x": "Your own inflation rate depends on what you buy. In the US from 1980 to 2020 the consumer price index rose 2.90% a year on average, while tuition rose 6.49% and rent 3.67%. {{os-ch12}} Our inference: if most of your spending is rent, the official rate may understate your own."
+    },
+    {
+     "t": "activity",
+     "x": "Pick a savings figure (use an invented £2,000 if you prefer) and an interest rate and inflation rate you could defend. Work out the nominal and the real value after 10 years with the exact real-return formula, and write one sentence on what the gap means for money you may need."
     },
     {
      "t": "check",
@@ -2740,6 +2748,10 @@ try {
      ]
     },
     {
+     "t": "activity",
+     "x": "Run the compounding formula for £1,000 at three yearly rates you choose, over 10, 20 and 30 years. Put the nine results in a table, then write which changes the outcome more here, the rate or the time, and by how much."
+    },
+    {
      "t": "check",
      "q": "At a steady 5% a year, roughly how long does money take to double?",
      "o": [
@@ -2950,6 +2962,10 @@ try {
        "A charge for holding your investments in an account, either flat or a percentage."
       ]
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Find the ongoing charge on one real fund's key facts document. Work out its cost in pounds on £10,000 over one year, then the drag over 20 years if the fund grows at a steady 5% before charges. Write down the page address and today's date."
     },
     {
      "t": "check",
@@ -3932,6 +3948,10 @@ try {
      ]
     },
     {
+     "t": "activity",
+     "x": "Choose four falls between 10% and 60%. For each, work out the gain needed to get back to the starting value and put the four pairs in a table. Write what the table shows about deeper falls."
+    },
+    {
      "t": "check",
      "q": "A £10,000 portfolio falls 50%, then rises 50%. Where is it now?",
      "o": [
@@ -4358,6 +4378,10 @@ try {
        "How much loss you can afford, as opposed to how much you can tolerate emotionally."
       ]
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Write your own three scenarios for an invented pot: a bad year, a severe year and a long flat spell. Answer the three questions from the lesson for each one, and write the one change to the plan you would make."
     },
     {
      "t": "check",
@@ -4921,6 +4945,10 @@ try {
      "x": "A worked example shows why. Delta Air Lines alone had a standard deviation of 51.90%. Paired half-and-half with another airline (correlation 0.87) the pair's figure only fell to 49.11%; paired with ExxonMobil (correlation 0.35) it fell to 30.43%. {{os-ch15}}"
     },
     {
+     "t": "activity",
+     "x": "Invent two holdings with different yearly results over four years. Work out the average for each, then the result of a 50/50 mix in every year. Write whether the mix moved more or less than either holding, and why."
+    },
+    {
      "t": "check",
      "q": "You hold one airline share and want to reduce risk by adding a second holding. Which choice should cut the swings more?",
      "o": [
@@ -5417,6 +5445,10 @@ try {
        "Moving money so the mix returns to its target."
       ]
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Take an invented £10,000 held 60/30/10 across three holdings. Let one rise 20% and another fall 5% in a year, with the third unchanged. Work out the new weights and write the trades that would restore the plan."
     },
     {
      "t": "check",
@@ -6115,6 +6147,10 @@ try {
      ]
     },
     {
+     "t": "activity",
+     "x": "Write three reasons, in your own words, why a fund that beat its index for three years might not do so over the next three. Use the hurdle idea from the worked example, and say which reason you find most convincing."
+    },
+    {
      "t": "check",
      "q": "Why does SPIVA count funds that closed during the period?",
      "o": [
@@ -6306,6 +6342,10 @@ try {
        "The amount of gains you can make in a tax year before Capital Gains Tax applies."
       ]
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Take an invented £15,000 of savings and the current allowance figures given above (check them on GOV.UK first). Put the money in the order you would use the wrappers and the allowance, and explain each step in one sentence."
     },
     {
      "t": "check",
@@ -6990,6 +7030,10 @@ try {
      ]
     },
     {
+     "t": "activity",
+     "x": "Apply the investment-or-speculation test to five products you have seen advertised. Mark each one, then write the largest share of an invented £10,000 you would put into the speculative ones, and why."
+    },
+    {
      "t": "check",
      "q": "Under Graham's distinction, what makes an operation an investment?",
      "o": [
@@ -7387,6 +7431,10 @@ try {
        "The FCA's list of firms and individuals running scams or operating without authorisation."
       ]
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Take a message or advert you have seen that promises a return. Run the promised-return arithmetic on it, then check it against the warning signs and the checks listed above. Write whether you would respond, and what you would do first."
     },
     {
      "t": "check",
@@ -12614,6 +12662,10 @@ try {
      "x": "Beware the 'psychosis of precision'. Why say Koumbi Saleh fell in 1086 rather than at the end of the eleventh century? Eclipses and external events give fixed points; a bare year from a reign count does not. {{gha1-intro}} [TRADITIONAL DATE]"
     },
     {
+     "t": "activity",
+     "x": "Take one claim about African history from a textbook or website. Tag each source behind it with the evidence tags above, and write whether the claim has the two independent sources a strong claim needs."
+    },
+    {
      "t": "check",
      "q": "Which pairing of evidence would make the strongest claim?",
      "o": [
@@ -12803,6 +12855,10 @@ try {
      "x": "A folk tale is not oral tradition in this sense. Woodson's 1928 school reader names no teller, date or collector, so a king named inside one of its tales is not evidence that the king existed. {{wood-tales}}"
     },
     {
+     "t": "activity",
+     "x": "Write three questions you would ask a storyteller before using an oral account as evidence, drawing on the three rules above. Add one question about who benefits from the version told."
+    },
+    {
      "t": "check",
      "q": "Two clans tell their origins. Clan A says it arrived first and founded the town; clan B admits it arrived later as clients of A. Which claim deserves more weight?",
      "o": [
@@ -12959,6 +13015,10 @@ try {
      "x": "Colonial records were made by foreigners and carry their view of themselves and of those they ruled, so even colonial history needs oral interviews. {{gha1-curtin}} [FIRM] The rule for every archive is the same: ask who made the record and for whom."
     },
     {
+     "t": "activity",
+     "x": "Choose one written source named in the lesson. Write who wrote it, where from, for whom and why, then list one thing it can prove and one thing it cannot."
+    },
+    {
      "t": "check",
      "q": "An essay quotes the Kano Chronicle as an eyewitness record of eleventh-century Kano. What is wrong?",
      "o": [
@@ -13106,6 +13166,10 @@ try {
     {
      "t": "p",
      "x": "Blood-group studies show more variation within so-called races than between them: over 85 per cent of variation lies within nations and about 7 per cent between traditional races. {{gha1-diagne}} [PROBABLE]"
+    },
+    {
+     "t": "activity",
+     "x": "Take the corrected radiocarbon date in the worked example and write it as a plain-English range with its uncertainty. Name one claim the range supports and one it does not."
     },
     {
      "t": "check",
@@ -14263,6 +14327,10 @@ try {
      "x": "Do not write that Kush was a copy of Egypt. It had its own script, gods, queens and burial forms. {{gha2-kush2}} And do not write that Aksum destroyed Meroë as a fact: Ezana's campaign against the Noba is attested, and Meroë had probably already collapsed. {{gha2-kush1}}"
     },
     {
+     "t": "activity",
+     "x": "Build a timeline of Kush from Napata to Meroë using only the dates in the lesson. Mark each date as secure or approximate, and write which statements about Kush depend on the approximate ones."
+    },
+    {
      "t": "check",
      "q": "A documentary says 'we can read Meroitic, so Kush speaks for itself'. What is the correction?",
      "o": [
@@ -14409,6 +14477,10 @@ try {
     {
      "t": "p",
      "x": "An environmental account adds longer rains, then deforestation, erosion and falling rain from about AD 750; the elite moved south by about AD 800. {{rd-axum}} [CONTESTED]"
+    },
+    {
+     "t": "activity",
+     "x": "Reread the king's own words in the worked example. Write what the inscription tells us, what the king wanted readers to believe, and how the two differ."
     },
     {
      "t": "check",
@@ -14714,6 +14786,10 @@ try {
     {
      "t": "p",
      "x": "In the south-west, states such as Inariya, Kaffa and Wolayta replaced equality with ranks and ceremonial courts, and kept some Christian practices, such as sacred groves and a seven-day week, after the Oromo cut them off from the abuna. Much of this rests on oral tradition collected by one researcher, Haberland. {{gha5-horn}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "activity",
+     "x": "Write a one-paragraph account of Ahmad Gran's war as each of the three sources in the lesson would tell it. Note the points where the three accounts disagree."
     },
     {
      "t": "check",
@@ -15280,6 +15356,10 @@ try {
      "src": "{{gha3-alm}} {{gha4-almohad}}"
     },
     {
+     "t": "activity",
+     "x": "Take one hostile or sweeping sentence about the Almoravids and Ghana, as in the worked example. Rewrite it as a claim with a named source and a stated confidence."
+    },
+    {
      "t": "check",
      "q": "A travel guide says 'the Almohads founded Marrakesh in 1062'. What two things are wrong?",
      "o": [
@@ -15472,6 +15552,10 @@ try {
      "x": "Caravans were not an Arab monopoly. Mande merchants called Wangara or Dyula, Berber and Ibadite traders, and North African families such as the al-Makkari brothers of Tlemcen, with partners at Sijilmasa and in the Sudan, all ran parts of the network. {{gha4-trade}} {{gha3-lewicki}}"
     },
     {
+     "t": "activity",
+     "x": "Using the salt-load arithmetic as a model, work out what a load would be worth at two other prices you invent. Label the figures illustrative and write what the working shows about trade profit."
+    },
+    {
      "t": "check",
      "q": "A caravan leaves Walata for Sijilmasa. Which load fits the evidence for the trade?",
      "o": [
@@ -15589,6 +15673,10 @@ try {
       ]
      ],
      "src": "{{gha1-djait}}"
+    },
+    {
+     "t": "activity",
+     "x": "List three sources for the scholars of Timbuktu. For each one, write who wrote it, for whom and what it is best used for."
     },
     {
      "t": "check",
@@ -16103,6 +16191,10 @@ try {
      "x": "Even on a firm 1076, the fall passed almost unnoticed and the gold trade went on, probably growing, through Takrur, Manding and Gao. {{gha4-intro}} [CONTESTED]"
     },
     {
+     "t": "activity",
+     "x": "Sort every claim in the lesson about Ghana into three groups: what the ground shows, what travellers heard and what later tradition says. Write which group carries most of the weight."
+    },
+    {
      "t": "check",
      "q": "Al-Bakri describes Ghana's court in rich detail in 1068. Before you quote him as if he saw it, what must you note?",
      "o": [
@@ -16272,6 +16364,10 @@ try {
      "x": "In the Gambia horse trade, one horse bought eight slaves at first and then fifteen. {{gha4-decl}} That rate links Mali's decline to the Atlantic trade in Module 8."
     },
     {
+     "t": "activity",
+     "x": "Choose one number from the lesson on Mali. Give it a trust rating from 1 to 5 with a reason, and write what evidence would raise or lower the rating."
+    },
+    {
      "t": "check",
      "q": "A documentary says '60,000 people travelled with Mansa Musa, according to Cairo eyewitnesses'. What is wrong?",
      "o": [
@@ -16435,6 +16531,10 @@ try {
      "t": "callout",
      "k": "warn",
      "x": "Do not call the period after 1591 a cultural decline. The Timbuktu ta'rikhs were all written between the seventeenth and nineteenth centuries, and marabout groups spread a more militant Islam that fed the later jihads. What did not recover was the Sahel's gold export. {{gha5-songend}} [PROBABLE]"
+    },
+    {
+     "t": "activity",
+     "x": "Use the manuscript-estimate arithmetic as a model on another figure from the lesson. Show your working and write what the result can and cannot tell us."
     },
     {
      "t": "check",
@@ -16941,6 +17041,10 @@ try {
     {
      "t": "p",
      "x": "The Sanusiyya brotherhood (founded in the 1840s) settled disputes, guaranteed safety on the Benghazi-Wadai route and by the late 19th century governed the Cyrenaican interior. {{gha6-baier}}"
+    },
+    {
+     "t": "activity",
+     "x": "Make a chronology of the jihad from only the dates in the lesson. Work out the years between each pair of events and write which interval surprises you."
     },
     {
      "t": "check",
@@ -17468,6 +17572,10 @@ try {
      ]
     },
     {
+     "t": "activity",
+     "x": "Write a three-sentence museum caption for an object from Igbo-Ukwu or Ife. The caption should not repeat the Frobenius claim and should say what the evidence supports."
+    },
+    {
      "t": "check",
      "q": "A 1910 writer says the Ife heads are too fine to be African and must come from a lost Atlantis. How should you treat the claim?",
      "o": [
@@ -17759,6 +17867,10 @@ try {
      "x": "Wars with Britain include 1824, when Asante defeated and killed Governor MacCarthy, and 1873 to 74, when the British took Kumasi. {{brit-asante}} {{countrystudies-ghana}} {{blackpast-anglo}} The Fante kept their independence by diplomacy and British support. {{gha5-lower}}"
     },
     {
+     "t": "activity",
+     "x": "Take the founding myth in the worked example. Write two claims the myth makes and, for each, the kind of evidence that would test it."
+    },
+    {
      "t": "check",
      "q": "A family tradition places its founding ancestor 'far back in the mists of time'. A Dutch document names him in 1690. What does the Ano Asena case teach?",
      "o": [
@@ -17938,6 +18050,10 @@ try {
     {
      "t": "p",
      "x": "Johnson wrote from the traditions of Oyo's hereditary court historians, and calls Oduduwa 'really a mythical personage'. {{johnson}} His history shaped later written Yoruba dynastic lists, so those lists are not independent of it. {{gha1-vansina}}"
+    },
+    {
+     "t": "activity",
+     "x": "Fill in a comparison table for Oyo and Dahomey with rows for who checked the ruler, how the army worked, what trade mattered and which sources we rely on."
     },
     {
      "t": "check",
@@ -18459,6 +18575,10 @@ try {
      "x": "Enslavement on the coast before the 12th century is poorly documented: Arab writers list ivory, ambergris, tortoiseshell and iron as the main exports, not slaves. Do not infer a large coastal slave trade before the 12th century. {{gha3-masao}}"
     },
     {
+     "t": "activity",
+     "x": "Write the two sides of the Swahili origins debate in a short table. List the evidence each side relies on and write which side you find better supported, using the weighing in the worked example."
+    },
+    {
      "t": "check",
      "q": "A coastal family's chronicle traces its line to a prince from Shiraz. How should you use it?",
      "o": [
@@ -18626,6 +18746,10 @@ try {
       "A siege of two and a half years ending in December 1698 began in about mid-1696.",
       "So the Portuguese held the coast for nearly two centuries, but not peacefully and not permanently."
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Choose two events on the Kilwa timeline and work out the years between them, showing the arithmetic. Write what the gap suggests about how much a ruler could achieve in a lifetime."
     },
     {
      "t": "check",
@@ -18890,6 +19014,10 @@ try {
      "x": "Great Lakes king lists were tidied into father-to-son lines, which lengthens dynasties, and Kagwa's history of Buganda shaped later Ganda lists. {{gha1-vansina}} Solar eclipses probably of 1520 and 1792 give the few fixed points. {{gha5-lakes}}"
     },
     {
+     "t": "activity",
+     "x": "Reread the passage from Speke. List three assumptions he makes and the evidence in the lesson that contradicts them."
+    },
+    {
      "t": "check",
      "q": "An old guide says the Lakes kingdoms were founded by tall northern pastoralists who brought kingship. How should you answer it?",
      "o": [
@@ -19029,6 +19157,10 @@ try {
     {
      "t": "p",
      "x": "Over half a million contemporary pages survive for the region from 1500 to 1800, more than for any other area of that size in Africa. {{gha5-kongo}} Much of it is missionary and Portuguese, so the Kongo voice comes through letters such as Afonso's."
+    },
+    {
+     "t": "activity",
+     "x": "Write a 100-word summary of Afonso's 1526 letter: who wrote it, to whom, about what and what it shows. Then name one thing the letter cannot tell us."
     },
     {
      "t": "check",
@@ -19728,6 +19860,10 @@ try {
      "x": "Social inequality shows elsewhere too: at Ingombe Ilede in Zambia, eleven rich burials of about 1400, with gold, copper wire tools and imported beads, lie beside 31 poor burials. {{gha4-zimb}} [THIN EVIDENCE]"
     },
     {
+     "t": "activity",
+     "x": "Write three sentences on who built Great Zimbabwe, using only the evidence the lesson gives. Then name the myth the evidence answers."
+    },
+    {
      "t": "check",
      "q": "A label says Great Zimbabwe was 'built in 1450 by a gold-trading king'. What is wrong?",
      "o": [
@@ -19891,6 +20027,10 @@ try {
       "Mapungubwe's decline c. 1300 and Great Zimbabwe's rise overlap, which fits a shift of trade power. Great Zimbabwe's decline after about 1450 overlaps with Mutapa's and Torwa's rise.",
       "But direct descent of one state from another is [CONTESTED]: archaeologists describe linked traditions, and one study argues for many centres at once. {{springer-khami}} {{chirikure}}"
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Take the sequence of Zambezi states tested in the worked example. Mark which dates are firm and which are approximate, and write what the sequence can claim."
     },
     {
      "t": "check",
@@ -20106,6 +20246,10 @@ try {
      ]
     },
     {
+     "t": "activity",
+     "x": "Use the Anglo-Zulu War arithmetic as a model on one other figure from the lesson. Show your working and say what it tells us about the sources."
+    },
+    {
      "t": "check",
      "q": "A website says Shaka invented the regiment system. What is the better claim?",
      "o": [
@@ -20253,6 +20397,10 @@ try {
      "t": "callout",
      "k": "warn",
      "x": "Do not repeat Shaka stories of cruelty and tactics from trader accounts as fact, and do not accept the empty-land story. {{gha1-hrbek}}"
+    },
+    {
+     "t": "activity",
+     "x": "List the four accounts of the causes of the mfecane in a table. For each, write the evidence it relies on and what evidence would shift your view."
     },
     {
      "t": "check",
@@ -20614,6 +20762,10 @@ try {
      "x": "The trade only boomed when sugar plantations spread. The Spanish Crown sold import licences (the asiento), which made contraband easy, and the Ham-curse and salvation arguments were used to justify the trade. {{gha5-malowist}}"
     },
     {
+     "t": "activity",
+     "x": "Make a three-column table of how the Atlantic trade began, covering gold, horses and the asiento. For each, give the actors, the goods and the dates the lesson names."
+    },
+    {
      "t": "check",
      "q": "A summary says Europeans came to West Africa for slaves from the start. What is the better account?",
      "o": [
@@ -20783,6 +20935,10 @@ try {
      "t": "callout",
      "k": "warn",
      "x": "Keep series apart. Embarked, landed and captured in Africa are three different numbers, and a period total from one study cannot be added to another's (our rule). Use Voyages as the base and the rest as comparison."
+    },
+    {
+     "t": "activity",
+     "x": "Use the estimates table in the worked example to work out one region's share of all embarkations. Show your arithmetic and write why this table should not be mixed with the older estimates."
     },
     {
      "t": "check",
@@ -21064,6 +21220,10 @@ try {
      ]
     },
     {
+     "t": "activity",
+     "x": "Write your own qualified conclusion on one long-run effect of the trade. Use the model answer as a template, with a claim, evidence, a counterclaim and a stated level of confidence."
+    },
+    {
      "t": "check",
      "q": "An essay says historians agree the Atlantic trade underdeveloped Africa. Which correction is best?",
      "o": [
@@ -21310,6 +21470,10 @@ try {
       "From the French invasion of Algeria in 1830 to the Berlin Conference of 1884 is 54 years.",
       "So the Atlantic trade continued for almost sixty years after British abolition, and colonisation had been under way for over half a century before Berlin. {{sv-est}} {{loc-algeria}}"
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Choose three dates the lesson gives for abolition. Work out the years between them, then write which date best supports the claim that abolition came in stages."
     },
     {
      "t": "check",
@@ -23886,6 +24050,10 @@ try {
      "x": "He divides the period into sovereignty defence (1880 to 1919), accommodation and protest (1919 to 1935), and the Italian invasion of Ethiopia in 1935 as the break. {{gha-vii-ch01}}"
     },
     {
+     "t": "activity",
+     "x": "Draw a one-page timeline of 1880 to 1914 with at least eight dated events from the lesson. Mark which events the historians treat as the start of the Scramble, and write how the choice changes the story you tell."
+    },
+    {
      "t": "check",
      "q": "A textbook caption reads: 'At Berlin in 1884 to 1885 Europe drew the map of modern Africa.' Which sentence should replace it?",
      "o": [
@@ -24065,6 +24233,10 @@ try {
     {
      "t": "p",
      "x": "Central Africa saw more than twenty insurrections up to 1918, led by royal families and spirit mediums, among them Barue in 1917 and Chilembwe in 1915. {{gha-vii-ch08}}"
+    },
+    {
+     "t": "activity",
+     "x": "Choose one treaty from the lesson. List who signed it, who could read it and what each side later said it meant. Then rate the treaty as evidence using the evidence tags."
     },
     {
      "t": "check",
@@ -24410,6 +24582,10 @@ try {
      "t": "callout",
      "k": "note",
      "x": "Genocide or forced labour? Hochschild says the killing was of genocidal proportions but not strictly a genocide, because the aim was labour and not the elimination of a group. {{hs-toll}} A 2003 article by Weisbord argued the opposite. The question is [CONTESTED]. {{wiki-congo}}"
+    },
+    {
+     "t": "activity",
+     "x": "Write a two-paragraph source note on the Congo Free State death toll. Give the range, who produced each estimate and why the figures differ, then say which figure you would quote and with what warning."
     },
     {
      "t": "check",
@@ -24933,6 +25109,10 @@ try {
      ]
     },
     {
+     "t": "activity",
+     "x": "Reread the worked example on the official history. Write three things an official history of Maji Maji would leave out, and name two other kinds of source a historian would want to set beside it."
+    },
+    {
      "t": "check",
      "q": "A summary says Maji Maji was a religious uprising sparked by magic water. Which fuller set of causes should it give?",
      "o": [
@@ -25077,6 +25257,10 @@ try {
     {
      "t": "p",
      "x": "Some historians (Jurgen Zimmerer, Isabel Hull) link German colonial warfare to later German policy. Others, for instance Birthe Kundrus, caution against a direct line to the Holocaust [CONTESTED]. {{kundrus-2005}} {{freiburg-2008}}"
+    },
+    {
+     "t": "activity",
+     "x": "Make a two-column table of the figures given for the Herero and Nama war. For each figure write who counted, when, and what the count includes or leaves out."
     },
     {
      "t": "check",
@@ -25254,6 +25438,10 @@ try {
     {
      "t": "p",
      "x": "After independence over 2,000 fighters came out of the forest under an amnesty that ran to 01/1964, and Kenyatta's government did not honour them. {{tjrc-kenya}}"
+    },
+    {
+     "t": "activity",
+     "x": "Choose one group in the Mau Mau conflict: fighters, loyalists or civilians. Write what a colonial government archive would tell you about them, what it would not, and where else you would look."
     },
     {
      "t": "check",
@@ -25851,6 +26039,10 @@ try {
      ]
     },
     {
+     "t": "activity",
+     "x": "Using the dates in the lesson, work out the years between each Pan-African Congress named there. Write what pattern the gaps show and what could explain it."
+    },
+    {
      "t": "check",
      "q": "A poster says 'Pan-Africanism was born at the founding of the OAU in 1963.' Where did it actually begin?",
      "o": [
@@ -26132,6 +26324,10 @@ try {
      ]
     },
     {
+     "t": "activity",
+     "x": "Choose Negritude, the Manchester Congress of 1945 or Accra in 1958. Write a 100-word account of what it changed, then name the evidence that shows the change and rate that evidence."
+    },
+    {
      "t": "check",
      "q": "You are explaining why historians treat Manchester 1945 as a turning point. What made it different, and what is its limit?",
      "o": [
@@ -26280,6 +26476,10 @@ try {
       "A rule drafted to protect new states from outside meddling later protected abusive rulers from regional criticism (our reading).",
       "Forty years on, the African Union changed the principle, which Module 7 covers."
      ]
+    },
+    {
+     "t": "activity",
+     "x": "List the principles the lesson names in the OAU Charter. For each one, write one question a historian would ask to test whether it was followed in practice."
     },
     {
      "t": "check",
@@ -26964,6 +27164,10 @@ try {
      "src": "{{gha-viii-ch07}} {{gha-viii-ch15}}"
     },
     {
+     "t": "activity",
+     "x": "Write a short comparison of the British and French routes to independence in the lesson. Say who set the timetable in each case and what that meant for the new state."
+    },
+    {
      "t": "check",
      "q": "A student says French West Africa followed Ghana's path. What was distinctive about the French route?",
      "o": [
@@ -27103,6 +27307,10 @@ try {
     {
      "t": "p",
      "x": "Frantz Fanon's The Wretched of the Earth (1961) argued that violence was part of decolonisation. It is a polemic, an argument and not a record [CONTESTED]. {{brit-wretched}}"
+    },
+    {
+     "t": "activity",
+     "x": "Work out the length of the Algerian war from the start and end dates in the lesson, showing the arithmetic. Write one sentence saying which dates you chose and why."
     },
     {
      "t": "check",
@@ -27277,6 +27485,10 @@ try {
     {
      "t": "p",
      "x": "He kept the settler land system largely intact through purchase schemes, and many Mau Mau fighters got no land [CONTESTED]. {{tjrc-kenya}}"
+    },
+    {
+     "t": "activity",
+     "x": "Read the two independence-day speeches as the lesson teaches, for aims and not results. List the aims each speaker states, then write which speech is easier to judge and why."
     },
     {
      "t": "check",
@@ -27457,6 +27669,10 @@ try {
       ]
      ],
      "src": "{{lumumba}} {{arusha}} {{sankara-un}}"
+    },
+    {
+     "t": "activity",
+     "x": "Choose one leader named in the lesson. Judge the leader as a success or failure under each of the two definitions of failure in the worked example, and write which verdict you trust more."
     },
     {
      "t": "check",
@@ -27741,6 +27957,10 @@ try {
      "x": "The ANC Youth League formed in 1944 under Mandela, Tambo, Sisulu and Lembede, and about 60,000 African miners struck in 1946 and were crushed. {{w-black}} {{w-opp}}"
     },
     {
+     "t": "activity",
+     "x": "Make a table of the laws and land measures the lesson names from before 1948. For each, give the date, what it did and who it affected most."
+    },
+    {
      "t": "check",
      "q": "A student says apartheid's land policy began in 1948. Which earlier law undermines that, and what did it do?",
      "o": [
@@ -27938,6 +28158,10 @@ try {
       "Keep a two-column list so that you never describe a protest as if it were a statute.",
       "A strong answer names at least three laws and three events."
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Choose three of the apartheid laws in the lesson. For each, write what it controlled in daily life, who it affected and what contradiction inside the system it shows."
     },
     {
      "t": "check",
@@ -28140,6 +28364,10 @@ try {
      "x": "An early count of 23 killed, printed in one UNESCO chapter, is far below the later totals, so use that chapter for sequence and context, not for single figures. {{gha-viii-ch10}}"
     },
     {
+     "t": "activity",
+     "x": "Run the check from the worked example on a second official figure from the lesson. Write what the figure counts, who published it and what it would not show."
+    },
+    {
      "t": "check",
      "q": "A pamphlet gives Sharpeville as '69 dead'. What should you add?",
      "o": [
@@ -28320,6 +28548,10 @@ try {
     {
      "t": "p",
      "x": "The TRC is also a source with a perspective. Welsh notes that none of its 1998 commissioners came from National Party or IFP backgrounds, that de Klerk obtained a court order removing a finding about him, and thinks it underplayed the UDF's ungovernability campaign. {{w-pandora}} {{w-resist}} The report itself lists its own gaps, among them the 1990s violence. {{trc-vol5}}"
+    },
+    {
+     "t": "activity",
+     "x": "Write a timeline from 1976 to 1994 with at least ten dated entries from the lesson, and check every date against the text. Mark the entries a negotiator would have counted as turning points."
     },
     {
      "t": "check",
@@ -28740,6 +28972,10 @@ try {
      "x": "One author argues that French intelligence helped introduce the genocide theme to the public through a Geneva press service. Treat that as one contested claim. {{wiki-biafra}}"
     },
     {
+     "t": "activity",
+     "x": "Write down the range of death-toll figures given for the Biafran war. For each, give who produced it and why it differs, then say which you would quote and with what warning."
+    },
+    {
      "t": "check",
      "q": "You are asked for 'the' Biafran death toll. Which two reasons make any figure uncertain?",
      "o": [
@@ -28884,6 +29120,10 @@ try {
       ]
      ],
      "src": "{{brit-ethiopia}} {{hrw-evildays}} {{oup-ethiopia}}"
+    },
+    {
+     "t": "activity",
+     "x": "Repeat the width-of-range exercise on a second figure from the lesson on the Derg and the famine. Show the arithmetic and write what the width tells you about the evidence."
     },
     {
      "t": "check",
@@ -29043,6 +29283,10 @@ try {
      "t": "callout",
      "k": "note",
      "x": "Self-reliance was an older African idea. The Arusha Declaration of 1967 argues that foreign gifts, loans and investment endanger independence ('he who pays the piper calls the tune'), while saying Tanzania will not refuse outside money. {{arusha}}"
+    },
+    {
+     "t": "activity",
+     "x": "Summarise the three diagnoses of the economic crisis in a table: who wrote each, what it blamed and what it recommended. Write one point where all three readings meet."
     },
     {
      "t": "check",
@@ -29253,6 +29497,10 @@ try {
     {
      "t": "p",
      "x": "The end of the Cold War reduced support for authoritarian allies. From 1989 to 1991 many states held multiparty elections, for example after Benin's 1990 conference, and Mobutu's Zaire collapsed in 1997. {{robinson-1994}}"
+    },
+    {
+     "t": "activity",
+     "x": "Choose one claim about what held African economies back. Run the causal-claim test from the worked example on it, and write what other factors a careful historian would need to rule out."
     },
     {
      "t": "check",
@@ -29855,6 +30103,10 @@ try {
      "src": "{{hrw-rwanda}}"
     },
     {
+     "t": "activity",
+     "x": "Work out the toll of the 1994 genocide under two different baselines, as in the worked example. Write which baseline the sources support and what each choice changes."
+    },
+    {
      "t": "check",
      "q": "A report quotes Rwanda's official count of 1,074,017 Tutsi victims. Why do scholars not credit that figure?",
      "o": [
@@ -29978,6 +30230,10 @@ try {
       "The usual tool in practice is suspension of states after coups, and money and member-state reluctance restrict action.",
       "Say: the principle changed more than the practice did [CONTESTED]."
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Pick one court or institution named in the lesson. Write what it was set up to do and one criticism a critic would make of how it worked, then say what evidence would test that criticism."
     },
     {
      "t": "check",
@@ -30174,6 +30430,10 @@ try {
       "It did move: on 14/11/2026 the commission set polling for 11/02/2027 instead. {{ap-southsudan-nov2026}}",
       "Label each present-tense sentence with its date and [check current]."
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Find a recent news claim about Sudan, South Sudan or the Sahel. Run the checks from the worked example on it and record the source, its date and the date you checked."
     },
     {
      "t": "check",

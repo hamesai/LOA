@@ -385,6 +385,10 @@
      ]
     },
     {
+     "t": "activity",
+     "x": "Write three reasons, in your own words, why a fund that beat its index for three years might not do so over the next three. Use the hurdle idea from the worked example, and say which reason you find most convincing."
+    },
+    {
      "t": "check",
      "q": "Why does SPIVA count funds that closed during the period?",
      "o": [
@@ -576,6 +580,10 @@
        "The amount of gains you can make in a tax year before Capital Gains Tax applies."
       ]
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Take an invented £15,000 of savings and the current allowance figures given above (check them on GOV.UK first). Put the money in the order you would use the wrappers and the allowance, and explain each step in one sentence."
     },
     {
      "t": "check",

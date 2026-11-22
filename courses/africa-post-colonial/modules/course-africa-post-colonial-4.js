@@ -325,6 +325,10 @@
      "src": "{{gha-viii-ch07}} {{gha-viii-ch15}}"
     },
     {
+     "t": "activity",
+     "x": "Write a short comparison of the British and French routes to independence in the lesson. Say who set the timetable in each case and what that meant for the new state."
+    },
+    {
      "t": "check",
      "q": "A student says French West Africa followed Ghana's path. What was distinctive about the French route?",
      "o": [
@@ -464,6 +468,10 @@
     {
      "t": "p",
      "x": "Frantz Fanon's The Wretched of the Earth (1961) argued that violence was part of decolonisation. It is a polemic, an argument and not a record [CONTESTED]. {{brit-wretched}}"
+    },
+    {
+     "t": "activity",
+     "x": "Work out the length of the Algerian war from the start and end dates in the lesson, showing the arithmetic. Write one sentence saying which dates you chose and why."
     },
     {
      "t": "check",
@@ -638,6 +646,10 @@
     {
      "t": "p",
      "x": "He kept the settler land system largely intact through purchase schemes, and many Mau Mau fighters got no land [CONTESTED]. {{tjrc-kenya}}"
+    },
+    {
+     "t": "activity",
+     "x": "Read the two independence-day speeches as the lesson teaches, for aims and not results. List the aims each speaker states, then write which speech is easier to judge and why."
     },
     {
      "t": "check",
@@ -818,6 +830,10 @@
       ]
      ],
      "src": "{{lumumba}} {{arusha}} {{sankara-un}}"
+    },
+    {
+     "t": "activity",
+     "x": "Choose one leader named in the lesson. Judge the leader as a success or failure under each of the two definitions of failure in the worked example, and write which verdict you trust more."
     },
     {
      "t": "check",

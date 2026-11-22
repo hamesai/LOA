@@ -282,6 +282,10 @@
      "x": "Beware the 'psychosis of precision'. Why say Koumbi Saleh fell in 1086 rather than at the end of the eleventh century? Eclipses and external events give fixed points; a bare year from a reign count does not. {{gha1-intro}} [TRADITIONAL DATE]"
     },
     {
+     "t": "activity",
+     "x": "Take one claim about African history from a textbook or website. Tag each source behind it with the evidence tags above, and write whether the claim has the two independent sources a strong claim needs."
+    },
+    {
      "t": "check",
      "q": "Which pairing of evidence would make the strongest claim?",
      "o": [
@@ -471,6 +475,10 @@
      "x": "A folk tale is not oral tradition in this sense. Woodson's 1928 school reader names no teller, date or collector, so a king named inside one of its tales is not evidence that the king existed. {{wood-tales}}"
     },
     {
+     "t": "activity",
+     "x": "Write three questions you would ask a storyteller before using an oral account as evidence, drawing on the three rules above. Add one question about who benefits from the version told."
+    },
+    {
      "t": "check",
      "q": "Two clans tell their origins. Clan A says it arrived first and founded the town; clan B admits it arrived later as clients of A. Which claim deserves more weight?",
      "o": [
@@ -627,6 +635,10 @@
      "x": "Colonial records were made by foreigners and carry their view of themselves and of those they ruled, so even colonial history needs oral interviews. {{gha1-curtin}} [FIRM] The rule for every archive is the same: ask who made the record and for whom."
     },
     {
+     "t": "activity",
+     "x": "Choose one written source named in the lesson. Write who wrote it, where from, for whom and why, then list one thing it can prove and one thing it cannot."
+    },
+    {
      "t": "check",
      "q": "An essay quotes the Kano Chronicle as an eyewitness record of eleventh-century Kano. What is wrong?",
      "o": [
@@ -774,6 +786,10 @@
     {
      "t": "p",
      "x": "Blood-group studies show more variation within so-called races than between them: over 85 per cent of variation lies within nations and about 7 per cent between traditional races. {{gha1-diagne}} [PROBABLE]"
+    },
+    {
+     "t": "activity",
+     "x": "Take the corrected radiocarbon date in the worked example and write it as a plain-English range with its uncertainty. Name one claim the range supports and one it does not."
     },
     {
      "t": "check",

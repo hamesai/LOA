@@ -253,6 +253,10 @@
      "x": "A worked example shows why. Delta Air Lines alone had a standard deviation of 51.90%. Paired half-and-half with another airline (correlation 0.87) the pair's figure only fell to 49.11%; paired with ExxonMobil (correlation 0.35) it fell to 30.43%. {{os-ch15}}"
     },
     {
+     "t": "activity",
+     "x": "Invent two holdings with different yearly results over four years. Work out the average for each, then the result of a 50/50 mix in every year. Write whether the mix moved more or less than either holding, and why."
+    },
+    {
      "t": "check",
      "q": "You hold one airline share and want to reduce risk by adding a second holding. Which choice should cut the swings more?",
      "o": [
@@ -749,6 +753,10 @@
        "Moving money so the mix returns to its target."
       ]
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Take an invented £10,000 held 60/30/10 across three holdings. Let one rise 20% and another fall 5% in a year, with the third unchanged. Work out the new weights and write the trades that would restore the plan."
     },
     {
      "t": "check",

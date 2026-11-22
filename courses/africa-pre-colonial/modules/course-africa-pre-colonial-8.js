@@ -96,6 +96,10 @@
      "x": "The trade only boomed when sugar plantations spread. The Spanish Crown sold import licences (the asiento), which made contraband easy, and the Ham-curse and salvation arguments were used to justify the trade. {{gha5-malowist}}"
     },
     {
+     "t": "activity",
+     "x": "Make a three-column table of how the Atlantic trade began, covering gold, horses and the asiento. For each, give the actors, the goods and the dates the lesson names."
+    },
+    {
      "t": "check",
      "q": "A summary says Europeans came to West Africa for slaves from the start. What is the better account?",
      "o": [
@@ -265,6 +269,10 @@
      "t": "callout",
      "k": "warn",
      "x": "Keep series apart. Embarked, landed and captured in Africa are three different numbers, and a period total from one study cannot be added to another's (our rule). Use Voyages as the base and the rest as comparison."
+    },
+    {
+     "t": "activity",
+     "x": "Use the estimates table in the worked example to work out one region's share of all embarkations. Show your arithmetic and write why this table should not be mixed with the older estimates."
     },
     {
      "t": "check",
@@ -546,6 +554,10 @@
      ]
     },
     {
+     "t": "activity",
+     "x": "Write your own qualified conclusion on one long-run effect of the trade. Use the model answer as a template, with a claim, evidence, a counterclaim and a stated level of confidence."
+    },
+    {
      "t": "check",
      "q": "An essay says historians agree the Atlantic trade underdeveloped Africa. Which correction is best?",
      "o": [
@@ -792,6 +804,10 @@
       "From the French invasion of Algeria in 1830 to the Berlin Conference of 1884 is 54 years.",
       "So the Atlantic trade continued for almost sixty years after British abolition, and colonisation had been under way for over half a century before Berlin. {{sv-est}} {{loc-algeria}}"
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Choose three dates the lesson gives for abolition. Work out the years between them, then write which date best supports the claim that abolition came in stages."
     },
     {
      "t": "check",

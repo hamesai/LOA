@@ -207,6 +207,10 @@
      "x": "He divides the period into sovereignty defence (1880 to 1919), accommodation and protest (1919 to 1935), and the Italian invasion of Ethiopia in 1935 as the break. {{gha-vii-ch01}}"
     },
     {
+     "t": "activity",
+     "x": "Draw a one-page timeline of 1880 to 1914 with at least eight dated events from the lesson. Mark which events the historians treat as the start of the Scramble, and write how the choice changes the story you tell."
+    },
+    {
      "t": "check",
      "q": "A textbook caption reads: 'At Berlin in 1884 to 1885 Europe drew the map of modern Africa.' Which sentence should replace it?",
      "o": [
@@ -386,6 +390,10 @@
     {
      "t": "p",
      "x": "Central Africa saw more than twenty insurrections up to 1918, led by royal families and spirit mediums, among them Barue in 1917 and Chilembwe in 1915. {{gha-vii-ch08}}"
+    },
+    {
+     "t": "activity",
+     "x": "Choose one treaty from the lesson. List who signed it, who could read it and what each side later said it meant. Then rate the treaty as evidence using the evidence tags."
     },
     {
      "t": "check",
@@ -731,6 +739,10 @@
      "t": "callout",
      "k": "note",
      "x": "Genocide or forced labour? Hochschild says the killing was of genocidal proportions but not strictly a genocide, because the aim was labour and not the elimination of a group. {{hs-toll}} A 2003 article by Weisbord argued the opposite. The question is [CONTESTED]. {{wiki-congo}}"
+    },
+    {
+     "t": "activity",
+     "x": "Write a two-paragraph source note on the Congo Free State death toll. Give the range, who produced each estimate and why the figures differ, then say which figure you would quote and with what warning."
     },
     {
      "t": "check",

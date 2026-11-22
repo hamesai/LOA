@@ -456,6 +456,10 @@
      ]
     },
     {
+     "t": "activity",
+     "x": "Choose four falls between 10% and 60%. For each, work out the gain needed to get back to the starting value and put the four pairs in a table. Write what the table shows about deeper falls."
+    },
+    {
      "t": "check",
      "q": "A £10,000 portfolio falls 50%, then rises 50%. Where is it now?",
      "o": [
@@ -882,6 +886,10 @@
        "How much loss you can afford, as opposed to how much you can tolerate emotionally."
       ]
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Write your own three scenarios for an invented pot: a bad year, a severe year and a long flat spell. Answer the three questions from the lesson for each one, and write the one change to the plan you would make."
     },
     {
      "t": "check",

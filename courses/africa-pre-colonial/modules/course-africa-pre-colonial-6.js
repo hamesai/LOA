@@ -120,6 +120,10 @@
      "x": "Enslavement on the coast before the 12th century is poorly documented: Arab writers list ivory, ambergris, tortoiseshell and iron as the main exports, not slaves. Do not infer a large coastal slave trade before the 12th century. {{gha3-masao}}"
     },
     {
+     "t": "activity",
+     "x": "Write the two sides of the Swahili origins debate in a short table. List the evidence each side relies on and write which side you find better supported, using the weighing in the worked example."
+    },
+    {
      "t": "check",
      "q": "A coastal family's chronicle traces its line to a prince from Shiraz. How should you use it?",
      "o": [
@@ -287,6 +291,10 @@
       "A siege of two and a half years ending in December 1698 began in about mid-1696.",
       "So the Portuguese held the coast for nearly two centuries, but not peacefully and not permanently."
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Choose two events on the Kilwa timeline and work out the years between them, showing the arithmetic. Write what the gap suggests about how much a ruler could achieve in a lifetime."
     },
     {
      "t": "check",
@@ -551,6 +559,10 @@
      "x": "Great Lakes king lists were tidied into father-to-son lines, which lengthens dynasties, and Kagwa's history of Buganda shaped later Ganda lists. {{gha1-vansina}} Solar eclipses probably of 1520 and 1792 give the few fixed points. {{gha5-lakes}}"
     },
     {
+     "t": "activity",
+     "x": "Reread the passage from Speke. List three assumptions he makes and the evidence in the lesson that contradicts them."
+    },
+    {
      "t": "check",
      "q": "An old guide says the Lakes kingdoms were founded by tall northern pastoralists who brought kingship. How should you answer it?",
      "o": [
@@ -690,6 +702,10 @@
     {
      "t": "p",
      "x": "Over half a million contemporary pages survive for the region from 1500 to 1800, more than for any other area of that size in Africa. {{gha5-kongo}} Much of it is missionary and Portuguese, so the Kongo voice comes through letters such as Afonso's."
+    },
+    {
+     "t": "activity",
+     "x": "Write a 100-word summary of Afonso's 1526 letter: who wrote it, to whom, about what and what it shows. Then name one thing the letter cannot tell us."
     },
     {
      "t": "check",

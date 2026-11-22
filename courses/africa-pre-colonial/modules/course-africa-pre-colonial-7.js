@@ -247,6 +247,10 @@
      "x": "Social inequality shows elsewhere too: at Ingombe Ilede in Zambia, eleven rich burials of about 1400, with gold, copper wire tools and imported beads, lie beside 31 poor burials. {{gha4-zimb}} [THIN EVIDENCE]"
     },
     {
+     "t": "activity",
+     "x": "Write three sentences on who built Great Zimbabwe, using only the evidence the lesson gives. Then name the myth the evidence answers."
+    },
+    {
      "t": "check",
      "q": "A label says Great Zimbabwe was 'built in 1450 by a gold-trading king'. What is wrong?",
      "o": [
@@ -410,6 +414,10 @@
       "Mapungubwe's decline c. 1300 and Great Zimbabwe's rise overlap, which fits a shift of trade power. Great Zimbabwe's decline after about 1450 overlaps with Mutapa's and Torwa's rise.",
       "But direct descent of one state from another is [CONTESTED]: archaeologists describe linked traditions, and one study argues for many centres at once. {{springer-khami}} {{chirikure}}"
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Take the sequence of Zambezi states tested in the worked example. Mark which dates are firm and which are approximate, and write what the sequence can claim."
     },
     {
      "t": "check",
@@ -625,6 +633,10 @@
      ]
     },
     {
+     "t": "activity",
+     "x": "Use the Anglo-Zulu War arithmetic as a model on one other figure from the lesson. Show your working and say what it tells us about the sources."
+    },
+    {
      "t": "check",
      "q": "A website says Shaka invented the regiment system. What is the better claim?",
      "o": [
@@ -772,6 +784,10 @@
      "t": "callout",
      "k": "warn",
      "x": "Do not repeat Shaka stories of cruelty and tactics from trader accounts as fact, and do not accept the empty-land story. {{gha1-hrbek}}"
+    },
+    {
+     "t": "activity",
+     "x": "List the four accounts of the causes of the mfecane in a table. For each, write the evidence it relies on and what evidence would shift your view."
     },
     {
      "t": "check",

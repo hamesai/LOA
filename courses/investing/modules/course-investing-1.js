@@ -195,6 +195,10 @@
      ]
     },
     {
+     "t": "activity",
+     "x": "List ten products you have heard of, such as a savings account, a share fund or a rental property. Sort each into one of the four asset classes and mark it as a direct holding or a pooled fund. Circle any you cannot place, and write what information would settle it."
+    },
+    {
      "t": "check",
      "q": "Which of these is the best description of investing?",
      "o": [
@@ -546,6 +550,10 @@
     {
      "t": "p",
      "x": "Your own inflation rate depends on what you buy. In the US from 1980 to 2020 the consumer price index rose 2.90% a year on average, while tuition rose 6.49% and rent 3.67%. {{os-ch12}} Our inference: if most of your spending is rent, the official rate may understate your own."
+    },
+    {
+     "t": "activity",
+     "x": "Pick a savings figure (use an invented £2,000 if you prefer) and an interest rate and inflation rate you could defend. Work out the nominal and the real value after 10 years with the exact real-return formula, and write one sentence on what the gap means for money you may need."
     },
     {
      "t": "check",

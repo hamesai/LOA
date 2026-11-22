@@ -382,6 +382,10 @@
      "x": "Do not write that Kush was a copy of Egypt. It had its own script, gods, queens and burial forms. {{gha2-kush2}} And do not write that Aksum destroyed Meroë as a fact: Ezana's campaign against the Noba is attested, and Meroë had probably already collapsed. {{gha2-kush1}}"
     },
     {
+     "t": "activity",
+     "x": "Build a timeline of Kush from Napata to Meroë using only the dates in the lesson. Mark each date as secure or approximate, and write which statements about Kush depend on the approximate ones."
+    },
+    {
      "t": "check",
      "q": "A documentary says 'we can read Meroitic, so Kush speaks for itself'. What is the correction?",
      "o": [
@@ -528,6 +532,10 @@
     {
      "t": "p",
      "x": "An environmental account adds longer rains, then deforestation, erosion and falling rain from about AD 750; the elite moved south by about AD 800. {{rd-axum}} [CONTESTED]"
+    },
+    {
+     "t": "activity",
+     "x": "Reread the king's own words in the worked example. Write what the inscription tells us, what the king wanted readers to believe, and how the two differ."
     },
     {
      "t": "check",
@@ -833,6 +841,10 @@
     {
      "t": "p",
      "x": "In the south-west, states such as Inariya, Kaffa and Wolayta replaced equality with ranks and ceremonial courts, and kept some Christian practices, such as sacred groves and a seven-day week, after the Oromo cut them off from the abuna. Much of this rests on oral tradition collected by one researcher, Haberland. {{gha5-horn}} [THIN EVIDENCE]"
+    },
+    {
+     "t": "activity",
+     "x": "Write a one-paragraph account of Ahmad Gran's war as each of the three sources in the lesson would tell it. Note the points where the three accounts disagree."
     },
     {
      "t": "check",

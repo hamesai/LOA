@@ -104,6 +104,10 @@
      "x": "Even on a firm 1076, the fall passed almost unnoticed and the gold trade went on, probably growing, through Takrur, Manding and Gao. {{gha4-intro}} [CONTESTED]"
     },
     {
+     "t": "activity",
+     "x": "Sort every claim in the lesson about Ghana into three groups: what the ground shows, what travellers heard and what later tradition says. Write which group carries most of the weight."
+    },
+    {
      "t": "check",
      "q": "Al-Bakri describes Ghana's court in rich detail in 1068. Before you quote him as if he saw it, what must you note?",
      "o": [
@@ -273,6 +277,10 @@
      "x": "In the Gambia horse trade, one horse bought eight slaves at first and then fifteen. {{gha4-decl}} That rate links Mali's decline to the Atlantic trade in Module 8."
     },
     {
+     "t": "activity",
+     "x": "Choose one number from the lesson on Mali. Give it a trust rating from 1 to 5 with a reason, and write what evidence would raise or lower the rating."
+    },
+    {
      "t": "check",
      "q": "A documentary says '60,000 people travelled with Mansa Musa, according to Cairo eyewitnesses'. What is wrong?",
      "o": [
@@ -436,6 +444,10 @@
      "t": "callout",
      "k": "warn",
      "x": "Do not call the period after 1591 a cultural decline. The Timbuktu ta'rikhs were all written between the seventeenth and nineteenth centuries, and marabout groups spread a more militant Islam that fed the later jihads. What did not recover was the Sahel's gold export. {{gha5-songend}} [PROBABLE]"
+    },
+    {
+     "t": "activity",
+     "x": "Use the manuscript-estimate arithmetic as a model on another figure from the lesson. Show your working and write what the result can and cannot tell us."
     },
     {
      "t": "check",
@@ -942,6 +954,10 @@
     {
      "t": "p",
      "x": "The Sanusiyya brotherhood (founded in the 1840s) settled disputes, guaranteed safety on the Benghazi-Wadai route and by the late 19th century governed the Cyrenaican interior. {{gha6-baier}}"
+    },
+    {
+     "t": "activity",
+     "x": "Make a chronology of the jihad from only the dates in the lesson. Work out the years between each pair of events and write which interval surprises you."
     },
     {
      "t": "check",

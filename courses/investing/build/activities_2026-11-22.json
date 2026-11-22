@@ -1,0 +1,26 @@
+{
+ "investing-1": {
+  "l1": "List ten products you have heard of, such as a savings account, a share fund or a rental property. Sort each into one of the four asset classes and mark it as a direct holding or a pooled fund. Circle any you cannot place, and write what information would settle it.",
+  "l3": "Pick a savings figure (use an invented £2,000 if you prefer) and an interest rate and inflation rate you could defend. Work out the nominal and the real value after 10 years with the exact real-return formula, and write one sentence on what the gap means for money you may need."
+ },
+ "investing-2": {
+  "l2": "Run the compounding formula for £1,000 at three yearly rates you choose, over 10, 20 and 30 years. Put the nine results in a table, then write which changes the outcome more here, the rate or the time, and by how much.",
+  "l3": "Find the ongoing charge on one real fund's key facts document. Work out its cost in pounds on £10,000 over one year, then the drag over 20 years if the fund grows at a steady 5% before charges. Write down the page address and today's date."
+ },
+ "investing-3": {
+  "l2": "Choose four falls between 10% and 60%. For each, work out the gain needed to get back to the starting value and put the four pairs in a table. Write what the table shows about deeper falls.",
+  "l4": "Write your own three scenarios for an invented pot: a bad year, a severe year and a long flat spell. Answer the three questions from the lesson for each one, and write the one change to the plan you would make."
+ },
+ "investing-4": {
+  "l2": "Invent two holdings with different yearly results over four years. Work out the average for each, then the result of a 50/50 mix in every year. Write whether the mix moved more or less than either holding, and why.",
+  "l4": "Take an invented £10,000 held 60/30/10 across three holdings. Let one rise 20% and another fall 5% in a year, with the third unchanged. Work out the new weights and write the trades that would restore the plan."
+ },
+ "investing-5": {
+  "l2": "Write three reasons, in your own words, why a fund that beat its index for three years might not do so over the next three. Use the hurdle idea from the worked example, and say which reason you find most convincing.",
+  "l3": "Take an invented £15,000 of savings and the current allowance figures given above (check them on GOV.UK first). Put the money in the order you would use the wrappers and the allowance, and explain each step in one sentence."
+ },
+ "investing-6": {
+  "l1": "Apply the investment-or-speculation test to five products you have seen advertised. Mark each one, then write the largest share of an invented £10,000 you would put into the speculative ones, and why.",
+  "l3": "Take a message or advert you have seen that promises a return. Run the promised-return arithmetic on it, then check it against the warning signs and the checks listed above. Write whether you would respond, and what you would do first."
+ }
+}

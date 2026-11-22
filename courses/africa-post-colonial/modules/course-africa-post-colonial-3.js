@@ -146,6 +146,10 @@
      ]
     },
     {
+     "t": "activity",
+     "x": "Using the dates in the lesson, work out the years between each Pan-African Congress named there. Write what pattern the gaps show and what could explain it."
+    },
+    {
      "t": "check",
      "q": "A poster says 'Pan-Africanism was born at the founding of the OAU in 1963.' Where did it actually begin?",
      "o": [
@@ -427,6 +431,10 @@
      ]
     },
     {
+     "t": "activity",
+     "x": "Choose Negritude, the Manchester Congress of 1945 or Accra in 1958. Write a 100-word account of what it changed, then name the evidence that shows the change and rate that evidence."
+    },
+    {
      "t": "check",
      "q": "You are explaining why historians treat Manchester 1945 as a turning point. What made it different, and what is its limit?",
      "o": [
@@ -575,6 +583,10 @@
       "A rule drafted to protect new states from outside meddling later protected abusive rulers from regional criticism (our reading).",
       "Forty years on, the African Union changed the principle, which Module 7 covers."
      ]
+    },
+    {
+     "t": "activity",
+     "x": "List the principles the lesson names in the OAU Charter. For each one, write one question a historian would ask to test whether it was followed in practice."
     },
     {
      "t": "check",

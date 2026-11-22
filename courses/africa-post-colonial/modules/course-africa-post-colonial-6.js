@@ -123,6 +123,10 @@
      "x": "One author argues that French intelligence helped introduce the genocide theme to the public through a Geneva press service. Treat that as one contested claim. {{wiki-biafra}}"
     },
     {
+     "t": "activity",
+     "x": "Write down the range of death-toll figures given for the Biafran war. For each, give who produced it and why it differs, then say which you would quote and with what warning."
+    },
+    {
      "t": "check",
      "q": "You are asked for 'the' Biafran death toll. Which two reasons make any figure uncertain?",
      "o": [
@@ -267,6 +271,10 @@
       ]
      ],
      "src": "{{brit-ethiopia}} {{hrw-evildays}} {{oup-ethiopia}}"
+    },
+    {
+     "t": "activity",
+     "x": "Repeat the width-of-range exercise on a second figure from the lesson on the Derg and the famine. Show the arithmetic and write what the width tells you about the evidence."
     },
     {
      "t": "check",
@@ -426,6 +434,10 @@
      "t": "callout",
      "k": "note",
      "x": "Self-reliance was an older African idea. The Arusha Declaration of 1967 argues that foreign gifts, loans and investment endanger independence ('he who pays the piper calls the tune'), while saying Tanzania will not refuse outside money. {{arusha}}"
+    },
+    {
+     "t": "activity",
+     "x": "Summarise the three diagnoses of the economic crisis in a table: who wrote each, what it blamed and what it recommended. Write one point where all three readings meet."
     },
     {
      "t": "check",
@@ -636,6 +648,10 @@
     {
      "t": "p",
      "x": "The end of the Cold War reduced support for authoritarian allies. From 1989 to 1991 many states held multiparty elections, for example after Benin's 1990 conference, and Mobutu's Zaire collapsed in 1997. {{robinson-1994}}"
+    },
+    {
+     "t": "activity",
+     "x": "Choose one claim about what held African economies back. Run the causal-claim test from the worked example on it, and write what other factors a careful historian would need to rule out."
     },
     {
      "t": "check",

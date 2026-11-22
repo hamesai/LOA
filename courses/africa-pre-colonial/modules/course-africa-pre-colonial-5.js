@@ -256,6 +256,10 @@
      ]
     },
     {
+     "t": "activity",
+     "x": "Write a three-sentence museum caption for an object from Igbo-Ukwu or Ife. The caption should not repeat the Frobenius claim and should say what the evidence supports."
+    },
+    {
      "t": "check",
      "q": "A 1910 writer says the Ife heads are too fine to be African and must come from a lost Atlantis. How should you treat the claim?",
      "o": [
@@ -547,6 +551,10 @@
      "x": "Wars with Britain include 1824, when Asante defeated and killed Governor MacCarthy, and 1873 to 74, when the British took Kumasi. {{brit-asante}} {{countrystudies-ghana}} {{blackpast-anglo}} The Fante kept their independence by diplomacy and British support. {{gha5-lower}}"
     },
     {
+     "t": "activity",
+     "x": "Take the founding myth in the worked example. Write two claims the myth makes and, for each, the kind of evidence that would test it."
+    },
+    {
      "t": "check",
      "q": "A family tradition places its founding ancestor 'far back in the mists of time'. A Dutch document names him in 1690. What does the Ano Asena case teach?",
      "o": [
@@ -726,6 +734,10 @@
     {
      "t": "p",
      "x": "Johnson wrote from the traditions of Oyo's hereditary court historians, and calls Oduduwa 'really a mythical personage'. {{johnson}} His history shaped later written Yoruba dynastic lists, so those lists are not independent of it. {{gha1-vansina}}"
+    },
+    {
+     "t": "activity",
+     "x": "Fill in a comparison table for Oyo and Dahomey with rows for who checked the ruler, how the army worked, what trade mattered and which sources we rely on."
     },
     {
      "t": "check",

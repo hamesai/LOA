@@ -106,6 +106,10 @@
      "x": "The ANC Youth League formed in 1944 under Mandela, Tambo, Sisulu and Lembede, and about 60,000 African miners struck in 1946 and were crushed. {{w-black}} {{w-opp}}"
     },
     {
+     "t": "activity",
+     "x": "Make a table of the laws and land measures the lesson names from before 1948. For each, give the date, what it did and who it affected most."
+    },
+    {
      "t": "check",
      "q": "A student says apartheid's land policy began in 1948. Which earlier law undermines that, and what did it do?",
      "o": [
@@ -303,6 +307,10 @@
       "Keep a two-column list so that you never describe a protest as if it were a statute.",
       "A strong answer names at least three laws and three events."
      ]
+    },
+    {
+     "t": "activity",
+     "x": "Choose three of the apartheid laws in the lesson. For each, write what it controlled in daily life, who it affected and what contradiction inside the system it shows."
     },
     {
      "t": "check",
@@ -505,6 +513,10 @@
      "x": "An early count of 23 killed, printed in one UNESCO chapter, is far below the later totals, so use that chapter for sequence and context, not for single figures. {{gha-viii-ch10}}"
     },
     {
+     "t": "activity",
+     "x": "Run the check from the worked example on a second official figure from the lesson. Write what the figure counts, who published it and what it would not show."
+    },
+    {
      "t": "check",
      "q": "A pamphlet gives Sharpeville as '69 dead'. What should you add?",
      "o": [
@@ -685,6 +697,10 @@
     {
      "t": "p",
      "x": "The TRC is also a source with a perspective. Welsh notes that none of its 1998 commissioners came from National Party or IFP backgrounds, that de Klerk obtained a court order removing a finding about him, and thinks it underplayed the UDF's ungovernability campaign. {{w-pandora}} {{w-resist}} The report itself lists its own gaps, among them the 1990s violence. {{trc-vol5}}"
+    },
+    {
+     "t": "activity",
+     "x": "Write a timeline from 1976 to 1994 with at least ten dated entries from the lesson, and check every date against the text. Mark the entries a negotiator would have counted as turning points."
     },
     {
      "t": "check",
