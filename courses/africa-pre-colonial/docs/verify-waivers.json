@@ -190,5 +190,21 @@
   "match": "Much southern African rock art may be only",
   "reason": "same pp. 528 to 529 passage checked against the chapter text on 15/11/2026; sentence reworded when Module 7 was consolidated (15/11/2026) with no new claims; rest of chapter stays skipped (Stone Age prehistory)",
   "checked": "15/11/2026"
+ },
+ {
+  "key": "breunig-wko",
+  "kind": "number",
+  "item": "26",
+  "match": "How is millet shown to be there?",
+  "reason": "The chapter prints the figure in words with OCR spacing: 'T wenty-six litres of soil flotation samples (in ten samples)' on volume p. 170; read by hand on 22/11/2026.",
+  "checked": "22/11/2026"
+ },
+ {
+  "key": "equiano-west-indies",
+  "kind": "number",
+  "item": "10/07",
+  "match": "Resold in the West Indies to a Quaker merchant",
+  "reason": "The deed in Equiano's text is dated 'this tenth day of July' 1766 and registered the next day; the lesson prints it as 10/07/1766 in the course's DD/MM/YYYY format. Read by hand 22/11/2026.",
+  "checked": "22/11/2026"
  }
 ]

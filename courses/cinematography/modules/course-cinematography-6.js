@@ -322,7 +322,7 @@
      "t": "example",
      "title": "Worked example: the cost of balancing (our arithmetic)",
      "steps": [
-      "500T in daylight uses the 85 filter, and the rating falls from 500 to 320. The ratio is 500 ÷ 320 = 1.56. In stops that is log base 2 of 1.56, about 0.64, roughly two-thirds of a stop. {{kodak-500t}}",
+      "500T in daylight uses the 85 filter, and the rating falls from 500 to 320. The ratio is 500 ÷ 320 = 1.56. In stops that is log base 2 of 1.56, about 0.64, roughly two-thirds of a stop (our arithmetic). {{kodak-500t}}",
       "250D in tungsten uses the 80A filter and the rating falls from 250 to 64. The ratio is 250 ÷ 64 = 3.9, about 1.97 stops, so nearly two stops. {{kodak-250d}}",
       "Therefore using the daylight stock under lamps loses almost two stops of speed, but using the tungsten stock in daylight loses only two-thirds of a stop. That is one reason the T stock is popular on mixed-light jobs."
      ]
@@ -351,7 +351,7 @@
     {
      "t": "callout",
      "k": "note",
-     "x": "Colour has been added to black and white in several ways. Tinting dyes the developed film so light areas pick up colour; toning colours the dark areas while light areas stay white or faint; hand colouring paints frames. Night scenes were often tinted blue and firelight red. Kodak's 1918 guide names the toning colours copper red (tone A), sepia (E), sulphide (F), olive green (G) and blue iron (H). Its bath times are for 1918 stock only: they are historical and must not be used as current instructions. {{eastman-tinting-toning}} Kodak's 1918 guide names the toning colours copper red (tone A), sepia (E), sulphide (F), olive green (G) and blue iron (H). Its bath times are for 1918 stock only: they are historical and must not be used as current instructions. {{eastman-tinting-toning}} Day for night shot in sunlight through a blue filter before night shooting was practical, and a colour timer picks a key tone during printing. {{fa-ch5}}"
+     "x": "Colour has been added to black and white in several ways. Tinting dyes the developed film so light areas pick up colour; toning colours the dark areas while light areas stay white or faint; hand colouring paints frames. Night scenes were often tinted blue and firelight red. Kodak's 1918 guide names the toning colours copper red (tone A), sepia (E), sulphide (F), olive green (G) and blue iron (H). Its bath times are for 1918 stock only: they are historical and must not be used as current instructions. {{eastman-tinting-toning}} Day for night shot in sunlight through a blue filter before night shooting was practical, and a colour timer picks a key tone during printing. {{fa-ch5}}"
     },
     {
      "t": "p",

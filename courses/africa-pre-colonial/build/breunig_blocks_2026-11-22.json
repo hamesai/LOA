@@ -1,0 +1,105 @@
+{
+ "l5_example": {
+  "t": "example",
+  "title": "Worked example: reading two dates from one excavation (Windé Koroji Ouest, Mali)",
+  "steps": [
+   "The excavators report two charcoal dates. The hearth in the sunken house gave 3635 plus or minus 90 radiocarbon years before present, calibrated to 2136 to 1893 BCE at one sigma. The midden above it gave 3115 plus or minus 195, calibrated to 1612 to 1123 BCE. {{breunig-wko}}",
+   "The two ranges do not overlap, and the gap between their nearest ends is 1893 minus 1612, which is 281 years (our arithmetic). Read at face value the site was occupied for about a thousand years.",
+   "The authors do not read it that way. The midden fills the house, and the pottery shows no change between the layers, so they think a thousand-year span unlikely and suggest only a limited extension of the hearth's 2100 to 1900 BCE range, perhaps to 1400 BCE. {{breunig-wko}} The method point for you: check the stratigraphy and the finds before you accept the arithmetic of two dates. One sigma is a range that holds about two times in three, not a hard limit (our note)."
+  ]
+ },
+ "l5_check": {
+  "t": "check",
+  "q": "An excavation report gives a hearth date of 2136 to 1893 BCE and a date from the midden that fills the same house of 1612 to 1123 BCE, with no change in pottery between the layers. What is the best reading of the two dates?",
+  "o": [
+   "Treat the later date with caution and prefer a short occupation near the hearth date",
+   "Conclude that two different peoples lived there a thousand years apart",
+   "Discard the hearth date, because charcoal always dates the tree and not the people",
+   "Accept both at face value, because a calibrated range is a firm limit on the occupation",
+   "Average the two ranges and report a single date near 1500 BCE for the whole site"
+  ],
+  "a": 0,
+  "w": "The midden over-fills the house and the pottery does not change, so the authors judge a thousand-year span unlikely and suggest a limited extension. Ranges at one sigma are not hard limits. {{breunig-wko}}",
+  "kind": "application"
+ },
+ "l6_bullets": [
+  {
+   "t": "h",
+   "x": "Newer finds: millet earlier than Tichitt"
+  },
+  {
+   "t": "p",
+   "x": "The Tichitt case above comes from the 1981 volume. Later work reports domestic pearl millet from the Lower Tilemsi Valley in north-eastern Mali at 2500 to 2000 BCE, which the authors of a 2017 excavation report call the earliest morphologically domestic millet known from Africa. {{breunig-wko}} [PROBABLE]"
+  },
+  {
+   "t": "p",
+   "x": "They give two other series for comparison: pearl millet impressions in pottery from Dhar Nema in Mauritania dated to 1750 to 1500 BCE, and millet at Dhars Tichitt and Oualata dated to 1900 to 1500 BCE. At Windé Koroji Ouest in Mali the early settlement dates to about 2100 to 1900 BCE, and the same report holds that domestic millet was there from the start. {{breunig-wko}} [PROBABLE]"
+  },
+  {
+   "t": "p",
+   "x": "How is millet shown to be there? The excavators floated 26 litres of soil in ten samples through a 0.25 mm mesh and identified 197 grains and fruit remains, among them 17 charred pearl-millet seeds that turned up in all three phases of the site. {{breunig-wko}} An attempt in 1994 to date two grains directly failed for lack of carbon, so the early date rests on the charcoal from the hearth beside them, not on a date for the grains. {{breunig-wko}} [PROBABLE]"
+  },
+  {
+   "t": "p",
+   "x": "The same layers hold hunting, fishing and gathered fruit, domestic sheep in the earliest phase, and cattle from about 1600 BCE. {{breunig-wko}} The excavators describe a flexible economy that was not tied to one resource, except perhaps millet. {{breunig-wko}} [PROBABLE]"
+  },
+  {
+   "t": "callout",
+   "k": "note",
+   "x": "Cattle bones here were first doubted, because African buffalo bones look alike. The authors separated the two by bone shape. A claim about a domestic animal needs that kind of check, as a claim about a crop needs plant remains. {{breunig-wko}}"
+  }
+ ],
+ "l6_row": [
+  "Manning and colleagues (2011), reported by MacDonald and others (2017)",
+  "Domestic pearl millet in the Lower Tilemsi Valley, Mali, 2500 to 2000 BCE; at Windé Koroji Ouest about 2100 to 1900 BCE {{breunig-wko}}",
+  "[PROBABLE]"
+ ],
+ "l6_checks": [
+  {
+   "t": "check",
+   "q": "A textbook based on the 1981 UNESCO volume says the only clear case of Saharan farming is millet at Tichitt from about 1500 BCE. Which correction is best supported by the 2017 excavation report?",
+   "o": [
+    "The textbook is right, because Tilemsi millet has not been shown to be domestic at all",
+    "Tichitt millet is now dated to about 3500 BCE, so the textbook only needs a new number and nothing else",
+    "Later finds put domestic pearl millet earlier, at 2500 to 2000 BCE in the Tilemsi Valley",
+    "There was no millet farming anywhere in the Sahel before the first millennium BCE began",
+    "Millet reached the Tilemsi Valley from Egypt about the same time that Tichitt began"
+   ],
+   "a": 2,
+   "w": "The report cites millet from the Lower Tilemsi Valley at 2500 to 2000 BCE as the earliest morphologically domestic millet known from Africa, with Dhars Tichitt and Oualata at 1900 to 1500 BCE. {{breunig-wko}}",
+   "kind": "application"
+  },
+  {
+   "t": "check",
+   "q": "A site report says domestic millet was present from the first occupation, about 2100 to 1900 BCE. The two millet grains sent for direct dating gave no result because they held too little carbon. What does the early date for millet rest on?",
+   "o": [
+    "A historical text from the first millennium BCE that mentions millet in the region",
+    "Thermoluminescence dates on the grindstones found with the hearth and the millet",
+    "A direct radiocarbon date on the two millet grains, confirmed by a second laboratory",
+    "The age of the pottery style alone, since the pottery was dated elsewhere",
+    "Charcoal from the hearth, with millet seeds found in the same early phase"
+   ],
+   "a": 4,
+   "w": "The direct dating failed, so the date rests on the hearth charcoal and on finding pearl-millet seeds in all three phases, including the early one. {{breunig-wko}}",
+   "kind": "application"
+  }
+ ],
+ "l7_bullet": {
+  "t": "p",
+  "x": "A 2017 foreword by Nigeria's National Commission for Museums and Monuments dates the Nok Culture to about 1500 to 0 BCE and reports about 350 sites documented, around 80 of them excavated. It adds that the project's first hypothesis, that Nok art and early iron emerged from a complex society, changed as settlement, iron-smelting, geochemical and plant studies came in. {{breunig-foreword}} The 1500 BCE start is a claim under debate: the volume's contents list a chapter asking whether second-millennium BCE sites in central Nigeria belong to Nok at all, and that chapter is not among the pages read here. {{breunig-foreword}} [CONTESTED]"
+ },
+ "l7_check": {
+  "t": "check",
+  "q": "A museum label says the Nok Culture began about 1500 BCE. A 2017 foreword gives the same range, but the same volume's contents list a chapter titled 'Early Nok or Not?' about second-millennium BCE sites. How should you word the start date in your own notes?",
+  "o": [
+   "As plainly wrong, because Nok figures are known only from the first millennium BCE",
+   "As settled fact, because a national museums commission published the date in a foreword",
+   "As irrelevant to your notes, because Nok has no secure dates of any kind at all",
+   "As debated: 1500 BCE is proposed, but whether early sites are Nok is argued",
+   "As firm, because the Goethe University project has dated all 350 documented sites"
+  ],
+  "a": 3,
+  "w": "The foreword gives 1500 to 0 BCE, but the contents show a chapter questioning whether second-millennium sites belong to Nok, so the start date is contested. {{breunig-foreword}}",
+  "kind": "application"
+ }
+}

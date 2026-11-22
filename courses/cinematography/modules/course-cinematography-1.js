@@ -226,7 +226,7 @@
     },
     {
      "t": "p",
-     "x": "The LMU book gives 12 frames a second as the minimum for the eye to read motion. Twenty-four is the cinema standard, well above that floor. {{lmu-nonsense}}"
+     "x": "The LMU book gives 12 frames a second as the minimum for the eye to read motion. Twenty-four is the cinema standard, well above that floor. {{lmu-nonsense-ch05}}"
     },
     {
      "t": "p",
@@ -234,7 +234,7 @@
     },
     {
      "t": "p",
-     "x": "The 180° figure was a camera setting in the 1920s, not a rule. Gregory's catalogue gives Institute Standard 180°, Bell and Howell 170°, Eyemo 160°, DeVry 135°, and the Akeley at a fixed 230°, which admits about 30 per cent more light. {{gregory-motion-picture}}"
+     "x": "The 180° figure was a camera setting in the 1920s, not a rule. Gregory's catalogue gives Institute Standard 180°, Bell and Howell 170°, Eyemo 160°, DeVry 135°, and the Akeley at a fixed 230°, which admits about 30 per cent more light. {{gregory-motion-picture-ch025}}"
     },
     {
      "t": "callout",

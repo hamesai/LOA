@@ -6,5 +6,29 @@
   "match": "shots shrink from about 41 seconds to about 1.5 seconds",
   "reason": "OCR prints 'about 11/2 seconds' for one and a half seconds (35 frames)",
   "checked": "15/11/2026"
+ },
+ {
+  "key": "gregory-motion-picture-ch025",
+  "kind": "number",
+  "item": "1920",
+  "match": "The 180",
+  "reason": "The book is a 1920s work: ch-026 lists a title dated 1923, so its camera catalogue cannot be earlier than 1923. 'The 1920s' is the decade, not a printed figure; checked by hand.",
+  "checked": "22/11/2026"
+ },
+ {
+  "key": "kodak-500t",
+  "kind": "number",
+  "item": "1.5",
+  "match": "To prevent telescoping, condensation and spotting",
+  "reason": "The datasheet's Warm-up Times table (storage and handling section, not among the three ingested sections) prints 8 mm and 16 mm as 1 hour for an 8 C rise and 1 1/2 hours for a 39 C rise; read in the downloaded PDF on 22/11/2026.",
+  "checked": "22/11/2026"
+ },
+ {
+  "key": "kodak-500t",
+  "kind": "number",
+  "item": "1.5",
+  "match": "Let film warm to room temperature before use",
+  "reason": "The datasheet's Warm-up Times table (storage and handling section, not among the three ingested sections) prints 8 mm and 16 mm as 1 hour for an 8 C rise and 1 1/2 hours for a 39 C rise; read in the downloaded PDF on 22/11/2026.",
+  "checked": "22/11/2026"
  }
 ]
