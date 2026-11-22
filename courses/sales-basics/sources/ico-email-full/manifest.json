@@ -1,0 +1,88 @@
+{
+ "key": "ico-email-full",
+ "title": "Electronic mail marketing (ICO Guide to PECR)",
+ "author": "",
+ "file": "ICO Electronic mail marketing (Guide to PECR).md",
+ "format": "md",
+ "sha256": "f92e0c686d80f0f4e1e73b165cbbf9a5fc26a742a6d34f7c5d58af5c21b088ba",
+ "words": 1219,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Electronic mail marketing (ICO, Guide to PECR)",
+   "words": 33
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "In brief…",
+   "words": 59
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "In more detail…",
+   "words": 81
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "What are the rules on electronic mail marketing?",
+   "words": 111
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "What about texts and other types of electronic message?",
+   "words": 97
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "What is a ‘soft opt-in’?",
+   "words": 135
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Is there a text or email version of the TPS?",
+   "words": 56
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "When can we email or text individuals?",
+   "words": 93
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "When can we email or text businesses?",
+   "words": 147
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Do these rules apply to viral marketing?",
+   "words": 150
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "What about online marketing and behavioural advertising?",
+   "words": 90
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Where can we get more information?",
+   "words": 25
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Checklist",
+   "words": 142
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (28% common English words, 3.0% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "ICO Electronic mail marketing (Guide to PECR).md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.282,
+  "odd_character_share": 0.03
+ }
+}

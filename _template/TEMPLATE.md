@@ -95,7 +95,7 @@ Belts come from the module count: White after module 1, Yellow after 2, then rou
 3. Save a `courses/<id>/docs/course-<id>-notes.md` listing which sources you read in full, in part, or not at all. `kit.py md` puts it in the markdown library.
 4. After each module, run `python _template/kit.py audit <id>` and fix every line before the next module: source flags (pointer, unread, number, names), author-talk, applied practice, open findings and reading coverage, each with the command that fixes it.
 5. `python _template/kit.py figs <id>` writes a contact sheet of your figures. Serve the folder, open `/_figtest.html`, fix clipping, delete the file.
-6. `python _template/kit.py ship <id>` re-injects lecturers, runs `meta`, the gate and the checker, writes the sources panel, READING-STATE.md and STALE-SOURCES.md, refreshes cache tags, writes the markdown library and opens the course. It stops on any PROBLEM. If the course has `build/build.py`, `kit.py rebuild <id>` runs it and then ships.
+6. `python _template/kit.py ship <id>` re-injects lecturers, runs `meta`, the gate and the checker, writes the sources panel, READING-STATE.md and STALE-SOURCES.md, refreshes cache tags, writes the markdown library, bundles the course scripts (`shared/bundles/`, about 116 requests instead of 250) and opens the course. It stops on any PROBLEM. After any later edit to a course file, run `kit.py bump` (it rebuilds the bundles when stale) or `kit.py bundle`; `kit.py gate` fails while the bundles are stale. `kit.py unbundle` restores the per-file tags for hand edits to the course list. If the course has `build/build.py`, `kit.py rebuild <id>` runs it and then ships.
 7. Checked dates: a ref's `d: "DD/MM/YYYY"` is the day someone reopened the source and checked what the course takes from it (never the publisher's "last updated"). `python _template/kit.py stale [<id>]` lists cited web sources never checked or checked over six months ago, time-sensitive ones (law, tax, prices, official guidance) first, and writes `docs/STALE-SOURCES.md`. `stale_sources.py <id> --backfill` sets `d:` only where a ref's own text records when it was read or opened.
 
 Two traps: `window.CourseUI` is created after course files load, so read it inside a tool function, not at the top of the file. Quiz text is not citation-resolved, so `write_pack` strips `{{cites}}` from it.
@@ -165,6 +165,8 @@ How:
 ## Lecturer data and shipping
 
 `kit.py ship` re-applies lecturer lessons from `_template/lec_data/<id>.json`. If a lecturer lesson was edited in the module file, ship stops rather than reverting it. Run `node _template/lec_sync_from_modules.js <id>` to copy the module text into `lec_data` (the usual fix), or `kit.py inject <id>` to apply `lec_data` on purpose. `--check` reports drift without writing.
+
+Bundles: `kit.py ship` unbundles first and bundles again at the end, so shipping needs no extra step. Scripts that edit course files directly (`course_patch.js`, `pc_fixlib.py`, `mcq_fix.js`, `lec_inject.js`, `source_apply.py`) leave the bundles stale; run `kit.py bump` afterwards. Each file in a bundle runs in its own try/catch, and a file that does not parse is left out and reported.
 
 ## Finding sources to deepen a course
 

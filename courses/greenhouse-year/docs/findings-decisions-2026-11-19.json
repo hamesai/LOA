@@ -1,0 +1,9 @@
+[
+ {"book":"hse-garden","state":"mark","ids":["f2c74daf"],"note":"module 6, lesson Biological control and treatment decisions: never pour products down a drain"},
+ {"book":"hse-garden","state":"mark","ids":["1013259d"],"note":"module 6, lesson Biological control and treatment decisions: the decision rule already puts a non-chemical first action"},
+ {"book":"ncsu-appe","state":"skip","ids":["d29dbd0c"],"note":"A month's head start for warm crops is a US North Carolina figure; module 2 builds the calendar from the learner's own frost dates instead"},
+ {"book":"purdue-ph-full","state":"mark","ids":["f7c27b45"],"note":"module 4, lesson The three test methods: the PourThru, SME and 1:2 steps already match the full text"},
+ {"book":"purdue-ph-full","state":"mark","ids":["9a05e323"],"note":"module 4, lesson Running a monitoring programme: sampling, calibration and consistency already taught; meter storage added"},
+ {"book":"purdue-temp-full","state":"mark","ids":["3b4775d8"],"note":"module 5, lesson Winter: heat, air mixing and moisture (root-zone heating trial)"},
+ {"book":"uconn-ipm-full","state":"mark","ids":["0c22862c","aee909ca"],"note":"module 6, lesson Scouting (roots, bench middles and ends; UK label details instead of the US EPA number)"}
+]

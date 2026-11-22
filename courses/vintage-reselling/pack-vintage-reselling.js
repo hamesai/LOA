@@ -202,7 +202,7 @@ ARCHIVE_ADD({
    "difficulty": "Beginner",
    "status": "Verified",
    "url": "https://iakaccountants.co.uk/insights/trading-allowance",
-   "note": "Worked examples, badges of trade summary, and the proposed 3,000 pound threshold."
+   "note": "Worked examples and badges of trade summary. Written before Budget 2026 raised the allowance to 3,000 pounds from 06/04/2027."
   },
   {
    "id": "r07",
@@ -380,7 +380,7 @@ ARCHIVE_ADD({
    "difficulty": "Beginner",
    "status": "Verified",
    "url": "https://www.ebay.co.uk/help/selling/fees-credits-invoices/fees-private-sellers-activated-managed-payments?id=4822",
-   "note": "Last updated 30/09/2026; check before use."
+   "note": "Last updated 05/11/2026; check before use."
   },
   {
    "id": "r19",

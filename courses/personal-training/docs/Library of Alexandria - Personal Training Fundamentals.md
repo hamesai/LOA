@@ -1,6 +1,6 @@
 # Library of Alexandria: Personal Training Fundamentals
 
-Level: Beginner. Created 18/11/2026.
+Level: Beginner. Created 21/11/2026.
 
 Screen a client, set goals, design and progress a strength and activity programme, and know where your scope as a personal trainer ends.
 

@@ -44,7 +44,7 @@
     },
     {
      "t": "p",
-     "x": "Dealing without an exemption is a criminal offence. On conviction on indictment the maximum is up to five years' imprisonment, an unlimited fine, or both. Civil monetary penalties can reach £250,000. {{gov-ivory}}"
+     "x": "Dealing without an exemption, or making it possible for someone else to, is an offence; Defra's guidance gives the maximum as a fine of £250,000 or up to 5 years' imprisonment. {{ivory-dealing}}"
     },
     {
      "t": "p",
@@ -53,6 +53,32 @@
     {
      "t": "p",
      "x": "The pre-1918 exemption is narrow and does not count personal, sentimental or financial value. {{gov-ivory-cert}}"
+    },
+    {
+     "t": "p",
+     "x": "The standard exemptions are the ones a reseller meets: a musical instrument made before 1975 with less than 20% ivory by volume; an item made before 3 March 1947 with less than 10% ivory by volume where all the ivory is integral; a portrait miniature made before 1918 no larger than 320 square centimetres; or a sale to a qualifying museum. Registration costs £20. A certificate for a rare pre-1918 piece costs £250, takes about 3 months, and you cannot sell until it arrives. {{ivory-exempt}}"
+    },
+    {
+     "t": "p",
+     "x": "Two traps for a reseller. A buyer must check an item is registered or certified before taking ownership. {{ivory-when}} And an item registered by a previous owner must be registered again before you sell it, because a registration does not carry over. {{ivory-exempt}}"
+    },
+    {
+     "t": "p",
+     "x": "Registration needs evidence of age, such as a dated receipt or catalogue, a date mark, or written verification by an antiques specialist, and of how much ivory there is: by eye when it is clearly small, such as a keyhole escutcheon on a large chest, or by measurement. {{ivory-evidence}} This is the dating-from-evidence method from Module 3 with legal consequences."
+    },
+    {
+     "t": "check",
+     "q": "You bought a 1920s walnut writing box with a small ivory keyhole escutcheon. It was registered by the last owner. What must happen before you list it?",
+     "o": [
+      "Nothing, because the last owner's registration covers the item for life",
+      "Register it again under the pre-1947 under-10% exemption",
+      "Apply for a £250 exemption certificate, which every item needs",
+      "List it as 'bone' so the ivory rules do not apply to it",
+      "Remove the escutcheon and sell it as a separate small item"
+     ],
+     "a": 1,
+     "w": "A registration is no longer valid once the item is sold, so a reseller re-registers it; a small integral escutcheon on a pre-1947 item fits the under-10% standard exemption. {{ivory-exempt}}",
+     "kind": "application"
     },
     {
      "t": "callout",
@@ -215,7 +241,15 @@
     },
     {
      "t": "p",
-     "x": "The regulations were amended in October 2025. {{bc-upholstered}} (unverified: the source we read does not say which products were removed from scope, so the baby-products detail is not confirmed.)"
+     "x": "The current text of the regulations, revised to 30/10/2025, defines furniture as items for private use in a home or caravan, including beds, headboards, sofa-beds, cushions, mattresses and pillows. It now excludes bedding, floor coverings and a list of baby and child products such as cots, Moses baskets, prams, highchairs and car seats, which fall under general product safety law instead. {{ffr-regs}}"
+    },
+    {
+     "t": "p",
+     "x": "Second-hand furniture must pass the same cigarette, filling and match tests as new, and 'supply' includes offering or displaying for sale, so a listing alone can be an offence. {{ffr-regs}}"
+    },
+    {
+     "t": "p",
+     "x": "The permanent label you are looking for is durable, securely attached and starts with the words 'CARELESSNESS CAUSES FIRE', followed by details such as the first UK supplier, batch number, date and materials. Each piece of a suite should carry one. {{ffr-labels}}"
     },
     {
      "t": "h",
@@ -387,7 +421,15 @@
     },
     {
      "t": "p",
-     "x": "For second-hand goods, a reasonable buyer expects less than for new goods, but not the absence of a fault you failed to mention. This is our reading of the Act, which takes account of the description and the price when judging quality; read section 9 in full before relying on it."
+     "x": "Quality is judged by what a reasonable person would consider satisfactory, taking account of the description, the price and the other circumstances; it includes appearance and finish, freedom from minor defects, safety and durability. A defect you specifically drew to the buyer's attention before the sale is not covered by the quality term. {{cra-goods-a}} That is why a full flaw list protects you as well as the buyer."
+    },
+    {
+     "t": "p",
+     "x": "The listing is part of the contract: the description and other required information you give become terms, and cannot be changed later unless the buyer expressly agrees. You must also have the right to sell the item. {{cra-goods-a}} No term can exclude these duties, so 'sold as seen' wording does not work against a consumer. {{cra-goods-b}}"
+    },
+    {
+     "t": "p",
+     "x": "One exception matters to vintage: second-hand goods sold at a public auction that people can attend in person fall outside most of these duties. {{cra-goods-a}}"
     },
     {
      "t": "h",
@@ -399,11 +441,15 @@
     },
     {
      "t": "p",
-     "x": "You must tell them about this right. If you do not, they can cancel at any time in the next 12 months. {{gov-distance}}"
+     "x": "You must tell them about this right before the sale. If you do not, the period runs on until 12 months after the normal 14 days would have ended, or until 14 days after you finally give the information, if that comes first. {{ccr-regs}}"
     },
     {
      "t": "p",
-     "x": "The guidance lists exceptions to the distance-selling rules; read the full page for your goods. {{gov-distance}}"
+     "x": "The exceptions are narrow: goods made to the buyer's specification or clearly personalised, goods that perish quickly, sealed hygiene goods once unsealed, and sales at public auction. There is no exception for second-hand or vintage goods. {{ccr-regs}}"
+    },
+    {
+     "t": "p",
+     "x": "Before a distance sale you must give the item's main characteristics, your trading name and geographical address, the total price including delivery, delivery arrangements, the cancellation conditions with a model form, and who pays return postage. If there is a dispute, it is for you to prove you did. {{ccr-regs}}"
     },
     {
      "t": "example",
@@ -507,7 +553,7 @@
       "Within 30 days of delivery, as with any purchase"
      ],
      "a": 1,
-     "w": "If the trader did not tell them about the right, the period extends to 12 months. {{gov-distance}}"
+     "w": "If the trader did not give the cancellation information, the period ends 12 months after the normal 14-day period would have ended. {{ccr-regs}}"
     },
     {
      "t": "check",

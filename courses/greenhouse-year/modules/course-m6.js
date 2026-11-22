@@ -362,7 +362,11 @@
     },
     {
      "t": "p",
-     "x": "Keep sticky-card counts, weekly monitoring notes, treatments applied and how well they worked, and graph population trends. If you apply a pesticide, record the product, the amount, the area, the crop, the date and the location. UConn also lists the product's EPA registration number, which applies in the United States. If you release biological control agents, record the number, type and where they were put. {{uconn}}"
+     "x": "Keep sticky-card counts, weekly monitoring notes, treatments applied and how well they worked, and graph population trends. If you apply a pesticide, record the product, the amount, the area, the crop, the date and the location. UConn also lists the product's EPA registration number, a United States identifier; for a UK product, record the details printed on its UK label instead (our note). If you release biological control agents, record the number, type and where they were put. {{uconn}}"
+    },
+    {
+     "t": "p",
+     "x": "When you inspect, look at roots as well as leaves and stems: healthy roots are white and actively growing, and root decay or fungus gnat feeding shows up there first. Check the middle of benches, which may get less spray coverage, and bench ends, which get less air, plus hanging baskets and anything on the floor. {{uconn-f}}"
     },
     {
      "t": "example",
@@ -439,7 +443,7 @@
     {
      "t": "callout",
      "k": "warn",
-     "x": "This lesson explains options and how to decide. It is not a recommendation to use any product. Pesticide registration and rules differ between countries and for food crops. Always read the label, follow local law, and ask your local extension service."
+     "x": "This lesson explains options and how to decide. It is not a recommendation to use any product. In the UK, every plant protection product, including insecticides, fungicides, slug pellets and rooting powders, must be authorised before it can be sold or used, and you are legally responsible for using it correctly. {{hse-auth}} Always read the label and follow it."
     },
     {
      "t": "h",
@@ -534,6 +538,44 @@
      "t": "callout",
      "k": "note",
      "x": "New pesticides are usually registered faster for ornamentals than for food crops, and registration for greenhouse-grown vegetables may be delayed or never occur. Read the label to confirm the pest, the crop and the site are all named. {{mizzou}}"
+    },
+    {
+     "t": "h",
+     "x": "UK rules for a home grower"
+    },
+    {
+     "t": "p",
+     "x": "Check HSE's garden database for products authorised for the crop or area, buy no more than a year's supply, and do not buy pesticides online or abroad until the database confirms they are legal in the UK; using or storing an unauthorised product can lead to prosecution. {{hse-buy}}"
+    },
+    {
+     "t": "p",
+     "x": "Most garden products are authorised for amateur use and need no training. Professional products, such as those used on farms, may by law only be used by trained people, so an untrained gardener should never use them. {{hse-pro}}"
+    },
+    {
+     "t": "p",
+     "x": "Physical barriers and own-use remedies such as beer traps sit outside the regulations, but home-made chemical sprays are not risk-free, and giving one to someone else may need an authorisation. {{hse-home}}"
+    },
+    {
+     "t": "p",
+     "x": "Follow the label's conditions, which can include keeping children and pets out and waiting a set time before you eat a treated crop. Make up only what you need that day and never add extra to make it stronger. {{hse-use}}"
+    },
+    {
+     "t": "p",
+     "x": "Storage is a greenhouse issue: keep products in their original containers, which is a legal requirement, out of reach of children and pets, and not in the greenhouse or shed, which get too hot and too cold. Never keep left-over diluted spray. {{hse-store}} Never pour any product down a drain, sink or toilet. {{hse-dispose}}"
+    },
+    {
+     "t": "check",
+     "q": "A friend in France offers you a greenhouse insecticide that works well there. It is not on HSE's garden database. What should you do?",
+     "o": [
+      "Use it at half strength, since a weaker mix is allowed anywhere",
+      "Use it only on ornamental plants, not on the food crops",
+      "Store it in the greenhouse for an emergency, unopened",
+      "Do not use or store it; choose a UK-authorised option",
+      "Decant it into a labelled bottle and use it as directed there"
+     ],
+     "a": 3,
+     "w": "Products must be authorised for use in the UK; HSE warns that using or storing an unauthorised product can lead to prosecution, and products must stay in their original containers. {{hse-buy}}",
+     "kind": "application"
     },
     {
      "t": "h",

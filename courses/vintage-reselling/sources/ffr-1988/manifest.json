@@ -1,0 +1,81 @@
+{
+ "key": "ffr-1988",
+ "title": "Furniture and Furnishings (Fire) (Safety) Regulations 1988 (revised)",
+ "author": "",
+ "file": "Furniture and Furnishings (Fire) (Safety) Regulations 1988 (revised).md",
+ "format": "md",
+ "sha256": "24d1617d9f0c9045551f89a655e531db83779dd3843c1ef717c7368cce1b5db7",
+ "words": 7774,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "The Furniture and Furnishings (Fire) (Safety) Regulations 1988 (SI 1988/1324), revised ver",
+   "words": 3440
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "PART I",
+   "words": 429
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "PART II",
+   "words": 288
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "PART III",
+   "words": 257
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "PART I",
+   "words": 141
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "PART II",
+   "words": 80
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "PART III",
+   "words": 228
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "PART IV",
+   "words": 993
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "PART I",
+   "words": 378
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "PART I",
+   "words": 28
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "PART II",
+   "words": 425
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "PART III",
+   "words": 1087
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "Furniture and Furnishings (Fire) (Safety) Regulations 1988 (revised).md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.337,
+  "odd_character_share": 0.001
+ }
+}

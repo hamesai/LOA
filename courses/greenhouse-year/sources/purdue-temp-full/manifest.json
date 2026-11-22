@@ -1,0 +1,33 @@
+{
+ "key": "purdue-temp-full",
+ "title": "Temperature Control in Greenhouses (Purdue HO-327-W)",
+ "author": "Krishna Nemali",
+ "file": "Purdue HO-327-W Temperature Control in Greenhouses.pdf",
+ "format": "pdf",
+ "sha256": "038ba35ca3882c88c5088802a903615257d3f1466a9d49ade903273fbb272dac",
+ "words": 4748,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 8",
+   "words": 4748,
+   "pages": [
+    1,
+    8
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks",
+  "text quality looks poor (31% common English words, 1.7% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "Purdue HO-327-W Temperature Control in Greenhouses.pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.31,
+  "odd_character_share": 0.017
+ }
+}

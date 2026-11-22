@@ -1,0 +1,44 @@
+{
+ "key": "ukhsa-ticks",
+ "title": "Be Tick Aware toolkit (UK Health Security Agency, 2023)",
+ "author": "UKHSA",
+ "file": "UKHSA Be Tick Aware toolkit 2023.pdf",
+ "format": "pdf",
+ "sha256": "441e75c23266adec787642cf3d5e484ee0d82dcea75fd4a396cbe775bb98db4c",
+ "words": 7542,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 20",
+   "words": 5730,
+   "pages": [
+    1,
+    20
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Pages 21 to 26",
+   "words": 1812,
+   "pages": [
+    21,
+    26
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks",
+  "text quality looks poor (31% common English words, 1.7% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "UKHSA Be Tick Aware toolkit 2023.pdf",
+  "found_by": "source-discovery",
+  "url": "https://assets.publishing.service.gov.uk/media/642e966bfbe620000f17ddbe/Be_tick_aware_toolkit.pdf",
+  "query": "Source Discovery, 19/11/2026"
+ },
+ "text_quality": {
+  "common_word_share": 0.313,
+  "odd_character_share": 0.017
+ }
+}

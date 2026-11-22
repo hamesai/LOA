@@ -129,8 +129,8 @@
      "rows": [
       [
        "Row cover or low tunnel",
-       "Offers about 4–5°F of frost protection (unverified) and screens out some insects",
-       "Remove or vent for heat-sensitive crops if the temperature under the cover will pass 90°F for several hours"
+       "Offers about 4–5°F of frost protection and screens out some insects and diseases, though pests already on the plants can be trapped underneath {{ncsu-rowcover}}",
+       "Slit the top to vent before, not after, the temperature under the cover passes 90°F for several hours {{ncsu-rowcover}}"
       ],
       [
        "Cold frame",
@@ -218,6 +218,18 @@
     },
     {
      "t": "p",
+     "x": "NC State gives the spread: utility-grade polythene lasts about a year, greenhouse-grade film with UV inhibitors 12 to 18 months, and copolymer film two to three years. Tempered glass is two to three times stronger than ordinary glass. {{ncsu-gh}}"
+    },
+    {
+     "t": "p",
+     "x": "Size matters too. Small greenhouses swing in temperature faster than large ones because their air volume is small, so an open door gains or loses a great deal of heat. {{ncsu-gh}}"
+    },
+    {
+     "t": "p",
+     "x": "If you build a cold frame, face it south or south-east on a slight slope with a wall or hedge to the north, keep it no wider than 4 to 5 feet so you can reach across, and never use wood treated with CCA, creosote or pentachlorophenol, which harm plants; a decay-resistant wood such as cedar is the safer choice. {{ncsu-coldframe}}"
+    },
+    {
+     "t": "p",
      "x": "Plan for bench space, storage and room to expand before you build. {{ncsu}} The frame is cheap to extend only on paper; moving a built house is not."
     },
     {
@@ -287,6 +299,24 @@
     {
      "t": "p",
      "x": "Purdue's guidance is a useful design check, even for a small house. A ridge vent alone is more effective than a sidewall vent alone, but combining roof and sidewall vents gave a significant improvement. Sidewall and roof ventilation should be similar in area, each about 15–20% of the greenhouse ground area, and a ridge vent should open to about 60 degrees. Wider openings can act like a sail in severe wind and fail. {{purdue-temp}}"
+    },
+    {
+     "t": "p",
+     "x": "Three more design points from Purdue. Set side vents slightly above plant height so outside air mixes before it reaches the leaves. Open a ridge vent to about 60 degrees; wider openings can act like a sail in strong wind and break. And switch off horizontal airflow fans while you vent naturally, because they push the hot air at the roof back down onto the crop. {{purdue-temp-f}}"
+    },
+    {
+     "t": "check",
+     "q": "It is a hot, still afternoon. Your roof and side vents are open, and the horizontal airflow fans are running. What does Purdue advise?",
+     "o": [
+      "Turn the airflow fans off while venting naturally",
+      "Run the fans faster to push hot air out through the side vents",
+      "Close the side vents so the roof vent pulls harder on its own",
+      "Open the ridge vent past 90 degrees to let the most air escape",
+      "Add insect screens, which speed up airflow through the vents"
+     ],
+     "a": 0,
+     "w": "Horizontal airflow fans redistribute the hot air gathered at the roof, so Purdue says not to run them during natural ventilation. {{purdue-temp-f}}",
+     "kind": "application"
     },
     {
      "t": "callout",

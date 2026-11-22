@@ -1,6 +1,6 @@
 # Library of Alexandria: Vintage reselling business (UK)
 
-Level: Beginner. Created 18/11/2026.
+Level: Beginner. Created 21/11/2026.
 
 Start an online business reselling vintage goods: decide your legal status, source at prices that leave a margin, date and grade items honestly, sell lawfully, list and price across platforms, and keep records and tax right.
 
@@ -53,7 +53,7 @@ Worked example: Bought £8, sold £32: profit £24, markup 300%, margin 75% befo
 - [Selling goods or services on a digital platform](https://www.gov.uk/guidance/selling-goods-or-services-on-a-digital-platform) (Reference, Beginner, Verified). Reporting rules and when selling is trading. Excerpt read.
 - [Tax-free allowances on property and trading income](https://www.gov.uk/guidance/tax-free-allowances-on-property-and-trading-income) (Reference, Beginner, Verified). Trading allowance, registration, records.
 - [BIM20205 Badges of trade: summary](https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim20205) (Reference, Intermediate, Verified). Only the opening was read; the badges list came from a secondary source.
-- [The 1,000 pound Trading Allowance Explained (2026/27)](https://iakaccountants.co.uk/insights/trading-allowance) (Reference, Beginner, Verified). Worked examples, badges of trade summary, and the proposed 3,000 pound threshold.
+- [The 1,000 pound Trading Allowance Explained (2026/27)](https://iakaccountants.co.uk/insights/trading-allowance) (Reference, Beginner, Verified). Worked examples and badges of trade summary. Written before Budget 2026 raised the allowance to 3,000 pounds from 06/04/2027.
 - [Distance selling](https://www.gov.uk/online-and-distance-selling-for-businesses) (Reference, Beginner, Verified). 14-day cancellation and 12-month extension. Excerpt read.
 - [Consumer Rights Act 2015, section 2](https://www.legislation.gov.uk/ukpga/2015/15/section/2) (Reference, Intermediate, Verified). Trader, consumer and public auction definitions.
 - [Etsy Reselling Guide 2026 (secondary)](https://www.underpriced.app/blog/etsy-reselling-guide-2026) (Reference, Beginner, Verified). Reports the 20-year vintage rule; check Etsy's own policy.
@@ -107,7 +107,7 @@ R2. Why does being in business matter for your platform account? Answer: Free or
 - [Consumer Rights Act 2015, section 2](https://www.legislation.gov.uk/ukpga/2015/15/section/2) (Reference, Intermediate, Verified). Trader, consumer and public auction definitions.
 - [Second-hand upholstered furniture: fire safety](https://www.businesscompanion.info/en/quick-guides/product-safety/second-hand-upholstered-furniture-fire-safety) (Reference, Beginner, Verified). Pre-1950 exclusion, labels, disposal.
 - [Second-hand electrical goods](https://www.businesscompanion.info/en/quick-guides/product-safety/second-hand-electrical-goods) (Reference, Beginner, Verified). Sellers' responsibilities; plugs; electric blankets.
-- [Fees for private sellers (eBay UK)](https://www.ebay.co.uk/help/selling/fees-credits-invoices/fees-private-sellers-activated-managed-payments?id=4822) (Reference, Beginner, Verified). Last updated 30/09/2026; check before use.
+- [Fees for private sellers (eBay UK)](https://www.ebay.co.uk/help/selling/fees-credits-invoices/fees-private-sellers-activated-managed-payments?id=4822) (Reference, Beginner, Verified). Last updated 05/11/2026; check before use.
 - [Fees for business sellers (eBay UK)](https://www.ebay.co.uk/help/selling/fees-credits-invoices/fees-business-sellers?id=4809) (Reference, Beginner, Verified). Category percentages, per-order and regulatory fees. Check your category.
 
 ### Pass condition
@@ -258,7 +258,7 @@ R1. Is margin divided by the buying price or the selling price? Answer: The sell
 
 ### Resources
 
-- [Fees for private sellers (eBay UK)](https://www.ebay.co.uk/help/selling/fees-credits-invoices/fees-private-sellers-activated-managed-payments?id=4822) (Reference, Beginner, Verified). Last updated 30/09/2026; check before use.
+- [Fees for private sellers (eBay UK)](https://www.ebay.co.uk/help/selling/fees-credits-invoices/fees-private-sellers-activated-managed-payments?id=4822) (Reference, Beginner, Verified). Last updated 05/11/2026; check before use.
 - [Fees for business sellers (eBay UK)](https://www.ebay.co.uk/help/selling/fees-credits-invoices/fees-business-sellers?id=4809) (Reference, Beginner, Verified). Category percentages, per-order and regulatory fees. Check your category.
 - [Vinted fee](https://www.vinted.co.uk/help/342-buyer-protection-fee-on-vinted) (Reference, Beginner, Verified). Buyer fee; refund policy for non-professional sellers.
 - [Etsy Fees and Payments Policy](https://www.etsy.com/legal/fees/) (Reference, Beginner, Search link). Read in part; UK rates not confirmed.
@@ -311,7 +311,7 @@ R1. What does gross trading income over £1,000 require? Answer: Registering for
 - [Selling goods or services on a digital platform](https://www.gov.uk/guidance/selling-goods-or-services-on-a-digital-platform) (Reference, Beginner, Verified). Reporting rules and when selling is trading. Excerpt read.
 - [Tax-free allowances on property and trading income](https://www.gov.uk/guidance/tax-free-allowances-on-property-and-trading-income) (Reference, Beginner, Verified). Trading allowance, registration, records.
 - [BIM86000 Trading and Miscellaneous Income Allowance](https://www.gov.uk/hmrc-internal-manuals/business-income-manual/bim86000) (Reference, Intermediate, Verified). Full and partial relief. Opening read.
-- [The 1,000 pound Trading Allowance Explained (2026/27)](https://iakaccountants.co.uk/insights/trading-allowance) (Reference, Beginner, Verified). Worked examples, badges of trade summary, and the proposed 3,000 pound threshold.
+- [The 1,000 pound Trading Allowance Explained (2026/27)](https://iakaccountants.co.uk/insights/trading-allowance) (Reference, Beginner, Verified). Worked examples and badges of trade summary. Written before Budget 2026 raised the allowance to 3,000 pounds from 06/04/2027.
 - [Expenses if you're self-employed](https://www.gov.uk/expenses-if-youre-self-employed) (Reference, Beginner, Verified). Allowable expenses; cannot claim with the allowance.
 - [Distance selling](https://www.gov.uk/online-and-distance-selling-for-businesses) (Reference, Beginner, Verified). 14-day cancellation and 12-month extension. Excerpt read.
 - [Consumer Rights Act 2015, Explanatory Notes](https://www.legislation.gov.uk/ukpga/2015/15/notes/division/3/1/data.htm) (Reference, Intermediate, Verified). Excerpt read.
@@ -336,11 +336,18 @@ Build a launch pack for your first five items: status, buying, evidence, complia
 
 ## Sources read in full and not
 
-Sources were read through search and fetch excerpts on 11/10/2026. No source was read in full, so treat every rule as a pointer to check on the current page.
+**Read in full (19/11/2026):**
+- Consumer Rights Act 2015, Part 1 Chapters 1 and 2 (goods), from the as-enacted PDF; the rest of the Act was skipped as outside scope. Later amendments were not checked.
+- Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013, as made. Later amendments were not checked.
+- HMRC Business Income Manual BIM20201 to BIM20315 (badges of trade).
+- GOV.UK (Defra and APHA): Deal in items made of or containing ivory, last updated 24/07/2026.
+- Furniture and Furnishings (Fire) (Safety) Regulations 1988, revised text as at 30/10/2025 (test schedules read but not taught).
+
+The earlier sources below were read through search and fetch excerpts on 11/10/2026, so treat rules that rest only on them as pointers to check on the current page.
 
 **Read in part (excerpts):**
 - GOV.UK: Selling goods or services on a digital platform; Tax-free allowances on property and trading income; Distance selling; Deal in items made of or containing ivory; Ivory pre-1918 exemption certificate.
-- HMRC Business Income Manual: BIM86000 (opening); BIM20205 (opening only; the badges of trade list came from a secondary accountants' guide).
+- HMRC Business Income Manual: BIM86000 (opening); BIM20205 (opening only at first; now read in full, see above).
 - Business Companion (Trading Standards): Am I in business?; Second-hand upholstered furniture; Second-hand electrical goods; Hallmarking.
 - legislation.gov.uk: Consumer Rights Act 2015 sections 2 and 9 (section 9 opening only) and the Explanatory Notes; Furniture and Furnishings (Fire) (Safety) Regulations 1988.
 - eBay.co.uk fee pages for private and business sellers (updated 30/09/2026); Vinted UK fee page.

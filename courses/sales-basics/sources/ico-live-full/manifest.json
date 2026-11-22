@@ -1,0 +1,31 @@
+{
+ "key": "ico-live-full",
+ "title": "How do we comply with the rules on live marketing calls? (ICO)",
+ "author": "",
+ "file": "ICO Live marketing calls - how do we comply.md",
+ "format": "md",
+ "sha256": "168f5ba1236b32724b51852b67eb8355bd45b555dfba509064f587a68263f08f",
+ "words": 2671,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "How do we comply with the rules on live marketing calls? (ICO)",
+   "words": 38
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "In detail",
+   "words": 2633
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "ICO Live marketing calls - how do we comply.md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.298,
+  "odd_character_share": 0.009
+ }
+}

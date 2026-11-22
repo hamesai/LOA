@@ -1,0 +1,27 @@
+{
+ "d3e57024": {
+  "state": "applied",
+  "note": "auto: module 5, lesson Heat balance: gains and losses [another source]",
+  "date": "2026-11-19"
+ },
+ "088addea": {
+  "state": "applied",
+  "note": "auto: module 5, lesson Summer: ventilate, shade, evaporate [another source]",
+  "date": "2026-11-19"
+ },
+ "8632c933": {
+  "state": "applied",
+  "note": "auto: module 1, lesson Air: ventilation and circulation [another source]",
+  "date": "2026-11-19"
+ },
+ "bba5dc73": {
+  "state": "applied",
+  "note": "auto: module 5, lesson Winter: heat, air mixing and moisture [another source]",
+  "date": "2026-11-19"
+ },
+ "3b4775d8": {
+  "state": "applied",
+  "note": "module 5, lesson Winter: heat, air mixing and moisture (root-zone heating trial)",
+  "date": "2026-11-19"
+ }
+}

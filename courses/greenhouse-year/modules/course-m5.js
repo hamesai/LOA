@@ -34,6 +34,10 @@
      "x": "Solar radiation is the major source of heat energy. {{purdue-temp}} A greenhouse covered with actively growing plants is relatively easier to cool than one only partly covered, because transpiration uses solar energy to evaporate water. {{purdue-temp}} Heaters add to the gain, and the choice between them is the subject of Lesson 3."
     },
     {
+     "t": "p",
+     "x": "Purdue gives the targets to steer by. Most species grow best between 68 and 78°F; cold-tolerant crops grow normally at 58 to 63°F. Below a base temperature of 36 to 53°F plants stop growing but survive. Between 78 and 85°F growth becomes soft and excessive, and above 90°F leaves can age early and flowers drop. {{purdue-temp-f}} In Celsius that is roughly 20 to 26°C for most crops, 14 to 17°C for hardy ones, a base of 2 to 12°C and damage above 32°C (our conversion)."
+    },
+    {
      "t": "h",
      "x": "Losses"
     },
@@ -222,6 +226,10 @@
      "x": "Shade cloth lowers the radiation entering the house, but it also cuts the light plants need, so use it only when other methods are not effective. In Indiana, Purdue suggests a cloth that cuts light by 30 to 50 percent. {{purdue-temp}} UC Master Gardeners found about 50 percent to be the right balance for cool-season crops and warn that too heavy a shade will stunt or kill even the toughest winter vegetables. {{ucanr}}"
     },
     {
+     "t": "p",
+     "x": "The reason for the 30 to 50 percent figure is light. Purdue says plants need a daily light integral of about 10 to 12 moles per square metre for normal growth, and 15 to 18 for tomatoes and peppers, while an unshaded Indiana house can receive 20 to 25. {{purdue-temp-f}} A British summer is usually duller than Indiana's, so a lighter shade may be enough here (our inference); check with a light meter before you buy."
+    },
+    {
      "t": "h",
      "x": "What the trials show"
     },
@@ -384,7 +392,15 @@
     {
      "t": "callout",
      "k": "warn",
-     "x": "Safety first. Fuel-burning appliances produce carbon monoxide. Vent them outdoors as NC State and Purdue direct, and fit a carbon monoxide alarm. The alarm advice is general safety guidance and is not drawn from the sources."
+     "x": "Safety first. Unvented heaters are more fuel-efficient, but Purdue warns that their combustion products spread through the house and harm plants and people. {{purdue-temp-f}} NC State does not recommend unvented propane or kerosene heaters. {{ncsu-gh}} Vent fuel-burning heaters outdoors and fit a carbon monoxide alarm; the alarm is general safety advice, not from these sources."
+    },
+    {
+     "t": "p",
+     "x": "Purdue's heater checklist: give the burner an adequate air supply for complete combustion; service it every year before the heating season, checking the blower, fuel lines, valves and exhaust vent; and drain the condensate from high-efficiency units completely, because it is acidic and must not be used for watering. {{purdue-temp-f}}"
+    },
+    {
+     "t": "p",
+     "x": "Cutting losses is cheaper than adding heat: heat curtains, double glazing, infrared-blocking film on the inner layer and foam in gaps all help. {{purdue-temp-f}} Warming the roots instead of the air works too: in Purdue's trial, lettuce grew normally with its nutrient solution at 70°F while the air was held at 55°F. {{purdue-temp-f}}"
     },
     {
      "t": "h",

@@ -524,7 +524,7 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
 .v-prog i { display: block; height: 100%; background: var(--accent); width: 0; }
 @media (prefers-reduced-motion: no-preference) { .btn, .chip { transition: filter 0.15s, background 0.15s; } .v-prog i { transition: width 0.2s; } }
 </style>
-<link rel="stylesheet" href="shared/course.css?v=v20261118140539">
+<link rel="stylesheet" href="shared/course.css?v=v20261122153943">
 </head>
 <body>
 <div class="wrap" id="home">
@@ -536,6 +536,25 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
 </header>
 
 <section class="tiles" id="home-tiles" aria-label="Library totals"></section>
+
+<section class="continue" id="home-continue" aria-labelledby="h-continue" hidden>
+  <div class="sec-head"><h2 id="h-continue">Continue where you left off</h2><p>Your most recent modules, at the slide you reached.</p></div>
+  <div class="lsearch-list" id="continue-list"></div>
+</section>
+
+<section class="backup-card" id="home-backup" aria-labelledby="h-backup">
+  <div class="sec-head"><h2 id="h-backup">Back up your progress</h2><p>Progress is kept in this browser only. Clearing browser data or switching device loses it unless you have a backup file.</p></div>
+  <div class="card">
+    <p class="mono" id="backup-status" style="font-size:.9rem"></p>
+    <button class="btn sm" id="home-backup-btn" type="button">Back up everything now</button>
+  </div>
+</section>
+
+<section class="lsearch" aria-labelledby="h-search">
+  <div class="sec-head"><h2 id="h-search">Search the library</h2><p>Searches course titles, module titles, lesson text, checks and terms across every course.</p></div>
+  <input id="lsearch-q" type="search" placeholder="Try: aperture, leave no trace, Stanislavski" aria-describedby="h-search" autocomplete="off">
+  <div id="lsearch-out" aria-live="polite"></div>
+</section>
 
 <section aria-labelledby="h-courses">
   <div class="sec-head"><h2 id="h-courses">Courses</h2><p>Each course is its own workspace: slides, notes, practice, quizzes, tools, a ledger and a data record. Open one to work in it.</p></div>
@@ -563,6 +582,15 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
   </div>
 </section>
 
+<section class="glossary" id="home-glossary" aria-labelledby="h-gloss">
+  <details id="gloss-dd">
+    <summary><h2 id="h-gloss">Glossary</h2><span class="dd-n" id="gloss-count"></span></summary>
+    <p class="dd-note">Every term defined in a lesson, across all courses. Click a term's module to open it.</p>
+    <input id="gloss-q" type="search" placeholder="Filter terms" aria-label="Filter glossary terms" autocomplete="off">
+    <div id="gloss-list"></div>
+  </details>
+</section>
+
 <section class="faq" id="home-faq" aria-label="Frequently asked questions"></section>
 
 <div class="foot"><p class="mono" id="home-stamp"></p></div>
@@ -583,6 +611,12 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
   <h1 id="cm-h1"></h1>
   <p class="take" id="take"></p>
 </header>
+
+<section class="lsearch csearch" aria-labelledby="h-csearch">
+  <h2 id="h-csearch" class="sr-only-h">Search this course</h2>
+  <input id="csearch-q" type="search" placeholder="Search this course: lessons, checks, terms" aria-label="Search this course" autocomplete="off">
+  <div id="csearch-out" aria-live="polite"></div>
+</section>
 
 <section id="s-lib" aria-label="About this course">
   <div class="libs" id="libs"></div>
@@ -636,6 +670,10 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
 <section id="s-data" aria-labelledby="h-data">
   <details class="dd" id="data-dd">
     <summary><h2 id="h-data">Data built from the ledger</h2></summary>
+    <h3 style="font-size:1rem;margin:0.6rem 0 0.2rem">Learning gain</h3>
+    <p class="dd-note">Your first complete pre-check in each module is saved as a baseline. Your best first-try quiz score is the result. The gap between them is how much the module taught you.</p>
+    <div class="tscroll" id="gain-wrap"></div>
+    <h3 style="font-size:1rem;margin:1.2rem 0 0.2rem">All series</h3>
     <p class="dd-note">Each metric you log becomes a series. Pick one to see it over time.</p>
     <div class="tscroll" id="series-wrap"></div>
     <div class="card chart-box" id="chart-card" hidden>
@@ -768,191 +806,40 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
   </div>
 </div>
 
-<script src="shared/archive-data.js?v=v20261118140539"></script>
-<script src="courses/greenhouse-year/course-refs.js?v=v20261118140539"></script>
-<script src="shared/course-engine.js?v=v20261118140539"></script>
-<script src="courses/greenhouse-year/course-figs.js?v=v20261118140539"></script>
-<script src="shared/course-meta.js?v=v20261118140539"></script>
-<script src="shared/course-about.js?v=v20261118140539"></script>
+<script src="shared/archive-search.js?v=v20261122153943"></script>
+<script src="shared/archive-data.js?v=v20261122153943"></script>
+<script src="courses/greenhouse-year/course-refs.js?v=v20261122153943"></script>
+<script src="shared/course-engine.js?v=v20261122153943"></script>
+<script src="courses/greenhouse-year/course-figs.js?v=v20261122153943"></script>
+<script src="shared/course-meta.js?v=v20261122153943"></script>
+<script src="shared/course-about.js?v=v20261122153943"></script>
 <script>LOA_META("about")</script>
-<script src="shared/course-lecturer-refs.js?v=v20261118140539"></script>
+<script src="shared/course-lecturer-refs.js?v=v20261122153943"></script>
 <script>LOA_META("deepnotes")</script>
 <script>LOA_META("lecturer-notes")</script>
 <script>LOA_META("lecturer-intro")</script>
 <script>LOA_META("lecturers")</script>
 <!-- COURSES:START -->
-<script src="shared/course-faqs.js?v=v20261118140539"></script>
+<script src="shared/course-faqs.js?v=v20261122153943"></script>
 <script>LOA_META("faqs")</script>
-<script src="courses/greenhouse-year/pack-greenhouse-year.js?v=v20261118140539"></script>
-<script src="courses/greenhouse-year/modules/course-m1.js?v=v20261118140539"></script>
-<script src="courses/greenhouse-year/modules/course-m2.js?v=v20261118140539"></script>
-<script src="courses/greenhouse-year/modules/course-m3.js?v=v20261118140539"></script>
-<script src="courses/greenhouse-year/modules/course-m4.js?v=v20261118140539"></script>
-<script src="courses/greenhouse-year/modules/course-m5.js?v=v20261118140539"></script>
-<script src="courses/greenhouse-year/modules/course-m6.js?v=v20261118140539"></script>
-<script src="courses/greenhouse-year/modules/course-m7.js?v=v20261118140539"></script>
-<script src="courses/greenhouse-year/modules/course-cap.js?v=v20261118140539"></script>
-<script src="courses/camping-basics/pack-camping-basics.js?v=v20261118140539"></script>
-<script src="courses/camping-basics/course-camping-basics-sources.js?v=v20261118140539"></script>
-<script src="courses/camping-basics/course-camping-basics-refs.js?v=v20261118140539"></script>
-<script src="courses/camping-basics/course-camping-basics-figs.js?v=v20261118140539"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-1.js?v=v20261118140539"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-2.js?v=v20261118140539"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-3.js?v=v20261118140539"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-4.js?v=v20261118140539"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-5.js?v=v20261118140539"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-6.js?v=v20261118140539"></script>
-<script src="courses/camping-basics/modules/course-camping-basics-cap.js?v=v20261118140539"></script>
-<script src="courses/camping-basics/course-camping-basics-tools.js?v=v20261118140539"></script>
-<script src="courses/sales-basics/pack-sales-basics.js?v=v20261118140539"></script>
-<script src="courses/sales-basics/course-sales-basics-sources.js?v=v20261118140539"></script>
-<script src="courses/sales-basics/course-sales-basics-refs.js?v=v20261118140539"></script>
-<script src="courses/sales-basics/course-sales-basics-figs.js?v=v20261118140539"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-1.js?v=v20261118140539"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-2.js?v=v20261118140539"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-3.js?v=v20261118140539"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-4.js?v=v20261118140539"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-5.js?v=v20261118140539"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-6.js?v=v20261118140539"></script>
-<script src="courses/sales-basics/modules/course-sales-basics-cap.js?v=v20261118140539"></script>
-<script src="courses/sales-basics/course-sales-basics-tools.js?v=v20261118140539"></script>
-<script src="courses/public-speaking/pack-public-speaking.js?v=v20261118140539"></script>
-<script src="courses/public-speaking/course-public-speaking-sources.js?v=v20261118140539"></script>
-<script src="courses/public-speaking/course-public-speaking-refs.js?v=v20261118140539"></script>
-<script src="courses/public-speaking/course-public-speaking-figs.js?v=v20261118140539"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-1.js?v=v20261118140539"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-2.js?v=v20261118140539"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-3.js?v=v20261118140539"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-4.js?v=v20261118140539"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-5.js?v=v20261118140539"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-6.js?v=v20261118140539"></script>
-<script src="courses/public-speaking/modules/course-public-speaking-cap.js?v=v20261118140539"></script>
-<script src="courses/personal-training/pack-personal-training.js?v=v20261118140539"></script>
-<script src="courses/personal-training/course-personal-training-sources.js?v=v20261118140539"></script>
-<script src="courses/personal-training/course-personal-training-refs.js?v=v20261118140539"></script>
-<script src="courses/personal-training/course-personal-training-figs.js?v=v20261118140539"></script>
-<script src="courses/personal-training/modules/course-personal-training-1.js?v=v20261118140539"></script>
-<script src="courses/personal-training/modules/course-personal-training-2.js?v=v20261118140539"></script>
-<script src="courses/personal-training/modules/course-personal-training-3.js?v=v20261118140539"></script>
-<script src="courses/personal-training/modules/course-personal-training-4.js?v=v20261118140539"></script>
-<script src="courses/personal-training/modules/course-personal-training-5.js?v=v20261118140539"></script>
-<script src="courses/personal-training/modules/course-personal-training-6.js?v=v20261118140539"></script>
-<script src="courses/personal-training/modules/course-personal-training-cap.js?v=v20261118140539"></script>
-<script src="courses/personal-training/course-personal-training-tools.js?v=v20261118140539"></script>
-<script src="courses/grid-down-food/pack-grid-down-food.js?v=v20261118140539"></script>
-<script src="courses/grid-down-food/course-grid-down-food-sources.js?v=v20261118140539"></script>
-<script src="courses/grid-down-food/course-grid-down-food-refs.js?v=v20261118140539"></script>
-<script src="courses/grid-down-food/course-grid-down-food-figs.js?v=v20261118140539"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-1.js?v=v20261118140539"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-2.js?v=v20261118140539"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-3.js?v=v20261118140539"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-4.js?v=v20261118140539"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-5.js?v=v20261118140539"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-6.js?v=v20261118140539"></script>
-<script src="courses/grid-down-food/modules/course-grid-down-food-cap.js?v=v20261118140539"></script>
-<script src="courses/grid-down-food/course-grid-down-food-tools.js?v=v20261118140539"></script>
-<script src="courses/directing/pack-directing.js?v=v20261118140539"></script>
-<script src="courses/directing/course-directing-sources.js?v=v20261118140539"></script>
-<script src="courses/directing/course-directing-refs.js?v=v20261118140539"></script>
-<script src="courses/directing/course-directing-figs.js?v=v20261118140539"></script>
-<script src="courses/directing/modules/course-directing-1.js?v=v20261118140539"></script>
-<script src="courses/directing/modules/course-directing-2.js?v=v20261118140539"></script>
-<script src="courses/directing/modules/course-directing-3.js?v=v20261118140539"></script>
-<script src="courses/directing/modules/course-directing-4.js?v=v20261118140539"></script>
-<script src="courses/directing/modules/course-directing-5.js?v=v20261118140539"></script>
-<script src="courses/directing/modules/course-directing-6.js?v=v20261118140539"></script>
-<script src="courses/directing/modules/course-directing-cap.js?v=v20261118140539"></script>
-<script src="courses/vintage-reselling/pack-vintage-reselling.js?v=v20261118140539"></script>
-<script src="courses/vintage-reselling/course-vintage-reselling-sources.js?v=v20261118140539"></script>
-<script src="courses/vintage-reselling/course-vintage-reselling-refs.js?v=v20261118140539"></script>
-<script src="courses/vintage-reselling/course-vintage-reselling-figs.js?v=v20261118140539"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-1.js?v=v20261118140539"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-2.js?v=v20261118140539"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-3.js?v=v20261118140539"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-4.js?v=v20261118140539"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-5.js?v=v20261118140539"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-6.js?v=v20261118140539"></script>
-<script src="courses/vintage-reselling/modules/course-vintage-reselling-cap.js?v=v20261118140539"></script>
-<script src="courses/vintage-reselling/course-vintage-reselling-tools.js?v=v20261118140539"></script>
-<script src="courses/vintage-reselling/learning-vintage-reselling.js?v=v20261118140539"></script>
-<script src="courses/camping-basics/learning-camping-basics.js?v=v20261118140539"></script>
-<script src="courses/directing/learning-directing.js?v=v20261118140539"></script>
-<script src="courses/greenhouse-year/learning-greenhouse-year.js?v=v20261118140539"></script>
-<script src="courses/grid-down-food/learning-grid-down-food.js?v=v20261118140539"></script>
-<script src="courses/personal-training/learning-personal-training.js?v=v20261118140539"></script>
-<script src="courses/public-speaking/learning-public-speaking.js?v=v20261118140539"></script>
-<script src="courses/sales-basics/learning-sales-basics.js?v=v20261118140539"></script>
-<script src="courses/cinematography/pack-cinematography.js?v=v20261118140539"></script>
-<script src="courses/cinematography/course-cinematography-sources.js?v=v20261118140539"></script>
-<script src="courses/cinematography/course-cinematography-refs.js?v=v20261118140539"></script>
-<script src="courses/cinematography/course-cinematography-figs.js?v=v20261118140539"></script>
-<script src="courses/cinematography/modules/course-cinematography-1.js?v=v20261118140539"></script>
-<script src="courses/cinematography/modules/course-cinematography-2.js?v=v20261118140539"></script>
-<script src="courses/cinematography/modules/course-cinematography-3.js?v=v20261118140539"></script>
-<script src="courses/cinematography/modules/course-cinematography-4.js?v=v20261118140539"></script>
-<script src="courses/cinematography/modules/course-cinematography-5.js?v=v20261118140539"></script>
-<script src="courses/cinematography/modules/course-cinematography-6.js?v=v20261118140539"></script>
-<script src="courses/cinematography/modules/course-cinematography-7.js?v=v20261118140539"></script>
-<script src="courses/cinematography/modules/course-cinematography-cap.js?v=v20261118140539"></script>
-<script src="courses/cinematography/course-cinematography-tools.js?v=v20261118140539"></script>
-<script src="courses/cinematography/learning-cinematography.js?v=v20261118140539"></script>
+<script src="shared/bundles/run-1.js?v=v20261122153943"></script>
 <script>LOA_META("dossiers")</script>
 <script>LOA_META("oversight")</script>
-<script src="courses/investing/pack-investing.js?v=v20261118140539"></script>
-<script src="courses/investing/course-investing-sources.js?v=v20261118140539"></script>
-<script src="courses/investing/course-investing-refs.js?v=v20261118140539"></script>
-<script src="courses/investing/course-investing-figs.js?v=v20261118140539"></script>
-<script src="courses/investing/course-investing-gen.js?v=v20261118140539"></script>
-<script src="courses/investing/course-investing-outcomes.js?v=v20261118140539"></script>
-<script src="courses/investing/modules/course-investing-1.js?v=v20261118140539"></script>
-<script src="courses/investing/modules/course-investing-2.js?v=v20261118140539"></script>
-<script src="courses/investing/modules/course-investing-3.js?v=v20261118140539"></script>
-<script src="courses/investing/modules/course-investing-4.js?v=v20261118140539"></script>
-<script src="courses/investing/modules/course-investing-5.js?v=v20261118140539"></script>
-<script src="courses/investing/modules/course-investing-6.js?v=v20261118140539"></script>
-<script src="courses/investing/modules/course-investing-cap.js?v=v20261118140539"></script>
-<script src="courses/investing/learning-investing.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/learning-africa-pre-colonial.js?v=v20261118140539"></script>
-<script src="courses/africa-post-colonial/learning-africa-post-colonial.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/pack-africa-pre-colonial.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/course-africa-pre-colonial-sources.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/course-africa-pre-colonial-refs.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/course-africa-pre-colonial-figs.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-1.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-2.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-3.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-4.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-5.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-6.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-7.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-8.js?v=v20261118140539"></script>
-<script src="courses/africa-pre-colonial/modules/course-africa-pre-colonial-cap.js?v=v20261118140539"></script>
-<script src="courses/africa-post-colonial/pack-africa-post-colonial.js?v=v20261118140539"></script>
-<script src="courses/africa-post-colonial/course-africa-post-colonial-sources.js?v=v20261118140539"></script>
-<script src="courses/africa-post-colonial/course-africa-post-colonial-refs.js?v=v20261118140539"></script>
-<script src="courses/africa-post-colonial/course-africa-post-colonial-figs.js?v=v20261118140539"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-1.js?v=v20261118140539"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-2.js?v=v20261118140539"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-3.js?v=v20261118140539"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-4.js?v=v20261118140539"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-5.js?v=v20261118140539"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-6.js?v=v20261118140539"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-7.js?v=v20261118140539"></script>
-<script src="courses/africa-post-colonial/modules/course-africa-post-colonial-cap.js?v=v20261118140539"></script>
+<script src="shared/bundles/run-2.js?v=v20261122153943"></script>
 <!-- COURSES:END -->
 <!-- BARRIER AIDS: must load after every learning file and LOA_META("oversight") -->
-<script src="shared/barriers/camping-basics.js?v=v20261118140539"></script>
-<script src="shared/barriers/cinematography.js?v=v20261118140539"></script>
-<script src="shared/barriers/directing.js?v=v20261118140539"></script>
-<script src="shared/barriers/greenhouse-year.js?v=v20261118140539"></script>
-<script src="shared/barriers/grid-down-food.js?v=v20261118140539"></script>
-<script src="shared/barriers/investing.js?v=v20261118140539"></script>
-<script src="shared/barriers/personal-training.js?v=v20261118140539"></script>
-<script src="shared/barriers/public-speaking.js?v=v20261118140539"></script>
-<script src="shared/barriers/sales-basics.js?v=v20261118140539"></script>
-<script src="shared/barriers/vintage-reselling.js?v=v20261118140539"></script>
-<script src="shared/barriers/africa-pre-colonial.js?v=v20261118140539"></script>
-<script src="shared/barriers/africa-post-colonial.js?v=v20261118140539"></script>
+<script src="shared/barriers/camping-basics.js?v=v20261122153943"></script>
+<script src="shared/barriers/cinematography.js?v=v20261122153943"></script>
+<script src="shared/barriers/directing.js?v=v20261122153943"></script>
+<script src="shared/barriers/greenhouse-year.js?v=v20261122153943"></script>
+<script src="shared/barriers/grid-down-food.js?v=v20261122153943"></script>
+<script src="shared/barriers/investing.js?v=v20261122153943"></script>
+<script src="shared/barriers/personal-training.js?v=v20261122153943"></script>
+<script src="shared/barriers/public-speaking.js?v=v20261122153943"></script>
+<script src="shared/barriers/sales-basics.js?v=v20261122153943"></script>
+<script src="shared/barriers/vintage-reselling.js?v=v20261122153943"></script>
+<script src="shared/barriers/africa-pre-colonial.js?v=v20261122153943"></script>
+<script src="shared/barriers/africa-post-colonial.js?v=v20261122153943"></script>
 <script>
 (function () {
   "use strict";
@@ -1162,6 +1049,7 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
 
   /* ---------- data series + chart ---------- */
   function renderSeries() {
+    renderGain();
     var map = seriesMap(), keys = Object.keys(map).sort();
     var wrap = $("series-wrap"); wrap.textContent = "";
     $("chart-card").hidden = !keys.length;
@@ -1238,6 +1126,7 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
       ((A.quiz || {})[m.key] || []).forEach(function (q0, k) { var q = rq(q0, today()); pool.push({ id: m.key + ":q" + k, q: q.q, o: q.o, a: q.a, w: q.w, from: lab + " quiz" }); });
       (ln.pretest || []).forEach(function (q0, k) { var q = rq(q0, today()); pool.push({ id: m.key + ":p" + k, q: q.q, o: q.o, a: q.a, w: q.w, from: lab + " pre-check" }); });
       (ln.retrieve || []).forEach(function (q0, k) { var q = rq(q0, today()); pool.push({ id: m.key + ":x" + k, q: q.q, o: q.o, a: q.a, w: q.w, from: "Earlier material" }); });
+      if (m.kind === "module") anchorChecks(m).forEach(function (q0, k) { var q = rq(q0, today()); pool.push({ id: m.key + ":k" + k, q: q.q, o: q.o, a: q.a, w: q.w, from: lab + " lesson check" }); });
       (d.review || []).forEach(function (r, k) { pool.push({ id: m.key + ":r" + k, q: r.q, ans: r.a, from: lab + " review" }); });
     });
     /* The same question often appears as a quiz item, a pre-check and a retrieval item. Keep the first, so one fact is not scored three times. */
@@ -1245,8 +1134,50 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
   }
   function srsGradeId(id, ok) {
     var st = srsLoad(), b = st[id] ? st[id].b : 0;
-    st[id] = { b: ok ? Math.min(b + 1, 4) : 0, d: addDays(today(), ok ? SRS_DAYS[Math.min(b, 4)] : 1) };
+    retLog(id, st[id] && st[id].l, ok);
+    st[id] = { b: ok ? Math.min(b + 1, 4) : 0, d: addDays(today(), ok ? SRS_DAYS[Math.min(b, 4)] : 1), l: today() };
     srsSave(st);
+  }
+  /* Retention log: each graded answer with the days since that card was last answered, so recall after 7 and 30 days can be shown. */
+  function retLoad() { try { var v = JSON.parse(localStorage.getItem("eda.retlog." + cur) || "[]"); return Array.isArray(v) ? v : []; } catch (e) { return []; } }
+  function retLog(id, last, ok) {
+    if (!last) return;
+    var gap = Math.round((Date.parse(today()) - Date.parse(last)) / 86400000);
+    if (!(gap >= 1)) return;
+    var log = retLoad(); log.push({ id: id, d: today(), g: gap, ok: ok ? 1 : 0 });
+    if (log.length > 5000) log = log.slice(-5000);
+    try { localStorage.setItem("eda.retlog." + cur, JSON.stringify(log)); } catch (e) {}
+  }
+  /* Shared items: five lesson checks per module, spread through its lessons, asked in both the pre-check and the quiz,
+     so the before and after scores cover the same ground. Checks that lean on a nearby table or figure are left out. */
+  var anchorCache = {};
+  function normQ(s) { return String(s || "").toLowerCase().replace(/[^a-z0-9£%]+/g, " ").trim(); }
+  function anchorChecks(m) {
+    if (anchorCache[m.key]) return anchorCache[m.key];
+    var c = window.COURSE && window.COURSE[m.key], ln = (window.COURSE_LEARN || {})[m.key] || {}, have = {}, all = [];
+    (ln.pretest || []).concat((A.quiz || {})[m.key] || []).forEach(function (q) { if (q && q.q) have[normQ(q.q)] = 1; });
+    (function walk(v) {
+      if (Array.isArray(v)) { v.forEach(walk); return; }
+      if (!v || typeof v !== "object") return;
+      if (v.t === "check" && Array.isArray(v.o) && v.o.length > 1 && typeof v.a === "number" && v.q &&
+          !/\b(above|below|this (table|figure|chart|slide|diagram))\b/i.test(v.q) && !have[normQ(v.q)]) { have[normQ(v.q)] = 1; all.push(v); return; }
+      Object.keys(v).forEach(function (k) { walk(v[k]); });
+    })(c ? (c.lessons || c) : null);
+    var n = Math.min(5, all.length), pick = [];
+    for (var i = 0; i < n; i++) pick.push(all[Math.floor((i + 0.5) * all.length / n)]);
+    return (anchorCache[m.key] = pick);
+  }
+  function preItems(m) { return (((window.COURSE_LEARN || {})[m.key] || {}).pretest || []).concat(m.kind === "module" ? anchorChecks(m) : []); }
+  function quizItems(m) { var base = (A.quiz || {})[m.key]; return base ? base.concat(m.kind === "module" ? anchorChecks(m) : []) : base; }
+  function retentionFor(m) {
+    var log = [], p = m.key + ":", r = { w7: 0, n7: 0, w30: 0, n30: 0 };
+    try { log = JSON.parse(localStorage.getItem("eda.retlog." + m.library) || "[]") || []; } catch (e) {}
+    log.forEach(function (e) {
+      if (String(e.id).indexOf(p) !== 0) return;
+      if (e.g >= 7) { r.n7++; r.w7 += e.ok; }
+      if (e.g >= 30) { r.n30++; r.w30 += e.ok; }
+    });
+    return r;
   }
   /* Mastery per outcome: the review cards tagged to each outcome (window.COURSE_OUTCOMES), by their place in the review schedule. */
   function renderOutcomes(m) {
@@ -1296,8 +1227,10 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
     var card = h("div", { class: "ch" }, h("p", { class: "mono", style: "font-size:.75rem;color:var(--muted)", text: "Card " + (srsSess.i + 1) + " of " + srsSess.queue.length + " · " + c.from }), h("p", {}, h("strong", { text: c.q })));
     function grade(ok) {
       var b = st[c.id] ? st[c.id].b : 0;
-      st[c.id] = { b: ok ? Math.min(b + 1, 4) : 0, d: addDays(t, ok ? SRS_DAYS[Math.min(b, 4)] : 1) };
+      retLog(c.id, st[c.id] && st[c.id].l, ok);
+      st[c.id] = { b: ok ? Math.min(b + 1, 4) : 0, d: addDays(t, ok ? SRS_DAYS[Math.min(b, 4)] : 1), l: t };
       srsSave(st); if (ok) srsSess.right++;
+      renderGain();
     }
     function advance() { srsSess.i++; srsSess.pick = null; srsSess.shown = false; renderReview(); }
     if (c.o) {
@@ -1366,6 +1299,7 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
       card.appendChild(h("button", { class: "btn ghost", type: "button", text: "Try this question again", onclick: reset }));
     } else if (wr.length) {
       card.appendChild(h("p", { class: "qwhy", text: "Not quite. Choose another answer." }));
+      var th = tutorHint(q, wr); if (th) card.appendChild(th);
       card.appendChild(h("button", { class: "btn ghost", type: "button", text: "Show the answer", onclick: function () { store["r" + qi] = 1; rerender(); } }));
     }
     return card;
@@ -1399,6 +1333,115 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
     list.forEach(function (q, qi) { box.appendChild(learnQ(rq(q, today()), qi, store, renderModuleView)); });
     return box;
   }
+  /* ---------- AI tutor (needs the local helper: python _template/serve_archive.py) ----------
+     Three uses: mark challenge and capstone work against its answer key, give a hint after a wrong answer
+     without giving the answer away, and answer questions about the module. The rules live in the helper. */
+  var tutor = { on: false, backend: "" };
+  try {
+    if (/^https?:$/.test(location.protocol)) fetch("/api/ping").then(function (r) { return r.json(); }).then(function (j) {
+      if (j && j.ok && j.tutor) { tutor.on = true; tutor.backend = j.backend; if (mv.key) renderModuleView(); }
+    }).catch(function () {});
+  } catch (e) {}
+  var modTextCache = {};
+  function moduleText(m) {
+    if (modTextCache[m.key]) return modTextCache[m.key];
+    var out = [], n = 0, skip = { src: 1, img: 1, url: 1, alt: 1, id: 1, t: 1, key: 1, file: 1, href: 1 };
+    (function walk(v, k) {
+      if (n > 24000) return;
+      if (typeof v === "string") { if (!skip[k] && v.length > 20) { var s = v.replace(/\{\{[^}]*\}\}/g, "").replace(/\s+/g, " ").trim(); out.push(s); n += s.length; } return; }
+      if (Array.isArray(v)) { v.forEach(function (x) { walk(x, k); }); return; }
+      if (v && typeof v === "object") Object.keys(v).forEach(function (kk) { walk(v[kk], kk); });
+    })(window.COURSE && window.COURSE[m.key], "");
+    return (modTextCache[m.key] = "Course: " + libName(m.library) + "\nModule: " + m.title + "\n\n" + out.join("\n").slice(0, 24000));
+  }
+  function tutorCall(mode, context, input) {
+    return fetch("/api/tutor", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ mode: mode, context: context, input: input }) })
+      .then(function (r) { return r.json(); })
+      .then(function (j) { if (!j.reply) throw new Error(j.error || "no reply"); return j.reply; });
+  }
+  function plainText(t) { return String(t || "").replace(/\*\*([^*]+)\*\*/g, "$1").replace(/^#{1,6}\s+/gm, "").replace(/^\s*[-*]\s+/gm, "• "); }
+  function parseMark(t) {
+    var s = String(t || ""), i = s.indexOf("{"), k = s.lastIndexOf("}");
+    if (i < 0 || k < i) return null;
+    try { var o = JSON.parse(s.slice(i, k + 1)); return o && o.verdict ? o : null; } catch (e) { return null; }
+  }
+  function tutorNote() { return prNote("AI tutor feedback, generated from this module's text. It can be wrong: check it against the lesson, and for safety rules go with the lesson."); }
+  function showMark(box, o, raw) {
+    box.textContent = "";
+    if (!o) { box.appendChild(h("pre", { style: "white-space:pre-wrap;font:inherit", text: plainText(raw) })); box.appendChild(tutorNote()); return; }
+    var ok = o.verdict === "pass";
+    box.appendChild(h("p", {}, h("strong", { text: (ok ? "Pass" : o.verdict === "cannot tell" ? "Cannot tell yet" : "Not yet") + (o.score != null ? " · " + o.score + " of 4" : "") }),
+      h("span", { class: "pill " + (ok ? "ok" : ""), style: "margin-left:.5rem", text: o.verdict })));
+    if (o.met && o.met.length) { box.appendChild(h("p", { class: "mono", style: "font-size:.85rem;margin:.3rem 0 0", text: "What you did well" })); box.appendChild(bullets(o.met)); }
+    if (o.missing && o.missing.length) { box.appendChild(h("p", { class: "mono", style: "font-size:.85rem;margin:.3rem 0 0", text: "What is missing" })); box.appendChild(bullets(o.missing)); }
+    if (o.fix_first) box.appendChild(h("p", {}, h("strong", { text: "Fix first: " }), o.fix_first));
+    if (o.safety) box.appendChild(h("p", { style: "color:var(--warn)" }, h("strong", { text: "Safety: " }), o.safety));
+    box.appendChild(tutorNote());
+  }
+  function tutorMark(m, c, isCap) {
+    var wk = "eda.work." + m.key + "." + c.id, mk = "eda.mark." + m.key + "." + c.id, val = "", prev = null;
+    try { val = localStorage.getItem(wk) || ""; prev = JSON.parse(localStorage.getItem(mk) || "null"); } catch (e) {}
+    var ta = h("textarea", { rows: "5", class: "reflect", "aria-label": "Your work for " + c.id, placeholder: "Describe or paste what you did: your plan, numbers, notes, what happened. Saved in this browser." }); ta.value = val;
+    ta.addEventListener("input", function () { try { localStorage.setItem(wk, ta.value); } catch (e) {} });
+    var out = h("div", { class: "ch", hidden: prev ? null : "hidden" });
+    if (prev) showMark(out, prev.o, prev.raw);
+    var btn = h("button", { class: "btn", type: "button", text: "Mark my work" });
+    btn.addEventListener("click", function () {
+      if (!ta.value.trim()) { out.hidden = false; out.textContent = "Write or paste your work first."; return; }
+      var d = (A.details || {})[m.key] || {};
+      var ctx = moduleText(m) + "\n\nTASK (" + (isCap ? "capstone criterion " : "challenge ") + c.id + (c.level ? ", " + c.level : "") + "): " + c.task +
+        "\nANSWER KEY: " + (c.key || "none") + (c.check ? "\nSELF-CHECK: " + c.check : "") + (d.pass ? "\nPASS CONDITION FOR THE MODULE: " + d.pass : "");
+      out.hidden = false; out.textContent = "Marking..."; btn.disabled = true;
+      tutorCall("mark", ctx, ta.value).then(function (raw) {
+        var o = parseMark(raw); showMark(out, o, raw); btn.disabled = false;
+        try { localStorage.setItem(mk, JSON.stringify({ o: o, raw: o ? "" : raw, d: today() })); } catch (e) {}
+        if (o) { local.push({ id: newId(), date: today(), library: m.library, module: m.key, kind: "Note", event: "Tutor marked " + (isCap ? "criterion " : "challenge ") + c.id + ": " + o.verdict + (o.score != null ? " (" + o.score + " of 4)" : ""), detail: o.fix_first || "" }); saveLocal(); refreshLedgerViews(); }
+      }).catch(function (e) { out.textContent = "The tutor could not answer: " + e.message; btn.disabled = false; });
+    });
+    return h("details", { class: "tutor", open: prev ? "open" : null }, h("summary", { text: "Get it marked by the AI tutor" }),
+      h("div", {}, ta, h("p", {}, btn), out));
+  }
+  function tutorHint(q, wrongIdx) {
+    var m = mv.key && modByKey(mv.key); if (!tutor.on || !m) return null;
+    var out = h("p", { class: "qwhy", hidden: "hidden" }), btn;
+    btn = h("button", { class: "btn ghost", type: "button", text: "Ask the tutor for a hint", onclick: function () {
+      var ctx = moduleText(m) + "\n\nQUESTION: " + q.q + "\nOPTIONS:\n" + q.o.map(function (o, i) { return (i + 1) + ". " + o; }).join("\n") +
+        "\nRIGHT OPTION (do not reveal it): " + (q.a + 1) + (q.w ? "\nWHY IT IS RIGHT (do not quote it): " + q.w : "");
+      out.hidden = false; out.textContent = "Thinking..."; btn.disabled = true;
+      tutorCall("hint", ctx, "I chose: " + wrongIdx.map(function (i) { return q.o[i]; }).join("; then ")).then(function (t) { out.textContent = "Tutor hint: " + plainText(t); })
+        .catch(function (e) { out.textContent = "The tutor could not answer: " + e.message; btn.disabled = false; });
+    } });
+    return h("div", {}, btn, out);
+  }
+  function tutorAsk(m) {
+    var out = h("div", { class: "ch", hidden: "hidden" });
+    var inp = h("textarea", { rows: "2", class: "reflect", "aria-label": "Your question for the tutor", placeholder: "Ask about anything in this module" });
+    var btn = h("button", { class: "btn", type: "button", text: "Ask" });
+    btn.addEventListener("click", function () {
+      if (!inp.value.trim()) return;
+      out.hidden = false; out.textContent = "Thinking..."; btn.disabled = true;
+      tutorCall("ask", moduleText(m), inp.value).then(function (t) { out.textContent = ""; out.appendChild(h("p", { style: "white-space:pre-wrap", text: plainText(t) })); out.appendChild(tutorNote()); btn.disabled = false; })
+        .catch(function (e) { out.textContent = "The tutor could not answer: " + e.message; btn.disabled = false; });
+    });
+    return h("div", { class: "chl" }, inp, h("p", {}, btn), out);
+  }
+  function tutorExplain(m) {
+    var ek = "eda.explain." + m.key, val = "";
+    try { val = localStorage.getItem(ek) || ""; } catch (e) {}
+    var out = h("div", { class: "ch", hidden: "hidden" });
+    var ta = h("textarea", { rows: "5", class: "reflect", "aria-label": "Your explanation", placeholder: "Explain the main idea of this module as if to a friend who has never met it. Saved in this browser." });
+    ta.value = val;
+    ta.addEventListener("input", function () { try { localStorage.setItem(ek, ta.value); } catch (e) {} });
+    var btn = h("button", { class: "btn", type: "button", text: "Explain it back to the tutor" });
+    btn.addEventListener("click", function () {
+      if (!ta.value.trim()) { out.hidden = false; out.textContent = "Write your explanation first."; return; }
+      out.hidden = false; out.textContent = "Listening..."; btn.disabled = true;
+      tutorCall("explain", moduleText(m), ta.value).then(function (t) {
+        out.textContent = ""; out.appendChild(h("p", { style: "white-space:pre-wrap", text: plainText(t) })); out.appendChild(tutorNote()); btn.disabled = false;
+      }).catch(function (e) { out.textContent = "The tutor could not answer: " + e.message; btn.disabled = false; });
+    });
+    return h("div", { class: "chl" }, ta, h("p", {}, btn), out);
+  }
   function prChallenge(m, c, cs, isCap) {
     var x = h("input", { type: "checkbox", style: "width:auto" });
     x.checked = !!cs[c.id];
@@ -1410,7 +1453,8 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
       h("p", { text: c.task }),
       h("details", {}, h("summary", { text: isCap ? "What passes" : "Answer key and self-check" }),
         h("div", {}, h("p", {}, h("strong", { text: isCap ? "Passing result: " : "Answer key: " }), c.key),
-          c.check ? h("p", {}, h("strong", { text: "Self-check: " }), c.check) : null)));
+          c.check ? h("p", {}, h("strong", { text: "Self-check: " }), c.check) : null)),
+      tutor.on ? tutorMark(m, c, isCap) : null);
   }
   function prLadder(steps) {
     var box = h("div", { class: "pr-ladder" });
@@ -1539,7 +1583,12 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
 
     /* 1. Warm up: the foundations, checked before the method. */
     var warm = [];
-    if (ln.pretest && ln.pretest.length) warm.push(prSub("Check what you know first", [prLearnQs(ln.pretest, mv.pre), prNote("Not graded. Expect to miss some. A wrong guess now makes the right answer stick when it arrives.")]));
+    var preList = preItems(m);
+    if (preList.length) {
+      var preSaved = maybeLogPre(m, preList);
+      warm.push(prSub("Check what you know first", [prLearnQs(preList, mv.pre), prNote("Not graded. Expect to miss some. A wrong guess now makes the right answer stick when it arrives."),
+        preSaved != null ? prNote("Baseline saved: " + preSaved + "% on the first try. The Learning gain table in the Data section compares it with your quiz.") : prNote("Your first complete attempt is saved as a baseline, so answer from what you know now.")]));
+    }
     if (ln.words && ln.words.length) warm.push(prSub("Word check", [prDetails(ln.words), prNote("Say each meaning in your own words before you read on. If you cannot, look it up first.")]));
     if (ln.base && ln.base.length) warm.push(prSub("Step check: is the step beneath this secure?", [prDetails(ln.base), prNote("If you cannot answer one of these, go back to the earlier module first.")]));
     prAdd(root, prStep(1, "Warm up", "Check the foundations first. Misses here show you what to watch for.", warm));
@@ -1580,6 +1629,8 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
       apply.push(prSub("Ask " + nm + " to review your work", [prReview(m, OV, lc, nm)]));
       apply.push(prSub("Where did you get stuck?", [prStuck(m)]));
     }
+    if (tutor.on) apply.push(prSub("Explain it back", [tutorExplain(m), prNote("Write it in your own words first. The tutor asks questions; it does not write the explanation for you.")]));
+    if (tutor.on) apply.push(prSub("Ask the AI tutor", [tutorAsk(m), prNote("Answers come from this module's text. The tutor says when the lesson does not cover something.")]));
     prAdd(root, prStep(6, "Apply and reflect", "Use it outside the course, then get it checked.", apply));
 
     return root;
@@ -1704,6 +1755,62 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
     saveLocal(); renderAll();
   }
   function quizMetric(m) { return "Quiz score · Module " + m.number; }
+  /* Learning gain: the first complete pre-check is the baseline (saved once, never overwritten), the best first-try quiz is the result. */
+  function preMetric(m) { return "Pre-check score · " + (m.kind === "capstone" ? "Capstone" : "Module " + m.number); }
+  function baselinePre(m) {
+    var name = preMetric(m), first = null;
+    local.forEach(function (e) { if (first == null && e.library === m.library && e.module === m.key && e.kind === "Measurement" && e.metric === name && isFinite(Number(e.value))) first = Number(e.value); });
+    return first;
+  }
+  function maybeLogPre(m, pretest) {
+    var have = baselinePre(m);
+    if (have != null) return have;
+    var qs = pretest.map(function (q) { return rq(q, today()); }), S = mv.pre;
+    var answered = qs.every(function (q, i) { return S[i] === q.a || S["r" + i]; });
+    if (!answered) return null;
+    var first = qs.filter(function (q, i) { return S[i] === q.a && !(S["w" + i] || []).length && !S["r" + i]; }).length, pct = Math.round(first / qs.length * 100);
+    local.push({ id: newId(), date: today(), library: m.library, module: m.key, kind: "Measurement", event: preMetric(m), metric: preMetric(m), value: pct, unit: "%", detail: first + " of " + qs.length + " correct on the first try (baseline)" });
+    saveLocal(); setTimeout(refreshLedgerViews, 0);
+    return pct;
+  }
+  function gainBand(g) { return g == null ? "" : g >= 0.7 ? "high" : g >= 0.3 ? "medium" : g > 0 ? "low" : "no gain"; }
+  function renderGain() {
+    var wrap = $("gain-wrap"); if (!wrap) return; wrap.textContent = "";
+    var mods = A.modules.filter(function (m) { return m.kind === "module" && (!cur || m.library === cur); });
+    var rows = [], pairs = [], tot = { w7: 0, n7: 0, w30: 0, n30: 0 };
+    mods.forEach(function (m) {
+      var pre = baselinePre(m), post = null, qn = quizMetric(m), g = null;
+      local.forEach(function (e) { if (e.library === m.library && e.kind === "Measurement" && e.metric === qn && isFinite(Number(e.value))) post = post == null ? Number(e.value) : Math.max(post, Number(e.value)); });
+      if (pre != null && post != null) { g = pre >= 100 ? null : (post - pre) / (100 - pre); pairs.push({ pre: pre, post: post, g: g }); }
+      var rt = retentionFor(m); tot.w7 += rt.w7; tot.n7 += rt.n7; tot.w30 += rt.w30; tot.n30 += rt.n30;
+      if (pre != null || post != null || rt.n7) rows.push({ m: m, pre: pre, post: post, g: g, rt: rt });
+    });
+    if (!rows.length) { wrap.appendChild(h("p", { class: "empty", text: "No scores yet. Finish a module's pre-check, then take and save its quiz, and the gain appears here. Recall builds as you do the daily review." })); return; }
+    function pc(v) { return v == null ? "—" : Math.round(v) + "%"; }
+    function rc(w, n) { return n ? Math.round(w / n * 100) + "% of " + n : "—"; }
+    function gs(g) { return g == null ? "—" : g.toFixed(2) + " (" + gainBand(g) + ")"; }
+    var t = h("table", {}, h("thead", {}, h("tr", {}, h("th", { text: "Module" }), h("th", { class: "num", text: "Pre-check" }), h("th", { class: "num", text: "Best quiz" }),
+      h("th", { class: "num", text: "Gain" }), h("th", { class: "num", text: "Normalised gain" }), h("th", { class: "num", text: "Recall after 7+ days" }), h("th", { class: "num", text: "Recall after 30+ days" }))));
+    var tb = h("tbody");
+    rows.forEach(function (r) {
+      var d = r.pre != null && r.post != null ? Math.round(r.post - r.pre) : null;
+      tb.appendChild(h("tr", {}, h("td", { text: (cur ? "" : libName(r.m.library) + " · ") + "Module " + r.m.number + " · " + r.m.title }), h("td", { class: "num", text: pc(r.pre) }), h("td", { class: "num", text: pc(r.post) }),
+        h("td", { class: "num", text: d == null ? "—" : (d > 0 ? "+" : "") + d + " pts" }), h("td", { class: "num", text: gs(r.g) }),
+        h("td", { class: "num", text: rc(r.rt.w7, r.rt.n7) }), h("td", { class: "num", text: rc(r.rt.w30, r.rt.n30) })));
+    });
+    if (pairs.length) {
+      var gv = pairs.filter(function (p) { return p.g != null; }).map(function (p) { return p.g; });
+      var mPre = mean(pairs.map(function (p) { return p.pre; })), mPost = mean(pairs.map(function (p) { return p.post; })), mG = gv.length ? mean(gv) : null;
+      tb.appendChild(h("tr", { style: "font-weight:600" }, h("td", { text: "Average over " + pairs.length + " module" + (pairs.length === 1 ? "" : "s") + " with both scores" }),
+        h("td", { class: "num", text: pc(mPre) }), h("td", { class: "num", text: pc(mPost) }), h("td", { class: "num", text: (mPost - mPre > 0 ? "+" : "") + Math.round(mPost - mPre) + " pts" }), h("td", { class: "num", text: gs(mG) }),
+        h("td", { class: "num", text: rc(tot.w7, tot.n7) }), h("td", { class: "num", text: rc(tot.w30, tot.n30) })));
+    } else if (tot.n7) {
+      tb.appendChild(h("tr", { style: "font-weight:600" }, h("td", { text: "All modules" }), h("td"), h("td"), h("td"), h("td"),
+        h("td", { class: "num", text: rc(tot.w7, tot.n7) }), h("td", { class: "num", text: rc(tot.w30, tot.n30) })));
+    }
+    t.appendChild(tb); wrap.appendChild(t);
+    wrap.appendChild(h("p", { class: "empty", text: "Normalised gain is the share of what you did not know at the start that you got right by the end: (quiz − pre-check) ÷ (100 − pre-check). Hake (1998) calls under 0.3 low, 0.3 to 0.7 medium and over 0.7 high. Five lesson checks in each module are asked in both the pre-check and the quiz, so the two scores share ground, but the rest of each test differs: treat the gain as a guide. Recall columns show review answers given at least 7 or 30 days after you last answered that card: how much stays with you, not just what you knew on the day. Pre-check and quiz scores are in the ledger and go out with the CSV and JSON exports." }));
+  }
   function bestQuiz(m) {
     var best = null, name = quizMetric(m);
     allEntries().forEach(function (e) { if (e.kind === "Measurement" && e.metric === name && isFinite(Number(e.value))) best = best == null ? Number(e.value) : Math.max(best, Number(e.value)); });
@@ -1727,7 +1834,7 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
     var first = qz.filter(function (q, i) { return A_[i] === q.a && !(A_["w" + i] || []).length; }).length, fin = qz.filter(function (q, i) { return A_[i] === q.a; }).length, pct = Math.round(first / qz.length * 100);
     var row = h("div", { class: "row mv-ctl" }, h("strong", { text: "First try: " + first + " of " + qz.length + " (" + pct + "%). After retries: " + fin + " of " + qz.length + "." }));
     row.appendChild(h("button", { class: "btn", type: "button", disabled: mv.quiz.saved ? "disabled" : null, text: mv.quiz.saved ? "Saved to ledger" : "Save first-try score to ledger",
-      onclick: function () { mv.quiz.saved = true; qz.forEach(function (q, i) { srsGradeId(m.key + ":q" + i, A_[i] === q.a && !(A_["w" + i] || []).length); }); logMetric(m, quizMetric(m), pct, "%", first + " of " + qz.length + " correct on the first try"); renderModuleView(); } }));
+      onclick: function () { mv.quiz.saved = true; var nb = ((A.quiz || {})[m.key] || []).length; qz.forEach(function (q, i) { srsGradeId(m.key + (i < nb ? ":q" + i : ":k" + (i - nb)), A_[i] === q.a && !(A_["w" + i] || []).length); }); logMetric(m, quizMetric(m), pct, "%", first + " of " + qz.length + " correct on the first try"); renderModuleView(); } }));
     row.appendChild(h("button", { class: "btn ghost", type: "button", text: "Retake all", onclick: function () { mv.quiz = { a: {}, saved: false, seed: String(Date.now()) }; renderModuleView(); } }));
     body.appendChild(row);
     if (pct < 100) body.appendChild(h("p", { class: "empty", text: "Review the Learn tab for any you missed, then retake. Saved scores build a series in the Data section." }));
@@ -1846,6 +1953,7 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
   function notePos(key, i) {
     try {
       localStorage.setItem("eda.pos." + key, String(i));
+      localStorage.setItem("eda.when." + key, String(Date.now()));
 
     } catch (e) {}
   }
@@ -1963,7 +2071,7 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
     } else if (mv.tab === "practice") {
       body.appendChild(practiceTab(m, d, isCap, cs));
     } else if (mv.tab === "quiz" && qz) {
-      renderQuiz(body, m, qz);
+      renderQuiz(body, m, quizItems(m));
     } else if (mv.tab === "tools" && toolFor(m)) {
       toolFor(m)(body, m);
     } else if (mv.tab === "slides" && dk) {
@@ -2330,9 +2438,90 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
     var t = $("home-tiles"); t.textContent = "";
     [[tot.courses, "Courses"], [tot.modules, "Modules"], [tot.slides, "Slides"], [tot.entries, "Ledger entries"]].forEach(function (x) { t.appendChild(h("div", { class: "tile" }, h("div", { class: "num", text: String(x[0]) }), h("div", { class: "lab", text: x[1] }))); });
     $("home-take").textContent = tot.courses + (tot.courses === 1 ? " course" : " courses") + " in the library. Open one to learn from its slides, log your work and track your progress.";
+    renderContinue(); renderBackupCard();
     renderFaq($("home-faq"), (window.COURSE_FAQ || {}).library);
     $("home-stamp").textContent = "Library data updated " + fmtDate(FULL.updated) + ". " + local.length + " ledger entries stored in this browser.";
   }
+  /* Continue card: the most recently visited modules that are not complete, at the slide last reached. */
+  function renderContinue() {
+    var box = $("continue-list"), sec = $("home-continue"), done = doneSet(), rows = [];
+    try {
+      for (var i = 0; i < localStorage.length; i++) {
+        var k = localStorage.key(i);
+        if (k.indexOf("eda.pos.") !== 0) continue;
+        var key = k.slice("eda.pos.".length), pos = Number(localStorage.getItem(k)) || 0, m = modByKey(key);
+        if (!m || done[key] || pos <= 0) continue;
+        rows.push({ m: m, pos: pos, when: Number(localStorage.getItem("eda.when." + key)) || 0 });
+      }
+    } catch (e) {}
+    rows.sort(function (a, b) { return b.when - a.when; });
+    rows = rows.slice(0, 3);
+    box.textContent = ""; sec.hidden = !rows.length;
+    rows.forEach(function (r) {
+      var n = slideCount(r.m.key), at = Math.min(r.pos, Math.max(n - 1, 0)) + 1;
+      var btn = h("button", { class: "lsearch-row", type: "button" },
+        h("span", { class: "lsearch-course", text: libName(r.m.library) }),
+        h("span", { class: "lsearch-title", text: r.m.title }),
+        h("span", { class: "lsearch-snip", text: "Resume at slide " + at + (n ? " of " + n : "") }));
+      btn.addEventListener("click", function () { window.LOA_openModule(r.m.key); });
+      box.appendChild(btn);
+    });
+  }
+  /* Backup nudge: says when the last "Back up everything" was made, and warns when progress exists but no recent backup. */
+  function renderBackupCard() {
+    var st = $("backup-status"), last = "", n = 0;
+    try {
+      last = localStorage.getItem("eda.backup.at") || "";
+      n = Object.keys(localStorage).filter(function (k) { return k.indexOf("eda.") === 0 && k.indexOf("eda.backup.") !== 0; }).length;
+    } catch (e) {}
+    var d = last ? new Date(last) : null, days = d ? Math.floor((Date.now() - d.getTime()) / 86400000) : null;
+    if (!n) { st.textContent = "Nothing is saved in this browser yet."; st.style.color = "var(--muted)"; return; }
+    if (!d || isNaN(days)) { st.textContent = "You have saved progress here but have never made a backup."; st.style.color = "var(--warn)"; return; }
+    st.textContent = "Last backup " + d.toLocaleDateString("en-GB") + (days === 0 ? " (today)." : " (" + days + " days ago).") + (days > 14 ? " Back up again soon." : "");
+    st.style.color = days > 14 ? "var(--warn)" : "var(--muted)";
+  }
+  /* Glossary: every "terms" block in every lesson, merged by term, A to Z. Built the first time the section opens. */
+  var glossAll = null;
+  function buildGlossary() {
+    var map = {}, C = window.COURSE || {};
+    Object.keys(C).forEach(function (key) {
+      var c = C[key], m = modByKey(key);
+      if (!m || !c || !c.lessons) return;
+      c.lessons.forEach(function (les) {
+        (les.blocks || []).forEach(function (b) {
+          if (b.t !== "terms" || !b.i) return;
+          b.i.forEach(function (pair) {
+            var t = String(pair[0] || "").trim(), def = String(pair[1] || "").trim(), k = t.toLowerCase();
+            if (!t) return;
+            if (!map[k]) map[k] = { term: t, def: def, refs: [] };
+            if (!map[k].refs.some(function (r) { return r.key === key; })) map[k].refs.push({ key: key, label: libName(m.library) + " · " + m.title });
+          });
+        });
+      });
+    });
+    return Object.keys(map).map(function (k) { return map[k]; }).sort(function (a, b) { return a.term.localeCompare(b.term, "en"); });
+  }
+  function renderGlossary() {
+    var list = $("gloss-list"), q = ($("gloss-q").value || "").trim().toLowerCase();
+    if (!glossAll) glossAll = buildGlossary();
+    $("gloss-count").textContent = glossAll.length + " terms";
+    list.textContent = "";
+    var shown = glossAll.filter(function (g) { return !q || g.term.toLowerCase().indexOf(q) !== -1 || g.def.toLowerCase().indexOf(q) !== -1; });
+    var CAP = 300;
+    shown.slice(0, CAP).forEach(function (g) {
+      var row = h("div", { class: "gloss-row" }, h("strong", { text: g.term }), h("p", { text: g.def }));
+      g.refs.forEach(function (r) {
+        var b = h("button", { class: "btn ghost sm", type: "button", text: r.label });
+        b.addEventListener("click", function () { window.LOA_openModule(r.key); });
+        row.appendChild(b);
+      });
+      list.appendChild(row);
+    });
+    if (shown.length > CAP) list.appendChild(h("p", { class: "lsearch-count", text: "Showing " + CAP + " of " + shown.length + ". Type in the filter to narrow the list." }));
+    if (!shown.length) list.appendChild(h("p", { class: "lsearch-none", text: "No terms match." }));
+  }
+  $("gloss-dd").addEventListener("toggle", function () { if (this.open) renderGlossary(); });
+  $("gloss-q").addEventListener("input", function () { if ($("gloss-dd").open) renderGlossary(); });
   function renderFaq(box, items) {
     box.textContent = "";
     if (!items || !items.length) { box.hidden = true; return; }
@@ -2835,11 +3024,16 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
   $("b-json").addEventListener("click", function () { download("education-ledger.json", "application/json", JSON.stringify(local, null, 2)); });
   $("b-csv").addEventListener("click", exportCsv);
   /* Full backup: every "eda." key in this browser (ledger, review schedule, notes, ticks, slide positions) for all courses. */
-  $("b-backup").addEventListener("click", function () {
+  function backupAll() {
     var keys = {};
-    try { Object.keys(localStorage).forEach(function (k) { if (k.indexOf("eda.") === 0) keys[k] = localStorage.getItem(k); }); } catch (e) {}
-    download("loa-backup-" + today() + ".json", "application/json", JSON.stringify({ app: "loa-backup", version: 1, saved: new Date().toISOString(), keys: keys }, null, 1));
-  });
+    try { Object.keys(localStorage).forEach(function (k) { if (k.indexOf("eda.") === 0 && k.indexOf("eda.backup.") !== 0) keys[k] = localStorage.getItem(k); }); } catch (e) {}
+    var now = new Date().toISOString();
+    download("loa-backup-" + today() + ".json", "application/json", JSON.stringify({ app: "loa-backup", version: 1, saved: now, keys: keys }, null, 1));
+    try { localStorage.setItem("eda.backup.at", now); } catch (e) {}
+    renderBackupCard();
+  }
+  $("b-backup").addEventListener("click", backupAll);
+  $("home-backup-btn").addEventListener("click", backupAll);
   /* Restores a "Back up everything" file. Used by the Ledger button in a course and by the Import a save section on the home page. */
   function restoreBackup(f) {
     if (!f) return;
@@ -2875,7 +3069,7 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
     saveLocal();
     try {
       Object.keys(localStorage).forEach(function (k) {
-        if (k.indexOf("eda.pos." + cur + "-") === 0 || k.indexOf("eda.refl." + cur + "-") === 0 || k === "eda.srs." + cur) localStorage.removeItem(k);
+        if (k.indexOf("eda.pos." + cur + "-") === 0 || k.indexOf("eda.refl." + cur + "-") === 0 || k === "eda.srs." + cur || k === "eda.retlog." + cur) localStorage.removeItem(k);
       });
     } catch (e) {}
     srsSess = null;
@@ -2899,6 +3093,15 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
   window.addEventListener("resize", function () { clearTimeout(rz); rz = setTimeout(refitAll, 120); });
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(refitAll);
   renderHome();
+  /* Used by the library search (shared/archive-search.js) to open a course or a module. */
+  window.LOA_openCourse = openCourse;
+  window.LOA_openModule = function (k) {
+    var m = modByKey(k);
+    if (!m) return;
+    if (FULL.libraries.some(function (l) { return l.id === m.library; })) openCourse(m.library);
+    openModule(m);
+  };
+  window.LOA_currentCourse = function () { return cur; };
   var m0 = /^#course=(.+)$/.exec(location.hash || "");
   if (m0 && FULL.libraries.some(function (l) { return l.id === decodeURIComponent(m0[1]); })) openCourse(decodeURIComponent(m0[1]));
   /* #bib=<module>&src=<source>: a citation on a slide opens this in a new tab, at that module's Bibliography entry. */

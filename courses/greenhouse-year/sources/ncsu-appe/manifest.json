@@ -1,0 +1,61 @@
+{
+ "key": "ncsu-appe",
+ "title": "Appendix E. Season Extenders and Greenhouses (NC State Extension)",
+ "author": "",
+ "file": "NC State Appendix E Season Extenders and Greenhouses.md",
+ "format": "md",
+ "sha256": "953cc1f96edce08042209f5ef1f011013c62405052a6d7ff9fc13bd4e95b80ed",
+ "words": 2866,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Appendix E. Season Extenders and Greenhouses, North Carolina Extension Gardener Handbook (",
+   "words": 143
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Cloches",
+   "words": 166
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Row Covers and Low Tunnels",
+   "words": 273
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Cold Frames and Hot Beds",
+   "words": 755
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "High Tunnels",
+   "words": 208
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Greenhouses",
+   "words": 1247
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Other Resources",
+   "words": 19
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Author",
+   "words": 55
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "NC State Appendix E Season Extenders and Greenhouses.md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.33,
+  "odd_character_share": 0.009
+ }
+}

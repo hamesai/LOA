@@ -29,6 +29,13 @@ def main():
             print("FAIL  %s: check_course.py exit %d" % (cid, r.returncode))
 
     html = (ROOT / "index.html").read_text(encoding="utf-8")
+    # When the course scripts are bundled, index.html names only the bundle; the course files are listed in the manifest.
+    sys.path.insert(0, str(ROOT / "_template"))
+    import bundle as bundle_mod
+    html += "\n" + "\n".join(bundle_mod.bundled_paths())
+    for p in bundle_mod.stale_problems():
+        problems += 1
+        print("FAIL  " + p)
     referenced = set(re.findall(r"courses/([a-z-]+)/", html))
     for cid in ids:
         if cid not in referenced:

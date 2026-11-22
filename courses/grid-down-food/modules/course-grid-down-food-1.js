@@ -364,7 +364,7 @@
     },
     {
      "t": "p",
-     "x": "After flooding, CDC gives 1 cup (240 mL) of unscented household bleach in 5 gallons of clean water for cans and non-food surfaces, and 1 tablespoon in 1 gallon for food-contact surfaces such as countertops and plates. Let items air dry. {{cdcfood}}"
+     "x": "After flooding, CDC gives one mix for dishes, utensils and food-contact surfaces such as countertops: 1 cup (240 mL) of unscented household bleach in 5 gallons of clean water. Soak items for 1 minute, fully covered, or wipe the solution on with a cloth, then let them air dry. {{cdcfood}}"
     },
     {
      "t": "p",

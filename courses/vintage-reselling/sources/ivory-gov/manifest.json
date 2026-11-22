@@ -1,0 +1,68 @@
+{
+ "key": "ivory-gov",
+ "title": "Deal in items made of or containing ivory (Defra, GOV.UK)",
+ "author": "",
+ "file": "GOV.UK Deal in items made of or containing ivory.md",
+ "format": "md",
+ "sha256": "e81d90383fc12204dc1bec6f26a14f6e3d9899a7375b9d22a4a37cfbc73bad1b",
+ "words": 3406,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Deal in items made of or containing ivory (Defra and APHA, GOV.UK guidance, last updated 2",
+   "words": 205
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "When you need to register or apply for an exemption",
+   "words": 301
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Check which exemption you need",
+   "words": 320
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Sets and groups of items",
+   "words": 233
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Check your item is eligible",
+   "words": 1224
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Start a registration or exemption certificate application",
+   "words": 326
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "After you’ve registered or applied for an exemption",
+   "words": 342
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Contact APHA",
+   "words": 50
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Updates to this page",
+   "words": 405
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (31% common English words, 1.6% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "GOV.UK Deal in items made of or containing ivory.md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.313,
+  "odd_character_share": 0.016
+ }
+}

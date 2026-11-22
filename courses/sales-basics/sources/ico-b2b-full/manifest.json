@@ -1,0 +1,33 @@
+{
+ "key": "ico-b2b-full",
+ "title": "Business-to-business marketing (ICO)",
+ "author": "",
+ "file": "ICO Business-to-business marketing.md",
+ "format": "md",
+ "sha256": "74aa649ad04ba2afe4f048e8853834f4d51ae29e17bec81d67c92e7bed611a33",
+ "words": 5405,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Business-to-business marketing (ICO)",
+   "words": 29
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "In brief",
+   "words": 5376
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (32% common English words, 1.8% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "ICO Business-to-business marketing.md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.317,
+  "odd_character_share": 0.018
+ }
+}

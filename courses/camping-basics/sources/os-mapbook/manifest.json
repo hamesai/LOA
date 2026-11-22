@@ -1,0 +1,33 @@
+{
+ "key": "os-mapbook",
+ "title": "Map reading made easy (Ordnance Survey)",
+ "author": "",
+ "file": "OS Map reading made easy.pdf",
+ "format": "pdf",
+ "sha256": "4dd5890692da4bc77811f6c39df84bb464428c29c01e5ba3974a3ef3bc259936",
+ "words": 2625,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 16",
+   "words": 2625,
+   "pages": [
+    1,
+    16
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks",
+  "text quality looks poor (28% common English words, 1.0% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "OS Map reading made easy.pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.282,
+  "odd_character_share": 0.01
+ }
+}

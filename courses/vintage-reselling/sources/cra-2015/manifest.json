@@ -1,0 +1,95 @@
+{
+ "key": "cra-2015",
+ "title": "Consumer Rights Act 2015 (as enacted)",
+ "author": "",
+ "file": "Consumer Rights Act 2015 (as enacted).pdf",
+ "format": "pdf",
+ "sha256": "ad70fae65c884b8ffd51159a466ab4310fde574796e52bbfbbb3cb1cc88bee36",
+ "words": 63322,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 20",
+   "words": 7631,
+   "pages": [
+    1,
+    20
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Pages 21 to 40",
+   "words": 9753,
+   "pages": [
+    21,
+    40
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Pages 41 to 60",
+   "words": 9043,
+   "pages": [
+    41,
+    60
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Pages 61 to 80",
+   "words": 7924,
+   "pages": [
+    61,
+    80
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Pages 81 to 100",
+   "words": 8274,
+   "pages": [
+    81,
+    100
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Pages 101 to 120",
+   "words": 8043,
+   "pages": [
+    101,
+    120
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Pages 121 to 140",
+   "words": 8508,
+   "pages": [
+    121,
+    140
+   ]
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Pages 141 to 150",
+   "words": 4146,
+   "pages": [
+    141,
+    150
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "Consumer Rights Act 2015 (as enacted).pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.361,
+  "odd_character_share": 0.002
+ }
+}

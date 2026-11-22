@@ -40,6 +40,10 @@
      "x": "A healthy gas flame has a blue base with a slight orange tip. A mostly orange flame signals a malfunction or poor oxygen supply and produces more carbon monoxide. {{bmc}} Place the stove on a stable, level, non-flammable surface away from dry grass and your tent, and keep a close eye on it. {{soac}}"
     },
     {
+     "t": "p",
+     "x": "Camp stove accidents are one of the most common causes of burns outdoors, so set the stove on ground as flat and secure as you can find and wear closed-toe shoes around it. Module 6 covers burn first aid. {{aerie-burn}}"
+    },
+    {
      "t": "fig",
      "id": "camping-basics-flame",
      "title": "Reading a stove flame",
@@ -147,6 +151,10 @@
     {
      "t": "p",
      "x": "Carbon monoxide is a colourless, tasteless, odourless, non-irritating gas. {{nid-co}} It can build up to deadly levels in enclosed spaces, including tent awnings. {{nid-co}} Any stove that burns fuel produces some. {{bmc}}"
+    },
+    {
+     "t": "p",
+     "x": "It is so dangerous because blood takes up carbon monoxide over 200 times more readily than oxygen, and a healthy person can take more than four hours to clear it. Rescuers can be overcome within minutes, so protect yourself first: open the tent from outside and get everyone into fresh air. Suspect it when several people in a confined space become confused or unwell together. {{aerie-co}}"
     },
     {
      "t": "fig",
@@ -281,7 +289,41 @@
     },
     {
      "t": "p",
-     "x": "Boiling is the best way to kill germs, and the next best option is to filter and then disinfect. {{cdc}} 6,500 feet is about 1,980 m. Our inference: no UK or Irish campsite is that high, so a minute's rolling boil applies. Check the elevation figure against your own location."
+     "x": "Boiling is the best way to kill germs, and the next best option is to filter and then disinfect. {{cdc}} The CDC travel-health chapter explains why a minute is plenty: every organism that causes illness from water dies within seconds at boiling, and even at about 4,900 m water still boils at about 83°C, well above what kills gut germs. If fuel is short, bring the water to the first simmer, take it off the heat and keep it covered for 30 minutes. {{cdc-yb-heat}}"
+    },
+    {
+     "t": "h",
+     "x": "Filters and chemicals: what the labels hide"
+    },
+    {
+     "t": "p",
+     "x": "Most pocket filters are microfilters, with holes under 1 micron. They catch bacteria and the parasites Giardia and Cryptosporidium, but not viruses such as norovirus. Only an ultrafilter, around 0.01 micron, also stops viruses. Makers test their own 'purifier' claims; nobody checks them independently. {{cdc-yb-heat}}"
+    },
+    {
+     "t": "p",
+     "x": "Chlorine and iodine kill bacteria and viruses, and Giardia with a longer wait, but barely touch Cryptosporidium. Chlorine dioxide does kill it, though it can take several hours. Cloudy water weakens every chemical, so let it settle or strain it first. Avoid iodine for more than a few weeks, in pregnancy, or with thyroid problems. {{cdc-yb-heat}}"
+    },
+    {
+     "t": "p",
+     "x": "Match the method to the source. Water with little human or animal activity above it can be treated with any one method. Clear water below grazing cattle or a village needs boiling, UV, a microfilter plus chlorine, or an ultrafilter. Cloudy water needs settling first, then a second step. Practise with your kit before the trip. {{cdc-yb-choose}}"
+    },
+    {
+     "t": "p",
+     "x": "Two limits to remember: boiling kills germs but does not remove farm chemicals or pesticides washed into a stream, and chemical tablets work more slowly in cold water and in water carrying debris. {{aerie-water}} Choose a source above farmland where you can, and strain cloudy water first."
+    },
+    {
+     "t": "check",
+     "q": "You fill up from a clear stream below fields of grazing cattle and carry only a microfilter and chlorine tablets. What does the CDC Yellow Book advise?",
+     "o": [
+      "Filter it once and drink it straight away",
+      "Use chlorine alone, since it kills every germ in a few minutes",
+      "Filter it, then treat it with chlorine as well",
+      "Drink it untreated, because running water cleans itself",
+      "Strain it through a cloth, which is enough for clear water"
+     ],
+     "a": 2,
+     "w": "Water near human or animal activity needs a microfilter plus a chemical, or heat, UV or an ultrafilter; chlorine alone misses Cryptosporidium and a microfilter alone misses viruses. {{cdc-yb-choose}}",
+     "kind": "application"
     },
     {
      "t": "callout",
@@ -356,6 +398,10 @@
     {
      "t": "p",
      "x": "Camp food needs planning because your fridge is a cool box. The UK Food Standards Agency (FSA) says to take extra care with ready-to-eat foods such as cooked meat, eggs and dairy. Keep ready-to-eat and raw foods apart in sealed containers. {{fsa}} Food should be stored below 5 °C. {{fsa}}"
+    },
+    {
+     "t": "p",
+     "x": "The Scottish Code adds a site rule: avoid eating in fields where farm animals are, or have recently been, or that have just been spread with lime or slurry, and take every food scrap and wrapper away, because animals may eat them and spread disease. {{soac-p5b}}"
     },
     {
      "t": "fig",

@@ -199,3 +199,27 @@ ol.road { margin: 0; padding-left: 1.5rem; display: grid; gap: 0.5rem; }
 .dbody > p, .dbody > ul, .dbody > ol, .dbody > div { margin-top: 0.5rem; }
 .dbody > summary + * { margin-top: 0.2rem; }
 .dall { justify-self: start; margin-top: 0.4rem; }
+
+/* Library search (home page). */
+.lsearch input[type="search"] { max-width: 42rem; margin-top: 0.75rem; }
+#lsearch-out { margin-top: 0.75rem; max-width: 60rem; }
+.lsearch-count, .lsearch-none { color: var(--muted); font-size: 0.9rem; margin: 0.25rem 0 0.5rem; }
+.lsearch-list { display: grid; gap: 0.5rem; }
+.lsearch-row { display: grid; gap: 0.2rem; text-align: left; width: 100%; background: var(--bg); color: var(--ink); border: 1px solid var(--line); border-left: 3px solid var(--accent); border-radius: 6px; padding: 0.6rem 0.8rem; cursor: pointer; }
+.lsearch-row:hover, .lsearch-row:focus-visible { border-color: var(--accent); outline: none; }
+.lsearch-course { font: 600 0.72rem var(--f-mono); color: var(--accent); text-transform: uppercase; letter-spacing: 0.04em; }
+.lsearch-title { font-weight: 600; }
+.lsearch-mod { color: var(--muted); font-size: 0.85rem; }
+.lsearch-snip { color: var(--muted); font-size: 0.88rem; line-height: 1.45; }
+.lsearch mark, .lsearch-row mark { background: color-mix(in srgb, var(--accent) 28%, transparent); color: inherit; border-radius: 3px; padding: 0 2px; }
+.sr-only-h { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.csearch { margin: 0.5rem 0 1rem; }
+.csearch input[type="search"] { max-width: 36rem; }
+
+/* Home: continue card, backup card, glossary. */
+.continue, .backup-card, .glossary { margin: 1.25rem 0; }
+.continue .lsearch-list { max-width: 60rem; }
+.gloss-row { border-bottom: 1px solid var(--line); padding: 0.6rem 0; display: grid; gap: 0.25rem; }
+.gloss-row p { color: var(--muted); font-size: 0.92rem; line-height: 1.45; margin: 0; }
+.glossary input[type="search"] { max-width: 28rem; margin: 0.5rem 0; }
+#gloss-list { max-height: 70vh; overflow: auto; }

@@ -371,7 +371,7 @@
     },
     {
      "t": "p",
-     "x": "The widely cited International Rescue Committee figure of about 5.4 million excess deaths has been criticised for method. Fighting in the east continues [check current]. {{bbc-drc-2010}} {{cfr-drc}}"
+     "x": "The widely cited International Rescue Committee figure of about 5.4 million excess deaths has been criticised for method. Fighting in the east continues. {{bbc-drc-2010}} {{cfr-drc}} By 18/11/2026 the army was fighting the Front for the Refoundation of the Nation (FRN), a coalition led by former president Joseph Kabila that took over from the AFC/M23 alliance, despite the Washington and Doha peace processes [check current]. {{aj-drc-2026}}"
     },
     {
      "t": "callout",
@@ -590,7 +590,7 @@
     },
     {
      "t": "p",
-     "x": "In September 2026 Kiir dissolved the transitional government; Machar is detained and on trial, and elections are scheduled for 22/12/2026 [check current]. {{ap-southsudan-2026}} {{crs-southsudan-2026}}"
+     "x": "In September 2026 Kiir dissolved the transitional government, and Machar is detained and on trial. {{ap-southsudan-2026}} {{crs-southsudan-2026}} On 14/11/2026 the election commission postponed the first national elections again, moving polling from 22/12/2026 to 11/02/2027 [check current]. {{ap-southsudan-nov2026}}"
     },
     {
      "t": "h",
@@ -610,7 +610,7 @@
     },
     {
      "t": "p",
-     "x": "Military takeovers since 2020 in Mali, Burkina Faso and Niger, and in Guinea and Gabon, have challenged AU norms and regional bodies [check current]. {{iss-coups-2023}}"
+     "x": "Military takeovers since 2020 in Mali, Burkina Faso and Niger, and in Guinea and Gabon, have challenged AU norms and regional bodies. {{iss-coups-2023}} Soldiers then took power in Madagascar on 14/10/2025 and in Guinea-Bissau on 26/11/2025, and a coup attempt in Benin on 07/12/2025 failed; one count gives 11 military takeovers in Africa since 2020 [check current]. {{aa-coups-2025}}"
     },
     {
      "t": "example",
@@ -619,6 +619,7 @@
       "As of 30/10/2026, South Sudan's elections were scheduled for 22/12/2026 [check current].",
       "From 30/10/2026 to 22/12/2026 is 53 days (1 day to the end of October plus 30 days of November plus 22 days of December).",
       "A scheduled date 53 days away may move; treat it as 'scheduled' and not as 'will happen'.",
+      "It did move: on 14/11/2026 the commission set polling for 11/02/2027 instead. {{ap-southsudan-nov2026}}",
       "Label each present-tense sentence with its date and [check current]."
      ]
     },

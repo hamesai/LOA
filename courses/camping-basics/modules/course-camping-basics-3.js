@@ -426,6 +426,14 @@
      "x": "Hypothermia is a dangerous drop in body temperature below 35 °C, against a normal 37 °C. It is a medical emergency that needs hospital treatment. {{nhs-hypo}} Symptoms include shivering, pale, cold and dry skin, slurred speech, slow breathing, tiredness or confusion. {{nhs-hypo}} Causes include too few clothes in the cold, staying out too long, falling into cold water, and wet clothes. {{nhs-hypo}}"
     },
     {
+     "t": "p",
+     "x": "In the field you judge how serious it is by alertness, movement and shivering, because a thermometer is rarely to hand. Someone who is shivering but alert and moving normally is cold-stressed, not yet hypothermic. Mild hypothermia adds hard shivering, clumsiness, poor decisions and not caring. When shivering weakens or stops and the person turns drowsy, it is moderate or worse. {{aerie-hypo}}"
+    },
+    {
+     "t": "p",
+     "x": "Most people who feel cold are not hypothermic, but the danger is that early signs get ignored while the group pushes on. Being dehydrated, exhausted, underfed or drinking alcohol all make it more likely. {{aerie-hypo}}"
+    },
+    {
      "t": "table",
      "title": "What the NHS says to do while waiting for help",
      "head": [
@@ -451,6 +459,40 @@
       ]
      ],
      "src": "{{nhs-hypo}}"
+    },
+    {
+     "t": "h",
+     "x": "Warming a cold camper"
+    },
+    {
+     "t": "p",
+     "x": "For a cold-stressed camper: get out of the wind, put on dry layers, give high-calorie food and a warm drink, then let them move about. For mild hypothermia, handle them gently and have them sit or lie down for at least 30 minutes. Give food or drink only while they are fully alert, and get help if there is no improvement after 30 minutes. {{aerie-hypo}}"
+    },
+    {
+     "t": "p",
+     "x": "Build a hypothermia wrap from camp kit: a sleeping pad underneath, a plastic or foil layer, a sleeping bag covering the head, and a windproof outer layer. Wrapped warm bottles on the upper chest, sides and back add heat, but never against bare skin, because cold skin burns easily. If shelter is more than 30 minutes away, take off wet clothing before wrapping; if it is closer, wrap straight away. {{aerie-hypo}}"
+    },
+    {
+     "t": "h",
+     "x": "Wet feet: trench foot"
+    },
+    {
+     "t": "p",
+     "x": "Days of cold, wet feet can cause trench foot, a non-freezing injury, though symptoms rarely appear in under 4 days. Dry your feet every night and keep one pair of dry socks only for sleeping. {{aerie-cold}}"
+    },
+    {
+     "t": "check",
+     "q": "A friend is shivering hard, fumbling with the tent zip and has stopped caring about getting dry, but is still talking sensibly. The car park is an hour away. What fits the guidance best?",
+     "o": [
+      "Walk them briskly to the car park to warm them up",
+      "Strip wet layers, wrap them, add wrapped heat",
+      "Rub their hands and feet hard to restart circulation",
+      "Put a hot bottle straight onto the bare skin of their chest",
+      "Give them a whisky to warm them from the inside"
+     ],
+     "a": 1,
+     "w": "Hard shivering, clumsiness and apathy suggest mild hypothermia. With shelter over 30 minutes away, take off wet clothing, wrap them and add wrapped heat to the upper body, then reassess after 30 minutes. {{aerie-hypo}} Do not rub limbs or give alcohol. {{nhs-hypo}}",
+     "kind": "application"
     },
     {
      "t": "callout",

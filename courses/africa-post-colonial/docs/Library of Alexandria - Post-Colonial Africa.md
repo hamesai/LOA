@@ -1,6 +1,6 @@
 # Library of Alexandria: Post-Colonial Africa: conquest, independence and the struggle for the state (c. 1880 to the present)
 
-Level: Intermediate. Created 18/11/2026.
+Level: Intermediate. Created 21/11/2026.
 
 Trace African history from the Scramble to the present: conquest and resistance, Pan-Africanism, independence, apartheid, states under strain and recent transitions, and judge the evidence for every contested number and claim, including a famous fake.
 

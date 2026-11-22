@@ -1,0 +1,86 @@
+{
+ "key": "hse-garden",
+ "title": "Using pesticides in your garden, home or allotment (HSE)",
+ "author": "",
+ "file": "HSE Using pesticides in your garden home or allotment.md",
+ "format": "md",
+ "sha256": "f055575d7d075960eab206d07e1724c7e8f0d999c54558c7f3ad7acfb2bd056d",
+ "words": 2280,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Using pesticides in your garden, home or allotment (Health and Safety Executive, page upda",
+   "words": 26
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Overview",
+   "words": 314
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Alternatives",
+   "words": 150
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Products you can use",
+   "words": 91
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Choosing and buying",
+   "words": 214
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Using home-made remedies",
+   "words": 255
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "'Amateur' and 'professional' use",
+   "words": 187
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Volunteer gardeners",
+   "words": 119
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Withdrawn products",
+   "words": 151
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "How to use",
+   "words": 203
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Storage",
+   "words": 201
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Disposal",
+   "words": 233
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Allotment societies selling to members",
+   "words": 136
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "HSE Using pesticides in your garden home or allotment.md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.314,
+  "odd_character_share": 0.007
+ }
+}

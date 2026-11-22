@@ -24,6 +24,10 @@
     },
     {
      "t": "p",
+     "x": "Warm-ups and cool-downs are standard in effective programmes. The US guidelines say a strength warm-up usually means lighter weights. Stretching improves range of motion, but its health benefits are unknown and it is unclear whether it prevents injury. {{pag-strength}}"
+    },
+    {
+     "t": "p",
      "x": "The pooled analysis of 2024 suggests that a smaller number of key exercises done for several sets may beat many exercises done often. {{swinton2024}}"
     },
     {
@@ -328,6 +332,14 @@
     },
     {
      "t": "p",
+     "x": "For a new lifter the US guidelines suggest starting strength work on 1 day a week at light or moderate effort, then 2 days, raising intensity slightly each week. {{pag-strength-start}}"
+    },
+    {
+     "t": "p",
+     "x": "Older adults may need 2 to 4 weeks to adapt to each new level. Less fit clients, including many with obesity, should progress more slowly, and after a past overuse injury the next build-up should be slower. {{pag-safe}}"
+    },
+    {
+     "t": "p",
      "x": "The simplest method for beginners is double progression."
     },
     {
@@ -478,7 +490,19 @@
     },
     {
      "t": "p",
-     "x": "The talk test is a common rule of thumb. It is not from the sources read for this course."
+     "x": "The UK Chief Medical Officers and the US guidelines both use the talk test. {{ukcmo-intro}}"
+    },
+    {
+     "t": "p",
+     "x": "On the US 0 to 10 effort scale, moderate is 5 or 6 and vigorous begins at 7 or 8. Relative effort suits older clients better than pace, because older adults use more energy for the same task. {{pag-older-int}}"
+    },
+    {
+     "t": "p",
+     "x": "For an inactive client the US guidelines sketch a walking start: 5 minutes of walking several times a day, 5 to 6 days a week, building to 10 minutes three times a day before raising the pace. {{pag-strength}}"
+    },
+    {
+     "t": "p",
+     "x": "High-intensity interval training may give reductions in cardiovascular risk factors similar to continuous moderate work, and adults with overweight or obesity tend to gain more from it. {{pag-weight}}"
     },
     {
      "t": "table",

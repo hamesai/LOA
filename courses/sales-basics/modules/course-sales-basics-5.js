@@ -392,7 +392,21 @@
     {
      "t": "callout",
      "k": "warn",
-     "x": "Where persistence ends and pressure begins matters. Irish consumer law bans creating the impression that a consumer cannot leave until they sign, and persistent unwanted offers. {{ci-unfair}} Make it easy to say no, and accept no. Also note: the text's 'three to five or more attempts' means asking at natural points in a conversation, not repeating the same request."
+     "x": "Where persistence ends and pressure begins matters. UK law bans aggressive practices that use harassment, coercion or undue influence, meaning exploiting a position of power to significantly limit someone's ability to make an informed decision. The factors include the timing and place of the practice, threatening language, exploiting a vulnerability and threatening action that cannot legally be taken. {{cma207-aggr}} Make it easy to say no, and accept no. Also note: the text's 'three to five or more attempts' means asking at natural points in a conversation, not repeating the same push."
+    },
+    {
+     "t": "check",
+     "q": "At the end of a home visit, a customer hesitates. Which move does UK law treat as a risk of an aggressive practice?",
+     "o": [
+      "Summarising the benefits they said mattered, then asking for the order",
+      "Offering to drive them to the bank now so they can pay in cash",
+      "Leaving a written quote and agreeing a time to call back",
+      "Asking a trial-close question about which colour they prefer",
+      "Answering their objection about price with the actual running costs"
+     ],
+     "a": 1,
+     "w": "Taking a consumer to the bank to pay immediately is one of the CMA's examples of pressure that can amount to an aggressive practice. {{cma207-aggr}}",
+     "kind": "application"
     },
     {
      "t": "p",

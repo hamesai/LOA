@@ -80,6 +80,9 @@ def main():
     n = a.modules
     if n < 2 or n > 12:
         sys.exit("--modules must be between 2 and 12")
+    sys.path.insert(0, str(ROOT / "_template"))
+    import bundle as bundle_mod
+    bundle_mod.unbundle()  # the course list is edited per file; ship rebuilds the bundles
     index = ROOT / "index.html"
     html = index.read_text(encoding="utf-8")
     if "<!-- COURSES:END -->" not in html:

@@ -104,6 +104,13 @@
      "w": "A complete record of a few crops is worth more than a patchy record of many."
     },
     {
+     "t": "check",
+     "q": "How many crops does the guide recommend per seasonal block in the first year?",
+     "o": ["One only", "Two or three", "Six or more", "As many as fit", "Ten at most"],
+     "a": 1,
+     "w": "Keep the crop list short: two or three crops per seasonal block in the first year."
+    },
+    {
      "t": "take",
      "i": [
       "Write down structure, frost dates, crops, methods and logs before you start.",
@@ -225,6 +232,13 @@
      "w": "Backfilling invents data. Gaps are honest and the review can name them."
     },
     {
+     "t": "check",
+     "q": "How often does the guide say to inspect for pests and disease?",
+     "o": ["Yearly", "Weekly", "Hourly only", "When a crop fails", "Monthly"],
+     "a": 1,
+     "w": "The guide follows UConn: scouting is weekly."
+    },
+    {
      "t": "take",
      "i": [
       "Each rubric row names the evidence it needs and how often to collect it.",
@@ -323,6 +337,13 @@
      ],
      "a": 3,
      "w": "Black belt requires all five criteria to be met."
+    },
+    {
+     "t": "check",
+     "q": "When is the capstone marked complete?",
+     "o": ["Some rows pass", "Half the rows are done", "All five criteria met", "Calendar drawn", "Dashboard opened"],
+     "a": 2,
+     "w": "Mark it complete only when all five criteria are met."
     },
     {
      "t": "take",

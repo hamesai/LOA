@@ -449,6 +449,10 @@
     },
     {
      "t": "p",
+     "x": "Store the meter and its calibration solutions indoors at room temperature and low humidity, never in the greenhouse or outside, where heat and damp spoil them. {{purdue-ph-f}}"
+    },
+    {
+     "t": "p",
      "x": "Greenhouse Grower recommends monitoring on a weekly or biweekly basis. That lets you see an upward or downward trend and correct it before nutrient deficiencies or high soluble salts affect growth, which matters most for long-term crops. A laboratory test is an alternative with a turnaround of a few days; PourThru gives same-day results. {{gg-ph}}"
     },
     {

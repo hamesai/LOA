@@ -1,0 +1,27 @@
+{
+ "915a04de": {
+  "state": "applied",
+  "note": "auto: module 4, lesson Your duties to the buyer",
+  "date": "2026-11-19"
+ },
+ "39a4a066": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Returns, disputes and reviews",
+  "date": "2026-11-19"
+ },
+ "5d84885a": {
+  "state": "applied",
+  "note": "auto: module 4, lesson Your duties to the buyer",
+  "date": "2026-11-19"
+ },
+ "9d4ecef3": {
+  "state": "applied",
+  "note": "auto: module 4, lesson Your duties to the buyer",
+  "date": "2026-11-19"
+ },
+ "c88178fa": {
+  "state": "skipped",
+  "note": "Checkout-button and pre-ticked-box rules apply to a reseller's own web shop; the course sells through platforms that build these in",
+  "date": "2026-11-19"
+ }
+}

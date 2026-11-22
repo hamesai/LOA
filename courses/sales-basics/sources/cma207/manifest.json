@@ -1,0 +1,122 @@
+{
+ "key": "cma207",
+ "title": "CMA207 Unfair commercial practices (CMA, 18/11/2025)",
+ "author": "Competition and Markets Authority",
+ "file": "CMA207 Unfair commercial practices guidance (18-11-2025).pdf",
+ "format": "pdf",
+ "sha256": "4f115479f87cce628ac9ce52b03e9002787bdb501f2b3e77e9411addb5b8b18d",
+ "words": 16890,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Front matter",
+   "words": 157,
+   "pages": [
+    1,
+    3
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "1. Overview",
+   "words": 1202,
+   "pages": [
+    4,
+    8
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "2. Core concepts: trader, commercial practice, consumer, transactional decision",
+   "words": 3650,
+   "pages": [
+    9,
+    20
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "3. Banned practices",
+   "words": 3236,
+   "pages": [
+    21,
+    34
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "4. Omission of material information from an invitation  to purchase",
+   "words": 2571,
+   "pages": [
+    35,
+    42
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "5. Misleading actions",
+   "words": 1753,
+   "pages": [
+    43,
+    48
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "6. Misleading omissions",
+   "words": 1397,
+   "pages": [
+    49,
+    53
+   ]
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "7. Aggressive practices",
+   "words": 923,
+   "pages": [
+    54,
+    57
+   ]
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "8. Contravention of the requirements of professional diligence",
+   "words": 648,
+   "pages": [
+    58,
+    59
+   ]
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "9. Promoting unfair commercial practices in codes of conduct",
+   "words": 441,
+   "pages": [
+    60,
+    61
+   ]
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "10. Offences relating to unfair commercial practices",
+   "words": 912,
+   "pages": [
+    62,
+    64
+   ]
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (37% common English words, 2.0% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "CMA207 Unfair commercial practices guidance (18-11-2025).pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.367,
+  "odd_character_share": 0.02
+ }
+}

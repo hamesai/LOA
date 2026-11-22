@@ -95,6 +95,13 @@
      "w": "17:30 + 4 hours = 21:30. {{fsa}}"
     },
     {
+     "t": "check",
+     "q": "What must the plan do with each rule and number it uses?",
+     "o": ["Use it without a source", "Name the source for it", "Replace it with a guess", "Omit it if it is hard", "Round it up for safety"],
+     "a": 1,
+     "w": "The brief says the plan must name the source for each rule."
+    },
+    {
      "t": "take",
      "i": [
       "Read the case twice.",
@@ -215,6 +222,13 @@
      "w": "17:30 + 24 hours = 17:30 Friday. {{fsa}}"
     },
     {
+     "t": "check",
+     "q": "The power fails at 17:30. When does the fridge's 4-hour mark fall?",
+     "o": ["19:30", "17:30 the next day", "21:30", "01:30", "22:30"],
+     "a": 2,
+     "w": "17:30 plus four hours is 21:30. The model answer uses this mark."
+    },
+    {
      "t": "take",
      "i": [
       "Time, risk, order, water, cooking, rule.",
@@ -306,6 +320,13 @@
      ],
      "a": 1,
      "w": "Using stoves or barbecues indoors is a safety failure. {{cmo}} {{ukhsaco}}"
+    },
+    {
+     "t": "check",
+     "q": "What total score on the 10-point rubric passes a plan?",
+     "o": ["Any score", "Half the marks", "8 or more", "Only a perfect score", "Every row at 1"],
+     "a": 2,
+     "w": "A total of 8 or more out of 10, with no zeros, passes."
     },
     {
      "t": "take",

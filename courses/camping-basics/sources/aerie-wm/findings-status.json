@@ -1,0 +1,87 @@
+{
+ "ab085a58": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Minor injuries and heat: blisters, burns, sprains and stings",
+  "date": "2026-11-19"
+ },
+ "01b31557": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Minor injuries and heat: blisters, burns, sprains and stings",
+  "date": "2026-11-19"
+ },
+ "40690027": {
+  "state": "applied",
+  "note": "auto: module 4, lesson Stoves and fire: the safe way to cook",
+  "date": "2026-11-19"
+ },
+ "d700460e": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Minor injuries and heat: blisters, burns, sprains and stings",
+  "date": "2026-11-19"
+ },
+ "0cefbfbd": {
+  "state": "applied",
+  "note": "auto: module 3, lesson A warm night, and spotting hypothermia",
+  "date": "2026-11-19"
+ },
+ "805afbd1": {
+  "state": "applied",
+  "note": "auto: module 3, lesson A warm night, and spotting hypothermia",
+  "date": "2026-11-19"
+ },
+ "5d9b17d9": {
+  "state": "applied",
+  "note": "auto: module 3, lesson A warm night, and spotting hypothermia",
+  "date": "2026-11-19"
+ },
+ "0623a893": {
+  "state": "applied",
+  "note": "auto: module 4, lesson Making water safe",
+  "date": "2026-11-19"
+ },
+ "b1328c15": {
+  "state": "applied",
+  "note": "auto: module 5, lesson How long will it take? Naismith's rule and the weather limits",
+  "date": "2026-11-19"
+ },
+ "2a6229d4": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Minor injuries and heat: blisters, burns, sprains and stings",
+  "date": "2026-11-19"
+ },
+ "7acd8f53": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Minor injuries and heat: blisters, burns, sprains and stings",
+  "date": "2026-11-19"
+ },
+ "ef826cca": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Minor injuries and heat: blisters, burns, sprains and stings",
+  "date": "2026-11-19"
+ },
+ "f41c2841": {
+  "state": "applied",
+  "note": "auto: module 6, lesson Calling for help",
+  "date": "2026-11-19"
+ },
+ "77da36ec": {
+  "state": "applied",
+  "note": "module 6: callout reworded; new lesson 'Minor injuries and heat: blisters, burns, sprains and stings'",
+  "date": "2026-11-19"
+ },
+ "8af2054b": {
+  "state": "avoided",
+  "note": "checked 19/11/2026: modules do not use Aerie's boil times or its 2-month iodine limit; Module 4 keeps the CDC figures",
+  "date": "2026-11-19"
+ },
+ "5f5d8419": {
+  "state": "avoided",
+  "note": "checked 19/11/2026: tick lesson teaches UKHSA (several weeks, DEET); no 'two weeks' or permethrin in the modules",
+  "date": "2026-11-19"
+ },
+ "2cc6a054": {
+  "state": "applied",
+  "note": "module 6: new lesson opens 'It does not replace a first-aid course'; callout says cuts, breaks and head injuries need hands-on training; 999 lines cite the UK source (mrew)",
+  "date": "2026-11-19"
+ }
+}

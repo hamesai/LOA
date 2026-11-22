@@ -1,0 +1,13 @@
+[
+ {"book":"soac-2005","state":"mark","ids":["304965ef"],"note":"module 1, lesson Choosing your first site (E. coli where farm animals graze)"},
+ {"book":"soac-2005","state":"mark","ids":["5dfc3432"],"note":"module 1, lesson Who owns the ground (a tent counts as a private place; privacy rule protects other campers)"},
+ {"book":"soac-2005","state":"mark","ids":["5a23ac1c","906194f5"],"note":"module 6, lessons Plan like a safe camper (outdoors not risk-free, obvious risks accepted) and Hazards on site (land work, gates, bales)"},
+ {"book":"soac-2005","state":"mark","ids":["a4407e0d"],"note":"module 1, lesson Fire, toilet, water and waste: the shallow hole with turf replaced and the 30 m rule were already taught; confirmed against the full Code"},
+ {"book":"soac-2005","state":"mark","ids":["0cab7c70"],"note":"module 1, existing byelaw callout and table row (Loch Lomond); local authority powers confirmed"},
+ {"book":"soac-2005","state":"skip","ids":["8b4f2c28"],"note":"Groups, events and businesses: outside a first small-party trip; the capstone is for a small party"},
+ {"book":"soac-2005","state":"skip","ids":["4ffe6e9c"],"note":"Dealing with other people's irresponsible behaviour is advice for land managers and residents, not for a first-time camper"},
+ {"book":"cc-gov","state":"mark","ids":["b0d3a6ec"],"note":"module 6, Hazard and control table (livestock row, plus new Scottish cattle row)"},
+ {"book":"cdc-yb-water","state":"mark","ids":["ca8d95a3"],"note":"module 4, lesson Making water safe (clear does not mean safe; source-based choice)"},
+ {"book":"os-mapbook","state":"mark","ids":["deebe8e8"],"note":"module 5, lesson Reading a map: diagonal estimate now the OS figure of about 1.5 km"},
+ {"book":"os-mapbook","state":"mark","ids":["0c0e974f"],"note":"module 5, lesson Grid references: the worked example already adds a nearby landmark"}
+]

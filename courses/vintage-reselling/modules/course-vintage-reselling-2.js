@@ -224,11 +224,11 @@
     },
     {
      "t": "p",
-     "x": "UK private sellers on eBay pay no final value fee, and there are 300 free listings a month; this applies to private sellers, and the page was last updated on 30/09/2026. {{ebay-private}}"
+     "x": "UK private sellers on eBay pay no final value fee, and there are 300 free listings a month; this applies to private sellers, and the page was last updated on 05/11/2026. {{ebay-private}}"
     },
     {
      "t": "p",
-     "x": "A business seller on eBay pays a final value fee that is a percentage of the total sale including postage, plus a per-order fee of £0.30 for orders up to £10 and £0.40 above that (unverified: check eBay's business fees page), and a regulatory operating fee of 0.35%. {{ebay-business}}"
+     "x": "A business seller on eBay pays a final value fee that is a percentage of the total sale including postage, plus a per-order fee of £0.30 for orders up to £10 and £0.40 above that, and a regulatory operating fee of 0.35%. {{ebay-business}}"
     },
     {
      "t": "p",

@@ -206,6 +206,14 @@
      "x": "The sources in this lesson are US books from around 2009. Our course adds one caution: in the UK and Ireland, cold calls, texts and emails to people are regulated. Module 6 sets out the rules before you contact anyone."
     },
     {
+     "t": "p",
+     "x": "Two UK rules change how you use these sources. Numbers from directories, websites or bought-in lists get no exemption: before any prospecting call, screen them against the TPS, the CTPS and your own do-not-call list, and treat a list supplier's TPS check older than 28 days as out of date. {{ico-live-full}}"
+    },
+    {
+     "t": "p",
+     "x": "Details found on a company website, Companies House, social media or in the press still fall under the calling and email rules, and under UK GDPR if they name a person. People on professional networking sites are usually there in a personal professional capacity, so a direct message to them is not business-to-business marketing. {{ico-b2b-full}}"
+    },
+    {
      "t": "example",
      "title": "Worked example: a callback promise",
      "steps": [
@@ -446,6 +454,10 @@
     {
      "t": "p",
      "x": "Keep records current. People change jobs and budgets shrink, so stale data loses prospects. {{ps-prospect2}} Free news alerts and RSS feeds can help you follow your prospects. {{ps-prospect2}}"
+    },
+    {
+     "t": "p",
+     "x": "Your records also carry legal duties. Business cards typed into a contacts database bring UK GDPR into play, and if you collect someone's details from a public or third-party source you must tell them within one month. When anyone asks not to be contacted, add them to a suppression list instead of deleting them, so they are screened out of every future list. {{ico-b2b-full}}"
     },
     {
      "t": "example",

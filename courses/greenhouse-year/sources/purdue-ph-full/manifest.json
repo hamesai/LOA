@@ -1,0 +1,33 @@
+{
+ "key": "purdue-ph-full",
+ "title": "pH and EC Measurements in Soilless Substrates (Purdue HO-237-W)",
+ "author": "",
+ "file": "Purdue HO-237-W pH and EC in Soilless Substrates.pdf",
+ "format": "pdf",
+ "sha256": "761e11dfb9a81f5bcaef8b9bb4e505a73ed9618e101e87ca315427dba8d6d58d",
+ "words": 2400,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 6",
+   "words": 2400,
+   "pages": [
+    1,
+    6
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks",
+  "text quality looks poor (27% common English words, 1.0% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "Purdue HO-237-W pH and EC in Soilless Substrates.pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.274,
+  "odd_character_share": 0.01
+ }
+}

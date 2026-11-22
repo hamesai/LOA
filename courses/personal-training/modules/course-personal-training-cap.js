@@ -94,6 +94,13 @@
      "w": "A past knee ache may affect exercise choice; ask about current pain and adapt. If pain is new or worsening, refer. This is our coaching judgement."
     },
     {
+     "t": "check",
+     "q": "Which screening method does the brief use to decide where the client starts?",
+     "o": ["A blood test", "Self-report only", "ACSM algorithm", "Gut feeling", "Friend's advice"],
+     "a": 2,
+     "w": "The brief asks for a screening record and decision using the 2015 ACSM algorithm."
+    },
+    {
      "t": "take",
      "i": [
       "Read the case twice.",
@@ -214,6 +221,13 @@
      "w": "Under the algorithm, non-exercisers with no disease or symptoms may begin light to moderate exercise without clearance. {{whitfield2017}}"
     },
     {
+     "t": "check",
+     "q": "Under the model answer, what is the right start for a client with no known disease or symptoms who is not meeting regular exercise?",
+     "o": ["Skip screening entirely", "Test a one-rep max today", "Start light, build up", "Avoid exercise until fit", "Wait for a fitness test"],
+     "a": 2,
+     "w": "The algorithm says to begin light to moderate and progress gradually without clearance."
+    },
+    {
      "t": "take",
      "i": [
       "Follow the five sections.",
@@ -305,6 +319,13 @@
      ],
      "a": 1,
      "w": "The rule is 8 or more with no zeros, and safety items are non-negotiable."
+    },
+    {
+     "t": "check",
+     "q": "What total score on the 10-point rubric passes a file?",
+     "o": ["Any score", "Half the marks", "8 or more", "Only a perfect score", "Every row at 1"],
+     "a": 2,
+     "w": "A total of 8 or more out of 10, with no zeros, passes."
     },
     {
      "t": "take",

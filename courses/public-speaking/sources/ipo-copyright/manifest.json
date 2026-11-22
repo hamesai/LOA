@@ -1,0 +1,91 @@
+{
+ "key": "ipo-copyright",
+ "title": "Exceptions to copyright (IPO, GOV.UK)",
+ "author": "",
+ "file": "IPO Exceptions to copyright (GOV.UK).md",
+ "format": "md",
+ "sha256": "46069209c75167ecfd04ab7363f75999553be998396ccc825c9f4ebcb1b218bf",
+ "words": 1804,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Exceptions to copyright (Intellectual Property Office, GOV.UK guidance; Crown copyright, O",
+   "words": 19
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Overview",
+   "words": 53
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Non-commercial research and private study",
+   "words": 150
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Text and data mining for non-commercial research",
+   "words": 173
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Criticism, review and reporting current events",
+   "words": 94
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Teaching",
+   "words": 247
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Helping disabled people",
+   "words": 401
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Time-shifting",
+   "words": 58
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Parody, caricature and pastiche",
+   "words": 109
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Sufficient acknowledgement",
+   "words": 77
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Fair dealing",
+   "words": 208
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Technological protection measures",
+   "words": 86
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Further guidance",
+   "words": 17
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Updates to this page",
+   "words": 112
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-11-20",
+  "source_file": "IPO Exceptions to copyright (GOV.UK).md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.361,
+  "odd_character_share": 0.011
+ }
+}

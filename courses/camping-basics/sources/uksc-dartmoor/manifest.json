@@ -1,0 +1,43 @@
+{
+ "key": "uksc-dartmoor",
+ "title": "Darwall v Dartmoor National Park Authority [2025] UKSC 20",
+ "author": "United Kingdom Supreme Court (UKSC)",
+ "file": "Darwall v Dartmoor NPA 2025 UKSC 20 judgment.pdf",
+ "format": "pdf",
+ "sha256": "e9899f0379cfca54ac740ea41dbea191bffdb1b6f9ec2a827ab101b3e85f992f",
+ "words": 9407,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 20",
+   "words": 7867,
+   "pages": [
+    1,
+    20
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Pages 21 to 24",
+   "words": 1540,
+   "pages": [
+    21,
+    24
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "Darwall v Dartmoor NPA 2025 UKSC 20 judgment.pdf",
+  "found_by": "source-discovery",
+  "url": "https://supremecourt.uk/uploads/uksc_2023_0126_judgment_03167171c8.pdf",
+  "query": "Source Discovery, 19/11/2026"
+ },
+ "text_quality": {
+  "common_word_share": 0.394,
+  "odd_character_share": 0.008
+ }
+}

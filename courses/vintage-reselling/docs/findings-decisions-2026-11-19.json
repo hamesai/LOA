@@ -1,0 +1,7 @@
+[
+ {"book":"cra-2015","state":"mark","ids":["a03d44d7"],"note":"module 4, lesson Your duties to the buyer (you must have the right to sell the item)"},
+ {"book":"ivory-gov","state":"mark","ids":["9ff1e46e"],"note":"module 4, lesson Ivory and precious metals: penalty wording now follows the GOV.UK guidance"},
+ {"book":"bim-badges","state":"skip","ids":["d3b94873"],"note":"Origin of the badges in case law; background only, the lesson states that the manual is HMRC guidance and courts take the overall impression"},
+ {"book":"ffr-1988","state":"skip","ids":["c2c64dca"],"note":"Statutory basis and laboratory test schedules; a reseller cannot run the tests, so the lesson teaches the 1950 date and the permanent label"},
+ {"book":"ccr-2013","state":"skip","ids":["c88178fa"],"note":"Checkout-button and pre-ticked-box rules apply to a reseller's own web shop; the course sells through platforms that build these in"}
+]

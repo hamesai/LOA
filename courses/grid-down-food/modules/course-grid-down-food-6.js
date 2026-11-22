@@ -46,7 +46,7 @@
      "i": [
       "Wash with hot soapy water.",
       "Rinse with clean, safe water.",
-      "Sanitise: for cans and non-food surfaces, 1 cup (240 mL) of unscented household bleach in 5 gallons of clean water. For food-contact surfaces such as countertops and plates, 1 tablespoon of bleach in 1 gallon of clean water.",
+      "Sanitise: 1 cup (240 mL) of unscented household bleach in 5 gallons of clean water. Soak dishes and utensils for 1 minute, fully covered; wipe the solution onto countertops and fridge drawers with a cloth.",
       "Air dry. {{cdcfood}}"
      ]
     },
@@ -68,7 +68,7 @@
      "t": "example",
      "title": "Worked example: sanitising a basin of cans (illustrative)",
      "steps": [
-      "The CDC mix for cans and non-food surfaces is 1 cup (240 mL) of bleach in 5 gallons (about 19 L) of water: about 12.6 mL per litre.",
+      "The CDC mix for cans, pouches and food-contact surfaces is 1 cup (240 mL) of bleach in 5 gallons (about 19 L) of water: about 12.6 mL per litre.",
       "A 10-litre bucket needs 10 x 12.6 = 126 mL of bleach (a little over half a cup).",
       "Cans soak for 15 minutes, then dry and re-label. Our arithmetic from the CDC ratio."
      ]

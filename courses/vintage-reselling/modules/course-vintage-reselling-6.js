@@ -64,7 +64,7 @@
     },
     {
      "t": "p",
-     "x": "For sales to consumers, the Consumer Rights Act has a section on when risk of loss passes from the trader to the buyer; read section 29 before you rely on any 'buyer's risk' wording. {{cra-notes}}"
+     "x": "For sales to consumers, the goods stay at your risk until the buyer, or someone they name, physically has them, unless the buyer chose a carrier you did not offer. You must also deliver within 30 days unless you agreed another time. {{cra-goods-b}} So a breakage in the post is your loss, which is the real reason to pack well and insure."
     },
     {
      "t": "example",
@@ -186,11 +186,25 @@
     },
     {
      "t": "p",
-     "x": "For a consumer who cancels a distance sale in time, the 14-day right applies. {{gov-distance}}"
+     "x": "For a consumer who cancels a distance sale in time, the 14-day right applies. You must refund the price plus the cheapest standard delivery within 14 days of getting the item back, or of proof it was sent, by the same payment method and without a fee. The buyer pays return postage only if you told them so before the sale. You may deduct for loss of value only if they handled it more than a shop would allow. {{ccr-regs}}"
     },
     {
      "t": "p",
-     "x": "If the item was not as described, the Consumer Rights Act standards on description apply. {{cra-notes}}"
+     "x": "If the item was faulty or not as described, the buyer has a short-term right to reject within 30 days of delivery, with a full refund within 14 days and your paying reasonable return costs. A fault that appears within six months of delivery is presumed to have been there at delivery unless you show otherwise. {{cra-goods-a}} After that comes one repair or replacement at your cost, then a price reduction or final rejection. {{cra-goods-b}}"
+    },
+    {
+     "t": "check",
+     "q": "A buyer bought a vintage lamp from your shop. Four months later the switch fails, and your listing said nothing about the switch. What applies?",
+     "o": [
+      "Nothing, because the 14-day cancellation period has ended",
+      "It is presumed present at delivery unless you show otherwise",
+      "The buyer must prove the fault existed on the day it was delivered to them",
+      "Second-hand items carry no rights once 30 days have passed",
+      "You can refuse, since your policy says 'no returns after 14 days'"
+     ],
+     "a": 1,
+     "w": "Within six months of delivery a lack of conformity is presumed to have existed at delivery, and a 'no returns' term cannot exclude the quality duties. {{cra-goods-a}}",
+     "kind": "application"
     },
     {
      "t": "p",
@@ -304,11 +318,11 @@
     },
     {
      "t": "p",
-     "x": "The trading allowance is up to £1,000 a year of tax-free trading income. {{gov-allowance}}"
+     "x": "For the 2026 to 2027 tax year the trading allowance is up to £1,000 a year of tax-free trading income. {{gov-allowance}} From 06/04/2027 (the 2027 to 2028 tax year) HMRC plans to raise the allowance to £3,000. {{gov-trading-3000}}"
     },
     {
      "t": "p",
-     "x": "If your annual gross trading income is over £1,000, you must register for Self Assessment. {{gov-allowance}}"
+     "x": "If your annual gross trading income is over £1,000, you must register for Self Assessment. From 2027 to 2028 the reporting threshold for trading income rises to £3,000 with the allowance. {{gov-allowance}} {{gov-trading-3000}}"
     },
     {
      "t": "p",
@@ -418,7 +432,7 @@
     {
      "t": "callout",
      "k": "note",
-     "x": "Three things this course does not settle: whether you must register for VAT as your turnover grows, whether Making Tax Digital for Income Tax applies to you, and the Self Assessment threshold. The government announced on 11/03/2025 that it plans to raise the Self Assessment reporting threshold to £3,000 within this parliament, but as of 09/2026 an accountants' guide says no start date had been set; tax would still be due above £1,000. {{iak}} Check GOV.UK for each."
+     "x": "Three things this course does not settle: whether you must register for VAT as your turnover grows, whether Making Tax Digital for Income Tax applies to you, and exactly how the 2027 change applies to you. HMRC's Budget 2026 note raises the trading allowance and the Self Assessment reporting threshold for trading income from £1,000 to £3,000 from 06/04/2027; the change is to be made in the Finance Bill 2026-27, and sales in the 2026 to 2027 tax year still use £1,000. {{gov-trading-3000}} Check GOV.UK for each."
     },
     {
      "t": "terms",

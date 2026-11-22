@@ -1,8 +1,15 @@
-Sources were read through search and fetch excerpts on 11/10/2026. No source was read in full, so treat every rule as a pointer to check on the current page.
+**Read in full (19/11/2026):**
+- Consumer Rights Act 2015, Part 1 Chapters 1 and 2 (goods), from the as-enacted PDF; the rest of the Act was skipped as outside scope. Later amendments were not checked.
+- Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013, as made. Later amendments were not checked.
+- HMRC Business Income Manual BIM20201 to BIM20315 (badges of trade).
+- GOV.UK (Defra and APHA): Deal in items made of or containing ivory, last updated 24/07/2026.
+- Furniture and Furnishings (Fire) (Safety) Regulations 1988, revised text as at 30/10/2025 (test schedules read but not taught).
+
+The earlier sources below were read through search and fetch excerpts on 11/10/2026, so treat rules that rest only on them as pointers to check on the current page.
 
 **Read in part (excerpts):**
 - GOV.UK: Selling goods or services on a digital platform; Tax-free allowances on property and trading income; Distance selling; Deal in items made of or containing ivory; Ivory pre-1918 exemption certificate.
-- HMRC Business Income Manual: BIM86000 (opening); BIM20205 (opening only; the badges of trade list came from a secondary accountants' guide).
+- HMRC Business Income Manual: BIM86000 (opening); BIM20205 (opening only at first; now read in full, see above).
 - Business Companion (Trading Standards): Am I in business?; Second-hand upholstered furniture; Second-hand electrical goods; Hallmarking.
 - legislation.gov.uk: Consumer Rights Act 2015 sections 2 and 9 (section 9 opening only) and the Explanatory Notes; Furniture and Furnishings (Fire) (Safety) Regulations 1988.
 - eBay.co.uk fee pages for private and business sellers (updated 30/09/2026); Vinted UK fee page.

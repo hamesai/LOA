@@ -1,0 +1,41 @@
+{
+ "key": "ccr-2013",
+ "title": "Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013",
+ "author": "wordautomation",
+ "file": "Consumer Contracts Regulations 2013 (SI 2013-3134, as made).pdf",
+ "format": "pdf",
+ "sha256": "9c397b8a98cb0c1c1a3d619fd17ff2269707cbc89ca8e77c7e75d2073bce3ee9",
+ "words": 13211,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 20",
+   "words": 9480,
+   "pages": [
+    1,
+    20
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Pages 21 to 32",
+   "words": 3731,
+   "pages": [
+    21,
+    32
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "Consumer Contracts Regulations 2013 (SI 2013-3134, as made).pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.373,
+  "odd_character_share": 0.005
+ }
+}

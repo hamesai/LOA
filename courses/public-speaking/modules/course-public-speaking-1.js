@@ -149,6 +149,10 @@
      "x": "An ethical speaker thinks about ethics from the start. The ethics pyramid has three levels: intent (what you mean to do), means (the methods you use) and ends (the results). {{sus-pyramid}} The text suggests three questions: have I discussed whether this behaviour is ethical with others, does it follow known codes, and would I be happy if the outcome were reversed and applied to me? {{sus-pyramid}}"
     },
     {
+     "t": "p",
+     "x": "In England and Wales the law points the same way when you talk about a named person or business. A statement is defamatory only if it causes, or is likely to cause, serious harm to their reputation, and the main defences are that what you said was substantially true, or that it was an honest opinion whose basis you made clear. {{defam-act}} So the ethical habit of only claiming what you can support is also your legal protection."
+    },
+    {
      "t": "fig",
      "id": "public-speaking-pyramid",
      "title": "The ethics pyramid",

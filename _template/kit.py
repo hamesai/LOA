@@ -7,6 +7,9 @@
     python _template/kit.py figs <id>      write _figtest.html, a contact sheet of the course's figures (delete it afterwards)
     python _template/kit.py open <id>      open the course in the default browser
     python _template/kit.py gate           pre-ship gate for every course and the index.html links (runs gate.py)
+    python _template/kit.py bundle         bundle the course scripts into shared/bundles/ (fewer requests). Run it after editing
+                                           any course file; gate fails until the bundles match. ship bundles automatically.
+    python _template/kit.py unbundle       put the per-file script tags back in index.html (for hand edits to the course list)
     python _template/kit.py inject <id>    re-apply the lecturer lessons (needs node; skipped if _template/lec_data/<id>.json is missing)
     python _template/kit.py sources <id>   write course-<id>-sources.js from the sources-read note, so the page can show it
     python _template/kit.py meta           write shared/course-meta.js from courses/<id>/meta/*.js (about, deepnotes, lecturer-notes,
@@ -44,6 +47,13 @@ def gate():
 
 
 def bump():
+    # If the page is bundled and a course file changed since, rebuild the bundles first, so "edit, then bump" is enough.
+    sys.path.insert(0, str(ROOT / "_template"))
+    import bundle as bundle_mod
+    if bundle_mod.bundled() and bundle_mod.stale_problems():
+        print("course files changed since the last bundle; rebuilding the bundles")
+        if bundle_mod.bundle():
+            print("PROBLEM  a course file did not parse and was left out of the bundle")
     f = ROOT / "index.html"
     s = f.read_text(encoding="utf-8")
     tag = "v" + datetime.datetime.now().strftime("%Y%m%d%H%M%S")
@@ -253,7 +263,13 @@ def audit(cid):
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     cid = sys.argv[2] if len(sys.argv) > 2 else ""
-    if cmd == "audit":
+    sys.path.insert(0, str(ROOT / "_template"))
+    import bundle as bundle_mod
+    if cmd == "bundle":
+        sys.exit(1 if bundle_mod.bundle() else 0)
+    elif cmd == "unbundle":
+        print("unbundled" if bundle_mod.unbundle() else "already per-file; nothing to do")
+    elif cmd == "audit":
         sys.exit(0 if audit(cid) else 1)
     elif cmd == "check":
         sys.exit(0 if check(cid) else 1)
@@ -270,6 +286,7 @@ if __name__ == "__main__":
     elif cmd == "inject":
         sys.exit(0 if inject(cid) else 1)
     elif cmd == "sources":
+        bundle_mod.unbundle()
         sources(cid)
     elif cmd == "meta":
         sys.exit(0 if meta() else 1)
@@ -292,6 +309,7 @@ if __name__ == "__main__":
             if d.returncode:
                 print(d.stdout + d.stderr)
                 sys.exit("Lecturer lessons in the module files differ from lec_data; nothing shipped.")
+        bundle_mod.unbundle()  # work on the per-file tags; the bundles are rebuilt at the end
         if not inject(cid):
             sys.exit("Lecturer injection failed.")
         if not meta():
@@ -307,6 +325,8 @@ if __name__ == "__main__":
         subprocess.run([sys.executable, str(ROOT / "_template" / "stale_sources.py"), cid])
         bump()
         md(cid)
+        if bundle_mod.bundle():
+            sys.exit("A course file does not parse, so it was left out of the bundle. Fix it, then run kit.py bundle.")
         open_course(cid)
     else:
         print(__doc__)

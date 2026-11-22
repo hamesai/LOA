@@ -1,0 +1,134 @@
+{
+ "4d98658c": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Reading a map: scale, symbols and distance": [
+    "100",
+    "1:25,000",
+    "2.5",
+    "against",
+    "along",
+    "north",
+    "people",
+    "points",
+    "printed",
+    "route",
+    "scale",
+    "squares",
+    "string"
+   ],
+   "Grid references: saying exactly where you are": [
+    "100",
+    "along",
+    "corridor",
+    "eastings",
+    "first",
+    "four-figure",
+    "letters",
+    "named",
+    "national",
+    "six-figure",
+    "squares",
+    "stairs'"
+   ],
+   "The compass: taking and following a bearing": [
+    "north",
+    "printed",
+    "squares"
+   ],
+   "How long will it take? Naismith's rule and the weather limits": [
+    "100",
+    "route",
+    "string"
+   ],
+   "The lecturer's method: Ernest Shackleton": [
+    "first",
+    "route"
+   ]
+  }
+ },
+ "deebe8e8": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Reading a map: scale, symbols and distance": [
+    "1.5",
+    "diagonally",
+    "inference",
+    "little",
+    "minutes",
+    "square",
+    "straight"
+   ],
+   "Grid references: saying exactly where you are": [
+    "square"
+   ],
+   "The compass: taking and following a bearing": [
+    "minutes"
+   ],
+   "How long will it take? Naismith's rule and the weather limits": [
+    "crossing",
+    "minutes"
+   ],
+   "The lecturer's method: Ernest Shackleton": [
+    "1.5",
+    "figure"
+   ]
+  }
+ },
+ "aa3d53e4": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Reading a map: scale, symbols and distance": [
+    "1:25,000",
+    "lines",
+    "points",
+    "vertical"
+   ],
+   "Grid references: saying exactly where you are": [
+    "lines",
+    "together",
+    "vertical"
+   ],
+   "The compass: taking and following a bearing": [
+    "areas",
+    "lines"
+   ],
+   "How long will it take? Naismith's rule and the weather limits": [
+    "above",
+    "every",
+    "slope"
+   ],
+   "The lecturer's method: Ernest Shackleton": [
+    "close",
+    "decide"
+   ]
+  }
+ },
+ "0c0e974f": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Reading a map: scale, symbols and distance": [
+    "example"
+   ],
+   "Grid references: saying exactly where you are": [
+    "example",
+    "landmark",
+    "nearby",
+    "position",
+    "reference",
+    "six-figure"
+   ],
+   "The compass: taking and following a bearing": [
+    "accuracy",
+    "example",
+    "landmark"
+   ],
+   "How long will it take? Naismith's rule and the weather limits": [
+    "example"
+   ],
+   "The lecturer's method: Ernest Shackleton": [
+    "example"
+   ]
+  }
+ }
+}

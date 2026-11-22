@@ -43,6 +43,10 @@
      "x": "Progressive overload: long-term adaptation depends on gradually raising the demand. {{swinton2024}}"
     },
     {
+     "t": "p",
+     "x": "The US guidelines state the same principles for health: overload makes the body adapt, small progressive increases limit injury risk, and benefits are specific to the systems doing the work, so walking mainly trains the lower body and heart while push-ups mainly train the chest, shoulders and upper arms. {{pag-principles}}"
+    },
+    {
      "t": "table",
      "title": "The main levers",
      "head": [
@@ -203,6 +207,10 @@
      "x": "The authors describe intensity as a mix of effort, difficulty and intent, not only the weight on the bar. {{swinton2024}}"
     },
     {
+     "t": "p",
+     "x": "For older adults, a review in the WHO guideline found that lifting with fast intended velocity (moving the load as quickly as control allows) may improve general functional capacity more than moderate-velocity lifting. {{who20-adults}}"
+    },
+    {
      "t": "table",
      "title": "Intensity profiles by outcome",
      "head": [
@@ -312,6 +320,10 @@
     {
      "t": "p",
      "x": "Higher weekly volume gave about 3.9% greater gains than lower volume. {{schoenfeld2017}}"
+    },
+    {
+     "t": "p",
+     "x": "For health rather than maximum growth, the US guidelines set a modest floor: one set of 8 to 12 repetitions per exercise is effective for strength, though 2 or 3 sets may be more effective. {{pag-strength}}"
     },
     {
      "t": "p",
@@ -454,6 +466,10 @@
     {
      "t": "p",
      "x": "The authors warn that RIR was estimated from the study descriptions, so the exact relationship is unclear. {{robinson2024}}"
+    },
+    {
+     "t": "p",
+     "x": "The US guidelines ask for sets taken to the point where another repetition would be difficult. {{pag-strength}} In RIR terms that is a low number of reps in reserve, not true failure (our reading)."
     },
     {
      "t": "p",

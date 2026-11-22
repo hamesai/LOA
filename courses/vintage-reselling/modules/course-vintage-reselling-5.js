@@ -28,7 +28,7 @@
     },
     {
      "t": "p",
-     "x": "eBay UK charges private sellers no final value fee or regulatory operating fee, and gives 300 free listings a month; the page was last updated on 30/09/2026. {{ebay-private}}"
+     "x": "eBay UK charges private sellers no final value fee or regulatory operating fee, and gives 300 free listings a month, then 35p a listing; the page was last updated on 05/11/2026. {{ebay-private}}"
     },
     {
      "t": "p",

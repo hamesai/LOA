@@ -1,0 +1,87 @@
+{
+ "key": "soac-2005",
+ "title": "Scottish Outdoor Access Code (NatureScot, 2005)",
+ "author": "",
+ "file": "Scottish Outdoor Access Code (NatureScot, 2005).pdf",
+ "format": "pdf",
+ "sha256": "5c5d40ed2295e6a729419723d48a7c578f074a946e5b0ed041e01e8ef6e4163c",
+ "words": 31415,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 20",
+   "words": 5009,
+   "pages": [
+    1,
+    20
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Pages 21 to 40",
+   "words": 5354,
+   "pages": [
+    21,
+    40
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Pages 41 to 60",
+   "words": 5066,
+   "pages": [
+    41,
+    60
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Pages 61 to 80",
+   "words": 4463,
+   "pages": [
+    61,
+    80
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Pages 81 to 100",
+   "words": 3324,
+   "pages": [
+    81,
+    100
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Pages 101 to 120",
+   "words": 3742,
+   "pages": [
+    101,
+    120
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Pages 121 to 135",
+   "words": 4457,
+   "pages": [
+    121,
+    135
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks",
+  "text quality looks poor (30% common English words, 1.7% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "Scottish Outdoor Access Code (NatureScot, 2005).pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.299,
+  "odd_character_share": 0.017
+ }
+}

@@ -22,6 +22,18 @@
      "x": "Scotland is the exception inside the UK. There you can enjoy the outdoors on most land if you act responsibly, and that includes lightweight camping in a tent, in small numbers, for no more than two or three nights in one place. {{soac}}"
     },
     {
+     "t": "p",
+     "x": "Those rights come from the Land Reform (Scotland) Act 2003 and exist only while you act responsibly. They apply by day or night, and the Scottish Code names wild camping as one of the recreational purposes they cover. {{soac-p12}}"
+    },
+    {
+     "t": "p",
+     "x": "Some ground is always off limits: land around a house, caravan or tent with enough space for the occupants' privacy, farm buildings and yards, fields where crops are sown or growing, sports pitches in use, school grounds, places that charge for entry, and building sites, railways and quarries. Motorised recreation is not covered, so a car or van stay is outside the rights. {{soac-p12}}"
+    },
+    {
+     "t": "p",
+     "x": "Because a tent counts as a private place, the same privacy rule protects other campers: do not pitch on top of someone else's camp. {{soac-p3a}}"
+    },
+    {
      "t": "h",
      "x": "Rules differ by place"
     },
@@ -46,8 +58,8 @@
       ],
       [
        "Rest of England and Wales",
-       "The Countryside Code asks you to follow local signs and keep to marked paths unless wider access exists, such as open access land. It does not itself grant a right to camp. {{cc-ew}}",
-       "Our inference: ask the landowner or use a campsite. Verify locally."
+       "The Countryside Code asks you to follow local signs and keep to marked paths unless wider access exists, such as open access land. It lists camping among the activities that may need the landowner's permission. {{cc-gov-enjoy}}",
+       "Ask the landowner or use a campsite, unless a specific local scheme (such as Dartmoor's mapped areas) allows it."
       ],
       [
        "Northern Ireland",
@@ -61,6 +73,36 @@
       ]
      ],
      "src": "{{soac}} {{dartmoor}} {{cc-ew}} {{cc-ni}} {{lnt-ie}}"
+    },
+    {
+     "t": "p",
+     "x": "Dartmoor's allowance is a legal right, not a favour. Section 10(1) of the Dartmoor Commons Act 1985 gives the public a right of access to the Commons on foot and on horseback for open-air recreation, and in [2025] UKSC 20 the UK's top court held unanimously that this includes wild camping. {{uksc-1}}"
+    },
+    {
+     "t": "p",
+     "x": "The right holds only while you keep the byelaws: no vehicle, caravan or structure other than a tent, and no camping in the areas the byelaws list, which is why the map matters. Break them and the landowner can treat you as a trespasser. {{uksc-1}}"
+    },
+    {
+     "t": "p",
+     "x": "The Commons are privately owned moorland where local commoners graze their animals, about 37% of the National Park and 75% of its moorland, so you camp as a guest on working land. {{uksc-1}} The case went one way in the High Court and the other on appeal before the final ruling, so check the date on any guidance you read. {{uksc-1}} {{uksc-2}}"
+    },
+    {
+     "t": "p",
+     "x": "An access right does not always include camping. An older law giving the public access to metropolitan commons for air and exercise excluded any right to camp or light a fire, so read what each right actually covers. {{uksc-1}}"
+    },
+    {
+     "t": "check",
+     "q": "A friend shows you a blog post from early 2023 saying wild camping on the Dartmoor Commons needs the landowner's consent. What is the best response?",
+     "o": [
+      "Agree, since a blog post that recent must be right",
+      "Ignore the byelaws, because the right to camp overrides them",
+      "Check current guidance: a later ruling upheld the right to camp",
+      "Ask every farmer on the moor before each night out",
+      "Camp in a van instead, since vehicles are not covered by the rule"
+     ],
+     "a": 2,
+     "w": "The High Court ruled against a right to camp, but the Court of Appeal reversed that and the final appeal in [2025] UKSC 20 was dismissed, so camping on the Commons is a right while you keep the byelaws, which bar vehicles. {{uksc-1}} {{uksc-2}}",
+     "kind": "application"
     },
     {
      "t": "fig",
@@ -295,6 +337,18 @@
      "x": "The England and Wales Countryside Code adds that you should only have barbecues where signs say you can. {{cc-ew}} Dartmoor's backpack camping code allows no open fires or barbecues at all. {{dartmoor}}"
     },
     {
+     "t": "p",
+     "x": "The Scottish Code is the most detailed on fire. Use a stove rather than an open fire wherever possible. If you do light one, keep it small, under control and supervised, because you might be liable for any damage if it escapes. Never light one in prolonged dry periods, or in forests, woods, farmland, on peaty ground, near buildings or on historic sites, and remove every trace before you leave. {{soac-p5b}}"
+    },
+    {
+     "t": "p",
+     "x": "Scots law backs this up: lighting a fire on enclosed or cultivated land, near a private road or in or near a plantation without the owner's consent is an offence. {{soac-annex}}"
+    },
+    {
+     "t": "p",
+     "x": "The Countryside Code notes that some land managers burn heath and moor on purpose between 1 October and 15 April. If you see a fire with nobody tending it, call 999. {{cc-gov-env}}"
+    },
+    {
      "t": "h",
      "x": "Toilet"
     },
@@ -403,6 +457,32 @@
     {
      "t": "p",
      "x": "The Scottish guidance agrees in spirit: managed campsites with facilities can be a much better option in busy areas. {{soac}} For anything else, camp well away from buildings and roads, use a small tent, avoid fields with crops or animals, and keep a backup plan for when it is busy. {{soac}}"
+    },
+    {
+     "t": "p",
+     "x": "The Code's own wild-camping rules for Scotland: keep it lightweight, in small numbers, for two or three nights in one place; do not camp in enclosed fields of crops or farm animals; keep well away from buildings, roads and historic structures; and ask permission to camp near a house. {{soac-p5b}}"
+    },
+    {
+     "t": "p",
+     "x": "Some ground is easily damaged: riverbanks, loch shores, marshes, bogs, mountain tops, steep slopes and coastal dunes. Never camp or light a fire on a historic site, which may look like nothing more than a grassy mound, a line of stones or a ruined wall. {{soac-p3b}}"
+    },
+    {
+     "t": "check",
+     "q": "You plan a wild camp in Scotland. Which pitch fits the Scottish Outdoor Access Code?",
+     "o": [
+      "A flat corner of a field where sheep and lambs are grazing",
+      "Open hillside well away from roads and houses",
+      "A grassy mound beside standing stones, out of the wind",
+      "A lay-by verge so the car is close by for the night",
+      "The lawn of a holiday cottage, since nobody is staying there"
+     ],
+     "a": 1,
+     "w": "The Code says to avoid enclosed fields of animals, keep well away from buildings, roads and historic structures, and it does not cover car stays or gardens. {{soac-p5b}}",
+     "kind": "application"
+    },
+    {
+     "t": "p",
+     "x": "Cow and sheep droppings can carry E. coli. The risk is small, but it is highest when people camp or picnic where farm animals graze, so a grazed field is a poor pitch. {{soac-p3a}}"
     },
     {
      "t": "table",

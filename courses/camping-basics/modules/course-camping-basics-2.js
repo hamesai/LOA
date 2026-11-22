@@ -198,6 +198,10 @@
     },
     {
      "t": "p",
+     "x": "Ticks are part of pitch choice. They live in dense ground vegetation such as woodland, grassland, moorland and heath, and they are often thick along woodland edges and scrub used by wildlife. {{ukhsa-1}} They do not fly or jump: they wait on the tips of plants and climb on as you brush past, so a short-grass pitch away from bracken and long grass lowers the risk. {{ukhsa-2}} Module 6 covers the evening tick check."
+    },
+    {
+     "t": "p",
      "x": "Orientation: many campers face the smaller end into the wind, but REI says it is more important to place the side with the strongest pole structure toward the wind. {{rei-setup}} Doors should face away from the wind to stop rain blowing in. {{rei-setup}}"
     },
     {

@@ -1,6 +1,6 @@
 # Library of Alexandria: Pre-Colonial Africa: states, networks and the evidence for them (to c. 1880)
 
-Level: Intermediate. Created 18/11/2026.
+Level: Intermediate. Created 21/11/2026.
 
 Place the major African states from Nok and Kush to the eve of the Scramble on a map and timeline, and judge how strong the evidence is for each claim, from archaeology and oral tradition to chronicles and outside accounts.
 

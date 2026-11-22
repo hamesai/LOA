@@ -139,12 +139,16 @@
    "blocks": [
     {
      "t": "p",
-     "x": "Consumer law in Ireland and the EU protects people buying goods, services and digital content against unfair sales practices. {{ci-unfair}} A practice is unfair if it misleads, pressures or is likely to distort the buying decision. {{ci-unfair}}"
+     "x": "In the UK, unfair selling to consumers has been governed since 6 April 2025 by the Digital Markets, Competition and Consumers Act 2024, which replaced the 2008 unfair trading regulations. It works in two layers: 32 practices that are banned outright, and misleading actions, misleading omissions, aggressive practices and failures of professional diligence, which are unlawful if they are likely to change the average consumer's decision. {{cma207-overview}} Ireland and the EU have their own version: there, a practice is unfair if it misleads, pressures or is likely to distort the buying decision. {{ci-unfair}}"
+    },
+    {
+     "t": "p",
+     "x": "A salesperson is covered personally: anyone acting on a business's behalf counts as a trader, and a 'transactional decision' includes agreeing to a sales presentation, not only buying. Judge your pitch from the viewpoint of a vulnerable group you could foresee, for example older people, someone recently bereaved or someone who has just lost a job. {{cma207-core}}"
     },
     {
      "t": "callout",
      "k": "warn",
-     "x": "Scope matters. Citizens Information says these consumer rules apply to sales between businesses and consumers, and do not cover sales between businesses or private sales between consumers. {{ci-unfair}} B2B selling still needs honesty, other laws and good practice, but check which rules apply to your customer. Our sources are Irish; we did not read the UK consumer-law equivalent, so check GOV.UK for UK sales."
+     "x": "Scope matters. In both countries these consumer rules cover sales by businesses to consumers, not sales between businesses or private sales between consumers. {{ci-unfair}} In the UK, business-to-business marketing is covered instead by the Business Protection from Misleading Marketing Regulations 2008, and a supplier's claims that reach consumers through retailers must still be true. {{cma207-core}}"
     },
     {
      "t": "table",
@@ -172,6 +176,40 @@
     {
      "t": "p",
      "x": "The Competition and Consumer Protection Commission (CCPC) enforces the Consumer Protection Act 2007 and the Consumer Rights Act 2022. {{ci-unfair}} A consumer treated unfairly may be able to claim compensation, cancel the contract or get a refund. {{ci-unfair}}"
+    },
+    {
+     "t": "h",
+     "x": "The UK banned list, for a salesperson"
+    },
+    {
+     "t": "p",
+     "x": "The banned practices that matter most in selling include: falsely saying an offer is only available for a limited time to force a quick decision; presenting legal rights, such as the 14-day cancellation right, as a special feature of your offer; exaggerating risks to the customer's safety if they do not buy; posing as a private seller; making someone feel they cannot leave until they sign; ignoring a request to leave or not return to their home; persistent and unwanted calls, emails or other approaches; and telling them your job is at risk if they do not buy. {{cma207-banned}}"
+    },
+    {
+     "t": "p",
+     "x": "The stakes are high: enforcers can impose penalties up to £300,000 or 10% of worldwide turnover, whichever is higher, and most banned practices are also criminal offences. {{cma207-banned}} Those offences are strict liability, so intent does not have to be proved, and on indictment can carry up to two years' imprisonment. {{cma207-offences}}"
+    },
+    {
+     "t": "p",
+     "x": "Truthful words can still mislead. Back every factual claim with evidence, and remember that the overall presentation counts: 'Be quick! We've sold 10 in the last 5 minutes' misleads if stock is plentiful. {{cma207-mislead}} You must also make the commercial intent clear at the start: a phone 'survey' that turns into a sales pitch is a misleading omission. {{cma207-omit}}"
+    },
+    {
+     "t": "p",
+     "x": "Any message that gives a product and its price, from an email offer to a social media post, must show the main characteristics, the total price including compulsory charges, who you are and your business address, and any cancellation rights, clearly and in good time. Adding compulsory fees late in the process, known as drip pricing, is banned. {{cma207-itp}}"
+    },
+    {
+     "t": "check",
+     "q": "A phone script opens: 'We're doing a short survey about home security in your street.' Two minutes later it offers an alarm system. What does UK law say?",
+     "o": [
+      "It is fine, because the customer can still say no to the alarm",
+      "It is fine if the script is only used on business numbers",
+      "It fails to make the commercial intent clear at the start",
+      "It is only a problem if the alarm is priced above market",
+      "It is allowed once the caller gives their name and company"
+     ],
+     "a": 2,
+     "w": "The CMA uses exactly this example: a call presented as a survey that becomes a sales pitch fails to identify its commercial intent. {{cma207-omit}}",
+     "kind": "application"
     },
     {
      "t": "h",
@@ -292,6 +330,10 @@
      "x": "In the UK, direct marketing by phone or electronic mail is regulated by the Privacy and Electronic Communications Regulations (PECR) as well as data protection law. {{ico-email}} {{ico-tel}} Direct marketing means advertising or marketing material directed to particular individuals. {{ico-email}}"
     },
     {
+     "t": "p",
+     "x": "The email rule covers more than email: texts, picture and video messages, voicemails and direct messages on social media all count as electronic mail. {{ico-email-types}} You must not hide who you are, and every message needs a valid address for opting out. {{ico-email-rules}} There is no email or text version of the TPS. {{ico-email-notps}} Asking customers to forward your offer to friends, or to hand over friends' details, still makes you responsible for those messages. {{ico-email-viral}}"
+    },
+    {
      "t": "h",
      "x": "Live calls"
     },
@@ -341,6 +383,14 @@
     {
      "t": "p",
      "x": "Business-to-business marketing still touches personal data. A named email such as initials.lastname@company.com identifies a person, so UK GDPR applies. {{ico-b2b}} The ICO says consent and legitimate interests are the two lawful bases most relevant to B2B marketing, and legitimate interests needs a three-part test: identify the interest, show it is necessary, and balance it against the person's rights. {{ico-b2b}} Businesses can object, and you must then stop. {{ico-b2b}}"
+    },
+    {
+     "t": "p",
+     "x": "For live calls, including business calls: say who is calling, display your number, give contact details if asked, and screen against both the TPS and the CTPS, because sole traders and some partnerships register on the TPS. If you cannot tell whether a contact is a company or a sole trader, treat it as an individual before you email. {{ico-b2b-full}}"
+    },
+    {
+     "t": "p",
+     "x": "To call a TPS-registered number, the person must have specifically told you, by name, that they agree to your marketing calls, and you need a record of it; failing to tick an opt-out box is not enough. If someone you have called later registers with the TPS, stop calling unless they had already agreed. {{ico-live-full}}"
     },
     {
      "t": "callout",
@@ -435,6 +485,10 @@
     {
      "t": "p",
      "x": "Good records support honest, lawful selling. Under UK GDPR, if you can identify a person from the contact detail, even in a business role, it is personal data. {{ico-b2b}} Tell people who you are and why you hold their details when you collect them for marketing. {{ico-b2b}} A message that only informs, such as an appointment reminder, is a service message; it cannot contain anything promotional. {{ico-b2b-small}}"
+    },
+    {
+     "t": "p",
+     "x": "UK law sets a floor under any personal code: a trader must show the skill and care expected under honest market practice or good faith, and must not take advantage of a customer's inexperience. If bad practice is common in your sector, that is no defence, and following a trade code may not be enough on its own. {{cma207-diligence}}"
     },
     {
      "t": "table",

@@ -1,0 +1,8 @@
+[
+  {"book": "aerie-wm", "state": "mark", "ids": ["77da36ec"], "note": "module 6: callout reworded; new lesson 'Minor injuries and heat: blisters, burns, sprains and stings'"},
+  {"book": "ukhsa-ticks", "state": "mark", "ids": ["dec6022b"], "note": "module 6, lesson Recognising illness: tick callout replaced by 'Ticks and Lyme disease' section (no species count, no 3,000 to 4,000 estimate)"},
+  {"book": "aerie-wm", "state": "avoid", "ids": ["8af2054b"], "note": "checked 19/11/2026: modules do not use Aerie's boil times or its 2-month iodine limit; Module 4 keeps the CDC figures"},
+  {"book": "aerie-wm", "state": "avoid", "ids": ["5f5d8419"], "note": "checked 19/11/2026: tick lesson teaches UKHSA (several weeks, DEET); no 'two weeks' or permethrin in the modules"},
+  {"book": "aerie-wm", "state": "mark", "ids": ["2cc6a054"], "note": "module 6: new lesson opens 'It does not replace a first-aid course'; callout says cuts, breaks and head injuries need hands-on training; 999 lines cite the UK source (mrew)"},
+  {"book": "ukhsa-ticks", "state": "avoid", "ids": ["51a30b40"], "note": "checked 19/11/2026: no tick species count or life-stage count in the modules"}
+]

@@ -1,0 +1,637 @@
+{
+ "key": "aerie-wm",
+ "title": "Wilderness Medicine, 15th edition (Aerie Backcountry Medicine)",
+ "author": "",
+ "file": "Aerie Wilderness Medicine 15th edition.pdf",
+ "format": "pdf",
+ "sha256": "38a23840336d4716519090c279cfaca1b5dd911e414a191778c323167a24c64f",
+ "words": 47770,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Front matter",
+   "words": 4,
+   "pages": [
+    1,
+    1
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Wilderness Medicine - 14th Edition",
+   "words": 145,
+   "pages": [
+    2,
+    3
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Table of Contents",
+   "words": 365,
+   "pages": [
+    4,
+    4
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Section One:\nIntroduction",
+   "words": 10,
+   "pages": [
+    5,
+    5
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Manual Layout",
+   "words": 523,
+   "pages": [
+    6,
+    6
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Evidence & Guidelines",
+   "words": 320,
+   "pages": [
+    7,
+    7
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Pertinent Legal Aspects of Wilderness Medicine",
+   "words": 960,
+   "pages": [
+    8,
+    10
+   ]
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Patient Assessment",
+   "words": 120,
+   "pages": [
+    11,
+    11
+   ]
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Scene Survey",
+   "words": 459,
+   "pages": [
+    12,
+    12
+   ]
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Primary Survey",
+   "words": 98,
+   "pages": [
+    13,
+    13
+   ]
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Primary Survey (ABCDEs)",
+   "words": 433,
+   "pages": [
+    14,
+    14
+   ]
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Secondary Survey",
+   "words": 900,
+   "pages": [
+    15,
+    17
+   ]
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Vital Signs",
+   "words": 359,
+   "pages": [
+    18,
+    18
+   ]
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Patient History (SAMPLE/OPQRST)",
+   "words": 708,
+   "pages": [
+    19,
+    21
+   ]
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "Written and Verbal Patient Reports (SOAP note/ACT-MIST report)",
+   "words": 379,
+   "pages": [
+    22,
+    23
+   ]
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "SOAP Note - Front",
+   "words": 293,
+   "pages": [
+    24,
+    26
+   ]
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "Airway Management",
+   "words": 202,
+   "pages": [
+    27,
+    27
+   ]
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "Airway Maneuvers",
+   "words": 426,
+   "pages": [
+    28,
+    28
+   ]
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "Backcountry CPR",
+   "words": 568,
+   "pages": [
+    29,
+    29
+   ]
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "Stress Injuries and Psychological First Aid",
+   "words": 521,
+   "pages": [
+    30,
+    30
+   ]
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "Improving Rescuer Performance Under Stress",
+   "words": 508,
+   "pages": [
+    31,
+    32
+   ]
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "Bleeding and Shock",
+   "words": 496,
+   "pages": [
+    33,
+    33
+   ]
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "External Bleeding",
+   "words": 1587,
+   "pages": [
+    34,
+    37
+   ]
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "Internal Bleeding",
+   "words": 682,
+   "pages": [
+    38,
+    39
+   ]
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "Chest Trauma",
+   "words": 1030,
+   "pages": [
+    40,
+    43
+   ]
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "Head Injuries",
+   "words": 482,
+   "pages": [
+    44,
+    44
+   ]
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "Spinal Injuries",
+   "words": 1772,
+   "pages": [
+    45,
+    48
+   ]
+  },
+  {
+   "file": "ch-028.txt",
+   "title": "Open Wounds",
+   "words": 1117,
+   "pages": [
+    49,
+    51
+   ]
+  },
+  {
+   "file": "ch-029.txt",
+   "title": "Specific Wounds",
+   "words": 845,
+   "pages": [
+    52,
+    53
+   ]
+  },
+  {
+   "file": "ch-030.txt",
+   "title": "Head, Eyes, Ears, Nose and Throat (HEENT)",
+   "words": 1098,
+   "pages": [
+    54,
+    56
+   ]
+  },
+  {
+   "file": "ch-031.txt",
+   "title": "Burns",
+   "words": 784,
+   "pages": [
+    57,
+    59
+   ]
+  },
+  {
+   "file": "ch-032.txt",
+   "title": "Musculoskeletal Trauma",
+   "words": 553,
+   "pages": [
+    60,
+    60
+   ]
+  },
+  {
+   "file": "ch-033.txt",
+   "title": "Sprains and Strains",
+   "words": 405,
+   "pages": [
+    61,
+    61
+   ]
+  },
+  {
+   "file": "ch-034.txt",
+   "title": "Splinting",
+   "words": 320,
+   "pages": [
+    62,
+    62
+   ]
+  },
+  {
+   "file": "ch-035.txt",
+   "title": "Fractures",
+   "words": 502,
+   "pages": [
+    63,
+    64
+   ]
+  },
+  {
+   "file": "ch-036.txt",
+   "title": "Fractures with Special Considerations",
+   "words": 1713,
+   "pages": [
+    65,
+    69
+   ]
+  },
+  {
+   "file": "ch-037.txt",
+   "title": "Evacuation Decisions",
+   "words": 877,
+   "pages": [
+    70,
+    71
+   ]
+  },
+  {
+   "file": "ch-038.txt",
+   "title": "Litters for Patient Evacuation",
+   "words": 247,
+   "pages": [
+    72,
+    73
+   ]
+  },
+  {
+   "file": "ch-039.txt",
+   "title": "Medical Emergencies",
+   "words": 250,
+   "pages": [
+    74,
+    74
+   ]
+  },
+  {
+   "file": "ch-040.txt",
+   "title": "Cardiac Emergencies",
+   "words": 343,
+   "pages": [
+    75,
+    75
+   ]
+  },
+  {
+   "file": "ch-041.txt",
+   "title": "Dehydration",
+   "words": 481,
+   "pages": [
+    76,
+    76
+   ]
+  },
+  {
+   "file": "ch-042.txt",
+   "title": "Abdominal Medical Emergencies",
+   "words": 729,
+   "pages": [
+    77,
+    78
+   ]
+  },
+  {
+   "file": "ch-043.txt",
+   "title": "Allergic Reactions and Anaphylaxis",
+   "words": 870,
+   "pages": [
+    79,
+    80
+   ]
+  },
+  {
+   "file": "ch-044.txt",
+   "title": "Pharmacology of Epinephrine",
+   "words": 531,
+   "pages": [
+    81,
+    81
+   ]
+  },
+  {
+   "file": "ch-045.txt",
+   "title": "Asthma",
+   "words": 378,
+   "pages": [
+    82,
+    82
+   ]
+  },
+  {
+   "file": "ch-046.txt",
+   "title": "Diabetic Emergencies",
+   "words": 549,
+   "pages": [
+    83,
+    85
+   ]
+  },
+  {
+   "file": "ch-047.txt",
+   "title": "Hypothermia",
+   "words": 1761,
+   "pages": [
+    86,
+    89
+   ]
+  },
+  {
+   "file": "ch-048.txt",
+   "title": "Cold Injuries",
+   "words": 1025,
+   "pages": [
+    90,
+    92
+   ]
+  },
+  {
+   "file": "ch-049.txt",
+   "title": "High Altitude Illnesses",
+   "words": 3112,
+   "pages": [
+    93,
+    98
+   ]
+  },
+  {
+   "file": "ch-050.txt",
+   "title": "Lightning",
+   "words": 821,
+   "pages": [
+    99,
+    100
+   ]
+  },
+  {
+   "file": "ch-051.txt",
+   "title": "Drowning",
+   "words": 911,
+   "pages": [
+    101,
+    102
+   ]
+  },
+  {
+   "file": "ch-052.txt",
+   "title": "Heat Emergencies",
+   "words": 2968,
+   "pages": [
+    103,
+    108
+   ]
+  },
+  {
+   "file": "ch-053.txt",
+   "title": "Carbon Monoxide (CO) Poisoning",
+   "words": 300,
+   "pages": [
+    109,
+    109
+   ]
+  },
+  {
+   "file": "ch-054.txt",
+   "title": "Stings, Bites, and Rubs",
+   "words": 2265,
+   "pages": [
+    110,
+    116
+   ]
+  },
+  {
+   "file": "ch-055.txt",
+   "title": "Backcountry Decision Making",
+   "words": 480,
+   "pages": [
+    117,
+    117
+   ]
+  },
+  {
+   "file": "ch-056.txt",
+   "title": "Evacuation Criteria",
+   "words": 515,
+   "pages": [
+    118,
+    118
+   ]
+  },
+  {
+   "file": "ch-057.txt",
+   "title": "Triage and Multiple Casualty Incidents",
+   "words": 438,
+   "pages": [
+    119,
+    119
+   ]
+  },
+  {
+   "file": "ch-058.txt",
+   "title": "Stress Management",
+   "words": 693,
+   "pages": [
+    120,
+    122
+   ]
+  },
+  {
+   "file": "ch-059.txt",
+   "title": "Water Purification and Filtration",
+   "words": 709,
+   "pages": [
+    123,
+    124
+   ]
+  },
+  {
+   "file": "ch-060.txt",
+   "title": "First Aid Kits",
+   "words": 289,
+   "pages": [
+    125,
+    125
+   ]
+  },
+  {
+   "file": "ch-061.txt",
+   "title": "Medications",
+   "words": 467,
+   "pages": [
+    126,
+    126
+   ]
+  },
+  {
+   "file": "ch-062.txt",
+   "title": "Preparedness and Survival Considerations",
+   "words": 360,
+   "pages": [
+    127,
+    127
+   ]
+  },
+  {
+   "file": "ch-063.txt",
+   "title": "Survival Kit Contents",
+   "words": 342,
+   "pages": [
+    128,
+    128
+   ]
+  },
+  {
+   "file": "ch-064.txt",
+   "title": "Helicopter Landing Zone",
+   "words": 364,
+   "pages": [
+    129,
+    129
+   ]
+  },
+  {
+   "file": "ch-065.txt",
+   "title": "Abdominal and Thoracic Anatomy",
+   "words": 12,
+   "pages": [
+    130,
+    130
+   ]
+  },
+  {
+   "file": "ch-066.txt",
+   "title": "Skeletal Structure Anatomy",
+   "words": 11,
+   "pages": [
+    131,
+    131
+   ]
+  },
+  {
+   "file": "ch-067.txt",
+   "title": "Cardiopulmonary Blood Flow",
+   "words": 11,
+   "pages": [
+    132,
+    132
+   ]
+  },
+  {
+   "file": "ch-068.txt",
+   "title": "Glossary",
+   "words": 2974,
+   "pages": [
+    133,
+    139
+   ]
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (26% common English words, 2.9% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "Aerie Wilderness Medicine 15th edition.pdf",
+  "found_by": "source-discovery",
+  "url": "https://www.aeriemedicine.com/wp-content/uploads/2025/06/Aerie-15th-Edition-Manual-15-02.pdf",
+  "query": "Source Discovery, 19/11/2026"
+ },
+ "text_quality": {
+  "common_word_share": 0.263,
+  "odd_character_share": 0.029
+ }
+}

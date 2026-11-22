@@ -1,0 +1,23 @@
+[
+ {"book":"pag-2018","state":"mark","ids":["ce9ecd80","a1797754"],"note":"module 3, lesson Why motivation decides the programme (same-day benefits; sleep timing)"},
+ {"book":"pag-2018","state":"mark","ids":["3316222a"],"note":"module 1, lesson Strength work, sitting less and starting small (relative weekly rise) and module 5, lesson Progression (slower build-ups)"},
+ {"book":"pag-2018","state":"mark","ids":["a17dae9d"],"note":"module 5, lesson Designing a session (warm-up, cool-down, stretching evidence)"},
+ {"book":"pag-2018","state":"mark","ids":["a57e252d"],"note":"module 4, lesson The levers of a resistance programme (overload, progression, specificity)"},
+ {"book":"pag-2018","state":"mark","ids":["296c96ed"],"note":"module 4, lessons on volume (one set of 8 to 12) and proximity to failure (difficult to do another repetition)"},
+ {"book":"pag-2018","state":"mark","ids":["692e739a"],"note":"module 6, lesson Nutrition within your scope (weight, minutes, lean mass)"},
+ {"book":"pag-2018","state":"mark","ids":["5935756f"],"note":"module 5, lesson Putting aerobic work alongside the lifting (relative effort for older clients) and module 6, lesson Older adults (falls sessions a week, sit-to-stands)"},
+ {"book":"pag-2018","state":"skip","ids":["33e03944"],"note":"MET bands and the four activity levels: the course teaches intensity with the talk test and the 0 to 10 effort scale, which clients can use without a MET table"},
+ {"book":"pag-2018","state":"skip","ids":["1873815b"],"note":"US national prevalence figures: context for American policy, not needed to coach a UK or Irish client"},
+ {"book":"pag-2018","state":"skip","ids":["fb95dbdb"],"note":"Definitions of activity and exercise are already in module 1; the total-amount point is taught through weekly moderate-equivalent minutes"},
+ {"book":"pag-2018","state":"skip","ids":["5d8f5bba"],"note":"Case examples repeat the build-up pattern already taught in modules 1 and 5 (start low, raise minutes and days first)"},
+ {"book":"ukcmo-2026","state":"mark","ids":["fd5f40e8"],"note":"module 1, lesson The weekly activity targets (no absolute thresholds; least active gain most per minute; new check)"},
+ {"book":"ukcmo-2026","state":"mark","ids":["c9f98e0d"],"note":"module 6, lesson Older adults (7,000 to 10,000 steps; limited HIIT evidence in older people)"},
+ {"book":"ukcmo-2026","state":"skip","ids":["946c9798"],"note":"Variety and all major muscle groups are covered by movement-pattern selection in module 5 and the strength target in module 1"},
+ {"book":"ukcmo-2026","state":"skip","ids":["8f288b04"],"note":"Next-update date is a review-schedule note for the reading list, not lesson content"},
+ {"book":"who-2020","state":"mark","ids":["79dddcc3"],"note":"module 1, lesson The weekly activity targets (0 to 10 effort scale, taught from the US wording, which matches the WHO glossary)"},
+ {"book":"who-2020","state":"mark","ids":["a3c58525"],"note":"module 6, lesson Older adults (functional ideas such as sit-to-stands and stair climbing)"},
+ {"book":"who-2020","state":"mark","ids":["c80b5bbf"],"note":"module 1, lesson Strength work, sitting less and starting small (hazard ratio 0.80 for strength alone; no ideal session length)"},
+ {"book":"who-2020","state":"skip","ids":["02711360","69a99266"],"note":"Global inactivity and deaths-averted figures: public-health context, not needed for coaching decisions"},
+ {"book":"who-2020","state":"skip","ids":["807f168b"],"note":"Audience framing note; the course already teaches translating guidelines for clients"},
+ {"book":"who-2020","state":"skip","ids":["5c3abc6f"],"note":"Children's evidence, outside the adult scope of the course; the progression point is taught from the adult sources"}
+]

@@ -1,0 +1,48 @@
+{
+ "key": "cdc-yb-water",
+ "title": "CDC Yellow Book 2026: Water Disinfection for Travelers",
+ "author": "",
+ "file": "CDC Yellow Book 2026 - Water Disinfection for Travelers.md",
+ "format": "md",
+ "sha256": "4bd6c97313972e0acd3938a8b1e0161617c0ef15e847017e6a985a41d710b145",
+ "words": 3032,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Water Disinfection for Travelers (CDC Yellow Book 2026, chapter authors Howard D. Backer a",
+   "words": 29
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Introduction",
+   "words": 767
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Field techniques for water treatment and disinfection",
+   "words": 1866
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Choosing a treatment or disinfection technique",
+   "words": 322
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Sources (selected)",
+   "words": 48
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (26% common English words, 3.4% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "CDC Yellow Book 2026 - Water Disinfection for Travelers.md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.265,
+  "odd_character_share": 0.034
+ }
+}

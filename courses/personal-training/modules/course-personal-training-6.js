@@ -306,6 +306,18 @@
     },
     {
      "t": "p",
+     "x": "Diet is the main factor in weight management; activity plays a supporting role and improves health at any weight. {{ukcmo-intro}}"
+    },
+    {
+     "t": "p",
+     "x": "The US guidelines add that many people need more than 150 minutes a week to hold their weight, that losing more than 5% of body weight may take over 300, and that strength work helps keep lean mass during weight loss. {{pag-weight}}"
+    },
+    {
+     "t": "p",
+     "x": "Clients on GLP-1 weight-loss drugs lose muscle as well as fat. The UK report says strength work is likely to be especially important for keeping muscle, though the evidence is still emerging. {{ukcmo-intro}}"
+    },
+    {
+     "t": "p",
      "x": "Do not guess about kidney disease, pregnancy or eating disorders; refer to a dietitian or doctor. This is our professional rule."
     },
     {
@@ -401,12 +413,52 @@
      "x": "The recommendation now applies to all older adults, not only those with poor mobility. {{who2020}}"
     },
     {
+     "t": "p",
+     "x": "Muscle mass and bone density decline naturally from around 50 years of age, which is why strength work matters before old age. {{ukcmo-intro}}"
+    },
+    {
+     "t": "p",
+     "x": "The UK report asks adults aged 65 and over to work on strength, balance and flexibility on at least 2 days a week, and suggests a trained professional supervises new exercises at first for people with frailty, moderate-to-severe dementia, vertebral fractures or regular falls. {{ukcmo-older}}"
+    },
+    {
+     "t": "p",
+     "x": "Its practical ideas include sit-to-stands, stair climbing and 'walk and rest for a minute' for people whose function is slipping. {{ukcmo-older}}"
+    },
+    {
+     "t": "p",
+     "x": "Step counts can help older clients track progress: in healthy older adults, 30 minutes a day of moderate-to-vigorous activity on top of daily life is roughly 7,000 to 10,000 steps a day. Evidence on high-intensity interval training in older people is still very limited. {{ukcmo-older}}"
+    },
+    {
+     "t": "p",
+     "x": "In the WHO evidence review, exercise cut the rate of falls by about 23% (rate ratio 0.77), and most falls trials used about 3 sessions a week. {{who20-adults}}"
+    },
+    {
+     "t": "p",
+     "x": "For frail older adults, the US guidelines report that multicomponent activity of at least moderate intensity, 3 or more times a week for 30 to 45 minutes a session over at least 3 to 5 months, works best. {{pag-frail}}"
+    },
+    {
      "t": "h",
      "x": "Pregnant and postpartum women"
     },
     {
      "t": "p",
      "x": "Regular strength training is recommended for pregnant and postpartum women. {{who2020}}"
+    },
+    {
+     "t": "p",
+     "x": "The WHO asks for at least 150 minutes of moderate activity a week through pregnancy and after birth, and says women who were vigorously active before pregnancy can continue. {{who20-recs}}"
+    },
+    {
+     "t": "p",
+     "x": "The UK report adds that vigorous activity is not recommended for women who were inactive before, and that after the 6 to 8 week postnatal check intensity can build from moderate to vigorous over at least 3 months. {{ukcmo-adults}}"
+    },
+    {
+     "t": "p",
+     "x": "WHO safety points: avoid excessive heat, contact sports, activities with a high risk of falling, high altitude when not acclimatised, and lying on the back after the first trimester; daily pelvic floor training may reduce incontinence; return gradually after a Caesarean section, with a health-care provider. {{who20-recs}}"
+    },
+    {
+     "t": "p",
+     "x": "In pregnancy, perceived effort (5 to 6 out of 10) or the talk test is a better guide to intensity than heart rate. {{pag-preg}}"
     },
     {
      "t": "p",
@@ -422,11 +474,32 @@
     },
     {
      "t": "p",
+     "x": "Condition notes from the US guidelines: in hypertension the benefits are larger than in people with normal blood pressure and medication may need adjusting as activity rises, so the doctor should know; in type 2 diabetes watch blood glucose, footwear and foot injuries; in osteoarthritis, low-impact activities that are not painful, such as swimming, walking and tai chi, do not worsen the disease when done safely. {{pag-conds}}"
+    },
+    {
+     "t": "p",
+     "x": "The UK review found no evidence that appropriate activity is a risk for disabled adults, and says myths that it is inherently harmful should be dispelled. {{ukcmo-adults}}"
+    },
+    {
+     "t": "p",
      "x": "Adults with disability may need to consult a healthcare professional or specialist to choose the type and amount. {{who2020}}"
     },
     {
      "t": "p",
      "x": "Wheelchair users and people with low mobility can reduce sedentary time with seated activity. {{who2020}}"
+    },
+    {
+     "t": "check",
+     "q": "A client is 20 weeks pregnant, her pregnancy is uncomplicated, and she has trained regularly for years. Which change do the WHO and US guidelines advise?",
+     "o": [
+      "Stop all strength training until after the baby is born",
+      "Keep her heart rate under one fixed number in every session",
+      "Cut activity to under 60 minutes a week to be safe",
+      "Move exercises done lying on her back into other positions",
+      "Add high-altitude hikes to build stamina for labour"
+     ],
+     "a": 3,
+     "w": "Both advise avoiding exercise lying on the back after the first trimester; previously active women can usually continue, and effort or the talk test guides intensity better than heart rate. {{pag-preg}}"
     },
     {
      "t": "table",

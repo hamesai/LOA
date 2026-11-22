@@ -260,15 +260,41 @@
     },
     {
      "t": "p",
-     "x": "HMRC's manual lists badges of trade, which are factors it weighs when deciding whether an activity is a trade. {{hmrc-bim20205}}"
+     "x": "HMRC's Business Income Manual lists nine badges of trade: a profit-seeking motive, the number of transactions, the nature of the asset, similar trading interests, changes made to the asset, the way it was sold, how it was financed, the time between buying and selling, and how it was acquired. No single badge decides it; the courts look at the overall impression. {{bim-summary}}"
     },
     {
      "t": "p",
-     "x": "A summary by accountants gives them as profit motive, how often you transact, whether you improve goods before selling, how you finance purchases and how quickly you sell. {{iak}}"
+     "x": "Repetition matters most for a reseller. One purchase and sale does not usually make a trader, but systematic repetition does: ten deals a year look more like trading than two, and a run of related deals at short intervals looks like habitual activity. {{bim-repeat}}"
     },
     {
      "t": "p",
-     "x": "Buying twenty pairs of trainers to flip is a trade, while selling twenty pairs of your own old trainers is a tidy-up. {{iak}}"
+     "x": "Vintage has a special wrinkle. Antiques, paintings and works of art are often bought for the pleasure of owning them, so a hope that they will rise in value does not by itself make a sale a trade. {{bim-pride}} But HMRC's manual notes that a one-off purchase of silver cutlery by a general dealer is far more likely to be trade than the same purchase by a retired colonel. {{bim-connect}}"
+    },
+    {
+     "t": "p",
+     "x": "Work you do points the same way. Repairing or adapting an item to make it more saleable is typical of trading. {{bim-modify}} So is splitting a large lot into smaller ones. {{bim-lots}} Ordinary maintenance that any owner would do, such as fixing a fault, carries little weight. {{bim-upkeep}} An organised sales effort, such as advertising, also points to trade. {{bim-sales}}"
+    },
+    {
+     "t": "p",
+     "x": "Inherited or gifted items are less likely to be trade, but if you later set out to sell them as a venture, with work done on them or a selling operation, a trade can start part-way through. {{bim-acquire}}"
+    },
+    {
+     "t": "check",
+     "q": "Jo inherits a house of furniture, has the chairs re-upholstered, splits the china into single lots and lists them weekly online. Which badges of trade does this add to the picture?",
+     "o": [
+      "None, because inherited items can never become trading stock",
+      "Changes to the asset and the way the sale was carried out",
+      "Only the method of finance, since no money was borrowed",
+      "The nature of the asset alone, which settles it as investment",
+      "Only the time between buying and selling, which is zero"
+     ],
+     "a": 1,
+     "w": "Re-upholstering and splitting lots are changes to make the items saleable, and regular organised listing is a trading way of selling; inheritance makes trade less likely but a supervening trade can begin. {{bim-modify}}",
+     "kind": "application"
+    },
+    {
+     "t": "p",
+     "x": "A plain illustration (our example): buying twenty pairs of trainers to flip is trading, while selling twenty pairs of your own old trainers is a clear-out."
     },
     {
      "t": "p",
@@ -379,11 +405,11 @@
     },
     {
      "t": "p",
-     "x": "The trading allowance gives up to £1,000 a year of tax-free trading income. {{gov-allowance}}"
+     "x": "For the 2026 to 2027 tax year the trading allowance gives up to £1,000 a year of tax-free trading income. {{gov-allowance}} From 06/04/2027 (the 2027 to 2028 tax year) HMRC plans to raise the allowance to £3,000. {{gov-trading-3000}}"
     },
     {
      "t": "p",
-     "x": "If your annual gross trading income is over £1,000 you must register for Self Assessment. {{gov-allowance}}"
+     "x": "If your annual gross trading income is over £1,000 you must register for Self Assessment; from 2027 to 2028 that threshold also rises to £3,000. {{gov-allowance}} {{gov-trading-3000}}"
     },
     {
      "t": "p",

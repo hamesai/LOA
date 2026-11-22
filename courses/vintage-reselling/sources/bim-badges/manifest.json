@@ -1,0 +1,178 @@
+{
+ "key": "bim-badges",
+ "title": "HMRC Business Income Manual BIM20201 to BIM20315: badges of trade",
+ "author": "",
+ "file": "HMRC BIM20201-20315 Badges of trade.md",
+ "format": "md",
+ "sha256": "a20961280a59233277da646860330a97593073fc964eecc67fe1970b316410b1",
+ "words": 6396,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "HMRC Business Income Manual: meaning of trade and the badges of trade (BIM20201 to BIM2031",
+   "words": 25
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "BIM20201 - Meaning of trade: badges of trade: the origin of the concept",
+   "words": 219
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "BIM20205 - Meaning of trade: badges of trade: summary",
+   "words": 423
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "BIM20210 - Meaning of trade: badges of trade: profit-seeking motive",
+   "words": 399
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "BIM20215 - Meaning of trade: badges of trade: profit-seeking motive - not main purpose",
+   "words": 420
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "BIM20220 - Meaning of trade: badges of trade: profit-seeking motive - fiscal purpose",
+   "words": 144
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "BIM20230 - Meaning of trade: badges of trade: isolated transactions",
+   "words": 73
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Test to be applied",
+   "words": 251
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "BIM20235 - Meaning of trade: badges of trade: repeated operations",
+   "words": 252
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "BIM20240 - Meaning of trade: badges of trade: repeated transactions - later transactions r",
+   "words": 148
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "BIM20245 - Meaning of trade: badges of trade: nature of the asset",
+   "words": 184
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "BIM20250 - Meaning of trade: badges of trade: income-producing assets",
+   "words": 148
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "No income yield",
+   "words": 193
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Financial assets",
+   "words": 87
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "Land",
+   "words": 60
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "BIM20255 - Meaning of trade: badges of trade: assets acquired for personal enjoyment",
+   "words": 95
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "BIM20260 - Meaning of trade: badges of trade: assets with no income yield or ‘pride of pos",
+   "words": 160
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "BIM20265 - Meaning of trade: badges of trade: quantity purchased",
+   "words": 150
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "BIM20270 - Meaning of trade: badges of trade: connection with existing trade",
+   "words": 312
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "BIM20275 - Meaning of trade: badges of trade: modification of the asset",
+   "words": 224
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "Breaking down of assets into smaller lots",
+   "words": 104
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "Expenditure on an asset after purchase and before sale",
+   "words": 99
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "No modifications to the asset",
+   "words": 25
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "BIM20280 - Meaning of trade: badges of trade: organisation of the activity",
+   "words": 189
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "BIM20285 - Meaning of trade: badges of trade: sales organisation",
+   "words": 176
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "BIM20290 - Meaning of trade: badges of trade: company formed for the purpose of the transa",
+   "words": 181
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "BIM20295 - Meaning of trade: badges of trade: reasons for sale",
+   "words": 302
+  },
+  {
+   "file": "ch-028.txt",
+   "title": "BIM20300 - Meaning of trade: badges of trade: method of finance",
+   "words": 152
+  },
+  {
+   "file": "ch-029.txt",
+   "title": "BIM20305 - Meaning of trade: badges of trade: funding from an existing trade",
+   "words": 168
+  },
+  {
+   "file": "ch-030.txt",
+   "title": "BIM20310 - Meaning of trade: badges of trade: interval of time between purchase and sale",
+   "words": 343
+  },
+  {
+   "file": "ch-031.txt",
+   "title": "BIM20315 - Meaning of trade: badges of trade: supervening trade",
+   "words": 690
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (41% common English words, 2.1% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "HMRC BIM20201-20315 Badges of trade.md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.406,
+  "odd_character_share": 0.021
+ }
+}

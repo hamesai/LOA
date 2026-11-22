@@ -535,8 +535,8 @@ Object.assign(window.COURSE_LEARN = window.COURSE_LEARN || {}, {
     "It replaces your expenses. For a reseller with large stock costs, real costs usually give a lower taxable profit."
    ],
    [
-    "The £3,000 threshold means I pay no tax on £3,000.",
-    "The proposed change is to filing, not to the tax: tax is still due above £1,000. No start date had been set."
+    "The £3,000 allowance already covers this year's sales.",
+    "Not yet. For 2026 to 2027 the allowance and the filing threshold are £1,000; HMRC plans to raise both to £3,000 from 06/04/2027. Check which tax year each sale falls in."
    ],
    [
     "I will sort my records out at the end of the year.",

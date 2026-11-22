@@ -167,6 +167,14 @@
      "x": "The rating was a strong recommendation based on moderate-certainty evidence. {{who2020}}"
     },
     {
+     "t": "p",
+     "x": "In the device-measured studies the WHO reviewed, the biggest drop in risk came by about 24 minutes a day of moderate-to-vigorous activity (about 168 minutes a week), and the drop in mortality levelled off beyond 300 minutes a week with no rise in harm. {{who20-adults}}"
+    },
+    {
+     "t": "p",
+     "x": "The US guidelines prefer spreading aerobic activity over at least 3 days a week, which may also lower the risk of injury and excessive fatigue. {{pag-aerobic}}"
+    },
+    {
      "t": "fig",
      "id": "personal-training-who",
      "title": "WHO weekly aerobic range for adults",
@@ -186,7 +194,27 @@
     },
     {
      "t": "p",
-     "x": "The UK Chief Medical Officers publish their own adult guidelines, which UK clients may quote, so check the current wording on gov.uk before you teach it. {{ukcmo}}"
+     "x": "The UK guidelines set the same core target for adults aged 19 to 64: at least 150 minutes of moderate activity, or 75 minutes of vigorous activity, or even shorter durations of very vigorous activity such as sprinting or stair climbing, or a mix. {{ukcmo-adults}}"
+    },
+    {
+     "t": "p",
+     "x": "The UK report stresses that there are no absolute thresholds: benefits come both below and above the targets, and the gain per extra minute is largest for people doing fewer than 30 minutes a week. {{ukcmo-intro}}"
+    },
+    {
+     "t": "h",
+     "x": "How hard is moderate?"
+    },
+    {
+     "t": "p",
+     "x": "The UK talk test: being able to talk but not sing means moderate; having difficulty talking without pausing means vigorous. {{ukcmo-intro}}"
+    },
+    {
+     "t": "p",
+     "x": "Intensity is relative to fitness, so a walk that is light for a fit young person can be moderate or vigorous for an inactive older adult. {{ukcmo-intro}}"
+    },
+    {
+     "t": "p",
+     "x": "The US guidelines also use a 0 to 10 effort scale, where sitting is 0: moderate is 5 or 6, and vigorous starts at 7 or 8. {{pag-aerobic}}"
     },
     {
      "t": "h",
@@ -194,18 +222,18 @@
     },
     {
      "t": "p",
-     "x": "The WHO does not give a conversion rate between moderate and vigorous minutes."
+     "x": "The WHO does not state a conversion rate between moderate and vigorous minutes, but the US guidelines give a rule of thumb: 2 minutes of moderate activity counts the same as 1 minute of vigorous activity. {{pag-aerobic}}"
     },
     {
      "t": "p",
-     "x": "Because the ranges are 150 for moderate and 75 for vigorous, a 2-to-1 trade is a sensible working rule. This is our inference."
+     "x": "That fits the WHO ranges of 150 moderate and 75 vigorous minutes, so this course uses 2-to-1 as its working rule."
     },
     {
      "t": "example",
      "title": "Worked example: is the client meeting the target?",
      "steps": [
       "Illustrative client: 90 minutes of brisk walking (moderate) and 30 minutes of running (vigorous) in a week.",
-      "Convert vigorous to moderate-equivalent: 30 x 2 = 60 minutes (our 2-to-1 rule).",
+      "Convert vigorous to moderate-equivalent: 30 x 2 = 60 minutes (the 2-to-1 rule).",
       "Total moderate-equivalent: 90 + 60 = 150 minutes.",
       "150 sits at the bottom of the 150 to 300 range, so the client meets the minimum. They could add 15 to 30 minutes for more benefit."
      ]
@@ -252,7 +280,7 @@
       "220"
      ],
      "a": 1,
-     "w": "40 x 2 = 80, plus 60 = 140 moderate-equivalent minutes. That is just under 150. The 2-to-1 rule is our inference from the 75 and 150 figures. {{who2020}}"
+     "w": "40 x 2 = 80, plus 60 = 140 moderate-equivalent minutes (our arithmetic). That is just under 150. The 2-to-1 rule of thumb comes from the US guidelines. {{pag-aerobic}}"
     },
     {
      "t": "check",
@@ -268,11 +296,24 @@
      "w": "The 10-minute minimum bout was removed in 2020; any duration counts. {{who2020}}"
     },
     {
+     "t": "check",
+     "q": "According to the UK Chief Medical Officers, which client gains the most health benefit for each extra minute of activity?",
+     "o": [
+      "Someone doing fewer than 30 minutes a week",
+      "Someone already doing about 300 minutes a week of running",
+      "Someone doing about 150 minutes a week of brisk walking",
+      "Someone training for a marathon at more than 600 minutes a week",
+      "Everyone gains the same per minute, whatever they already do"
+     ],
+     "a": 0,
+     "w": "The UK report says gains per extra minute are largest for people doing the least, fewer than 30 minutes a week. {{ukcmo-intro}}"
+    },
+    {
      "t": "take",
      "i": [
       "Target: 150 to 300 moderate or 75 to 150 vigorous minutes a week.",
       "Any bout length counts.",
-      "A 2-to-1 trade between intensities is our working rule, not a WHO rule."
+      "A 2-to-1 trade between intensities is the US rule of thumb; the WHO does not state one."
      ]
     }
    ]
@@ -288,7 +329,11 @@
     },
     {
      "t": "p",
-     "x": "This was a strong recommendation, and the reviewers found no dose-response evidence that higher volumes of strengthening add health benefit. {{who2020}}"
+     "x": "This was a strong recommendation. In pooled cohorts the WHO reviewed, meeting the strength guideline alone was linked to lower all-cause mortality (hazard ratio 0.80 against not meeting it), independently of aerobic activity, but the evidence was too thin to set an ideal session length. {{who20-adults}}"
+    },
+    {
+     "t": "p",
+     "x": "The UK report says regular strength work should count as just as important as the 150 minutes, and found measurable health benefit from over 30 and up to 120 minutes of strengthening a week. {{ukcmo-adults}}"
     },
     {
      "t": "p",
@@ -301,6 +346,14 @@
     {
      "t": "p",
      "x": "All adults should limit sedentary time, but the evidence could not set a time threshold. {{who2020}}"
+    },
+    {
+     "t": "p",
+     "x": "UK pooled data link more than 6 to 8 hours of total sitting a day, and 3 to 4 hours of TV, with a higher risk of death from all causes and from heart disease. {{ukcmo-adults}}"
+    },
+    {
+     "t": "p",
+     "x": "In an analysis of over a million adults reviewed by the WHO, about 60 to 75 minutes a day of moderate-to-vigorous activity removed the excess risk of sitting more than 8 hours a day. {{who20-adults}}"
     },
     {
      "t": "p",
@@ -324,7 +377,11 @@
     },
     {
      "t": "p",
-     "x": "Pre-exercise medical clearance is generally unnecessary for people without contraindications who gradually build up (unverified: the WHO pages we read do not state this; check the WHO 2020 guideline text). {{who2020}}"
+     "x": "Pre-exercise medical clearance is generally unnecessary for people without contraindications before they start light or moderate activity no harder than brisk walking or everyday living. {{who20-recs}}"
+    },
+    {
+     "t": "p",
+     "x": "The WHO adds that inactive people who build up gradually to moderate activity have no known risk of sudden cardiac events, and that someone already doing moderate activity can step up gradually to vigorous without seeing a health-care provider. {{who20-conds}} Harder starts and known disease are where screening matters (Module 2)."
     },
     {
      "t": "p",
@@ -364,8 +421,12 @@
       "Client: inactive, no known disease, no symptoms. Goal: reach 150 moderate minutes.",
       "Week 1: 5 x 10-minute brisk walks = 50 minutes; 1 strength session.",
       "Week 2: 5 x 15-minute walks = 75 minutes; 2 strength sessions.",
-      "Increase of 25 minutes is +50%. Keep later jumps smaller (our inference) and watch for new symptoms."
+      "Increase of 25 minutes is +50%. Keep later jumps smaller, as the US guidelines advise and watch for new symptoms."
      ]
+    },
+    {
+     "t": "p",
+     "x": "The US guidelines judge each weekly rise by its relative size: 20 extra minutes is a 10% step for someone already doing 200 minutes, but a 50% step for someone doing 40. For inactive people they suggest raising minutes and days first, and intensity later. {{pag-safe}}"
     },
     {
      "t": "callout",
@@ -387,7 +448,7 @@
       "Start small and build up gradually"
      ],
      "a": 4,
-     "w": "The WHO says to start small and build. The claim that clearance is generally unnecessary for people without contraindications is unverified; check the WHO 2020 guideline text. {{who2020}}"
+     "w": "The WHO says to start small and build, and that clearance is generally unnecessary before light or moderate activity for people without contraindications. {{who20-recs}}"
     },
     {
      "t": "check",
@@ -439,6 +500,14 @@
     },
     {
      "t": "p",
+     "x": "The labels have plain meanings. Low certainty means the true effect may be substantially different from the estimate. Good practice statements are not graded recommendations at all, but practical advice from the guideline group. {{who20-methods}}"
+    },
+    {
+     "t": "p",
+     "x": "Self-reported activity is prone to reporting bias, and many wrist or waist devices cannot tell sitting from standing still. {{who20-methods}} So treat a client's tracker figures as estimates (our inference)."
+    },
+    {
+     "t": "p",
      "x": "For example, 'more than 300 minutes brings extra benefit' was conditional, while 150 to 300 minutes was strong. {{who2020}}"
     },
     {
@@ -472,6 +541,18 @@
        "Guideline from systematic reviews",
        "Weekly activity targets",
        "Full body text"
+      ],
+      [
+       "UK Chief Medical Officers' guidelines",
+       "Government guideline from evidence reviews",
+       "UK wording of the targets; older adults; pregnancy",
+       "Full text"
+      ],
+      [
+       "US Physical Activity Guidelines, 2nd edition",
+       "Government guideline from an advisory committee review",
+       "Intensity, progression and safety",
+       "Full text"
       ],
       [
        "Morton et al. 2018",

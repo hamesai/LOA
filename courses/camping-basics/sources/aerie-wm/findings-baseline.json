@@ -1,0 +1,563 @@
+{
+ "77da36ec": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Plan like a safe camper: gear, weather and knowledge": [
+    "callout"
+   ],
+   "Hazards on site and on the walk": [
+    "callout",
+    "short"
+   ],
+   "Recognising illness: cold, gas and dirty water": [
+    "bites",
+    "blisters",
+    "burns",
+    "callout",
+    "cover",
+    "first-aid",
+    "sprains",
+    "teach"
+   ],
+   "Calling for help": [
+    "callout"
+   ],
+   "The lecturer's method: Florence Nightingale": [
+    "first-aid",
+    "teach"
+   ]
+  }
+ },
+ "ab085a58": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Plan like a safe camper: gear, weather and knowledge": [
+    "first"
+   ],
+   "Hazards on site and on the walk": [
+    "comes",
+    "first",
+    "lower",
+    "people"
+   ],
+   "Recognising illness: cold, gas and dirty water": [
+    "blisters",
+    "covered",
+    "first",
+    "people"
+   ],
+   "Calling for help": [
+    "first",
+    "people"
+   ],
+   "The lecturer's method: Florence Nightingale": [
+    "dressings",
+    "first",
+    "small"
+   ]
+  }
+ },
+ "01b31557": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Plan like a safe camper: gear, weather and knowledge": [
+    "clothing",
+    "first",
+    "signs",
+    "stove"
+   ],
+   "Hazards on site and on the walk": [
+    "around",
+    "first",
+    "ground",
+    "remove",
+    "signs",
+    "stove",
+    "water"
+   ],
+   "Recognising illness: cold, gas and dirty water": [
+    "blisters",
+    "burns",
+    "cover",
+    "first",
+    "remove",
+    "signs",
+    "stove",
+    "water"
+   ],
+   "Calling for help": [
+    "first",
+    "ground"
+   ],
+   "The lecturer's method: Florence Nightingale": [
+    "around",
+    "causes",
+    "chilling",
+    "dressings",
+    "first",
+    "ground",
+    "hands",
+    "stove"
+   ]
+  }
+ },
+ "40690027": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Stoves and fire: the safe way to cook": [
+    "burns",
+    "secure",
+    "stove",
+    "surface"
+   ],
+   "Carbon monoxide: the silent hazard": [
+    "burns",
+    "stove"
+   ],
+   "Making water safe": [
+    "burns",
+    "causes",
+    "stove"
+   ],
+   "Food, hygiene and keeping it cold": [],
+   "The lecturer's method: Fridtjof Nansen": [
+    "burns",
+    "stove"
+   ]
+  }
+ },
+ "d700460e": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Plan like a safe camper: gear, weather and knowledge": [
+    "first",
+    "hours",
+    "someone"
+   ],
+   "Hazards on site and on the walk": [
+    "first",
+    "hours",
+    "never",
+    "stops"
+   ],
+   "Recognising illness: cold, gas and dirty water": [
+    "first",
+    "sprains"
+   ],
+   "Calling for help": [
+    "first",
+    "minutes"
+   ],
+   "The lecturer's method: Florence Nightingale": [
+    "first",
+    "never",
+    "someone"
+   ]
+  }
+ },
+ "0cefbfbd": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Sleeping bags and what the numbers mean": [
+    "thermometer"
+   ],
+   "The pad under you: R-value and building a sleep system": [
+    "little",
+    "often",
+    "people"
+   ],
+   "How you lose heat: wind, height and wet": [
+    "moderate"
+   ],
+   "A warm night, and spotting hypothermia": [
+    "alcohol",
+    "alert",
+    "hypothermia",
+    "normal",
+    "shivering"
+   ],
+   "The lecturer's method: Fridtjof Nansen": [
+    "little"
+   ]
+  }
+ },
+ "805afbd1": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Sleeping bags and what the numbers mean": [
+    "sleeping"
+   ],
+   "The pad under you: R-value and building a sleep system": [
+    "sleeping"
+   ],
+   "How you lose heat: wind, height and wet": [
+    "clothes"
+   ],
+   "A warm night, and spotting hypothermia": [
+    "clothes",
+    "drink",
+    "hypothermia",
+    "remove",
+    "shelter",
+    "sleeping",
+    "treatment"
+   ],
+   "The lecturer's method: Fridtjof Nansen": [
+    "clothes",
+    "insulating",
+    "remove",
+    "sleeping"
+   ]
+  }
+ },
+ "5d9b17d9": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Sleeping bags and what the numbers mean": [
+    "night",
+    "sleeping"
+   ],
+   "The pad under you: R-value and building a sleep system": [
+    "camping",
+    "sleeping"
+   ],
+   "How you lose heat: wind, height and wet": [],
+   "A warm night, and spotting hypothermia": [
+    "against",
+    "night",
+    "sleeping",
+    "socks",
+    "symptoms"
+   ],
+   "The lecturer's method: Fridtjof Nansen": [
+    "against",
+    "night",
+    "sleeping"
+   ]
+  }
+ },
+ "c23cd38e": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Stoves and fire: the safe way to cook": [
+    "example",
+    "healthy",
+    "makes",
+    "never",
+    "oxygen",
+    "space",
+    "stove",
+    "worked"
+   ],
+   "Carbon monoxide: the silent hazard": [
+    "clear",
+    "colourless",
+    "example",
+    "never",
+    "odourless",
+    "people",
+    "space",
+    "stove",
+    "tasteless",
+    "worked"
+   ],
+   "Making water safe": [
+    "clear",
+    "example",
+    "hours",
+    "minutes",
+    "people",
+    "several",
+    "stove",
+    "worked"
+   ],
+   "Food, hygiene and keeping it cold": [
+    "clear",
+    "example",
+    "worked"
+   ],
+   "The lecturer's method: Fridtjof Nansen": [
+    "200",
+    "example",
+    "makes",
+    "never",
+    "several",
+    "stove",
+    "worked"
+   ]
+  }
+ },
+ "8af2054b": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Stoves and fire: the safe way to cook": [],
+   "Carbon monoxide: the silent hazard": [],
+   "Making water safe": [
+    "6,500",
+    "above",
+    "avoid",
+    "below",
+    "iodine",
+    "minute",
+    "minutes",
+    "weeks"
+   ],
+   "Food, hygiene and keeping it cold": [
+    "avoid",
+    "below",
+    "minute"
+   ],
+   "The lecturer's method: Fridtjof Nansen": [
+    "below",
+    "figure"
+   ]
+  }
+ },
+ "0623a893": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Stoves and fire: the safe way to cook": [],
+   "Carbon monoxide: the silent hazard": [
+    "first",
+    "water"
+   ],
+   "Making water safe": [
+    "boiling",
+    "chemical",
+    "chemicals",
+    "cryptosporidium",
+    "filter",
+    "first",
+    "treatment",
+    "water",
+    "weakened"
+   ],
+   "Food, hygiene and keeping it cold": [
+    "first",
+    "water"
+   ],
+   "The lecturer's method: Fridtjof Nansen": [
+    "first",
+    "water"
+   ]
+  }
+ },
+ "b1328c15": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Reading a map: scale, symbols and distance": [
+    "apart",
+    "count",
+    "height",
+    "minutes",
+    "spread",
+    "together",
+    "water"
+   ],
+   "Grid references: saying exactly where you are": [
+    "building",
+    "place",
+    "together"
+   ],
+   "The compass: taking and following a bearing": [
+    "after",
+    "minutes"
+   ],
+   "How long will it take? Naismith's rule and the weather limits": [
+    "after",
+    "every",
+    "group",
+    "minutes"
+   ],
+   "The lecturer's method: Ernest Shackleton": [
+    "after",
+    "count",
+    "group",
+    "water"
+   ]
+  }
+ },
+ "2a6229d4": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Plan like a safe camper: gear, weather and knowledge": [
+    "alone",
+    "hours"
+   ],
+   "Hazards on site and on the walk": [
+    "above",
+    "heavy",
+    "hours",
+    "water"
+   ],
+   "Recognising illness: cold, gas and dirty water": [
+    "cause",
+    "collapse",
+    "confusion",
+    "illness",
+    "water"
+   ],
+   "Calling for help": [
+    "emergency"
+   ],
+   "The lecturer's method: Florence Nightingale": [
+    "cause"
+   ]
+  }
+ },
+ "7acd8f53": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Plan like a safe camper: gear, weather and knowledge": [
+    "999",
+    "anyone",
+    "group",
+    "person",
+    "quickly",
+    "signs"
+   ],
+   "Hazards on site and on the walk": [
+    "999",
+    "quickly",
+    "remove",
+    "signs"
+   ],
+   "Recognising illness: cold, gas and dirty water": [
+    "999",
+    "anyone",
+    "breathing",
+    "collapse",
+    "group",
+    "needed",
+    "remove",
+    "signs"
+   ],
+   "Calling for help": [
+    "999",
+    "emergency"
+   ],
+   "The lecturer's method: Florence Nightingale": [
+    "person",
+    "substitute"
+   ]
+  }
+ },
+ "ef826cca": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Plan like a safe camper: gear, weather and knowledge": [
+    "carry",
+    "first",
+    "gloves",
+    "safety"
+   ],
+   "Hazards on site and on the walk": [
+    "after",
+    "first",
+    "safety"
+   ],
+   "Recognising illness: cold, gas and dirty water": [
+    "after",
+    "first",
+    "safety"
+   ],
+   "Calling for help": [
+    "after",
+    "first"
+   ],
+   "The lecturer's method: Florence Nightingale": [
+    "carry",
+    "dressings",
+    "first",
+    "light",
+    "pencil"
+   ]
+  }
+ },
+ "f41c2841": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Plan like a safe camper: gear, weather and knowledge": [
+    "before",
+    "beyond",
+    "cannot",
+    "change",
+    "group",
+    "hours",
+    "phone",
+    "route",
+    "weather"
+   ],
+   "Hazards on site and on the walk": [
+    "before",
+    "cannot",
+    "change",
+    "hours",
+    "weather"
+   ],
+   "Recognising illness: cold, gas and dirty water": [
+    "before",
+    "everyone",
+    "group",
+    "vomiting"
+   ],
+   "Calling for help": [
+    "before",
+    "cannot",
+    "casualty",
+    "incident",
+    "location",
+    "phone",
+    "suspected"
+   ],
+   "The lecturer's method: Florence Nightingale": [
+    "before",
+    "casualty",
+    "phone"
+   ]
+  }
+ },
+ "5f5d8419": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Plan like a safe camper: gear, weather and knowledge": [
+    "clothing"
+   ],
+   "Hazards on site and on the walk": [],
+   "Recognising illness: cold, gas and dirty water": [
+    "names",
+    "several",
+    "teach"
+   ],
+   "Calling for help": [],
+   "The lecturer's method: Florence Nightingale": [
+    "teach"
+   ]
+  }
+ },
+ "2cc6a054": {
+  "date": "2026-11-19",
+  "lessons": {
+   "Plan like a safe camper: gear, weather and knowledge": [
+    "999"
+   ],
+   "Hazards on site and on the walk": [
+    "999"
+   ],
+   "Recognising illness: cold, gas and dirty water": [
+    "999",
+    "first-aid",
+    "medical",
+    "training"
+   ],
+   "Calling for help": [
+    "999"
+   ],
+   "The lecturer's method: Florence Nightingale": [
+    "basic",
+    "first-aid",
+    "substitute"
+   ]
+  }
+ }
+}

@@ -23,11 +23,19 @@
     },
     {
      "t": "p",
+     "x": "The US guidelines put the rate at about one injury per 1,000 hours of walking for exercise and fewer than four per 1,000 hours of running. Fitter people are injured less, and more total activity raises the risk. {{pag-safe}}"
+    },
+    {
+     "t": "p",
      "x": "A heart attack or sudden cardiac death during activity is rare but serious. {{whitfield2017}}"
     },
     {
      "t": "p",
      "x": "These events most often happen in habitually inactive people doing vigorous exercise. {{whitfield2017}}"
+    },
+    {
+     "t": "p",
+     "x": "The US guidelines give the classic case: a usually inactive adult shovelling heavy snow. Regularly active people have the lowest risk of cardiac events, both while active and overall. {{pag-cardiac}}"
     },
     {
      "t": "p",
@@ -47,7 +55,28 @@
     },
     {
      "t": "p",
-     "x": "The WHO agrees that clearance is generally unnecessary for people without contraindications, if they build up gradually (unverified: see module 1). {{who2020}}"
+     "x": "The WHO says clearance is generally unnecessary for people without contraindications before light or moderate activity up to the demands of brisk walking. {{who20-recs}}"
+    },
+    {
+     "t": "p",
+     "x": "The US guidelines go further: no evidence shows that seeing a health-care provider first brings more benefit or fewer adverse events. People with no diagnosed condition and no symptoms such as chest pain, dizziness or joint pain most likely do not need to; advice is most worth seeking before vigorous activity or when new symptoms appear. {{pag-provider}}"
+    },
+    {
+     "t": "p",
+     "x": "Population guidelines do not cover everyone. The WHO sends people in acute treatment, such as chemotherapy, or not yet stable on their medication to condition-specific clinical guidance. Treat that as a refer-first case. {{who20-conds}}"
+    },
+    {
+     "t": "check",
+     "q": "A client has walked briskly for 30 minutes most days for a year, has no diagnosed condition and no symptoms, and now wants to start running. What do the WHO and US guidelines say?",
+     "o": [
+      "They must get written medical clearance before any vigorous session, whatever their history",
+      "They should stay at moderate intensity until a doctor has run an exercise stress test",
+      "They can build up to vigorous gradually without seeing a provider",
+      "They can start vigorous training at full volume at once, because they are already active",
+      "They need clearance only if they are over 40, even with no symptoms"
+     ],
+     "a": 2,
+     "w": "Both say a person who is habitually active at moderate intensity can increase gradually to vigorous without consulting a health-care provider; new symptoms change that. {{pag-provider}}"
     },
     {
      "t": "table",

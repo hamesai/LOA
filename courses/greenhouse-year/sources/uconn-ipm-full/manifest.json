@@ -1,0 +1,33 @@
+{
+ "key": "uconn-ipm-full",
+ "title": "Greenhouse Integrated Pest Management (UConn Extension)",
+ "author": "Schadt, Susan",
+ "file": "UConn Greenhouse Integrated Pest Management.pdf",
+ "format": "pdf",
+ "sha256": "e5128e7b449a38c84261548d67974222d8a1139e63560857563f8bccaaa21b08",
+ "words": 1768,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 5",
+   "words": 1768,
+   "pages": [
+    1,
+    5
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks",
+  "text quality looks poor (27% common English words, 3.3% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "UConn Greenhouse Integrated Pest Management.pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.27,
+  "odd_character_share": 0.033
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "key": "cc-gov",
+ "title": "The Countryside Code: advice for countryside visitors (GOV.UK)",
+ "author": "",
+ "file": "The Countryside Code England and Wales (GOV.UK).md",
+ "format": "md",
+ "sha256": "eb20e4f50068f51352c12a9c8da0e5e5fed3effca625653c893d73e1de0d0d0b",
+ "words": 1850,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "The Countryside Code: advice for countryside visitors (Natural England and Natural Resourc",
+   "words": 53
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Respect everyone",
+   "words": 508
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Protect the environment",
+   "words": 625
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Enjoy the outdoors",
+   "words": 382
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Know the signs and symbols of the countryside",
+   "words": 282
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (28% common English words, 1.1% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-19",
+  "source_file": "The Countryside Code England and Wales (GOV.UK).md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.276,
+  "odd_character_share": 0.011
+ }
+}

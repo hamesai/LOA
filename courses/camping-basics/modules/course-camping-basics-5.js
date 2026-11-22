@@ -69,7 +69,33 @@
     {
      "t": "callout",
      "k": "key",
-     "x": "A quick estimate: count the 1 km squares you cross. Going diagonally is a little more than 1 km per square (our inference)."
+     "x": "A quick estimate: count the 1 km squares you cross. Ordnance Survey puts a diagonal crossing at about 1½ km, and a straight crossing at about 20 minutes at 3 km an hour. {{os-mapbook}}"
+    },
+    {
+     "t": "h",
+     "x": "Reading height: contour lines"
+    },
+    {
+     "t": "p",
+     "x": "Brown contour lines join points at the same height above sea level. On a 1:25,000 map they are usually 5 metres apart in height, or 10 metres in mountains. Lines bunched close together mean a steep slope; lines spread apart mean gentle ground, which is what you want for a pitch. {{os-mapbook}}"
+    },
+    {
+     "t": "check",
+     "q": "On a 1:25,000 OS map, the contour lines around your planned pitch are bunched tightly together. What does that tell you?",
+     "o": [
+      "The ground is steep there",
+      "The ground is flat and ideal for a tent",
+      "There is a footpath along the contour",
+      "The area is boggy and should be avoided",
+      "The land is open access, so camping is allowed"
+     ],
+     "a": 0,
+     "w": "Contours close together mean a steep slope; spread out, a gentle one. {{os-mapbook}}",
+     "kind": "application"
+    },
+    {
+     "t": "p",
+     "x": "Waymarks on the ground tell you who may use a route in England and Wales: a yellow arrow is a footpath, blue a bridleway, purple a restricted byway and red a byway open to all traffic. An acorn marks a National Trail, and a brown circle with a walker over hills marks open access land, where you may leave the path. {{cc-gov-signs}}"
     },
     {
      "t": "example",
@@ -432,6 +458,32 @@
       ]
      ],
      "src": "{{met-mtn}}"
+    },
+    {
+     "t": "h",
+     "x": "Thunderstorms"
+    },
+    {
+     "t": "p",
+     "x": "Count the seconds from a flash to its thunder: sound travels about 1.6 km every five seconds. If the gap is 30 seconds or less, move to safer ground and stay away from exposed places until 30 minutes after the last thunder. A building or a hard-top car is the safest place. {{aerie-light}}"
+    },
+    {
+     "t": "p",
+     "x": "Get off summits and ridges, and keep away from lone trees, rock outcrops and water, staying at least twice a tree's height from it. Spread a group 6 to 12 m apart, then crouch on a sleeping pad with feet together. Moving to lower ground does more than changing posture. {{aerie-light}}"
+    },
+    {
+     "t": "check",
+     "q": "You are on an open ridge. You see a flash and count 12 seconds before the thunder. What should you do?",
+     "o": [
+      "Keep going, since the storm is still far off",
+      "Shelter under the one tall tree on the ridge",
+      "Head down off the ridge now, away from lone trees",
+      "Wait on the ridge for a single loud clap before moving",
+      "Stand together in a tight group to stay warm"
+     ],
+     "a": 2,
+     "w": "Sound travels about 1.6 km every five seconds, so 12 seconds is roughly 4 km away (our arithmetic). That is inside the 30-second warning, so get off exposed ground and away from lone trees, and spread the group out. {{aerie-light}}",
+     "kind": "application"
     },
     {
      "t": "fig",

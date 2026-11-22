@@ -21,7 +21,7 @@ Object.assign(window.COURSE_REFS = window.COURSE_REFS || {}, {
   "wiki-super8": { t: "Super 8 film (history, cartridge and stocks sections read)", s: "Wikipedia", u: "https://en.wikipedia.org/wiki/Super_8_film" },
   "wiki-5d2": { t: "Canon EOS 5D Mark II (video sections read)", s: "Wikipedia", u: "https://en.wikipedia.org/wiki/Canon_EOS_5D_Mark_II" },
   "wiki-log": { t: "Log profile (read in full)", s: "Wikipedia", u: "https://en.wikipedia.org/wiki/Log_profile" },
-  "wiki-180": { t: "180-degree rule (opening sections read)", s: "Wikipedia", u: "https://en.wikipedia.org/wiki/180-degree_rule" },
+  "wiki-180": { t: "180-degree rule (opening sections read)", s: "Wikipedia", d: "21/11/2026", u: "https://en.wikipedia.org/wiki/180-degree_rule" },
   "wiki-cine": { t: "Cinematography (history, film stock, lenses and depth of field sections read)", s: "Wikipedia (the page carries a warning about unverified text)", u: "https://en.wikipedia.org/wiki/Cinematography" },
   "wiki-interlace": { t: "Interlaced video (opening sections read)", s: "Wikipedia", u: "https://en.wikipedia.org/wiki/Interlaced_video" },
   "wiki-ntsc": { t: "NTSC (opening and history sections read)", s: "Wikipedia", u: "https://en.wikipedia.org/wiki/NTSC" },

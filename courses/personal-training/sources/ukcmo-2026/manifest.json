@@ -1,0 +1,78 @@
+{
+ "key": "ukcmo-2026",
+ "title": "UK Chief Medical Officers' Physical Activity Guidelines (updated 10/07/2026)",
+ "author": "",
+ "file": "UK CMO physical activity guidelines (updated 10-07-2026).md",
+ "format": "md",
+ "sha256": "df5f375682a35844b3ac30068b35b1903f995d800f6322425435825360bc0f19",
+ "words": 16269,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "UK Chief Medical Officers' physical activity guidelines (GOV.UK, updated 10/07/2026)",
+   "words": 11
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Foreword by the Chief Medical Officers",
+   "words": 601
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Executive summary",
+   "words": 1610
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Introduction",
+   "words": 2182
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Under-5s guidelines",
+   "words": 754
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Children and young people guidelines",
+   "words": 1340
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Adults guidelines",
+   "words": 2093
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Older adults guidelines",
+   "words": 2406
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Conclusion",
+   "words": 248
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Glossary",
+   "words": 534
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "References",
+   "words": 4490
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (27% common English words, 1.3% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-18",
+  "source_file": "UK CMO physical activity guidelines (updated 10-07-2026).md",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.274,
+  "odd_character_share": 0.013
+ }
+}

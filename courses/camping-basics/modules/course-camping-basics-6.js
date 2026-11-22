@@ -55,6 +55,18 @@
      "x": "Let someone know where you plan to go and what time you will be back, and tell them when you return. {{met-mtn}} If possible, do not go alone. {{cc-ni}} Wear suitable clothing and footwear because the weather can change quickly, and do not go if conditions are beyond your experience. {{cc-ni}}"
     },
     {
+     "t": "p",
+     "x": "The Countryside Code gives the reason: in rural areas you may not see anyone for hours, and phone signal is unreliable in many places. You are responsible for your own safety and for anyone in your care. {{cc-gov-enjoy}}"
+    },
+    {
+     "t": "p",
+     "x": "The Scottish Code puts the principle plainly: the outdoors cannot be made risk-free, and a person taking access is generally held to have accepted its obvious risks. Take special care for any children with you. {{soac-p3a}}"
+    },
+    {
+     "t": "p",
+     "x": "In Scotland, check the season. Stag stalking usually runs from 1 July to 20 October, mostly from August, and not normally on Sundays; grouse shooting runs from 12 August to 10 December. Estates post signs and, in some areas, phone lines with the day's routes, so check and follow the suggested alternative. {{soac-p5a}}"
+    },
+    {
      "t": "fig",
      "id": "camping-basics-tripcard",
      "title": "A trip card to leave with someone",
@@ -138,6 +150,16 @@
        "Give them plenty of space and do not feed them. {{cc-ew}} Avoid fields with animals. {{cc-ni}}"
       ],
       [
+       "Cattle, bulls and pigs (Scottish Code)",
+       "Cows can react aggressively, especially with calves or a dog; bulls guard the herd; pigs can turn aggressive at any time. {{soac-p3a}}",
+       "Use a neighbouring field if a bull or pigs are present; with cattle, keep a dog on a short lead and let it go if the cows come at you. {{soac-p3a}}"
+      ],
+      [
+       "Live firing ranges",
+       "Red flags by day and red lamps at night mark live firing areas, which may not be fenced. {{soac-p5b}}",
+       "Do not enter when they show, never pick up objects, and turn back if in doubt. {{soac-p5b}}"
+      ],
+      [
        "Fire",
        "Fires can devastate wildlife and property. {{cc-ew}}",
        "Use a stove; only use barbecues where signs allow; call 999 for an unattended fire. {{cc-ew}}"
@@ -174,6 +196,14 @@
      "t": "callout",
      "k": "warn",
      "x": "Dog owners: in England and Wales you must keep a dog on a lead around livestock on open access land and at the coast, and from 1 March to 31 July on open access land. {{cc-ew}} If you feel threatened by cattle, let the dog off the lead so you both can reach safety. {{cc-ew}}"
+    },
+    {
+     "t": "p",
+     "x": "In Scotland the Code adds: never take a dog into a field with lambs, calves or other young animals, and keep it on a short lead (two metres) or at heel in ground-nesting areas such as moorland, forest, grassland and loch shores, usually from April to July. {{soac-p3b}}"
+    },
+    {
+     "t": "p",
+     "x": "The countryside is also a workplace. Keep a safe distance from machinery and follow signs during crop spraying or tree felling: a sprayed field can be closed from a few hours up to four days. Never climb on bales or timber stacks, leave gates as you find them, and climb a locked gate at the hinged end. {{soac-p3a}}"
     },
     {
      "t": "fig",
@@ -280,12 +310,46 @@
     {
      "t": "callout",
      "k": "warn",
-     "x": "This course does not teach first aid. Burns, blisters, cuts, bites and sprains need first-aid training and the NHS pages for each. The sources we read do not cover them. REI recommends carrying a first-aid kit and replenishing it after each trip. {{rei-beg}} The Met Office names Mountain Training's Hill Skills and Mountain Skills courses as a start for hill safety. {{met-mtn}}"
+     "x": "This course is not a first-aid course. The next lesson gives basic care for blisters, burns, sprains, stings and heat, but cuts, breaks and head injuries need hands-on training. REI recommends carrying a first-aid kit and replenishing it after each trip. {{rei-beg}} The Met Office names Mountain Training's Hill Skills and Mountain Skills courses as a start for hill safety. {{met-mtn}}"
     },
     {
      "t": "callout",
      "k": "note",
-     "x": "Sun and insects: REI advises planning for sun and bugs with sunscreen and repellent. {{rei-beg}} Our sources do not cover ticks. Check current NHS guidance before walking in long grass, bracken or woodland (our inference)."
+     "x": "Sun and insects: REI advises planning for sun and bugs with sunscreen and repellent. {{rei-beg}}"
+    },
+    {
+     "t": "h",
+     "x": "Ticks and Lyme disease"
+    },
+    {
+     "t": "p",
+     "x": "Lyme disease is the most common tick-borne infection in the UK, and the tick that bites people most is Ixodes ricinus, the sheep or deer tick. {{ukhsa-1}} About 1,500 laboratory-confirmed cases are reported a year in England and Wales. {{ukhsa-2}} Young ticks, called nymphs, matter most because they are hard to spot and stay on longer; their activity peaks from April to June, but bites happen in any month. {{ukhsa-1}}"
+    },
+    {
+     "t": "p",
+     "x": "Cut the risk: keep to clear paths, wear long trousers, long sleeves and light colours so ticks show up, and use a repellent such as DEET as the maker directs. Each evening, look and feel for ticks in skin folds, armpits, groin, waistband, behind the knees, the back of the neck and the hairline; children are often bitten on the head and neck. {{ukhsa-1}}"
+    },
+    {
+     "t": "p",
+     "x": "To remove a tick, use fine-tipped tweezers or a tick tool, grip it as close to the skin as you can and pull upwards slowly and firmly. Then apply antiseptic or wash with soap and water, and watch the spot for several weeks. {{ukhsa-2}} Do not burn a tick or smother it in Vaseline. {{ukhsa-1}}"
+    },
+    {
+     "t": "p",
+     "x": "A spreading circular rash usually appears 1 to 4 weeks after a bite, but about 1 in 3 people with Lyme disease report no rash. Contact your GP or NHS 111 if you feel unwell after a bite, even without a rash, and say you have been outdoors. {{ukhsa-2}} The UK does not give preventive antibiotics after a tick bite. {{ukhsa-1}}"
+    },
+    {
+     "t": "check",
+     "q": "Two weeks after a camping trip you feel tired and achy with a headache, but you see no rash. You removed a tick from your leg on the trip. What should you do?",
+     "o": [
+      "Nothing, because Lyme disease always causes a bullseye rash",
+      "Contact your GP or NHS 111 and mention the tick bite",
+      "Ask a pharmacist for antibiotics to take just in case",
+      "Wait for a rash to appear before telling anyone",
+      "Burn the bite site to kill any bacteria left behind"
+     ],
+     "a": 1,
+     "w": "About 1 in 3 people with Lyme disease report no rash, so seek advice from your GP or NHS 111 if you feel unwell after a bite and tell them about it. {{ukhsa-2}}",
+     "kind": "application"
     },
     {
      "t": "example",
@@ -346,6 +410,10 @@
     {
      "t": "p",
      "x": "In the hills, dial 999 or 112 and ask for Police, then Mountain Rescue. {{mrew}} Give all your prepared details and stay where you are until contacted. {{mrew}} If you must call again, repeat the procedure in full. {{mrew}}"
+    },
+    {
+     "t": "p",
+     "x": "Before you call, stop and think. Check that the scene is safe so you do not become another casualty, count everyone in the group, then look at the casualty, the weather, the light and what kit you have before deciding whether to stay or go. {{aerie-decide}} Get help out for anyone who cannot bear weight, has a change in alertness or breathing, or still has fever or vomiting after 24 hours. {{aerie-evac}}"
     },
     {
      "t": "fig",
@@ -445,6 +513,127 @@
   },
   {
    "id": "l5",
+   "title": "Minor injuries and heat: blisters, burns, sprains and stings",
+   "min": 15,
+   "blocks": [
+    {
+     "t": "p",
+     "x": "Most camp injuries are small, but a blister or a stove burn left untreated can end a trip. This lesson gives the basic care. It does not replace a first-aid course."
+    },
+    {
+     "t": "h",
+     "x": "Blisters"
+    },
+    {
+     "t": "p",
+     "x": "A blister starts as a hot spot, a warm, sore patch. Prevent it with well-fitting, broken-in boots laced properly, wool or synthetic socks rather than cotton, dry feet and trimmed toenails, and tape the hot spot as soon as you feel it. {{aerie-blis}}"
+    },
+    {
+     "t": "p",
+     "x": "Protect a small blister, under about 5 mm, with a ring-shaped pad. A larger one can be drained at its lower edge with a sterile needle, leaving the skin in place, then cleaned and covered. People with diabetes should not drain blisters. {{aerie-blis}}"
+    },
+    {
+     "t": "h",
+     "x": "Burns"
+    },
+    {
+     "t": "p",
+     "x": "Stop the burning, take off smouldering clothing and jewellery, and cool the burn with clean water; for pain this can go on for up to about half an hour, but watch that the person does not get chilled. Cover it loosely with a moist, clean dressing and do not pop blisters. {{aerie-burn}}"
+    },
+    {
+     "t": "p",
+     "x": "Get medical help for a blistered burn larger than the casualty's palm, which is about 1% of the body, or for any burn to the face, hands, feet or genitals, one that goes right round a limb, or one with signs in the airway such as singed nose hair or a hoarse voice. {{aerie-burn}}"
+    },
+    {
+     "t": "h",
+     "x": "Sprains"
+    },
+    {
+     "t": "p",
+     "x": "For a twisted ankle, rest it, apply cold for 10 minutes on and 10 off over the first 24 to 48 hours (never ice straight on the skin), wrap it snugly and raise it. {{aerie-sprain}} Someone who still cannot bear weight needs help to get out. {{aerie-evac}}"
+    },
+    {
+     "t": "h",
+     "x": "Stings and allergic reactions"
+    },
+    {
+     "t": "p",
+     "x": "Scrape out a bee sting quickly and use a cold compress for the pain. Before the trip, find out who in the group has a serious allergy and where they keep their adrenaline auto-injector. {{aerie-allergy}}"
+    },
+    {
+     "t": "p",
+     "x": "Anaphylaxis is a sudden reaction affecting the skin together with breathing trouble or collapse. Help the person use their own auto-injector in the outer thigh. An antihistamine tablet is not a substitute, and anyone who needed adrenaline needs emergency care. {{aerie-allergy}} In the UK that means dialling 999 or 112. {{mrew}}"
+    },
+    {
+     "t": "h",
+     "x": "Heat"
+    },
+    {
+     "t": "p",
+     "x": "Heat exhaustion brings tiredness, nausea, dizziness, heavy sweating and thirst. Move the person into shade, lay them down, cool them with water and fanning, and have them sip water with salty food while resting for 1 to 2 hours. {{aerie-heat}}"
+    },
+    {
+     "t": "p",
+     "x": "Heat stroke is an emergency: confusion, odd behaviour or collapse with a body temperature above 40 °C. Cool the whole body at once with cold water, wet cloths and fanning, and get emergency help. Drinking water alone does not prevent heat illness, and forcing down large amounts of plain water can make some people ill. {{aerie-heat}}"
+    },
+    {
+     "t": "callout",
+     "k": "tip",
+     "x": "Pack a kit you know how to use, and restock it after each trip. Add blister dressings, tape, tweezers, gloves, scissors and a pencil with waterproof paper for notes. {{aerie-kit}}"
+    },
+    {
+     "t": "example",
+     "title": "Worked example: a stove burn at breakfast (illustrative)",
+     "steps": [
+      "A camper knocks a pan and splashes boiling water across the back of one hand. Blisters form over an area bigger than their palm.",
+      "Cool the hand with clean water for pain and remove the ring before it swells. Then cover it loosely with a moist, clean dressing. {{aerie-burn}}",
+      "The burn is on the hand and blistered over more than a palm's area, so it needs medical care: end the trip and get them seen. {{aerie-burn}}"
+     ]
+    },
+    {
+     "t": "activity",
+     "x": "Open your first-aid kit. For each item, write what you would use it for in this lesson. Replace anything you could not explain."
+    },
+    {
+     "t": "check",
+     "q": "On day two, a walker feels a sore, warm patch on their heel. What is the best move?",
+     "o": [
+      "Keep walking and deal with it at camp tonight",
+      "Stop now and tape or pad the hot spot",
+      "Pop it with a pin straight away to relieve pressure",
+      "Swap to cotton socks, which absorb more sweat",
+      "Take boots off and walk the rest in sandals"
+     ],
+     "a": 1,
+     "w": "A warm, sore patch is a hot spot, the start of a blister. Protecting it with tape or a pad straight away stops it getting worse; cotton socks make blisters more likely. {{aerie-blis}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "On a hot day a hiker becomes confused and starts stumbling, though they are still sweating heavily. What should you do?",
+     "o": [
+      "Give a large bottle of plain water and carry on",
+      "Assume they are tired and let them sleep it off",
+      "Wrap them in a sleeping bag to stop them shivering",
+      "Cool their whole body at once and call 999",
+      "Wait for their skin to go dry before acting"
+     ],
+     "a": 3,
+     "w": "Confusion in the heat suggests heat stroke, an emergency, and sweating does not rule it out. Cool the whole body straight away and get help. {{aerie-heat}}",
+     "kind": "application"
+    },
+    {
+     "t": "take",
+     "i": [
+      "Treat a hot spot before it becomes a blister.",
+      "Cool burns with water; get help for big, blistered or hand and face burns.",
+      "Confusion in the heat is an emergency: cool and call 999."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l6",
    "title": "The lecturer's method: Florence Nightingale",
    "min": 22,
    "blocks": [

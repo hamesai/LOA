@@ -1,0 +1,473 @@
+{
+ "key": "pag-2018",
+ "title": "Physical Activity Guidelines for Americans, 2nd edition (2018)",
+ "author": "HHS",
+ "file": "Physical Activity Guidelines for Americans 2nd edition 2018.pdf",
+ "format": "pdf",
+ "sha256": "0147d4dfc5ae76613a8b8d9d1c95244477527989f1d841845866ae5b5340cda5",
+ "words": 41009,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Front matter",
+   "words": 3361,
+   "pages": [
+    1,
+    12
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Chapter 1. Introducing the Physical  Activity Guidelines for Americans",
+   "words": 395,
+   "pages": [
+    13,
+    14
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Chapter 1. Introducing the Physical Activity Guidelines for Americans      15      Why and",
+   "words": 432,
+   "pages": [
+    15,
+    16
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Chapter 1. Introducing the Physical Activity Guidelines for Americans      17      Figure ",
+   "words": 592,
+   "pages": [
+    17,
+    18
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "Chapter 1. Introducing the Physical Activity Guidelines for Americans      19      The Fra",
+   "words": 830,
+   "pages": [
+    19,
+    20
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "Chapter 1. Introducing the Physical Activity Guidelines for Americans      21        • Ins",
+   "words": 706,
+   "pages": [
+    21,
+    22
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "Chapter 1. Introducing the Physical Activity Guidelines for Americans      23      elevate",
+   "words": 804,
+   "pages": [
+    23,
+    24
+   ]
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "Chapter 1. Introducing the Physical Activity Guidelines for Americans      25      Health-",
+   "words": 652,
+   "pages": [
+    25,
+    26
+   ]
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "Chapter 2. Physical Activity and Health",
+   "words": 1274,
+   "pages": [
+    27,
+    30
+   ]
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "Chapter 2. Physical Activity and Health      31      The Health Benefits of Physical Activ",
+   "words": 491,
+   "pages": [
+    31,
+    32
+   ]
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "Chapter 2. Physical Activity and Health      33      The Role of Fitness in Health  Physic",
+   "words": 812,
+   "pages": [
+    33,
+    34
+   ]
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Chapter 2. Physical Activity and Health      35      Figure 2-1. Relationship of Moderate-",
+   "words": 759,
+   "pages": [
+    35,
+    36
+   ]
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Chapter 2. Physical Activity and Health      37      Weight Management  Physical activity ",
+   "words": 1098,
+   "pages": [
+    37,
+    38
+   ]
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Chapter 2. Physical Activity and Health      39      and fractures. Older adults, includin",
+   "words": 428,
+   "pages": [
+    39,
+    40
+   ]
+  },
+  {
+   "file": "ch-015.txt",
+   "title": "Chapter 2. Physical Activity and Health      41      Cognition  Compared to inactive peopl",
+   "words": 607,
+   "pages": [
+    41,
+    42
+   ]
+  },
+  {
+   "file": "ch-016.txt",
+   "title": "Chapter 2. Physical Activity and Health      43      Table 2-4. Health Benefits Associated",
+   "words": 506,
+   "pages": [
+    43,
+    44
+   ]
+  },
+  {
+   "file": "ch-017.txt",
+   "title": "Chapter 2. Physical Activity and Health      45      Cardiac events, such as a heart attac",
+   "words": 281,
+   "pages": [
+    45,
+    45
+   ]
+  },
+  {
+   "file": "ch-018.txt",
+   "title": "Chapter 3. Active Children and Adolescents",
+   "words": 6,
+   "pages": [
+    46,
+    46
+   ]
+  },
+  {
+   "file": "ch-019.txt",
+   "title": "Chapter 3. Active Children and Adolescents      47      Childhood and adolescence are crit",
+   "words": 793,
+   "pages": [
+    47,
+    48
+   ]
+  },
+  {
+   "file": "ch-020.txt",
+   "title": "Chapter 3. Active Children and Adolescents      49      Explaining the Guidelines  Types o",
+   "words": 930,
+   "pages": [
+    49,
+    50
+   ]
+  },
+  {
+   "file": "ch-021.txt",
+   "title": "Chapter 3. Active Children and Adolescents      51      moderate-intensity activity. A chi",
+   "words": 719,
+   "pages": [
+    51,
+    52
+   ]
+  },
+  {
+   "file": "ch-022.txt",
+   "title": "Chapter 3. Active Children and Adolescents      53      Special Considerations  Children a",
+   "words": 730,
+   "pages": [
+    53,
+    54
+   ]
+  },
+  {
+   "file": "ch-023.txt",
+   "title": "Chapter 4. Active Adults",
+   "words": 426,
+   "pages": [
+    55,
+    56
+   ]
+  },
+  {
+   "file": "ch-024.txt",
+   "title": "Chapter 4. Active Adults      57      Explaining the Key Guidelines  The key guidelines fo",
+   "words": 882,
+   "pages": [
+    57,
+    58
+   ]
+  },
+  {
+   "file": "ch-025.txt",
+   "title": "Chapter 4. Active Adults      59      Table 4-1 lists some examples of activities classifi",
+   "words": 589,
+   "pages": [
+    59,
+    60
+   ]
+  },
+  {
+   "file": "ch-026.txt",
+   "title": "Chapter 4. Active Adults      61      Muscle-Strengthening Activity  Muscle-strengthening ",
+   "words": 858,
+   "pages": [
+    61,
+    62
+   ]
+  },
+  {
+   "file": "ch-027.txt",
+   "title": "Chapter 4. Active Adults      63      Muscle-strengthening activities should also be gradu",
+   "words": 899,
+   "pages": [
+    63,
+    64
+   ]
+  },
+  {
+   "file": "ch-028.txt",
+   "title": "Chapter 4. Active Adults      65        • She attends a cardio exercise class at the unive",
+   "words": 396,
+   "pages": [
+    65,
+    65
+   ]
+  },
+  {
+   "file": "ch-029.txt",
+   "title": "Chapter 5. Active Older Adults",
+   "words": 5,
+   "pages": [
+    66,
+    66
+   ]
+  },
+  {
+   "file": "ch-030.txt",
+   "title": "Chapter 5. Active Older Adults      67      The benefits of regular physical activity occu",
+   "words": 688,
+   "pages": [
+    67,
+    68
+   ]
+  },
+  {
+   "file": "ch-031.txt",
+   "title": "Chapter 5. Active Older Adults      69      Explaining the Key Guidelines  As with other a",
+   "words": 643,
+   "pages": [
+    69,
+    70
+   ]
+  },
+  {
+   "file": "ch-032.txt",
+   "title": "Chapter 5. Active Older Adults      71      How Many Days a Week and for How Long?  Aerobi",
+   "words": 852,
+   "pages": [
+    71,
+    72
+   ]
+  },
+  {
+   "file": "ch-033.txt",
+   "title": "Chapter 5. Active Older Adults      73      Balance Activities  These kinds of activities ",
+   "words": 1078,
+   "pages": [
+    73,
+    74
+   ]
+  },
+  {
+   "file": "ch-034.txt",
+   "title": "Chapter 5. Active Older Adults      75      Active Older Adults  Older adults who are alre",
+   "words": 779,
+   "pages": [
+    75,
+    76
+   ]
+  },
+  {
+   "file": "ch-035.txt",
+   "title": "Chapter 5. Active Older Adults      77      Barbara: An Active, 65-Year-Old Woman  Barbara",
+   "words": 481,
+   "pages": [
+    77,
+    77
+   ]
+  },
+  {
+   "file": "ch-036.txt",
+   "title": "Chapter 6. Additional Considerations   for Some Adults",
+   "words": 7,
+   "pages": [
+    78,
+    78
+   ]
+  },
+  {
+   "file": "ch-037.txt",
+   "title": "Chapter 6. Additional Considerations for Some Adults      79      All Americans should be ",
+   "words": 899,
+   "pages": [
+    79,
+    80
+   ]
+  },
+  {
+   "file": "ch-038.txt",
+   "title": "Chapter 6. Additional Considerations for Some Adults      81      may be born with a disab",
+   "words": 936,
+   "pages": [
+    81,
+    82
+   ]
+  },
+  {
+   "file": "ch-039.txt",
+   "title": "Chapter 6. Additional Considerations for Some Adults      83      People with osteoarthrit",
+   "words": 1013,
+   "pages": [
+    83,
+    84
+   ]
+  },
+  {
+   "file": "ch-040.txt",
+   "title": "Chapter 6. Additional Considerations for Some Adults      85      Getting and Staying Acti",
+   "words": 820,
+   "pages": [
+    85,
+    86
+   ]
+  },
+  {
+   "file": "ch-041.txt",
+   "title": "Chapter 7. Active and Safe",
+   "words": 328,
+   "pages": [
+    87,
+    88
+   ]
+  },
+  {
+   "file": "ch-042.txt",
+   "title": "Chapter 7. Active and Safe      89      Explaining the Guidelines  Be Confident That Physi",
+   "words": 862,
+   "pages": [
+    89,
+    90
+   ]
+  },
+  {
+   "file": "ch-043.txt",
+   "title": "Chapter 7. Active and Safe      91      Prior Experience  People may use their experience ",
+   "words": 695,
+   "pages": [
+    91,
+    92
+   ]
+  },
+  {
+   "file": "ch-044.txt",
+   "title": "Chapter 7. Active and Safe      93      Advice From Health Care Providers  No evidence is ",
+   "words": 429,
+   "pages": [
+    93,
+    93
+   ]
+  },
+  {
+   "file": "ch-045.txt",
+   "title": "Chapter 8. Taking Action: Increasing  Physical Activity Levels of Americans",
+   "words": 10,
+   "pages": [
+    94,
+    94
+   ]
+  },
+  {
+   "file": "ch-046.txt",
+   "title": "Chapter 8. Taking Action: Increasing Physical Activity Levels of Americans      95      Be",
+   "words": 940,
+   "pages": [
+    95,
+    96
+   ]
+  },
+  {
+   "file": "ch-047.txt",
+   "title": "Chapter 8. Taking Action: Increasing Physical Activity Levels of Americans      97      Po",
+   "words": 772,
+   "pages": [
+    97,
+    98
+   ]
+  },
+  {
+   "file": "ch-048.txt",
+   "title": "Chapter 8. Taking Action: Increasing Physical Activity Levels of Americans      99      an",
+   "words": 1009,
+   "pages": [
+    99,
+    100
+   ]
+  },
+  {
+   "file": "ch-049.txt",
+   "title": "Chapter 8. Taking Action: Increasing Physical Activity Levels of Americans      101       ",
+   "words": 857,
+   "pages": [
+    101,
+    102
+   ]
+  },
+  {
+   "file": "ch-050.txt",
+   "title": "Chapter 8. Taking Action: Increasing Physical Activity Levels of Americans      103      T",
+   "words": 5650,
+   "pages": [
+    103,
+    118
+   ]
+  }
+ ],
+ "warnings": [
+  "text quality looks poor (29% common English words, 1.1% words with stray symbols), which usually means OCR errors. Quote nothing from it, treat figures and names as unverified, and re-OCR the scan if you can"
+ ],
+ "provenance": {
+  "added": "2026-11-18",
+  "source_file": "Physical Activity Guidelines for Americans 2nd edition 2018.pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.29,
+  "odd_character_share": 0.011
+ }
+}

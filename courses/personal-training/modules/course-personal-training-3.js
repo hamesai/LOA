@@ -31,6 +31,22 @@
      "x": "It found that practitioner support for autonomy was linked with clients' needs being met, and that met needs and autonomous motivation were linked with better health outcomes. {{ng2012}}"
     },
     {
+     "t": "p",
+     "x": "The US guidelines make the same point from another side: health is not the only reason to be active, and people should move for any reasons that matter to them, such as fun, friends, family, the outdoors or feeling more energetic. {{pag-ch1-progress}}"
+    },
+    {
+     "t": "p",
+     "x": "Some rewards arrive the same day. Anxiety, blood pressure, sleep and some aspects of thinking improve right after activity, while fitness, strength and lower depressive symptoms take a few weeks or months. {{pag-health}} Naming the early wins gives a new client quick evidence of competence (our coaching inference)."
+    },
+    {
+     "t": "p",
+     "x": "Sleep is a common early win, and timing barely matters: the US guidelines found similar sleep benefits whether activity ended more than 8 hours, 3 to 8 hours, or under 3 hours before bed. {{pag-sleep}}"
+    },
+    {
+     "t": "p",
+     "x": "Strength work helps mood too: trials in the WHO review found moderately large falls in depressive symptoms and small falls in anxiety symptoms against control groups. {{who20-adults}}"
+    },
+    {
      "t": "fig",
      "id": "personal-training-sdt",
      "title": "The SDT chain",
@@ -470,6 +486,14 @@
     {
      "t": "p",
      "x": "Relatedness is one of the three needs, so make sure the client feels supported, not policed. {{ng2012}}"
+    },
+    {
+     "t": "p",
+     "x": "Cost and access are real barriers. Walking needs no equipment or fees, while classes and sport can cost money, and disabled people also face barriers of access, choice of activities and other people's attitudes. {{who20-conds}}"
+    },
+    {
+     "t": "p",
+     "x": "After an illness such as flu, the US guidelines advise restarting at a lower level and working back up gradually. {{pag-frail}}"
     },
     {
      "t": "callout",

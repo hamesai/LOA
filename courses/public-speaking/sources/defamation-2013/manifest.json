@@ -1,0 +1,32 @@
+{
+ "key": "defamation-2013",
+ "title": "Defamation Act 2013 (as enacted)",
+ "author": "stockwella",
+ "file": "Defamation Act 2013 (as enacted).pdf",
+ "format": "pdf",
+ "sha256": "8e166a8f2db9203c6277220b3f45084d51a98ac5d7c366bbf0225a4b32536e60",
+ "words": 4273,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Pages 1 to 16",
+   "words": 4273,
+   "pages": [
+    1,
+    16
+   ]
+  }
+ ],
+ "warnings": [
+  "no chapter outline or headings found: split into 20-page blocks"
+ ],
+ "provenance": {
+  "added": "2026-11-20",
+  "source_file": "Defamation Act 2013 (as enacted).pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.385,
+  "odd_character_share": 0.003
+ }
+}
