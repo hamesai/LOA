@@ -198,5 +198,13 @@
   "match": "Lumumba was handed to Katangan forces and killed on 17/01/1961",
   "reason": "the skip record for ch-030.txt says chapters 29 and 30 were read in full in chunks 1 to 6; the Katanga secession and Lumumba's death are in chapter 29 (the UN chapter); only the bibliography and index were not read",
   "checked": "16/11/2026"
+ },
+ {
+  "key": "casement-reply",
+  "kind": "number",
+  "item": "21/01",
+  "match": "A mission worker, Danielson",
+  "reason": "Annexe 2 (footnote 142 in the State's notes) prints the date as '21 Janvier' / 21st January of that year, 1903; the lesson prints it as 21/01/1903 in the course date format. Read by hand 22/11/2026.",
+  "checked": "22/11/2026"
  }
 ]

@@ -1,0 +1,101 @@
+{
+ "section": [
+  {
+   "t": "h",
+   "x": "Three readings of the century before partition"
+  },
+  {
+   "t": "p",
+   "x": "Historians in UNESCO's volume VI disagree about what drove African change before the 1880s. Set their readings side by side before you choose one. [CONTESTED]"
+  },
+  {
+   "t": "table",
+   "title": "Three readings of Africa in the nineteenth century",
+   "head": [
+    "Reading",
+    "Main claim",
+    "How to test it"
+   ],
+   "rows": [
+    [
+     "Ajayi",
+     "Continuity with the eighteenth century and change from inside far outweighed outside pressure; he calls the century an 'African Age of Improvement' {{gha6-ajayi}}",
+     "Do the Mfecane, Egypt under Muhammad Ali and the jihads have causes that predate European trade?"
+    ],
+    [
+     "Wallerstein",
+     "From about 1750 northern, western and southern Africa were drawn into the world economy, and partition completed that process {{gha6-wallerstein}}",
+     "Do production, labour and prices change in the ways he lists, and is the date of 1750 defensible?"
+    ],
+    [
+     "Boahen",
+     "A century of new trends in people, religion, politics and trade, ending in a tragedy of conquest because technology and processing did not change {{gha6-boahen}}",
+     "Is his claim that conquest ended healthy trends a fact or a counterfactual?"
+    ]
+   ],
+   "src": ""
+  },
+  {
+   "t": "p",
+   "x": "Ajayi cautions that Dike's dictum that African history is largely the history of trade with Europe is an exaggeration, and that the Mfecane, Muhammad Ali's reforms and the jihads started inside Africa. {{gha6-ajayi}} Wallerstein replies that these events cluster in the same years because Africa was being drawn into a wider economy. {{gha6-wallerstein}} Both readings use the same evidence, so name which one you are following. [CONTESTED]"
+  },
+  {
+   "t": "p",
+   "x": "Both Wallerstein and Boahen reject the label 'legitimate commerce' as Eurocentric. Chamberlin, cited by Wallerstein, points out that the switch from slave to other exports began before 1807 and went on after it, and Coquery-Vidrovitch and Moniot add that for Africans the two trades were complementary until the 1860s. {{gha6-wallerstein}} {{gha6-boahen}} [PROBABLE]"
+  },
+  {
+   "t": "p",
+   "x": "Some numbers from the same chapters, each from a secondary summary. Estates in Egypt grew from about 10 per cent of arable land in 1818 to about 45 per cent by 1844, which is about 4.5 times (our arithmetic). Cotton-goods imports into West Africa rose fifty-fold between 1815 and 1850, and seven times more by 1891. {{gha6-wallerstein}} The palm-oil boom is dated to end in 1861 by the sources Wallerstein cites. {{gha6-wallerstein}} [PROBABLE]"
+  },
+  {
+   "t": "p",
+   "x": "Who gained from the new trade is argued too. Munro, cited by Wallerstein, says gathering, carrying and storing palm oil and groundnuts took more labour than the slave trade, and the shift favoured private over royal merchants. {{gha6-wallerstein}} Boahen argues that income moved from the kings and their soldiers, who monopolised the slave trade, to ordinary people who gathered the new crops, though he adds that the means of production and processing did not change. {{gha6-boahen}} [CONTESTED]"
+  },
+  {
+   "t": "p",
+   "x": "On population, the usual figure of 100 million for Africa about 1800 is partly arbitrary, projected back from data after 1950. Ajayi holds that numbers fell in the seventeenth and eighteenth centuries because of the slave trade and its wars, rose from the early nineteenth century and rose faster from 1850 to 1880, while the internal slave trade grew. {{gha6-ajayi}} [CONTESTED]"
+  },
+  {
+   "t": "p",
+   "x": "Boahen counts new schools and new elites. Missionary societies working in West Africa rose from three in 1800 to more than fifteen by 1840, and the Lovedale institution in the Cape taught 3,448 African students between 1841 and 1896, over 700 of them in professional work, which is about one in five (our arithmetic). {{gha6-boahen}} He names educated writers such as James Africanus Horton (1835 to 1883) and Edward Wilmot Blyden, and the first African-led breakaway church in South Africa in 1884. {{gha6-boahen}} [PROBABLE]"
+  },
+  {
+   "t": "p",
+   "x": "A close reading finds a slip. Boahen dates the constitution of the Fante Confederation to 1874 and says in the same passage that the British had ended the initiative by 1873, so the two dates cannot both be right. {{gha6-boahen}} Check such dates against a second source before you repeat them (our check). [PROBABLE]"
+  },
+  {
+   "t": "p",
+   "x": "Boahen's closing claim, that without colonial rule the trends towards centralisation, schools and reform would have continued, is a counterfactual and not a finding. {{gha6-boahen}} Use it as an argument to weigh. [CONTESTED]"
+  }
+ ],
+ "checks": [
+  {
+   "t": "check",
+   "q": "A teacher says: 'Africa only changed in the nineteenth century because of European trade.' A student answers with Ajayi's chapter in UNESCO's volume VI. Which reply is best supported by that chapter?",
+   "o": [
+    "The Mfecane, Egypt's reforms and the jihads began inside Africa",
+    "The Mfecane was caused by the Cape Colony alone, so only outside pressure counts",
+    "Ajayi proves the teacher right, because the chapter lists trade as the only cause",
+    "Population was falling throughout the century, so no change could have begun inside",
+    "Trade had no effect, because every nineteenth-century change began inside Africa alone"
+   ],
+   "a": 0,
+   "w": "Ajayi argues the major events of the early century had internal origins while accepting that European trade mattered; he warns against the 'trade and politics' dictum as an exaggeration. {{gha6-ajayi}}",
+   "kind": "application"
+  },
+  {
+   "t": "check",
+   "q": "A website says Africa moved from the slave trade to 'legitimate commerce' in 1807, when Britain banned the trade. What do Wallerstein and Boahen suggest is wrong with that sentence?",
+   "o": [
+    "The shift happened in 1807 exactly, but the label 'legitimate' is the website's mistake",
+    "The shift was caused by Africans alone, so Britain's ban of 1807 had no part at all",
+    "It began before 1807, ran after it, and the label is Eurocentric",
+    "The shift ended the internal slave trade at once, so the website's date is too late",
+    "The shift never happened, because Africans kept exporting people until the 1880s"
+   ],
+   "a": 2,
+   "w": "Chamberlin's point, cited by Wallerstein, is that the changeover pre-dated and post-dated the British measure of 1807, and Boahen calls the term typically Eurocentric. {{gha6-wallerstein}}",
+   "kind": "application"
+  }
+ ]
+}

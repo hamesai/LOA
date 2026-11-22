@@ -1,5 +1,5 @@
 {
- "built": "2026-11-22T18:34:46",
+ "built": "2026-11-22T19:55:33",
  "runs": [
   {
    "bundle": "shared/bundles/run-1.js",
@@ -831,12 +831,12 @@
     },
     {
      "path": "courses/africa-pre-colonial/course-africa-pre-colonial-sources.js",
-     "sha1": "924b6012377367c14779ba2c75b8da3b368d4a05",
+     "sha1": "0a83610059ac13b492bd27c05b398e3c7b1d7618",
      "skipped": false
     },
     {
      "path": "courses/africa-pre-colonial/course-africa-pre-colonial-refs.js",
-     "sha1": "8ffc4b92f817fa3e20b86599d289144f9f087ab8",
+     "sha1": "0ea7afdc422598eb6a721bb7e517279d88c217c0",
      "skipped": false
     },
     {
@@ -881,7 +881,7 @@
     },
     {
      "path": "courses/africa-pre-colonial/modules/course-africa-pre-colonial-8.js",
-     "sha1": "49950abacee5a717508b01b1f9b231c74fe408e4",
+     "sha1": "e0d158b0e567043a456a5f1c6eec07de7aa421d2",
      "skipped": false
     },
     {
@@ -896,12 +896,12 @@
     },
     {
      "path": "courses/africa-post-colonial/course-africa-post-colonial-sources.js",
-     "sha1": "8949a889fddea0408dbf1b6ffcb2df3ddfa9aca9",
+     "sha1": "0c68c9b7d15fcd60e78258c5238fb15d3257eb29",
      "skipped": false
     },
     {
      "path": "courses/africa-post-colonial/course-africa-post-colonial-refs.js",
-     "sha1": "c073a8b483c9824f5a466da8fb8844af1a85f1e0",
+     "sha1": "9aa55d0218e045cc22fd2f1aa5aee266d7f532e9",
      "skipped": false
     },
     {
@@ -911,7 +911,7 @@
     },
     {
      "path": "courses/africa-post-colonial/modules/course-africa-post-colonial-1.js",
-     "sha1": "248f0db8aeb094d62e6fac6d73b429edf950197e",
+     "sha1": "ba294f457b4bfa349f7594bd579bc78bf55ff3cb",
      "skipped": false
     },
     {

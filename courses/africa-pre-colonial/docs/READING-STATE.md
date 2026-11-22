@@ -9,14 +9,14 @@ Updated 22/11/2026. Built from each source's read records, so it is always curre
 | chirikure | 1 of 1 | 0 | 0 | 100% | none | 0 | 02/11/2026 |
 | diop-origin | 21 of 22 | 1 | 0 | 94% | none | 0 | 30/10/2026 |
 | diop-precolonial | 14 of 14 | 0 | 0 | 100% | none | 0 | 30/10/2026 |
-| equiano | 2 of 2 | 0 | 0 | 100% | none | 11 | 22/11/2026 |
+| equiano | 2 of 2 | 0 | 0 | 100% | none | 0 | 22/11/2026 |
 | gha-i | 22 of 39 | 17 | 0 | 61% | none | 0 | 08/11/2026 |
 | gha-ii | 6 of 34 | 5 | 23 | 20% | none | 0 | 04/11/2026 |
 | gha-iii | 13 of 38 | 8 | 17 | 41% | ch-007.txt chunk 1 of 4 | 0 | 14/11/2026 |
 | gha-iv | 23 of 34 | 11 | 0 | 74% | none | 0 | 05/11/2026 |
 | gha-ix | 3 of 119 | 1 | 115 | 5% | none | 0 | 04/11/2026 |
 | gha-v | 30 of 41 | 11 | 0 | 80% | none | 0 | 06/11/2026 |
-| gha-vi | 5 of 33 | 7 | 21 | 17% | ch-001.txt chunk 2 of 3 | 0 | 14/11/2026 |
+| gha-vi | 9 of 33 | 7 | 17 | 26% | none | 8 | 22/11/2026 |
 | grollemund | 1 of 1 | 0 | 0 | 100% | none | 0 | 02/11/2026 |
 | ibn-battuta-gibb | 3 of 36 | 33 | 0 | 15% | none | 0 | 02/11/2026 |
 | johnson | 4 of 88 | 84 | 0 | 10% | none | 0 | 03/11/2026 |
@@ -199,10 +199,6 @@ Continue a source with `python _template/source_read.py africa-pre-colonial <key
 
 ### gha-vi: General History of Africa, vol. VI: Africa in the Nineteenth Century until the 1880s
 
-- ch-001.txt  GENERAL HISTORY OF AFRICA- VI, 8802 words (chunk 2 of 3 served)
-- ch-002.txt  Chapter 1: Africa at the beginning of the nineteenth century, 11000 words
-- ch-003.txt  Chapter 2: Africa and the world-economy, 9245 words
-- ch-004.txt  Chapter 3: New trends and processes in Africa in the nineteenth century, 11244 words
 - ch-007.txt  Chapter 6: The impact of the Mfecane on the Cape Colony, 10167 words
 - ch-008.txt  Chapter 7: The British, Boers and Africans in South Africa, 1850-80, 20227 words
 - ch-009.txt  Chapter 8: The countries of the Zambezi basin, 12562 words
