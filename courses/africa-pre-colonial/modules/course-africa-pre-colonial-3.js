@@ -34,6 +34,18 @@
     },
     {
      "t": "p",
+     "x": "The founding date of Carthage is not secure. Tradition gives 814 BC (with Cadiz in 1110 and Utica in 1101, which the volume calls legendary); the earliest firm archaeology is from the middle of the eighth century BC, and permanent settlement on the Maghrib coast began about 800 BC. {{gha2-ch18}}"
+    },
+    {
+     "t": "p",
+     "x": "The Maghrib was not an infertile desert. The coastal belt has ample water and vegetation, the northern Atlas slopes have wooded pasture and olives, and the Mediterranean climate is mild. {{gha3-ch9}}"
+    },
+    {
+     "t": "p",
+     "x": "Carthage was not a Phoenician agricultural import. Berbers grew hard wheat, barley, beans and chick-peas with a wooden-share plough and oxen long before the Phoenicians arrived; the Phoenicians' main effect was on tree crops, and even there the Berbers grafted oleaster. {{gha2-ch17}} From about 2700 BC the Maghrib was largely cut off from the rest of Africa by the drying Sahara, and was linked by sea to Iberia, Sicily and Sardinia, leaving the Tripolitanian corridor as the only land route. {{gha2-ch17}}"
+    },
+    {
+     "t": "p",
      "x": "Almost nothing written is Punic, so Carthage is known through Greek and Latin writers. Polybius (about 200 to 120 before our era), who seems to have been at the siege of 146 before our era, is the chief source. {{gha1-djait}} [FIRM]"
     },
     {
@@ -94,7 +106,51 @@
     },
     {
      "t": "p",
+     "x": "Before Islam, Libyans buried their dead folded, sometimes with a sacrificed horse or a servant, and the ram was the main Libyan cult animal, worshipped as Ammon and spread across the Sahara. {{gha2-ch17}}"
+    },
+    {
+     "t": "p",
+     "x": "Masinissa turned nomads into farmers only in part: Strabo's claim is an exaggeration, and the real change was a large rise in cereal area and export under him, with stock-rearing still dominant. {{gha2-ch18}}"
+    },
+    {
+     "t": "p",
+     "x": "The interior Libyans paid a quarter of their crops in tribute, half during the First Punic War, and supplied soldiers; Polybius says Carthaginian governors were rewarded for extracting most, which the volume calls a justified criticism. {{gha2-ch18}} Matho, a Libyan leader, led a revolt that brought 20,000 mercenaries, half of them Libyans, who took Utica and Tunis and issued coins inscribed 'Libyon' in Greek. {{gha2-ch18}} The Carthaginian culture was Libyan-Phoenician, with Phoenician dominant but a minority; Neo-Punic inscriptions lasted into the second century AD, and the title sufet was used in about thirty towns. {{gha2-ch18}}"
+    },
+    {
+     "t": "p",
+     "x": "Africa Proconsularis was thinly settled by Romans. The Augustan colonists were no more than fifteen to twenty thousand, which the volume calls 'not a mass-settlement area', while the urban system was large: at least 500 towns in North Africa and 200 in the proconsular province. {{gha2-ch19a}} Roman Africa's population is disputed by method: Courtois gives about 4 million, Charles-Picard about 6.5 million at its height, and Lezine 1.3 million town-dwellers for Carthage and Sousse. {{gha2-ch19a}} The army is also an estimate: Legio III Augusta had 5,000 to 6,000 men in theory, and the African garrison may have been 25,000 to 30,000 in the second century. {{gha2-ch19a}}"
+    },
+    {
+     "t": "p",
+     "x": "Rome ran Africa through chiefs as well as cities. Tribal chieftains got subsidies and imperial investiture for supplying men to guard the limes, and cities paid the Stipendium or were exempt by charter. {{gha2-ch19a}} Citizenship came in 212 to all free inhabitants except the dediticii, so tribes beyond the cities stayed outside Roman society. {{gha2-ch19a}} Africa was a granary: the annona took about one-seventh of output, and Lex Manciana and Lex Hadriana set coloni's rent at one-third of crops plus labour days. {{gha2-ch19a}}"
+    },
+    {
+     "t": "p",
+     "x": "Religion kept its Punic shape under Roman names: the African Saturn continued Baal Hammon and Juno-Caelestis continued Tanit. {{gha2-ch19a}} Early Christianity is documented by a synod of 71 bishops at Carthage (about 220) and another of 90 (about 240); Perpetua and Felicity died in the Carthage arena in 203. {{gha2-ch19a}} Before Islam, Berbers mostly kept nature cults, and Christianity was mostly confined to the coastal Afaraka, a Berber, Carthaginian, Roman and Greek mix; Donatism and Arianism were Berber positions against Rome. {{gha3-ch9}} Judaism was also widespread, and most native North African Jews descended from pre-Islamic converts. {{gha3-ch9}}"
+    },
+    {
+     "t": "p",
+     "x": "The Roman view of the desert improved in the third and fourth centuries, when Roman objects reached far into the desert (Abalessa, Tassili, Ghat, the Tin Hinan group), though the written texts stop before then. {{gha2-ch20}} Rome's policy was first to destroy the strongest Saharan states (the Nasamones and Garamantes were reduced by the height of the Empire), then to hold the line with forts. {{gha2-ch20}}"
+    },
+    {
+     "t": "p",
+     "x": "Roman goods in the Sahara show Garamantic trade rather than Roman presence: the Garamantes passed the objects from one group to the next, and a local chief may have taken tolls. {{gha2-ch20}} Animals were Rome's main draw from the Sahara: 9,000 beasts were killed at the opening of the Flavian amphitheatre and 11,000 at Trajan's triumph (106). {{gha2-ch20}} There is no evidence of a Roman trade in black slaves, and gold from the Niger or Guinea reached Rome only by hypothesis. {{gha2-ch20}}"
+    },
+    {
+     "t": "p",
+     "x": "Africa's Vandal period was not an economic collapse: the monetary economy, external trade and agriculture show no obvious decline, and the Lex Manciana was kept, though decay is clearest in some towns. {{gha2-ch19b}} Byzantine rule used Berber chiefs as vassals, investing Iaudas of the Aures, Guenfan, Antalas and Coutzina of the High Steppes, and Carcazan of Tripolitania. {{gha2-ch19b}} Byzantine strategy was a chain of fortresses (Tebessa, Haidra, Timgad, Sabratha, Kelibia), with the frontier never west of Setif. {{gha2-ch19b}} Independent post-Roman rulers are known from rare allusions: Masuna, king of the Moors and the Romans, Masties of the Aures, and Garmul, who beat a Byzantine army in 571. {{gha2-ch19b}} The 'Moors and Romans' formula shows that de-Romanisation was gradual, with Latin still used in Tiaret, Altava, Tlemcen and Volubilis into the seventh century. {{gha2-ch19b}}"
+    },
+    {
+     "t": "p",
+     "x": "Mauretania's end as a kingdom: the Mauri royal families (Bocchus I, Bocchus II, Bogud II) gave way when Augustus installed Juba II in 25 BC; his son Ptolemy was executed by Caligula in AD 40, and the province was formed in AD 42-44. The sources differ on that date. {{gha2-ch18}} {{gha2-ch19a}}"
+    },
+    {
+     "t": "p",
      "x": "Sallust is the best ancient writer on the Berber kingdoms. Donatism is known mainly through its opponent Augustine, so read that record with caution. {{gha1-djait}}"
+    },
+    {
+     "t": "p",
+     "x": "The Roman record of Tacfarinas's eight-year war under Tiberius is better read as a land war than a clash of civilisation and nomads: Tacitus gives his demand as the right to land taken by veterans, companies and senators. {{gha2-ch19a}}"
     },
     {
      "t": "p",
@@ -103,6 +159,10 @@
     {
      "t": "p",
      "x": "Roman expeditions beyond the frontier, such as Balbus in 19 before our era, informed Ptolemy's map of 'Inner Libya', but the classical authors probably did not go past Cape Juby, so they give an image of Africa more than data on the western Sudan. {{gha1-djait}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Roman expeditions beyond the frontier, such as Balbus's campaign of 19 BC against the Garamantes, are disputed: one account says he took Garama and Cidamus, another that his raid covered only the south of the Maghrib and the Fezzan. {{gha2-ch20}}"
     },
     {
      "t": "p",
@@ -157,11 +217,105 @@
     },
     {
      "t": "p",
+     "x": "Ubayd Allah ibn al-Habhab, governor in the eighth century, enlarged Tunis and made the Zaytuna mosque the cathedral mosque. {{gha3-ch9}} Abd Allah ibn Sa'd's campaign of 27/647 to 28/649 took thousands of prisoners at Thysdrus before the population paid a ransom for him to leave. {{gha3-ch9}}"
+    },
+    {
+     "t": "p",
+     "x": "Egypt fell to Amr ibn al-As, who in 22/643 took Cyrenaica without resistance from Greeks or Byzantines, meeting only Luwata and Hawwara Berbers, who agreed to a tribute of 13,000 dinars. He garrisoned Zawila in the hinterland and took Tripoli, Sabra and Waddan the next year. {{gha3-ch9}} In 27/647 Abd Allah ibn Sa'd defeated the exarch Gregory at Subaytula, where Gregory died, and the Arabs took thousands of prisoners at Thysdrus before the population paid a ransom for him to leave. {{gha3-ch9}}"
+    },
+    {
+     "t": "p",
+     "x": "Uqba ibn Nafi, commander-in-chief from 50/670, founded Kairouan, the first Islamic province capital, and gave the province the name Ifriqiya; the chapter credits the legend of Sidi Uqba. {{gha3-ch9}} Maghrib means 'the west' of the Islamic lands, a geographic term that became a proper name. {{gha3-ch9}}"
+    },
+    {
+     "t": "p",
+     "x": "Ifriqiya's Arab province was organised as Tripolitania, Ifriqiya (Gabes to Annaba) and the Mzab region; the Central and Western Maghrib were in theory Islamic but not under Arab rule until Musa ibn Nusayr. {{gha3-ch9}} Hassan's taxes followed the imperial pattern: with almost no Jews or Christians to pay the jizya, that revenue was almost absent, while Arabia's sadaqa system was applied to the Berbers. {{gha3-ch9}}"
+    },
+    {
+     "t": "p",
      "x": "Accounts of the Kahina are late Arabic sources with legendary features. The claim that she was Jewish is [CONTESTED]. Berber, or Amazigh, troops took part in the invasion of Spain in 711. {{enc-kahena}} {{brit-north-arab}}"
     },
     {
      "t": "p",
+     "x": "Al-Kahina is known only through Arab chroniclers, who describe her with legendary detail. The source treats her as one of the figures around whom legends grow. {{gha3-ch9}} The death of the Arab commander who founded Kairouan is recorded in Arab legend, a tale of a martyr's tomb, so it is a narrative tradition rather than a contemporary report. {{gha3-ch9}}"
+    },
+    {
+     "t": "p",
+     "x": "Hassan ibn al-Numan's campaign: the first attack came at Miskiyana in 77/696, the Byzantines sacked Carthage in 78/697, reinforcements came in 80/699, and the decisive battle with al-Kahina was in 82/701. {{gha3-ch9}} Carthage was destroyed on his orders in 83/702, and Tunis was founded that year as a new port with a shipyard and Coptic draughtsmen from Egypt. {{gha3-ch9}} The Berbers of the Aures then asked for amnesty and sent 12,000 men to the Arab armies. {{gha3-ch9}}"
+    },
+    {
+     "t": "p",
+     "x": "Julian at Tangier is a title (comes julianus, count of Julia Traducta, the Roman name for Tarifa), not a personal name, and he was a Visigoth. {{gha3-ch9}}"
+    },
+    {
+     "t": "p",
+     "x": "Ba's review of volume III summarises the conquest as the volume tells it: a first stage from 641 to 649, a long pause in the civil war, the appointment of Ukba ibn Nafi in 670 and the founding of Kayrawan, the Berber kingdom of Kusayla from 687 to 690 and the Kahina's rising ending with her death in battle in 711. {{gha9-ba}} Ba then warns that the volume stresses Islam so heavily that Africa appears to exist only through Islam and its world economy, and he agrees with Lewicki that Ukba's expeditions were 'rather to reconnoitre'. {{gha9-ba}} So do not present the conquest as a single march with fixed dates, and keep the 711 date for the Kahina attributed, since other accounts differ. [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Umayyad Maghrib, 78/697 to 122/740: eight governors held Kairouan in about forty years. Ibn Khaldun and the chapter trace the rising anger to Yazid ibn Abi Muslim (102/720), who kept converts paying jizya and branded his Berber guards; they killed him, the first sign of Kharijite spirit in the Maghrib. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "The Berbers were not simply resisting Arabs. Their resistance began when they saw that Uqba's campaign aimed to absorb them into the empire and its religion. The chiefs refused to become subjects of a remote caliph, and the Umayyads would not give a Muslim chief sovereignty. {{gha3-ch9}} Kusayla of the Awraba and Sanhaja converted to Islam after Abu al-Muhajir explained the faith to him; he later rose against the Arab commander who had founded Kairouan, and held the city until Zuhayr defeated him at Mamma. {{gha3-ch9}}"
+    },
+    {
+     "t": "p",
+     "x": "Berber genealogies are a later construct. The names Butr and Baranis appear only at the Arab conquest, sound Arabic, and the genealogies Ibn Khaldun records were put together around the fourth/tenth or fifth/eleventh century for political purposes; they contradict each other and some genealogists make the Kutama Arab. {{gha3-ch9}} {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "The Berbers felt cheated: they converted and fought for Islam, yet were governed by force, paid less than Arabs, and given poor land as fiefs in Spain. Umayyad policy except under Umar ibn Abd al-Aziz kept converts second-class. The result was the Kharijite turn, with communities in every region including the Djabal Nafusa. {{gha3-ch9}} The Berbers' grievances were set out to Hisham ibn Abd al-Malik through Maysara's delegation: Arab commanders kept booty and sent Berbers into danger first. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Conversion came in stages. First chiefs and elders converted formally to recognise Arab rule, and Berbers reverted whenever the armies left (Ibn Khaldun says a dozen times in seventy years). Musa ibn Nusayr took young noble prisoners, freed them on condition they became Muslims, and made them officers. {{gha3-part1}} Berbers converted in large numbers only from the early eighth century, but resented foreign bureaucratic taxation. {{gha3-part1}} The Umayyads discouraged conversion, since converts still paid land and poll tax; Umar II briefly stopped this, and full integration came under the Abbasids. {{gha3-ch2}} {{gha3-ch3}}"
+    },
+    {
+     "t": "p",
+     "x": "Kharijism was a Berber protest. Its egalitarian doctrine, that any pious believer could be imam even a slave, and its rejection of luxury suited Berbers against Arab tax officials. Ibadite and Sufrite forms spread, and two theocracies, the imamate of Tahert and the Sufrite principality of Sijilmasa, lasted until the Fatimids destroyed them in the tenth century. {{gha3-part1}} The Kharijite doctrine of the imam, in Arabic and Ibadite sources, drew discontented people to government. {{gha3-ch2}} The Ibadite Musnad's hadith gave Kharijite strategy: kud, takiyya and khuruj. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Western Maghrib conquest, 85/704 to 91/710: Musa ibn Nusayr, aged 60, took Tangier, offered protection to Ceuta's governor, and split the western Maghrib into three provinces; he took hostages and 17,000 Masmuda soldiers, and ruled harshly. {{gha3-ch9}} The 123/741 revolt was an Islamic and Kharijite revolt against the Umayyad administration in the west, not a Berber rising to expel the Arabs. {{gha3-ch9}}"
+    },
+    {
+     "t": "p",
+     "x": "Arab settlers in the Maghrib: colonies in Cyrenaica and Ifriqiya, many from the Tamim confederation, were absorbed in the Aghlabid period. Small Arab families became imams and then tribal emirs, as the Banu Salih at Nakur and the Banu Sulayman at Tlemcen did, and then Berberised. {{gha3-ch9}} The Umayyad caliph Abd al-Malik is said to have given Nakur to the Banu Salih in 91/710, but Abd al-Malik died in 86/705, so the date is inconsistent and should be checked. {{gha3-ch9}}"
+    },
+    {
+     "t": "check",
+     "q": "A textbook gives a fixed date for every stage of the Arab conquest of the Maghreb and calls Ukba's raid a conquest. What does Ba's review suggest?",
+     "o": [
+      "Keep the dates, since the volume gives them",
+      "Islam-centred; Ukba merely reconnoitred",
+      "Drop all dates because the sources are Arabic",
+      "Say the Berbers never resisted",
+      "Present Ukba as the founder of Mali"
+     ],
+     "a": 1,
+     "w": "Ba criticises volume III for giving international Islamic dynamics more weight than internal African ones, and cites Lewicki that Ukba's expeditions were rather reconnaissance. {{gha9-ba}}",
+     "kind": "application"
+    },
+    {
+     "t": "p",
      "x": "The arrival of the Beni Hilal Arabs was long shown as a devastating invasion. That picture comes from the colonial era and is now rejected; the scale of damage is [CONTESTED]. {{gha4-almohad}} {{gha1-intro}}"
+    },
+    {
+     "t": "p",
+     "x": "The Hilalian migration is told in the Arabic sources as a catastrophe. Al-Yazuri persuaded the Fatimid caliph al-Mustansir to send the Banu Hilal and Banu Sulaym from Upper Egypt westward in revenge after the Zirid al-Muizz broke with Cairo in 439/1047. The migration began in 442/1050-1, Kairouan was sacked in 449/1057, and the Hammadids were beaten at Sabiba in 457/1065. {{gha3-ch12}} Ibn Khaldun compared the Bedouin to a cloud of hungry locusts; Poncet took the catastrophe view, while Idris and Cahen revised it. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "The Arab invasion reversed the earlier absorption of the Arabs by the Berbers: the Hilalis and Sulaym began a reverse process, and the Zanata Banu Marin were pushed west. Most present-day rural Arabic dialects of North Africa come from the Hilalian vernacular, though the Hilali contribution to Islamisation was minimal. {{gha3-ch12}} The Hilali arrival also coincided with the Almoravids in the west. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "The Maghrib after the Fatimids: by the late eleventh century the Fatimids had lost their Maghrib provinces to the Zirids and the Hilali Arabs, and kept Egypt and the Red Sea. The Maghrib's Arabisation came from the Hilali invasion, and its early Islamisation from the Arab conquest. {{gha3-ch2}}"
+    },
+    {
+     "t": "p",
+     "x": "The Idrisids and Morocco: Idrisid rule islamised northern Morocco; the Barghawata held the Atlantic coast; the Zanata statelets at Tlemcen, Sijilmasa and Fez were held together only by hostility to the Sanhaja, and the Masmuda groups stayed in the Anti-Atlas and Sus. {{gha3-ch12}}"
     },
     {
      "t": "h",
@@ -170,6 +324,102 @@
     {
      "t": "p",
      "x": "The Almoravids grew out of the veiled Sanhaja of the Western Sahara. The Sanhaja had lost control of both ends of the gold route, Sijilmasa and Awdaghust, after about 970, and a new salt mine at Taghaza had broken their salt monopoly. {{gha3-alm}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Berber sources and the Maysara revolt: Maysara, called al-Haqir (the Despised One), was a former Berber water-carrier converted to Sufrite Kharijism. Kharijite doctrine chose an imam without regard to race or colour, 'even an Abyssinian slave with a slit nose'. The four movements were the Azraqa (wiped out around 81/700), the Najdat (gone by 74/693), and the Sufrites and Ibadites, who sent propagandists west around 95/714. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "The revolt of Maysara saw him declare himself caliph, and after his execution Khalid ibn Hamid al-Zanati won the Battle of the Nobles (123/741) and a second victory on the Sebou, where Kulthum ibn Iyad died. Rival Berber armies then fell to Hanzala ibn Safwan at Kairouan in early 125/743. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Kingdoms after the revolt: the Barghawata of Tamasna were founded by Tarif of the Zanata; Tlemcen by Abu Qurra; Sijilmasa by the Miknasa Berbers. The chapter says the Barghawata's Berber Qur'an and prophet Salih were attributed by Muslim sources to Yunus ibn Ilyas, so the detail is attributed. {{gha3-ch10}} Abu Qurra's Christian origin is suggested by his father's name Donnus, but not proven. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Tahert, the Ibadite Rustumid state (144/761 to 297/910), was founded by the Persian Abd al-Rahman ibn Rustum, who had escaped Kairouan when Ibn al-Ashath besieged it. Its authority beyond Tahert was more spiritual than temporal, and it stayed neutral with the Umayyads of Spain and the Aghlabids. {{gha3-ch10}} Ibadite Tripoli waited until 127/745, when Abd al-Rahman ibn Habib executed its Ibadite leader, and then rose under two Arab leaders; Tripoli was the link between Kairouan and the caliphate, so no Ibadite state held it long. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Shia proselytism reached the Maghrib after the failed revolt of Muhammad al-Nafs al-Zakiyya (145/762), and Abu Sufyan al-Hulwani settled on the western edge of Ifriqiya in 145/762, laying the first foundations for the Fatimids. The doctrinal shift moved from Kharijite election to a theocratic Shia imamate by descent from Ali and Fatima. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Idris I reached Volubilis on 1 Rabi I 172 (9 August 788), where the Awraba leader Abd al-Hamid accepted him; he was given the bay'a six months later and was assassinated in 179/795 by a doctor sent from Baghdad, with the help of Ibrahim ibn al-Aghlab, governor of the Mzab. {{gha3-ch10}} Fez was founded by Idris I on the right bank of the Wadi Fas in 172/789 and by Idris II on the left bank in 193/809; the Qarawiyyin was founded in 245/859 by a woman from Kairouan. {{gha3-ch10}} The chapter's claim that the Idrisids created Moroccan national consciousness is the author's view. {{gha3-ch10}} Malikism became the Idrisid school, though they were originally Zaydi Shia; the dynasty divided after Idris II's death in 213/828 and ended in 375/985. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Ifriqiya's independence: Abd al-Rahman ibn Habib, humiliated by eastern reinforcements after the Battle of the Nobles, drove out Hanzala ibn Safwan and ruled independently from 127/744 to 137/754, raiding Sicily, Sardinia and Tlemcen in 135/752. When the Abbasid caliph al-Mansur demanded the old tax and slave rights, he replied that Ifriqiya was now entirely Muslim. {{gha3-ch10}} The chapter argues that a local consciousness grew among Arabs born in the Maghrib; that is the author's view. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Aghlabids: al-Mansur brought Ifriqiya back for about forty years (144/761-184/800); from 178/794 army factions fought for power until Harun al-Rashid granted independence through Ibrahim ibn al-Aghlab (184/800). Ibrahim took the emirate on hereditary terms, dropped the 100,000-dinar subsidy from Egyptian kharaj, and paid 40,000 dinars a year to Baghdad; the chapter says there was no schism with Baghdad. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Aghlabid decline: the Mansur al-Tunbudhi revolt was defeated, and Abu Ibrahim Ahmad built ribats and cisterns for Kairouan. Ibrahim II grew unstable and taxed heavily, which opened the way to Shia proselytism under Abu Abd Allah al-Dai among the Kutama. The end came at al-Urbus on 22 Jumada II 296 (18 March 909). {{gha3-ch10}} {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "Sicily and the raids: Ziyadat Allah I sent Asad ibn al-Furat to Sicily in 212/827; Syracuse fell in 264/878. The Aghlabids raided Rome by sea on 23 August 846, and Ibrahim II died at Cosenza on 23 October 902 on a journey to reach Mecca via Rome. A small Muslim emirate held Bari from 847 to 871. {{gha3-ch10}} The Fatimid navy later raided both shores of the Adriatic and the Tyrrhenian, took Genoa in 323/934-5, and made a truce with Byzantium in 346/957-8. {{gha3-ch12}} Sicily under Fatimid-era Kalbids was prosperous and more autonomous. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "The Kutama and the Fatimids: the Kutama of Little Kabylia were virtually independent of the Aghlabids, who never subjugated them. A Yemeni, Abu Abd Allah al-Shi'i, met Kutama shaykhs at Mecca and went back with them in 280/893. The chapter says it is not clear why Ismaili Shia appealed to the Kutama, and that the Fatimids did not carry out a social transformation. {{gha3-ch12}} Aghlabid pressure after the Rustumid truce had weakened Kharijism among the Kutama. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "The Aghlabid end was in 290/903, when the Kutama came down into the plains of Ifriqiya. Abu Abd Allah ended non-canonical taxes and returned booty, while Ziyadat Allah III had raised taxes and fled to Egypt when Kairouan fell. {{gha3-ch12}} Ubayd Allah al-Mahdi, kept in Sijilmasa, was freed in 296/909, and was proclaimed caliph at Rakkada in 297/909. Some Sunni historians say he was killed in prison and that Abu Abd Allah found only a servant. {{gha3-ch12}} His descent from Ali and Fatima is disputed: an Abbasid manifesto of 402/1011 denied it. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "Fatimid capitals: Rakkada, then Mahdiyya on the eastern coast, then Sabra al-Mansuriyya, until al-Muizz left for Egypt (362 AH). {{gha3-ch12}} The chapter gives two dates for the Zirid governor's appointment and al-Muizz's departure, so the dates conflict. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "Fatimid Maghrib wars: the Zanata backed Cordoba and the Sanhaja backed the Fatimids. Masyar al-Saqlabi retook Fez for the Idrisids in 322/934 under Fatimid protection, and Djawhar's campaign of 347-8/958-9 with a Kutama and Sanhaja army reached the Atlantic, but Tangier and Ceuta stayed Umayyad. {{gha3-ch12}} Abd al-Rahman III's proclamation as caliph is dated 318/929 in one chapter and 316/929 in another. {{gha3-ch12}} {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Abu Yazid's revolt (332/943-4 to 336/947): a Nukkarite Ibadi from Djarid, he took Kairouan in 333/944 and besieged al-Mahdiyya for ten months, where al-Qa'im held out with Kutama and Saqaliba troops. Al-Mansur reconquered Kairouan with Sicilian troops; Abu Yazid died of wounds in 336/947, and his son Fadl fought on for a year. {{gha3-ch12}} Sicily under the Kalbids was prosperous and more autonomous, and under Muslim rule the island's estates were split and cultivated intensively, with citrus, sugar-cane and market-garden crops spreading to Europe. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "The Fatimid fleet was used to replenish the war-chest: its raids on Adriatic, Tyrrhenian and southern Italian coasts (309/922 to 316/929) gave the caliphs a war-chest, and the Byzantines were beaten at Rametta and in the Straits battle (354/965), making peace in 356/967 so that al-Muizz could attack Egypt. {{gha3-ch12}} Ibn Khaldun wrote that the Christians could not float a board at sea. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "The Zirids (Bulukkin ibn Zirid, 361/972 to 373/984, then al-Mansur and Badis) were the first reigning house of Berber origin in the Maghrib, and their rule opened a period when Berber dynasties held power. {{gha3-ch12}} The Hammadids, from Hammad ibn Bulukkin, pacified the central Maghrib after the Maghrawa attack of 389/998-9, built the Qal'a of the Banu Hammad in 398/1007-8, and broke with the Fatimids in 405/1015 to recognise the Abbasids. {{gha3-ch12}} Anti-Shia violence in Ifriqiya, with massacres in Bajah and Tunis and pogroms in Kairouan, made al-Muizz turn back to orthodoxy, though religion was only a contributing factor to the Zirid break with Cairo. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "The 'Hilalian' migration: al-Yazuri's scheme sent the Banu Hilal and Banu Sulaym westward from Upper Egypt in 442/1050-1 in revenge against the Zirid al-Muizz. Haydaran (443/1051-2, near Gabes) was a defeat of the Zirid army, mainly its black contingents, by the Hilalis, and Kairouan was sacked in 449/1057. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "The post-Fatimid map (first half of the eleventh century): Zirids in Ifriqiya; Hammadids in the central Maghrib; Zanata statelets at Tlemcen, Sijilmasa and Fez; the Barghawata on the Atlantic; the Ghomara in the north; and Masmuda groups in the Anti-Atlas and Sus. {{gha3-ch12}} By the mid-fifth/eleventh century the Maghrib was an orthodox Sunni region with almost no Shia, and only small Kharijite enclaves. The Fatimids had defeated Kharijism and so opened the way for Malikite Sunnism. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "Berber dynasties after the Fatimids: the Hammadids and the Zanata statelets divided the central and western Maghrib; the Fatimid withdrawal left the Maghrib to Berber rulers, and the Almoravids came from the west at much the same time as the Hilali arrival. {{gha3-ch12}} Arab and Berber settlement histories are also contested: the Hilalis and Sulaym reversed the earlier absorption of Arabs into the Berbers, and the Banu Marin were pushed west. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "The conquest of Spain: Tariq ibn Ziyad, a Berber general of the Nafza, crossed in 711 with about 17,000 men, mainly Sanhaja, and beat the Visigoths; the battle site is uncertain. Tarifa is named after Tarif, who scouted the coast in 91/710. {{gha3-ch9}} About 70 per cent of the population of Islamic Spain was muwalladun, a figure the author gives as an estimate. {{gha3-ch9}}"
+    },
+    {
+     "t": "p",
+     "x": "The Sudan trade of Berbers: Kharijite towns (Jabal Nafusa, Wargla, Tahert, Sijilmasa) began the Sudan trade in the late eighth century; the Lamtuna held the western route and Awdaghust; the Ibadite Berbers of Zawila held the slave trade from Kanem as a warehouse. Al-Yaqubi notes that the kings of the blacks sold their own people without war. {{gha3-ch5}}"
+    },
+    {
+     "t": "p",
+     "x": "The Berber Barghawata had their own religion: Salih ibn Tarif (AD 744-5) proclaimed himself a prophet, composed a Qur'an in Berber, and issued a code based on local custom. The state held the Atlantic coast of Morocco until the eleventh century and was subdued by the Almoravids. {{gha3-part1}} Tradition gives the Idrisid rule a Berber base: Idris, an Alid, was accepted for the baraka of the Prophet's line, and his rule islamised northern Morocco except the Barghawata, with Arab settlers from al-Andalus and Ifriqiya making Fez a western counterpart to Kairouan. {{gha3-part1}}"
+    },
+    {
+     "t": "p",
+     "x": "Berber custom and Islam: Berbers kept collective oaths, customary penalties (kanun) and village assemblies. Maliki law accepted custom (al-amal) when it did not contradict Islam, and the Almohad empire kept these features. Lewicki dates the Islamisation of the Berbers in contact with black peoples to AD 735-740. {{gha3-ch4}}"
     },
     {
      "t": "p",
@@ -185,7 +435,19 @@
     },
     {
      "t": "p",
+     "x": "The Almoravid movement drew on Sanhaja Berbers. Abd Allah ibn Yasin, first a preacher among the Judala, found his mainstay among the Lamtuna. {{gha3-alm}}"
+    },
+    {
+     "t": "p",
      "x": "The empire ran from the Ebro to the Senegal, with gold flowing north. Weak local administration, the severity of the Maliki jurists, who had al-Ghazali's books burned about 1143, and the Almohad movement brought it down. {{gha3-alm}}"
+    },
+    {
+     "t": "p",
+     "x": "Gold and currency: the Maghrib and Muslim Spain stayed on silver until the tenth century, when gold from the Western Sudan flowed in quantity, reaching its height with the Almoravid dinar, an internationally recognised coin. The gold supply explains the switch to gold currency in the west. {{gha3-ch1}}"
+    },
+    {
+     "t": "p",
+     "x": "Fatimid Egypt: the Saljuks brought the iqta military fief, which the chapter says became the economic structure of much of the Muslim world; Egypt became the main transit centre between the Mediterranean and the Indian Ocean as trade moved to the Red Sea. {{gha3-ch2}} The Slavs from the Balkans (al-Saqaliba), bought through Venice, served as soldiers and administrators in the Maghrib and Fatimid Egypt, where Djawhar, the conqueror of Egypt and founder of Cairo and al-Azhar, was one. {{gha3-ch1}} {{gha3-ch12}}"
     },
     {
      "t": "h",
@@ -194,6 +456,10 @@
     {
      "t": "p",
      "x": "A traditional account says an Almoravid conquest broke the Ghana empire about 1076. Conrad and Fisher argued in 1982 that no source, external or internal, unambiguously points to such a conquest, and that later writers grow more confident than earlier ones. {{rd-gold}} {{conrad-fisher}}"
+    },
+    {
+     "t": "p",
+     "x": "The Almoravid movement took shape from a Saharan preaching mission: according to the commonest account, a pilgrim of the Sanhaja asked Abu Imran al-Fasi of Kairouan for a teacher, who sent him to Waggag ibn Zallu at Sijilmasa, who sent Abd Allah ibn Yasin. A second tradition, given by Iyad and Ibn al-Athir, names Djawhar ibn Sakkam and the dar al-murabitin at Sus. {{gha3-ch12}} The chapter's agreed facts: weak Islam among the Sanhaja, pilgrimage awareness, and Malikite militancy. {{gha3-ch12}} The visit must have been before Abu Imran died in 430/1039. {{gha3-ch12}}"
     },
     {
      "t": "p",
@@ -257,11 +523,19 @@
     },
     {
      "t": "p",
+     "x": "The Almohad empire kept features of Berber custom: collective oaths, customary penalties (kanun) and village assemblies. {{gha3-ch4}}"
+    },
+    {
+     "t": "p",
      "x": "The Almohads won at Alarcos on 18/07/1195 and lost at Las Navas de Tolosa on 16/07/1212, a defeat more symbolic than decisive. The Hafsids went independent in Ifriqiya in 1228, and the Marinids took Marrakesh in 1269. {{gha4-almohad}} [PROBABLE]"
     },
     {
      "t": "p",
      "x": "The philosopher Averroes (Ibn Rushd, 1126 to 98) and the physician-philosopher Maimonides lived in their world. The scale of Almohad persecution of Jews and Christians is [CONTESTED]. {{ataral-averroes}}"
+    },
+    {
+     "t": "p",
+     "x": "The Jaziya epic, told from Jordan to Algeria, refers to the Banu Hilal invasion of Tunisia in 1049 to 1053 and was mentioned by Ibn Khaldun. An epic of invasion can preserve a real event, but its version of the event is shaped by the teller's place in the story. {{vans1}}"
     },
     {
      "t": "table",
@@ -345,6 +619,38 @@
     {
      "t": "p",
      "x": "The Sahara covers nearly a third of the continent, was humid in the past, and was never an absolute barrier. It acted as a filter that limited the spread of Mediterranean influence in farming, architecture and crafts. {{gha1-diarra}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "The Sahara was not wholly black: a survey by Chamla found that only about a quarter of its Neolithic and protohistoric skeletons were black, and over 40 per cent showed no negroid features; the classical 'Ethiopians' were dark-skinned people of mixed type. Give the figure with its attribution before making any claim about a black Sahara. {{gha2-ch17}} Burial type does not show status: the volume calls it prejudice to claim that negroid skeletons were slaves. {{gha2-ch17}}"
+    },
+    {
+     "t": "p",
+     "x": "Before camels, Saharan trade was hard. Carthage's trade with the interior left no archaeology, and the only desert goods named are carbuncles, with slaves, ivory and skins suggested. {{gha2-ch18}} Byzantine armies met camel-using nomads (Levathae and Louata), and had to cut down a ring of tied animals before they could beat them in the open. {{gha2-ch21}}"
+    },
+    {
+     "t": "p",
+     "x": "The Maghrib was largely cut off by the drying Sahara from about 2700 BC, and its contact with the south ran by the Tripolitanian corridor. {{gha2-ch17}} Chariots reached the Sahara by the middle of the first millennium BC: engravings run from the Tripolitanian coast through Tassili and Hoggar to the middle Nile, and from the Moroccan coast to Mauretania. {{gha2-ch21}} The origin of the Saharan chariot is disputed; the volume favours Egyptian chariots over Sea Peoples' ones. {{gha2-ch17}}"
+    },
+    {
+     "t": "p",
+     "x": "Rock art shows regular routes to the Sudanic belt by about 500 BC, with chariots and carts, and horses, bullocks and donkeys on routes; the western route was stronger for copper and gold. {{gha2-ch21}} Western Sudan before Ghana: Senegambian tumuli and megaliths show gold and iron working and Maghribian influence, and the wealth of their builders by about AD 1000 is the strongest sign of pre-Islamic trade. {{gha2-ch21}}"
+    },
+    {
+     "t": "p",
+     "x": "Camels reached Egypt in the Persian and Hellenistic periods; Caesar captured 22 camels from Juba I in 46 BC, and camels were in Roman amphitheatre games by the late first century AD, though they spread slowly over several centuries. {{gha2-ch20}} Camel-mounted nomads (Austuriani, Marmarides, Mazices) returned from the fourth century. {{gha2-ch20}}"
+    },
+    {
+     "t": "p",
+     "x": "Roman objects reached far into the desert in the third and fourth centuries, though the written texts stop before then. Tin Hinan's tomb at Abalessa, an Ahaggar woman of the fourth century, is dated by a coin of Constantine and by radiocarbon (about AD 470, plus or minus 130); her wealth is put down to her place in the trans-Saharan trade. {{gha2-ch20}} The Roman goods show Garamantic trade: objects passed from one group to the next, and a local chief may have taken tolls. {{gha2-ch20}}"
+    },
+    {
+     "t": "p",
+     "x": "Central and northern Saharan people in protohistory were mainly light-skinned, with Tuareg-like features, and their origin is thought to lie north-east of Africa; the modern Haratin are thought to descend from the enslaved sedentary Ethiopians of Herodotus. {{gha2-ch20}} Animals were Rome's main draw from the Sahara, with elephants and rhinoceroses from further south. {{gha2-ch20}}"
+    },
+    {
+     "t": "p",
+     "x": "Gold and the Sijilmasa route: the chapter's trade figures are estimates, and a Ibn Hawqal's cheque drawn at Awdaghust is given as 42,000 dinars in 340/951 in one chapter and as 4,000 dinars in another; check Ibn Hawqal's text before quoting either figure. {{gha3-ch10}} {{gha3-ch27}}"
     },
     {
      "t": "h",
@@ -464,6 +770,22 @@
     },
     {
      "t": "p",
+     "x": "North African production and trade: the Barghawata in Morocco had a wheat-based economy able to export in the tenth and eleventh centuries; sugar cane was grown in Sus by the ninth century; Ifriqiya was a large export producer by sea. {{gha3-ch28}} Egypt's food problem was overconsumption by its cities, and its wheat-supply crises mark a new economic era with Cairo at several hundred thousand people. {{gha3-ch28}}"
+    },
+    {
+     "t": "p",
+     "x": "The Fatimid envoy al-Uswani (about 976) travelled to Dongola: south of the second cataract, currency gave way to exchange, and white sorghum was the bread and beer grain at Aiwa. The author got little information. {{gha3-ch28}} Egypt's Batn al-Hajar traded in the Egyptian economy under a Christian ruler. {{gha3-ch28}}"
+    },
+    {
+     "t": "p",
+     "x": "Sicilian agriculture under Muslim rule: estates were split into small intensively farmed plots, with citrus, sugar-cane and palms introduced; cotton continued until the fourteenth century, and market-garden crops spread from Sicily to western Europe. Ifriqiya sent oil for Sicilian grain and timber. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "Muslim trade in luxury goods: by the end of the tenth century Fustat was copying Chinese celadons, and the expatriate traders who settled south of the Sahara took luxury tastes with them. {{gha3-ch28}}"
+    },
+    {
+     "t": "p",
      "x": "Salt was worth 8 to 10 mithqals at Walata and 20 to 40 at Mali, and it served as money there. {{ibn-battuta-gibb}} At Takedda copper bars were also money, and he left in a caravan carrying six hundred women slaves. {{ibn-battuta-gibb-029}} The prices are his, from one journey."
     },
     {
@@ -490,6 +812,18 @@
     {
      "t": "p",
      "x": "Caravans were not an Arab monopoly. Mande merchants called Wangara or Dyula, Berber and Ibadite traders, and North African families such as the al-Makkari brothers of Tlemcen, with partners at Sijilmasa and in the Sudan, all ran parts of the network. {{gha4-trade}} {{gha3-lewicki}}"
+    },
+    {
+     "t": "p",
+     "x": "Sijilmasa was the great Saharan trading centre on the gold route, a resting place for caravans and the focal point for trade between the Sudan, the Maghrib and the East; excavations were started there at the request of Mohamed El-Fasi and then abandoned. {{gha3-ch10}} The earliest known diplomatic embassy from the Maghrib to sub-Saharan Africa was sent by Aflah ibn Abd al-Wahhab, imam of Tahert in the early ninth century, with the wealthy merchant Muhammad ibn Arafa, to the king of the Sudan. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Trade was shaped by climate and politics, with Kharijite towns beginning the Sudan trade in the late eighth century and the Lamtuna holding Awdaghust. {{gha3-ch5}} The Sudanic gold and silver switch: the Maghrib stayed on silver until the tenth century, and Sudanese gold then flowed in quantity to the Almoravid dinar. {{gha3-ch1}}"
+    },
+    {
+     "t": "p",
+     "x": "The papal bulls of John VIII, written on Muslim papyrus in the ninth century, are cited by the author against Pirenne's thesis: there was no break between the Empire of Muhammad and that of Charlemagne, shown by the embassy of 801. {{gha3-ch10}}"
     },
     {
      "t": "activity",
@@ -544,7 +878,73 @@
     },
     {
      "t": "p",
+     "x": "The conquest and conversion: the Arabs did not require conquered peoples to convert, but after a few generations most urban populations had, and Arabic became the common culture. The empire was led by urban merchants and held together, unlike the Mongol empires. {{gha3-ch1}} Berber traders crossing the Sahara took Islam south to the Sahel and Sudan, first among merchants and later at African courts; a second wave came with the Almoravids in the eleventh century. {{gha3-ch1}}"
+    },
+    {
+     "t": "p",
+     "x": "Islam was not forced in the sense of the sword: the conquests served the extension of Dar al-Islam, and the 'sword and Qur'an' image is a myth. {{gha3-ch3}} Staged conversion of the Berbers came through chiefs and captives; the Berbers converted in large numbers only from the early eighth century. {{gha3-part1}}"
+    },
+    {
+     "t": "p",
+     "x": "The Maliki school took hold in North Africa, Muslim Spain and the western and central Sudan, while Shafii law dominated the Indian Ocean shores. {{gha3-ch2}} Maliki law accepted custom (al-amal) when it did not contradict Islam. {{gha3-ch4}}"
+    },
+    {
+     "t": "p",
+     "x": "Islamisation as compromise: rulers who converted had to compromise with ancestral norms, which explains slow progress in some areas, the urban character of Islamisation, and the later violence of jurists against lax rulers. The Mansa Musa anecdote (al-Umari, fourteenth century) of pagan miners exempt from the infidel tax is an example. {{gha3-ch28}} The Christian presence in North Africa ended: Christianity disappeared from the whole region with its last traces in the eleventh century, while it survived in Nubia, Ethiopia and among a large minority in Egypt. {{gha3-ch28}}"
+    },
+    {
+     "t": "p",
+     "x": "Muslim social organisation: Berber society had social classes, with freemen split between the khassa and the amma, and slaves moving to the status of mawali through enfranchisement. {{gha3-ch10}} Religious life was one of coexistence: Christian and Jewish dhimmis kept separate tax and legal status, lived with Muslims without a ghetto, and some venerated Muslim ascetics. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Ibn Abd Rabbih's al-Iqd al-Farid (246/860 to 328/939) was made of extracts from Eastern authors, and al-Sahib ibn Abbad said of it that these were our own goods sent back to us. {{gha3-ch10}} The Hispano-Maghribi world was mixed: marriages were common and children usually took the father's religion; black slave women and mulattoes moved freely; Arabic was the only written culture, used by dhimmis too. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Language and sources: the Ziryab story, a black mawla who came to Cordoba under Abd al-Rahman II and whose music the chapter says lies behind the Maghribi mālūf and Spanish flamenco, is the author's view. {{gha3-ch10}} The slave word: 'slave' derives from medieval Latin sclavus (Slav), and Saqaliba (Slavs or European slaves) were sold to the Maghrib from Naples. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Religious thought in the third/ninth century: Cordoba was the most restricted capital for free thought, while Tahert under the Ibadites was more tolerant. The Great Mosque of Kairouan was open to Ibadite, Sufrite and Mutazilite debate. {{gha3-ch10}} Sahnun ibn Said al-Tanukhi's Mudawwana, a monumental legal compendium, gave Malikism its pre-eminence, and Spanish scholars carried it home. {{gha3-ch10}} The architecture of the period: the Kairouan mosque was built chiefly by the Aghlabids, and the Cordoba mosque was founded by Abd al-Rahman I in 169/785, finished under Ibn Abi Amir in 377/988. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Cisse's chapter says the Jula merchant class was established at the latest in the fifteenth century in the Senegal-Niger region, and that the word Jula is first mentioned in Richard Jobson's account of the Gambia in 1623. {{gha9-cisse}} Their long-distance trade centred on Saharan salt for forest kola, and Jula settlements grew along the trade roads, including the founding of Begho between forest and savannah in the fifteenth century. {{gha9-cisse}} That Begho date is later than the eleventh-century trading start given elsewhere in this course, so keep each attributed. {{gha9-cisse}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "He also describes Jula identity as built on trade, language and Islam, with the Jakhanke teacher al-Hajj Salim Suware setting out a peaceful, conciliatory stance in the fifteenth century that the Kong revolution of Sekou Watara in the early eighteenth century and Samori Ture later departed from. {{gha9-cisse}} He rejects the idea of Jula as a simple ethnic group, a category he says the French explorer Binger imposed in 1892. {{gha9-cisse}} [PROBABLE]"
+    },
+    {
+     "t": "p",
      "x": "Tadmekka, north of Gao, was visited by Ibadite merchants for gold and converted to Islam in 1109. {{gha3-lewicki}} The Ibadite chronicle of Ibn al-Saghir shows trade between Tahert and Gao by the end of the eighth century. {{gha1-djait}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Stone gives a check on that date. The earliest internally dated writing known from West Africa is an Arabic graffito at Essuk, the site of Tadmekka, made in AH 401, which is 1011 CE, and a second graffito there reads simply AH 404. {{gha9-farias}} Arabic writing was therefore in use at Tadmekka about a century before the 1109 conversion date above, so treat 1109 as one tradition's date for a community's conversion, not the arrival of Islam or its script. [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Moraes Farias argues that inscriptions must be read as whole texts, not mined for names and dates. At Essuk and on the Niger Bend, graffiti in Tifinagh, the Berber script, coexisted with Arabic ones: Tifinagh was used for play, signatures, love messages and notes between herders, while Arabic took over funerary and religious writing. {{gha9-farias}} The Arabic epitaphs stress the Islamic era in emphatic phrases, and the oldest unmistakable Songhay words in writing appear in Arabic inscriptions of 1203 and 1253. {{gha9-farias}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "The same inscriptions change a reading of women's rank. Four elite women on the Niger Bend carry the title malika, queen, between about AH 450 and AH 549. No husbands are named, and sons of two of them are named without fathers, so Moraes Farias reads malika as an autonomous female office with a ritual role, not as 'the king's wife'. {{gha9-farias}} This is an interpretation from comparison with other West African offices, so tag it [PROBABLE], not [FIRM]."
+    },
+    {
+     "t": "check",
+     "q": "An inscription calls a woman malika but names no husband. Which reading best fits the Niger Bend evidence described by Moraes Farias?",
+     "o": [
+      "She was certainly a king's wife whose husband's name was lost",
+      "Perhaps an office of her own",
+      "The title proves Arabs ruled the Niger Bend",
+      "The inscription is worthless without a chronicle to confirm it",
+      "Queens never existed in West African states"
+     ],
+     "a": 1,
+     "w": "Four malika inscriptions name no husbands and two sons are named without fathers, which led Moraes Farias to read the title as a female office in its own right. {{gha9-farias}}",
+     "kind": "application"
     },
     {
      "t": "h",
@@ -580,7 +980,15 @@
     },
     {
      "t": "p",
+     "x": "Ibn Khaldun wrote the first real history of the region, and his cycle of nomad conquest of settled lands gave him the nomad-over-sedentary frame; the Almoravid and Hilali cases were his model. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
      "x": "Later archives let the dynasties be seen from inside. Published Almoravid and Almohad letters, and documents from the Cairo Geniza and the archives of Venice, Genoa, Pisa and Barcelona, hold letters, contracts and treaties. {{gha1-djait}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "A saint's legend in north-west Tunisia, of Sidi Mhammad the herdsman whose shrine outranks Sidi Slima's, legitimises the precedence of one lineage over another. Legends of this kind serve the present claim first and the past second. {{vans4}}"
     },
     {
      "t": "table",
@@ -733,6 +1141,10 @@
      "t": "callout",
      "k": "warn",
      "x": "The main modern chapter on Morocco in this period was written by a descendant of a sheikh it praises, and it defends Mawlay Ismail's enslavement of the Bawakhir as lawful even though the Fez ulama said it was not. Rely on its dates and documents, and treat its judgements as an interested narrator's. {{gha5-morocco}}"
+    },
+    {
+     "t": "p",
+     "x": "The modern historiography of the Maghrib is itself a colonial product. Earlier French scholarship on North Africa was valuable but written in the colonial era, and its readings tended to serve colonial policy, such as the integration of Algeria into France. Newer Arab and other scholarship has revised many of its judgements. {{gha3-ch9}}"
     },
     {
      "t": "check",

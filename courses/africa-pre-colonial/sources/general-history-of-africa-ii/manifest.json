@@ -1,0 +1,57 @@
+{
+ "key": "general-history-of-africa-ii",
+ "title": "General history of Africa, II: Ancient civilizations of Africa; 1986",
+ "author": "Mokhtar, Gamal; International Scientific Committee for the Drafting of a General History of Africa; Mokhtar; Gamal; International Scientific Committee for the Drafting of a General History of Africa",
+ "file": "184265engo.pdf",
+ "format": "pdf",
+ "sha256": "eb0be0e8a7f76263f48a436aa94c3a05583253d53450a0cbe8a22a924ec81365",
+ "words": 345348,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Front matter",
+   "words": 297,
+   "pages": [
+    1,
+    5
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Contents",
+   "words": 438,
+   "pages": [
+    6,
+    8
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "List of figures",
+   "words": 595,
+   "pages": [
+    9,
+    10
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "List of plates",
+   "words": 344018,
+   "pages": [
+    11,
+    825
+   ]
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-11-23",
+  "source_file": "184265engo.pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.367,
+  "odd_character_share": 0.005
+ }
+}

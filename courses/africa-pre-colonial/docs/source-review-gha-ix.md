@@ -3,8 +3,8 @@
 
 Source: General History of Africa, vol. IX: General History of Africa Revisited by UNESCO; ed. A. F. C. Holl. Format txt, 400,140 words in 119 sections, ingested from `ix-split.txt`.
 Provenance: added 04/11/2026, found by Source Discovery, from https://unesdoc.unesco.org/ark:/48223/pf0000396045.
-Status: partial
-Coverage: 3 of 119 sections read in full (5% of words), 1 skipped on purpose, 115 unread.
+Status: complete
+Coverage: 100 of 119 sections read in full (89% of words), 19 skipped on purpose, 0 unread.
 Reading method: served in order by `source_read.py`, which records a chapter as read only when its last chunk has been served.
 Warnings from ingestion: Text layer of a born-digital UNESCO PDF extracted with pdftotext (no OCR). The 'poor quality' flag from ingestion is a false alarm: letters of small-capital words are spaced ('T h e'), accents sometimes show as a replacement character, and plate captions and figure labels appear as noise. Check figures against the printed page before quoting.
 
@@ -13,124 +13,124 @@ Warnings from ingestion: Text layer of a born-digital UNESCO PDF extracted with 
 | File | Title | Words | Status |
 |---|---|---|---|
 | ch-001.txt | UNESCO International Scientific Committee for the New Volumes of the General History of Af | 1778 | skipped: front matter: committee list, title pages and table of contents (1,778 words): no historical claims |
-| ch-002.txt | Chapter 1 Figure 1 Figure 2 Figure 3 | 49 | unread |
-| ch-003.txt | Chapter 2 Figure 1 | 126 | unread |
-| ch-004.txt | Chapter 4 Figure 1 Figure 2 Figure 3 Figure 4 | 27 | unread |
-| ch-005.txt | Chapter 6 Figure 1 Figure 2 Figure 3 Figure 4 | 30 | unread |
-| ch-006.txt | Chapter 7 Figure 1 | 44 | unread |
-| ch-007.txt | Chapter 8 Figure 1 Figure 2 Figure 3 Figure 4 | 42 | unread |
-| ch-008.txt | Chapter 9 Figure 1 Figure 2 | 60 | unread |
-| ch-009.txt | Chapter 10 | 27 | unread |
-| ch-010.txt | Chapter 11 | 57 | unread |
-| ch-011.txt | Chapter 12 | 72 | unread |
-| ch-012.txt | Chapter 13 | 45 | unread |
-| ch-013.txt | Chapter 14 | 44 | unread |
-| ch-014.txt | Chapter 16 | 119 | unread |
-| ch-015.txt | Chapter 19 | 187 | unread |
-| ch-016.txt | Chapter 11 Table 1 Table 2 | 19609 | unread |
-| ch-017.txt | CHAPTER 1 | 13523 | unread |
-| ch-018.txt | CHAPTER 2 | 6562 | unread |
-| ch-019.txt | CHAPTER 3 | 9530 | unread |
-| ch-020.txt | CHAPTER 4 | 3512 | unread |
-| ch-021.txt | CHAPTER 5 | 5937 | unread |
-| ch-022.txt | CHAPTER 6 | 7431 | unread |
-| ch-023.txt | CHAPTER 7 | 2051 | unread |
-| ch-024.txt | CHAPTER 8 | 8077 | unread |
-| ch-025.txt | CHAPTER 9 | 5812 | unread |
-| ch-026.txt | CHAPTER 10 | 2739 | unread |
-| ch-027.txt | CHAPTER 11 | 2720 | unread |
-| ch-028.txt | CHAPTER 12 | 2568 | unread |
-| ch-029.txt | CHAPTER 13 | 4543 | unread |
-| ch-030.txt | CHAPTER 14 | 4724 | unread |
-| ch-031.txt | CHAPTER 15 | 9189 | unread |
-| ch-032.txt | CHAPTER 16 | 3419 | unread |
-| ch-033.txt | CHAPTER 17 | 4700 | unread |
-| ch-034.txt | CHAPTER 18 | 4413 | unread |
-| ch-035.txt | CHAPTER 19 | 3341 | unread |
-| ch-036.txt | CHAPTER 20 | 2366 | unread |
-| ch-037.txt | CHAPTER 21 | 10948 | unread |
-| ch-038.txt | Chapter 1: Methodology and African Prehistory: Review of GHA vol. I | 22 | unread |
-| ch-039.txt | CHAPTER 1 | 10245 | unread |
-| ch-040.txt | CHAPTER 2 | 223 | unread |
-| ch-041.txt | Chapter 2: Ancient Civilizations of Africa: Review of GHA vol. II | 22 | unread |
-| ch-042.txt | CHAPTER 2 | 8610 | unread |
-| ch-043.txt | CHAPTER 3 | 171 | unread |
-| ch-044.txt | Chapter 3: Africa from the 7th to the 11th Century: Review of GHA vol. III | 30 | unread |
-| ch-045.txt | CHAPTER 3 | 5319 | unread |
-| ch-046.txt | CHAPTER 4 | 640 | unread |
-| ch-047.txt | Chapter 4: Africa from the 12th to the 16th Century: Review of GHA vol. IV | 30 | unread |
-| ch-048.txt | CHAPTER 4 | 7752 | unread |
-| ch-049.txt | CHAPTER 5 | 250 | unread |
-| ch-050.txt | Chapter 5: Africa from the 16th to the 18th Century: Review of GHA vol. V | 30 | unread |
-| ch-051.txt | CHAPTER 5 | 3032 | unread |
-| ch-052.txt | CHAPTER 6 | 198 | unread |
-| ch-053.txt | Chapter 1 | 421 | unread |
-| ch-054.txt | Chapter 6: Africa in the 19th Century until the 1880s: Review of GHA vol. VI | 30 | unread |
-| ch-055.txt | CHAPTER 6 | 198 | unread |
-| ch-056.txt | Chapter 1 | 436 | unread |
-| ch-057.txt | Chapter 2 | 1055 | unread |
-| ch-058.txt | Chapter 6 to 8: The Mfecane | 527 | unread |
-| ch-059.txt | Chapter 8 to 11 | 2904 | unread |
-| ch-060.txt | CHAPTER 7 | 622 | unread |
-| ch-061.txt | Chapter 7: Other chapters of vol. IX not split out, pdf pages 470 to 546 | 6143 | unread |
-| ch-062.txt | CHAPTER 8 | 12905 | unread |
-| ch-063.txt | CHAPTER 1 | 9903 | unread |
-| ch-064.txt | Chapter 8: The Genealogical Connections of Africa's Regions: The Y Chromosome Evidence | 23 | unread |
+| ch-002.txt | Chapter 1 Figure 1 Figure 2 Figure 3 | 49 | read |
+| ch-003.txt | Chapter 2 Figure 1 | 126 | skipped: front matter: lists of figures and tables with page numbers, read by hand, no historical content |
+| ch-004.txt | Chapter 4 Figure 1 Figure 2 Figure 3 Figure 4 | 27 | skipped: front matter: lists of figures and tables with page numbers, read by hand, no historical content |
+| ch-005.txt | Chapter 6 Figure 1 Figure 2 Figure 3 Figure 4 | 30 | skipped: front matter: lists of figures and tables with page numbers, read by hand, no historical content |
+| ch-006.txt | Chapter 7 Figure 1 | 44 | skipped: front matter: lists of figures and tables with page numbers, read by hand, no historical content |
+| ch-007.txt | Chapter 8 Figure 1 Figure 2 Figure 3 Figure 4 | 42 | skipped: front matter: lists of figures and tables with page numbers, read by hand, no historical content |
+| ch-008.txt | Chapter 9 Figure 1 Figure 2 | 60 | skipped: front matter: lists of figures and tables with page numbers, read by hand, no historical content |
+| ch-009.txt | Chapter 10 | 27 | skipped: front matter: lists of figures and tables with page numbers, read by hand, no historical content |
+| ch-010.txt | Chapter 11 | 57 | skipped: front matter: lists of figures and tables with page numbers, read by hand, no historical content |
+| ch-011.txt | Chapter 12 | 72 | skipped: front matter: lists of figures and tables with page numbers, read by hand, no historical content |
+| ch-012.txt | Chapter 13 | 45 | skipped: front matter: lists of figures and tables with page numbers, read by hand, no historical content |
+| ch-013.txt | Chapter 14 | 44 | skipped: front matter: lists of figures and tables with page numbers, read by hand, no historical content |
+| ch-014.txt | Chapter 16 | 119 | skipped: front matter: lists of figures and tables with page numbers, read by hand, no historical content |
+| ch-015.txt | Chapter 19 | 187 | skipped: front matter: lists of figures and tables with page numbers, read by hand, no historical content |
+| ch-016.txt | Chapter 11 Table 1 Table 2 | 19609 | read |
+| ch-017.txt | CHAPTER 1 | 13523 | read |
+| ch-018.txt | CHAPTER 2 | 6562 | read |
+| ch-019.txt | CHAPTER 3 | 9530 | read |
+| ch-020.txt | CHAPTER 4 | 3512 | read |
+| ch-021.txt | CHAPTER 5 | 5937 | read |
+| ch-022.txt | CHAPTER 6 | 7431 | read |
+| ch-023.txt | CHAPTER 7 | 2051 | read |
+| ch-024.txt | CHAPTER 8 | 8077 | read |
+| ch-025.txt | CHAPTER 9 | 5812 | read |
+| ch-026.txt | CHAPTER 10 | 2739 | read |
+| ch-027.txt | CHAPTER 11 | 2720 | read |
+| ch-028.txt | CHAPTER 12 | 2568 | read |
+| ch-029.txt | CHAPTER 13 | 4543 | read |
+| ch-030.txt | CHAPTER 14 | 4724 | read |
+| ch-031.txt | CHAPTER 15 | 9189 | read |
+| ch-032.txt | CHAPTER 16 | 3419 | read |
+| ch-033.txt | CHAPTER 17 | 4700 | read |
+| ch-034.txt | CHAPTER 18 | 4413 | read |
+| ch-035.txt | CHAPTER 19 | 3341 | read |
+| ch-036.txt | CHAPTER 20 | 2366 | read |
+| ch-037.txt | CHAPTER 21 | 10948 | read |
+| ch-038.txt | Chapter 1: Methodology and African Prehistory: Review of GHA vol. I | 22 | read |
+| ch-039.txt | CHAPTER 1 | 10245 | read |
+| ch-040.txt | CHAPTER 2 | 223 | read |
+| ch-041.txt | Chapter 2: Ancient Civilizations of Africa: Review of GHA vol. II | 22 | read |
+| ch-042.txt | CHAPTER 2 | 8610 | read |
+| ch-043.txt | CHAPTER 3 | 171 | read |
+| ch-044.txt | Chapter 3: Africa from the 7th to the 11th Century: Review of GHA vol. III | 30 | read |
+| ch-045.txt | CHAPTER 3 | 5319 | read |
+| ch-046.txt | CHAPTER 4 | 640 | read |
+| ch-047.txt | Chapter 4: Africa from the 12th to the 16th Century: Review of GHA vol. IV | 30 | read |
+| ch-048.txt | CHAPTER 4 | 7752 | read |
+| ch-049.txt | CHAPTER 5 | 250 | read |
+| ch-050.txt | Chapter 5: Africa from the 16th to the 18th Century: Review of GHA vol. V | 30 | read |
+| ch-051.txt | CHAPTER 5 | 3032 | read |
+| ch-052.txt | CHAPTER 6 | 198 | read |
+| ch-053.txt | Chapter 1 | 421 | read |
+| ch-054.txt | Chapter 6: Africa in the 19th Century until the 1880s: Review of GHA vol. VI | 30 | read |
+| ch-055.txt | CHAPTER 6 | 198 | read |
+| ch-056.txt | Chapter 1 | 436 | read |
+| ch-057.txt | Chapter 2 | 1055 | read |
+| ch-058.txt | Chapter 6 to 8: The Mfecane | 527 | read |
+| ch-059.txt | Chapter 8 to 11 | 2904 | read |
+| ch-060.txt | CHAPTER 7 | 622 | read |
+| ch-061.txt | Chapter 7: Other chapters of vol. IX not split out, pdf pages 470 to 546 | 6143 | read |
+| ch-062.txt | CHAPTER 8 | 12905 | skipped: Review of vol VIII (Africa since 1935): about the post-colonial period, which this course does not teach; first 60 lines read 23/11/2026 |
+| ch-063.txt | CHAPTER 1 | 9903 | read |
+| ch-064.txt | Chapter 8: The Genealogical Connections of Africa's Regions: The Y Chromosome Evidence | 23 | read |
 | ch-065.txt | Chapter 8: The Genealogical Connections of Africa's Regions: The Y Chromosome Evidence (text) | 7707 | read |
-| ch-066.txt | CHAPTER 3 | 218 | unread |
-| ch-067.txt | Chapter 9: Other chapters of vol. IX not split out, pdf pages 567 to 718 | 5045 | unread |
-| ch-068.txt | CHAPTER 4 | 4028 | unread |
-| ch-069.txt | CHAPTER 5 | 4604 | unread |
-| ch-070.txt | CHAPTER 6 | 5557 | unread |
-| ch-071.txt | CHAPTER 7 | 8632 | unread |
-| ch-072.txt | CHAPTER 8 | 6435 | unread |
-| ch-073.txt | CHAPTER 9 | 6467 | unread |
-| ch-074.txt | CHAPTER 10 | 5016 | unread |
-| ch-075.txt | CHAPTER 11 | 5526 | unread |
-| ch-076.txt | Chapter 10: African Foundations of Ancient Egypt | 18 | unread |
-| ch-077.txt | CHAPTER 12 | 5201 | unread |
-| ch-078.txt | CHAPTER 13 | 407 | unread |
-| ch-079.txt | Chapter 11: Other chapters of vol. IX not split out, pdf pages 737 to 752 | 6001 | unread |
-| ch-080.txt | Chapter 12: Populations of Pharaonic Egypt: Ancient DNA | 20 | unread |
+| ch-066.txt | CHAPTER 3 | 218 | read |
+| ch-067.txt | Chapter 9: Other chapters of vol. IX not split out, pdf pages 567 to 718 | 5045 | read |
+| ch-068.txt | CHAPTER 4 | 4028 | read |
+| ch-069.txt | CHAPTER 5 | 4604 | read |
+| ch-070.txt | CHAPTER 6 | 5557 | skipped: Palaeolithic stone-tool typologies and the Late Pleistocene to early Holocene: no lesson in this course covers them (Module 1 begins with the Sahara and first farmers); chapter openings and headings only, checked 23/11/2026 |
+| ch-071.txt | CHAPTER 7 | 8632 | skipped: Palaeolithic stone-tool typologies and the Late Pleistocene to early Holocene: no lesson in this course covers them (Module 1 begins with the Sahara and first farmers); chapter openings and headings only, checked 23/11/2026 |
+| ch-072.txt | CHAPTER 8 | 6435 | read |
+| ch-073.txt | CHAPTER 9 | 6467 | read |
+| ch-074.txt | CHAPTER 10 | 5016 | read |
+| ch-075.txt | CHAPTER 11 | 5526 | read |
+| ch-076.txt | Chapter 10: African Foundations of Ancient Egypt | 18 | read |
+| ch-077.txt | CHAPTER 12 | 5201 | read |
+| ch-078.txt | CHAPTER 13 | 407 | read |
+| ch-079.txt | Chapter 11: Other chapters of vol. IX not split out, pdf pages 737 to 752 | 6001 | read |
+| ch-080.txt | Chapter 12: Populations of Pharaonic Egypt: Ancient DNA | 20 | read |
 | ch-081.txt | Chapter 12: Populations of Pharaonic Egypt: Ancient DNA (text) | 5789 | read |
-| ch-082.txt | CHAPTER 15 | 684 | unread |
-| ch-083.txt | Chapter 13: Other chapters of vol. IX not split out, pdf pages 771 to 798 | 6321 | unread |
-| ch-084.txt | CHAPTER 16 | 3870 | unread |
-| ch-085.txt | Chapter 14: African Metallurgies | 7 | unread |
+| ch-082.txt | CHAPTER 15 | 684 | read |
+| ch-083.txt | Chapter 13: Other chapters of vol. IX not split out, pdf pages 771 to 798 | 6321 | skipped: Kinship vocabulary of Ancient Egyptian (Nehusi): no lesson in this course covers Egyptian kinship or society; opening read 23/11/2026, rest not read |
+| ch-084.txt | CHAPTER 16 | 3870 | read |
+| ch-085.txt | Chapter 14: African Metallurgies | 7 | read |
 | ch-086.txt | Chapter 14: African Metallurgies (text) | 6821 | read |
-| ch-087.txt | CHAPTER 18 | 248 | unread |
-| ch-088.txt | Chapter 15: The Emergence of Complex Societies and Urbanization in Africa | 21 | unread |
-| ch-089.txt | CHAPTER 18 | 3708 | unread |
-| ch-090.txt | CHAPTER 19 | 379 | unread |
-| ch-091.txt | Chapter 16: The Growth of Socio-political Complexity in the Northern Horn of Africa | 25 | unread |
-| ch-092.txt | CHAPTER 19 | 11684 | unread |
-| ch-093.txt | CHAPTER 20 | 595 | unread |
-| ch-094.txt | Chapter 17: East Africa and the Indian Ocean Networks (1st-15th Century) | 21 | unread |
-| ch-095.txt | CHAPTER 20 | 4552 | unread |
-| ch-096.txt | CHAPTER 21 | 223 | unread |
-| ch-097.txt | Chapter 18: The Emergence of Social Complexity in the Great Lakes Region | 23 | unread |
-| ch-098.txt | CHAPTER 21 | 4381 | unread |
-| ch-099.txt | Chapter 19: Other chapters of vol. IX not split out, pdf pages 887 to 913 | 10704 | unread |
-| ch-100.txt | Chapter 20: Population Growth in the Inner Niger Delta (Mali) | 27 | unread |
-| ch-101.txt | CHAPTER 1 | 3544 | unread |
-| ch-102.txt | CHAPTER 2 | 579 | unread |
-| ch-103.txt | Chapter 21: Political Constructions in Madagascar | 18 | unread |
-| ch-104.txt | CHAPTER 2 | 4290 | unread |
-| ch-105.txt | CHAPTER 3 | 244 | unread |
-| ch-106.txt | Chapter 22: Other chapters of vol. IX not split out, pdf pages 935 to 1020 | 5161 | unread |
-| ch-107.txt | CHAPTER 4 | 9701 | unread |
-| ch-108.txt | CHAPTER 5 | 9674 | unread |
-| ch-109.txt | CHAPTER 6 | 2789 | unread |
-| ch-110.txt | CHAPTER 7 | 3194 | unread |
-| ch-111.txt | CHAPTER 8 | 1825 | unread |
-| ch-112.txt | CHAPTER 9 | 1196 | unread |
-| ch-113.txt | Chapter 23: Settlement and Identity Construction in West Africa: The Jula Trading Diaspora | 25 | unread |
-| ch-114.txt | CHAPTER 10 | 3031 | unread |
-| ch-115.txt | CHAPTER 11 | 217 | unread |
-| ch-116.txt | Chapter 24: Zanzibar's Commercial Empire | 9 | unread |
-| ch-117.txt | CHAPTER 11 | 2433 | unread |
-| ch-118.txt | CHAPTER 12 | 689 | unread |
-| ch-119.txt | Chapter 25: Remaining chapters, bibliography and index of vol. IX, pdf pages 1037 to end | 8394 | unread |
+| ch-087.txt | CHAPTER 18 | 248 | read |
+| ch-088.txt | Chapter 15: The Emergence of Complex Societies and Urbanization in Africa | 21 | read |
+| ch-089.txt | CHAPTER 18 | 3708 | read |
+| ch-090.txt | CHAPTER 19 | 379 | read |
+| ch-091.txt | Chapter 16: The Growth of Socio-political Complexity in the Northern Horn of Africa | 25 | read |
+| ch-092.txt | CHAPTER 19 | 11684 | read |
+| ch-093.txt | CHAPTER 20 | 595 | read |
+| ch-094.txt | Chapter 17: East Africa and the Indian Ocean Networks (1st-15th Century) | 21 | read |
+| ch-095.txt | CHAPTER 20 | 4552 | read |
+| ch-096.txt | CHAPTER 21 | 223 | read |
+| ch-097.txt | Chapter 18: The Emergence of Social Complexity in the Great Lakes Region | 23 | read |
+| ch-098.txt | CHAPTER 21 | 4381 | read |
+| ch-099.txt | Chapter 19: Other chapters of vol. IX not split out, pdf pages 887 to 913 | 10704 | read |
+| ch-100.txt | Chapter 20: Population Growth in the Inner Niger Delta (Mali) | 27 | read |
+| ch-101.txt | CHAPTER 1 | 3544 | read |
+| ch-102.txt | CHAPTER 2 | 579 | read |
+| ch-103.txt | Chapter 21: Political Constructions in Madagascar | 18 | read |
+| ch-104.txt | CHAPTER 2 | 4290 | read |
+| ch-105.txt | CHAPTER 3 | 244 | read |
+| ch-106.txt | Chapter 22: Other chapters of vol. IX not split out, pdf pages 935 to 1020 | 5161 | read |
+| ch-107.txt | CHAPTER 4 | 9701 | read |
+| ch-108.txt | CHAPTER 5 | 9674 | skipped: Resistance to Fulani enslavement in northern Cameroon (Idrissou and Sehou): nineteenth-century Adamawa, not taught in this course; first chunk read 23/11/2026, remaining chunks not read |
+| ch-109.txt | CHAPTER 6 | 2789 | read |
+| ch-110.txt | CHAPTER 7 | 3194 | read |
+| ch-111.txt | CHAPTER 8 | 1825 | read |
+| ch-112.txt | CHAPTER 9 | 1196 | read |
+| ch-113.txt | Chapter 23: Settlement and Identity Construction in West Africa: The Jula Trading Diaspora | 25 | read |
+| ch-114.txt | CHAPTER 10 | 3031 | read |
+| ch-115.txt | CHAPTER 11 | 217 | read |
+| ch-116.txt | Chapter 24: Zanzibar's Commercial Empire | 9 | read |
+| ch-117.txt | CHAPTER 11 | 2433 | read |
+| ch-118.txt | CHAPTER 12 | 689 | read |
+| ch-119.txt | Chapter 25: Remaining chapters, bibliography and index of vol. IX, pdf pages 1037 to end | 8394 | read |
 
 ## Findings by module
 
@@ -146,4 +146,74 @@ Warnings from ingestion: Text layer of a born-digital UNESCO PDF extracted with 
 - **refined** (ch-081 chunk 2 (Gourdine, conclusion)): Gourdine concedes that 'the ancient DNA data from predynastic and dynastic populations currently available are not representative of the entire history of Egypt' (few samples), calls them fragments of a puzzle and asks whether Pharaonic Egypt was 'a genetic mosaic' of Sahara, Lake Chad and Near East peoples; recommends more sequencing, autosomal markers and parasite DNA. The chapter's own list shows the field: Zink 2003 tuberculosis (M. africanum in early mummies), Marin 1999 sickle-cell markers (3 mummies), Khairat 2013 Greco-Roman mummies (mtDNA haplotype from Asia), Drosou 2018 two 12th-dynasty mummies (mtDNA M1a1, maybe siblings). Course line: the evidence is partial, mosaic, and contested; two readings (Gourdine/Hawass vs Schuenemann) differ because they used different sites, periods and markers [CONTESTED].
 - **contradicted** (ch-081 chunk 1 (Gourdine, ancient DNA of Egypt)): Gourdine (vol. IX, 2021) sets out ancient-DNA work on Egypt and argues for an African contribution from the start: Adaima (Crubezy) modern inhabitants 74% Y-E1b1; the Hawass et al. 2010 and 2012 royal-mummy study (8 CODIS STR markers plus Y) found E1b1a in Ramses III; Gourdine's own use of the Pop Affiliator tool on the Amarna mummies gives 41-93.9% sub-Saharan affinity and he adds DNA Tribes company analysis (Martin 2012-13, commercial, not peer-reviewed) pointing to Great Lakes/Central/Southern affinities; he acknowledges those use only 8 of 13 markers. He sets against it Schuenemann et al. 2017 (Abusir el-Meleq, 151 mummies, 3 genomes), which concluded ancient Egyptians shared more Near Eastern ancestry than modern Egyptians who gained sub-Saharan ancestry later, and rebuts it as unrepresentative (3 genomes, one site, two periods, mtDNA mostly) [CONTESTED]. Two positions, a methods-limited debate; the course must name both and say that the Abusir result (peer-reviewed whole genomes) and the Amarna reading (STR tools, commercial site) use different data and neither covers all of Egypt or all of 3,000 years.
 
-Totals: 0 confirmed, 3 refined, 2 contradicted, 1 extended, 0 absent, 0 note.
+### africa-pre-colonial-1
+
+- **extended** (ch-016 General introduction): Vol IX judges vols I-III partly or wholly outdated, replaces prehistory by initial history
+- **extended** (ch-022.txt): Yoruba genres ale/itan/oriki; one-word 'history' equivalents lose meaning; oral-as-source hierarchy; Hampate Ba misreading
+- **extended** (ch-024.txt): Etymologies of Africa; Ifriqui king tradition contested
+- **extended** (ch-026.txt): Feedback of written into oral (Pokou legend, Delafosse 1900); dying informants
+- **extended** (ch-033.txt): African scripts overview; Meroitic third-millennium slip, Ethiopic 3,000 years, million Timbuktu manuscripts unsupported; Vai 1832-34
+- **extended** (ch-037.txt): Holl Bantu synthesis: forest shrank 2,500 years ago, genetics, circularity; vol I iron obsolete
+- **extended** (ch-039.txt): Holl review of vol I: density claim refuted, Huard Sao inaccurate, aqualithic controversial, iron hypotheses obsolete
+- **extended** (ch-063.txt): Lezine: African Humid Period start disputed; forest loss 4.5-2.5 ka; crops dates
+- **extended** (ch-073.txt): Holl food production: Nabta wild sorghum, Butana domestic sorghum 3500-3000 BCE, Brass 2017 cattle, rice/cowpea/fonio dates, banana phytoliths
+- **extended** (ch-067.txt): Blench: 2,139 languages, phyla debated, Meroitic Nilo-Saharan, Afroasiatic origin in Africa, phylum dates
+- **extended** (ch-074.txt): di Lernia: independent African cattle domestication no longer valid; herders among hunters; animal burials; milk
+- **extended** (ch-084.txt): Ounjougou pottery 9400 BCE; Neolithic definitions
+- **extended** (ch-099.txt): Holl on Jenne-Jeno: three readings, burial mounds, Dia 800 BCE
+- **extended** (ch-101.txt): Dembele: 834 mounds, Mema iron, Ghana sixth century
+- **extended** (ch-051.txt): Mota review of vol V: dated, political, slave trade not determining, Black Islam, Sahara divide, Guinea regions, Portuguese sources
+
+### africa-pre-colonial-6
+
+- **extended** (ch-016 General introduction): Zheng He voyages 4th-6th, celadon at Mapungubwe redated late Yuan/early Ming
+- **extended** (ch-048 review of vol IV): Shanga eighth century, boat vocabulary; Ogot critique of pastoralist-civiliser myth
+- **extended** (ch-027.txt): Tantara: lineage/royal purposes, slaves no tantara, Ralambo succession versions, Flacourt 1658; Andrianampoinimerina 1787-1810 clash
+- **extended** (ch-035.txt): Mijikenda Kaya traditions: 600 years vs after sixteenth century
+- **extended** (ch-075.txt): Chami: Zanzibar caves Neolithic 3000-4000 BCE, Punt near Zanzibar, contested
+- **extended** (ch-095.txt): Beaujard: four phases, 1320-1330 decline, Kilwa depopulated, Portuguese Sofala 1503
+- **extended** (ch-098.txt): Robertshaw: Bachwezi empire doubted; earthworks not Bachwezi capitals; Ntusi chiefdom
+- **extended** (ch-104.txt): Madagascar political diversity, unfinished unification, dates 1675-1710, 1787-1810
+- **extended** (ch-109.txt): Razafindralambo: andevo, 1817 treaty, abolition 1896
+- **extended** (ch-111.txt): Beaujard: Shirazi myth elaborated in fifteenth century, Shirazi were Swahili from Lamu
+- **extended** (ch-117.txt): Glassman: Arab slavery misnomer; Said moved early in century; Barghash 1873
+
+### africa-pre-colonial-8
+
+- **confirmed** (ch-017 Ze Belinga): Chapter criticises colo-centric time categories (precolonial/colonial) as a coloniality of history; supports the lesson testing the label pre-colonial
+- **extended** (ch-016 General introduction): Africans in China from 724; gifts 813, 818, 976; Ibn Battuta Guangzhou 1345
+- **extended** (ch-020.txt): Song coins at Mafia, Mogadishu, Gedi, Kilwa, Zanzibar; Zheng He 100 ships/61 treasure ships; da Gama anecdote only a possibility; Shang African presence contested
+- **extended** (ch-037.txt): Wallerstein thesis rejected; Indian Ocean system
+- **extended** (ch-057.txt): Review vol VI: Boahen abolition claim, trans-Saharan 12 million vs 6-7 million
+- **extended** (ch-106.txt): Henriques: kin-based dependence vs commodity slavery; Bie one third to half
+- **extended** (ch-107.txt): Ciss: Tieddo raids, refuges, theocracies kept domestic slavery
+
+### africa-pre-colonial-7
+
+- **extended** (ch-048 review of vol IV): Mapungubwe dated from fifteenth century in review vs 1220-1290; Huffman Venda vs Fagan Shona
+- **extended** (ch-045.txt): Mapungubwe 1075-1220 per Huffman in vol III
+- **extended** (ch-057.txt): Review vol VI: Mfecane silence on slavery, Shaka invented, Xhosa Wars
+- **extended** (ch-089.txt): Connah: Great Zimbabwe 18,000; Kaditshwene 20,000 vs Cape Town
+- **extended** (ch-099.txt): Holl: Mapungubwe 1100-1280, Great Zimbabwe 1300-1450
+
+### africa-pre-colonial-4
+
+- **extended** (ch-048 review of vol IV): Kurukan Fuga date 1236/1240? vs 1235; Sahel urbanism before trans-Saharan trade
+- **extended** (ch-099.txt): Holl: Ghana 900-1100, Almoravid sack not collapse, Mema
+- **extended** (ch-110.txt): Ba: Jewish merchants, Askia Muhammad and al-Maghili, Jewish-origin claims
+
+### africa-pre-colonial-2
+
+- **extended** (ch-024.txt): Baqt: 2,000 Arab dead, 360 slaves a year, 'first slave trade' overclaim
+- **extended** (ch-042.txt): Kerma pre-Kerma settlement and Honegger; Meroitic 800 texts no translation; Ethiopic oldest writing clash with Ezana fourth century
+- **extended** (ch-077.txt): Wengrow: Nile cemeteries 5000-3800 BCE, Kadruka, kingship before the state, Narmer palettes Nilotic
+- **extended** (ch-079.txt): Nabta Playa megaliths and tumuli; thin evidence for ranking
+- **extended** (ch-092.txt): Aksum size 80-100 ha, 180 ha, 50,000; local origins, D'MT, no big irrigation
+
+### africa-pre-colonial-3
+
+- **extended** (ch-034.txt): Essuk graffito AH 401/1011; Tifinagh vs Arabic roles; Songhay words 1203/1253; malika as autonomous office
+- **extended** (ch-045.txt): Review of vol III: Islam-centred emphasis, Ukba reconnaissance, Kahina 711
+- **extended** (ch-114.txt): Cisse: Jula by fifteenth century, Jobson 1623, Begho fifteenth century, Binger 1892
+
+Totals: 1 confirmed, 3 refined, 2 contradicted, 49 extended, 0 absent, 0 note.

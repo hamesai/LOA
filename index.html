@@ -355,6 +355,60 @@ textarea.reflect { width: 100%; font: 400 0.95rem var(--f-body); color: var(--in
 .mview { position: fixed; inset: 0; z-index: 40; background: var(--bg); overflow: auto;
   padding: max(1rem, env(safe-area-inset-top, 0px)) clamp(1rem, 4vw, 2.5rem) max(2rem, env(safe-area-inset-bottom, 0px)); }
 .mview[hidden] { display: none; }
+/* module-complete celebration */
+.cel { position: fixed; inset: 0; z-index: 70; overflow: auto; color: #f4f7f5; padding: max(1rem, env(safe-area-inset-top, 0px)) clamp(0.75rem, 4vw, 2.5rem) max(2rem, env(safe-area-inset-bottom, 0px));
+  background: radial-gradient(ellipse at 50% 0%, color-mix(in srgb, var(--cel-c, #0f6b63) 55%, #08110e) 0%, #08110e 62%); }
+.cel[hidden] { display: none; }
+.cel canvas { position: fixed; inset: 0; width: 100%; height: 100%; pointer-events: none; z-index: 1; }
+.cel-wrap { position: relative; z-index: 2; max-width: 62rem; margin-inline: auto; display: grid; gap: 1.4rem; padding-block: 1.5rem; }
+.cel-hero { text-align: center; display: grid; gap: 0.5rem; justify-items: center; }
+.cel-kicker { font: 600 0.8rem/1 var(--f-mono); letter-spacing: 0.32em; text-transform: uppercase; color: color-mix(in srgb, var(--cel-c, #0f6b63) 40%, #fff); }
+.cel-hero h2 { margin: 0; font: 800 clamp(2rem, 6vw, 3.6rem)/1.05 var(--f-display); letter-spacing: -0.01em; color: #fff; text-shadow: 0 0 40px color-mix(in srgb, var(--cel-c, #0f6b63) 70%, transparent); }
+.cel-hero .cel-sub { color: #c9d6cf; font-size: 1.05rem; max-width: 40rem; margin: 0; }
+.cel-seal { width: 9.5rem; height: 9.5rem; border-radius: 50%; display: grid; place-items: center; position: relative; margin-bottom: 0.4rem;
+  background: conic-gradient(from 0deg, var(--cel-c, #0f6b63), #fff4, var(--cel-c, #0f6b63), #fff4, var(--cel-c, #0f6b63)); box-shadow: 0 0 60px color-mix(in srgb, var(--cel-c, #0f6b63) 65%, transparent), inset 0 0 0 4px #0008; }
+.cel-seal::before { content: ""; position: absolute; inset: 0.55rem; border-radius: 50%; background: #0b1612; border: 2px solid #fff3; }
+.cel-seal span { position: relative; font: 800 3.6rem/1 var(--f-display); color: #fff; }
+.cel-seal small { position: absolute; bottom: 1.35rem; font: 600 0.62rem/1 var(--f-mono); letter-spacing: 0.2em; color: #c9d6cf; text-transform: uppercase; }
+.cel-rank { display: inline-flex; gap: 0.5rem; align-items: center; padding: 0.35rem 0.9rem; border: 1px solid #fff3; border-radius: 99px; background: #0006; font: 600 0.85rem/1 var(--f-mono); }
+.cel-rank b { color: color-mix(in srgb, var(--cel-c, #0f6b63) 35%, #fff); }
+.cel-bar { height: 8px; border-radius: 99px; background: #fff2; overflow: hidden; width: min(24rem, 80vw); }
+.cel-bar i { display: block; height: 100%; width: 0; background: var(--cel-c, #0f6b63); box-shadow: 0 0 12px var(--cel-c, #0f6b63); transition: width 1.4s cubic-bezier(.2,.8,.2,1); }
+.cel-banner { text-align: center; padding: 0.8rem 1rem; border-radius: 10px; font: 700 1.1rem/1.3 var(--f-display); background: linear-gradient(90deg, #0000, color-mix(in srgb, var(--cel-c, #0f6b63) 60%, #000), #0000); }
+.cel-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(10.5rem, 1fr)); gap: 0.7rem; }
+.cel-stat { background: #ffffff10; border: 1px solid #ffffff22; border-radius: 10px; padding: 0.85rem 0.9rem; display: grid; gap: 0.2rem; }
+.cel-stat b { font: 800 2rem/1 var(--f-display); color: #fff; font-variant-numeric: tabular-nums; }
+.cel-stat span { font: 600 0.72rem/1.2 var(--f-mono); letter-spacing: 0.08em; text-transform: uppercase; color: #aebfb6; }
+.cel-stat em { font-style: normal; font-size: 0.82rem; color: #c9d6cf; }
+.cel-sec { display: grid; gap: 0.6rem; align-content: start; }
+.cel-sec h3 { margin: 0; font: 700 0.85rem/1 var(--f-mono); letter-spacing: 0.18em; text-transform: uppercase; color: color-mix(in srgb, var(--cel-c, #0f6b63) 40%, #fff); }
+.cel-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr)); gap: 1.4rem; }
+.cel-skill { background: #ffffff0d; border: 1px solid #ffffff1c; border-radius: 8px; padding: 0.65rem 0.8rem; display: grid; gap: 0.4rem; }
+.cel-skill p { margin: 0; color: #eef4f0; }
+.cel-skill .m { font: 500 0.74rem/1 var(--f-mono); color: #aebfb6; }
+.cel-skill .t { height: 6px; border-radius: 99px; background: #fff2; overflow: hidden; }
+.cel-skill .t i { display: block; height: 100%; width: 0; background: #5fd49a; transition: width 1.2s cubic-bezier(.2,.8,.2,1); }
+.cel-chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.cel-chip { padding: 0.3rem 0.65rem; border-radius: 99px; border: 1px solid #ffffff2a; background: #ffffff10; font-size: 0.85rem; color: #eef4f0; }
+.cel-chip.t { border-color: color-mix(in srgb, var(--cel-c, #0f6b63) 60%, #fff); }
+.cel-badges { display: grid; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); gap: 0.6rem; }
+.cel-badge { display: grid; grid-template-columns: auto 1fr; gap: 0.2rem 0.65rem; align-items: center; padding: 0.6rem 0.75rem; border-radius: 10px; border: 1px solid #ffffff2a; background: linear-gradient(135deg, #ffffff14, #ffffff06); }
+.cel-badge i { grid-row: span 2; font-style: normal; font-size: 1.7rem; }
+.cel-badge b { font: 700 0.95rem/1.1 var(--f-display); color: #fff; }
+.cel-badge span { font-size: 0.8rem; color: #b9c9c0; }
+.cel-word { border-left: 3px solid var(--cel-c, #0f6b63); padding: 0.4rem 0.9rem; background: #ffffff0a; border-radius: 0 8px 8px 0; }
+.cel-word b { display: block; font: 700 1.1rem/1.2 var(--f-display); }
+.cel-word p { margin: 0.25rem 0 0; color: #c9d6cf; font-size: 0.92rem; }
+.cel-acts { display: flex; flex-wrap: wrap; gap: 0.6rem; justify-content: center; padding-top: 0.4rem; }
+.cel .btn.ghost { color: #f4f7f5; border-color: #ffffff55; }
+.cel-pop { opacity: 0; transform: translateY(14px); }
+.cel-in .cel-pop { animation: celpop 0.6s cubic-bezier(.2,.8,.2,1) forwards; animation-delay: calc(var(--d, 0) * 90ms); }
+@keyframes celpop { to { opacity: 1; transform: none; } }
+@keyframes celspin { from { transform: rotate(0); } to { transform: rotate(360deg); } }
+@keyframes celglow { 0%,100% { filter: brightness(1); } 50% { filter: brightness(1.25); } }
+@media (prefers-reduced-motion: no-preference) { .cel-in .cel-seal { animation: celglow 2.6s ease-in-out infinite; } .cel-in .cel-seal::after { content: ""; position: absolute; inset: -6px; border-radius: 50%; border: 2px dashed #fff5; animation: celspin 22s linear infinite; } }
+@media (prefers-reduced-motion: reduce) { .cel-pop { opacity: 1; transform: none; } .cel-in .cel-pop { animation: none; } .cel-bar i, .cel-skill .t i { transition: none; } }
+
 .mv-wrap { max-width: 64rem; margin-inline: auto; display: grid; gap: 1rem; }
 .mv-top { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: space-between; align-items: center; position: sticky; top: 0; z-index: 3; background: var(--bg); padding: 0.5rem 0; margin-top: -0.5rem; border-bottom: 1px solid var(--line); }
 .mv-head { display: grid; gap: 0.6rem; }
@@ -524,7 +578,7 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
 .v-prog i { display: block; height: 100%; background: var(--accent); width: 0; }
 @media (prefers-reduced-motion: no-preference) { .btn, .chip { transition: filter 0.15s, background 0.15s; } .v-prog i { transition: width 0.2s; } }
 </style>
-<link rel="stylesheet" href="shared/course.css?v=v20261122183320">
+<link rel="stylesheet" href="shared/course.css?v=v20261123142721">
 </head>
 <body>
 <div class="wrap" id="home">
@@ -580,15 +634,6 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
     </ol>
     <p class="mono" style="font-size:.82rem;color:var(--muted)">Guide: <span>_template/TEMPLATE.md</span></p>
   </div>
-</section>
-
-<section class="glossary" id="home-glossary" aria-labelledby="h-gloss">
-  <details id="gloss-dd">
-    <summary><h2 id="h-gloss">Glossary</h2><span class="dd-n" id="gloss-count"></span></summary>
-    <p class="dd-note">Every term defined in a lesson, across all courses. Click a term's module to open it.</p>
-    <input id="gloss-q" type="search" placeholder="Filter terms" aria-label="Filter glossary terms" autocomplete="off">
-    <div id="gloss-list"></div>
-  </details>
 </section>
 
 <section class="faq" id="home-faq" aria-label="Frequently asked questions"></section>
@@ -653,6 +698,15 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
 <section id="s-mod" aria-labelledby="h-mod">
   <div class="sec-head"><h2 id="h-mod">Modules</h2><p>Click anywhere on a module row to open its page. The slides, notes, practice, quiz and tools all live inside the module. Tick it, or use Mark complete, to log a completion. Remove completion takes you back, and both are kept in the history.</p></div>
   <div class="tscroll" id="mod-wrap"></div>
+</section>
+
+<section class="glossary" id="course-glossary" aria-labelledby="h-cgloss" hidden>
+  <details class="dd" id="cgloss-dd">
+    <summary><h2 id="h-cgloss">Glossary</h2><span class="dd-n" id="cgloss-count"></span></summary>
+    <p class="dd-note">Every term this course defines, A to Z. Click a module to open the lesson where it is used.</p>
+    <input id="cgloss-q" type="search" placeholder="Filter terms" aria-label="Filter this course's glossary terms" autocomplete="off">
+    <div id="cgloss-list"></div>
+  </details>
 </section>
 
 <section id="s-res" aria-labelledby="h-res">
@@ -806,40 +860,43 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
   </div>
 </div>
 
-<script src="shared/archive-search.js?v=v20261122183320"></script>
-<script src="shared/archive-data.js?v=v20261122183320"></script>
-<script src="courses/greenhouse-year/course-refs.js?v=v20261122183320"></script>
-<script src="shared/course-engine.js?v=v20261122183320"></script>
-<script src="courses/greenhouse-year/course-figs.js?v=v20261122183320"></script>
-<script src="shared/course-meta.js?v=v20261122183320"></script>
-<script src="shared/course-about.js?v=v20261122183320"></script>
+<div class="cel" id="celebrate" role="dialog" aria-modal="true" aria-labelledby="cel-title" hidden></div>
+
+<script src="shared/archive-search.js?v=v20261123142721"></script>
+<script src="shared/archive-data.js?v=v20261123142721"></script>
+<script src="courses/greenhouse-year/course-refs.js?v=v20261123142721"></script>
+<script src="shared/course-engine.js?v=v20261123142721"></script>
+<script src="courses/greenhouse-year/course-figs.js?v=v20261123142721"></script>
+<script src="shared/course-meta.js?v=v20261123142721"></script>
+<script src="shared/course-about.js?v=v20261123142721"></script>
 <script>LOA_META("about")</script>
-<script src="shared/course-lecturer-refs.js?v=v20261122183320"></script>
+<script src="shared/course-lecturer-refs.js?v=v20261123142721"></script>
 <script>LOA_META("deepnotes")</script>
 <script>LOA_META("lecturer-notes")</script>
 <script>LOA_META("lecturer-intro")</script>
 <script>LOA_META("lecturers")</script>
 <!-- COURSES:START -->
-<script src="shared/course-faqs.js?v=v20261122183320"></script>
+<script src="shared/course-faqs.js?v=v20261123142721"></script>
 <script>LOA_META("faqs")</script>
-<script src="shared/bundles/run-1.js?v=v20261122183320"></script>
+<script>LOA_META("glossary")</script>
+<script src="shared/bundles/run-1.js?v=v20261123142721"></script>
 <script>LOA_META("dossiers")</script>
 <script>LOA_META("oversight")</script>
-<script src="shared/bundles/run-2.js?v=v20261122183320"></script>
+<script src="shared/bundles/run-2.js?v=v20261123142721"></script>
 <!-- COURSES:END -->
 <!-- BARRIER AIDS: must load after every learning file and LOA_META("oversight") -->
-<script src="shared/barriers/camping-basics.js?v=v20261122183320"></script>
-<script src="shared/barriers/cinematography.js?v=v20261122183320"></script>
-<script src="shared/barriers/directing.js?v=v20261122183320"></script>
-<script src="shared/barriers/greenhouse-year.js?v=v20261122183320"></script>
-<script src="shared/barriers/grid-down-food.js?v=v20261122183320"></script>
-<script src="shared/barriers/investing.js?v=v20261122183320"></script>
-<script src="shared/barriers/personal-training.js?v=v20261122183320"></script>
-<script src="shared/barriers/public-speaking.js?v=v20261122183320"></script>
-<script src="shared/barriers/sales-basics.js?v=v20261122183320"></script>
-<script src="shared/barriers/vintage-reselling.js?v=v20261122183320"></script>
-<script src="shared/barriers/africa-pre-colonial.js?v=v20261122183320"></script>
-<script src="shared/barriers/africa-post-colonial.js?v=v20261122183320"></script>
+<script src="shared/barriers/camping-basics.js?v=v20261123142721"></script>
+<script src="shared/barriers/cinematography.js?v=v20261123142721"></script>
+<script src="shared/barriers/directing.js?v=v20261123142721"></script>
+<script src="shared/barriers/greenhouse-year.js?v=v20261123142721"></script>
+<script src="shared/barriers/grid-down-food.js?v=v20261123142721"></script>
+<script src="shared/barriers/investing.js?v=v20261123142721"></script>
+<script src="shared/barriers/personal-training.js?v=v20261123142721"></script>
+<script src="shared/barriers/public-speaking.js?v=v20261123142721"></script>
+<script src="shared/barriers/sales-basics.js?v=v20261123142721"></script>
+<script src="shared/barriers/vintage-reselling.js?v=v20261123142721"></script>
+<script src="shared/barriers/africa-pre-colonial.js?v=v20261123142721"></script>
+<script src="shared/barriers/africa-post-colonial.js?v=v20261123142721"></script>
 <script>
 (function () {
   "use strict";
@@ -1719,6 +1776,205 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
       kind: on ? "Module complete" : "Completion removed",
       event: (m.kind === "capstone" ? "Capstone" : "Module " + m.number) + (on ? " complete" : " completion removed"), detail: "" });
     saveLocal(); renderAll();
+    if (on) showCelebration(m);
+  }
+
+  /* ---------- module-complete celebration ---------- */
+  var CEL_BELT = { white: "#2fb59a", yellow: "#e3b523", orange: "#de7a22", green: "#2f8f5b", brown: "#9a5f3a", black: "#6b7a74" };
+  var CEL_RANKS = [[0, "Newcomer"], [1, "Apprentice"], [3, "Student"], [6, "Scholar"], [10, "Adept"], [15, "Sage"], [25, "Keeper of the Archive"]];
+  function celWords(x) {
+    var n = 0;
+    (function walk(v, k) {
+      if (typeof v === "string") { if (k !== "id" && k !== "t" && k !== "k" && k !== "src") n += (v.replace(/\{\{[^}]*\}\}|\[\[[^\]]*\]\]/g, "").match(/\S+/g) || []).length; }
+      else if (Array.isArray(v)) v.forEach(function (y) { walk(y, k); });
+      else if (v && typeof v === "object") Object.keys(v).forEach(function (kk) { walk(v[kk], kk); });
+    })(x, "");
+    return n;
+  }
+  function celNoteWords(key) {
+    var n = 0, pre = ["eda.refl." + key + ".", "eda.evid." + key + ".", "eda.field." + key + ".", "eda.review." + key, "eda.stuck." + key];
+    try { for (var i = 0; i < localStorage.length; i++) { var k = localStorage.key(i); if (pre.some(function (p) { return k.indexOf(p) === 0; })) n += (String(localStorage.getItem(k) || "").match(/\S+/g) || []).length; } } catch (e) {}
+    return n;
+  }
+  function celStreak() {
+    var days = {}, t = today();
+    local.forEach(function (e) { if (e.date) days[e.date] = 1; });
+    try { Object.keys(localStorage).forEach(function (k) { if (k.indexOf("eda.retlog.") === 0) JSON.parse(localStorage.getItem(k) || "[]").forEach(function (r) { if (r.d) days[r.d] = 1; }); }); } catch (e) {}
+    var n = 0, d = t; while (days[d]) { n++; d = addDays(d, -1); }
+    return n;
+  }
+  function celRank(n) {
+    var r = CEL_RANKS[0], nx = null;
+    CEL_RANKS.forEach(function (x) { if (n >= x[0]) r = x; });
+    for (var i = 0; i < CEL_RANKS.length; i++) if (CEL_RANKS[i][0] > n) { nx = CEL_RANKS[i]; break; }
+    return { name: r[1], at: r[0], next: nx };
+  }
+  var celConf = null, celPrevOverflow = "";
+  function celClose() {
+    var box = $("celebrate"); if (box.hidden) return;
+    box.hidden = true; box.textContent = ""; box.classList.remove("cel-in"); document.body.style.overflow = celPrevOverflow;
+    if (celConf) { cancelAnimationFrame(celConf.raf); celConf = null; }
+    document.removeEventListener("keydown", celKey, true);
+  }
+  function celKey(e) { if (e.key === "Escape") { e.stopPropagation(); celClose(); } }
+  function celConfetti(cv, colours, big) {
+    var ctx = cv.getContext("2d"), W = cv.width = window.innerWidth, H = cv.height = window.innerHeight, ps = [], N = big ? 260 : 150, t0 = performance.now();
+    for (var i = 0; i < N; i++) ps.push({ x: W * (0.15 + Math.random() * 0.7), y: -20 - Math.random() * H * 0.5, vx: (Math.random() - 0.5) * 5, vy: 2 + Math.random() * 4, r: 4 + Math.random() * 6, a: Math.random() * 6.28, va: (Math.random() - 0.5) * 0.3, c: colours[i % colours.length], s: Math.random() < 0.5 });
+    celConf = { raf: 0 };
+    (function frame(now) {
+      if (!celConf) return;
+      ctx.clearRect(0, 0, W, H);
+      var alive = 0, fade = Math.max(0, Math.min(1, (6200 - (now - t0)) / 1400));
+      ps.forEach(function (p) {
+        p.x += p.vx; p.y += p.vy; p.vy += 0.045; p.vx *= 0.995; p.a += p.va;
+        if (p.y < H + 20) alive++;
+        ctx.save(); ctx.globalAlpha = fade; ctx.translate(p.x, p.y); ctx.rotate(p.a); ctx.fillStyle = p.c;
+        if (p.s) ctx.fillRect(-p.r / 2, -p.r / 3, p.r, p.r * 0.6); else { ctx.beginPath(); ctx.arc(0, 0, p.r / 2.2, 0, 6.28); ctx.fill(); }
+        ctx.restore();
+      });
+      if (alive && fade > 0) celConf.raf = requestAnimationFrame(frame); else { ctx.clearRect(0, 0, W, H); celConf = null; }
+    })(t0);
+  }
+  function showCelebration(m) {
+    var box = $("celebrate");
+    var isCap = m.kind === "capstone", C = (window.COURSE || {})[m.key] || null, d = (A.details || {})[m.key] || {}, cs = challengeSet(m.key);
+    var mods = A.modules.filter(function (x) { return x.library === m.library; }), nMod = mods.filter(function (x) { return x.kind === "module"; }).length;
+    var done = doneOf(mods), nDone = mods.filter(function (x) { return x.kind === "module" && done[x.key]; }).length, capDone = mods.some(function (x) { return x.kind === "capstone" && done[x.key]; });
+    var courseDone = mods.every(function (x) { return done[x.key]; });
+    var full = doneOf(FULL.modules), totalDone = FULL.modules.filter(function (x) { return x.kind === "module" && full[x.key]; }).length;
+    var rank = celRank(totalDone), prevRank = celRank(totalDone - 1), rankedUp = rank.name !== prevRank.name && !isCap;
+    var beltName = m.belt || "", beltOk = false;
+    if (beltName) { var numDone = {}; mods.forEach(function (x) { if (x.kind === "module" && done[x.key]) numDone[String(x.number)] = true; }); beltsFor(mods).forEach(function (b) { if (b.name === beltName && beltEarned(b, numDone, capDone)) beltOk = true; }); }
+    var colour = beltOk ? (CEL_BELT[beltName.toLowerCase()] || "#0f6b63") : "#0f6b63";
+    if (courseDone) colour = "#e3b523";
+
+    /* the numbers */
+    var lessons = C && C.lessons ? C.lessons : [], mins = lessons.reduce(function (a, l) { return a + (Number(l.min) || 0); }, 0) || Math.round((parseFloat(m.hours) || 0) * 60);
+    var words = C ? celWords(C.lessons) : 0, notes = celNoteWords(m.key), terms = glossForModule(m.key);
+    var cd = d.challenges || [], cnt = cd.filter(function (c) { return cs[c.id]; }).length;
+    var q = bestQuiz(m), pre = baselinePre(m), gain = (q != null && pre != null) ? q - pre : null, ng = (gain != null && pre < 100) ? (q - pre) / (100 - pre) : null;
+    var first = ""; local.forEach(function (e) { if (e.module === m.key && e.date && (!first || e.date < first)) first = e.date; });
+    var span = first ? Math.max(1, Math.round((Date.parse(today()) - Date.parse(first)) / 86400000) + 1) : 1, streak = celStreak();
+    var st = srsLoad(), cards = reviewPool(true).filter(function (x) { return x.id.indexOf(m.key + ":") === 0; }), good = cards.filter(function (x) { return st[x.id] && st[x.id].b >= 3; }).length;
+    var prevBest = 0; mods.forEach(function (x) { if (x.key !== m.key && x.kind === "module") { var b = bestQuiz(x); if (b != null && b > prevBest) prevBest = b; } });
+
+    var stats = [];
+    if (mins) stats.push({ l: "Lesson time", to: mins, suf: " min", n: mins >= 60 ? "about " + (Math.round(mins / 6) / 10) + " hours of study" : "" });
+    if (lessons.length) stats.push({ l: "Lessons studied", to: lessons.length, n: words ? "about " + fmtNum(Math.round(words / 100) * 100) + " words, roughly " + Math.max(1, Math.round(words / 250)) + " pages" : "" });
+    if (cd.length) stats.push({ l: isCap ? "Criteria met" : "Challenges passed", txt: cnt + " / " + cd.length, n: cnt === cd.length ? "every one ticked" : (cd.length - cnt) + " left open" });
+    if (q != null) stats.push({ l: "Quiz, first try", to: q, suf: "%", n: q >= 100 ? "flawless" : (prevBest && q > prevBest ? "your best quiz in this course" : "your best attempt") });
+    if (gain != null) stats.push({ l: "Learning gain", to: Math.abs(gain), pre: gain >= 0 ? "+" : "−", suf: " pts", n: "from " + pre + "% to " + q + "%" + (ng != null && ng >= 0 ? " · gain " + (Math.round(ng * 100) / 100) : "") });
+    if (terms.length) stats.push({ l: "Terms learned", to: terms.length, n: "added to your glossary" });
+    if (notes) stats.push({ l: "Words you wrote", to: notes, n: "notes, reflections and evidence" });
+    if (cards.length) stats.push({ l: "Cards well learned", txt: good + " / " + cards.length, n: "right three times running" });
+    stats.push({ l: "Time to finish", to: span, suf: span === 1 ? " day" : " days", n: first ? "from " + fmtDate(first) + " to " + fmtDate(today()) : "" });
+    stats.push({ l: "Study streak", to: streak, suf: streak === 1 ? " day" : " days", n: streak >= 3 ? "keep it burning" : "study tomorrow to build one" });
+    stats.push({ l: "Modules in the Archive", to: totalDone, n: libName(m.library) + ": " + nDone + " of " + nMod });
+
+    /* skills: each outcome, with how well your answers back it */
+    var omap = (window.COURSE_OUTCOMES || {})[m.key] || {}, outs = C && C.outcomes ? C.outcomes : [], skillRows = [], allGood = outs.length > 0;
+    outs.forEach(function (o, oi) {
+      var mine = cards.filter(function (x) { return omap[x.id.slice(m.key.length + 1)] === oi; }), g = mine.filter(function (x) { return st[x.id] && st[x.id].b >= 3; }).length, tried = mine.filter(function (x) { return st[x.id]; }).length;
+      if (!mine.length || g < mine.length) allGood = false;
+      skillRows.push({ o: o, pct: mine.length ? Math.round(g / mine.length * 100) : 0, label: !mine.length ? "No question tests this yet" : (g === mine.length ? "Well learned" : (tried ? "Building: " + g + " of " + mine.length + " secure" : "Review it to lock it in")) });
+    });
+
+    /* badges: only the ones you earned */
+    var badges = [];
+    if (q === 100) badges.push(["💎", "Flawless", "100% on the quiz at the first try"]);
+    if (ng != null && ng >= 0.7) badges.push(["🚀", "High-gain learner", "Learning gain of " + (Math.round(ng * 100) / 100) + ", the top band"]);
+    else if (gain != null && gain >= 30) badges.push(["📈", "Big climber", "Up " + gain + " points from your pre-check"]);
+    if (cd.length && cnt === cd.length) badges.push(["🎯", isCap ? "Every criterion" : "Every challenge", "Nothing left open"]);
+    if (notes >= 100) badges.push(["✍️", "Scribe", fmtNum(notes) + " words of your own thinking"]);
+    if (streak >= 3) badges.push(["🔥", "On a roll", streak + " days of study in a row"]);
+    if (allGood) badges.push(["🧠", "Fully secured", "Every outcome well learned"]);
+    if (rankedUp) badges.push(["🏅", "New rank", rank.name]);
+    if (beltOk) badges.push(["🥋", beltName + " belt", "Earned with this module"]);
+    if (courseDone) badges.push(["🏆", "Course complete", libName(m.library)]);
+    if (!badges.length) badges.push(["✅", isCap ? "Capstone finished" : "Module finished", "Another one in the ledger"]);
+
+    /* build the screen */
+    box.textContent = ""; box.classList.remove("cel-in");
+    if (box.hidden) celPrevOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    box.style.setProperty("--cel-c", colour);
+    var wrap = h("div", { class: "cel-wrap" }), di = 0;
+    function pop(el) { el.classList.add("cel-pop"); el.style.setProperty("--d", String(di++)); return el; }
+    var seal = h("div", { class: "cel-seal", "aria-hidden": "true" }, h("span", { text: isCap ? "★" : String(m.number) }), h("small", { text: isCap ? "capstone" : "module" }));
+    var hero = h("div", { class: "cel-hero" }, seal, h("div", { class: "cel-kicker", text: libName(m.library) }),
+      h("h2", { id: "cel-title", text: courseDone ? "Course complete" : (isCap ? "Capstone complete" : "Module " + m.number + " complete") }), h("p", { class: "cel-sub", text: m.title }));
+    hero.appendChild(h("div", { class: "cel-rank" }, "Rank ", h("b", { text: rank.name }), rank.next ? " · " + (rank.next[0] - totalDone) + " more to " + rank.next[1] : " · top rank"));
+    var bar = h("div", { class: "cel-bar", role: "img", "aria-label": nDone + " of " + nMod + " modules complete" }, h("i")); hero.appendChild(bar);
+    hero.appendChild(h("div", { class: "mono", style: "font-size:.82rem;color:#aebfb6", text: nDone + " of " + nMod + " modules in this course" + (capDone ? " · capstone done" : "") }));
+    wrap.appendChild(pop(hero));
+    if (courseDone) wrap.appendChild(pop(h("div", { class: "cel-banner", text: "Every module and the capstone of " + libName(m.library) + " are done." })));
+    else if (beltOk) wrap.appendChild(pop(h("div", { class: "cel-banner", text: beltName + " belt earned" })));
+
+    var grid = h("div", { class: "cel-stats" });
+    stats.forEach(function (s) {
+      var b = h("b", { text: s.txt || "0" + (s.suf || "") });
+      if (!s.txt) { b.setAttribute("data-to", s.to); b.setAttribute("data-suf", s.suf || ""); b.setAttribute("data-pre", s.pre || ""); }
+      grid.appendChild(h("div", { class: "cel-stat" }, h("span", { text: s.l }), b, s.n ? h("em", { text: s.n }) : null));
+    });
+    wrap.appendChild(pop(h("div", { class: "cel-sec" }, h("h3", { text: "Your numbers" }), grid)));
+
+    var bg = h("div", { class: "cel-badges" });
+    badges.forEach(function (b) { bg.appendChild(h("div", { class: "cel-badge" }, h("i", { text: b[0], "aria-hidden": "true" }), h("b", { text: b[1] }), h("span", { text: b[2] }))); });
+    wrap.appendChild(pop(h("div", { class: "cel-sec" }, h("h3", { text: "Achievements" }), bg)));
+
+    var cols = h("div", { class: "cel-cols" });
+    if (skillRows.length) {
+      var sk = h("div", { class: "cel-sec" }, h("h3", { text: "Skills you can now show" }));
+      skillRows.forEach(function (r) { var t = h("div", { class: "t" }, h("i")); t.firstChild.setAttribute("data-w", String(r.pct)); sk.appendChild(h("div", { class: "cel-skill" }, h("p", { text: r.o }), t, h("div", { class: "m", text: r.label }))); });
+      cols.appendChild(sk);
+    }
+    var kn = h("div", { class: "cel-sec" }, h("h3", { text: "Knowledge you now hold" }));
+    if (lessons.length) { var lc = h("div", { class: "cel-chips" }); lessons.forEach(function (l) { lc.appendChild(h("span", { class: "cel-chip", text: l.title })); }); kn.appendChild(lc); }
+    if (terms.length) {
+      kn.appendChild(h("div", { class: "mono", style: "font-size:.78rem;color:#aebfb6;margin-top:.4rem", text: "Key terms" }));
+      var tc = h("div", { class: "cel-chips" }); terms.slice(0, 18).forEach(function (g) { tc.appendChild(h("span", { class: "cel-chip t", text: g.term })); });
+      if (terms.length > 18) tc.appendChild(h("span", { class: "cel-chip", text: "+" + (terms.length - 18) + " more" }));
+      kn.appendChild(tc);
+    }
+    var lec = (window.COURSE_LECTURERS || {})[m.key];
+    if (lec && lec.name) kn.appendChild(h("div", { class: "mono", style: "font-size:.82rem;color:#aebfb6", text: "Lecturer's method: " + lec.name }));
+    if (lessons.length || terms.length) cols.appendChild(kn);
+    if (cols.children.length) wrap.appendChild(pop(cols));
+
+    var withDef = terms.filter(function (g) { return g.def; });
+    if (withDef.length) { var wg = withDef[Math.abs(hashStr(m.key + today())) % withDef.length]; wrap.appendChild(pop(h("div", { class: "cel-sec" }, h("h3", { text: "Word of the module" }), h("div", { class: "cel-word" }, h("b", { text: wg.term }), h("p", { text: wg.def }))))); }
+
+    var next = null, li = mods.indexOf(m); for (var ni = li + 1; ni < mods.length; ni++) if (!done[mods[ni].key]) { next = mods[ni]; break; }
+    var acts = h("div", { class: "cel-acts" });
+    if (next) acts.appendChild(h("button", { class: "btn", type: "button", text: "Continue: " + (next.kind === "capstone" ? "Capstone" : "Module " + next.number) + ", " + next.title, onclick: function () { celClose(); openModule(next); } }));
+    acts.appendChild(h("button", { class: next ? "btn ghost" : "btn", type: "button", text: "Back to the dashboard", onclick: function () { celClose(); if (!$("mview").hidden) closeModule(); } }));
+    acts.appendChild(h("button", { class: "btn ghost", type: "button", text: "Copy my summary", onclick: function (ev) {
+      var tx = [(courseDone ? "Course complete: " : (isCap ? "Capstone complete: " : "Module " + m.number + " complete: ")) + m.title + " (" + libName(m.library) + ")", "Date: " + fmtDate(today()), "Rank: " + rank.name + " · " + totalDone + " modules in the Archive"]
+        .concat(stats.map(function (s) { return s.l + ": " + (s.txt || ((s.pre || "") + s.to + (s.suf || ""))); }), ["Achievements: " + badges.map(function (b) { return b[1]; }).join(", ")], outs.length ? ["Skills:"].concat(outs.map(function (o) { return "- " + o; })) : []).join("\n");
+      var btn = ev.currentTarget, ok = function () { btn.textContent = "Copied"; };
+      function fb() { var ta = h("textarea", { style: "position:fixed;opacity:0" }); ta.value = tx; document.body.appendChild(ta); ta.select(); try { document.execCommand("copy"); ok(); } catch (e) { window.prompt("Copy your summary:", tx); } ta.remove(); }
+      if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(tx).then(ok, fb); else fb();
+    } }));
+    acts.appendChild(h("button", { class: "btn ghost", type: "button", text: "Close", onclick: celClose }));
+    wrap.appendChild(pop(acts));
+
+    var cv = h("canvas", { "aria-hidden": "true" });
+    box.appendChild(cv); box.appendChild(wrap); box.hidden = false; box.scrollTop = 0;
+    document.removeEventListener("keydown", celKey, true); document.addEventListener("keydown", celKey, true);
+    var still = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    requestAnimationFrame(function () {
+      box.classList.add("cel-in");
+      bar.firstChild.style.width = (nMod ? Math.round(nDone / nMod * 100) : 0) + "%";
+      Array.prototype.forEach.call(box.querySelectorAll(".t > i"), function (i) { i.style.width = i.getAttribute("data-w") + "%"; });
+      Array.prototype.forEach.call(box.querySelectorAll("b[data-to]"), function (el) {
+        var to = Number(el.getAttribute("data-to")), suf = el.getAttribute("data-suf"), pr = el.getAttribute("data-pre"), t0 = performance.now(), dur = 1300;
+        function fin() { el.textContent = pr + fmtNum(to) + suf; }
+        if (still || to === 0) { fin(); return; }
+        (function tick(now) { var p = Math.min(1, (now - t0) / dur), e = 1 - Math.pow(1 - p, 3); el.textContent = pr + fmtNum(Math.round(to * e * 10) / 10) + suf; if (p < 1) requestAnimationFrame(tick); else fin(); })(t0);
+      });
+      if (!still) celConfetti(cv, [colour, "#ffffff", "#f2c94c", "#5fd49a", "#7fb8ff", "#ff8fa3"], courseDone || beltOk);
+      var go = box.querySelector(".cel-acts .btn"); if (go) go.focus({ preventScroll: true });
+    });
   }
 
   /* ---------- module page ---------- */
@@ -2035,6 +2291,7 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
     renderOutcomes(m);
     var act = $("mv-actions"); act.textContent = "";
     act.appendChild(h("button", { class: isDone ? "btn ghost" : "btn", type: "button", text: isDone ? "Remove completion" : "Mark complete", onclick: function () { setCompletion(m, !isDone); } }));
+    if (isDone) act.appendChild(h("button", { class: "btn ghost", type: "button", text: "View my results", onclick: function () { showCelebration(m); } }));
     var pv = neighbour(-1), nx = neighbour(1);
     $("mv-prev").disabled = !pv; $("mv-next").disabled = !nx;
 
@@ -2042,6 +2299,8 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
     if (mv.slides.length) tabs.push(["slides", "Slides (" + mv.slides.length + ")"]);
     tabs.push(hasCourse ? ["notes", "Notes"] : ["learn", "Learn"]);
     if (hasCourse && CE.bibCount(m.key)) tabs.push(["bib", "Bibliography (" + CE.bibCount(m.key) + ")"]);
+    var modGl = glossForModule(m.key);
+    if (modGl.length) tabs.push(["glossary", "Glossary (" + modGl.length + ")"]);
     tabs.push(["practice", isCap ? "Rubric" : "Practice"]);
     if (qz) tabs.push(["quiz", "Quiz"]);
     if (toolFor(m)) tabs.push(["tools", "Tools"]);
@@ -2058,6 +2317,18 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
       body.appendChild(CE.hasDeep(m.key) ? CE.deep(m, { prev: pv, next: nx }) : CE.article(m));
     } else if (mv.tab === "bib" && hasCourse) {
       body.appendChild(CE.bibliography(m));
+    } else if (mv.tab === "glossary" && modGl.length) {
+      var gbox = h("div", { class: "glossary mv-gloss" });
+      var gnote = h("p", { class: "dd-note", text: "Terms used in this module." });
+      body.appendChild(gnote);
+      var gq = h("input", { type: "search", placeholder: "Filter terms", "aria-label": "Filter this module's glossary terms", autocomplete: "off" });
+      var gout = h("div", {});
+      var gdraw = function () { renderGlossList(modGl, gout, gq, { flat: true, exclude: m.key }); };
+      gq.addEventListener("input", gdraw);
+      gdraw();
+      if (gout.querySelector(".gl-chip")) gnote.textContent = "Terms used in this module. A chip shows another module where the same term appears.";
+      gbox.appendChild(gq); gbox.appendChild(gout);
+      body.appendChild(gbox);
     } else if (mv.tab === "learn") {
       var g = h("div", { class: "mgrid" });
       if (!d) g.appendChild(h("p", { class: "empty", text: "No lesson has been written for this module yet. Ask Claude to add it." }));
@@ -2480,48 +2751,111 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
     st.textContent = "Last backup " + d.toLocaleDateString("en-GB") + (days === 0 ? " (today)." : " (" + days + " days ago).") + (days > 14 ? " Back up again soon." : "");
     st.style.color = days > 14 ? "var(--warn)" : "var(--muted)";
   }
-  /* Glossary: every "terms" block in every lesson, merged by term, A to Z. Built the first time the section opens. */
-  var glossAll = null;
+  /* Glossary: every "terms" block in every lesson, plus each course's own entries (courses/<id>/meta/glossary.js, window.COURSE_GLOSSARY[id] =
+     [[term, meaning, optional module key], ..]), merged by term, A to Z. It appears on each course page and covers that course only (A is scoped to it); it is rebuilt with the page. Shown as letter groups of cards
+     with an A to Z strip, highlighted matches and short module chips. */
+  function glossModTag(key) { var m = /-(\d+|cap)$/.exec(key || ""); return m ? (m[1] === "cap" ? "Capstone" : "Module " + m[1]) : ""; }
   function buildGlossary() {
-    var map = {}, C = window.COURSE || {};
+    var map = {}, C = window.COURSE || {}, G = window.COURSE_GLOSSARY || {};
+    var strip = function (x) { return String(x || "").replace(/\s*(\{\{[^}]*\}\}|\[\[[^\]]*\]\])/g, "").trim(); };
+    function add(term, meaning, ref) {
+      var t = strip(term), def = strip(meaning), k = t.toLowerCase();
+      if (!t) return;
+      if (!map[k]) map[k] = { term: t, def: def, refs: [] };
+      else if (!map[k].def && def) map[k].def = def;
+      if (!map[k].refs.some(function (r) { return r.key === ref.key && r.lib === ref.lib; })) map[k].refs.push(ref);
+    }
     Object.keys(C).forEach(function (key) {
       var c = C[key], m = modByKey(key);
       if (!m || !c || !c.lessons) return;
       c.lessons.forEach(function (les) {
         (les.blocks || []).forEach(function (b) {
           if (b.t !== "terms" || !b.i) return;
-          b.i.forEach(function (pair) {
-            var t = String(pair[0] || "").trim(), def = String(pair[1] || "").trim(), k = t.toLowerCase();
-            if (!t) return;
-            if (!map[k]) map[k] = { term: t, def: def, refs: [] };
-            if (!map[k].refs.some(function (r) { return r.key === key; })) map[k].refs.push({ key: key, label: libName(m.library) + " · " + m.title });
-          });
+          b.i.forEach(function (pair) { add(pair[0], pair[1], { key: key, lib: libName(m.library), mod: glossModTag(key), title: libName(m.library) + " · " + m.title }); });
         });
+      });
+    });
+    Object.keys(G).forEach(function (id) {
+      if (!A.libraries.some(function (l) { return l.id === id; })) return;
+      (G[id] || []).forEach(function (e) {
+        var m = e[2] ? modByKey(e[2]) : null;
+        add(e[0], e[1], m ? { key: m.key, lib: libName(id), mod: glossModTag(m.key), title: libName(id) + " · " + m.title } : { key: null, lib: libName(id), mod: "", title: libName(id) });
       });
     });
     return Object.keys(map).map(function (k) { return map[k]; }).sort(function (a, b) { return a.term.localeCompare(b.term, "en"); });
   }
-  function renderGlossary() {
-    var list = $("gloss-list"), q = ($("gloss-q").value || "").trim().toLowerCase();
-    if (!glossAll) glossAll = buildGlossary();
-    $("gloss-count").textContent = glossAll.length + " terms";
-    list.textContent = "";
-    var shown = glossAll.filter(function (g) { return !q || g.term.toLowerCase().indexOf(q) !== -1 || g.def.toLowerCase().indexOf(q) !== -1; });
-    var CAP = 300;
-    shown.slice(0, CAP).forEach(function (g) {
-      var row = h("div", { class: "gloss-row" }, h("strong", { text: g.term }), h("p", { text: g.def }));
-      g.refs.forEach(function (r) {
-        var b = h("button", { class: "btn ghost sm", type: "button", text: r.label });
-        b.addEventListener("click", function () { window.LOA_openModule(r.key); });
-        row.appendChild(b);
-      });
-      list.appendChild(row);
-    });
-    if (shown.length > CAP) list.appendChild(h("p", { class: "lsearch-count", text: "Showing " + CAP + " of " + shown.length + ". Type in the filter to narrow the list." }));
-    if (!shown.length) list.appendChild(h("p", { class: "lsearch-none", text: "No terms match." }));
+  /* Fills el with text, wrapping each case-insensitive match of the filter in <mark>. */
+  function glossMark(el, text, q) {
+    if (!q) { el.textContent = text; return el; }
+    var lo = text.toLowerCase(), i = 0, j;
+    while ((j = lo.indexOf(q, i)) !== -1) {
+      if (j > i) el.appendChild(document.createTextNode(text.slice(i, j)));
+      var mk = document.createElement("mark"); mk.textContent = text.slice(j, j + q.length); el.appendChild(mk);
+      i = j + q.length;
+    }
+    if (i < text.length) el.appendChild(document.createTextNode(text.slice(i)));
+    return el;
   }
-  $("gloss-dd").addEventListener("toggle", function () { if (this.open) renderGlossary(); });
-  $("gloss-q").addEventListener("input", function () { if ($("gloss-dd").open) renderGlossary(); });
+  function renderGlossList(items, list, qBox, opts) {
+    var q = (qBox.value || "").trim().toLowerCase(), inCourse = !!cur, flat = !!(opts && opts.flat), exclude = opts && opts.exclude;
+    list.textContent = "";
+    var shown = items.filter(function (g) { return !q || g.term.toLowerCase().indexOf(q) !== -1 || g.def.toLowerCase().indexOf(q) !== -1; });
+    list.appendChild(h("p", { class: "gl-meta", text: shown.length === items.length ? items.length + " terms" : shown.length + " of " + items.length + " terms" }));
+    if (!shown.length) { list.appendChild(h("p", { class: "lsearch-none", text: "No terms match." })); return; }
+    var groups = [], by = {};
+    shown.forEach(function (g) {
+      var L = (g.term.charAt(0) || "#").toUpperCase(); if (!/[A-Z]/.test(L)) L = "#";
+      if (!by[L]) { by[L] = { letter: L, items: [] }; groups.push(by[L]); }
+      by[L].items.push(g);
+    });
+    if (flat) groups = [{ letter: "", items: shown }];
+    var az = h("div", { class: "gl-az", role: "navigation", "aria-label": "Jump to letter" });
+    if (!flat) list.appendChild(az);
+    groups.forEach(function (grp) {
+      var head = h("h3", { class: "gl-letter", text: grp.letter }), grid = h("div", { class: "gl-grid" });
+      var jump = h("button", { type: "button", text: grp.letter, "aria-label": "Jump to " + grp.letter });
+      jump.addEventListener("click", function () { head.scrollIntoView({ block: "start", behavior: "smooth" }); });
+      az.appendChild(jump);
+      grp.items.forEach(function (g) {
+        var card = h("article", { class: "gl-card" });
+        card.appendChild(glossMark(h("h4", { class: "gl-term" }), g.term, q));
+        card.appendChild(glossMark(h("p", { class: "gl-def" }), g.def, q));
+        var refs = h("div", { class: "gl-refs" }), SHOW = 2, rl = g.refs.filter(function (r) { return !(exclude && r.key === exclude); });
+        rl.forEach(function (r, i) {
+          var label = inCourse ? (r.mod || r.lib) : (r.mod ? r.lib + " · " + r.mod : r.lib);
+          if (exclude) label = "Also in " + label;
+          var chip;
+          if (r.key) { chip = h("button", { class: "gl-chip", type: "button", title: r.title, text: label }); chip.addEventListener("click", function () { window.LOA_openModule(r.key); }); }
+          else chip = h("span", { class: "gl-chip plain", title: r.title, text: label });
+          if (i >= SHOW) chip.hidden = true;
+          refs.appendChild(chip);
+        });
+        if (rl.length > SHOW) {
+          var more = h("button", { class: "gl-chip gl-more", type: "button", text: "+" + (rl.length - SHOW) + " more" });
+          more.addEventListener("click", function () { Array.prototype.forEach.call(refs.children, function (c) { c.hidden = false; }); more.hidden = true; });
+          refs.appendChild(more);
+        }
+        if (rl.length) card.appendChild(refs);
+        grid.appendChild(card);
+      });
+      if (!flat) list.appendChild(head);
+      list.appendChild(grid);
+    });
+  }
+  var glossCourse = [];
+  /* The glossary entries that belong to one module: its own key-terms blocks and any course glossary entry tied to it. */
+  function glossForModule(key) {
+    var all = (cur && glossCourse.length) ? glossCourse : buildGlossary();
+    return all.filter(function (g) { return g.refs.some(function (r) { return r.key === key; }); });
+  }
+  function renderCourseGlossary() {
+    glossCourse = buildGlossary();
+    $("course-glossary").hidden = !glossCourse.length;
+    $("cgloss-count").textContent = glossCourse.length + " terms";
+    if ($("cgloss-dd").open) renderGlossList(glossCourse, $("cgloss-list"), $("cgloss-q"));
+  }
+  $("cgloss-dd").addEventListener("toggle", function () { if (this.open) renderGlossList(glossCourse, $("cgloss-list"), $("cgloss-q")); });
+  $("cgloss-q").addEventListener("input", function () { if ($("cgloss-dd").open) renderGlossList(glossCourse, $("cgloss-list"), $("cgloss-q")); });
   function renderFaq(box, items) {
     box.textContent = "";
     if (!items || !items.length) { box.hidden = true; return; }
@@ -3009,6 +3343,7 @@ details.hist > summary .mono { font-size: 0.8rem; color: var(--muted); font-weig
   function renderAll() {
     if (!cur) { renderHome(); return; }
     renderTop(); renderLedger(); renderSeries(); renderSyllabus(); renderLecturers(); renderModules(); renderLibs(); renderRes(); renderReview(); renderModuleView();
+    renderCourseGlossary();
     renderFaq($("course-faq"), ((window.COURSE_FAQ || {})[cur] || []).concat((window.COURSE_FAQ || {}).library || []));
     renderSourcesRead();
     $("stamp").textContent = "Archive data updated " + fmtDate(A.updated) + ". " + local.length + " entries stored in this browser.";

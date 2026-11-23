@@ -1,0 +1,56 @@
+"""Teaching blocks from UNESCO vol VI ch 23 (Ly-Tall, Massina and the Torodbe (Tukuloor) empire until 1878), read in full 22/11/2026. Module 4 lesson l7."""
+import json, sys
+from pathlib import Path
+HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE.parents[2] / "_template"))
+import author as A  # noqa: E402
+L = "{{gha6-lytall}}"
+out = {}
+
+out["section"] = [
+    A.h("Hamdallahi, al-Hajj Umar and the Tukuloor empire"),
+    A.p("Ly-Tall's chapter in UNESCO's volume VI starts from the Fulbe herders of the inland Niger delta. Under Da Monzon of Segu (1808 to 1827) the exactions on their camps grew, while the successes of Futa Jallon, Futa Toro and Sokoto showed what reform could do. Between 1815 and 1818 several marabouts preached holy war, and Seku Ahmadu, born about 1773, pledged allegiance to Usman dan Fodio in 1816 and received a flag and the title of shaykh. His revolt broke out in 1818. " + L + " [PROBABLE]"),
+    A.p("Jenne's marabouts fell after a siege in 1819, and Seku Ahmadu moved to a new capital, Hamdallahi, about 1820, in a walled town with four gates and some eighteen districts. He took Timbuktu in 1826 and ruled twenty-seven years, until his death on 19 March 1845, which is 1818 to 1845 (our arithmetic). Ly-Tall adds that he used the Ta'rikh al-Fattash to present himself as the twelfth caliph predicted to Askiya Muhammad, which is a charge about his use of a source and is [CONTESTED]. " + L),
+    A.p("The dina, his Muslim state, was run under Islamic law with a council of forty learned men, five military provinces and strict public order. He built farming and herding villages to settle the Fulbe, and Ly-Tall counts this as his chief achievement. The strictness did not suit everyone: a story told by Ba and Daget has him serve a mixed dish of frogs, fish and mutton to marabouts who proposed abolishing castes, to show that mixing castes disgusted him too. It is an anecdote recorded much later and so [THIN EVIDENCE]. " + L),
+    A.p("After the peaceful reign of his son Ahmadu Seku (1845 to 1853), the succession was fought over. Balobbo, a military leader who lacked learning, backed the young Ahmadu Ahmadu, and the more learned Abdulaye Seku besieged Hamdallahi. Massina split into hostile camps, and a prisoner said he preferred any punishment to being ruled by 'the baby'. Ly-Tall's judgement is that a state weakened this way could not resist al-Hajj Umar. " + L + " [PROBABLE]"),
+    A.p("Al-Hajj Umar Saidu was born about 1796 at Halwar in Futa Toro. He joined the Tijaniyya, left Futa in 1826, spent three years in the Holy Places and, by the dates historians at Zaria accept, lived at Sokoto from 1830 to 1838. He came home in 1847 and set up at Dinguiraye, took the fortress of Tamba in 1852, and wrote the Rimah, a work still central to Tijani readers. His jihad took Kaarta (Nioro, 11 April 1855), then Segu on 9 March 1861 and Hamdallahi in May 1862. " + L + " [PROBABLE]"),
+    A.call("warn", "Ly-Tall's chapter has dating slips. It says Umar left Nioro on 12 September 1859 for Segu, yet gives 9 September 1859 for the fall of Woitala, which is a stage on the way. It puts the Sansanding stand-off in October 1860 and its end in 'February 1860', and dates the Segu entry on 9 March 1861. Check any date against the order of events before you repeat it. " + L),
+    A.p("The French were an enemy but not the aim. Umar's siege of Medina in the spring of 1857 was relieved on 18 July by Governor Faidherbe, and fights followed at Matam and other places. Ly-Tall says the fight against the French was not his primary task, and adds that in West Africa 'it was the French who were the aggressors', a position he states in a note. His own disciples explained the Medina defeat by indiscipline among the talibs, and Ly-Tall doubts such accounts. " + L + " [CONTESTED]"),
+    A.p("The army had four battalions built round Futa contingents, with a Hausa guard, trade rifles and blacksmiths who made shot. Two mountain guns captured in 1858 and repaired helped at Merkoia and Segu. Booty was divided into five parts, one to the state and four to the fighters. His following reached at least 40000 in 1859, a figure Ly-Tall says 'not to be taken literally' since it counted civilians. Converts were offered Islam first, then fought if they refused. " + L + " [PROBABLE]"),
+    A.p("The empire was less a state than a chain of fortified places, such as Dinguiraye, Nioro, Koniakary and Segu, each with a religious head and a military governor. The French officer Eugene Mage, who visited in 1863 to 1866, found order and, in places, plenty, though he also described villages ruined by revolt. Mage, the disciples' texts and Ba and Daget's oral accounts all serve different purposes, and Ly-Tall draws on each. " + L + " [PROBABLE]"),
+    A.p("After Umar died at Degembere on 14 February 1864, his son Ahmadu held Segu while his nephew Tijani Alfa took Massina. Sansanding rose in 1863, and from 1866 to 1869 Ahmadu faced revolt. In late 1869 a Moroccan sharif gave him the title commander of the faithful, and in 1874 he was at his height. The French move against Logo in 1878 halted the process. Ly-Tall's final claim, that the Torodbe policy of cooperation left the former Soudan with few ethnic rivalries, is an opinion. " + L + " [CONTESTED]"),
+    A.ex(
+        "Worked example: reading Umar's years of travel (our arithmetic)",
+        "Ly-Tall says Umar left Futa in 1826 and came back in 1847, and that the wars with Massina ran from the battle of Kasakary in August 1856 to 1864.",
+        "From 1826 to 1847 is 21 years, close to the 'twenty years of travelling' the chapter names. From 1856 to 1864 is 8 years of war with Massina.",
+        "The chapter gives these as approximate. Where it gives a more exact date, such as 14 February 1864 for his death, check it against another source."
+    ),
+]
+out["checks"] = [
+    A.case_chk5(
+        "A textbook says: 'Al-Hajj Umar's jihad was a war against the French in Senegal.'",
+        "How does Ly-Tall's chapter qualify that?",
+        "France was one foe among several",
+        [
+            "It is exact, because every campaign of the jihad was aimed at Saint-Louis",
+            "It is exact, because Umar never fought Kaarta, Segu or the Massina state",
+            "It is wrong, because Umar had no clash with the French at Medina in 1857",
+            "It is wrong, because the French were allies of Umar until the death of Ahmadu",
+        ],
+        "He says the fight against the French was not Umar's primary task, and the main campaigns were against Kaarta, Segu and Massina, though he fought the French hard at Medina and elsewhere. " + L,
+    ),
+    A.case_chk5(
+        "A website repeats the story that Seku Ahmadu served marabouts a dish of mixed meats to end a debate on abolishing castes, as proof he opposed equality.",
+        "How should a careful student treat the story?",
+        "As a later anecdote that needs a firmer source",
+        [
+            "As proof, because Ba and Daget witnessed the dinner themselves",
+            "As a lie, because the dina's council never discussed castes at all",
+            "As a Bambara tale, because Segu's court recorded it in 1820",
+            "As a legal ruling, because the Ku'ran forbids mixed meats absolutely",
+        ],
+        "Ly-Tall quotes Ba and Daget, who recorded traditions much later; the anecdote illustrates his attitude but is not a contemporary record. " + L,
+    ),
+]
+(HERE / "gha6_lytall_blocks_2026-11-22.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+print("ok", {k: len(v) for k, v in out.items()})

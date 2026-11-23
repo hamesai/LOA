@@ -77,6 +77,16 @@ window.LOA_META_FILES = {
   "sales-basics",
   "vintage-reselling"
  ],
+ "glossary": [
+  "africa-post-colonial",
+  "africa-pre-colonial",
+  "camping-basics",
+  "cinematography",
+  "directing",
+  "greenhouse-year",
+  "grid-down-food",
+  "personal-training"
+ ],
  "dossiers": [
   "africa-post-colonial",
   "africa-pre-colonial",

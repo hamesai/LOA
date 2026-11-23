@@ -1,0 +1,57 @@
+{
+ "key": "general-history-of-africa-vi",
+ "title": "General history of Africa, VI: Africa in the nineteenth century until the 1880s; 1997",
+ "author": "Ajayi, J.F. Ade; International Scientific Committee for the Drafting of a General History of Africa; Ajayi; J.F. Ade; International Scientific Committee for the Drafting of a General History of Africa",
+ "file": "184295engo.pdf",
+ "format": "pdf",
+ "sha256": "a30828c330df78eccb96cd9e883ae0d9986b6d1813126c4cd014932e3290d0d0",
+ "words": 378285,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Front matter",
+   "words": 378,
+   "pages": [
+    1,
+    5
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Contents",
+   "words": 659,
+   "pages": [
+    6,
+    10
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "List of figures",
+   "words": 285,
+   "pages": [
+    11,
+    11
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "List of plates",
+   "words": 376963,
+   "pages": [
+    12,
+    887
+   ]
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-11-23",
+  "source_file": "184295engo.pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.359,
+  "odd_character_share": 0.003
+ }
+}

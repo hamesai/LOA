@@ -1,0 +1,66 @@
+{
+ "key": "general-history-of-africa-i",
+ "title": "General history of Africa, I: Methodology and African prehistory; 1985",
+ "author": "Ki-Zerbo, Joseph; International Scientific Committee for the Drafting of a General History of Africa; Ki-Zerbo; Joseph; International Scientific Committee for the Drafting of a General History of Africa",
+ "file": "042225engo.pdf",
+ "format": "pdf",
+ "sha256": "079a1b068fa1c4fe0d629f0875591ac1c33c6071f9cce86f0613325b1cabfadd",
+ "words": 360153,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Front matter",
+   "words": 296,
+   "pages": [
+    1,
+    5
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Contents",
+   "words": 477,
+   "pages": [
+    6,
+    8
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "List of figures",
+   "words": 627,
+   "pages": [
+    9,
+    10
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "List of plates",
+   "words": 1284,
+   "pages": [
+    11,
+    14
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "List of tables",
+   "words": 357469,
+   "pages": [
+    15,
+    840
+   ]
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-11-23",
+  "source_file": "042225engo.pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.366,
+  "odd_character_share": 0.001
+ }
+}

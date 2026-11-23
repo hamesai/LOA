@@ -206,5 +206,85 @@
   "match": "Resold in the West Indies to a Quaker merchant",
   "reason": "The deed in Equiano's text is dated 'this tenth day of July' 1766 and registered the next day; the lesson prints it as 10/07/1766 in the course's DD/MM/YYYY format. Read by hand 22/11/2026.",
   "checked": "22/11/2026"
+ },
+ {
+  "key": "gha6-isaacman",
+  "kind": "number",
+  "item": "1821",
+  "match": "Soshangane moved up to the Delagoa Bay region",
+  "reason": "The chapter prints the year with OCR spacing, 'by 182 1', on volume p. 200 (ch-009.txt); read by hand on 22/11/2026.",
+  "checked": "22/11/2026"
+ },
+ {
+  "key": "gha6-vellut",
+  "kind": "number",
+  "item": "1220000",
+  "match": "The figures are weak.",
+  "reason": "The chapter prints the figure with a thin space, '1 220000', in note 2 on volume p. 298 (ch-013.txt); read by hand on 22/11/2026.",
+  "checked": "22/11/2026"
+ },
+ {
+  "key": "gha6-ibrahim",
+  "kind": "number",
+  "item": "20000",
+  "match": "Sudanese scholars working from archives",
+  "reason": "The chapter writes the figure in words, 'twenty or thirty thousand Sudanese Africans', on volume p. 359 (ch-015.txt); read by hand on 22/11/2026.",
+  "checked": "22/11/2026"
+ },
+ {
+  "key": "gha9-kiriama",
+  "kind": "number",
+  "item": "600",
+  "match": "Kiriama adds a living source",
+  "reason": "The chapter prints 'more than 600 years ago' split across a page break between volume pp. 282 and 283 (ch-035.txt); read by hand on 23/11/2026.",
+  "checked": "23/11/2026"
+ },
+ {
+  "key": "gha9-kiriama",
+  "kind": "number",
+  "item": "600",
+  "match": "The elders' lineages of the Kaya founders",
+  "reason": "The chapter prints 'more than 600 years ago' split across a page break between volume pp. 282 and 283 (ch-035.txt); read by hand on 23/11/2026.",
+  "checked": "23/11/2026"
+ },
+ {
+  "key": "gha9-blench",
+  "kind": "number",
+  "item": "1537",
+  "match": "Blench's chapter in volume IX shows how Greenberg",
+  "reason": "The figure is in Table 1 of the chapter on volume p. 532 (ch-067.txt), which the verifier does not read as part of ch-066.txt; checked by hand on 23/11/2026.",
+  "checked": "23/11/2026"
+ },
+ {
+  "key": "gha9-blench",
+  "kind": "number",
+  "item": "206",
+  "match": "Blench's chapter in volume IX shows how Greenberg",
+  "reason": "The figure is in Table 1 of the chapter on volume p. 532 (ch-067.txt), which the verifier does not read as part of ch-066.txt; checked by hand on 23/11/2026.",
+  "checked": "23/11/2026"
+ },
+ {
+  "key": "gha9-blench",
+  "kind": "number",
+  "item": "318",
+  "match": "Blench's chapter in volume IX shows how Greenberg",
+  "reason": "The figure is in Table 1 of the chapter on volume p. 532 (ch-067.txt), which the verifier does not read as part of ch-066.txt; checked by hand on 23/11/2026.",
+  "checked": "23/11/2026"
+ },
+ {
+  "key": "gha3-ch9",
+  "kind": "names",
+  "item": "uqba",
+  "match": "Sidi Uqba",
+  "reason": "the chapter spells the name 'Ukba with a leading apostrophe (' U k b a); the name is the same person, checked by hand",
+  "checked": "23/11/2026"
+ },
+ {
+  "key": "gha3-ch9",
+  "kind": "names",
+  "item": "sidi",
+  "match": "Sidi Uqba",
+  "reason": "the chapter writes the honorific as Sidi 'Ukba; checked by hand",
+  "checked": "23/11/2026"
  }
 ]

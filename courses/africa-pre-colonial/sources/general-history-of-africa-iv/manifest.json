@@ -1,0 +1,57 @@
+{
+ "key": "general-history-of-africa-iv",
+ "title": "General history of Africa, IV: Africa from the twelfth to the sixteenth century; 1989",
+ "author": "Niane, Djibril Tamsir; International Scientific Committee for the Drafting of a General History of Africa; Niane; Djibril Tamsir; International Scientific Committee for the Drafting of a General History of Africa",
+ "file": "184287engo.pdf",
+ "format": "pdf",
+ "sha256": "3f8708831ca6e9a766e4c311bf9c2cc6dcaf5b24f1ffd9c2b112cefb35513447",
+ "words": 319952,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Front matter",
+   "words": 446,
+   "pages": [
+    1,
+    6
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Contents",
+   "words": 247,
+   "pages": [
+    7,
+    8
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "List of figures",
+   "words": 624,
+   "pages": [
+    9,
+    10
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "List of plates",
+   "words": 318635,
+   "pages": [
+    11,
+    774
+   ]
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-11-23",
+  "source_file": "184287engo.pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.364,
+  "odd_character_share": 0.002
+ }
+}

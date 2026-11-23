@@ -1,0 +1,147 @@
+{
+ "key": "vansina-oral",
+ "title": "Jan Vansina, Oral Tradition as History (1985)",
+ "author": "Vansina, Jan(Author)",
+ "file": "Oral Tradition As History (Jan Vanisa) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+ "format": "pdf",
+ "sha256": "058e0799a4b2f8fc3da0c6131ea50027e7a7172f92d43b0db1c10a940baccc1e",
+ "words": 93380,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Front matter",
+   "words": 102,
+   "pages": [
+    1,
+    5
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "Contents",
+   "words": 688,
+   "pages": [
+    6,
+    11
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "Preface",
+   "words": 1260,
+   "pages": [
+    12,
+    15
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "Acknowledgments",
+   "words": 465,
+   "pages": [
+    16,
+    19
+   ]
+  },
+  {
+   "file": "ch-005.txt",
+   "title": "1. Oral Tradition as Process",
+   "words": 11089,
+   "pages": [
+    20,
+    49
+   ]
+  },
+  {
+   "file": "ch-006.txt",
+   "title": "2. Performance, Tradition, and Text",
+   "words": 12800,
+   "pages": [
+    50,
+    84
+   ]
+  },
+  {
+   "file": "ch-007.txt",
+   "title": "3. Getting the Message",
+   "words": 9767,
+   "pages": [
+    85,
+    110
+   ]
+  },
+  {
+   "file": "ch-008.txt",
+   "title": "4. The Message is a Social Product",
+   "words": 11235,
+   "pages": [
+    111,
+    140
+   ]
+  },
+  {
+   "file": "ch-009.txt",
+   "title": "5. The Message Expresses Culture",
+   "words": 8698,
+   "pages": [
+    141,
+    163
+   ]
+  },
+  {
+   "file": "ch-010.txt",
+   "title": "6. Tradition as Information Remembered",
+   "words": 14523,
+   "pages": [
+    164,
+    202
+   ]
+  },
+  {
+   "file": "ch-011.txt",
+   "title": "7. Oral Tradition Assessed",
+   "words": 5854,
+   "pages": [
+    203,
+    221
+   ]
+  },
+  {
+   "file": "ch-012.txt",
+   "title": "Notes",
+   "words": 8216,
+   "pages": [
+    222,
+    244
+   ]
+  },
+  {
+   "file": "ch-013.txt",
+   "title": "Bibliography",
+   "words": 5161,
+   "pages": [
+    245,
+    261
+   ]
+  },
+  {
+   "file": "ch-014.txt",
+   "title": "Index",
+   "words": 3522,
+   "pages": [
+    262,
+    273
+   ]
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-11-23",
+  "source_file": "Oral Tradition As History (Jan Vanisa) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.379,
+  "odd_character_share": 0.001
+ }
+}

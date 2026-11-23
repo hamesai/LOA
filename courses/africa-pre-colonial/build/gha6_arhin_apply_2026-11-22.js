@@ -1,0 +1,21 @@
+/* Applies UNESCO vol VI ch 25 (Arhin and Ki-Zerbo) to module 5 lesson l4 and module 4 lesson l4 and adds its ref. Refuses to run twice. */
+const fs = require("fs"), path = require("path");
+const P = require("../../../_template/course_patch.js");
+const B = JSON.parse(fs.readFileSync(path.join(__dirname, "gha6_arhin_blocks_2026-11-22.json"), "utf8"));
+const m5 = P.load("africa-pre-colonial", "africa-pre-colonial-5");
+if (JSON.stringify(m5.obj).includes("gha6-arhin")) throw new Error("already applied");
+P.insertAfter(m5, "l4", "Wars with Britain include 1824", B.m5_section);
+P.insertAfter(m5, "l4", "A family tradition places its founding ancestor", B.m5_checks);
+P.save(m5);
+const m4 = P.load("africa-pre-colonial", "africa-pre-colonial-4");
+P.insertAfter(m4, "l4", "Dagomba was forced by Asante in 1744", B.m4_section);
+P.insertAfter(m4, "l4", "A colonial-era book says the Bambara could not found kingdoms", B.m4_checks);
+P.save(m4);
+const rp = path.join(__dirname, "..", "course-africa-pre-colonial-refs.js");
+let t = fs.readFileSync(rp, "utf8");
+const VOL = "General History of Africa, vol. VI: Africa in the Nineteenth Century until the 1880s, ed. J. F. A. Ajayi (UNESCO, 1989)";
+const add = '  "gha6-arhin": ' + JSON.stringify({ t: "K. Arhin and J. Ki-Zerbo, Chapter 25, States and peoples of the Niger Bend and the Volta, in " + VOL + "; read in full 22/11/2026", s: "UNESCO", u: "https://unesdoc.unesco.org/ark:/48223/pf0000184295", b: "gha-vi", p: "Chapter 25 (ch-026.txt)", d: "22/11/2026" }) + ",\n";
+const a = t.indexOf('  "gha6-person"'); if (a < 0) throw new Error("anchor");
+const eol = t.indexOf("\n", a) + 1;
+fs.writeFileSync(rp, t.slice(0, eol) + add + t.slice(eol), "utf8");
+console.log("applied");

@@ -168,7 +168,7 @@ def open_course(cid):
     print("opened", url)
 
 
-META_KINDS = ["about", "deepnotes", "lecturer-notes", "lecturer-intro", "lecturers", "faqs", "dossiers", "oversight"]
+META_KINDS = ["about", "deepnotes", "lecturer-notes", "lecturer-intro", "lecturers", "faqs", "glossary", "dossiers", "oversight"]
 
 
 def meta():

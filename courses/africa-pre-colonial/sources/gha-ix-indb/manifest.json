@@ -1,0 +1,57 @@
+{
+ "key": "gha-ix-indb",
+ "title": "GHA IX.indb",
+ "author": "",
+ "file": "396045eng.pdf",
+ "format": "pdf",
+ "sha256": "20368656039351358574569e0ce9d6ce0673a72dcafad3b07da8e0227f3882de",
+ "words": 397066,
+ "chapters": [
+  {
+   "file": "ch-001.txt",
+   "title": "Front matter",
+   "words": 140996,
+   "pages": [
+    1,
+    373
+   ]
+  },
+  {
+   "file": "ch-002.txt",
+   "title": "CHAPTER 1 331 Methodology and African Prehistory: General History of Africa Volume I",
+   "words": 59978,
+   "pages": [
+    374,
+    519
+   ]
+  },
+  {
+   "file": "ch-003.txt",
+   "title": "CHAPTER 1 483 Paleoclimatic and Paleoenvironmental Research in Africa",
+   "words": 139769,
+   "pages": [
+    520,
+    913
+   ]
+  },
+  {
+   "file": "ch-004.txt",
+   "title": "CHAPTER 1 889 Population Growth in the Inner Niger Delta (Mali) Prior to the Formation of ",
+   "words": 56323,
+   "pages": [
+    914,
+    1060
+   ]
+  }
+ ],
+ "warnings": [],
+ "provenance": {
+  "added": "2026-11-23",
+  "source_file": "396045eng.pdf",
+  "found_by": "unknown"
+ },
+ "text_quality": {
+  "common_word_share": 0.327,
+  "odd_character_share": 0.01
+ }
+}

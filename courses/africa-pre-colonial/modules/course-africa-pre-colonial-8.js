@@ -19,6 +19,10 @@
      "x": "From the 15th century, African states and merchants entered the Atlantic economy as sellers, buyers and rulers. The trans-Atlantic slave trade ran beside the older trans-Saharan and Indian Ocean slave trades. {{sv-essay}}"
     },
     {
+     "t": "p",
+     "x": "Carthaginian Atlantic trade was earlier: Himilco explored the Atlantic coast of Spain and France towards Brittany to control tin, but no Phoenician object has been found in Britain or Brittany, so tin probably came through local intermediaries. {{gha2-ch18}}"
+    },
+    {
      "t": "fig",
      "id": "africa-pre-colonial-tl8",
      "title": "Atlantic world timeline",
@@ -145,6 +149,10 @@
     {
      "t": "p",
      "x": "The Trans-Atlantic Slave Trade Database, called Voyages, estimates about 12.5 million people embarked between 1501 and 1866. The estimates page lists 12,521,354 embarked. {{sv-est}} Its overview essay gives about 10.7 million who arrived in the Americas. {{sv-essay}}"
+    },
+    {
+     "t": "p",
+     "x": "Numbers on the slave trade are contested. Mauny estimated about 20,000 black slaves a year exported to the Muslim world, and Lewicki about 12 to 16 million through Cairo in the sixteenth century alone; the volume calls both estimates exaggerated, and gives three reasons: the Muslim economy could not absorb them, desert transport made slaves costly, and the main sources were Slavs and Turkestan, with the Sudan third. {{gha3-ch27}}"
     },
     {
      "t": "table",
@@ -322,6 +330,10 @@
      "x": "States such as Dahomey, Asante, Oyo and the Aro, and coastal merchant houses, organised and profited from the trade, while others, like Kongo, protested and were hollowed out (see Modules 5 and 6). African resistance included flight, shipboard revolt and political refusal. {{brit-dahomey}} {{gha5-lower}} {{wiki-aro}} {{gilder-afonso}} {{remembrance-revolts}}"
     },
     {
+     "t": "p",
+     "x": "Slaves in Muslim societies were mostly domestic (eunuchs, concubines, wet nurses, cooks), and their children became full members of Muslim society; Isa ibn Yazid, supposed founder of Sijilmasa, and Abu Yazid, born at Gao of a black mother, show that such children could rise to leadership. {{gha3-ch27}} A recent version of the Sundiata legend suggests that Malinke princes' slaving expeditions with Soninke traders stimulated the Mali empire; the chapter presents this as one possible stimulus. {{gha3-ch27}}"
+    },
+    {
      "t": "h",
      "x": "Who sold?"
     },
@@ -360,6 +372,28 @@
     {
      "t": "p",
      "x": "Slavery inside the Sahel existed long before the Atlantic trade: Songhai slave estates were worked by communities under overseers and paid rent in kind, and Hausa slaves ranged from captured bayi to second-generation cucenawa. {{gha4-songhay}} {{gha4-hausa}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Volume IX contains two chapters that disagree about slavery inside Africa. Henriques argues for south-central Africa that most dependants were integrated through kinship, marriage and debt pawnship, that they could change masters, and that 'modern slavery, in which men lose their human qualities to become simple commodities' was created by Arab and European intervention. {{gha9-henriques}} She also reports that a traveller in the mid-1800s said a third to a half of the people of the Bie plateau in Angola were enslaved. {{gha9-henriques}} Ciss, writing on Senegambia, quotes historians who disagree: Grenouilleu stresses internal origins of slavery and warrior elites, while Niane says it is an exaggeration to root slavery in African culture. {{gha9-ciss}} He describes aristocratic raids, such as the Tieddo attacks at harvest time, and refuge strategies of the Serer, the Bassari and others. {{gha9-ciss}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Ciss adds that Islamic reform movements did not end domestic slavery: the theocracies of Boundou, Fouta Toro and Fouta Jalon institutionalised it, and in Fouta Toro opposition from provincial dignitaries to abolition helped defeat Abdel Kader. {{gha9-ciss}} Read the two chapters side by side, because 'gentle' kin-based dependence and elite raiding existed together in different places and periods. [PROBABLE]"
+    },
+    {
+     "t": "check",
+     "q": "Two chapters in one UNESCO volume describe African slavery very differently. What is the best reading?",
+     "o": [
+      "One chapter must be wrong; delete it",
+      "Both real; test by region and period",
+      "Slavery did not exist before Europeans came",
+      "Only the chapter by the older author counts",
+      "Slavery was identical everywhere"
+     ],
+     "a": 1,
+     "w": "Henriques stresses integration and Ciss stresses raiding and elite enslavement, so the sources point to different regional and period patterns that have to be tested separately. {{gha9-ciss}}",
+     "kind": "application"
     },
     {
      "t": "p",
@@ -725,6 +759,133 @@
      "x": "The main UNESCO chapter on the diaspora has slips: it gives the 1518 asiento to 'Charles I of Portugal' (Charles I was king of Spain) and compresses the Haitian war into five years. Check a person and date against a second source before repeating them. {{gha5-diaspora}}"
     },
     {
+     "t": "h",
+     "x": "The diaspora in volume VI: numbers, populations and return"
+    },
+    {
+     "t": "p",
+     "x": "Knight's chapter in UNESCO's volume VI, with Talib on Asia and Curtin on Europe, treats the diaspora in three arenas. The eastern one, into the Middle East and Asia, is the oldest and, he writes, fed in 'probably not exceeding several hundreds per year' to the Mediterranean world, where plantations were few. Africans served as soldiers, eunuchs and rulers, as did Abu'l-Misk Kafur of Egypt (died 968), and some 5000 African soldiers served Sultan Bahadur of Gujarat in the 1520s and 1530s. {{gha6-knight}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "In the nineteenth century East Africa was the main source for Asia, with Muscat the greatest clearing house for the Gulf, Persia, Iraq and India. Ethiopian children aged 8 to 16 were shipped from Red Sea ports to Jeddah and Mocha, and Malagasy 'Kafirs' were taken to Bombay, Madras and Sumatra. West African pilgrims to Mecca, sometimes selling a slave along the way, formed small communities of poor porters and sweepers. {{gha6-knight}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Knight denies that Africans were widely assimilated in Asia. He cites traits of a 'closed mode of slavery', and groups such as the Akhdam of south-western Arabia who did work seen as polluting. A traveller of the period, Doughty, described slaves as adopted and content, which Knight calls a propaganda line against records of cruelty, escape and revolt. Weigh such accounts by who wrote them. {{gha6-knight}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Volume IX adds China. The Tang annals record a Zanj girl offered as tribute from Srivijaya in 724, and further gifts of Zanj children in 813 and 818, with a black slave received by the Song court in 976. Africans worked as gatekeepers and caulkers in Guangzhou, brought by Arab and Indonesian intermediaries, and Ibn Battuta reached Guangzhou in 1345. Holl notes much more research is needed. {{gha9-holl}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "The chapter on Afro-China relations before 1500 adds material evidence for the Indian Ocean trade. Song-dynasty coins have been found at Mafia, Mogadishu, Gedi, Kilwa and Zanzibar, and blue and white porcelain appears in East Africa from the fourteenth century. {{gha9-li}} Li also says Chinese records note envoys from Mogadishu, Pate, Malindi and Zanzibar in 1285, 1286 and 1300, but he gives four places and three dates, so do not match each date to a place. {{gha9-li}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "The review section of volume IX also drops Wallerstein's thesis, repeated in volume VI, that Africa stood outside the global economy before Europeans arrived, because recent work shows East Africa and Zanzibar belonged to an Indian Ocean system that reached Indonesia, China, India and Arabia. {{gha9-holl2}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Li's account of Zheng He's seventh voyage has the fleet at 100 ships, including 61 treasure ships, against three ships for Columbus and four for da Gama. {{gha9-li}} The same chapter repeats a story that Africans at Mozambique told da Gama in 1498 that white men in similar ships had come before, and Li concludes only that a Chinese fleet 'may' have arrived earlier. {{gha9-li}} Treat that as a possibility from one retold report, not as a result. [THIN EVIDENCE]"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Not every claim in the chapter carries equal weight. Li also cites studies that read skulls and figures from the Shang capital Anyang as showing an African presence in China in the seventeenth to eleventh century BCE, and says the origins of the Black figures in Han and Tang China are disputed, with 'multiple origins' the more reasonable view. {{gha9-li}} Coins, porcelain and dated records are firm evidence; the Shang reading is [CONTESTED]."
+    },
+    {
+     "t": "check",
+     "q": "A museum label says a Chinese fleet reached Mozambique before da Gama, citing Africans who told da Gama that white men had come before. What is the best reading of that evidence?",
+     "o": [
+      "It proves the Chinese fleet landed there first",
+      "A possibility to test against finds",
+      "It shows Africans never traded with Asia before 1498",
+      "It is settled because volume IX prints it",
+      "It matters only for the Atlantic coast"
+     ],
+     "a": 1,
+     "w": "Li only says a Chinese fleet 'may' have arrived earlier, from a story retold about da Gama, so it is a possibility to test against archaeology, not a result. {{gha9-li}}",
+     "kind": "application"
+    },
+    {
+     "t": "p",
+     "x": "In Europe, Seville had about 5000 black people in the early sixteenth century, and by the late eighteenth century France had about 2000 and England nearly 15000. France banned mixed marriages in 1777, and Lord Mansfield ruled in 1772 that an African could not be enslaved in England. Curtin adds that before the 1840s far more people of tropical African descent lived in Europe than Europeans in tropical Africa. The community was overwhelmingly male, so it had to be replenished from overseas. {{gha6-knight}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "In the Americas Knight puts the Afro-American population at about 8.5 million around 1800, of whom more than 2 million, nearly 25 per cent, lived in the USA. About 2 million lived in the Antilles in 1810, Brazil had 2.5 million and Haiti about 450000. Its main argument is that populations did not track imports: slave numbers in Latin America and the Caribbean fell by 2 to 4 per cent a year, and the USA was the exception. {{gha6-knight}} [PROBABLE]"
+    },
+    {
+     "t": "table",
+     "title": "Slave imports, 1700 to 1810, as given in Knight's Table 28.1",
+     "head": [
+      "Region",
+      "Share of all Africans",
+      "Approximate number"
+     ],
+     "rows": [
+      [
+       "Brazil",
+       "31.3 per cent",
+       "1800000"
+      ],
+      [
+       "British Caribbean",
+       "23.2 per cent",
+       "1400000"
+      ],
+      [
+       "French Antilles",
+       "22.3 per cent",
+       "1300000"
+      ],
+      [
+       "Spanish America",
+       "9.6 per cent",
+       "600000"
+      ],
+      [
+       "Dutch and Danish Antilles",
+       "8.0 per cent in the table",
+       "450000"
+      ],
+      [
+       "British North America (USA)",
+       "5.8 per cent",
+       "350000"
+      ]
+     ],
+     "src": "{{gha6-knight}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "The chapter contradicts itself in places. Its text gives the Dutch and Danish Antilles 5.8 per cent while the table says 8.0, and 450000 of a total of 5900000 is about 7.6 per cent (our arithmetic). It says the Caribbean took 36 per cent of the whole trade in one place and 43 per cent in another, and it gives 3 million Afro-Americans in the Caribbean in 1886 in the text but 2.2 million in the table. Module 8 also gives Paul Cuffee's voyage as 1814, whereas Knight says repatriation began 'after 1815'. Check any figure in a second source. {{gha6-knight}}"
+    },
+    {
+     "t": "example",
+     "title": "Worked example: imports against populations (our arithmetic)",
+     "steps": [
+      "Knight's Table 28.2: Brazil imported 4.0 million (38 per cent of the trade) and had 4.0 million Afro-Americans in 1890. The Caribbean imported 5.0 million (43 per cent) and had 2.2 million in 1886. The USA imported 0.5 million (4.5 per cent) and had 4.5 million in 1865.",
+      "The Caribbean's 1886 population was 2.2 divided by 5.0, or 44 per cent of its imports. The USA's 1865 population was 4.5 divided by 0.5, or nine times its imports. Brazil's was about equal.",
+      "The contrast shows why raw import totals mislead about the population that followed, and Knight blames the high death rate and low birth rate of plantation slavery in the Caribbean and Latin America."
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Knight describes a range of conditions: the USA's rigid black and white line, a three-tier order of black, mixed and white elsewhere, and more mobility in towns and in coffee and cattle areas than on sugar plantations. About 20 per cent of the enslaved worked as sailors, artisans, vendors and so on. Marronage was 'an eloquent and visible condemnation' of slavery, as at Palmares in Brazil, which lasted almost a century, and at Esmeraldas and in Jamaica. {{gha6-knight}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "He also lists achievements and reversals. Haiti's African cultural revival, and the Cuban wars of 1868 to 1898 that made Antonio Maceo and Maximo Gomez heroes, stand beside racial war in Cuba in 1912. Black colleges such as Virginia Union (1864), Atlanta and Fisk (1865), and Hampton and Howard (1867) were founded, and he credits inventors such as Norbert Rilleux, with the vacuum evaporation pan of 1846. These claims are attributed to him and each would need its own source. {{gha6-knight}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Return to Africa was small. Paul Cuffe took 38 settlers in 1815 or soon after, Liberia grew under the American Colonization Society from 1830, and by 1860 only about 15000 had gone, fewer than 2000 after the Civil War. Basel Mission recruits from Jamaica in 1843 were another stream. Knight says the descendants who returned numbered only a few thousand, and that the Pan-African Association of 1897 and Garvey's movement kept the link alive. {{gha6-knight}} [PROBABLE]"
+    },
+    {
      "t": "check",
      "q": "A student writes that the Somerset case of 1772 abolished slavery in England. What is the correction?",
      "o": [
@@ -750,6 +911,34 @@
      ],
      "a": 0,
      "w": "Maroon communities and treaties show organisation. {{gha5-diaspora}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "A student says the USA received most of the Africans carried across the Atlantic because it had the largest Afro-American population in 1865. How does Knight's Table 28.2 correct this?",
+     "o": [
+      "The USA took about 5 per cent but grew fastest",
+      "It is wrong, because the table shows the USA with no Afro-American population",
+      "It is right, because the table shows the USA importing nine million people",
+      "It is right, because the table shows the USA importing more than Brazil did",
+      "It is wrong, because the table shows Brazil's population far above its imports"
+     ],
+     "a": 0,
+     "w": "The table gives the USA 4.5 per cent of imports and about 4.5 million Afro-Americans in 1865, nine times its imports, unlike the Caribbean, where numbers fell. {{gha6-knight}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "An essay copies the Dutch and Danish share of the Atlantic trade as 5.8 per cent from Knight's text and then as 8.0 per cent from his table. What should the essay do?",
+     "o": [
+      "Use 5.8 per cent because text is always more reliable than a table",
+      "Average the two and write 6.9 per cent without further comment",
+      "Note the clash and test it by arithmetic",
+      "Use 8.0 per cent because a table can never contain a misprint",
+      "Drop the region because two figures from one author cannot be reconciled"
+     ],
+     "a": 2,
+     "w": "450000 of 5.9 million is about 7.6 per cent (our arithmetic), nearer the table, and the essay should say the chapter is inconsistent. {{gha6-knight}}",
      "kind": "application"
     },
     {
@@ -912,6 +1101,24 @@
      "x": "Historians in UNESCO's volume VI disagree about what drove African change before the 1880s. Set their readings side by side before you choose one. [CONTESTED]"
     },
     {
+     "t": "p",
+     "x": "The same review of volume VI challenges two of its premises. It calls Boahen's opening claim that the abolition of the slave trade was the most revolutionary change of the century controversial, since abolition touched little of Africa before the 1850s and the Atlantic trade stayed at a level comparable to the eighteenth century until then, while slavery within West Africa grew in the last third of the century. {{gha9-cqv}} It also says the often-repeated figure of 12 million people crossing the Sahara was questioned by a quantitative study that puts it at 6 or 7 million between the tenth and nineteenth centuries. {{gha9-cqv}} Keep both figures attributed. [CONTESTED]"
+    },
+    {
+     "t": "check",
+     "q": "A book says 12 million enslaved people crossed the Sahara. What does the review of volume VI add?",
+     "o": [
+      "That figure is now certain",
+      "A study says 6 or 7 million",
+      "The real figure is below one million",
+      "The Sahara carried no slave trade",
+      "Figures cannot be compared"
+     ],
+     "a": 1,
+     "w": "Coquery-Vidrovitch reports that a serious quantitative study questions the 12 million figure and brings it to 6 or 7 million between the tenth and nineteenth centuries. {{gha9-cqv}}",
+     "kind": "application"
+    },
+    {
      "t": "table",
      "title": "Three readings of Africa in the nineteenth century",
      "head": [
@@ -1041,6 +1248,75 @@
      ],
      "a": 2,
      "w": "Chamberlin's point, cited by Wallerstein, is that the changeover pre-dated and post-dated the British measure of 1807, and Boahen calls the term typically Eurocentric. {{gha6-wallerstein}}",
+     "kind": "application"
+    },
+    {
+     "t": "h",
+     "x": "Ajayi's conclusion: reform, guns and the legacy of wars"
+    },
+    {
+     "t": "p",
+     "x": "Ajayi's closing chapter of UNESCO's volume VI argues that the decade 1875 to 1885 ended a century in which African leaders were trying to strengthen their states, and that European activity 'systematically' undermined these efforts. He says historians who assumed colonialism and the world economy were conditions of modernisation have missed how far the century was an African effort at self-development. That is his thesis, and the whole volume does not agree on it. {{gha6-conclusion}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "He lists the reforms. Rulers centralised power, built officials dependent on themselves and kept standing forces, as in Asante, Dahomey and Buganda, while Benin was allowed only to contract. The Mfecane spread the northern Nguni model of the age-regiment army. Tewodros and Yohannes tried to revive an ancient empire, the khedives of Egypt to build a modern one, the jihad states to found Islamic theocracies, and Madagascar and the Fante to use literate officials and written law. Ajayi rejects reading all this as an 'African Scramble' that provoked the European one, since the search for stable structures was older. {{gha6-conclusion}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Armies changed. Before the middle of the century muskets made 'little difference', as disciplined cavalry or spearmen could rush musketeers before they reloaded. The major change was the professional warrior, often an entrepreneur with a private following, and the king as war leader on Shaka's model. By the 1870s breechloaders, repeaters and artillery were imported, and Europeans kept the Maxim gun to themselves. Ajayi argues that the decisive edge was guns, not generalship. {{gha6-conclusion}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Social change followed. Slaveholding rose in the third quarter of the century, with slave shares estimated at 25 to 50 per cent of the population in many parts, and in the Gold Coast a pawn system of 'hostages' for debt grew to rival slavery by the 1870s. Slaves rarely formed a distinct class. Old Calabar, where they were kept apart, was the exception. Ajayi sees tension in households and between lineages as the main social dynamic, and not class conflict. {{gha6-conclusion}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "The balance shifted from 1870. Germany and Italy were unified, Germany beat France in 1870 to 1871, and France turned to empire, crushing the Kabylia revolt and seizing land for settlers. Diamonds were found in 1869 to 1870. Europeans used 'free trade' as a slogan to attack rulers' right to regulate trade, pushed loans, and imposed debt commissions on Egypt and Tunisia that led to loss of independence 'with little or no fighting'. France claimed Tunisia in 1878 and Britain took Egypt in 1882. {{gha6-conclusion}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "European forces were not huge. France used as many as 110000 troops in Algeria up to 1871. Britain sent about 12000, mostly Indian, to Ethiopia in 1868 but only 2500 British troops under Wolseley against Asante, which is about one fifth of the Ethiopian force (our arithmetic). Afterwards the powers recruited emancipated slaves. Ajayi stresses that the confidence of European officers came from knowing that they might lose a battle but would win the war while their arms were superior. {{gha6-conclusion}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "The argument closes on diplomacy. The Berlin Conference of 1885 and the Brussels Act of 1889 treated Africa as terra nullius, limited arms supplies to Africans in the name of anti-slavery, and exempted self-governing settlers in South Africa. African leaders, he says, thought they could play one European power against another, did not forge any common front, and were slowed by what he calls the legacy of wars: wars that had become more total, and in which state power counted for more than ethnicity. {{gha6-conclusion}} [CONTESTED]"
+    },
+    {
+     "t": "example",
+     "title": "Worked example: European troops in 1868 and 1874 (our arithmetic)",
+     "steps": [
+      "Ajayi says Britain used as many as 12000 troops, mostly Indian, in Ethiopia in 1868 and 2500 British troops under Wolseley against Asante in 1874.",
+      "12000 divided by 2500 is 4.8, so the Ethiopian force was nearly five times the Asante one. The Asante force of 2500 is about 21 per cent of the Ethiopian one.",
+      "The numbers show Europe was cautious about large forces, and the second campaign rested on better rifles and on African allies, which is Ajayi's point about arms."
+     ]
+    },
+    {
+     "t": "check",
+     "q": "A student writes: 'In the 1870s African rulers launched their own Scramble for Africa, which explains why Europeans partitioned the continent.' How does Ajayi's conclusion respond?",
+     "o": [
+      "Reform was long-running, not a sudden scramble",
+      "It agrees, because he calls the 1870s the start of African state-building",
+      "It rejects it, because he says African states made no effort to reform at all",
+      "It agrees, because he says African rulers invited the Berlin Conference",
+      "It rejects it, because he says only Europeans ever sought stronger states"
+     ],
+     "a": 0,
+     "w": "He says the search for more stable structures had gone on throughout the century and before, with at most a quickening of pace, and was not comparable to the European Scramble. {{gha6-conclusion}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "A textbook says the Brussels Act of 1889 was simply a humanitarian measure against the slave trade. What does Ajayi add?",
+     "o": [
+      "That it ended the Berlin Conference's free trade rule, so no arms moved at all",
+      "That it freed every slave in Africa at once, so no further factor was needed",
+      "It limited arms to Africans, exempting settlers",
+      "That it applied only to Egypt, which was the one state with an arms trade",
+      "That it was written by African rulers, who had asked Europe to ban guns"
+     ],
+     "a": 2,
+     "w": "He argues that linking arms limits to anti-slavery let the British exempt settlers in South Africa and treat African states as unrecognised in international law. {{gha6-conclusion}}",
      "kind": "application"
     },
     {

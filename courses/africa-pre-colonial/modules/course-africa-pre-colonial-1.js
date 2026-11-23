@@ -86,6 +86,10 @@
      "x": "The scheme collapsed between the wars, first with the 1924 discovery of Australopithecines in South Africa, then with East African finds that put the whole sequence of human evolution on the continent. {{gha1-olderogge}}"
     },
     {
+     "t": "p",
+     "x": "The Hamitic scheme's error was to make one external pastoral influence the whole story, though some of its observations were sound. The frame also assumed white pastoral migrants as the source of civilisation, and such assumptions still reach textbooks, so Sudanic origin stories should not be explained by a superior immigrant group. {{gha2-ch23}} {{gha3-ch5}} Diffusion is itself a theory with its own burden of proof: independent development has to be tested before an outside source is accepted. {{gha2-ch29}}"
+    },
+    {
      "t": "h",
      "x": "Two more myths: the unchanging village and the subsistence economy"
     },
@@ -112,6 +116,10 @@
     {
      "t": "p",
      "x": "African authors wrote their own histories long before the universities: Reindorf on the Gold Coast and Asante (1895), Samuel Johnson on the Yoruba (completed 1897, published 1921), Kagwa in Uganda from 1906, and Egharevba's Short History of Benin (1934). {{gha1-fage}}"
+    },
+    {
+     "t": "p",
+     "x": "The General History's own preface says that outside authors measured Africa against Europe's Middle Ages, dismissed oral tradition, and presented the Sahara as an impenetrable barrier between 'white' and 'black' Africa. The barrier is itself a historiographical claim, and oral tradition is a source. {{gha3-pref}} The project asked that differences of view be shown rather than smoothed over, so where this course reads a point differently from the General History, both readings are given. {{gha3-pref}}"
     },
     {
      "t": "table",
@@ -148,6 +156,64 @@
     {
      "t": "p",
      "x": "The Unesco General History was planned by an International Scientific Committee of 39 members, two-thirds African. Every chapter went to the whole committee, and the History aims to show divergent views rather than hide them; each chapter's views are its author's. {{gha5-front}} [PROBABLE] So when its chapters disagree, this course sets them side by side."
+    },
+    {
+     "t": "p",
+     "x": "The newer volume IX, 'General History of Africa Revisited', says that after four decades of research most of the content of the first three volumes is 'partially or totally outdated'. Its editor Holl judges that volumes I and II probably need the most updating and that volume VIII was already dated soon after publication, and he replaces 'prehistory' with 'initial history'. {{gha9-holl}} Check any claim from the 1981 volumes against newer work. [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Mota's review of volume V, on the sixteenth to eighteenth centuries, lists limits to look for in any UNESCO volume. Most works it cites date from the 1970s and before, its chapters favour political history, and it refuses to give the Atlantic slave trade a determining role, which Ogot says in the concluding chapter. {{gha9-mota}} It also uses the idea of 'Black Islam', a product of French colonialism, and sets the Sahara as a divide between the chapters on North Africa and those on the Sudan. {{gha9-mota}} Its regions 'Upper Guinea' and 'Lower Guinea' reflect the slave trade, not local dynamics, the Kongo area is under-represented, Portuguese sources are scarcely used, and no woman authored a chapter. {{gha9-mota}} [PROBABLE]"
+    },
+    {
+     "t": "check",
+     "q": "You cite volume V of the UNESCO General History for a claim about the Atlantic slave trade. What does Mota's review advise?",
+     "o": [
+      "A dated 1992 product; check newer work",
+      "Treat it as final, since UNESCO published it",
+      "Reject it, because it never mentions slavery",
+      "Use it only for the nineteenth century",
+      "Assume Portuguese sources are fully used"
+     ],
+     "a": 0,
+     "w": "Mota says volume V is dated, favours political history and refuses the slave trade a determining role, so claims from it need checking against newer work. {{gha9-mota}}",
+     "kind": "application"
+    },
+    {
+     "t": "p",
+     "x": "Even the name 'Africa' has no settled origin. Binam Bikoi lists the proposals: the Berber group Afrig south of Carthage, two Phoenician words, the Latin word for sunny, and a king named Ifriqui of Yemen whom Leo Africanus reported. He says recent work tends to credit the Leo Africanus version, while Ki-Zerbo thought the Arabic Ifriqiya was a transliteration of the Roman name. {{gha9-binam}} The Roman use of the name is well attested, so treat the Yemeni king as a medieval tradition, not an established origin. [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "The volume's own conclusion calls the cleavage that historians drew between sub-Saharan Africa and ancient Egypt and North Africa a dogma and asserts a cultural unity across the continent. These are the editors' views, not findings, and the course tests them against the chapters. {{gha2-ch30}} The editors also say that the volume's periodisation suits some regions and not the whole continent, and that research has pushed West African origins back into the first or second millennium BCE. {{gha3-ch28}}"
+    },
+    {
+     "t": "check",
+     "q": "Which statement about the origin of the name 'Africa' fits the evidence in volume IX?",
+     "o": [
+      "It comes from Arabic and was first used in the Middle Ages",
+      "It is a Greek word invented by Herodotus",
+      "Several origins are proposed and none is settled",
+      "It was chosen by African states in 1963",
+      "Ki-Zerbo proved it comes from a Yemeni king"
+     ],
+     "a": 2,
+     "w": "Binam Bikoi lists several rival etymologies, and Ki-Zerbo says the ultimate origin is hard to pin down, so no single origin is settled. {{gha9-binam}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "A textbook cites the UNESCO volumes of 1981 for a claim about early Saharan farming. How should you treat that citation?",
+     "o": [
+      "As final, because UNESCO volumes are never revised",
+      "As final, because volume IX repeats volumes I and II unchanged",
+      "As worthless, because all eight volumes are outdated",
+      "As dated, and check it against newer work",
+      "As dated only if it comes from volume VIII"
+     ],
+     "a": 3,
+     "w": "Volume IX says volumes I and II are the ones most in need of updating, so older claims should be tested against newer research. {{gha9-holl}}",
+     "kind": "application"
     },
     {
      "t": "callout",
@@ -206,6 +272,10 @@
      "x": "No source is ranked in advance. Each is a message from the past with its own intentions, so each needs criticism, and each can lead to the others. {{gha1-intro}} [FIRM]"
     },
     {
+     "t": "p",
+     "x": "The volume's introduction warns that the history from about 7000 BC to AD 700 still consists largely of suppositions, because firmly dated sources are scarce. Suppositions are founded on rare information, not invented. {{gha2-intro}}"
+    },
+    {
      "t": "table",
      "title": "Evidence kinds and their blind spots",
      "head": [
@@ -247,12 +317,36 @@
      "x": "Looting makes the archaeological blind spot worse, because an object without a find-spot has lost most of its meaning. {{icom-redlist}} {{nok-franke}}"
     },
     {
+     "t": "p",
+     "x": "An object without a find-spot cannot be placed in time or space. Two Egyptian objects found far south, an Osiris statuette on the Lualaba and a Thutmose III cartouche statue south of the Zambezi, were once taken as proof of contact, but a critical study of how they were found does not support that. {{gha2-ch4}} Harkhuf's dwarf dancer from Yam is sometimes taken as proof of a Pygmy people on the upper Nile; the volume calls that an unsupported assumption, since an earlier traveller also brought back a dwarf from Punt. {{gha2-ch4}} Shared features of Egyptian and African kingship can arise independently, so each claimed link needs its own dating. {{gha2-ch4}}"
+    },
+    {
+     "t": "p",
+     "x": "Blind spots come from when digging happened. No excavations were made before the first Aswan dam (1896), so sites were destroyed before anyone recorded them; Lower Nubia is well known while the Sudan south of the Second Cataract is largely unexcavated. {{gha2-ch8}} Papyrus records show the same bias: temples, estates and palaces kept hundreds of kilometres of registers, yet only a few hundred metres have been rediscovered. {{gha2-ch5}} Grave goods are no measure of wealth: fifth-century Carthaginian graves look austere, which does not show a poorer community. {{gha2-ch18}}"
+    },
+    {
+     "t": "p",
+     "x": "Images, names and words each need a test before they prove identity. The lozenged hair on the Haoulti statues could be stylised curls or woolly hair, and the same device appears at Persepolis, so the picture cannot settle ethnicity. {{gha2-ch13}} A language or script is a clue to culture, not a census: a Ge'ez speaker need not be an Aksumite. {{gha2-ch16}} The Karnak text lists Libyans and Peoples of the Sea together, though they may come from separate campaigns, so a combined text can make two events look like one. {{gha2-ch17}} Kikuyu stories of the Gumba forest people are vague and reworked, and archaeology shows high-forest settlers with pottery in the last two thousand years, but there is no good ground to call them pygmies. {{gha2-ch23}} A pot does not name its maker: early European accounts crediting pottery to the Khoi may refer to Cape Khoi in the late seventeenth century. {{gha2-ch26}}"
+    },
+    {
+     "t": "p",
+     "x": "Labels from the past need checking. 'Megalithic' serves no historical purpose in East Africa: cairns date to the late stone age, rock-cut wells may be early pastoral, and so-called ancient roads are often cattle tracks. {{gha2-ch23}} The 'Uelian Neolithic' of polished hematite axes was partly iron age when its workshop was dated at Buru, and the 'Ubangian' site at Batalimo gave a thermoluminescence date of about AD 380. {{gha2-ch25}}"
+    },
+    {
      "t": "h",
      "x": "Using the tags"
     },
     {
      "t": "p",
      "x": "You met the five tags in Lesson 1. The one to earn is [FIRM]: it needs two or more independent kinds of evidence that agree, which is why strong claims need two. When you meet a number, ask who counted it and how."
+    },
+    {
+     "t": "p",
+     "x": "Dating by script needs a firm reference. The Libyan alphabet and Tifinagh show Carthaginian influence, and no firm Libyan writing appears north of the Sahara before the third or second century BC, but Tifinagh changed over time, so Libyco-Berber drawings can be misdated. {{gha2-ch20}} The Libyan script is still not read, so a script that is not read gives no text, however old it looks. {{gha2-ch18}}"
+    },
+    {
+     "t": "p",
+     "x": "Writers who describe a conquered people are not neutral. The record of Berber resistance under Rome comes from Roman texts and colonial-era historians added their own bias. {{gha2-ch21}} The English word 'vandalism' was coined only at the end of the eighteenth century, and the main Vandal sources are openly hostile. {{gha2-ch19b}}"
     },
     {
      "t": "h",
@@ -264,7 +358,19 @@
     },
     {
      "t": "p",
+     "x": "Method order matters: archaeology is the base for the pre-literate iron age, and historical linguistics is secondary, because oral tradition does not reach that period. A linguistic reconstruction offered for the early iron age should be labelled secondary. {{gha2-ch27}} Shared names show a link of some kind, not its direction: the banana's Indonesian name (fontsy) on the west coast and its Bantu name (akondro) in the highlands prove contact, not the route. {{gha2-ch28}}"
+    },
+    {
+     "t": "p",
+     "x": "Names used as proof of migrants need a check. Flacourt's Jewish origin for the Malagasy rested on biblical-sounding names, circumcision and a Saturday taboo, which Ferrand explained as local taboo and Islamic conversion. {{gha2-ch28}} A stone object needs context before its date is used: two adze-like stones from Madagascar may be gunflints worked in the firearms period. {{gha2-ch28}}"
+    },
+    {
+     "t": "p",
      "x": "The Sao of Lake Chad show what combining achieves. Oral tradition, a few Arabic manuscripts, excavation and carbon-14 dating together turned a legendary people into an authenticated one: the Mdaga mound in Chad was occupied for nearly 2,500 years, a result no single source could have produced. {{gha1-obenga}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "A single influence spread over five thousand years is not proof of contact at one time, and a trace of contact is not proof of continuity. {{gha2-ch4}} Ptolemy's coordinates look exact, but his African names were matched to modern places largely by sound, so exact figures can give false confidence. {{gha2-ch20}}"
     },
     {
      "t": "example",
@@ -280,6 +386,14 @@
      "t": "callout",
      "k": "warn",
      "x": "Beware the 'psychosis of precision'. Why say Koumbi Saleh fell in 1086 rather than at the end of the eleventh century? Eclipses and external events give fixed points; a bare year from a reign count does not. {{gha1-intro}} [TRADITIONAL DATE]"
+    },
+    {
+     "t": "p",
+     "x": "Ancient population figures are guesses. Strabo's figure of 700,000 for Carthage would give an impossible density, and the volume prefers about 400,000 with slaves, as a guess. {{gha2-ch18}} Battle losses are ancient totals, such as 25,000 soldiers and 70,000 rowers in one Roman storm, not verified counts. {{gha2-ch18}} Arabic population figures need the same care: Kairouan had several hundred thousand people in the third/ninth century by one author's estimate, while the Arab population of Ifriqiya was perhaps a hundred thousand to a hundred and fifty thousand at most. {{gha3-ch10}}"
+    },
+    {
+     "t": "p",
+     "x": "Readings of one inscription differ. Masties' inscription from Arris has been argued both ways, and the Tenes treasure is read as a wealthy family's jewels by one scholar and as a thief's haul by a reviewer. {{gha2-ch19b}} One isolated Roman coin proves little, since northern Saharan peoples still used Roman coins in the nineteenth century; what counts is a pattern of finds on a route known from other sources. {{gha2-ch20}}"
     },
     {
      "t": "activity",
@@ -386,6 +500,10 @@
     },
     {
      "t": "p",
+     "x": "Kinship and household arrangements are the least visible part of the past. The institutions of family, lineage, marriage and work group are largely unknown for this period, and the lineage is more an ideological term than a fixed social reality, so a clan's structure should not be read back from later customs. {{gha3-ch28}}"
+    },
+    {
+     "t": "p",
      "x": "Rival versions are a safeguard: when Bambara and Fula griots from opposing camps agree, the point is strengthened. {{gha1-intro}} [PROBABLE]"
     },
     {
@@ -427,12 +545,20 @@
     },
     {
      "t": "p",
+     "x": "Kikuyu stories of forest people (the Gumba) were collected through informants and reworked, so a legend and an excavation may agree on a settlement and still disagree about the people's identity. {{gha2-ch23}}"
+    },
+    {
+     "t": "p",
      "x": "If an oral claim conflicts with an archaeological object, the object wins. Written texts are usually better on quantities, oral accounts on motives. {{gha1-vansina}} [PROBABLE]"
     },
     {
      "t": "callout",
      "k": "note",
      "x": "Collected traditions mostly concern the nineteenth century and rarely reach back before 1700. Oral tradition is a first-class source for the last few centuries, poor for dates and numbers, and before that a helper to archaeology. Cite each oral source separately; 'tradition has it that' is a dangerous generalisation. {{gha1-vansina}} [FIRM]"
+    },
+    {
+     "t": "p",
+     "x": "A tradition of white ancestors in Sudanic origin stories is often late and reflects present relations with northern Berbers, so its recording date and context must be given before it is used. {{gha3-ch5}} A conversion story can be a pious tale: a thirteenth-century author credits his great-grandfather with converting a Mali king around 1179-80, but al-Bakri, who wrote before 1068, told a similar story. {{gha3-part2}}"
     },
     {
      "t": "h",
@@ -473,6 +599,114 @@
     {
      "t": "p",
      "x": "A folk tale is not oral tradition in this sense. Woodson's 1928 school reader names no teller, date or collector, so a king named inside one of its tales is not evidence that the king existed. {{wood-tales}}"
+    },
+    {
+     "t": "p",
+     "x": "Yai, a linguist, adds a warning from Yoruba. Yoruba has several words for the activities that English calls 'history': ale, a twisted or transplanted tale told at night, itan, the account of the elders and diviners, and oriki, praise poetry that reopens the past in the present. {{gha9-yai}} Translators usually render itan as 'history' and ale as 'myth', and Yai argues that one-word equivalents lose most of what the Yoruba terms hold. {{gha9-yai}} The practical lesson is to ask which genre you are hearing before you decide what kind of evidence it is. [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Yai also objects to the phrase 'oral tradition as a source', which he says puts speech beneath writing, and he reads Hampate Ba's line that an old man's death burns a library as a call to value the elders and their knowledge, not only to transcribe their words. {{gha9-yai}} For this course the rule stays: an oral account is tested like any other testimony, but it is tested on its own terms. [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Gayibor adds a trap that works in the other direction: writing feeds back into speech. Many written sources are transcriptions of oral traditions, and once a version is printed it can return to the community and replace the older telling. His example is the founding legend of the Baule queen Pokou, set down by Delafosse in 1900 and now repeated in school books, tourist guides and on the internet. {{gha9-gayibor}} So a tradition that sounds 'pure' may already carry a colonial-era written version inside it; ask when it was first recorded and by whom. [FIRM]"
+    },
+    {
+     "t": "p",
+     "x": "He also warns that the informants are dying. Fieldwork slowed after 1980 and he speaks of the 'programmed extinction of traditionalists', so collected recordings are now a finite archive. {{gha9-gayibor}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Vansina's first chapter sorts the ways a memory reaches the historian. Eyewitness accounts are partial: in his collection of about a thousand Libyan-war accounts, almost no informant could see a whole battle, and memory fills the gaps from expectation and from what must have happened. Hearsay is the fountainhead of much tradition, since rumours that go uncontradicted survive and become history. Reminiscences are organised self-portraits, and informants forget what is inconvenient. Hypercritical rejection is no answer either: if no perception could be trusted, nobody could act on memory, so accounts must be tested, not discarded. {{vans1}}"
+    },
+    {
+     "t": "p",
+     "x": "Stories grow with each telling. Rossini's anecdote about meeting Beethoven gained episodes over the years, and explanations given for monuments and natural features are often made after the fact. A story tied to a site needs separate checking. Stock explanations are dangerous too: a claim that all Upper Nile migrations came from a quarrel between brothers replaces many accounts with one tale. {{vans1}}"
+    },
+    {
+     "t": "p",
+     "x": "A body of oral accounts usually has three tiers: recent times, where material is dense and thins out going back; a floating gap with one or a few names; and a period of origins that is rich in material. A tradition's time-reckoning reaches only so far. For the Aka of Lobaye, about one generation of adults was the limit, and beyond it accounts fuse into a culture hero or are forgotten. {{vans1}}"
+    },
+    {
+     "t": "p",
+     "x": "Vansina defines an oral tradition as a verbal statement about the past, spoken or sung, transmitted by word of mouth over more than one generation; the living memory of informants is a different class of source. Transmission is communal rather than a neat chain. News passes through many people and fuses in the telling, yet a link must still join observation to record for the message to count as evidence. Statements about funeral etiquette or bridewealth generalise norms and opinions, so they testify to mentalities more than to events. {{vans1}}"
+    },
+    {
+     "t": "p",
+     "x": "Memorised speech such as prayers, formulas and poems is the one class where an original can be reconstructed by comparing versions; tales and some epics have no original to recover. Long-lived stories are not thereby true. A caravan guide's 1954 story of the sun-fire people matched a tale told by Herodotus and Pliny some 2,500 years earlier, and the match itself must be explained. {{vans1}}"
+    },
+    {
+     "t": "p",
+     "x": "The Hopi ambush case shows how a memory becomes a charter. The bare facts were recorded in 1892, a survivor's reminiscence came three weeks later, and a published version of 1936 made the event predestined and tied a clan's charter to the boundary. Among the Mbuun, a rain-chasing spell keeps names from an old migration and a quarrel, and its core has stayed stable long after the wording changed. A stable core can survive centuries, so say which part of a tradition is being used. {{vans1}}"
+    },
+    {
+     "t": "p",
+     "x": "Speculative genealogies can still be sources for cultural history. Baumann's Tetela brothers, cast as ancestors of the Luba and Kuba, may preserve archaic features even where their origin claim is speculative. Tales have no original and no fixed composition, and their material is of mixed age, so tale material should be dated to the latest possible date. Verbal art has no single date either: a poet may compose deliberately for hours, and tales develop in performance from older parts. {{vans1}}"
+    },
+    {
+     "t": "p",
+     "x": "A tale is never just a recitation: teller and audience create it together, and the teller reads the audience and expands or condenses. Record the performer, the place and the date of each performance, because the teller can change a tale's meaning. In Frobenius's 1906 Kuba tale, a Lulua slave's version of the dwarf antelope killed by the leopard makes sense only as defiance, since the dwarf antelope is the trickster hero. {{vans2}}"
+    },
+    {
+     "t": "p",
+     "x": "Specialists differ. Griots and court historians hold office, Rwandan abiiru keep ritual rather than memorise history, and the Ketu baba elegun was rewarded for a flawless recital. Encyclopaedic informants, such as Kuba antiquarians of historical slogans, must be named whenever a collector reports a recital. Fidelity comes from sanctions or competition, not from the medium alone: Hawaiian chants of 618 lines match across islands, Rwandan controllers could face death for error, and rival poets were rewarded. Frequency matters too, since tales told many nights a month change faster than rare rites. {{vans2}}"
+    },
+    {
+     "t": "p",
+     "x": "An interview has two authors. Leading questions reduce the informant's voice, group interviews give only what everyone agrees on, and compromises between informants are invented on the spot. Informants volunteer information only after months, once they know the interviewer, and a questionnaire yields minimal and often inaccurate answers. A recording session is not a live performance: the published text loses gesture, audience reaction and sound. A testimony is a tradition as actualised by one person, and the same informant can give two contradictory testimonies. {{vans2}}"
+    },
+    {
+     "t": "p",
+     "x": "Historical accounts vary far less than epic or set speech. Two Rwandan versions of one story, told in 1952 and 1957, differed less than the Alija Stocevic epic versions recorded in 1935 and 1950, and a tradition that crystallises within a generation is close to its first telling. Authenticity needs testing: Macpherson invented Ossian's poems, and the Walam Olum of the Delaware, published in 1833, is likely a forgery or a revival. Every performer of an unmemorised genre is an author, so ask whether the recorded performer was a professional and from whom he learned. {{vans2}}"
+    },
+    {
+     "t": "p",
+     "x": "Form governs stability. A Rundi praise song with a rigid two-part structure was never found in another version, while Serbo-Croat poetry varies because formulas are easily exchanged. Genre decides change: setting and personages may vary between versions of a tale, but must not vary in a narrative of events believed to have happened, which is what separates a tale from an account. {{vans3}}"
+    },
+    {
+     "t": "p",
+     "x": "Genres are named locally and defined by form and content together, so a Kuba shoosh slogan that looks like a song to an outsider must be read by its local rules. No universal genre scheme travels. For historians the key question is whether a genre claims to be true: byliny claim to tell what really happened, while Russian skazki may vary at will. Numbers are stereotypes too: four means perfection in parts of West Africa and nine among the Kuba. {{vans3}}"
+    },
+    {
+     "t": "p",
+     "x": "The historian works with a text, a mutilated performance from which tone, gesture and audience response are lost. Key words such as Kongo nkisi or Malagasy hasina carry whole worldviews and have no literal translation, so a translated testimony can lose its meaning at the key word. Prize what a source did not mean to say: a tale is meant to amuse, and an incidental detail, such as slaves trading redwood blocks to buy their freedom, is more trustworthy because it was not intended. {{vans3}}"
+    },
+    {
+     "t": "p",
+     "x": "Messages are social products. Performance occasions decide the form a record takes: Kuba royal history is told as anecdotes, with a formal succession framework only at coronations, so a coherent annals reading can mislead. Idealisation makes a king an ideal tyrant fifty years after his death, and traditions can be used as weapons in disputes. Test for idealisation by looking for traits that run against a tradition's purpose, such as official accounts of kings killed in war. Goody's claim that traditions always match society is an overstatement: Firth found no link between a Tikopia origin claim and rank. {{vans4}}"
+    },
+    {
+     "t": "p",
+     "x": "Oral traditions are hypotheses, and the first hypothesis a modern scholar must test. A historian must justify an interpretation against the local one, not simply assert that a king was a culture hero. Oral sources are still irreplaceable as inside information: the Benin royal list has almost no overlap with written records before 1880. Where writing fails, tradition must carry the reconstruction, more slowly and less reliably. A dated event proves that memory reached back, not that a tradition has a date. {{vans7}}"
+    },
+    {
+     "t": "check",
+     "q": "A tour guide tells you a founding legend 'exactly as the elders have always told it'. The earliest version you can find is a printed transcription from 1900 that is now in school books. What should you conclude?",
+     "o": [
+      "The legend is proved ancient because the guide's version matches it",
+      "Only the school books count as evidence",
+      "The legend is false because it was written down",
+      "Printed versions never influence oral ones",
+      "Test it against independent evidence"
+     ],
+     "a": 4,
+     "w": "Gayibor says printed versions of the Pokou legend spread back into popular tellings, so agreement with a printed text may reflect borrowing, not independent memory. {{gha9-gayibor}}",
+     "kind": "application"
+    },
+    {
+     "t": "check",
+     "q": "A student finds the Yoruba word itan translated as 'history' in a textbook and treats every Yoruba account of the past as the same kind of source. What is the best correction?",
+     "o": [
+      "Itan is the only Yoruba word for the past, so the student is right",
+      "Yoruba accounts of the past are myth and should be discarded",
+      "Name the genre and teller first",
+      "Only written Yoruba texts count as history",
+      "Praise poetry is a modern invention and carries no past"
+     ],
+     "a": 2,
+     "w": "Yai shows that Yoruba separates tale, elders' account and praise poetry, so a single English word hides differences in who speaks and what the speech is for. {{gha9-yai}}",
+     "kind": "application"
     },
     {
      "t": "activity",
@@ -538,6 +772,18 @@
      "x": "Early outside authors from Herodotus to Leo Africanus describe the Africa they could learn about, but do not study change over time, and it is often unclear whether a statement was seen, heard from a witness, or copied. {{gha1-fage}} [FIRM]"
     },
     {
+     "t": "p",
+     "x": "Herodotus (IV, 42) says Necho II's Phoenicians sailed round Africa, but the account is contested: the Phoenicians may have been its source, and there is no proof the voyage happened. {{gha2-ch4}} The Egyptian record of Nubia shows the same bias: after about 2000 BC, relations are known only from Egyptian sources, which tend to record military expeditions, and archaeology in Lower Nubia supplies the rest. {{gha2-ch8}}"
+    },
+    {
+     "t": "p",
+     "x": "Egyptian writing was built from word-signs, homophones and phonetic complements, and its signs (Nilotic fauna and flora) show it formed in the Nile valley, before the Narmer palette of about 3000 BC; it is evidence that writing was an African development. {{gha2-intro}} The volume gives a contested reason why Nubia did not take up writing while Egypt did: the dense, irrigated Nile valley needed records, while Nubian groups with more stock-raising stayed in oral tradition. {{gha2-intro}} Royal propaganda is a source too: a Leningrad papyrus gives a prophecy that Amenemhet I's accession was foretold, and the volume says he may have had Nubian descent. {{gha2-ch9}}"
+    },
+    {
+     "t": "p",
+     "x": "Much Nubian chronology comes from Arabic writers, al-Yaqubi, al-Mas'udi and Maqrizi among them, not from Nubian sources. {{gha2-ch12}} Nubian was spoken widely while its written traces date only from about the mid-ninth century, so a silent oral language does not mean an unrecorded society; at Faras the aristocracy and church spoke Greek and the clergy understood Coptic. {{gha2-ch12}} The Georgios embassy appears in many sources with different dates, so where versions conflict, the earliest source is given and the others marked. {{gha3-ch8}} The political events of Nubia's period are known mainly from Arab sources and only partly verified by archaeology. {{gha3-ch8}}"
+    },
+    {
      "t": "h",
      "x": "Reading an Arabic geographer"
     },
@@ -572,6 +818,18 @@
      "t": "callout",
      "k": "warn",
      "x": "Central and southern Africa have a void in written sources before the fifteenth century, and Arabic sources, which stress the Sudanic belt, can make it look like the only centre of organised states. Do not judge a region by its documents, and do not ignore the documents there are. {{gha1-djait}} [FIRM]"
+    },
+    {
+     "t": "p",
+     "x": "The Arab conquest of North Africa is known mainly through chroniclers writing two centuries later, who had little critical sense and contradict each other on dates. Ibn Khaldun is the exception, a reasoning historian. {{gha3-ch9}} The Berber viewpoint is missing: only traces of Berber tradition survive in the Arab chronicles. {{gha3-ch9}} The legend of Uqba's end, and of the martyr's tomb at Sidi Uqba, comes from later Arab chroniclers, so it is a tradition, not a contemporary report. {{gha3-ch9}} The Kairouan foundation of AD 670 is firm; the warrior-turned-missionary legend is later. {{gha3-part1}}"
+    },
+    {
+     "t": "p",
+     "x": "Chronicles can merge events. The Chronicle of the Wangarawa confuses the arrival of the Wangarawa with al-Maghili's visit, which came at the end of the fifteenth century, so each event needs its own date. {{gha3-part2}} The Fatimid claim to descent from Ali and Fatima is disputed: an Abbasid manifesto of 402/1011 denied it, and later historians such as Ibn Khaldun and al-Maqrizi accepted it. {{gha3-ch12}}"
+    },
+    {
+     "t": "p",
+     "x": "Trade secrecy shaped the sources. The stories of gold in the roots of plants may reflect gold panning and a wish never to say where gold came from. {{gha3-ch28}} Arabic bibliographies also name their authors and works, so a citation should name the work (al-Tuaydi, Ibn al-Saghir, al-Zubaydi), not 'the chronicles'. {{gha3-ch10}}"
     },
     {
      "t": "h",
@@ -614,6 +872,22 @@
      "x": "Ibn Khaldun (1332 to 1406) is the first real historian of the region. He sets out a cycle in which desert nomads conquer settled lands and their dynasty weakens after about three generations, and insists that scraps of information do not carry equal weight. His chapter on Mali rests partly on oral tradition of his day. {{gha1-fage}} [PROBABLE]"
     },
     {
+     "t": "p",
+     "x": "Medieval Arabic sources on the Sudan were written by people who did not go there. Al-Bakri, the best source on Ghana, never visited the Sudan and worked from Cordoba archives and travellers' tales; al-Yaqubi and Ibn Hawqal were easterners, the latter working for the Fatimids. {{gha3-ch5}} Their verdicts need testing: al-Idrisi said Africans' learned men were almost unknown and their kings learned government from northern visitors, a view that ignores African political invention. {{gha3-ch4}}"
+    },
+    {
+     "t": "p",
+     "x": "Origin legends are politics. From the thirteenth century the Kanembu genealogists traced princes to the East, and Mandinka, Wagadu and Mabas claimed Arab descent for their dynasties; the volume calls this genealogical snobbery. A royal origin in Arabia is a claim to test, not a record. {{gha3-ch4}} Ahmad Baba's fatwa (written 1593-1616) answers merchants of Tuwat who asked whether a population could be enslaved; a legal opinion records what the questioners were doing, and the question shapes the answer. {{gha3-ch4}}"
+    },
+    {
+     "t": "p",
+     "x": "Islam's spread is explained differently by different writers. Maunny's view, that Islam was spread by force and a simple doctrine easy for blacks to accept, is called superficial; the chapter argues that Islam spread through merchants and the economic change trade brought. {{gha3-ch27}} Hijra is 'severing previous tribal ties and entering new ones', not flight, and the sword-and-Qur'an image is a myth: the conquests served the extension of Dar al-Islam, not conversion. {{gha3-ch2}} {{gha3-ch3}} Sunni and Shia accounts of the Mahdi each give their own doctrine. {{gha3-ch2}}"
+    },
+    {
+     "t": "p",
+     "x": "Conversion came by routes. The chapter gives four: conquest, trade, clerics and nomad penetration, with separate patterns for Christian North Africa, Nubia and Ethiopia, and notes that Egypt is still about 10 per cent Coptic. {{gha3-part2}} Princes who converted were soon criticised for 'false Islam' by jurists, and converted merchants were probably superficial Muslims while the rural world was not converted. {{gha3-ch4}}"
+    },
+    {
      "t": "h",
      "x": "After 1500: new kinds of writing"
     },
@@ -626,6 +900,49 @@
      "x": "The Vai script was invented about 1833 by Momolu Duwalu Bukele, and nearly all Vai used it by 1900 for letters, accounts and customary law. {{gha1-hrbek}} The Asantehenes' Muslim scribes wrote letters in Arabic at a non-Muslim court. {{gha1-hrbek}}"
     },
     {
+     "t": "p",
+     "x": "Condro adds the wider record of African writing, so that 'no writing' cannot be argued from a single case. It runs from Egyptian hieroglyphs through Meroitic, Libyco-Berber and Ethiopic to the Vai script of 1832 to 1834 and King Njoya's Bamum script in Cameroon, and includes Arabic and Latin scripts adopted or adapted for African languages. {{gha9-condro}} Meroitic was deciphered in 1911 and stayed in use until about 350 CE, and Rilly links its language to the eastern Sudanic branch of Nilo-Saharan. {{gha9-condro}} The Ethiopic syllabary has 26 basic characters and 182 in all, with its oldest dated documents from the fourth century CE. {{gha9-condro}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Carthage has no Carthaginian literature; its Greek and Roman writers were its enemies, and Roman towns sit over most Phoenician sites. {{gha2-ch18}} The Hanno voyage is a model case of a contested text. The volume's own account treats the voyage as contested rather than proved, while Salama argues that ancient ships could not have returned from beyond Cape Juby and calls the text a plagiarism of Herodotus. Show the range: a real voyage to Morocco, weak evidence beyond, forgery argued. {{gha2-ch20}} {{gha2-ch21}} {{gha2-ch18}}"
+    },
+    {
+     "t": "p",
+     "x": "Pliny's list of African towns and their legal status is controversial and hard to read: six colonies, fifteen towns of Roman citizens and thirty free towns for the Augustan period. Use it as an ancient list to be checked. {{gha2-ch19a}} The Hanno voyage's Greek text gives no purpose and few places, and Pliny says many writers told fabulous tales from it. {{gha2-ch18}}"
+    },
+    {
+     "t": "p",
+     "x": "Names change by source. Kaleb is Hellesthaios or Elle Atsbaha in Greek sources, Dhu Nuwas is Masruc, Yussuf or Finhas, and Najran's Christians are named after Harite in the Ge'ez text. Track the source's language and show the variants once. {{gha2-ch16}} Classical names for peoples describe colour more than ethnicity: 'Ethiopian' meant 'burnt face' or 'man of colour' and was applied to Saharan and Maghrib peoples. {{gha2-ch17}} 'Numidae' was a Greek word that called people nomads, though Numidians and Mauri were both largely pastoral. {{gha2-ch18}}"
+    },
+    {
+     "t": "p",
+     "x": "Local king lists and coins disagree. The Tarike Neguest and Guedel Tekle Haymanot name and date the same kings differently from the inscriptions and coins, and when a chronicle and a coin disagree, the coin is the firmer evidence. {{gha2-ch16}} Almost no early Aksumite literature survives: the early record is inscriptions and coins, often in several languages. {{gha2-ch16}}"
+    },
+    {
+     "t": "p",
+     "x": "The Libyan script is unread and the Berber resistance record is Roman. The Berber side appears only through the conquerors' texts, and colonial historians added their own views. {{gha2-ch18}} {{gha2-ch19a}}"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Three claims in the same chapter do not hold up on its own evidence. It places Meroitic writing in the third millennium BCE although it also says the script ended about 350 CE, so the early date looks like a slip. It cites Bekerie that Ethiopian inscriptions suggest a system at least 3,000 years old, against the fourth century CE for the oldest documents. It also speaks of nearly a million medieval Timbuktu manuscripts, which is a round figure with no source in the chapter. {{gha9-condro}} Vai is now dated 1832 to 1834 here, 1833 above and 1818 or 1833 in volume VI; keep each date attributed. [CONTESTED]"
+    },
+    {
+     "t": "check",
+     "q": "A chapter states that the Ethiopic script is 'at least 3,000 years old' but lists the oldest documents as fourth-century CE coins and inscriptions. How should you treat the 3,000-year figure?",
+     "o": [
+      "One author's inference, weaker than the dated papers",
+      "As established, because the chapter lists the script's history",
+      "As proved by the coins",
+      "As irrelevant because Ethiopia lies outside Africa",
+      "As the same date given by every source"
+     ],
+     "a": 0,
+     "w": "The dated documents are fourth-century CE, while the 3,000-year figure is Bekerie's inference from inscriptions, so it needs separate support. {{gha9-condro}}",
+     "kind": "application"
+    },
+    {
      "t": "callout",
      "k": "warn",
      "x": "Later is not more objective. Burton and Stanley were prisoners of the idea of white superiority, as Portuguese writers were of the superiority of their faith, so a nineteenth-century traveller is not automatically more credible than one from three centuries earlier. Yet a traveller's dated meeting can anchor a whole oral chronology. {{gha1-hrbek}} [PROBABLE]"
@@ -633,6 +950,14 @@
     {
      "t": "p",
      "x": "Colonial records were made by foreigners and carry their view of themselves and of those they ruled, so even colonial history needs oral interviews. {{gha1-curtin}} [FIRM] The rule for every archive is the same: ask who made the record and for whom."
+    },
+    {
+     "t": "p",
+     "x": "Objects were records before writing. The Inca quipu of knotted cords was read as a record of each king's reign and conduct, and Sioux winter counts and Iroquois pegged canes were cues to events and chiefs' lists. Landscape also keeps history in place: tomb sites and battlefields hold the past, and a Shilluk monarch is said to have built a false tomb to support a traditional history. {{vans2}}"
+    },
+    {
+     "t": "p",
+     "x": "Writing and oral tradition feed each other. Once a tradition is written it can flow back into speech, and this mixed transmission can last for centuries, so an early written text may reshape later oral accounts. Trace each written input before treating a recorded oral account as independent. {{vans6}}"
     },
     {
      "t": "activity",
@@ -721,6 +1046,14 @@
      "x": "A flat stretch in the radiocarbon calibration curve, the so-called Hallstatt plateau of roughly 800 to 400 BCE, makes dates in that window imprecise. {{intcal20}} That matters for early iron in this module."
     },
     {
+     "t": "p",
+     "x": "Egyptian dates need king lists and reign lengths, and the lists have gaps (Turin and Palermo). Adding all reigns gives over 4000 years, a total accepted until about 1900 and now known to be wrong, because parallel dynasties and co-regents overlap. {{gha2-intro}} The calendar was anchored by the heliacal rising of Sothis, which coincided with the Nile flood; the adoption of the calendar is now placed at 2785-2782 BC, and the basic chronology starts at about 3000 BC. {{gha2-intro}}"
+    },
+    {
+     "t": "p",
+     "x": "Radiocarbon has no fixed dates in sub-Saharan Africa, and the variability may run over several centuries, so 'early iron age' is set around 1000 BC. Give the spread of a date, not a single year. {{gha2-ch21}} Uncorrected radiocarbon years are not calendar years, and a date in the Phillipson chapter is given uncorrected for that reason. {{gha2-ch27}} A date needs a formal link to what it dates: at Kinshasa a date from wood ash with one atypical shard is viewed cautiously, and at Sanga two dates may not date the same thing. {{gha2-ch25}}"
+    },
+    {
      "t": "example",
      "title": "Worked example: reading a corrected radiocarbon date",
      "steps": [
@@ -743,6 +1076,10 @@
      "x": "Chemistry also traces trade: obsidian found in Predynastic Egypt matches Ethiopian obsidian, which implies early contact. {{gha1-iskander}} [PROBABLE]"
     },
     {
+     "t": "p",
+     "x": "Convergence is a risk: glass-making, writing and early metalwork may have been invented independently in Asia and the Nile valley, and radiocarbon is too coarse to settle a century or two, so a claimed diffusion without dates is hazardous. {{gha2-ch5}} Oxygen-isotope ratios in shells can date the season of an activity: at Nelson Bay Cave the middens built up only in winter. {{gha2-ch26}}"
+    },
+    {
      "t": "callout",
      "k": "warn",
      "x": "Where there is no stratigraphy, archaeologists have tended to coin new culture names from thin statistics, so lists of 'cultures' a few kilometres apart may later prove artificial. Use such names as labels for tool-kits, not as peoples. {{gha1-debono}} [PROBABLE]"
@@ -757,6 +1094,10 @@
     },
     {
      "t": "p",
+     "x": "Language is a tool for classifying peoples, not an identity. The volume follows the language-based grouping of Ogot and Kiernan and says that language groups are the clearest convention for historians, though language does not fix identity. {{gha2-ch23}} A structural change can be evidence of contact: loss of final consonants in Malagasy is argued as a Bantu substratum, a strong inference from linguistics rather than a proof. {{gha2-ch28}}"
+    },
+    {
+     "t": "p",
      "x": "Swahili is the classic trap: some varieties have over 60 per cent of their vocabulary borrowed from Arabic, which would wrongly make it Semitic. {{gha1-diagne}}"
     },
     {
@@ -768,9 +1109,35 @@
      "x": "Greenberg's classification of 1949 to 1963 ended with four families: Niger-Kordofanian, Afro-Asiatic, Nilo-Saharan and Khoisan. {{gha1-greenberg}} His intermediate groups, such as Benue-Congo, Kwa and Gur, have never been adequately demonstrated, so treat them with reservation. {{gha1-greenberg}} [CONTESTED]"
     },
     {
+     "t": "p",
+     "x": "Blench's chapter in volume IX shows how Greenberg's scheme has been revised. About 2,139 African languages are spoken today, in four phyla plus Austronesian on Madagascar, with about 1537 in Niger-Congo, 206 in Nilo-Saharan and 318 African Afroasiatic ones. {{gha9-blench}} He says the unity of the first three phyla is generally accepted but lacks the proofs historians expect for Indo-European, that the unity of Khoisan swings back and forth, and that 'there remains much debate with a notable lack of consensus'. {{gha9-blench}} Meroitic, which Greenberg put in Nilo-Saharan on thin evidence, now seems to belong there (Rilly and de Voogt). {{gha9-blench}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Blench also argues that the Afroasiatic family did not spread out of the Near East, because almost all its diversity lies in sub-Saharan Africa, especially Ethiopia. {{gha9-blench}} He puts rough dates on the phyla from technology and climate: Nilo-Saharan about 12,000 years ago, Afroasiatic about 9000, Niger-Congo about 10,000 and Malagasy about 1500 years ago. {{gha9-blench}} Malagasy is Austronesian, near the Barito languages of Borneo, with Malay sea terms and loanwords from Bantu languages of the East African coast. {{gha9-blench}} Treat the dates as the author's correlations, not measurements. [CONTESTED]"
+    },
+    {
+     "t": "check",
+     "q": "Which statement about the four African language phyla is best supported by volume IX?",
+     "o": [
+      "All four are proven to the standard of Indo-European",
+      "Khoisan is certainly one single family",
+      "Greenberg's scheme has been entirely abandoned",
+      "Three widely accepted, proofs thinner",
+      "Afroasiatic spread out of the Near East"
+     ],
+     "a": 3,
+     "w": "Blench says the first three phyla are generally accepted by specialists, but authoritative proofs of the Indo-European kind are lacking, and Khoisan unity is debated. {{gha9-blench}}",
+     "kind": "application"
+    },
+    {
      "t": "callout",
      "k": "warn",
      "x": "Glottochronology assumes basic vocabulary changes at a fixed rate, with Swadesh's retention rate put at 81 to 85 per cent for each thousand years, but borrowing makes the results fall short. Mark any number of years derived from vocabulary percentages as an estimate. {{gha1-diagne}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Glottochronology is itself questioned, and the old chain from Guthrie's linguistics to archaeology to an evolutionary Fertile Crescent origin chimed too neatly. {{gha2-ch25}} For Madagascar, comparisons with Malay and within Malagasy dialects give dates from a little before to well into the first millennium AD, so the method gives no precise date; sea-route history must carry more weight. {{gha2-ch28}}"
     },
     {
      "t": "p",
@@ -795,6 +1162,22 @@
     {
      "t": "p",
      "x": "Blood-group studies show more variation within so-called races than between them: over 85 per cent of variation lies within nations and about 7 per cent between traditional races. {{gha1-diagne}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Oral chronology is mostly relative. Lists and genealogies are the only chronology most oral cultures keep, and the Hopi eyewitness said it was not well to count the years. Time is measured by recurrent nature (seasons and moons), by extraordinary events such as droughts or eclipses, by life spans, and by social events such as markets and initiations. {{vans6}}"
+    },
+    {
+     "t": "p",
+     "x": "Memory imposes epochs. In kingdoms events are placed in the reign of a ruler, so ruler's names attract inventions, and a reign-based date may be a memory device rather than a count. Anachronisms are common: memory can place events by a supposed migration line rather than by date, and can make events younger as well as older. A consistent sequence can still be a selection pattern, so test a list for consistency and for what it was meant to show. {{vans6}}"
+    },
+    {
+     "t": "p",
+     "x": "Regnal lists give relative order where each name links to the next, but versions show transposition, elision and lengthening. Averages cannot date a particular king: an average reign of 24.4 years in France from 987 to 1793 fits no single ruler, so the best practice is to allot three or four generations to a century. Synchronisms between rulers who met can also confuse dates that are far apart. {{vans6}}"
+    },
+    {
+     "t": "p",
+     "x": "Age-grade lists can give a chronology of about a century and a half when initiations recur at regular intervals, but a single date from writing is needed to anchor them. The conclusion for the dates section: oral traditions give a relative chronology except for the last century or so, and they are dated by written sources, archaeology, and astronomical or geological means. {{vans6}}"
     },
     {
      "t": "activity",
@@ -912,12 +1295,38 @@
      "x": "Africa's isolation by an 'inhospitable coast' is exaggerated. The Mediterranean coast served centuries of exchange, the Indian Ocean monsoons carried ships to and from East Africa every year, and the Atlantic was little used before the fifteenth century because sailing ships could not beat the southward trade winds. {{gha1-diarra}} [CONTESTED]"
     },
     {
+     "t": "p",
+     "x": "Pirenne's thesis (that the Arab conquests cut Mediterranean trade and left Carolingian Europe landlocked) is largely rejected, since long-distance trade did not drive the European economy as he said. {{gha3-ch1}} The role of the north in African diffusion is also exaggerated, because the south is little excavated: diffusion theories stay theories until the Sudd, Kordofan, Darfur, Chad and the Ethiopian approaches are studied. {{gha2-ch8}} Mauny's claim that the Arab conquest brought tropical Africa out of isolation is too strong: African societies were never isolated, and the conquest gave inter-African relations new momentum. {{gha3-ch27}}"
+    },
+    {
      "t": "h",
      "x": "The Sahara before the desert"
     },
     {
      "t": "p",
      "x": "No part of the Sahara has a stratigraphy good enough for a precise sequence, and apart from the Neolithic there are no absolute dates. By about 1000 before our era it was already desert. {{gha1-hugot}} [FIRM]"
+    },
+    {
+     "t": "p",
+     "x": "The dating of camels is disputed: some authors put their arrival in Africa in the first century CE, others argue an extinct species was there at the end of the Neolithic, and in the Sahara large-scale camel trade is an Islamic-period development. {{gha3-ch27}} {{gha3-ch28}}"
+    },
+    {
+     "t": "p",
+     "x": "Lezine's synthesis of pollen and lake records gives the climate frame for those dates. After the last Ice Age a surge of monsoon rain made large lakes and a river network in what is now desert, the African Humid Period, and tropical trees spread north into the Sahara around 10 ka. {{gha9-lezine}} Its start is argued: one marine study puts the onset around 14.8 ka in West Africa, while lake records elsewhere show wetter conditions earlier, so the 'abrupt' start is not agreed. {{gha9-lezine}} The end was a general drying with abrupt forest loss between 4.5 ka and 2.5 ka, and at Lake Bambili in Cameroon over half the forest disappeared about 3.3 ka. {{gha9-lezine}} Pollen also shows oil palm exploited from 4.15 ka, banana from 2.7 ka and pearl millet from 2.5 ka in the western Central African forest. {{gha9-lezine}} [PROBABLE]"
+    },
+    {
+     "t": "check",
+     "q": "A page says the Sahara dried up 'suddenly' about 5,000 years ago. What does Lezine's evidence suggest?",
+     "o": [
+      "It was sudden everywhere, with one date",
+      "Only the east of the Sahara changed",
+      "The Sahara never had lakes",
+      "The desert dried before the last Ice Age",
+      "It varied by place"
+     ],
+     "a": 4,
+     "w": "Lezine says the transition was abrupt or gradual depending on local conditions, with forest loss between 4.5 ka and 2.5 ka, so one sudden date does not fit. {{gha9-lezine}}",
+     "kind": "application"
     },
     {
      "t": "p",
@@ -930,7 +1339,15 @@
     },
     {
      "t": "p",
+     "x": "Stone tools do not date farming. Ground-stone axes appear among hunter-gatherer kits more than 7,000 years ago and were still used in the Zaire basin less than a thousand years ago, and hunters used pottery beside farmers, so 'Neolithic' is inconsistent in Africa. {{gha2-ch21}} Agriculture was not simply carried from south-west Asia: yams, one rice, sorghum and the oil palm were indigenous to West Africa. {{gha2-ch21}}"
+    },
+    {
+     "t": "p",
      "x": "Dhar Tichitt in south-east Mauritania is the clear exception: dry-stone villages with fortifications from about 2000 before our era, with millet grains showing that people ate millet from 1500 before our era. {{gha1-hugot}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Black Berbers of the Saharan oases: the Haratin are called 'black Berbers' by some, but their origin is debated and the label is contested. {{gha3-ch5}} In the same Sahara, camel breeders and route controllers took control of the desert over a few centuries, and the Berber-speaking peoples of the desert came to matter again as Muslim states wanted gold. {{gha3-ch28}}"
     },
     {
      "t": "p",
@@ -968,6 +1385,10 @@
     {
      "t": "p",
      "x": "Wheat and barley are winter-rain crops that cannot easily be grown south of the intertropical front, so West African cereals came from local grasses. Sorghum was domesticated by the first half of the second millennium before our era between the Sahara and the savanna from the Nile to Lake Chad, with pearl millet, finger millet and African rice following. {{gha1-shaw}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Crops also travelled out of Africa, and the spread of plants does not depend on people who first grew them moving: American crops spread through West and Central Africa after the sixteenth century, and Murdock's plant complex does not prove an Indonesian migration. {{gha3-ch1}}"
     },
     {
      "t": "table",
@@ -1009,6 +1430,58 @@
     {
      "t": "p",
      "x": "Crops also travelled out of Africa: millet and finger millet are attested archaeologically in India about 1000 years before our era. {{gha1-obenga}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Holl's chapter in volume IX updates the farming picture of volume I. At Nabta Playa in the eastern Sahara the sorghum stayed morphologically wild, so it shows people using and perhaps tending a wild grass, not yet a domestic crop. {{gha9-holl4}} Seed imprints in pottery at the Butana site KG23 in eastern Sudan, dated 3500 to 3000 BCE, are his clearest early evidence of domestic sorghum. {{gha9-holl4}} For cattle he reports the older view that herders between the Nile and Nabta domesticated local wild cattle early in the Holocene, then quotes Brass (2017) that modern DNA and the dates of sheep and goats mean the idea of an independent early centre should be abandoned, and notes that Brass does not explain cattle in the Acacus before 6500 BCE. {{gha9-holl4}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Di Lernia's chapter on pastoralism disagrees with the older picture of an independent African cattle centre. He says theories of independent domestication of cattle in Africa 'are no longer valid today', and that the most parsimonious reading of archaeology, bones and genes is an introduction of Bos taurus from south-west Asia around the mid-seventh millennium BCE. {{gha9-dilernia}} The earliest cattle and sheep or goats cluster in north-eastern Africa, with a cut-off date for small livestock around 6500 to 6200 BCE, and early domesticates at the Acacus sites from 6500 BCE. {{gha9-dilernia}} So the 'Andah' reading above, which treats Saharan cattle as earlier than those of the Nile Valley, and Holl's account of early cattle at Nabta, stand against a newer position. [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Di Lernia adds what herding meant. Herders entered regions already held by hunter-gatherers who persisted in North Africa until at least the mid-fifth millennium BCE. {{gha9-dilernia}} Stone monuments with buried cattle appear from about 5600 to 5400 BCE at Nabta Playa, the Messak plateau and the Air mountains, and milk residues on pottery at Takarkori show dairying. {{gha9-dilernia}} Rock art did not begin with herders either, since late Pleistocene engravings of aurochs at Qurta show earlier art. {{gha9-dilernia}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Huysecom's chapter dates the oldest African pottery. At Ounjougou on the Bandiagara plateau in Mali, sherds in the early Holocene layers of Ravin de la Mouche carry a terminus ante quem of 9400 BCE, found with small bifacial arrowheads, and he argues pottery was invented south of the Sahara and then spread to the Central and Eastern Sahara around 9000 BCE. {{gha9-huysecom}} He treats the Nile Valley as unresolved, because the dated sherds at Bir Kiseiba lack a clear stratigraphic link to the dates. {{gha9-huysecom}} He also warns that 'Neolithic' is used in two conflicting ways in Africa, either for any site with pottery or only for true food-production economies, so check which sense a source means. {{gha9-huysecom}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Archaeology under-records the plant foods a people ate, and the record of what survives favours hunting. {{gha2-ch26}} 'Khoisan' fuses Khoikhoi herders and San hunters, who shared a related language and technology but differed in way of life, and 'Hottentot' and 'Bushman' were colonial names. {{gha2-ch26}} Herders moved into regions already held by hunter-gatherers, and pottery is not the same as livestock: when sheep and pottery appear together, diffusion from outside is inferred, and that inference states its assumptions. {{gha2-ch26}} Salt-making is hard to identify, since the perforated colander pots of iron-age sites could serve for food as well as salt. {{gha2-ch29}} Blank patches on distribution maps show where digging has not happened, not an absence of people. {{gha2-ch27}}"
+    },
+    {
+     "t": "check",
+     "q": "A web page says Saharan herders invented cattle domestication independently, citing Nabta Playa. What does di Lernia's chapter say?",
+     "o": [
+      "That is now the settled view",
+      "Cattle were never kept in the Sahara",
+      "Not valid; cattle came from Asia",
+      "Only sheep were domesticated there",
+      "Nabta Playa has no cattle bones"
+     ],
+     "a": 2,
+     "w": "Di Lernia writes that theories of independent cattle domestication in Africa are no longer valid, and that the most likely route was an introduction from south-west Asia in the mid-seventh millennium BCE. {{gha9-dilernia}}",
+     "kind": "application"
+    },
+    {
+     "t": "p",
+     "x": "He gives dates for other crops. African rice is documented at Jenne-Jeno in layers of 300 to 200 BCE and at Dia in 800 to 700 BCE, the oldest black-eyed peas come from central Ghana at 1830 to 1595 BCE, and burned fonio and cowpea at Kerebe-Sira-Tomo 4 in Burkina Faso date from 1100 to 1200 CE. {{gha9-holl4}} Banana phytoliths from southern Cameroon date to 500 BCE and a core at Munsa in Uganda has banana phytoliths in a layer of 3500 BCE, which he says would force a rethink of tropical African farming 'if these data are confirmed'. {{gha9-holl4}} He also says the camel was domesticated on the Arabian Peninsula and reached North Africa under Roman rule. {{gha9-holl4}} [PROBABLE]"
+    },
+    {
+     "t": "check",
+     "q": "A page says bananas reached Africa only about 2,000 years ago with Austronesian settlers. What does Holl's chapter add?",
+     "o": [
+      "Nothing, because the claim is settled",
+      "Bananas are native to the Sahara",
+      "The oldest banana is from Madagascar",
+      "Older finds need confirming",
+      "Phytoliths cannot be dated"
+     ],
+     "a": 3,
+     "w": "Holl reports banana phytoliths of 500 BCE in Cameroon and of 3500 BCE at Munsa, and says the older finding must be confirmed before the origin story is rewritten. {{gha9-holl4}}",
+     "kind": "application"
     },
     {
      "t": "table",
@@ -1135,6 +1608,10 @@
     },
     {
      "t": "p",
+     "x": "The Nok tin hypothesis (that Nok's metal came from tin mines at Bauchi and reached the Nile valley) is a tempting but unsupported source of metal; Schaeffer argues that Egyptian tin came from Syria. {{gha2-ch4}} The Nok figurines are not the only early figurative clay work: the Upper Niger and Niger traditions of the sixth to tenth centuries show a series of local styles. {{gha3-ch28}}"
+    },
+    {
+     "t": "p",
      "x": "Some art historians see in the figurines the ancestry of Yoruba art 1,000 years later and 640 kilometres away. {{gha1-shaw}} Claims that the Nok were the ancestors of a named modern people, such as the Yoruba, are unproven. {{nok-breunig-2026}} [CONTESTED]"
     },
     {
@@ -1148,6 +1625,10 @@
     {
      "t": "p",
      "x": "West Africa was hardly touched by a Bronze Age: nearly 130 copper objects come from Mauritania, and Akjoujt copper dates to the fifth century before our era. {{gha1-shaw}} Iron ore, by contrast, is widespread: ferruginous laterite covers large areas of the savanna, while copper and tin were localised. {{gha1-mabogunje}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "Iron in West Africa did not follow the Near-East sequence of copper, bronze, then iron: sub-Saharan centres seem to go straight from stone to iron, and the dates may show Nok ironworking near 1000 BC. {{gha2-westafr}} Four schools explain the origin of iron, none proved: spread from the Nile (the older view), from North Africa by Phoenician or Saharan routes, an indigenous invention (Diop and Wai Andah), or Mediterranean links to Mauretania. The volume says West Africa has the earliest dates, so iron probably spread south and east from there. {{gha2-ch21}} Iron dates move with each find: East African iron that was dated about AD 1000 in the early 1960s is now at least 750 years earlier. {{gha2-ch21}} The Diop thesis for an indigenous origin is preferred by one chapter, though the debate remains open. {{gha3-ch27}}"
     },
     {
      "t": "table",
@@ -1196,6 +1677,14 @@
     },
     {
      "t": "p",
+     "x": "Three accounts of the Bantu origin disagree. Greenberg puts the source in the Nigeria-Cameroon border area; Guthrie puts it in the grasslands south of the Zaire forest, with a proto-Bantu who could forge iron and knew boats; Ehret favours a forest source before 1000 BC. Show all three and say the disagreement is open. {{gha2-ch21}} The proto-Bantu word for forest meant thicket, and words for fishing, canoe and forging suggest a proto-Bantu south of true forest who knew iron, but that is an inference from words, not proof. {{gha2-ch21}}"
+    },
+    {
+     "t": "p",
+     "x": "The Bantu language family is not a race, a tribe or an archaeological culture; 'the Bantu tribe' should not be written. Keep language, ethnicity and archaeology as three separate claims. {{gha2-ch25}}"
+    },
+    {
+     "t": "p",
      "x": "A dated language tree of 424 Bantu languages tied to three archaeological anchors puts the Bantu branch at about 4,800 years ago, the homeland in the savannah of north-western Cameroon, and the main line south-east along the edge of the rainforest, following savannah corridors. {{grollemund-001}} [PROBABLE]"
     },
     {
@@ -1209,6 +1698,45 @@
     {
      "t": "p",
      "x": "Bantu speech does not by itself mean ironworking: the Portuguese found Bubi speakers on Fernando Po who spoke a Bantu language yet did not know iron. {{gha1-olderogge}}"
+    },
+    {
+     "t": "p",
+     "x": "Early Bantu sites are identified mainly by pottery, not iron, because iron was too valuable to throw away; a site's identity can rest on a sherd. {{gha2-ch23}} Pottery is not diagnostic on its own: most Central African pottery cannot be told apart from earlier pottery, so only a few types count as iron age. {{gha2-ch25}} A word for iron does not prove the word came with iron: proto-Bantu forging words may be inherited, borrowed or shifted in meaning. {{gha2-ch25}}"
+    },
+    {
+     "t": "p",
+     "x": "The link between Bantu and iron is an open question. Slag at Katuruka dates to about 500-400 BC in radiocarbon years, and the volume suggests Bantu-speakers may have learned iron during the expansion rather than bringing it. Urewe pottery dates mostly fall between about AD 250 and 400, with one site earlier, and Urewe may be a homogeneous tradition with local variants. {{gha2-ch25}}"
+    },
+    {
+     "t": "p",
+     "x": "Holl's new synthesis in volume IX puts weight on climate and genes. Pollen records show the equatorial rainforest at its largest about 6,000 years ago, with a drop in rainfall about 4,000 years ago and a second shift to strong seasonality about 2,500 years ago, after which the forest shrank to scattered refuges and grassland spread. {{gha9-holl2}} On that evidence he argues there was no need to go round the forest, because it had largely gone. Y-chromosome and mitochondrial DNA from groups between the Nigeria-Cameroon border and the east and south do not support two branches that later met south of the forest, and the expanding Bantu speakers mixed with foragers on the way, which he calls demic diffusion. {{gha9-holl2}} Holl also notes the older argument was circular, since archaeologists leaned on linguists' reconstructions while linguists leaned on archaeologists' conclusions. {{gha9-holl2}} [PROBABLE]"
+    },
+    {
+     "t": "callout",
+     "k": "warn",
+     "x": "Holl's picture of one savannah frontier does not match the route in the language tree above, which follows the edge of the rainforest, and he writes that expansion began 4,000 years ago while the language tree above gives an older date for the Bantu branch. Treat the route and the date as [CONTESTED] between these two approaches. Holl also writes that the iron-metallurgy hypotheses in the 1981 volume I chapter are 'largely obsolete'. {{gha9-holl2}}"
+    },
+    {
+     "t": "p",
+     "x": "Holl's review of volume I tells you which of its claims have not lasted. Its introduction says centuries of slave trading kept population density below the level at which 'civilization' could appear, but Holl replies that complex societies and urbanism are now documented in West Africa from 2000 BCE and that bananas in southern Cameroon about 500 BCE show the equatorial forest was not a barrier. {{gha9-holl3}} He calls Huard's link between the Sao of the Chad basin and cultures out to the Nile 'inaccurate', and he calls the Central African stone-age chapters' pluvial chronology 'completely obsolete' by the early 1980s. {{gha9-holl3}} He also notes that Sutton's pan-African 'aqualithic civilization' of Nilo-Saharan speakers is particularly controversial. {{gha9-holl3}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "On iron, the volume I chapter on West Africa reports iron smelting at Taruga in central Nigeria and on Niger mounds from the fifth to third centuries BCE and says it seems to have come from Carthaginian North Africa, while the Nile chapter treats Meroe as the source of sub-Saharan iron. {{gha9-holl3}} Holl's verdict is that the iron hypotheses of volume I are largely obsolete, so cite those origin stories as 1981 positions, not results. {{gha9-holl3}} [CONTESTED]"
+    },
+    {
+     "t": "check",
+     "q": "A web page cites the 1981 UNESCO volume I to say West African ironworking came from Carthage. What is the best response?",
+     "o": [
+      "A 1981 hypothesis, largely obsolete",
+      "Accept it, since UNESCO published it",
+      "Treat it as proven by the Taruga dates",
+      "Replace it with the claim that iron came from Meroe",
+      "Reject all dates from Taruga as invented"
+     ],
+     "a": 0,
+     "w": "Holl records the Carthage origin as a volume I suggestion and judges the volume's iron hypotheses largely obsolete, so the claim needs newer evidence. {{gha9-holl3}}",
+     "kind": "application"
     },
     {
      "t": "table",
@@ -1258,6 +1786,10 @@
      "t": "callout",
      "k": "warn",
      "x": "Bantu is a language family, not a race or a tribe. Never write 'the Bantu tribe'. A 'Bantu myth' could grow as the Hamitic myth did. {{gha3-bantu}}"
+    },
+    {
+     "t": "p",
+     "x": "Language, ethnicity and archaeology must be kept apart in any lesson on the Bantu. {{gha2-ch25}}"
     },
     {
      "t": "check",
@@ -1336,6 +1868,10 @@
     },
     {
      "t": "p",
+     "x": "Mud building is local: the McIntoshes show mud-wall building at Jenne-Jeno before any contact with the north, and the sun-brick at Tegdaoust and Kumbi Saleh is treated as contemporary with Islamic contact. {{gha3-ch28}}"
+    },
+    {
+     "t": "p",
      "x": "One popular account gives a main mound of 33 hectares, 25 satellite mounds making 69 hectares in all, and up to about 27,000 people around AD 800, with a mud-brick wall 3.6 m thick at the base and no sign of a ruling elite. {{rd-jj}} The population is an estimate, so keep it as a range [CONTESTED]."
     },
     {
@@ -1347,9 +1883,43 @@
      "x": "The McIntoshes argue for heterarchy, meaning power spread across specialist groups, rather than a single state. {{mcintosh-rwe}} {{standen-jj}} Population figures and the exact chronology remain debated."
     },
     {
+     "t": "p",
+     "x": "The Inland Niger Delta had rice (Oryza glaberrima, attested by excavation at Jenne-Jeno), though whether it was irrigated or dry rice is unknown; the Fulani spread from present-day Senegal, probably from the eleventh century, perhaps with zebu cattle. {{gha3-ch28}}"
+    },
+    {
+     "t": "p",
+     "x": "Holl, in volume IX, suggests three ways to read the missing signs of rank at Jenne-Jeno, a site of about 40 ha that was tested only in small units. It may have been a politically small place without prestigious office-holders, a booming trade town at the junction of river and desert transport, or both, in which case the excavated sample is too small. {{gha9-holl5}} He adds that rich burial mounds of the eighth to twelfth century lie near the Niger floodplain, so rank existed in the region even if it is not found in the town. {{gha9-holl5}} He dates Dia to 800 BCE and Jenne-Jeno to the third century BCE. {{gha9-holl5}} [CONTESTED]"
+    },
+    {
+     "t": "p",
+     "x": "Dembele's survey shows how crowded the delta was. Between 1989 and 1991 the Togue project recorded 834 anthropogenic mounds, ancient village sites, in a diamond of nearly 2,000 square kilometres around Djenne, Kouakourou, Mopti and Sofara, an average of 2.8 km apart, against over 6 km between villages today. {{gha9-dembele}} He says 65 mounds lie within 4 km of Djenne, and reads the delta as a refuge for people leaving the drying southern Sahara. {{gha9-dembele}} Metal traces appear in the first settlements at Dia, at the end of the ninth century BCE, and at Jenne-Jeno in the third century BCE. {{gha9-dembele}} [PROBABLE]"
+    },
+    {
+     "t": "p",
+     "x": "The neighbouring Mema region, of nearly 10,000 square kilometres, was an iron-producing province, and the largest site at Boulel has over 500 low-shaft furnaces, a scale Haaland calls industrial. {{gha9-dembele}} Dembele argues this iron and grain economy fed the rise of Ghana and Mali, and he says Ghana emerged in the sixth century, a date that is his and not a settled one. {{gha9-dembele}} [CONTESTED]"
+    },
+    {
+     "t": "check",
+     "q": "A student says 'there was nothing in the Niger delta before Ghana and Mali'. What does Dembele's survey show?",
+     "o": [
+      "He agrees, since the delta was empty",
+      "Settlement began with Mali",
+      "Only Jenne-Jeno existed there",
+      "The mounds are all modern",
+      "Earlier mounds show dense settlement"
+     ],
+     "a": 4,
+     "w": "The Togue survey recorded 834 mounds in a diamond of nearly 2,000 square kilometres, a very dense settlement system that predates the great empires. {{gha9-dembele}}",
+     "kind": "application"
+    },
+    {
      "t": "callout",
      "k": "key",
      "x": "Jenne-jeno is the standard counter to two old assumptions: that cities need kings, and that African cities needed Arab or Mediterranean trade to appear."
+    },
+    {
+     "t": "p",
+     "x": "Trade made new aspects of power: control of gold, copper and iron mattered, and political history follows economic change more than ideology, which supplied the justifications. {{gha3-ch28}}"
     },
     {
      "t": "h",

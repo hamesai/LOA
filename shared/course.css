@@ -219,7 +219,24 @@ ol.road { margin: 0; padding-left: 1.5rem; display: grid; gap: 0.5rem; }
 /* Home: continue card, backup card, glossary. */
 .continue, .backup-card, .glossary { margin: 1.25rem 0; }
 .continue .lsearch-list { max-width: 60rem; }
-.gloss-row { border-bottom: 1px solid var(--line); padding: 0.6rem 0; display: grid; gap: 0.25rem; }
-.gloss-row p { color: var(--muted); font-size: 0.92rem; line-height: 1.45; margin: 0; }
-.glossary input[type="search"] { max-width: 28rem; margin: 0.5rem 0; }
-#gloss-list { max-height: 70vh; overflow: auto; }
+/* Glossary: letter groups of cards, an A to Z strip, highlighted matches and short module chips. */
+.glossary .dd-note { margin: 0 0 0.6rem; }
+.glossary input[type="search"] { width: 100%; max-width: 34rem; margin: 0 0 0.8rem; }
+#cgloss-list { padding-bottom: 1rem; }
+.gl-meta { margin: 0 0 0.5rem; font: 500 0.78rem var(--f-mono); color: var(--muted); letter-spacing: 0.04em; }
+.gl-az { display: flex; flex-wrap: wrap; gap: 0.25rem; margin: 0 0 0.4rem; }
+.gl-az button { font: 600 0.78rem var(--f-mono); min-width: 1.9rem; padding: 0.2rem 0.4rem; border: 1px solid var(--line); background: var(--bg); color: var(--ink); border-radius: 6px; cursor: pointer; }
+.gl-az button:hover, .gl-az button:focus-visible { border-color: var(--accent); color: var(--accent); }
+.gl-letter { margin: 1.1rem 0 0.5rem; font: 600 1.05rem var(--f-display); color: var(--accent); display: flex; align-items: center; gap: 0.6rem; scroll-margin-top: 4.5rem; }
+.gl-letter::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+.gl-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 21rem), 1fr)); gap: 0.6rem; }
+.gl-card { background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 0.65rem 0.8rem; display: grid; gap: 0.3rem; align-content: start; }
+.gl-term { margin: 0; font: 600 0.98rem var(--f-display); }
+.gl-def { margin: 0; color: var(--muted); font-size: 0.9rem; line-height: 1.45; }
+.gl-term mark, .gl-def mark { background: color-mix(in srgb, var(--accent) 22%, transparent); color: inherit; border-radius: 2px; padding: 0 0.05em; }
+.gl-refs { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.15rem; }
+.gl-chip { font: 500 0.72rem var(--f-mono); padding: 0.1rem 0.55rem; border: 1px solid var(--line); border-radius: 999px; background: var(--panel); color: var(--accent); cursor: pointer; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.gl-chip:hover, .gl-chip:focus-visible { border-color: var(--accent); }
+.gl-chip.plain { cursor: default; color: var(--muted); }
+.gl-chip.plain:hover { border-color: var(--line); }
+.gl-more { color: var(--muted); }

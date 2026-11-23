@@ -3,8 +3,8 @@
 
 Source: General History of Africa, vol. VI: Africa in the Nineteenth Century until the 1880s by UNESCO; ed. J. F. Ade Ajayi. Format txt, 432,113 words in 33 sections, ingested from `vi-split.txt`.
 Provenance: added 04/11/2026, found by Source Discovery, from https://unesdoc.unesco.org/ark:/48223/pf0000184295.
-Status: partial
-Coverage: 9 of 33 sections read in full (26% of words), 7 skipped on purpose, 17 unread.
+Status: complete
+Coverage: 26 of 33 sections read in full (78% of words), 7 skipped on purpose, 0 unread.
 Reading method: served in order by `source_read.py`, which records a chapter as read only when its last chunk has been served.
 Warnings from ingestion: Text layer of a born-digital UNESCO PDF extracted with pdftotext (no OCR). The 'poor quality' flag from ingestion is a false alarm: letters of small-capital words are spaced ('T h e'), accents sometimes show as a replacement character, and plate captions and figure labels appear as noise. Check figures against the printed page before quoting.
 
@@ -18,30 +18,30 @@ Warnings from ingestion: Text layer of a born-digital UNESCO PDF extracted with 
 | ch-004.txt | Chapter 3: New trends and processes in Africa in the nineteenth century | 11244 | read |
 | ch-005.txt | Chapter 4: The abolition of the slave trade | 13020 | read |
 | ch-006.txt | Chapter 5: The Mfecane and the rise of new African states | 17821 | read |
-| ch-007.txt | Chapter 6: The impact of the Mfecane on the Cape Colony | 10167 | unread |
-| ch-008.txt | Chapter 7: The British, Boers and Africans in South Africa, 1850-80 | 20227 | unread |
-| ch-009.txt | Chapter 8: The countries of the Zambezi basin | 12562 | unread |
-| ch-010.txt | Chapter 9: The East African coast and hinterland, 1800-45 | 10636 | unread |
-| ch-011.txt | Chapter 10: The East African coast and hinterland, 1845-80 | 16736 | unread |
-| ch-012.txt | Chapter 11: Peoples and states of the Great Lakes region | 9842 | unread |
-| ch-013.txt | Chapter 12: The Congo Basin and Angola | 12339 | unread |
+| ch-007.txt | Chapter 6: The impact of the Mfecane on the Cape Colony | 10167 | read |
+| ch-008.txt | Chapter 7: The British, Boers and Africans in South Africa, 1850-80 | 20227 | read |
+| ch-009.txt | Chapter 8: The countries of the Zambezi basin | 12562 | read |
+| ch-010.txt | Chapter 9: The East African coast and hinterland, 1800-45 | 10636 | read |
+| ch-011.txt | Chapter 10: The East African coast and hinterland, 1845-80 | 16736 | read |
+| ch-012.txt | Chapter 11: Peoples and states of the Great Lakes region | 9842 | read |
+| ch-013.txt | Chapter 12: The Congo Basin and Angola | 12339 | read |
 | ch-014.txt | Chapter 13: The renaissance of Egypt, 1805-81 | 14610 | skipped: chapters 13, 17, 18 and 19, nineteenth-century Egypt and the Maghrib: outside the eight modules |
-| ch-015.txt | Chapter 14: The Sudan in the nineteenth century | 8190 | unread |
-| ch-016.txt | Chapter 15: Ethiopia and Somalia | 16167 | unread |
-| ch-017.txt | Chapter 16: Madagascar 1800-80 | 15189 | unread |
+| ch-015.txt | Chapter 14: The Sudan in the nineteenth century | 8190 | read |
+| ch-016.txt | Chapter 15: Ethiopia and Somalia | 16167 | read |
+| ch-017.txt | Chapter 16: Madagascar 1800-80 | 15189 | read |
 | ch-018.txt | Chapter 17: New trends in the Maghrib: Algeria, Tunisia and Libya | 13611 | skipped: chapters 13, 17, 18 and 19, nineteenth-century Egypt and the Maghrib: outside the eight modules |
 | ch-019.txt | Chapter 18: Morocco from the beginning of the nineteenth century to 1880 | 8213 | skipped: chapters 13, 17, 18 and 19, nineteenth-century Egypt and the Maghrib: outside the eight modules |
 | ch-020.txt | Chapter 19: New patterns of European intervention in the Maghrib | 8116 | skipped: chapters 13, 17, 18 and 19, nineteenth-century Egypt and the Maghrib: outside the eight modules |
 | ch-021.txt | Chapter 20: The Sahara in the nineteenth century | 9721 | read |
 | ch-022.txt | Chapter 21: The nineteenth-century Islamic revolutions in West Africa | 10027 | read |
 | ch-023.txt | Chapter 22: The Sokoto caliphate and Borno | 22598 | read |
-| ch-024.txt | Chapter 23: Massina and the Torodbe empire until 1878 | 17717 | unread |
-| ch-025.txt | Chapter 24: States and peoples of Senegambia and Upper Guinea | 13113 | unread |
-| ch-026.txt | Chapter 25: States and peoples of the Niger Bend and the Volta | 16590 | unread |
-| ch-027.txt | Chapter 26: Dahomey, Yorubaland, Borgu and Benin in the nineteenth century | 11053 | unread |
-| ch-028.txt | Chapter 27: The Niger delta and the Cameroon region | 11582 | unread |
-| ch-029.txt | Chapter 28: The African diaspora | 11166 | unread |
-| ch-030.txt | Chapter 29: Conclusion: Africa on the eve of the European conquest | 10464 | unread |
+| ch-024.txt | Chapter 23: Massina and the Torodbe empire until 1878 | 17717 | read |
+| ch-025.txt | Chapter 24: States and peoples of Senegambia and Upper Guinea | 13113 | read |
+| ch-026.txt | Chapter 25: States and peoples of the Niger Bend and the Volta | 16590 | read |
+| ch-027.txt | Chapter 26: Dahomey, Yorubaland, Borgu and Benin in the nineteenth century | 11053 | read |
+| ch-028.txt | Chapter 27: The Niger delta and the Cameroon region | 11582 | read |
+| ch-029.txt | Chapter 28: The African diaspora | 11166 | read |
+| ch-030.txt | Chapter 29: Conclusion: Africa on the eve of the European conquest | 10464 | read |
 | ch-031.txt | Biographies of authors (back matter, not chapter text) | 1029 | skipped: author biographies, bibliography and index (about 50,000 words): reference apparatus, not argument |
 | ch-032.txt | CHAPTER 22 CHAPTER 23 CHAPTER 24 C H A P T E R 25 CHAPTER 26 CHAPTER 27 | 26 | skipped: author biographies, bibliography and index (about 50,000 words): reference apparatus, not argument |
 | ch-033.txt | Biographies of authors (back matter, not chapter text) | 49290 | skipped: author biographies, bibliography and index (about 50,000 words): reference apparatus, not argument |
@@ -111,4 +111,40 @@ Warnings from ingestion: Text layer of a born-digital UNESCO PDF extracted with 
 - **note** (ch-023 chunk 6 (Last, Borno conclusion)): Last's comparison: Borno relied on slaves and friends to centralise, Sokoto had to delegate to mujahidun and murabitun who formed lineages; Borno became a supplier of raw materials to the caliphate economy. Module 4 can use this to explain why the two states diverged.
 - **note** (ch-021 chunk 1 (Baier, nomad society)): Baier: desert society was segmentary, with aristocratic warrior lineages over subordinate free groups and servile workers; kinship and residence both organised allegiance. Useful for Module 4 Sahel and Sahara comparisons.
 
-Totals: 0 confirmed, 9 refined, 1 contradicted, 27 extended, 0 absent, 17 note.
+### africa-pre-colonial-7
+
+- **extended** (Chapter 6 whole): Mfecane at the Cape: frontier, 1820 settlers, refugee apprenticeship, Mbholompo, Mfengu myth and 1835 trek; Zwide date clash 1818 vs 1819-20
+- **extended** (Chapter 7 whole): Why the Zulu war came (federation, ultimatum, Ulundi 7 vs 4 July clash, thirteen chiefdoms, Atmore-Marks), Lesotho 1848-81 and Gun War, cattle-killing, Natal and Boer rule of Africans, Makapane estimate
+- **extended** (Chapter 8 whole): Slave and ivory states north of the Zambezi, Gaza/Ngoni/Kololo, Lozi 1864 rising, evidence caveats (second-hand 1861 report, Lozi quarter estimate)
+
+### africa-pre-colonial-6
+
+- **extended** (Chapter 9 whole): Said and Zanzibar 1800-45: coast autonomy, Mombasa 1837, treaties (1833 vs 1837 clash; 1728 vs 1729), cloves, Asian financiers, slave-number estimates 2500-20000; caravans begun by Africans, kaya, Islam and Kiswahili
+- **extended** (Chapter 10 whole): Slave trade 1845-80 (figures flagged exaggerated, Hamerton 1845 vs 1847), Europeans and missions, four routes, Mirambo vs Nyungu, mountain kingdoms, Ngoni in Tanzania, Maasai epidemics
+- **extended** (Chapter 11 whole): Lakes states as arenas of conflict: Mabira exile, long reigns, extraction and defensive surpluses, trade circuits, Bunyoro vs Buganda, Nyabingi; evidence hedging
+- **extended** (Chapter 12 whole): West Central Africa 1800-80: production not only trade, shaky population figures (Ovimbundu 14x gap), four trading zones, slavery after 1850s, Portuguese pendulum 1862-75, Lunda/Luba/Msiri, date clashes (retreat end 1872/1875; Msiri 1885/1850s)
+- **extended** (Chapter 16 whole): Madagascar 1800-80: Radama I treaty and army, Ranavalona I contested record, Radama II overthrow, Rainilaiarivony, conversion 1869, codes, Makoa freed 1877, date clashes (1777/1785, 1817/1847)
+
+### africa-pre-colonial-2
+
+- **extended** (Chapter 14 whole): Turkiyya 1821-85: welfare vs exploitation readings, raids and taxes, southern resistance, Ismail's Equatoria, Baker/Gordon date clash, internal tension on slave raiding
+- **extended** (Chapter 15 whole): Masafent, Tewodros reforms and fall, Napier expedition, Yohannes IV and Gundat/Gura, Menelik 1878 accord, Horn polities; source-reliance caveat on British papers
+
+### africa-pre-colonial-4
+
+- **extended** (Chapter 23 whole): Massina dina, Hamdallahi, al-Hajj Umar's jihad and army, Tijani Alfa, Ahmadu; dating slips (Woitala/Nioro, Sansanding 1860), disciples' hagiography vs Mage, French not primary aim
+- **extended** (Chapter 24 whole): Senegambia and Upper Guinea 1800-80: gum/groundnuts, Diile 1830, Lat Dior, Maba and Siin, Futa Jallon compromise 1799 and Hubbu, Kru and Grebo, Samori and the Joola revolution; Vai script 1818 vs 1833 clash
+- **extended** (Chapter 25 Mossi and Volta): Mossi civil wars, Zamberma, village democracies, Liptako, Segu and Kaarta decay, slave trade growth with weak figures, Salaga, Dagomba tribute 1744 vs 1794 clash
+
+### africa-pre-colonial-5
+
+- **extended** (Chapter 25 Asante and Fante): Asante 1800-96, Maclean, poll tax 8 per cent, Fante Confederation, Fomena 1874, classification contested (Wilks)
+- **extended** (Chapter 26 whole): Mono-Niger region: Oyo decline 1774-1835, Yoruba wars, Dahomey independence and Ajanaku story, Benin shrinking, Anglo-French rivalry, Saros and Brazilians
+- **extended** (Chapter 27 whole): Delta, Cross River and Cameroon 1800-90: Itsekiri/Warri, Houses and Ekine, Dike slave-revolt thesis contested, Aro expedition anticlimax, Calabar Ekpe grades and Bloodmen, Duala/Bimbia, Gabon treaties
+
+### africa-pre-colonial-8
+
+- **extended** (Chapter 28 whole): Diaspora: eastern arena, Europe, imports vs populations (Table 28.2 arithmetic), internal inconsistencies (5.8/8.0, 36/43, 3.0/2.2 million), Cuffe 1814 vs 1815, return to Africa small
+- **extended** (Chapter 29 whole): Ajayi conclusion: reform thesis, professional warriors and guns, slave shares 25-50 per cent, free trade and debt commissions, Brussels Act arms limits, legacy of wars
+
+Totals: 0 confirmed, 9 refined, 1 contradicted, 45 extended, 0 absent, 17 note.
